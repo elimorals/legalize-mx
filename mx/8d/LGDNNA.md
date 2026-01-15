@@ -4,7 +4,7 @@ identifier: "LGDNNA"
 country: "mx"
 rank: "ley_general"
 publication_date: "2014-12-04"
-last_updated: "2024-12-24"
+last_updated: "2026-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103786&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,2806 +20,1324 @@ abbreviation: "LGDNNA"
 ---
 # LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
+LEY DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2014.
 
-Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 4 de diciembre de 2014.
+Ley publicada en el número Extra del Periódico Oficial del Estado de Oaxaca, el viernes 30 de agosto del año 2013.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Presidencia de la República.
+LIC. GABINO CUÉ MONTEAGUDO, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA, A SUS HABITANTES HACE SABER:
 
-ENRIQUE PEÑA NIETO, Presidente de los Estados Unidos Mexicanos, a sus habitantes sabed:
+QUE LA LEGISLATURA DEL ESTADO, HA TENIDO A BIEN APROBAR LO SIGUIENTE:
 
-Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente
+DECRETO NÚM. 2037
 
-DECRETO
+LA SEXAGÉSIMA PRIMERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA,
 
-“EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
+D E C R E T A:
 
-SE EXPIDE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, Y SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL.
+LEY DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE OAXACA
 
-###### ARTÍCULO PRIMERO.
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-Se expide la Ley General de los Derechos de Niñas, Niños y Adolescentes.
-
-LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
-
-## TÍTULO PRIMERO. De las Disposiciones Generales
-
-### Capítulo Primero. Del Derecho a la Vida, a la Paz, a la Supervivencia y al Desarrollo
+### CAPÍTULO ÚNICO
 
 ###### Artículo 1.
 
-La presente Ley es de orden público, interés social y observancia general en el territorio nacional, y tiene por objeto:
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2019)</small>
-
-I. Reconocer a niñas, niños y adolescentes como titulares de derechos, con capacidad de goce de los mismos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad; en los términos que establece el artículo 1o. de la Constitución Política de los Estados Unidos Mexicanos;
-
-II. Garantizar el pleno ejercicio, respeto, protección y promoción de los derechos humanos de niñas, niños y adolescentes conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales de los que el Estado mexicano forma parte;
-
-III. Crear y regular la integración, organización y funcionamiento del Sistema Nacional de Protección Integral de los Derechos de Niñas, Niños y Adolescentes, a efecto de que el Estado cumpla con su responsabilidad de garantizar la protección, prevención y restitución integrales de los derechos de niñas, niños y adolescentes que hayan sido vulnerados;
-
-> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2017)</small>
-
-IV. Establecer los principios rectores y criterios que orientarán la política nacional en materia de derechos de niñas, niños y adolescentes, así como las facultades, competencias, concurrencia y bases de coordinación entre la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México; y la actuación de los Poderes Legislativo y Judicial, y los organismos constitucionales autónomos, y
-
-V. Establecer las bases generales para la participación de los sectores privado y social en las acciones tendentes a garantizar la protección y el ejercicio de los derechos de niñas, niños y adolescentes, así como a prevenir su vulneración.
+La presente Ley es de orden público e interés social y reglamentaria de los artículos 59 fracciones XXII y XXIII, y 65 BIS de la Constitución Política del Estado Libre y Soberano de Oaxaca, tiene por objeto regular la revisión y fiscalización superior de la Cuenta Pública del Estado y de los Municipios de Oaxaca, así como su gestión financiera, estableciendo las bases para la organización, procedimientos y funcionamiento de la Auditoría Superior del Estado de Oaxaca.
 
 ###### Artículo 2.
 
-Para garantizar la protección de los derechos de niñas, niños y adolescentes, las autoridades realizarán las acciones y tomarán medidas, de conformidad con los principios establecidos en la presente Ley. Para tal efecto, deberán:
+Para los efectos de esta Ley, se entenderá por:
 
-I. Garantizar un enfoque integral, transversal y con perspectiva de derechos humanos en el diseño y la instrumentación de políticas y programas de gobierno;
+I. Auditoría: A la Auditoría Superior del Estado de Oaxaca, como Órgano Técnico del Honorable Congreso del Estado Libre y Soberano de Oaxaca;
 
-II. Promover la participación, tomar en cuenta la opinión y considerar los aspectos culturales, éticos, afectivos, educativos y de salud de niñas, niños y adolescentes, en todos aquellos asuntos de su incumbencia, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez, y
+II. Auditorías al Desempeño: Aquellas que tienen por objeto la verificación del cumplimiento de los objetivos contenidos en los programas federales, estatales y municipales, mediante la estimación o cálculo de los resultados obtenidos en términos cualitativos y/o cuantitativos;
 
-III. Establecer mecanismos transparentes de seguimiento y evaluación de la implementación de políticas, programas gubernamentales, legislación y compromisos derivados de tratados internacionales en la materia.
+III. Auditorías Especiales: Aquellas que tienen por objeto la revisión de los procedimientos y acciones que realiza la Administración Pública Estatal y Municipal para la creación y desincorporación, en sus diferentes modalidades, de empresas de participación estatal mayoritaria, fideicomisos, Organismos Descentralizados, Concesiones, Permisos, Licencias, Autorizaciones, y Cesión de Derechos, Apoyos para Saneamiento Financiero, Órganos Autónomos, Mandatos, Centricidad, Deuda Pública, Servicios Financieros de Fomento, Servicio Exterior y Estímulos Fiscales. También se analiza y evalúa la ejecución de programas de apoyo financiero, la canalización de recursos por la vía de subsidios y transferencias, el otorgamiento de permisos y concesiones para el desarrollo de programas o proyectos prioritarios y eventualmente, problemas estructurales u operaciones singulares atípicas de la Administración Pública Estatal o Municipal.
 
-> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2019)</small>
+IV. Auditorías de Regularidad: Aquellas auditorías, diferentes a las especiales y de desempeño, que nos permiten verificar la captación, administración y ejercicio de los recursos públicos, que los entes públicos se han sujetado a la normativa aplicable; que existen y son efectivos los controles internos y que el registro de operaciones se ha realizado conforme a las reglas establecidas. De manera enunciativa se clasifican en financieras, de cumplimiento normativo o de legalidad, de inversiones físicas y de sistemas;
 
-El interés superior de la niñez deberá ser considerado de manera primordial en la toma de decisiones sobre una cuestión debatida que involucre niñas, niños y adolescentes. Cuando se presenten diferentes interpretaciones, se atenderá a lo establecido en la Constitución y en los tratados internacionales de que México forma parte.
+V. Auditor Superior: Al Auditor Superior del Estado, Titular de la Auditoría Superior del Estado de Oaxaca;
 
-Cuando se tome una decisión que afecte a niñas, niños o adolescentes, en lo individual o colectivo, se deberán evaluar y ponderar las posibles repercusiones a fin de salvaguardar su interés superior y sus garantías procesales.
+VI. Código: Al Código de Procedimientos Administrativos de la Auditoría Superior del Estado de Oaxaca;
 
-> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+VII. Comisión: A la Comisión Permanente de Vigilancia de la Auditoria Superior del Estado de Oaxaca;
 
-Las autoridades de la Federación, de las entidades federativas, de los municipios y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus competencias, deberán incorporar en sus proyectos de presupuesto la asignación de recursos que permitan dar cumplimiento a las acciones establecidas por la presente Ley.
+VIII. Congreso: Al Honorable Congreso del Estado Libre y Soberano de Oaxaca;
 
-> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+IX. Constitución Local: A la Constitución Política del Estado Libre y Soberano de Oaxaca;
 
-La Cámara de Diputados del Congreso de la Unión, los Congresos locales y la Legislatura de la Ciudad de México, establecerán en sus respectivos presupuestos, los recursos que permitan dar cumplimiento a las acciones establecidas por la presente Ley.
+X. Cuentas Públicas: El informe que los Poderes del Estado y los entes públicos estatales rinden al Congreso de manera consolidada a través del Ejecutivo Estatal, así como el que rinden los Municipios y los entes públicos municipales a través de aquellos, a efecto de comprobar que la recaudación, administración, manejo, custodia y aplicación de los ingresos y egresos estatales y municipales durante el ejercicio fiscal comprendido del 1 de enero al 31 de diciembre de cada año, se ejercieron en los términos de las disposiciones legales y administrativas aplicables, conforme a las normas de información financiera y con base en los programas aprobados;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+XI. Ejecutivo Estatal: Al titular del Poder Ejecutivo del Estado de Oaxaca;
+
+XII. Entes Públicos Estatales: A los órganos autónomos, a las personas de derecho público de carácter estatal autónomas por disposición legal y demás órganos que determinen las leyes y ejerzan recursos públicos;
+
+XIII. Entes Públicos Municipales: A los organismos públicos descentralizados de los Municipios y demás órganos que determinen las leyes y ejerzan recursos públicos;
+
+XIV. Entidades fiscalizables: A los sujetos a que se refiere el artículo 3 de la presente Ley;
+
+XV. Fiscalización: A la facultad de la Auditoria Superior del Estado de Oaxaca, de revisar y evaluar las cuentas públicas, la gestión financiera, la documentación comprobatoria y justificativa, así como cualquier información relacionada con la captación, recaudación, manejo, administración, resguardo, custodia, ejercicio y aplicación de recursos, fondos, bienes o valores públicos;
+
+XVI. Fondo: Al fondo para el fortalecimiento de la Fiscalización;
+
+XVII. Gestión Financiera: A la actividad de las entidades fiscalizables, respecto de la administración, manejo, custodia y aplicación de los ingresos, egresos, fondos, deuda pública y en general de los recursos públicos que éstos utilicen en el periodo del 1 de enero al 31 de diciembre para la ejecución de los objetivos contenidos en los programas estatales y municipales aprobados, en el periodo que corresponde a un ejercicio fiscal, sujeto a la revisión posterior del Congreso, a través de la Auditoría, a fin de verificar que dicha gestión se ajusta a las disposiciones legales reglamentarias y administrativas aplicables, así como el cumplimiento de los programas señalados;
+
+XVIII. Informe de Auditoría: Al documento elaborado por la Auditoría Superior del Estado de Oaxaca, en el cual se determinan y establecen los resultados derivados de la revisión y fiscalización de las Cuentas Públicas y la Gestión Financiera, y se incorpora la información significativa acumulada en forma ordenada respecto de las actividades y operaciones auditadas;
+
+XIX. Informe de Avance: Al informe de Avance de Gestión Financiera, que como parte integrante de las Cuentas Públicas, rinden los Poderes del Estado y los entes públicos estatales de manera consolidada, a través del Ejecutivo Estatal, así como el que rinden los Municipios y sus entes públicos de manera consolidada, al Congreso, sobre los avances físicos y financieros y el cumplimiento de los objetivos contenidos en los programas estatales y municipales aprobados;
+
+XX. Informes de Resultados: Al informe de resultados de la revisión y fiscalización de las Cuentas Públicas que emite la Auditoria Superior del Estado de Oaxaca;
+
+XXI. Municipios: A la totalidad de los que integran el Estado de Oaxaca, cuya administración está a cargo de los Ayuntamientos, Concejos Municipales o Encargados de la Administración Municipal, de conformidad con la Constitución Política del Estado Libre y Soberano de Oaxaca y demás disposiciones aplicables;
+
+XXII. Normas de Auditoría: A los requisitos mínimos de calidad que debe cumplir los auditores en general de la Auditoria Superior del Estado de Oaxaca, relativos a la actividad que desempeñan en el ejercicio de sus funciones, y a la información que rinden como resultado de su trabajo;
+
+XXIII. Observaciones: También denominadas hallazgos de auditoría, incorporan y determinan la información significativa acumulada en forma ordenada respecto de las actividades y operaciones auditadas que presenten deficiencias o posibilidades de mejora importantes. Sus atributos son la condición, el criterio, el efecto y la causa;
+
+XXIV. Órganos internos de control: A las autoridades administrativas de las dependencias y entidades de los Poderes del Estado, Municipios y órganos autónomos que ejerzan o realicen funciones de vigilancia, de supervisión y fiscalización de acuerdo a la Ley que los rige. En los Municipios que carezcan de un órgano expreso, estas funciones se llevarán a cabo por el Síndico Municipal;
+
+XXV. Órganos Autónomos: A los Órganos autónomos del Estado, cuya autonomía les confiere la Constitución Política del Estado Libre y Soberano de Oaxaca;
+
+XXVI. Poderes del Estado: A los poderes ejecutivo, legislativo y judicial, reconocidos en la Constitución Política del Estado Libre y Soberano de Oaxaca;
+
+XXVII. Procedimientos de Auditoría: Al conjunto de técnicas de investigación aplicables a una partida o a un grupo de hechos y circunstancias relativas a la información financiera estatal, municipal y de los entes fiscalizables, sujetos a examen, mediante los cuales el Auditor Superior obtiene las bases para fundamentar su opinión;
+
+XXVIII. Postulados Básicos de Contabilidad Gubernamental: A las normas definidas por la autoridad competente que deben aplicarse para el registro de las transacciones y en la presentación de la información financiera que se incorpora en las Cuentas Públicas;
+
+XXIX. Programas: A los contenidos en el presupuesto aprobado, a los que se sujeta la gestión o actividad de los Poderes del Estado, Municipios y de los entes públicos estatales y municipales;
+
+XXX. Proceso Concluido: Todo aquel movimiento de gasto en bienes y servicios recibidos, que hayan sido debidamente devengados, pagados y registrados en la contabilidad;
+
+XXXI. Reglamento: Al Reglamento Interior de la Auditoría Superior del Estado de Oaxaca;
+
+XXXII. Servidores Públicos: A los señalados en la Constitución Local y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca;
+
+XXXIII. Subauditores: A los Subauditores Superiores del Estado;
+
+XXXIV. Unidad Técnica: A la Unidad Técnica de Vigilancia, Evaluación y Control de la Auditoría Superior del Estado.
 
 ###### Artículo 3.
 
-La Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, concurrirán en el cumplimiento del objeto de esta Ley, para el diseño, ejecución, seguimiento y evaluación de políticas públicas en materia de ejercicio, respeto, protección y promoción de los derechos de niñas, niños y adolescentes, así como para garantizar su máximo bienestar posible privilegiando su interés superior a través de medidas estructurales, legales, administrativas y presupuestales.
-
-Las políticas públicas deberán contribuir a la formación física, psicológica, económica, social, cultural, ambiental y cívica de niñas, niños y adolescentes.
+Son sujetos de esta ley y están obligados a observar y cumplir las disposiciones contenidas en la misma: los Poderes del Estado, los Municipios, los Órganos Autónomos, los mandatos, fondos o fideicomisos públicos o privados, o cualquier otra figura jurídica análoga que hayan recibido por cualquier título, recursos públicos estatales y municipales, no obstante que no sean considerados entidades paraestatales por la ley de la materia y aun cuando pertenezcan al sector privado o social y, en general, cualquier entidad, persona física o moral, pública o privada, estatal o municipal, que haya captado, recaudado, administrado, manejado o ejercido recursos públicos estatales y municipales, incluidas aquellas personas morales de derecho privado que tengan autorización para expedir recibos deducibles de impuestos por donaciones destinadas para el cumplimiento de sus fines.
 
 ###### Artículo 4.
 
-Para los efectos de esta Ley, se entenderá por:
-
-I. Acciones Afirmativas: Acciones de carácter temporal, de políticas y prácticas de índole legislativa, administrativa y jurisdiccional que son correctivas, compensatorias y de promoción, encaminadas a acelerar la igualdad sustantiva entre niñas, niños y adolescentes;
-
-II. Acogimiento Residencial: Aquél brindado por centros de asistencia social como una medida especial de protección de carácter subsidiario, que será de último recurso y por el menor tiempo posible, priorizando las opciones de cuidado en un entorno familiar;
-
-III. Adopción Internacional: Aquélla que se realice en términos de lo dispuesto por los tratados internacionales en la materia;
-
-IV. Ajustes Razonables: Las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a niñas, niños y adolescentes con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales;
-
-V. Centro de Asistencia Social: El establecimiento, lugar o espacio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar que brindan instituciones públicas, privadas y asociaciones;
-
-VI. Certificado de Idoneidad: El documento expedido por el Sistema Nacional DIF y los Sistemas de las Entidades, o por la autoridad central del país de origen de los adoptantes en los casos de adopciones internacionales, en virtud del cual se determina que los solicitantes de adopción son aptos para ello;
-
-VII. CONEVAL: Consejo Nacional de Evaluación de la Política de Desarrollo Social;
-
-> <small>(ADICIONADA, D.O.F. 26 DE MARZO DE 2024)</small>
-
-VII Bis. Crianza positiva: Conjunto de prácticas de cuidado, protección, formación y guía que ayudan al desarrollo, bienestar y crecimiento saludable y armonioso de las niñas, niños y adolescentes, tomando en cuenta su edad, facultades, características, cualidades, intereses, motivaciones, límites y aspiraciones, sin recurrir a castigos corporales ni tratos humillantes y crueles, salvaguardando el interés superior de la niñez con un enfoque de derechos humanos;
-
-> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2023)</small>
-
-VIII. Cultura de la Paz: Conjunto de valores, actitudes, tradiciones, comportamientos y estilos de vida que rechazan la violencia y previenen los conflictos a través del diálogo y la negociación entre las personas, los grupos y las naciones;
-
-IX. Diseño Universal: El diseño de productos, entornos, programas y servicios que puedan utilizar niñas, niños y adolescentes, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. El diseño universal no excluirá las ayudas técnicas para niñas, niños y adolescentes con discapacidad cuando se necesiten;
-
-X. Discriminación Múltiple: La situación de vulnerabilidad específica en la que se encuentran niñas, niños y adolescentes que al ser discriminados por tener simultáneamente diversas condiciones, ven anulados o menoscabados sus derechos;
-
-XI. Familia de Origen: Aquélla compuesta por titulares de la patria potestad, tutela, guarda o custodia, respecto de quienes niñas, niños y adolescentes tienen parentesco ascendente hasta segundo grado;
-
-XII. Familia Extensa o Ampliada: Aquélla compuesta por los ascendientes de niñas, niños y adolescentes en línea recta sin limitación de grado, y los colaterales hasta el cuarto grado;
-
-XIII. Familia de Acogida: Aquélla que cuente con la certificación de la autoridad competente y que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva;
-
-XIV. Familia de Acogimiento pre-adoptivo: Aquélla distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez;
-
-XV. Igualdad Sustantiva: El acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
-
-XVI. Informe de Adoptabilidad: El documento expedido por el Sistema Nacional DIF y los Sistemas de las Entidades, que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la adoptabilidad de niñas, niños y adolescentes;
-
-> <small>(ADICIONADA, D.O.F. 17 DE ABRIL DE 2024)</small>
-
-XVII. Mínima intervención cuando intervienen en procedimientos judiciales como víctimas o testigos: Consiste en que, cuando se solicite a niñas, niños y adolescentes quienes sean llamados a juicio, a ejercer su derecho a emitir su opinión en todo lo que les concierne, el menor número de veces posible, siempre y cuando se haga fuera del horario escolar;
-
-> <small>(ADICIONADA, D.O.F. 17 DE ABRIL DE 2024)</small>
-
-XVIII. No revictimización cuando intervienen en procedimientos judiciales como víctimas o testigos: Implica que en el ámbito de la función jurisdiccional, las personas juzgadoras deben tomar las medidas necesarias para evitar la revictimización de niñas, niños y adolescentes, las cuales se deben guiar por el criterio de más beneficio y atender sus necesidades, el contexto y la propia naturaleza del acto criminal sufrido;
-
-XIX. Órgano Jurisdiccional: Los juzgados o tribunales federales o de las entidades federativas;
-
-XX. Procuradurías de Protección: La Procuraduría Federal de Protección de Niñas, Niños y Adolescentes y las procuradurías de protección de niñas, niños y adolescentes de cada entidad federativa;
-
-XXI. Programa Local: El Programa de Protección de Niñas, Niños y Adolescentes de cada entidad federativa;
-
-XXII. Programa Nacional: El Programa Nacional de Protección de Niñas, Niños y Adolescentes;
-
-XXIII. Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales de los que el Estado mexicano forma parte;
-
-XXIV. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de las Procuradurías de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
-
-XXV. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
-
-XXVI. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de las Procuradurías de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
-
-XXVII. Sistemas de las Entidades: Los Sistemas para el Desarrollo Integral de la Familia de cada entidad federativa;
-
-XXVIII. Sistema Local de Protección: El Sistema de Protección de Niñas, Niños y Adolescentes de cada entidad federativa;
-
-XXIX. Sistemas Municipales: Los Sistemas Municipales para el Desarrollo Integral de la Familia;
-
-> <small>(ADICIONADA, D.O.F. 17 DE OCTUBRE DE 2019)</small>
-
-XXX. Sistema Municipal de Protección: El Sistema de Protección de niñas, niños y adolescentes de cada municipio;
-
-XXXI. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia;
-
-XXXII. Sistema Nacional de Protección Integral: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes, y
-
-XXXIII. Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE JUNIO DE 2019)</small>
+La Auditoría tiene a su cargo la revisión y fiscalización de las Cuentas Públicas y de la Gestión Financiera, en términos de lo dispuesto en la Constitución Local, la presente Ley, el Código y demás normatividad aplicable.
 
 ###### Artículo 5.
 
-Son niñas y niños los menores de doce años, y adolescentes las personas de entre doce años cumplidos y menos de dieciocho años de edad. Para efectos de los tratados internacionales y la mayoría de edad, son niños los menores de dieciocho años de edad.
-
-Cuando exista la duda de si se trata de una persona mayor de dieciocho años de edad, se presumirá que es adolescente. Cuando exista la duda de si se trata de una persona mayor o menor de doce años, se presumirá que es niña o niño.
+Las actuaciones que conforme a sus facultades y atribuciones desarrolle la Auditoría para la revisión y fiscalización de las cuentas públicas, se rigen conforme a los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad y confiabilidad.
 
 ###### Artículo 6.
 
-Para efectos del artículo 2 de esta Ley, son principios rectores, los siguientes:
-
-I. El interés superior de la niñez;
-
-II. La universalidad, interdependencia, indivisibilidad, progresividad e integralidad de los derechos de niñas, niños y adolescentes, conforme a lo dispuesto en los artículos 1o. y 4o. de la Constitución Política de los Estados Unidos Mexicanos así como en los tratados internacionales;
-
-III. La igualdad sustantiva;
-
-IV. La no discriminación;
-
-V. La inclusión;
-
-VI. El derecho a la vida, a la supervivencia y al desarrollo;
-
-VII. La participación;
-
-VIII. La interculturalidad;
-
-IX. La corresponsabilidad de los miembros de la familia, la sociedad y las autoridades;
-
-X. La transversalidad en la legislación, políticas públicas, actividades administrativas, económicas y culturales;
-
-XI. La autonomía progresiva;
-
-XII. El principio pro persona;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2019)</small>
-
-XIII. El acceso a una vida libre de violencia;
-
-> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2024)</small>
-
-XIV. La accesibilidad;
-
-> <small>(REFORMADA, D.O.F. 17 DE ABRIL DE 2024)</small>
-
-XV. El derecho al adecuado desarrollo evolutivo de la personalidad;
-
-> <small>(ADICIONADA, D.O.F. 17 DE ABRIL DE 2024)</small>
-
-XVI. Mínima intervención en juicios cuando intervienen en procedimientos judiciales como víctimas o testigos, y
-
-> <small>(ADICIONADA, D.O.F. 17 DE ABRIL DE 2024)</small>
-
-XVII. No revictimización en juicios cuando intervienen en procedimientos judiciales como víctimas o testigos.
+En el desempeño de sus atribuciones la Auditoría, tendrá el carácter de autoridad administrativa, profesional, imparcial, apartidista, con plena autonomía presupuestal, técnica y de gestión para decidir sobre su organización interna, funcionamiento y resoluciones.
 
 ###### Artículo 7.
 
-Las leyes federales y de las entidades federativas deberán garantizar el ejercicio, respeto, protección y promoción de los derechos de niñas, niños y adolescentes; así como prever, primordialmente, las acciones y mecanismos que les permitan un crecimiento y desarrollo integral plenos.
-
-> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+La revisión y fiscalización que en el ámbito de su competencia realice la Auditoría, tienen carácter externo y por ende se desarrollan de manera independiente y autónoma de cualquier otra forma de control, revisión o fiscalización interna que lleven a cabo las entidades fiscalizables a que se refiere el artículo 3 de la presente Ley.
 
 ###### Artículo 8.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, impulsarán la cultura de respeto, promoción y protección de derechos de niñas, niños y adolescentes, basada en los principios rectores de esta Ley.
+Toda la información y documentación que genere la Auditoría con motivo del ejercicio de sus facultades y atribuciones será reservada y su manejo deberá ser estrictamente confidencial, con las excepciones que al efecto establece la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca.
+
+De igual forma se considerará como reservada, toda aquella información y documentación que le envíen o presenten las entidades fiscalizables relacionadas con el cumplimiento de sus obligaciones de transparencia y rendición de cuentas o con motivo de la revisión y fiscalización a que estén sujetas.
+
+La Auditoría se sujetará a las disposiciones de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca, la Ley de Archivos del Estado de Oaxaca, la Ley de Protección de Datos Personales del Estado de Oaxaca y demás ordenamientos legales aplicables.
 
 ###### Artículo 9.
 
-A falta de disposición expresa en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales, en esta Ley o en las demás disposiciones aplicables, se estará a los principios generales que deriven de dichos ordenamientos y a falta de éstos, a los principios generales del derecho, privilegiando en todo momento los principios rectores de esta Ley.
+La Auditoría conservará en su poder los documentos e información que las entidades fiscalizables hayan entregado o puesto a su disposición con motivo del ejercicio de sus facultades y atribuciones, hasta en tanto no prescriban sus facultades para fincar las responsabilidades administrativas resarcitorias, derivadas de las irregularidades que se detecten por incumplimiento a las disposiciones legales que regulen la gestión financiera; asimismo conservará en su poder copias autógrafas de las resoluciones en las que se finquen otro tipo de responsabilidades y documentos que contengan denuncias o querellas penales que se hubieren formulado a consecuencia de los procedimientos de revisión y fiscalización que se hayan efectuado.
+
+Cuando las entidades fiscalizables requieran la devolución de la información o documentación proporcionada dentro de los procedimientos de revisión y fiscalización, deberán entregar copias certificadas de la misma a la Auditoría, para lo efectos a que se refiere el presente artículo.
 
 ###### Artículo 10.
 
-En la aplicación de la presente Ley se tomarán en cuenta las condiciones particulares de niñas, niños y adolescentes en los diferentes grupos de población, a fin de proteger el ejercicio igualitario de todos sus derechos.
+Los procedimientos que con motivo de sus facultades desarrolle la Auditoria se regirán por lo dispuesto en el Código.
 
-> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+## TÍTULO SEGUNDO. DE LAS CUENTAS PÚBLICAS Y LOS INFORMES DE AVANCE
 
-Las autoridades federales de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, adoptarán medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, alimentario, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apatridia, o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos.
-
-## TÍTULO SEGUNDO. De los Derechos de Niñas, Niños y Adolescentes
-
-### Capítulo Segundo. Del Derecho de Prioridad
+### CAPÍTULO I. DEL CONTENIDO DE LAS CUENTAS PÚBLICAS
 
 ###### Artículo 11.
 
-Es deber de la familia, la comunidad a la que pertenecen, del Estado y, en general, de todos los integrantes de la sociedad, el respeto y el auxilio para la protección de derechos de niñas, niños y adolescentes, así como garantizarles un nivel adecuado de vida.
+La revisión y fiscalización de las Cuentas Públicas se rigen por los principios de posterioridad, anualidad, legalidad, definitividad, imparcialidad, confiabilidad, integridad, transparencia, oportunidad, congruencia, inmediatez y suficiencia financiera; por lo que en un proceso que abarque en su ejecución dos o más ejercicios fiscales, sólo podrá ser revisado y fiscalizado anualmente en la parte ejecutada precisamente en ese ejercicio, al rendirse las Cuentas Públicas; lo mismo ocurrirá cuando el proceso se declare concluido. Lo mismo se observará en el caso de las instituciones o personas físicas y morales que hubieran recibido transferencias, concesiones o permisos del Gobierno del Estado o municipales.
+
+Sin perjuicio del principio de anualidad a que se refiere el párrafo anterior, la Auditoría, podrá revisar de manera casuística y concreta, información y documentos relacionados con conceptos específicos de gasto, correspondientes a ejercicios anteriores al de las Cuentas Públicas en revisión, cuando el programa o proyecto contenido en el presupuesto aprobado, abarque para su ejecución y pago diversos ejercicios fiscales, sin que con este motivo se entienda, para todos los efectos legales, abiertas nuevamente las Cuentas Públicas del ejercicio correspondiente a la revisión específica señalada.
 
 ###### Artículo 12.
 
-Es obligación de toda persona que tenga conocimiento de casos de niñas, niños y adolescentes que sufran o hayan sufrido, en cualquier forma, violación de sus derechos, hacerlo del conocimiento inmediato de las autoridades competentes, de manera que pueda seguirse la investigación correspondiente y, en su caso, instrumentar las medidas cautelares, de protección y de restitución integrales procedentes en términos de las disposiciones aplicables.
+La Cuenta Pública del Estado contendrá como mínimo lo siguiente:
+
+A. Información contable, con la desagregación siguiente:
+
+I. Estado de situación financiera;
+
+II. Estado de variación en la hacienda pública;
+
+III. Estado de flujos de efectivo;
+
+IV. Informes sobre pasivos contingentes;
+
+V. Notas a los estados financieros;
+
+VI. Estado analítico del activo;
+
+VII. Estado analítico de la deuda, del cual se derivarán las siguientes clasificaciones:
+
+a) Corto y largo plazo;
+
+b) Fuentes de financiamiento;
+
+c) Endeudamiento neto, financiamiento menos amortización; e,
+
+d) Intereses de la deuda.
+
+B. Información presupuestaria, con la desagregación siguiente:
+
+I. Estado analítico de ingresos, del que se derivará la presentación en clasificación económica por fuente de financiamiento y concepto, incluyendo los ingresos excedentes generados;
+
+II. Estado analítico del ejercicio del presupuesto de egresos del que se derivarán las siguientes clasificaciones:
+
+a) Administrativa;
+
+b) Económica y por objeto del gasto, y
+
+c) Funcional-programática;
+
+d) El estado analítico del ejercicio del presupuesto de egresos deberá identificar los montos y adecuaciones presupuestarias y subejercicios por Ramo y/o Programa;
+
+III. Endeudamiento neto, financiamiento menos amortización, del que derivará la clasificación por su origen en interno y externo;
+
+IV. Intereses de la deuda;
+
+V. Un flujo de fondos que resuma todas las operaciones y los indicadores de la postura fiscal;
+
+C. Información programática, con la desagregación siguiente:
+
+I. Gasto por categoría programática;
+
+II. Programas y proyectos de inversión;
+
+III. Indicadores de resultados, y
+
+D. La información complementaria para generar las cuentas nacionales y atender otros requerimientos provenientes de organismos internacionales de los que México es miembro.
+
+E. La información a que se refieren los apartados A, B y C de este artículo, se organizarán por dependencia y entidad.
+
+Los estados analíticos sobre deuda pública y otros pasivos, y el de capital deberán considerar por concepto el saldo inicial del ejercicio, las entradas y salidas por transacciones, otros flujos económicos y el saldo final del ejercicio. En las cuentas públicas se reportarán los esquemas bursátiles y de coberturas financieras de los entes públicos.
+
+La información presupuestaria y programática que forme parte de la cuenta pública deberá relacionarse, en lo conducente, con los objetivos y prioridades de la planeación del desarrollo.
+
+Asimismo, deberá incluir los resultados de la evaluación del desempeño de los programas federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, respectivamente, así como los vinculados al ejercicio de los recursos federales que les hayan sido transferidos.
+
+Para ello, deberán utilizar indicadores que permitan determinar el cumplimiento de las metas y objetivos de cada uno de los programas, así como vincular los mismos con la planeación del desarrollo.
+
+F. La demás información que determine el Consejo Nacional de Armonización Contable y la Auditoria.
 
 ###### Artículo 13.
 
-Para efectos de la presente Ley son derechos de niñas, niños y adolescentes, de manera enunciativa más no limitativa, los siguientes:
+Las cuentas públicas municipales deberán contener como mínimo lo siguiente:
 
-> <small>(REFORMADA, D.O.F. 4 DE JUNIO DE 2019)</small>
+A. Información contable, con la desagregación siguiente:
 
-I. Derecho a la vida, a la paz, a la supervivencia y al desarrollo;
+I. Estado de situación financiera;
 
-II. Derecho de prioridad;
+II. Estado de variación en la hacienda pública;
 
-III. Derecho a la identidad;
+III. Estado de flujos de efectivo;
 
-IV. Derecho a vivir en familia;
+IV. Notas a los estados financieros;
 
-V. Derecho a la igualdad sustantiva;
+V. Estado analítico del activo;
 
-VI. Derecho a no ser discriminado;
+B. Información presupuestaria, con la desagregación siguiente:
 
-VII. Derecho a vivir en condiciones de bienestar y a un sano desarrollo integral;
+I. Estado analítico de ingresos, del que se derivará la presentación en clasificación económica por fuente de financiamiento y concepto, incluyendo los ingresos excedentes generados;
 
-VIII. Derecho a una vida libre de violencia y a la integridad personal;
+II. Estado analítico del ejercicio del presupuesto de egresos del que se derivarán las siguientes clasificaciones:
 
-IX. Derecho a la protección de la salud y a la seguridad social;
+a) Administrativa;
 
-X. Derecho a la inclusión de niñas, niños y adolescentes con discapacidad;
+b) Económica y por objeto del gasto, y
 
-XI. Derecho a la educación;
+c) Funcional-programática;
 
-XII. Derecho al descanso y al esparcimiento;
+C. La demás información que determine el Consejo Nacional de Armonización Contable y la Auditoria.
 
-XIII. Derecho a la libertad de convicciones éticas, pensamiento, conciencia, religión y cultura;
+La información presupuestaria y programática que forme parte de la cuenta pública deberá relacionarse, en lo conducente, con los objetivos y prioridades de la planeación del desarrollo.
 
-XIV. Derecho a la libertad de expresión y de acceso a la información;
+Asimismo, deberá incluir los resultados de la evaluación del desempeño de los programas federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, respectivamente, así como los vinculados al ejercicio de los recursos federales que les hayan sido transferidos.
 
-XV. Derecho de participación;
-
-XVI. Derecho de asociación y reunión;
-
-XVII. Derecho a la intimidad;
-
-XVIII. Derecho a la seguridad jurídica y al debido proceso;
-
-XIX. Derechos de niñas, niños y adolescentes migrantes, y
-
-> <small>(REFORMADA, D.O.F. 20 DE JUNIO DE 2018)</small>
-
-XX. Derecho de acceso a las Tecnologías de la Información y Comunicación.
-
-> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
-
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 4 DE JUNIO DE 2019)</small>
+Para ello, deberán utilizar indicadores que permitan determinar el cumplimiento de las metas y objetivos de cada uno de los programas, así como vincular los mismos con la planeación del desarrollo.
 
 ###### Artículo 14.
 
-Niñas, niños y adolescentes tienen derecho a que se les preserve la vida, a la supervivencia y al desarrollo.
+Están obligados a presentar Cuenta Pública, los Poderes del Estado y los Municipios.
 
-> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
-
-Las autoridades de la Federación, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, deberán llevar a cabo las acciones necesarias para garantizar el desarrollo y prevenir cualquier conducta que atente contra su supervivencia, así como para investigar y sancionar efectivamente los actos de privación de la vida.
+Las Cuentas Públicas que se rindan al Congreso deberán consolidar la información de los informes de avance según se trate del Estado o Municipios.
 
 ###### Artículo 15.
 
-Niñas, niños y adolescentes deberán disfrutar de una vida plena en condiciones acordes a su dignidad y en condiciones que garanticen su desarrollo integral.
+El Ejecutivo del Estado presentará al Congreso, o en los recesos de éste a la Diputación Permanente, a más tardar el treinta de abril, la Cuenta Pública del Estado correspondiente al año inmediato anterior.
 
-> <small>(REFORMADO, D.O.F. 4 DE JUNIO DE 2019)</small>
+Tratándose de la Cuenta Pública del Estado, los Poderes del Estado, Órganos Autónomos y todos aquellos entes que ejerzan recursos públicos estatales, enviarán a la Secretaría de Finanzas, a más tardar el último día hábil de febrero del año que corresponda la información correspondiente al año inmediato anterior atendiendo al contenido señalado en la Ley General de Contabilidad Gubernamental y a la Ley Estatal de Presupuesto y Responsabilidad Hacendaria y demás disposiciones aplicables.
+
+La Auditoría a más tardar el 15 de septiembre de la presentación de la Cuenta Pública, deberá rendir al Congreso, por conducto de la Comisión, los informes de resultados de la Cuenta Pública del Estado. El Congreso a más tardar el 30 de septiembre del año de su presentación, concluirá su revisión y dictamen.
+
+Por lo que respecta a la Cuenta Pública del Estado del último año de gobierno de cada administración, el titular del Ejecutivo presentará trimestralmente el informe de avance de la Cuenta Pública del Estado dentro de los treinta días naturales siguientes a la conclusión de cada trimestre, la Auditoria deberá rendir el informe de resultados de los dos primeros trimestres a más tardar el 15 de septiembre del año en que se presentan, debiendo el Congreso a más tardar el 30 de septiembre de ese año concluir su revisión y dictamen. Tratándose del tercero y cuarto trimestres, la Auditoría tendrá que remitir el informe de resultados que corresponda a ambos trimestres el 15 de septiembre del año de presentación del cuarto trimestre, y el Congreso concluirá su revisión y dictamen a más tardar el 30 de septiembre del mismo año.
 
 ###### Artículo 16.
 
-Niñas, niños y adolescentes tienen derecho a la paz, a no ser privados de la vida en ninguna circunstancia, ni ser utilizados en conflictos armados o violentos.
+Los municipios presentarán al Congreso o en los recesos de éste a la Diputación Permanente, a más tardar el último día hábil del mes de febrero la Cuenta Pública de los Municipios correspondiente al año anterior.
 
 ###### Artículo 17.
 
-Niñas, niños y adolescentes tienen derecho a que se les asegure prioridad en el ejercicio de todos sus derechos, especialmente a que:
-
-I. Se les brinde protección y socorro en cualquier circunstancia y con la oportunidad necesaria;
-
-II. Se les atienda antes que a las personas adultas en todos los servicios, en igualdad de condiciones, y
-
-III. Se les considere para el diseño y ejecución de las políticas públicas necesarias para la protección de sus derechos.
+El hecho de no presentar las cuentas públicas, no impedirá el ejercicio de las atribuciones de revisión y fiscalización de la gestión financiera e imposición de sanciones de la Auditoría contenidas en la Constitución Local, la presente Ley, el Código y demás disposiciones aplicables.
 
 ###### Artículo 18.
 
-En todas las medidas concernientes a niñas, niños y adolescentes que tomen los órganos jurisdiccionales, autoridades administrativas y órganos legislativos, se tomará en cuenta, como consideración primordial, el interés superior de la niñez. Dichas autoridades elaborarán los mecanismos necesarios para garantizar este principio.
+Sólo se podrá ampliar el plazo de presentación de las Cuentas Públicas cuando se presente solicitud para que sea justificada, a juicio del Congreso del Estado; a condición de que sea presentada por lo menos con quince días de anticipación a la conclusión del plazo, para lo cual deberá comparecer ante la Comisión, el Secretario de Finanzas o bien, el Presidente Municipal del Ayuntamiento respectivo, según se trate de Cuenta Pública estatal o municipal, a informar de las razones que motiven la solicitud; la prórroga no deberá exceder de quince días naturales y, en tal supuesto, la Auditoría contará con el mismo tiempo adicional para la presentación del informe de resultado de la revisión y fiscalización de las Cuentas Públicas.
 
 ###### Artículo 19.
 
-Niñas, niños y adolescentes, en términos de la legislación civil aplicable, desde su nacimiento, tienen derecho a:
+Las Cuentas Públicas serán turnadas, a través de la Comisión, a la Auditoría para su revisión y fiscalización.
 
-I. Contar con nombre y los apellidos que les correspondan, así como a ser inscritos en el Registro Civil respectivo de forma inmediata y gratuita, y a que se les expida en forma ágil y sin costo la primer copia certificada del acta correspondiente, en los términos de las disposiciones aplicables;
+La Auditoría y los demás órganos internos de control respecto al ejercicio y aplicación de los recursos públicos, en el ámbito de sus respectivas competencias podrán ejercer sus facultades de revisión y fiscalización de manera indistinta, pero no simultánea.
 
-II. Contar con nacionalidad, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales;
-
-III. Conocer su filiación y su origen, en la medida de lo posible y siempre que ello sea acorde con el interés superior de la niñez, y
-
-IV. Preservar su identidad, incluidos el nombre, la nacionalidad y su pertenencia cultural, así como sus relaciones familiares.
-
-> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
-
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, deberán colaborar en la búsqueda, localización y obtención de la información necesaria para acreditar o restablecer la identidad de niñas, niños y adolescentes.
-
-Las Procuradurías de Protección, en el ámbito de sus respectivas competencias, orientarán a las autoridades que correspondan para que den debido cumplimiento al presente artículo.
-
-Cuando haya procesos o procedimientos que deriven en cambio de apellidos de niñas, niños y adolescentes, éstos tendrán el derecho a opinar y a ser tomados en cuenta, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
-
-La falta de documentación para acreditar la identidad de niñas, niños y adolescentes no será obstáculo para garantizar sus derechos.
-
-### Capítulo Tercero. Del Derecho a la Identidad
+### CAPÍTULO II. DEL CONTENIDO DE LOS INFORMES DE AVANCE
 
 ###### Artículo 20.
 
-Niñas, niños y adolescentes de nacionalidad extranjera que se encuentren en territorio nacional, tienen derecho a comprobar su identidad con los documentos emitidos por la autoridad competente u otros medios previstos en la Ley de Migración y demás disposiciones aplicables.
-
-En los casos en que niñas, niños o adolescentes cumplan con los requisitos para obtener la nacionalidad mexicana, se les brindarán todas las facilidades a efecto de darles un trato prioritario.
+Las entidades fiscalizables, presentarán a la Auditoría, en forma consolidada dentro de los treinta días naturales siguientes a la conclusión del período, el informe de avance, sobre los resultados físicos y financieros de los programas a su cargo, a fin de que la Auditoría, fiscalice en forma simultánea, pero posterior a la conclusión de los procesos correspondientes, de forma preventiva y complementaria, los ingresos y egresos, la administración, custodia, manejo y la aplicación de sus fondos y recursos, así como el grado de cumplimiento de los objetivos contenidos en dichos programas; (sic)
 
 ###### Artículo 21.
 
-Para efectos del reconocimiento de maternidad y paternidad de niñas, niños y adolescentes, así como en relación con los derechos y obligaciones derivados de la filiación y parentesco, se estará a la legislación civil aplicable. Ante la negativa de la prueba de paternidad o maternidad, la autoridad competente, salvo prueba en contrario, presumirá que es el padre o la madre respectivamente.
+El contenido de los Informes de Avance, que presenten los Poderes del Estado, Órganos Autónomos y los entes públicos estatales a través de la Secretaría de Finanzas contendrán:
+
+I. La situación económica, incluyendo el análisis sobre la producción y el empleo, precios y salarios y la evaluación del sector financiero y del sector externo;
+
+II. La situación de las finanzas públicas, con base en lo siguiente:
+
+a) Los principales indicadores de la postura fiscal, incluyendo información sobre los balances fiscales y, en su caso, el déficit presupuestario;
+
+b) La evolución de los ingresos tributarios y no tributarios, la situación respecto a las metas de recaudación y una explicación detallada de la misma, así como el comportamiento de las participaciones federales;
+
+c) La evolución del gasto público, incluyendo el gasto programable y no programable; su ejecución conforme a las diversas clasificaciones a que se refiere el artículo 26 de la Ley Estatal de Presupuesto y Responsabilidad Hacendaria, los principales resultados de los programas y proyectos, y las disponibilidades de recursos en fondos y fideicomisos;
+
+Un informe que contenga la evolución de la deuda pública en el semestre, incluyendo los montos de endeudamiento interno neto, el canje o refinanciamiento de obligaciones del erario estatal, en los términos de La Ley de Deuda Pública, y el costo total de las emisiones de deuda pública externa.
+
+La información sobre el costo total de las emisiones de deuda externa deberá identificar por separado el pago de las comisiones y gastos inherentes a la emisión, de los pagos a efectuar por intereses. Estos deberán diferenciarse de la tasa de interés que se pagará por los empréstitos y bonos colocados. Asimismo, deberá informar sobre la tasa de interés o rendimiento que pagará cada emisión, de las comisiones, el plazo, y el monto de la emisión, presentando un perfil de vencimientos para la deuda pública externa, así como la evolución de las garantías otorgadas por el Gobierno Estatal.
+
+Este informe incluirá un apartado sobre los pasivos contingentes que se hubieran asumido con la garantía del Gobierno Estatal, incluyendo los avales distintos de los proyectos de inversión productiva de largo plazo otorgados.
+
+d) Ejercicio de los subsidios cumplimiento con lo señalado en el artículo 71 de la Ley Estatal de Presupuesto y Responsabilidad Hacendaria;
+
+e) Reporte sobre el monto total erogado en los contratos plurianuales;
+
+f) Reporte sobre el avance físico-financiero de las obras, proyectos productivos y de fomento autorizados con cargo a los recursos de los Fondos de Aportaciones previstos en el artículo 25 de la Ley de Coordinación Fiscal;
+
+g) Informe de los saldos por unidad responsable y por capítulo de gasto, para evitar la acumulación de saldos o subejercicios presupuestarios, y
+
+h) Los demás informes que se contengan en disposiciones legales aplicables.
+
+III. La evolución de los proyectos de infraestructura productiva de largo plazo, que incluya:
+
+a) Una contabilidad separada con el objeto de identificar los ingresos asociados a dichos proyectos;
+
+b) Los costos de los proyectos y las amortizaciones derivadas de los mismos; y
+
+c) Un análisis que permita conocer el monto, a valor presente, de la posición financiera del Gobierno Estatal y las entidades con respecto a los proyectos de que se trate.
+
+IV. Los montos correspondientes a los requerimientos financieros del sector público, incluyendo su saldo histórico;
+
+V. La evolución de los proyectos de inversión en infraestructura que cuenten con erogaciones plurianuales aprobadas en términos del artículo 59 fracción XXI Bis, de la Constitución Política del Estado Libre y Soberano de Oaxaca.
+
+La Secretaría de Finanzas del Gobierno del Estado de Oaxaca, presentará los datos estadísticos y la información que tenga disponibles, que puedan contribuir a una mejor comprensión de la evolución de la recaudación, el endeudamiento, y del gasto público, que el Congreso solicite por conducto de las Comisiones competentes, dicha información deberá ser proporcionada en un plazo no mayor de 20 días naturales, contados a partir de la solicitud correspondiente.
+
+La información que la Secretaría de Finanzas del Gobierno del Estado de Oaxaca, proporcione al Congreso del Estado deberá ser completa y oportuna. En caso de incumplimiento procederán las responsabilidades que correspondan.
 
 ###### Artículo 22.
 
-Niñas, niños y adolescentes tienen derecho a vivir en familia. La falta de recursos no podrá considerarse motivo suficiente para separarlos de su familia de origen o de los familiares con los que convivan, ni causa para la pérdida de la patria potestad.
+Tratándose de los informes de avance de los Municipios y de los entes públicos municipales, contendrán:
 
-Niñas, niños y adolescentes no podrán ser separados de las personas que ejerzan la patria potestad o de sus tutores y, en términos de las disposiciones aplicables, de las personas que los tengan bajo su guarda y custodia, salvo que medie orden de autoridad competente, en la que se determine la procedencia de la separación, en cumplimiento a la preservación del interés superior de la niñez, de conformidad con las causas previstas en las leyes y mediante el debido proceso en el que se garantice el derecho de audiencia de todas las partes involucradas. En todos los casos, se tendrá en cuenta la opinión de niñas, niños y adolescentes conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
+I. El reporte analítico de ingresos y egresos trimestral, según corresponda al ejercicio del presupuesto;
 
-Los casos en que las personas que ejerzan la patria potestad, por extrema pobreza o por necesidad de ganarse el sustento lejos del lugar de residencia, tengan dificultades para atender a niñas, niños y adolescentes de manera permanente, no serán considerados como supuestos de exposición o estado de abandono, siempre que los mantengan al cuidado de otras personas, libres de violencia y provean su subsistencia.
+II. El avance del cumplimiento de los programas con base en los indicadores estratégicos aprobados en el respectivo presupuesto;
 
-> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2019)</small>
+III. Los procesos concluidos; y
 
-Las autoridades federales, de las entidades federativas y municipales, en el ámbito de sus respectivas competencias, establecerán políticas de fortalecimiento familiar para evitar la separación de niñas, niños y adolescentes de su entorno familiar y para que, en su caso, sean atendidos a través de las medidas especiales de protección que dispone el artículo 26.
+IV. Estado analítico de la deuda pública.
 
 ###### Artículo 23.
 
-Niñas, niños y adolescentes cuyas familias estén separadas, tendrán derecho a convivir o mantener relaciones personales y contacto directo con sus familiares de modo regular, excepto en los casos en que el órgano jurisdiccional competente determine que ello es contrario al interés superior de la niñez, sin perjuicio de las medidas cautelares y de protección que se dicten por las autoridades competentes en los procedimientos respectivos, en los que se deberá garantizar el derecho de audiencia de todas las partes involucradas, en especial de niñas, niños y adolescentes.
-
-Asimismo, niñas, niños y adolescentes tienen derecho a convivir con sus familiares cuando éstos se encuentren privados de su libertad. Las autoridades competentes en materia jurisdiccional y penitenciaria deberán garantizar este derecho y establecer las condiciones necesarias para que esta convivencia se realice en forma adecuada, conforme a las disposiciones aplicables. Este derecho sólo podrá ser restringido por resolución del órgano jurisdiccional competente, siempre y cuando no sea contrario a su interés superior.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+Respecto de los Informes de Avance, la Auditoría, podrá revisar los conceptos reportados por las entidades fiscalizables y emitir observaciones y recomendaciones para mejorar los resultados, la eficiencia, eficacia y economía de las acciones de gobierno, a fin de elevar la calidad del desempeño gubernamental.
 
 ###### Artículo 24.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, establecerán las normas y los mecanismos necesarios para facilitar la localización y reunificación de la familia de niñas, niños y adolescentes, cuando hayan sido privados de ella, siempre y cuando no sea contrario a su interés superior.
-
-Durante la localización de la familia, niñas, niños y adolescentes tienen derecho a acceder a las modalidades de cuidados alternativos de carácter temporal, en tanto se incorporan a su familia.
-
-Para efectos del párrafo anterior, el Sistema Nacional DIF y los Sistemas de las Entidades deberán otorgar acogimiento correspondiente de conformidad con lo previsto en el Título Cuarto, Capítulo Primero de esta Ley y demás disposiciones aplicables.
+Las observaciones y recomendaciones a que se refiere el artículo anterior, deberán ser notificadas a las entidades fiscalizables dentro de los diez días siguientes a la conclusión de la revisión de que se trate, con el propósito de que las mismas sean consideradas durante la revisión y fiscalización de las Cuentas Públicas correspondientes.
 
 ###### Artículo 25.
 
-Las leyes federales y de las entidades federativas contendrán disposiciones para prevenir y sancionar el traslado o retención ilícita de niñas, niños y adolescentes cuando se produzcan en violación de los derechos atribuidos individual o conjuntamente a las personas o instituciones que ejerzan la patria potestad, la tutela o la guarda y custodia, y preverán procedimientos expeditos para garantizar el ejercicio de esos derechos.
+La revisión de conceptos ya fiscalizados con motivo del informe de avance, no deberán duplicarse a partir de la revisión de las Cuentas Públicas, siempre y cuando la auditoria no haya formulado observaciones o recomendaciones a los informes de referencia.
 
-En los casos de traslados o retenciones ilícitas de niñas, niños y adolescentes fuera del territorio nacional, la persona interesada podrá presentar la solicitud de restitución respectiva ante la Secretaría de Relaciones Exteriores, para que ésta lleve a cabo las acciones correspondientes en el marco de sus atribuciones, de conformidad con lo dispuesto en los instrumentos internacionales y demás disposiciones aplicables.
+## TÍTULO TERCERO. DE LA FISCALIZACIÓN
 
-Cuando las autoridades de las entidades federativas tengan conocimiento de casos de niñas, niños y adolescentes de nacionalidad mexicana trasladados o retenidos de manera ilícita en el extranjero, se coordinarán con las autoridades federales competentes, conforme a las demás disposiciones aplicables, para su localización y restitución.
-
-> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
-
-Cuando una niña, niño o adolescente sea trasladado o retenido ilícitamente en territorio nacional, o haya sido trasladado legalmente pero retenido ilícitamente, las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, estarán obligadas a coadyuvar en su localización, a través de los programas para la búsqueda, localización y recuperación, así como en la adopción de todas las medidas necesarias para prevenir que sufran mayores daños y en la sustanciación de los procedimientos de urgencia necesarios para garantizar su restitución inmediata, cuando la misma resulte procedente conforme a los tratados internacionales en materia de sustracción de menores.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE JUNIO DE 2019)</small>
-
-## TÍTULO TERCERO. De las Obligaciones
-
-### Capítulo Único. De quienes ejercen la Patria Potestad, Tutela o Guarda y Custodia de Niñas, Niños y Adolescentes
-
-> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
-
-### Capítulo Cuarto. Del Derecho a Vivir en Familia
+### CAPÍTULO I. DEL OBJETO
 
 ###### Artículo 26.
 
-El Sistema Nacional DIF o los Sistemas de las Entidades, en coordinación con las Procuradurías de Protección, deberán otorgar medidas especiales de protección de niñas, niños y adolescentes que se encuentren en desamparo familiar.
+La fiscalización tiene por objeto evaluar los resultados de la Gestión Financiera de las entidades fiscalizables; comprobar la observancia y cumplimiento de lo dispuesto en el Presupuesto de Egresos, la Ley de Ingresos y demás disposiciones legales aplicables, así como la práctica de auditorías al desempeño, especiales y de regularidad, para verificar el cumplimiento de los objetivos y las metas de los programas aprobados, conforme a las normas y principios de posterioridad, legalidad, definitividad, imparcialidad y confiablidad.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 3 DE JUNIO DE 2019)</small>
+La fiscalización comprende la revisión de los ingresos, los egresos, incluyendo subsidios, transferencias y donativos, fondos, los gastos fiscales y la deuda pública; del manejo, la custodia y la aplicación de recursos públicos Estatales y municipales, así como de la demás información financiera, contable, patrimonial, presupuestaria y programática que los entes fiscalizables deban incluir en las cuentas públicas y los informes de avance, conforme a las disposiciones legales aplicables.
 
-Las autoridades competentes garantizarán que reciban todos los cuidados que se requieran por su situación de desamparo familiar. En estos casos, el Sistema Nacional DIF o los Sistemas de las Entidades, así como las autoridades involucradas, según sea el caso, se asegurarán de que niñas, niños y adolescentes:
+Para efectos de lo dispuesto en el presente artículo la Auditoria procederá a:
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2019)</small>
+I. Evaluar los resultados de la Gestión Financiera:
 
-I. Sean ubicados con su familia de origen, extensa o ampliada para su cuidado, siempre que ello sea posible y no sea contrario a su interés superior, y tengan con prontitud resuelta su situación jurídica para acceder a un proceso de adopción expedito, ágil, simple y guiado por su interés superior, aplicándose dicho proceso incluso cuando los adoptantes sean miembros de la familia de origen, siempre que ello sea posible y no sea contrario a su interés superior;
+a) Si se cumplió con las disposiciones jurídicas aplicables en materia de sistemas de registro y contabilidad gubernamental; contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles; almacenes y demás activos; recursos materiales y demás normatividad aplicable al ejercicio del gasto público;
 
-II. Sean recibidos por una familia de acogida como medida de protección, de carácter temporal, en los casos en los cuales ni los progenitores, ni la familia extensa de niñas, niños y adolescentes pudieran hacerse cargo;
+b) Determinar si la captación, recaudación, administración, custodia, manejo, ejercicio y aplicación de los recursos, incluyendo subsidios, transferencias y donativos, y si los actos, contratos, convenios, mandatos fondos, fideicomisos, prestación de servicios públicos, operaciones o cualquier acto que las entidades fiscalizables a que se refiere el artículo 3 de la presente Ley, celebren o realicen, relacionados con el ejercicio del gasto público, se ajustaron a la legalidad, y si no han causado daños y/o perjuicios en contra de la hacienda pública ya sea estatal o municipales, o en su caso al patrimonio de los Entes Públicos Estatales y/o Municipales o de las Entidades Paraestatales y/o Paramunicipales.
 
-III. Sean sujetos del acogimiento pre-adoptivo como una fase dentro del procedimiento de adopción, que supone la vinculación de niñas, niños y adolescentes, respecto del cual ya se ha declarado la condición de adoptabilidad, con su nuevo entorno y determinar la idoneidad de la familia para convertirse en familia adoptiva;
+II. Comprobar si el ejercicio de las Leyes de Ingresos y los Presupuestos de Egresos se ajustaron a los criterios señalados en los mismos:
 
-IV. En el Sistema Nacional DIF, así como los Sistemas de las Entidades y Sistemas Municipales, en el ámbito de sus respectivas competencias, deberán registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, considerando los requisitos señalados para el acogimiento pre-adoptivo, o
+a) Si las cantidades corresponden a los ingresos y a los egresos, si se ajustaron o corresponden a los conceptos y las partidas respectivas;
 
-V. Sean colocados, dadas las características específicas de cada caso, en acogimiento residencial brindado por centros de asistencia social el menor tiempo posible.
+b) Si los programas y su ejecución se ajustaron a los términos y montos aprobados en el presupuesto respectivo;
 
-> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2019)</small>
+c) Si los recursos provenientes de financiamientos se obtuvieron en los términos autorizados y se aplicaron con la periodicidad y forma establecidas por las leyes y demás disposiciones legales aplicables y si se cumplieron los compromisos adquiridos en los actos respectivos;
 
-Estas medidas especiales de protección tendrán carácter subsidiario, priorizando las opciones de cuidado en un entorno familiar definitivo.
+III. Verificar el cumplimiento de los objetivos contenidos en los programas:
 
-> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2019)</small>
+a) Realizar auditorías al desempeño de los programas, verificando la eficiencia, eficacia y la economía de los mismos y su efecto y consecuencias en las condiciones sociales, económicas y en su caso, regionales, durante el periodo que se evalúe;
 
-Los sistemas DIF y las Procuradurías de Protección deberán mantener estrecha comunicación entre sí, intercambiando información, a efecto de garantizar adecuadamente el interés superior de la niñez y el desarrollo evolutivo de formación de su personalidad, así como materializar su derecho a vivir en familia.
+b) Si se cumplieron las metas de los indicadores aprobados en los presupuestos respectivos y si dicho cumplimiento tiene relación con los Planes de Desarrollo respectivos y sus programas sectoriales, y;
 
-> <small>(REFORMADO, D.O.F. 3 DE JUNIO DE 2019)</small>
+IV. Determinar las responsabilidades resarcitorias, la imposición de sanciones y medidas de apremio a que haya lugar en términos del Código.
 
-Las autoridades administrativas y jurisdiccionales a nivel nacional y estatal, en el ámbito de sus respectivas competencias, dispondrán lo conducente a efecto de que niñas, niños y adolescentes vean restituido su derecho a vivir en familia y su derecho a recibir formación y protección de quien ejerce la patria potestad, la tutela, guardia o custodia, interpretando de manera sistemática y funcional la normatividad correspondiente, conforme al principio del interés superior de la niñez.
-
-> <small>(ADICIONADO, D.O.F. 3 DE JUNIO DE 2019)</small>
-
-Los certificados de idoneidad podrán ser expedidos, previa valoración técnica, por el Sistema Nacional DIF, los Sistemas de las Entidades o las Procuradurías de Protección, y serán válidos para iniciar el proceso de adopción en cualquier entidad federativa, independientemente de dónde hayan sido expedidos.
-
-> <small>(ADICIONADO, D.O.F. 3 DE JUNIO DE 2019)</small>
-
-El proceso administrativo y jurisdiccional de adopción podrá realizarse en cualquier entidad federativa, con independencia de la ubicación física de la niña, niño o adolescente susceptible de ser adoptado.
-
-> <small>(ADICIONADO, D.O.F. 3 DE JUNIO DE 2019)</small>
-
-Las autoridades competentes deberán tener en consideración el interés superior de la niñez al determinar la opción que sea más adecuada para restituirle su derecho a vivir en familia.
-
-> <small>(ADICIONADO, D.O.F. 3 DE JUNIO DE 2019)</small>
-
-El Sistema Nacional DIF y los Sistemas de las Entidades, en coordinación con las Procuradurías de Protección, serán responsables del seguimiento de la situación en la que se encuentren niñas, niños y adolescentes una vez que haya concluido el acogimiento y, en su caso, la adopción.
-
-> <small>(ADICIONADO, D.O.F. 3 DE JUNIO DE 2019)</small>
-
-Entre las medidas de seguimiento deberán estar los reportes realizados por los profesionales de trabajo social donde se aprecie la convivencia familiar y el desarrollo cotidiano de niñas, niños y adolescentes, en su entorno, con una periodicidad de seis meses durante tres años contados a partir de que la sentencia judicial de adopción quede firme, pudiendo ampliar el plazo excepcionalmente en caso de ser necesario, con base en el interés superior de la niñez. La intervención que represente el seguimiento será lo menos invasiva posible a efecto de no afectar el entorno familiar.
+V. Así como todas aquellas acciones que deriven de las facultades y atribuciones de la Auditoria.
 
 ###### Artículo 27.
 
-Las personas interesadas en adoptar niñas, niños y adolescentes que se encuentren bajo la tutela de las Procuradurías de Protección, podrán presentar ante dichas instancias la solicitud correspondiente.
-
-Las Procuradurías de Protección, en el ámbito de sus respectivas competencias, realizarán las valoraciones psicológica, económica, de trabajo social y todas aquéllas que sean necesarias para determinar la idoneidad de quienes soliciten la adopción, en los términos de lo dispuesto por las leyes aplicables. La Procuraduría de Protección que corresponda emitirá el certificado de idoneidad respectivo.
-
-La asignación de niñas, niños y adolescentes sólo podrá otorgarse a una familia de acogida pre-adoptiva que cuente con certificado de idoneidad. Para tal efecto, se observará lo siguiente:
-
-I. Niñas, niños y adolescentes, siempre que sea posible de acuerdo con su edad, desarrollo cognoscitivo y grado de madurez, serán escuchados y su opinión será fundamental para la determinación que adopte el órgano jurisdiccional competente;
-
-II. Se tomará en cuenta que las condiciones en la familia de acogimiento pre-adoptiva sean adecuadas para el desarrollo integral de niñas, niños y adolescentes, de conformidad con el principio de interés superior de la niñez;
-
-III. Se tomará en consideración el grado de parentesco; la relación de afinidad y de afectividad; el origen, la comunidad y las condiciones culturales en que se desarrollen niñas, niños y adolescentes, y
-
-IV. Se procurará no separar a hermanas y hermanos, pero si hubiere necesidad de ello, se establecerán medidas para que mantengan vínculos de convivencia, contacto y comunicación permanente.
+Para los efectos de la revisión y fiscalización de la gestión financiera y de las Cuentas Públicas de los Municipios, el Ayuntamiento remitirá a la Auditoría, dentro de los treinta días naturales al inicio del ejercicio presupuestal, los presupuestos de egresos basados en resultados, debidamente aprobados, e informará a la misma, dentro de los treinta días naturales siguientes, de las modificaciones que en su caso se aprueben.
 
 ###### Artículo 28.
 
-Las Procuradurías de Protección, que en sus respectivos ámbitos de competencia, hayan autorizado la asignación de niñas, niños o adolescentes a una familia de acogida pre-adoptiva, deberán dar seguimiento a la convivencia entre ellos y al proceso de adaptación conforme a su nueva situación, con el fin de prevenir o superar las dificultades que se puedan presentar.
-
-En los casos que las Procuradurías de Protección constaten que no se consolidaron las condiciones de adaptación de niñas, niños o adolescentes con la familia de acogida pre-adoptiva, procederán a iniciar el procedimiento a fin de reincorporarlos al sistema que corresponda y se realizará, en su caso, una nueva asignación.
-
-Cuando se verifique cualquier tipo de violación a los derechos de niñas, niños o adolescentes asignados, el sistema competente revocará la asignación y ejercerá las facultades que le otorgan la presente Ley y demás disposiciones aplicables.
-
-Los procedimientos de adopción se desahogarán de conformidad con la legislación civil aplicable.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE JUNIO DE 2019)</small>
+Los Poderes del Estado, Municipios y demás entidades fiscalizables, dentro de un plazo improrrogable de diez días hábiles contados a partir de la fecha en que surta sus efectos la notificación de los informes de auditoría, deberán solventar los mismos ante la Auditoría Superior del Estado. Cuando los informes de auditoría no sean solventados dentro del término señalado, o bien, la documentación y argumentos presentados no sean suficientes para desvirtuar dichas observaciones, se procederá a iniciar el procedimiento para el fincamiento de responsabilidades y las sanciones en los términos de esta Ley.
 
 ###### Artículo 29.
 
-Corresponde al Sistema Nacional DIF, así como a los Sistemas de las Entidades y los Sistemas Municipales, en coordinación con las Procuradurías de Protección, en el ámbito de sus respectivas competencias:
+Cuando conforme a esta Ley los órganos de control interno de las entidades fiscalizables, deban colaborar con la Auditoría en lo que concierne a la revisión de las respectivas Cuentas Públicas y de su Gestión Financiera, deberá establecerse una coordinación entre ambos, a fin de garantizar el debido intercambio de información que al efecto se requiera, y otorgar las facilidades que permitan a los auditores llevar a cabo el ejercicio de sus funciones.
 
-I. Prestar servicios de asesoría y asistencia jurídica a las personas que deseen asumir el carácter de familia de acogimiento pre-adoptivo de niñas, niños o adolescentes, así como su capacitación;
-
-II. Realizar evaluaciones sobre la idoneidad de las condiciones de quienes pretendan adoptar, y emitir los dictámenes correspondientes, así como formular las recomendaciones pertinentes al órgano jurisdiccional, y
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2019)</small>
-
-III. Contar con un sistema de información y registro, permanentemente actualizado, que incluya niñas, niños y adolescentes cuya situación jurídica o familiar permita que sean susceptibles de adopción, solicitantes de adopción y aquellos que cuenten con certificado de idoneidad, adopciones concluidas desagregadas en nacionales e internacionales, así como niñas, niños y adolescentes adoptados, informando de cada actualización a la Procuraduría de Protección Federal. También se llevará un registro de las familias de acogida y de las niñas, niños y adolescentes acogidos por éstas.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE JUNIO DE 2019)</small>
+Asimismo deberán proporcionar la documentación que le solicite dicha Auditoría sobre los resultados de la fiscalización que realicen o cualquier otra que les requiera.
 
 ###### Artículo 30.
 
-En materia de adopción, todas las autoridades deberán observar lo siguiente:
+La información y datos que se proporcionen para el cumplimiento de lo previsto en el presente capítulo, estarán afectos exclusivamente al objeto de esta Ley y demás ordenamientos aplicables.
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2019)</small>
-
-I. Garantizar que niñas, niños y adolescentes sean adoptados con pleno respeto de sus derechos, de conformidad con el principio de interés superior de la niñez, y no mediando intereses particulares o colectivos que se contrapongan al mismo;
-
-II. Asegurar que se escuche y tome en cuenta la opinión de niñas, niños y adolescentes de acuerdo con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez, en términos de la presente Ley;
-
-III. Garantizar que se asesore jurídicamente, tanto a quienes consientan la adopción, como a quienes la acepten, a fin de que conozcan los alcances jurídicos, familiares y sociales de la misma;
-
-IV. Disponer las acciones necesarias para verificar que la adopción no sea motivada por beneficios económicos para quienes participen en ella, y
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2019)</small>
-
-V. Garantizar que en los procesos de adopción se respeten las normas que los rijan de conformidad con lo dispuesto en esta ley;
-
-> <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2019)</small>
-
-VI. Establecer medidas de protección a fin de evitar presiones indebidas y coacción a las familias de origen para renunciar a la niña, el niño o el adolescente, y
-
-> <small>(ADICIONADA, D.O.F. 3 DE JUNIO DE 2019)</small>
-
-VII. Las entidades federativas, a través de su respectivo poder judicial, garantizarán que los procedimientos de adopción se lleven de conformidad con esta ley.
-
-> <small>(ADICIONADO, D.O.F. 3 DE JUNIO DE 2019)</small>
-
-###### Artículo 30 Bis.
-
-Toda persona que encontrare una niña, niño o adolescente en estado de indefensión o que hubiere sido puesto en situación de desamparo familiar, deberá presentarlo ante las Procuradurías de Protección, ante el Sistema Nacional DIF o ante los Sistemas de las Entidades, con las prendas, valores o cualesquiera otros objetos encontrados en su persona, y declarará el día, lugar y circunstancias en que lo hubiere hallado.
-
-> <small>(ADICIONADO, D.O.F. 3 DE JUNIO DE 2019)</small>
-
-###### Artículo 30 Bis 1.
-
-Los centros de asistencia social que reciban niñas, niños y adolescentes en situación de indefensión o desamparo familiar sólo podrán recibir niñas, niños y adolescentes por disposición de la Procuraduría de Protección correspondiente o de autoridad competente.
-
-Niñas, niños y adolescentes acogidos en Centros de Asistencia Social, serán considerados expósitos o abandonados una vez que hayan transcurrido sesenta días naturales sin que se reclamen derechos sobre ellos o se tenga información que permita conocer su origen, salvo que la Procuraduría de Protección correspondiente no cuente con los elementos suficientes que den certeza sobre la situación de expósito o abandonado de los menores de edad. En este caso, se podrá extender el plazo hasta por sesenta días naturales más.
-
-El lapso inicial a que hace referencia el párrafo anterior, correrá a partir de la fecha en que la niña, niño o adolescente haya sido acogido en un Centro de Asistencia Social y concluirá cuando el Sistema Nacional DIF, los Sistemas de las Entidades o las Procuradurías de Protección, según corresponda, levanten la certificación de haber realizado todas las investigaciones necesarias para conocer su origen, la cual deberá publicarse en los estrados de la dependencia y en los medios públicos con que se cuente. Se considera expósito al menor de edad que es colocado en una situación de desamparo por quienes conforme a la ley estén obligados a su custodia, protección y cuidado y no pueda determinarse su origen. Cuando la situación de desamparo se refiera a un menor de edad cuyo origen se conoce, se considerará abandonado.
-
-Durante el término referido se investigará el origen de niñas, niños y adolescentes y se realizarán las acciones conducentes que les permitan reintegrarse al núcleo de su familia de origen o extensa, siempre que dicha reintegración no represente un riesgo al interés superior de la niñez. Lo anterior, en coordinación con los centros de asistencia social y con el auxilio de cualquier autoridad que se considere necesaria, sin exponer, exhibir o poner en riesgo a la niña, niño o adolescente.
-
-Una vez transcurrido dicho término sin obtener información respecto del origen de niñas, niños o adolescentes, o no habiendo logrado su reintegración al seno familiar, la Procuraduría de Protección correspondiente levantará un acta circunstanciada publicando la certificación referida en el presente artículo y a partir de ese momento las niñas, niños o adolescentes serán susceptibles de adopción.
-
-> <small>(ADICIONADO, D.O.F. 3 DE JUNIO DE 2019)</small>
-
-###### Artículo 30 Bis 2.
-
-Para los fines de esta ley se prohíbe:
-
-I. La promesa de adopción durante el proceso de gestación;
-
-II. La adopción privada, entendida como el acto mediante el cual quienes ejercen la patria potestad, tutela o guarda y custodia, o sus representantes legales, pacten dar en adopción de manera directa a niñas, niños o adolescentes, sin que intervengan las autoridades competentes de conformidad con esta ley;
-
-III. Que la adopción se realice para fines de venta, sustracción, retención u ocultación ilícita, tráfico, trata de personas, explotación, trabajo infantil o cualquier ilícito. Si se presentare cualquiera de los supuestos referidos una vez concluida judicialmente la adopción, la Procuraduría de Protección competente presentará denuncia ante el Ministerio Público y tomará las medidas necesarias para asegurar el bienestar integral de niñas, niños y adolescentes;
-
-IV. El contacto de los padres biológicos que entregaron en adopción a una niña, un niño o un adolescente, con el adoptante, el adoptado o con cualquier persona involucrada en la adopción; con excepción de los casos en que los adoptantes sean familiares biológicos, de la familia extensa o cuando el adoptado desee conocer sus antecedentes familiares y sea mayor de edad. Niñas, niños y adolescentes que deseen conocer sus antecedentes familiares deberán contar con el consentimiento de los adoptantes, y siempre que ello atienda al interés superior de la niñez;
-
-V. La inducción a través de cualquier forma de compensación o pago para influenciar o favorecer la decisión de otorgar a la niña, el niño o el adolescente en adopción;
-
-VI. La obtención directa o indirecta de beneficios indebidos, materiales o de cualquier índole, por la familia de origen o extensa del adoptado, o por cualquier persona, así como por funcionarios o trabajadores de instituciones públicas o privadas y autoridades involucradas en el proceso de adopción;
-
-VII. La obtención de lucro o beneficio personal ilícito como resultado de la adopción;
-
-VIII. El matrimonio entre el adoptante y el adoptado o sus descendientes, así como el matrimonio entre el adoptado con los familiares del adoptante o sus descendientes;
-
-IX. Ser adoptado por más de una persona, salvo en caso de que los adoptantes sean cónyuges o concubinos, en cuyo caso se requerirá el consentimiento de ambos;
-
-X. La adopción por discriminación, entendida como aquella donde se considera al niño como valor supletorio o reivindicatorio, y
-
-XI. Toda adopción contraria a las disposiciones constitucionales, tratados internacionales ratificados por el Estado mexicano o al interés superior de la niñez y su adecuado desarrollo evolutivo.
-
-Las autoridades vigilarán el desarrollo del proceso de adaptación a través del seguimiento que realice la Procuraduría de Protección o el sistema DIF competente, mediante los reportes subsecuentes, respetando el derecho de la familia a vivir conforme a sus estándares, costumbres y valores.
-
-Las autoridades podrán suspender el proceso de adopción cuando tengan razones para creer que la adopción se realiza en contravención de lo establecido por la presente ley. En caso de que el proceso de adopción haya concluido judicialmente, la Procuraduría de Protección o el sistema DIF correspondiente tomará las medidas necesarias para asegurar el bienestar integral de niñas, niños y adolescentes en los términos que disponga la ley para los hijos consanguíneos.
-
-> <small>(ADICIONADO, D.O.F. 3 DE JUNIO DE 2019)</small>
-
-###### Artículo 30 Bis 3.
-
-Pueden ser adoptados niñas, niños y adolescentes que:
-
-I. No tengan quien ejerza sobre ellas o ellos la patria potestad;
-
-II. Sean expósitos o abandonados;
-
-III. Se encuentren en alguno de los supuestos anteriores y acogidos en Centros de Asistencia Social o bajo la tutela del Sistema Nacional DIF, de los Sistemas de las Entidades o de las Procuradurías de Protección, y
-
-IV. Estando bajo patria potestad o tutela, quien la ejerce manifieste por escrito su consentimiento ante el Sistema Nacional DIF, los Sistemas de las Entidades o ante la Procuraduría de Protección correspondiente.
-
-En todo caso se deberá contar con el informe de adoptabilidad.
-
-> <small>(ADICIONADO, D.O.F. 3 DE JUNIO DE 2019)</small>
-
-###### Artículo 30 Bis 4.
-
-Los solicitantes deberán acudir a las Procuradurías de Protección, al Sistema Nacional DIF o a los Sistemas de las Entidades para realizar sus trámites de adopción, atendiendo a lo previsto en la reglamentación correspondiente.
-
-> <small>(ADICIONADO, D.O.F. 3 DE JUNIO DE 2019)</small>
-
-###### Artículo 30 Bis 5.
-
-Una vez reunidos los requisitos e integrado el expediente, la autoridad competente emitirá su opinión respecto a la expedición del certificado de idoneidad en un término que no excederá de cuarenta y cinco días naturales, salvo que no tenga certeza respecto de la documentación que integra el expediente o que no cuente con suficientes elementos, caso en el que se podrá ampliar el plazo hasta por treinta días naturales más.
-
-> <small>(ADICIONADO, D.O.F. 3 DE JUNIO DE 2019)</small>
-
-###### Artículo 30 Bis 6.
-
-El juez familiar, o en su caso el juez especializado en la materia, dispondrá de 90 días hábiles improrrogables para emitir la sentencia sobre resolución de la patria potestad de menores de edad, en los juicios respectivos. Dicho término será contado a partir del día siguiente de la presentación de la demanda.
-
-Respecto a las resoluciones de adopción, el juez contará con 15 días hábiles improrrogables, contados a partir del día siguiente de la entrega, por parte de la autoridad administrativa, del expediente de adopción completo. Dicha autoridad administrativa contará con cinco días hábiles para la entrega de tal expediente al juzgado de la materia, una vez cumplimentado lo referido en el artículo 30 Bis 5 de la presente Ley.
-
-> <small>(ADICIONADO, D.O.F. 3 DE JUNIO DE 2019)</small>
-
-###### Artículo 30 Bis 7.
-
-En igualdad de circunstancias se dará preferencia en la adopción a solicitantes mexicanos sobre extranjeros. Asimismo, se dará preferencia a las adopciones nacionales sobre las internacionales.
-
-> <small>(ADICIONADO, D.O.F. 3 DE JUNIO DE 2019)</small>
-
-###### Artículo 30 Bis 8.
-
-Los Centros de Asistencia Social públicos y privados que tengan bajo su custodia adolescentes que cumplan la mayoría de edad deberán garantizarles los servicios de atención que les permitan una óptima inclusión al entorno social.
-
-> <small>(ADICIONADO, D.O.F. 3 DE JUNIO DE 2019)</small>
-
-###### Artículo 30 Bis 9.
-
-Para que la adopción pueda tener lugar deberán consentirla, por escrito y ante el juez que conozca del procedimiento, la Procuraduría de Protección correspondiente, el solicitante y, en su caso, el adolescente sujeto de adopción.
-
-Para el caso de que los solicitantes sean cónyuges o concubinos, ambos deberán consentir la adopción ante el juez.
-
-En el caso de adolescentes con discapacidad, será necesario su consentimiento, siempre y cuando fuese posible la expresión indubitable de su voluntad.
-
-Si la Procuraduría de Protección competente no consiente la adopción, deberá expresar la causa, misma que el juez calificará tomando en cuenta el interés superior de la niñez.
-
-> <small>(ADICIONADO, D.O.F. 3 DE JUNIO DE 2019)</small>
-
-###### Artículo 30 Bis 10.
-
-Las Procuradurías de Protección y los sistemas DIF, en el ámbito de sus respectivas competencias, crearán los mecanismos necesarios para que los adoptantes cuenten con un procedimiento único, que permita que el trámite de adopción sea rápido, eficaz y transparente.
-
-> <small>(ADICIONADO, D.O.F. 3 DE JUNIO DE 2019)</small>
-
-###### Artículo 30 Bis 11.
-
-En su ámbito de competencia, el Sistema Nacional DIF, en coordinación con la Procuraduría Federal de Protección, dispondrá lo necesario a efecto de homologar los requisitos y procedimientos administrativos de adopción a nivel nacional y estatal.
-
-En ningún caso se solicitará certificado médico de infertilidad como requisito para adoptar.
-
-> <small>(ADICIONADO, D.O.F. 3 DE JUNIO DE 2019)</small>
-
-###### Artículo 30 Bis 12.
-
-A fin de acompañar la adaptación de niñas, niños y adolescentes a su nueva familia y entorno, así como conocer la evolución de su desarrollo, los sistemas DIF, en coordinación con la Procuraduría de Protección que corresponda, realizarán su seguimiento al menos cada seis meses durante los tres años posteriores a la adopción.
-
-> <small>(ADICIONADO, D.O.F. 3 DE JUNIO DE 2019)</small>
-
-###### Artículo 30 Bis 13.
-
-En caso de que el adoptante sea extranjero con residencia permanente en el territorio nacional, las autoridades competentes incluirán, como requisito del certificado de idoneidad, la comprobación de la situación migratoria regular en el territorio nacional.
-
-> <small>(ADICIONADO, D.O.F. 3 DE JUNIO DE 2019)</small>
-
-###### Artículo 30 Bis 14.
-
-La adopción en todo caso será plena e irrevocable.
-
-> <small>(ADICIONADO, D.O.F. 3 DE JUNIO DE 2019)</small>
-
-###### Artículo 30 Bis 15.
-
-El Sistema Nacional DIF y la Procuraduría de Protección Federal celebrarán los convenios de colaboración que se consideren necesarios para garantizar el derecho a vivir en familia con sus pares locales o con las autoridades que se requiera.
-
-### Capítulo Quinto. Del Derecho a la Igualdad Sustantiva
+### CAPÍTULO II. DE LAS FACULTADES Y ATRIBUCIONES
 
 ###### Artículo 31.
 
-Tratándose de adopción internacional, la legislación aplicable deberá disponer lo necesario para asegurar que los derechos de niñas, niños y adolescentes que sean adoptados sean garantizados en todo momento y se ajusten el interés superior de la niñez, así como garantizar que esta adopción no sea realizada para fines de venta, sustracción, retención u ocultación ilícita, tráfico, trata de personas, explotación, las peores formas de trabajo infantil o cualquier ilícito en contra de los mismos.
+La Auditoría tendrá las siguientes facultades y atribuciones:
 
-> <small>(ADICIONADO, D.O.F. 3 DE JUNIO DE 2019)</small>
+I. Revisar y Fiscalizar la Cuenta Pública Estatal y Municipal, así como su gestión financiera, en términos de lo dispuesto en la presente Ley y el Código;
 
-Con el fin de salvaguardar el interés superior de la niñez, previo a que la adopción internacional pueda tener lugar, las autoridades competentes deberán determinar si la niña, el niño o el adolescente son susceptibles de adopción.
+II. Aplicar y hacer cumplir las disposiciones contenidas en la presente Ley y el Código y demás disposiciones aplicables;
 
-> <small>(ADICIONADO, D.O.F. 3 DE JUNIO DE 2019)</small>
+III. Emitir y publicar en el Periódico Oficial del Gobierno del Estado, los lineamientos técnicos y criterios para la práctica de auditorías y su seguimiento;
 
-Las autoridades competentes deberán establecer medidas de prevención y protección para evitar adopciones ilegales. Para tal efecto, podrán requerir la colaboración de la autoridad central del país de que se trate, a fin de obtener información o supervisar las medidas preventivas que se hayan dictado, en términos del tratado internacional en la materia.
+IV. Verificar que los informes de avance de gestión financiera y las Cuentas Públicas sean presentados en los términos de esta Ley y de conformidad con la normatividad en materia de contabilidad gubernamental;
 
-En los procedimientos judiciales de adopción internacional deberá requerirse el informe de adoptabilidad por parte del Sistema Nacional DIF o de los Sistemas de las Entidades y, una vez que el órgano jurisdiccional competente otorgue la adopción, previa solicitud de los adoptantes, la Secretaría de Relaciones Exteriores expedirá la certificación correspondiente, de conformidad con los tratados internacionales.
+V. Proponer al Consejo Estatal de armonización contable, en los términos de la Ley General de Contabilidad Gubernamental, información complementaria a la prevista en dicha Ley para incluirse en la Cuenta Pública y modificaciones a los formatos de integración correspondientes;
 
-El Estado dará seguimiento a la convivencia y proceso de adaptación conforme a su nueva situación, con el fin de prevenir o superar las dificultades que se puedan presentar.
+VI. Desarrollar e implementar, investigaciones, encuestas, métodos y sistemas necesarios para la revisión y fiscalización de las Cuentas Públicas;
 
-Las personas que ejerzan profesiones en el trabajo social y psicología de las instituciones públicas y privadas que intervengan en procedimientos de adopción internacional, en términos de lo dispuesto en los tratados internacionales, deberán contar con la autorización y registro del Sistema Nacional DIF y los Sistemas de las entidades en el ámbito de su competencia.
+VII. Evaluar el cumplimiento final de los objetivos y metas fijadas en los programas, conforme a los indicadores estratégicos y de gestión establecidos en los presupuestos de egresos de que se trate tomando en cuenta los Planes de Desarrollo, sectoriales y regionales, programas operativos anuales y los programas de las entidades fiscalizables, a efecto de verificar el desempeño de las mismas y en su caso, el uso de los recursos públicos conforme a las disposiciones legales;
 
-La adopción internacional de una niña, niño o adolescente de nacionalidad mexicana procederá cuando se haya constatado por las autoridades correspondientes que ésta responde al interés superior de la niñez, después de haber examinado adecuadamente las posibilidades de asignación de la niña, niño o adolescente para adopción nacional.
+VIII. Verificar documentalmente que las entidades fiscalizables que hubieren captado, recaudado, manejado, administrado, custodiado, aplicado o ejercido recursos públicos, lo hayan realizado conforme a los programas aprobados y montos autorizados, con apego a las disposiciones legales aplicables;
 
-> <small>(ADICIONADO, D.O.F. 3 DE JUNIO DE 2019)</small>
+IX. Verificar que las operaciones que realicen las entidades fiscalizables sean acordes, en su caso, con las Leyes de Ingresos y Presupuestos de Egresos correspondientes, y se efectúen con apego a las disposiciones normativas que regulan el uso y manejo de recursos públicos;
 
-Las autoridades competentes tienen la obligación de conservar cualquier información que dispongan relativa a niñas, niños y adolescentes que hayan sido adoptados internacionalmente, así como de sus orígenes.
+X. Verificar obras, bienes adquiridos y servicios contratados, para comprobar si las inversiones y gastos autorizados a las entidades fiscalizables se aplicaron legal y eficientemente al logro de los objetivos y metas de los programas;
 
-### Capítulo Sexto. Del Derecho a No ser Discriminado
+XI. Requerir a los auditores externos copia de todos los informes y dictámenes de las auditorias por ellos practicadas a las entidades fiscalizables;
+
+XII. Solicitar a las entidades fiscalizables, servidores públicos y particulares, sean personas físicas o morales, toda aquélla información y documentación que requiera con motivo del ejercicio de sus facultades de revisión y fiscalización;
+
+XIII. Solicitar a las autoridades el auxilio y apoyo que necesite para el ejercicio expedito de sus funciones de revisión y fiscalización;
+
+XIV. Requerir a terceros que hubieren contratado con las entidades fiscalizables, toda la información y documentación relacionada con la documentación justificativa y comprobatoria de los Recursos Públicos, a efecto de realizar las compulsas necesarias;
+
+XV. Fiscalizar los recursos públicos que las entidades fiscalizables hayan otorgado con cargo a su presupuesto, fideicomisos, fondos, mandatos o cualquier otra figura análoga, así como verificar su aplicación al objeto autorizado;
+
+XVI. Investigar, en el ámbito de su competencia, los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia, aplicación o ejercicio de fondos y recursos públicos;
+
+XVII. Recibir las quejas y denuncias que se presenten por actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el manejo de los recursos públicos, las cuales podrán ser tomadas en cuenta al momento de elaborar su programa anual de auditorías, visitas e inspecciones de conformidad con lo dispuesto en el código;
+
+XVIII. Efectuar visitas domiciliarias, para exigir la exhibición de libros, papeles, contratos, convenios, nombramientos, dispositivos magnéticos o electrónicos de almacenamiento de información, documentos y archivos indispensables para la realización de sus investigaciones, sujetándose a lo dispuesto en la presente Ley y el Código;
+
+XIX. Efectuar visitas de inspección, a efecto de verificar que los bienes muebles e inmuebles propiedad de las entidades fiscalizables o afectos a su servicio bajo cualquier título legal, se hallen destinados al objeto para el cual fueron adquiridos o pactados;
+
+XX. Efectuar visitas de inspección, a efecto de verificar que las obras, servicios relacionados con las mismas y adquisiciones, ejecutadas o en proceso de ejecución por las entidades fiscalizables, se hayan ejecutado, de conformidad con la planeación, programación, presupuestación y comprobación, y que cumpla con la función para las cuales fueron ejecutadas;
+
+XXI. Verificar que las entidades fiscalizables implementen y mantengan actualizado el padrón de contratistas a que se refiere la Ley de Obras Públicas y Servicios Relacionados para el Estado de Oaxaca;
+
+XXII. Formular recomendaciones al desempeño para mejorar los resultados, la eficiencia, eficacia y economía de las acciones de gobierno, a fin de elevar la calidad del desempeño gubernamental;
+
+XXIII. Formular solicitudes de aclaración, a las entidades fiscalizables, a efecto de contar con mayores elementos para la determinación de observaciones;
+
+XXIV. Formular Informes de Auditoría derivadas de sus facultades de revisión y fiscalización;
+
+XXV. Realizar promociones de intervención de las instancias de control competente, promociones del ejercicio de la facultad de comprobación fiscal, promociones de responsabilidad administrativa disciplinaria sancionatoria, denuncias de hechos y/o denuncias de juicios políticos;
+
+XXVI. Determinar los daños, perjuicios, o ambos, que afecten las haciendas públicas estatal o municipales, o en su caso, al patrimonio de las entidades fiscalizables, y fincar directamente las responsabilidades administrativas resarcitorias;
+
+XXVII. Imponer Multas a las entidades fiscalizables, personas físicas o morales, públicas o privadas, en los términos previstos en la presente Ley y el Código;
+
+XXVIII. Promover y dar seguimiento ante las autoridades competentes del fincamiento de otras responsabilidades, en términos de lo dispuesto en el Título Séptimo de la Constitución Política del Estado Libre y Soberano de Oaxaca;
+
+XXIX. Tramitar y resolver el procedimiento para el fincamiento de responsabilidades administrativas resarcitorias;
+
+XXX. Admitir a trámite y desechar en su caso, los recursos de reconsideración que se interpongan en contra de las resoluciones que emita, del informe de auditoría, así como de las multas que imponga en términos de la presente Ley y el Código;
+
+XXXI. Concertar y celebrar en los casos en que lo estime conveniente, convenios en general con la Auditoría Superior de la Federación, entidades de fiscalización superior homologas y las entidades fiscalizables, con el propósito de apoyar y hacer más eficiente la revisión y fiscalización de los recursos públicos;
+
+XXXII. Celebrar convenios de colaboración en materia de fiscalización, con organismos nacionales e internacionales que agrupen a entidades de fiscalización superior homologas con la Auditoría, con el sector privado y con colegios de profesionistas e instituciones académicas;
+
+XXXIII. Celebrar convenios con la Secretaría de Finanzas del Gobierno del estado, para el cobro de las multas impuestas en términos del Código y la presente Ley.
+
+XXXIV. Elaborar estudios e investigaciones relacionadas con las materias de su competencia y publicarlos;
+
+XXXV. Fiscalizar la deuda pública en su contratación, registro, renegociación, administración y pago;
+
+XXXVI. Solicitar información preliminar a las entidades fiscalizables, a efecto de llevar a cabo la planeación de la revisión y fiscalización;
+
+XXXVII. Obtener durante el desarrollo de las auditorías que al efecto inicie, copia de los documentos que tengan a la vista y cotejarlas con sus originales;
+
+XXXVIII. Expedir certificaciones de los documentos que generen sus Unidades Administrativas con motivo de las facultades que le confiere la presente Ley y el Código;
+
+XXXIX. Constatar la existencia, procedencia y registro de los activos y pasivos de las entidades fiscalizables, de los fideicomisos, fondos y mandatos o cualquier figura análoga, para verificar la razonabilidad de las cifras mostradas en los estados financieros consolidados y particulares generados o derivados de la aplicación, uso, ejercicio de los Recursos Públicos;
+
+XL. Prestar asesoría, promover cursos y seminarios de capacitación y actualización, dirigidos a servidores públicos, con el objeto de facilitar el manejo de la administración de la hacienda pública;
+
+XLI. Proporcionar en forma periódica cursos y seminarios de capacitación y actualización, dirigidos a los servidores públicos de la Auditoría, a efecto de garantizar que las actuaciones de su personal se ajusten a las disposiciones legales aplicables;
+
+XLII. Solicitar la presencia de los representantes legales de las entidades fiscalizables en la fecha y hora que se les señale, para la celebración de reuniones de trabajo, en las que se les haga de su conocimiento la parte que corresponda de los resultados y, en su caso, observaciones preliminares de las auditorías que se practicaron;
+
+XLIII. Elaborar y mantener actualizado el padrón de servidores públicos sancionados por la Auditoría;
+
+XLIV. Recabar y resguardar las acreditaciones de los servidores públicos municipales, manteniendo actualizado el padrón de servidores públicos y funcionarios de los Ayuntamientos;
+
+XLV. Emitir los acuerdos de clasificación y desclasificación de la información de acceso restringido, en sus modalidades de reservada y confidencial en términos de lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública del Estado de Oaxaca;
+
+XLVI. Emitir los lineamientos y criterios para el archivo, resguardo, baja y destino final de la información y documentación de la Auditoría;
+
+XLVII. Establecer, verificar y evaluar las normas, procedimientos, métodos y sistemas de contabilidad, libros y documentos justificativos y comprobatorios del ingreso y del gasto público, así como todos aquellos elementos que permitan la practica idónea de las auditorias y revisiones.
+
+XLVIII. Expedir los Manuales Internos para la tramitación de los expedientes y documentos de cada una de las áreas administrativas que conforman a la Auditoría; y,
+
+XLIX. Las demás que le sean conferidas en la presente Ley, el Código y demás disposiciones legales aplicables.
+
+### CAPÍTULO III
+
+DEL INFORME DE RESULTADOS.
 
 ###### Artículo 32.
 
-Las personas que ejerzan profesiones en el trabajo social y psicología o carreras afines de las instituciones públicas y privadas que realicen estudios socioeconómicos, psicológicos e informes psicosociales en materia de adopción, deberán cumplir con los requisitos siguientes:
+La Auditoría, deberá rendir al Congreso, por conducto de la Comisión, el informe de resultados de la Cuenta Pública de los Poderes del Estado y Órganos Autónomos a más tardar el día 15 de septiembre de su presentación. Tratándose de los informes de resultados de las Cuentas Públicas de los Municipios, los rendirá a más tardar el día último hábil del mes de noviembre del año de su presentación.
 
-I. Contar con título y cédula profesional de licenciatura en trabajo social, psicología o carreras afines;
-
-II. Acreditar experiencia en temas de desarrollo de la niñez y de la adolescencia, familia, pareja o adopción;
-
-III. Acreditar experiencia laboral mínima de dos años, en trabajo social o psicología, o en la atención de niñas, niños o adolescentes sujetos de asistencia social o solicitantes de adopción;
-
-IV. Presentar carta compromiso por parte de la institución de asistencia privada que proponga al profesional de que se trate ante el Sistema Nacional DIF, y los Sistemas de las Entidades, en los casos de profesionales que busquen ingresar a instituciones privadas;
-
-V. No haber sido condenado por delitos dolosos;
-
-VI. Presentar constancia de la institución de asistencia privada en la que indique que las personas profesionales en trabajo social o psicología o carreras afines, son personas empleadas asalariadas con remuneración mensual fija, y
-
-VII. El Sistema Nacional DIF y los Sistemas de las Entidades expedirán las autorizaciones correspondientes y llevarán un registro de las mismas.
+Tratándose del último año de la administración estatal, el informe de resultados se presentara en los plazos y términos establecidos en la Constitución y en la Presente Ley.
 
 ###### Artículo 33.
 
-Cuando las personas que laboren en las instituciones públicas y privadas contravengan los derechos de niñas, niños y adolescentes o incurran en actos contrarios al interés superior de la niñez, el Sistema Nacional DIF y los Sistemas de las Entidades revocarán la autorización y registrará la cancelación a que se refiere el artículo anterior.
+A solicitud de la Comisión, el Auditor Superior y los servidores públicos, que éste designe presentarán, explicaran o aclararán el contenido de los Informes de Resultados, en sesiones de la Comisión cuantas veces sea necesario a fin de tener un mejor entendimiento de los mismos, siempre y cuando no se revele información reservada o que forme parte de un proceso de investigación.
 
-Las personas profesionales a quienes sea revocada la autorización serán inhabilitadas y boletinadas por el Sistema Nacional DIF y los Sistemas de las Entidades, a fin de evitar adopciones contrarias al interés superior de la niñez. Lo anterior, sin perjuicio de las sanciones previstas en las disposiciones jurídicas aplicables.
-
-Para la revocación de las autorizaciones e inhabilitación a que se refiere este artículo, se seguirán las disposiciones en materia de procedimiento administrativo aplicables en los ámbitos federal o de las entidades federativas, según corresponda.
-
-Cualquier persona podrá presentar una queja ante el Sistema Nacional DIF y los Sistemas de las Entidades si considera que se actualizan los supuestos previstos en el primer párrafo de este artículo.
+Lo anterior, sin que se entienda para todos los efectos legales como una modificación a los Informes de Resultados.
 
 ###### Artículo 34.
 
-Las leyes federales y de las entidades federativas garantizarán el cumplimiento de las obligaciones señaladas en el presente Capítulo.
+Los Informes de Resultados contendrán los informes de las auditorías practicadas e incluirá como mínimo lo siguiente:
+
+I. Los criterios de selección, el objetivo, el alcance, los procedimientos de auditoría aplicados y el dictamen de cada auditoría;
+
+II. En su caso, las auditorías sobre el desempeño;
+
+III. El cumplimiento de los principios de contabilidad gubernamental y de las disposiciones contenidas en los ordenamientos y normativa correspondientes;
+
+IV. Los resultados de la gestión financiera;
+
+V. El análisis de que las entidades fiscalizables, se ajustaron a lo dispuesto en sus respectivas Leyes de Ingresos, Presupuesto de Egresos y demás disposiciones jurídicas aplicables;
+
+VI. El análisis de las desviaciones, en su caso;
+
+VII. Las observaciones, recomendaciones y las acciones promovidas;
+
+VIII. Un apartado específico en cada una de las auditorías realizadas donde se incluyan las justificaciones y aclaraciones que, en su caso, las entidades fiscalizables hayan presentado en relación con los resultados y las observaciones que se les hayan hecho durante las revisiones;
+
+IX. Un apartado que contenga los resultados de la fiscalización del manejo de los recursos federales por parte de los Estados y Municipios;
+
+X. Las recomendaciones y conclusiones de los resultados obtenidos que a su juico sean procedentes, de acuerdo a sus fundamentos legales; y
+
+XI. Derivado de las auditorías, en su caso y dependiendo de la relevancia de las observaciones, un apartado donde se incluyan sugerencias al Congreso para modificar disposiciones legales a fin de mejorar la gestión financiera y el desempeño de entidades fiscalizables.
 
 ###### Artículo 35.
 
-Las autoridades competentes en materia de desarrollo integral de la familia e instituciones públicas y privadas ofrecerán orientación, cursos y asesorías gratuitas, así como servicios terapéuticos en materia de pareja, de maternidad y paternidad, entre otros.
+Los informes de resultados de la revisión de las respectivas Cuentas Públicas, deberán contener además el resultado del examen y verificación de la aplicación de las normas y procedimientos de auditoría y técnicas de análisis financiero, para el efecto de evaluar la aplicación de los postulados básicos de contabilidad gubernamental, respecto del gasto ejercido por los Poderes del Estado y demás entidades fiscalizables.
+
+Las Normas y Procedimientos de Auditoría deberán aplicarse al universo selectivo de las cuentas y partidas que integran los estados financieros y presupuestales, con el fin de comprobar que las cifras presentadas corresponden con los datos y resultados emanados de los documentos básicos de registro y comprobación presupuestal del ejercicio correspondiente. Así también, deberán aplicarse como mínimo las siguientes razones financieras para determinar los indicadores de las finanzas públicas:
+
+I. Liquidez financiera de los entes fiscalizados al cierre del ejercicio fiscal que corresponda a la revisión;
+
+II. Índice de comportamiento de la deuda total de relación con el activo total;
+
+III. Índice del comportamiento de los ingresos propios en relación con los ingresos totales del ejercicio fiscal que corresponda a la revisión;
+
+IV. Índice del comportamiento de las contribuciones e ingresos extraordinarios del ejercicio fiscal en revisión; y
+
+V. Índice de los recursos asignados a Municipios en el periodo sujeto a revisión.
 
 ###### Artículo 36.
 
-Niñas, niños y adolescentes tienen derecho al acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales.
+La Auditoría dará cuenta al Congreso con los Informes de Resultados de las observaciones, recomendaciones y acciones promovidas y, en su caso, de la imposición de las multas respectivas, y demás acciones que deriven de los resultados de las auditorías practicadas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+Sin perjuicio de lo dispuesto en el párrafo anterior, la Auditoría informará al Congreso, por conducto de la Comisión, del estado que guarda la solventación de observaciones y acciones promovidas a entidades fiscalizables.
+
+Para tal efecto, el reporte a que se refiere este artículo será semestral y deberá ser presentado a más tardar el primer día hábil de los meses de mayo y noviembre de cada año, con los datos disponibles al cierre del primer y tercer trimestres del año, respectivamente.
+
+El informe semestral se elaborará con base en los formatos que al efecto establezca la Comisión e incluirá invariablemente los montos de los resarcimientos al erario derivados de la fiscalización de las Cuentas Públicas y en un apartado especial, la atención a las recomendaciones al desempeño. Asimismo deberá publicarse en la página de Internet de la Auditoría en la misma fecha en que sea presentado.
 
 ###### Artículo 37.
 
-Las autoridades de la Federación, de las entidades federativas, de los municipios y de las demarcaciones territoriales de la Ciudad de México, para garantizar la igualdad sustantiva deberán:
+El Auditor Superior, una vez rendido el Informe de Resultados al Congreso, y con independencia de las actuaciones, promociones y procedimientos iniciados a que se refiere el artículo anterior, enviará a las entidades fiscalizables y, de ser procedente a otras autoridades competentes, a más tardar dentro de los diez días hábiles posteriores a la fecha en que sea entregado el Informe de Resultados, las acciones promovidas y recomendaciones señaladas en esta Ley.
 
-I. Transversalizar la perspectiva de género en todas sus actuaciones y procurar la utilización de un lenguaje no sexista en sus documentos oficiales;
+Las promociones de responsabilidad administrativa sancionatoria, deberá emitirse a más tardar durante los siguientes 90 días hábiles posteriores a la conclusión del plazo de solventación, con la finalidad de evitar la prescripción de las acciones legales correspondientes.
 
-II. Diseñar, implementar y evaluar programas, políticas públicas a través de Acciones afirmativas tendientes a eliminar los obstáculos que impiden la igualdad de acceso y de oportunidades a la alimentación, a la educación y a la atención médica entre niñas, niños y adolescentes;
+En el caso de las promociones de responsabilidades administrativas sancionatorias que se notifiquen a las autoridades competentes, deberán remitirse acompañando copia certificada del expediente que sustente la promoción respectiva.
 
-III. Implementar acciones específicas para alcanzar la eliminación de costumbres, tradiciones, prejuicios, roles y estereotipos sexistas o de cualquier otra índole que estén basadas en la idea de inferioridad;
-
-IV. Establecer medidas dirigidas de manera preferente a niñas y adolescentes que pertenezcan a grupos y regiones con mayor rezago educativo o que enfrenten condiciones económicas y sociales de desventaja para el ejercicio de los derechos contenidos en esta Ley;
-
-V. Establecer los mecanismos institucionales que orienten al Estado mexicano hacia el cumplimiento de la igualdad sustantiva en los ámbitos público y privado, promoviendo el empoderamiento de las niñas y adolescentes;
-
-VI. Desarrollar campañas permanentes de sensibilización de los derechos de niñas y adolescentes.
+Las acciones promovidas a que se refiere el párrafo anterior, no serán formuladas o emitidas, cuando las entidades fiscalizables aporten elementos que solventen las observaciones respectivas, situación que se hará del conocimiento de las mismas y del Congreso por escrito.
 
 ###### Artículo 38.
 
-Las normas aplicables a las niñas y a las adolescentes deberán estar dirigidas a visibilizar, promover, respetar, proteger y garantizar, en todo momento, sus derechos en aras de alcanzar la igualdad sustantiva con respecto a los niños y a los adolescentes; y, en general, con toda la sociedad.
+Las denuncias penales de hechos presuntamente ilícitos, deberán presentarse por parte de la Auditoría cuando se cuente con los elementos suficientes que establezca la Ley.
 
-### Capítulo Séptimo. Del Derecho a Vivir en Condiciones de Bienestar y a un Sano Desarrollo Integral
+### CAPÍTULO IV
+
+DE LA CONCLUSIÓN DE LA REVISIÓN DE LAS CUENTAS PÚBLICAS.
 
 ###### Artículo 39.
 
-Niñas, niños y adolescentes tienen derecho a no ser sujetos de discriminación alguna ni de limitación o restricción de sus derechos, en razón de su origen étnico, nacional o social, idioma o lengua, edad, género, preferencia sexual, estado civil, religión, opinión, condición económica, circunstancias de nacimiento, discapacidad o estado de salud o cualquier otra condición atribuible a ellos mismos o a su madre, padre, tutor o persona que los tenga bajo guarda y custodia, o a otros miembros de su familia.
+La Comisión realizará un análisis de los Informes de Resultados y podrá solicitar a las Comisiones Permanentes del Congreso una opinión sobre aspectos o contenidos específicos de los Informes de Resultados.
 
-Asimismo, las autoridades están obligadas a llevar a cabo medidas especiales para prevenir, atender y erradicar la Discriminación Múltiple de la que son objeto niñas, niños y adolescentes en situación de exclusión social, en situación de calle, afrodescendientes, peores formas de trabajo infantil o cualquiera otra condición de marginalidad.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+El análisis de la Comisión podrá incorporar aquellas sugerencias que juzgue conveniente y que haya hecho la Auditoría, para modificar disposiciones legales que pretendan mejorar la gestión financiera y el desempeño de entidades fiscalizables.
 
 ###### Artículo 40.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, están obligadas a adoptar medidas y a realizar las acciones afirmativas necesarias para garantizar a niñas, niños y adolescentes la igualdad sustantiva, de oportunidades y el derecho a la no discriminación.
+En aquellos casos en que la Comisión detecte errores en los Informes de Resultados o bien, considere necesario aclarar o profundizar el contenido del mismo, podrá solicitar a la Auditoría la entrega por escrito de las explicaciones pertinentes, así como la comparecencia del Auditor Superior o de otros servidores públicos de la misma, las ocasiones que considere necesarias, a fin de realizar las aclaraciones correspondientes, sin que ello implique la reapertura de los Informes de Resultados.
 
-La adopción de estas medidas y la realización de acciones afirmativas formarán parte de la perspectiva antidiscriminatoria, la cual será incorporada de manera transversal y progresiva en el quehacer público, y de manera particular en el diseño, implementación y evaluación de las políticas públicas.
-
-Serán factor de análisis prioritario las diferencias de género como causa de vulnerabilidad y discriminación en contra de las niñas y las adolescentes.
+La Comisión podrá formular recomendaciones a la Auditoría, las cuales serán incluidas en las conclusiones sobre los Informes de Resultados.
 
 ###### Artículo 41.
 
-Las instancias públicas de los poderes federales y locales así como los órganos constitucionales autónomos deberán reportar semestralmente al Consejo Nacional para Prevenir la Discriminación, o a la instancia respectiva local, las medidas de nivelación, medidas de inclusión y Acciones afirmativas que adopten, para su registro y monitoreo, en términos de la Ley Federal para Prevenir y Eliminar la Discriminación y de las legislaciones locales correspondientes.
+La Comisión someterá a votación del Pleno el dictamen correspondiente a más tardar antes de la conclusión del segundo periodo ordinario de sesiones del año siguiente al de la presentación de la Cuenta Pública.
 
-Dichos reportes deberán desagregar la información, por lo menos, en razón de edad, sexo, escolaridad, entidad federativa y tipo de discriminación.
+La aprobación del dictamen no suspende el trámite de las acciones promovidas por la Auditoría, mismas que seguirán el procedimiento previsto en la presente Ley y el Código.
 
-> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+### CAPÍTULO V
 
-### Capítulo Octavo. Derecho de Acceso a una Vida Libre de Violencia y a la Integridad Personal
+DE LA REVISIÓN DE LAS SITUACIONES EXCEPCIONALES.
 
 ###### Artículo 42.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, adoptarán medidas para la eliminación de usos, costumbres, prácticas culturales o prejuicios que atenten contra la igualdad de niñas, niños y adolescentes por razón de género o que promuevan cualquier tipo de discriminación, atendiendo al interés superior de la niñez.
+Para los efectos de lo previsto en el párrafo segundo de la fracción I, del artículo 65 BIS de la Constitución Local, sin perjuicio del principio de posterioridad, cuando se presenten denuncias fundadas con documentos o evidencias mediante los cuales se presuma el manejo, administración, recaudación, aplicación o custodia irregular de recursos públicos, materiales y financieros o de su desvío de los fines a que estaban afectos, en los supuestos previstos en el artículo 44 de esta Ley, la Auditoría podrá requerir a las entidades fiscalizables le rindan un informe de situación excepcional durante el ejercicio fiscal en curso sobre los conceptos específicos o situaciones denunciados.
+
+La Auditoría deberá acompañar al requerimiento los documentos o evidencias presentados por los denunciantes al enviar el requerimiento antes mencionado a las entidades fiscalizables. Las denuncias podrán presentarse ante el Congreso, la Comisión o directamente a la Auditoría.
 
 ###### Artículo 43.
 
-Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano y sustentable, y en condiciones que permitan su desarrollo, bienestar, crecimiento saludable y armonioso, tanto físico como mental, material, espiritual, ético, cultural y social.
+Las entidades fiscalizables deberán rendir a la Auditoría en un plazo que no excederá de treinta días hábiles, contados a partir de la recepción del requerimiento, el informe de situación excepcional donde se describa la procedencia o improcedencia de la denuncia, así como sus actuaciones y, en su caso, de las sanciones que se hubieren impuesto a los servidores públicos involucrados o de los procedimientos sancionatorios iniciados.
 
-> <small>(REFORMADO, D.O.F. 26 DE MARZO DE 2024)</small>
+Con base en el informe de situación excepcional, la Auditoría podrá, en su caso, fincar las responsabilidades que procedan en términos de la presente ley, promover otras responsabilidades ante las autoridades competentes o solicitar que la instancia de control competente profundice en la investigación de la denuncia formulada e informe de los resultados obtenidos a la Auditoría.
+
+Sin perjuicio de lo previsto en este artículo, la Auditoría podrá auditar directamente la situación excepcional una vez concluido el ejercicio fiscal y, en su caso, fincará las responsabilidades que procedan, para lo cual podrá realizar auditorías, visitas e inspecciones de manera específica a fondos, programas o proyectos, sin necesidad de iniciar la revisión y fiscalización de la Cuenta Pública correspondiente.
+
+Los resultados del informe de situación excepcional y, en su caso, de las sanciones impuestas o promovidas, deberán incluirse en los Informes de Resultados que se envíen al Congreso.
 
 ###### Artículo 44.
 
-Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, así como a quienes los tengan bajo su atención y cuidado, la obligación primordial de adoptar prácticas de crianza positiva y de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo. Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, coadyuvarán a dicho fin mediante la adopción de las medidas apropiadas.
+Se entenderá por situaciones excepcionales aquellos casos en los cuales, de la denuncia que al efecto se presente, se deduzca alguna de las circunstancias siguientes:
+
+I. Un posible daño patrimonial que afecte las Haciendas Públicas Estatal o Municipales o, en su caso, al patrimonio de entidades fiscalizables, por un monto que resulte superior a cinco mil veces el salario mínimo diario general vigente en la entidad;
+
+II. Posibles actos de corrupción en el registro, resguardo, manejo, administración, ejercicio, aplicación y destino de recursos públicos materiales y financieros;
+
+III. Posible desvío de recursos materiales y financieros hacia fines distintos a los que están autorizados;
+
+IV. La afectación de áreas estratégicas o prioritarias de la economía;
+
+V. El riesgo de que se paralice la prestación de servicios públicos esenciales para la comunidad, y
+
+VI. El desabasto de productos de primera necesidad.
 
 ###### Artículo 45.
 
-Las leyes federales y de las entidades federativas, en el ámbito de sus respectivas competencias, establecerán como edad mínima para contraer matrimonio los 18 años.
-
-> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2023)</small>
-
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias deberán adoptar medidas integrales para la protección de niñas, niños y adolescentes contra las prácticas nocivas de cesión a título oneroso o gratuito con fines de unión formal e informal o consuetudinaria.
-
-> <small>(ADICIONADO, D.O.F. 1 DE DICIEMBRE DE 2023)</small>
-
-Estas medidas deberán establecer acciones afirmativas respecto a niñas, niños y adolescentes que formen parte de comunidades indígenas, afromexicanas, con discapacidad, en situación de migración o desplazamiento o en exclusión social.
+Las entidades fiscalizables estarán obligados a realizar una revisión para elaborar el informe de situación excepcional que la Auditoría les requiera, sin que dicha revisión interfiera u obstaculice el ejercicio de las funciones o atribuciones que conforme a la ley competa a las autoridades y a los servidores públicos.
 
 ###### Artículo 46.
 
-Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda forma de violencia y a que se resguarde su integridad personal, a fin de lograr las mejores condiciones de bienestar y el libre desarrollo de su personalidad.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+Si transcurrido el plazo señalado en el artículo 43 de esta Ley, las entidades fiscalizables, sin causa justificada, no presentan el informe de situación excepcional, la Auditoría impondrá a los servidores públicos responsables una multa en los términos previstos en esta Ley y el Código, y requerirá al infractor para que en un plazo que no sea mayor de 5 días hábiles, cumpla con la obligación omitida que motivó a la sanción correspondiente. En caso de continuar con la omisión, será considerado como reincidente.
 
 ###### Artículo 47.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, están obligadas a tomar las medidas necesarias para prevenir, atender y sancionar los casos en que niñas, niños o adolescentes se vean afectados por:
-
-I. El descuido, negligencia, abandono o abuso físico, psicológico o sexual;
-
-II. La corrupción de personas menores de dieciocho años de edad;
-
-III. Trata de personas menores de 18 años de edad, abuso sexual infantil, explotación sexual infantil con o sin fines comerciales, o cualquier otro tipo de explotación, y demás conductas punibles establecidas en las disposiciones aplicables;
-
-IV. El tráfico de menores;
-
-V. El trabajo antes de la edad mínima de quince años, prevista en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables;
-
-> <small>(REFORMADA, D.O.F. 23 DE MARZO DE 2022)</small>
-
-VI. El trabajo en adolescentes mayores de 15 años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso y la esclavitud, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y en las demás disposiciones aplicables;
-
-> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 2021)</small>
-
-VII. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral, y
-
-> <small>(ADICIONADA, D.O.F. 11 DE ENERO DE 2021)</small>
-
-VIII. El castigo corporal y humillante.
-
-Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda y custodia, así como de los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social, y de cualquier otra índole que brinde asistencia a niñas, niños y adolescentes, sin que, en modo alguno, se autorice a estos el uso del castigo corporal ni el castigo humillante.
-
-Castigo corporal o físico es todo aquel acto cometido en contra de niñas, niños y adolescentes en el que se utilice la fuerza física, incluyendo golpes con la mano o con algún objeto, empujones, pellizcos, mordidas, tirones de cabello o de las orejas, obligar a sostener posturas incómodas, quemaduras, ingesta de alimentos hirviendo u otros productos o cualquier otro acto que tenga como objeto causar dolor o malestar, aunque sea leve.
-
-Castigo humillante es cualquier trato ofensivo, denigrante, desvalorizador, estigmatizante, ridiculizador y de menosprecio, y cualquier acto que tenga como objetivo provocar dolor, amenaza, molestia o humillación cometido en contra de niñas, niños y adolescentes.
-
-Las autoridades competentes deberán considerar la perspectiva de género en las situaciones de violencia.
-
-Las leyes generales, federales y de las entidades federativas deberán establecer las disposiciones que orientarán las políticas de prevención, protección, atención, sanción y erradicación de los supuestos a que se refieren las fracciones anteriores.
-
-Las autoridades competentes, están obligadas a implementar medidas especiales para prevenir, sancionar y reparar las conductas previstas en este artículo para niñas, niños y adolescentes con discapacidad.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+El fincamiento de responsabilidades y la imposición de sanciones no relevarán al infractor de cumplir con las obligaciones o regularizar las situaciones que motivaron las multas.
 
 ###### Artículo 48.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, están obligadas a adoptar las medidas apropiadas para promover la recuperación física y psicológica y la restitución de derechos de niñas, niños y adolescentes para lograr el pleno ejercicio de sus derechos y garantizar su reincorporación a la vida cotidiana.
+Lo dispuesto en el presente Capítulo, no excluye la imposición de las sanciones que conforme a ésta u otras leyes sean aplicables por la Auditoría ni del fincamiento de otras responsabilidades.
 
-La recuperación y restitución de derechos a que se refiere el párrafo anterior se llevarán a cabo en un ambiente que fomente la salud física y psicológica, el respeto y la dignidad de niñas, niños y adolescentes.
+## TÍTULO CUARTO. DE LA DETERMINACIÓN DE DAÑOS Y PERJUICIOS Y DE LA RESPONSABILIDAD ADMINISTRATIVA RESARCITORIA
 
-## TÍTULO CUARTO. De la Protección de Niñas, Niños y Adolescentes
-
-### Capítulo Único. De los Centros de Asistencia Social
-
-> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
-
-###### Artículo 107.
-
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en términos de lo dispuesto por esta Ley, la Ley General de Salud y la Ley de Asistencia Social, establecerán en el ámbito de sus respectivas competencias, los requisitos para autorizar, registrar, certificar y supervisar los centros de asistencia social, a fin de garantizar el cumplimiento de los derechos de niñas, niños y adolescentes privados de cuidado parental o familiar, atendidos en dichos centros.
-
-###### Artículo 108.
-
-Las instalaciones de los centros de asistencia social observarán los requisitos que señale la Ley General de Salud, y deberán cumplir con lo siguiente:
-
-I. Ser administradas por una institución pública o privada, o por una asociación que brinde el servicio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar;
-
-II. Su infraestructura inmobiliaria deberá cumplir con las dimensiones físicas acordes a los servicios que proporcionan y con las medidas de seguridad y protección civil en términos de la legislación aplicable;
-
-III. Ser acordes con el diseño universal y la accesibilidad en términos de la legislación aplicable;
-
-IV. Contar con medidas de seguridad, protección y vigilancia necesarios para garantizar la comodidad, higiene, espacio idóneo de acuerdo a la edad, sexo o condición física o mental de niñas, niños y adolescentes alojados, de manera tal que se permita un entorno afectivo y libre de violencia, en los términos de las disposiciones aplicables;
-
-V. Alojar y agrupar a niñas, niños y adolescentes de acuerdo a su edad y sexo en las áreas de dormitorios, sin que por ningún motivo éstos puedan ser compartidos por adultos, salvo que necesiten ser asistidos por algún adulto;
-
-VI. Contar con espacios destinados especialmente para cada una de las actividades en las que participen niñas, niños y adolescentes;
-
-VII. Atender los requerimientos establecidos por las autoridades de protección civil, salubridad y asistencia social, y
-
-VIII. Procurar un entorno que provea los apoyos necesarios para que niñas, niños y adolescentes con discapacidad vivan incluidos en su comunidad.
-
-Niñas, niños y adolescentes con discapacidad temporal o permanente; sin distinción entre motivo o grado de discapacidad, no podrán ser discriminados para ser recibidos o permanecer en los centros de asistencia social.
-
-###### Artículo 109.
-
-Todo centro de asistencia social, es responsable de garantizar la integridad física y psicológica de las niñas, niños y adolescentes que tengan bajo su custodia.
-
-Los servicios que presten los centros de asistencia social estarán orientados a brindar, en cumplimiento a sus derechos:
-
-I. Un entorno seguro, afectivo y libre de violencia;
-
-II. Cuidado y protección contra actos u omisiones que puedan afectar su integridad física o psicológica;
-
-III. Alimentación que les permita tener una nutrición equilibrada y que cuente con la periódica certificación de la autoridad sanitaria;
-
-IV. Atención integral y multidisciplinaria que le brinde servicio médico integral, atención de primeros auxilios, seguimiento psicológico, social, jurídico, entre otros;
-
-V. Orientación y educación apropiada a su edad, encaminadas a lograr un desarrollo físico, cognitivo, afectivo y social hasta el máximo de sus posibilidades, así como a la comprensión y el ejercicio de sus derechos;
-
-VI. Disfrutar en su vida cotidiana, del descanso, recreación, juego, esparcimiento y actividades que favorezcan su desarrollo integral;
-
-> <small>(REFORMADA, D.O.F. 26 DE MARZO DE 2024)</small>
-
-VII. Servicios de calidad y calidez, por parte de personal capacitado, calificado, apto y suficiente, con formación enfocada en los derechos de la niñez y en la crianza positiva;
-
-VIII. Las personas responsables y el personal de los centros de asistencia social se abstendrán de realizar actividades que afecten la integridad física y psicológica de niñas, niños y adolescentes. De igual manera, los responsables evitarán que el personal que realice actividades diversas al cuidado de niñas, niños y adolescentes, tenga contacto con éstos;
-
-IX. Espacios de participación para expresar libremente sus ideas y opiniones sobre los asuntos que les atañen y que dichas opiniones sean tomadas en cuenta;
-
-X. Brindarles la posibilidad de realizar actividades externas que les permita tener contacto con su comunidad, y
-
-XI. Fomentar la inclusión de las niñas, niños y adolescentes con discapacidad, en términos de la legislación aplicable.
-
-Asimismo y con la finalidad de brindarles mejores alternativas de protección para el cumplimiento de sus derechos, se deberá llevar a cabo la revisión periódica de su situación, de la de su familia y de la medida especial de protección por la cual ingresó al centro de asistencia social, garantizando el contacto con su familia y personas significativas siempre que esto sea posible, atendiendo a su interés superior.
-
-La niña, niño o adolescente deberá contar con expediente completo para efectos de que su situación sea revisada y valorada de manera particular, así como para determinar procedimientos de ingreso y egreso con el apoyo de las autoridades competentes que faciliten su reincorporación familiar o social.
-
-Asimismo, se le deberá garantizar la protección de sus datos personales conforme a la legislación aplicable y hacer de su conocimiento, en todo momento, su situación legal.
-
-###### Artículo 110.
-
-Los centros de asistencia social deben contar, con por lo menos, el siguiente personal:
-
-I. Responsable de la coordinación o dirección;
-
-II. Especializado en proporcionar atención en actividades de estimulación, formación, promoción y autocuidado de la salud; atención médica y actividades de orientación social y de promoción de la cultura de protección civil, conforme a las disposiciones aplicables;
-
-III. El número de personas que presten sus servicios en cada centro de asistencia social será determinado en función de la capacidad económica de éstos, así como del número de niñas, niños y adolescentes que tengan bajo su custodia en forma directa e indirecta, debiendo contar con, por lo menos, una persona de atención por cada cuatro niños o niñas menores de un año, y una persona de atención por cada ocho mayores de esa edad;
-
-IV. Además del personal señalado en el presente artículo, el centro de asistencia social podrá solicitar la colaboración de instituciones, organizaciones o dependencias que brinden apoyo en psicología, trabajo social, derecho, pedagogía, y otros para el cuidado integral de las niñas, niños y adolescentes;
-
-V. Brindar, de manera permanente, capacitación y formación especializada a su personal, y
-
-VI. Supervisar y evaluar de manera periódica a su personal.
-
-###### Artículo 111.
-
-Son obligaciones de los titulares o responsables legales de los centros de asistencia social:
-
-I. Garantizar el cumplimiento de los requisitos establecidos por esta Ley y demás disposiciones aplicables para formar parte del Registro Nacional de Centros de Asistencia Social del Sistema Nacional DIF;
-
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2019)</small>
-
-II. Llevar un registro de niñas, niños y adolescentes bajo su custodia con la información de la situación jurídica en la que se encuentren, el cual actualizarán de manera permanente e informarán de inmediato a la Procuraduría de Protección de la entidad federativa de que se trate, que a su vez remitirá dicha información a la Procuraduría de Protección Federal y al Sistema DIF de la entidad correspondiente;
-
-III. Asegurar que las instalaciones tengan en lugar visible, la constancia de registro de incorporación al Registro Nacional de Centros de Asistencia Social;
-
-IV. Garantizar que el centro de asistencia social cuente con un Reglamento Interno, aprobado por el Sistema Nacional DIF;
-
-V. Contar con un programa interno de protección civil en términos de las disposiciones aplicables;
-
-VI. Brindar las facilidades a las Procuradurías de Protección para que realicen la verificación periódica que corresponda en términos de las disposiciones aplicables; y, en su caso, atender sus recomendaciones;
-
-VII. Esta verificación deberá observar el seguimiento de la situación jurídica y social, así como la atención médica y psicológica de la niña, niño o adolescente y el proceso de reincorporación familiar o social;
-
-VIII. Informar oportunamente a la autoridad competente, cuando el ingreso de una niña, niño o adolescente corresponda a una situación distinta de la derivación por parte de una autoridad o tenga conocimiento de que peligra su integridad física estando bajo su custodia, a fin de iniciar los procedimientos de protección especial de forma oportuna, identificar la mejor solución para el niño, niña o adolescente y, en su caso, evitar su permanencia en el centro de asistencia social, dado su carácter de último recurso y excepcional;
-
-IX. Proporcionar a niñas, niños y adolescentes bajo su custodia, a través del personal capacitado, atención médica;
-
-X. Dar puntual seguimiento a las recomendaciones emitidas por las autoridades competentes;
-
-XI. Realizar acciones específicas para fortalecer la profesionalización del personal de los centros de asistencia social, y
-
-XII. Las demás obligaciones establecidas en la presente Ley y demás disposiciones aplicables.
-
-###### Artículo 112.
-
-Las Procuradurías de Protección de las entidades federativas en coordinación con la Procuraduría de Protección Federal, serán las autoridades competentes para autorizar, registrar, certificar y supervisar los centros de asistencia social destinados a brindar los servicios descritos en el presente Capítulo, para lo cual conformarán el Registro Nacional de Centros de Asistencia Social.
-
-El Registro Nacional de Centros de Asistencia Social, deberá contar por lo menos con los siguientes datos:
-
-I. Nombre o razón social del Centro de asistencia social;
-
-II. Domicilio del Centro de asistencia social;
-
-III. Censo de la población albergada, que contenga sexo, edad, y situación jurídica, y el seguimiento al proceso de reincorporación familiar o social, y
-
-IV. Relación del personal que labora en el Centro de asistencia social incluyendo al director general y representante legal, así como la figura jurídica bajo la cual opera.
-
-Al efecto, las Procuradurías de Protección de las entidades federativas deberán reportar semestralmente a la Procuraduría Federal de Protección, la actualización de sus registros, así como los resultados de las visitas de supervisión efectuadas como coadyuvantes.
-
-El Registro a que hace referencia este artículo deberá ser público y consultable en la página de internet del Sistema Nacional DIF.
-
-###### Artículo 113.
-
-Sin perjuicio de las atribuciones que las disposiciones aplicables establezcan a otras autoridades, corresponderá a las Procuradurías de Protección, la supervisión de los centros de asistencia social y, en su caso, ejercitarán las acciones legales que correspondan por el incumplimiento de los requisitos que establece la presente Ley y demás disposiciones aplicables.
-
-Las Procuradurías de Protección de las entidades federativas serán coadyuvantes de la Procuraduría de Protección Federal en la supervisión que se realice a las instalaciones de los centros de asistencia social, en términos de lo previsto en la Ley de Asistencia Social.
-
-### Capítulo Noveno. Del Derecho a la Protección de la Salud y a la Seguridad Social
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+### CAPÍTULO I. DE LA DETERMINACIÓN DE DAÑOS Y PERJUICIOS
 
 ###### Artículo 49.
 
-En los casos en que niñas, niños y adolescentes sean víctimas de delitos se aplicarán las disposiciones de la Ley General de Víctimas y demás disposiciones que resulten aplicables. En todo caso, los protocolos de atención deberán considerar su edad, desarrollo evolutivo, cognoscitivo y madurez para la implementación de las acciones de asistencia y protección respectivas, así como la reparación integral del daño.
+Si de la revisión y fiscalización de las Cuentas Públicas y de la Gestión Financiera, aparecieren irregularidades que permitan presumir la existencia de hechos o conductas que produzcan un daño, perjuicio, a las Haciendas Públicas Estatal y Municipales o al patrimonio de las entidades fiscalizables, la Auditoría procederá a:
 
-Para el cumplimiento de lo dispuesto en el párrafo anterior, el Sistema Nacional de Protección Integral a que se refiere la presente Ley, deberá coordinarse con el Sistema Nacional de Atención a Víctimas, el cual procederá a través de su Comisión Ejecutiva en los términos de la legislación aplicable.
+I. Determinar los daños, perjuicios, según corresponda, y fincar directamente las responsabilidades administrativas resarcitorias que conforme a la ley procedan;
 
-### Capítulo Décimo. Del Derecho a la Inclusión de Niñas, Niños y Adolescentes con Discapacidad
+II. Promover ante las autoridades competentes el fincamiento de otras responsabilidades;
+
+III. Promover las acciones de responsabilidad a que se refiere el Título Séptimo de la Constitución Política del Estado Libre y Soberano de Oaxaca;
+
+IV. Presentar las denuncias y querellas penales, a que haya lugar; y
+
+V. Coadyuvar con el Ministerio Público en la investigación de responsabilidad por el manejo de recursos públicos o del patrimonio de los entes públicos, durante la averiguación previa y en los procesos penales correspondientes.
+
+### CAPÍTULO II. DE LA RESPONSABILIDAD ADMINISTRATIVA RESARCITORIA
 
 ###### Artículo 50.
 
-Niñas, niños y adolescentes tienen derecho a disfrutar del más alto nivel posible de salud, así como a recibir la prestación de servicios de atención médica gratuita y de calidad de conformidad con la legislación aplicable, con el fin de prevenir, proteger y restaurar su salud. Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, en relación con los derechos de niñas, niños y adolescentes, se coordinarán a fin de:
-
-I. Reducir la morbilidad y mortalidad;
-
-II. Asegurar la prestación de la asistencia médica y sanitaria que sean necesarias a niñas, niños y adolescentes, haciendo hincapié en la atención primaria;
-
-III. Promover en todos los grupos de la sociedad y, en particular, en quienes ejerzan la patria potestad, tutela o guarda y custodia, de niños, niñas y adolescentes, los principios básicos de la salud y la nutrición, las ventajas de la lactancia materna, la higiene y el saneamiento ambiental y las medidas de prevención de accidentes;
-
-IV. Adoptar medidas tendentes a la eliminación las prácticas culturales, usos y costumbres que sean perjudiciales para la salud de niñas, niños y adolescentes;
-
-V. Desarrollar la atención sanitaria preventiva, la orientación a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, y la educación y servicios en materia de salud sexual y reproductiva;
-
-VI. Establecer las medidas tendentes a prevenir embarazos de las niñas y las adolescentes;
-
-VII. Asegurar la prestación de servicios de atención médica respetuosa, efectiva e integral durante el embarazo, parto y puerperio, así como para sus hijas e hijos, y promover la lactancia materna exclusiva dentro de los primeros seis meses y complementaria hasta los dos años, así como garantizar el acceso a métodos anticonceptivos;
-
-VIII. Combatir la desnutrición crónica y aguda, sobrepeso y obesidad, así como otros trastornos de conducta alimentaria mediante la promoción de una alimentación equilibrada, el consumo de agua potable, el fomento del ejercicio físico, e impulsar programas de prevención e información sobre estos temas;
-
-IX. Fomentar y ejecutar los programas de vacunación y el control de la niñez y adolescencia sana para vigilar su crecimiento y desarrollo en forma periódica;
-
-X. Atender de manera especial las enfermedades respiratorias, renales, gastrointestinales, epidémicas, cáncer, VIH/SIDA y otras enfermedades de transmisión sexual e impulsar programas de prevención e información sobre éstas;
-
-XI. Proporcionar asesoría y orientación sobre salud sexual y reproductiva;
-
-XII. Disponer lo necesario para que niñas, niños y adolescentes con discapacidad reciban la atención apropiada a su condición, que los rehabilite, mejore su calidad de vida, facilite su interacción e inclusión social y permita un ejercicio igualitario de sus derechos;
-
-XIII. Prohibir, sancionar y erradicar la esterilización forzada de niñas, niños y adolescentes y cualquier forma de violencia obstétrica;
-
-XIV. Establecer las medidas para que en los servicios de salud se detecten y atiendan de manera especial los casos de víctimas de delitos o violaciones a sus derechos, o sujetos de violencia sexual y familiar, de conformidad con las disposiciones aplicables en la materia;
-
-XV. Establecer medidas tendentes a la prevención, atención, combate y rehabilitación de los problemas de salud pública causados por las adicciones;
-
-XVI. Establecer medidas tendentes a que en los servicios de salud se detecten y atiendan de manera especial los casos de niñas, niños y adolescentes con problemas de salud mental;
-
-XVII. Establecer medidas para la detección temprana de discapacidades a efecto de prevenir y reducir al máximo la aparición de nuevas discapacidades y asegurar los mayores niveles de atención y rehabilitación, y
-
-XVIII. Proporcionar el acceso a los bienes, servicios, ayudas técnicas y rehabilitación que requieren niñas, niños y adolescentes con discapacidad.
-
-Asimismo, garantizarán que todos los sectores de la sociedad tengan acceso a educación y asistencia en materia de principios básicos de salud y nutrición, ventajas de la lactancia materna exclusiva durante los primeros seis meses y complementaria hasta los dos años de edad, así como la prevención de embarazos, higiene, medidas de prevención de accidentes y demás aspectos relacionados con la salud de niñas, niños y adolescentes.
-
-Los Sistemas Nacional y estatales de Salud deberán garantizar el pleno cumplimiento del derecho a la salud atendiendo al derecho de prioridad, al interés superior de la niñez, la igualdad sustantiva y la no discriminación, así como establecer Acciones afirmativas a favor de niñas, niños y adolescentes.
-
-En todos los casos se respetará el derecho a la intimidad de niñas, niños y adolescentes.
-
-> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+Para efectos de ésta Ley, incurren en responsabilidad administrativa resarcitoria, los servidores públicos y los particulares, personas físicas o morales, por actos u omisiones que causen daño, perjuicio o ambos, estimables en dinero, a las haciendas públicas estatal (sic) o municipales o al patrimonio de las entidades fiscalizables.
 
 ###### Artículo 51.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias y de conformidad con las disposiciones aplicables, deberán garantizar el derecho a la seguridad social.
-
-> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+Las responsabilidades que se lleguen a fincar conforme a la presente Ley, tienen por objeto resarcir a las entidades fiscalizables del monto de los daños y/o perjuicios estimables en dinero que se les hayan causado.
 
 ###### Artículo 52.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, deben desarrollar políticas para fortalecer la salud materno-infantil y aumentar la esperanza de vida.
+Las responsabilidades resarcitorias a que se refiere el artículo 49 de la presente Ley, se fincarán en primer término a los servidores públicos y/o particulares, sean personas físicas o morales responsables directos de los actos u omisiones que las hayan originado y, subsidiariamente al superior jerárquico del servidor público responsable, bien sea por la omisión en la revisión o autorización de tales actos, cuando los mismos impliquen dolo, culpa o negligencia.
 
 ###### Artículo 53.
 
-Niñas, niños y adolescentes con discapacidad tienen derecho a la igualdad sustantiva y a disfrutar de los derechos contenidos en la presente Ley, la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales y demás leyes aplicables.
-
-Cuando exista duda o percepción si una niña, niño o adolescente es persona con discapacidad, se presumirá que es una niña, niño o adolescente con discapacidad.
-
-Son niñas, niños o adolescentes con discapacidad los que por razón congénita o adquirida presentan una o más deficiencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva, en igualdad de condiciones con los demás.
-
-Las niñas, niños y adolescentes con discapacidad tienen derecho a vivir incluidos en la comunidad, en igualdad de condiciones que las demás niñas, niños y adolescentes.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 4 DE DICIEMBRE DE 2023)</small>
+Son responsables solidarios con los servidores públicos, los particulares sean personas físicas o morales, en los casos en que hayan participado y originado un daño y/o perjuicio a las haciendas públicas Estatal o Municipales o al patrimonio de las entidades fiscalizables.
 
 ###### Artículo 54.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, están obligadas a implementar medidas de nivelación, de inclusión y Acciones afirmativas en términos de las disposiciones aplicables considerando la perspectiva de género y los principios de participación e inclusión plenas y efectivas en la sociedad, respeto por la diferencia y la aceptación de las personas con discapacidad como parte de la diversidad y la condición humanas, respeto a la evolución de las facultades de niñas, niños y adolescentes con discapacidad y de su derecho a preservar su identidad.
-
-La discriminación por motivos de discapacidad también comprende la negación de ajustes razonables.
-
-> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
-
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, están obligadas a realizar lo necesario para fomentar la inclusión social y deberán establecer el diseño universal de accesibilidad de niñas, niños y adolescentes con discapacidad, en términos de la legislación aplicable.
-
-Además del diseño universal, se deberá dotar a las instalaciones que ofrezcan trámites y servicios a niñas, niños y adolescentes con discapacidad, de señalización en Braille y formatos accesibles de fácil lectura y comprensión. Asimismo, procurarán ofrecer otras medidas de asistencia e intermediarios.
-
-No se podrá negar o restringir la inclusión de niñas, niños y adolescentes con discapacidad, el derecho a la educación ni su participación en actividades recreativas, deportivas, lúdicas o culturales en instituciones públicas, privadas y sociales.
-
-No se considerarán discriminatorias las medidas específicas que sean necesarias para acelerar o lograr la igualdad sustantiva de las niñas, niños y adolescentes con discapacidad.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+Las responsabilidades administrativas resarcitorias que conforme a la presente Ley se finquen, son independientes de las que en base a otras disposiciones legales procedan.
 
 ###### Artículo 55.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, realizarán acciones a fin de sensibilizar a la sociedad incluso a nivel familiar, para que tome mayor conciencia respecto de las niñas, niños y adolescentes con discapacidad y fomentar el respeto a sus derechos y dignidad, así como combatir los estereotipos y prejuicios respecto de su discapacidad.
-
-Las leyes federales y de las entidades federativas establecerán disposiciones tendentes a:
-
-I. Reconocer y aceptar la existencia de la discapacidad, a efecto de prevenir la ocultación, abandono, negligencia y segregación de niñas, niños y adolescentes con discapacidad;
-
-II. Ofrecer apoyos educativos y formativos para quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes con discapacidad, a fin de aportarles los medios necesarios para que puedan fomentar su desarrollo y vida digna;
-
-III. Promover acciones interdisciplinarias para el estudio, diagnóstico temprano, tratamiento y rehabilitación de las discapacidades de niñas, niños y adolescentes que en cada caso se necesiten, asegurando que sean accesibles a las posibilidades económicas de sus familiares;
-
-IV. Disponer acciones que permitan ofrecerles cuidados elementales gratuitos, acceso a programas de estimulación temprana, servicios de salud, rehabilitación, esparcimiento, actividades ocupacionales, así como a la capacitación para el trabajo, y
-
-V. Establecer mecanismos que permitan la recopilación periódica y sistemática de información y estadística de niñas, niños y adolescentes con discapacidad, que permita una adecuada formulación de políticas públicas en la materia.
-
-Dichos reportes deberán desagregarse, al menos, por sexo, edad, escolaridad, entidad federativa y tipo de discapacidad.
+Las responsabilidades administrativas resarcitorias que se lleguen a fincar, así como multas impuestas, no eximen a los infractores de cumplir con la obligación de regularizar las situaciones que las motivaron.
 
 ###### Artículo 56.
 
-Niñas, niños y adolescentes con discapacidad tienen derecho en todo momento a que se les facilite un intérprete o aquellos medios tecnológicos que les permitan obtener información de forma comprensible.
+El procedimiento para el fincamiento de las responsabilidades administrativas resarcitorias previstas en la presente ley, se tramitara en la forma y términos previsto en el Código.
 
 ###### Artículo 57.
 
-Niñas, niños y adolescentes tienen derecho a una educación de calidad que contribuya al conocimiento de sus propios derechos y, basada en un enfoque de derechos humanos y de igualdad sustantiva, que garantice el respeto a su dignidad humana; el desarrollo armónico de sus potencialidades y personalidad, y fortalezca el respeto a los derechos humanos y a las libertades fundamentales, en los términos del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación y demás disposiciones aplicables.
+Contra los acuerdos de imposición de multas, informe de auditoría y resoluciones que finquen alguna responsabilidad administrativa resarcitoria emitidas por la Auditoría, procede el recurso de Reconsideración, en los términos y con las formalidades previstas en la presente Ley.
 
-Quienes ejerzan la patria potestad, tutela o guarda y custodia, tendrán derecho a intervenir en la educación que habrá de darse a niñas, niños y adolescentes, en términos de lo previsto por el artículo 103 de esta Ley.
+Contra las resoluciones que pongan fin al Recurso de Reconsideración previsto en el presente Código o aquellas derivadas de la presentación del Informe de Resultados relativas al procedimiento de revisión y fiscalización de las Cuentas Públicas de los Poderes del Estado, Órgano Autónomos y Municipales, procede el Juicio de Inconformidad ante el Tribunal de Fiscalización del Poder Judicial del Estado de Oaxaca.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+## TÍTULO QUINTO. DE LA AUDITORIA SUPERIOR DEL ESTADO
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias garantizarán la consecución de una educación de calidad y la igualdad sustantiva en el acceso y permanencia en la misma, para lo cual deberán:
-
-I. Proporcionar la atención educativa que niñas, niños y adolescentes requieran para su pleno desarrollo, para lo cual, los programas respectivos deberán considerar la edad, madurez, circunstancias particulares y tradiciones culturales;
-
-II. Adoptar medidas orientadas hacia el pleno ejercicio del derecho a la educación;
-
-III. Establecer medidas para garantizar la gratuidad de la educación pública obligatoria y para procurar la accesibilidad material, económica y geográfica a la educación, sin discriminación;
-
-IV. Establecer las condiciones necesarias para fortalecer la calidad educativa, tales como la relevancia y pertinencia del currículo, la disposición de la infraestructura y equipamiento adecuados para el aprendizaje y para las prácticas de enseñanza, la evaluación docente, entre otras;
-
-V. Destinar recursos humanos, materiales y presupuestarios adecuados y suficientes para garantizar la educación de calidad de niñas, niños y adolescentes;
-
-VI. Adaptar el sistema educativo a las condiciones, intereses y contextos específicos de niñas, niños y adolescentes para garantizar su permanencia en el sistema educativo;
-
-VII. Establecer acciones afirmativas para garantizar el derecho a la educación de niñas, niños y adolescentes de grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales;
-
-> <small>(REFORMADA, D.O.F. 15 DE MARZO DE 2022)</small>
-
-VIII. Prestar servicios educativos en condiciones óptimas, entendida ésta como el conjunto de instalaciones indispensables con que debe contarse en cada escuela para el buen desempeño de la tarea docente y el logro del aprendizaje que coadyuve al pleno desarrollo de los educandos;
-
-IX. Implementar mecanismos para la atención, canalización y seguimiento de los casos que constituyan violaciones al derecho a la educación de niñas, niños y adolescentes;
-
-X. Fomentar la convivencia escolar armónica y la generación de mecanismos para la discusión, debate y resolución pacífica de conflictos;
-
-> <small>(REFORMADA, D.O.F. 27 DE MARZO DE 2024)</small>
-
-XI. Conformar una instancia multidisciplinaria responsable que establezca mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso, violencia sexual, así como de cualquier otra forma de violencia en contra de niñas, niños y adolescentes que se suscite o detecte en los centros educativos;
-
-XII. Se elaboren protocolos de actuación sobre situaciones de acoso o violencia escolar para el personal y para quienes ejerzan la patria potestad, tutela o guarda y custodia;
-
-XIII. Garantizar el pleno respeto al derecho a la educación y la inclusión de niñas, niños y adolescentes con discapacidad en todos los niveles del Sistema Educativo Nacional, desarrollando y aplicando normas y reglamentos que eviten su discriminación y las condiciones de accesibilidad en instalaciones educativas, proporcionen los apoyos didácticos, materiales y técnicos y cuenten con personal docente capacitado;
-
-XIV. Adoptar medidas para responder a las necesidades de niñas, niños y adolescentes con aptitudes sobresalientes, de tal manera que se posibilite su desarrollo progresivo e integral, conforme a sus capacidades y habilidades personales;
-
-XV. Establecer mecanismos para la expresión y participación de niñas, niños y adolescentes, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez que permita atender y tomar en cuenta sus intereses y preocupaciones en materia educativa;
-
-XVI. Contribuir a garantizar la permanencia y conclusión de la educación obligatoria de niñas, niños y adolescentes y para abatir el ausentismo, abandono y deserción escolares;
-
-XVII. Administrar la disciplina escolar de modo compatible con la dignidad humana, impidiendo la imposición de medidas de disciplina que no estén previamente establecidas, sean contrarias a la dignidad humana o atenten contra la vida o la integridad física o mental de niñas, niños y adolescentes;
-
-XVIII. Erradicar las prácticas pedagógicas discriminatorias o excluyentes que atenten contra la dignidad humana o integridad, especialmente los tratos humillantes y degradantes;
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 27 DE MAYO DE 2024)</small>
-
-XIX. Educar a niñas, niños y adolescentes en el respeto al medio ambiente, inculcando en ellos la adopción de estilos de vida sustentables, así como concientizarlos sobre las causas-efectos del cambio climático;
-
-> <small>(ADICIONADA, D.O.F. 11 DE DICIEMBRE DE 2023)</small>
-
-XX. Inculcar en niñas, niños y adolescentes la cultura de la paz y la educación cívica;
-
-> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2018)</small>
-
-XXI. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación;
-
-> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2018)</small>
-
-XXII. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas, faciliten su reingreso y promuevan su egreso del sistema educativo nacional, y
-
-> <small>(ADICIONADA, D.O.F. 26 DE ENERO DE 2018)</small>
-
-XXIII. Establecer mecanismos para que las autoridades educativas, escolares y los particulares con autorización o reconocimiento de validez oficial de estudios, notifiquen a la Procuraduría de Protección correspondiente, los casos de asistencia irregular, abandono o deserción escolar que se identifiquen respecto de los alumnos que cursen educación básica y media superior en los centros educativos.
-
-> <small>(N. DE E. PERTENECE A LA FRACCIÓN XXIII, D.O.F. 26 DE ENERO DE 2018)</small>
-
-Ante dicha notificación será aplicable el procedimiento establecido en el artículo 123 de la presente Ley, y en su caso, la activación de las instancias jurisdiccionales necesarias a fin de garantizar los derechos de las niñas, niños y adolescentes.
-
-> <small>(N. DE E. PERTENECE A LA FRACCIÓN XXIII, D.O.F. 26 DE ENERO DE 2018)</small>
-
-En caso contrario, se estará a lo dispuesto en el Capítulo Único del Título Sexto de la Ley, con independencia de aquellas conductas que pudieran ser consideradas como delitos conforme a la normatividad en la materia.
-
-Las autoridades escolares, en el ámbito de su competencia, deberán adoptar medidas necesarias para garantizar la protección de los derechos de niñas, niños y adolescentes.
-
-## TÍTULO QUINTO. De la Protección y Restitución Integral de los Derechos de Niñas, Niños y Adolescentes
-
-### Capítulo Primero. De las autoridades
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
-
-###### Artículo 114.
-
-Las autoridades federales, de las entidades federativas, municipales, de las demarcaciones territoriales de la Ciudad de México, y de los organismos constitucionales autónomos, en el ámbito de su competencia, deberán establecer y garantizar el cumplimiento de la política nacional en materia de derechos de niñas, niños y adolescentes.
-
-Las políticas públicas emprendidas por dichas autoridades garantizarán el ejercicio de los derechos de niñas, niños y adolescentes, para lo cual deberán observar el interés superior de la niñez y asegurar la asignación prioritaria de recursos en términos de las disposiciones aplicables.
-
-#### Sección Primera. De la Distribución de Competencias
-
-###### Artículo 115.
-
-Todos los órdenes de gobierno coadyuvarán para el cumplimiento de los objetivos de esta Ley, de conformidad con las competencias previstas en el presente ordenamiento y demás disposiciones legales aplicables.
-
-###### Artículo 116.
-
-Corresponden a las autoridades federales y locales de manera concurrente, las atribuciones siguientes:
-
-I. Coordinar la implementación y ejecución de las acciones y políticas públicas que deriven de la presente Ley;
-
-> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2023)</small>
-
-II. Impulsar el conocimiento de los derechos de niñas, niños y adolescentes, así como la cultura de respeto, de la paz y la educación cívica, promoción y protección de los mismos, de conformidad con los principios rectores de esta Ley;
-
-III. Garantizar el cabal cumplimiento de la presente Ley y de los instrumentos internacionales aplicables;
-
-IV. Adoptar medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten sus derechos;
-
-V. Proporcionar asistencia médica, psicológica y atención preventiva integrada a la salud, así como asesoría jurídica y orientación social a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes o personas que los tengan bajo su responsabilidad, en relación a las obligaciones que establece esta Ley;
-
-VI. Garantizar el desarrollo y la supervivencia así como investigar, sancionar efectivamente los actos de privación de la vida de niñas, niños y adolescentes y garantizar la reparación del daño que corresponda;
-
-VII. Colaborar en la búsqueda, localización y obtención de la información necesaria para acreditar o restablecer la identidad de niñas, niños y adolescentes;
-
-VIII. Establecer políticas de fortalecimiento familiar para evitar la separación de niñas, niños y adolescentes de quienes ejerzan la patria potestad, tutela o guarda y custodia;
-
-IX. Establecer las normas y los mecanismos necesarios para facilitar la localización y reunificación de la familia de niñas, niños y adolescentes, cuando hayan sido privados de ella, siempre que no sea contrario a su interés superior;
-
-X. Coadyuvar en la localización de niñas, niños y adolescentes sustraídos, trasladados o retenidos ilícitamente;
-
-XI. Implementar medidas de inclusión plena y realizar las Acciones afirmativas para garantizar a niñas, niños y adolescentes la igualdad de oportunidades y de trato, así como a no ser discriminados;
-
-XII. Adoptar medidas para la eliminación de usos, costumbres, prácticas culturales, religiosas, estereotipos sexistas o prejuicios que atenten contra la igualdad de niñas, niños y adolescentes por razón de género o que promuevan cualquier tipo de discriminación;
-
-XIII. Adoptar las medidas apropiadas para promover la recuperación física y psicológica y la restitución de derechos de niñas, niños y adolescentes, víctimas de cualquier forma de violencia;
-
-XIV. Garantizar que todos los sectores de la sociedad tengan acceso a educación y asistencia en materia de principios básicos de salud y nutrición, ventajas de la lactancia materna, así como la prevención de embarazos, higiene, medidas de prevención de accidentes y demás aspectos relacionados con la salud de niñas, niños y adolescentes;
-
-XV. Propiciar las condiciones idóneas para crear un ambiente libre de violencia en las instituciones educativas;
-
-XVI. Establecer el diseño universal, la accesibilidad y políticas para la prevención, atención y rehabilitación de niñas, niños y adolescentes con discapacidad, en términos de la legislación aplicable;
-
-XVII. Realizar acciones a fin de sensibilizar a la sociedad, para que tome mayor conciencia respecto de las niñas, niños y adolescentes con discapacidad y fomentar el respeto a sus derechos y dignidad, así como combatir los estereotipos y prejuicios respecto de su discapacidad;
-
-XVIII. Disponer e implementar los mecanismos que garanticen la participación permanente y activa de niñas, niños y adolescentes en las decisiones que se toman en los ámbitos familiar, escolar, social, comunitario o cualquier otro en el que se desarrollen;
-
-XIX. Garantizar la consecución de una educación de calidad y la igualdad sustantiva en el acceso y permanencia en la misma;
-
-XX. Impulsar la formación y actualización de acuerdos interinstitucionales de coordinación entre las diferentes instancias de gobierno;
-
-XXI. Celebrar convenios de cooperación, coordinación y concertación en la materia;
-
-XXII. Coadyuvar con las instituciones públicas o privadas dedicadas a la atención de niñas, niños y adolescentes;
-
-XXIII. Garantizar la protección de los derechos de niñas, niños y adolescentes y asegurar que las violaciones a los mismos sean atendidas de forma preferente por todas las autoridades, en el ámbito de sus respectivas competencias;
-
-> <small>(REFORMADA, D.O.F. 26 DE MARZO DE 2024)</small>
-
-XXIV. Desarrollar todos los mecanismos necesarios para el cumplimiento de la presente Ley;
-
-> <small>(REFORMADA, D.O.F. 26 DE MARZO DE 2024)</small>
-
-XXV. Garantizar que niñas, niños y adolescentes tengan acceso a agua potable para su consumo e higiene, y
-
-> <small>(ADICIONADA, D.O.F. 26 DE MARZO DE 2024)</small>
-
-XXVI. Impulsar acciones para fomentar la crianza positiva dirigidas a quienes ejercen la patria potestad, tutela, guarda, custodia o cualquier persona que incida en el cuidado y atención de niñas, niños y adolescentes.
-
-###### Artículo 117.
-
-Corresponden a las autoridades federales, en sus respectivas competencias, las atribuciones siguientes:
-
-I. Garantizar en el ámbito de su competencia, el cabal cumplimiento de la presente Ley y de los tratados internacionales aplicables;
-
-II. Aplicar el Programa Nacional a que se refiere esta Ley;
-
-III. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema Nacional de Protección Integral y del Programa Nacional;
-
-IV. Revisar y valorar la eficacia de las acciones, las políticas públicas, los programas estatales en la materia, con base en los resultados de las evaluaciones que al efecto se realicen;
-
-V. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas federales;
-
-VI. Impulsar la formación y actualización de acuerdos interinstitucionales de coordinación entre las diferentes instancias de gobierno, para facilitar la actuación de la Secretaría Ejecutiva del Sistema Nacional de Protección Integral;
-
-VII. Imponer las sanciones por las infracciones que establece la presente Ley en el ámbito federal;
-
-VIII. Revocar temporal o definitivamente, a través de la autoridad competente, la autorización para operar los centros de asistencia social, por el incumplimiento de las obligaciones y requisitos previstos en esta Ley;
-
-IX. Verificar, por conducto del Instituto Nacional de Migración, la existencia de la autorización de quienes ejerzan la patria potestad, tutela o, en su caso, del órgano jurisdiccional competente, que permita la entrada y salida de niñas, niños o adolescentes del territorio nacional, conforme a las disposiciones aplicables;
-
-X. Determinar, por conducto del Instituto Nacional de Migración, la condición migratoria de niñas, niños y adolescentes migrantes, y
-
-XI. Cualquier otra prevista para el cumplimiento de esta Ley.
-
-###### Artículo 118.
-
-Corresponden a las autoridades locales, en sus respectivas competencias, las atribuciones siguientes:
-
-I. Instrumentar y articular sus políticas públicas tomando en consideración el Programa Nacional para la adecuada garantía y protección de los derechos de niñas, niños y adolescentes;
-
-II. Elaborar el Programa local y participar en el diseño del Programa Nacional;
-
-III. Fortalecer las existentes e impulsar la creación de instituciones públicas y privadas que tengan trato con niñas, niños y adolescentes;
-
-IV. Promover, en coordinación con el Gobierno Federal, programas y proyectos de atención, educación, capacitación, investigación y cultura de los derechos humanos de niñas, niños y adolescentes;
-
-V. Impulsar programas locales para el adelanto y desarrollo de niñas, niños y adolescentes en situación de vulnerabilidad;
-
-VI. Difundir por todos los medios de comunicación el contenido de esta Ley;
-
-VII. Elaborar y aplicar los programas locales a que se refiere esta Ley, así como rendir ante el Sistema Nacional de Protección Integral un informe anual sobre los avances;
-
-VIII. Revisar y valorar la eficacia de las acciones, las políticas públicas, los programas estatales en la materia, con base en los resultados de las evaluaciones que al efecto se realicen;
-
-IX. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas estatales;
-
-X. Recibir de las organizaciones privadas, las propuestas y recomendaciones sobre protección de derechos de niñas, niños y adolescentes, a fin de mejorar los mecanismos en la materia;
-
-XI. Proporcionar a las instancias encargadas de realizar estadísticas y de integrar el sistema nacional de información, la información necesaria para la elaboración de éstas;
-
-XII. Coordinar con las autoridades de los órdenes de gobierno la implementación y ejecución de las acciones y políticas públicas que deriven de la presente Ley;
-
-XIII. Impulsar reformas, en el ámbito de su competencia, para el cumplimiento de los objetivos de la presente Ley, y
-
-XIV. Cualquier otra prevista para el cumplimiento de esta Ley.
-
-###### Artículo 119.
-
-Corresponde a los municipios, de conformidad con esta Ley y las leyes locales en la materia, las atribuciones siguientes:
-
-I. Elaborar su programa municipal y participar en el diseño del Programa Local;
-
-II. Realizar acciones de difusión que promuevan los derechos de niñas, niños y adolescentes en el municipio, para que sean plenamente conocidos y ejercidos;
-
-III. Promover la libre manifestación de ideas de niñas, niños y adolescentes en los asuntos concernientes a su municipio;
-
-IV. Ser enlace entre la administración pública municipal y niñas, niños y adolescentes que deseen manifestar inquietudes;
-
-V. Recibir quejas y denuncias por violaciones a los derechos contenidos en la presente Ley y demás disposiciones aplicables, así como canalizarlas de forma inmediata a la Procuraduría Local de Protección que corresponda, sin perjuicio que ésta pueda recibirla directamente;
-
-VI. Auxiliar a la Procuraduría Local de Protección competente en las medidas urgentes de protección que ésta determine, y coordinar las acciones que correspondan en el ámbito de sus atribuciones;
-
-VII. Promover la celebración de convenios de coordinación con las autoridades competentes, así como con otras instancias públicas o privadas, para la atención y protección de niñas, niños y adolescentes;
-
-VIII. Difundir y aplicar los protocolos específicos sobre niñas, niños y adolescentes que autoricen las instancias competentes de la federación y de las entidades federativas;
-
-IX. Coordinarse con las autoridades de los órdenes de gobierno para la implementación y ejecución de las acciones y políticas públicas que deriven de la presente Ley;
-
-X. Coadyuvar en la integración del sistema de información a nivel nacional de niñas, niños y adolescentes;
-
-XI. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas municipales, y
-
-XII. Las demás que establezcan los ordenamientos locales y aquéllas que deriven de los acuerdos que, de conformidad con la presente Ley, se asuman en el Sistema Nacional DIF y los Sistemas de las Entidades.
-
-#### Sección Segunda. Del Sistema Nacional DIF
-
-###### Artículo 120.
-
-Sin perjuicio de las atribuciones que establezcan las demás disposiciones aplicables, corresponde a la federación, a través del Sistema Nacional DIF:
-
-I. Proteger los derechos de niñas, niños y adolescentes, cuando los mismos se encuentren restringidos o vulnerados, en términos de esta Ley y las demás disposiciones aplicables. La institucionalización procederá como último recurso y por el menor tiempo posible, priorizando las opciones de cuidado en un entorno familiar;
-
-> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2017)</small>
-
-II. Impulsar la cooperación y coordinación de las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias en materia de protección y restitución de derechos de niñas, niños y adolescentes para establecer los mecanismos necesarios para ello;
-
-III. Celebrar los convenios de colaboración con los Sistemas de las Entidades y los Sistemas Municipales, así como con organizaciones e instituciones de los sectores público, privado y social;
-
-IV. Promover la formación, capacitación y profesionalización del personal de instituciones vinculadas con la protección y restitución de los derechos de niñas, niños y adolescentes, así como para realizar y apoyar estudios e investigaciones en la materia;
-
-> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
-
-V. Prestar apoyo y colaboración técnica y administrativa en las materias reguladas en esta Ley, a las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México;
-
-> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
-
-VI. Tendrá a su cargo el Registro Nacional de Obligaciones Alimentarias en los términos que establece esta Ley, y
-
-VII. Las demás que establezcan otras disposiciones en relación con la protección de niñas, niños y adolescentes que sean del ámbito de su competencia.
-
-### Capítulo Segundo. De las Procuradurías de Protección
-
-###### Artículo 121.
-
-Para una efectiva protección y restitución de los derechos de niñas, niños y adolescentes, la federación, dentro de la estructura del Sistema Nacional DIF, contará con una Procuraduría de Protección.
-
-Las entidades federativas deberán contar con Procuradurías de Protección, cuya adscripción orgánica y naturaleza jurídica será determinada en términos de las disposiciones que para tal efecto emitan.
-
-En el ejercicio de sus funciones, las Procuradurías de Protección podrán solicitar el auxilio de autoridades de los tres órdenes de gobierno, las que estarán obligadas a proporcionarlo de conformidad con las disposiciones aplicables.
-
-Para la debida determinación, coordinación de la ejecución y seguimiento de las medidas de protección integral y restitución de los derechos de niñas, niños y adolescentes, las Procuradurías de Protección deberán establecer contacto y trabajar conjuntamente con las autoridades administrativas de asistencia social, de servicios de salud, de educación, de protección social, de cultura, deporte y con todas aquellas con las que sea necesario para garantizar los derechos de niñas, niños y adolescentes.
-
-###### Artículo 122.
-
-Las Procuradurías de Protección señaladas en el artículo anterior, en sus ámbitos de competencia, tendrán las atribuciones siguientes:
-
-I. Procurar la protección integral de niñas, niños y adolescentes que prevé la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, esta Ley y demás disposiciones aplicables. Dicha protección integral deberá abarcar, por lo menos:
-
-a) Atención médica y psicológica;
-
-b) Seguimiento a las actividades académicas y entorno social y cultural, y
-
-c) La inclusión, en su caso, de quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes en las medidas de rehabilitación y asistencia;
-
-II. Prestar asesoría y representación en suplencia a niñas, niños y adolescentes involucrados en procedimientos judiciales o administrativos, sin perjuicio de las atribuciones que le correspondan al Ministerio Público, así como intervenir oficiosamente, con representación coadyuvante, en todos los procedimientos jurisdiccionales y administrativos en que participen niñas, niños y adolescentes, de conformidad con lo dispuesto en la presente Ley y demás disposiciones aplicables;
-
-III. Coordinar la ejecución y dar seguimiento a las medidas de protección para la restitución integral de los derechos de niñas, niños y adolescentes, a fin de que las instituciones competentes actúen de manera oportuna y articulada;
-
-IV. Fungir como conciliador y mediador en casos de conflicto familiar, cuando los derechos de niñas, niños y adolescentes hayan sido restringidos o vulnerados, conforme a las disposiciones aplicables. La conciliación no procederá en casos de violencia;
-
-V. Denunciar ante el Ministerio Público aquellos hechos que se presuman constitutivos de delito en contra de niñas, niños y adolescentes;
-
-VI. Solicitar al Ministerio Público competente la imposición de medidas urgentes de protección especial idóneas, cuando exista un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes, quien deberá decretarlas a más tardar, durante las siguientes 3 horas a la recepción de la solicitud, dando aviso de inmediato a la autoridad jurisdiccional competente. Son medidas urgentes de protección especial en relación con niñas, niños y adolescentes, además de las establecidas en el Código Nacional de Procedimientos Penales, las siguientes:
-
-a) El ingreso de una niña, niño o adolescente a un centro de asistencia social, y
-
-b) La atención médica inmediata por parte de alguna institución del Sistema Nacional de Salud.
-
-Dentro de las 24 horas siguientes a la imposición de la medida urgente de protección, el órgano jurisdiccional competente deberá pronunciarse sobre la cancelación, ratificación o modificación de la medida que se encuentre vigente;
-
-VII. Ordenar, fundada y motivadamente, bajo su más estricta responsabilidad, la aplicación de medidas urgentes de protección especial establecidas en la fracción anterior, cuando exista riesgo inminente contra la vida, integridad o libertad de niñas, niños o adolescentes, dando aviso de inmediato al ministerio público y a la autoridad jurisdiccional competente.
-
-Dentro de las 24 horas siguientes a la imposición de la medida urgente de protección el órgano jurisdiccional competente deberá pronunciarse sobre la cancelación, ratificación o modificación de la medida que se encuentre vigente.
-
-Para la imposición de las medidas urgentes de protección, el Procurador de Protección podrá solicitar el auxilio de las instituciones policiales competentes.
-
-En caso de incumplimiento de las medidas urgentes de protección, el Procurador de Protección podrá solicitar la imposición de las medidas de apremio correspondientes a la autoridad competente;
-
-VIII. Promover la participación de los sectores público, social y privado en la planificación y ejecución de acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes;
-
-IX. Asesorar a las autoridades competentes y a los sectores público, social y privado en el cumplimiento del marco normativo relativo a la protección de niñas, niños y adolescentes, conforme a las disposiciones aplicables;
-
-X. Desarrollar los lineamentos y procedimientos a los que se sujetarán para la restitución de los derechos de niñas, niños y adolescentes;
-
-XI. Coadyuvar con el Sistema Nacional DIF y los Sistemas de las Entidades en la elaboración de los lineamientos y procedimientos para registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, considerando los requisitos señalados para el acogimiento pre-adoptivo, así como para emitir los certificados de idoneidad;
-
-XII. Proporcionar información para integrar y sistematizar el Registro Nacional de Centros de Asistencia Social;
-
-XIII. Supervisar el debido funcionamiento de los centros de asistencia social y, en su caso, ejercer las acciones legales que correspondan por el incumplimiento de los requisitos que establece la presente Ley y demás disposiciones aplicables;
-
-XIV. Supervisar la ejecución de las medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial;
-
-XV. Realizar y promover estudios e investigaciones para fortalecer las acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes, con el fin de difundirlos entre las autoridades competentes y los sectores público, social y privado para su incorporación en los programas respectivos, y
-
-XVI. Las demás que les confieran otras disposiciones aplicables.
-
-###### Artículo 123.
-
-Para solicitar la protección y restitución integral de los derechos de niñas, niños y adolescentes, las Procuradurías de Protección deberán seguir el siguiente procedimiento:
-
-I. Detectar o recibir casos de restricción y vulneración de derechos de niñas, niños y adolescentes;
-
-II. Acercarse a la familia o lugares en donde se encuentren los (sic) niñas, niños y adolescentes para diagnosticar la situación de sus derechos cuando exista información sobre posible restricción o vulneración de los mismos;
-
-III. Determinar en cada uno de los casos identificados los derechos que se encuentran restringidos o vulnerados;
-
-IV. Elaborar, bajo el principio del interés superior de la niñez, un diagnóstico sobre la situación de vulneración y un plan de restitución de derechos, que incluya las propuestas de medidas para su protección;
-
-V. Acordar y coordinar con las instituciones que corresponda el cumplimiento del plan de restitución de derechos, y
-
-VI. Dar seguimiento a cada una de las acciones del plan de restitución de derechos, hasta cerciorarse de que todos los derechos de la niña, niño o adolescente se encuentren garantizados.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE ABRIL DE 2022)</small>
-
-###### Artículo 124.
-
-Los requisitos para ser nombrada o nombrado titular de la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes, son los siguientes:
-
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
-
-I. Ser persona ciudadana mexicana en pleno goce de sus derechos civiles y políticos;
-
-II. Tener más de 35 años de edad;
-
-III. Contar con título profesional de licenciatura en derecho debidamente registrado;
-
-IV. Contar con al menos cinco años de experiencia en materia de procuración de justicia o defensa de niñas, niños y adolescentes;
-
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
-
-V. No haber sido sentenciada o sentenciado por delito doloso o inhabilitada o inhabilitado como servidora o servidor público.
-
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
-
-El nombramiento de la persona titular de la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes deberá ser aprobado por la Junta de Gobierno del Sistema Nacional DIF, a propuesta de quien sea su Titular.
-
-> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
-
-Las leyes de las entidades federativas establecerán las medidas necesarias que permitan la desconcentración regional de las Procuradurías de Protección, a efecto de que logren la mayor presencia y cobertura posible en los municipios y, en el caso de la Ciudad de México, en sus demarcaciones territoriales.
-
-### Capítulo Tercero. Del Sistema Nacional de Protección Integral
-
-#### Sección Primera. De los Integrantes
-
-###### Artículo 125.
-
-Para asegurar una adecuada protección de los derechos de niñas, niños y adolescentes, se crea el Sistema Nacional de Protección Integral, como instancia encargada de establecer instrumentos, políticas, procedimientos, servicios y acciones de protección de los derechos de niñas, niños y adolescentes.
-
-El Sistema Nacional de Protección Integral tendrá las siguientes atribuciones:
-
-I. Difundir el marco jurídico nacional e internacional de protección a los derechos de niñas, niños y adolescentes;
-
-II. Integrar la participación de los sectores público, social y privado y de la sociedad civil en la definición e instrumentación de políticas para la garantía y protección integral de los derechos de niñas, niños y adolescentes;
-
-III. Generar los mecanismos necesarios para garantizar la participación directa y efectiva de niñas, niños y adolescentes en los procesos de elaboración de programas y políticas para la garantía y protección integral de sus derechos;
-
-IV. Promover, en los tres órdenes de gobierno, el establecimiento de presupuestos destinados a la protección de los derechos de niñas, niños y adolescentes;
-
-V. Impulsar la incorporación de la perspectiva de derechos de niñas, niños y adolescentes en la planeación nacional del desarrollo;
-
-VI. Garantizar la transversalidad de la perspectiva de derechos de niñas, niños y adolescentes en la elaboración de programas, así como en las políticas y acciones de las dependencias y entidades de la Administración Pública Federal;
-
-VII. Aprobar, en el marco del Plan Nacional de Desarrollo, el Programa Nacional;
-
-VIII. Asegurar la ejecución coordinada por parte de sus integrantes del Programa Nacional, con la participación de los sectores público, social y privado, así como de niñas, niños y adolescentes;
-
-> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2017)</small>
-
-IX. Asegurar la colaboración y coordinación entre la federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, para la formulación, ejecución e instrumentación de políticas, programas, estrategias y acciones en materia de protección y ejercicio de los derechos de niñas, niños y adolescentes con la participación de los sectores público, social y privado así como de niñas, niños y adolescentes;
-
-> <small>(REFORMADA, D.O.F. 23 DE JUNIO DE 2017)</small>
-
-X. Hacer efectiva la concurrencia, vinculación y congruencia de los programas y acciones de los gobiernos federal, de las entidades federativas, de los municipios y de las demarcaciones territoriales de la Ciudad de México, con los objetivos, estrategias y prioridades de la política pública nacional de protección de los derechos de niñas, niños y adolescentes.
-
-XI. Garantizar la participación de niñas, niños y adolescentes en el ejercicio de sus derechos humanos, tomando en consideración las medidas especiales que se requieran;
-
-XII. Fortalecer las acciones de corresponsabilidad y cercanía entre las instancias públicas y privadas con niñas, niños y adolescentes;
-
-XIII. Promover la celebración de instrumentos de colaboración y coordinación, así como acciones de concertación con instancias públicas y privadas, nacionales e internacionales, que contribuyan al cumplimiento de la presente Ley;
-
-XIV. Establecer mecanismos de coordinación con otros sistemas nacionales que desarrollen programas, acciones y políticas en beneficio de niñas, niños y adolescentes, en términos de las disposiciones aplicables;
-
-XV. Conformar un sistema de información a nivel nacional, con el objeto de contar con datos desagregados que permitan monitorear los progresos alcanzados en el cumplimiento de los derechos de niñas, niños y adolescentes en el país, incluyendo indicadores cualitativos y cuantitativos. Este sistema de información se coordinará y compartirá con otros sistemas nacionales, en términos de los convenios de coordinación que al efecto se celebren, de conformidad con las disposiciones aplicables;
-
-XVI. Realizar acciones de formación y capacitación de manera sistémica y continua sobre el conocimiento y respeto de los derechos humanos de niñas, niños y adolescentes, principalmente con aquellas personas que trabajan desde los diversos ámbitos en la garantía de sus derechos;
-
-XVII. Promover políticas públicas y revisar las ya existentes relacionadas con los derechos de carácter programático previstos en esta Ley, y
-
-XVIII. Las demás que sean necesarias para el cumplimiento de esta Ley.
-
-> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
-
-###### Artículo 126.
-
-La coordinación en un marco de respeto a las atribuciones entre las instancias de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, será el eje del Sistema Nacional de Protección Integral.
-
-###### Artículo 127.
-
-El Sistema Nacional de Protección Integral estará conformado por:
-
-A. Poder Ejecutivo Federal:
-
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
-
-I. La persona Titular del Ejecutivo Federal, quien lo presidirá;
-
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
-
-II. La persona Titular de la Secretaría de Gobernación;
-
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
-
-III. La persona Titular de la Secretaría de Relaciones Exteriores;
-
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
-
-IV. La persona Titular de la Secretaría de Hacienda y Crédito Público;
-
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
-
-V. La persona Titular de la Secretaría de Bienestar;
-
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
-
-VI. La persona Titular de la Secretaría de Educación Pública;
-
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
-
-VII. La persona Titular de la Secretaría de Salud;
-
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
-
-VIII. La persona Titular de la Secretaría del Trabajo y Previsión Social, y
-
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
-
-IX. La persona Titular del Sistema Nacional DIF.
-
-B. Entidades Federativas:
-
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
-
-I. Las Gobernadoras y los Gobernadores de los Estados, y
-
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
-
-II. La Jefa o el Jefe de Gobierno de la Ciudad de México.
-
-C. Organismos Públicos:
-
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
-
-I. La persona titular de la Fiscalía General de la República;
-
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
-
-II. La persona titular de la presidencia de la Comisión Nacional de los Derechos Humanos, y
-
-> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2022)</small>
-
-III. La Comisionada o el Comisionado Presidente del Instituto Federal de Telecomunicaciones.
-
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
-
-D. Personas representantes de la sociedad civil que serán nombradas por el Sistema, en los términos del reglamento de esta Ley.
-
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
-
-Para efectos de lo previsto en el apartado D, el reglamento deberá prever los términos para la emisión de una convocatoria pública, la cual deberá realizarse conforme al principio de paridad, y que contendrá las etapas completas para el procedimiento, sus fechas límites y plazos.
-
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
-
-Serán invitadas permanentes a las sesiones del Sistema Nacional de Protección Integral, las Presidencias de las Mesas Directivas de las Cámaras de Diputados y Senadores del Congreso de la Unión, una persona representante del Poder Judicial de la Federación, así como representantes de la Comisión Nacional de Tribunales Superiores de Justicia de los Estados Unidos Mexicanos, las asociaciones de municipios, legalmente constituidas, quienes intervendrán con voz, pero sin voto.
-
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
-
-La persona titular del Ejecutivo Federal, en casos excepcionales, podrá ser suplida por la persona titular de la Secretaría de Gobernación, en los términos previstos por la fracción I del artículo 27 de la Ley Orgánica de la Administración Pública Federal.
-
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
-
-Las personas integrantes del Sistema Nacional de Protección Integral nombrarán una persona suplente, que deberá tener el nivel de titular de subsecretaría o equivalente.
-
-> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2022)</small>
-
-Quien presida el Sistema podrá invitar a las sesiones respectivas a personas representantes de otras dependencias y entidades de la Administración Pública Federal, de los órganos con autonomía constitucional, de los gobiernos de las entidades federativas, de los municipios y de las demarcaciones territoriales de la Ciudad de México, según la naturaleza de los asuntos a tratar quienes intervendrán con voz, pero sin voto.
-
-En las sesiones del Sistema Nacional de Protección Integral, participarán de forma permanente, sólo con voz, niñas, niños y adolescentes, que serán seleccionados por el propio Sistema. De igual forma, se podrá invitar a personas o instituciones, nacionales o internacionales, especializadas en la materia.
-
-###### Artículo 128.
-
-El Sistema Nacional de Protección Integral se reunirá cuando menos dos veces al año. Para sesionar válidamente se requerirá un quórum de la mayoría de sus miembros y la asistencia de su Presidente; sus decisiones se tomarán por mayoría de votos y, en caso de empate, el Presidente tendrá voto de calidad.
-
-###### Artículo 129.
-
-Para el mejor cumplimiento de sus funciones, el Sistema Nacional de Protección Integral podrá constituir comisiones encargadas de atender asuntos o materias específicas y emitirá los lineamientos para su integración, organización y funcionamiento, las cuales deberán ser publicadas en el Diario Oficial de la Federación.
-
-#### Sección Segunda. De la Secretaría Ejecutiva
-
-###### Artículo 130.
-
-La coordinación operativa del Sistema Nacional de Protección Integral recaerá en un órgano administrativo desconcentrado de la Secretaría de Gobernación, que ejercerá las funciones de Secretaría Ejecutiva.
-
-La Secretaría Ejecutiva tendrá las atribuciones siguientes:
-
-I. Coordinar las acciones entre las dependencias y las entidades competentes de la Administración Pública Federal que deriven de la presente Ley;
-
-II. Elaborar el anteproyecto del Programa Nacional para someterlo a consideración de los miembros del Sistema;
-
-III. Llevar a cabo el seguimiento y monitoreo de la ejecución del Programa Nacional;
-
-IV. Elaborar y mantener actualizado el Manual de Organización y Operación del Sistema Nacional de Protección Integral;
-
-V. Compilar los acuerdos que se tomen en el Sistema Nacional de Protección Integral, llevar el archivo de éstos y de los instrumentos jurídicos que deriven, y expedir constancia de los mismos;
-
-VI. Apoyar al Sistema Nacional de Protección Integral en la ejecución y seguimiento de los acuerdos y resoluciones emitidos;
-
-VII. Celebrar convenios de coordinación, colaboración y concertación con instancias públicas y privadas, nacionales e internacionales;
-
-VIII. Administrar el sistema de información a nivel nacional a que se refiere la fracción XV del artículo 125;
-
-IX. Realizar y promover estudios e investigaciones para fortalecer las acciones en favor de la atención, defensa y protección de niñas, niños y adolescentes con el fin de difundirlos a las autoridades competentes y a los sectores social y privado para su incorporación en los programas respectivos;
-
-X. Difundir entre las autoridades correspondientes y la población en general los resultados de los trabajos que realice, así como toda aquella información pública que tienda a la generación, desarrollo y consolidación de perspectiva en la materia, desagregada por lo menos, en razón de edad, sexo, entidad federativa, escolaridad y discapacidad;
-
-XI. Asesorar y apoyar a los gobiernos de las entidades federativas, así como a las autoridades federales que lo requieran para el ejercicio de sus atribuciones;
-
-XII. Informar cada cuatro meses al Sistema Nacional de Protección Integral y a su Presidente, sobre sus actividades;
-
-XIII. Proporcionar la información necesaria al CONEVAL, para la evaluación de las políticas de desarrollo social vinculadas con la protección de niñas, niños y adolescentes;
-
-XIV. Fungir como instancia de interlocución con organizaciones de la sociedad civil, academia y demás instituciones de los sectores social y privado;
-
-XV. Coordinar con las Secretarías Ejecutivas de los Sistemas de las Entidades la articulación de la política nacional, así como el intercambio de información necesaria a efecto de dar cumplimiento con el objeto de esta Ley, y
-
-XVI. Las demás que le encomiende el Presidente o el Sistema Nacional de Protección Integral.
-
-###### Artículo 131.
-
-El titular de la Secretaría Ejecutiva será nombrado y removido libremente por el Presidente del Sistema y deberá cumplir con los siguientes requisitos:
-
-I. Tener ciudadanía mexicana en pleno goce de sus derechos civiles y políticos;
-
-II. Tener más de 30 años de edad;
-
-III. Contar con título profesional de nivel licenciatura debidamente registrado;
-
-IV. Contar con al menos cinco años de experiencia en las áreas correspondientes a su función, y
-
-V. No haber sido sentenciado por delito doloso o inhabilitado como servidor público.
-
-#### Sección Tercera. De la Evaluación y Diagnóstico
-
-###### Artículo 132.
-
-Corresponderá al CONEVAL la evaluación de las políticas de desarrollo social vinculadas con la protección de los derechos de niñas, niños y adolescentes, en términos de lo establecido por la Constitución Política de los Estados Unidos Mexicanos, esta Ley, el Programa Nacional y las demás disposiciones aplicables.
-
-###### Artículo 133.
-
-La evaluación consistirá en revisar periódicamente el cumplimiento de esta Ley y del Programa Nacional, metas y acciones en materia de derechos de niñas, niños y adolescentes.
-
-###### Artículo 134.
-
-De acuerdo con los resultados de las evaluaciones, el CONEVAL emitirá, en su caso, las sugerencias y recomendaciones que considere pertinentes al Sistema Nacional de Protección Integral.
-
-###### Artículo 135.
-
-Los resultados de las evaluaciones serán entregados a las Cámaras de Diputados y de Senadores del Congreso de la Unión.
-
-> <small>(ADICIONADO CON LOS ARTÍCULO QUE LA INTEGRAN, D.O.F. 8 DE MAYO DE 2023)</small>
-
-#### Sección Cuarta. Del Registro Nacional de Obligaciones Alimentarias
-
-> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
-
-###### Artículo 135 Bis.
-
-Se crea el Registro Nacional de Obligaciones Alimentarias cuyo objeto es concentrar la información de deudores y acreedores de obligaciones alimentarias, a fin de dar efectiva protección y restitución de los derechos de niñas, niños y adolescentes.
-
-Los Tribunales Superiores de las entidades federativas y de la Ciudad de México suministrarán, intercambiarán, sistematizarán, consultarán, analizarán y actualizarán, la información que se genere sobre el incumplimiento de las obligaciones alimentarias en el ámbito de sus competencias utilizando los sistemas e instrumentos tecnológicos del Sistema Nacional DIF para que con ella integre al Registro Nacional de Obligaciones.
-
-La calidad de deudor moroso se difundirá en el Registro Nacional de Obligaciones Alimentarias, el cual, será público con base en lo dispuesto en la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados.
-
-Las Procuradurías de Protección de las entidades federativas y de la Ciudad de México tendrán acceso total a las bases de datos del Registro Nacional de Obligaciones.
-
-Los datos recabados en este registro podrán ser utilizados para los fines estadísticos o de análisis que se consideren necesarios.
-
-La actualización del registro deberá realizarse de forma mensual.
-
-> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
-
-###### Artículo 135 Ter.
-
-Toda persona a quien, por su cargo, corresponda proporcionar informes sobre la capacidad económica de los deudores alimentarios, está obligada a suministrar los datos exactos que le solicite el Juez o la autoridad responsable del fuero local; de no hacerlo, será sancionada en los términos establecidos por el artículo 157 de esta Ley y responderá solidariamente para el pago de daños y perjuicios que cause al acreedor alimentario por las omisiones o informes falsos, sin perjuicio de lo dispuesto por otros ordenamientos legales.
-
-El deudor alimentario deberá informar, en un máximo de quince días hábiles al acreedor alimentario, al Juez o la autoridad responsable del fuero local cualquier cambio en su empleo, la ubicación de ésta y el puesto o cargo que desempeñará, a efecto de que se actualice la pensión alimenticia decretada.
-
-> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
-
-###### Artículo 135 Quáter.
-
-La inscripción al Registro Nacional de Obligaciones Alimentarias deberá especificar cuando menos:
-
-I. Nombre o nombres, apellidos, Clave Única de Registro de Población y clave y homoclave del Registro Federal de Contribuyentes del deudor alimentario;
-
-II. Órgano jurisdiccional que ordenó la inscripción, cuantía del cumplimiento de la obligación alimentaria y plazo de pago de los alimentos definitivos, y
-
-III. Datos del expediente o causa jurisdiccional de la cual deriva la inscripción.
-
-> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
-
-###### Artículo 135 Quinquies.
-
-El Registro Nacional de Obligaciones Alimentarias emitirá certificados de no inscripción, a petición de la parte interesada. Para efecto de lo anterior, se dispondrá de un sitio web en el cual se genere automáticamente el certificado de forma gratuita, mismo que contendrá como mínimo la siguiente información:
-
-I. Nombre o nombres, apellidos y Clave Única de Registro de Población del deudor alimentario;
-
-II. Órgano jurisdiccional que ordenó el registro, cuantía de la pensión y estado de cumplimiento.
-
-> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
-
-Artículo 135 Sexties. Las autoridades de los tres órdenes de gobierno, en el ámbito de sus competencias, dispondrán lo necesario a fin de establecer como requisito la presentación del certificado de no inscripción en el Registro Nacional de Obligaciones Alimentarias. Entre los trámites y procedimientos que podrán requerir la expedición de ese certificado, se encuentran los siguientes:
-
-I. Obtención de licencias y permisos para conducir;
-
-II. Obtención de pasaporte o documento de identidad y viaje;
-
-III. Para participar como candidato a cargos concejiles y de elección popular;
-
-IV. Para participar como aspirante a cargos de jueces, magistrados en el ámbito local o federal;
-
-V. Los que se realicen ante notario público relativos a la compraventa de bienes inmuebles y la constitución o transmisión de derechos reales, y
-
-VI. En las solicitudes de matrimonio, el juez del Registro Civil hará del conocimiento si alguno de los contrayentes se encuentra inscrito en el Registro, mencionando la situación que guardan respecto de las obligaciones que tiene.
-
-> <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
-
-###### Artículo 135 Septies.
-
-Las autoridades federales competentes, instrumentarán las medidas de restricción migratoria que establezcan que ninguna persona inscrita en el Registro Nacional de Obligaciones Alimentarias pueda salir del país, cuando:
-
-I. Sea deudor alimentario moroso.
-
-II. Existan medios de prueba que permitan al Juez determinar la existencia de un riesgo importante de que la salida del país sea utilizada como un medio de evasión de pago.
-
-El impedimento para salir del país deberá ser solicitado por el acreedor o por quienes tengan su guardia y custodia ante el Juez correspondiente, quien, en su caso, deberá notificar a las autoridades migratorias respectivas para los efectos conducentes.
-
-En el caso de la fracción I de este artículo; el Juez podrá autorizar la salida del país si se garantiza el pago de por lo menos la mitad del adeudo que se tenga por el pago de alimentos y un depósito que corresponda al pago adelantado desde noventa hasta trescientos sesenta y cinco días de la pensión, según las circunstancias, o bien proporcione cualquier otra garantía, que a criterio del Juez garantice el cumplimiento de la obligación.
-
-### Capítulo Cuarto. De los Sistemas de Protección en las Entidades Federativas
-
-#### Sección Primera. De los Sistemas Locales de Protección
-
-###### Artículo 136.
-
-En cada entidad federativa se creará e instalará un Sistema Local de Protección de los derechos de niñas, niños y adolescentes, conformado por las dependencias y entidades de las administraciones locales vinculadas con la protección de estos derechos, en los términos que determinen sus respectivos ordenamientos legales y serán presididos por la persona Titular del Poder Ejecutivo Estatal y de la Jefatura de Gobierno del Distrito de Federal. Se organizarán y funcionarán de manera similar al Sistema Nacional de Protección Integral, contarán con una Secretaría Ejecutiva y garantizarán la participación de los sectores social y privado, así como de niñas, niños y adolescentes.
-
-El Sistema Nacional de Protección Integral se articulará con los Sistemas Locales de Protección a través de sus respectivas Secretarías Ejecutivas.
-
-###### Artículo 137.
-
-Los Sistemas Locales de Protección tendrán, cuando menos, las siguientes atribuciones:
-
-I. Instrumentar y articular sus políticas públicas en concordancia con la política nacional;
-
-II. Coadyuvar en la adopción y consolidación del Sistema Nacional de Protección;
-
-III. Garantizar la transversalidad de la perspectiva de derechos de niñas, niños y adolescentes en la elaboración de programas sectoriales o, en su caso, institucionales específicos, así como en las políticas y acciones de las dependencias y entidades de la administración pública local;
-
-IV. Difundir el marco jurídico local, nacional e internacional de protección a los derechos de niñas, niños y adolescentes;
-
-V. Integrar a los sectores público, social y privado en la definición e instrumentación de políticas para la protección de niñas, niños y adolescentes;
-
-VI. Generar los mecanismos necesarios para garantizar la participación directa y efectiva de niñas, niños y adolescentes en los procesos de elaboración de programas y políticas locales para la protección integral de sus derechos;
-
-VII. Establecer en sus presupuestos, rubros destinados a la protección de los derechos de niñas, niños y adolescentes, los cuales tendrán una realización progresiva;
-
-VIII. Garantizar la transversalidad de la perspectiva de derechos de la infancia y la adolescencia en la elaboración de programas, así como en las políticas y acciones para la protección de los derechos de niñas, niños y adolescentes;
-
-IX. Participar en la elaboración del Programa Nacional;
-
-X. Elaborar y ejecutar el Programa Local con la participación de los sectores público, social y privado, así como de niñas, niños y adolescentes;
-
-XI. Llevar a cabo el seguimiento, monitoreo y evaluación de la ejecución del Programa Local;
-
-XII. Emitir un informe anual sobre los avances del Programa Local y remitirlo al Sistema Nacional de Protección;
-
-XIII. Participar en la formulación, ejecución e instrumentación de programas, estrategias y acciones en materia de protección y ejercicio de los derechos de niñas, niños y adolescentes con la participación de los sectores público, social y privado, así como de niñas, niños y adolescentes;
-
-XIV. Garantizar la participación de niñas, niños y adolescentes en el ejercicio de sus derechos humanos, tomando en consideración las medidas especiales que se requieran;
-
-XV. Fortalecer las acciones de corresponsabilidad y cercanía entre las instancias públicas y privadas con niñas, niños y adolescentes;
-
-XVI. Administrar el sistema estatal de información y coadyuvar en la integración del sistema de información a nivel nacional;
-
-XVII. Realizar acciones de formación y capacitación de manera sistémica y continua sobre el conocimiento y respeto de los derechos humanos de niñas, niños y adolescentes, principalmente con aquellas personas que trabajan desde los diversos ámbitos en la garantía de sus derechos;
-
-XVIII. Impulsar reformas, en el ámbito de su competencia, para el cumplimiento de los objetivos de la presente Ley;
-
-XIX. Celebrar convenios de coordinación en la materia;
-
-XX. Auxiliar a la Procuraduría Local de Protección en las medidas urgentes de protección que ésta determine, y coordinar las acciones que correspondan en el ámbito de sus atribuciones, y
-
-XXI. Las demás que les otorguen otras disposiciones aplicables.
-
-> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
-
-Las leyes de las entidades federativas determinarán la forma y términos en que los Sistemas municipales participarán en el Sistema Local de Protección y, en el caso de la Ciudad de México, la forma de participación de las demarcaciones territoriales.
-
-#### Sección Segunda. De los Sistemas Municipales de Protección
-
-###### Artículo 138.
-
-Los Sistemas Municipales serán presididos por los Presidentes Municipales o Jefes Delegacionales, y estarán integrados por las dependencias e instituciones vinculadas con la protección de los derechos de niñas, niños y adolescentes.
-
-Los Sistemas Municipales contarán con una Secretaría Ejecutiva y garantizarán la participación de los sectores social y privado, así como de niñas, niños y adolescentes.
-
-###### Artículo 139.
-
-Las leyes de las entidades federativas preverán que las bases generales de la administración pública municipal, dispongan la obligación para los ayuntamientos de contar con un programa de atención y con un área o servidores públicos que fungirán como autoridad de primer contacto con niñas, niños o adolescentes y que serán el enlace con las instancias locales y federales competentes.
-
-> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
-
-Las mismas disposiciones de este artículo serán aplicables a las demarcaciones territoriales de la Ciudad de México, en la Constitución Política de la Ciudad de México.
-
-> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
-
-La instancia a que se refiere el presente artículo coordinará a los servidores públicos municipales o de las demarcaciones territoriales de la Ciudad de México, cuando en la operación, verificación y supervisión de las funciones y servicios que les corresponden, detecten casos de violación a los derechos contenidos en la presente Ley, a efecto de que se dé vista a la Procuraduría de Protección competente de forma inmediata.
-
-Las instancias a que se refiere este artículo deberán ejercer, sin perjuicio de otras que dispongan las leyes de las entidades federativas, las atribuciones previstas en el artículo 119 de esta Ley.
-
-### Capítulo Quinto. De los Organismos de Protección de los Derechos Humanos
-
-###### Artículo 140.
-
-La Comisión Nacional de los Derechos Humanos y los organismos de protección de los derechos humanos de las entidades federativas, en el ámbito de sus competencias, deberán establecer áreas especializadas para la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes.
-
-### Capítulo Sexto. Del Programa Nacional y de los Programas Locales
-
-> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
-
-###### Artículo 141.
-
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, a través del Sistema Nacional de Protección Integral, así como los sectores privado y social, participarán en la elaboración y ejecución del Programa Nacional, el cual deberá ser acorde con el Plan Nacional de Desarrollo y con la presente Ley.
-
-###### Artículo 142.
-
-El Programa Nacional contendrá las políticas, objetivos, estrategias y líneas de acción prioritarias en materia de ejercicio, respeto, promoción y protección integral de niñas, niños y adolescentes.
-
-###### Artículo 143.
-
-Los programas locales preverán acciones de mediano y largo alcance, indicarán los objetivos, estrategias y líneas de acción prioritarias, y deberán alinearse al Programa Nacional.
-
-###### Artículo 144.
-
-El Programa Nacional y los programas locales deberán incluir mecanismos transparentes que permitan su evaluación y seguimiento, así como de participación ciudadana y serán publicados en el Diario Oficial de la Federación y en las gacetas o periódicos oficiales de las entidades federativas, según corresponda.
-
-###### Artículo 145.
-
-Los Sistemas Nacional, Locales y Municipales contarán con órganos consultivos de apoyo, en los que participarán las autoridades competentes y representantes de los sectores social y privado, para la implementación y aplicación de los programas.
-
-### Capítulo Décimo Primero. Del Derecho a la Educación
+### CAPÍTULO I. INTEGRACIÓN Y ORGANIZACIÓN
 
 ###### Artículo 58.
 
-La educación, además de lo dispuesto en las disposiciones aplicables, tendrá los siguientes fines:
+La Auditoría estará integrada de la siguiente forma:
 
-> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2023)</small>
+I. Auditor Superior del Estado;
 
-I. Fomentar en niñas, niños y adolescentes los valores fundamentales, la cultura de la paz, la educación cívica y el respeto de la identidad propia, así como a las diferencias culturales y opiniones diversas;
+II. Subauditor Superior del Estado a cargo de la Fiscalización;
 
-II. Desarrollar la personalidad, las aptitudes y las potencialidades de niñas, niños y adolescentes;
+III. Subauditor Superior del Estado a cargo de la Planeación y Normatividad Técnica;
 
-III. Inculcar a niñas, niños y adolescentes sentimientos de identidad y pertenencia a su escuela, comunidad y nación, así como su participación activa en el proceso educativo y actividades cívicas en términos de las disposiciones aplicables;
+IV. Unidad de Asuntos Jurídicos; y
 
-IV. Orientar a niñas, niños y adolescentes respecto a la formación profesional, las oportunidades de empleo y las posibilidades de carrera;
+V. Unidad de Administración.
 
-V. Apoyar a niñas, niños y adolescentes que sean víctimas de maltrato y la atención especial de quienes se encuentren en situación de riesgo;
-
-VI. Prevenir el delito y las adicciones, mediante el diseño y ejecución de programas;
-
-VII. Emprender, en cooperación con quienes ejerzan la patria potestad, tutela o guarda y custodia, así como con grupos de la comunidad, la planificación, organización y desarrollo de actividades extracurriculares que sean de interés para niñas, niños y adolescentes;
-
-VIII. Promover la educación sexual integral conforme a su edad, el desarrollo evolutivo, cognoscitivo y madurez, de las niñas, niños y adolescentes que le permitan a niñas, niños y adolescentes ejercer de manera informada y responsable sus derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos, en las leyes y los Tratados Internacionales de los que el Estado mexicano sea parte;
-
-> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2024)</small>
-
-IX. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, propiciar la cultura de la legalidad, de la paz, la educación cívica y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos;
-
-> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2024)</small>
-
-X. Difundir los derechos humanos de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercerlos, e
-
-> <small>(ADICIONADA, D.O.F. 27 DE MAYO DE 2024)</small>
-
-XI. Inculcar en niñas, niños y adolescentes el respeto al medio ambiente; así como el respeto, cuidado y procuración del bienestar de los animales.
+Sin perjuicio de lo anterior, la Auditoría podrá contar con Direcciones, Jefaturas de Unidad, Jefaturas de Departamento, Supervisores y demás servidores públicos que al efecto señale su Reglamento, de conformidad con el presupuesto autorizado.
 
 ###### Artículo 59.
 
-Sin perjuicio de lo dispuesto en otras disposiciones aplicables, las autoridades competentes llevarán a cabo las acciones necesarias para propiciar las condiciones idóneas para crear un ambiente libre de violencia en las instituciones educativas, en el que se fomente la convivencia armónica y el desarrollo integral de niñas, niños y adolescentes, incluyendo la creación de mecanismos de mediación permanentes donde participen quienes ejerzan la patria potestad o tutela.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
-
-Para efectos del párrafo anterior, las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, y las instituciones académicas se coordinarán para:
-
-I. Diseñar estrategias y acciones para la detección temprana, contención, prevención y erradicación del acoso o la violencia escolar en todas sus manifestaciones, que contemplen la participación de los sectores público, privado y social, así como indicadores y mecanismos de seguimiento, evaluación y vigilancia;
-
-> <small>(REFORMADA, D.O.F. 15 DE MARZO DE 2022)</small>
-
-II. Desarrollar e implementar cursos de sensibilización y formación sobre igualdad de género, prevenir y atender los diferentes tipos de violencia y cultura de la paz, dirigidos a servidores públicos, personal administrativo y docente, para que a través de ellos se evite la reproducción de roles estereotipados de género y se impulse la igualdad sustantiva;
-
-III. Establecer mecanismos gratuitos de atención, asesoría, orientación y protección de niñas, niños y adolescentes involucrados en una situación de acoso o violencia escolar, y
-
-IV. Establecer y aplicar las sanciones que correspondan a las personas, responsables de centros de asistencia social, personal docente o servidores públicos que realicen, promuevan, propicien, toleren o no denuncien actos de acoso o violencia escolar, conforme a lo dispuesto en esta Ley y demás disposiciones aplicables.
+Al frente de la Auditoría habrá un Auditor Superior, electo por el voto de las dos terceras partes de los miembros presentes del Congreso. Durará en su encargo siete años pudiendo ser nombrado nuevamente por una sola vez. Podrá ser removido, exclusivamente, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Séptimo de la Constitución Política del Estado Libre y Soberano de Oaxaca. En los mismos términos serán electos los Subauditores Superiores.
 
 ###### Artículo 60.
 
-Niñas, niños y adolescentes tienen derecho al descanso, al esparcimiento, al juego y a las actividades recreativas propias de su edad, así como a participar libremente en actividades culturales, deportivas y artísticas, como factores primordiales de su desarrollo y crecimiento.
+La designación del Auditor Superior y Subauditores Superiores, se sujetará al procedimiento siguiente:
 
-Quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes deberán respetar el ejercicio de estos derechos y, por lo tanto, no podrán imponerles regímenes de vida, estudio, trabajo o reglas de disciplina desproporcionadas a su edad, desarrollo evolutivo, cognoscitivo y madurez, que impliquen la renuncia o el menoscabo de los mismos.
+I. La Comisión emitirá la convocatoria correspondiente, publicándola en el Periódico Oficial del Estado y en los de mayor circulación, a efecto de recibir durante un período de cinco días naturales contados a partir de la fecha de publicación de la convocatoria, las solicitudes para ocupar el puesto de Auditor Superior y Subauditores;
 
-> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+II. Concluido el plazo anterior y recibidas las solicitudes, la Comisión, dentro de los cinco días naturales siguientes, procederá a la revisión y análisis de la documentación recibida, así como a celebrar entrevistas individuales con los aspirantes para la evaluación respectiva;
+
+III. Concluida la evaluación, la Comisión formulará su dictamen que contendrá las ternas de los aspirantes que reúnan el mejor perfil e idoneidad para el cargo de Auditor Superior y Subauditores;
+
+IV. De las ternas propuesta en el dictamen, el Congreso elegirá, por el voto de las dos terceras partes de sus integrantes presentes, al Auditor Superior y a los Subauditores; y
+
+V. Las personas designadas para ocupar el cargo de Auditor Superior del Estado y Subauditores, protestarán su cargo ante el Pleno del Congreso.
 
 ###### Artículo 61.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, están obligadas a garantizar el derecho de niñas, niños y adolescentes al descanso y el esparcimiento y a fomentar oportunidades apropiadas, en condiciones de igualdad, para su participación en actividades culturales, artísticas y deportivas dentro de su comunidad.
+En caso de que ninguna de las personas propuestas en el dictamen haya obtenido la votación de las dos terceras partes de los miembros presentes del Congreso, se hará una nueva votación exclusivamente entre las dos personas que hayan obtenido más votos. Si ninguna de ellas obtuviera las dos terceras partes requeridas, la Comisión repetirá el procedimiento presentando nueva terna, sin que participen en ella los candidatos propuestos en la primera.
 
 ###### Artículo 62.
 
-Niñas, niños y adolescentes tienen derecho a la libertad de convicciones éticas, pensamiento, conciencia, religión y cultura. Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias garantizarán este derecho en el marco del Estado laico.
+Para ser Auditor Superior y Subauditor Superior del Estado se requiere satisfacer los siguientes requisitos:
 
-La libertad de profesar la propia religión o creencias estará sujeta únicamente a las limitaciones prescritas por la ley que sean necesarias para proteger los derechos y libertades fundamentales de los demás.
+I. Ser mexicano en pleno ejercicio de sus derechos políticos y civiles;
 
-Niñas, niños y adolescentes no podrán ser discriminados de forma alguna por ejercer su libertad de convicciones éticas, pensamiento, conciencia, religión y cultura.
+II. Tener treinta y cinco años cumplidos al día de la designación;
+
+III. Poseer el día del nombramiento título y cédula profesional a nivel licenciatura en contaduría pública, derecho, economía o administración;
+
+IV. No tener antecedentes penales;
+
+V. No haber sido Secretario de Estado, Procurador General de Justicia, Director General de una Entidad del Gobierno del Estado, Titular de algún Órgano Autónomo, Senador, Diputado Federal o Local, dirigente de algún partido político, Presidente Municipal, o postulado para cargo de elección popular, durante los cinco años anteriores previos al día de su nombramiento;
+
+VI. Contar al momento de su designación con una experiencia de cinco años en actividades o funciones relacionadas con el control y fiscalización del gasto público, política presupuestaria; evaluación del gasto público, del desempeño y de políticas públicas; administración financiera o manejo de recursos, y de responsabilidades de los servidores públicos; y
+
+VII. No haber sido inhabilitado o removido para desempeñar un empleo, cargo o comisión en el servicio público.
 
 ###### Artículo 63.
 
-Niñas, niños y adolescentes tienen derecho a disfrutar libremente de su lengua, cultura, usos, costumbres, prácticas culturales, religión, recursos y formas específicas de organización social y todos los elementos que constituyan su identidad cultural.
+El Auditor Superior tendrá las siguientes atribuciones:
 
-> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2023)</small>
+I. Representar legalmente a la Auditoría ante las entidades fiscalizables, autoridades federales y locales, judiciales, laborales y administrativas, entidades federativas y demás personas físicas y morales y, en consecuencia, ejercitar las acciones judiciales, civiles y contencioso-administrativas en los juicios en los que la Auditoría sea parte; contestar demandas, presentar pruebas y alegatos y actuar en defensa de los intereses jurídicos de la propia Auditoría, dando el debido seguimiento a los procesos y juicios en que actúe;
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, podrán aprovechar su infraestructura y recursos; promover el uso y desarrollo de los medios de comunicación oficiales y de las nuevas tecnologías a su alcance, a fin de establecer políticas tendentes a garantizar la promoción, difusión y protección de la diversidad de las expresiones culturales, regionales y universales, entre niñas, niños y adolescentes.
+II. Elaborar el proyecto de presupuesto anual de la Auditoría;
 
-Lo dispuesto en este artículo no será limitativo del ejercicio del derecho a la educación, según lo dispuesto en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, ni de los principios rectores de esta Ley.
+III. Administrar los bienes y recursos a cargo de la Auditoría en forma independiente y autónoma, respecto de los Poderes del Estado, conforme a la ley y reglamentos y resolver sobre la adquisición de servicios de la entidad, sujetándose a lo dispuesto en la ley; así como gestionar la incorporación, destino y desincorporación de bienes inmuebles del dominio público del Estado, afectos a su servicio;
 
-> <small>(ADICIONADO, D.O.F. 26 DE MAYO DE 2023)</small>
+IV. Aprobar el programa anual de actividades de la entidad a su cargo, así como el programa anual de Auditorías, visitas e inspecciones;
 
-###### Artículo 63 Bis.
+V. Someter a la consideración del Congreso, las propuestas de creación, reformas y adiciones al Reglamento en el que se distribuirán las atribuciones de las unidades administrativas de la Auditoria y sus titulares respectivos, además de establecer la forma en que deberán ser suplidos estos últimos en sus ausencias, su organización interna y funcionamiento;
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, promoverán la recreación y participación de las niñas, niños y adolescentes en las actividades culturales de su interés. Así como a fomentar la participación en la vida cultural y en las artes, la creatividad y producción artística, de niñas, niños y adolescentes.
+VI. Expedir los manuales de organización y procedimientos que se requieran para la debida organización y funcionamiento de la Auditoría, mismos que deberán ser publicados en el Periódico Oficial del Gobierno del Estado;
+
+VII. Designar y remover a los auditores especiales y al resto del personal de conformidad con la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca y demás disposiciones aplicables;
+
+VIII. Solicitar a las entidades fiscalizables, servidores públicos y a las personas físicas y morales la información que con motivo de la fiscalización de las Cuentas Públicas y la Gestión Financiera se requiera;
+
+IX. Solicitar a los Poderes del Estado, Municipios y demás entes públicos el auxilio que necesite para el ejercicio expedito de las funciones de fiscalización;
+
+X. Ejercer las atribuciones que corresponden a la Auditoría, en los términos de la Constitución Local, la presente Ley y demás disposiciones aplicables.
+
+XI. Instruir y resolver el recurso de reconsideración interpuesto en términos de esta Ley;
+
+XII. Recibir de la Comisión los informes de avance y las Cuentas Públicas para su fiscalización;
+
+XIII. Formular y entregar por conducto de la Comisión, los informes de Resultados de las revisiones de las Cuentas Públicas al Congreso, dentro de los plazos establecidos en esta Ley;
+
+XIV. Presentar denuncias y querellas en los términos de la legislación penal, en los casos de presuntas conductas delictivas de servidores públicos y en contra de particulares, cuando tenga conocimiento de hechos que pudieran implicar la comisión de un delito relacionado con daños al Estado o Municipios en sus haciendas públicas, o al patrimonio de las entidades fiscalizables;
+
+XV. Interponer el Juicio de Amparo cuando sea procedente.
+
+XVI. Celebrar convenios de coordinación o colaboración con la Federación, los Poderes del Estado y los gobiernos municipales, así como con organismos que agrupen a entidades de fiscalización superior homólogas, con éstas directamente o con el sector privado, informando al Congreso del Estado;
+
+XVII. Dar cuenta comprobada al Congreso de la aplicación de su presupuesto aprobado, en el mes de enero posterior a la conclusión de su ejercicio, por conducto de la Comisión;
+
+XVIII. Imponer a los servidores públicos y a las personas físicas o morales las sanciones pecuniarias previstas en la presente Ley y solicitar ante las autoridades competentes el cobro de las multas y sanciones que se impongan en los términos de esta ley;
+
+XIX. Promover ante las autoridades competentes el fincamiento de otras responsabilidades en que incurran servidores públicos o quienes dejaron de serlo de los Poderes del Estado, Municipios y demás entidades fiscalizables; y
+
+XX. Las demás que señale esta Ley y demás disposiciones legales aplicables.
+
+Las atribuciones previstas en las fracciones II, IV, V, VII, VIII, IX, X, XI, XII, XIII, XV, XVI y XVII son de ejercicio directo del Auditor Superior y por tanto, no podrán ser delegadas.
 
 ###### Artículo 64.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias deberán garantizar el derecho de niñas, niños y adolescentes a expresar su opinión libremente, así como a buscar, recibir y difundir información e ideas de todo tipo y por cualquier medio, sin más limitaciones que las establecidas en el artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos.
-
-La libertad de expresión de niñas, niños y adolescentes conlleva el derecho a que se tome en cuenta su opinión respecto de los asuntos que les afecten directamente, o a sus familias o comunidades. Dichas autoridades, en el ámbito de sus respectivas competencias, deberán establecer las acciones que permitan la recopilación de opiniones y realización de entrevistas a niñas, niños y adolescentes sobre temas de interés general para ellos.
-
-En poblaciones predominantemente indígenas, las autoridades a que se refiere este artículo, tienen la obligación de difundir la información institucional y la promoción de los derechos en la lengua indígena local.
-
-Asimismo, las autoridades a que se refiere este artículo dispondrán lo necesario para garantizar que niñas, niños y adolescentes con discapacidad cuenten con los sistemas de apoyo para ejercer su derecho a la libertad de expresión, acceso a la información y sistema de apoyo para la expresión de su voluntad.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+El Auditor Superior será suplido en sus ausencias temporales por cualquiera de los Subauditores y en ausencia de éstos, por el servidor público, en el orden que señale el Reglamento. En caso de falta definitiva, la Comisión dará cuenta al Congreso para que se haga nueva designación.
 
 ###### Artículo 65.
 
-Niñas, niños y adolescentes tienen derecho al libre acceso a la información. Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias promoverán la difusión de información y material que tengan por finalidad asegurar su bienestar social y ético, así como su desarrollo cultural y salud física y mental.
+El Subauditor de Fiscalización tendrá las siguientes atribuciones:
 
-El Sistema Nacional de Protección Integral acordará lineamientos generales sobre la información y materiales para difusión entre niñas, niños y adolescentes, conforme a lo dispuesto en esta Ley.
+I. Revisar y Fiscalizar las Cuentas Públicas Estatal y Municipales;
 
-> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+II. Suscribir las órdenes de auditoría las la revisión y fiscalización de las Cuentas Públicas;
+
+III. Revisar y Fiscalizar los casos de situaciones excepciones de las que tenga noticia la Auditoría, en los términos previstos en la presente Ley y el Código;
+
+IV. Elaborar los informes de resultados de la revisión de las Cuentas Públicas;
+
+V. Elaborar y poner a la consideración del Auditor Superior los manuales para la práctica de auditorías y las normas de auditoría gubernamental;
+
+VI. Elaborar los informes de Auditoría y formular las observaciones que se deriven de la revisión y fiscalización de las Cuentas Públicas; y,
+
+VII. Desahogar las solventaciones que con motivo de los informes de auditoría con observaciones se finquen a las entidades fiscalizables;
+
+VIII. Elaborar el expediente de presunta responsabilidad resarcitoria y remitirlo a la Unidad de Asuntos Jurídicos para el inicio del procedimiento administrativo correspondiente; y,
+
+IX. Las demás que le confiera la presente Ley, el Código y demás normatividad aplicable.
 
 ###### Artículo 66.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, promoverán mecanismos para la protección de los intereses de niñas, niños y adolescentes respecto de los riesgos derivados del acceso a medios de comunicación y uso de sistemas de información que afecten o impidan objetivamente su desarrollo integral.
+El Subauditor de Planeación tendrá las siguientes atribuciones:
+
+I. Organizar y practicar, la revisión de la información económica, financiera, programática y presupuestal que se presente en los Informes de Avance de Gestión Financiera, verificando que dicha información contenida en este documento, sea presentada conforme a lo dispuesto por la Ley de Fiscalización del Estado de Oaxaca, la Ley General de Contabilidad Gubernamental, las Normas y Lineamientos emitidos por el Consejo Nacional de Armonización Contable y demás disposiciones aplicables, generando el correspondiente pliego de observaciones y recomendaciones; dicha información deber ser considerada para la planeación y revisión de las Cuentas Públicas;
+
+II. Elaborar y poner a la consideración del Auditor Superior el Programa Anual de Actividades de la Auditoría, así como el Programa Anual de Auditorías, Visitas e Inspecciones, considerado en todo momento las propuestas que realice el Subauditor a cargo de la Fiscalización.
+
+III. Resguardar los dictámenes y las copias de los expedientes derivados de las actas de entrega-recepción que con motivo del cambio de administración municipal deban elaborarse;
+
+IV. Elaborar y ejecutar el Programa de Capacitación tanto a las entidades fiscalizables, como del personal de la Auditoría;
+
+V. Recibir y analizar los estados financieros mensuales, documentos contables, proyectos de ley de ingresos y los presupuestos de egresos de los ayuntamientos;
+
+VI. Programar, coordinar y supervisar el análisis del Presupuesto de Egresos del Estado de Oaxaca y la Ley de Ingresos del Estado de Oaxaca, a fin de producir documentos que coadyuven en la elaboración del informe de Resultado sobre la Revisión de las Cuentas Públicas;
+
+VII. Coordinar y supervisar la integración y actualización del marco normativo general para la fiscalización de la gestión gubernamental, a cargo de la Auditoría;
+
+VIII. Integrar los informes trimestrales y final de actividades de las unidades administrativas de la Auditoría, e informar al Auditor Superior del Estado sobre el avance y cumplimiento del Programa Operativo Anual; y
+
+IX. Las demás que le confiera la presente Ley, el Código y demás normatividad aplicable.
 
 ###### Artículo 67.
 
-Sin perjuicio de lo previsto en las disposiciones aplicables a los medios de comunicación, las autoridades federales competentes, en el ámbito de sus respectivas competencias, procurarán que éstos difundan información y materiales relacionados con:
+La Auditoría contará con una Unidad de Asuntos Jurídicos, cuyo titular tendrá las siguientes atribuciones:
 
-I. El interés social y cultural para niñas, niños y adolescentes, de conformidad con los objetivos de la educación que dispone el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos;
+I. Representar al Auditor en términos del artículo 63 de la presente Ley;
 
-II. La existencia en la sociedad de servicios, instalaciones y oportunidades destinados a niñas, niños y adolescentes;
+II. Instruir y resolver el procedimiento resarcitorio; y,
 
-III. La orientación a niñas, niños y adolescentes en el ejercicio de sus derechos;
-
-IV. La promoción de la prevención de violaciones a los derechos humanos de niñas, niños y adolescentes y la comisión de actos delictivos, y
-
-V. El enfoque de inclusión, igualdad sustantiva, no discriminación y perspectiva de derechos humanos.
+III. Las demás que señale esta ley, el reglamento y otras disposiciones aplicables.
 
 ###### Artículo 68.
 
-De conformidad con lo establecido en la Ley Federal de Telecomunicaciones y Radiodifusión respecto a la programación dirigida a niñas, niños y adolescentes, así como los criterios de clasificación emitidos de conformidad con la misma, las concesiones que se otorguen en materia de radiodifusión y telecomunicaciones deberán contemplar la obligación de los concesionarios de abstenerse de difundir o transmitir información, imágenes o audios que afecten o impidan objetivamente el desarrollo integral de niñas, niños y adolescentes, o que hagan apología del delito, en contravención al principio de interés superior de la niñez.
+La Auditoría contará con una Unidad de Administración que tendrá las siguientes atribuciones:
+
+I. Administrar los recursos financieros, humanos y materiales de la Auditoría de conformidad con las disposiciones legales, reglamentarias y administrativas correspondientes;
+
+II. Prestar los servicios que en general se requieran para el debido funcionamiento de las instalaciones en que se encuentre operando la propia Auditoría;
+
+III. Preparar el anteproyecto de Presupuesto anual de la Auditoría, ejercer y glosar el ejercicio del presupuesto autorizado y elaborar la cuenta comprobada de su aplicación, así como implantar y mantener un sistema de contabilidad de la institución que permita registrar el conjunto de operaciones que requiera su propia administración;
+
+IV. Elaborar y expedir los nombramientos y contratos del personal de la Auditoría, que el Auditor Superior autorice y designe, así como emitir las credenciales necesarias del personal;
+
+V. Ejercer el presupuesto de egresos asignado a la Auditoría y elaborar la contabilidad de su aplicación, así como implantar y mantener un sistema de contabilidad institucional que permita registrar el conjunto de operaciones propias de la administración;
+
+VI. Administrar y distribuir los recursos financieros que constituyan el Fondo de Fiscalización, para su ejercicio y aplicación respectiva en las áreas y unidades de la Auditoria;
+
+VII. Tramitar la adquisición, de conformidad con la normatividad aplicable, de los bienes y servicios que permitan suministrar los recursos materiales que solicitan sus unidades administrativas para su debido funcionamiento; y
+
+VIII. Las demás que le señale el Auditor y las disposiciones legales y administrativas aplicables.
 
 ###### Artículo 69.
 
-Las autoridades competentes vigilarán que se clasifiquen las películas, programas de radio y televisión en términos de lo dispuesto en la Ley Federal de Telecomunicaciones y Radiodifusión, así como videos, videojuegos y los impresos.
+El Auditor Superior, los Subauditores durante el ejercicio de su cargo, tendrán prohibido:
 
-> <small>(ADICIONADO, D.O.F. 9 DE MARZO DE 2018)</small>
+I. Desempeñar un empleo, cargo o comisión en partido político alguno, participar en actos políticos partidistas y hacer cualquier tipo de propaganda o promoción partidista;
 
-###### Artículo 69 Bis.
+II. Desempeñar otro empleo, cargo o comisión en los sectores público, privado o social, salvo los de docencia y los no remunerados en asociaciones científicas, artísticas o de beneficencia; y
 
-La Secretaría de Gobernación expedirá los lineamientos que establezcan criterios de clasificación de los videojuegos que se distribuyan, comercialicen o arrienden, por cualquier medio, y vigilará su cumplimiento.
-
-Los distribuidores de videojuegos deberán imprimir o adherir en la portada de los videojuegos y en su publicidad la clasificación que corresponda, de acuerdo con los lineamientos a los que refiere el párrafo anterior. Los comercializadores de videojuegos deberán abstenerse de publicitar, exhibir, vender o arrendar videojuegos cuya clasificación no sea visible en los términos que señalen los lineamientos.
-
-Los comercializadores y arrendadores de videojuegos están obligados a exigir a las personas que pretendan adquirir o arrendar videojuegos clasificados como exclusivos para adultos, que acrediten su mayoría de edad, sin lo cual no podrá realizarse la venta o renta.
+III. Hacer del conocimiento de terceros o difundir de cualquier forma, la información confidencial o reservada que tenga bajo su custodia la Auditoría para el ejercicio de sus atribuciones, la cual deberá utilizarse sólo para los fines a que se encuentra afecta.
 
 ###### Artículo 70.
 
-Las Procuradurías de Protección y cualquier persona interesada, por conducto de éstas, podrán promover ante las autoridades administrativas competentes la imposición de sanciones a los medios de comunicación, en los términos que establece esta Ley y demás disposiciones aplicables.
+El Auditor y los Subauditores podrán ser removidos de su cargo por las siguientes causas graves de responsabilidad administrativa:
 
-Asimismo, las Procuradurías de Protección estarán facultadas para promover acciones colectivas ante el órgano jurisdiccional competente, con objeto de que éste ordene a los medios de comunicación que se abstengan de difundir información o contenidos que pongan en peligro de forma individual o colectiva, la vida, la integridad, la dignidad u otros derechos de niñas, niños y adolescentes y, en su caso, reparen los daños que se hubieren ocasionado, sin menoscabo de las atribuciones que sobre esta materia tengan las autoridades competentes.
+I. Ubicarse en los supuestos de prohibición establecidos en el artículo anterior;
 
-Lo anterior, sin perjuicio de cualquier otra responsabilidad a la que hubiere lugar de conformidad con las disposiciones aplicables.
+II. Utilizar en beneficio propio o de terceros la documentación e información confidencial en los términos de la presente ley y sus disposiciones reglamentarias;
+
+III. Dejar sin causa justificada, de fincar indemnizaciones o aplicar sanciones pecuniarias, en el ámbito de su competencia y en los casos previstos en la ley y disposiciones reglamentarias, cuando esté debidamente comprobada la responsabilidad e identificado el responsable como consecuencia de las revisiones e investigaciones que en el ejercicio de sus atribuciones realice;
+
+IV. Ausentarse de sus labores sin causa justificada, por más de tres días sin dar aviso al Congreso;
+
+V. Abstenerse de presentar en el año correspondiente y en los términos de la presente Ley, sin causa justificada, los informes de resultados de las revisiones del informe de avance de gestión financiera y de las Cuentas Públicas;
+
+VI. Sustraer, destruir, ocultar o utilizar indebidamente la documentación e información que por razón de su cargo tenga a su cuidado o custodia o que exista en la Auditoría, con motivo del ejercicio de sus atribuciones;
+
+VII. Hacer uso indebido de los recursos materiales, humanos, económicos y técnicos de la Auditoría;
+
+VIII. Aceptar la injerencia de los partidos políticos en el ejercicio de sus funciones y de esta circunstancia, conducirse con parcialidad en el proceso de revisión de las Cuentas Públicas y en los procedimientos de fiscalización e imposición de sanciones a que se refiere esta Ley; y
+
+IX. Las demás que establezca la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca y demás disposiciones aplicables.
 
 ###### Artículo 71.
 
-Niñas, niños y adolescentes tienen derecho a ser escuchados y tomados en cuenta en los asuntos de su interés, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
-
-> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+El Congreso determinará, previo dictamen de la Comisión, sobre la remoción del Auditor y de los Subauditores por causas graves de responsabilidad, respetando el derecho de audiencia del afectado. La remoción requerirá del voto de las dos terceras partes de sus integrantes presentes.
 
 ###### Artículo 72.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, están obligados a disponer e implementar los mecanismos que garanticen la participación permanente y activa de niñas; niños y adolescentes en las decisiones que se toman en los ámbitos familiar, escolar, social, comunitario o cualquier otro en el que se desarrollen.
+El Auditor y los Subauditores sólo estarán obligados a absolver posiciones o rendir declaración en juicio, cuando las posiciones y preguntas se formulen por medio de oficio expedido por autoridad competente, misma que contestarán por escrito dentro del término establecido por dicha autoridad.
 
 ###### Artículo 73.
 
-Niñas, niños y adolescentes tienen derecho a participar, a ser escuchados y tomados en cuenta en todos los procesos judiciales y de procuración de justicia donde se diriman controversias que les afectan, en los términos señalados por el Capítulo Décimo Octavo.
+El Auditor Superior podrá adscribir orgánicamente las unidades administrativas establecidas en el Reglamento. Los acuerdos en los cuales se deleguen facultades o se adscriban unidades administrativas se publicarán en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 ###### Artículo 74.
 
-Niñas, niños y adolescentes también tienen derecho a que las diferentes instancias gubernamentales, en los tres órdenes de gobierno, les informen de qué manera su opinión ha sido valorada y tomada en cuenta su solicitud.
+Los servidores públicos de la Auditoría, así como los profesionistas externos contratados para la práctica de auditorías, estarán sujetos a las disposiciones contenidas en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca.
 
 ###### Artículo 75.
 
-Niñas, niños y adolescentes tienen derecho a asociarse y reunirse, sin más limitaciones que las establecidas en la Constitución Política de los Estados Unidos Mexicanos.
-
-Quienes ejerzan la patria potestad, tutela o guarda y custodia representarán a niñas, niños y adolescentes para el ejercicio del derecho de asociación, cuando ello sea necesario para satisfacer las formalidades que establezcan las disposiciones aplicables.
+La Auditoría elaborará su proyecto de presupuesto anual que contenga, los recursos necesarios para cumplir con su encargo, el cual será emitido por el Auditor Superior para su inclusión en el Proyecto de Presupuesto de Egreso del Estado.
 
 ###### Artículo 76.
 
-Niñas, niños y adolescentes tienen derecho a la intimidad personal y familiar, y a la protección de sus datos personales.
+Para todos los efectos legales, se entiende establecida la relación laboral entre la Auditoria por conducto del Auditor y el personal de la misma.
 
-Niñas, niños y adolescentes no podrán ser objeto de injerencias arbitrarias o ilegales en su vida privada, su familia, su domicilio o su correspondencia; tampoco de divulgaciones o difusiones ilícitas de información o datos personales, incluyendo aquélla que tenga carácter informativo a la opinión pública o de noticia que permita identificarlos y que atenten contra su honra, imagen o reputación.
-
-Quienes ejerzan la patria potestad, tutela o guarda y custodia, deberán orientar, supervisar y, en su caso, restringir, las conductas y hábitos de niñas, niños y adolescentes, siempre que atiendan al interés superior de la niñez.
-
-### Capítulo Décimo Segundo. De los Derechos al Descanso y al Esparcimiento
+### CAPÍTULO II. DEL PERSONAL COMISIONADO PARA LA PRACTICA DE AUDITORÍAS
 
 ###### Artículo 77.
 
-Se considerará violación a la intimidad de niñas, niños o adolescentes cualquier manejo directo de su imagen, nombre, datos personales o referencias que permitan su identificación en los medios de comunicación que cuenten con concesión para prestar el servicio de radiodifusión y telecomunicaciones, así como medios impresos, o en medios electrónicos de los que tenga control el concesionario o medio impreso del que se trate, que menoscabe su honra o reputación, sea contrario a sus derechos o que los ponga en riesgo, conforme al principio de interés superior de la niñez.
+Las auditorías, visitas e inspecciones que se efectúen en los términos de la presente Ley y el Código, se practicarán por el personal expresamente comisionado para el efecto por la Auditoría o mediante la contratación de profesionales de auditoría independientes, habilitados por la misma para efectuar visitas o inspecciones, siempre y cuando no exista conflicto de intereses, lo anterior, con excepción de aquellas auditorias en las que se maneje información confidencial en materia de seguridad, las cuales serán realizadas directamente por la Auditoria.
 
 ###### Artículo 78.
 
-Cualquier medio de comunicación que difunda entrevistas a niñas, niños y adolescentes, procederá como sigue:
-
-I. Deberá recabar el consentimiento por escrito o cualquier otro medio, de quienes ejerzan la patria potestad o tutela, así como la opinión de la niña, niño o adolescente, respectivamente, conforme a lo señalado en el artículo anterior y a lo previsto en el párrafo segundo del artículo 76 de la presente Ley, y
-
-II. La persona que realice la entrevista será respetuosa y no podrá mostrar actitudes ni emitir comentarios que afecten o impidan objetivamente el desarrollo integral de niñas, niños y adolescentes.
-
-En el caso de que no sea posible recabar el consentimiento de quienes ejerzan la patria potestad o tutela de un adolescente, éste podrá otorgarlo siempre que ello no implique una afectación a su derecho a la privacidad por el menoscabo a su honra o reputación.
-
-No se requerirá el consentimiento de quienes ejerzan la patria potestad o tutela de niñas, niños o adolescentes, cuando la entrevista tenga por objeto que éstos expresen libremente, en el ejercicio de su derecho a la libertad de expresión, su opinión respecto de los asuntos que les afecten directamente, siempre que ello no implique una afectación a sus derechos, en especial a su honra y reputación.
-
-> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
+Las personas a que se refiere el artículo anterior tendrán el carácter de representantes de la Auditoría en lo concerniente a la comisión conferida. Para tal efecto, deberán presentar previamente el oficio de comisión respectivo e identificarse plenamente como personal actuante de dicha Auditoría.
 
 ###### Artículo 79.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, garantizarán la protección de la identidad e intimidad de niñas, niños y adolescentes que sean víctimas, ofendidos, testigos o que estén relacionados de cualquier manera en la comisión de un delito, a fin de evitar su identificación pública. La misma protección se otorgará a adolescentes a quienes se les atribuya la realización o participación en un delito, conforme a la legislación aplicable en la materia.
+Los servidores públicos de la Auditoría y en su caso los profesionales contratados para la práctica de auditorías, deberán guardar estricta reserva sobre la información y documentos que con motivo del objeto de esta Ley conozcan, así como de sus actuaciones y observaciones.
 
 ###### Artículo 80.
 
-Los medios de comunicación deberán asegurarse que las imágenes, voz o datos a difundir, no pongan en peligro, de forma individual o colectiva, la vida, integridad, dignidad o vulneren el ejercicio de derechos de niñas, niños y adolescentes, aun cuando se modifiquen, se difuminen o no se especifiquen sus identidades, y evitarán la difusión de imágenes o noticias que propicien o sean tendentes a su discriminación, criminalización o estigmatización, en contravención a las disposiciones aplicables.
-
-En caso de incumplimiento a lo establecido en el presente artículo, niñas, niños o adolescentes afectados, por conducto de su representante legal o, en su caso, de la Procuraduría de Protección competente, actuando de oficio o en representación sustituta, podrá promover las acciones civiles de reparación del daño e iniciar los procedimientos por la responsabilidad administrativa a que haya lugar; así como dar seguimiento a los procedimientos hasta su conclusión.
-
-Niñas, niños o adolescentes afectados, considerando su edad, grado de desarrollo cognoscitivo y madurez, solicitarán la intervención de las Procuradurías de Protección.
-
-En los procedimientos civiles o administrativos que sean iniciados o promovidos por quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la Procuraduría de Protección competente ejercerá su representación coadyuvante.
+Los servidores públicos de la Auditoría, cualquiera que sea su categoría, y los profesionales contratados para la práctica de las auditorías, serán responsables, en los términos de las disposiciones legales aplicables, por violación a dicha reserva.
 
 ###### Artículo 81.
 
-En los procedimientos ante órganos jurisdiccionales, se podrá solicitar que se imponga como medida cautelar la suspensión o bloqueo de cuentas de usuarios en medios electrónicos, a fin de evitar la difusión de información, imágenes, sonidos o datos que puedan contravenir el interés superior de la niñez.
+La Auditoría será responsable subsidiaria de los daños y perjuicios que en términos de esta Ley, causen los servidores públicos y particulares contratados para la práctica de auditorías actuando ilícitamente.
 
-El órgano jurisdiccional, con base en este artículo y en las disposiciones aplicables, podrá requerir a las empresas de prestación de servicios en materia de medios electrónicos que realicen las acciones necesarias para el cumplimiento de las medidas cautelares que ordene.
-
-### Capítulo Décimo Octavo. Del Derecho a la Seguridad Jurídica y al Debido Proceso
-
-### Capítulo Décimo Tercero. De los Derechos de la Libertad de Convicciones Éticas, Pensamiento, Conciencia, Religión y Cultura
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+### CAPÍTULO III. RELACIONES CON EL CONGRESO
 
 ###### Artículo 82.
 
-Niñas, niños y adolescentes gozan de los derechos y garantías de seguridad jurídica y debido proceso establecidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, esta Ley y demás disposiciones aplicables.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+La Auditoría, establecerá sus relaciones con el Congreso, por conducto de la Comisión, la cual tendrá por objeto vigilar, evaluar y controlar el desempeño de la Auditoría, constituyéndose en el enlace que permita garantizar la debida coordinación entre esta y el Congreso e informar sobre la evolución de los trabajos de fiscalización.
 
 ###### Artículo 83.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, que sustancien procedimientos de carácter jurisdiccional o administrativo o que realicen cualquier acto de autoridad en los que estén relacionados niñas, niños o adolescentes, de conformidad con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez estarán obligadas a observar, cuando menos a:
+Son atribuciones de la Comisión:
 
-I. Garantizar la protección y prevalencia del interés superior de la niñez a que se refiere el artículo 2 de la presente Ley;
+I. Ser conducto de comunicación entre el Congreso y la Auditoría;
 
-II. Garantizar el ejercicio de los derechos de niñas, niños y adolescentes, establecidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, esta Ley y demás disposiciones aplicables;
+II. Recibir del Pleno o de la Diputación Permanente las Cuentas Públicas de las entidades fiscalizables y turnarlas a la Auditoría;
 
-III. Proporcionar información clara, sencilla y comprensible para las niñas, niños y adolescentes sobre el procedimiento judicial o administrativo de que se trate y la importancia de su participación en el mismo, incluyendo, en su caso, formatos accesibles de fácil comprensión y lectura para niñas, niños y adolescentes con discapacidad;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2014)</small>
 
-IV. Implementar mecanismos de apoyo al presentar una denuncia, participar en una investigación o en un proceso judicial;
+III. Dictaminar las cuentas públicas, con base en el informe de resultados de revisión y fiscalización que formule y entregue el Auditor Superior a la Comisión.
 
-V. Garantizar el derecho de niñas, niños y adolescentes a ser representados en términos de lo dispuesto en el Título Quinto, Capítulo Segundo, de la presente Ley, así como información sobre las medidas de protección disponibles;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2014)</small>
 
-VI. Proporcionar asistencia de profesionales especializados cuando la naturaleza del procedimiento lo requiera;
+IV. Conocer y evaluar el Programa Anual de Actividades que para el debido cumplimiento de sus funciones, elabore la Auditoría.
 
-VII. Proporcionar la asistencia de un traductor o intérprete;
+V. Vigilar y evaluar que la Auditoría cumpla con sus funciones conforme a la Constitución Local, la presente Ley, el Código y demás disposiciones legales;
 
-VIII. Ponderar, antes de citar a una niña, niño o adolescente a alguna audiencia, la pertinencia de la misma, considerando su edad, madurez, estado psicológico, así como cualquier otra condición específica;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2014)</small>
 
-IX. Garantizar el acompañamiento de quien ejerza sobre ellos la patria potestad, tutela, guarda o custodia durante la sustanciación de todo el procedimiento, salvo disposición judicial en contrario;
+VI. Recibir quejas y denuncias derivadas del incumplimiento de las obligaciones por parte de los servidores públicos de la Auditoria, iniciar las investigaciones y en su caso fincar las responsabilidades administrativas disciplinarias sancionatorias a que haya lugar, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca.
 
-X. Mantener a niñas, niños o adolescentes apartados de los adultos que puedan influir en su comportamiento o estabilidad emocional, cuando así lo determine la autoridad competente, antes y durante la realización de la audiencia o comparecencia respectiva;
+VII. Citar por conducto de su Presidente al Auditor Superior, para conocer sobre las actividades de la Dependencia a su cargo y en específico, sobre los informes de resultados de la revisión de las Cuentas Públicas;
 
-XI. Destinar espacios lúdicos de descanso y aseo para niñas, niños y adolescentes en los recintos en que se lleven a cabo procedimientos en que deban intervenir;
+VIII. Practicar auditorías de cumplimiento, al desempeño, de legalidad e informáticas a la gestión pública y financiera de los recursos de que dispone la Auditoría;
 
-XII. Ajustarse al tiempo de participación máximo para la intervención de niñas, niños o adolescentes durante la sustanciación de los procedimientos de conformidad con los principios de autonomía progresiva y celeridad procesal, y
+IX. Conocer el proyecto de presupuesto anual de la Auditoría, así como el informe anual de su ejercicio y darlo a conocer al Pleno del Congreso para los efectos legales conducentes;
 
-XIII. Implementar medidas para proteger a niñas, niños o adolescentes de sufrimientos durante su participación y garantizar el resguardo de su intimidad y datos personales.
+X. Evaluar el desempeño de la Auditoría respecto al cumplimiento de su mandato, atribuciones y ejecución de las auditorías y proveer lo necesario para garantizar su autonomía técnica y de gestión.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+La evaluación del desempeño tendrá por objeto conocer si la entidad de fiscalización cumple con las atribuciones que conforme a la Constitución Política del Estado y esta Ley le corresponden; el efecto o la consecuencia de la acción fiscalizadora en la gestión financiera y el desempeño de los entes fiscalizables, en los resultados de los programas y proyectos autorizados en el Presupuesto, y en la administración de los recursos públicos federales que ejerzan;
 
-### Capítulo Décimo Cuarto. De los Derechos a la Libertad de Expresión y de Acceso a la Información
+XI. Presentar al Pleno del Congreso, el dictamen relativo a la solicitud de licencia, renuncia o remoción del Auditor Superior y Subauditores Superiores;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2014)</small>
+
+XII. Emitir la Convocatoria, desahogar el procedimiento y presentar al Congreso, el dictamen relativo a la terna de aspirantes para ocupar el cargo de Auditor Superior y Subauditores Superiores, mismo que se integrará con las propuestas recibidas;
+
+XIII. Proponer la contratación del personal de la Unidad Técnica, misma que auxiliara a la Comisión en el desempeño de sus funciones;
+
+XIV. Proponer al Congreso, el reglamento interior de la Unidad Técnica para su publicación en el Periódico Oficial;
+
+XV. Aprobar el programa de actividades de la Unidad Técnica y requerirle todo tipo de información relativa a sus funciones, así mismo a probar políticas, lineamientos y manuales que la Unidad Técnica requiera para el ejercicio de sus funciones.
+
+XVI. Ordenar a la Unidad Técnica la práctica de auditorías a la Auditoría;
+
+XVII. Aprobar los indicadores que utilizará la Unidad Técnica para la evaluación del desempeño de la Auditoría y, en su caso, los métodos necesarios para dicho efecto y los indicadores para evaluar a la Unidad Técnica;
+
+XVIII. Someter a la consideración del Congreso las reformas, adiciones y derogaciones del Reglamento y en su caso la expedición de uno nuevo; y
+
+XIX. Las demás que establezcan la presente Ley y demás disposiciones legales aplicables.
+
+### CAPÍTULO IV
+
+DE LA UNIDAD TÉCNICA DE VIGILANCIA, EVALUACIÓN Y CONTROL DE LA AUDITORÍA SUPERIOR DEL ESTADO.
 
 ###### Artículo 84.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, garantizarán que niñas y niños a quienes se atribuya la comisión o participación en un hecho que la ley señale como delito se les reconozca que están exentos de responsabilidad penal y garantizarán que no serán privados de la libertad ni sujetos a procedimiento alguno, sino que serán únicamente sujetos a la asistencia social con el fin de restituirles, en su caso, en el ejercicio de sus derechos.
+Para apoyar a la Comisión en el cumplimiento de sus atribuciones existirá la Unidad Técnica, encargada de vigilar el estricto cumplimiento de las funciones a cargo de los servidores públicos de la Auditoría, así como los profesionistas externos contratados para la práctica de auditorías, la cual dependerá de la Comisión.
 
-Lo anterior, sin perjuicio de las responsabilidades civiles que correspondan a quienes ejerzan la patria potestad, tutela o guarda y custodia, conforme a las disposiciones aplicables.
+La Unidad Técnica podrá aplicar, en su caso, las medidas disciplinarias y sanciones administrativas previstas en el marco jurídico y proporcionar apoyo técnico a la Comisión en la evaluación del desempeño de la Auditoría.
 
 ###### Artículo 85.
 
-En aquellos casos en que el Ministerio Público o cualquier otra autoridad, tenga conocimiento de la presunta comisión o participación de una niña o niño en un hecho que la ley señale como delito, de manera inmediata dará aviso a la Procuraduría de Protección competente.
+La Unidad Técnica tendrá las siguientes atribuciones:
 
-Niñas o niños, en ningún caso podrán ser detenidos, retenidos o privados de su libertad por la supuesta comisión o participación en un hecho que la ley señale como delito.
+I. Vigilar que los servidores públicos de la Auditoría Superior del Estado se conduzcan en términos de lo dispuesto por la Ley de Fiscalización Superior para el Estado de Oaxaca, la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, el Reglamento Interior de la Auditoría Superior del Estado de Oaxaca y demás disposiciones legales y reglamentarias aplicables;
 
-La Procuraduría de Protección, en el marco de sus atribuciones, deberá, en su caso, solicitar a la autoridad competente de manera inmediata las medidas necesarias para la protección integral, de asistencia social y en su caso, restitución de sus derechos y garantizar que niñas y niños no sean objeto de discriminación.
+II. Practicar, por sí o a través de auditores externos, auditorías para verificar el desempeño y el cumplimiento de metas de la Auditoría, así como la debida aplicación de los recursos a cargo de ésta con base en el programa anual de trabajo que apruebe la Comisión;
 
-Toda medida que se adopte será susceptible de revisión por órgano judicial competente en un proceso contradictorio en el que se garantice, por lo menos, el derecho a ser oído y la asistencia de un abogado especializado.
+III. Recibir quejas y denuncias derivadas del incumplimiento de las obligaciones por parte del Auditor y demás servidores públicos de la Auditoría e iniciar las investigaciones correspondientes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JUNIO DE 2017)</small>
+IV. Instruir y resolver el procedimiento administrativo para el fincamiento de la responsabilidad administrativa disciplinaria e imponer las sanciones que correspondan, en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca;
+
+V. Conocer y resolver, el recurso de revocación que interpongan los servidores públicos de la Auditoría sancionados conforme a lo dispuesto por la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca;
+
+VI. Participar y sancionar los actos de entrega recepción de los servidores públicos de la Auditoría;
+
+VII. A instancia de la Comisión, presentar denuncias o querellas ante la autoridad competente, en caso de detectar conductas presumiblemente constitutivas de delito, imputables a los servidores públicos de la Auditoría;
+
+VIII. Recibir, resguardar y registrar las declaraciones de situación patrimonial que deben presentar los servidores públicos de la Auditoría;
+
+IX. Conocer y resolver de las inconformidades que presenten los proveedores o contratistas en contra de la Auditoría por el incumplimiento de los contratos y de las disposiciones en materia de Adquisiciones, Arrendamientos y Servicios del Sector Público;
+
+X. Auxiliar a la Comisión en los análisis y las conclusiones del Informe del Resultado y demás documentos que le envíe la Auditoría;
+
+XI. Proponer a la Comisión los sistemas de evaluación del desempeño de la propia Unidad y los que utilice para evaluar a la Auditoría, así como los sistemas de seguimiento a las observaciones y acciones que se promuevan a la Comisión;
+
+XII. En general, coadyuvar y asistir a la Comisión en el cumplimiento de sus atribuciones, y;
+
+XIII. Las demás que le atribuyan expresamente las disposiciones legales y reglamentarias aplicables.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2014)</small>
+
+###### Artículo 85 Bis.
+
+La Unidad Técnica tendrá las siguientes obligaciones:
+
+a) Apoyar a la Comisión para determinar si los resultados de la revisión de las Cuentas Públicas, se apegaron a los principios de imparcialidad y legalidad, y si estos resultados se encuentran debidamente fundados y motivados.
+
+b) Apoyar a la Comisión para determinar si la revisión de los Informes de Avance de Gestión Financiera, se apegaron a los principios de imparcialidad y legalidad, y si estos resultados se encuentran debidamente fundados y motivados.
+
+c) Apoyar a la Comisión para determinar si el Estado de Solventación de Observaciones de la revisión de las Cuentas Públicas, se encuentra debidamente soportado a través de la comprobación, justificación y/o aclaraciones presentadas por los funcionarios responsables.
+
+d) Apoyar a la Comisión para la debida integración del Dictamen de las Cuentas Públicas.
+
+e) Apoyar a la Comisión para evaluar el Programa Anual de Actividades que elabore y presente la Auditoria.
+
+f) Para el debido cumplimiento de sus funciones la Unidad Técnica, podrá tener acceso a toda la información impresa, digital, software y a todos los programas establecidos en la Auditoria, pudiendo efectuar revisiones de gabinete y/o en el domicilio de la propia Auditoria.
 
 ###### Artículo 86.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, garantizarán que en los procedimientos jurisdiccionales en que estén relacionadas niñas, niños o adolescentes como probables víctimas del delito o testigos, de conformidad con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez, tengan al menos los siguientes derechos:
-
-I. Se les informe sobre la naturaleza del procedimiento y el carácter de su participación en el mismo, el que en ningún caso podrá ser el de imputado o probable responsable;
-
-II. Que su participación en un procedimiento se lleve a cabo de la manera más expedita, asistidos por un profesional en derecho y atendiendo a lo dispuesto por la fracción XI del artículo 83 de esta Ley;
-
-III. Garantizar el acompañamiento de quien ejerza sobre ellos la patria potestad, tutela o guarda y custodia durante la sustanciación de todo el procedimiento, salvo disposición judicial en contrario, con base en el interés superior de la niñez;
-
-IV. Que se preserve su derecho a la intimidad, que no se divulguen sus datos de identificación en los términos de esta Ley y las demás aplicables;
-
-V. Tener acceso gratuito a asistencia jurídica, psicológica y cualquier otra necesaria atendiendo a las características del caso, a fin de salvaguardar sus derechos, en términos de las disposiciones aplicables, y
-
-VI. Adoptar las medidas necesarias para evitar la revictimización de niñas, niños y adolescentes que presuntamente son víctimas de la comisión de un delito o violación a sus derechos humanos.
+El titular de la Unidad Técnica será propuesto por la propia Comisión y designado por el Congreso, mediante el voto mayoritario de sus miembros presentes en la sesión respectiva.
 
 ###### Artículo 87.
 
-Siempre que se encuentre una niña, niño o adolescente en el contexto de la comisión de un delito, se notificará de inmediato a quienes ejerzan la patria potestad, tutela o guarda y custodia, así como a la Procuraduría de Protección competente.
+Para desempeñarse como Titular de la Unidad Técnica se requiere satisfacer los requisitos siguientes:
+
+I. Ser mexicano en pleno ejercicio de sus derechos políticos y civiles;
+
+II. Tener treinta y cinco años cumplidos al día de la designación;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2014)</small>
+
+III. Poseer al día del nombramiento titulo y cédula profesional a nivel de licenciatura.
+
+IV. No tener antecedentes penales;
+
+V. Contar al momento de su designación con una experiencia de cinco años en actividades o funciones relacionadas con el control y fiscalización del gasto público, política presupuestaria; evaluación del gasto público, del desempeño y de políticas públicas; administración financiera o manejo de recursos, y de responsabilidades de los servidores públicos; y
+
+VI. No haber sido inhabilitado o removido para desempeñar un empleo, cargo o comisión en el servicio público.
 
 ###### Artículo 88.
 
-La legislación en materia de justicia integral para adolescentes en conflicto con la ley penal determinará los procedimientos y las medidas que correspondan a quienes se les atribuya la comisión o participación en un hecho que la ley señale como delito mientras era adolescente.
-
-La legislación a que se refiere el párrafo anterior, deberá garantizar los derechos fundamentales que reconoce la Constitución Política de los Estados Unidos Mexicanos para todo individuo, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos.
-
-### Capítulo Décimo Noveno. Niñas, Niños y Adolescentes Migrantes
+El titular de la Unidad Técnica será responsable administrativamente ante el Congreso, el cual deberá rendir informes trimestrales y un informe anual de su gestión, con independencia de que pueda ser citado extraordinariamente por ésta, cuando así se requiera, para dar cuenta del ejercicio de sus funciones.
 
 ###### Artículo 89.
 
-El presente Capítulo se refiere a las medidas especiales de protección que las autoridades deberán adoptar para garantizar los derechos de niñas, niños y adolescentes migrantes, acompañados, no acompañados, separados, nacionales, extranjeros y repatriados en el contexto de movilidad humana.
+Son atribuciones del Titular de la Unidad Técnica:
 
-Las autoridades de todos los órdenes de gobierno deberán proporcionar, de conformidad con sus competencias, los servicios correspondientes a niñas, niños y adolescentes en situación de migración, independientemente de su nacionalidad o su situación migratoria.
+I. Planear y programar auditorías a las diversas áreas que integran la Auditoría;
 
-En tanto el Instituto Nacional de Migración determine la condición migratoria de la niña, niño o adolescente, el Sistema Nacional DIF o sistema de las entidades, según corresponda, deberá brindar la protección que prevé esta Ley y demás disposiciones aplicables.
+II. Requerir a las unidades administrativas de la Auditoría la información necesaria para cumplir con sus atribuciones;
 
-El principio del interés superior de la niñez será una consideración primordial que se tomará en cuenta durante el procedimiento administrativo migratorio al que estén sujetos niñas, niños y adolescentes migrantes, en el que se estimarán las posibles repercusiones de la decisión que se tome en cada caso.
+III. Expedir certificaciones de los documentos que obren en los archivos de la Unidad Técnica, y
+
+IV. Las demás que le atribuyan expresamente las disposiciones legales y reglamentarias aplicables.
 
 ###### Artículo 90.
 
-Las autoridades competentes deberán observar los procedimientos de atención y protección especial de derechos de niñas, niños y adolescentes migrantes, previstos en la Ley de Migración, su Reglamento y demás disposiciones jurídicas aplicables, debiendo observar en todo momento el principio del interés superior de la niñez y los estándares internacionales en la materia.
+Para el ejercicio de las atribuciones que tiene conferidas la Unidad Técnica, contará con los servidores públicos y las unidades administrativas, y los recursos económicos que requiera, de conformidad con el presupuesto que le asigne el Congreso.
+
+El reglamento de la Unidad Técnica que expida el Congreso establecerá la competencia de las áreas a que alude el párrafo anterior y aquellas otras unidades administrativas que sean indispensables para el debido funcionamiento de la misma.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MARZO DE 2014)</small>
 
 ###### Artículo 91.
 
-Las autoridades competentes, una vez en contacto con la niña, niño o adolescente deberán de adoptar las medidas correspondientes para la protección de sus derechos. En consecuencia, darán una solución que resuelva todas sus necesidades de protección, teniendo en cuenta sus opiniones y privilegiando la reunificación familiar, excepto que sea contrario a su interés superior o voluntad.
+Los servidores públicos de la Unidad Técnica deberán cumplir con el grado de Licenciatura, preferentemente en materias de fiscalización, evaluación del desempeño y control.
 
-### Capítulo Décimo Quinto. Del Derecho a la Participación
+El ingreso a la Unidad Técnica será mediante convocatoria pública y examen de oposición.
+
+### CAPÍTULO V. RELACIONES CON LA AUDITORIA SUPERIOR DE LA FEDERACIÓN
 
 ###### Artículo 92.
 
-Las garantías de debido proceso que se deberán aplicar en los procesos migratorios que involucran a niñas, niños y adolescentes son las siguientes:
+La Auditoría podrá revisar y fiscalizar el gasto federalizado que reciban las entidades fiscalizables, mediante la firma de un convenio suscrito con la Auditoría Superior de la Federación, debiendo sujetarse en todo caso a las disposiciones contenidas en el citado convenio, a las reglas de operación que al efecto emita la Auditoría Superior de la Federación, y a las disposiciones legales aplicables.
 
-I. El derecho a ser notificado de la existencia de un procedimiento y de la decisión que se adopte en el marco del proceso migratorio;
+Para efectos del artículo anterior, la Auditoría contará con personal adscrito al Programa para la Fiscalización del Gastos (sic) Federalizado "PROFIS", los cuales, deberán observar las disposiciones contenidas en las reglas de operación del programa antes mencionado, así como la normatividad vigente.
 
-II. El derecho a ser informado de sus derechos;
+La Auditoria deberá remitir al Congreso el convenio a que se refiere el presente artículo.
 
-III. El derecho a que los procesos migratorios sean llevados por un funcionario especializado;
+## TÍTULO SEXTO. DE LOS MEDIOS DE APREMIO Y SANCIONES
 
-IV. El derecho de la niña, niño y adolescente a ser escuchado y a participar en las diferentes etapas procesales;
-
-V. El derecho a ser asistido gratuitamente por un traductor y/o intérprete;
-
-VI. El acceso efectivo a la comunicación y asistencia consular;
-
-VII. El derecho a ser asistido por un abogado y a comunicarse libremente con él;
-
-VIII. El derecho, en su caso, a la representación en suplencia;
-
-IX. El derecho a que la decisión que se adopte evalúe el interés superior de la niña, niño y adolescente y esté debidamente fundamentada;
-
-X. El derecho a recurrir la decisión ante la autoridad jurisdiccional competente, y
-
-XI. El derecho a conocer la duración del procedimiento que se llevará a cabo, mismo que deberá seguir el principio de celeridad.
-
-## TÍTULO SEXTO. De las Infracciones Administrativas
-
-### Capítulo Único. De las Infracciones y Sanciones Administrativas
-
-###### Artículo 146.
-
-Las leyes de las entidades federativas establecerán las infracciones y las sanciones que resulten aplicables en el ámbito de sus respectivas competencias y los procedimientos para su imposición e impugnación, así como las autoridades competentes para ello.
-
-###### Artículo 147.
-
-Los servidores públicos federales, personal de instituciones de salud, educación, deportivas o culturales, empleados o trabajadores de establecimientos sujetos al control, administración o coordinación de aquéllas que, en el ejercicio de sus funciones o actividades o con motivo de ellas, indebidamente impidan el ejercicio de algún derecho o nieguen la prestación del servicio al que están obligados a alguna niña, niño o adolescente, serán sujetos a las sanciones administrativas y demás que resulten aplicables, en términos de las disposiciones correspondientes.
-
-No se considerarán como negación al ejercicio de un derecho las molestias que sean consecuencia de sanciones legales, que sean inherentes o incidentales a éstas o derivadas de un acto legítimo de autoridad.
-
-###### Artículo 148.
-
-En el ámbito federal, constituyen infracciones a la presente Ley:
-
-I. Respecto de servidores públicos federales, personal de instituciones de salud, educación, deportivas o culturales, empleados o trabajadores de establecimientos sujetos al control, administración o coordinación de aquéllas, así como centros de asistencia social o de cualquier otra índole de jurisdicción federal, cuando en el ejercicio de sus funciones o actividades o con motivo de ellas conozcan de la violación de algún derecho a alguna niña, niño o adolescente e indebidamente se abstengan de hacerlo del conocimiento de la autoridad competente en contravención a lo dispuesto en el artículo 12 de esta Ley y demás ordenamientos aplicables;
-
-> <small>(REFORMADA, D.O.F. 26 DE MARZO DE 2024)</small>
-
-II. Respecto de servidores públicos federales, personal de instituciones de salud, educación, deportivas o culturales, empleados o trabajadores de establecimientos sujetos al control, administración o coordinación de aquéllas, así como centros de asistencia social o de cualquier otra índole de jurisdicción federal, ejerzan, permitan, propicien, toleren o se abstengan de impedir, cualquier tipo de abuso, acoso, agresión, daño, intimidación, violencia, maltrato o perjuicio de que tengan conocimiento, en contra de niñas, niños y adolescentes;
-
-III. Respecto de los concesionarios de radio, televisión, la difusión o transmisión de imágenes, voz o datos que afecten o impidan objetivamente el desarrollo integral de niñas, niños o adolescentes, o que hagan apología del delito, en contravención al artículo 68 de esta Ley y a las disposiciones específicas que regulen la difusión y transmisión de contenidos;
-
-IV. Respecto de los concesionarios de radio y televisión y de quien dirija medios impresos, la violación a la intimidad personal o familiar de niñas, niños o adolescentes, a que se refiere el artículo 77 de esta Ley;
-
-V. Respecto de los concesionarios de radio y televisión y de quien dirija medios impresos, la realización de entrevistas o su difusión, sin la autorización a que se refiere el artículo 78 de esta Ley;
-
-VI. Respecto de los concesionarios de radio y televisión y de quien dirija medios impresos, la difusión de datos personales de niñas, niños o adolescentes relacionados de cualquier forma en procedimientos penales o a quienes se les apliquen medidas de reparación, reinserción, restitución o asistencia, en términos de las disposiciones aplicables, en contravención al artículo 79 de la presente Ley;
-
-VII. Respecto de los concesionarios de radio y televisión y de quien dirija medios impresos, la difusión de imágenes o voz de niñas, niños o adolescentes, en contravención a lo dispuesto en el artículo 80 de esta Ley;
-
-> <small>(ADICIONADA, D.O.F. 9 DE MARZO DE 2018)</small>
-
-VII Bis. Respecto de los distribuidores, comercializadores y arrendadores de videojuegos, la distribución, publicitación, exhibición, venta y arrendamiento de videojuegos, en contravención a lo dispuesto en el artículo 69 Bis de esta Ley;
-
-VIII. Respecto de profesionales en trabajo social o psicología que intervengan en procedimientos de adopción que no cuenten con la autorización del Sistema Nacional DIF a que se refiere el artículo 31 de esta Ley, en los casos competencia de dicho Sistema, y
-
-IX. Las demás contravenciones a lo dispuesto en esta Ley, competencia del orden federal.
-
-###### Artículo 149.
-
-A quienes incurran en las infracciones previstas en las fracciones I, II y VIII del artículo anterior, se les impondrá multa de hasta mil quinientos días de salario mínimo general vigente en el Distrito Federal al momento de realizarse la conducta sancionada.
-
-> <small>(REFORMADO, D.O.F. 9 DE MARZO DE 2018)</small>
-
-Las infracciones previstas en las fracciones III, IV, V, VI, VII y VII Bis del artículo anterior, serán sancionadas con multa de tres mil y hasta treinta mil días de salario mínimo general vigente en el Distrito Federal al momento de realizarse la conducta.
-
-En los casos de las infracciones previstas en las fracciones III, V, VI y VII del artículo anterior, se impondrá una multa adicional de mil quinientos y hasta siete mil días de salario mínimo general vigente en el Distrito Federal, por cada día que se difunda o se encuentren disponibles en medios electrónicos de los que tenga control el concesionario o medio impreso que se trate, la información, datos, imágenes o audios.
-
-En casos de reincidencia, la multa podrá aplicarse hasta por el doble de lo previsto en este artículo. Se considerará reincidente al que:
-
-a) Habiendo incurrido en una infracción que haya sido sancionada, realice otra violación del mismo precepto de esta Ley;
-
-b) Al inicio del segundo o ulterior procedimiento exista resolución previa que haya causado estado, y
-
-c) Que entre el inicio del procedimiento y la resolución que haya causado estado no hayan transcurrido más de diez años.
-
-###### Artículo 150.
-
-Para la determinación de la sanción, las autoridades competentes deberán considerar:
-
-I. La gravedad de la infracción;
-
-II. El carácter intencional o no de la acción u omisión constitutiva de la infracción;
-
-III. Los daños que se hubieren producido o puedan producirse;
-
-IV. La condición económica del infractor, y
-
-V. La reincidencia del infractor.
-
-###### Artículo 151.
-
-Las sanciones previstas en esta Ley se aplicarán por las siguientes autoridades:
-
-I. La dependencia o entidad de la Administración Pública Federal que resulte competente, en los casos de las fracciones I y II del artículo 148 de esta Ley;
-
-II. Tratándose de servidores públicos, así como empleados o trabajadores de establecimientos sujetos al control, administración o coordinación del Poder Judicial de la Federación; las Cámaras de Diputados o de Senadores del Congreso de la Unión; órganos con autonomía constitucional, o del Tribunal Federal de Justicia Fiscal y Administrativa o de tribunales del trabajo o agrarios, las sanciones serán impuestas por los órganos que establezcan sus respectivos ordenamientos legales;
-
-> <small>(REFORMADA, D.O.F. 9 DE MARZO DE 2018)</small>
-
-III. La Secretaría de Gobernación, en los supuestos previstos en las fracciones III, IV, V, VI, VII y VII Bis, del artículo 148 de esta Ley, y
-
-IV. El Sistema Nacional DIF, en los casos de la fracción VIII del artículo 148 de esta Ley.
-
-###### Artículo 152.
-
-Contra las sanciones que las autoridades federales impongan en cumplimiento de esta Ley, se podrá interponer el recurso de revisión previsto en la Ley Federal de Procedimiento Administrativo.
-
-###### Artículo 153.
-
-Para los efectos de este Título, a falta de disposición expresa y en lo que no contravenga a esta Ley, se aplicará supletoriamente la Ley Federal de Procedimiento Administrativo.
-
-###### Artículo 154.
-
-Las entidades federativas deberán establecer las infracciones y sanciones administrativas aplicables en el ámbito de su competencia.
-
-## TRANSITORIOS
-
-PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-SEGUNDO. El Congreso de la Unión y las legislaturas de las entidades federativas, en el ámbito de sus respectivas competencias, realizarán las modificaciones legislativas conforme a lo dispuesto en el presente Decreto, dentro de los ciento ochenta días naturales siguientes a su entrada en vigor.
-
-TERCERO. Los Sistemas de Protección Locales y Municipales deberán integrarse a más tardar dentro de los noventa días siguientes a la entrada en vigor de las modificaciones legislativas a que se refiere el transitorio anterior.
-
-CUARTO. Se abroga la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes.
-
-QUINTO. Las disposiciones reglamentarias derivadas de esta Ley deberán ser expedidas por el Ejecutivo Federal en un plazo no mayor a los ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
-
-SEXTO. La Procuraduría Federal de Protección de Niñas, Niños y Adolescentes deberá constituirse a partir del siguiente ejercicio presupuestal a la publicación del presente Decreto.
-
-Para efectos del párrafo anterior, el Sistema Nacional DIF deberá reformar su Estatuto Orgánico, a fin de que en un plazo no mayor a noventa días naturales, a partir de la entrada en vigor del presente Decreto, se formalice la creación de la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes, con sus respectivas unidades administrativas.
-
-SÉPTIMO. El Sistema Nacional de Protección Integral deberá quedar instalado dentro de los ciento ochenta días naturales, posteriores a la publicación del presente Decreto. En su primera sesión, el Presidente del Sistema Nacional de Protección Integral someterá a consideración y aprobación del mismo los lineamientos para su integración, organización y funcionamiento, así como la designación del Titular de la Secretaría Ejecutiva del Sistema.
-
-El Titular de la Secretaría Ejecutiva del Sistema, una vez instalado el Sistema Nacional de Protección Integral, dentro de los siguientes treinta días naturales, deberá presentar a consideración y en su caso aprobación de los integrantes del Pleno, el proyecto de lineamientos a que se refiere el artículo 129 de la Ley General de (sic) Derechos de Niñas, Niños y Adolescentes.
-
-El Presidente del Sistema Nacional de Protección Integral realizará las acciones necesarias para la elaboración del Programa Nacional, el cual deberá aprobarse dentro de los ciento ochenta días naturales siguientes a la instalación del Sistema Nacional de Protección.
-
-OCTAVO. Las referencias que esta Ley hace a la Fiscalía General de la República, se entenderán realizadas a la Procuraduría General de la República, hasta en tanto entre en vigor la autonomía constitucional de dicha Fiscalía.
-
-NOVENO. Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales del Distrito Federal, celebrarán convenios y programas especiales para abatir el rezago de registro de nacimientos de niñas, niños y adolescentes.
-
-DÉCIMO. Para efectos de lo dispuesto en la fracción VI del artículo 122 de la Ley que se emite por virtud del presente Decreto, en tanto entran en vigor las disposiciones aplicables del Código Nacional de Procedimientos Penales, se aplicarán las medidas establecidas en la legislación procesal penal correspondiente.
-
-DÉCIMO PRIMERO. Los centros de asistencia que se encuentren operando con antelación a la entrada en vigor del presente Decreto contarán con un plazo de 180 días a partir de su publicación en el Diario Oficial de la Federación para realizar las adecuaciones conducentes en términos de lo previsto por la Ley General de los Derechos de Niñas, Niños y Adolescentes.
-
-DÉCIMO SEGUNDO. La Cámara de Diputados del Congreso de la Unión, a propuesta del Ejecutivo Federal, establecerá una partida presupuestal para coadyuvar en la implementación de las adecuaciones a las que se refiere el transitorio anterior y la operación de los Centros de Asistencia Social.
-
-DÉCIMO TERCERO. Las autoridades de la federación, de las entidades federativas, de los municipios y de las demarcaciones territoriales del Distrito Federal, con el objeto de dar cumplimiento a lo previsto en la Ley que se expide por virtud del presente Decreto, deberán implementar las políticas y acciones correspondientes conforme a los programas aplicables y los que deriven de la misma.
-
-México, D.F., a 6 de noviembre de 2014.- Dip. Silvano Aureoles Conejo, Presidente.- Sen. Miguel Barbosa Huerta, Presidente.- Dip. Laura Barrera Fortoul, Secretaria.- Sen. María Elena Barrera Tapia, Secretaria.- Rúbricas."
-
-En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a tres de diciembre de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación, Miguel Ángel Osorio Chong.- Rúbrica.
-
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
-
-D.O.F. 23 DE JUNIO DE 2017.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES Y DE LA LEY GENERAL DE PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL”.]
-
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-Segundo. La entrada en vigor del término alcaldía en la Ley General de Prestación de Servicios para la Atención, Cuidado y Desarrollo Integral Infantil surtirá efectos de acuerdo a lo establecido en los artículos Tercero y Cuarto Transitorios del Decreto por el que se declaran reformadas y derogadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de la reforma política de la Ciudad de México.
-
-D.O.F. 26 DE ENERO DE 2018.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN XXII AL ARTÍCULO 57 DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES”.]
-
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-Segundo. Los instrumentos normativos que derivan del presente Decreto, así como los que integran el Sistema Nacional de Protección Integral deberán adecuarse a la presente reforma.
-
-D.O.F. 9 DE MARZO DE 2018.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL Y DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES”.]
-
-Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-Segundo. El Ejecutivo Federal, en un plazo de ciento ochenta días a partir de la entrada en vigor del presente Decreto, realizará las modificaciones reglamentarias necesarias para la observancia de lo dispuesto en el presente Decreto.
-
-Tercero. La Secretaría de Gobernación, en un plazo de ciento ochenta días a partir de la entrada en vigor de las modificaciones reglamentarias que refiere el artículo transitorio anterior, deberá expedir los lineamientos previstos en el artículo 69 Bis de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
-
-Cuarto. Durante los periodos referidos en los artículos segundo y tercero transitorios del presente Decreto, los distribuidores, comercializadores y arrendadores de videojuegos deberán tomar las medidas necesarias para que los videojuegos clasificados como exclusivos para adultos, de conformidad con los criterios de clasificación internacionales, no sean vendidos o arrendados a personas que no acrediten su mayoría de edad en términos de lo dispuesto en el artículo 69 Bis de la Ley General de los Derechos de Niñas, Niños y Adolescentes.
-
-D.O.F. 20 DE JUNIO DE 2018.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 13, FRACCIÓN XX, SE ADICIONA EL CAPÍTULO VIGÉSIMO AL TÍTULO SEGUNDO Y LOS ARTÍCULOS 101 BIS, 101 BIS 1 Y 101 BIS 2 A LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES”.]
-
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación, sin perjuicio de lo dispuesto en el transitorio siguiente.
-
-Segundo. Los plazos para el cumplimiento efectivo de las obligaciones referidas en el presente Decreto serán los establecidos en el "Decreto por el que se expiden la Ley Federal de Telecomunicaciones y Radiodifusión, y la Ley del Sistema Público de Radiodifusión del Estado Mexicano; y se reforman, adicionan y derogan diversas disposiciones en materia de telecomunicaciones y radiodifusión", publicado en el Diario Oficial de la Federación el 14 de julio de 2014.
-
-D.O.F. 3 DE JUNIO DE 2019.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES".]
-
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-Segundo.- El Poder Legislativo de cada entidad federativa realizará las adecuaciones normativas conforme a lo dispuesto en el presente Decreto, dentro de los ciento ochenta días siguientes a su entrada en vigor. No obstante, los procesos administrativos y judiciales de adopción se ajustarán al presente Decreto a partir de su entrada en vigor.
-
-Los procesos administrativos y judiciales de adopción que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto, se seguirán conforme a la normatividad aplicable al momento de su inicio, pero se podrá aplicar lo dispuesto en este Decreto en todo aquello que beneficie al interés superior de la niñez.
-
-En caso de las entidades federativas que a la fecha de entrada en vigor del presente Decreto contemplen dentro de su legislación la adopción simple, dicha figura seguirá vigente hasta en tanto las legislaturas de los Estados determinen lo contrario.
-
-Tercero.- El Poder Ejecutivo Federal y los Poderes Ejecutivos de las entidades de la República realizarán las adecuaciones reglamentarias correspondientes y expedirán un reglamento especial en materia de adopción en un plazo que no excederá de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto.
-
-Cuarto.- Como una acción afirmativa, en términos de lo dispuesto en la fracción I del artículo 4 de esta Ley, así como en las fracciones XIV y XX del mismo artículo, el Sistema Nacional DIF convocará a los sistemas de las entidades a una reunión que tendrá como único objetivo actualizar el registro de niñas, niños y adolescentes que actualmente sean susceptibles de adopción, solicitantes de adopción en proceso, así como los que hayan obtenido certificado de idoneidad.
-
-Lo anterior, a fin de que cada uno de los sistemas DIF realice lo conducente a efecto de que niñas, niños y adolescentes comiencen su respectivo proceso de adopción o de acogimiento preadoptivo en la entidad federativa que más favorezca su interés superior y se reduzca al máximo su estancia en centros de asistencia social o en familias de acogida.
-
-Quinto.- Niñas, niños y adolescentes que actualmente se encuentren acogidos en instituciones públicas o privadas, respecto de los cuales el sistema DIF de que se trate, o la procuraduría de protección correspondiente, pueda dar constancia de su condición de expósito o abandonado conforme a lo dispuesto en el artículo 30 Bis 1, serán sujetos de adopción a partir de la entrada en vigor de este Decreto.
-
-Sexto.- Se derogan todas las disposiciones que se opongan al presente Decreto.
-
-D.O.F. 4 DE JUNIO DE 2019.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES”.]
-
-Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 17 DE OCTUBRE DE 2019.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES”.]
-
-Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 11 DE ENERO DE 2021.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, Y DEL CÓDIGO CIVIL FEDERAL".]
-
-Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 15 DE MARZO DE 2022.
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 57 Y 59 DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES".]
-
-Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-Segundo.- Las obligaciones que en su caso se generen con motivo de la entrada en vigor del presente Decreto se sujetarán al marco normativo aplicable a las dependencias y entidades competentes, así como a la disponibilidad presupuestaria de cada una de ellas para el presente ejercicio fiscal y los subsecuentes, por lo que bajo ningún supuesto se autorizarán recursos adicionales para tales efectos.
-
-D.O.F. 15 DE MARZO DE 2022.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 57 DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES”.]
-
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 23 DE MARZO DE 2022.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA LA FRACCIÓN VI AL ARTÍCULO 47 DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES”.]
-
-Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 28 DE ABRIL DE 2022.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN, LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES, LA LEY GENERAL DE VÍCTIMAS, LA LEY GENERAL EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES Y DEL SISTEMA NACIONAL DE BÚSQUEDA DE PERSONAS, LA LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS, LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LA TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES, LA LEY DEL INSTITUTO NACIONAL DE LOS PUEBLOS INDÍGENAS, LA LEY GENERAL DE DERECHOS LINGÜÍSTICOS DE LOS PUEBLOS INDÍGENAS Y LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, EN MATERIA DE PARIDAD DE GÉNERO”.]
-
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-Segundo. De acuerdo con el artículo transitorio Tercero del Decreto por el que se reforman los artículos 2, 4, 35, 41, 52, 53, 56, 94 y 115 de la Constitución Política de los Estados Unidos Mexicanos, en materia de Paridad entre Géneros se deberá observar el principio de paridad de manera progresiva, a partir de las nuevas designaciones y nombramientos que correspondan, de conformidad con la ley.
-
-Tercero. El primer informe anual de seguimiento a los avances en la implementación del principio constitucional de paridad de género a los que se refiere la fracción V del artículo 26 de la Ley General para la Igualdad entre Mujeres y Hombres deberá presentarse al año de la publicación del presente Decreto.
-
-Cuarto. Todas las obligaciones que se generen con la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto responsables para el ejercicio fiscal en curso y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos y, en caso de que se realice alguna modificación a su estructura orgánica, ésta también deberá ser cubierta con su presupuesto autorizado y conforme a las disposiciones jurídicas aplicables.
-
-D.O.F. 8 DE MAYO DE 2023.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, EN MATERIA DE PENSIONES ALIMENTICIAS”.]
-
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-Segundo. A partir de la entrada en vigor del presente Decreto, el Sistema Nacional DIF contará con un plazo de trescientos días hábiles para la implementación del Registro Nacional de Obligaciones Alimentarias.
-
-Tercero. Los Congresos Locales y los Tribunales Superiores de Justicia de las Entidades Federativas y de la Ciudad de México, contarán con un plazo no mayor a ciento veinte días hábiles a partir del inicio de la creación del Registro Nacional de Obligaciones Alimentarias, para armonizar el marco normativo correspondiente, en armonía con los lineamientos que establezca el Sistema Nacional DIF, conforme a lo establecido por el presente Decreto.
-
-Cuarto. La autoridad encargada del Registro Nacional, en el término de noventa días naturales, emitirá la normativa a través de la cual se establezca el formato, tiempo, modo y lugar para que las autoridades locales obligadas en el presente decreto cumplan con las obligaciones establecidas a través del presente Decreto.
-
-D.O.F. 26 DE MAYO DE 2023.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 63 Y SE ADICIONA UN ARTÍCULO 63 BIS A LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES”.]
-
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-Segundo. Las obligaciones que en su caso se generen con motivo de la entrada en vigor del presente Decreto se sujetarán al marco normativo aplicable a las dependencias y entidades competentes, así como la disponibilidad presupuestaria de cada una de ellas para el presente ejercicio fiscal y los subsecuentes, por lo que bajo ningún supuesto se autorizarán recursos adicionales para tales efectos.
-
-D.O.F. 1 DE DICIEMBRE DE 2023.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONAN UN SEGUNDO Y TERCER PÁRRAFOS AL ARTÍCULO 45 DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES”.]
-
-Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 4 DE DICIEMBRE DE 2023.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 54 DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES”.]
-
-Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 11 DE DICIEMBRE DE 2023.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, EN MATERIA DE CULTURA DE LA PAZ".]
-
-Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 26 DE MARZO DE 2024.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, EN MATERIA DE CRIANZA POSITIVA”.]
-
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-Segundo.- Los Congresos de las Entidades Federativas tendrán un plazo de 180 días, contados a partir de la publicación del presente Decreto para realizar las adecuaciones normativas correspondientes de conformidad con lo previsto en el presente Decreto.
-
-Tercero.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto autorizado para los ejecutores del gasto responsables para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
-
-D.O.F. 27 DE MARZO DE 2024.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LA FRACCIÓN XI DEL ARTÍCULO 57 DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES; Y LA FRACCIÓN III DEL ARTÍCULO 266 BIS DEL CÓDIGO PENAL FEDERAL”.]
-
-Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 17 DE ABRIL DE 2024.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONAN LOS ARTÍCULOS 4 Y 6 DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES”.]
-
-Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 27 DE MAYO DE 2024.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 57 Y 58 DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES".]
-
-Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-D.O.F. 24 DE DICIEMBRE DE 2024.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA UN ARTÍCULO 101 BIS 3 A LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES, EN MATERIA DE ACCESO A INTERNET LIBRE DE VIOLENCIA CONTRA NIÑAS, NIÑOS Y ADOLESCENTES”.]
-
-Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-### Capítulo Décimo Sexto. Del Derecho de Asociación y Reunión
+### CAPÍTULO ÚNICO. GENERALIDADES
 
 ###### Artículo 93.
 
-Durante el proceso administrativo migratorio podrá prevalecer la unidad familiar o en su caso la reunificación familiar en términos de la presente Ley y demás disposiciones aplicables, siempre y cuando ésta no sea contraria al interés superior de la niñez.
+Para hacer cumplir sus determinaciones, la Auditoría, podrán imponer a los servidores públicos, personas físicas o morales, públicas o privadas los siguientes medios de apremio:
 
-Para resolver sobre la reunificación familiar se deberá tomar en cuenta la opinión de niñas, niños y adolescentes migrantes, así como todos los elementos que resulten necesarios para tal efecto.
+I. Apercibimiento;
+
+II. Multa de 100 a 300 días de Salario Mínimo General Vigente en la Entidad;
+
+III. Expulsión temporal de la persona, del lugar en donde se esté llevando a cabo la diligencia, cuando ello sea necesario para su continuación; y,
+
+IV. Auxilio de la fuerza pública.
 
 ###### Artículo 94.
 
-Para garantizar la protección integral de los derechos, los Sistemas Nacional, Estatales y Municipales DIF, habilitarán espacios de alojamiento o albergues para recibir a niñas, niños y adolescentes migrantes.
+Los medios de apremio establecidos en el artículo anterior son procedentes en los siguientes casos:
 
-Asimismo, acordarán los estándares mínimos para que los espacios de alojamiento o albergues brinden la atención adecuada a niñas, niños y adolescentes migrantes.
+I. No den cumplimiento, a los requerimientos formulados por la Auditoría;
+
+II. Obstaculicen o impidan de forma intencional, bien sea por acción u omisión, el ejercicio de las atribuciones de la Auditoría, durante los procedimientos de revisión y fiscalización de las Cuentas Públicas o de los Informes de Avance; (sic)
 
 ###### Artículo 95.
 
-Los espacios de alojamiento de niñas, niños y adolescentes migrantes, respetarán el principio de separación y el derecho a la unidad familiar, de modo tal que si se trata de niñas, niños o adolescentes no acompañados o separados, deberán alojarse en sitios distintos al que corresponde a las personas adultas. Tratándose de niñas, niños o adolescentes acompañados, podrán alojarse con sus familiares, salvo que lo más conveniente sea la separación de éstos en aplicación del principio del interés superior de la niñez.
+La Auditoria impondrá a los servidores públicos del Estado y de los Municipios, una sanción económica equivalente de 150 a 300 días de Salario Mínimo General Vigente en la Entidad, cuando por causas imputables a los mismos, incurran en cualquiera de las siguientes omisiones:
+
+I. Presentar los informes de situación excepcional que formule la Auditoría;
+
+II. Presentar los Informes de Avance en los plazos establecidos en la presente Ley;
+
+III. Presentar la Cuenta Pública en los plazos establecidos en la presente Ley;
+
+IV. Presentar el dictamen y copia del expediente derivado de la entrega recepción de la administración Municipal;
+
+V. Presentar el inventario de los bienes que integran el patrimonio de la administración pública Municipal y sus modificaciones.
 
 ###### Artículo 96.
 
-Está prohibido devolver, expulsar, deportar, retornar, rechazar en frontera o no admitir, o de cualquier manera transferir o remover a una niña, niño o adolescente cuando su vida, seguridad y/o libertad estén en peligro a causa de persecución o amenaza de la misma, violencia generalizada o violaciones masivas a los derechos humanos, entre otros, así como donde pueda ser sometido a tortura u otros tratos crueles, inhumanos o degradantes.
+Las multas y las sanciones a que se refiere el presente título podrán duplicarse en caso de reincidencia.
 
 ###### Artículo 97.
 
-Cualquier decisión sobre la devolución de una niña, niño o adolescente al país de origen o a un tercer país seguro, sólo podrá basarse en los requerimientos de su interés superior.
+Las multas que imponga la Auditoría tendrán el carácter de créditos fiscales, se fijarán en cantidad líquida y se harán efectivas a través de la Secretaría de Finanzas del Gobierno del Estado, conforme al procedimiento administrativo de ejecución previsto en el Código Fiscal para el Estado de Oaxaca y demás disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE OCTUBRE DE 2019)</small>
+El importe que se obtenga por el cobro de multas, deberá ser entregado por la Secretaría de Finanzas del Gobierno del Estado a la Auditoria, dentro de los quince días hábiles siguientes a la conclusión del trimestre en que se haya obtenido el cobro, para constituir el Fondo de Fiscalización.
 
 ###### Artículo 98.
 
-En caso de que los Sistemas DIF identifiquen, mediante una evaluación inicial, a niñas, niños o adolescentes extranjeros que sean susceptibles de reconocimiento de condición de refugiado o de asilo, lo comunicarán al Instituto Nacional de Migración, quien en colaboración con la Coordinación General de la Comisión Mexicana de Ayuda a Refugiados, adoptarán medidas de protección especial.
+El procedimiento para la imposición de multas y sanciones a que alude el presente Título se substanciara en la forma y términos previstos en el Código.
 
-El Sistema Nacional DIF y los sistemas de las entidades federativas, en coordinación con las instituciones competentes, deberán identificar a las niñas, niños y adolescentes extranjeros que requieren de protección internacional, ya sea como refugiado o de algún otro tipo, a través de una evaluación inicial con garantías de seguridad y privacidad, con el fin de proporcionarles el tratamiento adecuado e individualizado que sea necesario mediante la adopción de medidas de protección especial.
+## TÍTULO SÉPTIMO. DEL FONDO PARA EL FORTALECIMIENTO DE LA FISCALIZACIÓN SUPERIOR
 
-### Capítulo Décimo Séptimo. Del Derecho a la Intimidad
+### CAPÍTULO ÚNICO
 
 ###### Artículo 99.
 
-El Sistema Nacional DIF deberá diseñar y administrar las bases de datos de niñas, niños y adolescentes migrantes extranjeros no acompañados, incluyendo, entre otros aspectos, las causas de su migración, las condiciones de tránsito, sus vínculos familiares, factores de riesgo en origen y tránsito, información de sus representantes legales, datos sobre su alojamiento y situación jurídica, entre otros, y compartirlo con la Procuraduría Federal de Protección de Niñas, Niños y Adolescentes, atendiendo a lo previsto en la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental y demás disposiciones aplicables en materia de transparencia.
+La Auditoría constituirá el Fondo para el Fortalecimiento de la Fiscalización, el cual se conformará por:
 
-Los Sistemas de las Entidades enviarán al Sistema Nacional DIF la información en el momento en que se genere a fin de que se incorpore en las bases de datos a que se refiere el párrafo anterior.
+I. El importe de las multas que imponga la Auditoria, cuando se hagan efectivas conforme a la ley; y
 
-> <small>(REFORMADO, D.O.F. 17 DE OCTUBRE DE 2019)</small>
-
-El Instituto Nacional de Migración y en su caso la Coordinación General de la Comisión Mexicana de Ayuda a Refugiados, deberán proporcionar la información y colaborar con el Sistema Nacional DIF para los efectos de este artículo.
+II. Los demás ingresos que dispongan las leyes.
 
 ###### Artículo 100.
 
-El Instituto Nacional de Migración, en coordinación con el Sistema Nacional DIF, deberá resguardar las bases de datos de niñas, niños y adolescentes migrantes, incluyendo entre otros aspectos, las causas de su migración, las condiciones de tránsito, sus vínculos familiares, factores de riesgo en origen y tránsito, información de sus representantes legales, datos sobre su alojamiento y situación jurídica.
+Los recursos del Fondo de Fiscalización se ejercerán y aplicarán para la realización de los objetivos siguientes:
 
-Para garantizar de forma prioritaria la asistencia social y protección consular de niñas, niños y adolescentes migrantes que se encuentran en el extranjero en proceso de repatriación, corresponderá a la Secretaría de Relaciones Exteriores, a través de las representaciones consulares, coordinarse con el Instituto Nacional de Migración y con los Sistemas DIF correspondientes.
+I. Realizar programas de capacitación al personal de la Auditoría; y
+
+II. Adquirir los bienes que requiera la Auditoría para el ejercicio de sus funciones.
+
+III. Los demás que se consideren necesarios para fortalecer las acciones de Fiscalización.
 
 ###### Artículo 101.
 
-En ningún caso una situación migratoria irregular de niña, niño o adolescente, preconfigurará por sí misma la comisión de un delito, ni se prejuzgará la comisión de ilícitos por el hecho de encontrarse en condición migratoria irregular.
+Los recursos que constituyan el Fondo de Fiscalización, serán depositados en una institución bancaria, cuyos servicios serán contratados sujetándose a los requisitos y formalidades que establezcan las leyes aplicables.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 20 DE JUNIO DE 2018)</small>
-
-### Capítulo Vigésimo. Derecho de Acceso a las Tecnologías de la Información y Comunicación
-
-> <small>(ADICIONADO, D.O.F. 20 DE JUNIO DE 2018)</small>
-
-###### Artículo 101 Bis.
-
-Niñas, niños y adolescentes gozan del derecho de acceso universal a las Tecnologías de la Información y Comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet establecidos en la Constitución Política de los Estados Unidos Mexicanos y en la Ley Federal de Telecomunicaciones y Radiodifusión.
-
-> <small>(ADICIONADO, D.O.F. 20 DE JUNIO DE 2018)</small>
-
-###### Artículo 101 Bis 1.
-
-El Estado garantizará a niñas, niños y adolescentes su integración a la sociedad de la información y el conocimiento, acorde a los fines establecidos en el artículo 3o. constitucional, mediante una política de inclusión digital universal en condiciones de equidad, asequibilidad, disponibilidad, accesibilidad y calidad.
-
-> <small>(ADICIONADO, D.O.F. 20 DE JUNIO DE 2018)</small>
-
-###### Artículo 101 Bis 2.
-
-Niñas, niños y adolescentes tienen derecho al acceso y uso seguro del Internet como medio efectivo para ejercer los derechos a la información, comunicación, educación, salud, esparcimiento, no discriminación, entre otros, de conformidad con el principio de interdependencia, en términos de las disposiciones aplicables.
-
-> <small>(ADICIONADO, D.O.F. 24 DE DICIEMBRE DE 2024)</small>
-
-###### Artículo 101 Bis 3.
-
-El Estado garantizará el acceso y uso seguro del Internet promoviendo políticas de prevención, protección, atención y sanción del ciberacoso y de todas las formas de violencia que causen daño a su intimidad, privacidad, seguridad y/o dignidad realizada mediante el uso de tecnologías de la información y la comunicación, sin afectar los derechos previstos en esta Ley.
+Los intereses que produzca la inversión, serán capitalizados.
 
 ###### Artículo 102.
 
-Las autoridades federales, de las entidades federativas, municipales y de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias están obligadas a proporcionar asistencia médica, psicológica y atención preventiva integrada a la salud, así como un traductor o intérprete en caso de ser necesario, asesoría jurídica y orientación social a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes o personas que los tengan bajo su responsabilidad, en cuanto a las obligaciones que establecen esta Ley y demás disposiciones aplicables.
+Los bienes que se adquieran con los recursos del Fondo de Fiscalización, sin excepción, deberán registrarse en el inventario de la Auditoría.
 
-###### Artículo 103.
+La Auditoría deberá rendir un informe detallado de la aplicación y resultados obtenidos del Fondo de Fiscalización a la Comisión y remitirá copia a la Comisión Permanente de Presupuesto y Programación, el cual deberá incluirse en los presupuestos de ingresos y egresos correspondientes.
 
-Son obligaciones de quienes ejercen la patria potestad, tutela o guarda y custodia, así como de las demás personas que por razón de sus funciones o actividades tengan bajo su cuidado niñas, niños o adolescentes, en proporción a su responsabilidad y, cuando sean instituciones públicas, conforme a su ámbito de competencia, las siguientes:
+T R A N S I T O R I O S:
 
-I. Garantizar sus derechos alimentarios, el libre desarrollo de su personalidad y el ejercicio de sus derechos, de conformidad con lo dispuesto en la presente Ley y demás disposiciones aplicables.
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
-> <small>(REFORMADO, D.O.F. 8 DE MAYO DE 2023)</small>
+SEGUNDO.- Se abroga la Ley de Fiscalización Superior del Estado de Oaxaca, publicada en el Periódico Oficial del Gobierno del Estado de Oaxaca, mediante Decreto 606, de fecha 23 de abril de 2008.
 
-Para los efectos de esta fracción, los derechos alimentarios comprenden esencialmente la satisfacción de las necesidades de sustento y supervivencia y, en la especie:
+TERCERO.- Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan en todo o en parte a la Presente Ley.
 
-a) La alimentación y nutrición, vestido, habitación, recreación, atención médica y psicológica preventiva integrada a la salud, asistencia médico-hospitalaria y, en su caso, los gastos de embarazo y parto;
+CUARTO.- La Auditoria Superior del Estado deberá remitir al Congreso del Estado el informe de resultados de la cuenta pública 2012 a más tardar el 25 de octubre del presente año, debiendo el H. Congreso del Estado dictaminarla el 31 de octubre de ese mismo año.
 
-b) Los gastos derivados de la educación y la formación para proporcionar a los menores un oficio, arte o profesión, adecuados a sus circunstancias personales, y
+QUINTO.- La Auditoría contará con un plazo improrrogable de sesenta días, para presentar ante la Comisión las adecuaciones a su Reglamento.
 
-c) Con relación a los menores con algún tipo de discapacidad o declarados en estado de interdicción, lo necesario para lograr, en lo posible, su habilitación o rehabilitación y su desarrollo;
+SEXTO.- Hasta en tanto no se expida el Código de Procedimientos Administrativos de la Auditoría Superior del Estado de Oaxaca, todos los procedimientos que al efecto lleve a cabo la Auditoría, se tramitarán de conformidad con las disposiciones del Código de Procedimientos Civiles para el Estado de Oaxaca.
 
-II. Registrarlos dentro de los primeros sesenta días de vida;
+Lo tendrá entendido el Gobernador del Estado y hará que se publique y se cumpla.
 
-III. Asegurar que cursen la educación obligatoria, participar en su proceso educativo y proporcionarles las condiciones para su continuidad y permanencia en el sistema educativo;
+DADO EN EL SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO.- San Raymundo Jalpan, Centro, Oaxaca a 1 de agosto de 2013.
 
-IV. Impartir en consonancia con la evolución de sus facultades, dirección y orientación apropiada a niñas, niños y adolescentes, sin que ello pueda justificar limitación, vulneración o restricción alguna en el ejercicio de sus derechos;
+DIP. MAXIMINO VARGAS BETANZOS.
 
-> <small>(REFORMADA, D.O.F. 26 DE MARZO DE 2024)</small>
+PRESIDENTE.
 
-V. Asegurar un entorno afectivo, comprensivo y sin violencia para el pleno, armonioso y libre desarrollo de su personalidad, a través de la crianza positiva;
+DIP. GUILLERMO BERNAL GÓMEZ.
 
-> <small>(REFORMADA, D.O.F. 11 DE DICIEMBRE DE 2023)</small>
+SECRETARIO.
 
-VI. Fomentar en niñas, niños y adolescentes la cultura de la paz, la educación cívica, el respeto a todas las personas, así como el cuidado de los bienes propios, de la familia y de la comunidad, y el aprovechamiento de los recursos que se dispongan para su desarrollo integral;
+DIP. CLARIVEL CONSTANZA RIVERA CASTILLO.
 
-VII. Protegerles contra toda forma de violencia, maltrato, perjuicio, daño, agresión, abuso, venta, trata de personas y explotación;
+SECRETARIA.
 
-VIII. Abstenerse de cualquier atentado contra su integridad física, psicológica o actos que menoscaben su desarrollo integral. El ejercicio de la patria potestad, la tutela o la guarda y custodia de niñas, niños y adolescentes no podrá ser justificación para incumplir la obligación prevista en la presente fracción;
+DIP. PAVEL RENATO LÓPEZ GÓMEZ.
 
-IX. Evitar conductas que puedan vulnerar el ambiente de respeto y generar violencia o rechazo en las relaciones entre niñas, niños y adolescentes, y de éstos con quienes ejercen la patria potestad, tutela o guarda y custodia, así como con los demás miembros de su familia;
+SECRETARIO.
 
-X. Considerar la opinión y preferencia de las niñas, niños y adolescentes para la toma de decisiones que les conciernan de manera directa conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez, y
+Por tanto, mando que se imprima, publique, circule y se Ie dé eI debido cumplimiento.
 
-XI. Educar en el conocimiento y uso responsable de las tecnologías de la información y comunicación.
+Palacio de Gobierno, Centro, Oax., a 13 de agosto de 2013.
 
-En casos de controversia, el órgano jurisdiccional competente determinará el grado de responsabilidad de quien tenga a su cargo y cuidado a niñas, niños o adolescentes, atendiendo a los principios rectores de esta Ley.
+EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.
 
-Las leyes federales y de las entidades federativas deberán prever disposiciones que regulen y sancionen las obligaciones establecidas en el presente artículo.
+LIC. GABINO CUÉ MONTEAGUDO.
 
-###### Artículo 104.
+EL SECRETARIO GENERAL DE GOBIERNO.
 
-Quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, independientemente de que habiten en domicilios distintos, darán cumplimiento a las obligaciones a su cargo de manera coordinada y respetuosa.
+LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
 
-Las autorizaciones a que se refiere esta Ley deberán ser otorgadas por quienes ejerzan la patria potestad o tutela, en los mismos términos y con las mismas formalidades.
+Y lo comunico a usted, para su conocimiento y fines consiguientes.
 
-###### Artículo 105.
+SUFRAGIO EFECTIVO. NO REELECCIÓN.
 
-Las leyes federales y de las entidades federativas dispondrán lo necesario para que, en términos de lo dispuesto en la presente Ley y en el ámbito de sus respectivas competencias, se dé cumplimiento a las obligaciones siguientes:
+"EL RESPETO AL DERECHO AJENO ES LA PAZ"
 
-I. Que quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, los cuiden y atiendan; protejan contra toda forma de abuso; los traten con respeto a su dignidad y orienten, a fin de que conozcan sus derechos, aprendan a defenderlos y a respetar los de otras personas;
+Tlalixtac de Cabrera, Centro, Oax., a 13 de agosto de 2013.
 
-II. Que las autoridades migratorias verifiquen la existencia de la autorización de quienes ejerzan la patria potestad, tutela o, en su caso, del órgano jurisdiccional competente, que permita la entrada y salida de niñas, niños o adolescentes del territorio nacional, conforme a las disposiciones aplicables;
+EL SECRETARIO GENERAL DE GOBIERNO.
 
-III. Que la directiva y personal de instituciones de salud, asistencia social, académicas, deportivas, religiosas o de cualquier otra índole, se abstengan de ejercer cualquier forma de violencia, maltrato, perjuicio, agresión, daño, abuso, acoso y explotación en contra de niñas, niños o adolescentes, y que formulen programas e impartan cursos de formación permanente para prevenirlas y erradicarlas, y
+LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
 
-> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 2021)</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
 
-IV. Queda prohibido que quienes tengan trato con niñas, niños y adolescentes ejerzan cualquier tipo de violencia en su contra, en particular el castigo corporal y humillante.
+P.O. 24 DE MARZO DE 2014.
 
-Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y disciplina de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda, custodia y crianza, así como de los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social, de cuidado, penales o de cualquier otra índole, sin que, en modo alguno, se autorice a estos el uso del castigo corporal ni el trato humillante.
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
-###### Artículo 106.
-
-A falta de quienes ejerzan la representación originaria de niñas, niños y adolescentes, o cuando por otra causa así lo determine el órgano jurisdiccional o autoridad administrativa competente, con base en el interés superior de la niñez, la representación en suplencia corresponderá a la Procuraduría de Protección competente.
-
-> <small>(REFORMADO, D.O.F. 23 DE JUNIO DE 2017)</small>
-
-Las autoridades federales, de las entidades federativas, las municipales y de las demarcaciones de la Ciudad de México, garantizarán que en cualquier procedimiento jurisdiccional o administrativo se dé intervención a la Procuraduría de Protección competente para que ejerza la representación coadyuvante, de conformidad con lo dispuesto en esta Ley y en las demás disposiciones aplicables.
-
-Asimismo, dispondrán que cuando existan indicios de conflicto de intereses entre quienes ejerzan la representación originaria o de éstos con niñas, niños y adolescentes o por una representación deficiente o dolosa, a petición del Ministerio Público, de la Procuraduría de Protección competente o de oficio, el órgano jurisdiccional o administrativo que conozca del asunto, deberá sustanciar por vía incidental, un procedimiento sumario de restricción, suspensión o revocación de la representación originaria, según sea el caso, para efectos de que la Procuraduría de Protección competente ejerza la representación en suplencia.
-
-El Ministerio Público tendrá la intervención que las leyes dispongan en los procedimientos jurisdiccionales o administrativos en que niñas, niños o adolescentes estén relacionados. En materia de justicia penal, se estará a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, esta Ley y demás disposiciones aplicables.
-
-No podrá declararse la caducidad ni la prescripción en perjuicio de niñas, niños y adolescentes.
+SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango que se opongan a las presentes reformas y adiciones contenidas en la Ley de Fiscalización Superior para el Estado de Oaxaca.
