@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-prevenir-y-erradicar-la-discriminacion-en-el-47968"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-10"
-last_updated: "2025-12-17"
+last_updated: "2026-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47968&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACION EN EL ESTADO DE NAYARIT
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE ENERO DE 2026 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY PARA PREVENIR Y ERRADICAR LA DISCRIMINACIÓN EN EL ESTADO DE NAYARIT
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2025.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE NAYARIT EL 15 DE ENERO DE 2026.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Nayarit, el sábado 10 de diciembre de 2005.
 
@@ -165,23 +165,25 @@ XXXVI. Estigmatizar o negar derechos a personas con adicciones; que han estado o
 
 XXXVII. Realizar o promover el maltrato físico o psicológico por la apariencia física, forma de vestir, hablar, gesticular o por asumir públicamente su orientación o preferencia sexual, identidad de género, ideológica, política, religiosa o cualquier otra;
 
-XXXVIII. La falta de accesibilidad en el entorno físico, el transporte, la información, tecnología y comunicaciones, en servicios e instalaciones abiertos al público o de uso público;
+> <small>(F. DE E., P.O. 15 DE ENERO DE 2026)</small>
 
-XXXIX. La denegación de ajustes razonables que garanticen, en igualdad de condiciones, el goce o ejercicio de los derechos de las personas con discapacidad;
+XXXVIII. Impedir el acceso a establecimientos mercantiles por distinción, exclusión o restricción, basada en el origen étnico o social, nacionalidad o lugar de origen, color o cualquier otra característica genética, sexo, lengua, identidad de género, estado civil, ocupación o actividad;
 
-XL. Impedir, negar, restringir o condicionar el acceso de las personas con discapacidad a establecimientos públicos con personas o animales de apoyo o asistencia;
+> <small>(F. DE E., P.O. 15 DE ENERO DE 2026)</small>
 
-XLI. Obstruir cualquier medida de accesibilidad en el entorno físico, el transporte, la información, tecnología y comunicaciones, en servicios e instalaciones abiertos al público o de uso público y demás elementos destinados a la accesibilidad y movilidad de las personas con discapacidad;
+XXXIX. Impedir o restringir el ejercicio de los derechos humanos consagrados en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Nayarit, los instrumentos internacionales de los que México es parte, así como los demás ordenamientos que los regulen, a las personas que tengan cualquier modificación corporal, como lo son tatuajes en partes visibles o no visibles, perforaciones, implantes, u otra condición física;
 
-XLII. Impedir el acceso a establecimientos mercantiles por distinción, exclusión o restricción, basada en el origen étnico o social, nacionalidad o lugar de origen, color o cualquier otra característica genética, sexo, lengua, identidad de género, estado civil, ocupación o actividad;
+> <small>(F. DE E., P.O. 15 DE ENERO DE 2026)</small>
 
-XLIII. Impedir o restringir el ejercicio de los derechos humanos consagrados en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Nayarit, los instrumentos internacionales de los que México es parte, así como los demás ordenamientos que los regulen, a las personas que tengan cualquier modificación corporal, como lo son tatuajes en partes visibles o no visibles, perforaciones, implantes, u otra condición física;
+XL. En general, cualquier otra conducta discriminatoria en términos del artículo 2 de este ordenamiento, de la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Nayarit, de la Ley de los Derechos de las Personas Adultas Mayores para el Estado de Nayarit y la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Nayarit;
 
-XLIV. En general, cualquier otra conducta discriminatoria en términos del artículo 2 de este ordenamiento, de la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Nayarit, de la Ley de los Derechos de las Personas Adultas Mayores para el Estado de Nayarit y la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Nayarit;
+> <small>(F. DE E., P.O. 15 DE ENERO DE 2026)</small>
 
-XLV. El no procurar por parte de las dependencias y entidades del Poder Ejecutivo, los Poderes Legislativo y Judicial, los Organismos Constitucionales Autónomos, así como los Municipios, la atención de traductores e intérpretes en el caso que sea necesario, y
+XLI. El no procurar por parte de las dependencias y entidades del Poder Ejecutivo, los Poderes Legislativo y Judicial, los Organismos Constitucionales Autónomos, así como los Municipios, la atención de traductores e intérpretes en el caso que sea necesario, y
 
-XLVI. En general cualquier otro acto u omisión discriminatorio en términos del artículo 2 de esta Ley.
+> <small>(F. DE E., P.O. 15 DE ENERO DE 2026)</small>
+
+XLII. En general cualquier otro acto u omisión discriminatorio en términos del artículo 2 de esta Ley.
 
 ###### Artículo 7.
 
