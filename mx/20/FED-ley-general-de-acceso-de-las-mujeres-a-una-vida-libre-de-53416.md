@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-acceso-de-las-mujeres-a-una-vida-libre-de-53416"
 country: "mx"
 rank: "ley_general"
 publication_date: "2007-02-01"
-last_updated: "2024-12-16"
+last_updated: "2026-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53416&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2007-01-31"
 ---
 # LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIAS -- ANTES LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA --
 
-LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA
+LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ENERO DE 2026.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 1 de febrero de 2007.
 
@@ -39,7 +39,9 @@ SE EXPIDE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA.
 
 Artículo Único.- Se expide la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 
-LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA.
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 15 DE ENERO DE 2026)</small>
+
+LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIAS
 
 ## TITULO PRIMERO
 
@@ -53,11 +55,11 @@ La presente ley es reglamentaria del artículo 4o. de la Constitución Política
 
 Las disposiciones de esta ley son de orden público, interés social y de observancia general en la República Mexicana.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### ARTÍCULO 2.
 
-La Federación, las entidades federativas, las demarcaciones territoriales de la Ciudad de México y los municipios, en el ámbito de sus respectivas competencias expedirán las normas legales y tomarán las medidas presupuestales y administrativas correspondientes, para garantizar el derecho de las mujeres a una vida libre de violencia, de conformidad con los Tratados Internacionales en Materia de Derechos Humanos de las Mujeres, ratificados por el Estado mexicano.
+La Federación, las entidades federativas, las demarcaciones territoriales de la Ciudad de México y los municipios, en el ámbito de sus respectivas competencias expedirán las normas legales y tomarán las medidas presupuestales y administrativas correspondientes, para garantizar el derecho de las mujeres a una vida libre de violencias, a través de acciones reforzadas de protección de conformidad con los Tratados Internacionales en Materia de Derechos Humanos de las Mujeres, ratificados por el Estado mexicano.
 
 > <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2022)</small>
 
@@ -71,9 +73,11 @@ La Federación y las entidades federativas deberán contar con fiscalías especi
 
 Para garantizar el derecho a una vida libre de violencias se crea el Registro Nacional de Medidas u Órdenes de Protección de las Mujeres, Adolescentes, Niñas y Niños; como un instrumento de política pública tendiente a la erradicación de las violencias en contra de las mujeres, adolescentes, niñas y niños.
 
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
 ###### ARTÍCULO 3.
 
-Todas las medidas que se deriven de la presente ley, garantizarán la prevención, la atención, la sanción y la erradicación de todos los tipos de violencia contra las mujeres durante su ciclo de vida y para promover su desarrollo integral y su plena participación en todas las esferas de la vida.
+Todas las medidas que se deriven de la presente ley, garantizarán la prevención, la atención, la sanción y la erradicación de todos los tipos y modalidades de violencias contra las mujeres durante su ciclo de vida y para promover su desarrollo integral y su plena participación en todas las esferas de la vida.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ABRIL DE 2022)</small>
 
@@ -123,15 +127,25 @@ X. El enfoque diferencial.
 
 Para los efectos de la presente ley se entenderá por:
 
-I. Ley: La Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-II. Programa: El Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+I. Ley: La Ley General de Acceso de las Mujeres a una Vida Libre de Violencias;
 
-III. Sistema: El Sistema Nacional de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres;
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-IV. Violencia contra las Mujeres: Cualquier acción u omisión, basada en su género, que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como en el público;
+II. Programa: El Programa Integral para Prevenir, Atender, Sancionar y Erradicar las Violencias contra las Mujeres;
 
-V. Modalidades de Violencia: Las formas, manifestaciones o los ámbitos de ocurrencia en que se presenta la violencia contra las mujeres;
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+III. Sistema Nacional: El Sistema Nacional de Prevención, Atención, Sanción y Erradicación de las Violencias contra las Mujeres;
+
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+IV. Violencia y/o violencias contra las Mujeres: Cualquier acción u omisión o el conjunto de estas, basadas en su género, que les cause o pretenda causarles daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como en el público;
+
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+V. Modalidades de las violencias: Las formas, manifestaciones o los ámbitos de ocurrencia en que se presentan las violencias contra las mujeres;
 
 VI. Víctima: La mujer de cualquier edad a quien se le inflige cualquier tipo de violencia;
 
@@ -141,7 +155,9 @@ VII. Agresor: La persona que inflige cualquier tipo de violencia contra las muje
 
 VIII. Derechos Humanos de las Mujeres: Refiere a los derechos que son parte inalienable, integrante e indivisible de los derechos humanos universales contenidos en la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW), la Convención sobre los Derechos de la Niñez, la Convención sobre los Derechos de las Personas con Discapacidad, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belem do Pará) y demás instrumentos internacionales en la materia;
 
-IX. Perspectiva de Género: Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+IX. Perspectiva de Género: Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad sustantiva, el derecho a una vida libre de violencias, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
 
 > <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2022)</small>
 
@@ -183,13 +199,19 @@ XVIII. Espacio Público: Áreas, espacios abiertos o predios de los asentamiento
 
 XIX. Registro Nacional: El Registro Nacional de Medidas u Órdenes de Protección de las Mujeres, Adolescentes, Niñas y Niños;
 
-> <small>(ADICIONADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-XX. Medidas u Órdenes de Protección: A las medidas y órdenes de protección a que se refiere la presente ley y el Código Nacional de Procedimientos Penales.
+XX. Medidas u Órdenes de Protección: A las medidas y órdenes de protección a que se refiere la presente ley y el Código Nacional de Procedimientos Penales;
+
+> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+XXI. Deberes reforzados de protección del Estado hacia mujeres, adolescentes, niñas y niños: Obligación constitucional prevista en el penúltimo párrafo del artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos, que establece el deber de todas las autoridades de adoptar acciones reforzadas para garantizar el derecho de las mujeres, adolescentes, niñas y niños a una vida libre de violencias. Esta obligación implica la aplicación más amplia de medidas orientadas a salvaguardar la vida, integridad, libertad y seguridad personales, bienestar físico y mental, así como el respeto a su dignidad y autonomía.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### ARTÍCULO 6.
 
-Los tipos de Violencia contra las Mujeres son:
+Los tipos de violencias contra las mujeres son:
 
 > <small>(REFORMADA, D.O.F. 20 DE ENERO DE 2009)</small>
 
@@ -231,7 +253,9 @@ h) Condicionar el cumplimiento de las obligaciones alimentarias a las mujeres y 
 
 VII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
-## TITULO II. MODALIDADES DE LA VIOLENCIA
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 15 DE ENERO DE 2026)</small>
+
+## TITULO II. MODALIDADES DE LAS VIOLENCIAS
 
 ### CAPÍTULO I. DE LA VIOLENCIA EN EL ÁMBITO FAMILIAR
 
@@ -243,15 +267,15 @@ Violencia familiar: Es el acto abusivo de poder u omisión intencional, dirigido
 
 También se considera violencia familiar cuando la persona agresora tenga responsabilidades de cuidado o de apoyo, aunque no tenga una relación de parentesco.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE ENERO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### ARTÍCULO 8.
 
-Los modelos de atención, prevención y sanción que establezcan la Federación, las entidades federativas, las demarcaciones territoriales de la Ciudad de México y los municipios son el conjunto de medidas y acciones para proteger a las víctimas de violencia familiar y violencia a través de interpósita persona como parte de la obligación del Estado, de garantizar a las mujeres su seguridad y el ejercicio pleno de sus derechos humanos considerando la interseccionalidad, la interculturalidad y el enfoque diferenciado. Para ello, deberán tomar en consideración:
+Los modelos de atención, prevención y sanción que establezcan la Federación, las entidades federativas, las demarcaciones territoriales de la Ciudad de México y los municipios son el conjunto de medidas y acciones para proteger a las víctimas de violencia familiar y violencia a través de interpósita persona como parte de los deberes reforzados de protección con las mujeres, adolescentes, niñas y niños, considerando la perspectiva de género, respeto a los derechos humanos, interés superior de la niñez, la interseccionalidad, la interculturalidad y el enfoque diferenciado. Para ello, deberán tomar en consideración:
 
-> <small>(REFORMADA, D.O.F. 17 DE ENERO DE 2024)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-I. Proporcionar atención, asesoría jurídica y tratamiento psicológico especializados y gratuitos a las víctimas, que favorezcan su empoderamiento y reparen el daño causado por dichas violencias;
+I. Proporcionar atención, asesoría jurídica y tratamiento psicológico especializados y gratuitos a las víctimas, que favorezcan, en su caso, su autonomía, empoderamiento y reparen el daño causado por dichas violencias;
 
 II. Brindar servicios reeducativos integrales, especializados y gratuitos al Agresor para erradicar las conductas violentas a través de una educación que elimine los estereotipos de supremacía masculina, y los patrones machistas que generaron su violencia;
 
@@ -263,7 +287,9 @@ III. Evitar que la atención que reciban las víctimas y la persona agresora sea
 
 IV. Evitar procedimientos de mediación o conciliación, por ser inviables en una relación de sometimiento entre la persona agresora y las víctimas;
 
-V. Favorecer la separación y alejamiento del Agresor con respecto a la Víctima, y
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+V. Garantizar la separación y alejamiento del Agresor con respecto a la Víctima o víctimas directas e indirectas, atendiendo lo dispuesto en las fracciones IX y IX Bis del artículo 34 Ter de la presente ley, y
 
 VI. Favorecer la instalación y el mantenimiento de refugios para las víctimas y sus hijas e hijos; la información sobre su ubicación será secreta y proporcionarán apoyo psicológico y legal especializados y gratuitos. Las personas que laboren en los refugios deberán contar con la cédula profesional correspondiente a la especialidad en que desarrollen su trabajo. En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo violencia.
 
@@ -323,19 +349,29 @@ El hostigamiento sexual es el ejercicio del poder, en una relación de subordina
 
 El acoso sexual es una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE ENERO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### ARTÍCULO 14.
 
-Las entidades federativas y la Ciudad de México, en función de sus atribuciones, tomarán en consideración:
+Las entidades federativas, en función de sus atribuciones, tomarán en consideración:
 
-I. Establecer las políticas públicas que garanticen el derecho de las mujeres a una vida libre de violencia en sus relaciones laborales y/o de docencia;
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+I. Establecer las políticas públicas que garanticen el derecho de las mujeres a una vida libre de violencias en sus relaciones laborales y/o de docencia;
 
 II. Fortalecer el marco penal y civil para asegurar la sanción a quienes hostigan y acosan;
 
-III. Promover y difundir en la sociedad que el hostigamiento sexual y el acoso sexual son delitos, y
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-IV. Diseñar programas que brinden servicios reeducativos integrales para víctimas y agresores.
+III. Promover y difundir en la sociedad que el hostigamiento sexual y el acoso sexual son expresiones de violencia y delitos, y pueden constituir causas de rescisión laboral y faltas administrativas;
+
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+IV. Diseñar programas que brinden servicios reeducativos integrales para víctimas y agresores, y
+
+> <small>(ADICIONADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+V. Promover acciones de cambio cultural en la sociedad para identificar, promover la denuncia y combatir el hostigamiento sexual y acoso sexual en todos los ámbitos y promover relaciones respetuosas, igualitarias y no sexistas entre mujeres y hombres.
 
 ###### ARTÍCULO 15.
 
@@ -403,9 +439,11 @@ Toda acción u omisión que conlleve a la violación de los derechos humanos de 
 
 Los tres órdenes de gobierno, a través de los cuales se manifiesta el ejercicio del poder público, tienen la obligación de organizar el aparato gubernamental de manera tal que sean capaces de asegurar, en el ejercicio de sus funciones, el derecho de las mujeres a una vida libre de violencia.
 
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
 ###### ARTÍCULO 20.
 
-Para cumplir con su obligación de garantizar el derecho de las mujeres a una vida libre de violencia, los tres órdenes de gobierno deben prevenir, atender, investigar, sancionar y reparar el daño que les inflige.
+Para cumplir con su obligación de garantizar el derecho de las mujeres a una vida libre de violencias, los tres órdenes de gobierno deben reforzar las acciones de prevención, atención, investigación, sanción y reparación del daño respecto a mujeres, adolescentes, niñas y niños.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 13 DE ABRIL DE 2020)</small>
 
@@ -559,7 +597,9 @@ b) Las acciones que deberán desempeñar para hacer frente a la violencia femini
 
 c) Los indicadores de seguimiento y cumplimiento de las acciones que deben realizar las autoridades federales, de las entidades federativas, municipios o demarcaciones territoriales de la Ciudad de México;
 
-D. Elaborar informes por lo menos cada seis meses para dar cuenta de los avances en el cumplimiento de las medidas establecidas en la Declaratoria, y
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+D. Elaborar informes, con la temporalidad que en su caso determine el Sistema Nacional, para dar cuenta de los avances en el cumplimiento de las medidas establecidas en la Declaratoria, y
 
 E. Asignar los recursos presupuestales necesarios y suficientes para hacer frente a la Declaratoria de Alerta de Violencia de Género contra las mujeres; para tal efecto la Cámara de Diputados y los Congresos Estatales deberán aprobar una partida presupuestal para este fin y darán seguimiento a su ejercicio efectivo.
 
@@ -587,7 +627,9 @@ I. A solicitud de organismos públicos autónomos de derechos humanos u organism
 
 II. A solicitud de organizaciones de la sociedad civil legalmente constituidas o por colectivos o grupos de familiares de víctimas a través de una persona representante, o
 
-III. A partir de la identificación por parte de la Comisión Nacional para Prevenir, Atender y Erradicar la Violencia contra las Mujeres del incremento persistente de hechos o delitos que involucren violaciones a los derechos a la vida, libertad, integridad y seguridad de las mujeres, las adolescentes y las niñas en un territorio determinado o la existencia de un agravio comparado.
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+III. A partir de la identificación por parte de la Secretaría de las Mujeres, del incremento persistente de hechos o delitos que involucren violaciones a los derechos a la vida, libertad, integridad y seguridad de las mujeres, las adolescentes y las niñas en un territorio determinado o la existencia de un agravio comparado.
 
 A fin de garantizar el análisis expedito y la tramitación oportuna, cuando se presenten diversas solicitudes de Alerta de Violencia de Género contra las mujeres y exista identidad en las autoridades o hechos constitutivos de violencia contra las mujeres, las adolescentes y las niñas, se podrán acumular tanto el trámite, como las medidas que deberán ser adoptadas.
 
@@ -605,15 +647,19 @@ III. Las autoridades responsables de atender la violencia señalada, y
 
 IV. Los demás requisitos de forma que se establezcan en el Reglamento.
 
-> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### ARTÍCULO 24 Quáter.
 
-Una vez admitida la solicitud de Alerta de Violencia de Género contra las mujeres, se conformará un Grupo Interinstitucional y Multidisciplinario integrado por la Comisión Nacional para Prevenir y Erradicar la Violencia contra las Mujeres, el Instituto Nacional de las Mujeres, el Mecanismo para el adelanto de las mujeres de la entidad federativa sobre la cual se presenta la solicitud de Alerta de Violencia de Género contra las mujeres, la Comisión Nacional de los Derechos Humanos, las organizaciones de la sociedad civil, incluidas las solicitantes, así como personas e instituciones que se consideren especialistas en derechos humanos de las mujeres.
+Una vez admitida la solicitud de Alerta de Violencia de Género contra las mujeres, se conformará un Grupo Interinstitucional y Multidisciplinario integrado por la Secretaría de las Mujeres, el Mecanismo para el adelanto de las mujeres de la entidad federativa sobre la cual se presenta la solicitud de Alerta de Violencia de Género contra las mujeres, la Comisión Nacional de los Derechos Humanos, las organizaciones de la sociedad civil, incluidas las solicitantes, así como personas e instituciones que se consideren especialistas en derechos humanos de las mujeres.
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], D.O.F. 29 DE ABRIL DE 2022)</small>
 
 El Grupo Interinstitucional y Multidisciplinario tendrá como objetivo fundamental analizar, valorar y emitir recomendaciones que mejoren la implementación de acciones que se generen con motivo de la Alerta de Violencia de Género contra las mujeres, a través de las siguientes acciones:
 
-a) Proponer a la Secretaría de Gobernación las acciones y medidas preventivas, correctivas, de seguridad, de procuración e impartición de justicia, de reparación del daño y legislativas que correspondan, para ser establecidas en la Alerta de Violencia de Género contra las mujeres;
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+a) Proponer a la Secretaría de las Mujeres las acciones y medidas preventivas, correctivas, de seguridad, de procuración e impartición de justicia, de reparación del daño y legislativas que correspondan, para ser establecidas en la Alerta de Violencia de Género contra las mujeres;
 
 b) Brindar asesoría técnica a las autoridades encargadas de instrumentar las medidas señaladas en la Alerta de Violencia de Género contra las mujeres;
 
@@ -621,9 +667,13 @@ c) Analizar y dictaminar los informes periódicos presentados por las autoridade
 
 d) Realizar reuniones de trabajo con las autoridades responsables de la implementación de las medidas establecidas en la Alerta de Violencia de Género contra las mujeres;
 
-e) Solicitar, cuando existe un incumplimiento a las medidas de la Alerta de Violencia de Género contra las mujeres por parte de las autoridades, a la Secretaría de Gobernación emita un extrañamiento y se presenten las denuncias ante las instancias correspondientes a fin de que se determine la responsabilidad de las personas servidoras públicas, y
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+e) Solicitar, cuando existe un incumplimiento a las medidas de la Alerta de Violencia de Género contra las mujeres por parte de las autoridades, a la Secretaría de las Mujeres emita un extrañamiento y se presenten las denuncias ante las instancias correspondientes a fin de que se determine la responsabilidad de las personas servidoras públicas, y
 
 f) Proponer la modificación, actualización y levantamiento parcial o total de medidas establecidas en la Alerta de Violencia de Género contra las mujeres.
+
+> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2022)</small>
 
 Se deberán realizar las medidas necesarias para garantizar que el Grupo Interinstitucional y Multidisciplinario se integre de conformidad con lo señalado en el presente artículo.
 
@@ -639,13 +689,13 @@ En caso de considerar la improcedencia de la Alerta de Violencia de Género cont
 
 El tiempo entre la admisión de la solicitud de la Alerta de Violencia de Género contra las mujeres y la Declaratoria no podrá exceder los 45 días naturales.
 
-> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### ARTÍCULO 24 Sexies.
 
-En los casos donde la Secretaría de Gobernación, a través de la Comisión Nacional para Prevenir y Erradicar la Violencia contra las Mujeres, identifique y documente alguna circunstancia de procedencia de la Alerta de Violencia de Género contra las mujeres, se podrá emitir sin que se requiera la conformación del Grupo Interinstitucional y Multidisciplinario.
+En los casos donde la Secretaría de las Mujeres identifique y documente alguna circunstancia de procedencia de la Alerta de Violencia de Género contra las mujeres, se podrá emitir sin que se requiera la conformación del Grupo Interinstitucional y Multidisciplinario.
 
-En aquellos casos, donde el Grupo Interinstitucional y Multidisciplinario no culmine el Informe de conclusiones en el periodo establecido, la Secretaría de Gobernación a través de la Comisión Nacional para Prevenir y Erradicar la Violencia contra las Mujeres, realizará el informe correspondiente y, en su caso, podrá emitir la Alerta de Violencia de Género contra las mujeres.
+En aquellos casos, donde el Grupo Interinstitucional y Multidisciplinario no culmine el Informe de conclusiones en el periodo establecido, la Secretaría de las Mujeres realizará el informe correspondiente y, en su caso, podrá emitir la Alerta de Violencia de Género contra las mujeres.
 
 > <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2022)</small>
 
@@ -663,15 +713,21 @@ IV. La solicitud a las autoridades responsables, de la asignación o reorientaci
 
 V. El territorio que abarcan las medidas a implementar y, en su caso, las autoridades responsables de su cumplimiento.
 
-> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### ARTÍCULO 25.
 
-Corresponderá al gobierno federal, a través de la Secretaría de Gobernación, declarar la Alerta de Violencia de Género contra las mujeres.
+Corresponderá al gobierno federal, a través de la Secretaría de las Mujeres, declarar la Alerta de Violencia de Género contra las mujeres.
 
-La persona titular de la Secretaría de Gobernación notificará a las personas titulares de los poderes Ejecutivo, Legislativo y Judicial, así como a la instancia de procuración de justicia de las demarcaciones territoriales de la Ciudad de México, o de los municipios de la entidad federativa en que se emita la Alerta de Violencia de Género contra las mujeres.
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+La persona titular de la Secretaría de las Mujeres notificará a las personas titulares de los poderes Ejecutivo, Legislativo y Judicial, así como a la instancia de procuración de justicia de las demarcaciones territoriales de la Ciudad de México, o de los municipios de la entidad federativa en que se emita la Alerta de Violencia de Género contra las mujeres.
+
+> <small>(REFORMADO, D.O.F. 29 DE ABRIL DE 2022)</small>
 
 Una vez notificada la Alerta, las autoridades federales, de las entidades federativas, municipios o demarcaciones territoriales de la Ciudad de México, deberán, de manera inmediata y coordinada con el Grupo Interinstitucional y Multidisciplinario, implementar el Programa de Acciones Estratégicas de cumplimiento.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], D.O.F. 29 DE ABRIL DE 2022)</small>
 
 El Programa de Acciones Estratégicas deberá contener, al menos las siguientes características:
 
@@ -689,11 +745,11 @@ VI. Los indicadores de evaluación, seguimiento y cumplimiento de las acciones, 
 
 VII. La estrategia de difusión en la entidad federativa de los resultados alcanzados.
 
-> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### ARTÍCULO 25 Bis.
 
-La Comisión Nacional para Prevenir y Erradicar la Violencia contra las Mujeres dará acompañamiento y seguimiento a la Alerta de Violencia de Género contra las mujeres.
+La Secretaría de las Mujeres dará acompañamiento y seguimiento a la Alerta de Violencia de Género contra las mujeres.
 
 > <small>(REFORMADO, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
 
@@ -807,15 +863,21 @@ VI. Principio de integralidad: El otorgamiento de la medida a favor de la vícti
 
 VII. Principio pro persona: Para interpretar lo referente al otorgamiento de las órdenes de protección, en caso de duda, con relación a la situación de violencia, se estará a lo más favorable para la víctima, tratándose de niñas siempre se garantizará que se cumpla en todas las decisiones que se tomen respecto de las órdenes de protección. De igual forma, cuando las determinaciones que se tomen respecto de una mujer víctima de violencia pudieran impactar en los derechos de las hijas o hijos menores de 18 años de edad.
 
-> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### ARTÍCULO 31.
 
-Cuando una mujer o una niña víctima de violencia soliciten una orden de protección a la autoridad administrativa, ministerial y/o judicial, se le deberá brindar toda la información disponible sobre el procedimiento relacionado con la propia orden.
+Cuando una mujer, una adolescente o una niña víctima de violencia soliciten una orden de protección a la autoridad administrativa, ministerial y/o judicial, se le deberá brindar de inmediato toda la información disponible sobre el procedimiento relacionado con la propia orden.
+
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2021)</small>
 
 La autoridad deberá informar con un lenguaje claro, sencillo y empático a la mujer víctima de violencia sobre su derecho a solicitar las órdenes de protección, y evitará cualquier información tendiente a inhibir o desincentivar la solicitud.
 
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2021)</small>
+
 La autoridad deberá de realizar la medición y valoración del riesgo, la valoración médica en caso de requerirse, así como la valoración psicológica.
+
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2021)</small>
 
 Las autoridades competentes de los tres órdenes de gobierno, que reciban denuncias anónimas de mujeres y niñas víctimas de violencia, decretarán las órdenes de protección correspondientes.
 
@@ -949,9 +1011,9 @@ XII. Protección por seguridad privada, en los casos que sea necesario;
 
 XIII. Utilización de herramientas tecnológicas que permitan brindar seguridad a las mujeres, o niñas, en situación de violencia; así como a las víctimas indirectas y testigos. Entre las que pueden encontrarse proporcionar un teléfono móvil con contacto directo para brindar auxilio policial, entre otros;
 
-> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-XIV. Solicitud a la autoridad judicial competente, la suspensión temporal a la persona agresora del régimen de visitas y convivencia con sus descendientes;
+XIV. Solicitud a la autoridad judicial competente, la suspensión temporal a la persona agresora del régimen de visitas y convivencia con sus descendientes y si fuera el caso la imposición del régimen de visitas supervisadas;
 
 > <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2021)</small>
 
@@ -965,9 +1027,9 @@ XVI. La prohibición a la persona agresora de comunicarse por cualquier medio o 
 
 XVII. Prohibición a la persona agresora de intimidar o molestar por si, por cualquier medio o interpósita persona, a la mujer en situación de violencia y en su caso sus hijas e hijos u otras víctimas indirectas o testigos de los hechos o cualquier otra persona con quien la mujer tenga una relación familiar, afectiva, de confianza o de hecho;
 
-> <small>(ADICIONADA, D.O.F. 18 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-XVIII. Resguardar las armas de fuego u objetos utilizados para amenazar o agredir a la mujer, o niña, en situación de violencia;
+XVIII. Resguardar las armas de fuego u objetos utilizados para amenazar o agredir a la mujer, o niña, en situación de violencia y, en su caso, solicitar a la autoridad competente que se realice el procedimiento de revocación de la licencia de armas de fuego, si existiere;
 
 > <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
 
@@ -1087,9 +1149,9 @@ Las autoridades que intervengan en el cumplimiento de una orden, también serán
 
 ARTÍCULO 34 Undecies.- A ninguna mujer o niña y sus hijas e hijos en situación de violencia, que solicite orden de protección se le podrá requerir que acredite su situación migratoria, ni cualquier otro elemento que impida su derecho al acceso a la justicia y la protección.
 
-> <small>(ADICIONADO, D.O.F. 18 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
-ARTÍCULO 34 Duodecies.- Las órdenes de protección deberán ser registradas en el Banco Nacional de Datos e Información sobre Casos de Violencia contra las Mujeres.
+ARTÍCULO 34 Duodecies.- La información contenida en el Registro Nacional deberá ser integrada y compartida con la Secretaría de las Mujeres, para su incorporación en el Banco Nacional de Datos e Información sobre Casos de Violencia contra las Mujeres.
 
 > <small>(ADICIONADO, D.O.F. 18 DE MARZO DE 2021)</small>
 
@@ -1157,7 +1219,9 @@ La información y datos contenidos en el Registro Nacional se clasifica como res
 
 ## TITULO III
 
-### CAPÍTULO I. DEL SISTEMA NACIONAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 15 DE ENERO DE 2026)</small>
+
+### CAPÍTULO I. DEL SISTEMA NACIONAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LAS VIOLENCIAS CONTRA LAS MUJERES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ABRIL DE 2022)</small>
 
@@ -1173,63 +1237,61 @@ El Sistema Nacional, ante la situación de emergencia identificada a partir de l
 
 Todas las medidas que lleve a cabo el Estado deberán ser realizadas sin discriminación alguna. Por ello, considerará la etnia, el idioma, edad, condición social, de salud, de discapacidad, preferencia sexual, o cualquier otra condición, para que puedan acceder a las políticas públicas en la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE ABRIL DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### ARTÍCULO 36.
 
-El Sistema se conformará por las personas titulares o representantes legales de:
+El Sistema Nacional se conformará por las personas titulares de:
 
-I. La Secretaría de Gobernación, quien lo presidirá;
+I. El Ejecutivo Federal, quien lo presidirá;
 
-II. La Secretaría de Desarrollo Social;
+II. La Secretaría de las Mujeres, quien ocupará la Secretaría Ejecutiva del Sistema Nacional;
 
-III. La Secretaría de Seguridad Pública;
+III. La Secretaría de Gobernación;
 
-> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+IV. La Secretaría de Bienestar;
 
-IV. La Fiscalía General de la República, quien participará dentro del sistema con pleno respeto a la autonomía constitucional que le confiere el artículo 102, Apartado A, de la Constitución Política de los Estados Unidos Mexicanos;
+V. La Secretaría de Seguridad y Protección Ciudadana;
 
-V. La Secretaría de Educación Pública;
+VI. La Fiscalía General de la República;
 
-> <small>(ADICIONADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+VII. La Secretaría de Educación Pública;
 
-V Bis. La Secretaría de Cultura;
+VIII. La Secretaría de Cultura;
 
-VI. La Secretaría de Salud;
+IX. La Secretaría de Salud;
 
-> <small>(ADICIONADA, D.O.F. 18 DE MAYO DE 2012)</small>
+X. La Secretaría del Trabajo y Previsión Social;
 
-VII. La Secretaría del Trabajo y Previsión Social;
+XI. La Secretaría de Desarrollo Agrario, Territorial y Urbano;
 
-> <small>(ADICIONADA, D.O.F. 4 DE JUNIO DE 2015)</small>
+XII. El Consejo Nacional para Prevenir la Discriminación;
 
-VIII. Secretaría de Desarrollo Agrario, Territorial y Urbano;
+XIII. El Sistema Nacional para el Desarrollo Integral de la Familia;
 
-IX. El Instituto Nacional de las Mujeres, quien ocupará la Secretaría Ejecutiva del Sistema;
+XIV. El Instituto Nacional de los Pueblos Indígenas;
 
-X. El Consejo Nacional para Prevenir la Discriminación;
+XV. La Agencia de Transformación Digital y Telecomunicaciones;
 
-> <small>(REFORMADA, D.O.F. 22 DE JUNIO DE 2017)</small>
+XVI. Los Gobiernos de las entidades federativas, y
 
-XI. El Sistema Nacional para el Desarrollo Integral de la Familia;
+XVII. El Instituto Nacional Electoral.
 
-> <small>(REFORMADA, D.O.F. 13 DE ABRIL DE 2020)</small>
+En caso de ausencia de la persona titular del Ejecutivo Federal, la persona titular de la Secretaría de las Mujeres presidirá la sesión y designará a la persona servidora pública de nivel jerárquico inferior que fungirá como Secretaria Ejecutiva del Sistema Nacional.
 
-XII. La Comisión Nacional para el Desarrollo de los Pueblos Indígenas;
+En caso de ausencia de la persona titular del Gobierno de la entidad federativa que corresponda, ésta será suplida por la persona titular del Mecanismo para el Adelanto de las Mujeres respectiva.
 
-> <small>(REFORMADA, D.O.F. 13 DE ABRIL DE 2020)</small>
+Las demás personas titulares integrantes del Sistema Nacional deberán ser suplidas en sus ausencias por la persona servidora pública que para tal efecto designen, la cual deberá tener un nivel jerárquico inmediato inferior a éstas.
 
-XIII. Los mecanismos para el adelanto de las mujeres en las entidades federativas, y
-
-> <small>(ADICIONADA, D.O.F. 13 DE ABRIL DE 2020)</small>
-
-XIV. El Instituto Nacional Electoral.
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### ARTÍCULO 37.
 
-La Secretaría Ejecutiva del Sistema elaborará el proyecto de reglamento para el funcionamiento del mismo y lo presentará a sus integrantes para su consideración y aprobación en su caso.
+La Secretaría Ejecutiva del Sistema Nacional, elaborará el proyecto de reglamento para el funcionamiento del mismo y lo presentará a sus integrantes para su consideración y aprobación en su caso.
 
-### CAPÍTULO II. DEL PROGRAMA INTEGRAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 15 DE ENERO DE 2026)</small>
+
+### CAPÍTULO II. DEL PROGRAMA INTEGRAL PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LAS VIOLENCIAS CONTRA LAS MUJERES
 
 ###### ARTÍCULO 38.
 
@@ -1237,11 +1299,13 @@ El Programa contendrá las acciones con perspectiva de género para:
 
 I. Impulsar y fomentar el conocimiento y el respeto a los derechos humanos de las mujeres;
 
-II. Transformar los modelos socioculturales de conducta de mujeres y hombres, incluyendo la formulación de programas y acciones de educación formales y no formales, en todos los niveles educativos y de instrucción, con la finalidad de prevenir, atender y erradicar las conductas estereotipadas que permiten, fomentan y toleran la violencia contra las mujeres;
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-> <small>(REFORMADA, D.O.F. 20 DE MAYO DE 2021)</small>
+II. Transformar los modelos socioculturales de conducta de mujeres y hombres, incluyendo la formulación de programas y acciones de educación formales y no formales, en todos los niveles educativos y de instrucción, con la finalidad de prevenir, atender y erradicar las conductas estereotipadas que permiten, fomentan y toleran las violencias contra las mujeres;
 
-III. La coordinación con las instituciones responsables de la procuración de justicia, para que éstas brinden educación y capacitación a su personal, al personal encargado de la procuración de justicia, policías y demás funcionarios encargados de las políticas de prevención, atención, sanción y eliminación de la violencia contra las mujeres;
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+III. La coordinación con las instituciones responsables de la procuración de justicia federales y en las entidades federativas, para impulsar la creación de fiscalías especializadas de investigación de delitos relacionados con las violencias de género contra las mujeres, adolescentes y niñas, las cuales deberán contar con personal capacitado en procuración de justicia con perspectiva de género, derechos humanos y de infancia y adolescencia;
 
 IV. Educar y capacitar en materia de derechos humanos de las mujeres al personal encargado de la impartición de justicia, a fin de dotarles de instrumentos que les permita juzgar con perspectiva de género;
 
@@ -1253,15 +1317,19 @@ VI. Fomentar y apoyar programas de educación pública y privada, destinados a c
 
 VII. Diseñar programas de atención y capacitación a víctimas que les permita participar plenamente en todos los ámbitos de la vida; incluyendo aquellas que permitan su inserción laboral y empoderamiento económico;
 
-VIII. Vigilar que los medios de comunicación no fomenten la violencia contra las mujeres y que favorezcan la erradicación de todos los tipos de violencia, para fortalecer el respeto a los derechos humanos y la dignidad de las mujeres;
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+VIII. Vigilar que los medios de comunicación no fomenten la violencia contra las mujeres en toda su diversidad y etapas de vida, para impulsar un cambio cultural en favor de la igualdad sustantiva, el derecho a una vida libre de violencias, el respeto a los derechos humanos y la dignidad de las mujeres;
 
 > <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
 
 IX. Garantizar la investigación y la elaboración de diagnósticos estadísticos, con enfoque diferenciado, sobre las causas, la frecuencia y las consecuencias de la violencia contra las mujeres, con el fin de evaluar la eficacia de las medidas desarrolladas para prevenir, atender, sancionar y erradicar todo tipo de violencia;
 
-> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-X. Publicar semestralmente la información general y estadística desagregada y con enfoque diferenciado, sobre los casos de violencia contra las mujeres para integrar el Banco Nacional de Datos e Información sobre Casos de Violencia contra las Mujeres;
+X. Integrar y difundir información estadística desagregada y con enfoque diferenciado, sobre los casos de violencia contra las mujeres para integrar el Banco Nacional de Datos e Información sobre Casos de Violencia contra las Mujeres.
+
+Para cumplir con este propósito, se establecerán mecanismos eficaces de coordinación y captura, que permita el análisis de tendencias e identificación de áreas críticas y recomendaciones para mejorar la prevención, atención, sanción y erradicación de las violencias contra las mujeres;
 
 XI. Promover la inclusión prioritaria en el Plan Nacional de Desarrollo de las medidas y las políticas de gobierno para erradicar la violencia contra las mujeres;
 
@@ -1289,7 +1357,9 @@ XVI. Difundir la oferta institucional de servicios especializados que brinden lo
 
 El Ejecutivo Federal propondrá en el Proyecto de Presupuesto de Egresos de la Federación asignar una partida presupuestaria para garantizar el cumplimiento de los objetivos del Sistema y del Programa previstos en la presente ley.
 
-### CAPÍTULO III. DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LA VIOLENCIA CONTRA LAS MUJERES
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 15 DE ENERO DE 2026)</small>
+
+### CAPÍTULO III. DE LA DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE PREVENCIÓN, ATENCIÓN, SANCIÓN Y ERRADICACIÓN DE LAS VIOLENCIAS CONTRA LAS MUJERES
 
 > <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2021)</small>
 
@@ -1297,15 +1367,23 @@ El Ejecutivo Federal propondrá en el Proyecto de Presupuesto de Egresos de la F
 
 La Federación, las entidades federativas, la Ciudad de México y los municipios, coadyuvarán para el cumplimiento de los objetivos de esta ley de conformidad con las competencias previstas en el presente ordenamiento y demás instrumentos legales aplicables.
 
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+De conformidad con lo dispuesto en el artículo 73, fracción XXI de la Constitución Política de los Estados Unidos Mexicanos, las autoridades federales podrán conocer de las medidas u órdenes de protección que deriven de violencias de género en contra de las mujeres o de delitos de fuero común relacionados con las violencias de género contra las mujeres, en los términos que establezcan las leyes aplicables en la materia.
+
 #### Sección Primera.. De la Federación
 
 ###### ARTÍCULO 41.
 
 Son facultades y obligaciones de la Federación:
 
-I. Garantizar el ejercicio pleno del derecho de las mujeres a una vida libre de violencia;
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-II. Formular y conducir la política nacional integral desde la perspectiva de género para prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
+I. Garantizar el ejercicio pleno del derecho de las mujeres a una vida libre de violencias;
+
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+II. Formular y conducir la política nacional integral desde la perspectiva de género para prevenir, atender, sancionar y erradicar las violencias contra las mujeres;
 
 III. Vigilar el cabal cumplimiento de la presente ley y de los instrumentos internacionales aplicables;
 
@@ -1325,7 +1403,9 @@ VIII. Coordinar la creación de Programas de reeducación y reinserción social 
 
 IX. Garantizar una adecuada coordinación entre la Federación, las entidades federativas, la Ciudad de México y los municipios, con la finalidad de erradicar la violencia contra las mujeres;
 
-X. Realizar a través del Instituto Nacional de las Mujeres y con el apoyo de las instancias locales, campañas de información, con énfasis en la doctrina de la protección integral de los derechos humanos de las mujeres, en el conocimiento de las leyes y las medidas y los programas que las protegen, así como de los recursos jurídicos que las asisten;
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+X. Realizar, a través de la Secretaría de las Mujeres y con el apoyo de las instancias locales, campañas de información y de cambio cultural, con énfasis en la doctrina de la protección integral de los derechos humanos de las mujeres, en el conocimiento de las leyes y las medidas y los programas que las protegen, así como de los recursos jurídicos que las asisten;
 
 XI. Impulsar la formación y actualización de acuerdos interinstitucionales de coordinación entre las diferentes instancias de gobierno, de manera que sirvan de cauce para lograr la atención integral de las víctimas;
 
@@ -1353,133 +1433,107 @@ XX. Promover y coordinar con las entidades federativas la creación y el fortale
 
 XXI. Las demás que le confieran esta ley u otros ordenamientos aplicables.
 
-#### Sección Segunda.. De la Secretaría de Gobernación
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 15 DE ENERO DE 2026)</small>
+
+#### Sección Segunda.. De la Secretaría de las Mujeres
+
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### ARTÍCULO 42.
 
-Corresponde a la Secretaría de Gobernación:
+Corresponde a la Secretaría de las Mujeres:
 
-I. Presidir el Sistema y declarar la alerta de violencia de género contra las mujeres;
+I. Fungir como Secretaria Ejecutiva del Sistema Nacional;
 
-II. Diseñar la política integral con perspectiva de género para promover la cultura del respeto a los derechos humanos de las mujeres;
+II. Declarar la Alerta de Violencia de Género contra las Mujeres;
 
-III. Elaborar el Programa en coordinación con las demás autoridades integrantes del Sistema;
+III. Impulsar la incorporación de la perspectiva de género en la política nacional;
 
-> <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 2022)</small>
+IV. Elaborar el Programa en coordinación con las demás autoridades integrantes del Sistema Nacional;
 
-IV. Formular las bases para la coordinación entre las autoridades federales, locales, municipales y de las demarcaciones territoriales de la Ciudad de México para la prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+V. Formular las bases para la coordinación entre las autoridades federales, locales, municipales y de las demarcaciones territoriales de la Ciudad de México para la prevención, atención, sanción y erradicación de las violencias hacia las mujeres;
 
-V. Coordinar y dar seguimiento a las acciones de los tres órdenes de gobierno en materia de protección, atención, sanción y erradicación de la violencia contra las mujeres;
+VI. Coordinar y monitorear las acciones de los tres órdenes de gobierno en materia de protección, atención, sanción y erradicación de las violencias contra las mujeres;
 
-VI. Coordinar y dar seguimiento a los trabajos de promoción y defensa de los derechos humanos de las mujeres, que lleven a cabo las dependencias y entidades de la Administración Pública Federal;
+VII. Coordinar y monitorear los trabajos de promoción de los derechos humanos de las mujeres, las adolescentes y las niñas, que lleven a cabo las dependencias y entidades de la Administración Pública Federal;
 
-VII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa;
+VIII. Ejecutar y dar seguimiento a las acciones del Programa, con la finalidad de evaluar su eficacia y rediseñar las acciones y medidas para avanzar en la eliminación de las violencias contra las mujeres;
 
-VIII. Ejecutar y dar seguimiento a las acciones del Programa, con la finalidad de evaluar su eficacia y rediseñar las acciones y medidas para avanzar en la eliminación de la violencia contra las mujeres;
+IX. Coadyuvar, con la Secretaría de Gobernación, en la elaboración y promoción de directrices para que los medios de comunicación promuevan la erradicación de todos los tipos de discriminación y violencias contra las mujeres y fortalezcan su dignidad y respeto;
 
-IX. Diseñar, con una visión transversal, la política integral orientada a la prevención, atención, sanción y erradicación de los delitos violentos contra las mujeres;
+X. Realizar un Diagnóstico Nacional y otros estudios complementarios de manera periódica con perspectiva de género sobre todas las formas de violencias contra las mujeres, adolescentes y niñas en todos los ámbitos, que proporcione información objetiva para la elaboración de políticas gubernamentales en materia de prevención, atención, sanción y erradicación de las violencias contra las mujeres;
 
-> <small>(REFORMADA, D.O.F. 28 DE ENERO DE 2011)</small>
+XI. Difundir a través de diversos medios y en coadyuvancia con la Secretaría de Gobernación, los resultados del Sistema Nacional y del Programa a los que se refiere esta ley;
 
-X. Vigilar y promover directrices para que los medios de comunicación favorezcan la erradicación de todos los tipos de violencia y se fortalezca la dignidad y el respeto hacia las mujeres;
+XII. Promover, concertar y suscribir instrumentos de cooperación, colaboración y concertación, así como demás instrumentos jurídicos para el cabal cumplimiento de la presente ley;
 
-XI. Sancionar conforme a la ley a los medios de comunicación que no cumplan con lo estipulado en la fracción anterior;
+XIII. Coordinar, integrar, administrar y operar el Banco Nacional de Datos e Información de Casos de Violencia contra las Mujeres;
 
-XII. Realizar un Diagnóstico Nacional y otros estudios complementarios de manera periódica con perspectiva de género sobre todas las formas de violencia contra las mujeres y las niñas, en todos los ámbitos, que proporcione información objetiva para la elaboración de políticas gubernamentales en materia de prevención, atención, sanción y erradicación de la violencia contra las mujeres.
+XIV. Diseñar y mantener actualizado el Modelo de Gestión Operativa de los Centros de Justicia para las Mujeres, así como los protocolos de atención especializados, desde las perspectivas de género, derechos humanos, interseccional, diferencial e intercultural;
 
-XIII. Difundir a través de diversos medios, los resultados del Sistema y del Programa a los que se refiere esta ley;
+XV. Impulsar y coordinar con las entidades federativas la creación, equipamiento o fortalecimiento de los Centros de Justicia para las Mujeres en todo el territorio nacional, así como las acciones encaminadas al seguimiento y evaluación de los mismos;
 
-> <small>(REFORMADA, D.O.F. 8 DE MAYO DE 2023)</small>
+XVI. Certificar a los Centros de Justicia para las Mujeres;
 
-XIV. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+XVII. Promover la elaboración de estudios complementarios sobre la violencia contra las mujeres, las adolescentes y las niñas;
 
-> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
+XVIII. Promover e instalar Unidades de Atención a víctimas de violencias de género contra las mujeres, adolescentes y niñas en cualquier parte del territorio nacional;
 
-XV. Integrar, administrar y operar el Banco Nacional de Datos e Información de Casos de Violencia contra las Mujeres;
+XIX. Auxiliar a la persona titular del Ejecutivo Federal en la supervisión del Sistema Nacional y someter a su consideración el proyecto de informe a que se refiere el artículo 41, fracción XVII;
 
-> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
+XX. Coordinarse con las autoridades competentes para atender los asuntos de carácter internacional relacionados con la política en materia del derecho a una vida libre de violencias de las mujeres, adolescentes y niñas;
 
-XVI. Diseñar y actualizar el Modelo de Gestión Operativa de los Centros de Justicia para las Mujeres, así como los protocolos de atención especializados, desde las perspectivas de género, derechos humanos, interseccional, diferencial e intercultural;
+XXI. Promover la observancia de los principios del Derecho Internacional de los Derechos Humanos de las mujeres, adolescentes y niñas, así como el cumplimiento de las obligaciones del Estado mexicano derivadas de los Tratados Internacionales de los que forma parte;
 
-> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
+XXII. Analizar y sistematizar la información sobre las condiciones políticas, jurídicas, económicas, sociales y culturales que han dado lugar a las violencias contra las mujeres, las adolescentes y las niñas en el país;
 
-XVII. Promover y coordinar con las entidades federativas la creación y el fortalecimiento de los Centros de Justicia para las Mujeres, así como las acciones encaminadas al seguimiento y evaluación de los mismos;
+XXIII. Establecer mecanismos de coordinación con la Fiscalía General de la República y con las fiscalías de las entidades federativas, a fin de garantizar la recepción de denuncias y la atención sin revictimización; el otorgamiento inmediato de medidas y órdenes de protección para mujeres, adolescentes, niñas y niños víctimas de violencia; la implementación de modelos integrales de atención a víctimas, así como acciones que aseguren el acceso efectivo a la justicia de las mujeres, adolescentes y niñas con perspectiva de género;
 
-> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
+XXIV. Impulsar en los Poderes Judiciales de la Federación y las entidades federativas acciones que favorezcan el acceso a la justicia para las mujeres, las adolescentes y las niñas, con perspectiva de género;
 
-XVIII. Impulsar la creación y equipamiento de los Centros de Justicia para las Mujeres;
+XXV. Promover la justicia y atención especializada, con perspectiva de género, de las mujeres, adolescentes y niñas víctimas de violencias de género, por parte de las instituciones federales y locales, a fin de que sus derechos sean respetados y garantizados;
 
-> <small>(ADICIONADA, D.O.F. 8 DE MAYO DE 2023)</small>
+XXVI. Promover, a través de los poderes legislativos, reformas en materia del derecho de las mujeres, las adolescentes y las niñas a una vida libre de violencias;
 
-XIX. Certificar a los Centros de Justicia para las Mujeres, y
+XXVII. Coordinar el mecanismo de seguimiento de casos de tortura sexual cometida contra las mujeres, adolescentes y niñas;
 
-XX. Las demás previstas para el cumplimiento de la presente ley.
+XXVIII. Instrumentar un mecanismo de alerta temprana en casos de violencias contra las mujeres, las adolescentes y las niñas;
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 29 DE ABRIL DE 2022)</small>
+XXIX. Establecer y coordinar el modelo de atención que se implementará en los Centros de Justicia para las Mujeres;
+
+XXX. Integrar, en el marco del Sistema Nacional, las investigaciones promovidas por las dependencias de la Administración Pública Federal sobre las causas, características y consecuencias de las violencias en contra de las mujeres adolescentes y niñas, así como la evaluación de las medidas de prevención, atención y erradicación, y la información derivada a cada una de las instituciones encargadas de promover los derechos humanos de las mujeres en las entidades federativas, municipios o demarcaciones territoriales de la Ciudad de México. Los resultados de dichas investigaciones serán dados a conocer públicamente para tomar las medidas pertinentes para la erradicación de las violencias;
+
+XXXI. Proponer a las autoridades encargadas de la aplicación de la presente Ley, los programas, las medidas y las acciones que consideren pertinentes, con la finalidad de erradicar las violencias contra las mujeres, las adolescentes y las niñas;
+
+XXXII. Coordinar con las instituciones del Sistema Nacional en el diseño y evaluación del modelo de atención a víctimas en los refugios;
+
+XXXIII. Canalizar a las víctimas a programas reeducativos integrales que les permitan participar activamente en la vida pública, privada y social;
+
+XXXIV. Promover y vigilar que la atención que se brinde a mujeres víctimas de violencia en las diversas instituciones públicas o privadas sea proporcionada por especialistas en la materia, sin prejuicios ni discriminación alguna;
+
+XXXV. Difundir la cultura de respeto a los derechos humanos de las mujeres, adolescentes y niñas y promover que las instancias de procuración de justicia garanticen la integridad personal y autonomía en la toma de decisiones de quienes denuncian;
+
+XXXVI. Participar en conjunto con la Secretaría de Seguridad y Protección Ciudadana, en la elaboración de los Lineamientos para la operación y funcionamiento del Registro Nacional;
+
+XXXVII. Establecer indicadores respecto al funcionamiento, eficiencia y efectividad del Registro Nacional, considerando especialmente la trazabilidad de las medidas u órdenes de protección ordenadas por las autoridades administrativas y jurisdiccionales;
+
+XXXVIII. Coadyuvar con la Secretaría de Seguridad y Protección Ciudadana, en el cumplimiento de las funciones relacionadas con el Registro Nacional;
+
+XXXIX. Llevar a cabo la Evaluación del Registro Nacional;
+
+XL. Difundir información sobre el funcionamiento y aprovechamiento del Registro Nacional;
+
+XLI. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema Nacional y del Programa, y
+
+XLII. Las demás previstas para el cumplimiento de la Ley.
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 15 DE ENERO DE 2026)</small>
 
 #### Sección Segunda Bis.. De la Comisión Nacional Para Prevenir y Erradicar la Violencia Contra las Mujeres
 
-> <small>(ADICIONADO, D.O.F. 29 DE ABRIL DE 2022)</small>
-
 ###### ARTÍCULO 42 Bis.
 
-Corresponde a la Comisión Nacional para Prevenir y Erradicar la Violencia contra las Mujeres:
-
-I. Dar seguimiento al Programa, en coordinación con las demás autoridades que integran el Sistema Nacional;
-
-II. Proponer las bases para la coordinación entre las autoridades federales, locales, municipales y de las demarcaciones territoriales de la Ciudad de México, para la prevención, atención, sanción y erradicación de la violencia contra las mujeres, las adolescentes y las niñas;
-
-III. Auxiliar a la persona titular de la Secretaría de Gobernación a coordinar, con pleno respeto a los ámbitos de competencia, las acciones de los tres órdenes de gobierno en materia de protección, atención, sanción y erradicación de la violencia contra las mujeres, las adolescentes y las niñas, y dar seguimiento a las mismas;
-
-IV. Proponer la política integral con perspectiva de género para promover la cultura de respeto a los derechos humanos de las mujeres, las adolescentes y las niñas;
-
-V. Coordinar y dar seguimiento, a través de la Secretaría Ejecutiva del Sistema, a los trabajos de promoción y defensa de los derechos humanos de las mujeres, que lleven a cabo las dependencias y entidades de la Administración Pública Federal;
-
-VI. Establecer, utilizar, supervisar y mantener, en coordinación con la Secretaría Ejecutiva, todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa;
-
-VII. Evaluar la eficacia de las acciones del Programa y, en su caso, proponer el rediseño de las acciones y medidas para avanzar en la eliminación de las violencias contra las mujeres, las adolescentes y las niñas;
-
-VIII. Proponer la política integral de prevención, atención, sanción y erradicación de los delitos violentos contra las mujeres, las adolescentes y las niñas;
-
-IX. Coordinar, a través de la Secretaría Ejecutiva del Sistema, la realización del Diagnóstico Nacional sobre todas las formas de violencia de género contra las mujeres, las adolescentes y las niñas;
-
-X. Promover la elaboración de estudios complementarios sobre la violencia contra las mujeres, las adolescentes y las niñas;
-
-XI. Acordar con la Dirección General de Comunicación Social de la Secretaría de Gobernación, la política de difusión del Sistema y el Programa que se refieren en esta ley;
-
-XII. Celebrar convenios, que se relacionen con el ejercicio de sus atribuciones, previo dictamen de la Unidad de Asuntos Jurídicos de la Secretaría de Gobernación;
-
-XIII. Instalar Unidades de Atención a víctimas de violencia de género contra las mujeres, adolescentes y niñas en cualquier parte del territorio nacional;
-
-XIV. Auxiliar a la persona titular de la Secretaría de Gobernación en la supervisión del Sistema; y someter a su consideración el proyecto de informe a que se refiere el artículo 54, fracción II;
-
-XV. Coordinarse con las autoridades competentes para atender los asuntos de carácter internacional relacionados con la política en materia del derecho a una vida libre de violencias;
-
-XVI. Promover la observancia de los principios del Derecho Internacional de los Derechos Humanos de las mujeres, así como el cumplimiento de las obligaciones del Estado mexicano derivadas de los Tratados Internacionales de los que forma parte;
-
-XVII. Analizar y sistematizar la información sobre las condiciones políticas, jurídicas, económicas, sociales y culturales que han dado lugar a la violencia contra las mujeres, las adolescentes y las niñas en el país;
-
-XVIII. Establecer mecanismos de coordinación con las Fiscalías Federal y de las entidades federativas a fin de promover acciones para favorecer el acceso a la justicia de las mujeres;
-
-XIX. Impulsar en los Poderes Judiciales de la Federación y las entidades federativas acciones que favorezcan el acceso a la justicia para las mujeres, las adolescentes y las niñas;
-
-XX. Promover una justicia especializada para las mujeres, adolescentes y niñas víctimas de violencia de género;
-
-XXI. Promover, a través de los poderes legislativos, reformas en materia del derecho de las mujeres, las adolescentes y las niñas a una vida libre de violencias;
-
-XXII. Promover la atención y escucha a las mujeres y niñas víctimas de violencia de género, por parte de las instituciones federales y locales, a fin de que sus derechos sean respetados y garantizados;
-
-XXIII. Coordinar el mecanismo para la tortura sexual en contra de mujeres;
-
-XXIV. Coordinar el Banco Nacional de casos de violencia contra las mujeres;
-
-XXV. Instrumentar un mecanismo de alerta temprana en casos de violencia contra las mujeres, las adolescentes y las niñas;
-
-XXVI. Impulsar, en coordinación con las entidades federativas, los Centros de Justicia para las Mujeres en todo el territorio nacional;
-
-XXVII. Establecer y coordinar el modelo de atención que se implementará en los Centros de Justicia para las Mujeres, y
-
-XXVIII. Las demás que le confieran otras disposiciones aplicables.
+(DEROGADO, D.O.F. 15 DE ENERO DE 2026)
 
 #### Sección Tercera.. De la Secretaría de Desarrollo Social
 
@@ -1797,59 +1851,35 @@ XII. Cumplir con las facultades y responsabilidades que le corresponden y que se
 
 XIII. Las demás previstas para el cumplimiento de la presente ley.
 
-(REUBICADA [N. DE E. ANTES SECCIÓN OCTAVA], D.O.F. 4 DE JUNIO DE 2015)
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 15 DE ENERO DE 2026)</small>
 
-#### Sección Décima.. Del Instituto Nacional de las Mujeres
+#### Sección Décima.. De la Secretaría de Gobernación
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### ARTÍCULO 48.
 
-Corresponde a la Secretaría de las Mujeres:
+Corresponde a la Secretaría de Gobernación:
 
-I. Fungir como Secretaría Ejecutiva del Sistema, a través de su titular;
+I. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema Nacional y del Programa;
 
-> <small>(REFORMADA, D.O.F. 11 DE ENERO DE 2021)</small>
+II. Diseñar y promover, en el ámbito de su competencia, una política integral con perspectiva de género para promover la cultura de respeto a los derechos humanos de las mujeres;
 
-II. Integrar las investigaciones promovidas por las dependencias de la Administración Pública Federal sobre las causas, características y consecuencias de la violencia en contra de las mujeres, así como la evaluación de las medidas de prevención, atención y erradicación, y la información derivada a cada una de las instituciones encargadas de promover los derechos humanos de las mujeres en las entidades federativas, y a la Ciudad de México o municipios. Los resultados de dichas investigaciones serán dados a conocer públicamente para tomar las medidas pertinentes hacia la erradicación de la violencia;
+III. Formular y coordinar políticas de prevención social del delito, cultura de paz y legalidad con perspectiva de género;
 
-III. Proponer a las autoridades encargadas de la aplicación de la presente ley, los programas, las medidas y las acciones que consideren pertinentes, con la finalidad de erradicar la violencia contra las mujeres;
+IV. Coordinar y dar seguimiento a los trabajos de defensa de los derechos humanos de las mujeres, que lleven a cabo las dependencias y entidades de la Administración Pública Federal;
 
-IV. Colaborar con las instituciones del Sistema en el diseño y evaluación del modelo de atención a víctimas en los refugios;
+V. Elaborar y promover, en colaboración con la Secretaría de las Mujeres, directrices para que los medios de comunicación promuevan la erradicación de todos los tipos de violencias contra las mujeres y se fortalezca la dignidad y el respeto hacia las mujeres, las adolescentes y las niñas;
 
-V. Impulsar la creación de unidades de atención y protección a las víctimas de violencia prevista en la ley;
+VI. Vigilar y sancionar conforme a la Ley en la materia, a los medios de comunicación que incumplan las directrices señaladas en la fracción anterior;
 
-VI. Canalizar a las víctimas a programas reeducativos integrales que les permitan participar activamente en la vida pública, privada y social;
+VII. Desarrollar e implementar acciones y estrategias con perspectiva de género para la protección de las niñas, niños y adolescentes víctimas del delito, en coordinación con la Comisión Ejecutiva de Atención a Víctimas;
 
-VII. Promover y vigilar que la atención ofrecida en las diversas instituciones públicas o privadas, sea proporcionada por especialistas en la materia, sin prejuicios ni discriminación alguna;
+VIII. Coadyuvar en la difusión a través de diversos medios de comunicación, de los resultados del Sistema Nacional y del Programa que proporcione la Secretaría de las Mujeres;
 
-VIII. Difundir la cultura de respeto a los derechos humanos de las mujeres y promover que las instancias de procuración de justicia garanticen la integridad física de quienes denuncian;
+IX. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
 
-> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
-
-IX. Celebrar convenios de cooperación, coordinación y concertación en la materia;
-
-> <small>(ADICIONADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
-
-X. Participar en conjunto con la Secretaría de Seguridad Ciudadana, en la elaboración de los Lineamientos para la operación y funcionamiento del Registro Nacional;
-
-> <small>(ADICIONADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
-
-XI. Establecer indicadores respecto al funcionamiento, eficiencia y efectividad del Registro Nacional, considerando especialmente la trazabilidad de las medidas u órdenes de protección ordenadas por las autoridades administrativas y jurisdiccionales;
-
-> <small>(ADICIONADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
-
-XII. Dar seguimiento a los mecanismos de coordinación y atención a las solicitudes de medidas u órdenes de protección previstas en el artículo 44 de esta ley;
-
-> <small>(ADICIONADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
-
-XIII. Llevar a cabo la evaluación del Registro Nacional;
-
-> <small>(ADICIONADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
-
-XIV. Difundir información sobre el funcionamiento y aprovechamiento del Registro Nacional, y
-
-XV. Las demás previstas para el cumplimiento de la ley.
+X. Las demás previstas para el cumplimiento de la presente ley, en el ámbito de su competencia.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 13 DE ABRIL DE 2020)</small>
 
@@ -1953,9 +1983,9 @@ XXIII. Integrar registros públicos sistemáticos de los delitos cometidos en co
 
 XXIV. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres, adolescentes y niñas desaparecidas, para la investigación de los delitos de discriminación, feminicidio, trata de personas y contra la libertad y el normal desarrollo psicosexual;
 
-> <small>(REFORMADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-XXV. Crear, operar y fortalecer los Centros de Justicia para las Mujeres, conforme al Modelo de Gestión Operativa que para tal efecto emita la Secretaría de Gobernación;
+XXV. Crear, operar y fortalecer los Centros de Justicia para las Mujeres, conforme al Modelo de Gestión Operativa que para tal efecto emita la Secretaría de las Mujeres;
 
 > <small>(ADICIONADA, D.O.F. 16 DE DICIEMBRE DE 2024)</small>
 
@@ -2171,7 +2201,9 @@ VIII. Facilitar a las mujeres víctimas de violencia, así como a sus hijas e hi
 
 IX. Solicitar los mecanismos de financiamiento con recursos federales a través de los programas, estatales y municipales para mejorar el funcionamiento y equipamiento de sus instalaciones;
 
-X. Para su debido funcionamiento, los Centros de Justicia para las Mujeres deben contar con la certificación que determina la Secretaría de Gobernación;
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+X. Para su debido funcionamiento, los Centros de Justicia para las Mujeres deberán contar con la certificación que para tales efectos determine la Secretaría de las Mujeres;
 
 XI. Asegurar la aplicación de los ajustes de procedimiento para que las mujeres con discapacidad puedan ejercer efectivamente sus derechos;
 
@@ -2301,7 +2333,9 @@ VI. Elaborar la propuesta del ejercicio del presupuesto del Centro de Justicia p
 
 VII. Rendir a la persona titular del Poder Ejecutivo estatal y al Congreso de la entidad federativa, un informe anual sobre las actividades realizadas en el Centro de Justicia para las Mujeres, y
 
-VIII. Elaborar los protocolos o manuales para la operación del Centro de Justicia para las Mujeres, que deberá cumplir con los modelos de gestión operativa y atención emitidos por la Secretaría de Gobernación.
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+VIII. Elaborar los protocolos o manuales para la operación del Centro de Justicia para las Mujeres, que deberá cumplir con los modelos de gestión operativa y atención emitidos por la Secretaría de las Mujeres.
 
 > <small>(ADICIONADO, D.O.F. 8 DE MAYO DE 2023)</small>
 
@@ -2650,3 +2684,21 @@ Primero.- El presente Decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Las atribuciones señaladas en el presente Decreto conferidas a la Secretaría de las Mujeres entrarán en vigor hasta que la reforma a la Ley Orgánica de la Administración Pública Federal que crea dicha Secretaría surtan sus efectos legales y cobren vigencia.
 
 Tercero.- Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES; DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES; DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL; DE LA LEY GENERAL DE DESARROLLO SOCIAL; DE LA LEY GENERAL DE SALUD; DE LA LEY GENERAL DE EDUCACIÓN; DE LA LEY DEL SEGURO SOCIAL; DE LA LEY DE MIGRACIÓN; DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES; DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO; DE LA LEY DE PLANEACIÓN; DE LA LEY DE VIVIENDA; DE LA LEY FEDERAL DEL TRABAJO; DE LA LEY FEDERAL DEL DERECHO DE AUTOR; DE LA LEY FEDERAL DE PROTECCIÓN A LA PROPIEDAD INDUSTRIAL Y DE LA LEY GENERAL DE CULTURA Y DERECHOS CULTURALES".]
+
+Primero. El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Tercero. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
+
+Cuarto. Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
+
+Quinto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
+
+Sexto. Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
+
+Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
