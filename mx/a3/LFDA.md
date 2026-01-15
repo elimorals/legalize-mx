@@ -4,7 +4,7 @@ identifier: "LFDA"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-12-24"
-last_updated: "2025-11-14"
+last_updated: "2026-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9233&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFDA"
 
 LEY FEDERAL DEL DERECHO DE AUTOR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ENERO DE 2026.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 24 de diciembre de 1996.
 
@@ -53,6 +53,10 @@ La presente Ley, reglamentaria del artículo 28 constitucional, tiene por objeto
 Las disposiciones de esta Ley son de orden público, de interés social y de observancia general en todo el territorio nacional. Su aplicación administrativa corresponde al Ejecutivo Federal por conducto del Instituto Nacional del Derecho de Autor y, en los casos previstos por esta Ley, del Instituto Mexicano de la Propiedad Industrial.
 
 Para los efectos de esta Ley se entenderá por Instituto, al Instituto Nacional del Derecho de Autor.
+
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+Las autoridades promoverán la igualdad sustantiva y la participación equitativa de las mujeres en la creación y registro de obras protegidas por esta Ley, fomentando la eliminación de barreras administrativas que dificulten la participación de las mujeres.
 
 ###### Artículo 3o.
 
@@ -169,6 +173,10 @@ XIII. Obras de arte aplicado que incluyen el diseño gráfico o textil, y
 XIV. De compilación, integrada por las colecciones de obras, tales como las enciclopedias, las antologías, y de obras u otros elementos como las bases de datos, siempre que dichas colecciones, por su selección o la disposición de su contenido o materias, constituyan una creación intelectual.
 
 Las demás obras que por analogía puedan considerarse obras literarias o artísticas se incluirán en la rama que les sea más afín a su naturaleza.
+
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+Las autoridades implementarán acciones afirmativas para incentivar la participación de mujeres creadoras en todas las ramas mencionadas en el presente artículo, asegurando que se respete el principio de igualdad sustantiva entre mujeres y hombres.
 
 ###### Artículo 14.
 
@@ -623,6 +631,10 @@ Son aplicables a los contratos publicitarios las disposiciones del contrato de e
 La persona cuyo nombre o seudónimo, conocido o registrado, aparezca como autor de una obra, será considerada como tal, salvo prueba en contrario y, en consecuencia, se admitirán por los tribunales competentes las acciones que entable por transgresión a sus derechos.
 
 Respecto de las obras firmadas bajo seudónimo o cuyos autores no se hayan dado a conocer, las acciones para proteger el derecho corresponderán a la persona que las haga del conocimiento público con el consentimiento del autor, quien tendrá las responsabilidades de un gestor, hasta en cuanto el titular de los derechos no comparezca en el juicio respectivo, a no ser que existiera convenio previo en contrario.
+
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+Se promoverán acciones afirmativas para que las mujeres cuya obra sea firmada bajo seudónimo o no se haya dado a conocer, sean protegidas eliminando barreras administrativas y fomentando la igualdad sustantiva en el ejercicio de sus derechos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JULIO DE 2003)</small>
 
@@ -1472,6 +1484,10 @@ El Registro Público del Derecho de Autor tiene por objeto garantizar la segurid
 
 Las obras literarias y artísticas y los derechos conexos quedarán protegidos aun cuando no sean registrados.
 
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+El Registro podrá establecer acciones afirmativas para impulsar que más mujeres creadoras registren sus obras, eliminando barreras administrativas y fomentando la igualdad de oportunidades en el ejercicio de sus derechos.
+
 ###### Artículo 163.
 
 En el Registro Público del Derecho de Autor se podrán inscribir:
@@ -1908,9 +1924,9 @@ II. Promover la creación de obras literarias y artísticas;
 
 III. Llevar el Registro Público del Derecho de Autor;
 
-> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-IV. Mantener actualizado su acervo histórico;
+IV. Mantener actualizado su acervo histórico, incorporando información desagregada por género para identificar la participación de las mujeres en la creación de obras;
 
 > <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2020)</small>
 
@@ -2047,6 +2063,10 @@ V. Durante la junta de avenencia, el Instituto no podrá hacer determinación al
 VI. En caso de no lograrse la avenencia, el Instituto exhortará a las partes para que se acojan al arbitraje establecido en el Capítulo III de este Título;
 
 Las actuaciones dentro de este procedimiento tendrán el carácter de confidenciales y, por lo tanto, las constancias de las mismas sólo serán enteradas a las partes del conflicto o a las autoridades competentes que las soliciten.
+
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+Dicho procedimiento se llevará a cabo asegurando condiciones equitativas entre las partes, con perspectiva de género y enfoque interseccional.
 
 ### Capítulo III. Del Arbitraje
 
@@ -2717,3 +2737,21 @@ Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor 
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
 
 Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+
+D.O.F. 15 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES; DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES; DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL; DE LA LEY GENERAL DE DESARROLLO SOCIAL; DE LA LEY GENERAL DE SALUD; DE LA LEY GENERAL DE EDUCACIÓN; DE LA LEY DEL SEGURO SOCIAL; DE LA LEY DE MIGRACIÓN; DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES; DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO; DE LA LEY DE PLANEACIÓN; DE LA LEY DE VIVIENDA; DE LA LEY FEDERAL DEL TRABAJO; DE LA LEY FEDERAL DEL DERECHO DE AUTOR; DE LA LEY FEDERAL DE PROTECCIÓN A LA PROPIEDAD INDUSTRIAL Y DE LA LEY GENERAL DE CULTURA Y DERECHOS CULTURALES”.]
+
+Primero. El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Tercero. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
+
+Cuarto. Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
+
+Quinto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
+
+Sexto. Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
+
+Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
