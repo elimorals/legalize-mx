@@ -4,7 +4,7 @@ identifier: "LISSSTE"
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-31"
-last_updated: "2024-06-07"
+last_updated: "2026-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54892&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LISSSTE"
 
 LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ENERO DE 2026.
 
 Ley publicada en el Diario Oficial de la Federación, el sábado 31 de marzo de 2007.
 
@@ -272,7 +272,9 @@ El Instituto definirá los medios para integrar un expediente electrónico únic
 
 El expediente integrará todo lo relativo a vigencia de derechos, historial de cotización, situación jurídica, historia clínica, historia crediticia institucional, así como otros conceptos que se definan en el reglamento respectivo.
 
-Los datos y registros que se asienten en el expediente electrónico serán confidenciales y la revelación de los mismos a terceros, sin autorización expresa de las autoridades del Instituto y del Derechohabiente respectivo o sin causa legal que lo justifique, será sancionada en los términos de la legislación penal federal vigente.
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+Los datos y registros que se asienten en el expediente electrónico se harán de forma que puedan ser desagregados al menos por sexo, edad, pertenencia étnica, discapacidad o cualquier otra condición protegida, con el fin de poder generar una estadística para evaluar las brechas de género en los servicios que presta el Instituto y realizar las mejoras que permitan la consecución de la igualdad sustantiva, considerando las leyes aplicables en materia de protección de datos personales en posesión de sujetos obligados. Los datos recabados serán confidenciales y la revelación de los mismos a terceros, sin autorización expresa de las autoridades del Instituto y del Derechohabiente respectivo o sin causa legal que lo justifique, será sancionada en los términos de la legislación penal federal vigente.
 
 El personal autorizado para el manejo de la información contenida en el expediente electrónico, así como los Derechohabientes tendrán acceso a la información de sus expedientes mediante los mecanismos y normas que establezca el Instituto.
 
@@ -466,9 +468,9 @@ El Instituto desarrollará una función prestadora de servicios de salud, median
 
 El Instituto desarrollará también una función financiera de servicios de salud, que administrará este seguro, con base en un sistema de evaluación y seguimiento que calificará lo mencionado en el párrafo anterior, propondrá asignaciones presupuestarias por resultados y procurará su equilibrio financiero.
 
-> <small>(ADICIONADO, D.O.F. 29 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
-Por lo que para lograr lo descrito en el primer párrafo de este artículo el Instituto, implementará de forma periódica y programada las estrategias de capacitación y actualización entre otras: en materia de ética y protocolos que aseguren una atención digna y eficiente a los derechohabientes, con observancia del respeto a los derechos humanos, no discriminación e igualdad de género.
+Por lo que para lograr lo descrito en el primer párrafo de este artículo el Instituto, implementará de forma periódica y programada las estrategias de capacitación y actualización entre otras: en materia de ética y protocolos que aseguren una atención digna y eficiente a los derechohabientes, con observancia del respeto a los derechos humanos y la igualdad sustantiva entre mujeres y hombres.
 
 ###### Artículo 30.
 
@@ -637,6 +639,10 @@ II. A la capacitación y fomento para la lactancia materna y amamantamiento, inc
 III. Durante el período de lactancia tendrán derecho a decidir entre contar con dos reposos extraordinarios por día, de media hora cada uno, o bien, un descanso extraordinario por día, de una hora para amamantar a sus hijos o para realizar la extracción manual de leche, en lugar adecuado e higiénico que designe la institución o dependencia, y
 
 IV. Con cargo al seguro de salud, una canastilla de maternidad, al nacer el hijo, cuyo costo será señalado periódicamente por el Instituto, mediante acuerdo de la Junta Directiva.
+
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+Las prestaciones a las que se refiere este artículo deberán brindarse en condiciones de igualdad y sin discriminación de ningún tipo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE ENERO DE 2023)</small>
 
@@ -2288,7 +2294,9 @@ El Instituto tendrá las siguientes funciones:
 
 I. Cumplir con los programas aprobados para otorgar los seguros, prestaciones y servicios a su cargo;
 
-II. Emitir las resoluciones que reconozcan el derecho a las Pensiones;
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+II. Emitir las resoluciones con perspectiva de género que reconozcan el derecho a las Pensiones;
 
 III. Determinar, vigilar, recaudar y cobrar el importe de las Cuotas y Aportaciones, así como los demás recursos del Instituto, por lo que se refiere al seguro de retiro, cesantía en edad avanzada y vejez, el entero de las Cuotas y Aportaciones correspondientes, se realizará mediante los sistemas o programas informáticos que determine la Comisión Nacional del Sistema de Ahorro para el Retiro;
 
@@ -2860,8 +2868,6 @@ OCTAVO. Los Trabajadores que hubieran optado por el régimen del artículo déci
 
 NOVENO. El valor nominal de emisión expresado en unidades de inversión de los Bonos de Pensión del ISSSTE que se calculará a cada Trabajador será el que se determine conforme a la tabla siguiente:
 
-(VÉASE ARCHIVO ANEXO)
-
 Para determinar el monto de los Bonos de Pensión del ISSSTE en cada caso particular, se deberá multiplicar el numeral que corresponda en la tabla a los años de cotización y edad del Trabajador, por el Sueldo Básico, elevado al año y expresado en unidades de inversión, que estuviere percibiendo el Trabajador al último día del año anterior a que entre en vigor esta Ley.
 
 RÉGIMEN DE LOS TRABAJADORES QUE NO OPTEN POR EL BONO
@@ -3162,8 +3168,6 @@ El Banco de México tendrá a su cargo las funciones de custodia, administració
 
 VIGÉSIMO PRIMERO. Los Bonos de Pensión del ISSSTE podrán ser redimidos antes de su vencimiento, cuando el Gobierno Federal, por conducto de la Secretaría de Hacienda y Crédito Público, lo considere conveniente o cuando el Trabajador tenga derecho a pensionarse. En estos casos, el Trabajador recibirá la cantidad que representen sus Bonos de Pensión del ISSSTE a la fecha de redención anticipada conforme a la fórmula siguiente:
 
-(VÉASE ARCHIVO ANEXO)
-
 Donde:
 
 t = El día en el que se evalúa el valor de redención anticipada del Bono de Pensión del ISSSTE.
@@ -3180,8 +3184,6 @@ Esta fórmula utiliza los mismos supuestos de cálculo utilizados para determina
 
 De conformidad con la fórmula de pago anticipado, el valor de redención expresado en unidades de inversión de los Bonos de Pensión del ISSSTE a la fecha de su emisión será el siguiente:
 
-(VÉASE ARCHIVO ANEXO)
-
 Para determinar el monto de los Bonos de Pensión del ISSSTE en cada caso particular, se deberá multiplicar el numeral que corresponda en la tabla a los años de cotización y edad del Trabajador, por el Sueldo Básico mensual, elevado al año y expresado en unidades de inversión, que estuviere percibiendo el Trabajador al último día del año anterior a que entre en vigor esta Ley.
 
 A efecto de cumplir con las obligaciones generadas con los Trabajadores conforme a lo dispuesto en la presente Ley, se autoriza al Ejecutivo Federal, por conducto de la Secretaría de Hacienda y Crédito Público, a celebrar los actos jurídicos necesarios para emitir y pagar los Bonos de Pensión del ISSSTE, así como, en su caso, a contratar, ejercer, y autorizar créditos, empréstitos y otras formas del crédito público, incluso mediante la emisión de valores, para el financiamiento de las obligaciones del Gobierno Federal asociadas a esta Ley. Asimismo, se autoriza al Ejecutivo Federal por conducto de la Secretaría de Hacienda y Crédito Público para realizar los ajustes correspondientes en el Presupuesto de Egresos de la Federación a efecto de que se reconozca como gasto el mismo importe de las obligaciones a cargo del Gobierno Federal a que se refiere esta Ley.
@@ -3192,7 +3194,7 @@ El PENSIONISSSTE y, en su caso, las Administradoras, deberán incorporar en los 
 
 DEL PENSIONISSSTE
 
-VIGÉSIMO TERCERO. El Instituto dispondrá de un plazo de doce meses a partir de la vigencia de esta Ley, para que en el orden administrativo establezca lo necesario para la creación y el funcionamiento del PENSIONISSSTE debiendo proveer los recursos humanos, materiales y presupuestales que se requieran desde el inicio de operaciones del PENSIONISSSTE hasta que éste reciba recursos por concepto de comisiones.
+VIGÉSIMO TERCERO. El Instituto dispondrá de un plazo de doce meses a partir de la vigencia de esta Ley, para que en el orden administrativo establezca lo necesario para la creación y el funcionamiento del PENSIONISSSTE debiendo proveer los recursos humanos, materiales y presupuéstales que se requieran desde el inicio de operaciones del PENSIONISSSTE hasta que éste reciba recursos por concepto de comisiones.
 
 El Gobierno Federal deberá apoyar al Instituto, proveyendo los recursos necesarios, para el inicio de operaciones del PENSIONISSSTE.
 
@@ -3643,3 +3645,21 @@ D.O.F. 7 DE JUNIO DE 2024.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. El Instituto Mexicano del Seguro Social y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado deberán considerar el presente Decreto a fin de realizar los ajustes necesarios a sus disposiciones normativas.
+
+D.O.F. 15 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES; DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES; DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL; DE LA LEY GENERAL DE DESARROLLO SOCIAL; DE LA LEY GENERAL DE SALUD; DE LA LEY GENERAL DE EDUCACIÓN; DE LA LEY DEL SEGURO SOCIAL; DE LA LEY DE MIGRACIÓN; DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES; DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO; DE LA LEY DE PLANEACIÓN; DE LA LEY DE VIVIENDA; DE LA LEY FEDERAL DEL TRABAJO; DE LA LEY FEDERAL DEL DERECHO DE AUTOR; DE LA LEY FEDERAL DE PROTECCIÓN A LA PROPIEDAD INDUSTRIAL Y DE LA LEY GENERAL DE CULTURA Y DERECHOS CULTURALES”.]
+
+Primero. El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Tercero. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
+
+Cuarto. Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
+
+Quinto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
+
+Sexto. Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
+
+Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
