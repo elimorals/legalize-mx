@@ -4,7 +4,7 @@ identifier: "LFPPI"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2020-07-01"
-last_updated: "2025-11-14"
+last_updated: "2026-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143483&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPPI"
 
 LEY FEDERAL DE PROTECCIÓN A LA PROPIEDAD INDUSTRIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ENERO DE 2026.
 
 Ley publicada en la Primera Sección Vespertina del Diario Oficial de la Federación, el miércoles 1 de julio de 2020.
 
@@ -59,6 +59,10 @@ Su aplicación administrativa corresponde al Ejecutivo Federal por conducto del 
 Esta Ley tiene por objeto:
 
 I.- Proteger la propiedad industrial mediante la regulación y otorgamiento de patentes de invención; registros de modelos de utilidad, diseños industriales, esquemas de trazado de circuitos integrados, marcas y avisos comerciales; publicación de nombres comerciales; declaración de protección de denominaciones de origen e indicaciones geográficas;
+
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+Las autoridades competentes deberán garantizar la igualdad sustantiva entre mujeres y hombres, así como promover la participación efectiva de las mujeres en los procesos de creación, registro y ejercicio de derechos de propiedad industrial;
 
 II.- Regular los secretos industriales;
 
@@ -124,7 +128,9 @@ XIV.- Fungir como árbitro en la resolución de controversias relacionadas con l
 
 XV.- Publicar en la Gaceta los actos a los que se refiere esta Ley;
 
-XVI.- Difundir la información derivada de las patentes, registros, publicaciones, declaratorias, declaraciones, autorizaciones y cualquier otra relacionada con las leyes cuya aplicación le corresponde;
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+XVI.- Difundir la información derivada de las patentes, registros, publicaciones, declaratorias, declaraciones, autorizaciones y cualquier otra relacionada con las leyes cuya aplicación le corresponde, asegurando que sea accesible y se promueva la participación de mujeres y otros grupos en situación de vulnerabilidad o exclusión, en el uso y aprovechamiento de dicha información;
 
 XVII.- Establecer las reglas para la gestión de trámites a través de medios de comunicación electrónica;
 
@@ -140,11 +146,21 @@ b) La elaboración, actualización y difusión de directorios de personas físic
 
 c) La realización de concursos, certámenes o exposiciones y el otorgamiento de premios y reconocimientos que estimulen la actividad inventiva y la creatividad en el diseño y la presentación de productos;
 
-d) La difusión entre las personas, grupos, asociaciones o instituciones de investigación, enseñanza superior o de asistencia técnica, del conocimiento y alcance de las disposiciones de esta Ley, que faciliten sus actividades en la generación de invenciones y en su desarrollo industrial y comercial subsecuente, y
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
-e) La celebración de convenios de cooperación, coordinación y concertación, con los gobiernos de las entidades federativas, así como con instituciones públicas o privadas, nacionales o extranjeras, para promover y fomentar las invenciones y creaciones de aplicación industrial y comercial;
+d) La difusión entre las personas, grupos, asociaciones o instituciones de investigación, enseñanza superior o de asistencia técnica, del conocimiento y alcance de las disposiciones de esta Ley, que faciliten sus actividades en la generación de invenciones y en su desarrollo industrial y comercial subsecuente;
 
-XXI.- Participar en los programas de otorgamiento de estímulos y apoyos para la protección de la propiedad industrial, tendientes a la generación, desarrollo y aplicación de tecnología mexicana en la actividad económica, así como para mejorar sus niveles de productividad y competitividad;
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+e) La celebración de convenios de cooperación, coordinación y concertación, con los gobiernos de las entidades federativas, así como con instituciones públicas o privadas, nacionales o extranjeras, para promover y fomentar las invenciones y creaciones de aplicación industrial y comercial, y
+
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+f) El impulso de estrategias para promover la participación de las mujeres en programas de transferencia de tecnología y desarrollo industrial;
+
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+XXI.- Participar en los programas de otorgamiento de estímulos y apoyos para la protección de la propiedad industrial, tendientes a la generación, desarrollo y aplicación de tecnología mexicana en la actividad económica, así como para mejorar sus niveles de productividad y competitividad. Dichos programas deberán incorporar la perspectiva género y, atendiendo a su objeto, promover la participación de mujeres;
 
 XXII.- Formar y mantener actualizados los acervos sobre invenciones publicadas en el país;
 
@@ -166,7 +182,9 @@ XXX.- Realizar estudios sobre la situación de la propiedad industrial en el ám
 
 XXXI.- Actuar como órgano de consulta conforme a la competencia de las leyes cuya aplicación le corresponde de las distintas dependencias y entidades de la Administración Pública Federal, así como asesorar a instituciones sociales y privadas;
 
-XXXII.- Participar en la formación de recursos humanos especializados en las diversas disciplinas de la propiedad industrial, a través de la formulación y ejecución de programas y cursos de capacitación, enseñanza y especialización de personal profesional, técnico y auxiliar;
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+XXXII.- Participar en la formación de recursos humanos especializados en las diversas disciplinas de la propiedad industrial, a través de la formulación y ejecución de programas y cursos de capacitación, enseñanza y especialización de personal profesional, técnico y auxiliar, incorporando un enfoque de género que fomente la participación igualitaria de mujeres y hombres en dichas disciplinas;
 
 XXXIII.- Formular y ejecutar su programa institucional de operación, y
 
@@ -3731,3 +3749,21 @@ Tercero. Los procedimientos que se encuentren en trámite a la entrada en vigor 
 No procederá la acumulación de procesos cuando alguno de ellos se tramite conforme con el Código Nacional de Procedimientos Civiles y Familiares y el otro proceso conforme a un Código abrogado.
 
 Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigencia hasta en tanto no se abrogue la Ley Federal de Telecomunicaciones y Radiodifusión, de conformidad con lo previsto en el artículo Sexto Transitorio del Decreto por el que se expide la Ley en Materia de Telecomunicaciones y Radiodifusión y se abroga la Ley Federal de Telecomunicaciones y Radiodifusión, publicado en el Diario Oficial de la Federación el 16 de julio de 2025.
+
+D.O.F. 15 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES; DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES; DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL; DE LA LEY GENERAL DE DESARROLLO SOCIAL; DE LA LEY GENERAL DE SALUD; DE LA LEY GENERAL DE EDUCACIÓN; DE LA LEY DEL SEGURO SOCIAL; DE LA LEY DE MIGRACIÓN; DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES; DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO; DE LA LEY DE PLANEACIÓN; DE LA LEY DE VIVIENDA; DE LA LEY FEDERAL DEL TRABAJO; DE LA LEY FEDERAL DEL DERECHO DE AUTOR; DE LA LEY FEDERAL DE PROTECCIÓN A LA PROPIEDAD INDUSTRIAL Y DE LA LEY GENERAL DE CULTURA Y DERECHOS CULTURALES”.]
+
+Primero. El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Tercero. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
+
+Cuarto. Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
+
+Quinto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
+
+Sexto. Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
+
+Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
