@@ -4,7 +4,7 @@ identifier: "LPLAN"
 country: "mx"
 rank: "ley"
 publication_date: "1983-01-05"
-last_updated: "2023-05-08"
+last_updated: "2026-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=669&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LPLAN"
 
 LEY DE PLANEACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ENERO DE 2026.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 5 de enero de 1983.
 
@@ -94,9 +94,9 @@ V.- El fortalecimiento del pacto federal y del Municipio libre, para lograr un d
 
 VI.- El equilibrio de los factores de la producción, que proteja y promueva el empleo; en un marco de estabilidad económica y social;
 
-> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
 
-VII.- La perspectiva de género, para garantizar la igualdad de oportunidades entre mujeres y hombres, y promover el adelanto de las mujeres mediante el acceso equitativo a los bienes, recursos y beneficios del desarrollo, y
+VII.- La perspectiva de género, para garantizar la igualdad sustantiva entre mujeres y hombres, y promover el adelanto de las mujeres mediante el acceso equitativo a los bienes, recursos y beneficios del desarrollo, y
 
 > <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2012)</small>
 
@@ -140,29 +140,35 @@ El contenido de la Cuenta Pública Federal deberá relacionarse, en lo conducent
 
 El Presidente de la República, al enviar a la Cámara de Diputados las iniciativas de leyes de Ingresos y los proyectos de Presupuesto de Egresos, informará del contenido general de dichas iniciativas y proyectos y su vinculación con el Plan Nacional de Desarrollo y sus programas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### Artículo 8o.
 
-Los Secretarios de Estado al dar cuenta anualmente al Congreso de la Unión del estado que guardan sus respectivos ramos, informarán del avance y grado de cumplimiento de los objetivos y prioridades fijados en la planeación nacional que, por razón de su competencia, les correspondan y de los resultados de las acciones previstas.
+Las personas titulares de las Secretarías de Estado al dar cuenta anualmente al Congreso de la Unión del estado que guardan sus respectivos ramos, informarán del avance y grado de cumplimiento de los objetivos y prioridades fijados en la planeación nacional que, por razón de su competencia, les correspondan y de los resultados de las acciones previstas.
 
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
-Informarán también sobre el desarrollo y los resultados de la aplicación de los instrumentos de política económica, social, ambiental y cultural en función de dichos objetivos y prioridades, precisando el impacto específico y diferencial que generen en mujeres y hombres.
+Informarán también sobre el desarrollo y los resultados de la aplicación de los instrumentos de política económica, social, ambiental y cultural en función de dichos objetivos y prioridades, precisando el impacto específico y diferencial que generen en mujeres, hombres y grupos en situación de vulnerabilidad.
 
 En su caso, explicarán las desviaciones ocurridas y las medidas que se adopten para corregirlas.
 
 Los funcionarios a que alude el primer párrafo de este artículo y los Directores y Administradores de las entidades paraestatales que sean citados por cualquiera de las Cámaras para que informen cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades, señalarán las relaciones que hubiere entre el proyecto de Ley o negocio de que se trate y los objetivos de la planeación nacional, relativos a la dependencia o entidades a su cargo.
 
-> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### Artículo 9o.
 
-Las dependencias y entidades de la Administración Pública Federal deberán planear y conducir sus actividades con perspectiva intercultural y de género y con sujeción a los objetivos y prioridades de la planeación nacional de desarrollo, a fin de cumplir con la obligación del Estado de garantizar que éste sea equitativo, incluyente, integral, sustentable y sostenible.
+Las dependencias y entidades de la Administración Pública Federal deberán planear y conducir sus actividades con perspectiva intercultural, de género y de respeto a los derechos humanos, con la finalidad de impulsar la igualdad sustantiva y la inclusión de grupos en situación de vulnerabilidad, así como con sujeción a los objetivos y prioridades de la planeación nacional de desarrollo, a fin de cumplir con la obligación del Estado de garantizar que éste sea equitativo, incluyente, integral, sustentable y sostenible.
+
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 2018)</small>
 
 Para el caso de las entidades, los titulares de las Secretarías de Estado proveerán lo conducente en el ejercicio de las atribuciones que como coordinadores de sector les confiere la ley. Las entidades que no estuvieran agrupadas en un sector específico, se sujetarán a lo previsto por el artículo 7 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 2018)</small>
+
 El Ejecutivo Federal, a través de la Secretaría de Hacienda y Crédito Público, dará seguimiento a los avances de las dependencias y entidades de la Administración Pública Federal en el logro de los objetivos y metas del Plan y sus programas, con base en el Sistema de Evaluación del Desempeño previsto por la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+> <small>(REFORMADO, D.O.F. 16 DE FEBRERO DE 2018)</small>
 
 La Secretaría de Hacienda y Crédito Público publicará la información relacionada con el seguimiento a que se refiere el párrafo anterior, en el Portal de Transparencia Presupuestaria de la Secretaría de Hacienda y Crédito Público, en los términos previstos por la legislación en materia de transparencia y acceso a la información pública.
 
@@ -432,7 +438,9 @@ III.- Las estrategias para ejecutar las acciones que permitan lograr los objetiv
 
 IV.- Las líneas de acción que apoyen la implementación de las estrategias planteadas en cada programa indicando la dependencia o entidad responsable de su ejecución;
 
-V.- Los indicadores estratégicos que permitan dar seguimiento al logro de los objetivos del programa, y
+> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+
+V.- Los indicadores estratégicos que permitan dar seguimiento al logro de los objetivos del Programa, incluyendo aquellos que midan avances en la igualdad sustantiva entre mujeres y hombres, y
 
 VI.- Los demás que se establezcan en las disposiciones jurídicas aplicables.
 
@@ -534,9 +542,11 @@ El Ejecutivo Federal ordenará la publicación, en el Diario Oficial de la Feder
 
 ### CAPITULO SEXTO. Concertación e Inducción
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
+
 ###### Artículo 37.
 
-El Ejecutivo Federal, por sí o a través de sus dependencias, y las entidades paraestatales, podrán concertar la realización de las acciones previstas en el Plan y los programas, con las representaciones de los grupos sociales o con los particulares interesados.
+El Ejecutivo Federal, por sí o a través de sus dependencias, y las entidades paraestatales, podrán concertar la realización de las acciones previstas en el Plan y los programas, con las representaciones de los grupos sociales o con los particulares interesados, promoviendo la participación equilibrada de mujeres y hombres.
 
 > <small>(ADICIONADO, D.O.F. 13 DE JUNIO DE 2003)</small>
 
@@ -783,3 +793,21 @@ Vigésimo. Las legislaturas de las entidades federativas, en los términos de la
 Vigésimo Primero. Las entidades paraestatales reconocidas como Centros Públicos de Investigación con anterioridad a la entrada en vigor de este decreto conservarán esa calidad y deberán sujetarse a lo dispuesto en la presente Ley.
 
 Vigésimo Segundo. Los Centros Públicos sin estructura propia constituirán los órganos de gobierno, dirección, consulta y evaluación mencionados en la presente Ley, con apego a sus instrumentos de creación y la demás normativa que les resulte aplicable.
+
+D.O.F. 15 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES; DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES; DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL; DE LA LEY GENERAL DE DESARROLLO SOCIAL; DE LA LEY GENERAL DE SALUD; DE LA LEY GENERAL DE EDUCACIÓN; DE LA LEY DEL SEGURO SOCIAL; DE LA LEY DE MIGRACIÓN; DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES; DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO; DE LA LEY DE PLANEACIÓN; DE LA LEY DE VIVIENDA; DE LA LEY FEDERAL DEL TRABAJO; DE LA LEY FEDERAL DEL DERECHO DE AUTOR; DE LA LEY FEDERAL DE PROTECCIÓN A LA PROPIEDAD INDUSTRIAL Y DE LA LEY GENERAL DE CULTURA Y DERECHOS CULTURALES".]
+
+Primero. El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Tercero. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
+
+Cuarto. Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
+
+Quinto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
+
+Sexto. Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
+
+Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
