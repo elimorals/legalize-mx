@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "2025-02-21"
+last_updated: "2026-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ENERO DE 2026.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación, el miércoles 1 de abril de 1970.
 
@@ -46,25 +46,33 @@ LEY FEDERAL DEL TRABAJO
 
 La presente Ley es de observancia general en toda la República y rige las relaciones de trabajo comprendidas en el artículo 123, Apartado "A", de la Constitución.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### Artículo 2°.
 
-Las normas del trabajo tienden a conseguir el equilibrio entre los factores de la producción y la justicia social, así como propiciar el trabajo digno o decente en todas las relaciones laborales.
+Las normas del trabajo tienden a conseguir el equilibrio entre los factores de la producción y la justicia social, así como propiciar el trabajo digno o decente en todas las relaciones laborales, en un entorno libre de violencias y con respeto pleno a los derechos humanos.
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 Se entiende por trabajo digno o decente aquél en el que se respeta plenamente la dignidad humana del trabajador; no existe discriminación por origen étnico o nacional, género, edad, discapacidad, condición social, condiciones de salud, religión, condición migratoria, opiniones, preferencias sexuales o estado civil; se tiene acceso a la seguridad social y se percibe un salario remunerador; se recibe capacitación continua para el incremento de la productividad con beneficios compartidos, y se cuenta con condiciones óptimas de seguridad e higiene para prevenir riesgos de trabajo.
 
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
 El trabajo digno o decente también incluye el respeto irrestricto a los derechos colectivos de los trabajadores, tales como la libertad de asociación, autonomía, el derecho de huelga y de contratación colectiva.
+
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
 Se tutela la igualdad sustantiva o de hecho de trabajadores y trabajadoras frente al patrón.
 
+> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+
 La igualdad sustantiva es la que se logra eliminando la discriminación contra las mujeres que menoscaba o anula el reconocimiento, goce o ejercicio de sus derechos humanos y las libertades fundamentales en el ámbito laboral. Supone el acceso a las mismas oportunidades, considerando las diferencias biológicas, sociales y culturales de mujeres y hombres.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### Artículo 3°.
 
-El trabajo es un derecho y un deber social. No es artículo de comercio, y exige respeto para las libertades y dignidad de quien lo presta, así como el reconocimiento a las diferencias entre hombres y mujeres para obtener su igualdad ante la ley. Debe efectuarse en condiciones que aseguren la vida digna y la salud para las y los trabajadores y sus familiares dependientes.
+El trabajo es un derecho y un deber social. No es artículo de comercio, y exige respeto para las libertades y dignidad de quien lo presta, así como el reconocimiento a las diferencias entre hombres y mujeres para obtener su igualdad sustantiva ante la ley. Debe efectuarse en condiciones que aseguren la vida digna y la salud para las y los trabajadores y sus familiares dependientes, en un entorno laboral libre de discriminación y violencias.
 
 > <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -267,6 +275,14 @@ La Secretaría del Trabajo y Previsión Social expedirá las disposiciones de ca
 ###### Artículo 16.
 
 Para los efectos de las normas de trabajo, se entiende por empresa la unidad económica de producción o distribución de bienes o servicios y por establecimiento la unidad técnica que como sucursal, agencia u otra forma semejante, sea parte integrante y contribuya a la realización de los fines de la empresa.
+
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+En las empresas y establecimientos, tanto las personas trabajadoras como empleadoras deberán contribuir al mantenimiento de un entorno laboral libre de discriminación y violencias hacia las mujeres.
+
+> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+
+Las personas empleadoras capacitarán a su personal para prevenir y eliminar las violencias contra las mujeres.
 
 ###### Artículo 17.
 
@@ -894,11 +910,11 @@ Si en el juicio correspondiente no comprueba el patrón las causas de la termina
 
 ### CAPITULO I. Disposiciones Generales
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
 
 ###### Artículo 56.
 
-Las condiciones de trabajo basadas en el principio de igualdad sustantiva entre mujeres y hombres en ningún caso podrán ser inferiores a las fijadas en esta Ley y deberán ser proporcionales a la importancia de los servicios e iguales para trabajos iguales, sin que puedan establecerse diferencias y/o exclusiones por motivo de origen étnico o nacionalidad, sexo, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, condiciones de embarazo, responsabilidades familiares o estado civil, salvo las modalidades expresamente consignadas en esta Ley.
+Las condiciones de trabajo basadas en el principio de igualdad sustantiva entre mujeres y hombres en ningún caso podrán ser inferiores a las fijadas en esta Ley y deberán ser proporcionales a la importancia de los servicios e iguales para trabajos iguales, sin que puedan establecerse diferencias y/o exclusiones por motivo de origen étnico o nacionalidad, sexo, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, condiciones de embarazo, responsabilidades familiares o estado civil, salvo las modalidades expresamente consignadas en esta Ley, garantizando además un entorno libre de violencias y discriminación en todas sus formas.
 
 > <small>(ADICIONADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
 
@@ -16775,3 +16791,21 @@ En su caso, el Instituto del Fondo Nacional de la Vivienda para los Trabajadores
 Los desarrolladores o constructores y entidades administradoras de los proyectos contarán con un plazo de treinta días hábiles, contados a partir de la entrada en vigor del presente Decreto, para entregar al Instituto del Fondo Nacional de la Vivienda para los Trabajadores sin necesidad de resolución judicial las cantidades, intereses y penas convencionales que tuvieren en custodia, correspondientes a los créditos de las personas trabajadoras derechohabientes que hubieren adquirido un predio destinado a construcción dentro de alguno de los proyectos cuyas autorizaciones resulten canceladas.
 
 Las personas trabajadoras derechohabientes contarán con un plazo de noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, para transmitir al Instituto del Fondo Nacional de la Vivienda para los Trabajadores la propiedad de los inmuebles que hubieren adquirido con un crédito en línea tres, en los términos del presente transitorio.
+
+D.O.F. 15 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES; DE LA LEY GENERAL DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA; DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES; DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, REGLAMENTARIA DEL APARTADO B) DEL ARTÍCULO 123 CONSTITUCIONAL; DE LA LEY GENERAL DE DESARROLLO SOCIAL; DE LA LEY GENERAL DE SALUD; DE LA LEY GENERAL DE EDUCACIÓN; DE LA LEY DEL SEGURO SOCIAL; DE LA LEY DE MIGRACIÓN; DE LA LEY GENERAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES; DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO; DE LA LEY DE PLANEACIÓN; DE LA LEY DE VIVIENDA; DE LA LEY FEDERAL DEL TRABAJO; DE LA LEY FEDERAL DEL DERECHO DE AUTOR; DE LA LEY FEDERAL DE PROTECCIÓN A LA PROPIEDAD INDUSTRIAL Y DE LA LEY GENERAL DE CULTURA Y DERECHOS CULTURALES".]
+
+Primero. El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga la Ley del Instituto Nacional de las Mujeres, publicada en el Diario Oficial de la Federación el 12 de enero de 2001, así como todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Tercero. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, se entenderán referidas a la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias.
+
+Cuarto. Las autoridades competentes de la Federación, las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, deberán llevar a cabo las adecuaciones legislativas y reglamentarias correspondientes y, en su caso, suscribir los instrumentos necesarios para dar cumplimiento a lo dispuesto en el presente Decreto, en un plazo no mayor a 180 días hábiles.
+
+Quinto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal o subsecuentes.
+
+Sexto. Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
+
+Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
