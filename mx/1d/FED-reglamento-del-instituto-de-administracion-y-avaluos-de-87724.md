@@ -4,7 +4,7 @@ identifier: "FED-reglamento-del-instituto-de-administracion-y-avaluos-de-87724"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-05-14"
-last_updated: "2017-01-12"
+last_updated: "2026-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87724&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2012-05-09"
 ---
 # REGLAMENTO DEL INSTITUTO DE ADMINISTRACION Y AVALUOS DE BIENES NACIONALES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE ADMINISTRACIÓN Y AVALÚOS DE BIENES NACIONALES, PUBLICADO EN EL D.O.F. DE 16 DE ENERO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DEL INSTITUTO DE ADMINISTRACIÓN Y AVALÚOS DE BIENES NACIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ENERO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2026 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de mayo de 2012.
 
@@ -832,3 +834,21 @@ SEGUNDO.- En tanto se expidan las políticas, normas, acuerdos, lineamientos, pr
 TERCERO.- Los asuntos que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto serán resueltos por el servidor público o unidad administrativa que asume la competencia conforme al presente ordenamiento.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 16 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE EL REGLAMENTO INTERIOR DEL INSTITUTO DE ADMINISTRACIÓN Y AVALÚOS DE BIENES NACIONALES".]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento del Instituto de Administración y Avalúos de Bienes Nacionales, publicado en el Diario Oficial de la Federación el 14 de mayo de 2012, y reformado mediante decreto publicado en el Diario Oficial de la Federación el 12 de enero de 2017; asimismo, se derogan todas aquellas disposiciones normativas que se opongan al presente Reglamento.
+
+TERCERO.- En tanto la Secretaría y el Instituto, según proceda, expidan las normas, lineamientos, políticas, procedimientos, metodologías, criterios técnicos y demás disposiciones a que se refiere este Reglamento, se continuarán aplicando las disposiciones vigentes en lo que no se oponga al presente Reglamento.
+
+CUARTO.- Los asuntos pendientes de resolución a la entrada en vigor de este Reglamento, continuarán su trámite y serán resueltos por la unidad administrativa del Instituto que resulte competente conforme a este Reglamento y a las disposiciones jurídicas aplicables al momento de su presentación.
+
+QUINTO.- Las menciones que los reglamentos y demás disposiciones jurídicas hagan de las personas servidoras públicas o unidades administrativas cuya denominación, funciones o atribuciones se vean modificadas con motivo de la entrada en vigor del presente Reglamento, se entenderán referidas a las personas servidoras públicas o unidades administrativas que, conforme al mismo, sean competentes en la materia de que se trate.
+
+SEXTO.- El Instituto de Administración y Avalúos de Bienes Nacionales realizará las acciones necesarias para que la implementación de este Reglamento se realice con los recursos aprobados a dicho Instituto, por lo que no se requerirán recursos adicionales para tales efectos y no incrementará su presupuesto regularizable, para el presente ejercicio fiscal y los subsecuentes.
+
+SÉPTIMO.- La Unidad de Administración y Finanzas del Instituto realizará las acciones necesarias para que los recursos humanos, financieros y materiales asignados a las unidades administrativas que se modifican o desaparecen, sean transferidos a las unidades administrativas que correspondan en los términos de este ordenamiento y de conformidad con las normas aplicables y disponibilidad presupuestaria.
