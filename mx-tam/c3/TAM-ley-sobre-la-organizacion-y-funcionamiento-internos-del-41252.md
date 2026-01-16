@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2025-10-28"
+last_updated: "2026-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2026.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -1973,7 +1973,9 @@ En todos los casos la Presidencia de la Mesa Directiva instruirá las medidas qu
 
 2. En estas sesiones, el Congreso sólo se ocupará de los asuntos que motivaron la convocatoria, y si no los hubiere despachado el día en que deba abrirse el período ordinario de sesiones, cesarán las sesiones extraordinarias y los asuntos pendientes serán tratados en el período ordinario.
 
-3. Al emitir la convocatoria a una sesión extraordinaria, la Diputación Permanente cuidará hacerla del conocimiento de los miembros del Congreso, con un mínimo de 24 horas de anticipación a la hora señalada para su inicio. En todo caso, la convocatoria deberá publicarse en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2026)</small>
+
+3. Al emitir la convocatoria a una sesión extraordinaria, la Diputación Permanente cuidará hacerla del conocimiento de los miembros del Congreso, oportunamente. En todo caso, la convocatoria deberá publicarse en el Periódico Oficial del Estado.
 
 4. Al inicio de la sesión extraordinaria se dará lectura íntegra a la convocatoria, y el presidente de la Diputación Permanente presentará un informe sobre las razones que motivaron la emisión de la convocatoria.
 
@@ -2191,21 +2193,33 @@ Las minutas-proyecto de Decreto sobre adiciones y reformas a la Constitución Ge
 
 ###### ARTICULO 88.
 
-1. Para la presentación, discusión y votación de los dictámenes relacionados con minutas-proyecto de decreto sobre adiciones y reformas a la Constitución General de la República, se aplicarán en lo conducente las previsiones en materia de dictámenes, discusiones y votaciones aplicables al procedimiento legislativo ordinario.
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2026)</small>
+
+1. Para la presentación, discusión y votación de los dictámenes relacionados con minutas-proyecto de decreto sobre adiciones y reformas a la Constitución General de la República, se aplicarán en lo conducente las previsiones en materia de dictámenes, discusiones y votaciones aplicables al procedimiento legislativo ordinario, o en su caso de la Diputación Permanente.
 
 > <small>(REFORMADO, P.O. 21 DE NOVIEMBRE DE 2024)</small>
 
 2. La Junta de Gobierno podrá proponer modalidades específicas para la discusión de los dictámenes de minutas-proyecto de decreto sobre adiciones y reformas a la Constitución General de la República, propiciándose la expresión de las diversas formas de agrupación por afiliación partidista en torno al dictamen formulado, sin demérito de las y los Diputados que deseen hacer uso de la palabra en lo individual.
 
-3. La determinación del Pleno en torno a la minuta-proyecto de decreto sobre adiciones y reformas a la Constitución General de la República se expresará en un punto de Acuerdo, mismo que deberá publicarse en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2026)</small>
 
-4. El punto de acuerdo aprobado por el Pleno en torno a la minuta-proyecto de decreto sobre adiciones y reformas a la Constitución General de la República será comunicado a la cámara revisora del Congreso de la Unión dentro del procedimiento constitucional de adiciones y reformas a la Ley Fundamental de la República, así como a la Comisión Permanente del Congreso de la Unión, si se hubiere iniciado el periodo de receso.
+3. La determinación del Pleno o de la Diputación Permanente en torno a la minuta-proyecto de decreto sobre adiciones y reformas a la Constitución General de la República se expresará en un Punto de Acuerdo, mismo que deberá publicarse en el Periódico Oficial del Estado.
 
-5. Dicha comunicación deberá contener el texto del punto de acuerdo aprobado y su publicación en el Periódico Oficial del Estado, el dictamen formulado por las comisiones competentes, la versión estenográfica de la discusión que se hubiere suscitado y el señalamiento de la votación emitida con relación al dictamen de que se trate.
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2026)</small>
 
-6. La determinación que adopte el Pleno en torno a la minuta-proyecto de decreto sobre adiciones y reformas a la Constitución General de la República, también será comunicada a las Legislaturas de los Estados.
+4. El punto de acuerdo aprobado por el Pleno o de la Diputación Permanente en torno a la minuta-proyecto de decreto sobre adiciones y reformas a la Constitución General de la República será comunicado a la cámara revisora del Congreso de la Unión dentro del procedimiento constitucional de adiciones y reformas a la Ley Fundamental de la República, así como a la Comisión Permanente del Congreso de la Unión, si se hubiere iniciado el periodo de receso.
 
-7. Independientemente del sentido de la determinación del Pleno en torno a cada minuta-proyecto de decreto sobre adiciones y reformas a la Constitución General de la República, cuando el Congreso de la Unión o la Comisión Permanente del mismo realicen el cómputo y la declaración a que se refiere el párrafo 2 del artículo 135 de la Constitución Política de los Estados Unidos Mexicanos, el presidente de la Mesa Directiva o de la Diputación Permanente, en su caso, comunicará a los Poderes Ejecutivo y Judicial, al Instituto Estatal Electoral, al Tribunal Estatal Electoral, a la Comisión de Derechos Humanos del Estado y a los Ayuntamientos del mismo, la emisión de la declaración de haber sido aprobada la adición o reforma correspondiente.
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2026)</small>
+
+5. Dicha comunicación deberá contener el texto del punto de acuerdo aprobado y su publicación en el Periódico Oficial del Estado, el dictamen formulado por las comisiones competentes, o la Diputación Permanente, la versión estenográfica de la discusión que se hubiere suscitado y el señalamiento de la votación emitida con relación al dictamen de que se trate.
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2026)</small>
+
+6. La determinación que adopte el Pleno o la Diputación Permanente en torno a la minuta-proyecto de decreto sobre adiciones y reformas a la Constitución General de la República, también será comunicada a las Legislaturas de los Estados.
+
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2026)</small>
+
+7. Independientemente del sentido de la determinación del Pleno o la Diputación Permanente en torno a cada minuta-proyecto de decreto sobre adiciones y reformas a la Constitución General de la República, cuando el Congreso de la Unión o la Comisión Permanente del mismo realicen el cómputo y la declaración a que se refiere el párrafo 2 del artículo 135 de la Constitución Política de los Estados Unidos Mexicanos, el presidente de la Mesa Directiva o de la Diputación Permanente, en su caso, comunicará a los Poderes Ejecutivo y Judicial, al Instituto Estatal Electoral, al Tribunal Estatal Electoral, a la Comisión de Derechos Humanos del Estado y a los Ayuntamientos del mismo, la emisión de la declaración de haber sido aprobada la adición o reforma correspondiente.
 
 #### SECCION TERCERA. DEL PROCEDIMIENTO DE ADICIONES Y REFORMAS A LA CONSTITUCION POLITICA DEL ESTADO
 
@@ -4376,3 +4390,11 @@ P.O. 28 DE OCTUBRE DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su expedición y deberá publicarse en el Periódico Oficial de (sic) Estado.
+
+P.O. 16 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 66-948 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS Y DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su Publicación en el Periódico Oficial del Estado, con excepción de las reformas efectuadas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas, las cuáles surtirán efectos a partir de su expedición.
