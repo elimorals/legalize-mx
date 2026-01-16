@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-ejecutivo-del-estado-de-nayarit-23403"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-21"
-last_updated: "2025-12-26"
+last_updated: "2026-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el jueves 21 de diciembre del 2000.
 
@@ -355,9 +355,7 @@ IX. Secretaría de Turismo;
 
 X. Secretaría de Salud;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
-
-XI. Secretaría de Bienestar e Igualdad Sustantiva;
+XI. (DEROGADA, P.O. 16 DE ENERO DE 2026)
 
 > <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
 
@@ -571,7 +569,9 @@ IX.- Elaborar y mantener actualizado el padrón estatal de contribuyentes, así 
 
 X.- Elaborar, integrar, controlar, verificar y mantener actualizados los registros y padrones que conforme a las disposiciones legales, convenios y sus anexos, le correspondan;
 
-XI.- Autorizar, vigilar y evaluar, de conformidad con las leyes respectivas, el ejercicio del gasto público y del presupuesto de egresos del Estado;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2026)</small>
+
+XI.- Tramitar, registrar, y evaluar, de conformidad con las leyes respectivas, el ejercicio del gasto público y del presupuesto de egresos del Estado;
 
 XII.- Hacer glosa preventiva de los ingresos y egresos del Gobierno del Estado;
 
@@ -1985,105 +1985,7 @@ XVIII. Asesorar a los Ayuntamientos de la entidad en materia de salud pública; 
 
 XIX. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2019)</small>
-
-Artículo 40 A. A la Secretaría de Bienestar e Igualdad Sustantiva corresponden las siguientes atribuciones:
-
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
-
-I. Promover, conducir y evaluar la política estatal de desarrollo social, así como los programas y acciones para el combate efectivo a la pobreza, la atención especial a grupos vulnerables y, en general, la superación de las desigualdades sociales;
-
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
-
-II. Participar en la formulación de las políticas públicas estatales, programas y acciones para alcanzar el bienestar y la igualdad sustantiva;
-
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
-
-III. Fortalecer el bienestar, el desarrollo, la inclusión y la cohesión social mediante la instrumentación, coordinación, supervisión y seguimiento de las políticas públicas en materia de desarrollo social que se implementen en el Estado;
-
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
-
-IV. Participar en la ejecución y supervisión de los programas sociales que el Gobierno Federal desarrolle en el Estado, de conformidad con los convenios de coordinación que para tal efecto se suscriban, en coordinación con la Secretaría de Desarrollo Sustentable;
-
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
-
-V. Impulsar políticas públicas en materia de asistencia social e integración familiar, en coordinación con los Sistemas para el Desarrollo Integral de la Familia, de conformidad con la legislación aplicable;
-
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
-
-VI. Promover e impulsar la construcción de obras de infraestructura y equipamiento para fortalecer el desarrollo e inclusión social de la Entidad;
-
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
-
-VII. Coordinar las acciones que incidan en el bienestar de la población, el combate a la pobreza y el desarrollo humano, fomentando un mejor nivel de vida;
-
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
-
-VIII. Fomentar las actividades de las organizaciones de la sociedad civil en materia de bienestar, combate a pobreza y desarrollo humano;
-
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
-
-IX. Coordinar, concretar y ejecutar programas especiales para la atención de los sectores sociales más desprotegidos, a fin de elevar el nivel de vida de la población, con la intervención del gobierno federal y municipal, y con la participación de los sectores social y privado;
-
-X. (DEROGADA, P.O. 18 DE ENERO DE 2021)
-
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
-
-XI. Participar en la coordinación e instrumentación de las políticas de desarrollo rural para elevar el nivel de bienestar de las familias, comunidades y ejidos;
-
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
-
-XII. Coadyuvar en el diseño e implementación de políticas públicas orientadas a fomentar la productividad, la economía social y el empleo en el ámbito rural y evitar su migración a las áreas urbanas;
-
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
-
-XIII. Participar en la planeación, formulación y aplicación de programas de desarrollo regional, de conformidad con la legislación aplicable;
-
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
-
-XIV. Fomentar las políticas públicas y dar seguimiento a los programas que garanticen la plenitud de los derechos de las personas con discapacidad;
-
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
-
-XV. Promover y ejecutar acciones tendientes a propiciar la igualdad sustantiva en la vida política, económica, social y cultural en el Estado;
-
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
-
-XVI. Generar políticas y programas para la atención de personas con índices de mayor marginalidad en el Estado;
-
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
-
-XVII. Instrumentar y dar seguimiento a los programas de inclusión social y protección de los derechos de niñas, niños y adolescentes;
-
-XVIII. (DEROGADA, P.O. 18 DE ENERO DE 2021)
-
-XIX. (DEROGADA, P.O. 18 DE ENERO DE 2021)
-
-XX. (DEROGADA, P.O. 18 DE ENERO DE 2021)
-
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
-
-XXI. Impulsar las políticas públicas y dar seguimiento a los programas de inclusión y atención de los adultos mayores y sus derechos;
-
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
-
-XXII. Formular y conducir la política de fomento y desarrollo del sector social de la economía;
-
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
-
-XXIII. Impulsar la igualdad de oportunidades de los grupos sociales vulnerables, para el acceso a los servicios de salud, educación, trabajo, vivienda digna y a los servicios públicos básicos;
-
-XXIV. (DEROGADA, P.O. 18 DE ENERO DE 2021)
-
-XXV. (DEROGADA, P.O. 18 DE ENERO DE 2021)
-
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
-
-XXVI. Integrar, mantener y actualizar un sistema de información con los padrones de beneficiarios de programas sociales de la Entidad, así como evitar duplicidades, y
-
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2019)</small>
-
-XXVII. Las demás que le encomienden expresamente las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
+Artículo 40 A. (DEROGADO, P.O. 16 DE ENERO DE 2026)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2019)</small>
 
@@ -3010,3 +2912,31 @@ PRIMERO. El presente Decreto entrará en vigor a partir de su publicación en el
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
 
 TERCERO. El Poder Ejecutivo del Estado de Nayarit en un plazo no mayor a treinta días naturales contados a partir de la entrada en vigor del presente Decreto deberá realizar las reformas y adecuaciones al marco normativo que resulten necesarias, a fin de armonizarlos al presente Decreto.
+
+P.O. 16 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, atendiendo a las disposiciones y salvedades previstas en las disposiciones transitorias siguientes.
+
+Segundo. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+Tercero. La Secretaría de Bienestar e Igualdad Sustantiva quedará formalmente suprimida del ámbito de la Administración Pública Centralizada el 31 de enero de 2026.
+
+En aquellas leyes, decretos, acuerdos y demás disposiciones normativas, administrativas, de planeación o programación o en cualquier otro instrumento jurídico que haga referencia a la Secretaría de Bienestar e Igualdad Sustantiva que se suprime mediante el presente Decreto, se deberá entender que se refiere al Sistema para el Desarrollo Integral de la Familia del Estado de Nayarit (DIF Estatal).
+
+Cuarto. Se establece un plazo de ciento veinte días naturales, a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones, actualizaciones o modificaciones normativas a las disposiciones jurídicas correspondientes, de conformidad con lo establecido en este instrumento.
+
+Quinto. A partir de la entrada en vigor del presente Decreto, la Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado y la Secretaría de Desarrollo Sustentable en el ámbito de sus respectivas competencias, deberán realizar las adecuaciones presupuestales y programáticas necesarias derivadas de la supresión de la Secretaría de Bienestar e Igualdad Sustantiva, a favor del Sistema para el Desarrollo Integral de la Familia del Estado de Nayarit (DIF Estatal).
+
+En lo que respecta a los recursos financieros asociados a los programas y servicios sociales que venía operando la Secretaría de Bienestar e Igualdad Sustantiva, éstos serán transferidos íntegramente al Sistema para el Desarrollo Integral de la Familia del Estado de Nayarit (DIF Estatal), con el objeto de fortalecer y, en su caso, ampliar los programas y acciones de asistencia social ya existentes en dicho organismo.
+
+Asimismo, deberán realizarse los ajustes presupuestales y organizacionales en la estructura interna que en su caso sean necesarios dentro del Sistema para el Desarrollo Integral de la Familia del Estado de Nayarit (DIF Estatal), en función de la cantidad de plazas que se tienen presupuestadas para la Secretaría de Bienestar e Igualdad Sustantiva que se suprime.
+
+Sexto. La Secretaría de Administración y Finanzas y la Secretaría para la Honestidad y Buena Gobernanza, en el ámbito de sus respectivas competencias, resolverán los aspectos administrativos y de control interno no contemplados en el presente Decreto, previa opinión de las dependencias y entidades involucradas.
+
+Séptimo. Los recursos, documentales, financieros y materiales con que cuenten las unidades administrativas de la Secretaría de Bienestar e Igualdad Sustantiva serán transferidos y formarán parte del Sistema para el Desarrollo Integral de la Familia del Estado de Nayarit (DIF Estatal).
+
+Octavo. Una vez quede suprimida la Secretaría de Bienestar e Igualdad Sustantiva en los términos del Transitorio Tercero del presente Decreto, en el caso de los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes que aquella haya celebrado y que continúen vigentes, se entenderán y obligarán en sus términos al Sistema para el Desarrollo Integral de la Familia del Estado de Nayarit (DIF Estatal), según corresponda, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente, conforme a lo establecido por la legislación aplicable.
+
+Noveno. En lo que respecta a las relaciones laborales del personal de confianza de la Secretaría de Bienestar e Igualdad Sustantiva, en virtud de lo dispuesto en el presente Decreto, la Secretaría de Administración y Finanzas deberá darlas por terminadas en los términos que disponga la Ley de Derechos y Justicia Laboral para los Trabajadores al Servicio del Estado de Nayarit. En lo que refiere a las relaciones laborales del personal basificado se respetarán en términos de la ley.
