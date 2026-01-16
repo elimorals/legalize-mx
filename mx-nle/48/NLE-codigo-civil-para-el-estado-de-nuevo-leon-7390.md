@@ -4,7 +4,7 @@ identifier: "NLE-codigo-civil-para-el-estado-de-nuevo-leon-7390"
 country: "mx"
 rank: "codigo"
 publication_date: "1935-07-06"
-last_updated: "2025-10-03"
+last_updated: "2026-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el sábado 6 de julio de 1935.
 
@@ -10861,6 +10861,72 @@ No es lícito renunciar para lo futuro la nulidad que resulte del dolo o de la v
 
 Si habiendo cesado la violencia o siendo conocido el dolo, el que sufrió la violencia o padeció el engaño ratifica el contrato, no puede en lo sucesivo reclamar por semejantes vicios.
 
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2026)</small>
+
+###### Art. 1720 Bis.
+
+Se considera como preventa de compra inmobiliaria el ofrecimiento de compra de un bien inmueble respecto del cual, al momento del ofrecimiento, el titular del futuro bien inmueble no se encuentra en posibilidad jurídica de transmitir la propiedad por estar en proceso de construcción, urbanización o desarrollo, conforme a la ley en materia de desarrollo urbano y no contar con la autorización de ventas respectiva.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2026)</small>
+
+###### Art. 1720 Bis 1.
+
+El documento en que conste la preventa de compra inmobiliaria deberá contener al menos lo siguiente:
+
+I. Nombre y domicilio del oferente;
+
+II. Datos de una cuenta bancaria del oferente;
+
+III. Nombre y domicilio del destinatario de la oferta;
+
+IV. Datos de una cuenta bancaria del destinatario;
+
+V. Los datos de identificación del bien inmueble materia del ofrecimiento;
+
+VI. La fecha en que se emite la oferta;
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2026)</small>
+
+###### Art. 1720 Bis 2.
+
+El destinatario de la preventa de compra inmobiliaria no podrá recibir una oferta cuando no sea el titular de la licencia de construcción, vigente, para el desarrollo o construcción del inmueble materia de la oferta, conforme a la ley en materia de desarrollo urbano; a no ser que se encuentre expresamente facultado por el titular de la licencia, debiendo constar dicha facultad por escrito ratificado ante notario público.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2026)</small>
+
+###### Art. 1720 Bis 3.
+
+Recibida una preventa de compra inmobiliaria, el destinatario de la oferta tendrá un plazo máximo de tres meses a partir de su recepción para notificar su aceptación. Vencido el plazo anterior sin que la oferta sea aceptada, se entenderá rechazada.
+
+La aceptación de la preventa de compra inmobiliaria en ningún caso se considerará como una compraventa.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2026)</small>
+
+###### Art. 1720 Bis 4.
+
+Cuando el oferente realice la entrega de un numerario, como depósito, garantía o por cualquier otro concepto, y éste sea recibido por el destinatario de la oferta, la oferta se tendrá por aceptada.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2026)</small>
+
+###### Art. 1720 Bis 5.
+
+Una vez aceptada una preventa de compra inmobiliaria, el destinatario de la oferta deberá informar al oferente en caso de que ocurra alguno de los siguientes supuestos:
+
+I. En caso de vencimiento de la vigencia de la licencia de construcción o sus prórrogas.
+
+II. En caso de que se niegue la autorización del proyecto (sic) ventas, de conformidad con la ley en materia de desarrollo urbano.
+
+En estos casos, el oferente podrá revocar la oferta y el destinatario de la oferta quedará obligado a devolver al oferente el numerario que le haya sido entregado con motivo de la oferta, debiendo pagar un interés, legal o convencional, que no podrá ser menor al establecido en el artículo 2289 de este Código. Este derecho no podrá ser objeto de renuncia anticipada por parte del oferente.
+
+La devolución del numerario deberá ser realizada en un plazo máximo de sesenta días naturales posteriores a la fecha en que sea revocada la oferta, debiendo otorgar el oferente las facilidades respectivas para la devolución.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2026)</small>
+
+###### Art. 1720 Bis 6.
+
+En la preventa de compra inmobiliaria se podrán establecer sanciones en caso de que el oferente incumpla con la entrega de numerario o cualquier otra obligación establecida en el documento de la oferta. Asimismo, se podrán establecer sanciones para el caso de que la oferta sea revocada por causas imputables al destinatario de la oferta. Las sanciones solamente serán exigibles en caso de que la oferta sea aceptada.
+
+Cuando el documento de la oferta establezca la obligación de la entrega de numerario y el oferente incumpla, se podrá establecer la sanción consistentemente en la revocación inmediata de la oferta, sin necesidad de declaratoria judicial.
+
 DEL OBJETO Y DEL MOTIVO O FIN DE LOS CONTRATOS
 
 ###### Art. 1721.
@@ -18086,3 +18152,11 @@ P.O. 3 DE OCTUBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 124. SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 46, EL SEGUNDO PÁRRAFO DE LA FRACCIÓN IV Y LAS FRACCIONES VII Y VIII DEL ARTÍCULO 94; SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO AL ARTÍCULO 46, UN TERCER PÁRRAFO A LA FRACCIÓN IV Y UNA FRACCIÓN IX AL ARTÍCULO 94, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 178. SE ADICIONAN LOS ARTÍCULOS 1720 BIS, 1720 BIS 1, 1720 BIS 2, 1720 BIS 3, 1720 BIS 4, 1720 BIS 5 Y 1720 BIS 6, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente decreto entrará en vigor a los 60 días naturales siguientes al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El presente decreto no será aplicable a las preventas de compra inmobiliaria realizadas con anterioridad a la entrada en vigor del mismo.
