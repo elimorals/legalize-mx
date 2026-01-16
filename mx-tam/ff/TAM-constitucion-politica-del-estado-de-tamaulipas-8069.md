@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2025-11-21"
+last_updated: "2026-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -1619,13 +1619,17 @@ XI.- Ejercer, en su caso, las facultades que al Congreso concede la fracción XV
 
 XII.- Conocer y resolver sobre solicitud de licencia (sic) que le sean presentadas por las y los legisladores;
 
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2026)</small>
+
+XIII.- Turnar a la Auditoría Superior del Estado las cuentas públicas que reciba, para su revisión;
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2026)</small>
+
+XIV.- Conocer y resolver en definitiva sobre las minutas-proyecto de decreto de adiciones y reformas a la Constitución General de la República, en los términos que establezca la Ley interna del Congreso; y
+
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
-XIII.- Turnar a la Auditoría Superior del Estado las cuentas públicas que reciba, para su revisión; y
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
-
-XIV.- Las demás que le confieran las leyes.
+XV.- Las demás que le confieran las leyes.
 
 ###### Art. 63.
 
@@ -6040,3 +6044,11 @@ A partir de la entrada en vigor del presente Decreto los órganos constitucional
 ###### ARTÍCULO SEXTO.
 
 Se derogan todas las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 16 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-948 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS Y DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su Publicación en el Periódico Oficial del Estado, con excepción de las reformas efectuadas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas, las cuáles surtirán efectos a partir de su expedición.
