@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1808
 country: "mx"
 rank: "ley"
 publication_date: "2025-07-10"
-last_updated: "2025-11-25"
+last_updated: "2026-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180865&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2026.
 
 Ley publicada en el Número 83 del Periódico Oficial del Estado de Tamaulipas, el jueves 10 de julio de 2025.
 
@@ -2255,6 +2255,18 @@ Se suspenden por un plazo de noventa días naturales contados a partir de la ent
 
 En tanto inicie funciones el órgano de control y disciplina del Poder Judicial, las atribuciones conferidas a la autoridad garante se efectuarán por el órgano encargado del control interno en dicho Poder.
 
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2026)</small>
+
+###### ARTÍCULO DÉCIMO OCTAVO.
+
+La Secretaría Anticorrupción y Buen Gobierno del Estado de Tamaulipas, a través de las unidades administrativas correspondientes, deberá realizar las acciones legales, administrativas, fiscales y otras de naturaleza análoga que resulten necesarias para concluir el proceso de liquidación del Instituto de Transparencia de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2026)</small>
+
+###### ARTÍCULO DÉCIMO NOVENO.
+
+La Secretaría Anticorrupción y Buen Gobierno del Estado de Tamaulipas, a través de su Dirección Administrativa dará cumplimiento a las obligaciones fiscales que se encuentren pendientes por cubrir ante el Servicio de Administración Tributaria de la Secretaría de Hacienda y Crédito Público y posteriormente se llevará a cabo el proceso de baja y/o cancelación del Registro Federal de Contribuyentes del Instituto de Transparencia de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas.
+
 SALÓN DE SESIONES DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS.- Cd. Victoria, Tam., a 08 de julio del año 2025.- DIPUTADO PRESIDENTE.- FRANCISCO HERNÁNDEZ NIÑO.- Rúbrica.- DIPUTADA SECRETARIA.- ANA LAURA HUERTA VALDOVINOS.- Rúbrica.- DIPUTADA SECRETARIA.- PATRICIA MIREYA SALDÍVAR CANO.- Rúbrica.”
 
 Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
@@ -2268,6 +2280,14 @@ ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAUL
 P.O. 25 DE NOVIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-536 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN V DEL PÁRRAFO PRIMERO, DEL ARTÍCULO 24 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-950 MEDIANTE EL CUAL SE ADICIONAN LOS ARTÍCULOS DÉCIMO OCTAVO Y DÉCIMO NOVENO TRANSITORIOS AL DECRETO NO. 66-368, EXPEDIDO POR LA LEGISLATURA 66 CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO NÚMERO 83, DE FECHA 10 DE JULIO DE 2025”.]
 
 ###### ARTÍCULO ÚNICO.
 
