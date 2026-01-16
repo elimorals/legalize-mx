@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-obra-publica-del-estado-de-nayarit-11592"
 country: "mx"
 rank: "ley"
 publication_date: "1995-04-19"
-last_updated: "2019-06-05"
+last_updated: "2026-01-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,13 @@ state: "NAY"
 ---
 # LEY DE OBRA PUBLICA DEL ESTADO DE NAYARIT
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE NAYARIT, PUBLICADA EN EL P.O. DE 16 DE ENERO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY DE OBRA PÚBLICA DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2019
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2026 (ABROGADA).
 
-Ley Publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit el Miércoles 19 de Abril de 1995.
+Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit el Miércoles 19 de Abril de 1995.
 
 Al margen un Sello con el Estado Nacional que dice:
 
@@ -1282,3 +1282,21 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las Secretarías de Administración y Finanzas, Contraloría General y Obras Públicas del Estado realizarán cada año una evaluación para determinar el incremento de la cobertura de la participación de los testigos sociales a que se refieren los artículos 20 Bis y 35 en su último párrafo de la Ley de Obra Pública del Estado de Nayarit, estas Secretarías instrumentarán medidas con el propósito de ampliar dicha cobertura para garantizar, en un plazo de cinco años a partir de la entrada en vigor del presente Decreto, la cobertura total de testigos sociales en la contratación pública.
 
 TERCERO.- Las reglamentaciones correspondientes especificarán los montos de la contraprestación al testigo social a las que hace referencia el último párrafo del artículo 20 Bis, en un plazo no mayor a noventa días.
+
+P.O. 16 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY DE OBRA PÚBLICA DEL ESTADO DE NAYARIT".]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se abroga la Ley de Obra Pública del Estado de Nayarit, publicada en el Periódico Oficial Órgano del Gobierno del Estado de Nayarit, el día 19 de abril de 1995.
+
+TERCERO. El titular del Poder Ejecutivo deberá expedir el Reglamento correspondiente de la Ley de Obra Pública del Estado de Nayarit, dentro de los ciento ochenta días siguientes, a la entrada en vigor de la presente norma.
+
+CUARTO. El sistema Informático que administra el Registro Único de Contratistas deberá instaurarse dentro de los noventa días siguientes a la entrada en vigor de la presente Ley.
+
+QUINTO. La Secretaría de Infraestructura en el marco de sus atribuciones deberá hacer las previsiones presupuestales necesarias para la operación del Sistema Informático del Registro Único de Contratistas.
+
+SEXTO. Los procedimientos y recursos administrativos que se encuentren en trámite a la entrada en vigor de esta Ley se substanciarán de conformidad a las disposiciones legales anteriores a la misma.
+
+SÉPTIMO. Se derogan todas aquellas disposiciones normativas que contravengan lo dispuesto en la presente Ley.
