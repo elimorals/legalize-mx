@@ -4,7 +4,7 @@ identifier: "NAY-ley-sobre-el-sistema-estatal-de-asistencia-social-del-14560"
 country: "mx"
 rank: "ley"
 publication_date: "1986-11-01"
-last_updated: "2025-09-15"
+last_updated: "2026-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2026.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Nayarit, el sábado 1 de noviembre de 1986.
 
@@ -235,7 +235,9 @@ Cuando en esta Ley se haga mención al Organismo, se entenderá hecha al Sistema
 
 El Organismo, para el logro de sus objetivos, realizará las siguientes funciones:
 
-I.- Promover y prestar servicios de Asistencia Social;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2026)</small>
+
+I.- Promover, conducir, prestar y evaluar la política estatal de desarrollo social y los servicios de asistencia social, así como los programas y acciones para alcanzar el bienestar y la igualdad sustantiva;
 
 II.- Apoyar el desarrollo de la familia y de la comunidad;
 
@@ -243,47 +245,75 @@ II.- Apoyar el desarrollo de la familia y de la comunidad;
 
 III.- Realizar acciones de apoyo educativo, para la integración social y de capacitación para el trabajo a las personas sujetas de la asistencia social;
 
-IV.- Promover e impulsar el sano crecimiento físico, mental y social de la niñez;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2026)</small>
+
+IV.- Promover e impulsar el sano crecimiento físico, mental y social de niñas, niños y adolescentes, así como instrumentar y dar seguimiento a los programas para su inclusión social y la protección de sus derechos;
 
 V.- Coordinar las funciones relacionadas con la beneficencia pública y la asistencia privada en el Estado, así como proponer programas de asistencia social que contribuyan al uso eficiente de los bienes que lo componen;
 
 VI.- Fomentar, apoyar, coordinar y evaluar las actividades que lleven a cabo las instituciones de asistencia o asociaciones civiles y todo tipo de entidades privadas cuyo objeto sea la prestación de servicios de asistencia social, sin perjuicio de las atribuciones que al efecto correspondan a otras dependencias;
 
-> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2026)</small>
 
-VII.- Operar establecimientos de asistencia social en beneficio de menores en estado de abandono o desprotección, personas adultas mayores en situación de abandono o vulnerabilidad, y de personas con discapacidad que carezcan de recursos;
+VII.- Operar establecimientos de asistencia social para la atención y protección de niñas, niños y adolescentes en situación de abandono o desprotección, de personas adultas mayores en situación de vulnerabilidad, y de personas con discapacidad que carezcan de recursos suficientes, garantizando un enfoque de derechos humanos, inclusión, dignidad y no discriminación;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2026)</small>
 
-VIII.- Llevar a cabo acciones en materia de prevención de discapacidad y de su rehabilitación en centros no hospitalarios, con sujeción a las disposiciones aplicables en materia de salud;
+VIII.- Promover y ejecutar acciones de prevención y rehabilitación de la discapacidad en centros no hospitalarios, conforme a la normativa en materia de salud, así como realizar estudios e investigaciones en la materia, y dar seguimiento a políticas y programas orientados a garantizar los derechos y la inclusión de las personas con discapacidad en la Entidad;
 
 IX.- Realizar estudios e investigaciones sobre asistencia social, con la participación, en su caso, de las autoridades asistenciales del Gobierno del Estado y de los Municipios;
 
-X.- Elaborar y proponer los reglamentos que se requieren en la materia, observando su estricto cumplimiento;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2026)</small>
 
-XI.- Realizar y promover la capacitación de recursos humanos para la asistencia social;
+X.- Coordinar e impulsar las acciones, programas y políticas que incidan en el bienestar de la población, el combate efectivo a la pobreza y el desarrollo humano, fomentando un mejor nivel de vida, así como promover y fortalecer la participación de las organizaciones de la sociedad civil en la atención de grupos en situación de vulnerabilidad y en la superación de las desigualdades sociales;
 
-XII.- Operar el Sistema Estatal de Información Básica en materia de Asistencia Social.
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2026)</small>
+
+XI.- Realizar y promover la capacitación de recursos humanos para la asistencia social, el bienestar social y la igualdad sustantiva;
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2026)</small>
+
+XII.- Operar el Sistema Estatal de Información Básica en materia de Asistencia Social, así como Integrar, mantener y actualizar un sistema de información con los padrones de beneficiarios de programas sociales de la Entidad, así como evitar duplicidades;
 
 > <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
 
 XIII.- Brindar servicios de asistencia jurídica y orientación social a niñas, niños y adolescentes, personas adultas mayores y personas con discapacidad que se encuentren en situación de vulnerabilidad o que no cuenten con los recursos necesarios;
 
-XIV.- Apoyar el ejercicio de la tutela de los incapaces, que corresponda al Estado, en los términos de la Ley respectiva;
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2026)</small>
 
-XV.- Poner a disposición del Ministerio Público los elementos a su alcance en la protección de incapaces y en los procedimientos civiles y familiares que les afecten, de acuerdo con las disposiciones legales correspondientes;
+XIV.- Apoyar, en el ámbito administrativo, el ejercicio de la tutela, curatela u otras figuras de protección jurídica de las personas que, conforme a la ley, requieran apoyos para el ejercicio de su capacidad jurídica; así como, en el ámbito jurisdiccional, poner a disposición del Ministerio Público los elementos necesarios para su protección y para la intervención en los procedimientos civiles y familiares que les afecten, de conformidad con la legislación aplicable;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2026)</small>
 
-XVI.- Realizar estudios e investigaciones en materia de discapacidad;
+XV.- Participar en la ejecución y supervisión de los programas sociales que el Gobierno Federal desarrolle en el Estado, de conformidad con los convenios de coordinación que para tal efecto se suscriban, en coordinación con la Secretaría de Desarrollo Sustentable;
 
-XVII.- Participar en programas de rehabilitación y educación especial.
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
+XVI.- Coordinar, impulsar y ejecutar políticas y programas orientados a la atención e inclusión de personas y grupos en situación de mayor marginación o vulnerabilidad, incluidas las personas adultas mayores, con el propósito de mejorar su nivel de vida y garantizar el ejercicio de sus derechos, en coordinación con los gobiernos federal y municipal, así como con la participación de los sectores social y privado;
 
-XVIII.- Proponer a las autoridades correspondientes la adaptación o readaptación del espacio urbano que fuere necesaria para satisfacer los requerimientos de autonomía de las personas con discapacidad, y
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2026)</small>
 
-XIX.- Las demás que establezcan las disposiciones aplicables en la materia.
+XVII.- Participar en programas de rehabilitación y educación especial;
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2026)</small>
+
+XVIII.- Promover e impulsar la construcción de obras de infraestructura y equipamiento, así como la adaptación o readaptación del espacio urbano, para fortalecer el desarrollo y la inclusión social de la Entidad y garantizar la accesibilidad y la autonomía de las personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2026)</small>
+
+XIX.- Coadyuvar en el diseño e implementación de políticas y programas de desarrollo regional y rural que fomenten la productividad, el empleo y la economía social, y prevengan la migración a las áreas urbanas;
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2026)</small>
+
+XX.- Promover acciones orientadas a garantizar la igualdad sustantiva y de oportunidades, especialmente para los grupos en situación de vulnerabilidad, para el acceso a los servicios de salud, educación, trabajo, vivienda digna, a los servicios públicos básicos y en la vida social, económica, política y cultural del Estado;
+
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2026)</small>
+
+XXI.- Elaborar y proponer los reglamentos y demás normatividad que se requieren en materia de asistencia y bienestar social e igualdad sustantiva, observando su estricto cumplimiento, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA ANTES FRACCIÓN XIX], P.O. 16 DE ENERO DE 2026)</small>
+
+XXII.- Las demás que establezcan las disposiciones normativas y/o administrativas en la materia.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2025)</small>
 
@@ -594,3 +624,15 @@ P.O. 15 DE SEPTIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL, EN MATERIA DE LENGUAJE INCLUSIVO, ACTUALIZACIÓN Y ARMONIZACIÓN NORMATIVA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 16 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS FRACCIONES AL ARTÍCULO 18 DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, atendiendo a las disposiciones y salvedades previstas en las disposiciones transitorias siguientes.
+
+Segundo. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+Tercero. Las nuevas atribuciones en materia de bienestar social e igualdad sustantiva que se transfieren al Sistema para el Desarrollo Integral de la Familia del Estado de Nayarit (DIF Estatal) mediante el presente Decreto y que correspondían originariamente a la Secretaría de Bienestar e Igualdad Sustantiva entrarán en vigor formalmente el 31 de enero de 2026.
+
+Cuarto. Se establece un plazo de ciento veinte días naturales, a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones, actualizaciones o modificaciones normativas a las disposiciones jurídicas correspondientes, de conformidad con lo establecido en este instrumento.
