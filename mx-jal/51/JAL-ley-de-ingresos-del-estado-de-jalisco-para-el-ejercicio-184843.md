@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-ingresos-del-estado-de-jalisco-para-el-ejercicio-184843"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2025-12-23"
-last_updated: "2025-12-23"
+last_updated: "2026-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=184843&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2026
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE ENERO DE 2026 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2026
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 17 DE ENERO DE 2026.]</small>
 
 Ley publicada en la Sección XLIII en el Número 28 del Periódico Oficial del Estado de Jalisco, el martes 23 de diciembre de 2025.
 
@@ -915,6 +915,8 @@ b). Prueba antidoping a los operadores de autobuses en las instalaciones de la a
 
 XXXVI. Los servicios de grúa en sus modos de arrastre, arrastre y salvamento, serán conforme a las tarifas siguientes:
 
+> <small>(F. DE E., P.O. 17 DE ENERO DE 2026)</small>
+
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 23 DE DICIEMBRE DE 2025, PÁGINA 41.]</small>
 
 XXXVII. Curso de formación y capacitación como auditor e inspector de seguridad vial:
@@ -1561,13 +1563,19 @@ Por la emisión de constancias de Registros de Generadores referidos en el artí
 
 Por el servicio de la evaluación de la viabilidad de las solicitudes de autorización de las siguientes actividades en materia de manejo integral de residuos de manejo especial previstas en la Ley de Gestión Integral de los Residuos del Estado de Jalisco, se pagarán las siguientes cuotas:
 
+> <small>(F. DE E., P.O. 17 DE ENERO DE 2026)</small>
+
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 23 DE DICIEMBRE DE 2025, PÁGINA 69.]</small>
 
 Para las solicitudes de autorización en materia de la etapa de manejo de residuos de manejo especial denominada disposición final se estará a las siguientes cuotas de conformidad con la temporalidad de la vigencia de la autorización solicitada:
 
+> <small>(F. DE E., P.O. 17 DE ENERO DE 2026)</small>
+
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 23 DE DICIEMBRE DE 2025, PÁGINA 69.]</small>
 
 Por el servicio de la evaluación de la viabilidad de las solicitudes de autorización de las siguientes actividades en materia de Recolección y Transporte de residuos de manejo especial previstas en la Ley de Gestión Integral de los Residuos del Estado de Jalisco, se pagará el servicio de la evaluación de la viabilidad de las solicitudes de autorización, conforme a las siguientes cuotas:
+
+> <small>(F. DE E., P.O. 17 DE ENERO DE 2026)</small>
 
 > <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 23 DE DICIEMBRE DE 2025, PÁGINA 70.]</small>
 
@@ -2103,7 +2111,11 @@ DÉCIMO CUARTO. Los flujos que se puedan obtener como ahorro derivado de las mej
 
 > <small>[N. DE E. VÉASE ANEXO A EN EL P.O. DE 23 DE DICIEMBRE DE 2025, PÁGINAS DE LA 92 A LA 98.]</small>
 
+> <small>(F. DE E., P.O. 17 DE ENERO DE 2026)</small>
+
 > <small>[N. DE E. VÉASE ANEXO B EN EL P.O. DE 23 DE DICIEMBRE DE 2025, PÁGINAS DE LA 98 A LA 99.]</small>
+
+> <small>(F. DE E., P.O. 17 DE ENERO DE 2026)</small>
 
 > <small>[N. DE E. VÉASE ANEXO C EN EL P.O. DE 23 DE DICIEMBRE DE 2025, PÁGINAS DE LA 99 A LA 100.]</small>
 
