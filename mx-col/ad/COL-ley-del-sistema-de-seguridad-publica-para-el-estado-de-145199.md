@@ -4,7 +4,7 @@ identifier: "COL-ley-del-sistema-de-seguridad-publica-para-el-estado-de-145199"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-14"
-last_updated: "2025-12-31"
+last_updated: "2026-01-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145199&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COL"
 ---
 # LEY DEL SISTEMA DE SEGURIDAD PUBLICA PARA EL ESTADO DE COLIMA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE ENERO DE 2026 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE COLIMA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2025.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 17 DE ENERO DE 2026.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 14 de noviembre de 2020.
 
@@ -767,25 +767,45 @@ ARTÍCULO 29 BIS. Mesas de paz y su integración
 
 2. A las mesas de paz deberán asistir, de manera enunciativa más no limitativa, las personas titulares de:
 
-XI (SIC). El Poder Ejecutivo del Estado, quien la presidirá;
+> <small>(F. DE E., P.O. 17 DE ENERO DE 2026)</small>
 
-XII. El Secretario General;
+I. El Poder Ejecutivo del Estado, quien la presidirá;
 
-XIII. El Secretario de Seguridad;
+> <small>(F. DE E., P.O. 17 DE ENERO DE 2026)</small>
 
-XIV. El Fiscal General del Estado;
+II. El Secretario General;
 
-XV. La policía de investigación;
+> <small>(F. DE E., P.O. 17 DE ENERO DE 2026)</small>
 
-XVI. Las representaciones de las fuerzas armadas, la Guardia Nacional en la región y la zona naval;
+III. El Secretario de Seguridad;
 
-XVII. La estación estatal del Centro Nacional de Inteligencia;
+> <small>(F. DE E., P.O. 17 DE ENERO DE 2026)</small>
 
-XVIII. El Centro de Coordinación, Control, Comando, Comunicación, Cómputo e Inteligencia del Estado de Colima;
+IV. El Fiscal General del Estado;
 
-XIX. La delegación de los programas de bienestar del gobierno federal en la entidad federativa, y
+> <small>(F. DE E., P.O. 17 DE ENERO DE 2026)</small>
 
-XX. La representación de la Secretaría de Gobernación del Gobierno Federal, quien fungirá como la secretaría técnica.
+V. La policía de investigación;
+
+> <small>(F. DE E., P.O. 17 DE ENERO DE 2026)</small>
+
+VI. Las representaciones de las fuerzas armadas, la Guardia Nacional en la región y la zona naval;
+
+> <small>(F. DE E., P.O. 17 DE ENERO DE 2026)</small>
+
+VII. La estación estatal del Centro Nacional de Inteligencia;
+
+> <small>(F. DE E., P.O. 17 DE ENERO DE 2026)</small>
+
+VIII. El Centro de Coordinación, Control, Comando, Comunicación, Cómputo e Inteligencia del Estado de Colima;
+
+> <small>(F. DE E., P.O. 17 DE ENERO DE 2026)</small>
+
+IX. La delegación de los programas de bienestar del gobierno federal en la entidad federativa, y
+
+> <small>(F. DE E., P.O. 17 DE ENERO DE 2026)</small>
+
+X. La representación de la Secretaría de Gobernación del Gobierno Federal, quien fungirá como la secretaría técnica.
 
 3. El Poder Judicial del Estado de Colima será invitado permanente. Asimismo, previo acuerdo de las personas integrantes de la mesa de paz se podrá convocar a las personas titulares de los gobiernos municipales de la entidad federativa con la finalidad de establecer acciones de coordinación y evaluación de resultados, así como las personas titulares de otras instituciones.
 
@@ -799,23 +819,41 @@ ARTÍCULO 29 TER. Objetivos de las mesas de paz
 
 1. Las mesas de paz tendrán los siguientes objetivos:
 
-X (SIC). Conocer y analizar los datos relacionados con los delitos de alto impacto, así como las tendencias de incidencia delictiva en el Estado y los municipios;
+> <small>(F. DE E., P.O. 17 DE ENERO DE 2026)</small>
 
-XI. Analizar los casos de alto impacto ocurridos en el Estado y los municipios;
+I. Conocer y analizar los datos relacionados con los delitos de alto impacto, así como las tendencias de incidencia delictiva en el Estado y los municipios;
 
-XII. Coordinar las acciones de gobierno orientadas a la atención a las causas de las violencias y la construcción de la paz;
+> <small>(F. DE E., P.O. 17 DE ENERO DE 2026)</small>
 
-XIII. Informar de las acciones operativas relevantes llevadas a cabo por las instituciones que lo conforman;
+II. Analizar los casos de alto impacto ocurridos en el Estado y los municipios;
 
-XIV. Informar de los asuntos relevantes en materia de gobernabilidad del Estado y los municipios, según corresponda;
+> <small>(F. DE E., P.O. 17 DE ENERO DE 2026)</small>
 
-XV. Diseñar e implementar acciones operativas;
+III. Coordinar las acciones de gobierno orientadas a la atención a las causas de las violencias y la construcción de la paz;
 
-XVI. Evaluar de forma permanente la estrategia de seguridad pública de la entidad federativa, así como los resultados y las acciones operativas implementadas;
+> <small>(F. DE E., P.O. 17 DE ENERO DE 2026)</small>
 
-XVII. Coordinar acciones con la Fiscalía General del Estado y el Poder judicial del Estado, y
+IV. Informar de las acciones operativas relevantes llevadas a cabo por las instituciones que lo conforman;
 
-XVIII. Las demás necesarias para su funcionamiento.
+> <small>(F. DE E., P.O. 17 DE ENERO DE 2026)</small>
+
+V. Informar de los asuntos relevantes en materia de gobernabilidad del Estado y los municipios, según corresponda;
+
+> <small>(F. DE E., P.O. 17 DE ENERO DE 2026)</small>
+
+VI. Diseñar e implementar acciones operativas;
+
+> <small>(F. DE E., P.O. 17 DE ENERO DE 2026)</small>
+
+VII. Evaluar de forma permanente la estrategia de seguridad pública de la entidad federativa, así como los resultados y las acciones operativas implementadas;
+
+> <small>(F. DE E., P.O. 17 DE ENERO DE 2026)</small>
+
+VIII. Coordinar acciones con la Fiscalía General del Estado y el Poder judicial del Estado, y
+
+> <small>(F. DE E., P.O. 17 DE ENERO DE 2026)</small>
+
+IX. Las demás necesarias para su funcionamiento.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
@@ -831,11 +869,17 @@ ARTÍCULO 29 QUATER. Mando único
 
 3. En cualquiera de estos supuestos, la implementación del mando único deberá garantizar:
 
-IV (SIC). La continuidad de la prestación del servicio de seguridad pública en el ámbito municipal;
+> <small>(F. DE E., P.O. 17 DE ENERO DE 2026)</small>
 
-V. La transparencia y la rendición de cuentas en la gestión y aplicación de los Fondos de Ayuda Federal destinados a los municipios, y
+I. La continuidad de la prestación del servicio de seguridad pública en el ámbito municipal;
 
-VI. La formalización de instrumentos que definan las funciones operativas, administrativas y financieras, así como los mecanismos de supervisión y evaluación.
+> <small>(F. DE E., P.O. 17 DE ENERO DE 2026)</small>
+
+II. La transparencia y la rendición de cuentas en la gestión y aplicación de los Fondos de Ayuda Federal destinados a los municipios, y
+
+> <small>(F. DE E., P.O. 17 DE ENERO DE 2026)</small>
+
+III. La formalización de instrumentos que definan las funciones operativas, administrativas y financieras, así como los mecanismos de supervisión y evaluación.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
@@ -851,11 +895,17 @@ ARTÍCULO 29 SEXIES. Coordinación de mando entre entidades federativas y munici
 
 1. Cuando para el cumplimiento de la función de seguridad pública sea necesaria la participación del Estado con otra entidad federativa o más entidades federativas, o de dos o más municipios, se podrán establecer instancias de coordinación, con carácter temporal o permanente, conforme a lo siguiente:
 
-IV (SIC). Dos o más entidades federativas;
+> <small>(F. DE E., P.O. 17 DE ENERO DE 2026)</small>
 
-V. Dos o más municipios del Estado, o
+I. Dos o más entidades federativas;
 
-VI. Dos o más municipios de diferentes entidades federativas.
+> <small>(F. DE E., P.O. 17 DE ENERO DE 2026)</small>
+
+II. Dos o más municipios del Estado, o
+
+> <small>(F. DE E., P.O. 17 DE ENERO DE 2026)</small>
+
+III. Dos o más municipios de diferentes entidades federativas.
 
 2. En caso de que estas instancias se formalicen a través de acuerdos o convenios de colaboración, estos deberán suscribirse con arreglo a lo dispuesto en las constituciones y leyes locales correspondientes y en congruencia con la respectiva estrategia de seguridad pública del Estado, para lo que deberán coordinarse con la Secretaría de Seguridad Pública del Estado.
 
@@ -877,21 +927,33 @@ Carácter del Secretariado Ejecutivo y requisitos de elegibilidad
 
 2. La o el Secretario Ejecutivo será nombrado y removido por la o el Gobernador y deberá cumplir con los siguientes requisitos:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025) (F. DE E., P.O. 17 DE ENERO DE 2026)
 
-V (SIC). Contar con ciudadanía mexicana, en pleno goce de sus derechos civiles y políticos y acredite una residencia efectiva en el Estado de cuando menos 3 años anteriores al nombramiento;
+I. Contar con ciudadanía mexicana, en pleno goce de sus derechos civiles y políticos y acredite una residencia efectiva en el Estado de cuando menos 3 años anteriores al nombramiento;
 
 II. Tener más de 30 años de edad;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
+(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025) (F. DE E., P.O. 17 DE ENERO DE 2026)
 
-VII (SIC). Contar con título y cédula profesional de nivel licenciatura con validez oficial ante la Secretaría de Educación Pública;
+III. Contar con título y cédula profesional de nivel licenciatura con validez oficial ante la Secretaría de Educación Pública;
 
 IV. Tener reconocida capacidad y probidad, así como contar con cinco años de experiencia en las áreas vinculadas a la seguridad pública;
 
 V. No haber sido sentenciado por delito doloso o inhabilitado como servidor público; y
 
 VI. Presentar y aprobar las evaluaciones de control de confianza previstas en las disposiciones aplicables.
+
+> <small>(F. DE E., P.O. 17 DE ENERO DE 2026)</small>
+
+Lo subrayado se hace con fines meramente ilustrativos y para destacar el texto que debe modificarse en vía de Fe de Erratas.
+
+> <small>(F. DE E., P.O. 17 DE ENERO DE 2026)</small>
+
+Se hace la corrección del error contenido en el documento, para efectos de su publicación correspondiente.
+
+> <small>(F. DE E., P.O. 17 DE ENERO DE 2026)</small>
+
+Lo que se hace constar para su publicación a manera de Fe de Erratas y surta sus efectos legales correspondientes y su debida observancia en los términos probados por el Honorable Congreso del Estado.
 
 > <small>(REFORMADO SU EPÍGRAFE, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
