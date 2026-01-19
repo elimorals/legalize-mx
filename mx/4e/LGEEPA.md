@@ -4,7 +4,7 @@ identifier: "LGEEPA"
 country: "mx"
 rank: "ley_general"
 publication_date: "1988-01-28"
-last_updated: "2025-12-17"
+last_updated: "2026-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=225&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGEEPA"
 
 LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2026.
 
 Ley publicada en el Diario Oficial de la Federación, el jueves 28 de enero de 1988.
 
@@ -202,11 +202,13 @@ XXX. Recurso natural: El elemento natural susceptible de ser aprovechado en bene
 
 XXXI. Región ecológica: La unidad del territorio nacional que comparte características ecológicas comunes;
 
-XXXII. Residuo: Cualquier material generado en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento cuya calidad no permita usarlo nuevamente en el proceso que lo generó;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2026)</small>
+
+XXXII. Residuo: Material o producto cuyo propietario o poseedor desecha y que se encuentra en estado sólido o semisólido, o es un líquido o gas contenido en recipientes o depósitos, y que puede ser susceptible de ser valorizado o requiere sujetarse a tratamiento o disposición final conforme a la normativa ambiental aplicable;
 
 > <small>(REFORMADA, D.O.F. 16 DE ENERO DE 2014)</small>
 
-XXXIII.- Residuos peligrosos: son aquellos que posean alguna de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad o que contengan agentes infecciosos que le confieran peligrosidad, así como envases, recipientes, embalajes y suelos que hayan sido contaminados cuando se transfieran a otro sitio y por tanto, representan un peligro al equilibrio ecológico o el ambiente;
+XXXIII. Residuos peligrosos: son aquellos que posean alguna de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad o que contengan agentes infecciosos que le confieran peligrosidad, así como envases, recipientes, embalajes y suelos que hayan sido contaminados cuando se transfieran a otro sitio y por tanto, representan un peligro al equilibrio ecológico o el ambiente;
 
 XXXIV. Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
 
@@ -590,7 +592,9 @@ V. La responsabilidad respecto al equilibrio ecológico, comprende tanto las con
 
 VI. La prevención de las causas que los generan, es el medio más eficaz para evitar los desequilibrios ecológicos;
 
-VII. El aprovechamiento de los recursos naturales renovables debe realizarse de manera que se asegure el mantenimiento de su diversidad y renovabilidad;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2026)</small>
+
+VII. El aprovechamiento de los recursos naturales renovables debe realizarse de manera que se asegure el mantenimiento de su diversidad y renovabilidad, así como sujetarse a las modalidades que dicte el interés público y, en su caso, implementar mecanismos en materia de economía circular;
 
 VIII. Los recursos naturales no renovables deben utilizarse de modo que se evite el peligro de su agotamiento y la generación de efectos ecológicos adversos;
 
@@ -895,6 +899,10 @@ I. La investigación científica y tecnológica, incorporación, innovación o u
 II. La investigación e incorporación de sistemas de ahorro de energía y de utilización de fuentes de energía menos contaminantes;
 
 III. El ahorro y aprovechamiento sustentable y la prevención de la contaminación del agua;
+
+> <small>(ADICIONADA, D.O.F. 19 DE ENERO DE 2026)</small>
+
+III BIS. El aprovechamiento de recursos naturales en los términos previstos en el artículo 107 Bis 1 de esta Ley;
 
 IV. La ubicación y reubicación de instalaciones industriales, comerciales y de servicios en áreas ambientalmente adecuadas;
 
@@ -1250,11 +1258,11 @@ ARTICULO 38 BIS 2.- Las entidades federativas podrán establecer sistemas de aut
 
 #### SECCION VIII. Investigación y Educación Ecológicas
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE MAYO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE ENERO DE 2026)</small>
 
 ###### ARTICULO 39.
 
-Las autoridades competentes promoverán la incorporación de contenidos ecológicos, desarrollo sustentable, mitigación, adaptación y reducción de la vulnerabilidad ante el cambio climático, protección del ambiente, conocimientos, valores y competencias, en los diversos ciclos educativos, especialmente en el nivel básico, así como en la formación cultural de la niñez y la juventud.
+Las autoridades competentes promoverán la incorporación de contenidos relacionados con la protección del ambiente, el desarrollo sustentable, la economía circular, la mitigación y adaptación al cambio climático, así como la reducción de la vulnerabilidad ante sus efectos, además de conocimientos, valores y competencias ambientales, en los diversos ciclos educativos, especialmente en el nivel básico, así como en la formación cultural de la niñez y la juventud.
 
 > <small>(REFORMADO, D.O.F. 7 DE ENERO DE 2000)</small>
 
@@ -2422,29 +2430,25 @@ Una vez dictaminada la viabilidad del programa, la persona interesada deberá pr
 
 El incumplimiento de cualquiera de las obligaciones previstas en el programa será motivo de ejecución de la garantía.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 19 DE ENERO DE 2026)</small>
+
+### CAPITULO II BIS. Aprovechamiento Sustentable en las Actividades Económicas
+
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2026)</small>
+
+ARTICULO 107 BIS 1.- El aprovechamiento de materiales vírgenes extraídos de fuentes naturales para destinarse a las actividades económicas, procesos productivos o generación de productos deberá cumplir con los principios, criterios, estrategias, mecanismos y obligaciones previstos en materia de economía circular, conforme a la legislación aplicable.
+
+Cuando sea ambiental, técnica y económicamente viable, dicho aprovechamiento deberá fomentar el encadenamiento productivo, privilegiando la integración progresiva de materias primas secundarias provenientes de actividades económicas, procesos o productos valorizados, a fin de reducir la dependencia de materiales vírgenes.
+
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2026)</small>
+
+ARTICULO 107 BIS 2.- El aprovechamiento debe propiciar y maximizar la vida útil de los productos, la valorización de los residuos, y garantizar la menor huella ambiental posible.
+
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO III. De la Exploración y Explotación de los Recursos no Renovables en el Equilibrio Ecológico
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
-
-### CAPITULO I. Disposiciones Generales
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
-
-ARTICULO 109 BIS.- La Secretaría, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, deberán integrar un registro de emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales y residuos de su competencia, así como de aquellas sustancias que determine la autoridad correspondiente. La información del registro se integrará con los datos y documentos contenidos en las autorizaciones, cédulas, informes, reportes, licencias, permisos y concesiones que en materia ambiental se tramiten ante la Secretaría, o autoridad competente del Gobierno de las entidades federativas y en su caso, de los Municipios y las demarcaciones territoriales de la Ciudad de México.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
-
-Las personas físicas y morales responsables de fuentes contaminantes están obligadas a proporcionar la información, datos y documentos necesarios para la integración del registro. La información del registro se integrará con datos desagregados por sustancia y por fuente, anexando nombre y dirección de los establecimientos sujetos a registro.
-
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
-
-La información registrada será pública y tendrá efectos declarativos. La Secretaría permitirá el acceso a dicha información en los términos de esta Ley y demás disposiciones jurídicas aplicables y la difundirá de manera proactiva.
-
-> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
-
-ARTICULO 109 BIS 1.- La Secretaría deberá establecer los mecanismos y procedimientos necesarios, con el propósito de que los interesados realicen un solo trámite, en aquellos casos en que para la operación y funcionamiento de establecimientos industriales, comerciales o de servicios se requiera obtener diversos permisos, licencias o autorizaciones que deban ser otorgados por la propia dependencia.
 
 ###### ARTICULO 108.
 
@@ -2468,9 +2472,23 @@ Las normas oficiales mexicanas a que se refiere el artículo anterior serán obs
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
-### CAPITULO II. Prevención y Control de la Contaminación de la Atmósfera
+### CAPITULO I. Disposiciones Generales
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2018)</small>
+
+ARTICULO 109 BIS.- La Secretaría, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, deberán integrar un registro de emisiones y transferencia de contaminantes al aire, agua, suelo y subsuelo, materiales y residuos de su competencia, así como de aquellas sustancias que determine la autoridad correspondiente. La información del registro se integrará con los datos y documentos contenidos en las autorizaciones, cédulas, informes, reportes, licencias, permisos y concesiones que en materia ambiental se tramiten ante la Secretaría, o autoridad competente del Gobierno de las entidades federativas y en su caso, de los Municipios y las demarcaciones territoriales de la Ciudad de México.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
+
+Las personas físicas y morales responsables de fuentes contaminantes están obligadas a proporcionar la información, datos y documentos necesarios para la integración del registro. La información del registro se integrará con datos desagregados por sustancia y por fuente, anexando nombre y dirección de los establecimientos sujetos a registro.
+
+> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 2001)</small>
+
+La información registrada será pública y tendrá efectos declarativos. La Secretaría permitirá el acceso a dicha información en los términos de esta Ley y demás disposiciones jurídicas aplicables y la difundirá de manera proactiva.
+
+> <small>(ADICIONADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+
+ARTICULO 109 BIS 1.- La Secretaría deberá establecer los mecanismos y procedimientos necesarios, con el propósito de que los interesados realicen un solo trámite, en aquellos casos en que para la operación y funcionamiento de establecimientos industriales, comerciales o de servicios se requiera obtener diversos permisos, licencias o autorizaciones que deban ser otorgados por la propia dependencia.
 
 ###### ARTICULO 110.
 
@@ -2494,7 +2512,9 @@ d) Reducir la intrusión lumínica en zonas distintas a las que se pretende ilum
 
 (REUBICADO Y REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE DICIEMBRE DE 1996)
 
-### CAPITULO III. Prevención y Control de la Contaminación del Agua y de los Ecosistemas Acuáticos
+### CAPITULO II. Prevención y Control de la Contaminación de la Atmósfera
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 111.
 
@@ -2642,7 +2662,7 @@ V. La participación y corresponsabilidad de la sociedad es condición indispens
 
 (REUBICADO Y REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE DICIEMBRE DE 1996)
 
-### CAPITULO IV. Prevención y Control de la Contaminación del Suelo
+### CAPITULO III. Prevención y Control de la Contaminación del Agua y de los Ecosistemas Acuáticos
 
 ###### ARTICULO 118.
 
@@ -2798,7 +2818,7 @@ La Secretaría, con la participación que en su caso corresponda a la Secretarí
 
 (REUBICADO Y REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE DICIEMBRE DE 1996)
 
-### CAPITULO V. Actividades Consideradas como Altamente Riesgosas
+### CAPITULO IV. Prevención y Control de la Contaminación del Suelo
 
 ###### ARTICULO 134.
 
@@ -2910,9 +2930,7 @@ No podrán otorgarse autorizaciones para la importación de plaguicidas, fertili
 
 (REUBICADO Y REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE DICIEMBRE DE 1996)
 
-### CAPITULO VI. Materiales y Residuos Peligrosos
-
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+### CAPITULO V. Actividades Consideradas como Altamente Riesgosas
 
 ###### ARTICULO 145.
 
@@ -2966,7 +2984,7 @@ La legislación local definirá las bases a fin de que la Federación, las entid
 
 (REUBICADO Y REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE DICIEMBRE DE 1996)
 
-### CAPITULO VII. Energía Nuclear
+### CAPITULO VI. Materiales y Residuos Peligrosos
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -3062,9 +3080,9 @@ d) Cuando se determine que la autorización fue transferida a una persona distin
 
 (REUBICADO Y REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE DICIEMBRE DE 1996)
 
-### CAPITULO VIII. Ruido, Vibraciones, Energía Térmica, Luz Intrusa, Olores y Contaminación Visual
+### CAPITULO VII. Energía Nuclear
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 154.
 
@@ -3072,9 +3090,9 @@ La Secretaría de Energía y la Comisión Nacional de Seguridad Nuclear y Salvag
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 18 DE ENERO DE 2021)</small>
 
-### CAPITULO I. Participación Social
+### CAPITULO VIII. Ruido, Vibraciones, Energía Térmica, Luz Intrusa, Olores y Contaminación Visual
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 2021)</small>
 
 ###### ARTICULO 155.
 
@@ -3103,6 +3121,50 @@ Los gobiernos de las entidades federativas, los Municipios y las demarcaciones t
 ## TITULO QUINTO. Participación Social e Información Ambiental
 
 > <small>(REFORMADO [N. DE E. ANTES CAPÍTULO ÚNICO], D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+
+### CAPITULO I. Participación Social
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 157.
+
+El Gobierno Federal deberá promover la participación corresponsable de la sociedad en la planeación, ejecución, evaluación y vigilancia de la política ambiental y de recursos naturales.
+
+###### ARTICULO 158.
+
+Para los efectos del artículo anterior, la Secretaría:
+
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+I. Convocará, en el ámbito del Sistema Nacional de Planeación Democrática, a las organizaciones obreras, empresariales, de campesinos y productores agropecuarios, pesqueros y forestales, comunidades agrarias, pueblos y comunidades indígenas y afromexicanas, instituciones educativas, organizaciones sociales y privadas no lucrativas y demás personas interesadas para que manifiesten su opinión y propuestas;
+
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+II. Celebrará convenios de concertación con organizaciones obreras y grupos sociales para la protección del ambiente en los lugares de trabajo y unidades habitacionales; con pueblos y comunidades indígenas y afromexicanas, comunidades agrarias y demás organizaciones campesinas para el establecimiento, administración y manejo de áreas naturales protegidas, y para brindarles asesoría ecológica en las actividades relacionadas con el aprovechamiento sustentable de los recursos naturales; con organizaciones empresariales, en los casos previstos en esta Ley para la protección del ambiente; con instituciones educativas y académicas, para la realización de estudios e investigaciones en la materia; con organizaciones civiles e instituciones privadas no lucrativas, para emprender acciones ecológicas conjuntas; así como con representaciones sociales y con particulares interesados en la preservación y restauración del equilibrio ecológico para la protección al ambiente;
+
+> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+
+III. Celebrará convenios con los medios de comunicación masiva para la difusión, información y promoción de acciones de preservación del equilibrio ecológico y la protección al ambiente;
+
+IV. Promoverá el establecimiento de reconocimientos a los esfuerzos más destacados de la sociedad para preservar y restaurar el equilibrio ecológico y proteger el ambiente; y
+
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
+
+V. Impulsará el fortalecimiento de la conciencia ecológica, a través de la realización de acciones conjuntas con la comunidad para la preservación y mejoramiento del ambiente, el aprovechamiento racional de los recursos naturales y el correcto manejo de desechos. Para ello, la Secretaría podrá, en forma coordinada con las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México correspondientes, celebrar convenios de concertación con comunidades urbanas y rurales, así como con diversas organizaciones sociales, y
+
+> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
+
+VI. Concertará acciones e inversiones con los sectores social y privado y con instituciones académicas, grupos y organizaciones sociales, pueblos y comunidades indígenas y afromexicanas y demás personas físicas y morales interesadas, para la preservación y restauración del equilibrio ecológico y la protección al ambiente.
+
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+
+###### ARTICULO 159.
+
+La Secretaría integrará órganos de consulta en los que participen entidades y dependencias de la administración pública, instituciones académicas y organizaciones sociales y empresariales. Dichos órganos tendrán funciones de asesoría, evaluación y seguimiento en materia de política ambiental y podrán emitir las opiniones y observaciones que estimen pertinentes. Su organización y funcionamiento se sujetará a los acuerdos que para el efecto expida la Secretaría.
+
+Cuando la Secretaría deba resolver un asunto sobre el cual los órganos a que se refiere el párrafo anterior hubiesen emitido una opinión, la misma deberá expresar las causas de aceptación o rechazo de dicha opinión.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 ### CAPITULO II. Derecho a la Información Ambiental
 
@@ -3164,55 +3226,11 @@ Los afectados por actos de la Secretaría regulados en este Capítulo, podrán s
 
 ARTICULO 159 BIS 6.- Quien reciba información ambiental de las autoridades competentes, en los términos del presente Capítulo, será responsable de su adecuada utilización y deberá responder por los daños y perjuicios que se ocasionen por su indebido manejo.
 
-###### ARTICULO 157.
-
-El Gobierno Federal deberá promover la participación corresponsable de la sociedad en la planeación, ejecución, evaluación y vigilancia de la política ambiental y de recursos naturales.
-
-###### ARTICULO 158.
-
-Para los efectos del artículo anterior, la Secretaría:
-
-> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
-
-I. Convocará, en el ámbito del Sistema Nacional de Planeación Democrática, a las organizaciones obreras, empresariales, de campesinos y productores agropecuarios, pesqueros y forestales, comunidades agrarias, pueblos y comunidades indígenas y afromexicanas, instituciones educativas, organizaciones sociales y privadas no lucrativas y demás personas interesadas para que manifiesten su opinión y propuestas;
-
-> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
-
-II. Celebrará convenios de concertación con organizaciones obreras y grupos sociales para la protección del ambiente en los lugares de trabajo y unidades habitacionales; con pueblos y comunidades indígenas y afromexicanas, comunidades agrarias y demás organizaciones campesinas para el establecimiento, administración y manejo de áreas naturales protegidas, y para brindarles asesoría ecológica en las actividades relacionadas con el aprovechamiento sustentable de los recursos naturales; con organizaciones empresariales, en los casos previstos en esta Ley para la protección del ambiente; con instituciones educativas y académicas, para la realización de estudios e investigaciones en la materia; con organizaciones civiles e instituciones privadas no lucrativas, para emprender acciones ecológicas conjuntas; así como con representaciones sociales y con particulares interesados en la preservación y restauración del equilibrio ecológico para la protección al ambiente;
-
-> <small>(REFORMADA, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
-
-III. Celebrará convenios con los medios de comunicación masiva para la difusión, información y promoción de acciones de preservación del equilibrio ecológico y la protección al ambiente;
-
-IV. Promoverá el establecimiento de reconocimientos a los esfuerzos más destacados de la sociedad para preservar y restaurar el equilibrio ecológico y proteger el ambiente; y
-
-> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2018)</small>
-
-V. Impulsará el fortalecimiento de la conciencia ecológica, a través de la realización de acciones conjuntas con la comunidad para la preservación y mejoramiento del ambiente, el aprovechamiento racional de los recursos naturales y el correcto manejo de desechos. Para ello, la Secretaría podrá, en forma coordinada con las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México correspondientes, celebrar convenios de concertación con comunidades urbanas y rurales, así como con diversas organizaciones sociales, y
-
-> <small>(REFORMADA, D.O.F. 1 DE ABRIL DE 2024)</small>
-
-VI. Concertará acciones e inversiones con los sectores social y privado y con instituciones académicas, grupos y organizaciones sociales, pueblos y comunidades indígenas y afromexicanas y demás personas físicas y morales interesadas, para la preservación y restauración del equilibrio ecológico y la protección al ambiente.
-
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
-
-###### ARTICULO 159.
-
-La Secretaría integrará órganos de consulta en los que participen entidades y dependencias de la administración pública, instituciones académicas y organizaciones sociales y empresariales. Dichos órganos tendrán funciones de asesoría, evaluación y seguimiento en materia de política ambiental y podrán emitir las opiniones y observaciones que estimen pertinentes. Su organización y funcionamiento se sujetará a los acuerdos que para el efecto expida la Secretaría.
-
-Cuando la Secretaría deba resolver un asunto sobre el cual los órganos a que se refiere el párrafo anterior hubiesen emitido una opinión, la misma deberá expresar las causas de aceptación o rechazo de dicha opinión.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
-
-### CAPITULO I. Disposiciones Generales
-
 ## TITULO SEXTO. Medidas de Control y de Seguridad y Sanciones
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
-### CAPITULO II. Inspección y Vigilancia
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE DICIEMBRE DE 2025)</small>
+### CAPITULO I. Disposiciones Generales
 
 ###### ARTICULO 160.
 
@@ -3226,9 +3244,9 @@ En las materias anteriormente señaladas, se aplicarán supletoriamente las disp
 
 Tratándose de materias referidas en esta Ley que se encuentran reguladas por leyes especiales, el presente ordenamiento será de aplicación supletoria por lo que se refiere a los procedimientos de inspección y vigilancia.
 
-### CAPITULO III. Medidas de Seguridad
+### CAPITULO II. Inspección y Vigilancia
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE DICIEMBRE DE 2025)</small>
 
 ###### ARTICULO 161.
 
@@ -3392,9 +3410,9 @@ En los casos en que el infractor realice las medidas correctivas o de urgente ap
 
 En los casos en que proceda, la autoridad federal hará del conocimiento del Ministerio Público la realización de actos u omisiones constatados en el ejercicio de sus facultades que pudieran configurar uno o más delitos.
 
-### CAPITULO IV. Sanciones Administrativas
+### CAPITULO III. Medidas de Seguridad
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 170.
 
@@ -3412,9 +3430,9 @@ Asimismo, la Secretaría podrá promover ante la autoridad competente, la ejecuc
 
 ARTICULO 170 BIS.- Cuando la Secretaría ordene alguna de las medidas de seguridad previstas en esta Ley, indicará al interesado, cuando proceda, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de la medida de seguridad impuesta.
 
-### CAPITULO V. Recurso de Revisión
+### CAPITULO IV. Sanciones Administrativas
 
-> <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
 ###### ARTICULO 171.
 
@@ -3530,7 +3548,7 @@ ARTICULO 175 BIS.- Los ingresos que se obtengan de las multas por infracciones a
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
-### CAPITULO VI. De los Delitos del Orden Federal
+### CAPITULO V. Recurso de Revisión
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -3600,7 +3618,7 @@ Para los efectos del presente artículo, tendrán interés legítimo las persona
 
 En caso de que se expidan licencias, permisos, autorizaciones o concesiones contraviniendo esta Ley, serán nulas y no producirán efecto legal alguno, y los servidores públicos responsables serán sancionados conforme a lo dispuesto en la legislación en la materia. Dicha nulidad podrá ser exigida por medio del recurso a que se refiere el artículo anterior.
 
-### CAPITULO VII. Denuncia Popular
+### CAPITULO VI. De los Delitos del Orden Federal
 
 > <small>(REFORMADO, D.O.F. 13 DE DICIEMBRE DE 1996)</small>
 
@@ -4279,3 +4297,25 @@ D.O.F. 17 DE DICIEMBRE DE 2025.
 Primero. El presente Decreto entrará en vigor el día natural siguiente al de su publicación en el Diario Oficial de la Federación.
 
 Segundo. En un plazo máximo de 180 días naturales, contados a partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo Federal deberá realizar las modificaciones que, en su caso, procedan al Reglamento de la Ley de la Guardia Nacional, a efecto de dar cabal cumplimiento a lo dispuesto en el presente Decreto.
+
+D.O.F. 19 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DE ECONOMÍA CIRCULAR Y, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE Y DE LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Ejecutivo Federal, dentro de los ciento ochenta días naturales posteriores a la entrada en vigor del presente Decreto, deberá expedir el o los reglamentos de la Ley General de Economía Circular.
+
+Las autoridades competentes de la Administración Pública Federal iniciarán el procedimiento administrativo para modificar y adecuar las normas oficiales mexicanas existentes, así como el procedimiento administrativo para la creación y expedición de las normas oficiales mexicanas que se requieran, conforme a las disposiciones jurídicas aplicables.
+
+Para la implementación de esta disposición transitoria debe seguirse lo establecido en la fracción III del artículo 6 de esta Ley.
+
+Tercero. El Programa Nacional de Economía Circular se publicará en el Diario Oficial de la Federación en un plazo no mayor a ciento ochenta días naturales, contados a partir de la publicación del Reglamento de la presente Ley. En la identificación de sectores productivos y categorías de productos del Programa 2026-2030 deben incluirse aquellos correspondientes al plástico que, en términos de los procedimientos de la Ley de Planeación, determine la Secretaría.
+
+Cuarto. Dentro del plazo de ciento ochenta días naturales contados a partir de la entrada en vigor de la presente Ley, las legislaturas de las entidades federativas adecuarán y armonizarán su legislación con las disposiciones de la Ley General de Economía Circular que se expide con el presente Decreto.
+
+Quinto. Las legislaturas locales que no efectúen la armonización que se indica en el transitorio anterior deberán aplicar las disposiciones de esta Ley, en el ámbito local.
+
+Sexto. A partir de la entrada en vigor de la presente Ley y dentro del plazo de cinco años con prórroga por acuerdo casuístico, los rellenos sanitarios autorizados iniciarán un proceso progresivo de reconversión para cumplir con las metas de reducción de la disposición final para promover su integración en el Modelo de Economía Circular Nacional.
+
+Séptimo. Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor de la presente Ley se realizarán con cargo al presupuesto aprobado a la Secretaría de Medio Ambiente y Recursos Naturales, para el presente ejercicio fiscal y los subsecuentes en el Presupuesto de Egresos de la Federación, las modificaciones a la estructura orgánica deberán llevarse a cabo mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que no incrementará su presupuesto regularizable de gasto de operación ni de servicios personales y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
