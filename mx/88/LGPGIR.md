@@ -4,7 +4,7 @@ identifier: "LGPGIR"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-10-08"
-last_updated: "2023-05-08"
+last_updated: "2026-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34141&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGPGIR"
 
 LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2026.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 8 de octubre de 2003.
 
@@ -108,7 +108,9 @@ X. La realización inmediata de acciones de remediación de los sitios contamina
 
 XI. La producción limpia como medio para alcanzar el desarrollo sustentable, y
 
-XII. La valorización, la responsabilidad compartida y el manejo integral de residuos, aplicados bajo condiciones de eficiencia ambiental, tecnológica, económica y social, en el diseño de instrumentos, programas y planes de política ambiental para la gestión de residuos.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE ENERO DE 2026)</small>
+
+XII. La valorización, la responsabilidad compartida y el manejo integral de residuos, aplicados bajo condiciones de circularidad, eficiencia ambiental, tecnológica, económica y social, en el diseño de instrumentos, programas y planes de política ambiental para la gestión de residuos.
 
 En todo lo no previsto en la presente Ley, se aplicarán, en lo conducente, las disposiciones contenidas en otras leyes relacionadas con la materia que regula este ordenamiento.
 
@@ -136,7 +138,9 @@ Para los efectos de esta Ley se entiende por:
 
 I. Agente Infeccioso: Microorganismo capaz de causar una enfermedad si se reúnen las condiciones para ello, y cuya presencia en un residuo lo hace peligroso;
 
-II. Aprovechamiento de los Residuos: Conjunto de acciones cuyo objetivo es recuperar el valor económico de los residuos mediante su reutilización, remanufactura, rediseño, reciclado y recuperación de materiales secundados o de energía;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2026)</small>
+
+II. Aprovechamiento de los Residuos: Conjunto de acciones cuyo objetivo es recuperar el valor económico de los residuos mediante su reutilización, remanufactura, rediseño, tratamiento, reciclado y recuperación de materiales secundarios o de energía;
 
 III. Caracterización de Sitios Contaminados: Es la determinación cualitativa y cuantitativa de los contaminantes químicos o biológicos presentes, provenientes de materiales o residuos peligrosos, para estimar la magnitud y tipo de riesgos que conlleva dicha contaminación;
 
@@ -180,7 +184,9 @@ XXII. Proceso Productivo: Conjunto de actividades relacionadas con la extracció
 
 XXIII. Producción Limpia: Proceso productivo en el cual se adoptan métodos, técnicas y prácticas, o incorporan mejoras, tendientes a incrementar la eficiencia ambiental de los mismos en términos de aprovechamiento de la energía e insumos y de prevención o reducción de la generación de residuos;
 
-XXIV. Producto: Bien que generan los procesos productivos a partir de la utilización de materiales primarios o secundarios. Para los fines de los planes de manejo, un producto envasado comprende sus ingredientes o componentes y su envase;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2026)</small>
+
+XXIV. Producto: Bien que generan los procesos productivos a partir de la utilización de material virgen o primario, o de materiales secundarios. Para los fines de los planes de manejo, un producto envasado comprende sus ingredientes o componentes y su envase;
 
 XXV. Programas: Serie ordenada de actividades y operaciones necesarias para alcanzar los objetivos de esta Ley;
 
@@ -226,9 +232,9 @@ XLI. Tratamiento: Procedimientos físicos, químicos, biológicos o térmicos, m
 
 XLII. Termólisis: Proceso térmico a que se sujetan los residuos en ausencia de, o en presencia de cantidades mínimas de oxígeno, que incluye la pirólisis en la que se produce una fracción orgánica combustible formada por hidrocarburos gaseosos y líquidos, así como carbón y una fase inorgánica formada por sólidos reducidos metálicos y no metálicos, y la gasificación que demanda mayores temperaturas y produce gases susceptibles de combustión;
 
-> <small>(ADICIONADA, D.O.F. 18 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2026)</small>
 
-XLIII. Termovalorización: Aprovechamiento de residuos orgánicos para la generación de energía eléctrica;
+XLIII. Termovalorización: Aprovechamiento de residuos orgánicos e inorgánicos para la generación de energía eléctrica;
 
 XLIV. Tratamientos por Esterilización: Procedimientos que permiten, mediante radiación térmica, la muerte o inactivación de los agentes infecciosos contenidos en los residuos peligrosos;
 
@@ -590,6 +596,10 @@ La Secretaría deberá formular e instrumentar el Programa Nacional para la Prev
 
 El Programa Nacional para la Prevención y Gestión Integral de los Residuos se basará en los principios de reducción, reutilización y reciclado de los residuos, en un marco de sistemas de gestión integral, en los que aplique la responsabilidad compartida y diferenciada entre los diferentes sectores sociales y productivos, y entre los tres órdenes de gobierno.
 
+> <small>(ADICIONADO, D.O.F. 19 DE ENERO DE 2026)</small>
+
+También debe tener como base los principios de circularidad, jerarquización y trazabilidad, previstos en la Ley General de Economía Circular.
+
 El Diagnóstico Básico para la Gestión Integral de Residuos es el estudio que considera la cantidad y composición de los residuos, así como la infraestructura para manejarlos integralmente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE MARZO DE 2014)</small>
@@ -738,7 +748,9 @@ Los sistemas de manejo ambiental que formulen y ejecuten las dependencias federa
 
 El Gobierno Federal, los gobiernos de las entidades federativas y los municipios, en la esfera de su competencia, promoverán la participación de todos los sectores de la sociedad en la prevención de la generación, la valorización y gestión integral de residuos, para lo cual:
 
-I. Fomentarán y apoyarán la conformación, consolidación y operación de grupos intersectoriales interesados en participar en el diseño e instrumentación de políticas y programas correspondientes, así como para prevenir la contaminación de sitios con materiales y residuos y llevar a cabo su remediación;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2026)</small>
+
+I. Fomentarán y apoyarán la conformación, consolidación y operación de grupos intersectoriales interesados en participar en el diseño e instrumentación de políticas y programas de economía circular, y demás correspondientes, así como para prevenir la contaminación de sitios con materiales y residuos y llevar a cabo su remediación;
 
 II. Convocarán a los grupos sociales organizados a participar en proyectos destinados a generar la información necesaria para sustentar programas de gestión integral de residuos;
 
@@ -1210,9 +1222,11 @@ Los requerimientos de información previstos en este artículo no se aplicarán 
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2026)</small>
+
 ###### Artículo 95.
 
-La regulación de la generación y manejo integral de los residuos sólidos urbanos y los residuos de manejo especial, se llevará a cabo conforme a lo que establezca la presente Ley, las disposiciones emitidas por las legislaturas de las entidades federativas y demás disposiciones aplicables.
+La regulación de la generación y manejo integral de los residuos sólidos urbanos y los residuos de manejo especial, se llevará a cabo conforme a lo que establezca la presente Ley, la Ley General de Economía Circular, las disposiciones emitidas por las legislaturas de las entidades federativas y demás disposiciones aplicables.
 
 ###### Artículo 96.
 
@@ -1348,7 +1362,9 @@ De conformidad con esta Ley y su Reglamento, serán sancionadas las personas que
 
 I. Acopiar, almacenar, transportar, tratar o disponer finalmente, residuos peligrosos, sin contar con la debida autorización para ello;
 
-II. Incumplir durante el manejo integral de los residuos peligrosos, las disposiciones previstas por esta Ley y la normatividad que de ella se derive, así como en las propias autorizaciones que al efecto se expidan, para evitar daños al ambiente y la salud;
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2026)</small>
+
+II. Incumplir durante el manejo integral de los residuos peligrosos, las disposiciones previstas por esta Ley, la Ley General de Economía Circular, los acuerdos generales de implementación de la responsabilidad extendida del productor y la normativa aplicable, así como en las autorizaciones que al efecto se expidan;
 
 III. Mezclar residuos peligrosos que sean incompatibles entre sí;
 
@@ -1743,3 +1759,25 @@ Cuando las autoridades competentes determinen que los depósitos o sitios de dis
 Décimo Segundo. En los ciento ochenta días siguientes a la entrada en vigor del presente Decreto, el Servicio Geológico Mexicano deberá retirar su participación de fondos de inversión de riesgo compartido en los que tenga activos, en tanto no le genere pérdidas. Para tales efectos, podrá mantener su posición hasta que éstos se encuentren en los valores en los que se adquirieron.
 
 Décimo Tercero. Las personas titulares de concesiones de aguas nacionales que realicen actividades de exploración, explotación, beneficio y aprovechamiento minero, dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto, deberán solicitar a “la Autoridad del Agua” el cambio de uso industrial al uso industrial en la minería, a efecto de regularizar su situación jurídica, de conformidad con las disposiciones normativas aplicables.
+
+D.O.F. 19 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY GENERAL DE ECONOMÍA CIRCULAR Y, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE Y DE LA LEY GENERAL PARA LA PREVENCIÓN Y GESTIÓN INTEGRAL DE LOS RESIDUOS”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Ejecutivo Federal, dentro de los ciento ochenta días naturales posteriores a la entrada en vigor del presente Decreto, deberá expedir el o los reglamentos de la Ley General de Economía Circular.
+
+Las autoridades competentes de la Administración Pública Federal iniciarán el procedimiento administrativo para modificar y adecuar las normas oficiales mexicanas existentes, así como el procedimiento administrativo para la creación y expedición de las normas oficiales mexicanas que se requieran, conforme a las disposiciones jurídicas aplicables.
+
+Para la implementación de esta disposición transitoria debe seguirse lo establecido en la fracción III del artículo 6 de esta Ley.
+
+Tercero. El Programa Nacional de Economía Circular se publicará en el Diario Oficial de la Federación en un plazo no mayor a ciento ochenta días naturales, contados a partir de la publicación del Reglamento de la presente Ley. En la identificación de sectores productivos y categorías de productos del Programa 2026-2030 deben incluirse aquellos correspondientes al plástico que, en términos de los procedimientos de la Ley de Planeación, determine la Secretaría.
+
+Cuarto. Dentro del plazo de ciento ochenta días naturales contados a partir de la entrada en vigor de la presente Ley, las legislaturas de las entidades federativas adecuarán y armonizarán su legislación con las disposiciones de la Ley General de Economía Circular que se expide con el presente Decreto.
+
+Quinto. Las legislaturas locales que no efectúen la armonización que se indica en el transitorio anterior deberán aplicar las disposiciones de esta Ley, en el ámbito local.
+
+Sexto. A partir de la entrada en vigor de la presente Ley y dentro del plazo de cinco años con prórroga por acuerdo casuístico, los rellenos sanitarios autorizados iniciarán un proceso progresivo de reconversión para cumplir con las metas de reducción de la disposición final para promover su integración en el Modelo de Economía Circular Nacional.
+
+Séptimo. Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor de la presente Ley se realizarán con cargo al presupuesto aprobado a la Secretaría de Medio Ambiente y Recursos Naturales, para el presente ejercicio fiscal y los subsecuentes en el Presupuesto de Egresos de la Federación, las modificaciones a la estructura orgánica deberán llevarse a cabo mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, por lo que no incrementará su presupuesto regularizable de gasto de operación ni de servicios personales y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
