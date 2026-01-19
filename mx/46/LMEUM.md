@@ -4,7 +4,7 @@ identifier: "LMEUM"
 country: "mx"
 rank: "ley"
 publication_date: "1931-07-27"
-last_updated: "2009-01-20"
+last_updated: "2026-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=468&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LMEUM"
 
 LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 20 DE ENERO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2026.
 
 Ley Publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 27 de julio de 1931.
 
@@ -1262,81 +1262,193 @@ CANTO: Liso.
 
 MONEDA DE DIEZ PESOS
 
-VALOR FACIAL: Diez Pesos.
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2026)</small>
 
-FORMA: Circular.
+I. VALOR FACIAL: $ 10.00 (Diez pesos 00/100 M.N.).
 
-DIAMETRO: 28.0 mm (veintiocho milímetros).
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2026)</small>
 
-COMPOSICION: La moneda será bimetálica y estará constituida por dos aleaciones, una para su parte central y otra para su anillo perimétrico, que serán como sigue:
+II. FORMA: Circular.
+
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2026)</small>
+
+III. DIÁMETRO: 28.0 mm (veintiocho milímetros).
+
+> <small>(REFORMADA [N. DE E. CON SUS NUMERALES E INCISOS], D.O.F. 19 DE ENERO DE 2026)</small>
+
+IV. COMPOSICIÓN: La moneda será bimetálica y estará constituida por dos aleaciones, una para su parte central y otra para su anillo perimétrico, que serán como sigue:
 
 1. Parte central de la moneda.
 
-Plata: Sterling.
+Podrá, conforme a lo previsto en el inciso b) del artículo 2° de la Ley Monetaria de los Estados Unidos Mexicanos, ser cualquiera de las aleaciones siguientes:
+
+A) Aleación de plata sterling.
 
 Ley: 0.925.
 
-Metal de liga: Cobre.
+Metal de liga: Cobre
 
 Peso: 5.604 g (cinco gramos, seiscientos cuatro milésimos).
 
-Contenido: 5.184 g (cinco gramos, ciento ochenta y cuatro milésimos), equivalente a 1/6 oz. (un sexto) de onza troy de plata pura.
+Contenido: 5.184 g (cinco gramos, ciento ochenta y cuatro milésimos), equivalente a 1/6 oz (un sexto de onza) troy de plata pura.
 
-Tolerancia en Ley: 0.005 (cinco milésimas) en más o en menos.
+Tolerancia en Ley: 0.005 (cinco milésimos) en más o en menos.
 
-Tolerancia en Peso por pieza: 0.090g (noventa miligramos) en más o en menos.
-
-> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1992)</small>
+Tolerancia en Peso por pieza: 0.090 g (noventa milésimos de gramo) en más o en menos.
 
 Tolerancia en Peso por conjunto de mil piezas: 1.75 g (un gramo, setenta y cinco centésimos) en más o en menos.
 
+B) Aleación de alpaca plateada.
+
+Peso: 4.75 g (cuatro gramos, setenta y cinco centésimos).
+
+Contenido: 65% (sesenta y cinco por ciento) de cobre, 10% (diez por ciento) de níquel y 25% (veinticinco por ciento) de zinc.
+
+Tolerancia en Contenido: 2% (dos por ciento) por elemento en más o en menos.
+
+Tolerancia en Peso por Pieza: 0.190 g (ciento noventa milésimos de gramo) en más o en menos.
+
+C) Aleación de acero recubierto de níquel.
+
+Contenido: Esta aleación estará compuesta por dos partes: un núcleo cuyo peso corresponderá entre 92% y 96% (noventa y dos por ciento y noventa y seis por ciento) y un recubrimiento cuyo peso corresponderá entre 8% y 4% (ocho por ciento y cuatro por ciento) del peso total de la pieza. La composición de cada una de estas partes será la siguiente:
+
+i. Núcleo de acero.
+
+Esta aleación estará integrada como sigue:
+
+0.08% (ocho centésimos de punto porcentual) de carbono, máximo;
+
+0.40% (cuarenta centésimos de punto porcentual) de manganeso, máximo;
+
+0.04% (cuatro centésimos de punto porcentual) de fósforo, máximo;
+
+0.05% (cinco centésimos de punto porcentual) de azufre, máximo;
+
+y lo restante de hierro.
+
+ii. Recubrimiento de níquel.
+
+Estará integrado como sigue:
+
+99.9% (noventa y nueve, nueve décimos por ciento) de níquel, mínimo.
+
+iii. En esta composición el peso será de 4.39 g (cuatro gramos, treinta y nueve centésimos), y la tolerancia en peso por pieza será de 0.17 g (diecisiete centésimos de gramo), en más o en menos.
+
 2. Anillo perimétrico de la moneda.
 
-Este conforme a lo previsto en el inciso b) del artículo 2° de la Ley Monetaria de los Estados Unidos Mexicanos, podrá estar constituido por cualquiera de las aleaciones siguientes:
+Podrá, conforme a lo previsto en el inciso b) del artículo 2° de la Ley Monetaria de los Estados Unidos Mexicanos, ser cualquiera de las aleaciones siguientes:
 
 A) Aleación de bronce-aluminio.
 
-Como la que se refiere en el inciso A), de la composición de la moneda de veinte centavos.
+Esta aleación estará integrada como sigue:
 
-En esta composición el peso será de 5.579 g (cinco gramos, quinientos setenta y nueve milésimas), y la tolerancia en peso por pieza será de 0.223 g (doscientos veintitrés miligramos), en más o en menos.
+92% (noventa y dos por ciento) de cobre;
+
+6% (seis por ciento) de aluminio; y
+
+2% (dos por ciento) de níquel;
+
+con una tolerancia, en más o en menos, de 1.5% (uno, cinco décimos por ciento), por elemento.
+
+En esta composición el peso será de 5.579 g (cinco gramos, quinientos setenta y nueve milésimos), y la tolerancia en peso por pieza será de 0.223 g (doscientos veintitrés milésimos de gramo), en más o en menos.
 
 B) Aleación de acero recubierto de bronce.
 
-Como la que se refiere en el inciso B), de la composición de la moneda de veinte centavos.
+Esta aleación estará compuesta por dos partes: un núcleo cuyo peso corresponderá entre 92% y 96% (noventa y dos por ciento y noventa y seis por ciento) y un recubrimiento cuyo peso corresponderá entre 8% y 4% (ocho por ciento y cuatro por ciento) del peso total de la pieza. La composición de cada una de estas partes será la siguiente:
 
-En esta composición el peso será de 5.509 g (cinco gramos, quinientos nueve milésimos), y la tolerancia en peso por pieza será de 0.220 g (doscientos veinte miligramos), en más o en menos.
+i. Núcleo de acero.
+
+Esta aleación estará integrada como sigue:
+
+0.08% (ocho centésimos de punto porcentual) de carbono, máximo;
+
+0.40% (cuarenta centésimos de punto porcentual) de manganeso, máximo;
+
+0.04% (cuatro centésimos de punto porcentual) de fósforo, máximo;
+
+0.05% (cinco centésimos de punto porcentual) de azufre, máximo;
+
+y lo restante de hierro.
+
+ii. Recubrimiento de bronce.
+
+Estará integrado como sigue:
+
+Entre 86% y 90% (ochenta y seis por ciento y noventa por ciento) de cobre.
+
+Entre 14% y 10% (catorce por ciento y diez por ciento) de estaño.
+
+En esta composición el peso será de 5.509 g (cinco gramos, quinientos nueve milésimos), y la tolerancia en peso por pieza será de 0.220 g (doscientos veinte milésimos de gramo), en más o en menos.
 
 C) Aleación de bronce-aluminio-hierro.
 
-Como la que se refiere en el inciso C), de la composición de la moneda de veinte centavos.
+Esta aleación estará integrada como sigue:
 
-En esta composición el peso será de 5.572 g (cinco gramos, quinientos setenta y dos milésimos), y la tolerancia en peso por pieza será de 0.223 g (doscientos veintitrés miligramos), en más o en menos.
+5% (cinco por ciento) de níquel, máximo;
+
+5% (cinco por ciento) de aluminio, máximo;
+
+1% (uno por ciento) de hierro, máximo;
+
+0.6% (seis décimos de punto porcentual) de manganeso, máximo;
+
+y lo restante de cobre.
+
+En esta composición el peso será de 5.572 g (cinco gramos, quinientos setenta y dos milésimos), y la tolerancia en peso por pieza será de 0.223 g (doscientos veintitrés milésimos de gramo), en más o en menos.
 
 D) Aleación de alpaca dorada.
 
-Como la que se refiere en el inciso D), de la composición de la moneda de veinte centavos.
+Esta aleación estará integrada como sigue:
 
-En esta composición el peso será de 6.060 g (seis gramos, sesenta milésimos), y la tolerancia en peso por pieza será de 0.242 g (doscientos cuarenta y dos miligramos), en más o en menos.
+70% (setenta por ciento) de cobre;
 
-PESO TOTAL: Será la suma de los pesos de la parte central y del anillo perimétrico de la misma, que corresponderá, para cada inciso del punto 2. anterior, como a continuación se indica:
+5.5% (cinco, cinco décimos por ciento) de níquel; y
 
-A) 11.183 g (once gramos, ciento ochenta y tres milésimas), y las tolerancias en peso por pieza y por conjunto de mil piezas serán respectivamente 0.313 g (trescientos trece miligramos) y 6.086 g (seis gramos, ochenta y seis milésimos), ambas en más o en menos.
+24.5% (veinticuatro, cinco décimos por ciento) de zinc; con una tolerancia, en más o en menos, de 1.5% (uno, cinco décimos por ciento), por elemento.
 
-8) 11.113 g (once gramos, ciento trece milésimos), y las tolerancias en peso por pieza y por conjunto de mil piezas serán respectivamente 0.310 g (trescientos diez miligramos) y 6.028 g (seis gramos, veintiocho milésimos), ambas en más o en menos.
+En esta composición el peso será de 6.060 g (seis gramos, sesenta milésimos), y la tolerancia en peso por pieza será de 0.242 g (doscientos cuarenta y dos milésimos de gramo), en más o en menos.
 
-C) 11.176 g (once gramos, ciento setenta y seis milésimos) y las tolerancias en peso por pieza y por conjunto de mil piezas serán respectivamente 0.313 g (trescientos trece miligramos) y 6.086 g (seis gramos, ochenta y seis milésimos), ambas en más o en menos.
+3. Peso total: Será la suma de los pesos de la parte central y del anillo perimétrico de la misma, que corresponderá:
 
-O) 11.664 g (once gramos, seiscientos sesenta y cuatro milésimos), y las tolerancias en peso por pieza y por conjunto de mil piezas serán respectivamente 0.332 g (trescientos treinta y dos miligramos) y 6.456 g (seis gramos, cuatrocientos cincuenta y seis milésimos), ambas en más o en menos.
+Para el inciso A) del punto 1 anterior y para cada inciso del punto 2 anterior, como a continuación se indica:
 
-CUÑOS:
+A) 11.183 g (once gramos, ciento ochenta y tres milésimos), y las tolerancias en peso por pieza y por conjunto de mil piezas serán respectivamente 0.313 g (trescientos trece milésimos de gramo) y 6.086 g (seis gramos, ochenta y seis milésimos), ambas en más o en menos.
 
-Anverso: El Escudo Nacional con la leyenda "ESTADOS UNIDOS MEXICANOS", formando el semicírculo superior.
+B) 11.113 g (once gramos, ciento trece milésimos), y las tolerancias en peso por pieza y por conjunto de mil piezas serán respectivamente 0.310 g (trescientos diez milésimos de gramo) y 6.028 g (seis gramos, veintiocho milésimos), ambas en más o en menos.
 
-> <small>(F. DE E., D.O.F. 26 DE JUNIO DE 1992)</small>
+C) 11.176 g (once gramos, ciento setenta y seis milésimos), y las tolerancias en peso por pieza y por conjunto de mil piezas serán respectivamente 0.313 g (trescientos trece milésimos de gramo) y 6.086 g (seis gramos, ochenta y seis milésimos), ambas en más o en menos.
 
-Reverso: en la parte central está el círculo de la Piedra del Sol que representa a Tonatiuh con la máscara de fuego. En el anillo perimétrico, en la parte superior, al centro el símbolo "$10", a la izquierda el año de acuñación y a la derecha el símbolo de la Casa de Moneda de México "M", en la parte inferior la leyenda "DIEZ PESOS". El marco liso con gráfila escalonada.
+D) 11.664 g (once gramos, seiscientos sesenta y cuatro milésimos), y las tolerancias en peso por pieza y por conjunto de mil piezas serán respectivamente 0.332 g (trescientos treinta y dos milésimos de gramo) y 6.456 g (seis gramos, cuatrocientos cincuenta y seis milésimos), ambas en más o en menos.
 
-CANTO: Estriado.
+Para el inciso B) del punto 1 anterior y para cada inciso del punto 2 anterior, como a continuación se indica:
+
+A) 10.329 g (diez gramos, trescientos veintinueve milésimos), y la tolerancia en peso por pieza 0.413 g (cuatrocientos trece milésimos de gramo), en más o en menos.
+
+B) 10.259 g (diez gramos, doscientos cincuenta y nueve milésimos), y la tolerancia en peso por pieza 0.410 g (cuatrocientos diez milésimos de gramo), en más o en menos.
+
+C) 10.322 g (diez gramos, trescientos veintidós milésimos), y la tolerancia en peso por pieza 0.413 g (cuatrocientos trece milésimos de gramo), en más o en menos.
+
+D) 10.810 g (diez gramos, ochocientos diez milésimos), y la tolerancia en peso por pieza 0.432 g (cuatrocientos treinta y dos milésimos de gramo), en más o en menos.
+
+Para el inciso C) del punto 1 anterior y para cada inciso del punto 2 anterior, como a continuación se indica:
+
+A) 9.969 g (nueve gramos, novecientos sesenta y nueve milésimos), y la tolerancia en peso por pieza 0.393 g (trescientos noventa y tres milésimos de gramo), en más o en menos.
+
+B) 9.899 g (nueve gramos, ochocientos noventa y nueve milésimos), y la tolerancia en peso por pieza 0.390 g (trescientos noventa milésimos de gramo), en más o en menos.
+
+C) 9.962 g (nueve gramos, novecientos sesenta y dos milésimos), y la tolerancia en peso por pieza 0.393 g (trescientos noventa y tres milésimos de gramo), en más o en menos.
+
+D) 10.450 g (diez gramos, cuatrocientos cincuenta milésimos), y la tolerancia en peso por pieza 0.412 g (cuatrocientos doce milésimos de gramo), en más o en menos.
+
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2026)</small>
+
+V. CUÑOS: Anverso: El Escudo Nacional con la leyenda "ESTADOS UNIDOS MEXICANOS", formando el semicírculo superior.
+
+Reverso: En la parte central está el círculo de la Piedra del Sol que representa a Tonatiuh con la máscara de fuego. En el anillo perimétrico, en la parte superior, al centro el símbolo "$10", a la izquierda el año de acuñación y a la derecha el símbolo de la Casa de Moneda de México "Mo", en la parte inferior la leyenda "DIEZ PESOS". El marco liso con gráfila escalonada.
+
+> <small>(REFORMADA, D.O.F. 19 DE ENERO DE 2026)</small>
+
+VI. CANTO: Estriado.
 
 ## TRANSITORIOS
 
@@ -1396,101 +1508,129 @@ D.O.F. 8 DE DICIEMBRE DE 1992.
 
 > <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL ARTICULO SEGUNDO DEL "DECRETO QUE REFORMA EL INCISO b) DEL ARTÍCULO 2° DE LA LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS Y SE SEÑALAN LAS CARACTERÍSTICAS DE LA MONEDA DE VEINTE PESOS", PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 8 DE DICIEMBRE DE 1992".]</small>
 
-###### ARTICULO SEGUNDO.
+> <small>(REFORMADO, D.O.F. 19 DE ENERO DE 2026)</small>
+
+###### ARTÍCULO SEGUNDO.
 
 Las características de la moneda de veinte pesos, a que se refiere el inciso b) del artículo 2° de la Ley Monetaria de los Estados Unidos Mexicanos, serán las siguientes:
 
 MONEDA DE VEINTE PESOS
 
-VALOR FACIAL: Veinte pesos.
+I. Valor nominal: $20.00 (Veinte pesos 00/100 M.N.).
 
-FORMA: Circular.
+II. Forma: Dodecagonal.
 
-DIAMETRO: 32.0 mm (treinta y dos
+III. Diámetro: 30.0 mm (treinta milímetros).
 
-milímetros).
+IV. Canto: Estriado discontinuo.
 
-COMPOSICIÓN: La moneda será bimetálica y estará constituida por dos aleaciones, una para su parte central y otra para su anillo perimétrico, que serán como sigue:
+V. Composición: La moneda será bimetálica y estará constituida
 
-1. Parte central de la moneda.
+por dos aleaciones, una para su parte central
 
-Plata: Sterling
+y otra para su anillo perimétrico, que serán como
 
-Ley: 0.925.
+sigue:
 
-Metal de liga: Cobre.
+1. Parte central de la moneda: Aleación de alpaca
 
-Peso: 8.406 g (ocho gramos,
+plateada, que estará integrada como sigue:
 
-Cuatrocientos
+1.1. Contenido: 65% (sesenta y cinco por ciento)
 
-seis
+de cobre; 10% (diez por ciento) de níquel, y 25%
 
-milésimos).
+(veinticinco por ciento) de zinc.
 
-Contenido: 7.776 g (siete gramos,
+1.2. Tolerancia en contenido: 1.5% (uno, cinco
 
-Setecientos
-
-setenta y seis
-
-milésimos),
-
-equivalente a
-
-¼ (un cuarto)
-
-de onza troy de
-
-plata pura.
-
-Tolerancia en 0.005 (cinco
-
-Ley: milésimos) en
-
-más o en
+décimos por ciento) por elemento, en más o en
 
 menos.
 
-Tolerancia en 0.150 g (ciento
+1.3. Peso: 5.51 g (cinco gramos, cincuenta y un
 
-peso por pieza: cincuenta
+centigramos).
 
-miligramos) en
+1.4. Tolerancia en peso por pieza: 0.22 g
 
-más o en
-
-menos.
-
-Tolerancia en 2.63 g (dos gramos,
-
-peso por conjunto sesenta y tres
-
-de mil piezas: centésimos) en
-
-más o en
-
-menos.
+(veintidós centigramos), en más o en menos.
 
 2. Anillo perimétrico de la moneda.
 
-3. PESO TOTAL.- Será la suma de los pesos de la parte central y del anillo perimétrico de la misma, que corresponderá, para cada inciso del punto 2 anterior, como a continuación se indica.
+Aleación de bronce-aluminio, que estará
 
-A) 16.996 g (dieciséis gramos, novecientos noventa y seis milésimos), y las tolerancias en peso por pieza y por conjunto de mil piezas serán respectivamente 0.494 g (cuatrocientos noventa y cuatro miligramos) y 9.25 g (nueve gramos, veinticinco centésimos), ambas en más o en menos.
+integrada como sigue:
 
-B) 16.889 g (dieciséis gramos, ochocientos ochenta y nueve milésimos), y las tolerancias en peso por pieza y por conjunto de mil piezas serán respectivamente 0.489 g (cuatrocientos ochenta y nueve miligramos) y 9.161 g (nueve gramos, ciento sesenta y un milésimos), ambas en más o en menos.
+2.1. Contenido: 92% (noventa y dos por ciento) de
 
-C) 16.985 g (dieciséis gramos, novecientos ochenta y cinco milésimos), y las tolerancias en peso por pieza y por conjunto de mil piezas serán respectivamente 0.493 g (cuatrocientos noventa y tres miligramos) y 9.249 g (nueve gramos, doscientos cuarenta y nueve milésimos), ambas en más o en menos.
+cobre; 6% (seis por ciento) de aluminio, y 2% (dos
 
-D) 17.737 g (diecisiete gramos, setecientos treinta y siete milésimos), y las tolerancias en peso por pieza y por conjunto de mil piezas serán respectivamente 0.523 g (quinientos veintitrés miligramos) y 9.817 g (nueve gramos, ochocientos diez y siete milésimos), ambas en más o en menos.
+por ciento) de níquel.
 
-CUÑOS:
+2.2. Tolerancia en contenido: 1.5% (uno, cinco
 
-Anverso: El Escudo Nacional con la leyenda "ESTADOS UNIDOS MEXICANOS" formando el semicírculo superior.
+décimos por ciento) por elemento, en más o en
 
-Reverso: En la parte central aparece la efigie de "Don Miguel Hidalgo y Costilla"; en el campo derecho al centro el símbolo de la Casa de Moneda de México "M" y debajo de éste el año de acuñación; en el exergo la palabra "HIDALGO", en el campo superior al centro aparece el símbolo "$" y el número 20 como valor facial; formando un semicírculo en la parte inferior, una guirnalda de laureles. El marco liso con gráfila escalonada.
+menos.
 
-Canto: Estriado discontinuo.
+2.3. Peso: 7.16 g (siete gramos, dieciséis
+
+centigramos).
+
+2.4. Tolerancia en peso por pieza: 0.29 g
+
+(veintinueve centigramos), en más o en menos.
+
+3. Peso total: Será la suma de los pesos de la
+
+parte central de la moneda y del anillo perimétrico
+
+de esta, referidos en los puntos 1 y 2, conforme a
+
+lo siguiente:
+
+Centro de aleación de alpaca plateada y anillo de
+
+aleación de bronce-aluminio: 12.67 g (doce
+
+gramos, sesenta y siete centigramos) y la
+
+tolerancia en peso por pieza será de 0.51 g
+
+(cincuenta y un centigramos), en más o en
+
+menos.
+
+VI. Cuños:
+
+Anverso: Al centro el Escudo Nacional en relieve
+
+escultórico, con la leyenda “ESTADOS UNIDOS
+
+MEXICANOS”, formando el semicírculo superior.
+
+Reverso: El diseño del motivo será el Templo de
+
+Kukulkán en Chichén Itzá e incluirá el símbolo
+
+“$20”, el valor nominal con texto “VEINTE
+
+PESOS”, el año de acuñación, la ceca de la Casa
+
+de Moneda de México “Mo” y los elementos de
+
+seguridad.
+
+VII. Elementos de Seguridad: En el reverso de la moneda dentro del centro de
+
+la misma, el microtexto “CHICHÉN ITZÁ,
+
+TEMPLO DE KUKULKÁN – PATRIMONIO
+
+CULTURAL” y una imagen latente con el numeral
+
+20.
 
 ## TRANSITORIOS
 
@@ -1527,3 +1667,29 @@ SEGUNDO. Las monedas a que se refiere el presente Decreto podrán comenzar a acu
 TERCERO. Las monedas de diez, veinte y cincuenta centavos previstas en el Decreto referido en el Artículo Único, cuyas características se modifican, continuarán con el poder liberatorio que les señala el artículo 5o. de la Ley Monetaria de los Estados Unidos Mexicanos, hasta que sean retiradas de la circulación por el Banco de México.
 
 CUARTO. El Banco de México deberá publicar en el Diario Oficial de la Federación un aviso en el que se indique que las piezas referidas en el artículo anterior ya han sido retiradas de la circulación, fijando el plazo necesario para realizar su canje.
+
+D.O.F. 19 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE MODIFICA EL ARTÍCULO TERCERO DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS Y SE SEÑALAN LAS CARACTERÍSTICAS DE LAS MONEDAS DE CINCO, DIEZ, VEINTE Y CINCUENTA CENTAVOS Y DE UNO, DOS, CINCO Y DIEZ PESOS", PUBLICADO EL 22 DE JUNIO DE 1992, EN EL DIARIO OFICIAL DE LA FEDERACIÓN, ÚNICAMENTE POR LO QUE HACE A LA MONEDA DE DIEZ PESOS".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+D.O.F. 19 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO SEGUNDO DEL "DECRETO QUE REFORMA EL INCISO B) DEL ARTÍCULO 2° DE LA LEY MONETARIA DE LOS ESTADOS UNIDOS MEXICANOS Y SE SEÑALAN LAS CARACTERÍSTICAS DE LA MONEDA DE VEINTE PESOS", PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 8 DE DICIEMBRE DE 1992”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La moneda a que se refiere el presente Decreto podrá empezar a acuñarse a los 30 días naturales siguientes a la publicación de este Decreto.
+
+Tercero. Las monedas de veinte pesos emitidas de conformidad con el artículo 2°, inciso b), de la Ley Monetaria de los Estados Unidos Mexicanos, cuyas características se modifican con el presente Decreto, así como las que se emitan después de la entrada en vigor del mismo, continuarán con el poder liberatorio que señala el artículo 5° de la Ley en comento, hasta que sean retiradas de la circulación por el Banco de México.
+
+Cuarto. El Banco de México deberá publicar en el Diario Oficial de la Federación un aviso en el que indique que las piezas referidas en el artículo anterior ya han sido retiradas de circulación, fijando el plazo necesario para realizar su canje.
+
+Quinto. Corresponderá a la Casa de Moneda de México realizar los ajustes técnicos que se requieran, los que deberán ser acordes con las características esenciales de la moneda descrita en el presente Decreto.
+
+Sexto. Corresponderá al Banco de México la titularidad de todos los derechos patrimoniales de autor y cualquier otro derecho de propiedad industrial o intelectual derivado del diseño y la acuñación de la moneda a que se refiere el presente Decreto.
+
+Séptimo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
