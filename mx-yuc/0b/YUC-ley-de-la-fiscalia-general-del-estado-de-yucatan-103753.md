@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-la-fiscalia-general-del-estado-de-yucatan-103753"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-29"
-last_updated: "2025-07-28"
+last_updated: "2026-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE ENERO DE 2026.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el sábado 29 de noviembre de 2014.
 
@@ -401,9 +401,15 @@ X. Proponer al fiscal la celebración de convenios de coordinación o de colabor
 
 El instituto estará a cargo de un director, quien será nombrado y removido libremente por el Fiscal General y se auxiliará de las unidades administrativas que requiera para el cumplimiento de su objeto, de conformidad con la disponibilidad presupuestal.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 20 DE ENERO DE 2026)</small>
+
 ###### Artículo 11 Ter.
 
-(DEROGADO, D.O. 21 DE ABRIL DE 2023)
+Para la atención de los delitos de Extorsión, la Fiscalía General del Estado de Yucatán contará con una Unidad Administrativa Especializada en Delitos de Extorsión dotada de autonomía técnica y operativa para el conocimiento, investigación y persecución de este delito.
+
+La Unidad Administrativa referida en el párrafo anterior contará con el personal indispensable y debidamente capacitado para el debido cumplimiento de sus funciones.
+
+La competencia, las obligaciones y facultades de la Unidad Administrativa prevista en este artículo se regirá por lo previsto en esta ley y la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la Fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(ADICIONADA, D.O. 21 DE ABRIL DE 2022)</small>
 
@@ -1030,3 +1036,33 @@ El Poder Ejecutivo, a través de la Secretaría de Administración y Finanzas, d
 Titular de la dependencia
 
 Artículo décimo primero. Con el objeto de no afectar derechos adquiridos con anterioridad a la entrada en vigor de este decreto, la persona titular de la actual Secretaría de la Contraloría General continuará en el cargo de titular de la Secretaría Anticorrupción y Buen Gobierno sin necesidad de nuevo nombramiento por parte del titular del Poder Ejecutivo, ni la ratificación por parte de la legislatura y concluirá su cargo en los términos de su nombramiento.
+
+D.O. 20 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 161/2026 POR EL QUE SE MODIFICAN EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN Y LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN, EN MATERIA DE ARMONIZACIÓN DEL DELITO DE EXTORSIÓN PREVISTO EN LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LOS DELITOS EN MATERIA DE EXTORSIÓN, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS”.]
+
+Entrada en vigor
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Referencias
+
+Artículo segundo. Toda referencia al delito de extorsión contemplada en el Código Penal del Estado de Yucatán o en cualquier otra disposición, se entenderá hecha al delito de extorsión previsto en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Asuntos en trámite
+
+Artículo tercero. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, a partir de la entrada en vigor de este Decreto, el órgano jurisdiccional, podrá efectuar la traslación del tipo en beneficio de la persona a sentenciar, de conformidad con la conducta delictiva de extorsión, sus modalidades o agravantes que se hayan acreditado.
+
+Tratándose de persona sentenciada, el juez de ejecución podrá considerar la revisión de las penas que se hayan impuesto para efectuar, en su caso, la traslación del tipo, siempre que la conducta, modalidades o agravantes proceda y resultase en su beneficio.
+
+Las disposiciones relativas al delito de extorsión prevista en el Código Penal del Estado de Yucatán vigente a la entrada en vigor del presente Decreto, seguirá aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por el delito de extorsión, sus modalidades, agravantes y sanciones, salvo lo dispuesto en el presente artículo en lo relativo a la traslación del tipo y adecuación de la pena.
+
+Los procedimientos penales en materia de extorsión, iniciados antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia del mismo.
+
+Unidad especializada al Delito de Extorsión
+
+Artículo cuarto. La Fiscalía General del Estado de Yucatán en un plazo no mayor a los 120 días naturales, contado a partir de la entrada en vigor del presente decreto deberá poner en funcionamiento la Unidad Administrativa Especializada en Delitos de Extorsión.
+
+Hasta en tanto entre en funciones la citada Unidad Especializada prevista en el párrafo anterior, los casos de este delito serán atendidos por la vicefiscalía, agencia o unidad cuya materia sea la atención del delito de Privación Ilegal de la Libertad y otras Garantías o, en su caso, conductas relacionadas al secuestro en términos de la Ley de la Fiscalía General del Estado de Yucatán y su reglamento.
+
+La Fiscalía General del Estado de Yucatán deberá realizar los ajustes financieros al presupuesto correspondiente al ejercicio fiscal 2025 y, en su caso, al asignado para el ejercicio fiscal 2026 para dar cumplimiento a lo ordenado en el presente decreto.
