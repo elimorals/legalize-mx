@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-sistema-estatal-de-proteccion-civil-96256"
 country: "mx"
 rank: "ley"
 publication_date: "2013-03-20"
-last_updated: "2022-12-21"
+last_updated: "2026-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL SISTEMA ESTATAL DE PROTECCIÓN CIVIL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2026.
 
 Ley publicada en la Décima Sección del Periódico Oficial del Estado de Puebla, el miércoles 20 de marzo de 2013.
 
@@ -963,9 +963,17 @@ IV. El fomento de la participación social para crear comunidades resilientes, y
 
 V. Incorporación de la gestión integral del riesgo, como aspecto fundamental en la planeación y programación del desarrollo y ordenamiento del Estado y los Municipios para revertir el proceso de generación de riesgos;
 
-VI. El establecimiento de un sistema de certificación de competencias, que garantice un perfil adecuado en el personal responsable de la protección civil en el Estado y los Municipios; y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2026)</small>
 
-VII. El conocimiento y la adaptación al cambio climático, y en general a las consecuencias y efectos del calentamiento global provocados por el ser humano y la aplicación de las tecnologías.
+VI. El establecimiento de un sistema de certificación de competencias, que garantice un perfil adecuado en el personal responsable de la protección civil en el Estado y los Municipios;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2026)</small>
+
+VII. El conocimiento y la adaptación al cambio climático, y en general a las consecuencias y efectos del calentamiento global provocados por el ser humano y la aplicación de las tecnologías; y
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2026)</small>
+
+VIII. Sensibilización sobre el uso y manejo de artificios pirotécnicos, destacando sus riesgos, impactos a la salud, afectaciones a la integridad de las personas, seres sintientes y medio ambiente. Así como el diseño y ejecución de acciones que reduzcan su detonación y, en su caso, promuevan el uso primordial de pirotecnia lumínica, de luz o destello.
 
 ###### ARTÍCULO 67.
 
@@ -1892,6 +1900,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 21 DE DICIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 30 Y LA FRACCIÓN IX DEL ARTÍCULO 63, DE LA LEY DEL SISTEMA DE PROTECCIÓN CIVIL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES VI Y VII Y ADICIONAN LA FRACCIÓN VIII AL ARTÍCULO 66, DE LA LEY DEL SISTEMA ESTATAL DE PROTECCIÓN CIVIL".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
