@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-de-los-municipios-del-estado-de-yucatan-48342"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-25"
-last_updated: "2025-05-22"
+last_updated: "2026-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "YUC"
 
 LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 7 DE MAYO DE 2025.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL 22 DE MAYO DE 2025.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE ENERO DE 2026.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 25 de enero de 2006.
 
@@ -239,15 +237,31 @@ Para su organización interna y efectos administrativos, el Municipio dividirá 
 
 Los centros de población de los Municipios, por su importancia, grado de concentración demográfica, infraestructura y equipamiento urbano, tendrán las categorías político-administrativas siguientes:
 
-I.- Ciudad, es el centro de población con censo no menor de quince mil vecinos;
+> <small>(REFORMADA, D.O. 20 DE ENERO DE 2026)</small>
 
-II.- Villa, es el centro de población con censo no menor de ocho mil vecinos;
+I. Ciudad, es el núcleo de población con censo no menor de quince mil vecinos, y que cuente con servicios públicos, médicos y de policía, calles pavimentadas o de materiales similares, oficinas municipales, hospitales, mercado, rastro, hoteles, cárcel, panteón, centros deportivos, centros culturales, bomberos, escuelas de educación básica, media superior y superior, instituciones bancarias, industriales, comerciales o agrícolas;
 
-III.- Pueblo, es el centro de población con censo no menor de tres mil vecinos o aquel donde se asiente la cabecera municipal;
+> <small>(REFORMADA, D.O. 20 DE ENERO DE 2026)</small>
 
-IV.- Comisaría, es el centro de población con censo no menor a los quinientos vecinos, y
+II. Villa, es el núcleo de población con censo no menor de ocho mil vecinos, y que cuente con servicios públicos, médicos y de policía, calles pavimentadas o de materiales similares, oficinas municipales, hospitales, mercado, cárcel, panteón, escuelas de educación básica y media superior;
 
-V.- Sub-Comisaría, el centro de población con censo inferior a quinientos vecinos.
+> <small>(REFORMADA, D.O. 20 DE ENERO DE 2026)</small>
+
+III.- Pueblo, es el núcleo de población con censo no menor de tres mil vecinos o aquel donde se asiente la cabecera municipal, y que cuente con servicios públicos indispensables, edificios para los servicios públicos municipales del lugar, cárcel, panteón y escuelas de educación básica y media superior;
+
+> <small>(REFORMADA, D.O. 20 DE ENERO DE 2026)</small>
+
+IV.- Comisaría, es el núcleo de población con censo no menor a los quinientos vecinos, y que cuente con servicios públicos indispensables, energía eléctrica, agua potable, local para la autoridad Municipal y edificios para educación básica, y
+
+> <small>(REFORMADA, D.O. 20 DE ENERO DE 2026)</small>
+
+V.- Sub-Comisaría, el núcleo de población con censo inferior a quinientos vecinos, y que cuente con servicios de energía eléctrica, agua potable, y local para la Autoridad Municipal.
+
+> <small>(ADICIONADO, D.O. 20 DE ENERO DE 2026)</small>
+
+###### Artículo 12 Bis.
+
+Para establecer las categorías geográficas previstas en el artículo 12 de esta ley, sin perjuicio de la autonomía municipal para su organización interna, los municipios deberán solicitar la declaratoria correspondiente al Congreso del Estado. Una vez realizada dicha declaratoria, ésta se comunicará al Ayuntamiento solicitante y al Poder Ejecutivo del Estado para su debida publicación en el Diario Oficial del Gobierno del Estado.
 
 > <small>(REFORMADO, D.O. 17 DE AGOSTO DE 2011)</small>
 
@@ -4626,3 +4640,19 @@ Este Decreto entrará en vigor al día siguiente de su publicación en el Diario
 Segundo. Derogación Expresa
 
 Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido de este decreto.
+
+D.O. 20 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 159/2026 POR EL QUE MODIFICA LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN EN MATERIA DE CATEGORÍAS MUNICIPALES DE POBLACIÓN".]
+
+Entrada en vigor
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Estado de Yucatán.
+
+Asuntos en trámite
+
+Artículo segundo. Las solicitudes de los Ayuntamientos que estén en trámite a la entrada en vigor del presente decreto se resolverán en términos de este.
+
+Derogación expresa
+
+Artículo tercero. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente decreto.
