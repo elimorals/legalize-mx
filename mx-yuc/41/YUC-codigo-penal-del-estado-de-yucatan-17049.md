@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2026-01-07"
+last_updated: "2026-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "YUC"
 
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE DICIEMBRE DE 2025.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DEL 7 DE ENERO DE 2026.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE ENERO DE 2026.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -4185,11 +4183,15 @@ Si el agente restituye el objeto del ilícito directamente al ofendido o tribuna
 
 ### CAPÍTULO IV. EXTORSIÓN
 
+> <small>(REFORMADO, D.O. 20 DE ENERO DE 2026)</small>
+
 ###### ARTÍCULO 327.
 
-A quien sin derecho obligue a otro a dar, hacer, dejar de hacer o tolerar algo obteniendo un lucro para sí o para otro o causando a alguien un perjuicio patrimonial, se le aplicarán de uno a seis años de prisión y de treinta a cien días-multa.
+Son delitos de extorsión, los establecidos en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la Fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
-Las sanciones se aumentarán hasta el doble si el constreñimiento se realiza mediante una asociación delictuosa o por quien sea o haya sido servidor público. En este caso, se impondrá además al servidor, la destitución del empleo, cargo o comisión y la inhabilitación de uno a cinco años para desempeñar empleo, cargo o comisión públicos y al ex-servidor público únicamente la inhabilitación por el mismo término.
+El Ministerio Público, las policías bajo su mando y el Poder Judicial del Estado de Yucatán serán competentes para investigar, perseguir, procesar y sancionar los delitos establecidos en la Ley General referida en el párrafo anterior, de acuerdo a la competencia local prevista en dicha ley.
+
+Las penas establecidas para los delitos de Extorsión se aplicarán sin perjuicio de las demás que resulten aplicables para los tipos penales que concurran en la comisión de dichos delitos.
 
 ### CAPÍTULO V. USURA
 
@@ -6262,3 +6264,33 @@ D.O. 24 DE DICIEMBRE DE 2025.
 Entrada en vigor
 
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 20 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 161/2026 POR EL QUE SE MODIFICAN EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN Y LA LEY DE LA FISCALÍA GENERAL DEL ESTADO DE YUCATÁN, EN MATERIA DE ARMONIZACIÓN DEL DELITO DE EXTORSIÓN PREVISTO EN LA LEY GENERAL PARA PREVENIR, INVESTIGAR Y SANCIONAR LOS DELITOS EN MATERIA DE EXTORSIÓN, REGLAMENTARIA DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS".]
+
+Entrada en vigor
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Referencias
+
+Artículo segundo. Toda referencia al delito de extorsión contemplada en el Código Penal del Estado de Yucatán o en cualquier otra disposición, se entenderá hecha al delito de extorsión previsto en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Asuntos en trámite
+
+Artículo tercero. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, a partir de la entrada en vigor de este Decreto, el órgano jurisdiccional, podrá efectuar la traslación del tipo en beneficio de la persona a sentenciar, de conformidad con la conducta delictiva de extorsión, sus modalidades o agravantes que se hayan acreditado.
+
+Tratándose de persona sentenciada, el juez de ejecución podrá considerar la revisión de las penas que se hayan impuesto para efectuar, en su caso, la traslación del tipo, siempre que la conducta, modalidades o agravantes proceda y resultase en su beneficio.
+
+Las disposiciones relativas al delito de extorsión prevista en el Código Penal del Estado de Yucatán vigente a la entrada en vigor del presente Decreto, seguirá aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por el delito de extorsión, sus modalidades, agravantes y sanciones, salvo lo dispuesto en el presente artículo en lo relativo a la traslación del tipo y adecuación de la pena.
+
+Los procedimientos penales en materia de extorsión, iniciados antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia del mismo.
+
+Unidad especializada al Delito de Extorsión
+
+Artículo cuarto. La Fiscalía General del Estado de Yucatán en un plazo no mayor a los 120 días naturales, contado a partir de la entrada en vigor del presente decreto deberá poner en funcionamiento la Unidad Administrativa Especializada en Delitos de Extorsión.
+
+Hasta en tanto entre en funciones la citada Unidad Especializada prevista en el párrafo anterior, los casos de este delito serán atendidos por la vicefiscalía, agencia o unidad cuya materia sea la atención del delito de Privación Ilegal de la Libertad y otras Garantías o, en su caso, conductas relacionadas al secuestro en términos de la Ley de la Fiscalía General del Estado de Yucatán y su reglamento.
+
+La Fiscalía General del Estado de Yucatán deberá realizar los ajustes financieros al presupuesto correspondiente al ejercicio fiscal 2025 y, en su caso, al asignado para el ejercicio fiscal 2026 para dar cumplimiento a lo ordenado en el presente decreto.
