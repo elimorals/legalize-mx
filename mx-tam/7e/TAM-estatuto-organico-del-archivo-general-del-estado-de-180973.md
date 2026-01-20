@@ -4,7 +4,7 @@ identifier: "TAM-estatuto-organico-del-archivo-general-del-estado-de-180973"
 country: "mx"
 rank: "estatuto"
 publication_date: "2025-06-20"
-last_updated: "2025-06-20"
+last_updated: "2026-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180973&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 ESTATUTO ORGÁNICO DEL ARCHIVO GENERAL DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2026.
 
 Estatuto publicado en la Edición Vespertina Extraordinario Número 28 del Periódico Oficial del Estado de Tamaulipas, el viernes 20 de junio de 2025.
 
@@ -83,9 +83,11 @@ X. Presidencia: a la persona titular del Órgano de Gobierno;
 
 El AGET para su organización y funcionamiento, se regirá por la Constitución Política del Estado de Tamaulipas, la Ley Orgánica de la Administración Pública del Estado de Tamaulipas, la Ley de Archivos para el Estado de Tamaulipas, la Ley de Entidades Paraestatales del Estado de Tamaulipas, el presente Estatuto y las demás disposiciones jurídicas que resulten aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2026)</small>
+
 ###### ARTÍCULO 6.
 
-El patrimonio del Archivo General del Estado estará integrado por:
+El patrimonio del Archivo General del Estado de Tamaulipas, estará integrador (sic) por:
 
 I. Los bienes que le sean transmitidos por el Poder Ejecutivo Estatal para el desempeño de sus funciones;
 
@@ -109,7 +111,9 @@ Para el ejercicio de sus facultades, obligaciones y el despacho de los asuntos q
 
 Las demás unidades administrativas y personal que autorice el Órgano de Gobierno a propuesta de la Dirección General, sujeto a la disponibilidad presupuestal del AGET.
 
-El AGET a través de sus unidades administrativas, dará cumplimiento a las obligaciones de transparencia a que se refieren los artículos 65 de la Ley General de Transparencia y Acceso a la Información Pública y 67 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas; así como observar y cumplir con sus obligaciones en materia de protección de datos personales en los términos de las disposiciones aplicables.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2026)</small>
+
+El AGET a través de sus unidades administrativas, dará cumplimiento a las obligaciones de transparencia a que se refieren los artículos 56 de la Ley General de Transparencia y Acceso a la Información Pública y 57 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas; así como observar y cumplir con sus obligaciones en materia de protección de datos personales en los términos de las disposiciones aplicables.
 
 ### CAPÍTULO II. DEL ÓRGANO DE GOBIERNO
 
@@ -121,9 +125,13 @@ I. La Secretaría General, quien lo presidirá;
 
 II. La Secretaría de Finanzas;
 
-III. La Secretaría de Educación de Tamaulipas;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2026)</small>
 
-IV. La Contraloría Gubernamental;
+III. La Secretaría de Educación;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2026)</small>
+
+IV. La Secretaría de Administración;
 
 V. El Instituto Tamaulipeco para la Cultura y las Artes; y
 
@@ -189,13 +197,17 @@ Es obligación de las personas integrantes del Órgano de Gobierno:
 
 I. Asistir puntualmente a las sesiones en la modalidad, fecha, hora y lugar fijadas en la convocatoria;
 
-II. Participar en las sesiones con derecho a voz y voto, con excepción de la Contraloría Gubernamental, la cual sólo tendrá derecho a voz;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2026)</small>
+
+II. Participar en las sesiones con derecho a voz y voto;
 
 III. Dar seguimiento a los acuerdos tomados en el ámbito de su competencia;
 
 IV. Formar parte de las comisiones o grupos de trabajo que se conformen;
 
-V. En caso de no existir quórum legal para la celebración de la sesión, deberá emitirse nueva convocatoria dentro de los cinco (05) días siguientes a la fecha convocada;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2026)</small>
+
+V. En caso de no existir cuórum legal para la celebración de la sesión, deberá emitirse nueva convocatoria; las sesiones ordinarias en segunda convocatoria podrán celebrarse ese mismo día, o dentro de los cinco días siguientes a la fecha de celebración de la primera convocatoria. En el caso de las sesiones extraordinarias a segunda convocatoria deberán celebrarse en la hora siguiente a la programada en primera convocatoria.
 
 VI. En caso de que la persona Presidente del Órgano de Gobierno no apruebe la convocatoria, o no instruya a la Secretaría Técnica para que realice la convocatoria en tiempo y forma; no podrá celebrarse la sesión hasta que se cumplan con las formalidades de las convocatorias; salvo que se trate de una sesión extraordinaria y se encuentren presentes en ese acto, todas las personas integrantes del Órgano de Gobierno, en términos de lo dispuesto en el último párrafo del Artículo 18 del presente Estatuto; y la persona que presida la sesión extraordinaria del órgano de gobierno, será quien establezca en coordinación con sus integrantes, el Orden del día de las sesiones; y
 
@@ -239,7 +251,9 @@ VIII. Las demás que le confieran el Órgano de Gobierno o la Presidencia.
 
 Las sesiones del Órgano de Gobierno serán ordinarias y extraordinarias, las cuales podrán ser presenciales, virtuales o mixtas.
 
-El Órgano de Gobierno sesionará de manera ordinaria por lo menos cuatro veces al año, para lo cual aprobará su calendario anual de sesiones para el siguiente año en la última sesión del año en curso.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2026)</small>
+
+El Órgano de Gobierno sesionará de manera ordinaria por lo menos cinco veces al año, para lo cual aprobará su calendario anual de sesiones para el siguiente año en la última sesión del año en curso.
 
 El Órgano de Gobierno podrá celebrar sesiones extraordinarias en cualquier tiempo, con el fin de atender asuntos que por su naturaleza requieran atención.
 
@@ -481,7 +495,9 @@ V. Gestionar ante la Secretaría General de Gobierno la publicación en el Peri�
 
 VI. Dar seguimiento a las obligaciones en materia de transparencia, acceso a la información, protección de datos personales, y archivos que establece el marco jurídico aplicable y coordinar las acciones para su cumplimiento;
 
-VII. Fungir como enlace ante el Instituto de Transparencia, de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas, o autoridad descrita en la ley de la materia vigente en el Estado, en las materias en las que se refiere la fracción VII del presente artículo, será también el responsable de la Unidad de Transparencia del Organismo;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2026)</small>
+
+VII. Fungir como enlace ante Transparencia para el Pueblo de Tamaulipas, o autoridad descrita en la ley de la materia vigente en el Estado, en las materias en las que se refiere la presente fracción, será también el responsable de la Unidad de Transparencia del Organismo;
 
 VIII. Atender las acciones en materia de mejora regulatoria del Archivo General del Estado de Tamaulipas;
 
@@ -515,9 +531,11 @@ El AGET contará con un Comisario designado en términos de la Ley Orgánica de 
 
 ### CAPÍTULO ÚNICO. DEL COMITÉ DE TRANSPARENCIA
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2026)</small>
+
 ###### ARTÍCULO 30.
 
-EL AGET también contará con un Comité de Transparencia, el cual tendrá a su cargo las funciones señaladas en el artículo 39 y 40 de la Ley General de Transparencia y Acceso a la Información Pública y contará con facultades y atribuciones que le confiere la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas y las demás disposiciones jurídicas que resulten aplicables.
+EL AGET también contará con un Comité de Transparencia, el cual tendrá a su cargo las funciones señaladas en los artículos 31 y 32 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas y las demás disposiciones jurídicas que resulten aplicables.
 
 ###### ARTÍCULO 31.
 
@@ -529,7 +547,9 @@ II. El titular de la Unidad de Transparencia, y
 
 III. El Comisario en el AGET.
 
-La Unidad y el Comité de Transparencia, se regirán por lo dispuesto en la Ley General de Transparencia y Acceso a la Información Pública, en la Ley General de Protección de Datos Personales en Posesión de los Sujetos Obligados y en la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas, en todo lo que les resulte aplicable.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2026)</small>
+
+La Unidad y el Comité de Transparencia, se regirán por lo dispuesto en la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas y en la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Tamaulipas, en todo lo que les resulte aplicable.
 
 ## TÍTULO V
 
@@ -580,3 +600,25 @@ Se derogan todas las disposiciones jurídicas y administrativas que se opongan a
 Dado en la residencia del Poder Ejecutivo en Ciudad Victoria, Capital del Estado de Tamaulipas, a los dieciséis días del mes de junio del año dos mil veinticinco.
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- AMÉRICO VILLARREAL ANAYA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HÉCTOR JOEL VILLEGAS GONZÁLEZ.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GUBERNAMENTAL MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL ARCHIVO GENERAL DEL ESTADO DE TAMAULIPAS PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO NÚMERO 28 EDICIÓN VESPERTINA EXTRAORDINARIO DE FECHA 20 DE JUNIO DE 2025".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo Gubernamental entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Acuerdo Gubernamental deberá inscribirse en el Registro Estatal de Organismos Descentralizados, de conformidad con la fracción I del artículo 23 de la Ley de Entidades Paraestatales del Estado de Tamaulipas y la fracción I del artículo 35 de su Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+En tanto se expide el Manual de Organización del Archivo General del Estado de Tamaulipas, las funciones de las personas servidoras públicas se normarán por la materia de su denominación, al tiempo que, si sus funciones se hubiesen determinado con base a una disposición anterior a la vigencia del presente Estatuto, corresponderá a la unidad que conozca de la sustanciación de los asuntos en trámite, hasta que se dicte el acuerdo o resolución pertinente.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Acuerdo.
