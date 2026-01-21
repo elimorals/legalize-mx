@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-educacion-del-estado-de-morelos-148454"
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-17"
-last_updated: "2025-10-29"
+last_updated: "2026-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2026.
 
 Ley publicada en el número 5926 del Periódico Oficial del Estado de Morelos, el miércoles 17 de marzo de 2021.
 
@@ -485,11 +485,17 @@ IX. El logro de los educandos de acuerdo con sus capacidades, circunstancias, ne
 
 X. Los conocimientos, habilidades motrices y creativas, a través de la activación física, la práctica del deporte y la educación física vinculadas con la salud, la cultura, la recreación y la convivencia en comunidad;
 
-XI. La apreciación y creación artística, a través de conocimientos conceptuales y habilidades creativas para su manifestación en diferentes formas, y
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2024)</small>
+XI. La apreciación y creación artística, a través de conocimientos conceptuales y habilidades creativas para su manifestación en diferentes formas;
 
-XII. Los valores para la responsabilidad ciudadana y social, como el respeto por los otros; evitando el Acoso Escolar, la solidaridad, la justicia, la libertad, la igualdad, la honradez, la gratitud y la participación democrática con base a una educación cívica.
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2026)</small>
+
+XII. Los valores para la responsabilidad ciudadana y social, como el respeto por los otros; evitando el Acoso Escolar, la solidaridad, la justicia, la libertad, la igualdad, la honradez, y
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2026)</small>
+
+XIII. La educación financiera, para desarrollar habilidades en el manejo responsable de recursos económicos, el fomento del ahorro, la planificación financiera personal y la toma de decisiones informadas que contribuyan al bienestar económico.
 
 ###### ARTÍCULO 23.
 
@@ -2586,6 +2592,14 @@ TERCERA. El presente Decreto deroga todas las disposiciones legales o administra
 P.O. 29 DE OCTUBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS QUINCE POR EL QUE SE REFORMA LA FRACCIÓN III AL ARTÍCULO 137 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo Estatal para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos; lo anterior, conforme a lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos, y el artículo 145 del Reglamento para el Congreso del Estado de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 21 DE ENERO DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NÚMERO SEISCIENTOS DIECISÉIS POR EL QUE SE ADICIONA LA FRACCIÓN XIII Y CON ELLO SE REFORMA LA FRACCIÓN XI, Y XII AL ARTÍCULO 22 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MORELOS, PARA IMPLEMENTAR “LA EDUCACIÓN FINANCIERA” EN EL ESTADO DE MORELOS".]</small>
 
 PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo Estatal para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos; lo anterior, conforme a lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos, y el artículo 145 del Reglamento para el Congreso del Estado de Morelos.
 
