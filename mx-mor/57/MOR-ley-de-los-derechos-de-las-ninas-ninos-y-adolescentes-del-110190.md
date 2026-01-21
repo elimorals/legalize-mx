@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11019
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-14"
-last_updated: "2025-10-15"
+last_updated: "2026-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de octubre de 2015.
 
@@ -147,39 +147,47 @@ XXIV. La Representación en Suplencia: La representación de niñas, niños y ad
 
 XXV. (DEROGADA, P.O. 30 DE AGOSTO DE 2018)
 
-XXVI. El Sistema de Protección Local: El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Morelos;
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2026)</small>
 
-XXVII. Los Sistemas DIF Municipales: Los Sistemas Municipales para el Desarrollo Integral de la Familia;
+XXVI. Los castigos corporales, son todos aquellos actos cometidos en contra de niñas, niños y adolescentes en el que se utilice la fuerza física, incluyendo golpes con la mano o con algún objeto, empujones, pellizcos, mordidas, tirones de cabello o de las orejas, obligarlos a sostener posturas incómodas, quemaduras, ingesta de alimentos hirviendo u otros productos o cualquier otro acto que tenga por objeto causar dolor o malestar, aunque sea leve;
 
-XXVIII. El Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia;
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2026)</small>
 
-XXIX. El Sistema Nacional de Protección Integral: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes, y
+XXVII. Castigo humillante es cualquier trato ofensivo, denigrante, desvalorizador, estigmatizante, ridiculizador y de menosprecio, y cualquier acto que tenga como objetivo provocar dolor, amenaza, molestia o humillación cometido en contra de niñas, niños y adolescentes.; (sic)
+
+XXVIII. El Sistema de Protección Local: El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Morelos;
+
+XXIX. Los Sistemas DIF Municipales: Los Sistemas Municipales para el Desarrollo Integral de la Familia;
+
+XXX. El Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia;
+
+XXXI. El Sistema Nacional de Protección Integral: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes, y
 
 > <small>(ADICIONADA, P.O. 28 DE MAYO DE 2025)</small>
 
-XXX. Salud Mental: el estado de bienestar que permite a las niñas, niños y adolescentes el buen funcionamiento cognitivo, afectivo, conductual, que beneficia el despliegue óptimo de sus potencialidades individuales convivencia, el aprendizaje y la recreación, que favorezca su desarrollo integral y dignidad humana.
+XXXII. Salud Mental: el estado de bienestar que permite a las niñas, niños y adolescentes el buen funcionamiento cognitivo, afectivo, conductual, que beneficia el despliegue óptimo de sus potencialidades individuales convivencia, el aprendizaje y la recreación, que favorezca su desarrollo integral y dignidad humana.
 
-XXXI. Los Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
+XXXIII. Los Tratados Internacionales: Los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado mexicano sea parte.
 
-> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXXII], P.O. 15 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2025)</small>
 
-XXXI. (SIC) Medidas de protección especial: conjunto de acciones, programas y actividades institucionales orientadas a reconocer, proteger y garantizar los derechos humanos de las niñas, niños y adolescentes conforme a su interés superior, dirigidas a la prevención, atención, asistencia, restitución y reparación, con la finalidad de salvaguardar el libre goce y pleno ejercicio de sus derechos;
+XXXIV. Medidas de protección especial: conjunto de acciones, programas y actividades institucionales orientadas a reconocer, proteger y garantizar los derechos humanos de las niñas, niños y adolescentes conforme a su interés superior, dirigidas a la prevención, atención, asistencia, restitución y reparación, con la finalidad de salvaguardar el libre goce y pleno ejercicio de sus derechos;
 
-> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXXIII], P.O. 15 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2025)</small>
 
-XXXII. Mendicidad ajena infantil: explotación de niñas, niños y adolescentes realizada por los padres o por un tercero para obtener un beneficio al obligarlos a pedir limosna o caridad contra la voluntad, recurriendo a la amenaza de daño grave, un daño grave, al uso de la fuerza u otras formas de coacción, o el engaño, y
+XXXV. Mendicidad ajena infantil: explotación de niñas, niños y adolescentes realizada por los padres o por un tercero para obtener un beneficio al obligarlos a pedir limosna o caridad contra la voluntad, recurriendo a la amenaza de daño grave, un daño grave, al uso de la fuerza u otras formas de coacción, o el engaño, y
 
 > <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2025)</small>
 
-XXXIII. Lectura fácil: formato que tiene como objetivo la comprensión integral de un texto a personas con dificultades para entenderlo en su formato original, pudiendo incluir diferentes elementos en su elaboración que faciliten su entendimiento.
+XXXVI. Lectura fácil: formato que tiene como objetivo la comprensión integral de un texto a personas con dificultades para entenderlo en su formato original, pudiendo incluir diferentes elementos en su elaboración que faciliten su entendimiento.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE ABRIL DE 2025)</small>
 
-XXXIV. Mínima intervención: Consiste en que, cuando se solicite a niñas, niños y adolescentes sean llamados a juicio, a ejercer su derecho a emitir su opinión en todo lo que les concierne, sea el menor número de veces posible y la misma se haga fuera del horario escolar;
+XXXVII. Mínima intervención: Consiste en que, cuando se solicite a niñas, niños y adolescentes sean llamados a juicio, a ejercer su derecho a emitir su opinión en todo lo que les concierne, sea el menor número de veces posible y la misma se haga fuera del horario escolar;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE ABRIL DE 2025)</small>
 
-XXXV. No revictimización: cuando intervienen en procedimientos judiciales como víctimas o testigos las personas juzgadoras determinen las medidas necesarias para evitar la revictimización de niñas, niños y adolescentes, las cuales se deben guiar por el criterio de mayor beneficio y atender sus necesidades, el contexto y la propia naturaleza del acto criminal sufrido; (sic)
+XXXVIII. No revictimización: cuando intervienen en procedimientos judiciales como víctimas o testigos las personas juzgadoras determinen las medidas necesarias para evitar la revictimización de niñas, niños y adolescentes, las cuales se deben guiar por el criterio de mayor beneficio y atender sus necesidades, el contexto y la propia naturaleza del acto criminal sufrido; (sic)
 
 ###### Artículo 5.
 
@@ -651,9 +659,23 @@ VI. El trabajo en adolescentes mayores de 15 años que pueda perjudicar su salud
 
 VII. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en riñas, conflictos armados o en cualquier otra actividad que impida su desarrollo integral.
 
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2026)</small>
+
+VIII. Castigos corporales y humillantes.
+
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2026)</small>
+
+Las niñas, niños y adolescentes tienen derecho a recibir orientación, educación, cuidado y crianza de su madre, su padre o de quienes ejerzan la patria potestad, tutela o guarda y custodia, así como de los encargados y el personal de instituciones educativas, deportivas, religiosas, de salud, de asistencia social y de cualquier otra índole que brinde asistencia a niñas, niños y adolescentes, sin que, en modo alguno, se autorice a estos el uso de castigos corporales o humillantes.
+
+(REPUBLICADO, P.O. 21 DE ENERO DE 2026)
+
 Las autoridades competentes deberán considerar la perspectiva de género en las situaciones de violencia.
 
+(REPUBLICADO, P.O. 21 DE ENERO DE 2026)
+
 La legislación estatal y municipal deberá establecer las disposiciones que orientarán las políticas de prevención, protección, atención, sanción y erradicación de los supuestos a que se refieren las fracciones anteriores.
+
+(REPUBLICADO, P.O. 21 DE ENERO DE 2026)
 
 Las autoridades competentes, están obligadas a implementar medidas especiales para prevenir, sancionar y reparar las conductas previstas en este artículo para niñas, niños y adolescentes con discapacidad.
 
@@ -1289,7 +1311,9 @@ I. Que quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas,
 
 II. Que la directiva y personal de instituciones de salud, asistencia social, académicas, deportivas, religiosas o de cualquier otra índole, se abstengan de ejercer cualquier forma de violencia, maltrato, perjuicio, agresión, daño, abuso, acoso y explotación en contra de niñas, niños o adolescentes, y que formulen programas e impartan cursos de formación permanente para prevenirlas y erradicarlas, adoptando medidas eficaces, con campañas de información, para promover medidas disciplinarias alternativas, positivas, participativas y no violentas; erradicando el castigo corporal, humillante y los tratos crueles y denigrantes, enfocados siempre en la enseñanza de una crianza positiva; y
 
-III. Que quienes tengan trato con niñas, niños y adolescentes se abstengan de ejercer cualquier tipo de violencia en su contra, en particular el castigo corporal.
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2026)</small>
+
+III. Que quienes tengan trato con niñas, niños y adolescentes se abstengan de ejercer cualquier tipo de violencia en su contra, en particular los castigos corporales y humillantes.
 
 ###### Artículo 89.
 
@@ -2264,3 +2288,11 @@ SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de s
 TERCERA. Queda a cargo del Tribunal Superior de Justicia del Estado de Morelos realizar las tareas relacionadas al diseño, programación, presupuestación y capacitación de su personal para dar cumplimiento del presente decreto y garantizar el acceso a la justicia de niñas, niños, adolescentes y personas con discapacidad sensorial, intelectual y mental en las resoluciones judiciales que pongan fin al procedimiento y que así lo requieran.
 
 CUARTA. Se derogan todas las disposiciones de igual o menor rango jerárquico que se oponga a la presente reforma.
+
+P.O. 21 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS VEINTIUNO.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS, CON EL PROPÓSITO DE PROHIBIR LOS CASTIGOS CORPORALES Y HUMILLANTES PARA CORREGIRLOS”.]
+
+PRIMERA. Remítase el presente Decreto a la Persona Titular del Poder Ejecutivo Estatal para su publicación correspondiente en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del estado de Morelos.
