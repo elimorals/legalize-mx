@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-la-preservacion-fomento-y-proteccion-del-arbolado-1680
 country: "mx"
 rank: "ley"
 publication_date: "2023-09-30"
-last_updated: "2023-09-30"
+last_updated: "2026-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY PARA LA PRESERVACIÓN, FOMENTO Y PROTECCIÓN DEL ARBOLADO URBANO DEL ESTADO DE ZACATECAS.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2026.
 
 Ley publicada en el Suplemento 14 del Número 78 del Periódico Oficial del Estado de Zacatecas, el sábado 30 de septiembre de 2023.
 
@@ -171,7 +171,9 @@ V. Las demás que conforme a la presente Ley y otras disposiciones jurídicas ap
 
 Corresponde a los Municipios, a través del Ayuntamiento, o de la dirección o unidad administrativa correspondiente:
 
-I. Expedir los reglamentos municipales en materia de protección, cuidado y conservación del arbolado urbano, de acuerdo con esta Ley;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2026)</small>
+
+I. Expedir los reglamentos municipales en materia de protección, cuidado y conservación del arbolado urbano, así como su fomento a través de la correcta plantación, en los términos de esta Ley;
 
 II. Aplicar, en el ámbito de su competencia, las medidas preventivas, de seguridad y las sanciones administrativas por infracciones a la presente Ley y a la reglamentación municipal de la materia;
 
@@ -201,7 +203,11 @@ Para lo anterior, en los reglamentos municipales de la materia se determinarán 
 
 XIV. Promover campañas para arborizar las áreas urbanas que carezcan de árboles suficientes para el adecuado equilibrio ecológico de las mismas, conforme a los estudios pertinentes; y
 
-XV. Las demás que conforme a la presente Ley y el Reglamento Municipal les correspondan.
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2026)</small>
+
+XV. En coordinación con el Estado, desarrollar y promover programas de arborización en las casas habitación, y
+
+XVI. Las demás que conforme a la presente Ley y el Reglamento Municipal les correspondan.
 
 ### CAPÍTULO V. DE LA PODA, DERRIBO Y TRANSPLANTE DEL ARBOLADO URBANO
 
@@ -640,3 +646,15 @@ DADO en la Sala de Sesiones de la Honorable Sexagésima Cuarta Legislatura del E
 Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
 
 Dado en el Despacho del poder Ejecutivo del Estado, a los diecisiete días del mes de mayo del año dos mil veintitrés. GOBERNADOR DEL ESTADO.- DAVID MONREAL ÁVILA. SECRETARIO GENERAL DE GOBIERNO.- RODRIGO REYES MUGÜERZA. Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 118.- REFORMAS Y ADICIONES A LA LEY PARA LA PRESERVACIÓN, FOMENTO Y PROTECCIÓN DEL ARBOLADO URBANO DEL ESTADO DE ZACATECAS”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial Órgano del Gobierno del Estado de Zacatecas.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
