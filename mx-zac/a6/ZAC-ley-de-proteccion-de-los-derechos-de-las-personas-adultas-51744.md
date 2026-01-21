@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-proteccion-de-los-derechos-de-las-personas-adultas-51744
 country: "mx"
 rank: "ley"
 publication_date: "2006-06-24"
-last_updated: "2023-03-11"
+last_updated: "2026-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51744&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2026.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 24 de junio de 2006.
 
@@ -151,6 +151,24 @@ XVIII. Proceso de envejecimiento: Proceso continuo, heterogéneo, universal e ir
 
 XIX. Tanatología: Los estudios encaminados a procurar una muerte digna con cuidados paliativos médicos, atención psicológica y social.
 
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 21 DE ENERO DE 2026)</small>
+
+XX. Violencia: A la Violencia ejercida en contra de las personas adultas mayores, cualquier acto u omisión que de manera enunciativa más no limitativa pueda ser:
+
+a) Violencia psicológica. Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, insultos, humillaciones, devaluación, marginación, indiferencia, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
+
+b) Violencia física. Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas o ambas;
+
+c) Violencia patrimonial. Es cualquier acto u omisión que afecta la supervivencia de la víctima. Se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima; hecha excepción de que medie acto de autoridad fundado o motivado;
+
+d) Violencia económica. Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
+
+e) Violencia sexual. Es cualquier acto que degrada o daña el cuerpo y/o sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder;
+
+f) Violencia familiar. Es cualquier acto o conducta de abuso, dominio, control, sometimiento o agresión física, verbal, psicológica, sexual, patrimonial o económica sobre una persona adulta mayor con la que se tenga parentesco por consanguinidad, se encuentre o se haya estado unida en matrimonio, concubinato o relación de pareja. Puede ocurrir aún si el agresor y la víctima no comparten domicilio, e incluso puede darse fuera del domicilio, y
+
+g) Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las Personas Adultas Mayores.
+
 ## TÍTULO SEGUNDO. DE LOS PRINCIPIOS, DERECHOS Y OBLIGACIONES DE LAS PERSONAS ADULTAS MAYORES
 
 ### CAPÍTULO I. De los Principios
@@ -221,9 +239,9 @@ b) Recibir un trato digno y apropiado en cualquier procedimiento judicial en que
 
 c) Recibir la asesoría jurídica de manera gratuita por parte de las instituciones del Estado y de los municipios y contar con un representante legal cuando sea necesario;
 
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2026)</small>
 
-d) Una defensa legal adecuada e integral en todos los casos en que sean víctimas de cualquier forma de violencia: maltrato físico, psicológico, emocional, verbal o sexual, negligencia y abandono, despojo patrimonial, falta de respeto, manipulación, ultrajes, estructural o social, legal, económica o patrimonialmente, a fin de garantizar su seguridad y proteger su propiedad personal y familiar; y
+d) Una defensa legal adecuada e integral en todos los casos en que sean víctimas de cualquier forma de violencia, a fin de garantizar su seguridad y proteger su integridad personal y su entorno familiar; y
 
 e) A la denuncia popular, por lo que toda persona, grupo social, organizaciones no gubernamentales, asociaciones o sociedades, podrán denunciar todo hecho, acto u omisión que produzca o pueda producir daño o afectación a los derechos que establece la presente Ley.
 
@@ -257,9 +275,9 @@ a) Recibir educación de conformidad con lo establecido en (sic) artículo 3º d
 
 b) Que las instituciones educativas públicas, privadas estatales y municipales, promuevan por medio de la Secretaría de Educación, que se incluyan en los planes y programas de estudios de los conocimientos relacionados con las personas adultas mayores; y
 
-> <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2026)</small>
 
-c) Tener acceso a programas de educación incluyente con un enfoque intergeneracional y con perspectiva de género, a fin de coadyuvar a la erradicación de paradigmas excluyentes que propician la discriminación, violencia, maltrato, abandono, aislamiento y abuso de las personas adultas mayores.
+c) Tener acceso a programas de educación incluyente con un enfoque intergeneracional y con perspectiva de género, a fin de coadyuvar a la erradicación de paradigmas excluyentes que propicien cualquier tipo de discriminación o violencia en contra de las personas adultas mayores.
 
 V. Al trabajo, por tanto, se reconoce que tienen derecho a:
 
@@ -559,6 +577,10 @@ i) Informar al Consejo de Coordinación Interinstitucional, mediante un reporte 
 
 j) Supervisar que las instituciones y dependencias respectivas proporcionen atención inmediata y prioritaria a las personas adultas mayores que vivan solas y en situación de abandono, en caso de que éstas presenten problemas de salud o alimentación.
 
+> <small>(ADICIONADO, P.O. 21 DE ENERO DE 2026)</small>
+
+k) Implementar programas permanentes de detección, atención y prevención de cualquier forma de violencia ejercida en contra de personas adultas mayores en instituciones públicas y privadas que brinden atención, estancia o albergue, así como el desarrollo de campañas de sensibilización dirigidas a la sociedad en general para visibilizar esta violencia y fomentar un trato digno y respetuoso.
+
 > <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2018)</small>
 
 II. La implementación de programas de prevención y protección a quienes se encuentren en situación de riesgo o desamparo, para incorporarlos al núcleo familiar o albergarlos en una casa hogar diurna o asilo, según sea el caso;
@@ -567,9 +589,15 @@ III. La atención y el apoyo jurídico de quienes resultaren víctimas de cualqu
 
 IV. La solución, mediante la vía conciliatoria, de la problemática familiar, cuando no se trate de delitos tipificados por el Código Penal o por la Ley Para Prevenir y Atender la Violencia Familiar en el Estado de Zacatecas;
 
-V. El seguimiento a través de (sic) Procuraduría de la Defensa del Menor y la Familia de quejas y denuncias, sobre la violación de los derechos por maltrato, lesiones, abuso físico o psíquico, sexual, abandono, descuido o negligencia y explotación; y
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2026)</small>
 
-VI. Las demás que disponga esta Ley y otras disposiciones aplicables.
+V. El seguimiento a través de la Procuraduría de la Defensa del Menor y la Familia de quejas y denuncias, sobre la violación de sus derechos por cualquier forma de violencia ejercida en su contra;
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2026)</small>
+
+VI. Promover el acceso y utilización adecuadas de las tecnologías de información y comunicación, a través de la capacitación de habilidades digitales a las personas adultas mayores; y
+
+VII. Las demás que disponga esta Ley y otras disposiciones aplicables.
 
 ### CAPÍTULO III. De las Obligaciones de los Municipios
 
@@ -587,7 +615,13 @@ IV. Conservar en buen estado, libres de tierra, piedras, arena o cualquier otro 
 
 V. Vigilar y promover que los estacionamientos públicos cuenten con espacios preferentes para el ascenso y descenso de las personas adultas mayores; y
 
-VI. Las demás que les confiera esta Ley y otros ordenamientos legales y reglamentarios sobre la materia.
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2026)</small>
+
+VI. Coordinarse con las demás autoridades para la promoción en el acceso y utilización adecuado, de las tecnologías de información y comunicación, a través de la capacitación de habilidades digitales; y
+
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2026)</small>
+
+VII. Las demás que les confiere esta Ley y otros ordenamientos legales y reglamentarios sobre la materia.
 
 ###### Artículo 24.
 
@@ -729,9 +763,15 @@ I. De orientación, apoyo y seguimiento temporal a la familia;
 
 II. De inclusión en programas oficiales o comunitarios de auxilio a las familias y a las personas adultas mayores;
 
-III. De canalización a las entidades públicas o privadas respectivas de aquellas personas adultas mayores que requieran albergue temporal; y
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2026)</small>
 
-IV. Las demás que resulten necesarias e idóneas para asegurar la atención eficiente y eficaz a las personas adultas mayores.
+III. De canalización a las entidades públicas o privadas respectivas de aquellas personas adultas mayores que requieran albergue temporal;
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2026)</small>
+
+IV. Implementar acciones específicas para la detección y atención de cualquier forma de violencia ejercida en contra de las personas adultas mayores, dentro de albergues, casas hogar, estancias y demás instituciones públicas o privadas que presten servicios de cuidado; así como medidas de protección inmediatas cuando la violencia sea identificada, y
+
+V. Las demás que resulten necesarias e idóneas para asegurar la atención eficiente y eficaz a las personas adultas mayores.
 
 ###### Artículo 34.
 
@@ -955,7 +995,9 @@ XII. Fortalecer los mecanismos jurídicos que aseguren el ejercicio eficaz de lo
 
 XIII. Estimular la participación activa de las organizaciones que actúan en la promoción, atención y defensa de los derechos de las personas adultas mayores;
 
-XIV. Diseñar estrategias tendientes a prevenir, atender y erradicar la violencia o el abuso hacia las personas adultas mayores;
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2026)</small>
+
+XIV. Diseñar estrategias tendientes a prevenir, atender y erradicar cualquier forma de violencia ejercida en contra de las personas adultas mayores;
 
 XV. Diseñar y organizar foros de apoyo a las familias de las personas adultas mayores, a fin de proporcionarles los mecanismos y las herramientas necesarias para la atención que les ofrezcan dentro del seno familiar;
 
@@ -1127,9 +1169,11 @@ Para el efecto de establecer mecanismos de coordinación y sin perjuicio de las 
 
 Corresponde a los grupos de la sociedad civil organizada, participar de manera coordinada y concertada con el Consejo de Coordinación Interinstitucional en la implementación y ejecución de las acciones y programas que incidan en su favor.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ENERO DE 2026)</small>
+
 ###### Artículo 59.
 
-Cualquier persona podrá presentar queja o denuncia ante el Sistema DIF Estatal a través de la Procuraduría de la Defensa del Menor y la Familia de todo acto u omisión que produzca o pueda producir daño o afectación a los derechos y garantías de las personas adultas mayores, ya sea violencia física o moral, discriminación, abusos, maltratos, abandono, vejaciones, humillaciones. La queja o denuncia deberá informar sobre los siguientes aspectos:
+Cualquier persona podrá presentar queja o denuncia ante el Sistema DIF Estatal a través de la Procuraduría de la Defensa del Menor y la Familia de todo acto, omisión o cualquier tipo de violencia que produzca o pueda producir daño o afectación a los derechos y garantías de las personas adultas mayores. La queja o denuncia deberá informar sobre los siguientes aspectos:
 
 I. Nombre del denunciante, respetando, en su caso, su deseo de permanecer en el anonimato;
 
@@ -1139,9 +1183,11 @@ III. Los datos que permitan identificar al presunto infractor; y
 
 IV. Las pruebas, que en su caso, ofrezca el denunciante.
 
+> <small>(REFORMADO, P.O. 21 DE ENERO DE 2026)</small>
+
 ###### Artículo 60.
 
-Cuando los actos lesionen a una persona adulta mayor y fueren constitutivos de delito, la Procuraduría de la Defensa del Menor y la Familia turnará la denuncia ante las autoridades competentes, de conformidad con las formalidades del procedimiento.
+Cuando los actos, omisiones o violencia ejercida deriven en lesiones a una persona adulta mayor y fueren constitutivos de delito, la Procuraduría de la Defensa del Menor y la Familia turnará la denuncia ante las autoridades competentes, de conformidad con las formalidades del procedimiento.
 
 ###### Artículo 61.
 
@@ -1482,3 +1528,9 @@ P.O. 11 DE MARZO DE 2023.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Zacatecas.
 
 SEGUNDO. Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 21 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 122.- POR LA QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE ZACATECAS”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Zacatecas.
