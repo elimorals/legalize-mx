@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ingresos-del-municipio-de-turicato-michoacan-para-el-183
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2025-12-19"
-last_updated: "2025-12-19"
+last_updated: "2026-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=183860&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,8 +22,6 @@ municipality_inegi: "16097"
 state: "MIC"
 ---
 # LEY DE INGRESOS DEL MUNICIPIO DE TURICATO, MICHOACAN, PARA EL EJERCICIO FISCAL DEL AÑO 2026
-
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 21 DE ENERO DE 2026 EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
 
 LEY DE INGRESOS DEL MUNICIPIO DE TURICATO, MICHOACÁN, PARA EL EJERCICIO FISCAL DEL AÑO 2026
 
