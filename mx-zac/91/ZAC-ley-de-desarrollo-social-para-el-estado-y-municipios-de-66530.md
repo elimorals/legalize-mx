@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-desarrollo-social-para-el-estado-y-municipios-de-66530"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-17"
-last_updated: "2023-09-30"
+last_updated: "2026-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2026.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 17 de enero de 2009.
 
@@ -213,17 +213,37 @@ XII. Transparencia: La información relativa al desarrollo social y los recursos
 
 XIII. Interés Superior de la Niñez: De conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la Ley General de los Derechos de Niñas, Niños y Adolescentes, la Ley General de Desarrollo Social, los tratados internacionales aplicables de los que el Estado Mexicano sea parte y la Constitución Política del Estado Libre y Soberano de Zacatecas.
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2026)</small>
 
-XIII (SIC). Transversalidad: Modelo organizativo de carácter horizontal que busca la integración, la coordinación y cooperación interinstitucional e intersectorial, caracterizada por plantear objetivos asumidos por todos los sectores de la administración pública pero que no son propios de ninguno de ellos sino de carácter general del conjunto institucional;
+XIV. Transversalidad: Modelo organizativo de carácter horizontal que busca la integración, la coordinación y cooperación interinstitucional e intersectorial, caracterizada por plantear objetivos asumidos por todos los sectores de la administración pública pero que no son propios de ninguno de ellos sino de carácter general del conjunto institucional;
 
-> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2026)</small>
 
-XIV. Dignidad Humana: Principio rector supremo y sustento de los derechos humanos, en el que se reconoce a toda persona la libertad y la igualdad en derechos, y es el fundamento, objetivo y base de las acciones de la política de desarrollo social, y
+XV. Dignidad Humana: Principio rector supremo y sustento de los derechos humanos, en el que se reconoce a toda persona la libertad y la igualdad en derechos, y es el fundamento, objetivo y base de las acciones de la política de desarrollo social, y
 
-> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2026)</small>
 
-XV. Perspectiva de Género: Garantizar la equidad e igualdad de género en el diseño y ejecución de las políticas públicas de desarrollo social, desde una visión científica, analítica, política y compensatoria sobre las mujeres y los hombres, que elimine las causas de la opresión, la desigualdad, la injusticia y la jerarquización de las personas basadas en el género.
+XVI. Perspectiva de Género: Garantizar la equidad e igualdad de género en el diseño y ejecución de las políticas públicas de desarrollo social, desde una visión científica, analítica, política y compensatoria sobre las mujeres y los hombres, que elimine las causas de la opresión, la desigualdad, la injusticia y la jerarquización de las personas basadas en el género.
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2026)</small>
+
+XVII. Pro persona: ante conflicto se resolverá todo aquello que más beneficie a la persona;
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2026)</small>
+
+XVIII. Progresividad: ampliar la esfera de pleno goce de los derechos humanos, sin que se puedan tomar medidas regresivas salvo que se justifique éstas, atendiendo a los lineamientos y recomendaciones establecidos a nivel nacional o internacional según lo que más favorezca a la persona;
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2026)</small>
+
+XIX. Accesibilidad: todos los derechos humanos que se otorguen a favor de las personas deberán ser accesibles física como económicamente, sin importar la situación en la que se encuentren;
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2026)</small>
+
+XX. Disponibilidad: permitir que todos los bienes y servicios del Estado estén disponibles a toda persona sin importar su situación; y
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2026)</small>
+
+XXI. Adaptabilidad: velar que todos los bienes y servicios a cargo del Estado se adapten a las necesidades de las personas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE AGOSTO DE 2019)</small>
 
@@ -463,9 +483,9 @@ La política municipal de desarrollo social, comprende los programas municipales
 
 La política estatal y municipal de desarrollo social, tiene los siguientes objetivos:
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADA, P.O. 21 DE ENERO DE 2026)</small>
 
-I. Propiciar las condiciones que aseguren el disfrute de los derechos sociales, individuales o colectivos, garantizando el acceso a los programas de desarrollo social, la igualdad de oportunidades, a las medidas especiales de carácter temporal o compensatorias, encaminadas a erradicar la marginación, discriminación, vulnerabilidad, pobreza y la exclusión social;
+I. Propiciar las condiciones que aseguren el disfrute de los derechos sociales, individuales o colectivos, garantizando el acceso a los programas de desarrollo social, la igualdad de oportunidades, a las medidas especiales de carácter temporal o compensatorias, con un enfoque en derechos humanos y mínimo vital encaminadas a erradicar la marginación, discriminación, vulnerabilidad, pobreza y la exclusión social;
 
 II. Generar oportunidades de desarrollo integral, con equidad y procurando las mejores condiciones de vida para los habitantes del Estado;
 
@@ -484,6 +504,10 @@ VIII. Fomentar la igualdad de oportunidades y aprovechar la capacidad productiva
 IX. Establecer programas especiales para atender a los grupos sociales en situación de marginación, vulnerabilidad y pobreza con enfoque de género, y
 
 X. Promover y garantizar formas propias de organización y participación de la sociedad en la formulación, instrumentación, control, seguimiento, evaluación y actualización de los programas y políticas de desarrollo social.
+
+> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2026)</small>
+
+XI. Establecer las bases y principios generales de la planeación, instrumentación, seguimiento y evaluación de las políticas sociales, así como su vinculación con derechos humanos.
 
 ###### Artículo 23.
 
@@ -1344,3 +1368,9 @@ P.O. 30 DE SEPTIEMBRE DE 2023.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Zacatecas.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones se opongan al presente Decreto.
+
+P.O. 21 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 123.- SE REFORMA Y ADICIONA LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE ZACATECAS“.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Zacatecas.
