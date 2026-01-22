@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-mejora-regulatoria-del-estado-de-mexico-y-sus-13045
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-17"
-last_updated: "2024-04-05"
+last_updated: "2026-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130455&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MEXICO Y SUS MUNICIPIOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 261, PUBLICADO EN LA G.G. DE 22 DE ENERO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY PARA LA MEJORA REGULATORIA DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE ENERO DE 2026 (ABROGADA).
 
 Ley publicada en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 17 de septiembre de 2018.
 
@@ -1302,3 +1304,39 @@ DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la A
 DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
 
 DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
+
+G.G. 22 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 261.- DECLARATORIA DE APROBACIÓN DE LA MINUTA PROYECTO DE DECRETO QUE REFORMA EL ARTÍCULO 139 BIS; Y ADICIONA EL PÁRRAFO DÉCIMO SEGUNDO AL ARTÍCULO 18 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. A partir de la entrada en vigor del presente Decreto, se abroga la Ley para la Mejora Regulatoria del Estado de México y sus Municipios, publicada en el Periódico Oficial “Gaceta del Gobierno” el 17 de septiembre de 2018.
+
+CUARTO. El Congreso del Estado deberá realizar la armonización legislativa correspondiente con el contenido de este Decreto en un periodo no mayor a 180 días hábiles contados a partir de su entrada en vigor.
+
+En un plazo no mayor a noventa días hábiles contados a partir de la entrada en vigor de las modificaciones legislativas a que hace referencia el párrafo anterior, la persona titular del Poder Ejecutivo deberá expedir las adecuaciones correspondientes al Reglamento Interior de la Agencia Digital del Estado de México.
+
+QUINTO. La Agencia Digital del Estado de México será la Autoridad Estatal de Simplificación y Digitalización del Estado de México, en términos de la Ley Nacional para Eliminar Trámites Burocráticos, en materia de simplificación administrativa y digitalización de trámites y servicios, buenas prácticas regulatorias, así como desarrollo y fortalecimiento de capacidades tecnológicas públicas, con las atribuciones y obligaciones que le correspondan, y será responsable de implementar, supervisar y vigilar el cumplimiento de las disposiciones de dicha Ley en la entidad.
+
+SEXTO. A la entrada en vigor del presente Decreto se extinguirá el organismo público desconcentrado denominado Comisión Estatal de Mejora Regulatoria.
+
+Los recursos humanos, materiales, financieros y las previsiones presupuestales del organismo público desconcentrado denominado Comisión Estatal de Mejora Regulatoria serán transferidos a la Agencia Digital del Estado de México.
+
+En todo caso, se respetarán los derechos laborales de las personas trabajadoras adscritas al organismo público desconcentrado denominado Comisión Estatal de Mejora Regulatoria, de conformidad con las disposiciones jurídicas aplicables.
+
+SÉPTIMO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación al organismo público desconcentrado denominado Comisión Estatal de Mejora Regulatoria se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en el organismo público desconcentrado denominado Comisión Estatal de Mejora Regulatoria serán atendidos hasta su conclusión por la Agencia Digital del Estado de México, y serán resueltas conforme a las disposiciones jurídicas vigentes al momento de su inicio.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por el organismo público desconcentrado denominado Comisión Estatal de Mejora Regulatoria seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+OCTAVO. En un plazo no mayor a treinta días naturales contados a partir de la entrada en vigor del presente Decreto, las personas titulares de los Sujetos Obligados Estatales y Municipales deberán designar a sus respectivos Enlaces de Simplificación y Digitalización.
+
+La designación correspondiente deberá ser notificada a la Agencia de Transformación Digital y Telecomunicaciones, y a la Agencia Digital del Estado de México.
+
+NOVENO. Las secretarías de Finanzas, de Desarrollo Económico y de la Contraloría, la Oficialía Mayor y la Agencia Digital del Estado de México, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del mismo en términos de las disposiciones jurídicas aplicables.
+
+DÉCIMO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria y financiera; y deberán cubrirse con cargo al presupuesto aprobado al ente público competente para el ejercicio fiscal en curso y subsecuentes.
