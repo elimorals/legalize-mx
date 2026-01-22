@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2025-12-17"
+last_updated: "2026-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE ENERO DE 2026.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -758,6 +758,10 @@ Su tutela es de responsabilidad común.
 > <small>(ADICIONADO, G.G. 3 DE MARZO DE 2020)</small>
 
 Las autoridades del Estado de México garantizarán la protección, el bienestar, así como el trato digno y respetuoso a los animales y fomentarán una cultura de cuidado y tutela responsable. Asimismo, diseñarán estrategias para la atención de animales en abandono.
+
+> <small>(ADICIONADO, G.G. 22 DE ENERO DE 2026)</small>
+
+A fin de contribuir al desarrollo y bienestar de las personas, grupos, comunidades y sectores sociales y económicos, las autoridades estatales y municipales deberán implementar políticas públicas de simplificación administrativa y digitalización de trámites y servicios, buenas prácticas regulatorias, desarrollo y fortalecimiento de capacidades tecnológicas públicas y los demás objetivos que establezca la ley de la materia.
 
 > <small>(REFORMADO, G.G. 22 DE JUNIO DE 2021)</small>
 
@@ -3287,15 +3291,13 @@ e) Suscribir convenios con la Federación, los Estados y municipios limítrofes 
 
 f) Publicar los acuerdos y convenios que se suscriban para dar cumplimiento a los planes metropolitanos, en los periódicos oficiales.
 
-> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, G.G. 22 DE ENERO DE 2026)</small>
 
 ###### Artículo 139 Bis.
 
-La Mejora Regulatoria y el Gobierno Digital son instrumentos de desarrollo. Es obligatorio para el Estado y los municipios, sus dependencias y organismos auxiliares, implementar de manera permanente, continua y coordinada sus normas, actos, procedimientos y resoluciones, ajustándose a las disposiciones que establece esta Constitución, a fin de promover políticas públicas relativas al uso de las tecnologías de la información e impulsar el desarrollo económico del Estado de México.
+La simplificación administrativa, la digitalización de trámites y servicios, las buenas prácticas regulatorias, el Gobierno Digital y el desarrollo y fortalecimiento de capacidades tecnológicas públicas son instrumentos para el desarrollo y bienestar de las personas, grupos, comunidades y sectores sociales y económicos.
 
-> <small>(ADICIONADO, G.G. 24 DE ABRIL DE 2017)</small>
-
-La Ley establecerá la creación de registros estatales y municipales que incluyan todos los trámites y servicios de la administración pública, atendiendo las disposiciones relativas a la protección de datos personales y acceso a la información pública que la ley en la materia disponga, con el objetivo de generar certeza, seguridad jurídica y facilitar su cumplimiento mediante el uso de las tecnologías de la información y comunicaciones. La inscripción en el registro y su actualización será obligatoria para todas las dependencias de las administraciones públicas estatal, municipal y organismos auxiliares, en los términos que señale la ley de la materia.
+Es obligatorio para los Poderes del Estado, y los municipios, sus dependencias, organismos auxiliares y los organismos autónomos, implementar de manera permanente, continua y coordinada los modelos, herramientas y acciones que establezcan las disposiciones jurídicas aplicables, con el objetivo de generar certeza, seguridad jurídica, fomentar la transparencia, la eficacia y el gobierno abierto, y facilitar la gestión pública mediante el uso de las tecnologías de la información y comunicaciones.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -5614,3 +5616,39 @@ G.G. 17 DE DICIEMBRE DE 2025.
 PRIMERO. Publíquese en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 22 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 261.- DECLARATORIA DE APROBACIÓN DE LA MINUTA PROYECTO DE DECRETO QUE REFORMA EL ARTÍCULO 139 BIS; Y LA ADICIÓN DEL PÁRRAFO DÉCIMO SEGUNDO AL ARTÍCULO 18 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. A partir de la entrada en vigor del presente Decreto, se abroga la Ley para la Mejora Regulatoria del Estado de México y sus Municipios, publicada en el Periódico Oficial "Gaceta del Gobierno" el 17 de septiembre de 2018.
+
+CUARTO. El Congreso del Estado deberá realizar la armonización legislativa correspondiente con el contenido de este Decreto en un periodo no mayor a 180 días hábiles contados a partir de su entrada en vigor.
+
+En un plazo no mayor a noventa días hábiles contados a partir de la entrada en vigor de las modificaciones legislativas a que hace referencia el párrafo anterior, la persona titular del Poder Ejecutivo deberá expedir las adecuaciones correspondientes al Reglamento Interior de la Agencia Digital del Estado de México.
+
+QUINTO. La Agencia Digital del Estado de México será la Autoridad Estatal de Simplificación y Digitalización del Estado de México, en términos de la Ley Nacional para Eliminar Trámites Burocráticos, en materia de simplificación administrativa y digitalización de trámites y servicios, buenas prácticas regulatorias, así como desarrollo y fortalecimiento de capacidades tecnológicas públicas, con las atribuciones y obligaciones que le correspondan, y será responsable de implementar, supervisar y vigilar el cumplimiento de las disposiciones de dicha Ley en la entidad.
+
+SEXTO. A la entrada en vigor del presente Decreto se extinguirá el organismo público desconcentrado denominado Comisión Estatal de Mejora Regulatoria.
+
+Los recursos humanos, materiales, financieros y las previsiones presupuestales del organismo público desconcentrado denominado Comisión Estatal de Mejora Regulatoria serán transferidos a la Agencia Digital del Estado de México.
+
+En todo caso, se respetarán los derechos laborales de las personas trabajadoras adscritas al organismo público desconcentrado denominado Comisión Estatal de Mejora Regulatoria, de conformidad con las disposiciones jurídicas aplicables.
+
+SÉPTIMO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación al organismo público desconcentrado denominado Comisión Estatal de Mejora Regulatoria se entenderán hechas a la Agencia Digital del Estado de México.
+
+Los actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en el organismo público desconcentrado denominado Comisión Estatal de Mejora Regulatoria serán atendidos hasta su conclusión por la Agencia Digital del Estado de México, y serán resueltas conforme a las disposiciones jurídicas vigentes al momento de su inicio.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por el organismo público desconcentrado denominado Comisión Estatal de Mejora Regulatoria seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
+
+OCTAVO. En un plazo no mayor a treinta días naturales contados a partir de la entrada en vigor del presente Decreto, las personas titulares de los Sujetos Obligados Estatales y Municipales deberán designar a sus respectivos Enlaces de Simplificación y Digitalización.
+
+La designación correspondiente deberá ser notificada a la Agencia de Transformación Digital y Telecomunicaciones, y a la Agencia Digital del Estado de México.
+
+NOVENO. Las secretarias de Finanzas, de Desarrollo Económico y de la Contraloría, la Oficialía Mayor y la Agencia Digital del Estado de México, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del mismo en términos de las disposiciones jurídicas aplicables.
+
+DÉCIMO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria y financiera; y deberán cubrirse con cargo al presupuesto aprobado al ente público competente para el ejercicio fiscal en curso y subsecuentes.
