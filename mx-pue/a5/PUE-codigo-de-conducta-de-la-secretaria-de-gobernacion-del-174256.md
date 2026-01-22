@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-conducta-de-la-secretaria-de-gobernacion-del-174256"
 country: "mx"
 rank: "codigo"
 publication_date: "2024-08-30"
-last_updated: "2024-08-30"
+last_updated: "2026-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE GOBERNACION DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO POR EL QUE SE EXPIDE EL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE GOBERNACIÓN DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. DE 22 DE ENERO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE GOBERNACIÓN DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2026 (ABROGADO).
 
 Código publicado en la Sección Cuarta del Número 22 del Periódico Oficial del Estado de Puebla, el viernes 30 de agosto de 2024.
 
@@ -350,3 +352,15 @@ Cargo: ____________
 Unidad Administrativa: ____________
 
 Fecha y firma: ____________
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL COMITÉ DE ÉTICA Y PREVENCIÓN DE CONFLICTOS DE INTERÉS, POR EL QUE EXPIDE EL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE GOBERNACIÓN, APROBADO EN LA TERCERA SESIÓN ORDINARIA, CELEBRADA EL 25 DE NOVIEMBRE DE 2025".]
+
+PRIMERO. El presente ordenamiento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se abroga el Acuerdo del Comité de Ética y Prevención de Conflictos de Interés de la Secretaría de Gobernación, por el que se expide el Código de Conducta de la Secretaría de Gobernación aprobado en la Segunda Sesión Extraordinaria de fecha diecisiete de junio de dos mil veinticuatro, y publicado en el Periódico Oficial del Estado el día treinta de agosto de dos mil veinticuatro.
+
+TERCERO. Se instruye al Comité de Ética y Prevención de Conflictos de Interés de la Secretaría de Gobernación del Estado a que realice la difusión de este instrumento a todas las personas servidoras públicas adscritas.
