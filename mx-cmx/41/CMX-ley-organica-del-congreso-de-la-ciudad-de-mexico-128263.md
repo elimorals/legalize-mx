@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-congreso-de-la-ciudad-de-mexico-128263"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-04"
-last_updated: "2025-12-08"
+last_updated: "2026-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128263&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2017-12-20"
 
 LEY ORGÁNICA DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE ENERO DE 2026.
 
 Ley publicada en el Tomo I de la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -1582,7 +1582,9 @@ XV. Desarrollo Metropolitano;
 
 XVI. Desarrollo Rural, Abasto y Distribución de Alimentos;
 
-XVII. Educación, Ciencia, Tecnología e Innovación;
+> <small>(REFORMADA, G.O. 23 DE ENERO DE 2026)</small>
+
+XVII. Educación, Ciencia, Tecnología, Innovación e Inteligencia Artificial;
 
 XVIII. Gestión Integral de Riesgos y Protección Civil;
 
@@ -2999,3 +3001,11 @@ OCTAVO. Los derechos laborales de la persona titular de la Coordinación de Comu
 NOVENO. El Comité de Administración y Capacitación elaborará el manual de organización y procedimientos del Canal de Televisión, en coordinación con su titular.
 
 DÉCIMO. Los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes se entenderán como vigentes, el Canal de Televisión del Congreso tendrá la facultad sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente.
+
+G.O. 23 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN, DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA Y EL REGLAMENTO, AMBOS DEL CONGRESO DE LA CIUDAD DE MÉXICO, EN MATERIA DE DENOMINACIÓN DE COMISIONES ORDINARIAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
