@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11019
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-14"
-last_updated: "2026-01-21"
+last_updated: "2026-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de octubre de 2015.
 
@@ -339,7 +339,11 @@ XIX. Derecho a medidas de protección a migrantes, y
 
 XX. Derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet, en términos de lo previsto en la Ley Federal de Telecomunicaciones y Radiodifusión.
 
-XXI. Así como cualquier otro derecho humano reconocido en los tratados internacionales, en la Constitución Política de los Estados Unidos Mexicanos y en cualquier otro ordenamiento jurídico vigente.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE ENERO DE 2026)</small>
+
+XXI. Derecho a la educación tecnológica y digital.
+
+XXII. Así como cualquier otro derecho humano reconocido en los tratados internacionales, en la Constitución Política de los Estados Unidos Mexicanos y en cualquier otro ordenamiento jurídico vigente.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
 
@@ -830,6 +834,10 @@ Niñas, niños y adolescentes con discapacidad tienen derecho en todo momento a 
 ###### Artículo 53.
 
 Niñas, niños y adolescentes tienen derecho a una educación de calidad que contribuya al conocimiento de sus propios derechos y, basada en un enfoque de derechos humanos y de igualdad sustantiva, que garantice el respeto a su dignidad humana; el desarrollo armónico de sus potencialidades y personalidad, y fortalezca el respeto a los derechos humanos y a las libertades fundamentales, en los términos del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación, la Constitución Política del Estado Libre y Soberano de Morelos y demás disposiciones aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE ENERO DE 2026)</small>
+
+Esta educación deberá garantizar el acceso equitativo, seguro y pertinente a las tecnologías de la información y la comunicación, así como el desarrollo progresivo de competencias digitales y fomentar la alfabetización digital, el pensamiento crítico, el uso responsable y ético de los entornos tecnológicos, y la adquisición de habilidades necesarias para enfrentar los desafíos del entorno digital contemporáneo.
 
 Quienes ejerzan la patria potestad, tutela o guarda y custodia, tendrán derecho a intervenir en la educación que habrá de darse a niñas, niños y adolescentes, en términos de lo previsto por el Código Familiar para el Estado Libre y Soberano de Morelos.
 
@@ -2296,3 +2304,11 @@ P.O. 21 DE ENERO DE 2026.
 PRIMERA. Remítase el presente Decreto a la Persona Titular del Poder Ejecutivo Estatal para su publicación correspondiente en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del estado de Morelos.
+
+P.O. 23 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SETECIENTOS CUARENTA Y SIETE POR EL QUE SE REFORMAN EL ARTÍCULO 12 FRACCIÓN XXI, RECORRIÉNDOSE LAS SUBSECUENTES Y EL ARTÍCULO 53 PÁRRAFO SEGUNDO, RECORRIÉNDOSE LOS SUBSECUENTES AMBOS DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente decreto a la Persona Titular del Poder Ejecutivo Estatal para su publicación correspondiente en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDA. El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del estado de Morelos.
