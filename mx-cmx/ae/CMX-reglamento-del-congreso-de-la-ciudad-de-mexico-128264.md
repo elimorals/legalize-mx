@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-congreso-de-la-ciudad-de-mexico-128264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-05-04"
-last_updated: "2025-12-22"
+last_updated: "2026-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128264&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-12-20"
 
 REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 22 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE ENERO DE 2026.
 
 Reglamento publicado en la Gaceta Oficial de la Ciudad de México, el viernes 4 de mayo de 2018.
 
@@ -3790,7 +3790,9 @@ VIII. Sugerir las reglas de transmisión de las sesiones plenarias, de Comisione
 
 IX. Solicitar a la gente competente en materia de control y fiscalización del gasto, la realización de auditorías al Canal;
 
-X. Remitir a la Junta y a la Comisión de Ciencia Tecnología e Innovación el Informe anual de labores del Canal Televisivo;
+> <small>(REFORMADA, G.O. 23 DE ENERO DE 2026)</small>
+
+X. Remitir a la Junta y a la Comisión de Educación Ciencia, Tecnología, Innovación e Inteligencia Artificial el informe anual de labores del Canal Televisivo;
 
 XI. Recibir, analizar y orientar las quejas, observaciones y solicitudes que las y los Diputados del Congreso presenten sobre el funcionamiento del Canal, y
 
@@ -4514,13 +4516,17 @@ n) Medalla al Mérito Juvenil;
 
 ñ) Medalla al Mérito por la Defensa de las Víctimas;
 
-> <small>(REFORMADO, G.O. 8 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO, G.O. 23 DE ENERO DE 2026)</small>
 
-o) Medalla al Mérito Internacional, y
+o) Medalla al Mérito Internacional;
 
-> <small>(ADICIONADO, G.O. 8 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO, G.O. 23 DE ENERO DE 2026)</small>
 
-p) Medalla al Mérito a la Salud.
+p) Medalla al Mérito a la Salud, y
+
+> <small>(ADICIONADO, G.O. 23 DE ENERO DE 2026)</small>
+
+q) Medalla al Mérito Chilango en el Exterior.
 
 IV. En fondo opaco, el nombre de la persona condecorada y la disciplina, en su caso, y
 
@@ -4534,7 +4540,9 @@ Las Comisiones por materia encargadas de los procedimientos y dictaminación par
 
 I. Comisión de Derechos Culturales;
 
-II. Comisión de Ciencia, Tecnología e Innovación;
+> <small>(REFORMADA, G.O. 23 DE ENERO DE 2026)</small>
+
+II. Comisión de Educación, Ciencia, Tecnología, Innovación e Inteligencia Artificial;
 
 III. Comisión Especial para otorgar la Medalla al Mérito Ciudadano;
 
@@ -4544,7 +4552,7 @@ IV. Comisión de Derechos Humanos;
 
 V. Comisión de Juventud;
 
-VI. Comisión de Educación;
+VI. (DEROGADA, G.O. 23 DE ENERO DE 2026)
 
 > <small>(REFORMADA, G.O. 8 DE DICIEMBRE DE 2023)</small>
 
@@ -4578,13 +4586,17 @@ XIII. Comisión de Atención Especial a Víctimas;
 
 XIV. Comisión de Deporte;
 
-> <small>(REFORMADA, G.O. 8 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADA, G.O. 23 DE ENERO DE 2026)</small>
 
-XV. Comisión de Normatividad, Estudios y Prácticas Parlamentarias, y
+XV. Comisión de Normatividad, Estudios y Prácticas Parlamentarias;
 
-> <small>(ADICIONADO, G.O. 8 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADA, G.O. 23 DE ENERO DE 2026)</small>
 
-XVI. Comisión de Salud.
+XVI. Comisión de Salud, y
+
+> <small>(ADICIONADA, G.O. 23 DE ENERO DE 2026)</small>
+
+XVII. Comisión de Personas Migrantes Originarias de la Ciudad de México.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE DICIEMBRE DE 2023)</small>
 
@@ -4772,13 +4784,17 @@ La comisión podrá apoyarse, para el análisis de las propuestas de las y los c
 
 #### Sección Tercera. Medalla al Mérito en Ciencias
 
+> <small>(REFORMADO, G.O. 23 DE ENERO DE 2026)</small>
+
 ###### Artículo 386.
 
-El Congreso otorgará la Medalla al Mérito en Ciencias a quienes se hayan destacado en cualquiera de los campos de la investigación científica, en el ámbito de las ciencias naturales, exactas y sociales, a causa de haber realizado estudios, trabajos docentes o de divulgación, descubrimientos, aportaciones o propuestas, así como proyectos o trabajos creativos que modifiquen o desarrollen el campo tecnológico, que se consideren como probada aportación a la ciencia y tecnología, y cuya conducta sea un ejemplo de fidelidad a su vocación científica.
+El Congreso otorgará la Medalla al Mérito en Ciencias a quienes se hayan destacado en cualquiera de los campos de la investigación científica, en el ámbito de las ciencias naturales, exactas y sociales, a causa de haber realizado estudios, trabajos docentes o de divulgación, descubrimientos, aportaciones o propuestas, así como proyectos o trabajos creativos que modifiquen o desarrollen el campo tecnológico, que se consideren como probada aportación a la ciencia, tecnología e inteligencia artificial, y cuya conducta sea un ejemplo de fidelidad a su vocación científica.
+
+> <small>(REFORMADO, G.O. 23 DE ENERO DE 2026)</small>
 
 ###### Artículo 387.
 
-La Comisión responsable y encargada del procedimiento y entrega de la presente medalla es la de Ciencia, Tecnología e Innovación.
+La Comisión responsable y encargada del procedimiento y entrega de la presente medalla es la de Educación, Ciencia, Tecnología, Innovación e Inteligencia Artificial.
 
 ###### Artículo 388.
 
@@ -4890,13 +4906,17 @@ V. Educación en Licenciatura, y
 
 VI. Educación en Posgrado.
 
+> <small>(REFORMADO, G.O. 23 DE ENERO DE 2026)</small>
+
 ###### Artículo 408.
 
-La Comisión responsable y encargada del procedimiento y entrega de la presente medalla es la de Educación del Congreso.
+La Comisión responsable y encargada del procedimiento y entrega de la presente medalla es la de Educación, Ciencia, Tecnología, Innovación e Inteligencia Artificial del Congreso.
+
+> <small>(REFORMADO, G.O. 23 DE ENERO DE 2026)</small>
 
 ###### Artículo 409.
 
-La convocatoria deberá ser elaborada y aprobada por la Comisión de Educación, el periodo para el registro de las y los candidatos a recibir la medalla y la aprobación del dictamen en Comisiones y en Pleno deberán realizarse de conformidad con las disposiciones que para tal efecto establezca el presente Reglamento.
+La convocatoria deberá ser elaborada y aprobada por la Comisión de Educación, Ciencia, Tecnología, Innovación e Inteligencia Artificial, el periodo para el registro de las y los candidatos a recibir la medalla y la aprobación del dictamen en Comisiones y en Pleno deberán realizarse de conformidad con las disposiciones que para tal efecto establezca el presente Reglamento.
 
 ###### Artículo 410.
 
@@ -5202,11 +5222,13 @@ La Medalla se otorgará en Sesión Solemne. El procedimiento para la entrega de 
 
 #### Sección Décima Sexta. Medalla al Mérito Internacional
 
-> <small>(ADICIONADO, G.O. 8 DE JULIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE ENERO DE 2026)</small>
 
 ###### Artículo 451 Bis.
 
-El Congreso otorgará anualmente, la Medalla al Mérito Internacional, a las personas originarias de la Ciudad de México que se hayan distinguido por su trayectoria, servicio u acciones, a favor de las relaciones de amistad entre esta entidad y otras naciones, ciudades o comunidades extranjeras; de la cooperación internacional; de las políticas de acogida pro personas migrantes y, en general, de quienes con sus actos o emprendimientos hayan promovido el posicionamiento de la Ciudad de México en el entorno internacional, de conformidad con los principios que rigen la política exterior mexicana.
+El Congreso otorgará anualmente, la Medalla al Mérito Internacional, a las personas originarias de la Ciudad de México que se hayan distinguido por su trayectoria, servicio u acciones, a favor de las relaciones de amistad entre esta entidad y otras naciones, ciudades o comunidades extranjeras; de la cooperación internacional y en general, de quienes con sus actos o emprendimientos hayan promovido el posicionamiento de la Ciudad de México en el entorno internacional, de conformidad con los principios que rigen la política exterior mexicana.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], G.O. 8 DE JULIO DE 2019)</small>
 
 La Medalla al Mérito Internacional se entregará a aquellas personas que tuvieron que abandonar la Ciudad de México y que siguieron aportando acciones, ideas, propuestas para beneficio de nuestro país y nuestra Ciudad, de conformidad con las siguientes distinciones:
 
@@ -5216,11 +5238,15 @@ II. Promoción cultural;
 
 III. Desarrollo o promoción de actividades artísticas;
 
-IV. Promoción o defensa de los derechos humanos de migrantes;
+IV. (DEROGADA, G.O. 23 DE ENERO DE 2026)
 
 V. Protección al Medio Ambiente;
 
+> <small>(ADICIONADO, G.O. 8 DE JULIO DE 2019)</small>
+
 La Comisión de Normatividad, Estudios y Prácticas Parlamentarias será la responsable y encargada del procedimiento y entrega de la Medalla.
+
+> <small>(ADICIONADO, G.O. 8 DE JULIO DE 2019)</small>
 
 La Medalla se otorgará en Sesión Solemne. El procedimiento para la entrega de la Medalla será de conformidad con los artículos 372, 373, 374, 375 y 376 del Reglamento.
 
@@ -5256,7 +5282,27 @@ La entrega de la Medalla se efectuará en los términos establecidos en el Regla
 
 Para que las adiciones o reformas sean aprobadas, se requerirá el voto de las dos terceras partes de las y los Diputados integrantes presentes del Congreso.
 
-#### Sección Primera. Del Reconocimiento a las Mejores Tesis sobre la Ciudad de México
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.O. 23 DE ENERO DE 2026)</small>
+
+#### Sección Décima Octava. Medalla al Mérito Chilango en el Exterior
+
+> <small>(ADICIONADO, G.O. 23 DE ENERO DE 2026)</small>
+
+###### Artículo 451 Quinquies.
+
+El Congreso otorgará la Medalla al Mérito Chilango en el Exterior a las y los capitalinos, así como a las organizaciones que residan en el extranjero y que tengan una trayectoria reconocida por sus aportaciones dirigidas al apoyo a la diáspora capitalina, de conformidad con las siguientes distinciones:
+
+I. Activismo político;
+
+II. Activismo social;
+
+III. Contribución económica y productiva, y
+
+IV. Promoción o defensa de los derechos humanos de migrantes.
+
+La Comisión de Personas Migrantes Originarias de la Ciudad de México, será la responsable y encargada del procedimiento y entrega de la Medalla.
+
+La Medalla se otorgará en Sesión Solemne. El procedimiento para la entrega de la Medalla se efectuará en los términos establecidos en el Reglamento y de conformidad de (sic) las disposiciones aplicables.
 
 ### CAPÍTULO III. De los Reconocimientos y Diplomas
 
@@ -5280,7 +5326,7 @@ II. En su texto deberá contener la leyenda "Congreso de la Ciudad de México, o
 
 III. Nombre y firma de quien suscribe.
 
-#### Sección Segunda. Del Proceso de Elección de las y los Candidatos para la entrega de Reconocimientos
+#### Sección Primera. Del Reconocimiento a las Mejores Tesis sobre la Ciudad de México
 
 ###### Artículo 454.
 
@@ -5312,7 +5358,7 @@ V. El acuerdo parlamentario será presentado ante el Pleno, y
 
 VI. La entrega de los reconocimientos se entregará cada año en la fecha y hora que determine la Junta.
 
-#### Sección Primera. De la Coordinación de Servicios Parlamentarios
+#### Sección Segunda. Del Proceso de Elección de las y los Candidatos para la entrega de Reconocimientos
 
 ###### Artículo 457.
 
@@ -5540,7 +5586,7 @@ Las áreas administrativas que se creen, dependerán jerárquica y funcionalment
 
 La Junta presentará al Pleno la propuesta de las y los Titulares de cada una de las Unidades Administrativas para su ratificación; para este efecto será necesario el voto de la mayoría de las y los Diputados presentes en la sesión respectiva.
 
-#### Sección Segunda. De la Oficialía Mayor
+#### Sección Primera. De la Coordinación de Servicios Parlamentarios
 
 ###### Artículo 487.
 
@@ -5624,7 +5670,7 @@ III. Los documentos de la Asamblea Constituyente, incluyendo la Constitución am
 
 IV. Los documentos que posean las Diputadas y los Diputados, las Comisiones y Comités, estarán en su posesión para resguardo, hasta el final de cada Legislatura, cuando deberán remitirse al Archivo Histórico del Proceso Parlamentario del Congreso.
 
-#### Sección Tercera. De la Contraloría Interna
+#### Sección Segunda. De la Oficialía Mayor
 
 ###### Artículo 492.
 
@@ -5704,7 +5750,7 @@ El Archivo Histórico Administrativo del Congreso podrá ser consultado por el p
 
 En el Archivo Histórico Administrativo del Congreso deberán estar depositados los documentos de las Unidades Administrativas, además de aquellos que establezcan las disposiciones jurídicas correspondientes.
 
-#### Sección Cuarta. De la Tesorería
+#### Sección Tercera. De la Contraloría Interna
 
 ###### Artículo 498.
 
@@ -5806,7 +5852,7 @@ VI. No ser cónyuge o pariente consanguíneo hasta el cuarto grado, por afinidad
 
 VII. No haber sido condenado por delito doloso, cualquiera que haya sido la pena.
 
-#### Sección Quinta. Del Instituto de Investigaciones Legislativas
+#### Sección Cuarta. De la Tesorería
 
 ###### Artículo 503.
 
@@ -5846,7 +5892,7 @@ VI. Residir en la Ciudad de México por lo menos tres años antes al día de su 
 
 VII. Ser mexicana o mexicano por nacimiento y no tener otra nacionalidad, y estar en pleno goce de sus derechos;
 
-#### Sección Sexta. Del Centro de Estudios Legislativos para la Igualdad de Género
+#### Sección Quinta. Del Instituto de Investigaciones Legislativas
 
 ###### Artículo 505.
 
@@ -5896,7 +5942,7 @@ V. Residir en la Ciudad de México por lo menos tres años antes al día de su n
 
 VI. Ser mexicana o mexicano por nacimiento y no tener otra nacionalidad, y estar en pleno goce de sus derechos.
 
-#### Sección Sexta (SIC). De la Coordinación de Comunicación Social
+#### Sección Sexta. Del Centro de Estudios Legislativos para la Igualdad de Género
 
 ###### Artículo 508.
 
@@ -5940,7 +5986,7 @@ IV. No haber sido condenado por delito doloso, cualquiera que haya sido la pena.
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 8 DE DICIEMBRE DE 2025)</small>
 
-#### Sección Séptima. Del Canal de Televisión
+#### Sección Sexta (SIC). De la Coordinación de Comunicación Social
 
 ###### Artículo 510.
 
@@ -5954,7 +6000,7 @@ IV. No haber sido condenado por delito doloso, cualquiera que haya sido la pena.
 
 (DEROGADO, G.O. 8 DE DICIEMBRE DE 2025)
 
-#### Sección Octava. De la Unidad de Transparencia
+#### Sección Séptima. Del Canal de Televisión
 
 ###### Artículo 513.
 
@@ -6152,7 +6198,7 @@ V. Promover la libertad, pluralidad, corresponsabilidad, calidad y rigor profesi
 
 VI. Sugerir mecanismos que vinculen a la sociedad con el Canal.
 
-#### Sección Novena. De la Unidad de Estudios y Finanzas Publicas del Congreso de la Ciudad de México
+#### Sección Octava. De la Unidad de Transparencia
 
 ###### Artículo 521.
 
@@ -6207,6 +6253,8 @@ IV. No haber sido condenado por delito doloso, cualquiera que haya sido la pena;
 V. Residir en la Ciudad de México por lo menos tres años antes al día de su nombramiento, y
 
 VI. Ser mexicana o mexicano por nacimiento y no tener otra nacionalidad, y estar en pleno goce de sus derechos.
+
+#### Sección Novena. De la Unidad de Estudios y Finanzas Publicas del Congreso de la Ciudad de México
 
 ###### Artículo 523.
 
@@ -6767,3 +6815,29 @@ PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación por 
 SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO. El Parlamento del Comercio Popular se realizará de conformidad con el Artículo 58 del Reglamento del Congreso de la Ciudad de México, a partir del Primer Receso, del Segundo Año de ejercicio del Congreso de la Ciudad de México, III Legislatura.
+
+G.O. 23 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LOS INCISOS O) Y P), DE LA FRACCIÓN III DEL ARTÍCULO 370; LAS FRACCIONES XV Y XVI DEL ARTÍCULO 371; EL PÁRRAFO PRIMERO DEL ARTÍCULO 451 BIS; SE ADICIONAN UN INCISO Q) AL ARTÍCULO 370; UNA FRACCIÓN XVII AL ARTÍCULO 371; UNA SECCIÓN DÉCIMA OCTAVA, DENOMINADA "MEDALLA AL MÉRITO CHILANGO EN EL EXTERIOR" AL CAPÍTULO II, DEL TÍTULO DÉCIMO; UN ARTÍCULO 451 QUINQUIES; Y SE DEROGA LA FRACCIÓN IV, DEL ARTÍCULO 451 BIS, DEL REGLAMENTO DEL CONGRESO DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. De conformidad con lo aprobado por la Junta de Coordinación Política, la presente medalla se entregará solo una vez durante la presente Legislatura, lo cual se realizará durante el segundo periodo de sesiones del segundo año de ejercicio, en una Sesión Solemne del Pleno.
+
+CUARTO. El Acuerdo AC/CCDMX/III/JUCOPO/1A/031/2024 se considera vigente y la Junta de Coordinación Política de conformidad con el resolutivo SEXTO del Acuerdo deberá modificar el mismo estableciendo la Medalla al Mérito Chilango en el Exterior.
+
+QUINTO. La Comisión de Personas Migrantes Originarias de la Ciudad de México podrá iniciar el procedimiento de entrega de la Medalla al Mérito Chilango en el Exterior a partir de la modificación del Acuerdo AC/CCDMX/III/JUCOPO/1A/031/2024, por parte de la Junta de Coordinación Política, en el que se incorpore la medalla antes citada.
+
+SEXTO. Una vez iniciado el procedimiento de entrega de la Medalla al Mérito Chilango en el Exterior por parte de la Comisión encargada, las Comisiones Unidas de Normatividad, Estudios y Prácticas Parlamentarias y la de Personas Migrantes Originarias de la Ciudad de México deberán modificar el Acuerdo AC/CCDMX/IIIL/CUNEPPYPMOCM/01/2025, eliminando la categoría IV. "Promoción o defensa de los derechos humanos de migrantes", establecida en la Base Primera.
+
+SÉPTIMO. Los expedientes correspondientes a la categoría IV. "Promoción o defensa de los derechos humanos de migrantes", que se encuentren en resguardo de las Comisiones Unidas de Normatividad, Estudios y Prácticas Parlamentarias y la de Personas Migrantes Originarias de la Ciudad de México, serán transferidos a la Comisión encargada de la entrega de la Medalla al Mérito Chilango en el Exterior para su substanciación.
+
+G.O. 23 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN, DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA Y EL REGLAMENTO, AMBOS DEL CONGRESO DE LA CIUDAD DE MÉXICO, EN MATERIA DE DENOMINACIÓN DE COMISIONES ORDINARIAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor al momento de su aprobación por el Pleno del Congreso de la Ciudad de México.
+
+SEGUNDO. Remítase a la persona titular de la Jefatura de Gobierno, para su publicación en la Gaceta Oficial de la Ciudad de México.
