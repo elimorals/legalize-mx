@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108944"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2025-10-04"
+last_updated: "2026-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108944&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2026.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 1 de julio de 2015.
 
@@ -270,6 +270,12 @@ c) Vida libre de violencia cibernética, digital, así como todas aquellas media
 > <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)</small>
 
 Se entenderá por inteligencia artificial, el software mediante programas informáticos que se desarrolla empleando una o varias de las siguientes técnicas: estrategias de aprendizaje automático, incluidos el aprendizaje supervisado, el no supervisado y el realizado por refuerzo, que ejecutan operaciones comparables a las que realiza la mente humana, como el aprendizaje o el razonamiento lógico que emplean una amplia variedad de métodos, entre ellos el aprendizaje profundo.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2026)</small>
+
+d) Vida libre de ciberacoso: Forma de Violencia por medio de las tecnologías digitales que puede ocurrir en las redes sociales, plataformas de mensajería, plataformas de juegos y teléfonos móviles.
+
+El Estado, de conformidad con la legislación aplicable, garantizará el acceso y uso seguro del Internet promoviendo políticas de prevención, protección, atención y sanción del ciberacoso y de todas las formas de violencia que causen daño a su intimidad, privacidad, seguridad o dignidad realizada mediante el uso de tecnologías de la información y la comunicación.
 
 IV. Los derechos de protección a la intimidad y retención ilícita:
 
@@ -611,9 +617,69 @@ Para la revocación de las autorizaciones e inhabilitación a que se refiere est
 
 Las autoridades competentes en materia de desarrollo integral de la familia e instituciones públicas ofrecerán orientación, cursos y asesorías, así como servicios terapéuticos en materia de pareja, de maternidad y paternidad, entre otros.
 
-### CAPÍTULO IV. DERECHOS A UNA VIDA LIBRE DE VIOLENCIA, INTEGRIDAD PERSONAL Y PROTECCIÓN
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE ENERO DE 2026)</small>
 
-### CAPÍTULO V. DERECHOS DE PROTECCIÓN A LA INTIMIDAD Y RETENCIÓN ILÍCITA
+### CAPÍTULO III BIS. FAMILIAS DE ACOGIDA
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2026)</small>
+
+###### Artículo 29 Bis.
+
+La familia de acogida, de conformidad con la Ley General, es aquella que, cuente con la certificación de la Procuraduría de Protección, que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado, el cual será determinado por la propia autoridad, hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva.
+
+Para la asignación de una niña, niño o adolescente no solamente se valorará a la familia, sino además su entorno, es decir, su familia extendida, así como los demás vínculos al que se vaya a exponer; para ello, deberán hacerse visitas domiciliarias, así como valoraciones psicosociales previas, las cuales serán realizadas por las autoridades correspondientes.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2026)</small>
+
+###### Artículo 29 Ter.
+
+La asignación de niñas, niños y adolescentes sólo podrá realizarse a una familia de acogida que cuente con certificado de idoneidad; incluso si se tratare de una familia binacional o que esté integrada con una persona de carácter binacional. Para tal efecto, se observará en lo conducente lo establecido en los artículos 27 de la Ley General y 23 de la presente Ley, y en la normatividad interna que para ello emita la Procuraduría de Protección.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2026)</small>
+
+###### Artículo 29 Quáter.
+
+La selección de las familias de acogida, así como el otorgamiento, la temporalidad, la modalidad, las medidas preventivas y de convivencia, la vigilancia y la revocación serán realizadas por el Sistema Estatal para el Desarrollo Integral de la Familia, a través de la Procuraduría de Protección, conforme a la Ley General y su normatividad interna.
+
+La Procuraduría de Protección contará con el plazo de hasta cuarenta y cinco días naturales pudiendo ser prorrogados hasta otro (sic) treinta, a consideración de la Procuraduría de Protección para la emisión del certificado de idoneidad, contados a partir de la solicitud que se presente.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2026)</small>
+
+###### Artículo 29 Quinquies.
+
+Las familias de acogida tendrán los siguientes derechos y obligaciones:
+
+I. Derechos:
+
+a) Previo a la asignación de la niña, niño o adolescente, las familias de acogida tendrán derecho a encuentros previos para verificar la compatibilidad de ambos;
+
+b) Recibir el apoyo necesario para el cuidado y los alimentos de la niña, niño o adolescente de parte del sistema de protección infantil;
+
+c) Recibir información clara de la situación legal, médica y psicológica de la niña, niño o adolescente;
+
+d) Recibir apoyo psicológico o asesoría durante el proceso de acogida, y
+
+e) Recibir información respecto a las responsabilidades en las que pudieran incurrir en caso de no apegarse a los lineamientos de cuidado que para el efecto emita la Procuraduría de Protección; ya sea (sic) cometidas por la propia familia o el entorno al que se exponga a la niña, niño o adolescente.
+
+II. Obligaciones:
+
+a) Brindar un ambiente adecuado y seguro para la niña, niño o adolescente, respetando sus derechos de salud, educación y bienestar integral;
+
+b) Colaborar con las autoridades competentes en las actividades de seguimiento y resolución del caso de la niña, niño o adolescente a su cargo;
+
+c) Asegurarse de que pueda acceder a los satisfactores básicos para su desarrollo integral;
+
+d) Garantizar el respeto de la identidad cultural, social y familiar de la niña, niño o adolescente, privilegiando el cumplimiento del interés superior de la niñez, y
+
+e) Las familias a las que le sean asignadas niñas, niños o adolescentes que se encuentren en casas asistenciales, deberán garantizar que mantengan su rutina académica, así como vigilancia para que la niña, niño o adolescente no pueda sustraerse de la instancia asistencial.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2026)</small>
+
+###### Artículo 29 Sexies.
+
+El Sistema Estatal para el Desarrollo Integral de la Familia, a través de la Procuraduría de Protección, llevará a cabo un régimen de supervisión y seguimiento constante de las niñas, niños y adolescentes en familias de acogida, para asegurar que sus derechos sean respetados y que se cumplan las condiciones de cuidado acordadas, conforme a la normatividad interna que para tal efecto se emita.
+
+### CAPÍTULO IV. DERECHOS A UNA VIDA LIBRE DE VIOLENCIA, INTEGRIDAD PERSONAL Y PROTECCIÓN
 
 ###### Artículo 30.
 
@@ -651,7 +717,7 @@ Las autoridades estatales y municipales deben garantizar que la seguridad públi
 
 En los casos en que niñas, niños y adolescentes sean víctimas de delitos se aplicarán las disposiciones de la Ley de Atención a Víctimas del Estado y demás disposiciones que resulten aplicables. En todo caso, los protocolos de atención deberán considerar su edad, desarrollo evolutivo, cognoscitivo y madurez para la implementación de las acciones de asistencia y protección respectivas, así como la reparación integral del daño.
 
-### CAPÍTULO VI. DERECHOS A LA SALUD, SEGURIDAD SOCIAL, ALIMENTOS Y SANO DESARROLLO INTEGRAL
+### CAPÍTULO V. DERECHOS DE PROTECCIÓN A LA INTIMIDAD Y RETENCIÓN ILÍCITA
 
 ###### Artículo 32.
 
@@ -673,6 +739,30 @@ El órgano jurisdiccional federal competente, con base en este artículo y en la
 
 Las autoridades estarán obligadas a salvaguardar este derecho como lo marca la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2026)</small>
+
+###### Artículo 32 Bis.
+
+Se prohíbe el ciberacoso por el que la persona agresora trate de atemorizar, dañar, atormentar, amenazar, humillar, hostigar, acosar, intimidar, enfadar o molestar a las niñas, niños o adolescentes a través de cualquiera de las siguientes modalidades:
+
+a) Revelar abiertamente información sensible o personal de la víctima;
+
+b) Utilizar las cuentas de redes sociales de la víctima para publicar contenido inapropiado y con potencial de ser dañino;
+
+c) Publicar insultos, vejaciones y calumnias contra la víctima;
+
+d) Promover la práctica de relaciones sexuales para sí o con un tercero. Lo anterior construyendo una relación y una conexión emocional con la víctima a través de redes sociales, mensajes de texto, fotos o teléfono móvil;
+
+e) Publicar o promover la publicación o envío de imágenes o mensajes sexualmente explícitos y se empleen para llevar a cabo prácticas de extorsión en su contra;
+
+f) Difundir información a través de publicaciones o mensajes privados con la finalidad de arruinar la reputación de la víctima o sus relaciones con otras personas;
+
+g) Enviar constantemente mensajes o intentos de comunicación a la víctima;
+
+h) Difundir o promover la difusión de agresiones físicas grabadas en las que participe la víctima, por redes sociales, mensajes de texto o teléfono móvil con el fin de seguirle causando daño, e
+
+i) Utilizar la dirección de correo electrónico o datos personales de la víctima para suscribirla a diferentes servicios y plataformas.
+
 ###### Artículo 33.
 
 Niñas, niños y adolescentes tienen derecho a la protección del Estado y de la legislación contra el traslado y retención ilícita.
@@ -685,7 +775,7 @@ Cuando las autoridades estatales tengan conocimiento de casos de niñas, niños 
 
 Cuando una niña, niño o adolescente sea trasladado o retenido ilícitamente en territorio estatal o nacional, o haya sido trasladado legalmente pero retenido ilícitamente, las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, estarán obligadas a coadyuvar en su localización, a través de los programas para la búsqueda, localización y recuperación, así como en la adopción de todas las medidas necesarias para prevenir que sufran mayores daños y en la sustanciación de los procedimientos de urgencia necesarios para garantizar su restitución inmediata, cuando la misma resulte procedente conforme a los tratados internacionales en materia de sustracción de menores.
 
-### CAPÍTULO VII. DERECHOS A LA EDUCACIÓN, CULTURA, DIVERSIDAD CULTURAL, DEPORTE, DESCANSO, JUEGO Y RECREACIÓN
+### CAPÍTULO VI. DERECHOS A LA SALUD, SEGURIDAD SOCIAL, ALIMENTOS Y SANO DESARROLLO INTEGRAL
 
 ###### Artículo 34.
 
@@ -795,7 +885,7 @@ Corresponde en principio y directamente a quienes ejerzan la patria potestad, tu
 
 La edad mínima para contraer matrimonio es de 18 años.
 
-### CAPÍTULO VIII. DERECHOS A LA LIBERTAD DE OPINIÓN, EXPRESIÓN, PENSAMIENTO, RELIGIÓN, ASOCIACIÓN, REUNIÓN, PARTICIPACIÓN E INFORMACIÓN
+### CAPÍTULO VII. DERECHOS A LA EDUCACIÓN, CULTURA, DIVERSIDAD CULTURAL, DEPORTE, DESCANSO, JUEGO Y RECREACIÓN
 
 ###### Artículo 42.
 
@@ -939,7 +1029,7 @@ VIII. Promover la creación y mantenimiento de parques y áreas para el esparcim
 
 IX. Celebrar convenios con instituciones privadas para facilitar sus instalaciones a efecto de lograr el sano esparcimiento de niñas, niños y adolescentes en su comunidad.
 
-### CAPÍTULO IX. DERECHO A LA SEGURIDAD JURÍDICA Y AL DEBIDO PROCESO
+### CAPÍTULO VIII. DERECHOS A LA LIBERTAD DE OPINIÓN, EXPRESIÓN, PENSAMIENTO, RELIGIÓN, ASOCIACIÓN, REUNIÓN, PARTICIPACIÓN E INFORMACIÓN
 
 ###### Artículo 51.
 
@@ -1039,7 +1129,7 @@ De acuerdo con la Constitución Política de los Estados Unidos Mexicanos y la L
 
 En los términos de los mencionados ordenamientos, el Estado garantizará a niñas, niños y adolescentes su integración a la sociedad de la información y el conocimiento mediante una política de inclusión digital universal en condiciones de equidad, asequibilidad, disponibilidad, accesibilidad y calidad.
 
-### CAPÍTULO I. MEDIDAS ESPECIALES DE PROTECCIÓN
+### CAPÍTULO IX. DERECHO A LA SEGURIDAD JURÍDICA Y AL DEBIDO PROCESO
 
 ###### Artículo 58.
 
@@ -1105,7 +1195,7 @@ VI. Adoptar las medidas necesarias para evitar la re-victimización de niñas, n
 
 ## TÍTULO TERCERO. DERECHOS DE PROTECCIÓN ESPECIAL
 
-### CAPÍTULO II. DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN SITUACIÓN DE CALLE O ABANDONO
+### CAPÍTULO I. MEDIDAS ESPECIALES DE PROTECCIÓN
 
 ###### Artículo 61.
 
@@ -1135,7 +1225,7 @@ VIII. Tengan garantizados, tanto el derecho a la información, así como el dere
 
 Al diseñarse las normas jurídicas, políticas públicas y programas de gobierno, se tendrán en cuenta los principios rectores de esta Ley.
 
-### CAPÍTULO III. DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES MIGRANTES
+### CAPÍTULO II. DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN SITUACIÓN DE CALLE O ABANDONO
 
 ###### Artículo 63.
 
@@ -1155,7 +1245,7 @@ III. Implementar medios tendientes a prevenir y evitar que niñas, niños y adol
 
 IV. Buscar integrarlos a programas compensatorios, como los de becas, desayunos escolares, despensas, útiles escolares, entre otros.
 
-### CAPÍTULO IV. DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES INDÍGENAS
+### CAPÍTULO III. DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES MIGRANTES
 
 ###### Artículo 65.
 
@@ -1177,9 +1267,7 @@ El Sistema Estatal DIF enviará al Sistema Nacional DIF la información en el mo
 
 En ningún caso una situación migratoria irregular de niñas, niños o adolescentes, preconfigurará por sí misma la comisión de un delito, ni se prejuzgará la comisión de ilícitos por el hecho de encontrarse en condición migratoria irregular.
 
-### CAPÍTULO V. DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES CON DISCAPACIDAD
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE FEBRERO DE 2018)</small>
+### CAPÍTULO IV. DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES INDÍGENAS
 
 ###### Artículo 67.
 
@@ -1189,7 +1277,9 @@ A ninguna niña, niño o adolescente se le podrá negar un servicio público en 
 
 Se entiende por niñas, niños y adolescentes indígenas, a los pertenecientes a alguna etnia originaria de las regiones del Estado, que habitan en zonas marginadas y que no han tenido acceso al desarrollo social y comunitario.
 
-### CAPÍTULO VI. DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES CON ADICCIONES
+### CAPÍTULO V. DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES CON DISCAPACIDAD
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE FEBRERO DE 2018)</small>
 
 ###### Artículo 68.
 
@@ -1229,7 +1319,7 @@ XI. Establecer mecanismos que permitan la recopilación periódica y sistemátic
 
 XII. Las demás que le fije la presente Ley y otros ordenamientos jurídicos.
 
-### CAPÍTULO VII. DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES VÍCTIMAS DE EXPLOTACIÓN SEXUAL, PORNOGRAFÍA, TRÁFICO O TRATA DE PERSONAS
+### CAPÍTULO VI. DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES CON ADICCIONES
 
 ###### Artículo 70.
 
@@ -1245,7 +1335,7 @@ Niñas, niños y adolescentes adictos a sustancias nocivas para la salud, tendr�
 
 Para tal fin, los Servicios de Salud de Zacatecas, deben reforzar y evaluar los programas integrales enfocados a la problemática particular asociada a los distintos tipos de drogas y a las formas de dependencias física, emocional y la forma de combatirlo.
 
-### CAPÍTULO VIII. DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES VÍCTIMAS DE SECUESTRO, ABANDONO O EXTRAVÍO
+### CAPÍTULO VII. DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES VÍCTIMAS DE EXPLOTACIÓN SEXUAL, PORNOGRAFÍA, TRÁFICO O TRATA DE PERSONAS
 
 ###### Artículo 72.
 
@@ -1265,7 +1355,7 @@ III. Mantener datos actualizados sobre la incidencia y contexto de la pornograf�
 
 Se dará protección inmediata y mediata a toda víctima o testigo de pornografía infantil para el resguardo de su integridad, identidad y recuperación. Cuando exista duda con respecto a la edad de la víctima, deberá suponerse que es niñas (sic), niño o adolescente de conformidad con la presente Ley, hasta que se compruebe lo contrario. Las autoridades competentes deben garantizar la formación especializada en el tratamiento de este tipo de delitos en contra de niñas, niños y adolescentes.
 
-### CAPÍTULO IX. DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN CASO DE CONFLICTOS ARMADOS
+### CAPÍTULO VIII. DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES VÍCTIMAS DE SECUESTRO, ABANDONO O EXTRAVÍO
 
 ###### Artículo 75.
 
@@ -1275,7 +1365,7 @@ La Secretaría de Seguridad Pública, en el ámbito de sus atribuciones, promove
 
 Niña, niño o adolescente abandonado, desplazado o evacuado que ha sido separado de su familia, debe contar con un registro que contenga datos personales, fotografía y ubicación actual. Este registro será compartido con la Procuraduría de Protección para el resguardo de su identidad y la inmediata comunicación con sus familiares.
 
-### CAPÍTULO X. DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN SITUACIÓN DE TORTURA
+### CAPÍTULO IX. DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN CASO DE CONFLICTOS ARMADOS
 
 ###### Artículo 76.
 
@@ -1291,7 +1381,7 @@ III. Retomar de manera interinstitucional para proteger y atender a niñas, niñ
 
 IV. Desarrollar un plan de protección e inclusión social para adolescentes a fin de responder institucionalmente luego de su liberación.
 
-### CAPÍTULO XI. DERECHOS DE PROTECCIÓN EN SITUACIÓN DE TRABAJO INFANTIL Y TRABAJADORES ADOLESCENTES
+### CAPÍTULO X. DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN SITUACIÓN DE TORTURA
 
 ###### Artículo 77.
 
@@ -1299,7 +1389,7 @@ Las autoridades estatales y municipales velarán para que ningún niño, niña o
 
 Esta prohibición constitucional será respetada en especial, respecto de niñas, niños y adolescentes, en el entendimiento de que ellos, en virtud de la etapa de desarrollo físico, psicológico y emocional por la que cursan, viven como crueles, inhumanas y degradantes ciertas sanciones que no son consideradas así por los adultos.
 
-### CAPÍTULO XII. DERECHOS DE MADRES Y PADRES ADOLESCENTES
+### CAPÍTULO XI. DERECHOS DE PROTECCIÓN EN SITUACIÓN DE TRABAJO INFANTIL Y TRABAJADORES ADOLESCENTES
 
 ###### Artículo 78.
 
@@ -1339,7 +1429,7 @@ V. Erradicar la discriminación a las adolescentes embarazadas o en etapa de lac
 
 VI. Estimular el aprendizaje de oficios que garanticen la capacitación de adolescentes para incorporarse en el mercado de trabajo.
 
-### CAPÍTULO XIII. DERECHO DE NIÑAS, NIÑOS Y ADOLESCENTES DE SER PROTEGIDOS DE TODO TIPO DE PELIGROS
+### CAPÍTULO XII. DERECHOS DE MADRES Y PADRES ADOLESCENTES
 
 ###### Artículo 83.
 
@@ -1353,7 +1443,7 @@ III. Apoyo en la regularización de faltas escolares a fin de que las madres y p
 
 IV. Asistencia a fin de que los padres y las madres adolescentes comprendan la responsabilidad que implican la maternidad y paternidad, y cumplan con ellas sin violencia y en un ambiente de bienestar.
 
-### CAPÍTULO XIV. CENTROS DE ASISTENCIA SOCIAL
+### CAPÍTULO XIII. DERECHO DE NIÑAS, NIÑOS Y ADOLESCENTES DE SER PROTEGIDOS DE TODO TIPO DE PELIGROS
 
 ###### Artículo 84.
 
@@ -1361,7 +1451,7 @@ Niñas, niños y adolescentes tienen derecho a estar protegidos y orientados con
 
 El Sistema de Protección Integral garantizará a niñas, niños y adolescentes la protección contra actos u omisiones que puedan afectar su salud física o mental y el libre y armonioso desarrollo de su personalidad.
 
-### CAPÍTULO I. ATRIBUCIONES DEL ESTADO Y MUNICIPIOS
+### CAPÍTULO XIV. CENTROS DE ASISTENCIA SOCIAL
 
 ###### Artículo 85.
 
@@ -1441,7 +1531,7 @@ La Procuraduría de Protección será coadyuvante de la Procuraduría de Protecc
 
 ## TÍTULO CUARTO. PROTECCIÓN Y RESTITUCIÓN INTEGRAL DE DERECHOS
 
-### CAPÍTULO II. VISITADURÍA
+### CAPÍTULO I. ATRIBUCIONES DEL ESTADO Y MUNICIPIOS
 
 ###### Artículo 91.
 
@@ -1503,7 +1593,7 @@ X. Impulsar la participación de las organizaciones privadas dedicadas a la prom
 
 XI. Las demás que establezcan los ordenamientos locales y aquéllas que deriven de los acuerdos que, de conformidad con la presente Ley, se asuman en el Sistema Nacional y Estatal DIF.
 
-### CAPÍTULO III. PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS, ADOLESCENTES Y FAMILIA
+### CAPÍTULO II. VISITADURÍA
 
 ###### Artículo 93.
 
@@ -1551,7 +1641,7 @@ IV. Ser persona especializada en la defensa y promoción de los derechos de niñ
 
 V. Tener reconocida experiencia y no haber sido condenado por delito doloso o inhabilitado como servidor público.
 
-### CAPÍTULO IV. SISTEMA ESTATAL DE PROTECCIÓN INTEGRAL
+### CAPÍTULO III. PROCURADURÍA DE PROTECCIÓN DE NIÑAS, NIÑOS, ADOLESCENTES Y FAMILIA
 
 ###### Artículo 95.
 
@@ -1651,7 +1741,7 @@ V. No haber sido sentenciado por delito doloso o inhabilitado como servidor púb
 
 El nombramiento del titular de la Procuraduría de Protección debe ser aprobado por la Junta de Gobierno del Sistema Estatal DIF, a propuesta de su titular.
 
-### CAPÍTULO V. SECRETARÍA EJECUTIVA
+### CAPÍTULO IV. SISTEMA ESTATAL DE PROTECCIÓN INTEGRAL
 
 ###### Artículo 99.
 
@@ -1791,7 +1881,7 @@ XXI. Las demás que le otorguen las disposiciones aplicables.
 
 Para el mejor cumplimiento de sus funciones, el Sistema Estatal de Protección Integral podrá constituir comisiones encargadas de atender asuntos o materias específicas y emitirá los lineamientos para su integración, organización y funcionamiento, las cuales deberán ser publicadas en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
 
-### CAPÍTULO VI. SISTEMAS MUNICIPALES DE PROTECCIÓN
+### CAPÍTULO V. SECRETARÍA EJECUTIVA
 
 ###### Artículo 103.
 
@@ -1843,7 +1933,7 @@ IV. Contar con al menos cinco años de experiencia en las áreas correspondiente
 
 V. No haber sido sentenciado por delito doloso o inhabilitado como servidor público.
 
-### CAPÍTULO I. DERECHOS DE LA FAMILIA
+### CAPÍTULO VI. SISTEMAS MUNICIPALES DE PROTECCIÓN
 
 ###### Artículo 105.
 
@@ -1879,7 +1969,7 @@ Las instancias municipales deben ejercer las atribuciones previstas para los mun
 
 ## TÍTULO QUINTO. CORRESPONSABILIDAD CON LA NIÑEZ Y ADOLESCENCIA
 
-### CAPÍTULO II. OBLIGACIONES DE LA FAMILIA
+### CAPÍTULO I. DERECHOS DE LA FAMILIA
 
 ###### Artículo 108.
 
@@ -1921,7 +2011,7 @@ XVII. Ser atendidos por las autoridades respecto de las acciones, políticas y p
 
 Las autoridades estatales y municipales tienen el deber de respetar y garantizar a quienes ejercen la patria potestad, tutela o guarda y custodia, el goce y ejercicio efectivo de los derechos reconocidos en las disposiciones constitucionales, federal y estatal, los tratados internacionales, la Ley General, esta Ley y demás legislación aplicable.
 
-### CAPÍTULO III. ORGANIZACIONES DEL SECTOR SOCIAL Y PRIVADO
+### CAPÍTULO II. OBLIGACIONES DE LA FAMILIA
 
 ###### Artículo 109.
 
@@ -1969,7 +2059,7 @@ Al efecto, la Procuraduría de Protección ejercerá la representación coadyuva
 
 Cuando existan indicios de conflicto de intereses entre quienes ejerzan la representación originaria o de éstos con niñas, niños y adolescentes o por una representación deficiente o dolosa, a petición del Ministerio Público, de la Procuraduría o de oficio, el órgano jurisdiccional o administrativo que conozca del asunto, deberá sustanciar por vía incidental, un procedimiento sumario de restricción, suspensión o revocación de la representación originaria, según sea el caso, para efectos de que la Procuraduría ejerza la representación en suplencia.
 
-### CAPÍTULO IV. PROGRAMA ESTATAL Y PROGRAMAS MUNICIPALES
+### CAPÍTULO III. ORGANIZACIONES DEL SECTOR SOCIAL Y PRIVADO
 
 ###### Artículo 111.
 
@@ -2017,7 +2107,7 @@ IV. Propiciar los apoyos que requiera el Plan de Atención Integral de las insti
 
 V. Supervisar, a través de la Procuraduría de Protección, el funcionamiento de las organizaciones y las consecuencias de no cumplir con sus obligaciones.
 
-### CAPÍTULO V. FINANCIAMIENTO Y GASTO
+### CAPÍTULO IV. PROGRAMA ESTATAL Y PROGRAMAS MUNICIPALES
 
 ###### Artículo 114.
 
@@ -2031,7 +2121,7 @@ III. Incluir mecanismos transparentes que permitan su evaluación y seguimiento,
 
 Para la implementación y aplicación de los Programas Estatal y Municipales, el Sistema Estatal y los Sistemas Municipales de Protección Integral, contarán con órganos consultivos de apoyo, en los que participarán las autoridades competentes y representantes de los sectores social y privado.
 
-### CAPÍTULO VI. SEGUIMIENTO, VIGILANCIA Y EVALUACIÓN
+### CAPÍTULO V. FINANCIAMIENTO Y GASTO
 
 ###### Artículo 115.
 
@@ -2067,7 +2157,7 @@ VII. Tener en cuenta las necesidades estructurales, de recursos humanos y econó
 
 VIII. Tener en cuenta las conclusiones de los informes anuales del Sistema Estatal de Protección Integral sobre análisis de situación particular y general.
 
-### CAPÍTULO VII. PARLAMENTO INFANTIL
+### CAPÍTULO VI. SEGUIMIENTO, VIGILANCIA Y EVALUACIÓN
 
 ###### Artículo 117.
 
@@ -2075,7 +2165,7 @@ Corresponde a las autoridades estatales y municipales, en el ámbito de sus resp
 
 La evaluación consistirá en revisar periódicamente el cumplimiento de esta Ley y el Programa Estatal, metas y acciones en materia de derechos de niñas, niños y adolescentes.
 
-### CAPÍTULO I. SANCIONES
+### CAPÍTULO VII. PARLAMENTO INFANTIL
 
 ###### Artículo 118.
 
@@ -2089,7 +2179,7 @@ El Parlamento Infantil contará con un Comité Organizador cuyos cargos serán h
 
 ## TÍTULO SEXTO. SANCIONES Y RECURSOS
 
-### CAPÍTULO II. MEDIOS DE IMPUGNACIÓN
+### CAPÍTULO I. SANCIONES
 
 ###### Artículo 119.
 
@@ -2166,6 +2256,8 @@ II. Suspensión de proyectos o programas;
 III. Cancelación de la autorización, y
 
 IV. Petición a las autoridades competentes para la disolución de la organización.
+
+### CAPÍTULO II. MEDIOS DE IMPUGNACIÓN
 
 ###### Artículo 125.
 
@@ -2334,3 +2426,39 @@ P.O. 4 DE OCTUBRE DE 2025.
 Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo segundo. Se derogan todas aquellas disposiciones que contravengan el presente decreto.
+
+P.O. 24 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 140.- SE ADICIONA UN CAPÍTULO III BIS AL TÍTULO SEGUNDO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE ZACATECAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil veintiséis, previa su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Previo a la entrada en vigor del presente Decreto, la Procuraduría de Protección, deberá crear el área administrativa responsable de realizar los procedimientos previstos en el presente instrumento legislativo, para tales efectos deberá llevar a cabo procedimientos de selección, contratación y capacitación del personal destinado a estas tareas.
+
+###### ARTÍCULO TERCERO.
+
+La Procuraduría de Protección deberá implementar los procedimientos y protocolos necesarios para llevar a cabo el sistema de familias de acogida, incluyendo la capacitación de las familias y la asignación de recursos, de acuerdo con la suficiencia presupuestal.
+
+###### ARTÍCULO CUARTO.
+
+La Procuraduría de protección tendrá un plazo de hasta noventa días naturales, a partir de la publicación del presente Decreto para emitir la normatividad indispensable para la implementación del mismo.
+
+###### ARTÍCULO QUINTO.
+
+En el proyecto de Presupuesto de Egresos del Estado de Zacatecas para el Ejercicio Fiscal 2026, el Ejecutivo del Estado deberá destinar los recursos financieros suficientes para la implementación de este Decreto, toda vez que el Importe Anual ordinario estimado que implica el Proyecto es de $1,879,285.00.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas aquellas disposiciones que contravengan el presente decreto.
+
+P.O. 24 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 134.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo.- Se derogan las disposiciones que contravengan este Decreto.
