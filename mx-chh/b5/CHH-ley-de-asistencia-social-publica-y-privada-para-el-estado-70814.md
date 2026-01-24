@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-asistencia-social-publica-y-privada-para-el-estado-70814
 country: "mx"
 rank: "ley"
 publication_date: "2009-10-28"
-last_updated: "2021-09-04"
+last_updated: "2026-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE ASISTENCIA SOCIAL PÚBLICA Y PRIVADA PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2026.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 28 de octubre de 2009.
 
@@ -95,9 +95,9 @@ VI. Madres Jefas de Familia en situación de vulnerabilidad: son aquellas mujere
 
 Son personas sujetas de asistencia social las que se encuentren en situación de vulnerabilidad y su familia, preferentemente:
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2026)</small>
 
-I. Niñas, niños y adolescentes en situación de desamparo, maltrato, omisión de cuidados, de calle, en la calle, explotación en cualquiera de sus modalidades, marginación, pobreza alimentaria, migrantes o repatriados.
+I. Niñas, niños y adolescentes en situación de embarazo, desamparo, maltrato, omisión de cuidados, de calle, en la calle, explotación en cualquiera de sus modalidades, marginación, pobreza alimentaria, migrantes o repatriados.
 
 II. Mujeres en situación de maltrato, explotación en cualquiera de sus modalidades, marginación o pobreza alimentaria;
 
@@ -1836,3 +1836,11 @@ Al inicio de la vigencia del presente Decreto, todas las investigaciones, carpet
 ###### ARTÍCULO DÉCIMO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0287/2025 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE EDUCACIÓN, DE LA LEY DE ASISTENCIA SOCIAL PÚBLICA Y PRIVADA PARA EL ESTADO DE CHIHUAHUA, DE LA LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA Y DE LA LEY ESTATAL DE SALUD”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
