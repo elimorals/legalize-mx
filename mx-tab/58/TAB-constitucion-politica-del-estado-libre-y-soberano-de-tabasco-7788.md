@@ -4,7 +4,7 @@ identifier: "TAB-constitucion-politica-del-estado-libre-y-soberano-de-tabasco-77
 country: "mx"
 rank: "constitucion"
 publication_date: "1919-04-05"
-last_updated: "2025-12-09"
+last_updated: "2026-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7788&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2026.
 
 Constitución publicada por Bando Solemne en el Estado de Tabasco, el 5 de abril de 1919.
 
@@ -1397,7 +1397,7 @@ XLII.- Legislar en materia de participación ciudadana, estableciendo las normas
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
-XLIII. Aprobar, en su caso, los acuerdos parlamentarios o acuerdos económicos que propongan a la Legislatura la Junta de Coordinación Política, la Mesa Directiva, las fracciones parlamentarias o los Diputados y Diputadas en lo individual, para gestionar ante las instancias competentes, apoyo a la población o que busquen el beneficio de la ciudadanía tabasqueña; o para el mejor ejercicio de las atribuciones del propio Congreso;
+XLIII.- Aprobar, en su caso, los acuerdos parlamentarios o acuerdos económicos que propongan a la Legislatura la Junta de Coordinación Política, la Mesa Directiva, las fracciones parlamentarias o los Diputados y Diputadas en lo individual, para gestionar ante las instancias competentes, apoyo a la población o que busquen el beneficio de la ciudadanía tabasqueña; o para el mejor ejercicio de las atribuciones del propio Congreso;
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2015)</small>
 
@@ -1407,15 +1407,19 @@ Los contratos plurianuales deben ser autorizados por el Congreso del Estado;
 
 > <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
-XLV. Legislar en materia de derechos humanos, y elegir, bajo el principio de paridad de género, al titular de la presidencia de la Comisión Estatal de los Derechos Humanos, y a los integrantes del Consejo Consultivo, mediante un procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que mediante convocatoria se emita conforme las disposiciones previstas en la ley de la materia;
+XLV.- Legislar en materia de derechos humanos, y elegir, bajo el principio de paridad de género, al titular de la presidencia de la Comisión Estatal de los Derechos Humanos, y a los integrantes del Consejo Consultivo, mediante un procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que mediante convocatoria se emita conforme las disposiciones previstas en la ley de la materia;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2026)</small>
 
-XLVI.- Solicitar a la Comisión Nacional de los Derechos Humanos, que investigue hechos que constituyan violaciones graves de derechos humanos; y
+XLVI.- Solicitar a la Comisión Nacional de los Derechos Humanos, que investigue hechos que constituyan violaciones graves de derechos humanos;
 
-> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ENERO DE 2026)</small>
 
-XLVII.- Expedir las leyes necesarias para hacer efectivas todas las anteriores facultades y las demás conferidas por la Constitución Política de los Estados Unidos Mexicanos, las leyes generales y por esta Constitución.
+XLVII.- Legislar en la forma que proceda, para Prevenir, Investigar y Sancionar los delitos en general; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE ENERO DE 2026)</small>
+
+XLVIII.- Expedir las leyes necesarias para hacer efectivas todas las anteriores facultades y las demás conferidas por la Constitución Política de los Estados Unidos Mexicanos, las leyes generales y por esta Constitución.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
@@ -1943,9 +1947,9 @@ V. Las ausencias de la persona titular de la Fiscalía General serán suplidas e
 
 Corresponde al Ministerio Público la persecución, ante los tribunales, de todos los delitos del orden local; y, por lo mismo, solicitará las medidas cautelares contra las personas imputadas; buscará y presentará las pruebas que acrediten la participación de éstos en hechos que la leyes señalen como delito; procurará que los juicios en materia penal se sigan con toda regularidad para que la impartición de justicia sea pronta y expedita; pedirá la aplicación de las penas, e intervendrá en todos los asuntos que la ley determine.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2026)</small>
 
-La Fiscalía General contará, al menos, con las fiscalías especializadas en materia de delitos electorales, de combate a la corrupción y de violencias de género contra las mujeres, cuyas personas titulares serán nombradas y removidas por el o la Fiscal General del Estado. El Congreso del Estado podrá objetar los nombramientos y remociones por el voto de las dos terceras partes de sus integrantes presentes, en el plazo que fije la ley; si el Congreso no se pronunciare en este plazo, se entenderá que no tiene objeción.
+La Fiscalía General contará, al menos, con las fiscalías especializadas en materia de delitos electorales, de combate a la corrupción, de violencias de género contra las mujeres y de extorsión, cuyas personas titulares serán nombradas y removidas por el o la Fiscal General del Estado. El Congreso del Estado podrá objetar los nombramientos y remociones por el voto de las dos terceras partes de sus integrantes presentes, en el plazo que fije la ley; si el Congreso no se pronunciare en este plazo, se entenderá que no tiene objeción.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
@@ -1971,11 +1975,11 @@ La o el Fiscal General del Estado y sus agentes, serán responsables de toda fal
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 2026)</small>
 
 ###### ARTICULO 55.
 
-El ejercicio del Poder Judicial se deposita en el Tribunal Superior de Justicia, el Tribunal de Disciplina Judicial y los juzgados que esta Constitución y las leyes establecen, los cuales administrarán justicia pronta y gratuita, de manera independiente e imparcial; asimismo, contarán con las atribuciones, competencias, organización, personal y demás funciones inherentes.
+El ejercicio del Poder Judicial se deposita en el Tribunal Superior de Justicia, el Tribunal de Disciplina Judicial y los juzgados que esta Constitución y las leyes establecen, los cuales administrarán justicia pronta y gratuita, de manera independiente e imparcial; asimismo, contarán con las atribuciones, competencias, organización, personal y demás funciones inherentes; y de conformidad con las leyes generales en la materia y demás disposiciones aplicables, conocerá de los procesos penales relacionados con los delitos de secuestro, extorsión y demás que se establezcan en los ordenamientos respectivos.
 
 > <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2024)</small>
 
@@ -4364,3 +4368,13 @@ P.O. 9 DE DICIEMBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al momento de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 231 POR EL QUE "SE REFORMAN LAS FRACCIONES XLVI, XLVII DEL ARTÍCULO 36, EL PÁRRAFO QUINTO DEL ARTÍCULO 54 TER, EL PRIMER PÁRRAFO DEL ARTÍCULO 55 Y SE ADICIONA LA FRACCIÓN XLVIII AL ARTÍCULO 36, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al momento de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Dentro del plazo de 180 días a que se refiere el Artículo Transitorio Sexto del Decreto por el que se expidió la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la Fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, expídanse las reformas, adiciones o derogaciones necesarias a las leyes secundarias locales para armonizarlas al ordenamiento general citado.
