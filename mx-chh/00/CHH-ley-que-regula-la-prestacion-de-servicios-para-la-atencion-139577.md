@@ -4,7 +4,7 @@ identifier: "CHH-ley-que-regula-la-prestacion-de-servicios-para-la-atencion-1395
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-11"
-last_updated: "2024-05-18"
+last_updated: "2026-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2026.
 
 Ley publicada en el Anexo al No. 99 del Periódico Oficial del Estado de Chihuahua, el miércoles 11 de diciembre de 2019.
 
@@ -187,9 +187,13 @@ Para la realización de las tareas relacionadas con el párrafo anterior, el Ins
 
 Niñas, niños y adolescentes serán las personas beneficiarias de los servicios que brinden los Centros de Atención Infantil en relación con la atención, cuidado y su desarrollo integral.
 
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2026)</small>
 
-Así mismo, se garantizará que niñas, niños y adolescentes en situación de orfandad por causa de feminicidio, sean beneficiarios de los servicios que brinden los Centros de Atención Infantil.
+Se garantizará que niñas, niños y adolescentes en situación de orfandad por causa de feminicidio, sean beneficiarios de los servicios que brinden los Centros de Atención Infantil.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2026)</small>
+
+De igual manera, se priorizará el servicio a hijas e hijos de madres y padres adolescentes, que se encuentren realizando sus estudios en los centros educativos del Sistema Educativo Estatal.
 
 ###### Artículo 12.
 
@@ -1230,6 +1234,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 18 DE MAYO DE 2024.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO Nº LXVII/RFLEY/0848/2024 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFLEY/0287/2025 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE EDUCACIÓN, DE LA LEY DE ASISTENCIA SOCIAL PÚBLICA Y PRIVADA PARA EL ESTADO DE CHIHUAHUA, DE LA LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA Y DE LA LEY ESTATAL DE SALUD".]
 
 ###### ARTÍCULO ÚNICO.
 
