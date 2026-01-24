@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-turismo-del-estado-de-zacatecas-127080"
 country: "mx"
 rank: "ley"
 publication_date: "2018-03-07"
-last_updated: "2022-06-08"
+last_updated: "2026-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE TURISMO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2026.
 
 Ley publicada en el Suplemento 3 al número 19 del Periódico Oficial del Estado de Zacatecas, el miércoles 7 de marzo de 2018.
 
@@ -77,7 +77,9 @@ c) El turismo contribuya a la erradicación de la pobreza en el estado y generac
 
 II. La coordinación de la Secretaría de Turismo con la Federación, otras entidades federativas y municipios, así como con organismos e instituciones de los sectores, social académico y privado, nacionales y extranjeros;
 
-III. Promover la constitución de reservas territoriales que garanticen el crecimiento de la actividad turística, estableciendo los mecanismos necesarios para la creación, conservación, mejoramiento, equipamiento, protección, promoción y aprovechamiento de los atractivos turísticos, preservando el equilibrio ecológico y social;
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2026)</small>
+
+III. Promover la constitución de reservas territoriales y la apertura de Zonas de Desarrollo Turístico Sustentable que garanticen el crecimiento de la actividad turística, estableciendo los mecanismos necesarios para la creación, conservación, mejoramiento, equipamiento, protección, promoción y aprovechamiento de los atractivos turísticos, preservando el equilibrio ecológico y social;
 
 IV. La desregulación de trámites que obstaculicen el desarrollo del turismo en la Entidad, en los términos de la legislación aplicable;
 
@@ -97,15 +99,25 @@ XI. Preservar el patrimonio histórico y cultural del estado en coordinación co
 
 XII. Verificar y vigilar la prestación de los servicios turísticos en el estado, así como la aplicación de sanciones a los prestadores de servicios turísticos que contravengan las disposiciones de esta Ley, en los términos de la Ley General de Turismo y otras disposiciones aplicables;
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2026)</small>
 
-XIII. Promover la creación de organismos y asociaciones que tengan por objetivo fomentar el turismo en la Entidad en condiciones de equidad promoviendo y vigilando que el desarrollo turístico sea incluyente y beneficie de manera equitativa a los prestadores de servicios turísticos de los sectores público, privado y social, y
+XIII. Promover la creación de organismos y asociaciones que tengan por objetivo fomentar el turismo en la Entidad;
 
-XIV. Fomentar el desarrollo del turismo en los municipios con vocación turística del estado, en especial, en las localidades declaradas sitios patrimonio de la humanidad y pueblos mágicos.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2026)</small>
 
-> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+XIV. Fomentar el desarrollo del turismo en los municipios con vocación turística del estado, en especial, en las localidades declaradas sitios patrimonio de la humanidad y pueblos mágicos;
 
-XV. La prestación de servicios turísticos y de hospedaje, en cualquiera de sus modalidades, así como las previstas en la Ley de Hacienda del Estado.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2026)</small>
+
+XV. La prestación de servicios turísticos y de hospedaje, en cualquiera de sus modalidades, así como las previstas en la Ley de Hacienda del Estado;
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2026)</small>
+
+XVI. Promover entre las autoridades competentes, el establecimiento de acciones emergentes de reactivación económica en caso de siniestros, pandemias o diversas contingencias que afecten severamente la actividad turística, dentro de los respectivos instrumentos presupuestales y programáticos. Lo anterior, en el marco de un diálogo constante con las cámaras, organizaciones y empresas del sector para fortalecer la vinculación entre todos los involucrados en el desarrollo del turismo, y
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2026)</small>
+
+XVII. Fomentar la creación de programas de prevención y atención de emergencias y desastres, así como la implementación de acciones para la gestión integral de los riesgos conforme a las directrices de protección civil que al efecto se establezcan.
 
 ###### Artículo 2.
 
@@ -149,7 +161,19 @@ XVI. Turismo de Naturaleza: La categoría de turismo que tiene como fin realizar
 
 XVII. Turismo Cultural: Son aquellos viajes turísticos que realizan las personas motivados por conocer, comprender y disfrutar el conjunto de rasgos y elementos distintivos, espirituales y materiales, intelectuales y afectivos que caracterizan a una sociedad o a un grupo social de un destino;
 
-XVIII. Turismo Social: El segmento turístico destinado a satisfacer las necesidades de cualquier persona que tenga como propósito viajar en condiciones de economía, seguridad y comodidad;
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2026)</small>
+
+XVIII. Turismo Social: Aquel que abarca todos aquellos instrumentos y medios, a través de los cuales, las autoridades del sector público conjuntamente con el sector privado y social, otorgan facilidades a los segmentos de la población socialmente desfavorecidos para que puedan viajar con fines recreativos, deportivos, educativos y culturales en condiciones de equidad, seguridad, comodidad, accesibilidad, a fin de acceder al goce turístico y sus múltiples beneficios;
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 24 DE ENERO DE 2026)</small>
+
+XVIII-Bis. Turismo Sustentable: En términos de la fracción XIX del artículo 3 de la Ley General de Turismo, aquel que cumple con las siguientes directrices:
+
+a) Dar un uso óptimo a los recursos naturales aptos para el desarrollo turístico, ayudando a conservarlos con apego a las leyes en la materia;
+
+b) Respetar la autenticidad sociocultural de las comunidades anfitrionas, conservando sus atractivos culturales, sus valores tradicionales y arquitectónicos, y
+
+c) Asegurar el desarrollo de las actividades económicas viables, que reporten beneficios socioeconómicos, entre los que se cuenten oportunidades de empleo y obtención de ingresos y servicios sociales para las comunidades anfitrionas, que contribuyan a mejorar las condiciones de vida.
 
 XIX. Turismo de Migrantes: Es el relacionado con los Mexicanos y Zacatecanos que residen en el extranjero y que durante todo el año visitan el estado con motivo de sus relaciones de familia, de negocios, religiosas, sociales, culturales y gastronómicas;
 
@@ -163,19 +187,25 @@ XXIII. Turismo Sustentable: Aquel que tiene como objeto dar un uso óptimo a los
 
 XXIV. Ruta Turística: Es un circuito temático o geográfico que se basa en un patrimonio natural o cultural de un sitio;
 
-XXV. Sitio Patrimonio de la Humanidad: Son lugares que han cumplido los requisitos necesarios marcados por la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura y que han sido nominados para el programa internacional Patrimonio de la Humanidad debido a su importancia excepcional cultural o natural, y
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2026)</small>
+
+XXV. Sitio Patrimonio de la Humanidad: Son lugares que han cumplido los requisitos necesarios marcados por la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura y que han sido nominados para el programa internacional Patrimonio de la Humanidad debido a su importancia excepcional cultural o natural;
 
 > <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
 
 XXVI. Inversión Turística: Todo aquel destino de recursos que se ejecuta general, mayoritaria o complementariamente dentro del sector turístico, para el desarrollo de este sector;
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2026)</small>
 
-XXVII. Servicio de hospedaje: Actividad mediante la cual se realiza la contratación sobre un inmueble o parte del mismo, en relación al uso, goce y demás derechos que se convengan para el alojamiento o albergue temporal de personas, así como los previstos en la Ley de Hacienda del Estado, y
+XXVII. Servicio de Hospedaje: Actividad mediante la cual se realiza la contratación sobre un inmueble o parte del mismo, en relación al uso, goce y demás derechos que se convengan para el alojamiento o albergue temporal de personas, así como los previstos en la Ley de Hacienda del Estado;
 
-> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2026)</small>
 
-XXVIII. Oferta Turística: Conjunto de actividades, bienes y servicios turísticos que ofrece el destino, así como los atractivos culturales, históricos, naturales, recreativos y urbanos que se ofrecen al turista.
+XXVIII. Oferta Turística: Conjunto de actividades, bienes y servicios turísticos que ofrece el destino, así como los atractivos culturales, históricos, naturales, recreativos y urbanos que se ofrecen al turista, y
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2026)</small>
+
+XXIX. Zonas de Desarrollo Turístico Sustentable: Aquellas fracciones del territorio nacional, claramente ubicadas y delimitadas geográficamente, que, por sus características naturales o culturales, constituyen un atractivo turístico, establecidas mediante la declaratoria que señala la Ley General de Turismo.
 
 ### CAPÍTULO II. AUTORIDADES EN MATERIA TURÍSTICA
 
@@ -405,6 +435,26 @@ Las dependencias y entidades de la administración pública estatal, así como l
 
 La Secretaría establecerá mecanismos de coordinación con aquellas instituciones públicas, privadas y sociales, que tengan como finalidad la promoción o desarrollo del sector turístico en el estado, buscando homologar y potencializar los esfuerzos para desarrollar el sector.
 
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2026)</small>
+
+###### Artículo 26 Bis.
+
+La Secretaría y los Ayuntamientos, en sus respectivos ámbitos de competencia, deberán impulsar la actividad turística en las Zonas de Desarrollo Turístico Sustentable, mediante el fomento a la inversión, el empleo y el ordenamiento territorial, conservando sus recursos naturales en beneficio de la población. Asimismo, podrán solicitar la opinión del Consejo Consultivo Turístico del Estado de Zacatecas, respecto a las propuestas de los proyectos de declaratoria de Zonas de Desarrollo Turístico Sustentable, que serán presentados a la Secretaría de Turismo Federal.
+
+La Secretaría determinará los segmentos turísticos estratégicos para elaborar la solicitud de declaratoria de las Zonas de Desarrollo Turístico Sustentable, ante la Secretaría de Turismo Federal, para lo cual deberá considerar lo siguiente:
+
+I. Las razones que justifican la declaratoria;
+
+II. La delimitación precisa del área, señalando la superficie, ubicación, deslinde y, en su caso, la zonificación correspondiente;
+
+III. Los objetivos del desarrollo turístico sustentable;
+
+IV. Las modalidades a que se sujetará dentro del área, el uso y aprovechamiento de los recursos naturales, culturales y turísticos, y
+
+V. La descripción de actividades que podrán llevarse a cabo en el área correspondiente, así como las modalidades y limitaciones a que se sujetarán.
+
+El Ejecutivo del Estado y los Ayuntamientos, en su respectivo ámbito de competencia, fomentarán esquemas de financiamiento e inversión para la consolidación de la oferta turística en alguna Zona de Desarrollo Turístico Sustentable que se establezca en la Entidad.
+
 ### CAPÍTULO X. DE LA PLANEACIÓN Y COMPETITIVIDAD EN EL SECTOR TURÍSTICO
 
 ###### Artículo 27.
@@ -457,9 +507,11 @@ XI. La equidad en las condiciones de competencia y mecanismos de asociación con
 
 El Turismo Social comprende todos aquellos programas que implemente la Secretaría a través de los cuales se facilite la participación en el turismo de los grupos de jóvenes, niños, estudiantes, personas con discapacidad, adultos mayores, jubilados, pensionados y otros que por razones físicas, económicas, sociales o culturales, no tengan acceso a disfrutar de los sitios de interés y servicios turísticos y cuyo objeto sea lograr el descanso y esparcimiento familiar, en condiciones adecuadas de economía, seguridad y comodidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 2026)</small>
+
 ###### Artículo 30.
 
-La Secretaría promoverá y coordinará programas de turismo social, tomando como referencia las necesidades y características específicas de cada grupo, así como las temporadas adecuadas para su mejor aprovechamiento.
+La Secretaría promoverá y coordinará programas de turismo social, conjuntamente con los Ayuntamientos y con el concurso de los sectores privado y social, tomando como referencia las necesidades y características específicas de cada grupo, así como las temporadas adecuadas para su mejor aprovechamiento.
 
 Con el objeto de fomentar el turismo social y proteger la economía familiar, la Secretaría promoverá la celebración de convenios y acuerdos con prestadores de servicios turísticos, mediante los cuales se determinen precios y tarifas reducidas.
 
@@ -487,7 +539,9 @@ La Secretaría promoverá la suscripción de acuerdos con prestadores de servici
 
 Con la finalidad de impulsar el turismo cultural en el estado, la Secretaría desarrollará las siguientes acciones:
 
-I. En coordinación con el Instituto Zacatecano de Cultura “Ramón López Velarde” y otras dependencias y entidades de los tres órdenes de gobierno, así como con la participación del sector privado y social, establecerán estrategias que permitan promover el patrimonio cultural del estado a nivel nacional e internacional, lo anterior de acuerdo con la Ley General de Cultura y Derechos Culturales y la Ley General;
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2026)</small>
+
+I. En coordinación con el Instituto Zacatecano de Cultura “Ramón López Velarde” y otras dependencias y entidades de los tres órdenes de gobierno, así como con la participación del sector privado y social, establecerán estrategias que permitan promover el patrimonio histórico, artístico, arqueológico, gastronómico y cultural del Estado a nivel nacional e internacional, lo anterior de acuerdo con la Ley General de Cultura y Derechos Culturales y la Ley General;
 
 II. Fomentar que los prestadores de servicios turísticos ofrezcan información adecuada, especializada y oportuna, tendiente a difundir el patrimonio cultural material e inmaterial del estado, y
 
@@ -505,9 +559,43 @@ II. De aventura, será considerada la categoría en la que se incluyen diferente
 
 III. Rural, será considerada la categoría en la cual el turista participa en actividades propias de las comunidades, los ejidos, fraccionamientos rurales y pueblos indígenas, con fines culturales, educativos y recreativos, que le permiten conocer los valores culturales, forma de vida, manejo ambiental, usos y costumbres y aspectos de su historia, promoviendo la generación de ingresos adicionales a la economía rural y a la preservación de los ecosistemas en los que habitan.
 
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2026)</small>
+
+Para la práctica y desarrollo en el largo plazo del turismo de naturaleza, el Ejecutivo del Estado y los Ayuntamientos deberán promover conjuntamente ante las instancias correspondientes, la apertura y funcionamiento de alguna o varias Zonas de Desarrollo Turístico Sustentable en el Estado de Zacatecas, según sea el caso, de acuerdo a los lineamientos establecidos para tal fin.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 2026)</small>
+
 ###### Artículo 37.
 
-La Secretaría implementará acciones sobre la investigación de los atractivos turísticos naturales con los que cuenta cada región o ruta.
+La Secretaría implementará acciones sobre la investigación de los atractivos turísticos naturales con los que cuenta cada región o ruta, analizando cualitativamente la vocación turística de los espacios y recursos naturales y considerando la siguiente clasificación:
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2026)</small>
+
+I. Áreas rurales/naturales limítrofes con espacios acuáticos;
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2026)</small>
+
+II. Próximas a lagunas;
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2026)</small>
+
+III. Próximas a ríos;
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2026)</small>
+
+IV. Montaña;
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2026)</small>
+
+V. Zonas semidesérticas;
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2026)</small>
+
+VI. Zonas boscosas, y
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2026)</small>
+
+VII. Pueblos y aldeas rurales.
 
 ###### Artículo 38.
 
@@ -604,6 +692,30 @@ De igual manera, la Secretaría fortalecerá el uso de la marca "Zacatecas Deslu
 ###### Artículo 44.
 
 En los términos de la Ley General y la presente Ley, la Secretaría podrá celebrar convenios con empresas de radio, televisión y casas productoras, para establecer locaciones y realizar filmaciones y grabaciones, procurando emplear a los habitantes del lugar de que se trate y, en su caso, celebrar convenios para la contratación de servicios publicitarios.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2026)</small>
+
+###### Artículo 44 Bis.
+
+La labor de promoción turística se realizará bajo la concepción y criterios del Turismo Sustentable en la práctica de todas sus modalidades, como un eje de desarrollo en la Entidad. Para lo cual, la Secretaría conjuntamente con los Ayuntamientos seguirán en todo momento los siguientes principios, pautas y directrices:
+
+I. Tener como fin último el alcance de un equilibrio entre las necesidades económicas, sociales, culturales y recreativas del ser humano con el ambiente;
+
+II. Concebir al turismo como eje de desarrollo para promover las capacidades productivas de las regiones del Estado, buscando satisfacer las necesidades sociales y coadyuvar a generar paz y seguridad en las comunidades;
+
+III. Respetar y preservar de la biodiversidad, mediante la planificación y gestión turística que fortalezca la vinculación entre el patrimonio natural y cultural en todas las modalidades turísticas;
+
+IV. Establecer servicios acordes con las necesidades, tanto de turistas como pobladores locales, identificando los componentes de la oferta turística y manteniendo un elevado nivel de satisfacción de los visitantes para preservar el prestigio de los centros y marcas turísticas de la Entidad;
+
+V. Promover la educación ambiental como eje del Turismo Sustentable en todos los procesos formativos y de capacitación del personal involucrado en el desarrollo del sector turístico;
+
+VI. Coadyuvar al establecimiento de la movilidad urbana sustentable y la construcción de infraestructura vial y carretera que promueva los servicios de transporte turístico ecológicos, cumpliendo con los requisitos para la accesibilidad, conectividad, inclusión y seguridad de turistas y pobladores locales;
+
+VII. Impulsar el modelo de ciudad compacta con usos de suelo mixtos y compatibles, en los centros históricos de la capital y de los pueblos mágicos del estado, como un medio para favorecer la accesibilidad y movilidad de las personas, así como la actividad comercial de los servicios turísticos;
+
+VIII. Fomentar la apertura y desarrollo de Zonas de Desarrollo Turístico Sustentable en los Municipios de la Entidad, y
+
+IX. Propiciar una amplia repartición de los beneficios del turismo entre todos los sectores sociales y en las comunidades locales para lograr una revalorización de sus propios recursos, bajo un marco de sustentabilidad.
 
 ### CAPÍTULO XVI. DE LA INFRAESTRUCTURA Y EQUIPAMIENTO TURÍSTICO
 
@@ -744,6 +856,24 @@ XVII. Prestar sus servicios en español como primera lengua y de resultar necesa
 > <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
 
 XVIII. Solicitar a los turistas que requieran el servicio de hospedaje con niñas, niños o adolescentes que acrediten parentesco con los mismos, cuando se presuma la minoría de edad, así como colaborar con las autoridades competentes en la implementación de protocolos para evitar la trata de personas.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ENERO DE 2026)</small>
+
+XIX. Informar, capacitar y sensibilizar a su personal en materia de derechos humanos de niños, niñas y adolescentes, especialmente en la prevención y detección de trata infantil asociada al turismo y cualquier otro tipo de violencia en contra de personas menores, incluyendo la forma de proceder, cuando se advierta la posible comisión de delitos relacionados con dichas conductas.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2026)</small>
+
+###### Artículo 57 Bis.
+
+Los prestadores de servicios turísticos que brinden el servicio de hospedaje o alojamiento, deberán implementar medidas adicionales de seguridad para la protección de niñas, niños y adolescentes, previa prestación del servicio, consistentes en lo siguiente:
+
+I. Llevar a cabo un registro con datos personales, que incluya el nombre del visitante o turista titular del contrato de hospedaje, dirección, procedencia, ocupación, descripción del tipo de identificación que presentó y el número de habitación, respetando en todo momento las disposiciones legales vigentes y los derechos fundamentales en materia de protección de datos personales;
+
+II. Solicitar la exhibición de un documento de identificación oficial con fotografía idóneo que demuestre la mayoría de edad de las personas adultas que acompañen a la persona menor de edad;
+
+III. Autorizar el ingreso de niñas, niños y adolescentes, siempre y cuando se acredite, a través de medios idóneos, que se encuentran en compañía de la persona que ejerce la patria potestad, tutela o custodia o se acredite el parentesco con la persona mayor que los acompaña, y
+
+IV. Hacer del conocimiento de la autoridad competente, cualquier conducta relacionada con la posible comisión de un hecho delictivo o que atente contra la libertad, dignidad e integridad de niñas, niños y adolescentes, así como colaborar con las autoridades correspondientes cuando investiguen la probable comisión de un delito.
 
 ### CAPÍTULO XIX. DE LA INFORMACIÓN Y ORIENTACIÓN AL TURISTA
 
@@ -942,3 +1072,13 @@ Artículo primero. El presente Decreto entrará en vigor al día siguiente de su
 Artículo segundo. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 
 Artículo tercero. Dentro del plazo de noventa días siguientes a la entrada en vigor del presente Decreto, deberán realizarse las adecuaciones al Reglamento de la presente Ley.
+
+P.O. 24 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 130.- SE REFORMA Y ADICIONA LA LEY DE TURISMO DEL ESTADO DE ZACATECAS”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. El Poder Ejecutivo del Estado deberá realizar las adecuaciones reglamentarias necesarias, con el fin de dar cumplimiento a este instrumento legislativo, dentro de un plazo que no exceda de sesenta días naturales a partir de la entrada en vigor del presente Decreto.
+
+TERCERO. Se derogan todas las disposiciones que contravengan el presente Decreto.
