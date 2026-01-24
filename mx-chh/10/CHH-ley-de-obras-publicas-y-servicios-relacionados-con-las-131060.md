@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-obras-publicas-y-servicios-relacionados-con-las-131060"
 country: "mx"
 rank: "ley"
 publication_date: "2018-10-20"
-last_updated: "2019-03-16"
+last_updated: "2026-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131060&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2026.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 20 de octubre de 2018.
 
@@ -273,7 +273,9 @@ VII. Prever las obras principales, así como las complementarias o accesorias, o
 
 VIII. Considerar la tecnología aplicable en función de la naturaleza de la obra.
 
-IX. Tomar en cuenta preferentemente, en igualdad de circunstancias, el empleo de los recursos humanos y los materiales propios de la región donde se ubique la obra.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2026)</small>
+
+IX. Tomar en cuenta preferentemente, en igualdad de circunstancias, el empleo de los recursos humanos y los materiales propios de la región, así como aquellos materiales reciclados o reutilizables, donde se ubique la obra.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MARZO DE 2019)</small>
 
@@ -1581,7 +1583,9 @@ I. Utilizar la mano de obra local que se requiera, respetando la legislación en
 
 II. Alquilar el equipo y maquinaria de construcción complementaria.
 
-III. Utilizar preferentemente los materiales de la región.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2026)</small>
+
+III. Utilizar preferentemente los materiales de la región, así como aquellos materiales reciclados o reutilizables.
 
 IV. Utilizar los servicios de fletes y acarreos complementarios que se requieran de la región.
 
@@ -2072,5 +2076,13 @@ P.O. 16 DE MARZO DE 2019.
 ## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVI/RFLEY/0298/2019 I P.E., MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO CUARTO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN Y DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE CHIHUAHUA; Y SE REFORMAN, ADICIONAN Y DEROGAN DIVERSOS ARTÍCULOS DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE ENERO DE 2026.
+
+> <small>[N. DE E. DECRETO N° LXVIII/RFLEY/0313/2025 I P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO DE CHIHUAHUA”.]</small>
+
+###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
