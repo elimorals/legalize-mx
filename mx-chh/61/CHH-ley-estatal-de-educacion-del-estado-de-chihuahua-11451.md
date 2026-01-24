@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2025-11-29"
+last_updated: "2026-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2026.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -215,7 +215,13 @@ VIII. Promover la apreciación y expresión artística, y difundir los bienes y 
 
 IX. Desarrollar actitudes que permitan crear conciencia sobre la preservación de la salud, la higiene y gestión menstrual, la planeación familiar, la paternidad y maternidad responsables, así como los riesgos y consecuencias que conlleva el ejercicio de la sexualidad a temprana edad y de los embarazos no planeados; lo anterior sin menoscabo de la libertad, del respeto absoluto a la vida, la dignidad y los derechos humanos;
 
-X. Fomentar el cuidado de la naturaleza, la valoración y preservación del medio ambiente mediante el conocimiento del desarrollo sustentable de la Entidad, propiciando el uso racional de los recursos naturales, en especial el cuidado del agua, a fin de preservar el equilibrio ecológico;
+REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 2026)
+
+X. Fomentar el cuidado de la naturaleza, la valoración y preservación del medio ambiente, mediante el conocimiento del desarrollo sustentable de la Entidad, propiciando el uso racional de los recursos naturales, en especial el cuidado del agua, a fin de preservar el equilibrio ecológico.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2026)</small>
+
+La educación ambiental se desarrollará como una política integrada, continua y permanente en todos los niveles y modalidades de enseñanza escolar. Contemplará el desarrollo de estrategias y acciones didácticas centradas en combinar teoría y práctica para generar conciencia y fomentar hábitos sostenibles, a través de actividades como talleres de reciclaje, huertos escolares, uso de recursos digitales y demás que favorezcan la construcción de una cultura ambiental.
 
 XI. Fomentar el conocimiento de la Constitución Política de los Estados Unidos Mexicanos, la del Estado de Chihuahua y las leyes que de ellas emanen;
 
@@ -280,6 +286,14 @@ XXVIII. Fomentar el uso correcto de las reglas gramaticales y ortográficas del 
 > <small>(ADICIONADA, P.O. 26 DE NOVIEMBRE DE 2025)</small>
 
 XXIX. Promover y fortalecer la inteligencia emocional en las y los educandos, entendida como la facultad de reconocer, comprender y regular las emociones propias, así como de identificar y comprender las de otras personas.
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2026)</small>
+
+XXX. Promover y garantizar la inclusión de las y los educandos en materia de educación digital, en el uso de tecnologías digitales y la adquisición de competencias y habilidades necesarias para el uso de estas en su aprendizaje.
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2026)</small>
+
+XXXI. Promover y fomentar la formación del manejo responsable de los recursos básicos, la importancia del ahorro, la inteligencia económica, conciencia del gasto y costo de las necesidades básicas del hogar.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2014)</small>
 
@@ -579,9 +593,17 @@ XXX. Integrar un órgano de consulta, seguimiento y evaluación de los programas
 
 XXXI. Integrar el Consejo Estatal de Participación Social en la Educación;
 
-> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2026)</small>
 
-XXXII. Vigilar que el embarazo y la maternidad no constituyan impedimento para que las mujeres ingresen y permanezcan realizando sus estudios en los centros educativos del Sistema Educativo Estatal, sin importar su estado civil. Queda prohibida su expulsión por esta causa; de igual manera, la Autoridad Educativa Estatal procurará el apoyo académico a las mismas dentro de las instituciones escolares;
+XXXII. Vigilar que el embarazo y la maternidad no constituyan impedimento para que las mujeres ingresen, permanezcan y concluyan sus estudios en los centros educativos del Sistema Educativo Estatal, sin importar su estado civil, asegurando en todo momento un trato digno y libre de discriminación. Queda prohibida su expulsión por esta causa. Asimismo, la Autoridad Educativa Estatal establecerá de manera efectiva y verificable el apoyo académico correspondiente, dentro de las instituciones escolares, especialmente en aquellos casos en que, por razones médicas derivadas del embarazo o parto, se vean imposibilitadas de asistir regularmente. Dicho apoyo deberá permitir su participación, en la medida de sus posibilidades y sin riesgo para su salud, en las actividades educativas y recreativas del plantel.
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2026)</small>
+
+XXXII BIS. Implementar las medidas administrativas necesarias, a fin de garantizar que la adolescente embarazada reciba la atención académica y orientación correspondientes a su nivel de estudios. Para ello, se designará a personal calificado del mismo plantel educativo donde cursa sus estudios, quien apoyará y supervisará en su avance académico con el propósito de facilitar la continuidad y conclusión de su educación.
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2026)</small>
+
+XXXII TER. Proveer la información y capacitación necesaria, para que el personal directivo, docente y el alumnado de las escuelas donde se reportan adolescentes embarazadas, puedan ser orientados en aspectos de salud sexual y reproductiva, con la finalidad de evitar actitudes de rechazo o discriminación.
 
 > <small>(REFORMADA, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -694,6 +716,10 @@ LVII (SIC). Al inicio de los ciclos escolares correspondientes, levantar consult
 > <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2022)</small>
 
 LVIII. En materia de participación social, propiciar modelos para la práctica de la democracia participativa y deliberativa.
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2026)</small>
+
+LIX. Implementar programas de orientación vocacional y tutorías, con el fin de apoyar la elección académica y profesional de las y los estudiantes de educación secundaria y preparatoria o equivalente, estos programas deberán promover de manera incluyente el conocimiento de sí mismo, la exploración de intereses, la investigación de opciones profesionales y la conexión con profesionales del área, incluyendo la capacitación a las personas orientadoras, así como la realización de evaluaciones y pruebas cuyos resultados sean entregados a las y los estudiantes a fin de que puedan tomar decisiones informadas sobre su futuro.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -1260,6 +1286,10 @@ VI. Fomentar el conocimiento de las etnias para propiciar el respeto a su cultur
 > <small>(ADICIONADA, P.O. 2 DE NOVIEMBRE DE 2022)</small>
 
 VII. Estimular el conocimiento y las habilidades de las niñas y niños en los cuales se detecten aptitudes sobresalientes, para que continúen potenciando las mismas, dando seguimiento a quienes hayan sido identificados en niveles educativos anteriores.
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2026)</small>
+
+VIII. Fomentar e impulsar el hábito de la lectura.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -4832,3 +4862,41 @@ P.O. 29 DE NOVIEMBRE DE 2025.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El Poder Ejecutivo del Estado, a través de la Secretaría de Hacienda, destinará, priorizando de manera gradual en la medida financiera posible, las partidas presupuestales suficientes para garantizar lo previsto en el presente Decreto.
+
+P.O. 24 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0287/2025 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE EDUCACIÓN, DE LA LEY DE ASISTENCIA SOCIAL PÚBLICA Y PRIVADA PARA EL ESTADO DE CHIHUAHUA, DE LA LEY QUE REGULA LA PRESTACIÓN DE SERVICIOS PARA LA ATENCIÓN, CUIDADO Y DESARROLLO INTEGRAL INFANTIL DEL ESTADO DE CHIHUAHUA Y DE LA LEY ESTATAL DE SALUD”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0291/2025 I. P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 13, LA FRACCIÓN LIX, DE LA LEY ESTATAL DE EDUCACIÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFLEY/0292/2025 I P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 8, LA FRACCIÓN XXX, DE LA LEY ESTATAL DE EDUCACIÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0303/2025 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE EDUCACIÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0305/2025 I P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 38, PÁRRAFO SEGUNDO, LA FRACCIÓN VIII, DE LA LEY ESTATAL DE EDUCACIÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFLEY/0307/2025 I P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 8, LA FRACCIÓN XXXI, DE LA LEY ESTATAL DE EDUCACIÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
