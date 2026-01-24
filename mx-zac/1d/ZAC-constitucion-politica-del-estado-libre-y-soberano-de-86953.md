@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2025-06-07"
+last_updated: "2026-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2026.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -437,9 +437,9 @@ Queda prohibida toda forma de discriminación motivada por el origen étnico, na
 
 La mujer y el hombre son iguales ante la ley y deben gozar de las mismas oportunidades para el desenvolvimiento de sus facultades físicas e intelectuales, así como de las mismas seguridades para la preservación de su vida, integridad física y moral, y su patrimonio.
 
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2026)</small>
 
-Se reconoce la equidad entre los géneros como principio necesario para el desarrollo del pueblo zacatecano. El Estado promoverá este postulado para lograr una sociedad más justa y equitativa, y la ley determinará las facultades y acciones que deban aplicarse para el cumplimiento de este fin.
+El Estado garantizará el goce y ejercicio del derecho a la igualdad sustantiva de las mujeres y reconoce la equidad entre los géneros como principio necesario para el desarrollo del pueblo zacatecano; las autoridades deberán promover este postulado para lograr una sociedad más justa y equitativa y la ley determinará las acciones que deban aplicarse para el cumplimiento de este fin.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2017)</small>
 
@@ -497,9 +497,11 @@ d) La atención especial en los casos en que se constituya en infractor de leyes
 
 Se considera niño a toda persona menor de dieciocho años.
 
-> <small>(ADICIONADA, P.O. 2 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2026)</small>
 
-II. Las y los jóvenes tienen derecho a su desarrollo integral, el cual se alcanzará mediante el ejercicio efectivo de los derechos que les otorga esta Constitución. En consecuencia, la ley establecerá los instrumentos, apoyos y la concurrencia del Estado y los municipios para la implementación de una política pública que permita alcanzar ese fin.
+II. El Estado promoverá el desarrollo integral de las personas jóvenes, a través de la capacitación y el diseño de políticas públicas con enfoque multidisciplinario, que propicie su inclusión en el ámbito político, social, económico y cultural del Estado.
+
+La ley establecerá los mecanismos, instrumentos, apoyos y la concurrencia del Estado y los municipios para la implementación de las políticas públicas para esos efectos;
 
 III. Son derechos particulares de las personas de la tercera edad:
 
@@ -511,37 +513,39 @@ c) El descanso y la recreación; y
 
 d) Los pensionados y jubilados tendrán consideraciones especiales en el pago de obligaciones fiscales estatales y municipales, en la forma y los términos que señalen las leyes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2026)</small>
 
 ###### Artículo 26.
 
-Toda persona tiene derecho a la alimentación, la salud, la asistencia social, la vivienda, el descanso y la recreación; la protección de sus bienes, la paz y la seguridad pública.
+Toda persona tiene derecho a la alimentación, la salud, la asistencia social, la vivienda, el descanso, la cultura física, la práctica del deporte y la recreación; la protección de sus bienes, la paz y la seguridad pública.
 
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2013)</small>
+Además, se deberán garantizar los siguientes derechos:
 
-Toda persona tiene derecho al acceso libre y universal a internet y al software libre, para integrarse a la sociedad de la información y el conocimiento y con ello promover su desarrollo individual y el progreso social. El Estado lo garantizará.
+I. Toda persona tiene derecho al acceso libre y universal a internet y al software libre, para integrarse a la sociedad de la información y el conocimiento y con ello promover su desarrollo individual y el progreso social. El Estado lo garantizará;
 
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2012)</small>
+II. Toda persona tiene derecho a un medio ambiente social que le permita vivir en paz y en armonía con todos los demás seres humanos. Cualquier forma de violencia es destructiva y atenta contra el desarrollo humano integral y la dignidad de la persona;
 
-Toda persona tiene derecho a un medio ambiente social que le permita vivir en paz y en armonía con todos los demás seres humanos. Cualquier forma de violencia es destructiva y atenta contra el desarrollo humano integral y la dignidad de la persona.
+III. Se reconoce a los pueblos y comunidades indígenas como sujetos de derecho público con personalidad jurídica y patrimonio propios, asimismo, se reconoce la propiedad intelectual colectiva respecto de su patrimonio cultural, material e inmaterial en los términos que dispongan las leyes en la materia.
 
-> <small>(ADICIONADO, P.O. 23 DE NOVIEMBRE DE 2019)</small>
+El Estado garantizará el ejercicio efectivo de los derechos de los pueblos indígenas así como de las personas afromexicanas conforme a la Constitución Federal.
 
-Esta Constitución reconoce y garantiza el derecho de los pueblos y las comunidades indígenas a la libre determinación y, en consecuencia, a la autonomía para elegir de acuerdo con sus normas, procedimientos y prácticas tradicionales, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando que las mujeres y los hombres indígenas disfruten y ejerzan su derecho de votar y ser votados en condiciones de igualdad; así como a acceder y desempeñar los cargos públicos y de elección popular para los que hayan sido electos o designados, en un marco que respete el pacto federal y la soberanía de los estados. En ningún caso las prácticas comunitarias podrán limitar los derechos político electorales de los y las ciudadanas en la elección de sus autoridades municipales.
+IV. Toda persona tiene derecho a vivir una vida libre de violencias y el Estado tiene deberes reforzados de protección con las mujeres, adolescentes, niñas y niños, la ley definirá las bases y modalidades para garantizar su realización.
 
-> <small>(ADICIONADO, P.O. 10 DE NOVIEMBRE DE 2012)</small>
+El Estado y la sociedad en su conjunto deben crear las condiciones que permitan a todos y cada uno de sus integrantes a vivir en paz, sin temor y sin miedo de ser atacados. Cualquier persona puede exigir a la autoridad el cumplimiento de esta obligación y, en su caso, la sanción a los infractores.
 
-El Estado y la sociedad en su conjunto deben crear las condiciones que permitan a todos y cada uno de sus integrantes a vivir en paz, sin violencia, sin temor y sin miedo de ser atacados. Cualquier persona puede exigir a la autoridad el cumplimiento de esta obligación y en su caso, la sanción a los infractores.
+V. La prevención social del delito es una obligación a cargo del Estado y sus municipios; de igual manera, es un derecho de los zacatecanos participar en ella;
 
-> <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2005)</small>
+VI. La ley establecerá las disposiciones de orden público e interés social para garantizar el derecho a la vivienda, regular la política estatal, los programas, instrumentos y apoyos para que toda persona o familia en el Estado de Zacatecas, pueda disfrutar de vivienda digna y decorosa.
 
-La prevención social del delito es una obligación a cargo del Estado y sus municipios; de igual manera, es un derecho de los zacatecanos participar en ella.
+Las autoridades estatales garantizarán que las viviendas reúnan condiciones mínimas de accesibilidad, asequibilidad, habitabilidad, adaptación cultural, por condición física, edad, medio urbano o rural, condición ambiental y ecológica, espacio suficiente, diseño ubicado y ubicación segura.
 
-> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2000)</small>
+Para hacer efectivo el derecho a la vivienda, los apoyos que otorgue el gobierno estatal se destinarán preferentemente a las personas y familias en situación de pobreza, marginación o vulnerabilidad, de los municipios del Estado.
 
-La seguridad pública es un servicio a cargo del Estado y los Municipios para salvaguardar la integridad y derechos de las personas, el mantenimiento del orden y la paz públicos.
+VII. La seguridad pública es un servicio a cargo del Estado y los Municipios para salvaguardar la integridad y derechos de las personas, el mantenimiento del orden y la paz públicos, de conformidad con los deberes reforzados de protección del Estado con las mujeres, adolescentes, niñas y niños.
 
-> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2000)</small>
+La seguridad pública comprende la prevención, investigación y persecución de los delitos, así como la sanción de las infracciones administrativas, en los términos de la ley, en las respectivas competencias que establece la Constitución Política de los Estados Unidos Mexicanos.
+
+La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo y honradez, así como por la perspectiva de género y el respeto a los derechos humanos reconocidos en esta Constitución y en la Constitución Política de los Estados Unidos Mexicanos.
 
 La ley determinará la organización, atribuciones, funcionamiento y profesionalización de los cuerpos de seguridad pública, entre ellos, la policía estatal preventiva. En todos los casos, se establecerá el servicio civil de carrera.
 
@@ -550,6 +554,14 @@ La ley determinará la organización, atribuciones, funcionamiento y profesional
 ###### Artículo 27.
 
 Toda persona tiene derecho a la educación, que será obligatoria en los niveles preescolar, primaria, secundaria y media superior.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2026)</small>
+
+Las estudiantes y los estudiantes de nivel básico del sistema de educación pública estatal tienen derecho a recibir por parte del Estado un paquete de útiles escolares, mochilas, loncheras, uniformes y calzado escolar gratuito y suficiente que garanticen el derecho a la educación, en los términos que fije la Ley de Desarrollo Social del Estado de Zacatecas y sus Municipios.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2026)</small>
+
+En el caso de las estudiantes y los estudiantes que se encuentren en condiciones de pobreza o vulnerabilidad, la ley fijará los términos de prioridad a efecto de garantizar la equidad en el derecho a la educación.
 
 > <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2012)</small>
 
@@ -572,6 +584,10 @@ La ley establecerá las bases que regulen la prestación del servicio educativo.
 Toda persona tiene derecho al trabajo digno, socialmente útil y bien remunerado, a la capacitación para y en el trabajo, así como a la protección del salario y del ingreso.
 
 Toda labor deberá ser justa y oportunamente retribuida.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2026)</small>
+
+En el Estado de Zacatecas, a trabajo igual corresponde salario igual, sin tener en cuenta sexo o género, las leyes establecerán los mecanismos tendentes a reducir y erradicar la brecha salarial de género.
 
 > <small>(ADICIONADO, P.O. 7 DE JULIO DE 2018)</small>
 
@@ -652,6 +668,18 @@ El Estado dictará, en el ámbito de su competencia, las medidas apropiadas que 
 > <small>(ADICIONADO, P.O. 25 DE MARZO DE 2015)</small>
 
 Toda persona tiene derecho al acceso, disposición y saneamiento del agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible. El Estado deberá garantizar este derecho y la ley definirá los mecanismos, bases, apoyos y modalidades para el acceso, uso equitativo y sustentable de los recursos hídricos, estableciendo y delimitando la participación del Estado y los municipios, así como la participación de la ciudadanía para la consecución de dichos fines.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2026)</small>
+
+El Estado protege a los animales y esta Constitución los reconoce como seres vivos que sienten, por tanto, tienen derecho a recibir un trato digno y ser protegidos contra todo tipo de violencia, maltrato o crueldad.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2026)</small>
+
+En el estado, toda persona tiene el deber ético y la obligación jurídica de respetar la vida y la integridad de los animales. Su tutela es responsabilidad común de los habitantes de la entidad.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2026)</small>
+
+Las autoridades estatales y municipales garantizarán la protección, el trato digno y respetuoso a los animales.
 
 ###### Artículo 31.
 
@@ -1235,7 +1263,13 @@ La Legislatura del Estado se integra con dieciocho diputadas y diputados electos
 
 Las elecciones de Diputadas y Diputados por ambos sistemas se sujetarán a las bases establecidas en esta Constitución y a las disposiciones de la ley electoral. Las Diputadas y los Diputados de mayoría relativa y los de representación proporcional tendrán los mismos derechos y obligaciones.
 
-Por cada Diputada o Diputado propietario se elegirá un suplente. Las y los Diputados podrán ser electos consecutivamente por un período adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2026)</small>
+
+Por cada Diputada o Diputado propietario se elegirá un suplente.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2026)</small>
+
+Las personas Diputadas no podrán ser reelectas para el periodo inmediato posterior al ejercicio de su mandato. Las personas Diputadas suplentes podrán ser electas para el periodo inmediato con el carácter de propietarias siempre que no hubieren estado en ejercicio, pero las personas Diputadas propietarias no podrán ser electas para el periodo inmediato con el carácter de suplentes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2014)</small>
 
@@ -1303,9 +1337,9 @@ V-B. No haber sido durante el año previo a la elección titular de las dependen
 
 VI. No ser titular de unidad administrativa ni oficina recaudadora de la Secretaría de Finanzas; Presidente Municipal, Secretario de Gobierno Municipal, ni Tesorero Municipal, cuando menos noventa días antes de la elección;
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2026)</small>
 
-VII. No pertenecer al estado eclesiástico ni ser ministro de algún culto religioso, a menos que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación que establece la Ley Reglamentaria del Artículo 130 de la Constitución Política de los Estados Unidos Mexicanos;
+VII. No pertenecer al estado eclesiástico ni ser persona ministra de algún culto religioso, a menos que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación que establece la Ley Reglamentaria del Artículo 130 de la Constitución Política de los Estados Unidos Mexicanos;
 
 > <small>(ADICIONADA, P.O. 12 DE JULIO DE 2014)</small>
 
@@ -1319,13 +1353,17 @@ IX. No ser Magistrado Presidente o Magistrado del Tribunal de Justicia Electoral
 
 X. No estar cumpliendo una condena por violencia familiar, política o cualquier agresión de género en el ámbito privado o público;
 
-> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2026)</small>
 
-XI. No estar cumpliendo una condena por delitos sexuales, contra la libertad sexual o la intimidad corporal; y
+XI. No estar cumpliendo una condena por delitos sexuales, contra la libertad sexual o la intimidad sexual;
 
-> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2026)</small>
 
-XII. No estar inscrito o tener registro vigente como persona deudora alimentaria morosa que atente contra las obligaciones alimentarias, ya sea en el Estado de Zacatecas o en cualquier otra entidad, salvo que acredite estar al corriente del pago.
+XII. No estar inscrito o tener registro vigente como persona deudora alimentaria morosa que atente contra las obligaciones alimentarias, ya sea en el Estado de Zacatecas o en cualquier otra entidad, salvo que acredite estar al corriente del pago, y
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2026)</small>
+
+XIII. No tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o relación de pareja, parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la diputación.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO] PRIMER PÁRRAFO, P.O. 1 DE OCTUBRE DE 2003)</small>
 
@@ -1609,9 +1647,9 @@ XLI. Analizar y, en su caso, ratificar los convenios celebrados entre los Ayunta
 
 XLII. Expedir el Bando Solemne para dar a conocer en todo el Estado la declaración de Gobernador electo que hubiere hecho el Tribunal de Justicia Electoral;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE ENERO DE 2025)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2026)</small>
 
-XLIII. Otorgar o negar las solicitudes de licencia o renuncia de las personas servidoras públicas del Poder Judicial del Estado, conforme a esta Constitución y en los términos que establezcan las leyes;
+XLIII. Autorizar o negar las solicitudes de licencia o renuncia de las Magistradas y Magistrados del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial, así como de los demás Tribunales del Estado, conforme a esta Constitución y en los términos que establezcan las leyes;
 
 > <small>(ADICIONADA, P.O. 14 DE ENERO DE 2025)</small>
 
@@ -1743,7 +1781,9 @@ Para dar cumplimiento a las facultades de la Legislatura en materia de revisión
 
 La Legislatura del Estado designará al titular de la Auditoría Superior del Estado por el voto de las dos terceras partes de sus miembros presentes. La Ley determinará el procedimiento para su designación. Dicho titular durará en su encargo siete años. Podrá ser removido, exclusivamente, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Séptimo de esta Constitución.
 
-Para ser titular de la Auditoría Superior del Estado se requiere contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades, cumplir además de los requisitos establecidos en las fracciones I, II, IV, y VI del artículo 97 de esta Constitución y los que señale la Ley. Durante su encargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2026)</small>
+
+Para ser titular de la Auditoría Superior del Estado se requiere contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades, además de cumplir los requisitos que señale la Ley. Durante su encargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
 
 Los Poderes del Estado, los Municipios, los entes señalados en la fracción V de este artículo y los demás sujetos de fiscalización facilitarán los auxilios que requiera la Auditoría Superior del Estado para el ejercicio de sus funciones, en caso de no hacerlo, se harán acreedores a las sanciones que establezca la ley. Asimismo, los servidores públicos, así como cualquier entidad, persona física o moral, pública o privada, fideicomiso, mandato o fondo, o cualquier otra figura jurídica, que reciban o ejerzan recursos públicos, deberán proporcionar la información y documentación que solicite la Auditoría Superior del Estado, de conformidad con los procedimientos establecidos en la ley y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero. En caso de no proporcionar la información, los responsables serán sancionados en los términos que señale la ley.
 
@@ -1847,19 +1887,25 @@ VI. No estar en servicio activo en el Ejército Nacional, a menos que se separe 
 
 VII. No haber sido condenado en juicio por delito infamante; y
 
-VIII. No pertenecer al estado eclesiástico ni ser ministro de algún culto religioso, a menos que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación que establece la Ley Reglamentaria del Artículo 130 de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2026)</small>
+
+VIII. No pertenecer al estado eclesiástico ni ser persona ministra de algún culto religioso, a menos que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación que establece la Ley Reglamentaria del Artículo 130 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
 IX. No estar cumpliendo una condena por violencia familiar, política o cualquier agresión de género en el ámbito privado o público.
 
-> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2026)</small>
 
-X. No estar cumpliendo una condena por delitos sexuales, contra la libertad sexual o la intimidad corporal; y
+X. No estar cumpliendo una condena por delitos sexuales, contra la libertad sexual o la intimidad sexual;
 
-> <small>(ADICIONADA, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2026)</small>
 
-XI. No estar inscrito o tener registro vigente como persona deudora alimentaria morosa que atente contra las obligaciones alimentarias, ya sea en el Estado de Zacatecas o en cualquier otra entidad, salvo que acredite estar al corriente del pago.
+XI. No estar inscrito o tener registro vigente como persona deudora alimentaria morosa que atente contra las obligaciones alimentarias, ya sea en el Estado de Zacatecas o en cualquier otra entidad, salvo que acredite estar al corriente del pago, y
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2026)</small>
+
+XII. No tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato no relación de pareja, o parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad del Poder Ejecutivo del Estado.
 
 ###### Artículo 76.
 
@@ -1947,9 +1993,13 @@ IX. Intervenir, en los términos que esta Constitución establece, en los proces
 
 X. Decretar expropiaciones por causa de utilidad pública en la forma que determine la ley, y aplicar las disposiciones de la Ley Reglamentaria de la Fracción XVII del Artículo 27 Constitucional;
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2026)</small>
 
-XI. Nombrar y remover libremente a los servidores de la Administración Pública estatal, en los términos de las leyes reglamentarias, con excepción del nombramiento del titular del órgano interno de control del Poder Ejecutivo del Estado, cuya designación será aprobada por la Legislatura;
+XI. Nombrar y remover libremente a los servidores de la Administración Pública estatal, en los términos de las leyes reglamentarias, con excepción del nombramiento del titular del órgano interno de control del Poder Ejecutivo del Estado, cuya designación será aprobada por la Legislatura.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2026)</small>
+
+En el nombramiento de las personas servidoras públicas de la administración Pública estatal, se deberá observar el principio de paridad de género;
 
 > <small>(REFORMADA, P.O. 14 DE ENERO DE 2025)</small>
 
@@ -2069,21 +2119,27 @@ Los titulares de las dependencias del Ejecutivo serán responsables de las órde
 
 ### CAPÍTULO SEGUNDO BIS. DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE ZACATECAS Y EL MINISTERIO PÚBLICO
 
-> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 2026)</small>
 
 ###### Artículo 87.
 
-El Ministerio Público se organizará en una Fiscalía General de Justicia del Estado, que tendrá el carácter de organismo público autónomo dotado de personalidad jurídica y patrimonio propio y contará en su estructura con un órgano interno de control, que tendrá autonomía técnica y de gestión en la vigilancia de los ingresos y egresos de la Fiscalía y será designado por la votación de las dos terceras partes de los miembros presentes de la Legislatura del Estado.
+El Ministerio Público se organizará en una Fiscalía General de Justicia del Estado, que tendrá el carácter de organismo público autónomo dotado de personalidad jurídica y patrimonio propio y contará en su estructura con un órgano interno de control, que tendrá autonomía técnica y de gestión en la vigilancia de los ingresos y egresos de la Fiscalía y cuya persona titular será designada por la votación de las dos terceras partes de los miembros presentes de la Legislatura del Estado.
 
-> <small>(REFORMADO [N. D E. CON SUS FRACCIONES], P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE ENERO DE 2026)</small>
 
-La ley organizará a la Fiscalía General de Justicia del Estado, cuyos servidores públicos serán nombrados y removidos de acuerdo con la presente Constitución y la ley respectiva. Estará presidida por un Fiscal General de Justicia, quien durará en su encargo siete años y deberá llenar los requisitos exigidos para ser Magistrado del Tribunal Superior de Justicia. Será designado y removido conforme al procedimiento siguiente:
+La ley organizará a la Fiscalía General de Justicia del Estado, cuyos servidores públicos serán nombrados y removidos de acuerdo con la presente Constitución y la ley respectiva. Estará encabezada por un Fiscal General de Justicia, quien durará en su encargo siete años. Será designado conforme al procedimiento siguiente:
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
 
 I. A los 30 días antes de concluir el período para el cual fue designado el Fiscal General, o en su caso, a partir de su ausencia definitiva, la Legislatura del Estado contará con veinte días para integrar una lista de, al menos, cinco candidatos al cargo, aprobada por el voto de las dos terceras partes de los miembros presentes, la cual enviará al Gobernador.
 
 Si el Gobernador no recibe la lista en el plazo antes señalado, enviará libremente a la Legislatura una terna y designará provisionalmente al Fiscal General, quien ejercerá sus funciones hasta en tanto se realice la designación definitiva conforme a lo establecido en este artículo. En este caso, el Fiscal General designado podrá formar parte de la terna.
 
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
+
 II. Recibida la lista a que se refiere la fracción anterior, dentro de los diez días siguientes el Gobernador formulará una terna y la enviará a la consideración de la Legislatura.
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
 
 III. La Legislatura, con base en la terna y previa comparecencia de las personas propuestas, designará al Fiscal General con el voto de las dos terceras partes de los miembros presentes dentro del plazo de diez días.
 
@@ -2091,9 +2147,15 @@ En caso de que el Gobernador no envíe la terna a que se refiere la fracción an
 
 Si la Legislatura no hace la designación en los plazos que establecen los párrafos anteriores, el Ejecutivo designará al Fiscal General de entre los candidatos que integren la lista o, en su caso, la terna respectiva.
 
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
+
 IV. El Fiscal General podrá ser removido por el Ejecutivo por las causas graves que establezca la ley. La remoción podrá ser objetada por el voto de la mayoría de los miembros presentes de la Legislatura dentro de un plazo de diez días hábiles, en cuyo caso el Fiscal General de Justicia será restituido en el ejercicio de sus funciones. Si la Legislatura no se pronuncia al respecto, se entenderá que no existe objeción.
 
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
+
 V. En los recesos de la Legislatura, la Comisión Permanente lo convocará de inmediato a periodo extraordinario para la designación o formulación de objeción a la remoción del Fiscal General.
+
+> <small>(REFORMADA, P.O. 22 DE MARZO DE 2017)</small>
 
 VI. Las ausencias del Fiscal General serán suplidas en los términos que determine la ley.
 
@@ -2105,15 +2167,15 @@ El Fiscal General presentará anualmente a los Poderes Legislativo y Ejecutivo u
 
 El Fiscal General de Justicia, los Fiscales especializados y sus agentes, serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo de sus funciones.
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2026)</small>
 
-La Fiscalía General de Justicia del Estado de Zacatecas, contará, al menos, con las Fiscalías Especializadas, en Atención de Delitos Electorales, de Combate a la Corrupción y de Derechos Humanos, el Estado garantizará que cuenten con los recursos humanos, financieros y materiales que requieran, para su efectiva operación, cuyos titulares serán nombrados por el Fiscal General de Justicia. El nombramiento y remoción de los fiscales antes referidos podrán ser objetados por la Legislatura del Estado, por el voto de las dos terceras partes de sus miembros presentes, en el plazo que fije la ley; si la Legislatura no se pronunciare en este plazo, se entenderá que no tiene objeción.
+La Fiscalía General de Justicia del Estado de Zacatecas contará, al menos, con las Fiscalías Especializadas en Atención de Delitos Electorales, de Combate a la Corrupción y de Derechos Humanos y de investigación de delitos relacionados con las violencias de género contra las mujeres, el Estado garantizará que cuenten con los recursos humanos, financieros y materiales que requieran, para su efectiva operación, sus titulares serán nombrados por el Fiscal General de Justicia. El nombramiento y remoción de los fiscales antes referidos podrán ser objetados por la Legislatura del Estado, por el voto de las dos terceras partes de sus miembros presentes, en el plazo que fije la ley; si la Legislatura no se pronunciare en este plazo, se entenderá que no tiene objeción.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MARZO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 2026)</small>
 
 ###### Artículo 88.
 
-Son funciones del Ministerio Público: la persecución de los delitos del orden común ante los tribunales y juzgados; solicitar las medidas cautelares contra los imputados y órdenes de aprehensión contra los inculpados; allegarse, requerir y presentar las pruebas que acrediten la participación de éstos en hechos que las leyes señalen como delito; procurar que los procesos se sigan con toda regularidad para que la justicia sea eficaz, imparcial, pronta y expedita; pedir la aplicación de las penas y la reparación de los daños causados a las víctimas del delito e intervenir en todos los demás asuntos que las leyes determinen.
+Son funciones del Ministerio Público: la persecución de los delitos del orden común ante los tribunales y juzgados; solicitar las medidas cautelares contra los imputados y órdenes de aprehensión contra los inculpados; allegarse, requerir y presentar las pruebas que acrediten la participación de éstos en hechos que las leyes señalen como delito; procurar que los procesos se sigan con toda regularidad para que la justicia sea eficaz, imparcial, pronta, expedita, con perspectiva de género y respeto a los derechos humanos; pedir la aplicación de las penas y la reparación de los daños causados a las víctimas del delito e intervenir en todos los demás asuntos que las leyes determinen.
 
 > <small>(ADICIONADO, P.O. 22 DE MARZO DE 2017)</small>
 
@@ -2261,11 +2323,19 @@ La competencia del Tribunal Superior de Justicia, el funcionamiento del Pleno y 
 
 Las responsabilidades en que incurran las personas servidoras públicas del Poder Judicial del Estado, estará a cargo del Tribunal de Disciplina Judicial, conforme a esta Constitución y lo que disponga la ley.
 
-> <small>(REFORMADO, P.O. 14 DE ENERO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 2026)</small>
 
 ###### Artículo 94.
 
-Las Magistradas y los Magistrados del Tribunal Superior de Justicia, las Juezas y los Jueces, las Magistradas y los Magistrados del Tribunal de Disciplina Judicial, así como las Consejerías del Órgano de Administración Judicial, no podrán, dentro de los dos años siguientes a la fecha de su retiro, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial del Estado y de la Federación, salvo aquellos de causa propia. No podrán, en ningún caso, aceptar ni desempeñar empleo, cargo, o comisión de la Federación y de las entidades federativas, municipios, o de particulares, salvo los cargos no remunerados en asociaciones científicas, docentes, literarias o de beneficencia. De no cumplir con esta disposición, se suspenderá el haber de retiro o en su caso serán acreedores a la sanción que corresponda.
+Las Magistradas y los Magistrados del Tribunal Superior de Justicia, las Juezas y los Jueces, las Magistradas y los Magistrados del Tribunal de Disciplina Judicial, así como las Consejerías del Órgano de Administración Judicial, no podrán, en ningún caso, aceptar y desempeñar empleo o cargo de la Federación, de otros Estados, Municipios, instituciones, o de particulares, salvo los cargos honoríficos y los de docencia. La infracción de esta disposición será castigada con la pérdida del cargo.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2026)</small>
+
+Las personas que hayan ocupado el cargo de Magistrada o Magistrado del Tribunal Superior de Justicia, Magistrada o Magistrado del Tribunal de Disciplina Judicial, así como las Consejerías del Órgano de Administración Judicial no podrán, dentro de los dos años siguientes a la fecha de su retiro, actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial del Estado, salvo aquellos de causa propia. Para el caso de Juezas y Jueces, este impedimento aplicará respecto del distrito judicial de su adscripción al momento de dejar el cargo, en los términos que establezca la ley.
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2026)</small>
+
+Durante el plazo citado, las personas que se hayan desempeñado como Magistrada o Magistrado del Tribunal Superior de Justicia, Magistrada o Magistrado del Tribunal de Disciplina Judicial, Juezas o Jueces, no podrán ocupar los cargos de elección popular señalados en la fracción VI del artículo 97 de esta Constitución.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE ENERO DE 2025)</small>
 
@@ -2753,19 +2823,21 @@ Asimismo, cuando a juicio del Ayuntamiento respectivo sea necesario, podrán cel
 
 II. Cada Municipio será gobernado por un Ayuntamiento de elección popular directa que entrará en funciones el día quince de septiembre siguiente a su elección, durará en su cargo tres años y residirá en la cabecera municipal.
 
-> <small>(REFORMADO, P.O. 23 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2026)</small>
 
-El Ayuntamiento se integrará por un Presidente o Presidenta, una Sindicatura y el número de regidurías que determine esta Constitución y la Ley, de conformidad con el principio de paridad, quienes tendrán derecho a la elección consecutiva para el mismo cargo, por un período adicional, siempre y cuando sean postulados por el mismo partido o por cualquiera de los partidos integrantes de la coalición que les hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. Por cada integrante del Ayuntamiento con el carácter de propietario se elegirá un suplente.
+El Ayuntamiento se integrará por un Presidente o Presidenta, una Sindicatura y el número de regidurías que determine esta Constitución y la Ley, de conformidad con el principio de paridad, quienes no podrán participar de manera consecutiva para el mismo cargo. Por cada integrante del Ayuntamiento con el carácter de propietario se elegirá un suplente. Las personas integrantes del Ayuntamiento, cuando tengan el carácter de propietarias, no podrán ser electas para el periodo inmediato con el carácter de suplentes, pero las que tengan el carácter de suplentes si podrán ser electas para el periodo inmediato como propietarias a menos que hayan estado en ejercicio.
 
 El Ayuntamiento es depositario de la función pública municipal y constituye la primera instancia de gobierno, con el propósito de recoger y atender las necesidades colectivas y sociales, así como para articular y promover el desarrollo integral y sustentable del Municipio.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2026)</small>
 
-Los Ayuntamientos crearán las dependencias y entidades de la administración pública municipal necesarias para cumplir con las atribuciones de su competencia; contarán con órganos internos de control e institutos municipales de las mujeres con capacidad de toma de decisiones, designados en los términos de las leyes de la materia.
+Los Ayuntamientos crearán las dependencias y entidades de la administración pública municipal necesarias para cumplir con las atribuciones de su competencia; contarán con órganos internos de control e institutos municipales de las mujeres con capacidad de toma de decisiones, designados en los términos de las leyes de la materia. En el nombramiento de las personas servidoras públicas de la administración pública municipal se deberá observar el principio de paridad de género.
 
 La competencia que la Constitución Política de los Estados Unidos Mexicanos y esta Constitución otorgan al gobierno municipal, será ejercida exclusivamente por el Ayuntamiento y no habrá autoridad intermedia alguna entre éste y el gobierno del Estado.
 
-III. Son requisitos para ser Presidente Municipal, Síndico o Regidor de los Ayuntamientos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE ENERO DE 2026)</small>
+
+III. Son requisitos para ser Presidenta o Presidente Municipal, Síndica o Síndico y Regidora o Regidor de los Ayuntamientos:
 
 a) Ser ciudadano zacatecano, en los términos previstos por la presente Constitución, y estar en pleno goce de sus derechos políticos;
 
@@ -2781,7 +2853,9 @@ e) No ser miembro de alguna corporación de seguridad pública de la Federación
 
 f) No estar en servicio activo en el Ejército, la Armada o la Fuerza Aérea, excepto si hubiese obtenido licencia de acuerdo con las ordenanzas militares, con noventa días de anticipación al día de la elección;
 
-g) No pertenecer al estado eclesiástico ni ser ministro de algún culto religioso, a menos que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación que establece la Ley Reglamentaria del Artículo 130 de la Constitución Política de los Estados Unidos Mexicanos;
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2026)</small>
+
+g) No pertenecer al Estado eclesiástico ni ser persona ministra de algún culto religioso, a menos que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación que establece la Ley Reglamentaria del Artículo 130 de la Constitución Política de los Estados Unidos Mexicanos;
 
 h) No ser Magistrado del Tribunal Superior de Justicia, Juez de primera instancia con jurisdicción en el respectivo Municipio, a menos que se hubiese separado de sus funciones noventa días antes de la elección; e
 
@@ -2797,13 +2871,17 @@ j) No ser Magistrado Presidente o magistrado del Tribunal de Justicia Electoral 
 
 k) No estar cumpliendo una condena por violencia familiar, política o cualquier agresión de género en el ámbito privado o público;
 
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2026)</small>
 
-l) No estar cumpliendo una condena por delitos sexuales, contra la libertad sexual o la intimidad corporal y;
+l) No estar cumpliendo una condena por delitos sexuales, contra la libertad sexual o la intimidad sexual;
 
-> <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2026)</small>
 
-m) No estar inscrito o tener registro vigente como persona deudora alimentaria morosa que atente contra las obligaciones alimentarias, ya sea en el Estado de Zacatecas o en cualquier otra entidad, salvo que acredite estar al corriente del pago.
+m) No estar inscrito o tener registro vigente como persona deudora alimentaria morosa que atente contra las obligaciones alimentarias, ya sea en el Estado de Zacatecas o en cualquier otra entidad, salvo que acredite estar al corriente del pago, y
+
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2026)</small>
+
+n) No tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o relación de pareja, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que esté ejerciendo la titularidad del cargo para el que se postula.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE JULIO DE 2014)</small>
 
@@ -4484,3 +4562,41 @@ OCTAVO. El Instituto Zacatecano de Transparencia, Acceso a la Información y Pro
 NOVENO. Los expedientes y procedimientos iniciados ante el Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales con anterioridad a la vigencia del presente Decreto, se sustanciarán conforme a los ordenamientos vigentes en el momento de su inicio por la Secretaría de la Función Pública, por lo que los términos y plazos quedarán suspendidos durante 30 días naturales contados a partir de la extinción del citado Instituto.
 
 La defensa legal ante autoridades administrativas, jurisdiccionales o judiciales de los actos administrativos y jurídicos emitidos por el Instituto Zacatecano de Transparencia, Acceso a la Información y Protección de Datos Personales, en materia de datos personales o cualquier otra relativa al ejercicio de sus funciones, así como el seguimiento de los que se encuentren en trámite, incluso los procedimientos penales y laborales, se llevará a cabo por la Secretaría de la Función Pública.
+
+P.O. 24 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 186.- SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO Y LOS ACTUALES SE RECORREN EN SU ORDEN AL ARTÍCULO 27 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas, sin perjuicio de lo dispuesto en los artículos siguientes.
+
+###### ARTÍCULO SEGUNDO.
+
+En un plazo que no exceda de ciento ochenta días contados al inicio de la vigencia del presente Decreto, esta H. LXV Legislatura del Estado deberá expedir las reformas a la Ley de Desarrollo Social del Estado de Zacatecas y sus Municipios, así como a los demás ordenamientos en la materia, con la finalidad de permitir el ejercicio pleno de los derechos para las estudiantes y los estudiantes del nivel de educación básica, conforme al contenido del presente instrumento legislativo.
+
+Para tales efectos, deberá incluir las normas necesarias en materia presupuestaria, así como aquellas indispensables para precisar la concurrencia del estado y los municipios, con la finalidad de garantizar el cumplimiento gradual de las disposiciones establecidas en el presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El monto de los recursos asignados en el Presupuesto de Egresos del Estado y en el presupuesto de los municipios del ejercicio fiscal que corresponda para el Programa Educación para el Bienestar para estudiantes que se encuentren en condición de pobreza, no podrá ser disminuido, en términos reales, respecto del que se haya asignado en el ejercicio fiscal anterior.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 24 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 187.- REFORMAS Y ADICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DEL ESTADO DE ZACATECAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas. Se derogan todas las disposiciones que se opongan al presente instrumento legislativo.
+
+###### ARTÍCULO SEGUNDO.
+
+Las reformas y adiciones a los artículos 51, 53, 75 y 118 del presente Decreto respecto de la prohibición de nepotismo electoral y no reelección, serán aplicables a partir del proceso electoral a celebrarse en 2030. En consecuencia, las personas que en 2030 se encuentren ejerciendo los cargos públicos a que hace referencia la presente reforma, no podrán postularse para procesos de reelección.
+
+###### ARTÍCULO TERCERO.
+
+En el caso de la prohibición establecida en el artículo 94 del presente Decreto, las Magistradas y Magistrados que gocen del haber de retiro se les suspenderá o revocará, si incumplen el contenido de la citada disposición, de conformidad con el procedimiento que se establezca en la normatividad interna del Poder Judicial del Estado.
