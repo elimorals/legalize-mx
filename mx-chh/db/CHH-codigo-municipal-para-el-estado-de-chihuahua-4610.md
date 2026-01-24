@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2025-10-29"
+last_updated: "2026-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2026.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -1005,9 +1005,13 @@ LV.- Establecer mecanismos, en el ámbito de su competencia, que favorezcan a la
 
 LVI.- Impulsar la aprobación e implementación transversal de la perspectiva de familia en las políticas públicas municipales, entendida esta como las acciones municipales para la protección y fortalecimiento de las familias mediante la construcción de una cultura de la complementariedad entre sus integrantes, eliminando todas las formas de violencia a su interior y exterior que atenten contra su unidad en los sectores público y privado, y encaminadas a mejorar las condiciones de vida familiar en los ámbitos económico, social y de cuidado en el hogar para quienes que (sic) la conforman.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 24 DE ENERO DE 2026)</small>
 
-LVII.- Las demás que les confieren las leyes y sus reglamentos.
+LVII.- Establecer mecanismos de atención digna y preferente para las personas mayores en todos los trámites, servicios y actuaciones concernientes a la Administración Pública Municipal, sus dependencias y de quienes las integren.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE ENERO DE 2026)</small>
+
+LVIII.- Las demás que les confieren las leyes y sus reglamentos.
 
 ### CAPITULO IV. ATRIBUCIONES DE LOS PRESIDENTES MUNICIPALES
 
@@ -5946,6 +5950,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 29 DE OCTUBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXVIII/RFCOD/0280/2025 I P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 28, FRACCIÓN XLVII, UN SEGUNDO PÁRRAFO, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFCOD/0367/2025 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
 
