@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-educacion-del-estado-de-zacatecas-143279"
 country: "mx"
 rank: "ley"
 publication_date: "2020-06-17"
-last_updated: "2025-10-04"
+last_updated: "2026-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143279&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2026.
 
 Ley publicada en el Suplemento al Número 49 del Periódico Oficial del Estado de Zacatecas, el miércoles 17 de junio de 2020.
 
@@ -139,11 +139,13 @@ Además de impartir educación en los términos establecidos en la Constitución
 
 ### Capítulo III. La educación en el Estado
 
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2026)</small>
+
 Objetivos de la acción educativa
 
 ###### Artículo 9.
 
-Las autoridades educativas estatal y municipales buscarán la equidad, la excelencia y la mejora continua en la educación, para lo cual colocarán al centro de la acción pública el máximo logro de aprendizaje de las niñas, niños, adolescentes y jóvenes. Las acciones que desarrollen tendrán como objetivos el desarrollo humano integral del educando, reorientar el Sistema Educativo Estatal, incidir en la cultura educativa mediante la corresponsabilidad e impulsar transformaciones sociales dentro de la escuela y en la comunidad.
+Las autoridades educativas estatal y municipales buscarán la equidad, la excelencia y la mejora continua en la educación, para lo cual colocarán al centro de la acción pública el máximo logro de aprendizaje de las niñas, niños, adolescentes y jóvenes. Las acciones que desarrollen tendrán como objetivos el desarrollo humano integral del educando, reorientar el Sistema Educativo Estatal, incidir en la cultura educativa mediante la corresponsabilidad e impulsar transformaciones sociales dentro de la escuela y en la comunidad. A fin de permitir a los educandos ejercer sus derechos y cumplir con sus obligaciones, a partir del valor de la justicia, la cultura de la legalidad, de la inclusión y la no discriminación.
 
 Desarrollo humano integral
 
@@ -335,7 +337,9 @@ IX. Las instituciones de educación superior a las que la ley otorga autonomía;
 
 X. Los planes y programas de estudio;
 
-XI. Los muebles e inmuebles, servicios o instalaciones destinados a la prestación del servicio público de educación;
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2026)</small>
+
+XI. Los muebles e inmuebles, servicios o instalaciones destinados a la prestación del servicio público de educación, dentro de los cuales se incluirán las tecnologías de la información, comunicación, conocimiento y aprendizaje digitales;
 
 XII. Los Consejos de Participación Escolar, o sus equivalentes, creados conforme a esta Ley;
 
@@ -787,25 +791,43 @@ II. La comprensión lectora, la expresión oral y escrita, con elementos de la l
 
 III. El conocimiento tecnológico, con el empleo de tecnologías de la información, comunicación, conocimiento y aprendizaje digital, manejo de diferentes lenguajes y herramientas de sistemas informáticos, y de comunicación;
 
-IV. El conocimiento científico, a través de la apropiación de principios, modelos y conceptos científicos fundamentales, empleo de procedimientos experimentales y de comunicación;
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2026)</small>
 
-V. El pensamiento filosófico, histórico y humanístico;
+IV. La implementación de estrategias que promuevan el desarrollo de habilidades digitales y la ética digital;
 
-VI. Las habilidades socioemocionales, como el desarrollo de la imaginación y la creatividad de contenidos y formas; el respeto por los otros; la colaboración y el trabajo en equipo; la comunicación; el aprendizaje informal; la productividad; capacidad de iniciativa, resiliencia, responsabilidad; trabajo en red y empatía; gestión y organización;
+V. El conocimiento científico, a través de la apropiación de principios, modelos y conceptos científicos fundamentales, empleo de procedimientos experimentales y de comunicación;
 
-VII. El pensamiento crítico, como una capacidad de identificar, analizar, cuestionar y valorar fenómenos, información, acciones e ideas, así como tomar una posición frente a los hechos y procesos para solucionar distintos problemas de la realidad;
+VI. El pensamiento filosófico, histórico y humanístico;
 
-VIII. El logro de los educandos de acuerdo con sus capacidades, circunstancias, necesidades, estilos y ritmo de aprendizaje diversos;
+VII. Las habilidades socioemocionales, como el desarrollo de la imaginación y la creatividad de contenidos y formas; el respeto por los otros; la colaboración y el trabajo en equipo; la comunicación; el aprendizaje informal; la productividad; capacidad de iniciativa, resiliencia, responsabilidad; trabajo en red y empatía; gestión y organización;
 
-IX. Los conocimientos, habilidades motrices y creativas, a través de la activación física, la práctica del deporte y la educación física vinculadas con la salud, la cultura, la recreación y la convivencia en comunidad;
+VIII. El pensamiento crítico, como una capacidad de identificar, analizar, cuestionar y valorar fenómenos, información, acciones e ideas, así como tomar una posición frente a los hechos y procesos para solucionar distintos problemas de la realidad;
 
-X. La apreciación y creación artística, a través de conocimientos conceptuales y habilidades creativas para su manifestación en diferentes formas, y
+IX. El logro de los educandos de acuerdo con sus capacidades, circunstancias, necesidades, estilos y ritmo de aprendizaje diversos;
 
-XI. Los valores para la responsabilidad ciudadana y social, como el respeto por los otros, la solidaridad, la justicia, la libertad, la igualdad, la honradez, la gratitud y la participación democrática con base a una educación cívica.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2026)</small>
+
+X. Los conocimientos, habilidades motrices y creativas, a través del fomento a la activación física, la práctica del deporte y la educación física vinculadas con estilos de vida saludables, la educación para la salud, la cultura, la recreación y la convivencia en comunidad;
+
+XI. La apreciación y creación artística, a través de conocimientos conceptuales y habilidades creativas para su manifestación en diferentes formas, y
+
+XII. Los valores para la responsabilidad ciudadana y social, como el respeto por los otros, la solidaridad, la justicia, la libertad, la igualdad, la honradez, la gratitud y la participación democrática con base a una educación cívica.
 
 > <small>(ADICIONADA, P.O. 4 DE OCTUBRE DE 2025)</small>
 
-XII. El conocimiento en materia de educación financiera orientada al desarrollo humano integral para el logro de una correcta economía personal, familiar y social en el Estado.
+XIII. El conocimiento en materia de educación financiera orientada al desarrollo humano integral para el logro de una correcta economía personal, familiar y social en el Estado.
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2026)</small>
+
+XIII (SIC). La salud mental de niñas, niños y adolescentes en la educación básica;
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2026)</small>
+
+XIV. La promoción del emprendimiento, el fomento de la cultura del ahorro y la educación financiera, y
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2026)</small>
+
+XV. La educación ambiental para la sustentabilidad que integre el conocimiento de los conceptos y principios de las ciencias ambientales, el desarrollo sostenible, la prevención y combate del cambio climático, así como la generación de conciencia para la valoración del manejo, conservación y aprovechamiento de los recursos naturales que garanticen la participación social en la protección ambiental.
 
 Acompañamiento de los educandos en su trayectoria formativa
 
@@ -2182,3 +2204,39 @@ P.O. 4 DE OCTUBRE DE 2025.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 24 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 112.- SE REFORMA Y ADICIONA LA LEY DE EDUCACIÓN DEL ESTADO DE ZACATECAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que contravengan el presente instrumento.
+
+P.O. 24 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 121.- SE REFORMA LA LEY DE EDUCACIÓN DEL ESTADO DE ZACATECAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que contravengan el presente instrumento.
+
+P.O. 24 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 136.- SE ADICIONA LA FRACCIÓN IV, RECORRIÉNDOSE LAS SIGUIENTES EN SU ORDEN AL ARTÍCULO 53 LA LEY DE EDUCACIÓN DEL ESTADO DE ZACATECAS".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que contravengan el presente instrumento.
