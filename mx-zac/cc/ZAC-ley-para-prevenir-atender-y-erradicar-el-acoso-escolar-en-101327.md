@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-prevenir-atender-y-erradicar-el-acoso-escolar-en-10132
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-11"
-last_updated: "2014-06-11"
+last_updated: "2026-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY PARA PREVENIR, ATENDER Y ERRADICAR EL ACOSO ESCOLAR EN EL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2026.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 11 de junio de 2014.
 
@@ -121,7 +121,9 @@ XVIII. Ley: Ley para Prevenir, Atender y Erradicar el Acoso Escolar en el Estado
 
 XIX. Medios virtuales de comunicación: Páginas electrónicas de internet, correos electrónicos, redes sociales, entre otros;
 
-XX. Niñez: Los niños y niñas comprendidas desde el nacimiento hasta 12 años;
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2026)</small>
+
+XX. Niñez: Las niñas y los niños comprendidos desde el nacimiento hasta 12 años;
 
 XXI. Organizaciones de la Sociedad Civil: Agrupaciones u organizaciones que, estando legalmente constituidas, realicen alguna o algunas de las actividades de apoyo, promoción y defensa de los derechos humanos, en materia de prevención o atención del acoso escolar que no persigan fines de lucro, ni de proselitismo partidista, político-electoral o religioso, sin menoscabo de las obligaciones señaladas en otras disposiciones legales;
 
@@ -161,7 +163,13 @@ XXXV. Secretaría de Desarrollo Social: Secretaría de Desarrollo Social del Est
 
 XXXVI. Víctima: El estudiante contra quien se perpetra el acoso escolar o las represalias, y
 
-XXXVII. Violencia: Acción u omisión intencional dirigida a provocar daño físico, psicológico o sexual de una persona a otra.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2026)</small>
+
+XXXVII. Violencia: Acción u omisión intencional dirigida a provocar daño físico, psicológico, sexual y/o en la imagen de una persona a otra, y
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2026)</small>
+
+XXXVIII. Violencia escolar: Conducta agresiva e intencionada con el objeto de intimidar y/o someter de manera verbal, psicológica, física, sexual, por exclusión social y/o por su imagen, que se presenta entre uno o más miembros de la misma comunidad educativa, dentro y/o fuera de las instalaciones de la institución, que ponga en riesgo la convivencia escolar.
 
 ###### Artículo 4.
 
@@ -211,7 +219,9 @@ En lo no previsto expresamente en esta Ley, se aplicarán supletoriamente la Ley
 
 Los estudiantes tienen los siguientes derechos:
 
-I. Ser respetados en su integridad física, psicológica y social;
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2026)</small>
+
+I. Ser respetados en su imagen, integridad física, psicológica y social;
 
 II. Ser respetados en sus derechos humanos;
 
@@ -235,7 +245,9 @@ Los estudiantes tendrán las siguientes obligaciones:
 
 I. Respetar los derechos humanos de los integrantes de la comunidad educativa;
 
-II. Respetar la integridad física, psicológica y social; la intimidad, las diferencias por razones de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, y evitar cualquier tipo de discriminación que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de todos los integrantes de la comunidad educativa;
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2026)</small>
+
+II. Respetar la imagen, integridad física, psicológica y social; la intimidad, las diferencias por razones de origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, y evitar cualquier tipo de discriminación que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de todos los integrantes de la comunidad educativa;
 
 III. Respetar a sus compañeros dentro y fuera de las instalaciones educativas;
 
@@ -1184,3 +1196,17 @@ DR. ÁLVARO ELÍAS IBARGÜENGOYTIA
 EL PRESIDENTE DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE ZACATECAS
 
 DR. ARNULFO JOEL CORREA CHACÓN
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 116.- REFORMAS Y ADICIONES DE LA LEY PARA PREVENIR, ATENDER Y ERRADICAR EL ACOSO ESCOLAR EN EL ESTADO DE ZACATECAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que contravengan el presente instrumento.
