@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109281"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2025-11-29"
+last_updated: "2026-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109281&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2026.
 
 Ley publicada en Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 3 de junio de 2015.
 
@@ -706,6 +706,10 @@ IV. El trabajo antes de la edad mínima de quince años.
 V. El trabajo en adolescentes mayores de quince años que sean peligrosas (sic) y puedan (sic) perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso.
 
 VI. La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral.
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2026)</small>
+
+VII. La imposición de matrimonios forzados o cualquier forma de unión que vulnere su desarrollo integral, su libre voluntod (sic) y su derecho a una vida libre de violencia, así como la coacción, inducción, solicitud, gestión u oferta, en cualquier forma, a una o varias de estas personas para que se unan de manera informal o consuetudinaria, con o sin su consentimiento, a alguien de su misma condición o a una persona mayor de dieciocho años, con el propósito de convivir de manera constante y equiparable a la de un matrimonio.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2024)</small>
 
@@ -3072,3 +3076,11 @@ P.O. 29 DE NOVIEMBRE DE 2025.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- El Poder Ejecutivo del Estado, a través de la Secretaría de Hacienda, destinará, priorizando de manera gradual en la medida financiera posible, las partidas presupuestales suficientes para garantizar lo previsto en el presente Decreto.
+
+P.O. 24 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0285/2025 I P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 53, LA FRACCIÓN VII, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
