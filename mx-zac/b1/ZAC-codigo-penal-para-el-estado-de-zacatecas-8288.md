@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "2025-10-04"
+last_updated: "2026-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2026.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -1335,17 +1335,17 @@ Al que obligue o induzca a niños, niñas o adolescentes o a quien no tenga la c
 
 A quien por cualquier medio, procure o facilite a los niños, niñas o adolescentes o a quien no tenga la capacidad de comprender el significado del hecho pintura en aerosoles, solventes, ácidos o cualquier otro material dañino que deje una marca permanente, en propiedades privadas, monumentos que representen patrimonio cultural del Estado de Zacatecas o cualquiera otro bien del espacio público, se le impondrá una multa de cincuenta a cien cuotas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 2026)</small>
 
-181 Bis.- A quien permita directa o indirectamente el acceso de un niño, niña o adolescente o a quien no tenga la capacidad de comprender el significado del hecho a escenas, espectáculos, obras gráficas o audiovisuales de carácter pornográfico, se le impondrá prisión de uno a tres años y multa de veinte a cincuenta cuotas.
+181 Bis.- A quien permita directa o indirectamente el acceso de un niño, niña o adolescente o a quien no tenga la capacidad de comprender el significado del hecho a escenas, espectáculos, obras gráficas o audiovisuales de carácter pornográfico, se le impondrá la misma sanción que corresponde al delito de abuso sexual en contra de menores de edad, conforme a las reglas establecidas en este Código.
 
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
 
 Las mismas penas se impondrán al que ejecutare o hiciere ejecutar a otra persona actos de exhibición sexual ante niños, niñas y adolescentes o a quien no tenga la capacidad para comprender el significado del hecho.
 
-> <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2026)</small>
 
-El que, por cualquier medio directo, vendiere, difundiere o exhibiere material pornográfico entre niños, niñas y adolescentes o personas que no tengan la capacidad para comprender el significado del hecho, será castigado con la pena de prisión de seis meses a un año y multa de cinco a veinte cuotas.
+El que, por cualquier medio directo, vendiere, difundiere o exhibiere material pornográfico entre niños, niñas y adolescentes o personas que no tengan la capacidad para comprender el significado del hecho, será castigado con la pena de prisión de cuatro a ocho años y multa de cincuenta a cien veces la Unidad de Medida y Actualización.
 
 > <small>(ADICIONADO, P.O. 15 DE SEPTIEMBRE DE 2007)</small>
 
@@ -1907,7 +1907,7 @@ No existirá delito, ni se entenderá doloso o culposo, cuando el paciente prese
 
 Si se produjere daño por la falta de intervención, las penas anteriores se duplicarán y, además, se impondrá inhabilitación para el ejercicio profesional por un término de tres meses a dos años. Cuando la falta de intervención y el daño consiguiente sean imputables a los directores, administradores o encargados del sanatorio, hospital o establecimiento de salud en donde el médico preste sus servicios, serán aquellos y no éste quienes incurran en responsabilidad penal y deban ser sancionados con las penas previstas en este párrafo y el anterior.
 
-Cuando una persona de las mencionadas en el artículo 212 efectúe una exploración ginecológica por motivos deshonestos o que no sea necesaria, se le sancionará con prisión de tres meses a un año y multa de diez a cincuenta cuotas. Si con la exploración se causa el desfloramiento, las sanciones se duplicarán, sin perjuicio de las que deban aplicarse por los otros delitos que por el mismo acto se cometan.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 24 DE ENERO DE 2026)</small>
 
 215.- Se impondrá prisión de tres meses a dos años, multa hasta de cien cuotas y suspensión de tres meses a un año, a los directores, administradores o encargados de cualquier sanatorio, hospital, clínica, maternidad o cualquier otro establecimiento similar, cuando incurran en alguno de los casos siguientes:
 
@@ -2115,21 +2115,41 @@ Las disposiciones contenidas en este Título, no se aplicarán sino en lo que no
 
 ### CAPITULO I. ABUSO SEXUAL
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2026)</small>
 
-231.- A quien sin consentimiento de una persona y sin el propósito de llegar a la cópula, ejecute en ella un acto sexual o la obligue a ejecutarlo, se le impondrá sanción de dos a cinco años de prisión y multa de cincuenta a cien veces la Unidad de Medida y Actualización.
+231. A quien sin consentimiento de una persona y sin el propósito de llegar a la cópula, ejecute en ella un acto sexual, la obligue a verlo, a ejecutarlo o la induzca a hacerlo mediante manipulación, seducción o engaño o la coaccione a exhibir su cuerpo sin su consentimiento, se le impondrá sanción de seis a diez años de prisión y multa de cien a doscientas veces la Unidad de Medida y Actualización al momento de la comisión del delito.
 
-Si se hiciere uso de la violencia física o moral, la sanción será de tres a seis años de prisión y multa de cien a doscientas veces la Unidad de Medida y Actualización. Existe la presunción legal de que la violencia fue el medio utilizado para la comisión del delito, cuando la víctima tuviere menos de doce años cumplidos.
+Para efectos de este capítulo se entiende por acto sexual cualquier acción dolosa con sentido lascivo que se ejerza en el sujeto pasivo, tales como tocamientos o manoseos corporales, o los que representen actos explícitamente sexuales u obliguen a la víctima a representarlos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE AGOSTO DE 2019)</small>
+La pena de prisión se aumentará hasta en una mitad más en su mínimo y máximo, con multa de doscientas a trescientas veces la Unidad de Medida y Actualización, en los supuestos siguientes:
 
-232.- A quien sin el propósito de llegar a la cópula ejecute un acto sexual en persona menor de doce años de edad o en persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo, o la obligue a ejecutarlo o, en su caso, la haga observar, se le aplicará una pena de cuatro a siete años de prisión y multa de ciento cincuenta a doscientas veces la unidad de medida y actualización.
+I. Cuando se hiciere uso de la violencia física, moral o psicológica;
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
+II. Cuando el abuso se cometa aprovechándose de una relación de confianza, autoridad, laboral, parentesco, educación, salud, religiosa, custodia o tutela, o
 
-Si se hiciere uso de la violencia física o moral, la pena corporal se duplicará.
+III. Cuando la víctima se encuentre en situación de vulnerabilidad.
 
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADO, P.O. 24 DE ENERO DE 2026)</small>
+
+232. De la misma forma, comete el delito de abusos (sic) sexual:
+
+I. La persona que sin el propósito de llegar a la cópula ejecute un acto sexual en persona menor de edad o en persona que no tenga la capacidad de comprender el significado del hecho o la capacidad para resistirlo, o la obligue a ejecutarlo o, en su caso, la haga observar;
+
+II. La persona que permita, directa o indirectamente, el acceso de niños, niñas o adolescentes o de quien no tenga la capacidad de comprender el significado del hecho o la capacidad para resistirlo, a escenas, espectáculos, obras gráficas o audiovisuales de carácter pornográfico, o
+
+III. La persona que ejecutare o hiciere ejecutar a otra persona, actos de exhibición sexual ante niños, niñas o adolescentes o ante quien no tenga la capacidad para comprender el significado del hecho o la capacidad para resistirlo.
+
+Tales conductas se sancionarán conforme a lo siguiente:
+
+De ocho a doce años de prisión y multa de ciento treinta a doscientas cuarenta veces la Unidad de Medida y Actualización, cuando la víctima tuviere entre doce y menos de dieciocho años de edad.
+
+De nueve a quince años de prisión y multa de ciento cincuenta a trescientas veces la Unidad de Medida y Actualización, cuando la víctima tuviere menos de doce años de edad, que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo.
+
+Se equipará al delito de abuso sexual, vender, difundir o exhibir material pornográfico, por cualquier medio directo, entre niños, niñas, adolescentes, personas que no tengan la capacidad para comprender el significado del hecho o la capacidad para resistirlo y será castigado con la pena de prisión de cuatro a ocho años y multa de cincuenta a cien veces la Unidad de Medida y Actualización al momento de la comisión del delito.
+
+No se actualizará el delito previsto en el párrafo anterior, tratándose de programas preventivos, educativos o informativos que diseñen o impartan las instituciones públicas, privadas o sociales, que tengan por objeto la educación sexual, educación sobre la función reproductiva, prevención de infecciones de transmisión sexual y embarazo de adolescentes.
+
+En los supuestos previstos en el presente artículo, existe la presunción legal de que la violencia fue el medio utilizado para la comisión del delito.
 
 En los casos considerados por este artículo, se procederá de oficio contra el sujeto activo.
 
@@ -3531,9 +3551,7 @@ III.- Archivos Públicos o Notariales;
 
 IV.- Bibliotecas, museos, templos, escuelas o edificios o monumentos públicos; y
 
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 1999)</small>
-
-V.- Montes, bosques, selvas, pastos, mieses o cultivos de cualquier otro género.
+V. (DEROGADA, P.O. 24 DE ENERO DE 2026)
 
 > <small>(REFORMADO, P.O. 19 DE MAYO DE 1999)</small>
 
@@ -3963,15 +3981,7 @@ IV. No lleve a cabo las medidas técnicas, correctivas o de seguridad, necesaria
 
 V. Después de haber sido sancionado administrativamente en dos ocasiones por la autoridad ambiental competente, reincida en la conducta que dio origen a las sanciones.
 
-> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2012)</small>
-
-392.- Además de las penas señaladas en el presente Título, el Juez podrá imponer las siguientes:
-
-I. La suspensión, modificación o demolición de las construcciones, obras o actividades, según corresponda, que hubieren dado lugar al delito ambiental respectivo; y
-
-II. La inhabilitación para desempeñar cualquier empleo, cargo o comisión con el carácter de autoridad pública, cuando el autor o partícipe del delito tenga la calidad de servidor público, hasta por un tiempo igual al que se le hubiera fijado como pena privativa de libertad, la cual deberá correr al momento en que el sentenciado haya cumplido con la prisión o ésta se hubiera tenido por cumplida.
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE JUNIO DE 2018)</small>
+> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2026)</small>
 
 ## TITULO VIGESIMO SEGUNDO
 
@@ -3998,6 +4008,34 @@ Se entenderá por métodos que provocan un grave sufrimiento, todos aquellos que
 395. Por actos de maltrato y crueldad, se estará a lo dispuesto en la Ley para el Bienestar y Protección de los Animales en el Estado de Zacatecas.
 
 Quedan exceptuadas de las disposiciones establecidas en el presente capítulo las corridas de toros, novillos y becerros, así como las peleas de gallos, jaripeos, charreadas, carreras de caballos, las que habrán de sujetarse a lo dispuesto en los ordenamientos jurídicos aplicables.
+
+###### Artículo 391 Bis.
+
+Se impondrá pena de dos a ocho años de prisión y multa de doscientas a trescientas veces la Unidad de Medida y Actualización a quien, dolosamente, provoque un incendio de áreas forestales, parques, montes, bosques, pastizales, mieses, cultivos de cualquier otro género o en áreas verdes de espacios urbanos, que cause daños a la salud pública o a los elementos naturales de un ecosistema.
+
+Se impondrá pena de tres a diez años de prisión y multa de doscientos cincuenta a trescientas cincuenta veces la Unidad de Medida y Actualización, cuando, derivado del referido delito:
+
+I. La restauración de la zona incendiada tarde más de un año;
+
+II. Se provoque la pérdida de especies de flora o fauna;
+
+III. Se altere el ecosistema que prevalecía;
+
+IV. Se obtenga facilidades y se logren cambios en el uso de suelo de la zona incendiada o se alcance un beneficio económico para sí o para otra persona, o
+
+V. Se ocasione perjuicio de un área natural protegida de jurisdicción estatal.
+
+Cuando se provoquen incendios y se causen los daños previstos en el presente artículo, por descuido o negligencia probada, se impondrá multa de doscientas a trescientas veces la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 4 DE AGOSTO DE 2012)</small>
+
+392.- Además de las penas señaladas en el presente Título, el Juez podrá imponer las siguientes:
+
+I. La suspensión, modificación o demolición de las construcciones, obras o actividades, según corresponda, que hubieren dado lugar al delito ambiental respectivo; y
+
+II. La inhabilitación para desempeñar cualquier empleo, cargo o comisión con el carácter de autoridad pública, cuando el autor o partícipe del delito tenga la calidad de servidor público, hasta por un tiempo igual al que se le hubiera fijado como pena privativa de libertad, la cual deberá correr al momento en que el sentenciado haya cumplido con la prisión o ésta se hubiera tenido por cumplida.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE JUNIO DE 2018)</small>
 
 ## TRANSITORIOS
 
@@ -4426,3 +4464,13 @@ P.O. 4 DE OCTUBRE DE 2025.
 Artículo primero. El presente instrumento legislativo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que contravengan el presente instrumento.
+
+P.O. 24 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 129.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto, y
+
+Artículo tercero. A las querellas, denuncias, procesos judiciales y de ejecución que se encuentren en trámite relacionados con Delitos contra el Desarrollo de los Niños, Niñas y Adolescentes y la Protección Integral de Personas que no tienen la Capacidad para Comprender el Significado del Hecho, les será aplicable el contenido del artículo 181-Bis de este Código que estaba vigente antes de la publicación del presente decreto.
