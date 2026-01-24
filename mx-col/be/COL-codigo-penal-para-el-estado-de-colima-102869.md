@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-102869"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-10-11"
-last_updated: "2025-12-18"
+last_updated: "2026-01-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2026.
 
 Código publicado en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 11 de octubre de 2014.
 
@@ -1497,15 +1497,21 @@ Si durante la ejecución de las penas o medidas de seguridad se advierte que se 
 
 Es imprescriptible la acción persecutoria en los siguientes casos:
 
-> <small>(REFORMADA, P.O. 7 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2026)</small>
 
-I. Por el delito de homicidio doloso, en todas sus formas y modalidades tipificadas en los artículos 120, 121 en relación al 124 Bis, 123 Bis, 124, 134 y 135, así como para los delitos de Violación, en todas sus formas y modalidades tipificadas por los artículos 144 al 147, Abuso Sexual, tipificado en los artículos 149 a 151, tratándose de víctimas menores de edad, y Pederastia, tipificado en el artículo 178, todos de este Código.
+I. Por el delito de homicidio doloso, en todas sus formas y modalidades tipificadas en los artículos 120, 121 en relación al 124 Bis, 123 Bis, 124, 134 y 135, así como para los delitos de violación, en todas sus formas y modalidades tipificadas por los artículos 144 al 147, abuso sexual, tipificado en los artículos 149 a 151, tratándose de víctimas menores de edad, todos de este Código;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2026)</small>
 
-II. Por los delitos de peculado tipificados por los artículos 237 y 237 BIS, cohecho y enriquecimiento ilegítimo; y
+II. Por los delitos de peculado tipificados por los artículos 237 y 237 BIS, cohecho y enriquecimiento ilegítimo;
 
-III. Cuando el delito cometido atente contra el derecho a recibir alimentos de los menores e incapaces.
+> <small>(REFORMADA, P.O. 24 DE ENERO DE 2026)</small>
+
+III. Cuando el delito cometido atente contra el derecho a recibir alimentos de los menores e incapaces; y
+
+> <small>(ADICIONADA, P.O. 24 DE ENERO DE 2026)</small>
+
+IV. Por los delitos contra el libre desarrollo de la personalidad, tipificados en los artículos 164 al 178 del presente Código.
 
 ###### ARTÍCULO 115.
 
@@ -5002,3 +5008,9 @@ SÉPTIMO. En los procesos pendientes de dictarse sentencia en primera y segunda 
 OCTAVO. Las disposiciones relativas a los delitos de Desaparición Forzada de Personas previstas en el Código Penal del Estado de Colima vigente a la entrada en vigor del presente Decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por el delito de Desaparición Forzada de personas, sus modalidades, agravantes y sanciones, salvo lo dispuesto en el artículo anterior en lo relativo a la traslación del tipo y adecuación de la pena.
 
 Los procedimientos penales en materia de Desaparición Forzada de personas, iniciados antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia del mismo.
+
+P.O. 24 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 242.- POR EL QUE SE REFORMAN LAS FRACCIONES I, II, III, ASÍ COMO SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 114 DEL CÓDIGO PENAL PARA EL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
