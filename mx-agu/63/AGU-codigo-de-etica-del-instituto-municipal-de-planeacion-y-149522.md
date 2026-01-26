@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-etica-del-instituto-municipal-de-planeacion-y-149522"
 country: "mx"
 rank: "codigo"
 publication_date: "2021-05-03"
-last_updated: "2021-05-03"
+last_updated: "2026-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # CODIGO DE ETICA DEL INSTITUTO MUNICIPAL DE PLANEACION Y EVALUACION DE AGUASCALIENTES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL CÓDIGO DE ÉTICA DEL INSTITUTO MUNICIPAL DE PLANEACIÓN Y EVALUACIÓN DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 26 DE ENERO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DEL INSTITUTO MUNICIPAL DE PLANEACIÓN Y EVALUACIÓN DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2026 (ABROGADO).
 
 Código publicado en la Cuarta Sección del Número 18 del Periódico Oficial del Estado de Aguascalientes, el lunes 3 de mayo de 2021.
 
@@ -590,3 +592,21 @@ El IMPLAN emitirá su Código de Conducta, en el cual se deberá especificar la 
 El Código de Conducta y en su caso sus reformas, deberán difundirse utilizando los mecanismos previstos en el artículo 24 de este Código.
 
 Aguascalientes, Aguascalientes, a los 09 días del mes de abril de dos mil veintiuno.- El Titular de la Unidad Sustanciadora y Resolutora del Órgano Interno de Control del Instituto Municipal de Planeación y Evaluación de Aguascalientes, Licenciado Victor Javier Díaz Montalvo. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DEL INSTITUTO MUNICIPAL DE PLANEACIÓN Y EVALUACIÓN DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Código iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abrogan el Código de Ética del Instituto Municipal de Planeación y Evaluación de Aguascalientes publicado en el Periódico Oficial del Estado de Aguascalientes, el día tres de mayo del año dos mil veintiuno.
+
+###### ARTÍCULO TERCERO.
+
+Dentro de los 30 días siguientes a la publicación del presente Código, se deberá instalar el Comité de Ética del Instituto Municipal de Planeación y Evaluación de Aguascalientes.
