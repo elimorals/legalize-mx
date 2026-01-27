@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2026-01-15"
+last_updated: "2026-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,7 +26,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2026.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -84,35 +84,39 @@ En el Estado de Morelos se reconoce el derecho al acceso a la cultura y al disfr
 
 En el estado de Morelos toda persona tiene derecho al trabajo digno y socialmente útil; la resolución de las diferencias o los conflictos entre trabajadores y patrones estará a cargo del tribunal laboral del estado que consiste en los juzgados especializados en materia laboral del Poder Judicial, con excepción de aquellos asuntos burocráticos que le corresponda conocer al Tribunal de Arbitraje a que se refiere el inciso L de la fracción XX del artículo 40 de esta Constitución. Antes de acudir a dichos tribunales, los trabajadores y patrones deberán asistir a la instancia de conciliación que corresponda.
 
-> <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2026)</small>
 
 ###### Artículo 2.
 
 El derecho a la información será garantizado por el Estado.
 
-En el Estado de Morelos se reconoce como una extensión de la libertad de pensamiento, el derecho de todo individuo para poder acceder a la información pública sin más restricción que los que establezca la intimidad y el interés público de acuerdo con la ley de la materia, así como el secreto profesional, particularmente el que deriva de la difusión de los hechos y de las ideas a través de los medios masivos de comunicación.
+En el Estado de Morelos se reconoce como una extensión de la libertad de pensamiento, el derecho de todo individuo para poder acceder a la información pública sin más restricción que los que establezca la intimidad y el interés público de acuerdo con la ley de la materia, así como el secreto profesional, particularmente el que deriva de la difusión de los hechos y de las ideas a través de los medios de comunicación masiva.
 
 Para el ejercicio del derecho de acceso a la información, el Estado y los municipios, en el ámbito de sus respectivas competencias, se regirán por los siguientes principios y bases:
 
 I. Toda la información en posesión de los poderes públicos estatales, autoridades municipales, organismos públicos autónomos creados por esta Constitución, organismos auxiliares de la administración pública estatal o municipal, partidos políticos, fondos públicos, personas físicas, morales o sindicatos que reciben y ejerzan recursos públicos o realicen actos de autoridad en el ámbito estatal y municipal y, en general, de cualquier órgano de la Administración Pública del Estado es pública y sólo podrá ser reservada temporalmente por razones de interés público en los términos que fijen las leyes. La normativa determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información;
 
-II. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes;
+II. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes. Para tal efecto, los sujetos obligados contarán con las facultades suficientes para su atención.
+
+Por lo que hace a la información relacionada con los datos personales en posesión de particulares, las leyes de la materia determinarán la competencia para conocer de los procedimientos relativos a su protección, verificación e imposición de sanciones;
 
 III. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos;
 
 IV. Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores de gestión que permitan rendir cuentas del cumplimiento de sus objetivos y resultados, con relación a los parámetros y obligaciones establecidos por las normas aplicables;
 
-V. La ley de la materia determinará la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que reciban, manejen, apliquen o entreguen a personas físicas o morales;
+V. Los sujetos obligados deberán promover, respetar, proteger y garantizar los derechos de acceso a la información pública y a la protección de datos personales. Se regirán por las Leyes Generales en materia de transparencia y acceso a la información pública y protección de datos personales para determinar las bases, principios generales y procedimientos del ejercicio de estos derechos, así como la competencia de las autoridades de control interno y vigilancia u homólogos para conocer de los procedimientos de revisión contra los actos que emitan los sujetos obligados.
 
-VI. La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes;
+Las autoridades garantes serán responsables de garantizar, conforme al ámbito de sus respectivas competencias, el ejercicio de los derechos de acceso a la información pública y protección de datos personales, observando los principios y bases establecidos en el artículo 6° de la Constitución Política de los Estados Unidos Mexicanos, las Leyes Generales en materia de transparencia y acceso a la información pública y protección de datos personales y demás disposiciones aplicables.
 
-VII. Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos. Estos procedimientos se sustanciarán ante el organismo público autónomo denominado Instituto Morelense de Información Pública y Estadística, que se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad;
+El ejercicio de este derecho se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad;
 
-VIII. Se establecerán sistemas electrónicos de consulta estatales y municipales para que los ciudadanos puedan ejercer el derecho de acceso a la información; el Estado apoyará a los municipios que tengan una población mayor a setenta mil habitantes para el cumplimiento de esta disposición;
+VI. La ley de la materia determinará la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que reciban, manejen, apliquen o entreguen a personas físicas o morales;
 
-IX. En los casos en que el Instituto Morelense de Información Pública y Estadística, mediante resolución confirme la reserva, confidencialidad, inexistencia o negativa de la información, los solicitantes podrán interponer Recurso de Revisión ante el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales. Del mismo modo, dicho organismo, de oficio o a petición fundada del Instituto Morelense de Información Pública y Estadística, podrá conocer de los recursos que por su interés y trascendencia así lo ameriten, y
+VII. La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes;
 
-X. Con el objeto de fortalecer la rendición de cuentas en el estado de Morelos, el Instituto Morelense de Información Pública y Estadística, implementará acciones con el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, la Secretaría de la Contraloría del Poder Ejecutivo del Estado, la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos y el Instituto Estatal de Documentación.
+VIII. Se establecerán mecanismos de acceso a la información y procedimientos de revisión expeditos para hacer efectivo el derecho de acceso a la información. Estos procedimientos se sustanciarán ante las instancias y autoridades de control interno y vigilancia u homólogos competentes en los términos que fija la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes de la materia, rigiéndose por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad, y
+
+IX. Se establecerán sistemas electrónicos de consulta estatales y municipales para que los ciudadanos puedan ejercer el derecho de acceso a la información; el Estado apoyará a los municipios que tengan una población mayor a setenta mil habitantes para el cumplimiento de esta disposición.
 
 > <small>(REFORMADO, P.O. 25 DE MAYO DE 2016)</small>
 
@@ -187,6 +191,14 @@ k) El Congreso del Estado y los ayuntamientos, en el ámbito de sus respectivas 
 Ter.- El Estado deberá garantizar políticas y programas para el desarrollo rural integral, para la generación de empleo y bienestar a la población campesina, y el fomento a la producción agropecuaria y forestal, capacitación y asistencia técnica.
 
 El desarrollo rural será sustentable, garantizando el Estado el abasto suficiente y oportuno de los alimentos básicos que la ley establezca.
+
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2026)</small>
+
+El Estado de Morelos forma parte del origen y diversidad del maíz, que es un elemento de identidad nacional y local, alimento básico de nuestro pueblo y base de la existencia de los pueblos indígenas y afromexicanos.
+
+> <small>(ADICIONADO, P.O. 27 DE ENERO DE 2026)</small>
+
+El cultivo del maíz criollo en el territorio estatal debe ser libre de modificaciones genéticas producidas con técnicas que superen las barreras naturales de la reproducción o la recombinación, como las transgénicas. El uso del maíz genéticamente modificado debe ser evaluado en los términos de las disposiciones legales para quedar libre de amenazas para la bioseguridad, la salud y el patrimonio biocultural de la Entidad y su población. Debe priorizarse la protección de la biodiversidad, la soberanía alimentaria, su manejo agroecológico, promoviendo la investigación científica-humanística, la innovación y los conocimientos tradicionales.
 
 El Estado reconoce al turismo como base fundamental y prioritaria del desarrollo estatal, destinándole en el Presupuesto de Egresos recursos necesarios para el cumplimiento y desarrollo de los programas relacionados con el rubro. La ley secundaria determinará la forma y condiciones para su cumplimiento.
 
@@ -480,7 +492,9 @@ XIII. Red de Contraloría
 
 XIV. Gobierno abierto
 
-El Congreso del Estado, el Instituto Morelense de Procesos Electorales y Participación Ciudadana y el Instituto Morelense de Información Pública y Estadística en el ámbito de su competencia, vigilarán y llevarán a cabo las acciones necesarias para su cumplimiento.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2026)</small>
+
+El Congreso del Estado, el Instituto Morelense de Procesos Electorales y Participación Ciudadana y la Secretaría de Despacho del Poder Ejecutivo Estatal responsable del control interno y de transparencia, acceso a la información pública y protección de datos personales en el ámbito de su competencia, vigilarán y llevarán a cabo las acciones necesarias para su cumplimiento.
 
 Los mecanismos de participación ciudadana pueden tener origen popular o provenir de autoridad pública, según sean promovidos o presentados directamente mediante solicitud avalada por firmas ciudadanas o por una autoridad, en los términos de la normativa aplicable.
 
@@ -752,23 +766,9 @@ VII. El Tribunal Electoral del Estado de Morelos, es la Autoridad Electoral Juri
 
 ### CAPÍTULO III.. DE LOS ORGANISMOS PÚBLICOS AUTÓNOMOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2020)</small>
-
 ###### Artículo 23-A.
 
-El Congreso del Estado establecerá un Organismo Público Autónomo imparcial, colegiado, con personalidad jurídica y patrimonio propio, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de garantizar el cumplimiento del derecho de acceso a la información pública de todas las personas, proteger los datos personales y realizar estadísticas, sondeos y encuestas imparciales que coadyuven al cumplimiento de las funciones de los poderes públicos y al desarrollo democrático del Estado, denominado Instituto Morelense de Información Pública y Estadística; en la conformación de este organismo garante se observará el principio de paridad de género. El Instituto será el encargado de aplicar las Leyes de la materia y sus resoluciones serán acatadas por las Entidades y Dependencias Públicas del Estado y Municipios, Organismos Públicos Autónomos, Organismos Auxiliares de la Administración Pública, partidos políticos, fondos públicos, personas físicas, morales o sindicatos que reciban y ejerzan recursos públicos o realicen actos de autoridad en el ámbito estatal o municipal, y por toda persona que reciba, maneje, aplique o participe en el ejercicio de recursos públicos o privados, siempre que estos se destinen a actividades relacionadas con la función pública.
-
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2018)</small>
-
-El Instituto Morelense de Información Pública y Estadística se integra por cinco comisionados, los cuales serán electos por la mayoría calificada de los integrantes del Congreso, para lo cual se expedirá convocatoria pública para recibir propuestas de la sociedad, observando en todo momento el procedimiento que establezcan las leyes de la materia.
-
-> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2015)</small>
-
-Los comisionados durarán en su cargo siete años, sin posibilidad de otra designación; no podrán tener otro empleo, cargo o comisión, salvo los de docencia y los no remunerados en asociaciones científicas, artísticas o de beneficencia.
-
-> <small>(REFORMADO, P.O. 10 DE JUNIO DE 2020)</small>
-
-En los procedimientos para la selección de los comisionados se deberá garantizar la transparencia, independencia, participación de la sociedad y paridad de género.
+(DEROGADO, P.O. 27 DE ENERO DE 2026)
 
 > <small>(ADICIONADO, P.O. 21 DE FEBRERO DE 2007)</small>
 
@@ -790,13 +790,17 @@ El Presidente de la Comisión de Derechos Humanos del Estado de Morelos, lo ser�
 
 El Presidente de la Comisión de Derechos Humanos del Estado de Morelos, y los integrantes del Consejo Consultivo, además de los requisitos que prevé este ordenamiento y la ley reglamentaria, deberán gozar de reconocido prestigio en la sociedad y haberse destacado por su interés en la promoción, difusión y defensa de los Derechos Humanos. La elección del Titular de la Presidencia de la Comisión de Derechos Humanos del Estado, así como de los integrantes del Consejo Consultivo, se hará previa Convocatoria Pública, que deberá ser transparente, en los términos y condiciones que determine la Ley.
 
-> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2026)</small>
 
 ###### Artículo 23-C.
 
-Cada uno de los organismos públicos autónomos creados por disposición de esta Constitución, deberá contar con un órgano interno de control, el cual se encargará de la fiscalización de todos los ingresos y egresos, mismos que estarán dotados de autonomía técnica y de gestión, en el desempeño de sus funciones.
+Cada uno de los organismos públicos autónomos creados por disposición de esta Constitución, deberá contar con un Órgano Interno de Control y de Transparencia, acceso a la Información pública y Protección de Datos Personales, el cual se encargará de la fiscalización de todos los ingresos y egresos, mismos que estarán dotados de autonomía técnica y de gestión, en el desempeño de sus funciones; así como garantizar los derechos de acceso a la información pública y protección de datos personales, el ejercicio de este derecho se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad, de conformidad con la Ley de la materia.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2015)</small>
 
 La persona titular de dicho órgano interno de control será designado por el Congreso del Estado, mediante el voto aprobatorio de cuando menos las dos terceras partes de sus integrantes; durará seis años en su cargo, pudiendo ser designado por un periodo más.
+
+> <small>(ADICIONADO, P.O. 11 DE AGOSTO DE 2015)</small>
 
 Los órganos internos de control estarán adscritos administrativamente a los entes de gobierno respectivos y mantendrán la coordinación necesaria con la Entidad Superior de Auditoría y Fiscalización.
 
@@ -904,11 +908,7 @@ II.- Las personas Titulares de las Magistraturas, y de las Secretarías del Trib
 
 III.- Las personas Titulares de las Secretarías o Subsecretarías de Despacho, la persona Titular de la Fiscalía General del Estado de Morelos, las personas Titulares de las Fiscalías y Fiscalías Especializadas, las personas Titulares de las Magistraturas del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa, del Tribunal de Disciplina Judicial y la persona Titular del Tribunal Unitario de Justicia Penal para Adolescentes, las personas Titulares de los Juzgados que integran el Poder Judicial, las personas integrantes del Órgano de Administración Judicial, las personas Agentes del Ministerio Público, las personas administradoras de rentas Estatales o Municipales, las personas Delegadas o equivalentes de la Federación, las personas que formen parte del Ejército en servicio activo y las personas con rango de Jefatura o Mandos Superiores de Policía de Seguridad Pública Estatal o Municipal y las personas Titulares de las Presidencias Municipales, así como las personas que ocupen un cargo de dirección en los gobiernos federal, estatal y municipal o ejerzan bajo cualquier circunstancia las mismas funciones, las personas titulares de los organismos públicos autónomos, salvo que se separen del cargo noventa días antes del día de la fecha de la elección. Las personas integrantes del Poder Legislativo que pretendan ser reelectos podrán optar por no separarse de su cargo, en términos de la normativa aplicable;
 
-(NOTA: EL 21 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 29/2017 Y SUS ACUMULADAS 32/2017, 34/2017 Y 35/2017, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2017)</small>
-
-IV.- EL CONSEJERO PRESIDENTE, LOS CONSEJEROS ELECTORALES Y EL SECRETARIO EJECUTIVO DEL INSTITUTO MORELENSE DE PROCESOS ELECTORALES Y PARTICIPACIÓN CIUDADANA SALVO QUE SE SEPAREN DEL CARGO TRES AÑOS ANTES DE LA FECHA DE INICIO DEL PROCESO ELECTORAL DE QUE SE TRATE; Y los Comisionados del Instituto Morelense de Información Pública y Estadística, aún si se separan de sus funciones, conforme a lo dispuesto en el artículo 23 de la presente Constitución;
+IV.- (DEROGADA, P.O. 27 DE ENERO DE 2026)
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 2014)</small>
 
@@ -1194,9 +1194,9 @@ c).- Los trabajadores gozarán anualmente de dos períodos vacacionales de diez 
 
 d).- Los salarios, emolumentos y demás prestaciones para los trabajadores o servidores públicos del Estado, sean sindicalizados, supernumerarios o de confianza, serán fijados en los presupuestos respectivos, sin que su cuantía pueda ser disminuida durante la vigencia de éstos, sujetándose a lo dispuesto en el artículo 131 de esta constitución y en las leyes respectivas. En ningún caso los salarios podrán ser inferiores al mínimo para los trabajadores en general del Estado;
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2026)</small>
 
-e).- A trabajo igual corresponderá salario igual sin tener en cuenta el sexo.
+e).- Al trabajo igual corresponderá salario igual sin tener en cuenta sexo ni género;
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -1268,9 +1268,9 @@ XXV.- Excitar a los Poderes de la Federación para que presten protección al Es
 
 XXVI.- Nombrar y remover a los trabajadores al servicio del Poder Legislativo con arreglo a las leyes a que se refiere la fracción XX.
 
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2026)</small>
 
-XXVII.- Recibir de las personas integrantes del Poder Legislativo, de la Persona Titular del Poder Ejecutivo, de la persona Titular de la Fiscalía General del Estado, de las personas Titulares de las Magistraturas del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa, del Tribunal Unitario de Justicia Penal para Adolescentes, del Tribunal de Disciplina Judicial, de las personas Titulares de los Juzgados que integran el Poder Judicial, de las personas Comisionadas del Instituto Morelense de Información Pública y Estadística, de la Persona Titular de la Comisión de Derechos Humanos, de las Personas Titulares de los Órganos Internos de Control de los Organismos Públicos Autónomos, de la persona Titular de la Auditoría General de la Entidad Superior de Auditoría y Fiscalización y de la persona Titular de la Secretaría de la Contraloría, la protesta a que se refiere el artículo 133 de esta Constitución;
+XXVII.- Recibir de las personas integrantes del Poder Legislativo, de la Persona Titular del Poder Ejecutivo, de la persona Titular de la Fiscalía General del Estado, de las personas Titulares de las Magistraturas del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa, del Tribunal Unitario de Justicia Penal para Adolescentes, del Tribunal de Disciplina Judicial, de las personas Titulares de los Juzgados que integran el Poder Judicial, de la Persona Titular de la Comisión de Derechos Humanos, de las Personas Titulares de los Órganos Internos de Control y de Transparencia, acceso a la Información Pública y Protección de Datos Personales de los Organismos Públicos Autónomos, de la persona Titular de la Auditoría General de la Entidad Superior de Auditoría y Fiscalización y de la persona Titular de la Secretaría de Despacho del Poder Ejecutivo Estatal responsable del control interno y de transparencia, acceso a la información pública y protección de datos personales, la protesta a que se refiere el artículo 133 de esta Constitución;
 
 > <small>(REFORMADA, P.O. 30 DE ENERO DE 2015)</small>
 
@@ -1290,9 +1290,9 @@ XXX.- Conceder licencias para separarse de sus respectivos cargos a los diputado
 
 XXXI.- Conceder o negar licencia al Gobernador del Estado para salir del territorio del mismo o para separarse de sus funciones, siempre que la ausencia o separación sea por más de 30 días.
 
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2026)</small>
 
-XXXII.- Admitir la licencia definitiva de sus cargos a las personas Titulares de las Magistraturas del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, del Tribunal Unitario de Justicia Penal para Adolescentes, de las personas Titulares de los Juzgados que integran el Poder Judicial del Estado, así como las renuncias de sus cargos a las personas Titulares del Órgano de Administración del Poder Judicial, de las personas titulares de las Magistraturas del Tribunal de Justicia Administrativa, de la persona Titular de la Fiscalía General del Estado, de las personas Comisionadas del Instituto Morelense de Información Pública y Estadística, de la persona Titular de la Entidad Superior de Auditoría y Fiscalización, de las personas titulares de la Presidencia y de las Consejerías de la Comisión de Derechos Humanos del Estado de Morelos, así como a las personas titulares de los Órganos Internos de Control de los organismos constitucionales autónomos;
+XXXII.- Admitir la licencia definitiva de sus cargos a las personas Titulares de las Magistraturas del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, del Tribunal Unitario de Justicia Penal para Adolescentes, de las personas Titulares de los Juzgados que integran el Poder Judicial del Estado, así como las renuncias de sus cargos a las personas Titulares del Órgano de Administración del Poder Judicial, de las personas titulares de las Magistraturas del Tribunal de Justicia Administrativa, de la persona Titular de la Fiscalía General del Estado, de la persona Titular de la Entidad Superior de Auditoría y Fiscalización, de las personas titulares de la Presidencia y de las Consejerías de la Comisión de Derechos Humanos del Estado de Morelos, así como a las personas titulares de los Órganos Internos de Control y de Transparencia, acceso a la Información Pública y Protección de Datos Personales de los organismos constitucionales autónomos;
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
 
@@ -1320,9 +1320,7 @@ XXXVIII.- Examinar los informes sobre la cuenta pública que trimestralmente deb
 
 XXXIX.- Nombrar, a propuesta en terna del Ejecutivo, persona que represente al Estado ante la Suprema Corte de Justicia, cuando se suscite alguna controversia con otro Estado o con la Nación.
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2020)</small>
-
-XL.- Nombrar a los Comisionados propietarios y suplentes del Instituto Morelense de Información Pública y Estadística, previa consulta pública y atendiendo el principio de paridad de género en las designaciones;
+XL.- (DEROGADA, P.O. 27 DE ENERO DE 2026)
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
 
@@ -1332,13 +1330,13 @@ XLI. Declarar que ha lugar o no a la formación de causa por delitos federales e
 
 XLII.- Declarar sobre la culpabilidad de los mismos funcionarios, por los delitos que cometan en el ejercicio de sus funciones.
 
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2003)</small>
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2026)</small>
 
-XLIII.- Resolver las controversias que se susciten entre el Ejecutivo y el Tribunal Superior de Justicia del Estado y las que se susciten entre el Tribunal Superior de Justicia y el Instituto Morelense de Información Pública y Estadística, siempre que no tengan el carácter de controversias que deba conocer la Suprema Corte de Justicia de la Nación, conforme al artículo 105 de la Constitución Federal.
+XLIII.- Resolver las controversias que se susciten entre el Ejecutivo y el Tribunal Superior de Justicia del Estado, siempre que no tengan el carácter de controversias que deba conocer la Suprema Corte de Justicia de la Nación, conforme al artículo 105 de la Constitución Federal;
 
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2026)</small>
 
-XLIV.- Designar y remover, con el voto de las dos terceras partes de los miembros presentes de la Legislatura, al Auditor General de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado; así como ratificar con el voto de las dos terceras partes de los miembros de la Legislatura, el nombramiento del Secretario de la Contraloría del Estado; así mismo, observando el principio de paridad de género, designar con el voto aprobatorio de las dos terceras partes de los integrantes de la Legislatura, a los Titulares de los Órganos Internos de Control de los Organismos Públicos Autónomos a que se refiere el artículo 23-C de esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado; y a los miembros de la Comisión de Selección que elegirá a su vez a los integrantes del Comité de Participación Ciudadana del Sistema Estatal Anticorrupción;
+XLIV.- Designar y remover, con el voto de las dos terceras partes de los miembros presentes de la Legislatura, al Auditor General de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado; así como ratificar con el voto de las dos terceras partes de los miembros de la Legislatura, el nombramiento de la persona Titular de la Secretaría de Despacho del Poder Ejecutivo Estatal responsable del control interno y de transparencia, acceso a la información pública y protección de datos personales; así mismo, observando el principio de paridad de género, designar con el voto aprobatorio de las dos terceras partes de los integrantes de la Legislatura, a las personas Titulares de los Órganos Internos de Control y de Transparencia, acceso a la Información Pública y Protección de Datos Personales de los Organismos Públicos Autónomos a que se refiere el artículo 23-C de esta Constitución, que ejerzan recursos del Presupuesto de Egresos del Estado; y a los miembros de la Comisión de Selección que elegirá a su vez a los integrantes del Comité de Participación Ciudadana del Sistema Estatal Anticorrupción;
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -1510,11 +1508,11 @@ Las Comisiones encargadas del estudio de las iniciativas, en la elaboración de 
 
 Para que una iniciativa tenga el carácter de ley o decreto, necesita en votación nominal de las dos terceras partes de los diputados integrantes de la legislatura; la sanción y promulgación del Ejecutivo y su publicación en el órgano oficial del Estado; excepto en los casos expresamente determinados por esta Constitución.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2026)</small>
 
 ###### Artículo 45.
 
-El Congreso o la Diputación Permanente podrán llamar a los Secretarios del Poder Ejecutivo Estatal y a los Comisionados del Instituto Morelense de Información Pública y Estadística a cualquiera de sus sesiones secretas o públicas para pedirles los informes verbales que necesiten sobre asuntos relacionados con el desempeño de sus funciones y estos funcionarios deberán presentarse a ministrarlos.
+El Congreso o la Diputación Permanente podrán llamar a las personas titulares de las Secretarías del Poder Ejecutivo Estatal a cualquiera de sus sesiones secretas o públicas para pedirles los informes verbales que necesiten sobre asuntos relacionados con el desempeño de sus funciones y estos funcionarios deberán presentarse a ministrarlos.
 
 > <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
 
@@ -1704,9 +1702,9 @@ b). El Gobernador interino, el provisional, o el ciudadano que bajo cualquiera d
 
 VI.- Los Presidentes Municipales si no se separan de sus funciones 90 días antes del día de la elección; y
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2026)</small>
 
-VII.- El Consejero Presidente y los Consejeros Electorales del Organismo Público Electoral de Morelos, los Magistrados del Tribunal Electoral del Estado de Morelos, así como el personal directivo del Instituto Morelense de Procesos Electorales y Participación Ciudadana, ni los Comisionados del Instituto Morelense de Información Pública y Estadística, aún si se separan de sus funciones, conforme a lo dispuesto en el artículo 23 de la presente Constitución.
+VII.- El Consejero Presidente y los Consejeros Electorales del Organismo Público Electoral de Morelos, los Magistrados del Tribunal Electoral del Estado de Morelos, así como el personal directivo del Instituto Morelense de Procesos Electorales y Participación Ciudadana, aún si se separan de sus funciones, conforme a lo dispuesto en el artículo 23 de la presente Constitución.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 1980)</small>
 
@@ -1786,17 +1784,17 @@ II.- Hacer observaciones a los proyectos de leyes o decretos que apruebe y le re
 
 III.- Pedir a la Diputación Permanente que convoque al Congreso a Sesiones extraordinarias, si la urgencia e importancia del asunto así lo requieren.
 
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2026)</small>
 
-IV.- Nombrar, remover y conceder licencias a las personas servidoras públicas, así como a las demás personas trabajadoras al servicio del Poder Ejecutivo, con arreglo a las leyes a que se refiere la fracción XX del Artículo 40 de esta Constitución.
+IV.- Nombrar, observando el principio de paridad de género, así como remover y conceder licencias a las personas servidoras públicas, así como a las demás personas trabajadoras al servicio del Poder Ejecutivo, con arreglo a las leyes a que se refiere la fracción XX del Artículo 40 de esta Constitución;
 
 (REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2000) (F. DE E., P.O. 29 DE NOVIEMBRE DE 2000)
 
 V.- Como responsable de la administración pública y de la hacienda pública. cuidar de la legal recaudación e inversión de los caudales públicos.
 
-> <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2026)</small>
 
-VI.- Designar o nombrar a las personas Titulares de las Secretarías de Despacho, a la persona Titular de la Consejería Jurídica y a las personas Titulares de las demás dependencias que contemple la Ley, en una proporción que no exceda la mitad para un mismo género. El nombramiento de la persona Titular de la Secretaría de la Contraloría se sujetará a la ratificación del Congreso del Estado; así como, a la persona integrante del Órgano de Administración del Poder Judicial que le corresponde.
+VI.- Designar o nombrar a las personas Titulares de las Secretarías de Despacho, a la persona Titular de la Consejería Jurídica y a las personas Titulares de las demás dependencias que contemple la Ley, observando el principio de paridad de género. El nombramiento de la persona Titular de la Secretaría de Despacho del Poder Ejecutivo Estatal responsable del control interno y de transparencia, acceso a la información pública y protección de datos personales se sujetará a la ratificación del Congreso del Estado; así como, a la persona integrante del Órgano de Administración del Poder Judicial que le corresponde;
 
 > <small>(REFORMADA, P.O. 19 DE MAYO DE 2025)</small>
 
@@ -2652,9 +2650,7 @@ XI.- Conceder licencias a los Magistrados del Tribunal Superior que no excedan d
 
 XII.- Dirimir las controversias que se susciten entre los Poderes Legislativo y Ejecutivo, por Leyes o actos de aquél que este último considere contrarias a la Constitución del Estado.
 
-> <small>(REFORMADA, P.O. 6 DE JULIO DE 2016)</small>
-
-XIII.- Dirimir las controversias que se susciten entre el Instituto Morelense de Información Pública y Estadística y el Poder Legislativo o el Poder Ejecutivo del Estado, o entre el primero y los Municipios, o el Instituto Morelense de Procesos Electorales y Participación Ciudadana, o la Universidad Autónoma del Estado de Morelos o cualquier Órgano Estatal regulado por esta Constitución. El procedimiento que se sustancie ante el Tribunal Superior de Justicia se sujetará al procedimiento previsto en el artículo 100 de esta Constitución;
+XIII.- (DEROGADA, P.O. 27 DE ENERO DE 2026)
 
 XIV.- (DEROGADA, P.O. 22 DE MARZO DE 1995)
 
@@ -3480,17 +3476,17 @@ DEL SISTEMA ESTATAL ANTICORRUPCIÓN.
 
 Se establece el Sistema Estatal Anticorrupción, como instancia coordinadora entre las autoridades competentes en la prevención, detección, investigación y sanción de responsabilidades administrativas y hechos de corrupción, el cual se conformará y ajustará a lo dispuesto en la propia Constitución y la normativa aplicable.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2026)</small>
 
-Para los efectos de las responsabilidades a que se refiere este Título, se reputan como personas servidoras públicas a las personas integrantes de los Poderes Legislativo, Ejecutivo y Judicial, así como de los Ayuntamientos, las personas Consejeras Electorales del Instituto Morelense de Procesos Electorales y Participación Ciudadana, las personas Comisionadas del Instituto Morelense de Información Pública y Estadística, las personas Titulares de las Magistraturas del Tribunal Electoral del Estado de Morelos, del Tribunal de Justicia Administrativa, del Tribunal Unitario de Justicia Penal para Adolescentes, y del Tribunal de Disciplina Judicial, las personas integrantes del Órgano de Administración Judicial y en general todo aquel que desempeñe un cargo, comisión empleo de cualquier naturaleza en la Administración Pública Estatal o Paraestatal o en las Entidades, organismos públicos autónomos e instituciones mencionadas en esta Constitución. El Sistema Estatal contará con un Comité de Participación Ciudadana, integrado por cinco personas ciudadanas que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley.
+Para los efectos de las responsabilidades a que se refiere este Título, se reputan como personas servidoras públicas a las personas integrantes de los Poderes Legislativo, Ejecutivo y Judicial, así como de los Ayuntamientos, las personas Consejeras Electorales del Instituto Morelense de Procesos Electorales y Participación Ciudadana, las personas Titulares de las Magistraturas del Tribunal Electoral del Estado de Morelos, del Tribunal de Justicia Administrativa, del Tribunal Unitario de Justicia Penal para Adolescentes, y del Tribunal de Disciplina Judicial, las personas integrantes del Órgano de Administración Judicial y en general todo aquel que desempeñe un cargo, comisión o empleo de cualquier naturaleza en la Administración Pública Estatal o Paraestatal o en las Entidades, organismos públicos autónomos e instituciones mencionadas en esta Constitución. El Sistema Estatal contará con un Comité de Participación Ciudadana, integrado por cinco personas ciudadanas que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designadas en los términos que establezca la ley.
 
 > <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
 
 A la Persona Titular del Poder Ejecutivo sólo se le podrá exigir responsabilidad durante su cargo, mediante Juicio Político, por violación expresa y calificada como grave a esta Constitución, ataques a la libertad electoral y al derecho de participación ciudadana y por delitos graves del orden común.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2026)</small>
 
-El Sistema tendrá un Comité Coordinador, el que contará a su vez con un órgano de apoyo técnico; el Comité estará integrado por las personas Titulares de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos, Fiscalía Especializada en Combate a la Corrupción, Secretaría de la Contraloría, la persona Titular de la Magistratura que presida el Tribunal de Justicia Administrativa, la persona Comisionada que presida el Instituto Morelense de Información Pública y Estadística, así como por la persona titular de la Magistratura que presida el Tribunal de Disciplina Judicial, una persona representante de las Contralorías Municipales del Estado y la persona titular de la Presidencia del Comité de Participación Ciudadana; quien será a su vez la persona que Presida el Comité Coordinador.
+El Sistema tendrá un Comité Coordinador, el que contará a su vez con un órgano de apoyo técnico; el Comité estará integrado por las personas Titulares de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos, de la Fiscalía Especializada en Combate a la Corrupción, de la Secretaría de Despacho del Poder Ejecutivo Estatal responsable del control interno y de transparencia, acceso a la información pública y protección de datos personales, la persona Titular de la Magistratura que presida el Tribunal de Justicia Administrativa, así como por la persona titular de la Magistratura que presida el Tribunal de Disciplina Judicial, una persona representante de las Contralorías Municipales del Estado y la persona titular de la Presidencia del Comité de Participación Ciudadana; quien será a su vez la persona que Presida el Comité Coordinador.
 
 Sin detrimento de las funciones que la normativa aplicable le confiera, corresponderá al Comité Coordinador del Sistema Estatal Anticorrupción, en los términos que determine la Ley:
 
@@ -3540,15 +3536,15 @@ La Comisión correspondiente del Congreso del Estado, instruirá el expediente s
 
 En demandas del orden civil que se entablen contra cualquier servidor público no se requerirá de declaración de procedencia.
 
-> <small>(REFORMADO, P.O. 4 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2026)</small>
 
-Para proceder penalmente en contra de los Secretarios de Despacho, el Auditor General de la Entidad Superior de Auditoría y Fiscalización, el Fiscal General del Estado, los Magistrados del Tribunal de Justicia Administrativa del Estado de Morelos, los Magistrados del Tribunal Electoral del Estado de Morelos, el Magistrado del Tribunal Unitario de Justicia Penal para Adolescentes, así como el Consejero Presidente y los Consejeros Electorales del Instituto Morelense de Procesos Electorales y Participación Ciudadana, el Comisionado Presidente y los Comisionados del Instituto Morelense de Información Pública y Estadística, los Presidentes Municipales, Síndicos y Regidores, por la comisión de delitos durante el tiempo de su cargo, no se requerirá la Declaratoria del Congreso del Estado en la que señale si ha lugar o no a la formación de causa.
+Para proceder penalmente en contra de los Secretarios de Despacho, el Auditor General de la Entidad Superior de Auditoría y Fiscalización, el Fiscal General del Estado, los Magistrados del Tribunal de Justicia Administrativa del Estado de Morelos, los Magistrados del Tribunal Electoral del Estado de Morelos, el Magistrado del Tribunal Unitario de Justicia Penal para Adolescentes, así como el Consejero Presidente y los Consejeros Electorales del Instituto Morelense de Procesos Electorales y Participación Ciudadana, los Presidentes Municipales, Síndicos y Regidores, por la comisión de delitos durante el tiempo de su cargo, no se requerirá la Declaratoria del Congreso del Estado en la que señale si ha lugar o no a la formación de causa.
 
-> <small>(REFORMADO, P.O. 19 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2026)</small>
 
 ###### Artículo 137.
 
-Son responsables y serán sometidas a juicio político por actos u omisiones en perjuicio de los intereses públicos fundamentales o de su buen despacho, las personas integrantes del Poder Legislativo, la persona Titular del Poder Ejecutivo, las personas Titulares de las Secretarías de Despacho, la persona Titular de la Fiscalía General del Estado, las personas Titulares de las Magistraturas del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa, del Tribunal de Disciplina Judicial, del Tribunal Unitario de Justicia Penal para Adolescentes, las personas integrantes del Órgano de Administración Judicial, las personas Titulares de los Juzgados del Poder Judicial, las personas Comisionadas del Instituto Morelense de Información Pública y Estadística, las personas integrantes de los Ayuntamientos y la persona Titular de la Presidencia de la Comisión de Derechos Humanos del Estado de Morelos.
+Son responsables y serán sometidas a juicio político por actos u omisiones en perjuicio de los intereses públicos fundamentales o de su buen despacho, las personas integrantes del Poder Legislativo, la persona Titular del Poder Ejecutivo, las personas Titulares de las Secretarías de Despacho, la persona Titular de la Fiscalía General del Estado, las personas Titulares de las Magistraturas del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa, del Tribunal de Disciplina Judicial, del Tribunal Unitario de Justicia Penal para Adolescentes, las personas integrantes del Órgano de Administración Judicial, las personas Titulares de los Juzgados del Poder Judicial, las personas integrantes de los Ayuntamientos y la persona Titular de la Presidencia de la Comisión de Derechos Humanos del Estado de Morelos.
 
 > <small>(REFORMADO, P.O. 22 DE JULIO DE 1983)</small>
 
@@ -5945,3 +5941,71 @@ OCTAVA. Para el desarrollo de los procesos electorales del Tribunal Unitario de 
 NOVENA. El presente Decreto deroga todas las disposiciones legales de igual o menor rango, que se opongan o contradigan a este.
 
 Hasta en tanto se expida la Ley Orgánica del Poder Judicial del Estado de Morelos, continuará en vigor la Ley Orgánica del Tribunal Unitario de Justicia Penal para Adolescentes del Estado de Morelos, en lo que no se oponga al contenido del presente Decreto.
+
+P.O. 27 DE ENERO DE 2026.
+
+## [N. DE E.TRANSITORIOS DEL “DECRETO NÚMERO MIL CIENTO CINCO.- POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, ASÍ COMO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA. Aprobado que fue por el Constituyente Permanente Local, para los efectos que disponen los artículos 56, fracción X; 147 y 148 de la Constitución Política del Estado Libre y Soberano de Morelos, se realizó la declaratoria correspondiente en Sesión de la Diputación Permanente del Primer Receso del Segundo Año de Ejercicio Constitucional.
+
+SEGUNDA. Remítase el presente decreto a la Gobernadora Constitucional del Estado, para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Dado que fue hecha la Declaratoria a que se refieren los artículos 147 y 148, de la Constitución Política del Estado Libre y Soberano de Morelos, las reformas contenidas en el presente Decreto formarán parte de la Constitución al día siguiente de su publicación.
+
+CUARTA. El Congreso del Estado tendrá un plazo no mayor a ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto, para realizar las modificaciones y adecuaciones de armonización correspondiente a las Leyes Orgánicas de los Poderes Ejecutivo, Judicial y Legislativo, así como a las leyes secundarias que correspondan, en las que tenga impacto el presente Decreto, de conformidad con las Leyes Generales en materia de transparencia y acceso a la información pública, y de protección de datos personales en posesión de sujetos obligados expedidas por el Congreso de la Unión; en tanto, se continuará aplicando de manera supletoria la legislación vigente en la materia, en lo que no se oponga al presente Decreto.
+
+Las adecuaciones legislativas que se realicen deberán considerar la eliminación de los organismos, unidades administrativas o estructuras que representen duplicidad de funciones, así como la integración de las funciones en las Secretarías o Dependencias de la Administración Pública Centralizada que puedan asumir su competencia.
+
+QUINTA. Una vez entrado en vigor el presente Decreto, se extingue el Instituto Morelense de Información Pública y Estadística; por lo que corresponderá, conforme al ámbito de sus respectivas competencias, a la Secretaría de Anticorrupción y Buen Gobierno del Poder Ejecutivo Estatal, a la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos, al Tribunal de Disciplina Judicial del Poder Judicial del Estado de Morelos, así como a los órganos internos de control de los Organismos Autónomos, asumir las funciones en materia de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, respectivamente, en los términos del presente Decreto y la legislación referida en la Disposición Cuarta Transitoria anterior.
+
+En ese sentido, se autoriza a la Persona Titular del Poder Ejecutivo Estatal, a través de las Secretarías, Dependencias y Entidades competentes, en un plazo no mayor a 60 días hábiles, contados a partir de entrada en vigor del presente Decreto, para realizar, gestionar, emitir o celebrar todos los actos jurídicos y administrativos idóneos que resulten necesarios tendientes a lograr que se le transfieran los recursos humanos, materiales, organizacionales, informáticos, financieros, presupuestales del Instituto Morelense de Información Pública y Estadística, conforme a la normativa aplicable.
+
+Por tanto, las personas comisionadas del Instituto Morelense de Información Pública y Estadística que se extingue por virtud del presente Decreto, quedan obligadas a realizar los actos jurídicos y administrativos idóneos y necesarios correspondientes para lograr la transferencia de los recursos humanos, materiales, organizacionales, informáticos, financieros, presupuestales autorizados en el Presupuesto Anual de Egresos del Estado y demás que resulten necesarios por virtud del presente instrumento; lo cual será coordinado y supervisado por las Secretarías de Administración y Finanzas y Anticorrupción y Buen Gobierno, ambas del Poder Ejecutivo Estatal, en el ámbito de sus respectivas atribuciones, contando para ello con un plazo no mayor a 60 días hábiles, contados a partir de la entrada en vigor del presente Decreto.
+
+Durante el periodo de armonización legislativa previsto en la Disposición Cuarta del presente Decreto, el Poder Ejecutivo, a través de la Secretaría Anticorrupción y Buen Gobierno, coordinará con los Poderes Legislativo y Judicial, así como con los organismos autónomos, los mecanismos de transición que se consideren idóneos y necesarios, evitando vacíos jurídicos y operativos.
+
+Durante dicho periodo, las autoridades mencionadas en el primer párrafo de la presente disposición ejercerán plenamente las funciones en materia de transparencia, acceso a la información pública y protección de datos personales, aplicando las Leyes Generales en la materia y, de forma supletoria, la legislación estatal vigente que no se oponga al presente Decreto.
+
+Los procedimientos y asuntos en trámite iniciados con anterioridad a la entrada en vigor del presente Decreto serán substanciados y resueltos por estas mismas autoridades, según corresponda. Asimismo, podrán, de manera excepcional y por un plazo máximo de 90 días naturales, suspender los plazos y términos procedimentales estrictamente necesarios para la transición institucional, sin que ello implique la suspensión del ejercicio de las funciones que les competen, ni la afectación de los derechos de acceso a la información pública y protección de datos personales o de cualquier otro derecho humano.
+
+Los actos jurídicos emitidos por el Ente Público que se extingue, con anterioridad a que entre en vigor el presente Decreto, surtirán todos sus efectos legales, siempre que no contravengan la Constitución Política del Estado Libre y Soberano de Morelos y las disposiciones de la Ley General.
+
+En el caso de los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, se entenderán como vigentes y obligarán en sus términos a las instancias que asuman las funciones de los Entes Públicos que se extinguen, según corresponda, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente, siempre que no contravengan la Constitución Política del Estado Libre y Soberano de Morelos y las disposiciones de la Ley General.
+
+Los recursos materiales, así como los expedientes, registros, padrones, plataformas y sistemas electrónicos del Ente Público que se extingue conforme al presente Decreto, pasarán a formar parte de la Secretaría Anticorrupción y Buen Gobierno del Poder Ejecutivo Estatal, en los términos del presente Decreto, quien, en su caso, podrá celebrar convenios de colaboración con las instancias previstas en el primer párrafo de la presente Disposición Transitoria a efecto de compartir los recursos informáticos que correspondan.
+
+SEXTA. El nombramiento de la persona titular del Ente que se extingue, así como de las personas Comisionadas del Instituto Morelense de Información Pública y Estadística, que actualmente se encuentren en funciones, cesarán sus efectos a la entrada en vigor del presente Decreto, con excepción de aquellos cuya vigencia concluya previamente.
+
+Lo anterior, sin que constituya destitución ni genere derecho alguno a indemnización, compensación, liquidación o pago de haberes futuros, por tratarse de un cargo de naturaleza pública, temporal y de ejercicio condicionado a la existencia de un órgano; de ahí únicamente serán exigibles las remuneraciones efectivamente devengadas y no cubiertas con anterioridad.
+
+Se dejan sin efectos las disposiciones reglamentarias o administrativas que establezcan derechos o compensaciones incompatibles con las disposiciones de la Constitución Política del Estado Libre y Soberano de Morelos y el presente Decreto.
+
+Todo ello, sin que queden relegadas de la obligación de realizar los actos correspondientes de entrega-recepción institucional e individual, según corresponda, así como a celebrar todos los actos jurídicos y administrativos idóneos que resulten necesarios al efecto, conforme a la normativa aplicable.
+
+SÉPTIMA. Los derechos laborales de las personas servidoras públicas del Ente Público que se extingue serán respetados, en términos de la normativa aplicable.
+
+OCTAVA. Las atribuciones, facultades, competencias y funciones conferidas a la Secretaría que se crea mediante el presente Decreto no serán aplicables al Poder Legislativo del Estado de Morelos, ni a los órganos que lo integran, hasta en tanto el Congreso del Estado realice las reformas de armonización correspondientes a la Ley Orgánica para el Congreso del Estado de Morelos y demás disposiciones internas, en ejercicio de su autonomía constitucional.
+
+NOVENA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan a lo establecido en el presente Decreto.
+
+DÉCIMA. Las menciones, atribuciones o funciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto al Instituto Morelense de Información Pública y Estadística, se entenderán hechas o conferidas a la Secretaría Anticorrupción y Buen Gobierno del Poder Ejecutivo Estatal, y a los entes públicos que adquieren tales atribuciones o funciones, según corresponda en términos de la Ley General y demás normativa aplicable.
+
+DÉCIMA PRIMERA. En lo referente a las reformas a la Ley Orgánica de la Administración Pública para el Estado Libre y Soberano de Morelos, dado que fue efectuado lo señalado por la Disposición Transitoria TERCERA, remítase el presente Decreto, a la Persona Titular del Poder Ejecutivo Estatal de Morelos, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Una vez efectuado lo señalado en el párrafo anterior, las reformas contenidas y aprobadas por virtud del ARTÍCULO SEGUNDO del presente Decreto iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+DÉCIMA SEGUNDA. En un término no mayor a sesenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, se deberá expedir el Reglamento Interior de la Secretaría Anticorrupción y Buen Gobierno del Poder Ejecutivo Estatal; en tanto sucede esto, se mantendrá vigente el actual, en lo que no se opongan a lo previsto en el presente Decreto.
+
+DÉCIMA TERCERA. Las menciones y atribuciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto de la Secretaría de la Controlaría del Poder Ejecutivo Estatal se entenderán hechas o conferidas a la Secretaría Anticorrupción y Buen Gobierno del Poder Ejecutivo Estatal o a las unidades administrativas de su adscripción que resulten competentes conforme al Reglamento Interior que se expida para tal efecto.
+
+DÉCIMA SEXTA (SIC). La Persona Titular del Poder Ejecutivo está facultada para interpretar las disposiciones relativas a las reformas que por virtud del presente Decreto se realizan a la Ley Orgánica de la administración Pública para el Estado Libre y Soberano de Morelos, para efectos administrativos.
+
+P.O. 27 DE ENERO DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO MIL CIENTO SEIS POR EL QUE SE REFORMA EL ARTÍCULO 2 TER DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, EN MATERIA DE PROTECCIÓN DEL MAÍZ CRIOLLO EN SU ESTADO GENÉTICO, BASE DE NUESTRA IDENTIDAD Y ALIMENTO BÁSICO DE NUESTRO PUEBLO".]</small>
+
+PRIMERA. Aprobado que fue por el Constituyente Permanente Local, para los efectos que disponen los artículos 56, fracción X; 147 y 148 de la Constitución Política del Estado Libre y Soberano de Morelos, se realizó la declaratoria correspondiente en Sesión de la Diputación Permanente del Primer Receso del Segundo Año de Ejercicio Constitucional.
+
+SEGUNDA. Remítase el presente Decreto a la Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de menor rango normativo jerárquico que contravengan lo dispuesto por la presente reforma constitucional local.
