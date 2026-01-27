@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-administracion-publica-para-el-estado-174626
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-09-30"
-last_updated: "2025-10-03"
+last_updated: "2026-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174626&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2026.
 
 Ley publicada en la Edición Extraordinaria Número 6349 del Periódico Oficial del Estado de Morelos, el lunes 30 de septiembre de 2024.
 
@@ -111,9 +111,9 @@ XVI. Persona Titular del Poder Ejecutivo Estatal, a la persona depositaria del e
 
 XVII. Reglamento Interior, a los reglamentos internos de la Administración Pública Centralizada;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2026)</small>
 
-XVIII. Secretarías, a las Secretarías de Gobierno, de Administración y Finanzas, de Desarrollo Económico y del Trabajo, de Desarrollo Agropecuario, de Infraestructura, de Educación, de Salud, de la Contraloría, de Turismo, de Cultura, de Bienestar, de Desarrollo Sustentable, de las Mujeres y de Seguridad y Protección Ciudadana;
+XVIII. Secretarías, a las Secretarías de Gobierno, de Administración y Finanzas, de Desarrollo Económico y del Trabajo, de Desarrollo Agropecuario, de Infraestructura, de Educación, de Salud, Anticorrupción y Buen Gobierno, de Turismo, de Cultura, de Bienestar, de Desarrollo Sustentable, de las Mujeres y de Seguridad y Protección Ciudadana;
 
 > <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2025)</small>
 
@@ -177,7 +177,9 @@ VIII. La Secretaría de Salud;
 
 IX. (DEROGADA, P.O. 3 DE OCTUBRE DE 2025)
 
-X. La Secretaría de la Contraloría;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2026)</small>
+
+X. La Secretaría Anticorrupción y Buen Gobierno;
 
 XI. La Secretaría de Turismo;
 
@@ -215,17 +217,21 @@ Todos los decretos, reglamentos y acuerdos administrativos expedidos por la Pers
 
 El decreto promulgatorio que realice la Persona Titular del Poder Ejecutivo Estatal respecto de las leyes y decretos legislativos, deberá ser refrendado únicamente por la persona Titular de la Secretaría de Gobierno.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2026)</small>
+
 ###### Artículo 12.
 
-La Persona Titular del Poder Ejecutivo Estatal nombrará a la persona Titular del OIC que tendrá a su cargo la revisión de la Secretaría de la Contraloría, de conformidad con lo establecido en los artículos 6 y 115 de la Ley General de Responsabilidades Administrativas y demás ordenamientos aplicables.
+La Persona Titular del Poder Ejecutivo Estatal nombrará a la persona titular del OIC que tendrá a su cargo la revisión de la Secretaría Anticorrupción y Buen Gobierno, de conformidad con lo establecido en los artículos 6 y 115 de la Ley General de Responsabilidades Administrativas y demás ordenamientos aplicables.
 
-Así mismo, la persona Titular del OIC de la Secretaría de la Contraloría dependerá directamente de la Persona Titular del Poder Ejecutivo Estatal, ante quien será responsable.
+Asimismo, la persona titular del OIC de la Secretaría Anticorrupción y Buen Gobierno dependerá directamente de la Persona Titular del Poder Ejecutivo Estatal, ante quien será responsable.
 
 ###### Artículo 13.
 
 Para ser Titular de cualquiera de las Secretarías y Entidades, se deben cumplir los requisitos exigidos por la Constitución Estatal para ser Secretario de Despacho. Para el caso de la Consejería Jurídica se deberá contar, además, con título y cédula de licenciado en derecho legalmente expedidos.
 
-La persona Titular de la Secretaría de la Contraloría deberá cumplir con los mismos requisitos que establezca la Constitución Estatal para ser titular de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2026)</small>
+
+La persona titular de la Secretaría Anticorrupción y Buen Gobierno deberá cumplir con los mismos requisitos que establezca la Constitución Estatal para ser titular de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos.
 
 ###### Artículo 14.
 
@@ -261,7 +267,9 @@ XIV. Expedir certificaciones de las constancias y documentos que obren en sus ar
 
 XV. Tramitar y resolver los recursos administrativos que en el ámbito de su competencia les sean interpuestos;
 
-XVI. Coadyuvar con la Secretaría de la Contraloría, vigilando que las unidades administrativas y organismos que les estén adscritos o sectorizados cumplan con las metas y objetivos de sus respectivos programas y se ajusten a los presupuestos autorizados;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2026)</small>
+
+XVI. Coadyuvar con la Secretaría Anticorrupción y Buen Gobierno, vigilando que las unidades administrativas y organismos que les estén adscritos o sectorizados cumplan con las metas y objetivos de sus respectivos programas y se ajusten a los presupuestos autorizados;
 
 XVII. Representar a la Persona Titular del Poder Ejecutivo Estatal en los juicios de amparo que, según la distribución de competencias corresponda a su materia y, en los juicios contencioso-administrativos, contestar la demanda por sí y en representación de la Persona Titular del Poder Ejecutivo Estatal, sin perjuicio de las atribuciones inherentes a la Consejería Jurídica;
 
@@ -587,7 +595,9 @@ XVII. Aprobar las asignaciones presupuestarias de inversión pública que se der
 
 XVIII. Supervisar la evaluación que permita conocer los resultados de la aplicación de los recursos públicos estatales, así como concertar con la Administración Pública Estatal la validación de los indicadores estratégicos, en los términos de las disposiciones aplicables;
 
-XIX. Emitir, conjuntamente con la Secretaría de la Contraloría y la Comisión Estatal de Evaluación del Desarrollo Social, a más tardar el último día hábil de abril de cada ejercicio, el Programa Anual de Evaluación Estatal para los programas presupuestarios y otros programas de la Administración Pública Estatal;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2026)</small>
+
+XIX. Emitir, juntamente con la Secretaría Anticorrupción y Buen Gobierno y la Comisión Estatal de Evaluación del Desarrollo Social y a más tardar el último día hábil de abril de cada ejercicio, el Programa Anual de Evaluación Estatal para los programas presupuestarios y otros programas de la Administración Pública Estatal;
 
 XX. Coordinar el desarrollo de metodologías e indicadores que permitan medir y gestionar el desempeño de los programas presupuestarios, a través del Sistema de Evaluación de Desempeño Estatal;
 
@@ -971,51 +981,89 @@ XXV. Dictar disposiciones y lineamientos para la regulación, control y fomento 
 
 (DEROGADO, P.O. 3 DE OCTUBRE DE 2025)
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2026)</small>
+
 ###### Artículo 31.
 
-A la Secretaría de la Contraloría le corresponde ejercer las siguientes atribuciones:
+A la Secretaría Anticorrupción y Buen Gobierno le corresponde ejercer las siguientes atribuciones:
 
-I. Proponer e instrumentar las políticas de contraloría, auditoría y evaluación en la Administración Pública Estatal, vigilando la ejecución y aplicación del gasto público, la evaluación por resultados y el desarrollo de la contraloría social, de conformidad con las disposiciones jurídicas aplicables;
+I. Proponer y conducir la política pública en materia de integridad pública, evaluación de la gestión gubernamental, transparencia en la gestión pública, rendición de cuentas, fiscalización, anticorrupción y desarrollo de la contraloría social de la Administración Pública Estatal;
 
-II. Ordenar y realizar auditorías, revisiones, verificaciones, inspecciones, visitas, acciones de vigilancia y de aplicación del sistema de control interno de la Administración Pública Estatal, de manera presencial o por medios digitales o electrónicos;
+II. Emitir las normas que regulen los instrumentos y procedimientos de control interno de la Administración Pública Estatal que impulsen la modernización administrativa, conforme a las mejores prácticas en la materia y, en su caso, requerir a las Secretarías, Dependencias y Organismos Auxiliares competentes la expedición de normas complementarias para el ejercicio del control administrativo;
 
-III. Conocer e investigar los actos, omisiones o conductas de las personas servidoras públicas de la Administración Pública Estatal que puedan constituir responsabilidades administrativas y substanciar los procedimientos correspondientes, por sí, o por conducto de los OIC de la Administración Pública Estatal. Además, impondrá las sanciones en los casos en que incurran en responsabilidad administrativa, de conformidad con las disposiciones jurídicas aplicables, registrando la información sobre dichas sanciones;
+III. Emitir las normas que regulen los instrumentos y procedimientos en materia de investigación, actos de fiscalización internos, transversales o externos, incluidos los actos de fiscalización de gabinete y electrónicos, así como realizar las investigaciones y actos de fiscalización que se requieran;
 
-IV. Designar, remover y coordinar a las personas servidoras públicas de la Secretaría, para que funjan como sus representantes en las funciones y comisiones que se requieran;
+IV. Establecer mecanismos internos para la Administración Pública Estatal que prevengan actos u omisiones que puedan constituir responsabilidades administrativas e impulsar la participación ciudadana y la cultura cívica y ética que contribuya a la mejora continua;
 
-V. Designar, remover y coordinar a las personas titulares de los OIC de la Administración Pública Estatal, con excepción del OIC de la Secretaría de la Contraloría, quien dependerá de la Persona Titular del Poder Ejecutivo Estatal;
+V. Organizar y coordinar el sistema de control interno y evaluar la gestión gubernamental y sus resultados, así como concertar con las Secretarías, Dependencias, incluidos sus órganos administrativos desconcentrados y Organismos Auxiliares de la Administración Pública Estatal los indicadores para dicha evaluación, en los términos de las disposiciones jurídicas aplicables;
 
-VI. Coordinarse con las autoridades federales, estatales, municipales y la Administración Pública Paraestatal, en el desempeño de las actividades en apoyo de los objetivos y finalidades de los programas de la Secretaría;
+VI. Evaluar, en el ámbito de su competencia, los programas y proyectos de modernización y automatización administrativa de la Administración Pública Estatal, emitiendo recomendaciones y promoviendo el uso de las TICs, la mejora de la gestión pública y los procesos de calidad de los servicios públicos que se prestan; así como implementar, administrar y operar los sistemas de información que sean necesarios para el ejercicio de sus atribuciones;
 
-VII. Expedir los oficios de habilitación para desempeñar un cargo, empleo o comisión en la Administración Pública Estatal y municipal, previo pago de los derechos correspondientes;
+VII. Promover, coordinar, diseñar e impartir capacitaciones a las personas beneficiarias y servidoras públicas en materia de ciudadanización y contraloría social, para el control y vigilancia de la correcta aplicación de los recursos públicos en la ejecución de los programas de desarrollo social, obras, acciones y proyectos que implementa la Federación, la Administración Estatal y los Municipios, para prevenir, detectar y disuadir probables faltas administrativas y hechos de corrupción;
 
-VIII. Auxiliarse con los servicios profesionales de consultores y auditores externos, para el cumplimiento de las funciones de la Secretaría; así como, expedir las bases y lineamientos para el registro, selección, designación, remoción y evaluación de los servicios profesionales de consultores y auditores externos que practiquen auditorías en materia financiera-presupuestaria a la Administración Pública Estatal;
+VIII. Evaluar el sistema de control interno institucional y proponer las medidas que permitan el cumplimiento de las metas y objetivos institucionales, así como la mejora continua;
 
-IX. Controlar, vigilar, fiscalizar y evaluar el cumplimiento de las normas de control y los resultados de las políticas, planes, programas, así como la presupuestación, licitación, adjudicación, contratación, ejecución de obra pública y acciones de gobierno, de la Administración Pública Estatal, informando a la Persona Titular del Poder Ejecutivo Estatal los resultados;
+IX. Verificar el cumplimiento, por parte de las Secretarías, Dependencias y Organismos Auxiliares de la Administración Pública Estatal, de las disposiciones jurídicas aplicables a la gestión pública;
 
-X. Recibir y registrar en los sistemas o medios disponibles las declaraciones de situación patrimonial y de intereses de las personas servidoras públicas del Poder Ejecutivo Estatal, de conformidad con la normativa aplicable;
+X. Realizar actos de fiscalización como auditorías, revisiones, verificaciones, inspecciones, visitas, acciones de vigilancia y de aplicación del sistema de control interno, de manera presencial o por medios digitales o electrónicos, a las Secretarías, Dependencias, incluidos sus órganos administrativos desconcentrados, y Organismos Auxiliares de la Administración Pública Estatal;
 
-XI. Evaluar, en el ámbito de su competencia, los programas y proyectos de modernización y automatización administrativa de la Administración Pública Estatal, emitiendo recomendaciones y promoviendo el uso de las TICs, la mejora de la gestión pública y los procesos de calidad de los servicios públicos que se prestan; así como, implementar administrar y operar los sistemas de información que sean necesarios para el ejercicio de sus atribuciones;
+XI. Coordinar la atención y seguimiento de las auditorías practicadas por la Auditoría Superior de la Federación y demás órganos fiscalizadores al Gobierno del Estado de Morelos;
 
-XII. Evaluar, conforme a sus atribuciones, las políticas, estrategias y prioridades en la implementación de programas y acciones respecto a los trámites y servicios públicos que proporcione la Administración Pública Estatal;
+XII. Elaborar el programa anual de fiscalización orientado a promover la eficacia, eficiencia, economía y legalidad en la gestión pública;
 
-XIII. Implementar auditorías de desempeño que permitan la evaluación de todos los programas, proyectos, políticas y acciones gubernamentales, y servicios de la Administración Pública Estatal;
+XIII. Brindar a las Secretarías, Dependencias, incluidos sus órganos administrativos desconcentrados, así como a los Organismos Auxiliares de la Administración Pública Estatal el apoyo y acompañamiento que se requiera en el ejercicio de sus funciones, en especial tratándose de programas prioritarios y proyectos estratégicos;
 
-XIV. Promover, impulsar y coordinar las acciones de contraloría social y observatorios ciudadanos, para medir la eficacia y eficiencia de la Administración Pública Estatal a través de la participación social;
+XIV. Auxiliarse con los servicios profesionales de consultores y auditores externos, para el cumplimiento de las funciones de la Secretaría Anticorrupción y Buen Gobierno; así como, expedir las bases y lineamientos para el registro, renovación, selección, designación y evaluación de los servicios profesionales de consultores y auditores externos que practiquen auditorías en materia financiera-presupuestaria a la Administración Pública Estatal;
 
-XV. Asesorar y auxiliar en la formulación y presentación de denuncias por faltas administrativas y hechos de corrupción;
+XV. Designar, remover y coordinar a las personas servidoras públicas de la Secretaría Anticorrupción y Buen Gobierno, para que funjan como sus representantes en las funciones y comisiones que se requieran;
 
-XVI. Promover y establecer mecanismos internos para la Administración Pública Estatal tendientes a prevenir actos u omisiones que pudieran constituir responsabilidades administrativas;
+XVI. Designar, remover y coordinar a las personas titulares de los OIC de la Administración Pública Estatal, con excepción del OIC de la Secretaría Anticorrupción y Buen Gobierno, quien dependerá de la Persona Titular del Poder Ejecutivo Estatal;
 
-XVII. Participar en los procesos de entrega recepción de las personas servidoras públicas en términos de las disposiciones aplicables;
+XVII. Formular y conducir la política de la Administración Pública Estatal para establecer medidas que propicien la integridad y la transparencia en la gestión pública, la rendición de cuentas, el acceso por parte de los particulares a la información que aquélla genere y la protección de datos personales, de conformidad con las disposiciones jurídicas aplicables, así como promover dichas acciones hacia la sociedad;
 
-XVIII. Emitir el Código de Ética de las personas servidoras públicas de la Administración Pública Estatal y las Reglas de Integridad para el ejercicio del servicio público;
+XVIII. Establecer las políticas, bases y normativa para la determinación de la información de interés público que, en materia de anticorrupción y buen gobierno, se deba difundir proactivamente;
 
-XIX. Coadyuvar con la Jefatura de la Oficina de la Gubernatura del Estado en el uso de la firma electrónica y en la digitalización de procesos, trámites y servicios de la Administración Pública Estatal, de conformidad con la normativa aplicable;
+XIX. Emitir el Código de Ética de las personas servidoras públicas de la Administración Pública Estatal y las Reglas de Integridad para el ejercicio de la gestión pública;
 
-XX. Emitir las disposiciones que deberán observarse para ejercer y transparentar los recursos provenientes de los derechos establecidos en el artículo 108 de la Ley General de Hacienda del Estado de Morelos, y
+XX. Impulsar la transparencia proactiva y la publicación de datos en formatos accesibles a la ciudadanía; vigilar la aplicación de las políticas de gobierno digital y las de gobierno y datos abiertos de la Administración Pública Estatal, en términos de las disposiciones jurídicas aplicables;
 
-XXI. Promover e implementar la política estatal en materia de prevención y combate a la corrupción, así como las determinaciones aprobadas por el Comité Coordinador del Sistema Estatal Anticorrupción, y en su caso, adoptar las recomendaciones de medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como para mejorar el desempeño del control interno.
+XXI. Promover la formación cívica y la participación ciudadana en materia de anticorrupción y buen gobierno;
+
+XXII. Impulsar la participación de los sectores social y privado en la prevención y combate a la corrupción y mejora de la gestión pública proporcionando asesoría y auxilio en la presentación de denuncias por faltas administrativas y hechos de corrupción y, en su caso, celebrar los convenios correspondientes;
+
+XXIII. Promover, en coordinación con la Secretaría de Educación e Instituciones de Educación Superior, la inclusión de contenidos educativos sobre integridad pública y combate a la corrupción;
+
+XXIV. Participar en el establecimiento de las bases y principios de coordinación de los integrantes en el Sistema Estatal Anticorrupción y del Sistema Estatal de Fiscalización;
+
+XXV. Ejercer las atribuciones que correspondan al Poder Ejecutivo Estatal en el Sistema Estatal Anticorrupción, en términos de las disposiciones jurídicas aplicables;
+
+XXVI. Promover e implementar la política estatal en materia de prevención y combate a la corrupción, así como las determinaciones aprobadas por el Comité Coordinador del Sistema Estatal Anticorrupción, y en su caso, adoptar las recomendaciones de medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como para mejorar el desempeño del control interno;
+
+XXVII. Verificar el cumplimiento de la política de contrataciones públicas reguladas por la Ley sobre Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios del Poder Ejecutivo del Estado Libre y Soberano de Morelos y la Ley de Obra Pública y Servicios relacionados con la misma del Estado de Morelos, y proporcionar asesoría normativa con carácter preventivo en los procedimientos de contratación regulados por las leyes mencionadas, en términos de las disposiciones jurídicas aplicables;
+
+XXVIII. Acceder a la información, documentación, datos e imágenes, registros y demás relacionadas en poder de la Administración Pública Estatal que contribuyan con las investigaciones, actos de fiscalización, incluida su programación y, en general, con cualquier acción anticorrupción, para lo cual puede celebrar convenios, acuerdos y demás instrumentos jurídicos con instituciones públicas y privadas;
+
+XXIX. Participar, en términos de las disposiciones jurídicas aplicables, en la determinación de los bienes, arrendamientos o servicios de uso generalizado que, en forma consolidada, deben adquirir, arrendar o contratar las Secretarías, Dependencias, incluidos sus órganos administrativos desconcentrados, y Organismos Auxiliares de la Administración Pública Estatal;
+
+XXX. Tramitar el procedimiento de conciliación y la instancia de inconformidad, en términos de lo previsto en la Ley sobre Adquisiciones, Enajenaciones, Arrendamientos y Prestación de Servicios del Poder Ejecutivo del Estado Libre y Soberano de Morelos y la Ley de Obra Pública y Servicios relacionados con la misma del Estado de Morelos, respecto del incumplimiento de los convenios, contratos o pedidos que celebren los particulares con las Secretarías, Dependencias y Organismos Auxiliares de la Administración Pública Estatal o sobre actos ocurridos en el desarrollo del procedimiento de contratación, salvo los casos en que otras leyes establezcan procedimientos de impugnación diferentes;
+
+XXXI. Evaluar, conforme a sus atribuciones, las políticas, estrategias y prioridades en la implementación de programas y acciones respecto a los trámites y servicios públicos que proporcione la Administración Pública Estatal;
+
+XXXII. Conocer e investigar las conductas de las personas servidoras públicas de la Administración Pública Estatal y de particulares que puedan constituir responsabilidades, así como substanciar los procedimientos correspondientes, aplicar las sanciones por faltas administrativas no graves y, cuando se trate de faltas administrativas graves, ejercer la acción de responsabilidad ante el Tribunal de Justicia Administrativa, así como presentar las denuncias correspondientes ante la Fiscalía Especializada en materia de Combate a la Corrupción y ante otras autoridades competentes, en términos de las disposiciones jurídicas aplicables y, en general, ejercer las atribuciones que en materia de responsabilidades corresponden a la autoridad investigadora, a la autoridad substanciadora y a la autoridad resolutora, en términos de la Ley General de Responsabilidades Administrativas;
+
+XXXIII. Participar en los procesos de entrega recepción de las personas servidoras públicas y llevar el registro de las actas de entrega recepción de sus cargos y de las sanciones administrativas que les hayan sido impuestas a ellas o a los particulares; en términos de las disposiciones aplicables; y emitir las normas o lineamientos correspondientes;
+
+XXXIV. Coordinarse con las autoridades federales, estatales, municipales y la Administración Pública Paraestatal, en el desempeño de las actividades en apoyo de los objetivos y finalidades de los programas de la Secretaría Anticorrupción y Buen Gobierno;
+
+XXXV. Expedir los oficios de habilitación para desempeñar un cargo, empleo o comisión en la Administración Pública Estatal y municipal, previo pago de los derechos correspondientes;
+
+XXXVI. Coadyuvar con la Jefatura de la Oficina de la Gubernatura del Estado en el uso de la firma electrónica y en la digitalización de procesos, trámites y servicios de la Administración Pública Estatal, de conformidad con la normativa aplicable;
+
+XXXVII. Emitir las disposiciones que deberán observarse para ejercer y transparentar los recursos provenientes de los derechos establecidos en el artículo 108 de la Ley General de Hacienda del Estado de Morelos;
+
+XXXVIII. Recibir y registrar en los sistemas o medios disponibles las declaraciones de situación patrimonial y de intereses de las personas servidoras públicas del Poder Ejecutivo Estatal y verificar el contenido de dichas declaraciones mediante las investigaciones que resulten pertinentes, de acuerdo con las disposiciones jurídicas aplicables, así como, emitir las normas o lineamientos correspondientes, y
+
+XXXIX. Ejercer las atribuciones que le correspondan en materia de transparencia, acceso a la información pública y protección de datos personales, de conformidad con las disposiciones jurídicas aplicables, a través de la instancia que estime procedente la Persona Titular del Poder Ejecutivo Estatal.
 
 ###### Artículo 32.
 
@@ -1509,9 +1557,9 @@ La Administración Pública Paraestatal se compone por los organismos públicos 
 
 Los organismos de la Administración Pública Paraestatal conducirán sus actividades en forma programada y con sujeción a las disposiciones del Plan Estatal de Desarrollo, a su decreto o ley de creación, a los programas sectoriales correspondientes, así como a las políticas y lineamientos de coordinación de la Secretaría a la cual estén sectorizados.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2026)</small>
 
-Deberán observar, cumplir y hacer cumplir los criterios y lineamientos jurídicos que disponga la Consejería Jurídica; de igual manera, están obligados a cumplir con los lineamientos presupuestales y administrativos que establezcan la Jefatura de la Oficina de la Gubernatura, las Secretarías de Administración y Finanzas y de la Contraloría. Aplicarán, obligatoriamente, los lineamientos presupuestales, los catálogos y tabuladores de la Administración Pública Centralizada establecidos en el Presupuesto de Egresos del Estado y los instrumentos reglamentarios respectivos. La contravención a lo establecido en el presente párrafo será sancionada conforme a las disposiciones en materia de responsabilidades que resulten aplicables, sin perjuicio de las responsabilidades penales que procedan.
+Deberán observar, cumplir y hacer cumplir los criterios y lineamientos jurídicos que disponga la Consejería Jurídica; de igual manera, están obligados a cumplir con los lineamientos presupuestales y administrativos que establezcan la Jefatura de la Oficina de la Gubernatura, las Secretarías de Administración y Finanzas y Anticorrupción y Buen Gobierno. Aplicarán, obligatoriamente, los lineamientos presupuestales, los catálogos y tabuladores de la Administración Pública Centralizada establecidos en el Presupuesto de Egresos del Estado y los instrumentos reglamentarios respectivos. La contravención a lo establecido en el presente párrafo será sancionada conforme a las disposiciones en materia de responsabilidades que resulten aplicables, sin perjuicio de las responsabilidades penales que procedan.
 
 ###### Artículo 47.
 
@@ -1577,9 +1625,9 @@ Los órganos de gobierno de los organismos de la Administración Pública Paraes
 
 La persona titular de la Secretaría de Administración y Finanzas designará un representante ante los órganos de gobierno y ante los comités técnicos de los organismos de la Administración Pública Paraestatal, con la participación de las Secretarías y Dependencias que, por el objeto del organismo o por ejercer funciones de vigilancia, tengan intervención.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2026)</small>
 
-Los organismos rendirán los informes que, en su caso, requieran las Secretarías o Dependencias a que estén adscritos; obligación que cumplirán también con las Secretarías de Administración y Finanzas y de la Contraloría.
+Los organismos rendirán los informes que, en su caso, requieran las Secretarías o Dependencias a que estén adscritos; obligación que cumplirán también con las Secretarías de Administración y Finanzas y Anticorrupción y Buen Gobierno.
 
 ###### Artículo 55.
 
@@ -1633,11 +1681,11 @@ Dentro de la planeación general de actividades, elaborarán sus programas insti
 
 Para el ejercicio del gasto público, atenderán a las políticas, lineamientos y normativa, en materia de adquisiciones, arrendamientos y obra pública y los servicios relacionados con las mismas, que existan o que sean emitidos por la Persona Titular del Poder Ejecutivo Estatal y el Poder Legislativo, en su caso.
 
-> <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2026)</small>
 
 ###### Artículo 63.
 
-La Administración Pública Paraestatal administrará y dispondrá de sus recursos, por medio de sus unidades administrativas; podrá recibir subsidios y transferencias de la Secretaría de Administración y Finanzas, por conducto de la Tesorería del Estado, de acuerdo a los presupuestos anuales del Gobierno del Estado, y se sujetarán a los controles e informes que establezcan las disposiciones generales aplicables y las particulares de las Secretarías de Administración y Finanzas, y de Contraloría o de las áreas coordinadoras de sector.
+La Administración Pública Paraestatal administrará y dispondrá de sus recursos, por medio de sus unidades administrativas; podrá recibir subsidios y transferencias de la Secretaría de Administración y Finanzas, por conducto de la Tesorería del Estado, de acuerdo a los presupuestos anuales del Gobierno del Estado, y se sujetarán a los controles e informes que establezcan las disposiciones generales aplicables y las particulares de las Secretarías de Administración y Finanzas y Anticorrupción y Buen Gobierno o de las áreas coordinadoras de sector.
 
 ###### Artículo 64.
 
@@ -1727,11 +1775,13 @@ XVII. Las demás que le asignen otras leyes, reglamentos, acuerdos y disposicion
 
 ### CAPÍTULO TERCERO. DEL CONTROL, COORDINACIÓN Y EVALUACIÓN
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2026)</small>
+
 ###### Artículo 68.
 
-El OIC de la Administración Pública Paraestatal estará bajo la dirección de una persona titular de la comisaría pública dependiente de la Secretaría de la Contraloría, quien contará con el personal necesario para llevar a cabo sus funciones, de conformidad con las necesidades y en razón del presupuesto asignado a dicha Secretaría, mismas personas servidoras públicas que serán designadas por esta última y podrán fungir con tal carácter respecto de uno o varios organismos, atendiendo a las necesidades del servicio.
+El OIC de la Administración Pública Paraestatal estará bajo la dirección de una persona titular de la comisaría pública dependiente de la Secretaría Anticorrupción y Buen Gobierno, quien contará con el personal necesario para llevar a cabo sus funciones, de conformidad con las necesidades y en razón del presupuesto asignado a dicha Secretaría, mismas personas servidoras públicas que serán designadas por esta última y podrán fungir con tal carácter respecto de uno o varios organismos, atendiendo a las necesidades del servicio.
 
-Los OIC evaluarán la actividad general y por funciones de los organismos que correspondan, sin que por ello se establezca relación de trabajo alguna con estos últimos. Asimismo, realizarán estudios sobre la eficiencia con la cual se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en lo general, solicitarán la información y ejecutarán los actos que exija el cumplimiento adecuado de sus funciones, sin menoscabo de las tareas específicas que le ordene la Secretaría de la Contraloría. En tal virtud, deberán proporcionar la información que solicite el OIC, tanto el Órgano de Gobierno como la persona titular, a efecto de que aquél pueda cumplir con las funciones antes mencionadas, vigilando en todo momento el cumplimiento de indicadores de gestión.
+Los OIC evaluarán la actividad general y por funciones de los organismos que correspondan, sin que por ello se establezca relación de trabajo alguna con estos últimos. Asimismo, realizarán estudios sobre la eficiencia con la cual se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en lo general, solicitarán la información y ejecutarán los actos que exija el cumplimiento adecuado de sus funciones, sin menoscabo de las tareas específicas que le ordene la Secretaría Anticorrupción y Buen Gobierno. En tal virtud, deberán proporcionar la información que solicite el OIC, tanto el Órgano de Gobierno como la persona titular, a efecto de que aquél pueda cumplir con las funciones antes mencionadas, vigilando en todo momento el cumplimiento de indicadores de gestión.
 
 ###### Artículo 69.
 
@@ -1743,19 +1793,27 @@ II. Las personas titulares de los organismos deberán precisar las directrices p
 
 III. Las demás personas servidoras públicas del organismo descentralizado responderán cada una dentro del ámbito de sus respectivas competencias, respecto al funcionamiento adecuado del sistema que controle las operaciones que tengan a su cargo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2026)</small>
+
 ###### Artículo 70.
 
-El OIC formará parte de la estructura orgánica de la Secretaría de la Contraloría y sus actividades tendrán como finalidad apoyar la función directiva y promover el mejoramiento de gestión del organismo sobre el que ejerzan sus funciones, las cuales se realizarán de acuerdo con las instrucciones que dicte la Secretaría de la Contraloría, y se sujetarán a las bases siguientes:
+El OIC formará parte de la estructura orgánica de la Secretaría Anticorrupción y Buen Gobierno y sus actividades tendrán como finalidad apoyar la función directiva y promover el mejoramiento de gestión del organismo sobre el que ejerzan sus funciones, las cuales se realizarán de acuerdo con las instrucciones que dicte la Secretaría Anticorrupción y Buen Gobierno, y se sujetarán a las bases siguientes:
 
-I. Dependerán únicamente de la Secretaría de la Contraloría, a cuyo presupuesto se cargarán las remuneraciones correspondientes conforme al tabulador respectivo;
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2026)</small>
 
-II. Efectuarán sus actividades conforme a las reglas y bases que les permitan cumplir sus funciones con autonomía y autosuficiencia; y
+I. Dependerán únicamente de la Secretaría Anticorrupción y Buen Gobierno, a cuyo presupuesto se cargarán las remuneraciones correspondientes conforme al tabulador respectivo;
+
+> <small>(REFORMADA, P.O. 27 DE ENERO DE 2026)</small>
+
+II. Efectuarán sus actividades conforme a las reglas y bases que les permitan cumplir sus funciones con autonomía y autosuficiencia, y
 
 III. Analizarán y evaluarán los sistemas, mecanismos y procedimientos de control; realizarán revisiones y auditorías; vigilarán que el manejo y aplicación de los recursos públicos se efectúe de acuerdo con las disposiciones legales aplicables; presentarán a la persona titular del organismo, al órgano de gobierno y a las demás unidades administrativas de decisión, los informes que resulten de las revisiones, auditorías, análisis y evaluaciones que realicen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ENERO DE 2026)</small>
+
 ###### Artículo 71.
 
-Las empresas de participación estatal mayoritaria, sin dejar de aplicar lo previsto en sus estatutos y en la legislación aplicable en materia civil o mercantil, para su vigilancia, control y evaluación, deberán incorporar los OIC y contarán con el número de personas comisarias públicas que designe la Secretaría de la Contraloría, en los términos que se establecen en los artículos anteriores de la presente Ley.
+Las empresas de participación estatal mayoritaria, sin dejar de aplicar lo previsto en sus estatutos y en la legislación aplicable en materia civil o mercantil, para su vigilancia, control y evaluación, deberán incorporar los OIC y contarán con el número de personas comisarias públicas que designe la Secretaría Anticorrupción y Buen Gobierno, en los términos que se establecen en los artículos anteriores de la presente Ley.
 
 Los fideicomisos públicos regulados por esta Ley se sujetarán, en cuanto les sean compatibles, a los artículos precedentes.
 
@@ -1763,17 +1821,21 @@ Los fideicomisos públicos regulados por esta Ley se sujetarán, en cuanto les s
 
 Las Secretarías o Dependencias coordinadoras de sector, por conducto de la persona titular o representante y a través de su participación en los órganos de gobierno o consejos de administración de los organismos, recomendará las medidas adicionales que considere adecuadas para realizar las acciones que se acuerden en materia de control.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2026)</small>
+
 ###### Artículo 73.
 
-La Secretaría de la Contraloría podrá realizar visitas y auditorías a los organismos, cualquiera que sea su naturaleza, con la finalidad de supervisar el funcionamiento adecuado del sistema de control interno, así como para vigilar el cumplimiento de las responsabilidades a cargo de cada uno de los niveles de la administración señalados en esta Ley, y en su caso, para disponer lo necesario a efecto de corregir las deficiencias u omisiones a que se hubiere dado lugar.
+La Secretaría Anticorrupción y Buen Gobierno podrá realizar visitas y auditorías a los organismos, cualquiera que sea su naturaleza, con la finalidad de supervisar el funcionamiento adecuado del sistema de control interno, así como para vigilar el cumplimiento de las responsabilidades a cargo de cada uno de los niveles de la administración señalados en esta Ley, y en su caso, para disponer lo necesario a efecto de corregir las deficiencias u omisiones a que se hubiere dado lugar.
 
 ###### Artículo 74.
 
 En los casos en que el órgano de gobierno, consejo de administración o la persona titular del organismo no cumplan con las obligaciones normativas, la Persona Titular del Poder Ejecutivo Estatal por medio de las dependencias competentes, dispondrá lo conducente para corregir las deficiencias u omisiones a las disposiciones de las leyes aplicables, sin perjuicio de deslindar las responsabilidades que correspondan.
 
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2026)</small>
+
 ###### Artículo 75.
 
-En las empresas en que participe el Gobierno del Estado, porque sus estatutos o la ley le confieran la facultad de nombrar a la mayoría de los integrantes del órgano de gobierno, a la persona titular o cuando tenga facultades para vetar los acuerdos del propio órgano de gobierno, el ejercicio de tales facultades se llevará a cabo por medio de la persona comisaria pública que nombre la Secretaría de la Contraloría.
+En las empresas en que participe el Gobierno del Estado, porque sus estatutos o la ley le confieran la facultad de nombrar a la mayoría de los integrantes del órgano de gobierno, a la persona titular o cuando tenga facultades para vetar los acuerdos del propio órgano de gobierno, el ejercicio de tales facultades se llevará a cabo por medio de la persona comisaria pública que nombre la Secretaría Anticorrupción y Buen Gobierno.
 
 > <small>(REFORMADO, P.O. 3 DE OCTUBRE DE 2025)</small>
 
@@ -2118,3 +2180,61 @@ Se realizarán las acciones que correspondan en el ámbito administrativo para q
 NOVENA. En un término no mayor a sesenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, se deberá expedir el Reglamento Interior (sic) la Secretaría de Administración y Finanzas del Poder Ejecutivo Estatal; en tanto sucede esto, se mantendrán vigentes los actuales, con la aplicación por cada Secretaría o Dependencia según su ámbito de competencia, y en lo que no se opongan a lo previsto en el presente Decreto.
 
 DÉCIMA. En un término no mayor a sesenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo deberá remitir las iniciativas correspondientes para realizar la armonización a las leyes correspondientes; en tanto sucede esto, se mantendrán vigentes las actuales, con la aplicación por cada Secretaría o Dependencia según su ámbito de competencia, y en lo que no se opongan a lo previsto en el presente Decreto.
+
+P.O. 27 DE ENERO DE 2026.
+
+## [N. DE E.TRANSITORIOS DEL “DECRETO NÚMERO MIL CIENTO CINCO.- POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS, ASÍ COMO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA. Aprobado que fue por el Constituyente Permanente Local, para los efectos que disponen los artículos 56, fracción X; 147 y 148 de la Constitución Política del Estado Libre y Soberano de Morelos, se realizó la declaratoria correspondiente en Sesión de la Diputación Permanente del Primer Receso del Segundo Año de Ejercicio Constitucional.
+
+SEGUNDA. Remítase el presente decreto a la Gobernadora Constitucional del Estado, para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Dado que fue hecha la Declaratoria a que se refieren los artículos 147 y 148, de la Constitución Política del Estado Libre y Soberano de Morelos, las reformas contenidas en el presente Decreto formarán parte de la Constitución al día siguiente de su publicación.
+
+CUARTA. El Congreso del Estado tendrá un plazo no mayor a ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto, para realizar las modificaciones y adecuaciones de armonización correspondiente a las Leyes Orgánicas de los Poderes Ejecutivo, Judicial y Legislativo, así como a las leyes secundarias que correspondan, en las que tenga impacto el presente Decreto, de conformidad con las Leyes Generales en materia de transparencia y acceso a la información pública, y de protección de datos personales en posesión de sujetos obligados expedidas por el Congreso de la Unión; en tanto, se continuará aplicando de manera supletoria la legislación vigente en la materia, en lo que no se oponga al presente Decreto.
+
+Las adecuaciones legislativas que se realicen deberán considerar la eliminación de los organismos, unidades administrativas o estructuras que representen duplicidad de funciones, así como la integración de las funciones en las Secretarías o Dependencias de la Administración Pública Centralizada que puedan asumir su competencia.
+
+QUINTA. Una vez entrado en vigor el presente Decreto, se extingue el Instituto Morelense de Información Pública y Estadística; por lo que corresponderá, conforme al ámbito de sus respectivas competencias, a la Secretaría de Anticorrupción y Buen Gobierno del Poder Ejecutivo Estatal, a la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos, al Tribunal de Disciplina Judicial del Poder Judicial del Estado de Morelos, así como a los órganos internos de control de los Organismos Autónomos, asumir las funciones en materia de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, respectivamente, en los términos del presente Decreto y la legislación referida en la Disposición Cuarta Transitoria anterior.
+
+En ese sentido, se autoriza a la Persona Titular del Poder Ejecutivo Estatal, a través de las Secretarías, Dependencias y Entidades competentes, en un plazo no mayor a 60 días hábiles, contados a partir de entrada en vigor del presente Decreto, para realizar, gestionar, emitir o celebrar todos los actos jurídicos y administrativos idóneos que resulten necesarios tendientes a lograr que se le transfieran los recursos humanos, materiales, organizacionales, informáticos, financieros, presupuestales del Instituto Morelense de Información Pública y Estadística, conforme a la normativa aplicable.
+
+Por tanto, las personas comisionadas del Instituto Morelense de Información Pública y Estadística que se extingue por virtud del presente Decreto, quedan obligadas a realizar los actos jurídicos y administrativos idóneos y necesarios correspondientes para lograr la transferencia de los recursos humanos, materiales, organizacionales, informáticos, financieros, presupuestales autorizados en el Presupuesto Anual de Egresos del Estado y demás que resulten necesarios por virtud del presente instrumento; lo cual será coordinado y supervisado por las Secretarías de Administración y Finanzas y Anticorrupción y Buen Gobierno, ambas del Poder Ejecutivo Estatal, en el ámbito de sus respectivas atribuciones, contando para ello con un plazo no mayor a 60 días hábiles, contados a partir de la entrada en vigor del presente Decreto.
+
+Durante el periodo de armonización legislativa previsto en la Disposición Cuarta del presente Decreto, el Poder Ejecutivo, a través de la Secretaría Anticorrupción y Buen Gobierno, coordinará con los Poderes Legislativo y Judicial, así como con los organismos autónomos, los mecanismos de transición que se consideren idóneos y necesarios, evitando vacíos jurídicos y operativos.
+
+Durante dicho periodo, las autoridades mencionadas en el primer párrafo de la presente disposición ejercerán plenamente las funciones en materia de transparencia, acceso a la información pública y protección de datos personales, aplicando las Leyes Generales en la materia y, de forma supletoria, la legislación estatal vigente que no se oponga al presente Decreto.
+
+Los procedimientos y asuntos en trámite iniciados con anterioridad a la entrada en vigor del presente Decreto serán substanciados y resueltos por estas mismas autoridades, según corresponda. Asimismo, podrán, de manera excepcional y por un plazo máximo de 90 días naturales, suspender los plazos y términos procedimentales estrictamente necesarios para la transición institucional, sin que ello implique la suspensión del ejercicio de las funciones que les competen, ni la afectación de los derechos de acceso a la información pública y protección de datos personales o de cualquier otro derecho humano.
+
+Los actos jurídicos emitidos por el Ente Público que se extingue, con anterioridad a que entre en vigor el presente Decreto, surtirán todos sus efectos legales, siempre que no contravengan la Constitución Política del Estado Libre y Soberano de Morelos y las disposiciones de la Ley General.
+
+En el caso de los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, se entenderán como vigentes y obligarán en sus términos a las instancias que asuman las funciones de los Entes Públicos que se extinguen, según corresponda, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente, siempre que no contravengan la Constitución Política del Estado Libre y Soberano de Morelos y las disposiciones de la Ley General.
+
+Los recursos materiales, así como los expedientes, registros, padrones, plataformas y sistemas electrónicos del Ente Público que se extingue conforme al presente Decreto, pasarán a formar parte de la Secretaría Anticorrupción y Buen Gobierno del Poder Ejecutivo Estatal, en los términos del presente Decreto, quien, en su caso, podrá celebrar convenios de colaboración con las instancias previstas en el primer párrafo de la presente Disposición Transitoria a efecto de compartir los recursos informáticos que correspondan.
+
+SEXTA. El nombramiento de la persona titular del Ente que se extingue, así como de las personas Comisionadas del Instituto Morelense de Información Pública y Estadística, que actualmente se encuentren en funciones, cesarán sus efectos a la entrada en vigor del presente Decreto, con excepción de aquellos cuya vigencia concluya previamente.
+
+Lo anterior, sin que constituya destitución ni genere derecho alguno a indemnización, compensación, liquidación o pago de haberes futuros, por tratarse de un cargo de naturaleza pública, temporal y de ejercicio condicionado a la existencia de un órgano; de ahí únicamente serán exigibles las remuneraciones efectivamente devengadas y no cubiertas con anterioridad.
+
+Se dejan sin efectos las disposiciones reglamentarias o administrativas que establezcan derechos o compensaciones incompatibles con las disposiciones de la Constitución Política del Estado Libre y Soberano de Morelos y el presente Decreto.
+
+Todo ello, sin que queden relegadas de la obligación de realizar los actos correspondientes de entrega-recepción institucional e individual, según corresponda, así como a celebrar todos los actos jurídicos y administrativos idóneos que resulten necesarios al efecto, conforme a la normativa aplicable.
+
+SÉPTIMA. Los derechos laborales de las personas servidoras públicas del Ente Público que se extingue serán respetados, en términos de la normativa aplicable.
+
+OCTAVA. Las atribuciones, facultades, competencias y funciones conferidas a la Secretaría que se crea mediante el presente Decreto no serán aplicables al Poder Legislativo del Estado de Morelos, ni a los órganos que lo integran, hasta en tanto el Congreso del Estado realice las reformas de armonización correspondientes a la Ley Orgánica para el Congreso del Estado de Morelos y demás disposiciones internas, en ejercicio de su autonomía constitucional.
+
+NOVENA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan a lo establecido en el presente Decreto.
+
+DÉCIMA. Las menciones, atribuciones o funciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto al Instituto Morelense de Información Pública y Estadística, se entenderán hechas o conferidas a la Secretaría Anticorrupción y Buen Gobierno del Poder Ejecutivo Estatal, y a los entes públicos que adquieren tales atribuciones o funciones, según corresponda en términos de la Ley General y demás normativa aplicable.
+
+DÉCIMA PRIMERA. En lo referente a las reformas a la Ley Orgánica de la Administración Pública para el Estado Libre y Soberano de Morelos, dado que fue efectuado lo señalado por la Disposición Transitoria TERCERA, remítase el presente Decreto, a la Persona Titular del Poder Ejecutivo Estatal de Morelos, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+Una vez efectuado lo señalado en el párrafo anterior, las reformas contenidas y aprobadas por virtud del ARTÍCULO SEGUNDO del presente Decreto iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+DÉCIMA SEGUNDA. En un término no mayor a sesenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, se deberá expedir el Reglamento Interior de la Secretaría Anticorrupción y Buen Gobierno del Poder Ejecutivo Estatal; en tanto sucede esto, se mantendrá vigente el actual, en lo que no se opongan a lo previsto en el presente Decreto.
+
+DÉCIMA TERCERA. Las menciones y atribuciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto de la Secretaría de la Controlaría del Poder Ejecutivo Estatal se entenderán hechas o conferidas a la Secretaría Anticorrupción y Buen Gobierno del Poder Ejecutivo Estatal o a las unidades administrativas de su adscripción que resulten competentes conforme al Reglamento Interior que se expida para tal efecto.
+
+DÉCIMA SEXTA (sic). La Persona Titular del Poder Ejecutivo está facultada para interpretar las disposiciones relativas a las reformas que por virtud del presente Decreto se realizan a la Ley Orgánica de la administración Pública para el Estado Libre y Soberano de Morelos, para efectos administrativos.
