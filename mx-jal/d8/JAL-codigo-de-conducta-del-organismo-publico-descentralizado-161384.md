@@ -4,7 +4,7 @@ identifier: "JAL-codigo-de-conducta-del-organismo-publico-descentralizado-161384
 country: "mx"
 rank: "codigo"
 publication_date: "2022-12-15"
-last_updated: "2022-12-15"
+last_updated: "2026-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # CODIGO DE CONDUCTA DEL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO CENTRO DE CONCILIACION LABORAL DEL ESTADO DE JALISCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 27 DE ENERO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2026 (ABROGADO).
 
 Código publicado en la Sección VIII del Número 5 del Periódico Oficial del Estado de Jalisco, el jueves 15 de diciembre de 2022.
 
@@ -712,3 +714,13 @@ Vocal del Comité
 Maricela Vázquez Guerrero
 
 Secretaria Ejecutiva del Comité
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE JALISCO".]
+
+Primero.- El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+Segundo.- Se abroga el "Código de Conducta del Organismo Público Descentralizado Denominado Centro de Conciliación Laboral del Estado de Jalisco", publicado en el Periódico Oficial "El Estado de Jalisco", el día 15 de diciembre del 2022, número 5, sección VIII, tomo CDVI.
