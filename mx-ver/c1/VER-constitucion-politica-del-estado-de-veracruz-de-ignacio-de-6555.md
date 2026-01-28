@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2025-12-04"
+last_updated: "2026-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE ENERO DE 2026.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -369,6 +369,14 @@ Las personas serán igualmente responsables en la preservación, restauración y
 
 El Estado garantiza a todas las personas el derecho de acceso a los servicios de agua potable, en cantidad suficiente y en condiciones de seguridad y calidad para satisfacer necesidades personales y domésticas.
 
+> <small>(ADICIONADO, G.O. 28 DE ENERO DE 2026)</small>
+
+Esta Constitución y las leyes del Estado reconocen a los animales como seres sintientes sujetos de una especial protección, para garantizar su bienestar integral a través de un trato digno y respetuoso, y así procurar las bases para una convivencia armónica entre el ser humano y el resto de las especies.
+
+> <small>(ADICIONADO, G.O. 28 DE ENERO DE 2026)</small>
+
+En el Estado toda persona tiene el deber ético y la obligación jurídica de respetar la vida y la integridad de los animales. las leyes determinarán las medidas de protección de los animales, incluida la atención a aquellos en situación de maltrato, crueldad o abandono. Además, establecerán las bases para regular el trato hacia los animales en todas las actividades humanas, asegurando su bienestar conforme a su naturaleza, así como la implementación de programas de educación y concientización sobre una tutela responsable.
+
 > <small>(ADICIONADO PRIMER PÁRRAFO, G.O. 10 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 9.
@@ -399,7 +407,9 @@ La educación en Veracruz se orientará por los siguientes principios:
 
 I. Contribuirá a la mejor convivencia humana, a fin de fortalecer el aprecio y respeto por la naturaleza, la diversidad cultural, la dignidad de la persona, la integridad de las familias, la convicción del interés general de la sociedad, los ideales de fraternidad e igualdad de derechos de todas las personas, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos;
 
-II. Promoverá los valores familiares y sociales que tiendan a la solidaridad humana, la preservación de la naturaleza y los centros urbanos y el respeto a la ley;
+> <small>(REFORMADA, G.O. 28 DE ENERO DE 2026)</small>
+
+II. Promoverá los valores familiares y sociales que tiendan a la solidaridad humana, la preservación de la naturaleza, de los centros urbanos, el respeto y trato digno a los animales, así como el respeto a la ley;
 
 III. Desarrollará y promoverá el enriquecimiento, conservación y difusión de los bienes que integran el patrimonio artístico, histórico, científico y cultural;
 
@@ -423,7 +433,9 @@ I. el Estado impulsará la educación en todos sus niveles y modalidades, y esta
 
 II. Las maestras y los maestros son agentes fundamentales del proceso educativo y, por tanto, se reconoce su contribución a la transformación social;
 
-III. Los programas educativos podrán ser complementados con aspectos que consideren las realidades y contextos, regionales y locales, incluyendo la investigación de la geografía, historia y cultura de Veracruz, así como su papel en el desarrollo de la nación mexicana y en el contexto internacional;
+> <small>(REFORMADA, G.O. 28 DE ENERO DE 2026)</small>
+
+III. Los programas educativos podrán ser complementados con aspectos que consideren las realidades y contextos, regionales y locales, incluyendo la investigación de la geografía, historia y cultura de Veracruz, así como su papel en el desarrollo de la nación mexicana y en el contexto internacional; de igual forma, incluirán la promoción del respeto, la tutela responsable, el trato digno y la protección de los animales como parte de una educación ambiental, ética y cívica integral;
 
 IV. Los planteles educativos constituyen un espacio fundamental para el proceso de enseñanza y aprendizaje. El Estado garantizará que los materiales didácticos, la infraestructura educativa, su mantenimiento y las condiciones del entorno sean idóneos y contribuyan a los fines de la educación;
 
@@ -973,9 +985,9 @@ II. Dar la interpretación auténtica de las leyes o decretos;
 
 III. Iniciar ante el Congreso de la Unión las leyes o decretos que sean competencia del Poder Legislativo de la Federación, así como su reforma o abolición, y secundar, cuando lo estime conveniente, las iniciativas que presenten los Congresos de otros Estados;
 
-> <small>(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.O. 28 DE ENERO DE 2026)</small>
 
-IV. Legislar en materia de educación; de cultura y deporte; profesiones; bienes, aguas y vías de comunicación de jurisdicción local; de salud y asistencia social; combate al alcoholismo, tabaquismo y drogadicción; de prostitución; de seguridad humana, desarrollo social y comunitario; de protección al ambiente y de restauración del equilibrio ecológico; de turismo; de desarrollo regional y urbano; de desarrollo agropecuario, forestal y pesquero; de comunicación social; de municipio libre; de relaciones de trabajo del Gobierno del Estado o los ayuntamientos y sus trabajadores; de promoción al acceso universal a internet y otras tecnologías de la información y las comunicaciones emergentes; de acceso a la información y protección de datos personales que generen o posean los sujetos obligados; de responsabilidades de los servidores públicos; de planeación para reglamentar la formulación, instrumentación, control, evaluación y actualización del Plan Veracruzano de Desarrollo, cuidando que la planeación del desarrollo económico y social sea democrática y obligatoria para el poder público; así como expedir las leyes, decretos o acuerdos necesarios al régimen interior y al bienestar del Estado; sin perjuicio de legislar en los demás asuntos de su competencia;
+IV. Legislar en materia de educación; de cultura y deporte; profesiones; bienes, aguas y vías de comunicación de jurisdicción local; de salud y asistencia social; combate al alcoholismo, tabaquismo y drogadicción; de prostitución; de seguridad humana, desarrollo social y comunitario; de protección al ambiente y de restauración del equilibrio ecológico; de especial protección, bienestar y de trato digno y respetuoso a los animales; de turismo; de desarrollo regional y urbano; de desarrollo agropecuario, forestal y pesquero; de comunicación social; de municipio libre; de relaciones de trabajo del Gobierno del Estado o los ayuntamientos y sus trabajadores; de promoción al acceso universal a internet y otras tecnologías de la información y las comunicaciones emergentes; de acceso a la información y protección de datos personales que generen o posean los sujetos obligados; de responsabilidades de los servidores públicos; de planeación para reglamentar la formulación, instrumentación, control, evaluación y actualización del Plan Veracruzano de Desarrollo, cuidando que la planeación del desarrollo económico y social sea democrática y obligatoria para el poder público; así como expedir las leyes, decretos o acuerdos necesarios al régimen interior y al bienestar del Estado; sin perjuicio de legislar en los demás asuntos de su competencia;
 
 V. Darse su Ley Orgánica, y la demás normatividad interior necesaria para el adecuado desarrollo de sus funciones, las que no requerirán de la promulgación del Ejecutivo para tener vigencia;
 
@@ -2459,13 +2471,17 @@ XIV. Para dictar disposiciones que afecten al patrimonio inmobiliario municipal,
 
 XV. La policía municipal preventiva estará bajo el mando del presidente municipal, en términos del reglamento correspondiente. Dicha policía acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público;
 
-> <small>(REFORMADA, G.O. 11 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, G.O. 28 DE ENERO DE 2026)</small>
 
-XVI. Convocar, en los términos que establezcan esta Constitución y la ley, a referendo o plebiscito, cuyos resultados serán obligatorios para las autoridades competentes; y
+XVI. Convocar, en los términos que establezcan esta Constitución y la ley, a referendo o plebiscito, cuyos resultados serán obligatorios para las autoridades competentes;
 
-> <small>(ADICIONADA, G.O. 11 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, G.O. 28 DE ENERO DE 2026)</small>
 
-XVII. En los nombramientos o designaciones de las personas titulares de las dependencias, entidades y órganos de la Administración Pública Municipal, se observará el principio de paridad de género, con las formas y modalidades establecidas en la Ley.
+XVII. En los nombramientos o designaciones de las personas titulares de las dependencias, entidades y órganos de la Administración Pública Municipal, se observará el principio de paridad de género, con las formas y modalidades establecidas en la Ley; y
+
+> <small>(ADICIONADA, G.O. 28 DE ENERO DE 2026)</small>
+
+XVIII. Los Ayuntamientos deberán establecer políticas, reglamentos y programas para la especial protección y bienestar de los animales, garantizando su trato digno y respetuoso, así como promover la educación y cultura de respeto hacia todas las especies, en coordinación con las autoridades competentes del Estado y la Federación, conforme a las leyes aplicables.
 
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -4460,5 +4476,15 @@ G.O. 4 DE DICIEMBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
 
 SEGUNDO. El Congreso del Estado, dentro de un plazo de ciento veinte días naturales siguientes a la entrada en vigor del presente decreto, realizará las adecuaciones a la Ley Orgánica de la Fiscalía General del Estado de Veracruz de Ignacio de la Llave.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 28 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 497 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz.
+
+SEGUNDO. Los municipios del Estado de Veracruz de Ignacio de la Llave contarán con un plazo de ciento ochenta días para que sus Ayuntamientos actualicen su normatividad interna, bandos de policía y buen gobierno, reglamentos, y para la capacitación de su personal, garantizando la correcta aplicación del presente Decreto.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
