@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-administracion-publica-para-el-estado-174626
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-09-30"
-last_updated: "2026-01-27"
+last_updated: "2026-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174626&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2026.
 
 Ley publicada en la Edición Extraordinaria Número 6349 del Periódico Oficial del Estado de Morelos, el lunes 30 de septiembre de 2024.
 
@@ -1435,9 +1435,17 @@ XXVIII. Coordinar las unidades policiales para instrumentar estrategias operativ
 
 XXIX. Coordinar y prestar los servicios de seguridad pública, vigilancia y protección regional en caminos y carreteras de competencia estatal, a través de una división de carreteras estatales de Morelos, disponiendo su estructura, atribuciones, colaboración y coordinación institucional; dotándola de los recursos humanos, materiales, financieros y tecnológicos para su eficiente operación, sin invadir la competencia constitucional de los Municipios en materia de tránsito;
 
-XXX. Emitir los mecanismos, programas y protocolos necesarios para la atención, orientación, canalización, información y protección eficaz y oportuna a las personas en situación de víctimas del delito y a las pertenecientes a grupos en situación de vulnerabilidad, y
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2026)</small>
 
-XXXI. Supervisar la adecuada implementación de lineamientos específicos y estrategias para garantizar que la atención de las personas en situación de víctimas del delito y las pertenecientes a grupos en situación de vulnerabilidad sea brindada bajo los enfoques de derechos humanos, psicosocial, de género, diferencial y especializado.
+XXX. Emitir los mecanismos, programas y protocolos necesarios para la atención, orientación, canalización, información y protección eficaz y oportuna a las personas en situación de víctimas del delito y a las pertenecientes a grupos en situación de vulnerabilidad;
+
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2026)</small>
+
+XXXI. Supervisar la adecuada implementación de lineamientos específicos y estrategias para garantizar que la atención de las personas en situación de víctimas del delito y las pertenecientes a grupos en situación de vulnerabilidad sea brindada bajo los enfoques de derechos humanos, psicosocial, de género, diferencial y especializado, y
+
+> <small>(ADICIONADA, P.O. 28 DE ENERO DE 2026)</small>
+
+XXXII. Diseñar, elaborar e implementar, en el ámbito de su competencia, la Estrategia Estatal para Prevenir y Combatir el Delito de Extorsión, en términos de lo dispuesto por los artículos 42 y 43 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### Artículo 38.
 
@@ -2238,3 +2246,17 @@ DÉCIMA SEGUNDA. En un término no mayor a sesenta días hábiles, contados a pa
 DÉCIMA TERCERA. Las menciones y atribuciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto de la Secretaría de la Controlaría del Poder Ejecutivo Estatal se entenderán hechas o conferidas a la Secretaría Anticorrupción y Buen Gobierno del Poder Ejecutivo Estatal o a las unidades administrativas de su adscripción que resulten competentes conforme al Reglamento Interior que se expida para tal efecto.
 
 DÉCIMA SEXTA (sic). La Persona Titular del Poder Ejecutivo está facultada para interpretar las disposiciones relativas a las reformas que por virtud del presente Decreto se realizan a la Ley Orgánica de la administración Pública para el Estado Libre y Soberano de Morelos, para efectos administrativos.
+
+P.O. 28 DE ENERO DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NÚMERO MIL SESENTA Y SEIS POR EL QUE SE DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS Y SE ADICIONA LA FRACCIÓN XXXII AL ARTÍCULO 37 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS".]</small>
+
+PRIMERA. Remítase el presente Decreto a la titular del Poder Ejecutivo para su publicación respectiva en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del estado de Morelos, en términos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del estado de Morelos.
+
+TERCERA. Los procedimientos penales iniciados con anterioridad a la entrada en vigor de la "Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos", con motivo de hechos que se hubiesen subsumido en los artículos 146, 146 BIS y 146 TER del Código Penal para el Estado de Morelos, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos, salvo que la aplicación de la Ley General resulte más benéfica para la persona imputada o sentenciada, en cuyo caso deberá estarse a lo dispuesto por el artículo 14 de la Constitución Política de los Estados Unidos Mexicanos y por los transitorios Segundo y Cuarto del decreto federal que expide la citada Ley General.
+
+CUARTA. A partir de la entrada en vigor del presente Decreto, en el ámbito del Estado de Morelos, toda referencia normativa al delito de extorsión contenida en leyes, reglamentos y demás disposiciones locales se entenderá hecha al delito de extorsión previsto en la "Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos", en términos de lo dispuesto por el transitorio Segundo del decreto por el que se expidió la citada Ley General.
+
+QUINTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
