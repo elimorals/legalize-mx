@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2025-10-29"
+last_updated: "2026-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2026.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -1935,8 +1935,6 @@ Si el agente pone en libertad al ofendido, espontáneamente, dentro de los tres 
 
 ### CAPITULO IV. EXTORSION
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
-
 ###### ARTICULO 143.
 
 (DEROGADO, P.O. 25 DE MARZO DE 2009)
@@ -1949,127 +1947,19 @@ Si el agente pone en libertad al ofendido, espontáneamente, dentro de los tres 
 
 (DEROGADO, P.O. 25 DE MARZO DE 2009)
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE ENERO DE 2026)</small>
+
 ### CAPITULO V. AMENAZAS
 
 > <small>(REFORMADO, P.O. 29 DE JULIO DE 2009)</small>
 
 ###### ARTICULO 146.
 
-Al que por cualquier medio ilícito ejerza coacción sobre una persona para que permita, haga, deje de hacer o entregue algo, se le impondrán de quince a veinte años de prisión y multa de un mil a dos mil veces el importe del valor diario de la Unidad de Medida y Actualización vigente en el momento de la comisión del delito, sin perjuicio de la sanción aplicable para los demás delitos que resulten.
+(DEROGADO, P.O. 28 DE ENERO DE 2026)
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+ARTICULO 146 BIS.- (DEROGADO, P.O. 28 DE ENERO DE 2026)
 
-Las penas previstas en el primer párrafo se aumentarán hasta en dos terceras partes, cuando el delito se cometa en alguna de las siguientes circunstancias:
-
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2023)</small>
-
-I. Si el autor de la extorsión obtiene lo que se propuso;
-
-> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2025)</small>
-
-II. Intervenga una o más personas portando armas de fuego, o portando juguetes con apariencia de ser armas de fuego, o en su caso portando objetos o mecanismos con apariencia de armas de fuego, de las que están catalogadas como prohibidas en este código penal. Si durante la comisión del delito se hace uso activo de las armas de fuego, objetos o juguetes mencionados, entendiéndose por uso activo su empleo para amenazar, intimidar o causar daño, la pena prevista para el delito se incrementará hasta en el doble;
-
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2023)</small>
-
-III. Se emplee violencia psicológica o física que ponga en peligro la integridad de la víctima o personas con las que ésa tenga vínculos de parentesco, sentimentales o laborales;
-
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2023)</small>
-
-IV. Cuando el sujeto activo se encuentre privado de su libertad bajo cualquier circunstancia en un Centro Penitenciario Estatal o Federal, o a disposición de cualquier autoridad;
-
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2023)</small>
-
-V. Cuando en la comisión del delito se utilice la comunicación vía telefónica, o cualquier otro medio de comunicación electrónica o de redes sociales;
-
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2023)</small>
-
-VI. Cuando el sujeto activo tenga vínculos de tipo laboral, sentimental, familiar, vecinal, escolar o comercial con la víctima;
-
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2023)</small>
-
-VII. Cuando el sujeto activo aceche, vigile a la víctima o cumpla cualquier amenaza proferida para obtener su propósito, entendiéndose aquellos actos que atenten contra la integridad física o emocional de la víctima, sus familiares o en su patrimonio;
-
-> <small>(REFORMADA, P.O. 1 DE FEBRERO DE 2023)</small>
-
-VIII. Cuando el sujeto activo sea elemento o haya pertenecido a instituciones de seguridad pública o privada, procuración de justicia, administración de justicia o militares, o se ostente como tal sin serlo. En este caso se le inhabilitará para ejercer algún cargo público y se suspenderá en el ejercicio de su profesión hasta por el mismo tiempo de la sanción impuesta;
-
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
-
-IX. Cuando la víctima sea alguna asociación civil, sociedad mercantil o una agrupación de facto, por cualquiera que sea su actividad;
-
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
-
-X. Cuando la víctima sea alguna institución pública o siendo una persona servidora pública verse sobre su función;
-
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
-
-XI. Cuando la actividad de la víctima esté relacionada con el sector agropecuario, turístico, educativo, deportivo, comercial o productivo, de bienes o servicios, al transporte público, de personas, materiales o mercancías, con o sin autorización oficial;
-
-> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2025)</small>
-
-XII. Cuando la comisión del delito recaiga sobre bienes muebles, inmuebles o animales; o cuando se realice ocasionando daños en las instalaciones de comercios, negocios o bienes en propiedad o posesión de la víctima;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
-
-XIII. Cuando la comisión del delito tenga por objeto o resultado obstaculizar, restringir, impedir, anular o menoscabar el ejercicio el (sic) derecho a la libertad de expresión, a la libertad de culto o a la defensa de derechos humanos;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
-
-XIV. Cuando el sujeto activo utilice en la comisión del delito información privada o datos personales, imágenes, audios, textos o videos, reales, manipulados o alterados, de la víctima;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
-
-XV. Cuando el propósito del delito sea distribuir, comercializar o consumir cualesquiera de las sustancias ilícitas y prohibidas por la Ley General de Salud;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
-
-XVI. Cuando el sujeto activo sea una persona servidora pública; y
-
-> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2025)</small>
-
-XVII. Cuando la víctima sea una niña, niño, adolescente, no tenga la capacidad para comprender el significado del hecho o pertenezca a un grupo en condiciones de vulnerabilidad; y
-
-> <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2025)</small>
-
-XVIII. Cuando se emplee violencia física o psicológica para exigir el pago de un daño, derivado de un hecho de tránsito, real o simulado, que se le imputa a la víctima, pero ha sido provocado por el sujeto activo de la extorsión para obtener el lucro indebido.
-
-> <small>(REFORMADO [N. DE E. REUBICADO ANTES PÁRRAFO SEGUNDO], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
-
-Se aplicarán las penas previstas a quienes faciliten o utilicen su cuenta bancaria para que se le realicen depósitos de dinero producto de la extorsión, u obtengan algún beneficio por la comisión de este delito.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
-
-Además, de las penas previstas, en el caso de personas servidoras públicas, se les impondrán la destitución del cargo, empleo o comisión pública, se le inhabilitará hasta por un periodo igual al término de la pena que se imponga; y se le suspenderá por el mismo término el derecho para ejercer actividades en corporaciones de seguridad privada.
-
-> <small>(ADICIONADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
-
-ARTICULO 146 BIS.- Se equipara al delito de extorsión y se le impondrán de quince a veinte años de prisión y multa de un mil a dos mil veces el importe del valor diario de la Unidad de Medida y Actualización vigente en el momento de la comisión del delito, sin perjuicio de la sanción aplicable para los demás delitos que resulten, a:
-
-I. El sujeto activo sea una persona servidora pública que omita la denuncia del delito de extorsión del que tenga conocimiento, sea partícipe del mismo o lo consienta, por acción u omisión, si está dentro de sus facultades evitarlo;
-
-II. El sujeto activo sea una persona servidora pública que, mediante el uso de la fuerza pública, o por negligencia o descuido, coloque a la víctima de extorsión en una situación de riesgo;
-
-III. El sujeto activo sea una persona servidora pública que, por acción u omisión, facilite los medios tecnológicos, digitales o físicos, en su totalidad o sus componentes, para la comisión del delito de extorsión por personas privadas de la libertad, bajo su custodia o vigilancia; o
-
-IV. El sujeto activo sea una persona servidora pública o cualquier otro sujeto obligado a la protección de datos personales que aproveche su situación para proporcionar información a cualquier persona, organización o grupo delincuencial, con la finalidad de cometer el delito de extorsión.
-
-Además, de las penas previstas, en el caso de personas servidoras públicas, se les impondrán la destitución del cargo, empleo o comisión pública, se le inhabilitará hasta por un periodo igual al término de la pena que se imponga; y se le suspenderá por el mismo término el derecho para ejercer actividades en corporaciones de seguridad privada.
-
-> <small>(ADICIONADO, P.O. 10 DE SEPTIEMBRE DE 2025)</small>
-
-ARTICULO 146 TER.- Se aplicará pena de ocho a dieciséis años de prisión y de quinientos a mil veces el importe del valor diario de la Unidad de Medida y Actualización vigente en el momento de la comisión del delito, sin perjuicio de la sanción aplicable para los demás delitos que resulten, a quien:
-
-I. Después de la ejecución de cualquiera de las conductas previstas en el artículo 146 del presente Código, y sin haber participado en cualquiera de ellas, adquiera o reciba el producto de estas a sabiendas de esta circunstancia;
-
-II. Preste auxilio o cooperación al autor de cualquiera de las conductas previstas en el artículo 146 del presente Código, con conocimiento de esta circunstancia;
-
-III. Oculte o favorezca el ocultamiento del responsable de ejecutar cualquiera de las conductas previstas en el artículo 146 del presente Código, con conocimiento de esta circunstancia, así como los efectos, objetos o instrumentos de este o impida que se averigüe;
-
-IV. Altere, modifique o destruya ilícitamente el lugar, indicios, evidencias, objetos, instrumentos o productos del hecho delictivo;
-
-V. Posea documentos físicos o digitales que contengan amenazas explicitas o sutiles con la intención de obtener un lucro indebido, cuando dichas comunicaciones estén destinadas a una víctima identificable o puedan razonablemente ser utilizadas para ejercer presión sobre una persona.
-
-En el caso del presente artículo, el delito se perseguirá de oficio.
+ARTICULO 146 TER.- (DEROGADO, P.O. 28 DE ENERO DE 2026)
 
 ### CAPITULO VI. ASALTO
 
@@ -6344,3 +6234,17 @@ PRIMERA. Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal 
 SEGUNDA. El presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 28 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL SESENTA Y SEIS-POR EL QUE SE DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS Y SE ADICIONA LA FRACCIÓN XXXII AL ARTÍCULO 37 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto a la titular del Poder Ejecutivo para su publicación respectiva en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del estado de Morelos, en términos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del estado de Morelos.
+
+TERCERA. Los procedimientos penales iniciados con anterioridad a la entrada en vigor de la “Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos”, con motivo de hechos que se hubiesen subsumido en los artículos 146, 146 BIS y 146 TER del Código Penal para el Estado de Morelos, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos, salvo que la aplicación de la Ley General resulte más benéfica para la persona imputada o sentenciada, en cuyo caso deberá estarse a lo dispuesto por el artículo 14 de la Constitución Política de los Estados Unidos Mexicanos y por los transitorios Segundo y Cuarto del decreto federal que expide la citada Ley General.
+
+CUARTA. A partir de la entrada en vigor del presente Decreto, en el ámbito del Estado de Morelos, toda referencia normativa al delito de extorsión contenida en leyes, reglamentos y demás disposiciones locales se entenderá hecha al delito de extorsión previsto en la “Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos”, en términos de lo dispuesto por el transitorio Segundo del decreto por el que se expidió la citada Ley General.
+
+QUINTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
