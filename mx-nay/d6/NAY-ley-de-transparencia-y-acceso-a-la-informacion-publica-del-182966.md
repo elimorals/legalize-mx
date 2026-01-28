@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1829
 country: "mx"
 rank: "ley"
 publication_date: "2025-12-29"
-last_updated: "2025-12-29"
+last_updated: "2026-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=182966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE NAYARIT
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 28 DE ENERO DE 2026 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE NAYARIT
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 28 DE ENERO DE 2026.]</small>
 
 Ley publicada en la Sección Décima Primera del Número 117 del Periódico Oficial del Estado de Nayarit, el lunes 29 de diciembre de 2025.
 
@@ -435,9 +435,11 @@ V. La persona titular de la Secretaría Ejecutiva del Sistema Local Anticorrupci
 
 Las y los integrantes del Órgano de Gobierno deberán contar con un suplente para el caso de sus ausencias.
 
+> <small>(F. DE E., P.O. 28 DE ENERO DE 2026)</small>
+
 ###### Artículo 29.
 
-Titular de la Agencia. Su titularidad estará a cargo de una Directora o un Director del organismo desconcentrado, quien será nombrado y removido por la persona titular del Poder Ejecutivo del Estado. Para ser nombrada deberá reunir los siguientes requisitos:
+Titular de la Agencia. Su titularidad estará a cargo de una Directora General o un Director General del organismo desconcentrado, quien será nombrado y removido por la persona titular del Poder Ejecutivo del Estado. Para ser nombrada deberá reunir los siguientes requisitos:
 
 I. Tener ciudadanía mexicana en pleno ejercicio de sus derechos;
 
@@ -2209,7 +2211,9 @@ NOVENO. Los registros, padrones y sistemas informáticos, con los que cuenta el 
 
 DÉCIMO. Los expedientes y archivos que a la publicación del presente Decreto estén a cargo del Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit, para el ejercicio de sus facultades sustantivas, competencias o funciones, de conformidad con la Ley General de Archivos y demás disposiciones jurídicas aplicables, serán transferidos a la Secretaría General de Gobierno dentro de los diez días siguientes a la publicación del presente Decreto.
 
-La Secretaría General de Gobierno, dentro de los treinta días naturales siguientes contados a partir de que se reciban los expedientes y archivos que se mencionan en el párrafo anterior, dentro de los treinta días naturales siguientes contados a partir de que se reciban los expedientes y archivos que se mencionan en el párrafo anterior, podrá transferirlos a la autoridad correspondiente.
+> <small>(F. DE E., P.O. 28 DE ENERO DE 2026)</small>
+
+La Secretaría General de Gobierno, dentro de los treinta días naturales siguientes contados a partir de que reciban los expedientes y archivos que se mencionan en el párrafo anterior, podrá transferirlos a la autoridad correspondiente.
 
 DÉCIMO PRIMERO. El Órgano Interno de Control del Instituto de Transparencia y Acceso a la Información Pública del Estado de Nayarit queda extinto y sus asuntos y procedimientos que a la publicación del presente Decreto estén a su cargo, así como los expedientes y archivos, serán transferidos a la Secretaría para la Honestidad y Buena Gobernanza dentro de los diez días hábiles siguientes a su publicación, y serán tramitados y resueltos por dicho órgano conforme a las disposiciones jurídicas vigentes al momento de su inicio.
 
