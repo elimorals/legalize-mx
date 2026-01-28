@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-de-la-secretaria-de-desarrollo-economico-164
 country: "mx"
 rank: "codigo"
 publication_date: "2023-03-01"
-last_updated: "2023-03-01"
+last_updated: "2026-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=164762&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE DESARROLLO ECONOMICO Y DEL TRABAJO DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TERCERA TRANSITORIA DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE DESARROLLO ECONÓMICO Y DEL TRABAJO DEL PODER EJECUTIVO ESTATAL, PUBLICADO EN EL P.O. DE 28 DE ENERO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE DESARROLLO ECONÓMICO Y DEL TRABAJO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2026 (ABROGADO).
 
 Código publicado en el Número 6173 del Periódico Oficial del Estado de Morelos, el miércoles 1 de marzo de 2023.
 
@@ -206,3 +208,19 @@ ANA CECILIA RODRÍGUEZ GONZÁLEZ
 Secretaria de Desarrollo Económico y del Trabajo
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE ENERO DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL “CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE DESARROLLO ECONÓMICO Y DEL TRABAJO DEL PODER EJECUTIVO ESTATAL”.]</small>
+
+PRIMERA. El presente Código de Conducta entrará en vigor a partir del día siguiente de su publicación, en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. Se derogan las disposiciones reglamentarias o administrativas de igual o menor rango que se opongan al presente Código.
+
+TERCERA. Se abroga el Código de Conducta de la Secretaría de Desarrollo Económico y del Trabajo, publicado en el Periódico Oficial “Tierra y Libertad”, número 6173, de fecha 01 de marzo de 2023.
+
+CUARTA. Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente Código de Conducta se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
+
+QUINTA. Se instruye a la persona titular de la Unidad de Enlace Financiero Administrativo de la Secretaría a dar a conocer en la página oficial de la Secretaría, así como al personal de dicha dependencia el presente Código de Conducta. Acción que realizará en lo sucesivo también con respecto al personal que sea de nuevo ingreso.
