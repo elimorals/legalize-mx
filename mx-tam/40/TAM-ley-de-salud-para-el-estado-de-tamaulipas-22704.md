@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2025-11-27"
+last_updated: "2026-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -783,9 +783,9 @@ VII.- La salud sexual y reproductiva de las personas, que incluye la planificaci
 
 VIII.- La salud mental, las adicciones, así como la detección y atención de la depresión, y prevención el (sic) suicidio;
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 28 DE ENERO DE 2026)</small>
 
-IX.- La atención del adulto mayor;
+IX.- Atención médica integral para personas adultas mayores, incluyendo servicios de salud generales y geriátricos;
 
 > <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1221,13 +1221,17 @@ La Cartilla Estatal de Salud de la Mujer será obligatoria en todo el Estado y t
 
 Las mujeres deberán acatar las eventualidades que se registren en dicha cartilla, de igual manera la pareja de la mujer sea del género que fuere, respetará y cumplirá con las disposiciones médicas que se establezcan en dicho documento.
 
-> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ENERO DE 2026)</small>
 
 ###### ARTICULO 39.
 
-La atención a la salud del Adulto mayor incluirá el derecho a recibir servicios de salud preventivos, atención médico general y especializada, así como medicina física y de rehabilitación en las unidades de salud del estado.
+La atención a la salud del adulto mayor incluirá el derecho a recibir servicios de salud preventivos, atención médica general y especializada con énfasis en la geriatría como disciplina esencial para su abordaje integral, así como medicina física y de rehabilitación en las unidades de salud del Estado.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2005)</small>
 
 La Secretaría de Salud en el estado, coordinará sus esfuerzos con las instituciones del sector salud y en el ámbito de su competencia con el Sistema para el Desarrollo Integral de la Familia en Tamaulipas, para implementar acciones de salud que hagan énfasis en la prevención y combate de las enfermedades crónicas degenerativas y demás propias de la edad avanzada, así también acciones encaminadas a orientar y capacitar a los adultos mayores, sus familiares o auxiliares, en materia de salud, nutrición e higiene.
+
+> <small>(REFORMADO, P.O. 6 DE DICIEMBRE DE 2005)</small>
 
 La Secretaría proporcionará a las personas de 60 años o más la cartilla de salud del adulto mayor para su uso indistinto en instituciones de salud públicas o privadas; además cumplirá con el resto de las disposiciones a que le obliga la Ley que para los Adultos Mayores y sus derechos rige en nuestro estado.
 
@@ -4184,6 +4188,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 27 DE NOVIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-562 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES II Y III; Y SE ADICIONA UNA FRACCIÓN IV, AL ARTÍCULO 42 DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-958 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN IX, DEL ARTÍCULO 17, Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 39, DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
