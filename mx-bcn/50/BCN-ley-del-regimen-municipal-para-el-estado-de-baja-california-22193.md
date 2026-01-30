@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-regimen-municipal-para-el-estado-de-baja-california-221
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2025-12-30"
+last_updated: "2026-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2026.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 15 de octubre de 2001.
 
@@ -117,9 +117,9 @@ Cuando por caso fortuito o causas de fuerza mayor, sea imposible que los integra
 
 III.- Para levantar las actas de las reuniones de Cabildo, llevar su adecuado registro, darle publicidad a los acuerdos adoptados, y ejercer la fé pública del órgano de gobierno, en cada Ayuntamiento fungirá una persona como secretario fedatario, quien no será integrante del Ayuntamiento y se designará por mayoría a propuesta de la persona titular de la Presidencia Municipal.
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2026)</small>
 
-IV.- Cada Ayuntamiento establecerá las comisiones de personas titulares de Regidurías para analizar y dictaminar los asuntos que sean sometidos a la consideración del Ayuntamiento en las materias de legislación, hacienda y administración, seguridad pública, desarrollo urbano, servicios públicos, equidad de género y las demás que, conforme a las características económicas, políticas y sociales, resulten necesarias y se acuerde establecer.
+IV.- Cada Ayuntamiento establecerá las comisiones de personas titulares de Regidurías para analizar y dictaminar los asuntos que sean sometidos a la consideración del Ayuntamiento en las materias de legislación, hacienda y administración, seguridad pública, desarrollo urbano, servicios públicos, equidad de género, derechos de la niñez, juventudes, personas con discapacidad, personas adultas mayores y las demás que, conforme a las características económicas, políticas y sociales, resulten necesarias y se acuerde establecer.
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2024)</small>
 
@@ -1298,3 +1298,9 @@ P.O. 30 DE DICIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 207 MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA, SE APRUEBAN LA REFORMA A DIVERSOS ARTÍCULOS DE LA LEY ELECTORAL DEL ESTADO, SE APRUEBA ARTÍCULO 29 DE LA LEY QUE REGLAMENTA LAS CANDIDATURAS INDEPENDIENTES EN EL ESTADO DE BAJA CALIFORNIA, SE APRUEBA LA DEROGACIÓN DEL ARTÍCULO 9 TER DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrará en vigor el día (sic) inicio del proceso electoral 2029-2030 a celebrarse en 2030, por lo que las personas que en 2030 se encuentren ejerciendo los cargos públicos a que hace (sic) referencia las presentes reformas, no podrán postularse para procesos de reelección correspondientes.
+
+P.O. 30 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 212 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN IV DEL ARTÍCULO 5 DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. La presente reforma de Ley entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado de Baja California
