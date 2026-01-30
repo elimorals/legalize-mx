@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-etica-valores-y-equidad-de-genero-del-instituto-15180
 country: "mx"
 rank: "codigo"
 publication_date: "2021-02-10"
-last_updated: "2021-02-10"
+last_updated: "2026-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # CODIGO DE ETICA, VALORES Y EQUIDAD DE GENERO DEL INSTITUTO MUNICIPAL DE PLANEACION DE SAN LUIS POTOSI, SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE ÉTICA PARA EL EJERCICIO DEL SERVICIO PÚBLICO DEL INSTITUTO MUNICIPAL DE PLANEACIÓN DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 30 DE ENERO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA, VALORES Y EQUIDAD DE GÉNERO DEL INSTITUTO MUNICIPAL DE PLANEACIÓN DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2026 (ABROGADO).
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el miércoles 10 de febrero de 2021.
 
@@ -340,3 +342,15 @@ Arq. Fernando Torre Silva
 Revisión Fecha
 
 01 11 de diciembre de 2020
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE ÉTICA PARA EL EJERCICIO DEL SERVICIO PÚBLICO DEL INSTITUTO MUNICIPAL DE PLANEACIÓN DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Código de Ética para el ejercicio del servicio público del Instituto Municipal de Planeación de San Luis Potosí, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis" y en la página oficial del Instituto Municipal de Planeación de San Luis Potosí.
+
+SEGUNDO. Los servidores públicos deberán suscribir la carta compromiso referida en el artículo 6º del presente Código, ante la Contraloría Interna, en un plazo de 30 treinta días hábiles contados a partir del día siguiente de la publicación del presente instrumento; cada vez que ingrese una persona al servicio público del Instituto, contará con un plazo no mayor a diez días hábiles a la firma de su contrato para la suscripción de dicho documento.
+
+TERCERO. Se abroga el Código de Ética, Valores y Equidad de Género del Instituto Municipal de Planeación de San Luis Potosí, publicado en el Periódico Oficial del Estado "Plan de San Luis" el 10 diez de febrero de 2021 dos mil veintiuno.
