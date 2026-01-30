@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-centro-de-conciliacion-laboral-de-la-1594
 country: "mx"
 rank: "estatuto"
 publication_date: "2022-08-01"
-last_updated: "2022-08-01"
+last_updated: "2026-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=159498&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2022-07-28"
 
 ESTATUTO ORGÁNICO DEL CENTRO DE CONCILIACIÓN LABORAL DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE ENERO DE 2026.
 
 Estatuto publicado en el Número 906 Bis de la Gaceta Oficial de la Ciudad de México, el lunes 1 de agosto de 2022.
 
@@ -44,13 +44,19 @@ AVISO POR EL QUE SE EXPIDE EL ESTATUTO ORGÁNICO DEL CENTRO DE CONCILIACIÓN LAB
 
 El presente Estatuto Orgánico tiene por objeto regular la estructura, funcionamiento, atribuciones, operación, desarrollo y organización del Centro de Conciliación Laboral de la Ciudad de México.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE ENERO DE 2026)</small>
+
 ###### Artículo 2.
 
-El Centro de Conciliación Laboral de la Ciudad de México es un Organismo Público Descentralizado de la Administración Pública de la Ciudad de México, especializado e imparcial, con personalidad jurídica y patrimonio propio, dotado de plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión, sectorizado a la Secretaría de Trabajo y Fomento al Empleo del Gobierno de la Ciudad de México.
+El Centro de Conciliación Laboral de la Ciudad de México es un Organismo Público Descentralizado de la Administración Pública de la Ciudad de México, especializado e imparcial, con personalidad jurídica y patrimonio propio, dotado de plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión, sectorizado a la Secretaría de Trabajo y Fomento al Empleo del Gobierno de la Ciudad de México. En términos de lo que dispone la Ley Orgánica del Centro de Conciliación Laboral de la Ciudad de México, el Centro de Conciliación Laboral de la Ciudad de México tiene por objeto sustanciar el procedimiento prejudicial de conciliación entre las personas trabajadoras y empleadoras en el orden Local, con base en lo establecido en la Constitución Federal, la Ley Federal del Trabajo y demás normativa aplicable a la Ciudad de México.
 
 En términos de lo que dispone la Ley Orgánica del Centro de Conciliación Laboral de la Ciudad de México, el Centro de Conciliación Laboral tiene por objeto sustanciar el procedimiento prejudicial de conciliación entre las personas trabajadoras y empleadoras en el orden Local, con base en lo establecido en la Constitución Federal, la Ley Federal del Trabajo y demás normativa aplicable a la Ciudad de México.
 
-ã (sic) Artículo 3.- Además de las definiciones previstas en el artículo 4º de la Ley Orgánica del Centro de Conciliación Laboral de la Ciudad de México, para los efectos del presente Estatuto Orgánico, se entenderá por:
+> <small>(REFORMADO, G.O. 30 DE ENERO DE 2026)</small>
+
+###### Artículo 3.
+
+Además de las definiciones previstas en el artículo 4º de la Ley Orgánica del Centro de Conciliación Laboral de la Ciudad de México, para los efectos del presente Estatuto Orgánico, se entenderá por:
 
 I. Centro: Centro de Conciliación Laboral de la Ciudad de México;
 
@@ -66,9 +72,11 @@ VI. Ley Orgánica: Ley Orgánica del Centro de Conciliación Laboral de la Ciuda
 
 VII. Unidad: Unidades administrativas del Centro de Conciliación Laboral de la Ciudad de México.
 
+> <small>(REFORMADO, G.O. 30 DE ENERO DE 2026)</small>
+
 ###### Artículo 4.
 
-Conforme a lo previsto por la Ley, el Centro se regirá bajo los principios de dignidad humana, ética, austeridad, racionalidad, apertura, responsabilidad, rendición de cuentas, evaluación, certeza, independencia, probidad, honradez, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad.
+Conforme a lo previsto por la Ley Orgánica, el Centro se regirá bajo los principios de dignidad humana, ética, austeridad, racionalidad, apertura, responsabilidad, rendición de cuentas, evaluación, certeza, independencia, probidad, honradez, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad.
 
 ###### Artículo 5.
 
@@ -114,9 +122,11 @@ Para el desempeño de sus funciones y servicios las personas titulares de las un
 
 ### CAPÍTULO I. DE LA JUNTA DE GOBIERNO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE ENERO DE 2026)</small>
+
 ###### Artículo 10.
 
-La Junta de Gobierno es el máximo Órgano rector del Centro, se integrará conforme a lo establecido en el artículo 11 de la Ley Orgánica y contará con las atribuciones y obligaciones otorgadas por la Ley y demás disposiciones aplicables para su correcto funcionamiento y desarrollo.
+La Junta de Gobierno es el máximo Órgano rector del Centro, se integrará conforme a lo establecido en el artículo 11 de la Ley Orgánica y contará con las atribuciones y obligaciones otorgadas por la Ley Orgánica y demás disposiciones aplicables para su correcto funcionamiento y desarrollo.
 
 Para el cumplimiento de todas y cada una de las obligaciones a cargo del Centro, la Junta de Gobierno sesionará cuatro veces al año de manera ordinaria y de manera extraordinaria las veces que sea necesario a solicitud de la Presidencia.
 
@@ -162,7 +172,9 @@ Le corresponde a la Secretaría Técnica:
 
 I. Preparar el orden del día de cada Sesión y las convocatorias respectivas;
 
-II. Comunicar a las y los miembros de la Junta, la convocatoria de cada Sesión, así como entregar los insumos correspondientes para el estudio y discusión de los asuntos de la orden del día.
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2026)</small>
+
+II. Comunicar a las y los miembros de la Junta, la convocatoria de cada Sesión, así como entregar los insumos correspondientes para el estudio y discusión de los asuntos del orden del día.
 
 III. Organizar las sesiones de acuerdo con la logística que dicte la Presidencia de la Junta;
 
@@ -174,13 +186,17 @@ VI. Gestionar los acuerdos y observaciones de las actas de sesión para someterl
 
 VII. Dar cuenta de los escritos presentados a la Junta;
 
-VIII. Computar los votos emitidos en cada sesión por las y los miembros de la Junta de Gobierno, dando a conocer el resultado;
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2026)</small>
+
+VIII. Computar los votos emitidos en cada sesión por las y los miembros de la Junta, dando a conocer el resultado;
 
 IX. Firmar, junto con la Presidencia las actas y acuerdos de la Junta, sin perjuicio del derecho de los demás miembros de firmar dichas actas y acuerdos;
 
 X. Dar seguimiento a los acuerdos tomados por la Junta;
 
-XI. Informar a los miembros sobre el avance y cumplimiento de los acuerdos tomados por la Junta de Gobierno;
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2026)</small>
+
+XI. Informar a los miembros sobre el avance y cumplimiento de los acuerdos tomados por la Junta;
 
 XII. Llevar un registro de las actas y acuerdos aprobados por la Junta, así como el archivo de ésta;
 
@@ -200,35 +216,65 @@ I. Proponer a la Junta, las modificaciones del presente Estatuto, así como las 
 
 II. Proponer a la Junta, las bases para la organización y funcionamiento del sistema de servicio profesional de carrera, así como de los lineamientos y criterios para la selección de personas conciliadoras del Centro;
 
-IV (SIC). Proponer a la Junta, los programas de actualización, administración y gestión respecto del procedimiento prejudicial de conciliación;
+> <small>(REFORMADA SU NUMERACIÓN, G.O. 30 DE ENERO DE 2026)</small>
 
-V. Proponer a la Junta de Gobierno, para su aprobación, el proyecto de programa institucional que deberá contener al menos, metas, objetivos, recursos, indicadores de cumplimiento y deberá considerar las prioridades y lineamientos sectoriales;
+III. Proponer a la Junta, los programas de actualización, administración y gestión respecto del procedimiento prejudicial de conciliación;
 
-VI. Presentar a la Junta, para su aprobación, el proyecto del Programa Anual Institucional de Trabajo y el anteproyecto de presupuesto correspondiente, así como un informe de resultados respecto del ejercicio anterior;
+> <small>(REFORMADA SU NUMERACIÓN, G.O. 30 DE ENERO DE 2026)</small>
 
-VII. Establecer políticas y/o protocolos referentes a la protección de datos personales de las personas usuarias de los servicios brindados por el Centro, a fin de salvaguardar su identidad e información, con base en la legislación aplicable.
+IV. Proponer a la Junta de Gobierno, para su aprobación, el proyecto de programa institucional que deberá contener al menos, metas, objetivos, recursos, indicadores de cumplimiento y deberá considerar las prioridades y lineamientos sectoriales;
 
-VIII. Establecer las políticas de instrumentación, lineamientos y manuales respecto del uso de sistemas de información que permitan el adecuado desempeño del Centro para realizar procesos administrativos ágiles y efectivos a través de medios tecnológicos que generen, envíen, reciban, almacenen o procesen información;
+> <small>(REFORMADA SU NUMERACIÓN, G.O. 30 DE ENERO DE 2026)</small>
 
-IX. Establecer la política institucional de colaboración con dependencias, con el fin de optimizar el funcionamiento del Centro;
+V. Presentar a la Junta, para su aprobación, el proyecto del Programa Anual Institucional de Trabajo y el anteproyecto de presupuesto correspondiente, así como un informe de resultados respecto del ejercicio anterior;
 
-X. Promover acciones para la modernización administrativa, mejora regulatoria, gobierno digital y gestión de calidad en los trámites y servicios que presta el Centro, así como vigilar su ejecución y cumplimiento;
+> <small>(REFORMADA SU NUMERACIÓN, G.O. 30 DE ENERO DE 2026)</small>
 
-XI. Aprobar las campañas de difusión e información de los servicios que brinda el Centro y sus actividades, a través de medios digitales y de comunicación;
+VI. Establecer políticas y/o protocolos referentes a la protección de datos personales de las personas usuarias de los servicios brindados por el Centro, a fin de salvaguardar su identidad e información, con base en la legislación aplicable.
 
-XII. Imponer las medidas de apremio que establezca la Ley Federal, para el ejercicio de sus funciones, así como la ejecución de los procedimientos y resoluciones en los que el Centro sea competente. Esta facultad podrá ser delegada y ejercida a través de las personas servidoras públicas que determine la Dirección General del Centro;
+> <small>(REFORMADA SU NUMERACIÓN, G.O. 30 DE ENERO DE 2026)</small>
 
-XIII. Establecer los mecanismos y protocolos para que las personas servidoras públicas del Centro se rijan bajo los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia, con la finalidad de promover el combate a la corrupción;
+VII. Establecer las políticas de instrumentación, lineamientos y manuales respecto del uso de sistemas de información que permitan el adecuado desempeño del Centro para realizar procesos administrativos ágiles y efectivos a través de medios tecnológicos que generen, envíen, reciban, almacenen o procesen información;
 
-XIV. Instruir que los planes y programas del Centro sean realizados con perspectiva de género y respeto a los derechos humanos;
+> <small>(REFORMADA SU NUMERACIÓN, G.O. 30 DE ENERO DE 2026)</small>
 
-XV. Aprobar las políticas para prevenir y atender todo tipo de discriminación, los casos de violencia y de acoso u hostigamiento sexual del personal que laboren (sic) en el Centro;
+VIII. Establecer la política institucional de colaboración con dependencias, con el fin de optimizar el funcionamiento del Centro;
 
-XVI. Expedir, en su caso, copias certificadas de los documentos que obren en sus archivos sobre asuntos de su competencia y de aquellos que expidan en el ejercicio de sus funciones, los servidores públicos que le estén subordinados;
+> <small>(REFORMADA SU NUMERACIÓN, G.O. 30 DE ENERO DE 2026)</small>
 
-XVII. Hacer del Conocimiento del Órgano Interno de Control, las conductas de las personas servidoras públicas del Centro, que puedan constituir posibles responsabilidades administrativas, así como de personas que fungieron con tal carácter y de las personas particulares en su relación con el Centro; y
+IX. Promover acciones para la modernización administrativa, mejora regulatoria, gobierno digital y gestión de calidad en los trámites y servicios que presta el Centro, así como vigilar su ejecución y cumplimiento;
 
-XVIII. Las conferidas en la Normatividad y disposiciones aplicables en la materia.
+> <small>(REFORMADA SU NUMERACIÓN, G.O. 30 DE ENERO DE 2026)</small>
+
+X. Aprobar las campañas de difusión e información de los servicios que brinda el Centro y sus actividades, a través de medios digitales y de comunicación;
+
+> <small>(REFORMADA SU NUMERACIÓN, G.O. 30 DE ENERO DE 2026)</small>
+
+XI. Imponer las medidas de apremio que establezca la Ley Federal, para el ejercicio de sus funciones, así como la ejecución de los procedimientos y resoluciones en los que el Centro sea competente. Esta facultad podrá ser delegada y ejercida a través de las personas servidoras públicas que determine la Dirección General del Centro;
+
+> <small>(REFORMADA SU NUMERACIÓN, G.O. 30 DE ENERO DE 2026)</small>
+
+XII. Establecer los mecanismos y protocolos para que las personas servidoras públicas del Centro se rijan bajo los principios de legalidad, honradez, lealtad, imparcialidad y eficiencia, con la finalidad de promover el combate a la corrupción;
+
+> <small>(REFORMADA SU NUMERACIÓN, G.O. 30 DE ENERO DE 2026)</small>
+
+XIII. Instruir que los planes y programas del Centro sean realizados con perspectiva de género y respeto a los derechos humanos;
+
+> <small>(REFORMADA SU NUMERACIÓN, G.O. 30 DE ENERO DE 2026)</small>
+
+XIV. Aprobar las políticas para prevenir y atender todo tipo de discriminación, los casos de violencia y de acoso u hostigamiento sexual del personal que laboren en el Centro;
+
+> <small>(REFORMADA SU NUMERACIÓN, G.O. 30 DE ENERO DE 2026)</small>
+
+XV. Expedir, en su caso, copias certificadas de los documentos que obren en sus archivos sobre asuntos de su competencia y de aquellos que expidan en el ejercicio de sus funciones, los servidores públicos que le estén subordinados;
+
+> <small>(REFORMADA SU NUMERACIÓN, G.O. 30 DE ENERO DE 2026)</small>
+
+XVI. Hacer del Conocimiento del Órgano Interno de Control, las conductas de las personas servidoras públicas del Centro, que puedan constituir posibles responsabilidades administrativas, así como de personas que fungieron con tal carácter y de las personas particulares en su relación con el Centro; y
+
+> <small>(REFORMADA SU NUMERACIÓN, G.O. 30 DE ENERO DE 2026)</small>
+
+XVII. Las conferidas en la Normatividad y disposiciones aplicables en la materia.
 
 ### CAPÍTULO III. VIGILANCIA Y CONTROL DEL CENTRO
 
@@ -236,7 +282,9 @@ XVIII. Las conferidas en la Normatividad y disposiciones aplicables en la materi
 
 El Órgano de Vigilancia del Centro será conformado por una persona Comisaria Pública propietaria y un suplente, designados por la Secretaría de la Contraloría General de la Ciudad de México, quienes ejercerán las funciones designadas conforme a lo previsto en los Lineamientos para la actuación de los Comisarios Públicos de la Secretaría de la Contraloría General de la Ciudad de México, así como de las demás atribuciones que se les hubieran conferido.
 
-La Persona Comisaria o su Suplente asistirán a todas las sesiones celebradas por la Junta con voz, pero sin voto.
+> <small>(REFORMADO, G.O. 30 DE ENERO DE 2026)</small>
+
+La Persona Comisaria o su Suplente asistirá a todas las sesiones celebradas por la Junta con voz, pero sin voto.
 
 ###### Artículo 18.
 
@@ -262,9 +310,13 @@ V. Coordinar y supervisar la ejecución de las funciones que les son atribuidas;
 
 VI. Acordar y resolver los asuntos de la competencia de las áreas administrativas a su cargo;
 
-VII. Formular los dictámenes, opiniones y demás información que le sean requeridos por la Dirección General, correspondientes a la Dirección a su cargo;
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2026)</small>
 
-VIII. Coordinarse con las demás Direcciones del Centro para el mejor ejercicio de las funciones que les son atribuidas;
+VII. Formular los dictámenes, opiniones y demás información que le sean requeridos por la Dirección General, correspondientes a la Dirección Ejecutiva a su cargo;
+
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2026)</small>
+
+VIII. Coordinarse con las demás Direcciones Ejecutivas del Centro para el mejor ejercicio de las funciones que les son atribuidas;
 
 IX. Expedir copia certificada de los documentos que obran en sus archivos, sobre asuntos de su competencia y de aquellos que expidan en el ejercicio de sus funciones, las personas servidoras públicas que le estén subordinadas, previo pago de su costo cuando sea procedente, así como las que les sean solicitadas de conformidad con la Ley de Transparencia, Acceso a la Información Pública, Protección de Datos Personales y Rendición de Cuentas de la Ciudad de México u otras disposiciones aplicables;
 
@@ -296,25 +348,49 @@ III. Determinar las políticas institucionales que sirvan para instrumentar la c
 
 IV. Establecer la operación de los mecanismos institucionales para recibir y tramitar las solicitudes de conciliación;
 
-V. Establecer los lineamientos para la publicación de los documentos resultado de los procedimientos de conciliación, que correspondan según las leyes en la materia;
+> <small>(ADICIONADA, G.O. 30 DE ENERO DE 2026)</small>
 
-VI. Determinar los lineamientos de operación de las personas funcionarias conciliadoras en materia individual y en materia colectiva;
+V. Orientar y brindar apoyo a los interesados durante los procedimientos de conciliación individual y colectiva.
 
-VII. Coordinar la operación de las personas conciliadoras para el oportuno y adecuado desahogo de las audiencias de conciliación;
+(REUBICADA, G.O. 30 DE ENERO DE 2026)
 
-VIII. Dirigir la elaboración de los modelos de convenios de conciliación individual y colectiva, autorizar las emisiones de las constancias de no conciliación, así como de los convenios conciliatorios procedentes y las actas donde conste el cumplimiento de los convenios;
+VI. Establecer los lineamientos para la publicación de los documentos resultado de los procedimientos de conciliación, que correspondan según las leyes en la materia;
 
-IX. Determinar las estrategias de compilación y sistematización de los convenios de conciliación colectiva e individual;
+(REUBICADA, G.O. 30 DE ENERO DE 2026)
 
-X. Coordinar la comunicación con los tribunales en materia de conciliación;
+VII. Determinar los lineamientos de operación de las personas funcionarias conciliadoras en materia individual y en materia colectiva;
 
-XI. Coordinar la aplicación de los mecanismos de depósito y resguardo de todos los documentos físicos y digitales relacionados con la conciliación individual y colectiva;
+(REUBICADA, G.O. 30 DE ENERO DE 2026)
 
-XII. Realizar todas aquellas acciones que, en el ámbito de sus atribuciones, le instruya el Director General del Centro;
+VIII. Coordinar la operación de las personas conciliadoras para el oportuno y adecuado desahogo de las audiencias de conciliación;
 
-XIII. Establecer las multas por el incumplimiento injustificado a la comparecencia para la audiencia de conciliación; y
+(REUBICADA, G.O. 30 DE ENERO DE 2026)
 
-XIV. Las demás que confiera el presente Estatuto y las disposiciones aplicables a la materia.
+IX. Dirigir la elaboración de los modelos de convenios de conciliación individual y colectiva, autorizar las emisiones de las constancias de no conciliación, así como de los convenios conciliatorios procedentes y las actas donde conste el cumplimiento de los convenios;
+
+(REUBICADA, G.O. 30 DE ENERO DE 2026)
+
+X. Determinar las estrategias de compilación y sistematización de los convenios de conciliación colectiva e individual;
+
+(REUBICADA, G.O. 30 DE ENERO DE 2026)
+
+XI. Coordinar la comunicación con los tribunales en materia de conciliación;
+
+(REUBICADA, G.O. 30 DE ENERO DE 2026)
+
+XII. Coordinar la aplicación de los mecanismos de depósito y resguardo de todos los documentos físicos y digitales relacionados con la conciliación individual y colectiva;
+
+(REUBICADA, G.O. 30 DE ENERO DE 2026)
+
+XIII. Realizar todas aquellas acciones que, en el ámbito de sus atribuciones, le instruya el Director General del Centro;
+
+> <small>(REFORMADA Y REUBICADA, G.O. 30 DE ENERO DE 2026)</small>
+
+XIV. Imponer y Establecer las multas por el incumplimiento injustificado a la comparecencia para la audiencia de conciliación; y
+
+(REUBICADA, G.O. 30 DE ENERO DE 2026)
+
+XV. Las demás que confiera el presente Estatuto y las disposiciones aplicables a la materia.
 
 ###### Artículo 21.
 
@@ -334,7 +410,9 @@ VI. Coordinar las notificaciones del procedimiento de conciliación prejudicial;
 
 VII. Evaluar los criterios internos de interpretación y aplicación de las Leyes y otras disposiciones jurídicas que normen el funcionamiento y actividades del Centro;
 
-VIII. Suscribir los convenios ante autoridades administrativas, judiciales y jurisdiccionales, con la autorización expresa de la Dirección General del Centro;
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2026)</small>
+
+VIII. Suscribir los convenios ante autoridades administrativas, judiciales y jurisdiccionales, con la autorización expresa de la Dirección General;
 
 IX. Asesorar en los procedimientos de contratación que realice el Centro de conformidad con lo dispuesto por la Ley de Adquisiciones de la Ciudad de México y sus respectivos reglamentos;
 
@@ -344,7 +422,9 @@ XI. Coordinar el registro y resguardo de los contratos y convenios remitidos por
 
 XII. Coordinar las acciones de conservación de la documentación legal de los inmuebles cuya propiedad, posesión, usufructo o uso, correspondiente al Centro, así como las acciones tendientes a la regularización de los títulos de propiedad o cualquier derecho que se incorpore a su patrimonio;
 
-XIII. Asesorar a los interesados en los procedimientos de conciliación individual y colectiva.
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2026)</small>
+
+XIII. Brindar atención y asesoría laboral a los interesados en los procedimientos de conciliación individual y colectiva.
 
 XIV. Coordinar las tecnologías de la información y comunicaciones para contribuir en el trámite y desarrollo de los procedimientos de conciliación prejudicial;
 
@@ -372,7 +452,9 @@ VI. Coordinar las relaciones laborales del Centro, así como expedir los nombram
 
 VII. Promover la incorporación de la perspectiva de género y el enfoque de igualdad en la cultura organizacional del Centro;
 
-VIII. Coordinar de (sic) los programas de mantenimiento preventivo y correctivo para los bienes muebles e inmuebles del Centro;
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2026)</small>
+
+VIII. Coordinar los programas de mantenimiento preventivo y correctivo para los bienes muebles e inmuebles del Centro;
 
 IX. Dirigir las acciones necesarias para preservar la integridad física del personal que labora en el Centro y de las personas que lo visitan, así como la de sus bienes muebles e inmuebles y la información documental y electrónica de su propiedad para asegurar la integridad de las personas del patrimonio físico y de información;
 
@@ -500,11 +582,17 @@ IV. Los documentos que deberán acompañarse a la solicitud de inscripción al p
 
 a) Copia certificada del acta de nacimiento.
 
-b) Copia simple de identificación oficial vigente, en la que preferentemente se pueda verificar la Clave Única de Registro de Población (CURP). En caso de que la identificación no contenga CURP, la persona aspirante deberá acompañar impresión de la (sic) esta.
+> <small>(REFORMADO, G.O. 30 DE ENERO DE 2026)</small>
 
-c) Copia del título.
+b) Copia simple de identificación oficial vigente, en la que preferentemente se pueda verificar la Clave Única de Registro de Población (CURP). En caso de que la identificación no contenga CURP, la persona aspirante deberá acompañar impresión de esta.
 
-d) Currículum Vitae actualizado, acompañado con los documentos que soporten la información y firma autógrafa.
+> <small>(REFORMADO, G.O. 30 DE ENERO DE 2026)</small>
+
+c) Copia del título y cédula profesional.
+
+> <small>(REFORMADO, G.O. 30 DE ENERO DE 2026)</small>
+
+d) Currículum Vitae actualizado con firma autógrafa, acompañado con los documentos que soporten la información.
 
 e) Comprobante de domicilio con antigüedad no mayor a tres meses.
 
@@ -516,9 +604,11 @@ VI. El formato de Conocimiento y Aceptación de las Bases y Lineamientos del Con
 
 VII. Las demás que se determinen por área o comité de selección.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE ENERO DE 2026)</small>
+
 ###### Artículo 29.
 
-Para participar en el proceso de selección de Personas Conciliadoras, deberá cumplirse con los requisitos que se establecen (sic) este Estatuto y cualquier otro ordenamiento aplicable.
+Para participar en el proceso de selección de Personas Conciliadoras, deberá cumplirse con los requisitos establecidos en este Estatuto y cualquier otro ordenamiento aplicable.
 
 El Centro elaborará la lista de las y los participantes, a los que se les asignará un folio de referencia, que será el único medio para identificar a cada una de las y los aspirantes en la etapa de evaluación del procedimiento.
 
@@ -548,7 +638,9 @@ IV. La integración del comité de evaluación, la integración de cada instrume
 
 La Junta contará con las siguientes atribuciones en lo que se refiere al procedimiento de selección de personas conciliadoras:
 
-I. Aprobar la emisión de las convocatorias para el procedimiento de selección de personas conciliadoras a propuesta de la Dirección del Centro;
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2026)</small>
+
+I. Aprobar la emisión de las convocatorias para el procedimiento de selección de personas conciliadoras a propuesta de la Dirección General;
 
 II. Aprobar la propuesta para la calendarización y las sedes para llevar a cabo las etapas del concurso que presente la Dirección del Centro y autorizar algún cambio en las mismas, cuando este sea debidamente justificado u obedezca a causas de fuerza mayor; y
 
@@ -562,7 +654,9 @@ Los resultados del concurso se publicarán en la Gaceta Oficial de la Ciudad de 
 
 Una vez hecha la publicación a que se refiere el artículo que antecede, la Dirección General llevará a cabo la designación de acuerdo con el número de plazas sujetas a concurso.
 
-El nombramiento de los conciliadores corresponderá a personal de confianza, tendrá una vigencia de tres años y podrá ratificarse por periodos sucesivos de la misma duración cumpliendo con el Programa de Profesionalización, Capacitación, Actualización, Evaluación y Certificación.
+> <small>(REFORMADO, G.O. 30 DE ENERO DE 2026)</small>
+
+El nombramiento de los conciliadores corresponderá a personal de confianza, tendrá una vigencia de tres años y podrá ratificarse por periodos sucesivos de la misma duración, tomando en consideración el resultado de sus evaluaciones y actuaciones dentro del marco del código de ética, cumpliendo con el Programa de Profesionalización, Capacitación, Actualización, Evaluación y Certificación.
 
 ###### Artículo 35.
 
@@ -574,7 +668,9 @@ El Programa de Profesionalización, Capacitación, Actualización, Evaluación y
 
 Conforme al artículo 684-F de la Ley Federal, las personas conciliadoras tendrán las siguientes atribuciones y obligaciones:
 
-I. Emitir el citatorio a la audiencia de conciliación, de conformidad con lo dispuesto en esta Ley;
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2026)</small>
+
+I. Emitir el citatorio a la audiencia de conciliación, de conformidad con lo dispuesto (sic) la Ley Federal;
 
 II. Aprobar o desestimar, según sea el caso, las causas de justificación para la inasistencia a la audiencia de conciliación, con base en los elementos que se le aporten;
 
@@ -612,7 +708,13 @@ V. Abstenerse de fungir como testigos, representantes jurídicos o abogados de l
 
 VI. Ser proactivo para lograr la conciliación entre las partes; y
 
+> <small>(REFORMADA, G.O. 30 DE ENERO DE 2026)</small>
+
 VII. Procurar el equilibrio entre los factores de la producción y la justicia social, así como el trabajo digno y decente.
+
+> <small>(ADICIONADO, G.O. 30 DE ENERO DE 2026)</small>
+
+Para dar cumplimiento a las atribuciones señaladas en el presente ordenamiento, las personas conciliadoras podrán apoyarse con el personal auxiliar de conciliación al señalar fecha y hora para la celebración de la audiencia.
 
 ## TITULO QUINTO. DEL PROCEDER DEL CENTRO
 
@@ -628,9 +730,9 @@ En caso de que la persona titular de la Dirección General no se (sic) designe m
 
 En caso de que el Titular de la Dirección General del Centro se ausente por un período mayor a treinta días naturales, la Junta podrá determinar su ausencia definitiva o, en caso excepcional que se encuentre debidamente justificado, autorizar su ausencia temporal por un periodo adicional de treinta días naturales.
 
-En caso de una ausencia definitiva del Titular de la Dirección General del Centro por renuncia, destitución o ausencia temporal por más de treinta días naturales, la Junta nombrará por acuerdo unánime de sus integrantes a un interino, quien podrá ser o no miembro de dicho Centro, y que resolverá los asuntos que correspondan a la persona Titular de la Dirección General del Centro, exclusivamente sobre las funciones previstas en el artículo 15 del presente Estatuto.
+> <small>(REFORMADO, G.O. 30 DE ENERO DE 2026)</small>
 
-La Junta, a través de su Presidencia, notificará a la persona titular de la Jefatura de Gobierno sobre la ausencia definitiva de la persona Titular de la Dirección General del Centro y, en su caso, del nombramiento interino, así como de las acciones que ejecute hasta en tanto se realice la designación definitiva correspondiente.
+En caso de una ausencia definitiva del Titular de la Dirección General del Centro por renuncia, destitución o ausencia temporal por más de treinta días naturales, la Junta nombrará por acuerdo unánime de sus integrantes a un interino, quien podrá ser o no miembro de dicho Centro, y que resolverá los asuntos que correspondan a la persona Titular de la Dirección General del Centro, exclusivamente sobre las funciones previstas en el artículo 16 del presente Estatuto y 20 de la Ley Orgánica. La Junta, a través de su Presidencia, notificará a la persona titular de la Jefatura de Gobierno sobre la ausencia definitiva de la persona Titular de la Dirección General del Centro y, en su caso, del nombramiento interino, así como de las acciones que ejecute hasta en tanto se realice la designación definitiva correspondiente.
 
 ###### Artículo 40.
 
@@ -659,3 +761,15 @@ SE EXPIDEN EN LA CIUDAD DE MÉXICO, A LOS QUINCE DÍAS DEL MES DE AGOSTO DEL AÑ
 DIRECTOR DE ESTUDIOS LEGISLATIVOS Y TRÁMITES INMOBILIARIOS
 
 LIC. GUILLERMO CRUCES PORTUGUEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ESTATUTO.]</small>
+
+G.O. 30 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “AVISO MEDIANTE EL CUAL SE DAN A CONOCER LAS MODIFICACIONES AL ESTATUTO ORGÁNICO DEL CENTRO DE CONCILIACIÓN LABORAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México para su difusión.
+
+SEGUNDO. La presente modificación al Estatuto Orgánico del Centro de Conciliación Laboral de la Ciudad de México entrará en vigor al día siguiente de la publicación de este aviso.
+
+TERCERO. El presente documento contiene un anexo digital que forma parte del mismo.
