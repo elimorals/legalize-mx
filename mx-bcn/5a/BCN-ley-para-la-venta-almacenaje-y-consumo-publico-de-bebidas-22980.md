@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-venta-almacenaje-y-consumo-publico-de-bebidas-22980
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2023-05-09"
+last_updated: "2026-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY PARA LA VENTA, ALMACENAJE Y CONSUMO PÚBLICO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2026.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -451,7 +451,9 @@ II.- La vía pública, parques y plazas públicas, a excepción de los permisos 
 
 III.- En centros de trabajo, educativos o de congregación religiosa;
 
-IV.- En el interior del área de proyección de cines, de teatros o de sitios para espectáculos similares;
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2026)</small>
+
+IV.- Para los permisos al interior del área de proyección de cines, de teatros o de sitios para espectáculos similares, la autoridad municipal deberá reglamentar las causas de excepción, las cuales no deberán ser contrarias a lo estipulado por el artículo 2 fracción IV de la presente Ley.
 
 V.- En ferias, kermesses o espectáculos, o cualquier otro evento de carácter infantil;
 
@@ -782,3 +784,11 @@ SEGUNDO. El Poder Ejecutivo del Estado y las autoridades municipales deberán mo
 TERCERO. La Secretaría de Seguridad Ciudadana deberá emitir lineamientos y/o manuales que instrumenten el sistema de vigilancia y de botones de pánico en un término no mayor a 30 días hábiles posteriores a la expedición de las adecuaciones reglamentarias previstas en el artículo transitorio que precede.
 
 Los lineamientos a que se refiere el párrafo anterior, determinarán dentro de los giros que se establecen en la fracción IX del artículo 6 de la presente Ley, a las personas permisionarias cuya actividad preponderante sea principalmente la venta de bebidas alcohólicas en envase abierto o para consumo en el local.
+
+P.O. 30 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 211, MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 23, FRACCIÓN IV DE LA LEY PARA LA VENTA, ALMACENAJE Y CONSUMO PÚBLICO DE BEBIDAS ALCOHÓLICAS DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO. Dentro de un plazo de 60 días naturales siguientes a la entrada en vigor del presente Decreto, los Ayuntamientos del Estado deberán modificar sus respectivos Reglamentos.
