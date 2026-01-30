@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2025-12-24"
+last_updated: "2026-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -1505,6 +1505,10 @@ h) Placas para autos antiguos No 23.84
 
 aplica
 
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2026)</small>
+
+i) Placas conmemorativas No aplica 16.70
+
 Existe obligación de efectuar canje de placas cada tres años, de conformidad con las disposiciones de la Secretaría de Comunicaciones y Transportes.
 
 > <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2021)</small>
@@ -1522,6 +1526,22 @@ Tratándose de vehículos usados deberá tomarse en cuenta el factor de deprecia
 > <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2021)</small>
 
 Para el caso de los propietarios de remolques, y así como de motocicletas y motonetas hasta de 350 c.c. de cilindro, a que se refiere (sic) los incisos, b) y c) de la fracción I de este artículo, no pagarán los derechos previstos para la dotación de placas.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2026)</small>
+
+Se causará el derecho establecido en el inciso i) de esta fracción I, por la emisión de placas especiales o conmemorativas de carácter opcional, emitidas con fines institucionales, cívicos o conmemorativos, conforme a los programas que autorice mediante decreto el Titular del Poder Ejecutivo del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2026)</small>
+
+Este derecho será independiente y adicional a los establecidos en este artículo por concepto de dotación, reposición, canje o alta de placas ordinarias y el cobro se causa a solicitud del contribuyente por la expedición de placas conmemorativas.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2026)</small>
+
+En ningún caso la emisión de placas especiales o conmemorativas sustituirá o eximirá al contribuyente de cubrir los derechos de control vehicular ordinarios establecidos en esta Ley.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2026)</small>
+
+Las condiciones de uso, vigencia, diseño, población, objetivo, y el monto a pagar por estas placas, podrán ser objeto de beneficio fiscal temporal, mediante decreto de la persona titular del Poder Ejecutivo, sin que se altere el monto legalmente previsto en esta disposición.
 
 II. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2025)
 
@@ -3724,3 +3744,11 @@ P.O. 24 DE DICIEMBRE DE 2025.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 30 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0449.- QUE REALIZA ADICIONES AL ARTÍCULO 64, DE LA LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
