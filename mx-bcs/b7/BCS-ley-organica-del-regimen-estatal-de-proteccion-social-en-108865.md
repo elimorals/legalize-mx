@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-regimen-estatal-de-proteccion-social-en-108865
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-06-20"
-last_updated: "2015-06-20"
+last_updated: "2026-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108865&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # LEY ORGANICA DEL REGIMEN ESTATAL DE PROTECCION SOCIAL EN SALUD DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DEL DECRETO 3248, PUBLICADO EN EL B.O. DE 31 DE ENERO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LA LEY ORGÁNICA DEL RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE ENERO DE 2026 (ABROGADA).
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 20 de junio de 2015.
 
@@ -330,3 +332,23 @@ MARCOS ALBERTO COVARRUBIAS VILLASEÑOR
 SECRETARIO GENERAL DE GOBIERNO
 
 LUIS ANDRÉS CÓRDOVA URRUTIA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 31 DE ENERO DE 2026.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO PRIMERO DEL DECRETO 3248 QUE SE RELACIONA CON LA REFORMA DEL PRESENTE ORDENAMIENTO]</small>
+
+###### ARTÍCULO PRIMERO.
+
+Se abroga la Ley Orgánica del Régimen Estatal de Protección Social en Salud de Baja California Sur, y por ende se extingue (sic) Organismo Público Descentralizado Régimen Estatal de Protección Social en Salud de Baja California Sur, publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur número 34 de fecha 20 de junio de 2015, bajo Decreto 2263.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3248 SE ABROGA LA LEY ORGÁNICA DEL RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DE BAJA CALIFORNIA SUR, Y SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 33 DE LA LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Los recursos materiales y financieros asignados, adscritos y adquiridos, por cualquier medio, por el ahora extinto Organismo Público Descentralizado Régimen Estatal de Protección Social en Salud de Baja California Sur, así como los trámites administrativos y legales que se encuentran en proceso a la fecha de emisión del presente Decreto, se transferirán íntegramente a la institución que requiera la dependencia encargada de conducir la política en materia de salud en el Estado, para que dé continuidad a los objetivos y programas institucionales en materia de protección del derecho a la salud.
