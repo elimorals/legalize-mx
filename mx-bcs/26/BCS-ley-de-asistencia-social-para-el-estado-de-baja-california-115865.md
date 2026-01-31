@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-asistencia-social-para-el-estado-de-baja-california-1158
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-31"
-last_updated: "2016-07-31"
+last_updated: "2026-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115865&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE ENERO DE 2026.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 31 de Julio de 2016.
 
@@ -69,11 +69,17 @@ III. Asistencia Social Privada.- Son los servicios que prestan las personas fís
 
 IV. Sistema Estatal.- Es el Sistema Estatal de Asistencia Social Pública y Privada del Estado de Baja California Sur.
 
-### Capítulo II. Sujetos de la Asistencia Social
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE ENERO DE 2026)</small>
+
+### Capítulo II. Personas Sujetas de la Asistencia Social
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE ENERO DE 2026)</small>
 
 ###### Artículo 4.
 
-Tienen derecho a la asistencia social la persona o personas en los (sic) individual, familiar o como grupo vulnerable que por sus condiciones físicas, mentales, jurídicas, o sociales, requieran de servicios especializados para su protección y su plena integración al bienestar.
+Tienen derecho a la asistencia social la persona o personas en los (sic) individual, familiar o como grupo vulnerable que por sus condiciones físicas, mentales, jurídicas, o sociales, requieran de servicios especializados para su protección y su plena integración al bienestar social y a una vida digna.
+
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], B.O. 31 DE ENERO DE 2026)</small>
 
 Con base en lo anterior, son sujetos de la asistencia social, preferentemente:
 
@@ -105,13 +111,17 @@ l) Estar en situación de orfandad.
 
 m) Carezcan de identidad o no estén registrados en el Registro Civil.
 
-Para los efectos de esta Ley son niñas y niños las personas menores de doce años de edad, y adolescentes las personas de entre doce años cumplidos y menos de dieciocho años de edad, tal como lo establece el Artículo 8 de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Baja California Sur.
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2026)</small>
+
+Para los efectos de esta Ley, son niñas, niños y adolescentes las personas comprendidas en el Artículo 8 de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Baja California Sur.
 
 II. Las mujeres:
 
 a) En estado de gestación o lactancia, las madres adolescentes y madres solas que tengan a su cuidado hijos menores de dieciocho años de edad;
 
-b) En situación de maltrato, violencia o abandono, y
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2026)</small>
+
+b) En situación de maltrato, abandono y violencia bajo cualquier tipo o modalidad de acuerdo al artículo 4 de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Baja California Sur, y
 
 c) En situación de explotación, incluyendo la sexual.
 
@@ -982,3 +992,13 @@ CARLOS MENDOZA DAVIS
 SECRETARIO GENERAL DE GOBIERNO
 
 ALVARO DE LA PEÑA ANGULO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 31 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3244 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
