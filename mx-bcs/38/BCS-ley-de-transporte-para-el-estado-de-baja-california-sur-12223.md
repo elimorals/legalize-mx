@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-transporte-para-el-estado-de-baja-california-sur-12223"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-08"
-last_updated: "2016-10-31"
+last_updated: "2026-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12223&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE TRANSPORTE PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE OCTUBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE ENERO DE 2026.
 
 Ley publicada en el número extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 8 de diciembre de 1997.
 
@@ -107,7 +107,9 @@ Son autoridades de transporte las siguientes:
 
 I. El Gobernador del Estado;
 
-II. Los Ayuntamientos de los Municipios del Estado, a través de las Direcciones de Seguridad Pública y Tránsito Municipal;
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2026)</small>
+
+II. Los Ayuntamientos de los Municipios del Estado, a través de las direcciones municipales de transporte.
 
 III. La Dirección de Transporte del Gobierno del Estado; y
 
@@ -143,7 +145,9 @@ X. Las demás que le confiere esta Ley y su Reglamento.
 
 Son facultades de los Ayuntamientos en materia de transporte:
 
-I. Aplicar y hacer cumplir la presente Ley, su Reglamento y demás disposiciones legales en materia de transporte que sean de su competencia, a través de las Direcciones de Seguridad Pública y Tránsito Municipal correspondientes;
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2026)</small>
+
+I. Aplicar y hacer cumplir la presente Ley, su Reglamento y demás disposiciones legales en materia de transporte que sean de su competencia, a través de las direcciones municipales de transporte correspondientes;
 
 II. Ejercer funciones de vigilancia y supervisión de los servicios público y particular de transporte, en coordinación con la Dirección de Transporte del Gobierno del Estado;
 
@@ -201,7 +205,9 @@ En cada Municipio del Estado se constituirá un Consejo Municipal de Transporte,
 
 Los Consejos Municipales de Transporte, estarán integrados de la siguiente manera:
 
-I. Por el Presidente Municipal o en su caso por el Director de Seguridad Pública y Tránsito, quien lo presidirá;
+> <small>(REFORMADA, B.O. 31 DE ENERO DE 2026)</small>
+
+I. Por el presidente Municipal o en su caso por el director municipal de transporte, quien lo presidirá.
 
 II. Por un vocal representante de las dependencias federales vinculadas con la materia de transporte, a invitación del Consejo Municipal de Transporte;
 
@@ -805,9 +811,11 @@ III. Terminal: El lugar donde los concesionarios de servicio público de transpo
 
 IV. Central: El lugar donde se ubiquen dos o más terminales del servicio público de transporte.
 
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2026)</small>
+
 ###### Artículo 59.
 
-Cuando los concesionarios de automóviles de alquiler pretendan reubicar la asignación del sitio, deberán formular solicitud al Ayuntamiento por conducto de la Dirección de Seguridad Pública y Tránsito correspondiente, quien en el término de cinco días hábiles notificará a los terceros que pudiesen resultar perjudicados, a fin de que aleguen lo que a su derecho convenga, dentro del término de diez días hábiles; vencido el plazo, la Dirección de Seguridad Pública y Tránsito resolverá en definitiva.
+Cuando los concesionarios de automóviles de alquiler pretendan reubicar la asignación del sitio, deberán formular solicitud al Ayuntamiento por conducto de la Dirección de la correspondiente, quien en el término de cinco días hábiles notificará a los terceros que pudiesen resultar perjudicados, a fin de que aleguen lo que a su derecho convenga, dentro del término de diez días hábiles; vencido el plazo, la dirección municipal de transporte resolverá en definitiva.
 
 ### CAPITULO IV. DE LA ORGANIZACIÓN DE LOS CONCESIONARIOS
 
@@ -839,13 +847,17 @@ Para los fines de los contratos de transporte, si no constituyen un contrato mer
 
 La carga que se movilice en vehículos propiedad de las personas físicas o morales en su propio beneficio o relacionadas con su objeto social, sin ánimo de lucro, se considera en términos de esta Ley servicio particular de transporte.
 
-Cuando la capacidad del vehículo no exceda de tres mil kilogramos se requerirá la autorización de la Dirección de Seguridad Pública y Tránsito Municipal, quien llevará un registro y podrá dictar las medidas que se juzguen convenientes.
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2026)</small>
+
+Cuando la capacidad del vehículo no exceda de tres mil kilogramos se requerirá la autorización de la dirección municipal de transporte, quien llevará un registro y podrá dictar las medidas que se juzguen convenientes.
 
 No se considerará como servicio particular de carga, el traslado de materiales destinados a la construcción, cuando lo realicen directamente las empresas en sus vehículos cuya capacidad exceda los tres mil kilogramos, cuyas obras les hayan sido encargadas para su realización por un tercero; o hasta tres mil litros en el transporte de agua para uso industrial.
 
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2026)</small>
+
 ###### Artículo 66.
 
-Las personas físicas o morales podrán utilizar los vehículos de su propiedad para transportar colectiva y de manera gratuita únicamente a quienes sean sus empleados, tramitando ante la Dirección de Seguridad Pública y Tránsito Municipal, el permiso correspondiente.
+Las personas físicas o morales podrán utilizar los vehículos de su propiedad para transportar colectiva y de manera gratuita únicamente a quienes sean sus empleados, tramitando ante la dirección municipal de transporte el permiso correspondiente.
 
 ###### Artículo 67.
 
@@ -887,9 +899,11 @@ En caso de enajenación de los vehículos, deberán notificarse las altas y baja
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE ENERO DE 2026)</small>
+
 ###### Artículo 72.
 
-La Dirección de Transporte del Estado y las Direcciones de Seguridad Pública y Tránsito de los municipios de la entidad, tendrán a su cargo la inspección, verificación y vigilancia de los servicios públicos de transporte concesionados, de conformidad a las atribuciones y ámbitos de competencia que le son reservados por esta Ley y su Reglamento.
+La Dirección de Transporte del Estado y las direcciones Municipales de Transporte de los municipios de la entidad, tendrán a su cargo la inspección, verificación y vigilancia de los servicios públicos de transporte concesionados, de conformidad a las atribuciones y ámbitos de competencia que le son reservados por esta Ley y su Reglamento.
 
 El Gobernador del Estado, a través de la Dirección de Transporte y los Ayuntamientos de la entidad, podrán celebrar convenios de coordinación a fin de acordar las acciones que estimen pertinentes en materia de inspección, verificación, vigilancia y mejoramiento de los servicios público y particular de transporte.
 
@@ -921,7 +935,9 @@ V. Revocación de la concesión o permiso para los servicios público y particul
 
 La amonestación procederá en caso que, de manera reiterada, los concesionarios y operadores del servicio público de transporte, incurran en infracciones a las disposiciones de tránsito, sin perjuicio de las sanciones a que se hagan acreedores por estos hechos.
 
-Para el efecto de que la Dirección de Transporte proceda en los términos señalados en el párrafo anterior, las autoridades de la Dirección de Seguridad Pública y Tránsito Municipales, harán de su conocimiento por escrito las infracciones cometidas y sanciones a que se hayan hecho acreedores los concesionarios y operadores del servicio público de transporte.
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2026)</small>
+
+Para el efecto de que la Dirección de Transporte proceda en los términos señalados en el párrafo anterior, las direcciones Municipales de Transporte, harán de su conocimiento por escrito las infracciones cometidas y sanciones a que se hayan hecho acreedores los concesionarios y operadores del servicio público de transporte.
 
 > <small>(REFORMADO, B.O. 16 DE MAYO DE 2005)</small>
 
@@ -1080,3 +1096,23 @@ B.O. 31 DE OCTUBRE DE 2016.
 PRIMERO: El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO: El Ejecutivo del Estado y los Municipios deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en sus reglamentos, bandos y demás normas administrativa (sic), en un plazo que no exceda el día 28 de enero de 2017.
+
+B.O. 31 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3250 SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPORTE DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Los Ayuntamientos de la entidad dentro de un plazo de 180 días naturales, a partir de la entrada en vigor del presente Decreto, deberán llevar a cabo la armonización de las disposiciones reglamentarias necesarias, así como actualizaciones o modificaciones a su normatividad interna y estructura orgánica, para dar cumplimiento a las disposiciones establecidas que se relacionen con lo establecido en este Decreto y de conformidad a las atribuciones y ámbitos de competencia que le son reservados por la Ley y su Reglamento.
+
+Sin perjuicio de lo establecido en el artículo transitorio PRIMERO las Direcciones Municipales de Transporte entraran en funciones de conformidad con la fecha que se indique la Declaratoria Municipal de entrada en operación que deberá ser ampliamente difundida y que deberá ser emitida con una anticipación de 15 días hábiles a la entrada en funciones de dichas direcciones.. (sic)
+
+TERCERO. Sin perjuicio de lo establecido en los artículos transitorios PRIMERO y SEGUNDO, los Ayuntamientos que por cuestiones financieras u operatividad se encuentren imposibilitados en realizar los cambios estructurales de organización interna de conformidad con lo establecido en el presente Decreto, podrán hasta en tanto estén en condiciones para su implementación continuar cómo autoridades de transporte las Direcciones de Seguridad Pública y Tránsito Municipal, de conformidad con la normativa prevista con anterioridad al presente Decreto.
+
+Una vez que cuenten con las condiciones para su implementación, deberán realizar una Declaratoria de Adopción del presente Decreto y realizar lo indicado en el Artículo Transitorio SEGUNDO.
+
+CUARTO.- Los Ayuntamientos deberán considerar las previsiones administrativas y financieras para la implementación del presente Decreto, que permitan realizar los cambios estructurales de organización interna para el debido funcionamiento administrativo y operativo de las Direcciones de Transporte Municipales de nueva creación.
+
+QUINTO.- Los derechos de las personas trabajadoras y demás personal operativo de las actuales Direcciones Municipales de Seguridad Pública y Tránsito Municipal, que formaran parte de las nuevas Direcciones de Transporte, su adscripción o comisión se deberá realizar con total respeto sus derechos laborales previamente adquiridos.
+
+SEXTO.- Las disposiciones legales y reglamentarias que se opongan a la presente Ley quedarán derogadas a partir de su entrada en vigor de conformidad a lo establecido en el presente Decreto.
