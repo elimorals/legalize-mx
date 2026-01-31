@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-adquisiciones-enajenaciones-arrendamientos-117877"
 country: "mx"
 rank: "ley"
 publication_date: "2016-11-12"
-last_updated: "2024-03-16"
+last_updated: "2026-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS, PRESTACIÓN DE SERVICIOS Y ADMINISTRACIÓN DE BIENES MUEBLES E INMUEBLES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2026.
 
 Ley publicada en la Séptima Sección al Número 46 del Periódico Oficial del Estado de Oaxaca, el sábado 12 de noviembre de 2016.
 
@@ -85,7 +85,9 @@ II. Adjudicación directa: Procedimiento adquisitivo de excepción a la licitaci
 
 III. Comité: el Comité de Adquisiciones, Enajenaciones, Arrendamientos y Servicios del Estado de Oaxaca;
 
-IV. Contraloría: La Secretaría de la Contraloría y Transparencia Gubernamental;
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2026)</small>
+
+IV. Secretaría de Honestidad: La Secretaría (sic) Honestidad, Transparencia y Función Pública;
 
 V. Dependencias: Los entes públicos comprendidos dentro de la Administración Pública Centralizada;
 
@@ -183,15 +185,17 @@ II. Controlar el uso de los recursos materiales, utilizados por las Dependencias
 
 III. Intervenir y llevar a cabo los procedimientos de contratación de adquisiciones, arrendamientos y servicios que requieran las Dependencias y Entidades, conforme a esta Ley;
 
-IV. Integrar, actualizar y controlar el Padrón de Proveedores de la Administración Pública Estatal;
+IV. (DEROGADA, P.O. 31 DE ENERO DE 2026)
 
 V. Contratar, en su caso, asesoría técnica para la realización de investigaciones de mercado, el mejoramiento del sistema de adquisiciones, enajenaciones, arrendamientos y servicios, así como la verificación de precios, pruebas de calidad y otras actividades vinculadas con el objeto de esta Ley, y
 
 VI. Las demás que esta Ley y las disposiciones que de ella deriven le confieran.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2026)</small>
+
 ###### Artículo 10.
 
-Para el cumplimiento en lo dispuesto por esta Ley, la Contraloría tendrá las siguientes facultades:
+Para el cumplimiento en lo dispuesto por esta Ley, la Secretaría de Honestidad tendrá las siguientes facultades:
 
 I. Participar y supervisar el desarrollo de los procedimientos contemplados en esta Ley;
 
@@ -203,7 +207,11 @@ IV. Revisar los procedimientos implementados para el control de inventarios, ase
 
 V. Conocer y resolver sobre la solución de controversias por los actos que contravengan las disposiciones previstas en esta Ley, y
 
-VI. Las demás que esta Ley y las disposiciones que de ella deriven le confieran.
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2026)</small>
+
+VI. Integrar, operar y administrar el Padrón de Proveedores de la Administración Pública Estatal; y
+
+VII. Las demás que esta Ley y las disposiciones que de ella deriven le confieran.
 
 > <small>(REFORMADO, P.O. 29 DE JULIO DE 2023)</small>
 
@@ -655,11 +663,15 @@ Para este procedimiento de adjudicación se seleccionará a las personas que cue
 
 ### CAPÍTULO VII. DEL PADRÓN DE PROVEEDORES DE LA ADMINISTRACIÓN PÚBLICA ESTATAL
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2026)</small>
+
 ###### Artículo 48.
 
-La Secretaría integrará y administrará el padrón, clasificará a los Proveedores inscritos en el mismo de acuerdo con su capacidad técnica, económica, actividad y domicilio. Este padrón será publicado en el sistema de adquisiciones estatal y lo mantendrá permanentemente actualizado.
+La Secretaría de Honestidad integrará, operará y administrará el padrón de proveedores, clasificará a los Proveedores inscritos en el mismo de acuerdo con su capacidad técnica, económica, actividad y domicilio. Este padrón será publicado bimestralmente y lo mantendrá permanentemente actualizado; para tales efectos la Secretaría de Honestidad, contará con un Sistema para la integración, operación y administración del Padrón de Proveedores.
 
-El registro, actualización y renovación en el padrón, serán gratuitos y obligatorios según lo dispuesto en la presente Ley, por lo que sólo se podrán celebrar pedidos o contratos con las personas que acrediten estar debidamente inscritas en el padrón.
+Los lineamientos que para tal efecto emita la Secretaría de Honestidad, determinarán la clasificación de los proveedores inscritos en el padrón, de acuerdo con su capacidad técnica, económica, actividad y domicilio, para lo cual las Dependencias y Entidades de la Administración Púbica (sic) Estatal deberán observar dicho clasificador al momento de realizar contrataciones, quedando bajo su más estricta responsabilidad la contratación de proveedores de acuerdo a la clasificación asignada.
+
+La inscripción, modificación, renovación y reclasificación en el padrón tendrá un costo, conforme a la Ley Estatal de Derechos del Estado de Oaxaca y serán obligatorios según lo dispuesto en la presente Ley, por lo que sólo se podrán celebrar pedidos o contratos con las personas que acrediten estar debidamente inscritas en el padrón.
 
 El registro o renovación en el padrón tendrá vigencia anual. Los Proveedores, para renovar su registro, deberán de presentar su solicitud dentro de los siete días hábiles anteriores a su vencimiento, si omiten presentar la solicitud en el plazo indicado tendrá como consecuencia la cancelación del registro solicitado.
 
@@ -667,21 +679,27 @@ El registro o renovación en el padrón tendrá vigencia anual. Los Proveedores,
 
 El padrón tiene por objeto facilitar a la administración pública estatal la información completa, confiable y oportuna, sobre los Proveedores con capacidad de proporcionar bienes o prestar servicios, en la cantidad, calidad y oportunidad que se requiera, para obtener las mejores condiciones de contratación. Adicionalmente permitirá agilizar los procedimientos de contratación.
 
-El registro en el padrón será obligatorio para los Proveedores que pretendan participar en las modalidades de compra directa menor, adjudicación directa, invitación restringida, invitación abierta estatal y licitación pública estatal. Para los procedimientos de Licitación Pública Nacional o Internacional, el registro no será un requisito de participación.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2026)</small>
 
-Los requisitos para la inscripción en el padrón serán los establecidos en el Reglamento de la Ley.
+El registro en el padrón será obligatorio para los Proveedores Estatales o Nacionales que pretendan participar en las modalidades de compra directa menor, adjudicación directa, invitación restringida, invitación abierta estatal y licitación pública estatal. Para los procedimientos de Licitación Pública Nacional o Internacional, el registro no será un requisito de participación.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2026)</small>
+
+Los requisitos para la inscripción en el padrón serán los establecidos en el Reglamento de la Ley y la normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2026)</small>
 
 ###### Artículo 50.
 
-Los Proveedores inscritos en el padrón deberán comunicar en cualquier tiempo a la Secretaría, las modificaciones legales, de capacidad técnica, económica o productiva y aquellas que puedan implicar un cambio en su clasificación.
+Los Proveedores inscritos en el padrón deberán comunicar en cualquier tiempo a la Secretaría de Honestidad, las modificaciones legales, de capacidad técnica, económica o productiva y aquellas que puedan implicar un cambio en su clasificación.
 
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 2023)</small>
+La Secretaría, las Dependencias y las Entidades deberán invitar a los procedimientos de adquisiciones, arrendamientos y servicios a las personas inscritas en el padrón, de acuerdo con la clasificación en que estén registradas, otorgando preferencia en igualdad de condiciones a los Proveedores Estatales, particularmente si se trata de empresas conformadas por comunidades indígenas de afrodescendientes. Sin perjuicio de lo anterior, las Dependencias o Entidades podrán invitar a personas para inscribirse al padrón.
 
-La Secretaría, las Dependencias y las Entidades deberán invitar a los procedimientos de adquisiciones, arrendamientos y servicios a las personas inscritas en el padrón, de acuerdo con la clasificación en que estén registradas, otorgando preferencia en igualdad de condiciones a los Proveedores Estatales, particularmente si se trata de empresas conformadas por comunidades indígenas o de afrodescendientes. Sin perjuicio de lo anterior, las Dependencias o Entidades podrán invitar a personas para inscribirse al padrón.
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2026)</small>
 
 ###### Artículo 51.
 
-La Secretaría dentro de un término que no excederá de siete días hábiles contados a partir de la fecha de recepción de la solicitud, resolverá sobre el registro, renovación, actualización de datos o la modificación o ampliación de la clasificación en el padrón.
+La Secretaría de Honestidad en un plazo no mayor a quince días hábiles, posteriores a que la persona solicitante haya cumplido con los requisitos, expedirá la constancia de inscripción, renovación o reclasificación correspondiente.
 
 ### CAPÍTULO VIII. DE LOS CONTRATOS Y PEDIDOS
 
@@ -1017,45 +1035,75 @@ No se impondrán sanciones cuando se haya incurrido en la infracción por causa 
 
 Cuando la Contraloría, de la revisión de un pedido o contrato considere que el mismo no se ajusta a las prevenciones de esta Ley, o a cualquier otra disposición aplicable, comunicará sus observaciones a la convocante, Dependencia o Entidad solicitante, según corresponda, y en su caso, a los Proveedores, para su cumplimentación. En caso de incumplimiento, la Contraloría comunicará a la convocante o la Secretaría o entidad contratante según corresponda, la procedencia de la suspensión o cancelación del pedido o la rescisión del contrato, a fin de que se actúe en consecuencia, sin perjuicio de la imposición de sanciones que procedan.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2026)</small>
+
 ###### Artículo 92.
 
-Los Proveedores que incurran en infracciones a esta Ley, podrán ser sancionados por la Secretaría, con la suspensión o cancelación de su registro en el Padrón de Proveedores. Toda sanción deberá ser notificada por escrito, para los efectos conducentes.
+Los Proveedores que incurran en infracciones a esta Ley, podrán ser sancionados por la Secretaría de Honestidad, con la suspensión o cancelación de su registro en el Padrón de Proveedores. Toda sanción deberá ser notificada por escrito, para los efectos conducentes.
 
-La Contraloría, comunicará a las Dependencias y Entidades, la conducta del infractor, a fin de que se observe lo dispuesto por el artículo 17 de este ordenamiento.
+La Secretaría de Honestidad, comunicará a las Dependencias y Entidades, la conducta del infractor, a fin de que se observe lo dispuesto por el artículo 17 de este ordenamiento.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2026)</small>
 
 ###### Artículo 93.
 
-La Secretaría, podrá suspender el registro de un Proveedor del padrón, o negar la actualización del mismo cuando:
+La Secretaría de Honestidad, podrá suspender el registro de un Proveedor del padrón, o negar la modificación del mismo, cuando:
 
-I. Deje de reunir los requisitos que exige para tal efecto, esta Ley;
+I. Deje de reunir los requisitos que exige para tal efecto esta Ley y demás normatividad aplicable;
 
-II. No cumpla en el plazo convenido para ello y por causas imputables a él, con algún pedido o contrato a que se hubiere comprometido o perjudique con ello, los intereses de la Administración Pública Estatal, y
+II. No cumpla en el plazo convenido para ello y por causas imputables a él, con algún pedido o contrato a que se hubiere comprometido o perjudique con ello, los intereses de la Administración Pública Estatal;
 
-III. Se niegue a dar facilidades necesarias para que los órganos y entidades facultadas para ello, ejerzan sus funciones de vigilancia, inspección, control y fiscalización.
+III. Se niegue a dar facilidades necesarias para que los órganos y entidades facultadas para ello, ejerzan sus funciones de vigilancia, inspección, control y fiscalización;
 
-Cuando desaparezcan las causas que hubiesen motivado la suspensión del registro, el Proveedor lo acreditará ante la Secretaría, la que dispondrá lo conducente a fin de que el registro del interesado vuelva a surtir efectos legales.
+IV. La información o documentación que hubiese proporcionado resultare falsa o se encuentre alterada;
+
+V. No se entreguen los bienes, ni preste los servicios y/o arrendamientos en las condiciones estipuladas;
+
+VI. Se nieguen a sustituir las mercancías o servicios que no reúnan los requisitos de calidad contratadas;
+
+VII. Se retrase en forma reiterada en la entrega de los bienes y servicios por causas no justificadas; y
+
+VIII. Si de la verificación domiciliar se advierte que, en el domicilio fiscal señalado por el proveedor, se encuentren domiciliadas otras solicitantes y/o proveedores o, compartan de manera enunciativa más no limitativa: socios, administradores únicos, gerentes generales, representantes legales u homólogos.
+
+Cuando desaparezcan las causas que hubiesen motivado la suspensión del registro, el Proveedor lo acreditará ante la Secretaría de Honestidad, la que dispondrá lo conducente a fin de que el registro del interesado vuelva a surtir efectos legales.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2026)</small>
 
 ###### Artículo 94.
 
-La Secretaría, podrá cancelar el registro del Proveedor cuando:
+La Secretaría de Honestidad, podrá cancelar el registro del Proveedor cuando:
 
-I. La información que hubiese proporcionado para la inscripción resultare falsa o haya actuado con dolo o mala fe, en alguno de los procedimientos de adjudicación del pedido o contrato, en su celebración o en su cumplimiento;
+I. La información o documentación que hubiese proporcionado para la inscripción, modificación, renovación o reclasificación, resultare falsa o se encuentre alterada.
 
 II. No cumpla en sus términos, con algún pedido o contrato por causas imputables a él o perjudique con ello, gravemente los intereses de la Administración Pública Estatal;
 
 III. Incurra en actos, prácticas u omisiones que lesionen el interés general o los de la economía estatal;
 
-IV. Se le declare incapacitado legalmente para celebrar actos o contratos de los regulados por esta Ley;
+IV. Se le declare impedido legalmente para celebrar actos o contratos de los regulados por esta Ley;
 
-V. El Proveedor que en su carácter de comerciante sea declarado en concurso mercantil;
+V. El Proveedor que en su carácter de comerciante sea declarado en concurso mercantil
 
-VI. No atienda en tres ocasiones las invitaciones que se le realicen;
+VI. No atienda en tres ocasiones las invitaciones que se le realicen
 
 VII. No se presenten a formalizar el pedido o contrato o incumpla con ese sin causa justificada, después de adjudicado;
 
-VIII. Existan a su cargo créditos fiscales firmes, o
+VIII. Existan a su cargo créditos fiscales firmes;
 
-IX. No proporcione la información solicitada por la autoridad competente sin causa justificada, en términos del artículo 46 A del Código Fiscal para al Estado de Oaxaca y demás disposiciones fiscales.
+IX. No proporcione la información solicitada por la autoridad competente sin causa justificada, en términos del artículo 46 A del Código Fiscal para el Estado de Oaxaca y demás disposiciones fiscales.
+
+X. En el caso de que, en alguna de las etapas del procedimiento de licitación o adjudicación directa, la información o documentación que hubiese proporcionado, resultare falsa o se encuentre alterada;
+
+XI. Se encuentre inhabilitado;
+
+XII. No respete los precios o no cumpla en sus términos el contrato;
+
+XIII. Incurra en actos, prácticas y/u omisiones que lesionen el interés general, o provoquen daño a la Hacienda Pública Estatal;
+
+XIV. Se declare en estado de quiebra, o esté sujeta a concurso de acreedores;
+
+XV. Cuando el proveedor incurra en infracciones a la Ley, su reglamento o los presentes lineamientos; y
+
+XVI. Cuando se omita presentar la solicitud de renovación en el plazo señalado, en este caso, la cancelación se hará al vencimiento del registro.
 
 ## TÍTULO SEXTO. DE LA SOLUCIÓN DE LAS CONTROVERSIAS
 
@@ -1312,3 +1360,25 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO. Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al presente Decreto.
+
+P.O. 31 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 871.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN XXXV, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 47, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA; SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 3, EL PRIMER PÁRRAFO DEL ARTÍCULO 10, EL ARTÍCULO 48, EL SEGUNDO Y TERCER PÁRRAFO DEL ARTÍCULO 49, LOS ARTÍCULOS 50, 51, 92, 93 Y 94; SE ADICIONA LA FRACCIÓN VI RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 10; Y SE DEROGA LA FRACCIÓN IV DEL ARTÍCULO 9 DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS, PRESTACIÓN DE SERVICIOS Y ADMINISTRACIÓN DE BIENES MUEBLES E INMUEBLES DEL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido del presente Decreto.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto, y a más tardar dentro del plazo de 90 días hábiles, la Secretaría de Finanzas, la Secretaría de Administración y la Secretaría de Honestidad, Transparencia y Función Pública, deberán realizar las adecuaciones normativas, presupuestales, programáticas y administrativas, para el debido cumplimiento del presente Decreto.
+
+QUINTO. La Secretaría de Honestidad, Transparencia y Función Pública, a efecto de dar inicio a las funciones del nuevo Padrón de Proveedores, en un plazo no mayor a noventa días hábiles, deberá implementar para su operatividad la creación de un Sistema del Padrón de Proveedores de la Administración Pública Estatal, por lo que una vez implementado dicho sistema, y publicado los LINEAMIENTOS GENERALES PARA LA INTEGRACIÓN Y REGULACIÓN DEL REGISTRO EN EL PADRÓN DE PROVEEDORES DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, se dará el inicio de operaciones del nuevo padrón de proveedores.
+
+SEXTO. Hasta en tanto no se dé el inicio de funciones del nuevo Sistema del Padrón de Proveedores de la Secretaría de Honestidad, Transparencia y Función Pública, la Secretaría de Administración, continuará atendiendo hasta su conclusión conforme a las disposiciones aplicables vigentes a su inicio, los asuntos que se encuentren en trámite o pendientes ante el Padrón de Proveedores, con motivo de la información y/o documentación que se haya recibido o generado con anterioridad a la entrada en vigor del presente Decreto.
+
+Una vez que se dé el inicio de funciones del nuevo sistema del padrón de proveedores, queda sin efectos y/o insubsistente el Padrón de Proveedores de la Secretaría de Administración, por lo que, toda información y/o documentación que se haya generado con anterioridad a la entrada en vigor del presente Decreto, con motivo de los trámites en dicho Padrón, quedará bajo resguardo de la Secretaría de Administración, en términos de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Oaxaca, la Ley de Transparencia, Acceso a la Información Pública con Sentido Social y Buen Gobierno del Estado de Oaxaca, la Ley de Archivo para el Estado de Oaxaca y demás normatividad aplicable.
+
+Las constancias que se encuentren vigentes, con motivo del registro en el Padrón de Proveedores de la Secretaría de Administración, mantendrán la vigencia previamente establecida en las mismas.
+
+SÉPTIMO. Hasta en tanto se realicen las modificaciones a las diversas normativas, deberá entenderse en lo relativo a la antes Secretaría de la Contraloría y Transparencia Gubernamental y/o Contraloría, a la ahora Secretaría de Honestidad, Transparencia y Función Pública.
