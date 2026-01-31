@@ -4,7 +4,7 @@ identifier: "BCS-ley-ganadera-del-estado-de-baja-california-sur-36507"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2020-01-20"
+last_updated: "2026-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY GANADERA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE ENERO DE 2026.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el 31 de diciembre de 2003.
 
@@ -351,6 +351,14 @@ XIII.- Celebrar convenios con las organizaciones pecuarias y organismos auxiliar
 
 XIV.- Promover y difundir los conocimientos científicos, tecnológicos y educativos del ramo pecuario.
 
+> <small>(ADICIONADA, B.O. 31 DE ENERO DE 2026)</small>
+
+XIV Bis.- Establecer y garantizar la continuidad del Plan Estratégico para Mitigar los Efectos de la Sequía Recurrente en el Sector Ganadero del Estado de Baja California Sur.
+
+> <small>(ADICIONADA, B.O. 31 DE ENERO DE 2026)</small>
+
+XIV Ter.- Establecer y garantizar la continuidad del Programa Estatal de Seguro de Vida e Invalidez para Productores Ganaderos del Estado de Baja California Sur.
+
 > <small>(ADICIONADA, B.O. 20 DE ENERO DE 2020)</small>
 
 XV.- Las demás que le confiera esta Ley y sus Reglamentos así como disposiciones aplicables en materia ganadera.
@@ -390,6 +398,14 @@ XIII.- Determinar la forma y condiciones de la movilización de ganado, de los p
 XIV.- Solicitar la cooperación de las Autoridades auxiliares ganaderas;
 
 XV.- Ejecutar las disposiciones que en materia ganadera le encomiende el Ejecutivo; y
+
+> <small>(ADICIONADA, B.O. 31 DE ENERO DE 2026)</small>
+
+XV Bis.- Implementar, supervisar, evaluar y actualizar anualmente el Plan Estratégico para Mitigar los Efectos de la Sequía Recurrente en el Sector Ganadero, publicando sus lineamientos en el Boletín Oficial del Gobierno del Estado.
+
+> <small>(ADICIONADA, B.O. 31 DE ENERO DE 2026)</small>
+
+XV Ter.- Implementar, supervisar, evaluar y actualizar anualmente el Programa Estatal de Seguro de Vida e Invalidez para Productores Ganaderos, publicando sus lineamientos en el Boletín Oficial del Gobierno del Estado.
 
 XVI.- Las demás que le confiera esta Ley y su Reglamento.
 
@@ -2092,3 +2108,31 @@ Segundo.- Los Consejos Estatal y Municipales para la prevención y eliminación 
 Tercero.-: Los ayuntamientos del Estado, modificaran sus bandos y reglamentos en un plazo de 60 días después de publicado el presente Decreto a fin de hacer efectivas las disposiciones establecidas en la presente Ley.
 
 Cuarto.- Se derogan todas aquellas disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+B.O. 31 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3264 SE ADICIONA UNA FRACCIÓN XIV BIS Y UNA FRACCIÓN XIV TER AL ARTÍCULO 7° Y UNA FRACCIÓN XV BIS Y UNA FRACCIÓN XV TER AL ARTÍCULO 8° DE LA LEY GANADERA DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los recursos necesarios para la operación del Plan Estratégico Permanente para Atender al Sector Ganadero por los Efectos de la Sequía Recurrente en Baja California Sur y del El Programa Estatal de Seguro de Vida e Invalidez para Productores Ganaderos de Baja California Sur; deberán de incluirse anualmente en el Presupuesto de Egresos del Gobierno del Estado, específicamente a la Secretaria de Pesca, Acuacultura y Desarrollo Agropecuario.
+
+###### ARTÍCULO TERCERO.
+
+Con el fin de garantizar la viabilidad y permanencia del Plan Estratégico Permanente para Atender al Sector Ganadero por los Efectos de la Sequía Recurrente en Baja California Sur y del Programa Estatal de Seguro de Vida e Invalidez para Productores Ganaderos de Baja California Sur; los recursos destinados a su financiamiento deberán incrementarse anualmente, en el Presupuesto de Egresos del Gobierno del Estado, en un porcentaje equivalente al índice oficial de inflación determinado para el año inmediato anterior por el Instituto Nacional de Estadística y Geografía (INEGI).
+
+###### ARTÍCULO CUARTO.
+
+La Secretaria de Pesca, Acuacultura y Desarrollo Agropecuario dentro del plazo de 120 días naturales a partir de la entrada en vigor del presente Decreto, deberá de actualizar los lineamientos vigentes del Plan Estratégico Permanente para Atender al Sector Ganadero por los Efectos de la Sequía Recurrente en Baja California Sur y del Programa Estatal de Seguro de Vida e Invalidez para Productores Ganaderos de Baja California Sur; asegurando su armonía o concordancia con el presente decreto.
+
+###### ARTÍCULO QUINTO.
+
+Los lineamientos del Plan Estratégico Permanente para Atender al Sector Ganadero por los Efectos de la Sequía Recurrente en Baja California Sur y del Programa Estatal de Seguro de Vida e Invalidez para Productores Ganaderos de Baja California Sur; deberán de ser publicados por la Secretaria de Pesca, Acuacultura y Desarrollo Agropecuario anualmente dentro de los 30 días naturales iniciales de cada año.
+
+###### ARTÍCULO SEXTO.
+
+Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
