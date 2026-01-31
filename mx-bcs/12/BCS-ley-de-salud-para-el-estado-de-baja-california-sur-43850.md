@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-salud-para-el-estado-de-baja-california-sur-43850"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2025-09-10"
+last_updated: "2026-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43850&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE ENERO DE 2026.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el día 31 de diciembre de 2004.
 
@@ -597,7 +597,9 @@ Si la persona beneficiara requiere que se realice alguno de los servicios que ob
 
 El Gobierno del Estado a través de la Secretaría de Salud, de conformidad con las disposiciones legales aplicables, vigilará que las instituciones que presten servicios de salud en la entidad apliquen el cuadro básico de insumos para el primer nivel de atención médica y el catálogo de insumos para el segundo y tercer nivel del sector salud. Así mismo, convendrá con el Gobierno Federal los términos en que las dependencias y entidades del estado que presten servicios de salud, puedan participar en la elaboración del mencionado cuadro básico.
 
-La Secretaría de Salud coordinará las acciones del Régimen Estatal de Protección Social en Salud, el cual contará con la participación subsidiaria y coordinada de la Federación, de conformidad a lo establecido en el título tercero de la Ley General de Salud.
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2026)</small>
+
+El Gobierno del Estado, en coordinación con la Federación y conforme a lo dispuesto en el Título Tercero Bis de la Ley General de Salud, garantizará, a través del Sistema de Salud para el Bienestar, la prestación gratuita de servicios de salud, medicamentos y demás insumos asociados a la población sin seguridad social. Asimismo, la Secretaría de Salud del Estado fortalecerá la coordinación interinstitucional mediante una rectoría efectiva que asegure el cumplimiento de los objetivos prioritarios en materia de salud pública.
 
 Los recursos de carácter federal a que se refiere la Ley General de Salud para la operación del Régimen Estatal de Protección en Salud que se transfieran al Estado no serán embargables, ni el Gobierno del Estado podrá, bajo ninguna circunstancia, gravarlos, afectarlos en garantía, ni destinarlos a fines distintos a los expresamente previstos. Dichos recursos se administrarán y ejercerán por el Gobierno del Estado conforme a sus propias leyes y con base en los acuerdos de coordinación que se celebren para el efecto.
 
@@ -3574,3 +3576,15 @@ B.O. 10 DE SEPTIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 3164 SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 21 DE LA LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3248 SE ABROGA LA LEY ORGÁNICA DEL RÉGIMEN ESTATAL DE PROTECCIÓN SOCIAL EN SALUD DE BAJA CALIFORNIA SUR, Y SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 33 DE LA LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Los recursos materiales y financieros asignados, adscritos y adquiridos, por cualquier medio, por el ahora extinto Organismo Público Descentralizado Régimen Estatal de Protección Social en Salud de Baja California Sur, así como los trámites administrativos y legales que se encuentran en proceso a la fecha de emisión del presente Decreto, se transferirán íntegramente a la institución que requiera la dependencia encargada de conducir la política en materia de salud en el Estado, para que dé continuidad a los objetivos y programas institucionales en materia de protección del derecho a la salud.
