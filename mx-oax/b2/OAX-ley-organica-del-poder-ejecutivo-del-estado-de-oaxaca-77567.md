@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2026-01-10"
+last_updated: "2026-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE ENERO DE 2026.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -2657,9 +2657,11 @@ XXXIII. Integrar a través de su Titular el Comité Coordinador del Sistema Esta
 
 XXXIV. Integrar un registro de los contratistas que deseen ejecutar obras públicas y servicios relacionados, que garanticen las mejores condiciones en cuanto a oferta y calidad, conforme a su especialidad, capacidad técnica y económica y experiencia.
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2019)</small>
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2026)</small>
 
-XXXV. Las demás que en el ámbito de su competencia le confiera directamente el Titular del Ejecutivo del Estado, su Reglamento Interno, la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca; y demás disposiciones normativas aplicables.
+XXXV. Integrar, operar y administrar el Padrón de Proveedores, clasificando a los proveedores que se inscriban en el mismo, de acuerdo a su capacidad técnica, económica, actividad y domicilio, así como su especialización y experiencia.
+
+XXXVI. Las demás que en el ámbito de su competencia le confiera directamente el Titular del Ejecutivo del Estado, su Reglamento Interno, la Ley de Responsabilidades Administrativas del Estado y Municipios de Oaxaca; y demás disposiciones normativas aplicables.
 
 ARTÍCULO 47 BIS. (DEROGADO, P.O. 28 DE ENERO DE 2017)
 
@@ -4316,3 +4318,25 @@ P.O. 10 DE ENERO DE 2026.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 31 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 871.- MEDIANTE EL CUAL ADICIONA LA FRACCIÓN XXXV, RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 47, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA; SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 3, EL PRIMER PÁRRAFO DEL ARTÍCULO 10, EL ARTÍCULO 48, EL SEGUNDO Y TERCER PÁRRAFO DEL ARTÍCULO 49, LOS ARTÍCULOS 50, 51, 92, 93 Y 94; SE ADICIONA LA FRACCIÓN VI RECORRIÉNDOSE EN SU ORDEN LA SUBSECUENTE DEL ARTÍCULO 10; Y SE DEROGA LA FRACCIÓN IV DEL ARTÍCULO 9 DE LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS, PRESTACIÓN DE SERVICIOS Y ADMINISTRACIÓN DE BIENES MUEBLES E INMUEBLES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido del presente Decreto.
+
+CUARTO. A partir de la entrada en vigor del presente Decreto, y a más tardar dentro del plazo de 90 días hábiles, la Secretaría de Finanzas, la Secretaría de Administración y la Secretaría de Honestidad, Transparencia y Función Pública, deberán realizar las adecuaciones normativas, presupuestales, programáticas y administrativas, para el debido cumplimiento del presente Decreto.
+
+QUINTO. La Secretaría de Honestidad, Transparencia y Función Pública, a efecto de dar inicio a las funciones del nuevo Padrón de Proveedores, en un plazo no mayor a noventa días hábiles, deberá implementar para su operatividad la creación de un Sistema del Padrón de Proveedores de la Administración Pública Estatal, por lo que una vez implementado dicho sistema, y publicado (sic) los LINEAMIENTOS GENERALES PARA LA INTEGRACIÓN Y REGULACIÓN DEL REGISTRO EN EL PADRÓN DE PROVEEDORES DE LA ADMINISTRACIÓN PÚBLICA ESTATAL, se dará el inicio de operaciones del nuevo padrón de proveedores.
+
+SEXTO. Hasta en tanto no se dé el inicio de funciones del nuevo Sistema del Padrón de Proveedores de la Secretaría de Honestidad, Transparencia y Función Pública, la Secretaría de Administración, continuará atendiendo hasta su conclusión conforme a las disposiciones aplicables vigentes a su inicio, los asuntos que se encuentren en trámite o pendientes ante el Padrón de Proveedores, con motivo de la información y/o documentación que se haya recibido o generado con anterioridad a la entrada en vigor del presente Decreto.
+
+Una vez que se dé el inicio de funciones del nuevo sistema del padrón de proveedores, queda sin efectos y/o insubsistente el Padrón de Proveedores de la Secretaría de Administración, por lo que, toda información y/o documentación que se haya generado con anterioridad a la entrada en vigor del presente Decreto, con motivo de los trámites en dicho Padrón, quedará bajo resguardo de la Secretaría de Administración, en términos de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Oaxaca, la Ley de Transparencia, Acceso a la Información Pública con Sentido Social y Buen Gobierno del Estado de Oaxaca, la Ley de Archivo para el Estado de Oaxaca y demás normatividad aplicable.
+
+Las constancias que se encuentren vigentes, con motivo del registro en el Padrón de Proveedores de la Secretaría de Administración, mantendrán la vigencia previamente establecida en las mismas.
+
+SÉPTIMO. Hasta en tanto se realicen las modificaciones a las diversas normativas, deberá entenderse en lo relativo a la antes Secretaría de la Contraloría y Transparencia Gubernamental y/o Contraloría, a la ahora Secretaría de Honestidad, Transparencia y Función Pública.
