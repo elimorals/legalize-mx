@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-150086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-09-30"
-last_updated: "2025-11-21"
+last_updated: "2026-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE ENERO DE 2026.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur, el jueves 30 de Septiembre de 2021.
 
@@ -1161,7 +1161,9 @@ Cuando haya que cubrir la vacante de Oficial Mayor y el Congreso no estuviere re
 
 Artículo 67
 
-Son obligaciones y atribuciones del Oficial Mayor:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2026)</small>
+
+Son obligaciones y atribuciones de la persona Titular de la Oficialía Mayor:
 
 I.- Manejar el aspecto administrativo del Congreso;
 
@@ -1227,9 +1229,17 @@ XXV.- Apoyar y auxiliar a los Diputados que lo soliciten en el desempeño de su 
 
 XXVI.- Las demás acordadas por la Asamblea, o que prescriban esta Ley y los Reglamentos que de ella emanen.
 
-> <small>(REFORMADA, B.O. 21 DE JULIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2026)</small>
 
-XXVII.- Con la información que le deberán entregar la Dirección de Finanzas, Dirección de Comunicación Social, Departamento de Apoyo Parlamentario, Departamento de Servicios Generales, Departamento de Recursos Materiales, Departamento de Recursos Humanos, Coordinación de Archivos, Asesores, Asesores Jurídicos y Asesores Parlamentarios, Fracciones Parlamentarias, Comisiones Legislativas, Mesa Directiva, Junta de Gobierno y Coordinación Política, Unidad para la Igualdad de Género e Instituto de Estudios Legislativos instruirá al Departamento de Informática a publicar en la página Web del Congreso del Estado la información de carácter legislativo, administrativo y financiero, enumerada en el artículo 253 de la presente Ley, misma que pondrá a disposición de la Unidad de Transparencia del Congreso del Estado.
+XXVII.- Con la información que le deberán entregar las áreas, departamentos, unidades, coordinaciones, direcciones y las personas servidoras públicas conforme a sus facultades, competencias o funciones, de conformidad con lo establecido en el artículo 253 de la presente Ley, instruirá al Departamento de Informática publicar en la página de internet del Congreso del Estado, según corresponda la información común y específica que aluden los artículos 66 y 69 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur, misma que pondrá a disposición de la Unidad de Transparencia del Congreso del Estado;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2026)</small>
+
+XXIX.- El cumplimiento de las obligaciones en materia de transparencia establecidas en la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur.
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2026)</small>
+
+XXX.- El cumplimiento de las solicitudes que formule la Contraloría del Poder Legislativo del Estado de Baja California Sur en cuanto a información en materia de transparencia y acceso a la información pública, protección de datos personales y demás requerimientos que se le soliciten.
 
 > <small>(ADICIONADO, B.O. 21 DE JULIO DE 2023)</small>
 
@@ -1495,7 +1505,9 @@ El Congreso nombrará un Director de Finanzas cuya función será la de planear,
 
 Artículo 70
 
-Son obligaciones y atribuciones del Director de Finanzas:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2026)</small>
+
+Son obligaciones y atribuciones de la persona Titular de la Dirección de Finanzas:
 
 I.- Recibir de la Secretaría de Finanzas del Gobierno del Estado los fondos con que se cubrirán los pagos a que haya lugar, de acuerdo a los compromisos financieros contraídos por el Congreso;
 
@@ -1513,7 +1525,17 @@ VII.- Informar periódicamente a la Comisión de Cuenta y Administración y a la
 
 VIII.- Representar legalmente al Congreso del Estado ante las autoridades hacendarias federales y locales.
 
-IX.- Las demás que acuerden la Asamblea, la Comisión de Cuenta y Administración, la Junta de Gobierno y Coordinación Política, y las que prescriban esta Ley y sus Reglamentos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE ENERO DE 2026)</small>
+
+IX.- El cumplimiento de las obligaciones en materia de transparencia establecidas en la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur;
+
+> <small>(ADICIONADA, P.O. 31 DE ENERO DE 2026)</small>
+
+X.- El cumplimiento de las solicitudes que formule la Contraloría del Poder Legislativo del Estado de Baja California Sur, en cuanto a información en materia de transparencia y acceso a la información pública, protección de datos personales y los demás requerimientos que se le soliciten.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE ENERO DE 2026)</small>
+
+XI.- Las demás que acuerden la Asamblea, la Comisión de Cuenta y Administración, la Junta de Gobierno y Coordinación Política, y las que prescriban esta Ley y sus Reglamentos.
 
 ### CAPITULO DÉCIMO. DE LA CONTRALORÍA
 
@@ -3091,11 +3113,13 @@ Artículo 252
 
 En materia de transparencia y acceso a la información pública, el Poder Legislativo observará los principios y bases establecidos en el apartado “A”, del artículo 6° de la Constitución Política de los Estados Unidos Mexicanos y el apartado “B” del numeral 13 de la Constitución Política del Estado Libre y Soberano de Baja California Sur, así como lo dispuesto por la Ley General de Transparencia y Acceso a la Información Pública, Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur y en los demás ordenamientos que regulen aspectos relacionados con esta materia.
 
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2026)</small>
+
 Artículo 253
 
-El Poder Legislativo pondrá a disposición del público y mantendrán actualizada en su página de internet, de acuerdo con sus facultades, atribuciones, funciones y según corresponda la información común que alude el artículo 75 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur.
+El Poder Legislativo pondrá a disposición del público y mantendrán actualizada en su página de internet, de acuerdo con sus facultades, atribuciones, funciones y según corresponda la información común que alude el artículo 66 de (sic) Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur.
 
-Además de lo señalado en el párrafo que antecede, el Congreso del Estado deberá poner a disposición del público y actualizada en su página de internet la información señalada en los artículos 77 y 78 de la Ley antes citada.
+Además de lo señalado en el párrafo que antecede, el Congreso del Estado deberá poner a disposición del público y actualizada en su página de internet la información señalada en el artículo 69 Ley antes citada.
 
 Artículo 254
 
@@ -3129,7 +3153,9 @@ El Comité de Transparencia de la Legislatura saliente deberá elaborar un infor
 
 Artículo 258
 
-El Congreso del Estado contará con una Unidad de Transparencia la cual se integrará de la siguiente forma:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE ENERO DE 2026)</small>
+
+El Congreso del Estado contará con una Unidad de Transparencia, que dependerá de la Contraloría del Poder Legislativo del Estado de Baja California Sur, y se integrará de la siguiente forma:
 
 I.- Un Titular;
 
@@ -3137,9 +3163,13 @@ II.- Un Auxiliar Jurídico;
 
 III.- Un Auxiliar en Informática; y
 
-IV.- Por el personal que designe la Junta de Gobierno y Coordinación Política para el cumplimiento de sus fines y buen funcionamiento.
+> <small>(REFORMADA, P.O. 31 DE ENERO DE 2026)</small>
 
-Serán competencia de la Unidad los asuntos a que se refiere el artículo 31 de la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur y los que le asigne el Reglamento de Transparencia del Congreso.
+IV.- Por el personal que asigne la persona Titular de la Contraloría del Poder Legislativo del Estado de Baja California Sur o la Junta de Gobierno y Coordinación Política.
+
+> <small>(REFORMADO, P.O. 31 DE ENERO DE 2026)</small>
+
+Serán competencia de la Unidad los asuntos a que se refiere la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur y los que le asignen (sic) el Reglamento Interior de la Contraloría del Poder Legislativo del Estado de Baja California Sur.
 
 Artículo 259
 
@@ -3484,3 +3514,15 @@ DÉCIMO SEGUNDO. En tanto entre en funciones el Instituto de Transparencia para 
 DÉCIMO TERCERO. Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a lo establecido en el presente decreto.
 
 DÉCIMO CUARTO. A partir de la entrada en vigor del presente Decreto, toda mención realizada a la Contraloría General, contenidas en cualquier disposición normativa, reglamentaria, administrativa, así como en convenios, acuerdos, programas, lineamientos y cualquier otro documento con carácter legal vigente, se entenderá referida a la Secretaría de la Contraloría y Transparencia Gubernamental del Gobierno del Estado de Baja California Sur.
+
+P.O. 31 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3261 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR Y DEL REGLAMENTO INTERIOR DE LA CONTRALORÍA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR, EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES”.]
+
+PRIMERO. Publíquese el presente Decreto en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+El presente Decreto entrará en vigor el día primero de enero de dos mil veintiséis, fecha de entrada en vigor de la Ley de Transparencia y Acceso a la Información Pública del Estado de Baja California Sur.
+
+SEGUNDO. La Junta de Gobierno y Coordinación Política, la Oficialía Mayor, la Dirección de Finanzas y la Contraloría del Poder Legislativo del Estado de Baja California Sur, deberán realizar, dentro de los noventa días naturales siguientes a la publicación del presente Decreto en el Boletín Oficial del Gobierno del Estado, las adecuaciones administrativas y presupuestales necesarias para el debido cumplimiento de lo dispuesto en el mismo.
+
+TERCERO. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
