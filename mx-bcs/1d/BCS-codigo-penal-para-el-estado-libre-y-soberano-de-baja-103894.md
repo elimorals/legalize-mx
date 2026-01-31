@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-libre-y-soberano-de-baja-103894"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-11-30"
-last_updated: "2025-11-21"
+last_updated: "2026-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE ENERO DE 2026.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de noviembre de 2014.
 
@@ -2721,17 +2721,11 @@ Este delito se perseguirá por querella de parte ofendida.
 
 ###### Artículo 245.
 
-Extorsión. Comete el delito de extorsión y se le aplicará de cinco a quince años de prisión y multa hasta quinientos días, el que sin derecho y mediante violencia física o intimidación, obligue a otro a dar, hacer, no hacer o tolerar algo, con la finalidad de obtener un lucro, para sí o para otro, o causar un perjuicio patrimonial.
+(DEROGADO, B.O. 31 DE ENERO DE 2026)
 
 ###### Artículo 246.
 
-Agravantes. Las penas previstas en el artículo anterior se agravarán conforme a las siguientes disposiciones:
-
-I. Hasta en una tercera parte cuando la víctima sea una persona menor de dieciocho o mayor de sesenta años de edad o cuando no tenga la capacidad para comprender el significado del hecho; o
-
-II. Hasta en una mitad cuando el delito se realice por un servidor público o miembro o ex miembro de alguna corporación de seguridad pública o privada. En este caso, además, se impondrá la destitución del empleo, cargo o comisión pública y se le inhabilitará hasta por ocho años para desempeñarlo nuevamente y se le suspenderá hasta por ocho años el derecho para ejercer actividades en corporaciones de seguridad privada; y
-
-III. Además de las penas señaladas en el artículo anterior, se impondrán de dos a cuatro años de prisión cuando en la comisión del delito intervengan una o más personas armadas o con la utilización de juguetes u otros objetos que tengan la apariencia, forma o configuración de armas de fuego o de pistolas de municiones o aquellas que arrojen proyectiles a través de aire o gas comprimido.
+(DEROGADO, B.O. 31 DE ENERO DE 2026)
 
 ### CAPÍTULO IX. ENCUBRIMIENTO POR RECEPTACIÓN
 
@@ -5004,3 +4998,29 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto y que se encuentren en trámite o pendientes de resolución, por las disposiciones previstas en el artículo 336 del Código Penal para el Estado Libre y Soberano de Baja California Sur que se adiciona respectivamente, se seguirán substanciando hasta su conclusión con esa disposición vigente y demás relativas y aplicables al momento de la comisión de los hechos que le dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
 
 Artículo Tercero.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+B.O. 31 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3260 SE EXPIDE LEY PARA PREVENIR, INVESTIGAR Y SANCIONAR LOS DELITOS EN MATERIA DE EXTORSIÓN PARA EL ESTADO DE BAJA CALIFORNIA SUR Y SE DEROGAN LOS ARTÍCULOS 245 Y 246 AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Segundo.- Toda referencia al delito de extorsión contemplada en el Código Penal del Estado Libre y Soberano de Baja California Sur o en cualquier otra disposición local, se entenderá hecha al delito de extorsión previsto en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la Fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Tercero.- Se derogan tedas las disposiciones legales que se opongan al presente Decreto.
+
+Cuarto.- En los procesos pendientes de dictarse sentencia en primera y segunda instancia, a partir de la entrada en vigor de este Decreto, el órgano jurisdiccional, podrá efectuar la traslación del tipo en beneficio de la persona a sentenciar, de conformidad con la conducta delictiva de extorsión, sus modalidades o agravantes que se hayan acreditado.
+
+Tratándose de persona sentenciada, el juez de ejecución podrá considerar la revisión de las penas que se hayan impuesto para efectuar, en su caso, la traslación del tipo, siempre que la conducta, modalidades o agravantes procedan y resultase en su beneficio.
+
+Quinto.- Las disposiciones relativas al delito de extorsión previstas, antes de la entrada en vigor del presente Decreto, en los artículos 245 y 246 del Código Penal para el Estado Libre y Soberano de Baja California Sur, seguirán aplicándose por los hechos realizados durante su vigencia.
+
+Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por el delito de extorsión, sus modalidades, agravantes y sanciones, salvo lo dispuesto en el artículo anterior en lo relativo a la traslación del tipo y adecuación de la pena.
+
+Los procedimientos penales en materia de extorsión, iniciados antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia del mismo.
+
+Sexto.- Los centros penitenciarios del Estado de Baja California Sur tendrán 180 días hábiles contados a partir de la entrada en vigor del presente Decreto para establecer los procedimientos y tecnologías de inhibición de entrada y salida de llamadas de telefonía celular, de radiocomunicación, de transmisión de voz, datos o imagen a que se refiere el artículo 38 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la Fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Séptimo.- El Centro de Atención a Denuncias a que refiere el artículo 18 de la Ley para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, entrará en funciones a más tardar en 180 días hábiles contados a partir de la entrada en vigor del presente Decreto, y contará con la suficiencia presupuestaria para su correcto funcionamiento con cargo a la secretaría del ramo de seguridad pública del Ejecutivo Federal.
+
+Octavo.- Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado de los sujetos obligados por este instrumento, por lo que no incrementarán su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
