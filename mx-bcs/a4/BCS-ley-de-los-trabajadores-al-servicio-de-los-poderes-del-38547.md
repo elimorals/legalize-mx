@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-trabajadores-al-servicio-de-los-poderes-del-38547"
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-23"
-last_updated: "2025-12-24"
+last_updated: "2026-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE ENERO DE 2026.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 23 de febrero de 2004.
 
@@ -297,13 +297,13 @@ Si así lo considera necesario, la persona trabajadora podrá informar los resul
 
 Quien se encuentre en estado de gravidez podrá disfrutar de hasta un mes de descanso previo a la fecha programada para el parto y de otros dos meses posteriores al mismo, pudiendo transferir, a solicitud expresa de la trabajadora, previa autorización escrita del médico de la institución de seguridad social que le corresponda, el periodo de descanso que éste considere, previo al parto para después del mismo. En caso de que el bebé haya nacido con cualquier tipo de discapacidad o requiera atención médica hospitalaria, podrá gozar de hasta tres meses de descanso adicionales a los previstos en la primera porción normativa de este Artículo, previa certificación del médico correspondiente.
 
-(NOTA: EL 12 DE MAYO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 181/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, Y DETERMINÓ LA REVIVISCENCIA EN SU TEXTO ANTERIOR, LA CUAL FUE ABROGADA MEDIANTE DECRETO 2933, LA CUAL SURTIÓ EFECTOS EL 13 DE MAYO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN.[EL TEXTO CUYA REVIVISCENCIA SE DETERMINÓ ES: “Durante la lactancia tendrán derecho a decidir entre contar con dos reposos extraordinarios por día, de media hora cada uno, o bien, un descanso extraordinario por día, de una hora para amamantar a sus hijos o para realizar la extracción manual de leche, en lugar adecuado e higiénico que designe la institución o dependencia”.] DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2026)</small>
 
-La lactancia materna será hasta dos años, independientemente de que ésta sea exclusiva o complementaria para el menor. LA TRABAJADORA PODRÁ EJERCER SU DERECHO A LA LACTANCIA MATERNA DISPONIENDO DE UN DESCANSO EXTRAORDINARIO DE UNA HORA DIARIA PARA AMAMANTAR A SUS HIJAS O HIJOS. Asimismo tendrán derecho a acceder a la capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante los primeros seis meses y complementario hasta el segundo año de edad.
+La lactancia materna será hasta dos años, independientemente de que ésta sea exclusiva o complementaria para el menor. Durante la lactancia tendrán derecho a decidir entre contar con dos reposos extraordinarios por día, de media hora cada uno, o bien, un descanso extraordinario por día, de una hora para amamantar a sus hijos o para realizar la extracción manual de leche, en lugar adecuado e higiénico que designe la institución o dependencia. Asimismo, tendrán derecho a acceder a la capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante los primeros seis meses y complementario hasta el segundo año de edad.
 
-(NOTA: EL 12 DE MAYO DE 2025 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 181/2023, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE BAJA CALIFORNIA SUR, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2026)</small>
 
-La esposa o esposo, concubina o concubino, o la pareja derivada de una relación de unión libre de quien haya sido sujeto a parto o cesárea, y que sea trabajador o trabajadora a la que se refiere esta Ley, podrá disfrutar de una licencia DE 10 DÍAS HÁBILES con goce de sueldo, a partir del día de la intervención médica a la que se refiere este artículo. En tratándose de adopción, este derecho podrá ser disfrutado por mujeres y hombres en el supuesto de que adopten a un menor de edad, a partir de recibir a éste, conforme a las leyes aplicables al caso.
+La esposa o esposo, concubina o concubino, o la pareja derivada de una relación de unión libre de quien haya sido sujeto a parto o cesárea, y que sea trabajador o trabajadora a la que se refiere esta Ley, podrá disfrutar de una licencia de tres meses con goce de sueldo, a partir del día de la intervención médica a la que se refiere este artículo. En tratándose de adopción, este derecho podrá ser disfrutado por mujeres y hombres en el supuesto de que adopten a un menor de edad, a partir de recibir a éste, conforme a las leyes aplicables al caso.
 
 Las anteriores prerrogativas se concederán independientemente de las vacaciones o demás descansos que se estipulen en la presente Ley.
 
@@ -1816,3 +1816,19 @@ TERCERO.- Los procedimientos laborales de declaración de beneficiarios que a la
 CUARTO.- Las áreas de recursos humanos de los Poderes del Estado y Municipios de Baja California Sur, en un plazo no mayor (sic) 30 días naturales, contados a partir de la entrada en vigor del presente decreto, deberán de cumplir con lo establecido en el mismo.
 
 QUINTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 31 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3252 SE REFORMAN EL SEGUNDO Y TERCER PÁRRAFO DEL ARTÍCULO 29 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR”.]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero del año dos mil veintiséis, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTICULO SEGUNDO.
+
+Los Poderes del Estado y los Ayuntamientos deberán implementar de manera paulatina y progresiva las acciones necesarias para la construcción, adecuación y mantenimiento de salas de lactancia en los espacios que correspondan, conforme a la disponibilidad de recursos. Para tal efecto, el gasto que se genere por la instalación y por operación de dichos lactarios deberá ser previsto en la programación presupuestaria anual.
+
+###### ARTICULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
