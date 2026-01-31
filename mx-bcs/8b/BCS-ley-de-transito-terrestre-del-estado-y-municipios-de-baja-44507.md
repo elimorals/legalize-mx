@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-transito-terrestre-del-estado-y-municipios-de-baja-44507
 country: "mx"
 rank: "ley"
 publication_date: "2005-03-20"
-last_updated: "2013-11-30"
+last_updated: "2026-01-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE TRÁNSITO TERRESTRE DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE ENERO DE 2026.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el domingo 20 de marzo de 2005.
 
@@ -355,7 +355,21 @@ Los conductores de bicicleta deberán contar obligatoriamente con casco protecto
 
 El vidrio parabrisas frontal de los vehículos deberá permanecer libre de cualquier obstáculo que dificulte o impida la visibilidad hacia el exterior o interior de los mismos, por lo que se prohíbe su oscurecimiento a través de cualquier medio, con excepción de una franja de un máximo de 25 centímetros de ancho que podrá colocarse en la parte superior de vidrio parabrisas.
 
-Los demás vidrios de vehículo podrán ser obscurecidos con un polarizado medio siempre que no dificulten la visibilidad.
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2026)</small>
+
+Quedan exceptuados los vehículos manejados o al servicio de personas que acrediten ante la autoridad enfermedades de la piel o padecimientos médicos, que sean afectados por la exposición del sol, para lo cual se les expedirá el respectivo distintivo para el vehículo y deberá constar en certificado médico de especialista.
+
+> <small>(ADICIONADO, B.O. 31 DE ENERO DE 2026)</small>
+
+Los demás vidrios de vehículo podrán ser obscurecidos con películas de control solar de hasta el veinte por ciento de transmisión de luz visible hacia el interior. Se respetara el oscurecimiento que haya sido instalado por el fabricante del vehículo que cumpla con los anteriores parámetros.
+
+> <small>(ADICIONADO, B.O. 31 DE ENERO DE 2026)</small>
+
+La graduación de la película de control solar podrá ser mayor de veinte por ciento de transmisión de luz visible hacia el interior, en vidrios laterales y vidrio trasero, cuando se requiera por razones médicas, debidamente acreditadas mediante certificado por especialista.
+
+> <small>(ADICIONADO, B.O. 31 DE ENERO DE 2026)</small>
+
+Las autoridades que apliquen las presentes disposiciones, deberán utilizar los instrumentos autorizados y certificados para mediar la graduación de la película solar instalada.
 
 ## TÍTULO QUINTO. DE LOS REQUISITOS ADMINISTRATIVOS PARA LA CIRCULACIÓN
 
@@ -968,3 +982,15 @@ Se derogan todas las disposiciones que se opongan al presente decreto.
 B.O. 30 DE NOVIEMBRE DE 2013.
 
 UNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE ENERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3249 SE REFORMA AL PÁRRAFO SEGUNDO DEL ARTÍCULO 23 Y ADICIONA LOS PÁRRAFOS TERCERO, CUARTO Y QUINTO DEL ARTÍCULO 23 DE LA LEY DE TRÁNSITO TERRESTRE DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR”.]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTICULO SEGUNDO.
+
+Se Derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
