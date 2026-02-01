@@ -4,7 +4,7 @@ identifier: "DUR-constitucion-politica-del-estado-libre-y-soberano-de-durango-48
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-01"
-last_updated: "2025-12-11"
+last_updated: "2026-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE FEBRERO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, los días jueves 1º, domingo 4, domingo 11, jueves 15 y domingo 25 de noviembre; jueves 6, jueves 13, domingo 16, jueves 20 y jueves 27 de diciembre de 1917; jueves 3, jueves 10 y domingo 20 de enero; jueves 28 de febrero; domingo 10 y jueves 14 de marzo de 1918.
 
@@ -323,11 +323,13 @@ Toda persona tiene derecho al acceso, a la disposición y saneamiento de agua po
 
 El Estado garantizará este derecho y la ley definirá las bases, apoyos y modalidades para el acceso y uso equitativo y sustentable de los recursos hídricos, estableciendo la participación del Gobierno del Estado y de los municipios, así como la de la ciudadanía para la consecución de dichos fines, priorizando la cultura del agua.
 
-> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
-
 ###### Artículo 20.
 
-Toda persona tiene derecho a la protección de la salud. El Estado, en el ámbito del Sistema Nacional de Salud garantizará los servicios de salud, en los términos dispuestos en la ley, los cuales deberán cumplir con los principios de disponibilidad, accesibilidad, transparencia, aceptabilidad, calidad, universalidad, equidad, eficiencia, eficacia y perspectiva de género.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE FEBRERO DE 2026)</small>
+
+Toda persona tiene derecho a la protección de la salud y al cuidado, el cual incluye el derecho a ser cuidada, a cuidar y al autocuidado, en condiciones de igualdad, dignidad y corresponsabilidad, que promuevan el desarrollo de su autonomía y el ejercicio pleno de sus demás derechos. El Estado, en el ámbito del Sistema Nacional de Salud garantizará los servicios de salud, en los términos dispuestos en la ley, los cuales deberán cumplir con los principios de disponibilidad, accesibilidad, transparencia, aceptabilidad, calidad, universalidad, equidad, eficiencia, eficacia y perspectiva de género.
+
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
 El sistema de salud promoverá la prevención de la salud, así como la atención integral y brindará cuidado especializado a los grupos vulnerables establecidos en la presente Constitución.
 
@@ -335,11 +337,41 @@ El sistema de salud promoverá la prevención de la salud, así como la atenció
 
 Para garantizar el derecho de protección a la salud de las personas, queda prohibida la producción, distribución, comercialización y enajenación de cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos electrónicos análogos que señale la ley, así como la producción, distribución y enajenación de sustancias tóxicas, precursores químicos y drogas sintéticas no autorizadas legalmente, como el uso ilícito del fentanilo.
 
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
+
 Por ningún motivo los establecimientos de salud, ya sean públicos o privados, ni los profesionales del sector podrán negar la asistencia necesaria en casos de emergencia. Dicha negativa será sancionada por la ley.
 
-> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 6 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
 El Estado y los municipios promoverán la cultura física y el deporte como actividades que contribuyen a la salud, formación y desarrollo integral de la persona, destinando recursos e infraestructura física para cumplir con ese objetivo.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2026)</small>
+
+Se entenderá por trabajo de cuidados al conjunto de actividades cotidianas de gestión y sostenibilidad de la vida, que se realizan dentro o fuera del ámbito del hogar, y que permiten el bienestar físico, biológico y emocional de las personas, y en especial, de aquellas que carecen de autonomía para realizarlas por sí mismas.
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2026)</small>
+
+El Estado procurará el derecho al cuidado digno con base en el principio de corresponsabilidad entre hombres y mujeres, las familias, la comunidad, el sector laboral, en las actividades de cuidado, así como la libertad que tienen las personas para decidir si desean o no cuidar a quien lo requiera.
+
+> <small>(ADICIONADO [N. DE E. CON LAS FRACCIONES E INCISOS QUE LO INTEGRAN], P.O. 1 DE FEBRERO DE 2026)</small>
+
+Son titulares del derecho al cuidado:
+
+I. Quienes se encuentren en situación de dependencia, reconociendo como tales a las personas que requieran apoyos específicos para el desarrollo de sus actividades y la satisfacción de las necesidades básicas. Por ello, se consideran personas en situación de dependencia:
+
+a) Niñas, niños y adolescentes.
+
+b) Personas con discapacidad que carezcan de autonomía para desarrollar actividades y atender por sí mismas sus necesidades básicas de la vida diaria.
+
+c) Personas adultas mayores de sesenta años y más que carezcan de autonomía para desarrollar las actividades y atender por sí mismas sus necesidades básicas de la vida diaria.
+
+d) Personas dependientes con enfermedad grave o crónica, certificada como tal por la autoridad competente.
+
+II. Las personas cuidadoras .
+
+> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2026)</small>
+
+El Estado y los Municipios adoptarán medidas para lograr progresivamente la plena efectividad del derecho al cuidado.
 
 > <small>(REFORMADO, P.O. 29 DE AGOSTO DE 2013)</small>
 
@@ -5248,3 +5280,11 @@ PRIMERO. - El presente Decreto entrará en vigor al día siguiente de su publica
 SEGUNDO. - El Congreso del Estado tendrá un plazo de ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones necesarias a las leyes que correspondan, para dar cumplimiento a éste.
 
 TERCERO. - Se derogan todas las disposiciones legales y reglamentarias que se opongan a lo dispuesto por el presente Decreto.
+
+P.O. 1 DE FEBRERO DE 2026.
+
+DECRETO 267 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 20; SE ADICIONAN LOS PÁRRAFOS QUINTOS (SIC), SEXTO CONTENIENDO LAS FRACCIONES I Y II, Y SÉPTIMO DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan a lo dispuesto por el presente Decreto.
