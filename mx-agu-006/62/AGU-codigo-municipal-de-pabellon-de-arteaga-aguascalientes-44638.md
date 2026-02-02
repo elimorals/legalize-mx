@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-pabellon-de-arteaga-aguascalientes-44638"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-04-18"
-last_updated: "2025-12-29"
+last_updated: "2026-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "AGU"
 ---
 # CODIGO MUNICIPAL DE PABELLON DE ARTEAGA, AGUASCALIENTES
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE MARZO DE 2026 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2026.
 
 Código publicado en el Periódico Oficial del estado de Aguascalientes, el lunes 18 de abril de 2005.
 
@@ -321,7 +323,7 @@ IV.- Los Delegados, subdelegados y Comisarios Municipales; y
 
 V.- Los organismos auxiliares.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 2 DE FEBRERO DE 2026)</small>
 
 ###### ARTICULO 15.
 
@@ -367,9 +369,17 @@ IX.- El Consejo Municipal para la Cultura y las Artes;
 
 X.- El Patronato de Ferias y Fiestas Municipales de Pabellón de Arteaga, y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2026)</small>
 
-XI.- Aquellos Comités o Consejos Ciudadanos que sean previstos en alguna ley o sean aprobados por acuerdo del H. Ayuntamiento.
+X.- El Patronato de Ferias y Fiestas Municipales de Pabellón de Arteaga;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE FEBRERO DE 2026)</small>
+
+XI.- Consejo de la Juventud de Pabellón de Arteaga;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE FEBRERO DE 2026)</small>
+
+XII.- Aquellos Comités o Consejos Ciudadanos que sean previstos en alguna ley o sean aprobados por acuerdo del H. Ayuntamiento.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -564,6 +574,38 @@ XIII.- promover el reconocimiento y protección del arte y sus creadores;
 XIV.- Aprobar sus planes y programas anuales de labores, y
 
 XV.- Informar a la Dirección de Desarrollo Social acerca de los avances de sus planes y programas de actividades.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2026)</small>
+
+ARTICULO 17 OCTIES.- El Consejo de la Juventud de Pabellón de Arteaga coadyuvará con las autoridades municipales como un órgano de coordinación entre éstas y la juventud pabellonense y estará integrado de la siguiente manera:
+
+I.- Será presidido por la persona titular de la Presidencia Municipal;
+
+II.- Una Secretaría Técnica del Consejo, que será la persona titular del INJUPA;
+
+III.- La Persona titular que presida la Comisión permanente de la Juventud e Innovación Tecnológica, y
+
+IV.- Un vocal representante de cada uno de los siguientes sectores: profesional, artístico, científico, académico, deportivo, económico, político, rural y ambiental y los demás que la presidencia de este Consejo así lo determine necesario, sin que excedan de 16 vocales.
+
+El presente Consejo se instalará dentro de los tres primeros meses del inicio de la administración municipal y sesionará ordinariamente por lo menos una vez cada tres meses y de manera extraordinaria las veces que sea necesario, dichas sesiones serán públicas y convocadas por la persona que presida el Consejo a través de la Secretaría Técnica.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2026)</small>
+
+ARTICULO 17 NONIES.- El Consejo de la Juventud de Pabellón de Arteaga tendrá las siguientes atribuciones:
+
+I.- Servir como vínculo de las personas jóvenes del Municipio de Pabellón de Arteaga con la Administración Municipal;
+
+II.- Promover la inclusión y participación de las personas jóvenes de los diferentes sectores profesional, artístico, científico, académico, deportivo, económico, político, rural y ambiental, entre otros, en los programas, acciones y planes de la Administración Pública Municipal;
+
+III.- Coadyuvar con la administración municipal en la gestión de apoyos y programas en beneficio de la juventud del Municipio;
+
+IV.- Informar sobre los planes, programas y acciones que las dependencias y demás organismos públicos tengan en beneficio de las personas jóvenes del Municipio;
+
+V.- En coordinación con la Comisión permanente de la Juventud e Innovación Tecnológica, convocar a las personas jóvenes de los diversos sectores del Municipio a participar en la sesión del Cabildo de la Juventud, con el fin de abordar los temas de interés en cuanto a la juventud e innovación tecnológica;
+
+VI.- Proponer, en coordinación con la Comisión de Postulaciones, en la convocatoria emitida por la Comisión permanente de la Juventud e Innovación Tecnológica del H. Ayuntamiento, a las personas jóvenes que se destacan en los sectores profesional, artístico, científico, académico, deportivo, económico, educativo, cultural, político, social, laboral, rural y ambiental, entre otros, para participar por el premio a la Juventud Pabellonense, y
+
+VII.- Las demás que le señalen las leyes, los reglamentos, el presente código y le sean encomendados por el H. Ayuntamiento.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -1007,37 +1049,65 @@ Las comisiones deberán vigilar que se ejecuten las disposiciones y acuerdos del
 
 Habrá Comisiones permanentes que funcionarán por todo el trienio y comisiones especiales que podrán ser nombradas por acuerdo del ayuntamiento para el estudio de un asunto determinado.
 
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 2 DE FEBRERO DE 2026)</small>
 
 ###### ARTICULO 36.
 
 Las comisiones permanentes son las siguientes:
 
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2017)</small>
+
 I.- Gobernación;
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2017)</small>
 
 II.- Hacienda y Patrimonio;
 
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2017)</small>
+
 III.- Desarrollo Social;
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2017)</small>
 
 IV.- Seguridad Pública, Vialidad y Protección Civil;
 
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2017)</small>
+
 V.- Desarrollo Urbano y Obras Públicas;
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2017)</small>
 
 VI.- Agua Potable y Alcantarillado;
 
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2017)</small>
+
 VII.- Educación, Cultura y Deporte;
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2017)</small>
 
 VIII.- Salud Municipal;
 
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2017)</small>
+
 IX.- Servicios Públicos;
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2017)</small>
 
 X.- Participación Ciudadana;
 
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2017)</small>
+
 XI.- Desarrollo y Fomento Agropecuario;
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2017)</small>
 
 XII.- Desarrollo y Fomento Económico y Turístico;
 
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2017)</small>
+
 XIII.- Planeación y Desarrollo Sustentable;
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2017)</small>
 
 XIV.- Apoyo al Migrante;
 
@@ -1049,13 +1119,17 @@ XV.- Equidad de Género;
 
 XVI.- Control Integral de la Gestión Municipal;
 
-> <small>(REFORMADA, P.O. 2 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2026)</small>
 
-XVII.- Postulaciones, y
+XVII.- Postulaciones,
 
-> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2026)</small>
 
-XVIII.- Anticorrupción.
+XVIII.- Anticorrupción, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE FEBRERO DE 2026)</small>
+
+XIX.- De la Juventud e Innovación Tecnológica.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -1730,6 +1804,32 @@ VI.- Participar en la elaboración del Programa Municipal Anticorrupción, así 
 VII.- Evaluar el desempeño de los indicadores de eficiencia que se establezcan en la administración pública municipal, y
 
 VIII.- Los demás que le señalen las leyes, los reglamentos, el presente código o le sean encomendados por el H. Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2026)</small>
+
+ARTICULO 63 QUATER.- Corresponden a la Comisión de la Juventud e Innovación Tecnológica los siguientes asuntos:
+
+I.- Proponer políticas, estrategias y acciones dirigidas al libre desarrollo de la personalidad de la juventud del Municipio, a fin de lograr su plena participación en los rubros profesional, artístico, científico, académico, deportivo, económico, educativo, cultural, político, social, laboral, rural y ambiental e innovación tecnológica, entre otros rubros;
+
+II.- Dictaminar sobre las iniciativas y propuestas que tiendan a la inclusión, participación y desarrollo de la juventud pabellonense e innovación tecnológica;
+
+III.- Presentar iniciativas de creación, reformas o adiciones de ordenamientos jurídicos en el ámbito municipal relacionadas con la inclusión y atención de la juventud pabellonense así como a la innovación tecnológica;
+
+IV.- Diseñar, promover y evaluar políticas públicas tendientes a mejorar la calidad de vida de la juventud pabellonense;
+
+V.- Vigilar que la juventud pabellonense sea incluida en todas las políticas públicas municipales, garantizando su participación en los diversos sectores; y en su caso informar a la Presidencia Municipal el resultado de la misma;
+
+VI.- Impulsar acciones y programas que ataquen las desigualdades de la juventud en el Municipio;
+
+VII.- Realizar estudios acerca de la trayectoria de las personas jóvenes del Municipio que destaquen en el ámbito profesional, artístico, científico, académico, deportivo, económico, político, rural, ambiental e innovación tecnológica o en cualquier otro rubro que sea en beneficio de la sociedad;
+
+VIII.- En coordinación con la Comisión de Postulaciones y el Consejo de la Juventud recabar, mediante convocatoria pública, las propuestas de personas jóvenes que serán las y los candidatos para el reconocimiento, mismos que pondrán a la consideración del Cabildo del H. Ayuntamiento para su aprobación, a fin de entregar el Premio a la Juventud Pabellonense, el día 12 de agosto;
+
+IX.- Convocar a una sesión de Cabildo de la Juventud en coordinación con el Cabildo del H. Ayuntamiento del Municipio, misma que se llevará a cabo una vez al año, entre los meses de enero y febrero, para recoger propuestas, sugerencias e inquietudes con el fin de que las mismas sean atendidas;
+
+X.- Colaborar en los proyectos que el Ayuntamiento celebre institucionalmente con otros niveles de gobierno en materia de juventud e innovación tecnológica, y
+
+XI.- Las demás que le confieran las leyes, los Reglamentos, el presente código y demás disposiciones legales relacionadas con el ámbito de la juventud e innovación tecnológica y las que se deriven de los acuerdos del H. Ayuntamiento.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -2781,67 +2881,43 @@ cuando para la atención de algún asunto exista duda respecto de la competencia
 
 ### CAPITULO SEGUNDO. De las Dependencias de la Administración Pública Municipal
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2026)</small>
 
 ###### ARTICULO 199.
 
 Para el estudio, planeación y despacho de los asuntos de su competencia, la Presidencia Municipal contará con las siguientes unidades administrativas:
 
-(REPUBLICADA, P.O. 2 DE MARZO DE 2020)
-
-I.- Oficina del Presidente Municipal.
-
-(REPUBLICADA, P.O. 2 DE MARZO DE 2020)
+I.- Oficina de la persona titular de la Presidencia Municipal.
 
 II.- Secretaría del H. Ayuntamiento;
 
-(REPUBLICADA, P.O. 2 DE MARZO DE 2020)
-
 III.- Dirección de Finanzas y Administración;
 
-(REPUBLICADA, P.O. 2 DE MARZO DE 2020)
+IV.- Dirección General de Asuntos Jurídicos;
 
-IV.- Dirección Jurídica;
+V.- Dirección de Seguridad Pública y Movilidad;
 
-(REPUBLICADA, P.O. 2 DE MARZO DE 2020)
-
-V.- Dirección de Seguridad pública y Movilidad;
-
-(REPUBLICADA, P.O. 2 DE MARZO DE 2020)
-
-VI.- Dirección de Obras Públicas y Desarrollo Urbano;
-
-(REPUBLICADA, P.O. 2 DE MARZO DE 2020)
+VI.- Dirección de Obras Públicas;
 
 VII.- Dirección de Servicios Públicos Municipales y Mantenimiento;
 
-(REPUBLICADA, P.O. 2 DE MARZO DE 2020)
-
 VIII.- Dirección de Desarrollo Social;
-
-> <small>(ADICIONADA, P.O. 2 DE MARZO DE 2020)</small>
 
 IX.- Dirección de Desarrollo Integral de la Persona;
 
-(REPUBLICADA Y REUBICADA, [N. DE E. ANTES FRACCIÓN IX.] P.O. 2 DE MARZO DE 2020)
-
 X.- Contraloría Municipal;
-
-(REPUBLICADA Y REUBICADA, [N. DE E. ANTES FRACCIÓN X.] P.O. 2 DE MARZO DE 2020)
 
 XI.- Sistema para el Desarrollo Integral de la Familia;
 
-(REPUBLICADA Y REUBICADA, [N. DE E. ANTES FRACCIÓN XI.], P.O. 2 DE MARZO DE 2020)
-
 XII.- Instituto Pabellonense de las Mujeres;
 
-(REPUBLICADA Y REUBICADA, [N. DE E. ANTES FRACCIÓN XII.] P.O. 2 DE MARZO DE 2020)
+XIII.- Subdelegación del INAPAM;
 
-XIII.- Subdelegación del INAPAM, y
+XIV.- Instituto Municipal de Biodiversidad y Protección Ambiental;
 
-(REPUBLICADA Y REUBICADA, [N. DE E. ANTES FRACCIÓN XIII.] P.O. 2 DE MARZO DE 2020)
+XV.- Instituto Municipal de Salud Mental de Pabellón de Arteaga, y
 
-XIV.- Instituto Municipal de Biodiversidad y Protección Ambiental.
+XVI.- Dirección de Desarrollo Urbano y Planeación Municipal.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -2861,15 +2937,15 @@ Con base en las políticas, prioridades y restricciones establecidas por el Pres
 
 Los manuales de organización y procedimiento de cada dependencia, entidad o área municipal donde se describan todos los servicios o productos a generar y que autorice el Ayuntamiento con base a lo dispuesto por el presente ordenamiento, serán complementarios del mismo y de observancia obligatoria para los servidores públicos municipales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 2 DE FEBRERO DE 2026)</small>
 
 ###### ARTICULO 203.
 
 Las dependencias de la Administración Pública Municipal contarán con las siguientes unidades administrativas:
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 13 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 2 DE FEBRERO DE 2026)</small>
 
-I.- Oficina del C. Presidente Municipal:
+I.- Oficina de la persona titular de la Presidencia Municipal:
 
 a).- Secretaría Particular;
 
@@ -2879,35 +2955,51 @@ c).- Departamento de Comunicación Social y Relaciones Públicas;
 
 d).- Departamento de Atención a la ciudadanía;
 
-> <small>(REFORMADO, P.O. 15 DE MARZO DE 2021)</small>
-
-e).- Unidad de Transparencia, y
-
-> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2021)</small>
+e).- Departamento de Planeación, Gestión y Evaluación, y
 
 f).- Departamento de Ferias y Fiestas Municipales.
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 13 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 2 DE FEBRERO DE 2026)</small>
 
 II.- Secretaría del H. Ayuntamiento:
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
+
 a).- Departamento de Reglamentos y Licencias;
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
 
 b).- Departamento de Regulación Sanitaria;
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
+
 c).- Departamento de Acción Cívica y Logística;
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
 
 d).- Departamento de Protección Civil;
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
+
 e).- Departamento de Sistemas Informáticos.
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 13 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2026)</small>
+
+f).- Departamento de Asuntos Internos de Seguridad Pública.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 2 DE FEBRERO DE 2026)</small>
 
 III.- Dirección de Finanzas y Administración:
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
+
 a).- Subdirección Administrativa:
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
+
 a.1.- Departamento de Compras y Servicios Generales;
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2017)</small>
 
 a.2.- Departamento de Capital Humano.
 
@@ -2915,83 +3007,129 @@ a.2.- Departamento de Capital Humano.
 
 a.3.- Departamento de Control Patrimonial
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 2 DE FEBRERO DE 2026)</small>
+
 b).- Subdirección de Finanzas:
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 2 DE FEBRERO DE 2026)</small>
 
 b.1.- Departamento de Contabilidad;
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 2 DE FEBRERO DE 2026)</small>
+
 b.2.- Departamento de Control Presupuestal;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 2 DE FEBRERO DE 2026)</small>
 
 b.3.- Departamento de Recaudación;
 
-> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE FEBRERO DE 2026)</small>
 
-IV.- Dirección Jurídica:
+b.3.1.- Perito valuador certificado encargado de revisar los avalúos que sirven de base para el impuesto.
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 2 DE FEBRERO DE 2026)</small>
 
-V. Dirección de Seguridad pública y Movilidad:
+IV.- Dirección General de Asuntos Jurídicos:
 
-a).- Subdirección de Seguridad Púbica;
+a).- Departamento de Asuntos Jurídicos;
 
-a.1.- Departamento de Asuntos Internos;
+b).- Departamento Jurídico del Sistema DIF Municipal;
+
+c).- Departamento Jurídico del Instituto Pabellonense de las Mujeres;
+
+d).- Departamento Jurídico de Desarrollo Urbano; y
+
+e).- Unidad Administrativa de Juzgados Cívicos de acuerdo al Reglamento de Justicia Cívica y Buen Gobierno del Municipio de Pabellón de Arteaga y demás normativa aplicable.
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 2 DE FEBRERO DE 2026)</small>
+
+V. Dirección de Seguridad Pública y Movilidad:
+
+a).- Subdirección Operativa;
+
+a.1.- Departamento de Prevención del Delito;
+
+a.2.- Departamento de Unidad de Análisis;
+
+a.3.- Departamento de Unidad de Inteligencia;
+
+a.4.- Departamento de Profesionalización y Administración;
+
+a.5.- Departamento de operación de cámaras, y
+
+a.6.- Departamento de Armería.
 
 b).- Subdirección de Movilidad;
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 13 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 2 DE FEBRERO DE 2026)</small>
 
-VI.- Dirección Obras Públicas y Desarrollo Urbano:
-
-> <small>(REFORMADO, P.O. 30 DE OCTUBRE DE 2017)</small>
+VI.- Dirección de Obras Públicas:
 
 a).- Subdirección de Obras Públicas:
 
 a.1.- Departamento de Costos y Licitaciones;
 
-a.2.- Departamento de Proyectos;
+a.2.- Departamento de Proyectos, y
 
-a.3.- Departamento de Supervisión;
+a.3.- Departamento de Supervisión.
 
-b).- Subdirección de Desarrollo Urbano:
-
-b.1.- Departamento de Desarrollo Urbano;
-
-b.2.- Departamento de Planeación;
-
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 2 DE FEBRERO DE 2026)</small>
 
 VII.- Dirección de Servicios Públicos Municipales y Mantenimiento:
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
+
 a).- Departamento de Alumbrado Público;
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
 b).- Departamento de Limpia y Aseo Público;
 
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
+
 c).- Departamento de Panteones;
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 2 DE MARZO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 2 DE FEBRERO DE 2026)</small>
 
 VIII.- Dirección de Desarrollo Social:
 
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2020)</small>
+
 a).- Departamento de Programas Coordinados;
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2020)</small>
 
 b).- Departamento de Desarrollo Económico:
 
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2020)</small>
+
 c).- Departamento de Turismo;
+
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2020)</small>
 
 d).- Departamento de Desarrollo Rural;
 
-ADICIONADA, [N. DE E. CON SUS INCISOS], P.O. 2 DE MARZO DE 2020)
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 2 DE FEBRERO DE 2026)</small>
 
 IX.- Dirección de Desarrollo Integral de la Persona:
 
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2020)</small>
+
 a).- Departamento de Fomento a la Cultura y las Artes;
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2020)</small>
 
 b).- Departamento de Fomento al Deporte;
 
-c).- Representación del INJUVE;
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2026)</small>
+
+c).- Instancia de la Juventud de Pabellón de Arteaga (INJUPA);
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2020)</small>
 
 d).- Centro de Desarrollo Comunitario 5 de mayo;
 
-> <small>(REFORMADA Y REUBICADA, ANTES FRACCIÓN IX [N. DE E. CON SUS INCISOS], P.O. 2 DE MARZO DE 2020)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 2 DE FEBRERO DE 2026)</small>
 
 X.- Contraloría Municipal:
 
@@ -3023,23 +3161,27 @@ f).- Departamento de Transparencia; y
 
 g).- Las demás que las necesidades del servicio requieran.
 
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2026)</small>
 
-Los servidores públicos que ejerzan la función de la Autoridad Substanciadora y la Autoridad de (sic) Resolutora serán distintos de aquél que ejerza la de la Autoridad Investigadora, a fin de garantizar su independencia, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
+Los servidores públicos que ejerzan la función de la Autoridad Substanciadora y la Autoridad Resolutora serán distintos de aquél que ejerza la de la Autoridad Investigadora, a fin de garantizar su independencia, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2023)</small>
-
-En caso de urgente necesidad, con el objeto de atender las situaciones de trámite, el Presidente Municipal, designará directamente al servidor público responsable de ejercer las funciones de cualquiera de las Autoridades de la Contraloría Municipal o de sus órganos paramunicipales, en tanto se designe al titular de la unidad administrativa correspondiente.
-
-(REPUBLICADA Y REUBICADA ANTES FRACCIÓN X [N. DE E. CON SUS INCISOS], P.O. 2 DE MARZO DE 2020)
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 2 DE FEBRERO DE 2026)</small>
 
 XI.- Sistema para el Desarrollo Integral de la Familia:
 
+(REPUBLICADO Y REUBICADO, P.O. 2 DE MARZO DE 2020)
+
 a).- Presidencia;
+
+(REPUBLICADO Y REUBICADO, P.O. 2 DE MARZO DE 2020)
 
 b).- Dirección;
 
+(REPUBLICADO Y REUBICADO, P.O. 2 DE MARZO DE 2020)
+
 c).- Coordinación de Atención;
+
+(REPUBLICADO Y REUBICADO, P.O. 2 DE MARZO DE 2020)
 
 d).- Coordinación de Programas;
 
@@ -3051,9 +3193,11 @@ e).- Coordinación de Servicios Médicos;
 
 f).- Procuraduría de Protección Municipal de los Derechos de las Niñas, Niños y Adolescentes.
 
-(REPUBLICADA [N. DE E. CON SUS INCISOS], P.O. 2 DE MARZO DE 2020)
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE FEBRERO DE 2026)</small>
 
-XI (SIC).- Instituto Pabellonense de las Mujeres:
+XII.- Instituto Pabellonense de las Mujeres:
+
+(REPUBLICADO, P.O. 2 DE MARZO DE 2020)
 
 a).- Dirección;
 
@@ -3069,33 +3213,63 @@ c).- Departamento de Proyectos y Seguimiento a Programas, y
 
 d).- Departamento de Perspectiva de Género.
 
-(REPUBLICADA Y REUBICADA ANTES FRACCIÓN XII [N. DE E. CON SUS INCISOS], P.O. 2 DE MARZO DE 2020)
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 2 DE FEBRERO DE 2026)</small>
 
-XIII (SIC).- Subdelegación del INAPAM:
+XIII.- Subdelegación del INAPAM:
+
+(REPUBLICADO Y REUBICADO, P.O. 2 DE MARZO DE 2020)
 
 a).- Coordinación de Programas;
 
+(REPUBLICADO Y REUBICADO, P.O. 2 DE MARZO DE 2020)
+
 b).- Coordinación de Asistencia y Servicios Médicos; y
+
+(REPUBLICADO Y REUBICADO, P.O. 2 DE MARZO DE 2020)
 
 c).- Coordinación de Clubes de la Tercera Edad.
 
-(REPUBLICADA Y REUBICADA ANTES FRACCIÓN XIII [N. DE E. CON SUS INCISOS], P.O. 2 DE MARZO DE 2020)
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 2 DE FEBRERO DE 2026)</small>
 
 XIV.- Instituto Municipal de Biodiversidad y Protección Ambiental:
 
+(REPUBLICADO Y REUBICADO, P.O. 2 DE MARZO DE 2020)
+
 a).- Departamento de Manejo Forestal y de Áreas Verdes;
+
+(REPUBLICADO Y REUBICADO, P.O. 2 DE MARZO DE 2020)
 
 b).- Departamento de Planeación y Gestión Ambiental, y
 
+(REPUBLICADO Y REUBICADO, P.O. 2 DE MARZO DE 2020)
+
 c).- Departamento de Control y Bienestar Animal.
 
-> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 13 DE MARZO DE 2023)</small>
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 2 DE FEBRERO DE 2026)</small>
 
-XV.- Instituto Municipal de Salud Mental de Pabellón de Arteaga
+XV.- Instituto Municipal de Salud Mental de Pabellón de Arteaga:
 
-a) Coordinación General
+a).- Coordinación General, y
 
-b) Departamento de Área Clínica
+b).- Departamento de Área Clínica.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA CON SUS INCISOS], P.O. 2 DE FEBRERO DE 2026)</small>
+
+XVI.- Dirección de Desarrollo Urbano y Planeación Municipal:
+
+a).- Subdirección de Desarrollo Urbano y Planeación Municipal;
+
+b).- Departamento de Planeación Urbana;
+
+c).- Departamento de Control Urbano;
+
+d).- Departamento de Cartografía y Levantamientos Topográficos, y
+
+e).- Departamento de Fraccionamientos, Condominios y Asentamientos Irregulares.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE FEBRERO DE 2026)</small>
+
+XVII.- Las demás unidades administrativas que se requieran para el buen funcionamiento y prestación de servicios públicos que corresponden a la Administración Municipal.
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -3299,6 +3473,38 @@ XI.- Proponer mecanismos que permitan recoger las inquietudes e intereses de la 
 
 XII.- Las demás que le otorguen las leyes, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2026)</small>
+
+ARTÍCULO 209 TER: Corresponde al Departamento de Planeación, Gestión y Evaluación:
+
+I.- Coordinar a las dependencias o unidades administrativas, así como a los miembros de las cámaras empresariales, colegios de profesionistas y/o miembros de la sociedad civil, para la realización de proyectos clave de la administración pública municipal, así como proponer acciones estratégicas que coadyuven en el cumplimiento de las prioridades del Ayuntamiento;
+
+II.- Elaborar el Plan Municipal de Desarrollo a través de la Comisión de Planeación para el Desarrollo Municipal y supervisar su debido cumplimiento a través de la ejecución de los indicadores establecidos;
+
+III.- Alinear el Plan de Desarrollo Municipal con el Plan Nacional de Desarrollo y con el Plan Estatal de Desarrollo;
+
+IV.- Asesorar a las dependencias o unidades administrativas del Ayuntamiento, en la elaboración de la metodología necesaria para el buen desempeño de sus funciones;
+
+V.- Apoyar, cuando las dependencias o unidades administrativas así lo requieran, en la planeación estratégica de los medios de participación ciudadana que permitan una mayor cooperación entre autoridades y habitantes del Municipio;
+
+VI.- Colaborar con la información de las dependencias o unidades administrativas del Municipio;
+
+VII.- Planear y coordinar la evaluación del impacto social de las acciones ejecutadas por el Ayuntamiento;
+
+VIII.- Participar en la elaboración de la agenda municipal, así como realizar el seguimiento a las metas y objetivos de la Presidencia Municipal y las dependencias o unidades administrativas del Municipio;
+
+IX.- Interactuar con organismos nacionales, regionales y locales de gobierno en los asuntos instruidos por la persona titular de la Presidencia Municipal;
+
+X.- Proveer información y estadísticas relativas a los programas y acciones del Ayuntamiento, a la persona titular de la Presidencia Municipal y a las dependencias o unidades administrativas del Municipio;
+
+XI.- Integrar en coordinación con las dependencias de la administración municipal los programas sectoriales, especiales y anuales que deriven del Plan de Desarrollo Municipal;
+
+XII.- En coordinación con las dependencias de la administración municipal ajustar acciones, metas y calendarizar su ejecución, estableciendo indicadores de desempeño para evaluar el desarrollo y aplicación de las políticas y objetivos de la administración municipal;
+
+XIII.- Proponer programas y acciones a concertar con entes de interés privado, social y público, con el propósito de coadyuvar a alcanzar los objetivos de desarrollo del Municipio, y
+
+XIV.- Las demás que señale la Ley, el presente Código o le encomiende el H. Ayuntamiento por conducto de la persona titular de la Presidencia Municipal.
+
 ###### ARTICULO 210.
 
 (DEROGADO, P.O. 12 DE SEPTIEMBRE DE 2016)
@@ -3411,41 +3617,67 @@ XI.- Las demás que el Presidente Municipal le encomiende.
 
 #### SECCION SEGUNDA. De la Secretaría del H. Ayuntamiento
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 2 DE FEBRERO DE 2026)</small>
 
 ###### ARTICULO 214.
 
 Corresponde a la Secretaría del Ayuntamiento:
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 I.- Velar por la gobernabilidad del Municipio;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 II.- Vigilar la legalidad de los actos de la administración y el legal funcionamiento de sus dependencias;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 III.- Coordinar y organizar las sesiones del Ayuntamiento y vigilar la ejecución de los acuerdos ahí tomados;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 IV.- Certificar y entregar Cartas de Residencia;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 V.- Controlar la prestación del Servicio Militar Nacional en el municipio;
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+VI.- (DEROGADA, P.O. 2 DE FEBRERO DE 2026)
 
-VI.- Dirigir, organizar y supervisar el funcionamiento de los juzgados calificadores de seguridad pública y vialidad;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 VII.- Administrar el archivo general municipal;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 VIII.- Coordinar la publicación en el Periódico Oficial de la reglamentación municipal, los acuerdos, bandos y decretos que el H. Ayuntamiento apruebe;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 IX.- Mantener actualizada la reglamentación aplicable en el municipio;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 X.- Expedir, por acuerdo del Presidente Municipal, los nombramientos de los servidores públicos municipales y llevar un registro de los mismos, así como de sus respectivas firmas;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XI.- Citar por acuerdo del Presidente Municipal a las sesiones de Cabildo;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XII.- Participar en las sesiones de Cabildo como Secretario de Actas y para tal efecto pasar lista de asistencia, dar lectura al acta de la sesión anterior, levantar las actas de las sesiones y en general asistir al Presidente en el desarrollo de la sesión;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XIII.- Refrendar con su firma todos los documentos oficiales que suscriba el Presidente Municipal;
 
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
+
 XIV.- Coordinar la realización de los actos cívicos, en los que se conmemoren los acontecimientos históricos o se enaltezca la memoria de los héroes de la patria;
+
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
 XV.- Coordinar la formulación del informe anual de labores;
 
@@ -3477,9 +3709,9 @@ XXI.- Ordenar las visitas de inspección o verificación en las materias de su c
 
 XXII.- Iniciar, sustanciar y desahogar el procedimiento de cancelación de licencias, permisos, autorizaciones y empadronamiento, así como de clausura de establecimientos comerciales, industriales y de servicios, en los casos previstos por el presente código y demás disposiciones jurídicas vigentes;
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2026)</small>
 
-XXIII.- Conocer y calificar las infracciones en materia de sanidad, Comercio, Industria y prestación de servicios, así como en materia de faltas cívicas y de vialidad, éstas a través de los jueces calificadores, cuando se incurra en violaciones a los preceptos de la Ley y el presente Código e imponer las sanciones correspondientes;
+XXIII.- Conocer y calificar las infracciones en materia de sanidad, Comercio, Industria y prestación de servicios, cuando se incurra en violaciones a los preceptos de la Ley y el presente Código e imponer las sanciones correspondientes;
 
 > <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
 
@@ -3565,33 +3797,49 @@ g) Atender los siniestros que ocurran en el municipio;
 
 h) Detectar posibles riesgos que pudieran convertirse en contingencias y desastres en zonas, fincas, establecimientos u objetos que pudieran ocasionar algún peligro, y
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2026)</small>
 
-XLI.- Lo demás que señalen la Ley, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+XLI.- Lo demás que señalen la Ley, el presente Código o le encomiende el H. Ayuntamiento por conducto de la persona titular de la Presidencia Municipal.
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE MARZO DE 2019)</small>
 
 #### SECCIÓN TERCERA. De la Dirección de Finanzas y Administración
 
-> <small>(REFORMADO [N. DE E. Y REUBICADO ANTES ARTÍCULO 216], P.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 2 DE FEBRERO DE 2026)</small>
 
 ###### ARTICULO 215.
 
 Corresponde a la Dirección de Finanzas y Administración:
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+
 I.- Coordinar la administración de la Hacienda Pública Municipal;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
 II.- Efectuar la recaudación y cobro de impuestos, contribuciones especiales, derechos, productos, aprovechamientos, participaciones y aportaciones federales para fines específicos;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+
 III.- Formular conjuntamente con las dependencias y entidades municipales el proyecto de presupuesto de Egresos;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
 IV.- Formular en coordinación con las dependencias y entidades municipales el proyecto de Ley de Ingresos;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+
 V.- Establecer un control mensual del flujo de efectivo;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
 VI.- Celebrar reuniones mensuales para evaluar lo programado tanto en gasto como ingreso, para proponer los ajustes y transferencias al presupuesto a fin de continuar operando los programas de mayor impacto y rentabilidad social;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+
 VII.- Informar al ayuntamiento mensualmente el estado que guardan las finanzas municipales;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
 VIII.- Vigilar el cumplimiento de las disposiciones contenidas en las leyes fiscales municipales, y en especial, para ordenar:
 
@@ -3603,13 +3851,23 @@ c).- Se exija, en el domicilio de los contribuyentes, la exhibición de los elem
 
 d).- Se efectúen toda clase de investigaciones con los datos, informes o documentos solicitados a los contribuyentes o a los terceros;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+
 IX.- Imponer las multas derivadas de infracciones a las disposiciones fiscales;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
 X.- Ordenar la clausura de los establecimientos, en los términos de la legislación aplicable;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+
 XI.- Autorizar a los delegados municipales, en los términos de la Ley, para efectuar la recaudación de los fondos provenientes del cumplimiento de las leyes fiscales;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+
 XII.- Determinar la existencia de obligaciones fiscales, dar las bases para su liquidación o fijarlas en cantidad líquida; cerciorarse del cumplimiento de las disposiciones fiscales y comprobar la comisión de infracciones a dichas disposiciones;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
 XIII.- Practicar revisiones en el establecimiento o dependencias de los sujetos pasivos, de los responsables solidarios, de los responsables objetivos y de los terceros, a efecto de que:
 
@@ -3618,6 +3876,8 @@ a).- Se proceda a la verificación física, clasificación, valuación o comprob
 b).- Se solicite de los sujetos pasivos, responsables solidarios, responsables objetivos o terceros, datos o informes relacionados con el cumplimiento de las disposiciones fiscales; y
 
 c).- Se recabe de los servidores públicos y de los fedatarios, los informes y datos que posean, con motivo de sus funciones;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
 XIV.- Emplear cualquiera de los siguientes medios de apremio, que juzguen eficaces, para hacer cumplir sus determinaciones:
 
@@ -3629,33 +3889,61 @@ c).- La denuncia ante el Ministerio Público, para la consignación respectiva, 
 
 d).- El embargo precautorio de los bienes, el establecimiento o la negociación, cuando el contribuyente no atienda tres requerimientos de la autoridad, por una misma omisión. El embargo quedará sin efectos, cuando el contribuyente cumpla con la obligación de que se trate, o dos meses después de practicado el embargo, si la obligación no es cumplida y las autoridades fiscales no inician el ejercicio de sus facultades de comprobación;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+
 XV.- Allegarse las pruebas necesarias, para denunciar al Ministerio Público la posible comisión de delitos fiscales o, en su caso, para formular la querella respectiva. Las actuaciones que practique el personal autorizado de la Dirección de Finanzas y Administración tendrá el mismo valor probatorio que la ley relativa concede a las actas de la Policía ministerial y de los agentes del ministerio público; la propia Dirección de Finanzas y Administración a través de los agentes hacendarios que designe; será coadyuvante del Ministerio Público, en los términos del Código de Procedimientos Penales;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
 XVI.- Comprobar los ingresos de los contribuyentes. A este efecto, se presumirá, salvo prueba en contrario, que la información contenida en los libros, registros, sistemas de contabilidad, documentación comprobatoria y correspondencia que se encuentre en poder del contribuyente, corresponde a operaciones celebradas por él, aun cuando aparezca sin su nombre o a nombre de otra persona;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+
 XVII.- Determinar estimativamente la base gravable o el monto de los ingresos, en el caso de que los contribuyentes no puedan comprobar los correspondientes al período objeto de revisión. En este caso, la determinación será efectuada, con base en los elementos de que dispongan las autoridades fiscales a la base gravable o ingreso estimado presuntamente, se aplicará la tarifa, tasa o cuota que corresponda;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
 XVIII.- Hacer efectiva al sujeto pasivo o responsable solidario, que haya incurrido en la omisión de presentación de una declaración para el pago de impuestos, una cantidad igual al impuesto que hubiese determinado en la última o cualquiera de las seis últimas declaraciones de que se trate, o en la que resulte para dichos períodos de la determinación formulada por la autoridad, según corresponda, cuando haya omitido presentar oportunamente alguna declaración subsiguiente para el pago de impuestos propios o retenidos. Este impuesto provisional podrá ser rectificado por las propias autoridades fiscales y su pago no libera a los obligados de presentar la declaración omitida;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+
 XIX.- Fijar las cuotas o porcentajes que cubrirán los contribuyentes por cualquiera de los conceptos de ingresos que se establezcan en la Ley, de conformidad con las tarifas de mínimos y máximos que se señalen en las leyes de ingresos municipales; así como para, modificar en el curso del año, las cuotas de pago periódico de impuestos y derechos, dentro de dichos límites, cuando no correspondan a la importancia del negocio o del servicio prestado;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
 XX.- Llevar el inventario y control del patrimonio municipal, en el que se clasifiquen los bienes del dominio público y privado del municipio;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+
 XXI.- Coordinar las actividades que tienen por objeto el reclutamiento, la contratación, las remociones, las renuncias, las licencias, las jubilaciones, la capacitación, el desarrollo y el control del personal de la Presidencia Municipal;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
 XXII.- Preparar los tabuladores de sueldos y demás percepciones que correspondan a los servidores públicos del municipio;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+
 XXIII.- Manejar Promociones al personal ligadas a incrementos de productividad;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
 XXIV.- Coordinar el servicio civil de carrera;
 
 Instruir los procedimientos disciplinarios en que se vean involucrados los servidores públicos municipales;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+
 XXV.- Mantener el correcto desarrollo de las relaciones con los trabajadores del Municipio, y la vigilancia del cumplimiento del Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado, sus Municipios y Órganos Descentralizados;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
 XXVI.- Adquirir, administrar y abastecer los recursos materiales necesarios para el desarrollo de sus funciones, a las unidades administrativas de la Presidencia;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+
 XXVII.- Generar los análisis y programas tendientes a lograr el desarrollo organizacional de la administración municipal;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
 XXVIII.- Dirigir las acciones que tiendan a proporcionar a las dependencias de la Presidencia Municipal, los elementos de trabajo necesarios para el desarrollo de sus funciones;
 
@@ -3663,59 +3951,115 @@ XXVIII.- Dirigir las acciones que tiendan a proporcionar a las dependencias de l
 
 XXIX.- Fungir como Presidente del Comité Municipal de Adquisiciones y administrar todas las compras y suministros municipales, con base en el presupuesto de egresos;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+
 XXX.- Administrar y controlar los bienes patrimoniales de la Presidencia Municipal;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
 XXXI.- Controlar los almacenes municipales;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+
 XXXII.- Implantar políticas y desarrollar programas para el mejor aprovechamiento de vehículos, combustibles y todo lo relacionado con su mantenimiento;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
 XXXIII.- Intervenir en la elaboración de presupuestos de las Dependencias Municipales, y en la adquisición de bienes y servicios, dando seguimiento para el control de los mismos;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+
 XXXIV.- Desarrollar y establecer planes, programas y proyectos necesarios para la adecuada seguridad e higiene de todas las áreas de trabajo;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
 XXXV.- Establecer las normas, criterios y procedimientos que deberán observar las dependencias de la administración municipal en materia de simplificación y modernización administrativa y asesorarles para optimizar el funcionamiento interno y mejora al servicio público;
 
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
+
 XXXVI.- Definir y establecer los mecanismos de planeación, coordinación, programación, información control, evaluación y mejoramiento de la eficacia y eficiencia administrativa y operativa de las dependencias y entidades de la administración pública municipal;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
 XXXVII.- Elaborar y mantener actualizados los manuales de organización, de procedimientos y el Directorio de trámites y servicios públicos de la administración municipal;
 
-XXXVIII.- Establecer y coordinar los sistemas y procesos informáticos que habrán de emplearse en el municipio; y
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2026)</small>
 
-XXXIX.- Lo demás que señalen la Ley, el presente Código o le encomiende el H: Ayuntamiento por conducto del Presidente Municipal.
+XXXVIII.- Establecer y coordinar los sistemas y procesos informáticos que habrán de emplearse en el municipio;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE FEBRERO DE 2026)</small>
+
+XXXIX.- Vigilar que los avalúos que sirven de base para el impuesto estén actualizados conforme a las disposiciones legales y reglamentarias aplicables en dicha materia, y
+
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2026)</small>
+
+XL.- Lo demás que señalen la Ley, el presente Código o le encomiende el H. Ayuntamiento por conducto de la persona titular de la Presidencia Municipal.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE ENERO DE 2023)</small>
 
 #### SECCIÓN CUARTA. De la Dirección General de Asuntos Jurídicos
 
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE FEBRERO DE 2026)</small>
 
 ###### ARTICULO 216.
 
 Corresponde a la Dirección General de Asuntos Jurídicos:
 
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
+
 I.- Asesorar jurídicamente al Presidente Municipal, al Secretario del Ayuntamiento y a los demás directores y funcionarios de la Administración Pública Municipal;
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
 
 II.- Elaborar y revisar en su caso los proyectos de iniciativas de leyes, reglamentos, bandos, códigos o disposiciones de carácter general que emita el Ayuntamiento, así como las reformas a los mismos;
 
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
+
 III.- Revisar todos los documentos de carácter jurídico del municipio previo a la firma del presidente municipal;
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
 
 IV.- Vigilar el cumplimiento de los preceptos constitucionales, legales y reglamentarios, por parte (sic) los funcionarios de la Administración Pública Municipal:
 
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
+
 V.- Tramitar, substanciar y dejar en estado de resolución los recursos administrativos interpuestos en contra de actos y resoluciones del Presidente Municipal o de los titulares de las dependencias de la Administración Pública;
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
 
 VI.- Intervenir en auxilio del Síndico Municipal en todos los asuntos litigiosos en que el Municipio sea parte y en los juicios de amparo que se interpongan en contra de cualquier autoridad del municipio;
 
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
+
 VII.- Recopilar y mantener actualizada la normatividad vigente en materia municipal y particularmente la relacionada con el Municipio de Pabellón de Arteaga;
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
 
 VIII.- Tramitar la publicación en el Periódico Oficial del Estado de los acuerdos o disposiciones administrativas del municipio que por ley deben publicarse;
 
-IX.- Participar en la elaboración y supervisar jurídicamente el contenido de los convenios, contratos y demás instrumentos jurídicos y administrativos relativos a la coordinación con la administración pública federal, el Estado, otros municipios o con los particulares; y
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2026)</small>
 
-X.- Lo demás que señalen la Ley, el presente Código o le encomiende el H: Ayuntamiento por conducto del Presidente Municipal.
+IX.- Participar en la elaboración y supervisar jurídicamente el contenido de los convenios, contratos y demás instrumentos jurídicos y administrativos a la coordinación pública federal, el Estado, otros municipios o con los particulares;
 
-(ADICIONADO, P.O. 23 DE ENERO DE 2023) (F. DE E., P.O. 13 DE FEBRERO DE 2023)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE FEBRERO DE 2026)</small>
 
-Para garantizar la uniformidad y congruencia de la acción jurídica de la administración municipal y todas las áreas jurídicas que la conforman, así como la expedites en la atención de los asuntos y la economía en el uso de los recursos, todas las áreas de la administración pública municipal, centralizada o paramunicipal que dentro de su estructura cuenten con una instancia jurídica, esta se subordinarán (sic) jerárquica y administrativamente en su función técnica, operativa y administrativa directamente a los lineamientos y criterios que determine la Dirección General de Asuntos Jurídicos, a través de los mecanismos adecuados para el logro de los fines previstos en este artículo. Este mismo criterio aplicará para los servicios jurídicos especializados que llegaren a contratarse por parte de la administración municipal, los cuales serán valorados por esta Dirección, la Secretaría del Ayuntamiento y por conducto del Presidente Municipal.
+X.- Ejercer la Justicia Cívica dentro del Municipio de Pabellón de Arteaga;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE FEBRERO DE 2026)</small>
+
+XI.- Dirigir, organizar y supervisar el funcionamiento del Juzgado Cívico;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE FEBRERO DE 2026)</small>
+
+XII.- Conocer, a través de la persona juez cívica, de los conflictos y los hechos constitutivos de faltas cívicas en materia de justicia cívica y resolver sobre la responsabilidad de las personas probables infractoras y aplicar las sanciones conforme a las disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE FEBRERO DE 2026)</small>
+
+XIII.- Conocer, calificar, cancelar y/o revocar a través de la persona juez cívica, las infracciones en materia de movilidad, así como la imposición de las sanciones correspondientes, y
+
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2026)</small>
+
+XIV.- Lo demás que señale el presente Código y las disposiciones legales aplicables o le encomiende el H. Ayuntamiento por conducto de la persona titular de la Presidencia Municipal.
 
 > <small>(ADICIONADA, P.O. 4 DE MARZO DE 2019)</small>
 
@@ -3813,123 +4157,45 @@ XXIX.- Brindar el apoyo necesario a los inspectores o verificadores de las diver
 
 XXX.- Las demás que le otorguen las leyes, el presente Código o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
-> <small>(REFORMADA [N. DE E. REUBICADA ANTES SECCIÓN QUINTA], P.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE FEBRERO DE 2026)</small>
 
-#### SECCIÓN SEXTA. De la Dirección de Obras Públicas y Desarrollo Urbano
+#### SECCIÓN SEXTA. De la Dirección de Obras Públicas
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2026)</small>
 
 ###### ARTICULO 217.
 
-Corresponde a la Dirección de Obras Públicas y Desarrollo Urbano:
+Corresponde a la Dirección de Obras Públicas:
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+I.- Realizar estudios y proyectos sobre las necesidades en materia de obra pública, e infraestructura urbana en el municipio, de conformidad con los planes y programas de desarrollo y en coordinación con las diversas dependencias y entidades de la Administración Pública Municipal;
 
-I.- Ejecutar el Programa Municipal de Obra Pública, de acuerdo a los lineamientos, directrices y prioridades que le señale el C. Presidente Municipal;
+II.- Proponer a la persona titular de la Presidencia Municipal y a través de ésta al Ayuntamiento el Programa Anual de Obra Pública a realizarse a través de los distintos fondos aplicables al Municipio;
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+III.- Evaluar el Programa Municipal de Obra Pública, de acuerdo a los lineamientos, directrices y prioridades que le señale la ley reglamentaria aplicable;
 
-II.- Realizar directamente o a través de terceros, las obras públicas del Municipio, formulando los estudios, proyectos y presupuestos correspondientes de acuerdo a la legislación vigente en la materia;
+IV.- Realizar directamente o a través de terceros, las obras públicas del Municipio, formulando los estudios, proyectos y presupuestos correspondientes de acuerdo a la legislación vigente en la materia;
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+V.- Realizar e inspeccionar los trabajos de mantenimiento o conservación de las obras públicas;
 
-III.- Realizar e inspeccionar los trabajos de mantenimiento o conservación de las obras públicas;
+VI.- Proponer las políticas y programas relativos a la construcción y mantenimiento de las obras públicas del Municipio;
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+VII.- Construir y conservar en buen estado la red de vialidades de competencia municipal;
 
-IV.- Proponer las políticas y programas relativos a la construcción y mantenimiento de las obras públicas del Municipio;
+VIII.- Asesorar técnicamente a los Comités Vecinales que lo requieran, en lo concerniente a la realización de obras públicas municipales;
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
+IX.- Expedir las convocatorias y bases a que deben ajustarse los concursos de obra pública que se celebren en el ámbito municipal, así como vigilar la estricta aplicación de las disposiciones legales vigentes en la materia;
 
-V.- Asesorar técnicamente a los Comités Vecinales que lo requieran, en lo concerniente a la realización de obras públicas municipales;
+X.- Brindar apoyo y asesoría técnica a las diversas dependencias y entidades de la Administración Pública Municipal en materia (sic) elaboración de proyectos y presupuestos, así como en la construcción y mantenimiento de obras y servicios;
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2017)</small>
+XI.- Efectuar visitas, peritajes y avalúos que se requieran en la ejecución de la obra pública en términos de la Ley de la materia;
 
-VI.- Expedir las convocatorias y bases a que deben ajustarse los concursos de obra pública que se celebren en el ámbito municipal, así como vigilar la estricta aplicación de las disposiciones legales vigentes en la materia;
+XII.- Llevar a cabo la supervisión del proceso de ejecución de la obra pública en forma directa o a través de supervisión externa que contrate en términos de la normatividad aplicable;
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2017)</small>
+XIII.- Emitir los lineamientos de conservación, mantenimiento, remodelación, reconstrucción y reparación, para el buen funcionamiento de los bienes inmuebles del municipio, en coordinación con las dependencias y entidades que los tengan a su cargo;
 
-VII.- Elaborar el proyecto del Plan Municipal de Desarrollo, sus modificaciones o adiciones y coordinar la elaboración de los programas de desarrollo urbano de la cabecera y de las comunidades;
+XIV.- Solicitar a las autoridades competentes municipales la expropiación, ocupación temporal, total o parcial, de bienes o la limitación de los derechos de dominio, así como la realización de convenios y contratos que sean necesarios para la realización de obras pública (sic), suministrando la información técnica correspondiente, y
 
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
-
-VIII.- Preparar los proyectos de programas y esquemas en materia de desarrollo urbano para presentarlos al Ayuntamiento a través del Presidente Municipal;
-
-> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
-
-IX.- Promover la creación de reservas territoriales en el municipio;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
-
-X.- Proponer la nomenclatura de calles, parques y demás espacios públicos, así como la numeración oficial de los predios y expedir las constancias relativas;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
-
-XI.- Participar en la elaboración de los proyectos de reglamentación de zonificación y usos del suelo, de Construcciones y de protección al ambiente;
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2017)</small>
-
-XII.- Ejercer las atribuciones que le otorga el Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda al Municipio, en cuanto a la creación de condominios, creación de fraccionamientos y su municipalización, así como el control del cumplimiento de las obligaciones de los fraccionadores y promoventes de los condominios;
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2017)</small>
-
-XIII.- Coordinar la Instalación y funcionamiento del Comité de Desarrollo Urbano y Ordenamiento
-
-Territorial en cuanto a las atribuciones que le otorga el Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda y la Ley Municipal del Estado de Aguascalientes;
-
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2017)</small>
-
-XIV.- Administrar el control urbano con el otorgamiento de las autorizaciones de compatibilidad urbanística, alineamiento, anuncios, subdivisiones, fusión y relotificación de predios y fraccionamientos, así como las licencias para construcción, remodelación y demolición de fincas, realización de obras, edificaciones y reparaciones en la vía pública y la expedición de números oficiales conforme a lo estipulado en el Código de Ordenamiento Territorial, Desarrollo Urbano y Vivienda;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
-
-XV.- Fijar los requisitos técnicos y arquitectónicos a que deberán sujetarse las construcciones e instalaciones en predios y uso de la vía pública;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
-
-XVI.- Llevar un registro de peritos, así como asignar peritajes por servicio social en los casos que prevé este Código;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
-
-XVII.- Inspeccionar obras, edificios y construcciones en general;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
-
-XVIII.- Verificar el uso que se está dando a un predio, edificio o construcción, y que éste se ajuste a las características previamente registradas;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
-
-XIX.- Acordar las medidas que fueren procedentes en relación con las edificaciones peligrosas, que generen insalubridad o causen molestias;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
-
-XX.- Ordenar la realización de visitas de inspección, la aplicación de medidas de seguridad;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
-
-XXI.- Imponer las sanciones por violación a las normas en materia de desarrollo urbano;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
-
-XXII.- Solicitar el auxilio de la fuerza pública, cuando fuese necesario para hacer cumplir sus determinaciones;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
-
-XXIII.- Expedir normas técnicas complementarias para el debido cumplimiento en lo relativo a las construcciones;
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
-
-XXIV.- Proponer y vigilar el establecimiento del registro de programas y esquemas de desarrollo urbano en el Gobierno Municipal; y
-
-> <small>(REFORMADA, P.O. 12 DE SEPTIEMBRE DE 2016)</small>
-
-XXV.- Lo demás que señalen la Ley, el presente Código o le encomiende el H: Ayuntamiento por conducto del Presidente Municipal.
-
-XXVI.- (DEROGADA, P.O. 12 DE SEPTIEMBRE DE 2016)
-
-XXVII.- (DEROGADA, P.O. 12 DE SEPTIEMBRE DE 2016)
-
-XXVIII.- (DEROGADA, P.O. 12 DE SEPTIEMBRE DE 2016)
+XV.- Lo demás que señale la Ley, el presente Código o le encomiende el H. Ayuntamiento por conducto de la persona titular de la Presidencia Municipal.
 
 > <small>(REFORMADA [N. DE E. REUBICADA ANTES SECCIÓN SEXTA], P.O. 4 DE MARZO DE 2019)</small>
 
@@ -5241,11 +5507,127 @@ III. Promover, evaluar, elaborar, apoyar e impulsar la aplicación de políticas
 
 IV. Las demás funciones que se desprendan de la normatividad aplicable, así como las que le confiera el Ayuntamiento o el Presidente Municipal.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE FEBRERO DE 2026)</small>
+
+#### SECCIÓN DÉCIMA QUINTA. De la Dirección de Desarrollo Urbano y Planeación Municipal
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2026)</small>
+
+ARTÍCULO 222 SEXIES.- Corresponde a la Dirección de Desarrollo Urbano y Planeación Municipal:
+
+I.- Garantizar el cumplimiento de lo establecido en el Código Urbano del Estado de Aguascalientes, el presente Código Municipal, la legislación en materia urbana y demás disposiciones legales aplicables, así como colaborar en la elaboración y observancia de la planeación urbana y de los proyectos de reglamentación en el ámbito de su competencia;
+
+II.- Ejercer las atribuciones que le otorga el Código Urbano para el Estado de Aguascalientes al Municipio, en cuanto a la formulación de programas y esquemas de desarrollo urbano municipales, autorización de constancias e informes municipales de compatibilidad urbanística, cartas informativas, números oficiales, fusiones, subdivisiones y relotificaciones, expedición de dictámenes para fraccionamientos, condominios y desarrollos inmobiliarios especiales, así como su supervisión por sí o a través (sic) las Unidades Externas de Supervisión y el control del cumplimiento de las obligaciones de los fraccionadores y promotores de los condominios y desarrollos inmobiliarios especiales, así como en cuanto a los asentamientos humanos;
+
+III.- Asesorar a la persona titular de la Presidencia Municipal, a la persona titular de la Secretaría del Ayuntamiento y a los demás directores y funcionarios de la Administración Pública Municipal y emitir dictámenes técnicos en el ámbito de su competencia, para efecto de que en su caso se incluyan y tomen en cuenta en las resoluciones que emita el mismo;
+
+IV.- Asesorar, orientar e informar en su ámbito de competencia, a los habitantes de las colonias, barrios, fraccionamientos y condominios en sus problemas relativos a la prestación de servicios urbanos, derivados de la inobservancia de la legislación en materia urbanística, programas de desarrollo urbano y demás disposiciones jurídicas aplicables;
+
+V.- Calificar las infracciones e imponer medidas de seguridad y sanciones que establece la legislación en materia urbanística, programas de desarrollo urbano y demás disposiciones jurídicas aplicables;
+
+VI.- Conocer y dar trámite en coordinación, en su caso, con la SEPLADE a las denuncias populares que se le presenten con base en la legislación en materia urbanística, programas de desarrollo urbano y demás disposiciones jurídicas aplicables;
+
+VII.- En el ámbito de fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones vigilar el cumplimiento a lo dispuesto por la legislación en materia urbanística, programas de desarrollo urbano y demás disposiciones jurídicas aplicables, en cuanto a los procesos de urbanización hasta su municipalización o entrega a la asociación de condóminos, así como de los usos permitidos en concordancia con el plano de uso de suelo autorizado o el correspondiente Programa o Esquema de Desarrollo Urbano Municipal;
+
+VIII.- Determinar la superficie, ubicación y el aprovechamiento de las áreas de donación que le deben otorgar los fraccionadores y promotores al Municipio, conforme a lo establecido en el Código Urbano para el Estado de Aguascalientes, al Reglamento y legislación aplicable;
+
+IX.- Coordinar la participación y funcionamiento del Comité Municipal de Desarrollo Urbano y Ordenamiento Territorial y de sus Subcomités en cuanto a las atribuciones que le otorga el Código Urbano para el Estado, el presente Código, el Reglamento y demás normatividad aplicable;
+
+X.- Administrar y verificar el control urbano con el otorgamiento, condicionamiento o rechazo de las siguientes autorizaciones, constancias o licencias:
+
+a).- Constancias e Informes Municipales de Compatibilidad Urbanística;
+
+b).- Anuncios;
+
+c).- Fusión de predios;
+
+d).- Subdivisión de predios;
+
+e).- Relotificación de Predios;
+
+f).- Licencias para la construcción, ampliación, reparación, remodelación y demolición de inmuebles;
+
+g).- Ejecución de obras, colocación de instalaciones y reparaciones en la vía pública;
+
+h).- Números oficiales y carta informativa para los inmuebles;
+
+i).- Emitir o revocar permisos de urbanizaciones cerradas;
+
+j).- Prevenir, regular e intervenir en la regularización de los asentamientos humanos irregulares, y
+
+k).- Ejecución de obras, colocación de instalaciones y reparaciones en espacio aéreo o subterráneo de la vía pública;
+
+XI.- Determinar el tipo de construcciones que se puedan edificar en el Municipio con base en la legislación en materia urbanística, programas de desarrollo urbano y demás disposiciones jurídicas aplicables;
+
+XII.- Fijar los requisitos técnicos y arquitectónicos a que deberán sujetarse las construcciones e instalaciones en predios y usos de la vía pública de acuerdo a los Programas y Esquemas de Desarrollo Urbano Municipales;
+
+XIII.- Emitir las determinaciones, resoluciones y sanciones necesarias para que se respete el uso de las vías públicas municipales;
+
+XIV.- Coordinar la Comisión de Admisión de Peritos, llevar el registro de los peritos, así como asignar peritajes por servicio social en los casos que prevé la normatividad municipal aplicable;
+
+XV.- Cerciorarse y aplicar la normatividad en cuanto al uso que se está dando a un predio, edificio o construcción para que éste se apegue a las características previamente registradas y/o autorizadas;
+
+XVI.- Acordar las medidas de seguridad y sanciones que fueren procedentes en relación con las obras de urbanización y edificación cuyo estado presente un riesgo inminente, que generen inseguridad, insalubridad o causen molestias;
+
+XVII.- Ordenar y aplicar la suspensión temporal preventiva o la clausura parcial o total de obras de urbanización y edificación, en ejecución o terminadas, así como la desocupación de los inmuebles en los casos previstos en el Código Urbano para el Estado de Aguascalientes y la normatividad municipal aplicable;
+
+XVIII.- Ordenar y en su caso ejecutar, con el apoyo de la Dirección de Obras Públicas del Municipio o de terceros, las demoliciones en inmuebles en los casos previstos en el Código Urbano para el Estado de Aguascalientes o la normatividad municipal aplicable;
+
+XIX.- Autorizar la ocupación de una construcción siempre que se hayan cumplido los requisitos del Código Urbano para el Estado de Aguascalientes, la normatividad municipal aplicable y el proyecto correspondiente, mediante la expedición de la constancia de terminación de obra o en caso contrario negarla;
+
+XX.- Imponer sanciones a las que se hagan acreedores los infractores a las disposiciones que en materia de desarrollo urbano y asentamientos humanos se encuentran previstas en el Código Urbano para el Estado de Aguascalientes y la normatividad municipal aplicable;
+
+XXI.- Solicitar el auxilio de la fuerza pública, cuando fuere necesario para hacer cumplir sus determinaciones;
+
+XXII.- Expedir y aplicar las normas y especificaciones técnicas complementarias de urbanización y edificación para el debido cumplimiento en lo relativo a la ejecución de las obras de urbanización y la prestación de servicios en subdivisiones, fraccionamientos, condominios y desarrollos inmobiliarios especiales, así como de las construcciones;
+
+XXIII.- Determinar los requisitos y procedimientos para autorizar la asignación, forma de instalación, rectificación y cambio de nomenclatura de fraccionamientos, subdivisiones, vialidades, parques, jardines, plazas, sitios y monumentos históricos y todo aquel lugar factible de otorgársele denominación;
+
+XXIV.- Autorizar la constitución, modificación y extinción del régimen de propiedad en condominio, cuando el predio objeto de la solicitud tenga una superficie de hasta 20,000 metros cuadrados o menos de 100 predios, viviendas, departamentos, unidades o áreas, previa opinión de la SEPLADE;
+
+XXV.- Autorizar los desarrollos inmobiliarios especiales, cuando el predio objeto de la solicitud tenga una superficie de hasta 20,000 metros cuadrados, previa opinión de la SEPLADE;
+
+XXVI.- Autorizar el calendario o programa de obras de urbanización y en su caso de la infraestructura y equipamiento sustituido por áreas de donación municipal, respecto de los proyectos autorizados de su parte, determinando la temporalidad para su ejecución, de acuerdo a la superficie y las implicaciones del proyecto correspondiente;
+
+XXVII.- Autorizar el inicio de las obras de urbanización de los condominios y subdivisiones autorizados de su parte cuando el predio objeto de la solicitud tenga una superficie de hasta 20,000 metros cuadrados o menos de 100 predios, viviendas, departamentos, unidades o áreas;
+
+XXVIII.- Autorizar la venta de predios, previo cumplimiento de los requisitos legales, respecto de los condominios autorizados por él mismo;
+
+XXIX.- Expedir y revocar los permisos para las urbanizaciones cerradas;
+
+XXX.- Emitir opinión sobre la autorización, modificación, extinción y revocación de los fraccionamientos, condominios y desarrollos inmobiliarios especiales, que le correspondan al Consejo Estatal o la SEPLADE;
+
+XXXI.- Por conducto de las unidades externas de supervisión, verificar y constatar que la ejecución de las obras de urbanización, sean compatibles con el proyecto autorizado, la calidad de los materiales y trabajos realizados en las mismas y en obras de edificación, así como el avance de éstas en los fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones. Adicionalmente a lo anterior y de manera aleatoria supervisar directamente y con su personal los trabajos de verificación que efectúen las unidades externas de supervisión.
+
+XXXII.- Expedir los dictámenes técnico-jurídicos, respecto de la ejecución de las obras de urbanización por parte de los fraccionadores y promotores, en cuanto a la compatibilidad del proyecto autorizado y la calidad de los materiales y obras, así como la integración del expediente en lo referente a las obligaciones de los desarrolladores;
+
+XXXIII.- Requerir a las dependencias y entidades municipales los dictámenes correspondientes para liberar las constancias de terminación de obra en la ejecución de la urbanización de fraccionamientos, condominios, desarrollos inmobiliarios especiales y subdivisiones;
+
+XXXIV.- Autorizar o rechazar licencias y permisos para la colocación y retiro de anuncios del mobiliario urbano y regular, controlar y propiciar el mejoramiento de la imagen urbana en los centros de población;
+
+XXXV.- Autorizar o rechazar permisos para la construcción y/o instalación de mobiliario urbano, así como su control y retiro del mismo;
+
+XXXVI.- Emitir opinión para el establecimiento de las rutas de transporte público de pasajeros en el Municipio;
+
+XXXVII.- Asesorar, apoyar técnica y jurídicamente y en su caso autorizar en los casos que proceda la regularización de asentamientos humanos irregulares dentro del Municipio;
+
+XXXVIII.- Conformar y actualizar la cartografía del Municipio;
+
+XXXIX.- Conforme a la Ley del (sic) Ingresos vigente del Municipio, determinar el monto de los derechos fiscales municipales u obligaciones fiscales a cargo de los solicitantes de un servicio o trámite a la Dirección de Desarrollo Urbano y Planeación Municipal;
+
+XL.- Colaborar con la Dirección de Seguridad Pública y Movilidad del Municipio, en la elaboración de las propuestas de los programas municipales en materia de movilidad, los cuales deberán ser acordes a las disposiciones y políticas públicas estatales y municipales en materia de planeación, ordenamiento territorial, desarrollo urbano, movilidad y medio ambiente, en interacción con los diferentes sistemas de transporte en beneficio del interés público;
+
+XLI.- Diseñar el contenido de la bitácora para las obras de edificación y urbanización de bienes inmuebles;
+
+XLII.- Mediar y conciliar cuando se le solicite, en coordinación en su caso con la SEPLADE, en asuntos, conflictos y controversias entre colonos, adquirentes de lotes, predios y viviendas, condóminos, fraccionadores y promotores de condominios y desarrollos inmobiliarios especiales;
+
+XLIII.- Coordinarse con la SEPLADE, para implementar, integrar y operar en el ámbito de su competencia el expediente digital único, para la tramitación, autorización, ejecución y control de las obras de urbanización, así como la municipalización de un fraccionamiento o subdivisión y la entrega de las obras de urbanización de los condominios;
+
+XLIV.- En coordinación con la SEPLADE, implementar y actualizar una certificación para los asesores inmobiliarios, a fin de propiciar y facilitar que los fraccionadores y promotores, efectúen la debida, correcta y expedita integración de los expedientes para la autorización y ejecución de las obras de urbanización, en los fraccionamientos, condominios y desarrollos inmobiliarios especiales, y
+
+XLV.- Las demás que señale el presente Código, el Reglamento, la legislación en materia urbanística, programas de desarrollo urbano, demás disposiciones jurídicas aplicables y las que le sean asignadas por la persona titular de la Presidencia Municipal.
+
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
-
-#### SECCION PRIMERA. Del Consejo Directivo
-
-> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
 ## TITULO SEGUNDO. DE LA ADMINISTRACION PUBLICA PARAESTATAL Y DESCONCENTRADA
 
@@ -10521,9 +10903,9 @@ VI.- El personal técnico y administrativo que se requiera para su funcionamient
 
 > <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2007)</small>
 
-#### SECCION SEGUNDA. Del Consejo Consultivo
+#### SECCION PRIMERA. Del Consejo Directivo
 
-> <small>(REFORMADO Y REUBICADO, P.O. 15 DE OCTUBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 623.
 
@@ -10763,7 +11145,7 @@ Con base en la verificación hecha y en el dictamen sobre la denuncia, el Presid
 
 > <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2007)</small>
 
-#### SECCION TERCERA. Del Director General
+#### SECCION SEGUNDA. Del Consejo Consultivo
 
 > <small>(REFORMADO Y REUBICADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
@@ -10831,7 +11213,9 @@ IX.- Las demás que le señale el presente Título o les delegue el H. Ayuntamie
 
 > <small>(ADICIONADA, P.O. 15 DE OCTUBRE DE 2007)</small>
 
-#### SECCION CUARTA. Del control de los recursos
+#### SECCION TERCERA. Del Director General
+
+> <small>(REFORMADO Y REUBICADO, P.O. 15 DE OCTUBRE DE 2007)</small>
 
 ###### ARTICULO 632.
 
@@ -10911,9 +11295,7 @@ XXX.- Las demás que le señale el Consejo Directivo, este Código, la ley de la
 
 > <small>(ADICIONADA SU DENOMINACIÓN [N. DE E. REFORMADA], P.O. 13 DE JUNIO DE 2022)</small>
 
-#### SECCION PRIMERA. Definiciones
-
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+#### SECCION CUARTA. Del control de los recursos
 
 ###### ARTICULO 633.
 
@@ -14955,7 +15337,7 @@ III.- Proporcionalidad: que el uso de la fuerza sea adecuado y corresponda a la 
 
 #### SECCION PRIMERA. Definiciones
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 780.
 
@@ -15343,7 +15725,7 @@ LXXIX.- Las demás que le señalen las diversas leyes en la materia, los reglame
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE MARZO DE 2019)</small>
 
-#### SECCION SEGUNDA. De la Amonestación
+#### SECCION PRIMERA. Definiciones
 
 > <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
@@ -15499,9 +15881,9 @@ Asimismo la conclusión del servicio por cualquiera de sus causas será registra
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
-#### SECCION TERCERA. Del Arresto
+#### SECCION SEGUNDA. De la Amonestación
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 807.
 
@@ -15635,7 +16017,7 @@ LI.- Por las demás infracciones a la Ley o el presente Código que no ameriten 
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE MARZO DE 2019)</small>
 
-#### SECCION CUARTA. El Cambio de Adscripción
+#### SECCION TERCERA. Del Arresto
 
 > <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -15763,9 +16145,9 @@ k) Por reincidir en faltas mostrándose incorregible, a pesar de que se le hayan
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
-#### SECCION QUINTA. De la Suspensión Temporal
+#### SECCION CUARTA. El Cambio de Adscripción
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 810.
 
@@ -15783,9 +16165,9 @@ V.- Por requerirse para mantener una buena relación e imagen con la comunidad d
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE MARZO DE 2019)</small>
 
-#### SECCION SEXTA. De la Pérdida de Grado
+#### SECCION QUINTA. De la Suspensión Temporal
 
-> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 811.
 
@@ -15815,9 +16197,9 @@ IX.- Por cometer una falta que amerite destitución o remoción cuando el Consej
 
 > <small>(REFORMADA, P.O. 24 DE ABRIL DE 2006)</small>
 
-#### SECCION SEPTIMA. De la Destitución y Remoción
+#### SECCION SEXTA. De la Pérdida de Grado
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 812.
 
@@ -15825,9 +16207,9 @@ Se impondrá la sanción de perdida de grado cuando se niegue a asistir a los cu
 
 > <small>(REFORMADA, P.O. 4 DE MARZO DE 2019)</small>
 
-#### SECCION PRIMERA. De las Faltas Contra la Seguridad Pública
+#### SECCION SEPTIMA. De la Destitución y Remoción
 
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2019)</small>
 
 ###### ARTICULO 813.
 
@@ -28245,7 +28627,9 @@ Para los efectos de este capítulo son responsables las personas de once años o
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 24 DE ABRIL DE 2006)</small>
 
-#### SECCION SEGUNDA. De las Faltas Contra la Tranquilidad Ciudadana
+#### SECCION PRIMERA. De las Faltas Contra la Seguridad Pública
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 1931.
 
@@ -28305,9 +28689,7 @@ XXVI.- Organizar o participar en peleas de animales no autorizadas.
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 24 DE ABRIL DE 2006)</small>
 
-#### SECCION TERCERA. De las Faltas Contra la Salubridad General
-
-> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
+#### SECCION SEGUNDA. De las Faltas Contra la Tranquilidad Ciudadana
 
 ###### ARTICULO 1932.
 
@@ -28347,7 +28729,7 @@ XIII.- Hostigar a una persona en la vía pública mediante acecho, actos de exhi
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 24 DE ABRIL DE 2006)</small>
 
-#### SECCION CUARTA. De las Faltas Contra la Moral y el Civismo
+#### SECCION TERCERA. De las Faltas Contra la Salubridad General
 
 > <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
@@ -28380,6 +28762,10 @@ X.- Abstenerse de recoger de la vía o espacio público las heces fecales de un 
 XI.- Fumar en lugar público en donde expresamente se establezca la prohibición de hacerlo.
 
 > <small>(ADICIONADA CON EL ARTICULO QUE LA INTEGRA, P.O. 24 DE ABRIL DE 2006)</small>
+
+#### SECCION CUARTA. De las Faltas Contra la Moral y el Civismo
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2006)</small>
 
 ###### ARTICULO 1934.
 
@@ -30682,3 +31068,19 @@ La intención de esta iniciativa es que las madres y padres tengan acceso a los 
 ###### ARTÍCULO TERCERO.
 
 Para efecto de acreditar el estado de vulnerabilidad, el Síndico Municipal expedirá las cartas de soltería.
+
+P.O. 2 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DICTAMEN POR EL QUE SE APRUEBA LA REFORMA A DIVERSOS ARTÍCULOS DEL CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO: Le serán atribuidos a la nueva Dirección de Desarrollo Urbano y Planeación Municipal todos aquellos artículos del Código Municipal de Pabellón de Arteaga, aunque se digan facultad de la modificada Dirección de Obras Públicas y Desarrollo Urbano, se desarrollen en el ámbito de las facultades establecidas en la Sección Décimo Quinta, artículo 222 SEXIES.
+
+TERCERO: Le serán atribuidos a las personas Jueces Cívicos del Municipio todas aquellas facultades y obligaciones que consagre el Código Municipal de Pabellón de Arteaga, para los Jueces Calificadores o Jueces adscritos a la Dirección de Seguridad Pública.
+
+CUARTO: En lo relativo a la separación del área de Desarrollo Urbano de la Dirección de Obras Públicas, dentro de un año a partir de la presente reforma, la Comisión de Desarrollo Urbano y Obras Públicas realizara un análisis para valorar la eficiencia y eficacia de dicha separación y en caso de que no dé los resultados esperados, se determinara en Comisiones Unidas la fusión de dichos entes de Gobierno.
+
+QUINTO: El Ayuntamiento deberá emitir los Reglamentos que requiera la presente reforma, así como hacer las adecuaciones administrativas, de personal y del presupuesto de egresos del Municipio de Pabellón de Arteaga, que sean necesarias.
+
+SEXTO: Se dejan sin efecto todos los acuerdos, disposiciones normativas y reglamentarias del Municipio de Pabellón de Arteaga que contravengan el presente Decreto.
