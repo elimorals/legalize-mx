@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2025-08-01"
+last_updated: "2026-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CÓDIGO PENAL PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2026.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -1721,6 +1721,18 @@ Al que omita prestar el auxilio necesario a quien se encuentre desamparado y en 
 
 Al que abandone a una persona incapaz de valerse por sí misma, teniendo la obligación de cuidarla, se le aplicará prisión de tres meses a tres años y privación de la patria potestad o tutela del abandonado si la tuviera.
 
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2026)</small>
+
+###### ARTICULO 160 Bis.
+
+Al que teniendo el deber legal de cuidado, abandone a una persona adulta mayor, cuando esta se encuentre en condición de dependencia física, mental o económica que le impida valerse por sí misma, se le aplicará de seis meses a cinco años de prisión y privación de la tutela si la tuviera.
+
+La misma pena se impondrá al que confié su guarda a una institución o a cualquier persona, contraviniendo la ley, la voluntad de quien se lo confió o la anuencia del juez de lo familiar.
+
+La responsabilidad penal quedará excluida cuando la persona obligada demuestre de manera justificada, haber estado en situación de imposibilidad material para brindar dicha asistencia.
+
+El delito previsto en el presente artículo será perseguido de oficio.
+
 ### CAPITULO III. OMISION DE AUXILIO A ATROPELLADOS
 
 ###### ARTICULO 161.
@@ -2231,6 +2243,10 @@ Comete también el delito de acoso sexual quien con fines de lujuria asedie a cu
 
 A quien cometa el delito de acoso sexual, se le sancionará con pena de uno a tres años de prisión y de trescientos a seiscientos días multa.
 
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2026)</small>
+
+En caso de que el delito sea cometido por choferes de vehículos destinados al transporte público, además de la pena impuesta en el párrafo anterior, se estará a lo previsto en el artículo 376 de la Ley de Movilidad Sustentable y Seguridad Vial del Estado de Sinaloa.
+
 > <small>(ADICIONADO, P.O. 17 DE NOVIEMBRE DE 2017)</small>
 
 ARTICULO 185 BIS A.- Si la víctima de los delitos a que se refiere este capítulo es menor de dieciocho años o persona que no tenga la capacidad para comprender el significado del hecho o de resistirlo, la pena de prisión será de tres a cinco años de prisión y la sanción pecuniaria de quinientos a mil días multa.
@@ -2623,6 +2639,10 @@ La pena prevista en el párrafo anterior se aumentará en una mitad, al servidor
 
 Cuando el apoderamiento del vehículo automotor se realice en cualquiera de las circunstancias prevista (sic) en el artículo 205 de este Código, a la pena prevista en el artículo 207 párrafo primero se aumentará de cinco a diez años de prisión.
 
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2026)</small>
+
+La pena prevista en el primer párrafo de este artículo, se aumentará de cuatro a ocho años más de prisión, además de lo previsto en el artículo 205 de este Código, de actualizarse su fracción I, si a bordo del vehículo se encuentran mujeres, menores de edad, personas adultas mayores o personas con discapacidad.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE SEPTIEMBRE DE 2010)</small>
 
 ARTICULO 207 BIS.- Se sancionará con pena de cinco a quince años de prisión y de trescientos cincuenta a quinientos días multa al que a sabiendas y con independencia de las penas que le corresponda por la comisión de otros delitos:
@@ -2674,6 +2694,14 @@ Igualmente se impondrán dichas penas a quien, a sabiendas utilice para un vehí
 > <small>(ADICIONADO, P.O. 5 DE OCTUBRE DE 2007)</small>
 
 ARTICULO 207 BIS B.- A quien utilice para un vehículo las placas oficiales expedidas para identificar otro vehículo, se le impondrá de seis meses a dos años de prisión y hasta ciento cincuenta días multa.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2026)</small>
+
+ARTICULO 207 Bis C. Comete el delito de robo equiparado de vehículos, quien tras arrendar un vehículo automotor terrestre, no devuelva el vehículo arrendado sin causa justificada, sin el consentimiento del arrendador; al responsable se le impondrá de cuatro a ocho años de prisión y de cien a trescientos días multa.
+
+No se considerará como robo equiparado de vehículos cuando el arrendatario, por causas justificadas, no pueda devolver el vehículo en el tiempo estipulado, sujetándose al pago de la compensación previamente acordada con el arrendador.
+
+La pena prevista en este artículo se aumentará hasta en una mitad más, si el sujeto activo del delito de robo equiparado de vehículos, además incurre en alguna de las conductas previstas en las fracciones I a VII del artículo 207 Bis, de este Código.
 
 ###### ARTICULO 208.
 
@@ -5548,6 +5576,46 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 1 DE AGOSTO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 209 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMA Y ADICIONA LOS ARTÍCULOS 134 Y 139 DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 2 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 326 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE ADICIONA EL ARTÍCULO 207 BIS C AL CÓDIGO PENAL PARA EL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 336 QUE REFORMA Y ADICIONA (SIC) DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA Y DE LA LEY DE MOVILIDAD SUSTENTABLE Y SEGURIDAD VIAL DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+P.O. 2 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 337 POR EL QUE SE ADICIONA EL ARTÍCULO 160 BIS AL CÓDIGO PENAL PARA EL ESTADO DE SINALOA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 358 DEL H. CONGRESO DEL ESTADO.- QUE ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 207 DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA”.]
 
 ###### ARTÍCULO ÚNICO.
 
