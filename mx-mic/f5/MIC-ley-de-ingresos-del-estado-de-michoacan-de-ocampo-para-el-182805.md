@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ingresos-del-estado-de-michoacan-de-ocampo-para-el-18280
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2025-12-09"
-last_updated: "2025-12-09"
+last_updated: "2026-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=182805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MIC"
 ---
 # LEY DE INGRESOS DEL ESTADO DE MICHOACAN DE OCAMPO PARA EL EJERCICIO FISCAL 2026
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE FEBRERO DE 2026 EN EL P.O. DEL ESTADO DE MICHOACÁN DE OCAMPO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO PARA EL EJERCICIO FISCAL 2026
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE FEBRERO DE 2026.]</small>
 
 Ley publicada en la Décima Primera Sección del Número 64 del Periódico Oficial del Estado de Michoacán, el martes 9 de diciembre de 2025.
 
@@ -3811,145 +3811,7 @@ CONCEPTO CUOTA 2026
 
 C) Planos catastrales no digitalizados. $900.00
 
-II. Levantamientos topográficos.
-
-Medición y deslinde de predios urbanos o rústicos para verificación de medidas perimetrales, linderos y superficie, incluyendo cálculo, dibujo, entrega de original del plano resultante y el certificado correspondiente, se pagarán de acuerdo con lo siguiente:
-
-CONCEPTO CUOTA 2026
-
-A) Para predios urbanos,
-
-de 1 a 1,000 m². $4,818.00
-
-B) Para predios urbanos,
-
-de 1,001 m² a 5,000 m². $6,110.00
-
-C) Para predios urbanos,
-
-de 5,001 m² a 10,000 m². $8,144.00
-
-D) Para predios urbanos,
-
-de 10,001 m² en adelante. $11,539.00
-
-E) Para predios rústicos, se aplicará la siguiente tarifa:
-
-CONCEPTO CUOTA 2026
-
-1. Manzaneros. $566.00
-
-2. De los Municipios de
-
-Morelia, Uruapan y Zamora,
-
-escala 1:10,000. $3,506.00
-
-3. De los Municipios de
-
-Apatzingán, Hidalgo, Jacona,
-
-La Piedad, Lázaro Cárdenas,
-
-Los Reyes, Pátzcuaro, Puruándiro,
-
-Tacámbaro, Sahuayo y Zitácuaro,
-
-escala 1:7,500. $2,674.00
-
-4. De los Municipios de Coeneo,
-
-Cotija, Cuitzeo, Huandacareo,
-
-Jiquilpan, Maravatío, Paracho,
-
-Purépero, Quiroga, Salvador
-
-Escalante, Tangancícuaro,
-
-Tarímbaro, Venustiano Carranza,
-
-Yurécuaro, Zacapu y Zinapécuaro,
-
-escala 1:7,500. $1,853.00
-
-5. Cuando los planos a que se refieren los numerales anteriores, se requieran con curvas de nivel, su costo se incrementará a otro tanto de las cuotas señaladas en dichos numerales.
-
-6. Manzanero, en formato dwf. $654.00
-
-7. De sector, en formato dwf,
-
-por cada manzana existente
-
-en el mismo. $117.00
-
-8. Por fotografía aérea escaneada
-
-en archivo digital en formato dwf. $894.00
-
-Para los servicios contenidos en el inciso A), que abarcan los puntos del 1 al 8, se pagará el servicio de consulta contenido en el inciso C) de la fracción XIV del presente artículo.
-
-B) Copias en archivo digital en formato dwf:
-
-CONCEPTO CUOTA 2026
-
-1. De los municipios de La Piedad,
-
-Morelia, Uruapan y Zamora. $13,950.00
-
-2. De los municipios de
-
-Apatzingán, Jacona, Jiquilpan,
-
-Los Reyes, Lázaro Cárdenas,
-
-Maravatío, Pátzcuaro, Puruándiro,
-
-Sahuayo y Zitácuaro. $10,251.00
-
-3. De los municipios de Hidalgo,
-
-Coeneo, Cotija, Cuitzeo,
-
-Huandacareo, Paracho, Purépero,
-
-Quiroga, Salvador Escalante,
-
-Tacámbaro, Tangancícuaro,
-
-Venustiano Carranza, Yurécuaro,
-
-Zacapu y Zinapécuaro. $6,828.00
-
-4. De los planos de valores
-
-unitarios de terreno urbano
-
-por sector de los municipios
-
-de Apatzingán, La Piedad,
-
-Lázaro Cárdenas, Morelia,
-
-Uruapan y Zamora. $8,614.00
-
-5. De los planos de valores
-
-unitarios de terreno urbano
-
-de los demás municipios con
-
-los que se cuenta planos de
-
-valores autorizados por el
-
-Congreso. $8,541.00
-
-Para la reproducción de las copias en archivo digital a que se refiere el inciso B) inmediato anterior, los interesados proporcionarán el dispositivo magnético.
-
-CONCEPTO CUOTA 2026
-
-C) Planos catastrales no digitalizados. $900.00
+> <small>(F. DE E., P.O. 2 DE FEBRERO DE 2026)</small>
 
 II. Levantamientos topográficos.
 
