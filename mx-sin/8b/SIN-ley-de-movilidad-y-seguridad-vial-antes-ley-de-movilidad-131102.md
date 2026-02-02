@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-movilidad-y-seguridad-vial-antes-ley-de-movilidad-131102
 country: "mx"
 rank: "ley"
 publication_date: "2018-10-10"
-last_updated: "2024-11-06"
+last_updated: "2026-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE MOVILIDAD SUSTENTABLE Y SEGURIDAD VIAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2026.
 
 Ley publicada en la Segunda Sección del No. 125 del Periódico Oficial del Estado de Sinaloa, el miércoles 10 de octubre de 2018.
 
@@ -4605,11 +4605,21 @@ I. Cuando se compruebe que su titular ha dejado de tener la aptitud física o me
 
 II. Cuando por sentencia ejecutoria lo determine una autoridad judicial;
 
-III. Cuando el titular de la misma haya incurrido por cuarta vez durante un año natural inmediato anterior, en la infracción de conducir en estado de embriaguez o bajo la influencia de drogas o substancias tóxicas que disminuyan en forma notable su aptitud para conducir, o causen daños graves al patrimonio e integridad física de las personas; y
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2026)</small>
+
+III. Cuando el titular de la misma haya incurrido por cuarta vez durante un año natural inmediato anterior, en la infracción de conducir en estado de embriaguez o bajo la influencia de drogas o substancias tóxicas que disminuyan en forma notable su aptitud para conducir, o causen daños graves al patrimonio e integridad física de las personas;
+
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2026)</small>
 
 IV. Cuando se haya suspendido la licencia dos veces en un periodo de dos años o tres veces en cinco años; y
 
-V. Cuando se compruebe que tiene dos o más licencias de la misma categoría. En este caso, si se acreditare la obtención dolosa del solicitante, se cancelarán todas y se le dará visto a la autoridad competente.
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2026)</small>
+
+V. Cuando se compruebe que tiene dos o más licencias de la misma categoría. En este caso, si se acreditare la obtención dolosa del solicitante, se cancelarán todas y se le dará visto a la autoridad competente; y
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2026)</small>
+
+VI. Cuando la persona titular de una licencia de la modalidad señalada en la fracción l del artículo 361 de esta Ley, en ejercicio de sus funciones, en instalaciones o vehículos destinados al transporte público de pasajeros, sea condenada por el delito de acoso sexual, de conformidad a lo previsto en el artículo 185 Bis del Código Penal para el Estado de Sinaloa.
 
 La suspensión y revocación de las licencias se sujetarán al procedimiento establecido por el Reglamento de esta Ley.
 
@@ -4621,9 +4631,11 @@ La SGG en cumplimiento de sentencia condenatoria ejecutoriada y previo mandato j
 
 Las licencias de conducir se anularán cuando se compruebe que la información proporcionada por el interesado para su obtención es falsa o que alguno de los documentos o constancias exhibidas sean falsificadas; en caso de ser procedente se consignará al presunto responsable ante las autoridades competentes.
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 376.
 
-En la situación de que una licencia de conducir sea revocada o anulada, el particular no podrá obtener nuevamente esta autorización, en ninguna de sus especies, hasta por el término de cinco años contados a partir de la fecha en que se decrete la sanción. En caso de reincidencia, la licencia de conducir ya no podrá expedirse de nuevo, ni el presunto responsable podrá conducir vehículos en el Estado aun cuando porte licencia expedida en otra Entidad.
+En la situación de que una licencia de conducir sea revocada o anulada, el particular no podrá obtener nuevamente esta autorización, en ninguna de sus especies, hasta por el término de cinco años contados a partir de la fecha en que se decrete la sanción; y si la persona es conductora del servicio de transporte púbíico y esta fuere sentenciada por la comisión del delito de acoso sexual, el término empezará a contar a partir del momento en el que se haya cumplido con la pena privativa de la libertad o esta se hubiera tenido por cumplida. En caso de reincidencia, la licencia de conducir ya no podrá expedirse de nuevo, ni el presunto responsable podrá conducir vehículos en el Estado aun cuando porte licencia expedida en otra Entidad.
 
 ###### Artículo 377.
 
@@ -5348,3 +5360,11 @@ El Ejecutivo del Estado deberá realizar las adecuaciones a las disposiciones re
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 336 DEL H. CONGRESO DEL ESTADO.- QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA Y DE LA LEY DE MOVILIDAD SUSTENTABLE Y SEGURIDAD VIAL DEL ESTADO DE SINALOA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
