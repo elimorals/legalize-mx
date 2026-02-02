@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2025-12-04"
+last_updated: "2026-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -175,8 +175,6 @@ Toda persona tiene derecho a ser protegida por el Estado y sus Municipios ante d
 
 El Estado promoverá el desarrollo integral de las personas jóvenes, a través de políticas públicas con enfoque multidisciplinario y transversal, que propicien su inclusión en el ámbito político, social, económico y cultural de la Entidad.
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2024)</small>
-
 > <small>(ADICIONADO, P.O. 27 DE ENERO DE 2025)</small>
 
 Toda persona tiene derecho a desarrollarse en un entorno seguro y a vivir libre de violencia. El Estado implementará las políticas públicas necesarias para garantizar la seguridad ciudadana.
@@ -185,9 +183,9 @@ Toda persona tiene derecho a desarrollarse en un entorno seguro y a vivir libre 
 
 Toda persona tiene derecho al libre acceso a información plural y oportuna, así como a buscar, recibir y difundir información e ideas de toda índole por cualquier medio de expresión. El derecho a la información será garantizado por el Estado, debiendo observar en todo momento los principios y bases establecidas en el apartado A del artículo 6° de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2025)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2026)</small>
 
-Las autoridades garantes de los derechos de acceso a la información y protección de datos personales en el Estado, serán, por parte del Ejecutivo, la Contraloría del Estado, quién además, conocerá de los asuntos en materia de transparencia y protección de datos personales de los Municipios; por parte de los Poderes Legislativo, Judicial y demás sujetos obligados, serán sus Órganos Internos de Control; y, el Instituto Estatal Electoral, conocerá de los partidos políticos locales, en términos de lo dispuesto por las leyes secundarias en la materia.
+Las autoridades garantes de los derechos de acceso a la información y protección de datos personales en el Estado, serán, por parte del Ejecutivo, la Contraloría del Estado, quién además, conocerá de los asuntos en materia de transparencia y protección de datos personales de los Municipios; por parte de los Poderes Legislativo, Judicial y Órganos Constitucionales Autónomos, serán sus Órganos Internos de Control u homólogos, en términos de lo dispuesto por las leyes secundarias en la materia.
 
 > <small>(ADICIONADO, P.O. 21 DE JULIO DE 2025)</small>
 
@@ -292,6 +290,18 @@ Las organizaciones civiles podrán participar en la realización de actividades 
 > <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2016)</small>
 
 La Ley determinará las formas de participación de estas organizaciones, y la designación de controles sociales que vigilen el cumplimiento de las actividades señaladas en el párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2026)</small>
+
+El Estado velará por la estabilidad de las finanzas públicas y del sistema financiero para coadyuvar a generar condiciones favorables para el crecimiento económico y el empleo. Los Planes Estatales y Municipales de Desarrollo deberán observar dicho principio.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2026)</small>
+
+Además, planeará, conducirá, coordinará y orientará la actividad económica del Estado, y llevará a cabo, en el ámbito de su competencia, la regulación y fomento de las actividades que demande el interés general en el marco de libertades que otorga esta Constitución.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2026)</small>
+
+Al desarrollo económico del Estado concurrirán, con responsabilidad social, el sector público, el sector social y el sector privado, sin menoscabo de otras formas de actividad económica que contribuyan al desarrollo de la Entidad.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
@@ -4732,3 +4742,19 @@ P.O. 4 DE DICIEMBRE DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 2 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 353.- SE REFORMA EL ARTÍCULO 4° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 2 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 354.- SE ADICIONAN LOS PÁRRAFOS AL ARTÍCULO 7o. A DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, una vez cubiertos los extremos del artículo 94 de la Constitución Política del Estado de Aguascalientes.
