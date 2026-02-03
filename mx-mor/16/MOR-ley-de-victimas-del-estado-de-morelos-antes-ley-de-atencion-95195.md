@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-victimas-del-estado-de-morelos-antes-ley-de-atencion-951
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-17"
-last_updated: "2024-09-04"
+last_updated: "2026-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95195&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,11 @@ state: "MOR"
 
 [NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO TERCERO DEL DECRETO 470 PUBLICADO EN P.O. DE 28 DE AGOSTO DE 2019, SE DEROGA EL "DECRETO NÚMERO CATORCE, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE DISTINTOS CÓDIGOS Y LEYES ESTATALES, EN MATERIA DE VIOLENCIA CONTRA LAS MUJERES Y PERSPECTIVA DE GÉNERO", PUBLICADO EN P.O. 10 DE ABRIL DE 2019.]
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE FEBRERO DE 2026 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE VÍCTIMAS DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 17 de julio de 2013.
 
@@ -1232,6 +1234,32 @@ VIII. Devolución de todos los bienes o valores de su propiedad que hayan sido i
 IX. Restablecimiento de su salud.
 
 En los casos en que una autoridad judicial competente revoque una sentencia condenatoria, se eliminarán de los registros los respectivos antecedentes penales.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2026)</small>
+
+Para el caso de la devolución a que se refiere la fracción VIII, en caso de ser víctima u ofendido de los delitos previstos en el artículo 176-BIS del Código Penal para el Estado de Morelos, cuando se haya denunciado el ilícito dentro del término de 72 horas después de ocurrido el hecho o se haya tenido conocimiento del mismo o, en caso de que el vehículo sea utilizado como medio para la comisión de un delito sin que el propietario haya participado del mismo, aun cuando no haya sido posible denunciar dicho delito, no se estará obligado a realizar pago alguno por concepto de los servicios de depósito, inventario, arrastre y demás relativos a dichos servicios, en términos de la correspondiente normativa fiscal estatal o municipal cuando el servicio se preste directamente por alguna autoridad estatal o municipal y, en términos de las condiciones aplicables a la correspondiente concesión, cuando el servicio sea prestado por los particulares; lo anterior por concepto de:
+
+a) Gastos por contribuciones o accesorios originados por maniobras de salvamento, arrastre y almacenaje y demás conceptos previstos en las leyes de ingresos municipales o estatales, por derechos de corralón municipal, de los vehículos recuperados y que deban ser devueltos a sus propietarios, previa acreditación de propiedad ante la autoridad ministerial correspondiente;
+
+b) Pago de contribuciones, accesorios y demás gastos que se generen ante cualquier autoridad estatal o municipal, en caso de que el vehículo automotor haya sido recuperado en condiciones de desvalijamiento o pérdida total;
+
+c) Pago de contribuciones, accesorios y demás gastos que se generen ante la autoridad hacendaria municipal, en caso de haberse recuperado y entregado el vehículo después de transcurridos tres meses de su denuncia;
+
+d) Pago de contribuciones, accesorios y demás gastos que se generen ante cualquier autoridad hacendaria estatal o municipal, en caso de que no se haya recuperado transcurridos 6 meses a partir de la denuncia, y
+
+e) Pago de los servicios de depósito, inventario, arrastre y demás relativos a dichos servicios ante los particulares que tuvieren concesionados tales servicios.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2026)</small>
+
+Los beneficios a que se refiere el párrafo anterior se concederán siempre y cuando el gasto respectivo no se encuentre amparado, asegurado o cubierto de otra forma, para lo cual el Ministerio Público que conozca de la denuncia realizará las investigaciones que se requieran y resolverá sobre el otorgamiento de este beneficio; si al término del procedimiento respectivo se acreditara que la conducta por la que se privó a la supuesta víctima no fue delictuosa, la persona que hubiera recibido los beneficios de este artículo deberá realizar el pago correspondiente, con la posibilidad deducir las acciones que resulten procedentes, asimismo los beneficios citados, se aplicarán a otras partes de un vehículo automotor que hayan sido robadas y trasladadas a un corralón.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2026)</small>
+
+La Fiscalía General del Estado y los municipios del estado de Morelos garantizarán, dentro de sus respectivos ámbitos de competencia, el cumplimiento de lo establecido en el párrafo antepenúltimo del presente artículo relativo a las víctimas u ofendidos de los delitos previstos en el artículo 176-BIS del Código Penal para el Estado de Morelos, para dar cumplimiento a dicha obligación, la Fiscalía General solicitará al corralón correspondiente, la devolución del vehículo automotor a favor de los propietarios, sin costo alguno.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2026)</small>
+
+Por su parte, los municipios o la autoridad correspondiente, en los instrumentos jurídicos que celebran con particulares para otorgar la concesión o permiso de corralones municipales o de grúas, deberán establecer la obligación de los concesionarios de brindar tales servicios de manera gratuita a quienes sean víctimas del delito de robo de vehículo.
 
 > <small>(REFORMADA, P.O. 31 DE OCTUBRE DE 2017)</small>
 
@@ -3182,3 +3210,15 @@ PRIMERO.- Aprobado el presente Decreto por las diputadas y diputados integrantes
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad” Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
 
 TERCERO.- Se derogan todas las disposiciones de igual o menor grado jerárquico que se opongan al presente decreto.
+
+P.O. 3 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CUATRO.- POR EL QUE SE ADICIONAN CUATRO PÁRRAFOS FINALES AL ARTÍCULO 76 DE LA LEY DE VÍCTIMAS DEL ESTADO DE MORELOS, EL ARTÍCULO 218 A LA LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS, ASÍ COMO LOS ARTÍCULOS 84 BIS-4 Y 84 BIS-5 A LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor el 1 de enero del siguiente ejercicio fiscal al año de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERA. Los treinta y seis municipios del Estado de Morelos, deberán llevar a cabo la armonización en los reglamentos respectivos, así como la modificación de las concesiones correspondientes, dentro del plazo de noventa días hábiles posteriores a la entrada en vigor del presente decreto.
+
+CUARTA. La Fiscalía General del Estado de Morelos, deberá llevar a cabo la armonización en sus reglamentos respectivos dentro del plazo de noventa días hábiles posteriores a la entrada en vigor del presente decreto.
