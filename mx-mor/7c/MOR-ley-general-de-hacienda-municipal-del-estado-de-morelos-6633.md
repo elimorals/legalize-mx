@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-municipal-del-estado-de-morelos-6633"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "2020-01-29"
+last_updated: "2026-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "MOR"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE FEBRERO DE 2026 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS 1984
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2026.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -3403,6 +3405,18 @@ II.- Aportaciones extraordinarias de organismos públicos.
 
 III.- (DEROGADA, P.O. 16 DE JULIO DE 2008)
 
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2026)</small>
+
+###### ARTICULO 218.
+
+Estarán exentas del pago de derechos causados por los servicios de depósito, inventario, arrastre y demás relativos a dichos servicios que presten los Municipios las víctimas u ofendidos cuyo vehículo automotor haya sido objeto de robo, conforme lo previsto por el artículo 176-Bis del Código Penal para el Estado de Morelos.
+
+Lo anterior previa acreditación de la propiedad del vehículo automotor ante la autoridad ministerial, en los términos señalados por el artículo 76 de la Ley de Víctimas del Estado de Morelos.
+
+En caso de que los servicios de depósito, inventario, arrastre y demás relativos a dichos servicios los presten particulares con concesión o permiso otorgado por el Ayuntamiento de que se trate, éste último deberá determinar como condición para la concesión que, tratándose de víctimas u ofendidos cuyo vehículo automotor haya sido objeto de robo, conforme a lo previsto por el artículo 176-BIS del Código Penal para el Estado de Morelos, no se realice el cobro por parte del concesionario.
+
+Como consecuencia de lo previsto en este artículo los Municipios no considerarán el cobro de las contribuciones amparadas por la presente exención en las respectivas leyes de ingresos municipales de cada año.
+
 ## TRANSITORIOS
 
 PRIMERO.- Esta Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -3668,3 +3682,15 @@ PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado
 SEGUNDA. El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión oficial del Gobierno del Estado de Morelos.
 
 TERCERO. Se derogan todas las disposiciones de igual o menor rango que (sic) lo establecido en el presente Decreto.
+
+P.O. 3 DE FEBRERO DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NÚMERO MIL CUATRO POR EL QUE SE ADICIONAN CUATRO PÁRRAFOS FINALES AL ARTÍCULO 76 DE LA LEY DE VÍCTIMAS DEL ESTADO DE MORELOS, EL ARTÍCULO 218 A LA LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS, ASÍ COMO LOS ARTÍCULOS 84 BIS-4 Y 84 BIS-5 A LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS".]</small>
+
+PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor el 1 de enero del siguiente ejercicio fiscal al año de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERA. Los treinta y seis municipios del Estado de Morelos, deberán llevar a cabo la armonización en los reglamentos respectivos, así como la modificación de las concesiones correspondientes, dentro del plazo de noventa días hábiles posteriores a la entrada en vigor del presente decreto.
+
+CUARTA. La Fiscalía General del Estado de Morelos, deberá llevar a cabo la armonización en sus reglamentos respectivos dentro del plazo de noventa días hábiles posteriores a la entrada en vigor del presente decreto.
