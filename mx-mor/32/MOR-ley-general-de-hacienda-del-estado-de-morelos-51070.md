@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-51070"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-07-05"
-last_updated: "2025-12-22"
+last_updated: "2026-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "MOR"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE FEBRERO DE 2026 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 5 de julio de 2006.
 
@@ -3510,6 +3512,22 @@ Artículo 84 BIS-2.- La falta de presentación de los avisos a que se refiere es
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2024)</small>
 
 Artículo 84 BIS-3. No obstante lo dispuesto por el artículo 84 BIS, en el ejercicio en que corresponda realizar el trámite de canje de placas metálicas de circulación, de acuerdo con las disposiciones de la Norma Oficial Mexicana vigente para placas metálicas, calcomanías de identificación y tarjetas de circulación, el pago de los derechos contenidos en la fracción I, del artículo 84 de la presente Ley, se realizará a partir del mes de abril, con los requisitos y calendarización que al efecto expida la autoridad competente en materia de servicios de control vehicular.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2026)</small>
+
+Artículo 84 BIS-4.- Las personas víctimas u ofendidas de los delitos establecidos en el artículo 176-BIS del Código Penal para el Estado de Morelos, que hayan denunciado dentro del término de 72 horas después de ocurrido el hecho o se haya tenido conocimiento del mismo, salvo casos de fuerza mayor debidamente acreditados, no pagarán el derecho por concepto de refrendo anual de los derechos de control vehicular, con expedición de tarjeta de circulación y holograma en los siguientes casos:
+
+I. Cuando hayan sido recuperados en condiciones de desvalijamiento y pérdida total;
+
+II. Al haberse recuperado y entregado a la víctima propietaria del vehículo después de transcurridos tres meses de su denuncia, o
+
+III. Si el vehículo no ha sido recuperado en un periodo superior a 6 meses desde la fecha de la denuncia, o bien si el Ministerio Público determina la imposibilidad de su localización, antes de ese plazo.
+
+Artículo 84 BIS-5.- Las personas víctimas u ofendidas de los delitos establecidos en el artículo 176-BIS del Código Penal para el Estado de Morelos, y se haya denunciado dentro del término de 72 horas después de ocurrido el hecho o se haya tenido conocimiento del mismo, salvo casos de fuerza mayor debidamente acreditados, no pagarán por los derechos por concepto de servicios prestados por la Coordinación General de Movilidad y Transporte consistentes en reexpedición de tarjeta de circulación de automóviles y camiones y por la expedición de baja de registro en el Padrón Vehicular estatal de servicio particular, en los siguientes casos:
+
+I. Cuando hayan sido recuperados en condiciones de desvalijamiento y pérdida total, o
+
+II. Si el vehículo no ha sido recuperado en un periodo superior a seis meses desde la fecha de la denuncia, o bien si el Ministerio Público determina la imposibilidad de su localización antes de ese plazo.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
@@ -7374,3 +7392,15 @@ TERCERA. La Secretaría de Administración y Finanzas expedirá a más tardar el
 Los municipios deberán informar a la Secretaría de Administración y Finanzas del Poder Ejecutivo a más tardar el 15 de enero de 2026, los datos de la Cuenta Bancaria Productiva Específica a que se refiere el artículo 15 que por virtud de este Decreto se reforma a la Ley de Coordinación Hacendaria del Estado de Morelos.
 
 CUARTA. Se derogan todas las disposiciones legales y normativas que contravengan lo señalado en el presente Decreto.
+
+P.O. 3 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CUATRO.- POR EL QUE SE ADICIONAN CUATRO PÁRRAFOS FINALES AL ARTÍCULO 76 DE LA LEY DE VÍCTIMAS DEL ESTADO DE MORELOS, EL ARTÍCULO 218 A LA LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS, ASÍ COMO LOS ARTÍCULOS 84 BIS-4 Y 84 BIS-5 A LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor el 1 de enero del siguiente ejercicio fiscal al año de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERA. Los treinta y seis municipios del Estado de Morelos, deberán llevar a cabo la armonización en los reglamentos respectivos, así como la modificación de las concesiones correspondientes, dentro del plazo de noventa días hábiles posteriores a la entrada en vigor del presente decreto.
+
+CUARTA. La Fiscalía General del Estado de Morelos, deberá llevar a cabo la armonización en sus reglamentos respectivos dentro del plazo de noventa días hábiles posteriores a la entrada en vigor del presente decreto.
