@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-seguridad-del-estado-de-mexico-83547"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-19"
-last_updated: "2025-12-09"
+last_updated: "2026-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE SEGURIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE FEBRERO DE 2026.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el miércoles 19 de octubre de 2011.
 
@@ -43,15 +43,17 @@ LEY DE SEGURIDAD DEL ESTADO DE MÉXICO
 
 ### CAPÍTULO PRIMERO. DE LA SEGURIDAD PÚBLICA Y SUS FINES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 1.
 
-Esta Ley es de orden público, de interés social y de observancia general en todo el territorio del Estado de México, y tiene por objeto:
+La presente Ley es de orden público, interés social y observancia general en todo el territorio del Estado de México, y tiene por objeto:
 
 I. Normar la distribución de competencias en materia de seguridad pública que realizan el Estado y los Municipios;
 
-> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-II. Establecer las bases de coordinación del Estado y los Municipios con la Federación, las entidades federativas, Municipios y alcaldías de la Ciudad de México;
+II. Establecer las bases de coordinación y cooperación del Estado y los Municipios con la Federación, las entidades federativas, municipios y alcaldías de la Ciudad de México;
 
 III. Integrar el Sistema Estatal de Seguridad Pública, que a su vez contribuirá con el Sistema Nacional de Seguridad Pública;
 
@@ -59,21 +61,35 @@ IV. Desarrollar las bases mínimas a que deben sujetarse las Instituciones de Se
 
 V. Contribuir a la construcción de las bases para una plena seguridad ciudadana.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 2.
 
-La seguridad pública es una función del Estado a cargo de la Federación, las entidades federativas, los municipios y alcaldías de la Ciudad de México que tiene como fines salvaguardar la vida, las libertades, la integridad y el patrimonio de las personas, así como contribuir a la generación y preservación del orden público y la paz social, y comprende la prevención especial y general de los delitos, la investigación para hacerla efectiva, así como la investigación y la persecución de los delitos, la reinserción social del individuo y la sanción de las infracciones administrativas, en las competencias respectivas en términos de esta Ley y demás ordenamientos jurídicos aplicables.
+La seguridad pública es una función del Estado a cargo de la Federación, las entidades federativas, los municipios y alcaldías de la Ciudad de México que tiene como fines salvaguardar la vida, las libertades, los derechos, la integridad y el patrimonio de las personas, de conformidad con lo dispuesto en el artículo 5o. de la Constitución Política del Estado Libre y Soberano de México el cual garantiza los deberes reforzados de protección del Estado con las mujeres, adolescentes, niñas y niños; así como contribuir a la generación y preservación del orden público y la paz social, y comprende la prevención especial y general de los delitos, la investigación para hacerla efectiva, la inteligencia para la toma de decisiones en materia de seguridad pública y operaciones policiales, así como la investigación y la persecución de los delitos, la supervisión de la prisión preventiva y ejecución de sentencias, la reinserción social del individuo y la sanción de las infracciones administrativas, en las competencias respectivas en términos de esta Ley y demás ordenamientos jurídicos aplicables.
 
 Las acciones en el ejercicio de la función de seguridad pública tendrán como eje central a la persona humana y, por ende, contribuirán al establecimiento de la seguridad ciudadana, la cual tiene por objeto proteger a las personas; asegurar el ejercicio de su ciudadanía, sus libertades y derechos fundamentales; establecer espacios de participación social corresponsable y armónica; propiciar la solución pacífica de los conflictos interpersonales y sociales; fortalecer a las instituciones, y propiciar condiciones durables que permitan a los ciudadanos desarrollar sus capacidades, en un ambiente de paz y democracia.
 
 Las referencias contenidas en esta Ley en materia de seguridad pública, deberán interpretarse de manera que contribuyan al objeto y fines de la seguridad ciudadana.
 
-> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+###### Artículo 2 Bis.
+
+Las Instituciones de Seguridad Pública, en coadyuvancia y corresponsabilidad, deben promover la participación social a través del diseño, desarrollo, implementación y evaluación de mecanismos encaminados a fortalecer las políticas, los lineamientos, programas y demás acciones en materia de seguridad pública.
+
+La participación social, en el marco de la presente Ley, tiene como objeto promover la deliberación, discusión, cooperación, así como la integración de propuestas, experiencias y necesidades de la comunidad para fortalecer las acciones de las Instituciones de Seguridad Pública en materia de construcción de paz, prevención de las violencias y del delito, investigación, procuración de justicia, diseño, desarrollo institucional y la investigación, procuración de justicia.
+
+La participación social deberá incluir a personas, grupos, organizaciones e instituciones académicas, en particular de aquellas personas y grupos históricamente discriminados, promoviendo el diálogo intercultural y el respeto a los derechos colectivos de los pueblos y comunidades indígenas y afromexicanas y equiparables, a través de mecanismos de consulta, participación y coordinación con sus autoridades representativas y sistemas normativos propios.
+
+La participación social puede llevarse a cabo a través de foros, comisiones, consultas públicas, talleres u otro mecanismo pertinente. Las recomendaciones, opiniones y estudios que resulten de estos deben ser revisados por las Instituciones de Seguridad Pública competentes para valorar la posibilidad de su incorporación a políticas y programas en materia de seguridad pública.
+
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 3.
 
-Las Instituciones de Seguridad Pública serán de carácter civil, disciplinado y profesional y se regirán por los principios de legalidad, objetividad, eficiencia, honradez y respeto a los derechos humanos previstos en la Constitución Federal, debiendo fomentar la participación ciudadana y la rendición de cuentas en términos de ley.
+Las Instituciones de Seguridad Pública serán de carácter civil, disciplinado y profesional y se regirán por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, así como por la perspectiva de género, el amor a la patria, el federalismo cooperativo, la protección de la persona, su dignidad y respeto a los derechos humanos, con enfoque diferenciado e incluyente, debiendo fomentar la participación ciudadana y la rendición de cuentas en términos de ley.
+
+Asimismo, deberán cumplir con los deberes reforzados de protección del Estado en la materia, con énfasis en personas, grupos vulnerables con motivo de su origen étnico o nacional, género, edad, discapacidad, condición social, condición de salud, religión, opiniones, orientación sexual, identidad de género, estado civil o cualquier otra causa que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 ###### Artículo 4.
 
@@ -107,9 +123,17 @@ IX. Consejo Nacional: al Consejo Nacional de Seguridad Pública;
 
 X. Consejos Intermunicipales: a los Consejos Intermunicipales de Seguridad Pública;
 
-XI. Instituciones Policiales: a los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva y de centros de arraigos; y en general, todas las dependencias encargadas de la seguridad pública a nivel estatal y municipal, que realicen funciones similares;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-XII. Instituciones de Seguridad Pública: a las Instituciones Policiales, de Procuración de Justicia, del Sistema Penitenciario y dependencias encargadas de la seguridad pública a nivel estatal y municipal;
+XI. Instituciones Policiales: a los cuerpos de policía, que realizan tareas de prevención, investigación, proximidad social, reacción, inteligencia, así como de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva o de centros de arraigos, y en general, todas las instituciones encargadas de la seguridad pública del Estado y los municipios, que realicen funciones similares;
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XI Bis. Instituciones de Procuración de Justicia: A las instituciones del Estado que integran al Ministerio Público, los servicios periciales, las policías de investigación adscritas a estas, los analistas criminales y demás operadores del sistema penal;
+
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XII. Instituciones de Seguridad Pública: A las Instituciones Policiales, de Procuración de Justicia, del Sistema Penitenciario y demás órganos, dependencias y entidades encargadas o que realizan tareas de seguridad pública del Estado y los municipios;
 
 XIII. Ley: a la Ley de Seguridad del Estado de México;
 
@@ -149,19 +173,23 @@ XXIII. Secretario Ejecutivo Intermunicipal: al Secretario Ejecutivo del Consejo 
 
 XXIV. Universidad: a la Universidad Mexiquense de Seguridad.
 
-> <small>(REFORMADO, G.G. 10 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 7.
 
-El Estado y los Municipios realizarán análisis de los factores de riesgo que propician la delincuencia de manera regional y general, y desarrollarán políticas públicas eficaces, progresivas y proactivas en materia de prevención social del delito con carácter integral, sobre las causas que generan la comisión de delitos y conductas antisociales, así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, que induzcan el respeto a la legalidad y a la protección de las víctimas; las cuales deberán ser medibles a corto, mediano y largo plazo para verificar su efectividad.
+El Estado y los Municipios realizarán análisis de los factores de riesgo que propician la delincuencia de manera regional y general, y desarrollarán políticas públicas eficaces, progresivas y proactivas en materia de prevención social de las violencias y del delito con carácter integral, sobre las causas que generan la comisión de delitos y conductas antisociales, así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, que induzcan el respeto a la legalidad, la comunidad y a la protección de las víctimas; las cuales deberán ser medibles a corto, mediano y largo plazo para verificar su efectividad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+Las Instituciones de Seguridad Pública deberán promover acciones acordes con el párrafo anterior en coordinación con las autoridades de los tres órdenes de gobierno qué, debido a sus atribuciones, deban contribuir en esta materia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 8.
 
-Conforme a las bases que establece el artículo 21 de la Constitución Federal, las Instituciones de Seguridad Pública, deberán coordinarse con las instituciones de la Federación, las Entidades Federativas, los Municipios y Alcaldías de la Ciudad de México, en el ámbito de su competencia, en los términos de esta Ley, para cumplir con los fines de la seguridad pública.
+Conforme a las bases que establece el artículo 21 de la Constitución Federal, las Instituciones de Seguridad Pública, deberán coordinarse con las instituciones de la Federación, las Entidades Federativas, los Municipios y Alcaldías de la Ciudad de México, en el ámbito de su competencia, en los términos de esta Ley, para cumplir con los fines de la seguridad pública, debiendo garantizar el cumplimiento de sus objetivos bajo los principios de igualdad sustantiva y no discriminación, con un enfoque integral que priorice la prevención, investigación y sanción de las violencias de género, y deberán promover una cultura de paz y respeto a los derechos humanos. Se prestará especial atención a las necesidades y particularidades de las mujeres, adolescentes, niñas y niños, asegurando su acceso a la justicia y a una vida libre de violencias.
 
-Las instancias de los tres órdenes de gobierno, en un marco de respeto al ámbito competencial de cada uno, deberán coordinarse, según sea el caso, para:
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+Las instancias estatales y municipales, en un marco de respeto al ámbito competencial de cada uno, deberán coordinarse, según sea el caso, para:
 
 I. Integrar los Sistemas Nacional y Estatal, y distribuir actividades específicas para el cumplimiento de sus objetivos y fines;
 
@@ -193,17 +221,69 @@ XII. Implementar mecanismos de evaluación en la aplicación de los fondos de ay
 
 XIII. Fortalecer los sistemas de seguridad social de los servidores públicos, sus familias y dependientes, e instrumentar los complementarios a éstos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 9 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-XIV. Coordinarse para establecer criterios y estándares uniformes sobre la imagen institucional de las corporaciones policiales del Estado de México, incluyendo el balizamiento de su parque vehicular oficial, uniformes, calzado, equipamiento de protección personal, insignias, logotipos, cromática y demás elementos y accesorios relacionados con su identificación, mismos que, en ningún caso, podrán hacer promoción, alusión o disponer la utilización de colores, lemas o cualquier otro elemento que pueda identificarse o relacionarse, directa o indirectamente, con partidos políticos o con cualquier otro tipo de agrupación u organización, de conformidad con el Manual de Identidad para las Corporaciones de Seguridad Pública, esta Ley, los lineamientos correspondientes y demás ordenamientos aplicables, que permitan su homologación, identificación clara y fortalecimiento de la confianza ciudadana; y
+XIV. Garantizar el cumplimiento de la presente Ley y demás disposiciones que deriven de esta;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 9 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-XV. Realizar las demás acciones que sean necesarias para incrementar la eficacia en el cumplimiento de los fines de la seguridad pública.
+XV. Contribuir a la efectiva coordinación de los Sistemas Estatal y Nacional;
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XVI. Aplicar y supervisar los procedimientos relativos al desarrollo policial y al servicio profesional de carrera, así como garantizar la profesionalización del personal policial, ministerial, pericial y penitenciario de las instituciones policiales a su cargo;
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XVII. Contribuir en la operación de las Academias e Institutos a que se refiere la Ley General, así como de la Universidad;
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XVIII. Proporcionar al Sistema Nacional de Información, de manera oportuna, permanente y objetiva, las bases de datos correspondientes para su interconexión y consulta, de conformidad con la Ley General y otras disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XIX. Garantizar el cumplimiento de las disposiciones en materia de medidas u órdenes de protección de las mujeres, adolescentes, niñas y niños, en términos de lo dispuesto por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, el Código Nacional de Procedimientos Penales y de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de México;
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XX. Coadyuvar a la integración y el funcionamiento del desarrollo policial, ministerial, pericial y penitenciario;
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XXI. Garantizar el cumplimiento del Centro, conforme a los lineamientos, procedimientos, protocolos y perfiles determinados por el Secretariado Ejecutivo Nacional y Estatal de Seguridad Pública, así como garantizar la observancia permanente de la normativa aplicable;
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XXII. Capacitar y profesionalizar a las personas servidoras públicas encargadas de realizar labores de prevención, investigación; así como a las responsables la vigilancia y custodia de los establecimientos penitenciarios de conformidad con los lineamientos, procedimientos, protocolos y perfiles que el Secretariado Ejecutivo Nacional y Estatal de Seguridad Pública determinen para ello; así como obtener la certificación institucional correspondiente respecto de sus unidades de investigación;
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XXIII. Integrar y consultar la información relativa a la operación y desarrollo policial para el registro y seguimiento en el Sistema Nacional de Información;
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XXIV. Participar en la ejecución de las acciones para el resguardo de las instalaciones estratégicas del país;
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XXV. Solicitar a las personas comercializadoras y prestadoras de servicios de telecomunicaciones que, en su respectivo ámbito técnico operativo, restrinjan de manera parcial, total, temporal o permanente todo tipo de comunicación, ya sea transmisión de voz, datos o imagen en los Centros Penitenciarios del Estado de México;
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XXVI. Coordinarse con el Poder Judicial de la Federación y el Poder Judicial del Estado de México, cuando así se requiera, para mejorar los procesos de investigación y persecución de los delitos bajo el mando y la conducción del Ministerio Público, de conformidad con las disposiciones jurídicas aplicables, para el cumplimiento de los fines de las tareas de seguridad pública, y
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XXVII. Establecer instancias colegiadas en las que participen representantes de las unidades operativas de las Instituciones Policiales, para conocer y resolver, en sus respectivos ámbitos de competencia, toda controversia que se suscite con relación a los procedimientos de la carrera policial y el régimen disciplinario.
+
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 9.
 
-Los prestadores de servicios de seguridad privada y su personal, serán auxiliares de la función de seguridad pública, y coadyuvarán con las autoridades y las Instituciones de Seguridad Pública en situaciones de urgencia, desastre o cuando así lo solicite la autoridad competente.
+Los prestadores de servicios de seguridad privada son auxiliares a la función de seguridad pública y están sujetos a las disposiciones de las autoridades competentes. Las prestadoras de servicio de seguridad privada coadyuvarán con las autoridades y las Instituciones de Seguridad Pública en materia de inteligencia, así como en situaciones de emergencia, desastre o cuando así lo solicite la autoridad competente de los tres órdenes de gobierno, de acuerdo con sus capacidades y dentro del marco de su autorización.
+
+La Secretaría certificará que los prestadores de servicios de seguridad privada cumplen con las normas que regulan su actuación.
 
 ###### Artículo 10.
 
@@ -217,17 +297,25 @@ La Secretaría, el Secretariado Ejecutivo y las instancias municipales podrán c
 
 ### CAPÍTULO SEGUNDO. DE LAS INSTALACIONES ESTRATÉGICAS
 
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 11.
 
-Se consideran instalaciones estratégicas, para efectos de esta Ley, a los espacios, inmuebles, construcciones, muebles, equipo y demás bienes, destinados al funcionamiento, mantenimiento y operación de las actividades consideradas como estratégicas por la Constitución Federal, así como de aquellas que tiendan a mantener la integridad, estabilidad y permanencia del Estado Mexicano, en términos de la Ley de Seguridad Nacional.
+Para efectos de esta Ley, se consideran instalaciones estratégicas, a los espacios, inmuebles, construcciones, muebles, Centros Penitenciarios, equipos con tecnologías de información y demás bienes, destinados al funcionamiento, mantenimiento y operación de las actividades consideradas como estratégicas por la Constitución Política de los Estados Unidos Mexicanos, así como de aquellas que tiendan a mantener la integridad, estabilidad y permanencia del Estado Mexicano, en términos de la Ley de Seguridad Nacional.
 
 ###### Artículo 12.
 
 Las Instituciones de Seguridad Pública coadyuvarán en la protección y desarrollo de las acciones necesarias para la vigilancia de las instalaciones estratégicas y para garantizar su integridad y operación, de conformidad con los acuerdos generales que para tal efecto expida el Ejecutivo Federal.
 
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+Las instituciones locales y municipales correspondientes por razón del territorio, deberán coordinarse con la Federación para el resguardo de las instalaciones estratégicas; en el ejercicio de esta función, las que garantizarán la seguridad perimetral y el apoyo operativo en caso necesario.
+
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 13.
 
-Las Instituciones de Seguridad Pública están obligadas a ejecutar los acuerdos del Consejo Nacional, respecto al bloqueo de las señales de telefonía celular en las instalaciones de carácter estratégico para cumplir con los fines de la seguridad pública.
+Las Instituciones de Seguridad Pública están obligadas a ejecutar los acuerdos del Consejo Nacional, respecto de los casos, condiciones y requisitos para el bloqueo de las señales de telefonía celular en las instalaciones de carácter estratégico y en los centros penitenciarios, para cumplir con los fines de la seguridad pública.
 
 ## TÍTULO SEGUNDO. DE LAS AUTORIDADES COMPETENTES EN MATERIA DE SEGURIDAD PÚBLICA Y SUS ATRIBUCIONES
 
@@ -252,6 +340,42 @@ IV. El Fiscal, y
 V. Los integrantes de las Instituciones de Seguridad Pública.
 
 Dichas autoridades tendrán las atribuciones que se establecen en esta Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+###### Artículo 14 Bis.
+
+Corresponde al estado y a los municipios, en el ámbito de sus respectivas competencias:
+
+I. Garantizar el cumplimiento de la presente Ley y demás disposiciones que deriven de esta;
+
+II. Contribuir a la efectiva coordinación de los Sistemas Estatal y Nacional;
+
+III. Aplicar y supervisar los procedimientos relativos al desarrollo policial y al servicio profesional de carrera, así como garantizar la profesionalización del personal policial, ministerial, pericial y penitenciario de las instituciones policiales a su cargo;
+
+IV. Contribuir en la operación de las Academias e Institutos a que se refiere la Ley General, así como de la Universidad;
+
+V. Proporcionar al Sistema Nacional de Información, de manera oportuna, permanente y objetiva, las bases de datos correspondientes para su interconexión y consulta, de conformidad con la Ley General y otras disposiciones jurídicas aplicables;
+
+VI. Garantizar el cumplimiento de las disposiciones en materia de medidas u órdenes de protección de las mujeres, adolescentes, niñas y niños, en términos de lo dispuesto por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, el Código Nacional de Procedimientos Penales y de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de México;
+
+VII. Coadyuvar a la integración y el funcionamiento del desarrollo policial, ministerial, pericial y penitenciario;
+
+VIII. Garantizar el cumplimiento del Centro, conforme a los lineamientos, procedimientos, protocolos y perfiles determinados por el Secretariado Ejecutivo Nacional y Estatal de Seguridad Pública, así como garantizar la observancia permanente de la normativa aplicable;
+
+IX. Capacitar y profesionalizar a las personas servidoras públicas encargadas de realizar labores de prevención, investigación; así como a las responsables la vigilancia y custodia de los establecimientos penitenciarios de conformidad con los lineamientos, procedimientos, protocolos y perfiles que el Secretariado Ejecutivo Nacional y Estatal de Seguridad Pública determinen para ello; así como obtener la certificación institucional correspondiente respecto de sus unidades de investigación;
+
+X. Integrar y consultar la información relativa a la operación y desarrollo policial para el registro y seguimiento en el Sistema Nacional de Información;
+
+XI. Participar en la ejecución de las acciones para el resguardo de las instalaciones estratégicas del país;
+
+XII. Solicitar a las personas comercializadoras y prestadoras de servicios de telecomunicaciones que en su respectivo ámbito técnico operativo, restrinjan de manera parcial, total, temporal o permanente todo tipo de comunicación, ya sea transmisión de voz, datos o imagen en los Centros Penitenciarios del Estado de México;
+
+XIII. Coordinarse con el Poder Judicial de la Federación y el Poder Judicial de la entidad, cuando así se requiera, para mejorar los procesos de investigación y persecución de los delitos bajo el mando y la conducción del Ministerio Público, de conformidad con las disposiciones jurídicas aplicables, para el cumplimiento de los fines de las tareas de seguridad pública;
+
+XIV. Establecer instancias colegiadas en las que participen representantes de las unidades operativas de las Instituciones Policiales, para conocer y resolver, en sus respectivos ámbitos de competencia, toda controversia que se suscite con relación a los procedimientos de la carrera policial y el régimen disciplinario, y
+
+XV. Las demás que le confieran la Constitución Federal, la Constitución Estatal, la Ley General, esta Ley y los demás ordenamientos jurídicos aplicables.
 
 ### CAPÍTULO SEGUNDO. DEL GOBERNADOR DEL ESTADO
 
@@ -297,11 +421,49 @@ XII. Presidir el Consejo Estatal;
 
 XIII. Suscribir convenios de coordinación y colaboración con la Federación, las entidades federativas, así como supervisar la ejecución de los acuerdos y políticas adoptados en el marco del Sistema Nacional;
 
-> <small>(ADICIONADA, G.G. 17 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-XIV. Acordar la integración de las comisiones que considere necesarias en materia de seguridad y prevención social de la violencia y la delincuencia, en las que participarán los funcionarios de las dependencias de los sectores central y descentralizado de la administración pública estatal que determine, adicionalmente podrá invitar a cualquier miembro del Consejo Estatal para que participe en los trabajos de las referidas comisiones; y
+XIV. Acordar la integración de las comisiones que considere necesarias en materia de seguridad y prevención social de la violencia y la delincuencia, en las que participarán los funcionarios de las dependencias de los sectores central y descentralizado de la administración pública estatal que determine, adicionalmente podrá invitar a cualquier miembro del Consejo Estatal para que participe en los trabajos de las referidas comisiones;
 
-XV. Las demás que le confieran la Constitución Federal, la Constitución Estatal, la Ley General, esta Ley y los demás ordenamientos jurídicos aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 4 DE FEBRERO DE 2026)</small>
+
+XV. Formular, dirigir y coordinar la estrategia de seguridad pública de la entidad, en concordancia con la Estrategia Nacional de Seguridad Pública;
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XVI. Cumplir con las obligaciones y responsabilidades derivadas de la Estrategia Nacional de Seguridad Pública, en su respectivo ámbito de competencia;
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XVII. Encabezar las mesas de paz;
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XVIII. Informar periódicamente a la población sobre las políticas, planes, programas y resultados en materia de seguridad pública;
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XIX. Establecer y coordinar los programas de prevención de las violencias y del delito de la entidad;
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XX. Garantizar el desarrollo y la profesionalización de los cuerpos policiales de acuerdo con los estándares que establezca el Secretariado Ejecutivo Nacional para tal fin;
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XXI. Establecer mecanismos de coordinación en materia de seguridad pública con la Fiscalía y con el Poder Judicial del Estado de México;
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XXII. Realizar las acciones necesarias para garantizar el derecho a la seguridad pública en el territorio del Estado de México en coordinación con los municipios o, en su caso, con las demarcaciones territoriales;
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XXIII. Establecer el mando único o coordinado con los municipios conforme a los parámetros establecidos en la Ley General, y en esta Ley, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XV], G.G. 4 DE FEBRERO DE 2026)</small>
+
+XXIV. Las demás que le confieran la Constitución Federal, la Constitución Estatal, la Ley General, esta Ley y los demás ordenamientos jurídicos aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
@@ -333,7 +495,9 @@ V. Impulsar la coordinación de las Instituciones Policiales y proponer, en el �
 
 VI. Implementar esquemas de investigación preventiva, a través de protocolos específicos de operación;
 
-VII. Someter a consideración del Gobernador del Estado los convenios, programas y acciones estratégicas, tendientes a mejorar y ampliar la prevención del delito;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+VII. Someter a consideración de la persona Titular del Ejecutivo Estatal los convenios, programas y acciones estratégicas, tendientes a mejorar y ampliar la prevención del delito;
 
 VIII. Celebrar convenios, acuerdos y demás instrumentos jurídicos relacionados con el ámbito de su competencia;
 
@@ -439,21 +603,29 @@ XXXV. Auxiliar dentro del ámbito de su competencia a las autoridades federales,
 
 XXXVI. Instruir la realización de acciones relativas para la administración, autorización, coordinación, integración, instalación, registro, operación, modernización, establecimiento, gestión y homologación de tecnologías de la información y comunicación para la seguridad pública, de los registros nacionales ante los Sistemas Nacional y Estatal de Seguridad Pública, de los sistemas de información y de interconexión de bases de datos, el desarrollo del sistema Único de Información Criminal y de Plataforma Mexiquense, así como de las medidas de seguridad y vigilancia de la información contenida o que se intercambie a través de las bases de datos o plataformas tecnológicas que faciliten el cumplimiento de las atribuciones de la Secretaría y su adecuado suministro e intercambio de información en el ámbito de su competencia;
 
-> <small>(ADICIONADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-XXXVII. Efectuar la emisión de dictámenes para la adquisición, remplazo y ampliación de sistemas tecnológicos y de comunicaciones; y
+XXXVII. Efectuar la emisión de dictámenes para la adquisición, remplazo y ampliación de sistemas tecnológicos y de comunicaciones;
 
-> <small>(ADICIONADA, G.G. 20 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.G. 4 DE FEBRERO DE 2026)</small>
 
-XXXVIII. Realizar en conjunto con las instituciones del sistema educativo del Estado de México públicas o privadas, el seguimiento y evaluación constante de acciones que impliquen la revisión e inspección de mochilas o bolsos al ingreso, durante su estancia o al salir, de los planteles escolares. Así como también implementar programas en materia de seguridad escolar en las instituciones públicas o privadas.
+XXXVIII. Realizar en conjunto con las instituciones del sistema educativo del Estado de México públicas o privadas, el seguimiento y evaluación constante de acciones que impliquen la revisión e inspección de mochilas o bolsos al ingreso, durante su estancia o al salir, de los planteles escolares. Así como también implementar programas en materia de seguridad escolar en las instituciones públicas o privadas;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 9 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-XXXIX. Expedir los lineamientos o instructivos de aplicación, así como vigilar, en colaboración con el Secretariado Ejecutivo, la observancia a los lineamientos de imagen institucional establecidos en el Manual de Identidad para las Corporaciones de Seguridad Pública, y, en su caso, imponer las sanciones o medidas correctivas en las Instituciones Estatales de Seguridad Pública, de conformidad con las disposiciones aplicables, así como coordinar con los Ayuntamientos su instrumentación;
+XXXIX. Instruir el aprovechamiento y explotación de las herramientas tecnológicas y científicas de inteligencia mediante los mecanismos de coordinación y colaboración en los que se generen productos de inteligencia para la toma de decisiones en materia de seguridad pública, así como para disponer de la información;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 9 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-XL. Las demás que establezcan la Constitución Estatal, la Ley General, esta Ley y demás ordenamientos de la materia, así como las que le confiera el Gobernador del Estado.
+XL. Coadyuvar con el Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública para el logro de la paz pública y la seguridad de la población, en cumplimiento de los fines previstos en la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad;
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XLI. Implementar programas permanentes de capacitación, financiamiento, profesionalización y transferencia tecnológica dirigidos a los municipios, atendiendo criterios de incidencia delictiva, capacidades institucionales y condiciones territoriales diferenciadas, y
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XLII. Las demás que establezcan la Constitución Estatal, la Ley General, la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad, esta Ley y demás ordenamientos de la materia, así como las que le confiera la persona titular del Ejecutivo Estatal.
 
 B. En materia de reinserción social:
 
@@ -473,7 +645,9 @@ V. Diseñar mecanismos que incentiven la participación de la iniciativa privada
 
 VI. Establecer y vigilar la operación, administración, seguridad, control, vigilancia y apoyo logístico del sistema penitenciario, así como de los centros de prevención y tratamiento para la atención de adolescentes, definiendo esquemas de supervisión, registro y verificación, así como estrategias de intervención y de apoyo táctico operativo;
 
-VII. Someter a consideración del Gobernador, las propuestas de convenios para que sentenciados por delitos del ámbito de competencia del Estado extingan sus sentencias en centros penitenciarios dependientes de una jurisdicción diversa, de conformidad con las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+VII. Someter a consideración de la persona Titular del Ejecutivo Estatal, las propuestas de convenios para que las personas sentenciadas por delitos del ámbito de competencia del Estado extingan sus penas en centros penitenciarios dependientes de una jurisdicción diversa, de conformidad con las disposiciones jurídicas aplicables;
 
 > <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
@@ -489,7 +663,9 @@ X. Participar, por sí o por conducto del servidor público que designe al efect
 
 XI. Ejecutar, en el ámbito de su competencia, los acuerdos tomados en el Consejo Nacional o la Conferencia Nacional del Sistema Penitenciario; y
 
-XII. Las demás que le señale esta Ley, otras disposiciones jurídicas y las que le confiera el Gobernador.
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XII. Las demás que establezcan la Constitución Estatal, la Ley General, esta Ley y demás ordenamientos de la materia, así como las que le confiera la persona titular del Ejecutivo Estatal.
 
 > <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
@@ -617,9 +793,9 @@ XV. Promover la participación de la comunidad en materia de seguridad pública,
 
 XVI. Fortalecer los sistemas de seguridad social de los integrantes de las instituciones policiales a su cargo, así como de sus familias y dependientes;
 
-> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-XVII. Promover la capacitación, actualización y especialización de los integrantes de las instituciones policiales a su cargo, conforme al Programa Rector de Profesionalización a nivel nacional;
+XVII. Promover y desarrollar la profesionalización, capacitación, actualización y especialización de las personas integrantes de las instituciones policiales a su cargo, conforme al Programa Rector de Profesionalización a nivel nacional y a los estándares que establezca el Secretariado Ejecutivo del Sistema Nacional para tal fin;
 
 > <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
@@ -653,17 +829,29 @@ XXIV. Establecer las instancias de coordinación para la integración y funciona
 
 XXV. Participar en la Conferencia Nacional de Seguridad Pública Municipal, en caso de ser designado por el Consejo Estatal de Seguridad Pública;
 
-> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-XXVI. Ejecutar, en el ámbito de su competencia, los acuerdos tomados en el Consejo Nacional o en la Conferencia Nacional de Seguridad Pública Municipal; y
+XXVI. Ejecutar, en el ámbito de su competencia, los acuerdos tomados en los Consejos Nacionales, Estatales e Intermunicipales de Seguridad Pública o en la Conferencia Nacional de Seguridad Pública Municipal;
 
 > <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
 XXVII. Satisfacer oportunamente los requerimientos que le sean solicitados por la Secretaría, para el registro y actualización de la licencia colectiva para la portación de armas de fuego de los integrantes de las instituciones policiales a su cargo;
 
-> <small>(ADICIONADA, G.G. 10 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 4 DE FEBRERO DE 2026)</small>
 
-XXVIII. Las demás que le confieran la Constitución Federal, la Constitución Estatal, y General, esta Ley y los demás ordenamientos jurídicos aplicables.
+XXVIII. Asistir a las mesas de paz cuando se les convoque;
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XXIX. Establecer reuniones periódicas de seguridad pública;
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XXX. Impulsar la justicia cívica para la atención a las faltas administrativas conforme a los estándares que establezca el Secretariado Ejecutivo para tal fin, y de acuerdo con lo señalado en la Ley de Justicia Cívica del Estado de México y sus Municipios, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA ANTES FRACCIÓN XXVIII], G.G. 4 DE FEBRERO DE 2026)</small>
+
+XXXI. Las demás que le confieran la Constitución Federal, la Constitución Estatal, y la Ley General, esta Ley y los demás ordenamientos jurídicos aplicables.
 
 ###### Artículo 22.
 
@@ -751,11 +939,21 @@ I. El Consejo Estatal;
 
 II. El Secretariado Ejecutivo;
 
-III. Los Consejos Intermunicipales; y
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-IV. Los Consejos Municipales.
+III. Los Consejos Intermunicipales;
 
-Los servidores públicos del Sistema Estatal serán considerados como personal de seguridad pública de confianza, y deberán someterse y aprobar las evaluaciones de certificación y control de confianza, para su ingreso y permanencia.
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+IV. Los Consejos Municipales, y
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+V. Mesas de paz.
+
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+Las personas servidoras públicas del Sistema Estatal serán consideradas como personal de seguridad pública y deberán someterse y aprobar las evaluaciones de control de confianza realizadas por el Centro para su ingreso y permanencia.
 
 ###### Artículo 25.
 
@@ -865,7 +1063,9 @@ VI. Promover la implementación de políticas en materia de atención y protecci
 
 VII. Promover la efectiva coordinación del Gobierno del Estado de México con las demás instancias que integran el Sistema Nacional y dar seguimiento a las acciones que para tal efecto se establezcan;
 
-VIII. Promover la homologación y desarrollo de los modelos ministerial, policial y pericial en las Instituciones de Seguridad Pública y evaluar sus avances, de conformidad con las leyes respectivas;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+VIII. Promover la homologación y desarrollo de los modelos policial, ministerial, pericial y penitenciario en las Instituciones de Seguridad Pública y pronunciarse sobre sus avances;
 
 IX. Formular propuestas para los programas nacionales de seguridad pública, de procuración de justicia, de prevención del delito y otros relacionados, así como evaluar su cumplimiento;
 
@@ -881,7 +1081,9 @@ XIV. Promover políticas de coordinación y colaboración con el Poder Judicial 
 
 XV. Crear grupos de trabajo para el cumplimiento de sus funciones;
 
-XVI. Supervisar la concurrencia de facultades, en términos de lo establecido en el artículo 39, Apartado B, de la Ley General;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XVI. Supervisar la concurrencia de facultades, en términos de lo establecido de la Ley General;
 
 XVII. Vigilar que tanto los recursos estatales destinados a seguridad pública como los que provengan de aportaciones federales, sean aplicados para tales fines, de conformidad con las disposiciones jurídicas aplicables, y denunciar su incumplimiento ante las autoridades competentes;
 
@@ -891,21 +1093,27 @@ XIX. Emitir las disposiciones que sean necesarias para la operación y adecuado 
 
 XX. Las demás que establezcan esta Ley, otras disposiciones jurídicas y las que sean necesarias para cumplir los fines de la seguridad pública.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 36.
 
-El Consejo Estatal estará integrado por:
+El Consejo Estatal estará integrado por las personas titulares de:
 
-I. El Gobernador del Estado, quien lo presidirá;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+I. Ejecutivo Estatal del Estado de México, quien lo presidirá;
 
-II. El Secretario General de Gobierno;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-III. El Secretario;
+II. La Secretaría General de Gobierno;
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-IV. El Fiscal;
+III. La Secretaría;
+
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+IV. La Fiscalía;
 
 V. (DEROGADA, G.G. 20 DE SEPTIEMBRE DE 2018)
 
@@ -913,7 +1121,9 @@ VI. (DEROGADA, G.G. 20 DE SEPTIEMBRE DE 2018)
 
 VII. (DEROGADA, G.G. 20 DE SEPTIEMBRE DE 2018)
 
-VIII. Los Presidentes Municipales que presidan los Consejos Intermunicipales;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+VIII. Las Presidencias Municipales que presidan los Consejos Intermunicipales;
 
 IX. El Secretario Ejecutivo;
 
@@ -927,15 +1137,19 @@ El Presidente del Consejo Estatal será suplido en sus ausencias por el Secretar
 
 La asistencia de los integrantes será personal.
 
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+Las personas que lo integran no podrán ser suplidas.
+
 ###### Artículo 37.
 
 Serán invitados permanentes del Consejo Estatal:
 
 I. Titular de la Zona Militar de la Secretaría de la Defensa Nacional a la que pertenece el Estado de México;
 
-> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-II. Un representante de la Comisión Nacional de Seguridad;
+II. Una persona representante de la Secretaría de Seguridad y Protección Ciudadana;
 
 > <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
 
@@ -973,29 +1187,133 @@ Los invitados tendrán voz pero no voto en las reuniones del Consejo Estatal.
 
 El Tribunal Superior de Justicia del Estado de México, las instituciones educativas u organizaciones sociales o las autoridades que aporten estudios o lineamientos en materia de seguridad pública, podrán contribuir con las instancias que integran los Sistemas Estatal y Nacional, en la formulación de estudios y lineamientos que permitan alcanzar los fines de la seguridad pública.
 
-> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 39.
 
-El Consejo Estatal sesionará por lo menos cada seis meses.
+El Consejo Estatal, sesionará de forma ordinaria por lo menos una vez al año, de manera presencial o virtual, a convocatoria de su presidencia, con la agenda de asuntos a tratar que someta a su consideración el Secretariado Ejecutivo; de manera extraordinaria, se reunirá las veces que su presidencia convoque.
+
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 40.
 
-El Consejo Estatal requerirá de quórum para sesionar, el cual se integrará con al menos la mitad más uno de sus integrantes. Los acuerdos se tomarán por la mayoría de los integrantes presentes. En caso de empate, el presidente o su suplente tendrán voto de calidad.
+El Consejo Estatal requerirá de quórum para sesionar, el cual se integrará con al menos la mitad más uno de sus integrantes. Los acuerdos se tomarán por la mayoría de los integrantes presentes y deben ser publicados en el Periódico Oficial "Gaceta del Gobierno" por el Secretariado Ejecutivo.
 
 ###### Artículo 41.
 
 Las reglas para el desarrollo de las sesiones del Consejo Estatal, así como las disposiciones relativas a su funcionamiento, serán establecidas en el Estatuto respectivo, sin que puedan contravenir lo dispuesto en la presente Ley.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 4 DE FEBRERO DE 2026)</small>
+
+### CAPÍTULO SEGUNDO BIS. DE LAS MESAS DE PAZ
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+###### Artículo 41 Bis.
+
+Las mesas de paz son las instancias de decisión ejecutiva y de coordinación inmediata de las instituciones del Estado de México, en materia de seguridad pública.
+
+A las mesas de paz deberán asistir, de manera enunciativa más no limitativa, las personas titulares de:
+
+I. El Ejecutivo Estatal, quien la presidirá;
+
+II. La Secretaría;
+
+III. La Secretaría General de Gobierno;
+
+IV. La Fiscalía;
+
+V. La Policía de Investigación u homóloga;
+
+VI. Las representaciones de las fuerzas armadas y la Guardia Nacional en la región y, en su caso, de la zona naval;
+
+VII. La Estación Estatal del Centro Nacional de Inteligencia;
+
+VIII. El Centro de Control, Comando, Comunicación, Cómputo y Calidad;
+
+IX. La delegación de los programas de bienestar del Gobierno Federal en el Estado de México, y
+
+X. La representación de la Secretaría de Gobernación del Gobierno Federal, quien fungirá como la Secretaría Técnica.
+
+El Poder Judicial del Estado de México, será invitado permanente. Asimismo, previo acuerdo de las personas integrantes de la mesa de paz se podrá convocar a las personas Titulares de los gobiernos municipales de la entidad, con la finalidad de establecer acciones de coordinación y evaluación de resultados, así como a las personas Titulares de otras Instituciones.
+
+En el caso de los municipios, se podrán establecer mesas de paz regionales integradas por dos o más municipios y presididas de manera rotativa, por las personas titulares de los ejecutivos municipales que las integren, mismas que replicarán el modelo de las mesas de paz estatales y que deberán tener representación tanto del ejecutivo estatal como de las Instituciones de Seguridad Pública de la entidad federativa y del gobierno federal.
+
+Las mesas de paz deberán sesionar de forma ordinaria todos los días hábiles y, de forma extraordinaria, las veces que convoque su presidencia.
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+###### Artículo 41 Ter.
+
+Las mesas de paz tendrán los siguientes objetivos:
+
+I. Conocer y analizar los datos relacionados con los delitos de alto impacto, así como las tendencias de incidencia delictiva del Estado de México y sus municipios;
+
+II. Analizar los casos de alto impacto ocurridos a nivel estatal y sus municipios;
+
+III. Coordinar las acciones de gobierno orientadas a la atención de las causas de las violencias y la construcción de la paz;
+
+IV. Informar de las acciones operativas relevantes llevadas a cabo por las instituciones que lo conforman;
+
+V. Informar de los asuntos relevantes en materia de gobernabilidad de la entidad y sus municipios, según corresponda;
+
+VI. Diseñar e implementar acciones operativas;
+
+VII. Evaluar de forma permanente la estrategia de seguridad pública de la entidad, así como los resultados y las acciones operativas implementadas;
+
+VIII. Coordinar acciones con la Fiscalía y el Poder Judicial de la entidad, y
+
+IX. Las demás necesarias para su funcionamiento.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 4 DE FEBRERO DE 2026)</small>
+
+### CAPÍTULO SEGUNDO TER. DE LOS MODELOS E INSTANCIAS DE COORDINACIÓN
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+###### Artículo 41 Quater.
+
+El modelo de mando único constituye el esquema de coordinación policial mediante el cual se concentran, al interior del Estado, las funciones operativas y administrativas en materia de seguridad pública en una sola institución estatal, con el objeto de garantizar la eficacia, unidad de mando y articulación de las acciones entre los distintos niveles de gobierno.
+
+El mando único se establecerá cuando el municipio no cuente con policía; cuando así lo determine el Consejo Nacional o el Consejo Estatal o cuando así lo solicite el municipio.
+
+En cualquiera de estos supuestos, la implementación del mando único deberá garantizar:
+
+I. La continuidad de la prestación del servicio de seguridad pública en el ámbito municipal;
+
+II. La transparencia y la rendición de cuentas en la gestión y aplicación de los Fondos de Ayuda Federal destinados a los municipios, y
+
+III. La formalización de instrumentos que definan las funciones operativas, administrativas y financieras, así como los mecanismos de supervisión y evaluación.
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+###### Artículo 41 Quinquies.
+
+El mando coordinado es el modelo de organización policial en el que se centralizan las labores operativas de seguridad pública en una institución, mientras que las labores administrativas relacionadas con estas continúan bajo la responsabilidad de las autoridades municipales.
+
+El mando coordinado se podrá establecer a través de convenios entre la entidad y el municipio.
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+###### Artículo 41 Sexies.
+
+Cuando para el cumplimiento de la función de seguridad pública sea necesaria la participación del Estado y otra u otras entidades federativas, o de dos o más municipios o demarcaciones territoriales de la Ciudad de México, se podrán establecer instancias de coordinación, con carácter temporal o permanente, conforme a lo siguiente:
+
+I. Dos o más entidades federativas;
+
+II. Dos o más municipios o dos o más demarcaciones territoriales de una misma Entidad Federativa, o
+
+III. Dos o más municipios o dos o más demarcaciones territoriales de diferentes Entidades Federativas.
+
+En caso de que estas instancias se formalicen a través de acuerdos o convenios de colaboración, estos deberán suscribirse con arreglo a lo dispuesto en la Constitución Local, las constituciones y leyes locales correspondientes y en congruencia con la respectiva estrategia de seguridad pública de la entidad federativa, para lo que deberán coordinarse con la Secretaría del ramo de Seguridad Pública de la entidad que se trate.
+
+Las instancias de coordinación deberán designar una persona como enlace con el Secretariado Ejecutivo, a quien deberán informar su instalación y objetivos.
+
+Las instancias de coordinación podrán solicitar el apoyo de la Federación y las entidades federativas, con las que procurarán coordinarse y cooperar para realizar acciones de prevención de las violencias y del delito, la persecución de este, operativos, tareas de proximidad, investigación y las demás necesarias para el cumplimiento de los fines de la seguridad pública, en el ámbito de sus competencias.
+
 ### CAPÍTULO TERCERO. DE LOS CONSEJOS INTERMUNICIPALES DE SEGURIDAD PÚBLICA
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 10 DE AGOSTO DE 2016)</small>
-
-### CAPÍTULO CUARTO. DE LOS CONSEJOS REGIONALES DE SEGURIDAD PÚBLICA
-
-### CAPÍTULO QUINTO. DEL SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
 ###### Artículo 42.
 
@@ -1005,11 +1323,11 @@ Los Consejos Intermunicipales tendrán por objeto propiciar la efectiva coordina
 
 El Presidente de cada Consejo Intermunicipal representará a los Municipios que lo integren en el Consejo Estatal, por lo que deberá someter a la consideración de éste los acuerdos que se tomen en el Consejo Intermunicipal respectivo e informar lo conducente, en los términos de las disposiciones aplicables.
 
-> <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 43.
 
-Se instalarán al menos veinte Consejos Intermunicipales de Seguridad Pública. Su integración será determinada por el Consejo Estatal, atendiendo a las características geográficas, demográficas, económicas y/o de incidencia delictiva de los municipios de la Entidad.
+Se instalarán Consejos Intermunicipales de Seguridad Pública, de conformidad con la regionalización establecida en el Plan de Desarrollo del Estado de México.
 
 > <small>(REFORMADO, G.G. 10 DE AGOSTO DE 2016)</small>
 
@@ -1031,9 +1349,9 @@ V. Un representante del Secretariado Ejecutivo del Sistema Estatal de Seguridad 
 
 VI. Un representante de la Fiscalía;
 
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-VII. Un representante de la Secretaría de Seguridad;
+VII. Un representante de la Secretaría;
 
 > <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
@@ -1071,9 +1389,9 @@ c) Secretaría de Marina;
 
 d) Fiscalía General de la República.
 
-> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
-e) Centro de Investigación y Seguridad Nacional.
+e) Centro Nacional de Inteligencia.
 
 Instancias que tendrán voz y voto en las deliberaciones que se realicen.
 
@@ -1125,7 +1443,9 @@ Las reglas para el desarrollo de las sesiones de los Consejos Intermunicipales, 
 
 Son atribuciones de los Consejos Intermunicipales:
 
-I. Ejecutar los acuerdos y resoluciones del Consejo Estatal, en el ámbito de sus respectivas competencias;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+I. Ejecutar los acuerdos y resoluciones del Consejo Nacional y del Consejo Estatal, en el ámbito de sus respectivas competencias;
 
 II. Proponer los instrumentos y políticas públicas integrales, sistemáticas, continuas y evaluables, tendientes a cumplir los fines de la seguridad pública, a fin de que sean discutidas y eventualmente incluidas en el Programa Estatal, por conducto de su Presidente;
 
@@ -1139,7 +1459,9 @@ V. Hacer propuestas para el buen funcionamiento del Sistema Estatal, a fin de qu
 
 VI. Promover la implementación de políticas públicas y programas en materia de atención y protección a víctimas del delito;
 
-VII. Promover la homologación y desarrollo de los modelos ministerial, policial y pericial en las Instituciones de Seguridad Pública a su cargo, y evaluar sus avances, de conformidad con las leyes respectivas;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+VII. Promover la homologación y desarrollo de los modelos policial, ministerial, pericial y penitenciario en las Instituciones de Seguridad Pública y pronunciarse sobre sus avances;
 
 > <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
@@ -1153,7 +1475,7 @@ X. Las demás que establezcan esta Ley, otras disposiciones jurídicas y las que
 
 El Presidente del Consejo Intermunicipal deberá informar de manera oportuna a los integrantes sobre los acuerdos tomados en el Consejo Estatal.
 
-### CAPÍTULO SEXTO. DE LOS ÓRGANOS DEL SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL
+### CAPÍTULO CUARTO. DE LOS CONSEJOS REGIONALES DE SEGURIDAD PÚBLICA
 
 #### SECCIÓN PRIMERA. DE LOS CONSEJOS REGIONALES
 
@@ -1229,7 +1551,9 @@ III. El Director de Gobierno o Gobernación, según la denominación que corresp
 
 IV. El Comisario o Director de Seguridad Pública Municipal;
 
-V. Los Oficiales Mediadores y Calificadores;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+V. Jueza o Juez Cívico;
 
 VI. El Contralor Interno Municipal;
 
@@ -1299,11 +1623,11 @@ Quienes tendrán derecho a voz.
 
 Los cargos de todos los integrantes serán honoríficos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 58.
 
-Los municipios, previo acuerdo aprobado por sus ayuntamientos, podrán celebrar convenios con el Gobierno Estatal en materia de seguridad pública, que comprende policía preventiva y de tránsito, a fin de que se haga transitoriamente cargo de este servicio, en términos de los artículos 115 fracción III, penúltimo párrafo de la Constitución Federal; 77 fracciones IX y XXXIX de la Constitución Estatal y 39 penúltimo párrafo de la Ley General.
+Los municipios, previo acuerdo aprobado por sus ayuntamientos, podrán celebrar convenios para coordinarse con el Gobierno Estatal en materia de seguridad pública, en caso de no contar con policía, para garantizar el derecho a la seguridad de sus habitantes e impulsar las acciones necesarias para la creación de su propia institución policial, la cual comprende policía preventiva y de tránsito, a fin de que se haga transitoriamente cargo de este servicio, en términos de los artículos 115 fracciones III, inciso h) y VII de la Constitución Federal; 12 fracción IV de la Ley General y 77 fracciones IX y XXXIX de la Constitución Estatal.
 
 En el caso de que el Municipio haya celebrado convenio con el Gobierno del Estado para que éste asuma la función de seguridad pública, se integrará en el Consejo Municipal el representante que designe el Secretario.
 
@@ -1359,7 +1683,9 @@ III. Elaborar y proponer al Presidente del Consejo, los Programas Municipales de
 
 IV. Coadyuvar con el Contralor Interno Municipal en la evaluación del cumplimiento de los acuerdos y resoluciones del Consejo;
 
-V. Informar periódicamente al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública sobre el estado que guardan los asuntos a su cargo;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+V. Fungir como enlace ante el Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública e informarle periódicamente el estado que guardan los asuntos a su cargo;
 
 VI. Fungir como enlace ante el Centro Estatal de Control de Confianza y verificar que el estado de fuerza municipal y servidores públicos obligados cumplan con lo previsto en materia de control de confianza;
 
@@ -1367,7 +1693,9 @@ VII. Ser el enlace ante el Centro de Información y Estadística del Secretariad
 
 VIII. Fungir como enlace ante el Centro de Prevención del Delito del Secretariado Ejecutivo y coordinarse para la ejecución y evaluación de programas, políticas y estrategias en la materia, así como proveer información que le sea solicitada;
 
-IX. Fungir como enlace ante la Dirección General de Planeación, Seguimiento y Evaluación del Secretariado Ejecutivo, para la supervisión sobre el avance físico-financiero correspondiente al ejercicio de recursos provenientes de fondos y subsidios de origen federal, estatal o municipal aplicados a la prestación del servicio de seguridad pública y la prevención de la violencia y la delincuencia;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+IX. Fungir como enlace ante la Dirección General de Coordinación de Fondos y Subsidios del Secretariado Ejecutivo, para la supervisión sobre el avance físico-financiero correspondiente al ejercicio de recursos provenientes de fondos y subsidios de origen federal, estatal o municipal aplicados a la prestación del servicio de seguridad pública y la prevención de la violencia y la delincuencia;
 
 X. Dar seguimiento puntual a las sesiones y acuerdos de las Comisiones Municipales para la Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana, Comisión de Planeación y Evaluación, Comisión Estratégica de Seguridad y Comisión de Honor y Justicia;
 
@@ -1397,13 +1725,17 @@ XX. Remitir al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública 
 
 XXI. Las demás que le confieran las normas jurídicas aplicables.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO QUINTO. DEL SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 59.
 
-El Secretariado Ejecutivo es un órgano desconcentrado de la Secretaría de Seguridad y operativo del Sistema Estatal, responsable del correcto funcionamiento del mismo, así como del enlace con el Sistema Nacional.
+El Secretariado Ejecutivo es un órgano desconcentrado de la Secretaría de Seguridad y operativo del Sistema Estatal quien gozará de autonomía técnica, de gestión y presupuestal responsable del correcto funcionamiento del mismo, así como del enlace con el Sistema Nacional, y contará bajo su coordinación y subordinación con las unidades administrativas necesarias para el despacho de los asuntos de su competencia que se establezcan en su reglamento.
 
-El Secretariado Ejecutivo se auxiliará de los órganos siguientes:
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+El Secretariado Ejecutivo se auxiliará de los órganos señalados en su Reglamento Interior y por lo menos de los siguientes:
 
 I. Centro de Información y Estadística;
 
@@ -1419,21 +1751,33 @@ Asimismo, el Secretariado Ejecutivo se auxiliará de los organismos públicos de
 
 La Universidad será la instancia competente en materia de capacitación, formación profesional y especialización de los integrantes de las Instituciones de Seguridad Pública. El Secretario Ejecutivo determinará las bases para la coordinación de la Universidad con el Sistema Estatal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 60.
 
-El Secretariado Ejecutivo estará a cargo de un Secretario Ejecutivo que será nombrado y removido libremente por el Presidente del Consejo Estatal, debiendo satisfacer los siguientes requisitos:
+El Secretariado Ejecutivo estará a cargo de un Secretario Ejecutivo, que será nombrado y removido libremente por la persona Titular del Ejecutivo Estatal y deberá ser persona servidora pública con un nivel jerárquico superior al de titular de Dirección General, y quien deberá satisfacer los siguientes requisitos:
 
-I. Ser ciudadano mexicano por nacimiento;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+I. Ser ciudadana mexicana y estar en pleno goce de sus derechos civiles y políticos;
 
 II. Estar en pleno goce de sus derechos civiles y políticos;
 
 III. Ser originario o vecino del Estado de México;
 
-IV. Tener como mínimo treinta años de edad;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+IV. Tener más de treinta años;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.G. 4 DE FEBRERO DE 2026)</small>
 
 V. Contar con título profesional de nivel Licenciatura debidamente registrado;
 
-VI. Tener reconocida capacidad profesional y probidad;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+VI. Tener reconocida capacidad profesional, honestidad y probidad;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.G. 4 DE FEBRERO DE 2026)</small>
 
 VII. Contar con cinco años de experiencia en materia de seguridad pública;
 
@@ -1441,17 +1785,23 @@ VIII. No haber sido sentenciado por delito doloso ni inhabilitado en ningún ám
 
 IX. Someterse y aprobar las evaluaciones de certificación y control de confianza, para su ingreso y permanencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 61.
 
-Son atribuciones del Secretario Ejecutivo:
+Son atribuciones de la persona titular del Secretariado Ejecutivo.
 
-I. Ejecutar y dar seguimiento a los acuerdos y resoluciones del Consejo Estatal y del Consejo Nacional de Seguridad Pública, en el ámbito de su competencia;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+I. Ejecutar y dar seguimiento a los acuerdos y resoluciones del Consejo Estatal y del Consejo Nacional de Seguridad Pública, en el ámbito de su competencia, e informar periódicamente sus actividades al Consejo Estatal, así como fungir como enlace ante el Secretariado Ejecutivo Nacional;
 
 > <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
 II. Fungir como enlace con el Sistema Nacional;
 
-III. Proporcionar la información requerida por el Secretariado Ejecutivo del Sistema Nacional a la brevedad posible;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+III. Proporcionar la información requerida por el Secretariado Ejecutivo del Sistema Nacional a la brevedad posible y responder a sus solicitudes;
 
 IV. Vigilar el suministro oportuno de la información correspondiente del Sistema Estatal, hacia el Sistema Nacional;
 
@@ -1479,17 +1829,33 @@ XV. Elaborar estadísticas periódicamente, y presentarlas ante el Consejo Estat
 
 XVI. Supervisar, en coordinación con las demás instancias competentes la correcta aplicación de los recursos de los fondos por parte de las instituciones de seguridad pública;
 
-> <small>(REFORMADA, G.G. 9 DE DICIEMBRE DE 2025)</small>
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-XVII. Designar a los delegados que lo representen en las instancias de coordinación en los términos de esta Ley;
+XVI Bis. Dar seguimiento a la ejecución de los recursos autorizados por la Federación en beneficio de las Instituciones de Seguridad Pública de la entidad, tanto locales como municipales, según corresponda;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 9 DE DICIEMBRE DE 2025)</small>
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-XVIII. Supervisar y coordinar con las demás instancias competentes la implantación, tanto en las Instituciones Estatales como en los Municipios, de los lineamientos de imagen institucional, de conformidad con el Manual de Identidad para las Corporaciones de Seguridad Pública, los acuerdos e instructivos emitidos por la Secretaría, y los ordenamientos jurídicos aplicables; y
+XVI. Ter. Coadyuvar con el Secretariado Ejecutivo del Sistema Nacional, en el seguimiento de las certificaciones institucionales e individuales de la entidad, tanto locales como municipales, según corresponda;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 9 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-XIX. Las demás que le otorga esta Ley y otros ordenamientos jurídicos, así como las que sean necesarias para el cumplimiento de sus funciones y las que le encomienden el Consejo Estatal, su Presidente y el Secretario de Seguridad.
+XVII. Designar a las personas servidoras públicas que lo representen en las instancias de coordinación en los términos de esta Ley;
+
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XVIII. Realizar los actos y emitir los instrumentos necesarios para el cumplimiento del objeto constitucional y legal del Secretariado Ejecutivo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 4 DE FEBRERO DE 2026)</small>
+
+XIX. Difundir el programa rector de profesionalización de las Instituciones de Seguridad Pública, elaborado y emitido por el Secretariado Ejecutivo del Sistema Nacional en coordinación con las instancias competentes, debiendo incluir los tipos de acreditación y la clasificación de los grados de certificación institucional que podrán obtener;
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XX. Gestionar a través del Secretariado Ejecutivo Nacional y ante las autoridades competentes, la ministración de los Fondos de Ayuda Federal, de conformidad con los criterios aprobados por el Consejo Nacional y las demás disposiciones aplicables, y
+
+> <small>(ADICIONADA [REFORMADA Y REUBICADA ANTES FRACCIÓN XIX], G.G. 4 DE FEBRERO DE 2026)</small>
+
+XXI. Las demás que le otorga esta Ley y otros ordenamientos jurídicos, así como las que sean necesarias para el cumplimiento de sus funciones y las que le encomienden el Consejo Estatal, su Presidencia y la persona titular de la Secretaría.
 
 > <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
@@ -1497,9 +1863,7 @@ XIX. Las demás que le otorga esta Ley y otros ordenamientos jurídicos, así co
 
 Los servidores públicos de las unidades administrativas del Secretariado Ejecutivo, incluso su titular, y de las dependencias que presten asesoría en materia operativa, técnica y jurídica a los integrantes del Consejo Estatal, se considerará de confianza y será de libre designación y remoción; se sujetarán a las evaluaciones de certificación y control de confianza.
 
-### CAPÍTULO PRIMERO. DE LOS DERECHOS Y OBLIGACIONES DE LOS INTEGRANTES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+### CAPÍTULO SEXTO. DE LOS ÓRGANOS DEL SECRETARIADO EJECUTIVO DEL SISTEMA ESTATAL
 
 #### SECCIÓN PRIMERA. DEL CENTRO DE INFORMACIÓN Y ESTADÍSTICA
 
@@ -1555,13 +1919,13 @@ El Tribunal Superior de Justicia del Estado de México proporcionará la informa
 
 Los Municipios deberán proporcionar la información que acuerde el Consejo Estatal de conformidad con los lineamientos y protocolos respectivos.
 
-> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 65.
 
-La Base de Datos de Información Penitenciaria deberá contener los registros de la población penitenciaria residente en Centros Penitenciarios del Estado de México, fichas de identificación personal de cada persona privada de su libertad con fotografía, información disponible de las personas privadas de su libertad en prisión preventiva, beneficios preliberacionales otorgados, información de procesos penales, acuerdos reparatorios y sentencias, si las hubiere y demás información que pueda ser útil para el Sistema Estatal, que generen las autoridades competentes.
+La Base de Datos de Información Penitenciaria deberá contener de manera completa y actualizada los registros de la población penitenciaria residente en Centros Penitenciarios del Estado de México, fichas de identificación personal de cada persona privada de su libertad con fotografía, incluyendo los datos biométricos, información disponible de las personas privadas de su libertad en prisión preventiva, beneficios preliberacionales otorgados, información de procesos penales, acuerdos reparatorios y sentencias, si las hubiere y demás información que pueda ser útil para el Sistema Estatal, que generen las autoridades competentes.
 
-También deberá incluir toda la información disponible y que pueda ser relevante para el Sistema Estatal, de las instituciones de reintegración social para adolescentes.
+También deberá incluir toda la información disponible y que pueda ser relevante para el Sistema Estatal, de las instituciones de reintegración social para adolescentes y aquella relevante y útil que permita la consulta de las Fiscalías, así como de la Comisión Nacional de Búsqueda y la Comisión de Búsqueda de Personas del Estado, para búsqueda, localización e identificación de Personas Desaparecidas en coordinación con la investigación del Ministerio Público.
 
 ###### Artículo 66.
 
@@ -1673,9 +2037,17 @@ c) Para imponer medidas de protección a las víctimas u ofendidos del delito.
 
 II. Las autoridades jurisdiccionales federales que conozcan de un juicio de amparo;
 
-III. Las autoridades administrativas competentes para imponer sanciones por la comisión de infracciones administrativas derivadas de conductas relacionadas con las materias que regula la presente Ley; y
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-IV. Los organismos públicos protectores de derechos humanos, cuando conozcan de quejas o inicien de oficio investigaciones sobre presuntas violaciones a los derechos humanos, en el ámbito de su competencia.
+III. Las autoridades administrativas competentes para imponer sanciones por la comisión de infracciones administrativas derivadas de conductas relacionadas con las materias que regula la presente Ley;
+
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+IV. Los organismos públicos protectores de derechos humanos, cuando conozcan de quejas o inicien de oficio investigaciones sobre presuntas violaciones a los derechos humanos, en el ámbito de su competencia; y
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+V. La Secretaría de Seguridad y Protección Ciudadana Federal y el Centro Nacional de Inteligencia.
 
 ###### Artículo 79.
 
@@ -1685,7 +2057,17 @@ Los servidores públicos que indiquen las disposiciones aplicables, en el ámbit
 
 Las Instituciones de Seguridad Pública estatales y municipales suministrarán, intercambiarán, sistematizarán, consultarán, analizarán y actualizarán la información que diariamente se genere sobre Seguridad Pública, mediante los sistemas e instrumentos tecnológicos respectivos.
 
-Los prestadores del servicio de seguridad privada están obligados a proporcionar información a las Instituciones de Seguridad Pública, en los términos que requiera el Centro de Información y Estadística del Secretariado Ejecutivo.
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+Los prestadores del servicio de seguridad privada están obligados a proporcionar información sobre los datos para el registro de su personal y equipo, así como la información estadística que corresponda, a las Instituciones de Seguridad Pública, en los términos que requiera el Centro de Información y Estadística del Secretariado Ejecutivo.
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+Las Instituciones de Seguridad Pública y los prestadores del servicio de seguridad privada, así como aquellas que determine el Centro Nacional de Inteligencia, deberán permitir la interconexión en tiempo real de la Plataforma Central de Inteligencia a sus sistemas de inteligencia en seguridad pública, así como a cualquier sistema, registro, plataforma, banco, base de datos, recurso y fuente de información, o en su caso el uso de vías alternas.
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+La información deberá cumplir con los criterios técnicos de homologación emitidos por el Centro Nacional de Inteligencia.
 
 ###### Artículo 81.
 
@@ -1704,6 +2086,26 @@ IV. La que sea producto de una intervención de comunicaciones privadas autoriza
 V. La contenida en averiguaciones previas, carpetas de investigación, expedientes y demás archivos relativos a la investigación para la prevención y la investigación de los delitos y faltas administrativas, en términos de las disposiciones aplicables.
 
 La inobservancia a lo anterior se sancionará de conformidad con las disposiciones aplicables.
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+###### Artículo 81 Bis.
+
+La Secretaría deberá informar cada seis meses al Consejo Nacional de Inteligencia en Seguridad Pública sobre todos los sistemas de inteligencia, información, registros y recursos tecnológicos con los que cuenten para el desarrollo de sus actividades y, en general, para la prevención y persecución de los delitos, así como su funcionamiento, características, alcances, medidas de control y resultados, en términos estadísticos y en relación con todas sus investigaciones, operaciones, casos y detenciones concretas.
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+###### Artículo 81 Ter.
+
+Las Instituciones de Seguridad Pública, la Fiscalía, los centros penitenciarios del Estado de México, el Centro de Control Comando, Comunicación, Computo y Calidad, y sus unidades administrativas dependientes deberán estar interconectados de manera permanente y permitir la consulta por medio de la Plataforma Central de Inteligencia a cargo del Centro Nacional de Inteligencia, así como su actualización en tiempo real, las cuales deberán nombrar un enlace con dicho Centro.
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+###### Artículo 81 Quater.
+
+Todas las autoridades estatales y municipales, y las personas particulares que tengan a su cargo sistemas de inteligencia, bases de datos, registros y registros administrativos, de conformidad con lo establecido en la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública, deberán vincularse y colaborar con los órganos del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública para su consulta de acuerdo con las formas y mecanismos previstos en esta Ley, así como para su integración a dicho Sistema.
+
+Todas las instituciones y entes públicos estatales y municipales, con independencia de que se dediquen o no a la seguridad pública, deberán tener organizada, clasificada, actualizada, digitalizada y automatizada la información, los registros administrativos, las bases de datos y los sistemas con los que cuenten, de tal forma que, cuando así se requiera para efectos de investigación y persecución de los delitos, pueda ser aprovechada de acuerdo con lo establecido en la presente Ley y demás ordenamientos jurídicos aplicables en la materia.
 
 #### SECCIÓN SEGUNDA. DEL CENTRO DE PREVENCIÓN DEL DELITO
 
@@ -1869,9 +2271,7 @@ El Consejo emitirá su propio Estatuto para su organización y funcionamiento. L
 
 ## TÍTULO CUARTO. DEL PROGRAMA ESTATAL DE SEGURIDAD PÚBLICA
 
-### CAPÍTULO SEGUNDO. DE LOS SISTEMAS DE SEGURIDAD SOCIAL Y RECONOCIMIENTOS
-
-> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+### CAPÍTULO ÚNICO
 
 ###### Artículo 94.
 
@@ -1897,7 +2297,9 @@ IX. Las unidades administrativas responsables de su ejecución; y
 
 X. Las demás consideraciones necesarias para el cumplimiento de sus fines.
 
-El Programa Estatal deberá guardar congruencia con el Plan Nacional de Desarrollo, el Plan de Desarrollo del Estado de México, los Programas Nacionales previstos en la Ley General y las metas y objetivos específicos convenidos, tanto en el marco del Sistema Nacional como el Sistema Estatal.
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+El Programa Estatal deberá guardar congruencia con el Plan Nacional de Desarrollo, en la Estrategia Nacional y Estatal de Seguridad Publica, el Plan de Desarrollo del Estado de México, los Programas Nacionales previstos en la Ley General y las metas y objetivos específicos convenidos, tanto en el marco del Sistema Nacional como el Sistema Estatal.
 
 ###### Artículo 95.
 
@@ -1933,21 +2335,29 @@ El Gobernador del Estado incluirá en su informe anual a la Legislatura del Esta
 
 ## TÍTULO QUINTO. DISPOSICIONES COMUNES A LOS INTEGRANTES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA
 
-### CAPÍTULO TERCERO. DE LA CERTIFICACIÓN
+### CAPÍTULO PRIMERO. DE LOS DERECHOS Y OBLIGACIONES DE LOS INTEGRANTES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 100.
 
-Con el objeto de garantizar el cumplimiento de los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, los integrantes de las Instituciones de Seguridad Pública tendrán, de conformidad con su adscripción a unidades de prevención, de reacción o de investigación, los derechos y obligaciones siguientes:
+Con el objeto de garantizar el estricto cumplimiento de los principios constitucionales de legalidad, objetividad, eficiencia, profesionalismo y honradez, así como con respeto y con perspectiva de género respecto a la patria y sus símbolos de identidad, la dignidad de las personas e institucional y la salvaguarda de los derechos humanos, derechos fundamentales y las garantías individuales que el Estado Mexicano confiere; las personas integrantes de las Instituciones de Seguridad Pública, tendrán, de conformidad con su adscripción a unidades de prevención, de reacción o de investigación, proximidad, operaciones especiales, análisis criminal o custodia penitenciaria los derechos y obligaciones siguientes:
 
 A. Derechos:
 
-I. Percibir la remuneración neta por el desempeño de su servicio, salvo las deducciones y descuentos que procedan en términos de Ley, que tenderá a ser un salario digno acorde con el servicio;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+I. Percibir la remuneración neta por el desempeño de su servicio con excepción de las deducciones y descuentos que procedan en términos de Ley, dicha compensación deberá ser equiparable y acorde al servicio que desempeña, el riesgo de las funciones, grado, rango y cargo que ostenta la persona integrante.
+
+Para efectos de integrar un salario y/o remuneración adecuada, se deberán tomar en cuenta, las bases que también emita el Secretariado Ejecutivo del Sistema Nacional en materia de salario y prestaciones; siempre y cuando dichas prerrogativas no sean menores a las otorgadas por la Ley.
 
 II. Gozar de un trato digno y decoroso por parte de sus superiores jerárquicos, iguales o subalternos;
 
 III. Ser sujeto de los ascensos, condecoraciones, estímulos, recompensas y distinciones a que se hayan hecho merecedores, así como permanecer en el servicio de carrera en términos de las disposiciones legales correspondientes;
 
-IV. Recibir la formación, capacitación, adiestramiento y profesionalización;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+IV. Recibir la formación, capacitación, adiestramiento y profesionalización de acuerdo con sus funciones; que les permitirá obtener la acreditación y certificación individual;
 
 > <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
@@ -1955,7 +2365,9 @@ V. Recibir en forma gratuita el vestuario, municiones, armamento y equipo necesa
 
 VI. Recibir asesoría legal en asuntos relacionados con el ejercicio de sus funciones;
 
-VII. Gozar de los beneficios y prestaciones de seguridad social en términos de las disposiciones legales aplicables;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+VII. Gozar de los beneficios y prestaciones de seguridad social, deberá contemplar como mínimo servicios médicos, hospitalarios, incapacidades, pensiones por invalidez y vida, fondos para retiro, vivienda, prestaciones sociales como guarderías, becas, apoyos para sus familiares, protecciones de riesgo de trabajo y licencias de maternidad y paternidad y las demás que establezcan las disposiciones legales aplicables;
 
 VIII. Ser recluido en lugares especiales cuando sea sujeto a prisión preventiva;
 
@@ -1963,59 +2375,93 @@ IX. Acceder a las bibliotecas e instalaciones deportivas con que se cuente; y
 
 X. Gozar de un seguro de vida, en términos de las disposiciones legales aplicables.
 
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+La seguridad social a la cual se incorpore a los integrantes de las instituciones de seguridad pública, deberá contemplar, como mínimo, prestaciones sociales de guarderías y/o estancias infantiles, becas, apoyos de compensación y descuentos para familiares directos y hasta primer grado en línea ascendente y descendente, de servicio médico auxiliar, recreación y esparcimiento.
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+Las personas integrantes de las instituciones de seguridad pública, gozaran de manera enunciativa como prerrogativas mínimas, y no limitativas, de los derechos que se señalan; además, de los derechos que se establezcan en las normas y reglas de las condiciones generales de trabajo a las que se refiere la Ley del Trabajo de los Servidores Públicos del Estado de México y Municipios; así como las normatividades y reglamentos que rijan los estatutos y condiciones laborales de dichos sector especial.
+
 B. Obligaciones:
 
 I. Generales:
 
-> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
-a) Conducirse siempre con dedicación y disciplina, así como con apego al orden jurídico y respeto a los derechos humanos reconocidos en la Constitución Federal, en la Constitución Estatal y en los tratados internacionales suscritos por el Estado Mexicano;
+a) Conducirse en todo momento con dedicación y disciplina, así como con apego al orden jurídico y respeto a los derechos humanos reconocidos en la Constitución Federal, en la Constitución Estatal, en los tratados internacionales suscritos por el Estado Mexicano y demás disposiciones aplicables en la materia;
 
-b) Preservar la secrecía de los asuntos que por razón del desempeño de su función conozcan, en términos de las disposiciones aplicables;
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
-c) Cumplir sus funciones con absoluta imparcialidad y sin discriminación alguna;
+b) Preservar la secrecía de los asuntos que por razón del desempeño de sus funciones conozcan, en términos de las disposiciones aplicables;
+
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+c) Conducirse con imparcialidad en el desempeño de sus funciones y abstenerse de incurrir en tratos discriminatorios que atenten contra la dignidad humana;
 
 d) Observar un trato respetuoso con todas las personas, debiendo abstenerse de todo acto arbitrario y de limitar indebidamente las acciones o manifestaciones que en ejercicio de sus derechos constitucionales y con carácter pacífico realice la población;
 
-e) Velar por la integridad física y psicológica de las personas detenidas, ya sea por la probable comisión de un delito o de una falta administrativa;
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
-f) Abstenerse en todo momento de infligir o tolerar actos de tortura, aún cuando se trate de una orden superior o se argumenten circunstancias especiales, tales como amenaza a la seguridad pública, urgencia de las investigaciones o cualquier otra; al conocimiento de ello, lo denunciará inmediatamente ante la autoridad competente;
+e) Velar con oportunidad y diligencia por la vida, la integridad física y psicológica de las personas detenidas, ya sea por la probable comisión de un delito o de una falta administrativa;
 
-g) Desempeñar su misión sin solicitar ni aceptar compensaciones, pagos o gratificaciones distintas a las previstas legalmente. En particular se opondrán a cualquier acto de corrupción y en caso de tener conocimiento de alguno, deberán denunciarlo;
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
-> <small>(REFORMADO, G.G. 5 DE SEPTIEMBRE DE 2017)</small>
+f) Abstenerse en todo momento de infligir o tolerar actos de tortura, aun cuando se trate de una orden superior o se argumenten circunstancias especiales, tales como amenaza a la seguridad pública, urgencia de las investigaciones o cualquier otra; al conocimiento de ello, se tiene la obligación de denunciar inmediatamente ante la autoridad competente;
 
-h) Utilizar los protocolos de investigación, de atención y demás que se establezcan para el desempeño de sus funciones, así como de cadena de custodia adoptados por las Instituciones de Seguridad Pública.
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
-i) Participar en operativos y mecanismos de coordinación con otras Instituciones de Seguridad Pública, así como brindarles, en su caso, el apoyo que conforme a derecho proceda;
+g) Desempeñar sus funciones absteniéndose en todo momento de solicitar o aceptar compensaciones, pagos o gratificaciones distintas a las previstas legalmente, con el fin de hacer o no hacer alguna acción que por razón de sus funciones se encuentren obligados a realizar. En particular se opondrán a cualquier acto de corrupción, en caso de tener conocimiento de alguno, tienen la obligación de denunciarlo de manera inmediata;
 
-j) Abstenerse de disponer de bienes asegurados para beneficio propio o de terceros;
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
-k) Preservar, conforme a las disposiciones aplicables, las pruebas e indicios de probables hechos delictivos o faltas administrativas de forma que no pierdan su calidad probatoria y se facilite la correcta tramitación del procedimiento correspondiente;
+h) Apegarse a lo dispuesto en los protocolos de investigación, de atención y demás que se establezcan para el desempeño de sus funciones, así como de cadena de custodia adoptados por las Instituciones de Seguridad Pública;
 
-l) Abstenerse de sustraer, ocultar, alterar o dañar información o bienes en perjuicio de las Instituciones;
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+i) Participar en operativos y mecanismos de coordinación con otras Instituciones de Seguridad Pública, así como brindarles, en su caso, el apoyo requerido que conforme a derecho proceda;
+
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+j) Abstenerse de disponer o apropiarse en beneficio propio o de terceros de bienes ajenos a los que tuvieren acceso como resultado del ejercicio de sus funciones;
+
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+k) Preservar, conforme a las disposiciones aplicables en la materia, las pruebas e indicios de probables hechos delictivos o faltas administrativas de forma que no pierdan su calidad probatoria y se facilite la correcta tramitación del procedimiento correspondiente;
+
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+l) Abstenerse de sustraer, ocultar, alterar o dañar información o bienes en perjuicio de las Instituciones de Seguridad Pública;
 
 m) Abstenerse conforme a las disposiciones aplicables, de dar a conocer por cualquier medio a quien no tenga derecho, documentos, registros, imágenes, constancias, estadísticas, reportes o cualquier otra información reservada o confidencial de la que tenga conocimiento en ejercicio y con motivo de su empleo, cargo o comisión;
 
-n) Atender con diligencia las solicitudes de auxilio que se les formulen, o en su caso, turnarlo al área competente;
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+n) Atender de manera oportuna y con diligencia las solicitudes de auxilio que se les formulen, o en su caso, turnarlas al área competente;
 
 > <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
 ñ) Abstenerse de introducir a las instalaciones de sus instituciones o consumir dentro o fuera de ellas en el ejercicio de sus funciones, bebidas embriagantes, sustancias psicotrópicas, estupefacientes u otras sustancias adictivas de carácter ilegal, prohibido o controlado. No se sancionará la introducción a las instalaciones de sus instituciones cuando los materiales antes referidos sean producto de detenciones, cateos, aseguramiento u otros similares y que previamente exista la autorización correspondiente;
 
-o) Abstenerse de realizar conductas que desacrediten su persona o la imagen de las Instituciones, dentro o fuera del servicio;
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
-p) Evitar que personas ajenas a sus instituciones realicen actos inherentes a las atribuciones que tenga encomendadas. Asimismo, no podrá hacerse acompañar de dichas personas al realizar actos de servicio;
+o) Abstenerse de realizar conductas que desacrediten su persona o la imagen de las Instituciones de Seguridad Pública, ya sea dentro o fuera del servicio;
+
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+p) No permitir y, en su caso, evitar que personas ajenas a sus instituciones realicen actos inherentes a las atribuciones que tenga encomendadas, o se hagan acompañar de dichas personas al realizar actos de servicio;
 
 q) Abstenerse de instruir a sus subordinados la realización de actividades ajenas al servicio de seguridad pública;
 
-> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
-r) Someterse a evaluaciones periódicas para acreditar el cumplimiento de los requisitos de permanencia, así como obtener y mantener vigente la certificación respectiva;
+r) Someterse a evaluaciones periódicas para acreditar el cumplimiento de los requisitos de permanencia, obtener y mantener vigente la certificación respectiva y cumplir con los demás requisitos de permanencia previstos en las disposiciones normativas;
 
 s) Informar al superior jerárquico, de manera inmediata, las omisiones, actos indebidos o constitutivos de delito, de sus subordinados o iguales en categoría jerárquica;
 
-t) Cumplir y hacer cumplir con diligencia las órdenes que reciban con motivo del desempeño de sus funciones, evitando todo acto u omisión que produzca deficiencia en su cumplimiento;
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+t) Cumplir y hacer cumplir con diligencia las órdenes que conforme a derecho reciban con motivo del desempeño de sus funciones y evitar actos u omisiones que produzcan deficiencia en su cumplimiento; siempre que estas no resulten ambiguas, contrarias a derecho, a los derechos humanos y a la dignidad de las personas;
 
 u) Fomentar la disciplina, responsabilidad, decisión, integridad, espíritu de cuerpo y profesionalismo, en sí mismo y en el personal bajo su mando; y
 
@@ -2051,9 +2497,65 @@ ab) Ejecutar con la debida diligencia las órdenes de protección para las niña
 
 ac) Abstenerse de realizar acciones tendentes a inhibir, intimidar o desalentar a la víctima de violencia de género y desaparición para formular la denuncia;
 
-> <small>(ADICIONADO [N. DE E. REUBICADO], G.G. 11 DE MAYO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE FEBRERO DE 2026)</small>
 
-ad) Las demás que establezca esta Ley y otras disposiciones aplicables.
+ad) Entregar la información que le sea solicitada por otras Instituciones de Seguridad Pública, en los términos de las leyes correspondientes;
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+ae) Actuar con debida diligencia en la atención, investigación y persecución de los delitos, realizando todas las acciones necesarias, pertinentes y razonables para el esclarecimiento de los hechos y la protección de víctimas;
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+af) Prestar el auxilio necesario a la ciudadanía ante situaciones de grave riesgo, catástrofes o desastres;
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+ag) Coadyuvar con las autoridades judiciales en la investigación y persecución de los delitos;
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+ah) Coordinarse de manera eficaz con otras autoridades e instituciones para garantizar una actuación integral en el cumplimiento de sus funciones;
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+ai) Emplear el equipo y material que se les asigne con el debido cuidado y prudencia en el cumplimiento de sus funciones, así como preservarlos y conservarlos y, en su caso, devolverlos en los términos de las disposiciones aplicables;
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+aj) Hacer uso de la fuerza de manera proporcional, racional, congruente, oportuna y con respeto a los derechos humanos. Para tal efecto, deberá apegarse a la Ley Nacional sobre el Uso de la Fuerza, así como a las demás disposiciones normativas y administrativas aplicables, realizándose conforme a derecho;
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+ak) Promover, respetar, proteger y garantizar los derechos humanos en el ejercicio de sus funciones;
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+al) Abstenerse de realizar actos de acoso u hostigamiento sexual;
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+am) Abstenerse de cometer, participar, tolerar o encubrir violaciones graves a los derechos humanos, actos de discriminación, violencia contra las mujeres, los niños, niñas y adolescentes, personas adultas mayores y otros grupos vulnerables, así como el abuso o maltrato animal;
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+an) Resguardar la documentación e información que por razón de sus funciones tengan bajo su responsabilidad o a la que tengan acceso;
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+añ) Atender con la debida diligencia las solicitudes de la ciudadanía y en particular las de aquellas personas que manifiesten haber sido víctimas u ofendidas de algún delito, o que se encuentren en alguna situación de emergencia, salvo cuando la petición exceda sus capacidades o competencia;
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+ao) Ordenar o realizar la detención de una persona conforme a los requisitos previstos en los ordenamientos constitucionales y legales aplicables e inscribirla en el Registro Nacional de Detenciones;
+
+(ADICIONADO [N. DE E. REFORMADA Y REUBICADA ANTES INCISO ad), G.G. 4 DE FEBRERO DE 2026)
+
+ap) Las demás que establezcan esta Ley, las demás disposiciones aplicables y los propios reglamentos de régimen disciplinario de las Instituciones de Seguridad Pública.
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+El incumplimiento de cualquiera de los requisitos de permanencia, no será considerado una falta disciplinaria, por lo que no dará lugar a la imposición de correctivos o sanciones previstas en el régimen disciplinario. Dicho incumplimiento deberá ser tramitado mediante el procedimiento de separación del servicio, conforme a lo establecido en las disposiciones aplicables en la materia.
 
 II. Aplicables sólo a los agentes del ministerio público:
 
@@ -2105,9 +2607,9 @@ d) Registrar en el Informe Policial Homologado los datos de las actividades e in
 
 e) Reunir la información que pueda ser útil para acreditar el hecho delictivo y la autoría o participación del imputado, conforme a las instrucciones del Ministerio Público;
 
-> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
-f) Realizar la búsqueda de personas no localizadas, ausentes o extraviadas a petición de autoridad competente, e informar al Ministerio Público los resultados correspondientes;
+f) Realizar la búsqueda, localización e identificación inmediata de personas no localizadas, ausentes o extraviadas, así como proporcionar la información contenida en sus registros, bases de datos o sistemas de información, a petición de autoridad competente, e informar al Ministerio Público los resultados correspondientes;
 
 > <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
@@ -2291,13 +2793,17 @@ El personal que integre los organismos antes referidos deberá sujetarse a las d
 
 El Servicio Profesional de Carrera es el sistema de administración y control de los servidores públicos de las instituciones de seguridad pública que promueve su profesionalización, desarrollo y permanencia, asegurando la igualdad de oportunidades de ingreso, ascensos, estímulos y beneficios con base en el mérito y la experiencia a fin de contar con los servidores públicos capaces para mejorar la calidad del servicio y fortalecer la confianza ciudadana en sus instituciones.
 
-> <small>(REFORMADO, G.G. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 105.
 
-En caso de que los órganos jurisdiccionales determinen que la resolución por la que se impone la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio de cualquier ministerio público, perito o elemento de las Instituciones Policiales, es injustificada, la Institución respectiva sólo estará obligada a pagar la indemnización y las demás prestaciones a que tenga derecho el servidor público, estas, por el último año en que prestó sus servicios, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiese promovido, de conformidad con el artículo 123, apartado B, fracción XIII de la Constitución Federal. Tal circunstancia será inscrita en el Registro Nacional de Personal de las Instituciones de Seguridad Pública del Sistema Nacional, y en la Base de Datos de Personal de Instituciones de Seguridad Pública del Sistema Estatal.
+En caso de que los órganos jurisdiccionales determinen que la resolución por la que se impone la separación o remoción es injustificada, la institución respectiva solo estará obligada a la indemnización y al otorgamiento de las prestaciones a que tenga derecho la persona destituida, sin que en ningún caso proceda su reinstalación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiese promovido, de conformidad con el artículo 123, Apartado B, fracción XIII, de la Constitución Política de los Estados Unidos Mexicanos. Tal circunstancia será inscrita en el registro nacional correspondiente.
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+La cuantía de la indemnización que, en su caso, deba cubrirse, se calculará conforme a la legislación en la materia.
+
+### CAPÍTULO SEGUNDO. DE LOS SISTEMAS DE SEGURIDAD SOCIAL Y RECONOCIMIENTOS
+
+> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 106.
 
@@ -2307,65 +2813,99 @@ Las Instituciones de Seguridad Pública deben garantizar las prestaciones mínim
 
 Las Instituciones de Seguridad Pública, conforme a lo dispuesto en la Ley General, realizarán y someterán a las autoridades que correspondan los estudios técnicos pertinentes para la revisión, actualización y fijación de sus tabuladores y las zonas en que éstos deberán regir.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 108.
 
-El régimen de estímulos es el mecanismo por el cual las Instituciones Policiales otorgan el reconocimiento público a sus integrantes por actos de servicio meritorios o por su trayectoria ejemplar, para fomentar la calidad y efectividad en el desempeño del servicio, incrementar las posibilidades de promoción y desarrollo de los integrantes, así como fortalecer su identidad institucional.
+El régimen de condecoraciones y reconocimientos es el mecanismo por el que las Instituciones de Seguridad Pública otorgan el reconocimiento público a sus integrantes por actos de servicio meritorios o por su trayectoria ejemplar, para fomentar la calidad y efectividad en el desempeño del servicio, incrementar las posibilidades de promoción y desarrollo de sus integrantes, así como fortalecer su identidad institucional.
 
-Todo estímulo otorgado por las instituciones será acompañado de una constancia que acredite el otorgamiento del mismo, la cual deberá ser integrada al expediente del servidor público y, en su caso, con la autorización de portación de la condecoración o distintivo correspondiente.
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+Todo estímulo otorgado por las Instituciones de Seguridad Pública será acompañado de una constancia que acredite su otorgamiento del mismo, la que deberá ser integrada al expediente de la persona integrante y, en su caso, con la autorización de portación de la condecoración o distintivo correspondiente.
 
 > <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
 Cada Institución de Seguridad Pública Estatal dentro de su Reglamento interno del servicio profesional de carrera policial establecerá los tipos y procedimientos para otorgar los estímulos y reconocimientos.
 
-### CAPÍTULO SEGUNDO. DEL INGRESO AL SERVICIO DE CARRERA
+### CAPÍTULO TERCERO. DE LA CERTIFICACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 109.
 
-La certificación es el proceso mediante el cual los integrantes de las instituciones de seguridad pública se someten a las evaluaciones periódicas establecidas por el Centro, en los procedimientos de ingreso, promoción y permanencia.
+La certificación individual es el proceso por el que las personas integrantes de las Instituciones de Seguridad Pública se someten a las evaluaciones para comprobar conocimientos, habilidades, aptitudes y competencias, para el correcto desempeño de sus labores conforme a los perfiles establecidos por el Secretariado Ejecutivo del Sistema Nacional.
 
-Los aspirantes que ingresen a las instituciones de seguridad pública deberán contar con el Certificado y registro correspondientes, de conformidad con lo establecido por la Ley General.
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
-Ninguna persona podrá ingresar o permanecer en las instituciones de seguridad pública sin contar con el Certificado y registro vigentes.
+Toda persona aspirante deberá contar con la evaluación de control de confianza aprobada y vigente expedida por el Centro.
+
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+Ninguna persona podrá ingresar o reingresar a las Instituciones Policiales si no ha sido debidamente evaluada y registrada en el registro nacional correspondiente.
 
 Las evaluaciones de control de confianza comprenderán los exámenes médico, toxicológico, psicológico, poligráfico, estudio socioeconómico y los demás que se consideren necesarios de conformidad con la normatividad aplicable.
 
-> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
-Los resultados de los procesos de evaluación y los expedientes integrados al efecto, serán confidenciales, salvo en aquellos casos en que deban presentarse en procedimientos administrativos o judiciales y se mantendrán en reserva en los términos de las disposiciones jurídicas aplicables.
+Los resultados de los procesos de evaluación y los expedientes que se formen con los mismos serán confidenciales, salvo en aquellos casos en que deban presentarse en procedimientos administrativos o judiciales y se mantendrán en reserva en los términos de las disposiciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 110.
 
-La certificación tiene por objeto:
+Las evaluaciones de control de confianza tienen por objeto:
 
-A. Reconocer habilidades, destrezas, actitudes, conocimientos generales y específicos para desempeñar sus funciones, conforme a los perfiles aprobados por las autoridades competentes.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 4 DE FEBRERO DE 2026)</small>
+
+A. Reconocer habilidades, destrezas y actitudes, para que las personas integrantes de las Instituciones de Seguridad Pública realicen sus funciones conforme a los perfiles aprobados para tal efecto, y
 
 > <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
 La Universidad será el órgano encargado de aplicar las evaluaciones para acreditar el cumplimiento de los perfiles a que se refiere el párrafo anterior, así como de expedir la constancia correspondiente.
 
-> <small>(REFORMADO [N. DE E ESTE PÁRRAFO], G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 4 DE FEBRERO DE 2026)</small>
 
-B. Identificar los factores de riesgo que interfieran, repercutan o pongan en peligro el desempeño de las funciones de los servidores públicos de las instituciones de seguridad pública, con el fin de garantizar la calidad de los servicios, enfocándose a los siguientes aspectos:
+B. Identificar los factores de riesgo que interfieran, repercutan o pongan en peligro el desempeño de las funciones policiales, ministeriales, periciales y penitenciarias con el fin de garantizar la calidad de los servicios, enfocándose, cuando menos, a los siguientes aspectos de las personas integrantes de las Instituciones de Seguridad Pública:
 
 I. Cumplimiento de los requisitos de edad y el perfil físico, médico y de personalidad que exijan las disposiciones aplicables;
 
 II. Observancia de un desarrollo patrimonial justificado, en el que sus egresos guarden adecuada proporción con sus ingresos;
 
-III. Ausencia de alcoholismo o el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-IV. Ausencia de vínculos con organizaciones delictivas;
+III. Ausencia de abuso de sustancias que alteren el estado físico y mental, como el alcohol, sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
 
-V. Notoria buena conducta, no haber sido condenado por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal y no estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público; y
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-> <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+IV. Ausencia de cualquier vínculo con organizaciones delictivas y sus integrantes;
 
-VI. Cumplimiento de los deberes establecidos en la Ley General y en la presente Ley.
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+V. No haber sido condenada por sentencia irrevocable por delito doloso, ni estar sujeta a proceso penal y no estar suspendida o inhabilitada, ni haber sido destituida por resolución firme como persona servidora pública;
+
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+VI. Cumplimiento de los deberes establecidos en la Ley General y en la presente Ley;
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+VII. No favorecer, justificar o encubrir la comisión de violaciones graves a los derechos humanos, el ejercicio de violencia contra las mujeres, los niños, niñas y adolescentes, las personas adultas mayores y otros grupos vulnerables, así como el abuso o maltrato animal, y
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+VIII. Los demás que se establezcan en los criterios y lineamientos que para tal efecto emita el Secretariado Ejecutivo.
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+Solo podrán incorporarse a las Instituciones de Seguridad Pública las personas que obtengan un resultado aprobatorio en las evaluaciones de control de confianza realizadas por los centros de control de confianza debidamente certificados o acreditados para ello.
+
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 111.
 
-El Centro emitirá el Certificado correspondiente a quienes acrediten los requisitos de ingreso que establece esta Ley y la Ley General.
+El Centro emitirá el certificado individual correspondiente a quienes obtenga un resultado aprobatorio en las evaluaciones de control de confianza.
 
-El Certificado tendrá por objeto acreditar que el servidor público es apto para ingresar o permanecer en las instituciones de seguridad pública, y que cuenta con los conocimientos, el perfil, las habilidades y las aptitudes necesarias para el desempeño de su cargo.
+El certificado individual de las personas integrantes de las Instituciones de Seguridad Publica será indispensable para los procesos de permanencia, desarrollo, promoción, profesionalización y especialización.
 
 ###### Artículo 112.
 
@@ -2389,27 +2929,57 @@ Las instituciones de seguridad pública del Estado de México reconocerán la vi
 
 En todos los casos se deberán realizar las inscripciones que correspondan en el Registro Nacional de Personal de las Instituciones de Seguridad Pública del Sistema Nacional y en la Base de Datos de Personal de Instituciones de Seguridad Pública del Sistema Estatal.
 
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 115.
 
-La cancelación del Certificado de los servidores públicos de las instituciones de seguridad pública procederá:
+Las evaluaciones de control de confianza perderán validez cuando las personas servidoras públicas:
 
-I. Al ser separados de su encargo por incumplir con alguno de los requisitos de ingreso o permanencia a que se refiere la Ley General, esta Ley y demás disposiciones aplicables;
+I. Sean separadas de su encargo por incumplir con alguno de los requisitos de ingreso o permanencia a que se refiere esta Ley y demás disposiciones aplicables;
 
-II. Al ser removidos de su encargo;
+II. Sean removidas de su encargo;
 
-III. Por no obtener la revalidación de su Certificado; y
+III. No obtengan la revalidación de dicha evaluación;
 
-IV. Por las demás causas que establezcan las disposiciones aplicables.
+IV. Se actualice alguna de las hipótesis previstas en el artículo 79 de la Ley General, o
+
+V. Las demás causas que establezcan las disposiciones aplicables
+
+En cualquiera de los supuestos anteriores deberá actualizarse el registro nacional correspondiente.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 4 DE FEBRERO DE 2026)</small>
+
+### CAPÍTULO CUARTO. DE LA PROFESIONALIZACIÓN DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+###### Artículo 115 Bis.
+
+La profesionalización es el proceso permanente y progresivo de formación que se integra por las etapas de formación inicial, actualización, promoción, especialización y alta dirección, para desarrollar al máximo las competencias, capacidades y habilidades de las personas integrantes de las Instituciones de Seguridad Pública.
+
+El contenido teórico y práctico de los programas de capacitación, actualización, especialización y certificación para los perfiles policiales, ministeriales, periciales y penitenciarios fomentará que las personas integrantes de las Instituciones de Seguridad Pública logren la profesionalización y ejerzan sus atribuciones con base en los principios y objetivos referidos y promoverán el efectivo aprendizaje y el pleno desarrollo de los conocimientos, las habilidades, destrezas y actitudes necesarias para el desempeño del servicio público.
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+###### Artículo 115 Ter.
+
+La profesionalización se basará en el programa rector de profesionalización, el cual es el instrumento en el que se establecen los lineamientos, programas, las actividades y los contenidos mínimos para la profesionalización de las personas que integran las Instituciones de Seguridad Pública. Deberá de desarrollarse de forma transversal con perspectiva de género, derechos humanos, interés superior de la niñez, interculturalidad e interseccionalidad.
+
+Los planes de estudios se integrarán por el conjunto de contenidos teóricos y prácticos estructurados en unidades didácticas de enseñanza y aprendizaje, en los que se incluyan talleres de resolución de casos.
+
+Dicho programa deberá fomentar, en todo momento, la prevención de violaciones a derechos humanos, del ejercicio de violencia contra las mujeres, los niños, niñas y adolescentes, los adultos mayores y el maltrato animal.
+
+Además, incluirá programas específicos en formación cívica y ética, responsabilidades de las personas servidoras públicas y valores inherentes a la seguridad pública, la procuración de justicia, la reinserción social y el cuidado de la población.
+
+Para el caso de las corporaciones de Seguridad Privada y de organismos auxiliares, la formación y profesionalización estará a cargo de la Universidad.
 
 > <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
-
-### CAPÍTULO TERCERO. DEL DESARROLLO DEL SERVICIO DE CARRERA
 
 ## TÍTULO SEXTO. DEL SERVICIO DE CARRERA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
-### CAPÍTULO CUARTO. DE LA COMISIÓN DEL SERVICIO PROFESIONAL DE CARRERA MINISTERIAL Y PERICIAL
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 116.
 
@@ -2425,7 +2995,7 @@ IV. Por las demás causas que establezcan las disposiciones aplicables.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
-### CAPÍTULO QUINTO. DE LA TERMINACIÓN DEL SERVICIO DE CARRERA
+### CAPÍTULO SEGUNDO. DEL INGRESO AL SERVICIO DE CARRERA
 
 ###### Artículo 119.
 
@@ -2441,7 +3011,7 @@ IV. Por las demás causas que establezcan las disposiciones aplicables.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
-### CAPÍTULO SEXTO. DE LA PROFESIONALIZACIÓN
+### CAPÍTULO TERCERO. DEL DESARROLLO DEL SERVICIO DE CARRERA
 
 ###### Artículo 122.
 
@@ -2457,9 +3027,7 @@ IV. Por las demás causas que establezcan las disposiciones aplicables.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
-
-> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+### CAPÍTULO CUARTO. DE LA COMISIÓN DEL SERVICIO PROFESIONAL DE CARRERA MINISTERIAL Y PERICIAL
 
 ###### Artículo 125.
 
@@ -2475,9 +3043,7 @@ IV. Por las demás causas que establezcan las disposiciones aplicables.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
-### CAPÍTULO SEGUNDO. DE LAS BASES DE LA CARRERA POLICIAL
-
-> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 2020)</small>
+### CAPÍTULO QUINTO. DE LA TERMINACIÓN DEL SERVICIO DE CARRERA
 
 ###### Artículo 128.
 
@@ -2493,7 +3059,7 @@ IV. Por las demás causas que establezcan las disposiciones aplicables.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
-### CAPÍTULO TERCERO. DE LA SELECCIÓN, INGRESO Y PERMANENCIA DE LOS ELEMENTOS DE LAS INSTITUCIONES POLICIALES
+### CAPÍTULO SEXTO. DE LA PROFESIONALIZACIÓN
 
 ###### Artículo 131.
 
@@ -2509,7 +3075,9 @@ IV. Por las demás causas que establezcan las disposiciones aplicables.
 
 ## TÍTULO SÉPTIMO. DEL DESARROLLO POLICIAL
 
-### CAPÍTULO CUARTO. DE LA PROMOCIÓN DE LOS ELEMENTOS DE LAS INSTITUCIONES POLICIALES
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
 
 ###### Artículo 134.
 
@@ -2521,19 +3089,85 @@ Las relaciones jurídicas entre las Instituciones Policiales y sus integrantes s
 
 Todos los servidores públicos de las Instituciones Policiales que no pertenezcan a la Carrera Policial, se considerarán trabajadores de confianza. Los efectos de su nombramiento se podrán dar por terminados en cualquier momento, de conformidad con las disposiciones aplicables, y en caso de que no acrediten las evaluaciones de control de confianza, sin que para ello sea necesario agotar procedimiento administrativo alguno.
 
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 136.
 
-Las Instituciones Policiales, para el mejor cumplimiento de sus objetivos, desarrollarán, cuando menos, las siguientes funciones:
+Las Instituciones Policiales, de forma enunciativa más no limitativa, contarán con las siguientes unidades administrativas:
 
-I. Investigación: a través de sistemas homologados de recolección, clasificación, registro, análisis, evaluación y explotación de información, siempre bajo el mando y conducción del ministerio público;
+I. Operativa o de proximidad;
 
-II. Prevención: tendiente a prevenir la comisión de delitos e infracciones administrativas, así como acciones de inspección, vigilancia y vialidad en su circunscripción; y
+II. Reacción y de operaciones especiales;
 
-III. Reacción: a fin de garantizar, mantener y restablecer el orden y la paz públicos.
+III. Investigación;
 
-> <small>(ADICIONADA, G.G. 22 DE JUNIO DE 2023)</small>
+IV. Análisis criminal;
 
-IV. Proximidad social: es una actividad auxiliar a las funciones de prevención, a través de la proactividad y la colaboración con otros actores sociales, bajo una política de colaboración interna e interinstitucional que fortalezca la gobernabilidad local.
+V. Tránsito;
+
+VI. Universidad;
+
+VII. Carrera policial u homóloga;
+
+VIII. Asuntos internos;
+
+IX. Consejo de honor y justicia u homólogo;
+
+X. Custodia Penitenciaria, y
+
+XI. Policía Procesal
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+###### Artículo 136 Bis.
+
+Las Instituciones Policiales de los municipios, cuando cuenten con ellas y de conformidad con la legislación local aplicable, tendrán las siguientes funciones:
+
+I. Proximidad, solución de conflictos, prevención de las violencias y del delito, vialidad y atención de faltas administrativas;
+
+II. Apoyo a las Instituciones de Seguridad Pública en situaciones que requieran de mayor capacidad disuasiva o de respaldo y garantizar, mantener y restablecer el orden público;
+
+III. Labores de primer respondiente, incluyendo la recepción de denuncias y aquellas para la preservación de la vida y del lugar de los hechos; el aseguramiento de bienes, instrumentos, objetos o productos del delito que puedan servir como evidencia en el proceso penal, y la identificación de personas víctimas, testigas (sic) y respecto de quienes existan razones que justifiquen su localización para fines de investigación, entre otras análogas;
+
+IV. Investigación y de análisis criminal en los casos en los que cuente con una unidad de investigación certificada conforme a los estándares establecidos por el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, y
+
+V. Las demás establecidas en otra normativa aplicable.
+
+Las policías de los municipios deberán organizarse, estructurarse y distribuirse conforme a las necesidades específicas de su territorio, en los términos que dispongan las legislaciones locales. Asimismo, deberán contar con la certificación institucional correspondiente, de acuerdo con los lineamientos y requisitos que, para tal efecto, establezca el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública.
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+###### Artículo 136 Ter.
+
+Las Instituciones Policiales de los municipios podrán ser evaluadas para la obtención de la certificación institucional cuando cumplan con los requisitos establecidos para tal efecto por la Ley General.
+
+I. La corporación tenga un estado de fuerza de al menos un policía por cada mil habitantes;
+
+II. El cien por ciento de su personal se encuentre inscrito en el Registro Nacional de Personal de Seguridad Pública;
+
+III. Al menos el setenta y cinco por ciento de sus integrantes cuenten con certificación individual de conformidad a lo establecido en la presente Ley, y
+
+IV. Los demás que determine el Consejo Nacional.
+
+Las Instituciones Policiales de los municipios están obligadas a certificar a su personal, independientemente de si la institución cumple con los requisitos previamente señalados.
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+###### Artículo 136 Quater.
+
+Las o los elementos que presten servicios en instituciones del sistema penitenciarias, tendrán al menos las siguientes funciones:
+
+I. Realizar labores de seguridad y custodia penitenciaria, en el ámbito de su competencia;
+
+II. Prevenir las violencias y los delitos en el ámbito de su competencia;
+
+III. Hacer del conocimiento del Ministerio Público de los hechos que puedan ser constitutivos de delito;
+
+IV. Garantizar, mantener y restablecer el orden y la paz en los centros de reinserción social a los que se encuentren adscritos;
+
+V. Coordinarse con otras Instituciones de Seguridad Pública para el ejercicio de sus funciones, y
+
+VI. Las que determinen las demás disposiciones aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
 
@@ -2601,7 +3235,9 @@ En el ejercicio de facultades de investigación preventiva, se aplicarán las t�
 
 > <small>(DEROGADO TERCER PÁRRAFO, G.G. 22 DE JUNIO DE 2023)</small>
 
-### CAPÍTULO QUINTO. DE LA CONCLUSIÓN DEL SERVICIO DE LOS ELEMENTOS DE LAS INSTITUCIONES POLICIALES
+### CAPÍTULO SEGUNDO. DE LAS BASES DE LA CARRERA POLICIAL
+
+> <small>(REFORMADO, G.G. 9 DE NOVIEMBRE DE 2020)</small>
 
 ###### Artículo 140.
 
@@ -2629,9 +3265,13 @@ V. Los demás que establezcan las disposiciones aplicables.
 
 La organización jerárquica de las Instituciones Policiales, se considerará al menos las categorías siguientes:
 
-I. Comisarios;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-II. Inspectores;
+I. Comisarias o comisarios;
+
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+II. Inspectoras o inspectores;
 
 III. Oficiales; y
 
@@ -2641,51 +3281,81 @@ IV. Escala Básica.
 
 En el caso de las Instituciones Policiales de los Municipios la integración de las categorías y jerarquías serán de acuerdo a su presupuesto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 143.
 
-En las Instituciones Policiales las categorías previstas en el artículo anterior serán:
+Las categorías previstas en el artículo anterior considerarán, al menos las siguientes jerarquías:
 
-I. Comisarios:
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], G.G. 4 DE FEBRERO DE 2026)</small>
 
-a) Comisario General;
+I. Comisarias o comisarios:
 
-b) Comisario Jefe; y
+a) General;
 
-c) Comisario.
+b) Jefa o jefe; y
 
-II. Inspectores:
+c) Comisaria o comisario.
 
-a) Inspector General;
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], G.G. 4 DE FEBRERO DE 2026)</small>
 
-b) Inspector Jefe; y
+II. Inspectoras o inspectores:
 
-c) Inspector.
+a) General;
+
+b) Jefa o jefe; y
+
+c) Inspectora o inspector.
 
 III. Oficiales:
 
-a) Subinspector;
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+a) Subinspectora o subinspector;
 
 b) Oficial; y
 
 c) Suboficial.
 
-IV. Escala Básica:
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.G. 4 DE FEBRERO DE 2026)</small>
 
-a) Policía Primero;
+IV. Escala básica
 
-b) Policía Segundo;
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
-c) Policía Tercero; y
+a) Policía primera o primero;
+
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+b) Policía segunda o segundo;
+
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+c) Policía tercera o tercero; y
 
 d) Policía.
 
 En las Instituciones Policiales de los Municipios, se considerarán las categorías antes referidas según su estructura y las necesidades del servicio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 144.
 
-Las Instituciones Policiales se organizarán bajo un esquema de jerarquización terciaria, cuya célula básica se compondrá invariablemente por tres elementos, sin perjuicio de lo dispuesto en los protocolos respectivos.
+Las Instituciones Policiales se organizarán bajo un esquema de jerarquización terciaria, cuya célula básica se compondrá invariablemente por tres personas.
 
 Los titulares de las categorías jerárquicas estarán facultados para ejercer la autoridad y mando policial en los diversos cargos o comisiones.
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+Con base en las categorías jerárquicas señaladas en el artículo precedente, las personas titulares de las instituciones municipales deberán cubrir, al menos, el mando correspondiente al quinto nivel ascendente de organización en la jerarquía.
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+La Secretaría deberá satisfacer, como mínimo, el mando correspondiente al octavo grado de organización jerárquica.
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+Las personas titulares de las categorías jerárquicas estarán facultadas para ejercer la autoridad y mando policial en los diversos cargos o comisiones.
 
 ###### Artículo 145.
 
@@ -2731,13 +3401,21 @@ La Carrera Policial es independiente de los nombramientos para desempeñar cargo
 
 Los titulares de las Instituciones Policiales del Estado y de los Municipios, respectivamente, podrán designar a los integrantes en cargos administrativos o de dirección de la estructura orgánica de las instituciones a su cargo; asimismo, podrán relevarlos libremente, respetando su grado policial y los derechos inherentes a la Carrera Policial.
 
-### CAPÍTULO SEXTO. DE LA COMISIÓN DE HONOR Y JUSTICIA
+### CAPÍTULO TERCERO. DE LA SELECCIÓN, INGRESO Y PERMANENCIA DE LOS ELEMENTOS DE LAS INSTITUCIONES POLICIALES
+
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 150.
 
-La selección es el proceso que consiste en elegir, de entre los aspirantes que hayan aprobado el reclutamiento, a quienes cubran el perfil y la formación requeridos para ingresar a las Instituciones Policiales.
+La selección es el proceso que consiste en elegir de entre las personas aspirantes que hayan aprobado el reclutamiento, a quienes cubran el perfil y la formación requeridos para ingresar a las Instituciones de Seguridad Pública.
 
-Dicho proceso comprende el período de los cursos de formación o capacitación y concluye con la resolución de las instancias previstas en esta Ley sobre los aspirantes aceptados.
+Dicho proceso comprende el período de los cursos de formación o capacitación y concluye con la resolución de las instancias previstas en esta Ley sobre las personas aspirantes aceptadas las que, durante el proceso y hasta en tanto no sean admitidas, no tendrán ningún tipo o vínculo jurídico o administrativo con la institución respectiva.
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+###### Artículo 150 Bis.
+
+El reclutamiento es el proceso a cargo de las Instituciones de Seguridad Pública, mediante el que, a través de convocatorias públicas, se busca y convoca a personas candidatas potencialmente calificadas para ocupar las plazas vacantes dentro de estas.
 
 > <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
@@ -2751,23 +3429,23 @@ La permanencia es el resultado del cumplimiento constante de los requisitos esta
 
 A. De ingreso:
 
-> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-I. Ser ciudadano mexicano y en pleno ejercicio de sus derechos;
+I. Ser de ciudadanía mexicana en pleno ejercicio de sus derechos políticos y civiles;
 
-II. Ser de notoria buena conducta, y no haber sido condenado por sentencia irrevocable por delito doloso, ni estar sujeto a proceso penal;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+II. No haber sido condenada por sentencia irrevocable por delito doloso relacionado con las funciones a desempeñar;
 
 III. En su caso, tener acreditado el Servicio Militar Nacional;
 
-IV. Acreditar que ha concluido, al menos, los estudios siguientes:
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-a) En el caso de aspirantes a las áreas de investigación, enseñanza superior o equivalente;
+IV. Acreditar que ha concluido la enseñanza media superior o su equivalente y, para las áreas de investigación, acreditar haber concluido la enseñanza superior o su equivalente;
 
-b) Tratándose de aspirantes a las áreas de prevención, enseñanza media superior o equivalente; o
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-c) En caso de aspirantes a las áreas de reacción, los estudios correspondientes a la enseñanza media básica.
-
-V. Aprobar el examen de ingreso y los cursos de formación;
+V. Aprobar el concurso de ingreso y los cursos de formación;
 
 VI. Contar con los requisitos de edad y el perfil físico, médico y de personalidad que exijan las disposiciones aplicables;
 
@@ -2777,35 +3455,65 @@ VIII. Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras 
 
 IX. No padecer alcoholismo;
 
-X. Someterse a exámenes para comprobar la ausencia de alcoholismo o el no uso de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-XI. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público en ningún ámbito de gobierno; y
+X. Someterse a exámenes para comprobar la ausencia de abuso de sustancias que alteren el estado físico y mental, como el alcohol, sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
 
-XII. Los demás que establezcan otras disposiciones jurídicas aplicables.
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XI. No estar suspendida o inhabilitada como servidora pública;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 4 DE FEBRERO DE 2026)</small>
+
+XII. Cumplir con los deberes establecidos en esta Ley, y demás disposiciones que deriven de esta;
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XIII. No tener en su contra sentencia ejecutoria que imponga la suspensión de la ciudadanía;
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XIV. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos;
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XV. No estar declarada persona deudora alimentaria morosa;
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XVI. No haber participado, favorecido o encubierto, de ninguna forma, la comisión de violaciones graves a los derechos humanos, no contar con historial o antecedentes de ningún tipo como victimario de violencia contra las mujeres, niñas, niños, adolescentes o personas adultas mayores, ni haber cometido abuso o maltrato animal, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA ANTES FRACCIÓN XII], G.G. 4 DE FEBRERO DE 2026)</small>
+
+XVII. Los demás que establezcan otras disposiciones legales aplicables.
 
 B. De permanencia:
 
-I. Ser de notoria buena conducta, y no haber sido condenado por sentencia irrevocable por delito doloso;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-II. Mantener actualizado su Certificado Único Policial;
+I. No haber sido condenada en sentencia irrevocable por delito doloso relacionado con las funciones a desempeñar;
+
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+II. Contar con la certificación correspondiente conforme a su puesto y funciones;
 
 III. No superar la edad máxima de retiro que establezcan las disposiciones aplicables;
 
-IV. Acreditar que ha concluido, al menos, los estudios siguientes:
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-a) En el caso de integrantes de las áreas de investigación, enseñanza superior, equivalente u homologación por desempeño, a partir de bachillerato;
+IV. Aprobar los cursos de formación, capacitación y profesionalización;
 
-b) Tratándose de integrantes de las áreas de prevención, enseñanza media superior o equivalente; o
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-c) En caso de integrantes de las áreas de reacción, los estudios correspondientes a la enseñanza media básica.
-
-V. Aprobar los cursos de formación, capacitación y profesionalización;
+V. Aprobar los cursos de formación, capacitación y profesionalización que imparta la Universidad;
 
 VI. Aprobar los procesos de evaluación de control de confianza;
 
 VII. Aprobar las evaluaciones del desempeño;
 
-VIII. Participar en los procesos de promoción o ascenso a que se convoque, conforme a las disposiciones aplicables;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+VIII. Participar en los procesos de promoción o ascenso que se convoquen, conforme a las disposiciones aplicables;
 
 IX. Abstenerse de consumir sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
 
@@ -2813,31 +3521,71 @@ X. No padecer alcoholismo;
 
 XI. Someterse a exámenes para comprobar la ausencia de alcoholismo;
 
-XII. Someterse a exámenes para comprobar la ausencia de sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-XIII. No estar suspendido o inhabilitado, ni haber sido destituido por resolución firme como servidor público en ningún ámbito de gobierno;
+XII. Someterse a exámenes para comprobar la ausencia de abuso de sustancias que alteren el estado físico y mental, como el alcohol, sustancias psicotrópicas, estupefacientes u otras que produzcan efectos similares;
 
-XIV. No ausentarse del servicio sin causa justificada, por un periodo de tres días consecutivos o de cinco días dentro de un término de treinta días; y
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-XV. Las demás que establezcan las disposiciones jurídicas aplicables.
+XIII. No estar suspendida o inhabilitada como persona servidora pública;
 
-### CAPÍTULO SÉPTIMO. DEL PROCEDIMIENTO
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+XIV. No faltar al servicio sin causa justificada, por un periodo de tres días consecutivos o de cinco días discontinuos dentro de un término de treinta días;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 4 DE FEBRERO DE 2026)</small>
+
+XV. No participar, cometer, favorecer o encubrir violaciones graves a los derechos humanos, no ejercer actos de violencia contra las mujeres, niñas, niños, adolescentes o personas adultas mayores, ni realizar actos de abuso o maltrato animal;
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XVI. No tener en su contra sentencia ejecutoria que imponga la suspensión de la ciudadanía;
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XVII. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos;
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XVIII. No estar declarada persona deudora alimentaria morosa, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA ANTES FRACCIÓN XV], G.G. 4 DE FEBRERO DE 2026)</small>
+
+XIX. Las demás que establezcan las disposiciones legales aplicables.
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+Las determinaciones que se tomen por no cumplir con alguno de los requisitos de permanencia establecidos en este artículo deberán realizarse conforme al procedimientos de separación que se prevean en las disposiciones aplicables a las Instituciones Policiales.
+
+### CAPÍTULO CUARTO. DE LA PROMOCIÓN DE LOS ELEMENTOS DE LAS INSTITUCIONES POLICIALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 153.
 
-La promoción es el acto mediante el cual se otorga a los elementos de las Instituciones Policiales, el grado inmediato superior al que ostenten, dentro del orden jerárquico previsto en las disposiciones jurídicas aplicables.
+La promoción es el acto mediante el cual se otorga a las personas integrantes de las Instituciones de Seguridad Pública, el grado o el rango inmediato superior al que ostenten, dentro del orden jerárquico previsto en las disposiciones legales aplicables.
 
 Las promociones sólo podrán conferirse atendiendo a la normatividad aplicable y cuando exista una vacante para la categoría jerárquica superior inmediata correspondiente a su grado.
 
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+Las Instituciones de Seguridad Pública establecerán las modalidades y reglas específicas para la promoción de grados de sus integrantes. Entre estas modalidades se deberá establecer, al menos, la de concurso por convocatoria abierta. Para el establecimiento de las reglas específicas deberán considerarse, al menos: el cumplimiento de los requisitos de permanencia, el grado de estudios, la profesionalización continua, el tiempo cumplido en el grado actual, la antigüedad en la institución, los reconocimientos y condecoraciones obtenidas y el resultado de la evaluación del desempeño.
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+De manera enunciativa más no limitativa, los procesos de promoción deberán regirse por los principios de legalidad, transparencia, igualdad sustantiva entre hombres y mujeres, privilegiando que, del total de lugares ofertados en dichos procesos, se destine para mujeres, al menos, el porcentaje que estas representen en el estado de fuerza o la plantilla de elementos que integren la Institución de Seguridad Pública.
+
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 154.
 
-Al elemento que sea promovido, le será ratificada su nueva categoría jerárquica mediante la expedición de la constancia de grado correspondiente.
+Al personal que sea promovido, le será ratificada su nueva categoría jerárquica mediante la expedición de la constancia de grado correspondiente.
+
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 155.
 
-Para ocupar un grado dentro de las Instituciones Policiales, se deberán reunir los requisitos establecidos por esta Ley y las disposiciones normativas aplicables.
+Para ocupar un grado o rango dentro de las Instituciones de Seguridad Pública, se deberán reunir los requisitos establecidos por esta Ley y las disposiciones normativas aplicables.
 
 ###### Artículo 156.
 
@@ -2855,13 +3603,17 @@ III. La antigüedad contará hasta el momento en que esta calidad deba determina
 
 Las Instituciones Policiales establecerán órganos colegiados encargados del seguimiento de la carrera policial, en términos de las disposiciones reglamentarias correspondientes.
 
-### CAPÍTULO OCTAVO. DEL RÉGIMEN DISCIPLINARIO
+### CAPÍTULO QUINTO. DE LA CONCLUSIÓN DEL SERVICIO DE LOS ELEMENTOS DE LAS INSTITUCIONES POLICIALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 158.
 
-La conclusión del servicio de un elemento es la terminación de su nombramiento o la cesación de sus efectos legales por las siguientes causas:
+La terminación comprenderá las causas ordinarias y extraordinarias de separación del servicio profesional de carrera, así como los procedimientos y recursos de inconformidad a los que haya lugar, ajustándose a lo establecido por las leyes y disposiciones aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE FEBRERO DE 2026)</small>
+
+La terminación del servicio profesional de carrera será:
 
 I. Separación, por incumplimiento de cualquiera de los requisitos de permanencia, o cuando en los procesos de promoción concurran las siguientes circunstancias:
 
@@ -2883,13 +3635,25 @@ b) Muerte o incapacidad permanente; o
 
 c) Jubilación o retiro.
 
-Al concluir el servicio, el elemento deberá entregar al funcionario designado para tal efecto, toda la información, documentación, equipo, materiales, identificaciones, valores u otros recursos que hayan sido puestos bajo su responsabilidad o custodia mediante acta de entrega-recepción.
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+IV. Destitución por incurrir en causas de responsabilidad en el desempeño de sus funciones o incumplimiento de sus deberes, de conformidad con las disposiciones relativas al régimen disciplinario o por mandamiento judicial.
+
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+Al concluir el servicio se deberá entregar a la persona servidora pública designada para tal efecto, toda la información, documentación, equipo, materiales, identificaciones, valores u otros recursos que hayan sido puestos bajo la responsabilidad o custodia de la persona integrante mediante acta de entrega recepción.
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+En el caso de terminación del servicio profesional de carrera por incapacidad permanente o por muerte, la Institución de Seguridad Pública deberá garantizar, al menos, pensión por invalidez o vida, seguros para sus familias y personas beneficiarias, apoyo para gastos funerarios, asistencia médica y de rehabilitación, según sea el caso.
+
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 159.
 
-Los elementos de las Instituciones Policiales que hayan alcanzado las edades límite para la permanencia, previstas en las disposiciones que los rijan, podrán ser reubicados, a consideración de las instancias, en otras áreas de los servicios de las propias Instituciones.
+Las personas integrantes de las Instituciones de Seguridad Pública que hayan alcanzado las edades límite para la permanencia, previstas en las disposiciones que las rijan, podrán ser reubicadas, sin discriminación, a consideración de las instancias, en otras áreas de los servicios de las propias Instituciones.
 
-### CAPÍTULO NOVENO. DE LA MEDIACIÓN POLICIAL
+### CAPÍTULO SEXTO. DE LA COMISIÓN DE HONOR Y JUSTICIA
 
 ###### Artículo 160.
 
@@ -2915,11 +3679,23 @@ III. Un representante de la unidad operativa de investigación, prevención o re
 
 El presidente y el representante serán designados por el titular de la dependencia.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 4 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 162.
 
-(DEROGADO, G.G. 20 DE SEPTIEMBRE DE 2018)
+Las sanciones disciplinarias son medidas previstas por la ley para el personal integrante de las Instituciones de Seguridad Pública que incurra en las conductas sancionadas por el régimen disciplinario o en el incumplimiento de sus obligaciones. Las sanciones aplicables serán proporcionales a la gravedad de la falta y consistirán en:
 
-### CAPÍTULO ÚNICO
+I. Suspensión del ejercicio de sus funciones sin goce de sueldo hasta por treinta días, para faltas no graves;
+
+II. Acción de reparación del daño, cuando proceda, en función del perjuicio causado, o
+
+III. Remoción, para las faltas graves que impliquen una afectación sustancial al servicio, violaciones graves a derechos humanos o pérdida de confianza institucional.
+
+En la imposición de sanciones se deberá tomar en cuenta el impacto en el servicio, grado de dolo o negligencia, y reincidencia. Asimismo, se deberán respetar los principios de legalidad, proporcionalidad, debido proceso y presunción de inocencia, y será independiente de las responsabilidades civiles, penales o administrativas que pudieran derivarse.
+
+### CAPÍTULO SÉPTIMO. DEL PROCEDIMIENTO
+
+> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 163.
 
@@ -2963,9 +3739,11 @@ VI. Que podrá comparecer por sí o apoderado legal; y
 
 VII. El nombre, cargo y firma autógrafa de las autoridades que lo emiten.
 
-###### Artículo 169.
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
-El citatorio a garantía de audiencia deberá ser notificado personalmente al interesado, por lo menos con cuarenta y ocho horas de anticipación a la fecha señalada para su desahogo, a efecto de que prepare su defensa.
+###### Articulo 169.
+
+El citatorio a garantía de audiencia deberá ser notificado personalmente al interesado, por lo menos con cinco días y máximo quince días hábiles de anticipación a la fecha señalada para su desahogo, a efecto de que prepare su defensa.
 
 ###### Artículo 170.
 
@@ -3055,23 +3833,21 @@ IV. La reincidencia en el incumplimiento de obligaciones, en su caso.
 
 La Comisión de Honor y Justicia ordenará la notificación al servidor público de la resolución correspondiente, conforme a lo establecido en el Código de Procedimientos Administrativos del Estado de México.
 
-> <small>(ADICIONADO, G.G. 25 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 179 Bis.
 
-Las facultades de las autoridades y órganos competentes para imponer las sanciones que establece esta Ley, se sujetarán a lo siguiente:
+La prescripción extingue la facultad de la autoridad competente para imponer sanciones disciplinarias y comenzará a computarse a partir del día siguiente a aquel en que se haya cometido la infracción, o desde que haya cesado su comisión si esta fuera de carácter continuo.
 
-I. Prescribirán en tres años si la sanción a imponer al elemento policial es de amonestación pública, amonestación privada, arresto o separación temporal del servicio.
+Los plazos de prescripción serán los siguientes:
 
-II. Prescribirán en cinco años, si la sanción a imponer es de separación, remoción, baja, cese o cualquier otra forma de terminación del servicio de los elementos policiales.
+I. Tres años, tratándose de conductas clasificadas como no graves conforme a la normativa aplicable, o
 
-Cuando los actos u omisiones fuesen graves los plazos de prescripción serán de siete años. El plazo de prescripción se contará a partir del día siguiente a aquél en que se hubiera incurrido en la responsabilidad o a partir del momento en que hubiese cesado, si fue de carácter continuo.
+II. Siete años, tratándose de conductas clasificadas como graves.
 
-La prescripción se interrumpirá por cada trámite que las autoridades realicen y le sea notificado al presunto responsable.
+La prescripción se interrumpirá por cualquier actuación de la autoridad encaminada a investigar, sustanciar o resolver el procedimiento disciplinario, siempre que dicha actuación sea formalmente notificada a la persona sujeta al procedimiento.
 
 En todo momento las autoridades y órganos competentes para imponer las sanciones que establece la presente Ley podrán hacer valer la prescripción de oficio.
-
-> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
 Asimismo, la prescripción se interrumpirá durante la tramitación del proceso administrativo ante el Tribunal de Justicia Administrativa del Estado de México que se formule en contra de las resoluciones que se dicten en términos de la presente Ley. Para estos efectos, la interrupción del plazo de prescripción se inicia con la interposición de la demanda y concluye cuando se notifique a la autoridad administrativa el auto por el que se declara que ha causado ejecutoria la sentencia definitiva.
 
@@ -3097,9 +3873,9 @@ En aquellos juicios en que las instancias jurisdiccionales condenen al pago de h
 
 El pago previsto en el párrafo anterior se hará con base al tabulador vigente de la fecha en que se exhiba.
 
-### CAPÍTULO PRIMERO. DE LA UNIDAD DE ASUNTOS INTERNOS
+### CAPÍTULO OCTAVO. DEL RÉGIMEN DISCIPLINARIO
 
-> <small>(ADICIONADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 182.
 
@@ -3129,39 +3905,45 @@ La aplicación de las sanciones deberá registrarse en el expediente personal de
 
 La imposición de las sanciones que determinen las autoridades correspondientes se hará con independencia de las que correspondan por responsabilidad civil, penal o administrativa, en que incurran los integrantes de las Instituciones Policiales de conformidad con la legislación aplicable.
 
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 187.
 
-Por incumplimiento al régimen disciplinario a que se refiere este Capítulo y en atención a la gravedad de la infracción, se aplicarán los siguientes correctivos disciplinarios o sanciones:
+Por incumplimiento al régimen disciplinario a que se refiere este Capítulo y atendiendo de manera proporcional a la gravedad de la infracción, se aplicarán los siguientes correctivos disciplinarios:
 
-I. Amonestación pública;
+I. Amonestación verbal;
 
-II. Amonestación privada;
+II. Amonestación escrita;
 
-III. Arresto, hasta por treinta y seis horas; y
+III. Disculpa pública;
 
-IV. Suspensión temporal, hasta por quince días.
+IV. Trabajo en favor de la comunidad, o
 
-Las sanciones a que se refieren las fracciones I, II y III de este artículo serán impuestas por el jefe inmediato del servidor público infractor.
+V. Arresto, hasta por treinta y seis horas.
 
-Por lo que respecta a la sanción establecida en la fracción IV de este artículo, será impuesta por la Comisión de Honor y Justicia, previa tramitación del procedimiento administrativo correspondiente.
+Los correctivos disciplinarios señalados en este artículo serán impuestos por el jefe inmediato del servidor público infractor.
 
-La amonestación es el acto por el cual el jefe inmediato advierte al elemento policial, de manera pública o privada, la omisión o falta de cumplimiento de sus deberes, invitándolo a corregirse. La amonestación será de palabra y constará por escrito en un acta mínima que deberá ser remitida (sic) la Comisión de Honor y Justicia para su registro en la base de datos correspondiente y a la unidad administrativa para que se anexe al expediente personal del servidor público.
+Los correctivos disciplinarios son medidas impuestas de manera fundada y motivada por la persona superior jerárquica que ejerza el mando directo sobre personal que cometa faltas que, por su naturaleza, no ameriten sanción administrativa. Su aplicación debe ser legal, proporcional y necesaria, dejando registro documental del mismo.
+
+En caso de que la Unidad de Asuntos Internos detecte en flagrancia a la persona servidora pública infractora de sus respectivas instituciones policiales, podrá imponerse los correctivos disciplinarios señalados en las fracciones I a V del presente artículo.
+
+La amonestación es el acto por el cual el jefe inmediato advierte al elemento policial, de manera verbal o escrita, la omisión o falta de cumplimiento de sus deberes, invitándolo a corregirse. La amonestación será de palabra o constará por escrito en un acta mínima que deberá ser remitida la Comisión de Honor y Justicia para su registro en la base de datos correspondiente y a la unidad administrativa para que se anexe al expediente personal del servidor público.
 
 El arresto es el impedimento del elemento policial para abandonar su centro de trabajo, por haber incurrido en faltas considerables o por haber acumulado cinco amonestaciones en un año calendario; en todo caso la orden de arresto deberá hacerse por escrito, especificando el motivo y la duración de la misma.
 
-La suspensión temporal será sin goce de sueldo, teniendo por objeto evitar afectar el proceso de investigación y permitir preservar los medios, cosas, objetos y personas, hasta la culminación y determinación de la responsabilidad que en su caso resulte.
+De igual forma y con independencia del correctivo disciplinario al que haya sido acreedor, el personal con correctivo disciplinario deberá acudir y participar en cursos, pláticas o programas de capacitación y profesionalización que se estimen relacionados con la naturaleza de la falta cometida.
+
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 188.
 
-Cuando se desprenda la existencia de actos u omisiones que puedan ser constitutivos de hechos delictuosos, las Comisiones de Justicia procederán de inmediato a hacerlo del conocimiento del ministerio público.
+Cuando se desprenda la existencia de actos u omisiones que puedan ser constitutivos de hechos delictuosos, la Comisión de Honor y Justicia, así como la Unidad de Asuntos Internos, procederán de inmediato a hacerlo del conocimiento del Ministerio Público.
 
 ###### Artículo 189.
 
 La imposición de las sanciones que determinen, en su caso, las Comisiones de Justicia, se hará con independencia de las que correspondan por responsabilidad civil, penal o administrativa, de conformidad con las leyes de la materia.
 
-### CAPÍTULO SEGUNDO. DEL CENTRO DE CONTROL DE CONFIANZA
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+### CAPÍTULO NOVENO. DE LA MEDIACIÓN POLICIAL
 
 ###### Artículo 190.
 
@@ -3209,9 +3991,7 @@ La información derivada de los procedimientos de mediación policial, será res
 
 ## TÍTULO OCTAVO. DE LA ADMINISTRACIÓN DE LOS FONDOS DE AYUDA FEDERAL
 
-### CAPÍTULO TERCERO. DE LA UNIVERSIDAD MEXIQUENSE DE SEGURIDAD
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+### CAPÍTULO ÚNICO
 
 ###### Artículo 199.
 
@@ -3233,21 +4013,41 @@ Las responsabilidades administrativas, civiles y penales en que incurran los ser
 
 El Órgano Superior de Fiscalización del Estado de México, supervisará la aplicación de los recursos estatales que se ejerzan por el Estado y por los Municipios en materia de seguridad pública, en los términos de la legislación aplicable.
 
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+###### Artículo 203 Bis.
+
+Para efectos de comprobación, validación y ejercicio de recursos Federales y estatales destinados a la capacitación, profesionalización, certificación y fortalecimiento institucional en materia de seguridad pública, solo se reconocerán aquellos procesos impartidos por la Universidad o validados por ésta.
+
+El incumplimiento será causa de no comprobación de recursos, observaciones administrativas y aplicación de medidas correctivas, por parte del Sistema Estatal.
+
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
 ## TÍTULO NOVENO. DE LOS ORGANISMOS DESCENTRALIZADOS DE LA SECRETARÍA DE SEGURIDAD
 
 > <small>(ADICIONADO CON LAS SECCIONES QUE LO INTEGRAN [N. DE E. REFORMADO], G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
+### CAPÍTULO PRIMERO. DE LA UNIDAD DE ASUNTOS INTERNOS
+
+> <small>(ADICIONADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 204.
 
-Se crea el organismo público descentralizado denominado Unidad de Asuntos Internos, con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría, el cual tiene por objeto supervisar y vigilar que los integrantes de la Secretaría, cumplan con los deberes y normas establecidas en los ordenamientos legales y disposiciones que rigen su actuación, integrando el expediente correspondiente y remitiéndolo a la Comisión de Honor y Justicia para los efectos conducentes; su organización y funcionamiento se regirá por lo dispuesto en esta Ley y en su Reglamento Interior, así como en los demás ordenamientos aplicables.
+Se crea el organismo público descentralizado denominado Unidad de Asuntos Internos, con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría el cual tiene por objeto la supervisión, verificación, vigilancia e investigación de los servicios y del cumplimiento normativo de conductas sancionables realizadas por los integrantes de la Secretaría, a fin de que cumplan con los deberes y normas establecidas en los ordenamientos legales y disposiciones que rigen su actuación.
+
+> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
 Los municipios establecerán instancias colegiadas encargadas de supervisar y vigilar que los integrantes sus instituciones policiales, cumplan con los deberes y normas establecidas en los ordenamientos legales y disposiciones que rigen su actuación, observando lo dispuesto en el presente capítulo.
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+###### Artículo 204 Bis.
+
+La organización, estructura y funcionamiento de la Unidad de Asuntos Internos de la Secretaría, se regirá por lo dispuesto en esta Ley y en su Reglamento Interior, así como en los demás ordenamientos aplicables.
 
 > <small>(ADICIONADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
@@ -3259,43 +4059,77 @@ Los municipios establecerán instancias colegiadas encargadas de supervisar y vi
 
 La Unidad de Asuntos Internos tendrá las siguientes atribuciones:
 
-I. Instrumentar y actualizar procedimientos de inspección e investigación para detectar deficiencias, irregularidades o faltas en la aplicación de procesos en las distintas áreas de la Secretaría y en el cumplimiento de las obligaciones de sus Integrantes;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-II. Conocer de quejas y denuncias, incluso anónimas, con motivo de faltas administrativas o infracciones disciplinarias cometidas por los Integrantes de la Secretaría, preservando, en su caso, la reserva de las actuaciones, en caso de que se identifique el denunciante, deberá de oficio poner a su disposición el resultado de la investigación;
+I. Instrumentar y actualizar procedimientos de supervisión, verificación, vigilancia e investigación para detectar deficiencias, irregularidades o faltas en la aplicación de procesos en las distintas áreas de la Secretaría y en el cumplimiento de las obligaciones de sus Integrantes con servicio profesional de carrera;
 
-III. Llevar a cabo las investigaciones necesarias y remitir oportunamente el expediente de la investigación realizada ante las instancias competentes, a fin de que se determine lo que en derecho resulte procedente, solicitando, en su caso, que se resguarde la identidad del denunciante, conforme a las disposiciones aplicables;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-IV. Coordinar la vigilancia a los Integrantes de la Secretaría en el cumplimiento de sus deberes y la observancia a las normas establecidas en los ordenamientos legales aplicables y demás disposiciones que rigen su actuación;
+II. Conocer de quejas y denuncias, incluso anónimas, con motivo de faltas administrativas o infracciones disciplinarias y/o delitos cometidos por integrantes de la Secretaría, con servicio profesional de carrera, preservando, en su caso, la reserva de las actuaciones, en caso de que se identifique el denunciante, deberá de oficio poner a su disposición el resultado de la investigación, para el caso de que se trate de denuncias de hechos probablemente constitutivos de delito, inmediatamente se hará del conocimiento al Ministerio Público;
 
-V. Ordenar la práctica de investigaciones por supuestas anomalías de la conducta de los Integrantes de la Secretaría, que pueda implicar inobservancia de sus deberes, ya sea por denuncia o de oficio;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-VI. Dictar las medidas precautorias que resulten necesarias para el éxito de la investigación;
+III. Llevar a cabo las investigaciones necesarias y de proceder iniciar el procedimiento administrativo y garantía de audiencia correspondiente, la cual una vez concluido será remitido a la Comisión de Honor y Justicia, para que este Órgano Colegiado emita la Resolución correspondiente.
+
+Si de la supervisión, verificación, vigilancia e investigación, se desprenden conductas de competencia de otra autoridad, se remitirá oportunamente el expediente administrativo ante las instancias competentes, a fin de que se determine lo que en derecho resulte procedente, solicitando, en su caso, que se resguarde la identidad del denunciante, conforme a las disposiciones aplicables;
+
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+IV. Coordinar la vigilancia a los Integrantes de la Secretaría con servicio profesional de carrera, en el cumplimiento de sus obligaciones y deberes, así como en la observancia a las normas establecidas en los ordenamientos legales aplicables y demás disposiciones que rigen su actuación;
+
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+V. Ordenar la práctica de la supervisión, verificación, vigilancia e investigaciones por supuestas anomalías de la conducta de los Integrantes de la Secretaría, con servicio profesional de carrera que pueda implicar inobservancia de sus deberes, ya sea por denuncia o de oficio;
+
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+VI. Dictar las medidas precautorias y medidas cautelares que resulten necesarias para el éxito de la investigación;
 
 VII. Participar con las autoridades competentes en el seguimiento y vigilancia de los procedimientos de responsabilidades y, en su caso, en el cumplimiento de las sanciones impuestas;
 
-VIII. Solicitar información y documentación a las áreas de la Secretaría y demás autoridades que auxilien en la investigación de que se trate, para el cumplimiento de sus fines, así como levantar las actas administrativas a que haya lugar;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+VIII. Solicitar información, documentación y todos aquellos medios electrónicos, tecnológicos y magnéticos necesarios, a las diversas áreas de la Secretaría y demás autoridades que auxilien en la investigación de que se trate, para el cumplimiento de sus fines, así como levantar las actas administrativas a que haya lugar;
 
 IX. Dar vista al Órgano Interno de Control de los hechos en que se desprendan presuntas infracciones administrativas cometidas dentro del servicio cuando así proceda, en los términos de la Ley de Responsabilidades Administrativas del Estado de México y Municipios;
 
-X. Coordinar y realizar acciones específicas, así como de usuarios simulados, que aseguren la obtención y el análisis de información en el desarrollo de las investigaciones sobre las faltas a los deberes denunciados;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-XI. Solicitar a la Comisión de Honor y Justicia, mediante escrito fundado y motivado, el inicio del procedimiento correspondiente por incumplimiento a los requisitos de permanencia o por infracción al régimen disciplinario, remitiendo para ello el expediente de investigación respectivo;
+X. Coordinar y realizar acciones específicas, que regulen la obtención y el análisis de información en el desarrollo de la supervisión, verificación, vigilancia e investigación sobre las faltas a los deberes denunciados;
+
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XI. Remitir a la Comisión de Honor y Justicia el procedimiento administrativo iniciado por incumplimiento a los requisitos de permanencia o por infracción al régimen disciplinario, mediante escrito con el fin de que sea ese órgano colegiado quien emita la resolución correspondiente;
 
 XII. Intervenir ante la Comisión de Honor y Justicia durante los procedimientos disciplinarios, y en su caso, impugnar las resoluciones favorables a los Integrantes cuya acusación derive de las investigaciones realizadas por la Unidad de Asuntos Internos;
 
-XIII. Acordar, de manera fundada y motivada, la improcedencia o reserva de expedientes de investigaciones disciplinarias, cuando derivado de sus investigaciones no se desprendan elementos suficientes que permitan determinar la probable responsabilidad del Integrante de la Secretaría o, en su caso, de aquellos expedientes que se integren por incumplimiento de los requisitos de ingreso o permanencia;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-XIV. Formular las denuncias cuando de las investigaciones practicadas se derive la probable comisión de un delito cometido por Integrantes de la Secretaría, informando de inmediato a las autoridades competentes;
+XIII. Acordar, de manera fundada y motivada, el archivo, la improcedencia o reserva de expedientes de investigaciones disciplinarias, cuando derivado de sus investigaciones no se desprendan elementos suficientes que permitan determinar la probable responsabilidad del Integrante de la Secretaría o, en su caso, de aquellos expedientes que se integren por incumplimiento de los requisitos de ingreso o permanencia;
 
-XV. Ordenar las inspecciones que permitan verificar el cumplimiento a los programas en materia de seguridad pública y política criminal;
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XIII Bis. Acordar de manera fundada y motivada, la improcedencia de apertura un expediente de investigación, por no contar con suficientes indicios o elementos que permitan identificar la probable responsabilidad del Integrante de la Secretaría;
+
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XIV. Formular las denuncias cuando de la supervisión, verificación, vigilancia e investigación practicadas se derive la probable comisión de un delito cometido por Integrantes de la Secretaría, informando de inmediato a las autoridades competentes;
+
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XV. Ordenar la supervisión, verificación, vigilancia e investigación que permitan verificar el cumplimiento a los programas en materia de seguridad pública y política criminal;
 
 XVI. Realizar labores de prevención con el fin de identificar la comisión de ilícitos y faltas administrativas, mediante los esquemas táctico, técnico y operativos que se llegare a instrumentar;
 
 XVII. Solicitar a la Comisión de Honor y Justica, la aplicación de medidas precautorias consistentes en la suspensión temporal del Integrante que se encuentre involucrado en la comisión de ilícitos o faltas administrativas, en las que por la naturaleza de las mismas, y la afectación operativa que representaría para la Secretaría, requieran la acción que impida su continuación;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.G. 4 DE FEBRERO DE 2026)</small>
+
 XVIII. Mantener relaciones con instituciones similares nacionales e internacionales, con objeto de intercambiar información tendiente a optimizar sus atribuciones, y
 
-XIX. Las demás que establezcan la normatividad aplicable en la materia y las que determinen la o el Gobernador y la o el Secretario de Seguridad.
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XIX. Las demás que establezcan la normatividad aplicable en la materia y las que determinen la persona Titular del Poder Ejecutivo del Estado y la o el Secretario de Seguridad.
 
 > <small>(ADICIONADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
@@ -3415,19 +4249,31 @@ III. Administrar y representar legalmente a la Unidad de Asuntos Internos ante l
 
 IV. Delegar la representación jurídica de la Unidad de Asuntos Internos en los juicios, procedimientos y demás actos en los que éste sea parte, informando de ello al Secretario;
 
-V. Verificar que los servidores públicos encargados de ejecutar operaciones encubiertas y de usuarios simulados se conduzcan con estricto apego a la normatividad aplicable en la materia, salvaguardando en todo momento la secrecía de la información;
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.G. 4 DE FEBRERO DE 2026)</small>
 
-VI. Ordenar, programar y practicar visitas de inspección y supervisión a las unidades administrativas de la Secretaría, a fin de verificar el cumplimiento de la normatividad, obligaciones de los servidores públicos, el apego a los principios éticos de la misma, y así como el estricto cumplimiento de los protocolos de actuación y demás disposiciones normativas, que puedan implicar inobservancia de sus deberes;
+V. Verificar que los servidores públicos encargados de ejecutar operaciones encubiertas se conduzcan con estricto apego a la normatividad aplicable en la materia, salvaguardando en todo momento la secrecía de la información;
 
-VII. Actualizar e instrumentar los procedimientos de inspección e investigación;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-VIII. Efectuar los programas de trabajo, calendarización, programación, planificación de operativos, acciones y técnicas de verificación, para el cumplimiento de sus fines, así como para detectar anomalías de los servidores públicos;
+VI. Ordenar, programar y practicar la supervisión, verificación, vigilancia e investigación a las unidades administrativas de la Secretaría, a fin de garantizar el cumplimiento de la normatividad, obligaciones de los servidores públicos, el apego a los principios éticos de la misma, y así como el estricto cumplimiento de los protocolos de actuación y demás disposiciones normativas, que puedan implicar inobservancia de sus deberes;
 
-IX. Ordenar las técnicas de verificación, quienes les harán de su conocimiento el resultado de las mismas a través del acta administrativa o del informe correspondiente;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+VII. Actualizar e instrumentar los procedimientos de supervisión, verificación, vigilancia e investigación;
+
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+VIII. Efectuar los programas de trabajo, calendarización, programación, planificación de operativos, acciones y técnicas de supervisión, verificación, vigilancia e investigación, para el cumplimiento de sus fines, así como para detectar anomalías de los servidores públicos;
+
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+IX. Ordenar las técnicas de supervisión, verificación, vigilancia e investigación y derivado de estas, se harán de su conocimiento el resultado a través del acta administrativa o del informe correspondiente;
 
 X. Verificar el cumplimiento de las obligaciones de los servidores públicos que puedan implicar inobservancia de sus deberes;
 
-XI. Expedir los reglamentos, lineamientos, manuales, normas, ordenamientos, políticas, criterios, estrategias, programas, disposiciones y procedimientos, incluyendo lo relativo a las técnicas de verificación para el cumplimiento del objeto, en los que se deberán incluir la perspectiva de género, previa validación de la Unidad de Asuntos Jurídicos de la Secretaría;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XI. Expedir los reglamentos, lineamientos, manuales, normas, ordenamientos, políticas, criterios, estrategias, programas, disposiciones y procedimientos, incluyendo lo relativo a las técnicas de supervisión, verificación, vigilancia e investigación, para el cumplimiento del objeto, en los que se deberán incluir la perspectiva de género, previa validación de la Unidad de Asuntos Jurídicos de la Secretaría;
 
 XII. Suscribir los convenios e instrumentos jurídicos necesarios que se requieran para el ejercicio de sus funciones; previa validación de la Unidad de Asuntos Jurídicos de la Secretaría;
 
@@ -3435,9 +4281,13 @@ XIII. Establecer mecanismos de coordinación con las dependencias y organismos, 
 
 XIV. Proporcionar a las autoridades competentes los informes que le sean requeridos;
 
-XV. Aprobar y someter a consideración del Secretario los nombramientos de los titulares de las unidades administrativas a su cargo, de conformidad con las políticas, lineamientos y demás disposiciones que al efecto se establezcan;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-XVI. Comisionar a sus subordinados para llevar a cabo las técnicas de verificación, quienes le harán de su conocimiento el resultado de las mismas a través del acta administrativa o del informe correspondiente;
+XV. Aprobar y someter a consideración de la persona titular de la Secretaría los nombramientos de las personas titulares de las unidades administrativas a su cargo, de conformidad con las políticas, lineamientos y demás disposiciones que al efecto se establezcan;
+
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XVI. Comisionar a sus subordinados para llevar a cabo las técnicas de supervisión, verificación, vigilancia e investigación, quienes le harán de su conocimiento el resultado de las mismas a través del acta administrativa o del informe correspondiente;
 
 XVII. Integrar, operar y mantener actualizada la base de datos de sanciones administrativas en que incurran los servidores públicos, la que se pondrá a disposición del Sistema Estatal de Seguridad Pública;
 
@@ -3453,35 +4303,55 @@ XXII. Vigilar el buen funcionamiento, organizar al personal a su cargo para la r
 
 XXIII. Dar el visto bueno al proyecto de resolución del procedimiento instaurado en contra de los servidores públicos y verificar su cumplimento;
 
-XXIV. Dictar las medidas precautorias necesarias e informar, por escrito, al superior inmediato del servidor público para su cumplimiento;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-XXV. Informar, por escrito al superior inmediato del Servidor Público sobre las medidas precautorias necesarias para su cumplimiento;
+XXIV. Dictar las medidas precautorias y/o cautelares necesarias e informar, por escrito, al superior inmediato del servidor público para su cumplimiento;
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XXIV Bis. Iniciar el procedimiento administrativo respectivo, mediante la citación (sic) los servidores públicos presuntos responsables a su garantía de audiencia;
+
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XXV. Informar, por escrito al superior inmediato del Servidor Público sobre las medidas precautorias o cautelares, dictadas a fin de que se les de su cumplimiento;
 
 XXVI. Conocer sobre la sustanciación del procedimiento administrativo respectivo;
 
-XXVII. Sistematizar la información recabada de las investigaciones para sus determinaciones;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XXVII. Sistematizar la información recabada de la supervisión, verificación, vigilancia e investigación para sus determinaciones;
 
 XXVIII. Citar a las personas que puedan aportar algún dato necesario para una investigación o a los servidores públicos sometidos a la misma;
 
-XXIX. Llevar acabo las acciones que estime pertinentes para el éxito de la investigación;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XXIX. Llevar a cabo las acciones que estime pertinentes para el éxito de la supervisión, verificación, vigilancia e investigación;
 
 XXX. Solicitar a las unidades administrativas de la Secretaría o bien a las autoridades competentes la información necesaria para el ejercicio de sus funciones;
 
 XXXI. Recibir y desahogar las peticiones inherentes al ejercicio de sus atribuciones, así como a las sugerencias sobre el trámite y el mejoramiento de los servicios a su cargo;
 
-XXXII. Informar al Secretario cuando de las investigaciones practicadas se derive sobre la probable comisión de algún delito por parte de los servidores públicos, formulando la denuncia respectiva;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-XXXIII. Emitir recomendaciones y observaciones, con motivo de las conductas irregulares que se detecten y derivado de los procedimientos realizados;
+XXXII. Informar a la persona titular de la Secretaría cuando de la supervisión, verificación, vigilancia e investigación practicadas que se derive sobre la probable comisión de algún delito por parte de los servidores públicos, formulando la denuncia respectiva;
 
-XXXIV. Dirigir e impulsar las acciones de capacitación, actualización y profesionalización, en las que se deberá incluir la perspectiva de género, que permita el desarrollo del potencial intelectual, ético y humano de las o los servidores públicos adscritos a la Unidad de Asuntos Internos; y
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 4 DE FEBRERO DE 2026)</small>
 
-XXXV. Las demás que le confieran otras disposiciones legales y administrativas, y aquellas que le encomiende el Secretario.
+XXXIII. Informar a la persona titular de la Secretaría cuando, de la supervisión, verificación, vigilancia e investigación, practicadas que se derive de la probable comisión de algún delito por parte de los servidores públicos, formulando la denuncia respectiva;
 
-> <small>(REFORMADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XXXIV. Emitir recomendaciones y observaciones, con motivo de las conductas irregulares que se detecten y derivado de los procedimientos realizados;
+
+XXXV. Dirigir e impulsar las acciones de capacitación, actualización y profesionalización, en las que se deberá incluir la perspectiva de género, que permita el desarrollo del potencial intelectual, ético y humano de las o los servidores públicos adscritos a la Unidad de Asuntos Internos; y
+
+XXXVI. Las demás que le confieran otras disposiciones legales y administrativas, y aquellas que le encomiende el Secretario.
+
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 210.
 
-Para el cumplimiento de sus atribuciones, el Titular de la Unidad de Asuntos Internos se auxiliará en el despacho de los asuntos de su competencia de las o los Directores, Subdirectores, Jefes de Departamento y demás servidores públicos, conforme a lo dispuesto en su Reglamento Interior, en el Manual General de Organización de la Unidad y a la disponibilidad presupuestal.
+Para el cumplimiento de sus atribuciones, el Titular de la Unidad de Asuntos Internos se auxiliará en el despacho de los asuntos de su competencia de las personas titulares de las Direcciones, Direcciones Generales, Subdirecciones, Jefaturas de Departamento y demás personas servidoras públicas, conforme a lo dispuesto en su Reglamento Interior, en el Manual General de Organización de la Unidad y a la disponibilidad presupuestal.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
@@ -3579,6 +4449,10 @@ Los servidores públicos adscritos a la Unidad de Asuntos Internos, sin excepci�
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
+### CAPÍTULO SEGUNDO. DEL CENTRO DE CONTROL DE CONFIANZA
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
@@ -3589,21 +4463,23 @@ El Centro es un organismo público descentralizado, con personalidad jurídica y
 
 La organización y funcionamiento del Centro se establecerá en su Reglamento Interior.
 
-> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 223.
 
-El Centro, tiene por objeto realizar las evaluaciones permanentes, de control de confianza, de desempeño, poligrafía, entorno social y psicológico, así como exámenes toxicológicos a las o los aspirantes y a las o los integrantes de las Instituciones de Seguridad Pública y privada, estatal y municipal a fin de emitir, en su caso, la certificación correspondiente.
+El Centro, tiene por objeto realizar las evaluaciones permanentes, de control de confianza de poligrafía, entorno social, psicológica, médicas, así como exámenes toxicológicos a las o los aspirantes y a las o los integrantes de las Instituciones de Seguridad Pública y Privada, Estatal y Municipal a fin de emitir, en su caso, la certificación correspondiente.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
 #### SECCIÓN SEGUNDA. DE LAS ATRIBUCIONES DEL CENTRO
 
-> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 224.
 
-El Centro a través de su Consejo, planeará, diseñará y propondrá a la o al Secretario, los distintos procedimientos, manuales, normas, exámenes y controles que aplicará. De igual modo, practicará las evaluaciones permanentes, de control de confianza, de desempeño y las demás que se consideren necesarias para la calificación y certificación del personal de las instituciones de seguridad pública.
+El Centro a través de su Consejo, planeará, diseñará y propondrá a la o al Secretario, los distintos procedimientos, manuales, normas, exámenes y controles que aplicará. De igual modo, practicará las evaluaciones permanentes, de control de confianza y las demás que se consideren necesarias para la evaluación y certificación del personal de las Instituciones de Seguridad Pública.
+
+> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
 El Centro integrará el Sistema Nacional de Acreditación y Control de Confianza, y tendrá, por conducto de su Director General, las facultades que le confiere la Ley General del Sistema Nacional de Seguridad Pública.
 
@@ -3785,67 +4661,105 @@ El Consejo Directivo, podrá decretar la modificación de la estructura orgánic
 
 Siempre que las modificaciones afecten la estructura orgánica o presupuestal del Centro, se estará a lo dispuesto en la Ley para la Coordinación y Control de Organismos Auxiliares del Estado de México.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 4 DE FEBRERO DE 2026)</small>
 
-#### SECCIÓN CUARTA. DEL DIRECTOR GENERAL DEL CENTRO DE CONTROL DE CONFIANZA
+#### SECCIÓN CUARTA. DE LA PERSONA TITULAR DE LA DIRECCIÓN GENERAL DEL CENTRO DE CONTROL DE CONFIANZA
 
-> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 232.
 
-La administración del Centro estará a cargo de un Director General, quien será nombrado y removido por el Gobernador del Estado, a propuesta del Presidente del Consejo Directivo.
+La administración del Centro estará a cargo de la persona Titular de la Dirección General, quien será nombrada y removida por la persona Titular del Poder Ejecutivo del Estado, a propuesta de la o el Presidente del Consejo Directivo.
 
-En los casos de ausencias temporales, será sustituido por quien designe el Consejo Directivo y en las ausencias definitivas por quien designe el Gobernador del Estado en los términos del párrafo anterior.
+En los casos de ausencias temporales, será sustituida por quien designe el Consejo Directivo y en las ausencias definitivas por quien designe la persona Titular del Poder Ejecutivo del Estado en los términos del párrafo anterior.
 
-> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 233.
 
-Para ser Titular de la Dirección General se requiere:
+Para ser la persona Titular de la Dirección General se requiere:
 
-I. Ser ciudadano mexicano en pleno goce de sus derechos;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+I. Ser ciudadana mexicana y estar en pleno goce de sus derechos civiles y políticos;
+
+> <small>(ADICIONADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
 II. Tener más de treinta años de edad;
 
+> <small>(ADICIONADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
 III. Tener título profesional de Licenciatura en Derecho o equivalente, debidamente registrado;
+
+> <small>(ADICIONADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
 IV. Contar con experiencia probada en materia de Procuración y Administración de Justicia o Seguridad Pública o Penitenciaria;
 
-V. Someterse a los exámenes de control de confianza; y
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+V. Someterse y aprobar las evaluaciones de control de confianza; y
+
+> <small>(ADICIONADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
 VI. Ser de reconocida probidad.
 
-> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 234.
 
-El Director General tendrá las atribuciones siguientes:
+La persona Titular de la Dirección General tendrá las atribuciones siguientes:
 
-I. Representar legalmente al Centro, con las facultades de un apoderado general para pleitos y cobranzas; actos de administración y para actos de dominio, con todas las facultades que requieran cláusula especial conforme a las disposiciones en la materia y sustituir y delegar esta representación en uno o más apoderados para que las ejerzan individual o conjuntamente. Para actos de dominio requerirá de la autorización expresa de la Secretaría de Finanzas;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-II. Planear, proponer y operar las políticas de control de confianza de los servidores públicos de las instituciones de seguridad pública, resguardando la confidencialidad de la información y el respeto a la intimidad del individuo y sus derechos humanos;
+I. Representar legalmente al Centro, con las facultades de una persona apoderada general para pleitos y cobranzas; actos de administración y para actos de dominio, con todas las facultades que requieran cláusula especial conforme a las disposiciones en la materia y sustituir y delegar esta representación en uno o más apoderados para que las ejerzan individual o conjuntamente. Para actos de dominio requerirá de la autorización expresa de la Secretaría de Finanzas;
+
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+II. Planear, proponer y operar las políticas de control de confianza de las personas servidoras públicas de las instituciones de seguridad pública, resguardando la confidencialidad de la información y el respeto a la intimidad del individuo y sus derechos humanos;
+
+> <small>(ADICIONADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
 III. Proponer al Secretario, las normas técnicas que rijan los procesos de evaluación del Centro;
 
+> <small>(ADICIONADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
 IV. Formular las políticas y los esfuerzos institucionales en materia de control de confianza;
+
+> <small>(ADICIONADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
 V. Diseñar y establecer lineamientos técnicos de evaluación, así como dirigir y coordinar los procesos a que deberán someterse los aspirantes para ingresar a las instituciones de seguridad pública, en forma periódica y extraordinaria;
 
+> <small>(ADICIONADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
 VI. Informar al Consejo, sobre los resultados de las evaluaciones que se practiquen, para el ingreso, reingreso, promoción y permanencia en las instituciones de seguridad pública;
 
-VII. Realizar, en coordinación con las unidades administrativas competentes, el seguimiento individual de los servidores públicos e identificar factores de riesgo dentro de su desarrollo que repercutan en el desempeño óptimo de sus funciones, así como ubicar áreas de oportunidad para establecer programas de prevención y atención para solucionar la problemática detectada;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-VIII. Resguardar los expedientes que se integren durante los procesos de evaluación, mismos que serán confidenciales, con excepción de aquellos casos en que sean requeridos en procedimientos administrativos o judiciales;
+VII. Realizar, en coordinación con las unidades administrativas competentes, el seguimiento individual de las personas servidoras públicas e identificar factores de riesgo dentro de su desarrollo que repercutan en el desempeño óptimo de sus funciones, así como ubicar áreas de oportunidad para establecer programas de prevención y atención para solucionar la problemática detectada;
+
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+VIII. Resguardar los expedientes que se integren durante los procesos de evaluación, mismos que serán confidenciales, con excepción de aquellos casos en que sean requeridos en procedimientos administrativos o judiciales, manteniéndolos en reserva en los términos de las disposiciones aplicables;
+
+> <small>(ADICIONADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
 IX. Ejecutar los acuerdos emanados del Consejo Directivo;
 
+> <small>(ADICIONADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
 X. Rendir el último día hábil del mes de enero de cada año, un informe de actividades del Centro al Consejo Directivo;
+
+> <small>(ADICIONADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
 XI. Proporcionar al Centro Nacional de Información, los datos contenidos en los expedientes que se integren durante los procesos de evaluación, que le sean solicitados para su incorporación al Registro Nacional del Personal de Seguridad Pública, preservando en todo momento su confidencialidad y resguardando la información que no resulte relevante para efectos del Registro Nacional;
 
+> <small>(ADICIONADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
 XII. Ejecutar en lo conducente, los acuerdos y lineamientos que emitan las Conferencias Nacionales de Procuración de Justicia, de Secretarios de Seguridad Pública o sus equivalentes, del Sistema Penitenciario y de Seguridad Pública Municipal, respectivamente, así como los Consejos locales e instancias regionales y el Secretario Ejecutivo del Sistema Nacional de Seguridad Pública; deberá informar de ello el Secretario y al Consejo Directivo; y
 
-XIII. Las demás que le confieran otras disposiciones, las que determine el Consejo Directivo dentro del ámbito de su competencia o las que asigne el Secretario.
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XIII. Las demás que le confieran otras disposiciones, las que determine el Consejo Directivo dentro del ámbito de su competencia o las que le asigne la persona titular de la Secretaría.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
@@ -3883,87 +4797,99 @@ El Centro remitirá a la Secretaría de Finanzas en los términos y tiempos que 
 
 #### SECCIÓN SEXTA. DEL PERSONAL DEL CENTRO DE CONTROL DE CONFIANZA
 
-> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 237.
 
-Para el cumplimiento de su objeto, el Centro, contará con servidores públicos generales y de confianza, en los términos de la Ley del Trabajo de los Servidores Públicos del Estado y Municipios.
+Para el cumplimiento de su objeto, el Centro, contará con personas servidoras públicas generales y de confianza, en los términos de la Ley del Trabajo de los Servidores Públicos del Estado y Municipios.
 
-> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 238.
 
-Las relaciones laborales entre el Centro y sus servidores públicos, se regirán por la Ley del Trabajo de los Servidores Públicos del Estado y Municipios.
+Las relaciones laborales entre el Centro y las personas servidoras públicas, se regirán por la Ley del Trabajo de los Servidores Públicos del Estado y Municipios.
 
-> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 239.
 
-Los servidores públicos del Centro quedarán sujetos al régimen de seguridad social que establece la Ley de Seguridad Social del Estado de México y Municipios.
+Las personas servidoras públicas del Centro quedarán sujetas al régimen de seguridad social que establece la Ley de Seguridad Social del Estado de México y Municipios.
 
-> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 240.
 
-El Centro deberá establecer y poner en operación programas, sistemas y procedimientos para la profesionalización de sus servidores públicos, a efecto de procurar la contratación de candidatos idóneos y la eficiencia y eficacia en la prestación de sus servicios.
+El Centro deberá establecer y poner en operación programas, sistemas y procedimientos para la profesionalización de sus personas servidoras públicas, a efecto de procurar la contratación de personas candidatas idóneas y la eficiencia y eficacia en la prestación de sus servicios.
 
-> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 241.
 
-Los servidores públicos del Centro, deberán cumplir los requisitos para su ingreso y permanencia en la institución, de conformidad con lo que establezcan las disposiciones aplicables en la materia.
+Las personas servidoras públicas del Centro, deberán cumplir los requisitos para su ingreso y permanencia en la institución, de conformidad con lo que establezcan las disposiciones aplicables en la materia.
 
-> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 242.
 
-El Centro emitirá los certificados correspondientes a los aspirantes y servidores públicos de las instituciones de seguridad pública que acrediten los requisitos de ingreso o permanencia que establezca el ordenamiento legal aplicable y las evaluaciones a que se refiere la presente Ley.
+El Centro emitirá el certificado individual correspondientes a las o los aspirantes y a las o los servidores públicos de las instituciones de seguridad pública que obtengan un resultado aprobatorio en las evaluaciones de control de confianza a que se refiere la presente Ley.
 
-> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 243.
 
-El certificado tendrá por objeto acreditar que el aspirante o servidor público es apto para ingresar o permanecer en la Institución de Seguridad Pública de que se trate y que cuenta con el perfil necesario para el desempeño de su cargo.
+El certificado individual tendrá por objeto comprobar que la persona aspirante o servidora pública es apta para ingresar o permanecer en la Institución de Seguridad Pública de que se trate y que cuenta con conocimientos, habilidades, aptitudes, competencias y el perfil necesario para el desempeño de su cargo.
 
-> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 244.
 
-El Centro está obligado a expedir o negar el certificado respectivo según sea el caso, en un plazo no mayor a sesenta días naturales contados a partir de la conclusión del proceso de certificación.
+El Centro deberá expedir o negar el certificado individual respectivo según sea el caso, en el plazo establecido para tal efecto por (sic) Ley General del Sistema Nacional de Seguridad Pública.
 
-> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 245.
 
-El certificado tendrá una vigencia de tres años. Los servidores públicos de las Instituciones de Seguridad Pública deberán someterse a los procesos de evaluación en los términos de la normatividad correspondiente, con seis meses de anticipación a la expiración de validez de su certificado, a fin de obtener su revalidación, lo cual constituye un requisito indispensable para su permanencia.
+El certificado individual tendrá una vigencia de tres años. Las personas servidoras públicas de las Instituciones de Seguridad Pública deberán someterse a los procesos de evaluación en los términos de la normatividad correspondiente, con seis meses de anticipación a la expiración de validez de su certificado individual, a fin de obtener su revalidación, lo cual constituye un requisito indispensable para su permanencia.
 
-> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 246.
 
-La cancelación del certificado de un servidor público de una Institución de Seguridad Pública procederá:
+La cancelación del certificado individual de una persona servidora pública de una Institución de Seguridad Pública procederá:
 
-I. Al ser separado de su cargo por no cumplir con alguno de los requisitos de ingreso o permanencia a que se refiere la presente Ley y demás disposiciones aplicables;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-II. Al ser removido de su cargo;
+I. Al ser separada de su cargo por no cumplir con alguno de los requisitos de ingreso o permanencia a que se refiere la presente Ley y demás disposiciones aplicables;
+
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+II. Al ser removida de su cargo;
+
+> <small>(ADICIONADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
 III. Por no obtener la revalidación correspondiente; y
 
+> <small>(ADICIONADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
 IV. Por las demás causas que establezcan las disposiciones aplicables.
 
-> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 247.
 
-La autoridad responsable de la separación, remoción, baja, cese, o cualquier otra forma de terminación del servicio, deberá notificar por escrito, fundado y motivado, a la o el Director General del Centro, dentro de los diez días hábiles siguientes al día en que haya sido ejecutada legalmente la determinación.
+La autoridad responsable de la separación, remoción, baja, cese, o cualquier otra forma de terminación del servicio, deberá notificar por escrito, fundado y motivado, a la persona Titular de la Dirección General del Centro, dentro de los diez días hábiles siguientes al día en que haya sido ejecutada legalmente la determinación.
 
-> <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 248.
 
-Todo lo relativo a la expedición, negativa, revalidación o cancelación de certificados, deberá inscribirse en el sistema de registro y control respectivo.
+Todo lo relativo a la expedición, negativa, revalidación o cancelación de certificados, deberá inscribirse en los registros y controles respectivos.
 
 > <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
+
+### CAPÍTULO TERCERO. DE LA UNIVERSIDAD MEXIQUENSE DE SEGURIDAD
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -3975,19 +4901,35 @@ La Universidad es un organismo público descentralizado, sectorizado a la Secret
 
 La organización y funcionamiento de la Universidad se establecerá en su Reglamento Interior.
 
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+La Universidad fungirá como órgano técnico rector en materia de formación, profesionalización y certificación en seguridad pública y privada, así como en materia de Procuración de Justicia, en el Estado de México. La Universidad será la única instancia autorizada para emitir lineamientos, criterios, homologaciones y certificaciones acordes con las disposiciones del Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública.
+
 > <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
 ###### Artículo 250.
 
 La Universidad tendrá por objeto:
 
-I. La formación y profesionalización especializada en seguridad pública, de las y los servidores públicos y de las o los aspirantes a ingresar a las Instituciones de Seguridad Pública o corporaciones de Seguridad Privada, con la finalidad de contribuir al perfeccionamiento de la seguridad pública o privada;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-II. Proporcionar educación superior en sus niveles de Licenciatura, Especialidad, Maestría y Doctorado con validez oficial para formar servidores públicos y aspirantes a ingresar a las Instituciones de Seguridad Pública o corporaciones de Seguridad Privada, con sentido humanístico y nacionalista, elevado compromiso social y aptos para generar y aplicar creativamente conocimientos en la solución de problemas;
+I. La formación y profesionalización especializada en seguridad pública, de las y los servidores públicos y de las o los aspirantes a ingresar a las Instituciones de Seguridad Pública Estatal y Municipal, Procuración de Justicia y corporaciones de Seguridad Privada, con la finalidad de contribuir al perfeccionamiento de la seguridad pública o privada;
 
-III. Establecer y ejecutar actividades de investigación en las áreas en las que ofrezca educación, atendiendo fundamentalmente los problemas estatales, regionales y nacionales, acorde con las necesidades de seguridad pública y justicia de la entidad; y
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-IV. Formar servidores públicos y aspirantes a ingresar a las Instituciones de Seguridad Pública o corporaciones de Seguridad Privada con actitud científica, creativos, espíritu emprendedor e innovador, orientados al logro y a la superación personal permanente, solidarios, sensibles a las realidades humanas, integrados efectivamente y comprometidos con el progreso del ser humano, del país y del Estado.
+II. Proporcionar educación superior en sus niveles de Licenciatura, Especialidad, Maestría y Doctorado con validez oficial para formar servidores públicos y aspirantes a ingresar a las Instituciones de Seguridad Pública Estatal y Municipal, Procuración de Justicia y corporaciones de Seguridad Privada, con sentido humanístico y nacionalista, elevado compromiso social y aptos para generar y aplicar creativamente conocimientos en la solución de problemas;
+
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+III. Establecer y ejecutar actividades de investigación en las áreas en las que ofrezca educación, atendiendo fundamentalmente los problemas estatales, regionales y nacionales, acorde con las necesidades de seguridad pública y justicia de la entidad;
+
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+IV. Formar servidores públicos y aspirantes a ingresar a las Instituciones de Seguridad Pública Estatal y Municipal, Procuración de Justicia y corporaciones de Seguridad Privada con actitud científica, creativos, espíritu emprendedor e innovador, orientados al logro y a la superación personal permanente, solidarios, sensibles a las realidades humanas, integrados efectivamente y comprometidos con el progreso del ser humano, del país y del Estado; y
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+V. Ser la instancia estatal responsable de diseñar, homologar, validar y certificar los procesos de formación, capacitación y profesionalización aplicables a instituciones de seguridad pública estatal y municipal, procuración de justicia y corporaciones de seguridad privada.
 
 > <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
@@ -4015,13 +4957,17 @@ La Universidad tendrá las siguientes atribuciones:
 
 I. Aplicar los procedimientos homologados del Sistema Nacional de Seguridad Pública;
 
-II. Capacitar en materia de investigación científica y técnica a los integrantes de las Instituciones de Seguridad Pública y Corporaciones de Seguridad Privada;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+II. Capacitar en materia de investigación científica y técnica a los integrantes de las Instituciones de Seguridad Pública, Procuración de Justicia y Corporaciones de Seguridad Privada;
 
 III. Proponer y desarrollar los programas de estudio e investigación académica en materia ministerial, pericial, policial y de seguridad pública, de conformidad con lo dispuesto en la Ley General, esta Ley y demás disposiciones aplicables;
 
 IV. Proponer las etapas, niveles de escolaridad y grados académicos de la profesionalización;
 
-V. Promover y prestar servicios educativos a las Instituciones de Seguridad Pública y Corporaciones de Seguridad Privada del Estado y Municipios;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+V. Promover y prestar servicios educativos a las Instituciones de Seguridad Pública, Procuración de Justicia y Corporaciones de Seguridad Privada del Estado y Municipios;
 
 VI. Impartir estudios educativos de nivel técnico, medio superior y superior en materia de seguridad pública, así como gestionar el reconocimiento de validez oficial ante las instancias competentes;
 
@@ -4035,7 +4981,9 @@ X. Revalidar equivalencias de estudios en el ámbito de su competencia;
 
 XI. Colaborar en el diseño y actualización de políticas y normas para el reclutamiento y selección de aspirantes y vigilar su aplicación;
 
-XII. Realizar los estudios para detectar las necesidades de capacitación y profesionalización de las y los servidores públicos y proponer los cursos correspondientes;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XII. Realizar los estudios para detectar las necesidades de capacitación y profesionalización de las y los servidores públicos de las Instituciones de Seguridad Pública, Procuración de Justicia y Corporaciones de Seguridad Privada a fin de proponer los cursos correspondientes;
 
 XIII. Proponer y en su caso, publicar las convocatorias para el ingreso a la Universidad;
 
@@ -4053,11 +5001,29 @@ XIX. Proponer la celebración de convenios con instituciones educativas nacional
 
 XX. Verificar que los aspirantes a formar parte de las Instituciones Policiales cumplan con el perfil aprobado por el Centro Nacional de Certificación y Acreditación;
 
-XXI. Practicar evaluaciones de habilidades, destrezas, actitudes, conocimientos generales y específicos a los servidores públicos de las Instituciones de Seguridad Pública o integrantes de Corporaciones de Seguridad Privada, sobre su desempeño, conforme a los perfiles aprobados por las autoridades competentes, así como expedir la constancia correspondiente para los efectos de su certificación;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-XXII. La Universidad aplicará las evaluaciones de oposición para el desarrollo de los servidores públicos de las Instituciones de Seguridad Pública o integrantes de Corporaciones de Seguridad Privada, los cuales se realizarán a través de exámenes escritos, orales, teóricos y prácticos; y
+XXI. Practicar evaluaciones de habilidades, destrezas, actitudes, conocimientos generales y específicos a los servidores públicos de las Instituciones de Seguridad Pública, Procuración de Justicia e integrantes de Corporaciones de Seguridad Privada, sobre su desempeño, conforme a los perfiles aprobados por las autoridades competentes, así como expedir la constancia correspondiente para los efectos de su certificación;
 
-XXIII. Las demás que se establezcan en esta Ley, su Reglamento Interior y demás disposiciones jurídicas aplicables.
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XXII. La Universidad aplicará las evaluaciones de oposición para el desarrollo de los servidores públicos de las Instituciones de Seguridad Pública, Procuración de Justicia e integrantes de Corporaciones de Seguridad Privada, los cuales se realizarán a través de exámenes escritos, orales, teóricos y prácticos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 4 DE FEBRERO DE 2026)</small>
+
+XXIII. Avalar planes, programas y contenidos, así como certificar instructores evaluaciones impartidas por personas físicas o morales, en materia de seguridad en el Estado;
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XXIV. Supervisar y auditar la calidad de los procesos de capacitación impartidos por terceros determinando la validez o invalidez de los mismos, para fines administrativos, operativos, de control de confianza o de permanencia, en materia de seguridad en el Estado;
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XXV. Integrar un Padrón Estatal de Instructores y Proveedores Homologados, cuya autorización dependerá de la certificación emitida por la Universidad; y
+
+> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XXIII], G.G. 4 DE FEBRERO DE 2026)</small>
+
+XXVI. Las demás que se establezcan en esta Ley, su Reglamento Interior y demás disposiciones jurídicas aplicables.
 
 > <small>(ADICIONADO, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
@@ -4244,6 +5210,42 @@ Las relaciones de trabajo entre la Universidad y sus servidores públicos, se re
 ###### Artículo 264.
 
 Los derechos y obligaciones de las y los alumnos, para el ingreso, permanencia, evaluación, becas e incentivos, se establecerán en las disposiciones legales, procurando preservar el principio de excelencia académica.
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+###### Artículo 264 Bis.
+
+Las Instituciones de Seguridad Pública del Estado y municipios, procuración de justicia y las corporaciones de seguridad privada, deberán coordinarse con la Universidad para la planificación anual de programas de profesionalización, la programación de cursos y la validación de necesidades operativas en materia de capacitación.
+
+La Universidad integrará el Programa Estatal de Profesionalización, que será de observancia obligatoria.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+### CAPÍTULO CUARTO. DEL CENTRO DE COMANDO Y CONTROL
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+###### Artículo 264 Ter.
+
+En la Entidad el Centro de Control Comando, Comunicación, Computo y Calidad, es la instalación de seguridad pública y atención de emergencia que integra tecnologías de videovigilancia, identificación vehicular, análisis de datos y coordinación operativa destinadas a la coordinación y supervisión operativa en tiempo real de las actividades de prevención, vigilancia y atención de emergencias, al que le corresponde lo siguiente:
+
+I. Centralizar el monitoreo de cámaras de videovigilancia, sistemas de comunicación y alertas ciudadanas, entre otras permitiendo la toma de decisiones inmediata para responder a situaciones de riesgo o incidencia delictiva, así como mejorar la capacidad de reacción ante emergencias y apoyar la investigación criminal, a través de la centralización de información y la colaboración interinstitucional entre instituciones de Seguridad Pública, de protección civil servicios médicos y dependencias de los tres órdenes de gobierno;
+
+II. Recibir las llamadas de la población sobre emergencias y denuncia anónima, registrarlas, derivarlas a las instancias de atención competentes y darles seguimiento en la atención de los eventos;
+
+III. Compartir y actualizar diariamente las bases de datos de su sistema de gestión de incidentes, sin importar el origen de apertura de cada folio, así como la información que generen en las líneas de atención de denuncia anónima, en el ámbito de su competencia, de manera él (sic) desagregada, conforme a la normativa que se emita para tal efecto;
+
+IV. Cumplir con las bases mínimas de la información a cargo, procurando su homologación, para que los datos que se tengan en estos se mantengan exactos, completos, correctos y actualizados;
+
+V. Garantizar la compatibilidad de los servicios de la red pública de telecomunicaciones local, la homologación de los sistemas de gestión de incidentes, de los sistemas de videovigilancia urbana de integración con el Sistema Nacional de Información;
+
+VI. Reportar al Centro Nacional de Inteligencia de forma directa y en calidad de urgente cuando se tenga información relevante sucedan hechos a circunstancias criminales que ameriten su conocimiento y la toma inmediata de decisiones, a través de los mecanismos que se establezcan para esa función;
+
+VII. Permitir la interconexión y consulta por medio de la Plataforma a cargo del CNI, a aquellos sistemas, registros administrativos y bases de datos con los que se cuenten, de forma tal que se actualicen y puedan aprovecharse en tiempo real, en los términos de la Ley y otras disposiciones jurídicas aplicables;
+
+VIII. Asistir a las mesas de paz de acuerdo con los objetivos que para tal efecto sean definidos, y
+
+IX. Las demás que le señalen otras disposiciones jurídicas y las que la persona titular de la Secretaría.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
@@ -4906,3 +5908,61 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del
 SEGUNDO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
 TERCERO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
+
+G.G. 4 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 266.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICION COMETIDA POR PARTICULARES PARA EL ESTADO LIBRE Y SOBERANO DE MÉXICO; SE REFORMAN LAS FRACCIONES XXXV Y XXXVI DEL ARTÍCULO 31 Y SE ADICIONA LA FRACCIÓN XXXVII AL ARTÍCULO 31, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO; SE REFORMA EL ARTÍCULO 61 Y EL INCISO F) DE LA FRACCIÓN IV DEL APARTADO B DEL ARTÍCULO 100 DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO; Y SE REFORMA EL PÁRRAFO PRIMERO Y LAS FRACCIONES I Y II DEL ARTÍCULO 2.5 BIS, EL PÁRRAFO PRIMERO DEL ARTÍCULO 3.10 Y LA FRACCION I DEL ARTÍCULO 4.146 QUINQUIES DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Mecanismo Estatal sesionará a más tardar dentro de los 30 días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO. La Fiscalía Estatal y la Fiscalía Especializada contarán con un plazo no mayor a 30 días hábiles para integrar su información a la Base Nacional de Carpetas de Investigación, contados a partir de que esté disponible conforme al plazo establecido en el artículo transitorio segundo del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, así como de la Ley General de Población, en materia de fortalecimiento de búsqueda, localización e identificación de personas desaparecidas, publicado en el Diario Oficial de la Federación en la edición vespertina del 16 de julio de 2025.
+
+QUINTO. El Poder Ejecutivo Estatal deberá armonizar las disposiciones reglamentarias y normativas correspondientes conforme al presente Decreto y el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, así como de la Ley General de Población, en materia de fortalecimiento de búsqueda, localización e identificación de personas desaparecidas, publicado en el Diario Oficial de la Federación en la edición vespertina del 16 de julio de 2025, en un plazo no mayor a 180 días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. Se abrogan todas las disposiciones que contravengan el presente Decreto.
+
+SÉPTIMO. El Gobierno del Estado y sus municipios, en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto, deberán armonizar la normatividad que regulen panteones, cementerios, servicios funerarios, crematorios, fosas comunes y cualquier espacio destinado a la disposición final de cuerpos humanos, ya sean instituciones públicas o privadas, para establecer al menos:
+
+I. La obligación de llevar registros precisos, digitalizados y actualizados de los cuerpos inhumados, cremados o trasladados, indicando características físicas, ubicación exacta, fecha y medio de disposición;
+
+II. Vincular dichos registros al Sistema Nacional de Búsqueda, conforme a los lineamientos técnicos emitidos por la Comisión Nacional, y
+
+III. Las obligaciones que permitan el cumplimiento de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
+
+Al respecto, los 125 municipios del Estado de México y todas aquellas instituciones públicas o privadas que brinden los servicios funerarios, crematorios, fosas comunes y cualquier espacio destinado a la disposición final de cuerpos humanos, deberán en tiempo dar cumplimiento a las obligaciones indicadas en el presente artículo.
+
+OCTAVO. La Fiscalía Estatal, en un plazo de 90 días hábiles contados a partir de la entrada en vigor del presente Decreto, deberá actualizar todos aquellos registros y bases de datos vinculados con el Banco Nacional de Datos Forenses.
+
+NOVENO. Los Institutos, Centros Forenses o cualquier autoridad que tenga a su cargo los servicios periciales y/o de identificación y resguardo forense en el Estado deberán contar con la sistematización de sus bases de datos, registros o sistemas, en un plazo no mayor al año siguiente de la entrada en vigor del presente Decreto.
+
+DÉCIMO. Todas las instituciones que tengan a su cargo el resguardo de cuerpos y restos humanos de personas, identificados o no identificados, en un plazo máximo de tres meses, contados a partir de la entrada en vigor del presente Decreto, deberán diseñar, en el ámbito de sus respectivas competencias, programas específicos para la atención del rezago de larga data y de reciente ingreso.
+
+DÉCIMO PRIMERO. El Congreso del Estado deberá realizar las previsiones presupuestales necesarias para que los entes públicos puedan cumplir con lo previsto en este Decreto.
+
+DÉCIMO SEGUNDO. Los recursos para llevar a cabo la implementación de las acciones que se deriven del presente Decreto se cubrirán con cargo al presupuesto autorizado a las dependencias y entidades estatales, así como a los municipios.
+
+Lo tendrá entendido la Gobernadora del Estado, haciendo que se publique y se cumpla.
+
+G.G. 4 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 267.- POR EL QUE SE REFORMA LA FRACCION IV DEL ARTÍCULO 27; Y SE ADICIONAN LAS FRACCIONES IV BIS Y IV TER AL ARTÍCULO 27 DE LA LEY ORGÁNICA DE LA ADMINISTRACION PÚBLICA DEL ESTADO DE MÉXICO; Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Poder Ejecutivo del Estado contará con 180 días hábiles, a partir de la entrada en vigor de este Decreto, para publicar en el Periódico Oficial "Gaceta de Gobierno", el Reglamento Interior del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública.
+
+CUARTO. Los órganos desconcentrados y organismos auxiliares de la Secretaría de Seguridad, en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+QUINTO. Los derechos de las personas integrantes de las Instituciones de Seguridad Pública que a la entrada en vigor de este Decreto cuenten con un nivel de estudios inferior al establecido en este para su ingreso o permanencia deberán ser respetados y sus respectivas instituciones deberán realizar acciones para que obtengan el nivel de estudios que corresponda.
+
+SEXTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto se resolverán conforme a las disposiciones legales vigentes al momento de inicio de su tramitación.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. Se abrogan el Reglamento de los Cuerpos de Seguridad Pública del Estado de México, publicada el 09 de junio de 1987 en el Periódico Oficial "Gaceta del Gobierno", el Reglamento de Escalafón del Personal Operativo de la Dirección General de Seguridad Pública y Tránsito del Estado de México, publicado el 09 de julio de 1987 en el Periódico Oficial "Gaceta del Gobierno"; el Reglamento de Homologación de Cromática de los Vehículos de los Cuerpos de Seguridad Pública Preventiva Estatal y Municipal y Uniformes de sus Miembros, publicado en el Periódico Oficial "Gaceta del Gobierno" el 30 de enero de 2007 y las demás disposiciones de igual o menor jerarquía, en lo que se opongan al presente Decreto.
