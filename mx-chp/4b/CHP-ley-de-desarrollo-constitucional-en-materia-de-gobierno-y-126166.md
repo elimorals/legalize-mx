@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-desarrollo-constitucional-en-materia-de-gobierno-y-12616
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-31"
-last_updated: "2025-12-03"
+last_updated: "2026-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY DE DESARROLLO CONSTITUCIONAL EN MATERIA DE GOBIERNO Y ADMINISTRACION MUNICIPAL DEL ESTADO DE CHIAPAS
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE DESARROLLO CONSTITUCIONAL EN MATERIA DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2026.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 31 de enero de 2018.
 
@@ -1261,33 +1263,53 @@ El Tesorero será responsable de las erogaciones que efectué que no estén comp
 
 ### Capítulo XI. De la Seguridad Pública
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 84.
 
-En cada municipio habrá una Dependencia de Seguridad Pública Municipal; que estará a cargo de un Titular que reúna los requisitos siguientes:
+En cada municipio habrá una Dependencia de Seguridad Pública Municipal; que estará a cargo de una persona Titular que reúna los requisitos siguientes:
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 I. Ser chiapaneco y contar con un año de residencia en el municipio de que se trate.
 
-II. Contar preferentemente con la licenciatura en seguridad pública, sin que el grado escolar sea inferior a la media superior.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2026)</small>
 
-III. Acreditar experiencia en la materia mínima de cinco años.
+II. Contar con Título de licenciatura en seguridad pública o, con posgrado en materia afín o, en su caso, contar con diplomado o curso de capacitación en materia de seguridad pública, los cuales se deberá acreditar mediante constancia o diploma expedido por institución educativa reconocida por la autoridad competente;
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+III. Acreditar experiencia mínima de cinco años, en seguridad pública;
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 IV. Acreditar la certificación en seguridad pública por parte del Instituto de Formación Policial en el Estado, o su similar en otra entidad de la República.
 
-V. Tener cuando menos veinticinco años cumplidos al día de la designación.
+> <small>(REFORMADA [N. DE E. LA PRESENTE FRACCIÓN ES SIMILAR AL CONTENIDO DE LA FRACCIÓN VI], P.O. 4 DE FEBRERO DE 2026)</small>
+
+V. Acreditar las pruebas de evaluación de control y confianza, emitidas por el Órgano facultado para su aplicación;
+
+> <small>(REFORMADA [N. DE E. LA PRESENTE FRACCIÓN ES SIMILAR AL CONTENIDO DE LA FRACCIÓN V], P.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 VI. Acreditar las pruebas de evaluación de control y confianza del Órgano facultado para su aplicación.
 
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2020)</small>
+
 VII. Haber cumplido con el Servicio Militar Nacional.
 
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2020)</small>
+
 VIII. Contar con carta de antecedentes laborales no Negativos, expedido por el Sistema Estatal de Seguridad Pública.
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 IX. No haber sido condenado por delito doloso.
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2024)</small>
 
 X. Contar con Capacitación y Certificación de Competencia Laboral vigente en la materia de acuerdo con las funciones que desempeña en el cargo, expedida por una Entidad de Certificación y Evaluación con Cédula de Acreditación vigente expedida por el CONOCER con especialidad en Administración Pública Municipal, con domicilio en el Estado de Chiapas.
+
+> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2020)</small>
 
 XI. Los demás que señalen los ordenamientos aplicables.
 
@@ -2832,3 +2854,11 @@ Artículo Primero.- El presente Decreto entrará en vigor al dia siguiente de su
 Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
 
 Artículo Tercero.- Los Ayuntamientos deberán integrar su respectiva Comisión de Asuntos Religiosos dentro de los noventa días posteriores a la entrada en vigor del presente Decreto.
+
+P.O. 4 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 196 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES AL ARTÍCULO 84 DE LA LEY DE DESARROLLO CONSTITUCIONAL EN MATERIA DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor el día primero de enero del año 2027.
+
+Artículo Segundo.- Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
