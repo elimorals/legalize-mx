@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-desarrollo-economico-y-atraccion-de-inversiones-del-9984
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-05"
-last_updated: "2014-03-05"
+last_updated: "2026-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99843&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE DESARROLLO ECONÓMICO Y ATRACCIÓN DE INVERSIONES DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 5 de marzo de 2014.
 
@@ -61,13 +61,37 @@ La Secretaría de Economía, en el ámbito de su competencia, podrá interpretar
 
 Para los efectos de lo establecido en esta Ley, se entenderá por:
 
-I. El Ejecutivo del Estado: Al Gobernador del Estado de Chiapas.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2026)</small>
 
-II. La Secretaría: a la Secretaría de Economía.
+I. El Ejecutivo del Estado: A la Persona Titular del Poder Ejecutivo del Estado.
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+II. La Secretaría: A la Secretaría de Economía y del Trabajo.
 
 III. Ley: La Ley para el Desarrollo Económico y la Atracción de Inversiones en el Estado de Chiapas.
 
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+III Bis. Buenas Prácticas Regulatorias: A las reglas, procedimientos y herramientas para garantizar que las regulaciones sean claras, sencillas, lógicas, coherentes y generen el menor costo burocrático.
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+III Ter. Cadenas productivas: Sistemas y conjuntos productivos que concatenan e integran la participación de empresas, comunidades, fuerza laboral y agentes económicos para la generación de bienes y servicios en favor de la sociedad y la expansión de mercados, así como para la incorporación de valor agregado y la transformación de insumos y materias primas en productos finales, articulando fases y sectores clave para el desarrollo económico.
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+III Quárter. Catálogo Estatal de Vocaciones Productivas: Herramienta de análisis y orientación práctica que habrá de identificar y destacar las vocaciones, sectores, cadenas y oportunidades productivas a nivel estatal y en cada una de las regiones económicas, subrayando sus ventajas competitivas y sistematizando sus fortalezas como medio para facilitar, alentar y promover la inversión y el desarrollo económico.
+
 IV. Consejo: El Consejo Consultivo para el Desarrollo Económico y Atracción de Inversiones del Estado de Chiapas.
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+IV Bis. Conglomerados (clusters): A los Agrupamientos de agentes económicos y empresariales estratégicos en una región o zona geográfica del estado, con alta presencia en determinado sector o industria, que por su afinidad e integración contribuyen a los encadenamientos productivos, la generación de valor, la competitividad y el desarrollo económico.
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+IV Ter. Costo burocrático: A los costos sociales, económicos y administrativos que las personas, empresas, organizaciones y comunidades asumen tanto en términos de tiempo, procesos y valor monetario, para cumplir con las obligaciones derivadas de las regulaciones y trámites.
 
 V. Comités: Los Comités Técnicos de los Fondos.
 
@@ -75,9 +99,21 @@ VI. Data Chiapas: Aplicaciones del Sistema de Información Económica.
 
 VII. Centros Chiapas Emprende: Centro de Desarrollo Empresarial y Empleo y los demás que se establezcan en coordinación con los órdenes de gobierno federal y municipal.
 
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+VII Bis. Desarrollo Económico: Proceso que combina el crecimiento económico, la mejora en los ingresos, la productividad y la generación de empleos dignos, con la transformación de las condiciones humanas, materiales y sociales para ampliar el bienestar, reducir la desigualdad, fomentar la sustentabilidad y dejar atrás rezagos históricos mediante la participación efectiva e incluyente de las personas, comunidades, empresas y agrupaciones en las diferentes etapas, sectores y actividades de la vida económica.
+
 VIII. SEIM: Sistema Estatal de Información Económica y de Inteligencia de Mercados.
 
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+VIII Bis. Simplificación: A las acciones, políticas y estrategias para reducir trámites, requisitos y tiempos de resolución, así como para eliminar procesos innecesarios y cualquier costo burocrático, facilitando a las personas el acceso y obtención de trámites y servicios.
+
 IX. Reglamento: Reglamento de la Ley para el Desarrollo Económico y Atracción de Inversiones del Estado de Chiapas.
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+IX Bis. Relocalización: Al proceso global y regional en el que las cadenas productivas y de suministro sufren transformaciones y reubicaciones tanto geográficas como económicas, modificando el entorno comercial, productivo y de inversión, abriendo oportunidades y reconfigurando las condiciones y estrategias de competencia en los mercados internacionales.
 
 X. Promotor: Toda aquella persona física o moral que gestione y que logre el establecimiento de inversiones estratégicas o prioritarias en el Estado.
 
@@ -88,6 +124,10 @@ XII. Inversionista: Toda aquella persona física o moral que comprometa y aporte
 XIII. Inversión Estratégica o Prioritaria: Todas aquellas inversiones de alto impacto económico y social que detonen el desarrollo económico del Estado o de una región del mismo, conforme a los parámetros que al efecto se establezcan en el Reglamento.
 
 XIV. Fondos: Los fideicomisos o vehículos financieros creados con el objeto de dar apoyo, financiamiento, capacitación y asesoría a las micros, pequeñas, medianas y grandes empresas del Estado, así como a otros grupos o personas del sector social de la economía, y aquellos constituidos para atraer y retener inversiones, en los términos de las disposiciones legales aplicables.
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+XV. Ventanilla Integral Municipal (VIM): Ventanilla integral de trámites que operará como punto único de atención directa y gestión de trámites y servicios entre los inversionistas y ayuntamientos, con el propósito de articular y vincular programas estratégicos como el Sistema de Apertura Rápida de Empresas (SARE), la Ventanilla Única de Gestión Empresarial (VUGE), Marca Chiapas, el Sistema Nacional de Empleo, esquemas de financiamiento y emprendimiento, entre otros mecanismos orientados al desarrollo económico local, la atracción de inversiones y el fomento de una cultura empresarial.
 
 ###### Artículo 4°.
 
@@ -105,15 +145,21 @@ V. Promover el desarrollo económico de la entidad, a fin de impulsar su crecimi
 
 VI. Fomentar la generación de nuevas fuentes de empleo y consolidar las existentes; sobre todo de aquellos sectores que propicien en mayor medida el desarrollo de capital humano; la innovación, investigación, el desarrollo y la transferencia del conocimiento y las tecnologías; así como los de mayor impacto en modernización y competitividad logística.
 
-VII. Promover la Mejora Regulatoria en el Estado, desarrollando e implementando mecanismos de cooperación entre las distintas dependencias y organismos estatales, así como entre los tres órdenes de Gobierno, logrando un impacto positivo en la competitividad del Estado y los municipios.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+VII. Promover y asegurar el cumplimiento y la consolidación de los procesos de simplificación administrativa y las buenas prácticas regulatorias en el estado, mediante la implementación de herramientas, mecanismos de cooperación, programas y proyectos, a través de la Comisión Estatal de Simplificación Administrativa (COESA), en coordinación con dependencias estatales, municipios y autoridades federales.
 
 VIII. Incentivar la organización asociativa y colaboración de empresas y centros de investigación e innovación tecnológica, particularmente en los sectores definidos como estratégicos, con el objetivo de consolidar el desarrollo de la economía del conocimiento.
 
-IX. Propiciar un marco jurídico que aliente a las inversiones, así como instrumentos de simplificación y desregulación administrativa de trámites y servicios en el Estado para evitar discrecionalidad y cargas innecesarias a la sociedad y al sector empresarial.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+IX. Promover, en coordinación con los municipios, la implementación de ventanillas presenciales y digitales orientadas a facilitar, agilizar y transparentar los trámites y servicios en el Estado, en beneficio del desarrollo económico, conforme a los lineamientos y modelos operativos emitidos por la (COESA) y la normatividad aplicable.
 
 X. Fomentar el crecimiento industrial ordenado y descentralizado, a través del establecimiento y consolidación de parques y zonas agroindustriales en las distintas Regiones Económicas del Estado.
 
-XI. Fortalecer la infraestructura logística, comercial, industrial y de servicios existentes en el Estado.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+XI. Fortalecer la infraestructura logística, comercial, industrial y de servicios existentes en el Estado, particularmente fomentando la instalación, aprovechamiento y consolidación de infraestructura energética estratégica, tales como gasoductos, plantas de ciclo combinado, estaciones de compresión, subestaciones eléctricas, sistemas de energía limpia y todas aquellas capaces de servir como habilitadores de la industrialización, la atracción de inversiones productivas, el desarrollo de conglomerados, la relocalización y el fortalecimiento de cadenas de suministro regionales.
 
 XII. Generar y consolidar un Sistema de Información Económica y de Inteligencia de Mercados transversal e integral, para implementar y desarrollar diversas aplicaciones informáticas, financieras, de atracción de inversiones, de desarrollo empresarial y de negocios, y de oportunidades de mercado, que hagan posible contar con la información económica, geográfica y estadística, suficiente y oportuna, y los instrumentos o herramientas necesarias que sirvan de apoyo a los procesos de planeación, promoción y consolidación de las inversiones en el Estado; además de contar con indicadores de evaluación de seguimiento y desempeño de los programas y proyectos en materia de desarrollo económico.
 
@@ -129,7 +175,9 @@ XVII. Promover la coordinación de acciones en materia económica entre la Admin
 
 XVIII. Impulsar la celebración de convenios de capacitación con instituciones educativas nacionales y extranjeras para el fortalecimiento de las micros, pequeñas, medianas y grandes empresas de los sectores productivos secundarios y terciarios.
 
-XIX. Promover el uso de tecnologías de información y de comunicación.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+XIX. Impulsar políticas y estrategias, en un marco de coordinación entre las instituciones y dependencias federales, estatales y municipales competentes, así como con la iniciativa privada e instituciones educativas, para el desarrollo tecnológico, el aprovechamiento de la inteligencia artificial en las actividades económicas y el impulso a la conectividad digital, alentando su accesibilidad en zonas rurales y facilitando la integración, simplificación y agilización de trámites, permisos y servicios a través de la innovación y el cierre de brechas tecnológicas.
 
 XX. Hacer uso de leyes, reglamentos y demás instrumentos legales vigentes, que den mayor eficacia y certeza a la atracción y consolidación de las inversiones.
 
@@ -147,47 +195,49 @@ El Ejecutivo del Estado por conducto de la Secretaría y los Ayuntamientos, acor
 
 El Consejo Consultivo para el Desarrollo Económico y Atracción de Inversiones en el Estado, es el órgano técnico y de consulta del Gobierno del Estado, para el otorgamiento de los incentivos y beneficios que otorga esta Ley al desarrollo económico y la inversión; de igual modo podrá participar o coadyuvar en la planeación e instrumentación de los objetivos y acciones a las que se refiere la presente Ley.
 
-###### Artículo 7°.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2026)</small>
+
+###### Artículo 7º.
 
 El Consejo estará integrado de manera permanente por:
 
-I. El Ejecutivo del Estado, quien lo presidirá;
+I. La persona titular del Ejecutivo del Estado, quien lo presidirá;
 
-II. El Secretario de Economía, quien fungirá como Secretario Ejecutivo;
+II. La persona titular de la Secretaría de Economía y del Trabajo, quien fungirá (sic) la Secretaría Ejecutiva.
 
-III. El Subsecretario de Industrialización y Promoción de Inversiones de la Secretaría de Economía, quien fungirá como Secretario Técnico;
+III. La persona titular de la Subsecretaría de Desarrollo Industrial y Atracción de Inversiones de la Secretaría de Economía y del Trabajo, quien fungirá en la Secretaría Técnica.
 
-Fungirán como vocales:
+IV. Fungirán como vocales:
 
-IV. El Secretario de Planeación y Programa de Gobierno;
+a) La persona titular de la Secretaría de Finanzas;
 
-V. El Secretario de Hacienda;
+b) La persona titular de la Secretaría del Campo;
 
-VI. EL Secretario del Campo;
+c) La persona titular de la Secretaría de Pesca y Acuacultura del Pueblo;
 
-VII. El Secretario de Turismo;
+d) La persona titular de la Secretaría de Infraestructura;
 
-VIII. El Secretario de Pesca;
+e) La persona titular de la Secretaría de Turismo;
 
-IX. El Secretario del Trabajo;
+f) La persona titular de la Secretaría de la Frontera Sur;
 
-X. El Consejero Jurídico de (sic) C. Gobernador;
+g) La persona titular de la Secretaría de la Mujer e Igualdad de Género;
 
-XI. Director (sic) del Instituto de Energías Renovables;
+h) La persona titular del Instituto de la Consejería Jurídica del Gobierno del Estado;
 
-XII. Cinco representantes de organismos empresariales;
+i) Cinco representantes de organismos empresariales;
 
-XIII. Tres representantes del sector social de la economía; y,
+j) Tres representantes del sector social de la economía; y
 
-XIV. Tres representantes de instituciones educativas de nivel superior.
+k) Tres representantes de instituciones educativas de nivel superior.
 
 Asimismo, de conformidad a los temas o asuntos a tratar en las sesiones del Consejo, podrá haber invitados especiales.
 
-Los miembros del Consejo tendrán voz y voto, los invitados tendrán voz mas no voto. En caso de empate, resolverá el Presidente del Consejo y, en su ausencia, el Secretario Ejecutivo.
+Los miembros del Consejo tendrán voz y voto, los invitados tendrán voz mas no voto. En caso de empate, resolverá el Presidente del Consejo y, en su ausencia, la persona titular de la Secretaria Ejecutiva.
 
 Los cargos de los integrantes del Consejo serán honoríficos, por lo que no percibirán retribución, emolumento o compensación alguna por su desempeño.
 
-Los miembros de los organismos empresariales y de la institución de Educación Superior serán propuestos por el Ejecutivo del Estado.
+Los miembros de los organismos empresariales y de la institución de Educación Superior serán propuestos por la persona titular del Ejecutivo del Estado.
 
 ###### Artículo 8°.
 
@@ -203,13 +253,19 @@ Al Consejo le corresponde de manera enunciativa más no limitativa las funciones
 
 I. Proponer tomando en cuenta los parámetros señalados en el Reglamento, los sectores prioritarios y estratégicos, así como las regiones en las cuales se debe impulsar la actividad económica del Estado.
 
-II. Proponer a la Secretaría, así como a las instancias correspondientes, los incentivos y beneficios que deban otorgarse a las distintas actividades productivas, así como sus montos, plazos, términos y condiciones.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2026)</small>
 
-III. Analizar las solicitudes que para la obtención de incentivos presenten los particulares, y opinar sobre el otorgamiento o rechazo de los mismos.
+II. Proponer a la Secretaría, así como a las instancias correspondientes, los incentivos y beneficios que deban otorgarse a las distintas actividades productivas, así como sus montos, plazos, términos y condiciones. La Secretaría tendrá la facultad de modificar, reducir, remover o rediseñar dichos incentivos conforme a sus competencias y en apego a los objetivos y acciones prioritarias para el desarrollo económico estatal.
+
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+III. Analizar las solicitudes que para la obtención de incentivos presenten los particulares, y opinar sobre el otorgamiento o rechazo de los mismos. En la emisión de dichas opiniones, el Consejo deberá aportar los criterios técnicos en los que se basó para el análisis y sustento, con base en datos y estadísticas actualizadas y verificables, y de conformidad con las directrices que para dichos fines defina la Secretaría.
 
 IV. Emitir opinión respecto de las resoluciones que sobre modificación o cancelación de los incentivos otorgados, le presenten las instancias correspondientes.
 
-V. Conocer y opinar sobre la operación, destino y presupuesto anual de los fondos o fideicomisos del sector económico, proponiendo a sus Comité (sic) Técnicos los ajustes que estime pertinentes.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+V. Conocer y opinar sobre la operación, destino y presupuesto anual de los fondos o fideicomisos del sector económico, proponiendo a sus Comités Técnicos los ajustes que estime pertinentes.
 
 VI. Proponer a las autoridades federales, estatales y municipales la generación, implementación y desarrollo de estímulos e incentivos, así como la verificación de la entrega de recursos, en dinero o en especie, a través de los fondos o fideicomisos o mediante mecanismos alternativos que a tales efectos se determinen, a las personas físicas o morales o instituciones que resulten favorecidas en términos de esta Ley.
 
@@ -221,11 +277,41 @@ IX. Colaborar en la elaboración de los programas de promoción y atracción de 
 
 X. Proponer programas para el fortalecimiento de la micro, pequeña y mediana empresa en el Estado.
 
-XI. Proponer Proyectos de Mejora Regulatoria y Simplificación Administrativa.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2026)</small>
 
-XII. Elaborar y proponer al Ejecutivo del Estado para su aprobación, el Reglamento del Consejo; y,
+XI. Proponer proyectos y acciones de Simplificación Administrativa y Buenas Prácticas Regulatorias, en coordinación con la Comisión Estatal de Simplificación Administrativa (COESA).
 
-XIII. Las demás que le señale el Reglamento del Consejo y las que se requieran para el cumplimiento de sus objetivos, con base en lo dispuesto en la presente Ley.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+XII. Elaborar y proponer al Ejecutivo del Estado para su aprobación, el Reglamento del Consejo.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE FEBRERO DE 2026)</small>
+
+XIII. Facilitar a la Secretaría la recopilación, seguimiento y sistematización de datos, información, estadísticas y estudios para la elaboración del Diagnóstico Estatal sobre Desarrollo Económico, los diagnósticos regionales y el Catálogo Estatal de Vocaciones Productivas. Con tal propósito, el Consejo deberá trabajar en estrecha coordinación con el sector privado, los Ayuntamientos Municipales, las Instituciones educativas públicas o privadas y la sociedad civil.
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+XIV. Analizar y dar seguimiento al Diagnóstico Estatal sobre Desarrollo Económico, así como a los diagnósticos regionales, para coadyuvar en su difusión y en la elaboración de recomendaciones derivadas de los mismos. El Consejo también podrá proponer a la Secretaría temáticas y áreas estratégicas para ser abordadas y estudiadas como parte de dichos diagnósticos.
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+XV. Emitir propuestas y directrices con base en el Catálogo Estatal de Vocaciones Productivas, así como coadyuvar en su difusión y en el seguimiento a las acciones derivadas del mismo. El Consejo, a su vez, podrá proponer a la Secretaría temáticas, áreas, vocaciones o actividades económicas estratégicas en la elaboración del Catálogo Estatal de Vocaciones Productivas.
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+XVI. Promover ante el Consejo Estatal de Transformación Digital Gubernamental del Estado de Chiapas la digitalización de trámites y servicios digitales vinculados con la atracción de inversiones, el desarrollo empresarial y la operación de empresas, previa validación de la Comisión Estatal de Simplificación Administrativa (COESA), conforme a la normatividad aplicable.
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+XVII. Diseñar, bajo la conducción de la Secretaría, una propuesta de Plan Económico Estatal con perspectiva de largo plazo que servirá como guía para la toma de decisiones y el desarrollo de políticas públicas en la materia. Para su implementación dicho Plan deberá ser validado por la Secretaría.
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+XVIII. Crear y promover el Banco Estatal de Proyectos para el Desarrollo y la Inversión (BAESDESI), para lo cual definirá marcos de acción coordinada y corresponsable entre las instituciones integrantes del Consejo, que permitan el diseño e implementación de los proyectos. A propuesta de la Secretaría, el Consejo determinará cada tres años los Proyectos Prioritarios para el Desarrollo Económico Estatal y la Inversión (PRODESI), que se integrarán al BAESDESI. Con la directriz de la Secretaría, el Consejo también emitirá lineamientos de trabajo coordinado para la Administración Pública Estatal, los Ayuntamientos Municipales y el sector privado, de conformidad con la normatividad aplicable y en estricto apego a sus competencias, para brindar atención especial, seguimiento permanente y respaldo institucional para la materialización y agilización de los PRODESI; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA,] P.O. 4 DE FEBRERO DE 2026)</small>
+
+XIX. Las demás que le señale el Reglamento del Consejo y las que se requieran para el cumplimiento de sus objetivos, con base en lo dispuesto en la presente Ley.
 
 ###### Artículo 11.
 
@@ -251,31 +337,37 @@ El Consejo será responsable de manejar con estricta confidencialidad la informa
 
 Además de lo dispuesto por las leyes fiscales federales y estatales vigentes, los tratados internacionales firmados por México, así como en el Plan Estatal de Desarrollo, las autoridades estatales competentes en los términos de esta Ley podrán otorgar incentivos a la inversión nacional y extranjera, para la instalación de una nueva empresa o para incrementar la capacidad de operación de una ya existente en la entidad con el fin de crear nuevas fuentes de empleo y de negocios.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 16.
 
-Los incentivos que se podrán otorgar consistirán en:
+La Secretaría tendrá una función directiva en el análisis, otorgamiento, diseño, modificación o remoción de los incentivos económicos contemplados en la presente Ley. En el análisis, estudio y dictaminación de dichos incentivos, la Secretaría podrá auxiliarse del Consejo, que brindará elementos técnicos y consultivos para la toma de decisiones. Ningún incentivo podrá otorgarse sin un proceso previo de análisis que será encabezado por la Secretaría, en el que deberá acreditarse a través de las autoridades competentes la sustentabilidad económica, la viabilidad fiscal y la responsabilidad ambiental de dichos incentivos de conformidad con el Reglamento de la presente Ley y la normatividad aplicable.
+
+De manera enunciativa más no limitativa, los incentivos a considerar serán los siguientes:
 
 I. Gestión de trámites ante autoridades federales, estatales y municipales; asimismo, en coordinación con los Municipios de la entidad, proporcionar asesoría para la instalación y funcionamiento de las empresas.
 
-II. Reducción de hasta el 60% del pago de derechos estatales.
+II. Reducción desde el 30 hasta el 100% del pago de derechos estatales, únicamente procedente con la autorización expresa de la autoridad fiscal competente y de conformidad con los requisitos aplicables que emita, previo análisis y dictamen técnico sobre el impacto, alcance y beneficios económicos generados en la inversión o la actividad económica de la que se trate; para lo cual, las y los interesados deberán aportar los datos e información requeridas para realizar dicho análisis en las instancias correspondientes.
 
 III. Apoyos económicos para becas de capacitación y adiestramiento a los trabajadores que estén orientados a la productividad y competitividad en el empleo.
 
-IV. Apoyos de hasta el 100% del costo de los estudios para la realización de infraestructura que propicien el asentamiento, instalación o expansión de las empresas, u otorgamiento de recursos económicos para su ejecución.
+IV. Apoyos desde el 10 hasta el 100% del costo de los estudios para la realización de infraestructura que propicien el asentamiento, instalación o expansión de las empresas, u otorgamiento de recursos económicos para su ejecución.
 
 V. Aportación estatal para la creación, instalación o mejoramiento de servicios públicos.
 
-VI. Otorgamiento en donación, venta condicionada, permuta, arrendamiento, comodato, fideicomiso o cualquier otra figura jurídica que sirva de instrumento legal a través de los organismos estatales competentes, de bienes inmuebles propiedad del Estado o de los municipios con vocación industrial, agroindustrial o acorde al giro del proyecto, y condicionado exclusivamente a su aprovechamiento en la ejecución del proyecto de inversión.
+VI. Otorgamiento en donación, venta condicionada, permuta, arrendamiento, comodato, fideicomiso o cualquier otra figura jurídica que sirva de instrumento legal a través de los organismos estatales competentes, de bienes inmuebles propiedad del Estado o de los Municipios con vocación industrial, agroindustrial o acorde al giro del proyecto, y condicionado exclusivamente a su aprovechamiento en la ejecución del proyecto de inversión.
 
-VII. Aportaciones económicas directas en el desarrollo de proyectos estratégicos o prioritarios en la entidad, para:
+VII. Aportaciones económicas directas en el desarrollo de proyectos estratégicos o prioritarios en la entidad, para los siguientes fines:
 
-a) La adquisición de bienes inmuebles propiedad del Estado o de particulares, necesarios para el desarrollo del proyecto de inversión, los cuales no podrán superar el 30% del valor del inmueble, previo avalúo realizado por instituciones o peritos autorizados.
+a) La adquisición de bienes inmuebles propiedad del Estado o de particulares, necesarios para el desarrollo del proyecto de inversión, en la proporción o montos determinados por la Secretaría, previo avalúo realizado por instituciones o peritos autorizados.
 
-b) Aportación de hasta el 30% del valor total del proyecto, sujeto a disponibilidad presupuestal y preferentemente bajo un esquema de Asociación Publico Privado.
+b) Aportación de un porcentaje, fijado por la Secretaría, del valor total del proyecto, sujeto a disponibilidad presupuestal y preferentemente bajo un esquema de Asociación Publico Privado.
 
 VIII. Apoyos para establecer vínculos con proveedores potenciales de acuerdo al sector industrial o estratégico del que se trate.
 
 IX. Todos aquellos programas, apoyos y otras aportaciones que apruebe la Secretaría o el Consejo Consultivo para el Desarrollo Económico y la Atracción de las inversiones, bajo el esquema de incentivos aquí previsto, para el mejor cumplimiento de los objetivos de la presente Ley.
+
+La Secretaría, conforme a sus facultades y en coordinación con las dependencias e instituciones estatales y municipales correspondientes, podrá modificar, rediseñar, reducir o remover los incentivos señalados en el presente artículo cuando no se apeguen a los propósitos de esta Ley o por no contribuir, en las condiciones esperadas, al beneficio económico del Estado.
 
 ###### Artículo 17.
 
@@ -389,15 +481,45 @@ La inscripción, modificación, refrendo o cancelación del Registro Empresarial
 
 La Secretaría tendrá a su cargo la conformación de un Sistema integral y transversal de Información Económica y de Inteligencia de Mercados del Estado de Chiapas, en el cual se recopilarán y procesarán en forma accesible y expedita los datos disponibles en la materia, para que los agentes económicos puedan acceder a los mismos en forma oportuna, y utilizar la información contenida en dicho sistema en la planeación, ejecución, seguimiento y evaluación de sus actividades, negocios e inversiones en la entidad, o fuera de ella en los mercados nacionales o internacionales.
 
-Adicionalmente dicho Sistema de Información contará, entre otros elementos, con indicadores de evaluación de seguimiento y desempeño de los programas y proyectos en materia de desarrollo económico impulsados o promovidos por la Secretaría, o bien por otras instancias gubernamentales, así como un banco o acervo con los estudios elaborados o que se formulen para la realización de proyectos de inversión o de negocios y que son patrimonio del Estado.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2026)</small>
+
+Adicionalmente dicho Sistema de Información contará, cuando menos, con indicadores de evaluación de seguimiento y desempeño de los programas y proyectos en materia de desarrollo económico impulsados o promovidos por la Secretaría, o bien por otras instancias gubernamentales, así como un banco o acervo con los estudios elaborados o que se formulen para la realización de proyectos de inversión o de negocios y que son patrimonio del Estado. La Secretaría implementará metodologías para estandarizar la información, acervos y datos con los que cuente el Sistema de Información.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2026)</small>
+
+Con base en los datos, indicadores y estudios del Sistema de Información, y aquellos que deberán ser aportados por los Ayuntamientos Municipales, entre otros, la Secretaría tendrá a su cargo la elaboración de un Diagnóstico Estatal sobre Desarrollo Económico, así como diagnósticos regionales en la materia, que se realizarán cada dos años para mantener su actualización e incorporar nuevos elementos útiles en la toma de decisiones. Dichos diagnósticos deberán difundirse a nivel estatal y por región, particularmente entre agentes económicos, empresas, organizaciones del sector privado y tomadores de decisiones relevantes para la inversión y el desarrollo económico.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2026)</small>
+
+Dentro de sus componentes principales, los diagnósticos incluirán, cuando menos, una identificación y mediciones claras sobre las problemáticas del desarrollo económico, un análisis de factores que alientan y desalientan la inversión, un análisis de riesgos y su impacto, un apartado especial sobre los obstáculos que se enfrentan para elevar el contenido nacional, estatal y regional en la producción y proveeduría, así como métricas, estadísticas y una valoración sobre el desempeño y el estado que guardan las cadenas productivas, los mercados y sectores estratégicos para el desarrollo económico estatal. Los diagnósticos, a su vez, deberán incluir un listado de prioridades abordando rubros estratégicos como energía, infraestructura, acceso a tecnología, financiamiento, capital humano, conectividad suficiente, entre otros. La elaboración y difusión de los diagnósticos deberá realizarse con perspectiva regional, tomando en consideración la clasificación vigente sobre regiones económicas en el Estado.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2026)</small>
+
+Los diagnósticos serán entregados al Consejo para coadyuvar en su difusión y en la elaboración de recomendaciones. La Secretaría tendrá la facultad de elaborar directrices y propuestas para impulsar el desarrollo económico, la generación de empleos y la inversión con base en los diagnósticos.
 
 ###### Artículo 31.
 
 La Secretaría, tomará como base el Sistema de Información Económica y de Inteligencia de Mercados para implementar y desarrollar diversas aplicaciones informáticas, financieras, de atracción de inversiones, de desarrollo empresarial y de negocios, y de oportunidades o nichos de mercado, con la finalidad de aprovechar y utilizarlas como herramientas para la toma de decisiones, así como para la promoción y consolidación de las inversiones en el Estado.
 
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2026)</small>
+
+La Secretaría también elaborará cada seis años un Catálogo Estatal de Vocaciones Productivas, destacando las vocaciones, sectores, cadenas y oportunidades productivas a nivel estatal y en cada una de las regiones económicas, subrayando sus ventajas competitivas y sistematizando sus fortalezas como medio para facilitar y promover la inversión y el impulso al desarrollo económico. El Catálogo deberá tener una orientación práctica, buscando reforzar cadenas productivas, elevar el contenido nacional, estatal y regional en la producción, suministro y comercialización, e impulsar los sistemas degeneración de valor.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2026)</small>
+
+En la elaboración del Catálogo, la Secretaría tomará como base los datos del Sistema de Información y de los diagnósticos estatal y regionales, para brindar un panorama actualizado y oportuno en la toma de decisiones, identificando oportunidades para promover los procesos de relocalización, así como la conformación de conglomerados (clusters), alianzas estratégicas y proyectos intersectoriales en favor del desarrollo económico. El Catálogo deberá contener un apartado especial sobre necesidades de infraestructura habilitadora, incluyendo gasoductos, parques industriales, subestaciones eléctricas, líneas de transmisión, nodos logísticos y sistemas energéticos, como elementos estratégicos para detonar conglomerados, cadenas de valor, zonas de relocalización y la atracción de inversiones prioritarias.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2026)</small>
+
+El Catálogo deberá ser entregado al Consejo para su difusión, así como para el seguimiento a las acciones derivadas del mismo. La Secretaría tendrá la facultad de elaborar directrices y recomendaciones para la inversión, el desarrollo y la generación de empleos con base en el Catálogo.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 32.
 
-Las Dependencias y Entidades de la Administración Pública Estatal vinculadas con la actividad económica, turística, de servicios e infraestructura, así como los Ayuntamientos Municipales, tendrán la obligación de facilitar los datos, reportes e informes que sean generados por las mismas y que estén relacionadas con el desarrollo económico y la atracción de inversiones; así como los que le sean requeridos por los Sistemas de Información de la Secretaría, a fin de que la información del Estado pueda integrarse de manera uniforme, oportuna, fidedigna y completa, privilegiando siempre el acceso a la información pública y la transparencia, en términos de la legislación vigente en la materia.
+Las Dependencias y Entidades de la Administración Pública Estatal vinculadas con la actividad económica, turística, de servicios e infraestructura, así como los Ayuntamientos Municipales, las universidades, centros de investigación e instituciones educativas estatales, tendrán la obligación de facilitar los datos, reportes e informes que sean generados por las mismas y que estén relacionadas con el desarrollo económico y la atracción de inversiones; así como los que le sean requeridos por los Sistemas de Información de la Secretaría y para la construcción del Catálogo Estatal de Vocaciones Productivas, el Diagnóstico Estatal y los diagnósticos regionales, a fin de que la información del Estado pueda integrarse de manera uniforme, oportuna, fidedigna y completa, privilegiando siempre el acceso a la información pública y la transparencia, en términos de la legislación vigente en la materia.
+
+Las Dependencias y Entidades de la Administración Pública Estatal, los Ayuntamientos Municipales, las universidades, centros de investigación e instituciones educativas, agrupaciones civiles y del sector privado a nivel estatal, en concordancia con la normatividad aplicable y su ámbito legal de competencia, coadyuvarán con la Secretaría en la implementación de las directrices y recomendaciones derivadas del Catálogo Estatal de Vocaciones Productivas, el Diagnóstico Estatal sobre Desarrollo Económico y los diagnósticos regionales.
 
 ###### Artículo 33.
 
@@ -427,21 +549,39 @@ Para la atracción de inversiones estratégicas o prioritarias en el Estado, se 
 
 El Reglamento definirá aquellas inversiones consideradas como estratégicas o prioritarias y establecerá las bases y condiciones para el otorgamiento del apoyo al que hace referencia el artículo anterior. Para estos efectos el Consejo otorgará en cada caso la calificación de inversión estratégica o prioritaria.
 
-## Título Cuarto. De la Mejora Regulatoria
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE FEBRERO DE 2026)</small>
+
+## Título Cuarto. De la Simplificación Administrativa y Buenas Prácticas Regulatorias
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 39.
 
-Se entiende por mejora regulatoria, el conjunto de acciones que transparentan y eficientizan el marco jurídico aplicable a las actividades económicas, y facilitan, simplifican y agilizan los mecanismos, procedimientos, actos y resoluciones que rigen y reglamentan el acceso a los distintos servicios relacionados con la creación, instalación y consolidación de las empresas o unidades económicas, en todas sus fases productivas.
+Se entiende por Simplificación Administrativa y Buenas Prácticas Regulatorias al conjunto de acciones, políticas públicas, reglas, procedimientos y herramientas orientadas a facilitar y reducir trámites, requisitos y tiempos de resolución, eliminar cargas administrativas innecesarias, agilizar procesos y servicios, mejorando la interacción entre el Estado y la ciudadanía, con énfasis en el impulso al sector empresarial y la atracción de inversiones.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 40.
 
-La Comisión Estatal de Mejora Regulatoria (COESMER), es órgano desconcentrado de la Secretaría que tiene como finalidad potencializar la competitividad en el Estado de Chiapas a través de la simplificación administrativa y la desregulación de diferentes normas, ofreciendo mecanismos y herramientas de mejora a las pequeñas y medianas empresas como son: Ventanilla Única de Gestión Empresarial (VUGE) y Sistema de Apertura Rápida de Empresas (SARE), entre otros, que se realizan en coordinación con los municipios de la entidad y la federación.
+La Comisión Estatal de Simplificación Administrativa (COESA), es un órgano desconcentrado de la Secretaría responsable de coordinar, promover y supervisar las políticas públicas en materia de simplificación administrativa y buenas prácticas regulatorias en el Estado.
+
+La Comisión Estatal de Simplificación Administrativa (COESA), tiene como finalidad, entre otras, fortalecer la atracción de inversiones, impulsar el desarrollo económico y la eficiencia gubernamental mediante la implementación de la Ventanilla Integral Municipal (VIM) y otros mecanismos, proyectos, programas o herramientas que deriven de políticas públicas o disposiciones normativas aplicables en el ámbito estatal o federal.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2026)</small>
+
+###### Artículo 40 Bis.
+
+La Secretaría tendrá la facultad de establecer la Ventanilla Integral Municipal (VIM), en los municipios del Estado como punto único de atención y gestión de trámites y servicios para facilitar y agilizar la apertura, operación, consolidación y disolución de micro, pequeñas y medianas empresas, facilitando su funcionamiento y el acceso a financiamiento, apoyo y programas gubernamentales.
+
+Los Ayuntamientos Municipales, conforme a sus competencias y capacidades institucionales, brindarán a la Secretaría las facilidades operativas, administrativas, técnicas y presupuestales, así como la información, condiciones y respaldo necesario para la adecuada implementación y funcionamiento de la Ventanilla Integral Municipal (VIM), coadyuvando en el otorgamiento y seguimiento continuo de sus servicios. La operación y evaluación de la Ventanilla Integral Municipal (VIM) deberá sujetarse a los lineamientos técnicos que emita la Comisión Estatal de Simplificación Administrativa (COESA), procurando esquemas de interoperabilidad digital, enfoque ciudadano, inclusión productiva y sustentabilidad.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 41.
 
-Para el desarrollo de las atribuciones y objetivos conferidos a la COESMER, se estará a lo dispuesto en la Ley Estatal de Mejora Regulatoria, y demás disposiciones aplicables, en concordancia con los objetivos previstos en esta Ley.
+Para el cumplimiento de sus fines, la Comisión Estatal de Simplificación Administrativa (COESA), se regirá por lo dispuesto en la Ley en la materia, su Decreto de Creación, la legislación estatal y federal de simplificación administrativa, los lineamientos técnicos que emita en el ámbito de su competencia, y las demás disposiciones jurídicas aplicables.
 
 ### Capítulo II. Del Fomento a la Competitividad, Desarrollo Económico y Atracción de Inversiones en el Ámbito Municipal
 
@@ -451,7 +591,9 @@ Los Ayuntamientos en el ámbito de sus competencias, dictarán la normatividad q
 
 I. Las autoridades responsables, régimen de actuación y los procedimientos para fomentar la competitividad, el desarrollo económico y la atracción de inversiones en el Municipio.
 
-II. Las disposiciones en materia de mejora regulatoria y autoridades responsables de la misma; para lo cual tomarán como base la Ley de Mejora Regulatoria para el Estado de Chiapas.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+II. Las disposiciones en materia de simplificación administrativa y buenas prácticas regulatorias, para lo cual tomarán como base el marco normativo aplicable y los lineamientos, criterios técnicos o directrices que emita la Comisión Estatal de Simplificación Administrativa.
 
 III. En su caso, los esquemas necesarios para estimular e incentivar a las empresas, y las autoridades u organismos facultados para gestionarlos, otorgando los incentivos que procedan, de conformidad con las actividades sujetas a fomento económico y atracción de inversiones, según lo determine dicho orden de Gobierno.
 
@@ -568,3 +710,25 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I del artículo 44 de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la ciudad de Tuxtla Gutiérrez, Chiapas; a los cuatro días del mes de marzo del año dos mil catorce.
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Óscar Eduardo Ramírez Aguilar, Secretario General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 193 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO ECONÓMICO Y ATRACCIÓN DE INVERSIONES DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Las primeras versiones tanto de los diagnósticos como del Catálogo Estatal de Vocaciones Productivas deberán presentarse en el mes de diciembre de 2026, en el marco de una sesión del Consejo, actualizándose cada dos años en el caso de los diagnósticos y cada seis años en el caso del Catálogo Estatal de Vocaciones Productivas.
+
+Artículo Tercero. La primera versión del Plan Económico Estatal con perspectiva de largo plazo deberá presentarse en noviembre de 2028, quedando a criterio de la Secretaría la definición de la temporalidad contemplada en dicha planeación, teniendo como mínimo 12 y como máximo 30 años de alcance.
+
+Artículo Cuarto. Dentro del primer paquete de Proyectos Prioritarios para el Desarrollo Económico Estatal y la Inversión (PRODESI) que la Secretaría presentará ante el Consejo antes de que concluya 2026, deberán considerarse, entre otros, el proyecto de gasoducto de la ruta Reforma-Tuxtla Gutiérrez y el proyecto del parque industrial del área metropolitana ubicado en el predio denominado Llano San Juan, incluyendo la planta de ciclo combinado.
+
+Artículo Quinto. El Consejo Consultivo para el Desarrollo Económico y Atracción de Inversiones del Estado de Chiapas, deberá instalarse a más tardar en noventa días naturales, a partir de la entrada en vigor del presente Decreto, previa convocatoria que al efecto emita la Secretaría.
+
+Artículo Sexto.- Los recursos humanos, materiales y financieros que a la entrada en vigor del presente Decreto tenga asignados o le correspondan a la Comisión Estatal de Mejora Regulatoria (COESMER), que por este Decreto se extingue, serán transferidos a la Secretaría, en términos de la normatividad aplicable.
+
+Artículo Séptimo.- El Consejo someterá a consideración de la persona titular del Poder Ejecutivo del Estado, para la publicación respectiva, las adecuaciones al Reglamento de la Ley, en un plazo de ciento veinte días hábiles, contados a partir de la entrada en vigor del presente Decreto.
+
+Artículo Octavo.- Se derogan las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
