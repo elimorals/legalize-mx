@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-familiar-del-estado-de-zacatecas-8211"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-10"
-last_updated: "2024-02-28"
+last_updated: "2026-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2026.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 10 de mayo de 1986.
 
@@ -219,9 +219,9 @@ XII. Las sentencias que ordenen el levantamiento de una nueva acta por la reasig
 
 XIII. Los demás actos que así lo exijan las leyes.
 
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2026)</small>
 
-El Registro Civil tendrá a su cargo, además, el Registro de Deudores Alimentarios Morosos del Estado de Zacatecas, en el que se inscribirá a las personas que hayan dejado de cumplir sus obligaciones alimentarias ordenadas por los jueces familiares y tribunales o establecidas por convenio judicial.
+El Registro Civil tendrá a su cargo, además, el Registro de Deudores Alimentarios Morosos del Estado de Zacatecas, en el que se inscribirá gratuitamente a las personas que hayan dejado de cumplir sus obligaciones alimentarias ordenadas por los jueces familiares y tribunales o establecidas por convenio judicial.
 
 > <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2021)</small>
 
@@ -5492,3 +5492,15 @@ P.O. 28 DE FEBRERO DE 2024.
 Artículo primero. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan todas aquellas disposiciones que contravengan el presente decreto.
+
+P.O. 4 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 225.- SE REFORMA EL CÓDIGO FAMILIAR DEL ESTADO DE ZACATECAS, EN MATERIA DE REGISTRO DE DEUDORES ALIMENTARIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el primero de enero del año dos mil veintiséis, previa su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que contravengan el presente decreto.
