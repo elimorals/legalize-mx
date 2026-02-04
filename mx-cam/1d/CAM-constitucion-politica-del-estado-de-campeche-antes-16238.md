@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2025-10-09"
+last_updated: "2026-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -112,6 +112,62 @@ Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y 
 Toda persona tiene derecho a la cultura física, a la práctica del deporte y a la recreación, en condiciones de igualdad y sin discriminación alguna. Corresponde al Estado su promoción, fomento y estímulo conforme a las leyes en la materia. El Estado garantizará a las y los deportistas de alto rendimiento, el derecho a recibir becas, apoyos económicos y estímulos que les permitan su formación integral, la continuidad de su trayectoria deportiva y el desarrollo de su educación académica;
 
 Toda persona tiene el derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e internet.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2026)</small>
+
+Para efectos de lo dispuesto en el párrafo inmediato anterior, se observará lo siguiente:
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2026)</small>
+
+A. Para el ejercicio del derecho de acceso a la información, cualquier autoridad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, organismos autónomos, fideicomisos y fondos públicos, así como cualquier persona física o moral que reciba y ejerza recursos públicos o realice actos de autoridad en los ámbitos estatal o municipal, en el marco de sus respectivas competencias, se regirán por los principios y bases siguientes:
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+I. Toda la información en su posesión es pública y sólo podrá ser reservada temporalmente por las razones que fijen las leyes de la materia. Prevaleciendo así el principio de máxima publicidad.
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+II. Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones. La ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información.
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+III. La información que se refiere a la vida privada y los datos personales será protegida bajo los términos y excepciones que fije la ley relativa. Para tal efecto, los sujetos obligados contarán con las facultades suficientes para su atención.
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+IV. Toda persona tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos.
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+V. Se establecerán mecanismos de acceso a la información pública y procedimientos de revisión expeditos que se sustanciarán ante las instancias competentes en los términos que fija esta Constitución y las leyes respectivas.
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+VI. Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán, a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores que permitan rendir cuenta del cumplimiento de sus objetivos y de los resultados obtenidos.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2026)</small>
+
+La ley en la materia determinará la manera en la que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2026)</small>
+
+La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que disponga la ley.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2026)</small>
+
+Los sujetos obligados deberán promover, respetar, proteger y garantizar los derechos de acceso a la información pública y a la protección de datos personales.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2026)</small>
+
+Las leyes en la materia determinarán las bases, principios generales y procedimientos del ejercicio de estos derechos, así como la competencia de las autoridades de control interno y vigilancia u homólogos en el ámbito local para conocer los procedimientos de revisión contra los actos que emitan los sujetos obligados.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2026)</small>
+
+Los sujetos obligados se regirán por las Leyes en materia de transparencia y acceso a la información pública y de protección de datos personales, en los términos que estas sean emitidas para establecer las bases, principios generales y procedimientos del ejercicio de estos derechos. El ejercicio de estos derechos se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2026)</small>
+
+La ley establecerá aquella información que se considere reservada o confidencial.
 
 Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad.
 
@@ -643,6 +699,10 @@ Se deposita el ejercicio del Poder Legislativo del Estado en una asamblea que se
 
 El H. Congreso del Estado se compondrá de representantes electos directamente en su totalidad el primer domingo de junio de cada tres años, mediante sufragio universal, libre, secreto, directo, personal e intransferible, en los términos que determine la ley.
 
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2026)</small>
+
+El Órgano encargado de las funciones de contraloría del Poder Legislativo tendrá competencia para conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales, en el ámbito de su competencia; también conocerá de los recursos, en los términos que establezca la Ley en la materia.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ENERO DE 2021)</small>
 
 ###### ARTICULO 31.
@@ -1051,9 +1111,9 @@ XVIII.- Constituírse en Colegio Electoral y elegir al ciudadano que deba sustit
 
 XIX.- Expedir la ley que regule la estructura y funcionamiento del organismo estatal de protección de los derechos humanos, el cual tendrá autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios. Dichos Organismos conocerán de quejas en contra de actos u omisiones de naturaleza administrativa, proveniente de cualquier autoridad o servidor público de orden estatal o municipal, con excepción de asuntos electorales y jurisdiccionales; formularán recomendaciones públicas, no vinculatorias, denuncias y quejas ante las autoridades respectivas; podrá ejercitar la acción de inconstitucionalidad que tengan por objeto plantear la posible contradicción entre una norma expedida por la legislatura local y los derechos humanos consagrados en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales en los que México sea parte.
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2026)</small>
 
-XIX Bis.- Expedir la legislación que asegure y garantice el derecho de acceso a la información pública y protección de datos personales en posesión de los sujetos obligados en el Estado y sus Municipios; y que regule la integración de la estructura y el funcionamiento del organismo estatal encargado de promover y difundir el ejercicio de ese derecho, de resolver sobre la negativa a las solicitudes de información pública y de proteger los datos personales en poder de los sujetos obligados; así como legislar en materia de organización y administración de archivos, conforme a lo dispuesto en las leyes generales de esas materias.
+XIX bis. Expedir la legislación que asegure, promueva y garantice los derechos de acceso a la información pública y de protección de datos personales en posesión de los sujetos obligados en el Estado y sus Municipios; y que determine las bases, principios generales y procedimientos del ejercicio de estos derechos, así como la competencia de las autoridades para conocer de los procedimientos de revisión contra los actos que emitan los sujetos obligados; así como legislar en materia de organización y administración de archivos, conforme a lo dispuesto en las leyes generales de esas materias;
 
 > <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2012)</small>
 
@@ -1551,6 +1611,10 @@ Las Secretarías que integren la Administración Pública Estatal y las Dependen
 
 Derivado del informe que señala el artículo 43 de esta Constitución, las y los titulares de la administración pública centralizada comparecerán ante el Congreso bajo protesta de decir verdad.
 
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2026)</small>
+
+La Secretaría de la Contraloría del Poder Ejecutivo o su homologo tendrá competencia para conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales a cargo de las Secretarías, Dependencias y Entidades de los ramos de la Administración Pública establecidas en la Ley Orgánica relativa, así como de las que se encuentren a cargo de los Municipios y las entidades paramunicipales; también conocerá de los recursos, en los términos que establezca la Ley en la materia.
+
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 1979)</small>
 
 ###### ARTICULO 73.
@@ -1654,6 +1718,10 @@ El H. Tribunal Superior de Justicia nombrará y removerá a sus secretarios, sec
 La ley establecerá la forma y procedimientos mediante concursos abiertos para la integración de los órganos jurisdiccionales, observando el principio de paridad de género. La elección de las Magistradas y los Magistrados del Tribunal Superior de Justicia, las y los Magistrados del Tribunal de Disciplina Judicial, así como las Juezas y los Jueces de Primera Instancia, se regirá por las bases previstas en el artículo 78 BIS de esta Constitución.
 
 El ingreso, formación y permanencia del personal de la carrera judicial del Poder Judicial del Estado se sujetará a la regulación establecida en las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2026)</small>
+
+El Órgano encargado de las funciones de la contraloría del Poder Judicial tendrá competencia para conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales, en el ámbito de su competencia; también conocerá de los recursos, en los términos que establezca la Ley en la materia.
 
 > <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2024)</small>
 
@@ -2087,6 +2155,10 @@ El Tribunal de Justicia Administrativa funcionará de conformidad con su Ley Org
 
 Los Magistrados durarán en su encargo quince años improrrogables y sólo podrán ser removidos de sus cargos por las causas graves que señale la Ley.
 
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2026)</small>
+
+El Tribunal de Justicia Administrativa del Estado de Campeche, a través de su Órgano encargado de las funciones de contraloría, tendrá competencia para conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales, en el ámbito de su competencia; también conocerá de los recursos en los términos que establezca la Ley en la materia.
+
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 27 DE JUNIO DE 2017)</small>
 
 ### CAPITULO XVII TER. Del Sistema Anticorrupción del Estado de Campeche
@@ -2097,9 +2169,9 @@ ARTICULO 101 QUÁTER.- El Sistema Anticorrupción del Estado de Campeche es la i
 
 Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2026)</small>
 
-I. El Sistema contará con un Comité Coordinador que estará integrado por las personas titulares de la Auditoría Superior del Estado; de la Fiscalía Especializada en Combate a la Corrupción del Estado; de la Secretaría de la Contraloría de la Administración Pública Estatal; por la o el presidente del Tribunal de Justicia Administrativa del Estado; por la o el Presidente de la Comisión de Transparencia y Acceso a la Información Pública del Estado; así como por una o un representante del Tribunal de Disciplina Judicial y otro del Comité de Participación Ciudadana del Sistema Anticorrupción. El Comité Coordinador estará presidido por la o el Presidente del Consejo de Participación Ciudadana del Sistema.
+I. El Sistema contará con un Comité Coordinador que estará integrado por las personas titulares de la Auditoría Superior del Estado; de la Fiscalía Especializada en Combate a la Corrupción del Estado; de la Secretaría de la Contraloría de la Administración Pública Estatal; por la o el presidente del Tribunal de Justicia Administrativa del Estado; por la o el titular del órgano encargado de las funciones de transparencia y acceso a la información pública del Estado de Campeche; así como por una o un representante del Tribunal de Disciplina Judicial y otro del Comité de Participación Ciudadana del Sistema Anticorrupción. El Comité Coordinador estará presidido por la o el Presidente del Consejo de Participación Ciudadana del Sistema;
 
 II. El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la Ley en la materia, y
 
@@ -2138,6 +2210,10 @@ IV. No haber sido condenado por delito que amerite pena privativa de libertad ma
 V. Ser originario del Estado o haber residido en el Estado durante los dos años anteriores al día de la designación.
 
 El Fiscal Especializado en Combate a la Corrupción durará en su encargo siete años sin posibilidad de ser ratificado.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2026)</small>
+
+La Fiscalía Especializada en Combate a la Corrupción del Estado de Campeche, a través de su Órgano encargado de las funciones de la contraloría, tendrá competencia para conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales, en el ámbito de su competencia; también conocerá de los recursos en los términos que establezca la Ley en la materia.
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
 
@@ -2515,6 +2591,10 @@ Las adquisiciones y arrendamientos de todo tipo de bienes, prestación de servic
 
 Tratándose de contratos de naturaleza administrativa, podrá convenirse compromiso arbitral respecto de aquellas controversias que puedan ser objeto del mismo, en términos de lo que se establezca en las leyes respectivas.
 
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2026)</small>
+
+Los entes públicos ajustarán sus estructuras orgánicas y ocupacionales de conformidad con los principios de racionalidad y austeridad, eliminando todo tipo de duplicidades funcionales u organizacionales, atendiendo a las necesidades de mejora y modernización de la gestión pública.
+
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 1965)</small>
 
 ###### ARTICULO 122.
@@ -2543,33 +2623,7 @@ Los que obtengan sentencia condenatoria de prisión, en los casos y condiciones 
 
 El Estado y los municipios, en ejercicio de la función de seguridad pública en sus respectivos ámbitos de competencia, deberán establecer programas de prevención del delito, investigación y persecución del mismo para hacerla efectiva, así como la sanción de las infracciones administrativas; igualmente preservarán las libertades, la paz y el orden públicos en los términos de la legislación respectiva; para tal efecto, podrán celebrar los convenios de coordinación necesarios en los términos que establezca la Ley. La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
 
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2016)</small>
-
-###### ARTÍCULO 125 Bis.
-
-En el Estado de Campeche se contará con un organismo autónomo, especializado, imparcial y colegiado, responsable de garantizar el derecho de acceso a la información y de protección de datos personales en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en los ámbitos estatal y municipal.
-
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2023)</small>
-
-El organismo garante del derecho de acceso a la información y de protección de datos personales estará integrado por tres miembros, denominados Comisionadas y Comisionados, mismos que serán nombrados por el Congreso del Estado por un periodo de seis años. En la designación de las Comisionadas y Comisionados se observará el principio de paridad de género.
-
-En su funcionamiento, el organismo garante del derecho de acceso a la información y de protección de datos personales se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
-
-Para ser Comisionado del organismo garante se deberán satisfacer los siguientes requisitos:
-
-a) Ser mexicano en pleno goce de sus derechos civiles y políticos;
-
-b) Tener, al menos, treinta y cinco años cumplidos al día de su designación;
-
-c) Contar con título profesional expedido por autoridad o institución legalmente facultada para ello;
-
-d) Tener una residencia mínima de dos años en el Estado;
-
-e) No haber sido sentenciado condenatoriamente por delito grave ni estar inhabilitado para el servicio público; y
-
-f) No ser ni haber sido dirigente de algún partido político, asociación religiosa, ministro de culto o secretario de alguna dependencia de los ámbitos federal, estatal o municipal, por lo menos un año antes del momento en que se realice su designación como Comisionado.
-
-La estructura administrativa, la organización y el funcionamiento del organismo garante en materia de transparencia y de protección de datos personales, así como el procedimiento de elección y sustitución de los Comisionados se establecerán en la legislación secundaria estatal en materia de transparencia.
+ARTÍCULO 125 bis.- (DEROGADO, P.O. 4 DE FEBRERO DE 2026)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MAYO DE 2025)</small>
 
@@ -3668,3 +3722,39 @@ TERCERO.- La Secretaría de Administración y Finanzas de la Administración Pú
 CUARTO.- Las becas deportivas de alto rendimiento, podrán mantenerse o incrementarse, pero en ningún momento reducir el monto del año inmediato anterior, asegurando su progresividad.
 
 QUINTO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido de este decreto.
+
+P.O. 4 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO “NÚMERO 193 SE REFORMAN LA FRACCIÓN XIX BIS DEL ARTÍCULO 54; LA FRACCIÓN I DEL ARTÍCULO 101 QUÁTER; SE ADICIONAN UN PÁRRAFO DÉCIMO CUARTO, RECORRIÉNDOSE EL SUBSECUENTE EN SU ORDEN, AL ARTÍCULO 6o.; UN ÚLTIMO PÁRRAFO AL ARTÍCULO 30; UN ÚLTIMO PÁRRAFO AL ARTÍCULO 72; UN ÚLTIMO PÁRRAFO AL ARTÍCULO 77; UN ÚLTIMO PÁRRAFO AL ARTÍCULO 101 TER; UN ÚLTIMO PÁRRAFO AL ARTÍCULO 101 QUINQUIES; UN ÚLTIMO PÁRRAFO AL ARTÍCULO 121 BIS; Y SE DEROGA EL ARTÍCULO 125 BIS, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- A partir de la entrada en vigor del presente decreto, en un plazo de noventa días naturales, se deberán realizar las modificaciones necesarias a las Leyes en materia de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, así como a las Leyes que se estimen necesarias, en relación con lo establecido en el presente decreto.
+
+Una vez que entre en vigor la legislación secundaria en materia de transparencia, acceso a la información pública y protección de datos personales según los términos del presente decreto, se entenderá extinta la Comisión de Transparencia y Acceso a la Información Pública del Estado de Campeche.
+
+TERCERO.- La Comisión de Transparencia y Acceso a la Información Pública del Estado de Campeche deberá, sin excepción alguna, en un plazo de treinta días naturales contados a partir de la fecha de publicación del presente Decreto en el Periódico Oficial del Estado de Campeche, sustanciar y finiquitar todos los procedimientos iniciados ante dicha Comisión que no hayan sido concluidos previamente.
+
+Asimismo, al terminar el plazo establecido en el párrafo anterior, el Organismo tendrá un plazo de quince días naturales para entregar a la Secretaría de Administración y Finanzas el listado de todos los expedientes ya concluido.
+
+CUARTO.- En virtud de la desaparición de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Campeche, este Organismo deberá poner a disposición de la Secretaría de Administración y Finanzas sus recursos humanos y transferirle oportunamente los recursos financieros, económicos, presupuestales y materiales que le correspondan dentro del plazo mencionado en el artículo transitorio que antecede. La Secretaría de Administración y Finanzas integrará un organismo liquidador cuya función será de garantizar la adecuada extinción de las obligaciones de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Campeche hasta la cancelación de su Registro Federal de Contribuyentes. La Secretaría de Administración y Finanzas podrá emitir lineamientos para el funcionamiento del organismo liquidador, así mismo, realizará las previsiones y adecuaciones presupuestales para la asignación de los recursos que haya recibido, según las necesidades y la viabilidad presupuestal de la Administración Pública Estatal, privilegiando la asignación de recursos para la Secretaría de la Contraloría u homólogo.
+
+El procedimiento de extinción no podrá extenderse por más de seis meses posteriores a la entrada en vigor del presente decreto.
+
+Los derechos laborales y de seguridad sociales de las y los servidores públicos que laboran en la Comisión de Transparencia y Acceso a la Información Pública del Estado de Campeche, se respetarán con base en la legislación y los criterios jurisprudenciales en la materia.
+
+QUINTO.- A partir de la publicación del presente decreto en el Periódico Oficial del Estado de Campeche, la Comisión de Transparencia y Acceso a la Información Pública del Estado de Campeche no podrá contraer deudas ni obligaciones económicas o de cualquier otro tipo, y deberá entregar un informe integral a la Secretaría de Administración y Finanzas en el que se especifique la situación financiera, presupuestal, contable, organizacional y jurídica del Organismo en el momento en que se ponga a disposición los recursos mencionados en el artículo anterior. La Secretaría de Administración y Finanzas entregará dicho informe al organismo liquidador para el cumplimiento de sus funciones.
+
+SEXTO.- A partir de la publicación del presente Decreto, la Comisión de Transparencia y Acceso a la Información Pública del Estado de Campeche continuará recibiendo todas las solicitudes, recursos y medios de impugnación que presenten las personas, garantizando la continuidad del ejercicio del derecho de acceso a la información pública y protección de datos personales.
+
+La sustanciación de los nuevos procedimientos se suspenderá temporalmente durante el periodo de transición, reanudándose una vez que entren en funciones las nuevas autoridades garantes.
+
+Dicha suspensión no podrá exceder un plazo máximo de noventa días naturales contados a partir de la instalación formal de dichas autoridades, y en ningún caso implicará la interrupción, afectación o limitación del derecho de acceso a la información.
+
+SÉPTIMO.- En relación con los recursos humanos de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Campeche, todas las personas servidoras públicas pertenecientes a dicho Organismo Constitucional Autónomo, a partir de la entrada en vigor del presente decreto, deberán realizar la correspondiente entrega-recepción en los plazos y procedimientos previstos en Ley de Entrega-Recepción del Estado de Campeche y sus Municipios.
+
+En el procedimiento de entrega de recursos humanos, materiales, económicos, financieros y presupuestales se contará con la participación de la Secretaría de la Contraloría, en ejercicio de las facultades que se le confiere en el artículo 41 de la Ley Orgánica de la Administración Pública del Estado de Campeche en vigor.
+
+OCTAVO.- Las y los Comisionados de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Campeche que, a la entrada en vigor del presente decreto continúen en su cargo, concluirán sus funciones al momento de entrega de los recursos e informes mencionados en los artículos transitorios que anteceden.
+
+NOVENO.- Las menciones, atribuciones o funciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto a la Comisión de Transparencia y Acceso a la Información Pública del Estado de Campeche, se entenderán hechas o referidas a los entes públicos que adquieren tales atribuciones o funciones, según corresponda.
