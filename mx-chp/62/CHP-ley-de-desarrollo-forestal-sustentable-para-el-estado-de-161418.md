@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-161418
 country: "mx"
 rank: "ley"
 publication_date: "2022-12-14"
-last_updated: "2022-12-14"
+last_updated: "2026-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 14 de Diciembre de 2022.
 
@@ -47,113 +47,129 @@ Por las anteriores consideraciones este Honorable Congreso del Estado, ha tenido
 
 ### Capítulo Único. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 1.
 
-La Presente Ley es de orden público, interés social y de observancia general en el Estado de Chiapas, tiene por objeto establecer las disposiciones para promover el Desarrollo Forestal Sustentable, garantizando la conservación y protección de los Recursos Forestales, contribuyendo al desarrollo social, económico, ecológico y ambiental de la Entidad.
+La presente Ley es de orden público, interés social y de observancia general en el Estado de Chiapas, tiene por objeto regular, fomentar el manejo integral y sustentable de los territorios forestales; garantizando la conservación, protección, restauración, producción, ordenación, el cultivo, manejo y aprovechamiento de los ecosistemas forestales del Estado de Chiapas; contribuyendo al desarrollo social, económico, ecológico y ambiental de la Entidad.
+
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 2.
 
 Para los efectos de la presente Ley se entenderá por:
 
-I. Áreas de Protección Forestal: A los espacios forestales o boscosos colindantes a la zona federal y de influencia de nacimientos, corrientes, costas, cursos y cuerpos de agua a la faja de terreno inmediata a los cuerpos de propiedad particular, en la extensión que en cada caso fije la autoridad, de conformidad con las Leyes aplicables en la materia.
+I. Áreas de Protección Forestal: A los espacios forestales o boscosos colindantes a la zona federal y de influencia de nacimientos, corrientes, costas, cursos y cuerpos de agua a la faja de terreno inmediata a los cuerpos de propiedad particular, en la extensión que en cada caso fije la autoridad, de conformidad con las Leyes aplicables en la materia;
 
-II. Bosque: A la Vegetación Forestal principalmente de zonas de clima templado en la que predominan especies leñosas perennes que se desarrollan en forma espontánea, como una cobertura de copa mayor al 10% de la superficie que ocupa, siempre que formen masas mayores a 1500 metros cuadrados. Esta categoría incluye todos los tipos de Bosques señalados en la clasificación del Instituto Nacional de Estadística y Geografía.
+II. Árbol: Planta leñosa perenne con un solo tronco principal o, en el caso del monte bajo con varios tallos, que tengan una copa más o menos definida;
 
-III. Buenas Prácticas: Al uso y aprovechamiento de tierras, ecosistemas y Recursos Forestales con bases, criterios y métodos apegados a los principios que establece la presente Ley, tendientes a lograr un manejo forestal sustentable.
+III. Bosque: A la Vegetación Forestal principalmente de zonas de clima templado en la que predominan especies leñosas perennes que se desarrollan en forma espontánea, como una cobertura de copa mayor al 10% de la superficie que ocupa, siempre que formen masas mayores a 1500 metros cuadrados. Esta categoría incluye todos los tipos de Bosques señalados en la clasificación del Instituto Nacional de Estadística y Geografía;
 
-IV. Cadena Productiva: A los procesos de producción, transformación, industrialización y comercialización de materias primas, productos y subproductos forestales.
+IV. Buenas Prácticas: Al uso y aprovechamiento de tierras, ecosistemas y Recursos Forestales con bases, criterios y métodos apegados a los principios que establece la presente Ley, tendientes a lograr un manejo forestal sustentable;
 
-V. Cambio de Uso del Suelo en Terreno Forestal: A la remoción total o parcial de la Vegetación Forestal en Terrenos Forestales para destinarlos a actividades no forestales.
+V. Cadena Productiva: A los procesos de producción, transformación, industrialización y comercialización de materias primas y productos forestales;
 
-VI. Centro Estatal: Al Centro Estatal de Protección Civil, Monitoreo de Riesgos y Manejo del Fuego, el cual tiene como finalidad la toma de decisiones técnicas mediante protocolos para el despacho de los recursos humanos, terrestres, aéreos, herramientas y equipo técnico, para el manejo de los incendios forestales en el marco del Sistema de Comando de Incidentes; así como planificar, coordinar y supervisar lo referente a la prevención de incendios forestales.
+VI. Cambio de Uso del Suelo en Terreno Forestal: A la remoción total o parcial de la Vegetación Forestal en Terrenos Forestales para destinarlos a actividades no forestales;
 
-VII. Certificación Forestal: A los medios para acreditar el adecuado manejo forestal, la protección de los ecosistemas forestales y el acceso a mercados nacionales e internacionales interesados en el futuro de los Recursos Forestales.
+VII. Centro Estatal: Al Centro Estatal de Protección Civil, Monitoreo de Riesgos y Manejo del Fuego, el cual tiene como finalidad la toma de decisiones técnicas mediante protocolos para el despacho de los recursos humanos, terrestres, aéreos, herramientas y equipo técnico, para el manejo de los incendios forestales en el marco del Sistema de Comando de Incidentes; así como planificar, coordinar y supervisar lo referente a la prevención de incendios forestales;
 
-VIII. Consejo Estatal Forestal: Al órgano consultivo y de opinión, de asesoramiento y concertación en materias de planeación, evaluación de políticas públicas en materia forestal, aprovechamiento, conservación, protección, y restauración de los Recursos Forestales en el Estado, constituido en el marco del Consejo Nacional Forestal.
+VIII. Certificación Forestal: A los medios para acreditar el adecuado manejo forestal, la protección de los ecosistemas forestales y el acceso a mercados nacionales e internacionales interesados en el futuro de los Recursos Forestales;
 
-IX. Control Forestal: Al Conjunto de medidas de inspección, verificación, vigilancia, auditoría y sanciones tendientes a promover la aplicación y el cumplimiento efectivo de la presente Ley.
+IX. Consejo Estatal Forestal: Al órgano consultivo y de opinión, de asesoramiento y concertación en materias de planeación, evaluación de políticas públicas en materia forestal, aprovechamiento, conservación, protección, y restauración de los Recursos Forestales en el Estado, constituido en el marco del Consejo Nacional Forestal;
 
-X. Criterios: A los lineamientos obligatorios contenidos en la presente Ley, para orientar las acciones de preservación y restauración del equilibrio ecológico, el aprovechamiento sustentable de los recursos naturales y la protección al ambiente, que tendrán el carácter de instrumentos de política forestal.
+X. Control Forestal: Al Conjunto de medidas de inspección, verificación, vigilancia, auditoría y sanciones tendientes a promover la aplicación y el cumplimiento efectivo de la presente Ley;
 
-XI. Cuenca Hidrográfica: Superficie geográfica delimitada por la parte más alta de las montañas a partir de la cual fluyen las corrientes de agua, las cuales se unen y desembocan en una presa, lago o al mar.
+XI. Criterios: A los lineamientos obligatorios contenidos en la presente Ley, para orientar las acciones de preservación y restauración del equilibrio ecológico, el aprovechamiento sustentable de los recursos naturales y la protección al ambiente, que tendrán el carácter de instrumentos de política forestal;
 
-XII. Desarrollo de los Servicios Ecosistémicos: Al conjunto de medidas y acciones que tienen por objeto el mantenimiento, incremento, restauración, cuantificación, valoración y pago de estos servicios por parte de los usuarios.
+XII. Cuenca Hidrográfica: Superficie geográfica delimitada por la parte más alta de las montañas a partir de la cual fluyen las corrientes de agua, las cuales se unen y desembocan en una presa, lago o al mar;
 
-XIII. Desarrollo Forestal Sustentable: Al proceso evaluable mediante Criterios e Indicadores de carácter ambiental, económico y social, fundado en medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, creado para mejorar la calidad de vida y la productividad de las personas de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras.
+XIII. Degradación forestal: Proceso de disminución de la capacidad de los terrenos forestales en uno o varios de sus componentes para brindar servicios ambientales, así como la pérdida o reducción de su capacidad productiva;
 
-XIV. Ecoturismo: A la actividad ambientalmente responsable consistente en viajar o visitar áreas naturales, con el fin de disfrutar, apreciar y estudiar la naturaleza así como cualquier elemento cultural del pasado o del presente que promueva la conservación, produzca un bajo impacto ambiental y cultural y desarrolle la activa participación socioeconómica de la población local.
+XIV. Desarrollo de los Servicios Ecosistémicos: Al conjunto de medidas y acciones que tienen por objeto el mantenimiento, incremento, restauración, cuantificación, valoración y pago de estos servicios por parte de los usuarios;
 
-XV. Fomento de Capacidades: Al proceso de creación y fortalecimiento de capacidades institucionales e individuales, para que pueda generarse una participación efectiva en todos los aspectos relativos al desarrollo forestal.
+XV. Desarrollo Forestal Sustentable: Al proceso evaluable mediante Criterios e Indicadores de carácter ambiental, económico y social, fundado en medidas apropiadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, creado para mejorar la calidad de vida y la productividad de las personas de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
 
-XVI. Incendio Forestal: Al siniestro causado en forma natural, intencional, accidental o fortuitamente por el fuego, que se presenta en áreas cubiertas de vegetación, árboles, maleza, matorrales y, en general, en cualquiera de los diferentes tipos de asociaciones vegetales en Terrenos Forestales o Preferentemente Forestales.
+XVI. Ecoturismo: A la actividad ambientalmente responsable consistente en viajar o visitar áreas naturales, con el fin de disfrutar, apreciar y estudiar la naturaleza, así como cualquier elemento cultural del pasado o del presente que promueva la conservación, produzca un bajo impacto ambiental y cultural y desarrolle la activa participación socioeconómica de la población local;
 
-XVII. Indicadores: A los instrumentos de medición que permiten evaluar el nivel de logro alcanzado por las estrategias y programas en el cumplimiento de sus objetivos, conforme a especificaciones cuantitativas.
+XVII. Fomento de Capacidades: Al proceso de creación y fortalecimiento de capacidades institucionales e individuales, para que pueda generarse una participación efectiva en todos los aspectos relativos al desarrollo forestal;
 
-XVIII. Inventario Estatal Forestal y de Suelos: Al instrumento de política forestal que contiene información organizada y sistemática de los bienes y servicios forestales.
+XVIII. Incendio Forestal: Al siniestro causado en forma natural, intencional, accidental o fortuitamente por el fuego, que se presenta en áreas cubiertas de vegetación, árboles, maleza, matorrales y, en general, en cualquiera de los diferentes tipos de asociaciones vegetales en Terrenos Forestales o Preferentemente Forestales;
 
-XIX. Ley: A la Ley de Desarrollo Forestal Sustentable para el Estado de Chiapas.
+XIX. Indicadores: A los instrumentos de medición que permiten evaluar el nivel de logro alcanzado por las estrategias y programas en el cumplimiento de sus objetivos, conforme a especificaciones cuantitativas;
 
-XX. Ley General: A la Ley General de Desarrollo Forestal Sustentable.
+XX. Inventario Estatal Forestal y de Suelos: Al instrumento de política forestal que contiene información organizada y sistemática de los bienes y servicios forestales;
 
-XXI. Manejo Forestal: Al proceso que comprende el conjunto de políticas, estrategias, acciones y procedimientos establecidas con el fin de determinar las actividades de ordenación, gestión, el cultivo, la protección, la conservación, la restauración, aprovechamiento, investigación, producción de bienes y servicios, capacitación, educación, recreación y demás actividades relacionadas con la gestión de los recursos y servicios ambientales de un ecosistema forestal, considerando los principios y Criterios previstos en esta Ley.
+XXI. Ley: A la Ley de Desarrollo Forestal Sustentable para el Estado de Chiapas;
 
-XXII. Manejo Integral del Fuego: Al conjunto de actividades encaminadas a la prevención, combate y control de los Incendios Forestales, evaluación ecológica y las de capacitación, organización, cultura y difusión forestal.
+XXII. Ley General: A la Ley General de Desarrollo Forestal Sustentable;
 
-XXIII. Manejo Integral de Plagas y Enfermedades: Al conjunto de actividades encaminadas a la prevención, detección, combate y control de plagas y enfermedades forestales en el Estado.
+XXIII. Manejo Forestal: Al proceso que comprende el conjunto de políticas, estrategias, acciones y procedimientos establecidas con el fin de determinar las actividades de ordenación, gestión, el cultivo, la protección, la conservación, la restauración, aprovechamiento, investigación, producción de bienes y servicios, capacitación, educación, recreación y demás actividades relacionadas con la gestión de los recursos y servicios ambientales de un ecosistema forestal, considerando los principios y Criterios previstos en esta Ley;
 
-XXIV. Ordenamiento Forestal: Al instrumento técnico de planeación que permite ordenar el territorio del Estado en función de zonas que guardan características en común en función de su grado de conservación y representatividad de sus ecosistemas, la vocación natural del terreno, de su uso actual y potencial.
+XXIV. Manejo forestal comunitario: Es el que realizan, de manera colectiva, en las diversas fases de la cadena de valor, los núcleos agrarios, los pueblos y comunidades indígenas y afromexicanas, comunidades, propietarios y poseedores legítimos, bajo los principios de sustentabilidad, equidad, inclusión y respeto a las tradiciones, usos y costumbres;
 
-XXV. Preservación: Al conjunto de políticas y medidas para mantener las condiciones que propicien la evolución y continuidad de los ecosistemas forestales, así como los bienes y servicios que éstos proveen.
+XXV. Manejo Integral del Fuego: Al conjunto de actividades encaminadas a la prevención, combate y control de los Incendios Forestales, evaluación ecológica y las de capacitación, organización, cultura y difusión forestal;
 
-XXVI. Prestador de Servicios Forestales: A la persona física o moral, que en el ámbito de su formación profesional y/o técnica, formule, ejecute, evalúe y dictamine programas, proyectos y estudios sobre manejo, producción, diversificación productiva, transformación, industrialización, comercialización, capacitación, asistencia técnica y los relacionados al servicio gerencial y asesoría legal en materia forestal, debidamente inscrito ante el Registro Forestal.
+XXVI. Manejo Integral de Plagas y Enfermedades: Al conjunto de actividades encaminadas a la prevención, detección, combate y control de plagas y enfermedades forestales en el Estado;
 
-XXVII. Procuraduría: A la Procuraduría Ambiental del Estado de Chiapas.
+XXVII. Ordenamiento Forestal: Al instrumento técnico de planeación que permite ordenar el territorio del Estado en función de zonas que guardan características en común en función de su grado de conservación y representatividad de sus ecosistemas, la vocación natural del terreno, de su uso actual y potencial;
 
-XXVIII. Productores: A las personas físicas o morales dedicadas a la actividad forestal.
+XXVIII. Preservación: Al conjunto de políticas y medidas para mantener las condiciones que propicien la evolución y continuidad de los ecosistemas forestales, así como los bienes y servicios que éstos proveen;
 
-XXIX. Programa de Manejo Forestal: Al Instrumento de gestión que identifica necesidades, establece objetivos y prioridades y organiza acciones a ejecutar en el corto, mediano y largo plazo, para la conservación de la biodiversidad y el aprovechamiento sustentable de los recursos naturales de un área determinada.
+XXIX. Prestador de Servicios Forestales: A la persona física o moral, que en el ámbito de su formación profesional y/o técnica, formule, ejecute, evalúe y dictamine programas, proyectos y estudios sobre manejo, producción, diversificación productiva, transformación industrialización, comercialización, capacitación, asistencia técnica y los relacionados al servicio gerencial y asesoría legal en materia forestal, debidamente inscrito ante el Registro Forestal;
 
-XXX. Programa Estatal de Manejo Integral del Fuego: Instrumento de planeación que define los objetivos y alcances de la prevención, detección, combate e información relacionada con los incendios forestales.
+XXX. Procuraduría: A la Procuraduría Ambiental del Estado de Chiapas;
 
-XXXI. Protección: Al conjunto de políticas y medidas establecidas para mejorar el ambiente y controlar su deterioro.
+XXXI. Productores: A las personas físicas o morales dedicadas a la actividad forestal;
 
-XXXII. Quema Agropecuaria: Al fuego causado en forma inducida en áreas delimitadas para la realización de actividades agropecuarias que no afectan la vegetación arbórea.
+XXXII. Programa de Manejo Forestal: Al Instrumento de gestión que identifica necesidades, establece objetivos y prioridades y organiza acciones a ejecutar en el corto, mediano y largo plazo, para la conservación de la biodiversidad y el aprovechamiento sustentable de los recursos naturales de un área determinada;
 
-XXXIII. Quema Prescrita: A las quemas cuidadosamente controladas, realizadas con aplicación de combustible vegetal, bajo condiciones meteorológicas que resulten favorables, a fin de cumplir con objetivos de manejo del suelo o ecológicos que involucran un plan escrito.
+XXXIII. Programa Estatal de Manejo Integral del Fuego: Instrumento de planeación que define los objetivos y alcances de la prevención, detección, combate e información relacionada con los incendios forestales;
 
-XXXIV. Quema Urbana o de Vías: A las quemas realizadas en las zonas urbanas y en la superficie adyacente a las vías de comunicación.
+XXXIV. Protección: Al conjunto de políticas y medidas establecidas para mejorar el ambiente y controlar su deterioro;
 
-XXXV. Recursos Forestales: A la vegetación de los ecosistemas forestales, sus servicios, productos y residuos, así como los suelos de los Terrenos Forestales y preferentemente forestales.
+XXXV. Quema Agropecuaria: Al fuego causado en forma inducida en áreas delimitadas para la realización de actividades agropecuarias que no afectan la vegetación arbórea;
 
-XXXVI. Recursos Forestales Maderables: A los recursos constituidos por vegetación leñosa susceptibles de aprovechamiento o uso.
+XXXVI. Quema Prescrita: A las quemas cuidadosamente controladas, realizadas con aplicación de combustible vegetal, bajo condiciones meteorológicas que resulten favorables, a fin de cumplir con objetivos de manejo del suelo o ecológicos que involucran un plan escrito;
 
-XXXVII. Recursos Forestales No Maderables: A la parte no leñosa de la vegetación de un ecosistema forestal, que es susceptible de aprovechamiento o uso, incluyendo líquenes, musgos, hongos y resinas, así como los suelos de terrenos forestales.
+XXXVII. Quema Urbana o de Vías: A las quemas realizadas en las zonas urbanas y en la superficie adyacente a las vías de comunicación;
 
-XXXVIII. Registro Forestal: Al Registro Forestal Estatal.
+XXXVIII. Recursos Forestales: A la vegetación de los ecosistemas forestales, sus servicios, productos y residuos, así como los suelos de los Terrenos Forestales y preferentemente forestales;
 
-XXXIX. Restauración: Al conjunto de actividades tendientes a la rehabilitación de un ecosistema forestal degradado, para recuperar parcial o totalmente las funciones originales del mismo y mantener las condiciones que propicien su persistencia y evolución.
+XXXIX. Recursos Forestales Maderables: A los recursos constituidos por vegetación leñosa susceptibles de aprovechamiento o uso;
 
-XL. Secretaría: A la Secretaría de Medio Ambiente e Historia Natural.
+XL. Recursos Forestales No Maderables: A la parte no leñosa de la vegetación de un ecosistema forestal, que es susceptible de aprovechamiento o uso, incluyendo líquenes, musgos, hongos y resinas, así como los suelos de terrenos forestales;
 
-XLI. SPC: A la Secretaría de Protección Civil.
+XLI. Registro Forestal: Al Registro Forestal Estatal;
 
-XLII. Selva: A la Vegetación Forestal de clima tropical en la que predominan especies leñosas perennes que se desarrollan en forma espontánea, como una cobertura de copa mayor al 10 % de la superficie que ocupa, siempre que formen masas mayores a 1500 metros cuadrados, excluyendo a los acahuales. En esta categoría se incluyen a todos los tipos de selva, manglar y palmar de la clasificación del Instituto Nacional de Estadística y Geografía.
+XLII. Restauración: Al conjunto de actividades tendientes a la rehabilitación de un ecosistema forestal degradado, para recuperar parcial o totalmente las funciones originales del mismo y mantener las condiciones que propicien su persistencia y evolución;
 
-XLIII. Servicios Ecosistémicos: Son aquellos que brindan los ecosistemas forestales de manera natural o por medio del manejo sustentable de los Recursos Forestales, tales como servicios de provisión o suministro de bienes de consumo humano; regulación cultural y de soporte.
+XLIII. Secretaría: A la Secretaría de Medio Ambiente e Historia Natural;
 
-XLIV. Sistema Estatal: Al Sistema Estatal de Información Forestal.
+XLIV. SPC: A la Secretaría de Protección Civil;
 
-XLV. Sistema de Comando de Incidentes: Es la combinación de instalaciones, equipamiento, personal, protocolos, procedimientos y comunicaciones operando en una estructura organizacional común, con la responsabilidad de administrar los recursos asignados para lograr efectivamente los objetivos operacionales pertinentes en un incidente.
+XLV. Selva: A la Vegetación Forestal de clima tropical en la que predominan especies leñosas perennes que se desarrollan en forma espontánea, como una cobertura de copa mayor al 10 % de la superficie que ocupa, siempre que formen masas mayores a 1500 metros cuadrados, excluyendo a los acahuales.
 
-XLVI. Terreno Forestal: Al espacio de tierra que está cubierto por Vegetación Forestal.
+En esta categoría se incluyen a todos los tipos de selva, manglar y palmar de la clasificación del Instituto Nacional de Estadística y Geografía;
 
-XLVII. Terreno Preferentemente Forestal: Al espacio de tierra que no se encuentra cubierto por Vegetación Forestal, pero que por sus condiciones de clima, suelo y topografía resulte más apto para el uso forestal que para otros usos alternativos, excluyendo aquellos ya urbanizados.
+XLVI. Servicios Ecosistémicos: Son aquellos que brindan los ecosistemas forestales de manera natural o por medio del manejo sustentable de los Recursos Forestales, tales como servicios de provisión o suministro de bienes de consumo humano; regulación cultural y de soporte;
 
-XLVIII. Uso Doméstico: Al aprovechamiento sin propósitos comerciales, de los Recursos Forestales extraídos del medio natural en el que se encuentran, para usos rituales o satisfacer las necesidades de energía calorífica, vivienda, aperos de labranza y otros usos en la satisfacción de sus necesidades básicas en el medio rural.
+XLVII. Silvicultura: La teoría y práctica de controlar el establecimiento, composición, constitución, crecimiento y desarrollo de los ecosistemas forestales para la continua producción de bienes y servicios;
 
-XLIX. Vegetación Forestal: Al conjunto de plantas y hongos que crecen y se desarrollan en forma natural, formando Bosques, Selvas, zonas áridas y semiáridas, y otros ecosistemas, dando lugar al desarrollo y convivencia equilibrada de otros recursos y procesos naturales.
+XLVIII. Sistema Estatal: Al Sistema Estatal de Información Forestal;
 
-L. Visita de Inspección: A la supervisión que realiza el personal autorizado por la Secretaría, con el objeto de verificar que el aprovechamiento, manejo, transporte, almacenamiento y transformación de Recursos Forestales, en cumplimiento a la Ley y demás disposiciones legales aplicables.
+XLIX. Sistema de Comando de Incidentes: Es la combinación de instalaciones, equipamiento, personal, protocolos, procedimientos y comunicaciones operando en una estructura organizacional común, con la responsabilidad de administrar los recursos asignados para lograr efectivamente los objetivos operacionales pertinentes en un incidente;
+
+L. Suelo Forestal: Cuerpo natural que ocurre sobre la superficie de la corteza terrestre, compuesto de material mineral y orgánico, líquidos y gases, que presenta horizontes o capas y que es capaz de soportar vida; que han evolucionado bajo una cubierta forestal y que presentan características que les confirió la vegetación forestal que en él se ha desarrollado;
+
+LI. Terreno Forestal: Al espacio de tierra que está cubierto por Vegetación Forestal;
+
+LII. Terreno Preferentemente Forestal: Al espacio de tierra que no se encuentra cubierto por Vegetación Forestal, pero que, por sus condiciones de clima, suelo y topografía resulte más apto para el uso forestal que para otros usos alternativos, excluyendo aquellos ya urbanizados;
+
+LIII. Uso Doméstico: Al aprovechamiento sin propósitos comerciales, de los Recursos Forestales extraídos del medio natural en el que se encuentran, para usos rituales o satisfacer las necesidades de energía calorífica, vivienda, aperos de labranza y otros usos en la satisfacción de sus necesidades básicas en el medio rural;
+
+LIV. Vegetación Forestal: Al conjunto de plantas y hongos que crecen y se desarrollan en forma natural, formando Bosques, Selvas, zonas áridas y semiáridas, y otros ecosistemas, dando lugar al desarrollo y convivencia equilibrada de otros recursos y procesos naturales;
+
+LV. Visita de Inspección: A la supervisión que realiza el personal autorizado por la Secretaría, con el objeto de verificar que el aprovechamiento, manejo, transporte, almacenamiento y transformación de Recursos Forestales, en cumplimiento a la Ley y demás disposiciones legales aplicables.
 
 ###### Artículo 3.
 
@@ -165,9 +181,19 @@ II. Garantizar el Desarrollo Forestal Sustentable, contribuyendo al desarrollo s
 
 III. Incrementar la competitividad y contribuir a mejorar el nivel de vida de los habitantes del Estado, especialmente el de los propietarios y poseedores de Terrenos Forestales, a través del impulso al Desarrollo Forestal Sustentable y ampliación de la participación de la producción forestal en el crecimiento económico estatal.
 
-IV. Contribuir al desarrollo sustentable de las comunidades indígenas mediante el fomento, defensa y respeto de los derechos de uso y disfrute preferente de los Recursos Forestales de los lugares que ocupan y habitan las comunidades indígenas en el Estado.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+IV. Contribuir al desarrollo sustentable de los pueblos y comunidades indígenas y afromexicanas mediante el fomento, defensa y respeto de los derechos de uso y disfrute preferente de los Recursos Forestales de los lugares que estos ocupan.
 
 V. Contribuir a la mitigación y adaptación al cambio climático.
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+VI. Promover, en la política forestal, acciones afirmativas tendientes a garantizar la igualdad sustantiva de oportunidades para las mujeres, las personas pertenecientes a los pueblos y comunidades indígenas y afromexicanas, los jóvenes y las personas con capacidades diferentes, y
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+VII. Respetar, en el ámbito de la Ley, los derechos de las comunidades indígenas, afromexicanas y equiparables, así como el uso y disfrute de sus recursos forestales en los términos de normatividad nacional aplicable y los instrumentos internacionales vinculantes. fomentando mecanismos de manejo y protección de los ecosistemas forestales de conformidad a sus prácticas y perspectivas; salvaguardando el conocimiento de las mismas; respetando sus derechos de consulta libre, previa e informada y su derecho de conocimiento fundamentado previo, según corresponda.
 
 ###### Artículo 4.
 
@@ -219,7 +245,9 @@ XXII. Desarrollar y fomentar mejores prácticas de Manejo Forestal y Ecoturismo 
 
 XXIII. Fortalecer las capacidades institucionales para ejercer las funciones y atribuciones que en materia forestal transfiera la Federación.
 
-XXIV. Desarrollar capacidades efectivas en los ejidatarios, comuneros, pequeños propietarios, comunidades indígenas y otros Productores para mejorar procesos productivos, comerciales, organizativos y empresariales.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+XXIV. Desarrollar capacidades efectivas en los ejidatarios, comuneros, pequeños propietarios, pueblos y comunidades indígenas y afromexicanas y otros Productores para mejorar procesos productivos, comerciales, organizativos y empresariales.
 
 XXV. Estimular y facilitar el desarrollo y la transferencia de tecnología e impulsar la educación, investigación y capacitación para el Desarrollo Forestal Sustentable.
 
@@ -229,7 +257,29 @@ XXVII. Consolidar la participación activa de la sociedad y gobierno en la polí
 
 XXVIII. Establecer y coordinar la estrategia de Protección de los Recursos Forestales en la Entidad, a través de acciones de Inspección y Vigilancia Forestal.
 
-XXIX. Los demás que sean de interés para promover un Desarrollo Forestal Sustentable.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE FEBRERO DE 2026)</small>
+
+XXIX. Contribuir al desarrollo socioeconómico de los pueblos y comunidades indígenas y afromexicanas, así como de ejidatarios, comuneros, cooperativas, pequeños propietarios y demás poseedores de recursos forestales.
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+XXX. Proteger los derechos de los pueblos y comunidades indígenas y afromexicanas, equiparables a los propietarios forestales, así como los derechos humanos en lo concerniente a la aplicación de la Ley.
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+XXXI. Garantizar la participación de la sociedad, incluyendo a los pueblos y comunidades indígenas y afromexicanas, en la aplicación, evaluación y seguimiento de la política forestal.
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+XXXII. Promover el diseño y la aplicación de instrumentos económicos para fomentar el desarrollo forestal, la provisión de servicios ambientales, los conocimientos, innovaciones y prácticas de los pueblos y comunidades indígenas y afromexicanas y locales, acciones de restauración de cuencas y conservación de la biodiversidad, así como medidas de prevención, adaptación y mitigación ante el cambio climático.
+
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+XXXIII. Impulsar el manejo forestal comunitario y el desarrollo de la empresa social forestal y comunal en los pueblos y comunidades indígenas y afromexicanas y comunidades equiparables.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE FEBRERO DE 2026)</small>
+
+XXXIV. Los demás que sean de interés para promover un Desarrollo Forestal Sustentable.
 
 ###### Artículo 5.
 
@@ -355,7 +405,9 @@ XIV. Promover e impulsar programas de mejoramiento genético forestal.
 
 XV. Fomentar el establecimiento y desarrollo de las unidades productoras de germoplasma forestal en los ecosistemas del Estado, para garantizar el abasto de semillas de origen y calidad genotípica conocida.
 
-XVI. Promover la asesoría y asistencia técnica a ejidatarios, comuneros, pequeños propietarios, comunidades, pueblos indígenas y Productores en el desarrollo y organización de planes y estrategias forestales, propiciando la integración de Cadenas Productivas y el Desarrollo Forestal Sustentable de los Recursos Forestales Maderables y los Recursos Forestales No Maderables.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+XVI. Promover la asesoría y asistencia técnica a ejidatarios, comuneros, pequeños propietarios, comunidades, pueblos y comunidades indígenas y afromexicanas y Productores en el desarrollo y organización de planes y estrategias forestales, propiciando la integración de Cadenas Productivas y el Desarrollo Forestal Sustentable de los Recursos Forestales Maderables y los Recursos Forestales No Maderables.
 
 XVII. Promover y fortalecer la participación del sector forestal en el crecimiento económico del Estado.
 
@@ -1175,7 +1227,9 @@ La Restauración forestal de las áreas degradadas será una acción prioritaria
 
 La Secretaría, así como los Ayuntamientos en el ámbito de su competencia, promoverán la formulación y ejecución de programas de Restauración forestal en aquellas áreas que presenten procesos de degradación o desertificación, o graves desequilibrios ecológicos, con el propósito de que se lleven a cabo las acciones necesarias para la recuperación y restablecimiento de las condiciones que propicien la evolución y continuidad de los procesos naturales que en ella se desarrollaban; lo anterior con un enfoque de Restauración de la belleza escénica con el objetivo de restablecer la integridad ecológica y fomentar el desarrollo sustentable.
 
-En la formulación, ejecución y seguimiento de los programas de Restauración, la Secretaría deberá promover la participación de los propietarios, poseedores, organizaciones sociales, públicas o privadas, pueblos indígenas, centros de investigación, universidades, gobiernos municipales y demás interesados.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2026)</small>
+
+En la formulación, ejecución y seguimiento de los programas de Restauración, la Secretaría deberá promover la participación de los propietarios, poseedores, organizaciones sociales, públicas o privadas, pueblos y comunidades indígenas y afromexicanas, centros de investigación, universidades, gobiernos municipales y demás interesados.
 
 ###### Artículo 80.
 
@@ -1189,7 +1243,9 @@ II. Las acciones necesarias para procurar la regeneración, recuperación o de l
 
 III. Las condiciones a que se sujetarán dentro de la zona, los usos del suelo, el aprovechamiento de los recursos naturales, la flora y la fauna existentes, así como la realización de cualquier tipo de obra o actividad.
 
-IV. Los lineamientos para la elaboración y ejecución del programa de Restauración forestal correspondiente, así como para la participación que tendrán en dichas actividades los propietarios, poseedores, organizaciones sociales, públicas o privadas, pueblos indígenas, comunidades debidamente organizadas y demás personas interesadas.
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+IV. Los lineamientos para la elaboración y ejecución del programa de Restauración forestal correspondiente, así como para la participación que tendrán en dichas actividades los propietarios, poseedores, organizaciones sociales, públicas o privadas, pueblos y comunidades indígenas y afromexicanas, comunidades debidamente organizadas y demás personas interesadas.
 
 V. Los plazos para la ejecución del programa de Restauración forestal respectivo.
 
@@ -1235,6 +1291,10 @@ V. La aplicación de obras y prácticas de conservación de suelo y agua, así c
 
 VI. La participación de los propietarios y legítimos poseedores de terrenos agrícolas, ganaderos, Terrenos Forestales, Temporalmente Forestal, Preferentemente Forestales y urbanos, para reforestarlos con el objeto de conservación y Restauración de los suelos en los terrenos siniestrados por Incendios Forestales en ecosistemas críticamente amenazados y zonas de ladera; o bien para realizar actividades de reconversión productiva, con el fin de satisfacer la demanda de Uso Doméstico, Restauración de paisaje, conservación y protección a cualquier tipo de cuerpo de agua natural.
 
+> <small>(ADICIONADA, P.O. 4 DE FEBRERO DE 2026)</small>
+
+VII. Brindar atención de los asuntos relacionados con la conservación y mejoramiento de ecosistemas forestales de los pueblos y comunidades indígenas y afromexicanas.
+
 A fin de garantizar el mayor impacto de los programas estatales de conservación y Restauración forestal, la Secretaría deberá procurar la participación de los tres órdenes de gobierno, los dueños, poseedores de los Recursos Forestales y la sociedad en general en su ejecución, seguimiento y evaluación.
 
 ###### Artículo 86.
@@ -1255,33 +1315,35 @@ Se crea el Consejo Estatal Forestal, el cual fungirá como órgano consultivo, d
 
 Las opiniones y recomendaciones que formule el Consejo Estatal Forestal, deberán ser consideradas por la Secretaría en el ejercicio de las facultades que en materia de desarrollo forestal le corresponden conforme a éste y otros ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 89.
 
 El Consejo Estatal Forestal estará integrado de la siguiente manera:
 
-I. Un Presidente, que será el Titular del Poder Ejecutivo del Estado.
+I. Un Presidente o Presidenta, que será la persona Titular del Poder Ejecutivo del Estado.
 
-II. Un Presidente Suplente, que será el titular de la Secretaria de Medio Ambiente e Historia Natural.
+II. Un Presidente o Presidenta Suplente, que será la persona titular de la Secretaria de Medio Ambiente e Historia Natural.
 
-III. Un Secretario Técnico, que será el titular de la Subsecretaría de Desarrollo Forestal de la Secretaría de Medio Ambiente e Historia Natural.
+III. Un Secretario Técnico o Secretaria Técnica, que será la persona titular de la Subsecretaría de Desarrollo Forestal y Jardines Botánicos de la Secretaría de Medio Ambiente e Historia Natural.
 
-IV. Los Vocales, que serán los titulares de:
+IV. Los Vocales, que serán las personas titulares de:
 
-a) La Secretaría General de Gobierno.
+a) La Secretaría General de Gobierno y Mediación;
 
-b) Secretaría de Protección Civil.
+b) La Secretaría de Protección Civil.
 
-c) La Secretaría de Agricultura, Ganadería y Pesca.
+c) La Secretaría del Campo.
 
 d) La Secretaría para el Desarrollo Sustentable de los Pueblos Indígenas.
 
-e) La Secretaría de Seguridad y Protección Ciudadana.
+e) La Secretaría de Seguridad del Pueblo.
 
 f) La Procuraduría Ambiental del Estado de Chiapas.
 
 g) La Fiscalía General del Estado de Chiapas.
 
-h) El Presidente de la Comisión de Bosques y Selvas del Congreso del Estado.
+h) El Presidente o la Presidenta de la Comisión de Recursos Naturales, Bosques y Selvas del Congreso del Estado.
 
 i) La Delegación de la Secretaría de Medio Ambiente y Recursos Naturales en el Estado.
 
@@ -1307,7 +1369,7 @@ o) Organizaciones de la Sociedad Civil, en los siguientes rubros:
 
 4. No Gubernamental.
 
-5. Equidad de género.
+5. Igualdad de género.
 
 6. Gremio de Ingenieros forestales.
 
@@ -1411,6 +1473,8 @@ VI. Generar acciones de difusión que provoquen un impacto positivo en la concie
 
 VII. Promover la adopción de Buenas Prácticas de manejo y uso sustentable de los Recursos Forestales, incluidos las relativas al saneamiento forestal y Manejo Integral del Fuego.
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 4 DE FEBRERO DE 2026)</small>
+
 VIII. Promover el respeto, Preservación de los conocimientos y Buenas Prácticas de los pueblos y comunidades indígenas y locales que entrañen estilos tradicionales de vida pertinentes para la conservación, manejo y uso sustentable de los ecosistemas forestales, sus recursos, promoviendo su aplicación más amplia, con la aprobación y la participación de quienes posean esos conocimientos y prácticas.
 
 IX. Impulsar la formación permanente de técnicos comunitarios.
@@ -1435,9 +1499,11 @@ f) Diseñar, elaborar y publicar materiales de comunicación educativa y guías 
 
 XIII. Celebrar convenios con los sectores educativos, de investigación, público, social y privado, con el objeto de impulsar el Desarrollo Forestal Sustentable y coordinar acciones de comunicación educativa, formación, capacitación, asistencia técnica e investigación en materia forestal.
 
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 97.
 
-La Secretaría desarrollará programas y estrategias especiales dirigidos a brindar asistencia técnica, capacitación y acceso a apoyos económicos y financieros para el Manejo Forestal a comunidades indígenas, grupos de mujeres, jóvenes, propietarios y/o usuarios de tierras.
+La Secretaría desarrollará programas y estrategias especiales dirigidos a brindar asistencia técnica, capacitación y acceso a apoyos económicos y financieros para el Manejo Forestal a pueblos y comunidades indígenas y afromexicanas, grupos de mujeres, jóvenes, propietarios y/o usuarios de tierras.
 
 ## Título Décimo. De la Denuncia Popular
 
@@ -1666,3 +1732,13 @@ El Ejecutivo del Estado dispondrá se publique, circule y se dé el debido cumpl
 Dado en el Salón de Sesiones “Sergio Armando Valls Hernández” del Honorable Congreso del Estado Libre y Soberano de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los 06 días del mes de diciembre del año dos mil veintidós. D.P.C. SONIA CATALINA ÁLVAREZ. D.S. C. YOLANDA DEL ROSARIO CORREA GONZÁLEZ.
 
 De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los catorce días del mes de Diciembre del año dos mil veintidós Rutilio Escandón Cadenas, Gobernador del Estado de Chiapas.- Victoria Cecilia Flores Pérez, Secretaria General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 192 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE CHIAPAS".]
+
+Artículo Primero: El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo: Se derogan las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
