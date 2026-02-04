@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-167794"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2023-09-11"
-last_updated: "2025-12-12"
+last_updated: "2026-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167794&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE FEBRERO DE 2026.
 
 Ley publicada en la Sección Segunda del Número 46 de la Gaceta de Gobierno del Estado de México, el lunes 11 de septiembre de 2023.
 
@@ -289,7 +289,17 @@ II. Dictar las disposiciones necesarias para asegurar y proteger en forma inmedi
 
 III. Impulsar mecanismos para garantizar la participación social y ciudadana en el diseño de las políticas y en la vigilancia en el desarrollo de las actividades en materia de seguridad pública y prevención del delito;
 
-IV. Realizar la investigación y bases de datos que contribuyan al fortalecimiento de políticas públicas en materia de prevención del delito;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+IV. Realizar todos los actos necesarios para la investigación, elaboración de bases de datos que contribuyan al fortalecimiento de políticas públicas en materia de prevención del delito, así como aquellas acciones de inteligencia, mismas que serán planificadas, coordinadas y ejecutadas para cumplir con los objetivos, las estrategias y líneas de acción previstas en la Estrategia Nacional y Estatal de Seguridad;
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+IV Bis. Implementar estrategias con base en mecanismos de inteligencia para prevenir e identificar amenazas y generadores de violencia, coadyuvando a la sanción oportuna de éstas, asegurando que las Instituciones de Seguridad Pública actúen con eficacia y pleno respeto a los derechos humanos;
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+IV Ter. Realizar operativos para la prevención del delito, así como, dotar dentro del ámbito de las atribuciones de las Instituciones de Seguridad Pública al Ministerio Público, a fin de que cuente con suficientes elementos de información para una efectiva integración de los indicios, datos y medios de prueba que fortalezcan sus investigaciones encaminadas a la persecución de los delitos y el combate de la impunidad;
 
 V. Elaborar y ejecutar los programas de reinserción social de las personas en situación de reclusión y reintegración social para adolescentes en conflicto con la Ley;
 
@@ -561,9 +571,17 @@ XXXIII. Apoyar a los municipios en la planeación y ejecución de programas de p
 
 XXXIV. Vigilar, en coordinación con el Instituto de Verificación Administrativa del Estado de México y las autoridades correspondientes, el debido cumplimiento de las disposiciones en el ámbito de su competencia, así como la aplicación de las medidas de seguridad e imposición de sanciones que le correspondan;
 
-XXXV. Dictar las medidas especiales de seguridad sanitaria que sean necesarias para proteger la salud de las mujeres, niñas, niños y adolescentes; y
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-XXXVI. Las demás que le señalen otras leyes, reglamentos y disposiciones jurídicas aplicables, así como las que le encomiende la persona titular del Poder Ejecutivo del Estado.
+XXXV. Dictar las medidas especiales de seguridad sanitaria que sean necesarias para proteger la salud de las mujeres, niñas, niños y adolescentes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 4 DE FEBRERO DE 2026)</small>
+
+XXXVI. Coadyuvar, en el ámbito de su competencia, en las acciones en materia de búsqueda, identificación y localización de personas desaparecidas, dentro de las unidades hospitalarias y prehospitalarias, centros de atención de adicciones o de rehabilitación, centros de atención psiquiátrica e instituciones de salud mental, de conformidad a la normatividad vigente en la materia, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 4 DE FEBRERO DE 2026)</small>
+
+XXXVII. Las demás que le señalen otras leyes, reglamentos y disposiciones jurídicas aplicables, así como las que le encomiende la persona titular del Poder Ejecutivo del Estado.
 
 ###### Artículo 32.
 
@@ -1970,3 +1988,59 @@ G.G. 12 DE DICIEMBRE DE 2025.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 4 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 266.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO LIBRE Y SOBERANO DE MÉXICO; SE REFORMAN LAS FRACCIONES XXXV Y XXXVI DEL ARTÍCULO 31 Y SE ADICIONA LA FRACCIÓN XXXVII AL ARTÍCULO 31, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO; SE REFORMA EL ARTÍCULO 61 Y EL INCISO F) DE LA FRACCIÓN IV DEL APARTADO B DEL ARTÍCULO 100 DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO; Y SE REFORMA EL PÁRRAFO PRIMERO Y LAS FRACCIONES I Y II DEL ARTÍCULO 2.5 BIS, EL PÁRRAFO PRIMERO DEL ARTÍCULO 3.10 Y LA FRACCIÓN I DEL ARTÍCULO 4.146 QUINQUIES DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. El Mecanismo Estatal sesionará a más tardar dentro de los 30 días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO. La Fiscalía Estatal y la Fiscalía Especializada contarán con un plazo no mayor a 30 días hábiles para integrar su información a la Base Nacional de Carpetas de Investigación, contados a partir de que esté disponible conforme al plazo establecido en el artículo transitorio segundo del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, así como de la Ley General de Población, en materia de fortalecimiento de búsqueda, localización e identificación de personas desaparecidas, publicado en el Diario Oficial de la Federación en la edición vespertina del 16 de julio de 2025.
+
+QUINTO. El Poder Ejecutivo Estatal deberá armonizar las disposiciones reglamentarias y normativas correspondientes conforme al presente Decreto y el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, así como de la Ley General de Población, en materia de fortalecimiento de búsqueda, localización e identificación de personas desaparecidas, publicado en el Diario Oficial de la Federación en la edición vespertina del 16 de julio de 2025, en un plazo no mayor a 180 días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. Se abrogan todas las disposiciones que contravengan el presente Decreto.
+
+SÉPTIMO. El Gobierno del Estado y sus municipios, en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto, deberán armonizar la normatividad que regulen panteones, cementerios, servicios funerarios, crematorios, fosas comunes y cualquier espacio destinado a la disposición final de cuerpos humanos, ya sean instituciones públicas o privadas, para establecer al menos:
+
+I. La obligación de llevar registros precisos, digitalizados y actualizados de los cuerpos inhumados, cremados o trasladados, indicando características físicas, ubicación exacta, fecha y medio de disposición;
+
+II. Vincular dichos registros al Sistema Nacional de Búsqueda, conforme a los lineamientos técnicos emitidos por la Comisión Nacional, y
+
+III. Las obligaciones que permitan el cumplimiento de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
+
+Al respecto, los 125 municipios del Estado de México y todas aquellas instituciones públicas o privadas que brinden los servicios funerarios, crematorios, fosas comunes y cualquier espacio destinado a la disposición final de cuerpos humanos, deberán en tiempo dar cumplimiento a las obligaciones indicadas en el presente artículo.
+
+OCTAVO. La Fiscalía Estatal, en un plazo de 90 días hábiles contados a partir de la entrada en vigor del presente Decreto, deberá actualizar todos aquellos registros y bases de datos vinculados con el Banco Nacional de Datos Forenses.
+
+NOVENO. Los Institutos, Centros Forenses o cualquier autoridad que tenga a su cargo los servicios periciales y/o de identificación y resguardo forense en el Estado deberán contar con la sistematización de sus bases de datos, registros o sistemas, en un plazo no mayor al año siguiente de la entrada en vigor del presente Decreto.
+
+DÉCIMO. Todas las instituciones que tengan a su cargo el resguardo de cuerpos y restos humanos de personas, identificados o no identificados, en un plazo máximo de tres meses, contados a partir de la entrada en vigor del presente Decreto, deberán diseñar, en el ámbito de sus respectivas competencias, programas específicos para la atención del rezago de larga data y de reciente ingreso.
+
+DÉCIMO PRIMERO. El Congreso del Estado deberá realizar las previsiones presupuestales necesarias para que los entes públicos puedan cumplir con lo previsto en este Decreto.
+
+DÉCIMO SEGUNDO. Los recursos para llevar a cabo la implementación de las acciones que se deriven del presente Decreto se cubrirán con cargo al presupuesto autorizado a las dependencias y entidades estatales, así como a los municipios.
+
+G.G. 4 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 267.- POR EL QUE SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 27; Y SE ADICIONAN LAS FRACCIONES IV BIS Y IV TER AL ARTÍCULO 27 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO; Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Poder Ejecutivo del Estado contará con 180 días hábiles, a partir de la entrada en vigor de este Decreto, para publicar en el Periódico Oficial "Gaceta de Gobierno", el Reglamento Interior del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública.
+
+CUARTO. Los órganos desconcentrados y organismos auxiliares de la Secretaría de Seguridad, en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
+
+QUINTO. Los derechos de las personas integrantes de las Instituciones de Seguridad Pública que a la entrada en vigor de este Decreto cuenten con un nivel de estudios inferior al establecido en este para su ingreso o permanencia deberán ser respetados y sus respectivas instituciones deberán realizar acciones para que obtengan el nivel de estudios que corresponda.
+
+SEXTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto se resolverán conforme a las disposiciones legales vigentes al momento de inicio de su tramitación.
+
+SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+OCTAVO. Se abrogan el Reglamento de los Cuerpos de Seguridad Pública del Estado de México, publicada el 09 de junio de 1987 en el Periódico Oficial "Gaceta del Gobierno", el Reglamento de Escalafón del Personal Operativo de la Dirección General de Seguridad Pública y Tránsito del Estado de México, publicado el 09 de julio de 1987 en el Periódico Oficial "Gaceta del Gobierno"; el Reglamento de Homologación de Cromática de los Vehículos de los Cuerpos de Seguridad Pública Preventiva Estatal y Municipal y Uniformes de sus Miembros, publicado en el Periódico Oficial "Gaceta del Gobierno" el 30 de enero de 2007 y las demás disposiciones de igual o menor jerarquía, en lo que se opongan al presente Decreto.
