@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2025-11-21"
+last_updated: "2026-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE FEBRERO DE 2026.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -215,13 +215,19 @@ VIII. El respeto, salvaguarda y protección de la integridad física, psicológi
 
 Medios para acreditar la identidad de las personas físicas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 2.
 
-5 Bis.- Se consideran como medios aceptables y válidos para acreditar la identidad de las personas físicas, los documentos públicos ya sea en original o en copia certificada, expedidos por las autoridades competentes, de manera enunciativa y no limitativa, los siguientes:
+5 Bis.- Se consideran como medios aceptables y válidos para acreditar la identidad de las personas físicas, los documentos públicos ya sea en original o en copia certificada o digital, expedidos por las autoridades competentes, de manera enunciativa y no limitativa, los siguientes:
 
-I. En caso de menores de edad, el acta de nacimiento, la carta de naturalización y las credenciales expedidas por autoridades educativas que cuenten con autorización o con reconocimiento de validez oficial;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-II. La Credencial para votar, el pasaporte, la matrícula consular mexicana, la licencia para conducir y la carta de naturalización;
+I. En caso de menores de edad, el acta de nacimiento, la Clave Única de Registro de Población con datos biométricos, la carta de naturalización y las credenciales expedidas por autoridades educativas que cuenten con autorización o con reconocimiento de validez oficial;
+
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+II. La Clave Única de Registro de Población con datos biométricos, la Credencial para votar, el pasaporte, la matrícula consular mexicana, la licencia para conducir y la carta de naturalización;
 
 > <small>(REFORMADA, G.G. 7 DE MAYO DE 2015)</small>
 
@@ -519,11 +525,11 @@ En el momento del parto, la madre podrá solicitar que se preserve el secreto de
 
 Contenido del acta de nacimiento
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 7 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 3.
 
-10.- El acta de nacimiento contendrá lugar y fecha de registro, fecha, hora y lugar del nacimiento, el sexo del presentado, el nombre del registrado, de conformidad con las reglas establecidas en este Código, la razón de si es presentado vivo o muerto, la impresión de la huella digital si está vivo y la Clave Única de Registro de Población.
+10.- El acta de nacimiento contendrá lugar y fecha de registro, fecha, hora y lugar del nacimiento, el sexo del presentado, el nombre del registrado, de conformidad con las reglas establecidas en este Código, la razón de si es presentado vivo o muerto, la impresión de la huella digital si está vivo y la Clave Única de Registro de Población con datos biométricos.
 
 > <small>(ADICIONADO, G.G. 27 DE AGOSTO DE 2021)</small>
 
@@ -2463,7 +2469,9 @@ Datos del Certificado expedido por la Unidad del Registro de Deudores Alimentari
 
 146 Quinquies.- El Certificado expedido por la Unidad del Registro de Deudores Alimentarios Morosos contendrá lo siguiente:
 
-I. Nombre y Clave Única de Registro de Población del solicitante;
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+I. Nombre y Clave Única de Registro de Población con datos biométricos del solicitante;
 
 II. La información sobre su inscripción o no en el registro de deudores alimentarios morosos.
 
@@ -18854,3 +18862,39 @@ SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 TERCERO.- Las personas que, con motivo del régimen de prescripción vigente, no hayan podido ejercer la acción civil para reclamar la reparación integral del daño, podrán ejercerla conforme al presente Decreto y en los términos de la Constitución Política de los Estados Unidos Mexicanos.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.G. 4 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 266.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO LIBRE Y SOBERANO DE MÉXICO; SE REFORMAN LAS FRACCIONES XXXV Y XXXVI DEL ARTÍCULO 31 Y SE ADICIONA LA FRACCIÓN XXXVII AL ARTÍCULO 31, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO; SE REFORMA EL ARTÍCULO 61 Y EL INCISO F) DE LA FRACCIÓN IV DEL APARTADO B DEL ARTÍCULO 100 DE LA LEY DE SEGURIDAD DEL ESTADO DE MÉXICO; Y SE REFORMA EL PÁRRAFO PRIMERO Y LAS FRACCIONES I Y II DEL ARTÍCULO 2.5 BIS, EL PÁRRAFO PRIMERO DEL ARTÍCULO 3.10 Y LA FRACCIÓN I DEL ARTÍCULO 4.146 QUINQUIES DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. El Mecanismo Estatal sesionará a más tardar dentro de los 30 días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO. La Fiscalía Estatal y la Fiscalía Especializada contarán con un plazo no mayor a 30 días hábiles para integrar su información a la Base Nacional de Carpetas de Investigación, contados a partir de que esté disponible conforme al plazo establecido en el artículo transitorio segundo del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, así como de la Ley General de Población, en materia de fortalecimiento de búsqueda, localización e identificación de personas desaparecidas, publicado en el Diario Oficial de la Federación en la edición vespertina del 16 de julio de 2025.
+
+QUINTO. El Poder Ejecutivo Estatal deberá armonizar las disposiciones reglamentarias y normativas correspondientes conforme al presente Decreto y el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, así como de la Ley General de Población, en materia de fortalecimiento de búsqueda, localización e identificación de personas desaparecidas, publicado en el Diario Oficial de la Federación en la edición vespertina del 16 de julio de 2025, en un plazo no mayor a 180 días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. Se abrogan todas las disposiciones que contravengan el presente Decreto.
+
+SÉPTIMO. El Gobierno del Estado y sus municipios, en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto, deberán armonizar la normatividad que regulen panteones, cementerios, servicios funerarios, crematorios, fosas comunes y cualquier espacio destinado a la disposición final de cuerpos humanos, ya sean instituciones públicas o privadas, para establecer al menos:
+
+I. La obligación de llevar registros precisos, digitalizados y actualizados de los cuerpos inhumados, cremados o trasladados, indicando características físicas, ubicación exacta, fecha y medio de disposición;
+
+II. Vincular dichos registros al Sistema Nacional de Búsqueda, conforme a los lineamientos técnicos emitidos por la Comisión Nacional, y
+
+III. Las obligaciones que permitan el cumplimiento de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
+
+Al respecto, los 125 municipios del Estado de México y todas aquellas instituciones públicas o privadas que brinden los servicios funerarios, crematorios, fosas comunes y cualquier espacio destinado a la disposición final de cuerpos humanos, deberán en tiempo dar cumplimiento a las obligaciones indicadas en el presente artículo.
+
+OCTAVO. La Fiscalía Estatal, en un plazo de 90 días hábiles contados a partir de la entrada en vigor del presente Decreto, deberá actualizar todos aquellos registros y bases de datos vinculados con el Banco Nacional de Datos Forenses.
+
+NOVENO. Los Institutos, Centros Forenses o cualquier autoridad que tenga a su cargo los servicios periciales y/o de identificación y resguardo forense en el Estado deberán contar con la sistematización de sus bases de datos, registros o sistemas, en un plazo no mayor al año siguiente de la entrada en vigor del presente Decreto.
+
+DÉCIMO. Todas las instituciones que tengan a su cargo el resguardo de cuerpos y restos humanos de personas, identificados o no identificados, en un plazo máximo de tres meses, contados a partir de la entrada en vigor del presente Decreto, deberán diseñar, en el ámbito de sus respectivas competencias, programas específicos para la atención del rezago de larga data y de reciente ingreso.
+
+DÉCIMO PRIMERO. El Congreso del Estado deberá realizar las previsiones presupuestales necesarias para que los entes públicos puedan cumplir con lo previsto en este Decreto.
+
+DÉCIMO SEGUNDO. Los recursos para llevar a cabo la implementación de las acciones que se deriven del presente Decreto se cubrirán con cargo al presupuesto autorizado a las dependencias y entidades estatales, así como a los municipios.
