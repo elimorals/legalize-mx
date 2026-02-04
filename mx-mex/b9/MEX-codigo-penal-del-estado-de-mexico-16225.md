@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2025-12-17"
+last_updated: "2026-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE FEBRERO DE 2026.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -149,11 +149,11 @@ Es continuado, cuando existe unidad de propósito delictivo, pluralidad de condu
 
 ### CAPITULO II. LOS DELITOS GRAVES
 
-> <small>(REFORMADO, G.G. 25 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 9.
 
-Se califican como delitos graves para todos los efectos legales: el cometido por conductores de vehículos de motor, indicado en el artículo 61 segundo párrafo, fracciones I, II, III y V, el de rebelión, previsto en los artículos 107 último párrafo, 108 primer y tercer párrafos y 110, el de sedición, señalado en el artículo 113 segundo párrafo; el de cohecho, previsto en los artículos 129 y 130 en términos del párrafo segundo del artículo 131, si es cometido por elementos de cuerpos policíacos o servidores de seguridad pública; el de abuso de autoridad, contenido en los artículos 136 fracciones V y X y 137 fracción II; el de peculado, señalado en el artículo 140 fracción II; el de prestación ilícita del servicio público de transporte de pasajeros, señalado en el artículo 148 párrafo segundo; el de encubrimiento, previsto en el artículo 152 párrafo segundo; el de falso testimonio, contenido en las fracciones III y IV del artículo 156, el de evasión a que se refiere el artículo 160, el delito de falsificación de documentos, previsto en el artículo 170 fracción II, el que se refiere a la falsificación y utilización indebida de títulos al portador, documentos de crédito público y documentos relativos al crédito señalado en el artículo 174, el delito de usurpación de funciones públicas o de profesiones, previsto en el artículo 176 penúltimo párrafo, el de uso indebido de uniformes, insignias, distinciones o condecoraciones previsto en el artículo 177, el de delincuencia organizada; previsto en el artículo 178, los delitos en contra del desarrollo urbano, señalados en el primer y segundo párrafos del artículo 189, el de ataques a las vías de comunicación y transporte, contenido en los artículos 193 tercer párrafo y 195, el que se comete en contra de las personas menores de edad y quienes no tienen la capacidad para comprender el significado del hecho, establecidos en el artículo 204 y 205, los contemplados con la utilización de imágenes y/o voz de personas menores de edad o personas que no tienen la capacidad para comprender el significado del hecho para la pornografía, establecidos en el artículo 206, el de lenocinio, previsto en los artículos 209 y 209 bis, el tráfico de menores, contemplado en el artículo 219, el de cremación de cadáver señalado en el artículo 225, el cometido en contra de los productos de los montes o bosques, señalado en los párrafos segundo, tercero, cuarto y quinto fracciones I, II y III del artículo 229; el deterioro de área natural protegida, previsto en el artículo 230, el de lesiones, que señala el artículo 238, fracción V, el de homicidio, contenido en el artículo 241, el de feminicidio, previsto en el artículo 242 bis, el transfeminicidio, contenido en el artículo 281 Bis, el de privación de la libertad de menor de edad, previsto en el artículo 262 primer párrafo, el de extorsión contenido en los párrafos tercero y cuarto del artículo 266; el asalto a una población a que se refiere el artículo 267, el de trata de personas, contemplado en el artículo 268 bis, el de abuso sexual, señalado en el artículo 270, el de violación, señalado por los artículos 273 y 274, el de robo, contenido en los artículos 290, fracción I en su primer y quinto párrafos, II, III, IV, V, XVI, XVII y XVIII y 292, el de abigeato, señalado en los artículos 297 fracciones II y III, 298 fracción II, y 299 fracciones I y IV, el de despojo, a que se refieren los artículos 308 y 308 Bis, y el de daño en los bienes, señalado en el artículo 311 y; en su caso, su comisión en grado de tentativa como lo establece este código, 314 bis, segundo párrafo, y los previstos en las leyes especiales cuando la pena máxima exceda de diez años de prisión.
+Se califican como delitos graves para todos los efectos legales: el cometido por conductores de vehículos de motor, indicado en el artículo 61 segundo párrafo, fracciones I, II, III y V, el de rebelión, previsto en los artículos 107 último párrafo, 108 primer y tercer párrafos y 110, el de sedición, señalado en el artículo 113 segundo párrafo; el de cohecho, previsto en los artículos 129 y 130 en términos del párrafo segundo del artículo 131, si es cometido por elementos de cuerpos policíacos o servidores de seguridad pública; el de abuso de autoridad, contenido en los artículos 136 fracciones V y X y 137 fracción II; el de peculado, señalado en el artículo 140 fracción II; el de prestación ilícita del servicio público de transporte de pasajeros, señalado en el artículo 148 párrafo segundo; el de encubrimiento, previsto en el artículo 152 párrafo segundo; el de falso testimonio, contenido en las fracciones III y IV del artículo 156, el de evasión a que se refiere el artículo 160, el delito de falsificación de documentos, previsto en el artículo 170 fracción II, el que se refiere a la falsificación y utilización indebida de títulos al portador, documentos de crédito público y documentos relativos al crédito señalado en el artículo 174, el delito de usurpación de funciones públicas o de profesiones, previsto en el artículo 176 penúltimo párrafo, el de uso indebido de uniformes, insignias, distinciones o condecoraciones previsto en el artículo 177, el de delincuencia organizada; previsto en el artículo 178, los delitos en contra del desarrollo urbano, señalados en el primer y segundo párrafos del artículo 189, el de ataques a las vías de comunicación y transporte, contenido en los artículos 193 tercer párrafo y 195, el que se comete en contra de las personas menores de edad y quienes no tienen la capacidad para comprender el significado del hecho, establecidos en el artículo 204 y 205, los contemplados con la utilización de imágenes y/o voz de personas menores de edad o personas que no tienen la capacidad para comprender el significado del hecho para la pornografía, establecidos en el artículo 206, el de lenocinio, previsto en los artículos 209 y 209 bis, el tráfico de menores, contemplado en el artículo 219, el de cremación de cadáver señalado en el artículo 225, el cometido en contra de los productos de los montes o bosques, señalado en los párrafos segundo, tercero, cuarto y quinto fracciones I, II y III del artículo 229; el deterioro de área natural protegida, previsto en el artículo 230, el de lesiones, que señala el artículo 238, fracción V, el de homicidio, contenido en el artículo 241, el de feminicidio, previsto en el artículo 242 bis, el transfeminicidio, contenido en el artículo 281 Bis, el de privación de la libertad de menor de edad, previsto en el artículo 262 primer párrafo; el asalto a una población a que se refiere el artículo 267, el de trata de personas, contemplado en el artículo 268 bis, el de abuso sexual, señalado en el artículo 270, el de violación, señalado por los artículos 273 y 274, el de robo, contenido en los artículos 290, fracción I en su primer y quinto párrafos, II, III, IV, V, XVI, XVII y XVIII y 292, el de abigeato, señalado en los artículos 297 fracciones II y III, 298 fracción II, y 299 fracciones I y IV, el de despojo, a que se refieren los artículos 308 y 308 Bis, y el de daño en los bienes, señalado en el artículo 311 y; en su caso, su comisión en grado de tentativa como lo establece este código, 314 bis, segundo párrafo, y los previstos en las leyes especiales cuando la pena máxima exceda de diez años de prisión.
 
 ### CAPITULO III. TENTATIVA DEL DELITO
 
@@ -287,7 +287,7 @@ XI. Delito contra el ambiente, previsto en los artículos 228, 228 Bis, 229, 230
 
 XII. Delitos contra la Flora y la Fauna Silvestre, previsto en el artículo 235;
 
-XIII. Extorsión, previsto en el artículo 266;
+XIII. (DEROGADA, G.G. 4 DE FEBRERO DE 2026)
 
 XIV. Abuso de confianza, previsto en los artículos 302 y 303;
 
@@ -877,9 +877,9 @@ Si se trata de un delincuente primario, de escaso desarrollo intelectual, de ind
 
 > <small>(DEROGADO TERCER PÁRRAFO, G.G. 1 DE SEPTIEMBRE DE 2017)</small>
 
-> <small>(REFORMADO, G.G. 3 DE FEBRERO DE 2017)</small>
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
-La reducción a que se refiere este artículo no se concederá en delitos de extorsión, lesiones que se infieran a menores, incapaces o pupilos por quien ejerza la patria potestad, tutela o custodia, o por un integrante de su núcleo familiar, homicidio doloso con modificativas que lo califiquen o lo agraven, violación y robo que ocasione la muerte.
+La reducción a que se refiere este artículo no se concederá en delitos de lesiones que se infieran a persona (sic) menores de edad, o pupilos por quien ejerza la patria potestad, tutela o custodia, o por un integrante de su núcleo familiar, homicidio doloso con modificativas que lo califiquen o lo agraven, violación y robo que ocasione la muerte.
 
 ### CAPITULO II. CASOS DE TENTATIVA
 
@@ -987,7 +987,7 @@ La reincidencia y habitualidad referida en los artículos 19 y 20 será tomada e
 
 No se otorgarán beneficios, sustitutivos ni la suspensión de la pena de prisión, aún en el caso de delincuentes primarios, cuando se trate de delitos de:
 
-I. Extorsión;
+I. (DEROGADA, G.G. 4 DE FEBRERO DE 2026)
 
 II. Robo con violencia, a excepción de los casos permitidos en el artículo 83 bis de este Código;
 
@@ -2787,27 +2787,9 @@ DELITOS CONTRA LA ECONOMIA
 
 A los comerciantes o industriales que, por cualquier medio, alteren en su cantidad o calidad las mercancías o productos de venta al público o les atribuyan cualidades que no tengan, se les impondrán de tres meses a cinco años de prisión y de cien a mil días multa.
 
-> <small>(ADICIONADO, G.G. 10 DE MARZO DE 2023)</small>
-
 ###### Artículo 199 Bis.
 
-A quien, por medio de la violencia, obligue a una persona o unidad económica:
-
-I. A comprar, obtener o adquirir, de otra persona, comercio o empresa determinados bienes, insumos, mercancías o servicios para su giro comercial;
-
-II. A vender o distribuir bienes, insumos, mercancías o servicios, a personas o empresas determinadas, o
-
-III. A imponer o fijar, en una localidad o región, un precio por encima del mercado, para la venta de bienes, mercancías o insumos o para la prestación de un servicio.
-
-Al responsable de este delito, se impondrá de seis a diez años de prisión, y de mil a mil quinientas unidades de medida y actualización.
-
-Son circunstancias que agravan la penalidad de este delito y se sancionarán, además de las penas señaladas en el párrafo anterior, con las siguientes:
-
-I. Si en la comisión de este delito participan dos o más personas, se impondrán de tres a cinco años de prisión y de quinientos a ochocientos días multa;
-
-II. Cuando en la comisión de este delito el o los sujetos activos se ostenten y/o identifiquen como miembros de alguna asociación o grupo delictivo, se impondrán de siete a quince años de prisión, y de mil trescientos a dos mil días multa, y
-
-III. Cuando el delito sea cometido por alguna persona que tenga el carácter de servidor público, se impondrán de ocho a veinte años de prisión y de mil quinientos a dos mil quinientos días multa.
+(DEROGADO, G.G. 4 DE FEBRERO DE 2026)
 
 ###### Artículo 200.
 
@@ -4105,59 +4087,13 @@ Las penas señaladas en el artículo anterior se incrementarán hasta en una mit
 
 Artículo 265 bis.- Se aumentará la penalidad hasta en una tercera parte cuando se cometa mediante manipulación de medios electrónicos, telemáticos, informáticos, redes sociales, o intercepción de datos de envío.
 
-### CAPITULO VI. EXTORSION
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 26 DE ENERO DE 2015)</small>
+### CAPITULO VI. EXTORSIÓN
 
 ###### Artículo 266.
 
-Al que sin derecho obligue a otro a hacer, tolerar o dejar de hacer algo, con la finalidad de obtener un lucro o beneficio para sí o para otro o causar un daño, se le impondrán de ocho a doce años de prisión y de mil a mil quinientos días multa.
-
-> <small>(ADICIONADO, G.G. 21 DE NOVIEMBRE DE 2025)</small>
-
-Las sanciones previstas en el párrafo anterior se aplicarán también al que intencionalmente provoque un incidente de tránsito con el propósito de obtener un beneficio económico indebido para sí o para otro, a través de amenazas o engaños, simulando ser víctima del siniestro.
-
-> <small>(ADICIONADO, G.G. 21 DE NOVIEMBRE DE 2025)</small>
-
-Las penas referidas en el párrafo que antecede se incrementarán hasta el doble en los incidentes de tránsito premeditados cuando la conducta delictiva se cometa en perjuicio de persona adulta mayor, persona con discapacidad, mujeres o persona en situación de vulnerabilidad.
-
-> <small>(REFORMADO, G.G. 26 DE ENERO DE 2015)</small>
-
-Cuando este delito se cometa utilizando cualquier medio de comunicación mediante los cuales se pueda realizar la emisión, transmisión o recepción de signos, señales, escritos, imágenes, voz, sonidos o información de cualquier naturaleza que se efectúe a través de hilos, medios de transmisión inalámbrica de ondas o señales electromagnéticas, medios ópticos, o cualquier medio físico, se le impondrán de doce a quince años de prisión y de mil quinientos a dos mil días multa.
-
-> <small>(REFORMADO, G.G. 20 DE AGOSTO DE 2013)</small>
-
-Se impondrán de cuarenta a setenta años de prisión o prisión vitalicia y de setecientos a cinco mil días multa, cuando concurra cualquiera de las siguientes circunstancias:
-
-I. Se ostente como miembro de alguna asociación o grupo delictuoso;
-
-II. Intervengan dos o más personas armadas, o con objetos peligrosos para su comisión;
-
-III. Se cometa con violencia;
-
-IV. El sujeto pasivo del delito sea menor de edad, mujer, persona con discapacidad o persona mayor de sesenta años;
-
-V. El sujeto activo del delito sea o haya sido, miembro de una institución de seguridad pública o privada, militar, organismos auxiliares de la función de seguridad pública, servidor público, o se ostente como tal; así mismo cuando porte vestimentas o instrumentos de identificación, utilizados por integrantes de instituciones de seguridad pública;
-
-> <small>(REFORMADA, G.G. 16 DE JUNIO DE 2016)</small>
-
-VI. Para su comisión, el sujeto activo se aproveche de tener alguna relación de confianza, laboral, de parentesco o de negocios con la víctima o con sus familiares;
-
-> <small>(REFORMADA, G.G. 16 DE JUNIO DE 2016)</small>
-
-VII. Con motivo de la amenaza de muerte al pasivo o un tercero, intimidación y/o violencia cometidas por el activo del delito, entreguen o dejen a disposición del sujeto activo o de un tercero, ya sea la víctima o un tercero, alguna cantidad de dinero o cosas, o bien otorguen beneficios tales como contratos, empleos, cargos o comisiones, para evitar cualquier daño, en su persona, familia o bienes, lo anterior aun cuando se cumpla en apariencia los procedimientos para tal efecto;
-
-> <small>(ADICIONADA, G.G. 16 DE JUNIO DE 2016)</small>
-
-VIII. Se cometa en contra de un servidor público en funciones, electo o de un candidato a puesto de elección popular; o
-
-> <small>(ADICIONADA, G.G. 16 DE JUNIO DE 2016)</small>
-
-IX. El sujeto activo del delito manifieste su pretensión de continuar obteniendo alguna cantidad de dinero o en especie por concepto de cobro de cuotas o prestaciones de cualquier índole, adicionales a los exigidos originalmente por el ilícito.
-
-> <small>(ADICIONADO, G.G. 16 DE JUNIO DE 2016)</small>
-
-Si el beneficio a obtener u obtenido por el sujeto activo o un tercero proviene del erario público, la pena se incrementará desde un tercio hasta una mitad más de la señalada en el párrafo anterior.
+(DEROGADO, G.G. 4 DE FEBRERO DE 2026)
 
 ### CAPITULO VII. ASALTO
 
@@ -8154,3 +8090,33 @@ G.G. 17 DE DICIEMBRE DE 2025.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 4 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 268.- POR EL QUE SE EXPIDE LA LEY PARA PREVENIR, ATENDER Y COMBATIR LOS DELITOS EN MATERIA DE EXTORSIÓN Y DELITOS VINCULADOS DEL ESTADO DE MÉXICO; SE REFORMA EL ARTÍCULO 9, EL PÁRRAFO CUARTO DEL ARTÍCULO 58, Y SE DEROGA LA FRACCIÓN XIII DEL ARTÍCULO 11 QUINQUIES, LA FRACCIÓN I DEL ARTÍCULO 69, LOS ARTÍCULOS 199 BIS Y 266, Y EL CAPÍTULO VI DEL SUBTÍTULO TERCERO DEL TÍTULO TERCERO DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO; Y SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 29 Y SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 29, Y EL ARTÍCULO 29 QUATER DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. El Consejo Estatal de Prevención y Combate a la Extorsión y Delitos Vinculados deberá instalarse en un plazo no mayor a 60 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. La Secretaría de Seguridad del Gobierno del Estado deberá establecer la Estrategia Estatal para Prevenir y Combatir el Delito de Extorsión y Delitos Vinculados en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. La Fiscalía General de Justicia del Estado de México deberá crear y poner en operación la Fiscalía Central Especializada en Combate a los Delitos (sic) Extorsión, Delitos Vinculados y Secuestro en un periodo no mayor a 45 días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. Los procesos jurisdiccionales relacionados con los delitos de extorsión y el previsto por el artículo 199 Bis del Código Penal del Estado de México, que se derogan, serán atendidos de conformidad con los Artículos Cuarto y Quinto Transitorios del Decreto por el que se expide la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Los procedimientos penales en materia del delito previsto por el artículo 199 Bis del Código Penal del Estado de México que se deroga, iniciados antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia del mismo.
+
+Para la traslación de las penas de prisión vitalicia, o mayores al máximo previsto por la Ley General, impuestas bajo la vigencia del artículo 266 del Código Penal del Estado de México, derogado, la autoridad judicial deberá realizar la equivalencia con las penas máximas previstas en la Ley General considerando la concurrencia de circunstancias agravantes acreditadas en la sentencia original, a fin de garantizar los derechos de las víctimas a la justicia y la no repetición.
+
+SÉPTIMO. Los Centros Penitenciarios del Estado de México tendrán 150 días hábiles contados a partir de la entrada en vigor del presente Decreto para establecer los procedimientos y tecnologías de inhibición de entrada y salida de llamadas de telefonía celular, de radiocomunicación, de transmisión de voz, datos o imagen a que se refiere el artículo 38 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+OCTAVO. La Secretaría de Seguridad del Gobierno del Estado deberá establecer y poner en operación el Centro Estatal de Atención a Denuncias por el Delito de Extorsión en un plazo no mayor a 180 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+NOVENO. El Gobierno del Estado de México, a través de sus dependencias y organismos auxiliares, y los Ayuntamientos deberán proveer lo necesario para el correcto y eficaz cumplimiento de lo previsto en el presente Decreto.
+
+DÉCIMO. La Legislatura preverá los recursos necesarios para dar cumplimiento al objeto del presente Decreto.
+
+La Secretaría de Finanzas, exclusivamente para efectos de la implementación del presente Decreto y durante el ejercicio fiscal en curso, podrá autorizar las adecuaciones presupuestarias estrictamente necesarias para la integración y operación de las funciones previstas, con sujeción a lo dispuesto en el Código Financiero del Estado de México, el Presupuesto de Egresos del Estado de México y demás disposiciones jurídicas aplicables, debiendo informar de dichas adecuaciones a la Legislatura del Estado en los términos de la normativa vigente.
