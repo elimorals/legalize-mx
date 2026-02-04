@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-fiscalia-general-de-justicia-del-estado-de-mexico-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-09"
-last_updated: "2025-06-04"
+last_updated: "2026-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE FEBRERO DE 2026.
 
 Ley publicada en la Sección Quinta de la Gaceta del Gobierno del Estado Libre y Soberano de México, el viernes 9 de diciembre de 2016.
 
@@ -561,7 +561,13 @@ IV. Delitos electorales.
 
 V. Para la Atención de los Delitos cometidos contra la Libertad de Expresión, Periodistas y Personas Defensoras de Derechos Humanos.
 
-VI. Las demás que se establezcan en el Reglamento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 4 DE FEBRERO DE 2026)</small>
+
+VI. Fiscalía Central Especializada en Combate a los Delitos de Extorsión, Delitos Vinculados y Secuestro.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 4 DE FEBRERO DE 2026)</small>
+
+VII. Las demás que se establezcan en el Reglamento.
 
 El personal operativo que integre las unidades administrativas antes referidas contará con la capacitación y en su caso especialización continua en los asuntos de su competencia, observando las mejores prácticas para el desempeño de sus funciones y la atención de las víctimas u ofendidos.
 
@@ -634,6 +640,14 @@ VI. Las demás que le confieran otras disposiciones jurídicas aplicables.
 La Fiscalía Especializada en Atención de Delitos por Razón de Género cometidos contra Mujeres, Niñas, Niños y Adolescentes contará con las unidades administrativas, elementos de la policía de investigación, así como de los recursos necesarios para el desempeño de sus funciones, conforme al Reglamento de esta Ley y la normatividad aplicable.
 
 El personal adscrito a esta Fiscalía Especializada, además de cumplir con las características establecidas en la presente Ley, deberá contar con un perfil que garantice la aplicación de la perspectiva de género en su desempeño.
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+###### Artículo 29 Quater.
+
+La Fiscalía Central Especializada en Combate a los Delitos de Extorsión, Delitos Vinculados y Secuestro se encargará de la investigación de los hechos relacionados con los delitos en la materia establecidos en términos de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, de la Ley para Prevenir, Atender y Combatir los Delitos en Materia de Extorsión y Delitos Vinculados del Estado de México, de la Ley General para prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la Fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, de la Ley para prevenir, Atender y Combatir el Delito de Secuestro en el Estado de México, y las demás disposiciones jurídicas aplicables.
+
+El personal que integre la Fiscalía Central Especializada en Combate a los Delitos de Extorsión, Delitos Vinculados y Secuestro deberá haber sido capacitado y evaluado, así como contar con los certificados y la especialización requerida en materia de extorsión, o secuestro, según corresponda, de conformidad con los criterios que establezca el Sistema Nacional de Seguridad Pública.
 
 ###### Artículo 30.
 
@@ -1994,3 +2008,33 @@ G.G. 4 DE JUNIO DE 2025.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 4 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 268.- POR EL QUE SE EXPIDE LA LEY PARA PREVENIR, ATENDER Y COMBATIR LOS DELITOS EN MATERIA DE EXTORSIÓN Y DELITOS VINCULADOS DEL ESTADO DE MÉXICO; SE REFORMA EL ARTÍCULO 9, EL PÁRRAFO CUARTO DEL ARTÍCULO 58, Y SE DEROGA LA FRACCIÓN XIII DEL ARTÍCULO 11 QUINQUIES, LA FRACCIÓN I DEL ARTÍCULO 69, LOS ARTÍCULOS 199 BIS Y 266, Y EL CAPÍTULO VI DEL SUBTÍTULO TERCERO DEL TÍTULO TERCERO DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO; Y SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 29 Y SE ADICIONA LA FRACCIÓN VII AL ARTÍCULO 29, Y EL ARTÍCULO 29 QUATER DE LA LEY DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. El Consejo Estatal de Prevención y Combate a la Extorsión y Delitos Vinculados deberá instalarse en un plazo no mayor a 60 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. La Secretaría de Seguridad del Gobierno del Estado deberá establecer la Estrategia Estatal para Prevenir y Combatir el Delito de Extorsión y Delitos Vinculados en un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto.
+
+QUINTO. La Fiscalía General de Justicia del Estado de México deberá crear y poner en operación la Fiscalía Central Especializada en Combate a los Delitos Extorsión, Delitos Vinculados y Secuestro en un periodo no mayor a 45 días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+SEXTO. Los procesos jurisdiccionales relacionados con los delitos de extorsión y el previsto por el artículo 199 Bis del Código Penal del Estado de México, que se derogan, serán atendidos de conformidad con los Artículos Cuarto y Quinto Transitorios del Decreto por el que se expide la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Los procedimientos penales en materia del delito previsto por el artículo 199 Bis del Código Penal del Estado de México que se deroga, iniciados antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia del mismo.
+
+Para la traslación de las penas de prisión vitalicia, o mayores al máximo previsto por la Ley General, impuestas bajo la vigencia del artículo 266 del Código Penal del Estado de México, derogado, la autoridad judicial deberá realizar la equivalencia con las penas máximas previstas en la Ley General considerando la concurrencia de circunstancias agravantes acreditadas en la sentencia original, a fin de garantizar los derechos de las víctimas a la justicia y la no repetición.
+
+SÉPTIMO. Los Centros Penitenciarios del Estado de México tendrán 150 días hábiles contados a partir de la entrada en vigor del presente Decreto para establecer los procedimientos y tecnologías de inhibición de entrada y salida de llamadas de telefonía celular, de radiocomunicación, de transmisión de voz, datos o imagen a que se refiere el artículo 38 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+OCTAVO. La Secretaría de Seguridad del Gobierno del Estado deberá establecer y poner en operación el Centro Estatal de Atención a Denuncias por el Delito de Extorsión en un plazo no mayor a 180 días hábiles a partir de la entrada en vigor del presente Decreto.
+
+NOVENO. El Gobierno del Estado de México, a través de sus dependencias y organismos auxiliares, y los Ayuntamientos deberán proveer lo necesario para el correcto y eficaz cumplimiento de lo previsto en el presente Decreto.
+
+DÉCIMO. La Legislatura preverá los recursos necesarios para dar cumplimiento al objeto del presente Decreto.
+
+La Secretaría de Finanzas, exclusivamente para efectos de la implementación del presente Decreto y durante el ejercicio fiscal en curso, podrá autorizar las adecuaciones presupuestarias estrictamente necesarias para la integración y operación de las funciones previstas, con sujeción a lo dispuesto en el Código Financiero del Estado de México, el Presupuesto de Egresos del Estado de México y demás disposiciones jurídicas aplicables, debiendo informar de dichas adecuaciones a la Legislatura del Estado en los términos de la normativa vigente.
