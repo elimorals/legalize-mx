@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-cultura-fisica-y-deporte-del-estado-de-mexico-103815"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-28"
-last_updated: "2025-11-25"
+last_updated: "2026-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE FEBRERO DE 2026.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el viernes 28 de noviembre de 2014.
 
@@ -531,7 +531,17 @@ VI. Dar seguimiento y ejecutar las políticas y planes aprobados por el SIDEM.
 
 VII. Establecer procedimientos de promoción en materia de cultura física y deporte.
 
-VIII. Las demás que establezca la Ley General de Cultura Física y Deporte, la presente Ley y el Reglamento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 4 DE FEBRERO DE 2026)</small>
+
+VIII. Promover que las instituciones deportivas públicas, sociales y privadas, garanticen la inclusión de todas las personas en las diferentes disciplinas y actividades deportivas y de activación física, respetando las necesidades individuales de cada persona, asegurando condiciones de igualdad, accesibilidad y no discriminación, en cumplimiento al principio de inclusión social y a los derechos humanos.
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+IX. Fomentar la capacitación continua y especialización del personal responsable de las disciplinas y actividades físicas y deportivas para garantizar una atención adecuada y profesional que permita la plena participación y desarrollo de las capacidades de las personas en el ámbito deportivo y de activación física.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 4 DE FEBRERO DE 2026)</small>
+
+X. Las demás que establezca la Ley General de Cultura Física y Deporte, la presente Ley y el Reglamento.
 
 ###### Artículo 20.
 
@@ -1648,3 +1658,15 @@ G.G. 25 DE NOVIEMBRE DE 2025.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.G. 4 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 270.- POR EL QUE SE REFORMA EL ARTÍCULO 11, PRIMER PÁRRAFO Y FRACCIONES I Y II, SE ADICIONA LA SECCIÓN V DEL “DERECHO A LA CULTURA FÍSICA, LA ACTIVIDAD FÍSICA Y EL DEPORTE", DEL CAPÍTULO I, DEL TÍTULO SEGUNDO, EL ARTÍCULO 11 BIS, UN SEGUNDO PÁRRAFO AL ARTÍCULO 21 Y LA FRACCIÓN XV AL ARTÍCULO 27 DE LA LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO; Y SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 19; Y SE ADICIONAN LAS FRACCIONES IX Y X AL ARTÍCULO 19 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE MÉXICO".]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
