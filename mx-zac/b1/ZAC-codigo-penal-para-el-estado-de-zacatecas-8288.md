@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "2026-01-24"
+last_updated: "2026-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2026.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -556,6 +556,12 @@ Cuando pronunciada una sentencia irrevocable en que se hubiera impuesto una sanc
 58 Ter.- En caso de que sea vencible el error de tipo, a que se refiere el artículo 13 de este Código, la penalidad será la del delito culposo, si el hecho de que se trata admite dicha forma de realización.
 
 En caso de que sea vencible el error de prohibición, a que se refiere el artículo señalado en el párrafo anterior, la penalidad será de una tercera parte del mínimo y del máximo del delito que se trate.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2026)</small>
+
+58 Quáter.- A quien haga uso de la inteligencia artificial u otras tecnologías emergentes, deepfakes, clonación de voz o el uso de imagen, destinadas a crear apariencia de veracidad para la comisión de alguno o algunos de los delitos contemplados en este Código Penal, se le aumentarán las penas previstas en el delito ejecutado, hasta en una quinta parte más en su mínimo y máximo.
+
+Para efectos de este artículo, se entenderá por inteligencia artificial, a los sistemas, modelos o algoritmos capaces de generar, procesar información visual, textos, imágenes, audios, o vídeos de manera automatizada o semiautomatizada, funciones de aprendizaje, análisis, predicción, clasificación, generación de contenidos, orientación y toma de decisiones, cuya operación pueda producir efectos jurídicos que dañen derechos de alguna persona.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE AGOSTO DE 2019)</small>
 
@@ -1297,11 +1303,11 @@ Estas disposiciones sólo serán aplicables cuando no existan otras de la compet
 
 ## TITULO SEXTO. DELITOS CONTRA EL DESARROLLO Y LA DIGNIDAD DE LAS PERSONAS
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE FEBRERO DE 2026)</small>
 
 ### CAPITULO I
 
-DELITOS CONTRA EL DESARROLLO DE LOS NIÑOS, NIÑAS Y ADOLESCENTES Y LA PROTECCION INTEGRAL DE PERSONAS QUE NO TIENEN LA CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO
+DELITOS CONTRA EL DESARROLLO DE LAS NIÑAS, NIÑOS Y ADOLESCENTES Y LA PROTECCIÓN INTEGRAL DE PERSONAS QUE NO TIENEN CAPACIDAD PARA COMPRENDER EL SIGNIFICADO DEL HECHO O LA CAPACIDAD PARA RESISTIRLO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2025)</small>
 
@@ -1351,6 +1357,12 @@ El que, por cualquier medio directo, vendiere, difundiere o exhibiere material p
 
 No se actualizará el delito tratándose de programas preventivos, educativos o informativos que diseñen o impartan las instituciones públicas, privadas o sociales, que tengan por objeto la educación sexual, educación sobre la función reproductiva, prevención de infecciones de transmisión sexual y embarazo de adolescentes.
 
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2026)</small>
+
+181 Ter.- Comete el delito de cohabitación forzada de niñas, niños y adolescentes o de personas que no tienen capacidad para comprender el significado del hecho o capacidad para resistirlo, quien facilite, obligue, coaccione, induzca, solicite, gestione u ofrezca a una o varias de estas personas a unirse, informal o consuetudinariamente, con o sin su consentimiento, con alguien de su misma condición o con persona mayor de edad, con el fin de convivir en forma constante y equiparable a la de un matrimonio.
+
+Al responsable de este delito se le impondrá pena de tres a nueve años de prisión y multa de cien a doscientas cuotas.
+
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
 
 182.- A quien pague o prometa pagar con dinero, en especie u otra ventaja de cualquier naturaleza, a un niño, niña o adolescente o a un tercero para que aquélla sostenga relaciones o actos sexuales o eróticos, se le impondrá una pena de cuatro a ocho años de prisión y multa de treinta a setenta cuotas, sin perjuicio de las penas que correspondan por la comisión de otros delitos.
@@ -1379,9 +1391,9 @@ III. Niegue o restrinja las oportunidades de empleo y los consiguientes derechos
 
 IV. Niegue o restrinja derechos educativos.
 
-> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2026)</small>
 
-V. Provoque o incite al odio o a la violencia, y
+V. Provoque o incite al odio o a la violencia, sea por medios impresos o digitales, incluidos el uso de la inteligencia artificial u otras tecnologías emergentes, y
 
 > <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2022)</small>
 
@@ -2161,6 +2173,8 @@ En los casos considerados por este artículo, se procederá de oficio contra el 
 
 ### CAPITULO I BIS. DELITOS CONTRA LA INTIMIDAD SEXUAL
 
+> <small>[N. DE E. EL PRESENTE ARTÍCULO FUE REFORMADO POR EL PUNTO ÚNICO DEL DECRETO 798 DE 8 DE JUNIO DE 2022; POSTERIORMENTE EL 4 DE FEBRERO DE 2026 FUE REFORMADO ESTE ARTÍCULO MEDIANTE DECRETO 247 QUEDANDO DE ESTA MANERA: "Artículo 232 Ter. Comete el delito de violación a la intimidad sexual, quien por cualquier medio incluyendo el uso de la inteligencia artificial u otras tecnologías emergentes, produzca, genere, altere, reproduzca, divulgue, comparta, distribuya, compile, comercialice, solicite, publique o amenace con publicar, imágenes, audios o videos de una persona parcial o totalmente desnuda; de contenido erótico o sexual, ya sea impreso, grabado o digital, sin el consentimiento, aprobación o autorización de la víctima. Para efectos de este artículo, se entenderá por contenido erótico o sexual, toda imagen, texto, audio, video, representación gráfica, render, animación o cualquier otro formato físico, impreso, electrónico, digital, sintético, informático o sucedáneo, con independencia de si fue creado con inteligencia artificial u otras tecnologías emergentes, en el que se expongan partes íntimas o se represente actividad sexual de una persona. A la persona responsable de este delito se le sancionará con prisión de cuatro a ocho años y multa de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización, además, se le impondrá la obligación de eliminar el contenido de todas las plataformas a su alcance, si es que no lo hubiere hecho el prestador de servicios digitales. … … I. Haya existido entre el activo y la víctima una relación sentimental, afectiva, de confianza, de parentesco por consanguinidad o afinidad, de tutela o curatela; de matrimonio; de concubinato; noviazgo, de práctica o jerarquía religiosa o docente, o cualquier otra relación de hecho o amistad; II. A la V. VI. Se amenace con la publicación o se ofrezca el bloqueo de la difusión del contenido a cambio de una prestación sexual o económica; VII. Un medio de comunicación impreso, digital o electrónico, o algún operador de plataforma o servicios digitales incurra en las conductas previstas en el primer párrafo de este artículo; VIII. El contenido erótico o sexual se difunda en plataformas de acceso masivo, redes sociales, en servicios de mensajería con grupos múltiples o sitios diseñados para intercambio de ese tipo de contenido, o se utilicen cuentas falsas, bots, redes organizadas o infraestructura tecnológica destinada a maximizar el daño, y IX. El delito sea cometido por una persona servidora pública o integrante de cualquier corporación de seguridad pública en ejercicio de sus funciones. …": POR LO QUE, SE SUGIERE CONSULTAR LAS PUBLICACIONES OFICIALES DE ESAS FECHAS.]</small>
+
 > <small>(REFORMADO, P.O. 8 DE JUNIO DE 2022)</small>
 
 232 Ter.- Comete el delito de violación a la intimidad sexual, quien por cualquier medio produzca, divulgue, comparta, distribuya, compile, comercialice, solicite, publique o amenace con publicar, imágenes, audios o videos de una persona parcial o totalmente desnuda; de contenido erótico o sexual, ya sea impreso, grabado o digital, sin el consentimiento, aprobación o autorización de la víctima.
@@ -2247,9 +2261,9 @@ Si se ejerciera violencia física o moral, a la pena impuesta se aumentarán has
 
 III. Al que introduzca por vía vaginal o anal cualquier elemento o instrumento distinto al miembro viril, por medio de la violencia física o moral, excepto en menores de doce años donde no es necesario la violencia, sea cual fuere el sexo del ofendido, se le impondrá una pena de seis a quince años de prisión y multa de veinte a cien cuotas, independientemente de la pena que corresponda por el delito de lesiones que pudiera resultar.
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 4 DE FEBRERO DE 2026)</small>
 
-IV. A quien tenga cópula con persona mayor de dieciséis años y menor de dieciocho obteniendo su consentimiento por medio del engaño, se le aplicará de tres a seis años de prisión y multa de doscientas a trescientos sesenta y cinco cuotas.
+IV. A quien tenga cópula con persona mayor de quince años y menor de dieciocho obteniendo su consentimiento por medio del engaño, se le aplicará de tres a seis años de prisión y multa de doscientas a trescientos sesenta y cinco cuotas.
 
 Para los efectos de los delitos de violación y los equiparables a la violación contemplados en los artículos 236 y 237, no gozarán del beneficio de la libertad provisional bajo caución.
 
@@ -2555,9 +2569,9 @@ II.- Al que profane un cadáver o restos humanos con actos de vilipendio, mutila
 
 ## TITULO DECIMO QUINTO. DELITOS CONTRA LA PAZ, LIBERTAD Y SEGURIDAD DE LAS PERSONAS
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE FEBRERO DE 2026)</small>
 
-### CAPITULO I. AMENAZAS Y EXTORSION
+### CAPITULO I. AMENAZAS
 
 257.- Comete el delito de amenazas, el que valiéndose de cualquier medio, intimide a otro con causarle un mal en su persona, en su honor, en su prestigio, en sus bienes o en la persona, honor, prestigio o bienes de alguien con quien esté ligado con cualquier vínculo.
 
@@ -2611,75 +2625,11 @@ II.- Si exigió que el amenazado cometiera un delito, la sanción de la amenaza 
 
 III.- Si lo que exigió fue que dejara de ejecutar un acto lícito, se le impondrá prisión de tres meses a dos años y multa de diez a veinticinco cuotas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE OCTUBRE DE 2025)</small>
+261.- (DEROGADO, P.O. 4 DE FEBRERO DE 2026)
 
-261.- Comete el delito de extorsión a quien obligue a otra persona, por cualquier medio, incluida la violencia física o psicológica a dar, hacer, dejar de hacer algo, tolerar algo o amenace con causar daño en su persona, familia, posesiones, actividades económicas o laborales, o a un tercero con el que tenga cualquier vínculo afectivo, laboral, económico, con el propósito de obtener un lucro o provecho para sí o para una tercera persona, independientemente de que se logre o no el fin propuesto.
+261 Bis.- (DEROGADO, P.O. 4 DE FEBRERO DE 2026)
 
-> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)</small>
-
-La conducta a la que se refiere el párrafo anterior podrá ser realizada de manera personal, vía telefónica o a través de cualquier medio que resulte de la aplicación de las nuevas tecnologías, incluyendo cualquier red social.
-
-> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)</small>
-
-El delito de extorsión se perseguirá de oficio cuando el Ministerio Público tenga noticia por cualquier medio de su ejecución en perjuicio de cualquiera de las actividades económicas o productivas del estado.
-
-> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)</small>
-
-Se concede acción pública para denunciar este delito.
-
-> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)</small>
-
-Los servidores públicos de las dependencias y entidades, que en el ejercicio de sus facultades tengan conocimiento de la probable existencia de un hecho constitutivo del presente delito hacia alguno de los sectores económicos o productivos con los que se encuentren relacionados, están obligados a denunciarlo inmediatamente al Ministerio Público, proporcionándole los datos con que cuenten.
-
-> <small>(REFORMADO, P.O. 4 DE OCTUBRE DE 2025)</small>
-
-Al que comete el delito de extorsión se le impondrá de ocho a dieciséis años de prisión y multa de cien a doscientas veces el valor diario de la Unidad de Medida y Actualización vigente en el momento en que se cometió el delito.
-
-> <small>(DEROGADO SÉPTIMO PÁRRAFO [N. DE E. ANTES TERCER PÁRRAFO], P.O. 4 DE OCTUBRE DE 2025)</small>
-
-> <small>(DEROGADO OCTAVO PÁRRAFO, P.O. 4 DE OCTUBRE DE 2025)</small>
-
-> <small>(DEROGADO NOVENO PÁRRAFO, P.O. 4 DE OCTUBRE DE 2025)</small>
-
-> <small>(REFORMADO, P.O. 4 DE AGOSTO DE 2012)</small>
-
-Las penas contenidas en este artículo se aplicarán con independencia de las que correspondan por otros delitos que resulten.
-
-> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)</small>
-
-261 Bis.- Las penas establecidas en el artículo anterior, se agravarán hasta una mitad más en su mínimo y en su máximo, cuando:
-
-I. La víctima sea una persona menor de dieciocho años o mayor de setenta años de edad; cuando no tenga la capacidad para comprender el significado del hecho; padezca alguna enfermedad grave o terminal; se trate de mujer embarazada, y
-
-II. Teniendo parentesco con la víctima por consanguinidad en línea recta o colateral hasta el cuarto grado, sean cónyuges o concubinarios, ejecute el hecho o proporcione información para consumar la acción en contra del sujeto pasivo.
-
-> <small>(ADICIONADO, P.O. 4 DE OCTUBRE DE 2025)</small>
-
-261 Ter.- Las penas establecidas en el artículo 261 de este Código, se agravarán hasta en dos terceras partes más en su mínimo y en su máximo, cuando:
-
-I. Intervengan dos o más personas, en cualquier grado de participación;
-
-II. El delito se realice por personas privadas de la libertad o el delito se realice desde el interior de un centro penitenciario, centro de reinserción social o centro de internamiento.
-
-Igual sanción se impondrá a los servidores públicos que, por acción u omisión, faciliten los medios para que el delito se cometa por parte de personas privadas de la libertad, bajo su custodia o vigilancia; asimismo, se le impondrá la destitución del empleo, cargo o comisión y se le inhabilitará hasta por un tiempo igual al término de la pena de prisión que se le imponga. Además, se le suspenderá por el mismo término el derecho para ejercer actividades en corporaciones de seguridad privada;
-
-III. El delito se realice por servidores públicos, miembros o exmiembros de alguna corporación de seguridad pública o privada.
-
-En el caso de servidores públicos, miembros o exmiembros de alguna corporación de seguridad pública o privada o del sistema penitenciario, se impondrá, en su caso, la destitución del empleo, cargo o comisión y se le inhabilitará hasta por un tiempo igual del término de la pena de prisión que se imponga. Además, se le suspenderá por el mismo término el derecho para ejercer actividades en corporaciones de seguridad privada;
-
-IV. En la comisión del delito intervengan una o más personas armadas o que simulen estarlo;
-
-V. El sujeto pasivo o un tercero, entregue al activo o a persona que actúe en representación de éste, alguna cantidad de dinero o bienes de cualquier índole, en más de una ocasión;
-
-VI. La víctima se dedique al comercio o al desarrollo de actividades económicas, y la extorsión implique el cobro de cuotas o el otorgamiento de protección de cualquier tipo, sea cierto o no;
-
-VII. Por cualquier medio documental, electrónico, telefónico, amenace o intimide la persona, familia o bienes del sujeto pasivo, requiera el pago de una deuda simulada o solicite de otro la suscripción o destrucción de documentos que contengan obligaciones o créditos;
-
-VIII. Se refiera a la víctima u ofendido que en el hecho interviene algún grupo de la delincuencia organizada, sea cierto o no, aun cuando el propósito perseguido con ello sea solo el que no denuncie el hecho;
-
-IX. Se provoque o simule una colisión, impacto o cualquier percance vehicular, a fin de convencer al sujeto pasivo de ser responsable del mismo y con ello obtener un lucro o beneficio personal, y
-
-X. Se amenace o provoque incendio en los bienes muebles e inmuebles de la víctima u ofendido.
+261 Ter.- (DEROGADO, P.O. 4 DE FEBRERO DE 2026)
 
 ### CAPITULO II. ALLANAMIENTO DE MORADA
 
@@ -2719,9 +2669,7 @@ Cuando los ilícitos tipificados en las fracciones anteriores se cometan en perj
 
 265 Bis.- (DEROGADO, P.O. 4 DE AGOSTO DE 2012)
 
-> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2019)</small>
-
-265 Ter.- Se aplicará de cinco a diez años de prisión y multa de cincuenta a cien veces el valor de la Unidad de Medida y Actualización, al que con la finalidad de extorsionar en los términos del artículo 261 logre que una persona se prive de su libertad deambulatoria, con la finalidad de exigirle a la víctima, familiares o cualquier persona, la entrega directa o indirecta de dinero, bienes, o derechos, a cambio de liberar a la víctima del sometimiento que le impide desplazarse con libertad física o psíquica de un lugar a otro.
+265 Ter.- (DEROGADO, P.O. 4 DE FEBRERO DE 2026)
 
 266.- (DEROGADO, P.O. 4 DE AGOSTO DE 2012)
 
@@ -2731,7 +2679,33 @@ Cuando los ilícitos tipificados en las fracciones anteriores se cometan en perj
 
 267 bis.- Comete el delito de violencia política por razones de género, quien realice por sí o a través de terceros cualquier acción u omisión que impida, limite o restrinja los derechos político-electorales de las mujeres y el acceso a un cargo público o a las prerrogativas inherentes al mismo.
 
-A quien cometa este delito, se le impondrá una pena de dos a seis años de prisión y multa de cien a doscientas veces la Unidad de Medida y Actualización diaria en el momento de la comisión del delito.
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2026)</small>
+
+A quien cometa este delito, se le impondrá una pena de tres a seis años de prisión y multa de ciento cincuenta a doscientas veces la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 4 DE FEBRERO DE 2026)</small>
+
+Se equiparán al delito de violencia política por razones de género y se aplicarán las penas previstas en el párrafo anterior, cuando:
+
+I. Por medio de amenaza, acoso o ejerciendo cualquier tipo o modalidad de violencia, en términos de la legislación en materia de acceso de las mujeres a una vida libre de violencia contra una mujer, se limite, anule o menoscabe el ejercicio de sus derechos políticos y electorales o el desempeño de un cargo público;
+
+II. Exista un trato diferenciado que limite, anule o menoscabe el ejercicio de sus derechos políticos y electorales o el desempeño de un cargo público;
+
+III. Se lleve a cabo cualquier acción u omisión de las contempladas en el primer párrafo de este artículo y exista una relación de jerarquía o de subordinación entre el sujeto activo y la víctima, y
+
+IV. Se emita propaganda política o electoral en contra de una precandidata, candidata o de una mujer que ocupe un cargo público, o de algún tercero con quien guarden aquellas una relación de parentesco consanguíneo, de matrimonio o concubinato, cuyo contenido implique violencia conforme a la legislación en materia de acceso de las mujeres a una vida libre de violencia.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2026)</small>
+
+Cuando este delito se cometa por personas servidoras públicas, personas funcionarias partidistas, personas precandidatas o candidatas, las penas impuestas se incrementarán hasta en un tercio, en su mínimo y máximo, respecto de las contempladas en el primer párrafo de este artículo, además, a la persona servidora pública se le podrá suspender, destituir o inhabilitar para el desempeño de cualquier cargo, empleo o comisión públicos, hasta por el mismo lapso de privación de la libertad impuesta.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2026)</small>
+
+Cuando las conductas contempladas en las fracciones del primer párrafo de este artículo fueren cometidas contra una mujer perteneciente a un pueblo o comunidad indígena, o afrodescendiente, la pena se incrementará en una mitad en su mínimo y máximo, respecto de las contempladas por el mismo párrafo.
+
+> <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2026)</small>
+
+Las penas se aplicarán con independencia de la sanción establecida para los tipos penales que concurren en la comisión de los delitos previstos en este Código y otros ordenamientos.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE JUNIO DE 2016)</small>
 
@@ -4474,3 +4448,35 @@ Artículo primero. El presente Decreto entrará en vigor al día siguiente de su
 Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto, y
 
 Artículo tercero. A las querellas, denuncias, procesos judiciales y de ejecución que se encuentren en trámite relacionados con Delitos contra el Desarrollo de los Niños, Niñas y Adolescentes y la Protección Integral de Personas que no tienen la Capacidad para Comprender el Significado del Hecho, les será aplicable el contenido del artículo 181-Bis de este Código que estaba vigente antes de la publicación del presente decreto.
+
+P.O. 4 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 247.- REFORMAS Y ADICIONES AL CÓDIGO PENAL DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+Artículo tercero. Las disposiciones relativas al delito de extorsión previstas en el Código Penal para el Estado de Zacatecas vigentes hasta la entrada en vigor de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán rigiendo a las personas sujetas a investigación penal, a las procesadas o sentenciadas por el delito de extorsión, sus modalidades, agravantes y sanciones, salvo en los casos de traslación del tipo y adecuación de la pena, conforme lo establece el régimen transitorio de la ley general en materia de extorsión.
+
+Los procedimientos penales en materia de extorsión, iniciados antes de la entrada en vigor de la Ley General mencionada, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia de dicho ordenamiento.
+
+Artículo cuarto. La Secretaría de Seguridad Pública del Gobierno del Estado de Zacatecas se sujetará al plazo otorgado por la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, en sus disposiciones transitorias, para establecer los procedimientos y tecnologías de inhibición de entrada y salida de llamadas de telefonía celular, de radiocomunicación, de transmisión de voz, datos o imagen a que se refiere el artículo 38 de la misma ley.
+
+Artículo quinto. La Fiscalía Especializada en Combate al Secuestro, Extorsión y Delitos de Alto Impacto de la Fiscalía General de Justicia del Estado de Zacatecas, seguirá siendo la responsable de atender los delitos de extorsión contemplados en la nueva Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+P.O. 4 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 453.- SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente instrumento legislativo entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan el presente instrumento.
+
+P.O. 4 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 454.- SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente instrumento legislativo entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan el presente instrumento.
