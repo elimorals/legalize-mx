@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2026-01-22"
+last_updated: "2026-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE FEBRERO DE 2026.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -119,9 +119,9 @@ El Estado establecerá el Sistema de Cuidados del Estado de México que coordine
 
 Toda persona tiene derecho a elegir de forma libre la distribución del tiempo propio y para el autocuidado, que le permita decidir y ejercer la forma de vida que convenga a sus intereses, necesidades y voluntades. La ley establecerá las bases y modalidades que definan la competencia del estado y los municipios en la promoción, protección y ejercicio de este derecho.
 
-> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
-Toda persona tiene derecho a vivir una vida libre de violencias. Los entes públicos del Estado tienen deberes reforzados de protección con las mujeres, adolescentes, niñas y niños, para garantizar su derecho humano a una vida libre de violencias y a la integridad personal, tanto en el ámbito público como en el privado; debiendo garantizar en la elaboración y ejecución de políticas públicas, los principios de igualdad jurídica; respeto a la dignidad humana de las mujeres, adolescentes, niñas y niños; perspectiva de género; no discriminación, libertad y desarrollo integral, a través de los principios ya reconocidos en la Constitución Política de los Estados Unidos Mexicanos. La Ley definirá las bases y modalidades para su realización de conformidad con lo previsto en los artículos 83 Bis y 86 Bis.
+Toda persona tiene derecho a vivir una vida libre de violencias. Todas las autoridades del Estado y los municipios en el ámbito de sus competencias, tienen deberes reforzados de protección con las mujeres, adolescentes, niñas y niños, para garantizar su derecho humano a una vida libre de violencias y a la integridad personal, tanto en el ámbito público como en el privado; debiendo garantizar en la elaboración y ejecución de políticas públicas, los principios de igualdad jurídica; respeto a la dignidad humana de las mujeres, adolescentes, niñas y niños; perspectiva de género; no discriminación, libertad y desarrollo integral, actuando con la debida diligencia, a través de los principios ya reconocidos en la Constitución Política de los Estados Unidos Mexicanos. La Ley definirá las bases y modalidades para su realización de conformidad con lo previsto en los artículos 83 Bis y 86 Bis.
 
 > <small>(REFORMADO, G.G. 29 DE OCTUBRE DE 2025)</small>
 
@@ -357,9 +357,9 @@ Toda persona tiene derecho a la identidad y a ser registrado de manera inmediata
 
 Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y servicios que presta el Estado en la materia, así como el ejercicio de sus derechos culturales. El Estado promoverá los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa. La ley establecerá los mecanismos para el acceso y participación a cualquier manifestación cultural.
 
-(ADICIONADO, G.G. 8 DE JUNIO DE 2015) (F. DE E., G.G. 3 DE SEPTIEMBRE DE 2015)
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
-Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo conforme a las leyes en la materia.
+Toda persona tiene derecho a la cultura física, a la activación física y a la práctica del deporte. Corresponde al Estado su promoción, fomento y estímulo conforme a las leyes en la materia.
 
 (ADICIONADO, G.G. 8 DE JUNIO DE 2015) (F. DE E., G.G. 3 DE SEPTIEMBRE DE 2015)
 
@@ -2359,9 +2359,9 @@ El ejercicio del Poder Judicial del Estado se deposita en:
 
 a) Un órgano colegiado denominado Tribunal Superior de Justicia, el cual funcionará en Pleno, Sala Constitucional, Salas Colegiadas y Unitarias Regionales;
 
-> <small>(REFORMADO, G.G. 19 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, G.G. 4 DE FEBRERO DE 2026)</small>
 
-b) En tribunales y juzgados de primera instancia, juzgados de cuantía menor y tribunales laborales, organizados de acuerdo a su competencia establecida en las leyes secundarias. Los órganos jurisdiccionales aplicarán las leyes federales, tratándose de jurisdicción concurrente.
+b) En tribunales y juzgados de primera instancia, juzgados de cuantía menor, juzgados especializados en órdenes y medidas de protección, y tribunales laborales, organizados de acuerdo a su competencia establecida en las leyes secundarias. Los órganos jurisdiccionales aplicarán las leyes federales, tratándose de jurisdicción concurrente.
 
 > <small>(ADICIONADO, G.G. 6 DE ENERO DE 2025)</small>
 
@@ -5652,3 +5652,23 @@ La designación correspondiente deberá ser notificada a la Agencia de Transform
 NOVENO. Las secretarias de Finanzas, de Desarrollo Económico y de la Contraloría, la Oficialía Mayor y la Agencia Digital del Estado de México, en el ámbito de sus respectivas competencias, intervendrán en los procedimientos objeto del presente Decreto y proveerán lo necesario para el cumplimiento del mismo en términos de las disposiciones jurídicas aplicables.
 
 DÉCIMO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria y financiera; y deberán cubrirse con cargo al presupuesto aprobado al ente público competente para el ejercicio fiscal en curso y subsecuentes.
+
+G.G. 4 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 264.- DECLARATORIA DE APROBACIÓN DE LA MINUTA PROYECTO DE DECRETO POR EL QUE SE REFORMA EL PÁRRAFO QUINCUAGÉSIMO SEGUNDO DEL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 4 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 265.- DECLARATORIA DE APROBACIÓN DE LA MINUTA PROYECTO DE DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 5, PÁRRAFO DOCEAVO; Y 88, PÁRRAFO PRIMERO, INCISO B) DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
