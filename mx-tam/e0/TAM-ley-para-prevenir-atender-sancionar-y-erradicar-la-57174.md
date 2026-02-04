@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2025-11-07"
+last_updated: "2026-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
@@ -1185,9 +1185,9 @@ h) promover foros educativos, exposiciones de toda índole, programas radiofóni
 
 i) celebrar convenios de colaboración, coordinación y concertación en la materia;
 
-> <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2026)</small>
 
-j) monitorear y dar seguimiento al funcionamiento de los refugios, de acuerdo a los lineamientos del Modelo de Atención en Refugios para mujeres víctimas de violencia y sus hijas e hijos, para lo cual podrá solicitar la participación del Consejo Consultivo Ciudadano;
+j) operar y administrar el funcionamiento de los refugios, de acuerdo a los lineamientos del Modelo de Atención en Refugios para mujeres víctimas de violencia y sus hijas e hijos, para lo cual podrá celebrar convenios con las instancias de asistencia social;
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2022)</small>
 
@@ -1722,6 +1722,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 7 DE NOVIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-528 MEDIANTE EL CUAL SE ADICIONAN UN PÁRRAFO SEGUNDO AL ARTÍCULO 8 BIS; UN PÁRRAFO SEGUNDO AL 8 TER; Y UN ARTÍCULO 8 TER-A, A LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 4 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 66-959 MEDIANTE EL CUAL SE REFORMA EL INCISO J) DEL NUMERAL 1, DEL ARTÍCULO 20 DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES".]
 
 ###### ARTÍCULO ÚNICO.
 
