@@ -4,7 +4,7 @@ identifier: "NLE-codigo-de-conducta-del-colegio-militarizado-general-mariano-157
 country: "mx"
 rank: "codigo"
 publication_date: "2022-04-20"
-last_updated: "2022-04-20"
+last_updated: "2026-02-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=157557&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # CODIGO DE CONDUCTA DEL COLEGIO MILITARIZADO "GENERAL MARIANO ESCOBEDO" DEL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL COLEGIO MILITARIZADO “GENERAL MARIANO ESCOBEDO” DEL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 4 DE FEBRERO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL COLEGIO MILITARIZADO "GENERAL MARIANO ESCOBEDO" DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2026 (ABROGADO).
 
 Código publicado en el Número 56 del Periódico Oficial del Estado de Nuevo León, el miércoles 20 de abril de 2022.
 
@@ -374,3 +376,17 @@ Por tanto, mando se imprima, publique circule y se le dé el debido cumplimiento
 Gral. Bgda. D. E. M. Ret. José Manuel Zozaya Gallegos
 
 Director General del Colegio Militarizado “General Mariano Escobedo” del Estado de Nuevo León.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “COLEGIO MILITARIZADO “GENERAL MARIANO ESCOBEDO”. CÓDIGO DE CONDUCTA”.]
+
+PRIMERO.- El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Código de Conducta del Colegio Militarizado “General Mariano Escobedo” de fecha 30 de marzo del año 2022, y publicado en el Periódico Oficial del Estado en fecha 20 de abril del 2022.
+
+TERCERO.- Hágase del conocimiento de la Contraloría y Transparencia Gubernamental, para su debida revisión, el presente Código de Conducta, lo anterior con fundamento en el Artículo 46 fracción II del Código de Ética de las personas servidoras públicas de la Administración Pública del Estado de Nuevo León.
+
+CUARTO.- El presente documento, deberá difundirse a través de medios físicos o electrónicos a fin de hacerlo del conocimiento de todas las personas servidoras públicas del Colegio, así como deberá ser publicado en su página oficial de internet.
