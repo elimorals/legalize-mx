@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-juventud-del-estado-de-mexico-76478"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-31"
-last_updated: "2025-12-12"
+last_updated: "2026-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE FEBRERO DE 2026.
 
 Ley publicada en la Sección Quinta a la Gaceta del Gobierno del Estado de México, el martes 31 de agosto de 2010.
 
@@ -253,21 +253,39 @@ Las y los jóvenes tienen derecho a un empleo digno con un salario justo, con ig
 
 #### SECCIÓN IV. DERECHOS CULTURALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 11.
 
-Los jóvenes tienen derecho a:
+Las y los jóvenes tienen derecho a:
 
-> <small>(REFORMADA, G.G. 13 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-I. El acceso a espacios culturales, a la libre creación y expresión de sus manifestaciones artísticas de acuerdo a sus intereses y expectativas, respetando la diversidad de idiosincrasia, lenguas y etnias indígenas;
+I. El acceso a espacios culturales, a la libre creación y expresión de sus manifestaciones artísticas de acuerdo con sus intereses y expectativas, respetando la diversidad de idiosincrasia, lenguas y etnias indígenas;
 
-> <small>(REFORMADA, G.G. 13 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, G.G. 4 DE FEBRERO DE 2026)</small>
 
-II. La educación física y a practicar cualquier deporte basado en el respeto, la superación personal y colectiva, el trabajo en equipo y la solidaridad; a disfrutar de actividades de recreación y al acceso a espacios recreativos para el aprovechamiento positivo y productivo de su tiempo libre; y
+II. Disfrutar de actividades de recreación y al acceso a espacios recreativos para el aprovechamiento positivo y productivo de su tiempo libre; y
 
 > <small>(ADICIONADA, G.G. 13 DE MAYO DE 2025)</small>
 
 III. A la inclusión digital y a la promoción de la diversidad cultural, mediante el acceso y uso seguro y responsable del internet como medio efectivo para ejercer sus derechos de conformidad con los principios de interdependencia, equidad, asequibilidad, disponibilidad, accesibilidad, progresividad, calidad y la no discriminación prevaleciendo el respeto a su orientación sexual, identidad y expresión de genero de todas las personas en términos de las disposiciones jurídicas aplicables. Las autoridades promoverán programas de alfabetización digital y el uso responsable de las tecnologías, especialmente en poblaciones en situación de vulnerabilidad.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+#### SECCIÓN V. DERECHO A LA CULTURA FÍSICA, LA ACTIVIDAD FÍSICA Y EL DEPORTE
+
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+###### Artículo 11 Bis.
+
+Las y los jóvenes tienen derecho a:
+
+I. Recibir por parte de las autoridades competentes, la información y los valores orientados a cuidar, desarrollar y preservar su salud física y mental en lo individual y colectivo de acuerdo con el principio de inclusión;
+
+II. Realizar actividad física y deporte en espacios públicos, privados o de uso común que sean adecuados y no pongan en riesgo su integridad, privilegiando en todo momento el cuidado y bienestar ambiental; y
+
+III. Que las instituciones públicas y los particulares cuenten con las instalaciones para llevar a cabo los entrenamientos y competencias de cada disciplina en condiciones óptimas.
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 7 DE OCTUBRE DE 2022)</small>
 
@@ -505,6 +523,10 @@ El Poder Judicial, en el ámbito de su competencia, participará en la observanc
 
 Los Ayuntamientos, en el ámbito de sus respectivas competencias y de conformidad a sus recursos presupuestales, tienen la obligación de promover y ejecutar las políticas y programas que sean necesarios para garantizar a los jóvenes, el ejercicio y goce pleno de los derechos establecidos en la presente Ley.
 
+> <small>(ADICIONADO, G.G. 4 DE FEBRERO DE 2026)</small>
+
+Las acciones y programas que se desarrollen deberán ser inclusivas, accesibles y diseñadas para atender las necesidades específicas de las y los jóvenes, promoviendo hábitos saludables, el uso adecuado de los espacios públicos destinados para la recreación y el deporte, fomentando una cultura de bienestar integral que contribuya al desarrollo físico, mental y social de esta población.
+
 ###### Artículo 22.
 
 Los Ayuntamientos participarán en la planeación y ejecución de la política pública para los jóvenes, para ello, en los planes y programas que realicen, deberán incluir acciones específicas para garantizar el ejercicio de los derechos de los jóvenes, contenidos en la presente Ley.
@@ -624,6 +646,10 @@ XIII. Coordinar las acciones orientadas a la consecución de los objetivos, estr
 > <small>(REFORMADA, G.G. 7 DE OCTUBRE DE 2022)</small>
 
 XIV. Vigilar y asegurar que los recursos asignados para el apoyo de los jóvenes, contemplados en el Presupuesto de Egresos de cada ejercicio fiscal, sean ejercidos con puntualidad, honradez, oportunidad, transparencia y equidad, generando en ello los análisis e informes públicos que correspondan.
+
+> <small>(ADICIONADA, G.G. 4 DE FEBRERO DE 2026)</small>
+
+XV. Promover de manera integral la cultura física, la actividad física y el deporte, a través de acciones orientadas a la creación de programas que contribuyan al desarrollo de una vida saludable entre la juventud aprovechando el uso eficiente de la infraestructura destinada a este fin.
 
 ###### Artículo 28.
 
@@ -1030,3 +1056,15 @@ G.G. 12 DE DICIEMBRE DE 2025.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 4 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 270.- POR EL QUE SE REFORMA EL ARTÍCULO 11, PRIMER PÁRRAFO Y FRACCIONES I Y II, SE ADICIONA LA SECCIÓN V DEL "DERECHO A LA CULTURA FÍSICA, LA ACTIVIDAD FÍSICA Y EL DEPORTE", DEL CAPÍTULO I, DEL TÍTULO SEGUNDO, EL ARTÍCULO 11 BIS, UN SEGUNDO PÁRRAFO AL ARTÍCULO 21 Y LA FRACCIÓN XV AL ARTÍCULO 27 DE LA LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO; Y SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 19; Y SE ADICIONAN LAS FRACCIONES IX Y X AL ARTÍCULO 19 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
