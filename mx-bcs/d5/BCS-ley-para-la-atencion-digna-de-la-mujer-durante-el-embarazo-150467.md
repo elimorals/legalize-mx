@@ -4,7 +4,7 @@ identifier: "BCS-ley-para-la-atencion-digna-de-la-mujer-durante-el-embarazo-1504
 country: "mx"
 rank: "ley"
 publication_date: "2021-07-31"
-last_updated: "2021-07-31"
+last_updated: "2026-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150467&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY PARA LA ATENCIÓN DIGNA DE LA MUJER DURANTE EL EMBARAZO, PARTO Y PUERPERIO Y PARA EL APOYO DE LA LACTANCIA MATERNA, DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 5 DE FEBRERO DE 2026.
 
 Ley publicada en el Número 28-BIS del Boletín Oficial del Estado de Baja California Sur, el sábado 31 de julio de 2021.
 
@@ -379,7 +379,9 @@ Para gozar de los reposos y/o descansos extraordinarios, posterior a la licencia
 
 II. Ejercer la lactancia plenamente en cualquier lugar, incluido su centro de trabajo ya sea público o privado, en las mejores condiciones;
 
-III. Acceder de manera gratuita a los bancos de leche humana, en caso de que la madre lo requiera; y
+> <small>(REFORMADA, B.O. 5 DE FEBRERO DE 2026)</small>
+
+III. Acceder de manera gratuita a los bancos de leche humana, en caso de que la madre y el departamento de neonatología lo requieran.
 
 IV. Recibir educación e información oportuna, veraz y comprensible sobre los beneficios de la lactancia materna, las técnicas adecuadas para el amamantamiento y las posibles dificultades con sus respectivos medios de solución.
 
@@ -509,9 +511,11 @@ VI. En el caso de lactarios hospitalarios: Gorros, Cubrebocas, Batas y guantes e
 
 VII. Bitácora de ocupación del lactario ó sala de lactancia.
 
+> <small>(REFORMADO, B.O. 5 DE FEBRERO DE 2026)</small>
+
 Artículo 37
 
-Los bancos de leche humana son centros donde se recolecta y se conserva la leche de madres donantes y posteriormente se ofrece a lactantes que la requieren pero no pueden obtenerla de sus propias madres.
+Los bancos de leche humana son centros donde se recolecta y se conserva la leche de madres donantes para sus propios hijos o para neonatos enfermos que lo requieran.
 
 Artículo 38
 
@@ -525,9 +529,11 @@ III. Abandono del lactante; y
 
 IV. Las demás que resulten procedentes, atendiendo el interés superior del menor.
 
+> <small>(REFORMADO, B.O. 5 DE FEBRERO DE 2026)</small>
+
 Artículo 39
 
-Los servicios que presten los bancos de leche humana serán gratuitos y tendrán acceso a dichos servicios la madre, el padre, el tutor o quienes ejerzan la patria potestad.
+Los servicios que presten los bancos de leche humana serán gratuitos y tendrán acceso a dichos servicios la madre, el padre, el tutor, quienes ejerzan la patria potestad, o los servicios hospitalarios de atención neonatal que lo requieran.
 
 ### Capítulo VI. De la nominación “Hospital Amigo del Niño y de la Niña”
 
@@ -756,3 +762,13 @@ CARLOS MENDOZA DAVIS
 SECRETARIO GENERAL DE GOBIERNO
 
 ALVARO DE LA PEÑA ANGULO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 5 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3154 SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD, ASÍ COMO LA LEY PARA LA ATENCIÓN DIGNA DE LA MUJER DURANTE EL EMBARAZO, PARTO Y PUERPERIO Y PARA EL APOYO DE LA LACTANCIA MATERNA, AMBAS DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el 01 de enero de 2026, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Titular del Ejecutivo del Estado deberá prever en el Proyecto de Presupuesto de Egresos del Estado de Baja California Sur para el Ejercicio Fiscal del año 2026, los recursos presupuestarios necesarios a fin de dar cumplimiento con las disposiciones previstas en el presente Decreto.
