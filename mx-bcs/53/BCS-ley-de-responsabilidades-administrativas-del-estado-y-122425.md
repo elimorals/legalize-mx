@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-responsabilidades-administrativas-del-estado-y-122425"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-27"
-last_updated: "2024-07-11"
+last_updated: "2026-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 5 DE FEBRERO DE 2026.
 
 Ley publicada en el Extraordinario No. 23 del Boletín Oficial del Estado de Baja California Sur, el martes 27 de junio de 2017.
 
@@ -596,6 +596,10 @@ Será responsable de encubrimiento el servidor público que cuando en el ejercic
 ###### Artículo 63.
 
 Cometerá desacato el servidor público que, tratándose de requerimientos o resoluciones de autoridades fiscalizadoras, de control interno, judiciales, electorales o en materia de defensa de los derechos humanos o cualquier otra competente, proporcione información falsa, así como no dé respuesta alguna, retrase deliberadamente y sin justificación la entrega de la información, a pesar de que le hayan sido impuestas medidas de apremio conforme a las disposiciones aplicables.
+
+> <small>(ADICIONADO, B.O. 5 DE FEBRERO DE 2026)</small>
+
+Artículo 63 BIS. Es falta administrativa grave, la omisión de enterar las cuotas, aportaciones, cuotas sociales o descuentos ante el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en los términos que señalan los artículos 21 y 22 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
 
 ###### Artículo 64.
 
@@ -1934,3 +1938,11 @@ B.O. 11 DE JULIO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO. En cumplimiento a lo dispuesto en el presente decreto el Titular del Poder Ejecutivo Estatal deberá armonizar el Reglamento para la Práctica de los Exámenes Toxicológicos en el Estado de Baja California Sur dentro de un plazo de 90 días naturales contados a partir de la entrada en vigor del mismo.
+
+B.O. 5 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 2934 SE ADICIONA UN ARTÍCULO 63 BIS A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR Y UN ÚLTIMO PÁRRAFO A LA FRACCIÓN VI DEL ARTÍCULO 44 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El Presente Decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se Derogan todas las disposiciones legales que se opongan al presente Decreto.
