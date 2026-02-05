@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-cambio-climatico-del-estado-de-baja-california-sur-17643
 country: "mx"
 rank: "ley"
 publication_date: "2025-01-15"
-last_updated: "2025-01-15"
+last_updated: "2026-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=176432&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 5 DE FEBRERO DE 2026.
 
 Ley publicada en el Extraordinario del Número 4 en el Boletín Oficial del Estado de Baja California Sur, el miércoles 15 de enero de 2025.
 
@@ -169,7 +169,9 @@ XVI. Energías Renovables: Fuente cuya Naturaleza se Basa en fenómenos o proces
 
 XVII. Estrategia Estatal para la biodiversidad: Se refiere a la Estrategia Estatal para la conservación, uso y aprovechamiento sustentable de la biodiversidad y de los ecosistemas del Estado de Baja California Sur, dando prioridad a los humedales, manglares, arrecifes, dunas, zonas y lagunas costeras, que brindan servicios ambientales, fundamental para reducir la vulnerabilidad;
 
-XVIII. Fondo Estatal Ambiental y Climático: Al Fideicomiso público de administración e inversión, para la captación y canalización de recursos, para incentivar y dar apoyo técnico y financiero a acciones de mitigación y adaptación al cambio climático, entre otras;
+> <small>(REFORMADA, B.O. 5 DE FEBRERO DE 2026)</small>
+
+XVIII. Fondo Estatal Ambiental: Al Fideicomiso público de administración e inversión, para la captación y canalización de recursos, para incentivar y dar apoyo técnico y financiero a acciones de mitigación y adaptación al cambio climático, entre otras;
 
 XIX. GyCEI: Los gases y compuestos de efecto invernadero que absorben y emiten radiación infrarroja;
 
@@ -1305,13 +1307,17 @@ Mecanismos
 
 Para mitigar las emisiones de GyCEI, fortalecer la resiliencia y capacidad adaptativa y reducir la vulnerabilidad, se establecerán mecanismos orientados a internalizar gradualmente el costo relacionado con las externalidades ambientales negativas derivadas de las actividades económicas en el Estado.
 
-#### Sección Segunda. Fondo Estatal Ambiental y Climático
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 5 DE FEBRERO DE 2026)</small>
+
+#### Sección Segunda. Fondo Estatal Ambiental
 
 ###### Artículo 87.
 
 Objeto
 
-Con la finalidad de atender los requerimientos en materia de mitigación y adaptación al cambio climático, se constituirá el Fondo Estatal Ambiental y Climático, como instrumento financiero que será administrado por la Secretaria, para los fines de esta Ley, con el objeto de captar y canalizar recursos económicos públicos, privados, nacionales e internacionales, así como las aportaciones de otros fondos públicos o privados, los ingresos que se obtengan de las multas previstas en la presente Ley, y las donaciones de personas físicas o morales, nacionales o internacionales, para lograr los objetivos de la Política Climática en el Estado.
+> <small>(REFORMADO, B.O. 5 DE FEBRERO DE 2026)</small>
+
+Con la finalidad de atender los requerimientos en materia de mitigación y adaptación al cambio climático, se constituirá el Fondo Estatal Ambiental, como instrumento financiero que será administrado por la Secretaria, para los fines de esta Ley, con el objeto de captar y canalizar recursos económicos públicos, privados, nacionales e internacionales, así como las aportaciones de otros fondos públicos o privados, los ingresos que se obtengan de las multas previstas en la presente Ley, Ley de Equilibrio Ecológico y Protección del Ambiente del Estado de Baja California Sur y la Ley de Prevención y Gestión Integral de Residuos y Economía Circular del Estado de Baja California Sur, y las donaciones de personas físicas o morales, nacionales o internacionales, para lograr los objetivos de la Política Climática en el Estado.
 
 Su patrimonio, objeto, órganos normativos y demás disposiciones inherentes en materia de fideicomisos, estarán determinados en el Decreto que lo constituya, el cual deberá prever, al menos, los siguientes objetivos en el ejercicio de los recursos que lo conformen:
 
@@ -1327,13 +1333,79 @@ IV.- Programas de educación ambiental, concientización y difusión de informac
 
 V.- Proyectos de investigación, innovación, desarrollo tecnológico y transferencia de tecnología en la materia, y en general, aquellos que en materia de cambio climático la Comisión consideren estratégicos.
 
+> <small>(ADICIONADO, B.O. 5 DE FEBRERO DE 2026)</small>
+
+###### Artículo 87 Bis.
+
+Los recursos que se integren en el Fondo Estatal Ambiental serán administrados vía fideicomiso y se destinarán a:
+
+I. La realización de acciones de preservación del ambiente, la protección ecológica y la restauración del equilibrio ecológico;
+
+II. La restauración, manejo y administración de las áreas de valor ambiental;
+
+III. La prevención, mitigación y restauración de sitios contaminados;
+
+IV. El apoyo a programas de prevención y restauración del equilibrio ecológico que desarrollen los municipios;
+
+V. El apoyo al desarrollo de programas de educación e investigación en materia ambiental;
+
+VI. La prevención y control de la contaminación atmosférica, de suelos y de agua.
+
+VII. Apoyo a proyectos para la creación de infraestructura para el manejo integral de residuos sólidos urbanos, de manejo especial y residuos peligrosos correspondientes a los microgeneradores en el Estado
+
+VIII. La adquisición de tecnologías que midan los niveles máximos permitidos de emisión de contaminantes en tiempo y condiciones reales;
+
+IX. El financiamiento de programas y acciones tendientes a mejorar la calidad del aire;
+
+X. El financiamiento de medidas de mitigación y adaptación del cambio climático;
+
+XI. Aplicación de programas y acciones para la adaptación ante el cambio climático, atendiendo de manera especial a las poblaciones ubicadas en zonas de alto riesgo y grupos más vulnerables del Estado, pueblos indígenas, mujeres, niños y personas con capacidades diferentes;
+
+XII. Los proyectos que contribuyen simultáneamente a incrementar el capital natural, a la adaptación y mitigación ante el cambio climático, con acciones orientadas, entre otras, prevención de la deforestación y degradación, conservar y restaurar suelos, recargar los mantos acuíferos, preservar la integridad de los ecosistemas costeros; y
+
+XIII. Promover la conectividad de los ecosistemas a través de corredores biológicos y sitios prioritarios para la conservación, y para aprovechar sustentablemente la biodiversidad.
+
+Todas aquellas acciones y proyectos considerados en el artículo 91 de la Ley del Equilibrio Ecológico y Protección al Ambiente del Estado de Baja California Sur, artículo 87 de la Ley de Cambio Climático del Estado de Baja California Sur, así como aquellas Leyes aplicables en la materia.
+
+> <small>(ADICIONADO, B.O. 5 DE FEBRERO DE 2026)</small>
+
+Artículo 87 TER. Los recursos del Fondo Estatal Ambiental se integrarán con:
+
+I. Las herencias, legados, cesión de derechos y donaciones que reciba;
+
+II. Los recursos destinados para ese efecto en las leyes de ingresos y los presupuestos de egresos de la Federación, Estado y los municipios;
+
+III. Aquellos que provengan de fondos, contemplados en normatividad distinta al presente ordenamiento; y
+
+IV. Los demás recursos que se generen por cualquier otro concepto como impuestos ecológicos, mercados de carbono, compensaciones ambientales, trámites y servicios ambientales, multas y sanciones en materia ambiental, derechos por verificación vehicular y las vigentes en los términos de la normatividad aplicable.
+
+V. El Gobierno y Administración del "Fideicomiso" estará a cargo del Comité Técnico, cuyos integrantes desempañaran este cargo mientras estén en funciones.
+
+VI. El Comité Técnico será la máxima autoridad del "Fideicomiso" y estaá (sic) integrado por:
+
+a) Un Presidente o Presidenta, que será la persona titular de la Secretaría de Planeación Urbana, Infraestructura, Movilidad, Medio Ambiente y Recursos Naturales.
+
+b) Siete vocales que serán:
+
+1) La Persona titular de la Secretaría de Administración y Finanzas;
+
+2) La Persona titular de la Dirección de Medio Ambiente de la Secretaría de Planeación Urbana, Infraestructura, Movilidad, Medio Ambiente y Recursos Naturales;
+
+3) Una persona representante de la academia en el Estado de Baja California Sur, con experiencia en el sector ambiental;
+
+4) Un representante de la sociedad civil que acredite experiencia en el sector ambiental en Baja California Sur; y
+
+5) Un representante de las cámaras empresariales con experiencia comprobada en tema de responsabilidad ambiental
+
+> <small>(REFORMADO, B.O. 5 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 88.
 
 Operación
 
-La Secretaria será la instancia encargada de operar y administrar el fondo Estatal Ambiental y Climático, sujetándose a las disposiciones legales y administrativas que lo regulen.
+La Secretaria será la instancia encargada de operar y administrar el Fondo Estatal Ambiental, sujetándose a las disposiciones legales y administrativas que lo regulen.
 
-El Fondo Estatal Ambiental y Climático se sujetará a los mecanismos de control, auditoria, transparencia, evaluación y rendición de cuentas previstos por la legislación aplicable del Estado.
+El Fondo Estatal Ambiental se sujetará a los mecanismos de control, auditoria, transparencia, evaluación y rendición de cuentas previstos por la legislación aplicable del Estado.
 
 ## Título Sexto. Transparencia, Acceso a la Información y Participación Social
 
@@ -1428,3 +1500,45 @@ VÍCTOR MANUEL CASTRO COSÍO
 SECRETARIO GENERAL DE GOBIERNO
 
 JOSE SAÚL GONZÁLEZ NUÑEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 5 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3251 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE CAMBIO CLIMÁTICO DEL ESTADO DE BAJA CALIFORNIA SUR; Y SE EXPIDE LA LEY DE PREVENCIÓN Y GESTIÓN INTEGRAL DE RESIDUOS Y ECONOMÍA CIRCULAR DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. La Secretaría y los Ayuntamientos, dentro del término de 180 días naturales a partir de la entrada en vigor del presente decreto, deberán emitir las disposiciones reglamentarias correspondientes, y, en el ejercicio fiscal subsecuente, deberán considerar las reformas presupuestarias necesarias para cumplir con lo estipulado en la presente ley.
+
+La normatividad reglamentaria que al efecto expida el titular del Ejecutivo del Estado para el cumplimiento del presente decreto establecerá como mínimo los requisitos, especificaciones, condiciones, parámetros o límites permisibles para el desarrollo de actividades relacionadas con:
+
+I. La prevención y minimización de la generación de los residuos sólidos urbanos y de manejo especial con enfoque de economía circular;
+
+II. La separación y recolección de residuos sólidos urbanos y de manejo especial desde su fuente de generación;
+
+III. El establecimiento y operación de centros de acopio de residuos sólidos urbanos y de manejo especial destinados a reciclaje;
+
+IV. El establecimiento y operación de plantas de reciclado y tratamiento de residuos sólidos urbanos y de manejo especial;
+
+V. El establecimiento y operación de las plantas dedicadas a la elaboración de composta a partir de residuos orgánicos;
+
+VI. La prestación del servicio de limpia en sus etapas de barrido de las áreas comunes, vialidades y demás vías públicas, recolección y transporte a las estaciones de transferencia;
+
+VII. El manejo de residuos sólidos en sus etapas de transferencia y selección;
+
+VIII. El diseño, construcción y operación de estaciones de transferencia, plantas de selección y sitios de disposición final de residuos sólidos urbanos y de manejo especial;
+
+IX. El cierre de los tiraderos controlados y no controlados de residuos sólidos urbanos y de manejo especial, así como la remediación de los sitios en los que se encuentran ubicados, cuando sea el caso; y
+
+X. La reutilización, reciclaje, tratamiento y disposición final de envases y empaques, llantas usadas, papel y cartón, vidrio, residuos metálicos, plásticos y otros materiales.
+
+TERCERO. La Secretaría, en un plazo no mayor de 180 días naturales a la entrada en vigor del presente decreto, deberá actualizar y publicar el Programa Estatal para la Prevención y Gestión Integral de Residuos, para efectos de armonizar a las disposiciones contenidas en la presente Ley.
+
+CUARTO. La Secretaría, deberá elaborar y emitir las disposiciones correspondientes al Programa Estatal para la Prevención y Gestión Integral de Residuos de Manejo Especial, así como las reformas presupuestarias necesarias para cumplir con lo estipulado en la presente Ley, considerando lo anterior en el ejercicio presupuestario posterior a la entrada en vigor del presente decreto.
+
+QUINTO. Los ayuntamientos, en un plazo no mayor de 180 días naturales siguientes a la entrada en vigor del presente decreto, deberán adecuar sus reglamentos en materia ambiental para efectos de armonizarlos a las disposiciones contenidas en la presente Ley.
+
+SEXTO. El Gobierno del Estado de Baja California Sur en un plazo no mayor a 360 días a la entrada en vigor del presente decreto, deberá dictar los lineamientos y la norma técnica estatal sobre las características apropiadas de los residuos para la producción de composta o criterios para cada tipo de composta.
+
+SÉPTIMO. El Gobierno del Estado de Baja California Sur en un plazo no mayor a 180 días a la entrada en vigor del presente decreto, deberá constituir el Fondo Estatal Ambiental establecido en el artículo 87 de la Ley de Cambio Climático del Estado de Baja California Sur.
