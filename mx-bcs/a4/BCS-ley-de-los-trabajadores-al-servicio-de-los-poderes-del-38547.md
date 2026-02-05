@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-trabajadores-al-servicio-de-los-poderes-del-38547"
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-23"
-last_updated: "2026-01-31"
+last_updated: "2026-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 5 DE FEBRERO DE 2026.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 23 de febrero de 2004.
 
@@ -81,6 +81,18 @@ Los trabajadores de confianza no podrán formar parte de los sindicatos de los d
 
 Tratándose de los trabajadores de confianza, las entidades públicas de que se trate, podrán rescindir la relación laboral si existiera un motivo comprobable de pérdida de la confianza, por lo tanto no gozarán de la inamovilidad de los trabajadores de base, por lo que en cualquier tiempo y por acuerdo del titular de la dependencia dejarán de surtir sus efectos los nombramientos que se les hayan otorgado.
 
+> <small>(ADICIONADO, B.O. 5 DE FEBRERO DE 2026)</small>
+
+Cuando proceda, el trabajador de confianza será indemnizado con salarios vencidos que se calcularán desde la fecha del despido hasta por un máximo de dieciocho meses, entratándose de juicios laborales.
+
+> <small>(ADICIONADO, B.O. 5 DE FEBRERO DE 2026)</small>
+
+Si al término del plazo señalado en el párrafo anterior no ha concluido el procedimiento o no se ha cumplimentado el laudo, se pagará también al trabajador los intereses que se generen sobre el importe de dieciocho meses de salario, a razón del dos por ciento mensual, capitalizable al momento del pago. Lo dispuesto en este párrafo no será aplicable para el pago de otro tipo de indemnizaciones o prestaciones.
+
+> <small>(ADICIONADO, B.O. 5 DE FEBRERO DE 2026)</small>
+
+En caso de muerte del trabajador, dejarán de computarse los salarios caídos como parte del conflicto, a partir de la fecha del fallecimiento.
+
 > <small>(ADICIONADO, B.O. 1 DE DICIEMBRE DE 2007)</small>
 
 ARTICULO 5º BIS.- Para los efectos del artículo anterior, las áreas encargadas de los recursos humanos de los Poderes del Estado y Municipios, deberán elaborar los catálogos de puestos correspondientes, atendiendo a lo siguiente:
@@ -102,6 +114,20 @@ VI.- Protección civil, aquellas que tengan por objeto prevenir y atender a la p
 \/II.- Representación, aquellas que se refieran a la facultad legal de actuar a nombre de los titulares de las instituciones públicas o de sus dependencias.
 
 VIII.- Manejo de recursos, aquellas que impliquen la facultad legal o administrativa de decidir o determinar la aplicación o destino de recursos humanos, materiales o financieros.
+
+> <small>(ADICIONADO, B.O. 5 DE FEBRERO DE 2026)</small>
+
+ARTICULO 5º TER.- En los Poderes del Estado, Municipios y sus Organismos Descentralizados, Empresas de Participación, Sociedades y Asociaciones asimiladas, las personas titulares de las Secretarias, Subsecretarias, Oficialías Mayores, Direcciones, Subdirecciones, Coordinaciones, Contraloría General, Contraloría Municipal, Autoridades Investigadoras y Substanciadoras, Órganos de Control Interno, o los equivalentes de todos los anteriores, su relación laboral, se regirán por las siguientes bases:
+
+I.- Que su nombramiento o designación siempre será temporal, por tiempo determinado, y nunca tendrán derecho a la estabilidad laboral, por lo que sólo disfrutarán de las medidas de protección al salario y de los beneficios a la seguridad social;
+
+II.- Que su nombramiento no podrá exceder del periodo constitucional o la duración de la administración pública correspondiente;
+
+Esta disposición aplicara aun y cuando el nombramiento se haya realizado trascurriendo el periodo constitucional del titular de la dependencia de que se trate.
+
+Por regla general, el nombramiento llevara inicio y terrino (sic) de vigencia del mismo. En el caso de que el nombramiento no especifique temporalidad, siempre se entenderá que este fue expedido por el periodo constitucional de que se trate; y
+
+III.- Que al término de su encargo no tendrán derecho a indemnización alguna.
 
 ###### ARTICULO 6º.
 
@@ -457,6 +483,10 @@ f).- Establecimiento de cursos de Administración Pública en las que se imparta
 
 g).- Propiciar cualquier medio que permita a los trabajadores la compra de habitaciones baratas, ampliación o reconstrucción de las que ya tengan. Para los efectos citados, los Poderes del Estado y Municipios, aportarán como sobresueldo el cinco por ciento del sueldo de cada trabajador para la creación de un fondo especial. Dicho fondo será reintegrado en diez años al trabajador si no hiciera uso de él y en igual forma éste se entregará al trabajador en caso de jubilación o separación del trabajo. En caso de fallecer se entregará al familiar que legalmente compruebe sus derechos.
 
+> <small>(ADICIONADO, B.O. 5 DE FEBRERO DE 2026)</small>
+
+La omisión de enterar las cuotas, aportaciones, cuotas sociales o descuentos ante el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, en los términos que señalan los artículos 21 y 22 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, constituye una falta administrativa grave, la cual será sancionada en términos de la Ley de Responsabilidades Administrativas.
+
 VII.- Proporcionar a los trabajadores que no estén incorporados al régimen de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores al Servicio del Estado, las prestaciones sociales a que se tengan derecho de acuerdo con la Ley y los reglamentos en vigor.
 
 VIII.- Conceder licencias con goce de sueldo a sus trabajadores para el desempeño de las comisiones sindicales que se les confieren, o cuando sean promovidos temporalmente al ejercicio de otras comisiones en dependencia diferente a la de su plaza. Las licencias para ocupar puestos de elección popular serán sin goce de sueldo. Las licencias que se concedan en los términos del párrafo anterior, se computarán como tiempo efectivo de servicios dentro del escalafón.
@@ -506,6 +536,10 @@ XIII.- Implementar, en acuerdo con los trabajadores, un protocolo para prevenir 
 > <small>(ADICIONADA, B.O. 17 DE ENERO DE 2024)</small>
 
 XIV.- Promover e implementar acciones y programas internos que fomenten la salud mental y un entorno organizacional favorable, y que prevengan y mitiguen los factores de riesgo psicosocial que puedan provocar padecimientos de estrés, ansiedad, depresión y demás patologías dentro del entorno laboral. Las dependencias podrán realizar convenios con las Instituciones de Salud Pública para alcanzar estos objetivos.
+
+> <small>(ADICIONADA, B.O. 5 DE FEBRERO DE 2026)</small>
+
+XV.- Los titulares a los que se refiere esta ley, otorgaran mandato a sus abogados que acudan a juicio para que en su nombre puedan obligarse en todas la (sic) fases del proceso para conciliar y poner fin al litigio.
 
 ###### ARTICULO 45.
 
@@ -1153,9 +1187,11 @@ El representante de los trabajadores al servicio del Estado y Municipios, deber�
 
 El Presidente del Tribunal durará en su encargo cinco años, pudiendo ser reelecto, y los demás representantes podrán ser removidos libremente por quienes los designaron; los emolumentos de los Árbitros serán fijados, al igual que el de los empleados, en los presupuestos respectivos.
 
+> <small>(REFORMADO, B.O. 5 DE FEBRERO DE 2026)</small>
+
 ###### ARTICULO 127.
 
-El Tribunal contará con un Secretario General y dos empleados que señale el presupuesto de egresos. El personal del Tribunal de Conciliación y Arbitraje, excepción hecha del Secretario General de Acuerdos, estarán sujetos a la presente Ley, pero los conflictos que se susciten con motivo de la aplicación de la misma, serán resueltos por las autoridades locales del trabajo.
+El Tribunal contará con un Secretario General, y con los secretarios de acuerdos y secretarios de audiencias, proyectistas, actuarios y demás personal de apoyo necesario para cumplir con las atribuciones que le impone la presente ley. El personal del Tribunal de Conciliación y Arbitraje, excepción hecha del Secretario General de Acuerdos, estarán sujetos a la presente Ley, pero los conflictos que se susciten con motivo de la aplicación de la misma, serán resueltos por las autoridades locales del trabajo.
 
 ###### ARTICULO 128.
 
@@ -1167,7 +1203,9 @@ Los gastos que origine el funcionamiento del Tribunal serán cubiertos por los p
 
 El Tribunal de Conciliación y Arbitraje será competente para:
 
-I.- Conocer de los conflictos individuales que se susciten entre los Poderes del Estado, Municipios y sus trabajadores;
+> <small>(REFORMADA, B.O. 5 DE FEBRERO DE 2026)</small>
+
+I.- Conocer y resolver, en el plazo máximo de dieciocho meses, de los conflictos individuales que se susciten entre los Poderes del Estado, Municipios y sus trabajadores;
 
 II.- Conocer de los conflictos sindicales e intersindicales;
 
@@ -1217,6 +1255,10 @@ V.- La indicación del lugar en que puedan obtenerse las pruebas que el reclaman
 
 VI.- A la demanda se acompañarán las pruebas de que disponga y los documentos que acrediten la personalidad de su representante, si no concurre personalmente.
 
+> <small>(ADICIONADO, B.O. 5 DE FEBRERO DE 2026)</small>
+
+En el acuerdo de admisión de la demanda se señalará día y hora para que tenga verificativo la audiencia de conciliación, demanda y excepciones, ofrecimiento y admisión de pruebas; ordenándose se notifique el acuerdo personalmente a las partes y se entregue copia certificada de la demanda a la parte demandada para que produzca contestación en un término de quince días contados a partir del día siguiente de su notificación, con el apercibimiento que de no contestar, se le tendrá por contestada la demanda en sentido afirmativo, sin perjuicio de que posteriormente se haga efectivo por no asistir a la primera audiencia de conciliación.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 1 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 135.
@@ -1231,7 +1273,9 @@ Cuando el domicilio del demandado se encuentre fuera del lugar en que radica el 
 
 El Tribunal tan luego como reciba la contestación de la demanda, reconvención en su caso, y una vez transcurrido el plazo para contestarlas se ordenará la práctica de las audiencias a que se refieren el artículo 132 de esta Ley, mismas que constarán de tres etapas:
 
-a).- De conciliación,
+> <small>(REFORMADO, B.O. 5 DE FEBRERO DE 2026)</small>
+
+a).- De conciliación, en la que el Tribunal procurará avenir a las partes para llegar a un acuerdo,
 
 b).- De Demanda y excepciones, y
 
@@ -1249,6 +1293,14 @@ Si el demandado no concurre, la demanda se tendrá por contestada en sentido afi
 
 El Gobernador del Estado, los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia, los Magistrados del Tribunal Estatal Electoral, los Jueces del Fuero Común, los Secretarios y Subsecretarios de Despacho, el Procurador y Subprocuradores de la Procuraduría General de Justicia, el titular de la Unidad de Desarrollo y Control Gubernamental, los Coordinadores de las Unidades Administrativas, los Directores del Poder Ejecutivo, los Presidentes de Juntas y Tribunal de conciliación y Arbitraje del Gobierno del Estado, así como los Presidentes, Síndicos, Regidores y Delegados Municipales, que sean parte, absolverán posiciones por medio de oficio en que se insertarán las preguntas que quiera hacerles la contraparte, para que por vía de informe sean contestadas dentro del término que señale el Tribunal. En el oficio se apercibirá la parte absolvente de tenerla por confesa si no contestare dentro del término que se haya señalado, o si no lo hiciere categóricamente afirmando o negando los hechos.
 
+> <small>(ADICIONADO, B.O. 5 DE FEBRERO DE 2026)</small>
+
+La asistencia de las partes será obligatoria para la primera audiencia de conciliación, sin perjuicio de que en cualquier etapa del juicio puedan solicitar la intervención del Tribunal para dar por terminada la controversia por mutuo acuerdo.
+
+> <small>(ADICIONADO, B.O. 5 DE FEBRERO DE 2026)</small>
+
+Si fueren varios los actores o demandados y litigan de manera separada, el apercibimiento señalado en el párrafo anterior se hará efectivo exclusivamente para quien no asista a la audiencia de manera injustificada. En caso de que las partes tengan un representante común bastará la asistencia de este último para que se les tenga presente y se les permita deducir los derechos previstos en la etapa correspondiente si así se solicita.
+
 ###### ARTICULO 137.
 
 La etapa conciliatoria se desarrollará en la siguiente forma:
@@ -1261,7 +1313,9 @@ III.- Si las partes llegaran a un acuerdo, se dará por terminado el conflicto. 
 
 IV.- Las partes de común acuerdo, podrán solicitar se suspenda la audiencia con objeto de conciliarse; y el Tribunal por una sola vez, la suspenderá y fijará su reanudación dentro de los ocho días siguientes, quedando notificadas las partes de la nueva fecha con los apercibimientos de Ley.
 
-V.- Si las partes no llegaren a un acuerdo, se les tendrá por inconformes con todo arreglo pasando a etapa de demanda y excepciones; y
+> <small>(REFORMADA, B.O. 5 DE FEBRERO DE 2026)</small>
+
+V.- Si las partes no llegaren a un acuerdo, se deberá levantar acta asentando razón correspondiente de los motivos o causas que tengan para ello las partes, y de las condiciones que cada una proponga para dar por terminado el conflicto, teniéndoseles por inconformes con todo arreglo pasando a etapa de demanda y excepciones; y
 
 VI.- De no haber concurrido las partes a la conciliación, se les tendrá por inconformes con todo arreglo y deberán presentarse personalmente a la etapa de demanda y excepciones.
 
@@ -1292,6 +1346,18 @@ III.- Concluido el ofrecimiento, el Tribunal resolverá en un término de setent
 IV.- Concluida la etapa de ofrecimiento y admisión de pruebas, solamente se admitirán las que se refieren a hechos supervenientes o de tachas.
 
 V.- Si las partes están conformes con los hechos y la controversia queda reducida a un punto de derecho, al concluir la audiencia de conciliación, demanda y excepciones, ofrecimiento y admisión de pruebas, se otorgarán a las partes un término de setenta y dos horas para alegar y se dictará el laudo correspondiente.
+
+> <small>(ADICIONADO, B.O. 5 DE FEBRERO DE 2026)</small>
+
+La inasistencia a la audiencia de conciliación se sancionará con multa de hasta 100 veces al valor de la Unidad de Medida y Actualización vigente al momento de la infracción.
+
+> <small>(ADICIONADO, B.O. 5 DE FEBRERO DE 2026)</small>
+
+El Tribunal llevará una estadística de los asuntos en los que hubiere sido posible la avenencia de las partes, la cual deberá estar publicada y actualizada de manera electrónica en el sitio web del Tribunal.
+
+> <small>(ADICIONADO, B.O. 5 DE FEBRERO DE 2026)</small>
+
+Los abogados que representan a la parte demandada deberán acreditar al tribunal mediante oficio o poder notarial que poseen las facultades suficientes para conciliar y obligarse en su nombre en cualquier etapa del juicio.
 
 ###### ARTICULO 138.
 
@@ -1360,6 +1426,14 @@ Todos los términos correrán a partir del día hábil siguiente a aquél en que
 ###### ARTICULO 149.
 
 El Tribunal sancionará las faltas de respeto que se le cometan, ya sea por escrito o en cualquiera otra forma. Las sanciones consistirán en amonestación o multa. Ésta no excederá de una vez el valor diario de la Unidad de Medida y Actualización, tratándose de trabajadores ni de diez veces el valor diario de la Unidad de Medida y Actualización tratándose de funcionarios.
+
+> <small>(ADICIONADO, B.O. 5 DE FEBRERO DE 2026)</small>
+
+También sancionará a los abogados, litigantes o representantes que promuevan acciones, excepciones, incidentes, diligencias, ofrecimiento de pruebas, recursos y, en general toda actuación notoriamente improcedente, con la finalidad de prolongar, dilatar u obstaculizar la sustanciación o resolución de un juicio laboral; se les impondrá una multa de 100 a 1000 veces el valor diario de la Unidad de Medida y Actualización vigente.
+
+> <small>(ADICIONADO, B.O. 5 DE FEBRERO DE 2026)</small>
+
+Si la dilación es producto de omisiones o conductas irregulares de los servidores públicos, la sanción aplicable será la suspensión hasta por noventa días sin pago de salario y en caso de reincidencia la destitución del cargo, en los términos de las disposiciones aplicables. Además, en este último supuesto se dará vista al Ministerio Público para que investigue la posible comisión de delitos contra la procuración y administración de justicia y los que resulten.
 
 ###### ARTICULO 150.
 
@@ -1832,3 +1906,29 @@ Los Poderes del Estado y los Ayuntamientos deberán implementar de manera paulat
 ###### ARTICULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 5 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 2934 SE ADICIONA UN ARTÍCULO 63 BIS A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR Y UN ÚLTIMO PÁRRAFO A LA FRACCIÓN VI DEL ARTÍCULO 44 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El Presente Decreto entrara en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se Derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+B.O. 5 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3259 SE REFORMA EL ARTÍCULO 127, LA FRACCIÓN I DEL ARTÍCULO 129,INCISO A) DEL ARTÍCULO 136, FRACCIÓN V DEL ARTÍCULO 137; Y SE ADICIONA UN PÁRRAFO SEXTO, SÉPTIMO Y OCTAVO AL ARTÍCULO 5°, UN ARTÍCULO 5° TER, UNA FRACCIÓN XV AL ARTÍCULO 44, UN PÁRRAFO SEGUNDO AL ARTÍCULO 134, UN PÁRRAFO SEXTO Y SÉPTIMO AL ARTÍCULO 136, UN PÁRRAFO SEGUNDO, TERCERO Y CUARTO AL ARTÍCULO 137, UN PÁRRAFO SEGUNDO Y TERCERO AL ARTÍCULO 149, TODOS DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Los procedimientos laborales que a la entrada en vigor del presente decreto se encuentren en trámite y que tengan relación con el mismo, continuarán su sustanciación y ejecución en su caso, de conformidad con la legislación aplicable en el momento del inicio de los mismos.
+
+TERCERO.- Con cargo al Presupuesto de Egresos para el Ejercicio Fiscal 2026 del Estado de Baja California Sur, la Secretaria de Finanzas y Administración del Gobierno del Estado de Baja California Sur dotara la suficiencia presupuestal al Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio de los Poderes del Estado y sus Municipios del Estado de Baja California Sur para la contracción de un secretario de audiencias, un actuario y un proyectista.
+
+CUARTO.- El Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio de los Poderes del Estado y sus Municipios del Estado de Baja California Sur, el Centro Estatal de Justicia Alterativa del Estado de Baja California Sur y el Centro de Conciliación Laboral del Estado de Baja California Sur, establecerán convenios de colaboración institucional con la finalidad de intercambiar experiencias y conocimientos en forma permanente en materia de mediación y conciliación, en un plazo no mayor a noventa días siguientes a la entrada en vigor del presente decreto.
+
+QUINTO.- El Tribunal de Conciliación y Arbitraje para los Trabajadores al Servicio de los Poderes del Estado y sus Municipios del Estado de Baja California Sur, deberá remitir un informe semestral al H. Congreso del Estado de Baja California Sur sobre los asuntos litigiosos que se desahogan. El informe será enviado en el mes de julio y diciembre de cada año a la Comisión de Asuntos Laborales y de Previsión Social, quien deberá informarlo al pleno.
+
+SEXTO.- Lo dispuesto en los artículos 5° y 5° Ter del presente Decreto, no será aplicable en perjuicio de las y los trabajadores pertenecientes a las organizaciones sindicales que de conformidad con sus nombramientos o las condiciones generales de trabajo tienen reconocida la estabilidad e inamovilidad en su plaza, cargo o puesto con el carácter de nombramiento definitivo, por lo que sus derechos previamente adquiridos deberán ser respetados en su totalidad, no pudiendo llevar la aplicación del mismo en su perjuicio. La aplicación de dicha disposiciones (sic) por parte de los titulares dará lugar a la nulidad absoluta.
+
+SEPTIMO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
