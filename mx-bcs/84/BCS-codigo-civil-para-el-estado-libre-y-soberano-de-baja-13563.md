@@ -4,7 +4,7 @@ identifier: "BCS-codigo-civil-para-el-estado-libre-y-soberano-de-baja-13563"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-07-19"
-last_updated: "2025-09-10"
+last_updated: "2026-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 5 DE FEBRERO DE 2026.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 19 de julio de 1996.
 
@@ -8567,6 +8567,10 @@ Si el reconocimiento se hace después de que el descendiente haya adquirido bien
 
 El cónyuge que sobrevive, concurriendo con descendientes, tendrá el derecho de un hijo, si carece de bienes o los que tiene al morir el autor de la sucesión no igualan a la porción que a cada hijo debe corresponder. Lo mismo se observará si concurre con hijos adoptivos del autor de la herencia.
 
+> <small>(ADICIONADO, B.O. 5 DE FEBRERO DE 2026)</small>
+
+Cuando exista un solo bien inmueble producto de la herencia, el cónyuge que sobreviva y sea persona mayor de sesenta años, tendrá derecho al usufructo vitalicio, siendo éste un derecho real que será intransferible.
+
 ###### Artículo 1530.
 
 En el primer caso del artículo anterior, el cónyuge recibirá íntegra la porción señalada; en el segundo, sólo tendrá derecho de recibir lo que baste para igualar sus bienes con la porción mencionada.
@@ -8574,6 +8578,10 @@ En el primer caso del artículo anterior, el cónyuge recibirá íntegra la porc
 ###### Artículo 1531.
 
 Si el cónyuge que sobrevive concurre con ascendientes, la herencia se dividirá en dos partes iguales, de las cuales una se aplicará al cónyuge y la otra a los ascendientes.
+
+> <small>(ADICIONADO, B.O. 5 DE FEBRERO DE 2026)</small>
+
+En caso de existir un solo bien inmueble, producto de la herencia, el cónyuge que sobreviva y sea persona mayor de sesenta años, tendrá el derecho al usufructo vitalicio, siendo éste un derecho real que será intransferible.
 
 ###### Artículo 1532.
 
@@ -12046,6 +12054,10 @@ La aceptación de las donaciones se hará en la misma forma en que éstas deban 
 ###### Artículo 2252.
 
 Es nula la donación que comprenda la totalidad de los bienes del donante, si éste no se reserva en propiedad o en usufructo lo necesario para vivir según sus circunstancias.
+
+> <small>(ADICIONADO, B.O. 5 DE FEBRERO DE 2026)</small>
+
+Cuando el o los donantes sean personas de 60 años o más, el notario que expida el instrumento público de donación, deberá incluir la cláusula de usufructo vitalicio sobre bienes otorgados a los donatarios.
 
 ###### Artículo 2253.
 
@@ -16444,3 +16456,9 @@ B.O. 10 DE SEPTIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 3176 SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 305 A Y SE ADICIONAN LOS ARTÍCULOS 305 C Y 340 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 5 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 3037 SE ADICIONAN LOS ARTÍCULOS 1529, 1531 Y 2252 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
