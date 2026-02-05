@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-movilidad-y-transporte-del-estado-de-chiapas-144707"
 country: "mx"
 rank: "ley"
 publication_date: "2020-10-28"
-last_updated: "2025-06-18"
+last_updated: "2026-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144707&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 28 de octubre de 2020.
 
@@ -87,7 +87,9 @@ III. Banqueta: Al área pavimentada a cada lado de una calle, generalmente más 
 
 IV. Central de transferencia modal: A las instalaciones autorizadas por la Secretaría para concentrar unidades del servicio público de transporte que permitan a los usuarios la conectividad de diversas rutas o modos de transporte.
 
-V. Certificado de Aptitud: Al documento expedido por la Secretaría mediante el cual se autoriza a los conductores operar vehículos del servicio público de transporte.
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2026)</small>
+
+V. Certificado de Aptitud: Al documento expedido por la Secretaría, mediante el cual se autoriza a los conductores operar vehículos del servicio de transporte del Estado de Chiapas en sus distintas modalidades.
 
 VI. Certificado Vehicular: Al documento expedido por la Secretaría mediante el cual se autoriza a un operador con certificado de aptitud para prestar el servicio público de transporte de pasajeros contratado a través de plataformas tecnológicas con una unidad vehicular concesionada o con permiso.
 
@@ -111,9 +113,9 @@ XII. Bis. Constancia de Registro: Documento expedido por la Secretaría, previo 
 
 Para los efectos del pago antes referido, se estará a lo establecido en Ley de Derechos del Estado de Chiapas.
 
-> <small>(ADICIONADA, P.O. 18 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2026)</small>
 
-XII. Ter. Constancia de Registro Vehicular: Documento expedido por la Secretaría, previo pago de derechos correspondientes, otorgado a las personas físicas que operan, administran y/o utilizan aplicaciones o plataformas informáticas para el control, programación y/o geolocalización en dispositivos fijos o móviles, para la prestación del Servicio de transporte de pasajeros privado especializado con chofer, en el que consta el registro de cada vehículo para la prestación del servicio, previo cumplimiento de los requisitos y características que emita la Secretaría.
+XII. Ter. Constancia de Registro Vehicular: Al engomado expedido por la Secretaría, previo pago de derechos correspondientes, otorgado a las personas físicas que operan, administran y/o utilizan aplicaciones o plataformas informáticas para el control, programación y/o geolocalización en dispositivos fijos o móviles, para la prestación del Servicio de transporte de pasajeros privado especializado con chofer, en el que consta el registro de cada vehículo para la prestación del servicio, previo cumplimiento de los requisitos y características que emita la Secretaría.
 
 XIII. Constancia de Autorización de Ruta: Al documento que expide la Secretaría para la explotación de un itinerario determinado, con vehículos especialmente diseñados para cada modalidad y operadores capacitados y legalmente facultados para ello.
 
@@ -334,6 +336,10 @@ XIX. Expedir concesiones o permisos en los casos de regularización por orden ju
 XX. Expedir concesiones o permisos por conducto de su titular de conformidad con las disposiciones establecidas en esta Ley y el Reglamento.
 
 XXI. Expedir constancias mediante las cuales autoriza a una persona moral para promover, administrar u operar plataformas tecnológicas que brinden el servicio público de transporte de pasajeros con unidades concesionadas de conformidad con la Ley, el Reglamento y demás disposiciones aplicables.
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2026)</small>
+
+XXI Bis. Expedir las constancias de conformidad con la Ley, el Reglamento y demás disposiciones aplicables, para el Servicio de transporte de pasajeros privado especializado con chofer.
 
 XXII. Expedir permisos temporales en los términos y condiciones que señala esta Ley y el Reglamento.
 
@@ -1359,9 +1365,7 @@ VI. Informar oportunamente a la autoridad competente sobre cualquier irregularid
 
 VII. Realizar los cobros por la prestación del servicio público de transporte contratado a través de plataformas tecnológicas o efectivo.
 
-VIII. Aportar mensualmente el 1.5% del valor de cada viaje al Fondo de Movilidad que en su momento constituya el Titular de la Secretaría, cuyos recursos se destinarán a la mejora de la infraestructura de transporte y movilidad en el Estado. Consecuentemente, tendrán derecho a participar con un lugar en el Consejo de Administración del Fideicomiso correspondiente, para vigilar las decisiones de política pública en las que se invertirá el recurso recaudado de su aportación.
-
-La falta de aportación de dicha prestación, será causal de revocación de la autorización otorgada a la persona moral.
+VIII. (DEROGADA, P.O. 5 DE FEBRERO DE 2026)
 
 IX. Abstenerse de hacer sitio y ofrecer el servicio en la vía pública, a fin de no competir con los taxis. El incumplimiento a esta disposición será causal de revocación de la autorización otorgada a la persona moral.
 
@@ -1411,13 +1415,19 @@ Cualquier empresa que cuyo objeto social sea distinto al señalado en este artí
 
 Las personas morales que presten el Servicio de transporte de pasajeros privado especializado con chofer a través de plataformas tecnológicas tendrán las siguientes obligaciones:
 
-I. Realizar el pago de derechos para la expedición de las constancias que establece la presente Ley y su Reglamento.
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2026)</small>
+
+I. Realizar el pago de derechos para la expedición de la Constancia de Registro que establece la presente Ley y su Reglamento.
 
 II. Contar con la constancia vigente anual.
 
-III. Obtener la Constancia de Registro y la Constancia de Registro Vehicular vigentes expedidos por la Secretaría, los cuales deberán portar en forma visible. Para obtener o renovar la Constancia de Registro y la Constancia de Registro Vehicular correspondiente, las personas morales deberán realizar el procedimiento de conformidad con los términos que especifique esta Ley, su Reglamento y en las disposiciones y/o lineamientos que para el efecto emita la Secretaría.
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2026)</small>
 
-IV. Registrarse en un padrón permanente y actualizado de los operadores y vehículos que prestan este servicio, el cual estará a disposición de la Secretaría.
+III. Obtener la Constancia de Registro y constatar que sus socios y/o conductores y/o operadores y/o trabajadores que prestan el servicio de referencia obtengan y porten en forma visible la Constancia de Registro Vehicular vigente expedida por la Secretaría. Para obtener o renovar la Constancia de Registro, las personas morales deberán realizar el procedimiento de conformidad con los términos que especifique esta Ley, su Reglamento y en las disposiciones y/o lineamientos que para el efecto emita la Secretaría.
+
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2026)</small>
+
+IV. Generar y actualizar permanentemente un padrón de los operadores y vehículos que prestan el Servicio de Transporte en todas sus modalidades, el cual estará a disposición de la Secretaría.
 
 V. Capacitar a sus socios operadores y/o conductores en materia de Derechos Humanos y Perspectiva de género.
 
@@ -1447,7 +1457,25 @@ III. Podrá prestar dicho servicio en más de una aplicación o plataforma infor
 
 IV. En ningún caso, la persona moral titular de la Constancia de Registro podrá establecer condiciones de exclusividad para las personas conductoras o vehículos dados de alta en sus plataformas informáticas para el control, programación y/o geolocalización en dispositivos fijos o móviles.
 
-V. Los vehículos registrados para prestar el Servicio de transporte de pasajeros privado especializado con chofer en el Estado de Chiapas, deberán realizar una validación vehicular anual, constante en una revisión documental y un proceso de inspección físico-mecánica conforme lo determine la Secretaría, el resultado de la consulta al Registro Público Vehicular (REPUVE) de la placa vehicular, así como el resultado de la consulta del número de identificación vehicular (NIV); y Póliza de seguro vigente, que especifique el uso para prestar el Servicio de transporte de pasajeros privado especializado con chofer, que indemnice los daños y perjuicios que pudiese ocasionar a los usuarios, peatones, conductores o terceros en su persona o patrimonio, con una cobertura mínima de 2500 veces la Unidad de Medida y Actualización vigente.
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2026)</small>
+
+V. Realizar una validación vehicular anual; la cuál constará de:
+
+a. Revisión documental e inspección físico-mecánica conforme lo determine la Secretaría.
+
+b. Contar con datos actualizados del Registro Público Vehicular (REPUVE) de la placa vehicular.
+
+c. La consulta del número de identificación vehicular (NIV), actualizada.
+
+d. Póliza de seguro vigente, que especifique el uso para prestar el Servicio de transporte de pasajeros privado especializado con chofer, que indemnice los daños y perjuicios que pudiese ocasionar a los usuarios, peatones, conductores o terceros en su persona o patrimonio, con una cobertura mínima de 2500 veces la Unidad de Medida y Actualización vigente.
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2026)</small>
+
+VI. Contar con el certificado de Aptitud.
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2026)</small>
+
+VII. Contar con la Constancia de Registro Vehicular.
 
 ### Capítulo III. De los Sistemas Integrados de Transporte
 
@@ -1826,3 +1854,13 @@ Artículo Tercero. La Secretaría de Finanzas deberá en un término de 60 días
 Artículo Cuarto. Las plataformas digitales, personas morales y socios que presten los servicios contenidos en el presente decreto contarán con un plazo de 30 días naturales para ajustarse a las disposiciones contenidas en esta normatividad.
 
 Artículo Quinto. La Secretaría de Movilidad y Transporte deberá realizar las adecuaciones necesarias a su Reglamento en un término de 120 días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 5 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 201 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD Y TRANSPORTE DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero. Las Dependencias normativas del Poder Ejecutivo de (sic) Estado, en el ámbito de sus respectivas competencias, llevaran a cabo de inmediato las acciones que resulten necesarias para el cumplimiento del presente Decreto.
