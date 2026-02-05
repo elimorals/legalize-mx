@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-salud-para-el-estado-de-baja-california-sur-43850"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2026-01-31"
+last_updated: "2026-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43850&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE SALUD PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 5 DE FEBRERO DE 2026.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el día 31 de diciembre de 2004.
 
@@ -857,9 +857,9 @@ I.- Procedimientos que permitan la participación activa de la familia en la pre
 
 II.- Acciones de prevención para disminuir la exposición al tabaco, alcohol, automedicación y uso de psicotrópicos que ponga en peligro la vida del binomio;
 
-> <small>(REFORMADA, B.O. 14 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, B.O. 5 DE FEBRERO DE 2026)</small>
 
-III.- Acciones de orientación y vigilancia institucional, capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta avanzado el segundo año de vida y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil, además de promover la instalación de lactarios en los centros de trabajo de los sectores público y privado;
+III.- Acciones de orientación y vigilancia institucional, capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementada hasta avanzado el segundo año de vida y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil, además de promover la instalación de lactarios en los centros de trabajo de los sectores público y privado; así mismo el Estado instalará al menos un banco de leche humana en la entidad, en establecimientos de salud que cuenten con servicios neonatales; cumpliendo con las leyes y lineamientos de la materia.
 
 IV.- Acciones para controlar las enfermedades prevenibles por vacunación, los procesos diarreicos y las infecciones respiratorias agudas de los menores de 5 años;
 
@@ -3588,3 +3588,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Los recursos materiales y financieros asignados, adscritos y adquiridos, por cualquier medio, por el ahora extinto Organismo Público Descentralizado Régimen Estatal de Protección Social en Salud de Baja California Sur, así como los trámites administrativos y legales que se encuentran en proceso a la fecha de emisión del presente Decreto, se transferirán íntegramente a la institución que requiera la dependencia encargada de conducir la política en materia de salud en el Estado, para que dé continuidad a los objetivos y programas institucionales en materia de protección del derecho a la salud.
+
+B.O. 5 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3154 SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD, ASÍ COMO LA LEY PARA LA ATENCIÓN DIGNA DE LA MUJER DURANTE EL EMBARAZO, PARTO Y PUERPERIO Y PARA EL APOYO DE LA LACTANCIA MATERNA, AMBAS DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el 01 de enero de 2026, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El Titular del Ejecutivo del Estado deberá prever en el Proyecto de Presupuesto de Egresos del Estado de Baja California Sur para el Ejercicio Fiscal del año 2026, los recursos presupuestarios necesarios a fin de dar cumplimiento con las disposiciones previstas en el presente Decreto.
