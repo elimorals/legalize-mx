@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-libre-y-soberano-de-baja-103894"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-11-30"
-last_updated: "2026-01-31"
+last_updated: "2026-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 5 DE FEBRERO DE 2026.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de noviembre de 2014.
 
@@ -1299,6 +1299,14 @@ II. (DEROGADA, B.O. 16 DE DICIEMBRE DE 2019)
 
 III. Que la conducta sea ejecutada dolosamente en razón de la preferencia sexual, el color o cualquier otra característica genética, procedencia étnica, lengua, religión, ideología, nacionalidad o lugar de origen, condición social o económica, ocupación o actividad, vinculación, pertenencia o relación con un grupo social definido, discapacidad, características físicas o estado de salud de la víctima.
 
+> <small>(ADICIONADO, B.O. 5 DE FEBRERO DE 2026)</small>
+
+###### Artículo 138 Bis.
+
+Lesiones causadas por ataque de un animal. De las lesiones que causa a una persona algún animal, será responsable el que con esa intención lo azuce o lo suelte o haga esto último por descuido o el que ostente la posición de garante del animal, a quien se le aplicaran, cuando las lesiones se cometan culposamente las penas previstas en el artículo 78 de este Código y cuando sean dolosas se aplicaran las penas previstas en el artículo 136, las cuales se incrementaran según corresponda, si concurren las circunstancias previstas en los artículos 137, 138 y 140 de este Capítulo.
+
+En el caso que las lesiones causen la muerte de la persona, cuando sean culposas estas se aumentaran en una mitad del mínimo y máximo de las penas previstas en el artículo 78 de este Código y en caso de ser dolosas, se aplicaran según corresponda las penas previstas en los artículos 128, 129, 131 , 132 y 134 del Capítulo de homicidio (sic) este Código.
+
 ###### Artículo 139.
 
 Lesiones en riña. A quien cause a otro lesiones en riña se le impondrá la mitad de las penas que correspondan por las lesiones inferidas, debiendo ponderar el juzgador, si se trata de provocador o de provocado al momento de individualizar la pena que corresponda.
@@ -1353,7 +1361,9 @@ IV. Existe alevosía: Cuando el agente realiza el hecho sorprendiendo intenciona
 
 V. Existe retribución: Cuando el agente comete el hecho por pago prometido o cumplido.
 
-VI. Por los medios empleados: Se causen por inundación, incendio, minas, bombas o explosivos, o bien por envenenamiento, asfixia, tortura o por medio del suministro de cualquier otra sustancia nociva para la salud.
+> <small>(REFORMADA, B.O. 5 DE FEBRERO DE 2026)</small>
+
+VI. Por los medios empleados: Se causen por inundación, incendio, minas, bombas o explosivos, o bien por envenenamiento, asfixia, tortura o por medio del suministro de cualquier otra sustancia nociva para la salud o se cause utilizando el sujeto activo como instrumento un animal.
 
 VII. Existe saña: Cuando el sujeto activo actúa con crueldad o bien aumente deliberadamente el dolor o sufrimiento de la víctima; o
 
@@ -1675,7 +1685,7 @@ Así mismo a quien en forma pública provoque o recomiende la realización de co
 
 ### CAPÍTULO II. ABUSO SEXUAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 16 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, B.O. 5 DE FEBRERO DE 2026)</small>
 
 ## TÍTULO QUINTO. DELITOS CONTRA LA LIBERTAD SEXUAL Y EL NORMAL DESARROLLO PSICOSEXUAL
 
@@ -1711,9 +1721,19 @@ Si se ejerciera violencia física o moral, la pena prevista se aumentará en una
 
 ###### Artículo 179.
 
-Abuso sexual. A quien sin consentimiento de una persona y sin el propósito de llegar a la cópula, ejecute en ella un acto sexual o la haga ejecutarlo, se le impondrán de tres a nueve años de prisión y multa de cien a trecientos (sic) días. Si se hiciere uso de violencia física o moral, la pena prevista se aumentará en una mitad.
+Abuso sexual. Comete el delito de abuso sexual quien sin consentimiento de la víctima y sin el propósito de llegar a la cópula, realice en el ámbito público o privado, cualquier acto de naturaleza sexual, la obligue a observarlo, o la haga ejecutarlo sobre si, para un tercero o para el propio sujeto activo. También se considera abuso sexual cuando se obligue a la víctima a exhibir su cuerpo.
 
-Este delito se perseguirá por querella, salvo que concurra violencia o que sea cometido por ascendiente contra su descendiente, éste contra aquél, el hermano contra su colateral, el tutor contra su pupilo, el padrastro o la madrastra contra su hijastro, éste contra cualquiera de ellos, amasio de la madre o del padre contra cualquiera de los hijos de éstos o los hijos contra aquellos.
+Se entiende por acto sexual los tocamientos, caricias, roces corporales, exhibiciones o representaciones sexuales explícitas.
+
+Para los efectos del presente artículo no se considera consentimiento cuando la voluntad de la persona haya sido anulada o viciada por violencia, intimidación, engaño, amenaza, abuso de confianza, autoridad o situación de vulnerabilidad. El consentimiento no podrá presumirse del silencio, la pasividad o la falta de resistencia física de la víctima.
+
+A quien cometa este delito se le impondrá una sanción de tres a nueve años de prisión y multa de doscientas a quinientos días.
+
+Asimismo, se impondrá la obligación de acudir a talleres educativos con perspectiva de género y no violencia contra las mujeres y/o prestar servicio social en favor del Estado o de instituciones de beneficencia pública a fin de favorecer medidas de no repetición y promover un cambio cultural a favor de la igualdad sustantiva entre mujeres y hombres. El cumplimiento de esta obligación es de especial relevancia para la procedencia y continuidad de la suspensión condicional.
+
+Además de las sanciones previstas en el presente artículo, se impondrá al sujeto activo el cumplimiento de la reparación integral del daño, que deberá incluir, entre otras medidas establecidas en la Ley General de Víctimas, la atención psicológica especializada para la víctima, hasta su total recuperación.
+
+Este delito se perseguirá de oficio.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE MAYO DE 2025)</small>
 
@@ -1733,17 +1753,47 @@ Agravantes. Las penas previstas para la violación y el abuso sexual se aumentar
 
 I. Con intervención directa o inmediata de dos o más personas;
 
-II. Por ascendiente contra su descendiente, éste contra aquél, el hermano contra su colateral, el tutor contra su pupilo, el padrastro o la madrastra contra su hijastro, éste contra cualquiera de ellos, amasio de la madre o del padre contra cualquiera de los hijos de éstos o los hijos contra aquellos. Además de la pena de prisión, a la persona responsable se le impondrá la pérdida de los derechos relativos a la patria potestad, tutela o curatela, en los casos en que la ejerciere sobre la víctima, así como los derechos sucesorios con respecto del sujeto pasivo;
+> <small>(REFORMADA, B.O. 5 DE FEBRERO DE 2026)</small>
+
+II. Cuando se realice por persona que tenga a la víctima bajo su responsabilidad la custodia, guarda, tutela, cuidados o dependencia económica. Además de la pena de prisión, a la persona responsable se le impondrá la pérdida de los derechos relativos a la patria potestad, tutela o custodia, así como los derechos sucesorios con respecto del sujeto pasivo;
 
 III. Por quien desempeñe un cargo o empleo público o ejerza su profesión, utilizando los medios o circunstancias que éstos le proporcionen. Además de la pena de prisión, la persona sentenciada será destituida del cargo o empleo o suspendida por el término de cinco años en el ejercicio de dicha profesión;
 
-IV. Por la persona que tenga a la víctima bajo su custodia, guarda, educación, adoctrinamiento religioso o aproveche la confianza en ella depositada;
+> <small>(REFORMADA, B.O. 5 DE FEBRERO DE 2026)</small>
+
+IV. Cuando exista o haya existido entre el agresor o la victima una relación de confianza, sentimental, de parentesco por consanguinidad o afinidad, laboral, educativa, docente, de formación deportiva, artística o religiosa;
 
 V. Cuando el responsable allane el domicilio de la víctima;
 
 VI. Si el delito es cometido en el interior de las instituciones públicas o privadas de educación inicial, especial, básica, media superior, o en sus inmediaciones o en cualquier centro de enseñanza extraescolar e instituciones afines; o
 
-VII. Fuere cometido en despoblado o lugar solitario.
+> <small>(REFORMADA, B.O. 5 DE FEBRERO DE 2026)</small>
+
+VII. En un lugar despoblado, solitario o poco accesible;
+
+> <small>(ADICIONADA, B.O. 5 DE FEBRERO DE 2026)</small>
+
+VIII. Con violencia física, psicológica o moral;
+
+> <small>(ADICIONADA, B.O. 5 DE FEBRERO DE 2026)</small>
+
+IX. Cuando se realice por ministro de culto aprovechando su cargo, función o comisión;
+
+> <small>(ADICIONADA, B.O. 5 DE FEBRERO DE 2026)</small>
+
+X. Cuando la víctima se encuentre bajo los efectos de alcohol, fármacos, narcóticos u otras sustancias que afecten su voluntad o discernimiento;
+
+> <small>(ADICIONADA, B.O. 5 DE FEBRERO DE 2026)</small>
+
+XI. Cuando la víctima se encuentre en estado de embarazo o puerperio;
+
+> <small>(ADICIONADA, B.O. 5 DE FEBRERO DE 2026)</small>
+
+XII. Cuando se cometa contra personas por su orientación sexual, identidad de género o expresión de género; y
+
+> <small>(ADICIONADA, B.O. 5 DE FEBRERO DE 2026)</small>
+
+XIII. Cuando la víctima se encuentre en estado de indefensión.
 
 En el supuesto establecido en la fracción VI, si el activo es un docente, administrativo, directivo u operativo, además de las penas establecidas, se le impondrá destitución e inhabilitación para desempeñar otro empleo, cargo o comisión en instituciones educativas por un plazo igual al de la pena de prisión impuesta.
 
@@ -2704,6 +2754,12 @@ Fraude equiparado. A quien valiéndose del cargo que ocupe en el gobierno del Es
 ###### Artículo 243.
 
 Requisito de procedibilidad. El delito de fraude se perseguirá a petición de parte ofendida, a excepción de los fraudes específicos previstos en las fracciones XI, XII y XVI del artículo 241 y del previsto en el artículo 242 de este Código.
+
+> <small>(ADICIONADO, B.O. 5 DE FEBRERO DE 2026)</small>
+
+###### Artículo 243 Bis.
+
+Fraude Familiar. A quien en perjuicio de la sociedad conyugal o patrimonio común generado durante el matrimonio o el concubinato, oculte, transfiera o adquiera a nombre de terceros bienes, sin autorización expresa de su cónyuge, concubina o concubino, se le aplicará sanción de uno a cinco años de prisión y multa de cincuenta a trescientos días, así como a la reparación del daño.
 
 ### CAPÍTULO VII. DESPOJO
 
@@ -4241,7 +4297,7 @@ II. Por medio de violencia en las personas o fuerza en las cosas perturben el or
 
 ### CAPÍTULO I. FEMINICIDIO
 
-> <small>(ADICIONADO, B.O. 10 DE ABRIL DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 5 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 384.
 
@@ -4313,9 +4369,13 @@ II. Cuando las lesiones sean provocadas como resultado de un procedimiento consi
 
 ###### Artículo 389.
 
-Feminicidio. Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género, y se le impondrá de treinta a sesenta años de prisión y la reparación integral del daño.
+Feminicidio. Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género, y se le impondrá de cuarenta a sesenta años de prisión y multa de quinientos a mil días, y la reparación integral del daño.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], B.O. 10 DE ABRIL DE 2019)</small>
 
 Se considera que existen razones de género cuando concurra alguna de las siguientes circunstancias:
+
+> <small>(ADICIONADA, B.O. 10 DE ABRIL DE 2019)</small>
 
 I. La víctima presente signos de violencia sexual de cualquier tipo;
 
@@ -4323,29 +4383,63 @@ I. La víctima presente signos de violencia sexual de cualquier tipo;
 
 II. A la víctima se le hayan infligido lesiones o mutilaciones infamantes, degradantes o ataques con ácido, sustancias químicas o corrosivas, previas o posteriores a la privación de la vida o actos de necrofilia;
 
+> <small>(ADICIONADA, B.O. 10 DE ABRIL DE 2019)</small>
+
 III. Existan antecedentes, datos o medios de prueba de cualquier tipo de violencia en el ámbito familiar, vecinal, laboral o escolar, del sujeto activo en contra de la víctima; independientemente de que exista denuncia o haya sido del conocimiento de alguna autoridad;
+
+> <small>(ADICIONADA, B.O. 10 DE ABRIL DE 2019)</small>
 
 IV. Exista o haya existido entre el activo y la víctima una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, sociedad de convivencia, o sentimental, cualquier otra relación de hecho o amistad, laboral, docente, o cualquier otra que implique confianza, subordinación o superioridad;
 
+> <small>(ADICIONADA, B.O. 10 DE ABRIL DE 2019)</small>
+
 V. Existan datos o medios de prueba que establezcan que hubo amenazas o violencia relacionadas con el hecho delictuoso, acoso o lesiones del sujeto activo en contra de la víctima;
+
+> <small>(ADICIONADA, B.O. 10 DE ABRIL DE 2019)</small>
 
 VI. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a la privación de la vida;
 
-VII. El cuerpo de la víctima sea expuesto, exhibido, depositado o arrojado en un lugar público o paraje despoblado; y
+> <small>(REFORMADA, B.O. 5 DE FEBRERO DE 2026)</small>
 
-VIII. El Cuerpo o restos de la víctima hayan sido enterrados u ocultados.
+VII. El cuerpo de la víctima sea expuesto, exhibido, depositado o arrojado en un lugar público o paraje despoblado;
+
+> <small>(REFORMADA, B.O. 5 DE FEBRERO DE 2026)</small>
+
+VIII. El Cuerpo o restos de la víctima hayan sido enterrados u ocultados, y
+
+> <small>(ADICIONADA, B.O. 5 DE FEBRERO DE 2026)</small>
+
+IX. La victima sea una persona transgénero, transexual o una persona cuya identidad y/o expresión de género real, percibida o características físicas sexuales se encuentren dentro del espectro del género femenino.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], B.O. 10 DE ABRIL DE 2019)</small>
 
 La pena se agravará hasta en un tercio cuando concurra cualquiera de las siguientes circunstancias:
 
+> <small>(ADICIONADA, B.O. 10 DE ABRIL DE 2019)</small>
+
 I.- Cuando la víctima sea mujer menor de edad, adulta mayor, indígena, estuviera embarazada o discapacitada; o se encuentre en cualquier otra condición especial;
+
+> <small>(ADICIONADA, B.O. 10 DE ABRIL DE 2019)</small>
 
 II.- Cuando el sujeto activo sea servidora o servidor público y haya cometido la conducta valiéndose de esta condición o haya intervenido en cualquier etapa del hecho delictivo;
 
+> <small>(ADICIONADA, B.O. 10 DE ABRIL DE 2019)</small>
+
 III.- Si fuere cometido por dos o más personas;
 
-IV.- Si fuere cometido en presencia de personas con quienes la víctima tuviere vínculo de parentesco por consanguinidad, afinidad, civil o una relación afectiva o sentimental de hecho, a sabiendas de esta relación; y
+> <small>(REFORMADA, B.O. 5 DE FEBRERO DE 2026)</small>
 
-V.- Si la víctima se encontraba bajo el cuidado o responsabilidad del agente, utilizando los medios o circunstancias que su cargo o situación personal le proporcionen.
+IV.- Si fuere cometido en presencia de personas con quienes la víctima tuviere vínculo de parentesco por consanguinidad, afinidad, civil o una relación afectiva o sentimental de hecho, a sabiendas de esta relación;
+
+> <small>(REFORMADA, B.O. 5 DE FEBRERO DE 2026)</small>
+
+V.- Si la víctima se encontraba bajo el cuidado o responsabilidad del agente, utilizando los medios o circunstancias que su cargo o situación personal le proporcionen, y
+
+> <small>(ADICIONADA, B.O. 5 DE FEBRERO DE 2026)</small>
+
+VI.- Cuando el delito fuere cometido aprovechándose el activo de que la víctima se encuentre bajo el efecto de cualquier tipo de droga o se encuentra (sic) estado de ebriedad, aun obstante el activo no hubiere suministrado drogas o alcohol para causar la inconciencia de la víctima.
+
+> <small>(ADICIONADO, B.O. 10 DE ABRIL DE 2019)</small>
 
 En el tipo penal de feminicidio, el sujeto activo puede ser persona conocida o desconocida y sin ningún tipo de relación con la víctima.
 
@@ -4353,7 +4447,13 @@ En el tipo penal de feminicidio, el sujeto activo puede ser persona conocida o d
 
 Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima incluidos los de carácter sucesorio y el de ejercer la patria potestad sobre los descendientes que en común tenga con la víctima.
 
+> <small>(ADICIONADO, B.O. 10 DE ABRIL DE 2019)</small>
+
 En caso que no se acredite que existieron razones de género al privar de la vida a una mujer, se estará a la punibilidad prevista para el delito de homicidio calificado establecido en el artículo 132 y demás relativos y aplicables de este Código.
+
+> <small>(ADICIONADO, B.O. 5 DE FEBRERO DE 2026)</small>
+
+Para efectos de este articulo el termino mujer incluye a todas las mujeres en su diversidad y etapas de vida.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 10 DE ABRIL DE 2019)</small>
 
@@ -5024,3 +5124,49 @@ Sexto.- Los centros penitenciarios del Estado de Baja California Sur tendrán 18
 Séptimo.- El Centro de Atención a Denuncias a que refiere el artículo 18 de la Ley para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, entrará en funciones a más tardar en 180 días hábiles contados a partir de la entrada en vigor del presente Decreto, y contará con la suficiencia presupuestaria para su correcto funcionamiento con cargo a la secretaría del ramo de seguridad pública del Ejecutivo Federal.
 
 Octavo.- Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado de los sujetos obligados por este instrumento, por lo que no incrementarán su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
+
+B.O. 5 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3177 SE REFORMA Y ADICIONA EL ARTÍCULO 389 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+
+B.O. 5 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 3218 SE ADICIONA EL ARTÍCULO 243 BIS AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR, EN MATERIA DE PROTECCIÓN AL PATRIMONIO CONYUGAL Y COMÚN”.]
+
+Único.- El presente Decreto, entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 5 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 3247 SE REFORMA Y ADICIONA EL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones vigentes en el momento en que se haya cometido.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan tácitamente las disposiciones legales de igual o menor jerarquía que se opongan a lo establecido en las normas adicionadas por el presente Decreto.
+
+B.O. 5 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3257 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Los procedimientos penales que se estén sustanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones vigentes en el momento en que se hayan cometido.
+
+TERCERO.- Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan a lo establecido en las normas adicionadas por el presente Decreto.
