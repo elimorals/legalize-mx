@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-de-coahuila-de-zaragoza-124261"
 country: "mx"
 rank: "codigo"
 publication_date: "2017-10-27"
-last_updated: "2025-12-26"
+last_updated: "2026-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COA"
 
 CÓDIGO PENAL DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2026.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 27 de octubre de 2017.
 
@@ -6941,7 +6941,9 @@ Se aumentará en una mitad el mínimo y máximo de las penas previstas en este a
 
 Artículo 405 (Elaboración sin permiso, falsificación o adulteración de documentos de identificación de vehículos automotores)
 
-Se impondrá de cuatro a ocho años de prisión y de trescientos a dos mil días multa, a quien, sin permiso de la autoridad competente, elabore una placa, el engomado, la tarjeta de circulación o cualquiera de los demás documentos oficiales que se expiden para identificar vehículos automotores o remolques, o bien falsifique cualquiera de aquellos documentos, o adultere uno verdadero.
+> <small>(REFORMADO, P.O. 6 DE FEBRERO DE 2026)</small>
+
+Se impondrá de cuatro a ocho años de prisión y de trescientos a dos mil días multa, a quien, sin permiso de la autoridad competente, elabore una placa, el engomado, la tarjeta de circulación o cualquiera de los demás documentos oficiales que se expiden para identificar vehículos automotores o remolques, o bien falsifique cualquiera de aquellos documentos, o adultere uno verdadero. En el caso de las placas aplica la misma sanción para quien altere, modifique, borre, utilice o realice cualquier otra acción que impida su correcta identificación.
 
 Se impondrán las mismas penas señaladas en el párrafo anterior, a quien adquiera, posea, transmita, enajene o utilice cualquiera de los documentos a que se refiere dicho párrafo, o alguna copia de los mismos, con conocimiento de que no fueron autorizados, o de que son falsos o están adulterados.
 
@@ -8580,3 +8582,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 339.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 405, DEL CÓDIGO PENAL DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
