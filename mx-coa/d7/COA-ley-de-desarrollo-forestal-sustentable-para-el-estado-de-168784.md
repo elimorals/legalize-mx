@@ -4,7 +4,7 @@ identifier: "COA-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-168784
 country: "mx"
 rank: "ley"
 publication_date: "2023-12-08"
-last_updated: "2023-12-08"
+last_updated: "2026-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168784&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2026.
 
 Ley publicada en la Primera Sección del Número 98 del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 8 de diciembre de 2023.
 
@@ -280,6 +280,14 @@ XXIII. Brindar atención en los demás asuntos que en materia de desarrollo fore
 XXIV. Promover el manejo forestal comunitario y redes locales de valor; y
 
 XXV. Proporcionar información a la autoridad acerca de los centros no integrados a un centro de transformación primaria, con permiso de funcionamiento, y que sean susceptibles de integrarse al Registro.
+
+> <small>(ADICIONADA, P.O. 6 DE FEBRERO DE 2026)</small>
+
+XXVI. Fomentar la investigación y el desarrollo de tecnologías sostenibles para la gestión y conservación de los recursos forestales, promoviendo la implementación de prácticas de manejo forestal que reduzcan el impacto ambiental y mejoren la resiliencia de los ecosistemas;
+
+> <small>(ADICIONADA, P.O. 6 DE FEBRERO DE 2026)</small>
+
+XXVII. Desarrollar campañas de sensibilización y educación ambiental dirigidas a la población sobre la importancia de la conservación de los ecosistemas forestales y las repercusiones del cambio climático.
 
 ### CAPÍTULO II. COORDINACIÓN INTERINSTITUCIONAL
 
@@ -858,3 +866,13 @@ EL SECRETARIO DE GOBIERNO
 LIC. FERNANDO DONATO DE LAS FUENTES HERNÁNDEZ
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 333.- SE ADICIONA LA FRACCIÓN XXVI Y LA FRACCIÓN XXVII AL ARTÍCULO 10, DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
