@@ -4,7 +4,7 @@ identifier: "COA-ley-que-reglamenta-la-division-de-las-comunidades-rurales-4290"
 country: "mx"
 rank: "ley"
 publication_date: "1933-10-11"
-last_updated: "1933-10-28"
+last_updated: "2026-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY QUE REGLAMENTA LA DIVISION DE LAS COMUNIDADES RURALES EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO 332, PUBLICADO EN EL P.O. DE 6 DE FEBRERO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY QUE REGLAMENTA LA DIVISION DE LAS COMUNIDADES RURALES EN EL ESTADO DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 28 DE OCTUBRE DE 1933.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE FEBRERO DE 2026 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el miércoles 11 de octubre de 1933.
 
@@ -254,3 +256,25 @@ GUILLERMO BERCHELMANN.
 P.O. 28 DE OCTUBRE DE 1933.
 
 EL DECRETO DE REFORMAS CITADO CON ANTELACION, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS DISPOSICIONES PRELIMINARES DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA.
+
+P.O. 6 DE FEBRERO DE 2026.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL ARTÍCULO PRIMERO DEL DECRETO 332 QUE SE RELACIONA CON LA REFORMA DEL PRESENTE ORDENAMIENTO]</small>
+
+###### ARTÍCULO ÚNICO.
+
+Se abroga la Ley que Reglamenta la División de las Comunidades Rurales en el Estado de Coahuila, publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza el 11 de octubre de 1933.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 332.- SE ABROGA LA LEY QUE REGLAMENTA LA DIVISIÓN DE LAS COMUNIDADES RURALES EN EL ESTADO DE COAHUILA, 3 PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA EL 11 DE OCTUBRE DE 1933".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+No se afectarán ni modificarán las situaciones jurídicas concretas, ni los derechos adquiridos que se hayan originado durante la vigencia de la ley que se abroga o al amparo de la misma, ni las decisiones judiciales ejecutoriadas que se hayan dictado con fundamento en sus disposiciones. Para tal efecto, las autoridades competentes deberán garantizar la intangibilidad de aquéllos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan a este decreto.
