@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-municipal-del-estado-de-morelos-6633"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "2026-02-03"
+last_updated: "2026-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "MOR"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE FEBRERO DE 2026 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS 1984
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2026.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE MORELOS EL 6 DE FEBRERO DE 2026.]</small>
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -3689,7 +3689,9 @@ P.O. 3 DE FEBRERO DE 2026.
 
 PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44, 47 y la fracción XVII, inciso a) del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
 
-SEGUNDA. El presente decreto entrará en vigor el 1 de enero del siguiente ejercicio fiscal al año de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
+> <small>(F. DE E., P.O. 6 DE FEBRERO DE 2026)</small>
+
+SEGUNDA. El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión Oficial del Gobierno del Estado de Morelos.
 
 TERCERA. Los treinta y seis municipios del Estado de Morelos, deberán llevar a cabo la armonización en los reglamentos respectivos, así como la modificación de las concesiones correspondientes, dentro del plazo de noventa días hábiles posteriores a la entrada en vigor del presente decreto.
 
