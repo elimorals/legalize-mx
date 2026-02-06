@@ -4,7 +4,7 @@ identifier: "COA-ley-sobre-disolucion-de-latifundios-y-proteccion-a-la-4318"
 country: "mx"
 rank: "ley"
 publication_date: "1933-10-07"
-last_updated: "1933-10-07"
+last_updated: "2026-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4318&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY SOBRE DISOLUCION DE LATIFUNDIOS Y PROTECCION A LA INDUSTRIA GANADERA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-LEY SOBRE DISOLUCION DE LATIFUNDIOS Y PROTECCION A LA INDUSTRIA GANADERA
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 331 PUBLICADO EN EL P.O. DE 6 DE FEBRERO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+LEY SOBRE DISOLUCIÓN DE LATIFUNDIOS Y PROTECCIÓN A LA INDUSTRIA GANADERA DEL ESTADO DE COAHUILA DE ZARAGOZA
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2026 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el sábado 7 de octubre de 1933.
 
@@ -96,3 +98,21 @@ P.O. del Srio. del Ejvo. del Edo.,
 El Of. Mayor.
 
 B. BERLANGA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 331.- SE ABROGA LA LEY SOBRE DISOLUCIÓN DE LATIFUNDIOS Y PROTECCIÓN A LA INDUSTRIA GANADERA, PUBLICADA EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO DE COAHUILA, EL 7 DE OCTUBRE DE 1933".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+No se afectarán ni modificarán las situaciones jurídicas concretas, ni los derechos adquiridos que se hayan originado durante la vigencia de la ley que se abroga o al amparo de la misma, ni las decisiones judiciales ejecutoriadas que se hayan dictado con fundamento en sus disposiciones. Para tal efecto, las autoridades competentes deberán garantizar la intangibilidad de aquéllos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas las disposiciones que se opongan a este Decreto.
