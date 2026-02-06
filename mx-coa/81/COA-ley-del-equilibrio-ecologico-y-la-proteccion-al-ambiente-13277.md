@@ -4,7 +4,7 @@ identifier: "COA-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-13277"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-08"
-last_updated: "2025-12-12"
+last_updated: "2026-02-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13277&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 8 de diciembre de 1998.
 
@@ -1911,9 +1911,11 @@ c) En general, todas aquellas que no sean de competencia estatal o federal.
 
 En la determinación de usos del suelo que definan los planes o programas de desarrollo urbano de la entidad, será obligatorio considerar las condiciones topográficas, climatológicas y meteorológicas del área, para asegurar la adecuada dispersión de contaminantes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE FEBRERO DE 2026)</small>
+
 ###### ARTICULO 103.
 
-En materia de prevención y control de la contaminación atmosférica, la Dirección y los municipios, de conformidad con la distribución de competencias establecidas en esta ley, tendrán las siguientes atribuciones:
+En materia de prevención y control de la contaminación atmosférica, la Secretaría y los municipios, de conformidad con la distribución de competencias establecidas en esta ley, tendrán las siguientes atribuciones:
 
 I.- Controlar la contaminación del aire en los bienes y zonas de jurisdicción local, así como en las fuentes fijas que funcionen, como establecimientos industriales, mercantiles y de servicios;
 
@@ -1928,6 +1930,10 @@ IV.- Integrar y mantener actualizado el registro a que se refiere el artículo 9
 > <small>(REFORMADA, P.O. 6 DE JUNIO DE 2008)</small>
 
 V.- Establecer y operar con el apoyo técnico, en su caso, de la Secretaría de Medio Ambiente y Recursos Naturales, sistemas de monitoreo de la calidad del aire. El Gobierno del Estado y los municipios, según corresponda, remitirán a dicha Secretaría, los reportes de monitoreo atmosférico, a fin de que aquélla los integre al Sistema Nacional de Información Ambiental;
+
+> <small>(ADICIONADO, P.O. 6 DE FEBRERO DE 2026)</small>
+
+Para ampliar la red de monitoreo de calidad del aire, se promoverá entre los responsables de la operación de fuentes fijas de jurisdicción local, la instalación, mantenimiento y monitoreo de estaciones y/o sensores, dentro o fuera de sus instalaciones.
 
 VI.- Llevar un registro de los centros de verificación vehicular y mantener actualizado un informe de los resultados obtenidos en la medición de las emisiones contaminantes, realizadas en dichos centros;
 
@@ -3404,3 +3410,11 @@ P.O. 12 DE DICIEMBRE DE 2025.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 6 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 334.- SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 103 Y SE ADICIONA UN SEGUNDO PÁRRAFO A SU FRACCIÓN V, DE LA LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
