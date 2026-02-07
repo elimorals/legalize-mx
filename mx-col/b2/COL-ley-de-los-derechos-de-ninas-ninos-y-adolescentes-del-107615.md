@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107615"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-18"
-last_updated: "2025-11-01"
+last_updated: "2026-02-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2026.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 18 de abril de 2015.
 
@@ -235,13 +235,17 @@ XXXIV. Representación en suplencia: A la representación de niñas, niños y ad
 
 XXXV. Sistema Estatal de Protección: Al Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Colima;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2026)</small>
 
-XXXVI. Riesgo: A la contingencia o proximidad de un daño; y
+XXXVI. Riesgo: A la contingencia o proximidad de un daño;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2026)</small>
 
-XXXVII. Tratados: A los Tratados Internacionales firmados y ratificados por México.
+XXXVII. Tratados: A los tratados internacionales firmados y ratificados por México; y
+
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2026)</small>
+
+XXXVIII. Violencia Digital: Se entiende por Violencia Digital toda conducta realizada mediante el uso de tecnologías de la información y la comunicación, incluyendo internet, redes sociales, aplicaciones, plataformas digitales, videojuegos y el uso de inteligencia artificial, que tenga por objeto o resultado vulnerar la integridad, dignidad, intimidad, privacidad o el libre desarrollo de la personalidad de las niñas, niños y adolescentes, aun cuando exista consentimiento o éste se obtenga aprovechando su condición de vulnerabilidad, y cuando dichas conductas causen o puedan causar daño psicológico, emocional, social o afectaciones a su seguridad e imagen.
 
 ###### Artículo 5°.
 
@@ -874,6 +878,24 @@ IX. Los casos en que se vean afectados en su sano desarrollo a causa de la viole
 Las autoridades del Estado, con relación a lo dispuesto por el presente artículo deberán considerar la perspectiva de género en las situaciones de violencia.
 
 Las autoridades del Estado y de los Municipios están obligadas a implementar medidas especiales para prevenir, sancionar y reparar las conductas previstas en este artículo para niñas, niños y adolescentes con discapacidad.
+
+> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 2026)</small>
+
+###### Artículo 49 Bis.
+
+Las autoridades estatales y municipales, en el ámbito de sus competencias, garantizarán el derecho de niñas, niños y adolescentes a estar protegidos contra la violencia digital, como parte de las medidas para promover el uso seguro de las tecnologías de la información y comunicación. Para tal efecto, dichas autoridades deberán diseñar, implementar y evaluar programas específicos orientados a la prevención y atención de la violencia digital contra niñas, niños y adolescentes.
+
+Estos programas incluirán, como mínimo:
+
+I. Campañas educativas en escuelas y comunidades para fomentar el uso seguro, responsable y ético de las tecnologías digitales;
+
+II. Promoción de los derechos digitales, con énfasis en el interés superior de la niñez;
+
+III. Capacitación de servidores públicos para identificar, prevenir y atender casos de violencia digital, incorporando la perspectiva de género; y
+
+IV. Mecanismos de coordinación con instituciones educativas, organizaciones de la sociedad civil y plataformas digitales para fortalecer la protección contra la violencia digital.
+
+Las acciones previstas en este artículo deberán respetar el principio del interés superior de la niñez y cumplir con las disposiciones de la Ley General de los Derechos de Niñas, Niños y Adolescentes y demás normatividad aplicable.
 
 ###### Artículo 50.
 
@@ -3278,3 +3300,9 @@ P.O. 1 DE NOVIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 181.- POR EL QUE SE APRUEBA REFORMAR LAS FRACCIONES II Y IV DEL ARTÍCULO 126 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 7 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 243.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE COLIMA".]
+
+ÚNICO. El presente Decreto entrará en vigor al momento de su publicación en el Periódico Oficial “El Estado de Colima”.
