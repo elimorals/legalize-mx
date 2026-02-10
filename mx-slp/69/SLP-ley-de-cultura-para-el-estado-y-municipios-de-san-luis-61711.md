@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cultura-para-el-estado-y-municipios-de-san-luis-61711"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-10"
-last_updated: "2025-10-02"
+last_updated: "2026-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61711&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CULTURA PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 10 de mayo de 2008.
 
@@ -100,6 +100,10 @@ La cultura es obra de los pueblos, y la responsabilidad de preservarla, reproduc
 Para los efectos de la presente Ley se entiende como:
 
 I. Bienes y servicios culturales: todos aquellos recursos que conforman la infraestructura y el patrimonio cultural del Estado, y que incluyen el conjunto de actividades dirigidas a satisfacer las necesidades y los intereses culturales de la ciudadanía;
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2026)</small>
+
+I Bis. Cosmovisión: es un conjunto articulado de ideas, conocimientos, creencias, practicas, imágenes y representaciones construidas por el ser humano, que dan identidad y sentido a la cultura de los pueblos y comunidades indígenas como una forma de ver y comprender el origen del universo, su entorno social, natural y su realidad, relacionada con su autonomía, territorio, sistemas normativos, medicina tradicional, y patrimonio cultural material e inmaterial;
 
 II. Cultura: el fenómeno social que se reproduce de generación en generación, que es recreado constantemente por las comunidades y grupos en función de su entorno, su interacción con la naturaleza y su historia; que infunde a las comunidades y grupos un sentimiento de identidad y de continuidad; que promueve el respeto a la diversidad y creatividad humana; que es compatible con los instrumentos nacionales e internacionales de derechos humanos existentes; que cumple los imperativos de respeto mutuo entre comunidades, grupos e individuos y de desarrollo sustentable: manifestaciones tales como las artes y las letras, los modos de vida, los sistemas de valores, las tradiciones y las creencias, así como el patrimonio histórico heredado por las generaciones anteriores; tradiciones y expresiones orales, incluida la lengua como vehículo del patrimonio inmaterial; artes del espectáculo, como la música, la danza, el teatro popular y las artes circenses; usos sociales, rituales y actos festivos; conocimientos y usos relacionados con la naturaleza y el universo; oficios y técnicas artesanales tradicionales, entre otros;
 
@@ -591,9 +595,13 @@ IV. Preservar el patrimonio lingüístico del Estado; el uso, conocimiento y div
 
 V. Apoyar las propuestas culturales que se originen en el seno de los pueblos y comunidades indígenas;
 
-VI. Promover entre las instituciones, organismos privados e investigadores, los trabajos que aborden temas relacionados con el pluralismo lingüístico, las nuevas identidades, la migración y la presencia indígena en el territorio del Estado; así como la edición de publicaciones, de preferencia bilingües, orientadas tanto a la difusión de la cultura indígena, como a las diversas expresiones artísticas y culturales que de ella emanan;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2026)</small>
 
-VII. Impulsar acciones que reconozcan el papel de la mujer indígena en la transmisión y desarrollo de su cultura;
+VI. Promover entre las instituciones, organismos privados e investigadores, los trabajos que aborden temas relacionados con el pluralismo lingüístico, las nuevas identidades, la migración y la presencia indígena en el territorio del Estado; así como la edición de publicaciones y antologías, de preferencia bilingües, orientadas tanto a la difusión de la cultura indígena, como a las diversas expresiones artísticas y culturales que de ella emanan, maximizando la participación de las mujeres a través de acciones afirmativas;
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2026)</small>
+
+VII. Impulsar acciones que reconozcan el papel de la mujer indígena en la conservación, preservación, transmisión y desarrollo de su cultura;
 
 VIII. Desarrollar campañas de difusión de las culturas de los pueblos indígenas, que promuevan el respeto, y combatan la discriminación y racismo;
 
@@ -974,3 +982,11 @@ P.O. 2 DE OCTUBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 10 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0456.- QUE REALIZA ADICIÓN AL ARTÍCULO 5° Y REFORMA AL ARTÍCULO 25, DE LA LEY DE CULTURA PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente Decreto.
