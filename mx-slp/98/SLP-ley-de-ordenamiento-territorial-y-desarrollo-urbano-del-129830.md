@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-129830"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-17"
-last_updated: "2025-10-02"
+last_updated: "2026-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 17 de julio de 2018.
 
@@ -2847,7 +2847,15 @@ a. Los parques o zonas industriales deberán ubicarse separadamente de las área
 
 b. Las industrias de alto riesgo o peligro de contaminación, se deberán situar fuera de los límites del centro de población a una distancia no menor de dos kilómetros, sin perjuicio de adaptarse las precauciones y demás medidas que fueren necesarias de acuerdo a las normas que emitan las autoridades competentes.
 
-c. Las industrias que se permitan establecerse dentro o próximas a zonas habitacionales, serán señaladas en las Normas de Zonificación Secundaria del programa de centro de población aplicable, y
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2026)</small>
+
+c. Las industrias que se permitan establecerse dentro o próximas a zonas habitacionales, serán señaladas en las Normas de Zonificación Secundaria del programa de centro de población aplicable.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2026)</small>
+
+d. Identificar, delimitar y destinar reservas territoriales específicas para el establecimiento de parques o zonas industriales, atendiendo los criterios de sustentabilidad, compatibilidad de usos del suelo, conectividad, así como la protección de áreas naturales protegidas y la prevención de zonas de riesgos. Estas reservas deberán integrarse a los Programas Municipales de Desarrollo Urbano y contar con la infraestructura básica y los servicios indispensables para su adecuado funcionamiento.
+
+Para tal efecto, los municipios podrán solicitar el acompañamiento técnico, jurídico o metodológico que resulte necesario, el cual podrá brindarse mediante mecanismos de coordinación interinstitucional o esquemas de colaboración público-privada, conforme a la disponibilidad de recursos y a las capacidades administrativas de cada ayuntamiento.
 
 V. Protección e integración al entorno ambiental:
 
@@ -7114,3 +7122,11 @@ P.O. 2 DE OCTUBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 10 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0455.- QUE REFORMA Y REALIZA ADICIÓN AL ARTÍCULO 139, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
