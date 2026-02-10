@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-17415
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-08-21"
-last_updated: "2025-12-16"
+last_updated: "2026-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el miércoles 21 de agosto de 2024.
 
@@ -523,9 +523,11 @@ Los grupos parlamentarios tienen por objeto facilitar la participación de las y
 
 Cada Grupo Parlamentario se integrará con las y los diputados que hayan sido electos por un mismo partido político, y se tendrán por constituidos de conformidad con lo que establece el Reglamento.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2026)</small>
+
 ###### ARTÍCULO 43.
 
-Los Grupos y Representaciones Parlamentarias, entregarán su agenda legislativa a la Directiva, a más tardar el quince de octubre del año en que se instale la Legislatura correspondiente, pudiendo actualizar la misma las veces que se considere pertinente.
+Los Grupos y Representaciones Parlamentarias, entregarán su agenda legislativa a la Directiva, a más tardar el quince de octubre del año en que se instale la Legislatura correspondiente, pudiendo actualizar la misma las veces que se considere pertinente. La agenda legislativa será publicada en la página de internet del Congreso del Estado.
 
 ###### ARTÍCULO 44.
 
@@ -2012,3 +2014,9 @@ P.O. 16 DE DICIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 0327.- QUE REFORMA LOS ARTÍCULOS 53 Y 57 Y REALIZA DEROGACIÓN EN EL ARTÍCULO 53, EL TÍTULO DÉCIMO EL CAPÍTULO V Y SUS ARTÍCULOS 145, 146 Y 147 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ; REFORMA LOS ARTÍCULOS 10, 33, 34, 40, 41, 42, 52, 63, 64, 65, 67, 132, 137, ADICIONA EL ARTÍCULO 9 BIS Y AL ARTÍCULO 63 Y REALIZA DEROGACIONES EN LOS ARTÍCULOS 42, 47, 48, 49 Y 163, DEL REGLAMENTO DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+P.O. 10 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 0454.- QUE REFORMA EL ARTÍCULO 43, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día de su publicación del el (sic) Periódico Oficial del Estado “Plan de San Luis”.
