@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-social-para-el-estado-y-municipios-de-san-615
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-17"
-last_updated: "2026-01-07"
+last_updated: "2026-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 17 de abril de 2008.
 
@@ -403,29 +403,39 @@ I. Coordinarse con los gobiernos Federal y el Sistema Estatal, así como con otr
 
 II. Formular y ejecutar un Programa Municipal de Desarrollo Social, como parte del Plan Municipal de Desarrollo, y en congruencia con el Programa Estatal, considerando la normatividad que al efecto señale la Ley de Planeación;
 
-III. Realizar gestiones interinstitucionales para que sus programas de desarrollo social alcancen los objetivos previstos;
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2026)</small>
 
-IV. Concertar acciones con los sectores social y privado, fomentando su participación en el cumplimiento de los objetivos, estrategias y prioridades de la política municipal de desarrollo social;
+III. Actualizar de manera Periódica la evaluación de la pobreza y marginación que lleva a cabo el Instituto Nacional de Geografía y Estadística, que servirá de base para la elaboración y actualización de los programas municipales de desarrollo social;
 
-V. Establecer mecanismos para incluir la participación social organizada en los programas y acciones de desarrollo social;
+IV. Realizar gestiones interinstitucionales para que sus programas de desarrollo social alcancen los objetivos previstos;
 
-VI. Ejercer fondos y recursos federales y estatales, descentralizados o convenidos en materia de desarrollo social, en los términos de la normatividad respectiva, así como informar a las autoridades federales competentes, a través de la Secretaría Ejecutiva, sobre el avance y resultado de su ejercicio;
+V. Concertar acciones con los sectores social y privado, fomentando su participación en el cumplimiento de los objetivos, estrategias y prioridades de la política municipal de desarrollo social;
 
-VII. Reservar de su presupuesto anual, una partida de recursos que les permita atender por sí mismos, y con la concurrencia de recursos federales y estatales, los daños que produzca un fenómeno natural cuyos efectos, reduzcan los impactos de las obras y acciones que se hubieran implementado para avanzar en el desarrollo social;
+VI. Establecer mecanismos para incluir la participación social organizada en los programas y acciones de desarrollo social;
 
-VIII. Impulsar el desarrollo local privilegiando la superación de los rezagos sociales, en las localidades con mayor concentración de pobreza y marginación;
+VII. Ejercer fondos y recursos federales y estatales, descentralizados o convenidos en materia de desarrollo social, en los términos de la normatividad respectiva, así como informar a las autoridades federales competentes, a través de la Secretaría Ejecutiva, sobre el avance y resultado de su ejercicio;
 
-IX. Cumplir la responsabilidad de ejercer los recursos públicos destinados al desarrollo social, con honradez, transparencia y equidad;
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2026)</small>
+
+VIII. Incluir en su presupuesto de egresos anual, los recursos necesarios que les permita atender por sí mismos, y con la concurrencia de recursos federales y estatales, los daños que produzca un fenómeno natural cuyos efectos, reduzcan los impactos de las obras y acciones que sé hubieran implementado para avanzar en el desarrollo social;
+
+IX. Impulsar el desarrollo local privilegiando la superación de los rezagos sociales, en las localidades con mayor concentración de pobreza y marginación;
+
+X. Cumplir la responsabilidad de ejercer los recursos públicos destinados al desarrollo social, con honradez, transparencia y equidad;
 
 > <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2018)</small>
 
-X. Informar a la sociedad sobre las acciones en torno al desarrollo social;
+XI. Informar a la sociedad sobre las acciones en torno al desarrollo social;
 
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2026)</small>
 
-XI. Promocionar y difundir programas de acopio y canje de residuos sólidos urbanos reciclables por productos de la canasta básica, con el propósito fundamental de promover la cultura del cuidado del medio ambiente, y el fortalecimiento de la economía familiar en el municipio, y
+XII. Promocionar y difundir programas de acopio y canje de residuos sólidos urbanos reciclables por productos de la canasta básica, con el propósito fundamental de promover la cultura del cuidado del medio ambiente, y el fortalecimiento de la economía familiar en el municipio;
 
-XII. Las demás que señalen las disposiciones legales aplicables.
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2026)</small>
+
+XIII. Promover la organización y la participación de la sociedad, en la elaboración, ejecución y evaluación de las políticas públicas municipales y de las metas y objetivos de planes y programas de desarrollo social, y
+
+XIV. Las demás que señalen las disposiciones legales aplicables.
 
 ## TITULO TERCERO. DE LOS BENEFICIARIOS
 
@@ -1026,6 +1036,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
 P.O. 7 DE ENERO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0441.- QUE REFORMA LOS ARTÍCULOS 6, 30, 37 Y 39, DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y LOS MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 10 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0459.- QUE REFORMA Y REALIZA ADICIÓN AL ARTÍCULO 16, DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
