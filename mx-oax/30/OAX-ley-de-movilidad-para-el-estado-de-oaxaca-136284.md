@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-movilidad-para-el-estado-de-oaxaca-136284"
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-27"
-last_updated: "2026-01-14"
+last_updated: "2026-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2026.
 
 Ley publicada en la Cuarta Sección en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2019.
 
@@ -155,6 +155,14 @@ b) La Secretaría de Movilidad; y
 
 c) Ayuntamientos de los Municipios del Estado;
 
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2026)</small>
+
+III Bis. AUTORIZACIÓN DEL SIT: Es el acto administrativo por medio del cual el Gobernador o Gobernadora del Estado o la Secretaria o Secretario autoriza a una persona física o moral prestar el servicio público de transporte, dentro de los sistemas integrados de transporte público.
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2026)</small>
+
+III Ter. AUTORIZADO DEL SIT: s (sic) la persona física o moral autorizada por la Gobernadora o el Gobernador del Estado o la Secretaria o Secretario, para prestar el servicio público de transporte dentro de los sistemas integrados de transporte público.
+
 IV. BANQUETA: La porción de vía destinada a la movilidad peatonal para permitir accesos cómodos, seguros y universalmente accesibles, generalmente comprendida entre el arroyo de circulación de vehículos y el alineamiento de las propiedades;
 
 V. BICICLETA: Vehículo impulsado directamente por la fuerza humana, que consta de dos o más ruedas alineadas, donde una o más personas se pueden sentar o montar sobre asientos. Se considerará como un medio de transporte cuando se le utilice en la vía pública;
@@ -163,9 +171,9 @@ VI. BICIESTACIONAMIENTO: Espacio considerado exclusivamente para el aparcamiento
 
 VII. BICIESTACIONAMIENTO BÁSICO EN LA VÍA PÚBLICA: Zona equipada con mobiliario urbano ubicada cerca de puntos de interés el cual es recomendado para distancias cortas de 15 minutos entre un punto y otro con capacidad desde una bicicleta en adelante, el diseño preferente es de tipo "U" invertida, mismo que debe estar ubicado en una zona visible como postes de luz o algún otro tipo de mecanismo de iluminación;
 
-> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2026)</small>
 
-VII Bis. CityBus: Organismo Público Descentralizado "CityBus Oaxaca”, encargado de la planeación, administración, supervisión, operación y control de los sistemas integrados de transporte público en el Estado de Oaxaca, en los términos de esta Ley y de su Decreto de creación;
+VII Bis. CityBus: Organismo Público Descentralizado denominado Sistema de Transporte Colectivo Metropolitano "CityBus Oaxaca", encargado de la planeación, administración, supervisión, operación y control de los sistemas integrados de transporte público en el Estado de Oaxaca, en los términos de esta Ley y de su Decreto de creación;
 
 VIII. CADUCIDAD: Acto administrativo por el cual el Gobernador del Estado o la Secretaría declara, mediante la resolución respectiva, extinta la concesión por las causales señaladas en esta Ley;
 
@@ -2107,33 +2115,33 @@ La Secretaría podrá expedir permisos complementarios para autorizar la circula
 
 La Secretaría podrá celebrar convenios con las entidades federativas colindantes, para el reconocimiento recíproco de la documentación expedida para la prestación de los servicios de transporte público y especial, en las zonas limítrofes del Estado.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE FEBRERO DE 2026)</small>
 
-### CAPÍTULO VII BIS. DEL PROCEDIMIENTO PARA OTORGAMIENTO DE AUTORIZACIONES
+### CAPÍTULO VII BIS. DEL PROCEDIMIENTO PARA OTORGAMIENTO DE LAS AUTORIZACIONES DEL SIT
 
-> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 155 Bis.
 
-El procedimiento para el otorgamiento de autorizaciones para prestar el servicio de transporte dentro del SIT se sujetará a lo siguiente:
+El procedimiento para el otorgamiento de autorizaciones del SIT, se sujetará a lo siguiente:
 
-I. La Secretaría, autorizará el sistema integrado de transporte público que le presente Citybus;
+I. La Secretaría, autorizará el sistema integrado de transporte público que le presente CityBus;
 
 II. La Secretaría emitirá la convocatoria pública correspondiente para satisfacer la necesidad del servicio dentro del sistema integrado de transporte público autorizado, la cual se publicará de manera obligatoria, en el Periódico Oficial del Gobierno del Estado;
 
 III. Recibidas las propuestas se sujetarán al análisis del Comité Operativo de Evaluación, Seguimiento y Validación de la Secretaría, para que se revise y emita el acta de la capacidad e idoneidad de los solicitantes, el cumplimiento de los requisitos que se hubieren señalado, la actualización de los criterios de selección previstos en la convocatoria y verificar que los participantes no se encuentren dentro de los impedimentos previstos en esta Ley o en cualquier otro ordenamiento legal. Cubiertos los requisitos, la Secretaría a través del Comité Operativo de Evaluación, Seguimiento y Validación, emitirá el acta sobre la capacidad legal, administrativa, técnica y financiera de las y los solicitantes para la prestación del servicio, y emitirá la resolución correspondiente, misma que será publicada en los mismos términos que establezca la convocatoria;
 
-IV. La Secretaría remitirá al Gobernador del Estado la determinación final sobre la capacidad e idoneidad de los solicitantes;
+IV. La Secretaría remitirá al Gobernador la determinación final sobre la capacidad e idoneidad de los solicitantes;
 
-V. El Gobernador del Estado decidirá sobre la expedición de la autorización, pudiendo delegar dicha facultad a la Secretaría, y
+V. El Gobernador del Estado o la Secretaría, decidirán sobre la expedición de la autorización del SIT, y
 
-VI. La autorización será entregada por la Secretaría, previo pago de los derechos correspondientes.
+VI. La autorización del SIT, será entregado (sic) por la Secretaría, previo pago de los derechos correspondientes.
 
-Una vez recibida la autorización, el autorizado contará con un plazo de treinta días naturales para formalizar su ingreso al Sistema Integrado de Transporte Público ante CityBus, de no hacerlo se procederá a la cancelación de la autorización.
+Una vez recibida la autorización del SIT, el autorizado del SIT, contará con un plazo de treinta días naturales para formalizar su ingreso al Sistema Integrado de Transporte Público ante CityBus, de no hacerlo se procederá a la cancelación de la autorización del SIT.
 
-La autorización podrá ser cancelada a propuesta de CityBus, en caso de incumplimiento a la normatividad aplicable o del instrumento jurídico por el que se formalizó su ingreso al Sistema Integrado de Transporte Público.
+Las autorizaciones del SIT podrán ser canceladas por la Gobernadora O Gobernador del Estado o por la Secretaría, a propuesta de CityBus en aquellos casos en que el autorizado del SIT incumpla, viole o no se apegue a la normatividad aplicable o el instrumento jurídico por el que se formalizó su ingreso al Sistema Integrado de Transporte Público.
 
-La presentación de propuestas y solicitudes no genera derecho o antecedente para el participante o solicitante para el otorgamiento de futuras autorizaciones, tampoco derecho para que se le autorice el trámite solicitado.
+La presentación de propuestas y solicitudes no genera derecho o antecedente para el participante o solicitante para el otorgamiento de futuras autorizaciones del SIT, tampoco derecho para que se le autorice el trámite solicitado.
 
 ### CAPÍTULO VIII. DE LA TARIFA DEL SERVICIO DE TRANSPORTE
 
@@ -2627,9 +2635,9 @@ Los prestadores del servicio de transporte están sujetos a los actos de supervi
 
 La Secretaría a través de su personal de supervisión, inspección y vigilancia, realizará operativos y demás actividades necesarias para vigilar la prestación del servicio de transporte e inspeccionar los vehículos e infraestructura afecta al mismo.
 
-> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2026)</small>
 
-Crtybus podrá supervisar, inspeccionar y vigilar la autorización otorgada, así como el cumplimiento de la programación del servicio (sic) transporte en los Sistemas Integrados de Transporte Público, quienes vigilarán la ejecución de la programación vigente desde el inicio del servicio hasta el encierro de los autobuses, así como la regularidad del servicio y comportamiento de los conductores que operan en el SIT.
+Citybus podrá supervisar, inspeccionar y vigilar la autorización del SIT otorgada, así como el cumplimiento de la programación del servicio de transporte en los Sistemas Integrados de Transporte Público, quienes vigilarán la ejecución de la programación vigente desde el inicio del servicio hasta el encierro de los autobuses, así como la regularidad del servicio y comportamiento de los conductores que operan en el SIT.
 
 ###### Artículo 193.
 
@@ -2719,15 +2727,21 @@ IV. Proponer a la Secretaría la instrumentación de programas y acciones para e
 
 V. Las demás que señale la presente Ley y su Reglamento.
 
-> <small>(ADICIONADO, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 206 Bis.
 
-Son derechos de los autorizados para prestar el servicio de transporte dentro del SIT, los siguientes:
+Son derechos de los autorizados del SIT, los siguientes:
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
 I. Prestar el servicio público de transporte dentro de los sistemas integrados de transporte público, en los términos establecidos en el convenio de coordinación que al efecto celebren con CityBus;
 
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
+
 II. Cobrar la tarifa establecida para la modalidad del servicio de que se trate, emitida y autorizada por la Secretaría; y
+
+> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2025)</small>
 
 III. Las demás que señale la presente ley, su reglamento y el convenio de coordinación que al efecto celebren con CityBus.
 
@@ -3750,3 +3764,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los concesionarios que aún no hayan designado a sus beneficiarios deberán hacerlo en los términos de la presente Ley. En caso de que el concesionario se encuentre en el extranjero, podrá realizar dicha designación a través de la oficina consular del Estado Mexicano en el país en que resida. Tratándose de los concesionarios que fallezcan o presenten una incapacidad física o mental permanente, sin haber designado beneficiarios en términos de lo dispuesto en la presente Ley, pero que cuenten con un instrumento notarial donde hayan hecho dicha manifestación, la concesión podrá cederse o transmitirse por el tiempo que reste su vigencia, previa autorización de la Secretaría y dentro de los doce meses posteriores a la publicación del presente Decreto. En ausencia de beneficiarios designados, la transferencia corresponderá a la persona que acredite el parentesco y que demuestre que se encuentra prestando el servicio público de transporte de manera ininterrumpida acreditándolo con la constancia expedida por la autoridad municipal y/o constancia expedida por los representantes de su agrupación.
 
 TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 10 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1268.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN VII BIS DEL ARTÍCULO 4, LA DENOMINACIÓN DEL CAPÍTULO VII BIS PARA QUEDAR COMO SIGUE "DEL PROCEDIMIENTO PARA OTORGAMIENTO DE LAS AUTORIZACIONES DEL SIT", EL ARTÍCULO 155 BIS, EL TERCER PÁRRAFO DEL ARTÍCULO 192, Y EL PRIMER PÁRRAFO DEL ARTÍCULO 206; Y SE ADICIONAN LAS FRACCIONES III BIS Y III TER DEL ARTÍCULO 4, TODOS DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA; Y ADICIONA EL ARTÍCULO CUARTO TRANSITORIO AL DECRETO NÚMERO 781 PUBLICADO EN EL PERIÓDICO OFICIAL EXTRA DE FECHA 24 DE SEPTIEMBRE DE 2025".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
