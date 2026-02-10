@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2026-01-13"
+last_updated: "2026-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2026.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -4591,9 +4591,13 @@ I. Cuando el maltrato implique lesiones mínimas, que no produzca un menoscabo f
 
 II. Cuando el maltrato implique lesiones que produzcan un menoscabo físico permanente, se impondrá pena de doce a veinticuatro meses de prisión, y sanción pecuniaria de doscientos a cuatrocientos días del valor de la unidad de medida y actualización vigente; e inhabilitación hasta por dos años para el ejercicio de la profesión, oficio o comercio, cuando quien lo cometió se dedique al cuidado de animales;
 
-> <small>(REFORMADA, P.O. 3 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2026)</small>
 
-III. Cuando el maltrato produzca la muerte, se impondrá pena de veinticuatro meses a cinco años de prisión, y sanción pecuniaria de trescientos a seiscientos días del valor de la unidad de medida y actualización vigente; e inhabilitación hasta por tres años para el ejercicio de la profesión, oficio o comercio, cuando quien lo cometió se dedique al cuidado de los animales, y
+III. Cuando el maltrato produzca la muerte, se impondrá pena de veinticuatro meses a cinco años de prisión, y sanción pecuniaria de trescientos a seiscientos días del valor de la unidad de medida y actualización vigente; e inhabilitación hasta por tres años para el ejercicio de la profesión, oficio o comercio, cuando quien lo cometió se dedique al cuidado de los animales;
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2026)</small>
+
+III BIS. Cuando el maltrato produzca la muerte de una especie que se encuentre en peligro de extinción, amenazada o sujeta a protección especial conforme a la NOM-059-SEMARNAT-2010, se impondrá pena de cuatro a siete años de prisión, y sanción pecuniaria de trescientos a seiscientos días del valor de la unidad de medida y actualización vigente, y
 
 > <small>(REFORMADA, P.O. 3 DE MARZO DE 2022)</small>
 
@@ -6394,3 +6398,11 @@ P.O. 13 DE ENERO DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 0446.- QUE ADICIONA EL CAPÍTULO IV BIS “ACECHO”, AL TÍTULO SEGUNDO “DELITOS CONTRA LA PAZ, LA LIBERTAD Y LA SEGURIDAD DE LAS PERSONAS”, Y LOS ARTÍCULOS 168 TER Y 168 QUATER, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ; Y REFORMA EL ARTÍCULO 4°, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ”].
 
 ÚNICO. El presente Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+P.O. 10 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0458.- QUE REFORMA Y REALIZA ADICIÓN AL ARTÍCULO 317, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ; Y ADICIONA EL ARTÍCULO 121 BIS A LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
