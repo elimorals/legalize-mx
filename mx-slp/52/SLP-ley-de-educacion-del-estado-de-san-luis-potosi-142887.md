@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-142887"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-14"
-last_updated: "2025-12-16"
+last_updated: "2026-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # LEY DE EDUCACION DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de mayo de 2020.
 
@@ -798,6 +800,10 @@ La educación que impartan el Gobierno del Estado, sus organismos descentralizad
 Las tecnologías de la información, comunicación, conocimiento y aprendizaje digital serán utilizadas como un complemento de los demás materiales educativos, incluidos los libros de texto gratuitos.
 
 Al efecto, deberán atenderse las disposiciones que la autoridad educativa federal establezca en la Agenda Digital Educativa.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2026)</small>
+
+Para efecto del párrafo segundo de este artículo, las autoridades educativas determinarán el uso complementario que se dará al uso del celular y demás dispositivos electrónicos como material educativo de apoyo a la enseñanza y aprendizaje de estudiantes del nivel básico, estableciendo para ello los lineamientos necesarios para su aplicación dentro de la jornada escolar.
 
 ###### ARTÍCULO 61.
 
@@ -2228,3 +2234,13 @@ P.O. 16 DE DICIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 0328.- QUE REFORMA EL ARTÍCULO 86, Y ADICIONA EL ARTÍCULO 88 BIS, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ; Y REALIZA ADICIÓN AL ARTÍCULO 40, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTADO DE SAN LUIS POTOSÍ”.]
 
 ÚNICO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+P.O. 10 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0457.- QUE REALIZA ADICIÓN AL ARTÍCULO 60, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrará en vigor a los ciento ochenta días naturales siguientes a su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. La Secretaría de Educación de Gobierno del Estado emitirá, en un plazo no mayor a noventa días naturales contados a partir de la publicación del presente Decreto, los lineamientos para su aplicación.
+
+TERCERO. Los planteles educativos deberán adecuar sus reglamentos internos a lo dispuesto en este artículo en un plazo máximo de noventa días naturales a partir de la emisión de los lineamientos, así como las estrategias de sensibilización a la comunidad escolar.
