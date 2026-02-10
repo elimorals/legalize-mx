@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-poder-legislativo-del-estado-de-baja-150086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-09-30"
-last_updated: "2026-01-31"
+last_updated: "2026-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE FEBRERO DE 2026.
 
 Ley publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur, el jueves 30 de Septiembre de 2021.
 
@@ -461,7 +463,9 @@ XVI.- Autorizar los convenios de cooperación con otras instituciones u organism
 
 XVII.- Elaborar el Reglamento interno de la Junta de Gobierno y Coordinación Política;
 
-XVIII.- Proveer a través de la Oficialía Mayor, lo necesario para el trabajo de las comisiones permanentes o especiales;
+> <small>(REFORMADA, B.O. 10 DE FEBRERO DE 2026)</small>
+
+XVIII.- Proveer a través de la Oficialía Mayor, lo necesario para el trabajo de las comisiones permanentes, las comisiones permanentes unidas o, en su caso, especiales;
 
 XIX.- Proponer programas de capacitación para los trabajadores del Congreso del Estado y cuidar que los trabajos del Congreso se realicen con oportunidad y eficiencia;
 
@@ -489,9 +493,11 @@ VI.- Las demás que le confiere la presente Ley y sus reglamentos.
 
 ### CAPITULO SEXTO. DE LAS COMISIONES
 
+> <small>(REFORMADO, B.O. 10 DE FEBRERO DE 2026)</small>
+
 Artículo 44
 
-Para facilitar el despacho de los negocios del Congreso, se nombrarán Comisiones Permanentes y Especiales que los estudien y dictaminen, proponiendo los proyectos de resoluciones que estimen procedentes.
+Para facilitar el desahogo de los asuntos que son competencia del Congreso, se nombrarán por el Pleno a propuesta de la Junta de Gobierno y Coordinación Política, Comisiones Permanentes y Especiales que estarán encargadas de su análisis, y estudio, así como de la emisión del dictamen correspondiente.
 
 Artículo 45
 
@@ -1071,17 +1077,47 @@ Artículo 47
 
 A cada Comisión Permanente se le turnarán los asuntos que se relacionen directamente con ella, o que tengan más analogía.
 
+> <small>(REFORMADO, B.O. 10 DE FEBRERO DE 2026)</small>
+
 Artículo 48
 
-Las Comisiones Permanentes se elegirán en el Primer Período Ordinario de Sesiones de cada Legislatura y serán integradas por tres Diputados, actuando el primero de los nombrados como Presidente y los dos siguientes como Secretarios.
+Las Comisiones Permanentes se elegirán dentro de los primeros quince días del primer Período Ordinario de Sesiones de cada Legislatura y estarán integradas por tres Diputadas y Diputados, de los cuales uno tendrá el carácter de presidente, dos tendrán el carácter de secretario. Conforme al orden que se realice la propuesta de integración será primera y segunda secretaria. En caso de ausencia temporal de la persona titular de la presidencia, la suplirá la persona titular de la primera secretaria.
+
+Para la integración de las presidencias y secretarías de las comisiones Permanentes, la Junta de Gobierno y Coordinación Política tomará en cuenta el número de fracciones parlamentarias legalmente constituidas, respetando además la pluralidad existente en la legislatura y con base en el criterio de proporción entre el número de integrantes de las fracciones, y el número total de comisiones y de diputados que conformen la legislatura, así como en su caso, respetando el principio de paridad de Género y con base en ello formulará las propuestas correspondientes.
+
+Las comisiones tomarán sus decisiones por mayoría simple de votos de sus miembros.
+
+> <small>(REFORMADO, B.O. 10 DE FEBRERO DE 2026)</small>
 
 Artículo 49
 
-Las Comisiones Permanentes funcionarán durante todo el período Constitucional de la Legislatura respectiva, y las vacantes, temporales o absolutas que en ellas ocurrieren se suplirán con carácter de interinidad o permanencia a juicio de la Junta de Gobierno y Coordinación Política.
+Las Comisiones Permanentes funcionarán durante todo el período Constitucional de la Legislatura respectiva.
+
+Las vacantes temporales y absolutas que en ellas ocurrieren serán cubiertas por Diputadas y Diputados pertenecientes a la Fracción Parlamentaria de aquel que se sustituye.
+
+Para efecto de las vacantes temporales, el Coordinador de la Fracción Parlamentaria de que se trate deberá comunicar oficialmente a la Presidencia de la Mesa Directiva que corresponda, dentro de los cinco días naturales acompañando el documento donde conste la conformidad de la mayoría de los integrantes de dicha fracción.
+
+En caso de que exista vacantes absolutas serán cubiertas por acuerdo del Pleno a solicitud de la Junta de Gobierno y Coordinación Política, atendiendo lo dispuesto en el segundo párrafo del presente artículo.
+
+En el caso de las vacantes absolutas que sucedan por Diputadas y Diputados que no conformen Fracción Parlamentaria, será la Junta de Gobierno y Coordinación Política quien presente la propuesta de modificación ante el Pleno.
+
+En caso de que una Diputada o Diputado decida dejar de pertenecer a la Fracción Parlamentaria de la que formó parte desde el inicio de la Legislatura de que se trate, perderá el Derecho a continuar integrando las Comisiones Permanentes, y en su caso Especiales, que hasta el momento de su decisión de separarse haya tenido, debiéndose proceder en consecuencia, en términos del párrafo cuarto del presente artículo.
+
+En el caso de las vacantes provisionales generadas por Diputadas o Diputados que no formen Fracción será la Junta de Gobierno y Coordinación Política quien realice la sustitución.
+
+> <small>(ADICIONADO, B.O. 10 DE FEBRERO DE 2026)</small>
+
+Artículo 49 Bis
+
+Las Comisiones Permanentes Unidas se conformarán con la suma de los integrantes de las Comisiones Permanentes en términos de lo dispuesto por el artículo 56 de esta ley.
+
+> <small>(REFORMADO, B.O. 10 DE FEBRERO DE 2026)</small>
 
 Artículo 50
 
-Serán nombradas por el Presidente del Congreso, a su arbitrio, las comisiones especiales cuando así lo requiera la urgencia o calidad de los negocios.
+El Pleno a propuesta de la Junta de Gobierno y Coordinación Política podrá acordar la constitución de comisiones especiales cuando se estimen necesarias para hacerse cargo de un asunto específico.
+
+El acuerdo que las establezca señalará su objeto, el número de los integrantes que la conformarán y el plazo para efectuar las tareas que se les hayan encomendado. Cumplido su objeto se extinguirán debiendo la presidencia de la mesa directiva del periodo ordinario o de la Diputación Permanente emitir la declaratoria de extinción correspondiente.
 
 Artículo 51
 
@@ -1091,25 +1127,61 @@ Artículo 52
 
 Ningún Diputado podrá dictaminar en asuntos en que tenga un interés personal. En tal circunstancia deberá excusarse por sí o a pedimento de un Diputado ante la Junta de Gobierno y Coordinación Política, quién le ordenará por escrito su substitución para el sólo efecto del despacho de ese asunto.
 
+> <small>(REFORMADO, B.O. 10 DE FEBRERO DE 2026)</small>
+
 Artículo 53
 
-Para ilustrar su juicio en el desempeño de su cometido, las comisiones, por conducto de su Presidente, podrán solicitar oficialmente a cualquier Servidor Público, Dependencias, Oficinas o Archivos del Estado, o de los Municipios, todas las informaciones y copias certificadas de documentos que estime necesarias para el mejor despacho de los negocios.
+Las comisiones, por conducto de su Presidente podrán solicitar opiniones, información o documentación que estime necesarias a las dependencias y entidades de la Administración Pública Estatal y Municipal así como a los organismos autónomos cuando se trate de un asunto sobre su ramo o se discuta una iniciativa relativa a las materias que les corresponda atender de acuerdo con los ordenamientos aplicables.
+
+El titular de la dependencia o entidad estará obligado a proporcionar la información en un plazo no mayor a diez días hábiles.
+
+No procederá la solicitud de información o documentación, cuando una u otra tengan el carácter de reservada conforme a las disposiciones legales aplicables.
 
 Igualmente podrán solicitar a los Servidores Públicos, personas o representantes de Organismos Privados o Sociales, comparecer ante ellas con el mismo fin.
 
+> <small>(REFORMADO, B.O. 10 DE FEBRERO DE 2026)</small>
+
 Artículo 54
 
-Cualquier miembro de la Legislatura puede reunirse con las Comisiones a que no pertenezca y discutir en ellas, pero sin voto.
+Cualquier miembro de la Legislatura podrá reunirse con las Comisiones a las que no pertenezca y discutir en ellas, pero sin voto, así como presentar por escrito las observaciones que considere pertinentes, las cuales no serán vinculatorias para la comisión.
+
+Las comisiones contarán con el espacio necesario para la celebración de sus sesiones de trabajo y tendrán a su cargo las funciones siguientes:
+
+a) Organizar y mantener un archivo de todos los asuntos que les sean turnados, los que deberán ser entregados a la Legislatura siguiente;
+
+b) Sesionar cuando menos una vez cada treinta días;
+
+c) Resolver los asuntos que la Mesa Directiva les turne; y
+
+d) Realizar las actividades que se deriven de esta ley, de los acuerdos tomados por el Pleno y los que adopten por sí mismas con relación a la materia o materias de su competencia.
+
+Los miembros de las comisiones están obligados a acudir puntualmente a sus sesiones y sólo podrán faltar por causa justificada. Las comisiones permanentes en su caso, podrán contar con un Secretario Técnico, que las auxilie en las tareas propias de la comisión.
+
+> <small>(ADICIONADO, B.O. 10 DE FEBRERO DE 2026)</small>
+
+Artículo 54 Bis
+
+Las sesiones de las comisiones podrán ser públicas, cuando así lo acuerden sus integrantes. También podrán celebrar sesiones de información y audiencia a las que asistirán, a invitación de ellas, representantes de grupos de interés, asesores, peritos, o las personas que las comisiones consideren que puedan aportar conocimientos y experiencias sobre el asunto de que se trate.
+
+Los dictámenes que produzcan deberán presentarse firmados por la mayoría de los diputados que las integran. Si alguno o algunos de ellos disienten del parecer de la mayoría, podrán presentar por escrito voto particular.
+
+El Reglamento establecerá los procedimientos y trámites para el despacho de los trabajos de las comisiones.
 
 Artículo 55
 
 Los integrantes de las Comisiones Permanentes o Especiales podrán ser removidos de su cargo por acuerdo de la Asamblea a propuesta de la Junta de Gobierno y Coordinación Política.
 
+> <small>(REFORMADO, B.O. 10 DE FEBRERO DE 2026)</small>
+
 Artículo 56
 
-Cuando un asunto corresponda al ámbito competencial de dos o más Comisiones Permanentes o Especiales, podrán unirse para dictaminar conjuntamente, en caso de que haya acuerdo en su proposición.
+Cuando un asunto corresponda al ámbito competencial de dos o más Comisiones Permanentes o Especiales, la presidencia de la Mesa Directiva podrá turnar el asunto a Comisiones Unidas, en los términos de lo dispuesto por el artículo 49 Bis de esta ley.
 
-De no ocurrir esto último, cada Comisión presentará dictamen por separado.
+En estos casos, para facilitar el desarrollo y organización de los trabajos parlamentarios de las Comisiones Permanentes Unidas, la primera comisión nombrada en el turno será la responsable de las tareas de las comisiones unidas.
+
+Sin demerito de lo anterior, los trabajos serán coordinados conjuntamente por las personas titulares de las presidencias de las Comisiones Permanentes o Especiales Unidas.
+
+Para los efectos del Artículo 53 de la presente ley, las solicitudes podrán generarse en unidad por las personas titulares de las presidencias o bien por quien en términos de lo dispuesto en el párrafo anterior, tenga la calidad de titular de la primera comisión nombrada en el turno.
 
 Artículo 57
 
@@ -1135,9 +1207,11 @@ Artículo 61
 
 El funcionamiento de las Fracciones Parlamentarias serán reguladas por los Estatutos y Lineamientos de los respectivos Partidos Políticos, y en el marco de la presente Ley.
 
+> <small>(REFORMADO, B.O. 10 DE FEBRERO DE 2026)</small>
+
 Artículo 62
 
-Los Coordinadores de las Fracciones Parlamentarias serán el conducto de estas con la Directiva, la Junta de Gobierno y Coordinación Política y las Comisiones Permanentes o Especiales.
+Los Coordinadores de las Fracciones Parlamentarias serán el conducto de estas con la Directiva, la Junta de Gobierno y Coordinación Política y la Comisión Permanente o Comisiones Permanentes Unidas o, en su caso, Especiales.
 
 Artículo 63
 
@@ -2271,9 +2345,11 @@ Artículo 110
 
 En los casos de urgencia u obvia resolución calificados por el voto de las dos terceras partes de la Diputación presente, podrá ésta a pedimento de alguno de sus miembros, dar curso a las proposiciones o proyectos en el orden distinto de los señalados, y ponerlos a discusión inmediatamente después de su lectura.
 
+> <small>(REFORMADO, B.O. 10 DE FEBRERO DE 2026)</small>
+
 Artículo 111
 
-Ninguna proposición o proyecto podrá discutirse sin que primero pase a la Comisión o Comisiones correspondientes y estas hayan dictaminado. Sólo podrá dispensarse este requisito en los asuntos que por acuerdo expreso del Congreso se calificaren de urgente o de obvia resolución.
+Ninguna proposición o proyecto podrá discutirse sin que primero pase a la Comisión Permanente o Comisiones Permanentes Unidas correspondientes y estas hayan dictaminado. Sólo podrá dispensarse este requisito en los asuntos que por acuerdo expreso del Congreso se calificaren de urgente o de obvia resolución.
 
 Artículo 112
 
@@ -2305,7 +2381,13 @@ Todo dictamen se elaborará con perspectiva de género y estará debidamente fun
 
 Artículo 117
 
-Para que haya dictamen de comisión, deberá estar firmado por la mayoría de los Diputados que la componen. Si alguno de ellos disintiera, podrá presentar su voto particular por escrito.
+> <small>(REFORMAD PRIMER PÁRRAFO, B.O. 10 DE FEBRERO DE 2026)</small>
+
+Para que haya dictamen de la Comisión Permanente, deberá estar firmado por la mayoría de los Diputados que la componen. Si alguno de ellos disintiera, podrá presentar su voto particular por escrito.
+
+> <small>(ADICIONADO, B.O. 10 DE FEBRERO DE 2026)</small>
+
+Para su validez legal, los dictámenes de comisiones unidas, deberán estar suscritos por la mayoría de los integrantes de cada una de las comisiones que concurren a la dictaminación. Los diputados y diputadas que sean integrantes de más de una de ellas, tendrán un voto por cada comisión.
 
 Artículo 118
 
@@ -2356,6 +2438,12 @@ Las iniciativas de Ley o Decreto, así como Proposiciones con Punto de Acuerdo, 
 Del anterior párrafo, se exceptúan las iniciativas de Ley o de Decreto, así como Proposiciones con Punto de Acuerdo, que hubiesen sido presentados en el segundo periodo ordinario de sesiones y segundo periodo de receso del tercer año de ejercicio legislativo, las cuales se considerarán caducadas al término del primer periodo ordinario de sesiones del primer año de ejercicio legislativo de la Legislatura siguiente.
 
 De igual forma se exceptúan aquellas iniciativas de Ley o de Decreto que estén vinculadas con el trámite o cumplimiento de una acción de inconstitucionalidad, controversia constitucional o juicio de amparo.
+
+> <small>(ADICIONADO, B.O. 10 DE FEBRERO DE 2026)</small>
+
+Artículo 124 Ter
+
+Las iniciativas de Ley o Decreto, así como Proposiciones con Punto de Acuerdo, que en términos del artículo anterior se consideren caducadas deberán archivarse por la Oficialía Mayor como asuntos total y definitivamente concluidos.
 
 Artículo 125
 
@@ -3526,3 +3614,17 @@ El presente Decreto entrará en vigor el día primero de enero de dos mil veinti
 SEGUNDO. La Junta de Gobierno y Coordinación Política, la Oficialía Mayor, la Dirección de Finanzas y la Contraloría del Poder Legislativo del Estado de Baja California Sur, deberán realizar, dentro de los noventa días naturales siguientes a la publicación del presente Decreto en el Boletín Oficial del Gobierno del Estado, las adecuaciones administrativas y presupuestales necesarias para el debido cumplimiento de lo dispuesto en el mismo.
 
 TERCERO. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+B.O. 10 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3233 SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+Primero.- El presente decreto entrará en vigor el 30 de septiembre de 2027; debiendo publicarse en el Boletín Oficial del Gobierno del Estado de Baja California Sur para los efectos jurídicos a que haya lugar.
+
+Por única ocasión y para dar cumplimiento a las disposiciones previstas en el Artículo 48 del presente Decreto, el término ahí previsto comenzara a correr a partir del 01 de octubre de 2027.
+
+Segundo.- El Congreso del Estado deberá expedir el Reglamento de Comisiones a más tardar el día 15 de diciembre de 2027.
+
+Tercero.- Las iniciativas de ley o decreto, así como las proposiciones con punto de acuerdo que se encuentren pendientes de dictamen y que provengan de legislaturas anteriores a la actual, se considerarán automáticamente caducadas, por lo que deberán archivarse por la Oficialía Mayor como asuntos total y definitivamente concluidos.
+
+Cuarto.- Se Derogan tácitamente las disposiciones legales de igual o menor jerarquía que se opongan a lo establecido en las normas adicionadas por el presente Decreto.
