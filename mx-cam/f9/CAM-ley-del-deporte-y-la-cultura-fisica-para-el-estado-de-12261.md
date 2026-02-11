@@ -4,7 +4,7 @@ identifier: "CAM-ley-del-deporte-y-la-cultura-fisica-para-el-estado-de-12261"
 country: "mx"
 rank: "ley"
 publication_date: "1998-06-24"
-last_updated: "2025-11-12"
+last_updated: "2026-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DEL DEPORTE Y LA CULTURA FÍSICA PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el miércoles 24 de junio de 1998.
 
@@ -125,11 +125,11 @@ XIII.- Deporte Adaptado: Al que realizan las personas con discapacidad en condic
 
 Son sujetos a la presente Ley, los habitantes, deportistas, los organismos deportivos de los sectores públicos social y privado en el Estado de Campeche, que por su naturaleza y funciones sean susceptibles de integrarse al Sistema Estatal del Deporte.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 2018)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2026)</small>
 
-###### ARTÍCULO 5.
+###### Artículo 5.
 
-Se reconoce el derecho de todo individuo al conocimiento y postura del deporte. El Gobierno del Estado y los Ayuntamientos en el ámbito de sus respectivas competencias deberán incluir dentro de sus planes, programas, presupuestos, acciones y recursos destinados al impulso de las prácticas deportivas, garantizando a todas las personas sin distinción de origen étnico, género, edad, discapacidad, condición social, religión, opiniones, preferencias sexuales, o estado civil, la igualdad de oportunidades dentro de los programas de desarrollo que en materia de cultura física y deporte se implementen.
+Se reconoce y garantiza el derecho de toda persona a la cultura física, al deporte y la recreación en condiciones de igualdad y sin discriminación alguna. El Gobierno del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, deberán promover, fomentar y estimular este derecho e incluirlo en sus planes, programas, presupuestos y acciones, sin distinción de origen étnico, género, edad, discapacidad, condición social, religión, opiniones, preferencias sexuales, o estado civil.
 
 ###### Artículo 6.
 
@@ -223,7 +223,9 @@ Se consideran integrantes del Sistema Estatal del Deporte:
 
 a).- Habitante: La persona que resida en el territorio del Estado de Campeche;
 
-b).- Deportista: Los habitantes del Estado de Campeche que realicen las actividades deportivas de orden competitivo o recreativo bajo reglamentación establecida;
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2026)</small>
+
+b).- Deportista: Las personas habitantes del Estado de Campeche que realicen actividades deportivas de orden competitivo, amateur o recreativo, bajo la reglamentación aplicable, de manera individual o a través de agrupaciones sin fines de lucro.
 
 c).- Asociación deportiva: El conjunto de personas físicas y morales, que cuenten o no con personalidad jurídica, conformada con el propósito de practicar algún deporte; y
 
@@ -233,7 +235,9 @@ I.- Equipos y clubes;
 
 II.- Ligas;
 
-III.- Asociaciones deportivas;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2026)</small>
+
+III.- Asociaciones y agrupaciones deportivas, con o sin fines de lucro;
 
 IV.- Unión deportiva;
 
@@ -411,9 +415,9 @@ II.- Celebrar convenios a través de sus órganos deportivos con las distintas e
 
 III.- Promover la creación del Centro Estatal de Medicina Deportiva y Ciencias Aplicadas al Deporte;
 
-> <small>(REFORMADA, P.O. 24 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2026)</small>
 
-IV.- Impulsar y ejecutar políticas públicas que fomenten actividades físicas y deportivas destinadas a las personas con discapacidad. Así como también impulsar el deporte adaptado;
+IV.- Impulsar y ejecutar políticas públicas que fomenten actividades físicas y deportivas destinadas a las personas con discapacidad; así como impulsar el deporte adaptado y garantizar a las y los deportistas de alto rendimiento el derecho a recibir becas, apoyos económicos y estímulos que permitan su formación integral, continuidad deportiva y desarrollo académico;
 
 > <small>(REFORMADA, P.O. 24 DE JULIO DE 2024)</small>
 
@@ -639,7 +643,9 @@ V.- Participar en competencias, juegos o eventos deportivos reglamentarios u ofi
 
 VI.- Desempeñar cargos directivos siempre y cuando hayan sido elegidos en asambleas de clubes, ligas, comités municipales, asociaciones y federaciones deportivas, y
 
-VII.- Recibir toda clase de estímulos en becas, premios, reconocimientos y recompensas en dinero o especie.
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2026)</small>
+
+VII.- Las y los deportistas de alto rendimiento tendrán derecho a recibir, en condiciones de igualdad y sin discriminación, becas, apoyos económicos, estímulos y toda clase de reconocimientos y recompensas en dinero o en especie, que garanticen su formación integral, la continuidad de su trayectoria deportiva y su desarrollo académico. La asignación de estos beneficios deberá atender a criterios de transparencia, equidad y progresividad, de conformidad con la disponibilidad presupuestal.
 
 ###### Artículo 55.
 
@@ -934,3 +940,15 @@ SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opo
 TERCERO.- El Estado deberá realizar las previsiones presupuestales correspondientes para el ejercicio fiscal 2026, con la finalidad de dar cumplimiento al presente decreto, de conformidad con la suficiencia presupuestal y de forma escalonada.
 
 CUARTO.- El Poder Ejecutivo del Estado deberá emitir las reglas y lineamientos a que se refiere el artículo 55 Quinquies del presente decreto, en un plazo máximo de 180 días naturales contados a partir de su entrada en vigor.
+
+P.O. 11 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 197 POR E QUE “SE REFORMA EL ARTÍCULO 5; EL INCISO B) Y LA FRACCIÓN III DEL INCISO D) DEL ARTÍCULO 16; LA FRACCIÓN IV DEL ARTÍCULO 31; Y LA FRACCIÓN VII DEL ARTÍCULO 54, TODOS DE LA LEY DEL DEPORTE Y LA CULTURA FÍSICA PARA EL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Instituto del Deporte del Estado de Campeche y la Secretaría de Administración, Finanzas y Planeación de la Administración Pública Estatal deberán, en un plazo no mayor a 90 días contados a partir de la entrada en vigor de este decreto, emitir las disposiciones reglamentarias y programáticas para establecer mecanismos, criterios, requisitos y montos para hacer efectivo el derecho a becas, apoyos y estímulos para deportistas de alto rendimiento, de conformidad a la suficiencia presupuestaria.
+
+TERCERO.- Las becas y apoyos otorgados a deportistas de alto rendimiento deberán observar el principio de progresividad, igualdad sustantiva, no discriminación y el interés superior de la niñez; en ningún caso podrán disminuir respecto del ejercicio fiscal inmediato anterior.
+
+CUARTO.- Se derogan todas las disposiciones legales de igual o menor jerarquía en lo que se opongan al contenido del presente decreto.
