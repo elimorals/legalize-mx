@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-el-fomento-de-las-actividades-artesanales-en-el-75585"
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-11"
-last_updated: "2021-04-09"
+last_updated: "2026-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75585&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY PARA EL FOMENTO DE LAS ACTIVIDADES ARTESANALES EN EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 11 de junio de 2010.
 
@@ -57,9 +57,13 @@ Para los efectos de esta Ley se entenderá por:
 
 I. Artesanía: Los bienes que proceden de la actividad artesanal individual o colectiva, que tienen valor histórico, cultural, utilitario o estético; pueden ser tradicionales o de reciente invención, que cumplen con una función socialmente reconocida y que cuando son producidos con maestría y habilidad se reconocen como obra de arte popular;
 
-> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2021)</small>
+> <small>(ADICIONADA, P.O. 11 DE FEBRERO DE 2026)</small>
 
-II. Artesana o Artesano: La persona que, con sensibilidad y creatividad, desarrolla sus habilidades naturales o técnicas para elaborar artesanías en forma predominantemente manual o auxiliado por el uso de medios mecánicos de producción;
+I Bis. Gastronomía Artesanal: El conjunto de procesos, técnicas, conocimientos, usos, recetas y productos alimentarios que se elaboran principalmente a mano, a pequeña escala y con técnicas tradicionales, a menudo transmitidas de generación en generación, como una costumbre o tradición cultural;
+
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2026)</small>
+
+II. Artesana o Artesano: La persona que, con sensibilidad y creatividad, desarrolla sus habilidades naturales o técnicas para elaborar artesanías o gastronomía artesanal en forma predominantemente manual o auxiliado por el uso de medios mecánicos de producción;
 
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 2021)</small>
 
@@ -87,7 +91,9 @@ Se considera como patrimonio cultural, al trabajo de las artesanas y artesanos y
 
 Para los efectos pertinentes, la presente Ley tiene como objeto:
 
-I. Rescatar, preservar y proteger el patrimonio artístico, simbólico, cultural, folclórico e histórico de Campeche, representado por las artesanías que identifican a las diversas comunidades, regiones y grupos étnicos cuya característica es su capacidad para transformar la naturaleza, creando nuevas expresiones artísticas populares;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2026)</small>
+
+I. Rescatar, preservar, proteger y promover el patrimonio artístico, simbólico, cultural, folclórico e histórico de Campeche, representado por las artesanías y la gastronomía artesanal que identifican a las diversas comunidades, regiones y grupos étnicos cuya característica es su capacidad para transformar la naturaleza, creando nuevas expresiones artísticas populares;
 
 II. Promover y desarrollar la obra artesanal de las comunidades como reconocimiento del patrimonio cultural de sus habitantes, respetando su composición socio-política;
 
@@ -99,7 +105,9 @@ V. Fomentar la expansión y diversificación del mercado interno de artesanías 
 
 VI. Impulsar la organización de empresas y organizaciones artesanales;
 
-VII. Estimular la producción, calidad y diseño de las artesanías, mediante la entrega anual de una distinción denominada “Premio Estatal de Artesanías”, cuyas bases se establecerán en el Reglamento de esta Ley; y
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2026)</small>
+
+VII. Estimular la producción, calidad y diseño de las artesanías, mediante la entrega anual de una distinción denominada “Premio Estatal a las Actividades Artesanales”, cuyas bases se establecerán en el Reglamento de esta Ley; y
 
 VIII. Fortalecer el sector artesanal a fin de dignificar la actividad del artesano.
 
@@ -115,7 +123,9 @@ Se crea el Instituto Estatal para el Fomento de las Actividades Artesanales en C
 
 Para el cumplimiento de su objeto, el Instituto tendrá las siguientes atribuciones:
 
-I. Realizar e impulsar toda clase de estudios, investigaciones y eventos de cualquiera naturaleza que estime adecuados para el rescate, preservación, mejoramiento y desarrollo de las actividades artesanales;
+> <small>(REFORMADA, P.O. 11 DE FEBRERO DE 2026)</small>
+
+I. Realizar e impulsar toda clase de estudios, investigaciones y eventos de cualquiera naturaleza que estime adecuados para la vigilancia, rescate, preservación, mejoramiento y desarrollo de las actividades artesanales, así como de las fuentes de recursos naturales que se utilizan en la elaboración de las artesanías;
 
 II. Crear y mantener actualizado permanentemente un sistema de información relativo al Censo Artesanal en todo el territorio del Estado;
 
@@ -132,6 +142,10 @@ VII. Crear y administrar Casas, Bazares, Museos y Galerías de Artesanías en el
 VIII. Realizar, en general, toda clase de actos propios e inherentes a la actividad artesanal;
 
 IX. Promover y establecer apoyos para la obtención y proveeduría de materias primas e insumos que logren eficientar sus procesos de producción a través de centros de acopio; y
+
+> <small>(ADICIONADA, P.O. 11 DE FEBRERO DE 2026)</small>
+
+IX Bis. Emitir alertas de actividad artesanal en riesgo, cuando alguna actividad artesanal o insumos naturales de la región se encuentren en peligro de desaparecer, por alguna razón, y proponer a la Junta de Gobierno la recomendación respectiva; y
 
 X. Las demás que la presente Ley y su correspondiente Reglamento le asignen.
 
@@ -217,6 +231,10 @@ VI. Conocer de los proyectos que artesanos o grupos de artesanos presenten al In
 
 VII. Proponer acciones y actividades que promuevan el desarrollo en materia social, económica y cultural de los artesanos; y
 
+> <small>(ADICIONADA, P.O. 11 DE FEBRERO DE 2026)</small>
+
+VII Bis. Atender las Alertas de actividad artesanal en riesgo, así como las recomendaciones respectivas, y
+
 VIII. Las demás que esta Ley y su Reglamento le confieran.
 
 ###### Artículo 11.
@@ -258,6 +276,10 @@ IX. Designar, con acuerdo de la persona titular de la Secretaría, al personal a
 > <small>(REFORMADA, P.O. 9 DE ABRIL DE 2021)</small>
 
 X. Presentar de manera trimestral ante la Junta de Gobierno un informe sobre las actividades del Instituto; el programa operativo, así como del estado que guardan las áreas sustantivas y administrativas que lo integran; y
+
+> <small>(ADICIONADA, P.O. 11 DE FEBRERO DE 2026)</small>
+
+X Bis. Emitir alertas de actividad artesanal en riesgo, así como recomendaciones respectivas a la Junta de Gobierno para atender la situación; y
 
 XI. Las demás que le sean conferidas en la presente Ley, en su Reglamento y en el Reglamento Interior del Instituto, o por la Junta de Gobierno.
 
@@ -313,9 +335,11 @@ Las artesanas y artesanos a través del Instituto y con el apoyo de la Secretar�
 
 Las artesanas y artesanos recibirán orientación y apoyo del Instituto y de la Secretaría en sus gestiones ante las instancias municipales, estatales o federales que correspondan, para adquirir o disponer de materias primas, maquinaria, herramientas y equipamiento, así como para implantar acciones de preservación y conservación del medio ambiente, al uso racional y a la rehabilitación de los recursos naturales que utilicen en la elaboración de sus productos artesanales.
 
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 20.
 
-El Instituto contará con las unidades de comercialización necesarias, "Casas de Artesanías", "Bazares Artesanales", "Museos de Artesanías" y "Galerías de Artesanías", para la promoción, exhibición y venta de las artesanías, las cuales administrará directamente. Adicionalmente deberá vincularse con los organismos de comercialización que al efecto se establezcan en el Estado, a fin de brindar mejores oportunidades de negocios a los artesanos.
+El Instituto contará con las unidades de comercialización necesarias, "Casas de Artesanías", "Bazares Artesanales", "Museos de Artesanías", "Galerías de Artesanías", "Museos y rutas de la gastronomía", para la promoción, exhibición y venta de las artesanías y la gastronomía artesanal, las cuales administrará directamente. Adicionalmente deberá vincularse con los organismos de comercialización que al efecto se establezcan en el Estado, a fin de brindar mejores oportunidades de negocios a las y los artesanos.
 
 ###### Artículo 21.
 
@@ -329,11 +353,37 @@ Deberá difundir la cultura artesanal de Campeche, mediante la edición de atlas
 
 ### Capítulo V. De la Capacitación e Investigación
 
-> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 23.
 
-El Instituto contará con un área de capacitación que será la encargada de formular y realizar las estrategias para la investigación de las actividades artesanales, así como de la impartición de capacitación a las artesanas y artesanos, con el fin de rescatar o preservar las artesanías tradicionales en riesgo de desaparición, así como mejorar su producción.
+El Instituto contará con un área de capacitación encargada de formular, coordinar e implementar estrategias de investigación, formación, actualización y desarrollo técnico dirigidas a las artesanas y los artesanos del Estado.
+
+Esta área tendrá como objetivos:
+
+I. Rescatar, preservar y revitalizar las técnicas artesanales tradicionales en riesgo de desaparición, reconociéndolas como parte fundamental del patrimonio cultural de Campeche;
+
+II. Promover la innovación, modernización y diversificación en las técnicas, diseños, materiales y procesos de elaboración artesanal, respetando el valor cultural, simbólico e identitario de cada expresión;
+
+III. Diseñar e impartir programas de capacitación que impulsen el uso creativo de nuevas tecnologías, materiales sostenibles y enfoques contemporáneos de diseño artesanal;
+
+IV. Fomentar la creación de nuevas líneas de productos que integren tradición e innovación, ampliando su potencial comercial en mercados nacionales e internacionales;
+
+V. Implementar laboratorios de diseño e innovación artesanal, encuentros interdisciplinarios, y talleres colaborativos entre maestras y maestros artesanos, jóvenes creadores, diseñadores y especialistas en desarrollo de productos culturales; y
+
+VI. Establecer mecanismos de seguimiento, evaluación y certificación de la capacitación brindada, garantizando que sus contenidos se alineen a la mejora continua de la calidad artesanal.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2026)</small>
+
+###### Artículo 23 Bis.
+
+El Instituto fomentará espacios de innovación y creatividad artesanal, en los que se generen productos, proyectos colaborativos y desarrollo de colecciones artesanales innovadoras.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2026)</small>
+
+###### Artículo 23 Ter.
+
+Las artesanas y artesanos que participen en estos programas podrán acceder a distintivos y reconocimientos por innovación, creatividad o sustentabilidad, y su inclusión preferente en catálogos, ferias, vitrinas y programas de comercialización estratégica del Estado.
 
 ###### Artículo 24.
 
@@ -428,3 +478,21 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
 
 TERCERO.- El Poder Ejecutivo deberá expedir el Reglamento de la Ley para el Fomento de las Actividades Artesanales en el Estado de Campeche dentro de los treinta días hábiles siguientes a la fecha de entrada en vigor del presente decreto.
+
+P.O. 11 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 196 POR EL QUE “SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 2; LAS FRACCIONES I Y VII DEL ARTÍCULO 5; LA FRACCIÓN I DEL ARTÍCULO 7; LOS ARTÍCULOS 20 Y 23 Y, SE ADICIONAN LA FRACCIÓN I BIS AL ARTÍCULO 2; LA FRACCIÓN IX BIS AL ARTÍCULO 7; LA FRACCIÓN VII BIS AL ARTÍCULO 10; LA FRACCIÓN X BIS AL ARTÍCULO 13 Y LOS ARTÍCULOS 23 BIS Y 23 TER DE LA LEY PARA EL FOMENTO DE LAS ACTIVIDADES ARTESANALES EN EL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Instituto contará con un plazo no mayor a 180 días naturales a partir de la entrada en vigor del presente decreto para realizar adecuaciones normativas en su reglamento interno, en su estructura operativa y los programas iniciales de acción, los cuales deberán realizarse de conformidad con su disponibilidad presupuestal.
+
+TERCERO.- Durante el mismo plazo señalado en el transitorio que antecede, el Instituto deberá elaborar un diagnóstico estatal sobre las técnicas artesanales en riesgo de desaparición, a fin de priorizar las estrategias de rescate, preservación y revitalización.
+
+CUARTO.- El Instituto deberá elaborar y presentar un plan de implementación escalonada para la puesta en marcha de los laboratorios de diseño e innovación artesanal, así como los encuentros interdisciplinarios y talleres colaborativos. Dicho plan deberá establecer objetivos, cronograma, recursos requeridos y alianzas institucionales.
+
+QUINTO.- El Instituto contará con un plazo de un año a partir de la entrada en vigor de este decreto para diseñar e implementar los mecanismos de certificación, seguimiento y evaluación de la capacitación artesanal, en coordinación con instituciones educativas, técnicas o de certificación competentes.
+
+SEXTO.- En tanto se formalizan los distintivos y reconocimientos previstos en el artículo 23 Ter, el Instituto podrá utilizar mecanismos ya existentes, adaptándolos provisionalmente con criterios de innovación, creatividad o sustentabilidad artesanal.
+
+SÉPTIMO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al contenido del presente decreto.
