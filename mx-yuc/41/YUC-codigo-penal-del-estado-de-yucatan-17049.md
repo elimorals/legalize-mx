@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2026-01-20"
+last_updated: "2026-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE FEBRERO DE 2026.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -429,9 +429,17 @@ d) El consentimiento del titular, cuando se actúe con el consentimiento del tit
 
 II.- Son causas de justificación:
 
-a) La legítima defensa, cuando se repela una agresión real, actual o inminente y sin derecho, en defensa de bienes jurídicos propios o ajenos, siempre que exista necesidad de la defensa empleada y no medie provocación dolosa suficiente e inmediata por parte del agredido o de su defensor.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 11 DE FEBRERO DE 2026)</small>
 
-Se presume que existe legítima defensa, salvo prueba en contrario, cuando se cause un daño a quien por cualquier medio trate de penetrar o penetre, sin derecho, al lugar en que habite de forma temporal o permanente el que se defiende, al de su familia o al de cualquier persona respecto de las que el agente tenga la obligación de defender, a sus dependencias o al sitio donde se encuentren bienes propios o ajenos respecto de los que exista la misma obligación. Igual presunción existirá cuando el daño se cause a un intruso al momento de sorprenderlo en alguno de los lugares antes citados en circunstancias tales que revelen la posibilidad de una agresión.
+a) La legítima defensa, cuando se repela una agresión real, actual o inminente y sin derecho, en defensa de bienes jurídicos propios o ajenos, siempre que exista necesidad de la defensa empleada y no medie provocación dolosa suficiente e inmediata por parte de la persona agredida o de la persona que actúe en su defensa.
+
+> <small>(REFORMADO, D.O. 11 DE FEBRERO DE 2026)</small>
+
+Se presume que existe legítima defensa, salvo prueba en contrario, cuando se cause un daño, lesión o privación de la vida, a quien a través de la violencia, del escalamiento o por cualquier medio trate de penetrar o penetre, sin derecho, al lugar en que habite de forma temporal o permanente la persona que se defiende, al de su familia o al de cualquier persona respecto de las que el agente tenga la obligación de defender, a sus dependencias o al sitio donde se encuentren bienes propios o ajenos respecto de los que exista la misma obligación. Igual presunción existirá cuando el daño se cause a un intruso al momento de sorprenderlo en alguno de los lugares antes citados en circunstancias tales que revelen la posibilidad de una agresión. En los casos relacionados con mujeres víctimas de violencia de género, se deberá juzgar en todo momento bajo esta perspectiva.
+
+> <small>(ADICIONADO, D.O. 11 DE FEBRERO DE 2026)</small>
+
+También se presumirá la legítima defensa, salvo prueba en contrario, cuando una mujer sea víctima de violencia física, sexual o tentativa de feminicidio, o cuando en el hecho haya estado en peligro real, actual o inminente de serlo y repela la agresión. En estos casos, el Ministerio Público y el órgano jurisdiccional, según corresponda, deberán actuar con perspectiva de género para determinar la actualización de la legítima defensa, tanto para la mujer agredida como, en su caso, para la persona que actúe en su defensa. Asimismo, se considerará legítima defensa cuando una persona actúe para proteger a una mujer que se encuentre en una situación de violencia de género, abarcando la violencia física, sexual y/o feminicida, conforme a lo previsto en la legislación general y local en la materia, y cause un daño al agresor con el propósito de hacer cesar dicha conducta.
 
 b) El estado de necesidad justificante, cuando el agente obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, lesionando otro bien de menor valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el agente no tuviera el deber jurídico de afrontarlo;
 
@@ -466,6 +474,14 @@ En caso de que sea vencible el error a que se refiere el inciso c) de la fracci�
 > <small>(ADICIONADO, D.O. 2 DE MAYO DE 2016)</small>
 
 Si el error vencible es el previsto en el último párrafo del inciso c) de la fracción III del artículo 21 de este Código, la penalidad será de una tercera parte del delito que se trate. Al que se exceda en los casos de defensa legítima, estado de necesidad, cumplimiento de un deber o ejercicio de un derecho se le impondrá la cuarta parte de las penas o medidas de seguridad correspondientes al delito de que se trate, siempre y cuando con relación al exceso, no exista otra causa de exclusión del delito.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], D.O. 11 DE FEBRERO DE 2026)</small>
+
+No se considerará exceso en la legítima defensa cuando:
+
+I. Al momento en que ésta se concrete concurran circunstancias en las que la persona agredida sufra miedo o terror que afecte su capacidad para determinar el límite adecuado de su respuesta o la racionalidad de los medios empleados, conforme a las valoraciones psicológicas conducentes; y/o
+
+II. Cuando la mujer sea víctima de violencia física, sexual o tentativa de feminicidio y en el hecho haya estado en peligro real, actual o inminente de serlo de no haber repelido la agresión, siempre que, atendiendo a las circunstancias concretas del caso, la respuesta defensiva resulte explicable y razonablemente vinculada con la neutralización del riesgo, considerando, entre otros factores: la asimetría física o de dominio del agresor, la inmediatez del peligro, el entorno de subordinación o control, los medios disponibles al momento de los hechos, y la afectación emocional derivada del contexto de violencia.
 
 ###### ARTÍCULO 23.
 
@@ -553,13 +569,11 @@ La sanción impuesta a la persona moral de acuerdo con este Código y demás ley
 
 ### CAPÍTULO II. PRISIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 3 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, D.O. 11 DE FEBRERO DE 2026)</small>
 
 ###### ARTÍCULO 29.
 
-La prisión consiste en la pena privativa de la libertad personal. Su duración no será menor de tres meses ni mayor de sesenta y cinco años, salvo los casos de excepción previstos en las disposiciones legales aplicables para la pena mínima. Se extinguirá en los centros penitenciarios, de conformidad con la legislación en la materia y ajustándose a la resolución judicial respectiva.
-
-La medida cautelar de prisión preventiva se computará para el cumplimiento de la pena impuesta así como de las que pudieran imponerse por otras causas, aunque hayan tenido por objeto hechos anteriores al ingreso a prisión. En este caso, las penas se compurgarán en forma simultánea.
+La prisión consiste en la pena privativa de la libertad personal. Su duración no será menor de tres meses ni mayor de setenta años, salvo los casos de excepción previstos en las disposiciones legales aplicables para la pena mínima. Se extinguirá en los centros penitenciarios, de conformidad con la legislación en la materia y ajustándose a la resolución judicial respectiva.
 
 > <small>(REFORMADO, D.O. 2 DE MAYO DE 2016)</small>
 
@@ -3861,19 +3875,57 @@ Este delito se perseguirá a petición de parte, salvo que la víctima sea menor
 
 ### CAPÍTULO II. ABUSO SEXUAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, D.O. 11 DE FEBRERO DE 2026)</small>
 
 ###### ARTÍCULO 309.
 
-A quien ejecute en una persona, sin su consentimiento, un acto lascivo o la obligue a ejecutarlo para sí o en otra persona, sin el propósito de llegar a la cópula, se le impondrá una pena de seis a diez años de prisión y de trescientos a dos mil quinientos días-multa. Si se hiciera uso de la violencia física o psicológica, las penas previstas en este artículo se aumentarán en una mitad. Este delito se perseguirá de oficio.
+Comete el delito de abuso sexual quien, sin el consentimiento, expreso o tácito, de la víctima y sin el propósito de llegar a la cópula, realice en el ámbito público o privado, cualquier acto de naturaleza sexual, la obligue a observarlo, o la haga ejecutarlo sobre sí, para un tercero o para el propio sujeto activo. También se considera abuso sexual cuando se obligue a la víctima a exhibir su cuerpo.
 
-> <small>(REFORMADO, D.O. 2 DE MAYO DE 2010)</small>
+Se entiende por acto de naturaleza sexual los tocamientos, caricias, ademanes simulando algún aspecto sexual, roces corporales, exhibiciones o representaciones sexuales explícitas.
 
-Se entenderá por actos lascivos los tocamientos, manoseos corporales obscenos, o los que representen actos explícitamente sexuales u obliguen a la víctima a observar un acto sexual, o a exhibir su cuerpo sin su consentimiento.
+No se considera que existe consentimiento cuando la voluntad de la persona haya sido anulada o viciada por violencia física o moral, intimidación, engaño, chantaje, amenaza, grado de ignorancia de la víctima, medie jerarquía de autoridad del agente o haya situación de vulnerabilidad de la víctima, cual sea el ámbito de este.
 
-> <small>(ADICIONADO, D.O. 12 DE ENERO DE 2024)</small>
+El consentimiento no podrá presumirse del silencio, la pasividad o la falta de resistencia física de la víctima.
 
-La pena prevista en el párrafo inmediato anterior, se aumentará al doble; si la acción fuera realizada en lugares y espacios públicos, instituciones gubernamentales, establecimientos comerciales, transporte público de personas pasajeras, transporte privado de personas pasajeras y/o en vehículos que brinden servicio contratado a través de plataformas tecnológicas.
+A quien cometa este delito se le impondrá una sanción de seis a diez años de prisión y multa de trescientas a dos mil quinientas veces el valor de la Unidad de Medida y Actualización.
+
+Asimismo, se impondrá la obligación de acudir a talleres reeducativos con perspectiva de género y no violencia contra las mujeres y/o prestar servicio social en favor del Estado o de instituciones de beneficencia pública a fin de favorecer medidas de no repetición y promover un cambio cultural a favor de la igualdad sustantiva entre mujeres y hombres.
+
+Este delito se perseguirá por querella, salvo lo previsto en el penúltimo párrafo del presente artículo.
+
+Las penas previstas en este artículo se aumentarán en una mitad tanto en su mínimo como en su máximo cuando el delito se cometa en cualquiera de las siguientes circunstancias:
+
+I.- Con violencia física, psicológica o moral;
+
+II.- Cuando se cometa por dos o más personas;
+
+III.- En un lugar despoblado, solitario o poco accesible;
+
+IV.- Cuando exista o haya existido entre el agresor y la víctima una relación de confianza, sentimental, de parentesco por consanguinidad o afinidad, laboral, educativa, docente, de formación deportiva, artística o religiosa;
+
+V.- Cuando se realice por persona que tenga a la víctima bajo su responsabilidad la custodia, guarda, tutela, cuidado o dependencia económica;
+
+VI.- Cuando se realice por persona servidora pública aprovechando su empleo, cargo o comisión. En este caso, además de la pena de prisión, la persona agresora será destituida del cargo, empleo o comisión e inhabilitada para el ejercicio de servicio público por un plazo igual al de la pena privativa de la libertad sin perjuicio de otras sanciones administrativas o civiles que correspondan;
+
+VII.- Cuando se realice por profesionista aprovechando su empleo, cargo o comisión. En este caso, además de la pena de prisión, la persona agresora será inhabilitada para el ejercicio de la profesión por un plazo igual al de la pena privativa de la libertad sin perjuicio de otras sanciones administrativas o civiles que correspondan;
+
+VIII.- Cuando se realice por ministro de culto aprovechando su cargo, función o comisión, y/o mediante engaños en razón de la creencia religiosa;
+
+IX.- Cuando la víctima, ya sea por sí misma o inducida por el sujeto activo, se encuentre bajo los efectos de alcohol, fármacos, narcóticos u otras sustancias que afecten su voluntad o discernimiento;
+
+X.- Cuando la víctima se encuentre en estado de embarazo o puerperio.
+
+XI.- Cuando se cometa contra personas por su orientación sexual, identidad de género o expresión de género.
+
+XII.- Cuando la víctima se encuentre en estado de indefensión;
+
+XIII.- Cuando exista grado de superioridad en fuerza entre el sujeto activo y la víctima;
+
+XIV.- Cuando la acción se derive previamente del acoso sexual o del acecho.
+
+Cuando se actualicen los supuestos de las fracciones I, II, III, IV, V, VI, VIII, IX, X, XI, XII y XIII, el delito será perseguido de oficio.
+
+Adicional a las sanciones establecidas en este artículo, se impondrá al sujeto activo el cumplimiento de la reparación integral del daño, así como aquellas medidas establecidas en la Ley de Víctimas del Estado de Yucatán.
 
 > <small>(REFORMADO, D.O. 21 DE ABRIL DE 2023)</small>
 
@@ -5041,25 +5093,35 @@ XIII.- La situación de vulnerabilidad en la que se encontraba la víctima al mo
 
 XIV.- Cuando la víctima se encuentre embarazada.
 
-> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+> <small>(REFORMADO, D.O. 11 DE FEBRERO DE 2026)</small>
 
-A quien cometa el delito de feminicidio se le impondrán de treinta y dos a cuarenta y cinco años de prisión y de mil quinientos a dos mil quinientos días- multa.
+A quien cometa el delito de feminicidio se le impondrán de treinta y cinco a cincuenta y cinco años de prisión y de mil quinientos a dos mil quinientos días-multa.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 3 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], D.O. 11 DE FEBRERO DE 2026)</small>
 
-Las penas previstas se incrementarán hasta en una tercera parte en su mínimo y máximo si el delito fuere cometido previa suministración de estupefacientes o psicotrópicos para causar la inconsciencia de la víctima.
+La pena se agravará hasta en una tercera parte de su mínimo y máximo, cuando concurra cualquiera de las siguientes circunstancias:
 
-> <small>(REFORMADO, D.O. 3 DE AGOSTO DE 2021)</small>
+a) Cuando el sujeto activo haya obligado a la víctima a ejercer la prostitución o haya ejercido actos de explotación o trata de personas con agravio a la víctima;
 
-Si entre el sujeto activo y la víctima existió una relación de parentesco por consanguinidad en línea recta, sin limitación de grado, o colateral hasta el cuarto grado o por afinidad hasta el cuarto grado; laboral, docente, sentimental o cualquier otra que implique confianza, subordinación o superioridad, se impondrá una pena de prisión de cincuenta a sesenta y cinco años y de mil a mil quinientos días multa.
+b) Cuando el sujeto activo sea o haya sido servidor público y cometa el delito en ejercicio de sus funciones o valiéndose de esta calidad. Tratándose de personal de instituciones de seguridad pública, del ejército, de las fuerzas armadas de la Guardia Nacional o relacionadas con funciones de procuración o impartición de justicia, deberá considerarse como una conducta altamente gravosa por su lesividad social;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 3 DE AGOSTO DE 2021)</small>
+c) Cuando el sujeto activo, con motivo de su cargo, encargo o situación personal, tenga la obligación o el deber de cuidado sobre la víctima;
 
-Si la víctima fuera menor de dieciocho años, se impondrá una pena de prisión de cincuenta a sesenta años, y de dos mil a tres mil días-multa.
+d) El sujeto activo se haya valido de su oficio como conductor de un vehículo de transporte de pasajeros o de turismo, público o privado, para la comisión del delito;
 
-> <small>(REFORMADO, D.O. 31 DE JULIO DE 2024)</small>
+e) Si el delito fuere cometido previa suministración de estupefacientes o psicotrópicos para causar la inconsciencia de la víctima.
 
-Además de las sanciones descritas en este artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio. Asimismo, en el caso de que tenga hijas o hijos con la víctima, el sujeto activo en su caso, perderá sobre ellas o ellos los derechos de familia correspondientes a la patria potestad, tutela, guarda y custodia, régimen de visitas y convivencias, y el derecho de alimentos que, en su caso, le correspondiere; lo mismo aplicará en caso de tentativa. Operará la suspensión de la patria potestad desde el momento del auto de vinculación a proceso por el delito de feminicidio o su tentativa en contra de la madre de las niñas, niños o adolescentes sujetos a la patria potestad.
+> <small>(REFORMADO, D.O. 11 DE FEBRERO DE 2026)</small>
+
+Si entre el sujeto activo y la víctima existió una relación de parentesco por consanguinidad en línea recta, sin limitación de grado, o colateral hasta el cuarto grado o por afinidad hasta el cuarto grado; laboral, docente, sentimental o cualquier otra que implique confianza, subordinación o superioridad, se impondrá una pena de prisión de cincuenta a setenta años y de mil a mil quinientos días multa.
+
+> <small>(REFORMADO, D.O. 11 DE FEBRERO DE 2026)</small>
+
+Si la víctima fuera menor de dieciocho años, se impondrá una pena de prisión de cincuenta a sesenta y cinco años, y de dos mil a tres mil días-multa.
+
+> <small>(REFORMADO, D.O. 11 DE FEBRERO DE 2026)</small>
+
+Además de las sanciones descritas en este artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio. Adicionalmente, el sujeto activo será condenado a la pérdida de la patria potestad, en el caso de que tenga hijas o hijos con la víctima y se ordenará a las autoridades competentes la protección, prestación de servicios de ayuda inmediata, asistencia, atención y reparación integral del daño de las niñas, niños y adolescentes que hubiesen quedado en situación de orfandad por feminicidio o que hubieren presenciado este delito. Operará la suspensión de la patria potestad desde el momento del auto de vinculación a proceso por el delito de feminicidio o su tentativa en contra de la madre de las niñas, niños o adolescentes sujetos a la patria potestad.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 3 DE AGOSTO DE 2021)</small>
 
@@ -5080,6 +5142,14 @@ La tentativa de delito de feminicidio se sancionará con pena de prisión de ent
 > <small>(REFORMADO, D.O. 19 DE JUNIO DE 2017)</small>
 
 Las autoridades investigadoras competentes, cuando se encuentren ante un probable delito de feminicidio deberán aplicar el protocolo correspondiente a dicho delito; en caso de que no se acredite el feminicidio, se aplicarán las reglas del homicidio.
+
+> <small>(ADICIONADO, D.O. 11 DE FEBRERO DE 2026)</small>
+
+Todas las muertes violentas de mujeres deberán investigarse como probable feminicidio y con perspectiva de género, de conformidad con el protocolo especializado aplicable. Tratándose de niñas o adolescentes, deberá considerarse, además, la perspectiva de niñez.
+
+> <small>(ADICIONADO, D.O. 11 DE FEBRERO DE 2026)</small>
+
+A la persona servidora pública que, tratándose de la muerte violenta de una mujer, omita iniciar la investigación como probable feminicidio, filtre información, fotos, videos o evidencias de la investigación, retarde, obstaculice o entorpezca maliciosamente o por negligencia la procuración o administración de justicia, se le impondrá una pena de cinco a ocho años de prisión y de quinientos a mil quinientos días multa. Además, será destituida e inhabilitada de cinco a diez años para desempeñar otro empleo, cargo o comisión públicos.
 
 > <small>(ADICIONADO, D.O. 7 DE JUNIO DE 2022)</small>
 
@@ -6294,3 +6364,21 @@ Artículo cuarto. La Fiscalía General del Estado de Yucatán en un plazo no may
 Hasta en tanto entre en funciones la citada Unidad Especializada prevista en el párrafo anterior, los casos de este delito serán atendidos por la vicefiscalía, agencia o unidad cuya materia sea la atención del delito de Privación Ilegal de la Libertad y otras Garantías o, en su caso, conductas relacionadas al secuestro en términos de la Ley de la Fiscalía General del Estado de Yucatán y su reglamento.
 
 La Fiscalía General del Estado de Yucatán deberá realizar los ajustes financieros al presupuesto correspondiente al ejercicio fiscal 2025 y, en su caso, al asignado para el ejercicio fiscal 2026 para dar cumplimiento a lo ordenado en el presente decreto.
+
+D.O. 11 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 163/2026 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE FEMINICIDIO, LEGÍTIMA DEFENSA Y ABUSO SEXUAL QUE GARANTIZAN EL AVANCE SUSTANCIAL E INSTITUCIONAL DE LA DEFENSA DE LOS DERECHOS DE LAS MUJERES”.]
+
+Entrada en vigor
+
+Artículo primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado.
+
+Asuntos en trámite
+
+Artículo segundo. En los procesos pendientes relativos a los delitos de Feminicidio y Abuso Sexual que hace referencia el presente decreto, al dictarse sentencia en primera y segunda instancia, a partir de la entrada en vigor de este Decreto, el órgano jurisdiccional, podrá aplicar el tipo penal en beneficio de la persona a sentenciar, si fuera el caso, de conformidad con la conducta delictiva de la que se trate, sus modalidades o agravantes que se hayan acreditado. Tratándose de persona sentenciada, el juez de ejecución podrá considerar la revisión de las penas que se hayan impuesto para efectuar siempre que la conducta, modalidades o agravantes procedan y resultase en su beneficio.
+
+Los procedimientos penales en materia de feminicidio y abuso sexual, iniciados antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia del mismo.
+
+Para el caso de la reforma en materia de legítima defensa a los artículos 21 y 22 del presente decreto, el órgano jurisdiccional deberá observar su contenido para, si fuera el caso, aplicarla como causa de exclusión del delito en términos de lo dispuesto en el Capítulo VII del Código Penal del Estado de Yucatán tanto para dictarse sentencia en primera y segunda instancia, como para la revisión por parte del juez de ejecución en aquellas personas que hayan sido sentenciados (sic).
+
+Las previsiones en este artículo transitorio se realizan en plena observancia al Principio de Irretroactividad de la Ley en materia penal.
