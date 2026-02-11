@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2025-12-26"
+last_updated: "2026-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -1909,7 +1909,7 @@ Este delito se perseguirá por querella de parte.
 
 ### CAPÍTULO IV. ABUSO SEXUAL
 
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 167.
 
@@ -1937,41 +1937,57 @@ El delito previsto en este artículo será perseguido por querella de parte.
 
 ###### Artículo 168.
 
-A quien sin consentimiento de una persona ejecute en ella o la obligue a ejecutar un acto con fines sexuales o lascivos sin llegar a la cópula o a observar cualquier acto sexual o de lascivia, se le impondrán de seis meses a dos años de prisión y multa de cien a trescientas Unidades de Medida y Actualización.
+Comete el delito de abuso sexual quien, sin el consentimiento de la víctima y sin el propósito de llegar a la cópula, ejecute en ella, en el ámbito público o privado, cualquier acto de naturaleza sexual, la obligue a observarlo, o la haga ejecutarlo sobre sí, para un tercero o para el propio sujeto activo. También se considera abuso sexual cuando se obligue a la víctima a exhibir su cuerpo con fines de naturaleza sexual.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2024)</small>
+Se entiende por acto sexual los tocamientos, caricias, roces corporales, exhibiciones o representaciones sexuales explicitas.
+
+Para los efectos del presente artículo no se considera consentimiento cuando la voluntad de la persona haya sido anulada o viciada por violencia, intimidación, engaño, amenaza, abuso de confianza, abuso de poder, autoridad o situación de vulnerabilidad.
+
+El consentimiento no podrá presumirse del silencio, la pasividad o de la falta de resistencia física de la víctima.
+
+A quien cometa este delito se le impondrá una sanción de tres a siete años de prisión y multa de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización.
+
+Así mismo, la autoridad judicial podrá imponer, como medidas complementarias orientadas a la reinserción social y a la no repetición, la obligación de acudir a programas reeducativos con perspectiva de género y derechos humanos, con enfoque en la no violencia contra las mujeres y/o prestar servicio social en favor del Estado o de instituciones de beneficencia pública, atendiendo a las circunstancias particulares del caso.
+
+Este delito se perseguirá de oficio.
+
+Adicional a las sanciones establecidas en este artículo, se impondrá al sujeto activo la obligación del cumplimiento de reparar integralmente el daño, de conformidad con la Ley General de Víctimas, la atención psicológica especializada para la víctima, hasta su total recuperación.
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 169.
 
-En el caso del artículo anterior, se impondrán de dos a cinco años de prisión y multa de doscientas a cuatrocientas Unidades Diarias de Medida y Actualización en cualquiera de los siguientes casos:
+Las penas previstas en el artículo anterior, se aumentarán en una tercera parte cuando el delito se cometa en cualquiera de las siguientes circunstancias:
 
-I.- Se hiciera uso de violencia física o psicológica;
+I. Se hiciere uso de violencia física, psicológica o moral;
 
-II.- Sea cometido por dos o más personas;
+II. Sea cometido por dos o más personas;
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2016)</small>
+III. Sea cometido en un lugar despoblado, solitario o poco accesible;
 
-III.- Si existe relación de autoridad, de parentesco o de amistad, entre el agente y la víctima o aquel aproveche para su comisión los medios o circunstancias del empleo, cargo o comisión, profesión u oficio que ejerza, o sea servidor público o ministro de algún culto o se haya ostentado como tal. Además, en su caso, a juicio de la autoridad judicial, se le impondrá al agente suspensión, destitución e inhabilitación del empleo, cargo o comisión, profesión u oficio, por un tiempo igual al de la sanción de prisión:
+IV. Cuando exista o haya existido entre el agresor y la víctima una relación de confianza, sentimental, de parentesco por consanguinidad o afinidad, laboral, educativa, docente, de formación deportiva, artística o religiosa;
 
-IV.- Se hubiera administrado a la víctima alguna sustancia tóxica que afecte su comportamiento.
+V. Cuando se realice por persona que tenga a la víctima bajo su custodia, guarda, tutela, cuidado o dependencia económica;
 
-V. (DEROGADA, P.O. 26 DE JULIO DE 2022).
+VI. Cuando se realice por persona servidora pública aprovechando su empleo, cargo o comisión. En este caso, además de la pena de prisión, la persona agresora será destituida del cargo, empleo o comisión e inhabilitada para el ejercicio de servicio público por un plazo igual al de la pena privativa de la libertad sin perjuicio de otras sanciones administrativas o civiles que correspondan;
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2019)</small>
+VII. Cuando se realice por profesionista aprovechando su empleo, cargo o comisión. En este caso, además de la pena de prisión, la persona agresora será inhabilitada para el ejercicio de la profesión por un plazo igual al de la pena privativa de la libertad sin perjuicio de otras sanciones administrativas o civiles que correspondan;
 
-En los supuestos precedentes este delito se perseguirá por querella de parte.
+VIII. Cuando se realice por ministro de culto aprovechando su cargo, función o comisión;
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2022)</small>
+IX. Cuando la víctima se encuentre bajo los efectos de alcohol, fármacos, narcóticos u otras sustancias que afecten su voluntad o discernimiento;
+
+X. Cuando la víctima se encuentre en estado de embarazo o puerperio;
+
+XI. Cuando se cometa contra personas por su orientación sexual, identidad de género o expresión de género; y
+
+XII. Cuando la víctima se encuentre en estado de indefensión.
 
 A quien cometa el delito de abuso sexual en una niña, niño o adolescente; con alguna discapacidad o, en persona que por sus condiciones físicas o mentales no tenga la capacidad de comprender el significado del hecho, aun con su consentimiento, o que por cualquier causa no pueda resistirlo o la obligue a ejecutarlo en sí o en otra persona, se le impondrá una pena de seis a trece años de prisión y multa de trescientas a quinientas Unidades de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2022)</small>
+Dicha penalidad podrá aumentarse hasta en una mitad, si se hiciera uso de violencia en la niña, niño o adolescente; con alguna discapacidad o, en persona que por sus condiciones físicas o mentales no tenga la capacidad de comprender el significado del hecho, o exista una relación sentimental entre el sujeto activo y la víctima, o cuando el agresor aproveche su posición de autoridad, o se encuentre ejerciendo la patria potestad, tutela o curatela; en estos casos, la autoridad judicial podrá decretar, mediante resolución, medidas de protección tales como suspensión de la convivencia, la pérdida o limitación de la patria potestad, tutela o custodia, así como la destitución o inhabilitación cuando el agresor se haya valido de su cargo o función.
 
-Dicha penalidad se aumentará en una mitad en su mínimo y en su máximo, si se hiciera uso de violencia en la niña, niño o adolescente; con alguna discapacidad o, en persona que por sus condiciones físicas o mentales no tenga la capacidad de comprender el significado del hecho, o exista una relación sentimental entre el sujeto activo y la víctima, o cuando el agresor aproveche su posición de autoridad, o se encuentre ejerciendo la patria potestad, tutela o curatela, se fijará de manera expresa y obligatoria la suspensión de la convivencia entre la víctima y su agresor, y a éste se le destituirá del cargo o comisión de los que pudo valerse, así como la pérdida de la patria potestad, tutela o curatela que estuviere ejerciendo sobre la víctima.
-
-> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2019)</small>
-
-En los casos señalados en los dos párrafos anteriores se procederá de oficio.
+En los supuestos previstos y en los casos señalados en los dos párrafos anteriores este delito se perseguirá de oficio.
 
 ### CAPÍTULO I. AMENAZAS
 
@@ -5594,3 +5610,13 @@ P.O. 26 DE DICIEMBRE DE 2025.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 11 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 195 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 168 Y 169 DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, continuarán su trámite de conformidad con las disposiciones vigentes en el momento de la comisión de los hechos que les dieron origen.
+
+Tercero.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
