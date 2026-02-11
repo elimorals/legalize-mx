@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-para-el-estado-de-campeche-61533"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-13"
-last_updated: "2025-11-28"
+last_updated: "2026-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE SALUD PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 13 de mayo de 2008.
 
@@ -748,6 +748,16 @@ I. Actividades, políticas y programas integrales enfocados a la educación y ca
 II. Los servicios de planificación familiar y anticoncepción necesarios, los cuales tendrán como propósito reducir el índice de embarazos, mediante la prevención de aquellos no planeados y no deseados, así como disminuir el riesgo reproductivo, evitar la propagación de infecciones de trasmisión sexual y coadyuvar al pleno ejercicio de los derechos reproductivos con una visión de género, de respeto a la diversidad sexual y de conformidad a las características particulares de los diversos grupos poblacionales, especialmente para niñas y niños, adolescentes y jóvenes; y
 
 III. La información, difusión y orientación en materia de atención a la salud sexual y reproductiva, así como el suministro constante de todos aquellos métodos anticonceptivos cuya eficacia y seguridad estén acreditadas científicamente.
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2026)</small>
+
+###### Artículo 64 Ter.
+
+Las instituciones públicas, sociales y privadas que integren el sector salud deberán notificar de manera inmediata al Ministerio Público en los casos que tengan conocimiento de que una niña o adolescente se encuentre embarazada, haya dado luz (sic) o existan indicios de que una niña, niño o adolescente ha sido víctima de abuso o violencia sexual.
+
+La notificación no estará condicionada al consentimiento o autorización previa de madres, padres, tutores o personas cuidadoras, y deberá realizarse bajo un enfoque de protección reforzada, interés superior de la niñez, debida diligencia y máxima protección de derechos humanos.
+
+El Estado garantizará atención integral, inmediata y especializada a niñas, niños y adolescentes víctimas de abuso y/o violencia sexual, a través de la coordinación entre las autoridades competentes, en términos de las normas oficiales mexicanas emitidas en esa materia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2024)</small>
 
@@ -3078,3 +3088,17 @@ II. La celebración de convenios de colaboración con entidades del sector públ
 El programa deberá implementarse en un plazo no mayor a 60 días naturales posteriores a la entrada en vigor de los lineamientos a que se refiere el artículo transitorio segundo del presente decreto.
 
 CUARTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 11 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 198 POR EL QUE "SE ADICIONA EL ARTÍCULO 64 TER A LA LEY DE SALUD PARA EL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Poder Ejecutivo del Estado contará con un plazo no mayor a 90 días naturales para expedir un Protocolo Estatal de Atención Inmediata en casos de Violencia Sexual Infantil, el cual será obligatorio para las instituciones de salud, procuración de justicia y asistencia social, y deberá garantizar la actuación coordinada e interinstitucional, con enfoque de infancia, género y derechos humanos, el cual será supervisado y evaluado periódicamente por la autoridad competente.
+
+Asimismo, deberá realizar las adecuaciones reglamentarias correspondientes para dar cumplimiento a lo dispuesto en el presente decreto.
+
+TERCERO.- Las autoridades competentes deberán prever y garantizar suficiencia presupuestaria para la implementación progresiva de lo dispuesto en este decreto.
+
+CUARTO.- Se derogan todas las disposiciones legales de igual o menor jerarquía en lo que se opongan al contenido del presente decreto.
