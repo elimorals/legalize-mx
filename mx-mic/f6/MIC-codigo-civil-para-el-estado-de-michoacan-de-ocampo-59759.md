@@ -4,7 +4,7 @@ identifier: "MIC-codigo-civil-para-el-estado-de-michoacan-de-ocampo-59759"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-02-11"
-last_updated: "2023-11-30"
+last_updated: "2026-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59759&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO CIVIL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el lunes 11 de febrero de 2008.
 
@@ -3855,9 +3855,25 @@ Las líneas y grados de parentesco se arreglarán por las disposiciones respecti
 
 Si a la muerte de los padres quedaren sólo hijos, la herencia se dividirá entre todos por partes iguales.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 774.
 
-Cuando concurran descendientes con el cónyuge que sobreviva, a éste le corresponderá la porción de un hijo.
+Cuando concurran descendientes con el cónyuge que sobreviva, a este se le compensará prioritariamente hasta con el cincuenta por ciento del valor de los bienes que constituyan la herencia, y el porcentaje que resulte de la anterior deducción se repartirá entre los descendientes en partes iguales, siempre que:
+
+I. Hubieran estado casados bajo el régimen de separación de bienes;
+
+II. El cónyuge supérstite se haya dedicado durante el lapso en que duró el matrimonio, preponderantemente al desempeño del trabajo del hogar y, en su caso, al cuidado de los hijos; y,
+
+III. Durante el matrimonio el reclamante no haya adquirido bienes propios o habiéndolos adquirido, sean notoriamente menores a los del autor de la herencia:
+
+a) Si el cónyuge supérstite tiene bienes propios adquiridos durante el matrimonio de una cuantía igual o mayor al monto del caudal hereditario o el porcentaje para igualar el cincuenta por ciento a que se refiere este artículo es menor a lo que le corresponda a un hijo, tendrá el derecho a heredar conforme a lo correspondiente a un hijo;
+
+b) Lo mismo se observará si concurre con hijos adoptivos del autor de la herencia;
+
+c) El juez habrá de resolver atendiendo a las circunstancias especiales de cada caso.
+
+Para los efectos de este artículo se presumirá, salvo prueba en contrario, el estado de vulnerabilidad de la mujer y que ésta se ha dedicado durante el lapso en que duró el matrimonio, preponderantemente al desempeño del trabajo del hogar y, en su caso, al cuidado de los hijos.
 
 ###### Artículo 775.
 
@@ -3927,17 +3943,23 @@ Si el reconocimiento se hace después de que el descendiente haya adquirido bien
 
 ### CAPÍTULO IV. DE LA SUCESIÓN DEL CÓNYUGE
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 791.
 
-El cónyuge que sobrevive, concurriendo con descendientes, tendrá el derecho de un hijo, si carece de bienes o los que tiene al morir el autor de la sucesión, no igualan a la porción que a cada hijo debe corresponder. Lo mismo se observará si concurre con hijos adoptivos del autor de la herencia.
+El cónyuge que sobrevive, concurriendo con descendientes tendrá derecho a heredar en términos de lo dispuesto por el artículo 774 de este Código.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 792.
 
-En el primer caso del artículo anterior, el cónyuge recibirá íntegra la porción señalada; en el segundo, sólo tendrá derecho de recibir lo que baste para igualar sus bienes con la porción mencionada.
+Si el cónyuge supérstite carece de bienes propios al momento de la defunción del de cujus tendrá derecho a la mitad de los bienes, en caso de que tenga bienes de una cuantía menor al cincuenta por ciento del caudal hereditario, sólo tendrá derecho de recibir lo que baste para igualar la porción mencionada, siempre y cuando sea mayor lo correspondiente a lo de un hijo, en su defecto tendrá derecho a heredar en la misma proporción que un hijo.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 793.
 
-Si el cónyuge que sobrevive concurre con ascendientes, la herencia se dividirá en dos partes iguales, de las cuales una se aplicará al cónyuge y la otra a los ascendientes.
+Si el cónyuge que sobrevive concurre con ascendientes, le corresponderá cincuenta por ciento de total de la herencia él (sic) y otro cincuenta por ciento le corresponderá en partes iguales a los ascendientes.
 
 ###### Artículo 794.
 
@@ -3971,11 +3993,21 @@ A falta de los llamados en los artículos anteriores, sucederán los parientes m
 
 Al aplicar las disposiciones anteriores, se tendrá en cuenta lo que ordena el Capítulo siguiente.
 
-### CAPÍTULO VI. DE LA SUCESIÓN DE LA CONCUBINA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE FEBRERO DE 2026)</small>
+
+### CAPÍTULO VI. DE LA SUCESIÓN DEL CONCUBINATO Y DE LA SOCIEDAD DE CONVIVENCIA
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 800.
 
-La concubina y el concubinario tienen derecho a heredarse recíprocamente, aplicándose las disposiciones relativas a la sucesión del cónyuge, siempre que reúnan los requisitos a que refiere el Libro Primero, Título Quinto del Código Familiar para el Estado de Michoacán.
+La concubina y el concubinario tienen derecho a heredarse recíprocamente, aplicándose las disposiciones relativas a la sucesión del cónyuge, siempre que reúnan los requisitos a que refiere el Código Familiar para el Estado de Michoacán.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+###### Artículo 800 Bis.
+
+Si durante la vigencia de la Sociedad de Convivencia fallece alguno de sus integrantes y no existe disposición hereditaria del de cujus respecto de sus bienes se aplicarán las mismas reglas que para quienes se hayan unido en matrimonio o concubinato.
 
 ### CAPÍTULO VII. DE LA SUCESIÓN DEL FISCO DEL ESTADO
 
@@ -11016,3 +11048,11 @@ P.O. 30 DE NOVIEMBRE DE 2023.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación. Publíquese en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Notifíquese a los titulares de los poderes Ejecutivo y Judicial, a los 111 Ayuntamientos, al Concejo Comunal de Cherán y al Concejo Municipal de Penjamillo, todos del Estado de Michoacán de Ocampo, para sus efectos.
+
+P.O. 12 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 263.- ARTÍCULO PRIMERO.- SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 151 Y EL ARTÍCULO 258 BIS, AMBOS DEL CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE REFORMAN LOS ARTÍCULOS 774, 791, 792, 793, 800, LA DENOMINACIÓN DEL CAPÍTULO SEXTO DEL TÍTULO CUARTO Y SE ADICIONA UN ARTÍCULO 800 BIS DEL CÓDIGO CIVIL PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente a su publicación.
+
+SEGUNDO. Se derogan las disposiciones legales y administrativas en lo que se opongan al presente Decreto.
