@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-asociaciones-publico-privadas-para-el-estado-de-124672"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-01"
-last_updated: "2023-05-17"
+last_updated: "2026-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124672&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
 
 > <small>(F. DE E., P.O. DE 5 DE DICIEMBRE DE 2017)</small>
 
@@ -111,9 +111,13 @@ Lo anterior, siempre y cuando sus disposiciones no se contrapongan a la presente
 
 Las obligaciones y facultades que en el ámbito estatal otorga a sus autoridades esta Ley serán ejercidas, en el ámbito municipal, por las autoridades facultadas en términos de la normatividad orgánica aplicable.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 9.
 
-La Secretaría de Finanzas estará facultada para interpretar la presente Ley para efectos administrativos, para lo cual podrá requerir y considerar la opinión de la dependencia o entidad interesada. Tratándose de asuntos relacionados con el régimen de propiedad inmobiliaria estatal, avalúos y de responsabilidades de los servidores públicos, la interpretación de esta Ley corresponderá a la Contraloría Gubernamental del Estado.
+La Secretaría de Finanzas estará facultada para interpretar la presente Ley para efectos administrativos, para lo cual podrá requerir y considerar la opinión de la dependencia o entidad interesada.
+
+Tratándose de asuntos relacionados con el régimen de propiedad inmobiliaria estatal, avalúos y de responsabilidades de los servidores públicos, la interpretación de esta Ley corresponderá a la Secretaría Anticorrupción y Buen Gobierno del Estado.
 
 ###### Artículo 10.
 
@@ -149,7 +153,9 @@ X. Congreso: el Congreso del Estado Libre y Soberano de Tamaulipas;
 
 XI. Constitución: la Constitución Política del Estado de Tamaulipas;
 
-XII. Contraloría: la Contraloría Gubernamental del Estado de Tamaulipas;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+XII. Secretaría Anticorrupción y Buen Gobierno: la Secretaría Anticorrupción y Buen Gobierno del Estado de Tamaulipas;
 
 XIII. Contrato: el acuerdo de voluntades celebrado entre una entidad contratante y un desarrollador para crear o mejorar infraestructura o prestar servicios públicos a largo plazo, en virtud del cual, el desarrollador se obliga a prestar un servicio de largo plazo al sector público o a los usuarios finales a cambio de una contraprestación determinada, en función de la calidad del servicio prestado y del resultado alcanzado y para lo cual el desarrollador se obliga a diseñar, construir, renovar, suministrar, equipar, rehabilitar, operar, conservar o mantener ciertos activos, a proveer ciertos servicios auxiliares, y a invertir u obtener los recursos necesarios para ello;
 
@@ -671,7 +677,9 @@ II. Las personas condenadas, mediante sentencia firme dentro de los tres años i
 
 III. Aquellas a las que, por causas imputables a ellas mismas, alguna dependencia o entidad les hubiere rescindido administrativamente un contrato, dentro de los tres años calendario anteriores a la convocatoria;
 
-IV. Las que se encuentren inhabilitadas para ello por parte de la Contraloría, del órgano interno de control municipal o por cualquier otra autoridad estatal o federal;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+IV. Las que se encuentren inhabilitadas para ello por parte de la Secretaría Anticorrupción y Buen Gobierno, del órgano interno de control municipal o por cualquier otra autoridad estatal o federal;
 
 V. Las que por causas imputables a ellas mismas se encuentren en situación de mora en el cumplimiento de sus obligaciones en contratos celebrados con dependencias o entidades federales;
 
@@ -715,7 +723,9 @@ V. Los lugares, fechas y horarios en que los interesados podrán adquirir las ba
 
 VI. La descripción general del Proyecto, con indicación del servicio a prestar y, en su caso, de los activos que serán necesarios desarrollar para prestar el servicio y de los servicios auxiliares que requiera el mismo, así como las fechas estimadas para el inicio y conclusión del desarrollo de los activos necesarios y para el inicio del servicio objeto del Contrato.
 
-En el ejercicio de sus respectivas atribuciones, la Contraloría podrá intervenir en todo el proceso de adjudicación; en el caso de Proyectos Municipales los Ayuntamientos intervendrán de conformidad a las disposiciones de esta Ley.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+En el ejercicio de sus respectivas atribuciones, la Secretaría Anticorrupción y Buen Gobierno podrá intervenir en todo el proceso de adjudicación; en el caso de Proyectos Municipales los Ayuntamientos intervendrán de conformidad a las disposiciones de esta Ley.
 
 La adquisición de las bases será requisito indispensable para participar en el concurso.
 
@@ -1297,13 +1307,15 @@ Los pagos así realizados serán tomados en cuenta para determinar el monto del 
 
 #### Sección Primera. De la Supervisión.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 102.
 
-Las Entidades Contratantes deberán remitir a la Contraloría la información sobre los actos y contratos regulados en esta Ley que le sea solicitada. Para el caso de entidades municipales, dicha información se remitirá a sus órganos internos de control.
+Las Entidades Contratantes deberán remitir a la Secretaría Anticorrupción y Buen Gobierno la información sobre los actos y contratos regulados en esta Ley que le sea solicitada. Para el caso de entidades municipales, dicha información se remitirá a sus órganos internos de control.
 
-La Contraloría o, en su caso, el órgano interno de control municipal, verificarán en cualquier tiempo que los Proyectos se desarrollen conforme a lo establecido en esta Ley, en su Reglamento y en el Contrato correspondiente.
+La Secretaría Anticorrupción y Buen Gobierno o, en su caso, el órgano interno de control municipal, verificarán en cualquier tiempo que los Proyectos se desarrollen conforme a lo establecido en esta Ley, en su Reglamento y en el Contrato correspondiente.
 
-La Contraloría o el órgano interno de control municipal no serán responsables de supervisar los aspectos exclusivamente de naturaleza técnica de los proyectos. Estos aspectos serán analizados por la Secretaría o del (sic) Ayuntamiento según corresponda.
+La Secretaría Anticorrupción y Buen Gobierno o el órgano interno de control municipal no serán responsables de supervisar los aspectos exclusivamente de naturaleza técnica de los proyectos. Estos aspectos serán analizados por la Secretaría o del (sic) Ayuntamiento según corresponda.
 
 ###### Artículo 103.
 
@@ -1351,9 +1363,13 @@ La inhabilitación que la autoridad competente imponga no será menor a seis mes
 
 En el proceso para la aplicación de las sanciones a que se refiere este Capítulo, se observarán las reglas siguientes:
 
-I. La Dependencia o Entidad del Sector Público de que se trate, en la fecha en que tengan conocimiento de hechos que presumiblemente puedan dar lugar a una sanción o inhabilitación, informarán de ello a la Contraloría o el Órgano Interno de Control, en su caso, remitiendo la documentación comprobatoria de los mismos;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
-II. La Contraloría o el Órgano Interno de Control, en su caso, notificará al presunto infractor, para que dentro del término de diez días hábiles exponga lo que a su derecho convenga y ofrezca las pruebas que estime pertinente;
+I. La Dependencia o Entidad del Sector Público de que se trate, en la fecha en que tengan conocimiento de hechos que presumiblemente puedan dar lugar a una sanción o inhabilitación, informarán de ello a la Secretaría Anticorrupción y Buen Gobierno o el Órgano Interno de Control, en su caso, remitiendo la documentación comprobatoria de los mismos;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+II. La Secretaría Anticorrupción y Buen Gobierno o el Órgano Interno de Control, en su caso, notificará al presunto infractor, para que dentro del término de diez días hábiles exponga lo que a su derecho convenga y ofrezca las pruebas que estime pertinente;
 
 III. Transcurrido el término a que se refiere la fracción anterior, se procederá al desahogo de las pruebas aportadas en un término de diez días hábiles. Hecho lo anterior y dentro de los quince días hábiles siguientes se resolverá considerando los argumentos y pruebas que se hubieren hecho valer; y
 
@@ -1365,9 +1381,11 @@ La (sic) responsabilidades administrativas a que se refiere el presente capítul
 
 #### Sección Tercera. De las Controversias.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 110.
 
-En contra de las resoluciones que dicten la Contraloría o el Órgano Interno de Control en los términos de esta Ley, así como aquellas resoluciones emitidas por la Convocante que pongan fin a un procedimiento de adjudicación de contrato previsto en esta Ley, el interesado podrá interponer el recurso de revisión en los términos establecido (sic) en la Ley de Procedimiento Administrativo para el Estado de Tamaulipas.
+En contra de las resoluciones que dicten la Secretaría Anticorrupción y Buen Gobierno o el Órgano Interno de Control en los términos de esta Ley, así como aquellas resoluciones emitidas por la Convocante que pongan fin a un procedimiento de adjudicación de contrato previsto en esta Ley, el interesado podrá interponer el recurso de revisión en los términos establecido (sic) en la Ley de Procedimiento Administrativo para el Estado de Tamaulipas.
 
 ###### Artículo 111.
 
@@ -1375,11 +1393,17 @@ Las controversias que surjan con motivo de la aplicación o interpretación de l
 
 I. Las controversias de naturaleza técnica y económica podrán ser sometidas a un comité de expertos para su resolución, siempre y cuando las partes determinen en el Contrato la forma y los plazos para designar a los expertos en la materia que integrarán el comité y para la emisión del dictamen correspondiente, el cual será vinculante para las partes cuando sea aprobado por unanimidad y el comité esté integrado por al menos un experto designado por el Desarrollador y uno designado por la Entidad Contratante de conformidad con lo dispuesto por el Reglamento;
 
-II. Los Desarrolladores tendrán derecho a acudir ante la Contraloría a presentar quejas con motivo del incumplimiento de las obligaciones asumidas en los contratos por parte de la Entidad Contratante, a fin de iniciar el procedimiento de conciliación.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2026)</small>
 
-Una vez que la Contraloría o el órgano interno de control municipal reciba la queja, señalará día y hora para llevar a cabo la audiencia de conciliación y citará a las partes. Dicha audiencia se celebrará dentro de los quince días hábiles siguientes a la fecha de presentación de la queja. La asistencia será obligatoria para ambas partes, por lo que si el Desarrollador no asiste, se considerará que se desiste de la queja.
+II. Los Desarrolladores tendrán derecho a acudir ante la Secretaría Anticorrupción y Buen Gobierno a presentar quejas con motivo del incumplimiento de las obligaciones asumidas en los contratos por parte de la Entidad Contratante, a fin de iniciar el procedimiento de conciliación.
 
-En la audiencia de conciliación la Contraloría determinará los elementos comunes y los puntos de controversia y exhortará a las partes para conciliar sus intereses sin prejuzgar sobre el conflicto planteado. Cuando sea necesario, la audiencia se podrá realizar en varias sesiones. Sin embargo, el procedimiento deberá concluir en un plazo no mayor de treinta días hábiles contados a partir de la fecha en que se haya celebrado la primera sesión. De toda diligencia se levantará un acta circunstanciada en la que consten los resultados de las actuaciones.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+Una vez que la Secretaría Anticorrupción y Buen Gobierno o el órgano interno de control municipal reciba la queja, señalará día y hora para llevar a cabo la audiencia de conciliación y citará a las partes. Dicha audiencia se celebrará dentro de los quince días hábiles siguientes a la fecha de presentación de la queja. La asistencia será obligatoria para ambas partes, por lo que si el Desarrollador no asiste, se considerará que se desiste de la queja.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+En la audiencia de conciliación la Secretaría Anticorrupción y Buen Gobierno determinará los elementos comunes y los puntos de controversia y exhortará a las partes para conciliar sus intereses sin prejuzgar sobre el conflicto planteado. Cuando sea necesario, la audiencia se podrá realizar en varias sesiones. Sin embargo, el procedimiento deberá concluir en un plazo no mayor de treinta días hábiles contados a partir de la fecha en que se haya celebrado la primera sesión. De toda diligencia se levantará un acta circunstanciada en la que consten los resultados de las actuaciones.
 
 En caso de que las partes resuelvan las diferencias objeto de la conciliación, el convenio respectivo tendrá la misma fuerza y alcance legal que el contrato y será aplicable exclusivamente respecto de los puntos de controversia resueltos, y su cumplimiento podrá ser demandado por la vía judicial correspondiente;
 
@@ -1440,3 +1464,19 @@ P.O. 17 DE MAYO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-963 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES PARA LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS; DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE ARCHIVOS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS; DE LA LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE CONCILIACIÓN Y ARBITRAJE MÉDICO PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE TAMAULIPAS; DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS; DE LA LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS; DE LA LEY PARA LA ENTREGA-RECEPCIÓN DE LOS RECURSOS ASIGNADOS A LOS PODERES, ÓRGANOS Y AYUNTAMIENTOS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE GASTO PÚBLICO; DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE IGUALDAD DE GÉNERO EN TAMAULIPAS; DE LA LEY DEL INSTITUTO DE PREVISIÓN Y SEGURIDAD SOCIAL DEL ESTADO DE TAMAULIPAS; DE LA LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO; DE LA LEY ESTATAL DE PLANEACIÓN; DE LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS; DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN SOCIOECONÓMICA DE LAS VIOLENCIAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE TAMAULIPAS; DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Tribunal de Justicia Administrativa del Estado de Tamaulipas, a través de su Órgano Interno de Control, y con base en su capacidad presupuesta! (sic), deberá realizar las adecuaciones necesarias a su reglamento interior en un plazo no mayor a treinta días naturales contados a partir de la entrada en vigor del presente Decreto, con el fin de garantizar en el ámbito de su competencia, el ejercicio de los derechos de acceso a la información pública y de protección de datos personales, conforme a los principios y bases establecidos por los artículos 6o de la Constitución Política de los Estados Unidos Mexicanos; 17, fracción V, de la Constitución Política del Estado de Tamaulipas, así como por lo previsto en la legislación aplicable.
+
+###### ARTÍCULO TERCERO.
+
+En las disposiciones transitorias de las diversas leyes y códigos en las que se haga referencia a la Contraloría Gubernamental, se entenderá la Secretaría Anticorrupción y Buen Gobierno.
