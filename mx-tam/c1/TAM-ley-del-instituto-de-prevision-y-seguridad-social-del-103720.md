@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-instituto-de-prevision-y-seguridad-social-del-103720"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-26"
-last_updated: "2025-12-20"
+last_updated: "2026-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DEL INSTITUTO DE PREVISIÓN Y SEGURIDAD SOCIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 26 de noviembre de 2014.
 
@@ -267,9 +267,9 @@ XIV.- Junta de Gobierno: el Órgano a cargo del gobierno del Instituto, integrad
 
 XV.- Ley: el presente ordenamiento, que regula la operación del régimen de seguridad social que otorga el Instituto;
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
-XVI.- Órgano de Vigilancia: la persona designada como Comisaria o Comisario por la Secretaría Anticorrupción y Buen Gobierno, quien evaluará el desempeño general y por funciones del Instituto;
+XVI.- Órgano de Vigilancia: El Comisario designado por la Secretaría Anticorrupción y Buen Gobierno, quien evaluará el desempeño general y por funciones del Instituto;
 
 XVII.- Pensión: el pago mensual que recibe el pensionado o pensionista, por virtud de los requisitos de cada tipo de pensión establecidos en la presente Ley, pudiendo ser ésta temporal o vitalicia;
 
@@ -1523,9 +1523,7 @@ VII.- Dos representantes de la Sección 30 del Sindicato Nacional de Trabajadore
 
 2. El titular de la Dirección General fungirá como Secretario Técnico de la Junta de Gobierno y asistirá a sus sesiones con voz.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2025)</small>
-
-3. También participará en las sesiones de la Junta de Gobierno el titular del Órgano de Vigilancia ante el Instituto, quien tendrá voz.
+3. (DEROGADO, P.O. 12 DE FEBRERO DE 2026)
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2025)</small>
 
@@ -1587,9 +1585,9 @@ XIII.- Las demás que le confieran los ordenamientos aplicables.
 
 ###### ARTÍCULO 118.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
 
-1. El Órgano de Vigilancia del Instituto, estará integrado por una persona Comisaria o Comisario que será designada por la Secretaría Anticorrupción y Buen Gobierno, quien evaluará el desempeño general y por funciones del Instituto.
+1. El Órgano de Vigilancia del Instituto, estará integrado por un Comisario que será designado por la persona titular de la Secretaría Anticorrupción y Buen Gobierno, quien evaluará el desempeño general y por funciones del Instituto.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2025)</small>
 
@@ -2785,23 +2783,21 @@ Hombres Mujeres
 
 30 o más 100.00% 100.00%
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 58.- SE REFORMAN, ADICIONAN Y DEROGAN DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES Y ADICIÓN A LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES".]
+P.O. 12 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-963 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES PARA LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS; DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE ARCHIVOS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS; DE LA LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE CONCILIACIÓN Y ARBITRAJE MÉDICO PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE TAMAULIPAS; DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS; DE LA LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS; DE LA LEY PARA LA ENTREGA-RECEPCIÓN DE LOS RECURSOS ASIGNADOS A LOS PODERES, ÓRGANOS Y AYUNTAMIENTOS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE GASTO PÚBLICO; DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE IGUALDAD DE GÉNERO EN TAMAULIPAS; DE LA LEY DEL INSTITUTO DE PREVISIÓN Y SEGURIDAD SOCIAL DEL ESTADO DE TAMAULIPAS; DE LA LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO; DE LA LEY ESTATAL DE PLANEACIÓN; DE LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS; DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN SOCIOECONÓMICA DE LAS VIOLENCIAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE TAMAULIPAS; DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 ###### ARTÍCULO SEGUNDO.
 
-Cualquier referencia hecha a la SEPLAPDE en otros ordenamientos legales se entenderá hecha a la Secretaría de Planeación, Participación y Desarrollo del Estado de Aguascalientes (SEPLADE).
+El Tribunal de Justicia Administrativa del Estado de Tamaulipas, a través de su Órgano Interno de Control, y con base en su capacidad presupuesta! (sic), deberá realizar las adecuaciones necesarias a su reglamento interior en un plazo no mayor a treinta días naturales contados a partir de la entrada en vigor del presente Decreto, con el fin de garantizar en el ámbito de su competencia, el ejercicio de los derechos de acceso a la información pública y de protección de datos personales, conforme a los principios y bases establecidos por los artículos 6o de la Constitución Política de los Estados Unidos Mexicanos; 17, fracción V, de la Constitución Política del Estado de Tamaulipas, así como por lo previsto en la legislación aplicable.
 
-P.O. 2 DE ENERO DE 2023.
+###### ARTÍCULO TERCERO.
 
-###### ARTICULO TERCERO.
-
-Dentro de las 60 días siguientes a la publicación del presente decreto se deberán realizar las modificaciones correspondientes al Reglamento de la Ley de Movilidad del Estado de Aguascalientes.
-
-P.O. 15 DE MAYO DE 2023.
+En las disposiciones transitorias de las diversas leyes y códigos en las que se haga referencia a la Contraloría Gubernamental, se entenderá la Secretaría Anticorrupción y Buen Gobierno.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 102.- SE REFORMA EL PÁRRAFO SEGUNDO Y SE ADICIONA EL TERCER PÁRRAFO AL ARTÍCULO 227 DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES”.]
 
