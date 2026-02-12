@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-archivos-para-el-estado-de-tamaulipas-175436"
 country: "mx"
 rank: "ley"
 publication_date: "2024-12-21"
-last_updated: "2024-12-21"
+last_updated: "2026-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE ARCHIVOS PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
 
 Ley publicada en Número 42 Extraordinario del Periódico Oficial del Estado de Tamaulipas, el sábado 21 de diciembre de 2024.
 
@@ -797,15 +797,19 @@ El Sistema Estatal se coordinará con el Sistema Nacional en un marco de respeto
 
 ### CAPÍTULO II. DEL CONSEJO ESTATAL DE ARCHIVOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 64.
 
-Los representantes referidos en las fracciones V, VI y VII de este artículo serán designados en los términos que disponga la normativa de los órganos a que pertenecen.
+Los representantes referidos en las fracciones V y VI de este artículo serán designados en los términos que disponga la normativa de los órganos a que pertenecen.
 
 I. La persona titular del Archivo General del Estado, quien lo presidirá;
 
 II. La persona titular de la Secretaría General de Gobierno;
 
-III. La persona titular de la Contraloría Gubernamental;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+III. La persona titular de la Secretaría Anticorrupción y Buen Gobierno;
 
 IV. La persona titular de la Secretaría de Bienestar Social;
 
@@ -813,7 +817,7 @@ V. Una persona representante del Poder Legislativo del Estado;
 
 VI. Una persona representante del Poder Judicial del Estado;
 
-VII. Una Comisionada o Comisionado del Instituto de Transparencia;
+VII. (DEROGADA, P.O. 12 DE FEBRERO DE 2026)
 
 VIII. La persona titular de la Auditoría Superior del Estado;
 
@@ -829,9 +833,13 @@ La designación de la representación de los archivos privados referidos en la f
 
 La persona que presida o, a propuesta de las personas integrantes del Consejo Estatal, podrá invitar a las sesiones de éste a las personas que considere pertinentes, según la naturaleza de los asuntos a tratar, quienes intervendrán con voz, pero sin voto.
 
-Serán invitados permanentes del Consejo Estatal con voz, pero sin voto, los órganos a los que la Constitución Estatal reconoce autonomía, distintos a los referidos en las fracciones VII y VIII del presente artículo, quienes designaran un representante.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
 
-Las personas integrantes del consejo en sus ausencias podrán nombrar suplente ante el Consejo Estatal, el cual deberá tener, en su caso, la jerarquía inmediata inferior a la del titular. En el caso de las personas representantes referidas en las fracciones V, VI y VII las suplencias deberán ser cubiertas por la persona nombrada para ese efecto, de acuerdo con su normativa interna.
+Serán invitados permanentes del Consejo Estatal con voz, pero sin voto, los órganos a los que la Constitución Estatal reconoce autonomía, distintos a los referidos en la fracción VIII del presente artículo, quienes designarán un representante.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+Las personas integrantes del consejo en sus ausencias podrán nombrar suplente ante el Consejo Estatal, el cual deberá tener, en su caso, la jerarquía inmediata inferior a la del titular. En el caso de las personas representantes referidas en las fracciones V y VI las suplencias deberán ser cubiertas por la persona nombrada para ese efecto, de acuerdo con su normativa interna.
 
 Las personas integrantes del Consejo Estatal no recibirán remuneración alguna por su participación.
 
@@ -1197,7 +1205,7 @@ II. La Secretaría de Finanzas;
 
 III. La Secretaría de Educación Pública;
 
-IV. La Contraloría Gubernamental;
+IV. (DEROGADA, P.O. 12 DE FEBRERO DE 2026)
 
 V. El Instituto Tamaulipeco para la Cultura y las Artes; y
 
@@ -1420,3 +1428,21 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los once días del mes de diciembre del año dos mil veinticuatro.
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS.- AMÉRICO VILLARREAL ANAYA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HÉCTOR JOEL VILLEGAS GONZÁLEZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 12 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-963 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES PARA LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS; DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE ARCHIVOS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS; DE LA LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE CONCILIACIÓN Y ARBITRAJE MÉDICO PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE TAMAULIPAS; DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS; DE LA LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS; DE LA LEY PARA LA ENTREGA-RECEPCIÓN DE LOS RECURSOS ASIGNADOS A LOS PODERES, ÓRGANOS Y AYUNTAMIENTOS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE GASTO PÚBLICO; DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE IGUALDAD DE GÉNERO EN TAMAULIPAS; DE LA LEY DEL INSTITUTO DE PREVISIÓN Y SEGURIDAD SOCIAL DEL ESTADO DE TAMAULIPAS; DE LA LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO; DE LA LEY ESTATAL DE PLANEACIÓN; DE LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS; DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN SOCIOECONÓMICA DE LAS VIOLENCIAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE TAMAULIPAS; DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Tribunal de Justicia Administrativa del Estado de Tamaulipas, a través de su Órgano Interno de Control, y con base en su capacidad presupuesta! (sic), deberá realizar las adecuaciones necesarias a su reglamento interior en un plazo no mayor a treinta días naturales contados a partir de la entrada en vigor del presente Decreto, con el fin de garantizar en el ámbito de su competencia, el ejercicio de los derechos de acceso a la información pública y de protección de datos personales, conforme a los principios y bases establecidos por los artículos 6o de la Constitución Política de los Estados Unidos Mexicanos; 17, fracción V, de la Constitución Política del Estado de Tamaulipas, así como por lo previsto en la legislación aplicable.
+
+###### ARTÍCULO TERCERO.
+
+En las disposiciones transitorias de las diversas leyes y códigos en las que se haga referencia a la Contraloría Gubernamental, se entenderá la Secretaría Anticorrupción y Buen Gobierno.
