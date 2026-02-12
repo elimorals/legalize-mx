@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-bienes-del-estado-y-municipios-de-tamaulipas-43189"
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-11"
-last_updated: "2021-12-21"
+last_updated: "2026-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 11 de enero de 2005.
 
@@ -53,9 +53,9 @@ La aplicación de esta ley corresponde:
 
 a) En los poderes Legislativo y Judicial, a los órganos que determinen sus respectivas leyes orgánicas y reglamentos;
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
 
-b) En el Poder Ejecutivo, a las Secretarías de: Finanzas; Educación; Bienestar Social; Administración y a la Contraloría Gubernamental;
+b) En el Poder Ejecutivo, a las Secretarías de: Finanzas; Educación; Bienestar Social; Administración y a la Secretaría Anticorrupción y Buen Gobierno;
 
 c) En los municipios, a los órganos que determine el Código Municipal, las leyes del Estado en materia municipal y sus reglamentos.
 
@@ -189,9 +189,11 @@ II. Ejercer el procedimiento administrativo de ejecución de créditos fiscales 
 
 III. Informar a la Secretaría de Administración de las adquisiciones inmobiliarias derivadas de los procedimientos de adjudicación, como resultado del procedimiento económico coactivo.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 10.
 
-Corresponde al Ejecutivo del Estado, por conducto de la Contraloría Gubernamental, y a los Ayuntamientos en el ámbito municipal, vigilar el cumplimiento de las disposiciones de la presente ley.
+Corresponde al Ejecutivo del Estado, por conducto de la Secretaría Anticorrupción y Buen Gobierno, y a los Ayuntamientos en el ámbito municipal, vigilar el cumplimiento de las disposiciones de la presente Ley.
 
 ###### Artículo 11.
 
@@ -649,7 +651,9 @@ En los sistemas de información inmobiliaria se deberán recopilar y mantener ac
 
 1. Los poderes Legislativo y Judicial, así como las dependencias y entidades estatales o municipales, así como las instituciones privadas que usen o tengan a su cuidado inmuebles de propiedad estatal o municipal, deberán proporcionar a la Secretaría de Administración o al Ayuntamiento respectivo, la información, datos y documentos que les sean requeridos sobre dicho patrimonio.
 
-2. En el Poder Ejecutivo, la Secretaría de Administración y la Contraloría Gubernamental, en el ámbito de sus respectivas atribuciones, vigilarán el exacto cumplimiento de las disposiciones contenidas en el presente capítulo.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+2. En el Poder Ejecutivo, la Secretaría de Administración y la Secretaría Anticorrupción y Buen Gobierno, en el ámbito de sus respectivas atribuciones, vigilarán el exacto cumplimiento de las disposiciones contenidas en el presente capítulo.
 
 ### CAPITULO NOVENO. DEL CONTROL ADMINISTRATIVO Y DEL REGIMEN DE BIENES INMUEBLES DEL DOMINIO PUBLICO Y DEL DOMINIO PRIVADO
 
@@ -856,3 +860,19 @@ P.O. 21 DE DICIEMBRE DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-963 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES PARA LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS; DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE ARCHIVOS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS; DE LA LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE CONCILIACIÓN Y ARBITRAJE MÉDICO PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE TAMAULIPAS; DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS; DE LA LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS; DE LA LEY PARA LA ENTREGA-RECEPCIÓN DE LOS RECURSOS ASIGNADOS A LOS PODERES, ÓRGANOS Y AYUNTAMIENTOS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE GASTO PÚBLICO; DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE IGUALDAD DE GÉNERO EN TAMAULIPAS; DE LA LEY DEL INSTITUTO DE PREVISIÓN Y SEGURIDAD SOCIAL DEL ESTADO DE TAMAULIPAS; DE LA LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO; DE LA LEY ESTATAL DE PLANEACIÓN; DE LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS; DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN SOCIOECONÓMICA DE LAS VIOLENCIAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE TAMAULIPAS; DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Tribunal de Justicia Administrativa del Estado de Tamaulipas, a través de su Órgano Interno de Control, y con base en su capacidad presupuesta! (sic), deberá realizar las adecuaciones necesarias a su reglamento interior en un plazo no mayor a treinta días naturales contados a partir de la entrada en vigor del presente Decreto, con el fin de garantizar en el ámbito de su competencia, el ejercicio de los derechos de acceso a la información pública y de protección de datos personales, conforme a los principios y bases establecidos por los artículos 6o de la Constitución Política de los Estados Unidos Mexicanos; 17, fracción V, de la Constitución Política del Estado de Tamaulipas, así como por lo previsto en la legislación aplicable.
+
+###### ARTÍCULO TERCERO.
+
+En las disposiciones transitorias de las diversas leyes y códigos en las que se haga referencia a la Contraloría Gubernamental, se entenderá la Secretaría Anticorrupción y Buen Gobierno.
