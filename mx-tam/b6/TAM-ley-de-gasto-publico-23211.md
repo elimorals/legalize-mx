@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-gasto-publico-23211"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-25"
-last_updated: "2025-12-16"
+last_updated: "2026-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE GASTO PÚBLICO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 25 de diciembre de 2001.
 
@@ -49,11 +49,11 @@ LEY DE GASTO PUBLICO
 
 El gasto público estatal es un instrumento jurídico de la administración pública que contiene la aplicación de los recursos públicos del Estado para el cumplimiento de las metas y objetivos del gobierno en apego a las disposiciones constitucionales y legales aplicables; el que se compone de las siguientes fases: planeación, programación, presupuestación, ejercicio y control, seguimiento, evaluación y rendición de cuentas; mismas que se norman y se regulan por las disposiciones previstas en la presente Ley, así como por la Ley General de Contabilidad Gubernamental, la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
 
 ###### ARTICULO 2°.
 
-La presente Ley será interpretada en el ámbito de su competencia, por la Secretaría de Finanzas, la Contraloría Gubernamental y por los órganos que determinen las leyes orgánicas de los Poderes Legislativo y Judicial del Estado y de los Organismos Autónomos.
+La presente Ley será interpretada en el ámbito de su competencia, por la Secretaría de Finanzas, la Secretaría Anticorrupción y Buen Gobierno y por los órganos que determinen las leyes orgánicas de los Poderes Legislativo y Judicial del Estado y de los Organismos Autónomos.
 
 > <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
 
@@ -107,9 +107,9 @@ X.- Bis.- Clasificación Programática: Establece la clasificación de los progr
 
 XI.- Coordinador de Sector: Es la dependencia que designa el Gobernador del Estado conforme a la Ley Orgánica de la Administración Pública del Estado, para coordinar la planeación, programación, presupuestación, ejercicio, evaluación y seguimiento del gasto de aquellas entidades que estén ubicadas en el sector bajo su coordinación;
 
-> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
-XII.- Contraloría: Contraloría Gubernamental;
+XII.- Secretaría Anticorrupción y Buen Gobierno: La Secretaría Anticorrupción y Buen Gobierno;
 
 > <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
@@ -393,11 +393,11 @@ El titular del Ejecutivo conducirá la planeación del desarrollo de la entidad,
 
 La Secretaría contribuirá a verificar periódicamente la relación que guarden los Programas Presupuestarios y presupuestos operados por la Administración Pública Estatal, así como los resultados de su ejecución, con los objetivos y prioridades del Plan Estatal de Desarrollo y sus programas, a fin de adoptar las medidas preventivas y correctivas que sean necesarias.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
 
 ###### ARTICULO 12.
 
-La Contraloría Gubernamental ejercerá el control, vigilancia e inspección del ejercicio del gasto, en congruencia con el Presupuesto de Egresos y la legislación aplicable.
+La Secretaría Anticorrupción y Buen Gobierno ejercerá el control, vigilancia e inspección del ejercicio del gasto, en congruencia con el Presupuesto de Egresos y la legislación aplicable.
 
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
 
@@ -923,15 +923,15 @@ Se entenderá por justificantes, las disposiciones y los documentos legales que 
 
 Se entenderán por comprobantes, los documentos debidamente requisitados que demuestren la entrega de la suma de dinero correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2026)</small>
 
 ###### ARTICULO 56.
 
-Los egresos y gastos derivados del ejercicio de la función o la representación, así como los comprobantes de los mismos, deberán sujetarse a los criterios y políticas de uso y destino que la Secretaría y la Contraloría Gubernamental determinen en el manual correspondiente.
+Los egresos y gastos derivados del ejercicio de la función o la representación, así como los comprobantes de los mismos, deberán sujetarse a los criterios y políticas de uso y destino que la Secretaría y la Secretaría Anticorrupción y Buen Gobierno determinen en el manual correspondiente.
 
-> <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
 
-La documentación original comprobatoria que ampara el gasto que ejercen los ejecutores de gasto citados en el artículo 3° de esta Ley, quedará bajo el resguardo de dichas instancias, las cuales serán responsables del resguardo y cuidado de dicha documentación comprobatoria, ello en su carácter de ejecutores de gasto y conforme al procedimiento que al efecto determinen la Secretaría en coordinación con la Contraloría Gubernamental.
+La documentación original comprobatoria que ampara el gasto que ejercen los ejecutores de gasto citados en el artículo 3° de esta Ley, quedará bajo el resguardo de dichas instancias, las cuales serán responsables del resguardo y cuidado de dicha documentación comprobatoria, ello en su carácter de ejecutores de gasto y conforme al procedimiento que al efecto determinen la Secretaría en coordinación con la Secretaría Anticorrupción y Buen Gobierno.
 
 > <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
 
@@ -967,7 +967,9 @@ III.- Realicen la especificación de las obras, adquisiciones, arrendamientos o 
 
 IV.- Desglosen el gasto a precios del año tanto para el ejercicio fiscal correspondiente, como para los subsecuentes.
 
-En el caso de proyectos para prestación de servicios, las dependencias y entidades deberán sujetarse al procedimiento de autorización y demás disposiciones aplicables que emitan, en el ámbito de sus respectivas competencias, la Secretaría y la Contraloría Gubernamental.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+En el caso de proyectos para prestación de servicios, las dependencias y entidades deberán sujetarse al procedimiento de autorización y demás disposiciones aplicables que emitan, en el ámbito de sus respectivas competencias, la Secretaría y la Secretaría Anticorrupción y Buen Gobierno.
 
 Los Poderes Legislativo y Judicial y los entes autónomos, a través de sus respectivas unidades de administración, podrán autorizar la celebración de contratos plurianuales siempre y cuando cumplan lo dispuesto en este artículo y emitan normas generales para su justificación y autorización.
 
@@ -989,19 +991,25 @@ Los contratos estarán sujetos a la disponibilidad presupuestaria del año en el
 
 Las dependencias y entidades podrán obtener la autorización a que se refiere este artículo en relación con los contratos plurianuales a que se refiere el artículo 60 de esta Ley, conforme a los Lineamientos que establezca la Secretaría.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
 ###### ARTICULO 61.
 
-Quedan facultadas la Secretaría de Finanzas y la Contraloría Gubernamental para dictar las normas que deben observar el personal del Poder Ejecutivo que opere gasto público, a efecto de garantizar su correcto ejercicio.
+Quedan facultadas la Secretaría de Finanzas y la Secretaría Anticorrupción y Buen Gobierno para dictar las normas que deben observar el personal del Poder Ejecutivo que opere gasto público, a efecto de garantizar su correcto ejercicio.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
 
 ###### ARTICULO 62.
 
-La Secretaría de Finanzas, dentro del ámbito de su competencia, tendrá a su cargo el registro y control del ejercicio del Presupuesto de Egresos del Estado y en coordinación con la Contraloría Gubernamental podrá verificar que la aplicación de los recursos aprobados se realicen conforme a los programas autorizados.
+La Secretaría de Finanzas, dentro del ámbito de su competencia, tendrá a su cargo el registro y control del ejercicio del Presupuesto de Egresos del Estado y en coordinación con la Secretaría Anticorrupción y Buen Gobierno podrá verificar que la aplicación de los recursos aprobados se realicen conforme a los programas autorizados.
 
 ###### ARTICULO 63.
 
 Quienes ejerzan gasto público en las dependencias del Poder Ejecutivo del Estado, estarán obligados a proporcionar a la Secretaría de Finanzas la información que se les solicite.
 
-La Contraloría Gubernamental realizará la práctica de visitas para la comprobación del cumplimiento de las obligaciones derivadas de esta ley y de las disposiciones expedidas con base en ella.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+La Secretaría Anticorrupción y Buen Gobierno realizará la práctica de visitas para la comprobación del cumplimiento de las obligaciones derivadas de esta ley y de las disposiciones expedidas con base en ella.
 
 > <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
 
@@ -1013,11 +1021,11 @@ Los Poderes Legislativo y Judicial, así como los Organismos Autónomos tendrán
 
 Las dependencias y entidades deberán remitir de manera trimestral a la Secretaría de Finanzas, la información relativa al ejercicio de los recursos federales que reciba el Estado, conforme a las disposiciones aplicables y dentro de los quince días naturales al período que corresponda. La misma obligación tendrán los municipios respecto de los recursos públicos estatales o federales que le sean transferidos.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
 
 ###### ARTICULO 64.
 
-La Contraloría Gubernamental estará facultada para realizar programas de inspección, auditorías y evaluaciones, así como para contratar auditores y asesoría técnica para efectuar revisiones a las dependencias del Ejecutivo, y a las entidades señaladas en las fracciones IV, V y VI del artículo 3° de esta Ley, con objeto de verificar la evaluación y el cumplimiento de los programas, así como para proveer lo necesario en los casos de incumplimiento de los mismos.
+La Secretaría Anticorrupción y Buen Gobierno estará facultada para realizar programas de inspección, auditorías y evaluaciones, así como para contratar auditores y asesoría técnica para efectuar revisiones a las dependencias del Ejecutivo, y a las entidades señaladas en las fracciones IV, V y VI del artículo 3° de esta Ley, con objeto de verificar la evaluación y el cumplimiento de los programas, así como para proveer lo necesario en los casos de incumplimiento de los mismos.
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2016)</small>
 
@@ -1215,17 +1223,17 @@ VIII.- Acordar con la Secretaría de Finanzas las adecuaciones a los Programas P
 
 Las dependencias y entidades del Ejecutivo, deberán tomar las previsiones presupuestales a fin de contar con los recursos necesarios para cubrir las erogaciones derivadas de la realización de las evaluaciones externas de los Programas Presupuestarios o políticas públicas que sean de su competencia, así como para dar cumplimiento a las disposiciones de esta Ley, en materia del Sistema de Evaluación del Desempeño del gasto público. Lo anterior, salvo en los casos que determine la Secretaría.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
 
 ###### ARTICULO 78.
 
-En los casos en que las dependencias y entidades del Ejecutivo del Estado, no proporcionen la información trimestral sobre el grado de avance físico y financiero de los programas, así como de las metas realizadas, solicitada conforme a los lineamientos que para el efecto determine la Secretaría de Finanzas, esta Secretaría tendrá la facultad de obtener dicha información en los términos del artículo 79 de esta ley, y podrá solicitar la intervención de la Contraloría Gubernamental.
+En los casos en que las dependencias y entidades del Ejecutivo del Estado, no proporcionen la información trimestral sobre el grado de avance físico y financiero de los programas, así como de las metas realizadas, solicitada conforme a los lineamientos que para el efecto determine la Secretaría de Finanzas, esta Secretaría tendrá la facultad de obtener dicha información en los términos del artículo 79 de esta ley, y podrá solicitar la intervención de la Secretaría Anticorrupción y Buen Gobierno.
 
-> <small>(REFORMADO, P.O. 20 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
 
 ###### ARTICULO 79.
 
-La Secretaría de Finanzas está facultada para suspender la asignación de los egresos autorizados a los programas, cuando no se proporcione la información que solicite en los términos del artículo 77 de esta ley o cuando por conducto de la Contraloría Gubernamental se detecten desviaciones en las metas o en el destino del gasto, salvo en el supuesto de los recursos destinados al servicio de la deuda contratada en términos de la Ley de Deuda Pública Estatal y Municipal de Tamaulipas.
+La Secretaría de Finanzas está facultada para suspender la asignación de los egresos autorizados a los programas, cuando no se proporcione la información que solicite en los términos del artículo 77 de esta ley o cuando por conducto de la Secretaría Anticorrupción y Buen Gobierno se detecten desviaciones en las metas o en el destino del gasto, salvo en el supuesto de los recursos destinados al servicio de la deuda contratada en términos de la Ley de Deuda Pública Estatal y Municipal de Tamaulipas.
 
 > <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1311,9 +1319,9 @@ V.- Dar seguimiento a los avances de los indicadores estratégicos y de gestión
 
 VI.- Impartir a petición de parte, capacitación en materia de Presupuesto basado en Resultados, Metodología de Marco Lógico, diseño y construcción de indicadores, monitoreo y evaluación de Programas Presupuestarios.
 
-> <small>(F. DE E., P.O. 24 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE FEBRERO DE 2026)</small>
 
-B.- Son atribuciones de la Contraloría Gubernamental en materia del Sistema de Evaluación del Desempeño del gasto público:
+B.- Son atribuciones de la Secretaría Anticorrupción y Buen Gobierno en materia del Sistema de Evaluación del Desempeño del gasto público:
 
 I.- Determinar y coordinar las evaluaciones externas que se indiquen en el Programa Anual de Evaluación, aplicables a los fondos y programas de gasto federalizado cuyos recursos se ejerzan como parte del Presupuesto de Egresos, las políticas públicas, en el marco del Sistema de Evaluación del Desempeño del gasto público;
 
@@ -1325,15 +1333,19 @@ IV.- Vigilar el cumplimiento a las acciones establecidas en el Programa Anual de
 
 V.- Impartir a petición de parte, capacitación en materia de clasificación, seguimiento y atención a los aspectos susceptibles de mejora, derivados de las evaluaciones externas señaladas en el Programa Anual de Evaluación.
 
-La Secretaría y la Contraloría Gubernamental acordarán la forma y términos en que ésta última tendrá acceso a la información contenida en el Sistema de Monitoreo de Indicadores para Resultados, a efecto de facilitar el uso de esa información para el ejercicio de sus atribuciones y evitar duplicidad de requerimientos de información.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
 
-La información que se genere en el marco del Sistema de Evaluación del Desempeño del gasto público se difundirá en los términos de la Ley General de Contabilidad Gubernamental, por parte de la Secretaría y la Contraloría Gubernamental, ello en el ámbito de sus respectivas competencias.
+La Secretaría y la Secretaría Anticorrupción y Buen Gobierno acordarán la forma y términos en que ésta última tendrá acceso a la información contenida en el Sistema de Monitoreo de Indicadores para Resultados, a efecto de facilitar el uso de esa información para el ejercicio de sus atribuciones y evitar duplicidad de requerimientos de información.
 
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+La información que se genere en el marco del Sistema de Evaluación del Desempeño del gasto público se difundirá en los términos de la Ley General de Contabilidad Gubernamental, por parte de la Secretaría y la Secretaría Anticorrupción y Buen Gobierno, ello en el ámbito de sus respectivas competencias.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
 
 ###### ARTICULO 82.
 
-Las atribuciones que esta ley confiere a la Contraloría Gubernamental son sin perjuicio de las que la legislación correspondiente confiere a la Auditoría Superior del Estado.
+Las atribuciones que esta ley confiere a la Secretaría Anticorrupción y Buen Gobierno son sin perjuicio de las que la legislación correspondiente confiere a la Auditoría Superior del Estado.
 
 > <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
@@ -1550,3 +1562,19 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO CUARTO.
 
 En un plazo de 30 días naturales, contados a partir de la entrada en vigor del presente Decreto, la Secretaría de Finanzas en coordinación con la Secretaría de Desarrollo Urbano y Medio Ambiente, deberán publicar en el Periódico Oficial del Estado, las Reglas Generales del Impuesto Ambiental.
+
+P.O. 12 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-963 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES PARA LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS; DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE ARCHIVOS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS; DE LA LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE CONCILIACIÓN Y ARBITRAJE MÉDICO PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE TAMAULIPAS; DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS; DE LA LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS; DE LA LEY PARA LA ENTREGA-RECEPCIÓN DE LOS RECURSOS ASIGNADOS A LOS PODERES, ÓRGANOS Y AYUNTAMIENTOS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE GASTO PÚBLICO; DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE IGUALDAD DE GÉNERO EN TAMAULIPAS; DE LA LEY DEL INSTITUTO DE PREVISIÓN Y SEGURIDAD SOCIAL DEL ESTADO DE TAMAULIPAS; DE LA LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO; DE LA LEY ESTATAL DE PLANEACIÓN; DE LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS; DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN SOCIOECONÓMICA DE LAS VIOLENCIAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE TAMAULIPAS; DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Tribunal de Justicia Administrativa del Estado de Tamaulipas, a través de su Órgano Interno de Control, y con base en su capacidad presupuesta! (sic), deberá realizar las adecuaciones necesarias a su reglamento interior en un plazo no mayor a treinta días naturales contados a partir de la entrada en vigor del presente Decreto, con el fin de garantizar en el ámbito de su competencia, el ejercicio de los derechos de acceso a la información pública y de protección de datos personales, conforme a los principios y bases establecidos por los artículos 6o de la Constitución Política de los Estados Unidos Mexicanos; 17, fracción V, de la Constitución Política del Estado de Tamaulipas, así como por lo previsto en la legislación aplicable.
+
+###### ARTÍCULO TERCERO.
+
+En las disposiciones transitorias de las diversas leyes y códigos en las que se haga referencia a la Contraloría Gubernamental, se entenderá la Secretaría Anticorrupción y Buen Gobierno.
