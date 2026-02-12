@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-derechos-el-bienestar-y-proteccion-de-los-animales-12802
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-02"
-last_updated: "2026-01-14"
+last_updated: "2026-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE DERECHOS, EL BIENESTAR Y PROTECCIÓN DE LOS ANIMALES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
 
 Ley publicada en la Décima Sección del Núm. 58 del Periódico Oficial del Estado de Michoacán, el lunes 2 de abril de 2018.
 
@@ -835,41 +835,77 @@ VI. Éstos se apeguen a las Normas Oficiales Mexicanas en la materia para el cui
 
 En los casos permitidos, el animal no humano objeto de prácticas o de experimentación deberá previamente ser insensibilizado, según las características de la especie y el tipo del procedimiento experimental, curado y alimentado en forma debida, antes y después de la intervención.
 
-### CAPÍTULO XIII. PROHIBICIONES Y SANCIONES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE FEBRERO DE 2026)</small>
+
+### CAPÍTULO XIII. PROHIBICIÓN DE MALTRATO Y CRUELDAD CONTRA LOS ANIMALES NO HUMANOS
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 66.
 
-Además de lo señalado en la presente Ley en materia de protección y bienestar animal, la Ley General de Vida Silvestre, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley Federal de Sanidad Animal, y las Normas Oficiales Mexicanas en la materia, queda prohibido:
+Será sujeto de sanción cualquier acto de maltrato o crueldad contra los animales no humanos, cuando afecten su salud o apariencia física, altere su comportamiento o instinto natural o le causen la muerte.
+
+Sin perjuicio de lo que dispongan otras leyes, reglamentos y normas aplicables, se consideran como actos de maltrato o crueldad contra los animales no humanos los siguientes:
+
+I. Los actos u omisiones carentes de un motivo legítimo y que sean susceptibles de causar dolor o sufrimiento considerables, o bien, que afecten gravemente su salud, cuando no se traten del ejercicio de legítima defensa;
+
+II. Lesionar, herir, torturar o golpear, así como azuzar o hacer pelear a los animales;
+
+III. Encadenar, enjaular, sujetar o limitar la movilidad de los animales, sin que medie alguna de las excepciones previstas en esta Ley;
+
+IV. Cometer actos depravados, anormales o sexuales a un animal;
+
+V. Alterar de manera temporal o permanente la piel de los animales domésticos mediante la realización de tatuajes con fines estéticos o la colocación de piercings o perforaciones, quedando exceptuados los casos previstos dentro de la presente Ley;
+
+VI. Abandonar o desamparar, sea negligente o deliberadamente, animales en las calles, carreteras, viviendas, edificios, patios, pasillos, balcones, terrazas, azoteas, sótanos, terrenos baldíos y cualesquiera otros lugares de naturaleza similar, independientemente si se trata de un lugar deshabitado o no;
+
+VII. Permitir que los animales que se tienen como mascotas deambulen en la vía pública de zonas urbanas o en lugares de alto riesgo y peligro para ellos u otros animales o personas, sean estos lugares públicos o privados, sin la supervisión o control del propietario, poseedor o encargado de los mismos;
+
+VIII. Destruir nidos, madrigueras o refugios de animales, excepto cuando se realice como un método de control natal de la especie, cuando la misma se torne perjudicial y siempre y cuando dichos nidos, madrigueras o refugios se encuentren vacíos, sin huevos o crías;
+
+IX. Destruir o extraer huevos fértiles de aves, especímenes o crías de animales silvestres para su tenencia o comercio a excepción de aquellos permitidos para consumo humano;
+
+X. Olvidar o abandonar animales en veterinarias, estéticas, pensiones, hoteles, guarderías, escuelas de entrenamiento, centros de investigación o centros de control canino y felino donde se vayan a realizar procedimientos veterinarios específicos a los animales u otros lugares afines;
+
+XI. Envenenar, intoxicar o suministrar a los animales sustancias u objetos que causen o puedan causarles alguna enfermedad, daño o la muerte, con excepción del suministro de medicamentos o tratamientos prescritos por un Médico Veterinario Zootecnista para un fin legítimo;
+
+XII. Adiestrar o entrenar animales utilizando técnicas crueles o instrumentos y artefactos que ocasionen sufrimiento o lesiones o que de algún modo afecten su salud e integridad física y emocional;
+
+XIII. Privar a los animales u omitir el sustento habitual o continuo de alimento, agua, aire y luz a los mismos, de espacio suficiente y adecuado, de higiene necesaria para el cuerpo y en las áreas de estancia donde se encuentren, así como su atención médica veterinaria, tanto preventiva como curativa;
+
+XIV. Sobrecargar a los animales en labores de tiro, carga y monta, o bien, por utilizarlos cuando sus condiciones fisiológicas no son aptas y afecten su salud e integridad física; así como utilizar a hembras para trabajo en el período próximo al parto, entendiendo por éste el último tercio de gestación, o en el período de postparto, entendiendo por éste los tres meses posteriores al parto;
+
+XV. Privar a los animales de aquellos elementos adicionales que les impida desarrollar sus funciones vitales, o bien, que limiten su interacción con otros animales de su propio género o especie, de acuerdo con sus instintos naturales y hábitos conductuales, o realizar cualquier otra actividad intencional que deteriore o modifique negativamente sus instintos;
+
+XVI. Confinar animales en lugares inadecuados, así como dejarlos sin iluminación o ventilación apropiada, o bien, mantenerlos en lugares sin protección en contra de las inclemencias del tiempo; y,
+
+XVII. Los demás que determine esta Ley, su Reglamento y las Normas Oficiales, a excepción de los supuestos que están establecidas en el artículo 67 de la presente Ley.
+
+A quien cometa cualquiera de las anteriores conductas se le impondrá una multa administrativa, que estará sujeta a lo dispuesto en los reglamentos que para tal efecto emita la Secretaria del Medio Ambiente y los gobiernos municipales en el ámbito de sus competencias.
+
+Cuando una especie animal no humana se encuentre abandonada, atrapada o que por cualquier medio no pueda salir de una estructura urbana la autoridad administrativa podrá acceder al inmueble, siempre y cuando el mismo esté abandonado o que por cualquier razón no pueda localizarse al dueño y la especie animal no humana esté en un riesgo grave e inminente para su vida.
+
+Toda persona que ejecute conductas de maltrato o crueldad contra de un animal está obligada a la reparación del daño. Dicha reparación del daño, si el animal maltratado aún cuenta con vida, incluirá la atención médica veterinaria, medicamentos, tratamientos o intervención quirúrgica.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 12 DE FEBRERO DE 2026)</small>
+
+Artículo 66 bis. Además de lo señalado en la presente Ley en materia de protección y bienestar animal, la Ley General de Vida Silvestre, la Ley General del Equilibrio Ecológico y la Protección al Ambiente, la Ley Federal de Sanidad Animal, y las Normas Oficiales Mexicanas en la materia, queda prohibido:
 
 I. La utilización de animales no humanos en protestas, marchas y plantones, que les provoque sufrimiento o maltrato innecesario;
-
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2023)</small>
 
 II. La venta de animales en la vía pública, mercados y establecimientos comerciales, así como, oferta de ejemplares caninos y felinos domésticos a través de medios digitales, dentro de la jurisdicción del Estado de Michoacán, que no procedan de un criadero con la licencia anual vigente;
 
 III. La celebración de peleas de perros, así como facilitar inmuebles para que tengan lugar dichos combates;
 
-IV. Suministrar bebidas alcohólicas o drogas a un animal no humano cuando no exista justificación médica veterinaria;
+IV. La comercialización o explotación de animales enfermos con lesiones, traumatismos, fracturas o heridas, así como en estado de desnutrición;
 
-V. La comercialización o explotación de animales enfermos con lesiones, traumatismos, fracturas o heridas, así como en estado de desnutrición;
+V. El uso de animales para entrenar animales de guardia o ataque o en su caso, para verificar su agresividad;
 
-VI. El uso de animales para entrenar animales de guardia o ataque o en su caso, para verificar su agresividad;
+VI. La instalación u operación de criaderos en inmuebles que no estén destinados para tal fin;
 
-VII. La instalación u operación de criaderos en inmuebles que no estén destinados para tal fin;
+VII. Las mutilaciones por razones estéticas o cualesquiera otras que no resulten en beneficio directo para los animales; y,
 
-VIII. El abandono de animales no humanos en la vía pública;
-
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2024)</small>
-
-IX. El abandono de animales no humanos dentro de bienes muebles e inmuebles, sin la custodia o condiciones adecuadas de acuerdo a su especie;
-
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2024)</small>
-
-X. Las mutilaciones por razones estéticas o cualesquiera otras que no resulten en beneficio directo para los animales; y,
-
-> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2024)</small>
-
-XI. El uso de artificios pirotécnicos de tipo petardo o trueno que produzca efectos sonoros superiores a los 80 decibeles dentro de las zonas urbanas y rurales que afecten a los animales no humanos.
+VIII. El uso de artificios pirotécnicos de tipo petardo o trueno que produzca efectos sonoros superiores a los 80 decibeles dentro de las zonas urbanas y rurales que afecten a los animales no humanos.
 
 > <small>(REFORMADO, P.O. 9 DE ABRIL DE 2025)</small>
 
@@ -1088,3 +1124,11 @@ P.O. 14 DE ENERO DE 2026.
 PRIMERO. Notifíquese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 12 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 268 POR EL QUE “SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO XIII Y EL ARTÍCULO 66; Y, SE ADICIONA EL ARTÍCULO 66 BIS, TODOS DE LA LEY DE DERECHOS, EL BIENESTAR Y PROTECCIÓN DE LOS ANIMALES EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. La Secretaría del Medio Ambiente y los Gobiernos Municipales, contarán con un plazo de 180 días hábiles para hacer las modificaciones necesarias a sus reglamentos, para fijar los parámetros de las sanciones de multa a que se refiere el artículo 66 de la Ley de Derechos, el Bienestar y Protección de los Animales en el Estado de Michoacán de Ocampo.
