@@ -4,7 +4,7 @@ identifier: "MIC-codigo-familiar-para-el-estado-de-michoacan-de-ocampo-110252"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-09-30"
-last_updated: "2026-01-09"
+last_updated: "2026-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
 
 Código publicado en la Décima Cuarta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 30 de septiembre de 2015.
 
@@ -1093,6 +1093,10 @@ A lo anterior, no está obligado el que se encuentre imposibilitado para trabaja
 
 Los derechos y obligaciones que nacen del matrimonio serán siempre iguales para los cónyuges e independientes de su aportación económica al sostenimiento del hogar.
 
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+En caso de que exista una desigualdad estructural en el acceso al empleo, ingreso o patrimonio, derivada de roles de género tradicionales, embarazo, maternidad, o trabajo doméstico no remunerado, el juez podrá reconocer esta condición como factor determinante para establecer medidas compensatorias, garantías o apoyos temporales a favor de la cónyuge que haya asumido predominantemente las labores de cuidado o reproducción social. Tales medidas tendrán como objetivo garantizar condiciones equitativas para el ejercicio de sus derechos y la autonomía económica.
+
 ###### Artículo 152.
 
 El desempeño de trabajo en el hogar o el cuidado de los hijos, se estimará como contribución económica al sostenimiento del hogar.
@@ -1766,6 +1770,16 @@ II. El reclamante se haya dedicado en el lapso en que duró el matrimonio, prepo
 III. Durante el matrimonio el reclamante no haya adquirido bienes propios o habiéndolos adquirido, sean notoriamente menores a los de su cónyuge.
 
 El juez oral, en la sentencia, habrá de resolver atendiendo a las circunstancias especiales de cada caso.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+###### Artículo 258 Bis.
+
+Al solicitarse el divorcio, se podrá exigir una indemnización compensatoria, proporcional al valor de los bienes que los cónyuges hubieran adquirido durante el matrimonio, siempre que:
+
+I. Hubieran estado casados bajo el régimen de separación de bienes; y,
+
+II. Haya desempeñado doble jornada. Se entiende por doble jornada, el desarrollo de una actividad económica remunerada además de las labores domésticas o de cuidado de hijos.
 
 ###### Artículo 259.
 
@@ -2923,9 +2937,19 @@ Se reconoce a los alimentos como el derecho que tiene una persona, denominada ac
 
 I. La comida, el vestido, la habitación, la atención médica y psicológica, la hospitalaria y en su caso, los gastos de embarazo y parto;
 
-II. Respecto de los hijos, además, los gastos para su educación y para proporcionarles oficio, arte o profesión adecuados a su libre desarrollo de la personalidad, así como para garantizar su recreación, calidad de vida y dignidad; y,
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+II. Respecto de los hijos, además, los gastos para su educación y para proporcionarles oficio, arte o profesión adecuados a sus circunstancias personales; en este rubro se incluyen los gastos que se generen con motivo de la tramitación del título y cédula profesionales;
 
 III. Con relación a las personas con algún tipo de discapacidad o declarados en estado de interdicción, lo necesario para lograr, en lo posible, su habilitación o rehabilitación y su desarrollo; y, por lo que hace a los adultos mayores que carezcan de capacidad económica, además de todo lo necesario para su atención geriátrica, se procurará que los alimentos se les proporcionen, integrándolos a la familia, en caso de que el adulto mayor que solicite pensión alimenticia se encuentre inscrito en el Registro de Deudores Alimentarios, la solicitud de pensión no será admitida.
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+IV. Con respecto a los excónyuges o ex concubinos, además de lo señalado en la fracción I del presente artículo, los gastos médicos y hospitalarios posteriores al divorcio o disolución de la relación, siempre que la enfermedad del acreedor alimentista hubiere sido diagnosticada dentro del vínculo que les unía.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+En relación al trabajo de cuidado y asistencia en favor del acreedor alimentario, deberá ser considerado como un aporte económico a quien lo realizó de manera prioritaria, lo cual deberá ser tomado en cuenta por la persona juzgadora con perspectiva de género al momento de fijar la pensión alimenticia.
 
 ###### Artículo 444.
 
@@ -2952,6 +2976,10 @@ IX. Es intransferible, en virtud de que surge de una relación familiar específ
 ###### Artículo 445.
 
 Los cónyuges y concubinos están obligados a proporcionarse alimentos.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+Los excónyuges o ex concubinos que dentro del vínculo que les unía hubieren sido diagnosticados con alguna enfermedad que les cause insolvencia parcial o total para sufragar los gastos derivados de dicho padecimiento, tendrán derecho a recibir una pensión alimenticia que incluya los gastos médicos y hospitalarios posteriores al divorcio o la disolución de la relación, observando en todo momento el principio de perspectiva de género y proporcionalidad.
 
 > <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2021)</small>
 
@@ -3069,7 +3097,9 @@ IV. Cuando la necesidad de los alimentos dependa de la conducta viciosa del alim
 
 V. Si el alimentista, sin consentimiento del que debe dar los alimentos, abandona la casa de este por causas injustificables;
 
-VI. Cuando los hijos mayores, no se encuentren estudiando acorde a su edad, o bien no se hubiesen titulado en un plazo que resultare prudente;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+VI. Cuando los hijos mayores no se encuentren estudiando acorde a su edad, no se hubieren titulado o iniciado los trámites de titulación y obtención de cédula profesional hasta por un periodo de un año posterior a la terminación de los estudios, salvo causa justificada;
 
 > <small>(REFORMADA, P.O. 25 DE ABRIL DE 2016)</small>
 
@@ -7836,6 +7866,22 @@ SEGUNDO. Se derogan las disposiciones legales y administrativas en lo que se opo
 P.O. 9 DE ENERO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 262 POR EL QUE "SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFOS, RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES AL ARTÍCULO 56 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 118 DEL CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente a su publicación.
+
+SEGUNDO. Se derogan las disposiciones legales y administrativas en lo que se opongan al presente Decreto.
+
+P.O. 12 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 263 POR EL QUE "SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 151 Y EL ARTÍCULO 258 BIS, AMBOS DEL CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente a su publicación.
+
+SEGUNDO. Se derogan las disposiciones legales y administrativas en lo que se opongan al presente Decreto.
+
+P.O. 12 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 264.- ARTÍCULO ÚNICO.- SE REFORMAN LAS FRACCIONES II Y III DEL ARTÍCULO 443, LA FRACCIÓN VI DEL ARTÍCULO 461; SE ADICIONA LA FRACCIÓN IV Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 443; Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 445, RECORRIÉNDOSE EN SU ORDEN LOS SUBSIGUIENTES, TODOS DEL CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 PRIMERO. El presente Decreto entrará en vigor el día siguiente a su publicación.
 
