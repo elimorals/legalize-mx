@@ -4,7 +4,7 @@ identifier: "MIC-ley-por-una-vida-libre-de-violencia-para-las-mujeres-en-el-9537
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-09"
-last_updated: "2026-01-09"
+last_updated: "2026-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95374&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el viernes 9 de agosto de 2013.
 
@@ -45,15 +45,17 @@ LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN 
 
 ### CAPÍTULO I. NATURALEZA, PRINCIPIOS Y DEFINICIONES
 
-> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2025)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
 
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público, interés social y de observancia general y obligatoria en todo el Estado de Michoacán de Ocampo y tiene por objeto establecer la coordinación entre los tres órdenes de Gobierno, para prevenir, atender, sancionar y erradicar las violencias contra las mujeres, adolescentes y niñas por razones de género, así como establecer las políticas públicas y acciones gubernamentales para garantizar el acceso de las mujeres a una vida libre de violencia que favorezca su desarrollo y bienestar conforme a los principios de igualdad y de no discriminación.
+La presente Ley es Reglamentaria del artículo 2o. de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, en materia de protección del derecho de las mujeres, las adolescentes y las niñas a una vida libre de violencias y los deberes reforzados del Estado, es de orden público, interés social y de observancia general y obligatoria en todo el Estado de Michoacán de Ocampo y tiene por objeto prevenir, atender, sancionar y erradicar las violencias por razones de género, así como establecer las políticas públicas y acciones gubernamentales en coordinación con los Ayuntamientos y Concejos Municipales del Estado para garantizar el acceso de las mujeres a una vida libre de violencia y favorecer su desarrollo y bienestar conforme a los principios de igualdad y de no discriminación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2026)</small>
 
 ###### ARTÍCULO 2.
 
-Los principios rectores para el acceso de las mujeres a una vida libre de violencia que deberán ser observados en la elaboración de políticas públicas y acciones gubernamentales son:
+Los principios rectores para el acceso de las mujeres, las adolescentes y las niñas a una vida libre de violencia que deberán ser observados en la elaboración de políticas públicas y acciones gubernamentales son:
 
 I. La igualdad jurídica entre las mujeres y los hombres;
 
@@ -61,19 +63,21 @@ II. El respeto a la dignidad humana;
 
 III. La no discriminación; y,
 
-IV. La libertad de las mujeres.
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
-> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2023)</small>
+IV. La libertad de las mujeres;
 
-V. La universalidad, la interdependencia, la indivisibilidad y la progresividad de los derechos humanos.
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+V. La universalidad, la interdependencia, la indivisibilidad, integralidad y la progresividad de los derechos humanos;
 
 > <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2025)</small>
 
 VI. La perspectiva de género;
 
-> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2025)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
-VII. La debida diligencia;
+VII. Debida diligencia;
 
 > <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2025)</small>
 
@@ -83,25 +87,45 @@ VIII. La interculturalidad;
 
 IX. La multiculturalidad;
 
-> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2025)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
-X. El enfoque diferencial; y,
+X. El enfoque diferencial y especializado;
 
-> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2025)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
-XI. La interseccionalidad.
+XI. La interseccionalidad;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+XII. El interés superior de la niñez;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+XIII. La victimización secundaria; y,
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+XIV. La progresividad y no regresividad.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
 
 ###### ARTÍCULO 3.
 
-Son sujetos de los derechos que establece esta Ley, las mujeres que se encuentren dentro del territorio del Estado.
+Son sujetos de los derechos que establece esta Ley, las mujeres, las adolescentes y las niñas que se encuentren dentro del territorio del Estado.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
 
 ###### ARTÍCULO 4.
 
-La aplicación de la presente Ley corresponde y obliga a las y los servidores públicos de los poderes Legislativo, Ejecutivo, Judicial y a los Ayuntamientos, así como de los organismos autónomos y descentralizados, quienes expedirán la reglamentación correspondiente y tomarán las medidas presupuestales y administrativas que permitan garantizar el derecho de las mujeres a una vida libre de violencia, incluyendo la plena seguridad e integridad personal.
+La aplicación de la presente Ley corresponde y obliga a las personas servidoras públicas de los poderes Legislativo, Ejecutivo y Judicial, a los Ayuntamientos y Concejos, así como de los organismos autónomos y descentralizados, quienes expedirán la reglamentación correspondiente y tomarán las medidas presupuestales y administrativas que garanticen el derecho de las mujeres, las adolescentes y las niñas a una vida libre de violencia.
 
 ###### ARTÍCULO 5.
 
 Las disposiciones, procedimientos, mecanismos y medidas que se deriven de la presente Ley garantizarán la prevención, la atención, la sanción y la erradicación de todos los tipos de violencia contra las mujeres por razones de género, en el ámbito público y privado.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+El Estado instrumentará las acciones necesarias para contar con fiscalías especializadas para atender los delitos relacionados con las violencias de género en contra de las mujeres, las adolescentes y las niñas, así como para el funcionamiento de los Centros de Justicia para las Mujeres.
 
 ###### ARTÍCULO 6.
 
@@ -127,7 +151,9 @@ VII. Discriminación contra las Mujeres: Toda distinción, exclusión o restricc
 
 VIII. Ejes de Acción: Las líneas operativas en torno a las cuales se articulan las políticas públicas en materia de violencia contra las mujeres por razones de género;
 
-IX. Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estadio (sic) de conciencia, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+IX. Empoderamiento de las Mujeres: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estado de conciencia, inclusión, autodeterminación y autonomía, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
 
 > <small>(ADICIONADA, P.O. 8 DE MARZO DE 2025)</small>
 
@@ -135,63 +161,101 @@ IX Bis. Emancipación de las mujeres: Es el reconocimiento de la liberación de 
 
 X. Estado: El Estado Libre y Soberano de Michoacán de Ocampo;
 
-XI. Hostigamiento Sexual: Es el ejercicio del poder, en una relación de subordinación real de la víctima frente al agresor en los ámbitos laboral o escolar. Se expresa en conductas verbales, físicas o ambas, relacionadas con la sexualidad de connotación lasciva;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE FEBRERO DE 2026)</small>
 
-XII. Ley: La Ley por una Vida Libre de Violencia para las Mujeres en el Estado de Michoacán de Ocampo;
+XI. Espacio Público: Cualquier área, espacio abierto o predio de asentamiento humano destinado al uso, disfrute o aprovechamiento colectivo, de acceso generalizado y libre tránsito;
 
-XIII. Misoginia: Son conductas de odio contra la mujer y se manifiesta en actos violentos y crueles contra ella por el hecho de ser mujer;
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XI], P.O. 12 DE FEBRERO DE 2026)</small>
 
-XIV. Modalidades de la Violencia: Las formas, manifestaciones o los ámbitos de ocurrencia en que se presenta la violencia contra las mujeres por razones de género;
+XII. Hostigamiento Sexual: Es el ejercicio del poder, en una relación de subordinación real de la víctima frente al agresor en los ámbitos laboral o escolar. Se expresa en conductas verbales, físicas o ambas, relacionadas con la sexualidad de connotación lasciva;
 
-XV. Modelo Único de Atención: Son el conjunto de estrategias que reúnen las medidas y las acciones integrales gubernamentales para garantizar la seguridad, el ejercicio de los derechos de las mujeres y su acceso a una vida libre de violencia;
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XII], P.O. 12 DE FEBRERO DE 2026)</small>
 
-XVI. Órdenes de Protección: Son actos de protección y de urgente aplicación, que no causan estado, en función del interés superior de la víctima y son fundamentalmente de emergencia, preventivas y de naturaleza civil, penal o familiar. Deberán otorgarse por la autoridad competente, inmediatamente que conozcan los hechos probablemente constitutivos de infracciones o delitos que impliquen violencia contra las mujeres por razones de género;
+XIII. Ley: La Ley por una Vida Libre de Violencia para las Mujeres en el Estado de Michoacán de Ocampo;
 
-XVII. Perspectiva de Género: Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basadas en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres, contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de la toma de decisiones;
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XIII], P.O. 12 DE FEBRERO DE 2026)</small>
 
-XVIII. Presupuesto con Perspectiva de Género: Presupuestos que en su diseño, implementación y evaluación consideran los intereses, necesidades y prioridades de mujeres y hombres. El objetivo primordial es la integración transversal de la política de género en planes, programas y acciones gubernamentales;
+XIV. Misoginia: Son conductas de odio hacia las mujeres, las adolescentes y las niñas, que se manifiestan en actos violentos o crueles contra ellas por el hecho de serlo;
 
-XIX. Programa Estatal: El Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres por Razones de Género;
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XIV], P.O. 12 DE FEBRERO DE 2026)</small>
 
-XX. Refugios: Son los albergues, estancias, centros o establecimientos constituidos por instituciones gubernamentales y privadas para la atención y protección de las mujeres y sus hijas e hijos víctimas de violencia;
+XV. Modalidades de la Violencia: Las formas, manifestaciones o los ámbitos de ocurrencia en que se presenta la violencia contra las mujeres por razones de género;
 
-> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2025)</small>
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XV], P.O. 12 DE FEBRERO DE 2026)</small>
 
-XXI. Personas Servidoras Públicas: Los representantes de elección popular, los miembros del Poder Judicial Federal, Estatal y Municipal, los funcionarios y empleados, en general, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza al servicio del Estado de Michoacán de Ocampo y de sus municipios en la Administración Pública Federal, Estatal y Municipal, así como los organismos públicos y descentralizados;
+XVI. Modelo Único de Atención: Son el conjunto de estrategias que reúnen las medidas y las acciones integrales gubernamentales para garantizar la seguirdad (sic), el ejercicio de los derechos de las mujeres y su acceso a una vida libre de violencia;
 
-XXII. Sistema Estatal: El Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las mujeres por razones de género;
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XVI], P.O. 12 DE FEBRERO DE 2026)</small>
 
-XXIII. Tolerancia de la Violencia: La acción o inacción permisiva de la sociedad o de las instituciones que favorecen la existencia o permanencia de la violencia, incrementando la prevalencia de la discriminación y violencia de género;
+XVII. Medidas u Órdenes de Protección: A las medidas y órdenes de protección a que se refiere la presente ley y el Código Nacional de Procedimientos Penales;
 
-XXIV. Transversalidad de la Perspectiva de Género: Es el proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tienen para las mujeres y hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales dentro de las instituciones públicas y privadas;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE FEBRERO DE 2026)</small>
 
-XXV. Víctima: La mujer de cualquier edad a quien se le inflige cualquier tipo de violencia;
+XVIII. Muertes evitables: Conjunto de defunciones que se podrían haber prevenido con la adecuada intervención y atención inmediata de los servicios públicos;
 
-> <small>(REFORMADA, P.O. 9 DE ENERO DE 2026)</small>
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XVII], P.O. 12 DE FEBRERO DE 2026)</small>
 
-XXVI. Violencia contra las Mujeres: Cualquier acción u omisión que, en razón de género, cause a las mujeres, adolescentes y niñas daño o sufrimiento psicológico, físico, patrimonial, económico, obstétrico, sexual y reproductivo o incluso, la muerte, tanto en el ámbito privado como en el público, que se expresa en amenazas, agravios, maltrato, lesiones y daños asociados a la exclusión, subordinación, discriminación, explotación y opresión de género en cualquiera de sus modalidades, afectando sus derechos humanos;
+XIX. Perspectiva de Género: Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basadas en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres, contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de la toma de decisiones;
 
-XXVII. Violencia Feminicida: Es la forma extrema de violencia contra las mujeres por razones de género, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social del Estado y puede culminar en homicidio y otras formas de muerte violenta de mujeres.
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XVIII], P.O. 12 DE FEBRERO DE 2026)</small>
 
-> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2025)</small>
+XX. Presupuesto con Perspectiva de Género: Presupuestos que en su diseño, implementación y evaluación consideran los intereses, necesidades y prioridades de mujeres y hombres. El objetivo primordial es la integración transversal de la política de género en planes, programas y acciones gubernamentales;
 
-XXVIII. Interseccionalidad: Herramienta analítica para estudiar, entender y responder a las maneras en que el género se cruza con otras identidades, creando múltiples ejes de diferencias que se interceptan en contextos históricos específicos, mismos que contribuyen a experiencias específicas de opresión y privilegio e influyen sobre el acceso de las mujeres y las niñas a derechos y oportunidades;
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XIX], P.O. 12 DE FEBRERO DE 2026)</small>
 
-> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2025)</small>
+XXI. Programa Estatal: El Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres por Razones de Género;
 
-XXIX. Interculturalidad: Reconocimiento y respeto de las diferencias culturales existentes, bajo la concepción de que las culturas pueden ser diferentes entre sí, pero igualmente válidas, no existiendo culturas superiores ni inferiores. Está orientado a abordar las particularidades de las mujeres de los pueblos indígenas, afrodescendientes y otros grupos étnicos diferenciados y su relación con la sociedad dominante, más allá de la coexistencia de culturas;
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XXI], P.O. 12 DE FEBRERO DE 2026)</small>
 
-> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2025)</small>
+XXII. Personas Servidoras Públicas: Es toda aquella persona que desempeña un empleo, cargo o comisión en la Administración Pública, Estatal y Municipal, incluyendo a representantes de elección popular, miembros del Poder Judicial, funcionarios, empleados y cualquier persona que realice funciones para el Estado y sus municipios, así como en los organismos públicos y descentralizados;
 
-XXX. Multiculturalidad: Reconocimiento de la existencia de varias culturas que conviven en un mismo espacio físico, geográfico o social;
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XX], P.O. 12 DE FEBRERO DE 2026)</small>
 
-> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2025)</small>
+XXIII. Refugios: Son los albergues, estancias, centros o establecimientos constituidos por instituciones gubernamentales y privadas para la atención y protección de las mujeres y sus hijas e hijos víctimas de violencia;
 
-XXXI. Enfoque Diferencial: Tiene como objetivo visibilizar las diferentes situaciones de vulnerabilidad de las mujeres, las adolescentes y las niñas, ya sea por género, edad, etnia o discapacidad; así como las vulneraciones específicas a sus derechos humanos en tanto (sic) pertenecientes a grupos sociales o culturales específicos. Lo anterior con el objetivo de diseñar y ejecutar medidas afirmativas para la garantía del goce efectivo de los derechos de las mujeres, las adolescentes y las niñas; y,
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXII], P.O. 12 DE FEBRERO DE 2026)</small>
 
-> <small>(ADICIONADA, P.O. 25 DE FEBRERO DE 2025)</small>
+XXIV. Sistema Estatal: El Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las mujeres por razones de género;
 
-XXXII. Debida Diligencia: La obligación de las personas servidoras públicas de prevenir, atender, investigar y sancionar la violencia contra las mujeres de manera oficiosa, oportuna, competente, independiente, imparcial, exhaustiva y garantizando la participación individual y colectiva de las mujeres, para garantizar el derecho a una vida libre de violencia, a la verdad, la justicia y la reparación integral y transformadora.
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXIII], P.O. 12 DE FEBRERO DE 2026)</small>
+
+XXV. Tolerancia de la Violencia: La acción o inacción permisiva de la sociedad o de las instituciones que favorecen la existencia o permanencia de la violencia, incrementando la prevalencia de la discriminación y violencia de género;
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXIV], P.O. 12 DE FEBRERO DE 2026)</small>
+
+XXVI. Transversalidad de la Perspectiva de Género: Es el proceso que permite garantizar la incorporación de la perspectiva de género con el objetivo de valorar las implicaciones que tienen para las mujeres y hombres cualquier acción que se programe, tratándose de legislación, políticas públicas, actividades administrativas, económicas y culturales dentro de las instituciones públicas y privadas;
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXV], P.O. 12 DE FEBRERO DE 2026)</small>
+
+XXVII. Víctima: La mujer de cualquier edad a quien se le inflinge (sic) cualquier tipo de violencia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE FEBRERO DE 2026)</small>
+
+XXVIII. Victimización Secundaria: Las características y condiciones particulares de las mujeres, las adolescentes y las niñas, que no podrán ser motivos para negarles su calidad de víctima. El Estado no podrá exigir mecanismos, procedimientos o acciones que agraven su condición, ni establecer requisitos que obstaculicen e impidan el ejercicio de sus derechos ni las expongan a sufrir un nuevo daño por la conducta de las personas servidoras públicas;
+
+> <small>(REFORMADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XXVI], P.O. 12 DE FEBRERO DE 2026)</small>
+
+XXIX. Violencia contra las Mujeres: Cualquier acción u omisión que, en razón del género, cause a las mujeres, las adolescentes y niñas daño o sufrimiento psicológico, físico, patrimonial, económico, obstétrico, sexual y reproductivo o incluso, la muerte, tanto en el ámbito privado como en el público, que se expresa en amenazas, agravios, maltrato, lesiones y daños asociados a la exclusión, subordinación, discriminación, explotación y opresión de género en cualquiera de sus modalidades, afectando sus derechos humanos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXVIII], P.O. 12 DE FEBRERO DE 2026)</small>
+
+XXX. Interseccionalidad: Herramienta analítica para estudiar, entender y responder a las maneras en que el género se cruza con otras identidades, creando múltiples ejes de diferencias que se interceptan en contextos históricos específicos, mismos que contribuyen a experiencias específicas de opresión y privilegio e influyen sobre el acceso de las mujeres y las niñas a derechos y oportunidades;
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXIX], P.O. 12 DE FEBRERO DE 2026)</small>
+
+XXXI. Interculturalidad: Reconocimiento y respeto de las diferencias culturales existentes, bajo la concepción de que las culturas pueden ser diferentes entre sí, pero igualmente válidas, no existiendo culturas superiores ni inferiores. Está orientado a abordar las particularidades de las mujeres de los pueblos indígenas, afrodescendientes y otros grupos étnicos diferenciados y su relación con la sociedad dominante, más allá de la coexistencia de culturas;
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXX], P.O. 12 DE FEBRERO DE 2026)</small>
+
+XXXII. Multiculturalidad: Reconocimiento de la existencia de varias culturas que conviven en un mismo espacio físico, geográfico o social;
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXXI], P.O. 12 DE FEBRERO DE 2026)</small>
+
+XXXIII. Enfoque Diferencial: Tiene como objetivo visibilizar las diferentes situaciones de vulnerabilidad de las mujeres, las adolescentes y las niñas, ya sea por género, edad, etnia o discapacidad; así como las vulneraciones específicas a sus derechos humanos en tanto (sic) pertenecientes a grupos sociales o culturales específicos. Lo anterior con el objetivo de diseñar y ejecutar medidas afirmativas para la garantía del goce efectivo de los derechos de las mujeres, las adolescentes y las niñas; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXXII], P.O. 12 DE FEBRERO DE 2026)</small>
+
+XXXIV. Debida Diligencia: La obligación de las personas servidoras públicas de prevenir, atender, investigar y sancionar la violencia contra las mujeres de manera oficiosa, oportuna, competente, independiente, imparcial, exhaustiva y garantizando la participación individual y colectiva de las mujeres, para garantizar el derecho a una vida libre de violencia, a la verdad, la justicia y la reparación integral y transformadora.
 
 ###### ARTÍCULO 7.
 
@@ -227,7 +291,9 @@ XIII. El monitorear las poblaciones y municipios con el fin de evitar un increme
 
 XIV. El generar una cultura de legalidad y de denuncia de actos violentos, ya sean de modalidad pública o privada, contra mujeres;
 
-XV. El otorgamiento y consecuente registro de las órdenes de protección que se emitan por la autoridad competente, independientemente de las medidas precautorias o cautelares que determine el Poder Judicial con motivo de los juicios que se tramiten ante éste; y,
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+XV. El otorgamiento y consecuente registro de las medidas u órdenes de protección que se emitan por la autoridad competente, independientemente de las medidas precautorias o cautelares que determine el Poder Judicial con motivo de los juicios que se tramiten ante este; y,
 
 XVI. El establecer procedimientos arbitrales y administrativos para los casos donde no exista denuncia penal.
 
@@ -237,9 +303,13 @@ XVII. La promoción de mecanismos y acciones tendientes a garantizar la igualdad
 
 ### CAPÍTULO II. TIPOS Y MODALIDADES DE LA VIOLENCIA CONTRA LAS MUJERES
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
 ###### ARTÍCULO 8.
 
-La violencia familiar es todo acto de poder u omisión intencional dirigido a dominar, someter, controlar o agredir física, verbal, psicoemocional, sexual, patrimonial o económicamente a las mujeres, dentro o fuera del domicilio conyugal, realizado por personas con quien tengan relación de parentesco por consanguinidad y tengan o hayan tenido relación por matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
+La violencia familiar es todo acto de poder u omisión intencional dirigido a dominar, someter, controlar o agredir física, verbal, psicológica, sexual, patrimonial o económicamente a las mujeres, las adolescentes o niñas, dentro o fuera del domicilio familiar, realizado por personas con quien tengan o hayan tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho.
+
+También se considera violencia familiar cuando la persona agresora tenga responsabilidades de cuidado o de apoyo, aunque no tenga una relación de parentesco.
 
 > <small>(REFORMADO, P.O. 12 DE MAYO DE 2017)</small>
 
@@ -247,13 +317,19 @@ La violencia familiar es todo acto de poder u omisión intencional dirigido a do
 
 Los tipos de violencia contra las mujeres son:
 
-I. Violencia psicológica: Cualquier acción u omisión que consiste en negligencia, abandono, intimidación, coacción, infidelidad, marginación, anulación, celotipia, prohibición, rechazo, comparación destructiva, condicionamiento, restricción a la autodeterminación y amenazas, que provocan deterioro, disminución o afectación en las diferentes áreas de la personalidad de quien las recibe;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2023)</small>
+I. Violencia psicológica: Cualquier acción u omisión que consiste en negligencia, abandono, intimidación, coacción, infidelidad, marginación, anulación, celotipia, prohibición, rechazo, comparación destructiva, condicionamiento, restricción a la autodeterminación y amenazas, que provocan deterioro, disminución o afectación en las diferentes áreas de la personalidad de quien las recibe; las cuales conllevan a la víctima a la depresión, aislamiento, pérdida de su autoestima e incluso al suicidio;
 
-II. Violencia física: Cualquier acto u omisión, en que se utiliza parte del cuerpo, algún objeto, arma, sustancia ácida, corrosiva, cáustica, irritante, tóxica o inflamable o cualquier otra que, para sujetar, inmovilizar, encaminado a obtener sometimiento, control, miedo o causar daño a la integridad física de las mujeres independientemente de que produzca o no lesiones físicas visibles;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
-III. Violencia sexual: Cualquier acción, mediante la violencia física o psicológica que genera daño y limita o condiciona el ejercicio de la sexualidad, independientemente de que constituya un ilícito previsto y sancionado por las leyes penales; el acoso sexual es parte de la violencia sexual, independientemente de la modalidad en que se manifieste;
+II. Violencia física: Cualquier acto u omisión, en que se utiliza parte del cuerpo, algún objeto, arma, sustancia ácida, corrosiva, cáustica, irritante, tóxica o inflamable o cualquier otra que, para sujetar, inmovilizar, encaminado a obtener sometimiento, control, miedo o causar daño a la integridad física de las mujeres, las adolescentes y las niñas, independientemente de que produzca o no lesiones físicas visibles;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+III. Violencia sexual: Cualquier acción, mediante la violencia física o psicológica que pone en riesgo, lesiona, degrada, daña o atenta contra el cuerpo y/o la sexualidad de la víctima la libertad, dignidad, seguridad, integridad física y mental y desarrollo psicosexual de las mujeres, las adolescentes y las niñas; limita o condiciona el ejercicio de la sexualidad, con independencia de que constituya un ilícito previsto y sancionado por las leyes penales, incluyendo las miradas o palabras lascivas, el acoso, el hostigamiento sexual, la violación, así como la explotación sexual y de su imagen.
+
+Es una expresión de abuso de poder, que se puede dar en el espacio público o privado, que implica la supremacía masculina sobre las mujeres, al denigrarla y concebirla como objeto;
 
 > <small>(ADICIONADA [N. DE E. CON SUS FRACCIONES], P.O. 9 DE ENERO DE 2026)</small>
 
@@ -279,9 +355,13 @@ VII. Cualquier forma análoga que lesione o sea susceptible de dañar la dignida
 
 III Ter. Violencia contra los derechos reproductivos: Toda acción u omisión que limite o vulnere el derecho de las mujeres a decidir libre y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, a una maternidad elegida y segura, así como el acceso a servicios de aborto seguro en el marco previsto por los ordenamientos relativos para la interrupción legal del embarazo, así como a servicios de atención prenatal y obstétricos de emergencia;
 
-IV. Violencia patrimonial: Cualquier acción u omisión encaminada a la sustracción, destrucción, retención de objetos, alteración de valores, documentos personales o bienes de las mujeres o de su entorno familiar, que limitan o dañan la supervivencia económica, independientemente del valor material o emocional, asociado a estos;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
-V. Violencia económica: Cualquier acción limitativa y de control de los ingresos propios, adquiridos o asignados a las mujeres, para lesionar su independencia y supervivencia económica;
+IV. Violencia patrimonial: Cualquier acción u omisión encaminada a la sustracción, destrucción, retención de objetos, alteración de valores, documentos personales o bienes de las mujeres, las adolescentes o las niñas, de su entorno familiar, que limitan o dañan la supervivencia económica, independientemente del valor material o emocional, asociado a estos;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+V. Violencia económica: Cualquier acción limitativa y de control de los ingresos propios, adquiridos o asignados a las mujeres, las adolescentes o las niñas para lesionar su independencia y supervivencia económica;
 
 > <small>(REFORMADA, P.O. 7 DE JULIO DE 2020)</small>
 
@@ -291,9 +371,9 @@ Se entenderá que las acciones u omisiones se basan en elementos de género, cua
 
 Puede manifestarse en cualquiera de los tipos de violencia reconocidos en esta Ley y puede ser perpetrada indistintamente por agentes estatales, por superiores jerárquicos, colegas de trabajo, personas dirigentes de partidos políticos, militantes, simpatizantes, precandidatas, precandidatos, candidatas o candidatos postulados por los partidos políticos o representantes de los mismos; medios de comunicación y sus integrantes, por un particular o por un grupo de personas particulares.
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
-VII. Violencia simbólica: Aquella que, a través de patrones estereotipados, mensajes, iconos o signos transmita y reproduzca dominación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en la sociedad;
+VII. Violencia simbólica: Aquella que, a través de patrones estereotipados, mensajes, iconos o signos, transmita y reproduzca dominación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de las mujeres, las adolescentes y las niñas en la sociedad;
 
 > <small>(REFORMADA, P.O. 9 DE ENERO DE 2026)</small>
 
@@ -335,17 +415,21 @@ Para efectos del presente artículo se entiende por persona significativa cualqu
 
 X. Violencia contra las mujeres periodistas y defensoras de derechos humanos. Es toda acción u omisión incluida la tolerancia basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de su derecho a la libertad de expresión y al ejercicio de sus labores o actividades en condición de no discriminación y libres de cualquier manifestación de violencia; y,
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
-XI. Violencia en el noviazgo: Cualquier acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir a las mujeres, mediante la realización de uno o varios tipos de violencia, durante o después de una relación de noviazgo, una relación afectiva o una relación sexual, y que viola sus derechos humanos; y,
+XI. Violencia en el noviazgo. Cualquier acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir a las mujeres, las adolescentes y las niñas mediante la realización de uno o varios tipos de violencia, durante o después de una relación de noviazgo, una relación afectiva o una relación sexual, que viola sus derechos humanos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE ENERO DE 2026)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE FEBRERO DE 2026)</small>
 
-XII. Violencia por acecho: Cualquier conducta reiterada, sistemática o persistente, sin consentimiento y no deseada, ya sea presencial o a través de medios digitales o tecnológicos que, implique vigilancia, seguimiento, envío de mensajes, objetos o cualquier forma de contacto, comunicación o intrusión en la vida de mujeres, adolescentes o niñas; realizada en dos o más ocasiones, que le cause miedo, angustia, cualquier afectación emocional o alteración de su vida cotidiana; y,
+XII. Violencia moral: Todo acto u omisión encaminados a la vejación, escarnio y mofa, cuya finalidad sea afectar y dominar la calidad humana y moral de la persona, exponiéndola al desprecio de las y los demás, incentivando al odio para impedirle el buen desarrollo personal y profesional, así como su integración social;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE ENERO DE 2026)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA ANTES FRACCIÓN XII], P.O. 12 DE FEBRERO DE 2026)</small>
 
-XIII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad, la salud y la libertad de las mujeres.
+XIII. Violencia por acecho: Cualquier conducta reiterada, sistemática o persistente, sin consentimiento y no deseada, ya sea presencial o a través de medios digitales o tecnológicos que, implique vigilancia, seguimiento, envío de mensajes, objetos o cualquier forma de contacto, comunicación o intrusión en la vida de las mujeres, las adolescentes o las niñas; realizada en dos o más ocasiones, que le cause miedo, angustia, cualquier afectación emocional o alteración de su vida cotidiana; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XIII], P.O. 12 DE FEBRERO DE 2026)</small>
+
+XIV. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad, la salud y la libertad de las mujeres.
 
 > <small>(ADICIONADO, P.O. 7 DE JULIO DE 2020)</small>
 
@@ -373,13 +457,23 @@ VIII. Producir, difundir y promover información, de manera directa o indirecta 
 
 IX. Alterar y propagar imágenes o audios generados o modificados mediante inteligencia artificial.
 
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2026)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 12 DE FEBRERO DE 2026)</small>
 
-ARTÍCULO 9 TER. Tratándose de violencia digital o mediática para garantizar la integridad de la víctima, la o el Ministerio Público, la jueza o el juez, deberán aplicar, con un deber reforzado en la debida diligencia, las medidas cautelares para resguardar la identidad de las víctimas, evitar que sigan circulando las imágenes, videos o audios, conforme a la normatividad procesal nacional en la materia, los estándares internacionales, protocolos y demás manuales de buenas prácticas. De lo contrario, su omisión será considerada falta administrativa grave.
+###### ARTÍCULO 9.
 
-> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2026)</small>
+TER. Tratándose de violencia digital o mediática para garantizar la integridad de la víctima, la o el Ministerio Público, la jueza o el juez, deberán aplicar, con un deber reforzado en la debida diligencia, la aplicación de medidas cautelares para resguardar la identidad de las víctimas, evitar que sigan circulando las imágenes, videos o audios, conforme a la normatividad procesal nacional en la materia, los estándares internacionales, protocolos y demás manuales de buenas prácticas. De lo contrario, su omisión será considerada falta administrativa grave.
 
-ARTÍCULO 9 QUATER. La recopilación y divulgación indebida de datos personales será reconocido como una forma de violencia digital, comprendiendo todas aquellas acciones ejecutadas directa e indirectamente, la creación de perfiles falsos en las redes sociales, la difusión de campañas de desprestigio, la sustracción y manipulación de datos personales, la usurpación de identidad de una persona, realizado por tecnologías de la información, plataformas digitales, redes sociales e inteligencia artificial.
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 12 DE FEBRERO DE 2026)</small>
+
+###### ARTÍCULO 9.
+
+QUATER. La recopilación y divulgación indebida de datos personales será reconocido como una forma de violencia digital, comprendiendo todas aquellas acciones ejecutadas directa e indirectamente, la creación de perfiles falsos en las redes sociales, la difusión de campañas de desprestigio, la sustracción y manipulación de datos personales, la usurpación de identidad de una persona, realizado por tecnologías de la información, plataformas digitales, redes sociales e inteligencia artificial.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+###### ARTÍCULO 9.
+
+QUINQUIES. Violencia Feminicida: Es la forma extrema de violencia de género contra las mujeres, las adolescentes y las niñas, que consiste en un proceso continuo de agresiones o manifestaciones de odio y discriminación de diferente intensidad de tipo ascendente que, no necesariamente implica la muerte, pero que la coloca en una situación de riesgo latente de afrontar o culminar en una muerte violenta, suicidio u otras formas de muerte evitables, producto de la violación a sus derechos humanos y del ejercicio abusivo del poder, en los ámbitos público y privado, que puede conllevar impunidad social y del Estado.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 18 DE FEBRERO DE 2022)</small>
 
@@ -387,13 +481,13 @@ ARTÍCULO 9 QUATER. La recopilación y divulgación indebida de datos personales
 
 La violencia familiar también incluye:
 
-> <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
-I. La selección nutricional en contra de las mujeres, niñas y las adolescentes;
+I. La selección nutricional en contra de las mujeres, las adolescentes y las niñas;
 
-> <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
-II. La asignación exclusiva de los cuidados a terceros, motivada por los estereotipos de género discriminación, de actividades domésticas a las mujeres, niñas y adolescentes del núcleo familiar, que impidan, que anulen, que menoscaban, omitan o dilaten el derecho a la igualdad de oportunidades y una vida digna;
+II. La asignación exclusiva de los cuidados a terceros, motivada por los estereotipos de género, y por discriminación, de actividades domésticas a las mujeres, las adolescentes y las niñas del núcleo familiar, que impidan, que anulen, que menoscaban, omitan o dilaten el derecho a la igualdad de oportunidades y una vida digna;
 
 III. La prohibición para iniciar o continuar con actividades escolares, laborales o sociales;
 
@@ -405,9 +499,9 @@ IV. La prohibición para recibir atención médica y atención médica preventiv
 
 V. La imposición vocacional, incluyendo la fundada en los estereotipos y roles de género;
 
-> <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
-VI. El favorecimiento de un estado de riesgo en la salud física, sexual y mental; su situación jurídica, social, educativa, patrimonial, económica y política en los espacios públicos y privados contra las mujeres, niñas y las adolescentes;
+VI. El favorecimiento de un estado de riesgo en la salud física, sexual y mental; su situación jurídica, social, educativa, patrimonial, económica y política en los espacios públicos y privados contra las mujeres, las adolescentes y las niñas;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MARZO DE 2025)</small>
 
@@ -421,11 +515,11 @@ VIII. Las conductas que señala el Código Familiar para el Estado de Michoacán
 
 Será considerada violencia contra la salud, la ejercida por un familiar, ya sea ascendente o descendente, o por persona con la que tenga una relación por matrimonio, concubinato, o similar a las anteriores, y que le prohíban recibir la atención médica necesaria.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2026)</small>
 
 ###### ARTÍCULO 11.
 
-La violencia laboral y docente, se ejerce por las personas que tienen un vínculo laboral, docente o análogo con la víctima, independientemente de la relación jerárquica, consistente en un acto o una omisión, amenazas, abuso de poder, que provocan y vulneran la libertad y seguridad de la víctima, impidiendo el libre desarrollo de la personalidad de las mujeres, del proceso de enseñanza aprendizaje, y en especial su autoestima, y se constituye:
+La violencia laboral y docente, se ejerce por las personas que tienen un vínculo laboral, docente o análogo con la víctima, independientemente de la relación jerárquica, consistente en un acto o una omisión, amenazas, abuso de poder, que provocan y vulneran la libertad y seguridad de la víctima, impidiendo el libre desarrollo de la personalidad de las mujeres, las adolescentes o las niñas del proceso de enseñanza aprendizaje, y en especial su autoestima, y se constituye:
 
 > <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2025)</small>
 
@@ -435,15 +529,21 @@ II. Constituyen violencia docente aquellas conductas que causan daño en las alu
 
 Las modalidades señaladas se pueden constituir en un solo evento o varios, cuya suma produzca el daño; incluido el acoso o el hostigamiento sexual.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2026)</small>
+
 ###### ARTÍCULO 12.
 
-Las políticas y acciones que instrumenten el Estado y sus municipios considerarán en materia de violencia laboral y docente, lo siguiente:
+Las políticas y acciones que instrumenten el Estado y sus municipios considerarán, en materia de violencia laboral y docente, lo siguiente:
 
-I. Reivindicar la dignidad de las mujeres en todos los ámbitos de la vida;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+I. Reivindicar la dignidad de las mujeres, las adolescentes y las niñas en todos los ámbitos de la vida;
 
 II. Establecer mecanismos que favorezcan su erradicación en escuelas y centros laborales privados o públicos, mediante acuerdos y convenios con instituciones escolares, empresas y sindicatos;
 
-III. Crear procedimientos administrativos claros y precisos en las escuelas y los centros laborales, para sancionar estos ilícitos e inhibir su comisión;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+III. Implementar mecanismos de seguimiento a los procedimientos administrativos claros y precisos en las escuelas y los centros laborales, para sancionar estos ilícitos e inhibir su comisión;
 
 IV. En ningún caso se hará público el nombre de la víctima para evitar algún tipo de sobre victimización o pueda ser presionada para abandonar la escuela o trabajo;
 
@@ -451,9 +551,11 @@ V. Proporcionar atención psicológica y legal, especializada y gratuita a quien
 
 VI. Implementar sanciones administrativas para los superiores jerárquicos del hostigador o acosador, cuando sean omisos en recibir o dar curso a una queja.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
 ###### ARTÍCULO 13.
 
-Es violencia institucional, el conjunto de acciones, prácticas u omisiones de servidores públicos, que prolonguen, obstaculicen o impidan que las mujeres accedan a los medios, al goce de sus derechos y a las políticas públicas necesarias para su desarrollo y destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia. Se equipara violencia institucional, la negativa o dilación en el otorgamiento y tramitación de las órdenes de protección, así como su debido seguimiento y registro que prevé la presente Ley.
+Es violencia institucional, el conjunto de acciones, prácticas u omisiones de servidores públicos, que prolonguen, obstaculicen o impidan que las mujeres, las adolescentes, o las niñas accedan a los medios, al goce de sus derechos y a las políticas públicas necesarias para su desarrollo y destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia. Se equiparará violencia institucional, la negativa o dilación en el otorgamiento y tramitación de las medidas u órdenes de protección, así como su debido seguimiento y registro que prevé la presente Ley.
 
 > <small>(ADICIONADO, P.O. 9 DE ENERO DE 2026)</small>
 
@@ -461,9 +563,11 @@ ARTÍCULO 13 BIS. Acoso sexual en espacios públicos: Es una forma de violencia 
 
 ### CAPÍTULO III. POLÍTICAS CONTRA LA VIOLENCIA A LAS MUJERES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2026)</small>
+
 ###### ARTÍCULO 14.
 
-Las políticas que instrumenten el Estado y sus municipios considerarán en materia de violencia familiar, lo siguiente:
+Las políticas que instrumenten el Estado y sus municipios considerarán, en materia de violencia familiar, lo siguiente:
 
 > <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
 
@@ -477,19 +581,25 @@ III. Prohibir que la atención que reciban la víctima y el agresor sea proporci
 
 IV. Prohibir procedimientos de mediación o conciliación, por ser inviables en una relación de sometimiento entre el agresor y la víctima;
 
-> <small>(REFORMADA, P.O. 26 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
-V. Garantizar la instalación y el mantenimiento de refugios para las víctimas y sus hijas e hijos menores de edad o incapaces; la información sobre su ubicación será reservada y proporcionarán apoyo psicológico y legal especializados y gratuitos. Las personas que laboren en los refugios deberán contar con la cédula profesional expedida por la autoridad competente, correspondiente a la especialidad en que desarrollen su trabajo. En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo de violencia; y,
+V. Garantizar la creación, fortalecimiento y mantenimiento, de espacios de refugios especializados con recursos etiquetados que garanticen servicios integrales y especializados en condiciones dignas a fin de brindar protección a las mujeres, las adolescentes y las niñas víctimas de violencia de género y, en su caso, a sus hijas, hijos o dependientes; la información sobre su ubicación será reservada y proporcionarán apoyo psicológico y legal especializados y gratuitos.
 
-> <small>(ADICIONADA, P.O. 26 DE JULIO DE 2024)</small>
+Las personas que laboren en los refugios deberán contar con la cédula profesional expedida por la autoridad competente, correspondiente a la especialidad en que desarrollen su trabajo. En ningún caso podrán laborar en los refugios personas que hayan sido sancionadas por ejercer algún tipo de violencia;
 
-VI. Establecer en coordinación con la Comisión Ejecutiva Estatal de Atención a Víctimas, los servicios de apoyo psicológico y jurídico, y en aquellos casos que lo requieran apoyo económico o canalización para educación, alimentación y servicios médicos de las niñas, niños y adolescentes que hayan quedado en situación de orfandad como consecuencia del delito de feminicidio.
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2026)</small>
+VI. Establecer en coordinación con la Comisión Ejecutiva Estatal de Atención a Víctimas, los servicios de apoyo psicológico y jurídico, y en aquellos casos que lo requieran apoyo económico o canalización para educación, alimentación y servicios médicos de las niñas, niños y adolescentes que hayan quedado en situación de orfandad como consecuancia (sic) del delito de feminicidio; y,
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+VII. Contar con acceso a la atención integral, multidisciplinaria y transversal en los Centros de Justicia para las Mujeres;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2026)</small>
 
 ###### ARTÍCULO 15.
 
-Las autoridades responsables de la aplicación de esta Ley estarán obligadas a elaborar acciones y políticas públicas que integren:
+Las autoridades responsables de la aplicación de esta Ley, estarán obligadas a elaborar acciones y políticas públicas que integren:
 
 > <small>(REFORMADA, P.O. 8 DE MARZO DE 2025)</small>
 
@@ -503,29 +613,43 @@ II. Implementar sanciones administrativas que incluyan la reeducación libre de 
 
 III. En materia de violencia política contra las mujeres en razón de género, el Tribunal Electoral del Estado de Michoacán y el Instituto Electoral de Michoacán, podrán solicitar a las autoridades competentes el otorgamiento de las medidas a que se refiere la presente Ley; y,
 
-> <small>(ADICIONADA, P.O. 25 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
-IV. En materia de violencia contra las mujeres periodistas y defensoras de derechos humanos se deberán generar los mecanismos idóneos de prevención y atención de la violencia que viven estos grupos poblacionales, en el entendido del riesgo que corren al desarrollar su actividad. Entre estos mecanismos se deberán de elaborar protocolos específicos de atención a la violencia que viven en el ejercicio de su labor, ponderando el nivel de riesgo en el que se encuentran, así como protocolos desde la perspectiva de género de acoso y hostigamiento sexual, así como el mecanismo claro para la generación de sus denuncias.
+IV. En materia de violencia contra las mujeres periodistas y defensoras de derechos humanos se deberán generar los mecanismos idóneos de prevención y atención de la violencia que viven estos grupos poblacionales, en el entendido del riesgo que corren al desarrollar su actividad. Entre estos mecanismos se deberán de elaborar protocolos específicos de atención a la violencia que viven en el ejercicio de su labor, ponderando el nivel de riesgo en el que se encuentran, así como protocolos desde la perspectiva de género de acoso y hostigamiento sexual, así como el mecanismo claro para la generación de sus denuncias;
 
-> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2026)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 12 DE FEBRERO DE 2026)</small>
 
-V. En materia de violencia obstétrica, se deberán desarrollar y aplicar acciones y programas que fomenten la atención integral, en un ámbito de dignidad y respeto hacia las mujeres y personas gestantes durante el embarazo, parto, puerperio o en emergencias obstétricas, así como el acceso de las mujeres a decidir de manera libre, responsable e informada el número y espaciamiento de hijos y, en su caso, los métodos anticonceptivos que deseen utilizar; de igual forma se instrumentarán políticas transversales para la prevención, sanción y erradicación de la violencia obstétrica.
+V. En materia de violencia obstétrica, se deberán desarrollar y aplicar acciones y programas que fomenten la atención integral, en un ámbito de dignidad y respeto hacia las mujeres y personas gestantes durante el embarazo, parto, puerperio o en emergencias obstétricas, así como el acceso de las mujeres a decidir de manera libre, responsable e informada el número y espaciamiento de hijos y, en su caso, los métodos anticonceptivos que deseen utilizar; de igual forma se instrumentarán políticas transversales para la prevención, sanción y erradicación de la violencia obstétrica; y,
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+VI. El suministro de información al banco de datos sobre las medidas u órdenes de protección y de las personas sujetas a ellas, para realizar las acciones de política criminal que correspondan y faciliten el intercambio de información entre las instancias.
 
 ###### ARTÍCULO 16.
 
 La violencia en la comunidad, es toda acción u omisión que se realiza de manera colectiva o individual por actores sociales o comunitarios, directa o indirectamente, que generan degradación, discriminación, marginación, exclusión en la esfera pública o privada, limitando, consecuentemente, la autonomía física, sexual o psicoemocional y su defensa, favoreciendo un estado de riesgo.
 
-El establecimiento de un banco de datos sobre las órdenes de protección y de las personas sujetas a ellas, para realizar las acciones de política criminal que correspondan y faciliten el intercambio de información entre las instancias.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 12 DE FEBRERO DE 2026)</small>
 
 ###### ARTÍCULO 17.
 
 Las autoridades responsables de la aplicación de esta Ley, deberán elaborar acciones y políticas que contemplen:
 
-I. La reeducación libre de estereotipos y la información de alerta sobre el estado de riesgo que enfrentan las mujeres en una sociedad desigual y discriminatoria;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
-II. El diseño de un sistema de monitoreo del comportamiento violento de los individuos y de la sociedad contra las mujeres; y,
+I. La reeducación libre de estereotipos y la información de alerta sobre el estado de riesgo que enfrentan las mujeres, las adolescentes y las niñas en una sociedad desigual y discriminatoria;
 
-III. El establecimiento de un banco de datos sobre las órdenes de protección y de las personas sujetas a ellas, para realizar las acciones de política criminal que correspondan y faciliten el intercambio de información entre las instancias.
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+II. El diseño de un sistema de monitoreo del comportamiento violento de los individuos y de la sociedad contra las mujeres, las adolescentes y las niñas;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+III. La administración y operación de un banco de datos sobre las medidas u órdenes de protección y de las personas sujetas a ellas, para realizar las acciones de política criminal que correspondan y faciliten el intercambio de información entre las instancias; y,
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+IV. El diseño de políticas públicas dirigidas al desarrollo de espacios y transportes públicos libres de todo tipo de violencia contra las mujeres, las adolescentes y las niñas.
 
 ### CAPÍTULO IV. SISTEMA Y SUBSISTEMAS
 
@@ -543,9 +667,9 @@ El Sistema Estatal deberá crear y conjuntar esfuerzos, instrumentos, políticas
 
 El Sistema Estatal tendrá por objeto la creación e instrumentación del Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las mujeres por razones de género, así como los mecanismos que faciliten la aplicación del Modelo Único de Atención, sus instrumentos, servicios y políticas públicas.
 
-> <small>(ADICIONADO, P.O. 20 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
 
-El Sistema Estatal, a través de su Presidente, presentará ante el Congreso del Estado, durante el mes de noviembre en acto público, informe anual por escrito de sus actividades, que deberá contener detalladamente resultados de su actividad y de sus subsistemas, principalmente en lo concerniente a: el contenido del Programa Estatal, el avance y resultados de su implementación, el desarrollo del Modelo Único de Atención, así como la eficacia y eficiencia en su implementación; los resultados del Banco Estatal de Datos y su trayectoria histórica, la incidencia y eficacia de la implementación de Órdenes de Protección en el territorio estatal y en su caso, los resultados de la implementación de la Alerta de Violencia de Género en el Estado.
+El Sistema Estatal, a través de su Presidente, presentará ante el Congreso del Estado, durante el mes de noviembre y en acto público, un informe anual por escrito de sus actividades, el cual deberá contener de manera detallada los resultados de su operación y de sus subsistemas, principalmente en lo concerniente al contenido del Programa Estatal, el avance y resultados de su implementación, el desarrollo del Modelo Único de Atención, así como la eficacia y eficiencia en su aplicación. Asimismo, deberá incluir los resultados del Banco Estatal de Datos y su trayectoria histórica, destacando que la información registrada deberá ser homologable a la contenida en el Banco Nacional de Datos e Información sobre Casos de Violencia contra las Mujeres (BANAVIM), con el propósito de fortalecer la coordinación con la federación. También se deberá informar sobre la incidencia y eficacia en la implementación de las medidas u órdenes de Protección en el territorio estatal y, en su caso, los resultados derivados de la implementación de la Alerta de Violencia de Género en la entidad.
 
 ###### ARTÍCULO 20.
 
@@ -649,9 +773,11 @@ Las sesiones ordinarias se convocarán por lo menos con diez días hábiles de a
 
 Las sesiones extraordinarias se convocarán con cinco días de anticipación a la celebración de la misma, y el orden del día versará sobre asuntos urgentes.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
 ###### ARTÍCULO 25.
 
-El Subsistema Regional, tiene por objeto dar cumplimiento a los propósitos y acciones de la presente Ley en los ámbitos regionales y municipales, además de vigilar el otorgamiento de las órdenes de protección.
+El Subsistema Regional, tiene por objeto dar cumplimiento a los propósitos y acciones de la presente Ley en los ámbitos regionales y municipales, además de vigilar el otorgamiento de las medidas u órdenes de protección.
 
 Este subsistema estará integrado por los ayuntamientos del Estado, agrupados conforme a la división regional de la entidad.
 
@@ -827,15 +953,43 @@ II. Establecer agrupamientos o secciones de la policía preventiva especializado
 
 III. Incluir en la formación y capacitación de los cuerpos policíacos las materias específicas sobre equidad, perspectiva de género, violencia, discriminación, inclusión, igualdad y derechos humanos de las mujeres, niñas y las adolescentes; violencia de género;
 
-IV. Auxiliar en caso de la implementación de órdenes de protección conforme a las disposiciones aplicables;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+IV. Auxiliar en caso de la implementación de medidas u órdenes de protección conforme a las disposiciones aplicables;
 
 V. Proporcionar la información estadística a las autoridades estatales y encargadas de efectuar investigaciones en materia de violencia contra las mujeres por razones de género;
 
-VI. Establecer las estrategias de proximidad en cumplimiento a la precaución razonable de seguridad y a las órdenes de protección que existan, de conformidad con los protocolos de actuación correspondiente;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
-VII. Garantizar que la actuación de los efectivos policiales no realicen prácticas de negociación, conciliación o mediación entre la víctima y el agresor, bajo ninguna circunstancia; y,
+VI. Establecer las estrategias de proximidad en cumplimiento a la precaución razonable de seguridad y a las medidas u órdenes de protección que existan, de conformidad con los protocolos de actuación correspondiente;
 
-VIII. Cumplir con cada una de las atribuciones que le confiere la normatividad aplicable.
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+VII. Garantizar que la actuación de los efectivos policiales no realice prácticas de negociación, conciliación o mediación entre la víctima y el agresor, bajo ninguna circunstancia;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+VIII. Implementar de manera directa e inmediata las medidas de protección necesarias para salvaguardar la vida, integridad, libertad y seguridad de las víctimas, sin condicionarlas a la presentación de una denuncia o querella;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+IX. Verificar la trazabilidad, estado y efectividad de las medidas y órdenes de protección impuestas por las autoridades competentes de los tres órdenes de gobierno;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+X. Determinar la forma de coordinación entre las autoridades administrativas y jurisdiccionales competentes de los tres órdenes de gobierno, para dar seguimiento a las medidas u órdenes de protección emitidas con independencia del lugar en que hayan sido ordenadas;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+XI. Verificar la atención de la solicitud de medidas u órdenes de protección, con independencia del lugar en que hayan sido ordenadas;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+XII. Solicitar información a las autoridades administrativas jurisdiccionales competentes sobre la atención, seguimiento y ejecución de las medidas u órdenes de protección; y,
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+XIII. Cumplir con cada una de las atribuciones que le confiere la normatividad aplicable.
 
 > <small>(REFORMADO, P.O. 8 DE MARZO DE 2025)</small>
 
@@ -871,9 +1025,17 @@ X. Difundir la cultura de respeto de los derechos de las mujeres y promover que 
 
 XI. Promover investigaciones sobre las causas y las consecuencias de la violencia contra las mujeres;
 
-XII. Proporcionar la asistencia y protección social a las mujeres víctimas de violencia, en todos los centros y refugios que se encuentren a su cargo; y,
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
-XIII. Integrar, organizar y sistematizar el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres.
+XII. Proporcionar la asistencia y protección social a las mujeres, las adolescentes y las niñas víctimas de violencia, en todos los centros y refugios que se encuentren a su cargo;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+XIII. Integrar, organizar y sistematizar el Banco Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres, adolescentes y las niñas, así como incluir la información de medidas y órdenes de protección emitidas por las instituciones responsables en el Estado; y,
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+XIV. Dar seguimiento a los mecanismos de coordinación y atención a las solicitudes de medidas y órdenes de protección previstas en la presente Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE AGOSTO DE 2019)</small>
 
@@ -919,7 +1081,9 @@ II. Promover y vigilar que la atención en las diversas instituciones públicas 
 
 III. Emitir, en el ámbito de su competencia la normatividad de carácter administrativo para sancionar la violencia contra las mujeres por razones de género;
 
-IV. Ordenar a través del Síndico Municipal las órdenes de protección, y ejecutarlas con la fuerza pública;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+IV. Ordenar a través de la persona Síndica Municipal las medidas u órdenes de protección, y ejecutarlas con la fuerza pública;
 
 V. Fomentar y promover la creación de refugios, así como programas de reeducación y atención psicológica dirigidos a los agresores;
 
@@ -983,13 +1147,13 @@ XII. Promover la cultura de denuncia de la violencia contra las mujeres por razo
 
 XIII. Diseñar un modelo integral de atención a los derechos humanos y ciudadanía de las mujeres que deberán instrumentar las instituciones, los centros de atención y los refugios que atiendan a víctimas.
 
-> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
-XIV. Realizar campañas de prevención, sensibilización y capacitación sobre la violencia contra las mujeres en el transporte público.
+XIV. Realizar campañas de prevención, sensibilización y capacitación sobre la violencia contra las mujeres en el transporte público; y,
 
-> <small>(ADICIONADA, P.O. 28 DE JULIO DE 2025)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 12 DE FEBRERO DE 2026)</small>
 
-XV. Implementar programas de formación y capacitación en materia de nuevas masculinidades para las personas servidoras públicas.
+XV. Colaborar, en el ámbito de su competencia, para la implementación, fortalecimiento y sostenibilidad de redes comunitarias de mujeres, con el fin de contribuir a la prevención de las violencias, la reconstrucción del tejido social, el empoderamiento territorial de las mujeres y la promoción de sus derechos humanos.
 
 > <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2025)</small>
 
@@ -1101,7 +1265,9 @@ Los profesionales que presten atención especializada a quien ejerza, provoque o
 
 I. Registrar ante la Secretaría de Igualdad Sustantiva y Desarrollo de las Mujeres el modelo psicoterapéutico validado, en cuanto a su efectividad y metodología, por la Secretaría de Salud el cual será refrendado anualmente; y,
 
-II. Contar con una institución pública o privada reconocida por la Secretaría de Salud, que funja como supervisor clínico de los profesionales que proporcionan la atención psicoterapéutica reeducativa al agresor, ya sea voluntaria o como resultado de una determinación de carácter jurisdiccional, incluyendo las órdenes de protección.
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+II. Contar con una institución pública o privada reconocida por la Secretaría de Salud, que funja como supervisor clínico de los profesionales que proporcionan la atención psicoterapéutica reeducativa al agresor, ya sea voluntaria o como resultado de una determinación de carácter jurisdiccional, incluyendo las medidas u órdenes de protección.
 
 ###### ARTÍCULO 50.
 
@@ -1153,7 +1319,9 @@ II. Proporcionar a las mujeres información jurídica y la información permanen
 
 III. Mantener la confidencialidad sobre la ubicación de las instalaciones; y,
 
-IV Establecer un plan de seguridad con la víctima en concordancia con las autoridades de seguridad pública, que incluya la solicitud de las órdenes de protección a que haya lugar.
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+IV. Establecer un plan de seguridad con la víctima en concordancia con las autoridades de seguridad pública, que incluya la solicitud de las medidas u órdenes de protección a que haya lugar.
 
 > <small>(REFORMADO, P.O. 8 DE MARZO DE 2025)</small>
 
@@ -1221,77 +1389,151 @@ Dicho Observatorio tiene como objetivo dar seguimiento al avance del programa de
 
 El Observatorio tendrá un Secretario Técnico, que será el mismo que funja como tal en la Comisión de Igualdad Sustantiva y de Género del Congreso del Estado de Michoacán, quien se encargará de atender e informar sobre los trabajos de este órgano a dicha comisión, misma que, a su vez, dará cuenta al Pleno del Congreso del Estado de Michoacán de Ocampo, a más tardar a los treinta días hábiles posteriores a las sesiones celebradas por el Observatorio.
 
-### CAPÍTULO X. ÓRDENES DE PROTECCIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE FEBRERO DE 2026)</small>
+
+### CAPÍTULO X. MEDIDAS U ÓRDENES DE PROTECCIÓN
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
 
 ###### ARTÍCULO 60.
 
-Las órdenes de protección son personalísimas e intransferibles y podrán ser:
+Las medidas u órdenes de protección son personalísimas e intransferibles y podrán ser:
 
-I. De emergencia;
+I. De naturaleza administrativa: Aquéllas implementadas, otorgadas y ordenadas por el Ministerio Público y autoridades administrativas. Tendrán esta misma naturaleza las medidas u órdenes de protección proporcionadas o dictadas de forma directa por cualquier autoridad policial; y,
 
-II. Preventivas; y,
+II. De naturaleza jurisdiccional: que son las emitidas por los órganos encargados de la administración de justicia.
 
-III. De naturaleza Civil.
+Las órdenes de protección tendrán una duración de hasta 60 días, prorrogables por 30 días más o por el tiempo que dure la investigación, o prolongarse hasta que cese la situación de riesgo para la víctima.
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2016)</small>
+Deberán expedirse de manera inmediata o a más tardar dentro de las 4 horas siguientes al conocimiento de los hechos que las generan.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
 
 ###### ARTÍCULO 61.
 
-Las órdenes de protección de emergencia y preventivas deberán otorgarse por las autoridades competentes inmediatamente que se hacen del conocimiento de los hechos que las generan y se mantendrán vigentes hasta que la víctima de violencia deje (sic) estar expuesta al riesgo, en función del interés superior a la víctima.
+Las medidas u órdenes de protección son actos de urgente aplicación, fundamentadas en el interés superior de la víctima.
+
+Son de carácter precautorio y cautelar, y deberán otorgarse de oficio o a petición de parte, por las autoridades administrativas, el Ministerio Público o los órganos jurisdiccionales competentes, en el momento en que tengan conocimiento de un hecho de violencia presuntamente constitutivo de delito o infracción que ponga en riesgo la integridad, libertad o vida de mujeres, las adolescentes o las niñas, evitando en todo momento que la persona agresora, directa o indirectamente, tenga contacto por cualquier medio con la víctima.
+
+Su propósito es prevenir, cesar o impedir la repetición de actos de violencia o impedir la comisión de un nuevo acto de violencia o delito.
+
+En materia de violencia política contra las mujeres en razón de género, el Tribunal Electoral del Estado de Michoacán y el Instituto Electoral de Michoacán, podrán solicitar a las autoridades competentes el otorgamiento de las medidas previstas en el presente capítulo.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
 
 ###### ARTÍCULO 62.
 
-Las órdenes de protección de emergencia son la las siguientes:
+Son medidas u órdenes de protección administrativas, además de las previstas en otros ordenamientos, podrán consistir en una o varias de las siguientes:
 
-I. La desocupación por el agresor, del domicilio conyugal o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo;
+I. La desocupación de la persona agresora, del domicilio conyugal o donde habite la víctima, independientemente de la acreditación de propiedad o posesión del inmueble, aun en los casos de arrendamiento del mismo;
 
-II. La prohibición al probable responsable de acercarse al domicilio, lugar de trabajo, de estudios, del domicilio de las y los ascendientes y descendientes o cualquier otro que frecuente la víctima;
+II. Proporcionar a las mujeres, en situación de violencia, y en su caso a sus hijas, hijos o personas dependientes de la víctima, alojamiento temporal en espacios seguros, tales como casas de emergencia, refugios o albergues, que garanticen su seguridad y dignidad, conforme a las disposiciones aplicables de esta ley;
 
-III. El reingreso de la víctima al domicilio, una vez que se salvaguarde su seguridad; y,
+III. Realizar el traslado de las víctimas, cuantas veces sea necesario, para la práctica de diligencias que garanticen su seguridad y protección;
 
-IV. La prohibición de intimidar o molestar a la víctima en su entorno social, así como a cualquier integrante de su familia.
+IV. Brindar custodia personal o domiciliaria a las víctimas, a cargo de los cuerpos policiacos adscritos a la Fiscalía General del Estado. En caso de falta de disponibilidad, se podrá recurrir a las instituciones de seguridad pública de los tres órdenes de gobierno. Esta medida se aplicará bajo la más estricta responsabilidad del Ministerio Público;
+
+V. Canalizar y trasladar sin demora a mujeres en situación de violencia sexual al Sistema Estatal de Salud, a fin de que se les brinden gratuitamente y de manera inmediata los servicios de:
+
+a) Aplicación de antirretrovirales de profilaxis post-exposición;
+
+b) Anticoncepción de emergencia; y,
+
+c) Interrupción legal y voluntaria del embarazo en caso de violación;
+
+VI. Facilitar a las mujeres, las adolescentes, las niñas y, en su caso, a sus hijas e hijos u otras víctimas indirectas en situación de violencia, la reubicación de domicilio, residencia o centro educativo.
+
+Tratándose de niñas víctimas de violencia, la autoridad deberá priorizar el interés superior de la niñez, considerando la remisión a instituciones públicas de acogida como última opción y por el menor tiempo posible;
+
+VII. Prohibición inmediata a la persona agresora de acercarse al domicilio de la víctima, de sus familiares, amistades, lugar de trabajo, estudio, o cualquier otro que frecuente la víctima directa o víctimas indirectas;
+
+VIII. Reingreso de las mujeres y, en su caso, de sus hijas e hijos u otras víctimas indirectas, al domicilio una vez garantizada su seguridad en caso de que así lo solicite.
+
+Para el cumplimiento de esta orden, se garantizará el acompañamiento del Ministerio Público y personal de la policía ministerial, para acceder al domicilio, lugar de trabajo u otro, con el propósito de recuperar sus pertenencias personales y las de sus hijas e hijos.
+
+Si no hay disponibilidad, el acompañamiento corresponderá a cualquier institución de seguridad pública. La víctima podrá ir acompañada en cualquier caso de una persona de su confianza;
+
+IX. Solicitud a la autoridad judicial competente de la suspensión temporal del régimen de visitas y convivencia de la persona agresora con sus descendientes;
+
+X. Prohibición a la persona agresora de comunicarse, por cualquier medio o por interpósita persona, con la víctima, y en su caso con sus hijas, hijos u otras víctimas indirectas;
+
+XI. Prohibición a la persona agresora de intimidar o molestar, directa o indirectamente, a las mujeres, las adolescentes y las niñas en situación de violencia, a sus hijas e hijos, víctimas indirectas, testigos o personas con quienes tenga vínculos familiares, afectivos o de confianza;
+
+XII. Solicitud a la autoridad jurisdiccional competente, la elaboración de un inventario de los bienes inmuebles de la persona agresora y ordenar su embargo precautorio, debiendo inscribirse en el Registro Público de la Propiedad, suspender el régimen de tutela o curatela ejercido por la persona agresora, recuperar y entregar de forma inmediata a las mujeres víctimas, las adolescentes, las niñas y en su caso a sus hijas e hijos u otras víctimas indirectas, incluyendo aquellas que requieran cuidados especiales y que hayan sido sustraídas, retenidas u ocultadas; y,
+
+XIII. Cualquier otra medida que resulte necesaria para salvaguardar la integridad, seguridad y vida de las mujeres, las adolescentes, las niñas y, en su caso, a sus hijas, hijos u otras víctimas indirectas.
+
+Las órdenes de protección referidas en este artículo podrán ser ampliadas o modificadas por la autoridad administrativa, el Ministerio Público o el órgano jurisdiccional competente, procurando siempre la mayor protección de la víctima.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
 
 ###### ARTÍCULO 63.
 
-Son órdenes de protección preventivas las siguientes:
+Las órdenes de naturaleza jurisdiccional, además de las previstas en otros ordenamientos, podrán consistir en una o varias de las siguientes acciones:
 
-I. Retención y guarda de armas de fuego propiedad del agresor o de alguna institución privada de seguridad, independientemente si las mismas se encuentran registradas conforme a la normatividad de la materia. Es aplicable lo anterior a las armas punzocortantes y punzocontundentes que independientemente de su uso, hayan sido empleadas para amenazar o lesionar a la víctima;
+I. Reserva del domicilio, lugar de trabajo, profesión o cualquier dato que permita a la persona agresora o su familia ubicar a la víctima;
 
-II. Inventario de los bienes muebles e inmuebles de propiedad común, incluyendo los implementos de trabajo de la víctima;
-
-III. Uso y goce de bienes muebles que se encuentren en el inmueble que sirva de domicilio de la víctima;
-
-IV. Acceso al domicilio en común, de autoridades policíacas o de personas que auxilien a la víctima a tomar sus pertenencias personales y las de sus hijas e hijos;
-
-V. Entrega inmediata de objetos de uso personal y documentos de identidad de la víctima y de sus hijas e hijos;
-
-VI. Auxilio policíaco de reacción inmediata a favor de la víctima, con autorización expresa de ingreso al domicilio donde se localice o se encuentre la víctima en el momento de solicitar el auxilio; y,
-
-VII. Brindar servicios reeducativos integrales especializados y gratuitos, con perspectiva de género al agresor en instituciones públicas debidamente acreditadas y con modelos de abordaje psicoterapéuticos que no impliquen sumisión de un género hacia otro, favorezcan las jerarquías o las modalidades de pareja o de familia.
-
-###### ARTÍCULO 64.
-
-Son órdenes de protección de naturaleza civil las siguientes:
-
-I. Suspensión temporal al agresor del régimen de visitas y convivencia con sus descendientes;
-
-II. Prohibición al agresor de enajenar o hipotecar bienes de su propiedad cuando se trate del domicilio conyugal; y en cualquier caso cuando se trate de bienes de la sociedad conyugal;
+II. Prohibición al agresor de enajenar o hipotecar bienes de su propiedad cuando se trate del domicilio conyugal, y en cualquier caso cuando se trate de bienes de la sociedad conyugal;
 
 III. Posesión exclusiva de la víctima sobre el inmueble que sirvió de domicilio;
 
-IV. Embargo preventivo de bienes del agresor, que deberá inscribirse con carácter temporal en el Registro Público de la Propiedad Raíz en el Estado, a efecto de garantizar las obligaciones alimentarias; y,
+IV. Embargo preventivo de bienes del agresor, que deberá inscribirse con carácter temporal en el Registro Público de la Propiedad Raíz en el Estado, a efecto de garantizar las obligaciones alimentarias;
 
-V. Obligación alimentaria provisional e inmediata.
+V. Uso de dispositivos electrónicos para impedir el contacto directo entre la persona agresora y la víctima;
 
-Estás órdenes serán tramitadas ante los juzgados de lo familiar o a falta de éstos en los juzgados civiles que corresponda.
+VI. Entrega inmediata de objetos personales y documentos de identidad de la víctima y, en su caso, de sus hijas e hijos o personas dependientes;
+
+VII. Medidas para evitar la captura o difusión de imágenes de la víctima que permitan su identificación o la de sus familiares, por cualquier medio o tecnología de la información. En el caso de niñas, se prohíbe absolutamente la difusión de datos e imágenes que permitan su identificación;
+
+VIII. Prohibición a la persona agresora de ingresar al domicilio permanente o temporal de la víctima, así como de acercarse a su lugar de trabajo, estudio o cualquier lugar que frecuente;
+
+IX. Desocupación por la persona agresora, del domicilio conyugal o de pareja, independientemente de la acreditación de la propiedad o posesión del inmueble, incluso en casos de arrendamiento. En su caso, reingreso de la víctima garantizando su seguridad;
+
+X. Garantizar la obligación alimentaria provisional e inmediata;
+
+XI. Notificación al superior jerárquico inmediato cuando la persona agresora sea servidora pública y, en ejercicio de su cargo, se involucre en un hecho de violencia contra las mujeres.
+
+Esta orden se aplicará en todos los casos en que pertenezca a cuerpos policiacos, militares o de seguridad, públicos o privados;
+
+XII. Obligación de la persona agresora de presentarse periódicamente ante el órgano jurisdiccional que emitió la orden;
+
+XIII. Prohibición a la persona agresora de salir del país o del territorio fijado por el juez, sin autorización judicial;
+
+XIV. Suspensión del régimen de tutela o curatela ejercido por la persona agresora sobre la víctima;
+
+XV. Restitución, recuperación o entrega inmediata de hijas e hijos menores de 18 años o personas dependientes, sustraídos, retenidos u ocultados ilícitamente;
+
+XVI. Suspensión temporal del régimen de visitas y convivencia con los descendientes por parte del agresor; y,
+
+XVII. Cualesquiera otras que resulten necesarias para garantizar una protección integral a la víctima.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+###### ARTÍCULO 64.
+
+La tramitación y otorgamiento de una orden de protección podrá contener una o varias acciones, conforme a los principios establecidos en esta Ley. No se requerirá una solicitud por cada orden; una sola orden podrá agrupar todas las acciones necesarias para garantizar la seguridad y bienestar de las mujeres, las adolescentes, las niñas y, en su caso, a sus hijas e hijos y víctimas indirectas.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
 
 ###### ARTÍCULO 65.
 
-Corresponde a las autoridades jurisdiccionales competentes valorar las órdenes y la determinación de medidas similares en sus resoluciones o sentencias. Lo anterior con motivo de los juicios o procesos que en materia civil, familiar o penal, se estén ventilando en los tribunales competentes.
+Las órdenes de protección deberán evaluarse periódicamente para modificarse o adecuarse. Si durante la evaluación se detectan irregularidades o incumplimientos, se deberá comunicar a los órganos internos de control de las dependencias involucradas.
+
+Antes de suspender las órdenes decretadas, las autoridades administrativas, ministeriales y jurisdiccionales deberán asegurarse, bajo su más estricta responsabilidad, de que ha cesado el riesgo o peligro para la víctima, realizando una nueva evaluación de riesgo y analizando los informes de implementación por parte de las autoridades responsables.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
 
 ###### ARTÍCULO 66.
 
-Las personas mayores de doce años de edad podrán solicitar a las autoridades competentes que los representen en sus solicitudes y acciones, a efecto de que puedan de manera oficiosa dar el otorgamiento de las órdenes; quienes sean menores de doce años, sólo podrán solicitar las órdenes a través de sus representantes legales.
+Al dictarse sentencia, las autoridades judiciales competentes determinarán las órdenes de protección y medidas que deban dictarse de manera temporal o por el tiempo que dure la sentencia.
+
+Estas órdenes podrán emitirse de oficio o a solicitud de las mujeres, las adolescentes, las niñas, su representante legal o el Ministerio Público.
+
+En casos de adolescentes o niñas víctimas de un delito, la autoridad judicial estará obligada a realizar una valoración del interés superior de la niñez, a fin de dictar órdenes de protección, incluso si no existe una solicitud.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+ARTÍCULO 66 BIS. La Procuraduría de Protección de Niñas, Niños y Adolescentes deberá solicitar de manera oficiosa las órdenes de protección a las autoridades competentes, conforme a las disposiciones normativas aplicables.
 
 ### CAPÍTULO XI. INTERVENCIÓN ESPECIALIZADA Y MEDIDAS
 
@@ -1363,13 +1605,11 @@ III. La armonización y la interpretación integral jurídica y social con persp
 
 ### CAPÍTULO XII. RESPONSABILIDADES DE LAS PERSONAS SERVIDORAS PÚBLICAS
 
-> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2025)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
 
 ###### ARTÍCULO 75.
 
-Para la determinación de responsabilidades, las personas servidoras públicas serán sancionadas por los órganos de control competentes y mediante los procedimientos establecidos en la legislación aplicable, sin menoscabo de las acciones penales, civiles o cualquier otra que se deriven de su incumplimiento.
-
-En caso de que las personas titulares de la Sindicatura Municipal no emitan las órdenes de protección, serán sujetos a responsabilidad.
+Para la determinación de responsabilidades, las personas servidoras públicas serán sancionadas por los órganos de control competentes y mediante los procedimientos establecidos en la legislación aplicable, sin menoscabo de las acciones penales, civiles o cualquier otra que se deriven de su incumplimiento. En caso de que las personas titulares de la Sindicatura Municipal no emitan las medidas u órdenes de protección, serán sujetas a responsabilidad.
 
 T R A N S I T O R I O S
 
@@ -1654,3 +1894,11 @@ P.O. 9 DE ENERO DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 260.- ARTÍCULO PRIMERO.- SE REFORMAN LAS FRACCIONES VII BIS, VIII Y XII DEL ARTÍCULO 9; Y, SE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 9, LAS FRACCIONES VIII Y IX AL ARTÍCULO 9 BIS Y LOS ARTÍCULOS 9 TER, 9 QUÁTER Y 13 BIS, TODOS DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO.- ARTÍCULO SEGUNDO.- SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO II DEL TÍTULO DÉCIMO TERCERO Y LOS ARTÍCULOS 169 BIS, 195 Y 195 BIS; Y, SE ADICIONAN LOS ARTÍCULOS 169 TER, 169 QUATER Y 193 BIS, ASÍ COMO EL CAPÍTULO V AL TÍTULO QUINTO CON EL ARTÍCULO 170 BIS, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 12 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 265 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 1, LAS FRACCIONES IV, V, X, XI DEL ARTÍCULO 2, EL ARTÍCULO 3, 4, LAS FRACCIONES IX, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXIII, XXIV, XXV, XXVI, XXVII, XXVIII, XXIX, XXX, XXXI Y XXXII DEL ARTÍCULO 6, LA FRACCIÓN XV DEL ARTÍCULO 7, EL ARTÍCULO 8, LAS FRACCIONES I, II, III, IV, V, VII, XI Y XII DEL ARTÍCULO 9, LAS FRACCIONES I, II Y VI DEL ARTÍCULO 10, EL ARTÍCULO 11, LAS FRACCIONES I Y III DEL ARTÍCULO 12, EL ARTÍCULO 13, LAS FRACCIONES V Y VI DEL ARTÍCULO 14, LA FRACCIÓN IV DEL ARTÍCULO 15, LAS FRACCIONES I, II Y III DEL ARTÍCULO 17, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 19, EL ARTÍCULO 25, LAS FRACCIONES IV, VI, VII Y VIII DEL ARTÍCULO 33, LAS FRACCIONES XII Y XIII DEL ARTÍCULO 35, LA FRACCIÓN IV DEL ARTÍCULO 38, LA FRACCIÓN XIV DEL ARTÍCULO 40, LA FRACCIÓN II DEL ARTÍCULO 49, LA FRACCIÓN IV DEL ARTÍCULO 53, LA DENOMINACIÓN DEL CAPÍTULO X, Y LOS ARTÍCULOS 60, 61, 62, 63, 64, 65, 66 Y 75; SE ADICIONA LA FRACCIÓN XII, XIII Y XIV AL ARTÍCULO 2, UN SEGUNDO PÁRRAFO AL ARTÍCULO 5, LAS FRACCIONES XXXIII Y XXXIV AL ARTÍCULO 6, LA FRACCIÓN XIII Y XIV AL ARTÍCULO 9, EL ARTÍCULO 9 TER, 9 QUÁTER Y 9 QUINQUIES, LA FRACCIÓN VII AL ARTÍCULO 14, LA FRACCIÓN V Y VI AL ARTÍCULO 15, LA FRACCIÓN IV AL ARTÍCULO 17, LAS FRACCIONES IX, X, XI, XII Y XIII AL ARTÍCULO 33, LA FRACCIÓN XIV AL ARTÍCULO 35, LA FRACCIÓN XV AL ARTÍCULO 40, EL ARTÍCULO 66 BIS; Y SE DEROGA EL SEGUNDO PÁRRAFO AL ARTÍCULO 16. TODOS DE LA LEY POR UNA VIDA LIBRE DE VIOLENCIA PARA LAS MUJERES EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
