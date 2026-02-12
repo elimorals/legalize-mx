@@ -4,7 +4,7 @@ identifier: "MIC-codigo-penal-para-el-estado-de-michoacan-de-ocampo-105162"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-12-17"
-last_updated: "2026-01-09"
+last_updated: "2026-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105162&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
 
 Código publicado en la Octava Sección del Periódico Oficial del Estado de Michoacán, el miércoles 17 de diciembre de 2014.
 
@@ -4475,17 +4475,27 @@ La misma sanción se impondrá al fedatario público que en ejercicio de sus fun
 
 ### CAPÍTULO II. DELITOS DE VIOLENCIA CONTRA ANIMALES
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 12 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 309.
 
 Crueldad contra los animales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE FEBRERO DE 2026)</small>
 
-Comete el delito de crueldad quien inflige daño físico a un animal, que no constituya plaga ni peligro para la salud o vida humana, con el único fin de lastimarlo o privarlo de la vida, y se le impondrán de uno a cuatro años de prisión y de cincuenta a quinientos días multa.
+Comete el delito de crueldad quien inflige daño físico a un animal, que no constituya plaga ni peligro para la salud o vida humana, con el único fin de lastimarlo o privarlo de la vida, y se le impondrán de tres a ocho años de prisión y de cien a quinientos días multa.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
 
 Cuando las lesiones que resulten del daño físico infligido pongan en riesgo la vida del animal, incluido el envenenamiento, o el sujeto activo capture en imágenes, fotografías, videograbaciones o por cualquier medio el daño físico infligido, la pena se aumentará hasta en una mitad de la máxima.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE FEBRERO DE 2026)</small>
+
+En caso de que el daño físico, lesiones o cualquier tipo de agresiones con las que privan de la vida a un animal, le cause graves sufrimientos o una agonía prolongada antes de que fallezca, las sanciones se aumentarán hasta en una mitad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE FEBRERO DE 2026)</small>
+
+La pena se incrementará hasta en una tercera parte cuando el que realice las conductas anteriores se trate de un servidor público.
 
 ###### Artículo 310.
 
@@ -4493,13 +4503,17 @@ Equiparación y excluyentes
 
 Se equipara al delito de crueldad organizar, promover o realizar actos públicos o privados de riña de animales y cualquier acción o espectáculo en que se mate, hiera u hostilice a los animales con excepción de la charrería, jaripeos, peleas de gallos, corridas de toros, novillos o becerros, o cualquier otra debidamente autorizada.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 12 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 311.
 
 Maltrato animal
 
-Comete el delito de maltrato quien, en el trato doméstico o laboral cotidiano, realice actos abusivos o negligentes, u omisiones, que menoscaben el bienestar o la integridad física de cualquier animal que no constituya plaga o peligro para la salud o vida humana, y se le impondrán de uno a dos años de prisión y de veinte a doscientos días multa.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE FEBRERO DE 2026)</small>
+
+Comete el delito de maltrato quien, en el trato doméstico o laboral cotidiano, realice actos abusivos o negligentes, u omisiones, que menoscaben el bienestar o la integridad física de cualquier animal que no constituya plaga o peligro para la salud o vida humana, y se le impondrán de dos a cinco años de prisión y de cincuenta a trescientos cientos (sic) días multa.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 12 DE FEBRERO DE 2026)</small>
 
 Se equipara al delito de maltrato animal:
 
@@ -4507,9 +4521,33 @@ a) El abandono de un animal que no constituya plaga o peligro para la salud o vi
 
 b) Realizar cualquier acto sexual con animales no humanos sin fines veterinarios o de esterilización;
 
-c) Realizar cualquier acto sexual con animales no humanos por gusto, placer o atracción hacia éstos; y,
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
 
-d) Disponer o utilizar animales no humanos como objetos sexuales.
+c) Realizar cualquier acto sexual con animales no humanos por gusto, placer o atracción hacia éstos;
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+d) Disponer o utilizar animales no humanos como objetos sexuales; y,
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE FEBRERO DE 2026)</small>
+
+e) Omitir auxiliar o asistir a un animal no humano, después de haberlo lesionado de manera culposa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE FEBRERO DE 2026)</small>
+
+Al responsable del delito de maltrato animal equiparado se le impondrán de dos a seis años de prisión y de treinta a trescientos días multa.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE FEBRERO DE 2026)</small>
+
+La pena se incrementará hasta en una mitad cuando el que realice las conductas anteriores se trate de un servidor público.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+Artículo 311 bis. Sustracción de animales domésticos
+
+A quien, con la intención de causar daño al propietario o poseedor de un animal no humano, sin consentimiento del propietario o poseedor, sustraiga, oculte, retenga o traslade a cualquier lugar a un animal doméstico, se le impondrán de dos a cinco años de prisión y de cincuenta a trescientos días multa.
+
+No se considerará delito de sustracción, cuando la misma se realice en labores de rescate o ésta sea para salvaguardar el bienestar del animal.
 
 ## TÍTULO VIGÉSIMO CUARTO. DELITOS CONTRA LA DEMOCRACIA ELECTORAL
 
@@ -5070,3 +5108,11 @@ P.O. 9 DE ENERO DE 2026.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 260 POR EL QUE "SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO II DEL TÍTULO DÉCIMO TERCERO Y LOS ARTÍCULOS 169 BIS, 195 Y 195 BIS; Y, SE ADICIONAN LOS ARTÍCULOS 169 TER, 169 QUATER Y 193 BIS, ASÍ COMO EL CAPÍTULO V AL TÍTULO QUINTO CON EL ARTÍCULO 170 BIS, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 12 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 268 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 309 Y 311; Y, SE ADICIONA EL ARTÍCULO 311 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE MICHOACÁN”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. La Secretaría del Medio Ambiente y los Gobiernos Municipales, contarán con un plazo de 180 días hábiles para hacer las modificaciones necesarias a sus reglamentos, para fijar los parámetros de las sanciones de multa a que se refiere el artículo 66 de la Ley de Derechos, el Bienestar y Protección de los Animales en el Estado de Michoacán de Ocampo.
