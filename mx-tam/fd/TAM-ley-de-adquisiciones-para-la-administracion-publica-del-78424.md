@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-adquisiciones-para-la-administracion-publica-del-78424"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-29"
-last_updated: "2024-12-20"
+last_updated: "2026-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE ADQUISICIONES PARA LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de diciembre de 2010.
 
@@ -111,7 +111,9 @@ Para efectos de esta ley se entenderá por:
 
 I. COMITE DE COMPRAS Y OPERACIONES PATRIMONIALES.- El que se establece como órgano colegiado por esta ley;
 
-II. CONTRALORIA.- La Contraloría Gubernamental;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+II. SECRETARÍA ANTICORRUPCIÓN Y BUEN GOBIERNO.- La Secretaría Anticorrupción y Buen Gobierno;
 
 III. DEPENDENCIAS.- Las dependencias y unidades de la administración pública central;
 
@@ -137,9 +139,11 @@ El Ejecutivo podrá convenir con los demás Poderes del Estado, cuando éstos as
 
 2. Previo acuerdo del Ejecutivo, la Secretaría podrá delegar en las entidades de la administración pública estatal, la facultad de contratar directamente las adquisiciones de sus respectivos ramos, cuando las necesidades del servicio así lo determinen.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
 ###### ARTICULO 11.
 
-Mediante disposiciones de carácter general y considerándose la opinión de la Contraloría, la Secretaría determinará, en su caso, los bienes y servicios de uso generalizado que, en forma consolidada, podrán adquirir, arrendar o contratar las dependencias y entidades estatales con objeto de obtener las mejores condiciones en cuanto a calidad, precio y oportunidad, y apoyar en condiciones de competencia a las áreas prioritarias del desarrollo.
+Mediante disposiciones de carácter general y considerándose la opinión de la Secretaría Anticorrupción y Buen Gobierno, la Secretaría determinará, en su caso, los bienes y servicios de uso generalizado que, en forma consolidada, podrán adquirir, arrendar o contratar las dependencias y entidades estatales con objeto de obtener las mejores condiciones en cuanto a calidad, precio y oportunidad, y apoyar en condiciones de competencia a las áreas prioritarias del desarrollo.
 
 ###### ARTICULO 12.
 
@@ -183,13 +187,17 @@ III. Las demás disposiciones legales y reglamentarias que rijan las operaciones
 
 ### CAPITULO SEGUNDO. AUTORIDADES Y ORGANOS
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
 ###### ARTICULO 16.
 
-La aplicación de esta ley le corresponde a la Secretaría, sin perjuicio de la competencia que el presente ordenamiento y otras disposiciones jurídicas aplicables le otorguen a la Contraloría Gubernamental y la Secretaría de Finanzas.
+La aplicación de esta ley le corresponde a la Secretaría, sin perjuicio de la competencia que el presente ordenamiento y otras disposiciones jurídicas aplicables le otorguen a la Secretaría Anticorrupción y Buen Gobierno y la Secretaría de Finanzas.
 
 ###### ARTICULO 17.
 
-1. La Secretaría, la Secretaría de Finanzas, la Contraloría Gubernamental y los Ayuntamientos, en el ámbito de sus respectivas competencias, estarán facultados para interpretar esta ley para efectos administrativos.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+1. La Secretaría, la Secretaría de Finanzas, la Secretaría Anticorrupción y Buen Gobierno y los Ayuntamientos, en el ámbito de sus respectivas competencias, estarán facultados para interpretar esta ley para efectos administrativos.
 
 2. Asimismo, quedan facultadas para dictar las disposiciones administrativas que se requieran para la adecuada aplicación de esta ley y sus disposiciones reglamentarias, tomando en cuenta, salvo el caso de los Ayuntamientos, cuando por razón de sus atribuciones, deba considerarse la opinión de las dos restantes. Estas disposiciones se publicarán en el Periódico Oficial del Estado.
 
@@ -245,13 +253,17 @@ II. Presentar a la Secretaría, en el mes de enero, su programa de las adquisici
 
 III. Observar las recomendaciones que haga la Secretaría para mejorar los sistemas y procedimientos de adquisiciones, arrendamientos de bienes muebles e inmuebles, contratación de servicios y manejo de almacenes;
 
-IV. Informar de inmediato a la Secretaría y a la Contraloría, de las irregularidades que se adviertan en relación con las adquisiciones, arrendamientos y contratación de servicios;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+IV. Informar de inmediato a la Secretaría y a la Secretaría Anticorrupción y Buen Gobierno, de las irregularidades que se adviertan en relación con las adquisiciones, arrendamientos y contratación de servicios;
 
 V. Tomar las providencias necesarias para el aseguramiento, protección y custodia de los bienes que integran el patrimonio de la dependencia o entidad, y sobre los que ejerza la posesión para el Estado, así como mantener actualizado el control de sus inventarios;
 
 VI. Registrar y conservar, en documentos o medios electrónicos, la información relevante derivada de los actos comprendidos en esta ley, por un período mínimo de cinco años y, en su caso, proporcionar a las autoridades estatales competentes la información que les sea solicitada;
 
-VII. Facilitar al personal de la Secretaría y la Contraloría el acceso a sus almacenes, oficinas, plantas, talleres y demás instalaciones, así como proveer toda la información necesaria para el ejercicio de sus atribuciones;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+VII. Facilitar al personal de la Secretaría y la Secretaría Anticorrupción y Buen Gobierno el acceso a sus almacenes, oficinas, plantas, talleres y demás instalaciones, así como proveer toda la información necesaria para el ejercicio de sus atribuciones;
 
 VIII. En general, cumplir con las resoluciones y bases que emita la Secretaría conforme a esta ley.
 
@@ -263,7 +275,9 @@ En el ámbito de la administración estatal, la Secretaría de Finanzas tendrá 
 
 ###### ARTICULO 21.
 
-1. La Contraloría tendrá la atribución de revisar que la Secretaría, así como las dependencias y entidades estatales, hayan cumplido con las disposiciones aplicables a los procedimientos y actos regulados en la presente ley, así como de verificar que las operaciones se hayan realizado conforme al gasto público autorizado.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+1. La Secretaría Anticorrupción y Buen Gobierno tendrá la atribución de revisar que la Secretaría, así como las dependencias y entidades estatales, hayan cumplido con las disposiciones aplicables a los procedimientos y actos regulados en la presente ley, así como de verificar que las operaciones se hayan realizado conforme al gasto público autorizado.
 
 2. La atribución prevista en el párrafo anterior será ejercida por la Contraloría Municipal en el ámbito de los Ayuntamientos.
 
@@ -275,7 +289,9 @@ El Comité de Compras y Operaciones Patrimoniales de la Administración Estatal 
 
 ###### ARTICULO 23.
 
-1. Dicho Comité se integrará por sendos representantes de la Secretaría de Finanzas, la Contraloría, y un representante de la dependencia o entidad a que corresponda la adquisición, arrendamiento o servicio contratado. Dichos representantes tendrán, al menos, el rango de Director y podrán designar un suplente con rango equivalente.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+1. Dicho Comité se integrará por sendos representantes de la Secretaría de Finanzas, la Secretaría Anticorrupción y Buen Gobierno, y un representante de la dependencia o entidad a que corresponda la adquisición, arrendamiento o servicio contratado. Dichos representantes tendrán, al menos, el rango de Director y podrán designar un suplente con rango equivalente.
 
 2. El Comité sólo sesionará cuando se encuentren presentes la mayoría de sus integrantes, presidirá las sesiones el representante de la Secretaría y sus decisiones se tomarán por mayoría de votos, haciéndose constar en el acta respectiva la votación correspondiente.
 
@@ -363,9 +379,13 @@ VII. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2022)
 
 VIII. Pagar los derechos que establezca la ley respectiva.
 
-2. La Contraloría o la Contraloría Municipal, en su caso, podrá verificar en cualquier tiempo la información a que se refiere este artículo, así como emitir lineamientos que deberán cumplir los interesados para inscribirse en el Padrón de Proveedores, los cuales deberán de publicarse previamente en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
 
-3. La documentación prevista en el párrafo 1 de este artículo será exhibida en copia certificada por fedatario público o en copia simple que simultáneamente sea cotejada con su original por la autoridad competente de la Contraloría.
+2. La Secretaría Anticorrupción y Buen Gobierno o la Contraloría Municipal, en su caso, podrá verificar en cualquier tiempo la información a que se refiere este artículo, así como emitir lineamientos que deberán cumplir los interesados para inscribirse en el Padrón de Proveedores, los cuales deberán de publicarse previamente en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+3. La documentación prevista en el párrafo 1 de este artículo será exhibida en copia certificada por fedatario público o en copia simple que simultáneamente sea cotejada con su original por la autoridad competente de la Secretaría Anticorrupción y Buen Gobierno.
 
 ###### ARTICULO 28.
 
@@ -711,7 +731,9 @@ I. Que la proposición cumpla con las condiciones legales, técnicas y económic
 
 II. Que se garantice satisfactoriamente el cumplimiento de las obligaciones respectivas.
 
-2. La Contraloría, en el ejercicio de sus atribuciones, podrá intervenir en todo el proceso de adjudicación del contrato.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+2. La Secretaría Anticorrupción y Buen Gobierno, en el ejercicio de sus atribuciones, podrá intervenir en todo el proceso de adjudicación del contrato.
 
 ###### ARTICULO 60.
 
@@ -985,9 +1007,11 @@ IV. Despachar o entregar bienes a cada una de las dependencias o entidades estat
 
 Toda la documentación relativa a la compra de bienes inventariables realizada por el Gobierno del Estado, deberá sujetarse a los controles que establezca la propia Secretaría. Para este efecto los municipios establecerán sus propios controles de acuerdo a sus necesidades.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
 ###### ARTICULO 89.
 
-La Contraloría, en el ejercicio de sus atribuciones, verificará en los términos de los artículos que proceden, el cumplimiento de los lineamientos normativos para el resguardo y control de las adquisiciones.
+La Secretaría Anticorrupción y Buen Gobierno, en el ejercicio de sus atribuciones, verificará en los términos de los artículos que proceden, el cumplimiento de los lineamientos normativos para el resguardo y control de las adquisiciones.
 
 ### CAPITULO DECIMO TERCERO. DE LAS ADQUISICIONES Y ARRENDAMIENTOS DE BIENES INMUEBLES
 
@@ -1001,7 +1025,9 @@ II. La Secretaría de Desarrollo Urbano y Medio Ambiente, emitirá un dictamen d
 
 III. La Secretaría, en coordinación con peritos especializados, emitirá un avalúo del inmueble;
 
-IV. La Contraloría verificará toda adquisición de bienes inmuebles que realice el Gobierno del Estado; y
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+IV. La Secretaría Anticorrupción y Buen Gobierno verificará toda adquisición de bienes inmuebles que realice el Gobierno del Estado; y
 
 V. Las adquisiciones de bienes inmuebles se realizarán con la autorización del Comité de Compras y Operaciones Patrimoniales de la Administración Estatal, que para los efectos de este artículo contará con la participación del titular de la Secretaría de Desarrollo Urbano y Medio Ambiente.
 
@@ -1027,13 +1053,17 @@ V. Las adquisiciones de bienes inmuebles se realizarán con la autorización del
 
 ### CAPITULO DECIMO CUARTO. DE LA INFORMACION Y VERIFICACION
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
 ###### ARTICULO 94.
 
-En el ámbito estatal, la Secretaría y la Contraloría, en el ejercicio de sus facultades, podrán verificar, en cualquier tiempo, que las adquisiciones, arrendamientos y servicios se realicen conforme a lo establecido en esta ley o en otras disposiciones aplicables y cumplan con la calidad, cantidad, precio y especificaciones contratadas. En la esfera municipal esas atribuciones corresponden a la dependencia administrativa referida en el párrafo 2 del artículo 18 y a la Contraloría Municipal.
+En el ámbito estatal, la Secretaría y la Secretaría Anticorrupción y Buen Gobierno, en el ejercicio de sus facultades, podrán verificar, en cualquier tiempo, que las adquisiciones, arrendamientos y servicios se realicen conforme a lo establecido en esta ley o en otras disposiciones aplicables y cumplan con la calidad, cantidad, precio y especificaciones contratadas. En la esfera municipal esas atribuciones corresponden a la dependencia administrativa referida en el párrafo 2 del artículo 18 y a la Contraloría Municipal.
 
 ###### ARTICULO 95.
 
-1. El Comité de Compras y Operaciones Patrimoniales, las dependencias y entidades estatales y los Ayuntamientos, proporcionarán a la Contraloría y a la Secretaría o a los órganos competentes en el Ayuntamiento, según el caso, en la forma y términos que señalen las dependencias competentes, la información relativa a los pedidos y contratos que regula esta ley; para este efecto, conservarán en forma ordenada y sistemática la documentación que justifique y compruebe la realización de las operaciones reguladas por esta ley, por un término no menor de cinco años, contados a partir de la fecha en que se hubiesen recibido los bienes o prestado el servicio.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+1. El Comité de Compras y Operaciones Patrimoniales, las dependencias y entidades estatales y los Ayuntamientos, proporcionarán a la Secretaría Anticorrupción y Buen Gobierno y a la Secretaría o a los órganos competentes en el Ayuntamiento, según el caso, en la forma y términos que señalen las dependencias competentes, la información relativa a los pedidos y contratos que regula esta ley; para este efecto, conservarán en forma ordenada y sistemática la documentación que justifique y compruebe la realización de las operaciones reguladas por esta ley, por un término no menor de cinco años, contados a partir de la fecha en que se hubiesen recibido los bienes o prestado el servicio.
 
 2. Las propuestas desechadas durante la licitación pública o invitación a cuando menos tres personas, podrán ser devueltas a los licitantes que lo soliciten, una vez transcurridos sesenta días naturales contados a partir de la fecha en que se dé a conocer el fallo respectivo, salvo que exista alguna inconformidad en trámite, en cuyo caso las propuestas deberán conservarse hasta la total conclusión de la inconformidad e instancias subsecuentes; agotados dichos términos el ente público que hubiere convocado la licitación podrá proceder a su devolución o destrucción.
 
@@ -1041,9 +1071,11 @@ En el ámbito estatal, la Secretaría y la Contraloría, en el ejercicio de sus 
 
 Los Comités de Compras y Operaciones Patrimoniales, en coordinación con la Secretaría o con el órgano municipal competente, según el caso, regulará los procedimientos, actos y contratos que en materia de adquisiciones, arrendamientos y servicios se lleven a cabo. Para tal efecto establecerán mecanismos y procedimientos de control que requieran.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
 ###### ARTICULO 97.
 
-La Contraloría realizará las visitas e inspecciones que estime pertinentes al Comité de Compras y Operaciones Patrimoniales, la Secretaría, las dependencias y las entidades respecto de los actos y contratos que celebren y que estén regulados por esta ley; para este efecto, proporcionarán todas las facilidades necesarias, a fin de que la Contraloría pueda realizar el seguimiento y control de las adquisiciones, arrendamientos y servicios. En los Ayuntamientos, esta atribución corresponde a la Contraloría Municipal.
+La Secretaría Anticorrupción y Buen Gobierno realizará las visitas e inspecciones que estime pertinentes al Comité de Compras y Operaciones Patrimoniales, la Secretaría, las dependencias y las entidades respecto de los actos y contratos que celebren y que estén regulados por esta ley; para este efecto, proporcionarán todas las facilidades necesarias, a fin de que la Secretaría Anticorrupción y Buen Gobierno pueda realizar el seguimiento y control de las adquisiciones, arrendamientos y servicios. En los Ayuntamientos, esta atribución corresponde a la Contraloría Municipal.
 
 ###### ARTICULO 98.
 
@@ -1071,7 +1103,9 @@ II. Los proveedores que no cumplan con sus obligaciones contractuales por causas
 
 III. Las que proporcionen información falsa o que actúen con dolo o mala fe en algún procedimiento de contratación, en la celebración del contrato o durante su vigencia, o bien en la presentación o desahogo de una queja en una audiencia de conciliación o de una inconformidad.
 
-2. La inhabilitación que se imponga no será menor de tres meses ni mayor de cinco años, plazo que comenzará a contarse a partir del día siguiente a la fecha en que la Contraloría o la Contraloría Municipal, en el caso de los Ayuntamientos, la haga del conocimiento de las dependencias y entidades, mediante la publicación de la circular respectiva en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+2. La inhabilitación que se imponga no será menor de tres meses ni mayor de cinco años, plazo que comenzará a contarse a partir del día siguiente a la fecha en que la Secretaría Anticorrupción y Buen Gobierno o la Contraloría Municipal, en el caso de los Ayuntamientos, la haga del conocimiento de las dependencias y entidades, mediante la publicación de la circular respectiva en el Periódico Oficial del Estado.
 
 3. Si al día en que se cumpla el plazo de inhabilitación a que se refiere el párrafo que antecede el sancionado no ha pagado la multa que hubiere sido impuesta en términos del artículo anterior, la mencionada inhabilitación subsistirá hasta que se realice el pago correspondiente.
 
@@ -1153,21 +1187,29 @@ V. Vencido el plazo para la rendición de las pruebas, la autoridad que conozca 
 
 1. En las inconformidades que se presenten a través de medios remotos de comunicación electrónica deberán utilizarse medios de identificación electrónica en sustitución de la firma autógrafa.
 
-2. Dichas inconformidades, la documentación que las acompañe y la manera de acreditar la personalidad del promovente, se sujetarán a las disposiciones técnicas que para efectos de transmisión expida la Contraloría, en cuyo caso producirán los mismos efectos que las leyes otorgan a los medios de identificación y documentos correspondientes.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+2. Dichas inconformidades, la documentación que las acompañe y la manera de acreditar la personalidad del promovente, se sujetarán a las disposiciones técnicas que para efectos de transmisión expida la Secretaría Anticorrupción y Buen Gobierno, en cuyo caso producirán los mismos efectos que las leyes otorgan a los medios de identificación y documentos correspondientes.
 
 ### CAPITULO DECIMO SEPTIMO. DEL PROCEDIMIENTO DE CONCILIACION
 
 ###### ARTICULO 112.
 
-1. Los proveedores podrán presentar quejas ante la Contraloría o la Contraloría Municipal, en su caso, con motivo del incumplimiento de los términos y condiciones pactados en los contratos que tengan celebrados con las dependencias o entidades estatales o municipales.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
 
-2. Una vez recibida la queja respectiva, la Contraloría o la Contraloría Municipal, en su caso, señalará día y hora para que tenga verificativo la audiencia de conciliación y citará a las partes. Dicha audiencia se deberá celebrar dentro de los quince días hábiles siguientes a la fecha de recepción de la queja.
+1. Los proveedores podrán presentar quejas ante la Secretaría Anticorrupción y Buen Gobierno o la Contraloría Municipal, en su caso, con motivo del incumplimiento de los términos y condiciones pactados en los contratos que tengan celebrados con las dependencias o entidades estatales o municipales.
+
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+2. Una vez recibida la queja respectiva, la Secretaría Anticorrupción y Buen Gobierno o la Contraloría Municipal, en su caso, señalará día y hora para que tenga verificativo la audiencia de conciliación y citará a las partes. Dicha audiencia se deberá celebrar dentro de los quince días hábiles siguientes a la fecha de recepción de la queja.
 
 3. La asistencia a la audiencia de conciliación será obligatoria para ambas partes, por lo que la inasistencia por parte del proveedor traerá como consecuencia el tenerlo por desistido de su queja.
 
 ###### ARTICULO 113.
 
-1. En la audiencia de conciliación, la Contraloría o la Contraloría Municipal, en su caso, tomando en cuenta los hechos manifestados en la queja y los argumentos que hiciere valer la dependencia o entidad respectiva, determinará los elementos comunes y los puntos de controversia y exhortará a las partes para conciliar sus intereses, conforme a las disposiciones de esta ley, sin prejuzgar sobre el conflicto planteado.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+1. En la audiencia de conciliación, la Secretaría Anticorrupción y Buen Gobierno o la Contraloría Municipal, en su caso, tomando en cuenta los hechos manifestados en la queja y los argumentos que hiciere valer la dependencia o entidad respectiva, determinará los elementos comunes y los puntos de controversia y exhortará a las partes para conciliar sus intereses, conforme a las disposiciones de esta ley, sin prejuzgar sobre el conflicto planteado.
 
 2. En la conciliación las partes deberán procurar la realización de acciones que promuevan la ejecución total de los trabajos, la entrega de los bienes o la prestación de los servicios, y la completa resolución de las controversias, a través de los convenios que acuerden las mismas, los que podrán considerarse para efectos de solventar las observaciones de los órganos de control.
 
@@ -1280,3 +1322,19 @@ P.O. 20 DE DICIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-116 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS, LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS, DE LA LEY PARA REGULAR LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE TAMAULIPAS Y DE LA LEY DE ADQUISICIONES PARA LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS”.]
 
 PRIMERO. El presente Decreto se publicará en el Periódico Oficial del Estado, y entrará en vigor el 1 de enero de 2025.
+
+P.O. 12 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-963 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES PARA LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS; DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE ARCHIVOS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS; DE LA LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE CONCILIACIÓN Y ARBITRAJE MÉDICO PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE TAMAULIPAS; DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS; DE LA LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS; DE LA LEY PARA LA ENTREGA-RECEPCIÓN DE LOS RECURSOS ASIGNADOS A LOS PODERES, ÓRGANOS Y AYUNTAMIENTOS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE GASTO PÚBLICO; DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE IGUALDAD DE GÉNERO EN TAMAULIPAS; DE LA LEY DEL INSTITUTO DE PREVISIÓN Y SEGURIDAD SOCIAL DEL ESTADO DE TAMAULIPAS; DE LA LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO; DE LA LEY ESTATAL DE PLANEACIÓN; DE LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS; DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN SOCIOECONÓMICA DE LAS VIOLENCIAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE TAMAULIPAS; DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Tribunal de Justicia Administrativa del Estado de Tamaulipas, a través de su Órgano Interno de Control, y con base en su capacidad presupuesta! (sic), deberá realizar las adecuaciones necesarias a su reglamento interior en un plazo no mayor a treinta días naturales contados a partir de la entrada en vigor del presente Decreto, con el fin de garantizar en el ámbito de su competencia, el ejercicio de los derechos de acceso a la información pública y de protección de datos personales, conforme a los principios y bases establecidos por los artículos 6o de la Constitución Política de los Estados Unidos Mexicanos; 17, fracción V, de la Constitución Política del Estado de Tamaulipas, así como por lo previsto en la legislación aplicable.
+
+###### ARTÍCULO TERCERO.
+
+En las disposiciones transitorias de las diversas leyes y códigos en las que se haga referencia a la Contraloría Gubernamental, se entenderá la Secretaría Anticorrupción y Buen Gobierno.
