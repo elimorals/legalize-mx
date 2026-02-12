@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-obras-publicas-y-servicios-relacionados-con-las-33838"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-21"
-last_updated: "2025-01-16"
+last_updated: "2026-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 21 de agosto de 2003.
 
@@ -71,7 +71,9 @@ II. Comisión: La Comisión para la Licitación de Obras Públicas;
 
 III. Comité: El Comité Técnico para la Contratación de Obras Públicas y Servicios Relacionados con las Mismas;
 
-IV. Contraloría: La Contraloría Gubernamental;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+IV. Secretaría Anticorrupción y Buen Gobierno: La Secretaría Anticorrupción y Buen Gobierno;
 
 V. Contratista: La persona física o moral que celebre contratos de obras públicas o de servicios relacionados con las mismas;
 
@@ -89,7 +91,9 @@ X. Licitación: Procedimiento administrativo público o de invitación a cuando 
 
 XI. Licitante: La persona que participe en cualquier procedimiento de licitación pública o de invitación a cuando menos tres contratistas;
 
-XII. Padrón: El Padrón de Contratistas de Obras Públicas y Servicios Relacionados con las Mismas, que regula la Contraloría;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+XII. Padrón: El Padrón de Contratistas de Obras Públicas y Servicios Relacionados con las Mismas, que regula la Secretaría Anticorrupción y Buen Gobierno;
 
 > <small>(REFORMADA, P.O. 15 DE JUNIO DE 2011)</small>
 
@@ -169,7 +173,9 @@ III. Un vocal, que será el titular de la dependencia o entidad que pretenda con
 
 IV. Un Secretario, que será el titular de la Dirección Jurídica de la Secretaría, el cual tendrá voz pero no voto.
 
-A las sesiones asistirán, invariablemente sendos representantes de la Secretaría de Finanzas, con objeto de confirmar la disposición presupuestal para la obra que se pretende contratar, en términos del Presupuesto de Egresos del Estado, y de la Contraloría. Tendrán voz pero no voto.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+A las sesiones asistirán, invariablemente sendos representantes de la Secretaría de Finanzas, con objeto de confirmar la disposición presupuestal para la obra que se pretende contratar, en términos del Presupuesto de Egresos del Estado, y de la Secretaría Anticorrupción y Buen Gobierno. Tendrán voz pero no voto.
 
 Cada titular tendrá la facultad indelegable de nombrar un representante suplente.
 
@@ -281,13 +287,17 @@ III. Observar las recomendaciones que haga la Secretaría para mejorar los proce
 
 IV. Integrar los expedientes técnicos de las obras públicas o servicios relacionados con las mismas que pretenda contratar, los cuales deberán contar con el acuerdo del área de la Secretaría a cargo de los concursos de obras públicas;
 
-V. Informar de inmediato, tanto a la Secretaría como a la Contraloría, sobre las irregularidades que se adviertan con relación al proceso de ejecución de obras públicas y de los servicios relacionados con las mismas;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+V. Informar de inmediato, tanto a la Secretaría como a la Secretaría Anticorrupción y Buen Gobierno, sobre las irregularidades que se adviertan con relación al proceso de ejecución de obras públicas y de los servicios relacionados con las mismas;
 
 VI. Firmar, previa autorización de la Comisión, los contratos de obras públicas y de servicios relacionados con las mismas;
 
 VII. Tomar las providencias necesarias para el aseguramiento, protección y custodia de las obras públicas que integran el patrimonio de la dependencia o entidad, y sobre los bienes de los cuales tenga posesión legítima, así como mantener actualizado el inventario de las obras públicas comprendidas en sus ámbitos de competencia;
 
-VIII. Facilitar al personal de la Secretaría y de la Contraloría, con propósitos de verificación, el acceso a cualquier etapa del proceso de licitación o ejecución de las obras públicas y de los servicios relacionados con las mismas, así como proveerlas de toda la información que les sea solicitada;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+VIII. Facilitar al personal de la Secretaría y de la Secretaría Anticorrupción y Buen Gobierno, con propósitos de verificación, el acceso a cualquier etapa del proceso de licitación o ejecución de las obras públicas y de los servicios relacionados con las mismas, así como proveerlas de toda la información que les sea solicitada;
 
 > <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2021)</small>
 
@@ -305,7 +315,9 @@ Asimismo, para coadyuvar en el cumplimiento de los objetivos del Comité, se cre
 
 I. Un vocal técnico, quien la presidirá y será designado por el titular de la Secretaría;
 
-II. Un representante de la Contraloría;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+II. Un representante de la Secretaría Anticorrupción y Buen Gobierno;
 
 III. Un representante del área responsable de la ejecución de la obra en la Secretaría;
 
@@ -343,13 +355,15 @@ Cuando por las condiciones especiales de las obras públicas y de los servicios 
 
 Previamente a la ejecución de las obras públicas o servicios relacionados con las mismas a que se refiere este artículo, se deberán establecer convenios o acuerdos donde se especifiquen los términos para la coordinación de las acciones del Comité o Ayuntamientos que intervengan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2026)</small>
+
 ###### ARTÍCULO 15.
 
-El Ejecutivo Estatal aplicará la presente ley por conducto de la Secretaría y de la Contraloría, en el ámbito de sus respectivas competencias, sin perjuicio de la intervención que se atribuya a otras dependencias del propio Ejecutivo conforme a este ordenamiento u otras disposiciones legales.
+El Ejecutivo Estatal aplicará la presente ley por conducto de la Secretaría y de la Secretaría Anticorrupción y Buen Gobierno, en el ámbito de sus respectivas competencias, sin perjuicio de la intervención que se atribuya a otras dependencias del propio Ejecutivo conforme a este ordenamiento u otras disposiciones legales.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
 
-Para efectos administrativos, la Secretaría y la Contraloría, quedan facultadas para interpretar las disposiciones de esta ley, en el ámbito de sus respectivas competencias.
+Para efectos administrativos, la Secretaría y la Secretaría Anticorrupción y Buen Gobierno, quedan facultadas para interpretar las disposiciones de esta ley, en el ámbito de sus respectivas competencias.
 
 Los Ayuntamientos aplicarán esta ley en sus respectivos municipios, observando lo dispuesto en el Código Municipal.
 
@@ -841,9 +855,9 @@ II. De entre los licitantes que hayan asistido, éstos elegirán a uno, que en f
 
 III. Se levantará acta que servirá de constancia de la celebración del acto de presentación y apertura de las proposiciones, en la que se harán constar el importe de cada una de ellas; se señalará lugar, fecha y hora en que se dará a conocer el fallo de la licitación, fecha que deberá quedar comprendida dentro de los treinta días naturales siguientes a la establecida para este acto y podrá diferirse, siempre que el nuevo plazo fijado no exceda de treinta días naturales contados a partir del plazo establecido originalmente para el fallo.
 
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
 
-Al acto de presentación y apertura de las proposiciones deberá asistir y participar un integrante de la Contraloría o del órgano de control interno municipal, según corresponda.
+Al acto de presentación y apertura de las proposiciones deberá asistir y participar un integrante de la Secretaría Anticorrupción y Buen Gobierno o del órgano de control interno municipal, según corresponda.
 
 ###### ARTÍCULO 44.
 
@@ -1103,7 +1117,9 @@ I. Aquellas con quienes los servidores públicos que intervengan en cualquier et
 
 II. Aquellos contratistas que, por causas imputables a ellos mismos, la dependencia, entidad o Ayuntamiento convocante les hubiere rescindido administrativamente un contrato dentro de un lapso de un año de calendario contado a partir de la notificación de la rescisión. Dicho impedimento prevalecerá ante la propia dependencia, entidad o Ayuntamiento convocante durante un año calendario contado a partir de la notificación de la rescisión;
 
-III. Aquellas que se encuentren inhabilitadas por resolución de la Contraloría en los términos del Título Noveno de este ordenamiento;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+III. Aquellas que se encuentren inhabilitadas por resolución de la Secretaría Anticorrupción y Buen Gobierno en los términos del Título Noveno de este ordenamiento;
 
 IV. Aquellas a quienes la autoridad competente declare en suspensión de pagos, estado de quiebra o sujetas a concurso de acreedores;
 
@@ -1379,11 +1395,11 @@ III. Los documentos que se generen durante la ejecución de la obra.
 
 El área responsable de la integración del expediente unitario deberá conservarlo cuando menos por un lapso de cinco años, contado a partir de la fecha de recepción de la obra.
 
-> <small>(REFORMADO, P.O. 7 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
 
 ###### ARTÍCULO 84.
 
-En ejercicio de sus facultades, la Contraloría, el órgano de control de los Ayuntamientos y la Auditoría Superior del Estado, podrán verificar en cualquier tiempo que las obras públicas y servicios relacionados con las mismas, se realicen conforme a lo establecido en esta ley o en otras disposiciones aplicables.
+En ejercicio de sus facultades, la Secretaría Anticorrupción y Buen Gobierno, el órgano de control de los Ayuntamientos y la Auditoría Superior del Estado, podrán verificar en cualquier tiempo que las obras públicas y servicios relacionados con las mismas, se realicen conforme a lo establecido en esta ley o en otras disposiciones aplicables.
 
 ###### ARTÍCULO 85.
 
@@ -1419,9 +1435,11 @@ Los licitantes o contratistas que infrinjan las disposiciones de esta ley serán
 
 Los servidores públicos que infrinjan las disposiciones de esta ley serán sancionados en los términos de la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2026)</small>
+
 ###### ARTÍCULO 89.
 
-Además de la sanción a que se refiere el artículo anterior, la Contraloría o los órganos de control de los Ayuntamientos, inhabilitarán temporalmente para participar en procedimientos de contratación, o celebrar contratos regulados por esta ley, al licitante o contratista que se encuentre en alguno de los supuestos siguientes:
+Además de la sanción a que se refiere el artículo anterior, la Secretaría Anticorrupción y Buen Gobierno o los órganos de control de los Ayuntamientos, inhabilitarán temporalmente para participar en procedimientos de contratación, o celebrar contratos regulados por esta ley, al licitante o contratista que se encuentre en alguno de los supuestos siguientes:
 
 I. Los licitantes que injustificadamente y por causas imputables a los mismos no formalicen el contrato adjudicado por el ente público convocante;
 
@@ -1431,11 +1449,13 @@ III. Los contratistas que no cumplan con sus obligaciones contractuales por caus
 
 IV. Los licitantes o contratistas que proporcionen información falsa, o que actúen con dolo o mala fe en algún procedimiento de contratación, en la celebración del contrato o durante su vigencia, o bien, en la presentación o desahogo de una queja en una audiencia de conciliación de una inconformidad.
 
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
 
-La inhabilitación que se imponga no será menor de dos años ni mayor de cinco años, plazo que comenzará a contarse a partir del día siguiente a la fecha en que la Contraloría o los órganos de control de los Ayuntamientos, lo notifiquen al licitante o contratista.
+La inhabilitación que se imponga no será menor de dos años ni mayor de cinco años, plazo que comenzará a contarse a partir del día siguiente a la fecha en que la Secretaría Anticorrupción y Buen Gobierno o los órganos de control de los Ayuntamientos, lo notifiquen al licitante o contratista.
 
-Dentro de los quince días naturales siguientes a la fecha en que tengan conocimiento de alguna infracción a las disposiciones de esta ley, las dependencias, entidades o Ayuntamientos remitirán a la Contraloría o a los órganos de control en el Ayuntamiento de que se trate, la documentación comprobatoria de los hechos presumiblemente constitutivos de la infracción.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+Dentro de los quince días naturales siguientes a la fecha en que tengan conocimiento de alguna infracción a las disposiciones de esta ley, las dependencias, entidades o Ayuntamientos remitirán a la Secretaría Anticorrupción y Buen Gobierno o a los órganos de control en el Ayuntamiento de que se trate, la documentación comprobatoria de los hechos presumiblemente constitutivos de la infracción.
 
 ###### ARTÍCULO 90.
 
@@ -1483,9 +1503,11 @@ Los actos, convenios, contratos y negocios jurídicos que se realicen en contrav
 
 ### CAPÍTULO PRIMERO. DEL RECURSO DE REVOCACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2026)</small>
+
 ###### ARTÍCULO 96.
 
-En contra de las resoluciones que dicte la autoridad, el interesado podrá interponer ante la Contraloría o los órganos de control de los Ayuntamientos, el recurso de revocación, dentro del término de cinco días hábiles contados a partir del día hábil siguiente al de la notificación de la resolución respectiva.
+En contra de las resoluciones que dicte la autoridad, el interesado podrá interponer ante la Secretaría Anticorrupción y Buen Gobierno o los órganos de control de los Ayuntamientos, el recurso de revocación, dentro del término de cinco días hábiles contados a partir del día hábil siguiente al de la notificación de la resolución respectiva.
 
 Si se determina la nulidad total del procedimiento de contratación por causas imputables a la convocante, la dependencia, entidad o Ayuntamiento, reembolsará a los licitantes los gastos no recuperables en que hayan incurrido, siempre que estén debidamente comprobados y se relacionen directamente con la operación correspondiente.
 
@@ -1501,29 +1523,45 @@ III. Las pruebas que ofrezca el recurrente deberá relacionarlas con cada uno de
 
 IV. Las pruebas documentales se tendrán por no ofrecidas si no se acompañan al escrito en que se interponga el recurso, salvo que obren en el expediente en que se haya originado la resolución recurrida;
 
-V. La prueba pericial se desahogará con la presentación del dictamen a cargo del perito designado por el recurrente, dentro del plazo razonable que para desempeñar su cometido disponga la Contraloría o el órgano de control del Ayuntamiento; de no presentarse el dictamen dentro del plazo establecido, la prueba será declarada desierta;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
-VI. La Contraloría o los órganos de control de los Ayuntamientos, según sea el caso, podrán pedir que se les rindan los informes que estimen pertinentes por parte de quienes hayan intervenido en el acto reclamado;
+V. La prueba pericial se desahogará con la presentación del dictamen a cargo del perito designado por el recurrente, dentro del plazo razonable que para desempeñar su cometido disponga la Secretaría Anticorrupción y Buen Gobierno o el órgano de control del Ayuntamiento; de no presentarse el dictamen dentro del plazo establecido, la prueba será declarada desierta;
 
-VII. La Contraloría o los órganos de control de los Ayuntamientos, acordarán lo que proceda, sobre la admisión del recurso y de las pruebas que el recurrente hubiere ofrecido, que deberán ser pertinentes e idóneas para dilucidar las cuestiones controvertidas; asimismo, ordenarán el desahogo de las mismas dentro del plazo de quince días hábiles improrrogables, y
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
-VIII. Vencido el plazo para la rendición de las pruebas, la Contraloría o los órganos de control de los Ayuntamientos, dictarán resolución en un término que no excederá de quince días hábiles, la cual deberá estar fundada y motivada.
+VI. La Secretaría Anticorrupción y Buen Gobierno o los órganos de control de los Ayuntamientos, según sea el caso, podrán pedir que se les rindan los informes que estimen pertinentes por parte de quienes hayan intervenido en el acto reclamado;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+VII. La Secretaría Anticorrupción y Buen Gobierno o los órganos de control de los Ayuntamientos, acordarán lo que proceda, sobre la admisión del recurso y de las pruebas que el recurrente hubiere ofrecido, que deberán ser pertinentes e idóneas para dilucidar las cuestiones controvertidas; asimismo, ordenarán el desahogo de las mismas dentro del plazo de quince días hábiles improrrogables; y
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+VIII. Vencido el plazo para la rendición de las pruebas, la Secretaría Anticorrupción y Buen Gobierno o los órganos de control de los Ayuntamientos, dictarán resolución en un término que no excederá de quince días hábiles, la cual deberá estar fundada y motivada.
 
 ### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO DE CONCILIACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2026)</small>
+
 ###### ARTÍCULO 98.
 
-Los contratistas podrán presentar quejas ante la Contraloría o los órganos de control de los Ayuntamientos, según corresponda, con motivo del incumplimiento de los términos y condiciones pactados en los contratos que tengan celebrados con las dependencias, entidades o los propios Ayuntamientos.
+Los contratistas podrán presentar quejas ante la Secretaría Anticorrupción y Buen Gobierno o los órganos de control de los Ayuntamientos, según corresponda, con motivo del incumplimiento de los términos y condiciones pactados en los contratos que tengan celebrados con las dependencias, entidades o los propios Ayuntamientos.
 
-Una vez recibida la queja respectiva, la Contraloría o los órganos de control de los Ayuntamientos, señalarán día y hora para que tenga verificativo la audiencia de conciliación y citarán a las partes. Dicha audiencia se deberá celebrar dentro de los quince días hábiles siguientes a la fecha de recepción de la queja.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+Una vez recibida la queja respectiva, la Secretaría Anticorrupción y Buen Gobierno o los órganos de control de los Ayuntamientos, señalarán día y hora para que tenga verificativo la audiencia de conciliación y citarán a las partes. Dicha audiencia se deberá celebrar dentro de los quince días hábiles siguientes a la fecha de recepción de la queja.
 
 La asistencia a la audiencia de conciliación será obligatoria para ambas partes, por lo que la inasistencia por parte del contratista traerá como consecuencia el tenerlo por desistido de su queja.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2026)</small>
+
 ###### ARTÍCULO 99.
 
-En la audiencia de conciliación, la Contraloría o los órganos de control de los Ayuntamientos, tomando en cuenta los hechos manifestados en la queja y los argumentos que hiciere valer la dependencia, entidad o Ayuntamiento, determinará los elementos comunes y los puntos de controversia, y exhortará a las partes para conciliar sus intereses conforme a las disposiciones de esta ley, sin prejuzgar sobre el conflicto planteado.
+En la audiencia de conciliación, la Secretaría Anticorrupción y Buen Gobierno o los órganos de control de los Ayuntamientos, tomando en cuenta los hechos manifestados en la queja y los argumentos que hiciere valer la dependencia, entidad o Ayuntamiento, determinará los elementos comunes y los puntos de controversia, y exhortará a las partes para conciliar sus intereses conforme a las disposiciones de esta ley, sin prejuzgar sobre el conflicto planteado.
 
-En caso necesario, la audiencia se podrá realizar en varias sesiones. Para ello, la Contraloría o los órganos de control de los Ayuntamientos, señalarán los días y horas para que tenga verificativo. El procedimiento de conciliación deberá agotarse en un plazo no mayor de sesenta días hábiles contados a partir de la fecha en que se haya celebrado la primera sesión.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+En caso necesario, la audiencia se podrá realizar en varias sesiones. Para ello, la Secretaría Anticorrupción y Buen Gobierno o los órganos de control de los Ayuntamientos, señalarán los días y horas para que tenga verificativo. El procedimiento de conciliación deberá agotarse en un plazo no mayor de sesenta días hábiles contados a partir de la fecha en que se haya celebrado la primera sesión.
 
 De toda diligencia deberá levantarse acta circunstanciada en la que consten los resultados de las actuaciones.
 
@@ -1750,3 +1788,19 @@ La Secretaría de Finanzas deberá emitir los lineamientos a los que deberán su
 ###### ARTÍCULO CUARTO.
 
 Se derogan las disposiciones normativas que se opongan al presente Decreto.
+
+P.O. 12 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-963 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES PARA LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS; DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE ARCHIVOS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS; DE LA LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE CONCILIACIÓN Y ARBITRAJE MÉDICO PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE TAMAULIPAS; DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS; DE LA LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS; DE LA LEY PARA LA ENTREGA-RECEPCIÓN DE LOS RECURSOS ASIGNADOS A LOS PODERES, ÓRGANOS Y AYUNTAMIENTOS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE GASTO PÚBLICO; DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE IGUALDAD DE GÉNERO EN TAMAULIPAS; DE LA LEY DEL INSTITUTO DE PREVISIÓN Y SEGURIDAD SOCIAL DEL ESTADO DE TAMAULIPAS; DE LA LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO; DE LA LEY ESTATAL DE PLANEACIÓN; DE LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS; DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN SOCIOECONÓMICA DE LAS VIOLENCIAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE TAMAULIPAS; DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Tribunal de Justicia Administrativa del Estado de Tamaulipas, a través de su Órgano Interno de Control, y con base en su capacidad presupuesta! (sic), deberá realizar las adecuaciones necesarias a su reglamento interior en un plazo no mayor a treinta días naturales contados a partir de la entrada en vigor del presente Decreto, con el fin de garantizar en el ámbito de su competencia, el ejercicio de los derechos de acceso a la información pública y de protección de datos personales, conforme a los principios y bases establecidos por los artículos 6o de la Constitución Política de los Estados Unidos Mexicanos; 17, fracción V, de la Constitución Política del Estado de Tamaulipas, así como por lo previsto en la legislación aplicable.
+
+###### ARTÍCULO TERCERO.
+
+En las disposiciones transitorias de las diversas leyes y códigos en las que se haga referencia a la Contraloría Gubernamental, se entenderá la Secretaría Anticorrupción y Buen Gobierno.
