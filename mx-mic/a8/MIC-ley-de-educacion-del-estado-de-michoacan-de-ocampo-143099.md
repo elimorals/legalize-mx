@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-educacion-del-estado-de-michoacan-de-ocampo-143099"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-29"
-last_updated: "2025-09-08"
+last_updated: "2026-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143099&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
 
 Ley publicada en la Sexta Sección en el Número 22 del Periódico Oficial del Estado de Michoacán, el viernes 29 de mayo de 2020.
 
@@ -323,13 +323,17 @@ XIV. Elaborar, editar, mantener actualizados, distribuir y utilizar materiales e
 
 XV. Fomentar programas que coadyuven a la mejora de la educación para alcanzar su excelencia;
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
-XVI. Desde una perspectiva de género, se fomentará la educación menstrual y se facilitará el acceso gratuito a los productos de gestión menstrual para niñas, mujeres y personas menstruantes que lo requieran, en las escuelas públicas pertenecientes al Sistema Educativo Estatal; y,
+XVI. Desde una perspectiva de género, se fomentará la educación menstrual y se facilitará el acceso gratuito a los productos de gestión menstrual para niñas, mujeres y personas menstruantes que lo requieran, en las escuelas públicas pertenecientes al Sistema Educativo Estatal;
 
-> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
-XVII. Propiciar acciones de información y difusión de medidas orientadas a prevenir y concientizar sobre el riesgo de la adicción a los videojuegos.
+XVII. Propiciar acciones de información y difusión de medidas orientadas a prevenir y concientizar sobre el riesgo de la adicción a los videojuegos; y,
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+XVIII. Impulsar, en concurrencia con la autoridad educativa federal y en coordinación con las autoridades de salud del Estado, los programas y acciones para la promoción del cuidado socioemocional y la salud mental.
 
 ###### Artículo 30.
 
@@ -355,13 +359,21 @@ I. Contribuir a la formación del pensamiento crítico, a la transformación y a
 
 II. Propiciar un diálogo continuo entre las humanidades, las artes, la ciencia, la tecnología y la innovación como factores del bienestar y la transformación social;
 
-III. Fortalecer el tejido social para evitar la corrupción, a través del fomento de la honestidad y la integridad, además de proteger la naturaleza, impulsar el desarrollo en lo social, ambiental, económico, así como , favorecer la generación de capacidades productivas y fomentar una justa distribución del ingreso;
+III. Fortalecer el tejido social para evitar la corrupción, a través del fomento de la honestidad y la integridad, además de proteger la naturaleza, impulsar el desarrollo en lo social, ambiental, económico, así como, favorecer la generación de capacidades productivas y fomentar una justa distribución del ingreso;
 
 IV. Combatir las causas de discriminación y violencia en las diferentes regiones de la entidad, especialmente las que se ejercen contra la niñez, las mujeres y los integrantes de los pueblos y comunidades indígenas;
 
-V. Alentar la construcción de relaciones sociales, económicas y culturales con base en el respeto de los derechos humanos; y,
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
-VI. Fortalecer el reconocimiento y preservación de los saberes comunitarios, y del patrimonio histórico y cultural, tangible e intangible, de los pueblos indígenas y afromexicanos.
+V. Alentar la construcción de relaciones sociales, económicas y culturales con base en el respeto de los derechos humanos;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+VI. Fortalecer el reconocimiento y preservación de los saberes comunitarios, y del patrimonio histórico y cultural, tangible e intangible, de los pueblos indígenas y afromexicanos; y,
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+VII. Fortalecer la atención de la salud mental mediante el desarrollo de herramientas que proporcionen habilidades socioemocionales, como medida preventiva de problemáticas sociales.
 
 ###### Artículo 34.
 
@@ -829,7 +841,9 @@ II. Identificar las competencias emocionales básicas para la vida en la socieda
 
 III. Secuenciar la adquisición de competencias emocionales a lo largo del currículum;
 
-IV. Formar al profesorado en eduación emocional, a fin de posibilitar el diseño, aplicación y evaluación de programas contextualizados en centros educativos;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+IV. Impulsar los procesos de información para que el profesorado conozca los programas en educación socioemocional y fomento de la salud mental en los centros educativos, en coordinación con las autoridades de salud;
 
 V. Crear materiales curriculares para apoyar la práctica de la educación emocional por parte del profesorado;
 
@@ -891,9 +905,13 @@ Artículo 69 Undecies. Las autoridades deben tomar en cuenta el interés superio
 
 Artículo 69 Duodecies. Para alcanzar los objetivos y finalidades que se persiguen en este capítulo de la presente ley, se deberá realizar una capacitación docente en relación a los contenidos de educación emocional, respecto de sus cuatro pilares:
 
-I. Educación emocional de niñas y niños;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
-II. Escuela para padres de educación emocional;
+I. Educación emocional de niñas, niños y adolescentes;
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+II. Escuela para padres y tutores de educación emocional y salud mental;
 
 III. Educación emocional para el manejo de las emociones en los educadores; y,
 
@@ -2744,3 +2762,11 @@ P.O. 8 DE SEPTIEMBRE DE 2025.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Segundo. Para el cumplimiento del presente Decreto, las instituciones educativas dispondrán de los recursos humanos y materiales que tengan.
+
+P.O. 12 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 332 POR EL QUE "SE REFORMAN LAS FRACCIONES XVI Y XVII DEL ARTÍCULO 29, LAS FRACCIONES V Y VI DEL ARTÍCULO 33, LA FRACCIÓN IV DEL ARTÍCULO 69 SEXIES Y LAS FRACCIONES I Y II DEL ARTÍCULO 69 DUODECIES; Y, SE ADICIONA LA FRACCIÓN XVIII AL ARTÍCULO 29 Y LA FRACCIÓN VII AL ARTÍCULO 33, TODOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos legales correspondientes.
+
+Segundo. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
