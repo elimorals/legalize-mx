@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-centro-de-conciliacion-laboral-del-estado-1513
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-09-29"
-last_updated: "2021-09-29"
+last_updated: "2026-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151391&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
 
 Ley publicada en el número 116 del Periódico Oficial del Estado de Tamaulipas, el miércoles 29 de septiembre de 2021.
 
@@ -163,11 +163,13 @@ II. La persona titular de la Secretaría de Finanzas del Estado;
 
 III. Un representante de la Legislatura del Estado;
 
-IV. La persona titular del Instituto de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas;
+IV. (DEROGADA, P.O. 12 DE FEBRERO DE 2026)
 
-V. El Titular del Centro de Mecanismos Alternativos para la Solución de Conflictos del Poder Judicial del Estado de Tamaulipas; y
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
-VI. La persona titular de la Contraloría Gubernamental.
+V. El Titular del Centro de Mecanismos Alternativos para la Solución de Conflictos del Poder Judicial del Estado de Tamaulipas;
+
+VI. (DEROGADA, P.O. 12 DE FEBRERO DE 2026)
 
 Por cada miembro propietario habrá un suplente designado por el o la persona titular correspondiente, quien podrá suplirla cuando así se requiera.
 
@@ -517,19 +519,27 @@ XVI. Todas aquellas que se deriven de la Ley Federal del Trabajo, de esta Ley, d
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 51.
 
-El Centro contará con un órgano de vigilancia, control y evaluación que estará integrado por una Comisaria o Comisario Público propietario y un suplente, designados por la Contraloría Gubernamental.
+El Centro contará con un órgano de vigilancia, control y evaluación que estará integrado por una Comisaria o Comisario Público propietario y un suplente, designados por la Secretaría Anticorrupción y Buen Gobierno.
 
-Sus acciones tendrán por objeto apoyar la función directiva y promover el mejoramiento de la gestión del Centro. Evaluarán el desempeño general y por funciones del organismo, realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Contraloría Gubernamental les asigne específicamente conforme a la Ley de Entidades Paraestatales del Estado de Tamaulipas y demás disposiciones normativas aplicables.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+Sus acciones tendrán por objeto apoyar la función directiva y promover el mejoramiento de la gestión del Centro. Evaluarán el desempeño general y por funciones del organismo, realizarán estudios sobre la eficiencia con la que se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en general, solicitarán la información y efectuarán los actos que requiera el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas de la Secretaría Anticorrupción y Buen Gobierno les asigne específicamente conforme a la Ley de Entidades Paraestatales del Estado de Tamaulipas y demás disposiciones normativas aplicables.
 
 Para el cumplimiento de las funciones citadas, la Junta de Gobierno y la Directora o Director General, deberán proporcionar la información que soliciten las Comisarias o los Comisarios Públicos. Asimismo, podrán asistir a las sesiones de los comités y subcomités técnicos especializados del Centro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 52.
 
-El Órgano Interno de Control tendrá por objeto apoyar la función directiva y promover el mejoramiento de gestión del Centro; desarrollará sus funciones conforme a los lineamientos que emita la Contraloría Gubernamental, de la cual dependerá el titular de dicho órgano y de su área de auditoría, quejas y responsabilidades, de acuerdo a las bases siguientes:
+El Órgano Interno de Control tendrá por objeto apoyar la función directiva y promover el mejoramiento de gestión del Centro; desarrollará sus funciones conforme a los lineamientos que emita la Secretaría Anticorrupción y Buen Gobierno, de la cual dependerá el titular de dicho órgano y de su área de auditoría, quejas y responsabilidades, de acuerdo a las bases siguientes:
 
-I. Recibir quejas, investigar y, en su caso, por conducto de la persona titular del órgano interno de control o del área de responsabilidades, determinar la responsabilidad administrativa del personal adscrito al servicio público del Centro e imponer las sanciones aplicables en los términos previstos en la ley de la materia, así como dictar las resoluciones en los recursos de revocación que interponga el personal del servicio público del Centro respecto de la imposición de sanciones administrativas. El órgano interno de control realizará la defensa jurídica de las resoluciones que emitan ante los diversos Tribunales competentes, representando al titular de la Contraloría Gubernamental;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+I. Recibir quejas, investigar y, en su caso, por conducto de la persona titular del órgano interno de control o del área de responsabilidades, determinar la responsabilidad administrativa del personal adscrito al servicio público del Centro e imponer las sanciones aplicables en los términos previstos en la ley de la materia, así como dictar las resoluciones en los recursos de revocación que interponga el personal del servicio público del Centro respecto de la imposición de sanciones administrativas. El órgano interno de control realizará la defensa jurídica de las resoluciones que emitan ante los diversos Tribunales competentes, representando al titular de la Secretaría Anticorrupción y Buen Gobierno;
 
 II. Realizar sus actividades de acuerdo a reglas y bases que les permitan cumplir su cometido con autosuficiencia y autonomía; y
 
@@ -588,3 +598,21 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los treinta días del mes de agosto del año dos mil veintiuno.
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- FRANCISCO JAVIER GARCÍA CABEZA DE VACA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- CÉSAR AUGUSTO VERÁSTEGUI OSTOS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 66-963 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES PARA LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS; DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE ARCHIVOS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS; DE LA LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE CONCILIACIÓN Y ARBITRAJE MÉDICO PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE TAMAULIPAS; DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS; DE LA LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS; DE LA LEY PARA LA ENTREGA-RECEPCIÓN DE LOS RECURSOS ASIGNADOS A LOS PODERES, ÓRGANOS Y AYUNTAMIENTOS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE GASTO PÚBLICO; DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE IGUALDAD DE GÉNERO EN TAMAULIPAS; DE LA LEY DEL INSTITUTO DE PREVISIÓN Y SEGURIDAD SOCIAL DEL ESTADO DE TAMAULIPAS; DE LA LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO; DE LA LEY ESTATAL DE PLANEACIÓN; DE LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS; DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN SOCIOECONÓMICA DE LAS VIOLENCIAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE TAMAULIPAS; DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Tribunal de Justicia Administrativa del Estado de Tamaulipas, a través de su Órgano Interno de Control, y con base en su capacidad presupuesta! (sic), deberá realizar las adecuaciones necesarias a su reglamento interior en un plazo no mayor a treinta días naturales contados a partir de la entrada en vigor del presente Decreto, con el fin de garantizar en el ámbito de su competencia, el ejercicio de los derechos de acceso a la información pública y de protección de datos personales, conforme a los principios y bases establecidos por los artículos 6o de la Constitución Política de los Estados Unidos Mexicanos; 17, fracción V, de la Constitución Política del Estado de Tamaulipas, así como por lo previsto en la legislación aplicable.
+
+###### ARTÍCULO TERCERO.
+
+En las disposiciones transitorias de las diversas leyes y códigos en las que se haga referencia a la Contraloría Gubernamental, se entenderá la Secretaría Anticorrupción y Buen Gobierno.
