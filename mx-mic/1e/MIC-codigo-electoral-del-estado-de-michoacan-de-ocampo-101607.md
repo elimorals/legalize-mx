@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-de-ocampo-101607"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-29"
-last_updated: "2026-01-09"
+last_updated: "2026-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el domingo 29 de junio de 2014.
 
@@ -95,49 +95,67 @@ VI. Discriminación por motivos de discapacidad: Se entenderá cualquier distinc
 
 VII. Estado: Estado Libre y Soberano de Michoacán de Ocampo;
 
-VIII. Instituto: Instituto Electoral de Michoacán;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE FEBRERO DE 2026)</small>
 
-IX. Instituto Nacional: Instituto Nacional Electoral;
+VIII. Influencers: Para efectos de este Código, se entiende por influencer a la persona física o moral que, a través de redes sociales o plataformas digitales, realiza de manera sistemática y continua publicaciones dirigidas a una audiencia de al menos cien mil seguidores o suscriptores, o cuyas publicaciones, en promedio, generan un nivel de exposición orgánica o de interacción que supere las cien mil impresiones, vistas o alcances mensuales, de manera verificable y sostenida.
 
-X. Ley General: Ley General de Instituciones y Procedimientos Electorales;
+Esta definición no será aplicable a expresiones ciudadanas espontáneas, no remuneradas, que formen parte del ejercicio del derecho a la libertad de expresión; ni tampoco a contenidos de análisis, crítica, opinión, sátira, investigación o trabajo periodístico, los cuales no podrán ser objeto de sanción alguna, conforme a los principios constitucionales de libertad de pensamiento y prensa;
 
-XI. Ley de Partidos: Ley General de Partidos Políticos;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE FEBRERO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
+IX. Instituto: Instituto Electoral de Michoacán;
 
-XII. Periódico Oficial: Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE FEBRERO DE 2026)</small>
 
-> <small>(ADICIONADA, P.O. 7 DE JULIO DE 2020)</small>
+X. Instituto Nacional: Instituto Nacional Electoral;
 
-XII Bis. Paridad de género: Igualdad política entre hombres y mujeres, se garantiza con la asignación del 50% mujeres y 50% hombres en candidaturas a cargos de elección popular y en nombramientos de cargos por designación;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE FEBRERO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2020)</small>
+XI. Ley General: Ley General de Instituciones y Procedimientos Electorales;
 
-XIII. Tribunal: Tribunal Electoral del Estado de Michoacán;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE FEBRERO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2020)</small>
+XII. Ley de Partidos: Ley General de Partidos Políticos;
 
-XIV. UMA: Unidad de Medida y Actualización;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE FEBRERO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+XIII. Periódico Oficial: Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo;
 
-XV. Urna electrónica: medio electrónico o cualquier otra tecnología de recepción del sufragio, en el cual el emitente del voto deposita o expresa su voluntad;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE FEBRERO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+XIV. Paridad de género: Igualdad política entre hombres y mujeres, se garantiza con la asignación del 50% mujeres y 50% hombres en candidaturas a cargos de elección popular y en nombramientos de cargos por designación;
 
-XVI. La violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE FEBRERO DE 2026)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE DICIEMBRE DE 2024)</small>
+XV. Promoción digital: Para efectos de este Código, se entiende por promoción digital segmentada o alcance potencial amplio, a la difusión de contenidos a través de redes sociales o plataformas digitales que utilicen herramientas de promoción pagada, segmentación por audiencia, algoritmos de amplificación o cualquier otro mecanismo técnico o económico que permita dirigir el mensaje a sectores específicos de la población o multiplicar su visibilidad más allá del alcance orgánico del perfil o página emisora;
 
-XVII. Poder Judicial: Poder Judicial del Estado de Michoacán de Ocampo;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE FEBRERO DE 2026)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE DICIEMBRE DE 2024)</small>
+XVI. Tribunal: Tribunal Electoral del Estado de Michoacán;
 
-XVIII. Ley de Justicia: Ley de Justicia en Materia Electoral y de Participación Ciudadana del Estado de Michoacán de Ocampo; y,
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE FEBRERO DE 2026)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE DICIEMBRE DE 2024)</small>
+XVII. UMA: Unidad de Medida y Actualización;
 
-XIX. Ley General: Ley General del Sistema de Medios de Impugnación en Materia Electoral.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE FEBRERO DE 2026)</small>
+
+XVIII. Urna electrónica: medio electrónico o cualquier otra tecnología de recepción del sufragio, en el cual el emitente del voto deposita o expresa su voluntad;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE FEBRERO DE 2026)</small>
+
+XIX. La violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE FEBRERO DE 2026)</small>
+
+XX. Poder Judicial: Poder Judicial del Estado de Michoacán de Ocampo;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE FEBRERO DE 2026)</small>
+
+XXI. Ley de Justicia: Ley de Justicia en Materia Electoral y de Participación Ciudadana del Estado de Michoacán de Ocampo; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 12 DE FEBRERO DE 2026)</small>
+
+XXII. Ley General: Ley General del Sistema de Medios de Impugnación en Materia Electoral.
 
 > <small>(ADICIONADO, P.O. 29 DE MAYO DE 2020)</small>
 
@@ -3210,6 +3228,28 @@ En los casos de infracción a lo dispuesto en este artículo, será competente e
 > <small>(ADICIONADO, P.O. 2 DE JUNIO DE 2023)</small>
 
 ARTÍCULO 169 BIS. Los partidos políticos, aspirantes, precandidatos, candidatos incluidos los independientes, las organizaciones y agrupaciones de esta índole que publiquen propaganda política o electoral por cualquier medio y aparezcan niñas, niños y adolescentes, deberán cumplir con los lineamientos para la protección de los derechos de niñas, niños y adolescentes en materia político-electoral y demás normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+ARTÍCULO 169 TER. Difusión de Propaganda Político-Electoral en Redes Sociales durante el Periodo de Veda Electoral.
+
+Durante el periodo de veda electoral determinado por el Instituto, queda estrictamente prohibida la difusión de propaganda político-electoral a través de redes sociales o plataformas digitales.
+
+Esta prohibición será aplicable a:
+
+I. Los influencers, entendidos conforme a la definición prevista en este Código, que publiquen o compartan contenido con fines de promoción política o electoral a favor o en contra de partidos políticos, coaliciones, candidaturas o personas vinculadas a los procesos comiciales;
+
+II. Los partidos políticos, coaliciones, candidaturas comunes y candidatos que, de manera directa o indirecta, contraten, financien o induzcan a la difusión de contenido político-electoral por parte de influencers; y,
+
+III. Cualquier persona física o moral que, a través de contratación, patrocinio, colaboración o cualquier modalidad análoga, difunda contenidos de propaganda político-electoral en dicho periodo.
+
+Las infracciones a lo dispuesto en este artículo serán sancionadas conforme a las disposiciones de este Código y la normatividad aplicable, y podrán incluir:
+
+a) Multas económicas proporcionales a la gravedad de la infracción y al impacto de la propaganda difundida;
+
+b) Orden de retiro inmediato del contenido infractor en un plazo no mayor a veinticuatro horas contadas a partir de la notificación de la autoridad electoral; y,
+
+c) Las demás sanciones establecidas en la legislación en materia electoral y de comunicación política.
 
 ###### ARTÍCULO 170.
 
@@ -7598,3 +7638,9 @@ P.O. 9 DE ENERO DE 2026.
 Primero. El Instituto Electoral de Michoacán emitirá en un plazo no mayor a 90 días los lineamientos correspondientes para la aplicación de esta disposición.
 
 Segundo. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 12 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 329 POR EL QUE SE REFORMA EL ARTÍCULO 3; Y, SE ADICIONA EL ARTÍCULO 169 TER AL CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
