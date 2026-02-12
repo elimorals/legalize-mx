@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2025-11-19"
+last_updated: "2026-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -2505,7 +2505,15 @@ El delito de corrupción de menores, sólo se sancionará cuando se consumen los
 
 ARTICULO 198 BIS.- Comete el delito de pederastia quien se aproveche de la confianza, subordinación o superioridad que tiene sobre un menor de dieciocho años, derivada de su parentesco en cualquier grado, tutela, curatela, guarda o custodia, relación docente, religiosa, laboral, médica, cultural, doméstica o de cualquier índole y ejecute, obligue, induzca o convenza a ejecutar cualquier acto sexual, con o sin su consentimiento.
 
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+Para efectos de este artículo se entiende por actos sexuales los tocamientos o manoseos corporales obscenos, o los que representen actos explícitamente sexuales u obliguen a la víctima a representarlos.
+
 Al responsable de este delito se le aplicará una sanción de nueve a dieciocho años de prisión y multa de setecientas cincuenta a dos mil doscientas veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+Si se hiciera uso de violencia física o psicológica, la pena se aumentará hasta en una mitad más en su mínimo y máximo.
 
 > <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2023)</small>
 
@@ -3417,17 +3425,25 @@ Se impondrá una sanción de dos a seis años de prisión y multa de cuarenta a 
 
 ### CAPITULO II. DELITOS DE ABOGADOS, PATRONOS Y LITIGANTES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2026)</small>
 
 ###### ARTICULO 241.
 
-Se impondrá una sanción de cuatro meses a un año de prisión y multa de seis a treinta veces el valor diario de la Unidad de Medida y Actualización a los que aboguen, representen, patrocinen o litiguen en los casos siguientes:
+Se impondrá una sanción de tres a siete años de prisión y multa de cien a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización a los que aboguen, representen, patrocinen o litiguen en los casos siguientes:
+
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+I.- Alegar o exponer a sabiendas hechos falsos, leyes inexistentes o derogadas, esto, con el propósito de obtener una ventaja procesal indebida en perjuicio de una de las partes y en detrimento del buen funcionamiento del sistema de impartición de justicia; y
 
 I.- Alegar a sabiendas hechos falsos, o leyes inexistentes o derogadas; y
 
 II.- Pedir término para probar lo que notoriamente no puede probarse o no ha de aprovechar a su parte; promover artículos o incidentes que motiven la suspensión del juicio o recursos manifiestamente improcedentes o de cualquier otra manera, procurar dilaciones, que sean notoriamente ilegales.
 
 Si se tratare de profesionales del derecho, se impondrá además de las sanciones anteriores, suspensión para el ejercicio profesional de tres meses a dos años.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+En caso de reincidencia, la pena será aumentada de uno a tres años y, de igual manera, la suspensión en el ejercicio profesional se aumentará de cuatro a ocho años.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -3621,6 +3637,14 @@ ARTICULO 254 BIS.- Se impondrán de ocho meses a ocho años de prisión y multa 
 
 De verificarse el perjuicio o los beneficios a que se refiere el primer párrafo, las penas se incrementarán hasta en dos tercios.
 
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+A quien, ante autoridad judicial o administrativa, por escrito, en forma oral o por cualquier medio, falte a la verdad, oculte o altere hechos o sus circunstancias, para obtener un beneficio o causar un perjuicio a otro, se impondrán de dos a ocho años de prisión y multa de cien a trescientas veces el valor diario de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+Si en el hecho se involucran derechos de menores de edad, la sanción se aumentará de uno a tres años de prisión.
+
 > <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
 Cuando en la comisión de este delito intervenga de forma directa o indirecta un licenciado en Derecho o litigante legalmente autorizado, además se le suspenderá en el ejercicio profesional o en la actividad indicada, por un término igual al de la prisión impuesta, haciéndose lo anterior del conocimiento de la autoridad que corresponda para la vigilancia de la pena impuesta.
@@ -3773,15 +3797,61 @@ Si el falsario hiciere uso de los documentos u objetos falsos que se detallan en
 
 Comete el delito de abuso sexual quien ejecute en una persona, sin su consentimiento, o la obligue a ejecutar para sí o en otra persona, actos sexuales sin el propósito de llegar a la cópula.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
-
-A quien cometa este delito, se le impondrá pena de seis a diez años de prisión y hasta doscientas veces el valor diario de la Unidad de Medida y Actualización de multa.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 12 DE FEBRERO DE 2026)</small>
 
 Para efectos de este artículo se entiende por actos sexuales los tocamientos o manoseos corporales obscenos, o los que representen actos explícitamente sexuales u obliguen a la víctima a representarlos.
 
 También se considera abuso sexual cuando se obligue a la víctima a observar un acto sexual, o a exhibir su cuerpo sin su consentimiento.
 
-Si se hiciera uso de violencia, física o psicológica, la pena se aumentará en una mitad más en su mínimo y máximo.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+Para los efectos del presente artículo no se considera consentimiento cuando la voluntad de la persona haya sido anulada o viciada por violencia, intimidación, engaño, amenaza, abuso de confianza, autoridad o situación de vulnerabilidad. El consentimiento no podrá presumirse del silencio, la pasividad o la falta de resistencia física de la víctima.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+A quien cometa este delito, se le impondrá pena de tres a siete años de prisión y hasta doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización de Multa.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+Asimismo, se impondrá la obligación de acudir a talleres reeducativos con perspectiva de género y no violencia contra las mujeres; programa de reeducación de violencia por mujeres agresoras; desaprendizaje de conductas de violencia sexual por orientación sexual o identidad de género o agresiones de violencia de pareja y/o prestar servicio social en favor del Estado o de instituciones de beneficencia pública, a fin de favorecer medidas de no repetición y promover un cambio cultural a favor de la igualdad sustantiva entre mujeres y hombres. El cumplimiento de esta obligación es de especial relevancia para la procedencia y continuidad de la suspensión condicional.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+Este delito se perseguirá de oficio, cuando se trate de menores de dieciocho años o de persona que no tenga la capacidad de comprender el significado del hecho.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 12 DE FEBRERO DE 2026)</small>
+
+Las penas previstas en este artículo se aumentarán en una tercera parte de su mínimo y máximo cuando el delito se cometa en cualquiera de las siguientes circunstancias:
+
+I.- Con violencia física, psicológica o moral;
+
+II.- Por dos o más personas;
+
+III.- En un lugar despoblado, solitario o poco accesible;
+
+IV.- Cuando exista o haya existido entre el agresor y la víctima una relación de confianza, sentimental, de parentesco por consanguinidad o afinidad, laboral, educativa, docente, de formación deportiva, artística o religiosa;
+
+V.- Cuando se realice por persona que tenga a la víctima bajo su responsabilidad la custodia, guarda, tutela, cuidado o dependencia económica;
+
+VI.- Cuando se realice por persona servidora pública aprovechando su empleo, cargo o comisión. En este caso, además de la pena de prisión, la persona agresora será destituida del cargo, empleo o comisión e inhabilitada para el ejercicio de servicio público por un plazo igual al de la pena privativa de la libertad sin perjuicio de otras sanciones administrativas o civiles que correspondan;
+
+VII.- Cuando se realice por profesionista aprovechando su empleo, cargo o comisión;
+
+VIII.- Cuando se realice por ministro de culto aprovechando su cargo, función o comisión o se haya ostentado como tal;
+
+IX.- Cuando la víctima se encuentre bajo los efectos de alcohol, fármacos, narcóticos u otras sustancias que afecten su voluntad o discernimiento;
+
+X.- Cuando la víctima se encuentre en estado de embarazo o puerperio;
+
+XI.- Cuando se cometa contra personas por su orientación sexual, identidad de género o expresión de género; y
+
+XII.- Cuando la víctima se encuentre en estado de indefensión.
+
+> <small>[N. DE E. PERTENECE AL DÉCIMO PÁRRAFO, P.O. 12 DE FEBRERO DE 2026.]</small>
+
+Adicional a las sanciones establecidas en este artículo, se impondrá al sujeto activo el cumplimiento de la reparación integral del daño, que deberá incluir, entre otras medidas establecidas en la Ley de Atención a Víctimas para el Estado de Tamaulipas, la atención psicológica especializada para la víctima, hasta su total recuperación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2020)</small>
 
@@ -3792,6 +3862,10 @@ A quien cometa el delito de abuso sexual en una persona menor de dieciocho años
 > <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
 Si se hiciera uso de violencia, la pena se aumentará en una mitad más en su mínimo y máximo.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+De igual forma, la pena se aumentará cuando el delito se cometa en las circunstancias previstas por las fracciones II, IV, VII, VIII, X y XI del artículo 267 de este Código y se impondrá al sujeto activo el cumplimiento de la reparación integral del daño en los términos de la referida disposición.
 
 > <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
 
@@ -3965,9 +4039,9 @@ Las penas previstas en los Artículos 268, 271, 274 y 275 se aumentarán hasta l
 
 I.- El delito fuere cometido por un ascendiente contra su descendiente, éste contra aquél, el hermano contra su colateral, el tutor contra su pupilo, el amasio o concubino contra los descendientes de su amasia o concubina. Además de la pena de prisión el culpable perderá el derecho de la patria potestad o de tutela que ejerciere sobre la víctima;
 
-> <small>(REFORMADA, P.O. 20 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
-II.- El delito fuere cometido por quien desempeñe un cargo o empleo público o ejerza su profesión, utilizando los medios o circunstancia que ellos le proporcionen. Además de la pena de prisión el sentenciado será destituido del cargo o empleo o suspendido por el término de cinco años en el ejercicio de dicha profesión, dicho término se duplicará en el caso de que el delito fuere cometido por profesionistas que se desempeñen en atención o servicio de niñas, niños y adolescentes;
+II.- El delito fuere cometido por quien desempeñe un cargo o empleo público o ejerza su profesión, utilizando los medios o circunstancia que ellos le proporcionen. Además de la pena de prisión el sentenciado será destituido del cargo o empleo o suspendido por el término de uno a cinco años en el ejercicio de dicha profesión, dicho término se duplicará en el caso de que el delito fuere cometido por profesionistas que se desempeñen en atención o servicio de niñas, niños y adolescentes.
 
 > <small>(REFORMADA, P.O. 2 DE ABRIL DE 2024)</small>
 
@@ -7934,3 +8008,23 @@ P.O. 19 DE NOVIEMBRE DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-964 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 241, PÁRRAFO PRIMERO, Y FRACCIÓN I; Y SE ADICIONAN LOS PÁRRAFOS SEGUNDO, RECORRIENDO EN SU ORDEN NATURAL EL ACTUAL, Y UN CUARTO AL ARTÍCULO 198 BIS; EL PÁRRAFO TERCERO AL ARTÍCULO 241; Y LOS PÁRRAFOS TERCERO Y CUARTO, RECORRIENDO EN SU ORDEN NATURAL LOS SUBSECUENTES, AL ARTÍCULO 254 BIS, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-965 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 277, FRACCIÓN II; SE ADICIONAN LOS PÁRRAFOS SEXTO, SÉPTIMO, OCTAVO, NOVENO Y DÉCIMO AL ARTÍCULO 267; Y UN PÁRRAFO TERCERO AL ARTÍCULO 268; Y SE DEROGAN LOS PÁRRAFOS SEGUNDO Y QUINTO DEL ARTÍCULO 267, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
