@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-seguridad-publica-para-el-estado-de-tamaulipas-142546"
 country: "mx"
 rank: "ley"
 publication_date: "2020-04-14"
-last_updated: "2025-11-04"
+last_updated: "2026-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142546&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
 
 Ley publicada en el Anexo a la Edición Vespertina del Periódico Oficial del Estado de Tamaulipas, el martes 14 de abril de 2020.
 
@@ -499,7 +499,9 @@ La Dirección de Asuntos Internos desarrollará la fase de investigación previa
 
 Todo Integrante y persona servidora en general tienen la obligación de concurrir a la investigación previa seguida ante la Dirección de Asuntos Internos, cuando sean citados y de declarar la verdad de cuanto conozcan y les sea preguntado; asimismo, no deberán ocultar hechos, circunstancias o cualquier otra información que sea relevante para la solución de la controversia, salvo disposición en contrario.
 
-3.- El Órgano de Control Interno de la Contraloría Gubernamental adscrito a la Secretaría, tendrá las atribuciones conferidas por la Ley Orgánica de la Administración Pública del Estado y la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+3.- El Órgano de Control Interno de la Secretaría Anticorrupción y Buen Gobierno en la Secretaría, tendrá las atribuciones conferidas por la Ley Orgánica de la Administración Pública del Estado y la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
 
 ### CAPÍTULO II. DE LAS INSTITUCIONES PREVENTIVAS DE SEGURIDAD PÚBLICA
 
@@ -1375,7 +1377,9 @@ VII.- Aprobar los exámenes de evaluación y control de confianza.
 
 ###### ARTÍCULO 62.
 
-1.- El Órgano de Vigilancia de la Universidad estará integrado por un Comisario, designado por el Gobernador del Estado, que estará adscrito jerárquica, técnica y funcionalmente a la Contraloría Gubernamental y tendrá a su cargo las funciones relativas al control y vigilancia de la gestión pública de la Universidad, conforme a lo dispuesto por las leyes, los reglamentos aplicables y los lineamientos que emita la propia Contraloría.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+1.- El Órgano de Vigilancia de la Universidad estará integrado por un Comisario, designado y removido libremente por la persona titular de la Secretaría Anticorrupción y Buen Gobierno, que estará adscrito jerárquica, técnica y funcionalmente a esta y tendrá a su cargo las funciones relativas al control y vigilancia de la gestión pública de la Universidad, conforme a lo dispuesto por las leyes, los reglamentos aplicables y los lineamientos que emita la propia Secretaría Anticorrupción y Buen Gobierno.
 
 2.- El Comisario tendrá las atribuciones señaladas en la Ley de Entidades Paraestatales del Estado de Tamaulipas y demás ordenamientos jurídicos aplicables.
 
@@ -1505,7 +1509,9 @@ II.- Un Secretario, que será la persona titular de la Dirección del Consejo;
 
 III.- Un representante de la Comisión que esté en función, de acuerdo al asunto que se trate;
 
-IV.- Un Vocal, que será un representante de la Contraloría Gubernamental; y
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+IV.- Un Vocal, que será un representante de la Secretaría Anticorrupción y Buen Gobierno; y
 
 V.- Un Vocal en representación de las instituciones de seguridad pública.
 
@@ -2822,3 +2828,19 @@ Cualquier trámite administrativo y/o judicial del ámbito federal o estatal de 
 ###### ARTÍCULO DÉCIMO PRIMERO.
 
 Los instrumentos jurídicos, convenios, contratos acuerdos interinstitucionales o actos equivalentes, se entenderán como vigentes y obligarán en sus términos a las partes, sin perjuicio del derecho que tienen las mismas de ratificarlos, modificarlos o rescindirlos.
+
+P.O. 12 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 66-963 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES PARA LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS; DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE ARCHIVOS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS; DE LA LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE CONCILIACIÓN Y ARBITRAJE MÉDICO PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE TAMAULIPAS; DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS; DE LA LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS; DE LA LEY PARA LA ENTREGA-RECEPCIÓN DE LOS RECURSOS ASIGNADOS A LOS PODERES, ÓRGANOS Y AYUNTAMIENTOS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE GASTO PÚBLICO; DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE IGUALDAD DE GÉNERO EN TAMAULIPAS; DE LA LEY DEL INSTITUTO DE PREVISIÓN Y SEGURIDAD SOCIAL DEL ESTADO DE TAMAULIPAS; DE LA LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO; DE LA LEY ESTATAL DE PLANEACIÓN; DE LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS; DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN SOCIOECONÓMICA DE LAS VIOLENCIAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE TAMAULIPAS; DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Tribunal de Justicia Administrativa del Estado de Tamaulipas, a través de su Órgano Interno de Control, y con base en su capacidad presupuesta! (sic), deberá realizar las adecuaciones necesarias a su reglamento interior en un plazo no mayor a treinta días naturales contados a partir de la entrada en vigor del presente Decreto, con el fin de garantizar en el ámbito de su competencia, el ejercicio de los derechos de acceso a la información pública y de protección de datos personales, conforme a los principios y bases establecidos por los artículos 6o de la Constitución Política de los Estados Unidos Mexicanos; 17, fracción V, de la Constitución Política del Estado de Tamaulipas, así como por lo previsto en la legislación aplicable.
+
+###### ARTÍCULO TERCERO.
+
+En las disposiciones transitorias de las diversas leyes y códigos en las que se haga referencia a la Contraloría Gubernamental, se entenderá la Secretaría Anticorrupción y Buen Gobierno.
