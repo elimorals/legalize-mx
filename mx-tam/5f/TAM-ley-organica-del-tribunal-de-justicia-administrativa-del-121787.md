@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-tribunal-de-justicia-administrativa-del-121787
 country: "mx"
 rank: "ley_organica"
 publication_date: "2017-06-02"
-last_updated: "2021-07-14"
+last_updated: "2026-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121787&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
 
 Ley publicada en el Anexo al Extraordinario del Periódico Oficial del Estado de Tamaulipas, el viernes 2 de junio de 2017.
 
@@ -65,7 +65,9 @@ Dicho ejercicio deberá realizarse con base en los principios de honestidad, res
 
 Conforme a los principios a que se refiere el párrafo anterior, y de acuerdo a las disposiciones legales aplicables, el Tribunal se sujetará a las siguientes reglas:
 
-I. Ejercerá directamente su presupuesto aprobado por el Congreso del Estado, sin sujetarse a las disposiciones emitidas por la Secretaría de Finanzas y la Contraloría Gubernamental;
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+I. Ejercerá directamente su presupuesto aprobado por el Congreso del Estado, sin sujetarse a las disposiciones emitidas por la Secretaría de Finanzas y la Secretaría Anticorrupción y Buen Gobierno;
 
 II. Autorizará las adecuaciones presupuestarias sin requerir la autorización de la Secretaría de Finanzas, siempre y cuando no rebase su techo global aprobado por el Congreso del Estado;
 
@@ -159,9 +161,11 @@ Para los efectos del primer párrafo de este artículo, las resoluciones se cons
 
 El Tribunal conocerá también de los juicios que promuevan las autoridades para que sean anuladas las resoluciones administrativas favorables a un particular, cuando se consideren contrarias a la ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 5.
 
-El Tribunal conocerá de los fallos de las responsabilidades administrativas de los servidores públicos y particulares vinculados con faltas graves promovidas por la Contraloría Gubernamental y los órganos internos de control de los entes públicos estatales, o por la Auditoría Superior del Estado, para la imposición de sanciones en los términos de lo dispuesto por la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Tamaulipas. Así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o al patrimonio de los entes públicos estatales.
+El Tribunal conocerá de los fallos de las responsabilidades administrativas de los servidores públicos y particulares vinculados con faltas graves promovidas por la Secretaría Anticorrupción y Buen Gobierno y los órganos internos de control de los entes públicos estatales, o por la Auditoría Superior del Estado, para la imposición de sanciones en los términos de lo dispuesto por la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Tamaulipas. Así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o al patrimonio de los entes públicos estatales.
 
 Bajo ninguna circunstancia se entenderá que la atribución del Tribunal para imponer sanciones a particulares por actos u omisiones vinculadas con faltas administrativas graves, se contrapone o menoscaba la facultad que cualquier ente público posea para imponer sanciones a particulares en los términos de la legislación aplicable.
 
@@ -331,9 +335,15 @@ b) Los requisitos que deberán satisfacerse para la permanencia y promoción en 
 
 c) Las reglas sobre disciplina y, en su caso, un sistema de estímulos a los servidores públicos jurisdiccionales de acuerdo a la disponibilidad presupuestaria del Tribunal.
 
-XIX. Proponer al Pleno del Tribunal los programas permanentes de capacitación, especialización y actualización en las materias competencia del Tribunal para sus servidores públicos, considerando, en materia de Responsabilidades Administrativas, los criterios que en su caso emita el Comité Coordinador del Sistema Estatal Anticorrupción; y
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
-XX. Las demás que le confieran el Pleno del Tribunal, la presente ley u otros ordenamientos legales.
+XIX. Proponer al Pleno del Tribunal los programas permanentes de capacitación, especialización y actualización en las materias competencia del Tribunal para sus servidores públicos, considerando, en materia de Responsabilidades Administrativas, los criterios que en su caso emita el Comité Coordinador del Sistema Estatal Anticorrupción;
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+XX. Proponer al Pleno del Tribunal la integración del Comité de Transparencia, que actuará conforme a la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas; y
+
+XXI. Las demás que le confieran el Pleno del Tribunal, la presente ley u otros ordenamientos legales.
 
 ### Capítulo III. Del Pleno del Tribunal
 
@@ -509,11 +519,15 @@ XVIII. Dictar los acuerdos y providencias relativas a las medidas cautelares pro
 
 XIX. Resolver sobre el otorgamiento de medidas cautelares que correspondan;
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
-XX. Resolver en definitiva los asuntos sometidos a su jurisdicción, en materia de faltas administrativas graves investigadas y substanciadas por la Auditoría Superior del Estado, Contraloría Gubernamental y los Órganos Internos de Control respectivos, según sea el caso, ya sea que el procedimiento se haya seguido por denuncia, de oficio o derivado de las auditorías practicadas por las autoridades competentes.
+XX. Resolver en definitiva los asuntos sometidos a su jurisdicción, en materia de faltas administrativas graves investigadas y substanciadas por la Auditoría Superior del Estado, Secretaría Anticorrupción y Buen Gobierno y los Órganos Internos de Control respectivos, según sea el caso, ya sea que el procedimiento se haya seguido por denuncia, de oficio o derivado de las auditorías practicadas por las autoridades competentes.
 
-En caso de determinar la comisión de una falta administrativa grave, preverá la sanción correspondiente la cual incluirá el pago de las indemnizaciones que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o al patrimonio de los entes públicos del Estado, en los términos de la Ley General de Responsabilidades de los Servidores Públicos, Ley de Responsabilidades Administrativas del Estado de Tamaulipas y demás disposiciones legales aplicables;
+En caso de determinar la comisión de una falta administrativa grave, preverá la sanción correspondiente la cual incluirá el pago de las indemnizaciones que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o al patrimonio de los entes públicos del Estado, en los términos de la Ley General de Responsabilidades Administrativas, Ley de Responsabilidades Administrativas del Estado de Tamaulipas y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+Cuando en los hechos materia del procedimiento se acrediten tanto faltas administrativas graves como no graves, al momento de graduar la sanción correspondiente se deberá considerar la comisión de estas últimas, en términos de lo dispuesto por el artículo 13 de la Ley de Responsabilidades Administrativas del Estado de Tamaulipas;
 
 XXI. Ejecutar las sentencias o resoluciones que en definitiva resuelva el Pleno;
 
@@ -769,11 +783,15 @@ VI. No haber sido sentenciado por delito intencional grave del fuero común y fe
 
 El Secretario General de Acuerdos, Secretario de Acuerdos de Sala, Secretario de Estudio y Cuenta o Actuario, están impedidos para desempeñar cualquier otro empleo en los mismos términos que los Magistrados de las Salas Unitarias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 42.
 
-El Tribunal contará con un Órgano Interno de Control, cuyo titular ejercerá las facultades a que se refiere la fracción III, del artículo 109 de la Constitución Política de los Estados Unidos Mexicanos, así como el diverso 150, fracción III de la Constitución Política del Estado de Tamaulipas, la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Tamaulipas.
+El Tribunal contará con un Órgano Interno de Control, cuyo titular ejercerá las facultades a que se refiere la fracción 111, del artículo 109 de la Constitución Política de los Estados Unidos Mexicanos, así como el diverso 150, fracción 111 de la Constitución Política del Estado de Tamaulipas, la Ley General de Responsabilidades Administrativas, la Ley de Responsabilidades Administrativas del Estado de Tamaulipas; así como la Ley de Transparencia y Acceso a la Información Pública del Estado de Tamaulipas y la Ley de Protección de Datos Personales en Posesión de los Sujetos Obligados del Estado de Tamaulipas.
 
-El Órgano Interno de Control es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del propio órgano y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos estatales; así como presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción.
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2026)</small>
+
+El Órgano Interno de Control es un órgano dotado de autonomía técnica y de gestión para decidir sobre su funcionamiento y resoluciones. Tendrá a su cargo prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de servidores públicos del propio órgano y de particulares vinculados con faltas graves; para sancionar aquellas distintas a las que son competencia del Tribunal de Justicia Administrativa; revisar el ingreso, egreso, manejo, custodia, aplicación de recursos públicos estatales; presentar las denuncias por hechos u omisiones que pudieran ser constitutivos de delito ante la Fiscalía Especializada en Combate a la Corrupción; así como ejercer las funciones, competencias y atribuciones que le correspondan en materia de transparencia, acceso a la información y protección de datos personales en posesión de los sujetos obligados.
 
 El Órgano Interno de Control tendrá un titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto.
 
@@ -970,3 +988,19 @@ P.O. 14 DE JULIO DE 2021.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-963 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES PARA LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS; DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE ARCHIVOS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS; DE LA LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE CONCILIACIÓN Y ARBITRAJE MÉDICO PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE TAMAULIPAS; DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS; DE LA LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS; DE LA LEY PARA LA ENTREGA-RECEPCIÓN DE LOS RECURSOS ASIGNADOS A LOS PODERES, ÓRGANOS Y AYUNTAMIENTOS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE GASTO PÚBLICO; DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE IGUALDAD DE GÉNERO EN TAMAULIPAS; DE LA LEY DEL INSTITUTO DE PREVISIÓN Y SEGURIDAD SOCIAL DEL ESTADO DE TAMAULIPAS; DE LA LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO; DE LA LEY ESTATAL DE PLANEACIÓN; DE LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS; DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN SOCIOECONÓMICA DE LAS VIOLENCIAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE TAMAULIPAS; DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Tribunal de Justicia Administrativa del Estado de Tamaulipas, a través de su Órgano Interno de Control, y con base en su capacidad presupuesta! (sic), deberá realizar las adecuaciones necesarias a su reglamento interior en un plazo no mayor a treinta días naturales contados a partir de la entrada en vigor del presente Decreto, con el fin de garantizar en el ámbito de su competencia, el ejercicio de los derechos de acceso a la información pública y de protección de datos personales, conforme a los principios y bases establecidos por los artículos 6o de la Constitución Política de los Estados Unidos Mexicanos; 17, fracción V, de la Constitución Política del Estado de Tamaulipas, así como por lo previsto en la legislación aplicable.
+
+###### ARTÍCULO TERCERO.
+
+En las disposiciones transitorias de las diversas leyes y códigos en las que se haga referencia a la Contraloría Gubernamental, se entenderá la Secretaría Anticorrupción y Buen Gobierno.
