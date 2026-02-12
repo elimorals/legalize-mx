@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-trabajadores-al-servicio-del-estado-de-michoacan-636
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-08"
-last_updated: "2025-07-28"
+last_updated: "2026-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6366&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACÁN DE OCAMPO Y DE SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el lunes 8 de agosto de 1983.
 
@@ -265,7 +265,11 @@ VII. Regresar al puesto que desempeñaban, computándose en su antigüedad los p
 
 VIII. Las dependencias, entidades, organismos autónomos y demás entes públicos, estatales y municipales, en el ámbito de sus competencias, promoverán y otorgarán las autorizaciones para que las trabajadoras acudan anualmente a las instituciones de salud a realizarse estudios para la detección temprana del cáncer de mama y cervicouterino. Dicha autorización será con goce de sueldo y sin perjuicio de sus prestaciones.
 
-> <small>[N. DE E. ESTE PÁRRAFO PERTECE A LA FRACCIÓN VIII]</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+VIII. Las dependencias, entidades, organismos autónomos y demás entes públicos, estatales y municipales, en el ámbito de sus competencias, promoverán y otorgarán las autorizaciones para que las trabajadoras acudan preferentemente una vez al año a las instituciones de salud a realizarse estudios para la detección temprana del cáncer de mama y cervicouterino. Dicha autorización será con goce de sueldo y sin perjuicio de sus prestaciones
+
+> <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2022)</small>
 
 Atendiendo a la naturaleza de las actividades que desempeñen, las autorizaciones se otorgarán gradualmente. Para tal efecto, las trabajadoras deberán dar aviso con al menos cinco días hábiles de anticipación. Además, una vez realizados los exámenes clínicos, deberán presentar el certificado médico correspondiente.
 
@@ -281,9 +285,11 @@ I. Disfrutar a partir del nacimiento de sus hijos e hijas, de 20 días naturas (
 
 II. Regresar al puesto que desempeñaban, computándose en su antigüedad los períodos de descanso que por razón del nacimiento de su hijo o hija se le hayan otorgado;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE FEBRERO DE 2026)</small>
 
-III. Las dependencias, entidades, organismos autónomos y demás entes públicos, estatales y municipales, en el ámbito de sus competencias, promoverán y otorgar las autorizaciones para que los trabajadores acudan anualmente a las instituciones de salud a realizarse estudios para la detección temprana de cáncer de próstata. Dicha autorización será con goce de sueldo y sin perjuicio de sus prestaciones.
+III. Las dependencias, entidades, organismos autónomos y demás entes públicos, estatales y municipales, en el ámbito de sus competencias, promoverán y otorgarán las autorizaciones para que los trabajadores acudan anualmente a las instituciones de salud a realizarse estudios para la detección temprana de cáncer de próstata y mama en hombres. Dicha autorización será con goce de sueldo y sin perjuicio de sus prestaciones.
+
+> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2024)</small>
 
 Atendiendo a la naturaleza de las actividades que desempeñan, las autorizaciones se otorgarán gradualmente. Para tal efecto, los trabajadores deberán dar aviso con al menos cinco días hábiles de anticipación. Además, una vez realizados los exámenes clínicos, deberán presentar el certificado médico correspondiente; y;
 
@@ -407,9 +413,9 @@ Incurrirán en faltas administrativas graves los servidores públicos que no ent
 
 VI. Impartir cursos de capacitación y adiestramiento para el trabajo, así como de sensibilización para el respeto a los derechos humanos de los ciudadanos, especialmente en los temas de discapacidad, asuntos indígenas, cultura de la igualdad y la no discriminación, nuevas masculinidades, así como el respeto a la igualdad de género y la preferencia sexual conforme la orientación sexual e identidad de género;
 
-> <small>(REFORMADA, P.O. 24 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
 
-VII. Conceder licencia o permiso a las y los trabajadores, en los términos que establecen los artículos 22 y 22 bis de la presente ley y en las condiciones generales de trabajo;
+VII. Conceder licencia o permiso a sus trabajadores, en los términos que se estipulen en las Condiciones Generales de Trabajo y lo dispuesto en los artículos 22 y 22 bis de la presente Ley;
 
 > <small>(REFORMADA, P.O. 30 DE AGOSTO DE 2022)</small>
 
@@ -452,6 +458,10 @@ VIII. Asistir a los cursos de capacitación y adiestramiento laborales, así com
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE JUNIO DE 2014)</small>
 
 IX. Proteger, vigilar y promover los derechos e integridad de las mujeres; menores de edad, adultos mayores; enfermos, en particular de las personas que padezcan alguna enfermedad infecto-contagiosa; de las personas con discapacidad física, mental o sensorial; con preferencia sexual de acuerdo a su orientación sexual e identidad de género y de los indígenas y extranjeros, durante el ejercicio de sus obligaciones como servidores públicos, reportando cualquier anomalía a las autoridades correspondientes, el reporte de dichos actos no podrá ser sancionado, objetado o motivo de acoso laboral, ni de la terminación de la relación laboral.
+
+> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2026)</small>
+
+X. Asistir y participar responsablemente en las campañas de salud y previsionales.
 
 ### CAPITULO VIII. DE LA SUSPENSION DE LA RELACION LABORAL
 
@@ -1434,3 +1444,13 @@ SEGUNDO. El Titular del Poder Ejecutivo del Estado, a través de las dependencia
 Para tal efecto, podrá coordinarse y auxiliarse de instituciones académicas, organismos autónomos, organizaciones de la sociedad civil y personas expertas en la materia, a fin de garantizar la imparcialidad, neutralidad y apego al rigor técnico y científico en el diseño de los contenidos.
 
 TERCERO. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y efectos legales procedentes.
+
+P.O. 12 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 327 POR EL QUE "SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 22, LA FRACCIÓN III DEL ARTÍCULO 22 BIS, LA FRACCIÓN VII DEL ARTÍCULO 35; Y, SE ADICIONA LA FRACCIÓN X AL ARTÍCULO 36, TODOS DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE MICHOACÁN DE OCAMPO Y DE SUS MUNICIPIOS".]
+
+PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos legales correspondientes.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de (sic)
+
+Michoacán de Ocampo.
