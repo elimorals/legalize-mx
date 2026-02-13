@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-derechos-y-justicia-laboral-para-los-trabajadores-al-158
 country: "mx"
 rank: "ley"
 publication_date: "2022-05-28"
-last_updated: "2022-07-18"
+last_updated: "2026-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=158632&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NAY"
 
 LEY DE DERECHOS Y JUSTICIA LABORAL PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 18 DE JULIO DE 2022.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2026.
 
 Ley publicada en la Sección Segunda del Número 098 del Periódico Oficial del Estado de Nayarit, el sábado 28 de mayo de 2022.
 
@@ -1426,6 +1424,52 @@ Representación de los Sindicatos. La representación del sindicato se ejercerá
 Disolución de los sindicatos. En caso de disolución del sindicato, su liquidación se llevará a cabo en la forma que lo determinen sus estatutos o la propia asamblea.
 
 A falta de disposición expresa, sus bienes muebles e inmuebles y en general, el activo de dichos sindicatos pasará a formar parte del patrimonio de la Beneficencia Pública.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2026)</small>
+
+###### Artículo 146 Bis.
+
+Injerencia Sindical. Los sindicatos deberán gozar de adecuada protección contra todo acto de injerencia por parte de las personas servidoras públicas en su constitución, funcionamiento, administración y libre desarrollo de las elecciones sindicales, las condiciones de elegibilidad, la reelección y/o la destitución de las directivas de los sindicatos. Cualquier contravención a estas disposiciones será considerada falta administrativa grave y sancionada en los términos de la Ley de Responsabilidades Administrativas del Estado de Nayarit.
+
+Se entenderán como acto de injerencia sindical, entre otras, las siguientes conductas:
+
+I. Coaccionar, inducir o amenazar a personas trabajadoras o agremiadas para participar o abstenerse de participar en eventos de campaña sindical, o para votar por una planilla, dirigente o sindicato determinado;
+
+II. Ejercer presión o intimidación jerárquica sobre subordinados para que expresen públicamente su apoyo o rechazo a determinada candidatura sindical;
+
+III. Obligar o condicionar la asistencia a actos, mítines o reuniones sindicales con fines de proselitismo;
+
+IV. Condicionar la prestación de servicios institucionales, apoyos, licencias o permisos laborales a emisión del voto o apoyo hacia una planilla sindical;
+
+V. Ofrecer beneficios laborales, ascensos, estímulos o promociones a cambio de apoyo o voto sindical;
+
+VI. Negar, suspender o limitar derechos o programas internos, capacitaciones, bonos o reconocimientos como represalia por no apoyar determinada opción sindical;
+
+VII. Utilizar programas institucionales o apoyos sociales para inducir o coaccionar el voto sindical;
+
+VIII. Destinar, utilizar o permitir el uso de fondos, bienes, servicios o personal institucional para favorecer o perjudicar a determinada planilla, corriente o dirigencia sindical;
+
+IX. Difundir propaganda, mensajes o material institucional que promueva o desacredite a una candidatura o grupo sindical;
+
+X. Permitir el uso de instalaciones, vehículos, redes o infraestructura pública para actos de campaña o propaganda sindical;
+
+XI. Proporcionar apoyo o servicios institucionales para actividades de campaña sindical;
+
+XII. Realizar aportaciones o solicitar contribuciones a subordinados para financiar campañas o actividades sindicales;
+
+XIII. Usar recursos o programas institucionales con la finalidad de posicionar o promover ante la base trabajadora a una persona servidora pública o dirigente sindical;
+
+XIV. Negarse sin causa justificada a entregar información solicitada por la autoridad sindical o laboral competente, relacionada con el desarrollo de elecciones o procesos democráticos sindicales;
+
+XV. Omitir colaborar o prestar auxilio en los procesos de verificación, vigilancia o supervisión sindical cuando la autoridad lo requiera;
+
+XVI. Omitir actuar con imparcialidad durante los procesos electorales sindicales, afectando la equidad entre candidaturas;
+
+XVII. Actuar con parcialidad o favorecer públicamente a determinada candidatura;
+
+XVIII. Intervenir indebidamente en la equidad del proceso sindical, alterando la neutralidad institucional, y
+
+XIX. Utilizar su cargo para influir en la opinión de las personas trabajadoras, afectando la libertad del voto sindical.
 
 ### Capítulo Tercero. De las Huelgas
 
@@ -3458,3 +3502,11 @@ DADO en la Sala de Sesiones “Lic. Benito Juárez García” Recinto Oficial de
 Dip. Alba Cristal Espinoza Peña, Presidenta.- Rúbrica.- Dip. Jesús Noelia Ramos Nungaray, Secretaria.- Rúbrica.- Dip. Georgina Guadalupe López Arias, Secretaria.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado, y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los veintisiete días del mes de mayo del año dos mil veintidós. DR. MIGUEL ÁNGEL NAVARRO QUINTERO, Gobernador Constitucional del Estado.- Rúbrica.- Lic. Juan Antonio Echeagaray Becerra, Secretario General de Gobierno.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA EL ARTÍCULO 146 BIS DE LA LEY DE DERECHOS Y JUSTICIA LABORAL PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE NAYARIT, EN MATERIA DE INJERENCIA SINDICAL”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
