@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-495-del-registro-civil-del-estado-de-guerrero-79768"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-04"
-last_updated: "2025-12-23"
+last_updated: "2026-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 495 DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado en Alcance I, el Martes 4 de enero de 2011.
 
@@ -259,7 +259,9 @@ VI. Cumplir y hacer cumplir la normatividad que en materia registral establezcan
 
 VII. Emitir la normatividad necesaria, tendiente a unificar criterios en la práctica registral, las que tendrán vigencia y obligatoriedad a partir de la fecha en que les sean notificados a los Oficiales del Registro Civil y demás departamentos;
 
-VIII. Realizar, promover y difundir programas y campañas gratuitas previamente autorizadas por el Ejecutivo del Estado, para la regularización del estado civil de las personas;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2026)</small>
+
+VIII. Realizar, promover y difundir programas y campañas gratuitas previamente autorizadas por el Ejecutivo del Estado, para la regularización del estado civil de las personas; estas campañas deben ser periódicas y considerar o implementar de manera prioritaria unidades móviles para aquellas comunidades que, por su ubicación geográfica, marginación o falta de infraestructura de comunicación lo requieran.
 
 IX. Proponer al Ejecutivo del Estado, a través de la Secretaría General de Gobierno, las modificaciones a leyes, códigos o reglamentos en materia de registro civil, para el mejor desempeño y funcionamiento del Sistema Estatal del Registro Civil;
 
@@ -341,7 +343,9 @@ XXXIX. Automatizar la operación y los procesos del Registro Civil;
 
 XL. Interconectar, la Coordinación Técnica del Sistema Estatal del Registro Civil, con las principales Oficialías del Registro Civil del Estado y a su vez con el Registro Nacional de Población;
 
-XLI. Acercar los servicios que presta el Registro Civil en las regiones que carecen de él, favoreciendo a los pueblos indígenas, grupos marginados y migrantes;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2026)</small>
+
+XLI. Acercar los servicios que presta el Registro Civil en las regiones que carecen de él, favoreciendo a los pueblos indígenas y afromexicano, grupos marginados y migrantes;
 
 XLII. Instrumentar el servicio del Sistema Nacional para la Solicitud, Trámite y Obtención de Copias Certificadas de Actas del Registro Civil;
 
@@ -349,7 +353,11 @@ XLIII. Usar los formatos únicos con altas medidas de seguridad para inscribir y
 
 XLIV. Fomentar la incorporación de la Clave Única de Registro de Población en la inscripción y certificación de los actos del estado civil; y
 
-XLV. Las demás que le señalen el Código Civil vigente, las leyes y reglamentos aplicables.
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2026)</small>
+
+XLV. Capacitar al personal a su cargo en materia de derechos indígenas y afromexicanos, interculturalidad y el respeto a sus costumbres (sic) tradiciones, incluyendo la correcta inscripción de nombres y apellidos en sus lenguas;
+
+XLVI. Las demás que le señalen el Código Civil vigente, las leyes y reglamentos aplicables.
 
 ### CAPÍTULO II. DE LAS OFICIALÍAS Y OFICIALES DEL REGISTRO CIVIL
 
@@ -463,8 +471,6 @@ II. Testar al reverso, los tantos de que consten los registros al momento de lle
 
 III. Exigir y garantizar la aplicación de los requisitos que la ley prevé, para la celebración de los actos y la inscripción de los mismos en las formas relativas al estado civil de las personas;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 2016)</small>
 
 IV. Autorizar con su firma autógrafa, electrónica o digital, la expedición de certificaciones de los registros y constancias que obren en los formatos, libros y base de datos del Archivo Estatal de la Oficialía del Registro Civil a su cargo. Por firma electrónica se entenderá lo establecido en el artículo 22 fracción XV segundo párrafo de la presente Ley;
@@ -477,7 +483,9 @@ VII. Entregar en los primeros cinco días de cada mes, los documentos oficiales 
 
 VIII. Efectuar en las actas las anotaciones marginales que procedan conforme a la ley, y que sean enviadas por las autoridades competentes, autorizando cada asiento con su firma;
 
-IX. Celebrar los actos del estado civil, dentro o fuera de su oficina y expedir las constancias y certificaciones relativas que le sean solicitadas; exentando de pago a la población indígena para el registro de nacimientos; independientemente de las cuotas que se establezcan cada año en la Ley de Ingresos;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2026)</small>
+
+IX. Celebrar los actos del estado civil, dentro o fuera de su oficina y expedir las constancias y certificaciones relativas que le sean solicitadas; exentando de pago a la población indígena y afromexicana para el registro de nacimientos; independientemente de las cuotas que se establezcan cada año en la Ley de Ingresos;
 
 X. Informar mensualmente a la Secretaría de Finanzas y Administración, a través de la Coordinación Técnica del Sistema Estatal del Registro Civil o cuando ésta lo solicite, sobre los ingresos por actos de registro civil;
 
@@ -487,7 +495,9 @@ XII. Expedir las constancias de inexistencia de registro, en base a las búsqued
 
 XIII. Realizar registros extemporáneos de nacimiento, cuando se presente copia certificada de la diligencia de información testimonial por la autoridad competente, o con la autorización administrativa de la Coordinación Técnica del Sistema Estatal del Registro Civil;
 
-XIV. Realizar registros extemporáneos de defunción después de los seis meses de haber ocurrido el fallecimiento, siempre y cuando se presente copia certificada de la diligencia de información testimonial por la autoridad competente, o la autorización administrativa expedida por la Coordinación Técnica del Sistema Estatal del Registro Civil;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2026)</small>
+
+XIV. Realizar registros extemporáneos de defunción después de los doce meses de haber ocurrido el fallecimiento, siempre y cuando se presente copia certificada de la diligencia de información testimonial por la autoridad competente, o la autorización administrativa expedida por la Coordinación Técnica del Sistema Estatal del Registro Civil.
 
 XV. Informar oportunamente a la Coordinación Técnica del Sistema Estatal del Registro Civil, sobre la pérdida o destrucción de las actas o libros del Registro Civil que estén bajo su resguardo, procediendo a su inmediata reposición, y debiendo denunciar este hecho ante el Ministerio Público, remitiendo copia de la denuncia a la Coordinación Técnica del Sistema Estatal del Registro Civil;
 
@@ -507,19 +517,13 @@ XXII. Realizar y participar en las campañas, jornadas, programas de registros y
 
 XXIII. Anotar la leyenda “cancelada” en los registros, cuando no hayan cubierto suficientemente los requisitos, o cuando los interesados se hayan negado a continuar el acto. En este caso, el Oficial del Registro Civil anotará la razón por la cual no continuó, y glosará los ejemplares en el volumen correspondiente;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 XXIV. (DEROGADA, P.O. 8 DE JULIO DE 2016)
 
 XXV. Enviar por escrito a la Coordinación Técnica del Sistema Estatal del Registro Civil, las propuestas para mejorar y dar eficiencia a los servicios que presta la Institución;
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 XXVI. (DEROGADA, P.O. 8 DE JULIO DE 2016)
 
 XXVII. Levantar oportunamente el registro de defunción de los fallecimientos reportados por el Ministerio Público de su competencia;
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 2016)</small>
 
@@ -539,19 +543,13 @@ XXXIV. Asignar la Clave Única de Registro de Población (CURP) y remitir mensua
 
 XXXV. Recibir y dar trámite ante la Coordinación Técnica Estatal del Registro Civil, las solicitudes que presenten de aclaración o rectificación administrativa de actas del estado civil, así como recibir y desahogar las pruebas que se ofrezcan;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
 
 XXXVI. Realizar las aclaraciones y rectificaciones administrativas en su oficialía, previa resolución de la Coordinación Técnica del Sistema Estatal del Registro Civil, mediante claves de control, el mismo día de su solicitud;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2013)</small>
 
 XXXVII. Impartir a los contrayentes el Curso Taller de Orientación Prematrimonial, establecido en la fracción VIII el (sic) artículo 349 del Código Civil del Estado, por lo menos quince días previos a la fecha de la celebración del matrimonio civil, expidiendo la constancia respectiva a los solicitantes; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2013)</small>
 
@@ -775,13 +773,15 @@ I. Oficio dirigido al Oficial del Registro Civil; y
 
 II. Copia certificada de la sentencia judicial ejecutoriada.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 53.
 
-Para llevar a cabo los registros de inscripción relativos a los actos celebrados en el extranjero, se deberán cumplir con los requisitos siguientes:
+Para llevar a cabo los registros de inscripción relativos a los actos celebrados en el extranjero, se deberá establecer como requisito la transcripción al español del documento extranjero, el cual deberá de realizarse preferentemente por los peritos autorizados por el Tribunal Superior de Justicia del Estado de Guerrero, así como lo que establezca el Código Nacional de Procedimientos Civiles y Familiares y demás normatividad aplicable.
 
-I. Apostilla, en caso de que el país de origen del documento se encuentre dentro de la Convención de La Haya; en caso contrario, se realizará la legalización en cadena; y
+I. (DEROGADA, P.O. 13 DE FEBRERO DE 2026)
 
-II. Transcripción al español del documento extranjero, el cual deberá de realizarse por perito autorizado por el Tribunal Superior de Justicia del Estado.
+II. (DEROGADA, P.O. 13 DE FEBRERO DE 2026)
 
 ### CAPÍTULO III. DE LOS APÉNDICES DE LOS ACTOS REGISTRALES
 
@@ -833,17 +833,27 @@ Las campañas a que se refiere el artículo anterior tendrán la temporalidad qu
 
 ### CAPÍTULO II. DEL REGISTRO EXTEMPORÁNEO DE DEFUNCIÓN
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 63.
 
-Los registros de defunción serán autorizados por los Oficiales del Registro Civil, cuando el fallecimiento no rebase el término de seis meses de haber ocurrido.
+Los registros de defunción serán autorizados por los oficiales del Registro Civil, cuando el fallecimiento no rebase el termino de 12 meses de haber ocurrido.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 64.
 
-Los registros de defunción deberán ser autorizados de manera extemporánea por el Coordinador Técnico del Sistema Estatal del Registro Civil, cuando el fallecimiento rebase los seis meses hasta un año de haber ocurrido, los cuales se tramitarán en la forma que dispone la presente Ley en sus artículos respectivos.
+Los registros de defunción deberán ser autorizados de manera extemporánea por el Coordinador Técnico del Sistema Estatal del Registro Civil, cuando el fallecimiento rebase los 12 o hasta los 18 meses de haber ocurrido, los cuales se tramitarán en la forma que dispone la presente Ley en sus artículos respectivos.
 
 ###### Artículo 65.
 
 Los registros de defunción que rebasen el término de un año de fallecimiento, deberán realizarse mediante la presentación de copia certificada de la sentencia respectiva.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2026)</small>
+
+###### Artículo 65 Bis.
+
+Los registros de defunción extemporáneo que rebasen el termino de 18 meses del fallecimiento deberán realizarse mediante la presentación de copia certificada de la sentencia respectiva.
 
 ###### Artículo 66.
 
@@ -1722,6 +1732,26 @@ CUARTO.- Publíquese el presente Decreto, en el Periódico Oficial del Gobierno 
 P.O. 23 DE DICIEMRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 291 POR EL QUE SE ADICIONA EL ARTÍCULO 31 BIS, A LA LEY NÚMERO 495 DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal, para su conocimiento y para los efectos legales conducentes.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página oficial del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
+
+P.O. 13 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 485 POR EL QUE SE QUE SE REFORMA EL ARTÍCULO 53 Y SE DEROGAN LAS FRACCIONES I Y II DE LA LEY NÚMERO 495 DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal, para su conocimiento y para los efectos legales conducentes.
+
+TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página oficial del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
+
+P.O. 13 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 486, POR EL QUE SE REFORMAN LAS FRACCIONES VIII, XLI, SE ADICIONA LA FRACCIÓN XLV Y RECORRE EN LO SUBSECUENTE LA ACTUAL DEL ARTÍCULO 22, SE REFORMAN LOS ARTÍCULOS 37, 63, 64 Y SE ADICIONA EL ARTÍCULO 65 BIS DE LA LEY NÚMERO 495 DEL REGISTRO CIVIL DEL ESTADO DE GUERRERO”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
