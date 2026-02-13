@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-responsabilidades-administrativas-del-estado-de-122099"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-16"
-last_updated: "2024-08-19"
+last_updated: "2026-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122099&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el viernes 16 de junio de 2017.
 
@@ -668,6 +668,12 @@ Para efectos de la fracción anterior, los Servidores Públicos que denuncien un
 ###### Artículo 64 Bis.
 
 Es falta administrativa grave, la omisión de enterar las cuotas y aportaciones, ante el Instituto de Pensiones del Estado de Sinaloa, en los términos que señalan los artículos 7, 10, 11 y 12 de la Ley de Pensiones para el Estado de Sinaloa.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2026)</small>
+
+###### Artículo 64 Ter.
+
+Será responsable de injerencia sindical la persona servidora pública que, por sí o por terceros, incurra en las conductas previstas en la Ley de los Trabajadores al Servicio del Estado de Sinaloa.
 
 ### Capítulo III. De los actos de particulares vinculados con faltas administrativas graves
 
@@ -1984,3 +1990,15 @@ P.O. 19 DE AGOSTO DE 2024.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 13 DE FEBRERO DE 2026.
+
+> <small>[N. DE E. ARTÍCULOS TRANSITORIOS DEL “DECRETO NÚMERO 376 DEL H. CONGRESO DEL ESTADO.- POR E L QUE SE ADICIONAN DISPOSICIONES A LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SINALOA Y A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE SINALOA”.]</small>
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
