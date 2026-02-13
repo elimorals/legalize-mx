@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-para-el-estado-libre-y-soberano-de-guerrero-104907
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-01"
-last_updated: "2026-01-09"
+last_updated: "2026-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2026.
 
 Código publicado en el Alcance IV del Periódico Oficial del Estado de Guerrero, el viernes 1 de agosto de 2014.
 
@@ -2243,15 +2243,27 @@ Para los efectos de los delitos contemplados en este título, el consentimiento 
 
 Cohabitación forzada
 
-A quien coaccione a una persona menor de dieciocho años de edad o que no tenga la capacidad para comprender el significado del hecho o para resistirlo, a unirse con ella o con otra persona, para cohabitar en una relación constante, equiparable al matrimonio, se le impondrán de cinco a quince años de prisión y multa de doscientos cincuenta a setecientos cincuenta veces el valor diario de la unidad de medida y actualización.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2026)</small>
 
-A quien solicite, gestione, oferte o induzca la cohabitación forzada, o se beneficie de ésta, se le aplicarán de tres a diez años de prisión y multa de ciento cincuenta a quinientas veces el valor diario de la unidad de medida y actualización.
+A quien coaccione, obligue o induzca a una o varias personas menor de dieciocho años de edad, o que no tenga la capacidad para comprender el significado del hecho o para resistirlo, a unirse Informal consuetudinariamente, con o sin su consentimiento, con alguien de su misma condición o con otra persona mayor de 18 años de edad, con el fin de convivir en una relación constante, equiparable al matrimonio, se le impondrán de ocho a quince años de prisión y multa de mil a dos mil quinientas veces el valor diario de la unidad de medida y actualización.
+
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2026)</small>
+
+A quien solicite, gestione u oferte la cohabitación forzada, o se beneficie de ésta, se le aplicarán de cinco a quince años de prisión y multa de ochocientas a mil quinientas veces el valor diario de la unidad de medida y actualización.
 
 Si el autor es pariente de la víctima por consanguinidad en línea recta ascendente o colateral hasta el cuarto grado, o por afinidad, se le impondrá hasta un tercio más de las sanciones previstas en los dos supuestos anteriores de este artículo.
 
-> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2026)</small>
 
-Las penas previstas en los párrafos anteriores se aumentarán hasta en un tercio, en su mínimo y en su máximo, sí la victima perteneciere a algún pueblo o comunidad indígena o afromexicana.
+Si la víctima perteneciere a algún pueblo o comunidad indígena o afromexicana, o se encuentra en situación de pobre/*/*-a (sic) extrema, discapacidad, migración, la pena prevista en el párrafo anterior se aumentará hasta en un tercio, en su mínimo y en su máximo.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2026)</small>
+
+Las autoridades estatales y municipales competentes establecerán los protocolos (sic) mecanismos que se requiera (sic), para que la denuncia de casos de cohabitación forzada pueda (sic) ser confidenciales y accesibles, especialmente en zonas rurales e indígenas.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2026)</small>
+
+Este delito se perseguirá de oficio.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE JUNIO DE 2024)</small>
 
@@ -6014,3 +6026,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal, para su conocimiento y para los efectos legales conducentes.
 
 TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página oficial del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
+
+P.O. 13 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 484 POR EL QUE SE REFORMA EL PRIMERO, SEGUNDO Y CUARTO PÁRRAFO Y SE ADICIONA UN QUINTO Y SEXTO PÁRRAFO AL ARTÍCULO 177 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 499".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal, para su conocimiento y para los efectos legales conducentes.
+
+TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página oficial del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
