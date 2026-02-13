@@ -4,7 +4,7 @@ identifier: "BCS-ley-en-materia-de-desaparicion-forzada-de-personas-y-137714"
 country: "mx"
 rank: "ley"
 publication_date: "2019-08-16"
-last_updated: "2022-07-10"
+last_updated: "2026-02-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # LEY EN MATERIA DE DESAPARICION FORZADA DE PERSONAS Y DESAPARICION COMETIDA POR PARTICULARES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL B.O. DE 13 DE FEBRERO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE FEBRERO DE 2026 (ABROGADA).
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 16 de agosto de 2019.
 
@@ -1294,3 +1296,13 @@ B.O. 10 DE JULIO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 2847 SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 23; SE ADICIONA TEXTO AL ÚLTIMO PÁRRAFO DEL ARTÍCULO 24; SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 26; SE ADICIONAN (SIC) LA FRACCIÓN X AL ARTÍCULO 32, SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN VI DEL ARTÍCULO 33 DE LA LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno de Baja California Sur.
+
+B.O. 13 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3271 SE EXPIDE LA LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+Artículo primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo segundo.- El presente Decreto Abroga la Ley en Materia de Desaparición Forzada de Personas y Desaparición Cometida por particulares para el Estado de Baja California Sur, publicada en el Boletín Oficial del Gobierno del Estado de Baja California Sur el 16 de Agosto de 2019.
+
+Artículo Tercero.- El Ejecutivo del Estado, deberá expedir el reglamento de ésta Ley y armonizar las disposiciones reglamentarias que correspondan conforme a lo dispuesto en la presente Ley.
