@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "2025-08-26"
+last_updated: "2026-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2026.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -237,11 +237,15 @@ Las leyes y normas generales, establecerán los requisitos, condiciones y demás
 
 #### SECCIÓN II. DE LOS DERECHOS DE LOS PUEBLOS INDÍGENAS Y AFROMEXICANOS
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2026)</small>
 
 ###### ARTICULO 8.
 
-El Estado de Guerrero sustenta su identidad multiétnica, plurilingüística y pluricultural en sus pueblos originarios indígenas particularmente los nahuas, mixtecos, tlapanecos y amuzgos, así como en sus comunidades afromexicanas.
+El estado de Guerrero es único e indivisible, basado en la grandeza de sus pueblos y culturas.
+
+El estado de Guerrero reconoce la identidad multiétnica, plurilingüística y pluricultural de sus pueblos y comunidades indígenas y afromexicanas.
+
+Se reconocen como pueblos indígenas a los Nahuas o Náhualt, Ñuu Savi o Mixteco, Me’phaa o Tlapaneco y Nn´anncue Ñonmdaa o Amuzgo.
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2025)</small>
 
@@ -255,39 +259,109 @@ Esta Constitución reconoce y garantiza el derecho a la libre determinación y a
 
 La conciencia de la identidad indígena o afromexicana deberá ser criterio fundamental para determinar a quiénes se aplican las disposiciones relativas a dicha pertenencia.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2026)</small>
 
 ###### ARTICULO 11.
 
-Se reconocen como derechos de los pueblos indígenas y afromexicanos:
+Se reconoce a los pueblos y comunidades indígenas y afromexicanas, como sujetos de derecho público con personalidad jurídica y patrimonio propio.
 
-I. Decidir sus formas internas de convivencia y de organización social, económica, política y cultural;
+1. Se reconoce y garantiza el derecho de los pueblos y comunidades indígenas y afromexicanas a la libre determinación y, en consecuencia, a la autonomía para:
 
-II. Aplicar sus propios sistemas normativos en la regulación y solución de sus conflictos internos, con sujeción a lo dispuesto en el orden constitucional y legal;
+I. De acuerdo con la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, las leyes de la materia y conforme a sus sistemas normativos, decidir sus formas internas de gobierno, convivencia y de organización social, económica, política y cultural;
 
-III. Elegir, de acuerdo con sus normas, procedimientos y prácticas tradicionales, a sus autoridades políticas o representantes, y garantizar la participación de las mujeres en condiciones de equidad, estimulando su intervención y liderazgo en los asuntos públicos;
+II. Aplicar y desarrollar sus propios sistemas normativos en la regulación y solución de sus conflictos internos, sujetándose a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, las leyes de la materia, el respeto a los derechos humanos y de manera relevante la dignidad e integridad de las mujeres y la niñez. La ley establecerá los casos y procedimientos de validación por las juezas, jueces o tribunales correspondientes.
+
+La jurisdicción indígena se ejercerá por las autoridades comunitarias de acuerdo con los sistemas normativos de los pueblos y comunidades indígenas, dentro del marco del orden jurídico vigente, en los términos de la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes aplicables;
+
+III. Elegir de acuerdo con sus sistemas normativos a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando que las mujeres y los hombres indígenas disfrutarán y ejercerán su derecho de votar y ser votados en condiciones de igualdad; así como a acceder y desempeñar los cargos públicos y de elección popular para los que hayan sido electos o designados, en un marco que respete el pacto federal y la soberanía del Estado. En ningún caso, sus sistemas normativos limitarán los derechos político- electorales de las y los ciudadanos en la elección de sus autoridades municipales;
 
 IV. Acceder al uso y disfrute colectivo de sus tierras, territorios y recursos naturales en la forma y con las modalidades prescritas en la Constitución Política de los Estados Unidos Mexicanos, sin que puedan ser objeto de despojo alguno, o de explotación mediante entidades públicas o privadas ajenas a los mismos sin la consulta y el consentimiento previo, libre e informado de la comunidad. En caso de consentimiento, tendrán derecho a una parte de los beneficios y productos de esas actividades;
 
-V. Preservar y enriquecer sus lenguas, conocimientos y todos los elementos que constituyen su cultura e identidad; y,
+V. Preservar, proteger, desarrollar su patrimonio cultural, material e inmaterial que comprende enriquecer sus lenguas, conocimientos y todos los elementos que constituyen su cultura e identidad; así como reconocer la propiedad intelectual colectiva respecto de dicho patrimonio, en los términos que dispongan las leyes;
 
-VI. Acceder plenamente a la jurisdicción del Estado, tomando en consideración sus usos, costumbres y demás especificidades culturales, bajo la asistencia de traductores, intérpretes y defensores calificados para tales efectos.
+VI. Promover el uso, desarrollo, preservación, estudio y difusión de las lenguas indígenas como un elemento constitutivo de la diversidad cultural de la entidad, así como una política lingüística, multilingüe que permita su uso en los espacios públicos y en los privados que correspondan;
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+VII. Desarrollar, practicar, fortalecer y promover la medicina tradicional, así como la partería para la atención del embarazo, parto y puerperio. Se reconoce a las personas que las ejercen, incluidos sus saberes y prácticas de salud;
+
+VIII. Conservar y mejorar el hábitat, y preservar la bioculturalidad y la integridad de sus tierras, incluidos sus lugares sagrados declarados por la autoridad competente, de conformidad con las disposiciones jurídicas aplicables en la materia;
+
+IX. De acuerdo a esta Constitución y a las leyes de la materia, elegir en los municipios con población mayoritariamente indígena a las personas representantes ante los ayuntamientos, de acuerdo con los principios de paridad de género y pluriculturalidad con el propósito de fortalecer su participación y representación política;
+
+X. Acceder plenamente a la jurisdicción del Estado. En todos los procedimientos se tomarán en consideración sus sistemas normativos y especificidades culturales, bajo la asistencia de personas intérpretes, traductoras, defensoras y peritas especializadas en derechos indígenas, pluralismo jurídico, perspectiva de género, diversidad cultural y lingüística;
+
+XI. Ejercer su derecho al desarrollo integral con base en sus formas de organización económica, social y cultural, con respeto a la integridad del medio ambiente y recursos naturales en términos de las disposiciones jurídicas aplicables, y
+
+XII. Ser consultados sobre las medidas legislativas o administrativas que se pretendan adoptar, cuando estas puedan causar afectaciones o impactos significativos en su vida o entorno, con la finalidad de obtener su consentimiento o, en su caso, llegar a un acuerdo sobre tales medidas.
+
+Las consultas se realizarán de conformidad con los principios de previa, libre, informada, culturalmente adecuada y de buena fe, de acuerdo a las normas que garanticen el respeto y el ejercicio efectivo de los derechos sustantivos de los pueblos y comunidades indígenas y afromexicanas reconocidos en la Constitución Política de los Estados Unidos Mexicanos y esta Constitución.
+
+Cuando la medida administrativa que pretenda adoptar una autoridad y ésta beneficie a un particular, el procedimiento de consulta será ejecutado por la autoridad correspondiente y el costo de la misma será con cargo al particular.
+
+La persona física o moral que obtenga un lucro por las medidas administrativas objeto de consulta debe otorgar a los pueblos y comunidades indígenas y afromexicanas un beneficio justo y equitativo, en los términos que establezcan las leyes aplicables.
+
+La ley de la materia regulará los términos, condiciones y procedimientos para llevar a cabo la impugnación.
+
+2. A fin de garantizar su desarrollo e inclusión social, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes de la materia, los pueblos y comunidades afromexicanas, cualquiera que sea su autodenominación, además de los derechos señalados en el numeral anterior de este artículo, se les reconoce el derecho a:
+
+I. La protección de su identidad cultural, modos de vida, expresiones espirituales y de todos los elementos que integran su patrimonio cultural, material e inmaterial y su propiedad intelectual colectiva;
+
+II. La promoción, reconocimiento y protección de sus conocimientos, aportes y contribuciones en la historia nacional y a la diversidad cultural de la Nación y del Estado de Guerrero, debiendo considerarse en las modalidades y niveles del sistema educativo, en los términos que estableza (sic) la Constitución Política de los Estados Unidos Mexicanos y las leyes correspondientes, y
+
+III. Ser incluidos en la producción y registros de datos, información, estadísticas, censos y encuestas oficiales, para lo cual las instituciones competentes establecerán los procedimientos, métodos y criterios para inscribir su identidad y autoadscripción.
+
+3. Esta Constitución reconoce y el estado garantiza el derecho de las mujeres indígenas y afromexicanas a participar de manera efectiva y en condiciones de igualdad y equidad en los procesos de desarrollo integral de sus pueblos y comunidades; en la toma de decisiones de carácter público; en la promoción y respeto de sus derechos de acceso a la educación, a la salud, a la propiedad y a la posesión de la tierra y demás derechos humanos.
+
+4. Se reconoce y garantiza el derecho de la niñez, adolescencia y juventud indígena y afromexicana a ser atendidas, en sus propias lenguas, para hacer efectivo el conocimiento y ejercicio pleno de sus derechos de acceso a la educación, a la salud, a la tecnología, al arte, la cultura, el deporte y la capacitación para el trabajo, entre otros. Así mismo, para garantizar una vida libre de exclusión, discriminación, adicciones y violencia, en especial de la violencia sexual y de género, con visión de respeto a sus identidades culturales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. ADICIONADO], P.O. 13 DE FEBRERO DE 2026)</small>
 
 ###### ARTICULO 12.
 
-La educación de los pueblos indígenas y comunidades afromexicanas será con pertinencia intercultural y lingüística, laica, gratuita, y de calidad. El Estado garantizará el acceso, permanencia y eficiencia terminal a los estudiantes indígenas y afromexicanos, implementando un sistema de becas. El Estado generará las condiciones de acceso al primer empleo de los egresados de su sistema educativo, conforme lo determine la ley de la materia.
+Los pueblos y comunidades indígenas y afromexicanas, participarán en el reconocimiento de la composición pluricultural de la entidad, con base en sus culturas, lenguas y métodos de enseñanza aprendizaje.
 
-En las instituciones de educación indígena la enseñanza de las lenguas de los pueblos indígenas y del español será obligatoria.
+> <small>(REFORMADO Y REUBICADO [ANTES PRIMER PÁRRAFO], P.O. 13 DE FEBRERO DE 2026)</small>
+
+La educación de los pueblos y comunidades indígenas y afromexicanas será con pertinencia intercultural y lingüística, laica, gratuita, y de calidad. El estado garantizará el acceso, permanencia y eficiencia terminal a los estudiantes indígenas y afromexicanos, implementando un sistema de becas complementario al federal. El estado generará condiciones de acceso al primer empleo de los egresados de su sistema educativo, conforme lo determine la ley de la materia.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
+En las instituciones de educación indígena la enseñanza de las lenguas de los pueblos indígenas y del español será obligatoria.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS FRACCIONES], P.O. 13 DE FEBRERO DE 2026)</small>
+
 ###### ARTICULO 13.
 
-El Gobierno del Estado en coordinación con las autoridades municipales y conforme a las disposiciones presupuestales que apruebe el Congreso, generará el cúmulo de políticas públicas que promuevan el acceso a los derechos humanos y la igualdad de oportunidades de los pueblos indígenas y comunidades afromexicanas, que tiendan a eliminar cualquier práctica discriminatoria y posibiliten el avance socioeconómico y el desarrollo humano. Las obligaciones que corresponda a cada uno de los poderes del Estado, se determinarán en una Ley Reglamentaria atendiendo a lo prescrito en el artículo 2°, Apartado B de la Constitución Política de los Estados Unidos Mexicanos.
+El Gobierno del Estado en coordinación con las autoridades municipales y conforme a las disposiciones presupuestales que apruebe el Congreso, generará las políticas públicas que promuevan el acceso a los derechos humanos y la igualdad de oportunidades de los pueblos y comunidades indígenas y afromexicanas, que tiendan a eliminar cualquier práctica discriminatoria y posibiliten el avance socioeconómico y el desarrollo humano. Las obligaciones que corresponda a cada uno de los poderes del estado y los municipios, se determinarán en una ley reglamentaria atendiendo a lo prescrito en el artículo 2° de la Constitución Política de los Estados Unidos Mexicanos, en las que se deberá prever:
+
+I. Impulsar el desarrollo comunitario y regional de los pueblos y comunidades indígenas y afromexicanas, para mejorar sus condiciones de vida y bienestar común, mediante planes de desarrollo que fortalezcan sus economías y fomenten la agroecología, los cultivos tradicionales, en especial el sistema milpa, las semillas nativas, los recursos agroalimentarios y el óptimo uso de la tierra, libres del uso de sustancias peligrosas y productos químicos tóxicos, así como los mecanismos que faciliten la organización y desarrollo de las economías de los pueblos y comunidades indígenas y afromexicanas, y se reconocerá el trabajo comunitario como parte de su organización social y cultural;
+
+II. Determinar, mediante normas y criterios compensatorios, equitativos, justos y proporcionales, asignaciones presupuestales para los pueblos y comunidades indígenas y afromexicanas, que serán administradas directamente por estos, conforme a las disposiciones presupuestarias, administrativas, fiscales y de fiscalización;
+
+III. Adoptar las medidas necesarias para reconocer y proteger el patrimonio cultural, la propiedad intelectual colectiva, los conocimientos y las expresiones culturales tradicionales de los pueblos y comunidades indígenas, en los términos que establezcan las leyes de la materia;
+
+IV. Garantizar y fortalecer la educación indígena, intercultural y plurilingüe;
+
+V. Asegurar el acceso efectivo a los servicios de salud, así como reconocer las prácticas de la medicina tradicional;
+
+VI. Garantizar el derecho a la alimentación nutritiva, suficiente y de calidad con pertinencia cultural, en especial para la población infantil;
+
+VII. Mejorar las condiciones de vida de los pueblos y comunidades indígenas y afromexicanas, y de sus espacios para la convivencia y recreación, mediante acciones que garanticen el acceso al financiamiento para la construcción y mejoramiento de vivienda, así como ampliar la cobertura de los servicios sociales básicos, en armonía con su entorno natural y cultural, sus conocimientos y tecnologías tradicionales, respetando sus usos y costumbres;
+
+VIII. Garantizar la participación efectiva de las mujeres indígenas y afromexicanas, en condiciones de igualdad y equidad, en los procesos de desarrollo integral de los pueblos y comunidades indígenas y afromexicanas; su acceso a la educación, así como a la propiedad y posesión de la tierra; su participación en la toma de decisiones de carácter público, y la promoción y respeto de sus derechos humanos;
+
+IX. Coadyuvar con los pueblos y comunidades indígenas y afromexicanas ante la Federación para gestionar la construcción y ampliación de vías de comunicación y caminos artesanales. Así como impulsar las redes de comunicación, la radiodifusión, telecomunicación e internet de banda ancha, para el acceso de los pueblos y comunidades indígenas y afromexicanas en condiciones de dignidad, equidad e interculturalidad, sin discriminación alguna para que reflejen la diversidad cultural indígena;
+
+X. Apoyar las actividades productivas y el desarrollo sustentable de las comunidades indígenas y afromexicanas mediante acciones que permitan alcanzar la suficiencia de sus ingresos económicos, la creación de empleos, la incorporación de tecnologías y sus sistemas tradicionales de producción, para incrementar su propia capacidad productiva; así como, asegurar el acceso equitativo a los sistemas de abasto y comercialización;
+
+XI. Proteger a las personas indígenas y afromexicanas migrantes, tanto en el territorio nacional como en el extranjero bajo los mecanismos que prevea la legislación vigente para que puedan mantener la ciudadanía guerrerense y el vínculo con sus comunidades de origen, y
+
+XII. Consultar a los pueblos y comunidades indígenas y afromexicanas en la elaboración del Plan Estatal de Desarrollo y los planes municipales de desarrollo cuando así proceda.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 En el diseño, implementación y evaluación de las políticas públicas se incorporarán acciones afirmativas en general a todos los guerrerenses y, en particular, en favor de los grupos vulnerables de los pueblos indígenas y comunidades afromexicanas: mujeres, niños, niñas y adolescentes, personas de la tercera edad, personas con capacidades diferentes, para su plena incorporación al desarrollo humano, social y económico. Los recursos presupuestales destinados a éstos grupos se focalizará y su fiscalización será prioritaria.
+
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
 El Estado establecerá las medidas necesarias para la protección y el acceso a la salud de las mujeres y niñas de los pueblos indígenas y comunidades afromexicanas atendiendo, principalmente, a su salud sexual y reproductiva, proveyendo lo necesario en los aspectos de enfermedades infecto contagiosas y maternidad.
 
@@ -6392,3 +6466,35 @@ Vigésimo. En términos del numeral 1, fracción III del artículo 199 de la Con
 Vigésimo Primero. Remítase al Titular del Poder Ejecutivo para su conocimiento y efectos legales correspondientes.
 
 Vigésimo Segundo. Publíquese en el Periódico Oficial del Gobierno del Estado para conocimiento general.
+
+P.O. 13 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 225 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, previa declaratoria que expida el Congreso del Estado, en términos de lo dispuesto por el artículo 199 numeral 2 de la Constitución Política Local.
+
+###### ARTÍCULO SEGUNDO.
+
+Comuníquese el presente Decreto a los 84 Ayuntamientos y al Consejo Municipal de Ayutla de los Libres, Guerrero, para efectos de lo dispuesto por la fracción III del artículo 199, numeral 1, de la Constitución Política Local, y oportunamente expídase la declaratoria respectiva conforme a lo dispuesto por el numeral 2 del mismo artículo.
+
+###### ARTÍCULO TERCERO.
+
+Comuníquese el presente Decreto a la Titular del Poder Ejecutivo del Estado, para su conocimiento y publicación en el Periódico Oficial del Gobierno del Estado de Guerrero y al Congreso de la Unión, en cumplimiento al artículo Quinto transitorio del DECRETO por el que se reforman, adicionan y derogan diversas disposiciones del artículo 2o. de la Constitución Política de los Estados Unidos Mexicanos, en materia de Pueblos y Comunidades Indígenas y Afromexicanos.
+
+###### ARTÍCULO CUARTO.
+
+El Congreso del Estado, en un plazo de ciento ochenta días, contados a partir de la entrada en vigor de este Decreto, deberá armonizar el marco jurídico de las leyes que correspondan, para adecuarlo al contenido del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+El Poder Ejecutivo realizará las reformas a las disposiciones administrativas aplicables, para asegurar el respeto y la implementación de los derechos de los pueblos y comunidades indígenas y afromexicanas reconocidos en el presente Decreto, en un plazo de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto, y en un plazo de noventa días contados a partir de la entrada en vigor de las reformas a que se refiere el artículo anterior.
+
+###### ARTÍCULO SEXTO.
+
+Las autoridades de los 84 municipios y el Concejo Municipal de Ayutla de los Libres realizarán las adecuaciones normativas que aseguren el respeto de los derechos de los pueblos y comunidades indígenas y afromexicanas reconocidos en el presente Decreto, en los términos que establece esta Constitución, así como su reconocimiento como sujetos de derecho público, en un plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Poder Ejecutivo dispondrá que el texto normativo íntegro del presente Decreto se traduzca a las lenguas de los pueblos indígenas y ordenará la difusión correspondiente.
