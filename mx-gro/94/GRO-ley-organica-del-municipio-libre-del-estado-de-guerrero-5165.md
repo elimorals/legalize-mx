@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-municipio-libre-del-estado-de-guerrero-5165"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-01-05"
-last_updated: "2025-05-23"
+last_updated: "2026-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5165&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 5 de enero de 1990.
 
@@ -971,9 +971,11 @@ XXIV. Elegir mediante convocatoria pública abierta al titular del Órgano de Co
 
 XXV. Calificar la elección de los Comisarios Municipales y formular la declaratoria de su nombramiento;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2026)</small>
 
-XXVI. Expedir los bandos de policía y buen gobierno, y los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, aplicando la perspectiva de género y garantizando los principios de igualdad de género y no discriminación, así como la protección de los derechos humanos;
+XXVI. Expedir los bandos de Policía y Gobierno, reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, aplicando la perspectiva de género y garantizando los principios de igualdad y no discriminación, así como la protección de los derechos humanos.
+
+Ordenamientos que deberán ser revisados por el Ayuntamiento y, en su caso, reformados, derogados o aprobados nuevamente por el cabildo, dentro del primer año de su ejercicio constitucional.
 
 > <small>(REFORMADA, P.O. 5 DE ABRIL DE 2019)</small>
 
@@ -1803,9 +1805,9 @@ XIII. Convocar a las sesiones extraordinarias en los términos de esta Ley;
 
 XIV. Apoyar a la o el Presidente Municipal en sus responsabilidades en los términos de esta Ley;
 
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2026)</small>
 
-XV. Presentar anualmente un informe escrito del ejercicio de sus funciones ante el Ayuntamiento, sin perjuicio de que puedan hacerlo ante la ciudadanía;
+XV. Presentar anualmente un informe escrito sobre el ejercicio de sus funciones ante el Ayuntamiento, el cual deberá publicarse en la Gaceta municipal. Asimismo, podrán presentar dicho informe ante la ciudadanía.
 
 > <small>(REFORMADA, P.O. 24 DE JUNIO DE 2022)</small>
 
@@ -4692,6 +4694,26 @@ TERCERO.- Publíquese el presente Decreto para su conocimiento general y difusi�
 P.O. 23 DE MAYO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 235 POR MEDIO DEL CUAL SE REFORMA EL ARTÍCULO 29 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase el presente Decreto a la Titular del Poder Ejecutivo del Estado para los efectos legales procedentes.
+
+TERCERO.- Publíquese el presente Decreto para su conocimiento general y difusión, en el Periódico Oficial del Gobierno del Estado de Guerrero, en el Portal Web del Congreso del Estado y en sus redes sociales de internet.
+
+P.O. 13 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 478 POR MEDIO DEL CUAL SE REFORMA LA FRACCIÓN XXVI DEL ARTÍCULO 61 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO.- Remítase el presente Decreto a la Titular del Poder Ejecutivo del Estado para los efectos legales procedentes.
+
+TERCERO.- Publíquese el presente Decreto para su conocimiento general y difusión, en el Periódico Oficial del Gobierno del Estado de Guerrero, en el Portal Web del Congreso del Estado y en sus redes sociales de internet.
+
+P.O. 13 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 488 POR MEDIO DEL CUAL SE REFORMA LA FRACCIÓN XV DEL ARTÍCULO 80 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE GUERRERO”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
