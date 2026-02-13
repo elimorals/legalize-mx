@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-ejecutivo-del-estado-de-nayarit-23403"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-21"
-last_updated: "2026-01-16"
+last_updated: "2026-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el jueves 21 de diciembre del 2000.
 
@@ -347,9 +347,9 @@ VII. Secretaría de Desarrollo Rural;
 
 VII. Bis. Secretaría del Trabajo y Justicia Laboral;
 
-> <small>(REFORMADA, P.O. 29 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2026)</small>
 
-VIII. Secretaría de Economía;
+VIII. Secretaría de Desarrollo Económico y Social;
 
 IX. Secretaría de Turismo;
 
@@ -1597,11 +1597,11 @@ XXIX. Gestionar y administrar fondos estatales y programas de financiamiento que
 
 XXX. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MAYO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 39.
 
-A la Secretaría de Economía le corresponden las siguientes atribuciones:
+A la Secretaría de Desarrollo Económico y Social le corresponden las siguientes atribuciones:
 
 > <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2005)</small>
 
@@ -1801,13 +1801,33 @@ LVIII. Promover y consolidar los principios y bases para la implementación de m
 
 LIX. Promover, formular, instrumentar, ejecutar, dar seguimiento y evaluar las políticas, lineamientos, acciones y programas en materia de Mejora Regulatoria, así como priorizar la calidad en la prestación de los servicios a la población que represente menores costos, requisitos y tiempos para los usuarios de los mismos, en términos de la Ley de la materia;
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2026)</small>
 
-LX. Desarrollar e implementar políticas que vayan encaminadas al uso estratégico de las tecnologías de la información y comunicación que impulsen el desarrollo económico del Estado, así como la generación de nuevas empresas y empleos que fomenten la competitividad dentro de las regiones del Estado, y
+LX. Desarrollar e implementar políticas que vayan encaminadas al uso estratégico de las tecnologías de la información y comunicación que impulsen el desarrollo económico del Estado, así como la generación de nuevas empresas y empleos que fomenten la competitividad dentro de las regiones del Estado;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE MAYO DE 2019)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE FEBRERO DE 2026)</small>
 
-LXI. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
+LXI. En materia de desarrollo social, conducir, coordinar y ejecutar, en el ámbito de competencia del Poder Ejecutivo, las políticas, programas, acciones y estrategias que deriven de la Ley para el Desarrollo Social del Estado de Nayarit, su reglamento y demás disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2026)</small>
+
+LXII. Fungir como instancia de coordinación ejecutiva y enlace interinstitucional con las dependencias y entidades de la Administración Pública Estatal y, en su caso, con los municipios, para asegurar la integralidad y transversalidad de los programas, acciones y políticas de desarrollo social;
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2026)</small>
+
+LXIII. Promover, celebrar y dar seguimiento a acuerdos y convenios de coordinación y concertación con el Gobierno Federal, los municipios, los sectores social y privado y organizaciones de la sociedad civil, para el cumplimiento de objetivos de desarrollo social, conforme al marco jurídico aplicable;
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2026)</small>
+
+LXIV. Diseñar, implementar, ejecutar, supervisar, modificar y regular normativamente los programas, proyectos y acciones de su competencia en materia de desarrollo social, priorizando la atención a grupos sociales en situación de vulnerabilidad y el respeto de los derechos sociales;
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2026)</small>
+
+LXV. Elaborar, en el ámbito de su competencia, las Reglas de Operación de los programas sociales a su cargo y, en su caso, coadyuvar en la revisión y armonización de reglas de operación emitidas por otras dependencias y entidades estatales, cuando así proceda conforme a la normativa aplicable, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE FEBRERO DE 2026)</small>
+
+LXVI. Las demás que le atribuyan las leyes, reglamentos, convenios y las que le confiera el Gobernador del Estado.
 
 > <small>[N. DE E. MEDIANTE REFORMA PUBLICADA EN EL P.O. DE 29 DE MAYO DE 2019, SE ADVIERTE QUE SE ELIMINA LA FRACCIÓN VI Y SE RECORREN LAS SUBSECUENTES FRACCIONES PASANDO DE XXX A XXIX FRACCIONES.]</small>
 
@@ -2940,3 +2960,15 @@ Séptimo. Los recursos, documentales, financieros y materiales con que cuenten l
 Octavo. Una vez quede suprimida la Secretaría de Bienestar e Igualdad Sustantiva en los términos del Transitorio Tercero del presente Decreto, en el caso de los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes que aquella haya celebrado y que continúen vigentes, se entenderán y obligarán en sus términos al Sistema para el Desarrollo Integral de la Familia del Estado de Nayarit (DIF Estatal), según corresponda, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente, conforme a lo establecido por la legislación aplicable.
 
 Noveno. En lo que respecta a las relaciones laborales del personal de confianza de la Secretaría de Bienestar e Igualdad Sustantiva, en virtud de lo dispuesto en el presente Decreto, la Secretaría de Administración y Finanzas deberá darlas por terminadas en los términos que disponga la Ley de Derechos y Justicia Laboral para los Trabajadores al Servicio del Estado de Nayarit. En lo que refiere a las relaciones laborales del personal basificado se respetarán en términos de la ley.
+
+P.O. 13 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE NAYARIT, EN MATERIA DE DESARROLLO ECONÓMICO Y SOCIAL”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+Tercero. Se establece un plazo de ciento veinte días naturales, a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones a las disposiciones jurídicas y presupuestales correspondientes, de conformidad con lo establecido en este instrumento.
+
+Cuarto. En aquellas leyes, decretos, acuerdos y demás disposiciones normativas, administrativas, de planeación o programación o en cualquier otro instrumento jurídico que haga referencia a la Secretaría de Economía, se deberá entender que se refiere a la Secretaría de Desarrollo Económico y Social.
