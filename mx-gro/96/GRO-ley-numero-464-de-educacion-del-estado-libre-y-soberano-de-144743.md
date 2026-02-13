@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-464-de-educacion-del-estado-libre-y-soberano-de-1447
 country: "mx"
 rank: "ley"
 publication_date: "2020-10-23"
-last_updated: "2025-08-01"
+last_updated: "2026-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 464 DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2026.
 
 Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el viernes 23 de octubre de 2020.
 
@@ -963,9 +963,11 @@ Las maestras y maestros, el personal que labora en los planteles educativos y la
 
 Cuando exista ausentismo de uno o más educandos por cinco días consecutivos o siete acumulados en un mes, sin que exista justificación por escrito de madres o padres de familia, tutoras o tutores, las autoridades escolares de las escuelas públicas y privadas de la educación básica informarán a la autoridad educativa estatal, la cual emitirá una Alerta Temprana y será remitida a las Defensorías Municipales para la Protección de Niñas, Niños y Adolescentes o similares para los efectos correspondientes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 82.
 
-Las autoridades educativas en el ámbito de su competencia, promoverán la cultura de la paz y no violencia para generar una convivencia democrática basada en la igualdad de derechos, el respeto a la dignidad de las personas y de los derechos humanos. Realizarán acciones que favorezcan el sentido de comunidad y solidaridad, donde se involucren los educandos, las maestras y maestros, madres y padres de familia, tutoras y tutores, así como el personal de apoyo y asistencia a la educación, y con funciones directivas o de supervisión para prevenir y atender cualquier tipo de violencia que se ejerza en el entorno escolar.
+Las autoridades educativas en el ámbito de su competencia, promoverán la cultura de la paz y no violencia para generar una convivencia democrática basada en la igualdad de derechos, el respeto a la dignidad de las personas, de los derechos humanos y para una vida libre de violencia. Realizarán acciones que favorezcan el sentido de comunidad y solidaridad, donde se involucren los educandos, las maestras y maestros, madres y padres de familia, tutoras y tutores, así como el personal de apoyo y asistencia a la educación, y con funciones directivas o de supervisión para prevenir y atender cualquier tipo de violencia en contra de las niñas, niños y adolescentes que se ejerza en el entorno escolar.
 
 Para cumplir con lo establecido en este artículo, se llevarán a cabo, entre otras, las acciones siguientes:
 
@@ -990,6 +992,10 @@ IX. Elaborar y difundir materiales educativos para la prevención y atención de
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 2025)</small>
 
 X. Restringir el uso de teléfonos celulares, tabletas electrónicas o cualquier otro dispositivo móvil de comunicación o navegación por internet en el nivel de educación básica, durante el horario escolar, permitiéndolo únicamente para fines pedagógicos o de enseñanza, en situaciones de emergencia familiar o bajo circunstancias debidamente justificadas, determinadas por la persona docente o, en su caso, por el Consejo de Participación Escolar, si éste se encuentra instalado. La autoridad educativa estatal, en coordinación con las autoridades escolares, deberá implementar programas de sensibilización y capacitación dirigidos a estudiantes, madres y padres de familia, tutoras y tutores, así como al personal docente, sobre el uso responsable de la tecnología y los riesgos asociados a su uso excesivo.
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2026)</small>
+
+XI. Las autoridades educativas fomentarán las artes, el deporte y la cultura, por lo que queda prohibido en las instituciones educativas del Estado la reproducción de música, imágenes y videos que promuevan la hipersexualización de la infancia y la apología del delito.
 
 ###### Artículo 83.
 
@@ -1960,3 +1966,11 @@ SEGUNDO. La generación y ejecución de las políticas públicas que se deriven 
 TERCERO. Remítase este Decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
 
 CUARTO. Publíquese en el Periódico Oficial del Gobierno del Estado, en la Gaceta del Congreso del Estado, para los efectos legales conducentes y conocimiento general.
+
+P.O. 13 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 483 POR EL QUE SE REFORMA EL ARTÍCULO 82 Y SE ADICIONA LA FRACCIÓN XI DE LA LEY NÚMERO 464 DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado, en la Gaceta del Congreso del Estado, para los efectos legales conducentes y conocimiento general.
