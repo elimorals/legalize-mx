@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-responsabilidades-administrativas-del-estado-de-168605"
 country: "mx"
 rank: "ley"
 publication_date: "2023-11-23"
-last_updated: "2025-11-20"
+last_updated: "2026-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168605&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2026.
 
 Ley publicada en la Sección Cuarta del Número 97 del Periódico Oficial del Estado de Nayarit, el jueves 23 de noviembre de 2023.
 
@@ -718,6 +718,12 @@ Para efectos de la fracción III, los Servidores Públicos que denuncien una Fal
 ###### Artículo 69.
 
 Omisión de enterar cuotas, aportaciones, cuotas sociales o descuentos. Es Falta Administrativa Grave, la omisión de enterar las cuotas, aportaciones, cuotas sociales o descuentos en los términos de las Leyes de la materia.
+
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2026)</small>
+
+###### Artículo 69 Bis.
+
+Injerencia sindical. Será responsable de injerencia sindical la persona servidora pública que, por sí o por terceros, incurra en las conductas previstas en la Ley de Derechos y Justicia Laboral para los Trabajadores al Servicio del Estado de Nayarit, las cuales se sancionarán conforme a la presente Ley.
 
 ### CAPÍTULO III. LOS ACTOS DE PARTICULARES VINCULADOS CON FALTAS ADMINISTRATIVAS GRAVES
 
@@ -2366,3 +2372,9 @@ P.O. 20 DE NOVIEMBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA EL ARTÍCULO 69 BIS A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE NAYARIT, EN MATERIA DE INJERENCIA SINDICAL”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
