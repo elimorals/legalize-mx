@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-justicia-alternativa-para-el-estado-de-baja-57613"
 country: "mx"
 rank: "ley"
 publication_date: "2007-10-19"
-last_updated: "2022-03-04"
+last_updated: "2026-02-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCN"
 ---
 # LEY DE JUSTICIA ALTERNATIVA PARA EL ESTADO DE BAJA CALIFORNIA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE JUSTICIA ALTERNATIVA PARA EL ESTADO DE BAJA CALIFORNIA, PUBLICADA EN EL P.O. DE 13 DE FEBRERO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY DE JUSTICIA ALTERNATIVA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2026 (ABROGADA).
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 19 de octubre de 2007.
 
@@ -1012,3 +1012,31 @@ P.O. 4 DE MARZO DE 2022.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 39 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 37 DE LA LEY DE JUSTICIA ALTERNATIVA PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE JUSTICIA ALTERNATIVA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo. Se abroga la Ley de Justicia Alternativa para el Estado de Baja California publicada en el Periódico Oficial No. 43 de fecha 19 de octubre de 2007.
+
+Tercero. Los procedimientos en materia de mecanismos alternativos de solución de controversias iniciados con anterioridad a la entrada en vigor de la presente Ley, continuarán su tramitación de conformidad con las disposiciones vigentes al momento de su inicio.
+
+Cuarto. Las certificaciones que hayan sido expedidas a las personas facilitadoras previo a la entrada en vigor del presente Decreto, seguirán vigentes hasta su vencimiento en los términos del artículo décimo transitorio de la Ley General de Mecanismos Alternativos de Solución de Controversias.
+
+Quinto. En el caso de las personas servidoras públicas que actualmente laboran en el Centro Estatal de Justicia Alternativa y que cuenten con un nombramiento por un plazo determinado, continuarán en sus funciones en los términos del artículo décimo segundo transitorio de la Ley General de Mecanismos Alternativos de Solución de Controversias por el tiempo por el cual se les expidió respetando sus derechos.
+
+Sexto. El Poder Judicial del Estado, en su ámbito de competencia, deberá llevar a cabo las acciones necesarias para la creación y funcionamiento del Registro de Personas Facilitadoras, así como del Sistema de Convenios, de conformidad con los Lineamientos de transmisión de información a la Plataforma Nacional de Personas Facilitadoras y Sistema Nacional de Información de Convenios, emitidos por el Consejo Nacional.
+
+Séptimo. La información que a la fecha de entrada en vigor del presente Decreto obre en los sistemas electrónicos, bases de datos y registros del Centro Estatal de Justicia Alternativa del Poder Judicial del Estado, formará parte de sus sistemas informáticos como memoria histórica de los mismos y deberán preservarse de conformidad con lo dispuesto por las Leyes de archivos y demás disposiciones que resulten aplicables.
+
+Octavo. El Consejo de Administración, mediante acuerdos generales, establecerá la metodología y los Lineamientos para el acceso efectivo a los procesos de justicia restaurativa y terapéutica, de conformidad con lo dispuesto en la presente Ley, en un plazo de ciento ochenta días naturales.
+
+Noveno. El Consejo de Administración, realizará las propuestas que correspondan para la asignación de recursos presupuestarios por parte del Congreso del Estado para el cumplimiento de la presente Ley.
+
+Décimo. El Consejo de Administración, proveerá los recursos humanos, materiales, tecnológicos y financieros que requiera la implementación del presente Decreto, conforme a los presupuestos autorizados por el Congreso del Estado de acuerdo al segundo párrafo del artículo transitorio Décimo Sexto de la Ley General de Mecanismos Alternativos de Solución de Controversias.
+
+Décimo Primero. El Consejo de Administración contará con un plazo máximo de ciento ochenta días naturales, a partir de la entrada en vigor de la presente Ley, para expedir las actualizaciones normativas reglamentarias correspondientes para el cumplimiento del presente decreto.
+
+Décimo Segundo. Los aranceles correspondientes a los servicios prestados por las Personas Facilitadoras privadas deberán fijarse y publicarse en un plazo máximo de sesenta (60) días, contados a partir de la entrada en vigor de la presente Ley, en términos de la normatividad aplicable y conforme a los criterios establecidos por el Consejo de Administración.
