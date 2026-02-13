@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-ag-poaj-004-2025-del-pleno-del-organo-de-181520
 country: "mx"
 rank: "acuerdo"
 publication_date: "2025-09-08"
-last_updated: "2025-09-08"
+last_updated: "2026-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181520&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2025-09-05"
 
 ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL POR EL QUE SE CREAN E INTEGRAN SUS COMISIONES Y SE APRUEBAN LOS NOMBRAMIENTOS DE LAS PERSONAS TITULARES DE LAS SECRETARÍAS EJECUTIVAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE FEBRERO DE 2026.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 8 de septiembre de 2025.
 
@@ -95,7 +95,9 @@ I. Comisión de Administración
 
 a) José Alberto Gallegos Ramírez,
 
-b) Lorena Josefina Pérez Romo, y
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL QUE REFORMA EL SIMILAR POR EL QUE SE CREAN E INTEGRAN SUS COMISIONES Y SE APRUEBAN LOS NOMBRAMIENTOS DE LAS PERSONAS TITULARES DE LAS SECRETARÍAS EJECUTIVAS, D.O.F. 13 DE FEBRERO DE 2026)</small>
+
+b) Xóchitl Almendra Hernández Torres, y
 
 c) Néstor Vargas Solano.
 
@@ -103,7 +105,9 @@ Se designa como titular de la Secretaría Ejecutiva de Administración a Juan Ca
 
 II. Comisión de Adscripción
 
-a) Lorena Josefina Pérez Romo,
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL QUE REFORMA EL SIMILAR POR EL QUE SE CREAN E INTEGRAN SUS COMISIONES Y SE APRUEBAN LOS NOMBRAMIENTOS DE LAS PERSONAS TITULARES DE LAS SECRETARÍAS EJECUTIVAS, D.O.F. 13 DE FEBRERO DE 2026)</small>
+
+a) Xóchitl Almendra Hernández Torres,
 
 b) Néstor Vargas Solano, y
 
@@ -115,11 +119,15 @@ III. Comisión de Carrera Judicial y Especialización
 
 a) Catalina Ramírez Hernández,
 
-b) Lorena Josefina Pérez Romo, y
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL QUE REFORMA EL SIMILAR POR EL QUE SE CREAN E INTEGRAN SUS COMISIONES Y SE APRUEBAN LOS NOMBRAMIENTOS DE LAS PERSONAS TITULARES DE LAS SECRETARÍAS EJECUTIVAS, D.O.F. 13 DE FEBRERO DE 2026)</small>
+
+b) Xóchitl Almendra Hernández Torres, y
 
 c) Surit Berenice Romero Domínguez.
 
-Se designa como titular de la Secretaría Ejecutiva de la Comisión de Carrera Judicial y Especialización a Marco Antonio Fuerte Tapia.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL QUE REFORMA EL SIMILAR POR EL QUE SE CREAN E INTEGRAN SUS COMISIONES Y SE APRUEBAN LOS NOMBRAMIENTOS DE LAS PERSONAS TITULARES DE LAS SECRETARÍAS EJECUTIVAS, D.O.F. 13 DE FEBRERO DE 2026)</small>
+
+Se designa como titular de la Secretaría Ejecutiva de la Comisión de Carrera Judicial y Especialización a Alonso Antonio Hernández Flores.
 
 IV. Comisión de Creación y Seguimiento de Órganos Jurisdiccionales
 
@@ -127,7 +135,9 @@ a) Catalina Ramírez Hernández,
 
 b) José Alberto Gallegos Ramírez y,
 
-c) Lorena Josefina Pérez Romo.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL QUE REFORMA EL SIMILAR POR EL QUE SE CREAN E INTEGRAN SUS COMISIONES Y SE APRUEBAN LOS NOMBRAMIENTOS DE LAS PERSONAS TITULARES DE LAS SECRETARÍAS EJECUTIVAS, D.O.F. 13 DE FEBRERO DE 2026)</small>
+
+c) Xóchitl Almendra Hernández Torres
 
 Se designa como titular de la Secretaría Ejecutiva de Creación y Seguimiento de Órganos Jurisdiccionales a Carlos López Cruz.
 
@@ -152,3 +162,13 @@ TERCERO. Publíquese en el Diario Oficial de la Federación, en la Gaceta del Se
 Firman al calce el Presidente del Órgano de Administración Judicial y la persona titular de la Secretaría Ejecutiva del Pleno, de conformidad con lo dispuesto en los artículos 91, 99, fracción VIII y 100, párrafo primero de la Ley Orgánica del Poder Judicial de la Federación.
 
 EL MAESTRO CÉSAR MAURICIO LÓPEZ RAMÍREZ, SECRETARIO EJECUTIVO DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL, CERTIFICA: Que este Acuerdo General del Pleno del Órgano de Administración Judicial por el que se aprueban la creación e integración de las Comisiones del Órgano de Administración Judicial, fue aprobado por el Pleno del Órgano, en sesión celebrada el 02 de septiembre de 2025, por unanimidad de votos de las personas integrantes: Maestro Néstor Vargas Solano, Presidente; Licenciada Surit Berenice Romero Domínguez; Doctora Lorena Josefina Pérez Romo; Maestra Catalina Ramírez Hernández y Maestro José Alberto Gallegos Ramírez.- Ciudad de México, a 5 de septiembre de 2025.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 13 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL QUE REFORMA EL SIMILAR POR EL QUE SE CREAN E INTEGRAN SUS COMISIONES Y SE APRUEBAN LOS NOMBRAMIENTOS DE LAS PERSONAS TITULARES DE LAS SECRETARÍAS EJECUTIVAS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación por el Pleno del Órgano de Administración Judicial.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Órgano de Administración Judicial del Poder Judicial de la Federación en Intranet e Internet.
