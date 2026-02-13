@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-trabajadores-al-servicio-de-los-poderes-del-38547"
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-23"
-last_updated: "2026-02-05"
+last_updated: "2026-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 5 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE FEBRERO DE 2026.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 23 de febrero de 2004.
 
@@ -836,6 +836,50 @@ Las elecciones que no cumplan estos requisitos serán nulas.
 ###### ARTICULO 75.
 
 En cada uno de los Poderes del Estado y Municipios se reconocerá un Sindicato, asimismo se reconocerá uno más de los trabajadores del Sistema Educativo Estatal, en caso de que concurran varios grupos de trabajadores que pretendan ese derecho, el Tribunal de Conciliación y Arbitraje otorgará el reconocimiento al mayoritario.
+
+> <small>(ADICIONADO, B.O. 13 DE FEBRERO DE 2026)</small>
+
+ARTICULO 75 BIS.- Los sindicatos deberán gozar de adecuada protección contra todo acto de injerencia por parte de las personas servidoras públicas en su constitución, funcionamiento, administración y libre desarrollo de las elecciones sindicales, las condiciones de elegibilidad, la reelección y/o la destitución de las directivas de los sindicatos. Cualquier contravención a estas disposiciones será considerada falta administrativa grave y sancionada en los términos de la Ley de Responsabilidades Administrativas del Estado y Municipios de Baja California Sur.
+
+Se entenderán como actos de injerencia sindical, entre otras, las siguientes conductas:
+
+I. Coaccionar, inducir o amenazar a personas trabajadoras o agremiadas para participar o abstenerse de participar en eventos de campaña sindical, o para votar por una planilla, dirigente o sindicato determinado.
+
+II. Ejercer presión o intimidación jerárquica sobre subordinados para que expresen públicamente su apoyo o rechazo a determinada candidatura sindical.
+
+III. Obligar o condicionar la asistencia a actos, mítines o reuniones sindicales con fines de proselitismo.
+
+IV. Condicionar la prestación de servicios institucionales, apoyos, licencias o permisos laborales a la emisión del voto o apoyo hacia una planilla sindical.
+
+V. Ofrecer beneficios laborales, ascensos, estímulos o promociones a cambio de apoyo o voto sindical.
+
+VI. Negar, suspender o limitar derechos o programas internos, capacitaciones, bonos o reconocimientos como represalia por no apoyar determinada opción sindical.
+
+VII. Utilizar programas institucionales o apoyos sociales para inducir o coaccionar el voto sindical.
+
+VIII. Destinar, utilizar o permitir el uso de fondos, bienes, servicios o personal institucional para favorecer o perjudicar a determinada planilla, corriente o dirigencia sindical.
+
+IX. Difundir propaganda, mensajes o material institucional que promueva o desacredite a una candidatura o grupo sindical.
+
+X. Permitir el uso de instalaciones, vehículos, redes o infraestructura pública para actos de campaña o propaganda sindical.
+
+XI. Proporcionar apoyo o servicios institucionales para actividades de campaña sindical.
+
+XII. Realizar aportaciones o solicitar contribuciones a subordinados para financiar campañas o actividades sindicales.
+
+XIII. Usar recursos o programas institucionales con la finalidad de posicionar o promover ante la base trabajadora a una persona servidora pública o dirigente sindical.
+
+XIV. Negarse sin causa justificada a entregar información solicitada por la autoridad sindical o laboral competente, relacionada con el desarrollo de elecciones o procesos democráticos sindicales.
+
+XV. Omitir colaborar o prestar auxilio en los procesos de verificación, vigilancia o supervisión sindical cuando la autoridad lo requiera.
+
+XVI. Omitir actuar con imparcialidad durante los procesos electorales sindicales, afectando la equidad entre candidaturas.
+
+XVII. Actuar con parcialidad o favorecer públicamente a determinada candidatura.
+
+XVIII. Intervenir indebidamente en la equidad del proceso sindical, alterando la neutralidad institucional.
+
+XIX. Utilizar su cargo para influir en la opinión de las personas trabajadoras, afectando la libertad del voto sindical.
 
 ###### ARTICULO 76.
 
@@ -1932,3 +1976,11 @@ QUINTO.- El Tribunal de Conciliación y Arbitraje para los Trabajadores al Servi
 SEXTO.- Lo dispuesto en los artículos 5° y 5° Ter del presente Decreto, no será aplicable en perjuicio de las y los trabajadores pertenecientes a las organizaciones sindicales que de conformidad con sus nombramientos o las condiciones generales de trabajo tienen reconocida la estabilidad e inamovilidad en su plaza, cargo o puesto con el carácter de nombramiento definitivo, por lo que sus derechos previamente adquiridos deberán ser respetados en su totalidad, no pudiendo llevar la aplicación del mismo en su perjuicio. La aplicación de dicha disposiciones (sic) por parte de los titulares dará lugar a la nulidad absoluta.
 
 SEPTIMO.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
+
+B.O. 13 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 3269 SE ADICIONA UN ARTÍCULO 75 BIS A LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR, Y SE ADICIONA UN ARTÍCULO 64 BIS A (SIC) LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
