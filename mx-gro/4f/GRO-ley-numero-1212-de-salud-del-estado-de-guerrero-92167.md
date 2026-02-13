@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-1212-de-salud-del-estado-de-guerrero-92167"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-04"
-last_updated: "2025-11-18"
+last_updated: "2026-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2026.
 
 Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el martes 4 de diciembre de 2012.
 
@@ -97,7 +97,9 @@ En la aplicación y prestación de los servicios, y en el ejercicio de los progr
 
 2. Igualdad. El acceso a los Servicios Estatales de Salud se garantiza sin ningún tipo de discriminación, ya sea ésta por razones de cultura, sexo, origen nacional, orientación sexual, religión, edad o capacidad económica.
 
-3. Prevalencia de derechos. Es obligación del Estado, de la familia y la sociedad en materia de salud, cuidar, proteger y asistir a las mujeres en estado de embarazo y en edad reproductiva, así como a los niños, las niñas y adolescentes, para garantizar su vida, su salud, su integridad física y moral, y su desarrollo armónico e integral. La prestación de estos servicios deberá ser acorde a las Normas Oficiales Mexicanas.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2026)</small>
+
+3. Prevalencia de derechos. Es obligación del Estado, de la familia y la sociedad en materia de salud, cuidar, proteger y asistir a las mujeres en estado de embarazo y en edad reproductiva, así como a los niños, las niñas y adolescentes, para garantizar su vida, su salud y gestión menstrual, su integridad física y moral, y su desarrollo armónico e integral. La prestación de estos servicios deberá ser acorde a las Normas Oficiales Mexicanas.
 
 4. Interculturalidad. La interculturalidad en salud se define como la capacidad de moverse equilibradamente entre conocimientos, creencias y prácticas culturales diferentes, respecto a la salud y la enfermedad, la vida y la muerte, el cuerpo biológico, social y racional. Y sus principios son: diálogo fundamentado en el respeto a la diferencia; tolerancia a las contradicciones que conduzcan a la solidaridad; democracia cultural, y; participación que incorpora la representación, la consulta, el consenso y la convergencia de objetivos comunes.
 
@@ -883,9 +885,9 @@ V. La atención materno-infantil;
 
 V BIS. La atención de urgencias médicas legales;
 
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2026)</small>
 
-VI. La salud sexual, reproductiva y de planificación familiar;
+VI. La salud sexual, reproductiva, de planificación familiar, y La salud menstrual;
 
 VII. La salud mental;
 
@@ -1035,9 +1037,11 @@ Toda persona que conozca de hechos, datos o circunstancias que pudieran constitu
 
 Es derecho de las personas a decidir libre y debidamente informado, sobre la aplicación de los procedimientos diagnósticos y terapéuticos que le proporcione cualquier institución de salud. En caso de urgencia o que el usuario se encuentre en estado de incapacidad transitoria o permanente, la autorización para proceder deberá ser otorgada por algún familiar en primer grado o su representante legal; y en caso de no ser posible lo anterior, el prestador del servicio de salud procederá de inmediato a preservar la vida y salud del usuario, debiendo dejar constancia en el expediente clínico.
 
-###### ARTICULO 71.
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2026)</small>
 
-Es deber de la autoridad sanitaria informar a las personas en lo individual, y en lo colectivo, sobre medidas y prácticas de higiene, dieta adecuada, salud mental, salud reproductiva, enfermedades transmisibles, enfermedades crónico degenerativas, diagnóstico precoz de enfermedades y demás acciones para la promoción de estilos de vida saludable. Así como los riesgos que ocasiona el tabaquismo, el alcoholismo, la drogadicción, la violencia y los accidentes.
+###### ARTÍCULO 71.
+
+Es deber de la autoridad sanitaria informar a las personas en lo individual, y en lo colectivo, sobre medidas y prácticas de higiene, dieta adecuada, salud mental, salud reproductiva, salud menstrual, enfermedades transmisibles, enfermedades crónico-degenerativas, diagnóstico precoz de enfermedades y demás acciones para la promoción de estilos de vida saludable. Así como los riesgos que ocasiona el tabaquismo, el alcoholismo, la drogadicción, la violencia y los accidentes.
 
 ###### ARTICULO 72.
 
@@ -3396,3 +3400,13 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicaci
 SEGUNDO. Remítase este Decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
 
 TERCERO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en la Gaceta del Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
+
+P.O. 13 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 491 POR EL QUE SE REFORMAN LOS ARTÍCULOS 6 PUNTO 3, 46 FRACCIÓN VI; Y 71 DE LA LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase este Decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
+
+TERCERO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en la Gaceta Parlamentaria del Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
