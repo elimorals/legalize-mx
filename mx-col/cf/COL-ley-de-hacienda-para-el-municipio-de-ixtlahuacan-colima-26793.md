@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-para-el-municipio-de-ixtlahuacan-colima-26793"
 country: "mx"
 rank: "ley"
 publication_date: "2002-11-11"
-last_updated: "2025-12-02"
+last_updated: "2026-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26793&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COL"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE IXTLAHUACÁN DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2026.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el lunes 11 de noviembre de 2002.
 
@@ -2761,15 +2761,19 @@ En los cementerios públicos se causarán y pagarán los productos, de conformid
 
 UMA
 
-I. Venta de lotes en propiedad, por metro cuadrado:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE FEBRERO DE 2026)</small>
 
-a) (DEROGADO, P.O. 2 DE NOVIEMBRE DE 2019)
+I. Venta de lotes en propiedad, en cementerio en la Cabecera Municipal:
 
-b) (DEROGADO, P.O. 2 DE NOVIEMBRE DE 2019)
+> <small>(REFORMADO [N. DE ADICIONADO], P.O. 14 DE FEBRERO DE 2026)</small>
 
-> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2019)</small>
+a) Lote en propiedad para 3 gavetas familiar sin construir de 3 mts² 90.00
 
-c) Lotes de terreno en cementerio urbano por metro cuadrado 12.00
+> <small>(REFORMADO [N. DE ADICIONADO], P.O. 14 DE FEBRERO DE 2026)</small>
+
+b) Lote en propiedad para 6 gavetas familiar sin construir de 8 mts² 225.00
+
+c) (DEROGADO, P.O. 14 DE FEBRERO DE 2026)
 
 II. Construcción y venta de gavetas para fosas en el cementerio según contrato;
 
@@ -3268,3 +3272,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Los Ayuntamientos de la entidad deberán establecer estrategias para brindar la máxima publicidad a los preceptos contenidos en este Decreto; en el entendido de que los incentivos fiscales que se otorgan, se aplicarán de manera excepcional y solo durante la vigencia del presente instrumento. Vencido el plazo otorgado para tal fin, deberá estarse a lo dispuesto en la Ley para Regular la Venta y Consumo de Bebidas Alcohólicas, así como en la Ley de Hacienda para cada uno de los municipios de la entidad, en cuanto al periodo que se establece para llevar a cabo el refrendo oportuno, y las consecuencias jurídicas de no hacerlo, respecto de las licencias comerciales y de licencias para el funcionamiento de establecimientos con giros de venta de bebidas alcohólicas.
+
+P.O. 14 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 245.- POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA FRACCIÓN I DEL ARTÍCULO 111, DE LA LEY DE HACIENDA PARA EL MUNICIPIO DE IXTLAHUACÁN, COLIMA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial “El Estado de Colima”.
