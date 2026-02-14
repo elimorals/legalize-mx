@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-trabajadores-al-servicio-del-gobierno-4082"
 country: "mx"
 rank: "ley"
 publication_date: "1992-01-04"
-last_updated: "2025-09-29"
+last_updated: "2026-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 4 de enero de 1992.
 
@@ -910,6 +910,50 @@ Sindicato es la asociación de trabajadores constituída para el estudio, mejora
 ###### ARTICULO 92.
 
 Se constituirá un sindicato con los trabajadores de base del Gobierno del Estado. En cada uno de los Ayuntamientos y organismos descentralizados, empresas o asociaciones de participación mayoritaria estatal o municipal habrá un sindicato.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2026)</small>
+
+ARTICULO 92 BIS.- Los sindicatos deberán gozar de adecuada protección contra todo acto de injerencia por parte de las personas servidoras públicas en su constitución, funcionamiento, administración y libre desarrollo de las elecciones sindicales, las condiciones de elegibilidad, la reelección y/o la destitución de las directivas de los sindicatos. Cualquier contravención a estas disposiciones será considerada falta administrativa grave y sancionada en los términos de la Ley General de Responsabilidades Administrativas.
+
+Se entenderán como actos de injerencia sindical, entre otras, las siguientes conductas:
+
+I. Coaccionar, inducir o amenazar a personas trabajadoras o agremiadas para participar o abstenerse de participar en eventos de campaña sindical, o para votar por una planilla, dirigente o sindicato determinado;
+
+II. Ejercer presión o intimidación jerárquica sobre subordinados para que expresen públicamente su apoyo o rechazo a determinada candidatura sindical;
+
+III. Obligar o condicionar la asistencia a actos, mítines o reuniones sindicales con fines de proselitismo;
+
+IV. Condicionar la prestación de servicios institucionales, apoyos, licencias o permisos laborales a la emisión del voto o apoyo hacia una planilla sindical;
+
+V. Ofrecer beneficios laborales, ascensos, estímulos o promociones a cambio de apoyo o voto sindical;
+
+VI. Negar, suspender o limitar derechos o programas internos, capacitaciones, bonos o reconocimientos como represalia por no apoyar determinada opción sindical;
+
+VII. Utilizar programas institucionales o apoyos sociales para inducir o coaccionar el voto sindical;
+
+VIII. Destinar, utilizar o permitir el uso de fondos, bienes, servicios o personal institucional para favorecer o perjudicar a determinada planilla, corriente o dirigencia sindical;
+
+IX. Difundir propaganda, mensajes o material institucional que promueva o desacredite a una candidatura o grupo sindical;
+
+X. Permitir el uso de instalaciones, vehículos, redes o infraestructura pública para actos de campaña o propaganda sindical;
+
+XI. Proporcionar apoyo o servicios institucionales para actividades de campaña sindical;
+
+XII. Realizar aportaciones o solicitar contribuciones a subordinados para financiar campañas o actividades sindicales;
+
+XIII. Usar recursos o programas institucionales con la finalidad de posicionar o promover ante la base trabajadora a una persona servidora pública o dirigente sindical;
+
+XIV. Negarse sin causa justificada a entregar información solicitada por la autoridad sindical o laboral competente, relacionada con el desarrollo de elecciones o procesos democráticos sindicales;
+
+XV. Omitir colaborar o prestar auxilio en los procesos de verificación, vigilancia o supervisión sindical cuando la autoridad lo requiera;
+
+XVI. Omitir actuar con imparcialidad durante los procesos electorales sindicales, afectando la equidad entre candidaturas;
+
+XVII. Actuar con parcialidad o favorecer públicamente a determinada candidatura;
+
+XVIII. Intervenir indebidamente en la equidad del proceso sindical, alterando la neutralidad institucional; y
+
+XIX. Utilizar su cargo para influir en la opinión de las personas trabajadoras, afectando la libertad del voto sindical.
 
 ###### ARTICULO 93.
 
@@ -2256,3 +2300,9 @@ VIGÉSIMO QUINTO. El Tribunal Superior de Justicia deberá garantizar la continu
 VIGÉSIMO SEXTO. Los modelos de gestión vigentes con base en los cuales operan los juzgados y sedes judiciales, continuarán desempeñando sus funciones hasta en tanto se emitan los reglamentos que regirán cada materia.
 
 VIGÉSIMO SÉPTIMO. El Centro Estatal de Justicia Alternativa, a la entrada en vigor del presente Decreto, cambiará su denominación a Centro Público de Mecanismos Alternativos de Solución de Conflictos, con independencia de la nueva Ley que se emita en armonía con la Ley General de Mecanismos Alternativos de Solución de Conflictos.
+
+P.O. 14 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 244.- POR EL QUE SE ADICIONA EL ARTÍCULO 92 BIS A LA LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
