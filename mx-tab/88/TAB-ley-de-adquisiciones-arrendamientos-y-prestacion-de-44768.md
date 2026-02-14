@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-adquisiciones-arrendamientos-y-prestacion-de-44768"
 country: "mx"
 rank: "ley"
 publication_date: "2005-04-27"
-last_updated: "2025-09-22"
+last_updated: "2026-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 27 de abril de 2005.
 
@@ -135,13 +135,29 @@ XXII. Tratados: Los convenios celebrados por escrito entre el Gobierno de los Es
 
 XXIII. Entes públicos: Los señalados en el artículo 1 de esta Ley;
 
-> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2026)</small>
 
-XXIV. Domicilio Fiscal: Tratándose de personas físicas que realizan actividades empresariales es el local en que se encuentre el principal asiento de sus negocios. En el caso de personas jurídicas colectivas, el local en donde se encuentra la administración principal del negocio; y
+XXIV. Domicilio Fiscal: Tratándose de personas físicas que realizan actividades empresariales es el local en que se encuentre el principal asiento de sus negocios. En el caso de personas jurídicas colectivas, el local en donde se encuentra la administración principal del negocio;
 
-> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2026)</small>
 
-XXV. Investigación de mercado: La verificación de la existencia de bienes, arrendamientos o servicios de proveedores a nivel estatal, nacional o internacional y del precio estimado e imperante, basado en la información que se obtenga en la propia dependencia o entidad, de organismos públicos o privados, de fabricantes de bienes o prestadores del servicio o una combinación de dichas fuentes de información.
+XXV. Investigación de mercado: El proceso previo al inicio de los procedimientos de contratación, orientado a obtener información pertinente y acreditable para conocer las condiciones comerciales de los bienes, arrendamientos o servicios que se pretenden contratar, así como la verificación de la existencia de bienes, arrendamientos o servicios de proveedores a nivel estatal, nacional o internacional y del precio estimado e imperante, basado en la información que se obtenga en la propia Secretaría, dependencia, órgano o entidad, de organismos públicos o privados, de fabricantes de bienes o prestadores del servicio o una combinación de dichas fuentes, para así determinar la estrategia y modalidades del procedimiento, a través de la cual en cada caso se obtengan las mejores condiciones para los entes públicos contratantes;
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2026)</small>
+
+XXVI. Contrato abierto: El acto jurídico bilateral formalizado entre la Secretaría, dependencias, órganos o entidades, y los proveedores, respecto de las adquisiciones, arrendamientos de bienes muebles o servicios que se requieran de manera reiterada, que se deriva de licitaciones o adjudicaciones directas, según corresponda, en los términos de esta Ley y su Reglamento, y que establece una cantidad mínima y máxima de bienes, arrendamientos o servicios a contratar; o bien, el presupuesto mínimo y máximo que podrá ejercerse, conforme a los precios unitarios que se determinen en el procedimiento correspondiente;
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2026)</small>
+
+XXVII. Oficialía Mayor: A la Oficialía Mayor de la Secretaría de Administración y Finanzas; y
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2026)</small>
+
+XXVIII. Administrador de Contrato: La persona servidora pública responsable de dar seguimiento y verificar el cumplimiento de las obligaciones derivadas de los contratos y/o convenios inherentes a los procedimientos de adquisición, lo que documentará de acuerdo a la normatividad interna.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2026)</small>
+
+En todos los casos en que la presente Ley haga referencia a las adquisiciones, arrendamientos y servicios se entenderá que se trata, respectivamente, de adquisiciones y arrendamientos de bienes muebles, y de prestación de servicios relacionados con dichos bienes, salvo mención expresa en contrario.
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2017)</small>
 
@@ -293,9 +309,9 @@ La Secretaría podrá autorizar el pago de suscripciones, seguros o de otros ser
 
 Se crea el Comité de Compras del Poder Ejecutivo, el cual tendrá por objeto determinar las acciones tendientes a la optimización de recursos que se destinen a las adquisiciones, arrendamientos y prestación de servicios; la observancia de esta Ley y demás disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2025)</small>
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2026)</small>
 
-El Comité de Compras será integrado con voz y voto por la persona titular de la Secretaría, quien lo presidirá, así como por las personas titulares de la Secretaría de Gobierno, de la Consejería Jurídica del Poder Ejecutivo del Estado y de la Oficialía Mayor de la Secretaría, mismos que estarán facultados para nombrar a sus respectivos suplentes, conforme al Reglamento del Comité de Compras del Poder Ejecutivo. La Secretaría Anticorrupción estará representada por la persona titular o suplente que designe, y asistirá como invitado permanente, participando con voz, pero sin voto.
+El Comité de Compras será integrado con voz y voto por la Secretaría, a través de la persona titular de la Oficialía Mayor quien lo presidirá, así como por las personas titulares de la Secretaría de Gobierno y de la Consejería Jurídica del Poder Ejecutivo del Estado, mismos que estarán facultados para nombrar a sus respectivos suplentes, conforme al Reglamento del Comité de Compras del Poder Ejecutivo. La Secretaría Anticorrupción estará representada por la persona titular o suplente que designe, y asistirá como invitado permanente, participando con voz, pero sin voto.
 
 > <small>(REFORMADO, P.O. 17 DE ABRIL DE 2019)</small>
 
@@ -367,6 +383,18 @@ III. Licitación Simplificada Menor; y
 
 IV. Adjudicación Directa.
 
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2026)</small>
+
+Previo al inicio de los procedimientos de contratación previstos en este artículo, la Secretaría, dependencias, órganos y entidades, deberán realizar una investigación de mercado, conforme a la metodología que establezca el Reglamento de esta Ley y, en su caso, los lineamientos que emita la Secretaría, de la cual se desprendan las condiciones que imperan en el mismo, respecto del bien, arrendamiento o servicio objeto de la contratación.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2026)</small>
+
+Con dicha investigación de mercado deberá determinarse el procedimiento de contratación a realizar, a efecto de buscar las mejores condiciones para el Estado.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2026)</small>
+
+Los procedimientos anteriormente enunciados, inician con la confirmación de la cotización obtenida en la investigación de mercado y terminan con la notificación de la adjudicación del contrato, o bien con la determinación de la Secretaría, dependencias, órganos y entidades, de no realizar el procedimiento.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 23.
@@ -401,9 +429,9 @@ La Secretaría determinará los casos en que las licitaciones serán de carácte
 
 Estarán también consideradas como casos de excepción, los siguientes:
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2026)</small>
 
-I. Cuando previa investigación de mercado y con la debida justificación ante el Comité de Compras, que realicen la Secretaría, Dependencia, Órgano o Entidad, no exista el bien o proveedor que garantice oferta en cantidad o garantía de calidad, dentro de los inscritos en el Padrón, y se requiera una compra especializada, ésta podrá asignarse directamente al proveedor que cuente con los bienes requeridos.
+I. Cuando previa investigación de mercado y con la debida justificación ante el Comité de Compras, que realicen la Secretaría, Dependencia, Órgano o Entidad, no exista el bien o proveedor que garantice oferta en cantidad o garantía de calidad, dentro de los inscritos en el Padrón, y se requiera una compra especializada, ésta podrá asignarse directamente al proveedor que cuente con los bienes requeridos. Para lo anterior, deberá acompañarse el resultado de la investigación de mercado que sirvió de base para su selección.
 
 II. Cuando habiéndose realizado una Licitación Pública no se presente alguna propuesta, o las presentadas no cumplan con los requisitos exigidos por esta Ley.
 
@@ -471,9 +499,9 @@ VII. Requisitos legales y administrativos que deberán cumplir los licitantes;
 
 VIII. Descripción completa de los bienes o servicios, información específica sobre el mantenimiento, asistencia técnica y capacitación, relación de refacciones que deberán cotizarse cuando sean parte integrante del contrato, especificaciones y normas que, en su caso, sean aplicables, dibujos, cantidades, muestras, pruebas que se realizarán y, de ser posible, método para ejecutarlas, y período de garantía u otras opciones de cotización;
 
-> <small>(ADICIONADA, P.O. 22 DE SEPTIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2026)</small>
 
-VIII BIS. La indicación respecto a si la contratación abarcará uno o más ejercicios fiscales;
+VIII BIS. La indicación respecto a si la contratación abarcará uno o más ejercicios fiscales y/o si será un contrato abierto;
 
 IX. La indicación de si la totalidad de los bienes o servicios objeto de la Licitación Pública o bien de cada partida o concepto de los mismos, serán adjudicados a un sólo Proveedor o mediante abastecimiento simultáneo;
 
@@ -501,11 +529,17 @@ XX. Señalamiento de que será causa de descalificación la comprobación de que
 
 XXI. La manifestación del Proveedor, bajo protesta de decir verdad, que tiene la plena capacidad para proporcionar capacitación a operadores; la existencia necesaria de refacciones, instalaciones y equipo adecuado, y personal competente para brindar el servicio de mantenimiento preventivo y correctivo a los bienes adquiridos;
 
-XXII. La manifestación por escrito, bajo protesta de decir verdad por parte del Proveedor, de no encontrarse en ninguno de los supuestos del artículo 51 de la Ley; y
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2019)</small>
+XXII. La manifestación por escrito, bajo protesta de decir verdad por parte del Proveedor, de no encontrarse en ninguno de los supuestos del artículo 51 de la Ley;
 
-XXIII. Los demás requisitos que el Comité de Compras y la Secretaría consideren pertinentes y viables para asegurar los intereses del Estado.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE FEBRERO DE 2026)</small>
+
+XXIII. Los requisitos que deberán cumplir los interesados en participar en el procedimiento, los cuales no deberán limitar la libre participación, concurrencia y competencia económica. Se entenderá que no se limita la libre participación, cuando con la investigación de mercado correspondiente al procedimiento de contratación, se constate por regla general la existencia de al menos cinco probables proveedores que pudieran cumplir integralmente con los requerimientos de la Secretaría, dependencia, órgano o entidad; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE FEBRERO DE 2026)</small>
+
+XXIV. Los demás requisitos que el Comité de Compras y la Secretaría consideren pertinentes y viables para asegurar los intereses del Estado.
 
 ###### Artículo 28.
 
@@ -569,9 +603,9 @@ I. Los cheques dados en garantía, que se otorguen como sostenimiento de la ofer
 
 II. Tratándose de anticipo, la garantía se constituirá, previo a su otorgamiento, en un plazo que no excederá de diez días naturales, contados a partir de la fecha de suscripción del contrato;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2026)</small>
 
-III. Tratándose de cumplimiento a contratos, la garantía se constituirá dentro de un plazo que no excederá de diez días naturales, contados a partir de la fecha de suscripción del contrato.
+III. Tratándose de cumplimiento a contratos, la garantía se constituirá dentro de un plazo que no excederá de diez días naturales, contados a partir de la fecha de suscripción del contrato. Cuando el plazo de ejecución sea igual o menor a diez días naturales, la garantía a la que se refiere la presente fracción podrá ser exceptuada a petición expresa del prestador de servicio, siempre que se cuente con la autorización del Administrador del Contrato.
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 1 DE FEBRERO DE 2025)</small>
 
@@ -643,7 +677,9 @@ En la modalidad de Licitación Simplificada Mayor, la Secretaría, dependencias,
 
 La modalidad de Licitación Simplificada Menor, se podrá ejercer por la Secretaría, dependencias, órganos y entidades para la contratación de adquisiciones, arrendamientos y prestación de servicios, sin sujetarse al procedimiento de Licitación Pública, a través de invitación a cuando menos tres licitantes, siempre que el monto del Contrato o pedido no exceda de los montos establecidos para tal efecto en el Presupuesto General de Egresos del Estado o el que corresponda.
 
-En cualquiera de las anteriores modalidades se invitará a los licitantes que cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos, financieros y demás que sean necesarios y cuyas actividades comerciales o profesionales estén relacionadas con los bienes, arrendamientos o servicios objeto del pedido o Contrato a celebrarse.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2026)</small>
+
+En cualquiera de las anteriores modalidades se invitará a los licitantes que cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos, financieros y demás que sean necesarios y cuyas actividades comerciales o profesionales estén relacionadas con los bienes, arrendamientos o servicios objeto del pedido o Contrato a celebrarse. En su caso, la invitación deberá especificar si será un contrato abierto.
 
 En las Licitaciones Simplificadas Menores y Mayores se deberán entregar las cotizaciones por escrito en sobre cerrado y firmado por el licitante, en el período y horario establecido. Cumplido el término para la recepción de cotizaciones, se elaborará y firmará una relación de los sobres recibidos, la cual se presentará invariablemente en la fecha de la reunión correspondiente; en esta se procederá a la apertura de sobres y al análisis y valorización de las propuestas a fin de elaborar el cuadro comparativo de cotizaciones, bajo el cual se efectuará la designación del Proveedor ganador y la adjudicación de los pedidos y contratos.
 
@@ -761,6 +797,18 @@ II. La adquisición de los bienes o líneas de bienes que, en los términos de l
 
 III. Si los bienes o líneas de bienes fueran de aquellos en cuya adquisición no se aplique el procedimiento de Licitación Pública previsto en los artículos 21 y 22, fracción I, de la Ley, la Dependencia, Órgano o Entidad, con excepción de las adquisiciones de bienes a que se refiere la fracción I del artículo 39, deberá obtener previamente a la adjudicación del pedido o Contrato, las cotizaciones que le permitan elegir aquellas que ofrezcan mejores condiciones.
 
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2026)</small>
+
+###### Artículo 40 Bis.
+
+Para determinar la procedencia de contratar con una dependencia, entidad o persona de derecho público federal o local, la Secretaría, dependencias, órganos desconcentrados y entidades de la Administración Pública del Estado, deberán:
+
+1.- Realizar la investigación de mercado a que se refiere el artículo 22, párrafo segundo, de esta Ley, que permita acreditar que con dicha contratación se aseguran las mejores condiciones para el Estado;
+
+2.- Solicitar a la dependencia, entidad o persona de derecho público federal o local, que funja como proveedor, la documentación que acredite que cuenta con la capacidad técnica, material y humana para la realización del objeto del contrato y que, por ello, no requerirá de la contratación con terceros. Dicha documentación deberá ser entregada antes de la firma del contrato y deberá formar parte del expediente respectivo bajo la responsabilidad de la Secretaría, dependencia, entidad u órgano desconcentrado; y
+
+3.- Verificar y documentar que las atribuciones u objeto de la dependencia o entidad o persona de derecho público federal o local que funja como proveedor estén relacionadas con el objeto del contrato a celebrarse.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 41.
@@ -801,11 +849,33 @@ X. La descripción pormenorizada de los bienes o prestación de servicios objeto
 
 XI. Salvo que exista impedimento, la estipulación de que los derechos de autor u otros derechos exclusivos, que se deriven de los servicios de consultorías, asesorías, estudios e investigaciones contratados, invariablemente se constituirán en favor del Gobierno del Estado.
 
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2026)</small>
+
+###### Artículo 42 Bis.
+
+La Secretaría, dependencias, órganos y entidades, podrán celebrar contratos abiertos para adquirir bienes, arrendamientos o servicios que requieran de manera reiterada conforme a lo siguiente:
+
+I. Se establecerá la cantidad mínima y máxima de los bienes, arrendamientos o servicios a contratar; o bien, el presupuesto mínimo y máximo que podrá ejercerse. La cantidad o presupuesto mínimo no podrá ser inferior al cuarenta por ciento de la cantidad o presupuesto máximo.
+
+En casos de bienes que se fabriquen en forma exclusiva para las dependencias y entidades, la cantidad o presupuesto mínimo que se requiera no podrá ser inferior al ochenta por ciento de la cantidad o presupuesto máximo que se establezca.
+
+Se entenderá por bienes de fabricación exclusiva los que requieren un proceso de fabricación especial determinado por la dependencia o entidad.
+
+No se podrán establecer plazos de entrega en los cuales no sea factible producir los bienes, y
+
+II. Se hará una descripción completa de los bienes, arrendamientos o servicios con sus correspondientes precios unitarios.
+
+Las dependencias y entidades con la aceptación del proveedor podrán realizar modificaciones a los contratos o pedidos hasta en un veinte por ciento de la cantidad o presupuesto máximo de alguna partida originalmente pactada, utilizando para su pago el presupuesto de otra u otras partidas previstas en el propio contrato, siempre que no resulte un incremento en el monto máximo total del contrato, sin perjuicio de lo dispuesto en el artículo 43 de esta Ley.
+
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 2025)</small>
 
 ###### Artículo 43.
 
 Dentro del presupuesto aprobado y disponible, la Secretaría previo acuerdo con la Dependencia, Órgano o Entidad, podrá modificar los pedidos y contratos en el ejercicio correspondiente, bajo su responsabilidad y por razones fundadas, siempre que el monto total de las modificaciones no exceda, en conjunto, el veinte por ciento del monto total del documento firmado.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2026)</small>
+
+Tratándose de contratos abiertos en los que se incluyan dos o más partidas, el porcentaje al que hace referencia el párrafo anterior se aplicará para cada una de ellas.
 
 ###### Artículo 44.
 
@@ -1452,3 +1522,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. En un plazo no mayor a noventa días naturales a partir de la entrada en vigor del presente Decreto, deberán realizarse las adecuaciones que, en su caso, se consideren necesarias a la normatividad local.
+
+P.O. 14 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 232 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 2, FRACCIONES XXIV Y XXV; 17, PÁRRAFO SEGUNDO; 25, FRACCIÓN I; 27, FRACCIONES VIII BIS, XXII Y XXIII; 32, FRACCIÓN III; 36, PÁRRAFO TERCERO. SE ADICIONAN LAS FRACCIONES XXVI, XXVII Y XXVIII Y UN PÁRRAFO SEGUNDO AL ARTÍCULO 2; LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO AL ARTÍCULO 22; UNA FRACCIÓN XXIV AL ARTÍCULO 27; LOS ARTÍCULOS 40 BIS Y 42 BIS; UN PÁRRAFO SEGUNDO AL ARTÍCULO 43. TODOS DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y PRESTACIÓN DE SERVICIOS DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. En un plazo que (sic) no mayor a noventa días naturales a partir de la entrada en vigor del presente Decreto, deberán realizarse las adecuaciones conducentes al Reglamento de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios del Estado de Tabasco y, en su caso, a las disposiciones que resulten necesarias para el cumplimiento del presente Decreto.
