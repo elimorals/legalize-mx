@@ -4,7 +4,7 @@ identifier: "TAB-ley-para-prevenir-y-eliminar-la-discriminacion-en-el-estado-114
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-14"
-last_updated: "2025-11-15"
+last_updated: "2026-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114785&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2026.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 14 de mayo de 2016.
 
@@ -295,7 +295,9 @@ Los Entes Públicos que establezcan e instrumenten medidas de nivelación, medid
 
 Se crea el Consejo Estatal para Prevenir y Erradicar la Discriminación, como un mecanismo de coordinación interinstitucional para la planeación, establecimiento, impulso, seguimiento y evaluación de los programas y acciones de los Entes Públicos del orden estatal y municipal, para prevenir y erradicar toda forma de discriminación; así como para impulsar acciones de coordinación y concertación entre los sectores público, social y privado, para la vigilancia de la aplicación de la presente Ley.
 
-El Consejo Estatal contará con un Secretariado Ejecutivo, que tendrá la naturaleza de órgano desconcentrado de la Secretaría de Desarrollo Social del Gobierno del Estado, responsable de auxiliar al propio Consejo en el ejercicio de sus atribuciones y dar seguimiento a los programas, políticas públicas, compromisos, acuerdos y acciones que se establezcan.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2026)</small>
+
+El Consejo Estatal contará con un Secretariado Ejecutivo, que tendrá la naturaleza de órgano desconcentrado de la Secretaría de Gobierno, responsable de auxiliar al propio Consejo en el ejercicio de sus atribuciones y dar seguimiento a los programas, políticas públicas, compromisos, acuerdos y acciones que se establezcan.
 
 ###### Artículo 22.
 
@@ -317,29 +319,53 @@ VI. Contribuir al desarrollo de una cultura ciudadana de tolerancia y no discrim
 
 El Consejo Estatal estará conformado por:
 
-I. El Gobernador del Estado de Tabasco, quien lo presidirá;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2026)</small>
 
-II. El titular de la Secretaría de Desarrollo Social;
+I. El Gobernador o Gobernadora del Estado de Tabasco, quien lo presidirá;
 
-III. El titular de la Secretaría de Gobierno;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2026)</small>
 
-IV. El titular de la Secretaría de Educación;
+II. La persona titular de la Secretaría de Gobierno;
 
-V. El titular de la Secretaría de Salud;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2026)</small>
 
-VI. El titular del Instituto Estatal de la Mujer;
+III. La persona titular de la Secretaría de Bienestar;
 
-VII. El Coordinador General del Sistema DIF Estatal;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2026)</small>
 
-VIII. El Presidente de la Comisión Estatal de los Derechos Humanos;
+IV. La persona titular de la Secretaría de Educación;
 
-IX. El Diputado Presidente de la Comisión de Desarrollo Social del Congreso del Estado;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2026)</small>
 
-X. El Diputado Presidente de la Comisión de Derechos Humanos del Congreso del Estado; y
+V. La persona titular de la Secretaría de Salud;
 
-XI. Un Presidente Municipal correspondiente a cada una de las subregiones en que se divide el Estado.
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2026)</small>
 
-Por cada integrante del Consejo Estatal habrá un suplente, quien cubrirá sus ausencias. En el caso del Gobernador, su suplente será el titular de la Secretaría de Desarrollo Social.
+VI. La titular del Instituto Estatal de las Mujeres;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2026)</small>
+
+VII. La persona titular de la Coordinación General del Sistema DIF Estatal;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2026)</small>
+
+VIII. La persona que presida la Comisión Estatal de los Derechos Humanos;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2026)</small>
+
+IX. La persona que presida la Comisión Ordinaria de Bienestar Social, Asuntos Indígenas, Atención a Grupos Vulnerables, Adultos Mayores y Personas con Discapacidades;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2026)</small>
+
+X. La persona que presida la Comisión Ordinaria de Derechos Humanos, Igualdad de Género y Asuntos de la Frontera Sur; y
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2026)</small>
+
+XI. Un Presidente o Presidenta Municipal correspondiente a cada una de las subregiones en que se divide el Estado.
+
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2026)</small>
+
+Por cada persona integrante del Consejo Estatal habrá un suplente, quien cubrirá sus ausencias. En el caso del Gobernador o Gobernadora, su suplente será la persona titular de la Secretaría de Gobierno.
 
 El Secretario Ejecutivo asistirá a las sesiones del Consejo, con voz pero sin voto.
 
@@ -347,7 +373,9 @@ El Secretario Ejecutivo asistirá a las sesiones del Consejo, con voz pero sin v
 
 El Consejo Estatal sesionará de manera ordinaria, como mínimo, cada cuatro meses y de manera extraordinaria cuando sea necesario, previa convocatoria.
 
-Para que las sesiones del Consejo Estatal sean válidas, se requerirá de la asistencia de más de la mitad de sus integrantes. Sus acuerdos se tomarán por mayoría de votos de los integrantes presentes. En caso de empate el Presidente del Consejo tendrá voto de calidad.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2026)</small>
+
+Para que las sesiones del Consejo Estatal sean válidas, se requerirá de la asistencia de más de la mitad de sus integrantes. Sus acuerdos se tomarán por mayoría de votos de los integrantes presentes. En caso de empate la persona que presida el Consejo tendrá voto de calidad.
 
 El Consejo Estatal funcionará y ejercerá sus atribuciones de conformidad con lo que establezca su Reglamento.
 
@@ -403,9 +431,11 @@ El Consejo Estatal difundirá periódicamente los avances, resultados e impactos
 
 Los Ayuntamientos, en el ámbito de sus respectivas competencias, podrán crear Consejos Municipales honoríficos análogos al Consejo Estatal, para coadyuvar al cumplimiento de los objetivos establecidos en la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 28.
 
-El Consejo Estatal, a propuesta del Gobernador, aprobará el nombramiento de la persona que ocupe la titularidad de la Secretaría Ejecutiva del Consejo, quien deberá reunir para su designación los siguientes requisitos:
+El Consejo Estatal, a propuesta del Gobernador o Gobernadora, aprobará el nombramiento de la persona que ocupe la titularidad de la Secretaría Ejecutiva del Consejo, quien deberá reunir para su designación los siguientes requisitos:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
 
@@ -415,11 +445,15 @@ III. Tener como mínimo treinta años de edad, al día de su nombramiento; y
 
 IV. Contar con título y cédula profesional.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 29.
 
-El titular de la Secretaría Ejecutiva tendrá las siguientes obligaciones y atribuciones:
+La persona titular de la Secretaría Ejecutiva tendrá las siguientes obligaciones y atribuciones:
 
-I. Colaborar y asistir al Consejo Estatal y a su Presidente, en las tareas propias de su encargo;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2026)</small>
+
+I. Colaborar y asistir al Consejo Estatal y a su Presidente o Presidenta, en las tareas propias de su encargo;
 
 II. Proponer al Consejo Estatal, un anteproyecto del Programa Anual de Trabajo y de (sic) calendario de sesiones del propio Consejo;
 
@@ -463,7 +497,9 @@ Independientemente de lo señalado en el artículo anterior, los órganos intern
 
 En lo que se refiere a la probable comisión del delito de Discriminación, previsto en el Código Penal para el Estado de Tabasco, cualquier servidor público que tenga conocimiento de ello con motivo de sus funciones, independientemente de las víctimas del delito, tendrá la obligación de presentar la denuncia que corresponda.
 
-En todo caso, tanto los servidores públicos de la Comisión Estatal como los de cualquier Ente Público, prestarán los servicios de apoyo, orientación, asistencia y asesoría a los afectados por el delito de discriminación, de conformidad con lo que al efecto señalan el Código Nacional de Procedimientos Penales, la Ley de Atención, Apoyo y Protección a Víctimas u Ofendidos en el Estado de Tabasco y demás leyes y ordenamientos aplicables.
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2026)</small>
+
+En todo caso, tanto los servidores públicos de la Comisión Estatal como los de cualquier Ente Público, prestarán los servicios de apoyo, orientación, asistencia y asesoría a los afectados por el delito de discriminación, de conformidad con lo que al efecto señalan el Código Nacional de Procedimientos Penales, la Ley de Atención a Víctimas del Estado de Tabasco y demás leyes y ordenamientos aplicables.
 
 ### CAPÍTULO VIII. DE LAS MEDIDAS ADMINISTRATIVAS Y DE REPARACIÓN
 
@@ -515,9 +551,11 @@ Los Entes Públicos según corresponda a su competencia, deberán proceder confo
 
 No obstante, los costos que se generen por esos conceptos deberán ser asumidos por la persona a la que se le haya imputado el acto, omisión o práctica discriminatoria.
 
+> <small>(REFORMADO, P.O. 14 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 40.
 
-Los servidores públicos que sean sancionados en términos de la presente Ley, podrán recurrir a los recursos que para cada caso se encuentren expresamente contemplados en los procedimientos administrativos a los que sean sometidos.
+Las personas servidoras públicas que sean sancionadas en términos de la presente Ley, podrán recurrir a los recursos que para cada caso se encuentren expresamente contemplados en los procedimientos administrativos a los que sean sometidas.
 
 ## TRANSITORIOS
 
@@ -562,3 +600,13 @@ P.O. 15 DE NOVIEMBRE DE 2025.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO.- Al momento de la entrada en vigor de la presente Ley, queda sin efecto cualquier disposición contraria a la misma.
+
+P.O. 14 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 233 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 21, PÁRRAFO SEGUNDO; 23, PÁRRAFOS PRIMERO, FRACCIONES I, II, III, IV, V, VI, VII, VIII, IX Y X Y SEGUNDO; 24, PÁRRAFO SEGUNDO; 28, PÁRRAFO PRIMERO; 29, PÁRRAFO PRIMERO Y FRACCIÓN I; 34, PÁRRAFO SEGUNDO; Y 40; TODOS DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+TERCERO. En un plazo no mayor a 180 días naturales contados a partir de la entrada en vigor del presente Decreto, el titular del Poder Ejecutivo del Estado deberá realizar las adecuaciones que, en su caso, sean necesarias para el cumplimiento del presente Decreto.
