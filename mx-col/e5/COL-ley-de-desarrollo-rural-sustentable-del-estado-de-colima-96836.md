@@ -4,7 +4,7 @@ identifier: "COL-ley-de-desarrollo-rural-sustentable-del-estado-de-colima-96836"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-07"
-last_updated: "2024-08-31"
+last_updated: "2026-02-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2026.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 07 de diciembre de 2013.
 
@@ -179,7 +179,9 @@ XXXVII. Seguridad Alimentaria: Las estrategias y medidas para garantizar el abas
 
 XXXVIII. Servicios Ambientales o beneficios ambientales: Los beneficios que obtiene la sociedad de los recursos naturales, tales como la provisión y calidad del agua, la captura de contaminantes, la mitigación del efecto de los fenómenos naturales adversos, el paisaje y la recreación, entre otros;
 
-XXXIX. Secretaría: La Secretaría de Desarrollo Rural del Gobierno del Estado de Colima;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2026)</small>
+
+XXXIX. Secretaría: La Secretaría de Desarrollo Económico del Gobierno del Estado de Colima, por conducto de la Subsecretaría de Desarrollo Rural;
 
 XL. Sagarpa: La Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación del Gobierno Federal;
 
@@ -287,23 +289,41 @@ Son instancias gubernamentales concurrentes para efectos de esta Ley, en el ámb
 
 I. Secretaría General de Gobierno;
 
-II. Secretaría de Planeación;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2026)</small>
 
-III. Secretaría de Finanzas y Administración;
+II. Secretaría de Planeación, Finanzas y Administración;
 
-IV. Procuraduría General de Justicia;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2026)</small>
 
-V. Secretaría de Desarrollo Social;
+III. Secretaría de Bienestar, Inclusión Social y Mujeres;
 
-VI. Secretaría de Salud y Bienestar Social;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2026)</small>
 
-VII. Secretaría de Educación;
+IV. Fiscalía General del Estado de Colima;
 
-VIII. Secretaría de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2026)</small>
 
-IX. Secretaría de Fomento Económico; y
+V. Secretaría de Salud;
 
-X. La Comisión Estatal del Agua.
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2026)</small>
+
+VI. Secretaría de Educación y Cultura;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2026)</small>
+
+VII. Secretaría de Infraestructura, Desarrollo Urbano y Movilidad;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2026)</small>
+
+VIII. Secretaría de Desarrollo Económico;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2026)</small>
+
+IX. La Comisión Estatal del Agua; y
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2026)</small>
+
+X. El Instituto Colimense de las Mujeres.
 
 ###### Artículo 14.
 
@@ -335,7 +355,9 @@ XII. Las que acrediten y autorice el Consejo Estatal.
 
 ### CAPÍTULO III. DISTRIBUCIÓN DE COMPETENCIAS
 
-#### SECCIÓN I. DE LA SECRETARÍA DE DESARROLLO RURAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE FEBRERO DE 2026)</small>
+
+#### SECCIÓN I. DE LA SECRETARÍA DE DESARROLLO ECONÓMICO
 
 ###### Artículo 15.
 
@@ -437,7 +459,11 @@ VIII. Procurar establecer en su Presupuesto de Egresos una partida para programa
 
 IX. Difundir los planes, programas y acciones que coadyuven al desarrollo rural sustentable de su municipio; y
 
-X. Las demás que determinen esta Ley y demás ordenamientos aplicables.
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2026)</small>
+
+X. Promover la participación en el sector rural a fin de fomentar la integración de unidades agrícolas industriales de las mujeres; y
+
+XI. Las demás que determinen esta Ley y demás ordenamientos aplicables.
 
 ## TÍTULO SEGUNDO. DE LA PLANEACIÓN Y COORDINACIÓN DE LA POLÍTICA PARA EL DESARROLLO RURAL SUSTENTABLE
 
@@ -673,9 +699,19 @@ XIII. Coadyuvar en la instrumentación de las acciones para la mitigación y ada
 
 XIV. Instrumentar sistemas de seguimiento, control y evaluación de planes y programas del sector rural;
 
-XV. Procurar la continuidad y suficiencia de los planes y programas de trabajo con una visión de largo alcance a través de trienios y sexenios gubernamentales; y
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2026)</small>
+
+XIV (SIC). Procurar la continuidad y suficiencia de los planes y programas de trabajo con una visión de largo alcance a través de trienios y sexenios gubernamentales;
 
 XVI. Generar, integrar y hacer accesible la información requerida para el seguimiento de la gestión y la toma de decisiones de todos los agentes vinculados al desarrollo rural.
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2026)</small>
+
+XVI (SIC). Fortalecer la organización social y productiva de las mujeres rurales; y
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2026)</small>
+
+XVII. Fortalecer la igualdad sustantiva entre mujeres y hombres en todas las políticas, programas, proyectos y acciones relacionadas con el desarrollo rural en los diversos niveles.
 
 > <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2016)</small>
 
@@ -773,23 +809,45 @@ El Reglamento Interno del Consejo Estatal establecerá las bases y lineamientos 
 
 El Consejo Estatal estará integrado por:
 
-I. Un presidente, que será el gobernador del Estado;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2026)</small>
 
-II. Un Secretario Ejecutivo, que será el Secretario de Desarrollo Rural;
+I. Una Presidencia, que será la persona titular del Poder Ejecutivo del Estado;
 
-III. Un Secretario Técnico, que será el Delegado Estatal de la SAGARPA;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2026)</small>
 
-IV. Un representante elegido por cada Consejo Distrital;
+II. Una Secretaría Ejecutiva, que será la persona titular de la Secretaría de Desarrollo Económico;
 
-V. Un representante de cada distrito de desarrollo rural;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2026)</small>
+
+III. Una Secretaría Técnica, que será la persona titular de la Delegación Estatal de la SAGARPA;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2026)</small>
+
+IV. Una persona representante elegida por cada Consejo Distrital;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2026)</small>
+
+V. Una persona representante de cada distrito de desarrollo rural;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE FEBRERO DE 2026)</small>
 
 VI. Las instituciones de educación e investigación pública agropecuaria;
 
-VII. Los representantes de las dependencias y entidades que forman parte de la Comisión Intersecretarial;
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2026)</small>
 
-VIII. Los representantes de las organizaciones sociales y privadas del sector rural; y
+VII. Personas representantes de las dependencias y entidades que forman parte de la Comisión Intersecretarial;
 
-IX. El Congreso del Estado, a través de las comisiones, que se encuentren relacionadas con el sector rural.
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2026)</small>
+
+VIII. Personas representantes de las organizaciones sociales y privadas del sector rural;
+
+> <small>(REFORMADA, P.O. 14 DE FEBRERO DE 2026)</small>
+
+IX. El Congreso del Estado, a través de las comisiones, que se encuentren relacionadas con el sector rural; y
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2026)</small>
+
+X. La persona titular del Instituto Colimense de las Mujeres.
 
 ###### Artículo 54.
 
@@ -1698,3 +1756,9 @@ P.O. 31 DE AGOSTO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 482.- POR EL QUE SE REFORMA LA FRACCIÓN XVIII DEL ARTÍCULO 16 DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE COLIMA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 14 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 246.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
