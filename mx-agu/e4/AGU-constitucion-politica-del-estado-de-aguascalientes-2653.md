@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2026-02-02"
+last_updated: "2026-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -115,9 +115,9 @@ La familia es la base fundamental de la sociedad y tiene derecho a la protecció
 
 Por la misma razón, la familia y, particularmente, niñas, niños, adolescentes, personas con discapacidad, personas adultas mayores y cualquier otra persona en situación de vulnerabilidad, serán sujetos de especial protección por parte de las autoridades legislativas, administrativas y jurisdiccionales. Toda medida o disposición protectoras de la familia se considerarán de orden público. El Estado deberá reconocer, fomentar, promover e impulsar valores sociales y políticas públicas destinadas a fortalecer el desarrollo armónico de la familia como núcleo de la sociedad.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2026)</small>
 
-El interés superior de la niñez regirá como principio vinculante en todas las decisiones y actuaciones del Estado, particularmente en el desarrollo de la función jurisdiccional. Los niños, las niñas y los adolescentes tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación integral.
+En todas las decisiones y actuaciones del Estado se velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez. Las niñas, niños y adolescentes tienen derecho a la satisfacción de sus necesidades de alimentación, salud física y emocional, educación y sano esparcimiento para su desarrollo integral.
 
 > <small>(REFORMADO, P.O. 6 DE JULIO DE 2015)</small>
 
@@ -807,9 +807,13 @@ Estas Leyes no podrán ser vetadas ni necesitarán de promulgación del Ejecutiv
 
 XXVII.- Nombrar y remover a los servidores públicos de sus dependencias, así como al Auditor Superior del Estado.
 
-XXVIII.- Legislar en materia de responsabilidades de los servidores públicos.
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2026)</small>
 
-XXIX.- Expedir las leyes que regulen las relaciones del Estado y de los Municipios con sus trabajadores.
+XXVIII.- Legislar en materia de responsabilidades administrativas de los servidores públicos.
+
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2026)</small>
+
+XXIX.- Expedir las leyes que regulen las relaciones de los Poderes Ejecutivo, Legislativo y Judicial, los Municipios, así como de los Órganos Constitucionales Autónomos con sus trabajadores, precisando para estos últimos, dichas disposiciones serán aplicables de manera supletoria, respetando en todo momento su autonomía constitucional, funcional y administrativa.
 
 > <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2010)</small>
 
@@ -4754,6 +4758,22 @@ Una vez cubiertos los extremos legales que establece el artículo 94 de la Const
 P.O. 2 DE FEBRERO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 354.- SE ADICIONAN LOS PÁRRAFOS AL ARTÍCULO 7o. A DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, una vez cubiertos los extremos del artículo 94 de la Constitución Política del Estado de Aguascalientes.
+
+P.O. 16 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 339.- SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 4° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, una vez cubiertos los extremos del artículo 94 de la Constitución Política del Estado de Aguascalientes.
+
+P.O. 16 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 340.- SE REFORMAN LAS FRACCIONES XXVIII Y XXIX DEL ARTÍCULO 27 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES".]
 
 ###### ARTÍCULO ÚNICO.
 
