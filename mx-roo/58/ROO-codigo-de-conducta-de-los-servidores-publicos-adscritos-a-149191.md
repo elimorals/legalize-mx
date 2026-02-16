@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-conducta-de-los-servidores-publicos-adscritos-a-14919
 country: "mx"
 rank: "codigo"
 publication_date: "2021-04-21"
-last_updated: "2021-04-21"
+last_updated: "2026-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149191&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # CODIGO DE CONDUCTA DE LOS SERVIDORES PUBLICOS ADSCRITOS A LA SECRETARIA DEL TRABAJO Y PREVISION SOCIAL Y A SU ORGANO DESCONCENTRADO DENOMINADO SERVICIO ESTATAL DEL EMPLEO Y CAPACITACION PARA EL TRABAJO DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL Y SU ÓRGANO DESCONCENTRADO DENOMINADO SERVICIO ESTATAL DEL EMPLEO Y CAPACITACIÓN PARA EL TRABAJO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 16 DE FEBRERO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LOS SERVIDORES PÚBLICOS ADSCRITOS A LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL Y A SU ÓRGANO DESCONCENTRADO DENOMINADO SERVICIO ESTATAL DEL EMPLEO Y CAPACITACIÓN PARA EL TRABAJO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2026 (ABROGADO).
 
 Código publicado en el Número 63 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 21 de abril de 2021.
 
@@ -282,3 +284,17 @@ SEGUNDO.- La Secretaría del Trabajo y Previsión Social publicará en su págin
 DADO EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS OCHO DÍAS DEL MES DE ABRIL DEL AÑO DOS MIL VEINTIUNO.
 
 LIC. CATALINA SAARVELIA PORTILLO NAVARRO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DE "SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL. CÓDIGO DE CONDUCTA DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL Y SU ÓRGANO DESCONCENTRADO DENOMINADO SERVICIO ESTATAL DEL EMPLEO Y CAPACITACIÓN PARA EL TRABAJO DE QUINTANA ROO".]
+
+PRIMERO. El presente Acuerdo entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. La Secretaría del Trabajo y Previsión Social, publicará en su página de Internet institucional, al día siguiente de la entrada en vigor del presente instrumento
+
+jurídico.
+
+TERCERO. Se abroga el Acuerdo por el cual se emitió el Código de Conducta de los Servidores Públicos Adscritos a la Secretaría del Trabajo y Previsión Social y a su Órgano Desconcentrado denominado Servicio Estatal del Empleo y Capacitación para el Trabajo de Quintana Roo de fecha 21 de abril del año 2021.
