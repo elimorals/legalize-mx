@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-pesca-y-acuacultura-sustentables-del-estado-de-82804"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-01"
-last_updated: "2025-04-29"
+last_updated: "2026-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 1 de septiembre de 2011.
 
@@ -268,6 +268,10 @@ IV. Celebrar convenios o acuerdos de coordinación con el Gobierno Federal en ma
 V. Ejercer las funciones que le transfiera la Federación, conforme a lo previsto en la Ley General;
 
 VI. Fomentar y promover las actividades pesqueras y acuícolas, primarias y de postproducción, así como el desarrollo integral de quienes participan en dichas actividades;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2026)</small>
+
+VI Bis. Fomentar y promover la capacitación constante a cooperativas, empresas u organizaciones pesqueras y acuícolas, preferentemente las operadas por mujeres y por grupos en situación de vulnerabilidad;
 
 VII. Promover la creación y operación de esquemas y mecanismos de financiamiento adecuados para el desarrollo integral de la actividad pesquera y acuícola, así como participar en la operación del Fondo Mexicano para el Desarrollo Pesquero y Acuícola, en los términos de la Ley General;
 
@@ -1330,3 +1334,15 @@ P.O. 29 DE ABRIL DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-969 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN VI BIS, AL ARTÍCULO 8, DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Desarrollo Rural, Pesca y Acuacultura contará con un plazo de 180 días naturales a partir de la entrada en vigor del presente Decreto, para adecuar los programas, lineamientos y acciones necesarios para el cumplimiento de lo dispuesto en el mismo.
