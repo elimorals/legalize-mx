@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2026-01-28"
+last_updated: "2026-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -1559,9 +1559,9 @@ Corresponde a la Secretaría:
 
 I.- Desarrollar investigación permanente y sistemática de los riesgos y daños que para la salud de la población origine la contaminación ambiental;
 
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2026)</small>
 
-II.- Vigilar la calidad del agua para uso y consumo humano; esta acción comprende la verificación de que en todos los comercios, restaurantes y establecimientos destinados al consumo de alimentos y bebidas no alcohólicas y alcohólicas en estado natural, mezcladas o preparadas, se proporcione de manera obligatoria y gratuita, agua purificada a sus clientes;
+II.- Vigilar la calidad del agua para uso y consumo humano; esta acción comprende la verificación de que en todos los comercios, restaurantes y establecimientos donde se preparen o expendan alimentos y bebidas no alcohólicas y alcohólicas en estado natural, mezcladas o preparadas, se proporcione de manera obligatoria y gratuita agua purificada a los clientes, y que el personal utilice equipo de protección e higiene personal como cubrebocas, guantes y malla o gorro para el cabello, para evitar la contaminación de los productos y garantizar la inocuidad alimentaria;
 
 III.- Vigilar la seguridad radiológica para el uso y aprovechamiento de las fuentes de radiación con aplicaciones médicas, sin perjuicio de la intervención que corresponda a las autoridades competentes;
 
@@ -2172,6 +2172,14 @@ Las clínicas a que se hace referencia en la fracción II de este artículo son 
 > <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2003)</small>
 
 B).- Requerirán constancia sanitaria los establecimientos que se dediquen al almacenamiento, distribución y enajenación de bebidas alcohólicas y aquéllos en los que se consuman o suministren dichas bebidas.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2026)</small>
+
+C).- Los establecimientos funerarios, crematorios y de disposición final de cadáveres que, conforme a los supuestos previstos en la presente Ley, requieran licencia sanitaria para su funcionamiento, deberán contar con un responsable sanitario, quien será la persona encargada de vigilar el cumplimiento de las disposiciones sanitarias aplicables al funcionamiento del establecimiento.
+
+> <small>[N. DE E. PERTENECE AL INCISO C, P.O. 17 DE FEBRERO DE 2026]</small>
+
+La persona responsable podrá ser un médico cirujano con título y cédula profesional vigente, o bien un profesional asociado en dirección funeraria, técnico en embalsamamiento o equivalente, siempre que cuente con la acreditación y certificación correspondiente expedida por institución reconocida y se encuentre registrado ante la autoridad sanitaria estatal.
 
 ###### ARTICULO 120.
 
@@ -4200,3 +4208,27 @@ P.O. 28 DE ENERO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 66-967 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 67 DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS EN MATERIA DE HIGIENE Y PROTECCIÓN SANITARIA EN ESTABLECIMIENTOS DE ALIMENTOS Y BEBIDAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto a la Secretaría de Salud del Estado, a fin de que, por conducto de la Comisión Estatal para la Protección contra Riesgos Sanitarios (COEPRIS), se establezcan los lineamientos y procedimientos de verificación, inspección y coordinación con las autoridades sanitarias competentes.
+
+P.O. 17 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 66-968 MEDIANTE EL CUAL SE ADICIONA UN INCISO C) AL ARTÍCULO 119 DE LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Salud del Estado emitirá los lineamientos para el registro y acreditación de las personas responsables sanitarias a que se refiere el presente Decreto.
