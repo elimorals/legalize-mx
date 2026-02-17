@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transito-del-estado-de-tamaulipas-antes-ley-de-8214"
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-30"
-last_updated: "2025-11-21"
+last_updated: "2026-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el lunes 30 de noviembre de 1987.
 
@@ -536,6 +536,22 @@ II.- Automovilista;
 III.- Motociclista; y
 
 IV.- Aprendiz.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 17 DE FEBRERO DE 2026)</small>
+
+Para la expedición de licencia tipo motociclista, la autoridad competente deberá exigir, además de los requisitos generales aplicables, la aprobación de:
+
+I.- Examen teórico sobre normas de tránsito, conducción segura y responsabilidades del conductor; y
+
+II.- Examen práctico de habilidades de manejo y control del vehículo.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2026)</small>
+
+La autoridad emitirá los lineamientos para el contenido, criterios de evaluación, calificación y acreditación de los exámenes, garantizando objetividad, igualdad de trato y trazabilidad de resultados.
+
+> <small>(ADICIONADO, P.O. 17 DE FEBRERO DE 2026)</small>
+
+La aplicación de los exámenes podrá realizarse con el auxilio de personas físicas o morales mediante los instrumentos jurídicos y procedimientos que establezca la legislación aplicable; en todo caso, la evaluación, validación del resultado y expedición de la licencia serán responsabilidad exclusiva de la autoridad competente.
 
 > <small>(ADICIONADO, P.O. 8 DE JULIO DE 2025)</small>
 
@@ -1616,6 +1632,14 @@ La Secretaría de Finanzas realizará, en su caso, las modificaciones presupuest
 P.O. 21 DE NOVIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-552 MEDIANTE EL CUAL SE ADICIONA UN ARTÍCULO 14 QUINQUIES A LA LEY DE TRÁNSITO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-966 MEDIANTE EL CUAL SE ADICIONAN LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO, AL ARTÍCULO 19 QUATER, DE LA LEY DE TRÁNSITO".]
 
 ###### ARTÍCULO ÚNICO.
 
