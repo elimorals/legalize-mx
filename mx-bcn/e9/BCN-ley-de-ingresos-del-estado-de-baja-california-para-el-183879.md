@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ingresos-del-estado-de-baja-california-para-el-183879"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2025-12-23"
-last_updated: "2025-12-23"
+last_updated: "2026-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=183879&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA PARA EL EJERCICIO FISCAL DEL AÑO 2026
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2026.
 
 Ley publicada en el Número Especial 75 del Periódico Oficial del Estado de Baja California, el martes 23 de diciembre de 2025.
 
@@ -5273,7 +5273,9 @@ Lo dispuesto en el presente artículo transitorio, no excluye la obligación de 
 
 VIGESIMO SEGUNDO.- Los usuarios señalados en el artículo 9, párrafo noveno, podrán realizar obras o líneas encaminadas a la utilización de agua de reúso, pudiendo el importe erogado por ese concepto ser compensado con relación a su consumo de agua, previo análisis y validación por parte de las Comisiones Estatales de Servicios Públicos del Estado de las obras respectivas.
 
-VIGÉSIMO TERCERO.- Se autoriza al Poder Ejecutivo del Estado de Baja California para que, en el marco de los instrumentos jurídicos de los que se deriva la sustitución patronal entre el Fideicomiso para la Administración del Tramo Carretero Centinela-La Rumorosa (FIARUM) y el Instituto de Infraestructura de la Vivienda de Baja California (INFRAVI), realizar las gestiones necesarias para afectar como fuente de pago y/o garantía las participaciones federales presentes y futuras que correspondan al Estado, hasta por el monto necesario para el pago de las cuotas obrero patronales, en cumplimiento de las obligaciones patronales transferidas.
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2026)</small>
+
+VIGÉSIMO TERCERO.- Se autoriza al Poder Ejecutivo del Estado de Baja California para que, en el marco de los instrumentos jurídicos de los que se deriva la sustitución patronal entre el Fideicomiso para la Administración del Tramo Carretero Centinela-La Rumorosa (FIARUM) y el Instituto de Infraestructura Vial de Baja California (INFRAVI), realizar las gestiones necesarias para afectar como fuente de pago y/o garantía las participaciones federales presentes y futuras que correspondan al Estado, hasta por el monto necesario para el pago de las cuotas obrero patronales, en cumplimiento de las obligaciones patronales transferidas.
 
 VIGÉSIMO CUARTO.- Las Empresas de Participación Estatal Mayoritarias, podrán realizar contrataciones con vigencia de más de un año, a efecto de utilizarlos en las adquisiciones de bienes, prestación de servicios y obras para el cumplimiento de su objeto social, cuando se cubran totalmente con recursos privados, sin aportaciones ni garantías con recursos estatales.
 
@@ -5300,3 +5302,11 @@ GOBERNADORA DEL ESTADO DE BAJA CALIFORNIA
 ALFREDO ÁLVAREZ CÁRDENAS
 
 SECRETARIO GENERAL DE GOBIERNO DEL ESTADO DE BAJA CALIFORNIA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 219 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO TRANSITORIO VIGÉSIMO TERCERO DE LA LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA, PARA EL EJERCICIO FISCAL 2026".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
