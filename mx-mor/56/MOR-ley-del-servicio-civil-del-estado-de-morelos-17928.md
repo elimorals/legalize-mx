@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-servicio-civil-del-estado-de-morelos-17928"
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-06"
-last_updated: "2025-12-22"
+last_updated: "2026-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2000.
 
@@ -731,9 +731,21 @@ b).- Cuando sean promovidos temporalmente al ejercicio de otras comisiones, en d
 
 c).- Para desempeñar cargos de elección popular;
 
-d).- A trabajadores que sufran enfermedades no profesionales; y
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2026)</small>
 
-e).- Por razones de carácter personal del trabajador;
+d).- A trabajadores que sufran enfermedades no profesionales;
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2026)</small>
+
+e).- Por razones de carácter personal del trabajador; y
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2026)</small>
+
+f).- Cuando se trate de ausencias de madres, padres o de personas que ejerzan la guarda y custodia decretada por la autoridad judicial competente, de aquellos niños, niñas y adolescentes menores de dieciocho años, las y los hijos mayores de edad hasta los 25 años que se encuentren estudiando o presenten una discapacidad que hayan sido diagnosticados por instituciones de salud del sector público, con alguna enfermedad de tal gravedad que ponga en peligro la vida y que requieran descanso médico en los periodos críticos de tratamiento, hospitalización durante el tratamiento médico o tratamiento destinado al alivio del dolor y los cuidados paliativos.
+
+La licencia expedida tendrá una vigencia de uno y hasta veintiocho días. Podrán expedirse tantas licencias como sean necesarias durante un periodo máximo de tres años sin que excedan trescientos sesenta y cuatro días de licencia, mismos que no necesariamente deberán ser continuos, conforme a las notas de evolución y tratamiento, o indicaciones terapéuticas.
+
+En los casos de que ambos padres sean personas servidoras públicas, sólo se concederá la licencia a una de ellas.
 
 XVII.- Cubrir oportunamente el salario devengado, así como las primas, aguinaldo y otras prestaciones que de manera ordinaria o extraordinaria se devenguen por los trabajadores; y
 
@@ -1948,3 +1960,11 @@ TERCERA. La Secretaría de Administración y Finanzas expedirá a más tardar el
 Los municipios deberán informar a la Secretaría de Administración y Finanzas del Poder Ejecutivo a más tardar el 15 de enero de 2026, los datos de la Cuenta Bancaria Productiva Específica a que se refiere el artículo 15 que por virtud de este Decreto se reforma a la Ley de Coordinación Hacendaria del Estado de Morelos.
 
 CUARTA. Se derogan todas las disposiciones legales y normativas que contravengan lo señalado en el presente Decreto.
+
+P.O. 18 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS VEINTICINCO.- POR EL QUE SE ADICIONA EL INCISO F) DE LA FRACCIÓN XVI DEL ARTÍCULO 45 DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS”.]
+
+PRIMERA.- Remítase el presente Decreto a la Gobernadora del Estado Libre y Soberano de Morelos para su publicación correspondiente en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del estado de Morelos.
+
+SEGUNDA.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del estado de Morelos.
