@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-movilidad-y-seguridad-vial-antes-ley-de-movilidad-131102
 country: "mx"
 rank: "ley"
 publication_date: "2018-10-10"
-last_updated: "2026-02-02"
+last_updated: "2026-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE MOVILIDAD SUSTENTABLE Y SEGURIDAD VIAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2026.
 
 Ley publicada en la Segunda Sección del No. 125 del Periódico Oficial del Estado de Sinaloa, el miércoles 10 de octubre de 2018.
 
@@ -4531,7 +4531,21 @@ IV. De motociclista; y
 
 V. De aprendiz.
 
-Las licencias de chofer, automovilista y motociclista, tendrán una vigencia máxima de cuatro años; la de aprendiz de dos años como máximo, y la de conductor de servicio público de transporte de un año como máximo.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2026)</small>
+
+La licencia de chofer tendrá una vigencia máxima de cuatro años; la de aprendiz de dos años como máximo, y la de conductor de servicio público de transporte de un año como máximo.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2026)</small>
+
+Las licencias de automovilista y motociclista podrán expedirse bajo las modalidades de vigencia determinada o permanente. En el caso de la modalidad determinada, tendrán una vigencia máxima de cuatro años.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2026)</small>
+
+La modalidad permanente solo podrá otorgarse mediante programas especiales, en los términos, condiciones y alcances que para tal efecto establezca la autoridad competente, conforme a lo dispuesto en esta Ley, su Reglamento y las disposiciones administrativas aplicables. Dichos programas deberán establecer las condiciones, requisitos, evaluaciones, vigencia operativa, costos y demás disposiciones aplicables para su expedición y vigencia.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2026)</small>
+
+La licencia de conducir permanente no estará sujeta a renovación periódica, sin perjuicio de las facultades de la autoridad competente para suspenderla, revocarla o cancelarla en los términos previstos en esta Ley y en su Reglamento, sin que su carácter permanente genere derechos adquiridos frente a infracciones graves, reincidencias o resoluciones judiciales.
 
 ###### Artículo 362.
 
@@ -4553,9 +4567,11 @@ La licencia de motociclista autoriza a su titular a conducir vehículos automoto
 
 La licencia de aprendiz se les podrá expedir licencia a las personas de dieciséis y menores de dieciocho, que autoriza a conducir únicamente vehículos del servicio particular en la categoría de automovilista, previo consentimiento por escrito otorgado por el padre o la madre y en su caso por el tutor del menor; para obtener la licencia previamente deberá llevar un curso de manejo, con un programa que contenga los apartados teóricos sobre el conocimiento de la presente Ley y control de riesgos y que se le apliquen las evaluaciones prácticas que fije la SGG. Ésta licencia, autoriza a los menores a conducir, vehículos únicamente en el horario que comprende de las seis a las veintidós horas.
 
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 367.
 
-Para la obtención de los tipos de licencia señalados en la presente Ley, los requisitos y condiciones correspondientes se especificarán en el Reglamento que se expide con base en ésta Ley.
+Para la obtención de los tipos de licencia señalados en la presente Ley, los requisitos y condiciones se especificarán en el Reglamento y en las demás disposiciones administrativas que emita el Titular del Ejecutivo.
 
 ###### Artículo 368.
 
@@ -5368,3 +5384,11 @@ P.O. 2 DE FEBRERO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 18 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 374 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD SUSTENTABLE Y SEGURIDAD VIAL DEL ESTADO DE SINALOA Y DE LA LEY DE HACIENDA DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Previo a la emisión de los programas especiales a que se refiere el presente Decreto, el Poder Ejecutivo del Estado deberá realizar las adecuaciones administrativas correspondientes.
