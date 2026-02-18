@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-mental-del-estado-de-morelos-83235"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-12"
-last_updated: "2025-05-28"
+last_updated: "2026-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83235&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DE SALUD MENTAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos el miércoles 12 de octubre de 2011.
 
@@ -159,57 +159,87 @@ XVI.- Ley de Salud: Ley de Salud del Estado de Morelos;
 
 XVII.- Ley: Ley de Salud Mental del Estado de Morelos;
 
-XVIII.- Paciente bajo custodia: persona con algún trastorno mental que requiere atención médica hospitalaria encontrándose privada de la libertad o sometida a cualquier forma de detención o prisión, el que tenga la calidad de presentado, indiciado, probable responsable, procesado o sentenciado;
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2026)</small>
 
-XIX.- Persona usuaria: toda persona que recibe el beneficio de cualquier programa o campaña de promoción de salud mental, de prevención o manejo de trastornos mentales, encaminadas a la preservación de su salud mental y calidad de vida;
+XVIII.- Ludopatía: es una enfermedad que se caracteriza por el fracaso crónico y progresivo en resistir los impulsos de jugar apostando dinero.
 
-XX.- Personal de salud: profesionales, especialistas, técnicos, auxiliares y demás trabajadores que laboran en la prestación de los servicios de salud, actualizados en temas de neuropsiquiatria;
+XIX.- Paciente bajo custodia: persona con algún trastorno mental que requiere atención médica hospitalaria encontrándose privada de la libertad o sometida a cualquier forma de detención o prisión, el que tenga la calidad de presentado, indiciado, probable responsable, procesado o sentenciado;
 
-XXI.- Prevención de riesgos en salud mental: conjunto de acciones contenidas en los planes, programas, campañas y proyectos gubernamentales, nacionales e internacionales, con la finalidad de informar y educar a la población en relación a cualquier aspecto vinculado a la salud mental, e intervenir en las comunidades para evitar situaciones de riesgo y dar a conocer procedimientos con el propósito principal de preservar la calidad de vida;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2026)</small>
 
-XXII.- Primer nivel de atención: atención otorgada por los Servicios de Salud de Morelos, el Sistema para el Desarrollo Integral de la Familia del Gobierno del Estado de Morelos, los Sistemas Municipales para el Desarrollo Integral de los Municipios, las Unidades Especializadas en Salud Mental (UNEMES-CISAME) y cualquier otra institución de Gobierno, que preste algún servicio de salud a la población en general; mismos que deben estar actualizados en temas neuropsiquiatricos;
+XX.- Persona usuaria: toda persona que recibe el beneficio de cualquier programa o campaña de promoción de salud mental, de prevención o manejo de trastornos mentales, encaminadas a la preservación de su salud mental y calidad de vida.
 
-XXIII.- Promoción de la Salud Mental: estrategia concreta, concebida como la suma de las acciones de los distintos sectores de la población, las autoridades sanitarias y los prestadores de servicios de salud pública, privada y social, encaminadas al desarrollo de mejores condiciones de salud mental individual y colectiva, priorizando la atención en primer nivel;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2026)</small>
 
-XXIV.- Psicofarmacoterapia: tratamiento médico psiquiátrico dirigido a algún trastorno mental, que se apoya en el empleo de medicamentos de diseño específico;
+XXI.- Personal de salud: profesionales, especialistas, técnicos, auxiliares y demás trabajadores que laboran en la prestación de los servicios de salud, actualizados en temas de neuropsiquiatría;
 
-XXV.- Psicoterapia: conjunto de métodos y recursos utilizados para el tratamiento psicológico de las personas, mediante los cuales interacciona la persona usuaria y el psicólogo con el propósito de promover la adaptación al entorno, la salud física o psíquica, la integridad de la identidad psicológica, el bienestar de las personas y el mejoramiento de su calidad de vida;
+XXII.- Prevención de riesgos en salud mental: conjunto de acciones contenidas en los planes, programas, campañas y proyectos gubernamentales, nacionales e internacionales, con la finalidad de informar y educar a la población en relación a cualquier aspecto vinculado a la salud mental, e intervenir en las comunidades para evitar situaciones de riesgo y dar a conocer procedimientos con el propósito principal de preservar la calidad de vida;
 
-XXVI.- Red: grupo de psicólogos para la atención de la salud mental en el Estado de Morelos;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2026)</small>
 
-XXVII.- Red de Salud: Red Estatal de Salud Mental.- La estructura de servicios de atención en salud mental conformada por el primero, segundo y tercer nivel de atención en salud;
+XXIII.- Primer nivel de atención: atención otorgada por los Servicios de Salud de Morelos, el Sistema para el Desarrollo Integral de la Familia del Gobierno del Estado de Morelos, los Sistemas Municipales para el Desarrollo Integral de los Municipios, las Unidades Especializadas en Salud Mental (UNEMES-CISAME) y cualquier otra institución de Gobierno, que preste algún servicio de salud a la población en general; mismos que deben estar actualizados en temas neuropsiquiátricos;
 
-XXVIII.- Reglamento: Reglamento de la Ley de Salud Mental del Estado de Morelos;
+XXIV.- Promoción de la Salud Mental: estrategia concreta, concebida como la suma de las acciones de los distintos sectores de la población, las autoridades sanitarias y los prestadores de servicios de salud pública, privada y social, encaminadas al desarrollo de mejores condiciones de salud mental individual y colectiva, priorizando la atención en primer nivel;
 
-XXIX.- Rehabilitación: conjunto de procedimientos dirigidos a las personas usuarias de los servicios de salud mental, los cuales se ocupan de la evolución del padecimiento y de aquellos factores como la calidad de las relaciones interpersonales y el desempeño en la vida cotidiana. Su objetivo es mejorar la calidad de vida, para que el usuario en salud mental, pueda actuar en comunidad tan activamente como sea posible y de manera independiente en su entorno social;
+XXV.- Psicofarmacoterapia: tratamiento médico psiquiátrico dirigido a algún trastorno mental, que se apoya en el empleo de medicamentos de diseño específico;
 
-XXX.- Secretaría: Secretaría de Salud del Estado de Morelos;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2026)</small>
 
-XXXI.- Secretaría de Educación: Secretaría de Educación del Estado de Morelos;
+XXVI.- Psicoterapia: conjunto de métodos y recursos utilizados para el tratamiento psicológico de las personas, mediante los cuales interacciona la persona usuaria y el psicólogo con el propósito de promover la adaptación al entorno, la salud física o psíquica, la integridad de la identidad psicológica, el bienestar de las personas y el mejoramiento de su calidad de vida.
 
-XXXII.- Segundo nivel de atención: atención hospitalaria y ambulatoria otorgada por las unidades médicas dependientes de la Secretaría;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+XXVII.- Red: grupo de psicólogos para la atención de la salud mental en el Estado de Morelos.
 
-XXXIII.- Servicios de Salud de Morelos: Organismo Público Descentralizado de la Secretaría de Salud del Estado de Morelos, dedicado a la operación de programas preventivos, así como a la atención médica y a la protección contra riesgos sanitarios;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+XXVIII.- Red de Salud: Red Estatal de Salud Mental.- La estructura de servicios de atención en salud mental conformada por el primero, segundo y tercer nivel de atención en salud.
 
-XXXIV.- Sistema de Información: Sistema de Información, Vigilancia y Evaluación en Salud Mental, centro de información técnico, permanente y estratégico de consulta, dependiente de los Servicios de Salud de Morelos;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
+XXIX.- Reglamento: Reglamento de la Ley de Salud Mental del Estado de Morelos.
 
-XXXV.- Tercer nivel de atención: atención hospitalaria y ambulatoria otorgada por las Unidades Médicas de Especialidades dependientes de los Servicios de Salud de Morelos;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2026)</small>
 
-XXXVI.- Titular de la Secretaría: persona titular de la Secretaría de Salud del Estado de Morelos.
+XXX.- Rehabilitación: conjunto de procedimientos dirigidos a las personas usuarias de los servicios de salud mental, los cuales se ocupan de la evolución del padecimiento y de aquellos factores como la calidad de las relaciones interpersonales y el desempeño en la vida cotidiana. Su objetivo es mejorar la calidad de vida, para que el usuario en salud mental, pueda actuar en comunidad tan activamente como sea posible y de manera independiente en su entorno social.
 
-XXXVII.- Tratamiento: diseño, planeación, instrumentación y conducción de estrategias médicas, farmacológicas y psicológicas encaminadas a restaurar, mejorar o mantener la calidad de vida de la persona que presenta algún trastorno mental;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2026)</small>
 
-XXXVIII.- Tratamiento combinado: sistema terapéutico que integra los aspectos farmacológico y de reintegración psicosocial sobre el funcionamiento cognitivo, la psicopatología y la calidad de vida de pacientes con diagnóstico de trastorno mental;
+XXXI.- Secretaría: Secretaría de Salud del Estado de Morelos.
 
-XXXIX.- Unidad de Atención Ambulatoria Inmediata.- Unidad médica integrada por terapeutas especializados en el tratamiento médico de emergencia y en la prestación de atención psiquiátrica, para pacientes que requieren atención inmediata no hospitalaria; y,
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2026)</small>
 
-XL.- Unidad de hospitalización de corta estancia.- Unidad Médica integrada por terapeutas especializados en el tratamiento médico de emergencia y en la prestación de atención psiquiátrica para pacientes agudos que por el trastorno mental que presenten, requieran de hospitalización inmediata.
+XXXII.- Secretaría de Educación: Secretaría de Educación del Estado de Morelos.
+
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2026)</small>
+
+XXXIII.- Segundo nivel de atención: atención hospitalaria y ambulatoria otorgada por las unidades médicas dependientes de la Secretaría.
+
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2026)</small>
+
+XXXIV.- Servicios de Salud de Morelos: Organismo Público Descentralizado de la Secretaría de Salud del Estado de Morelos, dedicado a la operación de programas preventivos, así como a la atención médica y a la protección contra riesgos sanitarios.
+
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2026)</small>
+
+XXXV.- Sistema de Información: Sistema de Información, Vigilancia y Evaluación en Salud Mental, centro de información técnico, permanente y estratégico de consulta, dependiente de los Servicios de Salud de Morelos.
+
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2026)</small>
+
+XXXVI.- Tercer nivel de atención: atención hospitalaria y ambulatoria otorgada por las Unidades Médicas de Especialidades dependientes de los Servicios de Salud de Morelos.
+
+XXXVII.- Titular de la Secretaría: persona titular de la Secretaría de Salud del Estado de Morelos.
+
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2026)</small>
+
+XXXVIII.- Tratamiento: diseño, planeación, instrumentación y conducción de estrategias médicas, farmacológicas y psicológicas encaminadas a restaurar, mejorar o mantener la calidad de vida de la persona que presenta algún trastorno mental.
+
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2026)</small>
+
+XXXIX.- Tratamiento combinado: sistema terapéutico que integra los aspectos farmacológicos y de reintegración psicosocial sobre el funcionamiento cognitivo, la psicopatología y la calidad de vida de pacientes con diagnóstico de trastorno mental.
+
+XL.- Unidad de Atención Ambulatoria Inmediata.- Unidad médica integrada por terapeutas especializados en el tratamiento médico de emergencia y en la prestación de atención psiquiátrica, para pacientes que requieren atención inmediata no hospitalaria; y,
+
+XLI.- Unidad de hospitalización de corta estancia.- Unidad Médica integrada por terapeutas especializados en el tratamiento médico de emergencia y en la prestación de atención psiquiátrica para pacientes agudos que por el trastorno mental que presenten, requieran de hospitalización inmediata.
 
 ## TÍTULO II. DE LOS PRINCIPIOS Y DERECHOS FUNDAMENTALES
 
@@ -411,7 +441,11 @@ XIV.- Presentar un informe anual sobre las políticas públicas implementadas en
 
 XV.- Crear, elaborar, implementar y aplicar mecanismos, protocolos, campañas y programas especializados para la prestación de servicios en materia de salud mental y atención psicológica a las personas afectadas por situaciones críticas, desastres naturales, emergencias, contingencias y por condiciones de aislamiento o distanciamiento social; procurando su promoción y difusión utilizando las tecnologías de la información y demás medios de difusión masiva, con el objeto de reducir los niveles de estrés, ansiedad, depresión y los diversos tipos de trastornos mentales o cualquier otra condición psicológica negativa que se origine como consecuencia de dichas situaciones críticas, desastres o emergencias, y
 
-XVI.- Las demás acciones que contribuyan a la promoción y fomento de la salud mental de la población.
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2026)</small>
+
+XVI.- llevar a cabo todas las acciones necesarias, a fin de implementar un programa para prevenir y atender los problemas de salud relacionados con la ludopatía, así como para realizar campañas permanentes de información en donde se destaquen las consecuencias graves de este problema y las formas en que los afectados pueden ser apoyados a través de este programa; y
+
+XVII.- Las demás acciones que contribuyan a la promoción y fomento de la salud mental de la población.
 
 > <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
 
@@ -573,11 +607,13 @@ Con la finalidad de dar seguimiento a las personas usuarias de los servicios de 
 
 Para efectos del presente Capítulo, se consideran trastornos mentales en particular, aquellas afecciones psicopatológicas que presentan las personas y que requieren una atención prioritaria derivado del grado de peligrosidad para la vida del paciente, de terceros o bien de los bienes tanto propios como de terceros.
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 39.
 
-Derivado de las (sic) trastornos mentales que presentan los diversos sectores de la sociedad y en virtud de que requieren cada uno de ellos atención especializada, los tipos de atención en salud mental que proporcione la secretaría buscarán dar prioridad a la niñez, adolescencia, juventud, mujeres en condiciones de embarazo y puerperio, menopausia, adultos mayores y personas que se encuentran en situación de calle, en casos de desastres, emergencias, contingencias, y en condiciones de aislamiento o distanciamiento social.
+Derivado de los trastornos mentales que presentan los diversos sectores de la sociedad y en virtud de que requieren cada uno de ellos atención especializada, los tipos de atención en salud mental que proporcione la Secretaría buscarán dar prioridad a la niñez, adolescencia, juventud, adultos mayores y personas que se encuentran en situación de calle, en casos de desastres, emergencias, contingencias, y en condiciones de aislamiento o distanciamiento social.
+
+Asimismo, la secretaría, garantizará el derecho de las mujeres a recibir atención psicológica o psiquiátrica durante el embarazo, el parto, el puerperio, los casos de pérdida gestacional o del neonato y la menopausia, esta atención deberá extenderse a los familiares cuando así lo determine el personal de la salud. Así también cuando se den las condiciones señaladas en el párrafo anterior.
 
 > <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2015)</small>
 
@@ -1166,3 +1202,21 @@ SEGUNDA.- El presente Decreto entrará en vigor a los treinta días posteriores 
 TERCERA.- Entrado en vigor el presente Decreto, el Titular del Poder Ejecutivo incluirá la partida correspondiente para su cumplimiento en el Presupuesto de Egresos del Gobierno del Estado de Morelos para el ejercicio fiscal del 1 de enero al 31 de diciembre de dos mil veinticinco y en los años subsecuentes.
 
 CUARTA.- Se derogan todas aquellas disposiciones de igual o menor rango que contravengan el presente Decreto.
+
+P.O. 18 DE FEBRERO DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL “DECRETO NÚMERO SEISCIENTOS VEINTICUATRO POR EL QUE SE ADICIONA UNA NUEVA FRACCIÓN XVIII AL ARTÍCULO 7 RECORRIÉNDOSE LAS SUBSECUENTES Y UNA NUEVA FRACCIÓN XVI AL ARTÍCULO 12 AMBOS DE LA LEY DE SALUD MENTAL DEL ESTADO DE MORELOS, EN MATERIA DE LUDOPATÍA”.]</small>
+
+PRIMERA. Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal para su publicación correspondiente en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del estado de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del estado de Morelos.
+
+P.O. 18 DE FEBRERO DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NÚMERO MIL CIEN POR EL QUE SE REFORMA EL ARTÍCULO 39 DE LA LEY DE SALUD MENTAL DEL ESTADO DE MORELOS".]</small>
+
+PRIMERA. Remítase el presente decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Morelos, para que realice la publicación correspondiente en el Periódico Oficial "Tierra y Libertad".
+
+SEGUNDA. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado.
+
+TERCERA. En un plazo no mayor a 90 días naturales contados a partir de la vigencia del presente decreto, la Secretaría de Salud, deberá de actualizar su reglamento, manuales de organización, operación y funcionamiento, con la finalidad de la implementación establecida en el presente decreto.
