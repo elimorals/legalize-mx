@@ -4,7 +4,7 @@ identifier: "MOR-ley-para-la-inclusion-al-desarrollo-de-las-personas-con-167073"
 country: "mx"
 rank: "ley"
 publication_date: "2023-07-19"
-last_updated: "2025-10-15"
+last_updated: "2026-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167073&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY PARA LA INCLUSIÓN AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2026.
 
 Ley publicada en el número 6211 del Periódico Oficial del Estado de Morelos, el miércoles 19 de julio de 2023.
 
@@ -907,6 +907,8 @@ IX. La Comisión Estatal de Seguridad Pública;
 
 X. La Comisión Estatal de Derechos Humanos;
 
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2026)</small>
+
 XI. La Comisión de Atención a Grupos Vulnerables, Migrantes y Personas con Discapacidad del Congreso del Estado de Morelos;
 
 XII. La Dirección General del Instituto, quien fungirá como Secretario Técnico de la Junta; y
@@ -1166,3 +1168,13 @@ SEGUNDA. El presente Decreto, entrará en vigor a partir del día siguiente de s
 TERCERA. Queda a cargo del Tribunal Superior de Justicia del Estado de Morelos realizar las tareas relacionadas al diseño, programación, presupuestación y capacitación de su personal para dar cumplimiento del presente decreto y garantizar el acceso a la justicia de niñas, niños, adolescentes y personas con discapacidad sensorial, intelectual y mental en las resoluciones judiciales que pongan fin al procedimiento y que así lo requieran.
 
 CUARTA. Se derogan todas las disposiciones de igual o menor rango jerárquico que se oponga a la presente reforma.
+
+P.O. 18 DE FEBRERO DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NÚMERO MIL NOVENTA POR EL QUE SE REFORMA EL ARTÍCULO 57 EN SU FRACCIÓN XI DE LA LEY PARA LA INCLUSIÓN AL DESARROLLO DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE MORELOS".]</small>
+
+PRIMERA. Remítase el presente decreto a la Gobernadora Constitucional del Estado, para los efectos señalados en los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto entrara en vigor a partir del día siguiente a su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+TERCERA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
