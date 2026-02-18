@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "2024-06-17"
+last_updated: "2026-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el 15 de noviembre de 1978.
 
@@ -1632,6 +1632,14 @@ b).- Cuatro años
 3.- Motociclista 10.00
 
 c).- (DEROGADO, P.O. 19 DE SEPTIEMBRE DE 2001)
+
+> <small>(ADICIONADO [N. DE E. CON SUS NUMERALES], P.O. 18 DE FEBRERO DE 2026)</small>
+
+d).- Permanente
+
+1.- Automovilista 18.00
+
+2.- Motociclista 18.00
 
 II.- Reposición de licencia por pérdida o deterioro con vigencia de:
 
@@ -4478,3 +4486,11 @@ P.O. 17 DE JUNIO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 374 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD SUSTENTABLE Y SEGURIDAD VIAL DEL ESTADO DE SINALOA Y DE LA LEY DE HACIENDA DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Previo a la emisión de los programas especiales a que se refiere el presente Decreto, el Poder Ejecutivo del Estado deberá realizar las adecuaciones administrativas correspondientes.
