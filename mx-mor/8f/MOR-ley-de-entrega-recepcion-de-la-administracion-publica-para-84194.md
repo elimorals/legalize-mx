@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-entrega-recepcion-de-la-administracion-publica-para-8419
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-14"
-last_updated: "2023-10-25"
+last_updated: "2026-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84194&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ENTREGA RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE MORELOS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de diciembre de 2011.
 
@@ -73,9 +73,11 @@ VIII. Acta Administrativa de Entrega-Recepción.- Documento en el que se hace co
 
 IX. Órgano Interno de Control.- La Unidad Administrativa encargada de verificar las actuaciones de los servidores públicos que por razón de competencia le corresponda.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 3.
 
-Las disposiciones de este ordenamiento serán aplicables a los servidores públicos desde los titulares de los Poderes Ejecutivo, Legislativo Judicial, de los ayuntamientos, de las entidades paraestatales y paramunicipales, hasta el nivel jerárquico correspondiente a jefe de departamento o sus equivalentes, y a los demás servidores públicos que por la naturaleza e importancia de sus funciones deban realizar el acto de entrega-recepción.
+Las disposiciones de este ordenamiento serán aplicables a los servidores públicos desde los titulares de los Poderes Ejecutivo, Legislativo Judicial, órganos constitucionales autónomos, ayuntamientos, entidades paraestatales y paramunicipales, hasta el nivel jerárquico correspondiente a jefe de departamento o sus equivalentes, y a los demás servidores públicos que por la naturaleza e importancia de sus funciones deban realizar el acto de entrega recepción.
 
 Corresponderá a los titulares de las dependencias, ayuntamientos y entidades, determinar en sus respectivas áreas de competencia, los servidores públicos que por la naturaleza e importancia de las funciones públicas a su cargo, quedarán sujetos a las disposiciones de esta Ley, situación que se deberá motivar y hacer del conocimiento oportuno al órgano interno de control correspondiente.
 
@@ -91,7 +93,9 @@ III. Dar cuenta no sólo de los bienes patrimoniales y de los recursos humanos y
 
 Asimismo el superior jerárquico y el servidor público entrante se asegurarán que el servidor público saliente cuente con los elementos necesarios que le faciliten realizar su Entrega-Recepción con oportunidad.
 
-La omisión en el cumplimiento de las obligaciones, hará procedente la aplicación de lo previsto en la Ley Estatal de Responsabilidades de los Servidores Públicos.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2026)</small>
+
+La omisión en el cumplimiento de las obligaciones hará procedente la aplicación de lo previsto en la Ley General de Responsabilidades Administrativas, la Ley de Responsabilidades Administrativas para el Estado de Morelos y demás normativa aplicable.
 
 ###### Artículo 5.
 
@@ -117,9 +121,11 @@ Los servidores públicos que en los términos de esta Ley se encuentren obligado
 
 Las áreas de administración encargadas de los recursos humanos, coordinaciones administrativas, oficialías mayores o su equivalente, tendrán la obligación de notificar oportunamente al órgano interno de control respectivo, de la separación de los servidores públicos a que se refiere este artículo, debiendo remitir el nombre completo, apellidos, puesto, número de empleado, copia de su identificación oficial, fecha de separación y domicilio del área administrativa a la que se encuentra adscrito el servidor público saliente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 7.
 
-Todo servidor público que se encuentre sujeto a la presente ley deberá llevar a cabo el proceso de entrega recepción correspondiente, en un plazo no mayor a quince días hábiles, contados a partir de la fecha en que se presente la renuncia, se notifique la baja o se lleve a cabo el cambio de cargo o cualquier otra causal que separe al servidor público de sus funciones; para cuyo efecto, el superior jerárquico entrante o la persona que deba recibir el cargo, y en caso de incumplimiento a este precepto, se deslindarán las responsabilidades, imponiéndosele, en su caso, las sanciones correspondientes en los términos de la ley estatal de responsabilidades de los servidores públicos y de más ordenamientos aplicables.
+Todo servidor público que se encuentre sujeto a la presente ley deberá llevar a cabo el proceso de entrega recepción correspondiente, en un plazo no mayor a quince días hábiles, contados a partir de la fecha en que se presente la renuncia, se notifique la baja o se lleve a cabo el cambio de cargo o cualquier otra causal que separe al servidor público de sus funciones; para cuyo efecto, el superior jerárquico entrante o la persona que deba recibir el cargo, y en caso de incumplimiento a este precepto, se deslindarán las responsabilidades, imponiéndosele, en su caso, las sanciones correspondientes en los términos de la Ley General de Responsabilidades Administrativas, la Ley de Responsabilidades Administrativas para el Estado de Morelos y demás normativa aplicable.
 
 En caso de urgencia para la ley entrega-recepción, a criterio del superior jerárquico, se habilitaran días y horas inhábiles para la entrega correspondiente.
 
@@ -135,7 +141,9 @@ Los servidores públicos salientes estarán obligados a proporcionar a los servi
 
 En el caso de que el servidor público entrante encuentre irregularidades en los documentos y recursos recibidos, y dicha información esté inmersa en la información recibida, dentro del término de cuarenta y cinco días hábiles, contados a partir de la fecha de entrega-recepción del despacho, deberá hacerlas del conocimiento del órgano interno de control correspondiente, para que en un plazo de quince días hábiles sean aclaradas por el servidor público saliente o, en su caso, para que se proceda de conformidad al régimen de responsabilidades de los servidores públicos y demás ordenamientos aplicables.
 
-Para el caso de que el servidor público entrante o la autoridad correspondiente no procedieran de conformidad con el párrafo anterior, incurrirán en responsabilidad en los términos de la Ley Estatal de Responsabilidades de los Servidores Públicos.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2026)</small>
+
+Para el caso de que el servidor público entrante o la autoridad correspondiente no procedieran de conformidad con el párrafo anterior, incurrirán en responsabilidad en los términos de la Ley General de Responsabilidades Administrativas, la Ley de Responsabilidades Administrativas para el Estado de Morelos y demás normativa aplicable.
 
 ### CAPÍTULO SEGUNDO. DEL PROCEDIMIENTO DE ENTREGA- RECEPCIÓN
 
@@ -163,7 +171,9 @@ b).- El servidor público entrante;
 
 c).- Un representante de la Secretaría de la Contraloría, y
 
-d).- Un representante de la Secretaría de Gestión e Innovación Gubernamental.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2026)</small>
+
+d) Una persona representante de la Secretaría de Administración y Finanzas.
 
 II.- En los Poderes Legislativo y Judicial:
 
@@ -173,7 +183,9 @@ a).- El servidor público saliente;
 
 b).- El servidor público entrante o la persona que este designe;
 
-c).- El titular del área que conforme a sus respectivas leyes orgánicas o reglamentos internos corresponda llevar el inventario de los bienes y recursos asignados; y,
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2026)</small>
+
+c).- El servidor público que designe el Órgano de Administración Judicial del Poder Judicial, y
 
 d).- Un representante del órgano de control o su equivalente en estos Poderes.
 
@@ -491,11 +503,11 @@ XIV. Las hojas que integren el Acta Administrativa de Entrega-Recepción, así c
 
 XV. Deberá solicitársele al servidor Público saliente, que señale un domicilio para efecto que llegare a darse la hipótesis contenida en el artículo26 (sic) de la presente Ley.
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 19.
 
-La intervención de los representantes de la Entidad Superior de Auditoría y Fiscalización que la Ley establezca, la Secretaría de la Contraloría, el Consejo de la Judicatura del Poder Judicial y los demás órganos internos de control, según corresponda a su competencia, se dará directamente en los casos en que exista controversia en cuanto a la interpretación y cumplimiento de la presente Ley.
+La intervención en el acto de entrega recepción que la Ley establezca de las personas representantes de la Entidad Superior de Auditoría y Fiscalización, la Secretaría de la Contraloría, el Órgano de Administración Judicial del Poder Judicial del Estado de Morelos y los demás órganos internos de control, según corresponda conforme al ámbito de sus respectivas competencias, se dará de manera directa únicamente en los casos en que exista controversia en cuanto a la interpretación y cumplimiento de la presente Ley.
 
 > <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2023)</small>
 
@@ -511,19 +523,23 @@ Cuando la información se vaya a entregar se encuentre en medios electrónicos, 
 
 Cuando el proceso de Entrega- Recepción se lleve a cabo a través del uso de medios electrónicos y para los efectos a que se refiere el artículo anterior, cuando las circunstancias lo permitan se utilizarán los mecanismos que permitan la producción de firma electrónica o de firma electrónica avanzada, según el caso, en atención a la naturaleza e importancia de las funciones encomendadas a los servidores públicos obligados.
 
-La Secretaría de Gestión e Innovación Gubernamental, en el ámbito del Poder Ejecutivo, fungirá como autoridad certificadora en materia de firma electrónica.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2026)</small>
 
-El Consejo de la Judicatura, así como los órganos internos de control del Poder Legislativo, organismos públicos autónomos y de los ayuntamientos de los municipios del Estado, que utilicen el esquema de producción de firma electrónica para el manejo de la información, podrán fungir también con el carácter de autoridades certificadoras o, en su caso, convenir la utilización de la infraestructura del Poder Ejecutivo del Estado a cargo de la Secretaría de Gestión e Innovación Gubernamental.
+La Secretaría de Administración y Finanzas, en el ámbito del Poder Ejecutivo, fungirá como autoridad certificadora en materia de firma electrónica, en términos de la Ley de Firma Electrónica del Estado Libre y Soberano de Morelos.
+
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2026)</small>
+
+El Órgano de Administración Judicial del Poder Judicial del Estado de Morelos, así como los órganos internos de control del Poder Legislativo, organismos públicos autónomos y de los ayuntamientos de los municipios del Estado, que utilicen el esquema de producción de firma electrónica para el manejo de la información, podrán fungir también con el carácter de autoridades certificadoras o, en su caso, convenir la utilización de la Plataforma Integral de Firma Electrónica del Poder Ejecutivo Estatal a cargo de la Secretaría de Administración y Finanzas, en términos de la citada Ley de Firma Electrónica, los Lineamientos y demás normativa aplicable.
 
 ###### Artículo 23.
 
 La verificación y validación física del contenido del Acta Administrativa de Entrega-recepción y sus anexos deberán llevarse a cabo por el servidor público entrante en un término no mayor de treinta días hábiles contados a partir del acto de entrega.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 24.
 
-Durante los siguientes cuarenta y cinco días hábiles contados a partir del acto de entrega el funcionario que reciba podrá requerir al funcionario que entregó, la información o aclaraciones adicionales que considere necesarias, tal solicitud deberá hacérsela por escrito y notificada en el domicilio que haya designado en el acta de Entrega- recepción el servidor público saliente, el requerido deberá comparecer personalmente o por escrito dentro de los tres días hábiles siguientes a la recepción de la notificación a manifestar lo que corresponda, en caso de no comparecer o no informar por escrito dentro del término concedido, el servidor público entrante deberá notificar tal omisión al órgano de control interno para que proceda de conformidad con la Ley Estatal de Responsabilidades de los Servidores Públicos del Estado.
+Durante los siguientes cuarenta y cinco días hábiles contados a partir del acto de entrega el funcionario que reciba podrá requerir al funcionario que entregó, la información o aclaraciones adicionales que considere necesarias, tal solicitud deberá hacérsele por escrito y notificada en el domicilio que haya designado en el acta de Entrega-recepción el servidor público saliente, el requerido deberá comparecer personalmente o por escrito dentro de los tres días hábiles siguientes a la recepción de la notificación a manifestar lo que corresponda, en caso de no comparecer o no informar por escrito dentro del término concedido, el servidor público entrante deberá notificar tal omisión al órgano interno de control para que proceda de conformidad con la Ley General de Responsabilidades Administrativas, la Ley de Responsabilidades Administrativas para el Estado de Morelos y demás normativa aplicable.
 
 > <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
 
@@ -585,7 +601,9 @@ La información entregada para su integración, correspondiente a los órganos c
 
 Cada uno de los informes, inventarios, estados financieros y en general, toda la información que deba ser objeto de entrega-recepción, y que formulen y firmen los titulares de los órganos colegiados, administrativos, y en general, todas las dependencias y áreas del Poder Legislativo, formarán parte de los anexos que se integren al acta que se levante de la entrega-recepción.
 
-En este caso, las aclaraciones, informaciones, requerimientos y, en su caso, el inicio de cualquier procedimiento o proceso sancionatorio, independientemente de su naturaleza, se dirigirá al servidor público que haya tenido a su cargo directamente las funciones cuya aclaración, información o responsabilidad se requieran, en términos de la Ley Orgánica para el Congreso del Estado, de la Ley de Fiscalización Superior del Estado de Morelos, de la Ley Estatal de Responsabilidades de los Servidores Públicos, así como de las demás disposiciones legales y reglamentarias que resulten aplicables.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2026)</small>
+
+En este caso, las aclaraciones, informaciones, requerimientos y, en su caso, el inicio de cualquier procedimiento o proceso sancionatorio, independientemente de su naturaleza, se dirigirá al servidor público que haya tenido a su cargo directamente las funciones cuya aclaración, información o responsabilidad se requieran, en términos de la Ley Orgánica para el Congreso del Estado, de la Ley de Fiscalización y Rendición de Cuentas del Estado de Morelos, de la Ley de Responsabilidades Administrativas para el Estado de Morelos, así como de las demás disposiciones legales y reglamentarias que resulten aplicables.
 
 ###### Artículo 29.
 
@@ -663,13 +681,15 @@ En este caso, el servidor público entrante al tomar posesión, o el encargado d
 
 En caso de los servidores públicos entrantes de los municipios y entidades paramunicipales tal circunstancia deberá además notificarse al órgano de la Entidad Superior de Auditoría y Fiscalización que la Ley establezca, para los efectos del párrafo que antecede.
 
-Si no obstante el requerimiento realizado, el servidor público saliente dejare de cumplir esta disposición, incurrirá en responsabilidad administrativa por lo que se le sancionará en términos de lo dispuesto en la Ley Estatal de Responsabilidades de los Servidores Públicos, independientemente de las posibles responsabilidades de tipo penal, civil, que en su caso, hubiere incurrido con motivo del desempeño de su función.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 27 DE MAYO DE 2015)</small>
+Si una vez realizado el requerimiento, el servidor público saliente dejare de cumplir esta disposición, incurrirá en responsabilidad administrativa, por lo que se le sancionará en términos de lo dispuesto en la Ley General de Responsabilidades Administrativas, la Ley de Responsabilidades Administrativas para el Estado de Morelos y demás normativa aplicable, independientemente de las posibles responsabilidades de tipo penal, civil, que en su caso, hubiere incurrido con motivo del desempeño de su función.
 
-###### Articulo 40.
+> <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2026)</small>
 
-La vigilancia del exacto cumplimiento de las presentes disposiciones, en el ámbito de su competencia, queda a cargo de la Secretaría de la Contraloría y del Consejo de la Judicatura del Poder Judicial, así como de los órganos internos de control de los organismos públicos autónomos y de la Contraloría Municipal y el órgano de la Entidad Superior de Auditoría y Fiscalización que la Ley establezca en el caso de los ayuntamientos de los municipios del Estado.
+###### Artículo 40.
+
+La vigilancia del exacto cumplimiento de las presentes disposiciones, en el ámbito de sus respectivas competencias, queda a cargo de la Secretaría de la Contraloría, del Órgano de Administración Judicial del Poder Judicial del Estado de Morelos, de los órganos internos de control y la Entidad Superior de Auditoría y Fiscalización.
 
 ## TRANSITORIOS
 
@@ -752,3 +772,21 @@ PRIMERO.- Remítase el presente decreto al titular del Poder Ejecutivo para su p
 SEGUNDO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión de Gobierno del Estado.
 
 TERCERO.- Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente reforma.
+
+P.O. 18 DE FEBRERO DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL “DECRETO NÚMERO MIL NOVENTA Y SEIS.- POR MEDIO DEL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE ENTREGA RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE MORELOS Y SUS MUNICIPIOS”.]</small>
+
+PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo del Estado de Morelos, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a, de la Constitución Política del Estado Libre y Soberano de Morelos, para su publicación correspondiente.
+
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de Difusión del Gobierno del Estado.
+
+P.O. 18 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOS MIL TRESCIENTOS CUARENTA Y DOS POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE ENTREGA RECEPCIÓN DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE MORELOS Y SUS MUNICIPIOS”.]
+
+PRIMERA.- Remítase el presente Decreto a la Gobernadora Constitucional del Estado para los efectos previstos en el artículo 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano oficial de difusión del Gobierno del Estado.
+
+TERCERA.- Se derogan las disposiciones de igual o menor rango que se opongan al presente Decreto.
