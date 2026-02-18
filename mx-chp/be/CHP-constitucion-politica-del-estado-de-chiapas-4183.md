@@ -4,7 +4,7 @@ identifier: "CHP-constitucion-politica-del-estado-de-chiapas-4183"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-03"
-last_updated: "2026-01-08"
+last_updated: "2026-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2026.
 
 Constitución publicada en Alcance No. 5 al Periódico Oficial del Estado de Chiapas, el 3 de febrero de 1921.
 
@@ -427,21 +427,33 @@ VIII. Las penas y medidas impuestas por la realización de un hecho tipificado c
 
 ### Capítulo II. De los Pueblos Indígenas
 
-> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 7.
 
-El Estado de Chiapas, tiene una población pluricultural y multiétnica sustentada originalmente en sus pueblos indígenas, que son aquellas colectividades con una continuidad histórica de las sociedades precoloniales establecidas en el territorio estatal; y que conservan, desarrollan y transmiten sus instituciones sociales, normativas, económicas, culturales y políticas, o parte de ellas. Esta Constitución reconoce y protege a los siguientes: Tseltal, Tsotsil, Chol, Zoque, Tojolabal, Mame, Kakchiquel, Lacandón, Mocho, Jacalteco, Chuj y Kanjobal.
+El Estado de Chiapas, tiene una población pluricultural y multiétnica sustentada originalmente en sus pueblos indígenas, que son aquellas colectividades con una continuidad histórica de las sociedades precoloniales establecidas en el territorio estatal; y que conservan, desarrollan y transmiten sus instituciones sociales, normativas, económicas, culturales y políticas, o parte de ellas. Esta Constitución reconoce y protege a los siguientes: Tseltal, Tsotsil, Chol, Zoque, Tojolabal, Mame, Kakchiquel, Lacandón, Mocho, Jacalteco, Chuj, Akateko y Kanjobal.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2025)</small>
 
 También protege los derechos de los indígenas que por cualquier circunstancia se encuentren asentados dentro del territorio del Estado y que pertenezcan a otros pueblos indígenas.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2025)</small>
+
 La conciencia de su identidad indígena deberá ser criterio fundamental para determinar a quiénes se aplican las disposiciones sobre pueblos indígenas.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2025)</small>
 
 Son comunidades integrantes de un pueblo indígena, aquellas que forman una unidad social, económica y cultural, asentadas en un territorio y que reconocen autoridades propias de acuerdo con sus sistemas normativos.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2025)</small>
+
 El derecho de los pueblos y comunidades indígenas a la libre determinación se ejercerá en un marco constitucional de autonomía que asegure la unidad estatal. Para el reconocimiento de los pueblos y comunidades indígenas se deben tomar en cuenta, además de los principios generales establecidos en los párrafos anteriores de este artículo, criterios etnolingüísticos, de asentamiento físico y de autoadscripción.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2025)</small>
+
 Se reconoce a los pueblos y comunidades indígenas como sujetos de derecho público con personalidad jurídica y patrimonio propio.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 27 DE FEBRERO DE 2025)</small>
 
 A. Esta Constitución reconoce y garantiza el derecho de los pueblos y las comunidades indígenas a la libre determinación y, en consecuencia, a la autonomía para:
 
@@ -487,15 +499,27 @@ XVIII. Ejercer su derecho al desarrollo integral con base en sus formas de organ
 
 XIX. Ser consultados sobre las medidas legislativas o administrativas que se pretendan adoptar, cuando estas puedan causar afectaciones o impactos significativos en su vida o entorno, con la finalidad de obtener su consentimiento o, en su caso, llegar a un acuerdo sobre tales medidas.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2025)</small>
+
 Las consultas indígenas se realizarán de conformidad con principios y normas que garanticen el respeto y el ejercicio efectivo de los derechos sustantivos de los pueblos indígenas reconocidos en la Constitución Política de los Estados Unidos Mexicanos, y en esta Constitución.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2025)</small>
 
 Cuando la medida administrativa que se pretenda adoptar beneficie a un particular, el costo de la consulta debe ser cubierto por éste.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2025)</small>
+
 La persona física o moral que obtenga un lucro por las medidas administrativas objeto de consulta debe otorgar a los pueblos y comunidades indígenas un beneficio justo y equitativo, en los términos que establezcan las leyes aplicables.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2025)</small>
 
 Los pueblos y comunidades indígenas son los únicos legitimados para impugnar, por las vías jurisdiccionales establecidas, el incumplimiento del derecho reconocido en esta fracción. La ley de la materia regulará los términos, condiciones y procedimientos para llevar a cabo la impugnación.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2025)</small>
+
 B. El Estado y los Municipios, establecerán las instituciones y determinaran las políticas públicas que garanticen el ejercicio efectivo de los derechos de los pueblos indígenas y su desarrollo integral, intercultural y sostenible, las cuales deben ser diseñadas y operadas conjuntamente con ellos.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 27 DE FEBRERO DE 2025)</small>
 
 Para tal efecto, tendrán las obligaciones siguientes:
 
@@ -541,13 +565,23 @@ XIV. Consultar a los pueblos indígenas en la elaboración del Plan Estatal de D
 
 XV. Celebrar consultas y cooperar de buena fe con los pueblos y comunidades indígenas, por medio de sus instituciones representativas, antes de adoptar y aplicar medidas legislativas o administrativas que puedan causar afectaciones o impactos significativos en su vida o entorno, en los términos de la fracción XIX del Apartado A del presente artículo.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2025)</small>
+
 El Estado y los ayuntamientos, en el ámbito de sus respectivas competencias, deberán establecer las partidas específicas en los presupuestos de egresos que aprueben, así como las formas y procedimientos, para que los pueblos y comunidades indígenas las administren y ejerzan conforme a las leyes de la materia.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2025)</small>
 
 Sin perjuicio de los derechos aquí establecidos a favor de los indígenas, sus comunidades y pueblos, toda comunidad equiparable a aquéllos tendrá en lo conducente los mismos derechos tal y como lo establezca la ley.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2025)</small>
+
 C. Esta Constitución reconoce a los pueblos y comunidades afromexicanas, cualquiera que sea su autodenominación, como parte de la composición pluricultural del Estado. Tendrán en lo conducente los derechos señalados en los apartados anteriores de este artículo, a fin de garantizar su desarrollo e inclusión social, en los términos que establezca la Constitución Política de los Estados Unidos Mexicanos, y esta Constitución, así como su libre determinación que se ejercerá en un marco constitucional de autonomía que asegure la unidad estatal.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2025)</small>
+
 Los pueblos y comunidades afromexicanas se integran por descendientes de personas originarias de poblaciones del continente africano trasladadas y asentadas en el territorio estatal desde la época colonial, con formas propias de organización social, económica, política y cultural, o parte de ellas, y afirman su existencia como colectividades culturalmente diferenciadas.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 27 DE FEBRERO DE 2025)</small>
 
 Los pueblos y comunidades afromexicanas tienen el carácter de sujetos de derecho público, con personalidad jurídica y patrimonio propio. Tienen además derecho a:
 
@@ -557,13 +591,23 @@ II. La promoción, reconocimiento y protección de sus conocimientos, aportes y 
 
 III. Ser incluidos en la producción y registros de datos, información, estadísticas, censos y encuestas oficiales, para lo cual las instituciones competentes establecerán los procedimientos, métodos y criterios para inscribir su identidad y autoadscripción.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2025)</small>
+
 D. Esta Constitución reconoce y el Estado garantiza el derecho de las mujeres indígenas y afromexicanas a participar de manera efectiva y en condiciones de igualdad sustantiva en los procesos de desarrollo integral de sus pueblos y comunidades; en la toma de decisiones de carácter público; en la promoción y respeto de sus derechos de acceso a la educación, a la salud, a la propiedad y a la posesión de la tierra y demás derechos humanos.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2025)</small>
 
 Se reconoce y garantiza el derecho de la niñez, adolescencia y juventud indígena y afromexicana a una atención adecuada, en sus propias lenguas, para hacer efectivo el conocimiento y ejercicio pleno de sus derechos de acceso a la educación, a la salud, a la tecnología, al arte, la cultura, el deporte y la capacitación para el trabajo, entre otros. Asimismo, para garantizar una vida libre de exclusión, discriminación y violencia, en especial de la violencia sexual y de género, y para establecer políticas dirigidas a prevenir y atender las adicciones, con visión de respeto a sus identidades culturales.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2025)</small>
+
 El Estado y los municipios establecerán las medidas necesarias para hacer efectivos los derechos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, y esta Constitución, con el propósito de eliminar la discriminación, racismo, exclusión e invisibilidad de las que sean objeto los pueblos y comunidades indígenas y afromexicanas.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2025)</small>
+
 La ley establecerá las normas y mecanismos que aseguren el respeto y la implementación de los derechos de los pueblos y comunidades indígenas y afromexicanas reconocidos en esta Constitución.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2025)</small>
 
 Se establecen en el presente artículo las bases y mecanismos para asegurar la efectiva observancia de todo lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -5350,3 +5394,17 @@ Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su
 Artículo Segundo. Se abroga la Ley de Mejora Regulatoria para el Estado y los Municipios de Chiapas, publicada en el Periódico Oficial número 034 del 15 de mayo de 2019, así mismo quedan sin efectos las disposiciones reglamentarias y administrativas que se opongan a lo dispuesto en el presente Decreto.
 
 Artículo Tercero. Cumpliendo el plazo establecido por la Ley Nacional para Eliminar Trámites Burocráticos, el Congreso del Estado deberá armonizar las disposiciones y leyes estatales en la materia para la adecuada transición hacia el modelo de simplificación administrativa.
+
+P.O. 18 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 203 POR EL QUE SE REFORMA EL ARTÍCULO 7 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIAPAS, EN MATERIA DE RECONOCIMIENTO Y PROTECCIÓN CONSTITUCIONAL DEL PUEBLO AKATEKO".]
+
+Artículo Primero: El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial.
+
+Artículo Segundo: Se derogan todas las disposiciones que se opongan o contravengan lo dispuesto en el presente Decreto.
+
+Artículo Tercero: El Honorable Congreso del Estado de Chiapas, en un plazo de ciento ochenta días, contados a partir de la entrada en vigor de este Decreto, debe armonizar el marco jurídico de las leyes que correspondan, para adecuarlo al contenido del presente Decreto.
+
+Artículo Cuarto: El Poder Ejecutivo debe realizar las reformas a las disposiciones administrativas aplicables, para asegurar el respeto y la implementación de los derechos del Pueblo Akateko, reconocidos en el presente instrumento; lo anterior, en un plazo de ciento ochenta días contados a partir de la entrada en vigor del presente Decreto.
+
+Artículo Quinto: El Ejecutivo del Estado y el Honorable Congreso del Estado de Chiapas, en un acto solemne reconocerán al Pueblo Akateko como parte de los Pueblos y Comunidades Indígenas del Estado de Chiapas.
