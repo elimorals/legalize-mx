@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-etica-de-las-personas-servidoras-publicas-de-la-14188
 country: "mx"
 rank: "codigo"
 publication_date: "2019-11-09"
-last_updated: "2019-11-09"
+last_updated: "2026-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141885&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # CODIGO DE ETICA DE LAS PERSONAS SERVIDORAS PUBLICAS DE LA ADMINISTRACION PUBLICA ESTATAL DE TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE ÉTICA E INTEGRIDAD PARA UN BUEN GOBIERNO EN LA ADMINISTRACIÓN PÚBLICA ESTATAL, PUBLICADO EN EL P.O. DE 18 DE FEBRERO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE ÉTICA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2026 (ABROGADO).
 
 Código publicado en el Suplemento C del Periódico Oficial del Estado de Tabasco, el sábado 9 de noviembre de 2019.
 
@@ -542,3 +544,27 @@ DADO EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO, A LOS NUEVE D�
 JAIME ANTONIO FARÍAS MORA
 
 SECRETARIO DE LA FUNCIÓN PÚBLICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA E INTEGRIDAD PARA UN BUEN GOBIERNO EN LA ADMINISTRACIÓN PÚBLICA ESTATAL”.]
+
+PRIMERO. El presente Código de Ética entrará al día siguiente de su publicación el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se abroga el Acuerdo mediante el cual se emitió el Código de Ética de las Personas Servidoras Públicas de la Administración Pública Estatal, publicado el 9 de noviembre de 2019, en el Suplemento C al Periódico Oficial del Estado de Tabasco edición 8053.
+
+TERCERO. Los órganos desconcentrados deberán integrar sus respectivos Comités de Ética en un plazo no mayor a noventa días naturales, contados a partir de la entrada en vigor del presente acuerdo conforme a las disposiciones aplicables y a los Lineamientos Generales para la Integración y Funcionamiento de los Comités de Ética publicados en el Suplemento al Periódico Oficial del Estado de Tabasco Edición 8233, de fecha 31 de julio de 2021.
+
+CUARTO. Los Órganos Internos de Control de las dependencias atenderán los asuntos de los órganos desconcentrados adscritos a las mismas, así como los de las entidades sectorizadas, cuando alguna de éstas no cuente con Órgano Interno de Control, lo anterior conforme a lo establecido (sic) el artículo 47, fracción XL del Reglamento Interior de la Secretaría Anticorrupción y Buen Gobierno.
+
+QUINTO. La Secretaría emitirá la Guía para la elaboración del Código de Conducta de las dependencias, órganos y entidades de la administración pública estatal, a más tardar el 16 de febrero de 2026.
+
+Las dependencias y entidades contarán con 60 días naturales contados a partir de la emisión de la citada Guía, para actualizar sus respectivos Códigos de Conducta.
+
+Los órganos contarán con 90 días naturales contados a partir de la integración de sus respectivos Comités de Ética, para elaborar sus Códigos de Conducta, conforme la Guía emitida por la Secretaría.
+
+SEXTO. La Secretaría contará con un plazo de 120 días naturales, contados a partir de la entrada en vigor del presente instrumento, para realizar las reformas, adecuaciones y actualizaciones que correspondan a los Lineamientos Generales para la Integración y Funcionamiento de los Comités de Ética, a fin de armonizarlos con las disposiciones aquí establecidas.
+
+SÉPTIMO. Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente Código de Ética, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
