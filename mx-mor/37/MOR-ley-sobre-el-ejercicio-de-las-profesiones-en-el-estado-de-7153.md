@@ -4,7 +4,7 @@ identifier: "MOR-ley-sobre-el-ejercicio-de-las-profesiones-en-el-estado-de-7153"
 country: "mx"
 rank: "ley"
 publication_date: "1968-01-03"
-last_updated: "2023-12-20"
+last_updated: "2026-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7153&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY SOBRE EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el 3 de enero de 1968.
 
@@ -469,6 +469,10 @@ Se constituirán conforme a los estatutos del colegio correspondiente y tendrán
 
 Los estudiantes y los profesionales no mayores de sesenta años, que ejerzan o no las profesiones a que se refiere esta Ley, deberán prestar servicio social, en cualquiera de sus dos modalidades servicio social o servicio social comunitario. Sólo podrán ser excusados por causa de enfermedad que los incapacite para realizarlo.
 
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2026)</small>
+
+El servicio social deberá desarrollarse en condiciones dignas y adecuadas para las personas prestadoras. Las instituciones receptoras deberán asegurar la existencia de espacios dignos, trato respetuoso, acompañamiento, capacitación y tutoría, garantizando que la labor contribuya a la formación profesional de quienes lo realizan, sin que se genere relación laboral alguna.
+
 > <small>(REFORMADO, P.O. 16 DE OCTUBRE DE 2013)</small>
 
 ###### ARTICULO 50.
@@ -706,3 +710,11 @@ SEXTA. Se ratifica el oficio emitido por el Presidente de la Mesa Directiva del 
 SÉPTIMA. En un plazo no mayor a los sesenta días naturales, el Tribunal de Justicia Administrativa del Estado de Morelos, hará las modificaciones a su reglamentación interna, para dar cumplimiento a lo ordenado en el presente ordenamiento.
 
 OCTAVA. Se derogan todas las disposiciones jurídicas que se opongan a lo previsto en el presente ordenamiento.
+
+P.O. 18 DE FEBRERO DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL “DECRETO NÚMERO MIL NOVENTA Y OCHO.- POR EL QUE SE REFORMA EL ARTÍCULO 49 DE LA LEY SOBRE EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE MORELOS, EN MATERIA DEL SERVICIO SOCIAL DIGNO”.]</small>
+
+PRIMERA. Remítase el presente decreto a la Gobernadora Constitucional del Estado, para que se publique en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos, de conformidad con los artículos 44 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
