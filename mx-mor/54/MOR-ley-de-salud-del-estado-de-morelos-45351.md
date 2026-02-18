@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-salud-del-estado-de-morelos-45351"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-29"
-last_updated: "2025-05-28"
+last_updated: "2026-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45351&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DE SALUD DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 29 de junio de 2005.
 
@@ -1035,6 +1035,10 @@ VI.- La atención de la niñez y su vigilancia durante el crecimiento y desarrol
 
 VII.- La atención de los problemas en el área de la comunicación humana y de la psicología de la niñez, como grupo prioritario y de alto riesgo.
 
+> <small>(ADICIONADA, P.O. 18 DE FEBRERO DE 2026)</small>
+
+VII (SIC).- La orientación sexual a partir de la secundaria.
+
 ###### Artículo 69.
 
 A efecto de conocer, sistematizar y evaluar el problema, para adoptar medidas conducentes, la Secretaría de Salud de Morelos promoverá la organización sectorial de comités de prevención de la mortalidad infantil.
@@ -1089,17 +1093,23 @@ La prestación de servicios de salud a los escolares se efectuará de conformida
 
 ### CAPÍTULO VI. SERVICIOS DE SALUD REPRODUCTIVA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 74.
 
-La salud reproductiva tiene carácter prioritario. Tiene como objetivo general, proporcionar información y servicios de salud reproductiva a la población, incluyendo acciones de planificación familiar. En sus actividades se debe incluir información, orientación educativa y servicios para los adolescentes y jóvenes. Asimismo, para disminuir la morbilidad y mortalidad materna y perinatal, se debe contribuir a que los individuos y las parejas disfruten de una vida sexual y reproductiva satisfactoria, saludable y sin riesgos, con la absoluta libertad para decidir de manera libre, responsable y bien informada el número y espaciamiento de los hijos y, de esta forma, regular en forma armónica el crecimiento de la población.
+La salud reproductiva tiene carácter prioritario. Tiene como objetivo general, proporcionar información y servicios de salud reproductiva a la población, incluyendo acciones de planificación familiar. En sus actividades se debe incluir información, orientación educativa y acceso a métodos anticonceptivos para los adolescentes y jóvenes.
+
+> <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2026)</small>
+
+Asimismo, para disminuir la morbilidad y mortalidad materna y perinatal, se debe contribuir a que los individuos y las parejas disfruten de una vida sexual y reproductiva satisfactoria, saludable y sin riesgos, con la absoluta libertad para decidir de manera libre, responsable y bien informada el número y espaciamiento de los hijos y, de esta forma, regular en forma armónica el crecimiento de la población.
 
 Los servicios que se presten en la materia constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada sobre su vida sexual y reproductiva, con pleno respeto a su dignidad.
 
 En el ámbito de los servicios de salud reproductiva, quienes practiquen una esterilización o un método de planificación familiar, sin la voluntad del paciente, o ejerzan presión para que éste la admita, serán sancionados conforme a las disposiciones de esta Ley, independientemente de las responsabilidades penales en que incurran.
 
-> <small>(ADICIONADO, P.O. 14 DE AGOSTO DE 2013)</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 18 DE FEBRERO DE 2026)</small>
 
-Para disminuir el riesgo reproductivo, la Secretaría de Salud deberá informar a la mujer y al hombre, mediante campañas periódicas, los riesgos que puede haber en los embarazos antes de los veinte años, o en edad avanzada.
+Para disminuir el riesgo reproductivo, la Secretaría a través de los Servicios de Salud de Morelos deberá informar a las y los adolescentes, a la mujer y al hombre, mediante campañas periódicas, los riesgos que puede haber en los embarazos antes de los veinte años, o en edad avanzada.
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
@@ -1109,7 +1119,9 @@ En materia de planificación familiar, las acciones de información y orientaci�
 
 La atención a la salud reproductiva comprende las siguientes acciones:
 
-I.- (DEROGADA, P.O. 21 DE JUNIO DE 2023)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE FEBRERO DE 2026)</small>
+
+I.- Atención a la salud de la mujer y la adolescente, con énfasis a los padecimientos que más frecuentemente las afectan y los de mayor riesgo. El Sector Salud asume como prioridad la prevención, diagnóstico, tratamiento, control y vigilancia del cáncer de mama y cervicouterino.
 
 > <small>(ADICIONADA, P.O. 21 DE JUNIO DE 2023)</small>
 
@@ -1117,7 +1129,9 @@ II.- La atención a la salud ginecológica, que incluye la implementación de pr
 
 III.- Atención a la salud de la mujer durante el embarazo, el parto y el puerperio;
 
-IV.- Servicios de planificación familiar, considerando los componentes señalados a este efecto por la Ley General de Salud;
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2026)</small>
+
+IV.- Servicios de planificación familiar, a partir de la adolescencia, considerando los componentes señalados a este efecto por la Ley General de Salud;
 
 V.- Promoción y desarrollo de programas de comunicación educativa en materia de salud reproductiva, con base en los contenidos y estrategias que establezcan los Consejos Nacional y Estatal de Población;
 
@@ -1127,9 +1141,9 @@ VII.- El apoyo y fomento de la investigación, desde la perspectiva de género e
 
 VIII.- La recopilación, sistematización y actualización de la información necesaria para el adecuado seguimiento de las actividades desarrolladas;
 
-> <small>(REFORMADA, P.O. 21 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2026)</small>
 
-IX.- La promoción de la participación del hombre en la toma de decisiones reproductivas responsables con su pareja, incorporando la perspectiva de género en el diseño y ejecución de programas y proyectos en esta materia; y.
+IX.- La promoción de la participación del hombre en la toma de decisiones reproductivas responsables con su pareja, incorporando la perspectiva de género en el diseño y ejecución de programas y proyectos en esta materia; y
 
 X.- Los Hospitales tanto del Sector Privado como público deberán garantizar la confidencialidad y realización de los procedimientos necesarios acorde a lo establecido y autorizado en el artículo 119 del Código Penal del Estado de Morelos sin perjuicio de los profesionales que los realicen.
 
@@ -5094,3 +5108,13 @@ P.O. 28 DE MAYO DE 2025.
 PRIMERA. Remítase el presente decreto al Poder Ejecutivo del Estado para que realice la publicación correspondiente en el Periódico Oficial “Tierra y Libertad”.
 
 SEGUNDO. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de Difusión Oficial del Estado de Morelos.
+
+P.O. 18 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CIENTO UNO.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL ESTADO DE MORELOS, EN MATERIA DE ACCESO DE LOS ADOLESCENTES DE NUESTRO ESTADO A INFORMACIÓN SEXUAL Y MÉTODOS ANTICONCEPTIVOS”.]
+
+PRIMERA. Remítase el presente decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Morelos, para que realice la publicación correspondiente en el Periódico Oficial “Tierra y Libertad”, en términos de lo establecido en el artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de Difusión del Gobierno del Estado.
+
+TERCERA. En un plazo no mayor a 90 días naturales contados a partir de la vigencia del presente decreto, la Secretaría de Salud, deberá de actualizar sus reglamentos, manuales de organización, operación y funcionamiento, para la debida implementación del presente decreto.
