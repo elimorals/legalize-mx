@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108527"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2026-01-14"
+last_updated: "2026-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108527&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2026.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Michoacán, el martes 2 de junio de 2015.
 
@@ -1779,11 +1779,11 @@ X. Las demás que establezcan otras disposiciones en relación con la protecció
 
 ### CAPÍTULO XXVII. PROCURADURÍA DE PROTECCIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 75.
 
-Para la efectiva protección integral y restitución de los derechos de niñas, niños y adolescentes y su debida atención, de conformidad a lo que establece la Ley General y las demás leyes aplicables, la Procuraduría de Protección del Estado de Michoacán, como parte del Sistema Estatal DIF, será integrada por:
+Para la efectiva protección integral y restitución de los derechos de niñas, niños y adolescentes y su debida atención, de conformidad a lo que establece la Ley General y las demás leyes aplicables, la Procuraduría de Protección del Estado de Michoacán de Ocampo, cuenta con personalidad jurídica, y como parte del Sistema Estatal DIF, será integrada por:
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 18 DE NOVIEMBRE DE 2016)</small>
 
@@ -2648,3 +2648,9 @@ P.O. 14 DE ENERO DE 2026.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 324 POR EL QUE “SE ADICIONA LA FRACCIÓN XXXI AL ARTÍCULO 5°, EL ARTÍCULO 14 BIS ASÍ COMO LAS FRACCIONES VII Y VIII AL ARTÍCULO 54 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, por lo que se manda se publique y observe para su conocimiento general y efectos legales procedentes.
+
+P.O. 19 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 334 POR EL QUE “SE REFORMA EL ARTÍCULO 75 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de la publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
