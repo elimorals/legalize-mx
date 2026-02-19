@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2023-05-29"
+last_updated: "2026-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -163,41 +163,73 @@ Las personas tienen derecho a la protección a la vida privada, incluyendo la in
 
 El Estado promoverá la protección y desarrollo de los derechos y las libertades reconocidos en esta Constitución dentro del ámbito digital y serán plenamente aplicables en ese ámbito. Se promoverá, a través de políticas públicas, la inclusión de todas las personas de la entidad para el ejercicio de sus derechos de forma digital, de manera que se procure el bien común y el fortalecimiento de la comunidad.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 14.
 
-Todas las personas tienen derecho a la propiedad privada. La propiedad de la tierra se regirá por el artículo 27 de la Constitución Federal.
+Todas las personas tienen derecho a la propiedad privada. La propiedad de la tierra se regirá por el artículo 27 de la Constitución Federal. Las personas tienen derecho a la protección de su patrimonio familiar.
 
-Las personas tienen derecho a la protección de su patrimonio familiar. El Estado deberá regular y generar políticas públicas para tal fin, de manera que se facilite a la familia contar con los medios necesarios para la formación y perfeccionamiento de las personas y la sociedad.
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2026)</small>
+
+El Estado deberá regular y generar políticas públicas para tal fin, de manera que se facilite a la familia contar con los medios necesarios para la formación y perfeccionamiento del patrimonio en el ámbito particular y social.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2022)</small>
 
 La propiedad de las personas no puede ser ocupada sin su consentimiento, sino por causa de utilidad pública y mediante indemnización. El precio que se fijará como indemnización al bien expropiado se basará en la cantidad de su valor fiscal que figure en las oficinas catastrales o recaudadoras, ya sea que este valor haya sido manifestado por el propietario o simplemente aceptado por él de un modo tácito por haber pagado sus contribuciones con esta base. El exceso de valor o el demérito que haya tenido la propiedad particular por las mejoras o deterioros ocurridos con posterioridad a la fecha de la asignación del valor fiscal, será lo único que deberá quedar sujeto a juicio pericial y a resolución judicial. Esto mismo se observará cuando se trate de objetos cuyo valor no esté fijado en las oficinas rentísticas.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2022)</small>
+
 Los extranjeros, las asociaciones religiosas denominadas iglesias, las instituciones de beneficencia pública o privada y las sociedades mercantiles por acciones se sujetarán, en la adquisición de la propiedad raíz, a lo establecido en el artículo 27 de la Constitución Federal.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2022)</small>
 
 Una ley del Congreso del Estado establecerá la extensión máxima de terreno de que pueda ser dueña una persona o sociedad e indicará la forma y términos en que se fraccionará la excedente. La misma ley determinará el modo de disolver las comunidades y organizará el patrimonio de la familia.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2022)</small>
+
 El Congreso del Estado podrá legislar en materia de asentamientos humanos y desarrollo urbano, contemplando el interés de la sociedad e impulsando el derecho al desarrollo humano sustentable y al medio ambiente sano. Deberá prevenir el mejor uso del suelo, la protección al medio ambiente, la atmósfera y las aguas, cuidando su conservación y estableciendo adecuadas provisiones, usos, reservas territoriales y orientando el destino de tierras, aguas y bosques de jurisdicción estatal a fin de garantizar a la población un mejor desarrollo urbano, sin comprometer el potencial de las generaciones futuras, imponiendo a la propiedad privada las modalidades que dicte el interés público. No estarán permitidos en el Estado los usos de suelo y edificaciones para casinos, centros de apuestas, salas de sorteos, casas de juego y similares.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2022)</small>
 
 No se considerará confiscación la aplicación de bienes de una persona cuando sea decretada para el pago de multas o impuestos, ni cuando la decrete una autoridad judicial para el pago de responsabilidad civil derivada de la comisión de un delito, o un tribunal administrativo para el pago de daños y perjuicios derivados de responsabilidades administrativas.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2022)</small>
+
 No se considerará confiscación el decomiso que ordene la autoridad judicial de los bienes en caso de enriquecimiento ilícito en los términos de la Ley, ni la aplicación a favor del Estado de bienes asegurados que causen abandono en los términos de las disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2022)</small>
 
 El uso de la propiedad privada de la tierra y de las aguas de jurisdicción estatal podrá ser restringido mientras sea necesario durante una situación de emergencia declarada por la autoridad competente, por las modalidades que se requieran para garantizar a la población un mejor desarrollo urbano sustentable y proteger el patrimonio ecológico y nuestras montañas. Esta restricción podrá aplicarse siempre y cuando sea emitida la declaratoria correspondiente de conformidad con las disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2022)</small>
+
 El Poder Ejecutivo del Estado deberá formular, aprobar y administrar el Programa Estatal de Desarrollo Urbano, así como participar conjunta y coordinadamente con los municipios, en la planeación y regulación de las zonas de conurbación y de las zonas metropolitanas en los términos que señale la legislación correspondiente.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2022)</small>
 
 Los municipios del Estado deberán formular, aprobar y administrar los planes y programas municipales de desarrollo urbano, de centros de población y los demás derivados de estos en los términos de la ley; así como, participar en la planeación y regulación de las zonas de conurbación y de las zonas metropolitanas, conjunta y coordinadamente con el Ejecutivo y demás Municipios comprendidos dentro de las mismas, de acuerdo a la ley de la materia. Los Planes y Programas deberán establecer la prohibición de usos de suelo y uso de edificación para casinos, centros de apuestas, salas de sorteos, casas de juego y similares.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2022)</small>
+
 El Estado tiene derecho para adquirir, poseer y administrar bienes raíces, y esta clase de bienes solo podrán enajenarse, gravarse o desincorporarse, cualquiera que sea su origen, su destino y carácter, mediante Decreto del Congreso del Estado que así lo autorice.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2022)</small>
 
 Se requerirá también Decreto del Congreso cuando el Estado comprometa por un término mayor de 5 años el libre uso de los bienes inmuebles estatales.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2022)</small>
+
 Para el caso de los municipios, éstos tendrán derecho para adquirir, poseer y administrar bienes raíces, y esta clase de bienes solo podrán enajenarse, gravarse o desincorporarse por acuerdo del Ayuntamiento, de conformidad con lo establecido en las leyes respectivas.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2022)</small>
 
 Todos los actos jurídicos mediante los cuales se comprometa el libre uso de los bienes inmuebles municipales, se sujetarán a los términos que fijen las leyes, y requerirán de la aprobación de las dos terceras partes de los integrantes de los Ayuntamientos.
 
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2022)</small>
+
 Serán inexistentes las enajenaciones, actos, convenios y contratos que no se ajusten a lo preceptuado por este artículo y la ley.
+
+> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2022)</small>
 
 El Estado y sus municipios llevarán a cabo acciones coordinadas, entre sí y con la Federación, en materia de reservas territoriales para el desarrollo urbano y la vivienda adecuada, digna y decorosa, con el objeto de establecer una política integral de suelo urbano y reservas territoriales, mediante la programación de las adquisiciones y la oferta de la tierra, evitando la especulación de inmuebles. Para ello, podrán ejercer el derecho de preferencia que las leyes otorgan, a través de sus dependencias o entidades encargadas.
 
@@ -314,6 +346,14 @@ Compete a la autoridad administrativa la aplicación de sanciones por las infrac
 Si la persona que comete la infracción de los reglamentos gubernativos o de policía fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día.
 
 Tratándose de trabajadores no asalariados, la multa que se imponga por infracción de los reglamentos gubernativos y de policía, así como en justicia cívica, no excederá del equivalente a un día de su ingreso.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE FEBRERO DE 2026)</small>
+
+Cuando se determine la responsabilidad de un adolescente en la comisión de alguna de las infracciones previstas en las leyes de la materia de justicia cívica, solo se podrá sancionar con amonestación o servicio en favor de la comunidad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE FEBRERO DE 2026)</small>
+
+No podrá sancionarse a las personas menores de doce años ni a quienes tengan incapacidad legal, pero quienes ostenten la patria potestad o tutela estarán obligados a reparar el daño que resulte de la infracción cometida.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2022)</small>
 
@@ -4284,3 +4324,9 @@ P.O. 29 DE MAYO DE 2023.
 PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO: Los Diputados integrantes de la LXXVI Legislatura al Congreso del Estado de Nuevo León electos para el periodo Constitucional 2021-2024 podrán ejercer su derecho a la elección consecutiva en los términos de este Decreto.
+
+P.O. 19 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 340. SE REFORMAN LOS ARTÍCULOS 14 Y 26 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
