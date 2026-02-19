@@ -4,7 +4,7 @@ identifier: "BCS-ley-en-materia-de-desaparicion-forzada-de-personas-y-185665"
 country: "mx"
 rank: "ley"
 publication_date: "2026-02-13"
-last_updated: "2026-02-13"
+last_updated: "2026-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=185665&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCS"
 ---
 # LEY EN MATERIA DE DESAPARICION FORZADA DE PERSONAS Y DESAPARICION COMETIDA POR PARTICULARES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE FEBRERO DE 2026 EN EL B.O. DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL ESTADO DE BAJA CALIFORNIA SUR EL 19 DE FEBRERO DE 2026.]</small>
 
 Ley publicada en el Número 19 Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 13 de febrero de 2025.
 
@@ -1071,33 +1071,65 @@ a) Recabar los datos mínimos que se desprendan de la Noticia, como se señala e
 
 b) Transmitir la información de manera inmediata a la Comisión Estatal de Búsqueda.
 
+> <small>(F. DE E., B.O. 19 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 85.
 
 La autoridad distinta a la Comisión Estatal de Búsqueda que reciba la Noticia debe recabar por lo menos, la información siguiente:
 
+> <small>(F. DE E., B.O. 19 DE FEBRERO DE 2026)</small>
+
 I. El nombre, la edad y demás datos generales de la persona que lo presenta, salvo que se trate de Noticia o Reporte anónimo;
 
-II. La Clave Única de Registro de Población de la Persona Desaparecida o No Localizada; No podrá condicionarse el procedimiento de búsqueda a la presentación de este requisito;
+> <small>(F. DE E., B.O. 19 DE FEBRERO DE 2026)</small>
+
+II. La Clave Única de Registro de Población de la Persona Desaparecida o No Localizada;
+
+> <small>(F. DE E., B.O. 19 DE FEBRERO DE 2026)</small>
+
+No podrá condicionarse el procedimiento de búsqueda a la presentación de este requisito;
+
+> <small>(F. DE E., B.O. 19 DE FEBRERO DE 2026)</small>
 
 III. La ubicación desde la cual se realiza la Denuncia o Noticia;
 
+> <small>(F. DE E., B.O. 19 DE FEBRERO DE 2026)</small>
+
 IV. El número telefónico, dirección de correo electrónico o cualquier otro dato que permita que las autoridades estén en contacto con la persona, salvo que se trate de Noticia o Reporte anónimo;
+
+> <small>(F. DE E., B.O. 19 DE FEBRERO DE 2026)</small>
 
 V. La persona que se reporta como desaparecida o No Localizada y, en su caso, sus características físicas o cualquier otro dato que permita su identificación y localización;
 
+> <small>(F. DE E., B.O. 19 DE FEBRERO DE 2026)</small>
+
 VI. La narración pormenorizada de los hechos ocurridos, incluyendo las circunstancias de tiempo, modo y lugar;
+
+> <small>(F. DE E., B.O. 19 DE FEBRERO DE 2026)</small>
 
 VII. La mención de las personas probablemente involucradas, con el señalamiento de todos los datos que puedan conducir a su identificación, incluida su media filiación, y
 
+> <small>(F. DE E., B.O. 19 DE FEBRERO DE 2026)</small>
+
 VIII. Cualquier otra información, documentos o elementos que faciliten la búsqueda de las Personas Desaparecidas o No Localizadas y la investigación de los hechos.
 
-Si la persona que realiza fa Noticia o Denuncia no otorga la información señalada en este artículo, la instancia que la recabe debe asentar las razones de esa imposibilidad. La objeción de señalar datos por temor o imposibilidad de aportarlos por parte de quien haga la Denuncia o Reporte, no será obstáculo para el inicio de la búsqueda inmediata por parte de la Comisión Estatal de Búsqueda.
+> <small>(F. DE E., B.O. 19 DE FEBRERO DE 2026)</small>
 
-La autoridad que recabe fa información, documentos y elementos a que se refiere el presente artículo deberá asentar su nombre, cargo y dependencia gubernamental a la que se encuentre adscrito al momento de recibir la Noticia o Denuncia. La autoridad estará obligada a entregar una copia del Reporte o Denuncia a la persona que haya acudido a realizarla.
+Si la persona que realiza la Noticia o Denuncia no otorga la información señalada en este artículo, la instancia que la recabe debe asentar las razones de esa imposibilidad. La objeción de señalar datos por temor o imposibilidad de aportarlos por parte de quien haga la Denuncia o Reporte, no será obstáculo para el inicio de la búsqueda inmediata por parte de la Comisión Estatal de Búsqueda.
 
-Artículo 85 (sic). La autoridad que recabe la Denuncia y/o Noticia debe transmitirlo inmediatamente, a través de cualquier medio tecnológico o de telecomunicación, a la Comisión Estatal de Búsqueda en términos de lo dispuesto en esta Ley y la Ley General. Asimismo, se encuentra obligada a aplicar todas las medidas necesarias para evitar la revictimización.
+> <small>(F. DE E., B.O. 19 DE FEBRERO DE 2026)</small>
+
+La autoridad que recabe la información, documentos y elementos a que se refiere el presente artículo deberá asentar su nombre, cargo y dependencia gubernamental a la que se encuentre adscrito al momento de recibir la Noticia o Denuncia. La autoridad estará obligada a entregar una copia del Reporte o Denuncia a la persona que haya acudido a realizarla.
+
+> <small>(F. DE E., B.O. 19 DE FEBRERO DE 2026)</small>
+
+La autoridad que recabe la Denuncia y/o Noticia debe transmitirlo inmediatamente, a través de cualquier medio tecnológico o de telecomunicación, a la Comisión Estatal de Búsqueda en términos de lo dispuesto en esta Ley y la Ley General. Asimismo, se encuentra obligada a aplicar todas las medidas necesarias para evitar la revictimización.
+
+> <small>(F. DE E., B.O. 19 DE FEBRERO DE 2026)</small>
 
 Las autoridades que reciban la Denuncia y/o Noticia deberán implementar, inmediatamente, las acciones de búsqueda que les correspondan, de conformidad con lo dispuesto en el protocolo correspondiente.
+
+> <small>(F. DE E., B.O. 19 DE FEBRERO DE 2026)</small>
 
 El incumplimiento por parte de la autoridad obligada a la transmisión inmediata será sancionado de conformidad con la legislación en materia de responsabilidades administrativas.
 
