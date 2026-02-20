@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-hacienda-para-el-estado-libre-y-soberano-de-puebla-13965
 country: "mx"
 rank: "ley"
 publication_date: "2019-12-06"
-last_updated: "2024-08-05"
+last_updated: "2026-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE HACIENDA PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2026.
 
 Ley publicada en la SÉPTIMA SECCIÓN del Periódico Oficial del Estado de Puebla, el viernes 6 de diciembre de 2019.
 
@@ -157,7 +157,9 @@ II. Oficinas Receptoras de Pago, y
 
 III. Medios electrónicos.
 
-La ubicación de los lugares de pago, así como los procedimientos, medios electrónicos y horarios de atención, los dará a conocer la Secretaría de Planeación y Finanzas, mediante reglas de carácter general que publicará en el Periódico Oficial del Estado.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2026)</small>
+
+La ubicación de los lugares de pago, así como los procedimientos, medios electrónicos y horarios de atención, los dará a conocer la Secretaría de Planeación, Finanzas y Administración, mediante reglas de carácter general que publicará en el Periódico Oficial del Estado.
 
 Los pagos se harán utilizando las formas oficiales que autorice y publique la citada Dependencia.
 
@@ -189,13 +191,17 @@ Son obligaciones de los sujetos de los impuestos a que se refiere esta Ley, adem
 
 I. Registrar como domicilio fiscal en el Estado, el lugar donde se originen los actos o actividades gravados por los citados impuestos;
 
-II. Solicitar su inscripción en el Registro Estatal de Contribuyentes en cualquiera de las Oficinas Recaudadoras y de Orientación y Asistencia al Contribuyente, dentro de los diez días hábiles siguientes a la fecha en que se coloquen en la hipótesis de causación del impuesto, haciendo uso de las formas oficiales o los medios electrónicos que para tal efecto determine y publique la Secretaría de Planeación y Finanzas, señalando los datos y acompañando los documentos que en ellas se exijan.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2026)</small>
+
+II. Solicitar su inscripción en el Registro Estatal de Contribuyentes en cualquiera de las Oficinas Recaudadoras y de Orientación y Asistencia al Contribuyente, dentro de los diez días hábiles siguientes a la fecha en que se coloquen en la hipótesis de causación del impuesto, haciendo uso de las formas oficiales o los medios electrónicos que para tal efecto determine y publique la Secretaría de Planeación, Finanzas y Administración, señalando los datos y acompañando los documentos que en ellas se exijan.
 
 Para efectos de la inscripción a través de medios electrónicos, el contribuyente deberá contar con su firma electrónica (FIEL), expedida por el Servicio de Administración Tributaria.
 
 III. Presentar ante cualquiera de las Oficinas Recaudadoras y de Orientación y Asistencia al Contribuyente o a través de los medios electrónicos autorizados, los avisos respectivos de cambio de nombre, denominación o razón social, de domicilio fiscal, de actividad preponderante, de representante legal, de apertura o cierre de establecimientos, sucursales, locales, puestos fijos o semifijos, suspensión o reanudación de actividades; fusiones; escisiones y los de cancelación al Registro Estatal de Contribuyentes.
 
-Asimismo, presentar ante cualquiera de las Oficinas Recaudadoras y de Orientación y Asistencia al Contribuyente, o a través de los medios electrónicos autorizados, las declaraciones informativas, manifiestos y cualquier otro documento de naturaleza análoga que dispongan las leyes fiscales del Estado, en las formas oficiales que para tal efecto determine y publique la Secretaría de Planeación y Finanzas, señalando los datos y acompañando los documentos que en ellas se exijan.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2026)</small>
+
+Asimismo, presentar ante cualquiera de las Oficinas Recaudadoras y de Orientación y Asistencia al Contribuyente, o a través de los medios electrónicos autorizados, las declaraciones informativas, manifiestos y cualquier otro documento de naturaleza análoga que dispongan las leyes fiscales del Estado, en las formas oficiales que para tal efecto determine y publique la Secretaría de Planeación, Finanzas y Administración, señalando los datos y acompañando los documentos que en ellas se exijan.
 
 IV. Presentar los avisos, documentos, datos o información que les soliciten las autoridades fiscales en relación con alguno de los impuestos a que se refiere esta Ley, dentro de los plazos, medios y lugares señalados al efecto;
 
@@ -341,7 +347,9 @@ III. Señalar y comprobar el domicilio fiscal en el Estado;
 
 IV. Informar a requerimiento de las autoridades fiscales, el nombre, denominación o razón social, registro federal de contribuyentes y registro estatal de contribuyentes, así como el domicilio fiscal de las personas físicas, personas morales y las unidades económicas, cualquiera que sea su personalidad jurídica o su naturaleza económica, que les proporcionen personal para el desarrollo de sus actividades, y
 
-V. Presentar semestralmente ante las Oficinas Recaudadoras y de Orientación y Asistencia al Contribuyente, la información relativa a sus proveedores y prestadores de servicios, en la que se deberá señalar el nombre o razón social, el Registro Federal de Contribuyentes y el domicilio fiscal, mediante escrito libre o a través de los medios electrónicos que autorice la Secretaría de Planeación y Finanzas.
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2026)</small>
+
+V. Presentar semestralmente ante las Oficinas Recaudadoras y de Orientación y Asistencia al Contribuyente, la información relativa a sus personas proveedoras y prestadoras de servicios, en la que se deberá señalar el nombre o razón social, el Registro Federal de Contribuyentes y el domicilio fiscal, mediante escrito libre o a través de los medios electrónicos que autorice la Secretaría de Planeación, Finanzas y Administración.
 
 En el caso de que los proveedores o prestadores de servicios le hayan proporcionado personal para el desarrollo de sus actividades, el contribuyente del impuesto deberá indicar el periodo de vigencia del contrato respectivo, así como el número promedio mensual de los trabajadores objeto del contrato.
 
@@ -383,21 +391,27 @@ Están obligados a retener y enterar el impuesto a que se refiere este Capítulo
 
 La retención del impuesto prevista en el artículo anterior, no libera al contribuyente directo de la obligación de presentar las declaraciones de pago del impuesto, en las que podrá disminuir el impuesto que le haya sido retenido en el período correspondiente, y en su caso, enterar la diferencia que resulte a su cargo.
 
-Para estos efectos, el contribuyente deberá presentar ante las autoridades fiscales, el mismo día de la presentación de la declaración de que se trate, la información relativa (sic) la retención efectuada a través de las formas oficiales o los medios electrónicos autorizados por la Secretaría de Planeación y Finanzas.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2026)</small>
+
+Para estos efectos, el contribuyente deberá presentar ante las autoridades fiscales, el mismo día de la presentación de la declaración de que se trate, la información relativa a la retención efectuada a través de las formas oficiales o los medios electrónicos autorizados por la Secretaría de Planeación, Finanzas y Administración.
 
 ###### ARTÍCULO 20.
 
 Los retenedores a que se refiere el artículo 18 de la presente Ley, tendrán las siguientes obligaciones:
 
-I. Retener el impuesto que se cause conforme a las disposiciones contenidas en este Capítulo y expedir al contribuyente constancia de la retención en el momento en que ésta se efectúe o durante los cinco días hábiles siguientes a la fecha en que se efectuó dicha retención. Para estos efectos, se utilizará el formato o forma oficial que autorice y dé a conocer la Secretaría de Planeación y Finanzas.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2026)</small>
+
+I. Retener el impuesto que se cause conforme a las disposiciones contenidas en este Capítulo y expedir a la persona contribuyente constancia de la retención en el momento en que ésta se efectúe o durante los cinco días hábiles siguientes a la fecha en que se efectuó dicha retención. Para estos efectos, se utilizará el formato o forma oficial que autorice y dé a conocer la Secretaría de Planeación, Finanzas y Administración.
 
 La retención se efectuará en el momento en que se pague la contraprestación por los servicios contratado (sic).
 
 II. Declarar y enterar el impuesto retenido, en los términos a que se refiere el artículo 15 de esta Ley;
 
-III. Solicitar la inscripción en el Registro Estatal de Contribuyentes, como retenedor del impuesto, ante cualquiera de las Oficinas Recaudadoras y de Orientación y Asistencia al Contribuyente, dentro de los diez días hábiles siguientes a la fecha en que se coloquen en la hipótesis de la retención del impuesto, haciendo uso de las formas oficiales o los medios electrónicos autorizados por la Secretaría de Planeación y Finanzas publicados en el Periódico Oficial del Estado; debiendo proporcionar copia de los contratos realizados con las personas que le otorgaron la prestación de servicios.
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2026)</small>
 
-Para efectos de la inscripción a través de medios electrónicos, el contribuyente deberá contar con su firma electrónica (FIEL), expedida por el Servicio de Administración Tributaria; para tales efectos, la Secretaría de Planeación y Finanzas mediante reglas de carácter general dará a conocer el procedimiento respectivo, y
+III. Solicitar la inscripción en el Registro Estatal de Contribuyentes, como retenedor del impuesto, ante cualquiera de las Oficinas Recaudadoras y de Orientación y Asistencia al Contribuyente, dentro de los diez días hábiles siguientes a la fecha en que se coloquen en la hipótesis de la retención del impuesto, haciendo uso de las formas oficiales o los medios electrónicos autorizados por la Secretaría de Planeación, Finanzas y Administración publicados en el Periódico Oficial del Estado; debiendo proporcionar copia de los contratos realizados con las personas que le otorgaron la prestación de servicios.
+
+Para efectos de la inscripción a través de medios electrónicos, la persona contribuyente deberá contar con su firma electrónica (FIEL), expedida por el Servicio de Administración Tributaria; para tales efectos, la Secretaría de Planeación, Finanzas y Administración mediante reglas de carácter general dará a conocer el procedimiento respectivo, y
 
 IV. Conservar los contratos y comprobantes que le expida la persona física, persona moral o la unidad económica, por la prestación de servicios de personal, durante el plazo establecido en el Código Fiscal del Estado de Puebla.
 
@@ -443,15 +457,17 @@ Quienes reciban a cambio de la prestación de los servicios de hospedaje una con
 
 La persona física, persona moral o la unidad económica, a que se refiere este Capítulo, tendrán las siguientes obligaciones:
 
-I. Inscribirse ante el Registro Estatal de Contribuyentes como retenedor del impuesto, ante cualquiera de las Oficinas Recaudadoras y de Orientación y Asistencia al Contribuyente, dentro de los diez días hábiles siguientes a la fecha en que se coloquen en la hipótesis de la retención del impuesto, haciendo uso de las formas oficiales o los medios electrónicos autorizados por la Secretaría de Planeación y Finanzas publicados en el Periódico Oficial del Estado;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 5 DE AGOSTO DE 2024)</small>
+I. Inscribirse ante el Registro Estatal de Contribuyentes como retenedor del impuesto, ante cualquiera de las Oficinas Recaudadoras y de Orientación y Asistencia al Contribuyente, dentro de los diez días hábiles siguientes a la fecha en que se coloquen en la hipótesis de la retención del impuesto, haciendo uso de las formas oficiales o los medios electrónicos autorizados por la Secretaría de Planeación, Finanzas y Administración publicados en el Periódico Oficial del Estado;
 
-II. Retener el impuesto a las personas que se preste el servicio de hospedaje y enterarlo en las oficinas o a través de los medios autorizados por la Secretaría ele Planeación y Finanzas publicados en el Periódico Oficial del Estado, y
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2026)</small>
 
-III. Presentar a más tardar el día diecisiete del mes siguiente a la fecha en la que se realizaron las retenciones materia del presente Capítulo, una declaración de manera agregada, por el total de las erogaciones base de este impuesto, en los formatos y mecanismos que para tal efecto emita y dé a conocer la Secretaría de Planeación y Finanzas.
+II. Retener el impuesto a las personas que se preste el servicio de hospedaje y enterarlo en las oficinas o a través de los medios autorizados por la Secretaría de Planeación, Finanzas y Administración, publicados en el Periódico Oficial del Estado, y
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 5 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2026)</small>
+
+III. Presentar a más tardar el día diecisiete del mes siguiente a la fecha en la que se realizaron las retenciones materia del presente Capítulo, una declaración de manera agregada, por el total de las erogaciones base de este impuesto, en los formatos y mecanismos que para tal efecto emita y dé a conocer la Secretaría de Planeación, Finanzas y Administración.
 
 ###### ARTÍCULO 25.
 
@@ -509,7 +525,11 @@ f) Valor unitario consignado en número e importe total en número o letra, así
 
 g) Clave Única del Registro de Población, tratándose de personas físicas.
 
-III. Presentar semestralmente ante las Oficinas Recaudadoras y de Orientación y Asistencia al Contribuyente, la información relativa a sus proveedores y prestadores de servicios, en la que se deberá señalar el nombre o razón social, el Registro Federal de Contribuyentes y el domicilio fiscal, mediante las formas oficiales autorizadas o medios electrónicos que apruebe la Secretaría de Planeación y Finanzas.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2026)</small>
+
+III. Presentar semestralmente ante las Oficinas Recaudadoras y de Orientación y Asistencia al Contribuyente, la información relativa a sus personas proveedoras y prestadoras de servicios, en la que se deberá señalar el nombre o razón social, el Registro Federal de Contribuyentes y el domicilio fiscal, mediante las formas oficiales autorizadas o medios electrónicos que apruebe la Secretaría de Planeación, Finanzas y Administración.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN III]</small>
 
 Dicha información deberá presentarse a más tardar los días 30 de los meses de enero y julio, con los datos relativos al semestre inmediato anterior.
 
@@ -537,7 +557,9 @@ Para efectos de este Capítulo, se entiende por plataforma digital, a la aplicac
 
 Las personas físicas, las personas morales y las unidades económicas a que se refiere el presente Apartado, tendrán las siguientes obligaciones:
 
-I. Solicitar la inscripción en el Registro Estatal de Contribuyentes como retenedor del impuesto, ante cualquiera de las Oficinas Recaudadoras y de Orientación y Asistencia al Contribuyente o a través de los medios electrónicos autorizados, dentro de los diez días hábiles siguientes a la fecha en que se coloquen en la hipótesis de la retención del impuesto, de acuerdo con las Reglas de Carácter General que emita la Secretaría de Planeación y Finanzas y, que se publiquen en el Periódico Oficial del Estado;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2026)</small>
+
+I. Solicitar la inscripción en el Registro Estatal de Contribuyentes como retenedor del impuesto, ante cualquiera de las Oficinas Recaudadoras y de Orientación y Asistencia al Contribuyente o a través de los medios electrónicos autorizados, dentro de los diez días hábiles siguientes a la fecha en que se coloquen en la hipótesis de la retención del impuesto, de acuerdo con las Reglas de Carácter General que emita la Secretaría de Planeación, Finanzas y Administración y, que se publiquen en el Periódico Oficial del Estado;
 
 Para efectos de la inscripción a través de medios electrónicos, el contribuyente deberá contar con su firma electrónica (FIEL), expedida por el Servicio de Administración Tributaria.
 
@@ -911,7 +933,9 @@ III. Estar al corriente en el pago de los derechos previstos en la Ley de Ingres
 
 IV. Actualizar los datos en el Registro Estatal Vehicular mediante los actos administrativos correspondientes, y
 
-V. No tener créditos fiscales pendientes de pago, provenientes de sanciones por no respetar los límites de velocidad establecidos para las vías públicas de jurisdicción estatal, en las que se encuentre cualquier dispositivo o medio tecnológico de captación de infracciones.
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2026)</small>
+
+V. No tener créditos fiscales pendientes de pago, provenientes de sanciones por infracciones captadas a través de cualquier dispositivo o medio tecnológico en las vías públicas de jurisdicción estatal.
 
 ### CAPÍTULO IV. DEL IMPUESTO SOBRE ADQUISICIÓN DE VEHÍCULOS AUTOMOTORES USADOS
 
@@ -1005,9 +1029,11 @@ Los Organismos Públicos Descentralizados de la Administración Pública Federal
 
 Cuando el organismo público que otorgue el premio, no retenga el impuesto causado conforme a este Capítulo, deberá enterar por cuenta del contribuyente el impuesto que corresponde como retención.
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2026)</small>
+
 ###### ARTÍCULO 59.
 
-Tratándose de premios en especie, quienes los obtengan deberán entregar a los Organismos Públicos Descentralizados de la Administración Pública Federal, en su carácter de retenedores, el pago del impuesto correspondiente para que a su vez, éstos lo enteren a la Secretaría de Planeación y Finanzas. En estos casos, deberá proporcionar al sujeto obligado constancia de la retención del impuesto, cuando así lo solicite.
+Tratándose de premios en especie, quienes los obtengan deberán entregar a los Organismos Públicos Descentralizados de la Administración Pública Federal, en su carácter de retenedores, el pago del impuesto correspondiente para que, a su vez, éstos lo enteren a la Secretaría de Planeación, Finanzas y Administración. En estos casos, deberá proporcionar al sujeto obligado constancia de la retención del impuesto, cuando así lo solicite.
 
 ### CAPÍTULO VI. DEL IMPUESTO ESTATAL SOBRE LA REALIZACIÓN DE JUEGOS CON APUESTAS Y SORTEOS
 
@@ -1095,15 +1121,23 @@ Las obligaciones establecidas en este artículo no son exigibles a las personas 
 
 II. Presentar los documentos, datos o información que les soliciten las autoridades fiscales en relación con este impuesto, incluso la información relativa a los sistemas central de apuestas, de caja y de control de efectivo; así como del sistema de cómputo mediante el cual se proporcione al Servicio de Administración Tributaria, en forma permanente, la información en línea y en tiempo real de los sistemas mencionados, con las especificaciones que en términos de las disposiciones fiscales federales estén obligados a llevar por las mismas actividades. Dichos documentos, datos o información deberán proporcionarla dentro de los plazos, medios y lugares señalados en el Código Fiscal del Estado de Puebla;
 
-III. Expedir comprobantes por todas las contraprestaciones que cobren y del impuesto que retengan, con los requisitos que para tal efecto establezca la Secretaría de Planeación y Finanzas mediante reglas de carácter general;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2026)</small>
+
+III. Expedir comprobantes por todas las contraprestaciones que cobren y del impuesto que retengan, con los requisitos que para tal efecto establezca la Secretaría de Planeación, Finanzas y Administración mediante reglas de carácter general;
 
 IV. Retener el impuesto que corresponda al importe de las apuestas que crucen los participantes; así como el que corresponda al importe de los premios obtenidos y, enterarlo en los plazos y formas establecidos en la presente Ley;
 
 V. Proporcionar constancia de retención del impuesto a la persona que obtenga el premio;
 
-VI. Entregar a la Secretaría de Planeación y Finanzas junto con la declaración del impuesto mensual, reporte de identificación de los participantes en los juegos de apuestas y sorteos que ingresen cantidades mensuales superiores a los doscientos cincuenta mil pesos, así como aquellos que obtengan las mismas cantidades como resultado de premios obtenidos por participar en la actividad, y
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2026)</small>
 
-VII. Presentar semestralmente ante las Oficinas Recaudadoras y de Orientación y Asistencia al Contribuyente, la información relativa a sus proveedores y prestadores de servicios, en la que se deberá señalar el nombre o razón social, el Registro Federal de Contribuyentes y el domicilio fiscal, mediante las formas oficiales autorizadas o medios electrónicos que apruebe la Secretaría de Planeación y Finanzas.
+VI. Entregar a la Secretaría de Planeación, Finanzas y Administración junto con la declaración del impuesto mensual, reporte de identificación de las personas participantes en los juegos de apuestas y sorteos que ingresen cantidades mensuales superiores a los doscientos cincuenta mil pesos, así como aquellas que obtengan las mismas cantidades como resultado de premios obtenidos por participar en la actividad, y
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2026)</small>
+
+VII. Presentar semestralmente ante las Oficinas Recaudadoras y de Orientación y Asistencia al Contribuyente, la información relativa a sus personas proveedoras y prestadoras de servicios, en la que se deberá señalar el nombre o razón social, el Registro Federal de Contribuyentes y el domicilio fiscal, mediante las formas oficiales autorizadas o medios electrónicos que apruebe la Secretaría de Planeación, Finanzas y Administración.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN VII]</small>
 
 Dicha información deberá presentarse a más tardar los días treinta de los meses de enero y julio, con los datos relativos al semestre inmediato anterior.
 
@@ -1161,7 +1195,9 @@ La prestación de los servicios a que se refiere la Ley de Ingresos del Estado v
 
 En cada uno de los trámites relativos a la prestación de los servicios a que se refiere el presente Capítulo, el contribuyente deberá señalar su clave del Registro Federal y Estatal de Contribuyentes, salvo en los servicios que soliciten las personas físicas que, por la naturaleza de la contraprestación, se presuma no tienen la obligación de inscribirse en ninguno de dichos registros, supuestos en los que invariablemente deberá señalarse la Clave Única del Registro de Población.
 
-El servidor público responsable, previo a la prestación del servicio, se cerciorará de que el contribuyente haya realizado el pago que corresponda, conservando una copia de dicho pago y auxiliándose de las herramientas tecnológicas que le proporcione la Secretaría de Planeación y Finanzas para confirmar la autenticidad del comprobante y para registrar el otorgamiento del servicio.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2026)</small>
+
+La persona servidora pública responsable, previo a la prestación del servicio, se cerciorará de que la persona contribuyente haya realizado el pago que corresponda, conservando una copia de dicho pago y auxiliándose de las herramientas tecnológicas que le proporcione la Secretaría de Planeación, Finanzas y Administración para confirmar la autenticidad del comprobante y para registrar el otorgamiento del servicio.
 
 ## TÍTULO CUARTO. DE LOS PRODUCTOS
 
@@ -1173,7 +1209,9 @@ Son productos, las contraprestaciones por los servicios que presta el Estado en 
 
 Los productos se causarán y pagarán conforme a las disposiciones y cuotas que establezca la Ley de Ingresos del Estado vigente en el ejercicio fiscal que corresponda, o conforme a lo previsto en los contratos o instrumentos jurídicos que se suscriban.
 
-Los contratos y demás instrumentos jurídicos a que se refiere este artículo, serán normados y controlados por la Secretaría de Planeación y Finanzas.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2026)</small>
+
+Los contratos y demás instrumentos jurídicos a que se refiere este artículo, serán normados y controlados por la Secretaría de Planeación, Finanzas y Administración.
 
 Cuando los servicios a que se refiere el presente artículo estén establecidos en la Ley de Ingresos del Estado vigente en el ejercicio fiscal que corresponda, el servidor público responsable deberá proceder en los términos a que se refiere el último párrafo del artículo anterior.
 
@@ -1203,9 +1241,11 @@ Las participaciones en ingresos federales, los fondos y recursos participables, 
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2026)</small>
+
 ###### ARTÍCULO 75.
 
-Son ingresos extraordinarios, aquéllos cuya percepción se decrete excepcionalmente como consecuencia de nuevas disposiciones legislativas o administrativas de carácter federal o estatal, los que se ejercerán, causarán y cobrarán en los términos que decrete el Congreso Local, o en su caso, los que autorice el Ejecutivo del Estado o el Secretario de Planeación y Finanzas, los cuales se registrarán en los términos establecidos por la normatividad aplicable en materia de armonización contable.
+Son ingresos extraordinarios, aquéllos cuya percepción se decrete excepcionalmente como consecuencia de nuevas disposiciones legislativas o administrativas de carácter federal o estatal, los que se ejercerán, causarán y cobrarán en los términos que decrete el Congreso Local, o en su caso, los que autorice la persona titular del Ejecutivo del Estado o la persona titular de la Secretaría de Planeación, Finanzas y Administración, los cuales se registrarán en los términos establecidos por la normatividad aplicable en materia de armonización contable.
 
 ## TÍTULO OCTAVO. DE LOS REGISTROS ESTATALES
 
@@ -1215,15 +1255,19 @@ Son ingresos extraordinarios, aquéllos cuya percepción se decrete excepcionalm
 
 El Registro Estatal de Contribuyentes es la base de datos que incluye información sobre el domicilio fiscal, obligaciones y declaraciones registradas de toda persona física o moral, que conforme a las leyes fiscales sea contribuyente de los impuestos cuya administración corresponda al Estado.
 
-La Secretaría de Planeación y Finanzas mediante Reglas de Carácter General que publique en el Periódico Oficial del Estado, determinará las características y especificaciones de la clave de identificación que asignará a cada contribuyente que se registre.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2026)</small>
+
+La Secretaría de Planeación, Finanzas y Administración mediante Reglas de Carácter General que publique en el Periódico Oficial del Estado, determinará las características y especificaciones de la clave de identificación que asignará a cada persona contribuyente que se registre.
 
 ###### ARTÍCULO 77.
 
 Los contribuyentes deberán utilizar la clave de identificación asignada, en los trámites que realicen ante las autoridades fiscales del Estado.
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2026)</small>
+
 ###### ARTÍCULO 78.
 
-La Secretaría de Planeación y Finanzas será la encargada de integrar, administrar y actualizar los datos del Registro Estatal de Contribuyentes, a través de los diferentes avisos, declaraciones, trámites o movimientos que presenten los mismos o con los resultados que deriven de los actos que realicen las autoridades fiscales o bien, de la información que proporcionen las autoridades fiscales, administrativas y/o judiciales.
+La Secretaría de Planeación, Finanzas y Administración será la encargada de integrar, administrar y actualizar los datos del Registro Estatal de Contribuyentes, a través de los diferentes avisos, declaraciones, trámites o movimientos que presenten los mismos o con los resultados que deriven de los actos que realicen las autoridades fiscales o bien, de la información que proporcionen las autoridades fiscales, administrativas y/o judiciales.
 
 ###### ARTÍCULO 79.
 
@@ -1261,6 +1305,10 @@ DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
 
 Los propietarios, tenedores o usuarios de vehículos nuevos con domicilio en el Estado, deberán realizar el trámite de inscripción o alta en el Registro Estatal Vehicular dentro del mismo plazo que establece el artículo 42 de esta Ley para el primer pago del Impuesto Sobre Tenencia o Uso de Vehículos, término durante el que podrán solicitar, por una sola vez ante la autoridad competente un permiso provisional para circular sin placas de identificación vehicular durante el citado plazo.
 
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2026)</small>
+
+En el caso de las motocicletas nuevas, de manera excepcional podrán circular sin placa únicamente para el traslado del punto de venta al domicilio de resguardo, para cuyo efecto el punto de venta proporcionará el permiso provisional para traslado único autorizado por la Secretaría de Planeación, Finanzas y Administración, y publicado en el Periódico Oficial del Estado.
+
 ###### ARTÍCULO 82.
 
 Los propietarios, tenedores o usuarios de los vehículos inscritos en el Registro Estatal Vehicular deberán pagar dentro de los tres primeros meses de cada ejercicio fiscal las contribuciones vehiculares que les corresponda de conformidad con las disposiciones fiscales, aplicando las cuotas, tasas y/o tarifas que establezca la Ley de Ingresos del Estado vigente en el ejercicio fiscal de que se trate.
@@ -1293,7 +1341,9 @@ c) Cuando los propietarios de vehículos inscritos en el Registro Estatal Vehicu
 
 Los formatos, mecanismos y requisitos para realizar los trámites o movimientos a que se refiere este artículo se darán a conocer mediante Reglas de Carácter General que emita y publique en el Periódico Oficial del Estado la autoridad competente.
 
-Para que la autoridad competente realice cualquier movimiento ante el Registro Estatal Vehicular, el propietario tenedor o usuario deberá demostrar estar al corriente en el pago de las contribuciones vehiculares, así como no tener créditos fiscales pendientes de pago, provenientes de sanciones por no respetar los límites de velocidad establecidos para las vías públicas en las que se encuentre cualquier dispositivo o medio tecnológico de captación de infracciones.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2026)</small>
+
+Para que la autoridad competente realice cualquier movimiento ante el Registro Estatal Vehicular, la persona propietaria tenedora o usuaria deberá demostrar estar al corriente en el pago de las contribuciones vehiculares, así como no tener créditos fiscales pendientes de pago, provenientes de sanciones por infracciones captadas a través de cualquier dispositivo o medio tecnológico, en las vías públicas de jurisdicción estatal.
 
 ###### ARTÍCULO 84.
 
@@ -1321,9 +1371,11 @@ APARTADO C
 
 DE LAS FACULTADES DE LAS AUTORIDADES FISCALES
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2026)</small>
+
 ###### ARTÍCULO 86.
 
-La Secretaría de Planeación y Finanzas, como autoridad fiscal del Estado, en coordinación con las autoridades administrativas competentes, establecerá, integrará, administrará, controlará y mantendrá actualizado el Registro Estatal Vehicular, mediante los trámites o movimientos a que se refiere el artículo 83 de esta Ley, así como con los resultados de los actos de verificación y comprobación que para estos efectos realice o bien, de la información que proporcionen las autoridades fiscales, administrativas y/o judiciales.
+La Secretaría de Planeación, Finanzas y Administración, como autoridad fiscal del Estado, en coordinación con las autoridades administrativas competentes, establecerá, integrará, administrará, controlará y mantendrá actualizado el Registro Estatal Vehicular, mediante los trámites o movimientos a que se refiere el artículo 83 de esta Ley, así como con los resultados de los actos de verificación y comprobación que para estos efectos realice o bien, de la información que proporcionen las autoridades fiscales, administrativas y/o judiciales.
 
 ###### ARTÍCULO 87.
 
@@ -1361,9 +1413,27 @@ APARTADO E
 
 DEL SERVICIO PÚBLICO DE TRANSPORTE Y DEL SERVICIO MERCANTIL
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2026)</small>
+
 ###### ARTÍCULO 92.
 
-Los concesionarios o permisionarios del servicio público del transporte en todas sus modalidades y de servicio de transporte mercantil de personas en sus modalidades de alquiler o taxi o de taxi local, al solicitar algún trámite o movimiento al Registro Estatal Vehicular ante la Secretaría de Planeación y Finanzas, además de los requisitos a que se refiere el artículo 84 de esta Ley, deberán presentar en original los documentos autorizados por la Secretaría de Movilidad y Transporte, relativos a sus concesiones o permisos, según sea el caso.
+Las personas concesionarias o permisionarias del servicio público del transporte en todas sus modalidades y de servicio de transporte mercantil de personas en sus modalidades de alquiler o taxi o de taxi local, al solicitar algún trámite o movimiento al Registro Estatal Vehicular ante la Secretaría de Planeación, Finanzas y Administración, además de los requisitos a que se refiere el artículo 84 de esta Ley, deberán presentar en original los documentos autorizados por la Secretaría de Movilidad y Transporte, relativos a sus concesiones o permisos, según sea el caso.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2026)</small>
+
+###### ARTÍCULO 93.
+
+Las personas propietarias de motocicletas, sin perjuicio de las obligaciones establecidas en este Capítulo, se sujetarán a las siguientes disposiciones legales:
+
+I. El trámite a que se refiere la fracción I del artículo 83 de la presente Ley, deberá realizarse preferentemente previo a la salida de la motocicleta nueva del punto de venta en el que se haya realizado la compra.
+
+Excepcionalmente, por única ocasión, el punto de venta de la motocicleta nueva podrá proporcionar un Permiso Provisional de Traslado Único debidamente autorizado por la autoridad fiscal competente, mismo que servirá para mover el vehículo del punto de venta al domicilio de resguardo de la motocicleta correspondiente.
+
+El permiso provisional a que se refiere el párrafo anterior tendrá una vigencia máxima de 5 días hábiles, contados a partir de la fecha de la expedición de la factura respectiva.
+
+La Secretaría de Planeación, Finanzas y Administración emitirá los Acuerdos respectivos con los que se autorice y dé a conocer la forma oficial de reproducción restringida digital denominada Permiso Provisional para Traslado Único a que se refiere esta fracción; así como las Reglas de Carácter General que establezcan los mecanismos de uso, control y en su caso, destrucción del mismo.
+
+II. La autoridad fiscal competente, expedirá la tarjeta de circulación en la que, en su caso, se detallará el número de ocupantes autorizados, para lo cual se tomará en cuenta lo dispuesto en la legislación y las normas oficiales mexicanas respectivas.
 
 ## TRANSITORIOS
 
@@ -1390,3 +1460,11 @@ P.O. 5 DE AGOSTO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales y administrativas que se opongan al presente Decreto.
+
+P.O. 20 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA.".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
