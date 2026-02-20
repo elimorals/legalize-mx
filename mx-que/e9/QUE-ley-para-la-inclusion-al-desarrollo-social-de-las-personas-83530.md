@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-la-inclusion-al-desarrollo-social-de-las-personas-8353
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-04"
-last_updated: "2025-12-30"
+last_updated: "2026-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA LA INCLUSIÓN AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 4 de noviembre de 2011.
 
@@ -121,17 +121,33 @@ VIII. Catálogo, el catálogo de recomendaciones de accesibilidad expedido por e
 
 IX. Centros de capacitación y adiestramiento, las áreas encargadas de ofrecer capacitación, adiestramiento y rehabilitación a las personas con discapacidad, ya sea del sector público, social, privado o de trabajo coordinado entre dichos sectores;
 
-X. Comunicación, el lenguaje escrito, oral y la lengua de señas mexicana, la visualización de textos, el Sistema de Escritura Braille, la comunicación táctil, los macrotipos, los dispositivos multimedia escritos o auditivos de fácil acceso, el lenguaje sencillo, los medios de voz digitalizada y otros modos, medios, sistemas y formatos aumentativos o alternativos de comunicación, incluida la tecnología de la información y las comunicaciones de fácil acceso;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2026)</small>
+
+X. Comunicación, el lenguaje escrito, oral y la lengua de señas mexicana, la visualización de textos, el Sistema de Lectura y Escritura Braille, la comunicación táctil, los macrotipos, los dispositivos multimedia escritos o auditivos de fácil acceso, el lenguaje sencillo, los medios de voz digitalizada y otros modos, medios, sistemas y formatos aumentativos o alternativos de comunicación, incluida la tecnología de la información y las comunicaciones de fácil acceso;
 
 XI. Consejo, el Consejo Estatal para las Personas con Discapacidad;
 
-XII. Discapacidad, la ausencia, restricción o pérdida, ya sea de naturaleza temporal o permanente, de la habilidad para desarrollar una actividad, en la forma o dentro del margen considerado como normal para un ser humano;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2026)</small>
 
-XIII. Discapacidad auditiva, la restricción de la función de perfección de los sonidos externos, alteración de los mecanismos de transmisión, transducción, conducción e integración, del estímulo sonoro, que a su vez puede limitar la capacidad de comunicación. La deficiencia abarca el oído y también las estructuras y funciones asociadas a él;
+XII. Discapacidad, la consecuencia de la presencia de una deficiencia o limitación en una persona, que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con los demás;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2026)</small>
+
+XIII. Discapacidad física, la secuela o malformación que deriva de una afección en el sistema neuromuscular a nivel central o periférico, dando como resultado alteraciones en el control del movimiento y la postura, y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con los demás;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2026)</small>
+
+XIII Bis. Discapacidad intelectual, se caracteriza por limitaciones significativas tanto en la estructura del pensamiento razonado, como en la conducta adaptativa de la persona, y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con los demás;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2026)</small>
+
+XIII Ter. Discapacidad mental, la alteración o deficiencia en el sistema neuronal de una persona, que aunado a una sucesión de hechos que no puede manejar, detona un cambio en su comportamiento que dificulta su pleno desarrollo y convivencia social, y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con los demás;
 
 XIV. Discapacidad motora, aquella que se origina por una deficiencia física; es decir, la pérdida o anormalidad en la estructura anatómica de los sistemas osteo-articular, nervioso o muscular, por razones genéticas, congénitas o adquiridas, que obstaculiza o impide realizar diferentes acciones o actividades habituales;
 
-XV. Discapacidad visual, la deficiencia del órgano de la visión, las estructuras y funciones asociadas a él. Es una alteración de la agudeza visual, campo visual, modificación ocular, visión de los colores y profundidad, que determinan una deficiencia de la agudeza visual y que, una vez corregida, en el mejor de los ojos es igual o menor de 20/200 o cuyo campo visual es menor de 20 grados;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2026)</small>
+
+XV. Discapacidad sensorial, la deficiencia estructural o funcional de los órganos de la visión, audición, tacto, olfato y gusto, así como de las estructuras y funciones asociadas a cada uno de ellos, y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con los demás;
 
 > <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2018)</small>
 
@@ -155,7 +171,9 @@ XXII. Intervención temprana, la atención brindada al niño, con datos de daño
 
 XXIII. Lenguaje, se entenderá tanto el lenguaje oral como la lengua de señas y otras formas de comunicación no verbal;
 
-XXIV. Lenguaje de señas, la forma de comunicación de una comunidad de sordos, mudos o sordomudos, que consiste en una serie de signos gestuales articulados con las manos, acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función comunicativa y que forma parte del patrimonio lingüístico de dicha comunidad;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2026)</small>
+
+XXIV. Lenguaje de Señas Mexicana, la lengua de una comunidad de sordos, que consiste en una serie de signos gestuales articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función lingüística, forma parte del patrimonio lingüístico de dicha comunidad y es tan rica y compleja en gramática y vocabulario como cualquier lenguaje oral;
 
 > <small>(REFORMADA, P.O. 18 DE ABRIL DE 2018)</small>
 
@@ -179,13 +197,17 @@ XXXII. Rehabilitación integral, el conjunto de acciones médicas, psicológicas
 
 XXXIII. Sistema de escritura Braille, el sistema para la comunicación presentado mediante signos en relieve, leídos en forma táctil por las personas ciegas;
 
-> <small>(REFORMADA, P.O. 23 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2026)</small>
 
-XXXIV. Transversalidad, el proceso mediante el cual se instrumentan las políticas, programas y acciones, desarrollados por las dependencias y entidades de la administración pública, que proveen bienes y servicios a la población con discapacidad, con un propósito común y basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo; y
+XXXIV. Transversalidad, el proceso mediante el cual se instrumentan las políticas, programas y acciones, desarrollados por las dependencias y entidades de la administración pública, que proveen bienes y servicios a la población con discapacidad, con un propósito común y basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2026)</small>
 
-XXXV. Coordinación, la Coordinación de Inclusión Social para las Personas con Discapacidad dependiente del despacho del Gobernador del Estado de Querétaro.
+XXXV. Coordinación, la Coordinación de Inclusión Social para las Personas con Discapacidad dependiente del despacho del Gobernador del Estado de Querétaro; y
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2026)</small>
+
+XXXV Bis. Comunidad de sordos, todo aquel grupo social cuyos miembros tienen alguna deficiencia del sentido auditivo que les limita sostener una comunicación y socialización regular y fluida en lengua oral.
 
 ### Capítulo Tercero. De los derechos de las personas con discapacidad
 
@@ -1440,3 +1462,13 @@ Artículo Segundo. Se derogan todas las disposiciones de igual o menor Jerarquí
 Artículo Tercero. Para efectos de los precios establecidos en el párrafo segundo del Artículo Décimo Primero Transitorio de la Ley que reforma, adiciona y deroga diversas disposiciones de la Ley de Movilidad para el Transporte del Estado de Querétaro, Ley de Tránsito para el Estado de Querétaro, la Ley de Cambio .Climático para el Estado de Querétaro y la Ley para la Inclusión al Desarrollo Social de las Personas con Discapacidad del Estado de Querétaro, que mediante la presente Ley se reforma, la Agencia de Movilidad del Estado de Querétaro deberá determinar una fecha de entrada en vigor igual o posterior a la de inicio de vigencia del instrumento por el que dicho organismo público descentralizado establezca los precios señalados en el párrafo en cita.
 
 Artículo Cuarto. Envíese al titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 20 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA EL ARTÍCULO 4 DE LA LEY PARA LA INCLUSIÓN AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su aprobación por el Pleno de la Sexagésima Primera Legislatura del Estado de Querétaro.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
