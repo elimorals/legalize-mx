@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-790-de-asentamientos-humanos-ordenamiento-131598"
 country: "mx"
 rank: "ley"
 publication_date: "2018-08-31"
-last_updated: "2024-05-14"
+last_updated: "2026-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131598&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 790 DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2026.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Guerrero, el viernes 31 de agosto de 2018.
 
@@ -445,9 +445,9 @@ XV. Promover el cumplimiento y la efectiva protección de los derechos humanos r
 
 XVI. Coordinar y promover con la participación de los municipios la formulación, aprobación y ejecución de los planes de zonas metropolitanas y áreas conurbadas;
 
-> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2026)</small>
 
-XVII. Celebrar convenios con la federación, con otras entidades federativas y con los municipios, para la planeación, instrumentación y regulación de las acciones de ordenamiento territorial y la promoción y administración del desarrollo urbano de los municipios, áreas conurbadas, zonas metropolitanas y centros de población de la Entidad;
+XVII. Celebrar convenios con la federación, con otras entidades federativas, con los municipios o con la iniciativa privada, para la planeación, instrumentación y regulación de las acciones de ordenamiento territorial y la promoción y administración del desarrollo urbano de los municipios, áreas conurbadas, zonas metropolitanas y centros de población de la Entidad;
 
 > <small>(ADICIONADA, P.O. 14 DE MAYO DE 2024)</small>
 
@@ -545,9 +545,13 @@ XXXII. Impulsar y promover en las instancias competentes del estado y los munici
 
 XXXIII. Asesorar a los gobiernos municipales en la conformación de los Institutos municipales, multimunicipales y metropolitanos de planeación, así como en la elaboración y ejecución de sus planes o programas de desarrollo urbano y en la capacitación técnica de su personal, y
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE FEBRERO DE 2026)</small>
+
+XXXIV. Coordinarse con la Secretaría de Medio Ambiente y Recursos Naturales del Estado, para preservar y restaurar la imagen urbana, así como para prevenir y controlar la contaminación provocada por la presencia de redes de cableado en desuso sobre el mobiliario urbano,
+
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE MAYO DE 2024)</small>
 
-XXXIV. Las demás que le señale esta Ley y otras disposiciones jurídicas aplicables.
+XXXV. Las demás que le señale esta Ley y otras disposiciones jurídicas aplicables.
 
 #### Sección Cuarta. Ayuntamientos
 
@@ -597,9 +601,13 @@ XIV. Ejecutar en coordinación con las autoridades estatales, acciones para la p
 
 XV. Intervenir y coadyuvar en la regularización de la tenencia de la tierra de los asentamientos irregulares en zonas que no sean consideradas de riesgo, así como en los procesos de incorporación al desarrollo urbano de tierras de origen ejidal, comunal, privado o provenientes del patrimonio de la federación o del estado, conforme a la legislación aplicable, y
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE FEBRERO DE 2026)</small>
+
+XVI. Coadyuvar en las acciones y estrategias para el retiro de cableado de telecomunicaciones, para lo cual las entidades de telecomunicaciones que sean responsables de la infraestructura deberán actuar en coordinación con los municipios,
+
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE MAYO DE 2024)</small>
 
-XVI. Las demás que le señale esta Ley y otras disposiciones jurídicas aplicables.
+XVII. Las demás que le señale esta Ley y otras disposiciones jurídicas aplicables.
 
 #### Sección Quinta. Área responsable del desarrollo urbano municipal
 
@@ -3037,27 +3045,49 @@ Las medidas de seguridad y de urgente aplicación son de inmediata ejecución, t
 
 Para los efectos de esta Ley, se considerarán como medidas de seguridad de urgente aplicación:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE FEBRERO DE 2026)</small>
+
 I. La suspensión inmediata hasta por cuarenta y cinco días de los trabajos, obras, servicios y actividades, cuya ejecución provoque riesgos a la integridad personal o patrimonial de las personas, o carezcan del permiso correspondiente, el periodo de suspensión puede prorrogarse cuando la instancia de procuración de justicia en materia de ordenamiento territorial y desarrollo urbano lo determine.
 
-III (SIC). La desocupación y desalojo de inmuebles;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2026)</small>
 
-IV. La demolición total o parcial de construcciones o retiro de anuncios, antenas, estructuras, materiales e instalaciones de servicios;
+II. La desocupación y desalojo de inmuebles;
 
-VI (SIC). La prohibición de la utilización o uso de edificaciones, predios, lotes, maquinaria y equipo;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2026)</small>
 
-VII. El Inventario, aseguramiento, guarda y custodia de objetos y materiales existentes en el área objeto de análisis;
+III. La demolición total o parcial de construcciones o retiro de cables anuncios, antenas, estructuras, materiales e instalaciones de servicios;
 
-VIII. Refuerzo o apuntalamiento de estructuras o edificaciones;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2026)</small>
 
-IX. La advertencia pública sobre cualquier irregularidad en las actividades realizadas por un fraccionador o promovente de condominios;
+IV. La prohibición de la utilización o uso de edificaciones, predios, lotes, maquinaria y equipo;
 
-X. Contratación de anuncios en medios masivos de comunicación, para la emisión de mensajes de alerta por caída de materiales, por desprendimientos de terreno, apuntalamientos y demolición de partes inestables a fin de evitar daños a terceros;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2026)</small>
 
-XI. Aislamiento temporal, parcial o total del área afectada;
+V. El Inventario, aseguramiento, guarda y custodia de objetos y materiales existentes en el área objeto de análisis;
 
-XII. Inmovilización y aseguramiento de materiales que no cumplan con los parámetros autorizados por la Normatividad Oficial Mexicana en materia de construcción; y
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2026)</small>
 
-XIII. Cualquier prevención que tienda a lograr los fines expresados en el artículo anterior.
+VI. Refuerzo o apuntalamiento de estructuras o edificaciones;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2026)</small>
+
+VII. La advertencia pública sobre cualquier irregularidad en las actividades realizadas por un fraccionador o promovente de condominios;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2026)</small>
+
+VIII. Contratación de anuncios en medios masivos de comunicación, para la emisión de mensajes de alerta por caída de materiales, por desprendimientos de terreno, apuntalamientos y demolición de partes inestables a fin de evitar daños a terceros;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2026)</small>
+
+IX. Aislamiento temporal, parcial o total del área afectada;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2026)</small>
+
+X. Inmovilización y aseguramiento de materiales que no cumplan con los parámetros autorizados por la Normatividad Oficial Mexicana en materia de construcción; y
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2026)</small>
+
+XI. Cualquier prevención que tienda a lograr los fines expresados en el artículo anterior.
 
 ###### Artículo 165.
 
@@ -3558,3 +3588,11 @@ SEGUNDO. A partir de la entrada en vigor de este Decreto, las autoridades estata
 TERCERO. La Secretaría de Finanzas y Administración, la Secretaría de Contraloría y Transparencia Gubernamental y la Secretaría de Planeación y Desarrollo Regional, deberán conforme a sus atribuciones realizar las acciones administrativas, adecuaciones estructurales y presupuestarias necesarias para la aplicabilidad del presente Decreto.
 
 CUARTO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno de Estado, así como en la página oficial del Congreso del Estado de Guerrero, para su conocimiento general.
+
+P.O. 20 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 482 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 790 DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE GUERRERO EN MATERIA DE CONTAMINACIÓN E IMAGEN URBANA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Guerrero el presente Decreto y su respectiva Declaratoria para su conocimiento y efectos procedentes.
