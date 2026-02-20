@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-cultura-del-estado-de-puebla-66146"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-12"
-last_updated: "2023-06-26"
+last_updated: "2026-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE CULTURA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2026.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Puebla, el lunes 12 de enero de 2009.
 
@@ -53,9 +53,17 @@ I.- Reconocer el derecho de todo habitante de la Entidad a la valoración de sus
 
 II.- Establecer las bases que orienten la actuación de las autoridades competentes en la valoración, identificación, protección, conservación, restauración, recuperación y difusión del patrimonio cultural de la Entidad;
 
-III.- Regular las acciones de las autoridades estatales y municipales que tiendan a facilitar, y en su caso a garantizar, el disfrute, preservación, promoción, difusión y recreación de la cultura en sus manifestaciones artísticas, artesanales, costumbres y tradiciones populares; y
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2026)</small>
 
-IV.- Promover la participación de los individuos, grupos y organizaciones privadas en la preservación, promoción, fomento, difusión e investigación de la cultura, así como en apoyo a la producción, financiamiento y distribución de bienes culturales o a la prestación de servicios relacionados.
+III.- Regular las acciones de las autoridades estatales y municipales que tiendan a facilitar, y en su caso a garantizar, el disfrute, preservación, promoción, difusión y recreación de la cultura en sus manifestaciones artísticas, artesanales, costumbres y tradiciones populares;
+
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2026)</small>
+
+IV.- Promover la participación de los individuos, grupos y organizaciones privadas en la preservación, promoción, fomento, difusión e investigación de la cultura, así como en apoyo a la producción, financiamiento y distribución de bienes culturales o a la prestación de servicios relacionados; y
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2026)</small>
+
+V.- Promover, de acuerdo con la suficiencia presupuestaria correspondiente, el arte y cultura del Estado, a nivel nacional e internacional.
 
 ###### Artículo 2.
 
@@ -1000,5 +1008,13 @@ P.O. 26 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES VI Y VII, Y ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 34 DE LA LEY DE CULTURA DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES III Y IV, Y ADICIONA LA FRACCIÓN V AL ARTÍCULO 1 DE LA LEY DE CULTURA DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
