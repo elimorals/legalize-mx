@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109776"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-03"
-last_updated: "2025-08-29"
+last_updated: "2026-02-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 3 de septiembre de 2015.
 
@@ -153,13 +153,17 @@ XXVII. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de 
 
 XXVIII. Sistema Nacional de Protección Integral: El Sistema Nacional de Protección Integral de Niñas, Niños y Adolescentes;
 
-> <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2026)</small>
 
-XXIX. Castigo corporal o físico: Todo aquel acto cometido en contra de niñas, niños y adolescentes en el que se utilice la fuerza física, incluyendo golpes con la mano o con algún objeto, empujones, pellizcos, mordidas, tirones de cabello o de las orejas, obligar a sostener posturas incómodas, quemaduras, ingesta de alimentos hirviendo u otros productos o cualquier otro acto que tenga como objeto causar dolor o malestar, aunque se leve; y
+XXIX. Castigo corporal o físico: Todo aquel acto cometido en contra de niñas, niños y adolescentes en el que se utilice la fuerza física, incluyendo golpes con la mano o con algún objeto, empujones, pellizcos, mordidas, tirones de cabello o de las orejas, obligar a sostener posturas incómodas, quemaduras, ingesta de alimentos hirviendo u otros productos o cualquier otro acto que tenga como objeto causar dolor o malestar, aunque sea leve;
 
-> <small>(ADICIONADA, P.O. 15 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2026)</small>
 
-XXX. Castigo humillante: Cualquier trato ofensivo, denigrante, desvalorizador, estigmatizante, ridiculizador y de menosprecio, y cualquier acto que tenga como objetivo provocar dolor, amenaza, molestia o humillación cometido en contra de niñas, niños y adolescentes.
+XXX. Castigo humillante: Cualquier trato ofensivo, denigrante, desvalorizador, estigmatizante, ridiculizador y de menosprecio, y cualquier acto que tenga como objetivo provocar dolor, amenaza, molestia o humillación cometido en contra de niñas, niños y adolescentes; y
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2026)</small>
+
+XXXI. Crianza positiva: Conjunto de prácticas de cuidado, protección, formación y guía que ayudan al desarrollo, bienestar y crecimiento saludable y armonioso de las niñas, niños y adolescentes, tomando en cuenta su edad, facultades, características, cualidades, intereses, motivaciones, límites y aspiraciones, sin recurrir a castigos corporales ni tratos humillantes y crueles, salvaguardando el interés superior de la niñez con un enfoque de derechos humanos.
 
 ###### Artículo 5.
 
@@ -551,7 +555,9 @@ Los reportes deberán contener la información seccionada por edad, sexo, escola
 
 Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano y sustentable y en condiciones que permitan su desarrollo, bienestar, crecimiento saludable y armonioso, tanto físico como mental, material, espiritual, ético, cultural y social.
 
-Corresponde a quienes ejerzan la patria potestad, tutela, guarda o custodia de niñas, niños y adolescentes, la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo integral. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, coadyuvarán a dicho fin mediante la implementación de acciones apropiadas.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2026)</small>
+
+Corresponde a quienes ejerzan la patria potestad, tutela, guarda o custodia de niñas, niños y adolescentes, así como a quienes los tengan bajo su atención y cuidado, la obligación primordial de adoptar prácticas de crianza positiva y de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo integral. Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, coadyuvarán a dicho fin mediante la implementación de acciones apropiadas.
 
 ### Capítulo Noveno. Del derecho de acceso a una vida libre de violencia y a la integridad personal
 
@@ -1239,7 +1245,15 @@ XV. Hacer uso de los recursos legales ante la autoridad competente en todos los 
 
 XVI. Garantizar sus derechos alimentarios y el ejercicio de sus derechos, de conformidad con lo dispuesto en la presente Ley y demás disposiciones aplicables.
 
-Para los efectos de esta fracción, los derechos alimentarios comprenden esencialmente la satisfacción de las necesidades de alimentación nutritiva, educación, vestido, recreación, habitación y servicios, así como atención médica y psicológica preventiva integrada a la salud;
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2026)</small>
+
+Para los efectos de esta fracción, los derechos alimentarios comprenden esencialmente la satisfacción de las necesidades de sustento y supervivencia y en la especie:
+
+a) La alimentación y nutrición, vestido, habitación, recreación, atención médica y psicológica preventiva integrada a la salud, asistencia médico-hospitalaria y, en su caso, los gastos de embarazo y parto;
+
+b) Los gastos derivados de la educación y la formación para proporcionar a los menores un oficio, arte o profesión, adecuados a sus circunstancias personales; y
+
+c) Con relación a los menores con algún tipo de discapacidad o declarados en estado de interdicción, lo necesario para lograr, en lo posible, su habilitación o rehabilitación y su desarrollo.
 
 XVII. Registrarlos dentro de los primeros sesenta días de vida;
 
@@ -1247,7 +1261,9 @@ XVIII. Asegurar que cursen la educación obligatoria, participar en su proceso e
 
 XIX. Dirigir y orientar apropiadamente a las niñas, niños y adolescentes que se encuentren bajo su guarda y custodia, sin que ello pueda justificar limitación, vulneración o restricción alguna en el ejercicio de sus derechos;
 
-XX. Asegurar un entorno afectivo, comprensivo y sin violencia para el pleno y armonioso desarrollo integral;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2026)</small>
+
+XX. Asegurar un entorno afectivo, comprensivo y sin violencia para el pleno y armonioso desarrollo integral; adoptando prácticas de crianza positiva, y proporcionando, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo.
 
 XXI. Fomentar en las niñas, niños y adolescentes que se encuentren bajo su guarda y custodia, el respeto a todas las personas, así como el cuidado de los bienes propios, de la familia y de la comunidad y el aprovechamiento de los recursos que se dispongan para su desarrollo integral;
 
@@ -1262,6 +1278,14 @@ XXV. Educar en el conocimiento y uso responsable de las tecnologías de la infor
 Las autoridades estatales y municipales tienen el compromiso y el deber de respetar y garantizar a quienes ejercen la patria potestad, tutela, guarda o custodia, el goce y ejercicio efectivo de los derechos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Querétaro, los tratados internacionales y demás legislación aplicable.
 
 En casos de controversia, el órgano jurisdiccional competente determinará el grado de responsabilidad de quien tenga a su cargo y cuidado a niñas, niños o adolescentes, atendiendo a los principios de esta Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2026)</small>
+
+El Tribunal o Juez ordenará la inscripción en el Registro Nacional de Obligaciones Alimentarias, de la persona deudora alimentaria morosa, así como la cancelación mediante mandato judicial de conformidad con la normativa en la materia.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2026)</small>
+
+La calidad de deudor moroso se inscribirá en el Registro Nacional de Obligaciones Alimentarias, con apego a lo dispuesto en la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados.
 
 ###### Artículo 97.
 
@@ -1345,7 +1369,9 @@ VI. Orientación y educación apropiada a su edad, encaminadas a lograr un desar
 
 VII. Disfrutar en su vida cotidiana, del descanso, recreación, juego, esparcimiento y actividades que favorezcan su desarrollo integral;
 
-VIII. Servicios de calidad y calidez, por parte de personal capacitado, calificado, apto y suficiente, con formación enfocada en los derechos de la niñez;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2026)</small>
+
+VIII. Servicios de calidad y calidez, por parte de personal capacitado, calificado, apto y suficiente, con formación enfocada en los derechos de la niñez y en la crianza positiva;
 
 IX. Las personas responsables y el personal de los centros de asistencia social se abstendrán de realizar actividades que afecten la integridad física y psicológica de niñas, niños y adolescentes. De igual manera, los responsables evitarán que el personal que realice actividades diversas al cuidado de niñas, niños y adolescentes, tenga contacto con éstos en la medida que pudiera causarles algún daño o perjuicio;
 
@@ -1471,9 +1497,15 @@ XI. Proporcionar a las instancias encargadas de realizar estadísticas y de inte
 
 XII. Coordinar con las autoridades de los órdenes de gobierno la implementación y ejecución de las acciones y políticas públicas que deriven de la presente Ley;
 
-XIII. Impulsar reformas, en el ámbito de su competencia, para el cumplimiento de los objetivos de la presente Ley; y
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2026)</small>
 
-XIV. Cualquier otra prevista para el cumplimiento de esta Ley.
+XIII. Impulsar reformas, en el ámbito de su competencia, para el cumplimiento de los objetivos de la presente Ley;
+
+> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2026)</small>
+
+XIV. Impulsar acciones para fomentar la crianza positiva dirigidas a quienes ejercen la patria potestad, tutela, guarda, custodia o cualquier persona que incida en el cuidado y atención de niñas, niños y adolescentes; y
+
+XV. Cualquier otra prevista para el cumplimiento de esta Ley.
 
 ###### Artículo 110.
 
@@ -1761,7 +1793,9 @@ XIV. Fortalecer las acciones de corresponsabilidad y cercanía entre las instanc
 
 XV. Administrar el sistema estatal de información y coadyuvar en la integración del sistema de información a nivel nacional;
 
-XVI. Realizar acciones de formación y capacitación de manera sistemática y continua sobre el conocimiento y respeto de los derechos humanos de niñas, niños y adolescentes, especialmente en coordinación con sus padres, tutores o responsables legales y con aquellas personas que trabajan desde los diversos ámbitos en la garantía de sus derechos;
+> <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2026)</small>
+
+XVI. Realizar acciones de formación y capacitación de manera sistemática y continua sobre el conocimiento y respeto de los derechos humanos de niñas, niños y adolescentes, en el marco de una crianza positiva, especialmente en coordinación con sus padres, tutores o responsables legales y con aquellas personas que trabajan desde los diversos ámbitos en la garantía de sus derechos;
 
 XVII. Hacer efectiva la concurrencia, vinculación y congruencia de los programas y acciones de los gobiernos estatal y municipales, estrategias y prioridades de la política pública estatal de protección de niñas, niños y adolescentes;
 
@@ -2246,3 +2280,23 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 20 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA EL ARTÍCULO 96 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía contrarias a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 20 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
