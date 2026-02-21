@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-proteccion-civil-del-estado-y-municipios-de-zacatecas-12
 country: "mx"
 rank: "ley"
 publication_date: "2018-03-14"
-last_updated: "2025-10-04"
+last_updated: "2026-02-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127168&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO Y MUNICIPIOS DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2026.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 14 de marzo de 2018.
 
@@ -487,11 +487,21 @@ XXXVII. Emitir opiniones de riesgo o no riesgo sobre desarrollos urbanos o cualq
 
 XXXVIII. Revocar programas internos de Protección Civil autorizados por las Coordinaciones Municipales que hayan sido autorizados contradiciendo esta Ley y su Reglamento;
 
-> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA, P.O. 21 DE FEBRERO DE 2026)</small>
 
-XXXIX. Fungir como instancia de consulta para las dependencias y entidades de la administración pública estatal y municipales y, en su caso, para los sectores público y privado, que realicen programas relacionados con la protección civil y la gestión integral de riesgos, y
+XXXIX. Fungir como instancia de consulta para las dependencias y entidades de la administración pública estatal y municipales y, en su caso, para los sectores público y privado, que realicen programas relacionados con la protección civil y la gestión integral de riesgos;
 
-XL. Las demás que le atribuyan esta Ley y demás ordenamientos aplicables.
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 21 DE FEBRERO DE 2026)</small>
+
+XL. Implementar medidas de prevención de incendios forestales, las cuales deberán incluir:
+
+a) La creación y mantenimiento de cortafuegos en zonas estratégicas,
+
+b) La gestión y eliminación de material vegetal seco y residuos forestales que puedan servir como combustible, y
+
+c) Conjuntamente con las coordinaciones municipales de protección civil, la capacitación y organización de brigadas comunitarias en los municipios para la prevención de incendios; y
+
+XLI. Las demás que le atribuyan esta Ley y demás ordenamientos aplicables.
 
 ### Capítulo V. Comité Estatal de Emergencias y Desastres de Protección Civil
 
@@ -1576,3 +1586,13 @@ SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Decr
 P.O. 4 DE OCTUBRE DE 2025.
 
 > <small>[N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 4o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE ZACATECAS.]</small>
+
+P.O. 21 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 192.- SE REFORMA Y ADICIONA EL ARTÍCULO 22 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO Y MUNICIPIOS DE ZACATECAS”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Dentro de los 180 días siguientes a la entrada en vigor de esta reforma, la Coordinación Estatal y las coordinaciones municipales de protección civil, deberán elaborar un programa estratégico para la implementación de estas medidas.
+
+Tercero. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
