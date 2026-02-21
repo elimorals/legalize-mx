@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-justicia-administrativa-del-estado-de-zacatecas-145647"
 country: "mx"
 rank: "ley"
 publication_date: "2021-01-02"
-last_updated: "2022-12-31"
+last_updated: "2026-02-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE ZACATECAS, PUBLICADA EN EL P.O. DE 21 DE FEBRERO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2026 (ABROGADA).
 
 Ley publicada en el Suplemento al Número 1 del Periódico Oficial del Estado de Zacatecas, el sábado 2 de enero de 2021.
 
@@ -2224,3 +2226,31 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El contenido de este Decreto será aplicable a los asuntos que se encuentren en trámite, de conformidad con el principio pro persona.
+
+P.O. 21 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado.
+
+Artículo segundo. Sin perjuicio de lo establecido en este apartado, con la entrada en vigor de la presente Ley queda abrogada la Ley de Justicia Administrativa del Estado de Zacatecas, aprobada mediante Decreto #576 y publicada en el suplemento al número 1 del Periódico Oficial, Órgano de Gobierno del Estado, correspondiente al 2 de enero de 2021, así como todas aquellas disposiciones que la contraríen.
+
+Artículo tercero. En un plazo que no deberá exceder de 180 días a partir de la entrada en vigor del presente Decreto, el Tribunal de Justicia Administrativa del Estado de Zacatecas armonizará su normatividad interna con base en el contenido de este instrumento legislativo.
+
+Artículo cuarto. Los juicios y procedimientos que se encuentren en trámite a la entrada en vigor del presente decreto continuarán su substanciación hasta su total conclusión conforme a las disposiciones legales aplicables vigentes a su inicio.
+
+Artículo quinto. Las menciones al Tribunal de lo Contencioso Administrativo del Estado y Municipios de Zacatecas que aún estén contenidas en los otros ordenamientos legales, se entenderán referidas al Tribunal de Justicia Administrativa del Estado de Zacatecas.
+
+Artículo sexto. Los Magistrados del Tribunal de Justicia Administrativa del Estado de Zacatecas que a la entrada en vigor de la presente Ley se encuentren en ejercicio de sus cargos, continuarán en ellos hasta concluir el periodo para el cual fueron designados, en términos de la Constitución Política del Estado Libre y Soberano de Zacatecas.
+
+Artículo séptimo. En el caso del Órgano Interno de Control del Tribunal de Justicia Administrativa del Estado de Zacatecas, la persona titular que se encuentre en funciones concluirá el periodo para el que fue designado.
+
+Conforme a lo anterior, la Legislatura del Estado deberá emitir convocatoria pública para la designación de dicho cargo por lo menos sesenta días antes de la fecha en que concluya su periodo el actual titular, quien podrá participar en el proceso de designación, cumpliendo con los requisitos previstos en la referida convocatoria
+
+Artículo octavo. Una vez que la Legislatura del Estado apruebe y, en su momento, se realicen las transferencias o asignaciones presupuestales correspondientes, el Tribunal procederá a la creación del Centro de Mecanismos Alternativos de Solución de Controversias y su consecuente inicio de funciones.
+
+En tanto ocurre lo anterior, el Tribunal gestionará la capacitación, evaluación y certificación del personal que corresponda, en términos de la Ley de Mecanismos, a efecto de prepararse para la implementación del organismo, así como para garantizar su profesionalización y operatividad.
+
+El Centro iniciará labores dentro de los 180 días naturales posteriores a la asignación presupuestal y en un plazo igual, a partir de su instalación, el Pleno deberá emitir el Reglamento Interno.
+
+Durante este periodo, el Tribunal podrá aplicar el Capítulo correspondiente a la Conciliación de la Ley de Justicia Administrativa del Estado de Zacatecas, publicada en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas, el 2 de enero de 2021.
