@@ -4,7 +4,7 @@ identifier: "MIC-codigo-de-conducta-de-las-personas-servidoras-publicas-del-1587
 country: "mx"
 rank: "codigo"
 publication_date: "2022-04-26"
-last_updated: "2022-04-26"
+last_updated: "2026-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=158736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # CODIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PUBLICAS DEL PODER JUDICIAL DEL ESTADO DE MICHOACAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE ÉTICA Y CONDUCTA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN, PUBLICADO EN EL P.O. DE 23 DE FEBRERO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2026 (ABROGADO).
 
 Código publicado en la Décima Quinta Sección al Núm. 19 del Periódico Oficial del Estado de Michoacán, el martes 26 de abril de 2022.
 
@@ -300,3 +302,17 @@ Morelia, Michoacán, a 19 de abril de 2022".
 Rúbricas. Lic. Jorge Reséndiz García, Consejero Presidente; Lic. Javier Gil Oseguera, Consejero; Mtra. Dora Elia Herrejón Saucedo, Consejera; Lic. Víctor Lenin Sánchez Rodríguez, Consejero; Lic. Soledad Alejandra Ornelas Farfán, Secretaria Ejecutiva. Cinco firmas ilegibles. Doy fe.».
 
 Se expide la presente para publicarse en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo. Morelia, Michoacán, a 25 de abril de 2022. (Firmado).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA Y CONDUCTA DEL PODER JUDICIAL DEL ESTADO DE MICHOACÁN”.]
+
+PRIMERO. Publíquese el presente Código de Ética y Conducta en el Periódico Oficial del Gobierno Constitucional del Estado y en la Página de Internet del Poder Judicial.
+
+SEGUNDO. Una vez entrada (sic) en vigor el presente Código, se abroga el «Código de Ética del Poder Judicial del Estado (sic) Michoacán» y el «Código de Conducta de las Personas Servidoras Públicas del Poder Judicial del Estado de Michoacán», aprobadas por el extinto Consejo del Poder Judicial del Estado en fechas 17 diecisiete de diciembre de 2021 dos mil veintiuno y 19 diecinueve de abril de 2022 dos mil veintidós, respectivamente.
+
+TERCERO. Luego de la entrada en vigor del presente Código de Ética, el departamento de recursos humanos, dentro de (sic) plazo de quince días hábiles deberá remitir la propuesta de la Carta Compromiso al Órgano de Administración del Poder Judicial para su debida aprobación.
+
+CUARTO. Pare el caso de las personas servidoras públicas que ya se encuentren laborando en el Poder Judicial, deberán descargar la Carta Compromiso que se encuentra publicada en la Intranet, una vez firmada deberá ser entregada en un plazo no mayor a treinta días hábiles a Recursos Humanos.
