@@ -4,7 +4,7 @@ identifier: "AGU-codigo-urbano-para-el-estado-de-aguascalientes-161515"
 country: "mx"
 rank: "codigo"
 publication_date: "2022-12-20"
-last_updated: "2025-11-13"
+last_updated: "2026-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2026.
 
 Código publicado en el Número 70 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 20 de diciembre de 2020.
 
@@ -9789,6 +9789,10 @@ VI. Causales de revocación; y
 
 VII. Sanciones por incumplimiento.
 
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2026)</small>
+
+Tratándose de carreteras, puentes y otros bienes susceptibles de concesionarse conforme a este Código, el título de concesión respectivo establecerá si la liberación total del derecho de vía quedará a cargo y responsabilidad exclusiva del concesionario. En estos casos, el inicio de la explotación de la carretera quedará condicionado a que el concesionario haya liberado y acreditado ante la autoridad competente el cien por ciento del derecho de vía correspondiente al tramo concesionado.
+
 ###### ARTÍCULO 785.
 
 Para el otorgamiento de concesiones, y en su caso, para la prórroga de su plazo, el Gobierno del Estado o el Municipio tomarán en cuenta los siguientes elementos:
@@ -10658,3 +10662,15 @@ P.O. 13 DE NOVIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 319.- SE REFORMA EL CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 408.- SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 61 DE LA LEY DE BIENES PARA EL ESTADO DE AGUASCALIENTES; Y, SE ADICIONA PÁRRAFO SEGUNDO AL ARTÍCULO 784 DEL CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efectos todas aquellas disposiciones que se oponga (sic) al presente Decreto.
