@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-seguridad-para-el-estado-de-queretaro-114902"
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-30"
-last_updated: "2024-09-27"
+last_updated: "2026-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114902&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE SEGURIDAD PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2026.
 
 Ley publicada en Periódico Oficial del Estado de Querétaro, el lunes 30 de mayo de 2016.
 
@@ -376,6 +376,14 @@ VI. El Centro de Evaluación y Control de Confianza del Estado;
 VII. Las Secretarías de Seguridad Pública Municipal o sus equivalentes; y
 
 VIII. Las demás autoridades que, en razón de sus atribuciones, deban contribuir directa o indirectamente al cumplimiento del objeto de esta Ley.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2026)</small>
+
+La Fiscalía General del Estado coordinará SINERGIA como instancia operativa del Sistema Estatal, con la finalidad de potencializar la ejecución de intervenciones, acciones, diligencias y desahogo de técnicas de investigación en la persecución de los delitos, con la colaboración y participación de las instituciones seguridad en el ámbito de su competencia, así como el intercambio permanente de información para el trabajo de objetivos y detención de generadores de violencia.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2026)</small>
+
+SINERGIA integra y sistematiza los datos e información que permitan a las instituciones de seguridad competentes, diseñar estrategias que incidan en una disminución de la violencia y de los delitos de alto impacto en la entidad y en la región a la que pertenece Querétaro.
 
 ### Capítulo Tercero. De las autoridades estatales y municipales
 
@@ -1464,3 +1472,13 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”
+
+P.O. 23 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA LA LEY DE SEGURIDAD PARA EL ESTADO DE QUERÉTARO MEDIANTE LA CUAL SE RECONOCE SINERGIA COMO INSTANCIA DEL SISTEMA ESTATAL DE SEGURIDAD”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro, "La Sombra de Arteaga".
+
+Articulo Segundo Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
