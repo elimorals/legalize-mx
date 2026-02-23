@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-de-la-fiscalia-general-del-estado-de-queretaro-114
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-05-30"
-last_updated: "2025-11-28"
+last_updated: "2026-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el lunes 30 de mayo de 2016.
 
@@ -226,6 +226,10 @@ IV. Investigar y proceder conforme a la legislación aplicable, respecto de las 
 V. Investigar y perseguir los delitos establecidos en la Ley General en Materia de Delitos Electorales, que sean de su competencia;
 
 VI. Coordinarse con las instituciones de seguridad, en los objetivos necesarios para el cumplimiento de sus fines;
+
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2026)</small>
+
+VI Bis. Promover la cooperación, colaboración e intercambio de información entre los diferentes órdenes de gobierno e instituciones para fortalecer el combate a la extorsión y facilitar la atención de la procuración de justicia.
 
 > <small>(REFORMADA, P.O. 4 DE ABRIL DE 2025)</small>
 
@@ -1170,6 +1174,16 @@ La Dirección de Acusación, dentro de su estructura contará con una Fiscalía 
 > <small>(ADICIONADO, P.O. 4 DE ABRIL DE 2025)</small>
 
 Además, dentro de su estructura, la Dirección de Acusación contará con la Unidad de Delitos de Alto Impacto, la cual tendrá a su cargo la investigación de los delitos de alto impacto que, por su complejidad, naturaleza o mayor impacto social, requieren un seguimiento estratégico y especial.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2026)</small>
+
+###### Artículo 20 Bis.
+
+La Unidad Especializada en materia de extorsión adscrita a la Dirección de Acusación tendrá a su cargo la investigación y persecución de los hechos que constituyan el delito de extorsión y sus delitos vinculados, de conformidad con la competencia establecida en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables.
+
+La Unidad Especializada en materia de extorsión realizará acciones de colaboración, intercambio de información y coordinación con las instituciones de seguridad pública y procuración de justicia para la atención del delito de extorsión.
+
+La Unidad Especializada en materia de extorsión contará con el personal y recursos humanos, materiales y tecnológicos necesarios para el cumplimiento de sus funciones, conforme la normatividad aplicable y la disponibilidad presupuestaria.
 
 ### Capítulo Cuarto. De la Dirección de Policía de Investigación del Delito
 
@@ -2270,6 +2284,16 @@ P.O. 28 DE NOVIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIOS DE LA "LEY QUE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 19 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO".]
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+P.O. 23 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE QUERÉTARO MEDIANTE LA QUE SE CREA LA UNIDAD ESPECIALIZADA EN MATERIA DE EXTORSIÓN".]
+
+Artículo Primero. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro, “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
