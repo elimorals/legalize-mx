@@ -4,7 +4,7 @@ identifier: "SLP-ley-en-materia-de-desaparicion-forzada-de-personas-154143"
 country: "mx"
 rank: "ley"
 publication_date: "2022-01-02"
-last_updated: "2023-12-15"
+last_updated: "2026-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=154143&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES, Y DEL SISTEMA ESTATAL DE BÚSQUEDA DE PERSONAS DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el domingo 2 de enero de 2022.
 
@@ -95,6 +95,10 @@ X. Estado: el Estado Libre y Soberano de San Luis Potosí;
 
 XI. Familiares: las personas que, en términos de la legislación aplicable, tengan parentesco con la persona desaparecida o no localizada por consanguinidad o afinidad, en línea recta ascendente y descendente sin limitación de grado; en línea transversal hasta el cuarto grado; él o la cónyuge, la concubina o concubinario o, en su caso, quienes estén sujetos al régimen de sociedad en convivencia u otras figuras jurídicas análogas; asimismo, las personas que dependan económicamente de la persona desaparecida o no localizada, que así lo acrediten ante las autoridades competentes;
 
+> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2026)</small>
+
+XI BIS. Fiscalía Especializada para la Investigación y Persecución de los Delitos de Desaparición Forzada de Personas, y Desaparición de Personas Cometida por Particulares.
+
 XII. Fiscalía General: la Fiscalía General del Estado de San Luis Potosí;
 
 XIII. Grupos de Búsqueda: los grupos de personas especializadas en materia de búsqueda de personas de la Comisión Estatal, que realizarán la búsqueda de campo, entre otras;
@@ -105,7 +109,9 @@ XV. Ley de Atención a Víctimas: la Ley de Atención a Víctimas para el Estado
 
 XVI. Ley General: la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas;
 
-XVII. Mecanismo de Apoyo Exterior: el Mecanismo de Apoyo Exterior de Búsqueda e Investigación, que es el conjunto de acciones y medidas tendientes a facilitar el acceso a la justicia y el ejercicio de acciones para la reparación del daño, en el ámbito de su competencia, a personas migrantes o sus familias que se encuentren en otro país y requieran acceder directamente a las instituciones del ordenamiento jurídico mexicano establecidas en la Ley General, coadyuvar en la búsqueda y localización de personas migrantes desaparecidas con la Comisión Nacional de Búsqueda, y en la investigación y persecución de los delitos que realice la Unidad Especializada en coordinación con la Unidad de Investigación de Delitos para Personas Migrantes, así como para garantizar los derechos reconocidos por el orden jurídico nacional en favor de las víctimas y ofendidos del delito;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2026)</small>
+
+XVII. Mecanismo de Apoyo Exterior: el Mecanismo de Apoyo Exterior de Búsqueda e Investigación, que es el conjunto de acciones y medidas tendientes a facilitar el acceso a la justicia y el ejercicio de acciones para la reparación del daño, en el ámbito de su competencia, a personas migrantes o sus familias que se encuentren en otro país y requieran acceder directamente a las instituciones del ordenamiento jurídico mexicano establecidas en la Ley General, coadyuvar en la búsqueda y localización de personas migrantes desaparecidas con la Comisión Nacional de Búsqueda, y en la investigación y persecución de los delitos que realice la Fiscalía Especializada en coordinación con la Unidad de Investigación de Delitos para Personas Migrantes, así como para garantizar los derechos reconocidos por el orden jurídico nacional en favor de las víctimas y ofendidos del delito;
 
 XVIII. Noticia: la comunicación hecha por cualquier medio, distinto al reporte o la denuncia, mediante la cual, la autoridad competente conoce de la desaparición o no localización de una persona;
 
@@ -133,7 +139,7 @@ XXIX. Reporte: la comunicación mediante la cual la autoridad competente conoce 
 
 XXX. Sistema Estatal: el Sistema Estatal de Búsqueda de Personas;
 
-XXXI. Unidad Especializada: la Unidad Especializada para la Investigación y Persecución de los Delitos en Materia de Desaparición Forzada de Personas y la Desaparición Cometida por Particulares de la Fiscalía General del Estado de San Luis Potosí, cuyo objeto es la investigación y persecución de los delitos de desaparición forzada de personas y la cometida por particulares, y
+XXXI. (DEROGADA, P.O. 23 DE FEBRERO DE 2026)
 
 XXXII. Víctimas: aquellas a las que hace referencia la Ley General de Víctimas y la Ley de Atención a Víctimas.
 
@@ -231,7 +237,9 @@ Las personas integrantes e invitados del Sistema Estatal no recibirán pago algu
 
 La Presidencia del Sistema Estatal podrá invitar a las sesiones respectivas a representantes de los órganos con autonomía constitucional, de los municipios del Estado, así como organismos internacionales según la naturaleza de los asuntos a tratar, quienes intervendrán con voz pero sin voto.
 
-Serán invitados permanentes del Sistema Estatal, las personas titulares del Centro Estatal de Ciencias Forenses y Servicios Periciales, de la Coordinación Alerta Amber, y la persona titular de la Unidad Especializada.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2026)</small>
+
+Serán invitados permanentes del Sistema Estatal, las personas titulares del Centro Estatal de Ciencias Forenses y Servicios Periciales, de la Coordinación Alerta Amber, y de la Fiscalía Especializada.
 
 Las instancias y las personas que integran el Sistema Estatal están obligadas, en el marco de sus competencias, a cumplir con las acciones que deriven del ejercicio de las atribuciones de dicho órgano.
 
@@ -253,7 +261,9 @@ Cada autoridad integrante del Sistema Estatal deberá designar un enlace para co
 
 Las autoridades que integran el Sistema Estatal deberán, en el marco de sus atribuciones, implementar y ejecutar las disposiciones señaladas en la Ley General, los protocolos homologados y los lineamientos correspondientes que emita el Sistema Nacional.
 
-La Comisión Estatal, la Unidad Especializada, y las autoridades que integran el Sistema Estatal deberán proporcionar en tiempo y forma, la información cuando sea solicitada por el Sistema Nacional, la Comisión Nacional, la Fiscalía General de la República, y demás autoridades competentes.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2026)</small>
+
+La Comisión Estatal, la Fiscalía Especializada, y las autoridades que integran el Sistema Estatal deberán proporcionar en tiempo y forma, la información cuando sea solicitada por el Sistema Nacional, la Comisión Nacional, la Fiscalía General de la República, y demás autoridades competentes.
 
 ###### ARTÍCULO 21.
 
@@ -375,7 +385,9 @@ XX. Colaborar, en el ámbito de su competencia con las instituciones de procurac
 
 XXI. Solicitar la colaboración de medios de comunicación, organizaciones de la sociedad civil y de la sociedad en general para la búsqueda y localización de Personas Desaparecidas o No Localizadas, de conformidad con la normativa aplicable;
 
-XXII. Mantener comunicación continúa con la Unidad Especializada dentro de la Fiscalía General, para la coordinación de acciones de búsqueda y localización, a partir de la información obtenida en la investigación de los delitos materia de la Ley General;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2026)</small>
+
+XXII. Mantener comunicación continúa con la Fiscalía Especializada dentro de la Fiscalía General, para la coordinación de acciones de búsqueda y localización, a partir de la información obtenida en la investigación de los delitos materia de la Ley General;
 
 XXIII. Proponer a la persona titular del Poder Ejecutivo y a la Comisión Nacional, de conformidad con las disposiciones aplicables, la celebración de convenios de coordinación, colaboración y concertación, o cualquier otro instrumento jurídico necesarios para el cumplimiento de su objeto;
 
@@ -455,7 +467,9 @@ III. Coordinar la ejecución de acciones de búsqueda de personas desaparecidas 
 
 IV. Instrumentar mecanismos de coordinación con las secretarías, dependencias y entidades de la administración pública estatal, órganos autónomos y órganos con autonomía técnica, para la ejecución de sus programas y acciones;
 
-V. Mantener la coordinación y comunicación continua y permanente con la Unidad Especializada, y su homóloga Federal;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2026)</small>
+
+V. Mantener la coordinación y comunicación continua y permanente con la Fiscalía Especializada, y su homóloga Federal;
 
 VI. Informar y mantener coordinación y comunicación continua y permanente con la Comisión Nacional;
 
@@ -477,9 +491,13 @@ El Área de Coordinación de Acciones de Búsqueda, para el adecuado cumplimient
 
 I. Determinar y en su caso ejecutar las acciones necesarias a efecto de garantizar la búsqueda y localización de personas en todo el territorio estatal;
 
-II. Formular solicitudes de acciones de búsqueda a la Unidad Especializada, instancias policiales y demás Instituciones del Estado, para que se realicen acciones específicas de búsqueda de personas desaparecidas o no localizadas;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2026)</small>
 
-III. Mantener comunicación con la Unidad Especializada y demás autoridades estatales y municipales para la coordinación de acciones de búsqueda y localización cuando lo estime pertinente o por recomendación de la Comisión Nacional o el Consejo Ciudadano;
+II. Formular solicitudes de acciones de búsqueda a la Fiscalía Especializada, instancias policiales y demás Instituciones del Estado, para que se realicen acciones específicas de búsqueda de personas desaparecidas o no localizadas;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2026)</small>
+
+III. Mantener comunicación con la Fiscalía Especializada y demás autoridades estatales y municipales para la coordinación de acciones de búsqueda y localización cuando lo estime pertinente o por recomendación de la Comisión Nacional o el Consejo Ciudadano;
 
 IV. Diseñar y proponer mecanismos de coordinación y colaboración con las demás autoridades estatales y municipales, a efecto de llevar a cabo las acciones en la búsqueda de personas desaparecidas o no localizadas;
 
@@ -513,9 +531,13 @@ IV. Dar seguimiento y atender a las recomendaciones de organismos de derechos hu
 
 V. Dar vista al Ministerio Público y a las autoridades competentes en materia de responsabilidades administrativas de los servidores públicos, sobre las acciones u omisiones que puedan constituir una violación a los ordenamientos de la materia;
 
-VI. Recibir la información que aporten los particulares u organizaciones en los casos de desaparición forzada de personas y desaparición cometida por particulares y, en su caso, remitirla a la Unidad Especializada;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2026)</small>
 
-VII. Asesorar y canalizar a los familiares ante la Unidad Especializada para que, de ser el caso, realicen la denuncia correspondiente;
+VI. Recibir la información que aporten los particulares u organizaciones en los casos de desaparición forzada de personas y desaparición cometida por particulares y, en su caso, remitirla a la Fiscalía Especializada;
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2026)</small>
+
+VII. Asesorar y canalizar a los familiares ante la Fiscalía Especializada para que, de ser el caso, realicen la denuncia correspondiente;
 
 VIII. Solicitar a la Comisión Ejecutiva que implementen los mecanismos necesarios para que a través del Fondo de Ayuda, Asistencia y Reparación Integral se cubran los gastos de ayuda cuando lo requieran los familiares de las personas desaparecidas por la presunta comisión de los delitos materia de la Ley General, de conformidad con la ley en la materia, y
 
@@ -591,7 +613,9 @@ Los Grupos de Búsqueda, para el adecuado cumplimiento de sus acciones, tienen l
 
 I. Generar la metodología para la búsqueda inmediata considerando el Protocolo Homologado de Búsqueda y otros existentes;
 
-II. Solicitar a la Unidad Especializada competente que realice actos de investigación específicos sobre la probable comisión de un delito que puedan llevar a la búsqueda, localización o identificación de una persona, así como al esclarecimiento de los hechos en términos de lo dispuesto en el Código Nacional de Procedimientos Penales. Lo anterior, sin perjuicio del ejercicio directo de las facultades con que cuente la Comisión Estatal para realizar acciones relacionadas con la búsqueda de personas previstas en esta Ley;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2026)</small>
+
+II. Solicitar a la Fiscalía Especializada competente que realice actos de investigación específicos sobre la probable comisión de un delito que puedan llevar a la búsqueda, localización o identificación de una persona, así como al esclarecimiento de los hechos en términos de lo dispuesto en el Código Nacional de Procedimientos Penales. Lo anterior, sin perjuicio del ejercicio directo de las facultades con que cuente la Comisión Estatal para realizar acciones relacionadas con la búsqueda de personas previstas en esta Ley;
 
 III. Implementar un mecanismo ágil y eficiente que coadyuve a la pronta localización de personas reportadas como desaparecidas y no localizadas y salvaguarde sus derechos humanos;
 
@@ -605,19 +629,25 @@ Las instituciones de seguridad pública del Estado y municipios, en el ámbito d
 
 El personal al que se refiere el párrafo anterior, además de cumplir con la certificación respectiva, debe acreditar los criterios de idoneidad que emita la Comisión Nacional.
 
-### Capítulo VII. Unidad Especializada
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE FEBRERO DE 2026)</small>
+
+### Capítulo VII. Fiscalía Especializada
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2026)</small>
 
 ###### ARTÍCULO 40.
 
-La Fiscalía General deberá contar con la Unidad Especializada para la investigación y persecución de los delitos de desaparición forzada de personas y desaparición cometida por particulares, la que se coordinará y dará impulso permanente a la búsqueda de Personas Desaparecidas.
+La Fiscalía General deberá contar con la Fiscalía Especializada para la investigación y persecución de los delitos de desaparición forzada de personas y desaparición cometida por particulares, la que se coordinará y dará impulso permanente a la búsqueda de Personas Desaparecidas.
 
-La Unidad Especializada a que se refiere el primer párrafo de este artículo para su efectivo funcionamiento contará con los recursos humanos, financieros y materiales que le destine la Fiscalía General, conforme a su presupuesto aprobado.
+La Fiscalía Especializada a que se refiere el primer párrafo de este artículo para su efectivo funcionamiento contará con los recursos humanos, financieros y materiales que le destine la Fiscalía General, conforme a su presupuesto aprobado.
 
-Todas las autoridades, en el ámbito de sus competencias, están obligadas a colaborar de forma eficaz con las unidades especializadas para el cumplimiento de esta Ley.
+Todas las autoridades, en el ámbito de sus competencias, están obligadas a colaborar de forma eficaz con la Fiscalía especializada para el cumplimiento de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2026)</small>
 
 ###### ARTÍCULO 41.
 
-Los servidores públicos que integren la Unidad Especializada, en términos de la Ley General deberán cumplir, como mínimo, los siguientes requisitos:
+Los servidores públicos que integren la Fiscalía Especializada, en términos de la Ley General deberán cumplir, como mínimo, los siguientes requisitos:
 
 I. Tener acreditados los requisitos de ingreso y permanencia de la institución respectiva, de conformidad con la Ley General del Sistema Nacional de Seguridad Pública, y la Ley Orgánica de la Fiscalía General del Estado de San Luis Potosí;
 
@@ -625,13 +655,17 @@ II. Tener el perfil que establezca la Conferencia Nacional de Procuración de Ju
 
 III. Acreditar los cursos de especialización, capacitación y de actualización que establezca la Conferencia Nacional de Procuración de Justicia, según corresponda.
 
-La Fiscalía General deberá capacitar, conforme a los más altos estándares internacionales, a los servidores públicos adscritos a la Unidad Especializada en materia de derechos humanos, perspectiva de género, interés superior de la niñez, atención a las víctimas, sensibilización y relevancia específica de la desaparición de personas, aplicación del Protocolo Homologado de Investigación, identificación forense, cadena de custodia, entre otros.
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2026)</small>
+
+La Fiscalía General deberá capacitar, conforme a los más altos estándares internacionales, a los servidores públicos adscritos a la Fiscalía Especializada en materia de derechos humanos, perspectiva de género, interés superior de la niñez, atención a las víctimas, sensibilización y relevancia específica de la desaparición de personas, aplicación del Protocolo Homologado de Investigación, identificación forense, cadena de custodia, entre otros.
 
 De igual forma, podrán participar con las autoridades competentes, en la capacitación de los servidores públicos conforme a los lineamientos que sobre la materia emita el Sistema Nacional, en términos de la Ley General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2026)</small>
+
 ###### ARTÍCULO 42.
 
-La Unidad Especializada tiene, en el ámbito de su competencia, las atribuciones siguientes:
+La Fiscalía Especializada tiene, en el ámbito de su competencia, las atribuciones siguientes:
 
 I. Recibir las denuncias relacionadas con la probable comisión de hechos constitutivos de los delitos materia de esta Ley, y la Ley General e iniciar la carpeta de investigación correspondiente;
 
@@ -683,9 +717,11 @@ XXIV. Solicitar asistencia técnica a las (sic) Fiscalía General de la Repúbli
 
 XXV. Las demás que establezcan otras disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2026)</small>
+
 ###### ARTÍCULO 43.
 
-La Unidad Especializada deberá remitir inmediatamente a la Fiscalía General de la República los expedientes de los que conozcan cuando el asunto esté contemplado expresamente como competencia de la Federación en términos del artículo 24 de la Ley General.
+La Fiscalía Especializada deberá remitir inmediatamente a la Fiscalía General de la República los expedientes de los que conozcan cuando el asunto esté contemplado expresamente como competencia de la Federación en términos del artículo 24 de la Ley General.
 
 ###### ARTÍCULO 44.
 
@@ -693,33 +729,43 @@ La persona servidora pública que sea señalada como imputada por el delito de d
 
 Adicionalmente a lo previsto en el párrafo anterior, la o el superior jerárquico puede adoptar las medidas administrativas y adicionales necesarias para impedir que la persona servidora pública interfiera con las investigaciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2026)</small>
+
 ###### ARTÍCULO 45.
 
-La Unidad Especializada deberá generar criterios y metodología específica para la investigación y persecución de los delitos de desaparición forzada de personas. En el caso de las desapariciones forzadas por motivos políticos de décadas pasadas, de conformidad con el Protocolo Homologado de Investigación, y la Ley General, la Unidad Especializada deberá emitir criterios y metodología específicos que deberán permitir realizar, al menos, lo siguiente:
+La Fiscalía Especializada deberá generar criterios y metodología específica para la investigación y persecución de los delitos de desaparición forzada de personas. En el caso de las desapariciones forzadas por motivos políticos de décadas pasadas, de conformidad con el Protocolo Homologado de Investigación, y la Ley General, la Fiscalía Especializada deberá emitir criterios y metodología específicos que deberán permitir realizar, al menos, lo siguiente:
 
 I. Los procedimientos de búsqueda permanente que se lleven a cabo para buscar personas en cualquier lugar donde se presuma pudieran estar privadas de libertad como son centros penitenciarios, centros clandestinos de detención, estaciones migratorias, centros de salud y cualquier otro lugar en donde se pueda presumir pueda estar la persona desaparecida, y
 
 II. Cuando se sospeche que la víctima ha sido privada de la vida, realizar las diligencias pertinentes para la exhumación de los restos en los lugares que se presume pudieran estar, de acuerdo a los estándares internacionales, siendo derecho de los familiares solicitar la participación de peritos especializados independientes, en términos de las disposiciones legales aplicables. En la generación de los criterios y metodología específicos, se tomarán en cuenta las sentencias y resoluciones nacionales e internacionales en materia de búsqueda e investigación de los casos de desaparición forzada.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2026)</small>
+
 ###### ARTÍCULO 46.
 
-En los supuestos del artículo 38 de esta Ley, la Unidad Especializada debe continuar sin interrupción la investigación de los delitos previstos en la Ley General, en términos de lo que establezca el Protocolo Homologado de Investigación y el Código Nacional de Procedimientos Penales.
+En los supuestos del artículo 38 de esta Ley, la Fiscalía Especializada debe continuar sin interrupción la investigación de los delitos previstos en la Ley General, en términos de lo que establezca el Protocolo Homologado de Investigación y el Código Nacional de Procedimientos Penales.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2026)</small>
 
 ###### ARTÍCULO 47.
 
-Las autoridades estatales y municipales están obligadas a proporcionar, en el ámbito de su competencia, el auxilio e información que la Unidad Especializada le solicite para la investigación y persecución de los delitos previstos en la Ley General.
+Las autoridades estatales y municipales están obligadas a proporcionar, en el ámbito de su competencia, el auxilio e información que la Fiscalía Especializada le solicite para la investigación y persecución de los delitos previstos en la Ley General.
 
 ###### ARTÍCULO 48.
 
 La Fiscalía General celebrará acuerdos interinstitucionales con autoridades e instituciones para coordinar las acciones de investigación de mexicanos en el extranjero y migrantes extranjeros en el país.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2026)</small>
+
 ###### ARTÍCULO 49.
 
-Las personas físicas o jurídicas que cuenten con información que pueda contribuir a la investigación y persecución de los delitos previstos en esta Ley y la Ley General, están obligadas a proporcionarla a la Unidad Especializada directamente, a través del número telefónico previsto en esta Ley o cualquier otro medio, en términos de la normativa aplicable.
+Las personas físicas o jurídicas que cuenten con información que pueda contribuir a la investigación y persecución de los delitos previstos en esta Ley y la Ley General, están obligadas a proporcionarla a la Fiscalía Especializada directamente, a través del número telefónico previsto en esta Ley o cualquier otro medio, en términos de la normativa aplicable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2026)</small>
 
 ###### ARTÍCULO 50.
 
-La Unidad Especializada no puede condicionar la recepción de la información a que se refiere el párrafo anterior al cumplimiento de formalidad alguna.
+La Fiscalía Especializada no puede condicionar la recepción de la información a que se refiere el párrafo anterior al cumplimiento de formalidad alguna.
 
 La investigación y persecución de los delitos previstos por la Ley General, se hará conforme a ésta y a los protocolos a los que hace referencia el artículo 99 de la misma.
 
@@ -789,13 +835,17 @@ El incumplimiento por parte de la autoridad obligada a la transmisión inmediata
 
 Una vez que la Comisión Estatal reciba, en términos del artículo anterior, un reporte o noticia de una persona desaparecida o no localizada, deberá actuar en apego a lo dispuesto en los artículos, 87, 89, 90, 91, 92, 93, 94, 95, 96, 99, y 101, de la Ley General.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2026)</small>
+
 ###### ARTÍCULO 57.
 
-Cuando alguna autoridad identifique a una persona que por circunstancias ajenas a su voluntad, desconoce o no recuerda sus datos de parentesco, identidad y domicilio, debe dar aviso a la Comisión Estatal, a efecto de que se verifique si su desaparición o no localización fue reportada en el Registro Estatal. En caso de no existir reporte o denuncia, la Comisión Estatal deberá informarlo a la Unidad Especializada para incorporar los datos respectivos al Registro Nacional en términos del artículo 106 de la Ley General.
+Cuando alguna autoridad identifique a una persona que por circunstancias ajenas a su voluntad, desconoce o no recuerda sus datos de parentesco, identidad y domicilio, debe dar aviso a la Comisión Estatal, a efecto de que se verifique si su desaparición o no localización fue reportada en el Registro Estatal. En caso de no existir reporte o denuncia, la Comisión Estatal deberá informarlo a la Fiscalía Especializada para incorporar los datos respectivos al Registro Nacional en términos del artículo 106 de la Ley General.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2026)</small>
 
 ###### ARTÍCULO 58.
 
-Las autoridades involucradas en la búsqueda y localización de personas desaparecidas o no localizadas, en el ámbito de sus competencias, deben asegurar la cadena de custodia de la información e indicios, dando vista inmediata a la Unidad Especializada para su procesamiento, traslado, análisis y almacenamiento, conforme a lo previsto en el Código Nacional de Procedimientos Penales.
+Las autoridades involucradas en la búsqueda y localización de personas desaparecidas o no localizadas, en el ámbito de sus competencias, deben asegurar la cadena de custodia de la información e indicios, dando vista inmediata a la Fiscalía Especializada para su procesamiento, traslado, análisis y almacenamiento, conforme a lo previsto en el Código Nacional de Procedimientos Penales.
 
 La persona servidora pública que incumpla con lo dispuesto en el párrafo anterior, será sancionada conforme a la normativa correspondiente.
 
@@ -815,9 +865,11 @@ Las autoridades correspondientes, conforme a las atribuciones señaladas por la 
 
 La Fiscalía General deberá coordinar la operación del Registro Estatal de Personas Fallecidas, el cual funcionará conforme a lo señalado en la Ley General, y los protocolos y lineamientos emitidos al respecto.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2026)</small>
+
 ###### ARTÍCULO 61.
 
-El personal de la Comisión Estatal, la Unidad Especializada, y la Coordinación General de Servicios Periciales, deberán recibir capacitación en las diferentes materias que se requieran para el adecuado funcionamiento de las herramientas del Sistema Nacional de Búsqueda en el Estado.
+El personal de la Comisión Estatal, la Fiscalía Especializada, y la Coordinación General de Servicios Periciales, deberán recibir capacitación en las diferentes materias que se requieran para el adecuado funcionamiento de las herramientas del Sistema Nacional de Búsqueda en el Estado.
 
 ### Capítulo III. Banco Estatal
 
@@ -1005,25 +1057,33 @@ El Estado compensará de forma subsidiaria el daño causado a las víctimas de d
 
 ### Capítulo V. Protección de Personas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2026)</small>
+
 ###### ARTÍCULO 84.
 
-La Unidad Especializada, en el ámbito de su respectiva competencia, debe establecer programas para la protección de las víctimas, los familiares y toda persona involucrada en el proceso de búsqueda de personas desaparecidas o no localizadas, investigación o proceso penal de los delitos previstos en la Ley General, cuando su vida o integridad corporal pueda estar en peligro, o puedan ser sometidas a actos de maltrato o intimidación por su intervención en dichos procesos.
+La Fiscalía Especializada, en el ámbito de su respectiva competencia, debe establecer programas para la protección de las víctimas, los familiares y toda persona involucrada en el proceso de búsqueda de personas desaparecidas o no localizadas, investigación o proceso penal de los delitos previstos en la Ley General, cuando su vida o integridad corporal pueda estar en peligro, o puedan ser sometidas a actos de maltrato o intimidación por su intervención en dichos procesos.
 
 También deberán otorgar el apoyo ministerial, pericial, policial y de otras fuerzas de seguridad a las organizaciones de familiares y a familiares en las tareas de búsqueda de personas desaparecidas en campo, garantizando todas las medidas de protección a su integridad física.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2026)</small>
+
 ###### ARTÍCULO 85.
 
-La Unidad Especializada puede otorgar, con apoyo de la Comisión Ejecutiva, como medida urgente de protección la reubicación temporal, la protección de inmuebles, la escolta de cuerpos especializados y las demás que se requieran para salvaguardar la vida, integridad y libertad de las personas protegidas a que se refiere el artículo anterior, conforme a los procedimientos y con las autorizaciones aplicables.
+La Fiscalía Especializada puede otorgar, con apoyo de la Comisión Ejecutiva, como medida urgente de protección la reubicación temporal, la protección de inmuebles, la escolta de cuerpos especializados y las demás que se requieran para salvaguardar la vida, integridad y libertad de las personas protegidas a que se refiere el artículo anterior, conforme a los procedimientos y con las autorizaciones aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2026)</small>
 
 ###### ARTÍCULO 86.
 
-La Unidad Especializada puede otorgar, con apoyo de la Comisión Ejecutiva, como medida de protección para enfrentar el riesgo, la entrega de equipo celular, radio o telefonía satelital, instalación de sistemas de seguridad en inmuebles, vigilancia a través de patrullajes, entrega de chalecos antibalas, detector de metales, autos blindados, y demás medios de protección que se requieran para salvaguardar la vida, integridad y libertad de las personas protegidas por esta Ley.
+La Fiscalía Especializada puede otorgar, con apoyo de la Comisión Ejecutiva, como medida de protección para enfrentar el riesgo, la entrega de equipo celular, radio o telefonía satelital, instalación de sistemas de seguridad en inmuebles, vigilancia a través de patrullajes, entrega de chalecos antibalas, detector de metales, autos blindados, y demás medios de protección que se requieran para salvaguardar la vida, integridad y libertad de las personas protegidas por esta Ley.
 
 Cuando se trate de personas defensoras de los derechos humanos o periodistas se estará también a lo dispuesto en la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas, y la Ley para la Protección al Ejercicio de Personas Defensoras de Derechos Humanos y Periodistas del Estado de San Luis Potosí.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2026)</small>
+
 ###### ARTÍCULO 87.
 
-La incorporación a los programas de protección de personas a que se refiere el artículo 83 de esta Ley debe ser autorizada por el agente del Ministerio Público encargado de la investigación o por el titular de la Unidad Especializada.
+La incorporación a los programas de protección de personas a que se refiere el artículo 83 de esta Ley debe ser autorizada por el agente del Ministerio Público encargado de la investigación o por el titular de la Fiscalía Especializada.
 
 ###### ARTÍCULO 88.
 
@@ -1077,13 +1137,17 @@ XI. Realizar diagnósticos, investigaciones, estudios e informes sobre la proble
 
 XII. Las demás que establezcan otras disposiciones jurídicas aplicables.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2026)</small>
+
 ###### ARTÍCULO 93.
 
-La Fiscalía General, a través de la Unidad Especializada, debe intercambiar la información que favorezca la investigación de los delitos previstos en la Ley General y que permita la identificación y sanción de los responsables.
+La Fiscalía General, a través de la Fiscalía Especializada, debe intercambiar la información que favorezca la investigación de los delitos previstos en la Ley General y que permita la identificación y sanción de los responsables.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2026)</small>
 
 ###### ARTÍCULO 94.
 
-La Fiscalía General, a través de la Unidad Especializada, debe diseñar los mecanismos de colaboración que correspondan con la finalidad de dar cumplimiento a lo previsto en esta Ley y en la Ley General.
+La Fiscalía General, a través de la Fiscalía Especializada, debe diseñar los mecanismos de colaboración que correspondan con la finalidad de dar cumplimiento a lo previsto en esta Ley y en la Ley General.
 
 ###### ARTÍCULO 95.
 
@@ -1091,9 +1155,11 @@ El Sistema Estatal, a través de la Secretaría General de Gobierno y con la par
 
 ### Capítulo II. Capacitación
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2026)</small>
+
 ###### ARTÍCULO 96.
 
-La Comisión Estatal, la Unidad Especializada y la autoridad municipal que el titular del ayuntamiento determine, deben establecer programas obligatorios de capacitación en materia de derechos humanos, enfocados a los principios referidos en el artículo 5° de esta Ley, para servidores públicos de las instituciones de seguridad pública involucrados en la búsqueda y acciones previstas en este ordenamiento, con la finalidad de prevenir la comisión de los delitos.
+La Comisión Estatal, la Fiscalía Especializada y la autoridad municipal que el titular del ayuntamiento determine, deben establecer programas obligatorios de capacitación en materia de derechos humanos, enfocados a los principios referidos en el artículo 5º de esta Ley, para servidores públicos de las instituciones de seguridad pública involucrados en la búsqueda y acciones previstas en este ordenamiento, con la finalidad de prevenir la comisión de los delitos.
 
 ###### ARTÍCULO 97.
 
@@ -1168,3 +1234,13 @@ P.O. 15 DE DICIEMBRE DE 2023.
 PRIMERO. Este Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0468.- QUE MODIFICA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ; Y DE LA LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES, Y DEL SISTEMA ESTATAL DE BÚSQUEDA DE PERSONAS DEL ESTADO DE SAN LUIS POTOSÍ, EN RELACIÓN CON LA CREACIÓN DE LA FISCALÍA ESPECIALIZADA PARA LA INVESTIGACIÓN Y PERSECUCIÓN DE LOS DELITOS DE DESAPARICIÓN FORZADA DE PERSONAS, Y DESAPARICIÓN DE PERSONAS COMETIDA POR PARTICULARES”.]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. La Fiscalía Especializada para la Investigación y Persecución de los Delitos de Desaparición Forzada de Personas, y de Desaparición Cometida por Particulares, para el cumplimiento de sus atribuciones, facultades y funciones contará con los recursos humanos, materiales y presupuestales previstos y asignados en el Presupuesto de Egresos para el ejercicio fiscal 2026.
+
+TERCERO. Todos los procedimientos que se encuentren a cargo de la Unidad Especializada para la Investigación y Persecución de los Delitos en Materia de Desaparición Forzada de Personas y la Desaparición Cometida por Particulares, a la entrada en vigor de este Decreto serán resueltos por la Fiscalía Especializada para la Investigación y Persecución de los Delitos de Desaparición Forzada de Personas, y de Desaparición Cometida por Particulares.
