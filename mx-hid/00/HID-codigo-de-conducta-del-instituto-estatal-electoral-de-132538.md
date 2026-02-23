@@ -4,7 +4,7 @@ identifier: "HID-codigo-de-conducta-del-instituto-estatal-electoral-de-132538"
 country: "mx"
 rank: "codigo"
 publication_date: "2018-12-17"
-last_updated: "2018-12-17"
+last_updated: "2026-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132538&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # CODIGO DE CONDUCTA DEL INSTITUTO ESTATAL ELECTORAL DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE CONDUCTA DEL INSTITUTO ESTATAL ELECTORAL DE HIDALGO, PUBLICADO EN EL P.O. DE 23 DE FEBRERO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL INSTITUTO ESTATAL ELECTORAL DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2026 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 17 de diciembre de 2018.
 
@@ -366,3 +368,15 @@ LIC. URIEL LUGO HUERTA
 SECRETARIO EJECUTIVO
 
 RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DEL INSTITUTO ESTATAL ELECTORAL DE HIDALGO”.]
+
+PRIMERO.- El presente Código entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- El presente Código será publicado en el Periódico Oficial del Estado de Hidalgo, así como, en las páginas oficiales del IEEH.
+
+TERCERO.- Se abroga el Código de Conducta, aprobado por el Consejo General del Instituto Estatal Electoral de Hidalgo el 12 de diciembre de 2018, mediante Acuerdo IEEH/CG/103/2018.
