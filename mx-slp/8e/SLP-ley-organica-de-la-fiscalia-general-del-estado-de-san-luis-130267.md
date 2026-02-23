@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-fiscalia-general-del-estado-de-san-luis-1302
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-08-20"
-last_updated: "2026-01-13"
+last_updated: "2026-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130267&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 20 de agosto de 2018.
 
@@ -319,19 +319,23 @@ a) Fiscalía Especializada en Delitos Electorales.
 
 b) Fiscalía Especializada en Delitos relacionados con Hechos de Corrupción.
 
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2026)</small>
+
+c) Fiscalía Especializada para la Investigación y Persecución de los Delitos de Desaparición Forzada de Personas, y Desaparición de Personas Cometida por Particulares.
+
 > <small>(ADICIONADO, P.O. 17 DE ABRIL DE 2023)</small>
 
-c) Fiscalía Especializada en la Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
+d) Fiscalía Especializada en la Investigación de Delitos de Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes.
 
-d) Fiscalías Especializadas.
+e) Fiscalías Especializadas.
 
-e) Vicefiscalía.
+f) Vicefiscalía.
 
-f) Dirección General de Servicios Periciales.
+g) Dirección General de Servicios Periciales.
 
-g) Dirección General de Métodos de Investigación
+h) Dirección General de Métodos de Investigación
 
-h) Dirección General de Análisis Criminal.
+i) Dirección General de Análisis Criminal.
 
 > <small>(ADICIONADO, P.O. 13 DE ENERO DE 2026)</small>
 
@@ -1097,9 +1101,41 @@ XIII. Proponer políticas para la prevención de los delitos de su competencia, 
 
 XIV. Las demás que dispongan la Ley General para Prevenir, Investigar y Sancionar la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, el Reglamento Interno de la fiscalía general del Estado y otras disposiciones aplicables.
 
-### Capítulo XIV. Vicefiscalía
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE FEBRERO DE 2026)</small>
 
-### Capítulo XV. Vicefiscalía Jurídica
+### Capítulo XIII TER
+
+Fiscalía Especializada para la Investigación y Persecución de los Delitos de Desaparición Forzada de Personas, y Desaparición de Personas Cometida por Particulares
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2026)</small>
+
+ARTÍCULO 45 QUINQUES. A la Fiscalía Especializada para la Investigación y Persecución de los Delitos de Desaparición Forzada de Personas, y Desaparición de Personas Cometida por Particulares, corresponde la investigación y persecución de los delitos previstos en la Ley General en Materia de Desaparición Forzada de Personas, Desaparición cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
+
+Los servidores públicos que integren esta Fiscalía Especializada, deberán cumplir los requisitos a que se refiere el artículo 69 de la Ley General en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2026)</small>
+
+ARTÍCULO 45 SEXTIES. La Fiscalía Especializada a que se refiere el presente Capítulo debe contar con los recursos humanos, financieros, materiales y técnicos especializados y multidisciplinarios, así como con las áreas (sic) instancias siguientes:
+
+I. Unidad especializada de investigación;
+
+II. Unidad de análisis de contexto;
+
+III. Unidades de atención y seguimiento a víctimas;
+
+IV. Unidad de búsqueda inmediata y de larga data, y
+
+V. Área especializada en delitos cibernéticos.
+
+Las Fiscalías Especializadas deberán contar con personal sustantivo ministerial, policial, pericial, así como de análisis de contexto y de apoyo psicosocial, quienes deberán cumplir con los perfiles establecidos por la Conferencia Nacional de Procuración de Justicia.
+
+Todas las autoridades, en el ámbito de sus competencias, están obligadas a colaborar de forma eficaz con las Fiscalía (sic) Especializadas para el cumplimiento de la Ley.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2026)</small>
+
+ARTÍCULO 45 SEPTIES. La Fiscalía Especializada para la Investigación y Persecución de los Delitos de Desaparición Forzada de Personas, y Desaparición de Personas Cometida por Particulares, tendrá las atribuciones, facultades y funciones que establece la Ley General en Materia de Desaparición Forzada de Personas, Desaparición cometida por Particulares y del Sistema Nacional de Búsqueda de Personas; así como la Ley en Materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares, y del Sistema Estatal de Búsqueda de Personas del Estado de San Luis Potosí.
+
+### Capítulo XIV. Vicefiscalía
 
 ###### ARTÍCULO 46.
 
@@ -1135,7 +1171,7 @@ II. Establecer mecanismos de coordinación con las Fiscalías Especializadas, y
 
 III. Las demás que establezcan la presente Ley, su Reglamento, y el Fiscal General mediante acuerdo.
 
-### Capítulo XVI. Dirección General de Administración
+### Capítulo XV. Vicefiscalía Jurídica
 
 ###### ARTÍCULO 50.
 
@@ -1177,7 +1213,7 @@ Integración de la Vicefiscalía Jurídica.
 
 La Vicefiscalía Jurídica se integrará por una Dirección Jurídica, una Dirección de Derechos Humanos y una Dirección de Transparencia y Acceso a la Información, cuyos titulares tendrán las atribuciones y obligaciones que se señalen en la presente Ley y su Reglamento.
 
-### Capítulo XVII. Dirección General de Servicios Periciales
+### Capítulo XVI. Dirección General de Administración
 
 ###### ARTÍCULO 52.
 
@@ -1235,7 +1271,7 @@ III. Dirección de Servicios Generales, y
 
 IV. Dirección de Adquisiciones, Arrendamientos y Servicios.
 
-### Capítulo XVIII. Dirección General de Métodos de Investigación
+### Capítulo XVII. Dirección General de Servicios Periciales
 
 ###### ARTÍCULO 54.
 
@@ -1271,7 +1307,7 @@ IX. Participar en la elaboración de convenios de colaboración con Organismos o
 
 X. Las demás que le confieran otras disposiciones o el Titular de la Fiscalía General.
 
-### Capítulo XIX. Dirección General de Análisis Criminal
+### Capítulo XVIII. Dirección General de Métodos de Investigación
 
 ###### ARTÍCULO 56.
 
@@ -1353,7 +1389,7 @@ XXX. Crear la Base Estadística Estatal de Violencia Política contra las Mujere
 
 XXXI. Las demás que le confieran otras disposiciones legales y el Fiscal General.
 
-### Capítulo Único
+### Capítulo XIX. Dirección General de Análisis Criminal
 
 ###### ARTÍCULO 58.
 
@@ -1386,6 +1422,8 @@ VIII. Elaborar informes periódicos de análisis estratégico sobre el delito de
 IX. Las demás que establezcan la presente Ley, su Reglamento, y el Fiscal General mediante acuerdo.
 
 ## TÍTULO TERCERO. SERVICIO PROFESIONAL DE CARRERA
+
+### Capítulo Único
 
 ###### ARTÍCULO 59.
 
@@ -1624,3 +1662,13 @@ P.O. 13 DE ENERO DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 0445.- QUE REFORMA LOS ARTÍCULOS 230 Y 231; Y DEROGA EL ARTÍCULO 231 BIS, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ. REALIZA ADICIÓN AL ARTÍCULO 41 Y LOS ARTÍCULOS 41 BIS, 41 TER Y 175 TER DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ. REFORMA LOS ARTÍCULOS 4° Y 58; Y REALIZA ADICIÓN AL ARTÍCULO 3°, 4°, 5°, 10, 11, 24, 58, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ, Y ADICIONA EL ARTÍCULO 51 BIS, A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+P.O. 23 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0468.- QUE MODIFICA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ; Y DE LA LEY EN MATERIA DE DESAPARICIÓN FORZADA DE PERSONAS, DESAPARICIÓN COMETIDA POR PARTICULARES, Y DEL SISTEMA ESTATAL DE BÚSQUEDA DE PERSONAS DEL ESTADO DE SAN LUIS POTOSÍ, EN RELACIÓN CON LA CREACIÓN DE LA FISCALÍA ESPECIALIZADA PARA LA INVESTIGACIÓN Y PERSECUCIÓN DE LOS DELITOS DE DESAPARICIÓN FORZADA DE PERSONAS, Y DESAPARICIÓN DE PERSONAS COMETIDA POR PARTICULARES".]
+
+PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. La Fiscalía Especializada para la Investigación y Persecución de los Delitos de Desaparición Forzada de Personas, y de Desaparición Cometida por Particulares, para el cumplimiento de sus atribuciones, facultades y funciones contará con los recursos humanos, materiales y presupuestales previstos y asignados en el Presupuesto de Egresos para el ejercicio fiscal 2026.
+
+TERCERO. Todos los procedimientos que se encuentren a cargo de la Unidad Especializada para la Investigación y Persecución de los Delitos en Materia de Desaparición Forzada de Personas y la Desaparición Cometida por Particulares, a la entrada en vigor de este Decreto serán resueltos por la Fiscalía Especializada para la Investigación y Persecución de los Delitos de Desaparición Forzada de Personas, y de Desaparición Cometida por Particulares.
