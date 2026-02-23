@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-bienes-para-el-estado-de-aguascalientes-168852"
 country: "mx"
 rank: "ley"
 publication_date: "2023-12-27"
-last_updated: "2025-12-04"
+last_updated: "2026-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168852&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE BIENES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2026.
 
 Ley publicada en el Extraordinario Número 60 del Periódico Oficial del Estado de Aguascalientes, el miércoles 27 de diciembre de 2023.
 
@@ -830,6 +830,10 @@ En lo que corresponde a los permisos y autorizaciones, las Autoridades Administr
 ###### Artículo 61.
 
 Tratándose de concesiones que corresponda otorgar al Poder Ejecutivo, las disposiciones del presente capítulo se aplicarán en los casos en que las leyes especiales de la materia no prevean un procedimiento específico y, de manera supletoria, se aplicará el Código Urbano para el Estado de Aguascalientes, la Ley del Procedimiento Administrativo del Estado de Aguascalientes, la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios y la demás normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2026)</small>
+
+Tratándose de concesiones en materia de carreteras, puentes y otros bienes relacionados, que no estén regulados por leyes específicas, se estará a lo establecido en el Código Urbano para el Estado de Aguascalientes.
 
 ###### Artículo 62.
 
@@ -1882,3 +1886,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efectos todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 23 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 408.- SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 61 DE LA LEY DE BIENES PARA EL ESTADO DE AGUASCALIENTES; Y, SE ADICIONA PÁRRAFO SEGUNDO AL ARTÍCULO 784 DEL CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efectos todas aquellas disposiciones que se oponga al presente Decreto.
