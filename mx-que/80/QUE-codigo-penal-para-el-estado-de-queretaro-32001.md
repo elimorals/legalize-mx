@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2025-11-07"
+last_updated: "2026-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -2413,53 +2413,13 @@ Las penas previstas en este artículo, se aumentarán hasta en una mitad, cuando
 
 Igualmente se aumentarán las penas hasta en una mitad, cuando el administrador o responsable obtenga un beneficio económico para sí o para otro.
 
-### CAPITULO VII. EXTORSIÓN
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE FEBRERO DE 2026)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MAYO DE 2022)</small>
+### CAPÍTULO VII. EXTORSIÓN
 
 ###### ARTICULO 198.
 
-Al que obtenga un provecho indebido para sí o para otro, utilizando la violencia física o moral, realice maniobras que tengan por objeto obligar a alguien a hacer, tolerar o dejar de hacer algo, en su perjuicio o en el de un tercero, se le impondrá prisión de 5 a 10 años, de 100 a 300 días multa, y trabajo en favor de la comunidad de 1 a 3 años.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 27 DE MAYO DE 2022)</small>
-
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2011)</small>
-
-La pena se aumentará en una mitad más; cuando concurra alguna de las siguientes circunstancias:
-
-I. (DEROGADA, P.O. 27 DE MAYO DE 2022)
-
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2011)</small>
-
-II. El agente realice el hecho quebrantando la confianza o seguridad que expresamente le había prometido al ofendido, o las tácitas que éste debía esperar de aquél, por las relaciones que fundadamente deben inspirar seguridad o confianza;
-
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2011)</small>
-
-III. El autor del delito sea o se ostente como miembro de alguna asociación delictuosa. Para efectos de esta fracción, se entenderá como asociación delictuosa toda agrupación o banda de dos o más personas destinada a delinquir;
-
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2011)</small>
-
-IV. Se realice el hecho por medio de amenazas en causar daño a la vida o salud del ofendido, o en persona con quien éste tenga vínculos de parentesco, amor, amistad, respeto o gratitud;
-
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2011)</small>
-
-V. Se utilice como medio comisivo la vía telefónica, el correo electrónico o cualquier otro medio de comunicación electrónica;
-
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2011)</small>
-
-VI. Cuando el agente se encuentre legalmente privado de su libertad. Igual pena se aplicará a la persona que en libertad, participe de cualquier manera con el primero;
-
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2011)</small>
-
-VII. Que cualquiera de los actos relacionados con el desarrollo de la extorsión, se efectúe desde lugar distinto al territorio del Estado de Querétaro; o bien de éste hacia otra entidad federativa, o
-
-> <small>(REFORMADA, P.O. 30 DE MAYO DE 2011)</small>
-
-VIII. Cuando el sujeto activo del delito sea, haya sido, o se ostente sin serlo, integrante de alguna institución policial, corporación de seguridad privada, o de órganos con funciones de investigación y persecución del delito, impartición de justicia penal o ejecución de penas y medidas de seguridad. En el caso de ser servidor público el sujeto activo del delito, se le impondrá además pena de destitución.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE JUNIO DE 2012)</small>
-
-IX. Cuando el delito se cometa en contra de persona menor de edad o mayor de sesenta años o persona que no tenga capacidad para comprender el significado del hecho o capacidad para resistirlo.
+(DEROGADO, P.O. 23 DE FEBRERO DE 2026)
 
 ### CAPITULO VIII. DESPOJO
 
@@ -5176,3 +5136,15 @@ Artículo Primero. La presente Ley entrará en vigor al día siguiente de su pub
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 23 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE DEROGA EL DELITO DE EXTORSIÓN DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro, “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Los preceptos derogados seguirán aplicándose para los hechos ocurridos durante su vigencia, a menos que les resulte más favorable las disposiciones establecidas en el Código Penal Federal o en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+Artículo Cuarto. Remítase al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro, “La Sombra de Arteaga”.
