@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-ingresos-del-estado-de-aguascalientes-para-el-182989"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2025-12-26"
-last_updated: "2025-12-26"
+last_updated: "2026-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=182989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES PARA EL EJERCICIO FISCAL DEL AÑO 2026
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2026.
 
 Ley publicada en la Primera Sección al Número 71 del Periódico Oficial del Estado de Aguascalientes, el viernes 26 de diciembre de 2025.
 
@@ -1250,6 +1250,10 @@ II. Por los servicios prestados por la Coordinación General de Movilidad en mat
 2) Por la modificación ampliación o ratificación del Dictamen de Impacto en Movilidad 3,793
 
 Se otorga un 10% (diez por ciento) de descuento en el pago de los derechos por la explotación de la concesión o permiso para prestar el servicio público de transporte por vehículo, por año de calendario, aplicable únicamente al transporte urbano y foráneo en taxis; así como un 10% (diez por ciento) de descuento en la expedición de la Carta de Registro por doce meses para la autorización de vehículos destinados a la prestación del servicio de transporte de personas contratados a través de plataformas tecnológicas, exclusivamente a quienes realicen el pago de contado dentro de los primeros tres meses del ejercicio fiscal 2026.
+
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2026)</small>
+
+La Secretaría de Finanzas del Estado podrá otorgar descuentos del 30% en el pago de derechos por la transmisión de concesiones del servicio de transporte público en las modalidades de taxi y colectivo foráneo (combis), siempre que exista una solicitud por parte del concesionario.
 
 ### CAPÍTULO VII. De las Autoridades de la Secretaría de Sustentabilidad, Medio Ambiente y Agua
 
@@ -8220,3 +8224,13 @@ ALEJANDRA PEÑA CURIEL
 DIPUTADA SEGUNDA SECRETARIA
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35, 36, 46 fracción I y 49 párrafo segundo de la Constitución Política del Estado de Aguascalientes, para su debida publicación y observancia, “Promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 19 de diciembre de 2025”.- La Gobernadora del Estado de Aguascalientes, C. María Teresa Jiménez Esquivel.- Rúbrica.- El Secretario General de Gobierno, Mtro. José Antonio Arámbula López.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 400.- SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 11 DE LA LEY DE INGRESOS DEL ESTADO DE AGUASCALIENTES, PARA EL EJERCICIO FISCAL DEL AÑO 2026”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
