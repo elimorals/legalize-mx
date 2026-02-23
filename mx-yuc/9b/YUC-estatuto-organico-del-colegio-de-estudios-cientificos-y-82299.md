@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-del-colegio-de-estudios-cientificos-y-82299"
 country: "mx"
 rank: "estatuto"
 publication_date: "2011-07-20"
-last_updated: "2011-07-20"
+last_updated: "2026-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # ESTATUTO ORGANICO DEL COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS DEL ESTADO DE YUCATAN
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE YUCATÁN, PUBLICADO EN EL D.O. DE 23 DE FEBRERO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGANICO DEL COLEGIO DE ESTUDIOS CIENTIFICOS Y TECNOLOGICOS DEL ESTADO DE YUCATAN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE FEBRERO DE 2026 (ABROGADO).
 
 Estatuto publicado en el Diario Oficial del Estado de Yucatán, el miércoles 20 de julio de 2011.
 
@@ -1022,3 +1024,19 @@ Lic. Fidencio Canto Sánchez
 Director General
 
 Colegio de Estudios Científicos y Tecnológicos del Estado de Yucatán
+
+D.O. 23 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO A11/27-03-25 POR EL QUE SE EXPIDE EL ESTATUTO ORGÁNICO DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE YUCATÁN".]
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Estado.
+
+Segundo. Abrogación
+
+Se abroga el Acuerdo A03/041209 por el que se aprueba el estatuto orgánico del Colegio de Estudios Científicos y Tecnológicos del Estado de Yucatán, publicado en el Diario Oficial del Estado de Yucatán el 20 de Julio de 2011.
+
+Tercero. Inscripción en el Registro de Entidades Paraestatales
+
+El director general del Colegio de Estudios Científicos y Tecnológicos del Estado de Yucatán deberá realizar la inscripción de este estatuto orgánico en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas, dentro de los treinta días naturales siguientes contados a partir de la entrada en vigor de este acuerdo.
