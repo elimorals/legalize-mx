@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2025-12-22"
+last_updated: "2026-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2026.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -2697,9 +2697,9 @@ III. Se deberán tomar en cuenta no solo los ingresos del deudor alimentario, si
 
 IV. De manera oficiosa deberán recabarse aquellos medios probatorios que permitan conocer la capacidad y necesidad económica de acreedor y deudor alimentarios, respectivamente, en los términos que precise la legislación procesal vigente.
 
-> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2026)</small>
 
-Determinados por convenio o sentencia, los alimentos líquidos y determinados tendrán un incremento automático mínimo equivalente al aumento porcentual anual correspondiente al Salario Mínimo General, debiendo el acreedor alimentario probar que los ingresos del deudor alimentario han aumentado por lo menos en igual proporción. En este caso, el incremento en los alimentos se ajustará al que realmente hubiese obtenido el deudor. Estas prevenciones deberán expresarse siempre en la sentencia o convenio correspondiente.
+Determinados por convenio o sentencia, los alimentos líquidos y determinados tendrán un incremento automático mínimo equivalente al aumento porcentual anual correspondiente al Salario Mínimo General y de igual manera deberá señalarse la fecha del mes en que deba efectuarse el pago de la pensión y fijarse la garantía para el caso de incumplimiento en el pago de ésta. Estas prevenciones deberán expresarse siempre en la sentencia o convenio correspondiente.
 
 > <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2021)</small>
 
@@ -18424,3 +18424,11 @@ P.O. 22 DE DICIEMBRE DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 24 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 411.- SE REFORMA EL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
