@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2026-01-16"
+last_updated: "2026-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2026.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -1723,9 +1723,9 @@ j) Solicitar licencia para separarse de su encargo representativo.
 
 ###### ARTICULO 68.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 24 DE FEBRERO DE 2026)</small>
 
-1. Los Diputados al Congreso del Estado tendrán los siguientes deberes:
+1. Las Diputadas y Diputados al Congreso del Estado tendrán los siguientes deberes:
 
 a) Rendir protesta constitucional con motivo del inicio de su encargo;
 
@@ -1735,9 +1735,9 @@ b) Velar por el bien del Estado mediante el ejercicio responsable de sus funcion
 
 c) Abstenerse de efectuar cualquier acto que cause demora en el desarrollo de los trabajos parlamentarios;
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2026)</small>
 
-d) Asistir puntualmente a las sesiones del Pleno y a las reuniones de las comisiones de las que formen parte, así como a las de la Diputación Permanente cuando fueren electos para formar parte de ella, sin retirarse de las mismas en forma definitiva sin previo aviso y autorización de quien presida el órgano correspondiente;
+d) Asistir puntualmente a las sesiones del Pleno y a las reuniones de las comisiones y comités de las que formen parte, así como a las de la Diputación Permanente cuando fueren electos para formar parte de ella, considerándose como retardo el presentarse a las mismas después de aprobado el orden del día y como falta el retirarse en forma definitiva sin previo aviso y autorización de quien presida el órgano correspondiente;
 
 > <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
 
@@ -1751,9 +1751,9 @@ f) Cumplir oportuna y eficazmente con las tareas que se le encomienden;
 
 g) Rendir un informe anual a la sociedad respecto de sus actividades legislativas, de gestión y de representación; y entregar un ejemplar a la Secretaría General del Congreso para su archivo y publicación en la Plataforma Nacional de Transparencia;
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2026)</small>
 
-h) Adoptar un comportamiento parlamentario caracterizado por el respeto y la cortesía hacia los demás integrantes del Pleno y respetar las determinaciones del Presidente de la Mesa Directiva;
+h) Adoptar un comportamiento parlamentario caracterizado por el respeto y la cortesía hacia los demás integrantes del Pleno y respetar las determinaciones de la Presidencia de la Mesa Directiva;
 
 > <small>(ADICIONADO, P.O. 30 DE MAYO DE 2017)</small>
 
@@ -1779,25 +1779,27 @@ m) Permitir la libre discusión y decisión parlamentaria en reuniones, así com
 
 n) Retirar cualquier material o artículos ilustrativos que haya utilizado para su intervención en el Pleno una vez que ésta haya concluido;
 
-> <small>(ADICIONADO, P.O. 30 DE MAYO DE 2017)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2026)</small>
 
-ñ) Abstenerse de hacer uso de la palabra durante las sesiones, si el Presidente no se la ha concedido; y
+ñ) Abstenerse de hacer uso de la palabra durante las sesiones, si la Presidencia no se la ha concedido; y
 
 > <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2022)</small>
 
 o) Las y los Diputados integrantes de la Legislatura, dentro y fuera del Recinto Legislativo, así como en las distintas plataformas digitales y redes sociales, se abstendrán de difamar y menoscabar la dignidad del personal administrativo y de servicios parlamentarios que laboran en el Congreso del Estado. Asimismo deberán tratar con respeto y profesionalismo al personal que preste sus servicios en el Poder Legislativo.
 
-2. Los diputados cumplirán con los deberes que deriven de la Constitución Política de los Estados Unidos Mexicanos, de la Constitución Política del Estado y de las leyes que de ellas emanen.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2017)</small>
+2. Las y los Diputados cumplirán con los deberes que deriven de la Constitución Política de los Estados Unidos Mexicanos, de la Constitución Política del Estado y de las leyes que de ellas emanen.
 
-3. Los Diputados que funjan como representantes del Poder Legislativo en organismos descentralizados, que formen parte de comisiones, comités, consejos o asamblea, deberán rendir ante el Pleno del Congreso del Estado un informe anual de las actividades desempeñadas, y entregar un ejemplar a la Secretaría General del Congreso para su archivo y publicación en la Plataforma Nacional de Transparencia.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2026)</small>
+
+3. Las y los Diputados que funjan como representantes del Poder Legislativo en organismos descentralizados, que formen parte de comisiones, comités, consejos o asamblea, deberán rendir ante el Pleno del Congreso del Estado un informe anual de las actividades desempeñadas, y entregar un ejemplar a la Secretaría General del Congreso para su archivo y publicación en la Plataforma Nacional de Transparencia.
 
 ###### ARTÍCULO 69.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2017)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2026)</small>
 
-1. La dieta de los diputados será disminuida cuando incurran en ausencia a una sesión, reunión de Comisión o Comité, sin previo aviso o habiendo realizado éste se determine injustificada la causa en que se motiva por parte del Presidente de la Mesa Directiva.
+1. La dieta de las y los Diputados será disminuida cuando incurran en ausencia a una sesión, reunión de Comisión o Comité, sin previo aviso o habiendo realizado éste se determine injustificada la causa en que se motiva por parte de la Presidencia de la Mesa Directiva.
 
 > <small>(ADICIONADO, P.O. 15 DE MARZO DE 2017)</small>
 
@@ -1815,21 +1817,23 @@ d) Atención de alguna encomienda oficial conferida por el Pleno, las Comisiones
 
 3. Las causas antes descritas deberán acreditarse mediante constancias o documentales que permitan determinar la justificación de la ausencia.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2026)</small>
 
-4. Previo aviso al Presidente de la Mesa Directiva, los diputados podrán ausentarse hasta en tres ocasiones consecutivas de las sesiones del Pleno en un mismo período ordinario. Para ausentarse por más sesiones requerirán licencia aprobada por el Pleno.
+4. Previo aviso a la Presidencia de la Mesa Directiva, las y los diputados podrán ausentarse hasta en tres ocasiones consecutivas de las sesiones del Pleno en un mismo período ordinario. Para ausentarse por más sesiones requerirán licencia aprobada por el Pleno.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2026)</small>
 
-5. Cuando sin justificación algún diputado dejara de concurrir a seis sesiones dentro del mismo periodo ordinario, perderá el derecho de asistir al mismo con la disminución de la dieta correspondiente en los términos de esta ley, siempre que no se desintegre el quórum por su falta.
+5. Cuando sin justificación alguna, la o el diputado dejara de concurrir a tres sesiones y seis discontinuas dentro del mismo periodo ordinario, perderá el derecho de asistir al mismo con la disminución de la dieta correspondiente en los términos de esta ley, llamándose a la persona suplente, quien asumirá sus funciones.
 
-> <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2011)</small>
+La o el Diputado que se haga acreedor a esta sanción, volverá al ejercicio de su encargo hasta el siguiente periodo ordinario y sus dietas y percepciones económicas las recibirá la persona suplente que haya sido llamada.
 
-6. La disminución de la dieta corresponderá a los días de su ausencia injustificada. El Presidente de la Mesa Directiva dará cuenta a la Secretaría General de las inasistencias que en ejercicio de sus atribuciones haya determinado no justificadas, instruyéndola para que realice los trámites administrativos conducentes.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 15 DE MARZO DE 2017)</small>
+6. La disminución de la dieta corresponderá a los días de su ausencia injustificada. La Presidencia de la Mesa Directiva dará cuenta a la Secretaría General de las inasistencias que en ejercicio de sus atribuciones haya determinado no justificadas, instruyéndola para que realice los trámites administrativos conducentes.
 
-7. También será causa para la disminución en las dietas la ausencia injustificada a las comisiones o comités de las que forme parte el diputado. En su caso, el Presidente de la comisión o comité hará la notificación por escrito al Presidente de la Mesa Directiva para los efectos del párrafo anterior, debiendo entregarse copia al interesado de dicha notificación.
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2026)</small>
+
+7. También será causa para la disminución en las dietas la ausencia injustificada a las comisiones o comités de las que forme parte la o el diputado. En su caso, la Presidencia de la comisión o comité hará la notificación por escrito a la Presidencia de la Mesa Directiva para los efectos del numeral anterior, debiendo entregarse copia a la persona interesada de dicha notificación.
 
 > <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
 
@@ -2272,6 +2276,26 @@ DEL DERECHO DE INICIATIVA
 > <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2021)</small>
 
 En las iniciativas se procurará la máxima utilización de lenguaje claro e inclusivo, al menos en su parte expositiva. Una vez conocida una iniciativa por el Pleno, será turnada a la comisión o comisiones que correspondan para su estudio y dictamen de acuerdo a su competencia.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2026)</small>
+
+Las Diputadas y los Diputados tienen derecho a presentar iniciativas de ley, decreto, punto de acuerdo y/o acuerdo económico, en los términos previstos por la Constitución Política del Estado de Tamaulipas y la presente Ley.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2026)</small>
+
+La presentación de iniciativas podrá realizarse durante los periodos ordinarios de sesiones o de la Diputación Permanente, según sea el caso, ya sea por conducto de la Oficialía de Partes del Congreso o directamente en tribuna durante sesión del Pleno o en la Diputación Permanente, para su turno correspondiente.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2026)</small>
+
+Podrán presentarse hasta cuatro iniciativas por Diputada o Diputado, a través de la Oficialía de Partes por periodo ordinario de sesiones o en Receso legislativo, según sea el caso.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2026)</small>
+
+A partir de la quinta iniciativa que presente una Diputada o Diputado dentro del mismo periodo ordinario de sesiones o del receso legislativo, su presentación deberá realizarse de manera obligatoria en tribuna, durante sesión del Pleno del Congreso o en la Diputación Permanente según sea el caso.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2026)</small>
+
+La presente disposición será de aplicación general, objetiva y equitativa, no limitará el número de iniciativas que puedan presentarse, ni afectará el derecho sustantivo de iniciativa.
 
 3. Podrán presentarse iniciativas de ley, de decreto, de acuerdo y de acuerdo económico.
 
@@ -4398,3 +4422,15 @@ P.O. 16 DE ENERO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su Publicación en el Periódico Oficial del Estado, con excepción de las reformas efectuadas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas, las cuáles surtirán efectos a partir de su expedición.
+
+P.O. 24 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 66-971 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir de su aprobación y deberá publicarse en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las iniciativas presentadas con anterioridad a la entrada en vigor del presente Decreto se tramitarán conforme a las disposiciones vigentes al momento de su presentación.
