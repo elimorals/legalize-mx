@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-aguas-del-estado-de-tamaulipas-50116"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-15"
-last_updated: "2026-02-12"
+last_updated: "2026-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE AGUAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 15 de febrero de 2006.
 
@@ -1191,11 +1191,15 @@ XVIII. Nombrar y remover al Gerente General del Organismo, con excepción de aqu
 
 XIX. Autorizar la transmisión del uso de aguas residuales de naturaleza estatal conforme a la presente Ley; y de las aguas residuales de naturaleza nacional que tengan asignadas conforme a la Ley de Aguas Nacionales, su reglamento y demás normatividad aplicable;
 
-> <small>(ADICIONADA, P.O. 20 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2026)</small>
 
-XX. Aprobar los términos, condiciones y contraprestaciones correspondientes a la transmisión del uso de aguas residuales de naturaleza estatal conforme a la presente Ley; y de las aguas residuales de naturaleza nacional que tengan asignadas conforme a la Ley de Aguas Nacionales, su reglamento y demás normatividad aplicable; y
+XX. Aprobar los términos, condiciones y contraprestaciones correspondientes a la transmisión del uso de aguas residuales de naturaleza estatal conforme a la presente Ley; y de las aguas residuales de naturaleza nacional que tengan asignadas conforme a la Ley de Aguas Nacionales, su reglamento y demás normatividad aplicable;
 
-XXI. Las demás que le asignen la presente ley, su decreto de creación, la legislación y los reglamentos aplicables.
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2026)</small>
+
+XXI. Aprobar la depuración de cuentas por cobrar de los usuarios con más de cinco años de adeudo a propuesta de él o la Gerente General; y
+
+XXII. Las demás que le asignen la presente ley, su decreto de creación, la legislación y los reglamentos aplicables.
 
 ###### Artículo 33.
 
@@ -1217,7 +1221,9 @@ IV. Una vez nombrado, no prestar sus servicios profesionales en la administraci�
 
 ###### Artículo 34.
 
-El Gerente General del organismo operador tendrá las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2026)</small>
+
+El o la Gerente General del organismo operador tendrá las siguientes atribuciones:
 
 I. Tener la representación legal del organismo, con todas las facultades generales y especiales que requieran poder o cláusula especial conforme a la ley; así como otorgar y revocar poderes, formular querellas y denuncias, otorgar el perdón extintivo de la acción penal, elaborar y absolver posiciones, así como promover y desistirse del juicio de amparo;
 
@@ -1275,11 +1281,15 @@ XX. Nombrar y remover al personal del organismo, debiendo informar al Consejo de
 
 XXI. Someter a la aprobación del Consejo de Administración, el proyecto de Estatuto Orgánico del organismo y sus modificaciones; así como los manuales de organización y de procedimientos;
 
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2026)</small>
 
-XXII. Certificar documentos físicos y digitales generados por el organismo, así como los que obren en expedientes instruidos o integrados en el ejercicio de sus facultades, incluida la certificación de archivos digitales que se almacenen en dispositivos electrónicos, así como de la información relativa que ampare la contabilidad gubernamental y los expedientes con motivo de los informes de la cuenta pública; y
+XXII. Certificar documentos físicos y digitales generados por el organismo, así como los que obren en expedientes instruidos o integrados en el ejercicio de sus facultades, incluida la certificación de archivos digitales que se almacenen en dispositivos electrónicos, así como de la información relativa que ampare la contabilidad gubernamental y los expedientes con motivo de los informes de la cuenta pública;
 
-XXIII. Las demás que le señalen el Consejo de Administración, esta ley, sus reglamentos y el Estatuto Orgánico.
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2026)</small>
+
+XXIII. Proponer al Consejo de Administración para su aprobación, la depuración de cuentas por cobrar de los usuarios con más de cinco años de adeudo; y
+
+XXIV. Las demás que le señalen el Consejo de Administración, esta ley, sus reglamentos y el Estatuto Orgánico.
 
 ###### Artículo 35.
 
@@ -2703,13 +2713,13 @@ II. Uso comercial y de servicios; ó
 
 III Uso doméstico.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 149.
 
-> <small>(REFORMADO, P.O. 21 DE FEBRERO DE 2024)</small>
+1. Los adeudos a cargo de los usuarios y en favor de los organismos operadores o, en su defecto, de la Secretaría, derivados de los precios o tarifas por la prestación de los servicios públicos, tendrán el carácter de créditos fiscales para efectos de la aplicación del procedimiento administrativo de ejecución.
 
-1. Los adeudos a cargo de los usuarios y en favor de los organismos operadores municipales, intermunicipales, regionales o, en su defecto, de la Secretaría, derivados de los precios o tarifas por la prestación de los servicios públicos, tendrán el carácter de créditos fiscales para efectos de la aplicación del procedimiento administrativo de ejecución.
-
-2. A los adeudos que conforme a este artículo adquieran el carácter de créditos fiscales les serán aplicables las disposiciones del Código Fiscal del Estado relativas a la actualización y recargos.
+2. A los adeudos que conforme a este artículo adquieran el carácter de créditos fiscales les serán aplicables las disposiciones del Código Fiscal del Estado, relativas a la actualización, recargos y prescripción.
 
 ###### Artículo 150.
 
@@ -3697,6 +3707,8 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 21 DE FEBRERO DE 2024.
 
+> <small>[N. DE E. TRANSITORIOS DEL”DECRETO NO. 65-813 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS”.]</small>
+
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
@@ -3715,7 +3727,7 @@ Se derogan las disposiciones legales y administrativas que se opongan al present
 
 P.O. 8 DE MAYO DE 2024.
 
-## [N. DE E. TRANSITORIOS DEL ”DECRETO NO. 65-813 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS”.]
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-843 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXI, Y SE ADICIONA UNA FRACCIÓN XXII, RECORRIÉNDOSE LA ACTUAL EN SU ORDEN NATURAL PARA SER XXIII, DEL ARTÍCULO 34, DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
@@ -3723,7 +3735,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 3 DE JULIO DE 2024.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-843 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XXI, Y SE ADICIONA UNA FRACCIÓN XXII, RECORRIÉNDOSE LA ACTUAL EN SU ORDEN NATURAL PARA SER XXIII, DEL ARTÍCULO 34, DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS”.]
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 65-864 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VII, DEL PÁRRAFO 1, DEL ARTÍCULO 6, DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
@@ -3731,7 +3743,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 15 DE AGOSTO DE 2024.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO No. 65-864 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VII, DEL PÁRRAFO 1, DEL ARTÍCULO 6, DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 65-883 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS Y DE LOS DIVERSOS DECRETOS DE CREACIÓN DE LOS ORGANISMOS OPERADORES DE AGUA POTABLE, DRENAJE, ALCANTARILLADO, TRATAMIENTO Y DISPOSICIÓN DE LAS AGUAS RESIDUALES OPERADOS POR EL ORDEN MUNICIPAL".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3751,7 +3763,7 @@ Los Decretos de creación de los organismos públicos municipales operadores del
 
 P.O. 21 DE AGOSTO DE 2024.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO No. 65-883 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS Y DE LOS DIVERSOS DECRETOS DE CREACIÓN DE LOS ORGANISMOS OPERADORES DE AGUA POTABLE, DRENAJE, ALCANTARILLADO, TRATAMIENTO Y DISPOSICIÓN DE LAS AGUAS RESIDUALES OPERADOS POR EL ORDEN MUNICIPAL".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 65-894 MEDIANTE EL CUAL, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3763,7 +3775,7 @@ El Estado y los Ayuntamientos deberán prever en el ejercicio fiscal del próxim
 
 P.O. 6 DE MARZO DE 2025.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO No. 65-894 MEDIANTE EL CUAL, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS".]
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 66-251 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 18, FRACCIÓN XVIII, Y 176, FRACCIÓN III, DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
@@ -3771,7 +3783,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 26 DE JUNIO DE 2025.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO No. 66-251 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 18, FRACCIÓN XVIII, Y 176, FRACCIÓN III, DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS".]
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-356 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 2 BIS A LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
@@ -3779,7 +3791,7 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 
 P.O. 27 DE AGOSTO DE 2025.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-356 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 2 BIS A LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-384 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 2, FRACCIONES LXIX, LXXI Y LXXVII; 6, PÁRRAFO 1, FRACCIONES XLVIII Y LIII; 28 BIS, PÁRRAFO 1, FRACCIÓN III; 30, PÁRRAFO 1; 31; 33, FRACCIONES I, II Y III; 34, FRACCIÓN XVIII; 36, PÁRRAFO ÚNICO Y FRACCIONES II Y III; 113, PÁRRAFOS 1, 2, FRACCIONES I, II Y III, 3 Y 5; Y 158, PÁRRAFO 3; Y SE ADICIONAN LAS FRACCIONES VI BIS Y VI TER AL ARTÍCULO 2; LAS FRACCIONES LXVI Y LXVII, RECORRIÉNDOSE EN SU ORDEN NATURAL LA SUBSECUENTE, AL ARTÍCULO 6; UNA FRACCIÓN XI BIS, AL ARTÍCULO 25; UNA FRACCIÓN V BIS, AL ARTÍCULO 34; UN PÁRRAFO 2, RECORRIÉNDOSE EN SU ORDEN NATURAL EL SUBSECUENTE, AL ARTÍCULO 35; Y LOS PÁRRAFOS 6 Y 7, AL ARTÍCULO 113 DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS.”]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3799,7 +3811,7 @@ Cuando a la entrada en vigor del presente Decreto, no estén nombrados las o los
 
 P.O. 21 DE NOVIEMBRE DE 2025.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-384 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 2, FRACCIONES LXIX, LXXI Y LXXVII; 6, PÁRRAFO 1, FRACCIONES XLVIII Y LIII; 28 BIS, PÁRRAFO 1, FRACCIÓN III; 30, PÁRRAFO 1; 31; 33, FRACCIONES I, II Y III; 34, FRACCIÓN XVIII; 36, PÁRRAFO ÚNICO Y FRACCIONES II Y III; 113, PÁRRAFOS 1, 2, FRACCIONES I, II Y III, 3 Y 5; Y 158, PÁRRAFO 3; Y SE ADICIONAN LAS FRACCIONES VI BIS Y VI TER AL ARTÍCULO 2; LAS FRACCIONES LXVI Y LXVII, RECORRIÉNDOSE EN SU ORDEN NATURAL LA SUBSECUENTE, AL ARTÍCULO 6; UNA FRACCIÓN XI BIS, AL ARTÍCULO 25; UNA FRACCIÓN V BIS, AL ARTÍCULO 34; UN PÁRRAFO 2, RECORRIÉNDOSE EN SU ORDEN NATURAL EL SUBSECUENTE, AL ARTÍCULO 35; Y LOS PÁRRAFOS 6 Y 7, AL ARTÍCULO 113 DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS.”]
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 66-564 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN IV, NUMERAL 1, DEL ARTÍCULO 28 DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3815,7 +3827,7 @@ Una vez que los Consejos de Administración de los organismos operadores municip
 
 P.O. 12 DE FEBRERO DE 2026.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO No. 66-564 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN IV, NUMERAL 1, DEL ARTÍCULO 28 DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS”.]
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 66-963 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES PARA LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS; DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE ARCHIVOS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS; DE LA LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE CONCILIACIÓN Y ARBITRAJE MÉDICO PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE TAMAULIPAS; DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS; DE LA LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS; DE LA LEY PARA LA ENTREGA-RECEPCIÓN DE LOS RECURSOS ASIGNADOS A LOS PODERES, ÓRGANOS Y AYUNTAMIENTOS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE GASTO PÚBLICO; DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE IGUALDAD DE GÉNERO EN TAMAULIPAS; DE LA LEY DEL INSTITUTO DE PREVISIÓN Y SEGURIDAD SOCIAL DEL ESTADO DE TAMAULIPAS; DE LA LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO; DE LA LEY ESTATAL DE PLANEACIÓN; DE LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS; DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN SOCIOECONÓMICA DE LAS VIOLENCIAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE TAMAULIPAS; DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -3829,4 +3841,10 @@ El Tribunal de Justicia Administrativa del Estado de Tamaulipas, a través de su
 
 En las disposiciones transitorias de las diversas leyes y códigos en las que se haga referencia a la Contraloría Gubernamental, se entenderá la Secretaría Anticorrupción y Buen Gobierno.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO No. 66-963 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ADQUISICIONES PARA LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS Y SUS MUNICIPIOS; DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE ARCHIVOS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE BIENES DEL ESTADO Y MUNICIPIOS DE TAMAULIPAS; DE LA LEY DE CAMINOS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE CONCILIACIÓN Y ARBITRAJE MÉDICO PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE TAMAULIPAS; DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS; DE LA LEY DE DEUDA PÚBLICA ESTATAL Y MUNICIPAL DE TAMAULIPAS; DE LA LEY PARA LA ENTREGA-RECEPCIÓN DE LOS RECURSOS ASIGNADOS A LOS PODERES, ÓRGANOS Y AYUNTAMIENTOS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE GASTO PÚBLICO; DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE IGUALDAD DE GÉNERO EN TAMAULIPAS; DE LA LEY DEL INSTITUTO DE PREVISIÓN Y SEGURIDAD SOCIAL DEL ESTADO DE TAMAULIPAS; DE LA LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DEL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO; DE LA LEY ESTATAL DE PLANEACIÓN; DE LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS; DE LA LEY PARA LA PREVENCIÓN Y ATENCIÓN SOCIOECONÓMICA DE LAS VIOLENCIAS DEL ESTADO DE TAMAULIPAS; DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE TAMAULIPAS; DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL Y DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+P.O. 24 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-973 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 32, FRACCIÓN XX; 34 PÁRRAFO ÚNICO Y SU FRACCIÓN XXII; Y 149; Y SE ADICIONAN UNA FRACCIÓN XXI, RECORRIÉNDOSE LA SUBSECUENTE EN SU ORDEN NATURAL AL ARTÍCULO 32; Y LA FRACCIÓN XXIII, RECORRIÉNDOSE LA SUBSECUENTE EN SU ORDEN NATURAL AL ARTÍCULO 34 DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
