@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-procuraduria-estatal-de-proteccion-al-ambiente-29297"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-10"
-last_updated: "2024-07-15"
+last_updated: "2026-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29297&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "AGU"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-LEY DE LA PROCURADURÍA ESTATAL DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE AGUASCALIENTES
+LEY DE LA PROCURADURÍA ESTATAL DE PROTECCIÓN AMBIENTAL Y ANIMAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2026.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de marzo de 2003.
 
@@ -39,21 +39,25 @@ Decreto Número 83
 
 UNICO.- Se aprueba la presente Ley de la Procuraduría Estatal de Protección al Ambiente, en todos y cada uno de sus términos, para quedar como sigue:
 
-LEY DE LA PROCURADURIA ESTATAL DE PROTECCION AL AMBIENTE
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE FEBRERO DE 2026)</small>
+
+LEY DE LA PROCURADURÍA ESTATAL DE PROTECCIÓN AMBIENTAL Y ANIMAL DEL ESTADO DE AGUASCALIENTES
 
 ## TITULO PRIMERO
 
 ### CAPITULO UNICO. De las Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 1°.
 
-La presente Ley es de orden público e interés social y tiene por objeto, crear la Procuraduría Estatal de Protección al Ambiente, la cual cuenta con personalidad jurídica, patrimonio propio, autonomía de gestión e independencia en sus decisiones.
+La presente Ley es de orden público e interés social y tiene por objeto, crear la Procuraduría Estatal de Protección Ambiental y Animal, la cual cuenta con personalidad jurídica, patrimonio propio, autonomía de gestión e independencia en sus decisiones.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 2°.
 
-La Procuraduría Estatal de Protección al Ambiente tendrá su domicilio legal en la Ciudad de Aguascalientes.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+La Procuraduría Estatal de Protección Ambiental y Animal tendrá su domicilio legal en la Ciudad de Aguascalientes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2016)</small>
 
@@ -65,41 +69,35 @@ I. Administración Pública: Las Dependencias, Entidades Paraestatales, Organism
 
 II. Congreso del Estado: H. Congreso del Estado de Aguascalientes.
 
-III. Procuraduría: Procuraduría Estatal de Protección al Ambiente.
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2026)</small>
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+III. Procuraduría: Procuraduría Estatal de Protección Ambiental y Animal.
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
 
 IV. Subprocuraduría: Subprocuraduría de Protección, Defensa y Bienestar de los Animales.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
 
 V. Secretaría: Secretaría de Medio Ambiente del Estado de Aguascalientes.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
 
 VI. Reglamento Interior: El Reglamento de la Procuraduría Estatal de Protección al Ambiente.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
-
-VII. Junta de Gobierno: Junta de Gobierno de la Procuraduría Estatal de Protección al Ambiente.
-
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+VII. Junta de Gobierno: Junta de Gobierno de la Procuraduría Estatal de Protección Ambiental y Animal.
 
 > <small>(ADICIONADA, P.O. 22 DE AGOSTO DE 2016)</small>
 
 VIII. Legislación Ambiental: Todas las leyes, reglamentos, decretos, acuerdos, resoluciones, normas técnicas y demás disposiciones vigentes de carácter general que conforman la normatividad ambiental del Estado de Aguascalientes, así como la normatividad ambiental federal aplicable dentro del territorio estatal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 4°.
 
-El patrimonio de la Procuraduría Estatal de Protección al Ambiente, se integra con los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto, por las partidas que se prevean en el presupuesto de egresos del Gobierno del Estado de Aguascalientes, y los bienes y recursos numerarios que por cualquier título adquiera.
+El patrimonio de la Procuraduría Estatal de Protección Ambiental y Animal, se integra con los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto, por las partidas que se prevean en el presupuesto de egresos del Gobierno del Estado de Aguascalientes, y los bienes y recursos numerarios que por cualquier título adquiera.
 
 La Procuraduría administrará su patrimonio conforme a las disposiciones legales aplicables y a los presupuestos y programas aprobados.
 
@@ -762,3 +760,15 @@ P.O. 15 DE JULIO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 24 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 409.- SE REFORMA LA LEY DE LA PROCURADURÍA ESTATAL DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma iniciará su vigencia a los 180 días hábiles siguientes al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Aquellos procedimientos administrativos y jurídicos que se estén llevando a cabo, deberán continuarse conforme a la legislación vigente al momento de la comisión del hecho punible.
