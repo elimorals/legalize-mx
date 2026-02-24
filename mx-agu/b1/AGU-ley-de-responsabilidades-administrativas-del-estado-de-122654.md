@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-responsabilidades-administrativas-del-estado-de-122654"
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-01"
-last_updated: "2025-05-26"
+last_updated: "2026-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2026.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 1 de agosto de 2017.
 
@@ -678,6 +678,10 @@ Será responsable de encubrimiento el servidor público que cuando, en el ejerci
 ###### Artículo 49.
 
 Cometerá desacato el servidor público que, tratándose de requerimientos o resoluciones de autoridades fiscalizadoras, de control interno, judiciales, electorales o en materia de defensa de los derechos humanos o cualquier otra competente, proporcione información falsa, así como no dé respuesta alguna, retrase deliberadamente y sin justificación la entrega de la información, a pesar de que le hayan sido impuestas medidas de apremio conforme a las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2026)</small>
+
+Artículo 49 A.- Será responsable de injerencia sindical la persona servidora pública que, por sí o por terceros, incurra en las conductas previstas en el Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios, Órganos Constitucionales Autónomos y Organismos Descentralizados.
 
 ###### Artículo 50.
 
@@ -2438,3 +2442,13 @@ P.O. 26 DE MAYO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 179.- SE REFORMAN LA LEY POR LA QUE SE CREA LA UNIVERSIDAD DE LA POLICÍA Y CIENCIAS DE LA SEGURIDAD DE AGUASCALIENTES; Y, LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE AGUASCALIENTES”.]
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 397.- SE ADICIONAN ARTÍCULOS AL ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS, ÓRGANOS CONSTITUCIONALES AUTÓNOMOS Y ORGANISMOS DESCENTRALIZADOS; Y, A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE AGUASCALIENTES”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO. Los entes públicos del Estado y sus Municipios deberán realizar las adecuaciones administrativas necesarias para el cumplimiento del presente Decreto.
+
+TERCERO. Quedan derogadas todas las disposiciones legales, reglamentarias o administrativas que se opongan al presente Decreto.
