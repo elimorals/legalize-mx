@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-premios-que-otorga-el-congreso-del-estado-de-57668"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2025-06-30"
+last_updated: "2026-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PREMIOS QUE OTORGA EL CONGRESO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -339,11 +339,11 @@ El Congreso reconocerá la entrega, oficio, trayectoria y dedicación de todas a
 
 El reconocimiento a las Legisladoras, consistirá en colocar su fotografía y nombre en el salón ubicado en el lado poniente del Vestíbulo del inmueble sede del Poder Legislativo, al cual, se le denomina "SALON LEGISLADORAS".
 
-> <small>(ADICIONADO, P.O. 23 DE MAYO DE 2022)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2026)</small>
 
 ###### ARTÍCULO 23.
 
-El reconocimiento mencionado en el artículo anterior, se realizará únicamente en el primer año de ejercicio constitucional de la Legislatura correspondiente, en un evento que será convocado para el día ocho de marzo.
+El reconocimiento mencionado en el artículo anterior se realizará únicamente en el segundo año de ejercicio constitucional de la Legislatura correspondiente, en un evento que será convocado durante el mes de marzo, en el marco de la conmemoración del Día Internacional de la Mujer.
 
 TRANSITORIOS:
 
@@ -478,3 +478,15 @@ P.O. 30 DE JUNIO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 – El presente Proyecto de Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 410.- SE REFORMA LA LEY DE PREMIOS QUE OTORGA EL CONGRESO DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente proyecto de decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La Comisión de Postulaciones del Honorable Congreso del Estado será la encargada de determinar la fecha específica para la realización del evento previsto en el presente Decreto.
