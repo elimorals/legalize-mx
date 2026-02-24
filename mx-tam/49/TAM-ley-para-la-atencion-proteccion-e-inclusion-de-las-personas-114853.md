@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-atencion-proteccion-e-inclusion-de-las-personas-114
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-26"
-last_updated: "2024-03-20"
+last_updated: "2026-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114853&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA LA ATENCIÓN, PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA Y TRASTORNOS DEL NEURODESARROLLO PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 26 de mayo de 2016.
 
@@ -59,33 +59,47 @@ La presente Ley tiene por objeto impulsar la plena integración e inclusión a l
 
 Para los efectos de esta Ley se entiende por:
 
-I. Comisión: Comisión Estatal para la Atención y Protección a Personas con la Condición del Espectro Autista;
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2026)</small>
 
-II. Derechos humanos: Los derechos reconocidos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Tamaulipas y los tratados internacionales de los que el Estado Mexicano forma parte y que se caracterizan por garantizar a las personas, dignidad, valor, igualdad de derechos y oportunidades, a fin de promover el proceso social y elevar el nivel de vida dentro de un concepto más amplio de la libertad con estricto apego a los principios pro persona, universalidad, interdependencia, indivisibilidad y progresividad;
+I. Asistencia social: Conjunto de acciones tendentes a modificar y mejorar las circunstancias de carácter social que impiden el desarrollo integral del individuo, así como la protección física, mental y social de personas en estado de necesidad, indefensión, desventaja física o mental, hasta lograr su incorporación a una vida plena y productiva;
 
-III. Discriminación: Toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades;
+> <small>(REFORMADA, P.O. 24 DE FEBRERO DE 2026)</small>
 
-IV. Habilitación terapéutica: Proceso con un objetivo definido de orden médico, psicológico, social, educativo y técnico, entre otros, a efecto de mejorar la condición física y mental de las personas para lograr su integración social y productiva;
+II. Comisión: Comisión lnterinstitucional Estatal de Atención al Espectro Autista y Trastornos del Neurodesarrollo;
 
-V. Inclusión: Actuación de los integrantes de la sociedad sin discriminación ni prejuicios, considerando que la diversidad es una condición humana;
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2026)</small>
 
-VI. Integración: Incorporación de un individuo con características diferentes, a la vida social al contar con las facilidades necesarias y acordes con su condición;
+III. Barreras socioculturales: Actitudes de rechazo e indiferencia por razones de origen étnico, género, edad, discapacidad, condición social, entre otras, debido a la falta de información, prejuicios y estigmas por parte de los integrantes de la sociedad que impiden su incorporación y participación plena en la vida social;
 
-VII. Personas con la condición del espectro autista: Personas que presentan una condición caracterizada en diferentes grados por dificultades en la interacción social, en la comunicación verbal y no verbal, y en comportamientos repetitivos;
+IV. Derechos humanos: Los derechos reconocidos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Tamaulipas y los tratados internacionales de los que el Estado Mexicano forma parte y que se caracterizan por garantizar a las personas, dignidad, valor, igualdad de derechos y oportunidades, a fin de promover el proceso social y elevar el nivel de vida dentro de un concepto más amplio de la libertad con estricto apego a los principios pro persona, universalidad, interdependencia, indivisibilidad y progresividad;
 
-VIII. Secretaría: Secretaría de Salud del Estado de Tamaulipas;
+> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2026)</small>
 
-IX. Sector social: Sector de la economía a que se refiere el artículo 25 de la Constitución Política de los Estados Unidos Mexicanos;
+V. Discapacidad: Concepto en permanente evolución como resultado de la compleja interacción entre las personas con deficiencias y las barreras debidas a la actitud y al entorno que evitan su participación plena y efectiva en la sociedad, en igualdad de condiciones con las demás;
+
+VI. Discriminación: Toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades;
+
+VII. Habilitación terapéutica: Proceso con un objetivo definido de orden médico, psicológico, social, educativo y técnico, entre otros, a efecto de mejorar la condición física y mental de las personas para lograr su integración social y productiva;
+
+VIII. Inclusión: Actuación de los integrantes de la sociedad sin discriminación ni prejuicios, considerando que la diversidad es una condición humana;
+
+IX. Integración: Incorporación de un individuo con características diferentes, a la vida social al contar con las facilidades necesarias y acordes con su condición;
+
+X. Personas con la condición del espectro autista: Personas que presentan una condición caracterizada en diferentes grados por dificultades en la interacción social, en la comunicación verbal y no verbal, y en comportamientos repetitivos;
+
+XI. Secretaría: Secretaría de Salud del Estado de Tamaulipas;
+
+XII. Sector social: Sector de la economía a que se refiere el artículo 25 de la Constitución Política de los Estados Unidos Mexicanos;
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2024)</small>
 
-X. Sector privado: Personas físicas y jurídicas dedicadas a las actividades preponderantemente lucrativas y las de carácter civil distintas a los sectores público y social;
+XIII. Sector privado: Personas físicas y jurídicas dedicadas a las actividades preponderantemente lucrativas y las de carácter civil distintas a los sectores público y social;
 
 > <small>(ADICIONADA, P.O. 20 DE MARZO DE 2024)</small>
 
-XI. Trastornos del Neurodesarrollo: Son un grupo de trastornos que se caracterizan por déficits en el desarrollo que provocan alteraciones en el sistema nervioso, las cuales se expresan en forma diferente en distintas etapas del crecimiento; y
+XIV. Trastornos del Neurodesarrollo: Son un grupo de trastornos que se caracterizan por déficits en el desarrollo que provocan alteraciones en el sistema nervioso, las cuales se expresan en forma diferente en distintas etapas del crecimiento; y
 
-XII. Transversalidad: Diversas formas de coordinación no jerárquica utilizadas para el diseño e implementación de políticas públicas, así como para la gestión y provisión de servicios públicos, que exige articulación bilateral o multilateral, dentro de las atribuciones de las dependencias y entidades de la administración pública estatal y sus correlativas de la administración pública federal y municipal.
+XV. Transversalidad: Diversas formas de coordinación no jerárquica utilizadas para el diseño e implementación de políticas públicas, así como para la gestión y provisión de servicios públicos, que exige articulación bilateral o multilateral, dentro de las atribuciones de las dependencias y entidades de la administración pública estatal y sus correlativas de la administración pública federal y municipal.
 
 > <small>(REFORMADO, P.O. 20 DE MARZO DE 2024)</small>
 
@@ -478,3 +492,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 El cumplimiento del presente Decreto estará sujeto a la disponibilidad presupuestal para el presente ejercicio fiscal.
+
+P.O. 24 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-974 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN I, DEL ARTÍCULO 3; Y SE ADICIONAN LAS FRACCIONES I, III Y V, RECORRIÉNDOSE EN SU ORDEN NATURAL LAS SUBSECUENTES, AL ARTÍCULO 3, DE LA LEY PARA LA ATENCIÓN, PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA Y TRASTORNOS DEL NEURODESARROLLO PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
