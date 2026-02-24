@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-fiscal-del-estado-de-tamaulipas-59020"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2022-12-20"
+last_updated: "2026-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2026.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -603,129 +603,205 @@ Las obligaciones de los municipios a que se refiere el segundo párrafo de este 
 
 Los Municipios efectuarán los pagos de las obligaciones contraídas en los términos de este artículo, con cargo a las aportaciones que les correspondan del Fondo de Aportaciones para la Infraestructura Social Municipal, a través de mecanismos de garantía o de fuente de pago, sin perjuicio de los instrumentos y sistemas de registro establecidos en la Ley de Deuda Pública Estatal y Municipal de Tamaulipas.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE FEBRERO DE 2026)</small>
 
-### CAPÍTULO SÉPTIMO. DE LA COMISIÓN DE FUNCIONARIOS DE LA HACIENDA PÚBLICA DE TAMAULIPAS
+### CAPÍTULO SÉPTIMO. DEL CONSEJO DE FUNCIONARIOS DE LA HACIENDA PÚBLICA DE TAMAULIPAS
 
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2026)</small>
 
 ###### ARTÍCULO 38.
 
-El Gobierno del Estado contará con una Comisión de Funcionarios de la Hacienda Pública de Tamaulipas, en lo sucesivo la Comisión, la cual tendrá los siguientes objetivos:
+El Gobierno del Estado contará con un Consejo de Funcionarios de la Hacienda Pública de Tamaulipas, en lo sucesivo el Consejo, el cual tendrá los siguientes objetivos:
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2011)</small>
 
 I.- Coordinar las tareas comunes en materia de finanzas públicas que los municipios y el Estado realizan;
 
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2011)</small>
+
 II.- Integrar un foro de carácter institucional de las expresiones y dudas de los municipios en materia fiscal y de finanzas públicas;
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2011)</small>
 
 III.- Proponer acciones que permitan incrementar los ingresos propios del Estado y sus municipios;
 
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2011)</small>
+
 IV.- Intercambiar medidas y recomendaciones para ajustarse a los cambios económicos, ocasionados por repercusiones fiscales y financieras, que impacten en las Haciendas Públicas del Estado y los municipios;
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2011)</small>
 
 V.- Garantizar la transparencia, la eficiencia y la correcta aplicación de los recursos públicos; y
 
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2011)</small>
+
 VI.- Establecer entendimientos y acuerdos que permitan soluciones para superar dificultades comunes a los municipios y Estado, en el ejercicio de sus funciones de recaudación.
 
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE FEBRERO DE 2026)</small>
 
 ###### ARTÍCULO 39.
 
-Para el cumplimiento de sus objetivos la Comisión, tendrá las siguientes atribuciones:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Para el cumplimiento de sus objetivos el Consejo, tendrá las siguientes atribuciones:
 
 > <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 I.- Vigilar el cálculo y la adecuada distribución de las participaciones que corresponden a los municipios, con la finalidad de dar transparencia y certeza a los procedimientos establecidos en la presente ley;
 
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2011)</small>
+
 II.- Promover la actividad recaudatoria de los municipios; mediante la coordinación interinstitucional de los órdenes de gobierno;
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2011)</small>
 
 III.- Homologar los conceptos y bases sobre las cuales deben de elaborarse anualmente las leyes de Ingresos de los municipios, los presupuestos de Egresos, la rendición de las cuentas públicas y la actualización de tarifas en las contribuciones municipales, entre otras actividades;
 
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2011)</small>
+
 IV.- Establecer vínculos entre los municipios para fomentar el intercambio, desarrollo e innovación de sistemas de recaudación municipales;
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2011)</small>
 
 V.- Capacitar a los funcionarios de las tesorerías municipales en aspectos relacionados con el desempeño de sus funciones;
 
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2011)</small>
+
 VI.- Asesorar a los municipios de la entidad para prevenir las tendencias al incumplimiento de las obligaciones fiscales;
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2011)</small>
 
 VII.- Proponer soluciones y mecanismos para instrumentar acciones de modernización y optimización de las áreas de ingresos y catastro, así como la actualización y mejora del orden jurídico y la normatividad hacendaria municipal;
 
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2011)</small>
+
 VIII.- Mejorar aspectos de contabilidad gubernamental y la gestión del ejercicio y control del gasto público municipal, así como fomentar la transparencia y rendición de cuentas;
 
-IX.- Impulsar la mejora en prácticas administrativas para simplificar los trámites y servicios que prestan las ventanillas de las tesorerías municipales;
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2011)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+IX.- Impulsar la mejora en prácticas administrativas para simplificar los trámites y servicios que prestan las ventanillas de las tesorerías municipales;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
 
 X.- Difundir las leyes fiscales entre los contribuyentes, para su oportuno cumplimiento y reducir los índices de elusión y evasión fiscal;
 
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2011)</small>
+
 XI.- Promover el intercambio entre los órdenes de gobierno, de información y bases de datos para la actualización de padrones y registros, entre otros;
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2011)</small>
 
 XII.- Requerir mayor competencia a los municipios en las atribuciones para la aplicación de la Ley Reglamentaria para el Establecimiento de Bebidas Alcohólicas del Estado;
 
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2011)</small>
+
 XIII.- Formalizar convenios para la operación y ejecución del Anexo 3 al Convenio de Colaboración Administrativa en Materia Fiscal Federal, con cada uno de los Ayuntamientos del Estado;
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2011)</small>
 
 XIV.- Constituir los Comités Técnicos con los municipios costeros de la entidad que cuentan con el Anexo 1 al Convenio de Colaboración Administrativa en Materia Fiscal Federal para la administración de la Zona Federal Marítimo Terrestre para la recaudación, administración, vigilancia y ejecución de dichos recursos;
 
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2011)</small>
+
 XV.- Dar seguimiento a los Fondos de Coordinación Fiscal de aquellos municipios de la entidad que tengan convenios con la Federación, para la operación y administración de puentes de peaje; y
+
+> <small>(ADICIONADA, P.O. 15 DE JUNIO DE 2011)</small>
 
 XVI.- Convenir con los municipios de la entidad, medidas para realizar acciones tendientes a la verificación del cumplimiento del pago de derechos de control vehicular y del impuesto sobre tenencia del padrón vehicular de su jurisdicción.
 
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2026)</small>
 
 ###### ARTÍCULO 40.
 
-La Comisión estará integrada por:
+El Consejo estará integrado por:
 
-I.- El Gobernador del Estado, quien la presidirá;
+I.- La Reunión Estatal de Funcionarios Hacendarios; y
 
-II.- El Presidente de la Comisión de Finanzas, Planeación, Presupuesto y Deuda Pública del H. Congreso del Estado;
+II.- La Junta Estatal Permanente de Funcionarios Fiscales.
 
-III.- Los 43 Presidentes Municipales de la Entidad;
-
-IV.- El Auditor Superior del Estado; y
-
-V.- El Secretario de Finanzas del Estado, quien fungirá como Secretario Técnico.
-
-Los cargos de los miembros de la Comisión serán honoríficos, por lo que las personas que los desempeñen no devengarán retribución alguna.
-
-Cuando los titulares de la Comisión no puedan concurrir a sus sesiones, serán representados por sus respectivos suplentes, conforme a los siguientes:
-
-I.- En el caso del Gobernador del Estado, la persona que éste designe, no podrá tener un nivel jerárquico inferior a Subsecretario;
-
-II.- Por el Presidente de la Comisión de Finanzas, Planeación, Presupuesto y Deuda Pública del H. Congreso del Estado, el Secretario de la misma;
-
-III.- Los Presidentes Municipales, por los Tesoreros Municipales;
-
-IV.- El Auditor Superior del Estado, por el Auditor Especial para Municipios y Poderes del Estado; y
-
-V.- El Secretario de Finanzas, por el titular de la Subsecretaría de Egresos de la Secretaría de Finanzas.
-
-Cuando así lo considere el Presidente, a las sesiones de la Comisión podrán ser invitados representantes de instituciones de los sectores social y privado, quienes participarán con su voz.
-
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2026)</small>
 
 ###### ARTÍCULO 41.
 
-La Comisión sesionará trimestralmente de forma ordinaria y, en forma extraordinaria, cuando así lo convoque su Presidente para tratar algún asunto que lo requiera, enviándose convocatoria a los participantes por lo menos con tres días de anticipación. En ésta se establecerá el lugar y hora de la sesión, el orden del día y se acompañará con una copia del acta de la sesión anterior.
+La Reunión Estatal de Funcionarios Hacendarios se integrará por:
 
-En cada sesión de la Comisión podrá haber, por lo menos, un ponente, a fin de que trate un tema relacionado con el desarrollo y perfeccionamiento de las Haciendas Estatal y Municipales o con un tema económico, financiero o jurídico de interés para las finanzas públicas de Tamaulipas.
+I.- El Gobernador o Gobernadora del Estado, quien la presidirá;
 
-Al término de la sesión, el Secretario Técnico levantará el Acta correspondiente, misma que deberá ser firmada por todos los presentes.
+II.- El Presidente o Presidenta de la Comisión de Finanzas, Planeación, Presupuesto y Deuda Pública del H. Congreso del Estado;
 
-> <small>(ADICIONADO, P.O. 15 DE JUNIO DE 2011)</small>
+III.- Los 43 Presidentes y Presidentas Municipales de la entidad;
+
+IV.- La o el Auditor Superior del Estado; y
+
+V.- El Secretario o Secretaria de Finanzas del Estado, quien fungirá como Secretaria o Secretario Técnico.
+
+Los cargos de los miembros de la Reunión Estatal de Funcionarios Hacendarios serán honoríficos, por lo que las personas que los desempeñen no devengarán retribución alguna.
+
+Cuando los titulares de la Reunión Estatal de Funcionarios Hacendarios no puedan concurrir a sus sesiones, serán representados por sus respectivos suplentes, conforme a lo siguiente:
+
+I.- En el caso del Gobernador o Gobernadora del Estado, la persona que éste designe, no podrá tener un nivel jerárquico inferior a una Subsecretaría;
+
+II.- Por el Presidente o Presidenta de la Comisión de Finanzas, Planeación, Presupuesto y Deuda Pública del H. Congreso del Estado, el Secretario o Secretaria de la misma;
+
+III.- Los Presidentes y Presidentas Municipales, por los Tesoreros o Tesoreras Municipales;
+
+IV.- La o el Auditor Superior del Estado, por la o el Auditor Especial para Municipios y Poderes del Estado; y
+
+V.- El Secretario o Secretaria de Finanzas, por el titular de la Subsecretaría de Egresos de la Secretaría de Finanzas.
+
+Cuando así lo considere la Presidencia, a las sesiones de la Reunión podrán ser invitados representantes de instituciones de los sectores social y privado, quienes participarán con su voz.
+
+La Reunión Estatal de Funcionarios Hacendarios sesionará semestralmente de forma ordinaria y, en forma extraordinaria, cuando así lo convoque su Presidencia para tratar algún asunto que lo requiera, enviándose convocatoria a los participantes por lo menos con tres días de anticipación. En ésta se establecerá el lugar y hora de la sesión, el orden del día y se acompañará con una copia del acta de la sesión anterior.
+
+En cada sesión de la Reunión Estatal de Funcionarios Hacendarios podrá haber, por lo menos, un ponente, a fin de que trate un tema relacionado con el desarrollo y perfeccionamiento de las Haciendas Estatal y Municipales o con un tema económico, financiero o jurídico de interés para las finanzas públicas de Tamaulipas.
+
+Las y los integrantes de la Reunión Estatal de Funcionarios Hacendarios participarán con voz y voto en los acuerdos que deliberen, con excepción del representante del H. Congreso del Estado y de la Auditoría Superior del Estado, quienes participarán únicamente con voz, pero sin voto.
+
+Al término de la sesión, la Secretaría Técnica levantará el Acta correspondiente, misma que deberá ser firmada por todos los presentes.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2026)</small>
 
 ###### ARTÍCULO 42.
 
-La Comisión podrá contar con grupos de trabajo permanentes; así como integrar temporalmente grupos auxiliares de trabajo para la investigación de casos concretos, para lo cual podrá invitar a diversas organizaciones, dependencias o instituciones a realizar dichos trabajos.
+La Junta Estatal Permanente de Funcionarios Fiscales se integrará por:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+I.- El Secretario o la Secretaria de Finanzas del Estado, quien la presidirá;
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
+II.- El o la titular de la Subsecretaría de Ingresos, quien fungirá como Secretaria o Secretario Técnico;
 
-###### ARTICULO 43.
+III.- Los 43 Tesoreros y/o Tesoreras Municipales;
 
-El financiamiento, integración, operación y funcionamiento de la Comisión, así como de los grupos de trabajo que la integren, se establecerán en el Reglamento de la Comisión.
+IV.- El Presidente o Presidenta de la Comisión de Finanzas, Planeación, Presupuesto y Deuda Pública del H. Congreso del Estado; y
+
+V.- El o la Auditor Especial para Municipios y Poderes del Estado, con voz pero sin voto.
+
+Cuando los titulares de la Junta Estatal Permanente de Funcionarios Fiscales no puedan concurrir a sus sesiones, serán representados por sus respectivos suplentes, conforme a los siguientes:
+
+I.- En el caso del Secretario o Secretaria de Finanzas del Estado, la persona que éste designe, quien no podrá tener un nivel jerárquico inferior a Titular de una Subsecretaría;
+
+II.- En el caso del Titular de la Subsecretaría de Ingresos, la persona que éste designe, quien no podrá tener un nivel jerárquico inferior a Director o equivalente;
+
+III.- Por los Tesoreros y/o Tesoreras Municipales, la persona que éste designe, quien no podrá tener un nivel jerárquico inferior a Director o equivalente;
+
+IV.- Por el Presidente o Presidenta de la Comisión de Finanzas, Planeación, Presupuesto y Deuda Pública del H. Congreso del Estado, el Secretario o Secretaria de la misma;
+
+V.- Por la o el Auditor Especial para Municipios y Poderes del Estado, la persona que éste designe, quien no podrá tener un nivel jerárquico inferior a Director o equivalente;
+
+Cuando así lo considere la Presidencia, a las sesiones de la Junta Estatal Permanente de Funcionarios Fiscales podrán ser invitados representantes de instituciones de los sectores social y privado, quienes participarán con su voz.
+
+La Junta Estatal Permanente de Funcionarios Fiscales tendrá carácter técnico y estará encargada de dar seguimiento a los acuerdos de la Reunión Estatal, así como de proponer estrategias, metodologías y lineamientos operativos.
+
+La Junta Estatal Permanente de Funcionarios Fiscales sesionará trimestralmente de forma ordinaria y, en forma extraordinaria, cuando así lo convoque su Presidencia para tratar algún asunto que lo requiera, enviándose convocatoria a los participantes por lo menos con tres días de anticipación. En ésta se establecerá el lugar y hora de la sesión, el orden del día y se acompañará con una copia del acta de la sesión anterior.
+
+Es un órgano auxiliar técnico de la Reunión Estatal, en las (sic) cual sus integrantes participarán con voz en el Consejo.
+
+En cada sesión de la Junta Estatal Permanente de Funcionarios Fiscales podrá haber, por lo menos, un ponente, a fin de que trate un tema relacionado con el desarrollo y perfeccionamiento de las Haciendas Estatal y Municipales o con un tema económico, financiero o jurídico de interés para las finanzas públicas de Tamaulipas.
+
+Al término de la sesión, la Secretaría Técnica levantará el Acta correspondiente, misma que deberá ser firmada por todos los presentes.
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2026)</small>
+
+###### ARTÍCULO 43.
+
+El financiamiento, integración, operación y funcionamiento del Consejo, así como de los grupos de trabajo que la integren, se establecerán en el Reglamento del Consejo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
@@ -1078,3 +1154,15 @@ El presente Decreto se publicará en el Periódico Oficial del Estado, y entrar�
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-972 MEDIANTE (SIC) SE REFORMAN LA DENOMINACIÓN DEL CAPÍTULO SÉPTIMO Y LOS ARTÍCULOS 38, PÁRRAFO ÚNICO; 39, PÁRRAFO ÚNICO; 40; 41; 42; Y 43 DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los integrantes municipales de la Junta Estatal Permanente serán designados en un plazo no mayor a noventa días naturales a partir de la entrada en vigor de este Decreto.
