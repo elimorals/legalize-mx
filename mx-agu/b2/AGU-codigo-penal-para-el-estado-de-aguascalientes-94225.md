@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2026-01-12"
+last_updated: "2026-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2026.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -506,6 +506,16 @@ Si se trata de un hecho punible culposo cometido en contra de un ascendiente o d
 ARTÍCULO 38 BIS.- Reincidencia. Hay reincidencia siempre que el condenado por sentencia ejecutoria, dictada por cualquier tribunal de la República Mexicana o del extranjero, cometa otro delito en la entidad, si no ha transcurrido, desde el cumplimiento de la condena, un término igual al de la prescripción de la pena.
 
 Al reincidente se le aplicará la sanción que corresponda por el último delito cometido, la que podrá aumentarse hasta en dos terceras partes de la pena mínima establecida en el tipo penal correspondiente.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2026)</small>
+
+ARTÍCULO 38 TER.- Agravantes. Existen agravantes cuando durante la realización de la conducta típica concurren circunstancias que aumentan la responsabilidad penal de un delito.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2026)</small>
+
+ARTÍCULO 38 QUATER.- Cuando la realización de un hecho punible contemplado en este Código Penal, se haga mediante o utilizando como herramienta, el uso de los sistemas de inteligencia artificial, se le aumentarán las penas previstas en el delito que fuese realizado hasta en una mitad más respecto a sus mínimos y máximos, únicamente en aquellos casos en los que no exista disposición expresa, que sancione el uso de la inteligencia artificial en la comisión del delito que corresponda.
+
+Para efectos del párrafo anterior, se entenderá por sistemas de inteligencia artificial aquellos basados en máquinas que están diseñados para funcionar con distintos niveles de autonomía y que pueden mostrar capacidad de adaptación tras el despliegue, y que, para objetivos explícitos o implícitos, infiere de la información de entrada que recibe, la manera de generar resultados de salida, como predicciones, contenidos, recomendaciones o decisiones, que pueden influir en entornos físicos o virtuales. Esto considera softwares como asistentes virtuales, de análisis de imágenes, motores de búsqueda o sistemas de reconocimiento de voz y rostro; o inteligencia artificial integrada como robots, drones, vehículos autónomos o el internet de las cosas.
 
 ## TÍTULO CUARTO. CONSECUENCIAS JURIDICAS DEL DELITO
 
@@ -2239,33 +2249,95 @@ II. Obtener del deudor o sus garantes, al celebrar un acto jurídico accesorio d
 
 Al responsable del delito de usura se le aplicarán de 2 a 8 años de prisión y de 25 a 250 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
+(NOTA: EL 31 DE AGOSTO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 42/2026 Y SU ACUMULADA 45/2026, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 25 DE FEBRERO DE 2026 FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 405, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2026)</small>
+
 ###### ARTÍCULO 149.
 
-Extorsión. La Extorsión consiste en la obtención de un lucro para sí o para otro, causando un perjuicio patrimonial a la víctima, al obligarlo, sin derecho, mediante uso de la fuerza física o moral, a hacer, tolerar o dejar de hacer algo.
+Extorsión. Comete el delito de Extorsión quien, sin derecho, obligue a otro a dar, hacer, dejar de hacer o tolerar algo, obteniendo un beneficio o lucro para sí o para otro o causando a alguien un daño o perjuicio patrimonial, moral, físico o psicológico, y se le impondrán de quince a veinticinco años de prisión y una multa de trescientas a quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
-Al responsable de Extorsión se le aplicarán, además de la pena de decomiso, de:
+I.- Las penas previstas se aumentarán de cuatro a ocho años de prisión, cuando en la comisión del delito de extorsión, se presente alguna de las circunstancias siguientes:
 
-I. 4 a 10 años de prisión y de 50 a 350 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados;
+a) El sujeto activo manifieste su pretensión de obtener un beneficio en especie, dinero o bienes, por concepto del cobro de cuotas o prestaciones de cualquier índole, adicionales a los conseguidos originalmente por el ilícito;
 
-II. 7 a 13 años de prisión y de 75 a 400 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, si se comete:
+b) Se cometa en contra de quien realice actividades comerciales, empresariales, industriales, agrícolas, ganaderas, pesqueras, de servicios públicos o privados;
 
-a) En contra de adulto mayor de sesenta años de edad;
+c) El sujeto activo por sí o en representación de un sindicato, agrupación o asociación, sea real o simulada, coaccione a la víctima para que contrate, obtenga o adquiera de otra persona, ya sea física o moral, bienes, insumos o servicios para el desarrollo de su actividad comercial. Esta agravante se consuma con independencia de que se concrete el acto de comercio coaccionado;
 
-b) Utilizando como medio comisivo la vía telefónica, el correo electrónico o cualquier otro medio de comunicación electrónica; o
+d) Se le imponga a la víctima el precio de los productos, bienes o servicios que comercializa;
 
-c) Desde un Centro de Reeducación Social independientemente de la pena por la que se encuentre recluido.
+e) Se obligue por cualquier medio a la víctima a celebrar un acto jurídico, independientemente de su objeto;
 
-III. 10 a 16 años de prisión y de 125 a 500 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados, si se realiza por:
+f) Se exija que el beneficio económico o lucro indebido, sea depositado o transferido mediante el uso del sistema bancario o financiero mexicano o de cualquier otro país, sin importar la denominación de moneda, divisa o activos virtuales, que se utilice;
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2024)</small>
+g) Cuando para lograr los fines de la extorsión se empleé a un tercero sin que tenga conocimiento del hecho delictivo;
 
-a) Una asociación delictuosa u ostentarse como miembro de ésta; para los efectos de este inciso, se entenderá como asociación delictuosa lo previsto en el artículo 178 D, de este Código;
+h) Cuando se utilice a dependencias o entidades de la Administración Pública Federal, estatal o municipal, sindicatos, asociaciones, cámaras empresariales, organizaciones civiles, ganaderas, del ramo de la construcción y demás instituciones u organismos, indebidamente, para coaccionar, amedrentar o presionar para realizar prácticas que no permita el libre consumo de los bienes o servicios necesarios para su desarrollo;
 
-b) Servidor público o ex servidor público; o
+i) La conducta sea cometida en contra de alguna persona candidata a un cargo de elección popular o cuando sea electa; o
 
-c) Miembro o ex miembro de algún cuerpo policial o de seguridad privada, aunque la empresa de seguridad privada no se hubiere registrado.
+j) Cuando se requiera la entrega de una cantidad de dinero o un beneficio en especie para sí o para un tercero, por encontrarse alguien en un supuesto riesgo, peligro inminente o procedimiento legal.
 
-En su caso, si procede se hará la destitución del empleo, cargo o comisión y la inhabilitación de uno a cinco años para desempeñar cualquier cargo como servidor público.
+II. Las penas se aumentarán de cinco a doce años de prisión, cuando en la comisión del delito de extorsión se presente alguna de las circunstancias siguientes:
+
+a) Se cometa en contra de una o varias personas migrantes, cualquiera que sea su condición migratoria;
+
+b) Se cometa en contra de persona menor de 18 años, en estado de embarazo o mayor de sesenta años de edad;
+
+c) El sujeto activo tenga alguna relación de confianza, laboral, de parentesco o de negocios con el sujeto pasivo o con quien éste último esté ligado;
+
+d) El sujeto activo utilice información privada de la víctima o de sus familiares, como datos personales, imágenes, audios, textos o videos, ya sean reales, manipulados o alterados, para coaccionarla;
+
+e) Se utilicen dispositivos, medios, servicios o plataformas a través de los cuales se pueda realizar la emisión, transmisión o recepción de signos, señales, escritos, imágenes, voz, datos, sonidos o información de cualquier naturaleza que se efectué a través de hilos, radioelectricidad, medios ópticos, físicos, sistemas electromagnéticos o cualquier otro medio electrónico;
+
+f) Cuando se utilice a un tercero para recibir alguna cantidad de dinero o un beneficio en especie derivado de la extorsión;
+
+g) Por cualquier medio señale tener privada de la libertad a una persona, sin estarlo, y exija el pago de una determinada cantidad de dinero o beneficio en especie para su supuesta liberación; o
+
+h) Cuando para lograr los fines de la extorsión, se empleen acciones fraudulentas, actos ilícitos o actos cuya finalidad sea ilícita.
+
+III. Las penas se aumentarán de siete a diecisiete años de prisión, cuando en la comisión del delito de extorsión se presente alguna de las circunstancias siguientes
+
+a) Se emplee violencia física;
+
+b) Se emplee violencia física o moral para exigir el cobro de un daño, derivado de un hecho de tránsito provocado de manera intencional, independientemente de que se haya o no obtenido el lucro o beneficio derivado de esta acción;
+
+c) El sujeto activo utilice violencia física, moral o psicológica para exigir el cobro de un daño ocurrido en algún objeto de su propiedad, derivado de un supuesto accidente cualquiera que este sea, pero provocado de manera intencional, independientemente de que se haya o no obtenido el lucro o beneficio derivado de esta acción;
+
+d) Se realice mediante el uso de una o más armas o instrumentos peligrosos u otro objeto de apariencia, forma o configuración de armas de fuego;
+
+e) El agente se ostente por cualquier medio como miembro de algún grupo vinculado a la delincuencia o delincuencia organizada, asociación delictuosa o pandilla, con independencia de que esto sea real o simulado;
+
+f) Se empleé cualquier medio para tratar de impedir que la víctima denuncie la conducta extorsiva;
+
+g) Cuando tenga por objeto o resultado obstaculizar, restringir, impedir, anular o menoscabar el ejercicio del derecho a la libertad de expresión o la defensa de los derechos humanos;
+
+h) El sujeto activo sea o simule ser empleado de una institución o entidad financiera, de gobierno, o de alguna empresa estatal o privada, con el ánimo de utilizar u obtener los datos personales o financieros de la víctima;
+
+i) Se cometa por persona servidora o exservidora pública de cualquier nivel de gobierno o un elemento que sea miembro o ex miembro de una empresa de seguridad privada;
+
+j) El sujeto activo se encuentre privado de su libertad en un centro penitenciario a disposición de cualquier autoridad, independientemente de su situación procesal;
+
+k) Se afecte de manera directa la economía de alguna comunidad;
+
+l) Cuando el beneficio obtenido o que se pretenda obtener del delito de extorsión, provenga del erario;
+
+m) Cuando se utilicen o empleen personas menores de edad;
+
+n) Se cometa en contra de cualquier persona servidora pública en razón de su empleo, cargo o comisión público;
+
+o) Cuando intervengan dos o más personas;
+
+p) El sujeto activo porte vestimentas o instrumentos de identificación, de los utilizados por integrantes de Instituciones de Seguridad Pública; o
+
+q) Se realice ocasionando daños en las instalaciones de comercios, negocios o bienes en propiedad o posesión de la víctima.
+
+A la persona servidora pública que participe en la comisión del delito de extorsión, además de las penas a que refiere el presente artículo, se le impondrá la destitución del empleo, cargo o comisión públicos, e inhabilitación para desempeñar algún empleo, cargo o comisión públicos hasta por un plazo igual al de la pena de prisión impuesta, la cual comenzará a computarse a partir de que se haya cumplido la pena privativa de libertad.
+
+Las penas previstas en el presente artículo se impondrán, independientemente de las que correspondan por la comisión de otros delitos.
+
+El delito de extorsión se investigará y perseguirá de oficio.
 
 ###### ARTÍCULO 150.
 
@@ -3086,6 +3158,18 @@ El presente delito se perseguirá por noticia criminal, sin necesidad de querell
 ARTÍCULO 178 F.- Colocación de mensajes intimidatorios. Comete el delito de colocación de mensajes intimidatorios quien, por sí o por interpósita persona, elabore, coloque o exhiba en espacios públicos o privados visibles al público, mensajes en cualquier medio físico, tales como, mantas, cartulinas, pancartas, lonas, en el que se amenace, intimide, justifique, atribuya o promueva hechos con apariencia de delito, que pretendan generar intimidación, alterar la paz pública o influir en decisiones de autoridades o particulares.
 
 A quien cometa el delito de colocación de mensajes intimidatorios se le impondrá una pena de 1 a 4 años de prisión y de 500 a 1,500 días multa, así como al pago total de la reparación de los daños y perjuicios ocasionados.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2026)</small>
+
+ARTÍCULO 178 G.- Reclutamiento forzado. Comete el delito de Reclutamiento forzado quien, por medio de la violencia física, moral, intimidación, engaño o amenaza grave, reclute, utilice u obligue a una persona, ya sea de forma presencial o a través de cualquier medio de comunicación, tecnológico, plataforma digital o videojuego, a participar de manera directa o indirecta, en la comisión de conductas delictivas.
+
+El delito se considerará cometido en el lugar donde se realice total o parcialmente la conducta, donde se produzca el resultado, o donde éste deba producirse, tratándose de conductas realizadas a través de cualquier medio de comunicación, tecnológico, plataforma digital o videojuego, el delito se considerará cometido en el lugar donde se reciban, almacenen, procesen o generen efectos los datos.
+
+Al responsable de Reclutamiento forzado se aplicarán de 3 a 6 años de prisión y de 25 a 100 días multa, así como el pago total de la reparación de daños y perjuicios ocasionados, independientemente de la sanción que corresponda a los delitos que lleguen a cometerse.
+
+Las penas previstas en el presente artículo se aumentarán hasta en una mitad de sus mínimos y máximos cuando el delito se cometa en contra de niñas, niños o adolescentes, o de personas que no tengan la capacidad para comprender el significado del hecho o que, por cualquier causa, no puedan resistir la conducta.
+
+El presente delito se investigará y perseguirá de oficio.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE AGOSTO DE 2017)</small>
 
@@ -4788,3 +4872,47 @@ P.O. 12 DE ENERO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 24 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 405.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos penales en materia de extorsión, iniciados antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia del mismo.
+
+###### ARTÍCULO TERCERO.
+
+El delito de extorsión previsto en el Código Penal para el Estado de Aguascalientes vigente a la entrada en vigor del presente Decreto, seguirá aplicándose por los hechos realizados durante su vigencia. Asimismo, dicho precepto seguirá aplicándose a las personas procesadas o sentenciadas por el delito de extorsión, sus modalidades, agravantes y sanciones.
+
+Los procedimientos penales en materia de extorsión, iniciados antes de la entrada en vigor del presente Decreto, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia del mismo.
+
+###### ARTÍCULO CUARTO.
+
+La Fiscalía General del Estado de Aguascalientes deberá crear una unidad especializada de atención a los delitos de extorsión, y contar con ministerios públicos, policías y analistas capacitados, evaluados, certificados y especializados en materia de extorsión, de conformidad con los criterios que establezca el Sistema Nacional de Seguridad Pública.
+
+La Secretaría de Seguridad Pública del Estado de Aguascalientes deberá contar con una unidad especializada en materia de extorsión y con el personal capacitado y especializados en materia de extorsión, en un término no mayor a 90 días posteriores a la entrada en vigencia del presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Quedan sin efectos todas aquellas disposiciones que se oponga al presente Decreto.
+
+P.O. 24 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 406.- SE ADICIONA UN ARTÍCULO AL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 24 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 407.- SE ADICIONAN ARTÍCULOS AL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
