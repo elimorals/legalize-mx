@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-281-de-mejora-regulatoria-para-el-estado-de-138167"
 country: "mx"
 rank: "ley"
 publication_date: "2019-08-12"
-last_updated: "2019-09-03"
+last_updated: "2026-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 281 DE MEJORA REGULATORIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO DEL DECRETO NO. 500, PUBLICADO EN LA GACETA OFICIAL DE 25 DE FEBRERO DE 2026, LA PRESENTE LEY HA SIDO ABROGADA.]</small>
+
 LEY DE MEJORA REGULATORIA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DE 3 DE SEPTIEMBRE DE 2019.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE FEBRERO DE 2026 (ABROGADO).
 
 Ley publicada en el Número Extraordinario 320 de la Gaceta Oficial del Estado de Veracruz, el lunes 12 de agosto de 2019.
 
@@ -1098,3 +1098,15 @@ Cuitláhuac García Jiménez
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 25 DE FEBRERO DE 2026.
+
+[TRANSITORIOS DEL "DECRETO NÚMERO 500 POR EL QUE SE ADICIONA LA FRACCIÓN XXXVI DEL ARTÍCULO 24 DE LA LEY ÓRGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE Y SE ABROGA LA LEY NÚMERO 281 DE MEJORA REGULATORIA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. En un plazo no mayor a 180 días naturales contado a partir de la entrada en vigor del presente Decreto, la persona Titular del Ejecutivo del Estado deberá expedir las adecuaciones correspondientes a la normativa que resulte necesaria en la aplicación del presente Decreto.
+
+Tercero. Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
