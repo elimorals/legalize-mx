@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-de-la-fiscalia-general-del-estado-de-tabasco-10506
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-13"
-last_updated: "2025-12-10"
+last_updated: "2026-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105066&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2026.
 
 Ley publicada en el Suplemento E del Periódico Oficial del Estado de Tabasco, el sábado 13 de diciembre de 2014.
 
@@ -103,7 +103,9 @@ Los principios por los cuales se rige la actuación de la Fiscalía General son 
 
 Reglas de Competencia
 
-El Ministerio Público del Estado de Tabasco perseguirá ante los tribunales los delitos del orden común y los que sean de la jurisdicción de las autoridades del Estado de Tabasco conforme a las reglas de competencia establecidas en el Código Nacional y las leyes aplicables. En el mismo contexto, se conducirá respecto de los tipos, formas y reglas de incompetencia.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2026)</small>
+
+El Ministerio Público del Estado de Tabasco perseguirá ante los tribunales los delitos del orden común y los que sean de la jurisdicción de las autoridades del Estado de Tabasco, conforme a las reglas de competencia establecidas en el Código Nacional, las leyes generales y demás disposiciones aplicables. En el mismo contexto, se conducirá respecto de los tipos, formas y reglas de incompetencia.
 
 Asimismo, en su calidad de representante de la sociedad, intervendrá en todos los asuntos que esta Ley u otros ordenamientos establezcan en el ámbito de sus atribuciones.
 
@@ -317,9 +319,9 @@ III. Las Fiscalías Especializadas contarán con la estructura administrativa qu
 
 IV. El Fiscal General expedirá las normas necesarias para la coordinación y la articulación entre las Fiscalías Especializadas, a efecto de optimizar los recursos disponibles, a la vez que garantizar la eficacia en su actuación. En el Presupuesto de Egresos que se someta al Congreso se identificará el monto aprobado a cada Fiscalía Especializada, para el respectivo ejercicio fiscal.
 
-> <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADO, P.O. 25 DE FEBRERO DE 2026)</small>
 
-Conforme al artículo 54 Ter, párrafo quinto, de la Constitución del Estado, los fiscales especializados en materia de delitos electorales y en materia de hechos de corrupción, serán nombrados y removidos libremente por el Fiscal General; no obstante, dichos nombramientos o remociones, en su caso, podrán ser objetados por el voto de dos terceras partes de los miembros presentes del Congreso, en un plazo no mayor a veinte días naturales.
+Conforme al artículo 54 Ter, párrafo quinto, de la Constitución del Estado, los fiscales especializados en materia de delitos electorales, en materia de hechos de corrupción y en materia de extorsión, serán nombrados y removidos libremente por el Fiscal General; no obstante, dichos nombramientos o remociones, en su caso, podrán ser objetados por el voto de dos terceras partes de los miembros presentes del Congreso, en un plazo no mayor a veinte días naturales.
 
 > <small>(ADICIONADO, P.O. 23 DE AGOSTO DE 2017)</small>
 
@@ -488,6 +490,40 @@ XI. Diseñar e implementar estrategias y líneas de acción para combatir los he
 XII. Implementar planes y programas destinados a detectar la comisión de los hechos que la ley considera como delitos de violencias de género y coadyuvar en el ámbito de su competencia, con la Fiscalía contra la Trata de Personas; y
 
 XIII. Las demás que disponga el Fiscal General, la presente Ley, el Reglamento y otros ordenamientos relativos a la materia.
+
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2026)</small>
+
+###### ARTÍCULO 13-H.
+
+De la Fiscalía Especializada en Materia del Delito de Extorsión.
+
+De conformidad con lo establecido en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política del Estado Libre y Soberano de Tabasco, en la Ley para Prevenir, Investigar y Sancionar el Delito de Extorsión en el Estado de Tabasco y demás disposiciones aplicables, la Fiscalía General del Estado contará con la Fiscalía Especializada en Materia del Delito de Extorsión, dotada de autonomía técnica y operativa.
+
+El personal que integre la Fiscalía Especializada a que se refiere este artículo deberá haber sido capacitado y evaluado, así como contar con los certificados y la especialización requerida en materia de extorsión, de conformidad con los criterios que establezca el Sistema Nacional de Seguridad Pública.
+
+> <small>(ADICIONADO, P.O. 25 DE FEBRERO DE 2026)</small>
+
+###### ARTÍCULO 13-I.
+
+De las atribuciones de la Fiscalía Especializada en Materia del Delito de Extorsión.
+
+La Fiscalía Especializada en Materia del Delito de extorsión tendrá, en el ámbito de su competencia, las obligaciones y facultades siguientes:
+
+I. Iniciar y desarrollar la investigación y persecución de hechos delictivos relacionados con los delitos previstos en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos;
+
+II. Solicitar a las autoridades competentes su colaboración y apoyo para la investigación y persecución de los delitos materia de su competencia;
+
+III. Decretar las medidas de protección en favor de la vida o la integridad de las Víctimas, de conformidad con la citada Ley General y demás disposiciones aplicables;
+
+IV. Solicitar las medidas cautelares aplicables al imputado por los delitos previstos en la Ley General de la materia;
+
+V. Establecer mecanismos de cooperación con otras autoridades competentes para el intercambio de plataformas de información y de la capacitación continua para dichos efectos;
+
+VI. Colaborar con otras autoridades competentes a efecto de sistematizar la información obtenida durante la investigación y promover su intercambio con otras Fiscalías Especializadas, con el fin de fortalecer el seguimiento y control de las conductas delictivas previstas en la Ley General mencionada;
+
+VII. Proponer políticas para la prevención de las conductas previstas en la Ley General de la materia; y
+
+VIII. Las demás que dispongan la Ley General de la materia, la Ley para Prevenir, Investigar y Sancionar el Delito de Extorsión en el Estado de Tabasco, esta Ley y las demás disposiciones aplicables.
 
 ###### ARTÍCULO 14.
 
@@ -1072,3 +1108,23 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Estado de 
 SEGUNDO. El presente Decreto entrará en vigor el 1 de enero de 2026, debiendo el Titular de la Fiscalía General del Estado, realizar previamente las adecuaciones reglamentarias, administrativas y presupuestales, para la puesta en marcha de la Fiscalía Especializada de Violencias de Género Contra las Mujeres.
 
 TERCERO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 25 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 234 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 4, PRIMER PÁRRAFO, 13, SEGUNDO PÁRRAFO; Y SE ADICIONAN LOS ARTÍCULOS 13 H Y 13 I, TODOS DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Los procesos jurisdiccionales relacionados con los delitos de extorsión, serán desahogados de conformidad con lo establecido en los Artículos Cuarto y Quinto Transitorios del Decreto por el que se expide la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, por lo que en ningún momento la expedición del presente Decreto implica la despenalización o derogación de los mismos.
+
+TERCERO. La Secretaría de Seguridad y Protección Ciudadana de Tabasco, deberá establecer la Estrategia para Prevenir y Combatir el Delito de Extorsión en un plazo no mayor a 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. La Fiscalía General del Estado de Tabasco, deberá crear y poner en operación la Fiscalía Especializada en Materia del Delito de Extorsión en un período no mayor a noventa días hábiles contados a partir de la entrada en vigor del presente Decreto. Hasta en tanto no se integre y entre en operaciones la Fiscalía Especializada señalada, la Fiscalía para el Combate al Secuestro y Extorsión seguirá operando en términos de las disposiciones jurídicas aplicables, previo a la entrada en vigor del presente Decreto.
+
+QUINTO. La Secretaría de Seguridad y Protección Ciudadana de Tabasco, deberá establecer e implementar los procedimientos y tecnologías de inhibición de entrada y salida de llamadas de telefonía celular, de radiocomunicación, de transmisión de voz, datos o imagen a que se refiere el artículo 38 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, dentro del plazo de 180 días hábiles a partir de la entrada en vigor de dicho ordenamiento, como lo establece el Artículo Transitorio Séptimo del mismo.
+
+SEXTO. Las autoridades a las que se refiere el presente Decreto, en el ámbito de sus respectivas atribuciones, en un plazo no mayor a sesenta días naturales a partir de la entrada en vigor, llevarán a cabo las acciones necesarias para capacitar debidamente en la materia al personal a su cargo.
+
+SÉPTIMO. Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado de los sujetos obligados por este instrumento, por lo que no incrementarán su presupuesto y no se autorizarán recursos adicionales para el ejercicio fiscal respectivo.
+
+OCTAVO. Se derogan las disposiciones que se opongan al presente Decreto.
