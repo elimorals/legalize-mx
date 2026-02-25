@@ -4,7 +4,7 @@ identifier: "TAB-codigo-penal-para-el-estado-de-tabasco-12339"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-05"
-last_updated: "2025-12-27"
+last_updated: "2026-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CÓDIGO PENAL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2026.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 5 de febrero de 1997.
 
@@ -359,9 +359,9 @@ VII. Sustracción o retención de menores o incapaces, a que se refieren los art
 
 VIII. Ejercicio indebido del propio derecho, al que alude el artículo 282;
 
-> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2026)</small>
 
-IX. Delitos contra el patrimonio de las personas, previstos en el Título Décimo del Libro Segundo, excepto el robo, el abigeato, la extorsión, las operaciones con recursos de procedencia ilícita, aquellos en los que concurran calificativas y los dolosos cometidos contra instituciones públicas;
+IX. Delitos contra el patrimonio de las personas, previstos en el Título Décimo del Libro Segundo, excepto el robo, el abigeato, las operaciones con recursos de procedencia ilícita, aquellos en los que concurran calificativas y los dolosos cometidos contra instituciones públicas;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2022)</small>
 
@@ -2673,9 +2673,7 @@ Las penas se aplicarán aun cuando el adquirente no haya pagado total o parcialm
 
 Al que mediante cualquier acto, simule un estado de insolvencia con el objeto de eludir las obligaciones que tenga frente a sus acreedores, se le impondrán las penas previstas para el delito de fraude.
 
-### CAPITULO XI. EXTORSION
-
-> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2025)</small>
+### CAPÍTULO XI. EXTORSIÓN
 
 ###### Artículo 195.
 
@@ -2707,6 +2705,8 @@ III. Cuando se otorgue en préstamo una suma de dinero garantizada con bienes mu
 
 IV. Cuando para acreditar un préstamo, se exija como garantía que se suscriba más de un documento que corresponda a la propia operación concertada, provocando que haya más de un acto formal en que cada uno de ellos se vinculen directamente entre sí, siendo el mismo préstamo y se requiera el cobro de ambos.
 
+> <small>(DEROGADO, P.O. 25 DE FEBRERO DE 2026)</small>
+
 ### CAPITULO XI BIS. IMPEDIMENTO DE EJECUCIÓN DE TRABAJOS U OBRAS
 
 (NOTA: EL 8 DE MARZO DE 2021, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO, OCTAVO Y DÉCIMO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 91/2019 Y SUS ACUMULADAS 92/2019 Y 93/2019, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 1 DE AGOSTO DE 2019, FECHA EN QUE ENTRÓ EN VIGOR EL DECRETO 115 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
@@ -2721,41 +2721,7 @@ La pena se incrementará en una mitad más, cuando en la comisión del delito el
 
 ###### Artículo 196.
 
-Al que, sin derecho, por sí o por interpósita persona, ejerciendo o amenazando con causar algún tipo de daño en las personas o bienes o ejerciendo algún tipo de violencia física o moral, obligue a otro a dar, hacer, dejar de hacer o tolerar cualquier acción u omisión con el propósito de obtener un beneficio o lucro de cualquier tipo, para sí o para otro, se le aplicarán de diez a veinte años y multa de mil a dos mil veces el valor diario de Unidad de Medida y Actualización.
-
-Las penas previstas para este delito se aumentarán al doble, cuando:
-
-a) Se realice por persona servidora o exservidora pública. En este caso se impondrá además la destitución del empleo, cargo o comisión público y, se le inhabilitará por el tiempo que dure la condena para desempeñar cargos o comisión públicos;
-
-b) Se realice por una persona miembro o exmiembro de una empresa de seguridad privada;
-
-c) Se cometa utilizando como medio la vía telefónica, el correo electrónico, las redes sociales, aplicaciones de mensajería o cualquier otro medio de comunicación electrónica;
-
-d) Se cometa empleando imágenes, mensajes escritos, audios o videos, sean reales o editadas;
-
-e) Se realice por persona que se ostente como integrante o miembro de un grupo u organización delictiva, aun cuando no lo sea;
-
-f) Se realice desde el interior de cualquier centro penitenciario o de reinserción social;
-
-g) Se realice en contra de personas dedicadas al comercio o a cualquier actividad productiva;
-
-h) Se realice en contra de personas dedicadas al transporte de personas o mercancías;
-
-i) Se realice en contra de personas menores de dieciocho o mayores de sesenta años;
-
-j) Si quien lo realiza obtiene el beneficio pretendido por la extorsión;
-
-k) Se realice ocasionando daños en las instalaciones de comercios, negocios o bienes en propiedad o posesión de la víctima o de un tercero con quien la persona amenazada tenga vínculos afectivos o de cualquier índole;
-
-l) Se realice utilizando armas o portando instrumentos que pongan en peligro la integridad física o la vida de la víctima, o que tengan la apariencia, forma o configuración de arma de fuego o instrumentos peligrosos;
-
-m) Se realice para obtener el cobro de un daño, derivado de un hecho de tránsito; y
-
-n) El sujeto activo del delito manifieste su pretensión de continuar obteniendo alguna cantidad de dinero o en especie por concepto de cobro de cuotas o prestaciones de cualquier índole, adicionales a los exigidos originalmente por el ilícito.
-
-Las penas señaladas en este artículo se impondrán sin perjuicio de las que correspondan por otros delitos.
-
-Este delito se perseguirá de oficio.
+(DEROGADO, P.O. 25 DE FEBRERO DE 2026)
 
 ###### Artículo 197.
 
@@ -5958,3 +5924,23 @@ P.O. 27 DE DICIEMBRE DE 2025.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO.- Los delitos que se hubieren cometido con anterioridad con la entrada en vigor del presente Decreto, se sancionarán conforme a las disposiciones normativas vigentes al momento de su comisión.
+
+P.O. 25 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 234 POR EL QUE “SE REFORMA EL ARTÍCULO 15 BIS, FRACCIÓN IX Y SE DEROGAN: EL CAPÍTULO XI DENOMINADO EXTORSIÓN Y EL ARTÍCULO 196 DE LA SECCIÓN PRIMERA DEL TÍTULO DÉCIMO DEL LIBRO SEGUNDO, DEL CÓDIGO PENAL PARA EL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Los procesos jurisdiccionales relacionados con los delitos de extorsión, serán desahogados de conformidad con lo establecido en los Artículos Cuarto y Quinto Transitorios del Decreto por el que se expide la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, por lo que en ningún momento la expedición del presente Decreto implica la despenalización o derogación de los mismos.
+
+TERCERO. La Secretaría de Seguridad y Protección Ciudadana de Tabasco, deberá establecer la Estrategia para Prevenir y Combatir el Delito de Extorsión en un plazo no mayor a 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. La Fiscalía General del Estado de Tabasco, deberá crear y poner en operación la Fiscalía Especializada en Materia del Delito de Extorsión en un período no mayor a noventa días hábiles contados a partir de la entrada en vigor del presente Decreto. Hasta en tanto no se integre y entre en operaciones la Fiscalía Especializada señalada, la Fiscalía para el Combate al Secuestro y Extorsión seguirá operando en términos de las disposiciones jurídicas aplicables, previo a la entrada en vigor del presente Decreto.
+
+QUINTO. La Secretaría de Seguridad y Protección Ciudadana de Tabasco, deberá establecer e implementar los procedimientos y tecnologías de inhibición de entrada y salida de llamadas de telefonía celular, de radiocomunicación, de transmisión de voz, datos o imagen a que se refiere el artículo 38 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, dentro del plazo de 180 días hábiles a partir de la entrada en vigor de dicho ordenamiento, como lo establece el Artículo Transitorio Séptimo del mismo.
+
+SEXTO. Las autoridades a las que se refiere el presente Decreto, en el ámbito de sus respectivas atribuciones, en un plazo no mayor a sesenta días naturales a partir de la entrada en vigor, llevarán a cabo las acciones necesarias para capacitar debidamente en la materia al personal a su cargo.
+
+SÉPTIMO. Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado de los sujetos obligados por este instrumento, por lo que no incrementarán su presupuesto y no se autorizarán recursos adicionales para el ejercicio fiscal respectivo.
+
+OCTAVO. Se derogan las disposiciones que se opongan al presente Decreto.
