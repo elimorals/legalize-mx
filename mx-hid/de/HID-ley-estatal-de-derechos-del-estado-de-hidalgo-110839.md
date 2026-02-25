@@ -4,7 +4,7 @@ identifier: "HID-ley-estatal-de-derechos-del-estado-de-hidalgo-110839"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2025-12-31"
+last_updated: "2026-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110839&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "HID"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE FEBRERO DE 2026 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ESTATAL DE DERECHOS DEL ESTADO DE HIDALGO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2025.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 25 DE FEBRERO DE 2026.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el jueves 31 de diciembre de 2015.
 
@@ -2405,17 +2405,13 @@ ARTÍCULO 46 BIS.- Los derechos derivados de la administración, uso o goce del 
 
 Los derechos causados por cualquier otro supuesto no contemplado en el párrafo anterior, se pagarán conforme a los montos y disposiciones determinadas por la Oficialía Mayor.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2025) (F. DE E., P.O. 25 DE FEBRERO DE 2026)
 
-### CAPÍTULO DÉCIMO PRIMERO. DE LOS DERECHOS CORRESPONDIENTES A (SIC) SECRETARÍA DE MOVILIDAD Y TRANSPORTE
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2025)</small>
-
-ARTÍCULO 46 TER.- Los derechos derivados por la obtención de bases relacionadas a los procedimientos de contratación mediante Licitación Pública para la adquisición de bienes, arrendamiento de bienes muebles y servicios, con excepción de las relacionadas a la contratación de obra pública, se pagarán los valores establecidos en el tabulador siguiente:
+ARTÍCULO 46 BIS 1.- Los derechos derivados por la obtención de bases relacionadas a los procedimientos de contratación mediante Licitación Pública para la adquisición de bienes, arrendamiento de bienes muebles y servicios, con excepción de las relacionadas a la contratación de obra pública, se pagarán los valores establecidos en el tabulador siguiente:
 
 Monto en pesos
 
-(Sin incluir el Impuesto al Valor Agregado) UMA’S
+(Sin incluir el Impuesto al Valor Agregado) UMA'S
 
 De $1.00 a $20,000,000.00 2.65
 
@@ -2434,6 +2430,58 @@ De $200,000,000.01 a $250,000,000.00 5.30
 De $250,000,000.01 a $300,000,000.00 5.74
 
 De $300,000,000.01 en adelante 6.18
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2018)</small>
+
+### CAPÍTULO DÉCIMO PRIMERO. DE LOS DERECHOS CORRESPONDIENTES A (SIC) SECRETARÍA DE MOVILIDAD Y TRANSPORTE
+
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2018) (F. DE E., P.O. 25 DE FEBRERO DE 2026)
+
+ARTÍCULO 46 TER. Los derechos por la prestación de los servicios del Estado, a través de la Secretaría de Movilidad y Transporte, se causarán y pagarán de la siguiente forma:
+
+I.- Por la expedición del dictamen del estudio de impacto en la movilidad que autoriza total o parcialmente, o en su caso, que niega la obra o actividad correspondiente:
+
+a).- De proyectos habitacionales plurifamiliares:
+
+1.- Tratándose de proyectos de 11 y hasta 100 viviendas. 35 u.m.a.’s;
+
+2.- Tratándose de proyectos de 101 y hasta 500 viviendas. 70 u.m.a.’s;
+
+3.- Tratándose de proyectos de 500 y hasta 1,000 viviendas. 105 u.m.a.’s;
+
+4.- Tratándose de proyectos mayores de 1,000 viviendas. 125 u.m.a.’s;
+
+b).- De proyectos con uso no habitacional:
+
+1.- Tratándose de proyectos de más de 500m2 y hasta 3,000 m2. 25 u.m.a.’s;
+
+2.- Tratándose de proyectos de más de 3,000m2 y hasta 5,000 m2. 50 u.m.a.’s;
+
+3.- Tratándose de proyectos de más de 5,000m2 y hasta 10,000 m2. 75 u.m.a.’s;
+
+4.- Tratándose de proyectos de más de 10,000m2. 100 u.m.a.’s;
+
+c).- De proyectos mixtos:
+
+1.- Tratándose de proyectos de más de 500m2 y hasta 3,000 m2. 30 u.m.a.’s;
+
+2.- Tratándose de proyectos de más de 3,000m2 y hasta 5,000 m2. 60 u.m.a.’s;
+
+3.- Tratándose de proyectos de más de5,000m2 y hasta 10,000 m2. 90 u.m.a.’s;
+
+4.- Tratándose de proyectos de más de 10,000m2. 120 u.m.a.’s;
+
+II.- Por la incorporación o actualización al registro estatal de movilidad y transporte. 5 u.m.a.´s;
+
+III.- Por la expedición de constancias de información, registro o folio del registro estatal de movilidad y transporte, por la primer foja y hasta 3 fojas. 1 u.m.a.;
+
+IV.- Por la expedición de constancias de información, registro o folio del registro estatal de movilidad y transporte, a que se refiere la fracción III inmediata anterior, por cada foja adicional. 0.26 u.m.a.´s;
+
+V.- Por la expedición de copias certificadas, por cada foja. 0.2 u.m.a.´s
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2020)</small>
+
+VI.- Por el registro del profesional, persona física o moral, experto o perito en la materia, responsable de elaborar, integrar y suscribir el Estudio de Impacto en la Movilidad. 11.7 u.m.a.´s
 
 ## TÍTULO TERCERO
 
