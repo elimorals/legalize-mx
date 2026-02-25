@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-conducta-del-instituto-de-educacion-para-adultos-1789
 country: "mx"
 rank: "codigo"
 publication_date: "2025-03-19"
-last_updated: "2025-03-19"
+last_updated: "2026-02-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=178989&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CÓDIGO DE CONDUCTA DEL INSTITUTO DE EDUCACIÓN PARA ADULTOS DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2026 (ABROGADO).
 
 Código publicado en el Suplemento G del Número 8612 del Periódico Oficial del Estado de Tabasco, el miércoles 19 de marzo de 2025.
 
@@ -604,3 +604,13 @@ DADO EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO, EL 11 DE MARZO
 LIC. ANA SILVIA FUENTES FALCONI
 
 DIRECTORA GENERAL DEL INSTITUTO DE EDUCACIÓN PARA ADULTOS DE TABASCO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DEL INSTITUTO DE EDUCACIÓN PARA ADULTOS DE TABASCO”.]
+
+Primero. El presente Código de Conducta entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+Segundo. Se abroga el Código de Conducta publicado en el Suplemento al Periódico Oficial del Estado de Tabasco, Edición 8612 de fecha 19 de marzo de 2025.
