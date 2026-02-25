@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2025-12-11"
+last_updated: "2026-02-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE FEBRERO DE 2026.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -1154,6 +1154,10 @@ XXXIV. Fomentar la organización y constitución de toda clase de sociedades coo
 > <small>(REFORMADA, G.O. 13 DE ENERO DE 2006)</small>
 
 XXXV. Difundir las actividades industriales, comerciales y portuarias a través de misiones comerciales, ferias, exposiciones, convenciones y demás eventos de promoción.
+
+> <small>(ADICIONADA, G.O. 25 DE FEBRERO DE 2026)</small>
+
+XXXVI. Coordinar, supervisar, regular, vigilar y ejecutar las políticas en materia de simplificación administrativa, digitalización de trámites y servicios, buenas prácticas regulatorias, desarrollo y fortalecimiento de capacidades tecnológicas públicas en el Estado, en un esquema de movilidad adecuada y desarrollo sustentable de conformidad con la Ley Nacional para Eliminar Trámites Burocráticos y lo establecido en las disposiciones jurídicas aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 26 DE AGOSTO DE 2013)</small>
 
@@ -3200,3 +3204,13 @@ Sexto. En un periodo de ciento ochenta días hábiles, contados a partir de la p
 Séptimo. En un periodo de ciento ochenta días hábiles, contados a partir de la publicación del presente Decreto, la Fiscalía General del Estado deberá realizar las adecuaciones reglamentarias necesarias de conformidad con lo establecido en el presente Decreto.
 
 Octavo. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+G.O. 25 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 500 POR EL QUE SE ADICIONA LA FRACCIÓN XXXVI DEL ARTÍCULO 24 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE Y SE ABROGA LA LEY NÚMERO 281 DE MEJORA REGULATORIA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. En un plazo no mayor a 180 días naturales contado a partir de la entrada en vigor del presente Decreto, la persona Titular del Ejecutivo del Estado deberá expedir las adecuaciones correspondientes a la normativa que resulte necesaria en la aplicación del presente Decreto.
+
+Tercero. Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
