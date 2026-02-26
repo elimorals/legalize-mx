@@ -4,7 +4,7 @@ identifier: "AGU-constitucion-politica-del-estado-de-aguascalientes-2653"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-09"
-last_updated: "2026-02-16"
+last_updated: "2026-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Aguascalientes, los domingos 9, 16 y 23 de septiembre de 1917.
 
@@ -883,13 +883,13 @@ Asimismo, los servidores públicos locales y municipales, así como cualquier en
 
 Las indemnizaciones y sanciones pecuniarias a que se refiere la Fracción IV del Artículo 27 C de esta Constitución, constituirán créditos fiscales del erario estatal o municipal en su caso, y se harán efectivas aplicando el Procedimiento Administrativo de Ejecución.
 
-> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE FEBRERO DE 2026)</small>
 
-Artículo 27 B.- El Congreso del Estado emitirá la convocatoria para elegir al titular del Órgano Superior de Fiscalización del Estado y lo designará con el voto de las dos terceras partes de los miembros presentes en la Legislatura. La Ley determinará el procedimiento para su designación y remoción en su caso.
+Artículo 27 B.- El Congreso del Estado emitirá la convocatoria para elegir a la persona titular del Órgano Superior de Fiscalización del Estado y lo designará con el voto de las dos terceras partes de los miembros presentes en la Legislatura. La Ley determinará el procedimiento para su designación, remoción en su caso, así como su organización.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE FEBRERO DE 2026)</small>
 
-El Auditor Superior de Fiscalización, además de los requisitos previstos en las Fracciones III y IV del Artículo 53 de esta Constitución requeridos para ser Magistrado del Supremo Tribunal de Justicia y Fiscal General del Estado, deberá de reunir los siguientes:
+El Auditor Superior de Fiscalización deberá de reunir los siguientes requisitos:
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE AGOSTO DE 2023)</small>
 
@@ -907,11 +907,19 @@ III. Contar con experiencia de cinco años en materia de control interno y admin
 
 IV. No haber sido condenado por delito de ejercicio indebido del servicio público, abuso de autoridad, coalición de servidores públicos, concusión, cohecho, peculado, tráfico de influencias, encubrimiento o enriquecimiento ilícito; salvo que exista cabal cumplimiento de las penas y/o sanciones establecidas en la sentencia.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2026)</small>
 
-V. No haber tenido cargo de Secretario o su equivalente en el Poder Ejecutivo del Estado, Fiscal General del Estado, Contralor del Estado o de Municipio, Presidente Municipal, Senador, Diputado Federal o local, Síndico o Regidor de algún Ayuntamiento o dirigente de Partido Político durante los cuatro años previos al de su designación.
+V. No estar en funciones· de Secretario o su equivalente en el Poder Ejecutivo del Estado, Fiscal General del Estado, Contralor del Estado o de Municipio, Presidente Municipal, Senador, Diputado Federal o local, Síndico o Regidor de algún Ayuntamiento o dirigente de Partido Político, el día que inicie el proceso para designar a la persona titular del Órgano.
+
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2026)</small>
+
+VI. No pertenecer al estado eclesiástico ni ser ministro de ningún culto.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
 El Auditor Superior de Fiscalización durará en su encargo siete años; podrá ser removido por el Congreso por causas que señale la Ley, siempre con la misma votación requerida para su nombramiento, o conforme a los procedimientos previstos en el Capítulo Décimo Sexto de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2008)</small>
 
 Durante el ejercicio de su encargo no podrá formar parte de la dirigencia de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia.
 
@@ -1953,7 +1961,9 @@ Artículo 59 A.- Para proteger los derechos de las mujeres a una vida libre de v
 
 Artículo 59 A (sic).- El Ministerio Público se organizará en una Fiscalía General del Estado como órgano autónomo con personalidad jurídica y patrimonio propio, misma que ejercerá las funciones previstas en el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos con apego a los principios de legalidad, objetividad, imparcialidad, eficiencia, profesionalismo, responsabilidad, honradez y respeto a los derechos humanos, en los términos que disponga la Ley del Servicio Profesional de Carrera Ministerial para el Estado de Aguascalientes y las demás leyes aplicables en la materia.
 
-El Fiscal General del Estado durará en su cargo siete años y será designado y removido conforme a lo siguiente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 26 DE FEBRERO DE 2026)</small>
+
+El Fiscal General del Estado durará en su cargo nueve años y será designado y removido conforme a lo siguiente:
 
 I.- Treinta días antes de concluir el período para el cual fue designado el Fiscal General del Estado, o en su caso, a partir de su ausencia definitiva, el Congreso del Estado tendrá quince días naturales para integrar una lista de cinco candidatos aprobada por las dos terceras partes de los diputados que integran el Congreso del Estado, misma que enviará al Poder Ejecutivo;
 
@@ -4778,3 +4788,31 @@ P.O. 16 DE FEBRERO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes, una vez cubiertos los extremos del artículo 94 de la Constitución Política del Estado de Aguascalientes.
+
+P.O. 26 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 398.- SE REFORMAN LOS PÁRRAFOS PRIMERO, SEGUNDO Y LA FRACCIÓN V Y SE ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 27 B DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+Una vez cubiertos los extremos legales que establece el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El inicio del proceso para nombrar a la persona titular del órgano superior de fiscalización del congreso del Estado, será con la publicación de la convocatoria que emita el congreso.
+
+P.O. 26 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 399 POR EL QUE “SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 59 A (SIC) DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+Una vez cubiertos en su totalidad los extremos legales y procedimentales previstos en el artículo 94 de la Constitución Política del Estado de Aguascalientes, el presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Lo dispuesto en el presente Decreto será aplicable al periodo del cargo de la persona titular de la Fiscalía General del Estado de Aguascalientes en funciones, a partir de la entrada en vigor del mismo, en términos del artículo transitorio anterior.
+
+###### ARTÍCULO TERCERO.
+
+Con la entrada en vigor del presente Decreto, quedan sin efecto todas aquellas disposiciones que se opongan al mismo.
