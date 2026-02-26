@@ -4,7 +4,7 @@ identifier: "SON-ley-del-servicio-civil-para-el-estado-de-sonora-8403"
 country: "mx"
 rank: "ley"
 publication_date: "1977-08-27"
-last_updated: "2024-11-13"
+last_updated: "2026-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DEL SERVICIO CIVIL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE FEBRERO DE 2026.
 
 Ley publicada en el Alcance del Boletín Oficial del Estado de Sonora, el sábado 27 de agosto de 1977.
 
@@ -622,6 +622,50 @@ Las coaliciones de trabajadores únicamente podrán formalizarse en sindicatos, 
 ###### ARTICULO 61.
 
 En los tres poderes del Estado se reconocerán únicamente dos sindicatos: uno de burócratas y otro de trabajadores de la educación. En cada Municipio y en cada una de las demás entidades públicas comprendidas en esta ley, sólo habrá un sindicato y si concurren varios grupos de trabajadores, el Tribunal otorgará el reconocimiento al mayoritario. Para fines de organización interna, los sindicatos podrán constar de diversas secciones, pero éstas no gozarán de personalidad jurídica.
+
+> <small>(ADICIONADO, B.O. 26 DE FEBRERO DE 2026)</small>
+
+ARTICULO 61 BIS.- Los sindicatos deberán gozar de adecuada protección contra todo acto de injerencia por parte de las personas servidoras públicas en su constitución, funcionamiento, administración y libre desarrollo de las elecciones sindicales, las condiciones de elegibilidad, la reelección y/o la destitución de las directivas de los sindicatos. Cualquier contravención a estas disposiciones será considerada falta administrativa grave y sancionada en los términos de la Ley de Responsabilidades y Sanciones para el Estado de Sonora.
+
+Se entenderán como actos de injerencia sindical, entre otras, las siguientes conductas:
+
+I.- Coaccionar, inducir o amenazar a personas trabajadoras o agremiadas para participar o abstenerse de participar en eventos de campaña sindical, o para votar por una planilla, dirigente o sindicato determinado.
+
+II.- Ejercer presión o intimidación jerárquica sobre subordinados para que expresen públicamente su apoyo o rechazo a determinada candidatura sindical.
+
+III.- Obligar o condicionar la asistencia a actos, mítines o reuniones sindicales con fines de proselitismo.
+
+IV.- Condicionar la prestación de servicios institucionales, apoyos, licencias o permisos laborales a la emisión del voto o apoyo hacia una planilla sindical.
+
+V.- Ofrecer beneficios laborales, ascensos, estímulos o promociones a cambio de apoyo o voto sindical.
+
+VI.- Negar, suspender o limitar derechos o programas internos, capacitaciones, bonos o reconocimientos como represalia por no apoyar determinada opción sindical.
+
+VII.- Utilizar programas institucionales o apoyos sociales para inducir o coaccionar el voto sindical.
+
+VIII.- Destinar, utilizar o permitir el uso de fondos, bienes, servicios o personal institucional para favorecer o perjudicar a determinada planilla, corriente o dirigencia sindical.
+
+IX.- Difundir propaganda, mensajes o material institucional que promueva o desacredite a una candidatura o grupo sindical.
+
+X.- Permitir el uso de instalaciones, vehículos, redes o infraestructura pública para actos de campaña o propaganda sindical.
+
+XI.- Proporcionar apoyo o servicios institucionales para actividades de campaña sindical.
+
+XII.- Realizar aportaciones o solicitar contribuciones a subordinados para financiar campañas o actividades sindicales.
+
+XIII.- Usar recursos o programas institucionales con la finalidad de posicionar o promover ante la base trabajadora a una persona servidora pública o dirigente sindical.
+
+XIV.- Negarse sin causa justificada a entregar información solicitada por la autoridad sindical o laboral competente, relacionada con el desarrollo de elecciones o procesos democráticos sindicales.
+
+XV.- Omitir colaborar o prestar auxilio en los procesos de verificación, vigilancia o supervisión sindical cuando la autoridad lo requiera.
+
+XVI.- Omitir actuar con imparcialidad durante los procesos electorales sindicales, afectando la equidad entre candidaturas.
+
+XVII.- Actuar con parcialidad o favorecer públicamente a determinada candidatura.
+
+XVIII.- Intervenir indebidamente en la equidad del proceso sindical, alterando la neutralidad institucional.
+
+XIX.- Utilizar su cargo para influir en la opinión de las personas trabajadoras, afectando la libertad del voto sindical.
 
 ###### ARTICULO 62.
 
@@ -1392,3 +1436,11 @@ B.O. 13 DE NOVIEMBRE DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 26 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 94, QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE SERVICIO CIVIL, Y A LA LEY DE RESPONSABILIDADES Y SANCIONES PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
