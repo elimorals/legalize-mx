@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-84-de-responsabilidades-y-sanciones-para-el-157772"
 country: "mx"
 rank: "ley"
 publication_date: "2022-04-26"
-last_updated: "2024-12-30"
+last_updated: "2026-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=157772&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE RESPONSABILIDADES Y SANCIONES PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE FEBRERO DE 2026.
 
 Ley publicada en Edición Especial del Boletín Oficial del Estado de Sonora, el martes 26 de abril de 2022.
 
@@ -694,6 +694,10 @@ IV.- No de impulso procesal a los procedimientos sancionatorios y como consecuen
 > <small>(REFORMADO, B.O. 25 DE SEPTIEMBRE DE 2023)</small>
 
 Para efectos de la fracción III, los Servidores Públicos que denuncien una Falta administrativa grave o Faltas de particulares, o sean testigos en el procedimiento, podrán solicitar medidas de protección que resulten razonables. La solicitud deberá ser evaluada y atendida de manera oportuna por el Ente público donde presta sus servicios el denunciante.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2026)</small>
+
+ARTÍCULO 69 BIS.- Será responsable de injerencia sindical la persona servidora pública que, por sí o por terceros, incurra en las conductas previstas en el artículo 61 Bis de la Ley del Servicio Civil para el Estado de Sonora, o en el artículo 69 Bis de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional.
 
 ### CAPÍTULO III. DE LOS ACTOS DE PARTICULARES VINCULADOS CON FALTAS ADMINISTRATIVAS GRAVES
 
@@ -2308,3 +2312,11 @@ El o la Titular de la Secretaría Anticorrupción y Buen Gobierno, en el ámbito
 ###### ARTÍCULO CUARTO.
 
 Los asuntos en trámite que son atendidos por las dependencias que modifican su denominación o atribuciones en virtud de la entrada en vigor al presente ordenamiento, serán atendidos y resueltos por las unidades administrativas a las que se les otorga la competencia y atribución correspondiente, de conformidad con las disposiciones aplicables.
+
+P.O. 26 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 94, QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE SERVICIO CIVIL, Y A LA LEY DE RESPONSABILIDADES Y SANCIONES PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
