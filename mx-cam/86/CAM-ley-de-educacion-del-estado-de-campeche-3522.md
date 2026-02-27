@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-educacion-del-estado-de-campeche-3522"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-01"
-last_updated: "2025-08-08"
+last_updated: "2026-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 1 de junio de 1993.
 
@@ -763,13 +763,17 @@ XI.- Promover la educación para padres de los alumnos del nivel básico.
 
 XII.- Simplificar los procedimientos administrativos en la prestación del servicio educativo.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
 > <small>(REFORMADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
 XIII.- Desarrollar y fomentar en los educandos los valores cívicos y éticos por los que debe regirse todo ser humano, buscando promover la cultura de la legalidad, la paz, el amor a la patria, el respeto y la solidaridad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2026)</small>
+
+XIII Bis.- Promover la cultura de la paz, la convivencia respetuosa y la prevención de la violencia digital en el entorno escolar, mediante acciones formativas y de sensibilización que involucren a las y los educandos, al personal docente y directivo, así como a madres, padres de familia o tutores y al personal de apoyo y asistencia a la educación. Con el objeto de garantizar un ambiente propicio para el aprendizaje, el uso de teléfonos celulares, tabletas electrónicas, relojes inteligentes y, en general, dispositivos móviles personales por parte de niñas, niños y adolescentes que cursen educación básica, podrá comprenderse durante la jornada escolar y dentro de las instalaciones del centro educativo, para fines pedagógicos específicos, previamente definidos por el personal docente o la autoridad educativa competente, tratando que no se conviertan en factores de distracción que afecten el desarrollo efectivo del proceso de enseñanza-aprendizaje.
+
+El uso de herramientas tecnológicas como apoyo educativo se realizará preferentemente mediante los equipos, plataformas y recursos proporcionados por la institución educativa, o aquellos previamente autorizados por la autoridad educativa competente, conforme a los lineamientos que para tal efecto se emitan.
+
+La aplicación de esta fracción deberá observar en todo momento los principios de interés superior de la niñez, autonomía progresiva, libre desarrollo de la personalidad, proporcionalidad, razonabilidad y no discriminación.
 
 > <small>(ADICIONADA, P.O. 28 DE OCTUBRE DE 2010)</small>
 
@@ -1168,6 +1172,16 @@ El Gobierno del Estado, por conducto de la Secretaría de Educación, participar
 ###### Artículo 49.
 
 Son derechos y obligaciones de quienes ejercen la patria potestad o la tutela los establecidos en los Artículos 65 y 66 de la Ley General de Educación.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2026)</small>
+
+###### Artículo 49-I.
+
+También forman parte de las obligaciones de quienes ejerzan la patria potestad o la tutela:
+
+I.- Colaborar con las autoridades educativas para fomentar condiciones adecuadas para el proceso de enseñanza y aprendizaje para sus hijas e hijos promoviendo el uso responsable de teléfonos celulares u otros dispositivos electrónicos personales, durante la jornada escolar, procurando su utilización para fines pedagógicos, formativos o de apoyo al aprendizaje, así como en aquellos casos en que exista justificación por razones de salud, condiciones físicas, necesidades educativas especiales, requerimiento médico o autorización del personal docente, intentando en todo momento que dichos dispositivos no interfieran injustificadamente en el desarrollo de las actividades escolares; y
+
+II.- Participar en programas de orientación, concientización y formación sobre el uso responsable de la tecnología, así como sobre sus riesgos y beneficios en el desarrollo académico y social de los educandos.
 
 ###### Artículo 50.
 
@@ -1748,3 +1762,13 @@ PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- La Secretaría de Educación de la Administración Pública del Estado deberá considerar todas las medidas programáticas, para la continuidad en la aplicación de la educación financiera.
 
 TERCERO.- La Secretaría de Educación de la Administración Pública del Estado de Campeche, podrá suscribir convenios de colaboración con entidades públicas o privadas, con la finalidad de que se le proporcione a la población escolar del Estado, cursos, talleres o programas de educación financiera.
+
+P.O. 27 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 199 POR EL QUE “SE ADICIONAN LA FRACCIÓN XIII BIS AL ARTÍCULO 22-4 Y EL ARTÍCULO 49-I, TODOS A LA LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- La Secretaría de Educación del Estado en un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor de este decreto deberá emitir los lineamientos y protocolos necesarios para la implementación de las medidas a que se refiere el presente decreto.
+
+Tercero.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
