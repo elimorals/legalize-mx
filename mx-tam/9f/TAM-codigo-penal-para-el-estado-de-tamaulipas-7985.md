@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2026-02-12"
+last_updated: "2026-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -1019,11 +1019,11 @@ Las penas por delito culposo, con excepción de la reparación del daño, no exc
 
 Siempre que al delito doloso corresponda sanción alternativa que incluya una pena no corporal, aprovechará esa situación al sentenciado por culpa.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2026)</small>
 
 ###### ARTICULO 76.
 
-No se impondrá pena alguna a quien por culpa provoque un daño en propiedad ajena que no exceda de cien veces el valor diario de la Unidad de Medida y Actualización, siempre y cuando no produzcan lesiones y el agente no se encuentre bajo el influjo de la ingestión de bebidas alcohólicas o de estupefacientes, psicotrópicos u otras sustancias que produzcan efectos similares.
+Cuando por culpa se provoque un daño en propiedad ajena que no sea mayor del equivalente a cien veces el valor diario de la Unidad de Medida y Actualización, se sancionará con multa hasta por el valor del daño causado, más la reparación de esta, siempre y cuando no se produzcan lesiones y el agente no se encuentre bajo el influjo de la ingestión de bebidas alcohólicas o de estupefacientes, psicotrópicos u otras sustancias que produzcan efectos similares.
 
 ###### ARTICULO 77.
 
@@ -2343,9 +2343,13 @@ Comete delito en los términos de este capítulo:
 
 I.- El que fabrique, reproduzca, publique libros, escritos, imágenes u objetos obscenos o de los llamados pornográficos, o al que los exponga, distribuya o haga circular;
 
-II.- El que publique por cualquier medio, ejecute o haga ejecutar por otro, exhibiciones obscenas o de las llamadas pornográficas, y
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2026)</small>
 
-III.- El que de modo escandaloso invite a otro al comercio carnal.
+II.- El que publique por cualquier medio, ejecute o haga ejecutar por otra persona, exhibiciones obscenas o de las llamadas pornográficas; y
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2026)</small>
+
+III.- El que invite a otra persona al comercio carnal.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -3867,11 +3871,9 @@ Si se hiciera uso de violencia, la pena se aumentará en una mitad más en su m�
 
 De igual forma, la pena se aumentará cuando el delito se cometa en las circunstancias previstas por las fracciones II, IV, VII, VIII, X y XI del artículo 267 de este Código y se impondrá al sujeto activo el cumplimiento de la reparación integral del daño en los términos de la referida disposición.
 
-> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2016)</small>
-
 ###### ARTICULO 269.
 
-El delito de abuso sexual sólo se castigará cuando se haya consumado.
+(DEROGADO, P.O. 27 DE FEBRERO DE 2026)
 
 ### CAPITULO II. ESTUPRO
 
@@ -3945,25 +3947,25 @@ Si la violación fuere cometida con participación de dos o más personas, la sa
 
 ### CAPITULO IV. HOSTIGAMIENTO Y ACOSO SEXUAL
 
-> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2026)</small>
 
-ARTICULO 276 BIS.- Comete el delito de hostigamiento sexual quien, valiéndose de una posición jerárquica derivada de la relación laboral, docente, doméstica o cualquiera otra que genere subordinación, asedie a otra persona, emitiéndole propuestas, utilice lenguaje lascivo con este fin o le solicite ejecutar cualquier acto de naturaleza sexual.
+ARTICULO 276 BIS.- Comete el delito de hostigamiento sexual quien, directamente o a través de interpósita persona, valiéndose de una posición jerárquica derivada de la relación laboral, docente, doméstica o cualquiera otra que genere, se asuma o implique subordinación, asedie a otra persona, ofreciendo una supuesta ayuda, ventaja o aprovechamiento de diversa naturaleza, ya sea en numerario o en especie, o privilegios laborales indebidos o de evaluación en la docencia, ya sean para sí, para otros o para la familia de la víctima, o bajo amenaza que de no acceder será destituido, degradado, removido o perjudicado en su situación laboral, o simplemente emitiéndole propuestas ajenas a las tareas laborales o educativas, o utilice lenguaje lascivo con este fin o le solicite ejecutar cualquier acto de naturaleza sexual.
 
 > <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2010)</small>
 
 ARTICULO 276 TER.- Comete el delito de acoso sexual quien con respecto a una persona con la que no exista relación de subordinación, lleve a cabo conductas verbales, físicas o ambas, relacionadas con la sexualidad que la pongan en riesgo o la dejen en estado de indefensión.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2026)</small>
 
-ARTICULO 276 quater.- Al responsable del delito de hostigamiento sexual se le impondrán de uno a tres años de prisión y multa de cien a cuatrocientas veces el valor diario de la Unidad de Medida y Actualización y será punible con independencia de que se ocasione un daño o perjuicio en la posición laboral, docente, doméstica o de cualquier naturaleza que se derive de la subordinación de la persona agredida.
+ARTICULO 276 QUATER.- Al responsable del delito de hostigamiento sexual se le impondrán de uno a cuatro años de prisión y multa de cien a seiscientas veces el valor diario de la Unidad de Medida y Actualización.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 Al responsable del delito de acoso sexual se le impondrá una pena de seis meses a un año de prisión y multa de cincuenta a trescientas veces el valor diario de la Unidad de Medida y Actualización.
 
-> <small>(ADICIONADO, P.O. 19 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2026)</small>
 
-ARTICULO 276 QUINQUIES.- Si la persona que comete estos delitos fuere servidor público y utilizase los medios o circunstancias que su función le proporciona para ejecutar el hostigamiento o el acoso sexual, además se le sancionará con la destitución e inhabilitación de seis meses a dos años para desempeñar cualquier empleo, cargo o comisión públicos.
+ARTICULO 276 QUINQUIES.- Si la persona que comete estos delitos fuere servidor público y utilizase los medios o circunstancias que su función le proporciona para ejecutar el hostigamiento o el acoso sexual, además se le sancionará con la destitución e inhabilitación de uno a cuatro años para desempeñar cualquier empleo, cargo o comisión públicos.
 
 > <small>(REFORMADO, P.O. 8 DE MAYO DE 2017)</small>
 
@@ -4093,13 +4095,21 @@ ARTICULO 279 QUINQUIES.- En la comisión de los delitos que prevén los Capítul
 
 Comete el delito a que se refiere este capítulo, el que con el fin de alterar el estado civil incurra en alguno de los casos siguientes:
 
-I.- Atribuir un niño recién nacido a mujer que no sea realmente su madre;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2026)</small>
 
-II.- Hacer registrar en las oficinas del estado civil un nacimiento no verificado; o atribuir la paternidad del nacido a personas distintas de las verdaderas;
+I.- Atribuir una persona recién nacida a mujer que no sea realmente su madre;
 
-III.- A los padres que no presenten a un hijo suyo al Registro con el propósito de hacerle perder su estado civil, o que declaren falsamente su fallecimiento o lo presenten ocultando sus nombres o suponiendo que los padres son otras personas;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2026)</small>
 
-IV.- A los que substituyan a un niño por otro, o cometan ocultación de infante; y
+II.- Hacer registrar en las oficinas del estado civil un nacimiento no verificado; o atribuir la paternidad de la persona recién nacida a personas distintas de las verdaderas;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2026)</small>
+
+III.- A los padres que no presenten a un descendiente suyo al Registro con el propósito de hacerle perder su estado civil, o que declaren falsamente su fallecimiento o lo presenten ocultando sus nombres o suponiendo que los padres son otras personas;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2026)</small>
+
+IV.- A los que sustituyan a una persona menor de edad por otro, o cometan ocultación de infante; y
 
 V.- Al que usurpe el estado civil de otro con el fin de adquirir derechos de familia que no le corresponden.
 
@@ -4171,7 +4181,7 @@ Cuando la víctima sea menor de edad, la conducta siempre será entendida como t
 
 ### CAPITULO VI. ABANDONO DE OBLIGACIONES ALIMENTICIAS
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2026)</small>
 
 ###### ARTICULO 292.
 
@@ -4183,9 +4193,11 @@ Comete el delito a que se refiere este capítulo el que exponga en una casa de e
 
 A los responsables del delito de exposición de menores se les impondrá una sanción de tres días a un año de prisión y multa de dos a treinta veces el valor diario de la Unidad de Medida y Actualización.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2026)</small>
+
 ###### ARTICULO 294.
 
-Los parientes o tutores que entreguen en una casa de expósitos a un niño que está bajo su potestad o custodia, perderá por ese sólo hecho los derechos que tenga sobre la persona y bienes del expósito.
+Los parientes o tutores que entreguen en una casa de expósitos a una persona que esté bajo su potestad o custodia, perderán por ese solo hecho los derechos que tenga sobre la persona y bienes del expósito.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -4195,7 +4207,7 @@ Los parientes o tutores que entreguen en una casa de expósitos a un niño que e
 
 ###### ARTICULO 295.
 
-Comete el delito de abandono de obligaciones alimenticias el que sin motivo justificado deje de proporcionar a su madre, padre, su cónyuge, concubina o concubinario, o a sus hijas o hijos menores de dieciocho años y cuando alcancen su mayoría de edad y se encuentren realizando estudios, conservarán el derecho a recibirlos, hasta el término de su carrera profesional u obtener el título, los medios económicos o recursos necesarios para atender las necesidades de subsistencia.
+Comete el delito de abandono de obligaciones alimenticias el que sin motivo justificado deje de proporcionar a su cónyuge, concubina o concubinario, o a sus descendientes, o a quienes está obligado a dotar los medios económicos o recursos necesarios para atender las necesidades de subsistencia.
 
 (NOTA: EL 1 DE MARZO DE 2022, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VI Y VII, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 60/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 5 DE MARZO DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO LXIV-492, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -4229,11 +4241,11 @@ Si no se puede determinar el monto del ingreso económico del obligado, pero not
 
 Una vez que el sentenciado cumpla con la reparación del daño, el Juez a petición de parte deberá ordenar al Registro Civil la cancelación de la inscripción.
 
-> <small>(REFORMADO, P.O. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2026)</small>
 
 ###### ARTICULO 297.
 
-La sanción establecida en el artículo anterior, se aumentará hasta en una mitad al que dolosamente se coloque en estado de insolvencia o renuncie a su empleo con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina para sus hijos o cónyuge; igualmente cuando les prive de los beneficios de atención médica, hospitalaria y medicinas a que tengan derecho con motivo de la realización de trabajo del obligado.
+La sanción establecida en el artículo anterior, se aumentará hasta en una mitad al que dolosamente se coloque en estado de insolvencia o renuncie a su empleo con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina para su cónyuge, concubina o concubinario, o para sus descendientes, o a quienes estuviere obligado a dotar; igualmente cuando les prive de los beneficios de atención médica, hospitalaria y medicinas a que tengan derecho con motivo de la realización de trabajo del obligado.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2003)</small>
 
@@ -4597,9 +4609,21 @@ Al que ejerciendo la patria potestad o la tutela infiera lesiones a los menores 
 
 > <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2008)</small>
 
-###### ARTICULO 328 Bis.
+ARTICULO 328 BIS.- Los propietarios o poseedores de animales que causen lesiones o muerte a personas, serán responsables a título de culpa. Si fueren a consecuencia de su acción, el delito se considerará doloso.
 
-Los propietarios o poseedores de animales que causen lesiones o muerte a personas, serán responsables a título de culpa. Si fueren a consecuencia de su acción, el delito se considerará doloso.
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2026)</small>
+
+ARTICULO 328 BIS 1.- Se impondrán de siete a quince años de prisión y de trescientos a setecientos días multa, a quien por sí o por interpósita persona infiera lesión o lesiones a otra persona, utilizando para ello cualquier tipo de ácido, álcali, agente o sustancia corrosiva, cáustica, irritante, tóxica o inflamable. Se entenderá por lesión lo establecido en el presente Código.
+
+Cuando la lesión o lesiones afecten la cara, el cuello, el brazo, la mano o los órganos sexuales de la víctima, la pena se aumentará hasta en un tercio, en su mínimo y en su máximo.
+
+Cuando la víctima sea una mujer, persona con discapacidad o menor de edad, la pena se aumentará hasta en una mitad, en su mínimo y en su máximo.
+
+Si la lesión o lesiones afectan órganos o funciones vitales, ponen en peligro la vida o afectan más de la mitad del cuerpo, se estará a la punibilidad prevista para el homicidio o el feminicidio, en grado de tentativa, según corresponda.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2026)</small>
+
+ARTICULO 328 BIS 2.- Las Instituciones de Salud deberán notificar al Ministerio Público de todos los casos de lesiones provocadas por ataques con ácido, así como por sustancias químicas, corrosivas o cualquier otra sustancia que cause lesiones.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE MAYO DE 2015)</small>
 
@@ -4757,9 +4781,9 @@ ARTICULO 337 BIS.- Comete el delito de feminicidio quien prive de la vida a una 
 
 I.- La víctima presente signos de violencia sexual de cualquier tipo;
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2026)</small>
 
-II.- El cuerpo o los restos de la víctima presenten heridas, traumatismos, escoriaciones, contusiones, decapitamiento, desollamiento, fracturas, dislocaciones, cortes, quemaduras, signos de asfixia, estrangulamiento, tortura, desmembramiento de partes del cuerpo o cualquier tipo de lesiones o mutilaciones, internas o externas, infamantes o degradantes, previas o posteriores a la privación de la vida o actos de necrofilia;
+II.- El cuerpo o los restos de la víctima presenten heridas, traumatismos, escoriaciones, contusiones, decapitamiento, desollamiento, fracturas, dislocaciones, cortes, quemaduras, laceraciones químicas ocasionadas por ácido o sustancia corrosiva, cáustica, irritante, tóxica o inflamable, signos de asfixia, estrangulamiento, tortura, desmembramiento de partes del cuerpo o cualquier tipo de lesiones o mutilaciones, internas o externas, infamantes o degradantes, previas o posteriores a la privación de la vida o actos de necrofilia;
 
 > <small>(REFORMADA, P.O. 13 DE JUNIO DE 2023)</small>
 
@@ -5365,11 +5389,7 @@ En los casos en que no se cuente con servicios psicológicos o psiquiátricos, e
 
 ### CAPITULO I BIS. PRIVACION DE LA LIBERTAD CON FINES SEXUALES
 
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
-
-ARTICULO 390 BIS.- Al que prive a otro de su libertad, con el propósito de realizar un acto sexual, se le impondrá una sanción de uno a cinco años de prisión.
-
-Este delito se perseguirá por querella de la parte ofendida.
+ARTICULO 390 BIS.- (DEROGADO, P.O. 27 DE FEBRERO DE 2026)
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE OCTUBRE DE 2020)</small>
 
@@ -5463,7 +5483,9 @@ ARTICULO 392 TER.- (DEROGADO, P.O. 23 DE OCTUBRE DE 2018)
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-### CAPITULO II. ABUSO DE CONFIANZA
+### CAPÍTULO I BIS. ABIGEATO
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2026)</small>
 
 ###### ARTICULO 394.
 
@@ -5489,7 +5511,7 @@ ARTICULO 392 TER.- (DEROGADO, P.O. 23 DE OCTUBRE DE 2018)
 
 ## TITULO DECIMO NOVENO. DELITOS CONTRA EL PATRIMONIO DE LAS PERSONAS
 
-### CAPITULO III. FRAUDE
+### CAPITULO II. ABUSO DE CONFIANZA
 
 ###### ARTICULO 399.
 
@@ -5681,47 +5703,183 @@ Al responsable del apoderamiento o destrucción de expedientes o cualquier pieza
 
 Cuando el apoderamiento se cometa en despoblado recayendo sobre algún instrumento de labranza, maquinaria, del alambre, postes, materiales, materias primas, fruto recolectado o pendiente de recolectar, la pena se agravará hasta en una mitad más de la señalada en el artículo 402 fracciones I, II y III, según el valor de lo robado.
 
-> <small>(REFORMADO, P.O. 30 DE ENERO DE 1999)</small>
-
 ###### ARTICULO 410.
 
-El apoderamiento de uno o más semovientes, además de lo dispuesto en las fracciones I, II y III del Artículo 402, se sancionará con prisión de tres a doce años si se realiza sobre una o más cabezas de ganado asnal, mular, caballar, o vacuno, y hasta siete años, cuando se trate de una o más cabezas de ganado caprino, ovino o porcino.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 27 DE FEBRERO DE 2026)
 
 ###### ARTICULO 411.
 
-Se impondrá sanción de tres a ocho años de prisión y multa de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización en los siguientes casos:
-
-I.- El hecho de herrar, señalar o marcar animales, sin tomar las medidas necesarias para cerciorarse de su legítima procedencia; alterar o eliminar los fierros, marcas o señales que sirvan para acreditar la propiedad del ganado;
-
-> <small>(REFORMADA, P.O. 27 DE MARZO DE 1993)</small>
-
-II.- Comerciar, servir de intermediario, poseer, transportar, ministrar, aprovechar o adquirir uno o más animales en pie o sacrificados, o parte de ellos, de las especies mencionadas en el Artículo 410, que resulten robadas, sin tomar las medidas necesarias para cerciorarse de su legítima procedencia.
-
-III.- Las autoridades o a quienes intervengan en la legalización de documentos con el objeto de acreditar la propiedad de uno o varios semovientes, si no tomaren las medidas indispensables para cerciorarse de la procedencia legítima del animal;
-
-IV.- A los inspectores de pieles y ganado, así como a los administradores o encargados de rastros o lugares de matanza, que permitan el sacrificio de ganado, sin cerciorarse de su legítima propiedad y procedencia;
-
-V.- A los inspectores de ganadería que permitan ganado en tránsito sin la documentación que compruebe su propiedad y traslado, dejando de revisar los fierros, marcas y señales que debe ostentar el ganado, según lo establezca la factura que ampare cada animal.
-
-Estas disposiciones se aplicarán sólo cuando se acredite que los semovientes fueren robados.
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+(DEROGADO, P.O. 27 DE FEBRERO DE 2026)
 
 ###### ARTICULO 412.
 
-Al que use para los fines que están destinados las señales, marcas o fierros de ganado registrados a nombre de un tercero, sin consentimiento de éste, se le impondrá la sanción de uno a dos años de prisión y multa de treinta a cuarenta veces el valor diario de la Unidad de Medida y Actualización, con independencia de las sanciones que le correspondan por el delito que cometa.
+(DEROGADO, P.O. 27 DE FEBRERO DE 2026)
 
 ###### ARTICULO 413.
 
 No se impondrá sanción al que sin emplear engaños ni medios violentos, se apodere por una sola vez de los objetos indispensables para satisfacer sus necesidades personales o familiares del momento.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2026)</small>
+
+### CAPITULO III. FRAUDE
+
+###### ARTÍCULO 413 Bis.
+
+Comete el delito de abigeato:
+
+I.- Quien por sí o por interpósita persona se apodere de una o más cabezas de ganado ajeno, cualquiera que sea su especie, independientemente del lugar en el que se encuentren, sin consentimiento de quien legalmente pueda disponer de ellas conforme a la ley; y
+
+II.- Quien por sí o por interpósita persona se apodere de una o más cabezas de ganado propio, cualquiera que sea su especie, que se hallen en el poder de otro, en virtud de una relación contractual o por mandato de autoridad, en la medida que ello afecte el patrimonio de quien las detente.
+
+Para efectos de este delito, el ganado se divide en dos grupos:
+
+a).- Ganado mayor: Comprende las especies bovinos (comprende vacas, toros y bueyes), equinos (comprende caballos, yeguas, mulas y burros) y el búfalo; y
+
+b).- Ganado menor: Comprende las especies ovina, caprina, porcina, cunícola (conejos), apícola (comprende una o más colonias de abejas de un apiario), avícola (comprende gallinas, patos, codornices, avestruces, etc.), acuícola (comprende peces de agua dulce, de agua fría y los que comprenden según su familia o tipo) y otras especies domesticadas o bravas, que constituyan una explotación zootécnica.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2026)</small>
+
+###### ARTÍCULO 413 Ter.
+
+El abigeato de ganado mayor se sancionará conforme a las siguientes reglas:
+
+I.- Si fuera una o dos cabezas, se aplicará prisión de dos a cuatro años y multa de treinta a cien veces el valor diario de la Unidad de Medida y Actualización;
+
+II.- Tratándose de tres a cinco cabezas, se aplicará prisión de cuatro a nueve años y multa de cien a trescientas veces el valor diario de la Unidad de Medida y Actualización; y
+
+III.- Cuando el número de cabezas fuera mayor de seis, se aplicará prisión de seis a doce años y multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización.
+
+El abigeato de ganado menor, se sancionará conforme a las siguientes reglas:
+
+I.- Si fuera de una o dos cabezas, se aplicará prisión de seis meses a dos años y multa de veinte a cien veces el valor diario de la Unidad de Medida y Actualización;
+
+II.- Si fueran de tres a seis cabezas, se aplicará prisión de dos a cinco años y multa de treinta a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización; y
+
+III.- Si excedieran de seis cabezas, se aplicará prisión de tres a ocho años y multa de cincuenta a doscientas veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2026)</small>
+
+###### ARTÍCULO 413 Quater.
+
+El abigeato será calificado cuando se cometa una o más de las siguientes agravantes:
+
+I.- Cuando se ejerza violencia física sometiendo al legítimo poseedor o la persona que se encuentre encargada de la vigilancia de la o las cabezas de ganado, para hacerse del ganado ajeno o darse a la fuga, ya sea a través de armas de fuego o cualquier otro recurso o instrumento que dañe su integridad física;
+
+II.- Cuando se ejerza violencia moral sobre el legítimo poseedor o la persona que se encuentre encargada de la vigilancia de la o las cabezas de ganado, a través de amenazas, intimidaciones y presiones para hacerse del ganado ajeno o darse a la fuga;
+
+III.- Cuando los responsables actúen en grupos de dos o más personas, en asociación delictuosa, banda o pandilla, que se hallen reunidos para ese fin o sea de forma ocasional;
+
+IV.- Cuando sea cometido por quien tenga una relación laboral, o de parentesco por consanguinidad o afinidad hasta el cuarto grado con el propietario del ganado;
+
+V.- Cuando el responsable sea un servidor público en funciones relacionadas con el sector ganadero o instituciones policiales, de seguridad pública y de procuración de justicia, sus subalternos o personal dependiente de ellos, y ejecute alguna de las conductas señaladas en el presente capitulo;
+
+VI.- Cuando se autorice en rastros oficiales o lugares de matanza el sacrificio de ganado producto del abigeato bajo conocimiento de las circunstancias;
+
+VII.- Cuando sea cometido en horarios nocturnos;
+
+VIII.- Cuando se generen daños a la propiedad donde se resguarda el ganado;
+
+IX.- Cuando el sujeto activo tenga corrales construidos exprofesamente para el encierro del ganado producto del abigeato, sea en zona urbana o en campo despoblado;
+
+X.- Cuando el sujeto activo tenga vehículos acondicionados para ocultar la movilización del ganado producto del abigeato, y cuente con vehículos de transporte público o privado, exprofeso para movilizar con discreción y ocultamiento el producto del abigeato;
+
+XI.- Cuando el sujeto activo posea bodegas, refrigeradores o un lugar destinado para transformar el producto del abigeato o de sus vestigios identificables; y
+
+XII.- Cuando la afectación patrimonial producida sea el equivalente al valor del veinte por ciento o más de los animales propiedad de la víctima.
+
+Cuando se ejecuten estas circunstancias o agravantes, se aumentará en una tercera parte el mínimo y hasta dos terceras partes del máximo de las penas de prisión, previstas para el delito de abigeato de ganado mayor o menor a que se refieren las diversas fracciones que se establecen en el artículo 413 Ter, incluyendo las multas.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2026)</small>
+
+###### ARTÍCULO 413 Quinquies.
+
+Comete el delito de abigeato equiparado quien ejecute o cometa una o más de las siguientes acciones:
+
+I.- Cuando se desfigure, altere o borre o eliminen las marcas o señales de identificación del ganado mayor o menor, con ánimo de apropiación;
+
+II.- Cuando hierre, señale animales ajenos, destruya o modifique los fierros, marcas o señales, que sirvan para acreditar la propiedad de aquellos;
+
+III.- Marque o señale, en campo ajeno o propio, ganado perteneciente a un tercero, sin autorización de este;
+
+IV.- Expida u otorgue facturas, documentos o guías falsos simulando ventas o pretenda acreditar una propiedad inexistente, para efectuar cualquier negociación sobre ganado;
+
+V.- Adquiera, venda, tenga en su poder, transporte o sacrifique ganado materia de un delito de abigeato, sabiendo su procedencia ilícita;
+
+VI.- Traslade, comercie, enajene o trafique de cualquier manera, pieles o cueros robados, que tuvieren borradas o alteradas la marca, fierro o huella, de un lugar a otro del Estado, a otra Entidad Federativa, o al extranjero;
+
+VII.- Detente, posea, custodie, altere o modifique de cualquier manera, la documentación que acredite la propiedad o identificación de un animal o animales robados, o sus productos;
+
+VIII.- Teniendo el carácter de servidor público, en ejecución de sus funciones o aprovechándose de su cargo, participe, encubra, permita, tolere o autorice la ejecución de cualquiera de las conductas señaladas en este capítulo;
+
+IX.- Aporte recursos económicos o de cualquier especie, o colabore de cualquier manera al financiamiento, supervisión o fomento para posibilitar la ejecución de alguno de los delitos a que se refiere este capítulo;
+
+X.- Al que transporte una o más cabezas de ganado mayor o menor ajeno, sin derecho y sin consentimiento del propietario;
+
+XI.- Comercie, enajene o trafique de cualquier manera, una o más cabezas de ganado mayor o menor ajeno, sin derecho y sin consentimiento del propietario;
+
+XII.- AI (sic) quien realice matanza de animales en lugares de sacrificio, rastros o en cualquier otro lugar obtenido mediante el delito de abigeato o sin la autorización de la autoridad que corresponda;
+
+XIII.- Permita, consienta o tolere, siendo administrador, o encargado de algún rastro, lugar de matanza o en cualquier otro lugar, el sacrifico (sic), de ganado producto del abigeato o sin la autorización de la autoridad que corresponda;
+
+XIV.- Introduzcan, transporten, auxilien o documenten ganado procedente de otro país, sin contar con la documentación que acredite la legal procedencia;
+
+XV.- Reciba, ministre, aproveche, o realice actos de intermediario en el comercio de animales producto del abigeato;
+
+XVI.- Legalice o intervenga en la realización, de documentos para acreditar la propiedad o posesión de animales producto del abigeato;
+
+XVII.- El que movilice ganado de un municipio a otro, o introduzca al Estado, cualquiera que sea la forma, sin la documentación que acredite su legal procedencia, trazabilidad o permiso de introducción expedido por la autoridad competente;
+
+XVIII.- El que comercie, detente, enajene, trafique o almacene aretes del Sistema Nacional de Identificación Individual de Ganado, sin que acredite su legal procedencia, uso o la autorización de la institución correspondiente;
+
+XIX.- El que arete animales ajenos o modifique aretes del Sistema Nacional de Identificación Individual de Ganado, con el fin de apropiarse del semoviente u obtener un beneficio; y
+
+XX.- El que movilice sin justificación ganado declarado en cuarentena por autoridad agropecuaria competente, con el fin de comercializarlo.
+
+Al responsable del delito de abigeato equiparado se le impondrá una pena de cinco a ocho años de prisión y multa de cien a quinientas veces el valor diario de la Unidad de Medida y Actualización.
+
+En el supuesto que se describe en la fracción VIII del presente artículo, al servidor público, además de la sanción impuesta, se le destituirá del cargo y se le inhabilitará de cinco a ocho años, según la pena impuesta, para el desempeño de cualquier cargo, empleo o comisión.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2026)</small>
+
+###### ARTÍCULO 413 Sexies.
+
+Comete el delito de encubrimiento de abigeato, quien ejecute alguna de las conductas a que se refiere el artículo 439 de este Código Penal vigente en el Estado.
+
+Al responsable del delito de encubrimiento se le aplicarán las penas previstas en los artículos 440 y 441 de este Código, según corresponda.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2026)</small>
+
+###### ARTÍCULO 413 Septies.
+
+Comete el delito de robo de instrumentos de labranza o de equipo apícola o de los productos que se obtengan del resultado de la polinización de las abejas (miel, polen, propóleo, jalea real y cera), quien se apodere de cualquiera de ellos, en el lugar en que respectivamente se empleen los dos primeros o se produzcan los últimos, estén pendientes de recolectar o ya recolectados.
+
+Al responsable de este delito, se le impondrán las penas que correspondan según el caso y que se precisan a continuación:
+
+I.- Con multa de una a cincuenta Unidades de Medida y Actualización, si el importe de los instrumentos, equipos o productos derivados que sean robados no excede de la suma de diez Unidades de Medida y Actualización;
+
+II.- Con multa de cinco a cien Unidades de Medida y Actualización, si el importe de lo robado excede de la suma de diez Unidades de Medida y Actualización, pero no de cien;
+
+III.- Con prisión de dos a cuatro años y multa de cincuenta a doscientas Unidades de Medida y Actualización, si el importe de lo robado excede del valor de cien Unidades de Medida y Actualización pero no de trescientas; y
+
+IV.- Con prisión de tres a ocho años y multa de ciento cincuenta a cuatrocientas Unidades de Medida y Actualización, si el importe de lo robado excede de trescientas Unidades de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2026)</small>
+
+###### ARTÍCULO 413 Octies.
+
+Tratándose del delito de abigeato, cuando se demuestre plenamente que quien se apodere por primera vez de una sola cabeza de ganado y la emplee para su alimentación o la de su familia, se le impondrá una multa de cinco a cien Unidades de Medida y Actualización, o en su caso, el pago equivalente al valor comercial del bien.
+
+Para la aplicación de las sanciones previstas en los artículos 413 Septies y 413 Octies de este Código, las juezas, jueces y tribunales tendrán en cuenta, además de las reglas previstas para dichos artículos, la importancia del daño causado, en relación con las condiciones económicas del ofendido.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2026)</small>
+
+###### ARTÍCULO 413 Nonies.
+
+A quien incurra en forma reincidente o en habitualidad en las conductas tipificadas como delito en el presente Capítulo, además de la pena que le corresponda aplicar por el delito cometido, se le aumentará hasta en una mitad más de la pena marcada según el caso.
+
 ### CAPITULO IV. USURA
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
-
-### CAPITULO V. CHANTAJE
 
 ###### ARTICULO 414.
 
@@ -5753,9 +5911,7 @@ II.- Cuando el depositario judicial o el designado por o ante las autoridades ad
 
 III.- Cuando una persona haga aparecer como suyo un depósito que garantice la libertad caucional de un procesado y del cual no le corresponda la propiedad.
 
-### CAPITULO VI. EXTORSION
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2025)</small>
+### CAPITULO V. CHANTAJE
 
 ###### ARTICULO 417.
 
@@ -5849,7 +6005,9 @@ ARTICULO 421 BIS.- Comete el delito de fraude familiar, la persona que en detrim
 
 ARTICULO 421 TER.- Al responsable del delito de fraude familiar se le impondrá sanción de uno a cinco años de prisión y hasta trescientos días multa.
 
-### CAPITULO VII. DESPOJO DE COSAS INMUEBLES O DE AGUAS
+### CAPITULO VI. EXTORSION
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 422.
 
@@ -5865,9 +6023,7 @@ Al responsable del delito previsto en el artículo anterior se le impondrá de s
 
 Igual sanción se aplicará al que procurase un préstamo cualquiera cobrando una comisión evidentemente desproporcionada para sí o para otro.
 
-### CAPITULO VIII. DAÑO EN PROPIEDAD
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+### CAPITULO VII. DESPOJO DE COSAS INMUEBLES O DE AGUAS
 
 ###### ARTICULO 424.
 
@@ -5877,7 +6033,9 @@ Comete el delito de chantaje, el que con ánimo de conseguir un lucro o provecho
 
 Al responsable del delito de chantaje se le impondrá una sanción de dos a ocho años de prisión.
 
-### CAPITULO IX. REGLAS COMUNES PARA LOS CAPITULOS PRECEDENTES
+### CAPITULO VIII. DAÑO EN PROPIEDAD
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTÍCULO 426.
 
@@ -5937,7 +6095,7 @@ Se equipara al delito de extorsión y se sancionará con las mismas penas al que
 
 Se equipara al delito de extorsión y se sancionará con las mismas penas al que utilice programas informáticos maliciosos, en este caso malware, que impiden a que un usuario acceda a su sistema operativo o algún (os) archivo (os) personal (es), para después solicitar un rescate para acceder de nuevo a ellos y que ocasione la retención de datos personales, financieros o de propiedad intelectual y para devolvérselos a la víctima, esta tenga que realizar un pago, o realizar alguna acción en contra de su voluntad, siendo esto un lucro o beneficio a favor de su victimario.
 
-### CAPITULO I. ENCUBRIMIENTO
+### CAPITULO IX. REGLAS COMUNES PARA LOS CAPITULOS PRECEDENTES
 
 ###### ARTICULO 427.
 
@@ -5989,33 +6147,7 @@ III.- Cuando el despojo se realice sobre terreno de labor preparado para siembra
 
 Cuando la ocupación se haya efectuado sin violencia y el o los ocupantes voluntariamente restituyan al poseedor en el goce de su derecho, antes que el Ministerio Público ejerza la acción persecutoria, no se impondrá sanción alguna, si no hubieren cometido algún hecho delictivo diverso al realizar la ocupación o durante la misma.
 
-### CAPITULO II. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
-
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
-
-ARTICULO 443 BIS.- Se le impondrá una sanción de cinco a quince años de prisión y multa de mil a cinco mil veces el valor diario de la Unidad de Medida y Actualización, al que por sí o por interpósita persona realice cualquiera de las siguientes conductas:
-
-I.- Adquiera, enajene, administre, custodie, posea, cambie, convierta, deposite, retire, dé o reciba por cualquier motivo, invierta, traspase, transporte o transfiera dentro del territorio estatal de éste hacia otro Estado o a la inversa, recursos, derechos, valores o bienes de cualquier naturaleza, cuando tenga conocimiento de que proceden o representan el producto de una actividad ilícita, u
-
-II.- Oculte, encubra o pretenda ocultar o encubrir la naturaleza, origen, ubicación, destino, movimiento, propiedad o titularidad de recursos, derechos o bienes, cuando tenga conocimiento de que proceden o representan el producto de una actividad ilícita.
-
-Para efectos de este Capítulo, se entenderá que son producto de una actividad ilícita, los recursos, derechos o bienes de cualquier naturaleza, cuando existan indicios fundados o certeza de que provienen directa o indirectamente, o representan las ganancias derivadas de la comisión de algún delito y no pueda acreditarse su legítima procedencia.
-
-Cuando la Unidad Especializada de Inteligencia Patrimonial y Económica, en ejercicio de sus facultades y atribuciones, encuentre elementos que permitan presumir la comisión de alguno de los delitos referidos en este Capítulo, deberá denunciar los hechos que probablemente puedan constituir dichos ilícitos.
-
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
-
-ARTICULO 443 BIS I.- La penas previstas en este Capítulo se aumentarán desde un tercio hasta en una mitad, cuando el que realice cualquiera de las conductas previstas en el artículo 443 Bis de este Código tiene el carácter de consejero, administrador, funcionario, empleado, apoderado o prestador de servicios de cualquier persona sujeta al régimen de prevención de operaciones con recursos de procedencia ilícita, o las realice dentro de los dos años siguientes de haberse separado de alguno de dichos cargos.
-
-Además, se les impondrá inhabilitación para desempeñar empleo, cargo o comisión en personas morales sujetas al régimen de prevención hasta por un tiempo igual al de la pena de prisión impuesta. La inhabilitación comenzará a correr a partir de que se haya cumplido la pena de prisión.
-
-Las penas previstas en este Capítulo se duplicarán, si la conducta es cometida por servidores públicos encargados de prevenir, detectar, denunciar, investigar o juzgar la comisión de delitos o ejecutar las sanciones penales, así como a los ex servidores públicos encargados de tales funciones que cometan dicha conducta en los dos años posteriores a su terminación.
-
-Además, se les impondrá inhabilitación para desempeñar empleo, cargo o comisión hasta por un tiempo igual al de la pena de prisión impuesta. La inhabilitación comenzará a correr a partir de que se haya cumplido la pena de prisión.
-
-Asimismo, las penas previstas en este Capítulo se aumentarán hasta en una mitad si quien realice cualquiera de las conductas previstas en el artículo 443 Bis, fracciones I y II, utiliza a personas menores de dieciocho años de edad o personas que no tienen capacidad para comprender el significado del hecho o que no tienen capacidad para resistirlo.
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE ABRIL DE 2017)</small>
+### CAPITULO I. ENCUBRIMIENTO
 
 ###### ARTICULO 433.
 
@@ -6045,21 +6177,33 @@ III.- El daño se cauce para evadir la persecución o desempeño de las fuerzas 
 
 Si además de los daños resulta consumado algún otro delito se observarán las reglas del concurso.
 
-### CAPITULO III. ENCUBRIMIENTO POR RECEPTACION
+### CAPITULO II. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
+
+ARTICULO 443 BIS.- Se le impondrá una sanción de cinco a quince años de prisión y multa de mil a cinco mil veces el valor diario de la Unidad de Medida y Actualización, al que por sí o por interpósita persona realice cualquiera de las siguientes conductas:
+
+I.- Adquiera, enajene, administre, custodie, posea, cambie, convierta, deposite, retire, dé o reciba por cualquier motivo, invierta, traspase, transporte o transfiera dentro del territorio estatal de éste hacia otro Estado o a la inversa, recursos, derechos, valores o bienes de cualquier naturaleza, cuando tenga conocimiento de que proceden o representan el producto de una actividad ilícita, u
+
+II.- Oculte, encubra o pretenda ocultar o encubrir la naturaleza, origen, ubicación, destino, movimiento, propiedad o titularidad de recursos, derechos o bienes, cuando tenga conocimiento de que proceden o representan el producto de una actividad ilícita.
+
+Para efectos de este Capítulo, se entenderá que son producto de una actividad ilícita, los recursos, derechos o bienes de cualquier naturaleza, cuando existan indicios fundados o certeza de que provienen directa o indirectamente, o representan las ganancias derivadas de la comisión de algún delito y no pueda acreditarse su legítima procedencia.
+
+Cuando la Unidad Especializada de Inteligencia Patrimonial y Económica, en ejercicio de sus facultades y atribuciones, encuentre elementos que permitan presumir la comisión de alguno de los delitos referidos en este Capítulo, deberá denunciar los hechos que probablemente puedan constituir dichos ilícitos.
 
 > <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
 
-ARTICULO 443 TER.- Se impondrá una sanción de dos a siete años de prisión, y de cincuenta a ciento veinte veces el valor diario de la Unidad de Medida y Actualización, a quien después de la ejecución de un delito y sin haber participado en él, adquiera, posea, desmantele, venda, enajene, comercialice, trafique, pignore, reciba, traslade, use u oculte el o los instrumentos, objetos o productos de aquél, con conocimiento de esta circunstancia, si el valor de cambio no excede de quinientas veces la Unidad de Medida y Actualización vigente en la época de los hechos.
+ARTICULO 443 BIS I.- La penas previstas en este Capítulo se aumentarán desde un tercio hasta en una mitad, cuando el que realice cualquiera de las conductas previstas en el artículo 443 Bis de este Código tiene el carácter de consejero, administrador, funcionario, empleado, apoderado o prestador de servicios de cualquier persona sujeta al régimen de prevención de operaciones con recursos de procedencia ilícita, o las realice dentro de los dos años siguientes de haberse separado de alguno de dichos cargos.
 
-Si el valor de éstos es superior a quinientas veces la Unidad de Medida y Actualización vigente en la época de los hechos, se impondrá una sanción de cinco a diez años de prisión y de doscientos a mil quinientas veces el valor diario de la Unidad de Medida y Actualización.
+Además, se les impondrá inhabilitación para desempeñar empleo, cargo o comisión en personas morales sujetas al régimen de prevención hasta por un tiempo igual al de la pena de prisión impuesta. La inhabilitación comenzará a correr a partir de que se haya cumplido la pena de prisión.
 
-Cuando el o los instrumentos, objetos o productos de un delito se relacionan con el giro comercial del tenedor o receptor, si éste es comerciante o sin serlo se encuentra en posesión de dos o más de los mismos, se tendrá por acreditado que existe conocimiento de que proviene o provienen de un ilícito.
+Las penas previstas en este Capítulo se duplicarán, si la conducta es cometida por servidores públicos encargados de prevenir, detectar, denunciar, investigar o juzgar la comisión de delitos o ejecutar las sanciones penales, así como a los ex servidores públicos encargados de tales funciones que cometan dicha conducta en los dos años posteriores a su terminación.
 
-Si el que recibió en venta, prenda o bajo cualquier otro concepto el instrumento, objeto o producto de un delito, después de su ejecución, sin haber participado en él y no adoptó las precauciones indispensables para cerciorarse de su procedencia o para asegurarse de que la persona de quien la recibió tenía derecho para disponer de ella, se le impondrán las penas previstas en el primer párrafo de este artículo, en la proporción correspondiente al delito culposo.
+Además, se les impondrá inhabilitación para desempeñar empleo, cargo o comisión hasta por un tiempo igual al de la pena de prisión impuesta. La inhabilitación comenzará a correr a partir de que se haya cumplido la pena de prisión.
 
-En ningún caso podrá imponerse pena privativa de libertad que exceda del máximo que la ley señale al delito encubierto.
+Asimismo, las penas previstas en este Capítulo se aumentarán hasta en una mitad si quien realice cualquiera de las conductas previstas en el artículo 443 Bis, fracciones I y II, utiliza a personas menores de dieciocho años de edad o personas que no tienen capacidad para comprender el significado del hecho o que no tienen capacidad para resistirlo.
 
-> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE ABRIL DE 2017)</small>
 
 ###### ARTICULO 437.
 
@@ -6075,7 +6219,21 @@ Los delitos de abuso de confianza, fraude, fraude laboral, despojo de cosas inmu
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-### CAPÍTULO ÚNICO
+### CAPITULO III. ENCUBRIMIENTO POR RECEPTACION
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
+
+ARTICULO 443 TER.- Se impondrá una sanción de dos a siete años de prisión, y de cincuenta a ciento veinte veces el valor diario de la Unidad de Medida y Actualización, a quien después de la ejecución de un delito y sin haber participado en él, adquiera, posea, desmantele, venda, enajene, comercialice, trafique, pignore, reciba, traslade, use u oculte el o los instrumentos, objetos o productos de aquél, con conocimiento de esta circunstancia, si el valor de cambio no excede de quinientas veces la Unidad de Medida y Actualización vigente en la época de los hechos.
+
+Si el valor de éstos es superior a quinientas veces la Unidad de Medida y Actualización vigente en la época de los hechos, se impondrá una sanción de cinco a diez años de prisión y de doscientos a mil quinientas veces el valor diario de la Unidad de Medida y Actualización.
+
+Cuando el o los instrumentos, objetos o productos de un delito se relacionan con el giro comercial del tenedor o receptor, si éste es comerciante o sin serlo se encuentra en posesión de dos o más de los mismos, se tendrá por acreditado que existe conocimiento de que proviene o provienen de un ilícito.
+
+Si el que recibió en venta, prenda o bajo cualquier otro concepto el instrumento, objeto o producto de un delito, después de su ejecución, sin haber participado en él y no adoptó las precauciones indispensables para cerciorarse de su procedencia o para asegurarse de que la persona de quien la recibió tenía derecho para disponer de ella, se le impondrán las penas previstas en el primer párrafo de este artículo, en la proporción correspondiente al delito culposo.
+
+En ningún caso podrá imponerse pena privativa de libertad que exceda del máximo que la ley señale al delito encubierto.
+
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 439.
 
@@ -6129,19 +6287,17 @@ III.- Los que estén ligados con la persona acusada por respeto, gratitud, estre
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
+### CAPÍTULO ÚNICO
+
 ### CAPITULO UNICO. DELITOS COMETIDOS POR FRACCIONADORES
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2008)</small>
-
-### CAPITULO I. DAÑO AL MEDIO AMBIENTE
-
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
 ## TÍTULO VIGÉSIMO PRIMERO
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2015)</small>
 
-### CAPITULO II. DELITO DE INCENDIOS
+### CAPITULO I. DAÑO AL MEDIO AMBIENTE
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -6191,7 +6347,7 @@ III.- Los que estén ligados con la persona acusada por respeto, gratitud, estre
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 2008)</small>
 
-### CAPITULO III. CONTAMINACION DE AGUAS
+### CAPITULO II. DELITO DE INCENDIOS
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -6275,9 +6431,9 @@ Los responsables de los delitos contenidos en el presente Capítulo por haber ac
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
 
-### CAPITULO IV. SUBSTRACCION DEL SUELO
+### CAPITULO III. CONTAMINACION DE AGUAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 459.
 
@@ -6327,9 +6483,9 @@ III. Con motivo de auditorías, visitas de verificación o inspección, prevista
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
 
-### CAPITULO V. PRIVACION DE LA VIDA, MALTRATO O CRUELDAD ANIMAL
+### CAPITULO IV. SUBSTRACCION DEL SUELO
 
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 462.
 
@@ -6363,9 +6519,9 @@ Cuando se afecte un área igual o mayor a cinco hectáreas, o recursos forestale
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
 
-### CAPITULO VI. DISPOSICIONES COMUNES A LOS CAPITULOS PRECEDENTES
+### CAPITULO V. PRIVACION DE LA VIDA, MALTRATO O CRUELDAD ANIMAL
 
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 464.
 
@@ -6387,9 +6543,9 @@ Al responsable de la comisión del delito de contaminación de aguas previsto en
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 5 DE JUNIO DE 2008)</small>
 
-### CAPITULO I. DE LA SUSTRACCIÓN, APROPIACIÓN DEL AGUA Y OTROS DELITOS RELACIONADOS
+### CAPITULO VI. DISPOSICIONES COMUNES A LOS CAPITULOS PRECEDENTES
 
-> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2023)</small>
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 466.
 
@@ -6418,6 +6574,10 @@ Se aplicará la misma sanción prevista en este artículo a quien independientem
 Comete el delito de privación de la vida, lesiones, malos tratos, crueldad o tortura contra cualquier especie animal, quien ejecute una o varias de esas conductas, sin fines deportivos, científicos, o bien sin contar con autorización legal de la autoridad competente, y se le sancionará conforme a lo dispuesto por el artículo 469 del presente Código.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE ABRIL DE 2016)</small>
+
+### CAPITULO I. DE LA SUSTRACCIÓN, APROPIACIÓN DEL AGUA Y OTROS DELITOS RELACIONADOS
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 468.
 
@@ -8028,3 +8188,31 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 27 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-980 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS; Y EL ARTÍCULO 28 DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las erogaciones que pudieran presentarse con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto correspondientes, para el ejercicio fiscal que corresponda, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes.
+
+P.O. 27 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 66-981 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS Y DE LA LEY DE GANADERÍA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-984 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 76; 190, FRACCIONES II Y III; 276 BIS; 276 QUATER, PÁRRAFO PRIMERO; 276 QUINQUIES; 280, PÁRRAFO PRIMERO, FRACCIONES I, II, III Y IV; 294; 295; Y 297; Y SE DEROGAN LOS ARTÍCULOS 269; Y 390 BIS, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
