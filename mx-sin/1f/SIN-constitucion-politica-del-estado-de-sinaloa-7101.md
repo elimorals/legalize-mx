@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2026-02-06"
+last_updated: "2026-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2026.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -118,6 +118,10 @@ XIII. Los niños son titulares de derechos y no sólo objeto de protección. En 
 > <small>(ADICIONADA, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
 
 XIV. Toda persona tiene derecho al acceso a la información a la salud en el caso de emergencias sanitarias, incluyendo de manera enunciativa pero no limitativa el acceso a la información relacionada con las medidas de bioseguridad exigibles a establecimientos abiertos al público, con las certificaciones que avalen su cumplimiento, así como de los requisitos y procedimientos para obtenerlas. Así como a todos los datos relativos a las causas, incidencias, y demás temas relacionados con los motivos de la emergencia sanitaria, respetándose en todo momento la protección de datos personales.
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2026)</small>
+
+XV. Todas las personas gozarán del derecho humano a la ciudad, entendiéndose a este como un derecho de las colectividades, con el cual se pretende lograr la igualdad, sustentabilidad, justicia social, participación democrática, respeto a la diversidad cultural y étnica y a sus usos y costumbres, la inclusión social, la distribución equitativa de bienes públicos y la justicia territorial; buscando que los grupos vulnerables y desfavorecidos logren su pleno desarrollo. El derecho a la ciudad incluye la función social de la propiedad en la que todos los ciudadanos tienen derecho a participar en la propiedad del territorio urbano dentro de los parámetros democráticos de justicia social.
 
 > <small>(ADICIONADO, P.O. 26 DE MAYO DE 2008)</small>
 
@@ -4924,3 +4928,9 @@ La Comisión Estatal de Acceso a la Información Pública transferirá los recur
 ###### ARTÍCULO QUINTO.
 
 Los registros, padrones, sistemas informáticos y claves de acceso, tanto internos como externos, que eran utilizados por la Comisión Estatal de Acceso a la Información Pública, incluso los que ya no se utilicen pero contengan registros históricos, incluida su documentación y titularidad, serán transferidos a la Secretaría del Ejecutivo Estatal responsable del control interno, dentro de los veinte días hábiles siguientes a la entrada en vigor de la legislación referida en el artículo Segundo Transitorio.
+
+P.O. 27 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 345 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE ADICIONA LA FRACCIÓN XV AL ARTÍCULO 4° BIS A DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
