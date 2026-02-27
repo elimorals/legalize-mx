@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-prevencion-social-de-la-violencia-y-la-delincuencia-1149
 country: "mx"
 rank: "ley"
 publication_date: "2016-06-01"
-last_updated: "2025-01-24"
+last_updated: "2026-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114926&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "NLE"
 
 LEY DE PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE NUEVO LEÓN
 
-> <small>[N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL TRANSITORIO PRIMERO EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR EL PRIMERO DE ENERO DEL AÑO SIGUIENTE AL DÍA DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.]</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 1 de junio de 2016.
 
@@ -190,6 +188,14 @@ III. La vigilancia respetando los derechos a la intimidad y a la privacidad;
 IV. Medidas administrativas encaminadas a disminuir la disponibilidad de medios comisivos o facilitadores de violencia; y
 
 V. La aplicación de estrategias para garantizar la no repetición de casos de victimización.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2026)</small>
+
+###### Artículo 11 Bis.
+
+Las estrategias estatales y municipales de prevención social deberán contemplar programas específicos dirigidos a la reconstrucción del tejido social, promoviendo la convivencia armónica, la inclusión comunitaria y la participación activa de la ciudadanía.
+
+Estas acciones podrán incorporar actividades educativas, culturales, deportivas, ambientales y de mejora del entorno urbano, priorizando las zonas con mayores índices de desintegración social o marginación.
 
 ###### ARTÍCULO 12.
 
@@ -854,3 +860,9 @@ P.O. 24 DE ENERO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 049. SE REFORMAN LAS FRACCIONES V, VI, VII, VIII, Y IX Y SE ADICIONA LA FRACCIÓN X Y EL PÁRRAFO TERCERO TODOS DEL ARTÍCULO 31 DE LA LEY DE LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación.
+
+P.O. 27 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 188. SE ADICIONA UN ARTÍCULO 11 BIS A LA LEY DE PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
