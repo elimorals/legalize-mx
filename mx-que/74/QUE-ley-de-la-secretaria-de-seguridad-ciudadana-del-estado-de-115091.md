@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-la-secretaria-de-seguridad-ciudadana-del-estado-de-11509
 country: "mx"
 rank: "ley"
 publication_date: "2016-06-10"
-last_updated: "2022-06-10"
+last_updated: "2026-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 10 de junio de 2016.
 
@@ -407,7 +407,9 @@ VI. Ejercer y mantener la disciplina en el personal, aplicando las medidas corre
 
 VII. Gestionar y mantener las condiciones materiales, jurídicas y administrativas, de la Licencia Colectiva de Portación de Armas de Fuego;
 
-VIII. Asignar y distribuir el armamento, uniformes y equipo del personal a su cargo, conforme a las tareas y atribuciones que a éstos correspondan;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2026)</small>
+
+VIII. Asignar y distribuir el armamento, uniformes y equipo del personal a su cargo, conforme a las tareas y atribuciones que a éstos correspondan, teniendo en consideración que los uniformes y equipo sean aptos para el sexo del personal;
 
 IX. Aprobar los protocolos de actuación del personal que integra las instituciones policiales del Estado de conformidad con la legislación aplicable;
 
@@ -479,13 +481,17 @@ VII. Emitir constancias de separación y retiro del personal policial;
 
 VIII. Resolver todas las excepciones no previstas en las convocatorias que emita;
 
-> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2026)</small>
 
-IX. Implementar y supervisar el régimen de transferencia para el personal operativo facultado para el uso legal de la fuerza pública de la Entidad de acuerdo a las disposiciones aplicables; y
+IX. Implementar y supervisar el régimen de transferencia para el personal operativo facultado para el uso legal de la fuerza pública de la Entidad de acuerdo a las disposiciones aplicables;
 
-> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2017)</small>
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2026)</small>
 
-X. La (sic) demás que le confieran otros ordenamientos y disposiciones aplicables.
+X. Garantizar que las remuneraciones del personal operativo sean iguales conforme al rango que detenten, sin distinción de género; y
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2026)</small>
+
+XI. Las demás que le confieran otros ordenamientos y disposiciones aplicables.
 
 ###### Artículo 22.
 
@@ -689,9 +695,15 @@ VIII. Coadyuvar en el seguimiento de los procedimientos de responsabilidad y, en
 
 IX. Realizar el registro, control, mantenimiento y conservación en general, de los bienes muebles e inmuebles de la Secretaría;
 
-X. Coordinar la Unidad de Protección Civil de la Secretaría; y
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2026)</small>
 
-XI. Las demás que le confieran otros ordenamientos y disposiciones aplicables.
+X. Coordinar la Unidad de Protección Civil de la Secretaría;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2026)</small>
+
+XI. Adecuar los espacios para que el personal femenino cuente con vestidores, baños, dormitorios y lactarios; y
+
+XII. Las demás que le confieran otros ordenamientos y disposiciones aplicables.
 
 ### Capítulo Tercero. De la Dirección Jurídica
 
@@ -1142,3 +1154,13 @@ El Director General del organismo público descentralizado denominado Centro de 
 ###### ARTÍCULO SÉPTIMO.
 
 La Secretaría de Finanzas del Poder Ejecutivo del Estado, realizará las adecuaciones presupuestales conforme a la disponibilidad financiera con que cuente para el presente ejercicio fiscal, a fin de dotar de los recursos materiales y financieros que permitan al organismo público descentralizado denominado Centro de Prevención Social del Delito y la Violencia en el Estado de Querétaro el cumplimiento de la presente Ley.
+
+P.O. 27 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”.
