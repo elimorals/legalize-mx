@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-responsabilidades-administrativas-del-estado-de-121789"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-02"
-last_updated: "2025-12-17"
+last_updated: "2026-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2026.
 
 Ley publicada en el Anexo al Extraordinario Número 10 del Periódico Oficial del Estado de Tamaulipas, el viernes 2 de junio de 2017.
 
@@ -742,6 +742,12 @@ II. No inicien el procedimiento correspondiente ante la autoridad competente, de
 III. Revelen la identidad de un denunciante anónimo protegido bajo los preceptos establecidos en esta Ley.
 
 Para efectos de la fracción anterior, los Servidores Públicos que denuncien una falta administrativa grave o faltas de particulares, o sean testigos en el procedimiento, podrán solicitar medidas de protección que resulten razonables. La solicitud deberá ser evaluada y atendida de manera oportuna por el ente público donde presta sus servicios el denunciante.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2026)</small>
+
+###### Artículo 64 Bis.
+
+Será responsable de injerencia sindical la persona servidora pública que, por sí o por terceros, incurra en las conductas previstas en la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas.
 
 ### Capítulo III. De los actos de particulares vinculados con faltas administrativas graves
 
@@ -2074,3 +2080,15 @@ La competencia se normará por la materia de su denominación. En este sentido, 
 ###### ARTÍCULO TERCERO.
 
 Las Investigaciones y Procedimientos de Responsabilidad Administrativa iniciados por la Contraloría Gubernamental, continuarán su Investigación, Substanciación y Resolución, hasta su conclusión por la Secretaría Anticorrupción y Buen Gobierno del Estado de Tamaulipas, en el ámbito de su competencia y con fundamento en las disposiciones normativas vigentes al momento de su inicio, sin perjuicio de las atribuciones conferidas por el nuevo marco jurídico aplicable.
+
+P.O. 27 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-977 MEDIANTE EL CUAL SE ADICIONA UN ARTÍCULO 59 QUATER A LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS; Y SE ADICIONA UN ARTÍCULO 64 BIS A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
