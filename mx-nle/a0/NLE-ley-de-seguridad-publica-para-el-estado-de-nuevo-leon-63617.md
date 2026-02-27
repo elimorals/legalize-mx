@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-seguridad-publica-para-el-estado-de-nuevo-leon-63617"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-22"
-last_updated: "2025-04-30"
+last_updated: "2026-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de septiembre de 2008.
 
@@ -447,9 +447,9 @@ X. Las acciones policiales conjuntas, en los términos y condiciones que precisa
 
 XI. La regulación y control de los servicios de seguridad privada y otros auxiliares;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2025)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2026)</small>
 
-XII. Relaciones con la comunidad y fomento de la cultura de prevención de infracciones administrativas y delitos;
+XII. Relaciones con la comunidad y fomento de la cultura de prevención de infracciones administrativas, delitos y la coadyuvancia en materia de justicia cívica, así como la capacitación de los elementos policiales dentro de la solución de conflictos menores y los métodos alternos para la solución de conflictos.
 
 > <small>(REFORMADA, P.O. 30 DE ABRIL DE 2025)</small>
 
@@ -661,13 +661,17 @@ XXI. La celebración de acuerdos y convenios de carácter vinculatorio entre el 
 
 XXII. Establecer políticas de incentivos salariales y económicos para los agentes de policía estatales y municipales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE ABRIL DE 2025)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2026)</small>
 
-XXIII. Diseñar estrategias operativas para la prevención y el combate de delitos de mayor gravedad que atenten contra la seguridad de las personas, y
+XXIII. Diseñar estrategias operativas para la prevención y el combate de delitos de mayor gravedad que atenten contra la seguridad de las personas;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 30 DE ABRIL DE 2025)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE FEBRERO DE 2026)</small>
 
-XXIV. Las demás que determinen las Leyes.
+XXIV. Capacitar al personal policial en materia de justicia cívica y los métodos alternos para la solución de conflictos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE FEBRERO DE 2026)</small>
+
+XXV. Las demás que determinen las Leyes.
 
 ###### Artículo 39.
 
@@ -1789,7 +1793,9 @@ d) Tecnológica: que consiste en que la policía, para el desempeño de sus func
 
 Las Instituciones Policiales del Estado, ejercerán entre otras las siguientes atribuciones:
 
-I. Implementar acciones de prevención de delitos y faltas administrativas, manteniendo el orden y paz públicos, fomentando con su actuar la observancia de los principios establecidos por la Constitución y los derechos humanos;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2026)</small>
+
+I. Implementar acciones de prevención de delitos, faltas administrativas, justicia cívica y los métodos alternos de solución de controversias, manteniendo el orden y paz públicos, fomentando con su actuar la observancia de los principios establecidos por la Constitución y los derechos humanos;
 
 II. Proteger en todo momento la integridad, propiedades, garantías individuales, derechos y libertades de las personas, así como respetar los derechos humanos;
 
@@ -4092,3 +4098,9 @@ P.O. 30 DE ABRIL DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 096. SE REFORMAN LAS FRACCIONES VI Y VII DEL ARTÍCULO 4; LAS FRACCIONES IX Y X DEL ARTÍCULO 15; LAS FRACCIONES XII Y XIII DEL ARTÍCULO 32; LAS FRACCIONES XII Y XIII DEL ARTÍCULO 38 Y, SE ADICIONA LA FRACCIÓN VIII DEL ARTÍCULO 4; LA FRACCIÓN XI DEL ARTÍCULO 15; LA FRACCIÓN XIV DEL ARTÍCULO 32 Y LA FRACCIÓN XIV DEL ARTÍCULO 38, TODOS DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN”.]
 
 Único: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 187. SE REFORMAN LA FRACCIÓN XII DEL ARTÍCULO 32, LAS FRACCIONES XXIII Y XXIV DEL ARTÍCULO 38, LA FRACCIÓN I DEL ARTÍCULO 128; Y SE ADICIONA UNA FRACCIÓN XXV AL ARTÍCULO 38; TODOS DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
