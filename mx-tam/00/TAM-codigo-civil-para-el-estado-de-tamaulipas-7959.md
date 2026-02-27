@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2025-06-03"
+last_updated: "2026-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2026.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -1099,7 +1099,11 @@ III.- El modo de atender las necesidades de los hijos y, en su caso, del cónyug
 
 IV.- Designación del cónyuge al que corresponderá el uso del domicilio conyugal, en su caso, y del menaje;
 
-V.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y hasta que se liquide, así como la forma de liquidarla, exhibiendo para ese efecto, en su caso, las capitulaciones matrimoniales, el inventario, avalúo y el proyecto de partición; y
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2026)</small>
+
+V.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y hasta que se liquide, así como la forma de liquidarla, exhibiendo para ese efecto, en su caso, las capitulaciones matrimoniales, el inventario, avalúo, el animal o los animales de compañía y el proyecto de partición.
+
+En el caso de que las personas divorciantes sean poseedoras de uno o varios animales de compañía, el convenio para regular las consecuencias inherentes a la disolución del vínculo matrimonial deberá contener el plan de cuidados que garantice la protección y el bienestar de los mismos, precisando quién será responsable de la custodia, teniendo en cuenta factores como: la capacidad de cada parte para proporcionar un ambiente adecuado y seguro para los seres, así como la disponibilidad de tiempo y recursos para cuidar de ellos; y
 
 VI.- En el caso de que los cónyuges hayan celebrado el matrimonio bajo el régimen de separación de bienes deberá señalarse la compensación, que no podrá ser superior al 50% del valor de los bienes que hubieren adquirido, a que tendrá derecho el cónyuge que, durante el matrimonio, se haya dedicado preponderantemente al desempeño del trabajo del hogar y, en su caso, al cuidado de los hijos. El Juez de lo Familiar resolverá atendiendo a las circunstancias especiales de cada caso.
 
@@ -1135,7 +1139,13 @@ III.- La casa que servirá de habitación a cada uno de los esposos durante el p
 
 IV.- La cantidad que por concepto de alimentos un cónyuge deba pagar al otro durante el procedimiento y después de ejecutoriado, la forma de hacer el pago y la garantía que deba darse para asegurarlo;
 
-V.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y la de liquidar dicha sociedad después de ejecutoriado el divorcio, así como la designación de liquidadores. Para ese efecto se acompañará un inventario y avalúo de todos los bienes y deudas de la sociedad.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2026)</small>
+
+V.- La manera de administrar los bienes de la sociedad conyugal durante el procedimiento y la de liquidar dicha sociedad después de ejecutoriado el divorcio, así como la designación de liquidadores. Para ese efecto se acompañará un inventario y avalúo de todos los bienes y deudas de la sociedad, así como del animal o los animales de compañía.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2026)</small>
+
+Cuando las personas divorciantes sean poseedoras de uno o varios animales de compañía, el convenio para regular las consecuencias inherentes a la disolución del vínculo matrimonial deberá contener el plan de cuidados que garantice la protección y el bienestar de los mismos, precisando quién será responsable de la custodia, teniendo en cuenta factores como: la capacidad de cada parte para proporcionar un ambiente adecuado y seguro para los seres, así como la disponibilidad de tiempo y recursos para cuidar de ellos.
 
 > <small>(ADICIONADO, P.O. 3 DE NOVIEMBRE DE 2009)</small>
 
@@ -1244,6 +1254,10 @@ La protección para los menores incluirá las medidas de seguridad, seguimiento 
 > <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
 
 Dentro de la convivencia, de manera recíproca deberá evitarse todo acto de manipulación de parte de cualquiera de los progenitores o ascendientes encaminado a producir en un menor de edad rechazo, rencor, antipatía, desagrado, temor o distanciamiento hacia el otro progenitor. La presencia de todo acto de este tipo podrá ser valorado por el Juez para los efectos procedentes, debiendo establecer como medida terapéutica la asistencia a platicas relacionadas con el acto de manipulación descrito en este artículo, mismas que serán impartidas por especialistas de los Centros de Convivencia Familiar, o en su caso, por el Sistema para el Desarrollo Integral de la Familia, debiendo presentar ante el Juez la constancia de asistencia.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2026)</small>
+
+Tratándose del animal o los animales de compañía, la sentencia resolverá en definitiva lo relativo a su protección, custodia, régimen de convivencias y visitas, manutención y atención veterinaria, conforme al bienestar animal y la tenencia responsable. Para ello valorará, entre otros, la vinculación afectiva previa, la estabilidad del entorno, la disponibilidad de tiempo y recursos, y cualquier situación de riesgo o maltrato.
 
 ART. 261.- El padre y la madre, aunque pierdan la patria potestad quedan sujetos a todas las obligaciones que tienen para con sus hijos.
 
@@ -11004,6 +11018,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 3 DE JUNIO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-326 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 1269 DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE FEBRERO DE 2026.
+
+[N. DE E TRANSITORIO DEL "DECRETO NO. 66-982 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 249, FRACCIÓN V; Y 254, FRACCIÓN V; Y SE ADICIONAN EL PÁRRAFO SEGUNDO, RECORRIÉNDOSE EN SU ORDEN NATURAL EL SUBSECUENTE, AL ARTÍCULO 254; Y EL PÁRRAFO CUARTO AL ARTÍCULO 260, DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
