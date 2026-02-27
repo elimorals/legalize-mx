@@ -4,7 +4,7 @@ identifier: "QUE-codigo-penal-para-el-estado-de-queretaro-32001"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-07-23"
-last_updated: "2026-02-23"
+last_updated: "2026-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32001&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el jueves 23 de julio de 1987
 
@@ -2669,9 +2669,9 @@ A los parientes consanguineos, sean ascendientes, descendientes o hermanos, que 
 
 ARTICULO 217 BIS.- Al cónyuge, concubina o concubinario, pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado o colateral hasta el cuarto grado o por afinidad hasta el segundo grado, al tutor, curador, al adoptante o al adoptado que haga uso de medios físicos o psicoemocionales, así como la omisión grave contra la integridad física o psíquica de un miembro de su familia, independientemente de que se produzcan o no lesiones, se le impondrán de uno a cuatro años de prisión y se le sujetará a tratamiento psicológico especializado.
 
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2026)</small>
 
-Las penas previstas en este artículo se incrementarán hasta en una mitad más de lo ya establecido, cuando el delito se cometa en contra de persona menor de edad, mayor de sesenta años de edad, personas con discapacidad o que, por las condiciones de sometimiento a las que se encuentren expuestos, les genere un estado de intimidación que les impida iniciar o continuar la denuncia.
+Las penas previstas en este artículo se incrementarán hasta en una mitad más de lo ya establecido, cuando el delito se cometa en contra de persona menor de dieciocho años o mayor de sesenta años, personas con discapacidad o que, por las condiciones de sometimiento a las que se encuentren expuestos, les genere un estado de intimidación que les impida iniciar o continuar la denuncia, así como de mujeres en estado de embarazo y hasta seis meses posteriores al parto o cesárea.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
@@ -5148,3 +5148,13 @@ Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquí
 Artículo Tercero. Los preceptos derogados seguirán aplicándose para los hechos ocurridos durante su vigencia, a menos que les resulte más favorable las disposiciones establecidas en el Código Penal Federal o en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
 Artículo Cuarto. Remítase al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro, “La Sombra de Arteaga”.
+
+P.O. 27 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 217 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
