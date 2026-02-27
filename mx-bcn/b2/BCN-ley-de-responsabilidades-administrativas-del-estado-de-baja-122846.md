@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-responsabilidades-administrativas-del-estado-de-baja-122
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-07"
-last_updated: "2025-04-11"
+last_updated: "2026-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122846&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2026.
 
 Ley publicada en el Número Especial al Periódico Oficial del Estado de Baja California, el lunes 7 de agosto de 2017.
 
@@ -535,6 +535,10 @@ La Autoridad resolutora podrá abstenerse de imponer la sanción que corresponda
 
 Las conductas previstas en el presente Capítulo constituyen faltas administrativas graves de los Servidores Públicos, por lo que deberán abstenerse de realizarlas, mediante cualquier acto u omisión.
 
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2026)</small>
+
+Artículo 51 BIS. Será responsable de injerencia sindical la persona servidora pública que, por sí o por terceros, incurra en las conductas previstas en la Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California.
+
 ###### Artículo 52.
 
 Incurrirá en cohecho el servidor público que exija, acepte, obtenga o pretenda obtener, por sí o a través de terceros, con motivo de sus funciones, cualquier beneficio no comprendido en su remuneración como servidor público, que podría consistir en dinero; valores; bienes muebles o inmuebles, incluso mediante enajenación en precio notoriamente inferior al que se tenga en el mercado; donaciones; servicios; empleos y demás beneficios indebidos para sí o para su cónyuge, parientes consanguíneos, parientes civiles o para terceros con los que tenga relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen parte.
@@ -597,9 +601,7 @@ Será responsable de encubrimiento el servidor público que cuando en el ejercic
 
 > <small>(ADICIONADO, P.O. 11 DE OCTUBRE DE 2019)</small>
 
-###### Artículo 62 Bis.
-
-El servidor público que no entregue, incumpla, retrase, oculte, destruya, altere, deforme, inutilice total o parcialmente la información pública que de acuerdo a la Ley de Entrega y Recepción de los Asuntos y Recursos Públicos para el Estado de Baja California, esté obligado a proporcionar, en los plazos, términos y formas previstas en la legislación.
+Artículo 62 BIS. El servidor público que no entregue, incumpla, retrase, oculte, destruya, altere, deforme, inutilice total o parcialmente la información pública que de acuerdo a la Ley de Entrega y Recepción de los Asuntos y Recursos Públicos para el Estado de Baja California, esté obligado a proporcionar, en los plazos, términos y formas previstas en la legislación.
 
 ###### Artículo 63.
 
@@ -1908,3 +1910,9 @@ P.O. 11 DE ABRIL DE 2025.
 ## N. DE E. TRANSITORIO DEL “DECRETO NO. 79 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 222 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL ARTÍCULO 69 BIS A LA LEY DEL SERVICIO CIVIL DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA, ASÍ COMO LA ADICIÓN DEL ARTÍCULO 51 BIS A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
