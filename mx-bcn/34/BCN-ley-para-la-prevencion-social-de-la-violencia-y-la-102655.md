@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-prevencion-social-de-la-violencia-y-la-102655"
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-19"
-last_updated: "2014-09-19"
+last_updated: "2026-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102655&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2026.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 19 de septiembre de 2014.
 
@@ -43,9 +43,21 @@ LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA DEL ESTADO DE B
 
 La presente Ley es de orden público e interés social, y tiene por objeto desarrollar en el Estado de Baja California las bases de coordinación en materia de prevención social de la violencia y la delincuencia, en el marco de los Sistemas Nacional y Estatal de Seguridad Pública, previstos en el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos y la Ley de Seguridad Pública del Estado de Baja California, respectivamente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 2.
 
-La prevención social de la violencia y la delincuencia es el conjunto de políticas públicas orientadas a reducir factores de riesgo que favorezcan la generación de violencia y delincuencia, así como a combatir las distintas causas y factores que la generan, contribuyendo al objeto y fines de la seguridad pública en el Estado.
+La prevención social de la violencia y la delincuencia deberá concebirse e implementarse de manera integral, con la participación de la sociedad y las instituciones de los tres órdenes de gobierno. Las autoridades estatales y municipales adoptarán las mejores prácticas nacionales e internacionales en la materia, asegurando la continuidad de las políticas más allá de los períodos de gobierno.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 27 DE FEBRERO DE 2026)</small>
+
+La prevención social de la delincuencia comprende al menos lo siguiente:
+
+I. Detección para efectos de su atención, de las personas que por sus características resulten vulnerables a la comisión de delitos.
+
+II. Identificación para efectos de su atención, de las circunstancias, condiciones o lugares que por sus características propicien o faciliten la comisión de delitos.
+
+III. Elaboración del catálogo de espacios públicos donde se puedan desarrollar actividades deportivas, culturales y laborales tendientes a inhibir la comisión de delitos.
 
 ###### Artículo 3.
 
@@ -92,6 +104,10 @@ Para efectos de esta Ley se entenderá por:
 I.- Centro de Prevención Social: La Dirección del Centro de prevención social de la violencia y la delincuencia con participación ciudadana del Estado de Baja California, dependiente de la Secretaría de Seguridad Pública del Estado;
 
 II.- Consejo Estatal de Seguridad Pública: El Consejo Estatal de Seguridad Pública, previsto en la Ley de Seguridad Pública del Estado de Baja California;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2026)</small>
+
+II BIS.- Consejos Municipales: los Consejos Municipales para la Paz y la Prevención de la Violencia y la Delincuencia;
 
 III.- Delincuencia: El fenómeno social que a través de una conducta o acumulación de estas hacen que un individuo, o una colectividad, por medio de ciertos actos, trasgreda el orden;
 
@@ -243,7 +259,57 @@ VI.- Erradicar la reincidencia y habitualidad mediante la implementación de pol
 
 VII.- Cualquier otra política pública que sea necesaria y que tenga como objetivo incidir en las motivaciones individuales hacia la violencia, las condiciones criminógenas con referencia a los individuos, la familia, la escuela y la comunidad, o cualquier otra causa o factor que favorezca o genere violencia y delincuencia.
 
-#### SECCIÓN PRIMERA. DE LAS POLÍTICAS PÚBLICAS EN GENERAL
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 27 DE FEBRERO DE 2026)</small>
+
+#### SECCIÓN SEXTA. De los Consejos Municipales para la Paz y la Prevención Social de la Violencia y la Delincuencia
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2026)</small>
+
+Artículo 20 BIS.- En cada Municipio del Estado deberá operar un Consejo Municipal para la Paz y la Prevención Social de la Violencia y la Delincuencia que será el órgano colegiado de decisión, coordinación y seguimiento en materia de construcción de la paz y la prevención social de la violencia y la delincuencia a nivel local, mismo que funcionará conforme a las siguientes bases generales:
+
+I.- El Consejo Municipal estará integrado mayoritariamente por personas que no sean servidoras públicas, y por lo menos por:
+
+a) La persona titular de la Presidencia Municipal, quien lo presidirá en forma indelegable;
+
+b) La persona titular de la Secretaría del Ayuntamiento;
+
+c) Las personas titulares de las unidades administrativas municipales con atribuciones en materia de seguridad pública, coordinación de delegaciones, bienestar, educación, salud, juventud y mujer;
+
+d) Una persona representante del Gobierno del Estado designado por la Secretaría de Seguridad Ciudadana de Baja California; y,
+
+e) Representantes vecinales, incluyendo al menos a un miembro del Consejo Ciudadano de Seguridad Pública del municipio, un representante de organizaciones de la sociedad civil especializadas en prevención de la violencia, y una persona representante del sector educativo o académico local.
+
+Los integrantes ciudadanos deberán ser personas de reconocida solvencia moral y conocimiento en la materia, designados mediante convocatoria pública emitida por el Ayuntamiento.
+
+Los integrantes a que se refieren los incisos a), b) y c) de esta fracción no podrán delegar su participación en el Consejo.
+
+El reglamento definirá la persona servidora pública que tendrá a su cargo la Secretaría.
+
+II.- Los Consejos Municipales tendrán las siguientes atribuciones:
+
+a) Formular y aprobar los Programas Municipales para la Paz y la Prevención Social de la Violencia y la Delincuencia, congruentes con los Programas Estatal y Nacional correspondientes;
+
+b) Diseñar estrategias integrales que atiendan los factores de riesgo específicamente locales definiendo metas e indicadores de reducción de la violencia;
+
+c) Dar seguimiento por lo menos en forma trimestral a la implementación del Programa Municipal para la Construcción de la Paz y la Prevención Social de la Violencia y la Delincuencia, evaluando resultados y realizando los ajustes necesarios;
+
+d) Evaluar el impacto de la inversión pública municipal en políticas de prevención y proponer ajustes para su mejora;
+
+e) Promover la coordinación entre dependencias municipales y la concurrencia de recursos estatales y federales en proyectos locales de prevención;
+
+f) Fomentar la participación ciudadana y la cultura de la paz, mediante la creación de comités comunitarios, programas de denuncia ciudadana, campañas educativas y mecanismos de colaboración sociedad-gobierno;
+
+g) Emitir recomendaciones a las autoridades municipales para mejorar programas y acciones de prevención;
+
+h) Formular un catálogo de los espacios públicos en los que se puedan realizar actividades deportivas, culturales y laborales de prevención social del delito reportando al Consejo las condiciones de utilidad y mantenimiento;
+
+i) Con participación de los habitantes de las colonias o poblados rurales, planear, instrumentar y evaluar programas de administración del tiempo libre dirigidos a niñas, niños y adolescentes con invitación a las madres y padres de familia, en particular de los individuos vulnerables a incurrir en conductas delictivas para que participen con sus hijas e hijos; y
+
+j) Las demás que le encomienden esta Ley y las disposiciones reglamentarias municipales.
+
+III.- Los Consejos Municipales sesionarán de forma ordinaria por lo menos cada mes y de forma extraordinaria cuando los convoque la persona titular de la Presidencia Municipal o lo solicite la mayoría de sus integrantes. Sus acuerdos y resoluciones serán obligatorios para las dependencias de la administración pública municipal en el ámbito de sus competencias.
+
+IV.- Los Consejos Municipales deberán coordinarse con el Consejo Estatal de Seguridad Pública y con el Centro Estatal de Prevención Social, remitiéndoles informes semestrales sobre avances y resultados.
 
 ### CAPÍTULO TERCERO. DE LAS MEDIDAS PARA LA PREVENCIÓN DE LA DOBLE VICTIMIZACIÓN
 
@@ -263,7 +329,7 @@ V.- La reparación integral del daño que incluye el reconocimiento público, la
 
 ### CAPÍTULO CUARTO. DE LA PLANEACIÓN, PROGRAMACIÓN, DEFINICIÓN E IMPLEMENTACIÓN DE POLÍTICAS PÚBLICAS
 
-#### SECCIÓN SEGUNDA. DE LA COORDINACIÓN INTERINSTITUCIONAL
+#### SECCIÓN PRIMERA. DE LAS POLÍTICAS PÚBLICAS EN GENERAL
 
 ###### Artículo 22.
 
@@ -293,7 +359,7 @@ Las políticas públicas tendrán la vigencia que en cada caso se precise; sin e
 
 No obstante lo dispuesto en el artículo anterior, las políticas públicas podrán modificarse o suspenderse en cualquier momento por las instituciones del (sic) seguridad pública que tengan a su cargo su implementación, cuando se advierta su notoria inconveniencia, inviabilidad o ineficacia.
 
-#### SECCIÓN TERCERA. DEL PROGRAMA ESTATAL PREVENTIVO
+#### SECCIÓN SEGUNDA. DE LA COORDINACIÓN INTERINSTITUCIONAL
 
 ###### Artículo 28.
 
@@ -343,7 +409,7 @@ IX.- Las que se establezcan en el reglamento y demás disposiciones que resulten
 
 Los programas se revisarán anualmente y se modificarán en virtud de los resultados que se obtengan de las evaluaciones o de las recomendaciones que en su caso se realicen.
 
-#### SECCIÓN PRIMERA. DEL CONSEJO ESTATAL DE SEGURIDAD PÚBLICA
+#### SECCIÓN TERCERA. DEL PROGRAMA ESTATAL PREVENTIVO
 
 ###### Artículo 35.
 
@@ -377,9 +443,13 @@ IX.- Cualquier otra política pública que se considere necesaria para cumplir c
 
 Para la ejecución del Programa Estatal Preventivo, las Autoridades de Gobierno del Estado y de los Municipios, así como el Centro de Prevención Social preparará un programa de trabajo anual que contenga objetivos específicos, prioridades temáticas y una lista de acciones y de medidas complementarias.
 
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2026)</small>
+
+Los Ayuntamientos aprobarán los Programas Municipales para la Paz y la Prevención Social de la Violencia y la Delincuencia a propuesta de los Consejos Municipales.
+
 ### CAPÍTULO QUINTO. DE LAS INSTANCIAS DE COORDINACIÓN
 
-#### SECCIÓN SEGUNDA. DEL SECRETARIO EJECUTIVO
+#### SECCIÓN PRIMERA. DEL CONSEJO ESTATAL DE SEGURIDAD PÚBLICA
 
 ###### Artículo 37.
 
@@ -413,7 +483,7 @@ VII.- Promover la generación de indicadores y métricas estandarizadas para las
 
 VIII.- Las que se establezcan en el reglamento y demás disposiciones que resulten aplicables.
 
-#### SECCIÓN TERCERA. DEL CENTRO DE PREVENCIÓN SOCIAL
+#### SECCIÓN SEGUNDA. DEL SECRETARIO EJECUTIVO
 
 ###### Artículo 41.
 
@@ -437,6 +507,8 @@ VIII.- Rendir en las sesiones ordinarias del Consejo Estatal de Seguridad Públi
 
 IX.- Las que se establezcan en el reglamento y demás disposiciones que resulten aplicables.
 
+#### SECCIÓN TERCERA. DEL CENTRO DE PREVENCIÓN SOCIAL
+
 ###### Artículo 42.
 
 El Centro de Prevención Social, además de las que le confiere su normatividad, tiene a su cargo las siguientes funciones:
@@ -449,7 +521,13 @@ III.- Proponer al Secretario Ejecutivo la suscripción de convenios de coordinac
 
 IV.- Coordinarse con instituciones públicas o privadas, organizaciones de la sociedad civil, centros educativos, investigadores o expertos en la prevención social de la violencia y la delincuencia, a fin de estar en posibilidades de elaborar propuestas de políticas públicas, así como para intercambiar conocimientos, información, experiencias o para cualquier otro objeto que considere se (sic) necesario;
 
-V.- Realizar estudios en materia de prevención social de la violencia y la delincuencia;
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2026)</small>
+
+IV BIS.- Brindar asistencia técnica y capacitación a los Municipios para la implementación de políticas de prevención social, coadyuvando con los Consejos Municipales en la elaboración de sus diagnósticos y programas;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2026)</small>
+
+V.- Realizar estudios en materia de prevención social de la violencia y la delincuencia y establecer mecanismos de evaluación anual de las estrategias de prevención social en cada Municipio, en coordinación con los Consejos Municipales, publicando los resultados y mejores prácticas;
 
 VI.- Colaborar en el diseño científico de políticas criminológicas;
 
@@ -515,13 +593,17 @@ El Consejo Estatal de Seguridad Pública desarrollará lineamientos que favorezc
 
 La evaluación tendrá por objeto vigilar y confrontar periódicamente los resultados obtenidos con las metas planteadas, a fin de determinar la vigencia, modificación o suspensión de las políticas públicas, así como los avances que hay en la materia.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 50.
 
-En los procesos de evaluación a que se refiere el presente Capítulo, se considerará la opinión del Consejo Ciudadano de Seguridad Pública.
+En los procesos de evaluación a que se refiere el presente Capítulo, se considerará la opinión de los Consejos Ciudadanos de Seguridad Pública.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 51.
 
-La evaluación de las políticas públicas se llevará a cabo por la Secretaria de Seguridad Pública del Estado, en los términos y con la periodicidad que disponga las disposiciones reglamentarias correspondientes.
+La evaluación de las políticas públicas se llevará a cabo por los Consejos Estatales de Seguridad Pública y los Consejos Municipales, según corresponda, en los términos que acuerden los lineamientos que para el efecto apruebe el primero.
 
 ###### Artículo 52.
 
@@ -606,3 +688,11 @@ GOBERNADOR DEL ESTADO
 FRANCISCO RUEDA GÓMEZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 220 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS Y ADICIONAN ARTÍCULOS, ASIMISMO EL ARTÍCULO 20 BIS DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y DELINCUENCIA PARA EL ESTADO DE BAJA CALIFORNIA, ASÍ COMO SE ADICIONA EL ARTÍCULO 53 BIS DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA PARA EL ESTADO DE BAJA CALIFORNIA Y SE APRUEBA LA REFORMA AL ARTÍCULO 7 DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
