@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-de-la-escuela-normal-del-estado-queretaro-7652"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1987-12-24"
-last_updated: "1987-12-24"
+last_updated: "2026-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7652&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DE LA ESCUELA NORMAL DEL ESTADO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2026.
 
 Ley publicada en el Periódico Oficial "La Sombra de Arteaga", el 24 de diciembre de 1987.
 
@@ -39,9 +39,13 @@ LEY ORGANICA DE LA ESCUELA NORMAL DEL ESTADO
 
 Las disposiciones Pedagógicas, Administrativas y de otra índole que se establecen en la presente Ley Orgánica para mejorar la calidad de sus docentes y los servicios educativos que proporciona la Escuela Normal del Estado de Querétaro, son de carácter obligatorio para todos los que pertenezcan a esta Institución.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2026)</small>
+
 ###### ARTICULO 2.
 
-La Escuela Normal del Estado de Querétaro es una institución de Educación Superior y forma parte del Sistema Educativo Estatal, y orgánicamente depende del Poder Ejecutivo, a través de la Secretaría de Cultura y Bienestar Social por conducto de la Dirección Estatal de Educación.
+La Escuela Normal del Estado de Querétaro es una Institución de Educación Superior y forma parte del Sistema Educativo Estatal y orgánicamente depende del Poder Ejecutivo, a través de la Secretaría de Educación.
+
+La institución se regirá por los principios de equidad, inclusión y paridad de género en todas sus estructuras y procesos.
 
 ###### ARTICULO 3.
 
@@ -221,11 +225,17 @@ III. La Secretaría de Finanzas;
 
 IV. Las Direcciones de Licenciatura, Potsgrado y Centro de Investigaciones Educativas.
 
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2026)</small>
+
+En la integración de la titularidad de los órganos de gobierno de la Escuela Normal del Estado, se garantizará el principio de paridad de género, promoviendo una representación equitativa de mujeres y hombres.
+
 A) AL DIRECTOR GENERAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2026)</small>
 
 ###### ARTICULO 23.
 
-El Director General de la Escuela Normal del Estado es el representante legal de la institución y tiene las siguientes facultades y obligaciones:
+El Director General de la Escuela Normal del Estado es el representante legal de la Institución. Su gestión se basará en los principios de equidad, transparencia, rendición de cuentas y respeto a los derechos humanos, garantizando el desarrollo académico, científico, cultural y social, teniendo las siguientes facultades y obligaciones.
 
 I. Cumplir y hacer cumplir las finalidades esenciales y funciones de la Escuela Normal del Estado.
 
@@ -273,9 +283,13 @@ XVIII. Asesorar a las autoridades educativas, en los aspectos académicos que se
 
 XIX. Las demás que le confiere esta Ley Orgánica.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2026)</small>
+
 ###### ARTICULO 24.
 
-El Director General de la Escuela Normal del Estado será nombrado de la terna que proponga el Consejo General, por la Secretaría de Cultura y Bienestar Social, a través de la Dirección Estatal de Educación, para su período de 3 años y sólo podrá ser reelecto por una sola vez.
+El Director General de la Escuela Normal del Estado será nombrado, de la terna que proponga el Consejo General, por la Secretaría de Educación, para su período de 3 años y sólo podrá ser reelecto por una sola vez.
+
+En dicho proceso de elección, la Escuela Normal del Estado garantizará condiciones de equidad para las candidaturas, evitando cualquier tipo de discriminación por razón de género, condición social, origen étnico o cualquier otro criterio que atente contra los principios de igualdad y no discriminación.
 
 ###### ARTICULO 25.
 
@@ -477,7 +491,11 @@ IX. Proponer a maestros fuera de servicio que se hayan distinguido en el ejercic
 
 X. Integrar una Comisión de Honor que conozca y resuelva sobre los actos que atenten contra el prestigio de la institución, así como de la integridad física y moral de los trabajadores y alumnos de la Escuela Normal del Estado.
 
-XI. Las demás que le señale esta Ley y sus Reglamentos.
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2026)</small>
+
+XI. Promover medidas de protección a los derechos humanos en la comunidad universitaria.
+
+XII. Las demás que le señale esta Ley y sus Reglamentos.
 
 ###### ARTICULO 48.
 
@@ -650,3 +668,17 @@ LIC. MARIANO PALACIOS ALCOCER
 EL C. SECRETARIO DE GOBIERNO
 
 LIC. JOSE MARIA HERNANDEZ SOLIS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ESCUELA NORMAL DEL ESTADO.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley
+
+Artículo Tercero. Todas aquellas referencias que se hagan a la Secretaría de Cultura y Bienestar Social, por conducto de la Dirección Estatal de Educación, se entenderán a la Secretaría de Educación del Poder Ejecutivo del Estado.
+
+Artículo Cuarto. Tratándose de los órganos señalados en el artículo 22 de la Ley Orgánica de la Escuela Normal del Estado, los nombramientos de los titulares que hayan sido expedidos con anterioridad a la presente Ley, permanecerán vigentes hasta la conclusión del encargo.
