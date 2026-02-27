@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-atencion-a-victimas-para-el-estado-de-tamaulipas-175424"
 country: "mx"
 rank: "ley"
 publication_date: "2024-12-16"
-last_updated: "2026-02-12"
+last_updated: "2026-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2026.
 
 Ley publicada en el Extraordinario Número 40 del Periódico Oficial del Estado de Tamaulipas, el lunes 16 de diciembre de 2024.
 
@@ -539,9 +539,17 @@ VII.- Servicios de atención mental en los casos en que, como consecuencia de la
 
 VIII.- Servicios odontológicos reconstructivos por los daños causados como consecuencia del delito o la violación a los derechos humanos;
 
-IX.- Servicios de interrupción voluntaria del embarazo en los casos permitidos por ley, con absoluto respeto de la voluntad de la víctima; y
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2026)</small>
 
-X.- La atención para los derechos sexuales y reproductivos de las mujeres víctimas.
+IX.- Servicios de interrupción voluntaria del embarazo en los casos permitidos por ley, con absoluto respeto de la voluntad de la víctima;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2026)</small>
+
+X.- La atención para los derechos sexuales y reproductivos de las mujeres víctimas; y
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2026)</small>
+
+XI.- Cirugías reconstructivas para víctimas de violencia inferida con ácido o sustancias corrosivas.
 
 En caso de que la institución médica a la que acude o es enviada la víctima no cuente con lo señalado en las fracciones II y III y sus gastos hayan sido cubiertos por la víctima o en el caso de la fracción IV, el Estado o los municipios, según corresponda, los reembolsarán de manera completa e inmediata, de conformidad con lo que establezcan las normas reglamentarias aplicables.
 
@@ -2154,3 +2162,15 @@ El Tribunal de Justicia Administrativa del Estado de Tamaulipas, a través de su
 ###### ARTÍCULO TERCERO.
 
 En las disposiciones transitorias de las diversas leyes y códigos en las que se haga referencia a la Contraloría Gubernamental, se entenderá la Secretaría Anticorrupción y Buen Gobierno.
+
+P.O. 27 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-980 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS; Y EL ARTÍCULO 28 DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las erogaciones que pudieran presentarse con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto correspondientes, para el ejercicio fiscal que corresponda, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes.
