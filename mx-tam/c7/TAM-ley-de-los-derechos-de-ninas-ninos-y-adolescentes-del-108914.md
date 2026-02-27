@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108914"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2026-02-12"
+last_updated: "2026-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2026.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 1 de julio de 2015.
 
@@ -1111,13 +1111,17 @@ IX.- Promover el valor de la justicia, de la observancia de la ley y de la igual
 
 X.- Difundir los derechos humanos de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercerlos;
 
-> <small>(REFORMADA, P.O. 3 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2026)</small>
 
-XI.- Fomentar el bienestar de la salud mental de las niñas, niños y adolescentes, a través de la implementación de programas, orientación, asesoría y en su caso, canalización de aquellas personas que lo necesiten a las instancias de salud correspondientes; e
+XI.- Fomentar el bienestar de la salud mental de las niñas, niños y adolescentes, a través de la implementación de programas, orientación, asesoría y en su caso, canalización de aquellas personas que lo necesiten a las instancias de salud correspondientes;
 
-> <small>(ADICIONADA, P.O. 3 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2026)</small>
 
-XII.- Inculcar en niñas, niños y adolescentes el respeto al medio ambiente; así como el respeto, cuidado y procuración del bienestar de los animales.
+XII.- Inculcar en niñas, niños y adolescentes el respeto al medio ambiente; así como el respeto, cuidado y procuración del bienestar de los animales; y
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2026)</small>
+
+XIII.- Fomentar una cultura solidaria y de altruismo impulsando la donación de órganos y tejidos desde la niñez.
 
 > <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2023)</small>
 
@@ -2464,3 +2468,11 @@ El Tribunal de Justicia Administrativa del Estado de Tamaulipas, a través de su
 ###### ARTÍCULO TERCERO.
 
 En las disposiciones transitorias de las diversas leyes y códigos en las que se haga referencia a la Contraloría Gubernamental, se entenderá la Secretaría Anticorrupción y Buen Gobierno.
+
+P.O. 27 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-983 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XI Y XII, Y SE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 38, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
