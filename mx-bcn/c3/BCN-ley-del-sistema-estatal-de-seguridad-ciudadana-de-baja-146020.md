@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-sistema-estatal-de-seguridad-ciudadana-de-baja-146020"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-28"
-last_updated: "2025-12-26"
+last_updated: "2026-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2026.
 
 Ley publicada en la Sección XI del Periódico Oficial del Estado de Baja California, el lunes 28 de diciembre de 2020.
 
@@ -81,15 +81,21 @@ VI.- La inteligencia preventiva de hechos violentos y delitos, y
 
 VII.- La reinserción social de sentenciados.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2026)</small>
 
 ###### ARTÍCULO 3.
 
-Las Instituciones de Seguridad desarrollarán políticas en materia de prevención social de las violencias y del delito; sobre las causas estructurales de su origen, así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, el respeto a la legalidad y la protección de las personas. El desarrollo de dichas políticas y programas debe incluir la colaboración y participación ciudadana.
+Las Instituciones de Seguridad desarrollarán políticas en materia de construcción de la paz y la prevención social de las violencias y del delito; sobre las causas estructurales de su origen, así como programas y acciones para fomentar en la sociedad valores culturales y cívicos, el respeto a la legalidad y la protección de las personas. El desarrollo de dichas políticas y programas debe incluir la colaboración y participación ciudadana.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 Asimismo, realizarán acciones en materia de seguridad, promoviendo en el ámbito de su competencia acciones de coordinación con los sectores público, social y privado.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 Estas acciones tendrán como eje central a las personas, asegurando en todo momento, sus libertades y derechos humanos, así como propiciar condiciones que permitan a los habitantes del Estado la convivencia y el fomento de una cultura de paz en democracia.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 En los casos de desastres y emergencias en el Estado, las Instituciones de Seguridad se coordinarán con las de protección civil, para salvaguardar con mayor oportunidad los intereses de la colectividad.
 
@@ -245,11 +251,15 @@ II.- Dar seguimiento a la incidencia delictiva, y tomar decisiones respecto de l
 
 III.- Promover y elaborar acciones que fomenten la convivencia pacífica y solidaria, la cultura de la paz para la solución no violenta de conflictos;
 
-IV.- Proponer y desarrollar políticas de carácter integral en materia de prevención social de las violencias y el delito; las causas estructurales que generen la comisión de delitos y conductas antisociales, así como programas y acciones para fomentar en la sociedad, valores culturales y cívicos, que induzcan el respeto a la legalidad y a la protección de las víctimas de hechos violentos y el delito, y
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2026)</small>
+
+IV.- Proponer y desarrollar políticas de carácter integral en materia de construcción de la paz y prevención social de las violencias y el delito; las causas estructurales que generen la comisión de delitos y conductas antisociales, así como programas y acciones para fomentar en la sociedad, valores culturales y cívicos, que induzcan el respeto a la legalidad y a la protección de las víctimas de hechos violentos y el delito; y,
 
 V.- Aquellos que determine la Ley General y el Sistema Nacional.
 
-Las políticas en materia de prevención social del delito y las violencias delimitarán la participación organizada de la sociedad y sus niveles de actuación en la materia.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2026)</small>
+
+Las políticas en materia de construcción de la paz y prevención social del delito y las violencias delimitarán la participación organizada de la sociedad y sus niveles de actuación en la materia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2025)</small>
 
@@ -293,7 +303,9 @@ La coordinación de las Instituciones de Seguridad a que se refiere esta Ley, co
 
 I.- Suministro, intercambio y sistematización de todo tipo de información sobre seguridad;
 
-II.- Coordinación en la planeación y ejecución de programas y estrategias contra la comisión de hechos violentos y la realización de operativos policiales conjuntos;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2026)</small>
+
+II.- Coordinación en la planeación y ejecución de programas y estrategias para la construcción de la paz y la prevención social de la violencia y la delincuencia, así como para la realización de operativos policiales conjuntos;
 
 III.- Realizar acciones y operativos conjuntos entre las Instituciones de Seguridad Pública estatales y municipales, así como de otras entidades federativas y sus municipios;
 
@@ -455,9 +467,9 @@ VIII.- Fomentar la coordinación entre el Sistema Nacional y el Sistema Estatal,
 
 IX.- Efectuar en términos de la Ley General, propuestas para la conformación, la organización y el funcionamiento de instancias regionales o intermunicipales de coordinación, así como para la vinculación del Sistema Estatal con otros sistemas locales de seguridad;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2026)</small>
 
-X.- Propiciar la participación ciudadana en el diseño, la implementación, el seguimiento y la evaluación de estrategias y acciones en materia de prevención de las violencias y del delito, así como del desempeño de las Instituciones de Seguridad;
+X.- Propiciar la participación ciudadana en el diseño, la implementación, el seguimiento y la evaluación de estrategias y acciones en materia de construcción de la paz y la prevención social de las violencias y del delito, así como del desempeño de las Instituciones de Seguridad;
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2025)</small>
 
@@ -605,11 +617,11 @@ Las instancias de coordinación podrán solicitar el apoyo de la Federación y d
 
 ### CAPÍTULO IV. DE LA SECRETARÍA DE SEGURIDAD CIUDADANA
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2026)</small>
 
 ###### ARTÍCULO 18.
 
-La Secretaría es la dependencia de la administración pública estatal encargada de la preservación de la seguridad y convivencia ciudadana, de los espacios destinados al uso y disfrute público, así como de la prevención de las violencias y delitos, con la participación activa de la ciudadanía, la cual se regirá por lo dispuesto en esta Ley y demás ordenamientos aplicables.
+La Secretaría es la dependencia de la administración pública estatal encargada de la preservación de la seguridad y convivencia ciudadana, de los espacios destinados al uso y disfrute público, así como de la construcción de la paz y la prevención social de las violencias y delitos, la cual se regirá por lo dispuesto en esta Ley y demás ordenamientos aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE DICIEMBRE DE 2025)</small>
 
@@ -1477,29 +1489,53 @@ La Secretaría emitirá los lineamientos relativos a los instrumentos, criterios
 
 Las Instituciones de Seguridad y demás instancias auxiliares, quedan obligadas a proporcionar la información obtenida de la zona donde realicen las funciones que les competan, necesaria para georreferenciar y comprender el fenómeno delictivo y sus consecuencias.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2026)</small>
+
+ARTÍCULO 53 BIS.- Las Instituciones de Seguridad de los Municipios elaborarán mapas de incidencia sobre faltas administrativas conforme a los Lineamientos que emita el Consejo Estatal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2026)</small>
 
 ###### ARTÍCULO 54.
 
-Los mapas de zonas de incidencias delictivas tienen como propósito:
+Los mapas de zonas de incidencia tienen como propósito:
 
-I.- Identificar la ubicación geográfica de las conductas delictivas y de cualquier forma violencia, describiendo las horas, días y meses de ocurrencia de los mismos;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2026)</small>
 
-II.- Analizar lugares de mayor concentración delincuencial, referidos tanto a la comisión del delito como a sus agentes;
+I.- Identificar la ubicación geográfica de las conductas delictivas, de las faltas administrativas y de cualquier forma de violencia, describiendo las horas, días y meses de ocurrencia de estos;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2026)</small>
+
+II.- Analizar lugares de mayor concentración de delitos y faltas administrativas, referidos tanto a su comisión como a sus agentes;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 III.- Identificar zonas de alto riesgo;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 IV.- Diseñar estrategias para la intervención policial;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 V.- Asociar factores criminógenos detonantes de la problemática delictiva;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 VI.- Detectar los desplazamientos delincuenciales, referidos tanto a la comisión del delito como a sus agentes;
 
-VII.- Focalizar la aplicación de programas de prevención del delito y formas de violencia;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2026)</small>
+
+VII.- Focalizar la aplicación de programas y acciones para la construcción de la paz y la prevención social del delito y de las faltas administrativas y de la violencia;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 VIII.- Evidenciar la estacionalidad del delito;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
+
 IX.- Generar indicadores que faciliten la planeación estratégica y la toma de decisiones, y
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2021)</small>
 
 X.- Graficar la información que se genera con la realización de estudios o encuestas de victimización.
 
@@ -2067,7 +2103,9 @@ La Secretaría, independientemente de la sanción impuesta, apercibirá a los pr
 
 La Secretaría podrá solicitar al municipio que corresponda el auxilio para la supervisión del funcionamiento de las personas físicas o morales prestadoras de servicios de seguridad privada y de similar naturaleza.
 
-## TÍTULO OCTAVO. PARTICIPACIÓN DE LA COMUNIDAD Y LA PREVENCIÓN DEL DELITO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2026)</small>
+
+## TÍTULO OCTAVO. PARTICIPACIÓN DE LA COMUNIDAD Y LA CONSTRUCCIÓN DE LA PAZ
 
 ### CAPÍTULO I. PARTICIPACIÓN DE LA COMUNIDAD
 
@@ -2191,15 +2229,21 @@ Los municipios y demás dependencias de la Administración Pública Estatal, deb
 
 La Secretaría asignará los recursos necesarios para la difusión de los programas en prevención del delito. Los programas que se diseñen deberán considerar la participación de otras instancias tales como el sector salud, educativo, desarrollo económico y social.
 
-### CAPÍTULO III. PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2026)</small>
+
+### CAPÍTULO III. CONSTRUCCIÓN DE LA PAZ Y PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2026)</small>
 
 ###### ARTÍCULO 87.
 
-La prevención social de la violencia y la delincuencia es el conjunto de políticas públicas, programas y acciones orientados a reducir factores de riesgo que genera violencia y delincuencia, así como combatir las distintas causas y factores que la generan.
+La construcción de la paz y la prevención social de la violencia y la delincuencia son el conjunto de políticas públicas, programas y acciones orientados a reducir factores de riesgo que genera violencia y delincuencia, así como combatir las distintas causas y factores que la generan.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2026)</small>
 
 ###### ARTÍCULO 88.
 
-La prevención social de la violencia y delincuencia comprende los siguientes ámbitos:
+La construcción de la paz y la prevención social de la violencia y la delincuencia comprende los siguientes ámbitos:
 
 I. Social.· El cual llevará a cabo mediante:
 
@@ -2215,7 +2259,9 @@ e) El establecimiento de programas que modifiquen las condiciones sociales de la
 
 II. Comunitario.- El cual pretende atender los factores que generan violencia y delincuencia mediante la participación ciudadana y comunitaria y comprende:
 
-a) La participación ciudadana y comunitaria en acciones tendientes a establecer las prioridades de la prevención, mediante diagnósticos participativos, el mejoramiento de las condiciones de seguridad de su entorno y el desarrollo de prácticas que fomenten una cultura de prevención, autoprotección, denuncia ciudadana y de utilización de los mecanismos alternativos de solución de controversias;
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2026)</small>
+
+a) La participación ciudadana y comunitaria en acciones tendientes a promover una cultura de paz y no violencia en la sociedad, establecer las prioridades de la prevención, mediante diagnósticos participativos, la creación de espacios de diálogo, la autocomposición de los conflictos vecinales, el mejoramiento de las condiciones de seguridad de su entorno y el desarrollo de prácticas que fomenten una cultura de prevención, autoprotección, denuncia ciudadana y de utilización de los mecanismos alternativos de solución de controversias;
 
 b) El mejoramiento de acceso de la comunidad a los servicios básicos;
 
@@ -4374,3 +4420,9 @@ TERCERO.- Los procesos de reclutamiento que se encuentren en curso al momento de
 CUARTO.- En virtud del cambio de denominación de las Contralorías Internas por Unidades de Asuntos Internos aprobado en las presentes reformas, toda referencia hecha a las respectivas contralorías internas en las disposiciones legales o normativas, así como en actuaciones administrativas o judiciales correspondientes se entenderán hecha a las Unidades de Asuntos Internos correspondientes.
 
 Asimismo, los recursos presupuestales, financieros, humanos y materiales correspondientes a las Contralorías Internas de las Instituciones de Seguridad, se conservarán para el ejercicio de las Unidades de Asuntos Internos correspondiente a cada Institución de Seguridad.
+
+P.O. 27 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 220 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS Y ADICIONAN ARTÍCULOS, ASIMISMO EL ARTÍCULO 20 BIS DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y DELINCUENCIA PARA EL ESTADO DE BAJA CALIFORNIA, ASÍ COMO SE ADICIONA EL ARTÍCULO 53 BIS DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA PARA EL ESTADO DE BAJA CALIFORNIA Y SE APRUEBA LA REFORMA AL ARTÍCULO 7 DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
