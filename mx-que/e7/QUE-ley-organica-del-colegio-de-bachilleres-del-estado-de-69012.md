@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-colegio-de-bachilleres-del-estado-de-69012"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2009-06-17"
-last_updated: "2021-10-08"
+last_updated: "2026-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "QUE"
 
 LEY ORGANICA DEL COLEGIO DE BACHILLERES DEL ESTADO DE QUERETARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2021.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 8 DE OCTUBRE DE 2021.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de junio de 2009.
 
@@ -56,6 +54,10 @@ En cuanto a su funcionamiento, operación, desarrollo y control, el COBAQ se suj
 ###### Artículo 4.
 
 El COBAQ es un organismo público descentralizado del Poder Ejecutivo del Estado, dotado de personalidad jurídica y patrimonio propios, el cual gozará de autonomía de gestión para llevar a cabo la prestación del servicio público educativo del nivel medio superior que le compete en sus diversas modalidades, con sujeción a los sistemas de control establecidos en las disposiciones aplicables para la administración pública paraestatal y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2026)</small>
+
+La institución se regirá por los principios de equidad, inclusión y paridad de género en todas sus estructuras y procesos.
 
 ###### Artículo 5.
 
@@ -89,9 +91,15 @@ V. Proporcionar al alumno los elementos de aprendizaje necesarios para que sea c
 
 VI. Promover y realizar actividades para la preservación y difusión de la cultura y el deporte;
 
-VII. Realizar estudios e investigaciones que permitan el uso eficiente de los recursos materiales y humanos; y
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2026)</small>
 
-VIII. Los demás que sean afines con las anteriores.
+VII. Realizar estudios e investigaciones que permitan el uso eficiente de los recursos materiales y humanos;
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2026)</small>
+
+VIII. Establecer medidas de protección a los derechos humanos dentro de la comunidad, fomentando un entorno libre de violencia, discriminación y desigualdad; y
+
+IX. Los demás que sean afines con las anteriores.
 
 ### Capítulo Tercero. Del patrimonio
 
@@ -218,6 +226,14 @@ XI. Las que le confiera esta Ley y demás disposiciones legales aplicables.
 ###### Artículo 20.
 
 La titularidad de la Dirección, está a cargo de un Director General, quien será nombrado y removido por el Gobernador o el titular de la Secretaría de Educación del Estado; el ejercicio de su cargo será de cuatro años, pudiendo ser reelecto por un periodo igual.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2026)</small>
+
+Su gestión se basará en los principios de equidad, transparencia, rendición de cuentas y respeto a los derechos humanos, garantizando el desarrollo académico, científico, cultural y social.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2026)</small>
+
+En la designación, se garantizarán condiciones de equidad, evitando cualquier tipo de discriminación por razón de género, condición social, origen étnico o cualquier otro criterio que atente contra los principios de igualdad y no discriminación.
 
 ###### Artículo 21.
 
@@ -634,3 +650,13 @@ Para la creación o modificación de las unidades administrativas que se contemp
 ###### ARTÍCULO DÉCIMO SEXTO.
 
 Para la creación de la Secretaría de Planeación y Participación Ciudadana del Poder Ejecutivo, así como las unidades administrativas que la conforman, la Secretaría de Finanzas del Poder Ejecutivo estará facultada para realizar las adecuaciones presupuestales conforme a la disponibilidad financiera del presente ejercicio y lo correspondiente en el Presupuesto de Egresos del Estado de Querétaro para el ejercicio fiscal 2022.
+
+P.O. 27 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL COLEGIO DE BACHILLERES DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Tratándose de lo señalado en el artículo 20, el nombramiento que haya sido expedido con anterioridad a la presente Ley, permanecerá vigente hasta la conclusión del encargo, con pleno respeto a los derechos ya adquiridos.
