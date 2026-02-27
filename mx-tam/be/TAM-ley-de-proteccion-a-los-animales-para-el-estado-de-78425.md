@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-a-los-animales-para-el-estado-de-78425"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-16"
-last_updated: "2023-10-12"
+last_updated: "2026-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2026.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 16 de diciembre de 2010.
 
@@ -533,9 +533,17 @@ XVI. La venta de animales vivos en tiendas departamentales, tiendas de autoservi
 
 XVII. Movilizarlos por medio de golpes, instrumentos punzo cortantes, eléctricos o cualquier otro medio que les infiera dolor innecesario o hacerlos correr en forma desconsiderada;
 
-XVIII. El uso de animales en la celebración de ritos y usos tradicionales que puedan afectar el bienestar animal; y
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2026)</small>
 
-XIX. Hacer ingerir bebidas alcohólicas o suministrar drogas sin fines terapéuticos a un animal;
+XVIII. El uso de animales en la celebración de ritos y usos tradicionales que puedan afectar el bienestar animal;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2026)</small>
+
+XIX. Hacer ingerir bebidas alcohólicas o suministrar drogas sin fines terapéuticos a un animal; y
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2026)</small>
+
+XX. Negar el acceso a personas que requieran la asistencia de un animal guía en establecimientos, comercios, restaurantes, transportes y demás espacios abiertos al público, cuando su presencia sea necesaria para el desempeño de sus actividades, salvo por razones de higiene o seguridad debidamente justificadas.
 
 ### CAPITULO IX. DE LOS ANIMALES DOMESTICOS
 
@@ -1538,6 +1546,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 12 DE OCTUBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-574 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS Y DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-985 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XVIII Y XIX; Y SE ADICIONA UNA FRACCIÓN XX, AL ARTÍCULO 18 DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
