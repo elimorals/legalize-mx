@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-el-desarrollo-social-del-estado-de-nayarit-140650"
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-24"
-last_updated: "2023-04-05"
+last_updated: "2026-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140650&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY PARA EL DESARROLLO SOCIAL DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2026.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el 24 de enero de 2020.
 
@@ -81,9 +81,11 @@ XIII. Diseñar e implementar una política digital que permita mejorar la comuni
 
 XIV. Los demás que se deriven de otras leyes y ordenamientos legales y estén vinculados con los principios de la Política de desarrollo social.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 2.
 
-La aplicación de la presente Ley corresponde a la persona titular del Poder Ejecutivo Estatal por conducto de la Secretaría de Bienestar e Igualdad Sustantiva, dependencias y organismos y a los municipios en el ámbito de sus respectivas competencias.
+La aplicación de la presente Ley corresponde a la persona titular del Poder Ejecutivo Estatal por conducto de la Secretaría de Desarrollo Económico y Social, dependencias y organismos y a los municipios en el ámbito de sus respectivas competencias.
 
 ###### Artículo 3.
 
@@ -139,9 +141,13 @@ XXIV. Presupuesto: Presupuesto de Egresos del Estado Libre y Soberano de Nayarit
 
 XXV. Reglamento: al reglamento de esta Ley.
 
-XXVI. Reglas de operación: Son las normas, lineamientos y mecanismos, establecidos por la Secretaría de Bienestar e Igualdad Sustantiva o las dependencias, que rigen a cada uno de los programas de desarrollo social, mediante los cuales se organizan sus distintas etapas o fases de instrumentación en el corto plazo; así como su difusión, y que resumen la planificación anual de los medios, acciones y metas, así como los indicadores correspondientes, para avanzar en el cumplimiento de los objetivos estratégicos de dichos programas.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2026)</small>
 
-XXVII. Secretaría: Secretaría de Bienestar e Igualdad Sustantiva del Gobierno del Estado de Nayarit.
+XXVI. Reglas de operación: Son las normas, lineamientos y mecanismos, que rigen a cada uno de los programas de desarrollo social, mediante los cuales se organizan sus distintas etapas o fases de instrumentación en el corto plazo; así como su difusión, y que resumen la planificación anual de los medios, acciones y metas, así como los indicadores correspondientes, para avanzar en el cumplimiento de los objetivos estratégicos de dichos programas.
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2026)</small>
+
+XXVII. Secretaría: Secretaría de Desarrollo Económico y Social.
 
 XXVIII. SIEPLAN: al Sistema Estatal de Planeación.
 
@@ -305,43 +311,7 @@ XV. Las demás que señalen esta Ley y las disposiciones legales aplicables.
 
 ###### Artículo 12.
 
-Corresponde a la persona titular de la Secretaría:
-
-I. Desempeñarse como Secretaria Técnica o Secretario Técnico en el Sistema Estatal (sic) Desarrollo Social;
-
-II. Formular el proyecto del Programa Anual de inversión en materia de desarrollo social;
-
-III. La supervisión de los programas sociales contemplados en el programa anual y en esta Ley;
-
-IV. Ser el vínculo institucional entre las demás dependencias gubernamentales que tengan que ver con el tema del desarrollo social;
-
-V. Analizar de manera permanente la política social en general del Gobierno del Estado;
-
-VI. Proponer a la persona titular del Ejecutivo, lineamientos, estudios, fuentes de inversión, proyectos de impacto social y demás mecanismos que permitan atender de manera eficiente el tema de la pobreza, inscribirlos en SIEPLAN y coordinar con el Instituto de Planeación y con la Unidad de Inversión de la Secretaría de Desarrollo Sustentable del Gobierno del Estado;
-
-VII. Coordinarse de manera permanente con la Comisión;
-
-VIII. Promover la celebración de acuerdos y convenios con la iniciativa privada, organizaciones civiles y demás órdenes de gobierno relacionados con el desarrollo social del estado de Nayarit;
-
-IX. Promover la participación ciudadana en materia de desarrollo social;
-
-X. Informar a la ciudadanía de los programas sociales, su avance e impacto y sobre la política social en general;
-
-XI. Elaborar las Reglas de Operación de los Programas Sociales de la Secretaría, así como supervisar y validar las que en materia de desarrollo social se emitan en otras dependencias y entidades del gobierno del estado en el marco de sus atribuciones;
-
-XII. Coordinarse de manera permanente con (sic) para atender lo relacionado a las necesidades en materia social de los municipios de Nayarit;
-
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2023)</small>
-
-XIII. Crear, implementar, ejecutar, supervisar, modificar, y regular normativamente los programas, proyectos y acciones de su competencia, necesarios para garantizar el respeto e incorporación de los derechos sociales;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE ABRIL DE 2023)</small>
-
-XIV. Promover el uso de los medios digitales y de las tecnologías de la información en general, para difundir y facilitar el acceso de las personas a los programas sociales, y
-
-> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN XIV], P.O. 5 DE ABRIL DE 2023)</small>
-
-XV. Las demás que emanen de la Ley Orgánica del Poder Ejecutivo del Estado de Nayarit y otras disposiciones aplicables.
+(DEROGADO, P.O. 27 DE FEBRERO DE 2026)
 
 ###### Artículo 13.
 
@@ -469,7 +439,9 @@ El Consejo es un órgano consultivo sectorial del Gobierno del Estado, de partic
 
 I. Un ciudadano electo o una ciudadana electa entre quienes integren el Consejo, quien lo presidirá;
 
-II. Titular de la Secretaría de Bienestar e Igualdad Sustantiva quien será secretario técnico o secretaria técnica;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2026)</small>
+
+II. Titular de la Secretaría de Desarrollo Económico y Social, quien será secretaria técnica o secretario técnico;
 
 III. Titular de la Secretaría General de Gobierno;
 
@@ -557,7 +529,9 @@ b) Secretaría de Educación;
 
 c) Secretaría de Salud;
 
-d) Secretaría de Economía;
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2026)</small>
+
+d) Secretaría de Desarrollo Económico y Social;
 
 e) Secretaría de Desarrollo Rural;
 
@@ -575,9 +549,17 @@ k) Instituto Nayarita de la Juventud;
 
 l) Instituto Nayarita de Cultura Física y Deporte;
 
-m) Consejo Estatal para la Cultura y las Artes, y
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2026)</small>
 
-n) Centro de Justicia Familiar.
+m) Consejo Estatal para la Cultura y las Artes;
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2026)</small>
+
+n) Centro de Justicia Familiar, y
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2026)</small>
+
+o) Secretaría del Trabajo y Justicia Laboral.
 
 III. Cinco presidentes o presidentas municipales representantes de la región norte, costa, centro, costa sur y sur a que se refiere la Ley de Planeación del Estado de Nayarit;
 
@@ -677,23 +659,31 @@ La planeación, aplicación y distribución de los recursos destinados a financi
 
 Los recursos estatales y municipales presupuestados para los programas de desarrollo social, podrán ser complementados con recursos provenientes del gobierno federal o de las organizaciones civiles o sociales, fondos internacionales, fundaciones, organismos de cooperación, donativos, o generados por cualquier otro acto jurídico.
 
-### CAPÍTULO SÉPTIMO. PROGRAMAS SOCIALES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2026)</small>
+
+### CAPÍTULO SÉPTIMO. PROGRAMAS SOCIALES Y SUS REGLAS DE OPERACIÓN
 
 ###### Artículo 44.
 
 Los Programas Sociales son el instrumento rector de desarrollo social del estado, reflejados en proyectos y acciones gubernamentales de los tres órdenes de gobierno que llevan a cabo acciones que inciden en algunos de los derechos sociales establecidos en la Ley General o con alguna de las carencias identificadas en medición de la pobreza del Consejo Nacional de Evaluación de la Política de Desarrollo Social.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 45.
 
-Esta Ley regula de manera general los programas sociales a ejecutar por parte del Poder Ejecutivo del Estado a través de la Secretaría, en materia de nutrición, educación, pobreza, vivienda, cultura, trabajo y salud, bajo las directrices que señala al respecto al Gran Plan.
+Esta Ley regula de manera general los programas sociales a ejecutar por parte del Estado, en materia de nutrición, educación, pobreza, vivienda, cultura, trabajo y salud, bajo las directrices que señala al respecto al Gran Plan.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 46.
 
-La persona titular del Poder Ejecutivo garantizará suficiencia presupuestaria para atender los aspectos sociales estipulados en el artículo anterior mediante la puesta en marcha de programas sociales.
+El Estado garantizará la suficiencia presupuestaria para atender los aspectos sociales estipulados en el artículo anterior mediante la puesta en marcha de programas sociales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 47.
 
-Para los programas sociales, la Secretaría, cada dependencia y entidades, en el ámbito de su competencia, expedirá Reglas de Operación claras, en donde se consideren los lineamientos, y mecanismos de supervisión y control de tales programas y las sanciones a que hubiere lugar para los beneficiarios.
+Para los programas sociales, el Estado en el ámbito de su competencia, expedirá Reglas de Operación claras, en donde se consideren los lineamientos, y mecanismos de supervisión y control de tales programas y las sanciones a que hubiere lugar para los beneficiarios.
 
 > <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2023)</small>
 
@@ -705,7 +695,7 @@ Las Reglas de Operación a que se refiere el artículo anterior serán elaborada
 
 Las reglas de operación de cada programa deberán estar publicadas en el Periódico Oficial, a más tardar al 31 de enero del año del ejercicio fiscal de que se trate, así como en la página de internet del Gobierno del Estado.
 
-En un plazo de cinco días a partir de la publicación, la Secretaría, cada dependencia y entidades deberá remitir a los ayuntamientos los documentos que contengan la información citada en el párrafo anterior.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 27 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 49.
 
@@ -715,9 +705,11 @@ Los municipios, deberán elaborar y publicar en su gaceta municipal u órgano of
 
 Las reglas de operación y la información general de los programas sociales, podrá difundirse a través de los medios digitales que sean adecuados.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 50.
 
-La planeación, programación y presupuestación de los programas sociales, estará a cargo del Poder Ejecutivo a través de la Secretaría, dependencias y entidades que tengan injerencia en este tema.
+La planeación, programación y presupuestación de los programas sociales, estará a cargo del Estado a través de la Secretaría, dependencias y entidades que tengan injerencia en este tema.
 
 ###### Artículo 51.
 
@@ -769,11 +761,15 @@ XX. Difusión del padrón único de beneficiarios, y
 
 XXI. Mecanismos de participación social y ciudadana.
 
-Las convocatorias para los programas sociales y el Padrón Único, deberán publicarse en el portal de internet de la Secretaría, de cada dependencia y entidades, y en las gacetas municipales u órganos oficiales de difusión.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2026)</small>
+
+Las convocatorias para los programas sociales deberán publicarse en el portal de internet de cada dependencia y entidad, y en las gacetas municipales u órganos oficiales de difusión, según corresponda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2026)</small>
 
 ###### Artículo 53.
 
-Todo apoyo y subsidio que sea parte de los programas sociales que implemente el gobierno del estado y que esta ley regula, serán auditables en términos de la legislación correspondiente por los órganos facultados para ello.
+Todo apoyo y subsidio que sea parte de los programas sociales que implemente el Estado, serán auditables en términos de la legislación correspondiente por los órganos facultados para ello.
 
 Además de que es obligatorio imprimir la siguiente leyenda en cada uno de los apoyos que forman parte de los programas sociales “Este programa es de carácter público, no es patrocinado ni promovido por partido político alguno y sus recursos provienen de los impuestos que pagan todos los contribuyentes. Está prohibido el uso de este programa con fines políticos, electorales, de lucro y otros distintos a los establecidos”.
 
@@ -1050,3 +1046,11 @@ P.O. 5 DE ABRIL DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO SOCIAL DEL ESTADO DE NAYARIT, EN MATERIA DE POLÍTICA DIGITAL PARA LA DIFUSIÓN DE LOS PROGRAMAS SOCIALES”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 27 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO SOCIAL DEL ESTADO DE NAYARIT".]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
