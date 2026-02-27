@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-1212-de-salud-del-estado-de-guerrero-92167"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-04"
-last_updated: "2026-02-13"
+last_updated: "2026-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2026.
 
 Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el martes 4 de diciembre de 2012.
 
@@ -857,6 +857,10 @@ IV. Desarrollará programas de prevención dirigidos a todas las etapas de la vi
 
 V. Fomentará la prevención informando a la población de los beneficios de la misma, para evitar el intervencionismo sanitario innecesario.
 
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2026)</small>
+
+VI. Apoyar y promover la lactancia materna y las prácticas óptimas de alimentación de lactantes y niños pequeños, con base en el interés superior de la niñez.
+
 b). El Sistema Estatal de Salud acordará:
 
 I. La lista de acciones preventivas poblacionales e individuales que son recomendables.
@@ -1093,7 +1097,9 @@ Los Ayuntamientos con sujeción en las disposiciones legales aplicables, en coor
 
 La atención materno-infantil es prioritaria para el Sistema Estatal de Salud, y comprende las siguientes acciones:
 
-I. La atención de la mujer durante el embarazo, el parto y el puerperio;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2026)</small>
+
+I. La atención de la mujer durante el embarazo, parto, puerperio, y muerte fetal o perinatal;
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2025)</small>
 
@@ -1101,9 +1107,19 @@ II. La atención del niño y la vigilancia de su crecimiento, nutrición adecuad
 
 III. La promoción de la integración y del bienestar familiar.
 
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2026)</small>
+
+IV. La protección, apoyo y promoción a la lactancia materna es corresponsabilidad de madres, padres, tutores o quienes ejerzan la patria potestad.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2026)</small>
+
+En caso de muerte fetal o perinatal, las madres tendrán derecho a ser acompañadas por persona de su confianza y elección, en un lugar donde se garantice la privacidad y no obstruyan la atención médica, salvo por razones de seguridad sanitaria.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2026)</small>
+
 ###### ARTICULO 80.
 
-La Secretaría de Salud en coordinación con los Ayuntamientos, instaurarán Comités para la Prevención de la Mortalidad Materno-infantil, teniendo como objetivo identificar y atender a mujeres embarazadas de alto riesgo, conocer, sistematizar y evaluar las causales del problema, y adoptar las medidas conducentes, previendo la participación de las parteras tradicionales.
+La Secretaría de Salud en coordinación con los Ayuntamientos, instaurarán Comités para la Prevención de la Mortalidad materna, fetal, perinatal e infantil, teniendo como objetivo identificar y atender a mujeres embarazadas de alto riesgo, conocer, sistematizar y evaluar las causales del problema, y adoptar las medidas conducentes, previendo la participación de las parteras tradicionales.
 
 ###### ARTICULO 81.
 
@@ -1120,6 +1136,10 @@ II. Acciones de orientación y vigilancia institucional, fomento a la lactancia 
 III. Acciones para controlar las enfermedades prevenidas por vacunación, los procesos diarréicos y las infecciones respiratorias agudas de los menores de 5 años, y
 
 IV. Acciones de capacitación y orientación, para fortalecer el conocimiento técnico y participación de las parteras tradicionales en la atención del embarazo, parto y puerperio.
+
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2026)</small>
+
+V. Acciones para prevenir la muerte fetal o perinatal.
 
 ###### ARTICULO 83.
 
@@ -3410,3 +3430,13 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicaci
 SEGUNDO. Remítase este Decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
 
 TERCERO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en la Gaceta Parlamentaria del Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
+
+P.O. 27 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 244 POR EL QUE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO, EN MATERIA DE ATENCIÓN MATERNO INFANTIL Y LACTANCIA MATERNA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase este Decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
+
+TERCERO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en la Gaceta del Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
