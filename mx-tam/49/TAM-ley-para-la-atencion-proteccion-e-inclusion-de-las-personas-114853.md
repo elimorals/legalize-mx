@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-atencion-proteccion-e-inclusion-de-las-personas-114
 country: "mx"
 rank: "ley"
 publication_date: "2016-05-26"
-last_updated: "2026-02-24"
+last_updated: "2026-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=114853&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA LA ATENCIÓN, PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA Y TRASTORNOS DEL NEURODESARROLLO PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 26 de mayo de 2016.
 
@@ -357,6 +357,10 @@ III. Realizar campañas de información a la población sobre las característic
 
 IV. Implementar acciones de capacitación y actualización dirigidas al personal de salud y demás áreas involucradas para la detección y atención de las personas con la condición del espectro autista o con trastornos del neurodesarrollo. Las acciones dirigidas al personal de educación priorizarán la capacitación para la atención adecuada en la niñez;
 
+> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2026)</small>
+
+IV Bis. Implementar, en coordinación con las Secretarías de Bienestar Social y del Trabajo y Previsión Social del Estado, programas de orientación, capacitación y sensibilización dirigidos a prestadores de servicios en el sector público y privado, particularmente en establecimientos enfocados en áreas como turismo, recreación, cultura, deporte y gastronomía, con el fin de promover la creación de espacios y entornos inclusivos y accesibles para las personas con la condición del espectro autista y trastornos del neurodesarrollo;
+
 > <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
 
 V. Atender a la población con la condición del espectro autista a través, según corresponda, de consultas externas, estudios clínicos y de gabinete, diagnósticos tempranos, terapias de habilitación, orientación nutricional, acceso a tecnologías y otros servicios que a juicio de los Servicios Estatales de Salud, con apoyo de servicios de alta especialidad de los Institutos Nacionales, cuando el caso lo amerite y demás organismos y órganos del sector salud sean necesarios. Se exceptúa el servicio de hospitalización;
@@ -496,6 +500,14 @@ El cumplimiento del presente Decreto estará sujeto a la disponibilidad presupue
 P.O. 24 DE FEBRERO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-974 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN I, DEL ARTÍCULO 3; Y SE ADICIONAN LAS FRACCIONES I, III Y V, RECORRIÉNDOSE EN SU ORDEN NATURAL LAS SUBSECUENTES, AL ARTÍCULO 3, DE LA LEY PARA LA ATENCIÓN, PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA Y TRASTORNOS DEL NEURODESARROLLO PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-988 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN IV BIS, AL ARTÍCULO 16 DE LA LEY PARA LA ATENCIÓN, PROTECCIÓN E INCLUSIÓN DE LAS PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA Y TRASTORNOS DEL NEURODESARROLLO PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
