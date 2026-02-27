@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2026-01-16"
+last_updated: "2026-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -373,9 +373,9 @@ VI. El derecho al acceso, disposición y saneamiento de agua para consumo person
 
 El derecho humano de acceso al agua será promovido permanentemente entre la población, lo que en todo tiempo implicará acciones y políticas para el respeto y fomento del uso adecuado del agua, incluyendo como prioridad el uso racional y eficiente de este recurso;
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2026)</small>
 
-VII. El derecho a la identidad y a ser registrado de manera inmediata a su nacimiento. El Estado garantizará el cumplimiento de estos derechos. La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento y la primera cédula estatal de identidad;
+VII. El derecho a la identidad y a ser registrado de manera inmediata a su nacimiento. El Estado garantizará el cumplimiento de estos derechos. La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento;
 
 > <small>(REFORMADA, P.O. 28 DE MARZO DE 2017)</small>
 
@@ -399,11 +399,13 @@ XI. El derecho a la alimentación adecuada, nutritiva, suficiente y de calidad; 
 
 XII. El derecho a gozar de los beneficios del desarrollo de la ciencia y la innovación tecnológica. El Estado apoyará la investigación e innovación científica, humanística y tecnológica;
 
-> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE FEBRERO DE 2026)</small>
 
-XIII. El derecho a la protección más amplia de las familias, en su ámbito individual y colectivo, así como su aporte en la construcción y bienestar de la sociedad por su contribución al cuidado, formación, desarrollo y transmisión de valores, de la identidad cultural y de conocimientos elementales para la vida en sociedad.
+XIII. El derecho a la protección más amplia de las familias, en su ámbito individual y colectivo, así como su aporte en la construcción y bienestar de la sociedad por su contribución al cuidado, formación, desarrollo y transmisión de valores, de la identidad cultural y de conocimientos elementales para la vida en sociedad. Para su garantía, el Estado, en sus decisiones y actuaciones, velará por el principio del interés superior de la familia y de las personas que la conforman; en consecuencia, orientará sus políticas públicas en materia de familia y expedirá las leyes, normas, programas y acciones necesarias para incorporar la perspectiva de familia, reconociéndola como núcleo fundamental de la sociedad.
 
-Las autoridades estatales y municipales promoverán la integración, el desarrollo y el fortalecimiento de la familia; sus fines de unidad, convivencia armónica, ayuda mutua y la preservación de los valores de la comunidad.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2026)</small>
+
+Las autoridades estatales y municipales promoverán la integración, el desarrollo y el fortalecimiento de las familias, así como sus fines de unidad, convivencia armónica y ayuda mutua. De igual forma, impulsarán el bienestar integral y emocional de sus integrantes, el desarrollo personal de cada uno de ellos y la preservación de los valores propios de la comunidad.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2022)</small>
 
@@ -433,55 +435,9 @@ Tendrán prioridad en la atención y acceso a los servicios del Sistema las pers
 
 (DEROGADO, P.O. 4 DE MARZO DE 2021)
 
-> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2018)</small>
-
 ###### Art. 17 Ter.
 
-El derecho a la identidad establecido en la fracción VII del artículo 17 de esta Constitución será garantizado mediante una cédula estatal de identidad.
-
-La cédula estatal de identidad es una identificación personal e intransferible, que será expedida por el Instituto establecido para ello en esta Constitución.
-
-Todos los ciudadanos del Estado tendrán derecho a contar con la cédula de identidad y su obtención será obligatoria para los residentes mayores de catorce años y aquellos avecindados que permanezcan en el Estado por un período mayor a los seis meses. La cédula se regirá bajo los principios de legalidad, confidencialidad y certeza.
-
-El organismo garante de este derecho será el Instituto Estatal de Protección a la Identidad. Será un órgano con autonomía técnica, presupuestal y de gestión, así como con personalidad jurídica y patrimonio propios.
-
-El Instituto será la autoridad en la materia, independiente y autónomo en sus decisiones.
-
-Estará integrado por un Comisionado Presidente y dos Comisionados. La Ley de la materia determinará la forma de su integración y funciones.
-
-Los Comisionados deberán cumplir los siguientes requisitos:
-
-(NOTA: EL 7 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO VI, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 4/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 7 DE ENERO DE 2020, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-I.- Ser ciudadano mexicano POR NACIMIENTO y estar en pleno goce de sus derechos civiles y políticos;
-
-II.- Ser mayor de treinta años;
-
-III.- Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión por más de un año;
-
-IV.- Poseer título profesional;
-
-V.- Haberse desempeñado, cuando menos dos años, en forma destacada en actividades profesionales, de servicio público o académicas sustancialmente relacionadas con materias afines a las de la identidad personal;
-
-VI.- Acreditar los conocimientos técnicos necesarios para el cargo;
-
-Los Comisionados se abstendrán de desempeñar cualquier otro empleo, trabajo o comisión públicos o privados, con excepción de los honorarios y académicos.
-
-Los Comisionados serán designados mediante el siguiente procedimiento:
-
-> <small>(REFORMADA, P.O. 12 DE MARZO DE 2025)</small>
-
-I.- Por cada vacante, el Congreso del Estado, mediante convocatoria pública, enviará a la Gobernadora o al Gobernador Constitucional una lista de cinco aspirantes al cargo que hayan acreditado los requisitos señalados en este artículo. La Gobernadora o el Gobernador seleccionará a los tres candidatos que estime idóneos para el cargo y los propondrá al Congreso;
-
-II.- La ratificación se hará por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado; y
-
-III.- El Comisionado Presidente y los Comisionados durarán siete años en su encargo, serán sustituidos de manera escalonada y no podrán ser designados para un periodo inmediato posterior.
-
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 2025)</small>
-
-Dentro del Instituto habrá un Consejo Consultivo integrado por representantes de las Secretarías de Salud, de Educación, de Bienestar Social, de Seguridad Pública, y de las Fiscalías establecidas por esta Constitución, así como la Dependencia del Ejecutivo Estatal responsable del control interno, para el efecto de coordinar todos los aspectos relacionados con la cédula, su implementación y mecanismos de cooperación.
-
-El Instituto será el responsable de la dirección, expedición, control, registro, gestión y todas las demás actividades relacionadas con la cédula estatal de identidad.
+(DEROGADO, P.O. 27 DE FEBRERO DE 2026)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 1986)</small>
 
@@ -6052,3 +6008,19 @@ P.O. 16 DE ENERO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su Publicación en el Periódico Oficial del Estado, con excepción de las reformas efectuadas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas, las cuáles surtirán efectos a partir de su expedición.
+
+P.O. 27 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-978 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 17, FRACCIÓN VII Y SE DEROGA EL ARTÍCULO 17 TER, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 66-979 MEDIANTE EL CUAL SE REFORMAN LOS PÁRRAFOS PRIMERO Y SEGUNDO DE LA FRACCIÓN XIII, DEL ARTÍCULO 17, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
