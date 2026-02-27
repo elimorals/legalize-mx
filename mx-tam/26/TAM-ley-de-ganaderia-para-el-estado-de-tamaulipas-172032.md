@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-ganaderia-para-el-estado-de-tamaulipas-172032"
 country: "mx"
 rank: "ley"
 publication_date: "2024-03-07"
-last_updated: "2025-06-20"
+last_updated: "2026-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=172032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 LEY DE GANADERÍA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE JUNIO DE 2025.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 20 DE JUNIO DE 2025 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 63-325 PUBLICADO EN EL P.O. DE 17 DE JUNIO DE 2025.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2026.
 
 Ley publicada en el Número 30 del Periódico Oficial del Estado de Tamaulipas, el jueves 7 de marzo de 2024.
 
@@ -743,7 +741,9 @@ V. Se hubiese expedido por error o en contravención al artículo 30 de la prese
 
 VI. El titular del registro facilite a otras personas su fierro de herrar para marcar ajeno;
 
-VII. El titular se (sic) haya sido condenado por la comisión de cualquiera de los delitos previstos en los artículos 410, 411 y 412 el (sic) Código Penal para el Estado de Tamaulipas;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2026)</small>
+
+VII. El titular se (sic) haya sido condenado por la comisión de cualquiera de los delitos previstos en el Capítulo I Bis, del Título Décimo Noveno, del Código Penal para el Estado de Tamaulipas;
 
 VIII. Al titular le sea revocada, por el propietario o poseedor del predio que haya señalado como su unidad de producción o de prestación de servicios de ganadería, la autorización que le hubiere sido otorgada para el aprovechamiento del mismo, y no se señale un nuevo asiento de producción dentro del plazo de treinta días hábiles;
 
@@ -1799,9 +1799,11 @@ Es obligación de los ganaderos, de las instancias auxiliares y de todas las per
 
 Los auxiliares, instituciones de investigación pecuaria, instituciones de educación superior y asociaciones de profesionistas relacionadas con las actividades pecuarias, coadyuvarán con la Secretaría en la atención de cualquier reporte sobre aparición de enfermedades y plagas, así como en determinar las acciones y medidas necesarias para su control y erradicación.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2026)</small>
+
 ###### Artículo 179.
 
-Es obligación de los productores pecuarios, los auxiliares y en general, de cualquier persona, dar aviso a la Secretaría de la existencia o presunción de acciones y prácticas que atenten contra la ganadería y que contravengan lo previsto por esta Ley, así como de denunciar las conductas que presumiblemente constituyan alguno o algunos de los delitos previstos en los artículos 410, 411 y 412 del Código Penal para el Estado de Tamaulipas.
+Es obligación de los productores pecuarios, los auxiliares y, en general, de cualquier persona, dar aviso a la Secretaría de la existencia o presunción de acciones y prácticas que atenten contra la ganadería y que contravengan lo previsto por esta Ley, así como de denunciar las conductas que presumiblemente constituyan alguno o algunos de los delitos previstos en el Capítulo I Bis, del Título Décimo Noveno, del Código Penal para el Estado de Tamaulipas.
 
 ### CAPÍTULO SEGUNDO. DE LA PREVENCIÓN, CONTROL Y ERRADICACIÓN DE PLAGAS Y ENFERMEDADES
 
@@ -2294,6 +2296,14 @@ ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAUL
 P.O. 17 DE JUNIO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-325 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE GANADERÍA PARA EL ESTADO DE TAMAULIPAS; Y DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, EN MATERIA GANADERA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-981 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS Y DE LA LEY DE GANADERÍA PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
