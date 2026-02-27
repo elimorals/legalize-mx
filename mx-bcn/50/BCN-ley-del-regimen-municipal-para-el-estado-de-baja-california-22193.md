@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-regimen-municipal-para-el-estado-de-baja-california-221
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2026-01-30"
+last_updated: "2026-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2026.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 15 de octubre de 2001.
 
@@ -155,9 +155,9 @@ VI.- Ejercer el derecho de previa observación de los acuerdos que se pretendan 
 
 VII.- Cumplir y hacer cumplir las disposiciones normativas derivadas de las leyes y reglamentos federales, estatales y municipales, dentro del ámbito de su competencia;
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2026)</small>
 
-VIII.- Promover entre las y los habitantes del municipio el conocimiento, respeto y defensa de los derechos humanos; la igualdad de trato y oportunidades entre mujeres y hombres y la protección de los derechos de los pueblos indígenas;
+VIII.- Promover entre los habitantes del municipio la cultura de la paz, el conocimiento, respeto y defensa de los derechos humanos; la igualdad de trato y oportunidades entre mujeres y hombres y la protección de los derechos de los pueblos indígenas;
 
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2024)</small>
 
@@ -1304,3 +1304,11 @@ P.O. 30 DE ENERO DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 212 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN IV DEL ARTÍCULO 5 DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. La presente reforma de Ley entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado de Baja California
+
+P.O. 27 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 220 MEDIANTE EL CUAL SE APRUEBAN DIVERSAS REFORMAS Y ADICIONAN ARTÍCULOS, ASIMISMO EL ARTÍCULO 20 BIS DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y DELINCUENCIA PARA EL ESTADO DE BAJA CALIFORNIA, ASÍ COMO SE ADICIONA EL ARTÍCULO 53 BIS DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD CIUDADANA PARA EL ESTADO DE BAJA CALIFORNIA Y SE APRUEBA LA REFORMA AL ARTÍCULO 7 DE LA LEY DEL RÉGIMEN MUNICIPAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Los Ayuntamientos, en un plazo no mayor de 90 días naturales contados a partir de la entrada en vigor del presente Decreto, deberán instalar formalmente sus respectivos Consejos Municipales para la Paz y la Prevención Social de la Violencia y la Delincuencia y adecuar los reglamentos municipales necesarios para regular su integración y funcionamiento.
