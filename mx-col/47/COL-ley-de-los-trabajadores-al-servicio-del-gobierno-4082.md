@@ -4,7 +4,7 @@ identifier: "COL-ley-de-los-trabajadores-al-servicio-del-gobierno-4082"
 country: "mx"
 rank: "ley"
 publication_date: "1992-01-04"
-last_updated: "2026-02-14"
+last_updated: "2026-02-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4082&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 4 de enero de 1992.
 
@@ -1579,7 +1579,7 @@ Las acciones que surjan de esta Ley o del nombramiento expedido en favor de los 
 
 Prescribirán en quince días hábiles:
 
-I.- Las acciones de la autoridad para pedir la nulidad de un nombramiento, cuando el trabajador no reúna los requisitos necesarios para el empleo o cargo de que se trate o no demuestre, en forma fehaciente, tener la capacidad o aptitud que para el cargo se requiera;
+I.- (DEROGADA, P.O. 28 DE FEBRERO DE 2026)
 
 II.- El derecho de los trabajadores para volver a ocupar el puesto que hubieran dejado por accidente no profesional o causas ajenas al servicio o por enfermedad, contando el plazo a partir de la fecha en que estén en aptitud de volver al trabajo, de acuerdo con la constancia médica respectiva;
 
@@ -1590,6 +1590,10 @@ IV.- La facultad de los Titulares de las Entidades o dependencias públicas para
 V.- Las acciones para impugnar los dictámenes escalafonarios; y
 
 VI.- Las acciones para impugnar las sanciones impuestas por los Titulares de las Entidades o dependencias públicas que no ameriten cese, en los términos del Artículo 38 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 28 DE FEBRERO DE 2026)</small>
+
+ARTICULO 170 BIS.- Prescribirán en treinta días hábiles, las acciones de la autoridad para pedir la nulidad de un nombramiento, cuando la persona trabajadora no reúna los requisitos necesarios para el empleo o cargo de que se trate o no demuestre, en forma fehaciente, tener la capacidad o aptitud que para el cargo se requiera.
 
 ###### ARTICULO 171.
 
@@ -2304,5 +2308,11 @@ VIGÉSIMO SÉPTIMO. El Centro Estatal de Justicia Alternativa, a la entrada en v
 P.O. 14 DE FEBRERO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 244.- POR EL QUE SE ADICIONA EL ARTÍCULO 92 BIS A LA LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 28 DE FEBRERO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 250.- POR EL QUE SE DEROGA LA FRACCIÓN I DEL ARTÍCULO 170; Y SE ADICIONA EL ARTÍCULO 170 BIS; DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL GOBIERNO, AYUNTAMIENTOS Y ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE COLIMA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
