@@ -4,7 +4,7 @@ identifier: "MIC-codigo-electoral-del-estado-de-michoacan-de-ocampo-101607"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-06-29"
-last_updated: "2026-02-12"
+last_updated: "2026-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101607&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "MIC"
 CÓDIGO ELECTORAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL ESTADO DE MICHOACÁN EL 2 DE MARZO DE 2026.]</small>
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el domingo 29 de junio de 2014.
 
@@ -7627,7 +7629,9 @@ P.O. 9 DE ENERO DE 2026.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
-SEGUNDO. Los partidos políticos realizarán los ajustes presupuestales necesarios para dar cumplimiento a lo dispuesto en el presente Decreto a partir del ejercicio fiscal siguiente a su entrada en vigor.
+> <small>(F. DE E., P.O. 2 DE MARZO DE 2026)</small>
+
+SEGUNDO. Los partidos políticos realizarán los ajustes presupuestales necesarios y suficientes para dar cumplimiento a lo dispuesto en el presente Decreto, a partir del mes siguiente a su publicación en el Periódico Oficial del Gobierno Constitucional del estado de Michoacán. De ser necesario, el Instituto Electoral de Michoacán, deberá de hacer los ajustes necesarios en los presupuestos de los partidos políticos en el presente año, a efecto de que se cumpla con lo dispuesto en este decreto. Posterior a ello, deberá notificar al Instituto Nacional Electoral de los ajustes realizados para efectos de la fiscalización y otros temas competencia de dicha autoridad nacional.
 
 TERCERO. Se instruye al Instituto Electoral de Michoacán para que en el ámbito de sus atribuciones, vigile el estricto cumplimiento de la presente reforma y realice las adecuaciones a su normativa interna que resulten necesarias.
 
