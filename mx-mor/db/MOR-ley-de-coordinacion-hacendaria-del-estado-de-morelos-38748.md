@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-coordinacion-hacendaria-del-estado-de-morelos-38748"
 country: "mx"
 rank: "ley"
 publication_date: "2004-04-07"
-last_updated: "2025-12-22"
+last_updated: "2026-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 7 de abril de 2004.
 
@@ -895,8 +895,24 @@ PRIMERA. Remítase el presente Decreto a la Gobernadora del Estado, para los efe
 
 SEGUNDA. El presente Decreto entrará en vigor a partir del 01 de enero de 2026, previa publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
 
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2026)</small>
+
+Las reformas a la Ley del Servicio Civil del Estado de Morelos, solo serán aplicables para los trabajadores al servicio del Estado de nuevo ingreso, que inicien sus funciones con posterioridad a la entrada en vigor del presente Decreto y que no hubiesen laborado con anterioridad en otros organismos auxiliares o entes que reciban recursos federales y estatales.
+
 TERCERA. La Secretaría de Administración y Finanzas expedirá a más tardar el día 30 de enero de 2026, los Lineamientos, en que se establezcan las condiciones y requisitos que deberán observar los municipios en el ejercicio de los recursos el (sic) Fondo de Aportaciones Estatales para el Fomento de los Municipios.
 
 Los municipios deberán informar a la Secretaría de Administración y Finanzas del Poder Ejecutivo a más tardar el 15 de enero de 2026, los datos de la Cuenta Bancaria Productiva Específica a que se refiere el artículo 15 que por virtud de este Decreto se reforma a la Ley de Coordinación Hacendaria del Estado de Morelos.
 
 CUARTA. Se derogan todas las disposiciones legales y normativas que contravengan lo señalado en el presente Decreto.
+
+P.O. 2 DE MARZO DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NÚMERO MIL CIENTO VEINTICUATRO POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO A LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL DECRETO NOVECIENTOS NOVENTA Y SIETE POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE MORELOS, DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS, DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE MORELOS, DE LA LEY DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO DEL ESTADO DE MORELOS, DE LA LEY GENERAL DE BIENES DEL ESTADO DE MORELOS Y DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS, PUBLICADO EN EL PERIÓDICO OFICIAL “TIERRA Y LIBERTAD”, NÚMERO 6506 EXTRAORDINARIA, DE FECHA 22 DE DICIEMBRE DE 2025".]</small>
+
+PRIMERA. Remítase el presente decreto a la Persona Titular del Poder Ejecutivo Estatal, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+En ese sentido, los trabajadores que hayan ingresado a laborar a partir del 01 de enero de 2026 y hasta la publicación del presente Decreto, gozarán de los derechos previstos en la Ley del Servicio Civil del Estado de Morelos, vigentes hasta antes de la entrada en vigor del “Decreto Novecientos Noventa y Siete, por el que se reforman, adicionan y derogan diversas disposiciones del Código Fiscal para el Estado de Morelos, de la Ley General de Hacienda del Estado de Morelos, de la Ley de Coordinación Hacendaria del Estado de Morelos, de la Ley de Presupuesto, Contabilidad y Gasto Publico del Estado de Morelos, de la Ley General de Bienes del Estado de Morelos y de la Ley del Servicio Civil del Estado de Morelos”, publicado en el Periódico Oficial “Tierra y Libertad”, número 6506 Extraordinaria (sic), de fecha 22 de diciembre de 2025.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente decreto.
