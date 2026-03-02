@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-pabellon-de-arteaga-aguascalientes-44638"
 country: "mx"
 rank: "codigo"
 publication_date: "2005-04-18"
-last_updated: "2026-02-02"
+last_updated: "2026-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "AGU"
 ---
 # CODIGO MUNICIPAL DE PABELLON DE ARTEAGA, AGUASCALIENTES
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 2 DE MARZO DE 2026 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO MUNICIPAL DE PABELLÓN DE ARTEAGA, AGS.
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2026.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE MARZO DE 2026.]</small>
 
 Código publicado en el Periódico Oficial del estado de Aguascalientes, el lunes 18 de abril de 2005.
 
@@ -3165,6 +3165,10 @@ g).- Las demás que las necesidades del servicio requieran.
 
 Los servidores públicos que ejerzan la función de la Autoridad Substanciadora y la Autoridad Resolutora serán distintos de aquél que ejerza la de la Autoridad Investigadora, a fin de garantizar su independencia, de conformidad con la Ley de Responsabilidades Administrativas del Estado de Aguascalientes.
 
+(ADICIONADO, P.O. 27 DE FEBRERO DE 2023) (F. DE E., P.O. 2 DE MARZO DE 2026)
+
+En caso de urgente necesidad, con el objeto de atender las situaciones de trámite, el Presidente Municipal, designará directamente al servidor público responsable de ejercer las funciones de cualquiera de las Autoridades de la Contraloría Municipal o de sus órganos paramunicipales, en tanto se designe al titular de la unidad administrativa correspondiente.
+
 > <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 2 DE FEBRERO DE 2026)</small>
 
 XI.- Sistema para el Desarrollo Integral de la Familia:
@@ -4060,6 +4064,10 @@ XIII.- Conocer, calificar, cancelar y/o revocar a través de la persona juez cí
 > <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2026)</small>
 
 XIV.- Lo demás que señale el presente Código y las disposiciones legales aplicables o le encomiende el H. Ayuntamiento por conducto de la persona titular de la Presidencia Municipal.
+
+(ADICIONADO, P.O. 23 DE ENERO DE 2023) (F. DE E., P.O. 13 DE FEBRERO DE 2023) (F. DE E., P.O. 2 DE MARZO DE 2026)
+
+Para garantizar la uniformidad y congruencia de la acción jurídica de la administración municipal y todas las áreas jurídicas que la conforman, así como la expedites en la atención de los asuntos y la economía en el uso de los recursos, todas las áreas de la administración pública municipal, centralizada o paramunicipal que dentro de su estructura cuenten con una instancia jurídica, esta se subordinarán (sic) jerárquica y administrativamente en su función técnica, operativa y administrativa directamente a los lineamientos y criterios que determine la Dirección General de Asuntos Jurídicos, a través de los mecanismos adecuados para el logro de los fines previstos en este artículo. Este mismo criterio aplicará para los servicios jurídicos especializados que llegaren a contratarse por parte de la administración municipal, los cuales serán valorados por esta Dirección, la Secretaría del Ayuntamiento y por conducto del Presidente Municipal.
 
 > <small>(ADICIONADA, P.O. 4 DE MARZO DE 2019)</small>
 
