@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-turismo-del-estado-de-san-luis-potosi-83624"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-22"
-last_updated: "2025-11-28"
+last_updated: "2026-03-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 22 de octubre de 2011.
 
@@ -151,7 +151,9 @@ XXVI BIS. Ruta Turística: es un circuito temático o geográfico que se basa en
 
 XXVII. Secretaría: la Secretaría de Turismo del Estado de San Luis Potosí;
 
-XXVIII. Secretaría de Turismo: la Secretaría de Turismo del Gobierno Federal;
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2026)</small>
+
+XXVIII. Secretaría de Turismo Federal: La Secretaría de Turismo de la Administración Pública Federal;
 
 XXIX. Servicios turísticos: los dirigidos a atender las solicitudes de los turistas a cambio de una contraprestación, en apego con lo dispuesto por esta Ley y su Reglamento;
 
@@ -311,9 +313,9 @@ X. Diseñar, instrumentar, ejecutar y evaluar, los programas de investigación p
 
 XI. Promover y reconocer todos los tipos de turismo que puedan desarrollarse y aprovecharse en el Estado;
 
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 2 DE MARZO DE 2026)</small>
 
-XII. Proyectar y ejecutar, en coordinación con los ayuntamientos, planes que tengan como objetivo la incorporación y permanencia en el Programa Pueblos Mágicos. Así como en la participación de recursos federales del Programa de Desarrollo Regional Turístico Sustentable y Pueblos Mágicos que lleva anualmente la Secretaría de Turismo;
+XII. Proyectar y ejecutar, en coordinación con los ayuntamientos, planes que tengan como objetivo la incorporación y permanencia en el Programa Pueblos Mágicos. Así como en la participación de recursos federales del Programa de Desarrollo Regional Turístico Sustentable y Pueblos Mágicos que lleva anualmente la Secretaría de Turismo Federal;
 
 XIII. Establecer relaciones de coordinación con las autoridades federales, estatales y municipales, de la administración pública centralizada o paraestatal, y con sectores social y privado, para el trámite y atención de asuntos de interés común;
 
@@ -607,9 +609,11 @@ La Secretaría promoverá las acciones de coordinación y formulará recomendaci
 
 La Secretaría podrá solicitar a la dependencia competente, el registro de las instituciones educativas establecidas en el Estado, dedicadas a la especialización en las diferentes ramas de la actividad y servicios turísticos, reconocidas oficialmente, con el objeto de informar a los prestadores de servicios turísticos, sobre la validez oficial y el nivel académico de dichas instituciones educativas.
 
+> <small>(REFORMADO, P.O. 2 DE MARZO DE 2026)</small>
+
 ###### ARTICULO 35.
 
-La Secretaría diseñará y aplicará los programas de capacitación, y se coordinará con la Secretaría de Turismo, dependencias federales, estatales y municipales, así como con organismos de los sectores social y privado, a efecto de obtener su asistencia y colaboración para la impartición de cursos de capacitación turística, tanto a prestadores de servicios turísticos, como a servidores públicos.
+La Secretaría diseñará y aplicará los programas de capacitación, y se coordinará con la Secretaría de Turismo Federal, dependencias federales, estatales y municipales, así como con organismos de los sectores social y privado, a efecto de obtener su asistencia y colaboración para la impartición de cursos de capacitación turística, tanto a prestadores de servicios turísticos, como a servidores públicos.
 
 ### Capítulo II. De la Educación, Cultura y Reconocimientos
 
@@ -1666,6 +1670,14 @@ SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
 P.O. 28 DE NOVIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0318.- QUE REALIZA ADICIÓN AL ARTÍCULO 4º Y REFORMA LOS ARTÍCULOS 4º, 50, 51, 52, 53, 67 Y EL TÍTULO DEL CAPÍTULO III DEL TÍTULO SEXTO, DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 2 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0471.- QUE REFORMA LOS ARTÍCULOS 4º, 8º Y 35, DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
