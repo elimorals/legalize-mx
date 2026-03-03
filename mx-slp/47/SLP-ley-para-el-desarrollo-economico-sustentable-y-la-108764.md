@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-el-desarrollo-economico-sustentable-y-la-108764"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-18"
-last_updated: "2025-12-03"
+last_updated: "2026-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2026.
 
 Ley publicada en la Edición Extraordinaria de Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de junio de 2015.
 
@@ -597,13 +597,17 @@ XV. Fomenten la integración de cadenas productivas;
 
 XVI. Ser micro, pequeñas o medianas empresas a las necesidades de demanda del mercado local;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2026)</small>
 
-XVII. Realicen nuevas inversiones, o amplíen sus instalaciones, generando con su actividad nuevos empleos permanentes, y
+XVII. Realicen nuevas inversiones, o amplíen sus instalaciones, generando con su actividad nuevos empleos permanentes;
 
-> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2026)</small>
 
-XVIII. Generen nuevas fuentes de empleos bien remunerados para connacionales repatriados.
+XVIII. Generen nuevas fuentes de empleos bien remunerados para connacionales repatriados, y
+
+> <small>(ADICIONADA, P.O. 3 DE MARZO DE 2026)</small>
+
+XIX. Tengan procedencia nacional o extranjera, que se encuentren establecidos en alguna Entidad federativa y pretendan transferir o crear actividades de manufactura en la entidad, y cuyo mercado primario sea un país o países distintos a la república mexicana.
 
 > <small>(ADICIONADO, P.O. 9 DE JULIO DE 2020)</small>
 
@@ -1286,6 +1290,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
 P.O. 3 DE DICIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0322.- QUE REFORMA Y REALIZA ADICIÓN AL ARTÍCULO 58, DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE Y COMPETITIVIDAD DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 3 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0472.- QUE REFORMA Y REALIZA ADICIÓN AL ARTÍCULO 33, DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
