@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2025-07-24"
+last_updated: "2026-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -125,13 +125,19 @@ El derecho de petición será atendido por los servidores públicos, cuando se f
 
 A toda petición, deberá recaer un acuerdo escrito de la Autoridad a quien se haya dirigido, la cual tiene obligación de hacerlo conocer al peticionario en breve término.
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2026)</small>
 
-Toda persona tiene derecho de acceder a la información pública y estará garantizado por el Estado, así como a la protección de sus datos personales conforme a la ley reglamentaria.
+Toda persona tiene derecho de acceder a la información pública, plural y oportuna, así como a la protección de sus datos personales conforme a la ley reglamentaria. Este derecho estará garantizado por el Estado.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE MAYO DE 2016)</small>
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2026)</small>
 
-El derecho de acceso a la información pública, se regirá por los siguientes principios:
+La ley determinará la competencia de los órganos encargados de la contraloría u homólogos de los poderes ejecutivo, legislativo y judicial, así como de los órganos internos de control o equivalentes de los órganos constitucionales autónomos y de los demás sujetos obligados responsables de garantizar el derecho al acceso a la información pública y protección de datos personales en posesión de los sujetos obligados, de conformidad con las bases, principios generales y procedimientos establecidos en la Constitución Política de los Estados Unidos Mexicanos y la ley general en la materia.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE MARZO DE 2026)</small>
+
+El derecho de acceso a la información pública se regirá por los siguientes principios y bases:
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE MAYO DE 2016)</small>
 
 I. Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial del Estado, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, a quienes se les denominará sujetos obligados, es pública y sólo podrá ser reservada temporalmente por las razones y en los términos que señalen las leyes.
 
@@ -139,23 +145,47 @@ En la interpretación de este derecho deberá prevalecer el principio de máxima
 
 Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones. La ley de la materia, determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información;
 
-II. De la información que se refiere a la vida privada y los datos personales en posesión de los sujetos obligados, los titulares de ésta, tendrán derecho al acceso, a la rectificación o a la cancelación y será protegida en los términos y con las excepciones que fije la ley reglamentaria;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 3 DE MARZO DE 2026)</small>
 
-III. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, en los términos que fije la ley secundaria; y
+II. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes. Para tal efecto, los sujetos obligados contarán con las facultades suficientes para su atención.
 
-IV. Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán a través de los medios electrónicos disponibles, así como en la Plataforma Nacional de Transparencia, la información completa y actualizada sobre el ejercicio de los recursos públicos, que permitan rendir cuentas del cumplimiento de sus objetivos y de los resultados obtenidos.
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2026)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE MAYO DE 2016)</small>
+Por lo que hace a la información relacionada con los datos personales en posesión de sujetos obligados, la ley determinará la competencia para conocer de los procedimientos relativos a su protección, verificación e imposición de sanciones.
 
-El Estado contará con un Órgano Garante autónomo, especializado, imparcial y colegiado, con personalidad jurídica y patrimonio propios, con plena autonomía técnica, de gestión, con capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, al que se le denominará Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo, responsable de garantizar el derecho de acceso a la información y de protección de datos personales en posesión de los sujetos obligados, conforme a los principios rectores que establece esta Constitución y las leyes secundarias.
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 18 DE JULIO DE 2024)</small>
+III. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales y a la rectificación de éstos en los términos que fije la ley secundaria;
 
-El Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo se integrará por tres miembros, denominados Comisionadas y Comisionados que permanecerán en su encargo por un período de siete años y no podrán ser reelectos. Su designación se realizará en los términos de la ley reglamentaria de manera escalonada para garantizar el principio de autonomía, procurando la igualdad de género y privilegiando la experiencia en materia de acceso a la información pública y protección de datos personales. No podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones docentes, científicas o de beneficencia.
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2026)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE MAYO DE 2016)</small>
+IV. Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán a través de los medios electrónicos disponibles, así como en la Plataforma Nacional de Transparencia, la información completa y actualizada sobre el ejercicio de los recursos públicos, que permitan rendir cuentas del cumplimiento de sus objetivos y de los resultados obtenidos;
 
-Su funcionamiento se regirá bajo los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad. Tendrá las facultades y obligaciones que le señale la legislación aplicable.
+> <small>(ADICIONADA, P.O. 3 DE MARZO DE 2026)</small>
+
+V. Se establecerán mecanismos de acceso a la información pública y procedimientos de revisión expeditos que se sustanciarán ante las instancias competentes en los términos que fije esta Constitución y las leyes;
+
+> <small>(ADICIONADA, P.O. 3 DE MARZO DE 2026)</small>
+
+VI. Los sujetos obligados deberán promover, respetar, proteger y garantizar los derechos de acceso a la información pública y a la protección de datos personales, y se regirán por las leyes en materia de transparencia y acceso a la información pública y protección de datos personales;
+
+> <small>(ADICIONADA, P.O. 3 DE MARZO DE 2026)</small>
+
+VII. Las leyes determinarán la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales, y
+
+> <small>(ADICIONADA, P.O. 3 DE MARZO DE 2026)</small>
+
+VIII. La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes.
+
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 3 DE MARZO DE 2026)</small>
+
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 3 DE MARZO DE 2026)</small>
+
+> <small>(DEROGADO SÉPTIMO PÁRRAFO, P.O. 3 DE MARZO DE 2026)</small>
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2026)</small>
+
+El ejercicio de este derecho se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
 
 > <small>(ADICIONADO, P.O. 15 DE MARZO DE 2007)</small>
 
@@ -1005,9 +1035,9 @@ Los poderes colaborarán entre sí para el eficaz cumplimiento de las funciones 
 
 Los organismos autónomos son entidades especializadas para la atención eficaz de funciones primarias y originarias del Estado, reconocidos en esta Constitución o en la Ley, cuentan con patrimonio y personalidad jurídica propia, independencia en sus decisiones, funcionamiento y administración, así como autonomía presupuestaria, técnica y de gestión en el ejercicio de sus atribuciones. Cada uno de los organismos autónomos contará con un órgano interno de control para vigilar la correcta administración y ejercicio de los recursos públicos, así como fomentar la rendición de cuentas y atender las evaluaciones sobre el cumplimento de los objetivos planteados, cuyo titular será nombrado por el Congreso del Estado por las dos terceras partes de las y los Diputados presentes.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2026)</small>
 
-Esta Constitución reconoce como organismos autónomos a la Comisión de Derechos Humanos del Estado de Hidalgo, el Instituto Estatal Electoral, el Tribunal Electoral del Estado de Hidalgo, el Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo y la Fiscalía General de Justicia del Estado de Hidalgo.
+Esta Constitución reconoce como organismos autónomos a la Comisión de Derechos Humanos del Estado de Hidalgo, el Instituto Estatal Electoral, el Tribunal Electoral del Estado de Hidalgo y la Fiscalía General de Justicia del Estado de Hidalgo.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -1395,9 +1425,7 @@ VIII. Aprobar en su caso, la propuesta de la persona titular del Poder Ejecutivo
 
 Nombrar de las listas propuestas por la persona Titular del Poder Ejecutivo a las personas titulares de la Fiscalía General de Justicia del Estado, de la Fiscalía Especializada en Delitos Electorales y de la Fiscalía Especializada en Delitos de Corrupción, así como conocer de su renuncia o remoción, mediante el procedimiento señalado en la Ley de la materia;
 
-> <small>(REFORMADA, P.O. 18 DE JULIO DE 2024)</small>
-
-VIII Bis. Nombrar a las Comisionadas y los Comisionados del Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo, así como conocer de su renuncia o remoción, mediante el procedimiento señalado en la Ley de la materia;
+VIII Bis. (DEROGADA, P.O. 3 DE MARZO DE 2026)
 
 IX. (DEROGADA, P.O. 9 DE MAYO DE 1998)
 
@@ -2329,9 +2357,7 @@ El desempeño de la función jurisdiccional, en los asuntos del fuero común, lo
 
 I. El Tribunal Superior de Justicia y jueces del fuero común;
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
-
-II. El Tribunal de Justicia Administrativa;
+II. (DEROGADA, P.O. 3 DE MARZO DE 2026)
 
 III. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2014)
 
@@ -2347,11 +2373,13 @@ Las personas titulares de las magistraturas y las personas juzgadoras del fuero 
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 12 DE MARZO DE 2025)</small>
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2026)</small>
 
 ###### Artículo 94.
 
-El Tribunal Superior de Justicia, el Tribunal de Justicia Administrativa y el Tribunal Electoral estarán integrados por el número de magistradas y magistrados que establezcan las leyes orgánicas respectivas, observando el principio de paridad de género.
+El Tribunal Superior de Justicia y el Tribunal Electoral estarán integrados por el número de magistradas y magistrados que establezcan las leyes orgánicas respectivas, observando el principio de paridad de género.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
 Las magistradas y magistrados del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial, así como las juezas y jueces del fuero común, serán elegidos mediante sufragio universal, libre, secreto y directo por parte de la ciudadanía el día que se realicen las elecciones locales ordinarias del año que corresponda, conforme al siguiente procedimiento:
 
@@ -2377,19 +2405,35 @@ IV. El Instituto Estatal Electoral efectuará los cómputos de la elección, pub
 
 V. Las personas electas a los cargos públicos a que se refiere el segundo párrafo del presente artículo, tomarán protesta de su encargo ante el Congreso del Estado el primer día en que se instale el primer periodo ordinario de sesiones del año de la elección que corresponda.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
+
 Las personas candidatas tendrán derecho de acceso a radio y televisión de manera igualitaria, conforme a la distribución del tiempo que señale la ley y determine la autoridad electoral competente. Podrán, además, participar en foros de debate organizados por el Instituto Estatal Electoral o en aquellos brindados gratuitamente por el sector público, privado o social en condiciones de equidad.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
 Para todos los cargos de elección dentro del Poder Judicial estará prohibido el financiamiento público o privado de sus campañas, así como la contratación por sí o por interpósita persona de espacios en radio y televisión o de cualquier otro medio de comunicación para promocionar candidatas y candidatos. Los partidos políticos y las personas servidoras públicas no podrán realizar actos de proselitismo, ni posicionarse a favor o en contra de candidatura alguna.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
+
 La ley establecerá la forma de las campañas, así como las restricciones y sanciones aplicables a las personas candidatas o servidoras públicas cuyas manifestaciones o propuestas excedan o contravengan los parámetros constitucionales y legales.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
 Cada dos años se renovará la presidencia de cada Tribunal de manera rotatoria, en función del número de votos que obtenga cada candidatura en la elección respectiva, correspondiendo la presidencia a quienes alcancen mayor votación.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
+
 Para el trámite de las renuncias de las magistraturas del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial, así como de las personas juzgadoras del fuero común, se deberá seguir lo dispuesto en esta Constitución, así como el procedimiento que al efecto establezcan las leyes secundarias.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
 Cuando la falta de alguna de las personas servidoras públicas señaladas en el párrafo anterior excediere de un mes sin licencia o dicha falta se deba a su defunción, renuncia o separación definitiva de su cargo, ocupará la vacante la persona del mismo género que haya obtenido el segundo lugar en número de votos en la elección para ese cargo; en caso de declinación o imposibilidad, seguirá en orden de prelación la persona que haya obtenido mayor votación. El Congreso del Estado tomará protesta a la persona sustituta para desempeñarse por el periodo que reste al encargo.
 
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
+
 Las licencias de las personas servidoras públicas del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial que no excedan de tres meses, podrán ser concedidas por el Pleno de dichos órganos colegiados; y para el caso de juezas y jueces del fuero común, podrán ser otorgadas por el Pleno del Órgano de Administración Judicial. Las licencias que excedan de este tiempo deberán concederse por el Congreso del Estado o la Diputación Permanente, en los términos que señala esta Constitución y las leyes respectivas.
+
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
 La remuneración que perciban por sus servicios las magistradas y magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa y del Tribunal de Disciplina Judicial, así como las juezas y jueces del fuero común, no podrá ser mayor a la establecida para la persona titular del Poder Ejecutivo del Estado en el presupuesto correspondiente, misma que no podrá ser disminuida durante su encargo.
 
@@ -2429,21 +2473,9 @@ IX. (DEROGADA, P.O. 3 DE MARZO DE 2014)
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 12 DE MARZO DE 2025)</small>
 
-> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2025)</small>
-
 ###### Artículo 95 Bis.
 
-Para ocupar el cargo de magistrada o magistrado del Tribunal de Justicia Administrativa, se requiere:
-
-I. Tener ciudadanía mexicana e hidalguense, en pleno ejercicio de sus derechos civiles y políticos;
-
-II. Poseer al día de la designación, título y cédula profesional de licenciado en Derecho expedidos por autoridad o institución legalmente facultada para ello;
-
-III. Haber residido en el país durante el año anterior al día de la designación, y
-
-IV. No haber sido titular de alguna dependencia de la Administración Pública del Estado, titular de la Fiscalía General de Justicia del Estado, senadora o senador, diputada o diputado federal, diputada o diputado local, ni persona titular del Poder Ejecutivo del Estado, durante el año previo al día de su nombramiento.
-
-Los nombramientos de las magistradas y magistrados del Tribunal de Justicia Administrativa serán hechos preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia y se distingan por su honorabilidad, competencia y antecedentes en la profesión jurídica.
+(DEROGADO, P.O. 3 DE MARZO DE 2026)
 
 ###### Artículo 96.
 
@@ -2477,15 +2509,19 @@ Las magistradas y magistrados del Tribunal Superior de Justicia, así como las j
 
 Las personas servidoras públicas del Poder Judicial a que se refiere el párrafo anterior tendrán jurisdicción en el Estado de Hidalgo, sin perjuicio del distrito judicial en el que hayan sido electos.
 
-Las magistradas y magistrados del Tribunal de Justicia Administrativa durarán nueve años en su encargo, el cual podrá prorrogarse únicamente hasta por un periodo más y en ningún caso adquirirán el carácter de inamovibles. La duración de las magistradas y magistrados del Tribunal Electoral en el ejercicio de su cargo, se determinará por lo dispuesto en la ley orgánica.
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2026)</small>
 
-Las bases de jubilación de las magistradas y los magistrados del Poder Judicial y del Tribunal de Justicia Administrativa se sujetarán a lo dispuesto en la ley secundaria.
+La duración de las magistradas y magistrados del Tribunal Electoral en el ejercicio de su cargo, se determinará por lo dispuesto en la ley orgánica.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2025)</small>
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2026)</small>
+
+Las bases de jubilación de las magistradas y los magistrados del Poder Judicial se sujetarán a lo dispuesto en la ley secundaria.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE MARZO DE 2026)</small>
 
 ###### Artículo 98.
 
-Las magistradas y magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa y del Tribunal de Disciplina Judicial, así como las juezas y jueces del fuero común, otorgarán la protesta de Ley ante el Congreso del Estado.
+Las magistradas y magistrados del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial, así como las juezas y jueces del fuero común, otorgarán la protesta de Ley ante el Congreso del Estado.
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 12 DE MARZO DE 2025)</small>
 
@@ -2535,41 +2571,7 @@ XII Bis.- Resolver los conflictos sobre límites territoriales que se susciten e
 
 XIII. Las demás que le confieran esta Constitución y las leyes que de ella emanen.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE MAYO DE 2017)</small>
-
-B. Son facultades del Tribunal de Justicia Administrativa:
-
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
-
-I. Dirimir las controversias que se susciten en materia fiscal y administrativa entre la Administración Pública Estatal o Municipal y los particulares.
-
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
-
-II. Conocer de las acciones de responsabilidad administrativa promovidas por la Auditoría Superior del Estado, la Secretaría de Contraloría y los Órganos Internos de Control Estatales y Municipales por faltas administrativas clasificadas como graves;
-
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
-
-III. Sustanciar los procesos respectivos, y en su caso, imponer las sanciones que correspondan a los servidores públicos y particulares por actos, hechos u omisiones vinculados con faltas administrativas graves;
-
-> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2017)</small>
-
-IV. Determinar e imponer las sanciones económicas e indemnizaciones que correspondan cuando se hayan causado daños o perjuicios al Patrimonio o a la Hacienda Pública del Estado o Municipios, en las cuales deberá considerarse el lucro obtenido y la reparación de los daños y perjuicios causados;
-
-> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2017)</small>
-
-V. Asegurar la recuperación de los activos que hayan sido objeto, instrumento, producto o estén relacionadas con las faltas administrativas graves en los términos de ley de la materia, con independencia de las sanciones administrativas que correspondan;
-
-> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2017)</small>
-
-VI. Conocer y resolver las controversias que se susciten sobre responsabilidad patrimonial del Estado y de los Municipios;
-
-> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2017)</small>
-
-VII. Conocer de los recursos que establezca la Ley de la materia; y
-
-> <small>(ADICIONADA, P.O. 22 DE MAYO DE 2017)</small>
-
-VIII. Las demás que le confieran esta Constitución y las leyes que de ella emanen.
+B. (DEROGADO, P.O. 3 DE MARZO DE 2026)
 
 C. Son facultades del Tribunal Electoral resolver en forma definitiva en los términos de esta Constitución y según lo disponga la ley sobre:
 
@@ -2603,7 +2605,9 @@ El Tribunal de Disciplina Judicial conducirá sus investigaciones a través de u
 
 Cualquier persona o autoridad podrá denunciar ante el Tribunal de Disciplina Judicial hechos que pudieran ser objeto de responsabilidad administrativa o penal cometidos por alguna persona servidora pública del Poder Judicial del Estado de Hidalgo, incluyendo magistradas y magistrados, juezas y jueces, a efecto de que investigue y, en su caso, sancione la conducta denunciada. El Tribunal de Disciplina Judicial conducirá y sustanciará sus procedimientos de manera pronta, completa, expedita e imparcial, conforme al procedimiento que establezca la ley.
 
-Las sanciones que emita el Tribunal de Disciplina Judicial podrán incluir la amonestación, suspensión, sanción económica o destitución e inhabilitación de las personas servidoras públicas. Las magistradas y magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa y del Tribunal de Disciplina Judicial, así como las juezas y jueces del fuero común, sólo podrán ser removidos en los términos que determinan esta Constitución y la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo.
+> <small>(REFORMADO, P.O. 3 DE MARZO DE 2026)</small>
+
+Las sanciones que emita el Tribunal de Disciplina Judicial podrán incluir la amonestación, suspensión, sanción económica o destitución e inhabilitación de las personas servidoras públicas. Las magistradas y magistrados del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial, así como las juezas y jueces del fuero común, sólo podrán ser removidos en los términos que determinan esta Constitución y la Ley de Responsabilidades de los Servidores Públicos para el Estado de Hidalgo.
 
 El Tribunal de Disciplina Judicial evaluará el desempeño de las magistradas y magistrados del Tribunal Superior de Justicia, así como de las juezas y jueces del fuero común. La ley establecerá los métodos, criterios e indicadores aplicables a dicha evaluación.
 
@@ -3347,13 +3351,13 @@ Las sesiones del Ayuntamiento serán públicas, salvo que por acuerdo de las dos
 
 Las relaciones de trabajo entre los municipios y sus trabajadores, se regirán por la ley que expida la Legislatura del Estado con base en lo dispuesto en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE MARZO DE 2026)</small>
 
-## TITULO X. DE LA RESPONSABILIDAD DE LOS SERVIDORES PUBLICOS
+## TITULO X. DE LA RESPONSABILIDAD DE LOS SERVIDORES PÚBLICOS Y DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 3 DE MARZO DE 2026)</small>
 
-### CAPITULO UNICO
+### CAPÍTULO PRIMERO. DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
 
@@ -3403,9 +3407,9 @@ Los procedimientos para la aplicación de las sanciones mencionadas, se desarrol
 
 El Sistema Estatal Anticorrupción es la instancia de coordinación entre las autoridades locales y municipales competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
-> <small>(REFORMADA, P.O. 12 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2026)</small>
 
-I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares de la Auditoría Superior del Estado de Hidalgo; de la Fiscalía Especializada en Delitos de Corrupción; de la Secretaría de Contraloría; del Tribunal de Justicia Administrativa; del Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado; así como por una persona representante del Tribunal de Disciplina Judicial, otro del Comité de Participación Ciudadana, quien lo presidirá y por lo menos tres titulares de las instancias municipales designadas para tal efecto;
+I. El Sistema contará con un Comité Coordinador que estará integrado por los titulares de la Auditoría Superior del Estado de Hidalgo; de la Fiscalía Especializada en Delitos de Corrupción; de la Secretaría de Contraloría; del Tribunal de Justicia Administrativa; así como por una persona representante del Tribunal de Disciplina Judicial, otra del Comité de Participación Ciudadana, quien lo presidirá, y por lo menos tres personas titulares de las instancias municipales designadas para tal efecto;
 
 II. El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley, y
 
@@ -3473,11 +3477,21 @@ La responsabilidad por delitos cometidos durante el tiempo del encargo por cualq
 
 La Ley de la materia, señalará los casos de prescripción de la responsabilidad administrativa, tomando en cuenta la naturaleza y consecuencia de los actos u omisiones ilícitas. Cuando dichos actos u omisiones fueran graves, los plazos de prescripción no serán inferiores a siete años.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 3 DE MARZO DE 2026)</small>
+
+### CAPITULO SEGUNDO. DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 154 Bis.
+
+El Tribunal de Justicia Administrativa del Estado de Hidalgo es un órgano jurisdiccional, encargado de dirimir las controversias que se susciten entre la Administración Pública Estatal y Municipal y los particulares, dotado de plena autonomía para dictar sus fallos. De igual forma será el órgano competente para imponer las sanciones a las personas servidoras públicas estatales y municipales por responsabilidad administrativa que la ley determine como grave, y a los particulares que incurran en actos vinculados con faltas administrativas graves; así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública estatal o municipal o al patrimonio de los entes públicos estatales o municipales.
+
+Se integrará por el número de magistradas y magistrados que establezca la ley orgánica respectiva, observando el principio de paridad de género, quienes serán designados por la persona titular del Poder Ejecutivo del Estado, y deberán ser aprobados en términos de la ley por las dos terceras partes de los miembros presentes del Pleno o de la Diputación Permanente del Congreso del Estado. Durarán nueve años en el cargo, mismo que podrá prorrogarse únicamente hasta por un periodo más y en ningún caso adquirirán el carácter de inamovibles; y sólo podrán ser removidos por las causas graves señaladas por la ley.
+
+El Congreso expedirá la ley en que se determine la organización y funcionamiento del Tribunal, así como los procedimientos y recursos que procedan contra sus resoluciones.
+
 > <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 1 DE NOVIEMBRE DE 1979)</small>
-
-### CAPITULO UNICO
-
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
 ## TITULO XI. PREVENCIONES GENERALES
 
@@ -3485,7 +3499,7 @@ La Ley de la materia, señalará los casos de prescripción de la responsabilida
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
 ###### Artículo 155.
 
@@ -3533,7 +3547,7 @@ En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos 
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 2 DE AGOSTO DE 1995)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 2014)</small>
 
 ###### Artículo 158.
 
@@ -4788,3 +4802,59 @@ P.O. 24 DE JULIO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 291 – LXVI POR EL QUE SE ADICIONA EL ARTÍCULO 8 TER A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO, EN MATERIA DE DERECHOS DE LOS ANIMALES COMO SERES SINTIENTES”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 3 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 579 - LXVI, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO, EN MATERIA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. El Congreso del Estado tendrá un plazo de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones normativas necesarias, así como para expedir la legislación secundaria correspondiente para dar cumplimiento al Decreto.
+
+TERCERO. Las magistradas y los magistrados del Tribunal de Justicia Administrativa del Estado de Hidalgo que hayan sido nombrados con antelación a la fecha de entrada en vigor del presente Decreto, continuarán en el cargo por el periodo que fueron designados, mientras que los nombramientos realizados después de la entrada en vigor del presente Decreto, se regirán por las disposiciones aplicables en el mismo.
+
+CUARTO. El Tribunal de Justicia Administrativa del Estado de Hidalgo continuará funcionando con su organización y facultades actuales, sustanciando los asuntos que actualmente se encuentran en trámite, hasta la entrada en vigor de la legislación a que se refiere el artículo 154 Bis de este Decreto.
+
+QUINTO. Los derechos laborales de las personas servidoras públicas adscritas al Tribunal de Justicia Administrativa del Estado de Hidalgo se respetarán en términos de lo previsto por las disposiciones jurídicas aplicables.
+
+SEXTO. El Poder Legislativo del Estado garantizará que los fondos y recursos destinados a la transición sean progresivos, excepto en los casos y términos que el propio Congreso del Estado establezca, al aprobar el presupuesto de egresos correspondiente.
+
+SÉPTIMO. La persona que ostenta la Presidencia del Tribunal de Justicia Administrativa del Estado de Hidalgo, dentro de los treinta días naturales posteriores a la entrada en vigor de este Decreto, instalará y presidirá un Comité Interinstitucional de Transición, conformado al menos por una persona representante del Poder Judicial del Estado de Hidalgo, una persona representante de la Secretaría de Hacienda y una persona representante del Poder Legislativo, con el fin de planificar, programar, proyectar, vigilar, coordinar, evaluar y dar seguimiento a todas aquellas actividades que sean necesarias para la correcta implementación del presente Decreto.
+
+El Comité de Transición emitirá sus Lineamientos de Operación dentro de los treinta días naturales siguientes a su instalación.
+
+OCTAVO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 580 – LXVI POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO, RELATIVO A LA SIMPLIFICACIÓN ORGÁNICA EN MATERIA DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. El Congreso del Estado de Hidalgo deberá realizar la armonización al marco jurídico estatal en materia de acceso a la información pública y protección de datos personales del Estado de Hidalgo derivada del presente Decreto, en un plazo no mayor a ciento ochenta días naturales, contados a partir de su entrada en vigor.
+
+El Decreto que contenga la armonización al marco jurídico estatal a que hace referencia el párrafo anterior, deberá señalar en su régimen transitorio el proceso de extinción del Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo, así como el momento en el que se considere deba de quedar extinto.
+
+Al efecto, la persona titular del Poder Ejecutivo del Estado de Hidalgo emitirá el Decreto de extinción correspondiente.
+
+TERCERO. Las economías y ahorros que se generen con la extinción del ente público materia del presente Decreto, se destinarán a la Secretaría de Hacienda del Poder Ejecutivo del Estado, en términos de la normatividad aplicable.
+
+CUARTO. Los actos jurídicos que el Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo, haya emitido hasta antes de la entrada en vigor del Decreto que contenga la armonización al marco jurídico estatal a que hace referencia el artículo Transitorio Segundo del presente Decreto, surtirán todos sus efectos legales.
+
+En el caso de los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, se entenderán como vigentes y obligarán en sus términos al ente que asuma las funciones del órgano público que quedará extinto, según corresponda, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente.
+
+Los recursos materiales, así como los registros, padrones, plataformas y sistemas electrónicos del órgano público que se extinguirá conforme al artículo Transitorio Segundo, pasarán a formar parte del ente que asuma las funciones, en los términos del presente Decreto y del Decreto que contenga la armonización al marco jurídico estatal a que hace referencia dicho transitorio.
+
+QUINTO. Las comisionadas y los comisionados del Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo que a la entrada en vigor del presente Decreto continúen en su encargo, concluirán sus funciones a la entrada en vigor del Decreto que contenga la armonización al marco jurídico estatal a que alude el artículo Transitorio Segundo.
+
+Cuando para efectos de integrar el quórum del Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo, requiera realizarse un nuevo nombramiento, la temporalidad de este no podrá exceder en ningún caso de la fecha de entrada en vigor del Decreto que contenga la armonización al marco jurídico estatal a que hace referencia el artículo Transitorio Segundo del presente Decreto.
+
+SEXTO. Hasta en tanto entre en vigor el Decreto que contenga la armonización al marco jurídico estatal a que hace referencia el artículo Transitorio Segundo del presente Decreto, el Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo continuará operando de conformidad con sus atribuciones, así como los órganos encargados de la contraloría interna u homólogos de los Poderes Legislativo y Judicial, y de los órganos constitucionales autónomos.
+
+SÉPTIMO. Los recursos humanos con que cuente el Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo, a consecuencia del presente Decreto, podrán formar parte del ente público que asuma sus atribuciones, cuando corresponda.
+
+OCTAVO. Dentro de los treinta días naturales posteriores a la entrada en vigor de este Decreto, la Secretaría de Contraloría del Poder Ejecutivo del Estado instalará y presidirá un Comité Interinstitucional de Transición, conformado al menos por personas representantes de los poderes Judicial y Legislativo del Estado; de la Oficialía Mayor y la Secretaría de Hacienda; así como del Instituto de Transparencia, Acceso a la Información Pública Gubernamental y Protección de Datos Personales del Estado de Hidalgo, con el fin de llevar a cabo una transición administrativa y normativa adecuada.
+
+Este Comité emitirá sus Lineamientos de Operación dentro de los treinta días naturales siguientes a su instalación.
+
+NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
