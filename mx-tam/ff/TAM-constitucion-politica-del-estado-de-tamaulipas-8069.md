@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2026-02-27"
+last_updated: "2026-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "TAM"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE MARZO DE 2026 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -2603,9 +2605,9 @@ X.- (DEROGADA, P.O. 18 DE NOVIEMBRE DE 2024)
 
 XI.- Delegar al Presidente las atribuciones que estime pertinentes;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2026)</small>
 
-XII.- Recibir, en sesión plenaria, extraordinaria, pública y solemne que se verificará antes de la segunda quincena del mes de marzo de cada año, el informe anual de labores que deberá rendir su Presidente sobre el estado que guardan el Poder Judicial del Estado y la impartición de justicia.
+XII.- Recibir, en sesión plenaria, pública y solemne que se verificará a más tardar en la segunda quincena del mes de septiembre de cada año, el informe anual de labores que deberá rendir la persona titular de la Presidencia sobre el estado que guardan el Poder Judicial del Estado y la impartición de justicia.
 
 El informe se entregará por escrito al Congreso del Estado, en la modalidad que éste acuerde;
 
@@ -6024,3 +6026,35 @@ P.O. 27 DE FEBRERO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-997 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN, DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS; Y DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los asuntos y servicios administrativos que se encuentran en trámite, previo a la entrada en vigor de este Decreto, continuarán su procedimiento normal hasta la conclusión de los mismos, ante las Unidades Administrativas que se iniciaron.
+
+###### ARTÍCULO TERCERO.
+
+Los Órganos que integran al Poder Judicial del Estado, serán responsables de que sus respectivas áreas administrativas realicen las adecuaciones legales, que se deriven del presente Decreto, en un plazo no mayor a ciento ochenta días naturales, contados a partir de la entrada en vigor de este instrumento.
+
+###### ARTÍCULO CUARTO.
+
+Hasta en tanto el Pleno del Supremo Tribunal de Justicia del Estado y el Órgano de Administración Judicial emitan los acuerdos generales a que se refieren los artículos 9, 10, 11, 12 y 13, los órganos jurisdiccionales continuarán con la competencia territorial en los distritos y regiones judiciales establecida en dichos artículos previos a la presente reforma.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan aquellas disposiciones administrativas en lo que se opongan a las contenidas en el presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Las adecuaciones que se establecen en este instrumento se ajustarán a la disponibilidad de recursos que se establezca en el Presupuesto de Egresos del Poder Judicial del Estado de Tamaulipas, para el año que corresponda.
+
+###### ARTÍCULO SÉPTIMO.
+
+Los procedimientos disciplinarios cuya etapa de investigación no haya concluido a la entrada en vigor del presente Decreto, se tramitarán por el Tribunal de Disciplina Judicial a través de sus órganos auxiliares, conforme a las disposiciones legales vigentes en su inicio.
