@@ -4,7 +4,7 @@ identifier: "SLP-ley-agricola-para-el-estado-de-san-luis-potosi-150517"
 country: "mx"
 rank: "ley"
 publication_date: "2021-08-05"
-last_updated: "2025-10-14"
+last_updated: "2026-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150517&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY AGRÍCOLA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 5 de agosto de 2021.
 
@@ -235,7 +235,9 @@ XIV. Realizar estudios técnicos y de investigación que permitan definir los cu
 
 XV. Promover la diversificación de especies y variedades necesarias y convenientes en las zonas productivas de la entidad, protegiendo sus ecosistemas, mediante estudios del potencial productivo agrícola;
 
-XVI. Promover el uso de semillas mejoradas y certificadas, los fertilizantes y demás insumos requeridos para el buen desarrollo de los cultivos tendentes a mejorar la productividad y la protección del medio ambiente;
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2026)</small>
+
+XVI. Promover el uso de semillas mejoradas y certificadas, los fertilizantes y demás insumos producidos en nuestro país requeridos para el buen desarrollo de los cultivos tendentes a mejorar la productividad y la protección del medio ambiente;
 
 > <small>(REFORMADA, P.O. 14 DE MARZO DE 2023)</small>
 
@@ -479,6 +481,10 @@ VII. La rentabilidad, el beneficio equitativo de los productores agrícolas, el 
 
 VIII. La adaptación y la mitigación del cambio climático y la conservación de los ecosistemas del Estado, mediante el ordenamiento ecológico territorial y el aprovechamiento racional y sustentable de los recursos disponibles en el Estado para la actividad agrícola.
 
+> <small>(ADICIONADA, P.O. 3 DE MARZO DE 2026)</small>
+
+VIII (sic). La igualdad de género, para asegurar que las mujeres en contextos rurales tengan las mismas oportunidades que los hombres para acceder a recursos agrícolas, proyectos productivos y programas de impulso al campo, reconociendo su papel esencial en el fortalecimiento de las comunidades rurales.
+
 ###### ARTÍCULO 30.
 
 La SEDARH, en coordinación con la Secretaría de Ecología y Medio Ambiente, realizará los estudios necesarios para valorar los impactos ambientales que ocasionen los procesos productivos en zonas determinadas y propondrá las medidas para el aprovechamiento racional de cada una de ellas, y analizará las necesidades económicas mínimas que deben cubrirse para garantizar su desarrollo sustentable.
@@ -563,9 +569,15 @@ IV. Apoyar el mejoramiento y conservación del suelo, implementando la rotación
 
 V. Fomentar el desarrollo de la producción orgánica, para la recuperación de cuencas hidrológicas, aguas, suelos, ecosistemas, así como sistemas agrícolas deteriorados por las prácticas convencionales de producción, que las redirija a prácticas sustentables;
 
-VI. Fomentar la certificación orgánica, así como la promoción de los productos orgánicos en los mercados regional, nacional e internacional, y
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2026)</small>
 
-VII. Las demás actividades que contribuyan a garantizar la sustentabilidad de las actividades agrícolas.
+VI. Fomentar la certificación orgánica, así como la promoción de los productos orgánicos en los mercados regional, nacional e internacional;
+
+> <small>(ADICIONADA, P.O. 3 DE MARZO DE 2026)</small>
+
+VII. Considerar en las acciones para la soberanía y la seguridad alimentaria se abarque a todos los productores y agentes intervinientes, de manera prioritaria a los pequeños productores en condiciones de pobreza, impulsando la integración de las cadenas productivas de alimentos, y
+
+VIII. Las demás actividades que contribuyan a garantizar la sustentabilidad de las actividades agrícolas.
 
 ### Capítulo II. Mejoramiento y Conservación de Recursos
 
@@ -1068,6 +1080,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 14 DE OCTUBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0279.- QUE REFORMA EL ARTÍCULO 53, DE LA LEY AGRÍCOLA PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0474.- QUE REFORMA LOS ARTÍCULOS 7º Y 44; Y REALIZA ADICIÓN A LOS ARTÍCULOS 29 Y 44, DE LA LEY AGRÍCOLA PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
