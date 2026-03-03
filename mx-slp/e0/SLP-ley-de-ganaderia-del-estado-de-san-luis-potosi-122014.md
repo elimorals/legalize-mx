@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ganaderia-del-estado-de-san-luis-potosi-122014"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-20"
-last_updated: "2025-10-03"
+last_updated: "2026-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122014&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE GANADERÍA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Gobierno del Estado de San Luis Potosí, el sábado 20 de mayo de 2017.
 
@@ -54,6 +54,10 @@ Esta Ley es de orden público e interés social, establece las disposiciones a q
 ###### ARTÍCULO 2°.
 
 Las disposiciones contenidas en esta Ley serán aplicables a los propietarios de explotaciones pecuarias, a los comerciantes de ganado, a los dedicados a las diversas actividades industriales derivadas o conexas con la ganadería, y a quienes en forma habitual o accidental efectúen actos relacionados con el objeto de este Ordenamiento.
+
+> <small>(ADICIONADO, P.O. 3 DE MARZO DE 2026)</small>
+
+El lenguaje utilizado en el presente ordenamiento jurídico se entenderá redactado en términos neutros y comprenderá a todas las personas, sin distinción de género. Para la aplicación e interpretación de esta Ley, las autoridades, en sus actuaciones, comunicaciones y decisiones, utilizarán de manera preferente términos que reflejen dicho carácter neutro e inclusivo, sin que sea necesaria la modificación expresa de cada precepto legal para alcanzar este fin.
 
 ###### ARTÍCULO 3°.
 
@@ -2298,6 +2302,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 3 DE OCTUBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0268.- QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE GANADERÍA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0473.- QUE REALIZA ADICIÓN AL ARTÍCULO 2, DE LA LEY DE GANADERÍA DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
