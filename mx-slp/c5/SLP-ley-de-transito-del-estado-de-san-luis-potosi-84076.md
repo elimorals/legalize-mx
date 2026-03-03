@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2024-09-18"
+last_updated: "2026-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2026.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -232,6 +232,10 @@ XXXVI QUATER. Señalamiento Vertical: conjunto de señales en tableros fijados e
 > <small>(ADICIONADA, P.O. 14 DE JUNIO DE 2024)</small>
 
 XXXVI QUINQUES. Siniestro de Tránsito: Cualquier suceso, hecho, accidente o evento en la vía pública derivado del tránsito vehicular y de personas, en el que interviene por lo menos un vehículo y en el cual se causan la muerte, lesiones, incluidas en las que se adquiere alguna discapacidad, o daños materiales, que puede prevenirse y sus efectos adversos atenuarse;
+
+> <small>(ADICIONADA, P.O. 3 DE MARZO DE 2026)</small>
+
+XXXVI SEXTIES. Sistemas de Retención Infantil: Dispositivos de seguridad para limitar la movilidad del cuerpo para personas menores de doce años, a fin de disminuir el riesgo de lesiones en caso de colisión o desaceleración brusca del vehículo;
 
 XXXVII. Tarjeta de circulación: documento oficial expedido por la autoridad competente que identifica al vehículo por sus características e individualiza al propietario;
 
@@ -2246,3 +2250,11 @@ PRIMERO. El presente Decreto entra en vigor al día siguiente de su publicación
 SEGUNDO. Los cincuenta y ocho municipios del Estado de San Luis Potosí, contarán con un plazo de noventa días naturales para adecuar sus respectivos Reglamentos de Tránsito.
 
 TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 3 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0476.- QUE REALIZA ADICIÓN AL ARTÍCULO 6º, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico oficial “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
