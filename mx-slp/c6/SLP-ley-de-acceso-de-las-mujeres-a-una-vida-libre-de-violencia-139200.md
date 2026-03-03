@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1392
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-25"
-last_updated: "2026-01-13"
+last_updated: "2026-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 25 de noviembre de 2019.
 
@@ -77,6 +77,10 @@ c) Que contravenga o no cumpla con los estándares establecidos en el derecho in
 
 d) Que el resultado discrimine o profundice la desigualdad entre mujeres y hombres;
 
+> <small>(ADICIONADA, P.O. 3 DE MARZO DE 2026)</small>
+
+II BIS. Agresor: La persona que inflige cualquier tipo de violencia contra las mujeres;
+
 III. Alerta de violencia de género: es el conjunto de acciones gubernamentales de emergencia para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad;
 
 > <small>(ADICIONADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
@@ -89,7 +93,15 @@ III TER. Daño: Cualquier perjuicio, menoscabo o dolor que una persona sufre a c
 
 IV. Derechos humanos de las mujeres: los derechos que son parte inalienable, integrante e indivisible de los derechos humanos universales contenidos en la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer; la Convención sobre los Derechos de la Niñez; la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer, y demás instrumentos internacionales en la materia;
 
+> <small>(ADICIONADA, P.O. 3 DE MARZO DE 2026)</small>
+
+IV BIS. Debida diligencia: La obligación de las personas servidoras públicas de prevenir, atender, investigar y sancionar la violencia contra las mujeres de manera oficiosa, oportuna, competente, independiente, imparcial, exhaustiva y garantizando la participación individual y colectiva de las mujeres, para garantizar el derecho a una vida libre de violencia, a la verdad, la justicia y la reparación integral y transformadora;
+
 V. Empoderamiento: el proceso mediante el cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión, a un estado de conciencia, autodeterminación y autonomía, que se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
+
+> <small>(ADICIONADA, P.O. 3 DE MARZO DE 2026)</small>
+
+V BIS. Enfoque diferencial: Tiene como objetivo visibilizar las diferentes situaciones de vulnerabilidad de las mujeres, las adolescentes y las niñas, ya sea por género, edad, etnia o discapacidad; así como las vulneraciones específicas a sus derechos humanos en tanto pertenecientes a grupos sociales o culturales específicos. Lo anterior con el objetivo de diseñar y ejecutar medidas afirmativas para la garantía del goce efectivo de los derechos de las mujeres, las adolescentes y las niñas;
 
 VI. Equidad: el principio que busca alcanzar la justicia social con responsabilidad, mediante la valoración de la individualidad, considerando las diferencias existentes entre personas y grupos, para establecer mecanismos que les permitan alcanzar la igualdad, desde sus diversas circunstancias y características;
 
@@ -124,6 +136,10 @@ XIII. Noviazgo: Es un acto de voluntad transitorio entre dos personas que mantie
 XIV. Perspectiva de género: la visión científica, analítica y política sobre las mujeres y los hombres, que propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género, y promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos, y a la representación política y social en los ámbitos de toma de decisiones;
 
 XV. Programa: el Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+> <small>(ADICIONADA, P.O. 3 DE MARZO DE 2026)</small>
+
+XV BIS. Registro Nacional: El Registro Nacional de Medidas u Órdenes de Protección de las Mujeres, Adolescentes, Niñas y Niños, en seguimiento de los términos de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
 
 XVI. Sistema Estatal: el Sistema Estatal para la Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres;
 
@@ -162,6 +178,18 @@ b) Tocamientos, manoseos, besos, abrazos, arrimones, recargados o encimados sin 
 c) Masturbación, acecho, actos de exhibicionismo, persecución y demás prácticas que afecten o dañen la dignidad, integridad, libertad, libre circulación o permanencia y/o generen un ambiente hostil u ofensivo en los espacios públicos.
 
 VII. Violencia en el noviazgo: el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar o agredir a las mujeres de cualquier edad, mediante la realización de uno o varios tipos de violencia, durante o después de una relación de noviazgo, una relación afectiva o de hecho o una relación sexual;
+
+> <small>(ADICIONADA, P.O. 3 DE MARZO DE 2026)</small>
+
+VII Bis. Violencia en la comunidad. Son los actos individuales o colectivos que contravienen los derechos fundamentales de las Mujeres en su entorno social, propiciando discriminación, agresiones, marginación, exclusión o denigración, pudiendo ocurrir en el ámbito público;
+
+> <small>(ADICIONADA, P.O. 3 DE MARZO DE 2026)</small>
+
+VII Ter. Violencia escolar. Es toda agresión realizada dentro del ambiente de las instituciones educativas, la cual puede expresarse de forma verbal, física, psicológica, patrimonial, cibernética y sexual, por los actores que conforman la comunidad escolar.
+
+La violencia escolar puede expresarse en:
+
+Acoso Escolar: Conductas de diversa naturaleza que se genera de manera reiterada como burlas, amenazas, intimidaciones, agresiones físicas y psicológicas, aislamiento sistemático e insultos, que tienden a originar problemas que se repiten y prolongan durante cierto tiempo dentro o fuera del establecimiento educativo, incluyendo los medios tecnológicos. En donde existe un abuso de poder, al estar provocada por un agresor, apoyado generalmente por un grupo, contra una víctima que se encuentra indefensa; quien no puede salir por sí misma de la situación, la cual provoca maltrato, humillación o temor fundado de verse expuesto a un mal de carácter grave; la cual se repite debido a la ignorancia o pasividad de las personas que rodean a los agresores y a las víctimas omitiendo intervenir directamente;
 
 VIII. Violencia feminicida: es la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar impunidad social y del Estado, y puede culminar en homicidio y otras formas de muerte violenta de mujeres;
 
@@ -879,9 +907,15 @@ XX. Coadyuvar en la formación de liderazgos políticos de las mujeres;
 
 XXI. Impulsar mecanismos de promoción, protección, y respeto de los derechos político-electorales de las mujeres;
 
-XXII. Vigilar que el contenido de los medios de comunicación y de la publicidad gubernamental o institucional a través de la cual se difundan las campañas a que se refiere este artículo, estará desprovisto de estereotipos discriminatorios establecidos en función del sexo de las personas, incorporará un lenguaje incluyente y transmitirá una imagen igualitaria, plural y no estereotipada de mujeres y hombres en la sociedad, y
+> <small>(REFORMADA, P.O. 3 DE MARZO DE 2026)</small>
 
-XXIII. Las demás previstas para el cumplimiento de esta Ley.
+XXII. Vigilar que el contenido de los medios de comunicación y de la publicidad gubernamental o institucional a través de la cual se difundan las campañas a que se refiere este artículo, estará desprovisto de estereotipos discriminatorios establecidos en función del sexo de las personas, incorporará un lenguaje incluyente y transmitirá una imagen igualitaria, plural y no estereotipada de mujeres y hombres en la sociedad;
+
+> <small>(ADICIONADA, P.O. 3 DE MARZO DE 2026)</small>
+
+XXIII. Suministrar la información en materia de órdenes de protección de nuestra la entidad a la Secretaría de Seguridad y Protección Ciudadana del Gobierno Federal, para su integración en el Registro Nacional de Medidas u Órdenes de Protección de las Mujeres, Adolescentes, Niñas y Niños, bajo los términos del Capítulo VII del Título Primero de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, y otras normas aplicables, y
+
+XXIV. Las demás previstas para el cumplimiento de esta Ley.
 
 ### CAPÍTULO X. SISTEMA ESTATAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO
 
@@ -1914,3 +1948,11 @@ P.O. 13 DE ENERO DE 2026.
 ## TRANSITORIO
 
 ÚNICO. El presente Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+P.O. 3 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0475.- QUE REFORMA EL ARTÍCULO 26; Y REALIZA ADICIÓN A LOS ARTÍCULOS 3º, 4º Y 26, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
