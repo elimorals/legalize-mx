@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2025-10-15"
+last_updated: "2026-03-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MARZO DE 2026.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -5230,7 +5230,11 @@ II.- La jornada máxima de trabajo nocturno será de 7 horas. Quedan prohibidas:
 
 III.- Queda prohibida la utilización del trabajo de los menores de quince años. Los mayores de esta edad y menores de dieciséis tendrán como jornada máxima la de seis horas.
 
-IV.- Por cada seis días de trabajo deberá disfrutar el operario de un día de descanso, cuando menos.
+> <small>(REFORMADA, D.O.F. 3 DE MARZO DE 2026)</small>
+
+IV.- La jornada laboral será de cuarenta horas semanales en los términos que establezca la Ley.
+
+Por cada seis días de trabajo las personas trabajadoras deberán disfrutar por lo menos de un día de descanso con goce de salario íntegro.
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
 
@@ -5272,9 +5276,13 @@ f).- El derecho de los trabajadores a participar en las utilidades no implica la
 
 X.- El salario deberá pagarse precisamente en moneda de curso legal, no siendo permitido hacerlo efectivo con mercancías, ni con vales, fichas o cualquier otro signo representativo con que se pretenda substituir la moneda.
 
-> <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1974)</small>
+> <small>(REFORMADA, D.O.F. 3 DE MARZO DE 2026)</small>
 
-XI.- Cuando, por circunstancias extraordinarias deban aumentarse las horas de jornada, se abonará como salario por el tiempo excedente un 100% más de lo fijado para las horas normales. En ningún caso el trabajo extraordinario podrá exceder de tres horas diarias, ni de tres veces consecutivas. Los menores de dieciséis años no serán admitidos en esta clase de trabajos.
+XI.- Cuando por circunstancias extraordinarias deban aumentarse las horas de la jornada, se abonará como salario por este tiempo un cien por ciento más de lo fijado para las horas ordinarias. El trabajo extraordinario no excederá de doce horas en una semana, las cuales podrán distribuirse en hasta cuatro horas diarias, en un máximo de cuatro días en ese periodo.
+
+La prolongación del tiempo extraordinario que supere lo establecido en el párrafo que antecede, obliga a la persona empleadora a pagar doscientos por ciento más del salario que corresponda a las horas de la jornada ordinaria conforme a lo establecido en la Ley de la materia.
+
+Las personas menores de dieciocho años no podrán laborar tiempo extraordinario.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 2 DE DICIEMBRE DE 2024)</small>
 
@@ -9589,3 +9597,27 @@ D.O.F. 15 DE OCTUBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 76 Y 78 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE RATIFICACIÓN DE GRADOS SUPERIORES DE LA GUARDIA NACIONAL”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 3 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES IV Y XI DEL APARTADO A DEL ARTÍCULO 123 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE REDUCCIÓN DE LA JORNADA LABORAL”.]
+
+Primero.- El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Congreso de la Unión deberá realizar las reformas a la legislación secundaria en un plazo de 90 días a partir de la publicación del presente Decreto.
+
+Tercero.- La duración de la jornada laboral a que se refiere el artículo 123, Apartado A, fracción IV del presente Decreto, se alcanzará de manera gradual, a partir del 1 de enero del año correspondiente, conforme a lo siguiente:
+
+Año Jornada Laboral
+
+2026 48
+
+2027 46
+
+2028 44
+
+2029 42
+
+2030 40
+
+Cuarto.- En ningún caso la reducción de la jornada laboral implicará la disminución de sueldos, salarios o prestaciones de las personas trabajadoras.
