@@ -4,7 +4,7 @@ identifier: "ZAC-codigo-penal-para-el-estado-de-zacatecas-8288"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-05-17"
-last_updated: "2026-02-04"
+last_updated: "2026-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CÓDIGO PENAL PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2026.
 
 Código publicado en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 17 de mayo de 1986.
 
@@ -1103,23 +1103,17 @@ Se entiende por placas sobrepuestas en vehículos automotores, las láminas de i
 
 Al responsable se le sancionará con prisión de dos a cinco años y multa de cien a trescientas cincuenta y cinco veces la Unidad de Medida y Actualización vigente.
 
-144.- Al que en estado de ebriedad o bajo la influencia de drogas enervantes plenamente comprobados conduzca un vehículo, se impondrá prisión de tres meses a un año o multa de cinco a cincuenta cuotas y suspensión de la licencia para manejar de uno a dos años, si no provoca un accidente punible.
+144.- (DEROGADO, P.O. 4 DE MARZO DE 2026)
 
-145.- Al manejador de un vehículo, que en camino público o privado rebase o trate de rebasar a otro vehículo, invadiendo el carril contrario, en curva, pendiente, columpio, elevación del terreno, lugar prohibido o en cualquier otro en que no haya visibilidad suficiente, se le impondrá por este sólo hecho sanción de tres a seis meses de prisión o multa de cinco a veinte cuotas y suspensión para manejar vehículos de uno a dos años, si no causare daños a tercero.
-
-Si se causaren daños a las personas o a las cosas o a ambas, estos daños se sancionarán como delitos de culpa, salvo prueba en contrario.
-
-Iguales sanciones se impondrán por el sólo hecho de estacionar un vehículo en carretera o camino en la noche, sin las luces de protección perfectamente visibles, aún en los tramos comprendidos dentro de un poblado que no esté iluminado; o por estacionarlo sin el abanderamiento adecuado en curva o en un columpio, cualquiera que sea la hora del día, en tal forma que no pueda verse a distancia suficiente para evitar una colisión. Si se causan daños se sancionarán como delitos de culpa, salvo prueba en contrario.
+145.- (DEROGADO, P.O. 4 DE MARZO DE 2026)
 
 146.- En caso de reincidencia en alguno de los delitos a que se refieren los tres artículos anteriores, la inhabilitación para manejar podrá ser definitiva y el juez dispondrá la cancelación de la licencia correspondiente.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2026)</small>
 
-147.- A los operadores de transporte público o cualquier otro que preste servicio similar que incurran en alguna de las conductas previstas en los artículos 143 y 144, se le impondrán hasta una mitad más de las sanciones previstas en los artículos señalados.
+147.- A los operadores de transporte público o cualquier otro que preste servicio similar que incurran en la conducta prevista en el artículo 143, se le impondrán hasta una mitad más de las sanciones previstas en el artículo señalado.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
-
-148.- Las sanciones en los casos del artículo 144, se impondrán independientemente de las que correspondan si resultaren daños a las personas o a las cosas.
+148.- (DEROGADO, P.O. 4 DE MARZO DE 2026)
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE AGOSTO DE 2019)</small>
 
@@ -2955,7 +2949,43 @@ II.- Prohibirles ir a determinado lugar, municipio o distrito del Estado, o resi
 
 ### CAPITULO V. INSTIGACION O AYUDA AL SUICIDIO
 
-305.- Al que instigue o ayude a otro al suicidio, se le impondrá sanción de tres a diez años de prisión si el suicidio se consuma. Si la ayuda se prestare hasta el punto de ejecutar el responsable la muerte, la prisión será de cinco a doce años. Si el suicidio no se lleva a efecto, pero su intento produce lesiones, la sanción será de tres meses a tres años. En todos los casos de este artículo se impondrá multa de cinco a quince cuotas.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2026)</small>
+
+305.- Al que instigue o ayude a otra persona al suicidio, se le impondrá sanción de tres a diez años de prisión si el suicidio se consuma.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2026)</small>
+
+Si la ayuda se prestare hasta el punto de ejecutar el responsable la muerte, la sanción será la que corresponda al homicidio, parricidio o feminicidio, según las circunstancias y modos de ejecución.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2026)</small>
+
+Si el suicidio no se lleva a efecto, pero su intento produce lesiones, la sanción será de tres meses a tres años. En todos los casos de este artículo se impondrá multa de quince a cuarenta y cinco veces la Unidad de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2026)</small>
+
+Se aumentará la pena de prisión prevista en el segundo párrafo de este artículo en una cuarta parte, en su mínimo y máximo, cuando el instigador haga uso de plataformas digitales, redes sociales o cualquier otro medio virtual para interactuar con juegos o retos y de esta forma materialice la conducta sancionable.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 4 DE MARZO DE 2026)</small>
+
+Al responsable de este delito se le aplicará la misma pena que se prevé para el homicidio calificado o lesiones calificadas, según sea el caso, cuando:
+
+I. El suicida sea menor de doce años o padeciera alguna enfermedad mental o no tenga la capacidad de comprender el significado del hecho;
+
+II. El instigador tenga vínculos de parentesco, gratitud, amistad, trabajo, educación, salud, religiosos o de cualquier otro tipo que inspiren autoridad moral o confianza para la víctima, o
+
+III. El instigador, obtenga o pudiese obtener un provecho económico o de cualquier índole con la consumación del delito.
+
+> <small>(ADICIONADO, P.O. 4 DE MARZO DE 2026)</small>
+
+305 Bis.- A quien instigue, ayude u obligue a una mujer al suicidio o le prestare ayuda para cometerlo, si el suicidio se consuma, se le sancionará con la pena prevista en el segundo párrafo del artículo anterior aumentada en un tercio en su mínimo y máximo, cuando:
+
+I. El suicidio tenga como antecedente cualquier forma de violencia de género del instigador contra la víctima, o
+
+II. El instigador se haya aprovechado de la superioridad generada por las relaciones preexistentes o existentes entre él y la víctima, ya sea de parentesco, gratitud, amistad, trabajo, educación, salud, religión o de cualquier otro tipo que inspiren autoridad moral o confianza para la víctima.
+
+Si el suicidio no se consuma pero su intento produce lesiones, éstas serán consideradas como lesiones calificadas.
+
+Si la ayuda se prestare hasta el punto de que el instigador ejecute la muerte, la sanción será la que corresponda al delito de feminicidio, según las circunstancias y modos de ejecución.
 
 ### CAPITULO VI. PARRICIDIO
 
@@ -2979,9 +3009,9 @@ Al que cometa este delito se le aplicarán de seis a doce años de prisión y mu
 
 ### CAPITULO VII BIS. FEMINICIDIO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MARZO DE 2026)</small>
 
-309 Bis.- Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género. A quien cometa el delito de feminicidio se le impondrán de treinta a cincuenta años de prisión y multa de trescientas a trescientas sesenta y cinco veces el valor diario de la Unidad de Medida y Actualización vigente en el momento en que se cometió el delito.
+309 Bis.- Comete el delito de feminicidio quien prive de la vida a una mujer por razones de género. A quien cometa el delito de feminicidio se le impondrán de treinta a cincuenta años de prisión y multa de trescientas a trescientas sesenta y cinco veces el valor diario de la Unidad de Medida y Actualización. La pena de prisión establecida para este delito aumentará hasta en un tercio en su mínimo, tratándose de víctima con edad de 6 a 18 años, embarazada, adulta mayor, con discapacidad, cuando el delito se ejecute en presencia de hijas o hijos de la víctima que sean menores de edad o cuando el sujeto activo sea persona servidora pública y haya incurrido en esa conducta aprovechando tal carácter.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JUNIO DE 2016)</small>
 
@@ -3019,11 +3049,15 @@ VII. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a l
 
 VIII. El cuerpo de la víctima sea expuesto o exhibido en un lugar público.
 
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2026)</small>
+
+IX. El sujeto activo haya obligado a la víctima a realizar una actividad o trabajo o haya ejercido sobre ella cualquier forma de explotación.
+
 > <small>(DEROGADO TERCER PÁRRAFO, P.O. 1 DE JUNIO DE 2016)</small>
 
-> <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2026)</small>
 
-Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio.
+Además de las sanciones descritas en el presente artículo, el sujeto activo perderá todos los derechos con relación a la víctima, incluidos los de carácter sucesorio, así como la patria potestad, custodia, tutela o curatela de los hijos de la víctima; para ello, la autoridad competente ponderará siempre el interés superior de la niñez, en términos de la legislación aplicable.
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2016)</small>
 
@@ -3433,21 +3467,29 @@ XIII.- Al que explote la superstición o la ignorancia de una persona por medio 
 
 XIV.- Al que habiendo recibido mercancías con subsidio o franquicia para darles un destino determinado, las distrajere de este destino o en cualquier forma desvirtúe los fines perseguidos por el subsidio o la franquicia;
 
-XV.- Al que aproveche indebidamente energía eléctrica o cualquier fluido, alterando por cualquier medio los medidores destinados a marcar el consumo o las indicaciones registradas por esos aparatos; y
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2026)</small>
 
-XVI.- Al que, con objeto de lucrar en perjuicio del consumidor, altere por cualquier medio los medidores de energía eléctrica o de otro fluido o las indicaciones registradas por esos aparatos.
+XV.- Al que aproveche indebidamente energía eléctrica o cualquier fluido, alterando por cualquier medio los medidores destinados a marcar el consumo o las indicaciones registradas por esos aparatos;
 
-> <small>(ADICIONADA, P.O. 19 DE MAYO DE 1999)</small>
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2026)</small>
 
-XVII.- Al que, con el propósito de no cubrir el precio convenido adquiera cualquier producto agrícola o pecuario para destinarlo para sí, para otro o para su comercialización, independientemente de que la adquisición se pacte verbalmente o por escrito.
+XVI.- Al que, con objeto de lucrar en perjuicio del consumidor, altere por cualquier medio los medidores de energía eléctrica o de otro fluido o las indicaciones registradas por esos aparatos;
 
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2026)</small>
 
-XVIII. A quien venda o intercambie por algún otro bien, vales de papel o cualquier dispositivo en forma de tarjeta plástica, emitido por personas morales utilizados para intercambiar o canjear bienes y servicios con conocimientos que son falsos; y
+XVII.- Al que, con el propósito de no cubrir el precio convenido adquiera cualquier producto agrícola o pecuario para destinarlo para sí, para otro o para su comercialización, independientemente de que la adquisición se pacte verbalmente o por escrito;
 
-> <small>(ADICIONADA, P.O. 4 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2026)</small>
 
-XIX. Al que haga efectivos vales de papel o cualquier dispositivo en forma de tarjeta plástica, emitido por personas morales para intercambiar o canjear bienes o servicios, ante las tiendas o establecimientos que los aceptan, con conocimiento de que son falsos.
+XVIII.- A quien venda o intercambie por algún otro bien, vales de papel o cualquier dispositivo en forma de tarjeta plástica, emitido por personas morales utilizados para intercambiar o canjear bienes y servicios con conocimientos que son falsos;
+
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2026)</small>
+
+XIX.- Al que haga efectivos vales de papel o cualquier dispositivo en forma de tarjeta plástica, emitido por personas morales para intercambiar o canjear bienes o servicios, ante las tiendas o establecimientos que los aceptan, con conocimiento de que son falsos, o
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2026)</small>
+
+XX.- Al que obtenga dinero, valores o cualquier lucro para sí o para otra persona, mediante la manipulación psicológica, el engaño, la promesa emocional, afectiva o social, utilizando plataformas digitales, redes sociales o cualquier otro medio virtual con imágenes, audio, video o cualquier otra herramienta producto de la inteligencia artificial.
 
 > <small>(ADICIONADO, P.O. 31 DE AGOSTO DE 2019)</small>
 
@@ -4480,3 +4522,11 @@ P.O. 4 DE FEBRERO DE 2026.
 Artículo primero. El presente instrumento legislativo entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que contravengan el presente instrumento.
+
+P.O. 4 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 139.- SE ADICIONAN, REFORMA (SIC) Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
