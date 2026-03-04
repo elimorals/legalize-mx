@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-para-el-estado-de-campeche-61533"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-13"
-last_updated: "2026-02-11"
+last_updated: "2026-03-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE SALUD PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 13 de mayo de 2008.
 
@@ -341,7 +341,9 @@ I. Asumir, en los términos de esta Ley y de los convenios que suscriban con el 
 
 II. Asumir la administración de los establecimientos de salud que descentralice en su favor el Estado en los términos de las leyes aplicables y de los convenios que al efecto se celebren;
 
-III. Formular y desarrollar programas municipales de salud, en el marco del Sistema Nacional de Salud, del Sistema Estatal de Salud y de acuerdo con los principios y objetivos de los Planes Nacional, Estatal y Municipales de Desarrollo;
+> <small>(REFORMADA, P.O. 4 DE MARZO DE 2026)</small>
+
+III. Formular y desarrollar programas municipales de salud, en el marco del Sistema Nacional de Salud, del Sistema Estatal de Salud y de acuerdo con los principios y objetivos de los Planes Nacional, Estatal y Municipales de Desarrollo; con énfasis en la prevención en salud, a efecto de fortalecer el diagnóstico oportuno, la promoción de la salud y la implementación de acciones preventivas, priorizando la atención comunitaria y la reducción de factores de riesgo;
 
 IV. Vigilar y hacer cumplir, en la esfera de su competencia, la Ley General, la presente Ley y las demás disposiciones generales aplicables; y
 
@@ -3102,3 +3104,11 @@ Asimismo, deberá realizar las adecuaciones reglamentarias correspondientes para
 TERCERO.- Las autoridades competentes deberán prever y garantizar suficiencia presupuestaria para la implementación progresiva de lo dispuesto en este decreto.
 
 CUARTO.- Se derogan todas las disposiciones legales de igual o menor jerarquía en lo que se opongan al contenido del presente decreto.
+
+P.O. 4 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 200 POR EL QUE "SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 15 DE LA LEY DE SALUD PARA EL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al contenido del presente decreto.
