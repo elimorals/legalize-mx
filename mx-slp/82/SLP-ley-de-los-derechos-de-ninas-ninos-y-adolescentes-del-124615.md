@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-124615"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-24"
-last_updated: "2025-11-11"
+last_updated: "2026-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de noviembre de 2017.
 
@@ -37,7 +37,7 @@ Decreta
 
 EXPOSICIÓN DE MOTIVOS
 
-[…]
+[...]
 
 ÚNICO. Se expide la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de San Luis Potosí, para quedar como sigue
 
@@ -937,9 +937,17 @@ XXI. Fijar las medidas tendentes a la prevención, atención, combate y rehabili
 
 XXII. Establecer medidas tendentes a que en los servicios de salud se detecten y atiendan de manera especial los casos con problemas de salud mental;
 
-XXIII. Asentar las medidas para la detección temprana de discapacidades a efecto de prevenir y reducir al máximo la aparición de nuevas discapacidades, y asegurar los mayores niveles de atención y rehabilitación, y
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2026)</small>
 
-XXIV. Proporcionar el acceso a los bienes, servicios, ayudas técnicas y rehabilitación que requieren niñas, niños y adolescentes con discapacidad.
+XXIII. Asentar las medidas para la detección temprana de discapacidades a efecto de prevenir y reducir al máximo los niveles de atención y rehabilitación;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2026)</small>
+
+XXIV. Proporcionar el acceso a los bienes, servicios, ayudas técnicas y rehabilitación que requieren niñas, niños y adolescentes con discapacidad, y
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2026)</small>
+
+XXV. Establecer estrategias de prevención, atención y protección para salvaguardar la salud mental, frente a los efectos negativos derivados del uso excesivo de dispositivos digitales, incluyendo campañas de concientización, orientación a madres, padres y/o tutores, y el desarrollo de protocolos específicos para promover un uso equilibrado y saludable de la tecnología.
 
 El Sistema Estatal de Salud en conjunto con el Federal, garantizarán el cumplimiento del derecho a la salud, mediante la atención prioritaria, el interés superior de la niñez, la igualdad sustantiva y la no discriminación, así como por medio de acciones afirmativas a favor de niñas, niños y adolescentes.
 
@@ -1229,11 +1237,11 @@ En todos los casos, serán los padres o quienes ejerzan la patria potestad, tute
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, promoverán mecanismos para la protección de los intereses de niñas, niños y adolescentes respecto de los riesgos derivados del acceso a medios de comunicación y uso de sistemas de información que afecten o impidan objetivamente su desarrollo integral.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 63.
 
-Sin perjuicio de lo previsto en las disposiciones aplicables a los medios de comunicación, las autoridades educativas, de salud, de seguridad pública, de prevención y de protección de niñas, niños y adolescentes, y demás a las que por sus atribuciones corresponda, deberán difundir información y materiales relacionados con:
+Sin perjuicio de lo previsto en las disposiciones aplicables a los medios de comunicación, las autoridades estatales, municipales, educativas, de salud, de seguridad pública, de prevención y de protección de niñas, niños y adolescentes, y demás a las que por sus atribuciones corresponda, deberán difundir información y materiales relacionados con:
 
 > <small>(REFORMADA, P.O. 10 DE ABRIL DE 2023)</small>
 
@@ -1257,11 +1265,17 @@ VII. La información y participación de niñas, niños y adolescentes para la p
 
 VIII. El interés social y cultural para niñas, niños y adolescentes, de conformidad con los objetivos de la educación que dispone el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos;
 
-IX. La existencia en la sociedad de servicios, instalaciones y oportunidades destinados a niñas, niños y adolescentes, y
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2023)</small>
+IX. La existencia en la sociedad de servicios, instalaciones y oportunidades destinados a niñas, niños y adolescentes;
 
-X. El enfoque de inclusión, igualdad sustantiva, no discriminación, y perspectiva de derechos humanos, así como de prevención y atención de la violencia digital.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2026)</small>
+
+X. El enfoque de inclusión, igualdad sustantiva, no discriminación, y perspectiva de derechos humanos, así como de prevención y atención de la violencia digital, y
+
+> <small>(ADICIONADA, P.O. 5 DE MARZO DE 2026)</small>
+
+XI. Promover acciones específicas para proteger la salud mental de niñas, niños y adolescentes frente a los efectos negativos del uso excesivo de dispositivos digitales, incluyendo la promoción de un uso equilibrado de la tecnología, el diseño de campañas de concientización dirigidas a familias, docentes y menores, y el establecimiento de mecanismos para la prevención, detección y atención de riesgos asociados, como la adicción digital.
 
 El Sistema Estatal de Protección emitirá lineamientos sobre la información y materiales para la difusión, con perspectiva de derechos de niñas, niños y adolescentes para regular los contenidos de los sistemas estatales de radio y televisión, así como las campañas gubernamentales.
 
@@ -2900,6 +2914,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 11 DE NOVIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0304.- QUE REFORMA Y REALIZA ADICIÓN AL ARTÍCULO 1°, DE LA LEY DE LOS DERECHOS DE NIÑAS NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0480.- QUE REFORMA Y REALIZA ADICIÓN A LOS ARTÍCULOS 46 Y 63, DE LA LEY DE LOS DERECHOS DE LA (SIC) NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
