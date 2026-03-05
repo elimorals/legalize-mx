@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-las-personas-adultas-mayores-para-el-estado-y-los-57049"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-07"
-last_updated: "2025-10-02"
+last_updated: "2026-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO Y LOS MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2026.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 7 de agosto de 2007.
 
@@ -435,9 +435,13 @@ I. Satisfacer sus necesidades y cuidarlos en su condición de personas adultas m
 
 II. Fomentar la convivencia familiar cotidiana, donde la persona adulta mayor participe activamente, y promover al mismo tiempo los valores que incidan en sus necesidades afectivas, de protección y de apoyo;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2026)</small>
 
-III. Evitar actos de discriminación, abuso, explotación, aislamiento, violencia y actos jurídicos que pongan en riesgo la persona, bienes y derechos del adulto mayor;
+III. Evitar que cualquier persona, ya sea que forme parte de la familia o no, realice actos de discriminación, abuso, explotación, aislamiento, o conductas que tengan por efecto forzar, presionar o inducir a ejecutar actos de mendicidad, trabajos forzados o actividades que atenten contra su dignidad o su salud física o mental o cualquier tipo de violencia contra la persona adulta mayor, así como cualquier acción u omisión que implique riesgo, menoscabo o afectación a su integridad personal, dignidad, ingresos, bienes o patrimonio, tales como el despojo, la retención indebida de recursos, la suplantación de identidad o la celebración de actos jurídicos que vulneren sus derechos.
+
+> <small>(ADICIONADO, P.O. 5 DE MARZO DE 2026)</small>
+
+Todo acto que configure alguna de estas conductas deberá denunciarse de inmediato ante la autoridad competente, quien deberá activar los mecanismos de protección, investigación y restitución de derechos que resulten procedentes;
 
 > <small>(REFORMADA, P.O. 11 DE JULIO DE 2025)</small>
 
@@ -1051,7 +1055,9 @@ El lugar ideal para que las personas adultas mayores permanezcan es su hogar; y 
 
 De igual forma, la persona adulta mayor por decisión personal podrá solicitar su ingreso en alguna institución de asistencia pública o privada dedicadas a su cuidado.
 
-Cuando algún ciudadano cometa cualquier acto de discriminación, abuso, explotación, aislamiento, o violencia en contra de una persona adulta mayor, que ponga en riesgo su integridad física o psicológica, así como sus derechos, serán sancionados conforme a las leyes de la materia en el Estado, según sea el caso, o administrativamente en términos de lo dispuesto en la presente Ley.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2026)</small>
+
+Cuando cualquier ciudadano cometa actos de discriminación, abuso, explotación, aislamiento o violencia en contra de una persona adulta mayor, que pongan en riesgo su integridad física o psicológica, así como sus derechos, o la obligue a realizar actos de mendicidad, trabajos forzados o cualquier otra actividad que atente contra su dignidad y vaya en perjuicio de su salud física o mental, será sancionado conforme a las leyes aplicables en la materia en el Estado, según corresponda, o administrativamente en los términos previstos en la presente Ley.
 
 De acuerdo en lo establecido en el párrafo anterior, se sancionará a través de la legislación competente, a quienes sean responsables de las instituciones públicas o privadas.
 
@@ -1468,3 +1474,9 @@ P.O. 2 DE OCTUBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 5 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 0479.- QUE REFORMA LOS ARTÍCULOS 11 BIS Y 45; Y REALIZA ADICIÓN AL ARTÍCULO 11 BIS, DE LA LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE SAN LUIS POTOS”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
