@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-seguridad-ciudadana-del-estado-de-quintana-roo-165693"
 country: "mx"
 rank: "ley"
 publication_date: "2023-04-20"
-last_updated: "2025-12-10"
+last_updated: "2026-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165693&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE SEGURIDAD CIUDADANA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2026.
 
 Ley publicada en el Número 6 Especial del Periódico Oficial del Estado de Quintana Roo, el jueves 20 de abril de 2023.
 
@@ -1393,7 +1393,9 @@ II. Investigación e Inteligencia. Consiste en los procesos de investigación a 
 
 III. Proximidad social. Es la actividad auxiliar de las funciones de prevención, a través de la proactividad y la colaboración con otros actores sociales, bajo una política de colaboración interna e interinstitucional que fortalezca la gobernabilidad en el Estado y sus municipios; así como atender como primer contacto a los grupos de población principalmente en situación de vulnerabilidad en el ejercicio de sus derechos humanos que, de forma enunciativa mas no limitativa, incluirá los casos de violencia familiar y de género a través del GEAVIG;
 
-IV. Vigilancia de caminos. Consiste en la realización de acciones de inspección, vigilancia y vialidad en su circunscripción en funciones de Policía Rural o de Agente de Tránsito.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2026)</small>
+
+IV. Vigilancia de caminos. Consiste en la realización de acciones de inspección, vigilancia y vialidad en su circunscripción en funciones de Policía Rural o de Policía de Tránsito;
 
 V. Procesal. Consiste en las acciones de resguardo de la seguridad y el orden en las salas de audiencia con el fin de garantizar el desarrollo adecuado de las mismas, así como el traslado de las personas imputadas o sentenciadas que estén privadas de su libertad de los centros de reclusión a los juzgados y tribunales y, en su caso, brindar protección a personas coadyuvantes en el proceso y que requieran de protección;
 
@@ -1947,7 +1949,9 @@ XVII. Las demás que le confiera esta ley, otras disposiciones legales o reglame
 
 Las Instituciones Policiales de Seguridad Ciudadana en los Municipios son:
 
-I. Policía Seguridad Ciudadana Municipal, y
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2026)</small>
+
+I. Policía de Seguridad Ciudadana Municipal;
 
 II. Policía de Tránsito y Vialidad.
 
@@ -4576,3 +4580,49 @@ P.O. 10 DE DICIEMBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones legales, de igual o menor jerarquía, que se opongan al contenido del presente Decreto.
+
+P.O. 5 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 201 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO; LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO; Y LA LEY DE SEGURIDAD CIUDADANA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo, con excepción de lo previsto en los artículos 196, 197 y 198 de la Ley de Movilidad del Estado de Quintana Roo, cuya vigencia quedará supeditada a la entrada en vigor de las reformas al Reglamento de dicha ley, vinculadas al presente decreto.
+
+SEGUNDO. El Poder Ejecutivo, en un plazo no mayor a ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, deberá realizar las modificaciones correspondientes al Reglamento de la Ley de Movilidad del Estado de Quintana Roo, para armonizarlo con lo previsto en el presente Decreto.
+
+TERCERO. Los Ayuntamientos del Estado de Quintana Roo tendrán un plazo de ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente Decreto para armonizar sus reglamentos, instrumentos legales y cualquier disposición jurídica relativa a lo previsto en el presente Decreto.
+
+CUARTO. El Instituto de Movilidad del Estado de Quintana Roo, en un plazo no mayor a ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, deberá modificar su Estatuto Orgánico, a efecto de armonizar las disposiciones jurídicas aplicables.
+
+QUINTO. Hasta en tanto los Ayuntamientos, adecúan sus disposiciones normativas y expiden los ordenamientos respectivos para asumir las facultades que el presente Decreto les confiere en relación a la modalidad de transporte de micromovilidad, el Instituto de Movilidad del Estado de Quintana Roo, continuará ejerciendo dichas facultades, debiendo coordinarse con los Ayuntamientos, para realizar las acciones administrativas y legales que garanticen la efectiva transición en cuanto a dicha modalidad se refiere.
+
+SEXTO. Los procedimientos de contratación, aplicación de sanciones, inconformidades y recursos administrativos, así como los demás asuntos que se encuentren en trámite o pendientes de resolución se tramitarán y resolverán en términos de las disposiciones vigentes al momento del inicio de dichos procedimientos.
+
+SÉPTIMO. Las concesiones, permisos y autorizaciones otorgadas por los Ayuntamientos del Estado de Quintana Roo vigentes a la fecha de la entrada en vigor del presente Decreto, continuarán en vigencia hasta la fecha de su vencimiento y serán aplicables en lo conducente las disposiciones jurídicas que, al momento de otorgarse dichas concesiones, permisos y autorizaciones, se encontraban vigentes, en todo lo que no contravenga a lo dispuesto por el presente Decreto.
+
+La expedición de las concesiones, permisos y autorizaciones que se encuentren en proceso de renovación deberán ajustarse a lo previsto en el presente Decreto.
+
+OCTAVO. El Instituto de Movilidad del Estado de Quintana Roo tendrá un plazo de ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar las gestiones necesarias que permitan constituir el Fideicomiso Público para la operación financiera del SITQROO y el pago de servicios conexos.
+
+Hasta en tanto se constituye el Fideicomiso Público a que se refiere el presente artículo transitorio, el Instituto de Movilidad del Estado de Quintana Roo aperturará una cuenta específica para recibir y administrar los recursos del Sistema Integrado de Transporte de Quintana Roo, los cuales serán transferidos al Fideicomiso Público en un plazo no mayor de noventa días hábiles posterior a la constitución de este mismo.
+
+NOVENO. Los contratos, convenios o cualquier acto jurídico que generen obligaciones en materia de Servicio Público de Transporte Urbano de Personas pasajeras en Autobuses en ruta establecida y que hubieren sido suscritos por los Ayuntamientos del Estado de Quintana Roo, con anterioridad a la entrada en vigor del presente Decreto, y en su caso a la firma de los convenios correspondientes, permanecerán vigentes hasta en tanto el Instituto de Movilidad del Estado de Quintana Roo, esté en condiciones de asumir las obligaciones contraídas en los mismos.
+
+En dicho caso, el Instituto de Movilidad del Estado de Quintana Roo en conjunto con los Ayuntamientos del Estado de Quintana Roo, realizará lo necesario para dar continuidad a las obligaciones pactadas en los mismos, a efecto de mantener habilitado el Servicio Público de Transporte Urbano de Personas pasajeras en Autobuses en ruta establecida, en las condiciones establecidas en el presente Decreto.
+
+DÉCIMO. Los contratos, convenios o cualquier acto jurídico que genere obligaciones en relación con el servicio público de transporte de micromovilidad y que hubieren sido suscritos por el Instituto de Movilidad del Estado de Quintana Roo, con anterioridad a la entrada en vigor del presente Decreto, permanecerán vigentes hasta en tanto los Ayuntamientos, estén en condiciones de asumir las obligaciones contraídas en los mismos.
+
+En dicho caso, los Ayuntamientos en conjunto con el Instituto de Movilidad del Estado de Quintana Roo, realizarán lo necesario para dar continuidad a las obligaciones pactadas en los mismos.
+
+DÉCIMO PRIMERO. Los Ayuntamientos del Estado de Quintana Roo tendrán un plazo de ciento ochenta días hábiles, contados a partir de la firma de los convenios correspondientes, para realizar las acciones administrativas y legales que les permitan transferir al Instituto de Movilidad del Estado de Quintana Roo, los documentos y archivos relacionados con el Servicio Público de Transporte Urbano de Personas pasajeras en Autobuses en ruta establecida.
+
+DÉCIMO SEGUNDO. El Instituto de Movilidad del Estado de Quintana Roo, tendrá un plazo de ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar las acciones administrativas y legales que permitan transferir a los Ayuntamientos, los documentos y archivos relacionados con la modalidad de transporte de micromovilidad, de vehículos que tengan una velocidad máxima de 25 kilómetros por hora.
+
+DÉCIMO TERCERO. La Secretaría de Finanzas y Planeación del Poder Ejecutivo del Estado de Quintana Roo, deberá realizar las previsiones y adecuaciones presupuestales que resulten necesarias para la aplicación del presente Decreto.
+
+DÉCIMO CUARTO. Los reglamentos, normas y demás disposiciones de carácter general que hubiesen sido expedidas previo a la entrada en vigor del presente Decreto seguirán siendo vigentes y aplicables exclusivamente en lo que no se opongan a este último.
+
+DÉCIMO QUINTO. El Instituto de Movilidad tendrá un plazo de hasta noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar todas las gestiones y acciones necesarias que permitan la creación y funcionamiento del Fondo para la Movilidad del Estado de Quintana Roo, de conformidad con el presente Decreto.
+
+DÉCIMO SEXTO. El Gobierno del Estado de Quintana Roo, a través de sus dependencias y organismos auxiliares, y los Ayuntamientos deberán proveer lo necesario para el correcto y eficaz cumplimiento de lo previsto en el presente Decreto.
+
+DÉCIMO SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía en lo que se oponga a lo establecido en el presente Decreto.
