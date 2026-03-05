@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "2025-10-16"
+last_updated: "2026-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2026.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -5067,7 +5067,11 @@ III.- Al cónyuge supérstite cuando esté impedido de trabajar y no tenga biene
 
 IV.- A los ascendientes;
 
-V.- A la persona con quien el testador vivió como si fuera su cónyuge durante los tres años que precedieron a su muerte, o con quien tuvo hijos durante ese tiempo, siempre que ambos hayan permanecido libres del matrimonio durante el concubinato y que el superviviente esté impedido de trabajar y no tenga bienes suficientes. Este derecho sólo subsistirá mientras la persona de que se trate no contraiga nupcias y observe buena conducta. Si fueren varias las personas con quienes el testador vivió como si fueran su cónyuge, ninguna de ellas tendrá derecho a alimentos, y
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2026)</small>
+
+V.- A la persona que mantenga una relación de concubinato o de hecho con la persona testadora, en términos de los artículos 105 y 106 del Código Familiar para el Estado de San Luis Potosí.
+
+Este derecho sólo subsistirá mientras la persona concubina no contraiga matrimonio y se encuentre imposibilitada para trabajar. Si fueren varias las personas con quienes la persona testadora vivió como si fueran su cónyuge, ninguna de ellas tendrá derecho a alimentos, y
 
 VI.- A los hermanos y demás parientes colaterales dentro del cuarto grado, si son personas con discapacidad o mientras que no cumplan los dieciocho años, si no tienen bienes para subvenir a sus necesidades.
 
@@ -10748,3 +10752,11 @@ P.O. 16 DE OCTUBRE DE 2025.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 5 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0481.- QUE REFORMA EL ARTÍCULO 1214, DEL CÓDIGO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
