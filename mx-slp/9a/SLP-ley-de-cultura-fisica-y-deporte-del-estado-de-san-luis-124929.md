@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cultura-fisica-y-deporte-del-estado-de-san-luis-124929"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-14"
-last_updated: "2023-06-29"
+last_updated: "2026-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de diciembre de 2017.
 
@@ -169,7 +169,9 @@ XII. Deporte Institucional: Es aquél que apoyado económicamente y organizado b
 
 XIII. Deporte para Personas con Discapacidad: Es el deporte sostenido y fomentado por instituciones particulares, cuyo objetivo es mantener el espíritu en alto de aquellas personas que por alguna circunstancia están disminuidas en sus facultades físicas;
 
-XIV. Deporte para Personas Sénectas: Es aquel que se practica por personas que tienen sesenta años o más de edad y que propiamente no es de competencia sino que tienen como objetivo conservar la salud;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2026)</small>
+
+XIV. Deporte para Personas en Senectud: Es aquel que se practica por personas que tienen sesenta años o más de edad y que propiamente no es de competencia sino que tienen como objetivo conservar la salud;
 
 XV. Deporte Popular: Es el conjunto de actividades físicas que practican los grandes núcleos de población y que se rigen por las reglas generales;
 
@@ -187,9 +189,11 @@ XX. Recreación Física: Actividad física con fines lúdicos que permiten la ut
 
 Serán de aplicación supletoria a esta Ley, la Ley General de Cultura Física y Deporte y su Reglamento, los principios generales de derechos (sic) y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 7º.
 
-Son sujetos de esta Ley los deportistas, educadores físicos, entrenadores deportivos, técnicos, los organismos deportivos de los sectores públicos, privado y social, equipos, clubes, asociaciones, ligas deportivas, jueces, árbitros y demás personas que por su naturaleza, condiciones o funciones sean susceptibles a los sistemas estatales o municipales de cultura física y deporte.
+Son sujetos de esta Ley las personas deportistas, educadoras físicas, entrenadoras deportivas, técnicas, los organismos deportivos de los sectores públicos, privado y social, equipos, clubes, asociaciones, ligas deportivas, jueces, árbitros y demás personas que por su naturaleza, condiciones o funciones sean susceptibles a los sistemas estatales o municipales de cultura física y deporte.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2018)</small>
 
@@ -219,9 +223,11 @@ La función educativa del deporte debe de implicar además de la enseñanza de t
 
 ### CAPÍTULO II. De los Sistemas Estatal y Municipales de Cultura Física y Deporte
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 14.
 
-El Ejecutivo del Estado y los presidentes municipales, a través de su instancia de gobierno respectiva, constituirán el correspondiente Sistema de Cultura Física y Deporte, consistente en el conjunto de acciones, estrategias, recursos, métodos y procedimientos destinados a impulsar, fomentar y desarrollar la actividad física, la cultura física y el deporte en su correspondiente ámbito de gobierno.
+La Persona titular del Ejecutivo del Estado y las personas titulares de las presidencias municipales, a través de su instancia de gobierno respectiva, constituirán el correspondiente Sistema de Cultura Física y Deporte, consistente en el conjunto de acciones, estrategias, recursos, métodos y procedimientos destinados a impulsar, fomentar y desarrollar la actividad física, la cultura física y el deporte en su correspondiente ámbito de gobierno.
 
 ###### ARTÍCULO 15.
 
@@ -239,11 +245,11 @@ II. Las asociaciones deportivas estatales y municipales, y
 
 III. Las sociedades que estén reconocidos (sic) en términos de esta Ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 17.
 
-Los sistemas estatal y municipales deberán sesionar en Pleno cuando menos dos veces al año y su respectivo Consejo Directivo en las fechas que éstos determinen, a efecto de fijar la política operativa y de instrumentación en materia de activación física, cultura física y deporte y dar cumplimiento a su respectivo Programa en la materia. El Instituto Potosino de Cultura Física y Deporte en el ámbito estatal y la Instancia Administrativa Municipal Equivalente tendrán la responsabilidad de integrar al correspondiente Programa los acuerdos del Sistema respectivo
-
-Los sistemas estarán dirigidos por el respectivo Pleno, Consejo Directivo y Presidente.
+Los sistemas estatal y municipales deberán sesionar en Pleno cuando menos dos veces al año y su respectivo Consejo Directivo en las fechas que éstos determinen, a efecto de fijar la política operativa y de instrumentación en materia de activación física, cultura física y deporte y dar cumplimiento a su respectivo Programa en la materia. El Instituto Potosino de Cultura Física y Deporte en el ámbito estatal y la Instancia Administrativa Municipal Equivalente tendrán la responsabilidad de integrar al correspondiente Programa los acuerdos del Sistema respectivo Los sistemas estarán dirigidos por el respectivo Pleno, el Consejo Directivo y la Presidencia.
 
 ###### ARTÍCULO 18.
 
@@ -251,7 +257,9 @@ Mediante los sistemas se llevarán a cabo las siguientes acciones:
 
 I. Determinar las bases de cooperación interinstitucional a través de convenios y acuerdos con los sectores social y privado, que permitan formular, establecer y coordinar las políticas que fomenten el desarrollo de la activación física, la cultura física y deporte estatal o municipal;
 
-II. Propiciar la participación de los organismos deportivos, de deportistas destacados, de especialistas en la materia y de la sociedad en general para la formulación y determinación de las políticas en materia de activación física, cultura física y deporte;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2026)</small>
+
+II. Propiciar la participación de los organismos deportivos, de personas deportistas destacadas, de especialistas en la materia y de la sociedad en general para la formulación y determinación de las políticas en materia de activación física, cultura física y deporte;
 
 III. Sugerir políticas para fomentar, promover y estimular el desarrollo y ejercicio del derecho a la activación física, cultura física y el deporte en su respectivo ámbito;
 
@@ -289,7 +297,9 @@ En el caso de los municipios, éstos tendrán una Instancia Administrativa Equiv
 
 El titular del Instituto será propuesto por el Ejecutivo del Estado a la Junta de Gobierno, el cual deberá cumplir con los siguientes requisitos:
 
-I. Ser mexicano en pleno ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2026)</small>
+
+I. Ser mexicana en pleno ejercicio de sus derechos políticos y civiles:
 
 II. (DEROGADA, P.O. 26 DE MARZO DE 2020)
 
@@ -297,7 +307,9 @@ III. Tener reconocimiento y experiencia en materia deportiva, y
 
 IV. Gozar de buena reputación.
 
-El titular de la Instancia Administrativa Municipal Equivalente, lo nombrará y removerá el Presidente Municipal, mismo que cumplirá con los requisitos establecidos por este precepto para el titular del Instituto.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2026)</small>
+
+La persona titular de la Instancia Administrativa Municipal Equivalente, será nombrada o removida por la persona titular de la Presidencia Municipal, quien deberá cumplir con los requisitos establecidos por este precepto para la persona titular del Instituto.
 
 ###### ARTÍCULO 24.
 
@@ -305,7 +317,9 @@ Al Instituto le corresponden las siguientes atribuciones:
 
 I. Proponer, dirigir, ejecutar, evaluar y vigilar la política estatal de cultura física, así como del deporte en todas sus manifestaciones. Para efectos de esta fracción se entenderán como manifestaciones del deporte, el deporte social y el deporte de rendimiento;
 
-II. Celebrar acuerdos, convenios, contratos y bases con las autoridades de otros niveles de gobierno a fin de promover, con la participación, en su caso, de los sectores social y privado, las políticas, acciones y programas tendientes a la promoción, fomento, estimulo, incentivo y desarrollo de la cultura física y deporte en todas sus manifestaciones;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2026)</small>
+
+II. Celebrar acuerdos, convenios, contratos y bases con las autoridades de Gobierno Federal, Estatales o Municipales, a fin de promover, con la participación, en su caso, de los sectores social y privado, las políticas, acciones y programas tendientes a la promoción, fomento, estimulo, incentivo y desarrollo de la cultura física y deporte en todas sus manifestaciones;
 
 III. Convocar al Sistema Estatal, con la respectiva participación del sector público, privado y social;
 
@@ -409,27 +423,47 @@ El Instituto o la Instancia Administrativa Municipal Equivalente, se integrarán
 
 La Junta de Gobierno es la máxima autoridad del Instituto o de la Instancia Administrativa Municipal Equivalente, en el caso del nivel de gobierno estatal, ésta estará conformada de la siguiente manera:
 
-I. Un Presidente, que será el Secretario de Educación de Gobierno del Estado;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2026)</small>
 
-II. Un Secretario Técnico, que recaerá en el Director General del Instituto, el cual tendrá derecho a voz pero no a voto, y
+I. Una Presidencia, que será la Persona Titular de la Secretaría de Educación de Gobierno del Estado;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2026)</small>
+
+II. Una Secretaría Técnica, que recaerá en la persona titular de la Dirección General del Instituto, quien tendrá derecho a voz pero no a voto, y
 
 III. Con los vocales siguientes:
 
-a) El Secretario General de Gobierno.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2026)</small>
 
-b) El Secretario de Cultura.
+a) La persona titular de la Secretaría General de Gobierno.
 
-c) El Secretario de Finanzas.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2026)</small>
 
-d) El Secretario de Salud.
+b) La persona titular de la Secretaría de Cultura.
 
-e) El Secretario de Turismo.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2026)</small>
 
-f) El Secretario de Desarrollo Social y Regional.
+c) La persona titular de la Secretaría de Finanzas.
 
-g) El Director del Instituto Potosino de la Juventud.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2026)</small>
 
-h) Un Comisario, que será designado por el Contralor General del Estado, quien tendrá derecho a voz pero no a voto.
+d) La persona titular de la Secretaría de Salud.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2026)</small>
+
+e) La persona titular de la Secretaría de Turismo.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2026)</small>
+
+f) La persona titular de la Secretaría de Desarrollo Social y Regional.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2026)</small>
+
+g) La persona titular de la Dirección del Instituto Potosino de la Juventud.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2026)</small>
+
+h) Una persona Comisaria, que será designada por la persona titular de la Contraloría General del Estado, quien tendrá derecho a voz pero no a voto.
 
 Por cada miembro propietario, habrá un suplente, quien tendrá las mismas facultades del titular en su ausencia. El cargo de miembro de la Junta de Gobierno será honorifico por lo que no percibirán retribución alguna.
 
@@ -437,33 +471,53 @@ Por cada miembro propietario, habrá un suplente, quien tendrá las mismas facul
 
 La Junta de Gobierno en esta materia en los municipios se integrará de la siguiente forma:
 
-I. Un Presidente, que será el Director de Educación del Municipio o la persona que designe el Presidente Municipal;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2026)</small>
 
-II. Un Secretario Técnico, que será el titular de la Instancia Administrativa Municipal Equivalente en materia de cultura física y deporte, y
+I. Una Presidencia, que será la persona titular de la Dirección de Educación del Municipio o la persona que designe la Presidencia Municipal;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2026)</small>
+
+II. Una Secretaría Técnica, que será la persona titular de la Instancia Administrativa Municipal Equivalente en materia de cultura física y deporte, y
 
 III. Con los vocales siguientes:
 
-a) El Secretario del Ayuntamiento.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2026)</small>
 
-b) El Regidor Presidente de la Comisión de Cultura Física y Deporte o del órgano edilicio equivalente.
+a) La persona titular de la Secretaría General del Ayuntamiento.
 
-c) El Director de Cultura o su equivalente.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2026)</small>
 
-d) El Tesorero.
+b) La persona titular de la Presidencia de la Comisión Edilicia de Cultura Física y Deporte o del órgano edilicio equivalente.
 
-e) El Director de Obras Públicas o su equivalente.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2026)</small>
 
-f) El Coordinador de los programas del ramo 33.
+c) La persona titular de la Dirección de Cultura o su equivalente.
 
-g) El Contralor Interno o la persona que éste designe, quien tendrá derecho a voz pero no a voto.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2026)</small>
+
+d) La persona titular de la Tesorería.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2026)</small>
+
+e) La persona titular de la Dirección de Obras Públicas o su equivalente.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2026)</small>
+
+f) La persona titular de la Coordinación de los programas del ramo 33.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2026)</small>
+
+g) La persona titular del Órgano de Control Interno o la persona que éste designe, quien tendrá derecho a voz pero no a voto.
 
 Por cada miembro propietario, habrá un suplente, quien tendrá las mismas facultades del titular en su ausencia. El cargo de miembro de la Junta de Gobierno será honorifico por lo que no percibirán retribución alguna.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 30.
 
-La Junta de Gobierno celebrará sesiones cuando menos cuatro veces al año. Asimismo podrá celebrar sesiones extraordinarias, cada vez que estime necesario, previa convocatoria del Secretario Técnico a solicitud de la Junta de Gobierno, de por lo menos dos integrantes del órgano o cuando lo estime necesario el Director General o su equivalente en los municipios.
+La Junta de Gobierno celebrará sesiones cuando menos cuatro veces al año. Asimismo, podrá celebrar sesiones extraordinarias, cada vez que estime necesario, previa convocatoria de la persona titular de la Secretaría Técnico (sic) a solicitud de la Junta de Gobierno, de por lo menos dos integrantes del órgano o cuando lo estime necesario la persona titular de la Dirección General o su equivalente en los municipios.
 
-Las sesiones serán válidas con la asistencia de la mitad más uno de sus miembros y sus resoluciones serán tomadas por mayoría simple, en caso de empate el Presidente tendrá voto de calidad.
+Las sesiones serán válidas con la asistencia de la mitad más uno de sus miembros y sus resoluciones serán tomadas por mayoría simple, en caso de empate la persona titular de la Presidencia tendrá voto de calidad.
 
 ###### ARTÍCULO 31.
 
@@ -471,33 +525,49 @@ La Junta de Gobierno tendrá las siguientes atribuciones:
 
 I. Dictar las normas y establecer los criterios que orienten las funciones del Instituto o de la Instancia Administrativa Municipal Equivalente;
 
-II. Aprobar los proyectos, planes y programas del Instituto o de la Instancia Administrativa Municipal Equivalente, que sean presentados por el Director General o el similar en los municipios;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2026)</small>
+
+II. Aprobar los proyectos, planes y programas del Instituto o de la Instancia Administrativa Municipal Equivalente, que sean presentados por la persona titular de la Dirección General o el similar en los municipios;
 
 III. En el caso de la Junta de Gobierno del Instituto aprobar los lineamientos para la administración del Registro Estatal de Cultura Física y Deporte;
 
-IV. Conocer y en su caso aprobar los informes generales y especiales que le sean presentados por el Director General o equivalente en los municipios;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2026)</small>
 
-V. Nombrar al Director General del Instituto o el equivalente en los municipios, quien será propuesto por el titular del Poder Ejecutivo o en su caso por el Presidente Municipal, los cuales durarán en su encargo hasta por el término del Periodo Constitucional en el que fueron designados;
+IV. Conocer y en su caso aprobar los informes generales y especiales que le sean presentados por la persona titular de la Dirección General o equivalente en los municipios;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2026)</small>
+
+V. Nombrar a la persona titular de la Dirección General del Instituto o el equivalente en los municipios, quien será propuesto por la persona titular del Poder Ejecutivo o en su caso por la persona titular de la Presidencia Municipal, los cuales durarán en su encargo hasta por el término del Periodo Constitucional en el que fueron designadas;
 
 VI. Aprobar el calendario de sesiones de la Junta de Gobierno y los manuales de organización;
 
-VII. Proponer las tasas, tarifas y cuotas que corresponden por el uso de las instalaciones deportivas a la Secretaria de Finanzas o a su equivalente en los municipios, por medio del Director General o su similar en los municipios, a fin de que se integren en la Iniciativa de Ley de Ingresos correspondiente;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2026)</small>
 
-VIII. Nombrar y remover a los responsables administrativos de las instalaciones deportivas asignadas al Instituto o a la Instancia Administrativa Municipal Equivalente;
+VII. Proponer las tasas, tarifas y cuotas que corresponden por el uso de las instalaciones deportivas a la Secretaría de Finanzas o a su equivalente en los municipios, por medio de la persona titular de la Dirección General o su similar en los municipios, a fin de que se integren en la Iniciativa de Ley de Ingresos correspondiente;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2026)</small>
+
+VIII. Nombrar y remover al personal administrativo de las instalaciones deportivas asignadas al Instituto o a la Instancia Administrativa Municipal Equivalente;
 
 IX. Aceptar herencias, legados y donaciones que se hagan a favor del Instituto o de la Instancia Administrativa Municipal Equivalente;
 
 X. Aprobar el Programa Operativo Anual y el correspondiente anteproyecto (sic) Presupuesto de ingresos y egresos que presente el titular del Instituto o equivalente en los municipios;
 
-XI. Aprobar la celebración de contratos, convenios, acuerdos y demás actos inherentes a los objetivos y funcionamiento del Instituto o Instancia Administrativa Municipal Equivalente, que sean puesto (sic) a su consideración por el Director General o su similar en los municipios para que suscriban los mismos;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2026)</small>
 
-XII. Analizar y en su caso aprobar el informe anual de actividades y estados de cuenta del Instituto o Instancia Administrativa Municipal Equivalente, los cuales serán presentados por el Director General o equivalente en los municipios, y
+XI. Aprobar la celebración de contratos, convenios, acuerdos y demás actos inherentes a los objetivos y funcionamiento del Instituto o Instancia Administrativa Municipal Equivalente, que sean puesto (sic) a su consideración por la persona titular de la Dirección General o su similar en los municipios para que suscriban los mismos;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2026)</small>
+
+XII. Analizar y en su caso aprobar el informe anual de actividades y estados de cuenta del Instituto o Instancia Administrativa Municipal Equivalente, los cuales serán presentados por la persona titular de la Dirección General o equivalente en los municipios, y
 
 XIII. Las demás que conforme a las disposiciones legales le correspondan y sean necesarias para alcanzar sus objetivos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 32.
 
-El Presidente de la Junta de Gobierno tendrá las siguientes atribuciones:
+La persona titular de la Presidencia de la Junta de Gobierno tendrá las siguientes atribuciones:
 
 I. Presidir las sesiones de la Junta de Gobierno;
 
@@ -511,23 +581,31 @@ V. Invitar a participar en las sesiones de la Junta de Gobierno y por acuerdo ex
 
 VI. Las demás que le confiera la Junta de Gobierno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 33.
 
-El Secretario Técnico de la Junta de Gobierno tendrá las siguientes atribuciones:
+La persona titular de la Secretaría Técnica de la Junta de Gobierno tendrá las siguientes atribuciones:
 
 I. Convocar a los miembros de la Junta de Gobierno a las sesiones ordinarias y extraordinarias respectivas;
 
 II. Elaborar las actas correspondientes a las sesiones ordinarias y extraordinarias que celebre la Junta de Gobierno;
 
-III. Elaborar de acuerdo con el Presidente de la Junta de Gobierno, el orden del día de los asuntos que deban tratarse en las sesiones de la misma y mantener bajo su custodia el archivo, y
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2026)</small>
+
+III. Elaborar de acuerdo con la persona titular de la Presidencia de la Junta de Gobierno, el orden del día de los asuntos que deban tratarse en las sesiones de la misma y mantener bajo su custodia el archivo, y
 
 IV. Ejecutar los acuerdos de la Junta de Gobierno.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 34.
 
-El Director General del Instituto o el equivalente en los municipios tendrán las siguientes atribuciones:
+La persona titular de la Dirección General del Instituto o el equivalente en los municipios tendrán las siguientes atribuciones:
 
-I. Representar legalmente al Instituto o la instancia administrativa municipal equivalente, fingiendo como mandatario general para pleitos y cobranzas, actos de administración, cambiario y de dominio, con todas las facultades generales y especiales que requieran cláusula especial conforme a la Ley, en los términos del artículo 2554 del Código Civil Federal y su correlativo artículo 2384 del Código Civil para el Estado de San Luis Potosí. Como consecuencia podrá enunciativa y no limitativamente:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE MARZO DE 2026)</small>
+
+I. Representar legalmente al Instituto o la instancia administrativa municipal equivalente, fungiendo como mandatario general para pleitos y cobranzas, actos de administración, cambiario y de dominio, con todas las facultades generales y especiales que requieran cláusula especial conforme a la Ley, en los términos del artículo 2554 del Código Civil Federal y su correlativo artículo 2384 del Código Civil para el Estado de San Luis Potosí. Como consecuencia podrá enunciativa y no limitativamente:
 
 a) Presentar demandas y desistirse de las mismas en los juicios de amparo.
 
@@ -589,11 +667,15 @@ VIII. Promover los mecanismos y acciones encaminados a prevenir la violencia en 
 
 La coordinación y colaboración entre las autoridades estatales, municipales y federales, respecto a la seguridad y prevención en los eventos deportivos masivos o con fines de espectáculo, sin perjuicio de lo dispuesto por la Ley General del Sistema Nacional de Seguridad Pública, será subsidiaria y se sujetará a lo siguiente:
 
-I. Los usuarios de las instalaciones deportivas, ya sea organizadores, participantes, asistentes, aficionados o espectadores en general, atenderán las disposiciones en materia de seguridad y protección civil, según corresponda y las indicaciones en la materia que emitan las autoridades competentes, para que los eventos deportivos se realicen de manera ordenada y se preserve la integridad de las personas y los bienes;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2026)</small>
+
+I. Las personas usuarias de las instalaciones deportivas, ya sean organizadoras, participantes, asistentes, aficionadas o espectadoras en general, atenderán las disposiciones en materia de seguridad y protección civil, según corresponda y las indicaciones en la materia que emitan las autoridades competentes, para que los eventos deportivos se realicen de manera ordenada y se preserve la integridad de las personas y los bienes;
 
 II. Para la seguridad en el interior de los recintos y sus anexos, los organizadores de los eventos deberán observar las disposiciones legales, reglamentarias y administrativas correspondientes del Municipio en que se celebren los eventos.
 
-La seguridad en la cancha o área de competencia, en los vestidores y baños para jugadores y en los corredores que los comuniquen, será responsabilidad exclusiva de las asociaciones o sociedades deportivas que avalen el evento y de los organizadores, y sólo a petición expresa de sus dirigentes, intervendrán las autoridades municipales, estatales o federales, según sea el caso, salvo que la intervención sea indispensable para salvaguardar la vida o la integridad de los jugadores, de las personas o de los bienes que se encuentren en dichos espacios;
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2026)</small>
+
+La seguridad en la cancha o área de competencia, en los vestidores y baños para personas jugadoras o deportistas y en los corredores que los comuniquen, será responsabilidad exclusiva de las asociaciones o sociedades deportivas que avalen el evento y de los organizadores, y sólo a petición expresa de sus dirigentes, intervendrán las autoridades municipales, estatales o federales, según sea el caso, salvo que la intervención sea indispensable para salvaguardar la vida o la integridad de las personas jugadoras, de las personas o de los bienes que se encuentren en dichos espacios;
 
 III. La seguridad en los alrededores de los recintos deportivos corresponde a las autoridades municipales en términos de lo que dispongan las leyes aplicables;
 
@@ -601,9 +683,13 @@ IV. A solicitud de las autoridades municipales y atendiendo a los acuerdos de co
 
 V. A solicitud de las autoridades estatales y atendiendo a los acuerdos de colaboración o coordinación que al efecto se celebren, las autoridades federales intervendrán para garantizar la seguridad en las áreas que se especifiquen de acuerdo con la naturaleza del evento de que se trate;
 
-VI. En todo caso, para participar en la planeación previa y en el seguimiento durante el desarrollo del evento, los organizadores de los eventos y las autoridades deportivas podrán acreditar un representante y deberán atender las indicaciones y recomendaciones de las autoridades de seguridad o de la Comisión Especial.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE MARZO DE 2026)</small>
 
-Los representantes a que se refiere esta fracción podrán realizar sugerencias y recomendaciones o solicitudes a las autoridades de seguridad pública, pero por ningún motivo tendrán carácter de autoridad pública ni asumirán posiciones de mando.
+VI. En todo caso, para participar en la planeación previa y en el seguimiento durante el desarrollo del evento, los organizadores de los eventos y las autoridades deportivas podrán acreditar una persona representante y deberán atender las indicaciones y recomendaciones de las autoridades de seguridad o de la Comisión Especial.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2026)</small>
+
+Las personas representantes a que se refiere esta fracción podrán realizar sugerencias y recomendaciones o solicitudes a las autoridades de seguridad pública, pero por ningún motivo tendrán carácter de autoridad pública ni asumirán posiciones de mando.
 
 Para los efectos de este artículo se considera que el evento deportivo, concluye hasta que el recinto se encuentre desalojado y los asistentes se hayan retirado de las inmediaciones;
 
@@ -833,9 +919,11 @@ Las personas morales, cualquiera que sea su naturaleza jurídica, estructura y d
 
 ### CAPÍTULO VIII. De los Derechos y Obligaciones del Deportista
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 66.
 
-Son derechos del deportista:
+Son derechos de la persona deportista:
 
 I. Practicar los deportes de su elección;
 
@@ -859,11 +947,15 @@ VII Bis. Tener, en el caso de los menores de edad para poder asistir a cualquier
 
 VIII. Los demás que le señale esta Ley y su Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 67.
 
-Son obligaciones del deportista:
+Son obligaciones de las personas deportistas:
 
-I. Ser un buen ejemplo para la niñez, el adolescente, la juventud y la sociedad;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2026)</small>
+
+I. Ser un buen ejemplo para las niñas, niños, adolescentes, la juventud y la sociedad;
 
 II. Cumplir cabalmente con los estatutos de sus organismos y reglamentos de su deporte o especialidad;
 
@@ -949,9 +1041,9 @@ De la misma manera la práctica del ajedrez deberá ser promovido, difundido y f
 
 Las autoridades estatales y municipales planificarán y promocionarán el uso óptimo de las instalaciones deportivas de carácter público, para promover y fomentar entre la población en general la práctica de actividades físicas y deportivas.
 
-Los titulares de las dependencias y entidades de la administración pública estatal y municipal, tendrán la obligación de promover y fomentar la práctica de actividades físicas o deportivas entre sus trabajadores, con objeto de contribuir al control del sobrepeso y la obesidad, el mejoramiento de su estado físico y mental, y facilitar su plena integración en el desarrollo social y cultural.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2026)</small>
 
-Para cumplir con esta responsabilidad podrán celebrar acuerdos de colaboración con el Instituto.
+Las personas titulares de las dependencias y entidades de la administración pública estatal y municipal, tendrán la obligación de promover y fomentar la práctica de actividades físicas o deportivas entre su personal, con objeto de contribuir al control del sobrepeso y la obesidad, el mejoramiento de su estado físico y mental, y facilitar su plena integración en el desarrollo social y cultural. Para cumplir con esta responsabilidad podrán celebrar acuerdos de colaboración con el Instituto.
 
 Asimismo, impulsarán la adopción de disposiciones y acuerdos tendientes a facilitar las condiciones de empleo compatibles con la activación física su entrenamiento y participación en competiciones oficiales.
 
@@ -1033,9 +1125,11 @@ Los órganos estatales y municipales en la Entidad participaran en el desarrollo
 
 El Instituto promoverá en coordinación con la Secretaria de Educación Pública del Estado, el desarrollo e investigación en las áreas de Medicina Deportiva, Biomecánica, Control del Dopaje, Psicología del Deporte, Nutrición y demás ciencias aplicadas al deporte y las que se requieran para la práctica óptima de la cultura física y el deporte.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 91.
 
-Los deportistas integrantes de los sistemas Estatal y municipales tendrán derecho a recibir atención médica. Para tal efecto, las autoridades estatales y municipales promoverán los mecanismos de concertación con las instituciones públicas o privadas que integran el sector salud.
+Las personas deportistas integrantes de los sistemas Estatal y municipales tendrán derecho a recibir atención médica. Para tal efecto, las autoridades estatales y municipales promoverán los mecanismos de concertación con las instituciones públicas o privadas que integran el sector salud.
 
 ###### ARTÍCULO 92.
 
@@ -1103,9 +1197,11 @@ El Ejecutivo del Estado creará el Salón de Honor del Deporte Potosino, como un
 
 Asimismo, el Instituto premiará a las potosinas y potosinos que lleguen a representar por más de dos ocasiones al país en juegos olímpicos o mundiales en alguna disciplina deportiva, con fin de fomentar la participación en estos eventos.
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 104.
 
-Los potosinos que por sus merecimientos ingresen al Salón de Honor del Deporte, serán seleccionados a través de propuestas de las organizaciones deportivas de cada una de las diferentes disciplinas.
+Las personas deportistas potosinas que por sus merecimientos ingresen al Salón de Honor del Deporte, serán seleccionados a través de propuestas de las organizaciones deportivas de cada una de las diferentes disciplinas.
 
 ###### ARTÍCULO 105.
 
@@ -1133,9 +1229,11 @@ A los deportistas con alguna discapacidad se buscará darles un trato sin distin
 
 Las Becas deportivas que concede el Gobierno del Estado, ya sea en especie o en recurso económico, a través del Instituto Potosino de Cultura Física y Deporte, son complementarias a las que otorguen los ayuntamientos, las asociaciones deportivas estatales, las federaciones deportivas nacionales, así como los patrocinadores de la iniciativa privada a los deportistas de la Entidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 110.
 
-La beca deportiva será suspendida cuando el beneficiario:
+La beca deportiva será suspendida cuando la persona beneficiaria:
 
 I. No cumpla o no reúna los requisitos establecidos por el Instituto Potosino de Cultura Física y Deporte;
 
@@ -1167,13 +1265,17 @@ Las autoridades estatales y municipales, en sus respectivos ámbitos de competen
 
 ### CAPÍTULO XVII. De la Prevención de la Violencia en el Deporte
 
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 114.
 
-Las disposiciones previstas en el Capítulo VI de la Ley General y las señaladas en este capítulo, serán aplicables a todos los eventos deportivos, sin perjuicio de dar cumplimiento a otros ordenamientos, que en la materia dicten la Federación, el Estado y los Municipios.
+Las disposiciones previstas en La Ley General de Cultura Física y Deporte, así como lo previsto en esta Ley, serán aplicables a todos los eventos deportivos, sin perjuicio de dar cumplimiento a otros ordenamientos, que en la materia dicten la Federación, el Estado y los Municipios.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 115.
 
-Para efectos de esta Ley, por actos o conductas violentas o que inciten a la violencia en el deporte, se entienden los previstos por el artículo 138 de la Ley General.
+Para efectos de esta Ley, por actos o conductas violentas o que inciten a la violencia en el deporte, se entienden los previstos por el artículo 138 de la Ley General de Cultura Física y Deporte.
 
 ###### ARTÍCULO 116.
 
@@ -1193,7 +1295,9 @@ V. Elaborar los lineamientos mínimos para la prevención de la violencia en el 
 
 La Comisión Local Especial se integrará por:
 
-I. El titular del Instituto;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2026)</small>
+
+I. La persona titular del Instituto;
 
 II. Los equipos o clubes deportivos;
 
@@ -1209,39 +1313,63 @@ I. Un Pleno, que operará como la máxima instancia colegiada;
 
 II. Un Consejo Directivo, el cual se constituirá como la instancia de representación y de gobierno, con funciones de dirección, control, consulta, evaluación, seguimiento y cumplimiento de las acciones establecidas por el Pleno;
 
-III. El Presidente del Pleno y del Consejo Directivo, que será el titular del Instituto;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2026)</small>
 
-IV. El Secretario Ejecutivo, que auxiliará en la coordinación y operación de los trabajos del Pleno y del Consejo Directivo, y
+III. La persona titular de la Presidencia del Pleno y del Consejo Directivo, que será la persona titular del Instituto;
 
-V. El Consejero Jurídico, que dará apoyo técnico jurídico al Pleno y al Consejo Directivo.
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2026)</small>
 
-El Secretario Ejecutivo y el Consejero Jurídico, serán servidores públicos del Instituto designados por el Presidente del Consejo Directivo.
+IV. La persona titular de la Secretaría Ejecutiva, que auxiliará en la coordinación y operación de los trabajos del Pleno y del Consejo Directivo, y
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2026)</small>
+
+V. La Consejería Jurídica, que dará apoyo técnico jurídico al Pleno y al Consejo Directivo.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2026)</small>
+
+La Secretaría Ejecutiva y la Consejería Jurídica, serán servidores públicos del Instituto designados por la persona titular de la Presidencia del Consejo Directivo.
 
 ###### ARTÍCULO 119.
 
 El Consejo Directivo se integrara por:
 
-I. Un Presidente, quien convocará a las sesiones, con voz y voto de calidad en caso de empate en las votaciones;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2026)</small>
 
-II. Un Secretario Ejecutivo y el Consejero Jurídico, con voz y sin voto en las sesiones del mismo, y
+I. Una Presidencia, quien convocará a las sesiones, con voz y voto de calidad en caso de empate en las votaciones;
+
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2026)</small>
+
+II. Una Secretaría Ejecutiva y la Consejería Jurídica, con voz y sin voto en las sesiones del mismo, y
 
 III. Ocho vocales, con voz y voto en las sesiones, a saber:
 
-a) Un representante de los deportes profesionales que se practican en el Estado.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2026)</small>
 
-b) Tres representantes seleccionados en el Pleno del Sistema Estatal de las instancias de gobierno de los municipios en materia de cultura física y deporte, de conformidad con la regionalización que establezca dicha instancia colegiada.
+a) Una persona representante de los deportes profesionales que se practican en el Estado.
 
-c) Tres representantes de las asociaciones deportivas estatales.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2026)</small>
 
-d) Un representante de las dependencias y entidades del sector público estatal.
+b) Tres personas representantes seleccionados en el Pleno del Sistema Estatal de las instancias de gobierno de los municipios en materia de cultura física y deporte, de conformidad con la regionalización que establezca dicha instancia colegiada.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2026)</small>
+
+c) Tres personas representantes de las asociaciones deportivas estatales.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2026)</small>
+
+d) Una persona representante de las dependencias y entidades del sector público estatal.
 
 El procedimiento para la elección y nombramiento de los vocales, así como los lineamientos para el funcionamiento, tanto del Consejo Directivo como del Pleno, se establecerán en las normas emitidas por la propia Comisión Especial.
 
-Los titulares e integrantes de los Órganos de la Comisión Especial serán honoríficos y por su desempeño no cobrarán sueldo o emolumento alguno.
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2026)</small>
+
+Las personas titulares e integrantes de los Órganos de la Comisión Especial serán honoríficos y por su desempeño no cobrarán sueldo o emolumento alguno.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 120.
 
-Las sesiones del Pleno y del Consejo Directivo de la Comisión Especial serán ordinarias y extraordinarias, debiendo ser convocadas por su Presidente de conformidad con el Reglamento Interior que emita la Comisión Especial. Se consideraran legalmente instaladas cuando se encuentren reunidos la mayoría de los integrantes del Pleno o del Consejo Directivo de la Comisión Especial, sus decisiones se tomaran por mayoría de votos, teniendo su Presidente voto de calidad en caso de empate.
+Las sesiones del Pleno y del Consejo Directivo de la Comisión Especial serán ordinarias y extraordinarias, debiendo ser convocadas por su Presidencia de conformidad con el Reglamento Interior que emita la Comisión Especial. Se considerarán legalmente instaladas cuando se encuentren reunidos la mayoría de los integrantes del Pleno o del Consejo Directivo de la Comisión Especial, sus decisiones se tomarán por mayoría de votos, teniendo la Presidencia voto de calidad en caso de empate.
 
 ###### ARTÍCULO 121.
 
@@ -1377,7 +1505,9 @@ a) Amonestación privada o pública.
 
 b) Suspensión temporal o definitiva de su inscripción al Sistema Estatal o Municipal, y
 
-V. A los aficionados, asistentes o espectadores en general, sin perjuicio de las sanciones penales, civiles o de cualquier naturaleza que pudieran generarse y considerando la gravedad de la conducta y en su caso, la reincidencia:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE MARZO DE 2026)</small>
+
+V. A las personas aficionadas, asistentes o espectadoras en general, sin perjuicio de las sanciones penales, civiles o de cualquier naturaleza que pudieran generarse y considerando la gravedad de la conducta y en su caso, la reincidencia:
 
 a) Expulsión inmediata de las instalaciones deportivas.
 
@@ -1496,5 +1626,13 @@ P.O. 29 DE JUNIO DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0781.- SE REFORMA EL ARTÍCULO 88; Y SE ADICIONA AL ARTÍCULO 75 EL PÁRRAFO ÚLTIMO, DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SAN LUIS POTOSÍ.”]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 5 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0478.- POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE CULTURA FÍSICA Y DEL DEPORTE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
