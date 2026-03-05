@@ -4,7 +4,7 @@ identifier: "HID-estatuto-organico-de-servicios-de-salud-de-hidalgo-143723"
 country: "mx"
 rank: "estatuto"
 publication_date: "2020-08-03"
-last_updated: "2022-06-27"
+last_updated: "2026-03-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143723&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # ESTATUTO ORGANICO DE SERVICIOS DE SALUD DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD DE HIDALGO, PUBLICADO EN EL P.O. DE 5 DE MARZO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2026 (ABROGADO).
 
 Estatuto publicado en el Alcance Cuatro del Periódico Oficial del Estado de Hidalgo, el lunes 3 de agosto de 2020.
 
@@ -1314,3 +1316,17 @@ PRIMERO.- Las reformas, adiciones y derogaciones al Estatuto Orgánico de Servic
 SEGUNDO.- El Organismo procederá a actualizar sus manuales de organización y procedimientos en un plazo de 60 días hábiles.
 
 TERCERO.– Las presentes reformas, adiciones y derogaciones al Estatuto Orgánico deberán hacerse llegar al Registro Público de Organismos Descentralizados, en términos de lo que establece la Ley de Entidades Paraestatales del Estado de Hidalgo y su Reglamento, en un término no mayor a 30 días hábiles.
+
+P.O. 5 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DE SERVICIOS DE SALUD DE HIDALGO”.]
+
+Primero. El presente Estatuto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+Segundo. Se abroga el Estatuto Orgánico de Servicios de Salud de Hidalgo publicado en el Periódico Oficial del Estado de Hidalgo de fecha 3 de agosto de 2020 y sus modificaciones.
+
+Tercero. A partir de la entrada en vigor de este Estatuto, cada una de las unidades que integran el Organismo deberá actualizar sus manuales de organización y procedimientos en un plazo de 60 días hábiles. Los órganos desconcentrados que así lo requieran expedirán en un lapso no mayor de 60 días hábiles su reglamento interno a partir de la entrada en vigor de este documento.
+
+Cuarto. En tanto no se expidan los instrumentos jurídicos que regulen internamente las actividades de las unidades del Organismo, se continuarán aplicando los vigentes al momento de entrar en vigor el presente Estatuto.
+
+Quinto. El presente Estatuto deberá inscribirse en el Registro Público en términos de lo que establece la Ley de Entidades Paraestatales del Estado de Hidalgo y su Reglamento.
