@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-municipios-del-estado-de-quintana-roo-42182"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-20"
-last_updated: "2025-03-20"
+last_updated: "2026-03-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2026.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 20 de diciembre de 2004.
 
@@ -2901,7 +2901,9 @@ I. Deberá acreditarse conforme a derecho la personalidad de las personas servid
 
 II. Deberá citarse expresamente el acuerdo consignado en el acta de cabildo respectiva, en la que se apruebe por el voto de las dos terceras partes de las personas integrantes del Ayuntamiento la celebración del convenio.
 
-III. Se consignará la temporalidad durante la cual el Estado o Municipio, según sea el caso, asumirán la prestación de la función o servicio de que se trate y se establecerá cláusula de terminación natural, anticipada o de ratificación anual, según sea el caso. Los convenios que excedan el término constitucional de una administración municipal y que hayan sido aprobados por la Legislatura del Estado, deberán ratificarse obligatoriamente en forma anual;
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2026)</small>
+
+III. Se consignará la temporalidad durante la cual el Estado o Municipio, según sea el caso, asumirán la prestación de la función o servicio de que se trate y se establecerá cláusula de terminación natural, anticipada o de ratificación anual, según sea el caso. Los convenios que excedan el término constitucional de una administración municipal y que hayan sido aprobados por la Legislatura del Estado, deberán ratificarse obligatoriamente en forma anual, con excepción de aquellos relativos a la prestación del servicio público de transporte de personas pasajeras que se realizará conforme a lo previsto en la Ley de Movilidad del Estado de Quintana Roo y en lo establecido en el presente artículo siempre que no contravenga lo contenido en dicha Ley.
 
 IV. Se establecerán las obligaciones que adquiere el Estado o el Municipio según sea el caso con la asunción del servicio o función de que se trate;
 
@@ -3173,9 +3175,11 @@ El Bando Municipal podrá modificarse en cualquier momento, siempre y cuando se 
 
 El Bando, sus reformas y adiciones, así como los Reglamentos Municipales deberán darse a la publicidad para que tengan plena vigencia, por lo que siempre deberá establecerse un lapso razonable y de acuerdo a la extensión territorial del Municipio para fijar la fecha en que deban entrar en vigor.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 224.
 
-Los Reglamentos Municipales constituyen los diversos cuerpos normativos tendientes a regular, ejecutar y hacer cumplir el ejercicio de las facultades y obligaciones que esta Ley confiere a los Ayuntamientos en los ámbitos de su competencia. En ningún caso, los reglamentos que expida el Ayuntamiento, podrá contravenir lo dispuesto en las leyes de la materia a que se refieren dichos reglamentos.
+Los Reglamentos Municipales constituyen los diversos cuerpos normativos tendientes a regular, ejecutar y hacer cumplir el ejercicio de las facultades y obligaciones que esta Ley confiere a los Ayuntamientos en los ámbitos de su competencia. En ningún caso, los reglamentos que expida el Ayuntamiento podrán contravenir lo dispuesto en las leyes de la materia a que se refieren dichos reglamentos. Los reglamentos que se expidan contarán con la siguiente materia de regulación normativa:
 
 Los reglamentos que se expidan contarán con la siguiente materia de regulación normativa:
 
@@ -3183,9 +3187,9 @@ I. Adecuado funcionamiento del Ayuntamiento como órgano máximo de autoridad de
 
 II. Idónea división administrativa y territorial del Municipio;
 
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 5 DE MARZO DE 2026)</small>
 
-III. Preservación del orden público como requerimiento prioritario de la sociedad, en los aspectos de seguridad personal y patrimonial de las personas habitantes del Municipio, salud pública, vialidad, esparcimiento, cultura, desarrollo urbano y demás aspectos fundamentales de la vida comunitaria.
+III. Preservación del orden público como requerimiento prioritario de la sociedad, en los aspectos de seguridad personal y patrimonial de las personas habitantes del Municipio, salud pública, movilidad y seguridad vial, esparcimiento, cultura, desarrollo urbano y demás aspectos fundamentales de la vida comunitaria;
 
 > <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2023)</small>
 
@@ -4148,3 +4152,49 @@ Asimismo, ningún trámite podrá ser condicionado a la expedición de documento
 NOVENO. El Ayuntamiento del Municipio de Playa del. Carmen deberá realizar las acciones jurídicas y administrativas necesarias a fin de actualizar gradualmente la papelería oficial, señalética, registros administrativos y cualquier otro documento o medio en el que se haga referencia al nombre anterior del Municipio. Esta actualización deberá llevarse bajo la disponibilidad presupuestaria, en el marco de los procesos de renovación habituales y asegurando la continuidad de los servicios municipales.
 
 DÉCIMO. Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 5 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 201 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD DEL ESTADO DE QUINTANA ROO; LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO; Y LA LEY DE SEGURIDAD CIUDADANA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo, con excepción de lo previsto en los artículos 196, 197 y 198 de la Ley de Movilidad del Estado de Quintana Roo, cuya vigencia quedará supeditada a la entrada en vigor de las reformas al Reglamento de dicha ley, vinculadas al presente decreto.
+
+SEGUNDO. El Poder Ejecutivo, en un plazo no mayor a ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, deberá realizar las modificaciones correspondientes al Reglamento de la Ley de Movilidad del Estado de Quintana Roo, para armonizarlo con lo previsto en el presente Decreto.
+
+TERCERO. Los Ayuntamientos del Estado de Quintana Roo tendrán un plazo de ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente Decreto para armonizar sus reglamentos, instrumentos legales y cualquier disposición jurídica relativa a lo previsto en el presente Decreto.
+
+CUARTO. El Instituto de Movilidad del Estado de Quintana Roo, en un plazo no mayor a ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, deberá modificar su Estatuto Orgánico, a efecto de armonizar las disposiciones jurídicas aplicables.
+
+QUINTO. Hasta en tanto los Ayuntamientos, adecúan sus disposiciones normativas y expiden los ordenamientos respectivos para asumir las facultades que el presente Decreto les confiere en relación a la modalidad de transporte de micromovilidad, el Instituto de Movilidad del Estado de Quintana Roo, continuará ejerciendo dichas facultades, debiendo coordinarse con los Ayuntamientos, para realizar las acciones administrativas y legales que garanticen la efectiva transición en cuanto a dicha modalidad se refiere.
+
+SEXTO. Los procedimientos de contratación, aplicación de sanciones, inconformidades y recursos administrativos, así como los demás asuntos que se encuentren en trámite o pendientes de resolución se tramitarán y resolverán en términos de las disposiciones vigentes al momento del inicio de dichos procedimientos.
+
+SÉPTIMO. Las concesiones, permisos y autorizaciones otorgadas por los Ayuntamientos del Estado de Quintana Roo vigentes a la fecha de la entrada en vigor del presente Decreto, continuarán en vigencia hasta la fecha de su vencimiento y serán aplicables en lo conducente las disposiciones jurídicas que, al momento de otorgarse dichas concesiones, permisos y autorizaciones, se encontraban vigentes, en todo lo que no contravenga a lo dispuesto por el presente Decreto.
+
+La expedición de las concesiones, permisos y autorizaciones que se encuentren en proceso de renovación deberán ajustarse a lo previsto en el presente Decreto.
+
+OCTAVO. El Instituto de Movilidad del Estado de Quintana Roo tendrá un plazo de ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar las gestiones necesarias que permitan constituir el Fideicomiso Público para la operación financiera del SITQROO y el pago de servicios conexos.
+
+Hasta en tanto se constituye el Fideicomiso Público a que se refiere el presente artículo transitorio, el Instituto de Movilidad del Estado de Quintana Roo aperturará una cuenta específica para recibir y administrar los recursos del Sistema Integrado de Transporte de Quintana Roo, los cuales serán transferidos al Fideicomiso Público en un plazo no mayor de noventa días hábiles posterior a la constitución de este mismo.
+
+NOVENO. Los contratos, convenios o cualquier acto jurídico que generen obligaciones en materia de Servicio Público de Transporte Urbano de Personas pasajeras en Autobuses en ruta establecida y que hubieren sido suscritos por los Ayuntamientos del Estado de Quintan a Roo, con anterioridad a la entrada en vigor del presente Decreto, y en su caso a la firma de los convenios correspondientes, permanecerán vigentes hasta en tanto el Instituto de Movilidad del Estado de Quintana Roo, esté en condiciones de asumir las obligaciones contraídas en los mismos.
+
+En dicho caso, el Instituto de Movilidad del Estado de Quintana Roo en conjunto con los Ayuntamientos del Estado de Quintana Roo, realizará lo necesario para dar continuidad a las obligaciones pactadas en los mismos, a efecto de mantener habilitado el Servicio Público de Transporte Urbano de Personas pasajeras en Autobuses en ruta establecida, en las condiciones establecidas en el presente Decreto.
+
+DÉCIMO. Los contratos, convenios o cualquier acto jurídico que genere obligaciones en relación con el servicio público de transporte de micromovilidad y que hubieren sido suscritos por el Instituto de Movilidad del Estado de Quintana Roo, con anterioridad a la entrada en vigor del presente Decreto, permanecerán vigentes hasta en tanto los Ayuntamientos, estén en condiciones de asumir las obligaciones contraídas en los mismos.
+
+En dicho caso, los Ayuntamientos en conjunto con el Instituto de Movilidad del Estado de Quintana Roo, realizarán lo necesario para dar continuidad a las obligaciones pactadas en los mismos.
+
+DÉCIMO PRIMERO. Los Ayuntamientos del Estado de Quintana Roo tendrán un plazo de ciento ochenta días hábiles, contados a partir de la firma de los convenios correspondientes, para realizar las acciones administrativas y legales que les permitan transferir al Instituto de Movilidad del Estado de Quintana Roo, los documentos y archivos relacionados con el Servicio Público de Transporte Urbano de Personas pasajeras en Autobuses en ruta establecida.
+
+DÉCIMO SEGUNDO. El Instituto de Movilidad del Estado de Quintana Roo, tendrá un plazo de ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar las acciones administrativas y legales que permitan transferir a los Ayuntamientos, los documentos y archivos relacionados con la modalidad de transporte de micromovilidad, de vehículos que tengan una velocidad máxima de 25 kilómetros por hora.
+
+DÉCIMO TERCERO. La Secretaría de Finanzas y Planeación del Poder Ejecutivo del Estado de Quintana Roo, deberá realizar las previsiones y adecuaciones presupuestales que resulten necesarias para la aplicación del presente Decreto.
+
+DÉCIMO CUARTO. Los reglamentos, normas y demás disposiciones de carácter general que hubiesen sido expedidas previo a la entrada en vigor del presente Decreto seguirán siendo vigentes y aplicables exclusivamente en lo que no se opongan a este último.
+
+DÉCIMO QUINTO. El Instituto de Movilidad tendrá un plazo de hasta noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar todas las gestiones y acciones necesarias que permitan la creación y funcionamiento del Fondo para la Movilidad del Estado de Quintana Roo, de conformidad con el presente Decreto.
+
+DÉCIMO SEXTO. El Gobierno del Estado de Quintana Roo, a través de sus dependencias y organismos auxiliares, y los Ayuntamientos deberán proveer lo necesario para el correcto y eficaz cumplimiento de lo previsto en el presente Decreto.
+
+DÉCIMO SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía en lo que se oponga (sic) a lo establecido en el presente Decreto.
