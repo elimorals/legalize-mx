@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2025-12-11"
+last_updated: "2026-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE MARZO DE 2026.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1851,7 +1851,7 @@ Las sanciones previstas en este capítulo se aumentarán hasta en una mitad cuan
 
 ### CAPÍTULO II. VIOLACIÓN
 
-> <small>(REFORMADO Y REUBICADO, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE MARZO DE 2026)</small>
 
 ###### Artículo 182.
 
@@ -1867,7 +1867,9 @@ Las sanciones previstas en este capítulo se aumentarán hasta en una mitad cuan
 
 ###### Artículo 184.
 
-A quien por medio de la violencia física o moral tenga cópula con una persona, se le impondrán de seis a veinte años de prisión y multa de hasta cuatrocientos días de salario. Se entiende por cópula la introducción del pene en el cuerpo de la víctima, por vía vaginal, anal u oral.
+A quien por medio de la violencia física o moral tenga cópula con una persona, se le impondrán de siete años a veinte años de prisión y multa de hasta mil doscientas unidades de medida y actualización. Se entiende por cópula la introducción del pene en el cuerpo de la víctima, por vía vaginal, anal u oral.
+
+> <small>(REFORMADO, G.O. 2 DE ABRIL DE 2010)</small>
 
 También se considera que comete el delito de violación quien, por medio de la fuerza física o moral, introduzca por vía vaginal o anal cualquier objeto o parte del cuerpo distinto al pene, sin importar el sexo de la víctima.
 
@@ -1881,11 +1883,13 @@ Este delito se configura también cuando entre el activo y el pasivo de la viola
 
 Se impondrá de diez a veinticinco años de prisión y multa de hasta quinientos días de salario cuando el delito previsto en el artículo anterior se cometa en contra de persona que no tenga la capacidad de comprender el significado del hecho o que por cualquier causa no pueda resistir.
 
-> <small>(REFORMADO, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE MARZO DE 2026)</small>
 
 ###### Artículo 185.
 
-La violación se considerará agravada, y se sancionará con pena de diez a treinta años de prisión y multa hasta de mil días de salario, cuando concurra uno o más de los siguientes supuestos:
+La violación se considerará agravada, y se sancionará con pena de doce años a treinta años de prisión y multa hasta de tres mil unidades de medida y actualización, cuando concurra uno o más de los siguientes supuestos:
+
+> <small>(REFORMADA, G.O. 2 DE ABRIL DE 2010)</small>
 
 I. Que se cometa por dos o más personas;
 
@@ -1925,7 +1929,11 @@ IX. Que el sujeto activo lo cometa en lugares despoblados o solitarios; o
 
 X. Que se lleve a cabo al interior de instituciones educativas o en establecimientos públicos o privados en los que se preste el servicio de auxilio o refugio de personas, en ambos casos si es cometido por personal de las mismas.
 
+> <small>(REFORMADO, G.O. 2 DE ABRIL DE 2010)</small>
+
 Además de las sanciones arriba señaladas, en los casos respectivos, el responsable perderá la patria potestad o la tutela, así como el derecho de heredar, por ley, del ofendido.
+
+> <small>(REFORMADO, G.O. 2 DE ABRIL DE 2010)</small>
 
 En el caso previsto en la fracción IV, además de las sanciones arriba indicadas, se impondrán destitución, en su caso, e inhabilitación para desempeñar otro empleo, cargo o comisión públicos, o para ejercer profesión, hasta por cinco años.
 
@@ -1933,7 +1941,7 @@ En el caso previsto en la fracción IV, además de las sanciones arriba indicada
 
 ### CAPÍTULO III. ABUSO SEXUAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2026)</small>
 
 ###### Artículo 185 Bis.
 
@@ -1947,41 +1955,59 @@ En el caso previsto en la fracción IV, además de las sanciones arriba indicada
 
 ###### Artículo 186.
 
-A quien, sin el consentimiento de una persona mayor de dieciocho años y sin el propósito de llegar a la cópula, ejecute en ella actos sexuales o la haga ejecutarlo, se le impondrán de uno a seis años de prisión y multa de hasta cien días de salario mínimo.
+Comete el delito de abuso sexual quien sin el consentimiento de la víctima y sin el propósito de llegar a la cópula, realice en el ámbito público o privado, cualquier acto de naturaleza sexual, la obligue a observarlo, o la haga ejecutarlo sobre sí, para un tercero o para el propio sujeto activo.
 
-> <small>(REFORMADO, G.O. 2 DE ABRIL DE 2010)</small>
+También se considera abuso sexual cuando se obligue a la víctima a exhibir su cuerpo. Se entiende por acto sexual los tocamientos, caricias, roces corporales, exhibiciones o representaciones sexuales explícitas.
 
-Si la víctima fuere incapaz de comprender el significado del hecho o por cualquier causa no pudiere resistir, se impondrán prisión de cinco a diez años y multa de hasta doscientos cincuenta días de salario.
+Para los efectos del presente artículo no se considera consentimiento cuando la voluntad de la persona haya sido anulada o viciada por violencia, intimidación, engaño, amenaza, abuso de confianza, autoridad o situación de vulnerabilidad. El consentimiento no podrá presumirse del silencio, la pasividad o la falta de resistencia física de la víctima.
 
-> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2016)</small>
+A quien cometa este delito se le impondrá una sanción de cuatro a ocho años de prisión y multa de doscientas cincuenta a quinientas cincuenta veces el valor diario de la Unidad de Medida y Actualización. Así mismo, se impondrá la obligación de acudir a talleres reeducativos con perspectiva de género y no violencia contra las mujeres y/o prestar servicio social en favor del Estado o de instituciones de beneficencia pública a fin de favorecer medidas de no repetición y promover un cambio cultural a favor de la igualdad sustantiva entre mujeres y hombres.
 
-Un roce o tocamiento accidental, no constituye abuso sexual.
+Este delito se perseguirá de oficio.
 
-> <small>(REFORMADO, G.O. 2 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2026)</small>
 
 ###### Artículo 187.
 
-El delito señalado en el artículo anterior se sancionará con prisión de cuatro a diez años y multa hasta de cuatrocientos días de salario, cuando:
+Las penas previstas en el artículo anterior se aumentarán hasta en una tercera parte cuando en el delito de abuso sexual concurra alguna de las circunstancias siguientes:
 
-I. Se haga uso de la violencia física o moral;
+I. Se haga uso de violencia física, moral o psicológica;
 
-II. Se cometa con intervención directa o inmediata de dos o más personas; o
+II. Cuando exista o haya existido entre el agresor y la víctima una relación de confianza, sentimental, de parentesco por consanguinidad o afinidad laboral, educativa, docente, de formación deportiva, artística o religiosa;
 
-III. El responsable ejerza, de hecho o por derecho, autoridad sobre el pasivo, lo tenga bajo su guarda o custodia o aproveche la confianza en él depositada. En su caso, el responsable perderá además la patria potestad o la tutela.
+III. El responsable ejerza, de hecho, o por derecho, autoridad sobre el pasivo, lo tenga bajo su guarda o custodia o aproveche la confianza en él depositada. En su caso, el responsable perderá además la patria potestad, tutela, curatela, derecho a recibir alimentos, así como a los derechos sucesorios, en los casos en que la ejerciera sobre la víctima, sin que cese su obligación de dar alimentos para con ella;
 
-> <small>(REFORMADO, G.O. 2 DE ABRIL DE 2010)</small>
+IV. Se cometa por dos o más personas;
+
+V. Cuando se realice por persona servidora pública aprovechando su empleo, cargo o comisión. En este caso además de la pena de prisión, la persona agresora será destituida del cargo, empleo o comisión e inhabilitada para el ejercicio de servicio público por un plazo igual al de la pena privativa de la libertad, sin perjuicio de otras sanciones administrativas o civiles que correspondan;
+
+VI. Cuando se realice por profesionista aprovechando su empleo, cargo o comisión. En este caso, además de la pena de prisión, la persona agresora será inhabilitada para el ejercicio de la profesión por un plazo igual al de la pena privativa de la libertad sin perjuicio de otras sanciones administrativas o civiles que correspondan;
+
+VII. Cuando se realice por ministro de culto aprovechando su cargo, función o comisión;
+
+VIII. La víctima se encuentre bajo los efectos de alcohol, fármacos, narcóticos u otras sustancias que afecten su voluntad o discernimiento;
+
+IX. La víctima se encuentre en estado de embarazo o puerperio;
+
+X. Se cometa contra personas por su orientación sexual, identidad de género o expresión de género, así como por sus características sexuales reales o atribuidas;
+
+XI. Se cometa en un lugar despoblado, solitario o poco accesible;
+
+XII. Cuando la víctima se encuentre en estado de indefensión; o
+
+XIII. Se cometa en el domicilio de la víctima.
+
+Como parte de la reparación del daño, el sujeto activo deberá cubrir los gastos relacionados a la atención psicológica para la víctima, hasta su total recuperación, sin perjuicio de las otras medidas establecidas en la Ley de Víctimas para el Estado de Veracruz de Ignacio de la Llave.
 
 ###### Artículo 188.
 
-El delito consignado en este capítulo se perseguirá por querella. Si la víctima fuere incapaz de comprender el significado del hecho o por cualquier causa no pudiere resistir, o se hubiere empleado violencia, se perseguirá de oficio.
-
-Si quien comete este delito es servidor público o ejerce una profesión, empleo o ministerio religioso y utiliza los medios o circunstancias derivadas de ello, además se impondrán destitución, si procede, e inhabilitación para desempeñar otro empleo, cargo o comisión públicos, o para ejercer profesión, hasta por cinco años.
+(DEROGADO, G.O. 6 DE MARZO DE 2026)
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 2 DE ABRIL DE 2010)</small>
 
 ### CAPÍTULO V. ACOSO Y HOSTIGAMIENTO SEXUAL
 
-> <small>(REFORMADO, G.O. 3 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE MARZO DE 2026)</small>
 
 ###### Artículo 189.
 
@@ -1997,11 +2023,13 @@ Este delito se perseguirá por querella.
 
 ### CAPÍTULO I. PEDERASTIA
 
-> <small>(REFORMADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2026)</small>
 
 ###### Artículo 190.
 
-Comete el delito de acoso sexual quien, con fines lascivos, acose reiteradamente a una persona de cualquier sexo, y se le impondrán de uno a cuatro años de prisión y multa por el valor diario de hasta trescientas unidades de medida y actualización vigente.
+Comete el delito de acoso sexual quien, con fines lascivos, acose reiteradamente a una persona de cualquier sexo, y se le impondrán de un año y ocho meses a cuatro años de prisión y multa por el valor diario de hasta quinientas unidades de medida y actualización.
+
+> <small>(REFORMADO, G.O. 3 DE JULIO DE 2020)</small>
 
 Cuando la víctima sea menor de dieciocho años de edad o no tenga capacidad para comprender el significado del hecho, se impondrá una pena de dos a ocho años de prisión y multa por el valor diario de hasta quinientas unidades de medida y actualización vigente.
 
@@ -2033,7 +2061,7 @@ Los delitos de acoso sexual y hostigamiento sexual se perseguirán por querella,
 
 ###### Artículo 190 Quater.
 
-A quien, con consentimiento o sin él, introduzca el pene por la vía vaginal, anal u oral, o por la vía vaginal o anal cualquier otro artefacto u otra parte del cuerpo distinta del pene, a una niña, niño o adolescente, se le impondrán de seis a treinta años de prisión y multa de hasta tres mil unidades de medida y actualización.
+A quien, con consentimiento o sin él, introduzca el pene por la vía vaginal, anal u oral, o por la vía vaginal o anal cualquier otro artefacto u otra parte del cuerpo distinta del pene, a una niña, niño o adolescente, se le impondrán de ocho años a treinta años de prisión y multa de hasta cinco mil unidades de medida y actualización.
 
 > <small>(ADICIONADO, G.O. 1 DE DICIEMBRE DE 2015)</small>
 
@@ -2077,7 +2105,9 @@ IX. Si el sujeto activo lo comete en lugares despoblados o solitarios; o
 
 X. Si el sujeto activo lo comete al interior de una institución educativa en la que labore o en establecimientos públicos o privados en los que se preste el servicio de auxilio o refugio de personas, si forma parte del personal de los mismos.
 
-En estos supuestos, se impondrán al activo de doce a cuarenta años de prisión y multa de hasta cinco mil días de salario.
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2026)</small>
+
+En estos supuestos, se impondrán al activo de quince años a cuarenta años de prisión y multa de hasta cinco mil unidades de medida y actualización.
 
 El responsable perderá, en su caso, la patria potestad o la tutela de la víctima.
 
@@ -2103,29 +2133,31 @@ Las penas a que hace referencia el presente artículo, se aumentarán en una mit
 
 No se considerará corrupción de niñas, niños o adolescentes, la impartición de programas o cursos por parte de instituciones públicas o privadas sobre educación sexual, función reproductiva, prevención de enfermedades de transmisión sexual, embarazo de adolescentes y prevención de adicciones, siempre que estén aprobados por la autoridad competente.
 
-> <small>(ADICIONADO, G.O. 1 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE MARZO DE 2026)</small>
 
 ###### Artículo 190 Octies.
 
-A quien emplee o permita que personas menores de dieciocho años laboren en cantinas, prostíbulos o algún centro de vicio, se le impondrán de uno a seis años de prisión, multa hasta de doscientos días de salario y cierre definitivo del establecimiento, en caso de reincidencia.
-
-Para los efectos del párrafo anterior, se considerará como empleada a la persona que por un salario, la sola comida, comisión de cualquier índole, cualquier otro estipendio, emolumento, o gratuitamente, preste servicios en algún lugar de los señalados.
+A quien emplee o permita que personas menores de dieciocho años laboren en cantinas, prostíbulos o algún centro de vicio, se le impondrán de un año y seis meses a seis años de prisión, multa hasta de doscientas unidades de medida y actualización y cierre definitivo del establecimiento, en caso de reincidencia.
 
 > <small>(ADICIONADO, G.O. 1 DE DICIEMBRE DE 2015)</small>
 
+Para los efectos del párrafo anterior, se considerará como empleada a la persona que por un salario, la sola comida, comisión de cualquier índole, cualquier otro estipendio, emolumento, o gratuitamente, preste servicios en algún lugar de los señalados.
+
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2026)</small>
+
 ###### Artículo 190 Nonies.
 
-A quien tenga bajo su responsabilidad directa permitir el acceso a salas en que se exhiban películas o se ofrezcan espectáculos calificados de no aptos para niñas, niños o adolescentes y les facilite su entrada, se le impondrán de uno a seis meses de prisión y multa hasta de diez días de salario.
+A quien tenga bajo su responsabilidad directa permitir el acceso a salas en que se exhiban películas o se ofrezcan espectáculos calificados de no aptos para niñas, niños o adolescentes y les facilite su entrada, se le impondrán de tres a seis meses de prisión y multa hasta de diez unidades de medida y actualización.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 1 DE DICIEMBRE DE 2015)</small>
 
 ### CAPÍTULO III BIS. ABUSO SEXUAL DE MENORES DE EDAD Y DE PERSONAS INCAPACES
 
-> <small>(ADICIONADO, G.O. 23 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2026)</small>
 
-Artículo 190 Undecies. A quien sin llegar a la cópula o a la introducción vaginal, anal u oral, abuse sexualmente de un niño, niña o adolescente o lo obligue, induzca o convenza a ejecutar cualquier acto sexual, de manera pública o privada, se le impondrán de seis a doce años de prisión y multa hasta de dos mil Unidades de Medida y Actualización.
+Artículo 190 Undecies.- A quien sin llegar a la cópula o a la introducción vaginal, anal u oral, realice en una niña, niño o adolescente, en el ámbito público o privado, cualquier acto de naturaleza sexual, le obligue a observarlo, o le induzca, convenza o haga ejecutarlo sobre sí, para un tercero o para el propio sujeto activo, o le obligue, induzca o convenza a exhibir su cuerpo, se le impondrán de ocho a doce años de prisión y multa hasta de tres mil Unidades de Medida y Actualización.
 
-Para los efectos de este artículo, se entiende por acto sexual, los tocamientos corporales voluntarios, así como la exhibición de los órganos genitales, ambas conductas con finalidades lascivas.
+Para los efectos de este artículo, se entiende por acto sexual los tocamientos, caricias, roces corporales, exhibiciones o representaciones sexuales explícitas.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 1 DE DICIEMBRE DE 2015)</small>
 
@@ -2137,15 +2169,21 @@ I. Cuando la víctima del delito sea una persona menor de dieciocho años, que n
 
 La sanción se aumentará en una mitad, cuando el sujeto activo hubiese contactado y propuesto a la víctima, mediante el uso de internet, telefonía o de cualquier otra tecnología de la información y la comunicación, un encuentro para cometer este delito;
 
-II. Cuando la víctima del delito sea persona mayor de dieciocho años y resulte obligada, por cualquier medio, a la realización de alguna de las conductas descritas en este artículo, se impondrán de cinco a diez años de prisión y multa de hasta quinientos días de salario, así como el decomiso de los objetos, instrumentos y productos del delito, incluyendo la destrucción de los materiales mencionados;
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2026)</small>
+
+II. Cuando la víctima del delito sea persona mayor de dieciocho años y resulte obligada, por cualquier medio, a la realización de alguna de las conductas descritas en este artículo, se impondrán de seis años a diez años de prisión y multa de hasta quinientas unidades de medida y actualización, así como el decomiso de los objetos, instrumentos y productos del delito, incluyendo la destrucción de los materiales mencionados;
 
 III. A la persona que participe como sujeto activo de este delito en calidad de ser quien fije, imprima, videograbe, audiograbe, fotografíe, filme o describa actos de exhibicionismo corporal o lascivos o sexuales, reales o simulados, en que participe una persona menor de dieciocho años de edad o que no tenga la capacidad de comprender el significado del hecho o que no tiene capacidad de resistirse, se le impondrá la pena de siete a doce años de prisión y multa de hasta mil días de salario, así como el decomiso y destrucción de los objetos, instrumentos y productos del delito;
 
 IV. A quien financie, elabore, reproduzca, almacene, distribuya, rente, comercialice, exponga, publicite o difunda el material a que se refiere la fracción I de este artículo, se le impondrán las mismas sanciones que ahí se señalan;
 
-V. A quien permita, directa o indirectamente, a una persona menor de dieciocho años de edad, a través del uso de tecnología de información, en centros de renta pública, el acceso a material, espectáculos, obras gráficas o audiovisuales de contenido pornográfico o de carácter lascivo o sexual, se le impondrán de seis meses a cinco años de prisión y multa de hasta doscientos días de salario; y
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2026)</small>
 
-VI. A quien almacene, compre o arriende el material pornográfico a que se refiere la fracción I de este artículo, aun sin fines de comercialización o distribución, se le impondrán de seis meses a cinco años de prisión y multa de hasta doscientos días de salario.
+V. A quien permita, directa o indirectamente, a una persona menor de dieciocho años de edad, a través del uso de tecnología de información, en centros de renta pública, el acceso a material, espectáculos, obras gráficas o audiovisuales de contenido pornográfico o de carácter lascivo o sexual, se le impondrán de uno a cinco años de prisión y multa de hasta doscientas unidades de medida y actualización; y
+
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2026)</small>
+
+VI. A quien almacene, compre o arriende el material pornográfico a que se refiere la fracción I de este artículo, aun sin fines de comercialización o distribución, se le impondrán de uno a cinco años de prisión y multa de hasta doscientas unidades de medida y actualización.
 
 No constituye pornografía el empleo de programas preventivos, educativos o informativos que diseñen e impartan las instituciones públicas, privadas o sociales, que tengan por objeto la educación sexual o reproductiva, la prevención de infecciones de transmisión sexual o del embarazo de adolescentes.
 
@@ -2159,7 +2197,11 @@ Artículo 190 Duodecies. A los partícipes de estos delitos que tengan una relac
 
 > <small>(ADICIONADO, G.O. 1 DE DICIEMBRE DE 2015)</small>
 
-Artículo 190 Terdecies. Las sanciones se aumentarán en una mitad, cuando el delito sea cometido con violencia.
+Artículo 190 Terdecies.- Las sanciones se aumentarán en una mitad, cuando el delito sea cometido con violencia.
+
+> <small>(ADICIONADO, G.O. 6 DE MARZO DE 2026)</small>
+
+En el caso de las penas previstas para los delitos de este Capítulo se aumentarán hasta en una tercera parte cuando el delito se cometa por dos o más personas; se realice por persona servidora pública o profesionista aprovechando su empleo, cargo o comisión, en cuyo caso, además de la pena de prisión, la persona agresora será destituida e inhabilitada por un plazo igual al de la pena privativa de la libertad impuesta; se realice por ministro de culto aprovechando su cargo, función o comisión; la víctima se encuentre bajo los efectos de alcohol, fármacos, narcóticos u otras sustancias que afecten su voluntad o discernimiento; se cometa en un lugar despoblado, solitario o poco accesible; o cuando la víctima se encuentre en estado de indefensión.
 
 > <small>(ADICIONADO, G.O. 1 DE DICIEMBRE DE 2015)</small>
 
@@ -2177,9 +2219,9 @@ Artículo 190 Quindecies. Comete el delito de violación a la intimidad sexual q
 
 Así como quien videograbe, audiograbe, fotografíe, imprima o elabore, imágenes, audios o videos con contenido íntimo sexual de una persona sin su consentimiento, sin su aprobación, o sin su autorización.
 
-> <small>(REFORMADO, G.O. 15 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2026)</small>
 
-Estas conductas se sancionarán de cuatro a ocho años de prisión y multa de mil hasta dos mil Unidades de Medida y Actualización, al momento de que se cometa el delito.
+Estas conductas se sancionarán de cuatro años y seis meses a ocho años de prisión y multa de mil quinientas hasta tres mil Unidades de Medida y Actualización, al momento de que se cometa el delito.
 
 > <small>(ADICIONADO, G.O. 15 DE NOVIEMBRE DE 2021)</small>
 
@@ -5615,10 +5657,12 @@ Séptimo. En un periodo de ciento ochenta días hábiles, contados a partir de l
 
 Octavo. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DECLARA REFORMADO EL INCISO A) DE LA FRACCIÓN XXI DEL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE EXTORSIÓN”.]
+G.O. 6 DE MARZO DE 2026.
 
-Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 501 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL Y DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, AMBOS ORDENAMIENTOS DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
 
-Segundo.- El Congreso de la Unión deberá expedir la ley general de la materia a la que se refiere este Decreto, en un plazo no mayor a 180 días contados a partir del día siguiente de su entrada en vigor.
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
-Tercero.- Las disposiciones legales de la Federación y de las entidades federativas en materia de extorsión continuarán vigentes hasta en tanto el Congreso de la Unión emita la ley general de la materia. En el régimen transitorio de dicha ley se establecerán los plazos y condiciones para realizar las adecuaciones normativas correspondientes.
+SEGUNDO. Las autoridades encargadas de la procuración e impartición de justicia tendrán un plazo de sesenta días para capacitar a su personal en investigación y atención del delito de abuso sexual con perspectiva de género.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
