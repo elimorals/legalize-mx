@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1801
 country: "mx"
 rank: "ley"
 publication_date: "2025-05-22"
-last_updated: "2025-05-22"
+last_updated: "2026-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180145&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2026.
 
 Ley publicada en la Sección Cuarta del Número 86 del Periódico Oficial del Estado de Nayarit, el jueves 22 de mayo de 2025.
 
@@ -547,7 +547,9 @@ VII. Violencia contra los derechos reproductivos. Toda acción u omisión que li
 
 VIII. Violencia simbólica. Es la expresión, emisión o difusión por cualquier medio, ya sea en el ámbito público o privado, de discursos, mensajes, patrones estereotipados, signos, valores icónicos e ideas que transmiten, reproducen, justifican o naturalizan la subordinación, desigualdad, discriminación y violencia contra las mujeres en la sociedad;
 
-IX. Violencia Vicaria. Aquella violencia contra la víctima que ejerce la persona que mantenga o haya mantenido una relación de hecho o de pareja con aquella, y que por sí o por interpósita persona, utilice como medio a descendencia de ésta para causarle daño, generando una consecuente afectación psicoemocional e incluso física, económica, patrimonial o de cualquier otro tipo, tanto a la víctima, como a quienes fungieren como medio. Con independencia de lo anterior, este tipo de violencia se regulará en los términos y forma que al efecto establezca el Código Penal para el Estado de Nayarit;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2026)</small>
+
+IX. Violencia Vicaria. Aquella violencia cometida contra la mujer, que ejerce la persona que mantenga o haya mantenido una relación de hecho o de pareja con aquella, y que por sí o por interpósita persona, utilice como medio a descendencia de ésta para causarle daño, generando una consecuente afectación psicoemocional e incluso física, económica, patrimonial o de cualquier otro tipo, tanto a la víctima, como a quienes fungieren como medio. Con independencia de lo anterior, este tipo de violencia se regulará en los términos y forma que al efecto establezca el Código Penal para el Estado de Nayarit;
 
 X. Violencia a través de interpósita persona. Es cualquier acto u omisión que, con el objetivo de causar perjuicio o daño a las mujeres, se dirige contra las hijas y/o hijos, familiares o personas allegadas, ya sea que se tenga o se haya tenido relación de matrimonio o concubinato; o mantenga o se haya mantenido una relación de hecho con la persona agresora; lo anterior aplica incluso cuando no se cohabite en el mismo domicilio.
 
@@ -1882,3 +1884,11 @@ Dado en el recinto oficial del Honorable Congreso del Estado de Nayarit, en Tepi
 Dip. Luis Daniel Pérez Lerma, Presidente.- Rúbrica.- Dip. Adriana Elizabeth Haro Oliveros, Secretaria.- Rúbrica.- Dip. Nadia Alejandra Ramírez López, Secretaria.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado, y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los veintiún días del mes de mayo de dos mil veinticinco.- DR. MIGUEL ÁNGEL NAVARRO QUINTERO, Gobernador Constitucional del Estado.- Rúbrica.- Dra. en D. Rocío Esther González García, Secretaria General de Gobierno.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 29 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT, EN MATERIA DE VIOLENCIA VICARIA".]
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
