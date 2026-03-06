@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-numero-viii-2024-del-174804"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2024-10-11"
-last_updated: "2024-10-11"
+last_updated: "2026-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174804&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2024-10-11"
 
 ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO VIII/2024, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TREINTA DE SEPTIEMBRE DE DOS MIL VEINTICUATRO, POR EL QUE SE REGULA EL USO Y SERVICIO DE COMEDORES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN: 6 DE MARZO DE 2026.
 
 Acuerdo publicado en el Semanario Judicial de la Federación, Undécima Época, Registro Digital 5996, el viernes 11 de octubre de 2024, Páginas 1 a la 8.
 
@@ -77,13 +77,17 @@ II. Aquellas que se encuentren desarrollando prácticas profesionales, y
 
 III. Prestadoras de servicios profesionales por honorarios asimilables a salarios.
 
-El Comité de Gobierno y Administración podrá autorizar el acceso al servicio del comedor a las personas no previstas en el presente Acuerdo General de Administración, con la debida justificación.
+> <small>(REFORMADO, S.J.F. 6 DE MARZO DE 2026)</small>
+
+El Comité de Gobierno o la persona titular de la Presidencia de la Suprema Corte de Justicia de la Nación, podrán autorizar el acceso al servicio del comedor a las personas no previstas en el presente Acuerdo General de Administración, con la debida justificación.
 
 En las Reglas de Operación que al efecto se emitan se establecerá el número máximo de platillos destinados a las personas externas atendiendo a la suficiencia presupuestal.
 
 Las personas usuarias que laboren o realicen actividades en los edificios Sede de la Suprema Corte de Justicia de la Nación y 5 de Febrero, estarán autorizadas para acceder únicamente al comedor del inmueble que le corresponda.
 
-Aquellas personas usuarias que laboren o desarrollen sus actividades en un edificio que no tengan el servicio de comedores, podrán acceder a éste en el edificio que así se disponga en las Reglas de Operación que al efecto se emitan.
+> <small>(REFORMADO, S.J.F. 6 DE MARZO DE 2026)</small>
+
+El comedor cinco de Febrero corresponde al personal que labora en el edificio Alterno de Simón Bolívar, Dieciséis de Septiembre, República de El Salvador, Chimalpopoca y Almacén Zaragoza.
 
 Quienes se encuentren comisionadas en un edificio diferente a su centro de trabajo podrán hacer uso del comedor que corresponda.
 
@@ -131,13 +135,19 @@ Las instalaciones, los ingredientes, los utensilios y el proceso de elaboración
 
 El servicio de comedores tendrá costo, siendo obligación de las personas servidoras públicas y personas usuarias externas pagarlo para poder acceder a éste.
 
-El precio del menú será determinado por el Comité de Gobierno y Administración, previa propuesta razonada de la Subdirección General de Comedores y opinión de la Dirección General de Presupuesto y Contabilidad.
+> <small>(REFORMADO, S.J.F. 6 DE MARZO DE 2026)</small>
 
-Las personas servidoras públicas usuarias del servicio de comedor podrán gozar de un subsidio, cuyo importe se revisará anualmente por las autoridades correspondientes.
+El costo del menú será fijado por el Comité de Gobierno o la persona titular de la Presidencia de la Suprema Corte de Justicia de la Nación, con base en una propuesta debidamente fundada y motivada formulada por la Subdirección General de Comedores, y previa emisión de la opinión técnica correspondiente por parte de la Dirección General de Presupuesto y Contabilidad de la Unidad de Administración de la Suprema Corte de Justicia de la Nación.
+
+> <small>(REFORMADO, S.J.F. 6 DE MARZO DE 2026)</small>
+
+Las personas servidoras públicas usuarias del servicio de comedor podrán ser beneficiarias de un subsidio, cuyo monto será determinado y revisado anualmente por las autoridades competentes, conforme a la disponibilidad presupuestaria, los criterios de racionalidad del gasto público y las disposiciones normativas aplicables.
 
 Cuando las personas servidoras públicas hagan uso del servicio de comedores, se entenderá que autorizan que el pago de la cuota de recuperación por dicho servicio se realice mediante descuento vía nómina a partir de los accesos efectivos a los comedores institucionales.
 
-Las personas usuarias externas para hacer uso del servicio de comedores podrán adquirir su acceso electrónico, previo pago efectuado mediante transferencia electrónica a la cuenta y referencia que genere para tal efecto la Dirección General de la Tesorería.
+> <small>(REFORMADO, S.J.F. 6 DE MARZO DE 2026)</small>
+
+Las personas usuarias externas, para hacer uso del servicio de comedores, podrán adquirir el acceso electrónico correspondiente, previo pago efectuado mediante transferencia electrónica a la cuenta bancaria y referencia que, para tal efecto, determine la Dirección General de Presupuesto y Contabilidad de la Unidad de Administración de la Suprema Corte de Justicia de la Nación.
 
 Una vez realizado el pago al que hace referencia el párrafo anterior, el acceso electrónico correspondiente se podrá ver reflejado dentro de un lapso de 2 días hábiles posteriores.
 
@@ -171,9 +181,11 @@ II. Elegir para su consumo los alimentos del menú que ofrezcan los comedores in
 
 III. Tener acceso prioritario en caso de contar con alguna discapacidad o encontrarse en estado de embarazo;
 
-IV. Acudir con recipientes propios a recibir sus alimentos para ser consumidos en sus lugares de trabajo.
+> <small>(REFORMADA, S.J.F. 6 DE MARZO DE 2026)</small>
 
-Dichos recipientes deberán estar limpios, ser de vidrio y sellar herméticamente, y
+IV. Consumir alimentos en sus lugares de trabajo, utilizando recipientes propios, cuando opten por la modalidad de alimentos para llevar.
+
+Dichos recipientes deberán estar limpios, sellar herméticamente y encontrarse en óptimas condiciones, debiendo a su vez, acudir con los elementos necesarios para su transporte, y
 
 V. Emitir sus opiniones, quejas y sugerencias, a través de los medios que para tal efecto se dispongan.
 
@@ -199,9 +211,17 @@ VIII. Introducir y consumir bebidas alcohólicas;
 
 IX. Fumar en las instalaciones del comedor;
 
-X. Dañar el mobiliario u otros artículos que se encuentren en el comedor, y
+> <small>(REFORMADA, S.J.F. 6 DE MARZO DE 2026)</small>
 
-XI. Dar propinas, regalos o incentivos, al personal que preste sus servicios en el comedor.
+X. Dañar el mobiliario u otros artículos que se encuentren en el comedor;
+
+> <small>(REFORMADA, S.J.F. 6 DE MARZO DE 2026)</small>
+
+XI. Dar propinas, regalos o incentivos, al personal que preste sus servicios en el comedor, y
+
+> <small>(ADICIONADA, S.J.F. 6 DE MARZO DE 2026)</small>
+
+XII. Utilizar las instalaciones del comedor, su mobiliario o espacios, fuera del horario de operación o para fines distintos al servicio de alimentos.
 
 ### CAPÍTULO CUARTO. DE LAS FALTAS Y MEDIDAS DISCIPLINARIAS
 
@@ -221,15 +241,25 @@ V. Hacer caso omiso a las indicaciones dadas por el personal del comedor en el �
 
 VI. Prestar la credencial propia, utilizar la credencial de otra persona servidora pública como propia o colaborar de cualquier manera para que aquellas personas que no tienen derecho de acceso al comedor hagan uso del servicio;
 
-VII. Agredir verbal o físicamente a las demás personas usuarias y el personal que preste sus servicios en el comedor;
+> <small>(REFORMADA, S.J.F. 6 DE MARZO DE 2026)</small>
+
+VII. Agredir verbal o físicamente a las demás personas usuarias y al personal que preste sus servicios en el comedor;
 
 VIII. Consumir bebidas alcohólicas, sustancias prohibidas o fumar en las instalaciones;
 
 IX. Dar propinas, regalos o incentivos, al personal que preste sus servicios en el comedor;
 
-X. Dañar el mobiliario de los comedores. Las personas que sean sorprendidas en esta situación pagarán el costo de la reparación o reposición de los bienes dañados, y
+> <small>(REFORMADA, S.J.F. 6 DE MARZO DE 2026)</small>
 
-XI. Ingresar al comedor alimentos externos.
+X. Dañar el mobiliario de los comedores. Las personas que sean sorprendidas en esta situación pagarán el costo de la reparación o reposición de los bienes dañados;
+
+> <small>(REFORMADA, S.J.F. 6 DE MARZO DE 2026)</small>
+
+XI. Ingresar al comedor alimentos externos, y
+
+> <small>(ADICIONADA, S.J.F. 6 DE MARZO DE 2026)</small>
+
+XII. Utilizar las instalaciones del comedor, su mobiliario o espacios, fuera del horario de operación o para fines distintos al servicio de alimentos.
 
 ###### Artículo 16.
 
@@ -292,3 +322,15 @@ QUINTO. Publíquese el presente Acuerdo General de Administración en el Semanar
 Firman la señora y señores Ministros integrantes del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, Presidenta Norma Lucía Piña Hernández, Javier Laynez Potisek y Jorge Mario Pardo Rebolledo.
 
 Este acuerdo se publicó el viernes 11 de octubre de 2024 a las 10:21 horas en el Semanario Judicial de la Federación.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+S.J.F. 6 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL NÚMERO I/2026, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTISIETE DE FEBRERO DE DOS MIL VEINTISÉIS, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL ACUERDO GENERAL DE ADMINISTRACIÓN NÚMERO VIII/2024, DEL COMITÉ DE GOBIERNO Y ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE TREINTA DE SEPTIEMBRE DE DOS MIL VEINTICUATRO, POR EL QUE SE REGULA EL USO Y SERVICIO DE COMEDORES”.]
+
+PRIMERO. El presente Acuerdo General entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Una vez que las disposiciones del presente Acuerdo General hayan entrado en vigor, efectúense las anotaciones y ajustes conducentes al Acuerdo General de Administración número VIII/2024, del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, de treinta de septiembre de dos mil veinticuatro, por el que se regula el uso y servicio de comedores, a fin de que el contenido de éste se encuentre debidamente actualizado; dicha actualización deberá realizarse en el archivo respectivo del portal de este Tribunal Constitucional, así como del resto de medios análogos que éste administre.
+
+TERCERO. Publíquese el presente Acuerdo General en el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos de consulta pública, en términos de lo dispuesto en el artículo 65, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública.
