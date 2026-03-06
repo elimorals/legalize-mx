@@ -4,7 +4,7 @@ identifier: "NAY-codigo-penal-para-el-estado-de-nayarit-103393"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-18"
-last_updated: "2025-12-08"
+last_updated: "2026-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 CÓDIGO PENAL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2026.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el sábado 6 de septiembre de 2014.
 
@@ -551,9 +551,7 @@ Se perseguirán por querella de parte los siguientes delitos:
 
 I. (DEROGADA, P.O. 28 DE MARZO DE 2023)
 
-> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2022)</small>
-
-II. Abuso sexual, salvo cuando se trate de las conductas contempladas en el párrafo cuarto del artículo 289 y las establecidas en el artículo 289 Bis del presente Código;
+II. (DEROGADA, P.O. 6 DE MARZO DE 2026)
 
 III. Estupro;
 
@@ -3009,31 +3007,43 @@ Se impondrá prisión de uno a cincos (sic) años y multa de diez a cincuenta d�
 
 ### CAPÍTULO I. ABUSO SEXUAL
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 289.
 
-Comete el delito de abuso sexual, quien ejecute en una persona, sin su consentimiento, o la obligue a ejecutar para sí o en otra persona, actos sexuales sin el propósito de llegar a la cópula.
+Comete el delito de abuso sexual quien sin el consentimiento de la víctima y sin el propósito de llegar a la cópula, realice en el ámbito público o privado, cualquier acto de naturaleza sexual, la obligue a observarlo, o la haga ejecutarlo sobre sí, para un tercero o para el propio sujeto activo. También se considera abuso sexual cuando se obligue a la víctima a exhibir su cuerpo.
 
-Estas conductas se sancionarán con una pena de dos a siete años de prisión y multa de treinta a cincuenta Unidades de Medida y Actualización.
+Para efectos de este artículo, se entiende por actos sexuales cualquier acción dolosa con sentido lascivo o libidinoso, pueden tratarse desde roces corporales, frotamientos, caricias, tocamientos o manoseos corporales obscenos, ejecutados físicamente en el cuerpo del sujeto pasivo, o que el agente hace ejecutar a su víctima, o los que representen actos explícitamente sexuales u obliguen a la víctima a representarlos.
 
-Igualmente comete el delito de abuso sexual, al que ejecute un acto sexual, sin el propósito de llegar a la cópula, con una persona menor de dieciocho años y mayor de catorce años, a quien se le impondrá una pena de tres a ocho años de prisión y multa de cincuenta a cien Unidades de Medida y Actualización.
+Para los efectos del presente artículo no se considera consentimiento cuando la voluntad de la persona haya sido anulada o viciada por violencia, intimidación, engaño, amenaza, abuso de confianza, autoridad o situación de vulnerabilidad.
 
-Si el sujeto pasivo es una persona menor de catorce años o persona que no tenga la capacidad de comprender el significado del hecho, o que no tiene la capacidad para resistirlo, se le impondrá de cuatro a nueve años de prisión y multa de cien a ciento cincuenta Unidades de Medida y Actualización.
+El consentimiento no podrá presumirse del silencio, la pasividad o la falta de resistencia física de la víctima.
 
-> <small>(REFORMADO, P.O. 12 DE MARZO DE 2024)</small>
+A quien cometa este delito se le impondrá una sanción de tres a siete años de prisión y multa de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización.
 
-Para efectos de este artículo, se entiende por actos sexuales cualquier acción dolosa con sentido lascivo o libidinoso, pueden tratarse desde roces, frotamientos, caricias, tocamientos o manoseos corporales obscenos, ejecutados físicamente en el cuerpo del sujeto pasivo, o que el agente hace ejecutar a su víctima, o los que representen actos explícitamente sexuales u obliguen a la víctima a representarlos.
+Igualmente comete el delito de abuso sexual, al que ejecute un acto sexual, sin el propósito de llegar a la cópula, con una persona menor de dieciocho años y mayor de catorce años, a quien se le impondrá una pena de tres a ocho años de prisión y multa de quinientas a setecientas Unidades de Medida y Actualización.
 
-También se considera abuso sexual cuando se obligue a la víctima a observar un acto sexual, o a exhibir su cuerpo sin su consentimiento.
+Si el sujeto pasivo es una persona menor de catorce años o persona que no tenga la capacidad de comprender el significado del hecho, o que no tiene la capacidad para resistirlo, se le impondrá de cuatro a nueve años de prisión y multa de setecientas a mil Unidades de Medida y Actualización.
 
-> <small>(ADICIONADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+Asimismo, se impondrá la obligación de acudir a talleres reeducativos con perspectiva de género y no violencia contra las mujeres y/o prestar servicio social en favor del Estado o de instituciones de beneficencia pública a fin de favorecer medidas de no repetición y promover un cambio cultural a favor de la igualdad sustantiva entre mujeres y hombres. El cumplimiento de esta obligación es de especial relevancia para la procedencia y continuidad de la suspensión condicional.
 
-ARTÍCULO 289 BIS.- Las penas para los delitos previstos en este Capítulo, serán de cuatro a diez años de prisión y multa de ciento cincuenta a doscientas Unidades de Medida y Actualización, cuando:
+Este delito se perseguirá de oficio.
 
-I. Se hiciere uso de violencia física o psicológica;
+Adicional a las sanciones establecidas en este capítulo, se impondrá al sujeto activo el cumplimiento de la reparación integral del daño, que deberá incluir, entre otras medidas establecidas en la Ley de Víctimas para el Estado de Nayarit y la Ley General de Víctimas, la atención psicológica especializada para la víctima, hasta su total recuperación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2026)</small>
+
+ARTÍCULO 289 BIS.- Las penas previstas en este capítulo se aumentarán en una tercera parte cuando el delito se cometa en cualquiera de las siguientes circunstancias:
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2026)</small>
+
+I. Se hiciere uso de la violencia física, psicológica o moral;
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
 II. Intervengan directa o indirectamente de dos o más personas;
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
 III. Al que tenga respecto de la víctima:
 
@@ -3041,35 +3051,77 @@ a. Parentesco por afinidad o consanguinidad en cualquier grado;
 
 b. Patria potestad, tutela o curatela, o
 
-c. Guarda y custodia;
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2026)</small>
+
+c. Guarda, custodia, cuidado u obligación económica;
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
 IV. Quien desempeñe un cargo, empleo o comisión público, utilizando los medios que el cargo, empleo o comisión público le proporcione;
 
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
 V. El sujeto activo tenga contacto con la víctima por motivos de ejercicio de su profesión, laborales, docentes, médicos, domésticos, religiosos o cualquier otro que implique confianza, posición jerárquica o subordinación;
+
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2022)</small>
 
 VI. Se cometa por quien habite ocasional o permanentemente en el mismo domicilio de la víctima;
 
+> <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2022)</small>
+
 VII. Cuando los hechos ocurran en vehículos destinados al transporte público o en aquellos de transporte privado solicitado a través de una aplicación móvil, en este caso, ejecutado por la persona conductora del mismo;
 
-VIII. Se cometa en despoblado o lugar solitario, o
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2026)</small>
 
-IX. Cuando los hechos den como resultado una enfermedad incurable transmitida a la víctima.
+VIII. Se cometa en despoblado o lugar solitario o poco accesible;
 
-Además de las penas señaladas en este artículo, cuando se trate de las conductas señaladas en la fracción III de este artículo, la persona sentenciada perderá la patria potestad, tutela, curatela, derecho a alimentos, así como a los derechos sucesorios, en los casos en que la ejerciera sobre la víctima, sin que cese su obligación alimentaria para con ella.
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2026)</small>
 
-Cuando se trate de los hechos señalados en la fracción IV de este artículo, además de la pena de prisión y multa señalada en este artículo, la persona sentenciada será destituida de su cargo, empleo o comisión o suspendida por un término de dos a cinco años en el ejercicio de su cargo, empleo o comisión.
+IX. Cuando los hechos den como resultado una enfermedad incurable transmitida a la víctima;
 
-Igualmente, cuando el sujeto activo tenga contacto con la víctima por motivos del ejercicio de su profesión, laborales, docentes o médicos, en términos de la fracción V de este artículo, además de la pena de prisión y multa señalada en este artículo, la persona sentenciada será destituida de su cargo, empleo o comisión o suspendida por un término de dos a cinco años en el ejercicio de su profesión.
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2022)</small>
+X. Cuando exista o haya existido entre el agresor y la víctima una relación de confianza, sentimental, laboral, educativa, docente, de formación deportiva, artística o religiosa;
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2026)</small>
+
+XI. Cuando se realice por ministro de culto aprovechando su cargo, función o comisión;
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2026)</small>
+
+XII. Cuando la víctima se encuentre bajo los efectos de alcohol, fármacos, narcóticos u otras sustancias que afecten su voluntad o discernimiento;
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2026)</small>
+
+XIII. Cuando la víctima se encuentre en estado de embarazo o puerperio;
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2026)</small>
+
+XIV. Cuando se cometa contra personas por su orientación sexual, identidad de género o expresión de género, o
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2026)</small>
+
+XV. Cuando la víctima se encuentre en estado de indefensión.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2026)</small>
+
+Además de las penas señaladas en este artículo, cuando se trate de las conductas señaladas en la fracción III de este artículo, la persona sentenciada perderá la patria potestad, tutela, curatela, derecho a alimentos, así como a los derechos sucesorios, en los casos en que la ejerciera sobre la víctima, sin que cese su obligación económica ni alimentaria para con ella.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2026)</small>
+
+Cuando se trate de los hechos señalados en la fracción IV de este artículo, además de la pena de prisión y multa señalada en este artículo, la persona sentenciada será destituida de su cargo, empleo o comisión o inhabilitada para el ejercicio de servicio público por un plazo de dos años hasta por un plazo igual al de la pena privativa de la libertad sin perjuicio de otras sanciones administrativas o civiles que correspondan.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2026)</small>
+
+Igualmente, cuando el sujeto activo tenga contacto con la víctima por motivos del ejercicio de su profesión, laborales, docentes o médicos, en términos de la fracción V de este artículo, además de la pena de prisión y la multa señalada, la persona agresora será inhabilitada para el ejercicio de la profesión por un plazo de dos años hasta por un plazo igual al de la pena privativa de la libertad sin perjuicio de otras sanciones administrativas o civiles que correspondan.
+
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 290.
 
-El delito de abuso sexual, solo se perseguirá a petición de persona ofendida o de su representante legítimo, a excepción de cuando se trate de las conductas contempladas en el párrafo cuarto del artículo 289 y las establecidas en el artículo 289 Bis del presente Código.
+El delito de abuso sexual, se perseguirá de oficio.
 
-> <small>(ADICIONADO, P.O. 12 DE MARZO DE 2024)</small>
-
-En el caso de los supuestos establecidos en los párrafos tercero y cuarto del artículo 289, es decir, si recae en una persona menor de edad o persona que no tenga la capacidad de comprender el significado del hecho, o que no tenga capacidad para resistirlo y además en dicha conducta exista alguna relación o vínculo de los señalados en las fracciones III y V del artículo 289 Bis, se sancionará como el delito de Pederastia previsto en el artículo 297 Sexties del presente Código.
+En el caso de los supuestos establecidos en los párrafos sexto y séptimo del artículo 289, es decir, si recae en una persona menor de edad o persona que no tenga la capacidad de comprender el significado del hecho, o que no tenga capacidad para resistirlo y además en dicha conducta exista alguna relación o vínculo de los señalados en las fracciones III y V del artículo 289 Bis, se sancionará como el delito Pederastia previsto en el artículo 297 Sexties del presente Código.
 
 ### CAPÍTULO II. ESTUPRO
 
@@ -5652,3 +5704,9 @@ P.O. 8 DE DICIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA LOS ARTÍCULOS 293, 294 Y 311 DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE VIOLACIÓN Y VIOLENCIA FAMILIAR".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 6 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS NUMERALES DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE ABUSO SEXUAL".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
