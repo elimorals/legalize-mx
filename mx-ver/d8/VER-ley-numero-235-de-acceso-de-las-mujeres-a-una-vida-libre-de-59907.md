@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-235-de-acceso-de-las-mujeres-a-una-vida-libre-de-599
 country: "mx"
 rank: "ley"
 publication_date: "2008-02-28"
-last_updated: "2025-03-07"
+last_updated: "2026-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 235 DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE MARZO DE 2026.
 
 Ley publicada en el Núm. Ext. 65 a la Gaceta Oficial del Estado de Veracruz, el jueves 28 de febrero de 2008.
 
@@ -92,6 +92,12 @@ Para los efectos de la presente Ley se entenderá por:
 > <small>(REFORMADA, G.O. 11 DE SEPTIEMBRE DE 2020)</small>
 
 I. Acoso sexual: forma de violencia de connotación lasciva en la que, si bien no existe subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos;
+
+> <small>(ADICIONADA, G.O. 6 DE MARZO DE 2026)</small>
+
+I Bis. Abuso Sexual: forma de violencia que se comete sin el consentimiento de la víctima y sin la intención de llegar a la cópula, mediante la ejecución en ella de actos sexuales, la coacción a observarlos o a ejecutarlos.
+
+Se entiende por acto sexual a los tocamientos, caricias, roces, exhibiciones corporales y representaciones sexuales explícitas.
 
 II. Actualización: Proceso permanente de formación, desde la perspectiva de género, con la finalidad de incorporar a la administración y gestión pública los avances y nuevas concepciones en materia de igualdad, equidad y derechos humanos de las mujeres;
 
@@ -185,7 +191,9 @@ I. La violencia psicológica: Acto u omisión que dañe la estabilidad psíquica
 
 II. Violencia Física: Es cualquier acción u omisión intencional que busca infringir daño visible o no en la integridad física de la mujer, usando algún tipo de arma, objeto o la fuerza física, provocando lesiones internas, externas o ambas;
 
-III. La violencia sexual: Acto que degrada o daña el cuerpo y/o la sexualidad de la víctima, que atenta contra su libertad, dignidad e integridad, como una expresión de abuso de poder que implica la supremacía sobre la mujer, al denigrarla o concebirla como objeto; se considera como tal, la discriminación o imposición vocacional, la regulación de la fecundidad o la inseminación artificial no consentidas, la prostitución forzada, la pornografía infantil, la trata de niñas y mujeres, la esclavitud sexual, el acceso carnal violento, las expresiones lascivas, el hostigamiento sexual, la violación, los tocamientos libidinosos sin consentimiento o la degradación de las mujeres en los medios de comunicación como objeto sexual;
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2026)</small>
+
+III. La Violencia Sexual. Acto que degrada o daña el cuerpo y/o la sexualidad de la víctima, que atenta contra su libertad, dignidad e integridad, como una expresión de abuso de poder que implica la supremacía sobre la mujer, al denigrarla o concebirla como objeto; se considera como tal, la discriminación o imposición vocacional, la regulación de la fecundidad o la inseminación artificial no consentidas, la prostitución forzada, la pornografía infantil, la trata de niñas y mujeres, la esclavitud sexual, el acceso carnal violento, las expresiones lascivas, el abuso sexual, el hostigamiento sexual, la violación, o la degradación de las mujeres en los medios de comunicación como objeto sexual;
 
 IV. La violencia patrimonial: Acto u omisión que afecta la supervivencia de la víctima; se manifiesta en la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a los bienes comunes o propios de la víctima;
 
@@ -1468,3 +1476,13 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 SEGUNDO.- La Fiscalía General del Estado de Veracruz contará con un plazo de ciento veinte días contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones, adiciones y modificaciones necesarias a su normatividad interna, así como la capacitación a su personal, para garantizar la debida aplicación, investigación y persecución de la Violencia Vicaria.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 6 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 501 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL Y DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, AMBOS ORDENAMIENTOS DEL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Las autoridades encargadas de la procuración e impartición de justicia tendrán un plazo de sesenta días para capacitar a su personal en investigación y atención del delito de abuso sexual con perspectiva de género.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
