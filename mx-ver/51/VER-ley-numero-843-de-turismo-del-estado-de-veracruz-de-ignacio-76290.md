@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-843-de-turismo-del-estado-de-veracruz-de-ignacio-762
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-10"
-last_updated: "2023-03-01"
+last_updated: "2026-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76290&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 843 DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE MARZO DE 2026.
 
 Ley publicada en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz, el martes 10 de agosto de 2010.
 
@@ -41,11 +41,11 @@ Ley número 843 de Turismo del Estado de Veracruz de Ignacio de la Llave.
 
 ### CAPÍTULO I. Ámbito de aplicación
 
-> <small>(REFORMADO, G.O. 31 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2026)</small>
 
 ###### Artículo 1.
 
-La presente Ley es de orden público, interés social y observancia general en el Estado de Veracruz de Ignacio de la Llave en materia de turismo, y su aplicación corresponde al titular del Ejecutivo, por conducto de la Secretaría de Turismo y Cultura, y a los Ayuntamientos.
+La presente Ley es de orden público, interés social y observancia general en el Estado de Veracruz de Ignacio de la Llave en materia de turismo, y su aplicación corresponde al titular del Ejecutivo, por conducto de la Secretaría de Turismo, y a los Ayuntamientos.
 
 ###### Artículo 2.
 
@@ -115,9 +115,13 @@ VIII. Destino turístico: El lugar que ofrece atractivos turísticos, instalacio
 
 IX. Diagnóstico de la vocación turística de los municipios: El documento para analizar los indicadores de atracción turística, servicios, infraestructura y superestructura, mediante los cuales se determinará la sustentabilidad turística de los municipios, que contendrá también el inventario de proyectos, la relación de los prestadores de servicios turísticos, un estudio de la demanda turística local y una relación de otros factores que incentiven la actividad turística, a fin de planear, programar, gestionar y evaluar el desarrollo turístico municipal;
 
-X. Estado: El Estado Libre y Soberano de Veracruz de Ignacio de la Llave;
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2026)</small>
 
-XI. Fondo: El Fondo de Garantía para la Promoción de la Actividad Turística y Cultural del Estado, integrado con aportaciones estatales, municipales y fondos de apoyo internacional, que tendrá como finalidad la implantación de programas de fomento y desarrollo del turismo, así como apoyar la generación de micro, pequeñas y medianas empresas turísticas y culturales en el Estado;
+X. Estado: El Estado de Veracruz de Ignacio de la Llave;
+
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2026)</small>
+
+XI. Fondo: El Fondo de Garantía para la Promoción de la Actividad Turística del Estado, integrado con aportaciones estatales, municipales y fondos de apoyo internacional, que tendrá como finalidad la implantación de programas de fomento y desarrollo del turismo, así como apoyar la generación de micro, pequeñas y medianas empresas turísticas en el Estado;
 
 XII. Índice de Vocación Turística: El conjunto de variables de sustentabilidad, que permitirán definir el potencial turístico de los municipios del Estado;
 
@@ -143,7 +147,9 @@ Se entiende por plataforma digital la aplicación tecnológica mediante la cual 
 
 XXI. Producto turístico: El conjunto de componentes tangibles e intangibles que incluyen recursos, atractivos, equipamiento, infraestructura y servicios que, al estar disponibles para su comercialización, ofrecen beneficios capaces de atraer a grupos determinados de consumidores;
 
-XXII Programa Sectorial: El Programa Veracruzano de Turismo, Cultura y Cinematografía;
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2026)</small>
+
+XXII. Programa Sectorial: El Programa Veracruzano de Turismo;
 
 XXIII. Programa de Ordenamiento: El Programa de Ordenamiento Turístico del Territorio del Estado, considerado el instrumento de la política turística, concebido con un enfoque socioeconómico, ambiental y territorial, cuya finalidad es conocer e inducir el uso de suelo y las actividades productivas adecuadas, con el propósito de lograr el aprovechamiento ordenado y sustentable de los recursos turísticos, de conformidad con las disposiciones jurídicas aplicables en materia de medio ambiente y asentamientos humanos;
 
@@ -159,13 +165,13 @@ XXVI. Registro Nacional de Turismo: El catálogo público de prestadores de serv
 
 XXVII. Ruta turística: El circuito temático o geográfico basado en el patrimonio natural o cultural de una zona, que es promocionado como un producto turístico;
 
-> <small>(REFORMADA, G.O. 31 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2026)</small>
 
-XXVIII. Reglamento Interior: El Reglamento Interior de la Secretaría de Turismo y Cultura;
+XXVIII. Reglamento Interior: El Reglamento Interior de la Secretaría de Turismo;
 
-> <small>(REFORMADA, G.O. 31 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2026)</small>
 
-XXIX. Secretaría: La Secretaría de Turismo y Cultura del Estado de Veracruz de Ignacio de la Llave;
+XXIX. Secretaría: La Secretaría de Turismo del Estado de Veracruz de Ignacio de la Llave;
 
 XXX. Secretaría Federal: La Secretaría de Turismo del Gobierno Federal;
 
@@ -381,17 +387,21 @@ XXII. Las demás previstas en éste y otros ordenamientos.
 
 La Comisión será de carácter intersecretarial, y tendrá por objeto impulsar la transversalidad presupuestal y programática de las acciones gubernamentales, coordinando con las distintas dependencias que en forma directa o indirecta están vinculadas al turismo, hacia los objetivos de fortalecer los principales destinos turísticos con que cuenta el Estado.
 
-N. DE E., DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DE LA G.O. 13 DE AGOSTO DE 2013, SE ADVIERTE QUE EL TEXTO ANTERIOR CONSTABA DE XI FRACCIONES.
-
-> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE MARZO DE 2026)</small>
 
 ###### Artículo 8.
 
-La Comisión estará encabezada por el Gobernador del Estado, quien fungirá como Presidente, y el encargado de coordinar y dar seguimiento a los acuerdos establecidos será el Secretario de Turismo, Cultura y Cinematografía, en su carácter de Secretario Técnico. Los titulares de las Dependencias Estatales que participarán son:
+La Comisión estará encabezada por la Gobernadora o el Gobernador del Estado, quien la presidirá. La o el titular de la Secretaría de Turismo desempeñará la Secretaría Técnica, quien deberá coordinar y dar seguimiento a los acuerdos establecidos. Las personas titulares de las Dependencias Estatales que participarán son:
+
+> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2013)</small>
 
 I. Secretaría de Finanzas y Planeación;
 
+> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2013)</small>
+
 II. Secretaría de Medio Ambiente;
+
+> <small>(REFORMADA, G.O. 13 DE AGOSTO DE 2013)</small>
 
 III. Secretaría de Desarrollo Social;
 
@@ -399,15 +409,23 @@ III. Secretaría de Desarrollo Social;
 
 IV. Secretaría de Infraestructura y Obras Públicas;
 
-V. Secretaría de Seguridad Pública; y
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2026)</small>
 
-> <small>(REFORMADA, G.O. 2 DE DICIEMBRE DE 2015)</small>
+V. Secretaría de Seguridad Pública;
 
-VI. Secretaría de Desarrollo Económico y Portuario; y
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2026)</small>
 
-> <small>(ADICIONADA, G.O. 2 DE DICIEMBRE DE 2015)</small>
+VI. Secretaría de Desarrollo Económico y Portuario;
 
-VII. Secretaría de Protección Civil.
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2026)</small>
+
+VII. Secretaría de Protección Civil; y
+
+> <small>(ADICIONADA, G.O. 6 DE MARZO DE 2026)</small>
+
+VIII. Secretaría de Cultura.
+
+> <small>(REFORMADO, G.O. 13 DE AGOSTO DE 2013)</small>
 
 A las Sesiones de la Comisión podrán ser invitados a participar funcionarios de la administración pública estatal y federal, cuando la situación así lo requiera.
 
@@ -469,11 +487,13 @@ XI. Incentivar a los prestadores de servicios turísticos, con la formulación d
 
 El Consejo estará integrado de la manera siguiente:
 
-I. El Gobernador del Estado, quien lo presidirá;
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2026)</small>
 
-> <small>(REFORMADA, G.O. 31 DE JULIO DE 2013)</small>
+I. La Gobernadora o el Gobernador del Estado, quien lo presidirá;
 
-II. El Secretario de Turismo y Cultura;
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2026)</small>
+
+II. La persona titular de la Secretaría de Turismo;
 
 III. Quien presida la Comisión Permanente de Turismo del Congreso del Estado;
 
@@ -681,13 +701,15 @@ La Secretaría, en coordinación con la Secretaría de Educación, promoverá, e
 
 En estos temas, también se diseñarán programas para su difusión entre la población en general.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE MARZO DE 2026)</small>
+
 ###### Artículo 33.
 
-La Secretaría, en coordinación con el Instituto Veracruzano de la Cultura, difundirá entre los prestadores de servicios turísticos y los visitantes los programas que tengan como finalidad fomentar y promover las culturas del Estado. También aprovechará las diversas manifestaciones de identidad de las comunidades para la promoción del turismo cultural.
+La Secretaría, en coordinación con la Secretaría de Cultura, difundirá entre los prestadores de servicios turísticos y los visitantes los programas que tengan como finalidad fomentar y promover las culturas del Estado. También aprovechará las diversas manifestaciones de identidad de las comunidades para la promoción del turismo cultural.
 
-> <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2026)</small>
 
-La Secretaría y el Instituto Veracruzano de la Cultura incentivarán la promoción a productores primarios o secundarios de alimentos, la creación o fortalecimiento de festivales gastronómicos, así como de restaurantes o lugares específicos para la degustación de alimentos, que representen la diversidad cultural del Estado.
+La Secretaría y la Secretaría de Cultura incentivarán la promoción a productores primarios o secundarios de alimentos, la creación o fortalecimiento de festividades gastronómicas, así como de restaurantes o lugares específicos para la degustación de alimentos, que representen la diversidad cultural del Estado.
 
 > <small>(ADICIONADO, G.O. 27 DE JUNIO DE 2012)</small>
 
@@ -993,11 +1015,15 @@ La Secretaría impulsará y promoverá las locaciones cinematográficas de Verac
 
 Cuando se trate de inversiones en el sector turístico, la Secretaría podrá, en apego a las disposiciones legales que correspondan, proponer al titular del Ejecutivo del Estado el otorgamiento de incentivos para la inversión turística en Veracruz.
 
-### CAPÍTULO II. Del fomento a la inversión turística y cultural
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 6 DE MARZO DE 2026)</small>
+
+### CAPÍTULO II. Del fomento a la inversión turística
+
+> <small>(REFORMADO, G.O. 6 DE MARZO DE 2026)</small>
 
 ###### Artículo 71.
 
-Para la implantación de programas de fomento y desarrollo turístico y cultural sustentable, así como para apoyar la generación de micro, medianas y pequeñas empresas turísticas y culturales, la Secretaría creará el Fondo. Para ello, hará las previsiones presupuestales necesarias.
+Para la implantación de programas de fomento y desarrollo turístico, así como para apoyar la generación de micro, medianas y pequeñas empresas turísticas, la Secretaría creará el Fondo. Para ello, hará las previsiones presupuestales necesarias.
 
 ###### Artículo 72.
 
@@ -1007,7 +1033,9 @@ El Fondo tendrá los objetivos siguientes:
 
 I. Fomentar apoyos y promover el desarrollo de infraestructura detonadora de servicios y competitividad turística.
 
-II. Coadyuvar en la defensa de la oferta de empresas turísticas y del empleo en los sectores turístico y cultural;
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2026)</small>
+
+II. Coadyuvar en la defensa de la oferta de empresas turísticas y del empleo en el sector turístico;
 
 III. Optimizar la utilización de los recursos del Estado y programas federales, así como los que otorguen los sectores social y privado; y
 
@@ -1021,21 +1049,27 @@ I. La aportación inicial y las futuras que haga el Gobierno del Estado;
 
 II. Los rendimientos que se obtengan en la inversión y reinversión de los activos líquidos del Fondo; y
 
-III. Los fondos internacionales y nacionales de apoyo a actividades turísticas y culturales.
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2026)</small>
+
+III. Los fondos internacionales y nacionales de apoyo a actividades turísticas.
 
 ###### Artículo 74.
 
 El Fondo desarrollará las actividades siguientes:
 
-I. Apoyar la consolidación de los destinos turísticos y el fortalecimiento de la actividad cultural;
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2026)</small>
+
+I. Apoyar la consolidación de los destinos turísticos;
 
 II. Respaldar con financiamiento o garantías la creación de micro, pequeñas y medianas empresas turísticas y el fortalecimiento de las existentes;
 
-III. Promover la formación y reconocimiento de las micro, pequeñas y medianas industrias creativas y empresas culturales;
+III. (DEROGADA, G.O. 6 DE MARZO DE 2026)
 
 IV. Realizar los estudios de factibilidad de los proyectos de inversión que se presenten;
 
-V. Otorgar asistencia técnica para la evaluación de proyectos de programación financiera, capacitación y apoyos en general, para el buen funcionamiento de las pequeñas empresas turísticas y culturales; y
+> <small>(REFORMADA, G.O. 6 DE MARZO DE 2026)</small>
+
+V. Otorgar asistencia técnica para la evaluación de proyectos de programación financiera, capacitación y apoyos en general, para el buen funcionamiento de las micro, pequeñas y medianas empresas turísticas; y
 
 VI. Promover el desarrollo de programas con fines de agrupación empresarial.
 
@@ -1716,3 +1750,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- Se concede un plazo de noventa días, contado a partir del inicio de la vigencia del presente Decreto, a efecto de que el Poder Ejecutivo del Estado de Veracruz de Ignacio de la Llave realice las adecuaciones necesarias a las disposiciones reglamentarias aplicables para dar cumplimiento efectivo a este Decreto.
+
+G.O. 6 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 502 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Se concede un plazo de noventa días, contado a partir de la vigencia del presente Decreto, a efectos de que el Poder Ejecutivo del Estado de Veracruz de Ignacio de la Llave realice las adecuaciones necesarias a las disposiciones reglamentarias para dar cabal cumplimiento al presente Decreto.
