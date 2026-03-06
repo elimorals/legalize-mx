@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-tribunal-de-justicia-administrativa-de-166421"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2023-05-26"
-last_updated: "2023-05-26"
+last_updated: "2026-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166421&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2026.
 
 Ley publicada en la Sección Octava del Periódico Oficial del Estado de Nayarit, el viernes 26 de mayo de 2023.
 
@@ -107,9 +107,13 @@ XIX. UMA: Unidad de medida y actualización diaria.
 
 Competencia del Tribunal. El Tribunal, a través de sus distintos órganos jurisdiccionales, será competente para:
 
-I. Garantizar, a través de la gestión y administración de los recursos asignados, la impartición de Justicia Fiscal y Administrativa en el Estado, así como la concerniente a los actos y conductas previstas por la Ley General;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2026)</small>
 
-II. Dirimir las controversias administrativas que se susciten entre los particulares y las autoridades del Poder Ejecutivo del Estado, Municipios y de la administración pública paraestatal y paramunicipal, o cualquier persona u órgano que funja como autoridad administrativa;
+I. Garantizar, a través de la gestión y administración de los recursos asignados, la impartición de Justicia Fiscal y Administrativa en el Estado, así como la concerniente a los actos y conductas previstas por la Ley General y la solución de conflictos conforme lo previsto en la Ley General de Mecanismos Alternativos de Solución de Controversias;
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2026)</small>
+
+II. Dirimir las controversias administrativas que se susciten entre los particulares y las autoridades del Poder Ejecutivo del Estado, Municipios y de la administración pública paraestatal y paramunicipal, o cualquier persona u órgano que funja como autoridad administrativa, procurando su avenencia a través de mecanismos alternativos;
 
 III. Resolver los procedimientos de responsabilidad administrativa de los servidores públicos y particulares vinculados con faltas administrativas graves investigadas y substanciadas por la Secretaría para la Honestidad y Buena Gobernanza, los Órganos Internos de Control de los entes públicos, así como por la Auditoría Superior del Estado;
 
@@ -119,9 +123,17 @@ V. Fincar a los responsables el pago de las indemnizaciones y sanciones económi
 
 VI. Dictar las medidas cautelares necesarias;
 
-VII. Conocer y resolver los recursos y medios de impugnación que le confieran las disposiciones legales aplicables, y
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2026)</small>
 
-VIII. Las demás que le confieran las disposiciones legales aplicables.
+VII. Conocer y resolver los recursos y medios de impugnación que le confieran las disposiciones legales aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE MARZO DE 2026)</small>
+
+VIII. Impulsar, fomentar y difundir el uso de los mecanismos alternativos de solución de controversias como un componente del derecho fundamental de Acceso a la Justicia, bajo el principio de Justicia Abierta, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN VIII], P.O. 6 DE MARZO DE 2026)</small>
+
+IX. Las demás que le confieran las disposiciones legales aplicables.
 
 ###### Artículo 6.
 
@@ -157,9 +169,11 @@ Ingreso, permanencia y desarrollo de los servidores públicos del Tribunal. El i
 
 ### CAPÍTULO SEGUNDO. DEL PRESIDENTE DEL TRIBUNAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2026)</small>
+
 ###### Artículo 10.
 
-Del Presidente del Tribunal. El Presidente será designado por unanimidad o mayoría de votos de los integrantes en Pleno, preferentemente durante la primera sesión del año que corresponda. Durará en su encargo tres años y podrá reelegirse por un periodo igual, sin perjuicio de que una vez que deje el cargo de Presidente, continúe como Magistrado por el período respectivo.
+Del Presidente del Tribunal. El Presidente será designado por unanimidad o mayoría de votos de los integrantes en Pleno, preferentemente durante la primera sesión del año que corresponda. Durará en su encargo tres años con posibilidad de ser reelecto, sin perjuicio de que una vez que deje el cargo de Presidente, continúe como Magistrado por el período respectivo.
 
 El cargo de Presidente resulta compatible con el ejercicio de su función en su adscripción en la Sala correspondiente del Tribunal, debiendo, por tanto, desempeñar simultáneamente, ambos cargos.
 
@@ -315,9 +329,11 @@ XVII. Las demás que les confieran el presente ordenamiento y disposiciones lega
 
 ### CAPÍTULO CUARTO. DEL PLENO
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2026)</small>
+
 ###### Artículo 20.
 
-Naturaleza del Pleno. El Pleno es el órgano de gobierno del Tribunal, a cargo de su administración, vigilancia, disciplina y buen funcionamiento de la actuación jurisdiccional.
+Naturaleza del Pleno. El Pleno es el órgano máximo de gobierno del Tribunal, responsable de su administración, vigilancia, disciplina y buen funcionamiento, así como de la resolución de los asuntos jurisdiccionales que sean de su competencia, en los términos previstos en la presente Ley y demás disposiciones aplicables.
 
 ###### Artículo 21.
 
@@ -417,9 +433,17 @@ XXIX. Habilitar, a solicitud fundada y motivada del Magistrado de la Sala Unitar
 
 Lo anterior, sin perjuicio de que el Magistrado designado continúe conociendo de los asuntos propios de la Sala Unitaria Administrativa que presida;
 
-XXX. Resolver sobre las contradicciones de criterios sustentados por el Tribunal, determinando cuál de ellos deberá de prevalecer, y
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2026)</small>
 
-XXXI. Las demás que determinen las leyes de la materia y el Reglamento Interior.
+XXX. Resolver sobre las contradicciones de criterios sustentados por el Tribunal, determinando cuál de ellos deberá de prevalecer;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE MARZO DE 2026)</small>
+
+XXXI. Conocer y resolver el recurso de revisión previsto en la Ley de Responsabilidades Administrativas del Estado de Nayarit, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN XXXI], P.O. 6 DE MARZO DE 2026)</small>
+
+XXXII. Las demás que determinen las leyes de la materia y el Reglamento Interior.
 
 #### SECCIÓN PRIMERA. ACUERDOS GENERALES DEL PLENO
 
@@ -907,9 +931,17 @@ III. Unidad de Transparencia;
 
 IV. Coordinación de Archivos;
 
-V. Coordinación de notificaciones, y
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2026)</small>
 
-VI. Área de Amparos.
+V. Coordinación de notificaciones;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE MARZO DE 2026)</small>
+
+VI. Centro Público de Mecanismos Alternativos de Solución de Controversias en materia de Justicia Administrativa, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN VI], P.O. 6 DE MARZO DE 2026)</small>
+
+VII. Área de Amparos.
 
 #### SECCIÓN SEGUNDA. DEL DEPARTAMENTO DE ADMINISTRACIÓN
 
@@ -945,67 +977,101 @@ XIII. Las demás que le asigne esta Ley o el Reglamento Interior.
 
 #### SECCIÓN TERCERA. DE LA UNIDAD DE TRANSPARENCIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2026)</small>
+
 ###### Artículo 63.
 
-Atribuciones de la Unidad de Transparencia. Al frente de la Unidad de Transparencia habrá un titular, quien podrá auxiliarse del personal de apoyo que para tal efecto designe el Pleno, correspondiéndole las siguientes atribuciones:
+Atribuciones de la Unidad de Transparencia. La Unidad de Transparencia del Tribunal estará a cargo de una persona titular que dependerá directamente del Presidente, a quien le corresponderá el ejercicio de las siguientes atribuciones:
 
-I. Recabar, publicar y actualizar las obligaciones de transparencia a que se refiere la ley de la materia y propiciar que las áreas las actualicen periódicamente;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2026)</small>
 
-II. Proponer al Comité de Transparencia los procedimientos internos que contribuyan a la mayor eficiencia en la atención de las solicitudes de acceso a la información;
+I. Recabar y difundir la información relativa a las obligaciones de transparencia comunes y específicas aplicables al Tribunal, y propiciar que las áreas la actualicen periódicamente, conforme a las disposiciones jurídicas aplicables;
 
-III. Recibir, realizar los trámites internos necesarios y tramitar las solicitudes de información y darles seguimiento hasta la entrega de la misma;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2026)</small>
 
-IV. Llevar el registro y actualizar bimestralmente las solicitudes de acceso a la información, así como sus trámites, respuestas, costos de reproducción, envío y resultados, haciéndolo del conocimiento del Comité de Transparencia;
+II. Recibir y dar trámite a las solicitudes de acceso a la información;
 
-V. Proponer personal habilitado que sea necesario para recibir y dar trámite a las solicitudes de acceso a la información;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2026)</small>
 
-VI. Asesorar y orientar a quienes lo requieran, en la elaboración de las solicitudes de información y, en su caso, orientarlos sobre los sujetos obligados competentes conforme a la normatividad aplicable, así como en los trámites para el efectivo ejercicio de su derecho de acceso a la misma;
+III. Auxiliar a las personas particulares en la elaboración de solicitudes de acceso a la información y, en su caso, orientarles sobre los sujetos obligados competentes conforme a las disposiciones jurídicas aplicables;
 
-VII. Efectuar las notificaciones correspondientes a los solicitantes;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2026)</small>
 
-VIII. Apoyar y orientar a los particulares en el ejercicio de estas acciones;
+IV. Realizar los trámites internos necesarios para la atención de las solicitudes de acceso a la información;
 
-IX. Informar al Presidente sobre el resultado de las solicitudes presentadas, así como de los problemas y requerimientos del despacho de las mismas;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2026)</small>
 
-X. Promover e implementar políticas de transparencia proactiva procurando su accesibilidad;
+V. Efectuar las notificaciones a las personas solicitantes;
 
-XI. Fomentar la transparencia y accesibilidad al interior del Tribunal;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2026)</small>
 
-XII. Hacer del conocimiento de la Instancia competente la probable responsabilidad por el incumplimiento de las obligaciones previstas en la ley y en las demás disposiciones aplicables;
+VI. Proponer al Comité de Transparencia del Tribunal, los procedimientos internos que aseguren la mayor eficiencia en la gestión de las solicitudes de acceso a la información, conforme a las disposiciones jurídicas aplicables;
 
-XIII. Las demás que se desprendan de la normatividad aplicable, así como las que le atribuya expresamente sus superiores jerárquicos;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2026)</small>
 
-XIV. Auxiliar y orientar al titular que lo requiera con relación al ejercicio del derecho a la protección de datos personales;
+VII. Proponer al personal habilitado que sea necesario para recibir y dar trámite a las solicitudes de acceso a la información;
 
-XV. Gestionar las solicitudes para el ejercicio de los derechos de acceso, rectificación, cancelación y oposición al tratamiento de datos personales;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2026)</small>
 
-XVI. Establecer mecanismos para asegurar que los datos personales solo se entreguen a su titular o su representante debidamente acreditados;
+VIII. Llevar un registro de las solicitudes de acceso a la información, así como, de sus respuestas, resultados, costos de reproducción y envío;
 
-XVII. Informar al titular o su representante el monto de los costos a cubrir por la reproducción y envío de los datos personales, con base en lo establecido en las disposiciones normativas aplicables;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2026)</small>
 
-XVIII. Proponer al Comité de Transparencia los procedimientos internos que aseguren y fortalezcan mayor eficiencia en la gestión de las solicitudes para el ejercicio de los derechos de acceso, rectificación, cancelación y oposición al tratamiento de datos personales;
+IX. Promover e implementar políticas de transparencia con sentido social, procurando su accesibilidad;
 
-XIX. Aplicar instrumentos de evaluación de calidad sobre la gestión de las solicitudes para el ejercicio de los derechos de acceso, rectificación, cancelación y oposición al tratamiento de datos personales;
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2026)</small>
 
-XX. Asesorar a las áreas adscritas al responsable en materia de protección de datos personales, y
+X. Fomentar la transparencia y accesibilidad al interior del Tribunal;
 
-XXI. Las demás que establezcan las disposiciones jurídicas aplicables.
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2026)</small>
+
+XI. Informar al Presidente y a la autoridad garante del Tribunal, la probable responsabilidad por el incumplimiento de las obligaciones previstas en la ley de la materia y en las demás disposiciones aplicables;
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2026)</small>
+
+XII. Brindar la atención que se requiera en la gestión de trámites y solicitudes para garantizar el ejercicio del derecho a la protección de datos personales, conforme a las disposiciones jurídicas aplicables, y
+
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2026)</small>
+
+XIII. Las demás que se establezcan en el Reglamento Interior y las que se desprendan de la normatividad aplicable en materia de transparencia, acceso a la información pública y protección de datos personales.
+
+XIV. (DEROGADA, P.O. 6 DE MARZO DE 2026)
+
+XV. (DEROGADA, P.O. 6 DE MARZO DE 2026)
+
+XVI. (DEROGADA, P.O. 6 DE MARZO DE 2026)
+
+XVII. (DEROGADA, P.O. 6 DE MARZO DE 2026)
+
+XVIII. (DEROGADA, P.O. 6 DE MARZO DE 2026)
+
+XIX. (DEROGADA, P.O. 6 DE MARZO DE 2026)
+
+XX. (DEROGADA, P.O. 6 DE MARZO DE 2026)
+
+XXI. (DEROGADA, P.O. 6 DE MARZO DE 2026)
 
 #### SECCIÓN CUARTA. DEL ÓRGANO INTERNO DE CONTROL
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2026)</small>
+
 ###### Artículo 64.
 
-Competencia del Órgano Interno de Control. El Tribunal contará con un Órgano Interno de Control, que será designado y removido por el Pleno, dotado con autonomía técnica, cuyo titular ejercerá en el ámbito de su competencia, las facultades a que se refiere la Constitución del Estado, el Reglamento Interior, la Ley General y demás disposiciones aplicables, y se integrará al menos por:
+Competencia del Órgano Interno de Control. El Órgano Interno de Control estará a cargo de una persona titular que será designada y removida por el Pleno, contará con autonomía técnica, y ejercerá en el ámbito de su competencia, las atribuciones y facultades que le confieren la Constitución Federal, la Constitución del Estado, la Ley General, la Ley de Transparencia del Estado, la general de la materia y las demás disposiciones jurídicas aplicables.
 
-I. El Titular del Órgano Interno de Control;
+Además de su titular, el Órgano Interno de Control se integrará al menos por:
 
-II. Autoridad investigadora, y
+I. La Autoridad Investigadora;
 
-III. La Autoridad Substanciadora.
+II. La Autoridad Substanciadora, y
+
+III. La Autoridad Revisora.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2026)</small>
 
 ###### Artículo 65.
 
-Atribuciones. El Órgano Interno de Control tendrá las siguientes atribuciones:
+Atribuciones del Órgano Interno de Control. El Órgano Interno de Control tendrá las siguientes atribuciones:
 
 I. Formular el programa anual de control y de auditoría del Tribunal, someterlo a la aprobación del Pleno y proceder a su ejecución;
 
@@ -1035,9 +1101,21 @@ XIII. Investigar, sustanciar y calificar las faltas administrativas que correspo
 
 XIV. Proponer al Pleno para su aprobación y designación al personal que estará bajo su cargo, los cuales deberán reunir los requisitos que para el caso fije el Reglamento Interior;
 
-XV. Establecer mecanismos de control para garantizar que el personal del Tribunal mantenga actualizadas las bases de datos, sistemas informáticos, así como cualquier tipo de control o tecnología de la información que implemente el Tribunal, y
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2026)</small>
 
-XVI. Las demás que deriven de las disposiciones normativas y aquellas que se establezcan en el Reglamento Interior, así como las que le encomiende el Pleno.
+XV. Establecer mecanismos de control para garantizar que el personal del Tribunal mantenga actualizadas las bases de datos, sistemas informáticos, así como cualquier tipo de control o tecnología de la información que implemente el Tribunal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE MARZO DE 2026)</small>
+
+XVI. Fungir como autoridad garante, en el ámbito de competencia del Tribunal, responsable de vigilar y garantizar el cumplimiento de las disposiciones jurídicas y obligaciones en materia de transparencia, acceso a la información pública y protección de datos personales, conforme la normatividad aplicable;
+
+> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2026)</small>
+
+XVII. Conocer de los recursos de revisión interpuestos en materia de transparencia y acceso a la información pública, en términos de las disposiciones jurídicas aplicables, y
+
+> <small>(ADICIONADA, [N. DE E. REFORMADA Y REUBICADA ANTES FRACCIÓN, XVI] P.O. 6 DE MARZO DE 2026)</small>
+
+XVIII. Las demás que se establezcan en el Reglamento Interior y las que deriven de otras disposiciones normativas aplicables.
 
 #### SECCIÓN QUINTA. ÁREA COORDINADORA DE ARCHIVOS
 
@@ -1046,6 +1124,18 @@ XVI. Las demás que deriven de las disposiciones normativas y aquellas que se es
 Sistema Institucional de Archivos del Tribunal. De conformidad con lo dispuesto por la Ley General de Archivos, Ley de Archivos del Estado de Nayarit y demás disposiciones aplicables, el Tribunal contará con una Coordinación de Archivos encargada de administrar, organizar, y conservar de manera homogénea los documentos de archivo que produzcan, reciban, obtengan, adquieran, transformen o posean, de acuerdo con sus facultades, competencias, atribuciones o funciones, los estándares y principios en materia archivística.
 
 La Coordinación de Archivos tendrá un titular que será designado por el Pleno y tendrá las funciones contenidas en la Ley General de Archivos, la Ley de Archivos del Estado de Nayarit, el Reglamento Interior y demás disposiciones aplicables a nivel local. Contará con las áreas operativas necesarias, de conformidad con la disponibilidad presupuestal correspondiente.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INEGRA, P.O. 6 DE MARZO DE 2026)</small>
+
+#### SECCIÓN SEXTA. DEL CENTRO PÚBLICO DE SOLUCIÓN DE CONTROVERSIAS
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2026)</small>
+
+###### Artículo 66 Bis.
+
+Del Centro Público. El Centro Público de Mecanismos Alternativos de Solución de Controversias en materia de Justicia Administrativa será el órgano especializado del Tribunal, competente para dirimir las controversias o conflictos entre los particulares y las autoridades administrativas del Estado, a través de los mecanismos alternativos de solución de controversias y principios establecidos en la ley general en la materia y las demás disposiciones jurídicas aplicables.
+
+El Centro Público contará con una persona titular que será designada por el Pleno y funcionará de conformidad con la ley general de la materia y las disposiciones reglamentarias que al efecto se expidan.
 
 ## TÍTULO TERCERO. DE LOS RECURSOS COMPETENCIA DEL TRIBUNAL
 
@@ -1085,15 +1175,17 @@ Del recurso de reconsideración. Del recurso de reconsideración que se interpon
 
 De la apelación en materia de responsabilidades administrativas. La Sala Colegiada de Recursos conocerá y resolverá los recursos de apelación que se interpongan en contra de las resoluciones emitidas por la Sala Unitaria Especializada.
 
-El recurso de apelación podrá ser promovido por los siguientes:
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 6 DE MARZO DE 2026)</small>
 
-I. Los responsables o los terceros;
+El recurso de apelación podrá ser promovido por las partes siguientes:
 
-II. La Secretaría para la Honestidad y Buena Gobernanza del Gobierno del Estado;
+I. Los responsables o los terceros, y
 
-III. Los órganos internos de control de los entes públicos, o
+II. Las Autoridades Investigadoras.
 
-IV. La Auditoría Superior del Estado.
+III. (DEROGADA, P.O. 6 DE MARZO DE 2026)
+
+IV. (DEROGADA, P.O. 6 DE MARZO DE 2026)
 
 El recurso de apelación se interpondrá ante la Sala Unitaria Especializada dentro de los quince días hábiles siguientes a aquél en que surta efectos la notificación de la resolución que se recurre, manifestando los agravios que considere el promovente que se le hayan causado, con copia para el expediente y para cada una de las partes.
 
@@ -1105,15 +1197,51 @@ I. La que determine imponer sanciones por la comisión de faltas administrativas
 
 II. La que determine que no existe responsabilidad administrativa por parte de los presuntos infractores, ya sean servidores públicos o particulares.
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2026)</small>
+
 ###### Artículo 73.
 
-Substanciación del recurso de apelación. El recurso de apelación será substanciado atendiendo a lo establecido en los artículos 217 a 219 de la Ley General.
+Substanciación del recurso de apelación. El recurso de apelación será substanciado de conformidad con la Ley de Responsabilidades Administrativas del Estado de Nayarit.
 
-### CAPÍTULO ÚNICO. IMPEDIMENTOS, INCAPACIDAD, RECUSACIÓN Y EXCUSAS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INEGRAN, P.O. 6 DE MARZO DE 2026)</small>
+
+### CAPÍTULO TERCERO. DEL RECURSO DE REVISIÓN
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2026)</small>
+
+###### Artículo 73 Bis.
+
+Del Recurso de Revisión. El Pleno del Tribunal será la instancia competente para resolver los recursos de revisión que se interpongan en contra de las resoluciones definitivas dictadas por la Sala Colegiada de Recursos en la tramitación de los recursos de apelación.
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2026)</small>
+
+###### Artículo 73 Ter.
+
+Procedencia y legitimación. El recurso de revisión procederá contra las resoluciones definitivas dictadas por la Sala Colegiada de Recursos que:
+
+I. Confirmen, modifiquen o revoquen resoluciones relativas a faltas administrativas graves, y
+
+II. Determinen la inexistencia de responsabilidad administrativa en asuntos vinculados con faltas administrativas graves.
+
+El recurso de revisión podrá ser interpuesto por:
+
+I. La Secretaria para la Honestidad y Buena Gobernanza del Estado;
+
+II. Los Órganos Internos de Control de los Entes Públicos, y
+
+III. La Auditoria Superior del Estado.
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2026)</small>
+
+###### Artículo 73 Quáter.
+
+Interposición. El recurso deberá interponerse por escrito ante la Sala Colegiada de Recursos dentro de los diez días hábiles siguientes a aquel en que surta efectos la notificación de la resolución impugnada, en el que se expresarán los agravios que cause la resolución impugnada.
+
+Interpuesto el recurso y verificado el cumplimiento de los requisitos legales, la Sala remitirá el expediente al Pleno para su resolución.
 
 ## TÍTULO CUARTO. PREVENCIONES GENERALES
 
-### CAPÍTULO ÚNICO. CORRECCIONES DISCIPLINARIAS Y MEDIOS DE APREMIO
+### CAPÍTULO ÚNICO. IMPEDIMENTOS, INCAPACIDAD, RECUSACIÓN Y EXCUSAS
 
 ###### Artículo 74.
 
@@ -1173,7 +1301,7 @@ Investigación sobre los impedimentos. La intervención del servidor público en
 
 ## TÍTULO QUINTO. CORRECCIONES DISCIPLINARIAS Y MEDIOS DE APREMIO
 
-### CAPÍTULO ÚNICO. DEL SISTEMA PROFESIONAL DE CARRERA
+### CAPÍTULO ÚNICO. CORRECCIONES DISCIPLINARIAS Y MEDIOS DE APREMIO
 
 ###### Artículo 79.
 
@@ -1199,7 +1327,7 @@ IV. Ordenar que se ponga al infractor a disposición del Ministerio Público por
 
 ## TÍTULO SEXTO. CARRERA JURISDICCIONAL ADMINISTRATIVA
 
-### CAPÍTULO ÚNICO. DE LA JURISPRUDENCIA
+### CAPÍTULO ÚNICO. DEL SISTEMA PROFESIONAL DE CARRERA
 
 ###### Artículo 81.
 
@@ -1259,6 +1387,8 @@ Se entenderán por vacantes las plazas en los puestos de la carrera jurisdiccion
 
 ## TÍTULO SÉPTIMO. DISPOSICIONES COMPLEMENTARIAS
 
+### CAPÍTULO ÚNICO. DE LA JURISPRUDENCIA
+
 ###### Artículo 85.
 
 Jurisprudencia. Las sentencias del Pleno y de las Salas constituirán jurisprudencia, siempre y cuando lo resuelto se sustente en tres ejecutorias no interrumpidas por otra en contrario. La jurisprudencia será obligatoria para el Tribunal. Para la modificación de la jurisprudencia se observarán las mismas reglas establecidas para su formación.
@@ -1312,3 +1442,19 @@ DADO en la Sala de Sesiones “Lic. Benito Juárez García” Recinto Oficial de
 Dip. Alba Cristal Espinoza Peña, Presidenta.- Rúbrica.- Dip, Jesús Noelia Ramos Nungaray, Secretaria.- Rúbrica.- Dip. Georgina Guadalupe López Arias, Secretaria.- Rúbrica.
 
 Y en cumplimiento a lo dispuesto en la Fracción II del Artículo 69 de la Constitución Política del Estado, y para su debida observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo de Nayarit, en Tepic su capital, a los veintiséis días del mes de mayo de dos mil veintitrés.- DR. MIGUEL ÁNGEL NAVARRO QUINTERO, Gobernador Constitucional del Estado.- Rúbrica.- Mtro. Juan Antonio Echeagaray Becerra, Secretario General de Gobierno.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DE NAYARIT”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. El Centro Público de Mecanismos Alternativos de Solución de Controversias en Materia de Justicia Administrativa iniciará formalmente sus funciones una vez que el Pleno del Tribunal emita y publique el acuerdo correspondiente.
+
+Para tal efecto, el Tribunal deberá realizar las adecuaciones administrativas, operativas y presupuestales necesarias para su debida integración y funcionamiento.
+
+TERCERO. Dentro de un plazo que no exceda de ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente Decreto, deberán efectuarse las adecuaciones correspondientes al Reglamento Interior del Tribunal de Justicia Administrativa de Nayarit.
+
+CUARTO. Los recursos de revisión promovidos con anterioridad a la entrada en vigor del presente Decreto se tramitarán y resolverán conforme a las disposiciones vigentes al momento de su interposición.
