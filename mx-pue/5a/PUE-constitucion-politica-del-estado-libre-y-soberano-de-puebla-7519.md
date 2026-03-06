@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2025-06-05"
+last_updated: "2026-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -389,43 +389,79 @@ V.- La atención de la salud de las y los habitantes del Estado, la promoción d
 
 VI.- Proteger el derecho que tiene toda persona al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA [N. DE E. CON SUS PÁRRAFOS E INCISOS], P.O. 5 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2026)</small>
 
-VII. Garantizar el derecho de acceso a la información pública en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, y de cualquier persona física o moral que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, así como de proteger los datos personales y la información relativa a la vida privada, en los términos y con las excepciones que establezca la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Transparencia y Acceso a la Información Pública, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y demás legislación aplicable.
+VII. Garantizar el derecho de acceso a la información pública en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, fideicomisos y fondos públicos, y de cualquier persona física o moral que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, así como de proteger los datos personales y la información relativa a la vida privada, en los términos y con las excepciones que establezca la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Transparencia y Acceso a la Información Pública, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y demás legislación aplicable.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE JUNIO DE 2025)</small>
 
 El ejercicio de los derechos de acceso a la información pública y protección de datos personales se regirá por las siguientes bases y principios:
 
-a) Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física o moral que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad nacional.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2026)</small>
+
+a) Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, fideicomisos y fondos públicos, así como de cualquier persona física o moral que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2025)</small>
 
 Sin perjuicio de lo dispuesto dentro del párrafo anterior, la ley establecerá aquella información que se considere reservada o confidencial.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2025)</small>
+
 En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2025)</small>
 
 Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, la ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2025)</small>
+
 b) La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes. Para tal efecto, los sujetos obligados y las autoridades garantes contarán con las facultades suficientes para su atención.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2025)</small>
 
 c) Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública.
 
-Asimismo, tendrá derecho a la protección de sus datos personales, al acceso, rectificación y cancelación de los mismos, así como a manifestar su oposición, en los términos que fije la ley, la cual establecerá los supuestos de excepción a los principios que rijan el tratamiento de datos, por razones de seguridad nacional, disposiciones de orden público, seguridad y salud públicas o para proteger los derechos de terceros.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2026)</small>
+
+Asimismo, tendrá derecho a la protección de sus datos personales, al acceso, rectificación y cancelación de los mismos, así como a manifestar su oposición, en los términos que fije la ley, la cual establecerá los supuestos de excepción a los principios que rijan el tratamiento de datos, por razones de orden público, seguridad y salud públicas o para proteger los derechos de terceros.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2025)</small>
 
 d) Se establecerán mecanismos de acceso a la información pública y de protección de datos personales, así como procedimientos de revisión expeditos que se sustanciarán ante las instancias competentes en los términos que fija esta constitución y las leyes aplicables.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2025)</small>
+
 e) Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán, a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores que permitan rendir cuenta del cumplimiento de sus objetivos y de los resultados obtenidos.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2025)</small>
 
 f) Las leyes determinarán la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2025)</small>
+
 g) Los sujetos obligados y las autoridades garantes deberán respetar, promover, difundir, proteger y garantizar los derechos de acceso a la información pública y a la protección de datos personales, así como el uso responsable de la información, en el ámbito de su competencia.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2025)</small>
 
 Las leyes en la materia determinarán las bases y procedimientos para el ejercicio efectivo de estos derechos.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2025)</small>
+
 Sin perjuicio de las demás atribuciones a su cargo, los órganos internos de control o, en su caso, las unidades administrativas a cargo del control interno de los Poderes Ejecutivo, Legislativo y Judicial del Estado, y de los Órganos Constitucionales Autónomos, fungirán como autoridades garantes en materia de transparencia, acceso a la información pública y protección de datos personales en términos de la legislación aplicable.
 
-En términos del párrafo anterior, las autoridades garantes del Sindicato de los Trabajadores al Servicio del Estado, lo será el Tribunal de Arbitraje del Estado; de los Partidos Políticos, el Instituto Electoral del Estado y de los Ayuntamientos, la autoridad encargada del control interno del Ejecutivo Estatal.
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2026)</small>
+
+En términos del párrafo anterior, la autoridad garante de los Ayuntamientos, lo será la autoridad encargada del control interno del Ejecutivo Estatal.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2025)</small>
 
 Para el ejercicio de sus atribuciones los sujetos obligados y las autoridades garantes se regirán por la legislación en materia de transparencia y acceso a la información pública, y de protección de datos personales, así como por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
 
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2025)</small>
+
 La inobservancia a las disposiciones en materia de acceso a la información pública y protección de datos personales será sancionada en los términos que dispongan las leyes de la materia.
+
+> <small>(REFORMADO, P.O. 5 DE JUNIO DE 2025)</small>
 
 La ley establecerá las medidas de apremio que podrán imponer, en su caso, las autoridades garantes para asegurar el cumplimiento de sus decisiones;
 
@@ -4392,3 +4428,11 @@ P.O. 5 DE JUNIO DE 2025.
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 6 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA “DECLARATORIA DEL DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR VIRTUD DEL CUAL SE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN VII Y SUS INCISOS, A) PRIMER PÁRRAFO, C) SEGUNDO PÁRRAFO Y G) CUARTO PÁRRAFO, DEL ARTÍCULO 12 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
