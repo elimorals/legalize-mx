@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2026-02-04"
+last_updated: "2026-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MARZO DE 2026.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -2157,19 +2157,29 @@ La Secretaria o el Secretario General de Gobierno y las y los demás titulares d
 
 #### SECCION TERCERA. Del Ministerio Público y de la Seguridad Pública
 
-> <small>(REFORMADO, G.G. 28 DE JULIO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE MARZO DE 2026)</small>
 
 ###### Artículo 81.
 
-La investigación de los delitos corresponde al Ministerio Público y a las policías, las cuales actuarán bajo la conducción y mando de aquél en el ejercicio de esta función.
+La investigación de los delitos corresponde al Ministerio Público, a la secretaría del ramo de seguridad pública del Ejecutivo del Estado y a las instituciones policiales estatales y municipales, en el ámbito de sus respectivas competencias, las cuales actuarán bajo la conducción y mando de aquél en el ejercicio de esta función.
+
+> <small>(REFORMADO, G.G. 28 DE JULIO DE 2016)</small>
 
 La persecución de los delitos y la decisión del ejercicio de la acción penal ante los órganos jurisdiccionales corresponden, en forma autónoma, al Ministerio Público. Los particulares podrán ejercer la acción penal ante la autoridad judicial y hacer la persecución del delito en los casos previstos en la ley.
 
-Las policías del Estado auxiliarán al Ministerio Público en el cumplimiento de sus atribuciones.
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2026)</small>
+
+Las instituciones policiales del Estado auxiliarán al Ministerio Público en el cumplimiento de sus atribuciones.
+
+> <small>(REFORMADO, G.G. 28 DE JULIO DE 2016)</small>
 
 Todas las autoridades del Estado y los municipios, deben cumplir los requerimientos del Ministerio Público en ejercicio de sus atribuciones.
 
+> <small>(REFORMADO, G.G. 28 DE JULIO DE 2016)</small>
+
 El Ministerio Público solicitará las medidas cautelares contra los imputados y providencias precautorias, buscará y presentará las pruebas que acrediten la participación de éstos en hechos que las leyes señalen como delitos, aplicará medidas de protección, procurará que los procesos en materia penal se sigan con regularidad para que la impartición de justicia sea pronta y expedita, pedirá la aplicación de las penas e intervendrá en todos los asuntos que la Ley determine.
+
+> <small>(REFORMADO, G.G. 28 DE JULIO DE 2016)</small>
 
 Asimismo, podrá aplicar mecanismos alternativos de solución de controversias, criterios de oportunidad para el ejercicio de la acción penal y formas anticipadas de terminación del procedimiento, en los supuestos y condiciones que establezcan las leyes.
 
@@ -2297,25 +2307,31 @@ La ley determinará los requisitos necesarios para ser agente del Ministerio Pú
 
 No podrán desempeñar estos cargos quienes hayan sido destituidos en el desempeño de iguales o similares empleos en ésta o en cualquiera otra entidad federativa o en la administración pública federal.
 
-> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2026)</small>
 
 ###### Artículo 86.
 
-El Ministerio Público y las policías se coordinarán en términos de la Ley General del Sistema Nacional de Seguridad Pública, así como de la Ley local en la materia.
+El Ministerio Público y las instituciones policiales se coordinarán en términos de la Ley General del Sistema Nacional de Seguridad Pública, la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública, así como de las Leyes locales en la materia.
 
-El Ministerio Público y las policías, en el ejercicio de sus funciones, prestarán el auxilio que les soliciten los órganos del poder público y los órganos constitucionales autónomos.
+El Ministerio Público y las instituciones policiales, en el ejercicio de sus funciones, prestarán el auxilio que les soliciten los órganos del poder público y los órganos constitucionales autónomos.
 
-> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE MARZO DE 2026)</small>
 
 ###### Artículo 86 Bis.
 
-La Seguridad Pública es una función del Estado a cargo de la Federación, las entidades federativas y los municipios, en sus respectivos ámbitos de competencia, cuyos fines son salvaguardar la vida, las libertades, la integridad y el patrimonio de las personas, de conformidad con lo dispuesto en el artículo 5o. de esta Constitución que garantiza los deberes reforzados de protección del Estado con las mujeres, adolescentes, niñas y niños; así como contribuir a la generación y preservación del orden público y la paz social, que comprende la prevención, investigación y persecución de los delitos y las sanciones de las infracciones administrativas, en términos de ley, y deberá regirse bajo los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, honradez, así como por la perspectiva de género, la responsabilidad y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales en materia de derechos humanos de los que el Estado Mexicano sea parte y en esta Constitución.
+La Seguridad Pública es una función del Estado a cargo de la Federación, las entidades federativas y los municipios, en sus respectivos ámbitos de competencia, cuyos fines son salvaguardar la vida, los derechos, las libertades, la integridad y el patrimonio de las personas, de conformidad con lo dispuesto en el artículo 5o. de esta Constitución que garantiza los deberes reforzados de protección del Estado con las mujeres, adolescentes, niñas y niños; así como contribuir a la generación y preservación del orden público y la paz social, de conformidad con lo previsto en esta Constitución y las leyes en la materia.
 
-La seguridad pública comprende la prevención, investigación y persecución de los delitos, así como la sanción de las infracciones administrativas, en términos de ley, en la competencia correspondiente. La actuación de las instituciones de seguridad pública se regirá bajo los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, honradez, responsabilidad, perspectiva de género y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales en materia de derechos humanos de los que el Estado Mexicano sea parte y en esta Constitución.
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2026)</small>
+
+La seguridad pública comprende la prevención, investigación y persecución de los delitos, la supervisión de la prisión preventiva y ejecución de sentencias, además, de la reinserción social de las personas sentenciadas, así como la sanción de las infracciones administrativas, en términos de ley, en la competencia correspondiente. La actuación de las instituciones de seguridad pública se regirá bajo los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, honradez, responsabilidad, perspectiva de género, el amor a la patria, el federalismo cooperativo, la protección de la persona, su dignidad y el respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados internacionales en materia de derechos humanos de los que el Estado Mexicano sea parte y en esta Constitución.
+
+> <small>(REFORMADO, G.G. 4 DE JUNIO DE 2025)</small>
 
 Las Instituciones de Seguridad Pública serán disciplinadas, profesionales y de carácter civil.
 
-El Ministerio Público y las Instituciones Policiales deben coordinarse entre sí para cumplir los fines de la seguridad pública conforme a las bases establecidas en la Constitución Política de los Estados Unidos Mexicanos, y conformarán los Sistemas Nacional y Estatal de Seguridad Pública, y deberán garantizar el cumplimiento de sus objetivos bajo los principios de igualdad sustantiva y no discriminación, con un enfoque integral que priorice la prevención, investigación y sanción de las violencias de género, y deberán promover una cultura de paz y respeto a los derechos humanos. Se prestará especial atención a las necesidades y particularidades de las mujeres, adolescentes, niñas y niños, asegurando su acceso a la justicia y a una vida libre de violencias.
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2026)</small>
+
+El Ministerio Público y las instituciones policiales deben coordinarse entre sí para cumplir los fines de la seguridad pública y conformarán los Sistemas Nacional y Estatal de Seguridad Pública, y deberán garantizar el cumplimiento de sus objetivos bajo los principios de igualdad sustantiva y no discriminación, con un enfoque integral que priorice la prevención, investigación y sanción de las violencias de género, y deberán promover una cultura de paz y respeto a los derechos humanos. Se prestará especial atención a las necesidades y particularidades de las mujeres, adolescentes, niñas y niños, asegurando su acceso a la justicia y a una vida libre de violencias. El Sistema Estatal de Seguridad Pública se integrará conforme a las bases establecidas en la Constitución Política de los Estados Unidos Mexicanos y las leyes de la materia.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 24 DE ABRIL DE 2017)</small>
 
@@ -5672,3 +5688,11 @@ G.G. 4 DE FEBRERO DE 2026.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 6 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 274.- DECLARATORIA DE APROBACIÓN DE LA MINUTA PROYECTO DE DECRETO POR EL QUE SE REFORMAN LOS PÁRRAFOS PRIMERO Y TERCERO DEL ARTÍCULO 81, EL ARTÍCULO 86, Y LOS PÁRRAFOS PRIMERO, SEGUNDO Y CUARTO DEL ARTÍCULO 86 BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
