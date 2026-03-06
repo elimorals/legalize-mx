@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-responsabilidades-administrativas-del-estado-de-168605"
 country: "mx"
 rank: "ley"
 publication_date: "2023-11-23"
-last_updated: "2026-02-13"
+last_updated: "2026-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168605&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2026.
 
 Ley publicada en la Sección Cuarta del Número 97 del Periódico Oficial del Estado de Nayarit, el jueves 23 de noviembre de 2023.
 
@@ -1885,9 +1885,11 @@ Se exceptúan del párrafo anterior, los Agentes del Ministerio Público, perito
 
 #### SECCIÓN CUARTA. DE LA REVISIÓN
 
+> <small>(REFORMADO, P.O. 6 DE MARZO DE 2026)</small>
+
 ###### Artículo 226.
 
-Promoción de recurso de revisión. Las resoluciones definitivas que emita el Tribunal, podrán ser impugnadas por la Secretaría, los Órganos Internos de Control, en los Municipios y en los Organismos Autónomos o la Auditoría Superior, interponiendo el recurso de revisión, mediante escrito que se presente ante el propio Tribunal, dentro de los diez días hábiles siguientes a aquél en que surta sus efectos la notificación respectiva.
+Promoción de recurso de revisión. Las resoluciones que emita la Sala Colegiada de Recursos, podrán ser impugnadas por la Secretaría, los Órganos Internos de Control de los Entes Públicos y la Auditoría Superior, interponiendo el recurso de revisión, mediante escrito que se presente ante la Sala Colegiada de Recursos, dentro de los diez días hábiles siguientes a aquél en que surta sus efectos la notificación respectiva, en los términos previstos por la Ley Orgánica del Tribunal de Justicia Administrativa de Nayarit.
 
 ###### Artículo 227.
 
@@ -2378,3 +2380,9 @@ P.O. 13 DE FEBRERO DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA EL ARTÍCULO 69 BIS A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE NAYARIT, EN MATERIA DE INJERENCIA SINDICAL”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 6 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL ARTÍCULO 226 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE NAYARIT”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
