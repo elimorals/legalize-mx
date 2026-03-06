@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2025-12-02"
+last_updated: "2026-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -88,6 +88,10 @@ Toda persona tiene derecho al acceso, disposición y saneamiento de agua para co
 Toda persona podrá ejercer el derecho de petición ante las autoridades del Estado y sus municipios, siempre que está se formule por escrito de manera pacífica y respetuosa; a toda petición deberá recaer un acuerdo por escrito de la autoridad a quien se haya dirigido, la cual tiene la obligación de hacerlo conocer en breve término al peticionario.
 
 Este derecho podrá ser ejercido por vía electrónica, correo postal, mensajería o telégrafo o en los medios y casos en que las autoridades así lo determinen.
+
+> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2026)</small>
+
+Toda persona tiene el derecho humano a vivir en una sociedad libre de corrupción y buena administración, a la fiscalización y a la rendición de cuentas públicas.
 
 > <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2023)</small>
 
@@ -585,7 +589,7 @@ El diputado suplente que haya ejercido el cargo de propietario, para efectos del
 
 Para ser Diputado se requiere:
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 6 DE MARZO DE 2026)</small>
 
 I.- Ser ciudadano mexicano por nacimiento y ser michoacano en ejercicio de sus derechos;
 
@@ -595,9 +599,9 @@ II.- Ser originario del distrito por el que haya de ser electo por el principio 
 
 Los oriundos o residentes de los municipios cuyo territorio comprende más de un distrito, podrán ser electos en cualquiera de ellos; y,
 
-> <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 6 DE MARZO DE 2026)</small>
 
-III.- Tener veintiún años cumplidos el día de la elección.
+III.- Tener dieciocho años cumplidos el día de la elección.
 
 > <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1960)</small>
 
@@ -4646,5 +4650,21 @@ P.O. 2 DE DICIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 196 POR EL QUE "SE ADICIONA UN PÁRRAFO DÉCIMO PRIMERO AL ARTÍCULO 2° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO".]
 
 PRIMERO. Remítase el presente Decreto a los ayuntamientos del Estado y al Concejo Mayor de Cherán, para que emita el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 6 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 249 POR EL QUE “SE REFORMAN LAS FRACCIONES I Y III DEL ARTÍCULO 23 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. Remítase el presente Decreto a los ayuntamientos del Estado y al Concejo Mayor de Cherán, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 6 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 256 POR EL QUE “SE ADICIONA UN PÁRRAFO AL ARTÍCULO 2° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. Remítase el presente Decreto a los ayuntamientos del Estado y al Concejo Mayor de Cherán, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
