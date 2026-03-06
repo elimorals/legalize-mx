@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-del-poder-judicial-del-estado-de-tamaulipas-180147
 country: "mx"
 rank: "ley_organica"
 publication_date: "2025-05-24"
-last_updated: "2026-03-03"
+last_updated: "2026-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180147&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "TAM"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE MARZO DE 2026 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TAMAULIPAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2026.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 6 DE MARZO DE 2026.]</small>
 
 Ley publicada en el Extraordinario Número 26 del Periódico Oficial del Estado de Tamaulipas, el sábado 24 de mayo de 2025.
 
@@ -1167,9 +1167,9 @@ V.- Gozar de buena reputación y no haber sido condenado por delito intencional 
 
 VI.- Aprobar los exámenes y evaluaciones que previamente determine y disponga el Órgano de Administración Judicial con el apoyo de la Escuela Judicial de Tamaulipas. En la selección se preferirá a aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia, o que se hayan distinguido por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica; y
 
-> <small>(ADICIONADA, P.O. 3 DE MARZO DE 2026)</small>
+(ADICIONADA, P.O. 3 DE MARZO DE 2026) (F. DE E., P.O. 6 DE MARZO DE 2026)
 
-VII.- Los requisitos señalados en las fracciones II y III del presente artículo, podrán dispensarse por acuerdo del Órgano de Administración Judicial, atendiendo el resultado de los exámenes y evaluaciones.
+VII.- Los requisitos señalados en las fracciones II y IV del presente artículo, podrán dispensarse por acuerdo del Órgano de Administración Judicial, atendiendo el resultado de los exámenes y evaluaciones.
 
 ###### ARTÍCULO 75.
 
