@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-489-del-sistema-estatal-de-seguridad-publica-182876"
 country: "mx"
 rank: "ley"
 publication_date: "2025-12-17"
-last_updated: "2025-12-17"
+last_updated: "2026-03-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=182876&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "VER"
 ---
 # LEY NUMERO 489 DEL SISTEMA ESTATAL DE SEGURIDAD PUBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE MARZO DE 2026 EN LA G.O. DEL ESTADO DE VERACRUZ, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY NÚMERO 489 DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 6 DE MARZO DE 2026.]</small>
 
 Ley publicada en el Número Extraordinario 502 de la Gaceta Oficial del Estado de Veracruz, el miércoles 17 de diciembre de 2025.
 
@@ -989,7 +989,9 @@ II. Promover la instalación del Consejo de Seguridad Pública Municipal y su re
 
 III. Establecer reuniones periódicas de seguridad pública en el municipio, con la participación de las áreas responsables de seguridad y de procuración de justicia, a fin de evaluar la incidencia delictiva y definir estrategias de atención;
 
-V (sic). Supervisar la elaboración del Programa Municipal de Prevención Social de la Violencia y la Delincuencia, y su presentación ante el Consejo de Seguridad Pública Municipal y al Comité de Participación Ciudadana;
+> <small>(F. DE E., G.O. 6 DE MARZO DE 2026)</small>
+
+IV. Supervisar la elaboración del Programa Municipal de Prevención Social de la Violencia y la Delincuencia, y su presentación ante el Consejo de Seguridad Pública Municipal y al Comité de Participación Ciudadana;
 
 V. En caso de contar con instituciones policiales municipales, tener bajo su mando la policía preventiva municipal y desarrollar, profesionalizar y garantizar la capacitación, evaluación y certificación de sus integrantes, de conformidad con los estándares emitidos por el Secretariado Ejecutivo, salvo en los casos en que la persona Titular del Poder Ejecutivo del Estado, deba asumir el mando por causas de fuerza mayor o alteración grave del orden público;
 
@@ -1001,7 +1003,9 @@ VIII. Instalar y promover el adecuado funcionamiento de los Consejos Municipales
 
 IX. Cumplir y hacer cumplir en el ámbito municipal los acuerdos, lineamientos y políticas emitidos por el Consejo Estatal y por el Consejo Nacional; y
 
-X. Las demás que establezca esta Ley, la Ley General del Sistema Nacional de Seguridad Pública y otras disposiciones jurídicas aplicables.
+> <small>(F. DE E., G.O. 6 DE MARZO DE 2026)</small>
+
+X. Las demás que establezca esta Ley, en (sic) la Ley General del Sistema Nacional de Seguridad Pública y otras disposiciones jurídicas aplicables.
 
 ### CAPÍTULO X. DE LAS INSTITUCIONES POLICIALES DE LOS MUNICIPIOS Y SUS FUNCIONES
 
