@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-mental-y-adicciones-del-estado-de-jalisco-173817"
 country: "mx"
 rank: "ley"
 publication_date: "2024-07-13"
-last_updated: "2024-07-13"
+last_updated: "2026-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=173817&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SALUD MENTAL Y ADICCIONES DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2026.
 
 Ley publicada en la Sección VI del Número 2 del Periódico Oficial del Estado de Jalisco, el sábado 13 de julio de 2024.
 
@@ -517,11 +517,19 @@ h) Secretaría de Cultura;
 
 i) Universidad de Guadalajara;
 
-j) Sistema Estatal para el Desarrollo Integral de la Familia; y
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2026)</small>
+
+j) Sistema Estatal para el Desarrollo Integral de la Familia;
 
 k) Instituto Jalisciense de Salud Mental y Adicciones.
 
-L) (SIC) Comisión de Higiene, Salud Pública y Prevención de las Adicciones del Congreso del Estado.
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2026)</small>
+
+l) Comisión de Higiene, Salud Pública y Prevención de las Adicciones del Congreso del Estado; y
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2026)</small>
+
+m) Comisión Estatal de Derechos Humanos (sic) Jalisco, contará únicamente con voz.
 
 III. Del Sector Privado y Social, quienes contarán únicamente con voz:
 
@@ -958,3 +966,11 @@ Subsecretario General de Gobierno
 (RÚBRICA)
 
 Encargado de despacho de la Secretaría General de Gobierno, de conformidad con el artículo 13 fracción X del Reglamento Interno de la Secretaría General de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 30128/LXIV/26 DEL CONGRESO DEL ESTADO, QUE REFORMA EL ARTÍCULO 49 FRACCIÓN II, INCISOS J), L) Y SE ADICIONA (SIC) INCISO M) DE LA LEY DE SALUD MENTAL Y ADICCIONES DEL ESTADO DE JALISCO.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
