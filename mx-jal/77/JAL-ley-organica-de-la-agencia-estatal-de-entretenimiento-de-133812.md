@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-de-la-agencia-estatal-de-entretenimiento-de-133812
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-02-02"
-last_updated: "2024-02-24"
+last_updated: "2026-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DE LA AGENCIA ESTATAL DE ENTRETENIMIENTO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2026.
 
 Ley publicada en la Sección X del Periódico Oficial del Estado de Jalisco, el sábado 2 de febrero de 2019.
 
@@ -361,7 +361,7 @@ VIII. La validez del acta y de los acuerdos aprobado (sic) se acreditará con la
 
 IX. En caso de no verificarse quórum, el presidente podrá convocar por escrito con un mínimo de veinticuatro horas de anticipación a sesión extraordinaria, misma que quedará debidamente integrada con el número de los concurrentes, y los acuerdos que se tomen en ella tendrán plena validez.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 7 DE MARZO DE 2026)</small>
 
 ###### Artículo 10.
 
@@ -487,13 +487,17 @@ XXXVII. Proponer el uso de medios alternativos ecológicos para la generación d
 
 XXXVIII. Conformar grupos de trabajo para la realización y seguimiento de tareas específicas en la materia de su competencia;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 18 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2026)</small>
 
-XXXIX. Aprobar su Reglamento; y
+XXXIX. Aprobar su Reglamento;
 
-> <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE MARZO DE 2026)</small>
 
-XL. Las demás previstas en la presente ley, en la Ley de Filmaciones y demás ordenamientos aplicables.
+XL. Dar aviso a la autoridad competente cuando en algún espectáculo público se induzca a cometer un delito, apología de éste o de algún vicio; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE MARZO DE 2026)</small>
+
+XLI. Las demás previstas en la presente ley, en la Ley de Filmaciones y demás ordenamientos aplicables.
 
 #### Sección II. Del Director General
 
@@ -744,3 +748,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Poder Ejecutivo en un plazo de sesenta días hábiles deberá realizar las modificaciones reglamentarias y administrativas necesarias para cumplimentar el presente decreto.
 
 TERCERO. La Secretaría de la Hacienda Pública deberá contemplar la asignación presupuestal necesaria en la Agencia Estatal de Entretenimiento de Jalisco, para la conformación del Fondo Filma Jalisco para el ejercicio fiscal 2024, con base en las disposiciones previstas en el presente decreto y en apego a las disposiciones aplicables.
+
+P.O. 7 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 30134/LXIV/26 DEL CONGRESO DEL ESTADO, QUE REFORMA EL ARTÍCULO 142, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO, SE REFORMA EL ARTÍCULO 10 DE LA LEY ORGÁNICA DE LA AGENCIA ESTATAL DE ENTRETENIMIENTO DE JALISCO, Y SE REFORMA EL ARTÍCULO 10 DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco"
