@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2025-10-21"
+last_updated: "2026-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2026.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -2805,9 +2805,11 @@ El parentesco de consanguinidad es el que existe entre personas que descienden u
 
 El parentesco de afinidad es el que se contrae por el matrimonio entre el varón y los parientes de la mujer y entre la mujer y los parientes del varón.
 
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2026)</small>
+
 ###### Art. 426.
 
-El parentesco civil es el que nace de la adopción y sólo existe entre el adoptante y el adoptado, en los casos de adopción simple, y cuando se hubiese optado por la adopción plena, las relaciones de parentesco se establecen además entre el adoptado y la familia o familias del adoptante o adoptantes.
+El parentesco civil es el que nace de la adopción y existe entre el adoptante o adoptantes y el adoptado, además entre el adoptado y la familia o familias del adoptante o adoptantes.
 
 ###### Art. 427.
 
@@ -3575,29 +3577,33 @@ Si el menor que se va a adoptar tiene más de doce años, también se necesita s
 
 Cuando el tutor o la Procuraduría de Protección de Niñas, Niños y Adolescentes no consientan en la adopción; o el Agente Social se oponga a la misma, deberán expresar la causa en que se funde, la que el juez calificará tomando en cuenta los intereses de la niña, niño o adolescente.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
-
 ###### Art. 538.
 
-Salvo que la adopción se haga por pareja unidas por vínculo matrimonial, no puede una persona ser adoptada simultáneamente por varios adoptantes; pero sí, sucesivamente cuando el adoptante o adoptantes anteriores hayan muerto o hubiera sido revocada la adopción.
+(DEROGADO, P.O. 7 DE MARZO DE 2026)
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE MARZO DE 2026)</small>
 
-#### Sección Primera. Adopción plena
+#### Sección Primera. De los Efectos de la Adopción
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2026)</small>
 
 ###### Art. 539.
 
-La adopción plena confiere al adoptado todos los efectos jurídicos, derechos y obligaciones que corresponden a la relación paterno filial consanguínea.
+La adopción confiere al adoptado todos los efectos jurídicos, derechos y obligaciones que corresponden a la relación paterno filial consanguínea.
 
-La adopción plena requiere:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 7 DE MARZO DE 2026)</small>
+
+La adopción requiere:
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2002)</small>
 
 I. Los adoptantes sean un hombre y una mujer casados entre sí y que vivan juntos;
 
 > <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 II. Que por lo menos el cónyuge menor adoptante tenga 15 años más que la persona menor o menores de edad que se pretende adoptar; excepto cuando se trate de la adopción de personas mayores de edad incapaces;
+
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2002)</small>
 
 III. Los adoptantes tengan cinco o más años de casados al momento del inicio del trámite;
 
@@ -3609,25 +3615,29 @@ IV. Los adoptantes tengan medios suficientes para proveer debidamente a la subsi
 
 V. La adopción se funde sobre justos motivos y en beneficio para la persona menor o menores de edad; y
 
+> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2002)</small>
+
 VI. Los adoptantes sean personas de buenas costumbres.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2026)</small>
 
 ###### Art. 540.
 
-La adopción plena confiere al adoptado, al adoptante y a los parientes de éste, los mismos derechos y obligaciones que el parentesco por consanguinidad y afinidad.
+La adopción confiere al adoptado, al adoptante y a los parientes de éste, los mismos derechos y obligaciones que el parentesco por consanguinidad y afinidad.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2026)</small>
 
 ###### Art. 541.
 
-La adopción plena entraña automáticamente la extinción de los vínculos jurídicos con la familia de origen, excepto en lo relativo a los impedimentos de matrimonio y los de sucesión legítima en su beneficio.
+La adopción entraña automáticamente la extinción de los vínculos jurídicos con la familia de origen, excepto en lo relativo a los impedimentos de matrimonio y los de sucesión legítima en su beneficio.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2026)</small>
 
 ###### Art. 542.
 
-La adopción plena es irrevocable, cuando cause ejecutoria la sentencia que la pronuncie, salvo en los efectos de la patria potestad, la cual se podrá perder por las causas que para tal efecto se establecen en éste Código.
+La adopción es irrevocable, cuando cause ejecutoria la sentencia que la pronuncie, salvo en los efectos de la patria potestad, la cual se podrá perder por las causas que para tal efecto se establecen en este Código.
+
+> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
 
 Cuando el adoptado alcance la mayoría de edad podrá conocer sus antecedentes familiares; las autoridades le garantizarán el acceso a dicha información.
 
@@ -3635,41 +3645,21 @@ Cuando el adoptado alcance la mayoría de edad podrá conocer sus antecedentes f
 
 #### Sección Segunda. De la adopción simple
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
-
 ###### Art. 543.
 
-En la adopción simple se transfiere la patria potestad así como la custodia personal, y sólo origina vínculos jurídicos entre el adoptante y el adoptado.
-
-La adopción simple podrán realizarla las personas mayores de veinticinco años de edad, que acrediten:
-
-I. Que tienen por lo menos quince años más de edad que la persona que se pretende adoptar; excepto cuando se trate de personas mayores incapaces;
-
-II. Que tienen medios bastantes para proveer debidamente a la subsistencia y educación del menor;
-
-III. Que la adopción es benéfica a éste; y
-
-IV. Que el adoptante es persona de buenas costumbres.
-
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+(DEROGADO, P.O. 7 DE MARZO DE 2026)
 
 ###### Art. 544.
 
-El adoptado podrá solicitar la revocación de la adopción simple, dentro del año siguiente a su mayoría de edad o a la fecha que ha desaparecido la incapacidad.
-
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
+(DEROGADO, P.O. 7 DE MARZO DE 2026)
 
 ###### Art. 545.
 
-Los derechos y obligaciones que resulten del parentesco natural no se extinguen por la adopción simple, excepto la patria potestad, que será transferida al adoptante; pero si éste está casado o se casare con alguno de los progenitores del adoptado, la patria potestad se ejercerá por ambos cónyuges.
-
-> <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2015)</small>
+(DEROGADO, P.O. 7 DE MARZO DE 2026)
 
 ###### Art. 546.
 
-El que adopte por adopción simple podrá solicitar ante el juez la conversión a adopción plena siempre y cuando cumpla con los requisitos que para la adopción plena contempla éste mismo Código, y la legislación general y estatal de los Derechos de Niñas, Niños y Adolescentes.
-
-Para este caso, el juez escuchará, cuando sea posible, a quien otorgó inicialmente el consentimiento para la adopción, se cerciorará de que los adoptantes cumplan los requisitos de Ley, dará vista al Agente Social y la Procuraduría de Protección de Niñas, Niños y Adolescentes y si no hay oposición, el Juez procederá de conformidad con el Artículo 1031 del Código de Procedimientos Civiles del Estado de Jalisco.
+(DEROGADO, P.O. 7 DE MARZO DE 2026)
 
 ###### Art. 547.
 
@@ -3683,11 +3673,9 @@ Para este caso, el juez escuchará, cuando sea posible, a quien otorgó inicialm
 
 (DEROGADO, P.O. 5 DE DICIEMBRE DE 2018)
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2002)</small>
-
 ###### Art. 550.
 
-La resolución judicial que apruebe la revocación, deja sin efecto la adopción simple, restituyendo las cosas al estado que tenían antes de que ésta se efectuara, en todo lo que no esté irreparablemente consumado y se comunicará al Oficial del Registro Civil que autorizó el acta de adopción para que la cancele.
+(DEROGADO, P.O. 7 DE MARZO DE 2026)
 
 > <small>(REFORMADA, P.O. 22 DE JUNIO DE 2002)</small>
 
@@ -4183,6 +4171,8 @@ Estas medidas se seguirán a instancia de las personas interesadas o por la Proc
 
 ### CAPITULO III. De los modos de acabarse y suspenderse la patria potestad
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 7 DE MARZO DE 2026)</small>
+
 ###### Art. 597.
 
 La patria potestad se acaba:
@@ -4193,7 +4183,7 @@ II. Con la emancipación del menor;
 
 III. Por la mayoría de edad de éste; y
 
-IV. Por la revocación de la adopción simple.
+IV. (DEROGADA, P.O. 7 DE MARZO DE 2026)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2021)</small>
 
@@ -17485,9 +17475,11 @@ Si quedaren hijos y descendientes de ulterior grado, los primeros heredarán por
 
 Si sólo quedaren descendientes de ulterior grado, la herencia se dividirá por estirpes; y si en algunas de éstas hubiere varios herederos, la porción que a ella corresponda se dividirá por partes iguales.
 
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2026)</small>
+
 ###### Art. 2919.
 
-El adoptado hereda como un hijo; pero no hay derecho de sucesión entre el adoptado y los parientes del adoptante salvo que se esté en el caso de la adopción plena.
+El adoptado hereda como un hijo.
 
 ###### Art. 2920.
 
@@ -17517,11 +17509,11 @@ Los miembros de cada línea dividirán entre sí, por partes iguales, la porció
 
 ###### Art. 2926.
 
-Concurriendo los adoptantes con ascendientes del adoptado, la herencia de éste se dividirá por partes iguales entre los adoptantes y los ascendientes.
+(DEROGADO, P.O. 7 DE MARZO DE 2026)
 
 ###### Art. 2927.
 
-Si concurre el cónyuge del adoptado con los adoptantes, las dos terceras partes de la herencia corresponden al cónyuge y la otra tercera parte a los que hicieron la adopción.
+(DEROGADO, P.O. 7 DE MARZO DE 2026)
 
 ###### Art. 2928.
 
@@ -19538,5 +19530,11 @@ P.O. 12 DE OCTUBRE DE 2024.
 P.O. 21 DE OCTUBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29855/LXIV/25 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO, DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO, Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+P.O. 7 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 30137/LXIV/26 DEL CONGRESO DEL ESTADO, QUE REFORMA LOS ARTÍCULOS 426, 539, 540, 541, 542, 597, Y 2919; SE MODIFICA LA DENOMINACIÓN DE LAS (SIC) SECCIÓN PRIMERA EL (SIC) CAPÍTULO IV DEL TÍTULO SEXTO; Y SE DEROGAN LOS ARTÍCULOS 538, 543, 544, 545, 546, 550, 2926 Y 2927 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
