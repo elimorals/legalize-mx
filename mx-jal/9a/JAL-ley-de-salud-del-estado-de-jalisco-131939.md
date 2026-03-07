@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-131939"
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-05"
-last_updated: "2024-10-12"
+last_updated: "2026-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2026.
 
 Ley publicada en el Número 24 Bis Edición Especial del Periódico Oficial del Estado de Jalisco, el miércoles 5 de diciembre de 2018.
 
@@ -361,6 +361,8 @@ Sistema Estatal de Salud. Planeación.
 
 ### CAPÍTULO IV. DEL SISTEMA ÚNICO DE INFORMACIÓN EN SALUD
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 7 DE MARZO DE 2026)</small>
+
 ###### Artículo 21.
 
 Sistema Único de Información de Salud. Tipos de Información.
@@ -369,7 +371,9 @@ Sistema Único de Información de Salud. Tipos de Información.
 
 2. La información se referirá fundamentalmente, a los siguientes aspectos:
 
-I. Estadísticas de natalidad, mortalidad, morbilidad y discapacidad;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2026)</small>
+
+I. Estadísticas de natalidad, embarazos de menores de edad, mortalidad, morbilidad y discapacidad;
 
 II. Factores demográficos, económicos, sociales y ambientales vinculados a la salud, y
 
@@ -701,6 +705,8 @@ Servicios de Planificación Familiar. Decisión Libre e Informada.
 
 1. Los servicios de planificación familiar constituyen un medio para el ejercicio del derecho de toda persona a decidir de manera libre, responsable e informada el ejercicio de su sexualidad, así como sobre el número y espaciamiento de sus hijos, con pleno respeto a su dignidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 7 DE MARZO DE 2026)</small>
+
 ###### Artículo 48.
 
 Servicios de Planificación Familiar. Contenido.
@@ -711,9 +717,19 @@ I. Informarse sobre las infecciones de transmisión sexual, sus efectos y alcanc
 
 II. Conocer y utilizar las medidas preventivas para evitar la propagación de infecciones de transmisión sexual.
 
-III. Realizarse exámenes médicos de manera periódica; y
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2026)</small>
 
-IV. Buscar de manera pronta y oportuna, en caso de contraer una infección de trasmisión sexual, un tratamiento médico que prevenga su propagación.
+III. Realizarse exámenes médicos de manera periódica;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2026)</small>
+
+IV. Buscar de manera pronta y oportuna, en caso de contraer una infección de trasmisión sexual, un tratamiento médico que prevenga su propagación; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE MARZO DE 2026)</small>
+
+V. Informar, orientar y educar en el ejercicio responsable de la sexualidad y sus consecuencias.
+
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 7 DE MARZO DE 2026)</small>
 
 ###### Artículo 49.
 
@@ -723,7 +739,9 @@ Servicios de Planificación Familiar. Contenido.
 
 I. Los contenidos en el artículo 68 de la Ley General de Salud; y
 
-II. El fomento de la planificación familiar como herramienta para reducir los índices de mortalidad infantil, embarazo adolescente, embarazo de alto riesgo y pacientes con enfermedades de transmisión sexual en el estado de Jalisco.
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2026)</small>
+
+II. El fomento de la planificación familiar como herramienta para reducir los índices de mortalidad infantil, embarazo de niñas y adolescentes, embarazo de alto riesgo y pacientes con enfermedades de transmisión sexual en el estado de Jalisco.
 
 ###### Artículo 50.
 
@@ -1465,13 +1483,17 @@ Prevención de la Mortalidad Materno-Infantil.
 
 2. En los establecimientos en que se presten servicios de atención médica materno-infantil se formarán los comités hospitalarios que determinen las Normas Oficiales Mexicanas aplicables, especialmente los destinados a prevenir la mortalidad materna, perinatal e infantil.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 7 DE MARZO DE 2026)</small>
+
 ###### Artículo 102.
 
 Atención Materno-Infantil. Atención Infantil Oportuna.
 
 1. Es interés del Estado otorgar a niñas y niños una atención oportuna y especializada y, en particular, prevenir la ceguera por retinopatía del prematuro, así como la prevención, diagnóstico y atención de la misma.
 
-2. Las autoridades sanitarias estatales dictarán las políticas públicas para prevenir y, en su caso, reducir los embarazos de alto riesgo y nacimientos prematuros, para lo cual garantizarán el acceso de éstos a un servicio integral de salud.
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2026)</small>
+
+2. Las autoridades sanitarias estatales dictarán las políticas públicas para prevenir los embarazos en niñas y adolescentes, reducir los embarazos de alto riesgo y nacimientos prematuros, para lo cual garantizarán el acceso de éstos a un servicio integral de salud.
 
 3. La Secretaría de Salud y los organismos públicos descentralizados y desconcentrados, en coordinación con el sector privado, revisarán anualmente la política pública a que se refiere al párrafo anterior y realizarán un programa estatal para la prevención de la ceguera por retinopatía del prematuro; lo anterior con el apoyo, en lo conducente, del sector público federal.
 
@@ -1501,7 +1523,7 @@ Atención Materno-Infantil. Procedimientos.
 
 1. En la organización y operación de los servicios de salud destinados a la atención materno-infantil, las autoridades sanitarias del Estado, establecerán procedimientos que permitan la participación activa de la familia, en la prevención y atención oportuna de los padecimientos de los usuarios, sin perjuicio de las actividades que, conforme a los ordenamientos jurídicos que los crearon, correspondan a los Sistemas para el Desarrollo Integral de la Familia, Estatal y Municipales.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 12 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 7 DE MARZO DE 2026)</small>
 
 ###### Artículo 105.
 
@@ -1525,9 +1547,9 @@ V. La vigilancia de actividades ocupacionales que puedan poner en peligro la sal
 
 VI. El establecimiento de programas de información y sensibilización, adecuados a la capacidad de los destinatarios, respecto de los medios de transmisión del VIH, y sus formas de prevención;
 
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2026)</small>
 
-VII. La generación de políticas públicas para la disminución de embarazos de alto riesgo, de nacimientos prematuros y de ceguera por retinopatía del prematuro;
+VII. La generación de políticas públicas para la prevención de embarazos de niñas y adolescentes,disminución de embarazos de alto riesgo, de nacimientos prematuros y de ceguera por retinopatía del prematuro;
 
 > <small>(REFORMADA, P.O. 12 DE OCTUBRE DE 2024)</small>
 
@@ -1571,6 +1593,8 @@ Salud Pública. Concepto.
 
 2. Se consideran acciones de salud pública, entre otras, el saneamiento del medio, la prevención, control de enfermedades y accidentes, promoción de la salud, control y vigilancia sanitaria, la prevención, tratamiento y erradicación de adicciones, así como la detección y atención de la depresión y prevención del suicidio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 7 DE MARZO DE 2026)</small>
+
 ###### Artículo 108.
 
 Salud Pública. Acciones.
@@ -1591,7 +1615,9 @@ VI. Los tratamientos de medicina preventiva;
 
 VII. La promoción de la cultura física y el deporte;
 
-VIII. La educación de todas las personas en materia de higiene;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2026)</small>
+
+VIII. La educación de todas las personas en materia de higiene, salud reproductiva, embarazos de niñas y adolescentes, así como del abuso sexual infantil;
 
 IX. La participación de la comunidad en el fomento a la salud;
 
@@ -5104,3 +5130,9 @@ P.O. 12 DE OCTUBRE DE 2024.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán de manera gradual, paulatina y progresiva, sujeto a los presupuestos autorizados para el presente ejercicio fiscal y los subsecuentes.
+
+P.O. 7 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 30132/LXIV /26 DEL CONGRESO DEL ESTADO, QUE REFORMA LOS ARTÍCULOS 21, 48, 49, 102, 105, Y 108 DE LA LEY DE SALUD DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periód ico Oficial "El Estado de Jalisco"
