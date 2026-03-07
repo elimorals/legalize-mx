@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6149
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-27"
-last_updated: "2025-11-22"
+last_updated: "2026-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61492&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2026.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el martes 27 de mayo de 2008.
 
@@ -393,13 +393,35 @@ x) Cualesquiera otras formas análogas que lesionen o sean susceptibles de daña
 
 La violencia política contra las mujeres en razón de género se sancionará en los términos establecidos en la legislación electoral, penal y de responsabilidades administrativas.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2026)</small>
 
-VIII. Violencia en el noviazgo, son las acciones o conductas intencionales que generen un daño sexual, físico o psíquico, cometido por una persona contra otra con quien se tiene una relación afectiva, de enamoramiento o noviazgo, con el objeto de ejercer presión, manipulación o maltrato hacia alguna de las partes; y
+VIII. Violencia en el noviazgo, son las acciones o conductas intencionales que generen un daño sexual, físico o psíquico, cometido por una persona contra otra con quien se tiene una relación afectiva; de enamoramiento o noviazgo, con el objeto de ejercer presión, manipulación o maltrato hacia alguna de las partes;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA CON SU PÁRRAFO E INCISOS], P.O. 7 DE MARZO DE 2026)</small>
 
-IX. En todos aquellos ámbitos o modalidades en que una persona física o jurídica de derecho público o privado ejecute algún acto de violencia contra las mujeres que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
+IX. Violencia obstétrica: toda acción u omisión cometida por el personal de salud, médico, administrativo o auxiliar, de instituciones públicas o privadas, durante el embarazo, parto o puerperio, que cause daño físico y/o psicológico a la mujer, que limite su autonomía o capacidad de decisión libre e informada, que contravenga las normas oficiales en la materia, o que implique negligencia y/o un trato denigrante, discriminatorio, humillante o atemorizante.
+
+Se consideran como actos constitutivos de violencia obstétrica, de manera enunciativa, más no limitativa, los siguientes:
+
+a) Hacer comentarios ofensivos, humillantes y/o denigrantes a la mujer embarazada por su condición;
+
+b) Practicar procedimientos médicos o quirúrgicos, incluyendo el parto por cesárea, sin el consentimiento voluntario, expreso e informado de la mujer, salvo casos de urgencia médica justificada;
+
+c) Obligar a la mujer a parir completamente acostada o inmovilizada;
+
+d) No atender oportuna y eficazmente las emergencias obstétricas, independientemente de la derechohabiencia;
+
+e) Negar u obstaculizar, sin causa médica justificada, la posibilidad de cargar y amamantar a la o el recién nacido inmediatamente después del nacimiento;
+
+f) Someter a la mujer a procedimientos de control de la natalidad o esterilización sin su consentimiento expreso, libre e informado;
+
+g) Cualquier otro acto que contravenga los derechos humanos de las mujeres en los procesos de embarazo, parto y puerperio; y
+
+h) Las demás que fijen las leyes sobre la materia.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE MARZO DE 2026)</small>
+
+X. En todos aquellos ámbitos o modalidades en que una persona física o jurídica de derecho público o privado ejecute algún acto de violencia contra las mujeres que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 ###### Artículo 12.
 
@@ -2232,3 +2254,9 @@ P.O. 22 DE NOVIEMBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 SEGUNDO. El Congreso del Estado de Jalisco deberá armonizar el marco jurídico en la materia al contenido del presente Decreto en un plazo que no excederá de 180 días a partir de la entrada en vigor.
+
+P.O. 7 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 30138/LXIV /26 DEL CONGRESO DEL ESTADO, QUE REFORMA EL ARTÍCULO 11 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
