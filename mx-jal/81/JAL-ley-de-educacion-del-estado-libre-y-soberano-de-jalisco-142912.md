@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-libre-y-soberano-de-jalisco-142912"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-15"
-last_updated: "2025-10-21"
+last_updated: "2026-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142912&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2026.
 
 Ley publicada en la Edición Especial al Número 50 Bis del Periódico Oficial del Estado de Jalisco, el viernes 15 de mayo de 2020.
 
@@ -159,9 +159,11 @@ Objetivos de la acción educativa en el estado
 
 Las autoridades educativas del estado de Jalisco garantizarán el cumplimiento de los criterios que orientan la educación, establecidos en la Constitución Política de los Estados Unidos Mexicanos, para lo cual colocarán al centro de la acción de las políticas públicas, el máximo logro de aprendizaje de las niñas, niños, adolescentes y jóvenes. Las acciones que ejecuten tendrán como objetivos el desarrollo humano integral del educando, reorientar el Sistema Educativo Estatal, incidir en la cultura educativa mediante la corresponsabilidad entre todos los actores involucrados e impulsar transformaciones sociales dentro de la escuela y en la comunidad.
 
+> <small>(REFORMADO SU ACÁPITE [N. DE E. REPUBLICADO], P.O. 7 DE MARZO DE 2026)</small>
+
 Desarrollo integral humano en la prestación del servicio educativo
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 12 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 7 DE MARZO DE 2026)</small>
 
 ###### Artículo 10.
 
@@ -171,7 +173,9 @@ I. Contribuir a la formación del pensamiento crítico, a la transformación y a
 
 II. Propiciar un diálogo continuo entre las humanidades, las artes, la ciencia, la tecnología y la innovación como factores del bienestar y la transformación social;
 
-III. Fortalecer el tejido social para evitar la corrupción, a través del fomento de la honestidad y la integridad, además de proteger la naturaleza, impulsar el desarrollo en lo social, ambiental, económico, en la salud, así como favorecer la generación de capacidades productivas y fomentar una justa distribución del ingreso;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2026)</small>
+
+III. Fortalecer el tejido social para evitar la corrupción, la apología del delito, de los vicios y las conductas antisociales a través del fomento de la honestidad y la integridad, además de proteger la naturaleza, impulsar el desarrollo en lo social, ambiental, económico, en la salud, así como favorecer la generación de capacidades productivas y fomentar una justa distribución del ingreso;
 
 IV. Combatir las causas de discriminación y violencia en las diferentes regiones del estado de Jalisco, especialmente la que se ejerce contra la niñez y las mujeres;
 
@@ -634,6 +638,10 @@ Políticas para la inclusión, permanencia y continuidad en educación media sup
 ###### Artículo 28.
 
 Las autoridades educativas del Estado de Jalisco, en el ámbito de sus competencias, establecerán, de manera progresiva, políticas para garantizar la inclusión, asistencia regular, permanencia, continuidad y conclusión en este tipo educativo, poniendo énfasis en los jóvenes, a través de medidas tendientes a fomentar oportunidades de acceso para las personas que así lo decidan, puedan ingresar a este tipo educativo, así como disminuir la deserción y abandono escolar, como puede ser el establecimiento de apoyos económicos.
+
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2026)</small>
+
+Para ello, entre otros, se emitirán de (sic) modelos y protocolos que faciliten la permanencia y egreso de la educación media superior de las mujeres en etapa de embarazo, parto y puerperio, en cualquier servicio y modalidad educativa; así como que se promueva, respete y favorezca la lactancia materna en las sedes de las instituciones de educación media superior.
 
 De igual forma, implementarán un programa de capacitación y evaluación para la certificación que otorga la instancia competente, para egresados de bachillerato, profesional técnico bachiller o sus equivalentes, que no hayan ingresado a educación superior, con la finalidad de proporcionar herramientas que les permitan integrarse al ámbito laboral.
 
@@ -2067,19 +2075,27 @@ Además de las actividades enumeradas en el artículo anterior, el Ejecutivo Fed
 
 ### Capítulo Único. Objeto e Integración
 
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADO SU ACÁPITE [N. DE E. REPUBLICADO], P.O. 7 DE MARZO DE 2026)</small>
 
 Objeto e Integración del fondo para la educación básica
 
 ###### Artículo 124 Bis.
 
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2024)</small>
+
 1. El Ejecutivo del Estado constituirá un fondo especial para la educación, cuyo objeto es la realización del programa de entrega gratuita de mochilas, útiles escolares, uniformes y calzado a estudiantes de educación básica de escuelas públicas.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2024)</small>
 
 2. El fondo estará integrado con recursos asignados para ese efecto en las leyes de ingresos y los presupuestos de egresos de la Federación, Estado y los Municipios, así como con recursos que provengan de donativos, donaciones y cesiones de derechos.
 
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2024)</small>
+
 3. El esquema de aportaciones al Fondo entre el Estado y los Municipios será en partes iguales, que podrán realizarse bajo cualquier mecanismo o modalidad, y convendrán los términos para la ejecución del programa.
 
-4. Para salvaguardar el principio de imparcialidad que debe regir los procesos electorales, en los ejercicios fiscales en que se lleve a cabo la renovación de la titularidad del Poder Ejecutivo del Estado de Jalisco, los recursos del fondo se destinarán a programas dirigidos a educación básica, priorizando los que tengan por objeto infraestructura y equipamiento de escuelas públicas.
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2026)</small>
+
+4. En los ejercicios fiscales en que se lleve a cabo la renovación de la titularidad del Poder Ejecutivo del Estado de Jalisco y de los Ayuntamientos, la entrega que señala el numeral 1 del presente artículo, deberá ajustarse al principio de imparcialidad que debe regir los procesos electorales.
 
 ## Título Décimo. De la corresponsabilidad social en el proceso educativo
 
@@ -2818,3 +2834,23 @@ P.O. 21 DE OCTUBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 29855/LXIV/25 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO, DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO, Y DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES EN EL ESTADO DE JALISCO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 7 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 30134/LXIV/26 DEL CONGRESO DEL ESTADO, QUE REFORMA EL ARTÍCULO 142, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO, SE REFORMA EL ARTÍCULO 10 DE LA LEY ORGÁNICA DE LA AGENCIA ESTATAL DE ENTRETENIMIENTO DE JALISCO, Y SE REFORMA EL ARTÍCULO 10 DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 7 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 30124/LXIV /26 DEL CONGRESO DEL ESTADO QUE ADICIONA UN PÁRRAFO SEGUNDO Y RECORRE EN EL ORDEN EL PÁRRAFO SUBSECUENTE DEL ARTÍCULO 28 DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco''.
+
+SEGUNDO. Las personas titulares del Ejecutivo y de la Secretaría de Educación del Estado de Jalisco, emitirán y adecuarán los reglamentos, acuerdos, lineamientos y demás disposiciones de carácter general conforme a lo establecido en la presente Ley, en un plazo no mayor a ciento ochenta días hábiles contados a partir de la entrada en vigor del presente decreto.
+
+P.O. 7 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 30127/LXIV/26 DEL CONGRESO DEL ESTADO SE REFORMA EL ARTÍCULO 124 BIS DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
