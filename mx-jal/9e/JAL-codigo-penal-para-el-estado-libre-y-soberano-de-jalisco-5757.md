@@ -4,7 +4,7 @@ identifier: "JAL-codigo-penal-para-el-estado-libre-y-soberano-de-jalisco-5757"
 country: "mx"
 rank: "codigo"
 publication_date: "1982-09-02"
-last_updated: "2025-11-25"
+last_updated: "2026-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el jueves 2 de septiembre de 1982.
 
@@ -1977,15 +1977,15 @@ Si en las investigaciones o en cualquier etapa del procedimiento se desprende qu
 
 Se impondrán de dos a cinco años de prisión y multa por el importe de cien a mil veces el valor diario de la Unidad de Medida y Actualización al que deliberadamente dedique o dé en comodato o arrendamiento cualquier bien mueble o inmueble para ser destinada (sic) al comercio carnal.
 
-> <small>(REFORMADA SU NUMERACIÓN [ANTES CAPÍTULO IV], P.O. 30 DE ENERO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE MARZO DE 2026)</small>
 
-### CAPITULO III. Provocación de un Delito y Apología de éste o de Algún Vicio
+### CAPITULO III. Inducción a cometer un Delito o Apología de éste o de algún vicio
+
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2026)</small>
 
 ###### Art. 142.
 
-Se impondrán de uno a seis meses de prisión al que provoque públicamente a cometer algún delito o haga apología de éste o de algún vicio, si el delito no se ejecutare; si se ejecuta se aplicará al provocador la sanción que le corresponda por su participación en el delito cometido.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 15 DE SEPTIEMBRE DE 2011)</small>
+Se impondrán de seis meses a un año de prisión y multa de treinta a sesenta veces el valor diario de la Unidad de Medida y Actualización al que induzca públicamente o en espectáculo público a cometer algún delito o haga apología de éste o de algún tipo de vicio, si el delito no se ejecutare; si se ejecuta se aplicará al provocador la sanción que le corresponda por su participación en el delito cometido.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE ENERO DE 2007)</small>
 
@@ -7418,3 +7418,9 @@ P.O. 25 DE NOVIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29869/LXIV/25 DEL CONGRESO DEL ESTADO, QUE REFORMA EL ARTÍCULO 92 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 7 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 30134/LXIV /26 DEL CONGRESO DEL ESTADO, QUE REFORMA EL ARTÍCULO 142, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE JALISCO, SE REFORMA EL ARTÍCULO 10 DE LA LEY ORGÁNICA DE LA AGENCIA ESTATAL DE ENTRETENIMIENTO DE JALISCO, Y SE REFORMA EL ARTÍCULO 10 DE LA LEY DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE JALISCO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco"
