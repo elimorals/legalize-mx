@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-entidades-paraestatales-del-estado-de-jalisco-164644"
 country: "mx"
 rank: "ley"
 publication_date: "2023-02-23"
-last_updated: "2023-03-15"
+last_updated: "2026-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=164644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "JAL"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 15 DE MARZO DE 2023 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 14 DE MARZO DE 2023.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2026.
 
 Ley publicada en el Número 35 de la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 23 de febrero de 2023. (REPUBLICADA EN EL P.O. 14 DE MARZO DE 2023).
 
@@ -301,13 +299,23 @@ III. Dejar registro audiovisual de la sesión y sus acuerdos.
 
 1. La titularidad de los Organismos recae en una figura a la que genéricamente se le denomina Dirección General, cuya titularidad será designada y removida libremente por el Gobernador del Estado, excepto cuando se establezca una situación especial en la Ley o Decreto de creación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2026)</small>
+
 ###### Artículo 22.
 
-1. La persona que sea designada como titular de la Dirección General deberá cumplir con los siguientes requisitos:
+La persona que sea designada como titular de la Dirección General deberá cumplir con los siguientes requisitos:
 
-I. Ser ciudadano o ciudadana mexicana, en ejercicio de sus derechos civiles y políticos; y
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2026)</small>
 
-II. Contar con título profesional, preferentemente en la materia que se trate, o cuente con experiencia en la misma al momento de su designación.
+I. Ser ciudadano o ciudadana mexicana, en ejercicio de sus derechos civiles y políticos;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2026)</small>
+
+II. Contar con título profesional, preferentemente en la materia que se trate, o cuente con experiencia en la misma al momento de su designación; y
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2026)</small>
+
+III. No tener sentencia condenatoria que haya causado estado por delitos de violencia contra las mujeres por razón de género; ni tener inscripción en el Registro Nacional de Obligaciones Alimentarias, o en su caso, demostrar que ha pagado en su totalidad el monto del adeudo alimentario.
 
 ###### Artículo 23.
 
@@ -822,3 +830,11 @@ JUAN ENRIQUE IBARRA PEDROZA
 Secretario General de Gobierno
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 30139/LXIV/26 DEL CONGRESO DEL ESTADO, QUE REFORMA DIVERSOS ARTÍCULOS Y FRACCIONES DE LA LEY DEL GOBIERNO Y DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; Y REFORMA EL ARTÍCULO 22, FRACCIÓN II Y ADICIONA LA FRACCIÓN III DE LA LEY DE ENTIDADES PARAESTATALES, DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
