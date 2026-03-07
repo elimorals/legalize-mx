@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-gobierno-y-la-administracion-publica-municipal-del-1755
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-05"
-last_updated: "2025-07-03"
+last_updated: "2026-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17550&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2026.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el jueves 5 de octubre de 2000.
 
@@ -1053,13 +1053,23 @@ XIX. Conformar un Consejo de Participación Ciudadana Municipal como órgano aux
 
 XX. Contar con un Órgano Interno de Control quien además de las obligaciones señaladas por la normatividad en la materia promoverá el seguimiento y el combate a la Corrupción;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 3 DE JULIO DE 2025)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE MARZO DE 2026)</small>
 
-XXI. Designar a los funcionarios municipales de su competencia observando el principio de paridad de género; y
+XXI. Expedir y aplicar los reglamentos para erradicar y en su caso sancionar, la interpretación o reproducción de contenidos, imágenes, música, videos o cualquier otro similar que promueva algún delito, induzca a cualquier tipo de violencia, violencia de género, hagan apología del delito o enaltezcan a autores de hechos delictivos, lo anterior en la presentación de espectáculos públicos, artísticos o similares.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 3 DE JULIO DE 2025)</small>
+Los reglamentos municipales que regulen giros comerciales, de prestación de servicios, eventos y espectáculos públicos deberán establecer la prohibición expresa de transmitir, exhibir, exponer, interpretar y/o reproducir música, videos, imágenes u otros contenidos que promuevan cualquier tipo de violencia y/o hagan apología del delito.
 
-XXII. Las demás que les establezcan las Constituciones Federal, Estatal y demás leyes, tanto federales como locales, y reglamentos.
+Previamente a la emisión de los permisos o licencias correspondientes las solicitudes para la realización de dicho tipo de espectáculos deberán de ir acompañadas del tipo de música a interpretar o reproducir, los artistas, músicos, intérpretes, promotores, organizadores, representantes o titulares de la licencia de giro, deberán firmar una carta en la que manifiesten la obligación de abstenerse a presentar contenidos que hagan apología del delito.
+
+En caso de incumplimiento, el área específica de los ayuntamientos cuando advierta la posible comisión de un hecho que constituya apología del delito o promoción del crimen en los términos del Código Penal del Estado, deberá dar vista de inmediato al Ministerio Público.
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XXI], P.O. 7 DE MARZO DE 2026)</small>
+
+XXII. Designar a los funcionarios municipales de su competencia observando el principio de paridad de género; y
+
+> <small>(ADICIONADA, [N. DE E. REUBICADA ANTES FRACCIÓN XXII] P.O. 7 DE MARZO DE 2026)</small>
+
+XXIII. Las demás que les establezcan las Constituciones Federal, Estatal y demás leyes, tanto federales como locales, y reglamentos.
 
 > <small>(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
@@ -1473,13 +1483,19 @@ En los municipios debe haber por lo menos un juez municipal. Corresponde al Ayun
 
 El Ayuntamiento debe realizar una convocatoria a los habitantes del Municipio que deseen desempeñar el cargo de jueces municipales, y debe designar de entre éstos a los que cumplan con los requisitos para ocupar el cargo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2026)</small>
+
 ###### Artículo 57.
 
-Para ser juez municipal se requiere:
+Para ser jueza o juez municipal se requiere:
 
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2026)</small>
 
-II. Ser nativo del Municipio o haber residido en él, durante los últimos dos años, salvo el caso de ausencia motivada por el desempeño de algún cargo en el servicio público, siempre y cuando no haya sido fuera del Estado;
+I. Ser ciudadana o ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2026)</small>
+
+II. Haber nacido o residido en el Municipio, durante los últimos dos años, salvo el caso de ausencia motivada por el desempeño de algún cargo en el servicio público, siempre y cuando no haya sido fuera del Estado;
 
 III. Tener cuando menos veinticinco años cumplidos al día de su designación;
 
@@ -1489,11 +1505,21 @@ III. Tener cuando menos veinticinco años cumplidos al día de su designación;
 
 IV. Tener la siguiente escolaridad:
 
-a) En los municipios en que la población sea mayor a veinte mil habitantes, se requiere tener título profesional de Licenciado en Derecho o Abogado;
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2026)</small>
 
-b) En los municipios en que la población sea de hasta veinte mil habitantes, se requiere por lo menos, certificado en educación media superior; y
+a) En los municipios en que la población sea mayor a veinte mil habitantes, se requiere tener título profesional de licenciatura en derecho o;
 
-V. Gozar públicamente de buena reputación y reconocida honorabilidad; y no haber sido condenado en sentencia ejecutoria por delito intencional.
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2026)</small>
+
+b) En los municipios en que la población sea de hasta veinte mil habitantes, se requiere por lo menos, certificado en educación media superior;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2026)</small>
+
+V. Gozar públicamente de buena reputación y reconocida honorabilidad; y no haber tenido condena en sentencia ejecutoria por delito intencional; y
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2026)</small>
+
+VI. No tener sentencia condenatoria que haya causado estado por delitos de violencia contra las mujeres por razón de género; ni tener inscripción en el Registro Nacional de Obligaciones Alimentarias, o en su caso, demostrar que ha pagado en su totalidad el monto del adeudo alimentario.
 
 ###### Artículo 58.
 
@@ -1533,17 +1559,31 @@ Cada Municipio debe contar con un servidor público encargado de la Secretaría 
 
 Para estar a cargo de la Secretaría del Ayuntamiento se requiere:
 
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2026)</small>
 
-II. Ser nativo del Municipio o área Metropolitana correspondiente o acreditar ser vecino de aquellos cuando menos un año inmediato al día de la elección;
+I. Ser ciudadana o ciudadano mexicano en pleno ejercicio de sus derechos civiles y políticos;
 
-III. No ser pariente consanguíneo en línea recta, colateral ni por afinidad hasta el cuarto grado de algún miembro del Ayuntamiento; y
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2026)</small>
+
+II. Haber nacido en el Municipio o área Metropolitana correspondiente o acreditar tener vecindad con aquellos cuando menos un año inmediato al día de la elección;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2026)</small>
+
+III. No ser pariente consanguíneo en línea recta, colateral ni por afinidad hasta el cuarto grado de algún integrante del Ayuntamiento;
 
 IV. Tener la siguiente escolaridad:
 
-a) En los Municipios en los que el Ayuntamiento esté integrado hasta por catorce regidores, se requiere la enseñanza media superior; y
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2026)</small>
 
-b) En los Municipios en que el Ayuntamiento está integrado por más de catorce regidores, se requiere tener título profesional.
+a) En los Municipios en los que el Ayuntamiento esté integrado hasta por catorce regidurías, se requiere la enseñanza media superior;
+
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2026)</small>
+
+b) En los Municipios en que el Ayuntamiento está integrado por más de catorce regidurías, se requiere tener título profesional; y
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2026)</small>
+
+V. No tener sentencia condenatoria que haya causado estado por delitos de violencia contra las mujeres por razón de género; ni tener inscripción en el Registro Nacional de Obligaciones Alimentarias, o en su caso, demostrar que ha pagado en su totalidad el monto del adeudo alimentario.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2002)</small>
 
@@ -1591,15 +1631,15 @@ V. Pago del derecho correspondiente.
 
 En cada uno de los municipios debe haber un Tesorero o Encargado de la Hacienda Municipal, designado por el Ayuntamiento a propuesta del Presidente Municipal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 14 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2026)</small>
 
 ###### Artículo 65.
 
-El Tesorero o Encargado de la Hacienda Municipal debe reunir los siguientes requisitos:
+La persona que sea designada como titular de la Tesorería o de la Hacienda Municipal, debe reunir los siguientes requisitos:
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 2 DE OCTUBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2026)</small>
 
-I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos, y mayor de veintiún años;
+I. Ser ciudadana o ciudadano mexicano, en pleno ejercicio de sus derechos, y mayor de veintiún años;
 
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
@@ -1613,17 +1653,21 @@ a) En los municipios en los que la población sea mayor a veinte mil habitantes,
 
 b) En los municipios que la población sea menor a veinte mil habitantes, se requiere contar con licenciatura concluida en las áreas económicas, administrativas o contables con experiencia mínima de un año en dichas áreas y con experiencia mínima de un año en la materia en el servicio público.
 
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2026)</small>
+
+IV. No ser pariente consanguíneo en línea recta, colateral ni por afinidad hasta el cuarto grado de algún integrante del Ayuntamiento;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2026)</small>
+
+V. Otorgar las garantías que le señale el Ayuntamiento para responder del ejercicio de sus funciones;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2026)</small>
+
+VI. No tener sentencia condenatoria que haya causado estado por delitos de violencia contra las mujeres por razón de género; ni tener inscripción en el Registro Nacional de Obligaciones Alimentarias, o en su caso, demostrar que ha pagado en su totalidad el monto del adeudo alimentario; y
+
 > <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
 
-IV. No ser pariente consanguíneo en línea recta, colateral ni por afinidad hasta el cuarto grado de algún miembro del Ayuntamiento;
-
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
-
-V. Otorgar las garantías que le señale el Ayuntamiento para responder del ejercicio de sus funciones; y
-
-> <small>(REFORMADA, P.O. 26 DE NOVIEMBRE DE 2016)</small>
-
-VI. Las demás que señale esta Ley, otras leyes y los ordenamientos municipales expedidos para tal efecto por el Ayuntamiento.
+VII. Las demás que señale esta Ley, otras leyes y los ordenamientos municipales expedidos para tal efecto por el Ayuntamiento.
 
 > <small>(REFORMADO, P.O. 6 DE JULIO DE 2021)</small>
 
@@ -1653,11 +1697,17 @@ III. Aplicar los gastos, de acuerdo con el Presupuesto de Egresos aprobado por e
 
 IV. Las demás que señale esta Ley, otras leyes y reglamentos.
 
-(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2008) (F. DE E., P.O. 7 DE FEBRERO DE 2009)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2026)</small>
 
-Artículo 67 bis. En los ayuntamientos que sea necesario y posible de conformidad con la carga de trabajo y la capacidad presupuestal, se puede establecer la figura de gerente o coordinador de gabinete, encargado de las funciones propias de la administración y ejecución de servicios públicos que se prestan de forma ordinaria.
+Artículo 67 bis. En los ayuntamientos que sea necesario y posible de conformidad con la carga de trabajo y la capacidad presupuestal, se puede establecer la figura de titular de Gerencia o Coordinación de gabinete, encargada de las funciones propias de la administración y ejecución de los servicios públicos que se prestan de forma ordinaria.
 
-La figura a que se refiere este artículo requiere de su establecimiento en los ordenamientos municipales aplicables y en ningún caso pueden asumir las atribuciones que de conformidad al marco jurídico aplicable corresponden al Ayuntamiento, al Presidente Municipal o a los munícipes.
+> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2026)</small>
+
+Quien deberá cumplir con los mismos requisitos que esta ley establece para ocupar la Secretaría General del Ayuntamiento y los demás que señale el reglamento.
+
+> <small>(REFORMADO, P.O. 7 DE MARZO DE 2026)</small>
+
+La figura a que se refiere este artículo requiere de su establecimiento en los ordenamientos municipales aplicables y en ningún caso pueden asumir las atribuciones que de conformidad al marco jurídico aplicable correspondan al Ayuntamiento, al Presidente Municipal o a los munícipes.
 
 > <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
@@ -1671,27 +1721,49 @@ La votación para la designación del Titular del Órgano Interno del Control se
 
 En tanto se nombra al Titular del Órgano Interno de Control, el Presidente Municipal designará un encargado de éste, que podrá ser el Titular del Órgano Interno de Control de la administración saliente.
 
-> <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2026)</small>
 
-Artículo 67 quáter. El Titular del Órgano Interno de Control, debe reunir los siguientes requisitos:
+Artículo 67 quáter. La persona que sea designada como titular del Órgano Interno de Control, deberá cumplir con los siguientes requisitos:
 
-I. Ser ciudadano mexicano, por nacimiento, en pleno ejercicio de sus derechos, y mayor de 21 años;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2026)</small>
+
+I. Ser ciudadana o ciudadano mexicano, por nacimiento, en pleno ejercicio de sus derechos, y mayor de 21 años;
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2020)</small>
 
 II. Ser persona de reconocida solvencia moral, tener un modo honesto de vivir y la capacidad necesaria para desempeñar el cargo;
 
-III. Contar con licenciatura concluida, preferentemente como abogado, contador público, administrador público o carreras afines, con cédula profesional expedida y con al menos dos años de experiencia profesional;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2026)</small>
 
-IV. No ser pariente consanguíneo en línea recta, colateral ni por afinidad hasta el cuarto grado de algún miembro del Ayuntamiento;
+III. Contar con licenciatura concluida, preferentemente en derecho, contaduría pública, administración pública o carreras afines, con cédula profesional expedida y con al menos dos años de experiencia profesional;
 
-V. No ser miembro de la dirigencia estatal o municipal de un partido político, ni haber sido candidato a cargos de elección popular, en los últimos tres años previos a la designación;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2026)</small>
+
+IV. No ser pariente consanguíneo en línea recta, colateral ni por afinidad hasta el cuarto grado de algún integrante del Ayuntamiento;
+
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2026)</small>
+
+V. No ser integrante de la dirigencia estatal o municipal de un partido político, ni haber sido candidata o candidato a cargos de elección popular, en los últimos tres años previos a la designación;
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2020)</small>
 
 VI. No haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;
 
-VII. No haber sido Presidente Municipal, Regidor, Síndico, Titular de la Hacienda Municipal, o haber manejado las finanzas del municipio, por un periodo inmediato anterior;
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2026)</small>
 
-VIII. Durante el ejercicio de su encargo el Titular del Órgano Interno de Control no podrá militar o formar parte de algún partido político, ni asumir otro cargo o comisión, salvo los desempeñados en asociaciones científicas, docentes, artísticas o de beneficencia y los no remunerados; y
+VII. No haber sido Presidenta o Presidente Municipal, Regidora o Regidor, Síndica o Síndico, Titular de la Hacienda Municipal, o haber manejado las finanzas del municipio, por un periodo inmediato anterior;
 
-IX. Los demás que señale esta ley, las disposiciones legales en la materia y los ordenamientos municipales expedidos para tal efecto por el Ayuntamiento.
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2026)</small>
+
+VIII. Durante el ejercicio de su encargo la persona titular del Órgano Interno de Control no podrá militar o formar parte de algún partido político, ni asumir otro cargo o comisión, salvo los desempeñados en asociaciones científicas, docentes, artísticas o de beneficencia y los no remunerados;
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2026)</small>
+
+IX. No tener sentencia condenatoria que haya causado estado por delitos de violencia contra las mujeres por razón de género; ni tener inscripción en el Registro Nacional de Obligaciones Alimentarias, o en su caso, demostrar que ha pagado en su totalidad el monto del adeudo alimentario; y
+
+> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2020)</small>
+
+X. Los demás que señale esta ley, las disposiciones legales en la materia y los ordenamientos municipales expedidos para tal efecto por el Ayuntamiento.
 
 > <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2020)</small>
 
@@ -3546,3 +3618,17 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Para el debido cumplimiento de este Decreto, los Ayuntamientos deberán aplicar el principio de paridad de forma progresiva y gradual a partir de las nuevas designaciones y nombramientos que correspondan de conformidad con las disposiciones jurídicas aplicables, teniendo las calidades que establezca la ley a quiénes tomen posesión de su encargo, en términos de las atribuciones y obligaciones necesarias para garantizar los derechos derivados del presente Decreto.
 
 TERCERO. La entrada en vigor del presente decreto no menoscabará o afectará la estabilidad laboral y demás condiciones de trabajo y respetará los derechos laborales adquiridos de los servidores públicos.
+
+P.O. 7 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 30131/LXIV /26 DEL CONGRESO DEL ESTADO, QUE REFORMA LAS FRACCIONES XXI, XXII Y SE ADICIONA LA FRACCIÓN XXIII DEL ARTÍCULO 37 DE LA LEY DEL GOBIERNO Y LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Los Ayuntamientos deberán de realizar las correspondientes modificaciones a su normatividad en un término no mayor a 90 días naturales.
+
+P.O. 7 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 30139/LXIV/26 DEL CONGRESO DEL ESTADO, QUE REFORMA DIVERSOS ARTÍCULOS Y FRACCIONES DE LA LEY DEL GOBIERNO Y DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL DEL ESTADO DE JALISCO; Y REFORMA EL ARTÍCULO 22, FRACCIÓN II Y ADICIONA LA FRACCIÓN III DE LA LEY DE ENTIDADES PARAESTATALES, DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
