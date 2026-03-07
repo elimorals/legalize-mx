@@ -4,7 +4,7 @@ identifier: "JAL-ley-que-establece-las-bases-para-el-otorgamiento-de-premios-389
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-27"
-last_updated: "2024-03-09"
+last_updated: "2026-03-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY QUE ESTABLECE LAS BASES PARA EL OTORGAMIENTO DE PREMIOS Y CONDECORACIONES EN EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2026.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 27 de diciembre de 2003.
 
@@ -111,21 +111,31 @@ IV. Secretaría de la Hacienda Pública;
 
 V. Secretaría de Medio Ambiente y Desarrollo Territorial;
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2019)</small>
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2026)</small>
 
-VI. Congreso del Estado de Jalisco, a través de la presidencia de la Comisión Legislativa de Educación, Cultura y Deporte;
+VI. Secretaría de Agricultura y Desarrollo Rural;
 
-> <small>(REFORMADA, P.O. 11 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2026)</small>
 
-VII. Benemérita Universidad de Guadalajara;
+VII. Congreso del Estado de Jalisco, a través de la presidencia de la Comisión Legislativa de Educación, Cultura y Deporte y Juventud;
 
-VIII. Consejo Estatal para el Fomento Deportivo y Apoyo a la Juventud;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE MARZO DE 2026)</small>
 
-IX. Consejo Estatal para la Cultura y las Artes;
+VIII. Benemérita Universidad de Guadalajara;
 
-X. Consejo Estatal de Ciencia y Tecnología;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE MARZO DE 2026)</small>
 
-XI. (DEROGADA, P.O. 29 DE AGOSTO DE 2019); y
+IX. Consejo Estatal para el Fomento Deportivo y Apoyo a la Juventud;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 7 DE MARZO DE 2026)</small>
+
+X. Consejo Estatal para la Cultura y las Artes;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE MARZO DE 2026)</small>
+
+XI. Consejo Estatal de Ciencia y Tecnología:
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 7 DE MARZO DE 2026)</small>
 
 XII. La Federación de Colegios de Profesionistas de Jalisco.
 
@@ -219,13 +229,17 @@ V. Laboral: a quienes por su antigüedad, franqueza, enseñanza desinteresada, c
 
 VI. Científico: a quien haya realizado estudios, descubrimientos, aportaciones o propuestas, producto de investigaciones en cualquier campo de las ciencias; así como proyectos o trabajos creativos que modifiquen o desarrollen el campo tecnológico, que se consideren como probada aportación a la ciencia y tecnología, y cuya conducta sea un ejemplo de fidelidad a su vocación científica;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2026)</small>
 
-VII. Deportivo: a quien se haya destacado por su esfuerzo y alto rendimiento en competencias nacionales o internacionales o cuya conducta deportiva constituya un ejemplo a seguir, y
+VII. Deportivo: a quien se haya destacado por su esfuerzo y alto rendimiento en competencias nacionales o internacionales o cuya conducta deportiva constituya un ejemplo a seguir;
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2016)</small>
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2026)</small>
 
-VIII. Ambiental: a las personas físicas o jurídicas no gubernamentales que se hayan destacado en la preservación, restauración y conservación del equilibrio ecológico, forestal, biodiversidad, desarrollo urbano sustentable, territorial; por el fomento y desarrollo de buenas prácticas ambientales que hayan contribuido al aprovechamiento de las potencialidades ambientales o la protección, conservación y mejoramiento del medio ambiente; o por su esfuerzo y dedicación en los estudios, descubrimientos de insumos en el mejoramiento ambiental y desarrollo sustentable, o por sus aportaciones en materia de acción ante el cambio climático.
+VIII. Ambiental: a las personas físicas o jurídicas no gubernamentales que se hayan destacado en la preservación, restauración y conservación del equilibrio ecológico, forestal, biodiversidad, desarrollo urbano sustentable, territorial; por el fomento y desarrollo de buenas prácticas ambientales que hayan contribuido al aprovechamiento de las potencialidades ambientales o la protección, conservación y mejoramiento del medio ambiente; o por su esfuerzo y dedicación en los estudios, descubrimientos de insumos en el mejoramiento ambiental y desarrollo sustentable, o por sus aportaciones en materia de acción ante el cambio climático; y
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2026)</small>
+
+IX. Agropecuario: a quienes se hayan destacado en realizar actividades o proyectos productivos en el sector, cuyo impacto contribuya a la sustentabilidad, bienestar social o económico en sus comunidades, municipios o el Estado.
 
 ###### Artículo 18.
 
@@ -245,13 +259,17 @@ V. Científico: a quien haya realizado estudios, descubrimientos, aportaciones o
 
 VI. Académico: a los jóvenes, cuya dedicación y entrega al estudio provoquen la admiración y constituyan un ejemplo para los estudiantes;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE MARZO DE 2024)</small>
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2026)</small>
 
-VII. Deportivo: a quien haya destacado por su esfuerzo y alto rendimiento en competencias nacionales o internacionales, o cuya conducta deportiva constituya un ejemplo a seguir; e
+VII. Deportivo: a quien haya destacado por su esfuerzo y alto rendimiento en competencias nacionales o internacionales, o cuya conducta deportiva constituya un ejemplo a seguir;
 
-> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2024)</small>
+> <small>(REFORMADA, P.O. 7 DE MARZO DE 2026)</small>
 
-VIII. Igualdad de género y diversidad sexual: a quienes con su labor contribuyan a transversalizar la perspectiva de género en los ámbitos sociales, políticos, culturales o económicos y/o; a quienes promueven estratégicamente la inclusión, no discriminación y el respeto de todas las posibilidades que tienen las personas de asumir, expresar y vivir su sexualidad, orientación sexual e identidad o expresión de género.
+VIII. Igualdad de género y diversidad sexual: a quienes con su labor contribuyan a transversalizar la perspectiva de género en los ámbitos sociales, políticos, culturales o económicos y/o; a quienes promueven estratégicamente la inclusión, no discriminación y el respeto de todas las posibilidades que tienen las personas de asumir, expresar y vivir su sexualidad, orientación sexual e identidad o expresión de género; y
+
+> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2026)</small>
+
+IX. Agropecuario: a quienes se hayan destacado en realizar actividades o proyectos productivos en el sector, cuyo impacto contribuya a la sustentabilidad, bienestar social o económico en sus comunidades, municipios o el Estado.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 2016)</small>
 
@@ -552,3 +570,11 @@ P.O. 9 DE MARZO DE 2024.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial "El Estado de Jalisco".
 
 SEGUNDO. El premio materia del presente decreto se instituirá a partir de la edición El Premio Estatal a la Juventud Jalisco 2023.
+
+P.O. 7 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 30125/LXIV/26 DEL CONGRESO DEL ESTADO (SIC) SE REFORMAN Y ADICIONAN LOS ARTÍCULOS 9, 17 Y 18 DE LA LEY QUE ESTABLECE LAS BASES PARA EL OTORGAMIENTO DE PREMIOS Y CONDECORACIONES EN EL ESTADO DE JALISCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico oficial "El Estado de Jalisco".
+
+SEGUNDO. En caso de no contar con suficiencia presupuestal para el ejercicio fiscal 2026, los premios materia del presente decreto, se instituirán en el ejercicio inmediato posterior.
