@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-asentamientos-humanos-ordenamiento-territorial-y-124616"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-27"
-last_updated: "2025-05-19"
+last_updated: "2026-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2026.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nuevo León, el lunes 27 de noviembre de 2017.
 
@@ -3431,7 +3431,9 @@ f) Los señalamientos viales verticales o anuncios deberán tener un pedestal m�
 
 g) Los árboles nativos que se planten sobre las aceras deberán tener un diámetro mínimo de 5 centímetros medidos a 1.00 metro de altura y el tallo recto deberá tener una altura mínima de 2.40 metros libres de follaje. El responsable del mantenimiento deberá realizar poda formativa anualmente durante el invierno, hasta que los tallos alcancen una altura de 5.00 metros libres de follaje;
 
-h) No estará permitida ninguna obstrucción u obstáculo sobre la ciclovía o la peatonvía;
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2026)</small>
+
+h) No estará permitida ninguna obstrucción u obstáculo sobre la ciclovía, la acera o la peatonvía; salvo autorización expresa de la autoridad municipal, con base en esta Ley o sus reglamentos;
 
 i) El nivel acabado de la acera será 0.15 metros arriba de la calzada, más una pendiente transversal ascendente del 1.0% al 2.0% hasta el límite de propiedad y su desarrollo será paralelo al diseño de la calzada; y
 
@@ -4603,7 +4605,9 @@ Las autoridades o los particulares que pretendan llevar a cabo una obra de const
 
 I. Sujetarse a los planes y programas de desarrollo urbano y la zonificación establecida en los mismos;
 
-II. Respetar los alineamientos de las vías públicas o de comunicación con su anchura correspondiente o prevista, quedando prohibida la obstrucción de esas vías, así como la de cauces pluviales y cañadas;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2026)</small>
+
+II. Respetar los alineamientos de las vías públicas o de comunicación, así como su anchura correspondiente o prevista, quedando prohibida la obstrucción de dichas vías, cauces pluviales, cañadas y demás espacios destinados al libre tránsito peatonal, por cualquier objeto o elemento que no esté contemplado dentro de esta Ley;
 
 III. Sujetarse a la densidad y los coeficientes de ocupación y utilización del suelo tal y como aparezcan en el plan o programa de desarrollo urbano aplicable;
 
@@ -7784,3 +7788,11 @@ P.O. 19 DE MAYO DE 2025.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- A efecto de que los municipios del Estado cumplan con lo establecido en el artículo 176 del presente decreto, la Secretaría en un plazo de 180 días hábiles siguientes a su entrada en vigor emitirá los lineamientos de coordinación, asistencia técnica y presupuestal.
+
+P.O. 9 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 189. SE REFORMAN EL INCISO H) DE LA FRACCIÓN XIV DEL ARTÍCULO 169 Y LA FRACCIÓN II DEL ARTÍCULO 237 DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto, entrará en vigor el día siguiente al de su publicación.
+
+SEGUNDO.- Los ayuntamientos del Estado deberán adecuar sus reglamentos municipales, dentro de un plazo no mayor de 90-noventa días naturales contados a partir de la entrada en vigor del presente Decreto.
