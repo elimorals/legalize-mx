@@ -4,7 +4,7 @@ identifier: "TAM-ley-estatal-de-mejora-regulatoria-para-tamaulipas-y-sus-166643"
 country: "mx"
 rank: "ley"
 publication_date: "2023-06-08"
-last_updated: "2023-08-23"
+last_updated: "2026-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY ESTATAL DE MEJORA REGULATORIA PARA TAMAULIPAS Y SUS MUNICIPIOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NO. 66-996 MEDIANTE EL CUAL SE ABROGA LA LEY ESTATAL DE MEJORA REGULATORIA PARA TAMAULIPAS Y SUS MUNICIPIOS, PUBLICADO EN EL P.O. DE 9 DE MARZO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ESTATAL DE MEJORA REGULATORIA PARA TAMAULIPAS Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2026 (ABROGADA).
 
 Ley publicada en el Anexo al Número 69 del Periódico Oficial del Estado de Tamaulipas, el jueves 8 de junio de 2023.
 
@@ -1484,3 +1486,27 @@ P.O. 23 DE AGOSTO DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir de su expedición y será publicado inmediatamente en el Periódico Oficial del Estado.
+
+P.O. 9 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-996 MEDIANTE EL CUAL SE ABROGA LA LEY ESTATAL DE MEJORA REGULATORIA PARA TAMAULIPAS Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interno del Consejo Estatal de Mejora Regulatoria y cualquier otra disposición de igual o inferior jerarquía que se oponga al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las referencias hechas en disposiciones estatales y municipales a la “Ley Estatal de Mejora Regulatoria”, al “Consejo Estatal de Mejora Regulatoria”, o a instrumentos derivados, se entenderán hechas a la Ley Nacional para Eliminar Trámites Burocráticos y a las autoridades competentes en materia de simplificación y digitalización previstas en el orden federal y estatal.
+
+###### ARTÍCULO CUARTO.
+
+Los asuntos que a la entrada en vigor de este Decreto se encuentren pendientes de resolver ante las autoridades estatales de Mejora Regulatoria continuarán a cargo de la respectiva Autoridad Local de Simplificación y Digitalización, y deberán resolverse conforme a las disposiciones jurídicas vigentes al momento de su inicio.
+
+###### ARTÍCULO QUINTO.
+
+Los sujetos obligados deberán sujetarse al plazo establecido en el artículo transitorio décimo tercero de la Ley Nacional para Eliminar Trámites Burocráticos, a efecto de derogar las disposiciones legales, así como dejar sin efectos las normas reglamentarias y administrativas locales que se opongan a dicha Ley.
