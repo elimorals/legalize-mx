@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2026-02-24"
+last_updated: "2026-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2026.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -3303,6 +3303,18 @@ El Congreso podrá ordenar el acceso del público a las galerías mediante tarje
 
 3. En la página oficial electrónica del Congreso del Estado, se establecerá un buzón digital que estará permanentemente al servicio de la ciudadanía para recibir propuestas, opiniones y sugerencias con relación a las iniciativas presentadas que se encuentren pendientes de dictaminar, de las cuales se hará entrega para su conocimiento con el carácter de material informativo a las y los Diputados integrantes de las comisiones dictaminadoras del asunto al que se refieran, o de la diputación permanente en su caso. Este espacio de participación ciudadana se establece sin demérito de los mecanismos de parlamento abierto considerados en este artículo. El Presidente de la Mesa Directiva procurará su difusión y promoción entre la ciudadanía de todo el Estado.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 9 DE MARZO DE 2026)</small>
+
+### CAPÍTULO NOVENO. DEL CONGRESO TAMAULIPECO DE LAS PERSONAS JÓVENES
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 169.
+
+1. El Congreso del Estado promoverá la creación y funcionamiento del Congreso Tamaulipeco de las Personas Jóvenes, conforme a los principios que lo rigen y con especial énfasis en la participación activa de la juventud. En el ejercicio de sus atribuciones, las Diputadas y los Diputados fomentarán su integración, inclusión y desarrollo.
+
+2. Para el desarrollo y funcionamiento del Congreso Tamaulipeco de las Personas Jóvenes el Congreso del Estado se sujetará a lo establecido en el Título Sexto Bis de la Ley de los Derechos de las Personas Jóvenes del Estado de Tamaulipas, con el objeto de promover, incentivar y garantizar la participación de las juventudes en los asuntos públicos de sus comunidades.
+
 ## TRANSITORIOS
 
 ###### ARTICULO PRIMERO.
@@ -4434,3 +4446,11 @@ El presente Decreto entrará en vigor a partir de su aprobación y deberá publi
 ###### ARTÍCULO SEGUNDO.
 
 Las iniciativas presentadas con anterioridad a la entrada en vigor del presente Decreto se tramitarán conforme a las disposiciones vigentes al momento de su presentación.
+
+P.O. 9 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-992 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE TAMAULIPAS; Y DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado, con excepción de las reformas realizadas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas, las cuales surtirán efectos a partir de su aprobación.
