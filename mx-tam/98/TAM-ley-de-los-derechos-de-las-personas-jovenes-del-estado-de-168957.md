@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-jovenes-del-estado-de-16895
 country: "mx"
 rank: "ley"
 publication_date: "2023-12-21"
-last_updated: "2026-02-12"
+last_updated: "2026-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2026.
 
 Ley publicada en el Anexo del Número 153 del Periódico Oficial del Estado de Tamaulipas, el jueves 21 de diciembre de 2023.
 
@@ -579,9 +579,17 @@ Son instrumentos para la conformación de la Política de Tamaulipas en materia 
 
 I. El Sistema para el desarrollo de las Juventudes;
 
-II. El Consejo Tamaulipeco de la Juventud; y
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2026)</small>
 
-III. El Programa Estatal de la Juventud.
+II. El Consejo Tamaulipeco de la Juventud;
+
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2026)</small>
+
+III. El Programa Estatal de la Juventud; y
+
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2026)</small>
+
+IV. El Congreso Tamaulipeco de las Personas Jóvenes.
 
 ###### ARTÍCULO 72.
 
@@ -1167,13 +1175,63 @@ El Programa deberá ser elaborado y actualizado cada tres años, en el que se to
 
 El Instituto generará los mecanismos necesarios para la participación del Estado en programas federales, para el financiamiento de proyectos juveniles, promoviendo la creación de un Fondo con la participación de los sectores social y privado.
 
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE MARZO DE 2026)</small>
+
+## TÍTULO SEXTO BIS. DEL CONGRESO TAMAULIPECO DE LAS PERSONAS JÓVENES
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE MARZO DE 2026)</small>
+
+### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2026)</small>
+
+ARTÍCULO 115 BIS. Se establece el Congreso Tamaulipeco de las Personas Jóvenes con el propósito de brindar a las juventudes del Estado, un espacio de análisis y expresión en el cual puedan dar a conocer sus propuestas para mejorar el marco normativo estatal, así como promover cualquier otra acción legislativa que consideren necesaria deba realizarse por el Poder Legislativo del Estado.
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2026)</small>
+
+ARTÍCULO 115 TER. El Congreso Tamaulipeco de las Personas Jóvenes, se llevará a cabo dentro del Segundo Periodo Ordinario de Sesiones de cada año de ejercicio constitucional de la Legislatura del Estado, en la sede del Poder Legislativo del Estado de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2026)</small>
+
+ARTÍCULO 115 QUATER. La Legislatura del Estado, a través de las Comisiones de Participación Ciudadana y de Niñez, Adolescencia y Juventud, tendrán la responsabilidad de organizar y llevar a cabo el Congreso Tamaulipeco de las Personas Jóvenes.
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2026)</small>
+
+ARTÍCULO 115 QUINQUIES. Las y los participantes del Congreso Tamaulipeco de las Personas Jóvenes, serán las y los jóvenes que cumplan con los requisitos que se estipulen en la convocatoria que emitan las Comisiones de Participación Ciudadana y de Niñez, Adolescencia y Juventud del Congreso del Estado de Tamaulipas.
+
+La selección de las y los jóvenes será representativa de cada uno los Municipios del Estado y cada uno de los Distritos Electorales. Podrán ser seleccionados las y los jóvenes que no hayan tenido la calidad de congresistas propietarios anteriormente. No podrán participar las y los servidores públicos de los tres órdenes de gobierno, ni órganos autónomos.
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2026)</small>
+
+ARTÍCULO 115 SEXIES. Las Comisiones emitirán la convocatoria correspondiente hasta un mes y medio antes de la fecha de celebración del Congreso Tamaulipeco de las Personas Jóvenes, la cual se hará de conocimiento público. Las Comisiones, las autoridades municipales y el Congreso del Estado darán publicidad a la convocatoria.
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2026)</small>
+
+ARTÍCULO 115 SEPTIES. Las y los participantes de los Municipios del Estado deberán presentar una propuesta legislativa que será recibida por las Comisiones de Participación Ciudadana y de Niñez, Adolescencia y Juventud, de manera directa o mediante correo electrónico. Todas las actuaciones que realicen las Comisiones deberán ser públicas y transmitirse a través de los medios oficiales del Poder Legislativo. Las Comisiones garantizarán la paridad de género. Los casos no previstos en la Ley, se resolverán a través de las Comisiones.
+
+La convocatoria establecerá el mecanismo de selección.
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2026)</small>
+
+ARTÍCULO 115 OCTIES. Una vez concluido el Congreso Tamaulipeco de las Personas Jóvenes, el Instituto de Investigaciones Parlamentarias del Congreso del Estado, realizará el análisis de todas las propuestas, a fin de establecer la viabilidad de su incorporación al trabajo legislativo. Los análisis de viabilidad deberán estar fundados y motivados, incluyendo los considerados no viables.
+
+El Instituto de Investigaciones Parlamentarias pondrá a consideración de las comisiones las propuestas y el análisis de viabilidad correspondiente en un término no mayor de tres meses.
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2026)</small>
+
+ARTÍCULO 115 NONIES. La conformación de la Mesa Directiva del Congreso Tamaulipeco de las Personas Jóvenes y el desarrollo de la Sesión correspondiente, se hará en lo conducente en términos de lo dispuesto por la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2026)</small>
+
+ARTÍCULO 115 DECIES. Cada uno de las y los participantes del Congreso Tamaulipeco de las Personas Jóvenes, obtendrá un reconocimiento de la Legislatura, por la distinción de haber formado parte de la vida política de su Estado.
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2026)</small>
+
+ARTÍCULO 115 UNDECIES. En todo lo no previsto por este título, se atenderá a lo dispuesto por el marco normativo del Poder Legislativo del Estado y las bases y lineamientos que establezca la convocatoria emitida por las Comisiones.
+
 ## TÍTULO SÉPTIMO. DEL INSTITUTO DE LA JUVENTUD DE TAMAULIPAS
 
 ### CAPÍTULO I. DE LA NATURALEZA DEL INSTITUTO
-
-## TÍTULO OCTAVO. DE LOS MUNICIPIOS PARA CON LAS JUVENTUDES
-
-### CAPÍTULO II. DEL PATRIMONIO DEL INSTITUTO
 
 ###### ARTÍCULO 116.
 
@@ -1187,7 +1245,7 @@ La juventud del Estado de Tamaulipas tiene el derecho de participar en los plane
 
 El Instituto administrará y dispondrá libremente de su patrimonio para el cumplimiento de su objeto, en términos de las disposiciones legales aplicables a los organismos descentralizados.
 
-### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDADES DE LOS MUNICIPIOS EN MATERIA DE JUVENTUD
+### CAPÍTULO II. DEL PATRIMONIO DEL INSTITUTO
 
 ###### ARTÍCULO 119.
 
@@ -1202,6 +1260,10 @@ III. Los demás bienes y activos que determine su Decreto de creación.
 ###### ARTÍCULO 120.
 
 El Instituto administrará y dispondrá libremente de su patrimonio para el cumplimiento de su objeto, en términos de las disposiciones legales aplicables a los organismos descentralizados.
+
+## TÍTULO OCTAVO. DE LOS MUNICIPIOS PARA CON LAS JUVENTUDES
+
+### CAPÍTULO ÚNICO. DE LAS RESPONSABILIDADES DE LOS MUNICIPIOS EN MATERIA DE JUVENTUD
 
 ###### ARTÍCULO 121.
 
@@ -1336,3 +1398,11 @@ El Tribunal de Justicia Administrativa del Estado de Tamaulipas, a través de su
 ###### ARTÍCULO TERCERO.
 
 En las disposiciones transitorias de las diversas leyes y códigos en las que se haga referencia a la Contraloría Gubernamental, se entenderá la Secretaría Anticorrupción y Buen Gobierno.
+
+P.O. 9 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-992 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE TAMAULIPAS; Y DE LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado, con excepción de las reformas realizadas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas, las cuales surtirán efectos a partir de su aprobación.
