@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-movilidad-del-estado-de-tamaulipas-165827"
 country: "mx"
 rank: "ley"
 publication_date: "2023-04-27"
-last_updated: "2025-06-03"
+last_updated: "2026-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE MOVILIDAD DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2026.
 
 Ley publicada en el Anexo al Número 51 del Periódico Oficial del Estado de Tamaulipas, el jueves 27 de abril de 2023.
 
@@ -775,7 +775,11 @@ VIII. Diseñar y ejecutar las vías de comunicación de su competencia con inclu
 
 IX. Considerar la infraestructura y el equipamiento vial de los centros de población, a través de los planes y programas de desarrollo urbano que les corresponda sancionar y aplicar;
 
-X. Promover en coordinación con la Secretaría, en su competencia territorial, la instalación de los espacios destinados para la ubicación de estacionamiento, ascenso y descenso exclusivo de personas con discapacidad, en lugares preferentes y de fácil acceso a los edificios o espacios públicos, particulares o de gobierno, cuyo uso esté destinado o implique la concurrencia del público en general;
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2026)</small>
+
+X. Promover en coordinación con la Secretaría, en su competencia territorial, la instalación de los espacios destinados para la ubicación de estacionamiento, ascenso y descenso exclusivo de personas con discapacidad, en lugares preferentes y de fácil acceso a los edificios o espacios públicos, particulares o de gobierno, cuyo uso esté destinado o implique la concurrencia del público en general.
+
+Se procurará que, progresivamente, todas las entradas a lugares y espacios públicos que cuenten con estacionamiento dispongan de cajones ubicados lo más cerca posible a las entradas principales con un acceso fácil y rápido para las personas con discapacidad o con movilidad limitada, los cuales serán identificados con el pictograma que corresponda. Las nuevas construcciones deberán garantizar estas características;
 
 XI. Solicitar en su caso a la Secretaría asesoría y apoyo para realizar los estudios técnicos y acciones en materia de movilidad, en el ámbito de su competencia;
 
@@ -1774,3 +1778,11 @@ La Secretaría de Seguridad Pública del Estado de Tamaulipas, contará con 180 
 ###### ARTÍCULO TERCERO.
 
 La Secretaría de Seguridad Pública del Estado de Tamaulipas, contará con 120 días naturales contados a partir de la publicación del presente decreto en el Periódico Oficial del Estado, para diseñar y desarrollar los planes y programas en materia de seguridad vial.
+
+P.O. 9 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 66-995 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 29 DE LA LEY DE MOVILIDAD DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
