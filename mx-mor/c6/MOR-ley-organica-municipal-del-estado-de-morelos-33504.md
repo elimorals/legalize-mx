@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2025-11-12"
+last_updated: "2026-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -2285,9 +2285,15 @@ VIII. Participar y coadyuvar en la prevención, atención y erradicación de la 
 
 IX. Llevar a cabo, de acuerdo con el Sistema Nacional de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres, programas de información a la población respecto de la violencia contra las mujeres;
 
-X. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2026)</small>
 
-XI. La atención de los demás asuntos que en materia de violencia contra las mujeres que les conceda esta ley u otros ordenamientos legales.
+X. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2026)</small>
+
+XI. En coordinación con las Secretarías de Seguridad y Protección Ciudadana y de las Mujeres, ambas del Poder Ejecutivo Estatal, se deberán implementar programas de capacitación en materia de defensa personal para las mujeres, y
+
+XII. La atención de los demás asuntos que en materia de violencia contra las mujeres que les conceda esta ley u otros ordenamientos legales.
 
 ### CAPÍTULO IV. DE LA OFICIALÍA DEL REGISTRO CIVIL
 
@@ -2462,6 +2468,34 @@ IX. Informar al Ayuntamiento, los casos de niñas y niños que no se encuentren 
 > <small>(ADICIONADA, P.O. 15 DE AGOSTO DE 2012)</small>
 
 X. Todas aquellas que esta Ley, los bandos, reglamentos y el propio Ayuntamiento determinen.
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2026)</small>
+
+###### Artículo 102 Bis.
+
+Las personas autoridades auxiliares solo podrán realizar las atribuciones establecidas en la ley; sin embargo, se enlistan las prohibiciones expresas, siguientes:
+
+I. Constituirse en fedatarios, apoderados, inspectores, actuarios, árbitros, investirse de facultades o usurpar funciones otorgadas expresamente a las personas integrantes de los ayuntamientos, así como de las personas servidoras públicas municipales;
+
+II. Autorizar concesiones, permisos, refrendos, comodatos, licencias de funcionamiento, de construcción, de venta de bebidas alcohólicas, de ventas de alcohol en vía pública; así como expedir y autorizar permisos relativos a la seguridad pública, protección civil y tránsito municipal;
+
+III. Expedir recibos, resguardar valores, cobrar contribuciones municipales, autorizar obra pública y celebrar contratos de colaboración público privada;
+
+IV. Celebrar actos del Registro Civil, los relativos a las inhumaciones y las exhumaciones, así como constituirse en Ministerio Público;
+
+V. Expedir certificaciones o constancias de origen, de identidad, de residencia, cuando se requiera para un proceso electoral federal o local, de autoadscripción indígena la cual deberá estar avalada de acuerdo a sus usos y costumbres y libre determinación, así como alterar, modificar, ampliar, anular o ratificar las certificaciones o constancias expedidas por la Secretaria Municipal del Ayuntamiento;
+
+VI. Hacer uso indebido del sello oficial y recursos que le otorgue el Ayuntamiento, debiendo ser entregados a la conclusión de su mandato;
+
+VII. Expedir o certificar constancias de posesión sobre la tenencia de la tierra;
+
+VIII. Intervenir y tomar decisiones a nombre del Ayuntamiento en las asambleas o reuniones comunitarias;
+
+IX. Mantener detenida a persona alguna o liberar a una persona detenida por la comisión de un delito en flagrancia, y;
+
+X. Las demás que señale esta ley y otras disposiciones aplicables.
+
+En el caso de las autoridades auxiliares electas provenientes de alguna comunidad indígena, estas ejercerán sus derechos bajo el principio de libre determinación y autonomía de la comunidad que representan, por lo que las prohibiciones de este artículo no estarán por encima de sus sistemas normativos.
 
 ###### Artículo 103.
 
@@ -4796,6 +4830,28 @@ TERCERA. Se derogan todas las disposiciones de igual o menor rango que se oponga
 P.O. 12 DE NOVIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO SEISCIENTOS DOS.- POR EL QUE SE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES AL ARTÍCULO 24 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo Estatal para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 9 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO TRESCIENTOS CINCUENTA Y DOS.- POR EL QUE SE ADICIONA EL ARTÍCULO 102 BIS A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo Estatal para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Los Ayuntamientos del Estado de Morelos, en un plazo no mayor a 60 días hábiles a partir de la vigencia del presente decreto, deberán de realizar las adecuaciones a sus reglamentos respectivos.
+
+CUARTA. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+P.O. 9 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO TRESCIENTOS CINCUENTA Y CINCO POR EL QUE SE REFORMA EL ARTÍCULO 89 TER A LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS".]
 
 PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo Estatal para su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
 
