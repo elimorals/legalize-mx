@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2026-02-27"
+last_updated: "2026-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -3427,6 +3427,12 @@ A los responsables, encargados, empleados o dependientes de una botica o farmaci
 
 Se impondrá una sanción de dos a seis años de prisión y multa de cuarenta a ochenta veces el valor diario de la Unidad de Medida y Actualización, a los que sustraigan órganos o partes del cuerpo humano sin la autorización de quien corresponda darla y sin los requisitos legales.
 
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2026)</small>
+
+ARTICULO 240 BIS.- Se le impondrá una sanción de cuatro a ocho años de prisión a quien realice un procedimiento médico quirúrgico enmarcado en el campo de la cirugía plástica en personas menores de dieciocho años de edad, exceptuando aquellos casos en los que la cirugía se encuentre justificada por dictamen médico especializado y evaluación psicológica, cuando la intervención sea necesaria para corregir malformaciones congénitas, secuelas de accidentes o anomalías fisiológicas que afecten la integridad física o psíquica del menor de edad.
+
+La sanción prevista en este artículo se incrementará hasta en una mitad más de su mínimo y máximo si el procedimiento pone en riesgo grave la vida o integridad del menor de edad.
+
 ### CAPITULO II. DELITOS DE ABOGADOS, PATRONOS Y LITIGANTES
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE FEBRERO DE 2026)</small>
@@ -4700,6 +4706,10 @@ I.- La persona que realiza la aplicación o tratamiento es profesional de la sal
 II.- La víctima quede con secuelas visibles permanentemente como consecuencia de la aplicación o tratamiento y afecte su calidad de vida o proyecto de vida; y
 
 III.- Se cometan en niñas, niños, adolescentes y mujeres. Los términos establecidos para la prescripción no correrán mientras persistan las secuelas nocivas para la salud de la víctima. En caso de que la víctima fallezca por la aplicación o tratamiento de las sustancias modelantes no autorizadas, se aplicarán las reglas del homicidio según corresponda.
+
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2026)</small>
+
+ARTICULO 328 UNDECIES.- Al tutor, madre, padre, representante legal o cualquier persona que autorice o promueva la realización de un procedimiento médico quirúrgico enmarcado en el campo de la cirugía plástica en personas menores de dieciocho años de edad, se le impondrá una sanción de uno a cuatro años de prisión, exceptuando aquellos casos en los que la cirugía se encuentre justificada por dictamen médico especializado y evaluación psicológica, cuando la intervención sea necesaria para corregir malformaciones congénitas, secuelas de accidentes o anomalías fisiológicas que afecten la integridad física o psíquica del menor de edad.
 
 ### CAPITULO II. HOMICIDIO
 
@@ -8216,3 +8226,15 @@ P.O. 27 DE FEBRERO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-994 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 156; Y SE ADICIONA EL ARTÍCULO 45 TER, A LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS; Y SE ADICIONAN LOS ARTÍCULOS 240 BIS; Y 328 UNDECIES, AL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Salud del Gobierno del Estado, emitirá en un plazo no mayor a 90 días naturales los lineamientos necesarios para la aplicación de lo dispuesto en el artículo 45 Ter del Artículo Primero del presente Decreto.
