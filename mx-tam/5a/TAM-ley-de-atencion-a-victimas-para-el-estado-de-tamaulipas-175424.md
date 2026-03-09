@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-atencion-a-victimas-para-el-estado-de-tamaulipas-175424"
 country: "mx"
 rank: "ley"
 publication_date: "2024-12-16"
-last_updated: "2026-02-27"
+last_updated: "2026-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175424&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2026.
 
 Ley publicada en el Extraordinario Número 40 del Periódico Oficial del Estado de Tamaulipas, el lunes 16 de diciembre de 2024.
 
@@ -1821,6 +1821,10 @@ El Reglamento precisará el funcionamiento, alcance y criterios específicos de 
 
 Para acceder a los recursos del Fondo Estatal, la víctima deberá presentar su solicitud ante la Comisión Estatal de conformidad con lo señalado por esta Ley y su Reglamento. No procederá la gestión de negocios ni la representación de la víctima ante la Comisión Estatal para el acceso al Fondo Estatal. Quien reciba la solicitud la remitirá ante la Comisión Estatal en un plazo que no podrá exceder los dos días hábiles. La determinación de la Comisión Estatal respecto a cualquier tipo de pago, compensación o reparación del daño tendrán el carácter de resolución administrativa definitiva. Contra dicha resolución procederá el juicio de amparo.
 
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2026)</small>
+
+Cuando la víctima pertenezca a un grupo en condición de vulnerabilidad, por sus características y necesidades especiales, la Comisión Estatal dictará de oficio las medidas de reparación integral, previo registro y valoración conducentes.
+
 ###### ARTÍCULO 135.
 
 En cuanto reciba una solicitud, la Comisión Estatal, integrará el expediente que servirá de base para la propuesta que se presente (sic) comité interdisciplinario evaluador para determinar el apoyo o ayuda que requiera la víctima.
@@ -2174,3 +2178,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las erogaciones que pudieran presentarse con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto correspondientes, para el ejercicio fiscal que corresponda, por lo que no se autorizarán ampliaciones a su presupuesto para el presente ejercicio fiscal ni subsecuentes.
+
+P.O. 9 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-990 MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 134, DE LA LEY DE ATENCIÓN A VÍCTIMAS PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
