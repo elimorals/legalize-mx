@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2026-02-17"
+last_updated: "2026-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -1307,6 +1307,14 @@ IV.- Esta ley y demás disposiciones aplicables.
 
 ARTICULO 45 BIS.- Las autoridades sanitarias estatales podrán solicitar a las autoridades educativas competentes la relación de títulos, diplomas y certificados del área de la salud que hayan registrado y la de cédulas profesionales expedidas, así como la información complementaria que sea necesaria.
 
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2026)</small>
+
+###### ARTICULO 45 Ter.
+
+Se prohíbe realizar procedimientos médico-quirúrgicos enmarcados en el campo de la cirugía plástica a personas menores de edad, exceptuando aquellos casos en los que la cirugía se encuentre justificada por dictamen médico especializado y evaluación psicológica, cuando la intervención sea necesaria para corregir malformaciones congénitas, secuelas de accidentes o anomalías fisiológicas que afecten la integridad física o psíquica del menor.
+
+Los profesionales de la salud, médicos, cirujanos o la institución que realice o permita tales procedimientos sin contar con el dictamen médico especializado y la evaluación psicológica respectiva, serán acreedores a sanciones administrativas establecidas en esta Ley, así como la suspensión del ejercicio profesional desde uno a cinco años y clausura temporal o definitiva del establecimiento.
+
 ###### ARTICULO 46.
 
 Quienes ejerzan las actividades profesionales, técnicas, auxiliares y las especialidades a que se refiere este capítulo, deberán tener a la vista un anuncio que indique el nombre, último grado de estudios, el título profesional, diploma o certificado de la Institución que lo expida, así como el número de cédula profesional.
@@ -2471,11 +2479,11 @@ Se sancionará con multa de hasta quinientas veces el valor diario de la Unidad 
 
 Se sancionará con multa de quinientas una hasta mil quinientas veces el valor diario de la Unidad de Medida y Actualización, la infracción de las disposiciones contenidas en los artículos 43, 68, 86, 115, 116, 119, 120 y 149 de esta ley, sin perjuicio de lo que se disponga en otros ordenamientos legales.
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 9 DE MARZO DE 2026)</small>
 
 ###### ARTICULO 156.
 
-Se sancionará con multa de mil quinientas una hasta diez mil veces el valor diario de la Unidad de Medida y Actualización, la infracción de las disposiciones contenidas en los artículos 54, 57, 69, 70, 83, 109, 103, 107, 108, 139 y 146 de esta ley, sin perjuicio de lo que se disponga en otros ordenamientos legales.
+Se sancionará con multa de mil quinientas una hasta diez mil veces el valor diario de la Unidad de Medida y Actualización, la infracción de las disposiciones contenidas en los artículos 45 Ter, 54, 57, 69, 70, 83, 103, 107, 108, 109, 139 y 146 de esta ley, sin perjuicio de lo que se disponga en otros ordenamientos legales.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -4232,3 +4240,15 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 La Secretaría de Salud del Estado emitirá los lineamientos para el registro y acreditación de las personas responsables sanitarias a que se refiere el presente Decreto.
+
+P.O. 9 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-994 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 156; Y SE ADICIONA EL ARTÍCULO 45 TER, A LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS; Y SE ADICIONAN LOS ARTÍCULOS 240 BIS; Y 328 UNDECIES, AL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Salud del Gobierno del Estado, emitirá en un plazo no mayor a 90 días naturales los lineamientos necesarios para la aplicación de lo dispuesto en el artículo 45 Ter del Artículo Primero del presente Decreto.
