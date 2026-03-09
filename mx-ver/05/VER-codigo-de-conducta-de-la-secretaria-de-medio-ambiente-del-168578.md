@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-conducta-de-la-secretaria-de-medio-ambiente-del-16857
 country: "mx"
 rank: "codigo"
 publication_date: "2023-11-22"
-last_updated: "2023-11-22"
+last_updated: "2026-03-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE MEDIO AMBIENTE DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE MEDIO AMBIENTE DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, PUBLICADO EN EL G.O. DE 9 DE MARZO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE MEDIO AMBIENTE DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 9 DE MARZO DE 2026 (ABROGADO).
 
 Código publicado en el Número Extraordinario 466 de la Gaceta Oficial del Estado de Veracruz, el miércoles 22 de noviembre de 2023.
 
@@ -442,3 +444,15 @@ Nombre:
 Cargo, puesto y/o categoría:
 
 Área de adscripción:
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 9 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE MEDIO AMBIENTE DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. Publíquese el presente acuerdo en la Gaceta Oficial, Órgano del Gobierno del Estado (sic) Veracruz de Ignacio de la Llave, una vez validado y aprobado por la Contraloría General del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. El presente Acuerdo entrará en vigor el día de su publicación.
+
+TERCERO. Se abroga el "Código de Conducta de la Secretaría de Medio Ambiente", publicado en la Gaceta Oficial del Estado el veintidós de noviembre de dos mil veintitrés, bajo el número extraordinario 466, así como todas aquellas disposiciones de igual o menor jerarquía que se opongan o contravengan lo establecido en el presente Acuerdo.
