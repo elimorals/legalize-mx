@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-asentamientos-humanos-ordenamiento-territorial-y-133300"
 country: "mx"
 rank: "ley"
 publication_date: "2019-02-05"
-last_updated: "2023-11-24"
+last_updated: "2026-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2026.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 5 de febrero de 2019.
 
@@ -2143,6 +2143,20 @@ En caso de que el fraccionador omita por cualquier motivo, escriturar a favor de
 
 Para aquellos desarrollos de régimen de la propiedad en condominio, y donde se reserven las áreas de uso común, verdes y de equipamiento urbano, bastará en los tiempos señalados anteriormente, y en este mismo apartado, el presentar para anexar al expediente del Municipio copia de la escritura que avale que esta se ha generado en reserva de los condóminos indicando sus usos correspondientes.
 
+> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2026)</small>
+
+###### Artículo 156 Bis.
+
+El suelo cedido conforme a lo dispuesto en el artículo anterior, deberá cumplir las siguientes características:
+
+I. Estar libre de afectaciones por restricciones federales y estatales;
+
+II. No estar ubicados en cañadas o en corrientes naturales de agua;
+
+III. Ser de la misma calidad y características al promedio de las que componen el fraccionamiento; y
+
+IV. Presentar características y condiciones que permitan ser aprovechados para los destinos y equipamientos urbanos públicos que señala la Ley.
+
 ###### Artículo 157.
 
 Quienes lleven a cabo alguno de los fraccionamientos señalados por esta Ley, estarán obligados a realizar las siguientes obras de urbanización:
@@ -3784,6 +3798,14 @@ Los municipios del Estado deberán implementar los mecanismos necesarios para re
 P.O. 24 DE NOVIEMBRE DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 65-711 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XIII Y XIV, Y SE ADICIONA LA FRACCIÓN XV AL ARTÍCULO 203, DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 66-960 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 156 BIS, A LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
