@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2025-11-28"
+last_updated: "2026-03-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,9 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2025.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 28 DE NOVIEMBRE DE 2025.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2026.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -1069,9 +1067,13 @@ XV. Derechos Humanos.
 
 XVI. Salud y Rastros
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 3 DE ENERO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MARZO DE 2026)</small>
 
-XVII. Todas las que el H. Cabildo considere necesarias para el cumplimiento de sus funciones.
+XVII. Delegaciones Urbanas y Rurales.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 9 DE MARZO DE 2026)</small>
+
+XVIII. Todas las que el H. Cabildo considere necesarias para el cumplimiento de sus funciones.
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2017)</small>
 
@@ -2251,11 +2253,11 @@ APARTADO TERCERO
 
 De la Secretaría de Comunicación Social.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 101.
 
-Corresponde a la Secretaría de Comunicación Social:
+La Secretaría de Comunicación Social estará encargada de regular el gasto en materia de Comunicación Social por lo que fungirá como Secretaría Administradora de conformidad con la Ley General de Comunicación Social. Corresponde a esta dependencia:
 
 I. Coordinar los programas de información por los canales de comunicación adecuados, sobre las actividades del H. Ayuntamiento, de la Presidencia Municipal y sus Dependencias o Unidades Administrativas.
 
@@ -2265,9 +2267,21 @@ III. Mantener informado al H. Ayuntamiento, al Presidente Municipal y a las Depe
 
 IV. Mostrar una imagen veraz y adecuada, del H. Ayuntamiento y Administración Municipal ante la sociedad.
 
-> <small>(REFORMADA, P.O. 20 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2026)</small>
 
-V. Emitir la normatividad en materia de comunicación social a que deberán sujetarse las dependencias del Gobierno Municipal, incluyendo el enfoque de género, que evite cualquier tipo de discriminación y expresiones o imágenes de sumisión de un género hacia otro;
+V. Emitir lineamientos en los que se regulen:
+
+a) Los criterios de selección de medios de comunicación, a fin de garantizar los principios del gasto público en materia de comunicación social, previstos en los artículos 134 de la Constitución Federal y 5 de la Ley General de Comunicación Social.
+
+Lo anterior sin perjuicio de que las contrataciones de adquisiciones, bienes, arrendamientos o servicios en materia de comunicación social se realicen conforme al Reglamento de Adquisiciones, Arrendamientos y Servicios del Municipio de Aguascalientes, salvo tratándose de organismos descentralizados que cuenten con regulación propia para celebrar contrataciones, en cuyo caso se aplicará tal regulación.
+
+b) La difusión de campañas que, en su caso, se deban realizar y que sean de carácter industrial, comercial, mercantil y de promoción y publicidad que promuevan o publiciten la venta de productos o servicios que generan algún ingreso para el Municipio, esto conforme a lo previsto en el artículo 20 de la Ley General de Comunicación Social;
+
+c) La remisión de las propuestas de dependencias y, en su caso, organismos descentralizados, para las estrategias anuales de comunicación social y programas anuales de comunicación social, así como campañas de comunicación social, conforme a lo previsto en el artículo 27 de la Ley General de Comunicación Social; y
+
+d) La demás normatividad que se requiera en materia de comunicación social a que deberán sujetarse las dependencias y, en su caso, organismos descentralizados, normatividad que deberá ser acorde a lo previsto en la Ley General de Comunicación Social, y en su caso, contar con enfoque de género que evite cualquier tipo de discriminación y expresiones o imágenes de sumisión de un género hacia otro.
+
+Cuando proceda, la persona titular de la Secretaría de Comunicación Social remitirá a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, los lineamientos y demás normatividad que emita para que se tramite su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 VI. Garantizar que la información proveniente del gobierno municipal se difunda a toda la población.
 
@@ -2285,9 +2299,33 @@ XI. Auxiliar a la Secretaría de Economía Social y Turismo Municipal en el impu
 
 Asimismo, en coordinación con la propia Secretaría de Economía Social y Turismo Municipal, elaborar el proyecto de política municipal de información y difusión en materia turística y conducir su ejecución.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2026)</small>
 
-XII. Las demás que le confiera la Legislación vigente, o que le encomiende el H. Ayuntamiento, a través del Presidente Municipal.
+XII. Autorizar y emitir las estrategias anuales de comunicación social y los programas anuales de comunicación social aplicables a las dependencias y, en su caso, a los organismos descentralizados, así como llevar un registro de esos instrumentos pudiendo realizar observaciones sobre los mismos, lo anterior de conformidad con el artículo 25 de la Ley General de Comunicación Social.
+
+Para efectos de lo anterior, las dependencias y, en su caso, organismos descentralizados, deberán remitir sus propuestas a la Secretaría de Comunicación Social en la primera quincena de enero de cada año.
+
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2026)</small>
+
+XIII. Realizar la planeación y evaluación de los programas anuales de comunicación social aplicables a las dependencias y a los organismos descentralizados, con el fin de que se lleven a cabo bajo los principios previstos en el artículo 5 de la Ley General de Comunicación Social.
+
+Con el mismo fin, prestar a las dependencias y organismos descentralizados, asistencia técnica y evaluación de las estrategias anuales de comunicación social, programas anuales de comunicación social y las campañas de comunicación social.
+
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2026)</small>
+
+XIV. Coordinar y dar seguimiento a la vinculación de esfuerzos comunicacionales de distintos entes públicos, respecto a temas afines o líneas de acción compartidas en el marco de sus respectivas competencias, con base en las estrategias anuales de comunicación social y programas anuales de comunicación social, y conforme a lo previsto en el artículo 14 de la Ley General de Comunicación Social.
+
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2026)</small>
+
+XV. Tener registro de las campañas que las dependencias y organismos descentralizados prevén realizar, las vigencias generales, los montos del techo presupuestal y la inversión que representaría en el marco de su programación, conforme al artículo 28 de la Ley General de Comunicación Social.
+
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2026)</small>
+
+XVI. Autorizar las campañas registradas en el programa anual de comunicación social, conforme a lo previsto en el artículo 29 de la Ley General de Comunicación Social.
+
+> <small>(ADICIONADA, P.O. 9 DE MARZO DE 2026)</small>
+
+XVII. Las demás que deriven de la Ley General de Comunicación Social, el presente Código, de otras disposiciones legales o reglamentarias, o bien, que le encomiende el Ayuntamiento o la persona que se desempeñe como Presidente Municipal.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE FEBRERO DE 2018)</small>
 
@@ -26786,3 +26824,17 @@ SEGUNDO.- Los procedimientos iniciados con anterioridad a la entrada en vigor de
 > <small>(F. DE E., P.O. 27 DE NOVIEMBRE DE 2025)</small>
 
 TERCERO.- Con la entrada en vigor del presente Decreto, quedan sin efecto todas aquellas disposiciones que se opongan al mismo.
+
+P.O. 9 DE MARZO DE 2026.
+
+> <small>[N. DE E. TRANSITORIOS POR EL QUE SE “REFORMA AL ARTÍCULO 101 DEL CÓDIGO MUNICIPAL Y DEL NUEVO REGLAMENTO INTERIOR DE LA SECRETARÍA DE COMUNICACIÓN SOCIAL”.]</small>
+
+PRIMERO.- Las presentes reformas, adiciones y derogaciones, así como el Reglamento que se expide, iniciarán su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Comunicación Social del Municipio de Aguascalientes, publicado en el Periódico Oficial del Estado de Aguascalientes el 12 de diciembre de 2022.
+
+P.O. 9 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA “REFORMA A LA FRACCIÓN XVII Y ADICIÓN DE LA FRACCIÓN XVIII, AMBAS DEL APARTADO A DEL ARTÍCULO 82 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+
+La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
