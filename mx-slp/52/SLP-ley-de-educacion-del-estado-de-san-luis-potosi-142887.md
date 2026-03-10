@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-142887"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-14"
-last_updated: "2026-02-10"
+last_updated: "2026-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de mayo de 2020.
 
@@ -1027,7 +1027,9 @@ Los esfuerzos y las acciones de las autoridades educativas estatal y municipales
 
 I. Priorizar su labor para el logro de metas y objetivos centrados en el aprendizaje de los educandos;
 
-II. Fortalecer su desarrollo y superación profesional mediante la formación, capacitación y actualización;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
+
+II. Fortalecer el desarrollo y la superación profesional mediante la promoción de procesos de formación, capacitación, actualización y profesionalización, de acuerdo con los resultados de su evaluación diagnostica y en el ámbito específico donde desempeña su labor;
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2025)</small>
 
@@ -1037,7 +1039,9 @@ IV. Reconocer su experiencia, así como su vinculación y compromiso con la comu
 
 V. Priorizar su labor pedagógica y el máximo logro de aprendizaje de los educandos sobre la carga administrativa;
 
-VI. Promover su formación, capacitación, actualización y profesionalización de acuerdo con su evaluación diagnóstica y en el ámbito donde desarrolla su labor;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
+
+VI. Promover la protección, promoción y atención de la salud mental del personal docente; a través de talleres y /o capacitaciones a fin de mantener una sana convivencia con la comunidad educativa.
 
 VII. Impulsar su capacidad para la toma de decisiones cotidianas respecto a la planeación educativa;
 
@@ -2244,3 +2248,11 @@ PRIMERO. El presente Decreto entrará en vigor a los ciento ochenta días natura
 SEGUNDO. La Secretaría de Educación de Gobierno del Estado emitirá, en un plazo no mayor a noventa días naturales contados a partir de la publicación del presente Decreto, los lineamientos para su aplicación.
 
 TERCERO. Los planteles educativos deberán adecuar sus reglamentos internos a lo dispuesto en este artículo en un plazo máximo de noventa días naturales a partir de la emisión de los lineamientos, así como las estrategias de sensibilización a la comunidad escolar.
+
+P.O. 10 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0484.- QUE REFORMA EL ARTÍCULO 86, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
