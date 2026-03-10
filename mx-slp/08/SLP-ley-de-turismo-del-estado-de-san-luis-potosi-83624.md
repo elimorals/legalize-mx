@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-turismo-del-estado-de-san-luis-potosi-83624"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-22"
-last_updated: "2026-03-02"
+last_updated: "2026-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 22 de octubre de 2011.
 
@@ -59,7 +59,9 @@ Esta Ley tiene por objeto:
 
 I. Planificar, formular y establecer las políticas en materia de turismo;
 
-II. Promover y fomentar la actividad turística;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
+
+II. Promover y fomentar la actividad turística en todas sus modalidades, bajo el principio de protección al ambiente y sostenibilidad;
 
 III. Garantizar el reconocimiento y el ejercicio de derechos y obligaciones de turistas y prestadores de servicios turísticos;
 
@@ -71,135 +73,195 @@ VI. Definir la competencia de los sujetos, así como la coordinación entre los 
 
 VII. Verificar el cumplimiento de la Ley y la imposición de sanciones.
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO 0485 QUE MODIFICA LA LEY, PUBLICADO EN EL P.O. DE 10 DE MARZO DE 2026, CAMBIA LA ESTRUCTURA DEL PRESENTE ARTÍCULO DE CUARENTA Y CUATRO FRACCIONES A CUARENTA.]</small>
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2020)</small>
 
 ###### ARTICULO 4°.
 
 Para efectos de la presente Ley, se entenderá por:
 
-I. Actividades Turísticas: las que realizan las personas durante sus viajes y estancias temporales en lugares distintos al de su entorno habitual, con fines de ocio, recreación, placer, descanso y otros motivos;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
 
-II. Area natural protegida: aquellas zonas del territorio estatal sobre las que la Nación o el Estado ejerce su soberanía y jurisdicción, en donde los ambientes originales no han sido significativamente alterados por la actividad del ser humano, o que requieren ser preservadas y están sujetas al régimen previsto en las leyes aplicables en la materia;
+I. Actividades Turísticas: Las que realizan las personas durante sus viajes y estancias temporales en lugares distintos al de su entorno habitual, con fines de ocio y otros motivos.
 
-III. Atlas turístico: es el registro sistemático de carácter público de todos los bienes, recursos naturales y culturales que puedan constituirse en atractivos turísticos nacionales, sitios de interés y, en general, todas aquellas zonas y áreas territoriales del desarrollo del turismo;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2023)</small>
+II. Área natural protegida: aquellas zonas del territorio estatal sobre las que la Nación o el Estado ejerce su soberanía y jurisdicción, en donde los ambientes originales no han sido significativamente alterados por la actividad del ser humano, o que requieren ser preservadas y están sujetas al régimen previsto en las leyes aplicables en la materia.
 
-IV. Consejo consultivo estatal: el Consejo integrado por representantes de los prestadores de los servicios turísticos; las dependencias involucradas en el sector turístico; la Comisión de Fomento al Turismo del Congreso del Estado a través de su presidencia y las demás dependencias y entidades federales y municipales que determine esta ley y las que el Consejo acuerde;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2025)</small>
+III. Garantizar el reconocimiento y el ejercicio de derechos y obligaciones de turistas y prestadores de servicios turísticos.
 
-V. Consejos consultivos regionales municipales: son aquéllos que estarán integrados por los municipios distribuidos en las regiones Altiplano, Centro, Media y Huasteca del Estado de San Luis Potosí;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
 
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2025)</small>
+IV. Catálogo estatal de turismo: es el catálogo público de prestadores de servicios turísticos del Estado de San Luis Potosí.
 
-V Bis. Consejos municipales: Los consejos municipales de turismo;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
 
-VI. Cultura turística: el conjunto de conocimientos y valores, relativos a generar, propiciar y fortalecer la participación de las personas en la búsqueda de mejores condiciones para hacer posible la actividad turística de manera sustentable;
+V. Consejo consultivo estatal: el Consejo integrado por representantes de los prestadores de los servicios turísticos; las dependencias involucradas en el sector turístico; la Comisión de Fomento al Turismo del Congreso del Estado a través de su presidencia y las demás dependencias y entidades federales y municipales que determine esta ley y las que el Consejo acuerde.
 
-> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
 
-VII. Equipo técnico específico: todos aquellos artículos indispensables para la práctica de una especialidad en turismo de aventura y naturaleza, cuya función principal es brindar al usuario márgenes de seguridad y comodidad para realizar la actividad;
+VI. Consejos consultivos regionales municipales: son aquéllos que estarán integrados por los municipios distribuidos en las regiones Altiplano, Centro, Media y Huasteca del Estado de San Luis Potosí.
 
-VIII. Estado: el Estado Libre y Soberano de San Luis Potosí;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
 
-IX. Estudio de capacidad de carga: es aquél que realiza la Secretaría y que contempla el nivel de aprovechamiento turístico de una zona determinada, de acuerdo a lo señalado en el Reglamento de esta Ley;
+VII. Consejos municipales: Los consejos municipales de turismo.
 
-X. Fideicomiso: el Fideicomiso Público de Inversión y Administración para el Desarrollo del Turismo en el Estado, responsable de implementar, asesorar y financiar los planes, programas y acciones de promoción turística del Estado;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
 
-XI. Guía especializado: persona que tiene conocimientos o experiencia acreditable sobre algún tema o actividad específica, según lo establecido en las normas correspondientes;
+VIII. Cultura turística: el conjunto de conocimientos y valores, relativos a generar, propiciar y fortalecer la participación de las personas en la búsqueda de mejores condiciones para hacer posible la actividad turística de manera sustentable.
 
-XII. Ley: la Ley de Turismo del Estado Libre y Soberano de San Luis Potosí;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
 
-XIII. Ley General: la Ley General de Turismo;
+IX. Equipo técnico específico: todos aquellos artículos indispensables para la práctica de una especialidad en turismo de aventura y naturaleza, cuya función principal es brindar al usuario márgenes de seguridad y comodidad para realizar la actividad.
 
-XIV. Ley Orgánica: ley Orgánica de la Administración Pública del Estado de San Luis Potosí;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
 
-XV. Normas: normas oficiales mexicanas;
+X. Estado: el Estado Libre y Soberano de San Luis Potosí.
 
-XVI. Patrimonio turístico: el conjunto de bienes y servicios de cualquier naturaleza que generan el interés de los turistas por sus características y valores naturales, históricos, culturales, estéticos o simbólicos, y que deben ser conservados y protegidos para el disfrute de las presentes y futuras generaciones;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
 
-XVII. Planta turística: es el conjunto de elementos materiales, necesarios para la realización de la actividad turística;
+XI. Estudio de capacidad de carga: es aquél que realiza la Secretaría y que contempla el nivel de aprovechamiento turístico de una zona determinada, de acuerdo a lo señalado en el Reglamento de esta Ley.
 
-> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
 
-XVIII. Prestador de servicios de turismo de aventura y naturaleza: persona física o moral que legalmente ofrece servicios especializados para la realización de cualquier actividad recreativa, que involucren un nivel de habilidades a superar, en donde se participa de la armonía con el medio ambiente, respetando los recursos naturales y patrimonio cultural;
+XII. Fideicomiso: el Fideicomiso Público de Inversión y Administración para el Desarrollo del Turismo en el Estado, responsable de implementar, asesorar y financiar los planes, programas y acciones de promoción turística del Estado.
 
-XIX. Prestadores de servicios turísticos: las personas físicas o morales que ofrezcan, proporcionen, o contraten con el turista, la prestación de los servicios a que se refiere esta Ley y su Reglamento;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
 
-XX. Programa sectorial: programa Sectorial de Turismo del Estado de San Luis Potosí;
+XIII. Guía especializado: persona que tiene conocimientos o experiencia acreditable sobre algún tema o actividad específica, según lo establecido en las normas correspondientes.
 
-XXI. Promoción turística: el conjunto de actividades, estrategias y acciones de comunicación persuasiva, que tienen por objeto dar a conocer en los ámbitos regional, nacional e internacional los atractivos turísticos, el patrimonio turístico y los servicios turísticos del Estado de San Luis Potosí;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
 
-XXII. Recursos turísticos: son todos los elementos naturales o artificiales de un lugar o región del Estado que constituyen un atractivo para la actividad turística;
+XIV. Ley: la Ley de Turismo del Estado de San Luis Potosí.
 
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
 
-XXII Bis. Pueblos mágicos: localidad que a través del tiempo y ante la modernidad, ha conservado, valorado y defendido su herencia histórica, cultural y natural; y la manifiesta en diversas expresiones a través de su patrimonio tangible e intangible. Que cumple con lineamientos establecidos por la Secretaria de Turismo Federal para obtener y conservar dicho nombramiento;
+XV. Ley General: la Ley General de Turismo.
 
-XXIII. Registro estatal de turismo: es el catálogo público de prestadores de servicios turísticos del Estado de San Luis Potosí;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
 
-XXIV. Registro nacional de turismo: es el catálogo público de prestadores de servicios turísticos en el país, el cual constituye el mecanismo por el que el Ejecutivo Federal y las entidades federativas podrán contar con información sobre los prestadores de servicios turísticos a nivel nacional, con objeto de conocer mejor el mercado turístico y establecer comunicación con las empresas cuando se requiera;
+XVI. Ley Orgánica: Ley Orgánica de la Administración Pública del Estado de San Luis Potosí.
 
-XXV. Reglamento: reglamento de la Ley de Turismo del Estado de San Luis Potosí;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
 
-XXVI. Reglamento de la Ley General: el reglamento de la Ley General de Turismo;
+XVII. Normas: Normas Oficiales Mexicanas.
 
-> <small>(ADICIONADA, P.O. 29 DE MAYO DE 2018)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
 
-XXVI BIS. Ruta Turística: es un circuito temático o geográfico que se basa en un patrimonio natural o cultural de una zona, y se marca sobre el terreno o aparece en los mapas;
+XVIII. Operadoras de Servicios Turísticos de Aventura y Naturaleza (OSTAN): Personas físicas o morales que proporcionen o contraten con los turistas o usuarios, la prestación de los servicios turísticos especializados para la realización de cualquier actividad recreativa y/o deportiva que implique un nivel de reto a superar, en donde se participa de la armonía con el medio ambiente y respeto a los recursos naturales y culturales, que involucre cualquiera de las actividades de ecoturismo, turismo rural o turismo de aventura y naturaleza.
 
-XXVII. Secretaría: la Secretaría de Turismo del Estado de San Luis Potosí;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 2 DE MARZO DE 2026)</small>
+XIX. Patrimonio turístico: el conjunto de bienes y servicios de cualquier naturaleza que generan el interés de los turistas por sus características y valores naturales, históricos, culturales, estéticos o simbólicos, y que deben ser conservados y protegidos para el disfrute de las presentes y futuras generaciones.
 
-XXVIII. Secretaría de Turismo Federal: La Secretaría de Turismo de la Administración Pública Federal;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
 
-XXIX. Servicios turísticos: los dirigidos a atender las solicitudes de los turistas a cambio de una contraprestación, en apego con lo dispuesto por esta Ley y su Reglamento;
+XX. Planta turística: es el conjunto de elementos materiales, necesarios para la realización de la actividad turística.
 
-XXX. Sistema de Información Turística: mecanismo para integrar los recursos, características y participantes de la actividad turística, que permitirá sistematizar y actualizar el Registro Estatal de Turismo;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
 
-XXXI. Trabajadores turísticos: son aquellas personas físicas que prestan sus servicios en materia turística de manera subordinada, y por el cual devengan un salario o perciben una remuneración económica;
+XXI. Policía turística: se entiende por aquellos elementos que desempeñan tareas de proximidad social y vigilancia, en aras de prevención del delito, asistencia y apoyo al turista en caso de hechos delictivos, mismos que deberán portar un distintivo que los identifique para esos efectos.
 
-XXXII. Turismo alternativo: los viajes que tienen como fin realizar actividades recreativas en contacto directo con la naturaleza y las expresiones culturales que le envuelven, con una actitud y compromiso de conocer, respetar, disfrutar y participar en la conservación de los recursos naturales y culturales. El turismo alternativo incluye lo que precisan las fracciones XXXIII a XXXVIII de este artículo;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
 
-XXXIII. Ecoturismo: producto turístico dirigido a los turistas que disfrutan de la historia natural, y que desean apoyar y participar activamente en la conservación del medio ambiente, realizando viajes que tienen como fin el realizar actividades recreativas de apreciación y conocimiento de la naturaleza, a través del contacto con la misma, generando beneficios económicos, ofreciendo oportunidades y alternativas de empleo;
+XXII. Prestador de servicios de turismo de aventura y naturaleza: persona física o moral que legalmente ofrece servicios especializados para la realización de cualquier actividad recreativa, que involucren un nivel de habilidades a superar, en donde se participa de la armonía con el medio ambiente, respetando los recursos naturales y patrimonio cultural.
 
-> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
 
-XXXIV. Turismo de aventura y naturaleza: viajes que tienen como fin realizar actividades recreativas, asociadas a desafíos impuestos por la naturaleza y los riesgos de esta, respetando el patrimonio natural, cultural, turístico e histórico;
+XXIII. Prestadores de servicios turísticos: las personas físicas o morales que ofrezcan, proporcionen, o contraten con el turista, la prestación de los servicios a que se refiere esta Ley y su Reglamento.
 
-XXXV. Turismo rural: viajes que tienen como fin el realizar actividades de convivencia e interacción con una comunidad rural, en todas aquellas expresiones sociales, culturales y productivas cotidianas de la misma, promoviendo con ello la generación de ingresos adicionales a la economía rural y a la conservación de los ambientes en los que habitan;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
 
-XXXVI. Turismo de reuniones: es el segmento de turismo relacionado con los congresos, convenciones, ferias, exposiciones, viajes de incentivo y otros eventos de características similares;
+XXIV. Programa sectorial: el programa Sectorial de Turismo del Estado de San Luis Potosí.
 
-XXXVII. Turismo social: actividad encaminada a que los habitantes de cualquier nivel socioeconómico, accedan a los atractivos turísticos de su país, Estado o región;
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
 
-XXXVIII. Turismo sustentable: aquél que cumple con dar un uso óptimo a los recursos naturales aptos para el desarrollo turístico, ayudando a conservarlos; aquél que respeta la autenticidad sociocultural de las comunidades anfitrionas, conservando sus atractivos culturales, sus valores tradicionales y arquitectónicos; y aquél, que asegura el desarrollo de las actividades económicas viables, que obtengan beneficios socioeconómicos, entre los que se cuenten oportunidades de empleo y obtención de ingresos y servicios sociales para las comunidades anfitrionas, que contribuyan a mejorar las condiciones de vida;
+XXV. Promoción turística: el conjunto de actividades, estrategias y acciones de comunicación persuasiva, que tienen por objeto dar a conocer en los ámbitos regional, nacional e internacional los atractivos turísticos, el patrimonio turístico y los servicios turísticos del Estado de San Luis Potosí.
 
-> <small>(REFORMADA, P.O. 10 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
 
-XXXIX. Turista: la persona que viaja temporalmente fuera de su lugar de residencia habitual, y que utilice alguno de los servicios turísticos a que se refiere la Ley General y esta Ley, sin perjuicio de lo dispuesto para efectos migratorios por la Ley General de Población;
+XXVI. Pueblos mágicos: localidad que a través del tiempo y ante la modernidad, ha conservado, valorado y defendido su herencia histórica, cultural y natural; y la manifiesta en diversas expresiones a través de su patrimonio tangible e intangible. Que cumple con lineamientos establecidos por la Secretaría de Turismo Federal para obtener y conservar dicho nombramiento.
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
 
-XL. Zonas de desarrollo turístico sustentable: aquellas regiones claramente ubicadas y delimitadas geográficamente que, por sus características naturales o culturales, constituyen un atractivo turístico;
+XXVII. Recursos turísticos: son todos los elementos naturales o artificiales de un lugar o región del Estado que constituyen un atractivo para la actividad turística.
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
 
-XLI. Servicio de hospedaje: servicio turístico prestado en campamentos, hoteles, moteles, paraderos de casas rodantes y de tiempo compartido, posadas, suites y en todos los establecimientos que presten servicios de esta naturaleza, incluyendo servicios de hospedaje ofertados a través de plataformas digitales;
+XXVIII. Registro nacional de turismo: es el catálogo público de prestadores de servicios turísticos en el país, el cual constituye el mecanismo por el que el Ejecutivo Federal y las entidades federativas podrán contar con información sobre los prestadores de servicios turísticos a nivel nacional, con objeto de conocer mejor el mercado turístico y establecer comunicación con las empresas cuando se requiera.
 
-> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
 
-XLII. Policía turística: se entiende por aquellos elementos que desempeñan tareas de proximidad social y vigilancia, en aras de prevención del delito, asistencia y apoyo al turista en caso de hechos delictivos, mismos que deberán portar un distintivo que los identifique para esos efectos;
+XXIX. Reglamento: reglamento de la Ley de Turismo del Estado de San Luis Potosí.
 
-> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
 
-XLIII. Enoturismo: tipo de turismo que tiene por propósito visitar y conocer zonas de cultivos y producción vinícola, así como participar en la realización de catas, eventos y festivales en torno a la cultura de la vida, y
+XXX. Reglamento de la Ley General: el reglamento de la Ley General de Turismo.
 
-> <small>(ADICIONADA, P.O. 28 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
 
-XLIV. Operadoras de Servicios Turísticos de Aventura y Naturaleza (OSTAN): Personas físicas o morales que proporcionen o contraten con los turistas o usuarios, la prestación de los servicios turísticos especializados para la realización de cualquier actividad recreativa y/o deportiva que implique un nivel de reto a superar, en donde se participa de la armonía con el medio ambiente y respeto a los recursos naturales y culturales, que involucre cualquiera de las actividades de ecoturismo, turismo rural o turismo de aventura y naturaleza.
+XXXI. Ruta Turística: es un circuito temático o geográfico que se basa en un patrimonio natural o cultural de una zona, y se marca sobre el terreno o aparece en los mapas.
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
+
+XXXII. Secretaría: la Secretaría de Turismo del Estado de San Luis Potosí.
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
+
+XXXIII. Secretaría de Turismo: la Secretaría de Turismo del Gobierno Federal.
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
+
+XXXIV. Servicio de hospedaje: servicio turístico prestado en campamentos, hoteles, moteles, paraderos de casas rodantes y de tiempo compartido, posadas, suites y en todos los establecimientos que presten servicios de esta naturaleza, incluyendo servicios de hospedaje ofertados a través de plataformas digitales.
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
+
+XXXV. Servicios turísticos: los dirigidos a atender las solicitudes de los turistas a cambio de una contraprestación, en apego con lo dispuesto por esta Ley y su Reglamento.
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
+
+XXXVI. Sistema de Información Turística: mecanismo para integrar los recursos, características y participantes de la actividad turística, que permitirá sistematizar y actualizar el Catálogo Estatal de Turismo.
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
+
+XXXVII. Trabajadores turísticos: son aquellas personas físicas que prestan sus servicios en materia turística de manera subordinada, y por el cual devengan un salario o perciben una remuneración económica.
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 10 DE MARZO DE 2026)</small>
+
+XXXVIII. Turismo: las actividades que realizan las personas durante sus viajes y estancias en lugares distintos al de su entorno habitual, por un período de tiempo consecutivo inferior a un año, con fines de ocio, negocios u otros motivos.
+
+Son tipos de turismo, entre otros, los siguientes:
+
+a) Ecoturismo: producto turístico dirigido a los turistas que disfrutan de la historia natural, y que desean apoyar y participar activamente en la conservación del medio ambiente, realizando viajes que tienen como fin el realizar actividades recreativas de apreciación y conocimiento de la naturaleza, a través del contacto con la misma, generando beneficios económicos, ofreciendo oportunidades y alternativas de empleo.
+
+b) Enoturismo: tipo de turismo que tiene por propósito visitar y conocer zonas de cultivos y producción vinícola, así como participar en la realización de catas, eventos y festivales en torno a la cultura de la vid.
+
+c) Turismo alternativo: los viajes que tienen como fin realizar actividades recreativas en contacto directo con la naturaleza y las expresiones culturales que le envuelven, con una actitud y compromiso de conocer, respetar, disfrutar y participar en la conservación de los recursos naturales y culturales.
+
+d) Turismo comunitario: modalidad de turismo sostenible que busca mejorar el desarrollo socioeconómico de las comunidades, así como conservar y respetar los recursos naturales, culturales y patrimoniales, visibilizando sus usos y costumbres, a manera de realizar actividades de convivencia e interacción con las comunidades, en todas aquellas expresiones sociales, culturales y productivas cotidianas de las mismas.
+
+e) Turismo de aventura y naturaleza: viajes que tienen como fin realizar actividades recreativas, asociadas a desafíos impuestos por la naturaleza, respetando el patrimonio natural, cultural, turístico e histórico.
+
+f) Turismo de reuniones: es el segmento de turismo relacionado con los congresos, convenciones, ferias, exposiciones, viajes de incentivo y otros eventos de características similares.
+
+g) Turismo médico sostenible: es aquella modalidad en que quienes viajan buscan servicios médicos, de bienestar o rehabilitación en un destino distinto a su entorno habitual.
+
+h) Turismo Religioso: desplazamientos de personas motivados por la fe o devoción, dirigidos a lugares religiosos (templos, santuarios, peregrinaciones, sitios sagrados), o a espacios que combinan valor espiritual con patrimonio cultural e histórico.
+
+i) Turismo social: actividad encaminada a que los habitantes de cualquier nivel socioeconómico, accedan a los atractivos turísticos de su país, Estado o región.
+
+j) Turismo sustentable: aquél que cumple con dar un uso óptimo a los recursos naturales aptos para el desarrollo turístico, ayudando a conservarlos; aquél que respeta la autenticidad sociocultural de las comunidades anfitrionas, conservando sus atractivos culturales, sus valores tradicionales y arquitectónicos; y aquél, que asegura el desarrollo de las actividades económicas viables, que obtengan beneficios socioeconómicos, entre los que se cuenten oportunidades de empleo y obtención de ingresos y servicios sociales para las comunidades anfitrionas, que contribuyan a mejorar las condiciones de vida.
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
+
+XXXIX. Turista: la persona que viaja temporalmente fuera de su lugar de residencia habitual, y que utilice alguno de los servicios turísticos a que se refiere la Ley General y esta Ley, sin perjuicio de lo dispuesto para efectos migratorios por la Ley General de Población.
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
+
+XL. Zonas de desarrollo turístico sustentable: aquellas regiones claramente ubicadas y delimitadas geográficamente que, por sus características naturales o culturales, constituyen un atractivo turístico.
 
 ## TITULO SEGUNDO. DE LAS AUTORIDADES; Y DE LAS ATRIBUCIONES DE LAS AUTORIDADES
 
@@ -367,11 +429,15 @@ XXXIII. Coadyuvar con el Ejecutivo Federal para la clasificación de establecimi
 
 XXXIV. Implementar y publicitar mediante convenios con los prestadores de servicios turísticos del Estado, programas de facilidades, descuentos o promociones aplicables a residentes de la Entidad, con el fin de impulsar el turismo local interno;
 
-> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
 
-XXXV. Promover, entre los prestadores de servicios turísticos, la adhesión a los programas nacionales vigentes en materia de certificación turística, y
+XXXV. Promover, entre los prestadores de servicios turísticos, la adhesión a los programas nacionales vigentes en materia de certificación turística;
 
-XXXVI. En general, ejercer todas aquellas facultades y actos que le otorgue esta Ley, así como otras disposiciones legales.
+> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2026)</small>
+
+XXXVI. Gestionar la capacitación en primeros auxilios, para los prestadores de servicios turísticos del Estado, y
+
+XXXVII. En general, ejercer todas aquellas facultades y actos que le otorgue esta Ley, así como otras disposiciones legales.
 
 ###### ARTICULO 9°.
 
@@ -421,9 +487,9 @@ XVII. Tomar en consideración las opiniones, usos y costumbres de las comunidade
 
 XVIII. Establecer y celebrar anualmente la semana de turismo municipal, en la cual se promoverá el municipio a nivel local, regional, nacional e internacional, con el propósito de generar derrama económica en el mismo, en la cual deberá participar activamente, la ciudadanía, las instituciones educativas, culturales, deportivas y de seguridad pública;
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2026)</small>
 
-XIX. Llevar a cabo por sí mismos o en coordinación con municipios vecinos, la creación de rutas turísticas a fin de impulsar y desarrollar actividades económicas que los posicione como una zona reconocida por sus características particulares, cualesquiera que éstas sean. En los municipios donde exista presencia de comunidades indígenas, será necesario la promoción del respeto y protección de sus conceptos culturales de naturaleza y cosmovisión, en apego a lo que establece la fracción anterior;
+XIX. Llevar a cabo por sí mismos o en coordinación con municipios vecinos, la creación de rutas turísticas a fin de impulsar y desarrollar actividades económicas que los posicione como una zona reconocida por sus características particulares, cualesquiera que éstas sean. En los municipios donde exista presencia de comunidades indígenas, se deberá promover el turismo comunitario, siendo necesaria la promoción del respeto y protección de sus usos y costumbres, conceptos culturales de naturaleza y cosmovisión, en apego a lo que establece la fracción anterior;
 
 > <small>(REFORMADA, P.O. 23 DE JUNIO DE 2023)</small>
 
@@ -1678,6 +1744,14 @@ SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
 P.O. 2 DE MARZO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0471.- QUE REFORMA LOS ARTÍCULOS 4º, 8º Y 35, DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 10 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0485.- QUE REALIZA ADICIÓN AL ARTÍCULO 8°; REFORMA LOS ARTÍCULOS 3°, 4°, 8° Y 9°, DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
