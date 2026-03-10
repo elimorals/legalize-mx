@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-consejo-de-la-judicatura-de-la-148659"
 country: "mx"
 rank: "reglamento"
 publication_date: "2021-03-24"
-last_updated: "2022-02-17"
+last_updated: "2026-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148659&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,13 +20,11 @@ issue_date: "2021-03-12"
 ---
 # REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MEXICO
 
-> <small>[N. DE E. ESTE ORDENAMIENTO ES UNA REPUBLICACIÓN DE LA PUBLICACIÓN DE LA GACETA OFICIAL NÚMERO 561 DE FECHA 24 DE MARZO DE 2021.]</small>
-
-[N. DE E. INFORMACIÓN OBTENIDA DE https://www.poderjudicialcdmx.gob.mx/wp-content/uploads/Reglamento_Interior_CJCDMX.pdf
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 10 DE MARZO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 REGLAMENTO INTERIOR DEL CONSEJO DE LA JUDICATURA DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE MARZO DE 2026 (ABROGADO).
 
 Reglamento publicado en el Número 561 de la Gaceta Oficial de la Ciudad de México, el miércoles 24 de marzo de 2021. (REPUBLICADO EN LA G.O. 17 DE FEBRERO DE 2022).
 
@@ -2005,3 +2003,17 @@ SEXTO.- La disposición contenida en el último párrafo del Artículo 118 del p
 SÉPTIMO.- Los actos, omisiones y procedimientos administrativos, iniciados por el Consejo de la Judicatura de la Ciudad de México antes de la entrada en vigor del presente Reglamento y que se encuentren en proceso a la fecha de publicación de éste, se regirán hasta su conclusión por el Reglamento Interior del Consejo de la Judicatura del Distrito Federal, así como por las disposiciones aplicables vigentes a su inicio.
 
 OCTAVO.- Para las etapas de investigación, substanciación y emisión de resoluciones, que, con motivo de actos, hechos u omisiones, se hayan iniciado conforme al Reglamento Interior del Consejo de la Judicatura del Distrito Federal, serán aplicables en lo conducente, las presentes disposiciones reglamentarias. Si la conducta se ejecutó antes de la entrada en vigor de la Ley de Responsabilidades Administrativas de la Ciudad de México, pero la investigación y el procedimiento, inició con posterioridad, deberá seguirse conforme a lo establecido en la Ley Orgánica del Poder Judicial de la Ciudad de México y de manera supletoria, a la Ley de Responsabilidades Administrativas de la Ciudad de México."
+
+G.O. 10 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL DEL PODER JUDICIAL DE LA CIUDAD DE MEXICO”.]
+
+PRIMERO: El presente Reglamento entrará en vigor a partir del día siguiente al de su publicación en el Boletín Judicial. Para su mayor difusión, será publicado en el Portal de Internet del Poder Judicial de la Ciudad de México y en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO: Se abroga el Reglamento Interior del Consejo de la Judicatura de la Ciudad de México, aprobado por el extinto Consejo de la Judicatura de la Ciudad de México, mediante Acuerdo General 07-07/2021, emitido en sesión extraordinaria de fecha dos de febrero del año dos mil veintiuno.
+
+Lo anterior, con excepción de las disposiciones relacionadas con la disciplina, evaluación y vigilancia del Poder Judicial de la Ciudad de México, las cuales continuarán vigentes hasta en tanto se emita el Reglamento correspondiente, en lo que resulten aplicables.
+
+Conservarán además vigencia todos aquellos acuerdos generales, acuerdos plenarios, instrumentos normativos, reglamentos, lineamientos, dictámenes, guías técnicas, manuales de organización, manuales de procedimientos y las demás determinaciones y disposiciones administrativas internas, emitidas por el extinto Consejo de la Judicatura de la Ciudad de México, que no contravenga lo dispuesto en el presente Reglamento, mientras no sean modificados.
+
+TERCERO: Todos los instrumentos normativos, reglamentos, lineamientos, reglas, guías técnicas, manuales de organización y manuales de procedimientos, así como las demás disposiciones administrativas al interior del Poder Judicial de la Ciudad de México que se deriven del presente Reglamento, deberán ser elaboradas o actualizadas por las áreas de apoyo judicial y administrativas del Poder Judicial de la Ciudad de México, acorde con el presente Reglamento, de manera escalonada y paulatina, posterior a la entrada en vigor del presente Reglamento.
