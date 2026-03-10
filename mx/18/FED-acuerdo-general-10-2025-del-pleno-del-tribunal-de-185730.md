@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-10-2025-del-pleno-del-tribunal-de-185730"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2026-02-24"
-last_updated: "2026-02-24"
+last_updated: "2026-03-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=185730&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2026-02-16"
 ---
 # ACUERDO GENERAL 10/2025, DEL PLENO DEL TRIBUNAL DE DISCIPLINA JUDICIAL DEL PODER JUDICIAL DE LA FEDERACION, QUE TIENE POR OBJETO DETERMINAR LAS REGIONES JUDICIALES DE CARACTER ADMINISTRATIVO PARA EL TRABAJO Y FUNCIONES DEL ORGANO DE EVALUACION DEL DESEMPEÑO JUDICIAL
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 10 DE MARZO DE 2026 EN EL D.O.F, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 ACUERDO GENERAL 10/2025, DEL PLENO DEL TRIBUNAL DE DISCIPLINA JUDICIAL DEL PODER JUDICIAL DE LA FEDERACIÓN, QUE TIENE POR OBJETO DETERMINAR LAS REGIONES JUDICIALES DE CARÁCTER ADMINISTRATIVO PARA EL TRABAJO Y FUNCIONES DEL ÓRGANO DE EVALUACIÓN DEL DESEMPEÑO JUDICIAL.
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE 10 DE MARZO DE 2026.]</small>
 
 Acuerdo publicado en el Número 046/2026 del Diario Oficial de la Federación, el martes 24 de febrero de 2026.
 
@@ -147,4 +147,6 @@ CUARTO. Conforme al artículo 154, fracción VI de la Ley, notifíquese y solic�
 
 Firman al calce la Presidenta del Tribunal de Disciplina Judicial del Poder Judicial de la Federación y el Secretario General de Acuerdos.
 
-EL DOCTOR GONZALO MARTÍNEZ GARCÍA, SECRETARIO GENERAL DE ACUERDOS DEL TRIBUNAL DE DISCIPLINA JUDICIAL, CON APOYO EN LOS ARTÍCULOS 68, FRACCIÓN XIV Y 79, FRACCIÓN XIV, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 22 DE NOVIEMBRE DE 2013; APLICABLE DE CONFORMIDAD CON EL TRANSITORIO DÉCIMO NOVENO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 20 DE DICIEMBRE DE 2024 CERTIFICA: Que este Acuerdo General 10/2025, del Pleno del Tribunal de Disciplina Judicial del Poder Judicial de la Federación por el que se establece la estructura, organización y funcionamiento del Órgano de Evaluación del Desempeño Judicial, fue aprobado por el Pleno del propio Tribunal, en la décima tercera sesión ordinaria celebrada el tres de diciembre de dos mil veinticinco, por unanimidad de votos de las personas Magistradas Celia Maya García (Presidenta), Eva Verónica de Gyvés Zárate, Indira Isabel García Pérez, Bernardo Bátiz Vázquez y Rufino H León Tovar; la Magistrada Eva Verónica de Gyvés Zárate emitió voto concurrente en relación con el presente Acuerdo General.- Ciudad de México, a dieciséis de febrero de dos mil veintiséis.- Conste.- Rúbrica.
+> <small>(F. DE E., D.O.F. 10 DE MARZO DE 2026)</small>
+
+EL DOCTOR GONZALO MARTÍNEZ GARCÍA, SECRETARIO GENERAL DE ACUERDOS DEL TRIBUNAL DE DISCIPLINA JUDICIAL, CON APOYO EN LOS ARTÍCULOS 68, FRACCIÓN XIV Y 79, FRACCIÓN XIV, DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 22 DE NOVIEMBRE DE 2013; APLICABLE DE CONFORMIDAD CON EL TRANSITORIO DÉCIMO NOVENO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DE LA FEDERACIÓN, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 20 DE DICIEMBRE DE 2024 CERTIFICA: Que este Acuerdo General 10/2025 del Pleno del Tribunal de Disciplina Judicial del Poder Judicial de la Federación, que tiene por objeto determinar las regiones judiciales de carácter administrativo para el trabajo y funciones del Órgano de Evaluación del Desempeño Judicial, fue aprobado por el Pleno del propio Tribunal, en la décima tercera sesión ordinaria celebrada el tres de diciembre de dos mil veinticinco, por unanimidad de votos de las personas Magistradas Celia Maya García (Presidenta), Eva Verónica de Gyvés Zárate, Indira Isabel García Pérez, Bernardo Bátiz Vázquez y Rufino H León Tovar; la Magistrada Eva Verónica de Gyvés Zárate emitió voto concurrente en relación con el presente Acuerdo General.- Ciudad de México, a dieciséis de febrero de dos mil veintiséis.- Conste.- Rúbrica.
