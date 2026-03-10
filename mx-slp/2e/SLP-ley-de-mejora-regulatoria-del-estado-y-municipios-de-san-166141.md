@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-mejora-regulatoria-del-estado-y-municipios-de-san-166141
 country: "mx"
 rank: "ley"
 publication_date: "2023-05-15"
-last_updated: "2023-05-15"
+last_updated: "2026-03-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,7 +21,11 @@ state: "SLP"
 ---
 # LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO ÚNICO DEL DECRETO 0483.- QUE ABROGA LA LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 10 DE MARZO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2026 (ABROGADA).
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 15 de mayo de 2023.
 
@@ -1466,3 +1470,15 @@ J. GUADALUPE TORRES SÁNCHEZ
 El Secretario General de Gobierno
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE MARZO DE 2026.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL PUNTO ÚNICO DEL “DECRETO 0483.- QUE ABROGA LA LEY DE MEJORA REGULATORIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ÚNICO. Se ABROGA la Ley de Mejora Regulatoria del Estado y Municipios de San Luis Potosí, publicada en el Periódico Oficial del Estado “Plan de San Luis” el quince de mayo de dos mil veintitrés, con el Decreto Legislativo número 0746.
+
+T R A N S I T O R I O S
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el en el (sic) Periódico Oficial del Estado “Plan de San Luis”.
