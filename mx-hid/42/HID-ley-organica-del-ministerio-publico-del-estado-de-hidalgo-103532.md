@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-del-ministerio-publico-del-estado-de-hidalgo-10353
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-11-10"
-last_updated: "2024-05-17"
+last_updated: "2026-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2026.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 10 de noviembre de 2014.
 
@@ -218,6 +218,10 @@ Los acuerdos por los cuales se disponga la creación de órganos o unidades admi
 ###### ARTÍCULO 13.
 
 Los Reglamentos y acuerdos establecerán el tipo, especialidad y distribución de funciones de las unidades u órganos a que se refiere el artículo 11.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2026)</small>
+
+Como parte de su estructura, la Procuraduría deberá contar con una unidad especializada en materia de extorsión, compuesta por personal ministerial, policial y analista debidamente capacitado, en términos de lo dispuesto en el artículo 13 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE JULIO DE 2017)</small>
 
@@ -986,3 +990,13 @@ P.O. 17 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 886 QUE REFORMA LA FRACCIÓN III DEL ARTÍCULO 45 DE LA LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 11 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 586 – LXVI POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 13 DE LA LEY ORGÁNICA DEL MINISTERIO PÚBLICO DEL ESTADO DE HIDALGO, SOBRE ARMONIZACIÓN LEGISLATIVA EN MATERIA DE EXTORSIÓN”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. La Procuraduría General de Justicia del Estado de Hidalgo, en un plazo que no deberá exceder de un año contado a partir de la entrada en vigor del presente Decreto, deberá emitir las reformas necesarias al Reglamento de la Ley Orgánica del Ministerio Público y proveer las adecuaciones administrativas necesarias, a efecto de formalizar la creación, adscripción y facultades de la Unidad Especializada en Materia de Extorsión, la cual deberá contar con personal ministerial, policial y analista debidamente capacitado, evaluado y certificado.
+
+TERCERO. En tanto se otorga total cumplimiento al Transitorio Segundo de este Decreto, las atribuciones que conforme al ámbito competencial previsto en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión le corresponden a la Procuraduría General de Justicia del Estado de Hidalgo, serán realizadas por la Unidad Especializada en Combate al Secuestro (UECS) de dicha Procuraduría.
