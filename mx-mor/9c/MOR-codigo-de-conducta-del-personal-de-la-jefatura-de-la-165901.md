@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-del-personal-de-la-jefatura-de-la-165901"
 country: "mx"
 rank: "codigo"
 publication_date: "2023-04-27"
-last_updated: "2023-04-27"
+last_updated: "2026-03-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165901&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DEL PERSONAL DE LA JEFATURA DE LA OFICINA DE LA GUBERNATURA DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA JEFATURA DE LA OFICINA DE LA GUBERNATURA DEL ESTADO, PUBLICADO EN EL P.O. DE 11 DE MARZO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL PERSONAL DE LA JEFATURA DE LA OFICINA DE LA GUBERNATURA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2026 (ABROGADO).
 
 Código publicado en la Edición Extraordinaria del Número 6190 del Periódico Oficial del Estado de Morelos, el jueves 27 de abril de 2023.
 
@@ -490,3 +492,19 @@ Dado en Palacio de Gobierno, Jefatura de la Oficina de la Gubernatura del Estado
 MONICA BOGGIO TOMASAZ MERINO, JEFA DE LA OFICINA DE LA GUBERNATURA DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE MARZO DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL “CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA JEFATURA DE LA OFICINA DE LA GUBERNATURA DEL ESTADO”.]</small>
+
+PRIMERA. El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se abroga el Código de Conducta del Personal de la Jefatura de la Oficina de la Gubernatura del Estado, publicado en el Periódico Oficial “Tierra y Libertad”, número 6190 Extraordinaria de fecha 27 de abril de 2023.
+
+TERCERA. Se derogan las disposiciones reglamentarias o administrativas de igual o menor rango que se opongan al presente Código.
+
+CUARTA. El presente instrumento deberá difundirse también en el portal oficial de la Jefatura de la Oficina de la Gubernatura del Estado.
+
+QUINTA. Se instruye a la Unidad de Enlace Financiero Administrativo de la Jefatura de la Oficina de la Gubernatura del Estado para dar a conocer al personal de las unidades administrativas que conforman a esta Dependencia, así como al de nuevo ingreso, la existencia y contenido del presente Código de Conducta para su observancia y cumplimiento.
