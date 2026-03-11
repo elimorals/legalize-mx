@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-cultura-fisica-y-deporte-del-estado-de-michoacan-de-3718
 country: "mx"
 rank: "ley"
 publication_date: "2004-02-16"
-last_updated: "2025-07-28"
+last_updated: "2026-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2026.
 
 Ley Publicada en Periódico Oficial del Estado de Michoacán, el lunes 16 de febrero del 2004.
 
@@ -1053,6 +1053,58 @@ Los deportistas que participen dentro del deporte profesional, se regirán por l
 
 La CECUFID promoverá la constitución de comisiones Estatales de Deporte Profesional, quienes se integrarán al SIECFlDE de acuerdo a lo establecido en el Reglamento de esta Ley. El Deporte profesional no será beneficiario de recursos financieros del erario público, pero gozará del derecho de uso de la infraestructura Deportiva Pública cuando éste no interfiera con el desarrollo de los programas de Deporte Estudiantil y Deporte Social.
 
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 11 DE MARZO DE 2026)</small>
+
+#### SECCIÓN I. DE LA PROMOCIÓN, DIFUSIÓN, APOYO Y FOMENTO DEL DEPORTE EN LAS MUJERES
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2026)</small>
+
+###### Artículo 59. Bis.
+
+Las autoridades competentes deberán garantizar el pleno ejercicio del derecho a la igualdad sustantiva, la no discriminación y la eliminación de cualquier forma de desigualdad estructural o estereotipos de género en el acceso, participación, permanencia y desarrollo de mujeres y hombres en el ámbito deportivo, en todas sus modalidades y niveles.
+
+Las mujeres, en todas las etapas de su vida, tienen derecho a realizar actividades físicas y deportivas en condiciones de igualdad, seguridad, accesibilidad y respeto a su dignidad. Para tal efecto, las autoridades deberán adoptar medidas y acciones afirmativas que eliminen obstáculos sociales, culturales o institucionales que limiten o dificulten su participación, y asegurarán entornos libres de violencia, acoso, hostigamiento o cualquier forma de discriminación.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2026)</small>
+
+###### Artículo 59. Ter.
+
+La CECUFID, además de lo establecido en la presente Ley, en lo que respecta a las actividades físicas y deportivas relacionadas con mujeres, adolescentes y niñas deberá:
+
+I. Formular, promover y ejecutar políticas públicas, para garantizar la participación libre en igualdad de condiciones entre mujeres y hombres;
+
+II. Formular campañas, programas, protocolos y acciones preventivas, para combatir y erradicar el acoso, hostigamiento o cualquier forma de violencia o discriminación, hacia las mujeres en la práctica de actividades físicas y deportivas;
+
+III. Contemplar dentro de la elaboración de su proyecto del presupuesto anual de egresos, de manera equitativa y paritaria, lo referente a becas, estímulos y reconocimientos a las y los deportistas de alto rendimiento;
+
+IV. Promover y difundir a las mujeres que destaquen en actividades físicas y deportivas;
+
+V. Acceder al Fondo Estatal del Deporte establecido en la presente Ley;
+
+VI. Fomentar en conjunto con la Secretaría de Educación en el Estado, así como con los ayuntamientos, el derecho de las mujeres, adolescentes y niñas a la cultura física y a la práctica del deporte;
+
+VII. Diseñar campañas que eliminen los estereotipos de género en el ejercicio del derecho de las mujeres a la cultura física y a la práctica del deporte;
+
+VIII. Coordinar con los ayuntamientos, programas de activación física en espacios públicos;
+
+IX. Incentivar a las mujeres con algún tipo de discapacidad, para que practiquen actividades físicas y deportivas; y,
+
+X. Fomentar la participación de las mujeres dentro del deporte profesional.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2026)</small>
+
+###### Artículo 59 Quáter.
+
+La CECUFID, deberá coordinarse con la Secretaría de Igualdad Sustantiva y Desarrollo de las Mujeres Michoacanas y con la Comisión Estatal de los Derechos Humanos para brindar asesoría jurídica, atención integral y acompañamiento a las mujeres, adolescentes y niñas víctimas de violencia en cualquiera de sus tipos y modalidades, en el ejercicio de su derecho a la cultura física y al deporte.
+
+> <small>(ADICIONADO, P.O. 11 DE MARZO DE 2026)</small>
+
+###### Artículo 59 Quinquies.
+
+Las Asociaciones Deportivas del Estado deberán garantizar la paridad de género, la igualdad sustantiva y la no discriminación en la integración, funcionamiento y toma de decisiones de sus órganos de gobierno, dirección y representación. Para tal efecto, estarán obligadas a adoptar medidas y acciones afirmativas que aseguren la participación equilibrada de mujeres y hombres, eliminando prácticas, obstáculos, estereotipos o criterios que limiten o restrinjan el acceso de las mujeres a puestos de liderazgo, representación o toma de decisiones.
+
+Asimismo, deberán implementar políticas internas de igualdad y establecer mecanismos de seguimiento y evaluación que aseguren la progresividad en el acceso de las mujeres a cargos directivos, así como entornos libres de violencia, acoso, hostigamiento o cualquier forma de violencia o discriminación.
+
 ## Título Cuarto. De la Cultura Física y el Deporte
 
 > <small>(REFORMADO, P.O. 28 DE MAYO DE 2015)</small>
@@ -1786,3 +1838,11 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Notifíquese al Titular del Poder Ejecutivo del Estado de Michoacán de Ocampo, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo y trámites correspondientes.
 
 Tercero. La CECUFID en Coordinación con la Secretaría de Igualdad Sustantiva y Desarrollo de las Mujeres Michoacanas, tendrá un plazo no mayor a 90 días naturales, para la elaboración de protocolos que prevengan el hostigamiento y acoso sexual en el deporte. Así como la capacitación para entrenadores, personal administrativo y atletas, sobre prevención y detección de conductas de hostigamiento y acoso sexual.
+
+P.O. 11 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 402 POR EL QUE “SE ADICIONA LA SECCIÓN I, «LA PROMOCIÓN, DIFUSIÓN, APOYO Y FOMENTO DEL DEPORTE EN LAS MUJERES», AL TÍTULO TERCERO DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El Titular del Poder Ejecutivo, a través de la CECUFID, contará con un plazo no mayor a 90 días naturales, para adecuar el Reglamento de la presente Ley, en los términos del presente Decreto.
