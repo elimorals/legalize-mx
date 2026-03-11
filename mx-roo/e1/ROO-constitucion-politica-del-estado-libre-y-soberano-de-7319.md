@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2025-11-24"
+last_updated: "2026-03-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -111,9 +111,9 @@ Al Estado corresponde impulsar el desarrollo económico en equilibrio con el med
 
 El Estado velará por la estabilidad de las finanzas públicas para coadyuvar a generar condiciones favorables para el crecimiento económico y el empleo. Los planes estatal y municipales deberán observar dicho principio.
 
-> <small>(ADICIONADO, P.O. 20 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 11 DE MARZO DE 2026)</small>
 
-Para garantizar el cumplimiento de lo dispuesto en el presente artículo, las autoridades de los Poderes Ejecutivo, Legislativo y Judicial del Estado de Quintana Roo, así como sus Municipios, en el ámbito de sus competencias, deberán implementar políticas públicas de Mejora Regulatoria para la simplificación de regulaciones, trámites, servicios y demás objetivos que establezca la ley en la materia.
+Asimismo, a fin de contribuir al desarrollo y bienestar de las personas, grupos, comunidades y sectores sociales y económicos, las autoridades de todos los órdenes de gobierno deberán implementar políticas públicas de simplificación administrativa y digitalización de trámites y servicios, buenas prácticas regulatorias, desarrollo y fortalecimientos de capacidades tecnológicas públicas y los demás objetivos que establezca la ley en la materia.
 
 ###### ARTICULO 11.
 
@@ -6812,3 +6812,11 @@ P.O. 24 DE NOVIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 153 POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES.DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+P.O. 11 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECLARATORIA NÚMERO: 005 POR EL QUE SE REFORMA EL PÁRRAFO TERCERO, DEL ARTÍCULO 10 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
