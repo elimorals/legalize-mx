@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-pesca-y-acuacultura-sustentables-del-estado-de-65114"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-05"
-last_updated: "2025-10-22"
+last_updated: "2026-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65114&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MARZO DE 2026.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el viernes 5 de diciembre de 2008.
 
@@ -89,9 +91,9 @@ III. Acuacultura de traspatio: Es aquella que se realiza con fines de autoconsum
 
 IV. Artes de cultivo: Son los instrumentos, equipos o estructuras con que se realiza la cosecha o cultivo de especies acuícolas;
 
-> <small>(REFORMADA, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 12 DE MARZO DE 2026)</small>
 
-V. Asistencia Técnica: Es la actividad llevada a cabo por el Instituto de Pesca y Acuacultura de Campeche por sí o por medio de agentes externos que va encaminada a consolidar la actividad acuícola y pesquera mediante la impartición de talleres y cursos para mejorar las técnicas de producción de dichas actividades, optimizar los recursos con que cuentan los productores acuícolas y pesqueros dedicados al cultivo de especies para su autoconsumo o a la pesca para consumo doméstico;
+V. Asistencia técnica: Conjunto de acciones, servicios y procesos continuos de acompañamiento, capacitación, innovación y transferencia de conocimientos que el Instituto de Pesca brinda, por sí o mediante agentes externos, a las personas dedicadas a la actividad pesquera o acuícola, con el fin de mejorar la productividad, sostenibilidad y competitividad del sector; optimizar el aprovechamiento de los recursos naturales; fortalecer la organización comunitaria y promover el cumplimiento de la normatividad vigente en materia ambiental, sanitaria y comercial.
 
 VI. Bitácora de acuacultura: Es el documento de registro y control del quehacer acuícola por unidad de producción, por medio del cual la autoridad competente recibe del acuicultor el reporte de la actividad que se le ha concesionado o permitido;
 
@@ -541,11 +543,11 @@ El quórum legal para sesionar en el Consejo, será con la asistencia de más de
 
 ### CAPÍTULO ÚNICO. Del fomento
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MARZO DE 2026)</small>
 
 ###### Artículo 19.
 
-El Instituto de Pesca en coordinación con las secretarías, dependencias y entidades de la Administración Pública Estatal competentes, y en lo que corresponda, con los municipios, realizará las acciones necesarias para fomentar y promover el desarrollo de la pesca y la acuacultura, en todas sus modalidades y niveles de inversión, y para tal efecto:
+El Instituto de Pesca en coordinación con las secretarías, dependencias y entidades de la Administración Pública Estatal competentes, y en lo que corresponda, con la Federación y los municipios, realizará las acciones necesarias para fomentar y promover el desarrollo de la pesca y la acuacultura, en todas sus modalidades y niveles de inversión, y para tal efecto:
 
 I. Coadyuvará con las instituciones dedicadas a la investigación en reproducción, genética, nutrición, sanidad y extensionismo, entre otros, para apoyar a las personas y organizaciones que se dediquen a esas actividades;
 
@@ -575,9 +577,9 @@ j. Impulsar acciones para la formación de capital humano que se vincule con org
 
 k. Favorecer la creación de figuras organizativas para la promoción comercial de los productos pesqueros y acuícolas en los mercados nacional e internacional;
 
-> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 12 DE MARZO DE 2026)</small>
 
-l. Proporcionar asistencia técnica y capacitación periódica gratuita a pescadores y acuicultores, vinculada a la actualización en materia de vedas, métodos permitidos, procedimientos de registro y trazabilidad del producto, como condición para mantener su inscripción en el Registro Estatal de Pesca y Acuacultura; y
+l. Proporcionar asesoría, capacitación y asistencia técnica gratuita, continua y accesible a las personas o grupos sociales organizados que se dediquen a la actividad pesquera o acuícola, a fin de fortalecer sus capacidades productivas, facilitar el cumplimiento normativo y promover el bienestar económico y social del sector, garantizando la inclusión de mujeres, jóvenes y comunidades pesqueras tradicionales; y
 
 m. Establecer acciones conjuntas para el fortalecimiento de las redes de valor, en coordinación con los diversos comités sistema-producto acuícolas y pesqueros.
 
@@ -587,13 +589,9 @@ V. Promover el ordenamiento de la pesca y acuacultura e instrumentar servicios d
 
 VI. Observar, en los convenios, acuerdos o programas que realice, la normatividad federal que le sean aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(ADICIONADA, P.O. 12 DE MAYO DE 2015)</small>
 
 VII. Otorgar los permisos para las actividades de pesca y acuacultura, así como las demás autorizaciones previstos en los incisos a) y b) del artículo 8 de esta ley, previo el pago de los derechos correspondientes, revalidarlos y, en su caso, revocarlos;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 12 DE MAYO DE 2015)</small>
 
@@ -1198,3 +1196,13 @@ SEXTO. El Instituto de Pesca y Acuacultura de Campeche, implementará, dentro de
 SÉPTIMO. El Ejecutivo del Estado, a través de la Secretaría de Administración y Finanzas, de la Secretaría de Desarrollo Agropecuario y del Instituto de Pesca y Acuacultura de Campeche, realizarán las adecuaciones presupuestarias y administrativas necesarias para dar cumplimiento a lo dispuesto en el presente decreto, priorizando la creación o fortalecimiento de las unidades de inspección, vigilancia y capacitación técnica en materia pesquera, de conformidad con su disponibilidad presupuestal.
 
 OCTAVO. Las sanciones establecidas en el presente decreto serán aplicables una vez transcurridos los plazos de adecuación señalados en los transitorios anteriores. En tanto, las autoridades competentes promoverán acciones de difusión, sensibilización y acompañamiento para garantizar el cumplimiento progresivo de las nuevas disposiciones.
+
+P.O. 12 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 202 POR EL QUE “SE REFORMAN LA FRACCIÓN V DEL ARTÍCULO 4; EL PÁRRAFO PRIMERO Y EL INCISO L DE LA FRACCIÓN III DEL ARTÍCULO 19 DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Instituto de Pesca y Acuacultura del Estado de Campeche deberá emitir los lineamientos correspondientes para la aplicación de las reformas a que se refiere el presente decreto en un plazo no mayor a 60 días naturales a partir de su entrada en vigor.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía que se opongan al contenido del presente decreto.
