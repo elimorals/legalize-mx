@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-juventud-del-estado-de-mexico-76478"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-31"
-last_updated: "2026-02-04"
+last_updated: "2026-03-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76478&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE MARZO DE 2026.
 
 Ley publicada en la Sección Quinta a la Gaceta del Gobierno del Estado de México, el martes 31 de agosto de 2010.
 
@@ -553,9 +553,9 @@ El Consejo estará integrado por:
 
 I.- Una Presidencia, que estará a cargo de la persona titular de la Secretaría de Bienestar del Gobierno del Estado de México.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 26 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 12 DE MARZO DE 2026)</small>
 
-II.- Los vocales siguientes:
+II.- Las personas vocales que serán:
 
 > <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
 
@@ -605,9 +605,9 @@ k) Dos Diputados o Diputadas, integrante (sic) de la Comisión Legislativa de la
 
 l) El Rector o Rectora de la Universidad Autónoma del Estado de México o un representante;
 
-> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO, G.G. 12 DE MARZO DE 2026)</small>
 
-m) Dos personas representantes de organizaciones de la sociedad civil, cuyo objeto sea el desarrollo y apoyo de la juventud, electos de conformidad con los procedimientos y requisitos que estén determinados en el Reglamento de la presente Ley, y
+m) Cinco personas jóvenes mayores de edad representantes de la sociedad civil, propuestas preferentemente por organizaciones juveniles cuyo objeto sea el desarrollo y apoyo de la juventud, electos de conformidad con los procedimientos y requisitos que estén determinados en el Reglamento de la presente Ley, y
 
 > <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
 
@@ -1068,3 +1068,13 @@ Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 12 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 277.- POR EL QUE SE REFORMA LA FRACCIÓN II Y SU INCISO M) DEL ARTÍCULO 26 DE LA LEY DE LA JUVENTUD DEL ESTADO DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El Ejecutivo Estatal realizará las modificaciones reglamentarias necesarias, para dar cumplimiento al presente Decreto, en un plazo no mayor a 120 días hábiles posteriores a su entrada en vigor.
