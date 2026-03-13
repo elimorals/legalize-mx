@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-prevenir-erradicar-los-delitos-en-materia-de-trata-952
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-19"
-last_updated: "2022-02-11"
+last_updated: "2026-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA PREVENIR, ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 19 de julio de 2013.
 
@@ -125,9 +125,17 @@ VII. Derecho a la reparación del daño;
 
 VIII. Garantía de no revictimización;
 
-IX. Laicidad y libertad de religión; y
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2026)</small>
 
-X. Presunción de minoría de edad.
+IX. Laicidad y libertad de religión;
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2026)</small>
+
+X. Presunción de minoría de edad; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2026)</small>
+
+XI. No criminalización.
 
 ### CAPÍTULO III. DE LA COMISIÓN INTERINSTITUCIONAL CONTRA LA TRATA DE PERSONAS
 
@@ -508,3 +516,9 @@ P.O. 11 DE FEBRERO DE 2022.
 ## [N. DE E. TRANSITORIO DEL DECRETO NO. 71 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 3 Y 30 DE LA LEY PARA PREVENIR, ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS EN EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 240 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 4 DE LA LEY PARA PREVENIR, ERRADICAR LOS DELITOS EN MATERIA DE TRATA DE PERSONAS Y PARA LA PROTECCIÓN Y ASISTENCIA A LAS VÍCTIMAS DE ESTOS DELITOS EN EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
