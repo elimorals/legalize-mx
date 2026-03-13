@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-849-de-movilidad-y-seguridad-vial-del-estado-de-1740
 country: "mx"
 rank: "ley"
 publication_date: "2024-08-13"
-last_updated: "2024-08-13"
+last_updated: "2026-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174093&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 849 DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2026.
 
 Ley publicada en el Alcance II del Número 65 del Periódico Oficial del Estado de Guerrero, el martes 13 de agosto de 2024.
 
@@ -967,7 +967,11 @@ La autoridad competente realizará el respectivo control de alcoholimetría medi
 
 XIII. La supervisión de pesos y dimensiones de todos los vehículos motorizados en todas sus modalidades deberán cumplir con las Normas Oficiales Mexicanas y demás leyes aplicables, y
 
-XIV. Medidas para la prevención y mitigación de factores de riesgo.
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2026)</small>
+
+XIV. La prohibición de circular en motocicleta con pasajeros menores de doce años de edad, así como aquellas personas que no puedan sujetarse por sí mismas y colocar debidamente los pies en los estribos o pisa pies, con excepción de las motocicletas de transporte público y cuenten con al menos cabina y cinturones de seguridad para pasajeros;
+
+XV. Medidas para la prevención y mitigación de factores de riesgo.
 
 Los gobiernos estatal y municipales podrán prever en los convenios de coordinación la armonización de los reglamentos aplicables, así como evaluarán la medida y proporcionalidad de las sanciones de tránsito que se establezcan.
 
@@ -1586,3 +1590,19 @@ LA SUBSECRETARIA DE GOBIERNO, ASUNTOS JURÍDICOS Y DERECHOS HUMANOS ENCARGADA DE
 DRA. ANACLETA LÓPEZ VEGA.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 13 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 487 POR EL SE (SIC) ADICIONA LA FRACCIÓN XIV, SE RECORRE LA ACTUAL FRACCIÓN XIV A LA FRACCIÓN XV DEL ARTÍCULO 53 DE LA LEY NÚMERO 849 DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE GUERRERO".]}
+
+PRIMERO. El presente decreto entrará en vigor a los 60 días siguientes al de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Los Titulares de la Secretaría de Desarrollo Urbano, Obras Públicas y Ordenamiento Territorial, Finanzas y Administración, Planeación y Desarrollo Regional y Seguridad Pública, todas del gobierno del Estado, en el ámbito de su competencia, dentro de los sesenta días a partir de la publicación del presente Decreto, realizarán las modificaciones necesarias a los instrumentos que tengan relación con su aplicación.
+
+TERCERO. Los Municipios dentro de los sesenta días a partir de (sic) publicación del presente Decreto, realizarán las adecuaciones a los reglamentos de tránsito municipal, acorde a los lineamientos de la presente reforma.
+
+CUARTO. La Comisión Técnica de Transporte y Vialidad del Estado en conjunto con los Municipios promoverán y llevarán a cabo, campañas de cultura y seguridad vial que garanticen la concientización y seguridad de las personas motociclistas, además de implementar acciones para la difusión y conocimiento general de las disposiciones legales, reglamentarias y demás normativas aplicables al presente Decreto.
+
+QUINTO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en el Portal Web del Congreso del Estado y difúndase a través de los medios de comunicación.
