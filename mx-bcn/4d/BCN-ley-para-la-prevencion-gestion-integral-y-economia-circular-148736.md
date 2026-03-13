@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-la-prevencion-gestion-integral-y-economia-circular-148
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-26"
-last_updated: "2025-10-17"
+last_updated: "2026-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY PARA LA PREVENCIÓN, GESTIÓN INTEGRAL Y ECONOMÍA CIRCULAR DE LOS RESIDUOS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2026.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 26 de marzo de 2021.
 
@@ -83,9 +83,21 @@ XV. La seguridad y trazabilidad en el manejo integral de los residuos;
 
 XVI. Fomentar la inversión pública, privada o mixta para la implementación de tecnología sostenible, energías renovables y energías limpias que permitan la valorización y aprovechamiento energético de los residuos;
 
-XVII. La coordinación de las actividades y competencias de las distintas autoridades en materia de Prevención y Gestión Integral de los Residuos; y,
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2026)</small>
 
-XVIII. Prevenir, reducir, sustituir, limitar o en su caso eliminar el uso de productos comerciales de difícil degradación natural.
+XVII. La coordinación de las actividades y competencias de las distintas autoridades en materia de Prevención y Gestión Integral de los Residuos;
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2026)</small>
+
+XVIII. Prevenir, reducir, sustituir, limitar o en su caso eliminar el uso de productos comerciales de difícil degradación natural;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2026)</small>
+
+XIX. Planear sistemas de gestión integral de residuos que combinen distintas formas de manejo dependiendo de los volúmenes y tipos de residuos generados con un enfoque regional; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2026)</small>
+
+XX. Fomentar la participación ciudadana en la formulación de planes y programas relacionados con la gestión integral de los residuos.
 
 ###### Artículo 3.
 
@@ -221,7 +233,13 @@ LXIII. Trazabilidad de los residuos: Acciones y procedimientos que permiten cont
 
 LXIV. Valorización: Principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica;
 
-LXV. Verificación: Acción derivada del procedimiento administrativo mediante la cual se hace una revisión al establecimiento, sitio y/o lugar, para determinar el cumplimiento de la normatividad y la verificación de los datos presentados para la obtención de los permisos, autorización y/o cualquier tipo de autorización en materia ambiental para el uso y disfrute de su actividad preponderante.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2026)</small>
+
+LXV. Verificación: Acción derivada del procedimiento administrativo mediante la cual se hace una revisión al establecimiento, sitio y/o lugar, para determinar el cumplimiento de la normatividad y la verificación de los datos presentados para la obtención de los permisos, autorización y/o cualquier tipo de autorización en materia ambiental para el uso y disfrute de su actividad preponderante;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2026)</small>
+
+LXVI. Tiradero a cielo abierto: Se refiere a un sitio inadecuado de disposición final que no cumple con los requisitos establecidos en la norma 083-SEMARNAT-2003.
 
 ###### Artículo 4.
 
@@ -265,7 +283,9 @@ Corresponde al Ejecutivo del Estado, por conducto de la Secretaría, el ejercici
 
 I. Coordinar esfuerzos para que las distintas políticas sectoriales incorporen la consideración a la prevención y manejo sustentable de los residuos en las distintas actividades sociales y productivas;
 
-II. Formular, ejecutar, evaluar y actualizar el Programa Estatal, los Subprogramas, y demás instrumentos de política para la gestión integral y la economía circular de los residuos;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2026)</small>
+
+II. Formular, ejecutar, evaluar y actualizar el Programa Estatal, los Subprogramas, y demás instrumentos de política para la gestión integral y la economía circular de los residuos, el cual deberá incluir un enfoque regional o intermunicipal con el fin de erradicar tiraderos a cielo abierto clandestinos;
 
 III. Incorporar en los planes y programas de ordenamiento territorial, ordenamiento ecológico y desarrollo urbano, la consideración al establecimiento de la infraestructura indispensable para la gestión integral de los residuos;
 
@@ -361,7 +381,9 @@ XI. Establecer y mantener actualizado el registro de los generadores de residuos
 
 XII. Aplicar, en el ámbito de su competencia, las medidas de seguridad e imponer las sanciones que correspondan por la remediación o rehabilitación de sitios, incumplimiento o urgente aplicación, a este ordenamiento;
 
-XIII. Prevenir y erradicar la existencia de tiraderos clandestinos de los residuos;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2026)</small>
+
+XIII. Prevenir y erradicar la existencia de tiraderos clandestinos de los residuos, mismos que deberán ser registrados e inspeccionados periódicamente para una erradicación y clausura efectiva;
 
 XIV. El manejo de los residuos sólidos urbanos;
 
@@ -397,13 +419,21 @@ XXVII. Celebrar convenios con la persona prestadora de servicios, cuando la reco
 
 XXVIII. Promover y difundir una red de personas acopiadoras en su ámbito territorial, con el fin de divulgar su ubicación y acciones entre la ciudadanía;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2026)</small>
 
-XXIX. Integrar el padrón oficial municipal de personas acopiadoras que realicen alguna actividad de acopio, compraventa, reciclaje y aprovechamiento de los subproductos con valor comercial; y,
+XXIX. Integrar el padrón oficial municipal de personas acopiadoras que realicen alguna actividad de acopio, compraventa, reciclaje y aprovechamiento de los subproductos con valor comercial;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 17 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2026)</small>
 
-XXX. Las demás que se establezcan en esta Ley y otros ordenamientos jurídicos que resulten aplicables.
+XXX. Celebrar convenio con el prestador de servicios, cuando la recolección de residuos sólidos urbanos se realice a través de un tercero, indicando de forma clara y precisa, la obligatoriedad de la separación de los residuos desde su origen y en su recolección. Los costos por servicio, los alcances de volumen y el tiempo de operación. Dichos convenios deberán ser presentados previamente a la Secretaría para su validación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2026)</small>
+
+XXXI. Coadyuvar con las autoridades estatales en la identificación y registro de los tiraderos a cielo abierto donde se encuentran acumulados residuos de diferente índole en cada municipio; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE MARZO DE 2026)</small>
+
+XXXII. Las demás que se establezcan en esta Ley y otros ordenamientos jurídicos que resulten aplicables.
 
 ### CAPÍTULO TERCERO. TIPOS DE RESIDUOS Y GENERADORES
 
@@ -1037,13 +1067,23 @@ V. Clausura temporal, total o parcial;
 
 VI. La suspensión de las concesiones, registros, permisos o autorizaciones correspondientes por causas de utilidad pública o interés social;
 
-VII. La revocación de las concesiones, registros, permisos o autorizaciones correspondientes; y,
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2026)</small>
 
-VIII. La remediación y/o rehabilitación del sitio contaminado.
+VII. La revocación de las concesiones, registros, permisos o autorizaciones correspondientes;
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2026)</small>
+
+VIII. La remediación y/o rehabilitación del sitio contaminado; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2026)</small>
+
+IX. La realización de trabajo comunitario con tareas de protección, conservación y preservación del medio ambiente en el sitio o el entorno del espacio afectado.
 
 Con independencia de la sanción administrativa que se imponga, los infractores estarán obligados a la remediación o rehabilitación del sitio según se determine, debiendo restituir al estado anterior a la infracción cometida, en la forma y condiciones fijadas por la autoridad competente.
 
-La expedición de permisos, registros y autorizaciones otorgadas en contravención a la ley o falseando los datos o la documentación requerida, serán nulas de pleno derecho, y los servidores públicos responsables serán turnados a las autoridades investigadoras para los fines legales a los que dieran lugar las acciones cometidas.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2026)</small>
+
+La expedición de permisos, registros y autorizaciones otorgadas en contravención a la ley o falseando los datos o la documentación requerida, serán nulas de pleno derecho, y las personas servidoras públicas responsables serán turnadas a las autoridades investigadoras para los fines legales a los que dieran lugar las acciones cometidas.
 
 ###### Artículo 67.
 
@@ -1242,3 +1282,15 @@ P.O. 17 DE OCTUBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 155 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 8 DE LA LEY PARA LA PREVENCIÓN, GESTIÓN INTEGRAL Y ECONOMÍA CIRCULAR DE LOS RESIDUOS DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 235 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 2, 3, 7 Y 8 DE LA LEY PARA LA PREVENCIÓN, GESTIÓN INTEGRAL Y ECONOMÍA CIRCULAR DE LOS RESIDUOS DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 13 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 237 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 66 DE LA LEY PARA LA PREVENCIÓN, GESTIÓN INTEGRAL Y ECONOMÍA CIRCULAR DE LOS RESIDUOS DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
