@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-muro-en-honor-a-las-mujeres-destacadas-en-el-estado-911
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-28"
-last_updated: "2023-02-10"
+last_updated: "2026-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91103&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL MURO EN HONOR A LAS MUJERES DESTACADAS EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2026.
 
 Ley publicada en la Sección VI del Periódico Oficial del Estado de Baja California, el viernes 28 de diciembre de 2012.
 
@@ -47,63 +47,71 @@ LEY DEL MURO EN HONOR A LAS MUJERES DESTACADAS EN EL ESTADO DE BAJA CALIFORNIA
 
 La presente Ley es de orden público e interés social que tiene por objeto establecer las bases por las cuales el Poder Legislativo del Estado de Baja California, creará un Muro en Honor a las mujeres, cuyo trabajo y dedicación haya sido en beneficio del desarrollo económico o sociopolítico de la entidad, así como mujeres que se hayan destacado en los ámbitos académico, científico, deportivo, artístico, cultural o en la lucha por los derechos humanos en favor o en representación de la entidad.
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 2.
 
-El Muro en Honor se instalará dentro del edificio del Poder Legislativo del Estado de Baja California, en la ubicación de la Sala de Usos Múltiples "Mujeres de Baja California, Forjadoras de la Patria", el cual contendrá la fotografía y semblanza de las mujeres que hayan sido seleccionadas por la Comisión de Igualdad de Género y Juventudes del Congreso del Estado, de acuerdo a las bases y requisitos establecidos en la presente Ley.
+El Muro en Honor se instalará dentro del edificio del Poder Legislativo del Estado de Baja California, en la ubicación de la Sala de Usos Múltiples “Mujeres de Baja California, Forjadoras de la Patria”, el cual contendrá la fotografía y semblanza de las mujeres que hayan sido seleccionadas por la Comisión de Igualdad de Género del Congreso del Estado, de acuerdo a las bases y requisitos establecidos en la presente Ley.
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 3.
 
-El Congreso del Estado para la selección de la mujer cuyo trabajo y dedicación haya sido en beneficio del desarrollo económico, sociopolítico de la entidad o de aquellas que se hayan destacado en los ámbitos académico, científico, deportivo, artístico, cultural o en la lucha por los derechos humanos en favor o en representación de la entidad, emitirá por medio de la Comisión de Igualdad de Género y Juventudes en el transcurso del mes de Enero del año de ejercicio constitucional correspondiente, convocatoria a fin de que la ciudadanía, las instituciones educativas, culturales, artísticas, sociales, y organizaciones representativas de los sectores sociales, económicos y políticos del Estado de Baja California, presenten su propuesta por escrito.
+El Congreso del Estado, para la selección de la mujer cuyo trabajo y dedicación haya sido en beneficio del desarrollo económico, social o político de la entidad, o de aquellas que se hayan destacado en los ámbitos académico, científico, deportivo, artístico, cultural, en la lucha por los derechos humanos, en la educación, en la salud, en la labor social o en el emprendimiento o innovación, emitirá por medio de la Comisión de Igualdad de Género, en el transcurso del mes de enero del año de ejercicio constitucional correspondiente, convocatoria a fin de que la ciudadanía, las instituciones educativas, culturales, artísticas, sociales y organizaciones representativas de los sectores sociales, económicos y políticos del Estado de Baja California presenten su propuesta por escrito.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 10 DE FEBRERO DE 2023)</small>
 
 La propuesta deberá contener:
 
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2023)</small>
+
 I. Nombre y domicilio de quien la presente.
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2023)</small>
 
 II. Exposición valorativa del porqué dicha propuesta.
 
-III. Logro y materia en que se haya destacado la mujer en los ámbitos sociopolíticos o económicos de la Entidad, académico, científico, deportivo, artístico, cultural o en la lucha por los derechos humanos en favor o en representación de la entidad.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2026)</small>
+
+III. Logro y materia en que se haya destacado la mujer en los ámbitos sociopolíticos o económicos de la entidad, académico, científico, deportivo, artístico, cultural o en la lucha por los derechos humanos en favor o en representación de la entidad, en la educación, en la salud, en la labor social o en el emprendimiento o innovación.
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2023)</small>
 
 IV. Currículo Vitae.
 
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2023)</small>
+
 V. Una fotografía.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2023)</small>
 
 Demás documentos probatorios originales o con copias certificadas ante notario público que se consideren necesarios para comprobar el logro o materia en que se haya destacado la mujer propuesta.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE ENERO DE 2022)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE MARZO DE 2026)</small>
 
-### CAPÍTULO SEGUNDO. DE LA COMISIÓN DE IGUALDAD DE GÉNERO Y JUVENTUDES
+### CAPÍTULO SEGUNDO. DE LA COMISIÓN DE IGUALDAD DE GÉNERO
 
 ###### ARTÍCULO 4.
 
 (REFORMADO [N. DE E. DEROGADO], P.O. 11 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ENERO DE 2022)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 5.
 
-Para el buen cumplimiento de sus fines a efecto de designar a las mejores propuestas la Comisión de Igualdad de Género y Juventudes, si así lo considera necesario podrá invitar a representantes de las siguientes instituciones a que formen parte de los trabajos de selección, con derecho a voz pero sin voto; siendo las siguientes:
+Para el buen cumplimiento de sus fines a efecto de designar a las mejores propuestas la Comisión de Igualdad de Género, si así lo considera necesario podrá invitar a representantes de las siguientes instituciones a que formen parte de los trabajos de selección, con derecho a voz, pero sin voto; siendo las siguientes:
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2015)</small>
+A).- Una persona representante de la Secretaría de las Mujeres del Estado;
 
-A).-Un representante del Instituto de la Mujer;
+B).- Una persona representante del Colegio de la Frontera Norte;
 
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2015)</small>
+C).- Una persona representante de la Universidad Autónoma de Baja California.
 
-B).- Un representante del Colegio de la Frontera Norte,
-
-> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2015)</small>
-
-C).- Un representante de la Universidad Autónoma de Baja California.
-
-> <small>(REFORMADO, P.O. 25 DE ENERO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 6.
 
-La Comisión de Igualdad de Género y Juventudes sólo podrá sesionar con la asistencia de más de la mitad del número total de sus integrantes.
+La Comisión de Igualdad de Género sólo podrá sesionar con la asistencia de más de la mitad del número total de sus integrantes.
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2015)</small>
 
@@ -113,19 +121,19 @@ Tomarán sus decisiones por mayoría simple; la o el Presidente tendrá el voto 
 
 ### CAPÍTULO TERCERO. DEL PROCEDIMIENTO DE SELECCIÓN
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 7.
 
-Durante la segunda quincena del mes de Enero y durante el mes de Febrero del Segundo Año del ejercicio constitucional de cada Legislatura, la Comisión de Igualdad de Género y Juventudes, procederá en cumplimiento a la convocatoria emitida a recibir las propuestas presentadas por la ciudadanía y por las asociaciones e instituciones, a efecto de proceder a su registro, análisis, estudio e investigación de las mujeres propuestas valorando su trayectoria, servicio y aportación a la nación o al estado.
+Durante la segunda quincena del mes de Enero y durante el mes de Febrero del Segundo Año del ejercicio constitucional de cada Legislatura, la Comisión de Igualdad de Género, procederá en cumplimiento a la convocatoria emitida a recibir las propuestas presentadas por la ciudadanía y por las asociaciones e instituciones, a efecto de proceder a su registro, análisis, estudio e investigación de las mujeres propuestas valorando su trayectoria, servicio y aportación a la nación o al Estado.
 
-En el caso de que alguna propuesta tenga la necesidad de ser subsanada para su valorización, la Comisión de Igualdad, de Género y Juventudes así lo hará saber la persona ciudadana, institución u organización participante durante el plazo de registro de las mismas.
+En el caso de que alguna propuesta tenga la necesidad de ser subsanada para su valorización, la Comisión de Igualdad de Género así lo hará saber (sic) la persona ciudadana, institución u organización participante durante el plazo de registro de las mismas.
 
-> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 8.
 
-En la primera semana de marzo del segundo año de ejercicio constitucional de cada Legislatura, en sesión de la Comisión de Igualdad de Género y Juventudes, se aprobará por mayoría simple de sus integrantes la propuesta de la Mujer que se haya hecho acreedora por sus méritos a formar parte del Muro en Honor a las mujeres cuyo trabajo y dedicación haya sido en beneficio del desarrollo económico, sociopolítico de la entidad, así como mujeres que se hayan destacado en los ámbitos académico, científico, deportivo, artístico, cultural o en la lucha por los derechos humanos en favor o en representación de la entidad.
+En la primera semana de marzo del segundo año de ejercicio constitucional de cada Legislatura, en sesión de la Comisión de Igualdad de Género, se aprobará por mayoría simple de sus integrantes la propuesta de la Mujer que se haya hecho acreedora por sus méritos a formar parte del Muro en Honor a las Mujeres cuyo trabajo y dedicación haya sido en beneficio del desarrollo económico, sociopolítico de la entidad, así como mujeres que se hayan destacado en los ámbitos académico, científico, deportivo, artístico, cultural o en la lucha por los derechos humanos en favor o en representación de la entidad.
 
 > <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2023)</small>
 
@@ -182,3 +190,9 @@ P.O. 10 DE FEBRERO DE 2023.
 Primero. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo. Por esta única ocasión y de conformidad con el artículo 3 de la Ley del Muro en Honor a las Mujeres Destacadas en el Estado de Baja California, se emitirá la Convocatoria a más tardar el día 15 de Febrero del presente año, dando trámite a las solicitudes que se encuentren pendientes, cuando cualquiera de los solicitantes reitere la petición, a fin de que sean integradas en el proceso de decisión para la elección de la Mujer que integrará el Muro en Honor, en caso de que alguna propuesta requiera ser subsanada la Comisión de Igualdad, de Género y Juventudes solicitará los documentos pendientes para cumplir con los requisitos previamente establecidos.
+
+P.O. 13 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 227 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 2, 3, 5, 6, 7 Y 8 DE LA LEY DEL MURO EN HONOR A LAS MUJERES DESTACADAS EN EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
