@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-servicio-civil-de-los-trabajadores-al-servicio-de-3299"
 country: "mx"
 rank: "ley"
 publication_date: "1989-10-20"
-last_updated: "2026-02-27"
+last_updated: "2026-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL SERVICIO CIVIL DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2026.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el viernes 20 de octubre de 1989.
 
@@ -645,7 +645,13 @@ VII.- Abstenerse de hacer propaganda dentro de los edificios o lugares de trabaj
 
 VIII.- Someterse a exámenes médicos periódicamente.
 
-IX.- Asistir a los institutos de capacitación, cursos, seminarios, etc., para mejorar su preparación y eficiencia.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2026)</small>
+
+IX.- Asistir a los institutos de capacitación, cursos, seminarios, etc., para mejorar su preparación y eficiencia laboral.
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2026)</small>
+
+X.- Recibir y acreditar las capacitaciones obligatorias en materia de género, de prevención y erradicación de la Violencia contra las Mujeres.
 
 ## TITULO TERCERO. DE LA SUSPENSION Y DE LA TERMINACION DE LAS RELACIONES LABORALES
 
@@ -2552,3 +2558,9 @@ P.O. 27 DE FEBRERO DE 2026.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 225 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 53 DE LA LEY DE SERVICIO CIVIL DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
