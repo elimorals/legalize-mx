@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-social-para-el-estado-de-baja-california-1135
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2024-07-26"
+last_updated: "2026-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2026.
 
 Ley publicada en la Sección XI del Periódico Oficial del Estado de Baja California, el jueves 31 de diciembre de 2015.
 
@@ -91,37 +91,75 @@ III. Las demás leyes aplicables.
 
 En el diseño, instrumentación, ejecución y evaluación de la política de desarrollo social estatal y municipal se observarán los siguientes principios:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 13 DE MARZO DE 2026)</small>
+
 I.- Armonización normativa: Espíritu de impulso y fortalecimiento de esta y otras leyes con el propósito de mantener un orden jurídico estatal eficiente;
 
-II.- Corresponsabilidad: Es la responsabilidad compartida entre el Gobierno y todos los sectores de la sociedad;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2026)</small>
 
-III.- Diálogo sostenido: Proceso permanente que crea espacios para la deliberación comunitaria con las instancias públicas, con el propósito de encontrar soluciones conjuntas para los problemas identificados con el desarrollo social;
+II.- Bienestar Social: El conjunto de acciones y políticas que tienen como objetivo mejorar la calidad de vida de las personas, con base en la medición de los niveles de desarrollo social;
 
-IV.- Efectividad: Es la obligación de la autoridad encargada de ejecutar los programas sociales de manera austera, con el menor costo administrativo, con eficacia y celeridad;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE MARZO DE 2026)</small>
 
-V.- Perspectiva de género: La plena igualdad de derechos y oportunidades entre mujeres y hombres, la eliminación de toda forma de desigualdad, exclusión o subordinación basada en los roles de género y una nueva relación de convivencia social entre mujeres y hombres desprovista de relaciones de dominación, estigmatización, y sexismo;
+III.- Corresponsabilidad: Es la responsabilidad compartida entre el Gobierno y todos los sectores de la sociedad;
 
-VI. Integralidad: Articulación y complementariedad de programas y acciones que conjunten a los diferentes beneficios sociales, en el marco de la Política Nacional, Estatal y Municipal de Desarrollo Social;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE MARZO DE 2026)</small>
 
-VII. Justicia distributiva: Procura que toda región o comunidad reciba de manera equitativa los beneficios del desarrollo conforme a sus méritos, sus necesidades, sus posibilidades y las de las demás personas, dando prioridad a los grupos que se encuentran excluidos del desarrollo y en desigualdad social;
+IV.- Diálogo sostenido: Proceso permanente que crea espacios para la deliberación comunitaria con las instancias públicas, con el propósito de encontrar soluciones conjuntas para los problemas identificados con el desarrollo social;
 
-VIII. Libertad: Concebida como la capacidad de las personas para elegir los medios para su desarrollo personal así como participar en el desarrollo social;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE MARZO DE 2026)</small>
 
-IX. Libre determinación de los pueblos indígenas: Reconocimiento a las formas internas de convivencia y de organización; ámbito de aplicación de sus propios sistemas normativos; elección de sus autoridades o representantes; medios para preservar y enriquecer sus lenguas y cultura; medios para conservar y mejorar su hábitat; acceso preferente a sus recursos naturales y acceso pleno a la jurisdicción del Estado;
+V.- Efectividad: Es la obligación de la autoridad encargada de ejecutar los programas sociales de manera austera, con el menor costo administrativo, con eficacia y celeridad;
 
-X. Participación social: Intervención e integración de las personas y de las organizaciones de la sociedad civil en la formulación, operación y evaluación de las políticas, programas y acciones de desarrollo social;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE MARZO DE 2026)</small>
 
-XI. Respeto a la diversidad: Reconocimiento de los derechos constitucionales de las personas en términos de su origen étnico, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil o cualquier otra, para superar toda forma de discriminación y promover un desarrollo con equidad y respeto a las diferencias;
+VI.- Perspectiva de género: La plena igualdad de derechos y oportunidades entre mujeres y hombres, la eliminación de toda forma de desigualdad, exclusión o subordinación basada en los roles de género y una nueva relación de convivencia social entre mujeres y hombres desprovista de relaciones de dominación, estigmatización, y sexismo;
 
-XII. Solidaridad: Colaboración entre personas, grupos sociales, dependencias y entidades de gobierno que de manera corresponsable luchan por mejorar la calidad de vida de la sociedad;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE MARZO DE 2026)</small>
 
-XIII. Subsidiariedad: Es el reconocimiento de los derechos y obligaciones que permiten a una persona o comunidad con mayor grado de desarrollo que otro, proteger, apoyar y ayudar a éste último en sus tareas para que supere su situación de marginación, pobreza o vulnerabilidad y alcance su desarrollo integral;
+VII.- Integralidad: Articulación y complementariedad de programas y acciones que conjunten a los diferentes beneficios sociales, en el marco de la Política Nacional, Estatal y Municipal de Desarrollo Social;
 
-XIV. Sustentabilidad: Preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales para mejorar la calidad de vida y la productividad de las personas, sin comprometer la satisfacción de las necesidades de las generaciones futuras;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE MARZO DE 2026)</small>
 
-XV. Transparencia: La información relativa al desarrollo social es de carácter público en los términos de las leyes en la materia;
+VIII.- Justicia distributiva: Procura que toda región o comunidad reciba de manera equitativa los beneficios del desarrollo conforme a sus méritos, sus necesidades, sus posibilidades y las de las demás personas, dando prioridad a los grupos que se encuentran excluidos del desarrollo y en desigualdad social;
 
-XVI. Universalidad: Es el compromiso de la autoridad responsable de la ejecución de los programas sociales de procurar el desarrollo social sin distinción alguna;
+> <small>(REFORMADA Y REUBICADA, P.O. 13 DE MARZO DE 2026)</small>
+
+IX.- Libertad: Concebida como la capacidad de las personas para elegir los medios para su desarrollo personal, así como participar en el desarrollo social;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE MARZO DE 2026)</small>
+
+X.- Libre determinación de los Pueblos Indígenas: Reconocimiento a las formas internas de convivencia y de organización; ámbito de aplicación de sus propios sistemas normativos; elección de sus autoridades o representantes; medios para preservar y enriquecer sus lenguas y cultura; medios para conservar y mejorar su hábitat; acceso preferente a sus recursos naturales y acceso pleno a la jurisdicción del Estado;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE MARZO DE 2026)</small>
+
+XI.- Participación social: Intervención e integración de las personas y de las organizaciones de la sociedad civil en la formulación, operación y evaluación de las políticas, programas y acciones de desarrollo social;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE MARZO DE 2026)</small>
+
+XII.- Respeto a la diversidad: Reconocimiento de los derechos constitucionales de las personas en términos de su origen étnico, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil o cualquier otra, para superar toda forma de discriminación y promover un desarrollo con equidad y respeto a las diferencias;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE MARZO DE 2026)</small>
+
+XIII.- Solidaridad: Colaboración entre personas, grupos sociales, dependencias y entidades de gobierno que de manera corresponsable luchan por mejorar la calidad de vida de la sociedad;
+
+> <small>(REFORMADA Y REUBICADA, P.O. 13 DE MARZO DE 2026)</small>
+
+XIV.- Subsidiariedad: Es el reconocimiento de los derechos y obligaciones que permiten a una persona o comunidad con mayor grado de desarrollo que otra, proteger, apoyar y ayudar a este último en sus tareas para que supere su situación de marginación, pobreza o vulnerabilidad y alcance su desarrollo integral;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE MARZO DE 2026)</small>
+
+XV.- Sustentabilidad: Preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales para mejorar la calidad de vida y la productividad de las personas, sin comprometer la satisfacción de las necesidades de las generaciones futuras;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE MARZO DE 2026)</small>
+
+XVI.- Transparencia: La información relativa al desarrollo social es de carácter público en los términos de las leyes en la materia;
+
+> <small>(REFORMADA Y REUBICADA, P.O. 13 DE MARZO DE 2026)</small>
+
+XVII.- Universalidad: Es el compromiso de la autoridad responsable de la ejecución de los programas sociales de procurar el desarrollo social sin distinción alguna.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 13 DE MARZO DE 2026)</small>
 
 Estos principios regirán la Política de Desarrollo Social en las siguientes vertientes:
 
@@ -1094,3 +1132,9 @@ P.O. 26 DE JULIO DE 2024.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- La aplicación de esta política social estará sujeta para su implementación a la disponibilidad o viabilidad financiera correspondiente, debiendo preverse en el presupuesto de egresos las partidas conducentes.
+
+P.O. 13 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 228 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 3 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
