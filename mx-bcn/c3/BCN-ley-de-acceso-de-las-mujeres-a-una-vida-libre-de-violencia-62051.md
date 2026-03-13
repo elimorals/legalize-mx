@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6205
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-25"
-last_updated: "2025-12-12"
+last_updated: "2026-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 25 de junio de 2008.
 
@@ -251,13 +251,17 @@ XXVII. Debida diligencia: La obligación de las personas servidoras públicas de
 
 XXVIII. Espacio Público: Áreas, espacios abiertos o predios de los asentamientos humanos destinados al uso, disfrute o aprovechamiento colectivo, de acceso generalizado y libre tránsito;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2026)</small>
 
-XXIX. Programa Institucional: Programa Institucional en beneficio de las Mujeres; y,
+XXIX. Programa Institucional: Programa Institucional en beneficio de las Mujeres;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE JULIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2026)</small>
 
-XXX. Registro Nacional: El Registro Nacional de Medidas u Órdenes de Protección de las Mujeres, Adolescentes, Niñas y Niños.
+XXX. Registro Nacional: El Registro Nacional de Medidas u Órdenes de Protección de las Mujeres, Adolescentes, Niñas y Niños; y,
+
+> <small>(ADICIONADA, P.O. 13 DE MARZO DE 2026)</small>
+
+XXXI. Noviazgo: Es la relación de carácter sentimental voluntaria entre dos personas que no están unidas por vínculo matrimonial ni concubinato, en la cual mantienen un trato cercano con afectividad romántica.
 
 > <small>(REFORMADO, P.O. 29 DE JULIO DE 2016)</small>
 
@@ -273,13 +277,13 @@ Para efectos de la presente ley, la perspectiva de género es una visión cient�
 
 ### CAPÍTULO I. DE LOS TIPOS DE VIOLENCIA CONTRA LAS MUJERES
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 18 DE MARZO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2026)</small>
 
 ###### Artículo 6.
 
-Los tipos y modalidades de violencia enumerados por ésta Ley, serán sancionados en los términos de la normatividad aplicable.
+Los tipos y modalidades de violencia enumerados por esta Ley serán sancionados en los términos de la normatividad aplicable.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 18 DE MARZO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 13 DE MARZO DE 2026)</small>
 
 Reconociendo como tipos de violencia los siguientes:
 
@@ -295,9 +299,11 @@ II. Violencia Física.- Es cualquier acto que inflige daño no accidental, usand
 
 III. Violencia Patrimonial.- Es cualquier acto u omisión que afecta el desarrollo adecuado de la víctima, se manifiesta en: la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer las necesidades de la víctima, así como los daños a los bienes comunes o propios de la víctima;
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2026)</small>
 
-IV. Violencia Económica.- Es toda acción u omisión del Agresor que afecta la supervivencia económica de la víctima, se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
+IV. Violencia Económica.- Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima, se manifiesta a través de limitaciones encaminadas a controlar los recursos, el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral.
+
+También se considera violencia económica la prohibición, impedimento, limitación o condicionamiento, de parte de la pareja para trabajar, además, de la obligatoriedad de trabajar, en un negocio familiar, sin remuneración económica alguna.
 
 > <small>(REFORMADA, P.O. 25 DE ABRIL DE 2025)</small>
 
@@ -371,6 +377,14 @@ Violencia Familiar: Se considera violencia familiar el acto abusivo de poder u o
 
 Los gobiernos estatal y municipales en forma coordinada, implementarán y operarán un sistema de información en el que se registren exclusivamente las denuncias e investigaciones de violencia familiar o violencia vicaria, lo que permitirá a las autoridades preventivas e investigadoras correspondientes, detectar en forma inmediata la reincidencia de toda persona agresora, a efecto de determinar en forma eficaz las medidas necesarias para salvaguardar la integridad de la víctima. También se considera violencia familiar cuando la persona agresora tenga responsabilidades de cuidado o de apoyo respecto de la víctima, aunque no tenga una relación de parentesco.
 
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2026)</small>
+
+###### Artículo 7 Bis.
+
+Violencia en el Noviazgo: Se considera violencia en el noviazgo toda acción u omisión intencional, de naturaleza abusiva, mediante la relación de uno o varios tipos de violencia, cometida por quien sea o haya sido pareja sentimental de la mujer en una relación de noviazgo, durante la misma o incluso después de su ruptura, que tenga por objeto dominar, controlar, agredir, manipular, humillar, hostigar, maltratar o ejercer presión sobre la mujer que lesione o sea susceptible de dañar su dignidad, integridad o libertad.
+
+Quedan comprendidas, entre otras conductas, los celos obsesivos, aislamiento de amistades o familia, descalificación o insultos, amenazas, control sobre la vestimenta, actividades, comunicaciones o redes sociales, la coacción o chantaje emocional o coerción.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2023)</small>
 
 ###### Artículo 8.
@@ -437,7 +451,9 @@ El hostigamiento sexual es el ejercicio del poder, en una relación de subordina
 
 El acoso sexual es una forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
 
-Las instituciones, organismos y dependencias públicas y privadas deberán contar con protocolos que prevean los mecanismos necesarios para la acreditación, investigación y sanción de estas conductas.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2026)</small>
+
+Las Instituciones, Organismos, Sindicatos, Dependencias públicas y privadas deberán contar con protocolos que prevean los mecanismos necesarios para la acreditación, investigación y sanción de estas conductas.
 
 En los casos en que dichas conductas de violencia sean cometidas por servidores públicos pertenecientes a instituciones, organismo (sic) o dependencias estatales o municipales, los Órganos Internos de Control y las Sindicaturas Municipales, en el respectivo ámbito de sus competencias, deberán investigar y sancionar dichas conductas de conformidad a lo que establece la Ley de Responsabilidades Administrativas del Estado de Baja California.
 
@@ -2256,3 +2272,21 @@ P.O. 12 DE DICIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 172 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A DIVERSOS ARTÍCULOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 13 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 223 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 10 BIS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 13 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 224 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 6 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 13 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 226 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 4 Y LA ADICIÓN DEL ARTÍCULO 7 BIS A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
