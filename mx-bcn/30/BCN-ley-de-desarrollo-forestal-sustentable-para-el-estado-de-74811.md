@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-desarrollo-forestal-sustentable-para-el-estado-de-74811"
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-30"
-last_updated: "2025-06-27"
+last_updated: "2026-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2026.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 30 de abril de 2010.
 
@@ -335,77 +335,79 @@ VI. Participar en labores de conservación y restauración de los recursos fores
 
 El ejercicio de los objetivos del Consejo se realizará por los miembros que lo integran, en apego al Plan Estatal de Desarrollo y de acuerdo a lo establecido en las disposiciones normativas aplicables, sin perjuicio de las revisiones, dictámenes, actos o procedimientos que se deban realizar por las diversas unidades administrativas de las dependencias y entidades de la Administración Pública Estatal.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 17.
 
 El Consejo se integrará por:
 
-I. El Titular de la Secretaría, quien será su Presidente;
+I.- La persona titular de la Secretaría, a quien corresponderá la Presidencia;
 
-II. El Secretario de Fomento Agropecuario;
+II.- La persona titular de la Secretaría de Agricultura y Desarrollo Rural;
 
-III. El Secretario de Planeación y Finanzas;
+III.- La persona titular de la Secretaría de Hacienda;
 
-IV. El Director de Ecología o su equivalente por cada uno de los Ayuntamientos; o en su defecto, un representante por cada Municipio del Estado;
+IV.- La persona titular de la Dirección de Ecología o su equivalente por cada uno de los Ayuntamientos; o en su defecto, una persona representante por cada Municipio del Estado;
 
-V. Un representante del sector social, designado en los términos del Reglamento respectivo, y
+V.- Una persona representante del sector social, designado en los términos del Reglamento respectivo;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2014)</small>
+VI.- Una persona representante del sector académico, designada en los términos del Reglamento;
 
-VI. Un representante del sector académico, designado en los términos del Reglamento; y
+VII.- La persona que presida la Comisión del Congreso del Estado responsable de la materia ambiental;
 
-> <small>(ADICIONADA, P.O. 1 DE AGOSTO DE 2014)</small>
+VIII.- Una persona representante de la Secretaría de Medio Ambiente y Recursos Naturales del Gobierno Federal;
 
-VII. El Presidente de la Comisión del Congreso del Estado responsable de la materia ambiental.
+IX.- Una persona representante de la Comisión Nacional Forestal;
 
-(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MARZO DE 2018) (F. DE E., P.O. 18 DE MAYO DE 2018)
+X.- Una persona representante de la Comisión Nacional de Áreas Naturales Protegidas; y,
 
-VIII. Un representante de la Secretaría de Medio Ambiente y Recursos Naturales;
+XI.- Una persona representante de la Procuraduría Federal de Protección al Ambiente.
 
-(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MARZO DE 2018) (F. DE E., P.O. 18 DE MAYO DE 2018)
+Las personas representantes del Gobierno Federal deberán abstenerse de votar cuando por la naturaleza de las sesiones y/o los asuntos representen conflicto de interés con sus funciones de gobierno.
 
-IX. Un representante de la Comisión Nacional Forestal;
-
-(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MARZO DE 2018) (F. DE E., P.O. 18 DE MAYO DE 2018)
-
-X. Un representante de la Comisión Nacional de Áreas Naturales Protegidas;
-
-(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MARZO DE 2018) (F. DE E., P.O. 18 DE MAYO DE 2018)
-
-XI. Un representante de la Procuraduría Federal de Protección al Ambiente
-
-(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE MARZO DE 2018) (F. DE E., P.O. 18 DE MAYO DE 2018)
-
-Los representantes del gobierno federal deberán abstenerse de votar cuando por la naturaleza de las sesiones y/o los asuntos representen conflicto de interés con sus funciones de gobierno.
-
-(REFORMADO [N. DE E. REPUBLICADO], P.O. 9 DE MARZO DE 2018) (F. DE E., P.O. 18 DE MAYO DE 2018)
-
-El Consejo contará con un Secretario Técnico designado por el Presidente, de entre el personal de la propia secretaría, quien deberá contar con nivel de Director de Área por lo menos.
+El Consejo contará con una persona titular de la Secretaría Técnica, designada por la Presidencia, de entre el personal de la propia Secretaría, quien deberá contar con nivel de Dirección de Área por lo menos.
 
 ###### ARTÍCULO 18.
 
 Cada miembro propietario designará un suplente, quien asistirá a las sesiones del Consejo en ausencia del primero, con las facultades que a éste corresponda. Los miembros propietarios y suplentes del Consejo serán a título honorífico.
 
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 19.
 
-El Consejo, por conducto de su Presidente, podrá invitar a participar en sus sesiones a:
+El Consejo, por conducto de la Presidencia, podrá invitar a participar en sus sesiones a:
+
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2018)</small>
 
 I. Titulares de otras dependencias y entidades de la Administración Pública Federal, Estatal y Municipal relacionadas con el sector forestal;
 
+> <small>(REFORMADA, P.O. 9 DE MARZO DE 2018)</small>
+
 II. Centros de enseñanzas e instituciones de investigación, y tecnológicos;
 
-III. Representantes del sector organizaciones de la sociedad civil que realice actividades en materia de conservación y restauración forestal;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2026)</small>
 
-IV. Representantes del sector empresarial en materia de producción forestal o de silvicultura;
+III. Personas representantes de la sociedad civil que realice (sic) actividades en materia de conservación y restauración forestal;
 
-V. Representantes del sector profesional, prestadores de servicios profesionales a productores;
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2026)</small>
 
-VI. Un representante de la Secretaría de Agricultura, Desarrollo Rural, Pesca y Alimentación;
+IV. Personas representantes del sector empresarial en materia de producción forestal o de silvicultura;
 
-VII. Cualquier otro que considere el Consejo.
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2026)</small>
 
-Los invitados a las sesiones, en términos del presente artículo participarán en las mismas con voz pero sin voto.
+V. Personas representantes del sector profesional, prestadoras de servicios profesionales a productores;
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2026)</small>
+
+VI. Una persona representante de la Secretaría de Agricultura y Desarrollo Rural del Gobierno Federal;
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2026)</small>
+
+VII. Cualquier persona que considere el Consejo.
+
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2026)</small>
+
+Las personas invitadas a las sesiones, en términos del presente artículo participarán en las mismas con voz, pero sin voto.
 
 (REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE MARZO DE 2018) (F. DE E., P.O. 18 DE MAYO DE 2018)
 
@@ -597,9 +599,17 @@ El Ejecutivo Estatal y los gobiernos municipales promoverán estímulos e incent
 
 En los términos de los acuerdos y convenios que celebren los gobiernos Federal y Estatal, y en su caso los gobiernos municipales, se efectuarán acciones en forma coordinada para detectar, diagnosticar, prevenir, combatir y controlar las plagas y enfermedades forestales; promoviendo además la restauración de las áreas afectadas e induciendo al cumplimiento de las disposiciones legales y medidas de seguridad fitosanitaria forestal.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 42.
 
-Cuando por motivos de sanidad forestal sea necesario realizar un aprovechamiento o eliminación de la vegetación forestal, deberá implementarse un programa que permita la reforestación, restauración y conservación de suelos, estando obligados los propietarios, poseedores o usufructuarios a restaurar mediante la regeneración natural o artificial, en un plazo no mayor a dos años.
+Cuando, por motivos de sanidad forestal sea necesario realizar un aprovechamiento o eliminación de la vegetación forestal, deberá implementarse un programa integral que contemple acciones de reforestación, restauración y conservación de suelos.
+
+Las personas propietarias, poseedoras o usufructuarias estarán obligadas a efectuar la restauración mediante la regeneración natural o artificial en un plazo no mayor de dos años, contados a partir de la conclusión del aprovechamiento o eliminación.
+
+Con el propósito de evitar impactos dañinos en los ecosistemas, el Estado, a través de la Secretaría y los Municipios, promoverá de manera preferente la forestación y reforestación con especies forestales endémicas o nativas de la región correspondiente.
+
+Para tal efecto, se podrán celebrar los convenios y acuerdos necesarios, con instituciones públicas o privadas, a fin de garantizar la debida restauración y conservación de los ecosistemas.
 
 ###### ARTÍCULO 43.
 
@@ -619,9 +629,11 @@ III. A pesar de las acciones instauradas en el terreno afectado y después de se
 
 ### CAPÍTULO DÉCIMO. DE LA PREVENCIÓN, COMBATE Y CONTROL DE INCENDIOS FORESTALES
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 45.
 
-La Secretaría realizará acciones de detección y capacitación en el combate y control de incendios forestales, de conformidad con los programas operativos anuales que se elaboren en congruencia con el Programa Nacional, de igual forma apoyará la coordinación con las instancias federales correspondientes en la prevención, control y combate de incendios forestales, así como el cumplimiento de las Normas Oficiales Mexicanas en la materia y similares, pudiendo en todo caso celebrar convenios y acuerdos de coordinación para dichos efectos.
+La Secretaría realizará acciones de detección y capacitación en el combate y control de incendios forestales, de conformidad con los programas operativos anuales que se elaboren en congruencia con el Programa Nacional, las cuales tendrán carácter prioritario, de igual forma apoyará la coordinación con las instancias federales correspondientes en la prevención, control y combate de incendios forestales, así como el cumplimiento de las Normas Oficiales Mexicanas en la materia y disposiciones similares, pudiendo, en todo caso, celebrar convenios y acuerdos de coordinación para dichos efectos.
 
 ###### ARTÍCULO 46.
 
@@ -800,3 +812,15 @@ P.O. 27 DE JUNIO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 110 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 232 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 17, 19 Y 45 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 13 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 234 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 42 DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
