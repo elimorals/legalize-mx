@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2025-12-12"
+last_updated: "2026-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2026.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -1787,13 +1787,21 @@ Artículo 143 BIS.- Lesiones contra menores o incapaces o adultos mayores.- Al q
 
 Si las lesiones a que se refiere el párrafo anterior son inferidas a una persona menor de doce años o de sesenta años o más edad, se impondrá una pena de dos a cinco años de prisión y hasta ciento cincuenta días multa. Si las lesiones inferidas son de las señaladas en el artículo 139, o de las que ponen en peligro la vida, la pena correspondiente a la lesión inferida aumentará en dos terceras partes, y se privará al agente del derecho de ejercer la patria potestad, la tutela, custodia, guarda-protección, educación, cuidado o instrucción de menores, adultos mayores e incapaces y/o inimputables.
 
-> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2026)</small>
 
-Artículo 143 TER.- Al que produzca dolosamente daños o alteraciones en la salud, dejando huella material en el cuerpo de la mujer y haya utilizado cualquier tipo de agente químico, ácido, corrosivo o inflamable, se le impondrá de siete a trece años de prisión y multa de trescientas a setecientas veces el valor diario de la unidad de medida y actualización.
+Artículo 143 TER.- Al que produzca dolosamente daños o alteraciones en la salud, dejando huella material en el cuerpo de la mujer y haya utilizado cualquier tipo de agente o sustancia química, ácida, corrosiva o inflamable, incluyendo líquidos a altas temperaturas o cualquier otra sustancia que provoque lesiones ya sea internas, externas o ambas, se le impondrá de siete a trece años de prisión y multa de trescientas a setecientas veces el valor diario de la unidad de medida y actualización.
+
+> <small>(ADICIONADO, P.O. 9 DE FEBRERO DE 2023)</small>
 
 La pena se aumentará hasta en una tercera parte, cuando haya existido entre el sujeto activo y la victima una relación, sentimental, afectiva, laboral o de confianza. El personal de salud deberá notificar al Ministerio Público de todos los casos de lesiones provocadas por agentes químicos que reciban para atención médica.
 
-Si la lesión o lesiones afectan la cara, el cuello, los brazos, manos u órganos sexuales de la víctima, la pena aumentara adicionalmente hasta por dos terceras partes de la máxima y mínima de la pena del párrafo primero.
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2026)</small>
+
+Si la lesión o lesiones afectan la cara, el cuello, los brazos, manos, oídos, vista u órganos sexuales de la víctima o causan deformidad o daño permanente, la pena aumentara adicionalmente hasta por dos terceras partes de la máxima y mínima de la pena del párrafo primero.
+
+> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2026)</small>
+
+En los casos previstos en este artículo, el Ministerio Público deberá actuar con perspectiva de género y coordinarse con las autoridades competentes para decretar las medidas de protección previstas en la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Baja California.
 
 ###### Artículo 144.
 
@@ -6942,3 +6950,9 @@ P.O. 12 DE DICIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 180 MEDIANTE EL CUAL SE APRUEBA (SIC) REFORMA AL ARTÍCULO 175 QUINQUIES DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 13 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 241 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 143 TER DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
