@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2025-11-28"
+last_updated: "2026-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -27,7 +27,7 @@ issue_date: "1931-08-13"
 
 CÓDIGO PENAL FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE MARZO DE 2026.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -4775,19 +4775,45 @@ Solamente será punible el hostigamiento sexual, cuando se cause un perjuicio o 
 
 Sólo se procederá contra el hostigador, a petición de parte ofendida.
 
-> <small>(REFORMADO, D.O.F. 14 DE JUNIO DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 13 DE MARZO DE 2026)</small>
 
 ###### ARTICULO 260.
 
-Comete el delito de abuso sexual quien ejecute en una persona, sin su consentimiento, o la obligue a ejecutar para sí o en otra persona, actos sexuales sin el propósito de llegar a la cópula.
+Comete el delito de abuso sexual quien sin el consentimiento de la víctima y sin el propósito de llegar a la cópula, realice en el ámbito público o privado, cualquier acto de naturaleza sexual, la obligue a observarlo, o la haga ejecutarlo sobre sí, para un tercero o para el propio sujeto activo.
 
-A quien cometa este delito, se le impondrá pena de seis a diez años de prisión y hasta doscientos días multa.
+También se considera abuso sexual cuando se obligue a la víctima a exhibir su cuerpo. Se entiende por acto sexual los tocamientos, caricias, roces corporales, exhibiciones o representaciones sexuales explícitas. Para los efectos del presente artículo no se considera consentimiento cuando la voluntad de la persona haya sido anulada o viciada por violencia, intimidación, engaño, amenaza, abuso de confianza, autoridad o situación de vulnerabilidad. El consentimiento no podrá presumirse del silencio, la pasividad o la falta de resistencia física de la víctima.
 
-Para efectos de este artículo se entiende por actos sexuales los tocamientos o manoseos corporales obscenos, o los que representen actos explícitamente sexuales u obliguen a la víctima a representarlos.
+A quien cometa este delito se le impondrá una sanción de tres a siete años de prisión y multa de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización. Así mismo, se impondrá la obligación de acudir a talleres reeducativos con perspectiva de género y no violencia contra las mujeres y/o prestar servicio social en favor del Estado o de instituciones de beneficencia pública a fin de favorecer medidas de no repetición y promover un cambio cultural a favor de la igualdad sustantiva entre mujeres y hombres. El cumplimiento de esta obligación es de especial relevancia para la procedencia y continuidad de la suspensión condicional.
 
-También se considera abuso sexual cuando se obligue a la víctima a observar un acto sexual, o a exhibir su cuerpo sin su consentimiento.
+Este delito se perseguirá de oficio.
 
-Si se hiciera uso de violencia, física o psicológica, la pena se aumentará en una mitad más en su mínimo y máximo.
+Las penas previstas en este artículo se aumentarán en una tercera parte cuando el delito se cometa en cualquiera de las siguientes circunstancias:
+
+I.- Con violencia física, psicológica o moral;
+
+II.- Por dos o más personas;
+
+III.- En un lugar despoblado, solitario o poco accesible;
+
+IV.- Cuando exista o haya existido entre el agresor y la víctima una relación de confianza, sentimental, de parentesco por consanguinidad o afinidad, laboral, educativa, docente, de formación deportiva, artística o religiosa;
+
+V.- Cuando se realice por persona que tenga a la víctima bajo su responsabilidad la custodia, guarda, tutela, cuidado o dependencia económica;
+
+VI.- Cuando se realice por persona servidora pública aprovechando su empleo, cargo o comisión. En este caso, además de la pena de prisión, la persona agresora será destituida del cargo, empleo o comisión e inhabilitada para el ejercicio de servicio público por un plazo igual al de la pena privativa de la libertad sin perjuicio de otras sanciones administrativas o civiles que correspondan;
+
+VII.- Cuando se realice por profesionista aprovechando su empleo, cargo o comisión. En este caso, además de la pena de prisión, la persona agresora será inhabilitada para el ejercicio de la profesión por un plazo igual al de la pena privativa de la libertad sin perjuicio de otras sanciones administrativas o civiles;
+
+VIII.- Cuando se realice por ministro de culto aprovechando su cargo, función o comisión;
+
+IX.- Cuando la víctima se encuentre bajo los efectos de alcohol, fármacos, narcóticos u otras sustancias que afecten su voluntad o discernimiento;
+
+X.- Cuando la víctima se encuentre en estado de embarazo o puerperio;
+
+XI.- Cuando se cometa contra personas por su orientación sexual, identidad de género o expresión de género, y
+
+XII.- Cuando la víctima se encuentre en estado de indefensión.
+
+Adicional a las sanciones establecidas en este artículo, se impondrá al sujeto activo el cumplimiento de la reparación integral del daño, que deberá incluir, entre otras medidas establecidas en la Ley General de Víctimas, la atención psicológica especializada para la víctima, hasta su total recuperación.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE OCTUBRE DE 2023)</small>
 
@@ -4861,17 +4887,23 @@ III.- Al que sin violencia y con fines lascivos introduzca por vía anal o vagin
 
 Si se ejerciera violencia física o moral, el mínimo y el máximo de la pena se aumentará hasta en una mitad.
 
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 1991)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE MARZO DE 2026)</small>
 
-ARTICULO 266 BIS.- Las penas previstas para el abuso sexual y la violación se aumentarán hasta en una mitad en su mínimo y máximo, cuando:
+ARTICULO 266 BIS.- Las penas previstas para la violación se aumentarán hasta en una mitad en su mínimo y máximo, cuando:
+
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1991)</small>
 
 I.- El delito fuere cometido con intervención directa o inmediata de dos o más personas;
+
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1991)</small>
 
 II.- El delito fuere cometido por un ascendiente contra su descendiente, éste contra aquél, el hermano contra su colateral, el tutor contra su pupilo, o por el padrastro o amasio de la madre del ofendido en contra del hijastro. Además de la pena de prisión, el culpable perderá la patria potestad o la tutela, en los casos en que la ejerciere sobre la víctima;
 
 > <small>(REFORMADA, D.O.F. 27 DE MARZO DE 2024)</small>
 
 III.- El delito fuere cometido por quien desempeñe un cargo o empleo público o ejerza su profesión, utilizando los medios o circunstancia (sic) que ellos le proporcionen. Además de la pena de prisión el condenado será destituido del cargo o empleo o suspendido por el término de cinco años en el ejercicio de dicha profesión, dicho término se duplicará en el caso de que el delito fuere cometido por profesionistas que se desempeñen en atención o servicio de niñas, niños y adolescentes;
+
+> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 1991)</small>
 
 IV.- El delito fuere cometido por la persona que tiene al ofendido bajo su custodia, guarda o educación o aproveche la confianza en él depositada.
 
@@ -8748,3 +8780,11 @@ Octavo. El Centro de Atención a Denuncias a que refiere el artículo 41 de la L
 Noveno. Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo al presupuesto aprobado de los sujetos obligados por este instrumento, por lo que no incrementarán su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
 
 Décimo. En tanto se creen las unidades especializadas de atención a los delitos de extorsión, previsto en el artículo 13 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Fiscalía General de la República, y las Fiscalías o Procuradurías locales deberán utilizar a las unidades especializadas contra el secuestro a que se refieren los artículos 41 y 42 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+D.O.F. 13 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 260 Y 266 BIS DEL CÓDIGO PENAL FEDERAL, EN MATERIA DE ABUSO SEXUAL".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
