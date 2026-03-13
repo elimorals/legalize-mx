@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-asistencia-social-para-el-estado-de-baja-california-2661
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-25"
-last_updated: "2025-05-13"
+last_updated: "2026-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 18 de noviembre de 2005.
 
@@ -157,9 +157,9 @@ ARTÍCULO 4 BIS.- Los servicios de asistencia social contemplados en la presente
 
 Son sujetos a la recepción de servicios de asistencia social previstos por esta Ley preferentemente los siguientes:
 
-> <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2026)</small>
 
-I.- Niñas, niños y adolescentes en estado de abandono, desamparo, desnutrición u obesidad, sujetos a maltrato o expuestos a ser víctimas de explotación o corrupción o cualquier delito, en situación de migración o repatriados y los menores que realicen sus estudios en las escuelas públicas de niveles preescolar y primaria ubicadas en el territorio del Estado, para los efectos que establece la fracción X, del artículo 4 de esta Ley.
+I.- Niñas, niños y adolescentes en estado de abandono, orfandad, desamparo, desnutrición u obesidad; sujetos a maltrato o expuestos a ser víctimas de explotación, corrupción o cualquier delito, en situación de migración o repatriados y los menores que realicen sus estudios en las escuelas públicas de niveles preescolar y primarias ubicadas en el territorio del Estado, para los efectos que establece la fracción X, del artículo 4 de esta Ley.
 
 > <small>(REFORMADA, P.O. 30 DE NOVIEMBRE DE 2018)</small>
 
@@ -1586,3 +1586,9 @@ P.O. 13 DE MAYO DE 2025.
 ## [N. DE E. TRANSITORIO DEL ARTÍCULO TERCERO DEL "DECRETO No. 92 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA, LA REFORMA DE LA LEY DE SALUD PÚBLICA, LA REFORMA A LA LEY DE ASISTENCIA SOCIAL, LA REFORMA DE LA LEY DE PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES Y LA REFORMA A LA LEY DE FOMENTO A LAS ACTIVIDADES DE BIENESTAR Y DESARROLLO SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 229 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN I DEL ARTÍCULO 5 DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
