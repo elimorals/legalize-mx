@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-turismo-del-estado-de-baja-california-68149"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-03"
-last_updated: "2024-05-07"
+last_updated: "2026-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE TURISMO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2026.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 3 de abril de 2009.
 
@@ -65,9 +65,17 @@ VII.- La creación, conservación, mejoramiento, protección y aprovechamiento d
 
 VIII.- La coordinación y participación de las Autoridades Federales, Municipales y Organismos del Sector para el desarrollo Turístico de la entidad;
 
-IX.- La optimización de la calidad de los servicios turísticos; y
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2026)</small>
 
-X.- La creación de los mecanismos para la participación de los sectores social y privado en el fomento, inversión y desarrollo del turismo.
+IX. La optimización de la calidad de los servicios turísticos;
+
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2026)</small>
+
+X. La creación de los mecanismos para la participación de los sectores social y privado en el fomento, inversión y desarrollo del turismo; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2026)</small>
+
+XI. La prevención y eliminación de todo tipo de discriminación por razones de orientación sexual, identidad de género, edad, religión, nacionalidad, étnica, condición social o económica promoviendo la igualdad de oportunidades y de trato evitando que se ejerzan formas de desigualdad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 8 DE DICIEMBRE DE 2023)</small>
 
@@ -1468,3 +1476,9 @@ P.O. 7 DE MAYO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 414 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 62 Y 65 DE LA LEY DE TURISMO DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 13 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 231 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 2 DE LA LEY DE TURISMO DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
