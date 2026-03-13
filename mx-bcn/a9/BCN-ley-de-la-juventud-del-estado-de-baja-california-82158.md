@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-la-juventud-del-estado-de-baja-california-82158"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-11"
-last_updated: "2025-12-12"
+last_updated: "2026-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LA JUVENTUD DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2026.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el lunes 11 de julio de 2011.
 
@@ -507,9 +507,11 @@ Los jóvenes tienen derecho a vivir y disfrutar un medio ambiente sano, ecológi
 
 El Estado y los Municipios promoverán la coordinación con las autoridades ambientales del Gobierno Federal, así como con el sector social y privado para favorecer la participación de los jóvenes en acciones orientadas en el cuidado y protección del medio ambiente.
 
+> <small>(REFORMADO, P.O. 13 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 43.
 
-El Estado y los Municipios desarrollaran estrategias de educación ambiental para fortalecer la cultura ambiental y ecológica entre los jóvenes.
+El Estado y los Municipios desarrollarán estrategias de educación ambiental para fortalecer la cultura ambiental y ecológica entre los jóvenes; fomentando en ellos una conciencia social para la conservación, protección y restauración forestal de sus comunidades.
 
 #### SECCIÓN SEXTA. DERECHO DE RECREACIÓN, DESCANSO Y ESPARCIMIENTO
 
@@ -2026,3 +2028,9 @@ P.O. 12 DE DICIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 194 MEDIANTE EL CUAL SE REFORMAN DIVERSOS ARTÍCULOS, ASÍ COMO LA REFORMA A LA SECCIÓN TERCERA DEL CAPÍTULO TERCERO TODOS A LA LEY DE LA JUVENTUD DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 239 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 43 DE LA LEY DE JUVENTUD DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
