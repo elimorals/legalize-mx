@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-146019"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-28"
-last_updated: "2025-06-27"
+last_updated: "2026-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2026.
 
 Ley publicada en la Sección X del Periódico Oficial del Estado de Baja California, el lunes 28 de diciembre de 2020.
 
@@ -330,6 +330,10 @@ VII. Educación Media Superior a Distancia, y
 VIII. Tecnólogo.
 
 Estos servicios se podrán impartir en las modalidades y opciones educativas señaladas en la presente Ley, como la educación dual con formación en escuela y empresa. La modalidad no escolarizada estará integrada, entre otros servicios, por la educación en línea y aquellos que operen con base en la certificación por evaluaciones parciales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE MARZO DE 2026)</small>
+
+La educación dual como opción educativa no estará limitada a rango de edad, toda vez que representa una oportunidad para incrementar el bienestar y desarrollo integral de las y los educandos.
 
 ###### Artículo 20.
 
@@ -1960,3 +1964,9 @@ P.O. 27 DE JUNIO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 113 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 35 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 238 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 19 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
