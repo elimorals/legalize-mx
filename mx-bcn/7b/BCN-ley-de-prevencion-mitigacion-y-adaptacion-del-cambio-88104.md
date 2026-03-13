@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-prevencion-mitigacion-y-adaptacion-del-cambio-88104"
 country: "mx"
 rank: "ley"
 publication_date: "2012-06-01"
-last_updated: "2024-08-16"
+last_updated: "2026-03-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88104&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PREVENCIÓN, MITIGACIÓN Y ADAPTACIÓN DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 1 de junio de 2012.
 
@@ -359,15 +359,21 @@ III. Celebrar con el Estado, con otros Municipios de la Entidad o con los partic
 
 IV. Promover la participación de la sociedad para el cumplimiento de los objetivos de esta Ley, mediante acciones de sensibilización y corresponsabilidad ciudadana en materia de prevención, adaptación y mitigación del cambio climático;
 
-V. Difundir permanentemente la aplicación de los planes o programas de desarrollo urbano municipal, donde se prevenga la exposición de los pobladores a riesgos ambientales; y
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2026)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE NOVIEMBRE DE 2018)</small>
+V. Difundir permanentemente la aplicación de los planes o programas de desarrollo urbano municipal, donde se prevenga la exposición de los pobladores a riesgos ambientales;
 
-VI. Promover que los concesionarios y permisionarios de transporte público y privado de pasajeros o de carga, en el reemplazo de sus unidades, adquieran, vehículos híbridos, eléctricos o que usen gas o biocombustibles, para disminuir los Gases de Efecto Invernadero; y
+> <small>(REFORMADA, P.O. 13 DE MARZO DE 2026)</small>
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 30 DE NOVIEMBRE DE 2018)</small>
+VI. Promover que los concesionarios y permisionarios de transporte público y privado de pasajeros o de carga, en el reemplazo de sus unidades, adquieran vehículos híbridos, eléctricos o que usen gas (sic) biocombustibles, para disminuir los Gases de Efecto Invernadero;
 
-VII. Las demás que les señalen esta Ley y otras disposiciones jurídicas aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE MARZO DE 2026)</small>
+
+VII. Fomentar las medidas preventivas, de buena gestión y de cumplimiento necesarias para evitar la generación de riesgos ambientales en las áreas de disposición final de residuos sólidos, las cuales deberán ser regularizadas y acondicionadas para que cumplan íntegramente con las Normas Oficiales Mexicanas aplicables en la materia;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 13 DE MARZO DE 2026)</small>
+
+VIII. Las demás que les señalen esta Ley y otras disposiciones jurídicas aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MARZO DE 2016)</small>
 
@@ -748,3 +754,9 @@ P.O. 16 DE AGOSTO DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 454 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 36 DE LA LEY DE PREVENCIÓN, MITIGACIÓN Y ADAPTACIÓN DEL CAMBIO CLIMÁTICO DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma de Ley entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado de Baja California.
+
+P.O. 13 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 236 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 18 DE LA LEY DE PREVENCIÓN, MITIGACIÓN Y ADAPTACIÓN DEL CAMBIO CLIMÁTICO PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
