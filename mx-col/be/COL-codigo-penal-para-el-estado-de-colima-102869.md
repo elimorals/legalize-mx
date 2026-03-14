@@ -4,7 +4,7 @@ identifier: "COL-codigo-penal-para-el-estado-de-colima-102869"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-10-11"
-last_updated: "2026-02-28"
+last_updated: "2026-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 CÓDIGO PENAL PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2026.
 
 Código publicado en el Suplemento No. 3 del Periódico Oficial del Estado de Colima, el sábado 11 de octubre de 2014.
 
@@ -1615,29 +1615,75 @@ II. Cuando en la comisión de un homicidio intervinieren dos o más sujetos y re
 
 (DEROGADO, P.O. 4 DE JULIO DE 2015)
 
-> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 123 Bis.
 
-Comete el delito de homicidio por razones de orientación sexual ó identidad de género, quien prive de la vida a otra persona y se cumpla por los menos uno de los siguientes supuestos:
+Comete el delito de homicidio de odio, motivado por razones de orientación sexual, identidad de género o expresión de género, quien prive de la vida a otra persona.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE MARZO DE 2026)</small>
+
+Existen razones de orientación sexual, identidad de género o expresión de género cuando se acredite cualquiera de los siguientes supuestos:
+
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2015)</small>
 
 I. La víctima presente signos de violencia sexual de cualquier tipo;
 
+> <small>(ADICIONADA, P.O. 14 DE FEBRERO DE 2015)</small>
+
 II. A la víctima se le hayan infligido lesiones infamantes, degradantes o mutilaciones, previas o posteriores a la privación de la vida;
 
-III. Existan datos que establezcan que se han cometido amenazas, acoso, violencia o lesiones del sujeto activo en contra de la víctima;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2026)</small>
 
-IV. Existan elementos de odio, rechazo o discriminación hacia la orientación sexual o identidad de género de la víctima;
+III. Existan antecedentes o datos que establezcan que se han cometido amenazas, acoso, violencia o lesiones del sujeto activo en contra de la víctima;
 
-V. El cuerpo de la víctima sea expuesto, depositado o arrojado en un lugar público; o
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2026)</small>
 
-VI. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a su fallecimiento.
+IV. Existan antecedentes de violencia familiar, del sujeto activo hacia el sujeto pasivo, motivado por la orientación sexual, identidad de género o expresión de género de la víctima;
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2026)</small>
+
+V. El cuerpo de la víctima sea expuesto, depositado o arrojado en un lugar público;
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2026)</small>
+
+VI. La víctima haya sido incomunicada, cualquiera que sea el tiempo previo a su fallecimiento;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2026)</small>
+
+VII. Cuando la víctima se haya encontrado en un estado de indefensión, entiéndase éste como la situación de desprotección real o incapacidad que imposibilite su defensa. Ya sea por la dificultad de comunicación para recibir auxilio, por razón de la distancia a un lugar habitado o por que exista algún impedimento físico o material para solicitar el auxilio;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2026)</small>
+
+VIII. El delito sea cometido en contra de una persona cuya identidad, orientación o identidad (sic) expresión de género sea diversa a su condición biológica;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2026)</small>
+
+IX. Cuando se utilice cualquier tipo de gas, compuesto (sic) químicos, ácido, álcalis, sustancias químicas, corrosivas, cáusticas, irritantes, tóxicas, inflamables, explosivas, reactivas, líquidos a altas temperaturas o cualquier otra sustancia que por sí misma o en las condiciones utilizadas, provoque la muerte; y
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2026)</small>
+
+X. Cuando quien cometa el delito manifieste de cualquier forma su repudio, odio, rechazo u otro tipo de expresión, voluntad o actitud discriminatoria hacia la comunidad LGBTTTIQ+, motivado por orientación sexual, identidad de género o expresión de género.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2026)</small>
+
+Se entiende por comunidad LGBTTTIQ+, a quienes tienen atracción emocional, afectiva y sexual por personas de su mismo género o de más de un género. También, quienes se identifican, expresan o viven la identidad de acuerdo con un género que no corresponde tradicionalmente al mismo sexo. Sus siglas significan Lesbianas, Gays, Bisexuales, Transgénero, Travesti, Transexuales, Intersexual y Queer.
+
+> <small>(ADICIONADO, P.O. 14 DE FEBRERO DE 2015)</small>
 
 La identidad de género, es la vivencia interna e individual del género tal como cada persona la experimenta profundamente, la cual podría corresponder o no con el sexo asignado al momento del nacimiento, incluyendo la vivencia personal del cuerpo (que podría involucrar la modificación de la apariencia o la función corporal a través de medios médicos, quirúrgicos o de otra índole, siempre que la misma sea libremente escogida) y otras expresiones de género como la vestimenta, el modo de hablar y los modales.
 
-> <small>(REFORMADO, P.O. 31 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2026)</small>
 
-A quien cometa homicidio por razones de orientación sexual o identidad de género, se le impondrán de treinta y cinco a cincuenta años de prisión y multa por el importe al equivalente de mil a mil quinientas unidades de medida y actualización.
+A quien cometa el delito de homicidio de odio, motivado por razones de orientación sexual, identidad de género o expresión de género, se le impondrán de cuarenta a sesenta años de prisión y multa equivalente de novecientas a mil quinientas unidades de medida y actualización.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2026)</small>
+
+Cuando la víctima sea menor de edad o no tenga capacidad para comprender el significado de hecho o por cualquier causa no lo pueda resistir, se aumentará un tercio más a las penas establecidas.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2026)</small>
+
+Cuando entre el activo y la víctima exista una relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato, sociedad de convivencia, de noviazgo, laboral, docente o cualquier otra relación de hecho o de amistad o que implique confianza, subordinación o superioridad se aumentará un tercio más a las penas establecidas.
 
 > <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2016)</small>
 
@@ -5074,5 +5120,11 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 P.O. 28 DE FEBRERO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 249.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO DE COLIMA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 14 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 253.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO PENAL DEL ESTADO DE COLIMA, EN MATERIA DE HOMICIDIO POR ODIO, MOTIVADO POR RAZONES DE ORIENTACIÓN SEXUAL, IDENTIDAD O EXPRESIÓN DE GÉNERO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
