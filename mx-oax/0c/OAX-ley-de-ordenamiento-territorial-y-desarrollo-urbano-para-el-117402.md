@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-ordenamiento-territorial-y-desarrollo-urbano-para-el-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-17"
-last_updated: "2025-11-08"
+last_updated: "2026-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2026.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 17 de octubre de 2016.
 
@@ -253,7 +253,9 @@ L. Reservas: áreas de un centro de población que serán utilizadas para su cre
 
 LI. Resiliencia: capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, para lograr una mejor protección futura y mejorar las medidas de reducción de riesgos;
 
-LII. Secretaría: Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable;
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2026)</small>
+
+LII. Secretaría: Secretaría de Infraestructuras y Comunicaciones;
 
 LIII. Secretaría del Medio Ambiente: Secretaría del Medio Ambiente, Energías y Desarrollo Sustentable;
 
@@ -291,9 +293,15 @@ VII. Protección y progresividad del Espacio público: crear condiciones de habi
 
 VIII. Resiliencia, seguridad urbana y riesgos: propiciar y fortalecer todas las instituciones y medidas de prevención, mitigación, atención, adaptación y resiliencia que tengan por objetivo proteger a las personas y su patrimonio, frente a los riesgos naturales y antropogénicos; así como evitar la ocupación de zonas de alto riesgo;
 
-IX. Sustentabilidad ambiental: promover prioritariamente, el uso racional de recursos naturales renovables y no renovables, para evitar comprometer la capacidad de futuras generaciones. Así como evitar rebasar la capacidad de carga de los ecosistemas y que el crecimiento urbano ocurra sobre suelos agropecuarios de alta calidad, áreas naturales protegidas o bosques; y
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2026)</small>
 
-X. Accesibilidad y movilidad urbana: consiste en promover una adecuada accesibilidad universal que genere cercanía y favorezca la relación entre diferentes actividades urbanas, a través de medidas como la flexibilidad de usos del suelo compatibles y densidades sustentables, una red vial operativa y funcional, la distribución jerarquizada de los equipamientos, una efectiva movilidad urbana que privilegie las calles completas, el transporte público, peatonal y no motorizado, generando incentivos a quienes generen cercanía entre las viviendas y fuentes de empleo. Consiste además en garantizar la accesibilidad a todas las personas sin importar su edad, género, discapacidad, condición social, creencias, opiniones y cualquier otra que de no tomar en cuenta atente contra la dignidad humana.
+IX. Sostenibilidad: se refiere a un enfoque integral que busca equilibrar el bienestar ambiental, social y económico.
+
+X. Sustentabilidad ambiental: promover prioritariamente, el uso racional de recursos naturales renovables y no renovables, para evitar comprometer la capacidad de futuras generaciones. Así como evitar rebasar la capacidad de carga de los ecosistemas y que el crecimiento urbano ocurra sobre suelos agropecuarios de alta calidad, áreas naturales protegidas o bosques; y
+
+> <small>(REFORMADA, P.O. 14 DE MARZO DE 2026)</small>
+
+XI. Accesibilidad y movilidad urbana: consiste en promover una adecuada accesibilidad universal que genere cercanía y favorezca la relación entre diferentes actividades urbanas, a través de medidas como la flexibilidad de usos del suelos (sic) compatibles y densidades sustentables, una red vial operativa y funcional, la distribución jerarquizada de los equipamientos, una efectiva movilidad urbana que privilegie las calles completas, el transporte público, peatonal y no motorizado, generando incentivos a quienes generen cercanía entre las viviendas y fuentes de empleo. Consiste además en garantizar la accesibilidad a todas las personas sin importar su edad, género, discapacidad, condición social, creencias, opiniones y cualquier otra que de no tomar en cuenta atente contra la dignidad humana.
 
 Toda política pública de ordenamiento territorial, desarrollo y planeación urbana y coordinación metropolitana deberá observar los presentes principios.
 
@@ -625,7 +633,9 @@ c. Los Programas Parciales de Desarrollo Urbano, y
 
 d. Los Esquemas Simplificados de Desarrollo Urbano.
 
-Los municipios que cuenten con características urbanas, geográficas, socioeconómicas o demográficas, deberán contar con un programa municipal de ordenamiento territorial.
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2026)</small>
+
+Todos los municipios deberán contar, cuando menos, con su Programa Municipal de Ordenamiento Territorial correspondiente. Aquellos municipios que cuenten con al menos un área urbanizada, en términos de la Ley General, deberán contar con su respectivo Programa de Desarrollo Urbano y de Centros de Población, los cuales serán sostenibles.
 
 Los programas y disposiciones antes mencionados, deberán contar con el Dictamen de congruencia a que se refiere esta Ley.
 
@@ -2957,9 +2967,11 @@ VIII. Llevar un control de los directores responsables de obra con registro esta
 
 IX. Asegurarse que en las obras, acciones o inversiones en que intervengan o autoricen se cumplan las normas sobre prevención de riesgos en los asentamientos humanos que esta Ley y la Ley General de Protección Civil establecen.
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 187.
 
-Las edificaciones a construir o destinar a usos industriales, comerciales, habitacionales o de servicios, que por su magnitud, necesidades de infraestructura o transporte generen impactos significativos en su área de influencia, requerirán de un dictamen técnico de uso del suelo, expedido por la Secretaría en su caso; la solicitud se efectuará a través del municipio respectivo, cuando se localicen en centros de población que no cuenten con plan o programa de ordenamiento territorial o de desarrollo urbano. Los requisitos para la obtención de la misma se señalarán en el reglamento respectivo.
+Las obras o actividades descritas en el artículo 122 de esta Ley, requerirán de un dictamen de impacto urbano regional expedido por la Secretaría. Los requisitos para la obtención de la (sic) mismas se señalarán en el reglamento respectivo.
 
 ###### ARTÍCULO 188.
 
@@ -3532,3 +3544,13 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO. El titular del Poder Ejecutivo de (sic) Estado de Oaxaca, emitirá las disposiciones reglamentarias para la armonización del presente Decreto, en el plazo de ciento ochenta días contados a partir de su entrada en vigor
+
+P.O. 14 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1162.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN LII DEL ARTÍCULO 4, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 13 Y EL ARTÍCULO 187; Y SE ADICIONA LA FRACCIÓN IX RECORRIÉNDOSE LAS SUBSECUENTES DEL ARTÍCULO 4 BIS, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. En caso de que el Municipio no cuente con programa de ordenamiento territorial o programa de desarrollo urbano, conforme a lo establecido en el presente ordenamiento, la autoridad municipal contará con un plazo de seis meses, contabilizados a partir del inicio de su administración que corresponda, para expedir dichos instrumentos, los cuales serán sostenibles y conforme al procedimiento establecido en el artículo 42 de esta Ley.
