@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48144"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2025-12-13"
+last_updated: "2026-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48144&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DE COLIMA Y VILLA DE ÁLVAREZ EN EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2026.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre del 2005.
 
@@ -1013,6 +1013,10 @@ e) Por galón de 10 litros de agua purificada en zona urbana 0.03856
 
 f) Por galón de 4 litros de agua purificada en zona urbana 0.02891
 
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2026)</small>
+
+XX.- Por distribución de agua purificada en galón de 20 litros 0.0853
+
 ### CAPÍTULO DECIMO. DE LOS DESCUENTOS Y BENEFICIOS EN EL PAGO DE LOS DERECHOS
 
 ###### ARTÍCULO 36.
@@ -1352,3 +1356,9 @@ P.O. 13 DE DICIEMBRE DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+P.O. 14 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 254.- POR EL QUE SE ADICIONAN DISPOSICIONES A LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DE LOS MUNICIPIOS DE COLIMA Y VILLA DE ÁLVAREZ EN EL ESTADO DE COLIMA; Y DEL DECRETO NÚMERO 157 QUE CREÓ LA COMISIÓN INTERMUNICIPAL DE AGUA POTABLE Y ALCANTARILLADO DE LOS MUNICIPIOS DE COLIMA Y VILLA DE ÁLVAREZ”.]
+
+ÚNICO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial "El Estado de Colima".
