@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-fiscalia-general-del-estado-de-colima-167475
 country: "mx"
 rank: "ley_organica"
 publication_date: "2023-08-12"
-last_updated: "2023-08-12"
+last_updated: "2026-03-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167475&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MARZO DE 2026.
 
 Ley publicada en el Suplemento Número 1 del Número 48 del Periódico Oficial del Estado de Colima, el sábado 12 de agosto de 2023.
 
@@ -1019,6 +1019,10 @@ Objeto del Órgano Interno de Control.
 
 El Órgano Interno de Control es el encargado de supervisar, inspeccionar, fiscalizar, vigilar, prevenir, corregir, investigar y calificar actos u omisiones que pudieran constituir responsabilidades administrativas de las personas servidoras públicas de la Fiscalía General, siendo el área encargada de investigar, substanciar y en su caso resolver los procedimientos de responsabilidades administrativas en términos de lo establecido en la Ley General de Responsabilidades Administrativas, la presente Ley, su Reglamento y las demás disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2026)</small>
+
+En materia de Transparencia y Acceso a la Información Pública y Protección de Datos Personales en Posesión de Sujetos Obligados, actuará como autoridad garante, siendo responsables de garantizar, en el ámbito de su competencia, el ejercicio de los derechos de acceso a la información pública y la protección de datos personales, conforme a los principios y bases establecidos por el artículo sexto de la Constitución Política de los Estados Unidos Mexicanos, artículo segundo fracción III de la Constitución Política del Estado Libre y Soberano de Colima, la Ley de Transparencia y Acceso a la Información Pública del Estado de Colima y la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Colima.
+
 ###### Artículo 42.
 
 Actuaciones del Órgano Interno de Control.
@@ -1065,7 +1069,11 @@ X. Rendir y dar cuentas a la persona Titular de la Fiscalía General, de sus act
 
 XI. Presentar las denuncias ante las autoridades competentes por las conductas realizadas por servidores y servidoras públicas de la Fiscalía General, que las leyes señalen como delito;
 
-XII. Las demás que le asignen las leyes, el Reglamento de la Ley y las que le confiera la persona Titular de la Fiscalía General.
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2026)</small>
+
+XII. Las atribuciones como autoridad garante, estarán dispuestas por la Ley de Transparencia y Acceso a la Información Pública del Estado de Colima, la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Colima, y demás disposiciones jurídicas aplicables; y
+
+XIII. Las demás que le asignen las leyes, el Reglamento de la Ley y las que le confiera la persona Titular de la Fiscalía General.
 
 Los delitos en que incurran las y los servidores públicos del Órgano Interno de Control, incluyendo a su titular, serán investigados y perseguidos por el o la Fiscal General del Estado o por el servidor o servidora pública en quien se delegue la facultad.
 
@@ -2281,11 +2289,81 @@ XVI. Someterse a los procedimientos de evaluación en los términos de esta Ley 
 
 XVII. Cumplir con los requisitos de ingreso y permanencia.
 
-XVIII. Las demás que se establezcan en las disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2026)</small>
+
+XVIII. Acatar la orden de un superior o superiora, salvo que la misma sea constitutiva de delito o falta administrativa;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2026)</small>
+
+XIX. Abstenerse de dormir durante su jornada;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2026)</small>
+
+XX. Maniobrar el armamento, con la debida precaución o necesidad;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2026)</small>
+
+XXI. Abstenerse de faltar al deber de conducirse con dedicación y disciplina, así como con apego al orden jurídico y respeto a los derechos humanos reconocidos en la Constitución;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2026)</small>
+
+XXII. Abstenerse de incumplir, retrasar o perjudicar la debida actuación del Ministerio Público;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2026)</small>
+
+XXIII. Promover ante la autoridad judicial el reconocimiento de la calidad de víctima, ofendido u ofendida en términos de las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 14 DE MARZO DE 2026)</small>
+
+XXIV. Abstenerse de realizar cualquier otra conducta contraria a los principios de actuación que legalmente están obligados a observar quienes integran el Servicio Profesional de Carrera y que atenten seriamente contra la honorabilidad y reputación de éstos; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 14 DE MARZO DE 2026)</small>
+
+XXV. Las dispuestas en el artículo 129 de la Ley General del Sistema Nacional de Seguridad Pública y las demás que se establezcan en las disposiciones aplicables.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 14 DE MARZO DE 2026)</small>
+
+### CAPÍTULO III BIS. CORRECTIVOS DISCIPLINARIOS Y SANCIONES
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2026)</small>
+
+###### Artículo 107 Bis.
+
+El incumplimiento de las obligaciones de las personas integrantes del Servicio Profesional de Carrera, señaladas en el capítulo anterior dará lugar a la imposición de:
+
+I. Correctivos disciplinarios; o
+
+II. Sanciones.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2026)</small>
+
+###### Artículo 107 Ter.
+
+Los correctivos disciplinarios son medidas impuestas de manera fundada y motivada por la persona superior jerárquica que ejerza el mando directo sobre personal que contravenga las obligaciones previstas anteriormente, y que, por su naturaleza, no ameriten sanción administrativa.
+
+Su finalidad es preservar la disciplina, el respeto, el orden y la adecuada prestación del servicio, asegurando el cumplimiento de los deberes y obligaciones concernientes a este personal.
+
+La aplicación del correctivo disciplinario, debe ser proporcional, indicando el motivo y fundamento de la misma, debiendo comunicárselo al integrante del servicio por escrito en un periodo de hasta cuarenta y ocho horas después de haber incurrido en una contravención de las obligaciones que tienen como integrante del servicio.
+
+El superior jerárquico que aplique el correctivo, debe generar un registro documental del mismo.
+
+El régimen disciplinario del personal del servicio profesional de carrera, contemplará los siguientes correctivos disciplinarios:
+
+I. Amonestación verbal;
+
+II. Amonestación escrita;
+
+III. Disculpa pública; o
+
+IV. Trabajo en favor de la comunidad.
+
+De igual forma y con independencia del correctivo disciplinario al que haya sido acreedor, el personal con correctivo disciplinario deberá acudir y participar en cursos, pláticas o programas de capacitación y profesionalización que se estimen relacionados con la naturaleza de la falta cometida.
+
+En los casos en que la persona integrante haya causado un daño a los bienes propiedad de la Fiscalía General y el superior le haya impuesto un correctivo disciplinario, el superior dará vista a la Dirección General de Servicios Administrativos, quienes requerirán la reparación del daño, en caso de negación por parte del servidor público la Dirección General de Servicios Administrativos, realizará los trámites legales correspondientes.
+
+Para la aplicación de sanciones se estará a lo dispuesto por el Capítulo VIII del presente título.
 
 ### CAPÍTULO IV. DE LA SEPARACIÓN Y REMOCIÓN DE QUIENES INTEGRAN EL SERVICIO PROFESIONAL DE CARRERA
-
-### CAPÍTULO V. LA INVESTIGACIÓN Y EL PROCEDIMIENTO DE SANCIÓN DE QUIENES INTEGRAN EL SERVICIO PROFESIONAL DE CARRERA
 
 ###### Artículo 108.
 
@@ -2293,37 +2371,57 @@ Separación de quienes integran el Servicio Profesional de Carrera.
 
 El procedimiento para la separación del personal perteneciente al servicio profesional de carrera, tendrá como base el incumplimiento de los requisitos de ingreso y permanencia establecidos por esta Ley, la Ley del Sistema Nacional, la Ley del Sistema Estatal y demás legislación aplicable.
 
-El procedimiento de remoción se instaurará por incurrir en causas de responsabilidad con motivo de su encargo, contempladas en el artículo 122 de esta Ley, en el Reglamento del Servicio y demás disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2026)</small>
+
+El procedimiento de remoción se instaurará por incurrir en causas de responsabilidad con motivo de su encargo, contempladas en el artículo 121 de esta Ley, en el Reglamento del Servicio y demás disposiciones legales aplicables.
 
 El procedimiento de separación y remoción se sujetará a las reglas que se establezcan en el procedimiento de sanción.
 
-### CAPÍTULO VI. DEL RECURSO DE REVISIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE MARZO DE 2026)</small>
+
+### CAPÍTULO V. LA INVESTIGACIÓN Y EL PROCEDIMIENTO SANCIONADOR DE QUIENES INTEGRAN EL SERVICIO PROFESIONAL DE CARRERA
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2026)</small>
 
 ###### Artículo 109.
 
-Del procedimiento de sanción.
+Del procedimiento sancionador.
 
-Los procedimientos de sanción, deberán acogerse a las disposiciones normativas establecidas en este capítulo, y se iniciarán por la comisión de alguna de las causales previstas en los artículos 119, 120 y 121 de esta Ley.
+El procedimiento sancionador deberá acogerse a las disposiciones normativas establecidas en este capítulo, y se iniciarán por la comisión de alguna de las causales previstas en el Capítulo VIII de este título.
+
+El procedimiento sancionador deberá constar de las siguientes etapas:
+
+1. Inicio formal del procedimiento;
+
+2. Notificación personal y emplazamiento;
+
+3. Admisión y desahogo de pruebas;
+
+4. Audiencia única; y
+
+5. Cierre de instrucción y resolución.
+
+1.- Inicio formal del procedimiento.
 
 La investigación estará a cargo de una Visitadora o un Visitador, misma que tendrá por objeto el esclarecimiento de los hechos materia del procedimiento, mediante la práctica de las diligencias necesarias y, en su caso, recabar los medios de prueba suficientes, que permitan iniciar la etapa del procedimiento administrativo correspondiente:
 
-I. Se decretará el inicio de la carpeta de investigación administrativa, a petición de parte, por queja, denuncia escrita o mediante comparecencia, de oficio, por orden de la persona Titular de la Fiscalía General, del o la Titular del Órgano Interno de Control y con motivo de las visitas realizadas en el ejercicio de sus atribuciones, cuando se tengan conocimiento de hechos u omisiones que puedan constituir causas de sanción de conformidad con lo previsto en ésta Ley, reglamentos o disposiciones aplicables;
+I. Se podrá dar inicio a una carpeta de investigación administrativa, por queja o denuncia ya sea escrita o mediante comparecencia, así como de oficio, por solicitud de la persona Titular de la Fiscalía General, del o la Titular del Órgano Interno de Control y con motivo de las visitas realizadas en el ejercicio de sus atribuciones, cuando se tengan conocimiento de hechos u omisiones que puedan constituir causas de sanción de conformidad con lo previsto en ésta Ley, reglamentos o disposiciones aplicables;
 
-II. Las quejas, denuncias escritas o por comparecencia o de oficio, presentadas en contra de servidores o servidoras públicas, deberán estar apoyadas con elementos probatorios suficientes, que señalen el lugar en donde se encuentren (sic) el presunto infractor o infractora, o donde ocurra el hecho, además deberán reunir los requisitos formales siguientes:
+II. Las quejas o denuncias presentadas en contra de servidores o servidoras públicas, deberán estar apoyadas con elementos probatorios suficientes, que señalen el lugar en donde se encuentren el presunto infractor o infractora, o donde ocurra el hecho, además deberán reunir los requisitos formales siguientes:
 
-a. Lugar y fecha;
+a) Lugar y fecha;
 
-b. Autoridad a la que se dirige;
+b) Autoridad a la que se dirige;
 
-c. Domicilio para oír y recibir notificaciones como señalar a las personas autorizadas para tal efecto;
+c) Domicilio para oír y recibir notificaciones como señalar a las personas autorizadas para tal efecto;
 
-d. Narración descriptiva de hechos y motivos que incluya circunstancias de tiempo modo y lugar, cualquier dato que permita identificar al presunto infractor o infractora; y
+d) Narración descriptiva de hechos y motivos que incluya circunstancias de tiempo modo y lugar, cualquier dato que permita identificar al presunto infractor o infractora; y
 
-e. Nombre y firma del quejoso o quejosa, o de la persona denunciante o de quien promueva a su ruego o en su caso, de su representante legal.
+e) Nombre y firma del quejoso o quejosa, o de la persona denunciante o de quien promueva a su ruego o en su caso, de su representante legal.
 
 III. Los datos recabados en los incisos anteriores y que resulten ser de carácter sensible serán objeto de protección y tratamiento en términos de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados para el Estado de Colima;
 
-IV. El visitador o Visitadora, resolverá si existen elementos para iniciar la carpeta de investigación administrativa a que se refiere este capítulo y en caso contrario se requerirá a la persona que denuncia para que aclare la queja o la denuncia, cuando falte alguno de los requisitos para su presentación, se le prevendrá, para que en el término de tres días hábiles haga la aclaración correspondiente. En caso de no cumplir con dicho requerimiento, se tendrá por no presentada y se decretará el archivo del asunto;
+IV. El visitador o visitadora, resolverá si existen elementos para iniciar la carpeta de investigación administrativa a que se refiere este capítulo y en caso contrario se requerirá a la persona que denuncia para que aclare la queja o la denuncia, cuando falte alguno de los requisitos para su presentación, se le prevendrá, para que en el término de tres días hábiles haga la aclaración correspondiente. En caso de no cumplir con dicho requerimiento, se tendrá por no presentada y se decretará el archivo del asunto;
 
 V. En caso de cumplir con los requisitos anteriores, el visitador o visitadora, mediante acuerdo decretará la procedencia del inicio de investigación y se registrará en el libro de gobierno y se emitirá un acuerdo de inicio de la carpeta de investigación administrativa. De igual forma se ordenará la práctica de las diligencias necesarias, hasta su determinación;
 
@@ -2333,19 +2431,21 @@ VII. Contra el acuerdo de inicio de la carpeta de investigación administrativa,
 
 VIII. Agotadas las diligencias necesarias, el visitador o visitadora, mediante acuerdo, declarará cerrada la etapa de investigación atendiendo a los criterios señalados en el Reglamento del Servicio y a lo siguiente:
 
-A. Si del análisis de las constancias que integran la carpeta de investigación se desprende la existencia de elementos que hagan presumir la probable comisión de alguna causal de sanción del presunto infractor o infractora, por transgresión a la presente Ley, el Reglamento del Servicio, Reglamento de la Ley y demás disposiciones aplicables, se dictará el acuerdo en el cual se decrete concluida la investigación, realizando para ello, la valoración de las pruebas y un análisis lógico, jurídico y natural de los hechos materia de la investigación, remitiendo dicho cierre a la persona Titular del Órgano interno de control, para que en su caso, inicie el procedimiento sancionador en contra del presunto infractor o infractora; y
+a) Si del análisis de las constancias que integran la carpeta de investigación se desprende la existencia de elementos que hagan presumir la probable comisión de alguna causal de sanción del presunto infractor o infractora, por transgresión a la presente Ley, el Reglamento del Servicio, Reglamento de la Ley y demás disposiciones aplicables, se dictará el acuerdo en el cual se decrete concluida la investigación, realizando para ello, la valoración de las pruebas y un análisis lógico, jurídico y natural de los hechos materia de la investigación, remitiendo dicho cierre a la persona Titular del Órgano Interno de Control, para que en su caso, inicie el procedimiento sancionador en contra del presunto infractor o infractora; y
 
-B. Si de las constancias que integran la carpeta de investigación administrativa, no se desprenden elementos suficientes que permitan determinar la presunta responsabilidad del servidor o servidora pública, el visitador o visitadora, dictará resolución debidamente fundada y motivada en la que se decrete el sobreseimiento, sin perjuicio de que pueda abrirse nuevamente la investigación si se presentan nuevos indicios o pruebas y no hubiere prescrito la facultad para sancionar. La resolución que se dicte deberá contener como mínimo, los elementos siguientes:
+b) Si de las constancias que integran la carpeta de investigación administrativa, no se desprenden elementos suficientes que permitan determinar la presunta responsabilidad del servidor o servidora pública, el visitador o visitadora, dictará resolución debidamente fundada y motivada en la que se decrete el sobreseimiento, sin perjuicio de que pueda abrirse nuevamente la investigación si se presentan nuevos indicios o pruebas y no hubiere prescrito la facultad para sancionar. La resolución que se dicte deberá contener como mínimo, los elementos siguientes:
 
-a) Lugar y fecha de pronunciación;
+1) Lugar y fecha de pronunciación;
 
-b) Fundamento legal de la competencia;
+2) Fundamento legal de la competencia;
 
-c) Fundamentación legal del acto administrativo para dictar la resolución;
+3) Fundamentación legal del acto administrativo para dictar la resolución; y
 
-d) Nombre, cargo y adscripción del Presunto Infractor o Infractora;
+4) Nombre, cargo y adscripción del Presunto Infractor o Infractora.
 
-IX. De considerarse procedente, la persona Titular del Órgano Interno de Control, dictará el acuerdo de inicio del procedimiento de sanción y dará apertura a la etapa de la instrucción y lo notificará con las formalidades legales al presunto infractor o infractora, haciéndole saber lo siguiente:
+2.- Notificación personal y emplazamiento.
+
+I. De considerarse procedente, la persona Titular del Órgano Interno de Control, dictará el acuerdo de inicio del procedimiento de sanción y dará apertura a la etapa de la instrucción y lo notificará con las formalidades legales al presunto infractor o infractora, haciéndole saber lo siguiente:
 
 a) La naturaleza de la acusación o señalamiento;
 
@@ -2355,53 +2455,63 @@ c) El derecho a defenderse por sí, o asistido de un defensor o defensora;
 
 d) El derecho de ofrecer pruebas, excepto la confesional a cargo de la autoridad y las que fueren contrarias a la moral, al derecho o a las buenas costumbres, debiendo acompañarlas de los elementos necesarios para su desahogo; y
 
-e) El derecho a formular alegatos;
+e) El derecho a formular alegatos.
 
-El procedimiento será substanciado con base en las constancias derivadas de la carpeta de investigación administrativa, las que aporte el presunto infractor o infractora en el periodo de pruebas y alegatos como las recabadas por el Visitador o Visitadora durante la etapa de la investigación;
+El procedimiento será substanciado con base en las constancias derivadas de la carpeta de investigación administrativa, las que aporte el presunto infractor o infractora en el periodo de pruebas y alegatos, así como las recabadas por el Visitador o Visitadora durante la etapa de la investigación.
 
-X. La notificación al presunto infractor o infractora del inicio del procedimiento respectivo se le practicará en el domicilio oficial de adscripción, en el último que hubiera reportado, o en el lugar en que este se encuentre. Una vez notificado contará con diez días hábiles que empezarán a correr a partir del día siguiente en que surta efectos la notificación para que, mediante escrito libre, pueda controvertir los hechos materia de la imputación y ofrecer las pruebas que estime para su defensa. En caso de no hacerlo perderá el derecho a ofrecer pruebas;
+II. La notificación al presunto infractor o infractora del inicio del procedimiento respectivo se le practicará en el domicilio oficial de adscripción, en el último que hubiera reportado, o en el lugar en que este se encuentre. Una vez notificado contará con diez días hábiles que empezarán a correr a partir del día siguiente en que surta efectos la notificación para que, mediante escrito libre, pueda controvertir los hechos materia de la imputación y ofrecer las pruebas que estime para su defensa. En caso de no hacerlo perderá el derecho a ofrecer pruebas;
 
-XI. En su escrito de comparecencia, el presunto infractor o infractora deberá señalar domicilio para oír y recibir notificaciones dentro del lugar de residencia del Órgano Interno de Control, y se le apercibirá que, en caso de no hacerlo, las subsecuentes notificaciones le surtirán efectos en los estrados del Órgano Interno de Control, del mismo modo, en caso de que el presunto infractor o infractora no ofrezca pruebas, se dejará constancia de ello en el expediente;
+III. En su escrito de comparecencia, el presunto infractor o infractora deberá señalar domicilio para oír y recibir notificaciones dentro del lugar de residencia del Órgano Interno de Control, y se le apercibirá que, en caso de no hacerlo, las subsecuentes notificaciones le surtirán efectos en los estrados del Órgano Interno de Control, del mismo modo, en caso de que el presunto infractor o infractora no ofrezca pruebas, se dejará constancia de ello en el expediente;
 
-XII. Recibido el escrito o vencido el plazo, se acordará sobre su recepción o la no presentación del mismo. Tratándose del primer supuesto, se deberá acordar sobre la admisión o desechamiento de las pruebas ofrecidas y en el segundo supuesto se dejará constancia de ello en el expediente.
+3.- Admisión y desahogo de pruebas.
 
-Se admitirán toda clase de pruebas, excepto la confesional a cargo de las partes por absolución de posiciones, la declaración de parte a cargo de las autoridades, las que no tengan relación con los hechos controvertidos y las que fueren contrarias a la moral y al derecho.
+I. Recibido el escrito o vencido el plazo, se acordará sobre su recepción o la no presentación del mismo. Tratándose del primer supuesto, se deberá acordar sobre la admisión o desechamiento de las pruebas ofrecidas y en el segundo supuesto se dejará constancia de ello en el expediente;
+
+II. Se admitirán toda clase de pruebas, excepto la confesional a cargo de las partes por absolución de posiciones, la declaración de parte a cargo de las autoridades, las que no tengan relación con los hechos controvertidos y las que fueren contrarias a la moral y al derecho;
+
+Se admitirá la prueba testimonial cuando el oferente se comprometa a presentar a los testigos para el día de la audiencia bajo el apercibimiento de ser desechada en caso de que no se presenten.
 
 Las pruebas que sean admitidas y que requieran ser preparadas, el o la Titular del Órgano Interno de Control, deberá realizar lo conducente, para que el día de la audiencia se esté en posibilidad de desahogarse.
 
-En el acuerdo de admisión de pruebas, se ordenará emplazar al presunto infractor o infractora, para que comparezca a la audiencia de pruebas y alegatos, señalando el día, hora y lugar que tendrá verificativo la celebración de la audiencia, que se llevará a cabo con o sin su asistencia; haciéndole saber el derecho a formular alegatos (sic) manera verbal o por escrito;
+III. En el acuerdo de admisión de pruebas, se ordenará notificar al presunto infractor o infractora, para que comparezca a la audiencia de pruebas y alegatos, señalando el día, hora y lugar que tendrá verificativo la celebración de la audiencia, que se llevará a cabo con o sin su asistencia; haciéndole saber el derecho a formular alegatos (sic) manera verbal o por escrito.
 
-XIII. El desahogo de la audiencia de pruebas y alegatos se desarrollará de la forma siguiente:
+4.- Audiencia única.
 
-a. El día y hora señalados para la celebración de la audiencia, la persona Titular del Órgano Interno de Control declarará abierta la misma;
+I. El desahogo de la audiencia de pruebas y alegatos se desarrollará de la forma siguiente:
 
-b. Acto seguido, se hará una relación sucinta de la imputación que obra en el expediente;
+a) El día y hora señalados para la celebración de la audiencia, la persona Titular del Órgano Interno de Control declarará abierta la misma;
 
-c. Se procederá al desahogo respecto de las pruebas que hayan sido ofrecidas y admitidas por el presunto infractor o infractora, y si fuere posible, las que hayan sido debidamente preparadas y;
+b) Acto seguido, se hará una relación sucinta de la imputación que obra en el expediente;
 
-d. Una vez desahogada las pruebas admitidas, se procederá a abrir la etapa de alegatos, que podrá presentar en forma verbal o por escrito; en el primer supuesto se le dará el uso de la voz a cada una de las partes o su autorizado por un término que no exceda de cinco minutos;
+c) Se procederá al desahogo respecto de las pruebas que hayan sido ofrecidas y admitidas por el presunto infractor o infractora, y si fuere posible, las que hayan sido debidamente preparadas; y
 
-XIV. Desahogadas las pruebas y presentados los alegatos la persona Titular del Órgano Interno de Control, declarara cerrada la etapa de instrucción;
+d) Una vez desahogada (sic) las pruebas admitidas, se procederá a abrir la etapa de alegatos, que podrá presentar en forma verbal o por escrito; en el primer supuesto se le dará el uso de la voz a cada una de las partes o su autorizado por un término que no exceda de cinco minutos.
 
-XV. Concluida la etapa de instrucción, el o la Titular del Órgano Interno de Control, realizará lo siguiente:
+II. Desahogadas las pruebas y presentados los alegatos la persona Titular del Órgano Interno de Control, declarará cerrada la etapa de instrucción.
 
-a. Dentro de un plazo de quince días hábiles, realizará el proyecto de resolución debidamente fundado y motivado.
+5.- Cierre de instrucción y resolución.
 
-b. Posteriormente, el Órgano Interno de Control, en un plazo no mayor a cinco días hábiles, deberá remitir a la Presidencia del Consejo, el expediente administrativo y el proyecto de resolución, para que en un plazo no mayor a quince días hábiles, el pleno del Consejo emita la resolución correspondiente.
+I. Concluida la etapa de instrucción, el o la Titular del Órgano Interno de Control, realizará lo siguiente:
 
-XVI. El termino para emitir la resolución, podrá ampliarse por una sola vez, por quince días hábiles más, cuando la complejidad del asunto así lo requiera, debiendo expresar los motivos para ello;
+a) Dentro de un plazo de quince días hábiles, realizará el proyecto de resolución debidamente fundado y motivado.
 
-XVII. Una vez emitida la resolución, en los diez días hábiles siguientes deberá notificarse personalmente al presunto infractor o infractora;
+b) Posteriormente, el Órgano Interno de Control, en un plazo no mayor a cinco días hábiles, deberá remitir a la Presidencia del Consejo, el expediente administrativo y el proyecto de resolución, para que, en un plazo no mayor a quince días hábiles, el pleno del Consejo emita la resolución correspondiente.
 
-XVIII. El Consejo podrá reubicar a la persona servidora pública al inicio del procedimiento o en cualquier momento posterior a este, cuando así convenga a las necesidades del servicio o para evitar que su permanencia pueda afectar los intereses de la Institución. Dicha reubicación no prejuzga sobre la responsabilidad.
+II. El término para emitir la resolución, podrá ampliarse por una sola vez, por quince días hábiles más, cuando la complejidad del asunto así lo requiera, debiendo expresar los motivos para ello;
+
+III. Una vez emitida la resolución, en los diez días hábiles siguientes deberá notificarse personalmente al presunto infractor o infractora; y
+
+IV. El Consejo podrá reubicar a la persona servidora pública al inicio del procedimiento o en cualquier momento posterior a este, cuando así convenga a las necesidades del servicio o para evitar que su permanencia pueda afectar los intereses de la Institución. Dicha reubicación no prejuzga sobre la responsabilidad.
 
 ###### Artículo 110.
 
 De la supletoriedad del procedimiento.
 
-Las demás generalidades del procedimiento, se observarán en lo dispuesto en el Reglamento del Servicio.
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2026)</small>
 
-### CAPÍTULO VII. DE LAS MEDIDAS DE SANCIÓN
+Las demás generalidades del procedimiento, se observarán en lo dispuesto en el Reglamento del Servicio y, en segundo término, la Ley del Procedimiento Administrativo del Estado de Colima.
+
+### CAPÍTULO VI. DEL RECURSO DE REVISIÓN
 
 ###### Artículo 111.
 
@@ -2447,7 +2557,7 @@ Resolución.
 
 Admitido el recurso de revisión, el Consejo resolverá dentro del término de treinta días hábiles contados a partir de la fecha del acuerdo de admisión.
 
-### CAPÍTULO I. DE LAS OBLIGACIONES
+### CAPÍTULO VII. DE LAS MEDIDAS DE SANCIÓN
 
 ###### Artículo 117.
 
@@ -2455,165 +2565,183 @@ Significado.
 
 La sanción es la carga o gravamen a que se hace acreedor la persona Integrante del Servicio Profesional de Carrera de la Fiscalía que incurra en alguna falta a los deberes u obligaciones previstas en la presente Ley, el Reglamento del Servicio y demás disposiciones aplicables y tiene como finalidad corregir las conductas contrarias al régimen y evitar la reincidencia. Si tal infracción constituye además un delito, quedará el infractor sujeto al proceso correspondiente de acuerdo con la legislación penal federal o del orden común, respectiva, con independencia del procedimiento administrativo que se le instruya.
 
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2026)</small>
+
 ###### Artículo 118.
 
 Medidas de sanción.
 
 Acreditada plenamente la responsabilidad de la persona infractora, en atención a la gravedad de la conducta, el Consejo le impondrá cualquiera de las medidas disciplinarias siguientes:
 
-I. Amonestación pública o privada;
+I. Suspensión temporal del ejercicio de sus funciones sin goce de sueldo hasta por treinta días naturales;
 
-II. Arresto hasta por 36 horas;
+II. Acción de reparación del daño; y
 
-III. Suspensión temporal de funciones de uno a treinta días naturales sin goce de sueldo; y
+III. Remoción.
 
-IV. Remoción.
+Serán consideradas como faltas no graves aquellas contenidas en los artículos 119 y 120 de esta ley.
 
-Los casos en que la persona integrante haya causado un daño a los bienes propiedad de la Fiscalía General, la Dirección General de Servicios Administrativos, le requerirá la reparación del daño, con independencia de la medida disciplinaria impuesta.
+Se considerarán como faltas graves las previstas por el artículo 121 de este ordenamiento.
+
+En la imposición de sanciones se deberá tomar en cuenta el impacto en el servicio, grado de dolo o negligencia y reincidencia. Asimismo, se deberán respetar los principios de legalidad, proporcionalidad, debido proceso y presunción de inocencia, y será independiente de las responsabilidades civiles, penales o administrativas que pudieran derivarse.
+
+Los casos en que la sanción impuesta, consista en la acción de reparación del daño, se le dará vista a la Dirección General de Servicios Administrativos quien le requerirá la reparación del daño, en caso de negación por parte del servidor público la Dirección General de Servicios Administrativos, realizará los trámites legales correspondientes.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2026)</small>
 
 ###### Artículo 119.
 
-Amonestación pública o privada.
-
-Se podrá (sic) aplicar las sanciones establecidas en la fracción I del artículo anterior, cuando se actualicen los casos siguientes:
-
-I. Cualquier otra conducta contraria a los principios de actuación que legalmente están obligados a observar quienes integran el Servicio Profesional de Carrera y que atenten seriamente contra la honorabilidad y reputación de éstos;
-
-II. Distraer de su objeto, para uso propio o ajeno indebidamente, el equipo, elementos materiales o bienes asegurados bajo su custodia o de la Fiscalía General;
-
-III. No solicitar los dictámenes periciales correspondientes o abstenerse de realizarlos;
-
-IV. No trabar el aseguramiento de bienes, objetos, instrumentos o productos de delito y no solicitar el decomiso cuando así proceda en los términos que establezcan las leyes penales;
-
-V. Omitir la práctica de las diligencias necesarias en cada asunto;
-
-VI. Abstenerse de promover ante la autoridad judicial el reconocimiento de la calidad de víctima, ofendido u ofendida en términos de las disposiciones aplicables;
-
-VII. No registrar la detención conforme a las disposiciones aplicables o abstenerse de actualizar el registro correspondiente;
-
-VIII. No cumplir con los deberes y obligaciones previstos por la presente ley y otras disposiciones legales aplicables; y
-
-IX. Realizar actos ajenos al servicio público en las oficinas de trabajo, dentro o fuera de la jornada diaria y utilizando personal y material de oficina.
-
-###### Artículo 120.
-
-Arresto hasta por 36 horas.
-
-Se podrá (sic) aplicar las sanciones establecidas en la fracción II del artículo 118, cuando se actualicen los casos siguientes:
-
-I. Desacatar la orden de un superior o superiora, salvo que la misma sea constitutiva de delito o falta administrativa;
-
-II. Dormirse en horas laborales;
-
-III. Maniobrar el armamento, sin la debida precaución o necesidad;
-
-IV. Faltar al deber de conducirse con dedicación y disciplina, así como con apego al orden jurídico y respeto a las garantías individuales y derechos humanos reconocidos en la Constitución;
-
-V. Incurrir en actos u omisiones que pongan en peligro su vida, la de sus compañeros, sus compañeras o de cualquier otra persona;
-
-VI. Incumplir con las comisiones del servicio que se les encomiende de acuerdo con sus funciones que les asigne; y
-
-VII. Incumplir, retrasar o perjudicar la debida actuación del Ministerio Público.
-
-###### Artículo 121.
-
 Suspensión temporal de funciones.
 
-La sanción establecida en la fracción III del artículo 118 de la presente Ley, se aplicará cuando las y los elementos incurran en las faltas siguientes:
+La sanción establecida en la fracción I del artículo 118 de la presente Ley, se aplicará cuando las y los integrantes del servicio incurran en las faltas siguientes:
 
-I. Disponer, extraviar injustificadamente, o dar un uso o destino diferente al armamento, uniforme y demás equipo de trabajo asignado para el desempeño de la función;
+I. Incumplir con las comisiones del servicio que se les encomiende de acuerdo con sus funciones que les asigne;
 
 II. Incitar o permitir la comisión de delitos o faltas administrativas de sus subordinados o subordinadas;
 
 III. Participar en actos en los que se denigre a la Fiscalía General o a las instituciones públicas, dentro o fuera del servicio, a juicio del Consejo;
 
-IV. Acumular hasta tres arrestos en un periodo de noventa días naturales;
+IV. Acumular hasta tres correctivos disciplinarios en treinta días naturales;
 
-V. Evadirse de un arresto;
+V. Evadirse del correctivo de trabajo en favor de la comunidad;
 
-VI. Permitir que el arrestado o arrestada se retire anticipadamente del mismo, sin causa justificada;
+VI. Permitir que el servidor o servidora se retire anticipadamente del trabajo en favor de la comunidad, sin causa justificada;
 
 VII. Provocar por negligencia accidentes viales con vehículos oficiales a su cargo;
 
-VIII. Ocasionar intencionalmente daños materiales, en los edificios, obras, maquinaria, instrumentos, materias primas y otros objetos que pertenezcan a esta Institución, o causar daños por negligencia tal, que aquella sea causa de perjuicio;
+VIII. No trabar el aseguramiento de bienes, objetos, instrumentos o productos de delito y no solicitar el decomiso cuando así proceda en los términos que establezcan las leyes penales;
 
-IX. Proferir insultos, insinuaciones o cualquier comentario denigrante al personal operativo y administrativo con referencia a sus preferencias sexuales, origen étnico, sexo o algún otro rasgo inherente a la persona; y
+IX. No registrar la detención conforme a las disposiciones aplicables o abstenerse de actualizar el registro correspondiente;
 
-X. Las demás que se establezcan en las disposiciones aplicables.
+X. Proferir insultos, insinuaciones o cualquier comentario denigrante al personal operativo y administrativo con referencia a sus preferencias sexuales, origen étnico, sexo o algún otro rasgo inherente a la persona;
 
-### CAPÍTULO II. DE LAS FALTAS DISCIPLINARIAS
+XI. Realizar actos ajenos al servicio público en las oficinas de trabajo, dentro o fuera de la jornada diaria y utilizando personal y material de oficina;
 
-###### Artículo 122.
+XII. Distraer de su objeto, para uso propio o ajeno indebidamente, el equipo, elementos materiales o bienes asegurados bajo su custodia o de la Fiscalía General;
+
+XIII. No solicitar los dictámenes periciales correspondientes o abstenerse de realizarlos;
+
+XIV. Omitir la práctica de las diligencias necesarias en cada asunto;
+
+XV. Incurrir en actos u omisiones que pongan en peligro su vida, la de sus compañeros, sus compañeras o de cualquier otra persona;
+
+XVI. Disponer, extraviar injustificadamente, o dar un uso o destino diferente al armamento, uniforme y demás equipo de trabajo asignado para el desempeño de la función;
+
+XVII. Ausentarse injustificadamente del lugar de prestación de servicios sin importar el periodo de tiempo transcurrido; y
+
+XVIII. No cumplir con los deberes y obligaciones previstos por la presente ley y otras disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2026)</small>
+
+###### Artículo 120.
+
+Acción de reparación del daño.
+
+La sanción establecida en la fracción II del artículo 118 de la presente Ley, se aplicará cuando las y los integrantes el (sic) servicio de carrera incurran en las faltas siguientes:
+
+I. Ocasionar daños materiales, en vehículos oficiales, edificios, obras, maquinaria, instrumentos, materias primas y otros objetos que pertenezcan a esta Institución, o causar daños por negligencia tal, que aquella sea causa de perjuicio; y
+
+II. Disponer, extraviar injustificadamente, o dar un uso o destino diferente al armamento, uniforme y demás equipo de trabajo asignado para el desempeño de la función.
+
+> <small>(REFORMADO, P.O. 14 DE MARZO DE 2026)</small>
+
+###### Artículo 121.
 
 Remoción.
 
-La sanción fijada en la fracción IV del artículo 118 de la presente ley se impondrá por las causas siguientes:
+La sanción fijada en la fracción III del artículo 118 de la presente ley se impondrá por las causas siguientes:
 
-I. Por abandono de empleo, consistente en faltar a sus labores sin permiso y sin causa justificada por más de tres días en un periodo de treinta días. Se entenderá también por abandono de empleo, el retiro injustificado del trabajador en sus comisiones, capacitaciones o zona asignada;
+I. Faltar a sus labores sin permiso y sin causa justificada por más de tres días en un periodo de treinta días;
 
-II. Revelar información confidencial de la que tuviere conocimiento con motivo de su trabajo;
+II. Abandono de empleo, el retiro injustificado del trabajador en sus comisiones, capacitaciones o zona asignada;
 
-III. La probable comisión de delitos de carácter doloso, dentro o fuera del servicio;
+III. Revelar información confidencial de la que tuviere conocimiento con motivo de su trabajo;
 
-a. El supuesto anterior se aplicará una vez que se vincule a proceso, o cuando se dicte la orden de aprehensión y cuando el indiciado se sustraiga de la acción de la justicia;
+IV. La probable comisión de delitos de carácter doloso, dentro o fuera del servicio. Este supuesto aplicará una vez que se vincule a proceso, cuando se dicte la orden de aprehensión o cuando el indiciado se sustraiga de la acción de la justicia;
 
-IV. Ingerir bebidas alcohólicas durante el desempeño de sus funciones;
+V. Ingerir bebidas alcohólicas durante el desempeño de sus funciones;
 
-V. Consumir narcóticos u otras sustancias que produzcan efectos similares, salvo prescripción médica;
+VI. Consumir narcóticos u otras sustancias que produzcan efectos similares, salvo prescripción médica;
 
-VI. Desempeñar simultáneamente dos o más cargos públicos remunerados, excepto los de carácter de docencia y los asistenciales de salud;
+VII. Incurrir en una causal de incompatibilidad de funciones previstas por el artículo 59 de esta ley;
 
-VII. Exigir o aceptar indebidamente cualquier contraprestación o servicio para cumplir o dejar de cumplir con sus funciones;
+VIII. Exigir o aceptar cualquier contraprestación o servicio para cumplir o dejar de cumplir con sus funciones;
 
-VIII. Liberar a las personas detenidas o bajo su custodia o favorecer la evasión de las mismas;
+IX. Liberar a las personas detenidas sin justificación o bajo su custodia o favorecer la evasión de las mismas;
 
-IX. Hacer uso innecesario de la fuerza o excederse en su aplicación, en el ejercicio de sus funciones;
+X. Hacer uso innecesario de la fuerza o excederse en su aplicación, en el ejercicio de sus funciones, para tal efecto, deberá apegarse a la Ley Nacional sobre el Uso de la Fuerza, así como a las demás disposiciones normativas y administrativas aplicables, realizándose conforme a derecho;
 
-X. Realizar actos sexuales dentro de las instalaciones;
+XI. Realizar actos sexuales dentro de las instalaciones;
 
-XI. Acosar u hostigar sexualmente a cualquier persona dentro y fuera del servicio, abusando de su condición de servidor o servidora pública y/o de su jerarquía;
+XII. Acosar u hostigar sexualmente a cualquier persona dentro y fuera del servicio, abusando de su condición de servidor o servidora pública y/o de su jerarquía;
 
-XII. No atender una petición de auxilio que esté obligado a prestar;
+XIII. No atender una petición de auxilio que esté obligado a prestar;
 
-XIII. Encubrir o solapar la conducta de un subalterno, subalterna, superior o superiora a sabiendas que se trata de una falta grave o que pueda constituir un delito;
+XIV. Encubrir la conducta de un subalterno, subalterna, superior o superiora a sabiendas que se trata de una falta grave o que pueda constituir un delito;
 
-XIV. Beneficiarse directa o indirectamente, del ejercicio de su cargo para obtener cualquier privilegio dentro o fuera del servicio;
+XV. Beneficiarse directa o indirectamente, del ejercicio de su cargo para obtener cualquier privilegio dentro o fuera del servicio;
 
-XV. Poner en peligro a las y los particulares a causa de imprudencia, descuido, negligencia o abandono del servicio;
+XVI. Poner en peligro a la sociedad a causa de imprudencia, descuido, negligencia o abandono del servicio;
 
-XVI. Negarse a someterse a realizar el examen de control de confianza;
+XVII. Negarse a someterse a realizar el examen de control de confianza;
 
-XVII. Negarse a que se le practiquen los exámenes toxicológicos ordenados por los superiores o superioras, o no presentarse a la práctica de los mismos sin causa justificada;
+XVIII. Negarse a que se le practiquen los exámenes toxicológicos ordenados por los superiores o superioras, o no presentarse a la práctica de los mismos sin causa justificada;
 
-XVIII. Dar positivo en los exámenes toxicológicos que regularmente se practiquen a los servidores y servidoras públicas, salvo los casos de prescripción médica para tratamiento de una enfermedad.
+XIX. Dar positivo en los exámenes de alcoholemia o toxicológicos que regularmente se practiquen a los servidores y servidoras públicas, salvo los casos de prescripción médica para tratamiento de una enfermedad;
 
-XIX. Incurrir en actos de violencia física o moral, amagos, injurias o malos tratos con sus jefes, jefas, compañeros, compañeras o familiares de unos u otros;
+XX. Incurrir en actos de violencia física o moral, amagos, injurias o malos tratos con sus superiores, compañeros, compañeras o de sus familiares;
 
-XX. Presentar documentación falsa o alterada para obtener algún beneficio;
+XXI. Presentar documentación falsa o alterada para obtener algún beneficio;
 
-XXI. Conducirse falsamente en informes, documentos, declaraciones o cualquier otra información relativa al desempeño de su servicio o comisiones;
+XXII. Conducirse falsamente en informes, documentos, declaraciones o cualquier otra información relativa al desempeño de su servicio o comisiones;
 
-XXII. Negarse a adoptar medidas preventivas o seguir los procedimientos indicados para evitar accidentes o enfermedades;
+XXIII. Negarse a adoptar medidas preventivas o de seguir los procedimientos indicados para evitar accidentes o enfermedades;
 
-XXIII. Sustraer o alterar sin causa justificada del lugar donde presuntamente se hubiere cometido un delito, objetos o evidencias relacionados con el mismo;
+XXIV. Sustraer o alterar sin causa justificada del lugar donde presuntamente se hubiere cometido un delito, objetos o evidencias relacionados con el mismo;
 
-XXIV. Abstenerse de poner a disposición de la autoridad que corresponda cualquier objeto relacionado con la comisión de faltas administrativas o delitos, dependiendo de la gravedad de la conducta;
+XXV. Abstenerse de poner a disposición de la autoridad que corresponda cualquier objeto relacionado con la comisión de faltas administrativas o delitos, dependiendo de la gravedad de la conducta;
 
-XXV. Incomunicar a cualquier persona detenida que se encuentre bajo su custodia; y
+XXVI. Incomunicar a cualquier persona detenida que se encuentre bajo su custodia;
 
-XXVI. Las demás que se establezcan en las disposiciones aplicables.
+XXVII. Cometer, participar o encubrir violaciones graves a los derechos humanos, actos de discriminación, violencia contra las mujeres, los niños, niñas y adolescentes, personas adultas mayores y otros grupos vulnerables, así como el abuso o maltrato animal;
+
+XXVIII. Disponer o apropiarse en beneficio propio o de terceros de bienes ajenos a los que tuvieren acceso como resultado del ejercicio de sus funciones; y
+
+XXIX. Las demás que se establezcan en las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 14 DE MARZO DE 2026)</small>
+
+### CAPÍTULO IX (SIC). PRESCRIPCIÓN
+
+> <small>(REFORMADO Y REUBICADO, P.O. 14 DE MARZO DE 2026)</small>
+
+###### Artículo 122.
+
+De la prescripción.
+
+La prescripción extingue la facultad de la autoridad competente para imponer sanciones disciplinarias y comenzará a computarse a partir del día siguiente a aquel en que se haya cometido la infracción, o desde que haya cesado su comisión si esta fuera de carácter continúo.
+
+> <small>(REFORMADO Y REUBICADO, P.O. 14 DE MARZO DE 2026)</small>
 
 ###### Artículo 123.
 
-Prescripción.
+De los plazos para la prescripción.
 
-Las causas previstas en los artículos anteriores prescribirán en treinta días hábiles, y se computarán a partir del día en que se haya cometido la falta, la cual deberá estar documentada, interrumpiéndose la prescripción en el momento que se inicie el procedimiento correspondiente. Las órdenes de arresto deberán comunicarse por escrito, indicando el motivo y fundamento de la misma.
+Los plazos de prescripción serán los siguientes:
+
+I. Tres años, tratándose de conductas clasificadas como no graves conforme a la normativa aplicable; y
+
+II. Siete años, tratándose de conductas clasificadas como graves.
+
+La prescripción se interrumpirá por cualquier actuación de la autoridad encaminada a investigar, sustanciar o resolver el procedimiento disciplinario, siempre que dicha actuación sea formalmente notificada a la persona sujeta al procedimiento.
+
+El superior que imponga un correctivo disciplinario contraviniendo la presente Ley, será responsable disciplinariamente según el caso, de los efectos que resulten del mal uso que haga de la facultad que tiene de aplicar los correctivos.
 
 Se exceptuará del párrafo anterior las causas inherentes al cumplimiento de los requisitos de ingreso y permanencia.
 
 ## TÍTULO CUARTO. OBLIGACIONES, FALTAS Y RESPONSABILIDADES ADMINISTRATIVAS
 
-### CAPÍTULO III. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
+### CAPÍTULO I. DE LAS OBLIGACIONES
 
 ###### Artículo 124.
 
@@ -2651,7 +2779,7 @@ XIV. Cumplir con sus atribuciones con absoluta imparcialidad sin discriminar a p
 
 XV. Las previstas en la Ley General del Sistema Nacional de Seguridad Pública en lo que resulte conducente, en la Ley del Sistema de Seguridad Pública del Estado de Colima y en otras disposiciones legales.
 
-### CAPÍTULO ÚNICO. DEL CENTRO DE JUSTICIA PARA LAS MUJERES
+### CAPÍTULO II. DE LAS FALTAS DISCIPLINARIAS
 
 ###### Artículo 125.
 
@@ -2701,7 +2829,7 @@ XX. Las demás que contemplen la Ley General del Sistema Nacional de Seguridad P
 
 En caso de que una persona que labore en la Institución incurra en alguna de las faltas disciplinarias previstas en el presente artículo, a elección de la persona Titular de la Fiscalía General, se podrá dar por terminado los efectos del nombramiento de servidora o servidor público infractor, sin perjuicio de hacerse acreedor a cualquier otra sanción prevista por la Ley General de Responsabilidades Administrativas.
 
-### CAPÍTULO ÚNICO. DEL PATRIMONIO Y PRESUPUESTO
+### CAPÍTULO III. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
 
 ###### Artículo 126.
 
@@ -2714,6 +2842,8 @@ La persona servidora pública que forme parte del servicio profesional de carrer
 El procedimiento de separación, remoción y sanción del personal de carrera, se regirá bajo lo dispuesto en la presente Ley.
 
 ## TÍTULO QUINTO. DE LOS DEMÁS ÓRGANOS DESCONCENTRADOS DE LA FISCALÍA GENERAL DEL ESTADO DE COLIMA
+
+### CAPÍTULO ÚNICO. DEL CENTRO DE JUSTICIA PARA LAS MUJERES
 
 ###### Artículo 127.
 
@@ -2756,6 +2886,8 @@ VIII. Crear las Unidades Locales de Atención a Mujeres necesarias en los munici
 IX. Las demás que establezca la Ley Orgánica y su reglamento, el Reglamento de la Ley del Centro de Justicia para las Mujeres y la demás normatividad aplicable.
 
 ## TÍTULO SEXTO. DEL PATRIMONIO Y PRESUPUESTO DE LA FISCALÍA GENERAL
+
+### CAPÍTULO ÚNICO. DEL PATRIMONIO Y PRESUPUESTO
 
 ###### Artículo 130.
 
@@ -2936,3 +3068,15 @@ LA SECRETARIA GENERAL DE GOBIERNO
 MA GUADALUPE SOLÍS RAMÍREZ
 
 Firma.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 252.- POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE COLIMA, PARA ARMONIZARLA CON LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA Y LA LEY GENERAL DEL SISTEMA NACIONAL DE SEGURIDAD PÚBLICA".]
+
+PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado "El Estado de Colima".
+
+SEGUNDO. Los asuntos en materia de Transparencia y Acceso a la Información que se encuentren en trámite previo a la publicación de la presente reforma, serán resueltos por el Órgano Interno de Control de la Fiscalía General de la Fiscalía del Estado de Colima, en los términos de ley.
+
+TERCERO. Los asuntos y procedimientos administrativos respecto a la sanción, separación, remoción y cese de los servidores o servidoras públicas que se encuentren iniciados previos a la entrada en vigor de la presente reforma, estos continuarán su trámite ante el Órgano Interno de Control o el Consejo de Selección y Profesionalización, o ante la autoridad encargada de conocer, tramitar y resolver, de conformidad a las disposiciones vigentes al momento de su inicio.
