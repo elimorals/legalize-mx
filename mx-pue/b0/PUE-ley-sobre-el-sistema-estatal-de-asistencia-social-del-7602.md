@@ -4,7 +4,7 @@ identifier: "PUE-ley-sobre-el-sistema-estatal-de-asistencia-social-del-7602"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-05"
-last_updated: "2024-09-19"
+last_updated: "2026-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7602&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "PUE"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE SEPTIEMBRE DE 2024.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 19 DE SEPTIEMBRE DE 2024 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 10 DE SEPTIEMBRE DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2026.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 5 de agosto de 1986.
 
@@ -353,11 +351,13 @@ El Organismo en la prestación de servicios y en la realización de acciones de 
 
 En caso de desastre, como inundaciones, terremotos, derrumbes, explosiones, incendios y otros de naturaleza similar por los que se causen (sic) daño a la población, el organismo, sin perjuicio de las atribuciones que en auxilio de los damnificados lleven a cabo otras dependencias y entidades de la administración pública federal, estatal o municipal, promoverá la atención y coordinación de las acciones de los distintos sectores sociales que actúen en beneficio de aquéllos, en el ámbito de su competencia.
 
-> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2026)</small>
 
 ###### ARTICULO 20.
 
-El Gobernador del Estado, a través del Organismo promoverá el establecimiento de centros y servicios de rehabilitación somática, psicológica, social y ocupacional, para las personas que sufran cualquier tipo de discapacidad o incapacidad, así como acciones que faciliten la disponibilidad y adaptación de prótesis, órtesis y otras ayudas funcionales, así como estancias de día para personas adultas mayores, de conformidad con lo previsto (sic) la Ley para las Personas con Discapacidad del Estado de Puebla y en la presente Ley.
+La persona titular del Poder Ejecutivo, a través del Organismo, promoverá el establecimiento de centros y la prestación de servicios de rehabilitación somática, psicológica, social y ocupacional, para las personas que sufran cualquier tipo de discapacidad o incapacidad; así como acciones que faciliten la disponibilidad y adopción de prótesis, órtesis y otras ayudas funcionales; al igual que estancias de día para personas adultas mayores; además de animales de compañía y uso terapéutico de conformidad con lo previsto en la Ley para las Personas con Discapacidad del Estado de Puebla, la Ley de Bienestar Animal del Estado de Puebla y la presente Ley
+
+> <small>(REFORMADO, P.O. 10 DE SEPTIEMBRE DE 2024)</small>
 
 Para este efecto, el Organismo deberá observar una vinculación sistemática entre los servicios de rehabilitación y asistencia social que preste y los que proporcionen otros establecimientos del sector salud y de los sectores social y privado.
 
@@ -1018,3 +1018,11 @@ DÉCIMO QUINTO. Una vez concluidos los trámites administrativos relacionados co
 DÉCIMO SEXTO. El Sistema para el Desarrollo Integral de la Familia del Estado de Puebla, realizará las adecuaciones correspondientes a su Reglamento y demás normatividad estatal correspondiente, dentro del plazo de 180 días hábiles posteriores a la entrada en vigor del presente Decreto.
 
 DÉCIMO SÉPTIMO. Se derogan las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 15 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 20 DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
