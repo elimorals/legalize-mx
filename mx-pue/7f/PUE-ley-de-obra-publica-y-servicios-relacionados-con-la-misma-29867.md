@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-obra-publica-y-servicios-relacionados-con-la-misma-29867
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-26"
-last_updated: "2023-08-07"
+last_updated: "2026-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29867&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2026.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el miércoles 26 de marzo de 2003.
 
@@ -129,7 +129,9 @@ V.- Entidades.- Los organismos públicos descentralizados, las empresas de parti
 
 VI.- Licitante.- La persona que se inscriba en cualquier procedimiento de adjudicación;
 
-VII.- Obra pública.- Todos los trabajos que tengan por objeto construir, instalar, conservar, ampliar, adecuar, mantener, reparar, remodelar, modificar y demoler bienes inmuebles con cargo a recursos estatales o municipales o que por su naturaleza o por disposición de ley estén destinados a un servicio público, o al uso común;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
+
+VII.- Obra pública. Todos los trabajos que tengan por objeto construir, instalar, conservar, ampliar, adecuar, mantener, reparar, rehabilitar, remodelar, modificar y demoler bienes inmuebles con cargo a recursos estatales o municipales o que por su naturaleza o por disposición de ley estén destinados a un servicio público, o al uso común;
 
 VIII.- Servicios relacionados con la misma.- Todos aquellos que tengan como finalidad planear, programar, diseñar, concebir, calcular, consultar, analizar, estudiar, preparar, evaluar, supervisar, proyectar, coordinar, controlar, organizar, rehabilitar, corregir, sustituir o adecuar los elementos que integran un proyecto de obra pública, o garantizar la eficiencia y desarrollo de la misma;
 
@@ -149,9 +151,17 @@ II.- Los que tiendan a mejorar y utilizar recursos e infraestructura agropecuari
 
 III.- El mantenimiento y la restauración de bienes muebles incorporados o adheridos a un inmueble, cuando implique modificación al propio inmueble;
 
-IV.- La instalación, montaje, colocación o aplicación, incluyendo las pruebas de operación de bienes muebles que deban incorporarse, adherirse o destinarse a un inmueble, siempre y cuando dichos bienes sean proporcionados por la contratante al contratista; o bien cuando incluyan su adquisición y su precio sea menor que el de los trabajos que se contraten; y
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-V.- Los demás de naturaleza análoga.
+IV.- La instalación, montaje, colocación o aplicación, incluyendo las pruebas de operación de bienes muebles que deban incorporarse, adherirse o destinarse a un inmueble, siempre y cuando dichos bienes sean proporcionados por la contratante al contratista; o bien cuando incluyan su adquisición y su precio sea menor que el de los trabajos que se contraten;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MARZO DE 2026)</small>
+
+V.- Las obras y acciones sociales básicas, que beneficien preferentemente a población en pobreza extrema, localidades con alto o muy alto nivel de rezago social conforme a lo previsto en la Ley de Coordinación Fiscal, Ley General de Desarrollo Social, y en las zonas de atención prioritaria; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE MARZO DE 2026)</small>
+
+VI.- Los demás de naturaleza análoga.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
@@ -367,9 +377,9 @@ Previo a la realización de un procedimiento de adjudicación, las dependencias 
 
 I.- El oficio de autorización de recursos;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-II.- Cuando sea el caso, los dictámenes, permisos, licencias, derechos de bancos de materiales, así como la propiedad o los derechos de propiedad, y expropiación de inmuebles sobre los cuales se ejecutarán las obras públicas; así como las demás autorizaciones que conforme a los trabajos a ejecutar sean requeridas. En los casos procedentes, las dependencias y entidades deberán iniciar el proceso de notificación ante las autoridades competentes para la tramitación de los documentos anteriores.
+II.- Cuando sea el caso, previo a la ejecución de los trabajos, las dependencias y entidades, deberán tramitar y obtener de las autoridades competentes los dictámenes, permisos, licencias, derechos de bancos de materiales, así como la propiedad o los derechos de propiedad incluyendo derechos de vía y expropiación de inmuebles sobre los cuales se ejecutarán las obras públicas, o los derechos otorgados por quien pueda disponer legalmente de los mismos. En la convocatoria a la licitación se precisarán, de ser aplicables, aquellos trámites que corresponderá realizar al contratista.
 
 III.- El presupuesto de inversión y de gasto de preinversión, conforme a los cuales deberán elaborarse los programas de ejecución y pagos correspondientes;
 
@@ -377,9 +387,13 @@ III.- El presupuesto de inversión y de gasto de preinversión, conforme a los c
 
 IV.- Los estudios, proyectos, especificaciones de construcción, normas de calidad y el programa de ejecución totalmente terminados incluyendo el derecho de vía, o bien, con un avance en su desarrollo de cada uno de ellos que permita a los licitantes preparar una propuesta solvente y ejecutar ininterrumpidamente los trabajos hasta su conclusión;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-V.- La validación del proyecto ejecutivo en el caso de obra pública y de los términos de referencia en el caso de servicios relacionados con la misma, por parte de la entidad.
+V.- La validación del proyecto ejecutivo en el caso de obra pública y de los términos de referencia en el caso de servicios relacionados con la misma, por parte de la entidad; y
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2026)</small>
+
+VI.- Tratándose de obras y acciones sociales básicas, que se realicen en inmuebles de propiedad particular o comunitaria de los beneficiarios, el ejecutor de gasto debe acreditar que previo a la ejecución de los trabajos cuenta con el permiso expreso y/o los derechos otorgados por quien pueda disponer legalmente de los mismos.
 
 > <small>(ADICIONADO, P.O. 16 DE MARZO DE 2005)</small>
 
@@ -1752,6 +1766,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto
 P.O. 7 DE AGOSTO DE 2023.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 44 DE LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMAN LA FRACCIÓN VII DEL ARTÍCULO 2, LAS FRACCIONES IV Y V DEL 3, LAS FRACCIONES II Y V DEL 22; Y SE ADICIONAN LA FRACCIÓN VI AL ARTÍCULO 3 Y LA FRACCIÓN VI AL 22; TODOS DE LA LEY DE OBRA PÚBLICA Y SERVICIOS RELACIONADOS CON LA MISMA PARA EL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
