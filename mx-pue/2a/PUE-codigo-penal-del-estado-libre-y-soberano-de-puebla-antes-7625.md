@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2025-12-19"
+last_updated: "2026-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2025.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 19 DE DICIEMBRE DE 2025.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2026.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -5639,21 +5637,37 @@ I.- Al que, de propia autoridad, y haciendo violencia o furtivamente, o empleand
 
 II.- Al que de propia autoridad, haciendo uso de cualquiera de los medios indicados en la fracción anterior, ocupe un inmueble de su propiedad, en los casos en que la ley no lo permite por hallarse en poder de otra persona, permanezca en él o ejerza actos de dominio que lesionen derechos legítimos del ocupante.
 
-> <small>(ADICIONADO, P.O. 22 DE MAYO DE 2013)</small>
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 15 DE MARZO DE 2026)</small>
 
-La sanción se aumentará hasta en una tercera parte en los casos previstos en las fracciones anteriores cuando se cometan en contra de personas mayores de sesenta años o personas con discapacidad.
-
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
 
 ###### Artículo 409.
 
-El delito de despojo se sancionará con prisión de seis a nueve años y multa de cien a mil quinientas Unidades de Medida y Actualización, cuando se cometa materialmente por cinco o más personas o en contra de zonas declaradas área natural protegida.
+El delito de despojo se sancionará con prisión de seis a doce años y multa de cien a mil quinientas Unidades de Medida y Actualización, cuando:
 
-> <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
+I. Se cometa materialmente por cinco o más personas o en contra de zonas declaradas como área natural protegida;
+
+II. A sabiendas, se ejecute en agravio de una niña, niño o adolescente, persona mayor de sesenta años, con discapacidad o perteneciente a un pueblo o comunidad indígena;
+
+III. Se cometa con participación de una persona servidora pública valiéndose de su empleo, cargo o comisión, con independencia de si se encontraba o no en ejercicio de sus funciones;
+
+IV. Para su ejecución se simulen actos de autoridad;
+
+V. Se inscriba en el Registro Público de la Propiedad un acto jurídico traslativo de la propiedad o posesión utilizando un documento falso, simulado o inexistente con el fin de aparentar un derecho real sobre un inmueble que no le pertenece, o se suplante la identidad de la persona propietaria o poseedora del inmueble, o de su representante legal o apoderada o apoderado, y
+
+VI. Se cometa con intervención dolosa de la persona titular, auxiliar o suplente de una notaría pública, en ejercicio de sus funciones o con motivo de ellas, dando fe de hechos o formalizando actos jurídicos ilícitos, con la finalidad de justificar, facilitar, consumar o encubrir el despojo.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
 
 ###### Artículo 409 Bis.
 
-A quienes dirijan la invasión y su autor o autores intelectuales, la sanción de prisión será de siete a doce años y multa de mil a tres mil Unidades de Medida y Actualización.
+Al que financie o dirija la invasión, así como a la persona autora o personas autoras intelectuales, se les sancionará con prisión de siete a quince años y multa de mil a tres mil Unidades de Medida y Actualización.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### Artículo 409 Ter.
+
+Las sanciones señaladas en el artículo anterior se aumentarán hasta en una tercera parte de los mínimos y máximos, cuando el delito se cometa con el propósito de lotificar o comercializar la tierra.
 
 ###### Artículo 410.
 
@@ -8000,3 +8014,11 @@ CUARTO. Las autoridades competentes deberán efectuar las adecuaciones orgánica
 > <small>(F. DE E., P.O. 19 DE DICIEMBRE DE 2025)</small>
 
 QUINTO. Las autoridades competentes deberán emitir, en un plazo no mayor de ciento ochenta días hábiles a partir de la publicación del presente Decreto, los procedimientos y tecnologías de inhibición de entrada y salida de llamadas de telefonía celular, de radiocomunicación, de transmisión de voz, datos o imagen a que se refiere el Artículo Séptimo Transitorio de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos publicada en el Diario Oficial de la Federación el veintiocho de noviembre de dos mil veinticinco.
+
+P.O. 15 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMAN LOS ARTÍCULOS 409 Y 409 BIS; SE ADICIONA EL ARTÍCULO 409 TER, Y SE DEROGA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 408 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
