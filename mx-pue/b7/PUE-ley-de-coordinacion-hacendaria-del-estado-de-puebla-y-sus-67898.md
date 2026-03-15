@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-coordinacion-hacendaria-del-estado-de-puebla-y-sus-67898
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-20"
-last_updated: "2025-02-18"
+last_updated: "2026-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67898&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE PUEBLA Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2026.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el viernes 20 de marzo de 2009.
 
@@ -383,6 +383,14 @@ VIII. Los demás conceptos que en materia de coordinación fiscal federal deban 
 
 El Fondo para Incentivar y Estimular la Recaudación Municipal se integrará con el 100% del Fondo de Fomento Municipal establecido en la Ley de Coordinación Fiscal, que será entregado por el Estado a los Municipios.
 
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], P.O. 15 DE MARZO DE 2026)</small>
+
+La distribución del 100% del Fondo de Fomento Municipal que el Estado entregue a los Municipios se realizará conforme a lo siguiente:
+
+I. Primera parte. Integrado por la base correspondiente al ejercicio fiscal 2013, así como por el 70% del excedente del Fondo de Fomento Municipal determinado e informado al Estado por la Secretaría de Hacienda y Crédito Público; y
+
+II. Segunda parte. Constituido por el 30% del excedente del Fondo de Fomento Municipal determinado e informado al Estado por la Secretaría de Hacienda y Crédito Público, el cual se distribuirá entre los Municipios que celebren Convenio de Administración del Impuesto Predial con el Estado.
+
 > <small>(REFORMADO, P.O. 18 DE FEBRERO DE 2025)</small>
 
 ###### ARTÍCULO 52.
@@ -469,17 +477,27 @@ Con esta transformación a déficit relativos se traduce el fenómeno a una mism
 
 Para fines de aplicación de esta fórmula, los datos estadísticos se tomarán de la última información oficial que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática al iniciarse cada ejercicio fiscal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 53.
 
-El Fondo para Incentivar y Estimular la Recaudación Municipal se distribuirá al 100%, considerando la recaudación del Impuesto Predial que capten los Municipios de la Entidad y los cobros por servicio de agua que capten los mismos, sus organismos operadores o las instancias responsables de prestar dichos servicios conforme a la siguiente fórmula:
+La Primera parte a que hace referencia el artículo 51 fracción I de esta Ley, se distribuirá considerando la recaudación del Impuesto Predial que capten los Municipios de la Entidad y los cobros por servicio de agua que capten los mismos, sus organismos operadores o las instancias responsables de prestar dichos servicios conforme a la siguiente fórmula:
 
 (VEASE ARCHIVO ANEXO)
 
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+ARTÍCULO 53 BIS.- La Segunda parte a que hace referencia el artículo 51 fracción II de esta Ley, se distribuirá conforme al artículo 2-A, fracción III de la Ley de Coordinación Fiscal conforme a la siguiente fórmula:
+
+> <small>[N. DE E. VÉASE FÓRMULA EN EL P.O. DE 15 DE MARZO DE 2026, PÁGINAS DE LA 4 A LA 5.]</small>
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 54.
 
-Para el cálculo de los coeficientes para la distribución del Fondo para Incentivar y Estimular la Recaudación Municipal, así como para la elaboración del informe de la recaudación de las contribuciones asignables locales del Impuesto Predial y cobros por servicio de agua, la autoridad municipal competente remitirá mensualmente a la Secretaría de Finanzas y Administración, la información de dicha recaudación realizada por ella misma, por el organismo operador del Municipio o por la instancia responsable de prestar dichos servicios, para ello la Secretaría de Finanzas y Administración emitirá los lineamientos correspondientes.
+Para el cálculo de los coeficientes para la distribución de la primera parte a que hace referencia el artículo 51 fracción I de esta Ley, así como para la elaboración del informe de la recaudación de las contribuciones asignables locales del Impuesto Predial y cobros por servicio de agua, la autoridad municipal competente remitirá mensualmente a la Secretaría de Planeación, Finanzas y Administración, la información de dicha recaudación realizada por ella misma, por el organismo operador del Municipio o por la instancia responsable de prestar dichos servicios, para ello la Secretaría de Planeación, Finanzas y Administración emitirá los lineamientos correspondientes.
 
-La Secretaría de Finanzas y Administración obtendrá los coeficientes definitivos del año de cálculo en el mes de abril, con la información que tenga a su disposición a esa fecha, y utilizará provisionalmente, durante los tres primeros meses de cada año, los coeficientes aplicados el año inmediato anterior.
+La Secretaría de Planeación, Finanzas y Administración obtendrá los coeficientes definitivos del año de cálculo en el mes de abril, con la información que tenga a su disposición a esa fecha, y utilizará provisionalmente, durante los tres primeros meses de cada año, los coeficientes aplicados el año inmediato anterior.
 
 ### CAPÍTULO III. DE LOS DEMÁS FONDOS Y RECURSOS PARTICIPABLES
 
@@ -601,11 +619,29 @@ ARTÍCULO 57 TER.- El 100% de los ajustes cuatrimestrales y ajuste definitivo qu
 
 Fondo de Fomento Municipal
 
-En lo que se refiere a los ajustes cuatrimestrales, a la cantidad total correspondiente a los cuatro meses de los recursos entregados a los municipios del Fondo de Fomento Municipal incluyendo el ajuste cuatrimestral respectivo, se aplica la distribución establecida en el artículo 53 de la Ley de Coordinación Hacendaría del Estado de Puebla y sus Municipios, y se obtiene la diferencia entre la cantidad por Municipio resultante de la distribución efectuada menos la suma de las cantidades que les fueron entregadas mensualmente por Municipio de manera provisional.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
 
-En lo que respecta al ajuste definitivo, a la cantidad total correspondiente a los doce meses de los recursos entregados a los municipios del Fondo de Fomento Municipal incluyendo los tres ajustes cuatrimestrales y el ajuste definitivo, se aplica la distribución establecida en el artículo 53 de la Ley de Coordinación Hacendaría del Estado de Puebla y sus Municipios, y se obtiene la diferencia entre la cantidad por Municipio resultante de la distribución efectuada menos la suma de las cantidades que les fueron entregadas por Municipio de manera provisional, de forma mensual y cuatrimestral.
+En lo que se refiere a los ajustes cuatrimestrales, a la cantidad total correspondiente a los cuatro meses de los recursos entregados a los municipios, integrado por la base correspondiente al ejercicio fiscal 2013 y por el 70% del excedente del Fondo de Fomento Municipal incluyendo el ajuste cuatrimestral respectivo, se aplica la distribución establecida en el artículo 53 de la presente Ley, y se obtiene la diferencia entre la cantidad por Municipio resultante de la distribución efectuada menos la suma de las cantidades que les fueron entregadas mensualmente por Municipio de manera provisional.
 
-La distribución establecida en el artículo 53 de la Ley de Coordinación Hacendaría del Estado de Puebla y sus Municipios aplicada para los ajustes cuatrimestrales y ajuste definitivo será la utilizada para la distribución de los recursos del ejercicio fiscal al que corresponden los ajustes aplicados, con independencia del ejercicio fiscal en que se apliquen los ajustes cuatrimestrales y ajuste definitivo.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE MARZO DE 2026)</small>
+
+En lo que se refiere a los ajustes cuatrimestrales, a la cantidad total correspondiente a los cuatro meses de los recursos entregados a los municipios coordinados, integrado por el 30% del excedente del Fondo de Fomento Municipal incluyendo el ajuste cuatrimestral respectivo, se aplica la distribución establecida en el artículo 53 BIS de la presente Ley, y se obtiene la diferencia entre la cantidad por Municipio resultante de la distribución efectuada menos la suma de las cantidades que les fueron entregadas mensualmente por Municipio de manera provisional.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
+
+En lo que respecta al ajuste definitivo, a la cantidad total correspondiente a los doce meses de los recursos entregados a los municipios, integrado por la base correspondiente al ejercicio fiscal 2013 y por el 70% del excedente del Fondo de Fomento Municipal incluyendo los tres ajustes cuatrimestrales y el ajuste definitivo, se aplica la distribución establecida en el artículo 53 de la presente Ley, y se obtiene la diferencia entre la cantidad por Municipio resultante de la distribución efectuada menos la suma de las cantidades que les fueron entregadas por Municipio de manera provisional, de forma mensual y cuatrimestral.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+En lo que respecta al ajuste definitivo, a la cantidad total correspondiente a los doce meses de los recursos entregados a los Municipios coordinados, integrado por el 30% del excedente del Fondo de Fomento Municipal incluyendo los tres ajustes cuatrimestrales y el ajuste definitivo, se aplica la distribución establecida en el artículo 53 BIS de la presente Ley, y se obtiene la diferencia entre la cantidad por Municipio resultante de la distribución efectuada menos la suma de las cantidades que les fueron entregadas por Municipio de manera provisional, de forma mensual y cuatrimestral.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 15 DE MARZO DE 2026)</small>
+
+Las distribuciones establecidas en los artículos 53 y 53 BIS de la presente Ley, aplicadas para los ajustes cuatrimestrales y ajuste definitivo, será la utilizada para la distribución de los recursos del ejercicio fiscal al que corresponden los ajustes aplicados, con independencia del ejercicio fiscal en que se apliquen los ajustes cuatrimestrales y ajuste definitivo.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+En caso de que los recursos no sean suficientes para la aplicación de los ajustes cuatrimestrales y el ajuste definitivo que se les deban efectuar a los Municipios, se utilizarán recursos del Fondo General de Participaciones de los municipios para su aplicación.
 
 > <small>(ADICIONADO, P.O. 18 DE FEBRERO DE 2025)</small>
 
@@ -661,11 +697,15 @@ ARTÍCULO 57 SEXIES.- El 100% de las compensaciones provisionales y compensació
 
 Fondo de Estabilización de los Ingresos de las Entidades Federativas del Fondo de Fomento Municipal
 
-En lo que se refiere a las compensaciones provisionales, a la cantidad total de los recursos entregados a los municipios del Fondo de Fomento Municipal, que integra el Fondo para Incentivar y Estimular la Recaudación Municipal, correspondiente a los meses que comprende el periodo de la compensación provisional, incluyendo los respectivos ajustes cuatrimestrales que se hayan aplicado a los municipios de dicho fondo correspondientes al ejercicio fiscal al que corresponde la compensación provisional, se aplica la distribución establecida en el artículo 53 de la Ley de Coordinación Hacendaría del Estado de Puebla y sus Municipios, y se obtiene un coeficiente de distribución, resultado de dividir el monto del Fondo de Fomento Municipal que corresponda al Municipio entre la suma de los montos del Fondo de Fomento Municipal de todos los municipios, el cual será aplicado al monto total de la compensación provisional de los municipios y de esta manera obtener el monto que corresponde a cada Municipio de la compensación provisional.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
+
+En lo que se refiere a las compensaciones provisionales, a la cantidad total de los recursos entregados a los municipios, integrado por la base correspondiente al ejercicio fiscal 2013 y por el 70% del excedente del Fondo de Fomento Municipal, que integra el Fondo para Incentivar y Estimular la Recaudación Municipal, correspondiente a los meses que comprende el periodo de la compensación provisional, incluyendo los respectivos ajustes cuatrimestrales que se hayan aplicado a los municipios de dicho fondo correspondientes al ejercicio fiscal al que corresponde la compensación provisional, se aplica la distribución establecida en el artículo 53 de la presente Ley, y se obtiene un coeficiente de distribución, resultado de dividir el monto del Fondo de Fomento Municipal que corresponda al Municipio entre la suma de los montos del Fondo de Fomento Municipal de todos los municipios, el cual será aplicado al monto total de la compensación provisional de los municipios y de esta manera obtener el monto que corresponde a cada Municipio de la compensación provisional.
 
 Posteriormente, se realiza la diferencia entre el monto de la compensación provisional por Municipio menos la suma de las cantidades entregadas previamente por Municipio de las compensaciones provisionales.
 
-En lo que respecta a la compensación definitiva, a la cantidad total de los recursos entregados a los municipios del Fondo de Fomento Municipal, que integra el Fondo para Incentivar y Estimular la Recaudación Municipal, correspondiente a los meses que comprende el periodo de la compensación definitiva, incluyendo los respectivos ajustes cuatrimestrales y ajuste definitivo que se hayan aplicado a los municipios de dicho fondo correspondientes al ejercicio fiscal al que corresponde la compensación definitiva, se aplica la distribución establecida en el artículo 53 de la Ley de Coordinación Hacendaría del Estado de Puebla y sus Municipios, y se obtiene un coeficiente de distribución, resultado de dividir el monto del Fondo de Fomento Municipal que corresponda al Municipio entre la suma de los montos del Fondo de Fomento Municipal de todos los municipios, el cual será aplicado al monto total de la compensación definitiva de los municipios y de esta manera obtener el monto que corresponde a cada Municipio de la compensación definitiva.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
+
+En lo que respecta a la compensación definitiva, a la cantidad total de los recursos entregados a los municipios, integrado por la base correspondiente al ejercicio fiscal 2013 y por el 70% del excedente del Fondo de Fomento Municipal, que integra el Fondo para Incentivar y Estimular la Recaudación Municipal, correspondiente a los meses que comprende el periodo de la compensación definitiva, incluyendo los respectivos ajustes cuatrimestrales y ajuste definitivo que se hayan aplicado a los municipios de dicho fondo correspondientes al ejercicio fiscal al que corresponde la compensación definitiva, se aplica la distribución establecida en el artículo 53 de la presente Ley, y se obtiene un coeficiente de distribución, resultado de dividir el monto del Fondo de Fomento Municipal que corresponda al Municipio entre la suma de los montos del Fondo de Fomento Municipal de todos los municipios, el cual será aplicado al monto total de la compensación definitiva de los municipios y de esta manera obtener el monto que corresponde a cada Municipio de la compensación definitiva.
 
 Posteriormente, se realiza la diferencia entre el monto de la compensación definitiva por Municipio menos la suma de las cantidades entregadas previamente por Municipio de las compensaciones provisionales.
 
@@ -1492,3 +1532,13 @@ P.O. 18 DE FEBRERO DE 2025.
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 53; EL ARTÍCULO 54; EL TERCERO, CUARTO Y QUINTO PÁRRAFO DEL ARTÍCULO 57 TER, Y EL TERCER Y QUINTO PÁRRAFOS DEL ARTÍCULO 57 SEXIES Y SE ADICIONAN EL SEGUNDO PÁRRAFO AL ARTÍCULO 51, EL ARTÍCULO 53 BIS, Y EL SEXTO, SÉPTIMO Y OCTAVO PÁRRAFO AL ARTÍCULO 57 TER TODOS DE LA LEY DE COORDINACIÓN HACENDARIA DEL ESTADO DE PUEBLA Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. La aplicación de la distribución establecida en el artículo 53 BIS se efectuará una vez que la Federación ministre los recursos constituidos por el 30% del excedente del Fondo de Fomento Municipal al Estado.
+
+TERCERO. Se derogan todas aquellas disposiciones que contravengan lo establecido en el presente Decreto.
