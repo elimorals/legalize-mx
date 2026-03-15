@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-del-poder-judicial-del-estado-de-puebla-162309"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2023-01-06"
-last_updated: "2025-08-13"
+last_updated: "2026-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=162309&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 15 DE MARZO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2026 (ABROGADO).
 
 Ley publicada en el Número 5 del Periódico Oficial del Estado de Puebla, el viernes 6 de enero de 2023.
 
@@ -2682,3 +2684,47 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 TERCERO. El Distrito Judicial de Acatzingo iniciará sus funciones mediante declaratoria que expida el Consejo de la Judicatura del Poder Judicial del Estado, una vez que cuente con los recursos necesarios para su operación, conforme a la suficiencia presupuestal.
 
 CUARTO. El Consejo de la Judicatura del Poder Judicial del Estado, por conducto de las áreas administrativas a su cargo que resulten competentes, dotará de recursos humanos y financieros necesarios para el inicio de funciones del Distrito Judicial de Acatzingo.
+
+P.O. 15 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. La presente Ley deberá publicarse en el Periódico Oficial del Estado y entrará en vigor una vez que se cumpla con lo dispuesto por los artículos TRANSITORIOS DÉCIMO SEXTO y DÉCIMO SÉPTIMO de la Declaratoria del Decreto por el cual se reforma, adiciona y deroga diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial del Estado el quince de marzo de dos mil veinticinco.
+
+Para efectos electorales los artículos 12, 13 y 43 de la presente Ley, entrarán en vigor al día siguiente de la instalación del primer periodo ordinario de sesiones del año previo a la elección.
+
+SEGUNDO. Una vez que entre en vigor la presente Ley, se abroga la Ley Orgánica del Poder Judicial, publicada en el Periódico Oficial del Estado de fecha seis de enero de dos mil veintitrés.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+CUARTO. Las remuneraciones de las personas servidoras públicas del Poder Judicial que estén en funciones al momento de la entrada en vigor del presente Decreto, no podrán ser mayores a la establecida para la Presidenta o el Presidente de la República o, en su caso, la Gobernadora o Gobernador en el presupuesto correspondiente, por lo que deberán ajustarse a los parámetros establecidos en el artículo 127 de la Constitución Federal en los casos que corresponda, sin responsabilidad para el Poder Judicial.
+
+QUINTO. Las erogaciones que se deriven de la aplicación de la presente Ley, estarán sujetas a la disponibilidad presupuestal correspondiente y se deberán prever en el Presupuesto de Egresos del Estado, a fin de garantizar su cumplimiento.
+
+SEXTO. Una vez extinto el Consejo de la Judicatura del Poder Judicial del Estado, las menciones y referencias realizadas al mismo, en las demás disposiciones jurídicas y en cualquier tipo de documentación, se entenderán hechas al Tribunal de Disciplina Judicial y al Órgano de Administración Judicial de acuerdo a sus respectivas competencias.
+
+Con motivo de la entrada en vigor del presente Decreto y en cumplimiento de las medidas de racionalidad, eficiencia y honestidad para el ejercicio del gasto, las formas oficiales, formatos, sellos y demás papelería existente en los que conste la denominación del Consejo de la Judicatura del Poder Judicial del Estado de Puebla, se seguirán utilizando hasta que se agoten, siempre y cuando no se contrapongan con las disposiciones legales vigentes.
+
+SÉPTIMO. La Presidenta o Presidente del Tribunal de Justicia Administrativa o la persona servidora pública que designe su Pleno, llevará a cabo las gestiones y trámites necesarios con el Consejo de Judicatura del Poder Judicial, así como ante las autoridades e instancias correspondientes, para concluir las referidas trasferencias, pudiendo para tal efecto, emitirse los acuerdos generales y suscribir los convenios que sean necesarios para el cumplimiento adecuado de la presente disposición y hasta que el Tribunal de Justicia Administrativa opere de forma autónoma.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por el Consejo de la Judicatura en cita, conforme al párrafo anterior, seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de las unidades administrativas que asumen dichas atribuciones.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso ante el Consejo de la Judicatura, serán atendidos por el Tribunal de Disciplina Judicial, el Órgano de Administración Judicial, o el Tribunal de Justicia Administrativa, de acuerdo a sus respectivas competencias.
+
+OCTAVO. Los asuntos conocidos por el Órgano Interno de Control en su calidad de autoridad investigadora; por la Secretaría Jurídica, en su carácter de autoridad substanciadora; y por las Ponencias en su carácter de autoridad resolutora, todas ellas del Consejo de la Judicatura del Poder Judicial del Estado; en materia de responsabilidades administrativas, previo a la entrada en vigor del presente Decreto, continuarán su desarrollo conforme a la legislación aplicable al momento de promover la queja o demanda.
+
+NOVENO. Los cargos y demás puestos o áreas administrativas que se crean con la entrada en vigor de la presente Ley, estarán sujetos a las modificaciones orgánicas y presupuestos respectivos, en tanto se constituye e instala el Órgano de Administración Judicial, para lo cual se emitirán los acuerdos respectivos, a través del Consejo de la Judicatura.
+
+DÉCIMO. Los Juzgados Municipales y los Juzgados de Paz a que se refiere la Ley Orgánica del Poder Judicial del Estado de Puebla que se extinguen mediante el acuerdo que al respecto emita el Consejo de la Judicatura, por lo menos, treinta días antes del primer periodo ordinario de sesiones del Congreso del Estado, del año legislativo anterior al de la elección.
+
+DÉCIMO PRIMERO. Una vez constituidos el Tribunal de Disciplina Judicial y el Órgano de Administración Judicial ambos del Poder Judicial del Estado de Puebla, deberán expedir sus reglamentos interiores, dentro de los ciento ochenta días naturales siguientes a su instalación, en término de los dispuesto por la presente Ley. Debiendo realizar las acciones conducentes para integrar la reglamentación y demás normatividad que corresponda para cada una de sus unidades administrativas.
+
+DÉCIMO SEGUNDO. Para la integración del listado al que hace referencia el artículo TRANSITORIO DÉCIMO PRIMERO de la DECLARATORIA que emite el Honorable Congreso del Estado, que declara aprobado el Decreto por el que reforma, adiciona y deroga diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial del Estado el quince de marzo de dos mil veinticinco, el Consejo de la Judicatura deberá determinar la materia a la que corresponda cada una de las especializaciones de los Juzgados de Primera Instancia a las que hace referencia el artículo 43 de la presente Ley.
+
+DÉCIMO TERCERO. Los recursos financieros, humanos, materiales y presupuestales pertenecientes al Consejo de la Judicatura del Poder Judicial, se transferirán al Órgano de Administración Judicial, y al Tribunal de Justicia Administrativa, respectivamente, de acuerdo a sus competencias, debiendo concluirse antes del inicio de las funciones del Tribunal de Disciplina Judicial.
+
+Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por el Consejo de la Judicatura en cita, conforme al párrafo anterior, seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de las unidades administrativas que asumen dichas atribuciones.
+
+Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso ante el Consejo de la Judicatura, serán atendidos por el Tribunal de Disciplina Judicial, el Órgano de Administración Judicial, y el Tribunal de Justicia Administrativa, de acuerdo a sus respectivas competencias.
+
+DÉCIMO CUARTO. Para dar cumplimiento al tercer párrafo del artículo Vigésimo Segundo Transitorio de la DECLARATORIA que emite el Honorable Congreso del Estado, que declara aprobado el Decreto por el que reforma, adiciona y deroga diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial del Estado el quince de marzo de dos mil veinticinco, se estará conforme a la suficiencia presupuestal existente, a través del Acuerdo que para tal efecto emita el Consejo de la Judicatura.
