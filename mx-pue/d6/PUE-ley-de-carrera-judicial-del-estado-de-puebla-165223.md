@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-carrera-judicial-del-estado-de-puebla-165223"
 country: "mx"
 rank: "ley"
 publication_date: "2023-03-23"
-last_updated: "2024-02-23"
+last_updated: "2026-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165223&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE CARRERA JUDICIAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2026.
 
 Ley publicada en la Quinta Sección del Número 16 del Periódico Oficial del Estado de Puebla, el jueves 23 de marzo de 2023.
 
@@ -45,13 +45,17 @@ LEY DE CARRERA JUDICIAL DEL ESTADO DE PUEBLA
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de observancia general y tiene por objeto establecer las reglas, bases y procedimientos para el desarrollo de la carrera judicial en el Poder Judicial del Estado de Puebla.
+La presente Ley es de observancia general y tiene por objeto establecer las reglas, bases y procedimientos para el desarrollo de la carrera judicial de las personas servidoras públicas en el Poder Judicial del Estado de Puebla y regular su funcionamiento.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 2.
 
-Corresponde al Consejo de la Judicatura la dirección, administración, vigilancia, evaluación del desempeño y disciplina del personal del Poder Judicial del Estado de Puebla y del que acceda a la carrera judicial, mediante la expedición de acuerdos y lineamientos de carácter general que para tal efecto se emitan.
+Corresponde al Órgano de Administración Judicial la dirección, administración, vigilancia, ingreso, formación, promoción, evaluación del desempeño, permanencia y separación del personal de carrera judicial, del Poder Judicial del Estado de Puebla, mediante la expedición de los acuerdos y lineamientos de carácter general que para tal efecto se emitan.
 
 ###### ARTÍCULO 3.
 
@@ -61,21 +65,35 @@ El acceso a las categorías de la carrera judicial contempladas en la presente L
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Consejo: Consejo de la Judicatura del Poder Judicial del Estado de Puebla;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
+
+I. Carrera Judicial: A la Carrera Judicial del Estado de Puebla;
 
 II. Constitución: Constitución Política del Estado Libre y Soberano de Puebla;
 
 III. Escuela: Escuela Estatal de Formación Judicial;
 
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2026)</small>
+
+III Bis. Ley: Ley de Carrera Judicial del Estado de Puebla;
+
 IV. Ley Orgánica: Ley Orgánica del Poder Judicial del Estado de Puebla;
 
-V. Pleno: Pleno del Consejo de la Judicatura del Poder Judicial del Estado de Puebla, y
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2026)</small>
+
+IV Bis. Órgano de Administración Judicial: El Órgano de Administración Judicial del Poder Judicial del Estado de Puebla;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
+
+V. Pleno: Pleno del Órgano de Administración Judicial del Poder Judicial, y
 
 VI. Registro: Registro Único de las Personas Servidoras Públicas de la Carrera Judicial.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 5.
 
-Además de lo dispuesto en la presente Ley, la carrera judicial se rige por lo dispuesto en la Constitución, la Ley Orgánica y el Reglamento respectivo, así como por los acuerdos generales que emita el Consejo.
+Además de lo dispuesto en la presente Ley, la carrera judicial se rige por lo dispuesto en la Constitución, la Ley Orgánica, así como por los acuerdos y lineamientos generales que emitan el Órgano de Administración Judicial, las instancias competentes del Poder Judicial y las demás disposiciones jurídicas aplicables.
 
 ### CAPÍTULO SEGUNDO. DE LA CARRERA JUDICIAL Y SUS PRINCIPIOS
 
@@ -83,19 +101,27 @@ Además de lo dispuesto en la presente Ley, la carrera judicial se rige por lo d
 
 La carrera judicial constituye el sistema institucional encargado de regular los procesos de ingreso, formación, promoción, evaluación del desempeño, permanencia y separación de las personas servidoras públicas del Poder Judicial.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 7.
 
-La carrera judicial establece las bases para la formación, actualización y especialización de las personas servidoras públicas del Poder Judicial, a fin de garantizar la eficaz y eficiente impartición de justicia, así como optimizar la independencia e imparcialidad en el ejercicio de la función jurisdiccional rigiendo sus actos y procedimientos por los principios de excelencia, objetividad, profesionalismo, idoneidad, mérito, antigüedad, paridad de género, no discriminación e igualdad de oportunidades.
+La carrera judicial establece las bases para la formación, actualización y especialización de las personas servidoras públicas del Poder Judicial, a fin de garantizar la eficaz y eficiente impartición de justicia, así como optimizar la independencia e imparcialidad en el ejercicio de la función jurisdiccional, rigiendo sus actos y procedimientos por los principios de excelencia, objetividad, profesionalismo, idoneidad, mérito, antigüedad, paridad de género, no discriminación, igualdad de oportunidades, legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 8.
 
-Toda persona puede aspirar a desempeñar cargos dentro de la carrera judicial, siempre que reúna los requisitos establecidos en esta Ley, el Reglamento o los lineamientos y acuerdos que al efecto emita el Consejo.
+Toda persona puede aspirar a desempeñar cargos dentro de la carrera judicial, siempre que reúna los requisitos establecidos en esta Ley, así como en los lineamientos y acuerdos que al efecto emita el Órgano de Administración Judicial.
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 23 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 9.
 
-El Consejo incluirá en la carrera judicial la perspectiva de género de forma transversal progresiva y equitativa, a fin de garantizar a mujeres y hombres el ejercicio y goce de sus derechos humanos, en condiciones de igualdad sustantiva.
+El Órgano de Administración Judicial incluirá en la carrera judicial la perspectiva de género de forma transversal progresiva y equitativa, a fin de garantizar a todas las personas el ejercicio y goce de sus derechos humanos, en condiciones de igualdad sustantiva.
+
+La formación en perspectiva e igualdad de género será contemplada como un criterio obligatorio para el nombramiento y el ascenso de las personas servidoras públicas que integran el Poder Judicial del Estado.
+
+Las personas servidoras públicas competentes para aplicar las disposiciones de esta Ley adoptarán medidas de prevención, atención y reparación para la erradicación de cualquier tipo de violencia institucional en el Poder Judicial.
 
 ###### ARTÍCULO 10.
 
@@ -109,15 +135,39 @@ II. Independencia y autonomía en el ejercicio de su función y defensa del esta
 
 III. Respeto absoluto y compromiso con la defensa y protección de los derechos humanos;
 
-IV. Capacidad para interpretar y razonar jurídicamente a partir de casos concretos y con perspectiva interseccional;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-V. Aptitud para identificar los contextos sociales en que se presentan los casos sujetos a su conocimiento;
+IV. Capacidad para conocer los estándares de derechos humanos y habilidades para interpretar y razonar jurídicamente a partir de casos concretos y con perspectiva Interseccional;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
+
+V. Aptitud para identificar los contextos sociales y los factores de desigualdad estructural que se presentan en los casos sujetos a su conocimiento, para garantizar una función judicial orientada por la igualdad sustantiva;
 
 VI. Conocimiento de la organización y, en su caso, manejo del despacho judicial;
 
-VII. Aptitud de servicio y compromiso social, y
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-VIII. Trayectoria personal íntegra.
+VII. Vocación de servicio público y compromiso social;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
+
+VII. Vocación de servicio público y compromiso social;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MARZO DE 2026)</small>
+
+VIII. Ética en el servicio público;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE MARZO DE 2026)</small>
+
+IX. Trayectoria personal íntegra;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2026)</small>
+
+X. Capacidad para aplicar el método de juzgar con perspectiva de género, así como los enfoques de justicia social e Interseccional para garantizar un análisis integral de los casos, y
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2026)</small>
+
+XI. La observancia irrestricta de la prohibición de ejercer cualquier tipo de violencia institucional en el Poder Judicial del Estado.
 
 ### CAPÍTULO TERCERO. CATEGORÍAS, CURSOS Y CONCURSOS DE LA CARRERA JUDICIAL
 
@@ -127,39 +177,95 @@ VIII. Trayectoria personal íntegra.
 
 La carrera judicial podrá integrarse por las siguientes categorías:
 
-I. Juezas y Jueces de primera instancia;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-II. (DEROGADA, P.O. 23 DE FEBRERO DE 2024)
+I. La Secretaria o Secretario del Pleno del Tribunal Superior de Justicia;
 
-III. Las demás categorías que se determinen por el Consejo mediante acuerdo general.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MARZO DE 2026)</small>
+
+II. La Secretaria o Secretario Relator del Tribunal Superior de Justicia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MARZO DE 2026)</small>
+
+III. La Secretaria o Secretario de Acuerdos o Jefe de Causa de Sala del Tribunal Superior de Justicia y de Juzgados de primera instancia;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2026)</small>
+
+IV. La Secretaria o Secretario de Estudio y Cuenta, o Proyectista de Sala o Juzgado;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2026)</small>
+
+V. Las Defensoras y los Defensores Públicos;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2026)</small>
+
+VI. Las Actuarias y Actuarios, Diligenciarias y Diligenciarios, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE MARZO DE 2026)</small>
+
+VII. Las demás que por acuerdo del Órgano de Administración Judicial sean creadas.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 12.
 
-Los nombramientos a los cargos señalados en el artículo anterior se realizarán mediante cursos y/o concursos, según corresponda, en los términos que para cada uno de ellos se establezcan en esta Ley y en los acuerdos generales del Consejo.
+Los nombramientos a los cargos señalados en el artículo anterior se realizarán mediante concursos en los términos que para cada uno de ellos se establezcan en esta Ley y en los acuerdos generales del Órgano de Administración Judicial.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 13.
 
-Para solicitar el acceso a alguno de los cursos y/o concursos se deberán satisfacer los requisitos que establezcan los acuerdos del Consejo y las convocatorias respectivas.
+La promoción a las categorías establecidas en el artículo 11, se llevarán a cabo mediante los concursos establecidos en la presente Ley y demás acuerdos generales que al efecto expida el Órgano de Administración Judicial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 14.
 
-Los concursos podrán ser, entre otros, los siguientes:
+Las modalidades de los concursos de oposición a las distintas categorías de la carrera judicial serán las siguientes:
 
-I. Concursos Cerrados, en los que únicamente podrán participar las personas servidoras públicas del Poder Judicial que cumplan con los requisitos legales y con los que establezca la convocatoria que al efecto se emita, y
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 15 DE MARZO DE 2026)</small>
 
-II. Concursos Abiertos, en los que podrá participar el público en general que cumpla con los requisitos legales y con los que establezca la convocatoria que al efecto se emita.
+I. De acuerdo con las personas que pueden participar, se clasificarán conforme a lo siguiente:
+
+a) Internos: Aquellos concursos en los que podrán participar las personas que ocupen algún cargo dentro de la carrera judicial y que cumplan con los requisitos para ingresar establecidos en esta Ley, el Acuerdo General del Pleno que reglamente la carrera judicial y la convocatoria respectiva.
+
+b) Abiertos: En estos concursos podrá participar cualquier persona que cumpla con los requisitos señalados en esta Ley y el Acuerdo General del Pleno que reglamente la carrera judicial, salvo los referidos al desempeño previo de cargos en la carrera judicial. No obstante, en la convocatoria se podrán fijar requisitos que aseguren que las personas concursantes tengan el perfil y experiencia necesarios para desempeñar la función de la categoría que se concurse.
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 15 DE MARZO DE 2026)</small>
+
+II. De acuerdo con el mecanismo de selección, se clasificarán conforme a lo siguiente:
+
+a) Escolarizados: Se denominan cuando dentro de las etapas del concurso se prevé la realización de un curso de formación impartido por la Escuela.
+
+b) No escolarizados: Los concursos de este tipo serán todos los demás casos que no impliquen llevar a cabo algún curso de formación.
+
+Sin perjuicio de lo anterior, la Escuela podrá establecer en la convocatoria respectiva, la obligatoriedad de una capacitación que, según lo determine, podrá ser previa o posterior a los concursos de oposición. Esta capacitación será inherente y estrictamente relacionada con las funciones realizadas para la categoría postulada.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 15 DE MARZO DE 2026)</small>
+
+III. De acuerdo con la finalidad, se clasificarán conforme a lo siguiente:
+
+a) Para acceder directamente a una plaza dentro de alguna de las categorías de la carrera judicial, o
+
+b) Para incorporarse a una lista de acceso o promoción en la carrera judicial.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 15.
 
-El Consejo preparará la convocatoria, la estrategia de evaluación y las pruebas de aptitudes y conocimientos.
+El Órgano de Administración Judicial preparará la convocatoria, la estrategia de evaluación y las pruebas de aptitudes y conocimientos.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 16.
 
-Para la asignación de las plazas vacantes, el Consejo deberá observar el principio de paridad de género.
+Para la asignación de las plazas vacantes, el Órgano de Administración Judicial deberá observar el principio de paridad de género.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 17.
 
-Para los efectos de los Concursos de Oposición, el Consejo tendrá a su cargo las siguientes funciones:
+Para los efectos de los concursos de oposición, el Órgano de Administración Judicial tendrá a su cargo las siguientes funciones:
 
 I. Aprobar los perfiles generales de las categorías de la carrera judicial, y cualquier modificación a los mismos;
 
@@ -173,9 +279,11 @@ V. Aprobar y ordenar la publicación de la convocatoria para cada concurso de op
 
 VI. Convocar a concurso de oposición en términos de la presente Ley;
 
-VII. Publicar en el Periódico Oficial del Estado y en el sitio oficial del Consejo los resultados de las personas concursantes a las categorías consideradas en las fracciones I y II del artículo 11 de la presente Ley que hubiesen resultado ganadoras;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-VIII. Publicar en la página oficial del Consejo los resultados de las personas concursantes a las categorías consideradas en la fracción III del artículo 11 de la presente Ley que hubiesen resultado ganadoras;
+VII. Publicar en el sitio Oficial del Órgano de Administración Judicial, los resultados de las personas concursantes a las categorías descritas en el artículo 11 de la presente Ley, así como de las que hubiesen resultado ganadoras;
+
+VIII. (DEROGADA, P.O. 15 DE MARZO DE 2026)
 
 IX. Declarar desierto el concurso en el caso de que ningún participante reúna las condiciones necesarias para la designación, debiéndose determinar lo conducente;
 
@@ -221,31 +329,29 @@ III. La presentación de documentación falsa o alterada.
 
 ### CAPÍTULO QUINTO. DE LOS CAMBIOS DE ADSCRIPCIÓN
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 21.
 
-Los cambios de adscripción son aquellos en los que se designa a una persona integrante de la carrera judicial a un cargo dentro del mismo rango atendiendo a la necesidad del servicio y a los acuerdos que al efecto emita el Consejo.
+Los cambios de adscripción son aquellos en los que se designa a una persona integrante de la carrera judicial a un cargo dentro del mismo rango atendiendo a la necesidad del servicio y a los acuerdos que al efecto emita el Órgano de Administración Judicial.
 
 ### CAPÍTULO SEXTO. DE LOS REQUISITOS PARA OCUPAR LAS CATEGORÍAS DEL PODER JUDICIAL
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 22.
 
-Para poder ser designado Jueza o Juez de primera instancia o municipal se requiere:
+Para que una persona pueda ser designada y ocupe las categorías del Poder Judicial señaladas en el artículo 11 de la presente Ley, se tendrá que cubrir como mínimo, con los requisitos siguientes:
 
-I. Tener nacionalidad mexicana;
+I. Tener la ciudadanía mexicana;
 
-II. Tener título de licenciatura en Derecho o su equivalente, expedido con cinco años de antigüedad, cuando menos, contados a partir de la obtención de dicho título;
+II. Estar en el pleno goce y ejercicio de sus derechos civiles y políticos;
 
-III. Ser mayor de treinta años;
+III. Contar con título y cédula profesional de la licenciatura en Derecho, expedidos legalmente;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
+IV. No haber sido condenada por delito doloso con sanción privativa de libertad mayor de un año y no haber sido sancionada por faltas administrativas graves y no graves que hayan resultado en inhabilitación, y
 
-IV. Recibir nombramiento mediante cursos y/o concursos, según corresponda, en los términos que para cada uno de ellos se establezcan en esta Ley y en los acuerdos generales del Consejo, con excepción de los Municipales que serán elegidos a propuesta del Ayuntamiento del lugar en que van a ejercer jurisdicción, y
-
-V. Los demás que establezcan la normativa aplicable.
-
-> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2024)</small>
-
-El Consejo mediante acuerdo establecerá los requisitos para ser Jueza o Juez de paz.
+V. Los demás que establezcan la normativa aplicable y el acuerdo o lineamientos que para tal efecto emita el Órgano de Administración Judicial.
 
 ### CAPÍTULO SÉPTIMO. DE LA SEPARACIÓN
 
@@ -305,9 +411,13 @@ VI. Los demás que determinen las leyes y disposiciones normativas aplicables.
 
 Son obligaciones de las personas integrantes de la carrera judicial:
 
-I. Ejercer sus funciones con estricto apego a los principios de excelencia, profesionalismo, idoneidad, mérito, paridad de género, no discriminación, igualdad de oportunidades, y los demás previstos en la presente Ley y las disposiciones normativas aplicables;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-II. Participar en los cursos que imparta el Consejo de la Judicatura;
+I. Ejercer sus funciones con estricto apego a los principios establecidos en el artículo 7 de esta Ley y demás disposiciones normativas aplicables;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
+
+II. Participar en los procesos de formación, capacitación, evaluación, certificación y actualización que imparta la Escuela;
 
 III. Conducirse con respeto a la normativa en materia de paridad de género y fomentar espacios laborales libres de violencia y discriminación;
 
@@ -327,9 +437,11 @@ La omisión, falsedad o mala fe en las manifestaciones o validaciones a que se r
 
 ### CAPÍTULO NOVENO. DEL REGISTRO ÚNICO DE PERSONAS SERVIDORAS PÚBLICAS DE LA CARRERA JUDICIAL
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 28.
 
-El Registro es un padrón que contiene información básica y técnica en materia de recursos humanos del personal perteneciente a la carrera judicial. Se establece con el fin de apoyar el desarrollo de la persona integrante dentro de la misma y para que el Consejo de la Judicatura cuente con información actualizada, confiable y eficaz que contribuya al establecimiento de políticas públicas enfocadas en el fortalecimiento de la profesionalización y eficacia en la impartición de justicia. Los datos personales que en él se contengan serán considerados confidenciales.
+El Registro es un padrón que contiene información básica y técnica en materia de recursos humanos del personal perteneciente a la carrera judicial. Se establece con el fin de apoyar el desarrollo de la persona integrante dentro de la misma y para que el Órgano de Administración Judicial cuente con información actualizada, confiable y eficaz que contribuya al establecimiento de políticas públicas enfocadas en el fortalecimiento de la profesionalización y eficacia en la impartición de justicia. Los datos personales que en él se contengan serán considerados confidenciales.
 
 ###### ARTÍCULO 29.
 
@@ -341,25 +453,31 @@ Los datos del Registro respecto al proceso de capacitación y desarrollo deberá
 
 ### CAPÍTULO DÉCIMO. DE LAS SUSTITUCIONES Y LICENCIAS
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 31.
 
-Para los efectos de las sustituciones y licencias de las personas servidoras públicas de la Carrera Judicial, se estará a lo dispuesto en la Ley Orgánica y en los acuerdos generales conducentes.
+Para los efectos de las licencias de las personas servidoras públicas de la carrera judicial, se estará a lo dispuesto en la Ley Orgánica del Poder Judicial del Estado de Puebla y en los acuerdos generales conducentes que expida el Órgano de Administración Judicial.
 
 ### CAPÍTULO DÉCIMO PRIMERO. DEL RECURSO DE INCONFORMIDAD ADMINISTRATIVA
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 32.
 
-Los resultados de los concursos podrán ser impugnados ante el Pleno del Consejo mediante el recurso de inconformidad administrativa.
+Los resultados de los concursos podrán ser impugnados ante el Pleno del Órgano de Administración Judicial mediante el recurso de inconformidad administrativa.
 
 ###### ARTÍCULO 33.
 
 El recurso de inconformidad administrativa podrá interponerlo cualquier persona que haya participado en el concurso.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 34.
 
-El recurso de inconformidad administrativa deberá presentarse por escrito ante el Consejo, dentro de los cinco días hábiles siguientes a la fecha en que hubiere surtido sus efectos la notificación de los resultados de concurso o se hubiere tenido conocimiento de éstos.
+El recurso de inconformidad administrativa deberá presentarse por escrito ante el Órgano de Administración Judicial, dentro de los cinco días hábiles siguientes a la fecha en que hubiere surtido sus efectos la notificación de los resultados de concurso o se hubiere tenido conocimiento de estos.
 
-El expediente se turnará a una Consejera o un Consejero Ponente según el turno que corresponda quien requerirá al jurado para que formule el informe correspondiente. Asimismo, deberá en su caso, notificar a la tercera o tercero interesado, teniendo ese carácter la persona o personas que se hubieren visto favorecidas con la resolución, a fin de que en el término de cinco días hábiles puedan alegar lo que a su derecho convenga.
+El expediente se turnará al integrante del Órgano de Administración Judicial según el turno que corresponda quien requerirá al jurado para que formule el informe correspondiente. Asimismo, deberá en su caso, notificar a la persona tercera interesada, teniendo ese carácter quienes se hubieren visto favorecidas con la resolución, a fin de que en el término de cinco días hábiles puedan alegar lo que a su derecho convenga.
 
 ###### ARTÍCULO 35.
 
@@ -396,3 +514,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Los procedimientos para la designación de Jueces de paz, que se encuentren en trámite a la entrada en vigor del presente Decreto, continuarán su curso conforme a lo previsto en este, en lo que los favorezca.
+
+P.O. 15 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMAN LOS ARTÍCULOS 1, 2, LAS FRACCIONES I Y V DEL 4, 5, 7, 8, 9, LAS FRACCIONES IV, V, VII Y VIII DEL 10, LAS FRACCIONES I, II Y III DEL 11, 12, 13, 14, 15, 16, EL PRIMER PÁRRAFO Y LA FRACCIÓN VII DEL 17, 21, 22, LAS FRACCIONES I Y II DEL 27, 28, 31, 32 Y 34; SE ADICIONAN LAS FRACCIONES III BIS Y IV BIS AL 4, LAS FRACCIONES IX, X Y XI AL 10, FRACCIONES IV, V, VI Y VII AL 11, LA FRACCIÓN III AL ARTÍCULO 14 Y SE DEROGA LA FRACCIÓN VIII DEL 17, DE LA LEY DE CARRERA JUDICIAL DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor una vez que se cumpla con lo dispuesto por los artículos TRANSITORIOS DÉCIMO SEXTO y DÉCIMO SÉPTIMO de la Declaratoria del Decreto por el cual se reforma, adiciona y deroga diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial del Estado el quince de marzo de dos mil veinticinco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. Para efectos de la aplicación de las disposiciones relativas a las categorías y concursos de la carrera judicial, la vigencia de las mismas iniciará conforme al Acuerdo General que emita el Órgano de Administración Judicial para tal efecto, quien deberá implementar las acciones necesarias para la organización y desarrollo de los cursos correspondientes a través de la Escuela, y previendo la suficiencia presupuestal respectiva.
