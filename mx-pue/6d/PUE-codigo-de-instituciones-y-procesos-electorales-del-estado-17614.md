@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-instituciones-y-procesos-electorales-del-estado-17614
 country: "mx"
 rank: "codigo"
 publication_date: "2000-10-02"
-last_updated: "2025-04-11"
+last_updated: "2026-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO DE INSTITUCIONES Y PROCESOS ELECTORALES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL:11 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL:15 DE MARZO DE 2026.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el lunes 2 de octubre de 2000.
 
@@ -177,13 +177,15 @@ II.- Los derechos y obligaciones político-electorales de los ciudadanos;
 
 III.- La organización, derechos, obligaciones y prerrogativas de los candidatos y partidos políticos;
 
-IV.- La función estatal de organizar la elección de los integrantes del Poder Legislativo, del Titular del Poder Ejecutivo y miembros de los Ayuntamientos de la Entidad;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
+
+IV.- La función estatal de organizar la elección de las personas integrantes del Poder Legislativo, la persona Titular del Poder Ejecutivo, personas Juzgadoras del Poder Judicial y miembros de los Ayuntamientos de la Entidad;
 
 V.- La integración y atribuciones de los órganos electorales y del Tribunal Electoral del Estado;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-VI.- Los actos preliminares al inicio del proceso electoral, así como las etapas del proceso electoral para elegir Diputados, Gobernador y miembros de los Ayuntamientos;
+VI.- Los actos preliminares al inicio del proceso electoral, así como las etapas del proceso electoral para elegir Diputados y Diputadas, persona Titular del Poder Ejecutivo, personas juzgadoras del Poder Judicial y miembros de los Ayuntamientos;
 
 > <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2009)</small>
 
@@ -257,13 +259,25 @@ XIII.- Elegibilidad: Calidad que se obtiene al cumplir con los requisitos que ex
 
 XIV.- Candidata o Candidato Independiente: La o el ciudadano que habiendo cumplido los requisitos que para tal efecto se establecen, obtenga por parte de la autoridad electoral el registro;
 
-> <small>(ADICIONADA, P.O. 29 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-XV.- Paridad de género: Principio constitucional por el que se promueve y garantiza la igualdad política, horizontal y vertical entre mujeres y hombres, a través de la asignación y designación del 50% de candidaturas a cargos de elección popular y de cargos públicos, respectivamente, para cada género; y
+XV.- Paridad de género: Principio constitucional por el que se promueve y garantiza la igualdad política, horizontal y vertical entre mujeres y hombres, a través de la asignación y designación del 50% de candidaturas a cargos de elección popular y de cargos públicos, respectivamente, para cada género;
 
 > <small>(ADICIONADA, P.O. 29 DE JULIO DE 2020)</small>
 
 XVI.- Violencia política contra las mujeres en razón de género: es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo.
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2026)</small>
+
+XVII.- Personas juzgadoras: A las Magistradas y Magistrados del Tribunal Superior de Justicia, a las Magistradas y Magistrados del Tribunal de Disciplina Judicial, y a las Juezas y Jueces de Primera Instancia electos por mayoría relativa y voto directo de la ciudadanía;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2026)</small>
+
+XVIII.- Personas candidatas a cargos de elección del Poder Judicial: A las personas candidatas a ocupar los cargos de Magistradas y Magistrados del Tribunal Superior de Justicia, Magistradas y Magistrados del Tribunal de Disciplina Judicial, y Juezas y Jueces de Primera Instancia del Estado de Puebla; y
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2026)</small>
+
+XIX.- Procesos Electorales: A los procesos para la renovación de cargos a la Gubernatura, Diputaciones locales, miembros de los ayuntamientos, así como de las personas juzgadoras.
 
 > <small>(ADICIONADO, P.O. 29 DE JULIO DE 2020)</small>
 
@@ -288,6 +302,10 @@ La interpretación de las disposiciones de este Código se hará conforme a los 
 ###### ARTÍCULO 5.
 
 Las autoridades federales, estatales y municipales están obligadas a prestar el apoyo que las autoridades electorales establecidas conforme a la Constitución Local y el presente Código, les soliciten para el cumplimiento de sus atribuciones y el desempeño de sus funciones.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+Las solicitudes de información que realice el Instituto relacionadas con la verificación del cumplimiento de requisitos de elegibilidad de las candidaturas a cargos de elección popular, deberán ser atendidas por las autoridades referidas en el presente artículo en un plazo no mayor a setenta y dos horas contadas a partir de su recepción.
 
 ###### ARTÍCULO 6.
 
@@ -337,11 +355,11 @@ VI.- Paridad de Género: Principio constitucional por el que se promueve y garan
 
 VII.- Máxima Publicidad.- Toda la información en posesión del Instituto será pública, completa, oportuna y accesible, sujeta a un claro régimen de excepciones que deberán estar definidas y ser además legítimas y estrictamente necesarias en una sociedad democrática.
 
-> <small>(REFORMADO, P.O. 29 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 9.
 
-Corresponde al Instituto, al Tribunal y a las autoridades federales, estatales y municipales, en el ámbito de su respectiva competencia, con la participación y corresponsabilidad de las y los ciudadanos y de los partidos políticos, garantizar y vigilar el libre desarrollo del proceso electoral, el principio de paridad de género en el ejercicio de los derechos político - electorales, el respeto de los derechos humanos, la efectividad del voto, así como la autenticidad e imparcialidad de las elecciones que se celebren en términos de este Código.
+Corresponde a los Poderes del Estado, al Instituto, al Tribunal y a las autoridades federales, estatales y municipales, en el ámbito de su respectiva competencia, con la participación y corresponsabilidad de las y los ciudadanos y de los partidos políticos, garantizar y vigilar el libre desarrollo de los procesos electorales, el principio de paridad de género en el ejercicio de los derechos político electorales, el respeto de los derechos humanos, la efectividad del voto, así como la autenticidad e imparcialidad de las elecciones que se celebren en términos de este Código.
 
 ## TÍTULO SEGUNDO. DE LA PARTICIPACIÓN DE LOS CIUDADANOS EN LAS ELECCIONES
 
@@ -359,11 +377,11 @@ Para el ejercicio de sus derechos político-electorales, los ciudadanos resident
 
 Es derecho de la ciudadanía a ser votadas y votados para todos los puestos de elección popular y ejercer sus derechos político - electorales libres de violencia política contra las mujeres en razón de género, sin discriminación por origen étnico o nacional, género, edad, discapacidades, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil, o cualquier otra que atente contra la dignidad humana o tenga por objeto anular o menoscabar sus derechos y libertades.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 11.
 
-El voto constituye un derecho y una obligación ciudadana. Es el instrumento único de expresión de la voluntad popular para integrar el Poder Legislativo, elegir a la o el Titular del Poder Ejecutivo, a las y los miembros de los Ayuntamientos, así como para participar en los procesos de plebiscito y referéndum. También es derecho de la ciudadanía y obligación para los partidos políticos promover y garantizar la igualdad de oportunidades; la prevención, atención, sanción y erradicación de la violencia política contra las mujeres en razón de género, y garantizar la paridad entre hombres y mujeres para tener acceso a cargos de elección popular, así como el respeto a los derechos humanos de las mujeres.
+El voto constituye un derecho y una obligación ciudadana. Es el instrumento único de expresión de la voluntad popular para integrar a los Poderes Legislativo y Judicial, elegir a la o el Titular del Poder Ejecutivo, a las y los miembros de los Ayuntamientos, así como para participar en los procesos de plebiscito y referéndum. También es derecho de la ciudadanía y obligación para los partidos políticos promover y garantizar la igualdad de oportunidades; la prevención, atención, sanción y erradicación de la violencia política contra las mujeres en razón de género, y garantizar la paridad entre hombres y mujeres para tener acceso a cargos de elección popular, así como el respeto a los derechos humanos de las mujeres.
 
 El voto es universal, libre, secreto, directo, personal e intransferible.
 
@@ -1547,11 +1565,35 @@ El ejercicio de esa función se rige por los principios rectores señalados en l
 
 Los órganos responsables de esta función son:
 
-I.- El Consejo General del Instituto;
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], P.O. 15 DE MARZO DE 2026)</small>
 
-II.- Los Consejos Distritales Electorales;
+I. Centrales Permanentes:
 
-III.- Los Consejos Municipales Electorales; y
+a) Consejo General;
+
+b) Junta Ejecutiva, y
+
+c) Las Direcciones y las Unidades Técnicas Administrativas
+
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], P.O. 15 DE MARZO DE 2026)</small>
+
+II. Desconcentrados temporales:
+
+a) Consejos Distritales electorales;
+
+b) Consejos Municipales electorales;
+
+c) Consejos Distritales Judiciales, y
+
+d) Consejos Municipales Judiciales, de manera excepcional.
+
+Los órganos desconcentrados señalados en los incisos a) y b) serán de carácter temporal, mismos que se integrarán garantizando el principio de paridad de género, se instalarán y funcionarán para la preparación y desarrollo de los procesos electorales ordinarios y, en su caso, los extraordinarios, de los distritos uninominales y de los municipios para la elección de diputaciones del Congreso, la persona titular del Poder Ejecutivo del Estado Libre y Soberano de Puebla y las Presidencias Municipales y regidurías de los ayuntamientos.
+
+Los órganos desconcentrados señalados en los incisos c) y d) serán de carácter temporal, mismos que se instalarán y funcionarán para la preparación y desarrollo de los procesos electorales ordinarios y, en su caso, los extraordinarios en los Distritos Judiciales o Zonas Conurbadas Judiciales para la elección de personas juzgadoras del Poder Judicial, conforme al estudio referido en el libro séptimo del presente Código.
+
+Durante la etapa de preparación de la elección que corresponda, previo a la emisión de la convocatoria para la integración de los órganos desconcentrados del Instituto, el Consejo General podrá ejercer la facultad de atracción de las funciones de algún órgano desconcentrado y determinar la no instalación del consejo correspondiente.
+
+III.- (DEROGADO, P.O. 15 DE MARZO DE 2026)
 
 IV.- Las Mesas Directivas de Casilla.
 
@@ -1577,7 +1619,9 @@ I.- Vigilar en el ámbito electoral el cumplimiento de las disposiciones de la C
 
 II.- Contribuir al desarrollo de la vida democrática;
 
-III.- Garantizar la celebración periódica y pacífica de las elecciones para renovar a los integrantes de los Poderes Legislativo, Ejecutivo y miembros de los Ayuntamientos;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
+
+III. Garantizar la celebración periódica y pacífica de las elecciones para renovar a las personas integrantes de los Poderes Legislativo, Ejecutivo y Judicial, así como de los miembros de los Ayuntamientos;
 
 IV.- Asegurar el ejercicio de los derechos político-electorales de los ciudadanos y de los partidos políticos vigilando el cumplimiento de sus obligaciones;
 
@@ -1631,9 +1675,9 @@ II.- La Junta Ejecutiva.
 
 El Consejo General será el órgano superior de dirección del Instituto y el responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de vigilar que los principios rectores de legalidad, imparcialidad, objetividad, certeza, independencia, máxima publicidad y paridad de género guíen todas las actividades del Instituto, mismas que se realizarán con perspectiva de género.
 
-> <small>(REFORMADO, P.O. 31 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
 
-El Consejo General se reunirá entre los días tres y cinco del mes de noviembre del año previo al de la jornada electoral para declarar el inicio del proceso electoral.
+El Consejo General sesionará durante los primeros diez días del mes de noviembre del año previo en que deban realizarse las elecciones estatales ordinarias, con el objeto de declarar el inicio del proceso electoral correspondiente.
 
 ###### ARTÍCULO 80.
 
@@ -1747,11 +1791,15 @@ V.- Aprobar la estructura central del Instituto y la de los Consejos Distritales
 
 VI.- Nombrar a los Directores de la Junta Ejecutiva, de entre las propuestas que en terna presente el Secretario Ejecutivo, a través del Consejero Presidente;
 
-VII.- Convocar a elecciones para Diputados, Gobernador y miembros de los Ayuntamientos, fijando los términos en que habrán de realizarse;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-VIII.- Designar a los Consejeros Electorales y Secretarios de los Consejos Distritales, de entre la lista que al efecto le presente el Consejero Presidente;
+VII.- Convocar a elecciones para Diputadas y Diputados, Gobernadora o Gobernador, y personas integrantes de los Ayuntamientos, fijando los términos en que habrán de realizarse, en el ámbito de su competencia y conforme a lo dispuesto por la Constitución Local y este Código;
 
-IX.- Designar a los Consejeros Electorales y Secretarios de los Consejos Municipales, de entre la lista que al efecto le presente el Consejero Presidente;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
+
+VIII.- Designar a las Consejerías y Secretarías de los órganos desconcentrados temporales, de entre la lista que al efecto presente la persona titular de la Presidencia del Consejo General;
+
+IX.- (DEROGADA, P.O. 15 DE MARZO DE 2026)
 
 X.- Publicar en el Periódico Oficial del Estado la integración y domicilio legal de los diversos órganos que forman parte del Instituto, dentro de los cinco días posteriores a la instalación de cada uno de ellos;
 
@@ -1759,15 +1807,17 @@ X.- Publicar en el Periódico Oficial del Estado la integración y domicilio leg
 
 XI.- Determinar de conformidad con lo que establecen la Constitución Local, este Código y la normatividad aplicable, el monto del financiamiento público que corresponda a los partidos políticos y en su caso candidatos independientes;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-XII.- En caso de que le sea delegada; definir, previa realización de los estudios técnicos necesarios, la demarcación territorial y cabeceras de los distritos electorales uninominales, y en su caso, su modificación;
+XII.- En caso de que le sea delegada; definir, previa realización de los estudios técnicos necesarios, la demarcación territorial y cabeceras de los distritos electorales uninominales o judiciales electorales y en su caso, su modificación;
 
 > <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
 XIII.- Proporcionar a los Consejos Distritales y Municipales Electorales, por conducto del Secretario Ejecutivo del Instituto, la documentación y útiles necesarios para el cumplimiento de sus funciones;
 
-XIV.- Resolver los asuntos que surjan con motivo del funcionamiento de los Consejos Distritales y de los Consejos Municipales;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
+
+XIV.- Resolver los asuntos que surjan con motivo del funcionamiento de los órganos desconcentrados temporales;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -1807,9 +1857,9 @@ XXVI.- Registrar las listas de candidatos a Diputados por el principio de repres
 
 XXVII.- Registrar supletoriamente las candidaturas a miembros de los Ayuntamientos;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-XXVIII.- Ordenar la impresión de actas y boletas electorales en los términos que establezca el Instituto Nacional Electoral;
+XXVIII.- Ordenar la impresión de actas, boletas electorales y demás documentación electoral necesaria para la realización de los Procesos Electorales, en los términos que establezca el Instituto Nacional Electoral;
 
 XXIX.- Ajustar los plazos que marca este Código, si las condiciones lo hacen necesario;
 
@@ -1828,6 +1878,10 @@ XXXII.- Efectuar el cómputo final de la elección de Regidores de representaci�
 > <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2006)</small>
 
 XXXIII.- Realizar el cómputo final de la elección de Gobernador, formular la declaración de validez de la elección, determinar su elegibilidad y expedir la constancia de Gobernador electo en favor del candidato que hubiere alcanzado el mayor número de votos;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2026)</small>
+
+XXXIII Bis.- Realizar la declaración de validez de la elección de las personas juzgadoras del Poder Judicial del Estado, expedir las constancias de mayoría correspondientes y remitir los resultados definitivos al Tribunal, en los términos de la Constitución Local y este Código;
 
 XXXIV.- Remitir al Congreso del Estado copia certificada de las constancias de Diputados por el principio de mayoría relativa, de Diputados por el principio de representación proporcional, de Gobernador electo y de miembros de los Ayuntamientos por ambos principios;
 
@@ -1861,7 +1915,9 @@ XLII.- Determinar y aplicar las sanciones administrativas previstas por este Có
 
 XLIII.- Resolver las consultas que se presenten sobre la interpretación de las disposiciones de este Código y los casos no previstos en él, para cumplir con sus atribuciones;
 
-XLIV.- Conocer y resolver los recursos previstos en este Código contra los actos y resoluciones de los Consejos Distritales y Municipales del Instituto;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
+
+XLIV.- Conocer y resolver los recursos previstos en este Código contra los actos y resoluciones de los órganos desconcentrados temporales del Instituto;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -1927,9 +1983,13 @@ LVIII.- Garantizar el cumplimiento del principio de paridad de género, así com
 
 LIX.- Establecer y ejecutar a través de las áreas correspondientes, los programas de educación cívica en materia de paridad de género, así como para prevenir, atender y en su caso erradicar la violencia política contra las mujeres en razón de género; y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE JULIO DE 2020)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MARZO DE 2026)</small>
 
-LX.- Las demás que le sean conferidas por este Código y disposiciones aplicables.
+LX.- Emitir en caso de ser necesario, las observaciones a los listados finales de candidaturas para ocupar los cargos de personas juzgadoras o magistradas del Poder Judicial del Estado de Puebla, que se presenten por los Poderes del Estado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA] ANTES FRACCIÓN LX, P.O. 15 DE MARZO DE 2026)</small>
+
+LXI.- Las demás que le sean conferidas por este Código y disposiciones aplicables.
 
 > <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -1965,9 +2025,11 @@ En ningún caso, los Consejeros Electorales, deberán realizar actividades que, 
 
 ### CAPÍTULO III. DEL CONSEJERO PRESIDENTE Y DEL SECRETARIO EJECUTIVO DEL CONSEJO GENERAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 91.
 
-El Consejero Presidente del Consejo General tendrá las atribuciones siguientes:
+La persona Consejera Presidenta del Consejo General tendrá las atribuciones siguientes:
 
 I.- Representar legalmente al Instituto;
 
@@ -1993,7 +2055,9 @@ VII.- Vigilar el cumplimiento de los acuerdos del propio Consejo General y rendi
 
 VIII.- Proponer al Consejo General, en terna, el nombramiento del Secretario Ejecutivo, de los Titulares de la Unidad Técnica de Fiscalización y de la Contraloría Interna; así como presentar las propuestas a que se refieren los artículos 89 fracción VI y 101 de este Código;
 
-IX.- Presentar al Consejo General, de entre la lista que al efecto elabore, las propuestas para la designación de los Consejeros Electorales y Secretarios de los Consejos Distritales y Consejos Municipales;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
+
+IX.- Presentar al Consejo General, de entre la lista que al efecto elabore, las propuestas para la designación de las personas consejeras electorales y secretarias de los órganos desconcentrados temporales.
 
 X.- Presentar al Consejo General, en términos de la legislación aplicable, el anteproyecto de presupuesto de egresos del Instituto;
 
@@ -2075,11 +2139,11 @@ VIII.- No tener ni haber tenido cargo alguno de elección popular, ni haber sido
 
 IX.- No ser ni haber sido Ministro de culto religioso alguno.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 93.
 
-El Secretario Ejecutivo tendrá las atribuciones siguientes:
+La persona titular de la Secretaría Ejecutiva tendrá las atribuciones siguientes:
 
 > <small>(REFORMADA, P.O. 28 DE JUNIO DE 2012)</small>
 
@@ -2105,11 +2169,13 @@ X.- Expedir la certificación de documentos que soliciten los representantes de 
 
 XI.- Dar fe de las actuaciones del Consejo General y de las de los órganos centrales del Instituto;
 
-XII.- Coordinar las acciones de los Consejos Distritales y Municipales del Instituto, informando permanentemente al Consejero Presidente del Consejo General;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 28 DE JUNIO DE 2012)</small>
+XII.- Coordinar las acciones de los Órganos Desconcentrados temporales del Instituto, informando permanentemente la persona titular de la Presidencia del Consejo General;
 
-XIII.- Recabar de los Consejos Distritales y Municipales, copia de las actas circunstanciadas de sus sesiones, por conducto de la Dirección de Organización Electoral;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
+
+XIII.- Recabar de los Órganos Desconcentrados temporales del Instituto, copia de las actas circunstanciadas de sus sesiones, por conducto de la Dirección de Organización Electoral;
 
 XIV.- Recibir las solicitudes de registro para participar como partido político estatal;
 
@@ -2159,9 +2225,9 @@ XXVI.- Expedir las certificaciones de documentos que sean solicitadas por los ó
 
 XXVII.- (DEROGADA, P.O. 22 DE AGOSTO DE 2015)
 
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-XXVIII.- Integrar los expedientes de las elecciones, con las actas de cómputo de la elección de Diputados por ambos principios, de Gobernador y de miembros de Ayuntamientos;
+XXVIII.- Integrar los expedientes de las elecciones, con las actas de cómputo de la elección de Diputadas y Diputados por ambos principios, de la persona titular del Poder Ejecutivo del Estado, de las personas integrantes de los Ayuntamientos y de las personas juzgadoras del Poder Judicial del Estado, y presentarlos oportunamente al Consejo General.
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -2171,17 +2237,17 @@ XXIX.- Revisar que la documentación y materiales electorales, que se sometan a 
 
 XXX.- Ejercer las partidas presupuestales asignadas por el Consejo General y rendir anualmente al Consejo General, a más tardar en el mes de abril, informe sobre el ejercicio del presupuesto correspondiente al año anterior;
 
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-XXXI.- Proporcionar a los órganos centrales del Instituto y a los Consejos Distritales y Municipales, la documentación y demás elementos necesarios para el cumplimiento de sus funciones;
+XXXI.- Proporcionar a los órganos centrales y órganos desconcentrados temporales del Instituto, la documentación y demás elementos necesarios para el cumplimiento de sus funciones;
 
 > <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
 XXXII.- Elaborar la memoria y estadística electoral;
 
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-XXXIII.- Dar cuenta al Consejo General de los informes que sobre las elecciones reciba de los Consejos Distritales y Municipales del Instituto;
+XXXIII.- Dar cuenta al Consejo General de los informes que sobre las elecciones reciba de los órganos desconcentrados temporales;
 
 > <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
@@ -2199,9 +2265,9 @@ XXXVI.- En su caso, sugerir al Consejo General el mecanismo para la difusión in
 
 XXXVII.- Plantear al Consejo General, a través del Consejero Presidente, las bases de la convocatoria para la contratación del personal eventual del Instituto;
 
-> <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-XXXVIII.- Supervisar la instalación y funcionamiento de los Consejos Distritales y Municipales;
+XXXVIII.- Supervisar la instalación y funcionamiento de los órganos desconcentrados temporales;
 
 > <small>(ADICIONADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
@@ -2227,9 +2293,9 @@ XLIII.- Instaurar los mecanismos para el contacto institucional del organismo co
 
 XLIV.- Exponer, implementar y ejecutar la campaña de difusión del voto y promoción de la participación ciudadana, durante la organización del proceso electoral; y
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 15 DE MARZO DE 2026)</small>
 
-XLV.- Ejercer y atender oportunamente la función de la oficialía electoral por sí, o por conducto de los secretarios de los consejos distritales o municipales, u otros servidores públicos del Instituto en los que delegue dicha función respecto de actos o hechos exclusivamente de naturaleza electoral, en los términos del reglamento que al efecto apruebe el Consejo General. El Secretario Ejecutivo podrá delegar la atribución en los servidores públicos a su cargo.
+XLV.- Ejercer y atender oportunamente la función de la oficialía electoral por sí, o por conducto de las personas secretarias de los órganos desconcentrados temporales, u otros servidores públicos del Instituto en los que delegue dicha función respecto de actos o hechos exclusivamente de naturaleza electoral, en los términos del reglamento que al efecto apruebe el Consejo General. La persona titular de la Secretaría Ejecutiva podrá delegar la atribución en los servidores públicos a su cargo.
 
 En el ejercicio de la función de oficialía electoral, el Secretario Ejecutivo, los secretarios de los consejos distritales y municipales, así como los demás funcionarios en quien se delegue esta función tendrán las siguientes atribuciones, las cuales deberán realizarlas de manera oportuna:
 
@@ -2397,7 +2463,9 @@ Asimismo, una vez concluido el proceso electoral y hasta antes del inicio del si
 
 La Dirección de Organización Electoral tendrá las atribuciones siguientes:
 
-I.- Coordinar la integración, instalación y funcionamiento de los órganos electorales del Instituto;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
+
+I.- Coordinar la integración, instalación y funcionamiento de los órganos desconcentrados temporales;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -2405,9 +2473,9 @@ II.- Proyectar los formatos de la documentación y del material electoral para s
 
 III.- Proveer lo necesario para la impresión y distribución de la documentación electoral autorizada;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-IV.- Solicitar y recabar de los Consejos Distritales y Municipales, copias de las actas de sus sesiones, remitiendo copia de las mismas al Secretario Ejecutivo, así como de los demás documentos relacionados con el proceso electoral;
+IV.- Solicitar y recabar de los órganos desconcentrados temporales, copias de las actas de sus sesiones, remitiendo copia de las mismas a la persona titular de la Secretaría Ejecutiva, así como de los demás documentos relacionados con el proceso electoral;
 
 V.- Recabar la documentación necesaria e integrar los expedientes a fin de que el Consejo General efectúe los cómputos que conforme a este Código deba realizar;
 
@@ -2415,9 +2483,13 @@ V.- Recabar la documentación necesaria e integrar los expedientes a fin de que 
 
 VI.- Realizar la estadística de las elecciones del Estado e integrar, en términos del presente Código, los bloques de competitividad electoral;
 
-VII.- Preparar el anteproyecto de convocatoria pública para la integración de los Consejos Distritales y Municipales;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-VIII.- Elaborar las listas de candidatos a Consejeros de los Consejos Distritales y Municipales para la consideración del Consejo General;
+VII.- Preparar el anteproyecto de convocatoria pública para la integración de los órganos desconcentrados temporales;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
+
+VIII.- Elaborar las listas de personas candidatas a Consejeras de los órganos desconcentrados temporales para la consideración del Consejo General;
 
 > <small>(REFORMADA, P.O. 20 DE FEBRERO DE 2012)</small>
 
@@ -2477,7 +2549,7 @@ X.- Diseñar y proponer campañas de educación cívica, paridad de género y cu
 
 XI.- Las demás que le confiera el Consejo General, la Junta Ejecutiva y la o el Secretario Ejecutivo, conforme a este Código y demás disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 15 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 105.
 
@@ -2499,9 +2571,9 @@ III.- Inscribir en el libro respectivo el registro de partidos políticos, así 
 
 IV.- Coordinar la entrega a los partidos políticos nacionales o estatales con registro, así como a los candidatos independientes, del financiamiento público al que tienen derecho;
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-V.- Llevar a cabo los trámites necesarios para que los partidos políticos nacionales o estatales con registro, así como a los candidatos independientes, puedan disponer o hacer efectivas las prerrogativas a las que tienen derecho;
+V.- Llevar a cabo los trámites necesarios para que los partidos políticos nacionales o estatales con registro, las personas candidatas a cargos de elección del Poder Judicial, así como las candidaturas independientes, puedan disponer o hacer efectivas las prerrogativas a las que tienen derecho;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -2923,13 +2995,17 @@ IV.- Un representante de cada uno de los partidos políticos con registro, así 
 
 Por cada Consejero Electoral y Secretario se designará un suplente.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 112.
 
-Para ser Consejero Electoral de Consejo Distrital se requiere:
+Para ser persona Consejera Electoral de Consejo Distrital se requiere:
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
 I.- Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
 II.- Ser originario o residente en el Distrito Electoral de que se trate, cuando menos con tres años anteriores a la fecha de su designación;
 
@@ -2937,21 +3013,35 @@ II.- Ser originario o residente en el Distrito Electoral de que se trate, cuando
 
 III.- Estar inscrito en el Registro Federal de Electores y contar con credencial para votar;
 
-IV.- Tener más de veinticinco años de edad al día de su designación;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
+
+IV.- Tener más de veintitrés años de edad al día siguiente de su designación;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
 V.- Poseer los conocimientos suficientes para el desempeño de su función;
 
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
+
 VI.- Tener buena conducta y probidad, y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
 VII.- No desempeñar o haber desempeñado cargo de dirigencia o representación nacional, estatal o municipal de algún partido político en los seis años anteriores a la fecha de su designación;
 
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
+
 VIII.- No tener ni haber tenido cargo alguno de elección popular, ni haber sido postulado como candidato en los seis años anteriores a su designación;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
 IX.- No desempeñar o haber desempeñado cargo de dirección nacional, estatal, distrital o municipal de organizaciones o asociaciones vinculadas a algún partido político, en los seis años anteriores a la fecha de su designación;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
 X.- No ser ni haber sido Procurador General de Justicia, Secretario o Subsecretario de la administración pública estatal, Agente del Ministerio Público, Secretario General, Tesorero, Contralor ni Director de Ayuntamiento o Delegado de la administración pública federal en el Estado, durante los seis años anteriores a la fecha de su designación; y
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
 XI.- No ser ni haber sido Ministro de culto religioso alguno, en términos de la legislación aplicable.
 
@@ -3099,13 +3189,17 @@ XX.- Coordinar los trabajos de los Coordinadores Electorales de Organización El
 
 XXI.- Las demás que les confiera este Código, el Consejo General y disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 120.
 
-Para ser Secretario del Consejo Distrital se requiere:
+Para ser persona Secretaria del Consejo Distrital se requiere:
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
 I.- Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
 II.- Ser originario o residente en el Distrito Electoral de que se trate cuando menos con tres años anteriores a la fecha de su designación;
 
@@ -3113,21 +3207,35 @@ II.- Ser originario o residente en el Distrito Electoral de que se trate cuando 
 
 III.- Estar inscrito en el Registro Federal de Electores y contar con credencial para votar
 
-IV.- Tener más de veinticinco años de edad al día de su designación;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
+
+IV.- Tener más de veintitrés años de edad al día de su designación;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
 V.- Haber concluido los estudios de abogado o licenciado en derecho y poseer los conocimientos suficientes para el desempeño de su función;
 
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
+
 VI.- Tener buena conducta y probidad, y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
 VII.- No desempeñar o haber desempeñado cargo de dirigencia o representación nacional, estatal o municipal de algún partido político en los seis años anteriores a la fecha de su designación;
 
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
+
 VIII.- No tener ni haber tenido cargo alguno de elección popular, ni haber sido postulado como candidato en los seis años anteriores a su designación;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
 IX.- No desempeñar o haber desempeñado cargo de dirección nacional, estatal, distrital o municipal de organizaciones o asociaciones vinculadas a algún partido político, en los seis años anteriores a la fecha de su designación;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
 X.- No ser ni haber sido Procurador General de Justicia, Secretario o Subsecretario de la administración pública estatal, Agente del Ministerio Público, Secretario General, Tesorero, Contralor ni Director de Ayuntamiento o Delegado de la administración pública federal en el Estado, durante los seis años anteriores a la fecha de su designación; y
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
 XI.- No ser ni haber sido Ministro de culto religioso alguno, en términos de la legislación aplicable.
 
@@ -3273,13 +3381,17 @@ IV.- Un representante de cada uno de los partidos políticos con registro, así 
 
 Por cada Consejero Electoral y Secretario se designará un suplente.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 129.
 
-Los Consejeros Electorales de los Consejos Municipales deberán satisfacer los siguientes requisitos:
+Las personas Consejeras Electorales de los Consejos Municipales deberán satisfacer los siguientes requisitos:
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
 I.- Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
 II.- Ser originario o residente en el Municipio de que se trate cuando menos con tres años anteriores a la fecha de su designación;
 
@@ -3287,21 +3399,35 @@ II.- Ser originario o residente en el Municipio de que se trate cuando menos con
 
 III.- Estar inscrito en el Registro Federal de Electores y contar con credencial para votar;
 
-IV.- Tener más de veinticinco años de edad al día de su designación;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
+
+IV.- Tener más de veintitrés años de edad al día de su designación;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
 V.- Poseer los conocimientos suficientes para el desempeño de su función;
 
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
+
 VI.- Tener buena conducta y probidad, y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
 VII.- No desempeñar o haber desempeñado cargo de dirigencia o representación nacional, estatal o municipal de algún partido político en los seis años anteriores a la fecha de su designación;
 
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
+
 VIII.- No tener ni haber tenido cargo alguno de elección popular, ni haber sido postulado como candidato en los seis años anteriores a su designación;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
 IX.- No desempeñar o haber desempeñado cargo de dirección nacional, estatal, distrital o municipal de organizaciones o asociaciones vinculadas a algún partido político, en los seis años anteriores a la fecha de su designación;
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
 X.- No ser ni haber sido Procurador General de Justicia, Secretario o Subsecretario de la administración pública estatal, Agente del Ministerio Público, Secretario General, Tesorero, Contralor ni Director de Ayuntamiento o Delegado de la administración pública federal en el Estado, durante los seis años anteriores a la fecha de su designación; y
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
 XI.- No ser ni haber sido Ministro de culto religioso alguno, en términos de la legislación aplicable.
 
@@ -3397,13 +3523,17 @@ X.- Recibir y turnar los recursos que se interpongan en contra de los propios ac
 
 XI.- Las demás que les confiere este Código, el Consejo General, el Consejo Distrital y disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 137.
 
-Para ser Secretario del Consejo Municipal se requiere satisfacer los siguientes requisitos:
+Para ser persona Secretaria del Consejo Municipal se requiere satisfacer los siguientes requisitos:
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
 I.- Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
 II.- Ser originario o residente en el Municipio de que se trate cuando menos con tres años anteriores a la fecha de su designación;
 
@@ -3411,15 +3541,27 @@ II.- Ser originario o residente en el Municipio de que se trate cuando menos con
 
 III.- Estar inscrito en el Registro Federal de Electores y contar con credencial para votar;
 
-IV.- Tener más de veinticinco años de edad al día de su designación;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
+
+IV.- Tener más de veintitrés años de edad al día de su designación;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
 V.- Poseer los conocimientos suficientes para el desempeño de su función;
 
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
+
 VI.- Tener buena conducta y probidad, y no haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
 VII.- No desempeñar o haber desempeñado cargo de dirigencia o representación nacional, estatal o municipal de algún partido político en los seis años anteriores a la fecha de su designación;
 
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
+
 VIII.- No tener ni haber tenido cargo alguno de elección popular, ni haber sido postulado como candidato en los seis años anteriores a su designación;
+
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
 IX.- No desempeñar o haber desempeñado cargo de dirección nacional, estatal, distrital o municipal de organizaciones o asociaciones vinculadas a algún partido político, en los seis años anteriores a la fecha de su designación;
 
@@ -3427,7 +3569,11 @@ IX.- No desempeñar o haber desempeñado cargo de dirección nacional, estatal, 
 
 X.- No ser ni haber sido Procurador General de Justicia, Secretario o Subsecretario de la administración pública estatal, Agente del Ministerio Público, Secretario General, Tesorero, Contralor ni Director de Ayuntamiento o Delegado de la administración pública federal en el Estado, durante los seis años anteriores a la fecha de su designación; y
 
+> <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2003)</small>
+
 XI.- No ser ni haber sido Ministro de culto religioso alguno, en términos de la legislación aplicable.
+
+> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2003)</small>
 
 Para ser Secretario del Consejo Municipal del Municipio de Puebla o de aquéllos instalados en las cabeceras de Distrito Electoral, deberá haber concluido los estudios de Abogado o Licenciado en Derecho.
 
@@ -3889,9 +4035,11 @@ Las autoridades federales, estatales y municipales estarán obligadas a proporci
 
 ### CAPÍTULO II. DE LAS AUSENCIAS DEFINITIVAS Y TEMPORALES DE LOS CONSEJEROS PRESIDENTES Y SECRETARIOS DE LOS ÓRGANOS DEL INSTITUTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 168.
 
-Se considerarán ausencias definitivas de los Consejeros Electorales y Secretarios, las que se suscitaren por:
+Se considerarán ausencias definitivas de las personas Consejeras Electorales y de las personas Secretarias, las que se suscitaren por:
 
 I.- La renuncia expresa al cargo;
 
@@ -3899,9 +4047,21 @@ II.- La inasistencia a más de tres sesiones acumuladas sin causa justificada;
 
 III.- Las ausencias temporales no justificadas;
 
-IV.- La incapacidad total y permanente que le impida ejercer el cargo; y
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-V.- (DEROGADA, P.O. 22 DE AGOSTO DE 2015)
+IV.- La incapacidad total y permanente que le impida ejercer el cargo;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MARZO DE 2026)</small>
+
+V.- Persona ciudadana que después de haber sido designada no sea posible localizarla;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2026)</small>
+
+VI.- No aceptación del cargo, y
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2026)</small>
+
+VII.- Fallecimiento de la persona designada.
 
 ###### ARTÍCULO 169.
 
@@ -3911,9 +4071,11 @@ Se considerarán ausencias temporales, aquéllas que por su duración no sean ma
 
 (DEROGADO, P.O. 22 DE AGOSTO DE 2015)
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 171.
 
-El Consejo General deberá designar a quien sustituya de manera definitiva la ausencia de algún Consejero Electoral o Secretario de los Consejos Distritales y Municipales.
+El Consejo General deberá emitir el procedimiento administrativo para la sustitución de las Consejerías o Secretarías de los órganos desconcentrados temporales que se ausenten de manera definitiva.
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -3921,7 +4083,9 @@ El Consejo General deberá designar a quien sustituya de manera definitiva la au
 
 En caso de ausencia temporal justificada del Consejero presidente del Consejo General, los Consejeros Electorales elegirán de entre ellos mismos a quien fungirá provisionalmente como Consejero Presidente, informando al Instituto Nacional Electoral, para los efectos conducentes.
 
-En caso de ausencia temporal justificada de los Consejeros Presidentes de los órganos distritales y municipales del Instituto, los Consejeros Electorales elegirán de entre ellos mismos a quien fungirá provisionalmente como Consejero Presidente.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
+
+En caso de ausencia temporal justificada de las personas Consejeras Presidentas o personas Secretarias de los órganos desconcentrados temporales del Instituto, las personas Consejeras Electorales elegirán de entre ellas mismas a quien fungirá provisionalmente en dichas figuras.
 
 ### CAPÍTULO III. DE LA REMOCIÓN DE CONSEJEROS PRESIDENTES, CONSEJEROS ELECTORALES Y SECRETARIOS DE LOS ÓRGANOS DEL INSTITUTO
 
@@ -7093,11 +7257,15 @@ El Secretario General de Acuerdos, los Secretarios Instructores y demás persona
 
 ### CAPÍTULO I. DE LOS MEDIOS DE IMPUGNACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JULIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 347.
 
-Constituyen medios de impugnación aquellos que se interponen por los partidos políticos o la coalición, en su caso, a través de su representante, ciudadanas o ciudadanos por su propio derecho, sin que sea admisible representación alguna, con excepción del Juicio para la Protección de los derechos político – electorales de la ciudadanía, y las y los candidatos independientes, para combatir los actos o resoluciones de los órganos electorales o aquéllos que produzcan efectos similares. Su presentación no tendrá efectos suspensivos.
+Constituyen medios de impugnación aquellos que se interponen por los partidos políticos o la coalición, en su caso, a través de su representante, ciudadanas o ciudadanos por su propio derecho, sin que sea admisible representación alguna, con excepción del Juicio para la Protección de los derechos político-electorales de la ciudadanía, las y los candidatos independientes, así como las personas candidatas a cargos de elección del Poder Judicial del Estado, en los términos previstos por este Código, para combatir los actos o resoluciones de los órganos electorales o aquéllos que produzcan efectos similares. Su presentación no tendrá efectos suspensivos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE MARZO DE 2026)</small>
+
+Tratándose de la elección de personas juzgadoras del Poder Judicial del Estado, el juicio para la protección de los derechos político-electorales de la ciudadanía procederá únicamente a instancia de la persona candidata que considere vulnerado su derecho a ser votada, en los términos de este Código.
 
 > <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2012)</small>
 
@@ -7186,6 +7354,18 @@ Tratándose de controversias relacionadas con los asuntos internos de los partid
 En el caso de que se acredite, que agotar los medios partidistas de defensa, pueda causar un perjuicio de imposible reparación en el goce de esos derechos o requieran de mayores requisitos a los establecidos en el presente ordenamiento, no será necesario agotar el principio de definitividad.
 
 Las resoluciones que recaigan a los juicios para la protección de los derechos políticos electorales del ciudadano local serán definitivas e inatacables.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 353 Ter.
+
+Durante el proceso electoral de las personas juzgadoras del Poder Judicial del Estado, serán procedentes los medios de impugnación previstos en este Título, conforme a las reglas siguientes:
+
+I. El recurso de revisión, durante la etapa de preparación de la elección, para impugnar actos u omisiones de los órganos desconcentrados del Instituto relacionados con dicho proceso;
+
+II. El recurso de apelación, para impugnar actos u omisiones del Consejo General, de la Presidencia del Consejo General o de la Secretaría Ejecutiva del Instituto, vinculados con la organización de la elección de personas juzgadoras; y
+
+III. El recurso de inconformidad, exclusivamente durante la etapa de resultados y declaración de validez, para controvertir los resultados consignados en las actas de cómputo, las determinaciones sobre el otorgamiento de constancias de mayoría y la declaración de validez de la elección de personas juzgadoras del Poder Judicial del Estado.
 
 ### CAPÍTULO II. DE LA COMPETENCIA
 
@@ -7612,6 +7792,22 @@ En tratándose de la declaratoria de inelegibilidad de candidatos propietarios a
 ###### ARTÍCULO 385.
 
 Las elecciones cuyos cómputos, constancias de validez y mayoría o de asignación no sean impugnados en tiempo y forma se considerarán válidas y definitivas.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 385 Bis.
+
+Las causales de nulidad previstas en este Código podrán dar lugar a la nulidad de:
+
+I. La votación recibida en una o varias casillas, respecto de la elección de personas juzgadoras del Poder Judicial del Estado; y
+
+II. La elección de personas juzgadoras del Poder Judicial del Estado.
+
+Sólo podrá declararse la nulidad de la votación recibida en una casilla o de la elección de personas juzgadoras del Poder Judicial del Estado, cuando las causales invocadas se encuentren expresamente previstas en este Código, hayan sido plenamente acreditadas y resulten determinantes para el resultado de la elección correspondiente.
+
+En ningún caso los partidos políticos, coaliciones o sus representantes estarán legitimados para promover medios de impugnación ni para invocar causales de nulidad respecto de la elección de personas juzgadoras del Poder Judicial del Estado.
+
+Las elecciones de personas juzgadoras del Poder Judicial del Estado cuyos cómputos, constancias de mayoría o declaraciones de validez no sean impugnados en tiempo y forma, se considerarán válidas, definitivas e inatacables.
 
 > <small>N. DE E. EL DECRETO PUBLICADO EN EL P.O. DE 22 DE AGOSTO DE 2015, REFIERE LA REUBICACIÓN DE LOS ARTÍCULOS 386 AL 393 AL CAPÍTULO I DEL SIGUIENTE TÍTULO.</small>
 
@@ -8445,6 +8641,790 @@ Cuando la Secretaría Ejecutiva admita la denuncia, emplazará a las partes, par
 
 En lo procedente, el desarrollo de la audiencia de pruebas y alegatos y su traslado al Tribunal, se desarrollarán conforme lo dispuesto en el artículo 415 de este Código.
 
+> <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2026)</small>
+
+# LIBRO SÉPTIMO. DEL PROCESO ELECTORAL DE LAS PERSONAS JUZGADORAS
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2026)</small>
+
+## TÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 417.
+
+El proceso electoral de las personas juzgadoras del Poder Judicial del Estado de Puebla es el conjunto de actos previstos en la Constitución Federal, en la Constitución local y en este Código, realizados por las autoridades electorales competentes y la ciudadanía, que tienen por objeto la elección y renovación periódica de las personas juzgadoras mediante voto universal, libre, secreto, directo e intransferible.
+
+En la organización y desarrollo del proceso electoral judicial se observarán en todo momento los principios de certeza, legalidad, independencia, imparcialidad, objetividad, máxima publicidad y paridad de género.
+
+En dicho proceso no participarán los partidos políticos, coaliciones ni organizaciones con fines partidistas, ni podrán intervenir en la postulación de candidaturas ni en la organización del proceso electoral, en los términos previstos por este Código.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 418.
+
+El proceso electoral de las personas juzgadoras del Poder Judicial del Estado de Puebla se desarrollará conforme a las disposiciones previstas en la Constitución Federal, en la Constitución local y en este Código, y comprenderá las siguientes etapas:
+
+I. Emisión de la convocatoria y postulación de candidaturas;
+
+II. Preparación de la elección;
+
+III. Campaña electoral;
+
+IV. Jornada electoral;
+
+V. Cómputos y sumatoria;
+
+VI. Asignación de cargos; y
+
+VII. Entrega de constancias de mayoría y declaración de validez de la elección.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 419.
+
+La etapa de convocatoria y postulación de candidaturas para la elección de las personas juzgadoras del Poder Judicial del Estado inicia con la publicación de la convocatoria que emita el Congreso del Estado, en los términos previstos en la Constitución local, y concluye con la remisión al Instituto del listado de candidaturas, a más tardar el doce de febrero del año de la elección que corresponda.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 420.
+
+La etapa de preparación de la elección de las personas juzgadoras del Poder Judicial del Estado inicia con la primera sesión que el Consejo General celebre en los primeros diez días del mes de noviembre del año previo a la elección, y concluye al inicio de la jornada electoral, en los términos establecidos en este Código.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 421.
+
+La etapa de campaña de la elección de las personas candidatas a cargos de elección del Poder Judicial tendrá una duración de sesenta días improrrogables y concluirá tres días antes de la jornada electoral correspondiente.
+
+En ningún caso habrá periodo de precampañas, ni podrán realizarse actos anticipados de campaña.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 422.
+
+La etapa de la jornada electoral de la elección de las personas juzgadoras del Poder Judicial del Estado inicia a las ocho horas del primer domingo de junio del año que corresponda, en términos de la Constitución Local, y concluye con la clasificación y conteo general de boletas por tipo de elección y la posterior remisión de los paquetes electorales a los Consejos Distritales Judiciales del Instituto, conforme a lo previsto en este Código.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 423.
+
+La etapa de cómputos y sumatoria de la elección de las personas juzgadoras del Poder Judicial del Estado inicia con la instalación de la sesión permanente de cómputo que deberá celebrarse a más tardar el martes siguiente a la jornada electoral, y concluye con la sumatoria de los cómputos que a nivel estatal, regional o por zona conurbada realice el Consejo General.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 424.
+
+La etapa de asignación de cargos en la elección de las personas juzgadoras del Poder Judicial del Estado inicia con la identificación, por parte del Instituto, de las candidaturas que hayan obtenido el mayor número de votos y con la asignación de los cargos correspondientes en función de su especialización por materia, alternando entre mujeres y hombres, garantizando el principio de paridad de género.
+
+Dicha etapa concluye previamente a la entrega, por parte del Consejo General, de las constancias de mayoría a las candidaturas que resulten electas.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 425.
+
+La etapa de entrega de constancias de mayoría y de declaración de validez de la elección de las personas juzgadoras del Poder Judicial del Estado inicia con la determinación que realice el Consejo General respecto de cada elección.
+
+Dicha etapa concluye cuando las determinaciones del Consejo General queden firmes, ya sea por no haberse presentado medios de impugnación, o bien, con las resoluciones que, en su caso, emita en última instancia el Tribunal.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 426.
+
+Atendiendo al principio de definitividad que rige la materia electoral, una vez concluida cualquiera de las etapas del proceso electoral de las personas juzgadoras o alguno de los actos o actividades trascendentes realizados por los órganos electorales, la Secretaría Ejecutiva del Instituto podrá ordenar la difusión, su realización y conclusión por los medios que estime pertinentes, con fines informativos y sin que dicha difusión genere efectos jurídicos ni sustituya las notificaciones previstas en este Código.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 427.
+
+El Instituto podrá informar y notificar electrónicamente a las personas candidatas a cargos de elección del Poder Judicial, para la recepción de notificaciones personales de los acuerdos y resoluciones emitidos por las autoridades electorales, de conformidad con las reglas de notificación previstas en este Código y en las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 428.
+
+Para ser persona candidata a cargos de elección del Poder Judicial, además de reunir los requisitos señalados por la Constitución Federal y la Constitución Local se deberá acreditar lo siguiente:
+
+I. Estar inscritos en el Registro Federal de Electores y contar con la credencial para votar;
+
+II. No formar parte de los órganos electorales del Instituto, en el proceso electoral en el que sean postuladas personas candidatas, salvo que se separen definitivamente un año antes del inicio de dicho proceso;
+
+III. No pertenecer al personal del Servicio Profesional Electoral Nacional, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;
+
+IV. No haber sido sancionada en sentencia firme, en términos de este Código o de la legislación penal, por las siguientes conductas y delitos:
+
+a) Violencia política contra las mujeres en razón de género o delito equivalente;
+
+b) Violencia familiar; y
+
+c) Incumplimiento de la obligación alimentaria.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2026)</small>
+
+## TÍTULO SEGUNDO. DE LA EMISIÓN DE LA CONVOCATORIA Y POSTULACIÓN DE CANDIDATURAS
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 429.
+
+El Congreso del Estado, dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, emitirá la convocatoria general dirigida a los Poderes del Estado para integrar el listado de personas candidatas a cargos de elección del Poder Judicial.
+
+La convocatoria deberá ajustarse a las bases, procedimientos y requisitos establecidos en la Constitución Local y en este Código, y señalar, al menos:
+
+I. Los fundamentos constitucionales y legales aplicables;
+
+II. Los cargos sujetos a elección, número de mujeres y hombres que cada Poder del Estado de manera paritaria podrá postular para cada tipo de cargo, materia, periodo de ejercicio del cargo, así como la Región Judicial, Distrito Judicial, Zona Conurbada o ámbito territorial respecto del cual ejercerán competencia.
+
+III. Los requisitos constitucionales y legales exigibles para cada tipo de cargo;
+
+IV. Las etapas del proceso de postulación, incluyendo la instalación de los Comités de Evaluación, los plazos para la recepción de aspirantes, la evaluación, la insaculación pública y la aprobación de postulaciones;
+
+V. Los mecanismos de coordinación entre el Congreso, los Poderes del Estado y el Instituto para la integración y remisión de los listados.
+
+VI. La fecha límite para que el Congreso remita al Instituto el listado definitivo de candidaturas, en términos de la Constitución Local; y
+
+VII. Fecha de cierre de la Convocatoria, que se verificará una vez que concluya el plazo para la instalación de los Comités de Evaluación.
+
+La convocatoria no podrá establecer requisitos adicionales a los previstos en la Constitución Local y en este Código para la elegibilidad de las personas aspirantes ni para la integración y funcionamiento de los Comités de Evaluación.
+
+En caso de que el Órgano de Administración Judicial no remita oportunamente la información que requiera el Congreso del Estado para la elaboración de la Convocatoria General, el órgano legislativo lo integrará con la información pública que disponga.
+
+El Congreso del Estado ordenará su publicación en el Periódico Oficial del Estado y en los medios electrónicos institucionales que determine, garantizando su máxima difusión.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 430.
+
+Las personas interesadas podrán participar en los procesos de evaluación y selección de candidaturas a los cargos de elección del Poder Judicial del Estado, en igualdad de condiciones, en los términos previstos en la Constitución Local y en las disposiciones aplicables.
+
+Dichos procesos se desarrollarán conforme a los principios de máxima publicidad, transparencia, inclusión, accesibilidad y paridad de género, y garantizarán la participación de quienes cumplan con los requisitos, condiciones y términos establecidos en la Constitución Local y en este Código.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 431.
+
+Los Comités publicarán, dentro de los quince días naturales posteriores a su integración, las convocatorias para participar en el proceso de evaluación y selección de candidaturas, derivadas de la Convocatoria General emitida por el Congreso del Estado, las cuales deberán contener, al menos, lo siguiente:
+
+I. La información pertinente contenida en la Convocatoria General;
+
+II. Las etapas, fechas y plazos aplicables al proceso de inscripción, evaluación y selección de candidaturas;
+
+III. Los mecanismos, formatos y medios de contacto para la inscripción, seguimiento y comunicación con las personas aspirantes;
+
+IV. La metodología de evaluación de la idoneidad de las personas aspirantes para el desempeño del cargo correspondiente, conforme a los principios y criterios previstos en la Constitución Local y en este Código, sin que puedan incorporarse requisitos o criterios adicionales; y
+
+V. Los formatos que determine el Instituto mediante los cuales las personas aspirantes proporcionarán la información que será publicada en el micrositio institucional.
+
+Concluido el plazo de inscripción, los Comités integrarán y publicarán la lista de las personas aspirantes que acrediten el cumplimiento de los requisitos constitucionales de elegibilidad, sin que puedan exigirse requisitos distintos o adicionales a los previstos en la Constitución Local y en este Código.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 432.
+
+Los Comités publicarán, en los medios electrónicos que al efecto dispongan y en versión pública, la lista de las personas aspirantes que hayan acreditado el cumplimiento de los requisitos constitucionales de elegibilidad previstos en la Constitución Local y en este Código, para efectos de continuar con la etapa de evaluación de idoneidad.
+
+Las personas aspirantes que no hubiesen sido incluidas en dicho listado podrán impugnar esa determinación ante el Tribunal, a través de los medios de impugnación previstos en este Código, dentro de los plazos y conforme a los procedimientos aplicables. Las impugnaciones deberán resolverse en un plazo que permita, en su caso, la participación de las personas aspirantes en la etapa de evaluación de idoneidad, cuando la impugnación resulte fundada.
+
+Concluido el proceso de evaluación e integración de postulaciones, el listado correspondiente y la documentación en versión pública que acredite el cumplimiento de los requisitos de elegibilidad e idoneidad se publicarán en los términos previstos en este Código y en la convocatoria respectiva, conforme a las disposiciones en materia de transparencia y protección de datos personales.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 433.
+
+Acreditado el cumplimiento de los requisitos constitucionales de elegibilidad, los Comités procederán a evaluar la idoneidad de las personas aspirantes para el desempeño del cargo correspondiente. Para tal efecto, tomarán en cuenta, al menos, el perfil curricular, la trayectoria profesional y académica, así como los antecedentes que permitan valorar su honorabilidad, buena fama pública y competencia profesional, conforme a los criterios previamente establecidos en la convocatoria y en las disposiciones aplicables.
+
+Como parte del proceso de evaluación, los Comités podrán realizar entrevistas públicas a las personas aspirantes que resulten mejor evaluadas, con el objeto de valorar sus conocimientos técnicos, aptitudes y experiencia para el ejercicio del cargo en cuestión, de conformidad con los criterios objetivos previamente definidos.
+
+La participación simultánea de una persona aspirante en dos o más procesos de evaluación convocados por distintos Poderes del Estado para el mismo cargo y en el mismo ámbito territorial de elección, ya sea estatal, regional o por zona conurbada, no afectará el resultado de su evaluación, siempre que no pretenda postularse para un cargo diverso.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 434.
+
+Los Comités de Evaluación integrarán un listado de las diez personas mejor evaluadas para cada cargo en los casos de Magistradas y Magistrados del Tribunal de Disciplina Judicial, y de las seis personas mejor evaluadas para cada cargo en los casos de Magistradas y Magistrados, Juezas y Jueces del Tribunal Superior de Justicia.
+
+Los Comités depurarán el listado mediante insaculación pública, exclusivamente para ajustarlo al número de postulaciones para cada cargo, observando el principio de paridad de género. Los resultados de la insaculación se publicarán en los medios electrónicos oficiales habilitados para tal efecto y, en su caso, en los estrados correspondientes.
+
+Las personas Candidatas a cargos de elección del Poder Judicial podrán ser postuladas simultáneamente por uno o varios Poderes siempre que aspiren al mismo cargo, ya sea a nivel estatal, por región, distrito judicial o zona conurbada.
+
+Los listados aprobados por los Poderes del Estado deberán remitirse al Congreso del Estado a más tardar el primero de febrero del año de la elección que corresponda, acompañados de los expedientes que acrediten la elegibilidad e idoneidad de las personas postuladas conforme a lo siguiente:
+
+I. El Poder Ejecutivo, por conducto de su persona titular;
+
+II. El Poder Legislativo, por conducto del Pleno de la Legislatura, mediante votación calificada de las dos terceras partes de las personas diputadas presentes; y
+
+III. El Poder Judicial, por conducto del Pleno del Tribunal Superior de Justicia, mediante votación calificada de las dos terceras partes de las personas magistradas presentes.
+
+El incumplimiento del plazo señalado tendrá carácter preclusivo, por lo que las autoridades que no remitan sus postulaciones en tiempo quedarán impedidas para hacerlo con posterioridad.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 435.
+
+El Congreso del Estado integrará los listados y expedientes de las personas postuladas por cada Poder del Estado, conforme al tipo y ámbito territorial de elección que corresponda.
+
+Asimismo, incorporará en dichos listados a las personas juzgadoras que se encuentren en funciones en los cargos sujetos a elección, salvo que presenten su declinación expresa ante el Congreso del Estado dentro de los treinta días posteriores a la publicación de la Convocatoria General.
+
+Las personas juzgadoras en funciones que pretendan contender para un cargo o ámbito territorial diverso al que ocupen deberán informarlo al Congreso del Estado dentro del mismo plazo. En ese supuesto, no serán incorporadas automáticamente en el listado correspondiente y deberán sujetarse al procedimiento de postulación previsto en la Convocatoria General y en este Código.
+
+El Congreso del Estado cancelará las candidaturas de las personas juzgadoras en funciones que omitan informar lo establecido en el párrafo anterior y sean postuladas por alguno de los Poderes del Estado.
+
+El Congreso del Estado no evaluará la idoneidad de las postulaciones remitidas por los Poderes del Estado; no obstante, verificará el cumplimiento formal de los requisitos constitucionales de elegibilidad, y en caso de advertir omisiones evidentes, lo hará del conocimiento del Poder postulante para que, en su caso, realice las adecuaciones correspondientes antes de la remisión al Instituto.
+
+Los listados integrados, junto con los expedientes completos que acrediten el cumplimiento de los requisitos de elegibilidad, los datos de contacto de las personas candidatas y la documentación correspondiente en versión pública, deberán remitirse al Instituto a más tardar el doce de febrero del año de la elección que corresponda, a efecto de que éste organice el proceso electivo.
+
+Para tal efecto, el Instituto, el Congreso del Estado y los Comités de Evaluación de los Poderes del Estado adoptarán las medidas necesarias para garantizar la transferencia y el tratamiento de datos personales, conforme a la legislación aplicable.
+
+El Consejo General emitirá el acuerdo respectivo para ordenar la publicación de los listados en el Periódico Oficial del Estado y dar continuidad a las actividades de preparación de la elección.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 436.
+
+En casos justificados, la sustitución de candidaturas se efectuará conforme a lo siguiente:
+
+I. El Poder del Estado postulante podrá realizar sustituciones ante el Congreso del Estado dentro del plazo establecido para la integración de postulaciones y antes de la remisión de los listados al Instituto, observando el procedimiento de insaculación pública sobre el listado de personas finalistas no seleccionadas para el cargo correspondiente.
+
+II. En caso de fallecimiento, incapacidad, inhabilitación o declinación de alguna persona postulada, el Poder del Estado correspondiente podrá solicitar su sustitución ante el Congreso del Estado antes del inicio formal de la producción de las boletas electorales que determine el Instituto, aplicando el mismo procedimiento de insaculación pública.
+
+Cuando la renuncia o declinación sea presentada ante el Consejo General, éste lo hará del conocimiento del Congreso del Estado dentro de las veinticuatro horas siguientes a su ratificación, a efecto de que el Poder postulante proceda, en su caso, a la sustitución. El Congreso deberá remitir al Instituto la información y documentación correspondiente dentro de las veinticuatro horas posteriores a la conclusión del procedimiento respectivo.
+
+Si la persona candidata no ratifica la renuncia presentada, ésta se tendrá por no interpuesta.
+
+Las sustituciones notificadas al Instituto de manera posterior al inicio de la producción de las boletas electorales no surtirán efectos legales, quedando vacante la postulación de la que se trate.
+
+No habrá modificación de las boletas electorales si estas ya hubiesen sido impresas.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2026)</small>
+
+## TÍTULO TERCERO. DE LA PREPARACIÓN DE LA ELECCIÓN
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 437.
+
+El Instituto es la autoridad responsable de la organización, desarrollo, supervisión, vigilancia, cómputo y asignación de cargos de la elección de personas juzgadoras. En el cumplimiento de sus atribuciones, garantizará la observancia de los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad, profesionalismo y paridad de género.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 438.
+
+Corresponde al Consejo General del Instituto:
+
+I. Realizar la preparación, organización, desarrollo, supervisión, vigilancia, cómputo, asignación de cargos, entrega de constancias de mayoría y adecuada conclusión del proceso electoral de personas juzgadoras, de conformidad con los lineamientos que emita el Instituto Nacional Electoral y las disposiciones jurídicas aplicables;
+
+II. Emitir los lineamientos, acuerdos o disposiciones de carácter general necesarios para el desarrollo del proceso electoral judicial;
+
+III. Aprobar el modelo de la boleta, documentación y materiales electorales conforme a este Código y a los lineamientos que determine el Instituto Nacional Electoral;
+
+IV. Emitir medidas de racionalidad, austeridad y disciplina presupuestal aplicables al proceso electoral judicial;
+
+V. Llevar a cabo la elección a nivel estatal, regional o por zona conurbada, conforme a lo establecido en la Constitución Local, así como en el ámbito de jurisdicción, competencia territorial y por materia que, para cada cargo determine la Ley Orgánica del Poder Judicial del Estado de Puebla o bien el Órgano de Administración Judicial;
+
+VI. Realizar la sumatoria y cómputos finales a nivel estatal y por región judicial de las elecciones para las personas juzgadoras;
+
+VII. Realizar la asignación de cargos para las personas juzgadoras conforme a lo establecido en la Constitución local;
+
+VIII. Expedir las constancias de mayoría y formular la declaración de validez correspondiente;
+
+IX. Ajustar para efectos exclusivamente electorales y conforme a las directrices del Instituto Nacional Electoral, los marcos geográficos judiciales o jurisdicciones que señale la Ley Orgánica del Poder Judicial del Estado de Puebla, cuando ello facilite el ejercicio del sufragio;
+
+X. Organizar y desarrollar foros de debate en condiciones de equidad;
+
+XI. Determinar los topes de gastos personales de campaña;
+
+XII. Coordinarse con el Instituto Nacional Electoral para garantizar el acceso igualitario a radio y televisión conforme a la distribución de tiempos que determine el Consejo General del Instituto Nacional Electoral;
+
+XIII. Supervisar que ningún partido político, persona servidora pública o ministro de culto realice actos de proselitismo;
+
+XIV. Garantizar la equidad en campañas;
+
+XV. Emitir los acuerdos necesarios para coadyuvar en la difusión equitativa de las propuestas de personas candidatas y promover la participación ciudadana en el proceso electivo;
+
+XVI. Ordenar la publicación de los listados de candidaturas remitidos por el Congreso del Estado; y
+
+XVII. En caso de delegación, ejercer funciones de fiscalización conforme a la normativa aplicable.
+
+El Consejo General del Instituto no podrá suspender o interrumpir los procesos o actividades relacionadas con la organización, desarrollo y cómputo de la elección de personas juzgadoras, salvo causa de fuerza mayor.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2026)</small>
+
+### CAPÍTULO PRIMERO. DE LA PROPAGANDA
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 439.
+
+Durante el periodo de campañas electorales, las personas candidatas a cargos de elección del Poder Judicial del Estado podrán difundir su trayectoria profesional, méritos, experiencia y visiones acerca de la función jurisdiccional y la impartición de justicia, así como propuestas de mejora institucional, en ejercicio de la libertad de expresión y dentro de los límites previstos en la Constitución Federal, la Constitución Local y este Código.
+
+En ningún caso podrán realizar promesas relacionadas con la resolución específica de asuntos jurisdiccionales, ni emitir manifestaciones que comprometan su imparcialidad o independencia.
+
+Se entiende por propaganda electoral el conjunto de escritos, publicaciones, imágenes, grabaciones, proyecciones o expresiones que difundan las personas candidatas durante el periodo de campaña con el objeto de dar a conocer a la ciudadanía su perfil y propuestas.
+
+La propaganda no podrá incluir emblemas, colores, lemas, tipografías, símbolos o cualquier elemento que genere identificación o vinculación con partidos políticos, coaliciones u organizaciones con fines partidistas.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 440.
+
+Los partidos políticos, coaliciones, organizaciones con fines partidistas, personas servidoras públicas y personas ministras de culto religioso no podrán realizar actos de proselitismo ni manifestarse públicamente a favor o en contra de candidatura alguna en el proceso de elección de personas juzgadoras.
+
+Queda prohibido el uso de recursos públicos, en cualquiera de sus modalidades, con fines de promoción o propaganda relacionados con la elección de personas juzgadoras, en términos de lo dispuesto por la Constitución Federal, la Constitución Local y este Código.
+
+Las personas servidoras públicas y las personas juzgadoras en funciones que participen como personas candidatas a cargos de elección del Poder Judicial deberán observar en todo momento los principios de imparcialidad, objetividad y profesionalismo, y se abstendrán de utilizar recursos humanos, materiales o financieros a su cargo, así como información privilegiada o infraestructura institucional, con fines electorales.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 441.
+
+Queda estrictamente prohibida la entrega de cualquier tipo de material en el que se oferte o entregue algún beneficio directo, indirecto, mediato o inmediato, en especie o efectivo, a través de cualquier sistema que implique la entrega de un bien o servicio, ya sea por sí o interpósita persona. Dichas conductas serán sancionadas de conformidad con este Código y se podrá constituir como indicio de presión al electorado para obtener su voto.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 442.
+
+La propaganda electoral impresa, deberá ser reciclable, fabricada con materiales biodegradables que no contengan sustancias tóxicas o nocivas para la salud o el medio ambiente, atendiendo el periodo legal de las campañas y deberá suspenderse o retirarse tres días antes de la jornada electoral.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 443.
+
+Queda prohibida la contratación, por sí o por interpósita persona, de tiempos en radio y televisión para fines de promoción de las personas candidatas, en términos de la Constitución Federal y la normativa aplicable.
+
+Asimismo, se prohíbe la adquisición de espacios publicitarios en medios de comunicación cuando implique erogación de recursos públicos o privados para posicionamiento pagado.
+
+Las personas candidatas podrán utilizar redes sociales y medios digitales para difundir su perfil y propuestas, siempre que no contraten publicidad para amplificar o segmentar sus contenidos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2026)</small>
+
+### CAPÍTULO SEGUNDO. ENCUESTAS Y SONDEOS DE OPINIÓN
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 444.
+
+El Instituto, en el ámbito de su competencia, vigilará el cumplimiento de las disposiciones en materia de encuestas o sondeos de opinión sobre preferencias electorales en la elección de personas juzgadoras, de conformidad con la Constitución Federal, este Código y los lineamientos que emita el Instituto Nacional Electoral.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 445.
+
+Durante los tres días previos a la jornada electoral y hasta el cierre oficial de las casillas, queda prohibido publicar, difundir o dar a conocer por cualquier medio los resultados de encuestas o sondeos de opinión que tengan por objeto dar a conocer preferencias electorales.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 446.
+
+Las personas físicas o morales que difundan encuestas o sondeos de opinión deberán presentar al Instituto la información metodológica y el informe sobre los recursos aplicados en su realización, conforme a los lineamientos que emita el Instituto Nacional Electoral.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 447.
+
+Queda prohibida la contratación, por parte de las personas candidatas, por sí o por interpósita persona, de personas físicas o morales para la realización o difusión de encuestas o sondeos de opinión con fines de posicionamiento electoral.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 448.
+
+La información metodológica, las personas responsables y los resultados de las encuestas o sondeos que sean remitidos al Instituto conforme a la normativa aplicable serán publicados en el portal institucional, en términos de los principios de máxima publicidad y transparencia.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE MARZO DE 2026)</small>
+
+### CAPÍTULO TERCERO. DEL ACCESO A LOS TIEMPOS EN RADIO Y TELEVISIÓN
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 449.
+
+Las candidaturas a personas juzgadoras tendrán acceso a radio y televisión conforme al modelo de comunicación política previsto en la Constitución Federal y la legislación general aplicable.
+
+El Instituto, en coordinación con el Instituto Nacional Electoral, garantizará el ejercicio de este derecho dentro del tiempo del Estado administrado por dicho órgano nacional, conforme a la distribución y pautado que determine el Consejo General del Instituto Nacional Electoral.
+
+Queda prohibida la contratación, por sí o por interpósita persona, de tiempos en radio y televisión para promover o influir en las preferencias electorales respecto de alguna candidatura.
+
+Los partidos políticos, personas servidoras públicas y cualquier persona física o moral distinta de las candidaturas no podrán realizar actos de proselitismo ni posicionamientos a favor o en contra de candidatura alguna en este proceso electoral.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2026)</small>
+
+### CAPÍTULO CUARTO. DE LA ELECCIÓN POR ESTADO, REGIÓN, ZONA CONURBADA
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 450.
+
+En términos de lo dispuesto por la Constitución Local, la elección de personas juzgadoras en el Estado se llevará a cabo a nivel Estatal, Regional y por Zona Conurbada de conformidad con la jurisdicción y competencia por territorio y materia que ejerzan.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 451.
+
+En el mes de junio del año previo al de la elección, el Órgano de Administración Judicial remitirá al Instituto la delimitación territorial correspondiente al ámbito estatal, regional o de zona conurbada, según el tipo de elección, indicando los municipios comprendidos, así como el número, jurisdicción y competencia por materia y territorio de los Tribunales o Juzgados que tengan residencia en cada región, distrito judicial o zona conurbada.
+
+En caso de que el Órgano de Administración Judicial no remita dicha información, el Instituto podrá solicitar o, en su caso, determinará lo conducente con la información pública que disponga, informando de ello a la Legislatura, para los trámites correspondientes.
+
+La Junta Ejecutiva del Instituto, con base en la información remitida por el órgano de administración judicial, elaborará un plan de coordinación en materia de organización electoral, el cual indicará lo siguiente:
+
+I. El número de Consejos Distritales Judiciales que deberán ser instalados en cada cabecera distrital establecida en la Ley Orgánica del Poder Judicial del Estado de Puebla;
+
+II. La fecha de instalación, así como el periodo en el que estarán en funcionamiento los Consejos Distritales Judiciales;
+
+III. El número de Consejerías que integrarán cada Consejo Distrital Judicial; y
+
+IV. El número de personal administrativo temporal que estará adscrito a cada Consejo Distrital Judicial y sus categorías o tabuladores salariales.
+
+Dicho plan de coordinación estudiará la viabilidad y necesidad de instalar Consejos Municipales Judiciales distintos a los instalados para la elección constitucional de los Ayuntamientos, tomando en consideración en todo momento las medidas de racionalidad emitidas por el Consejo General, la disponibilidad presupuestaria, así como la viabilidad técnica y operativa, observando que se evite la duplicidad de funciones.
+
+El Consejo General del Instituto aprobará el plan de coordinación y llevará a cabo la instalación de los Consejos distritales y municipales judiciales estrictamente indispensables para la realización de la elección de las personas juzgadoras del Poder Judicial del Estado de Puebla.
+
+Para la designación de las personas integrantes de los Consejos distritales o municipales judiciales se aplicarán las reglas previstas en los artículos 112, 113, 114, 115, 116, 117, 129, 130, 131, 132 y 133 del presente Código
+
+Con base en lo anterior el Consejo General remitirá al Instituto Nacional Electoral el plan de coordinación con la finalidad de que se considere de manera previa a la aprobación del marco geográfico electoral para la elección de las personas juzgadoras del Poder Judicial.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE MARZO DE 2026)</small>
+
+### CAPÍTULO QUINTO. DE LOS ÓRGANOS PARA LA ELECCIÓN DE PERSONAS JUZGADORAS
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 452.
+
+El Instituto instalará los Consejos Distritales Judiciales a los que hace referencia este Código, mismos que coadyuvarán con el Instituto en la elección de personas magistradas y juezas en el Estado, teniendo las atribuciones siguientes:
+
+I. Vigilar la observancia de este Código y demás disposiciones relativas;
+
+II. Cumplir y hacer cumplir los acuerdos y disposiciones del Consejo General;
+
+III. Realizar las acciones necesarias para coadyuvar en la organización de la elección de personas juzgadoras del Poder Judicial
+
+IV. Coadyuvar en la difusión del listado de ubicación de casillas en los lugares de mayor afluencia del Distrito;
+
+V. Realizar el cómputo de las elecciones de personas juzgadoras del Poder Judicial correspondiente a su demarcación territorial;
+
+VI. Remitir el acta de cómputo final de cada una de las elecciones de personas juzgadoras del Poder Judicial al Consejo General;
+
+VII. Integrar y remitir los expedientes de las elecciones de personas juzgadoras del Poder Judicial;
+
+VIII. Coadyuvar en el trámite de los medios de impugnación que sean presentados en términos del Código;
+
+IX. Informar al Consejo General por conducto de la Dirección de Organización Electoral sobre el desarrollo de sus funciones;
+
+X. Coadyuvar con el Consejo, en su caso, en la organización de los foros de debate entre las candidaturas para los cargos de Personas Magistradas y Personas Juzgadoras;
+
+XI. Apoyar al Consejo General en las funciones de educación cívica y promoción del voto;
+
+XII. Coadyuvar con la estructura desconcentrada del Instituto Nacional Electoral en materia de ubicación de casillas, observadores electorales, capacitación electoral y demás aplicables para la organización de las elecciones de Personas Magistradas y Personas Juzgadoras del Poder Judicial del Estado de Puebla; y
+
+XIII. Las demás que le confiera este Código, el Consejo General y demás normativa de la materia.
+
+Cada Consejo Distrital Judicial designará mediante minuta de trabajo y por mayoría de votos a la Consejería que ocupará la presidencia del Consejo misma que tendrá las siguientes atribuciones:
+
+I. Convocar, presidir y conducir las sesiones del Consejo Distrital Judicial;
+
+II. Someter a la aprobación del Consejo Distrital Judicial los asuntos de su competencia;
+
+III. Supervisar el cumplimiento de los acuerdos emitidos por el Consejo Distrital Judicial y el Consejo General;
+
+IV. Remitir al Consejo General copias de las actas circunstanciadas de las sesiones celebradas por el Consejo Distrital Judicial;
+
+V. Informar a la Presidencia del Consejo General, por conducto de la Secretaría Ejecutiva, del desarrollo de las elecciones, en el ámbito de su competencia;
+
+VI. Dar a conocer mediante cartel colocado en el exterior del local del Consejo Distrital Judicial respectivo, los resultados del cómputo distrital de la elección de las personas juzgadoras del Poder Judicial del Estado de Puebla;
+
+VII. Coordinar los trabajos del personal eventual adscrito al Consejo Distrital Judicial; y
+
+VIII. Las demás que le sean conferidas por el Consejo Distrital Judicial, por su Presidencia, por el Consejo General y demás disposiciones aplicables.
+
+Cada Consejo Distrital Judicial contará con una Secretaría misma que tendrá las siguientes atribuciones:
+
+I. Auxiliar a la Presidencia del Consejo Distrital Judicial en el cumplimiento de sus atribuciones;
+
+II. Preparar el orden del día de las sesiones, declarar la existencia del quórum legal, dar fe de lo actuado en las sesiones, levantar el acta circunstanciada correspondiente y someterla a la aprobación del Consejo Distrital Judicial;
+
+III. Dar fe de las actuaciones del Consejo Distrital Judicial;
+
+IV. Formular y dar cuenta de los proyectos de acuerdo que competan al Consejo Distrital Judicial;
+
+V. Substanciar los recursos que se interpongan en contra de los actos o resoluciones del Consejo Distrital, dictar los acuerdos relativos, fijar las cédulas de notificación en estrados e integrar los expedientes respectivos;
+
+VI. Expedir las certificaciones que le soliciten y ejercer la función de oficialía electoral en los términos de la normatividad aplicable, previa delegación;
+
+VII. Administrar los recursos humanos, materiales, de servicios y financieros del Consejo Distrital Judicial, de conformidad con la normatividad que para tal efecto expida la Secretaría Ejecutiva o la Junta Ejecutiva;
+
+VIII. Firmar junto con la Presidencia del Consejo Distrital Judicial los acuerdos y actas que se generen;
+
+IX. Tener a su cargo el archivo del Consejo Distrital; y
+
+X. Las demás que le sean conferidas por el Consejo Distrital Judicial, por su Presidencia, por el Consejo General y demás disposiciones aplicables.
+
+Las reglas previstas en el Título Cuarto del Libro Cuarto del presente Código serán aplicables a los Consejos Distritales o Municipales Judiciales en todo aquello que no se contraponga en lo establecido en el presente Libro.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE MARZO DE 2026)</small>
+
+### CAPÍTULO SEXTO. DE LAS MESAS DIRECTIVAS DE CASILLA
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 453.
+
+La integración, ubicación y designación de las personas integrantes de las mesas directivas de casilla para la recepción de la votación en la elección de personas juzgadoras, así como su capacitación, se realizará conforme a lo dispuesto en la Constitución Federal, la Ley General de Instituciones y Procedimientos Electorales, los acuerdos que emita el Consejo General del Instituto Nacional Electoral y este Código.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2026)</small>
+
+### CAPÍTULO SÉPTIMO. DE LAS BOLETAS Y MATERIALES ELECTORALES
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 454.
+
+Para la emisión del voto el Consejo General, tomando en cuenta las medidas de certeza que estime pertinentes, determinará el modelo y diseños de las boletas electorales tomando en consideración los niveles de elección previstos en la Constitución Local, asimismo determinará el diseño de la demás documentación electoral del proceso de elección de las personas integrantes del Poder Judicial del Estado de Puebla y los materiales que serán utilizados en ésta, conforme a las disposiciones o lineamientos que emita el Instituto Nacional Electoral.
+
+El Instituto será responsable de la producción y distribución de la documentación y materiales electorales que se emplearán en el proceso de elección. La entrega de las boletas electorales a los órganos desconcentrados temporales respectivos se realizará a más tardar diez días antes de la Jornada Electoral.
+
+No habrá modificación a las boletas en caso de sustitución de una o más candidaturas si éstas ya estuvieran impresas.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 455.
+
+Por cada tipo de elección se empleará uno o varios diseños de boleta que contendrán la siguiente información general:
+
+I. Entidad Federativa;
+
+II. Región Judicial;
+
+III. Distrito Judicial o Zona Conurbada y Municipio;
+
+IV. Cargo, para el que se postula la persona candidata;
+
+V. Especialidad por materia a la que se postula cada persona candidata;
+
+VI. Primer apellido, segundo apellido y nombre completo de las personas candidatas, numerados de manera progresiva y distribuidos por orden alfabético y progresivo;
+
+VII. Distinción de la autoridad postulante y las candidaturas de las personas juzgadoras que estén en funciones en los cargos a renovar, y
+
+VIII. Firmas impresas de las personas titulares de la Presidencia del Consejo General y de la Secretaría Ejecutiva del Instituto.
+
+Las boletas estarán adheridas a un talón con folio, del cual serán desprendibles. La información que contenga el talón corresponderá a la entidad federativa, región y distrito judicial, así como municipio, aunado a ello el número de folio será progresivo.
+
+Las boletas correspondientes a los cargos que se elijan a nivel estatal, no contendrán los datos identificados en la fracción III y el talón respectivo solo contendrá la entidad federativa, región judicial y folio progresivo.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE MARZO DE 2026)</small>
+
+### CAPÍTULO OCTAVO. DE LA OBSERVACIÓN ELECTORAL
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 456.
+
+La ciudadanía podrá participar como persona observadora electoral en la elección de personas juzgadoras, conforme a lo dispuesto en la Constitución Federal, la Ley General de Instituciones y Procedimientos Electorales y los acuerdos que emita el Instituto Nacional Electoral.
+
+La acreditación de las personas observadoras corresponderá exclusivamente al Instituto Nacional Electoral. Las personas observadoras deberán conducirse conforme a los principios de imparcialidad, objetividad, certeza y legalidad, y en ningún caso podrán sustituir u obstaculizar a las autoridades electorales en el ejercicio de sus funciones.
+
+No podrán ser acreditadas como personas observadoras quienes tengan vínculo partidista vigente o desempeñen cargo directivo en partido político alguno, en términos de la normativa aplicable.
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2026)</small>
+
+## TÍTULO CUARTO. DE LA CAMPAÑA ELECTORAL
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 457.
+
+La campaña electoral es el conjunto de actividades realizadas por las personas candidatas a cargos de elección del Poder Judicial del Estado con la finalidad de solicitar el voto de la ciudadanía y tendrá una duración de sesenta días improrrogables, conforme a lo previsto en la Constitución Local. En ningún caso habrá periodo de precampañas.
+
+Se entenderán por actos de campaña aquellas actividades dirigidas al electorado para promover una candidatura, sujetas a las reglas de propaganda y a los límites establecidos en la Constitución Federal, la Constitución Local y este Código.
+
+Las personas candidatas podrán participar en entrevistas de carácter noticioso y en foros organizados por el Instituto o por los sectores público, privado o social, en condiciones de equidad. Para lo anterior, en ningún caso podrán realizarse erogaciones de ningún tipo.
+
+Las personas candidatas que sean servidoras públicas podrán continuar en el ejercicio de su cargo durante el periodo de campaña, siempre que no utilicen recursos públicos, infraestructura institucional o personal a su cargo con fines electorales y observen estrictamente los principios de imparcialidad y equidad en la contienda.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 458.
+
+Las personas candidatas únicamente podrán erogar recursos propios para cubrir gastos personales, viáticos y traslados dentro del ámbito territorial correspondiente durante el periodo de campaña.
+
+El Consejo General determinará los topes de gastos personales aplicables a cada candidatura, en función del tipo de elección, los cuales no podrán exceder el límite máximo de aportaciones individuales previsto para candidaturas independientes en la última elección local de diputaciones.
+
+Queda prohibido a las personas candidatas recibir financiamiento público o privado, aportaciones de terceros o cualquier tipo de apoyo económico para promover su candidatura.
+
+En caso de delegación por parte del Instituto Nacional Electoral, el Instituto ejercerá funciones de fiscalización a través de la unidad administrativa competente.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE MARZO DE 2026)</small>
+
+### CAPÍTULO PRIMERO. DE LAS ACTIVIDADES DEL INSTITUTO PARA LA PROMOCIÓN DE LA PARTICIPACIÓN CIUDADANA
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 459.
+
+El Consejo General aprobará la metodología para la difusión institucional y promoción de la participación ciudadana en el proceso de elección de personas juzgadoras, privilegiando el uso de tecnologías de la información y observando los principios de austeridad, eficacia, imparcialidad y objetividad.
+
+Dicha metodología tendrá fines exclusivamente informativos y no constituirá propaganda electoral.
+
+El Instituto implementará un micrositio institucional en su página oficial de Internet para informar a la ciudadanía sobre el proceso electivo y difundir la información pública de las personas candidatas.
+
+El micrositio tendrá por objeto proporcionar información clara y accesible sobre:
+
+I. El proceso electoral judicial;
+
+II. El perfil curricular de cada candidatura;
+
+III. La trayectoria académica y profesional;
+
+IV. Las visiones y propuestas relacionadas con la función jurisdiccional; y
+
+V. La fotografía y los medios de contacto público que cada candidatura autorice expresamente para su difusión.
+
+La información será proporcionada directamente por las personas candidatas y será publicada previa verificación de cumplimiento formal por parte del Instituto, sin que ello implique validación de su contenido sustantivo.
+
+La publicación se realizará conforme a la normativa en materia de transparencia y protección de datos personales.
+
+La información deberá estar disponible a más tardar al inicio del periodo de campañas y hasta la conclusión de la jornada electoral.
+
+Para la promoción de la participación ciudadana, el Instituto privilegiará medios electrónicos institucionales y, en su caso, otros medios informativos conforme a criterios de racionalidad presupuestal.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE MARZO DE 2026)</small>
+
+### CAPÍTULO SEGUNDO. DE LA FISCALIZACIÓN
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 460.
+
+La fiscalización de los ingresos y egresos, así como la revisión de los informes que presenten las personas candidatas respecto del origen y destino de los recursos utilizados para sus gastos personales de campaña, estará a cargo de la Unidad Técnica de Fiscalización del Instituto Nacional Electoral, en términos de la Constitución Federal, la Ley General de Instituciones y Procedimientos Electorales y demás disposiciones aplicables.
+
+En caso de que el Instituto Nacional Electoral delegue formalmente esta facultad, conforme a la normativa aplicable, corresponderá a la unidad administrativa competente del Instituto ejercer las funciones de fiscalización en el ámbito local.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2026)</small>
+
+## TÍTULO QUINTO. DE LA JORNADA ELECTORAL
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 461.
+
+La jornada electoral se desarrollará en los términos establecidos dentro de este Código, debiéndose llenar al efecto la documentación que apruebe el Consejo General por parte de las personas funcionarias de las mesas directivas de casilla.
+
+Las representaciones partidistas no podrán participar en las acciones y actividades relacionadas con los procesos para renovar cargos del Poder Judicial.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 462.
+
+Para la elección de personas juzgadoras, se utilizará el Listado Nominal de Electores que determine y otorgue el Instituto Nacional Electoral, en términos de las disposiciones jurídicas aplicables y los respectivos convenios de colaboración.
+
+Al término de la jornada electoral en el local donde se ubique la casilla, únicamente se realizará lo conducente hasta la clasificación de boletas por tipo de elección.
+
+Se levantará el acta de casilla respectiva que deberán firmar únicamente las personas funcionarias que actuaron en la casilla. El expediente de casilla no contendrá escritos de protesta, a menos que una persona candidata decida realizarlo en la casilla en la que emita su voto.
+
+La constancia de la clausura de la casilla únicamente será firmada por el funcionariado de mesa directiva de casilla.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2026)</small>
+
+## TÍTULO SEXTO. DE LOS CÓMPUTOS Y SUMATORIA
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 463.
+
+Los Consejos Distritales Judiciales realizarán el cómputo de votos y realizarán la emisión de las actas que contengan las votaciones de las elecciones de personas juzgadoras del Poder Judicial; para ello se instalarán en sesión permanente, misma que iniciará a más tardar el martes siguiente al día de la jornada electoral y concluirá hasta que se reciba y compute el último paquete.
+
+El Consejo General emitirá los lineamientos que regulen esta etapa.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 464.
+
+Para determinar la validez o nulidad de los votos, se observarán las reglas siguientes:
+
+I. Se contará un voto válido por la marca o asiento que realice la persona votante en un recuadro de una misma boleta en favor de una candidatura claramente identificable, con independencia de que puedan emitirse dos o más votos por diversas candidaturas contenidas en una misma boleta;
+
+II. El Instituto determinará la cantidad de votos válidos que pueda emitir cada persona votante en una misma boleta, en función del tipo de elección y el número de candidaturas a elegir; y
+
+III. Se contará como nulo cualquier voto depositado en la urna sin haber marcado o asentado alguna opción, o se realice de tal forma que no permita identificar el sentido de un voto.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### Artículo 465.
+
+Concluidos los cómputos de cada elección, los Consejos Distritales Judiciales, emitirán un acta de cómputo final de resultados, misma que contendrá los votos obtenidos por cada candidatura.
+
+Deberán publicar el cartel con los resultados en el exterior del inmueble sede y remitirán al Consejo General por la vía más expedita las actas de cómputo final para que proceda a realizar la sumatoria por tipo y nivel de elección ya sea Estatal, Regional o Zona Conurbada.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE MARZO DE 2026)</small>
+
+## TÍTULO SÉPTIMO. DE LA ASIGNACIÓN DE CARGOS
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 466.
+
+Una vez que el Consejo General realice la sumatoria final, procederá a asignar los cargos por materia entre las candidaturas que hayan obtenido el mayor número de votos, observando la paridad de género para lo cual se utilizarán listados diferenciados por género y publicará los resultados de la elección.
+
+Hecho lo anterior ordenará la publicación de los listados que contengan los resultados de las asignaciones por la vía que considere más expedita, priorizando la utilización de medios electrónicos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2026)</small>
+
+## TÍTULO OCTAVO. DE LA ENTREGA DE CONSTANCIAS DE MAYORÍA Y DECLARACIÓN DE VALIDEZ DE LA ELECCIÓN
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 467.
+
+El Instituto hará entrega de las constancias de mayoría a las candidaturas que resulten electas y emitirá la declaración de validez correspondiente.
+
+Emitida la declaración de validez, el Instituto comunicará los resultados al Tribunal Electoral y al Poder Judicial del Estado de Puebla.
+
+El resguardo de los paquetes electorales se realizará conforme a lo dispuesto en este Código.
+
+Para el caso de la elección del Tribunal de Disciplina Judicial el Consejo General deberá determinar la asignación de la presidencia de dicho Tribunal la persona candidata que haya obtenido en mayor número de votos en el Estado.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 468.
+
+El Tribunal resolverá las impugnaciones que se hayan presentado contra las constancias de mayoría y declaración de validez, tres días antes de que el Congreso del Estado instale el primer periodo ordinario de sesiones del año de la elección que corresponda.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 469.
+
+Las personas juzgadoras electas deberán tomar protesta ante la Legislatura dentro de los cinco días hábiles siguientes en que se instale el primer periodo ordinario de sesiones del año de la elección que corresponda.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 470.
+
+Son infracciones de las personas candidatas a cargos de elección del Poder Judicial:
+
+I. Incumplir las obligaciones previstas en la Constitución Local y este Código;
+
+II. Desacatar resoluciones o acuerdos del Instituto;
+
+III. Realizar actos anticipados de campaña;
+
+IV. Difundir propaganda que constituya calumnia o vulnere la normativa aplicable;
+
+V. Omitir proporcionar información requerida por la autoridad electoral;
+
+VI. Incurrir en violencia política contra las mujeres en razón de género; y
+
+VII. Las demás previstas en este Código.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 471.
+
+Las infracciones serán sancionadas con:
+
+I. Amonestación pública;
+
+II. Multa de mil a cinco mil veces la Unidad de Medida y Actualización vigente; y
+
+III. Cancelación del registro de la candidatura, en los casos graves previstos por este Código.
+
 ## ARTICULOS TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -8812,3 +9792,17 @@ P.O. 11 DE ABRIL DE 2025.
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor una vez que entren en vigor las disposiciones constitucionales en materia de la diputación migrante, en términos del artículo transitorio vigésimo sexto del Decreto del Congreso del Estado por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Puebla, en materia judicial, entre otros.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE INSTITUCIONES Y PROCESOS ELECTORALES DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Congreso del Estado y el Instituto Estatal Electoral atenderán lo dispuesto en la Ley General de Instituciones y Procedimientos Electorales, y en este Código, y acatarán, en lo que corresponda, las resoluciones emitidas por el Consejo General del Instituto Nacional Electoral en lo que sea aplicable al proceso electoral local, respecto a la renovación del Poder Judicial del Estado.
+
+TERCERO. Las disposiciones aplicables del presente Decreto para el Órgano de Administración Judicial del Poder Judicial del Estado corresponderán al Consejo de la Judicatura del Estado, hasta su extinción, en los términos que marca el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Puebla de fecha quince de marzo de dos mil veinticinco.
+
+CUARTO. Las personas servidoras públicas en funciones en alguno de los cargos que sean materia del Proceso Electoral de personas juzgadoras del Poder Judicial del Estado, que pretendan una postulación para un cargo de diferente materia o adscripción regional o distrital, deberán informarlo al Congreso del Estado, dentro del plazo previsto en este Código.
+
+QUINTO. Los poderes del Estado y el Instituto Electoral del Estado deberán considerar las asignaciones presupuestarias necesarias para la correcta implementación del presente Decreto.
