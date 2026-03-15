@@ -4,7 +4,7 @@ identifier: "PUE-ley-reglamentaria-de-los-medios-de-defensa-de-la-165220"
 country: "mx"
 rank: "ley"
 publication_date: "2023-03-23"
-last_updated: "2024-03-25"
+last_updated: "2026-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165220&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "PUE"
 
 LEY REGLAMENTARIA DE LOS MEDIOS DE DEFENSA DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2024.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 25 DE MARZO DE 2024.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2026.
 
 Ley publicada en la Tercera Sección al Número 16 del Periódico Oficial del Estado de Puebla, el jueves 23 de marzo de 2023.
 
@@ -57,17 +55,17 @@ Las disposiciones de esta Ley son de orden público y aplicación general en el 
 
 El objeto de esta Ley es regular los procedimientos contemplados en el artículo 87 de la Constitución Política del Estado Libre y Soberano de Puebla.
 
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 2.
 
-Los Medios de Defensa de la Constitución y Recursos de Legalidad Ordinaria regulados en esta Ley se tramitarán exclusivamente ante la Sala Especializada en Materia Constitucional del Tribunal Superior de Justicia.
+Los Medios de Defensa de la Constitución regulados en esta Ley se tramitarán exclusivamente ante la Sala Especializada en Materia Constitucional del Tribunal Superior de Justicia.
 
 ###### ARTÍCULO 3.
 
 Para los efectos de la presente Ley, se entenderá por:
 
-I. Consejo: El Consejo de la Judicatura del Poder Judicial del Estado de Puebla;
+I. (DEROGADA, P.O. 15 DE MARZO DE 2026)
 
 II. Constitución del Estado: La Constitución Política del Estado Libre y Soberano de Puebla;
 
@@ -87,6 +85,10 @@ V. Ley: La Ley Reglamentaria de los Medios de Defensa de la Constitución Polít
 
 VI. Medios de Defensa de la Constitución: Las Acciones de Inconstitucionalidad, las Controversias Competenciales, la Acción de Tutela y la Acción en contra de la Omisión Legislativa;
 
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2026)</small>
+
+VI Bis. Órgano de Administración Judicial: El Órgano de Administración Judicial del Poder Judicial del Estado;
+
 > <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2013)</small>
 
 VII. Pleno: Pleno de la Sala Especializada en Materia Constitucional del Tribunal Superior de Justicia; y
@@ -103,11 +105,11 @@ A falta de disposición expresa se aplicará en forma supletoria el ordenamiento
 
 ### CAPÍTULO II. PRINCIPIOS Y NATURALEZA JURÍDICA
 
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 5.
 
-La Sala Especializada es de carácter permanente, con autonomía de jurisdicción para dar resolución a los asuntos de su competencia e integrante del Tribunal Superior de Justicia del Poder Judicial del Estado. Le corresponde la interpretación, control, custodia y garantía de la Constitución del Estado.
+La Sala Especializada es de carácter permanente, con autonomía de jurisdicción para dar resolución a los asuntos de su competencia e integrante del Tribunal Superior de Justicia del Poder Judicial del Estado. Será garante y custodia de la Constitución Política del Estado Libre y Soberano de Puebla.
 
 > <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
 
@@ -153,17 +155,15 @@ IV. De la acción de tutela por violaciones a los derechos humanos reconocidos e
 
 V. De las acciones que los sujetos legitimados en la fracción I del artículo 87 de la Constitución del Estado promuevan en contra de las omisiones legislativas atribuibles al Congreso del Estado, cuando medie mandato expreso en norma de carácter general;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
+VI. (DEROGADA, P.O. 15 DE MARZO DE 2026)
 
-VI. Del Recurso de Revocación que se promueva conforme a las reglas de legitimación y procedencia que prevé esta Ley, en contra de los acuerdos generales que emita el Consejo;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
+VII. Los asuntos que en jurisdicción ordinaria le asigne el Órgano de Administración Judicial, mediante acuerdos generales, y
 
-VII. Del Recurso de Revisión en el que se controvierta la adscripción o remoción de las Juezas y los Jueces; y
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2024)</small>
-
-VIII. De la consulta sobre interpretación de la Ley Orgánica del Poder Judicial del Estado de Puebla que realicen los Plenos del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa o del Consejo de la Judicatura.
+VIII. Las señaladas en la demás legislación y normatividad aplicable.
 
 > <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
 
@@ -171,13 +171,17 @@ VIII. De la consulta sobre interpretación de la Ley Orgánica del Poder Judicia
 
 La organización y el funcionamiento de la Sala Especializada se regirán por la Ley Orgánica del Poder Judicial del Estado de Puebla, en lo que no se oponga a la presente Ley.
 
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 10.
 
-La Sala Especializada contará con un sistema de jurisprudencia por precedentes, el cual consiste en que las razones que justifiquen las decisiones contenidas en las sentencias emitidas en los procedimientos previstos por esta Ley, serán obligatorias para todas las autoridades jurisdiccionales del Estado de Puebla.
+La Sala Especializada contará con un sistema de jurisprudencia por precedentes, el cual consiste en que las razones que justifiquen las decisiones contenidas en las sentencias emitidas en los procedimientos previstos por esta Ley, serán obligatorias para las Salas del Tribunal Superior de Justicia y Juzgados de Primera Instancia.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
 
 Se formará precedente cuando las sentencias sean aprobadas por unanimidad.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
 
 La Sala Especializada deberá enviar al Tribunal Superior de Justicia, los precedentes que en materia constitucional emita para su sistematización y publicación de manera digital para su consulta pública.
 
@@ -195,27 +199,37 @@ Las notificaciones se harán privilegiando los medios electrónicos por sobre la
 
 En los casos que no se haya señalado domicilio o medio electrónico alguno, se notificará por lista en los estrados de la Sala Especializada.
 
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 12.
 
-Las notificaciones se realizarán en forma electrónica a través del Sistema Institucional del Poder Judicial del Estado, de conformidad con lo que establezcan los acuerdos del Consejo, excepto:
+Las notificaciones se realizarán en forma electrónica a través del Sistema Institucional del Poder Judicial del Estado, de conformidad con lo que establezcan los acuerdos del Órgano de Administración Judicial, excepto:
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
 
 I. La primera notificación a la o el tercero interesado, que se realizará de acuerdo a los lineamientos establecidos en el artículo 13 de esta Ley;
 
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
+
 II. La primera notificación a la autoridad responsable, a quien se notificará por medio de oficio, de acuerdo a los lineamientos establecidos en el artículo 14 de esta Ley; y
+
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
 
 III. Si a juicio de la Magistrada o el Magistrado Ponente existen condiciones particulares que ameriten una diferente forma de notificación, así lo ordenará a la persona funcionaria judicial autorizada.
 
-Cuando las notificaciones a que se refieren las fracciones anteriores se realicen por exhorto o despacho, se requerirá que se señale el correo o medio electrónico que servirá de enlace con el Sistema Electrónico Institucional, de conformidad con los acuerdos que apruebe el Consejo, con el apercibimiento de que, de no hacerlo, las siguientes notificaciones, aún las personales, se practicarán por lista.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+Cuando las notificaciones a que se refieren las fracciones anteriores se realicen por exhorto o despacho, se requerirá que se señale el correo o medio electrónico que servirá de enlace con el Sistema Electrónico Institucional, de conformidad con los acuerdos que apruebe el Órgano de Administración Judicial, con el apercibimiento de que, de no hacerlo, las siguientes notificaciones, aún las personales, se practicarán por lista.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 13.
 
-La primera notificación a la o el tercero interesado se hará conforme a las reglas que para el emplazamiento establezca el ordenamiento supletorio de esta Ley.
+Para la primera notificación, cuando el accionante desconozca el domicilio donde ha de hacerse el emplazamiento, la Magistrada o el Magistrado Ponente dictará las medidas que estime pertinentes para conocerlo, pudiendo requerir a la autoridad responsable para que proporcione el que ante ella se hubiera señalado.
 
-Cuando el accionante desconozca el domicilio donde ha de hacerse esta notificación, la Magistrada o el Magistrado Ponente dictará las medidas que estime pertinentes para conocerlo, pudiendo requerir a la autoridad responsable para que proporcione el que ante ella se hubiera señalado.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 15 DE MARZO DE 2026)</small>
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
 
 Si a pesar de lo anterior no pudiere conocerse el domicilio, la notificación se hará por edictos a costa de quien promueva en términos del ordenamiento supletorio de esta Ley. En caso de que no se acredite la entrega de los edictos para su publicación dentro del plazo de veinte días siguientes al en que se pongan a su disposición, sesobreseerá el procedimiento.
 
@@ -237,11 +251,11 @@ II. Si el domicilio de la autoridad se encuentra fuera del lugar del procedimien
 
 III. Cuando lo requiera el orden público o fuere necesario para la eficacia de la notificación, la Magistrada o el Magistrado Ponente que conozca del procedimiento, podrá ordenar que la notificación se haga a las autoridades por cualquier medio, de lo cual se asentará razón en el expediente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 15.
 
-Las notificaciones por lista se harán en una que se fijará en los estrados de la Sala Especializada, el cual será un lugar visible y de fácil acceso, así como en el portal de Internet del Poder Judicial del Estado previo acuerdo del Consejo. La fijación y publicación de esta lista se realizará a primera hora hábil del día siguiente al de la fecha de la resolución que la ordena y contendrá:
+Las notificaciones por lista se fijarán en los estrados de la Sala Especializada, el cual será un lugar visible y de fácil acceso, así como en el portal de Internet del Poder Judicial del Estado previo acuerdo del Órgano de Administración Judicial. La fijación y publicación de esta lista se realizará a primera hora hábil del día siguiente al de la fecha de la resolución que la ordena y contendrá:
 
 I. El número del expediente;
 
@@ -381,15 +395,15 @@ VI. Cuando la persona quejosa muera durante el juicio, si el acto reclamado sól
 
 ### CAPÍTULO III. DE LA SUSPENSIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 23.
 
-La suspensión podrá ser solicitada por las partes o iniciarse de manera oficiosa en cualquier tiempo hasta antes de que se dicte sentencia definitiva en los procedimientos de Acción de Tutela, Controversia Competencial y Recurso de Revisión, y se tramitará en la vía incidental por cuerda separada.
+La suspensión podrá ser solicitada por las partes o iniciarse de manera oficiosa en cualquier tiempo hasta antes de que se dicte sentencia definitiva en los procedimientos de Acción de Tutela y Controversia Competencial, se tramitarán en la vía incidental por cuerda separada.
 
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
 
-La admisión de las acciones previstas en las fracciones I, II, V y VI del artículo 8 de esta Ley, no darán lugar a la suspensión de la norma cuestionada.
+La admisión de las acciones previstas en las fracciones I, II y V del artículo 8 de esta Ley, no darán lugar a la suspensión de la norma cuestionada.
 
 Para el otorgamiento de la suspensión deberán tomarse en cuenta las circunstancias y características particulares del procedimiento, de acuerdo con la ponderación a la apariencia del buen derecho, la no afectación del interés social y la no contravención de disposiciones de orden público.
 
@@ -595,9 +609,11 @@ V. Cuando hayan cesado los efectos del acto reclamado o no puedan surtir efecto 
 
 #### SECCIÓN TERCERA. DE LA DEMANDA DE ACCIÓN DE TUTELA Y EL INFORME
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 38.
 
-La demanda de Acción de Tutela deberá formularse por escrito, por comparecencia o por medios electrónicos en los casos que la Ley lo autorice y previo acuerdo del Consejo, en la que se expresará:
+La demanda de Acción de Tutela deberá formularse por escrito, por comparecencia o por medios electrónicos en los casos que la Ley lo autorice y previo acuerdo del Órgano de Administración Judicial, en la que se expresará:
 
 I. El nombre y domicilio de la persona quejosa o de la que promueve en su nombre, quien deberá acreditar su representación;
 
@@ -963,7 +979,7 @@ III. Los partidos políticos con registro en el Estado, a través de sus dirigen
 
 IV. La Comisión de Derechos Humanos del Estado de Puebla, exclusivamente por normas de carácter general relacionadas con el ámbito de sus atribuciones;
 
-V. El Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Puebla, exclusivamente por normas de carácter general relacionadas con el ámbito de sus atribuciones;
+V. (DEROGADA, P.O. 15 DE MARZO DE 2026)
 
 VI. La Fiscalía General del Estado, exclusivamente por normas de carácter general relacionadas con el ámbito de sus atribuciones, y
 
@@ -1111,11 +1127,13 @@ V. Los puntos resolutivos que decreten el sobreseimiento, la validez o la invali
 
 VI. En su caso, el término en el que alguna de las partes deba realizar una actuación.
 
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 82.
 
-Dictada la sentencia, la persona titular de la Presidencia ordenará notificar a las partes y enviará para que se publique de manera íntegra en el medio de difusión del Poder Judicial del Estado que el Consejo determine, conjuntamente con los votos particulares que se hayan emitido.
+Dictada la sentencia, la persona titular de la Presidencia ordenará notificar a las partes y enviará para que se publique de manera íntegra en el medio de difusión del Poder Judicial del Estado que el Órgano de Administración Judicial determine, conjuntamente con los votos particulares que se hayan emitido.
+
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
 
 Cuando en la sentencia se declare la invalidez de normas locales y municipales, se ordenará su inserción íntegra en el Periódico Oficial del Estado.
 
@@ -1335,11 +1353,11 @@ V. Los puntos resolutivos que decreten el sobreseimiento, o declaren la validez 
 
 VI. En su caso, el término en el que la parte condenada deba realizar una actuación.
 
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 108.
 
-Dictada la sentencia, la persona titular de la Presidencia ordenará notificar a las partes y enviará para que se publique de manera íntegra en el medio de difusión del Poder Judicial del Estado, que el Consejo determine, conjuntamente con los votos particulares que se hayan emitido.
+Dictada la sentencia, la persona titular de la Presidencia ordenará notificar a las partes y enviará para que se publique de manera íntegra en el medio de difusión del Poder Judicial del Estado, que el Órgano de Administración Judicial determine, conjuntamente con los votos particulares que se hayan emitido.
 
 > <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
 
@@ -1389,7 +1407,7 @@ III. Los partidos políticos con registro en el Estado, a través de sus dirigen
 
 IV. La Comisión de Derechos Humanos del Estado de Puebla cuando impugne la omisión legislativa exclusivamente en el ámbito de sus atribuciones;
 
-V. El Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Puebla, cuando impugne la omisión legislativa exclusivamente en el ámbito de sus atribuciones;
+V. (DEROGADA, P.O. 15 DE MARZO DE 2026)
 
 > <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
 
@@ -1437,133 +1455,77 @@ La sentencia que emita el Pleno que decrete fundada la acción por omisión legi
 
 La persona titular de la Presidencia de la Mesa Directiva del Congreso del Estado, deberá informar a la persona titular de la Presidencia del cumplimiento de la sentencia dentro del periodo de sesiones ordinarias en que se haya iniciado el procedimiento legislativo correspondiente, respecto a la sentencia emitida.
 
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2026)</small>
+
 ## TÍTULO CUARTO. DE LOS RECURSOS DE LEGALIDAD ORDINARIOS
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2026)</small>
 
 ### CAPÍTULO I
 
 ###### ARTÍCULO 122.
 
-Los recursos de legalidad ordinarios son:
-
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2024)</small>
-
-I. El Recurso de Revocación; y
-
-II. El Recurso de Revisión.
-
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+(DEROGADO, P.O. 15 DE MARZO DE 2026)
 
 ###### ARTÍCULO 123.
 
-El Recurso de Revocación procede contra los acuerdos generales que emita el Consejo. Son sujetos legitimados para promover el Recurso de Revocación, los Plenos del Poder Judicial del Estado de Puebla conforme a la representación que establezca la Ley Orgánica del Poder Judicial del Estado de Puebla.
-
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+(DEROGADO, P.O. 15 DE MARZO DE 2026)
 
 ###### ARTÍCULO 124.
 
-El Recurso de Revisión procede contra las resoluciones que determinen la adscripción o remoción de Juezas y Jueces realizados por el Consejo.
-
-En la resolución del Pleno se deberá ponderar la necesidad del servicio jurisdiccional, coadyuvando al interés del orden público y social, teniendo como objetivo prioritario el mejoramiento de la administración de justicia.
-
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
+(DEROGADO, P.O. 15 DE MARZO DE 2026)
 
 ###### ARTÍCULO 125.
 
-Las resoluciones que emita el Pleno en los Recursos de Legalidad Ordinaria previstos en esta Ley, se enviarán al Consejo para que emita el acuerdo en el sentido de la resolución.
+(DEROGADO, P.O. 15 DE MARZO DE 2026)
 
-El Consejo deberá informar a la Sala Especializada, sobre la ejecución de dicha resolución en el plazo que ésta señale para tal efecto.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2026)</small>
 
 ### CAPÍTULO II. DEL RECURSO DE REVOCACIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2024)</small>
-
 ###### ARTÍCULO 126.
 
-El Recurso de Revocación se interpondrá ante la Sala Especializada, dentro de los quince días hábiles siguientes a aquél en que surta efectos la notificación de que se trate.
-
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
-
-Interpuesto el recurso, la persona titular de la Presidencia lo turnará a la Magistrada o el Magistrado Ponente que corresponda en razón de turno, quien ordenará correr traslado al Consejo, para que en el término de diez días hábiles manifieste lo que a su derecho convenga y remita las constancias relacionadas con el asunto.
-
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
-
-Una vez transcurrido el plazo del párrafo anterior, la Magistrada o el Magistrado Ponente tendrá un plazo de quince días hábiles para remitir al Pleno el proyecto de resolución.
-
-> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 23 DE FEBRERO DE 2024)</small>
-
-La resolución del recurso de revocación no admitirá recurso legal alguno.
+(DEROGADO, P.O. 15 DE MARZO DE 2026)
 
 ###### ARTÍCULO 127.
 
-Lo no previsto en el presente Capítulo, se sujetará a lo previsto en el Título Segundo de la presente Ley.
+(DEROGADO, P.O. 15 DE MARZO DE 2026)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2026)</small>
 
 ### CAPÍTULO III. DEL RECURSO DE REVISIÓN
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE FEBRERO DE 2024)</small>
-
 ###### ARTÍCULO 128.
 
-El Recurso de Revisión se interpondrá ante la Sala Especializada, dentro de los quince días hábiles siguientes a aquél en que surta efectos la notificación de que se trate.
-
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
-
-Interpuesto el recurso, la persona titular de la Presidencia lo turnará a la Magistrada o el Magistrado Ponente correspondiente, quien ordenará correr traslado al Consejo, para que en el término de diez días hábiles manifieste lo que a su derecho convenga; lo que se hará del conocimiento del recurrente.
-
-> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2024)</small>
-
-Una vez transcurrido el plazo del párrafo anterior, la Magistrada o el Magistrado Ponente tendrá un plazo de quince días hábiles para remitir al Pleno el proyecto de resolución.
-
-> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 23 DE FEBRERO DE 2024)</small>
-
-La resolución del Recurso de Revisión no admitirá recurso legal alguno.
+(DEROGADO, P.O. 15 DE MARZO DE 2026)
 
 ###### ARTÍCULO 129.
 
-Lo no previsto en el presente Capítulo, se sujetará a lo establecido en el Título Segundo de la presente Ley.
+(DEROGADO, P.O. 15 DE MARZO DE 2026)
 
-> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE FEBRERO DE 2024)</small>
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2026)</small>
 
 ## TÍTULO QUINTO. DE LAS CONSULTAS SOBRE LA INTERPRETACIÓN DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE PUEBLA
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE FEBRERO DE 2024)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MARZO DE 2026)</small>
 
 ### CAPÍTULO ÚNICO
 
-> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2024)</small>
-
 ###### ARTÍCULO 130.
 
-La consulta sobre la interpretación de la Ley Orgánica del Poder Judicial del Estado de Puebla tiene por objeto determinar el criterio que prevalecerá de entre los discordes que sostengan los entes consultantes.
-
-> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2024)</small>
+(DEROGADO, P.O. 15 DE MARZO DE 2026)
 
 ###### ARTÍCULO 131.
 
-Los Plenos del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa y del Consejo de la Judicatura, podrán, por medio de sus Presidentes, consultar a la Sala Especializada sobre la interpretación de la Ley Orgánica del Poder Judicial del Estado de Puebla en un plazo de diez días hábiles contados a partir de que surja el caso concreto que motive la consulta.
-
-> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2024)</small>
+(DEROGADO, P.O. 15 DE MARZO DE 2026)
 
 ###### ARTÍCULO 132.
 
-La consulta se realizará por escrito y contendrá, cuando menos:
-
-I. La porción normativa materia de la consulta;
-
-II. Los hechos concretos que originan la consulta; y
-
-III. Los criterios discordantes respecto de los cuales la Sala Especializada deberá determinar el que prevalecerá. En caso de que la discordancia se mantenga con otro de los Plenos mencionados en el artículo anterior, deberá señalarlo.
-
-> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2024)</small>
+(DEROGADO, P.O. 15 DE MARZO DE 2026)
 
 ###### ARTÍCULO 133.
 
-Recibida la consulta, la persona titular de la Presidencia, la turnará a la Magistrada o el Magistrado que corresponda.
-
-Si la consulta no es clara o no se colman todos los elementos requeridos en el artículo anterior, la Magistrada o el Magistrado Ponente someterá el desechamiento a la Sala Especializada para su votación.
-
-Admitida la consulta se dará vista al órgano que, en su caso, sostenga el criterio discrepante para que en el término de diez días hábiles realice las manifestaciones que considere oportunas.
-
-Agotado dicho plazo, con manifestaciones o sin ellas, la Magistrada o el Magistrado Ponente, propondrá a la Sala Especializada el proyecto de respuesta a la consulta, dentro de los quince días hábiles siguientes.
+(DEROGADO, P.O. 15 DE MARZO DE 2026)
 
 ## TRANSITORIOS
 
@@ -1594,3 +1556,11 @@ CUARTO. El Consejo emitirá el acuerdo general que establezca la Declaratoria de
 QUINTO. Las disposiciones que hagan referencia a la integración y forma de votar relativas a la Sala Especializada en Materia Constitucional, entrarán en vigor una vez que se declare el inicio de funciones de ésta por parte del Consejo; en el entendido de que la Sala Constitucional ejercerá las atribuciones en materia procesal, durante el tiempo que continúe en funciones cuando se haga referencia a la Sala Especializada en Materia Constitucional.
 
 SEXTO. Todo instrumento legal, jurídico o administrativo y norma en sentido formal o materia que, a la entrada del presente Decreto, se refiera a la Sala Constitucional, se entenderán que corresponden a la Sala Especializada en Materia Constitucional una vez que entre en funciones.
+
+P.O. 15 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY REGLAMENTARIA DE LOS MEDIOS DE DEFENSA DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor una vez que se cumpla con lo dispuesto por los artículos TRANSITORIOS DÉCIMO SEXTO y DÉCIMO SÉPTIMO de la Declaratoria del Decreto por el cual se reforma, adiciona y deroga diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial del Estado el quince de marzo de dos mil veinticinco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
