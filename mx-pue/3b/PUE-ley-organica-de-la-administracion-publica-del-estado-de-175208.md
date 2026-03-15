@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-175208"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-11-28"
-last_updated: "2025-12-15"
+last_updated: "2026-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=175208&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2026.
 
 Ley publicada en la Tercera Edición Vespertina del Número 18 del Periódico Oficial del Estado de Puebla, el jueves 28 de noviembre de 2024.
 
@@ -469,7 +469,9 @@ XIII. Colaborar como autoridad corresponsable o coadyuvante, en el ámbito del P
 
 XIV. Establecer comisiones intersecretariales con las demás autoridades corresponsables a nivel estatal y coordinar los trabajos de aquéllas, sin perjuicio de lo dispuesto por el artículo 12 de esta ley, con el objeto de diseñar e implementar programas de servicios para la reinserción al interior de los centros penitenciarios o de internamiento y de servicios post-penales a nivel estatal; de favorecer la inclusión educativa, social y laboral de las personas privadas de la libertad próximas a ser liberadas; de desarrollar mecanismos de participación, y de promover la firma de convenios de colaboración con organizaciones de la sociedad civil, a fin de diseñar, instrumentar o brindar servicios en internamiento o de naturaleza post-penal;
 
-XV. Tramitar lo relativo al ejercicio de las facultades que al Gobernador o Gobernadora otorga la Constitución Política del Estado Libre y Soberano de Puebla, sobre el nombramiento de Magistrados o Magistradas del Tribunal Superior de Justicia del Estado y del Tribunal de Justicia Administrativa;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
+
+XV. Tramitar lo relativo al ejercicio de las facultades que al Gobernador o Gobernadora otorga la Constitución Política del Estado Libre y Soberano de Puebla, sobre el nombramiento de Magistrados o Magistradas del Tribunal de Justicia Administrativa;
 
 XVI. Llevar el registro de autógrafos y legalizar las firmas de las y los funcionarios estatales, de las y los presidentes municipales, secretarios, secretarias y síndicos y síndicas de los ayuntamientos del Estado, así como de las y los demás servidores a quienes esté encomendada la fe pública para autenticar los documentos en que intervengan;
 
@@ -1845,7 +1847,9 @@ XXXVIII. Proteger la imagen del entorno ambiental, respecto de las vialidades de
 
 XXXIX. Establecer y mantener actualizado el Sistema Estatal de Información Ambiental;
 
-XL. Establecer mecanismos para la protección y trato digno de los animales en el Estado de Puebla y ejercer las demás atribuciones que le otorgue la legislación en la materia;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
+
+XL. Establecer mecanismos para la protección de la vida silvestre en el Estado de Puebla en colaboración con las autoridades federales y ejercer las demás atribuciones que le otorgue la legislación en la materia.
 
 XLI. Formular, evaluar y ejecutar las políticas de asentamientos humanos, ordenamiento territorial y de desarrollo urbano a que se refiere la normatividad aplicable, con la participación de los ayuntamientos del Estado, previa celebración de los convenios correspondientes;
 
@@ -2386,3 +2390,15 @@ SÉPTIMO. En un plazo no mayor a treinta días naturales, contados a partir de l
 La designación correspondiente deberá ser notificada a la Agencia de Transformación Digital y Telecomunicaciones, y a la Autoridad Local de Simplificación y Digitalización.
 
 OCTAVO. En un plazo no mayor a treinta días naturales, contados a partir de la entrada en vigor del presente Decreto, las Personas Titulares de los Sujetos Obligados Estatales o Municipales deberán informar a la Agencia de Transformación Digital y Telecomunicaciones todas las soluciones tecnológicas que hayan sido desarrolladas directamente o a través de terceros, para que estas se integren en el Repositorio Nacional de Tecnología Pública en los términos y plazos que defina la Agencia de Transformación Digital y Telecomunicaciones.
+
+P.O. 15 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMAN LA FRACCIÓN XV DEL ARTÍCULO 32, Y LA FRACCIÓN XL DEL 47; AMBAS DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Estado entrará en vigor al día siguiente de su publicación. Por lo que hace a la reforma a la fracción XV del artículo 32, está entrará en vigor una vez que se cumpla con lo dispuesto por los artículos TRANSITORIOS DÉCIMO SEXTO y DÉCIMO SÉPTIMO de la Declaratoria del Decreto por el cual se reforma, adiciona y deroga diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial del Estado el quince de marzo de dos mil veinticinco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
