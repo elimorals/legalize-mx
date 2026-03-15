@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-bienestar-animal-del-estado-de-puebla-127134"
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-26"
-last_updated: "2024-03-21"
+last_updated: "2026-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127134&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE BIENESTAR ANIMAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2026.
 
 Ley publicada en la Tercera Sección del Número 17 al Periódico Oficial del Estado de Puebla, el lunes 26 de febrero de 2018.
 
@@ -159,6 +159,10 @@ XIX. Comportamiento Innato: patrón de conducta típico de las diversas especies
 
 XX. Criadero animal: establecimiento donde se realizan todo tipo de actividades encaminadas a favorecer la reproducción de los animales de compañía, mediante métodos que no impliquen maltrato o crueldad;
 
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2026)</small>
+
+XX BIS. CONSEJO DE PARTICIPACIÓN CIUDADANA. Órgano ciudadano que fungirá como enlace entre la ciudadanía y las autoridades competentes a fin de promover la gestión social, vigilancia y propuesta de soluciones a problemas comunitarios relacionados con la protección y bienestar de los animales;
+
 > <small>(REFORMADA, P.O. 21 DE MARZO DE 2024)</small>
 
 XXI. Crueldad animal: Todo acto intencional de violencia que produzca daño, sufrimiento, lesiones o la muerte de un animal, entre los que se encuentran, de forma enunciativa más no limitativa, los actos sexuales, abandono, tortura, mutilación, incendio, asfixia, ataques con ácido, con objetos punzocortantes, con armas de fuego, uso de pirotecnia o explosivos, suministro de alcohol, veneno, drogas sin fines veterinarios, vivisección, experimentación ilícita, azuzar a otros animales para atacar y la sobre explotación de su trabajo;
@@ -181,7 +185,7 @@ XXVI. Hospital Veterinario: establecimiento encargada (sic) del cuidado de la sa
 
 XXVII. Insensibilización: acción con la que se induce rápidamente a un animal a un estado en el que no siente dolor;
 
-XXVIII. Instituto: Instituto de Bienestar Animal del Estado de Puebla;
+XXVIII. (DEROGADA, P.O. 15 DE MARZO DE 2026)
 
 XXIX. Ley: la Ley de Bienestar Animal del Estado de Puebla;
 
@@ -202,6 +206,10 @@ XXXV. Sacrificio humanitario: acto que provoca la muerte sin sufrimiento de los 
 > <small>(REFORMADA, P.O. 3 DE ABRIL DE 2020)</small>
 
 XXXVI. Secretaría: Secretaría de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2026)</small>
+
+XXXVI BIS. SEDIF: Organismo Público Descentralizado denominado Sistema para el Desarrollo Integral de la Familia del Estado de Puebla;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ENERO DE 2021)</small>
 
@@ -225,9 +233,13 @@ En todo lo no previsto en la presente Ley, se aplicarán supletoriamente las dis
 
 Toda persona física o moral que tenga a su cargo el manejo de animales, tiene la obligación de proporcionar a las autoridades competentes establecidas por la presente Ley, la información que le sea requerida.
 
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+La omisión a la obligación contenida en el presente artículo constituye una infracción independiente de las que se ejecuten por maltrato o crueldad, según sea el caso.
+
 ###### ARTÍCULO 6.
 
-La Secretaría está facultada para la emisión de los lineamientos necesarios para la aplicación de la presente Ley.
+(DEROGADO, P.O. 15 DE MARZO DE 2026)
 
 ### CAPÍTULO II. LA DISTRIBUCIÓN DE COMPETENCIAS Y COORDINACIÓN
 
@@ -243,17 +255,17 @@ II. La Secretaría de Seguridad Pública;
 
 III. La Secretaría de Salud;
 
-> <small>(REFORMADA, P.O. 21 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-IV. La Secretaría de Educación;
+IV. La Secretaría de Educación Pública;
 
 > <small>(REFORMADA, P.O. 21 DE ENERO DE 2021)</small>
 
 V. Los Ayuntamientos, y
 
-> <small>(ADICIONADA, P.O. 21 DE ENERO DE 2021)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-VI. El Instituto de Bienestar Animal.
+VI. El SEDIF.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE ABRIL DE 2020)</small>
 
@@ -261,27 +273,29 @@ VI. El Instituto de Bienestar Animal.
 
 Corresponde a la Secretaría de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial, el ejercicio de las siguientes atribuciones:
 
-I. Formular la política estatal en materia de bienestar animal, conservación y aprovechamiento de la fauna silvestre, mismas que deberán ser acordes con la política nacional en la materia;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-II. Elaborar y proponer al Ejecutivo del Estado los ordenamientos y demás disposiciones necesarias para el cumplimiento de la presente Ley;
+I. Formular la política estatal en materia de bienestar, conservación y aprovechamiento de la fauna silvestre, mismas que deberán ser acordes con la política nacional en la materia;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
+
+II. Elaborar y proponer al Ejecutivo del Estado los ordenamientos y demás disposiciones necesarias para el cumplimiento de la presente Ley, en materia de fauna silvestre;
 
 > <small>(REFORMADA, P.O. 21 DE ENERO DE 2021)</small>
 
 III. Celebrar convenios de coordinación con las autoridades federales o municipales, organismos internacionales, así como con personas físicas o morales del sector privado, social o académico, para el cumplimiento de los objetivos de la presente Ley;
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2024)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-IV. Promover por sí o en coordinación con el Gobierno Federal y los Ayuntamientos, el establecimiento de mecanismos para la protección y trato digno de los animales en el Estado, procurando en todo momento su bienestar;
+IV. Promover por sí o en coordinación con el Gobierno Federal y los Ayuntamientos, el establecimiento de mecanismos para la protección y trato digno de la fauna silvestre en el Estado, procurando en todo momento su bienestar;
 
-V. Vigilar el cumplimiento de las disposiciones de la presente Ley y demás disposiciones legales que de la misma emanen;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2024)</small>
+V. Vigilar, en el ámbito de su competencia, el cumplimiento de las disposiciones de la presente Ley y demás disposiciones legales que de la misma emanen, y
 
-VI. Aplicar sanciones y medidas correctivas en casos de crueldad animal, en los términos previstos en esta Ley;
+VI. (DEROGADA, P.O. 15 DE MARZO DE 2026)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ENERO DE 2021)</small>
-
-VII. Sustanciar los procedimientos administrativos correspondientes en materia de crueldad animal, y
+VII. (DEROGADA, P.O. 15 DE MARZO DE 2026)
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE ENERO DE 2021)</small>
 
@@ -299,23 +313,29 @@ II. Las demás que le confiera esta Ley y demás ordenamientos jurídicos aplica
 
 Corresponde a la Secretaría de Salud, el ejercicio de las siguientes atribuciones:
 
-I. Coadyuvar cuando le sea solicitado por las autoridades competentes, en la realización de visitas de inspección y vigilancia, a efecto de verificar el estado en que los animales se encuentran;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2024)</small>
+l. Encabezar y coordinar, en conjunto con las autoridades competentes, las políticas estatales y municipales dirigidas a prevenir, controlar y erradicar enfermedades zoonóticas conforme a las disposiciones vigentes;
 
-II. Promover campañas de vacunación antirrábicas sanitarias para el control y erradicación de enfermedades zoonóticas, de esterilización y desparasitación; sin perjuicio de la competencia que corresponda a autoridades de orden federal o municipal, en términos de la normatividad aplicable, y
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-III. Las demás que le confiera esta Ley y demás ordenamientos jurídicos aplicables.
+II. Coadyuvar en la vigilancia, prevención y control de enfermedades zoonóticas en su ámbito de competencia, cuando sea solicitado por las autoridades estatales y municipales encargadas de los actos de inspección y vigilancia en materia de bienestar animal en términos de esta ley;
 
-> <small>(ADICIONADO, P.O. 21 DE MARZO DE 2024)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-Para la implementación y desarrollo de las campañas a las que se refiere el presente artículo se deberá, contar con personal capacitado e indispensable para resguardar a los animales durante el procedimiento.
+III. Planificar y ejecutar en coordinación con los gobiernos federal, estatales, municipales y la sociedad civil, campañas de vacunación antirrábica y de esterilización quirúrgica de animales de compañía para el control, erradicación de enfermedades zoonóticas y atención de la sobrepoblación de los animales, de conformidad con las disposiciones vigentes para tal fin, y
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2024)</small>
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2026)</small>
+
+IV. Las demás que le confiera esta Ley y demás disposiciones aplicables en la materia.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 15 DE MARZO DE 2026)</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 11.
 
-Corresponde a la Secretaría de Educación el ejercicio de las siguientes atribuciones:
+Corresponde a la Secretaría de Educación Pública el ejercicio de las siguientes atribuciones:
 
 I. Aplicar la política estatal de bienestar animal al interior de los centros educativos del Estado, para la mejor comprensión de la comunidad escolar;
 
@@ -379,19 +399,43 @@ III. Establecer programas y campañas de difusión, con base en las disposicione
 
 Será responsabilidad de las autoridades competentes, promover que las instituciones educativas, así como las asociaciones no gubernamentales, fundaciones y asociaciones protectoras de animales legalmente constituidas, implementen el desarrollo de programas de formación en la cultura de bienestar animal.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 15.
 
-Las autoridades competentes, promoverán y participarán en la capacitación y actualización del personal a su cargo, responsable en el manejo de animales, así como de quienes participan en actividades de verificación y vigilancia, a través de cursos, talleres, reuniones y demás proyectos y acciones que contribuyan al objeto de esta Ley.
+Las autoridades establecidas en el artículo 7 fracción V y VI de la presente ley, que ejerzan funciones relacionadas con el manejo de animales, inspección, verificación y vigilancia o cualquier otra función que implique la atención de los mismos, deberán contar con cédula profesional con la que ejerza la medicina, en específico de médico veterinario zootecnista.
 
-### CAPÍTULO III. DEL INSTITUTO DE BIENESTAR ANIMAL
+Las autoridades señaladas en el párrafo anterior, promoverán y participarán en la capacitación y actualización interna de dicho personal a través de cursos, talleres, reuniones y demás proyectos y acciones que contribuyan al objeto de esta Ley.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+ARTÍCULO 15 BIS. El SEDIF y los Ayuntamientos, podrán promover la creación de Consejos de Participación Ciudadana, para fomentar el desarrollo de acciones tendientes a cumplir el objeto de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+ARTÍCULO 15 TER. El Consejo de Participación Ciudadana se sujetará a los lineamientos que para dicho efecto emita el SEDIF y/o los Ayuntamientos, los cuales establecerán cuando menos lo siguiente:
+
+l. Que las personas ciudadanas interesadas en ser consejeras tengan experiencia y conocimientos en materia de bienestar y protección de los animales;
+
+II. Que las personas ciudadanas que soliciten la participación en los Consejos no pertenezcan a institutos políticos o tengan fines políticos;
+
+III. Que los consejeros tengan carácter honorífico y, por tanto, no recibirán retribución, ni emolumento alguno, y
+
+IV. Realizar estudios, propuestas, acciones o iniciativas de políticas públicas en materia de bienestar animal.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE MARZO DE 2026)</small>
+
+### CAPÍTULO III. DEL SEDIF
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 16.
 
-Se crea el Instituto de Bienestar Animal del Estado de Puebla, como Órgano Desconcentrado de la Secretaría, mismo que ejercerá las facultades siguientes:
+Corresponde al SEDIF el ejercicio de las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2024)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-I. Fomentar y promover la cultura cívica de protección, responsabilidad, adopción responsable, respeto, trato humanitario y bienestar animal, en coordinación con los sectores público, privado y social;
+I. Fomentar y promover la cultura cívica de protección, responsabilidad, adopción responsable, respeto, trato humanitario, bienestar de los animales e inclusión de los mismos en el núcleo familiar, en coordinación con los sectores público, privado y social;
 
 II. Diseñar programas de educación y capacitación en materia de protección, trato humanitario y bienestar animal, en coordinación con las autoridades competentes, así como de programas de educación no formal con el sector social, privado y académico;
 
@@ -425,47 +469,65 @@ V. Desarrollar y promover programas para el entrenamiento y capacitación contin
 
 VI. Desarrollar e implementar acciones de atención en caso de contingencias, a efecto de salvaguardar el bienestar animal, con la coordinación de las autoridades competentes;
 
-> <small>(REFORMADA, P.O. 3 DE ABRIL DE 2020)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-VII. Recibir quejas y denuncias en materia de bienestar animal, para su atención o en su caso para ser canalizadas a las autoridades correspondientes;
+VII. Recibir y dar seguimiento a las denuncias populares en materia de animales, o en su caso remitir a las autoridades competentes;
 
-VIII. Otorgar seguimiento a las quejas y denuncias presentadas ante el Instituto, para informar al interesado el estado (sic) guardan ante las autoridades competentes;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-IX. Coadyuvar con las autoridades competentes en la investigación de algún acto o hecho que sea considerado violatorio a la Ley;
+VIII. Iniciar, sustanciar y resolver los procedimientos administrativos en materia de bienestar animal, y conocer del recurso administrativo;
 
-X. Proponer la celebración de convenios con los hospitales veterinarios, clínicas, establecimientos, fundaciones, Asociaciones Protectoras de Animales, y demás instituciones que sean necesarios para la atención y albergue de los animales asegurados por las autoridades competentes;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-XI. Informar de forma inmediata a las autoridades competentes respecto de la realización de presentaciones de circos con animales;
+IX. Coadyuvar con las autoridades competentes en la investigación de delitos, que produzcan maltrato, violencia o crueldad en contra de los animales;
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2024)</small>
+X. (DEROGADA, P.O. 15 DE MARZO DE 2026)
 
-XII. Fomentar y, en su caso, coordinar la creación de Centros de Bienestar Animal por parte de los Ayuntamientos, dando seguimiento de manera constante de la instalación y operación de los mismos; y en los municipios donde ya existan estos, promover el establecimiento de clínicas veterinarias públicas de fomento a la tenencia responsable, a través de la medicina preventiva y curativa básica;
+XI. (DEROGADA, P.O. 15 DE MARZO DE 2026)
 
-XIII. Procurar la recaudación de donaciones en dinero o en especie, a través de la organización de eventos benéficos, en coordinación con el sector privado y social, así como los diferentes niveles de Gobierno, para el cumplimiento de las disposiciones de esta Ley;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
+
+XII. Fomentar y, en su caso, coordinar la creación de Centros de Bienestar Animal por parte de los Ayuntamientos, dando seguimiento de la instalación y operación de los mismos;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
+
+XIII. Promover el establecimiento de clínicas veterinarias públicas de fomento a la tenencia responsable, a través de la medicina preventiva y curativa básica;
 
 > <small>(REFORMADA, P.O. 3 DE ABRIL DE 2020)</small>
 
 XIV. Emitir el dictamen de cumplimiento a la normatividad aplicable en materia de bienestar animal;
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2024)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-XV. Brindar atención psicológica y/o pedagógica a infractores de esta Ley, que permita concientizar y sensibilizar con el objeto de modificar y mejorar su trato hacia los animales;
+XV. Brindar atención psicológica y/o pedagógica a las personas infractoras de esta Ley, que permita concientizar y sensibilizar con el objeto de modificar y mejorar su trato hacia los animales;
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2024)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-XVI. Prevenir, atender y controlar los casos de crueldad animal, a través de visitas de inspección y medidas de seguridad dando parte a la Secretaría de los asuntos en los que sea procedente;
+XVI. Prevenir, atender y controlar los casos de crueldad animal, a través de visitas de inspección y medidas de seguridad que esta Ley contempla;
 
-> <small>(REFORMADA, P.O. 21 DE MARZO DE 2024)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-XVII. Brindar atención veterinaria, así como albergue temporal a los animales involucrados en casos de crueldad animal, procediendo a dar en adopción en los términos de la presente Ley;
+XVII. Brindar atención veterinaria, así como albergue temporal a los animales objeto de casos de violencia, maltrato o crueldad animal, procurando darlos en adopción al concluir el procedimiento respectivo, en los términos de la presente Ley y demás instrumentos legales que resulten aplicables;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE MARZO DE 2024)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-XVIII. Diseñar y coordinar, con la participación de las organizaciones de la sociedad civil, acciones de difusión y promoción sobre la protección animal, así como los programas de adopción responsable de animales, y
+XVIII. Diseñar y coordinar, con la participación de las organizaciones de la sociedad civil, acciones de difusión y promoción sobre la protección animal, así como los programas de adopción responsable de animales;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE MARZO DE 2024)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MARZO DE 2026)</small>
 
-XIX. Las demás que por disposición legal le correspondan.
+XIX. Crear programas de apoyo para los procesos de atención y rehabilitación física y mental, mediante la terapia asistida con animales;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2026)</small>
+
+XX. Promover por sí o en coordinación con autoridades de la administración pública federal, estatal o municipal, el establecimiento de mecanismos para el bienestar y protección de los animales en el Estado;
+
+> <small>(ADICIONADA, P.O. 15 DE MARZO DE 2026)</small>
+
+XXI. Ordenar y ejecutar la realización de visitas de verificación y de inspección que le correspondan para comprobar el cumplimiento de las disposiciones legales y reglamentarias en los ámbitos de su competencia; así como imponer y aplicar medidas preventivas o de seguridad con sujeción a las leyes, reglamentos y demás disposiciones aplicables, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE MARZO DE 2026)</small>
+
+XXII. Las demás que por disposición legal le correspondan.
 
 ### CAPÍTULO IV. DE LAS OBLIGACIONES E INFRACCIONES EN MATERIA DE BIENESTAR ANIMAL
 
@@ -631,11 +693,11 @@ No se considerarán contravenciones a la presente Ley las medidas indispensables
 
 ### CAPÍTULO V. DE LOS ANIMALES DE COMPAÑÍA
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 26.
 
-El Instituto administrará el Padrón Estatal de Perros y Gatos, cuyo objeto es la creación del registro de la población de éstos; vinculados a sus propietarios o poseedores; así como su identificación correspondiente.
-
-Para tal efecto podrá coordinarse con los ayuntamientos de la Entidad.
+El SEDIF administrará el Padrón Estatal de Perros y Gatos, cuyo objeto es la creación del registro de la población de éstos; vinculados a sus personas propietarias o poseedoras; así como su identificación correspondiente.
 
 ###### ARTÍCULO 27.
 
@@ -1065,9 +1127,11 @@ Las autoridades competentes y el personal comisionado, para ejecutar el decomiso
 
 La resolución dictada en el procedimiento administrativo con motivo de la aplicación de esta Ley, su Reglamento y disposiciones que de ella emanen, podrá ser impugnada por los interesados mediante el Recurso de Revisión previsto en el presente Capítulo. Tratándose de los Ayuntamientos, mediante el Recurso de Inconformidad previsto en la Ley Orgánica Municipal.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 77.
 
-El Titular de la Secretaría es competente para resolver el Recurso de Revisión; el cual se interpondrá por la parte que se considere agraviada por escrito, dentro de los diez días hábiles siguientes al en que se hubiera hecho la notificación de la resolución recurrida, o aquél en que se ostenta sabedor de la misma, y se contará en ellos el día del vencimiento.
+El SEDIF es competente para resolver el Recurso de Revisión; el cual se interpondrá por la parte que se considere agraviada por escrito, dentro de los diez días hábiles siguientes al en que se hubiera hecho la notificación de la resolución recurrida, o aquél en que se ostenta sabedor de la misma, y se contará en ellos el día del vencimiento.
 
 ###### ARTÍCULO 78.
 
@@ -1213,29 +1277,19 @@ Toda persona, grupos sociales, organizaciones no gubernamentales, asociaciones y
 
 Si la denuncia fuera presentada ante la autoridad estatal o municipal y resulta del orden federal, deberá ser remitida de manera inmediata para su atención y trámite a la autoridad competente.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 94.
 
-La denuncia popular deberá hacerse por escrito o por comparecencia, y contendrá:
+Asimismo, podrá formularse la denuncia popular por vía telefónica y correo electrónico en cuyo supuesto el servidor público que la reciba, levantará acta circunstanciada, y el denunciante deberá ratificarla por escrito, cumpliendo con los requisitos establecidos en el presente artículo, en un término de tres días hábiles siguientes a la formulación de la denuncia popular, sin perjuicio de que las autoridades competentes investiguen de oficio los hechos constitutivos de la denuncia popular.
 
-I. Nombre o razón social y domicilio del denunciante y, en su caso, de su representante legal;
+Si el denunciante solicita a las autoridades competentes guardar secreto respecto de su identidad, por razones de seguridad e interés particular, estas llevarán a cabo el seguimiento de la denuncia popular conforme a las atribuciones que la presente Ley y demás disposiciones jurídicas aplicables les otorgan.
 
-II. Los actos u omisiones denunciados;
-
-III. Los datos que permitan identificar al presunto infractor, y
-
-IV. Las pruebas que en su caso ofrezca el denunciante.
-
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 2024)</small>
-
-Asimismo, podrá formularse la denuncia por vía telefónica y correo electrónico en cuyo supuesto el servidor público que la reciba, levantará acta circunstanciada, y el denunciante deberá ratificarla por escrito, cumpliendo con los requisitos establecidos en el presente artículo, en un término de tres días hábiles siguientes a la formulación de la denuncia, sin perjuicio de que las autoridades competentes investiguen de oficio los hechos constitutivos de la denuncia.
-
-Si el denunciante solicita a las autoridades competentes guardar secreto respecto de su identidad, por razones de seguridad e interés particular, estas llevarán a cabo el seguimiento de la denuncia conforme a las atribuciones que la presente Ley y demás disposiciones jurídicas aplicables les otorgan.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 95.
 
-Las autoridades competentes, una vez recibida la denuncia, procederán a verificar los hechos materia de aquella, y le asignará el número de expediente correspondiente.
-
-En caso de recibirse dos o más denuncias por los mismos actos u omisiones, se ordenará la acumulación de estas, y se notificará a los denunciantes el acuerdo respectivo.
+Las autoridades competentes, una vez recibida la denuncia popular, procederán a verificar los hechos materia de aquella, y le asignará el número de expediente correspondiente. En caso de recibirse dos o más denuncias populares por los mismos actos u omisiones, se ordenará la acumulación de estas, y se notificará a los denunciantes el acuerdo respectivo.
 
 ###### ARTÍCULO 96.
 
@@ -1245,15 +1299,19 @@ Las autoridades competentes, efectuarán las diligencias necesarias para la comp
 
 En caso de que no se compruebe que los actos u omisiones denunciados producen o pueden producir infracciones que contravengan la presente ley y demás disposiciones legales que emanen de la misma, las autoridades competentes lo harán del conocimiento del denunciante.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 98.
 
-La formulación de la denuncia popular, así como los acuerdos y resoluciones que emita la Secretaría, no afectarán el ejercicio de otros derechos o medios de defensa que pudiera corresponder a los afectados conforme a las disposiciones aplicables, no suspenderán ni interrumpirán sus plazos de prescripción.
+La formulación de la denuncia popular, así como los acuerdos y resoluciones que emita el SEDIF, no afectarán el ejercicio de otros derechos o medios de defensa que pudiera corresponder a los afectados conforme a las disposiciones aplicables, no suspenderán ni interrumpirán sus plazos de prescripción.
 
 ###### ARTÍCULO 99.
 
 El expediente de la denuncia popular que hubiere sido aperturado, podrá ser concluido por las siguientes causas:
 
-I. Por incompetencia de la Secretaría para conocer de la denuncia popular planteada;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
+
+I. Por incompetencia para conocer de la denuncia popular planteada;
 
 II. Por la emisión de una resolución derivada del procedimiento de Inspección;
 
@@ -1342,3 +1400,27 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Los Ayuntamientos deberán hacer las previsiones presupuestarias y adecuaciones normativas pertinentes para la creación y correcta operación de los Centros de Bienestar Animal.
+
+P.O. 15 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE BIENESTAR ANIMAL DEL ESTADO DE PUEBLA ".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+TERCERO. Se suprime el Instituto de Bienestar Animal del Estado de Puebla como órgano desconcentrado de la Secretaría de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial, y se adscriben sus atribuciones, funciones, programas y acciones al Sistema para el Desarrollo Integral de la Familia del Estado de Puebla.
+
+CUARTO. Dentro de los noventa días naturales a partir de la entrada en vigor de la presente Ley, se realizarán las adecuaciones a los reglamentos interiores correspondientes a la Dependencia y Entidad comprendidas en esta Ley.
+
+En tanto no se expidan los reglamentos a que se refiere el párrafo anterior, las Dependencias y Entidades previstas por esta Ley, seguirán aplicando los reglamentos vigentes en todo aquello que no la contravengan.
+
+QUINTO. A la entrada en vigor del presente ordenamiento, la Secretaría de Planeación, Finanzas y Administración, así como la Secretaría Anticorrupción y Buen Gobierno, coordinarán la transferencia de los recursos humanos, materiales y financieros, así como los bienes muebles, padrones, sistemas, archivos físicos y electrónicos, y demás instrumentos administrativos que se encuentren asignados al Instituto de Bienestar Animal del Estado de Puebla, con destino al Sistema para el Desarrollo Integral de la Familia del Estado de Puebla para su administración, resguardo y continuidad operativa, conforme a la normativa aplicable.
+
+SEXTO. Los asuntos que con motivo de la entrada en vigor de esta Ley deban pasar al SEDIF, continuarán tramitándose por la unidad administrativa de origen hasta que se incorporen a dicha Entidad, en términos de esta Ley.
+
+SÉPTIMO. Los procedimientos administrativos y demás asuntos en trámite iniciados con anterioridad a la entrada en vigor del presente Decreto por el Instituto de Bienestar Animal del Estado de Puebla, continuarán sustanciándose y serán resueltos por el Sistema para el Desarrollo Integral de la Familia del Estado de Puebla, conforme a las disposiciones vigentes al momento de su inicio.
+
+OCTAVO. Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material, que, a la entrada del presente ordenamiento, se refiera al Instituto de Bienestar Animal, se entenderá atribuido al SEDIF.
+
+NOVENO. Los derechos laborales del personal que, en virtud de lo dispuesto en la presente Ley pasen de una Dependencia a un Entidad, se respetarán en términos de la Ley de los Trabajadores al Servicio de los Poderes del Estado.
