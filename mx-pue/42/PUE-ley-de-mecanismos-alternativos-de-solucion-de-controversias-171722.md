@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-mecanismos-alternativos-de-solucion-de-controversias-171
 country: "mx"
 rank: "ley"
 publication_date: "2024-02-23"
-last_updated: "2024-02-23"
+last_updated: "2026-03-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=171722&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY DE MECANISMOS ALTERNATIVOS DE SOLUCION DE CONTROVERSIAS PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE EXPIDE LA LEY DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, PUBLICADO EN EL P.O. DE 15 DE MARZO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2026 (ABROGADA).
 
 Ley publicada en la Quinta Edición Vespertina del Número 16 del Periódico Oficial del Estado de Puebla, el viernes 23 de febrero de 2024.
 
@@ -1252,3 +1254,43 @@ DÉCIMO. El Poder Judicial estará sujeto a la suficiencia presupuestaria corres
 EL GOBERNADOR SUBSTITUTO hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintitrés días del mes de febrero de dos mil veinticuatro. Diputado Presidente. JUAN ENRIQUE RIVERA REYES. Rúbrica. Diputada Vicepresidenta. MARÍA GUADALUPE LEAL RODRÍGUEZ. Rúbrica. Diputado Vicepresidente. EDGAR VALENTÍN GARMENDIA DE LOS SANTOS. Rúbrica. Diputado Secretario. GERARDO HERNÁNDEZ ROJAS. Rúbrica. Diputada Secretaria. MARÍA RUTH ZÁRATE DOMÍNGUEZ. Rúbrica.
 
 Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintitrés días del mes de febrero de dos mil veinticuatro. El Gobernador Substituto del Estado Libre y Soberano de Puebla. LICENCIADO SERGIO SALOMÓN CÉSPEDES PEREGRINA. Rúbrica. El Secretario de Gobernación. CIUDADANO JAVIER AQUINO LIMÓN. Rúbrica. El Secretario de la Función Pública. CIUDADANO JUAN CARLOS MORENO VALLE ABDALA. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE EXPIDE LA LEY DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, sin perjuicio de lo previsto en los transitorios siguientes.
+
+SEGUNDO. Se abroga la Ley de Mecanismos Alternativos de Solución de Controversias para el Estado Libre y Soberano de Puebla, publicada en el Periódico Oficial del Estado en fecha veintitrés de febrero del año dos mil veinticuatro; y se derogan todas las disposiciones reglamentarias que se opongan al presente Decreto.
+
+TERCERO. Los procedimientos en materia de Mecanismos Alternativos de Solución de Controversias iniciados con anterioridad a la entrada en vigor de la presente Ley, continuarán su tramitación de conformidad con las disposiciones vigentes al momento de su inicio.
+
+CUARTO. Las certificaciones que hayan sido expedidas a las Personas Facilitadoras previo a la entrada en vigor del presente Decreto, se regirán conforme a los acuerdos generales que al efecto emitan el Tribunal de Justicia Administrativa, y el Órgano de Administración Judicial, en sus respectivos ámbitos de competencia.
+
+QUINTO. En caso de que, a partir de la entrada en vigor del presente Decreto, haya concluido la vigencia de la Certificación respectiva, en tanto no se emita la Convocatoria que corresponda, así como los demás actos y procedimientos en los términos previstos en la presente ley, aquella continuará vigente, debiendo tanto el Tribunal de Justicia Administrativa, como el Órgano de Administración Judicial, en sus respectivos ámbitos de competencia, emitir los Lineamientos y demás disposiciones aplicables, en términos del artículo 36 de la presente ley.
+
+SEXTO. Una vez que entre en vigor la Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Puebla, el Tribunal de Justicia Administrativa contará con un plazo de hasta ciento ochenta días naturales, para la conformación del Centro Público de Mecanismos Alternativos de Solución de Controversias en materia de Justicia Administrativa; así como para emitir el reglamento interno y demás normatividad aplicable del Centro Público de Mecanismos Alternativos de Solución de Controversias en materia de Justicia Administrativa.
+
+El Consejo de la Judicatura o en su caso el Órgano de Administración Judicial, implementará un plan de trabajo para la transferencia de los recursos materiales, humanos, presupuestales y financieros del área de Mecanismos Alternativos de Solución de Controversias en materia de Justicia Administrativa al Tribunal de Justicia Administrativa, pudiendo para tal efecto, emitir los acuerdos generales que sean necesarios para el cumplimiento adecuado de la presente disposición.
+
+Los derechos laborales del personal que, en virtud de lo dispuesto en el presente Decreto, pasen del Poder Judicial al Tribunal de Justicia Administrativa se respetarán en términos de la legislación aplicable en su totalidad.
+
+SÉPTIMO. El Centro continuará en funciones por cuanto hace a la materia administrativa, hasta en tanto se conforme el Centro Público de Mecanismos Alternativos de Solución de Controversias en materia de Justicia Administrativa.
+
+Para efectos de lo establecido en el párrafo que antecede, deberá transmitirse todo lo relacionado con la jurisdicción del Tribunal de Justicia Administrativa que se encontraba viendo y tramitando el Centro.
+
+Lo anterior de conformidad con los acuerdos generales que al efecto emita el Consejo de la Judicatura o, en su caso, el Órgano de Administración Judicial. Así como en los convenios que al efecto tengan a bien celebrar el Consejo de la Judicatura y el Tribunal de Justicia Administrativa.
+
+El Centro, por lo que hace al Órgano de Administración Judicial, continuará con su funcionamiento respectivo.
+
+OCTAVO. En tanto no se emita la normatividad correspondiente, el Consejo de la Judicatura del Poder Judicial podrá seguir aplicando los acuerdos y demás disposiciones vigentes hasta antes de la aplicación del presente Decreto.
+
+NOVENO. Todo instrumento legal, jurídico o administrativo y norma en sentido formal o material que, a la entrada en vigor del presente Decreto, se refiera al Centro y al Centro de Justicia Alternativa, se entenderá que se refiere al Centro Público de Mecanismos Alternativos de Solución de Controversias en materia de Justicia Administrativa, en el ámbito de sus respectivas competencias.
+
+DÉCIMO. Las formas oficiales valoradas existentes al momento de la entrada en vigor del presente Decreto y que contienen todo lo relacionado a la denominación del Centro de Justicia Alternativa, se seguirán utilizando hasta que se agoten o se autorice su destrucción de acuerdo con la normatividad aplicable.
+
+DÉCIMO PRIMERO. Para el cumplimiento e implementación de la presente Ley, el órgano administrativo competente podrá emitir los acuerdos generales correspondientes.
+
+DÉCIMO SEGUNDO. El Consejo de la Judicatura o el Órgano de Administración Judicial y el Tribunal de Justicia Administrativa, deberán prever en sus respectivos presupuestos, la suficiencia financiera correspondiente y necesaria para la implementación de lo establecido en el presente Decreto.
