@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-defensoria-publica-del-estado-de-puebla-1652
 country: "mx"
 rank: "ley_organica"
 publication_date: "2023-03-23"
-last_updated: "2023-03-23"
+last_updated: "2026-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165222&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY ORGANICA DE LA DEFENSORIA PUBLICA DEL ESTADO DE PUEBLA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 LEY ORGÁNICA DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2026.
 
 Ley publicada en la Quinta Sección del Número 16 del Periódico Oficial del Estado de Puebla, el jueves 23 de marzo de 2023.
 
@@ -93,7 +95,7 @@ I. Asesoría: La opinión que proporcionan las Personas Defensoras Públicas en 
 
 II. Asistencia Jurídica: La asesoría, gestión, representación, patrocinio o defensa que otorga el Instituto en un asunto en particular;
 
-III. Consejo de la Judicatura: el Consejo de la Judicatura del Poder Judicial del Estado de Puebla;
+III. (DEROGADA, P.O. 15 DE MARZO DE 2026)
 
 IV. Defensa: Al conjunto de actos jurídicos, hechos valer para salvaguardar los derechos de la Persona Usuaria;
 
@@ -103,11 +105,21 @@ VI. Instituto: El Instituto Especializado de la Defensoría Pública;
 
 VII. Ley: La Ley Orgánica de la Defensoría Pública del Estado de Puebla;
 
-VIII. Persona Defensora Pública: A la persona servidora pública que cuenta con tal nombramiento y tiene a su cargo la Asistencia Jurídica de las personas Usuarias, de acuerdo con lo dispuesto por esta Ley;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MARZO DE 2026)</small>
 
-IX. Persona Usuaria: Toda persona que recibe Asistencia Jurídica por parte de una Persona Defensora Pública, y
+VIII. Órgano de Administración Judicial: El Órgano de Administración Judicial del Poder Judicial del Estado de Puebla;
 
-X. Representación: La actuación en nombre de otro ante las autoridades competentes en las diversas materias establecidas en la Ley.
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
+
+IX. Persona Defensora Pública: A la persona servidora pública que cuenta con tal nombramiento y tiene a su cargo la asistencia jurídica de las personas usuarias, de acuerdo con lo dispuesto por esta Ley;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
+
+X. Persona Usuaria: Toda persona que recibe asistencia jurídica por parte de una persona defensora pública, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE MARZO DE 2026)</small>
+
+XI. Representación: La actuación en nombre de otro ante las autoridades competentes en las diversas materias establecidas en la Ley.
 
 ###### ARTÍCULO 5.
 
@@ -143,35 +155,45 @@ V. Las demás que señale la presente Ley y demás disposiciones aplicables.
 
 ### CAPÍTULO SEGUNDO. DEL INSTITUTO ESPECIALIZADO DE LA DEFENSORÍA PÚBLICA
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 7.
 
-El Consejo de la Judicatura contará con un Instituto Especializado de la Defensoría Pública, dotado de autonomía técnica y de gestión. Tendrá a su cargo la prestación del servicio de defensoría pública en el Estado en los asuntos y materias establecidos en el artículo 5 de esta Ley.
+El Órgano de Administración Judicial contará con un Instituto Especializado de la Defensoría Pública como órgano auxiliar, encargado de la prestación del servicio de defensoría pública en el Estado en los asuntos y materias previstas en el artículo 5 de esta Ley.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 8.
 
-El Instituto tendrá su sede en la capital del Estado o en uno de sus municipios conurbados y podrá contar con oficinas en los Distritos Judiciales que establezca la Ley Orgánica del Poder Judicial del Estado de Puebla y el Consejo de la Judicatura a través de los acuerdos respectivos.
+El Instituto tendrá su sede en la capital del Estado o en alguno de sus municipios conurbados y podrá contar con oficinas en los Distritos Judiciales que establezca la Ley Orgánica del Poder Judicial del Estado de Puebla y el Órgano de Administración Judicial a través de los acuerdos respectivos.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 9.
 
-El Instituto contará con la estructura orgánica, unidades administrativas y demás personal necesario para su funcionamiento, de conformidad con el reglamento, la suficiencia presupuestal, los acuerdos que al efecto emita el Consejo de la Judicatura y las demás disposiciones aplicables.
+El Instituto contará con la estructura orgánica, unidades administrativas y el personal necesario para su funcionamiento, de conformidad con lo establecido en el reglamento, la suficiencia presupuestal, los acuerdos que al efecto emita el Órgano de Administración Judicial y las demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 10.
 
-Al frente del Instituto habrá una Persona Titular, quien será designada por el Consejo de la Judicatura y deberá reunir los siguientes requisitos:
+Al frente del Instituto habrá una Persona Titular, quien será designada por el Órgano de Administración Judicial y deberá reunir los siguientes requisitos:
 
-I. Tener nacionalidad mexicana;
+I. Tener nacionalidad mexicana, y
 
-II. Tener al menos veintiocho años cumplidos, y
-
-III. Tener título de Licenciatura en Derecho o equivalente, con cédula profesional expedida por la Secretaría de Educación Pública con antigüedad mínima de cinco años en el ejercicio de la profesión.
+II. Contar con título y cédula profesional de la licenciatura en Derecho, expedidos legalmente.
 
 ###### ARTÍCULO 11.
 
 La Persona Titular del Instituto además de las atribuciones señaladas en las disposiciones aplicables, tendrá las siguientes:
 
-I. Garantizar el acceso a la Asistencia Jurídica a quien lo solicite, en términos de lo que señala la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Puebla, la Ley Orgánica del Poder Judicial del Estado de Puebla, los acuerdos que al efecto emita el Consejo de la Judicatura y las demás disposiciones aplicables en la materia;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-II. Proponer al Consejo de la Judicatura programas sociales de Asistencia Jurídica, de acuerdo con la normatividad aplicable;
+I. Garantizar el acceso a la Asistencia Jurídica a quien lo solicite, en términos de lo que señala la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Puebla, la Ley Orgánica del Poder Judicial del Estado de Puebla, los acuerdos que al efecto emita el Órgano de Administración Judicial y las demás disposiciones aplicables en la materia;
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
+
+II. Proponer al Órgano de Administración Judicial programas sociales de Asistencia Jurídica, de acuerdo con la normatividad aplicable;
 
 III. Coadyuvar con las instituciones competentes, en el ámbito de sus atribuciones, en la Asistencia Jurídica;
 
@@ -179,17 +201,25 @@ IV. Proporcionar la atención a quien la solicite, respecto de los servicios que
 
 V. Supervisar, en el ámbito de su competencia, la eficiencia de los servicios que prestan las unidades administrativas a su cargo;
 
-VI. Determinar la adscripción de las Personas Defensoras Públicas, según las necesidades del servicio, previo acuerdo del Consejo de la Judicatura;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-VII. Turnar al Consejo de la Judicatura las quejas e inconformidades presentadas en contra de las personas servidoras públicas a su cargo;
+VI. Determinar la adscripción de las Personas Defensoras Públicas, según las necesidades del servicio, previo acuerdo del Órgano de Administración Judicial;
 
-VIII. Someter a consideración del Consejo de la Judicatura, el anteproyecto del presupuesto anual del Instituto, así como sus modificaciones;
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-IX. Someter a consideración del Consejo de la Judicatura el reglamento, los manuales de organización, de procedimientos, de servicios al público y demás que sean necesarios para el funcionamiento del Instituto;
+VII. Turnar al Tribunal de Disciplina Judicial las quejas y denuncias presentadas en contra de las personas servidoras públicas a su cargo;
 
-X. Coadyuvar con el Consejo de la Judicatura y coordinar con las unidades administrativas a su cargo, en la atención y respuesta de las solicitudes de información, quejas y recomendaciones que, respecto de los asuntos de su competencia, emitan tanto la Comisión Nacional de los Derechos Humanos como la Comisión de Derechos Humanos del Estado de Puebla, y demás autoridades en la materia, y
+VIII. (DEROGADA, P.O. 15 DE MARZO DE 2026)
 
-XI. Ejecutar los mecanismos de evaluación respecto a la eficiencia y eficacia con que se desempeñe el Instituto y presentar al Consejo de la Judicatura por lo menos dos veces al año la evaluación de gestión con el detalle previamente acordado y escuchando a la Persona Titular del Órgano Interno de Control.
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
+
+IX. Someter a consideración del Órgano de Administración Judicial el reglamento, los manuales de organización, de procedimientos, de servicios al público y demás que sean necesarios para el funcionamiento del Instituto, y
+
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
+
+X. Coadyuvar con el Órgano de Administración Judicial y coordinar con las unidades administrativas a su cargo, en la atención y respuesta de las solicitudes de información, quejas y recomendaciones que, respecto de los asuntos de su competencia, emitan tanto la Comisión Nacional de los Derechos Humanos como la Comisión de Derechos Humanos del Estado de Puebla, y demás autoridades en la materia.
+
+XI. (DEROGADA, P.O. 15 DE MARZO DE 2026)
 
 ### CAPÍTULO TERCERO. DE LAS PERSONAS DEFENSORAS PÚBLICAS
 
@@ -199,7 +229,9 @@ Para ser Persona Defensora Pública se requiere:
 
 I. Tener nacionalidad mexicana, y
 
-II. Tener título de Licenciatura en Derecho o equivalente, con cédula profesional expedida por la Secretaría de Educación Pública con antigüedad mínima de dos años en el ejercicio de la profesión.
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
+
+II. Contar con título y cédula profesional de la licenciatura en Derecho, expedidos legalmente.
 
 ###### ARTÍCULO 13.
 
@@ -225,7 +257,15 @@ IX. Rendir un informe mensual a la persona superior jerárquica dentro de los pr
 
 X. Rendir los informes que le requieran a las personas superiores jerárquicas, y
 
-XI. Las demás que le señalen la presente Ley y los ordenamientos aplicables de las materias con apego al Código de Ética y las Reglas de Integridad para el Ejercicio que emita el Consejo de la Judicatura.
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
+
+XI. Las demás que le señalen la presente Ley y los ordenamientos legales aplicables.
+
+> <small>(ADICIONADO, P.O. 15 DE MARZO DE 2026)</small>
+
+ARTÍCULO 13 BIS. La Escuela Estatal de Formación Judicial del Órgano de Administración Judicial será la encargada de capacitar a las personas defensoras públicas, así como de llevar a cabo los concursos de oposición.
+
+La Ley y la normatividad en la materia establecerán los supuestos y procedimientos para el ingreso de las personas defensoras públicas a la carrera judicial.
 
 ###### ARTÍCULO 14.
 
@@ -289,7 +329,9 @@ II. Cuando haya prestado Asistencia Jurídica a la contraparte en un mismo asunt
 
 III. Cuando tengan algún interés personal en el asunto.
 
-La Persona Defensora Pública expondrá por escrito su excusa a la persona superior jerárquica, quien, de determinar su procedencia, instruirá se informe a la autoridad o Tribunal que conozca del asunto y lo hará de conocimiento a la Persona Usuaria, designándole otra Persona Defensora Pública de inmediato.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
+
+La Persona Defensora Pública expondrá por escrito su excusa a la persona superior jerárquica, quien, de determinar su procedencia, instruirá se informe a la autoridad u Órgano Jurisdiccional que conozca del asunto y lo hará de conocimiento a la Persona Usuaria, designándole otra Persona Defensora Pública de inmediato.
 
 Cuando la Persona Titular del Instituto o la persona superior jerárquica inmediata de la Persona Defensora Pública tengan conocimiento de que alguna Persona Defensora Pública se encuentre en alguna de las causales señaladas en este artículo, le ordenará que se excuse de todo conocimiento.
 
@@ -308,3 +350,13 @@ CUARTO. El Consejo de la Judicatura del Estado deberá fijar a la brevedad posib
 EL GOBERNADOR SUBSTITUTO hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo en la Cuatro Veces Heroica Puebla de Zaragoza, a dos días del mes de marzo de dos mil veintitrés. Diputado Presidente. NÉSTOR CAMARILLO MEDINA. Rúbrica. Diputado Vicepresidente. ROBERTO SOLÍS VALLES. Rúbrica. Diputada Vicepresidenta. TONANTZIN FERNÁNDEZ DÍAZ. Rúbrica. Diputada Secretaria. XEL ARIANNA HERNÁNDEZ GARCÍA. Rúbrica. Diputada Secretaria. MARÍA YOLANDA GÁMEZ MENDOZA. Rúbrica.
 
 Por lo tanto con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los tres días del mes de marzo de dos mil veintitrés. El Gobernador Substituto del Estado Libre y Soberano de Puebla. LICENCIADO SERGIO SALOMÓN CÉSPEDES PEREGRINA. Rúbrica. El Secretario de Gobernación. CIUDADANO JULIO MIGUEL HUERTA GÓMEZ. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMAN LAS FRACCIONES VIII, IX Y X DEL ARTÍCULO 4, 7, 8, 9, 10, LAS FRACCIONES I, II, VI, VII, IX Y X DEL 11, LA FRACCIÓN II DEL 12, LA FRACCIÓN XI DEL 13 Y EL PÁRRAFO SEGUNDO DEL 17; SE ADICIONAN LA FRACCIÓN XI AL ARTÍCULO 4 Y EL ARTÍCULO 13 BIS, Y SE DEROGAN LA FRACCIÓN III DEL ARTÍCULO 4, Y LAS FRACCIONES VIII Y XI DEL 11, TODOS DE LA LEY ORGÁNICA DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor una vez que se cumpla con lo dispuesto por los artículos TRANSITORIOS DÉCIMO SEXTO y DÉCIMO SÉPTIMO de la Declaratoria del Decreto por el cual se reforman, adicionan y derogan diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial del Estado el quince de marzo de dos mil veinticinco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
