@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-responsabilidades-de-los-servidores-publicos-del-7590"
 country: "mx"
 rank: "ley"
 publication_date: "1984-06-29"
-last_updated: "2020-12-02"
+last_updated: "2026-03-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Puebla, el viernes 29 de junio de 1984.
 
@@ -71,23 +71,11 @@ LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO DE PUEBLA
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
-###### Artículo 1º.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
 
-Esta Ley es reglamentaria del título Noveno de la Constitución Política del Estado Libre y Soberano de Puebla, en materia de:
+###### Artículo 1°.
 
-I.- Responsabilidad de los servidores públicos del Estado y de los Municipios;
-
-II.- Obligaciones en el servicio público estatal y municipal;
-
-III.- Responsabilidades y sanciones administrativas en el servicio público;
-
-IV.- Responsabilidades de los servidores públicos sometidos a juicio político;
-
-V.- Competencia y procedimientos para aplicar sanciones a los servidores públicos;
-
-VI.- Competencia y procedimientos para declarar la procedencia del enjuiciamiento penal de los servidores públicos estatales y municipales, que gozan de protección constitucional; y
-
-VII.- Registro patrimonial de los servidores públicos del Estado y los Municipios.
+Esta Ley es reglamentaria del Título Noveno de la Constitución Política del Estado Libre y Soberano de Puebla en materia de juicio político.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 1994)</small>
 
@@ -95,29 +83,15 @@ VII.- Registro patrimonial de los servidores públicos del Estado y los Municipi
 
 Son Servidores Públicos las personas que desempeñen un empleo, cargo o comisión de cualquier naturaleza, en la Administración Pública Estatal o Municipal, en los Poderes Legislativo o Judicial del Estado, en las Entidades de la Administración Pública Paraestatal, así como las personas que administren, manejen, recauden, apliquen o resguarden recursos económicos Federales, Estatales o Municipales, sea cual fuere la naturaleza de su nombramiento o elección.
 
-###### Artículo 3º.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
 
-Son autoridades competentes para aplicar la presente Ley:
+###### Artículo 3°.
 
-I.- El Congreso del Estado;
+Las autoridades competentes para aplicar la presente Ley son:
 
-> <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2020)</small>
+l. El Congreso del Estado, y
 
-II.- La Secretaría de la Función Pública del Estado;
-
-III.- Las dependencias del Ejecutivo Estatal;
-
-IV.- Los Tribunales del Trabajo en los términos de la legislación respectiva;
-
-V.- Los Ayuntamientos; y
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE DICIEMBRE DE 1994)</small>
-
-VI.- El Tribunal Superior de Justicia; y
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE DICIEMBRE DE 1994)</small>
-
-VII.- Los demás Organos que determinen las Leyes.
+II. Los demás Órganos que determinen las Leyes.
 
 ###### Artículo 4º.
 
@@ -131,9 +105,25 @@ Los procedimientos para la aplicación de las sanciones a que se refiere esta Le
 
 ### CAPITULO I. SUJETOS, CAUSAS, PROCEDIMIENTOS Y SANCIONES DEL JUICIO POLITICO
 
-###### Artículo 6º.
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
 
-Son sujetos de juicio político los servidores públicos enumerados en la fracción II del artículo 125 de la Constitución Política del Estado.
+###### Artículo 6°.
+
+Son sujetos de juicio político las y los servidores públicos siguientes:
+
+I. Persona Titular del Poder Ejecutivo;
+
+II. Diputadas y Diputados del Congreso del Estado;
+
+III. Persona Titular de la Auditoría Superior del Estado;
+
+IV. Magistradas y Magistrados del Tribunal Superior de Justicia;
+
+V. Magistradas y Magistrados del Tribunal de Disciplina Judicial;
+
+VI. Juezas y Jueces de primera instancia, conforme a la Ley Orgánica del Poder Judicial del Estado de Puebla, y
+
+VII. Personas Integrantes del Órgano de Administración Judicial.
 
 ###### Artículo 7º.
 
@@ -197,15 +187,19 @@ En el Congreso del Estado se constituirá una Comisión Instructora que se encar
 
 Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular por escrito denuncia ante el Congreso del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MARZO DE 2026)</small>
 
 ###### Artículo 14.
 
-Presentada la denuncia ante la Secretaría General del Congreso y ratificada dentro de tres días naturales, se turnará a la Comisión de Gobernación, Justicia y Puntos Constitucionales, la que determinará:
+Presentada la denuncia ante la Secretaría General del Congreso y ratificada dentro de los tres días naturales siguientes, se turnará a la Comisión de Gobernación y Puntos Constitucionales, la que determinará:
 
-a).- Si la conducta atribuida corresponde a las enumeradas por el artículo 9º;
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
 
-b).- Si el inculpado está comprendido entre los servidores públicos a que se refiere el artículo 2º; y
+a). Si la conducta atribuida corresponde a las enumeradas en los artículos 8 o 9 de esta ley;
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
+
+b). Si la persona inculpada está comprendida entre las personas servidoras públicas a que se refiere el artículo 6 de esta Ley, y
 
 c).- Si la denuncia es procedente y amerita la incoación del procedimiento.
 
@@ -217,11 +211,11 @@ En caso contrario la comisión desechará de plano la denuncia presentada.
 
 Las denuncias anónimas no producirán ningún efecto.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2005)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
 
 ###### Artículo 16.
 
-Acreditados los extremos a que se refiere el artículo 14, la Comisión de Gobernación, Justicia y Puntos Constitucionales, turnará la denuncia a la Comisión Instructora, la que practicará todas las diligencias necesarias para comprobar la conducta o hecho materia de la denuncia, establecer las características y circunstancias del caso y precisar la intervención que haya tenido el servidor público denunciado.
+Acreditados los extremos a que se refiere el artículo 14, la Comisión de Gobernación y Puntos Constitucionales, turnarán la denuncia a la Comisión Instructora, la que practicará todas las diligencias necesarias para comprobar la conducta o hecho materia de la denuncia, establecer las características y circunstancias del caso y precisar la intervención que haya tenido la persona servidora pública denunciada.
 
 ###### Artículo 17.
 
@@ -279,9 +273,9 @@ El Decreto que contenga la sentencia, independientemente de su publicación en e
 
 Para proceder penalmente en contra de los servidores públicos a que se refiere el artículo 126 de la Constitución Política del Estado y el 111, párrafo quinto, de la Constitución Política de los Estados Unidos Mexicanos, se actuará en lo pertinente, de acuerdo con el procedimiento previsto en el Capítulo anterior, en materia de juicio político ante el Congreso del Estado; y se aplicarán las siguientes disposiciones:
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2005)</small>
+> <small>(REFORMADA, P.O. 15 DE MARZO DE 2026)</small>
 
-I.- Si a juicio de la Comisión de Gobernación, Justicia y Puntos Constitucionales, la imputación fuese notoriamente improcedente, lo hará saber de inmediato al Congreso, para que éste resuelva si continúa o desecha, sin perjuicio de reanudar el procedimiento si posteriormente aparecen motivos que lo justifiquen.
+I.- Si a juicio de la Comisión de Gobernación y Puntos Constitucionales, la imputación fuese notoriamente improcedente, lo harán saber de inmediato al Congreso, para que éste resuelva si continúa o desecha, sin perjuicio de reanudar el procedimiento si posteriormente aparecen motivos que lo justifiquen.
 
 II.- La Comisión Instructora, en su caso practicará todas las diligencias conducentes a establecer la existencia del delito y probable responsabilidad del inculpado, así como la subsistencia del fuero constitucional cuya privación se solicita.
 
@@ -375,19 +369,23 @@ Si la acumulación fuese procedente, la Comisión formulará en un solo document
 
 Las Comisiones y el Congreso del Estado podrán disponer las medidas de apercibimiento que fueren procedentes, mediante acuerdo de la mayoría de sus miembros presentes en la sesión respectiva.
 
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
+
 ###### Artículo 46.
 
-Las declaraciones o resoluciones aprobadas por el Congreso del Estado con arreglo a esta Ley, se comunicarán al Presidente del Tribunal Superior de Justicia de la Entidad, si se tratase de alguno de los integrantes del Poder Judicial Estatal; y en todo caso al Ejecutivo Local para su conocimiento y efectos legales, y para su publicación en el Periódico Oficial del Gobierno del Estado.
+Las declaraciones o resoluciones aprobadas por el Congreso del Estado con arreglo a esta Ley, se comunicarán al Tribunal de Disciplina Judicial, si se tratase de alguno de los integrantes del Poder Judicial Estatal; y en todo caso al Ejecutivo Local para su conocimiento y efectos legales, y para su publicación en el Periódico Oficial del Gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
 
 ###### Artículo 47.
 
-Recibida por el Congreso del Estado la notificación de las declaratorias de las Cámaras del Congreso de la Unión relativa al Gobernador del Estado, Diputados Locales y Magistrados del Tribunal Superior de Justicia de la Entidad, a que se refiere el artículo 111 de la Constitución General de la República, procederá como lo dispone la presente Ley.
+Recibida por el Congreso del Estado la notificación de las declaratorias de las Cámaras del Congreso de la Unión relativa a la Persona Titular del Poder Ejecutivo, Magistradas y Magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial o integrantes del Órgano de Administración Judicial, y organismos a los que la Constitución Política del Estado les otorgue autonomía, procederá como lo dispone la presente Ley.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 15 DE MARZO DE 2026)</small>
 
 ###### Artículo 48.
 
-En todo lo no previsto en los procedimientos que se contemplan en los Títulos Segundo y Tercero de esta Ley, así como en la apreciación y valoración de las pruebas, se observarán las disposiciones del Código de Procedimientos Civiles para el Estado Libre y Soberano de Puebla.
+En todo lo no previsto en los procedimientos que se contemplan en el Título Segundo de esta Ley, así como en la apreciación y valoración de las pruebas, se observarán las disposiciones del Código Procesal Civil aplicable.
 
 > <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE DICIEMBRE DE 2017)</small>
 
@@ -732,3 +730,11 @@ P.O. 2 DE DICIEMBRE DE 2020.
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 15 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMAN LOS ARTÍCULOS 1, 3, 6, EL PRIMER PÁRRAFO Y LOS INCISOS A) Y B) DEL 14, EL 16, LA FRACCIÓN I DEL 28, EL 46, EL 4 7 Y EL 48, TODOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor una vez que se cumpla con lo dispuesto por los artículos TRANSITORIOS DÉCIMO SEXTO y DÉCIMO SÉPTIMO de la Declaratoria del Decreto por el cual se reforma, adiciona y deroga diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Puebla, publicado en el Periódico Oficial del Estado el quince de marzo de dos mil veinticinco.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
