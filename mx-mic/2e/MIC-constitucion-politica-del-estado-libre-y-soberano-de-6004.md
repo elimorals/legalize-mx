@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2026-03-06"
+last_updated: "2026-03-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -942,6 +942,14 @@ Para expedir leyes en materia de contabilidad gubernamental que regirán la cont
 > <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2007)</small>
 
 XII.- Dar las bases para que el Ejecutivo y los Ayuntamientos contraten deuda pública y afecten como garantía, fuente de pago o de cualquier otra forma los ingresos que les correspondan, en los términos establecidos en las leyes correspondientes y con las limitaciones que establece la fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2026)</small>
+
+La contratación de deuda pública por parte del Poder Ejecutivo del Estado y de los Ayuntamientos deberá realizarse bajo los principios de responsabilidad hacendaria, sostenibilidad financiera y transparencia.
+
+> <small>(ADICIONADO, P.O. 16 DE MARZO DE 2026)</small>
+
+En el caso del Poder Ejecutivo del Estado, queda prohibida la contratación de deuda pública de largo plazo que exceda la duración de la administración en curso;
 
 > <small>(REFORMADA, P.O. 7 DE MARZO DE 2003)</small>
 
@@ -4668,3 +4676,13 @@ P.O. 6 DE MARZO DE 2026.
 PRIMERO. Remítase el presente Decreto a los ayuntamientos del Estado y al Concejo Mayor de Cherán, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 16 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 411 POR EL QUE "SE ADICIONAN DOS PÁRRAFOS A LA FRACCIÓN XII DEL ARTÍCULO 44 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. Remítase a los Ayuntamientos y Concejos Municipales del Estado de Michoacán, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+TERCERO. El Congreso del Estado, dentro de un plazo no mayor a ciento ochenta días, deberá armonizar el marco estatal en términos del presente Decreto.
