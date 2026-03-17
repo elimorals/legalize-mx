@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-asentamientos-humanos-ordenamiento-territorial-y-133300"
 country: "mx"
 rank: "ley"
 publication_date: "2019-02-05"
-last_updated: "2026-03-09"
+last_updated: "2026-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2026.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 5 de febrero de 2019.
 
@@ -128,6 +128,10 @@ XII. Asentamiento Humano: El establecimiento de un conglomerado demográfico, co
 XIII. Asentamiento Humano Irregular: El conjunto de terrenos fraccionados o subdivididos que fueron ocupados sin la documentación legal que acredite su propiedad; las personas que habitan en estos asentamientos suelen auto gestionar su vivienda y servicios, y se ubican en zonas que no fueron evaluadas por la autoridad local competente para determinar si el suelo ocupado es apto para ser urbanizado;
 
 XIV. Atlas de Riesgo: Documento oficial en donde se establecen y clasifican las zonas de riesgo;
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2026)</small>
+
+XIV Bis. Avenida verde: se refiere a la estrategia de incorporar vegetación a las vialidades urbanas, transformando calles y avenidas en espacios más agradables y beneficiosos para el medio ambiente y la calidad de vida de las personas. Esto incluye la plantación de árboles nativos y propicios a lo largo de las avenidas, generando un corredor arbolado, la creación de camellones arbolados, o incluso la implementación de jardines verticales en edificios y estructuras urbanas;
 
 XV. Calle Completa: Vialidad que cuenta con el espacio adecuado, para permitir el acceso seguro para todas las personas usuarias, los peatones, ciclistas, personas usuarias, del transporte público y automovilistas de todas edades y habilidades. Estas características aplicarán principalmente en vialidades primarias. Las estrategias de calles completas dan prioridad a los peatones, ciclistas y, usuarios del transporte público;
 
@@ -1685,6 +1689,10 @@ Para la accesibilidad universal de los habitantes a los servicios y satisfactore
 
 Las políticas y programas para la movilidad serán parte del proceso de planeación de los asentamientos humanos.
 
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2026)</small>
+
+El Estado y los municipios procuraran establecer en las vialidades de interconexión. "Avenidas Verdes”, para con este fin promover e incentivar el traslado sin uso de vehículos y contribuir a la disminución de liberación de contaminantes como una opción más al peatón y el embellecimiento de las zonas urbanas.
+
 ###### Artículo 144.
 
 Las políticas y programas de movilidad deberán:
@@ -1721,7 +1729,9 @@ II. La gestión de instrumentos en la materia, tales como: cargos por congestió
 
 III. La priorización, congruencia y eficacia en las inversiones públicas, considerando el nivel de vulnerabilidad de usuarios, las externalidades que genera cada modo de transporte y su contribución a la productividad de la colectividad.
 
-El Estado y los municipios deberán promover y priorizar en la población la adopción de nuevos hábitos de movilidad urbana sustentable y prevención de accidentes encaminados a mejorar las condiciones en que se realizan los desplazamientos de la población, lograr una sana convivencia en las calles, respetar el desplazamiento del peatón y su preferencia, prevenir conflictos de tránsito, desestimular el uso del automóvil particular, promover el uso intensivo del transporte público y no motorizado y el reconocimiento y respeto a la siguiente jerarquía: personas con movilidad limitada y peatones, usuarios de transporte no motorizado, usuarios del servicio de trasporte público de pasajeros, prestadores del servicio de trasporte público de pasajeros, prestadores del servicio de transporte de carga y usuarios de transporte particular.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2026)</small>
+
+El Estado y los municipios deberán promover y priorizar en la población la adopción de nuevos hábitos de movilidad urbana sustentable y prevención de accidentes encaminados a mejorar las condiciones en que se realizan los desplazamientos de la población, lograr una sana convivencia en las calles, respetar el desplazamiento del peatón y su preferencia, prevenir conflictos de tránsito, desestimular el uso del automóvil particular, promover el uso intensivo del transporte público y no motorizado habilitando para ello la implementación de "Avenidas Verdes” en vialidades prioritarias y promover así un equilibrio ecológico sustentable y el reconocimiento y respeto a la siguiente jerarquía: personas con movilidad limitada y peatones, usuarios de transporte no motorizado, usuarios del servicio de trasporte público de pasajeros, prestadores del servicio de trasporte público de pasajeros, prestadores del servicio de transporte de carga y usuarios de transporte particular.
 
 ### CAPÍTULO II. De la Estructura Vial
 
@@ -1799,7 +1809,9 @@ I. Prevalecerá el interés general sobre el particular;
 
 II. Se deberá promover la equidad en el uso y disfrute;
 
-III. Se deberá asegurar la accesibilidad universal y libre circulación de todas las personas, promoviendo espacios públicos que sirvan como transición y conexión entre barrios y fomenten la pluralidad y la cohesión social;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2026)</small>
+
+III. Se deberá asegurar la accesibilidad universal y libre circulación de todas las personas, promoviendo la implementación de Avenidas Verdes en corredores y espacios públicos que sirvan como transición y conexión entre barrios y fomenten la pluralidad y la cohesión social;
 
 IV. En el caso de los bienes de dominio público, éstos son inalienables;
 
@@ -3806,6 +3818,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 9 DE MARZO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. 66-960 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 156 BIS, A LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-999 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 145, PÁRRAFO SEGUNDO; Y 148, PÁRRAFO PRIMERO, FRACCIÓN III; Y SE ADICIONAN LA FRACCIÓN XIV BIS AL ARTÍCULO 4; Y UN PÁRRAFO TERCERO AL ARTÍCULO 143, DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
