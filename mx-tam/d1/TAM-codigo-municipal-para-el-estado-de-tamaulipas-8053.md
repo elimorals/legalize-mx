@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2026-02-12"
+last_updated: "2026-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "TAM"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE MAYO DE 2026 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -1245,11 +1247,15 @@ XIX.- De Anticorrupción.
 
 XX.- Comisión de Movilidad.
 
-> <small>(ADICIONADA, P.O. 6 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2026)</small>
 
-XXI.- De Asuntos Fronterizos y Migratorios, la cual será nombrada en los municipios que se encuentran en la zona fronteriza del Estado; y
+XXI.- De Asuntos Fronterizos y Migratorios, la cual será nombrada en los municipios que se encuentran en la zona fronteriza del Estado;
 
-XXII.- Las demás que determine el Ayuntamiento de acuerdo con las necesidades del Municipio.
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2026)</small>
+
+XXII.- De Turismo Municipal;
+
+XXIII.- Las demás que determine el Ayuntamiento de acuerdo con las necesidades del Municipio.
 
 Para tal efecto, podrán encomendarse dos o más comisiones a cada munícipe.
 
@@ -7292,3 +7298,39 @@ El Tribunal de Justicia Administrativa del Estado de Tamaulipas, a través de su
 ###### ARTÍCULO TERCERO.
 
 En las disposiciones transitorias de las diversas leyes y códigos en las que se haga referencia a la Contraloría Gubernamental, se entenderá la Secretaría Anticorrupción y Buen Gobierno.
+
+P.O. 17 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-1002 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS Y AL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Turismo del Estado contará con un plazo de ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto para emitir las disposiciones administrativas, lineamientos y formatos necesarios para la operación del Registro Estatal de Anfitriones y Plataformas Digitales de Servicios de Hospedaje del Estado de Tamaulipas.
+
+###### ARTÍCULO TERCERO.
+
+Los anfitriones y plataformas digitales que, a la fecha de entrada en vigor de este Decreto, ya ofrezcan el servicio de Estancia Turística Eventual en el Estado de Tamaulipas, contarán con un plazo máximo de doce meses para cumplir con el registro y las obligaciones previstas en la presente Ley y su Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Durante el periodo señalado en el artículo transitorio anterior, las autoridades estatales realizarán campañas de difusión y orientación dirigidas a los anfitriones y plataformas digitales, a fin de promover su inscripción en el Registro y el cumplimiento de las disposiciones establecidas.
+
+###### ARTÍCULO QUINTO.
+
+En tanto se expiden las disposiciones reglamentarias correspondientes, continuarán aplicándose de manera supletoria las normas en materia de turismo, protección civil, salud y hacienda estatal vigentes en el Estado de Tamaulipas, en lo que no se opongan al presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Se faculta a la Secretaría de Finanzas del Estado para realizar las adecuaciones administrativas y presupuestales necesarias para garantizar la correcta aplicación de este Decreto y la integración del Registro Estatal de Anfitriones y Plataformas Digitales de Servicios de Hospedaje.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Turismo y la Secretaría de Finanzas deberán coordinarse para establecer mecanismos de intercambio de información que permitan la fiscalización del Impuesto sobre Hospedaje y demás contribuciones derivadas de la prestación del servicio de Estancia Turística Eventual.
+
+###### ARTÍCULO OCTAVO.
+
+Los cabildos municipales contarán con un plazo máximo de treinta días naturales contados a partir de la entrada en vigor del presente Decreto, para integrar e instalar la Comisión de Turismo.
