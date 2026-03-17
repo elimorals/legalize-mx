@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1808
 country: "mx"
 rank: "ley"
 publication_date: "2025-07-10"
-last_updated: "2026-01-16"
+last_updated: "2026-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180865&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2026.
 
 Ley publicada en el Número 83 del Periódico Oficial del Estado de Tamaulipas, el jueves 10 de julio de 2025.
 
@@ -2205,6 +2205,10 @@ El Instituto de Transparencia de Acceso a la Información y de Protección de Da
 
 Asimismo, el Instituto de Transparencia de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas (ITAIT), deberá entregar a la citada dependencia la información y formatos necesarios para integrar la Cuenta Pública y demás informes correspondientes al segundo trimestre, de conformidad con las disposiciones jurídicas aplicables, dentro de los treinta días naturales siguientes a la publicación del presente Decreto.
 
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2026)</small>
+
+Los requerimientos que formule la Auditoría Superior del Estado de Tamaulipas, serán atendidos con la información y documentación que haya sido proporcionada por el Instituto de Transparencia de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas, con motivo de su extinción.
+
 ###### ARTÍCULO NOVENO.
 
 Los registros, padrones y sistemas, internos y externos, con los que cuenta el Instituto de Transparencia de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas (ITAIT), así como los sistemas informáticos utilizados por dicho Instituto, incluso los que ya no se utilicen pero contengan registros históricos, incluida su documentación y titularidad, serán transferidos a la Secretaría Anticorrupción y Buen Gobierno dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto.
@@ -2216,6 +2220,10 @@ Los procedimientos iniciados con anterioridad a la entrada en vigor de éste Dec
 La defensa legal ante autoridades administrativas, jurisdiccionales y judiciales de los actos administrativos y jurídicos emitidos por el Instituto de Transparencia de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas (ITAIT), en materia de acceso a la información pública, se llevará a cabo por las autoridades garantes correspondientes.
 
 La Secretaría Anticorrupción y Buen Gobierno a través de Transparencia para el Pueblo de Tamaulipas, remitirá a las autoridades garantes competentes aquellos asuntos que se mencionan en los párrafos anteriores que les correspondan conforme al ámbito de sus atribuciones para su atención.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2026)</small>
+
+De igual forma, cualquier trámite, procedimiento o asunto que haya quedado pendiente y que derive del extinto Instituto de Transparencia de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas, en materia administrativa, civil, mercantil o en cualquier otra, será atendido por las autoridades competentes de la Secretaría Anticorrupción y Buen Gobierno o por las dependencias o entidades de la Administración Pública del Estado de Tamaulipas que resulten, conforme a sus respectivas atribuciones.
 
 ###### ARTÍCULO DÉCIMO PRIMERO.
 
@@ -2240,6 +2248,10 @@ La Secretaría Anticorrupción y Buen Gobierno dentro de los treinta días natur
 ###### ARTÍCULO DÉCIMO CUARTO.
 
 El Órgano Interno de Control del Instituto de Transparencia de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas (ITAIT), queda extinto y sus asuntos y procedimientos que a la entrada en vigor del presente Decreto estén a su cargo, así como los expedientes y archivos, serán transferidos al Órgano Interno de Control de la Secretaría Anticorrupción y Buen Gobierno dentro de los veinte días hábiles siguientes, y serán tramitados y resueltos por dicho órgano conforme a las disposiciones jurídicas vigentes al momento de su inicio.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2026)</small>
+
+Los asuntos, procedimientos, denuncias, investigaciones y demás trámites que se inicien con posterioridad a la entrada en vigor del presente Decreto, derivados de conductas que pudieran constituir faltas administrativas cometidas por quienes se hayan desempeñado como personas servidoras públicas del Instituto de Transparencia de Acceso a la Información y de Protección de Datos Personales del Estado de Tamaulipas, serán investigados, sustanciados y resueltos por las unidades administrativas competentes de la Secretaría Anticorrupción y Buen Gobierno, de conformidad con las disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO DÉCIMO QUINTO.
 
@@ -2288,6 +2300,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 16 DE ENERO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-950 MEDIANTE EL CUAL SE ADICIONAN LOS ARTÍCULOS DÉCIMO OCTAVO Y DÉCIMO NOVENO TRANSITORIOS AL DECRETO NO. 66-368, EXPEDIDO POR LA LEGISLATURA 66 CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO NÚMERO 83, DE FECHA 10 DE JULIO DE 2025”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-998 MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO OCTAVO TRANSITORIO; UN PÁRRAFO CUARTO AL ARTÍCULO DÉCIMO TRANSITORIO; Y UN PÁRRAFO SEGUNDO AL ARTÍCULO DÉCIMO CUARTO TRANSITORIO DEL DECRETO 66-368, EXPEDIDO POR LA LEGISLATURA 66 DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO NÚMERO 83, DE FECHA 10 DE JULIO DE 2025”.]
 
 ###### ARTÍCULO ÚNICO.
 
