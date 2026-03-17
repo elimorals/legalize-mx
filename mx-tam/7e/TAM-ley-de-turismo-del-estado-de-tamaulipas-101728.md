@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-turismo-del-estado-de-tamaulipas-101728"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2025-11-27"
+last_updated: "2026-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAM"
 ---
 # LEY DE TURISMO DEL ESTADO DE TAMAULIPAS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE MAYO DE 2026 EN EL P.O. DEL ESTADO DE QUINTANA ROO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE TURISMO DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 3 de julio de 2014.
 
@@ -93,6 +95,10 @@ Para los efectos de la presente Ley, se entenderá por:
 
 I. Actividades Turísticas: Las que realizan las personas durante sus viajes y estancias temporales en lugares distintos al de su entorno habitual, con fines de ocio, recreación, placer, descanso y otros motivos;
 
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2026)</small>
+
+I Bis. Anfitrión: Persona física o moral propietario o poseedor legal que pone a disposición de turistas, parcial o totalmente, un bien inmueble de uso residencial por un tiempo no mayor a 120 días naturales;
+
 II. Atlas Turístico de México: En términos de la Ley General, es el registro sistemático de carácter público de todos los bienes, recursos naturales y culturales que puedan constituirse en atractivos turísticos nacionales, sitios de interés y en general todas aquellas zonas y áreas territoriales del desarrollo del turismo;
 
 > <small>(REFORMADA, P.O. 11 DE OCTUBRE DE 2023)</small>
@@ -108,6 +114,10 @@ VI. Cultura turística: El conjunto de conocimientos y valores, relativos a la e
 VII. Municipios: Los órganos político - administrativos reconocidos por el artículo 3o de la Constitución Política del Estado de Tamaulipas;
 
 VIII. Estado: El Estado libre y soberano de Tamaulipas;
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2026)</small>
+
+VIII Bis. Estancia Turística Eventual: Servicio de estancia temporal en inmuebles de uso habitacional a cambio de una contraprestación;
 
 IX. Estudio de capacidad de carga: El estudio que realiza la Secretaría y que señala el nivel de aprovechamiento turístico de una zona determinada, de acuerdo a lo señalado en el Reglamento;
 
@@ -140,6 +150,10 @@ XIX. Registro Estatal de Turismo: Es el catálogo público de prestadores de ser
 XX. Reglamento: El Reglamento de la Ley de Turismo para el Estado de Tamaulipas;
 
 XXI. Reglamento de la Ley General: El Reglamento de la Ley General de Turismo;
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2026)</small>
+
+XXI Bis. Registro Estatal de Anfitriones y Plataformas Digitales de Servicios de Hospedaje del Estado de Tamaulipas: Registro de personas físicas o morales, mexicanas o extranjeras, que ofertan el servicio de Estancia Turística Eventual y, en su caso, cuentan con la capacidad jurídica de operar, intermediar y/o administrar una plataforma digital que oferte el mismo servicio;
 
 > <small>(REFORMADA, P.O. 13 DE DICIEMBRE DE 2016)</small>
 
@@ -807,9 +821,21 @@ En caso de declaratoria de desastre natural o de emergencia emitida por la autor
 
 La Secretaría, estimulará y promoverá entre la iniciativa privada y el sector social, la creación y fomento de cadenas productivas y redes de valor en torno a los desarrollos turísticos nuevos y existentes, con el fin de detonar la economía local y buscar el desarrollo regional.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 53.
 
-La promoción turística no deberá restringirse a los sitios del Estado que ya cuentan con un posicionamiento en la actividad, sino que deberá incluirse además los sitios con posibilidades de aprovechamiento turístico, reconocidos en el Plan Estatal de Turismo.
+1. La promoción turística no deberá restringirse a los sitios del Estado que ya cuentan con un posicionamiento en la actividad, sino que incluirá de manera prioritaria a los Pueblos Mágicos y Zonas con Tradición, así como a aquellas localidades con posibilidades de aprovechamiento turístico, reconocidas en el Plan Estatal de Turismo.
+
+2. Para tal efecto, la Secretaría de Turismo implementará programas específicos de promoción cultural y turística que contemplen:
+
+I. La difusión de su patrimonio cultural tangible e intangible, incluyendo gastronomía, artesanías, tradiciones y festividades;
+
+II. La creación de rutas turísticas temáticas que integren oferta cultural, histórica, natural y gastronómica;
+
+III. La utilización de herramientas digitales y multimedia para su proyección nacional e internacional; y
+
+IV. La participación activa de comunidades locales, autoridades municipales y sector privado a través de comités de gestión turística y cultural.
 
 ###### ARTÍCULO 54.
 
@@ -847,7 +873,9 @@ III. Cuando dichos trámites deban cumplirse en varias unidades administrativas 
 
 ## TÍTULO SÉPTIMO. DE LOS SISTEMAS DE INFORMACIÓN DE LA ACTIVIDAD TURÍSTICA
 
-### CAPÍTULO ÚNICO. DEL REGISTRO ESTATAL Y EL SISTEMA DE INFORMACIÓN TURÍSTICA
+> <small>(REFORMADO EN SU NUMERACIÓN, P.O. 17 DE MARZO DE 2026)</small>
+
+### CAPÍTULO I. DEL REGISTRO ESTATAL Y EL SISTEMA DE INFORMACIÓN TURÍSTICA
 
 ###### ARTÍCULO 55.
 
@@ -945,11 +973,147 @@ III. Se negará su renovación de inscripción al mismo.
 
 8. Los Módulos cumplirán con aquellos requisitos establecidos para los Centros de Información, que sean acordes a su dimensión física.
 
-### CAPÍTULO I. DE LOS DERECHOS Y LAS OBLIGACIONES DE LOS TURISTAS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE MARZO DE 2026)</small>
+
+### CAPÍTULO II. DEL FOMENTO AL TURISMO
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2026)</small>
+
+ARTÍCULO 68 BIS.
+
+Corresponde a la Secretaría la administración del Registro Estatal de Anfitriones y Plataformas Digitales de Servicios de Hospedaje, que tiene por fin el de:
+
+I. Identificar a las y los anfitriones y plataformas digitales que ofrezcan, proporcionen o contraten al turista el servicio de Estancia Turística Eventual en el Estado de Tamaulipas;
+
+II. Identificar los inmuebles de uso habitacional donde se brinde el servicio de Estancia Turística Eventual; y
+
+III. Integrar una base de datos confiable que permita a las autoridades vigilar el correcto funcionamiento en la prestación de este servicio, así como el pago de las contribuciones correspondientes de conformidad con la presente Ley y la Ley de Hacienda para el Estado de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2026)</small>
+
+ARTÍCULO 68 TER.
+
+Son obligaciones de los Anfitriones:
+
+I. Registrarse en el Registro Estatal de Anfitriones y Plataformas Digitales de Servicios de Hospedaje del Estado de Tamaulipas;
+
+II. Inscribir los inmuebles de uso habitacional que ponen a disposición de los turistas;
+
+III. Proporcionar a los turistas información clara, cierta y detallada de las características, precios y reglas de uso del inmueble ofertado;
+
+IV. Exhibir en un sitio visible del inmueble los números de emergencia del Estado de Tamaulipas, los números de contacto para solicitar la asistencia del Anfitrión o un representante, así como la constancia y folio del inmueble otorgado por la Secretaría;
+
+V. Proporcionar semestralmente a la Secretaría, en los meses de enero y julio de cada año, un reporte del número de ocasiones en las que se han ocupado los inmuebles, la cantidad de noches ocupadas durante el periodo a reportar; proporcionar información falsa o ser omiso en la entrega de los informes de referencia, será motivo de baja del padrón;
+
+VI. Contar con instalaciones seguras e higiénicas para el uso de los turistas;
+
+VII. Informar a los vecinos inmediatos sobre el uso turístico de los inmuebles ofertados y proporcionar números de contacto para recibir reportes sobre el mal uso o situaciones de emergencia sobre dichos inmuebles;
+
+VIII. Garantizar los requisitos de seguridad, atendiendo la normatividad en materia de gestión integral de riesgos y protección civil;
+
+IX. Cumplir con las obligaciones en materia fiscal establecidas en la normatividad aplicable;
+
+X. Registrar ante la Secretaría, en el Padrón de Anfitriones, número telefónico y correo electrónico para la recepción y solución de quejas por parte de vecinos y turistas relacionadas con el inmueble ofertado;
+
+XI. Proteger los datos personales proporcionados por los turistas en términos de lo dispuesto por la Ley de la materia;
+
+XII. Vigilar que no se ocupen las viviendas para actividades que alteren el orden público o afecten el interés social en las comunidades anfitrionas; y
+
+XIII. Las demás que se señalen en esta Ley, su Reglamento y en las demás leyes aplicables en el Estado de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2026)</small>
+
+ARTÍCULO 68 QUÁTER.
+
+Son obligaciones de las Plataformas Digitales a través de su representante legal:
+
+I. Incorporarse al Registro Estatal de Anfitriones y Plataformas Digitales de Servicios de Hospedaje del Estado de Tamaulipas y mantener vigente su registro; este tendrá una vigencia de dos años y deberá ser renovado sesenta días antes de su vencimiento;
+
+II. Solicitar a los Anfitriones la constancia y el folio de registro otorgado por la Secretaría al momento de realizar la inscripción en el Registro Estatal de Anfitriones y Plataformas Digitales de Servicios de Hospedaje del Estado de Tamaulipas como requisito indispensable para ofertar los inmuebles;
+
+III. Mostrar dentro de su plataforma, en cada anuncio, la constancia y folio del registro en el Registro Estatal de Anfitriones y Plataformas Digitales de Servicios de Hospedaje para consulta de los potenciales usuarios;
+
+IV. Proporcionar a la Secretaría semestralmente, en los meses de enero y julio, un reporte del número de ocasiones en las que se han ocupado los inmuebles, la cantidad de noches ocupadas durante el periodo a reportar, así como del número de quejas recibidas; proporcionar información falsa o ser omiso en la entrega de los informes de referencia, será motivo de baja del padrón;
+
+V. Cumplir con las obligaciones en materia fiscal establecidas en la normatividad aplicable; y
+
+VI. Las demás que se (sic) señale la normatividad aplicable del Estado de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2026)</small>
+
+ARTÍCULO 68 QUINQUIES.
+
+Para ser incorporados en este Registro, los anfitriones deberán presentar:
+
+I. Nombre, denominación o razón social y nacionalidad del anfitrión;
+
+II. Identificación oficial vigente con domicilio o Carta Bajo protesta de decir verdad que habita el domicilio donde se encuentran los cuartos o habitaciones que se ofertan en las plataformas digitales;
+
+III. Documento con el que acredita la propiedad, administración o posesión de cada uno de los inmuebles registrados;
+
+IV. Cédula de Registro Federal de Contribuyentes;
+
+V. Constancia de situación fiscal;
+
+VI. Constancias de no Adeudos de Predial y Agua, por cada inmueble registrado;
+
+VII. Comprobante de domicilio del inmueble que se inscribe;
+
+VIII. Tipo de inmueble que se inscribe;
+
+IX. Plataforma o plataformas tecnológicas en las que se ofrece cada inmueble;
+
+X. Carta bajo protesta de decir verdad en la que se indique que el inmueble cumple con las medidas de seguridad, atendiendo la normatividad en materia de gestión integral de riesgos y protección civil, por cada inmueble registrado;
+
+XI. Acuse de notificación a la Asamblea General de Condóminos de la prestación del servicio de Estancia Turística Eventual en caso de que el inmueble se encuentre al interior de un condominio;
+
+XII. Caratula de la póliza o documento que acredite que el inmueble cuenta con seguro de responsabilidad civil suficiente que cubra posibles riesgos en la prestación de los servicios, por cada inmueble registrado, cuando cuente con éste;
+
+XIII. Número telefónico y correo electrónico para recibir y resolver quejas respecto al uso de los inmuebles por parte de vecinos y turistas, por cada inmueble registrado; y
+
+XIV. Los demás establecidas (sic) en el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2026)</small>
+
+ARTÍCULO 68 SEXIES.
+
+Por cada inmueble que se incorpore al padrón se expedirá una constancia y folio. Dicho folio deberá registrarse en la o las plataformas en las que se oferte el inmueble. La vigencia de este registro es por un año y deberá renovarse dentro de los sesenta días naturales previos a su expiración.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2026)</small>
+
+ARTÍCULO 68 SEPTIES.
+
+Para ser incorporadas en este Registro, las plataformas tecnológicas deberán presentar:
+
+I. Nombre, denominación o razón social y nacionalidad de la plataforma;
+
+II. Documento con el que acredita su constitución;
+
+III. Documento que acredite la personalidad del representante legal que realiza el trámite;
+
+IV. Cédula de Registro Federal de Contribuyentes de la Plataforma digital;
+
+V. Constancia de situación fiscal;
+
+VI. Comprobante de domicilio;
+
+VII. Número telefónico y correo electrónico para recibir y resolver quejas por parte de vecinos y turistas;
+
+VIII. Caratula de la póliza de Seguro de responsabilidad civil contratado con una aseguradora acreditada ante la Comisión Nacional de Seguros y Fianzas; y
+
+IX. Los demás establecidas (sic) en la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2026)</small>
+
+ARTÍCULO 61 (SIC) OCTIES.
+
+1. Las personas físicas o morales mexicanas, extranjeras, que operan, intermedian y/o administran una Plataforma Tecnológica y los intermediarios, en su calidad de gestores o administradores, serán obligados solidarios de los Anfitriones respecto al pago del Impuesto sobre Hospedaje y por aquellas sanciones relacionadas a los servicios de Estancia Turística Eventual que los Anfitriones hayan proporcionado o contratado a través de dicha Plataforma Tecnológica.
+
+2. Las personas físicas o morales que operan intermedian y/o administran Plataformas Tecnológicas quedarán exentas de dicha responsabilidad cuando acrediten que el Anfitrión o intermediario actuó de mala fe o hizo mal uso de la Plataforma Tecnológica.
 
 ## TÍTULO OCTAVO. DE LOS DERECHOS Y OBLIGACIONES DE LOS TURISTAS Y DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
-### CAPÍTULO II. DE LOS DERECHOS Y LAS OBLIGACIONES DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+### CAPÍTULO I. DE LOS DERECHOS Y LAS OBLIGACIONES DE LOS TURISTAS
 
 ###### ARTÍCULO 69.
 
@@ -997,7 +1161,7 @@ VII. Proporcionar al prestador de servicios turísticos los datos de entrada, pe
 
 VIII. Cualquier otra que contemple la Ley General, la Ley, su Reglamento u otras disposiciones aplicables.
 
-### CAPÍTULO ÚNICO. DE LA PRESTACIÓN DE SERVICIOS TURÍSTICOS
+### CAPÍTULO II. DE LOS DERECHOS Y LAS OBLIGACIONES DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
 ###### ARTÍCULO 71.
 
@@ -1087,7 +1251,7 @@ III. Notificar a las autoridades correspondientes, en caso de advertir la posibl
 
 ## TÍTULO NOVENO. DE LA PRESTACIÓN DE LOS SERVICIOS TURÍSTICOS
 
-### CAPÍTULO ÚNICO. DE LA CAPACITACIÓN Y ADIESTRAMIENTO DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
+### CAPÍTULO ÚNICO. DE LA PRESTACIÓN DE SERVICIOS TURÍSTICOS
 
 ###### ARTÍCULO 73.
 
@@ -1161,7 +1325,7 @@ El prestador de servicios turísticos que brinde un servicio en un área natural
 
 ## TÍTULO DÉCIMO. DE LA CAPACITACIÓN Y ADIESTRAMIENTO DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
-### CAPÍTULO ÚNICO. DE LA VERIFICACIÓN, SANCIONES Y RECURSO DE REVISIÓN
+### CAPÍTULO ÚNICO. DE LA CAPACITACIÓN Y ADIESTRAMIENTO DE LOS PRESTADORES DE SERVICIOS TURÍSTICOS
 
 ###### ARTÍCULO 80.
 
@@ -1180,6 +1344,8 @@ La Secretaría llevará un registro de las instituciones educativas establecidas
 La Secretaría celebrará los acuerdos de coordinación y cooperación necesarios con las autoridades educativas y con otros organismos privados o sociales que impartan educación o capacitación en materia turística para promover la formación de profesionales y técnicos en las ramas de la actividad turística y la capacitación adecuada de los recursos humanos existentes.
 
 ## TÍTULO UNDÉCIMO. DE LA VERIFICACIÓN, SANCIONES Y RECURSO DE REVISIÓN
+
+### CAPÍTULO ÚNICO. DE LA VERIFICACIÓN, SANCIONES Y RECURSO DE REVISIÓN
 
 ###### ARTÍCULO 84.
 
@@ -1376,3 +1542,39 @@ P.O. 27 DE NOVIEMBRE DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación (sic) el Periódico Oficial del Estado.
+
+P.O. 17 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-1002 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TURISMO DEL ESTADO DE TAMAULIPAS Y AL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Turismo del Estado contará con un plazo de ciento ochenta días naturales a partir de la entrada en vigor del presente Decreto para emitir las disposiciones administrativas, lineamientos y formatos necesarios para la operación del Registro Estatal de Anfitriones y Plataformas Digitales de Servicios de Hospedaje del Estado de Tamaulipas.
+
+###### ARTÍCULO TERCERO.
+
+Los anfitriones y plataformas digitales que, a la fecha de entrada en vigor de este Decreto, ya ofrezcan el servicio de Estancia Turística Eventual en el Estado de Tamaulipas, contarán con un plazo máximo de doce meses para cumplir con el registro y las obligaciones previstas en la presente Ley y su Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Durante el periodo señalado en el artículo transitorio anterior, las autoridades estatales realizarán campañas de difusión y orientación dirigidas a los anfitriones y plataformas digitales, a fin de promover su inscripción en el Registro y el cumplimiento de las disposiciones establecidas.
+
+###### ARTÍCULO QUINTO.
+
+En tanto se expiden las disposiciones reglamentarias correspondientes, continuarán aplicándose de manera supletoria las normas en materia de turismo, protección civil, salud y hacienda estatal vigentes en el Estado de Tamaulipas, en lo que no se opongan al presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Se faculta a la Secretaría de Finanzas del Estado para realizar las adecuaciones administrativas y presupuestales necesarias para garantizar la correcta aplicación de este Decreto y la integración del Registro Estatal de Anfitriones y Plataformas Digitales de Servicios de Hospedaje.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Turismo y la Secretaría de Finanzas deberán coordinarse para establecer mecanismos de intercambio de información que permitan la fiscalización del Impuesto sobre Hospedaje y demás contribuciones derivadas de la prestación del servicio de Estancia Turística Eventual.
+
+###### ARTÍCULO OCTAVO.
+
+Los cabildos municipales contarán con un plazo máximo de treinta días naturales contados a partir de la entrada en vigor del presente Decreto, para integrar e instalar la Comisión de Turismo.
