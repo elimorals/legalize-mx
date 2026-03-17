@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2026-03-09"
+last_updated: "2026-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -5069,7 +5069,9 @@ II.- Cuando el embarazo haya sido resultado de una violación; y
 
 III.- Cuando de no provocarse el aborto, la mujer embarazada corra peligro de muerte o de un grave daño a su salud a juicio del médico que la asista, oyendo éste la opinión de otro médico, siempre que esto fuere posible y no sea peligrosa la demora.
 
-### CAPITULO IX
+### CAPITULO VIII BIS. ABANDONO DE MUJER EMBARAZADA O PERSONA GESTANTE
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2026)</small>
 
 ###### ARTICULO 362.
 
@@ -5107,25 +5109,23 @@ Al que encuentre abandonado en cualquier sitio a un menor incapaz de cuidarse a 
 
 El automovilista, motorista, conductor de un vehículo cualquiera, ciclista o jinete, que deje en estado de abandono, sin prestar o facilitar asistencia a la persona a quien atropelló por culpa o accidente, se le impondrá una sanción de dos meses a un año de prisión.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 17 DE MARZO DE 2026)</small>
+
+### CAPITULO IX
+
+###### ARTICULO 365 Bis.
+
+Se impondrá de uno a cinco años de prisión y multa de ciento cincuenta a quinientas veces el valor diario de la Unidad de Medida y Actualización, a quien, a pesar de contar con recursos materiales a su disposición para su subsistencia, abandone a una mujer o persona gestante a la que sabe ha embarazado, si esta carece de los recursos necesarios para atender a su alimentación, habitación y salud.
+
+Cuando, derivado del abandono, se causen lesiones o se haya puesto en riesgo la salud de la mujer embarazada, de la persona gestante o del producto concebido, la pena se incrementará hasta un tercio más en su mínimo y máximo.
+
+Si a consecuencia de las lesiones derivadas del abandono se produjera la muerte de la mujer embarazada, de la persona gestante o del producto concebido, la pena se incrementará hasta en una mitad más en su mínimo y máximo.
+
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
 ### CAPITULO X. VIOLENCIA FAMILIAR
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2025)</small>
-
-### CAPÍTULO XI. VIOLENCIA EN LOS ESPECTÁCULOS DEPORTIVOS
-
-> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2016)</small>
-
-ARTÍCULO 368 SEXIES.- Comete el delito de violencia en espectáculos deportivos, quién en un evento deportivo, encontrándose en el interior de un estadio o recinto utilizado para ese fin o en los espacios de estacionamiento o calles circundantes inmediatas al mismo, cometa por sí o incite a otros a cometer actos que produzcan lesiones a terceros o daños a bienes muebles o inmuebles.
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
-
-Se castigará con prisión de uno a cuatro años y multa de diez a ochenta veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de las sanciones a que se haya hecho acreedor por la comisión de diverso delito.
-
-> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2016)</small>
-
-ARTÍCULO 368 SEPTIES.- Además de las sanciones previstas en este Capítulo, a juicio del juez se podrá prohibir al inculpado asistir a estadios o recintos de espectáculos deportivos por un término de seis meses a cuatro años, en cuyo caso se ordenará la publicación especial de sentencia.
 
 ###### ARTICULO 366.
 
@@ -5141,7 +5141,19 @@ ARTÍCULO 368 SEPTIES.- Además de las sanciones previstas en este Capítulo, a 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE JUNIO DE 2008)</small>
 
-### CAPITULO I. GOLPES Y VIOLENCIAS FISICAS SIMPLES
+### CAPÍTULO XI. VIOLENCIA EN LOS ESPECTÁCULOS DEPORTIVOS
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2016)</small>
+
+ARTÍCULO 368 SEXIES.- Comete el delito de violencia en espectáculos deportivos, quién en un evento deportivo, encontrándose en el interior de un estadio o recinto utilizado para ese fin o en los espacios de estacionamiento o calles circundantes inmediatas al mismo, cometa por sí o incite a otros a cometer actos que produzcan lesiones a terceros o daños a bienes muebles o inmuebles.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+
+Se castigará con prisión de uno a cuatro años y multa de diez a ochenta veces el valor diario de la Unidad de Medida y Actualización, sin perjuicio de las sanciones a que se haya hecho acreedor por la comisión de diverso delito.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2016)</small>
+
+ARTÍCULO 368 SEPTIES.- Además de las sanciones previstas en este Capítulo, a juicio del juez se podrá prohibir al inculpado asistir a estadios o recintos de espectáculos deportivos por un término de seis meses a cuatro años, en cuyo caso se ordenará la publicación especial de sentencia.
 
 ###### ARTICULO 368 Bis.
 
@@ -5297,11 +5309,11 @@ ARTÍCULO 368 QUINQUIES 3.- Al servidor público que retarde o entorpezca malici
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE JUNIO DE 2016)</small>
 
-### CAPITULO II. INJURIAS
+### CAPITULO I. GOLPES Y VIOLENCIAS FISICAS SIMPLES
 
 ## TITULO DECIMO SEPTIMO. DELITOS CONTRA EL HONOR
 
-### CAPITULO III. DIFAMACION
+### CAPITULO II. INJURIAS
 
 ###### ARTICULO 369.
 
@@ -5345,7 +5357,7 @@ En caso de que el psicólogo observe una conducta extremadamente peligrosa y vio
 
 En los casos en que no se cuente con servicios psicológicos o psiquiátricos, el Juez enviará al responsable del delito al municipio donde se pueda practicar dicho tratamiento y las costas que de esto se deriven, serán cubiertas en su totalidad por el sujeto tratado.
 
-### CAPITULO IV. CALUMNIA
+### CAPITULO III. DIFAMACION
 
 ###### ARTICULO 372.
 
@@ -5355,9 +5367,7 @@ En los casos en que no se cuente con servicios psicológicos o psiquiátricos, e
 
 (DEROGADO, P.O. 30 DE DICIEMBRE DE 2004)
 
-### CAPITULO V. DISPOSICIONES COMUNES A LOS ARTICULOS PRECEDENTES
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
+### CAPITULO IV. CALUMNIA
 
 ###### ARTICULO 374.
 
@@ -5375,7 +5385,9 @@ En los casos en que no se cuente con servicios psicológicos o psiquiátricos, e
 
 (DEROGADO, P.O. 4 DE JULIO DE 2007)
 
-### CAPITULO I. PRIVACION ILEGAL DE LA LIBERTAD Y DE OTRAS GARANTIAS
+### CAPITULO V. DISPOSICIONES COMUNES A LOS ARTICULOS PRECEDENTES
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
 
 ###### ARTICULO 378.
 
@@ -5397,11 +5409,7 @@ En los casos en que no se cuente con servicios psicológicos o psiquiátricos, e
 
 (DEROGADO, P.O. 4 DE JULIO DE 2007)
 
-### CAPITULO I BIS. PRIVACION DE LA LIBERTAD CON FINES SEXUALES
-
-ARTICULO 390 BIS.- (DEROGADO, P.O. 27 DE FEBRERO DE 2026)
-
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE OCTUBRE DE 2020)</small>
+### CAPITULO I. PRIVACION ILEGAL DE LA LIBERTAD Y DE OTRAS GARANTIAS
 
 ###### ARTICULO 383.
 
@@ -5425,9 +5433,11 @@ No se podrá proceder contra el responsable de los delitos de golpes y violencia
 
 ## TITULO DECIMO OCTAVO. DELITOS CONTRA LA SEGURIDAD EN EL GOCE DE GARANTIAS
 
-### CAPITULO I TER. CIBERACOSO
+### CAPITULO I BIS. PRIVACION DE LA LIBERTAD CON FINES SEXUALES
 
-> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2020)</small>
+ARTICULO 390 BIS.- (DEROGADO, P.O. 27 DE FEBRERO DE 2026)
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE OCTUBRE DE 2020)</small>
 
 ###### ARTICULO 388.
 
@@ -5453,9 +5463,11 @@ II.- Al que celebre con otro un contrato que prive a éste de la libertad, o le 
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE ABRIL DE 2017)</small>
 
-### CAPITULO II. DESAPARICION FORZADA DE PERSONAS
+### CAPITULO I TER. CIBERACOSO
 
-### CAPITULO III. RAPTO
+> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2020)</small>
+
+### CAPITULO II. DESAPARICION FORZADA DE PERSONAS
 
 ###### ARTICULO 390 Ter.
 
@@ -5469,7 +5481,7 @@ Misma sanción se impondrá a quien habiendo hecho contacto con una persona meno
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE OCTUBRE DE 2018)</small>
 
-### CAPITULO I. ROBO
+### CAPITULO III. RAPTO
 
 ###### ARTICULO 391.
 
@@ -5493,9 +5505,7 @@ ARTICULO 392 TER.- (DEROGADO, P.O. 23 DE OCTUBRE DE 2018)
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
-### CAPÍTULO I BIS. ABIGEATO
-
-> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2026)</small>
+### CAPITULO I. ROBO
 
 ###### ARTICULO 394.
 
@@ -5521,7 +5531,9 @@ ARTICULO 392 TER.- (DEROGADO, P.O. 23 DE OCTUBRE DE 2018)
 
 ## TITULO DECIMO NOVENO. DELITOS CONTRA EL PATRIMONIO DE LAS PERSONAS
 
-### CAPITULO II. ABUSO DE CONFIANZA
+### CAPÍTULO I BIS. ABIGEATO
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2026)</small>
 
 ###### ARTICULO 399.
 
@@ -5731,7 +5743,7 @@ No se impondrá sanción al que sin emplear engaños ni medios violentos, se apo
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2026)</small>
 
-### CAPITULO III. FRAUDE
+### CAPITULO II. ABUSO DE CONFIANZA
 
 ###### ARTÍCULO 413 Bis.
 
@@ -5887,9 +5899,7 @@ Para la aplicación de las sanciones previstas en los artículos 413 Septies y 4
 
 A quien incurra en forma reincidente o en habitualidad en las conductas tipificadas como delito en el presente Capítulo, además de la pena que le corresponda aplicar por el delito cometido, se le aumentará hasta en una mitad más de la pena marcada según el caso.
 
-### CAPITULO IV. USURA
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+### CAPITULO III. FRAUDE
 
 ###### ARTICULO 414.
 
@@ -5921,7 +5931,9 @@ II.- Cuando el depositario judicial o el designado por o ante las autoridades ad
 
 III.- Cuando una persona haga aparecer como suyo un depósito que garantice la libertad caucional de un procesado y del cual no le corresponda la propiedad.
 
-### CAPITULO V. CHANTAJE
+### CAPITULO IV. USURA
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 ###### ARTICULO 417.
 
@@ -6015,9 +6027,7 @@ ARTICULO 421 BIS.- Comete el delito de fraude familiar, la persona que en detrim
 
 ARTICULO 421 TER.- Al responsable del delito de fraude familiar se le impondrá sanción de uno a cinco años de prisión y hasta trescientos días multa.
 
-### CAPITULO VI. EXTORSION
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2025)</small>
+### CAPITULO V. CHANTAJE
 
 ###### ARTICULO 422.
 
@@ -6033,7 +6043,9 @@ Al responsable del delito previsto en el artículo anterior se le impondrá de s
 
 Igual sanción se aplicará al que procurase un préstamo cualquiera cobrando una comisión evidentemente desproporcionada para sí o para otro.
 
-### CAPITULO VII. DESPOJO DE COSAS INMUEBLES O DE AGUAS
+### CAPITULO VI. EXTORSION
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2025)</small>
 
 ###### ARTICULO 424.
 
@@ -6043,9 +6055,7 @@ Comete el delito de chantaje, el que con ánimo de conseguir un lucro o provecho
 
 Al responsable del delito de chantaje se le impondrá una sanción de dos a ocho años de prisión.
 
-### CAPITULO VIII. DAÑO EN PROPIEDAD
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+### CAPITULO VII. DESPOJO DE COSAS INMUEBLES O DE AGUAS
 
 ###### ARTÍCULO 426.
 
@@ -6105,7 +6115,9 @@ Se equipara al delito de extorsión y se sancionará con las mismas penas al que
 
 Se equipara al delito de extorsión y se sancionará con las mismas penas al que utilice programas informáticos maliciosos, en este caso malware, que impiden a que un usuario acceda a su sistema operativo o algún (os) archivo (os) personal (es), para después solicitar un rescate para acceder de nuevo a ellos y que ocasione la retención de datos personales, financieros o de propiedad intelectual y para devolvérselos a la víctima, esta tenga que realizar un pago, o realizar alguna acción en contra de su voluntad, siendo esto un lucro o beneficio a favor de su victimario.
 
-### CAPITULO IX. REGLAS COMUNES PARA LOS CAPITULOS PRECEDENTES
+### CAPITULO VIII. DAÑO EN PROPIEDAD
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 427.
 
@@ -6157,7 +6169,7 @@ III.- Cuando el despojo se realice sobre terreno de labor preparado para siembra
 
 Cuando la ocupación se haya efectuado sin violencia y el o los ocupantes voluntariamente restituyan al poseedor en el goce de su derecho, antes que el Ministerio Público ejerza la acción persecutoria, no se impondrá sanción alguna, si no hubieren cometido algún hecho delictivo diverso al realizar la ocupación o durante la misma.
 
-### CAPITULO I. ENCUBRIMIENTO
+### CAPITULO IX. REGLAS COMUNES PARA LOS CAPITULOS PRECEDENTES
 
 ###### ARTICULO 433.
 
@@ -6187,6 +6199,22 @@ III.- El daño se cauce para evadir la persecución o desempeño de las fuerzas 
 
 Si además de los daños resulta consumado algún otro delito se observarán las reglas del concurso.
 
+### CAPITULO I. ENCUBRIMIENTO
+
+###### ARTICULO 437.
+
+Los delitos previstos en este título se perseguirán por querella de la parte ofendida cuando sean cometidos por un ascendiente, descendiente, cónyuge, parientes por consanguinidad hasta el segundo grado; concubina, o concubinario, adoptante o adoptado y parientes por afinidad, asimismo, hasta el segundo grado. Igualmente se requerirá querella para la persecución de terceros que hubiesen incurrido en la ejecución del delito con los sujetos referidos anteriormente. Si se cometiere algún otro hecho que por sí solo constituya un delito, se aplicará la sanción que para éste señale la Ley.
+
+> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+
+###### ARTICULO 438.
+
+Los delitos de abuso de confianza, fraude, fraude laboral, despojo de cosas inmuebles o de aguas y daño en propiedad, se perseguirán a instancia de parte ofendida. El delito de extorsión se perseguirá de oficio, con excepción de los supuestos establecidos en el artículo anterior.
+
+## TITULO VIGESIMO. ENCUBRIMIENTO
+
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 30 DE DICIEMBRE DE 2004)</small>
+
 ### CAPITULO II. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
 > <small>(REFORMADO, P.O. 21 DE ABRIL DE 2017)</small>
@@ -6214,36 +6242,6 @@ Además, se les impondrá inhabilitación para desempeñar empleo, cargo o comis
 Asimismo, las penas previstas en este Capítulo se aumentarán hasta en una mitad si quien realice cualquiera de las conductas previstas en el artículo 443 Bis, fracciones I y II, utiliza a personas menores de dieciocho años de edad o personas que no tienen capacidad para comprender el significado del hecho o que no tienen capacidad para resistirlo.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE ABRIL DE 2017)</small>
-
-###### ARTICULO 437.
-
-Los delitos previstos en este título se perseguirán por querella de la parte ofendida cuando sean cometidos por un ascendiente, descendiente, cónyuge, parientes por consanguinidad hasta el segundo grado; concubina, o concubinario, adoptante o adoptado y parientes por afinidad, asimismo, hasta el segundo grado. Igualmente se requerirá querella para la persecución de terceros que hubiesen incurrido en la ejecución del delito con los sujetos referidos anteriormente. Si se cometiere algún otro hecho que por sí solo constituya un delito, se aplicará la sanción que para éste señale la Ley.
-
-> <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
-
-###### ARTICULO 438.
-
-Los delitos de abuso de confianza, fraude, fraude laboral, despojo de cosas inmuebles o de aguas y daño en propiedad, se perseguirán a instancia de parte ofendida. El delito de extorsión se perseguirá de oficio, con excepción de los supuestos establecidos en el artículo anterior.
-
-## TITULO VIGESIMO. ENCUBRIMIENTO
-
-> <small>(REFORMADA SU NUMERACIÓN, P.O. 30 DE DICIEMBRE DE 2004)</small>
-
-### CAPITULO III. ENCUBRIMIENTO POR RECEPTACION
-
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
-
-ARTICULO 443 TER.- Se impondrá una sanción de dos a siete años de prisión, y de cincuenta a ciento veinte veces el valor diario de la Unidad de Medida y Actualización, a quien después de la ejecución de un delito y sin haber participado en él, adquiera, posea, desmantele, venda, enajene, comercialice, trafique, pignore, reciba, traslade, use u oculte el o los instrumentos, objetos o productos de aquél, con conocimiento de esta circunstancia, si el valor de cambio no excede de quinientas veces la Unidad de Medida y Actualización vigente en la época de los hechos.
-
-Si el valor de éstos es superior a quinientas veces la Unidad de Medida y Actualización vigente en la época de los hechos, se impondrá una sanción de cinco a diez años de prisión y de doscientos a mil quinientas veces el valor diario de la Unidad de Medida y Actualización.
-
-Cuando el o los instrumentos, objetos o productos de un delito se relacionan con el giro comercial del tenedor o receptor, si éste es comerciante o sin serlo se encuentra en posesión de dos o más de los mismos, se tendrá por acreditado que existe conocimiento de que proviene o provienen de un ilícito.
-
-Si el que recibió en venta, prenda o bajo cualquier otro concepto el instrumento, objeto o producto de un delito, después de su ejecución, sin haber participado en él y no adoptó las precauciones indispensables para cerciorarse de su procedencia o para asegurarse de que la persona de quien la recibió tenía derecho para disponer de ella, se le impondrán las penas previstas en el primer párrafo de este artículo, en la proporción correspondiente al delito culposo.
-
-En ningún caso podrá imponerse pena privativa de libertad que exceda del máximo que la ley señale al delito encubierto.
-
-> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2015)</small>
 
 ###### ARTICULO 439.
 
@@ -6297,19 +6295,31 @@ III.- Los que estén ligados con la persona acusada por respeto, gratitud, estre
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
+### CAPITULO III. ENCUBRIMIENTO POR RECEPTACION
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2017)</small>
+
+ARTICULO 443 TER.- Se impondrá una sanción de dos a siete años de prisión, y de cincuenta a ciento veinte veces el valor diario de la Unidad de Medida y Actualización, a quien después de la ejecución de un delito y sin haber participado en él, adquiera, posea, desmantele, venda, enajene, comercialice, trafique, pignore, reciba, traslade, use u oculte el o los instrumentos, objetos o productos de aquél, con conocimiento de esta circunstancia, si el valor de cambio no excede de quinientas veces la Unidad de Medida y Actualización vigente en la época de los hechos.
+
+Si el valor de éstos es superior a quinientas veces la Unidad de Medida y Actualización vigente en la época de los hechos, se impondrá una sanción de cinco a diez años de prisión y de doscientos a mil quinientas veces el valor diario de la Unidad de Medida y Actualización.
+
+Cuando el o los instrumentos, objetos o productos de un delito se relacionan con el giro comercial del tenedor o receptor, si éste es comerciante o sin serlo se encuentra en posesión de dos o más de los mismos, se tendrá por acreditado que existe conocimiento de que proviene o provienen de un ilícito.
+
+Si el que recibió en venta, prenda o bajo cualquier otro concepto el instrumento, objeto o producto de un delito, después de su ejecución, sin haber participado en él y no adoptó las precauciones indispensables para cerciorarse de su procedencia o para asegurarse de que la persona de quien la recibió tenía derecho para disponer de ella, se le impondrán las penas previstas en el primer párrafo de este artículo, en la proporción correspondiente al delito culposo.
+
+En ningún caso podrá imponerse pena privativa de libertad que exceda del máximo que la ley señale al delito encubierto.
+
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2015)</small>
+
 ### CAPÍTULO ÚNICO
-
-### CAPITULO UNICO. DELITOS COMETIDOS POR FRACCIONADORES
-
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2008)</small>
 
 ## TÍTULO VIGÉSIMO PRIMERO
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JUNIO DE 2015)</small>
 
-### CAPITULO I. DAÑO AL MEDIO AMBIENTE
+### CAPITULO UNICO. DELITOS COMETIDOS POR FRACCIONADORES
 
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2008)</small>
 
 ###### ARTICULO 444.
 
@@ -6357,7 +6367,7 @@ III.- Los que estén ligados con la persona acusada por respeto, gratitud, estre
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 2008)</small>
 
-### CAPITULO II. DELITO DE INCENDIOS
+### CAPITULO I. DAÑO AL MEDIO AMBIENTE
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -6441,7 +6451,7 @@ Los responsables de los delitos contenidos en el presente Capítulo por haber ac
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
 
-### CAPITULO III. CONTAMINACION DE AGUAS
+### CAPITULO II. DELITO DE INCENDIOS
 
 > <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
@@ -6493,9 +6503,9 @@ III. Con motivo de auditorías, visitas de verificación o inspección, prevista
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
 
-### CAPITULO IV. SUBSTRACCION DEL SUELO
+### CAPITULO III. CONTAMINACION DE AGUAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 462.
 
@@ -6529,9 +6539,9 @@ Cuando se afecte un área igual o mayor a cinco hectáreas, o recursos forestale
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
 
-### CAPITULO V. PRIVACION DE LA VIDA, MALTRATO O CRUELDAD ANIMAL
+### CAPITULO IV. SUBSTRACCION DEL SUELO
 
-> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 ###### ARTICULO 464.
 
@@ -6553,9 +6563,9 @@ Al responsable de la comisión del delito de contaminación de aguas previsto en
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 5 DE JUNIO DE 2008)</small>
 
-### CAPITULO VI. DISPOSICIONES COMUNES A LOS CAPITULOS PRECEDENTES
+### CAPITULO V. PRIVACION DE LA VIDA, MALTRATO O CRUELDAD ANIMAL
 
-> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2016)</small>
 
 ###### ARTICULO 466.
 
@@ -6585,9 +6595,9 @@ Comete el delito de privación de la vida, lesiones, malos tratos, crueldad o to
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE ABRIL DE 2016)</small>
 
-### CAPITULO I. DE LA SUSTRACCIÓN, APROPIACIÓN DEL AGUA Y OTROS DELITOS RELACIONADOS
+### CAPITULO VI. DISPOSICIONES COMUNES A LOS CAPITULOS PRECEDENTES
 
-> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2023)</small>
+> <small>(ADICIONADO, P.O. 5 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 468.
 
@@ -6644,6 +6654,10 @@ Son excluyentes de delito las lesiones o muerte del animal, que se causen con la
 Los delitos señalados en el presente Capítulo se perseguirán de oficio.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE JUNIO DE 2008)</small>
+
+### CAPITULO I. DE LA SUSTRACCIÓN, APROPIACIÓN DEL AGUA Y OTROS DELITOS RELACIONADOS
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2023)</small>
 
 ###### ARTICULO 472.
 
@@ -8238,3 +8252,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 La Secretaría de Salud del Gobierno del Estado, emitirá en un plazo no mayor a 90 días naturales los lineamientos necesarios para la aplicación de lo dispuesto en el artículo 45 Ter del Artículo Primero del presente Decreto.
+
+P.O. 17 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1000 MEDIANTE EL CUAL SE ADICIONAN EL CAPÍTULO VIII BIS AL TÍTULO DÉCIMO SEXTO DEL LIBRO SEGUNDO; Y EL ARTÍCULO 365 BIS, AL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
