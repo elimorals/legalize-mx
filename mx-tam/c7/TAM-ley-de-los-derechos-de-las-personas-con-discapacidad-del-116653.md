@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-con-discapacidad-del-116653
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-27"
-last_updated: "2025-10-22"
+last_updated: "2026-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2026.
 
 Ley publicada en el Número 115 del Periódico Oficial del Estado de Tamaulipas, el martes 27 de septiembre de 2016.
 
@@ -342,6 +342,12 @@ A los ayuntamientos les corresponderán las demás acciones que contribuyan a po
 ###### ARTÍCULO 9.
 
 Todas las Autoridades de la Administración Pública del Estado de Tamaulipas, en el ámbito de sus respectivas competencias, están obligadas a programar y ejecutar acciones específicas, así como incorporar dentro de su estructura orgánica un área especializada de atención encargada de la formulación de protocolos de atención con base al modelo social, a favor de la promoción y protección de los derechos de las personas con discapacidad, previendo en todo momento el costo de tales acciones, el cual deberá ser previsto e integrado en sus respectivos presupuestos de egresos de cada año.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2026)</small>
+
+ARTÍCULO 9 BIS.
+
+Diseñar, implementar y mantener programas permanentes de capacitación, formación y sensibilización para el personal del sector público y fomentar su implementación en el sector privado, con el fin de garantizar un trato digno, accesible, respetuoso e inclusivo hacia las personas con discapacidad, conforme al modelo social y de derechos humanos.
 
 ### CAPÍTULO II. DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD
 
@@ -1522,3 +1528,15 @@ P.O. 22 DE OCTUBRE DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 66-1001 MEDIANTE EL CUAL SE ADICIONA UN ARTÍCULO 9 BIS, A LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La implementación de lo dispuesto en el presente decreto se realizará conforme a la disponibilidad presupuestal y a los mecanismos de planeación existentes desarrollados por las áreas competentes.
