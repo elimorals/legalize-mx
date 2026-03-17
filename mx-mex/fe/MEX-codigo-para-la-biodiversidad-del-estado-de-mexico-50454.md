@@ -4,7 +4,7 @@ identifier: "MEX-codigo-para-la-biodiversidad-del-estado-de-mexico-50454"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-03"
-last_updated: "2025-12-17"
+last_updated: "2026-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE MARZO DE 2026.
 
 Código publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el miércoles 3 de mayo de 2006.
 
@@ -419,6 +419,10 @@ XLII. Normas técnicas estatales: El conjunto de reglas, parámetros científico
 
 XLIII. Ordenamiento ecológico: El instrumento de política ambiental cuyo objetivo es regular o inducir el buen uso del suelo y las actividades productivas en el territorio del Estado con el fin de lograr la protección, el uso, la conservación, la preservación de la biodiversidad y el aprovechamiento sostenible de los elementos y recursos naturales a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos;
 
+> <small>(ADICIONADA, G.G. 17 DE MARZO DE 2026)</small>
+
+XLIII Bis. Panteones Ecológicos: A las zonas de preservación ecológica de los centros de población, destinadas a la inhumación legal de restos humanos, a partir de acciones ecológicas y ambientalmente responsables, como entierros ecológicos o naturales, nichos verdes y aquellas prácticas que contribuyan a la preservación y restauración del suelo minimizando el impacto ambiental, utilizando materiales biodegradables en lugar de bóvedas de hormigón o metales, labores para plantar árboles o reforestación en los sitios de disposición, evitando embalsamamientos químicos y favoreciendo la reincorporación natural del cuerpo a la tierra, de manera que el lugar de entierro se transforme en un hábitat o bosque conservado;
+
 XLIV. Planeación ambiental: La formulación, instrumentación, control y evaluación de acciones gubernamentales y no gubernamentales que se dirijan para lograr el ordenamiento ecológico correcto;
 
 > <small>(ADICIONADA, G.G. 21 DE FEBRERO DE 2025)</small>
@@ -584,6 +588,12 @@ IX. Evaluar y dictaminar en la competencia estatal el impacto ambiental de los p
 > <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
 
 X. Expedir los lineamientos necesarios para la regulación, administración y vigilancia de las áreas naturales protegidas del Estado;
+
+> <small>(ADICIONADA, G.G. 17 DE MARZO DE 2026)</small>
+
+X Bis. Promover, en coordinación con las autoridades de salud estatales y municipales, el establecimiento de zonas de preservación ecológica de los centros de población, con categoría de Panteones Ecológicos, así como la práctica de actividades legales de inhumación ecológicas y ambientalmente responsables.
+
+Estos espacios se regirán por la legislación aplicable en materia de panteones, cementerios, servicios funerarios, crematorios, fosas comunes y los relativos a cualquier espacio destinado a la inhumación, en concordancia con la Ley General de Salud y demás disposiciones jurídicas aplicables;
 
 XI. Atender coordinadamente con la Federación los asuntos que afecten a la biodiversidad, el equilibrio ecológico del Estado y otra u otras Entidades Federativas en la prevención y control de emergencias o contingencias ambientales;
 
@@ -1621,11 +1631,31 @@ En los parques estatales sólo podrá permitirse la realización de actividades 
 
 98. Los paisajes protegidos se constituirán sobre áreas de tipo mixto, naturales, modificadas o cultivadas de valor estético, recreativo o cultural para mantener el paisaje de poblados tradicionales y su entorno, así como en ambientes rurales o semiurbanos que requieran ser preservados y conservados. En tales áreas se podrá autorizar la realización de las actividades propias de las comunidades previamente asentadas, así como las relativas a la recreación, la cultura, la preservación o restauración de sus ecosistemas y aspectos arquitectónicos siempre y cuando sean congruentes con el programa de manejo que al efecto se emita y los objetivos de protección del decreto correspondiente. Los paisajes protegidos se exceptúan de lo establecido por la parte final del artículo 2.91.
 
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.G. 17 DE MARZO DE 2026)</small>
 
 ###### Artículo 2.
 
-99.- Las zonas de preservación ecológica de los centros de población se integran por los parques, corredores, andadores, camellones, y en general cualquier área de uso público en zonas industriales o circunvecinas de los asentamientos humanos en las que existan ecosistemas en buen estado que se destinen a preservar los elementos naturales indispensables para el equilibrio ecológico y el bienestar de la población de la localidad correspondiente. Tales áreas quedan exceptuadas de lo establecido por la parte final del artículo 2.91 del presente Libro, sin embargo los Municipios podrán imponer las medidas de creación, protección, administración y vigilancia que consideren pertinentes para la consecución de los objetivos por los que se someta al presente régimen de este tipo de áreas naturales protegidas.
+99. Las zonas de preservación ecológica de los centros de población se integran por los parques, corredores, andadores, camellones, panteones ecológicos y en general cualquier área de uso público en zonas industriales o circunvecinas de los asentamientos humanos en las que existan ecosistemas en buen estado que se destinen a preservar los elementos naturales indispensables para el equilibrio ecológico y el bienestar de la población de la localidad correspondiente. Tales áreas quedan exceptuadas de lo establecido por la parte final del artículo 2.91 del presente Libro, sin embargo, los Municipios podrán imponer las medidas de creación, protección, administración y vigilancia que consideren pertinentes para la consecución de los objetivos por los que se someta al presente régimen de este tipo de áreas naturales protegidas.
+
+En el caso de panteones ecológicos, se observarán los siguientes criterios mínimos de diseño y operación:
+
+I. Fomentar prácticas libres de embalsamamiento antes de las cuarenta y ocho horas en áreas de inhumación verde;
+
+II. Uso de ataúdes, urnas o sudarios biodegradables;
+
+III. Planes de revegetación con especies nativas y árboles de bajo consumo de agua, determinando la proporción de áreas arboladas;
+
+IV. Inclusión obligatoria de un área de inhumación verde en los nuevos panteones;
+
+V. Registro catastral y georreferenciado de sepulturas;
+
+VI. Cumplimiento de disposiciones legales sobre inhumaciones, incluyendo fosas comunes;
+
+VII. Participación de autoridades competentes en la difusión de estos espacios, respetando tradiciones;
+
+VIII. Monitoreo de suelos y aguas subterráneas, conforme a la normatividad que sustente la inhumación vertical, y
+
+IX. Cumplimiento sanitario en casos infectocontagiosos.
 
 ###### Artículo 2.
 
@@ -8858,3 +8888,15 @@ G.G. 17 DE DICIEMBRE DE 2025.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 17 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 281.- POR EL QUE SE REFORMA EL ARTÍCULO 2.99, Y SE ADICIONAN LA FRACCIÓN XLIII BIS AL ARTÍCULO 2.5 Y LA FRACCIÓN X BIS AL ARTÍCULO 2.8 DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO; Y SE ADICIONA UN CUARTO PÁRRAFO A LA FRACCIÓN XXIII DEL ARTÍCULO 31 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. El Poder Ejecutivo del Estado y los municipios, en el ámbito de sus atribuciones, deberán realizar las adecuaciones correspondientes a las disposiciones reglamentarias, a fin de armonizar su contenido con lo previsto en el presente Decreto.
+
+CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad de recursos y se cubrirán con cargo al presupuesto aprobado a las dependencias o entidades competentes para el ejercicio fiscal en curso y subsecuentes.
