@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2026-02-04"
+last_updated: "2026-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE MARZO DE 2026.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -3381,97 +3381,115 @@ DELITOS CONTRA EL AMBIENTE
 
 Al que en contravención a las disposiciones legales en materia de protección al ambiente o normas técnicas ambientales:
 
-I. El que derribe o trasplante un árbol en la vía pública o afecte negativamente áreas verdes o jardineras públicas, dolosamente, sin autorización correspondiente;
+> <small>(REFORMADA, G.G. 17 DE MARZO DE 2026)</small>
 
-II. Provoque por cualquier medio una enfermedad en las plantas, cultivos agrícolas o bosques, causando daño a la salud pública o desequilibrio a los ecosistemas;
+I. Derribe, queme, destruya o trasplante un árbol en la vía pública o afecte dolosamente áreas verdes o jardineras públicas, sin autorización correspondiente;
 
-III. Provoque intencionalmente un incendio forestal;
+> <small>(REFORMADA, G.G. 17 DE MARZO DE 2026)</small>
 
-IV. Descargue, deposite, infiltre o derrame aguas residuales de carácter industrial, comerciales, de servicios y agropecuarios, desechos o contaminantes en las aguas o en los suelos de jurisdicción estatal o municipal, que causen daños a la salud pública, la flora, la fauna o los ecosistemas;
+II. Provoque por cualquier medio enfermedades, o la dispersión de plagas, en plantas, cultivos agrícolas o bosques, generando daño a la salud pública o desequilibrio ecológico;
 
-V. Despida o descargue en la atmósfera gases, humos, polvos, líquidos que ocasionen o puedan ocasionar daños a la salud pública, la flora, la fauna o los ecosistemas, en zonas o fuentes emisoras de jurisdicción estatal o municipal;
+> <small>(REFORMADA, G.G. 17 DE MARZO DE 2026)</small>
 
-VI. Genere emisiones de ruido, vibraciones, energía lumínica o térmica en zonas de jurisdicción estatal o municipal que ocasionen o puedan ocasionar daños a la salud pública, flora, fauna o los ecosistemas;
+III. Provoque o inicie intencionalmente un incendio forestal, o contribuya a su propagación;
 
-> <small>(REFORMADA, G.G. 18 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, G.G. 17 DE MARZO DE 2026)</small>
 
-VII. Debiendo obtener la autorización de impacto y riesgo ambiental, realice obras o actividades, sin contar con la misma o no implemente las medidas preventivas y correctivas que indique la autoridad correspondiente para la mitigación de impactos ambientales y de seguridad de las personas, sus bienes y el ambiente, ocasionando daños a la salud pública, la flora, la fauna o los ecosistemas;
+IV. Descargue, deposite, infiltre o derrame aguas residuales de carácter industrial, comercial, de servicios o agropecuarios, lixiviados, microplásticos, sustancias químicas peligrosas, desechos o cualquier otra sustancia contaminante, en aguas, suelos, subsuelos, cuerpos de agua o acuíferos de jurisdicción estatal o municipal, causando daño o generando un riesgo a la salud pública, la flora, la fauna o los ecosistemas;
 
-> <small>(REFORMADA, G.G. 18 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, G.G. 17 DE MARZO DE 2026)</small>
 
-VIII. Rebase el doble de los parámetros y límites permisibles en las normas oficiales mexicanas o en las normas técnicas estatales vigentes;
+V. Emita a la atmósfera gases, humos, polvos, líquidos, partículas, olores, ruidos, energía térmica, compuestos orgánicos volátiles, contaminantes climáticos de corta vida o cualquier otra sustancia contaminante, en contravención a las disposiciones ambientales correspondientes y sin aplicar las medidas de mitigación o control necesarias, que causen o puedan causar daños a la salud o al medio ambiente;
 
-> <small>(ADICIONADA, G.G. 18 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, G.G. 17 DE MARZO DE 2026)</small>
 
-IX. Sin contar con la autorización de impacto y riesgo ambiental, preste el servicio de guarda, custodia, reparación o depósito de vehículos;
+VI. Genere emisiones de ruido, vibraciones, energía lumínica o térmica, contaminación visual u olores perjudiciales, en zonas de jurisdicción estatal o municipal que excedan los límites máximos permisibles establecidos en las Normas Oficiales Mexicanas y que causen o puedan causar daños al ambiente, a la fauna silvestre, a los ecosistemas o a la salud pública;
 
-> <small>(ADICIONADA, G.G. 18 DE JULIO DE 2013)</small>
+> <small>(REFORMADA, G.G. 17 DE MARZO DE 2026)</small>
 
-X. Sin contar con la autorización de impacto y riesgo ambiental, guarde, comercie, deposite o almacene vehículos de desecho o autopartes usadas.
+VII. Realice obras o actividades, sujetas a Evaluación Técnica de Impacto en materia Ambiental sin contar con la autorización correspondiente o sin implementar las medidas preventivas y correctivas impuestas por la autoridad competente, causando con ello desequilibrios ecológicos o daños a los ecosistemas;
 
-A los responsables de este delito se les impondrá prisión de dos a ocho años y de treinta a ciento cincuenta días multa.
+> <small>(REFORMADA, G.G. 17 DE MARZO DE 2026)</small>
 
-> <small>(ADICIONADO, G.G. 25 DE AGOSTO DE 2015)</small>
+VIII. Rebase el doble los parámetros y límites permisibles establecidos en las normas oficiales mexicanas o normas técnicas estatales aplicables;
+
+> <small>(REFORMADA, G.G. 17 DE MARZO DE 2026)</small>
+
+IX. Preste servicios de guarda, custodia, reparación o depósito de vehículos, maquinaria o residuos peligrosos sin contar con autorización de impacto y riesgo ambiental, y
+
+> <small>(REFORMADA, G.G. 17 DE MARZO DE 2026)</small>
+
+X. Guarde, comercialice, deposite o almacene vehículos de desecho, autopartes usadas u otros residuos sujetos a responsabilidad extendida del productor, sin contar con autorización de impacto ambiental.
+
+> <small>(REFORMADO, G.G. 17 DE MARZO DE 2026)</small>
+
+A los responsables de este delito se les impondrá prisión de tres a diez años y multa de treinta a ciento cincuenta Unidades de Medida y Actualización.
+
+> <small>(ADICIONADO, G.G. 17 DE MARZO DE 2026)</small>
+
+Se podrá incrementar la pena de uno a dos años de prisión y de quinientas a mil Unidades de Medida y Actualización, cuando las conductas previstas en el presente artículo sean realizadas por personas servidoras públicas con el propósito de obtener un lucro o beneficio económico, directamente o a través de terceros, o cuando exista participación o colaboración para la comisión del delito.
+
+> <small>(ADICIONADO, G.G. 17 DE MARZO DE 2026)</small>
+
+Cuando la conducta prevista en la fracción III se realice dentro de un Área Natural Protegida, la pena será de cinco a doce años de prisión y de ciento cincuenta a trescientas Unidades de Medida y Actualización.
+
+> <small>(REFORMADO, G.G. 17 DE MARZO DE 2026)</small>
 
 ###### Artículo 228 Bis.
 
-Al que ilícitamente posea, adquiera, venda, reciba, transporte o almacene material peligroso al que alude el Código para la Biodiversidad del Estado de México, se le impondrá de dos a seis años de prisión y de doscientos a cuatrocientos días multa.
+Al que ilícitamente posea, adquiera, venda, reciba, transporte o almacene materiales o residuos peligrosos cuya regulación corresponda al ámbito de competencia estatal, conforme a la legislación aplicable, se le impondrán de dos a seis años de prisión y multa de doscientas a cuatrocientas Unidades de Medida y Actualización.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE ABRIL DE 2025)</small>
+> <small>(REFORMADO, G.G. 17 DE MARZO DE 2026)</small>
 
 ###### Artículo 229.
 
-Al que sin autorización legal realice, auxilie, coopere, consienta o participe en la transportación, almacenamiento, distribución, procesamiento, comercialización o destrucción de productos de los montes o bosques cualquiera que sea su régimen de propiedad, tenencia o posesión de la tierra, se le aplicarán de diez a veinte años de prisión y de mil a mil quinientos días multa.
+Se impondrán de diez a veinte años de prisión y de mil a mil quinientas Unidades de Medida y Actualización a quien, sin autorización de la autoridad competente realice, auxilie, coopere, consienta o participe en la transportación, almacenamiento, distribución, procesamiento, comercialización o destrucción de productos forestales, incluidos maderas, leñas, resinas, cortezas u otros bienes provenientes de los montes o bosques, cualquiera que sea el régimen de propiedad, tenencia o posesión de la tierra.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 2 DE SEPTIEMBRE DE 2019)</small>
+Se aplicará la misma pena a la persona servidora pública que autorice, facilite o consienta el cambio de uso de suelo en un Área Natural Protegida, reserva ecológica o zona de valor ambiental, sin que exista causa de excepción debidamente justificada conforme a la Ley General de Desarrollo Forestal Sustentable o legislación aplicable.
 
-Comete también este delito y se le aplicará igual pena al servidor público que autorice cambio de uso de suelo sobre un área natural protegida o reserva ecológica, sin que exista causa de excepción justificada, establecida en la Ley General de Desarrollo Forestal Sustentable.
+Cuando los productos sean destruidos como consecuencia de la tala de árboles sin la autorización correspondiente, la pena será de quince a veinticinco años de prisión y de dos mil a tres mil quinientas Unidades de Medida y Actualización, además del aseguramiento y decomiso de los instrumentos y vehículos empleados.
 
-> <small>(REFORMADO, G.G. 3 DE ABRIL DE 2025)</small>
+Se impondrán las mismas penas a los autores intelectuales, instigadores, financiadores, beneficiarios económicos o a quienes controlen, obliguen o inciten a personas menores de edad, adultas mayores o en situaciones de vulnerabilidad para ejecutar cualquiera de las conductas previstas en este artículo.
 
-Cuando la destrucción de los productos de los montes o bosques sea a consecuencia de la tala de árboles, sin autorización de la autoridad correspondiente, se le impondrán quince a veinticinco años de prisión y de dos mil a tres mil quinientos días multa.
+Se consideran agravantes y se impondrán penas de quince a veinticinco años de prisión y de dos mil a tres mil quinientas Unidades de Medida y Actualización:
 
-> <small>(REFORMADO, G.G. 3 DE ABRIL DE 2025)</small>
+I. Cuando en la comisión del delito se utilicen instrumentos como motosierras, sierras manuales, hachas, machetes, u otros objetos diseñados o adaptados para la tala o destrucción forestal;
 
-A los autores intelectuales, instigadores, a quienes obtengan un lucro indebido o a quienes controlen o inciten a personas menores de edad o adultas mayores para cometer este delito, se les impondrá una pena de quince a veinticinco años de prisión y de dos mil a tres mil quinientos días multa.
+II. Cuando se utilicen vehículos, remolques, camionetas, tracto camiones o cualquier medio de transporte con carga forestal de procedencia ilícita;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 3 DE ABRIL DE 2025)</small>
+III. Cuando participen personas servidoras públicas, en cuyo caso además de la pena correspondiente serán destituidas e inhabilitadas por un periodo igual a la pena privativa de libertad impuesta;
 
-Se impondrán de quince a veinticinco años de prisión y de dos mil a tres mil quinientos días multa:
+IV. Cuando el delito sea cometido en Áreas Naturales Protegidas, zonas de conservación ecológica o corredores biológicos, y
 
-I. Cuando en la comisión de este delito se empleen instrumentos como motosierras, sierras manuales o sus análogas y demás objetos utilizados para el daño y destrucción de los montes o bosques;
+V. Cuando se utilice violencia, amenazas, engaño o armas legales o prohibidas contra vigilantes ambientales, comuneros, guardabosques, ejidatarios o cualquier persona defensora del patrimonio natural.
 
-II. Cuando en la comisión de este ilícito se utilicen vehículos, camionetas o camiones cargados con tocones de madera;
+Los instrumentos, vehículos y efectos del delito serán asegurados de oficio por el Ministerio Público, quien deberá ponerlos a disposición inmediata de la autoridad judicial competente, para su decomiso o destino ambientalmente responsable, sin perjuicio de su posible vinculación con otras carpetas o autoridades competentes.
 
-> <small>(REFORMADA, G.G. 2 DE SEPTIEMBRE DE 2019)</small>
+> <small>(ADICIONADO, G.G. 17 DE MARZO DE 2026)</small>
 
-III. Cuando en la comisión de este delito participen servidores públicos, en cuyo caso, además de la pena señalada será destituido e inhabilitado por un plazo igual a la pena privativa de libertad impuesta.
+###### Artículo 229 Bis.
 
-> <small>(ADICIONADA, G.G. 3 DE ABRIL DE 2025)</small>
+No serán punibles las siguientes actividades, siempre que se realicen sin fines de lucro, con fines culturales, domésticos o comunitarios, y en volúmenes no mayores a medio metro cúbico mensual por hogar o unidad comunitaria:
 
-IV. Cuando los delitos contemplados en el presente artículo sean cometidos en áreas naturales protegidas, con violencia o mediante el uso de armas prohibidas.
+a) El uso de leña o material leñoso de origen forestal no industrializado para consumo doméstico, elaboración de artesanías, realización de rituales tradicionales o actividades culturales propias de comunidades indígenas o rurales;
 
-> <small>(REFORMADO, G.G. 19 DE JULIO DE 2007)</small>
+b) La recolección de ramas secas, restos de poda o madera caída de forma natural para su aprovechamiento familiar o comunal, de conformidad con los usos y costumbres locales y con respeto al marco ecológico;
 
-Los instrumentos y efectos del delito se asegurarán de oficio por el Ministerio Público, quien los pondrá a disposición de la autoridad judicial para el decomiso correspondiente, independientemente de que puedan estar a disposición de otra autoridad.
+c) La comercialización, distribución o transporte de árboles de Navidad provenientes de plantaciones forestales autorizadas legalmente o registradas ante la autoridad correspondiente, siempre que en los operativos que se lleven a cabo se acredite su legal procedencia mediante la documentación correspondiente.
 
-> <small>(ADICIONADO, G.G. 17 DE JULIO DE 2013)</small>
-
-No será punible el uso de leña para consumo doméstico, de material leñoso proveniente de vegetación forestal sin ningún proceso de transformación que podrá ser utilizado como combustible en el hogar, para rituales o productos artesanales, hasta en un volumen menor a medio metro cubico.
-
-> <small>(ADICIONADO, G.G. 23 DE NOVIEMBRE DE 2015)</small>
-
-No será punible la comercialización y transporte de árboles de navidad obtenidos de plantaciones forestales autorizadas legalmente o registradas ante la autoridad forestal con fines de comercialización o uso doméstico. Lo anterior sin perjuicio que, en los operativos que las autoridades realicen en el ámbito de su competencia, se acredite su legal procedencia.
-
-> <small>(REFORMADO, G.G. 3 DE ABRIL DE 2025)</small>
+> <small>(REFORMADO, G.G. 17 DE MARZO DE 2026)</small>
 
 ###### Artículo 230.
 
-A quien dolosamente deteriore, por el uso, la ocupación o el aprovechamiento, un inmueble que por decreto del ejecutivo del Estado haya sido declarado área natural protegida, en sus diferentes modalidades de reservas estatales, parques estatales, parques municipales, reservas naturales privadas o comunitarias, parajes protegidos, zonas de preservación ecológica de los centros de población y las demás que determinen las leyes y reglamentos de la materia, se le impondrán de cinco a quince años de prisión y de cien a quinientos días multa.
+Quien deteriore dolosamente un inmueble declarado Área Natural Protegida, en cualquiera de sus modalidades, será sancionado con cinco a quince años de prisión y de cien a quinientas Unidades de Medida y Actualización.
+
+La pena aumentará hasta en una mitad si el daño compromete especies endémicas en riesgo o cuerpos de agua.
+
+> <small>(REFORMADO, G.G. 17 DE MARZO DE 2026)</small>
 
 ###### Artículo 231.
 
-A quien circule en vehículos automotores que hubieren sido retirados de la circulación por ser ostensiblemente contaminantes, se le impondrán de tres a seis meses de prisión y de cincuenta a cien días multa.
+Quien circule un vehículo automotor retirado de circulación por ser ostensiblemente contaminante, será sancionado con tres a seis meses de prisión y de cincuenta a cien Unidades de Medida y Actualización.
 
 ###### Artículo 232.
 
@@ -3491,13 +3509,17 @@ V. En calidad de usuario del servicio de verificación vehicular, ofrezca, prome
 
 Al responsable de este delito se le impondrán de uno a cuatro años de prisión y de treinta a cien días multa.
 
+> <small>(REFORMADO, G.G. 17 DE MARZO DE 2026)</small>
+
 ###### Artículo 233.
 
-A los prestadores de servicios ambientales autorizados que proporcionen documentos o información falsos u omitan datos con el objeto de que las autoridades ambientales competentes otorguen o avalen licencias, autorizaciones, registros, constancias o permisos de cualquier tipo, se les impondrán de uno a ocho años de prisión y de treinta a ciento cincuenta días multa.
+Los prestadores de servicios ambientales autorizados que proporcionen información falsa u omitan datos para obtener permisos, autorizaciones o registros, serán sancionados con uno a ocho años de prisión y de treinta a ciento cincuenta Unidades de Medida y Actualización.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE MARZO DE 2026)</small>
 
 ###### Artículo 234.
 
-Será necesario que la secretaría del ramo formule la denuncia correspondiente para proceder penalmente por los delitos previstos en este capítulo, a excepción de lo señalado en el artículo 229 de este código, en cuyo caso la denuncia la podrá formular cualquier ciudadano.
+Para la persecución penal de los delitos previstos en este capítulo, la denuncia correspondiente podrá ser formulada por la Secretaría del ramo o por cualquier ciudadano.
 
 > <small>(ADICIONADO, G.G. 18 DE JULIO DE 2013)</small>
 
@@ -8120,3 +8142,11 @@ NOVENO. El Gobierno del Estado de México, a través de sus dependencias y organ
 DÉCIMO. La Legislatura preverá los recursos necesarios para dar cumplimiento al objeto del presente Decreto.
 
 La Secretaría de Finanzas, exclusivamente para efectos de la implementación del presente Decreto y durante el ejercicio fiscal en curso, podrá autorizar las adecuaciones presupuestarias estrictamente necesarias para la integración y operación de las funciones previstas, con sujeción a lo dispuesto en el Código Financiero del Estado de México, el Presupuesto de Egresos del Estado de México y demás disposiciones jurídicas aplicables, debiendo informar de dichas adecuaciones a la Legislatura del Estado en los términos de la normativa vigente.
+
+G.G. 17 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 282.- POR EL QUE SE REFORMAN LAS FRACCIONES I, II, III, IV, V, VI, VII, VIII, IX Y X, Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 228, LOS ARTÍCULOS 228 BIS, 229, 230, 231, 233 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 234; Y SE ADICIONAN LOS PÁRRAFOS TERCERO Y CUARTO AL ARTÍCULO 228 Y EL ARTÍCULO 229 BIS DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
