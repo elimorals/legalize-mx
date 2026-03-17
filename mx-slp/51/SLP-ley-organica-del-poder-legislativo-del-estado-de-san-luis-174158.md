@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-17415
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-08-21"
-last_updated: "2026-02-10"
+last_updated: "2026-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el miércoles 21 de agosto de 2024.
 
@@ -529,13 +529,15 @@ Cada Grupo Parlamentario se integrará con las y los diputados que hayan sido el
 
 Los Grupos y Representaciones Parlamentarias, entregarán su agenda legislativa a la Directiva, a más tardar el quince de octubre del año en que se instale la Legislatura correspondiente, pudiendo actualizar la misma las veces que se considere pertinente. La agenda legislativa será publicada en la página de internet del Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 44.
 
-Las y los diputados sólo podrán pertenecer a un Grupo Parlamentario o a una Representación Parlamentaria; o ser diputadas o diputados sin partido si se separan de su Grupo o Representación Parlamentaria.
+Las y los diputados postulados por un Partido Político, pertenecerán al Partido Político que los postuló, formándose así los Grupos y Representaciones Parlamentarias constituidos al inicio de cada Legislatura.
 
-En caso de renuncia a un grupo parlamentario, las y los legisladores no se incorporarán a otro grupo parlamentario, por lo que mantendrán su autonomía dando aviso a la Junta de Coordinación Política para que surta los efectos correspondientes.
+Una vez que las y los Diputados de una Legislatura tomen protesta, podrán renunciar al Grupo o Representación Parlamentaria a la que pertenecen, y adherirse a otro Grupo o Representación Parlamentaria; o bien, ser declarados Diputadas o Diputados sin Partido.
 
-Se consideran diputados o diputadas independientes aquellos que se registraron y participaron en el proceso electoral de manera independiente a los partidos políticos.
+Se consideran Diputadas o Diputados independientes aquellos que se registraron y participaron en el proceso electoral de manera independiente a los partidos políticos.
 
 ###### ARTÍCULO 45.
 
@@ -2018,5 +2020,11 @@ P.O. 16 DE DICIEMBRE DE 2025.
 P.O. 10 DE FEBRERO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 0454.- QUE REFORMA EL ARTÍCULO 43, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día de su publicación del el (sic) Periódico Oficial del Estado “Plan de San Luis”.
+
+P.O. 17 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0488.- SE REFORMA EL ARTÍCULO 44, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día de su publicación del el (sic) Periódico Oficial del Estado “Plan de San Luis”.
