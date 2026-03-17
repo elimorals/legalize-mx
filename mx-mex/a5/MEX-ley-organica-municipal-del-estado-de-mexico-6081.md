@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2025-12-09"
+last_updated: "2026-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE MARZO DE 2026.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -814,6 +814,10 @@ Además, podrán fomentar una mayor asignación presupuestal para mantenimiento 
 > <small>(ADICIONADO, G.G. 5 DE SEPTIEMBRE DE 2019)</small>
 
 En los municipios con población forestal, se deberá formular, aprobar, implementar y ejecutar los programas y acciones necesarias para un desarrollo forestal sustentable, que promueva el cuidado ambiental a través de la conservación de los bosques y su aprovechamiento racional y ordenado en beneficio de las condiciones de vida de sus propietarios y posesionarios, en apego con la Ley General de Desarrollo Forestal Sustentable y en colaboración con dependencias del orden federal y estatal.
+
+> <small>(ADICIONADO, G.G. 17 DE MARZO DE 2026)</small>
+
+Los municipios podrán establecer por sí o a través de servicios concesionados, la creación de panteones ecológicos, que constituirán zonas de preservación ecológica de los centros de población destinadas a la inhumación ecológica, cuya promoción, vigilancia y protección estarán a cargo de la administración municipal. Los reglamentos respectivos regularán las características y formas de prestación del servicio.
 
 > <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
 
@@ -5766,3 +5770,15 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
+
+G.G. 17 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 281.- POR EL QUE SE REFORMA EL ARTÍCULO 2.99, Y SE ADICIONAN LA FRACCIÓN XLIII BIS AL ARTÍCULO 2.5 Y LA FRACCIÓN X BIS AL ARTÍCULO 2.8 DEL CÓDIGO PARA LA BIODIVERSIDAD DEL ESTADO DE MÉXICO; Y SE ADICIONA UN CUARTO PÁRRAFO A LA FRACCIÓN XXIII DEL ARTÍCULO 31 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. El Poder Ejecutivo del Estado y los municipios, en el ámbito de sus atribuciones, deberán realizar las adecuaciones correspondientes a las disposiciones reglamentarias, a fin de armonizar su contenido con lo previsto en el presente Decreto.
+
+CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad de recursos y se cubrirán con cargo al presupuesto aprobado a las dependencias o entidades competentes para el ejercicio fiscal en curso y subsecuentes.
