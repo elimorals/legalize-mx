@@ -4,7 +4,7 @@ identifier: "SLP-codigo-civil-para-el-estado-de-san-luis-potosi-7896"
 country: "mx"
 rank: "codigo"
 publication_date: "1946-04-18"
-last_updated: "2026-03-05"
+last_updated: "2026-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO CIVIL PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2026.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de San Luis Potosí, el 18 de abril de 1946.
 
@@ -5789,11 +5789,9 @@ ART. 1446.- Si sólo quedaren descendientes de ulterior grado, la herencia se di
 
 ART. 1447.- Concurriendo hijos con ascendientes, éstos sólo tendrán derecho a alimentos, que en ningún caso pueden exceder de la porción de uno de los hijos.
 
-ART. 1448.- El adoptado hereda como un hijo; pero no hay derecho de sucesión entre el adoptado y los parientes del adoptante.
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2026)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE DICIEMBRE DE 2014)</small>
-
-En el caso de la adopción plena, el adoptado hereda como un hijo, adquiriendo los mismos derechos y obligaciones del parentesco consanguíneo de la familia de quien lo adopta en los términos del artículo 248 del Código Familiar.
+ART. 1448.- El adoptado tendrá los mismos derechos y obligaciones que tiene un hijo consanguíneo para con la persona o personas que lo adopten, en los términos y condiciones que señale el Código Familiar del Estado de San Luis Potosí.
 
 ART. 1449.- Concurriendo padres adoptantes y descendientes del adoptado, los primeros sólo tendrán derecho a alimentos.
 
@@ -10758,5 +10756,13 @@ P.O. 5 DE MARZO DE 2026.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0481.- QUE REFORMA EL ARTÍCULO 1214, DEL CÓDIGO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 17 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0490.- SE REFORMA EL ARTÍCULO 1448, DEL CÓDIGO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
