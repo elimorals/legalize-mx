@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-pensiones-y-prestaciones-sociales-para-los-21479"
 country: "mx"
 rank: "ley"
 publication_date: "2001-05-21"
-last_updated: "2024-07-05"
+last_updated: "2026-03-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21479&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2026.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el lunes 21 de mayo de 2001.
 
@@ -52,6 +52,10 @@ La presente Ley es de orden público e interés general; tiene por objeto regula
 > <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
 
 Los servidores públicos de elección popular no quedan comprendidos en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2026)</small>
+
+El lenguaje utilizado en el presente ordenamiento jurídico se entenderá redactado en términos neutros y comprenderá a todas las personas, sin distinción de género. Para la aplicación e interpretación de esta Ley, las autoridades, en sus actuaciones, comunicaciones y decisiones, utilizarán de manera preferente términos que reflejen dicho carácter neutro e inclusivo, sin que sea necesaria la modificación expresa de cada precepto legal para alcanzar este fin.
 
 ###### ARTICULO 2º.
 
@@ -2526,3 +2530,11 @@ P.O. 5 DE JULIO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor previa publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 17 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0489.- SE REALIZA ADICIÓN AL ARTÍCULO 1°, DE LA LEY DE PENSIONES Y PRESTACIONES SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
