@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2025-12-31"
+last_updated: "2026-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO PENAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2026.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -2707,7 +2707,7 @@ En el caso previsto en el primer párrafo, además, se privará a los ascendient
 
 ### Capítulo VI. Violencia Familiar
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2026)</small>
 
 ###### Artículo 220.
 
@@ -2733,7 +2733,7 @@ El Ministerio Público o el tribunal tomarán las medidas cautelares que estimen
 
 ###### Artículo 221.
 
-A quien ejerza violencia de cualquier tipo contra una persona con la que tenga relación de parentesco, matrimonio, concubinato o análoga; contra los hijos del cónyuge o pareja, pupilos, o incapaces que se hallen sujetos a la tutela o custodia, de uno u otro, se le impondrá de uno a seis años de prisión.
+A quien ejerza violencia de cualquier tipo contra una persona con la que tenga relación de parentesco, matrimonio, concubinato o análoga; contra los hijos del cónyuge o pareja, pupilos, o incapaces que se hallen sujetos a la tutela o custodia, de uno u otro, se le impondrá de dos a nueve años de prisión y de veinte a noventa días multa.
 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 2024)</small>
 
@@ -2747,13 +2747,21 @@ La punibilidad prevista en este artículo se aplicará siempre que el hecho no c
 
 En estos casos el Ministerio Público o la autoridad judicial dictarán las medidas que consideren pertinentes para salvaguardar la integridad física o psicológica de la víctima.
 
-> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2026)</small>
+
+Este delito se perseguirá por querella.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2026)</small>
 
 ###### Artículo 221
 
-a.- El delito a que se refiere el artículo anterior se perseguirá por querella excepto cuando:
+a.- El delito a que se refiere el artículo anterior se considera agravado, cuando:
+
+> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
 
 I.- La víctima sea menor de edad o incapaz;
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE OCTUBRE DE 2016)</small>
 
 II.- Tratándose de violencia física, en los siguientes supuestos:
 
@@ -2763,13 +2771,23 @@ a) La víctima por razón de discapacidad o cualquiera otra circunstancia no est
 
 b) La víctima presente lesiones que por lo menos tarden en sanar más de quince días, dejen cicatriz permanente y notable en la cara, cuello o pabellón auricular o pongan en peligro la vida;
 
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
 c) La víctima sea una mujer embarazada o durante los tres meses siguientes al parto;
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
 d) Se cometa con la participación de dos o más personas;
 
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
 e) Se cometa con el uso de armas de fuego o punzocortantes;
 
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+
 f) Se tengan documentados ante autoridad antecedentes o denuncia de violencia familiar cometidos por el mismo agresor contra la víctima; o
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2016)</small>
 
 g) Exista imposibilidad material de la víctima de denunciar.
 
@@ -2777,11 +2795,17 @@ g) Exista imposibilidad material de la víctima de denunciar.
 
 III.- La víctima sea persona adulta mayor y no estuviere en condiciones de resistir la conducta, que exista la imposibilidad material de denunciar por sí misma el delito, que se encuentre en estado de necesidad, indefensión, desventaja física y mental o esté afectada por enfermedad grave o terminal.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2011)</small>
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2026)</small>
+
+Al responsable del delito de violencia familiar agravado se le impondrá de tres a doce años de prisión y de treinta a ciento veinte días multa.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2026)</small>
+
+Estos supuestos se perseguirán de oficio.
 
 ###### Artículo 221
 
-b.- Cuando la violencia se haga consistir en lesiones que por lo menos tarden en sanar más de quince días, inferidas a una persona que por razón de su edad, discapacidad o cualquiera otra circunstancia no esté en condiciones de resistir la conducta delictuosa, se impondrá como pena de dos a ocho años de prisión.
+b.- (DEROGADO, P.O. 18 DE MARZO DE 2026)
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
@@ -4596,3 +4620,9 @@ Artículo Primero. El presente Decreto entrará en vigor el 1 de enero de 2026, 
 Ultractividad en procedimientos previos
 
 Artículo Segundo. Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de su inicio.
+
+P.O. 18 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 175, QUE EMITE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES (SIC) CÓDIGO PENAL DEL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
