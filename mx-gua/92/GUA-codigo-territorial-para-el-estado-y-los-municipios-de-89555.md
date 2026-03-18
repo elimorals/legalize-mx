@@ -4,7 +4,7 @@ identifier: "GUA-codigo-territorial-para-el-estado-y-los-municipios-de-89555"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-09-25"
-last_updated: "2024-09-17"
+last_updated: "2026-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2026.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 25 de septiembre de 2012.
 
@@ -123,6 +123,10 @@ I bis 2. Administración sustentable del territorio: proceso de organización, e
 
 II. Alineamiento: delimitación gráfica de cualquier inmueble con respecto a la línea divisoria en el terreno que lo limita con la vialidad urbana existente o futura, o cualquier otra restricción;
 
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2026)</small>
+
+II bis. Análisis de riesgos: documento expedido por la unidad administrativa municipal en materia de protección civil, que contiene el resultado del análisis basado en un método ordenado y sistemático para identificar y evaluar los daños que pudieran resultar de los riesgos y peligros naturales y antropogénicos basado en la información contenida en el Atlas Municipal, Estatal y Federal, así como las vulnerabilidades de construcciones, edificaciones, infraestructura o asentamientos humanos, dentro del predio en estudio, en el entorno próximo y en su cuenca;
+
 III. Anuncio: cualquier expresión gráfica, escrita o electrónica que se coloca o difunde en cualquier vialidad urbana o bien de uso común, o que sea visible desde los mismos, para mostrar o informar al público cualquier mensaje, publicidad o propaganda, relacionado con la producción o venta de bienes, con la prestación de servicios y, en general, con el ejercicio lícito de cualquier actividad, así como la estructura física que la contenga o soporte;
 
 > <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2020)</small>
@@ -203,6 +207,10 @@ XVII bis. Diseño universal: diseño de entornos, programas y servicios que pued
 
 XVIII. División: partición de un inmueble en cualquier número de fracciones, siempre que para dar acceso a las partes resultantes no se generen vialidades urbanas, ni se requieran en la zona de su ubicación dotaciones adicionales a las existentes de infraestructura y servicios públicos;
 
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2026)</small>
+
+XVIII bis. Electromovilidad: sistema de transporte terrestre basado en vehículos ligeros y pesados con un sistema de tracción eléctrica o sistema híbrido que toma energía de un sistema de suministro eléctrico y que se utiliza para transportar personas o bienes materiales;
+
 XIX. Equipamiento urbano: cualquier inmueble, construcción y mobiliario, afecto a un servicio público o destinado a la realización de obras complementarias de beneficio colectivo, o aquéllas relativas a la educación, esparcimiento, deporte, difusión cultural o prestación de servicios asistenciales;
 
 > <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
@@ -214,6 +222,10 @@ XX. Espacio natural: área del territorio ubicada fuera de las zonas urbanizadas
 > <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 XX bis. Espacio público: áreas, espacios abiertos o predios destinados al uso, disfrute o aprovechamiento colectivo, de acceso generalizado y libre tránsito;
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2026)</small>
+
+XX ter. Especialista estructural en materia de anuncios: profesionista que otorga su responsiva para que la construcción, instalación, mantenimiento, modificación, ampliación, reparación y retiro de anuncios, se realice conforme a las especificaciones técnicas y normas aplicables;
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
@@ -251,9 +263,13 @@ XXVI. Mobiliario urbano: cualquier elemento urbano complementario, permanente, f
 
 XXVI bis. Movilidad: es un derecho que consiste en el desplazamiento de personas, bienes y mercancías que se realizan en el Estado de Guanajuato, a través de las diferentes formas y modalidades de transporte que se ajuste a la jerarquía y principios que se establecen en la Ley de Movilidad del Estado de Guanajuato y sus Municipios, para satisfacer sus necesidades y pleno desarrollo. En todo caso la movilidad tendrá como eje central a la persona;
 
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2026)</small>
+
+XXVI bis 1. Movilidad activa: promoción de ciudades caminables, así como del uso de la bicicleta y otros modos de transporte no motorizados, como alternativas que fomenten la salud pública, la proximidad y la disminución de emisiones contaminantes;
+
 > <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
-XXVI bis 1. Movilidad reducida: toda persona cuya movilidad se haya reducida por motivos de edad, embarazo o alguna otra situación que, sin ser una discapacidad, requiere una atención adecuada y la adaptación a sus necesidades particulares en el servicio;
+XXVI bis 2. Movilidad reducida: toda persona cuya movilidad se haya reducida por motivos de edad, embarazo o alguna otra situación que, sin ser una discapacidad, requiere una atención adecuada y la adaptación a sus necesidades particulares en el servicio;
 
 XXVII. Obra de urbanización: cualquier construcción que se efectúe para la prestación de los servicios públicos de suministro de agua potable y de drenaje, tratamiento y disposición de aguas residuales; la conducción de energía eléctrica; las redes y sistemas de alumbrado público y alcantarillado, sanitario o pluvial, así como la colocación de pavimentos, banquetas y guarniciones en las vialidades urbanas;
 
@@ -358,6 +374,10 @@ XLIX bis. Urbanización progresiva: política pública que en apego a los lineam
 L. Uso: fin particular a que podrá dedicarse determinada zona o inmueble, de conformidad con los programas municipales;
 
 LI. Valor escénico: características del paisaje, natural o inducido, que hacen que la protección y preservación de determinada área o zona sea de utilidad pública, por sus condiciones físicas, sus elementos naturales o su relevancia cultural, histórica, artística, arqueológica, ambiental o turística;
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2026)</small>
+
+LI bis. Ventanilla digital de trámites y servicios: soluciones tecnológicas habilitadas por la autoridad para solicitar trámites o servicios;
 
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
@@ -507,6 +527,14 @@ XI bis 1. La movilidad sustentable que considere la aplicación de las política
 
 XI bis 2. La promoción de que las vialidades y los nuevos desarrollos urbanos cuenten con accesibilidad a peatones, personas con discapacidad o movilidad reducida y ciclistas, así como con estacionamientos para bicicletas, a fin de fomentar el uso de transporte no contaminante;
 
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2026)</small>
+
+XI bis 3. La promoción de acciones hacia sistemas de electromovilidad, para lo cual se considerará el fomento al desarrollo de infraestructura necesaria;
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2026)</small>
+
+XI bis 4. La implementación de acciones a fin de facilitar la presentación, seguimiento y resolución de trámites y solicitudes en las materias del presente Código mediante el uso de la ventanilla digital de trámites y servicios;
+
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 XII. La aplicación de las normas y la implementación de las acciones para la gestión integral de riesgos y la prevención de contingencias ambientales y urbanas, así como de desastres por impactos adversos del cambio climático; y
@@ -588,6 +616,10 @@ Coadyuvancia en la aplicación del Código
 ###### Artículo 14.
 
 Las dependencias y entidades de la administración pública estatal y municipal coadyuvarán con las autoridades competentes para la aplicación del Código.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2026)</small>
+
+En ese alcance, se promoverán soluciones coordinadas con el fin de optimizar recursos, aprovechar economías de escala y mejorar la atención de solicitudes y trámites a través de la ventanilla digital de trámites y servicios.
 
 Acuerdos de coordinación en materia federal
 
@@ -1624,6 +1656,10 @@ V. En la determinación de las áreas para el crecimiento y consolidación de lo
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 VI. Se deberá considerar el enfoque del desarrollo orientado al transporte colectivo, para priorizar medios de transporte masivo, de conformidad con la Ley de Movilidad del Estado de Guanajuato y sus Municipios, y otros medios de eficiencia energética;
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2026)</small>
+
+VI bis. Se deberán establecer acciones que fomenten la movilidad activa a través del desarrollo de infraestructura segura y accesible;
 
 VII. Se establecerán y manejarán de manera prioritaria las zonas de conservación ecológica y de recarga de los mantos acuíferos;
 
@@ -3767,11 +3803,11 @@ La fundación de centros de población ejidal o la constitución de zonas de urb
 
 Consolidación
 
-> <small>(REFORMADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2026)</small>
 
 ###### Artículo 157.
 
-La consolidación de los centros de población se promoverá y ejecutará mediante las medidas, proyectos y acciones tendientes a incrementar tanto la densidad poblacional como los coeficientes de ocupación y de utilización del suelo en los inmuebles ubicados dentro de los mismos, fomentando el aprovechamiento de espacios vacantes, lotes baldíos y predios subutilizados, la eficientización de la infraestructura pública, movilidad sustentable y del equipamiento urbano dentro de las zonas urbanizadas de los centros de población, así como la compacidad urbana, como el eje de sostenibilidad urbana que incide en la forma física de la ciudad, su funcionalidad y, en general, en el modelo de ocupación del territorio y la organización de las redes de movilidad y de espacios libres.
+La consolidación de los centros de población se promoverá y ejecutará mediante las medidas, proyectos y acciones tendientes a incrementar tanto la densidad poblacional como los coeficientes de ocupación y de utilización del suelo en los inmuebles ubicados dentro de los mismos, fomentando el aprovechamiento de espacios vacantes, lotes baldíos y predios subutilizados, la eficientización de la infraestructura pública, movilidad sustentable y del equipamiento urbano dentro de las zonas urbanizadas de los centros de población, así como la compacidad urbana que incluirá el fomento para el desarrollo de vivienda vertical que permita optimizar el uso del suelo, como el eje de sostenibilidad urbana que incide en la forma física de la ciudad, su funcionalidad y, en general, en el modelo de ocupación del territorio y la organización de las redes de movilidad y de espacios libres.
 
 Reglamentación en materia de consolidación y redensificación poblacional
 
@@ -3780,6 +3816,10 @@ Reglamentación en materia de consolidación y redensificación poblacional
 ###### Artículo 158.
 
 Los reglamentos y programas que expidan los ayuntamientos deberán incorporar, de manera prioritaria, las medidas, proyectos y acciones necesarias para la consolidación de los centros de población y la compacidad urbana, así como para la redensificación poblacional de los mismos.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2026)</small>
+
+Para tal efecto, deberán establecerse disposiciones reglamentarias específicas orientadas a promover el desarrollo de vivienda vertical en centros de población consolidados, a fin de optimizar el aprovechamiento del suelo en zonas urbanas.
 
 Cumplimiento de obligaciones en materia de consolidación
 
@@ -4769,6 +4809,10 @@ Reglas para que proceda el otorgamiento de las licencias, permisos o concesiones
 
 Todas las obras, acciones, servicios e inversiones en materia de desarrollo urbano que se realicen en el territorio del Estado, sean públicas o privadas, deberán sujetarse a lo dispuesto en el Código, su reglamento y a los programas aplicables. Sin este requisito, no se otorgará licencia, permiso o concesión para efectuarlas.
 
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2026)</small>
+
+Los reglamentos municipales deberán prever disposiciones específicas para el fomento de la electromovilidad, promoviendo la instalación de estaciones de recarga para vehículos eléctricos e híbridos. Estas disposiciones deben incluir, asimismo, requisitos para fomentar el desarrollo de soluciones de electromovilidad en lugares de concentración pública.
+
 > <small>(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 En los reglamentos municipales se preverá la prohibición para el uso de suelo y permiso de edificación para casinos, centros de apuestas, salas de sorteos, casas de juego y similares, así como para el establecimiento de centros que presenten espectáculos con personas desnudas o semidesnudas.
@@ -4949,6 +4993,10 @@ VIII. La protección al patrimonio natural, cultural urbano y arquitectónico, l
 
 IX. La implementación de los instrumentos y mecanismos para la simplificación de los trámites administrativos relativos al ordenamiento y administración sustentable del territorio;
 
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2026)</small>
+
+IX bis. El establecimiento de procedimientos simplificados para la realización de los trámites materia del presente Código a través de la ventanilla digital de trámites y servicios;
+
 X. El fortalecimiento, mejoramiento y actualización del Catastro;
 
 > <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
@@ -5060,6 +5108,10 @@ III. Tengan semejanza con la señalización vial o con el mobiliario urbano espe
 IV. Se pueda afectar, obstruir, limitar, interferir o alterar la apreciación visual de alguna zona o inmueble que se encuentre sujeto a alguno de los regímenes de protección al patrimonio natural, cultural urbano y arquitectónico o a las áreas de valor escénico previstos en el Código, en la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, o en la Ley del Patrimonio Cultural del Estado de Guanajuato.
 
 Los reglamentos municipales podrán establecer las limitaciones y restricciones al contenido de los anuncios, sólo cuando se incite a la violencia, atente contra la convivencia social, promueva la discriminación con motivo de género, raza o condición social, resulte difamatorio o atente contra la dignidad de la persona o de la comunidad.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2026)</small>
+
+Los reglamentos municipales deberán establecer las condiciones aplicables para la presentación de responsiva por parte del especialista estructural en materia de anuncios, cuando la construcción, instalación, mantenimiento, modificación, ampliación, reparación y retiro de anuncios puedan poner en peligro la salud, la vida o la integridad física de las personas o la seguridad de los bienes.
 
 Permiso en materia de anuncios
 
@@ -5718,6 +5770,10 @@ XI. Tiendas de conveniencia;
 XII. Fraccionamientos y desarrollos en condominio;
 
 XIII. Gasolineras y estaciones de servicio;
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2026)</small>
+
+XIII bis. Electrolineras;
 
 XIV. Mercados, rastros y centrales de abasto;
 
@@ -6509,6 +6565,10 @@ Obras que requieren de autorización por parte de la unidad administrativa munic
 
 La ocupación y operación de construcciones destinadas a escuelas, mercados, centros comerciales, cines, teatros, auditorios, iglesias, restaurantes, centros nocturnos, bares, salones de fiestas, centros de reunión y cualquier otro uso que implique la concentración de un número considerable de personas, requerirán, además, de la previa autorización por parte de la unidad administrativa municipal en materia de protección civil.
 
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2026)</small>
+
+Los reglamentos municipales establecerán aquellos casos que requieran la presentación de análisis de riesgos para la obtención del permiso de uso de suelo.
+
 Construcciones peligrosas
 
 ###### Artículo 383.
@@ -6622,6 +6682,10 @@ VI. La congruencia del proyecto con la estructura urbana de los centros de pobla
 > <small>(REFORMADA, P.O. 5 DE DICIEMBRE DE 2017)</small>
 
 VII. La adecuación del proyecto a la topografía y a las características del suelo, a fin de controlar la ejecución de obras o proyectos en zonas no aptas para el desarrollo urbano, así como la protección al ambiente, los recursos naturales, el patrimonio natural, cultural urbano y arquitectónico, el paisaje y la imagen urbana;
+
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2026)</small>
+
+VII bis. La inclusión de soluciones que fomenten la movilidad activa y la electromovilidad;
 
 VIII. Las especificaciones relativas a las características, dimensiones y restricciones por alineamiento de construcción de inmuebles, lotes, departamentos, viviendas, locales o áreas de los fraccionamientos o desarrollos en condominio normados por el Código; y
 
@@ -6839,6 +6903,10 @@ I. Suministro de agua potable;
 
 II. Drenaje y alcantarillado, sanitario y pluvial;
 
+> <small>(ADICIONADA, P.O. 18 DE MARZO DE 2026)</small>
+
+II bis. Sistemas de captación, tratamiento y reutilización de agua;
+
 III. Energía eléctrica y alumbrado público;
 
 IV. Áreas verdes forestadas; y
@@ -6959,7 +7027,9 @@ Las áreas verdes que el desarrollador entregue al Municipio deberán estar fore
 
 Las áreas destinadas para la dotación de equipamiento urbano serán urbanizadas por el desarrollador de acuerdo a las características del proyecto. La unidad administrativa municipal, determinará el tipo de equipamiento urbano a que se destinarán estas áreas, previo análisis de la propuesta presentada por el desarrollador. El equipamiento urbano que se instale deberá ser el adecuado para realizar actividades culturales, educativas, de recreación, deportivas o de servicios asistenciales.
 
-Ubicación de las áreas de donación
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 18 DE MARZO DE 2026)</small>
+
+Ubicación y condiciones de las áreas de donación
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE DICIEMBRE DE 2017)</small>
 
@@ -6978,6 +7048,10 @@ Las áreas verdes deberán estar consolidadas en una sola porción. De no ser vi
 > <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
 
 En el proyecto de diseño urbano se deberán establecer las áreas verdes atendiendo a la distribución de cada lote previsto en el fraccionamiento o desarrollo en condominio, previo a la aprobación de traza.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2026)</small>
+
+Las áreas verdes contarán preferentemente con sistema de riego de agua tratada.
 
 Áreas de equipamiento fuera del área a urbanizar
 
@@ -7048,6 +7122,10 @@ El plazo para la ejecución de las obras de infraestructura pública se otorgar�
 Con anticipación de treinta días hábiles previos al vencimiento del plazo establecido en el párrafo anterior y previa justificación de las causas que motivaron el retraso en la ejecución de las obras de infraestructura pública, el desarrollador podrá solicitar la ampliación del plazo, el cual se podrá otorgar por parte de la unidad administrativa municipal por un periodo máximo de ciento ochenta días hábiles, sin que sea necesario cubrir nuevos derechos de supervisión.
 
 Si posterior a la ampliación otorgada existieran causas justificadas, la unidad administrativa municipal, previo pago de los derechos de supervisión, podrá conceder un nuevo plazo para la conclusión de obras de urbanización, en atención al programa de obra que presente el desarrollador.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2026)</small>
+
+Transcurrido el plazo a que se refiere el párrafo anterior, se requerirá al desarrollador para que en el término de 20 días hábiles haga entrega de las obras de urbanización conforme al programa de obra que haya presentado. Una vez transcurrido dicho plazo, en caso de que el desarrollador no cumpla, se harán efectivas las garantías constituidas.
 
 Modificación de la lotificación autorizada
 
@@ -9346,3 +9424,15 @@ Artículo Noveno. El personal de la Jefatura de Gabinete del Poder Ejecutivo del
 A partir de la entrada en vigor del presente Decreto, la Jefatura de Gabinete del Poder Ejecutivo no deberá adquirir nuevos derechos u obligaciones, correspondiéndole llevar a cabo todos los actos respectivos, debiendo intervenir en las actas de entrega-recepción que se suscriban, además de los responsables en términos del Reglamento de Entrega-Recepción para la Administración Pública Estatal.
 
 Artículo Décimo. El Congreso del Estado Libre y Soberano de Guanajuato deberá, en un plazo no mayor a ciento veinte días contados a partir de la entrada en vigor del presente Decreto, realizar las adecuaciones a las leyes para armonizar el marco jurídico estatal con las reformas establecidas en el presente Decreto que reforma la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato.
+
+P.O. 18 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 174, QUE EMITE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO TERRITORIAL PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Adecuación normativa
+
+Artículo Segundo. Los ayuntamientos deberán realizar las adecuaciones a los reglamentos respectivos dentro de los ciento ochenta días siguientes a la publicación del presente Decreto.
