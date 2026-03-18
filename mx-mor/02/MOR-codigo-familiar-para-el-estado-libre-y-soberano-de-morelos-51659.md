@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2025-10-15"
+last_updated: "2026-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2026.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -625,11 +625,15 @@ El juzgador, para determinar el monto de la pensión, valorara las causas que di
 
 En caso de que el deudor alimentario tenga impedimento para otorgarlos, debe probar plenamente que le faltan los medios para proporcionar alimentos, que no le es posible obtener ingresos derivados de un trabajo remunerado por carecer de éste o bien que tenga un impedimento físico o mental para desempeñarlo.
 
-> <small>(REFORMADO, P.O. 15 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 39.
 
-OBLIGACIÓN ALIMENTARIA DE LOS DESCENDIENTES. Los hijos están obligados a dar alimentos a los padres. A falta o por imposibilidad de los hijos lo están los descendientes más próximos en grado, se exceptúa de esta obligación cuando los padres hayan dejado de cumplir con la obligación que señala el artículo 38, siempre que lo anterior este fehacientemente acreditado.
+OBLIGACIÓN ALIMENTARIA DE LOS DESCENDIENTES. Los hijos están obligados a dar alimentos a los padres. A falta o por imposibilidad de los hijos están los descendientes más próximos en grado.
+
+Cuando los ascendientes reclamen alimentos a los descendientes, incluso de manera provisional, deberán acreditar haberles proporcionado éstos en los términos del artículo anterior.
+
+Misma disposición deberá aplicarse hacia los descendientes más próximos en grado.
 
 ###### ARTÍCULO 40.
 
@@ -7348,3 +7352,13 @@ PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo Estatal 
 SEGUNDA. El presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión oficial del Gobierno del estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 18 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO MIL NOVENTA Y TRES POR EL QUE SE REFORMA EL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, EN MATERIA DE REGULACIÓN ALIMENTARIA ENTRE DESCENDIENTES Y ASCENDIENTES".]
+
+PRIMERA. Remítase el presente decreto a la Persona Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión de Gobierno del Estado.
+
+TERCERA. El presente decreto deroga todas las disposiciones legales de igual o menor rango, que se opongan o contradigan a este.
