@@ -4,7 +4,7 @@ identifier: "CHP-ley-organica-del-instituto-casa-de-las-artesanias-de-89505"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-08-08"
-last_updated: "2018-05-23"
+last_updated: "2026-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # LEY ORGANICA DEL INSTITUTO CASA DE LAS ARTESANIAS DE CHIAPAS -ANTES LEY ORGANICA DEL INSTITUTO CASA CHIAPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO CASA DE LAS ARTESANÍAS DE CHIAPAS, PUBLICADA EN EL P.O. DE 18 DE MARZO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ORGÁNICA DEL INSTITUTO CASA DE LAS ARTESANÍAS DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MAYO DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2026 (ABROGADO).
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 8 de agosto de dos mil doce.
 
@@ -492,3 +494,25 @@ P.O. 23 DE MAYO DE 2018.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY ORGÁNICA DEL INSTITUTO CASA DE LAS ARTESANÍAS DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- A la entrada en vigor del presente Decreto se abroga la Ley Orgánica del Instituto Casa de las Artesanías de Chiapas, publicada en el periódico oficial número 382, Tomo III, decreto número 244, de fecha 08 de agosto del año 2012 y sus correspondientes modificaciones.
+
+Artículo Tercero.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+Artículo Cuarto.- Los compromisos y procedimientos adquiridos o iniciados previo a la entrada en vigor del presente Decreto, serán resueltos conforme a la normatividad vigente al momento de su inicio.
+
+Artículo Quinto.- La Junta de Gobierno deberá quedar integrado (sic), de acuerdo a su nueva conformación para el debido cumplimiento del presente Decreto, en un plazo de noventa días hábiles contados a partir de su publicación en el Periódico Oficial.
+
+Artículo Sexto.- La Dirección General deberá proponer a la Junta de Gobierno, las adecuaciones normativas que considere pertinentes, en un plazo no mayor a ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente Decreto.
+
+De la misma forma, deberá realizar las gestiones correspondientes ante las instancias competentes, a efecto de considerar los recursos financieros y presupuestales que requiera para los ejercicios fiscales posteriores, destinados al cumplimiento de su objeto, integrándolos a su Anteproyecto de Presupuesto de Egresos.
+
+Artículo Séptimo.- A partir de la entrada en vigor de la presente Ley, los recursos humanos que forman parte del Instituto Casa de las Artesanías de Chiapas, pasarán a formar parte del organismo regulado por la presente Ley, respetando en todo momento los derechos laborales que les correspondan.
+
+Asimismo, a partir de la entrada en vigor del presente Decreto, todos los recursos materiales y financieros del Instituto Casa de las Artesanías de Chiapas, pasarán a formar parte del patrimonio del organismo regulado por este Decreto.
