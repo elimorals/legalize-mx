@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-de-la-secretaria-de-salud-del-estado-de-1656
 country: "mx"
 rank: "codigo"
 publication_date: "2023-04-19"
-last_updated: "2023-04-19"
+last_updated: "2026-03-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE SALUD DEL ESTADO DE MORELOS
 
-CODIGO DE CONDUCTA DE LA SECRETARÍA DE SALUD
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE SALUD DEL PODER EJECUTIVO ESTATAL, PUBLICADO EN EL P.O. DE 18 DE MARZO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE SALUD
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2026 (ABROGADO).
 
 Código publicado en el Número 6185 del Periódico Oficial del Estado de Morelos, el miércoles 19 de abril de 2023.
 
@@ -254,3 +256,13 @@ DR. MARCO ANTONIO CANTÚ CUEVAS.
 SECRETARIO DE SALUD
 
 RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE MARZO DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE SALUD DEL PODER EJECUTIVO ESTATAL".]</small>
+
+PRIMERA. El presente Código de Conducta entrará en vigor a partir del día siguiente de su publicación, en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se abroga el Código de Conducta de la Secretaría de Salud publicado en el Periódico Oficial “Tierra y Libertad”, número 6185, de fecha diecinueve de abril del año dos mil veintitrés.
