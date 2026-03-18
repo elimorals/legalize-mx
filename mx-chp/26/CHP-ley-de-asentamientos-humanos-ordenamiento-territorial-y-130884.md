@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-asentamientos-humanos-ordenamiento-territorial-y-130884"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-27"
-last_updated: "2017-12-27"
+last_updated: "2026-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 27 de diciembre de 2017.
 
@@ -1003,7 +1003,9 @@ III. Los mecanismos de carácter técnico a cargo del Gobierno del Estado y los 
 
 IV. Las instancias que permitan la prestación de servicios públicos comunes.
 
-V. Los mecanismos y fuentes de financiamiento de las acciones metropolitanas contemplando, entre otros, el fondo metropolitano.
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2026)</small>
+
+V. Los mecanismos y fuentes de financiamiento de las acciones metropolitanas contemplando, entre otros, los esquemas de asociación público-privadas para el estado de Chiapas, cooperación internacional, inversión privada y financiamiento de los tres niveles de gobierno.
 
 ### Capítulo VII. De los procedimientos para la aprobación, modificación, publicación y registro de los Programas de Ordenamiento Territorial y Desarrollo Urbano
 
@@ -2736,3 +2738,15 @@ Dado en el Salón de Sesiones “Sergio Armando Valls Hernández” del Honorabl
 De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los 26 días del mes de diciembre del año dos mil diecisiete.
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Juan Carlos Gómez Aranda, Secretario General de Gobierno.- Rúbricas
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE MARZO DE 2026.
+
+[TRANSITORIOS DEL “DECRETO NO. 214 POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 67 DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
+
+Artículo Tercero.- Los ajustes derivados del presente Decreto no implican un impacto presupuestal en el funcionamiento actual de los Entes Públicos, por lo que no se contemplan ampliaciones a sus presupuestos de egresos para el presente ejercicio fiscal.
