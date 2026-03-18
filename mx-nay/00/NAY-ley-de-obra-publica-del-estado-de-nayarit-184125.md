@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-obra-publica-del-estado-de-nayarit-184125"
 country: "mx"
 rank: "ley"
 publication_date: "2026-01-16"
-last_updated: "2026-01-16"
+last_updated: "2026-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=184125&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # LEY DE OBRA PUBLICA DEL ESTADO DE NAYARIT
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE MARZO DE 2026 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE OBRA PÚBLICA DEL ESTADO DE NAYARIT
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 18 DE MARZO DE 2026.]</small>
 
 Ley publicada en la Sección Vigésima del número 009 del Periódico Oficial del Estado de Nayarit, el viernes 16 de enero de 2026.
 
@@ -359,7 +359,9 @@ b) Cuando se trate de una organización no gubernamental, acreditar que se encue
 
 c) No encontrarse inhabilitado o suspendido administrativamente o en su caso penalmente para ejercer o desempeñar un cargo o comisión;
 
-d) No ser persona servidora pública en activo en México y/o en el extranjero. Asimismo, no haber sido personas (sic) servidora pública Federal o Estatal durante al menos un año previo a la fecha en que se presente su solicitud para ser acreditado;
+> <small>(F. DE E., P.O. 18 DE MARZO DE 2026)</small>
+
+d) No ser persona servidora pública en activo en México y/o en el extranjero. Asimismo, no haber sido persona servidora pública Federal o Estatal durante al menos un año previo a la fecha en que se presente su solicitud para ser acreditado;
 
 e) Presentar currículum en el que se acrediten los grados académicos, la especialidad correspondiente, la experiencia laboral y, en su caso, docente, así como los reconocimientos que haya recibido a nivel académico y profesional;
 
@@ -1159,7 +1161,9 @@ Por su parte, de manera previa al inicio de los trabajos, el contratista designa
 
 El residente de obra asignado (sic) la dependencia y entidad, así como el superintendente de obra asignado por el contratista, deberán acreditar el perfil profesional en el área de ingeniería, arquitectura o carreras afines, debidamente titulados y con cédula profesional.
 
-Queda estrictamente prohibido que el representante legal o propietario de la empresa contratista asuma las funciones propias de residente de obra, en virtud de que dicha (sic) nombramiento deberá recaer en el responsable técnico que fue acreditado durante la solicitud y otorgamiento del Registro, evitando con ello que una misma persona asuma varias categorías de personal de forma simultánea con cargo excesivo de recursos a la propuesta afectando con ello la solvencia evaluada en el proceso de adjudicación y, en su caso un probable daño a la hacienda pública.
+> <small>(F. DE E., P.O. 18 DE MARZO DE 2026)</small>
+
+Queda estrictamente prohibido que el representante legal o propietario de la empresa contratista asuma las funciones propias de residente de obra, en virtud de que dicho nombramiento deberá recaer en el responsable técnico que fue acreditado durante la solicitud y otorgamiento del Registro, evitando con ello que una misma persona asuma varias categorías de personal de forma simultánea con cargo excesivo de recursos a la propuesta afectando con ello la solvencia evaluada en el proceso de adjudicación y, en su caso un probable daño a la hacienda pública.
 
 El área de licitaciones deberá informar por escrito a la residencia de obra para que se corroboren aquellas condiciones particulares ofrecidas por las contratistas durante el procedimiento de adjudicación de las obras y que incidirán de manera directa en la ejecución de los trabajos para efectos de que no se retrasen, condiciones tales como el arrendamiento de la maquinaria a través del contrato respectivo, para aquellos contratistas que no acreditaron la maquinaria y equipo como propio, otro aspecto a considerar es que posterior a la firma del contrato de obra, la obra sea registrada o dada de alta ante el Instituto Mexicano del Seguro Social por los contratistas.
 
@@ -1839,7 +1843,9 @@ La opción que las dependencias y entidades ejerzan, deberán fundarse, según l
 
 En estos casos, la dependencia o entidad, a más tardar el último día hábil de cada mes, enviará a la Secretaría, un informe que se referirá a las operaciones autorizadas en el mes, acompañando copia del dictamen aludido en el párrafo anterior.
 
-El acreditamiento del o los criterios en los que se funde; así como la justificación de las razones en las que se sustente el ejercicio de la opción, deberán constar por escrito y ser firmado por el titular del área responsable de la ejecución de los trabajos
+> <small>(F. DE E., P.O. 18 DE MARZO DE 2026)</small>
+
+El acreditamiento del o los criterios en los que se funde; así como la justificación de las razones en las que se sustente el ejercicio de la opción, deberán constar por escrito y ser firmado por el titular del área responsable de la ejecución de los trabajos.
 
 ###### Artículo 100.
 
@@ -1865,7 +1871,9 @@ IX. Se trate de servicios de consultorías, asesorías, estudios, investigacione
 
 Las dependencias y entidades preferentemente invitarán a cuando menos tres contratistas, salvo que ello a su juicio, no resulte conveniente, en cuyo caso utilizarán el procedimiento de adjudicación directa. En cualquier supuesto se convocará a la o las personas que estén registradas en el Registro y que cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos, financieros, maquinaria y equipo, y demás que sean necesarios.
 
-La selección de participantes podrá hacerse de entre los contratistas que se encuentren inscritos en el Registro o padrón de control de contratistas deberán acreditarse con la información actualizada contenida en el citado registro referente a la experiencia, especialidad, capacidad técnica e historial de cumplimiento respecto de contratos que los contratistas de que se trate tengan celebrados con las dependencias o entidades,
+> <small>(F. DE E., P.O. 18 DE MARZO DE 2026)</small>
+
+La selección de participantes podrá hacerse de entre los contratistas que se encuentren inscritos en el Registro o padrón de control de contratistas deberán acreditarse con la información actualizada contenida en el citado registro referente a la experiencia, especialidad, capacidad técnica e historial de cumplimiento respecto de contratos que los contratistas de que se trate tengan celebrados con las dependencias o entidades.
 
 En cualquier supuesto se invitará a personas que cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos, financieros y demás que sean necesarios, de acuerdo con las características, complejidad y magnitud de los trabajos a ejecutar, y que preferentemente en igualdad de circunstancias a las personas físicas o morales que tengan su domicilio fiscal en el Estado de Nayarit, por lo menos con dos años de actividades previas al procedimiento de licitación debiendo de acreditar dicha condición, con la documentación legal correspondiente.
 
