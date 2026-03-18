@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-sesiones-de-la-sala-superior-180418"
 country: "mx"
 rank: "reglamento"
 publication_date: "2025-06-16"
-last_updated: "2025-06-16"
+last_updated: "2026-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180418&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2025-06-04"
 ---
 # REGLAMENTO DE SESIONES DE LA SALA SUPERIOR
 
-> <small>[N. DE E. REGLAMENTO OBTENIDO DE LA LIGA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: www.dof.gob.mx/2025/TFJA/SS-11-2025.pdf]</small>
+> <small>[N. DE E. REFORMA OBTENIDA DE LA LIGA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: www.dof.gob.mx/2026/TFJA/SS-8-2026.p]</small>
 
 REGLAMENTO DE SESIONES DE LA SALA SUPERIOR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MARZO DE 2026.
 
 Reglamento publicado en el Número 157/2025 del Diario Oficial de la Federación, el lunes 16 de junio de 2025.
 
@@ -177,7 +177,9 @@ Votación nominal: Es aquél proceso en el que se registran los apellidos del ti
 
 Voto a Favor: Posición de una persona titular de la Magistratura del Órgano Colegiado que está de acuerdo con el proyecto presentado.
 
-Voto Aclaratorio o Razonado: Posición de una persona titular de la Magistratura del Órgano Colegiado que coincide con el sentido de los argumentos plasmados en el proyecto, es decir, se vota a favor, pero se pretenden precisar cuestiones adicionales.
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2026)</small>
+
+Voto Aclaratorio. Razonamientos jurídicos compartidos por las personas titulares de las Magistraturas que emitan voto a favor o con los puntos resolutivos, es decir, que concurran con el resultado de la votación, que constituyen la razón decisoria indispensable para sustentar el sentido aprobado de la resolución, y/o las consideraciones distintas que motiven un voto con los puntos resolutivos.
 
 Voto con los puntos resolutivos: Posición de una persona titular de la Magistratura del Órgano Colegiado que vota a favor del sentido de un proyecto, pero se difiere respecto de las consideraciones tomadas en cuenta para adoptarla o de la argumentación que sustentó la decisión.
 
@@ -186,6 +188,10 @@ Voto de Calidad: Posición del Presidente del Tribunal, que de manera excepciona
 Voto en Contra: Posición de una persona titular de la Magistratura del Órgano Colegiado que está en desacuerdo con el proyecto presentado.
 
 Voto Particular o Disidente: Posición de una persona titular de la Magistratura del Órgano Colegiado que vota en contra del proyecto por disentir de la determinación adoptada por la mayoría de los integrantes del Órgano Colegiado y expone consideraciones propias.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE MARZO DE 2026)</small>
+
+Voto Razonado: Posición de una persona titular de la Magistratura del Órgano Colegiado que coincide con el sentido de los argumentos plasmados en el proyecto, es decir, se vota a favor, pero se pretenden precisar cuestiones adicionales.
 
 ### Capítulo II. De las Sesiones
 
@@ -341,7 +347,13 @@ Tratándose de los Plenos, de la Primera y Segunda Sección, el engrose deberá 
 
 Cuando se formulen votos con los puntos resolutivos por el Pleno Jurisdiccional o por las Secciones Primera y Segunda, se sumarán a los votos a favor siempre que no sean en número mayor que éstos; y que los votos a favor sean iguales o superiores en número a los votos en contra.
 
-En el caso de la Tercera Sección, al integrarse únicamente por tres personas titulares de Magistraturas; se requiere de dos votos a favor para que pueda declararse la aprobación del proyecto o propuesta.
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2026)</small>
+
+Tratándose de la Tercera Sección de la Sala Superior, en virtud de su integración de tres Magistraturas, las resoluciones requieren de una mayoría de dos votos para su aprobación. El voto emitido con los puntos resolutivos se computará como voto a favor del sentido del proyecto, siempre que la propuesta cuente con al menos uno en sentido favorable.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 18 DE MARZO DE 2026)</small>
+
+Cuando en la Tercera Sección alguna de las personas titulares de las Magistraturas emita voto con los puntos resolutivos, podrá expresar, por escrito y dentro del plazo para la elaboración del engrose, su Voto Aclaratorio.
 
 Las resoluciones emitidas de forma colegiada por la Tercera Sección deberán ser firmadas por las tres Magistraturas y por la persona titular de la Secretaría Adjunta de la Sección.
 
@@ -450,3 +462,27 @@ Quinto.- Se derogan todas aquellas disposiciones que se opongan a lo establecido
 Sexto.- Las referencias al Código Federal de Procedimientos Civiles contenidas en el presente Reglamento, se entenderán hechas, en lo conducente, a los correlativos al Código Nacional de Procedimientos Civiles y Familiares, una vez a su entrada en vigor.
 
 Así lo acordó el Pleno General de la Sala Superior del Tribunal Federal de Justicia Administrativa, en sesión de cuatro de junio de dos mil veinticinco, por mayoría de nueve votos a favor de los Magistrados Víctor Martín Orduña Muñoz, Rafael Anzures Uribe, Carlos Chaurand Arzate, Julián Alfonso Olivas Ugalde, Mtra. Luz María Anaya Domínguez, Mtro. Rafael Estrada Sámano, Dra. Magda Zulema Mosri Gutiérrez, Dr. Carlos Mena Adame y Guillermo Valls Esponda; así como un voto en contra del Magistrado Mtro. Julio Ángel Sabines Chesterking.- Firman el Magistrado Guillermo Valls Esponda, Presidente del Tribunal Federal de Justicia Administrativa y la Licenciada Abigail Calderón Rojas, Secretaria General de Acuerdos, quien da fe.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 18 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “EXTRACTO DEL ACUERDO SS/8/2026, DENOMINADO “SE REFORMA EL DIVERSO SS/11/2025 QUE ESTABLECE EL REGLAMENTO DE SESIONES DE LA SALA SUPERIOR.”]
+
+PRIMERO.- Publíquese el presente Acuerdo en la página de internet del Tribunal; y un extracto del mismo en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor, a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
+
+[...]
+
+La versión íntegra de dicho Acuerdo puede ser consultada en las siguientes ligas electrónicas:
+
+https://www.tfja.gob.mx/pdf/secretaria_general_de_acuerdos/acuerdos_sala_superior/2026/SS-8-2026.pdf/
+
+www.dof.gob.mx/2026/TFJA/SS-8-2026.p
+
+## TRANSITORIOS
+
+PRIMERO.- Publíquese el presente Acuerdo en la página de internet del Tribunal; y un extracto del mismo en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor, a partir del día siguiente de su publicación en el Diario Oficial de la Federación.
