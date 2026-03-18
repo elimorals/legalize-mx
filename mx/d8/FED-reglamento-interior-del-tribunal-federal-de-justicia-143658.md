@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-143658"
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-07-17"
-last_updated: "2025-07-10"
+last_updated: "2026-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143658&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,13 +19,13 @@ issue_date: "2020-07-08"
 ---
 # REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA
 
-[NOTA 1. INFORMACIÓN OBTENIDA DE LA LIGA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: www.dof.gob.mx/2025/TFJA/SS-15-2025.pdf]
+[NOTA 1. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
-[NOTA 2. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+[NOTA 2. INFORMACIÓN OBTENIDA DE LA PÁGINA ELECTRONICA DEL DIARIO OFICIAL DE LA FEDERACIÓN EN: www.dof.gob.mx/2026/TFJA/SS-9-2026.pdf]
 
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE MARZO DE 2026.
 
 Reglamento publicado en el Diario Oficial de la Federación, el viernes 17 de julio de 2020.
 
@@ -145,7 +145,9 @@ XXXI. Sistemas Informáticos: Contempla la totalidad de los sistemas implementad
 
 XXXII. Sistema de Justicia en Línea (SJL): Sistema informático establecido por el Tribunal para registrar, controlar, procesar, almacenar, difundir, transmitir, gestionar, administrar y notificar el procedimiento contencioso administrativo que se sustancie ante el Tribunal, tanto en la vía ordinaria, como sumaria;
 
-XXXIII. Sistema de Seguimiento de Procedimientos de Responsabilidades Administrativas (SISPRA): La plataforma tecnológica del Tribunal, en donde se registrarán electrónicamente las actuaciones que realiza la Tercera Sección de la Sala Superior, las Salas Especializadas en Materia de Responsabilidades Administrativas o, en su caso, la Sala Auxiliar en Materia de Responsabilidades Administrativas Graves, en el ámbito de sus competencias previstas en la Ley General de Responsabilidades Administrativas;
+> <small>(REFORMADA, D.O.F. 18 DE MARZO DE 2026)</small>
+
+XXXIII. Sistema de Seguimiento de Procedimientos de Responsabilidades Administrativas (SISPRA): La plataforma tecnológica del Tribunal, en donde se registrarán electrónicamente las actuaciones que realiza la Tercera Sección de la Sala Superior, las Salas Especializadas en Materia de Responsabilidades Administrativas o, en su caso, las Salas Auxiliares en Materia de Responsabilidades Administrativas Graves, en el ámbito de sus competencias previstas en la Ley General de Responsabilidades Administrativas;
 
 XXXIV. Tribunal: El Tribunal Federal de Justicia Administrativa, y
 
@@ -1343,13 +1345,25 @@ g) Tercera Sala Regional en Puebla y Auxiliar, con sede en la Ciudad de San Andr
 
 II. (DEROGADA, D.O.F. 31 DE ENERO DE 2024) (REPUBLICADA SU DEROGACIÓN, D.O.F. 23 DE MAYO DE 2025)
 
-> <small>(REFORMADA, D.O.F. 10 DE JULIO DE 2025)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 18 DE MARZO DE 2026)</small>
 
-III. Sala Auxiliar en Materia de Responsabilidades Administrativas Graves con sede en la Ciudad de México y competencia en todo el territorio nacional para conocer y resolver los procedimientos previstos en la Ley General de Responsabilidades Administrativas, en su carácter de Sala Auxiliar en Materia de Responsabilidades Administrativas Graves; sin perjuicio de la competencia para instruir y resolver juicios contenciosos administrativos, que por turno le correspondan en la región Ciudad de México, en los que se controviertan resoluciones en: materia administrativa sobre interpretación y cumplimiento de contratos de obras públicas, adquisiciones, arrendamientos y servicios celebrados por las dependencias y entidades de la Administración Pública Federal; las que nieguen la indemnización o que por su monto, no satisfagan al reclamante y las que impongan la obligación de resarcir daños y perjuicios pagados con motivo de la reclamación, en los términos de la Ley Federal de Responsabilidad Patrimonial del Estado o de las leyes administrativas federales que contengan un régimen especial de responsabilidad patrimonial del Estado; de las resoluciones definitivas que impongan sanciones administrativas a los servidores públicos en términos de la Ley General de Responsabilidades, así como contra las que decidan los recursos administrativos previstos en dicho ordenamiento, y que se impongan sanciones administrativas a los servidores públicos en términos de la legislación aplicable, y las que decidan los recursos administrativos previstos en dichos ordenamientos.
+III. Salas Auxiliares en Materia de Responsabilidades Administrativas Graves, con sede en la Ciudad de México, y cuya denominación será la siguiente:
 
-> <small>(REFORMADO, D.O.F. 14 DE ABRIL DE 2021)</small>
+> <small>(ADICIONADO, D.O.F. 18 DE MARZO DE 2026)</small>
 
-La Sala Auxiliar ejercerá competencia mixta para tramitar y resolver los juicios contenciosos administrativos que le sean turnados de manera aleatoria por la oficialía de partes común, señalados en el párrafo anterior; aquellos que le sean enviados para auxiliar a otras Salas; y, los procedimientos previstos en la Ley General de Responsabilidades Administrativas, en su carácter de Sala Auxiliar en Materia de Responsabilidades Administrativas Graves.
+a) Primera Sala Auxiliar en Materia de Responsabilidades Administrativas Graves.
+
+> <small>(ADICIONADO, D.O.F. 18 DE MARZO DE 2026)</small>
+
+b) Segunda Sala Auxiliar en Materia de Responsabilidades Administrativas Graves.
+
+> <small>(ADICIONADO, D.O.F. 18 DE MARZO DE 2026)</small>
+
+Dichas Salas tendrán competencia en todo el territorio nacional, para conocer y resolver los procedimientos previstos en la Ley General de Responsabilidades Administrativas; sin perjuicio de la competencia para instruir y resolver juicios contenciosos administrativos, que por turno le correspondan en la región Ciudad de México, en los que se controviertan resoluciones en: materia administrativa sobre interpretación y cumplimiento de contratos de obras públicas, adquisiciones, arrendamientos y servicios celebrados por las dependencias y entidades de la Administración Pública Federal; las que nieguen la indemnización o que por su monto, no satisfagan al reclamante y las que impongan la obligación de resarcir daños y perjuicios pagados con motivo de la reclamación, en los términos de la Ley Federal de Responsabilidad Patrimonial del Estado o de las leyes administrativas federales que contengan un régimen especial de responsabilidad patrimonial del Estado; de las resoluciones definitivas que impongan sanciones administrativas a los servidores públicos en términos de la Ley General de Responsabilidades Administrativas, así como contra las que decidan los recursos administrativos previstos en dicho ordenamiento, y que se impongan sanciones administrativas a los servidores públicos en términos de la legislación aplicable, y las que decidan los recursos administrativos previstos en dichos ordenamientos.
+
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2026)</small>
+
+Las Salas Auxiliares ejercerán competencia mixta para tramitar y resolver los juicios contenciosos administrativos que les sean turnados de manera aleatoria por la Oficialía de Partes Común, señalados en el párrafo anterior; y, los procedimientos previstos en la Ley General de Responsabilidades Administrativas, en su carácter de Salas Auxiliares en Materia de Responsabilidades Administrativas Graves.
 
 > <small>(REFORMADO, D.O.F. 10 DE JULIO DE 2025)</small>
 
@@ -4175,9 +4189,9 @@ La inobservancia de dichas obligaciones será causa de responsabilidad y motivar
 
 ### Capítulo III.. Del Sistema de Seguimiento de Procedimientos de Responsabilidades Administrativas (SISPRA)
 
-> <small>(ADICIONADO, D.O.F. 23 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, D.O.F. 18 DE MARZO DE 2026)</small>
 
-Artículo 133 bis. El registro y control de las actuaciones que realicen la Tercera Sección de la Sala Superior, las Salas Especializadas en Materia de Responsabilidades Administrativas y la Sala Auxiliar en Materia de Responsabilidades Administrativas Graves, en los procedimientos de responsabilidades administrativas, se efectuarán en forma electrónica, utilizando el Sistema de Seguimiento de Procedimientos de Responsabilidades Administrativas (SISPRA).
+Artículo 133 bis. El registro y control de las actuaciones que realicen la Tercera Sección de la Sala Superior, las Salas Especializadas en Materia de Responsabilidades Administrativas y las Salas Auxiliares en Materia de Responsabilidades Administrativas Graves, en los procedimientos de responsabilidades administrativas, se efectuarán en forma electrónica, utilizando el Sistema de Seguimiento Responsabilidades Administrativas (SISPRA).
 
 ## Título Quinto.
 
@@ -4550,3 +4564,41 @@ D.O.F. 10 DE JULIO DE 2025.
 PRIMERO.- Publíquese el presente Acuerdo en la página de internet del Tribunal; en el Medio Oficial de Difusión Normativa del Tribunal Federal de Justicia Administrativa; y un extracto del mismo en el Diario Oficial de la Federación.
 
 SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “EXTRACTO DEL ACUERDO 55/9/2026 DENOMINADO “SE REFORMA EL REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA".]
+
+PRIMERO.- Publíquese el presente Acuerdo en la página de internet del Tribunal; y un extracto del mismo en el Diario Oficial de la Federación.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+TERCERO.- La Segunda Sala Auxiliar en Materia de Responsabilidades Administrativas Graves, iniciará sus actividades el 23 de marzo de 2026.
+
+CUARTO.- A partir de la fecha antes mencionada, la actual Sala Auxiliar en Materia de Responsabilidades Administrativas Graves, se denominará Primera Sala Auxiliar en Materia de Responsabilidades Administrativas Graves y la de nueva creación, Segunda Sala Auxiliar en Materia de Responsabilidades Administrativas Graves.
+
+QUINTO.- La Secretaría Operativa de Tecnologías de la Información y las Comunicaciones (SOTIC) deberá implementar las medidas necesarias que se requieran para la adecuación del Sistema de Control y Seguimiento de Juicios y de los Sistemas Informáticos Jurisdiccionales, con motivo de la creación de la Segunda Sala Auxiliar en Materia de Responsabilidades Administrativas Graves.
+
+Asimismo, la Secretaría Operativa de Administración deberá llevar a cabo las medidas referentes a presupuesto, recursos humanos y recursos materiales, correspondientes para la integración y correcto funcionamiento de la Segunda Sala Auxiliar en Materia de Responsabilidades Administrativas Graves, incluyendo el pago de viáticos y menaje a las personas servidoras públicas que cambien de sede conforme a los Lineamientos para el ejercicio racional de los recursos del Tribunal Federal de Justicia Administrativa, aprobados por la Junta de Gobierno y Administración.
+
+La Unidad de Asuntos Jurídicos deberá, dentro del ámbito de su competencia, llevar a cabo las acciones que permitan la creación de la Segunda Sala Auxiliar en Materia de Responsabilidades Administrativas Graves.
+
+SEXTO.- En términos de lo señalado en el artículo 23, fracciones I y II, de la Ley Orgánica del Tribunal Federal de Justicia Administrativa, la Junta de Gobierno y Administración acordará lo conducente para la remisión, de la Primera a la Segunda Sala Auxiliar, ambas en Materia de Responsabilidades Administrativas Graves, de los expedientes en los que exista excusa o impedimento de cualquier persona Magistrada de la Primera Sala Auxiliar.
+
+Subsecuentemente, en caso de que cualquier persona Magistrada presentara excusa o impedimento legal para conocer de algún asunto, deberá desahogarse el procedimiento establecido en la Ley Orgánica del Tribunal Federal de Justicia Administrativa.
+
+Asimismo, la Junta de Gobierno y Administración ordenará que se lleven a cabo las acciones que permitan conservar el turno para la recepción de demandas nuevas a la Segunda Sala Auxiliar en Materia de Responsabilidades Administrativas Graves, desde el inicio de sus operaciones, y hasta el momento en que exista una diferencia menor a 100 asuntos entre el inventario de ambas Salas, hecho lo cual, se reanudará el turno aleatorio entre las dos Salas existentes, considerando la integración de cada una de ellas.
+
+SÉPTIMO.- Con el fin de llevar a cabo las acciones necesarias para el inicio de funciones de la Segunda Sala Auxiliar en Materia de Responsabilidades Administrativas Graves, se suspenden plazos en la Primera Sala Auxiliar en materia de Responsabilidades Administrativas Graves y, por tanto, no correrán términos procesales en los expedientes radicados en la misma. por el periodo comprendido del 18 al 20 de marzo de 2026.
+
+OCTAVO.- Dado que aún no existen nombramientos de las y los Magistrados que integrarán Salas Especializadas en Materia de Responsabilidades Administrativas, la Primera y Segunda Salas Auxiliares en Materia de Responsabilidades Administrativas Graves se conformarán por personas Magistradas de Sala Regional, adscritas por la Junta de Gobierno y Administración, atendiendo a la experiencia y conocimientos con los que cuenten sobre la materia.
+
+La competencia especializada de las Salas Auxiliares se circunscribe a la materia de responsabilidades administrativas graves, que llegaren a presentarse a partir del inicio de sus actividades y concluirá un día antes de que inicien funciones las Salas Especializadas en materia de Responsabilidades Administrativas, previstas en el artículo 37 de la Ley Orgánica del Tribunal Federal de Justicia Administrativa.
+
+Las Salas Auxiliares a que se refiere este artículo entregarán a los Magistrados aprobados y adscritos a las Salas Especializadas, los expedientes que se hayan instruido durante su ejercicio y que correspondan a su respectiva jurisdicción.
+
+NOVENO.- Al concluir las funciones de las Salas Auxiliares en materia de Responsabilidades Administrativas Graves, en términos del primer párrafo del Transitorio anterior, la Junta de Gobierno y Administración tomará las determinaciones correspondientes sobre su funcionamiento, conforme a las necesidades del Tribunal.
+
+DÉCIMO.- Para todo lo no previsto en el presente Acuerdo, se estará a lo que resuelva la Junta de Gobierno y Administración del Tribunal Federal de Justicia Administrativa.
+
+Así lo acordó el Pleno General de la Sala Superior del Tribunal Federal de Justicia Administrativa, por unanimidad de votos de los Magistrados presentes en sesión de once de marzo de dos mil veintiséis.- Firman el Magistrado José Ramón Amieva Gálvez Presidente del Tribunal Federal de Justicia Administrativa y la Licenciada Julia Arredondo Hernández Secretaria General de Acuerdos, quien da fe.
