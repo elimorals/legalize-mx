@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2026-02-18"
+last_updated: "2026-03-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2026.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -2951,15 +2951,37 @@ ARTICULO 202 SEXTUS.- A quién en detrimento de la sociedad conyugal o patrimoni
 
 ### CAPITULO II. SUSTRACCION O RETENCION DE MENORES O INCAPACES
 
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2026)</small>
+
 ###### ARTICULO 203.
 
-Al que sin tener relación familiar o de tutela con un menor de edad o incapaz, lo sustraiga o lo retenga, sin el consentimiento de quien tenga su legítima custodia o guarda, se le impondrá de uno a cinco años de prisión.
+A quien, sin tener relación de parentesco con un menor de edad o incapaz lo retenga sin el consentimiento de quien tenga su legítima custodia o guarda decretada por un juez, se le impondrá de uno a cinco años de prisión y de cien a mil Unidades de Medida y Actualización.
 
-Si el agente es familiar del menor, pero no ejerce la patria potestad o la tutela sobre él, se le aplicará hasta la mitad de la sanción prevista en el párrafo anterior.
+A quien en los mismos supuestos del párrafo anterior sustraiga a un menor de edad o incapaz de la guarda y custodia decretada por un juez, se le impondrá de dos a seis años de prisión y de doscientos a mil Unidades de Medida y Actualización.
+
+Si el agente que retenga o sustraiga de su custodia o su guarda decretada por un juez, pero no ejerza la patria potestad o la tutela sobre él, se le aplicará hasta la mitad de las sanciones previstas en el párrafo anterior.
 
 Cuando quien sustrae o retiene indebidamente al menor o al incapaz lo devuelve espontáneamente dentro de los tres días siguientes a la consumación del delito, se le impondrá hasta una tercera parte de la sanción señalada. El juez podrá prescindir de dicha sanción si lo considera pertinente, en vista de las circunstancias del caso.
 
 Los delitos previstos en este artículo se perseguirán por querella de quien tenga derechos familiares o de tutela con respecto al menor o al incapaz.
+
+> <small>(ADICIONADO, P.O. 18 DE MARZO DE 2026)</small>
+
+ARTICULO 203 BIS.- Se impondrá de dos a seis años de prisión, multa de cien a mil Unidades de Medida y Actualización, en su caso, al ascendiente, descendiente, pariente colateral o afín hasta el cuarto grado, que retenga o sustraiga a una persona menor de edad o incapaz, en los siguientes casos:
+
+I. Que haya perdido la patria potestad o ejerciendo ésta se encuentre suspendida o limitada;
+
+II. No tenga guardia y custodia provisional o definitiva o la tutela sobre él;
+
+III. No permita las convivencias decretadas por resolución judicial o convenio; o
+
+IV. Teniendo la guarda y custodia compartida, no devuelva a la persona menor de edad o incapaz en los términos de la resolución o convenio que se haya dictado para ello:
+
+Si la retención o sustracción se realiza en contra de una persona menor de doce años de edad, las penas previstas en el presente artículo se incrementarán en una mitad.
+
+Cuando quien sustrae o retiene indebidamente al menor o al incapaz lo devuelve espontáneamente dentro de los tres días siguientes a la consumación del delito, se le impondrá hasta una tercera parte de la sanción señalada.
+
+El juez podrá prescindir de dicha sanción si lo considera pertinente, en vista de las circunstancias del caso. Los delitos previstos en este artículo se perseguirán por querella de quien tenga derechos familiares o de tutela con respecto al menor o al incapaz.
 
 ### CAPITULO III. TRAFICO DE MENORES
 
@@ -6290,3 +6312,11 @@ P.O. 18 DE FEBRERO DE 2026.
 PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo Estatal para su publicación correspondiente en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión Oficial del Estado de Morelos.
 
 SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado.
+
+P.O. 18 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL NOVENTA Y CINCO.- POR EL CUAL SE REFORMA EL ARTÍCULO 203 Y SE ADICIONA EL ARTÍCULO 203 BIS AL CÓDIGO PENAL PARA EL ESTADO DE MORELOS, EN MATERIA DE SUSTRACCIÓN DE MENORES O INCAPACES”.]
+
+PRIMERO.- Remítase el presente decreto a la Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión de Gobierno del Estado.
