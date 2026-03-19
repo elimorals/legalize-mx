@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10910
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-08"
-last_updated: "2025-12-17"
+last_updated: "2026-03-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109108&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2026.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nayarit, el miércoles 8 de julio de 2015.
 
@@ -51,7 +51,9 @@ I. Reconocer a niñas, niños y adolescentes como titulares de derechos, de conf
 
 II. Garantizar el pleno ejercicio, respeto, protección y promoción de los derechos humanos de niñas, niños y adolescentes conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, tratados internacionales de los que el Estado mexicano forma parte y la Constitución Política del Estado Libre y Soberano de Nayarit;
 
-III. Crear y regular la integración, organización y funcionamiento del Sistema Estatal de Protección Integral de los Derechos de Niñas, Niños y Adolescentes, a efecto de que el Estado cumpla con su responsabilidad de garantizar la protección, prevención y restitución integrales de los derechos de niñas, niños y adolescentes que hayan sido vulnerados;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2026)</small>
+
+III. Crear y regular la integración, organización y funcionamiento del Sistema Estatal de Protección Integral de los Derechos de Niñas, Niños y Adolescentes, a efecto de que el Estado cumpla con su responsabilidad de aplicar medidas orientadas a salvaguardar la vida, integridad, libertad y seguridad personales, bienestar físico y mental, así como el respeto a la dignidad y autonomía progresiva mediante acciones orientadas a garantizar la protección, prevención y restitución integrales de los derechos de niñas, niños y adolescentes que hayan sido vulnerados;
 
 IV. Establecer los principios rectores y criterios que orientarán la política estatal en materia de derechos de niñas, niños y adolescentes, así como las facultades, competencias, concurrencia y bases de coordinación entre los municipios y la actuación de los Poderes Legislativo y Judicial del Estado, y los organismos constitucionales autónomos, y
 
@@ -61,11 +63,21 @@ V. Establecer las bases generales para la participación de los sectores públic
 
 Para garantizar la protección de los derechos de niñas, niños y adolescentes, las autoridades estatales y municipales realizarán las acciones y tomarán medidas, de conformidad con los principios establecidos en la Ley General de los Derechos de las Niñas, Niños y Adolescentes y la presente Ley. Para tal efecto, deberán:
 
-I. Garantizar un enfoque integral, transversal y con perspectiva de derechos humanos en el diseño y la instrumentación de políticas y programas de gobierno;
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2026)</small>
 
-II. Promover la participación, tomar en cuenta la opinión y considerar los aspectos culturales, éticos, afectivos, educativos y de salud de niñas, niños y adolescentes, en todos aquellos asuntos de su incumbencia, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez, y
+I. Garantizar un enfoque integral, transversal, con perspectiva de género y de derechos humanos en el diseño y la instrumentación de políticas y programas de gobierno;
 
-III. Establecer mecanismos transparentes de seguimiento y evaluación de la implementación de políticas, programas gubernamentales, legislación y compromisos derivados de tratados internacionales en la materia.
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2026)</small>
+
+II. Promover la participación, tomar en cuenta la opinión y considerar los aspectos culturales, éticos, afectivos, educativos y de salud de niñas, niños y adolescentes, en todos aquellos asuntos de su incumbencia, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez;
+
+> <small>(REFORMADA, P.O. 19 DE MARZO DE 2026)</small>
+
+III. Establecer mecanismos transparentes de seguimiento y evaluación de la implementación de políticas, programas gubernamentales, legislación y compromisos derivados de tratados internacionales en la materia, en los que se incorporen datos desagregados al menos por sexo, edad, discapacidad, condición económica y origen étnico, para evaluar el impacto diferenciado de sus acciones en estos grupos de atención prioritaria, y
+
+> <small>(ADICIONADA, P.O. 19 DE MARZO DE 2026)</small>
+
+IV. Las autoridades competentes deberán garantizar que las personas servidoras públicas encargadas de la aplicación de esta Ley reciban formación y capacitación permanente en perspectiva de género y derechos humanos.
 
 > <small>(REFORMADO, P.O. 17 DE MAYO DE 2023)</small>
 
@@ -75,9 +87,11 @@ Cuando se tome una decisión que afecte a niñas, niños o adolescentes, en lo i
 
 El titular del Poder Ejecutivo del Estado y los ayuntamientos deberán tomar las medidas presupuestales y administrativas para garantizar el cumplimiento de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2026)</small>
+
 ###### Artículo 3.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, concurrirán en el cumplimiento del objeto de esta Ley, para el diseño, ejecución, seguimiento y evaluación de políticas públicas en materia de ejercicio, respeto, protección y promoción de los derechos de niñas, niños y adolescentes, así como para garantizar su máximo bienestar posible privilegiando su interés superior a través de medidas estructurales, legales, administrativas y presupuestales.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, concurrirán en el cumplimiento del objeto de esta Ley, para el diseño, ejecución, seguimiento y evaluación de políticas públicas en materia de ejercicio, respeto, protección y promoción de los derechos de niñas, niños y adolescentes, con perspectiva de género, así como para garantizar su máximo bienestar posible privilegiando su interés superior a través de medidas estructurales, legales, administrativas y presupuestales.
 
 Las políticas públicas deberán contribuir a la formación física, psicológica, económica, social, cultural, ambiental y cívica de niñas, niños y adolescentes.
 
@@ -289,13 +303,19 @@ En la aplicación de la presente Ley se tomará en cuenta las condiciones partic
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán medidas de protección especial de derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, alimentario, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o apatridia, o bien, las relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten el ejercicio de sus derechos.
 
+> <small>(ADICIONADO, P.O. 19 DE MARZO DE 2026)</small>
+
+Tratándose de medidas y órdenes de protección para casos de violencias en contra de adolescentes, niñas y niños, se observará lo dispuesto por la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias y la legislación estatal de Acceso de las Mujeres a una Vida Libre de Violencias, para su debida integración y seguimiento en el Registro Nacional de Medidas u Órdenes de Protección de las Mujeres, Adolescentes, Niñas y Niños.
+
 ###### Artículo 11.
 
 Es deber de la familia, la comunidad a la que pertenecen, del Estado y, en general, de todos los integrantes de la sociedad, el respeto y el auxilio para la protección de derechos de niñas, niños y adolescentes, así como garantizarles un nivel adecuado de vida.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2026)</small>
+
 ###### Artículo 12.
 
-Es obligación de toda persona que tenga conocimiento de casos de niñas, niños y adolescentes que sufran o hayan sufrido, en cualquier forma, violación de sus derechos, hacerlo del conocimiento inmediato de las autoridades competentes, de manera que pueda seguirse la investigación correspondiente y, en su caso, instrumentar las medidas cautelares, de protección y de restitución integrales procedentes en términos de las disposiciones aplicables.
+Es obligación de toda persona que tenga conocimiento de casos de niñas, niños y adolescentes que sufran o hayan sufrido, en cualquier forma, violación de sus derechos, o hayan sido víctimas de cualquiera de las violencias señaladas en la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias y la legislación estatal de Acceso de las Mujeres a una Vida Libre de Violencias, hacerlo del conocimiento inmediato de las autoridades competentes, de manera que pueda seguirse la investigación correspondiente y, en su caso, instrumentar las medidas cautelares, de protección y de restitución integrales procedentes en términos de las disposiciones aplicables.
 
 ## TÍTULO SEGUNDO. DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
@@ -347,9 +367,11 @@ XIX. Derechos de niñas, niños y adolescentes migrantes, y
 
 XX. Derecho de acceso a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2026)</small>
+
 ###### Artículo 14.
 
-Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar estos derechos a todas las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias de conformidad con los deberes reforzados de protección del Estado con las niñas, niños y adolescentes, para garantizar sus derechos sin discriminación de ningún tipo o condición.
 
 ### CAPÍTULO SEGUNDO. DEL DERECHO A LA VIDA, A LA SUPERVIVENCIA Y AL DESARROLLO
 
@@ -1303,9 +1325,11 @@ El órgano jurisdiccional federal competente, con base en este artículo y en la
 
 Niñas, niños y adolescentes gozan de los derechos y garantías de seguridad jurídica y debido proceso establecido en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, esta Ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MARZO DE 2026)</small>
+
 ###### Artículo 76.
 
-Las autoridades estatales y municipales, que sustancien procedimientos de carácter jurisdiccional o administrativo o que realicen cualquier acto de autoridad en los que estén relacionados niñas, niños o adolescentes, de conformidad con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez estarán obligadas a observar, cuando menos a:
+Las autoridades estatales y municipales, que sustancien procedimientos de carácter jurisdiccional o administrativo o que realicen cualquier acto de autoridad en los que estén relacionados niñas, niños o adolescentes, de conformidad con su edad, desarrollo evolutivo, cognitivo y grado de madurez y con base en el deber reforzado de protección para asegurar la igualdad sustantiva y su derecho a una vida libre de violencias, estarán obligadas a observar, cuando menos a:
 
 I. Garantizar la protección y prevalencia del interés superior de la niñez;
 
@@ -1387,9 +1411,11 @@ En tanto el Instituto Nacional de Migración determine la condición migratoria 
 
 El principio del interés superior de la niñez será una consideración primordial que se tomará en cuenta durante el procedimiento administrativo migratorio al que estén sujetos niñas, niños y adolescentes migrantes, en el que se estimarán las posibles repercusiones de la decisión que se tome en cada caso.
 
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2026)</small>
+
 ###### Artículo 83.
 
-Las autoridades competentes deberán observar los procedimientos de atención y protección especial de derechos de niñas, niños y adolescentes migrantes, previstos en la Ley de Migración, su Reglamento, Ley General y demás disposiciones jurídicas aplicables, debiendo observar en todo momento el principio del interés superior de la niñez y los estándares internacionales en la materia.
+Las autoridades competentes deberán observar los procedimientos de atención y protección especial de derechos de niñas, niños y adolescentes migrantes, previstos en la Ley de Migración, su Reglamento, Ley General y demás disposiciones jurídicas aplicables, debiendo observar en todo momento el principio del interés superior de la niñez, la perspectiva de género y de derechos humanos, así como los estándares internacionales en ambas materias.
 
 ###### Artículo 84.
 
@@ -1705,7 +1731,9 @@ La Procuraduría de Protección Estatal será coadyuvante de la Procuraduría de
 
 Las autoridades estatales, municipales y los organismos constitucionales autónomos, en el ámbito de su competencia, deberán establecer y garantizar el cumplimiento de la política estatal en materia de derechos de niñas, niños y adolescentes.
 
-Las políticas públicas emprendidas por dichas autoridades garantizarán el ejercicio de los derechos de niñas, niños y adolescentes, para lo cual deberán observar el interés superior de la niñez y asegurar la asignación prioritaria de recursos en términos de las disposiciones aplicables.
+> <small>(REFORMADO, P.O. 19 DE MARZO DE 2026)</small>
+
+Las políticas públicas emprendidas por dichas autoridades garantizarán el ejercicio de los derechos de niñas, niños y adolescentes, para lo cual deberán observar el interés superior de la niñez, la perspectiva de género y de derechos humanos, conforme a los estándares internacionales para su protección y asegurar la asignación prioritaria de recursos en términos de las disposiciones aplicables.
 
 #### SECCIÓN PRIMERA. DE LA DISTRIBUCIÓN DE COMPETENCIAS ESTATALES Y MUNICIPALES
 
@@ -2406,3 +2434,9 @@ P.O. 17 DE DICIEMBRE DE 2025.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 Segundo. Comuníquese el presente Decreto a la Secretaría de Educación y a los Servicios de Educación Pública, ambos del Estado de Nayarit, para su conocimiento y efectos conducentes.
+
+P.O. 19 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS NUMERALES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE NAYARIT, EN MATERIA DE IGUALDAD SUSTANTIVA Y PERSPECTIVA DE GÉNERO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
