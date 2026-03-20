@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-defensoria-publica-y-asistencia-juridica-gratuita-103427
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-02"
-last_updated: "2023-03-16"
+last_updated: "2026-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103427&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE DEFENSORÍA PÚBLICA Y ASISTENCIA JURÍDICA GRATUITA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 2 de octubre de 2014.
 
@@ -129,9 +129,11 @@ Sin perjuicio de lo señalado en las fracciones anteriores, en los casos de pres
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2026)</small>
+
 ###### Artículo 5.
 
-La Unidad de Defensoría Pública y la Unidad de Asistencia Jurídica son áreas administrativas pertenecientes al Instituto de Acceso a la Justicia del Estado, organismo descentralizado de la Administración Pública del Estado de Campeche, con personalidad jurídica y patrimonio propio, sectorizado a la Secretaría de Gobierno de la propia Administración.
+La Unidad de Defensoría Pública y la Unidad de Asistencia Jurídica son áreas administrativas pertenecientes al Instituto de Acceso a la Justicia del Estado, organismo descentralizado de la Administración Pública del Estado de Campeche, con personalidad jurídica y patrimonio propio, sectorizado a la Consejería Jurídica de la propia Administración.
 
 ###### Artículo 6.
 
@@ -1064,3 +1066,15 @@ Artículo Tercero.- El organismo descentralizado denominado “Instituto de Acce
 Artículo Cuarto.- La prestación de servicios de asistencia jurídica a que se refiere este decreto se realizará de manera gradual, a partir del 1° de enero de 2024, de conformidad con la disponibilidad de recursos humanos, administrativos y financieros con que cuente el Instituto de Acceso a la Justicia del Estado
 
 Artículo Quinto.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al presente decreto.
+
+P.O. 20 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 203 POR EL QUE “SE REFORMA EL ARTÍCULO 5 DE LA LEY DE DEFENSORÍA PÚBLICA Y ASISTENCIA JURÍDICA GRATUITA DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido del presente decreto.
+
+TERCERO.- De manera enunciativa más no limitativa, en un plazo de 90 días contados a partir de la entrada en vigor del presente decreto, deberán realizarse las modificaciones correspondientes al Reglamento Interior del Instituto de Acceso a la Justicia del Estado de Campeche, al Reglamento Interior de la Secretaría de Gobierno, al Reglamento Interior de la Consejería Jurídica, y demás disposiciones relativas y aplicables del marco jurídico estatal que resulten necesarias para el debido cumplimiento de lo dispuesto por este decreto.
+
+CUARTO.- En un plazo no mayor a 30 días naturales contados a partir de la entrada en vigor del presente decreto se deberá instalar y celebrar la primera sesión de la Junta de Gobierno, en el lugar y fecha que oportunamente determine la o el Presidente de la Junta de Gobierno.
