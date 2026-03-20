@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2026-02-04"
+last_updated: "2026-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE MARZO DE 2026.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -1989,9 +1989,9 @@ I. En caso de que el tutor que le asiste el derecho de visita tuviera una nueva 
 
 II. Transcurridos tres meses de que el Juez haya dictado el régimen de convivencia provisional, solicitará de oficio la comparecencia de ambos tutores y del acreedor alimentario con el propósito de verificar el cumplimiento del interés superior de niñas, niños y adolescentes.
 
-> <small>(ADICIONADA, G.G. 19 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, G.G. 20 DE MARZO DE 2026)</small>
 
-III. La convivencia se suspenderá de acreditarse el uso de castigo corporal, del castigo humillante, así como de cualquier otro tipo de violencia ejercida sobre la niña, niño o adolescente y sólo podrá reanudarse cuando quien ejerza dicho derecho de convivencia acredite haberse sometido satisfactoriamente a un proceso de reeducación o enseñanza de habilidades de crianza positiva, que se acredite fehacientemente, con la opinión positiva de la Procuraduría de Protección de Niñas, Niños y Adolescentes que corresponda.
+III. La convivencia se suspenderá de acreditarse el uso de castigo corporal, del castigo humillante, así como de ejercer cualquier tipo, formas o modalidad de violencia contra las mujeres, o la ejercida contra la niña, niño o adolescente, y sólo podrá reanudarse cuando quien ejerza dicho derecho de convivencia acredite haberse sometido satisfactoriamente a un proceso de reeducación o enseñanza de habilidades de crianza positiva, que se acredite fehacientemente, con la opinión positiva de la Procuraduría de Protección de Niñas, Niños y Adolescentes que corresponda.
 
 Separación provisional de los cónyuges y alimentos de los hijos
 
@@ -3131,17 +3131,17 @@ Quien haya sido sentenciado por la comisión del delito de feminicidio, homicidi
 
 Las hijas o hijos que llegaren a tener deberán ser resguardados únicamente por su madre, y a falta de ésta, por su familia, atendiendo al principio del interés superior de la niñez; la o el juez de lo familiar deberá nombrar a un tutor o tutora.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 16 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 20 DE MARZO DE 2026)</small>
 
-II. Por las costumbres depravadas de los que ejercen la patria potestad, malos tratos, castigo corporal, castigo humillante, cualquier tipo o forma de violencia, incluida la violencia familiar o abandono de sus deberes alimentarios o de guarda o custodia por más de dos meses.
+II. Por las costumbres depravadas de los que ejercen la patria potestad, malos tratos, castigo corporal, castigo humillante, cualquier tipo, formas o modalidad de violencia contra las mujeres, o la ejercida contra la niña, niño o adolescente, y/o abandono de sus deberes alimentarios o de guarda o custodia por más de dos meses.
 
 > <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2007)</small>
 
 Quien haya perdido la patria potestad por el abandono de sus deberes alimentarios, podrá recuperar la misma, cuando compruebe que ha cumplido con ésta por más de un año y, en su caso, otorgue garantía anual sobre la misma;
 
-> <small>(ADICIONADO, G.G. 19 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO, G.G. 20 DE MARZO DE 2026)</small>
 
-Quien haya perdido la patria potestad por el ejercicio de castigo corporal, castigo humillante o cualquier tipo de violencia, atendiendo a todas las circunstancias del caso y en función del interés superior de la niñez y de la adolescencia, podrá recuperar la misma al acreditar haberse sometido satisfactoriamente a un proceso reeducativo de agresores y métodos de crianza positivos y de buenos tratos hacia niñas, niños y adolescentes, así como contar con visto bueno de la Procuraduría de Protección de Niñas, Niños y Adolescentes. Excepto si la niña, niño o adolescente se encontrara en un proceso de adopción o haya sido adoptado;
+Quien haya perdido la patria potestad por el ejercicio de castigo corporal, castigo humillante o cualquier tipo de violencia, como la violencia psicológica, violencia patrimonial, violencia económica, violencia familiar, violencia sexual, violencia simbólica, violencia mediática y violencia vicaria o incumplimiento de obligaciones de crianza, en agravio de niñas, niños o adolescentes; atendiendo a todas las circunstancias del caso y en función del interés superior de la niñez y de la adolescencia, podrá recuperar la misma al acreditar haberse sometido satisfactoriamente a un proceso reeducativo de agresores y métodos de crianza positivos y de buenos tratos hacia niñas, niños y adolescentes, así como contar con valoraciones psicológicas y de trabajo social favorables y visto bueno de la Procuraduría de Protección de Niñas, Niños y Adolescentes. Excepto si la niña, niño o adolescente se encontrara en un proceso de adopción o haya sido adoptado;
 
 > <small>(REFORMADA, G.G. 19 DE ABRIL DE 2021)</small>
 
@@ -4507,7 +4507,7 @@ Efectos de la extinción del patrimonio familiar
 
 Concepto de grupo familiar
 
-> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 20 DE MARZO DE 2026)</small>
 
 ## TITULO DECIMO SEGUNDO. De la Protección contra la Violencia Familiar
 
@@ -4517,7 +4517,9 @@ Denuncia de violencia familiar
 
 ###### Artículo 4.
 
-397.- Para los efectos del presente título se entiende por:
+397.- Para los efectos del presente Código se entiende por:
+
+> <small>(REFORMADO, G.G. 29 DE AGOSTO DE 2007)</small>
 
 I. Violencia familiar: Toda acción, omisión o abuso, que afecte la integridad física, psicológica, moral, sexual, patrimonial y/o la libertad de una persona en el ámbito del grupo familiar aún cuando se configure un delito:
 
@@ -4525,7 +4527,7 @@ I. Violencia familiar: Toda acción, omisión o abuso, que afecte la integridad 
 
 a. Violencia psicológica: Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: discriminación de género, negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, devaluación, marginación, desamor, indiferencia, infidelidad, comparaciones destructivas, rechazo, restricción a la autodeterminación y amenazas, las cuales pueden conllevar a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio.
 
-Generar sentimientos negativos, odio, desprecio, rencor o rechazo hacia uno de los progenitores, tendrá como consecuencia únicamente la suspensión o pérdida de la guarda y custodia del menor.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, G.G. 20 DE MARZO DE 2026)</small>
 
 b. Violencia física: Es cualquier acto que infringe daño no accidental, usando la fuerza física o algún tipo de arma u objeto que pueda provocar o no lesiones ya sean internas, externas, o ambas.
 
@@ -4533,13 +4535,23 @@ c. Violencia patrimonial: Es cualquier acto u omisión que afecta la supervivenc
 
 d. Violencia sexual: Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad del receptor de violencia y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía del generador de violencia hacia el receptor de la violencia.
 
-> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.G. 20 DE MARZO DE 2026)</small>
 
-e. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, libertad, integridad física o psicológica de los integrantes del grupo familiar.
+e) Violencia vicaria: A la establecida en términos de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de México.
+
+(ADICIONADO [N. DE E. REFORMADO Y REUBICADO ANTES INCISO E)] , G.G. 20 DE MARZO DE 2026)
+
+f) Otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, libertad, integridad física o psicológica de los integrantes del grupo familiar.
+
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2007)</small>
 
 II. Grupo familiar: Conjunto de personas vinculadas por relaciones de: intimidad, mutua consideración y apoyo, parentesco, filiación o convivencia fraterna; o bien, tengan alguna relación conyugal o de concubinato;
 
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2007)</small>
+
 III. Receptor de Violencia: Persona que sufre el maltrato físico, psicológico, sexual y/o daño patrimonial;
+
+> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2007)</small>
 
 IV. Generador de violencia: Persona que a través de su acción, omisión o abuso lesiona los derechos de los miembros del grupo familiar; y
 
@@ -4560,6 +4572,18 @@ Medidas de protección contra la violencia familiar
 397 Ter.- Las medidas de protección son personalísimas e intransferibles y serán las previstas en el Código de Procedimientos Civiles del Estado de México.
 
 La duración de las medidas de protección será de acuerdo con las necesidades del caso concreto.
+
+> <small>(ADICIONADO, G.G. 20 DE MARZO DE 2026)</small>
+
+###### Artículo 4.
+
+397 Quater.- La patria potestad de los menores de edad podrá ser limitada cuando la persona que la ejerce incurra en conductas de violencias, violencia familiar o violencia vicaria, en los términos de los artículos 4.224 y 4.225 de este Código.
+
+> <small>(ADICIONADO, G.G. 20 DE MARZO DE 2026)</small>
+
+###### Artículo 4.
+
+397 Quinquies.- Las personas responsables de los centros de asistencia del sector público, donde se reciban personas menores de edad que hayan sido objeto de la violencia familiar y/o violencia vicaria, tendrán la custodia de éstas en los términos de la Ley que Regula los Centros de Asistencia Social y las Adopciones en el Estado de México. En todo caso darán aviso al Ministerio Público y a quien corresponda el ejercicio de la patria potestad y no se encuentre señalado como responsable del evento de violencia familiar y/o de violencia vicaria.
 
 ###### Artículo 4.
 
@@ -4591,15 +4615,15 @@ La duración de las medidas de protección será de acuerdo con las necesidades 
 
 Derechos y obligaciones que nacen del concubinato
 
-###### Artículo 4.
-
-404.- Las personas en concubinato tienen los derechos y obligaciones alimentarias, de familia, hereditarios y de protección contra la violencia familiar reconocidos en el presente Código y en otras disposiciones legales, así como los establecidos para los cónyuges, en todo aquello que les sea aplicable, sobre todo los dirigidos a la protección de las mujeres de las hijas y los hijos.
-
 ## TITULO DECIMO TERCERO. Del Concubinato
 
 > <small>(REFORMADO, G.G. 1 DE NOVIEMBRE DE 2022)</small>
 
 Definición del concubinato
+
+###### Artículo 4.
+
+404.- Las personas en concubinato tienen los derechos y obligaciones alimentarias, de familia, hereditarios y de protección contra la violencia familiar reconocidos en el presente Código y en otras disposiciones legales, así como los establecidos para los cónyuges, en todo aquello que les sea aplicable, sobre todo los dirigidos a la protección de las mujeres de las hijas y los hijos.
 
 # LIBRO QUINTO. De los Bienes
 
@@ -18898,3 +18922,15 @@ DÉCIMO. Todas las instituciones que tengan a su cargo el resguardo de cuerpos y
 DÉCIMO PRIMERO. El Congreso del Estado deberá realizar las previsiones presupuestales necesarias para que los entes públicos puedan cumplir con lo previsto en este Decreto.
 
 DÉCIMO SEGUNDO. Los recursos para llevar a cabo la implementación de las acciones que se deriven del presente Decreto se cubrirán con cargo al presupuesto autorizado a las dependencias y entidades estatales, así como a los municipios.
+
+G.G. 20 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 285.- POR EL QUE SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 7; SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 7; Y SE DEROGA EL ARTÍCULO 8 TER DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO; SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 4.102 BIS, EL PRIMER Y TERCER PÁRRAFOS DE LA FRACCIÓN II DEL ARTÍCULO 4.224, EL PRIMER PÁRRAFO Y EL INCISO E) DE LA FRACCIÓN I DEL ARTÍCULO 4.397; SE ADICIONA EL INCISO F) A LA FRACCIÓN I DEL ARTÍCULO 4.397 Y LOS ARTÍCULOS 4.397 QUATER Y 4.397 QUINQUIES; Y SE DEROGA EL SEGUNDO PÁRRAFO DEL INCISO A) DE LA FRACCIÓN I DEL ARTÍCULO 4.397 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO; Y SE ADICIONAN LOS ARTÍCULOS 218 BIS Y 218 TER DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
