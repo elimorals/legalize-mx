@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2026-02-11"
+last_updated: "2026-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -485,9 +485,9 @@ V. Tratándose de los delitos de homicidio doloso en perjuicio de personas prove
 
 VI. Cuando varios delitos dolosos sean cometidos por miembros de corporaciones policíacas, autoridades ministeriales, judiciales o de ejecución de sanciones y medidas de seguridad, en cualquier grado de participación, deberá imponérseles la sanción que corresponda para cada uno de ellos, aun cuando con ello se exceda el máximo de la sanción de prisión señalada en la fracción IV del presente artículo; y
 
-> <small>(REFORMADA, P.O. 1 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2026)</small>
 
-VII. Lo dispuesto en la fracción anterior será aplicable a los exintegrantes de las instituciones o corporaciones citadas, cuando empleen cualquier tipo de conocimiento, habilidad o información que hubiesen adquirido u obtenido durante el ejercicio del cargo, siempre y cuando se trate de los delitos dolosos de homicidio, extorsión, robo, o daños ocasionados mediante incendio, inundación o explosión. En estos casos, podrá aumentarse a la suma total de la sanción impuesta una tercera parte de aquella, aun cuando con ello se exceda el máximo de la sanción de prisión señalada en la fracción IV del presente artículo.
+VII. Lo dispuesto en la fracción anterior será aplicable a los exintegrantes de las instituciones o corporaciones citadas, cuando empleen cualquier tipo de conocimiento, habilidad o información que hubiesen adquirido u obtenido durante el ejercicio del cargo, siempre y cuando se trate de los delitos dolosos de homicidio, robo, o daños ocasionados mediante incendio, inundación o explosión. En estos casos, podrá aumentarse a la suma total de la sanción impuesta una tercera parte de aquella, aun cuando con ello se exceda el máximo de la sanción de prisión señalada en la fracción IV del presente artículo.
 
 ### CAPÍTULO II. TRATAMIENTO EN LIBERTAD Y SEMILIBERTAD DE IMPUTABLES
 
@@ -2651,8 +2651,6 @@ XIV. Alcance un lucro indebido para sí o para otro valiéndose de alguna manipu
 
 ### CAPÍTULO VI. EXTORSIÓN
 
-> <small>(REFORMADO, P.O. 9 DE OCTUBRE DE 2024)</small>
-
 ###### Artículo 208.
 
 Se impondrán de cuatro a ocho años de prisión y multa de cuatrocientas a un mil Unidades de Medida y Actualización y el pago total de la reparación de los daños y perjuicios ocasionados, a quien:
@@ -2669,29 +2667,19 @@ Será considerada como agravante, incrementándose la pena de prisión en una mi
 
 El delito establecido en este artículo se perseguirá de oficio
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE MARZO DE 2026)</small>
+
 ### CAPÍTULO VII. DESPOJO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE OCTUBRE DE 2024)</small>
 
 ###### Artículo 209.
 
-Se impondrán de tres a diez años de prisión y multa de doscientas a ochocientas Unidades Diarias de Medida y Actualización, al que, con ánimo de lucro, por cualquier medio, obligare a otro, con intimidación o engaño, a dar, tolerar algo, realizar u omitir un acto o negocio jurídico en perjuicio de su patrimonio o el de un tercero.
+(DEROGADO, P.O. 20 DE MARZO DE 2026)
 
 ###### Artículo 210.
 
-Las sanciones previstas en el artículo anterior se aumentarán en una mitad cuando en la comisión del delito:
-
-I. Intervenga una o más personas armadas o porten instrumentos peligrosos;
-
-II. Se cometa con violencia;
-
-III. Se cometa por vía telefónica o cualquier medio de comunicación mediante los cuales se pueda realizar la emisión, transmisión o recepción de signos, señales, escritos, imágenes, voz, sonidos o información de cualquier naturaleza, que se efectúe por hilos, radioelectricidad, medios ópticos, físicos, vía satelital u otros sistemas electromagnéticos;
-
-IV. El sujeto activo del delito de extorsión se encuentre en reclusorio o centro de reinserción social;
-
-V. Se cometa por servidor público o exservidor público o por miembro o exmiembro de alguna corporación policial o de las fuerzas armadas. En este caso, se impondrá además al sujeto activo, destitución, en su caso, y suspensión para desempeñar algún empleo, cargo o comisión públicos por un término igual a la sanción de prisión;
-
-VI. Si es cometido en contra de un menor de edad o de una persona que no tenga la capacidad de comprender el significado del hecho, o bien en una persona mayor de sesenta años.
+(DEROGADO, P.O. 20 DE MARZO DE 2026)
 
 ### CAPÍTULO VIII. DAÑO EN PROPIEDAD AJENA
 
@@ -4835,19 +4823,21 @@ Se impondrán de uno a siete años de prisión y multa de cien a doscientos día
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
-### CAPÍTULO I. NARCOMENUDEO, SECUESTRO, TRATA DE PERSONAS, TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES Y DELITOS ELECTORALES
+### CAPÍTULO I
 
-> <small>(REFORMADO, P.O. 13 DE JULIO DE 2017)</small>
+NARCOMENUDEO, SECUESTRO, TRATA DE PERSONAS, TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES, DELITOS ELECTORALES, DELITO DE EXTORSIÓN Y LOS DELITOS VINCULADOS CON EL DELITO DE EXTORSIÓN
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2026)</small>
 
 ## TÍTULO VIGÉSIMO QUINTO. DELITOS CONTENIDOS EN LEYES ESPECIALES
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE JULIO DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE MARZO DE 2026)</small>
 
 ### CAPÍTULO II. PROTECCIÓN CIVIL
 
 ###### Artículo 379.
 
-En los casos de Narcomenudeo, Secuestro, Trata de Personas, Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes y Delitos Electorales se aplicarán las disposiciones contenidas en la Ley General de Salud, la Ley General para Prevenir y Sancionar los Delitos en materia de Secuestro, Reglamentaria de la fracción XXI del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General para Prevenir, Sancionar y Erradicar los Delitos en materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, y la Ley General en Materia de Delitos Electorales, respectivamente.
+En los casos de Narcomenudeo, Secuestro, Trata de Personas, Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, Delitos Electorales, Delito de Extorsión y los Delitos vinculados al Delito de Extorsión, se aplicarán las disposiciones contenidas en la Ley General de Salud, la Ley General para Prevenir y Sancionar los Delitos en materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General para Prevenir, Sancionar y Erradicar los Delitos en materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, la Ley General en Materia de Delitos Electorales, y la Ley General para Prevenir, Investigar y Sancionar los Delitos en materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, respectivamente.
 
 ### CAPÍTULO ÚNICO
 
@@ -5620,3 +5610,13 @@ Primero.- El presente decreto entrará en vigor al día siguiente de su publicac
 Segundo.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, continuarán su trámite de conformidad con las disposiciones vigentes en el momento de la comisión de los hechos que les dieron origen.
 
 Tercero.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 20 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 204 POR EL QUE “SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 36; LA DENOMINACIÓN DEL CAPÍTULO I, DENOMINADO “NARCOMENUDEO, SECUESTRO, TRATA DE PERSONAS, TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES Y DELITOS ELECTORALES” PARA QUEDAR COMO “NARCOMENUDEO, SECUESTRO, TRATA DE PERSONAS, TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES, DELITOS ELECTORALES, DELITO DE EXTORSIÓN Y LOS DELITOS VINCULADOS CON EL DELITO DE EXTORSIÓN” Y SU ARTÍCULO 379, DEL TÍTULO VIGÉSIMO QUINTO, DENOMINADO “DELITOS CONTENIDOS EN LEYES ESPECIALES”; Y SE DEROGA EL CAPÍTULO VI, DENOMINADO “EXTORSIÓN” Y SUS ARTÍCULOS 209 Y 210 DEL TÍTULO QUINTO DENOMINADO “DELITOS CONTRA EL PATRIMONIO”, TODOS DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las disposiciones relativas a los delitos de extorsión previstas en el Código Penal del Estado de Campeche que mediante este decreto se derogan, seguirán aplicándose por los hechos realizados durante su vigencia, de conformidad con lo dispuesto en el Artículo Quinto Transitorio del Decreto de expedición de la Ley General para Prevenir, Investigar y Sancionar los Delitos en materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, publicado el 28 de noviembre de 2025 en el Diario Oficial de la Federación.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido del presente decreto.
