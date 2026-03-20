@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-817-para-las-personas-con-discapacidad-del-84760"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-20"
-last_updated: "2025-12-23"
+last_updated: "2026-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84760&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 817 PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE GUERRERO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 20 de diciembre de 2011.
 
@@ -55,13 +55,11 @@ De manera enunciativa y no limitativa, esta Ley reconoce a las personas con disc
 
 ### CAPÍTULO II. Definiciones
 
-(NOTA: EL 22 DE SEPTIEMBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 147/2024, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 23 DE SEPTIEMBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 3.
 
-PERSONA CON DISCAPACIDAD ES AQUELLA QUE PADECE ALGUNA DEFICIENCIA FÍSICA, MENTAL, DEL HABLA O SENSORIAL, YA SEA DE NATURALEZA PERMANENTE O TEMPORAL, QUE LIMITA LA CAPACIDAD DE EJERCER UNA O MÁS ACTIVIDADES ESENCIALES DE LA VIDA DIARIA, QUE PUEDE SER CAUSADA O AGRAVADA POR EL ENTORNO ECONÓMICO O SOCIAL.
+Persona con discapacidad es aquella que padece alguna deficiencia física, mental, sensorial o intelectual, ya sea de naturaleza permanente o temporal, que limita la capacidad de ejercer una o más actividades esenciales de la vida diaria, que puede ser causada o agravada por el entorno económico y social.
 
 Se aceptan las tres clases de afectación o alteración que clasifica la Organización Mundial de la Salud como causantes de la discapacidad:
 
@@ -85,39 +83,51 @@ III. Discapacidad Mental: la que se caracteriza por una disminución de las func
 
 IV. Discapacidad Sensorial: la que se presenta por una alteración del funcionamiento en el área del cerebro que controla los sentidos;
 
-V. Personas Ciegas: aquellas que tienen ausencia total de la percepción visual, incluyendo la sensación luminosa o que no distinguen imágenes;
+> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2026)</small>
 
-VI. Débil Visual: persona que tiene una percepción menor de las imágenes, sensaciones luminosas o ambas;
+V. Discapacidad Intelectual. Se caracteriza por limitaciones significativas tanto en la estructura del pensamiento razonado, como en la conducta adaptativa de la persona, y que al interactuar con las barreras que le impone el entorno social, pueda impedir su inclusión plena y efectiva en la sociedad, en igualdad de condiciones con los demás;
 
-VII. Sordos: personas que presentan ausencia de la audición o una disminución importante de ésta;
+VI. Personas Ciegas: aquellas que tienen ausencia total de la percepción visual, incluyendo la sensación luminosa o que no distinguen imágenes;
 
-VIII. Autismo: espectro de trastornos caracterizados por graves déficits del desarrollo," permanente y profundo.
+VII. Débil Visual: persona que tiene una percepción menor de las imágenes, sensaciones luminosas o ambas;
 
-IX. Estimulación Temprana: atención brindada al niño de entre 0 y 7 años, para potenciar y desarrollar al máximo sus posibilidades físicas, mentales, sensoriales y afectivas, mediante programas sistemáticos y secuenciados que abarquen todas las áreas del desarrollo humano;
+VIII. Sordos: personas que presentan ausencia de la audición o una disminución importante de ésta;
 
-X. Asistencia Social: conjunto de acciones encaminadas a atender y mejorar las circunstancias de carácter social que impiden a las personas con discapacidad su desarrollo integral; tacto;
+IX. Autismo: espectro de trastornos caracterizados por graves déficits del desarrollo, permanente y profundo.
 
-XI. Ayudas Técnicas: dispositivos tecnológicos que permiten habilitar, rehabilitar o compensar una o más limitaciones funcionales, motrices, sensoriales, intelectuales o emocionales de las personas con discapacidad, con el propósito de impedir la progresión o derivación en otra u otras discapacidades.
+X. Estimulación Temprana: atención brindada al niño de entre 0 y 7 años, para potenciar y desarrollar al máximo sus posibilidades físicas, mentales, sensoriales y afectivas, mediante programas sistemáticos y secuenciados que abarquen todas las áreas del desarrollo humano;
 
-XII. Sistema de Escritura Braille: Sistema para la comunicación representado mediante signos en relieve a través del tacto.
+XI. Asistencia Social: conjunto de acciones encaminadas a atender y mejorar las circunstancias de carácter social que impiden a las personas con discapacidad su desarrollo integral;
 
-XIII. Lenguaje de Señas: Forma de comunicación de una comunidad de sordos, mudos o sordomudos, que consiste en una serie· de signos gestuales y articulados con las manos, acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función comunicativa y que forma parte del patrimonio lingüístico de dicha comunidad;
+XII. Ayudas Técnicas: dispositivos tecnológicos que permiten habilitar, rehabilitar o compensar una o más limitaciones funcionales, motrices, sensoriales, intelectuales o emocionales de las personas con discapacidad, con el propósito de impedir la progresión o derivación en otra u otras discapacidades;
 
-XIV. Lenguaje visual: es un lenguaje que es a través de los ojos ("visualmente"). En el lenguaje visual, la forma más pregnante en términos gestálticos, la constituye el contorno o borde exterior general de una entidad visual o figura.
+XIII. Sistema de Escritura Braille: Sistema para la comunicación representado mediante signos en relieve a través del tacto;
 
-XV. Barreras Arquitectónicas: obstáculos que dificultan, entorpecen o impiden a las personas con discapacidad, su libre desplazamiento tanto en lugares públicos o privados,
+XIV. Lenguaje de Señas: Forma de comunicación de una comunidad de sordos, mudos o sordomudos, que consiste en una serie de signos gestuales y articulados con las manos, acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función comunicativa y que forma parte del patrimonio lingüístico de dicha comunidad;
 
-XVI. Educación Especial: conjunto de servicios, programas, orientación y recursos educativos especializados, que están a disposición de las personas con discapacidad;
+XV. Lenguaje visual: es un lenguaje que es a través de los ojos ("visualmente"). En el lenguaje visual, la forma más pregnante en términos gestálticos, la constituye el contorno o borde exterior general de una entidad visual o figura.
 
-XVII. Secretaría: Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2026)</small>
 
-XVIII. Convención Interamericana: La Convención Interamericana para la eliminación de todas las formas de discriminación contra las personas con discapacidad de la Organización de los Estados Americanos; y
+XVI. Barreras Arquitectónicas: obstáculos que dificultan, entorpecen o impiden a las personas con discapacidad, su libre desplazamiento tanto en lugares públicos o privados, como en exteriores o interiores;
 
-XIX. Convenio 159: Tratado sobre la readaptación profesional y el empleo de personas inválidas de la Organización Internacional del Trabajo.
+XVII. Educación Especial: conjunto de servicios, programas, orientación y recursos educativos especializados, que están a disposición de las personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2026)</small>
+
+XVIII. Secretaría: Secretaría de Bienestar;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2026)</small>
+
+XIX. Convención Interamericana: La Convención Interamericana para la eliminación de todas las formas de discriminación contra las personas con discapacidad de la Organización de los Estados Americanos;
+
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2026)</small>
+
+XX. Convenio 159: Tratado sobre la readaptación profesional y el empleo de personas inválidas de la Organización Internacional del Trabajo, y
 
 > <small>(ADICIONADA, P.O. 9 DE AGOSTO DE 2024)</small>
 
-XX. Tartamudez: Impedimento o alteración que presenta una persona, de la articulación de los movimientos precisos de la lengua, labios, mandíbula y el tracto bucal, en la producción de los sonidos requeridos para hablar o problemas con la calidad de la voz.
+XXI. Tartamudez: Impedimento o alteración que presenta una persona, de la articulación de los movimientos precisos de la lengua, labios, mandíbula y el tracto bucal, en la producción de los sonidos requeridos para hablar o problemas con la calidad de la voz.
 
 ### CAPÍTULO III. De los Derechos de las Personas con Discapacidad
 
@@ -1200,3 +1210,15 @@ PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO: Remítase a la Titular del Poder Ejecutivo para su conocimiento y su publicación en el Periódico Oficial del Gobierno del Estado para conocimiento general.
 
 TERCERO: Publíquese en la página web oficial del Congreso del Estado Libre y Soberano de Guerrero, para conocimiento general.
+
+P.O. 20 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 272 POR EL QUE REFORMA EL ARTÍCULO 3 Y SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 4 RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES, DE LA LEY NÚMERO 817 PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE GUERRERO".]
+
+PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO: Remítase a la Titular del Poder Ejecutivo para su conocimiento y efectos legales correspondientes.
+
+TERCERO: Remítase a la Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno del Estado, para conocimiento general.
+
+CUARTO: Publíquese en la página web oficial del Congreso del Estado Libre y Soberano de Guerrero, para conocimiento general.
