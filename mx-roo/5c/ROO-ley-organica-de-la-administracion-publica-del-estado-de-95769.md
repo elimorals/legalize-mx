@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-administracion-publica-del-estado-de-95769"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-08-19"
-last_updated: "2025-12-16"
+last_updated: "2026-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95769&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2026.
 
 Ley publicada en el Número 67 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 19 de agosto de 2013.
 
@@ -797,7 +797,9 @@ XXVI. Formular los informes y estudios sobre el comportamiento del gasto públic
 
 XXVII. Aprobar, previo acuerdo del Gobernador del Estado, la participación del Estado en empresas, sociedades, asociaciones civiles y mercantiles, ya sea en su creación, aumento del capital o en la adquisición de todo o parte de éste, conforme lo dispongan las leyes aplicables. En caso de que lo anterior implique mayor presupuesto del autorizado anualmente para el Poder Ejecutivo, requerirá de la aprobación de la Legislatura del Estado;
 
-XXVIII. Ejecutar los convenios de coordinación que en materia impositiva se celebren con la Federación, los Municipios u otros Estados de la República y vigilar su cumplimiento;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2026)</small>
+
+XXVIII. Ejecutar, por si o través (sic) del Servicio de Administración Tributaria de Quintana Roo, los convenios de coordinación que en materia impositiva se celebren con la Federación, los Municipios u otros Estados de la República y vigilar su cumplimiento; asimismo podrá ejercer las atribuciones derivadas de dichos convenios, correspondiéndole realizar actos de fiscalización, recaudación, defensa jurídica, así como los demás aplicables conforme a la normatividad correspondiente.
 
 XXIX. Fungir como representante del Gobierno del Estado ante el Sistema Nacional de Coordinación Fiscal,
 
@@ -936,6 +938,10 @@ LVIII. Establecer, a través del Servicio de Administración Tributaria del Esta
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 24 DE JULIO DE 2024)</small>
 
 LIX. Las demás que le encomienden expresamente las leyes y reglamentos.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2026)</small>
+
+Tratándose de las atribuciones establecidas en la fracción XXVIII la Secretaría de Finanzas y Planeación podrá coordinarse con el Servicio de Administración Tributaria del Estado de Quintana Roo para llevar a cabo la ejecución de dichas actuaciones dentro del ámbito de su competencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2017)</small>
 
@@ -3068,3 +3074,17 @@ P.O. 16 DE DICIEMBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones legales de igual o inferior jerarquía que se opongan al presente Decreto.
+
+P.O. 20 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 206 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE QUINTANA ROO; POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA DEL ESTADO DE QUINTANA ROO, Y POR EL QUE SE REFORMA EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 294 DE LA H. XV LEGISLATURA DEL ESTADO DE QUINTANA ROO, POR EL QUE SE EXPIDE LA LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO EL 31 DE DICIEMBRE DE 2018”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El Poder Ejecutivo del Estado de Quintana Roo deberá expedir y publicar las modificaciones reglamentarias correspondientes, de acuerdo a lo establecido en el presente Decreto, lo cual deberá ocurrir en un plazo no mayor a treinta días hábiles contados a partir de la entrada en vigor del mismo.
+
+En tanto no se expidan y reformen las disposiciones reglamentarias referidas en el párrafo anterior, continuará aplicándose la legislación que se encuentre vigente previo a la fecha de entrada en vigor del presente Decreto.
+
+TERCERO. Los actos de fiscalización en materia de comercio exterior que se encuentren en trámite previo a la entrada en vigor del presente Decreto y a la publicación de las modificaciones reglamentarias correspondientes, iniciados por el Servicio de Administración Tributaria del Estado de Quintana Roo, continuarán siendo sustanciados y concluidos por dicho órgano en términos de la legislación aplicable al momento de iniciados dichos trámites.
+
+CUARTO. Se derogan las disposiciones legales de igual o inferior jerarquía que se opongan al presente Decreto.
