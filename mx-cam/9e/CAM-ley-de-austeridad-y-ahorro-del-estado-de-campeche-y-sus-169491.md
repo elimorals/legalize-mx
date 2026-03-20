@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-austeridad-y-ahorro-del-estado-de-campeche-y-sus-169491"
 country: "mx"
 rank: "ley"
 publication_date: "2023-12-29"
-last_updated: "2025-08-12"
+last_updated: "2026-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=169491&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2026.
 
 Ley publicada en la Segunda Sección del Número 2079 del Periódico Oficial del Estado de Campeche, el viernes 29 de diciembre de 2023.
 
@@ -429,6 +429,26 @@ Las unidades de administración deberán formular bitácoras de combustible para
 
 Los entes públicos podrán instalar dispositivos que se encuentren a la venta en el mercado, para monitorear los recorridos y la real comprobación de combustible, como se determine en las normas de políticas de ejecución del gasto que emita la Secretaría.
 
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2026)</small>
+
+Las bitácoras formarán parte de los mecanismos de registro, justificación y comprobación del gasto por concepto de combustible. Por lo que deberán contener al menos los siguientes datos:
+
+a) Kilometraje recorrido;
+
+b) Litros cargados;
+
+c) El destino o uso del vehículo; y
+
+d) Nombre de la persona responsable de su operación.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2026)</small>
+
+Los entes públicos, los Poderes del Estado y los Municipios podrán prever, en su normativa interna, supuestos de excepción para la integración de las bitácoras, estableciéndolos debidamente, y justificando la particularidad del servicio público correspondiente.
+
+> <small>(ADICIONADO, P.O. 20 DE MARZO DE 2026)</small>
+
+El incumplimiento de esta disposición es causa de responsabilidad administrativa en términos de la normatividad aplicable.
+
 ### CAPÍTULO V. GASTOS EN VIATICOS Y VIAJES OFICIALES
 
 ###### Artículo 43.
@@ -548,3 +568,11 @@ P.O. 12 DE AGOSTO DE 2025.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente hábil de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
+
+P.O. 20 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 205 POR EL QUE “SE ADICIONAN LOS PÁRRAFOS CUARTO, QUINTO Y SEXTO AL ARTÍCULO 42 DE LA LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE CAMPECHE Y SUS MUNICIPIOS”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente hábil de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
