@@ -4,7 +4,7 @@ identifier: "FED-reglamento-para-la-expedicion-de-tarjetas-de-identidad-a-981"
 country: "mx"
 rank: "reglamento"
 publication_date: "1946-08-13"
-last_updated: "1947-04-24"
+last_updated: "2026-03-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=981&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1946-04-06"
 ---
 # REGLAMENTO PARA LA EXPEDICION DE TARJETAS DE IDENTIDAD A MIEMBROS DEL EJERCITO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO PARA LA EXPEDICIÓN DE CREDENCIALES Y TARJETAS DE IDENTIDAD AL PERSONAL DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL, PUBLICADO EN EL D.O.F. DE 20 DE MARZO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO PARA LA EXPEDICIÓN DE TARJETAS DE IDENTIDAD A MIEMBROS DEL EJÉRCITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ABRIL DE 1947.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MARZO DE 2026 (ABROGADO).
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 13 de agosto de 1946.
 
@@ -198,3 +200,17 @@ D.O.F. 24 DE ABRIL DE 1947.
 ###### ARTICULO UNICO.
 
 El presente Decreto entrará en vigor a partir de su publicación en el "Diario Oficial" de la Federación, quedando derogadas todas las disposiciones que se le opongan.
+
+D.O.F. 20 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EMITE EL REGLAMENTO PARA LA EXPEDICIÓN DE CREDENCIALES Y TARJETAS DE IDENTIDAD AL PERSONAL DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Reglamento para la Expedición de Tarjetas de Identidad a Miembros del Ejército, publicado en el Diario Oficial de la Federación, el 13 de agosto de 1946.
+
+TERCERO.- Las credenciales y tarjetas emitidas a los integrantes de la Guardia Nacional con anterioridad al 1 de octubre de 2024, serán válidas hasta un plazo no mayor a seis meses, a partir de la publicación del presente reglamento.
+
+CUARTO.- Las erogaciones que se deriven por la implementación del presente Decreto se cubrirán con cargo al presupuesto aprobado de la Secretaría de la Defensa Nacional, por lo que no se autorizarán ampliaciones líquidas de recursos a su presupuesto en el presente ejercicio fiscal ni en años subsecuentes.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
