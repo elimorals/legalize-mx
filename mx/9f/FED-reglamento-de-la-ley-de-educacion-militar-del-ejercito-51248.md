@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-educacion-militar-del-ejercito-51248"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-08-14"
-last_updated: "2024-08-05"
+last_updated: "2026-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51248&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2006-08-08"
 ---
 # REGLAMENTO DE LA LEY DE EDUCACION MILITAR DEL EJERCITO, FUERZA AEREA Y GUARDIA NACIONAL -- ANTES REGLAMENTO DE LA LEY DE EDUCACION MILITAR DEL EJERCITO Y FUERZA AEREA MEXICANOS --
 
-REGLAMENTO DE LA LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
+REGLAMENTO DE LA LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MARZO DE 2026.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 14 de agosto de 2006.
 
@@ -29,41 +29,47 @@ Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- 
 
 VICENTE FOX QUESADA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I, de la Constitución Política de los Estados Unidos Mexicanos, y con fundamento en los artículos 13 y 29 de la Ley Orgánica de la Administración Pública Federal; 3 y 17 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, y 13, 20, 28 y 42 de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos, he tenido a bien expedir el siguiente
 
-REGLAMENTO DE LA LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE MARZO DE 2026)</small>
+
+REGLAMENTO DE LA LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL
 
 ## TÍTULO PRIMERO. Disposiciones Generales
 
 ### CAPÍTULO ÚNICO. Generalidades
 
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 1.
 
-Las disposiciones del presente ordenamiento tienen por objeto reglamentar la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos en lo relativo al Sistema Educativo Militar; el proceso educativo; la admisión; las altas, bajas y reingresos al Sistema Educativo Militar, así como la acreditación, certificación y revalidación de estudios que señalan las leyes para el sistema educativo nacional.
+Las disposiciones del presente ordenamiento tienen por objeto reglamentar la Ley de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional en lo concerniente al Sistema Educativo Militar, el proceso educativo, la admisión, las altas, bajas y reingresos al Sistema Educativo Militar, así como la acreditación, certificación y revalidación de estudios en los términos previstos por la legislación aplicable al Sistema Educativo Nacional.
+
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 2.
 
-La aplicación e interpretación de este Reglamento corresponde a la Secretaría de la Defensa Nacional, la que ejercerá esta facultad por conducto de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército y Fuerza Aérea.
+La aplicación e interpretación de este Reglamento corresponde a la Secretaría de la Defensa Nacional, la que ejercerá esta facultad por conducto de la Dirección General de Educación Militar y Rectoría de la Universidad del Ejército, Fuerza Aérea y Guardia Nacional.
 
-Los directores de las Instituciones Educativas y Jefes de Curso, vigilarán el cumplimiento de las disposiciones contenidas en este Reglamento.
+Las personas titulares de las direcciones, subdirecciones, secciones académicas, pedagógicas y planta docente de las Instituciones Educativas y Jefaturas de Curso, vigilarán el cumplimiento de las disposiciones contenidas en este Reglamento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE ENERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 3.
 
-Para los efectos de este Reglamento, serán aplicables las definiciones establecidas en el artículo 2 de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos, así como las siguientes:
+Para los efectos de este Reglamento, serán aplicables las definiciones establecidas en el artículo 2 de la Ley de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional, así como las siguientes:
 
-I. Director y Rector: El Director General de Educación Militar y Rector de la Universidad del Ejército y Fuerza Aérea;
+I. (DEROGADA, D.O.F. 20 DE MARZO DE 2026)
 
-II. Ejército y Fuerza Aérea: El Ejército y Fuerza Aérea Mexicanos;
+II. (DEROGADA, D.O.F. 20 DE MARZO DE 2026)
 
 III. Instituciones Educativas: Las Instituciones de Educación Militar;
 
-> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 2026)</small>
 
-IV. Jefaturas de curso: los Jefes de los Cursos de Informática, Archivología y otros que establezca la Secretaría;
+IV. Jefaturas de curso: Las personas Titulares de las Jefaturas de los Cursos que establezca la Secretaría;
 
 V. Plan General: El Plan General de Educación Militar;
 
-VI. Secretario o Alto Mando: El Secretario de la Defensa Nacional, y
+VI. (DEROGADA, D.O.F. 20 DE MARZO DE 2026)
 
 VII. Sistema: El Sistema Educativo Militar.
 
@@ -85,27 +91,33 @@ V. Promover la práctica docente.
 
 La Dirección y Rectoría tendrá como misión administrar y conducir el Sistema de conformidad con lo establecido en la Ley y el presente Reglamento.
 
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 6.
 
-El desarrollo profesional del personal del Ejército y Fuerza Aérea consiste en el paso del militar por las Instituciones Educativas, para adquirir conocimientos, habilidades, destrezas y la axiología que lo capacite integralmente, de acuerdo con su ruta profesional, para ocupar los grados de la escala jerárquica y desempeñarse con responsabilidad y eficiencia en cada cargo y comisión que se le asigne.
+El desarrollo profesional del personal del Ejército, Fuerza Aérea y Guardia Nacional consiste en los estudios que el personal militar realiza en las diversas Instituciones Educativas, para adquirir conocimientos, habilidades, destrezas y la formación axiológica, que lo capacite integralmente, de acuerdo con su ruta profesional, para ocupar los grados de la escala jerárquica y desempeñarse con responsabilidad y eficiencia en cada cargo y comisión que se le asigne.
 
-Este proceso responderá a las necesidades del Ejército y Fuerza Aérea, el cual será estructurado en el Plan General y con base en la ruta profesional militar correspondiente.
+Este proceso responderá a las necesidades del Ejército, Fuerza Aérea y Guardia Nacional, el cual será estructurado en el Plan General y con base en la ruta profesional militar correspondiente.
 
 ## TÍTULO SEGUNDO. Sistema Educativo Militar
 
 ### CAPÍTULO I. Generalidades del Sistema Educativo Militar
 
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 7.
 
-La infraestructura de las Instituciones Educativas estará provista de los recursos humanos, materiales, técnicos, financieros e instalaciones para atender cuantitativa y cualitativamente las necesidades de la Educación del Ejército y Fuerza Aérea.
+La infraestructura de las Instituciones Educativas estará provista de los recursos humanos, materiales, técnicos, financieros e instalaciones para atender cuantitativa y cualitativamente las necesidades de la Educación del Ejército, Fuerza Aérea y Guardia Nacional.
 
 ###### ARTÍCULO 8.
 
 La creación y apertura de otras Instituciones Educativas, Jefaturas de Curso o Cursos, estará sujeta a las necesidades de capacitación de personal militar y a la disponibilidad de recursos humanos y presupuestales.
 
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 9.
 
-El Sistema establecerá lo necesario para proveer a los miembros del Ejército y Fuerza Aérea de las oportunidades de desarrollo profesional.
+El Sistema establecerá lo necesario para proveer a las personas integrantes del Ejército, Fuerza Aérea y Guardia Nacional de las oportunidades de desarrollo profesional.
 
 ###### ARTÍCULO 10.
 
@@ -113,49 +125,61 @@ El personal de las Instituciones Educativas debe cumplir las funciones que estab
 
 ### CAPÍTULO II. Discentes
 
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 11.
 
-Se considera discente al personal nacional y extranjero, civil o militar, que haya sido aceptado, inscrito y se encuentre cursando los estudios que se imparten en el sistema, quedando incluidos en esta denominación genérica, los Generales, Jefes, Oficiales y Clases en instrucción o cursantes, así como los cadetes, alumnos y becarios; de conformidad con la designación particular que se establezca en los reglamentos de las Instituciones Educativas.
+Se consideran discentes a las personas nacionales y extranjeras, civiles o militares, aceptadas, inscritas y que se encuentren cursando los estudios que se imparten en el sistema, quedando incluidas en esta denominación genérica, el personal de Generales, Jefes, Oficiales y Clases en instrucción o cursantes, así como personal de cadetes, alumnos y becarios, de conformidad con la designación particular que se establezca en los reglamentos de las Instituciones Educativas.
+
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 12.
 
-Para los efectos de la preparación profesional, establecidos en los planes y programas de estudio y los complementarios que resulten necesarios, los discentes estarán sujetos a la normatividad que regula el proceso educativo dentro de la Institución Educativa en que hayan sido aceptados.
+Para los efectos de la preparación profesional, las personas discentes estarán sujetas a la normatividad que regula el proceso de formación dentro de la Institución Educativa en que hayan sido aceptados, así como a lo establecido en los planes y programas de estudio y los complementarios que resulten necesarios para su formación profesional.
+
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 13.
 
-Los discentes gozarán de todos los beneficios que las regulaciones aplicables establezcan para éstos, y sólo los perderán o les serán suspendidos en los casos y las condiciones establecidas en las leyes y reglamentos respectivos.
+Las personas discentes gozarán de todos los beneficios que las regulaciones aplicables establezcan para éstos, y sólo los perderán o les serán suspendidos en los casos y las condiciones establecidas en las leyes y reglamentos respectivos.
+
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 14.
 
-Los discentes becarios, sin detrimento del cumplimiento de sus responsabilidades académicas y disciplinarias conforme a lo señalado en este Reglamento, dependerán administrativamente de:
+Las personas discentes becarias, sin detrimento del cumplimiento de sus responsabilidades académicas y disciplinarias conforme a lo señalado en este Reglamento, dependerán administrativamente de:
 
-I. La Secretaría de Marina, los nacionales militares pertenecientes a la Armada de México;
+I. La Secretaría de Marina, las personas nacionales militares pertenecientes a la Armada de México;
 
-II. Las dependencias de la Administración Pública Federal, los nacionales civiles de sus respectivas dependencias o conforme a las disposiciones de la Secretaría, y
+II. Las dependencias de la Administración Pública Federal, las personas nacionales civiles de sus respectivas dependencias o conforme a las disposiciones de la Secretaría, y
 
 III. Los casos no contemplados se ajustarán a lo señalado en los reglamentos internos de cada Institución Educativa o al acuerdo o convenio que para el efecto establezca la Secretaría.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 15.
 
-Los discentes de las Instituciones Educativas se clasifican en las categorías siguientes:
+Las personas discentes de las Instituciones Educativas se clasifican en las categorías siguientes:
 
-I. Internos: cuando permanecen durante las 24 horas del día en la Institución Educativa correspondiente;
+> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 2026)</small>
 
-II. Externos: cuando permanecen en la Institución Educativa únicamente durante el desarrollo de sus actividades académicas;
+I. Internas: cuando permanecen durante las 24 horas del día en la Institución Educativa correspondiente;
+
+> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 2026)</small>
+
+II. Externas: cuando permanecen en la Institución Educativa únicamente durante el desarrollo de sus actividades académicas, y
 
 III. A distancia: cuando realicen sus estudios desde el organismo militar al que pertenecen, y
 
 Las demás que establezcan los reglamentos de las Instituciones Educativas.
 
-> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 16.
 
-Los discentes que causen baja de la Institución Educativa a la que pertenezcan con derecho a reingresar, serán asignados, conforme a las necesidades del servicio, a las unidades, dependencias o instalaciones militares en áreas afines a los estudios que estaban realizando, para lo cual se debe considerar lo siguiente:
+Las personas discentes que causen baja de la Institución Educativa a la que pertenezcan con derecho a reingresar, serán asignados, conforme a las necesidades del servicio, a las unidades, dependencias o instalaciones militares en áreas afines a los estudios que estaban realizando, para lo cual se debe considerar lo siguiente:
 
-I. El personal de oficiales y de tropa en calidad de discentes que cuenten con un plantel militar y causan baja conservarán el grado que tengan al causar baja, con excepción de los cadetes que causen baja de una escuela de formación de oficiales antes de concluir satisfactoriamente sus estudios, los cuales tendrán el grado siguiente:
+I. El personal de oficiales y de tropa en calidad de discentes que cuenten con un plantel militar y causan baja conservarán el grado que tengan al causar baja, con excepción de las personas cadetes que causen baja de una escuela de formación de oficiales antes de concluir satisfactoriamente sus estudios, los cuales tendrán el grado siguiente:
 
 a) Primer año como Soldado;
 
@@ -167,19 +191,23 @@ d) Cuarto año como Sargento Primero, y
 
 e) Quinto y sexto año, conservarán la jerarquía que en ese momento ostenten;
 
-II. Los discentes de una escuela de formación de oficiales que ostenten o hayan ostentado un grado de la escala jerárquica militar serán puestos a disposición de las direcciones generales que correspondan de la Secretaría, y conservarán dicho grado, a no ser que en virtud de los años de estudios realizados de conformidad con la fracción I de este artículo, tengan derecho a un grado superior, en cuyo caso se les otorgará este último, y
+II. Las personas discentes de una escuela de formación de oficiales que ostenten o hayan ostentado un grado de la escala jerárquica militar serán puestos a disposición de las direcciones generales de la Secretaría, y conservarán dicho grado, a no ser que en virtud de los años de estudios realizados de conformidad con la fracción I de este artículo, tengan derecho a un grado superior, en cuyo caso se les otorgará este último, y
 
-III. El discente debe permanecer en la unidad, dependencia o instalación militar en la que fue asignado, por el tiempo necesario previo a su reingreso.
+III. La persona discente debe permanecer en la unidad, dependencia o instalación militar en la que fue asignado, por el tiempo necesario previo a su reingreso.
 
 ### CAPÍTULO III. Docentes
 
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 17.
 
-Se considera docente al personal militar y civil, nacional o extranjero, que tiene a su cargo la aplicación del proceso educativo.
+Se considera docente a las personas militares y civiles, nacionales o extranjeras, que tienen a su cargo la aplicación del proceso educativo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 18.
 
-El personal militar, para desempeñar funciones docentes, deberá cubrir los requisitos siguientes:
+La persona militar, para desempeñar funciones docentes, deberá cubrir los requisitos siguientes:
 
 I. Buena conducta militar y civil;
 
@@ -193,9 +221,11 @@ V. Realizar el Curso de Capacitación Docente, y
 
 VI. Otros que establezca la Secretaría.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 19.
 
-El personal militar, para desempeñar funciones de instructor del cuerpo de cadetes o discentes, deberá acreditar los requisitos siguientes:
+La persona militar, para desempeñar funciones de instructor del cuerpo de cadetes o discentes, deberá acreditar los requisitos siguientes:
 
 I. Buena conducta militar y civil;
 
@@ -209,25 +239,29 @@ V. Habilidad para establecer y mantener buenas relaciones interpersonales, y
 
 VI. Otros que establezca la Secretaría.
 
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 20.
 
-El personal civil que solicite desempeñar funciones docentes en el Sistema podrá ser aceptado mediante exámenes de oposición y, además, deberá reunir los requisitos siguientes:
+Las personas civiles que soliciten desempeñar funciones docentes en el Sistema deberán realizar el proceso de contratación y, además, deberán reunir los requisitos siguientes:
 
-I. Aptitud y actitud para desempeñarse en el Sistema;
+I. Aptitud para desempeñar su labor de manera eficiente y eficaz.
 
-II. Afinidad de su especialidad laboral con la materia o materias que habrá de impartir;
+II. Dominio de los conocimientos de la asignatura a impartir;
 
-III. Nivel académico igual o superior a los estudios que imparta en la Institución Educativa a la que será asignado, comprobado mediante documento oficial que lo acredite y cédula profesional cuando corresponda;
+III. Nivel académico igual o superior a los estudios que se imparten en la Institución Educativa en que será contratado;
 
-IV. Experiencia profesional y docente mínima de dos años en el campo de su especialidad;
+IV. Contar con experiencia profesional y docente mínima de dos años en el campo de su especialidad;
 
-V. Habilidad para establecer y mantener buenas relaciones interpersonales, y
+V. Contar con habilidades docentes acordes a las necesidades educativas actuales y al nivel de estudios de la Institución Educativa contratante, y
 
 VI. Otros que establezca la Secretaría.
 
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 21.
 
-Los Directores de las Instituciones Educativas y Jefes de Curso, deberán comprobar la autenticidad de los documentos que acrediten el nivel académico del personal que solicite causar alta como docente.
+Las personas titulares de las Direcciones de las Instituciones Educativas y de las Jefaturas de Curso, deberán comprobar la autenticidad de los documentos que acrediten el nivel académico de las personas que soliciten causar alta como docentes.
 
 > <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2023)</small>
 
@@ -235,11 +269,11 @@ Los Directores de las Instituciones Educativas y Jefes de Curso, deberán compro
 
 La Dirección y Rectoría emitirá los nombramientos o, en su caso, suscribirá los contratos que rijan la relación administrativa de la Secretaría con el personal docente civil. Tanto los nombramientos como los contratos señalarán, por lo menos, los datos personales, la descripción de los servicios, la duración de la jornada de trabajo, el salario y el lugar de prestación de servicios, conforme a las disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 23.
 
-El personal docente civil, ya sea de base o contratado por servicios profesionales, además de lo señalado en su respectivo nombramiento o contrato debe cumplir con las obligaciones siguientes:
+Las personas docentes civiles, ya sea de base o contratada por servicios profesionales, además de lo señalado en su respectivo nombramiento o contrato, deben cumplir con las obligaciones siguientes:
 
 I. Cumplir los objetivos establecidos en los planes y programas de estudio, en el marco de la materia o materias que impartan;
 
@@ -259,7 +293,9 @@ VIII. Cumplir con los procedimientos de evaluación del aprendizaje y del desemp
 
 IX. Conservar la confidencialidad de los exámenes o cualquier otro instrumento de evaluación, evitando su difusión previo a la aplicación de los mismos;
 
-X. Asesorar a los discentes con respecto a su materia en los horarios que para el efecto establezca la Institución Educativa;
+> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 2026)</small>
+
+X. Asesorar a las personas discentes respecto a su materia en los horarios que para el efecto establezca la Institución Educativa;
 
 XI. Proponer la actualización del plan y programa de estudios de las materias que tenga a su cargo;
 
@@ -279,17 +315,23 @@ XVIII. Exhibir la documentación personal que le sea requerida por la Instituci�
 
 XIX. Informar por escrito cualquier cambio en los datos personales, especificados en su nombramiento.
 
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 24.
 
-Los docentes civiles se regirán por las disposiciones legales respectivas, por lo que respecta a sus derechos y prestaciones.
+Las personas docentes civiles se regirán por las disposiciones legales respectivas, por lo que respecta a sus derechos y prestaciones, conforme a lo establecido en su nombramiento o contrato de prestación de servicios vigente.
+
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 25.
 
-El personal militar nacional o extranjero, designado como docente tendrá las mismas obligaciones que señala el artículo 23 de este Reglamento.
+La persona militar nacional o extranjera, designada como docente tendrá las mismas obligaciones que señala el artículo 23 de este Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 26.
 
-La calidad y cantidad del personal docente debe corresponder a la extensión y complejidad de los programas académicos de las Instituciones Educativas.
+La calidad y cantidad de las personas docentes deben corresponder a la extensión y complejidad de los programas académicos de las Instituciones Educativas.
 
 En caso necesario, la Dirección y Rectoría determinará, previo análisis del impacto que ello ocasione, la propuesta de empleo de personal de apoyo docente ajeno a las Instituciones Educativas.
 
@@ -301,13 +343,17 @@ La Dirección y Rectoría es responsable de la capacitación del personal docent
 
 Los cambios de adscripción del personal docente, preferentemente, deberán realizarse en los periodos intermedios del término de un curso y el inicio del siguiente.
 
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 29.
 
-Los directores de las Instituciones Educativas y Jefes de Curso, enviarán las propuestas del personal que se haga acreedor al otorgamiento de las recompensas, conforme a lo establecido en la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos y su Reglamento.
+Las personas titulares de las Direcciones de las Instituciones Educativas y de las Jefaturas de Curso, enviarán las propuestas del personal que se haga acreedor al otorgamiento de las recompensas, conforme a lo establecido en la Ley de Ascensos y Recompensas del Ejército, Fuerza Aérea y Guardia Nacional y su Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 30.
 
-Las Instituciones Educativas deberán integrar y mantener actualizado un expediente individual de los docentes, con copia certificada de la documentación básica siguiente:
+Las Instituciones Educativas deberán integrar y mantener actualizado un expediente individual de las personas docentes, con copia certificada de la documentación básica siguiente:
 
 I. Comprobante de los estudios realizados;
 
@@ -337,9 +383,11 @@ VIII. Otras que establezca la Dirección y Rectoría.
 
 ### CAPÍTULO IV. Personal de Apoyo a la Educación
 
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 31.
 
-Se considera personal de apoyo a la educación, a los militares que cumplen funciones docentes, técnicas, administrativas, logísticas y de servicio, indispensables para facilitar el cumplimiento de la misión de la Institución Educativa a la que estén asignados.
+Se considera personal de apoyo a la educación, a las personas militares que cumplen funciones como especialistas en educación: docentes, técnicas, administrativas, logísticas y de servicio, indispensables para facilitar el cumplimiento de la misión de la Institución Educativa a la que estén asignadas.
 
 ###### ARTÍCULO 32.
 
@@ -351,33 +399,47 @@ La cantidad y especialidad del personal de apoyo a la educación asignado a cada
 
 Las autoridades del Sistema, son:
 
-I. El Secretario;
+> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 2026)</small>
 
-II. El Director y Rector;
+I. La persona titular de la Secretaría;
 
-III. Los directores de las Instituciones Educativas;
+> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 2026)</small>
 
-> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2012)</small>
+II. La persona titular de la Dirección y Rectoría;
 
-IV. Los Jefes de los Cursos de Informática, Archivología y de aquellos otros cursos que determine la Secretaría, y
+> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 2026)</small>
+
+III. Las personas titulares de las Direcciones de las Instituciones Educativas;
+
+> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 2026)</small>
+
+IV. Las personas titulares de las Jefaturas de los Cursos de Informática, Archivología y de aquellos otros cursos que determine la Secretaría, y
 
 V. Otras que determine la Secretaría.
 
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 34.
 
-El Secretario es el responsable de la educación profesional de los miembros del Ejército y Fuerza Aérea y a él corresponde establecer la filosofía, políticas educativas, objetivos y líneas de acción para el Sistema en el Plan General.
+La Secretaría es la responsable de la educación profesional de las personas integrantes del Ejército, Fuerza Aérea y Guardia Nacional y le corresponde establecer la filosofía, políticas educativas, objetivos y líneas de acción para el Sistema en el Plan General.
+
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 35.
 
-El Secretario ejerce la conducción del Sistema a través de la Dirección y Rectoría.
+La persona titular de la Secretaría ejerce la conducción del Sistema a través de la Dirección y Rectoría.
+
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 36.
 
-El Director y Rector, deberá ser General procedente de Arma, Diplomado de Estado Mayor con estudios de posgrado, nombrado por el Alto Mando.
+La persona titular de la Dirección y Rectoría, deberá tener el grado de General de Arma, de Estado Mayor con estudios de posgrado, nombrado por la persona titular de la Secretaría.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 37.
 
-El Director y Rector tiene las atribuciones siguientes:
+La persona titular de la Dirección y Rectoría tiene las atribuciones siguientes:
 
 I. Dirigir, administrar y representar al Sistema;
 
@@ -389,7 +451,9 @@ IV. Aprobar los planes y programas de estudio correspondientes;
 
 V. Expedir y firmar los documentos de acreditación, certificación, revalidación y validación de estudios, llevando el registro correspondiente;
 
-VI. Proponer al Alto Mando convenios con instituciones nacionales o extranjeras para promover el desarrollo educativo, cultural y científico en el Sistema;
+> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 2026)</small>
+
+VI. Proponer a la persona titular de la Secretaría convenios con instituciones nacionales o extranjeras para promover el desarrollo educativo, cultural y científico en el Sistema;
 
 VII. Gestionar la asignación de plazas presupuestales para garantizar la autosuficiencia de las Instituciones Educativas;
 
@@ -401,17 +465,41 @@ X. Establecer procedimientos de verificación de documentos presentados por pers
 
 XI. Verificar la validez de los documentos que acrediten los estudios del personal que solicite prestar sus servicios en la Secretaría;
 
-XII. Convocar al Consejo Académico, y
+> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 2026)</small>
 
-XIII. Las demás que le confieran las disposiciones aplicables y las que le encomiende el Secretario.
+XII. Convocar al Consejo Académico;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 20 DE MARZO DE 2026)</small>
+
+XIII. Regir el funcionamiento del Sistema; la profesionalización, formación y capacitación de la Guardia Nacional se ajustará en lo aplicable al Programa Rector de Profesionalización que expida el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública;
+
+> <small>(ADICIONADA, D.O.F. 20 DE MARZO DE 2026)</small>
+
+XIV. Supervisar las actividades que realizan las personas atletas y equipos deportivos que representan a la Secretaría y autorizar su participación en eventos deportivos Nacionales e Internacionales, así como llevar la estadística de los resultados que se obtengan;
+
+> <small>(ADICIONADA, D.O.F. 20 DE MARZO DE 2026)</small>
+
+XV. Expedir los títulos profesionales, grados académicos y diplomas de especialización de las carreras y cursos que se imparten en los establecimientos de educación militar;
+
+> <small>(ADICIONADA, D.O.F. 20 DE MARZO DE 2026)</small>
+
+XVI. Elaborar y emitir el acuerdo de baja del personal que controla técnica y administrativamente, sin perjuicio de que lo realice directamente la persona titular de la Secretaría, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 20 DE MARZO DE 2026)</small>
+
+XVII. Las demás que le confieran las disposiciones aplicables y las que le encomiende la persona titular de la Secretaría.
+
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 38.
 
-Los directores de las Instituciones Educativas serán Generales o Jefes designados por el Secretario, de conformidad con lo que establezca el reglamento del plantel respectivo.
+Las personas titulares de la Dirección de las Instituciones Educativas deberán pertenecer a la clasificación de Generales o Jefes, designados por la persona titular de la Secretaría, de conformidad con lo que establezca el reglamento del plantel respectivo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 39.
 
-Los directores de las Instituciones Educativas, además de las atribuciones que señalan las leyes y reglamentos militares para los comandantes de las Unidades y Dependencias del Ejército y Fuerza Aérea, tienen las facultades siguientes:
+Las personas titulares de las Direcciones de las Instituciones Educativas, además de las atribuciones que señalan las leyes y reglamentos militares para las personas titulares de las Comandancias de Unidad, Coordinaciones y Dependencias del Ejército, Fuerza Aérea y Guardia Nacional, tienen las facultades siguientes:
 
 I. Dirigir y administrar a la Institución Educativa que representan;
 
@@ -423,15 +511,17 @@ IV. Convocar a la Junta Técnica Consultiva conforme a su reglamento, y
 
 V. Las demás que le confieran las disposiciones aplicables y las que le encomiende la Secretaría.
 
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 40.
 
-Los Jefes de Curso dependientes de las Direcciones Generales y, en su caso, de otras unidades administrativas, según los cursos a impartir, serán Generales, Jefes u Oficiales con conocimientos acordes a éstos, nombrados por dichos organismos y aprobados por el Secretario.
+La persona titular de la Jefatura de Curso dependiente de las Direcciones Generales y, en su caso, de otras unidades administrativas, según los cursos a impartir, deberán pertenecer a la clasificación de Generales, Jefes u Oficiales con conocimientos acordes a éstos, nombrados por dichos organismos y aprobados por la persona titular de la Secretaría.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 41.
 
-Los Jefes de Curso dependerán técnicamente del organismo al que pertenezcan y pedagógicamente de la Dirección y Rectoría, y tendrán las atribuciones siguientes:
+La persona titular de la Jefatura de Curso dependerán (sic) técnicamente del organismo al que pertenezcan y pedagógicamente de la Dirección y Rectoría, y tendrán (sic) las atribuciones siguientes:
 
 I. Dirigir y administrar los cursos a su cargo;
 
@@ -453,15 +543,17 @@ Con fundamento en el Plan General, se elaborará la Directiva de Sistematizació
 
 ### CAPÍTULO VII. Instituciones de Educación Militar
 
-> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 44.
 
-Las Instituciones Educativas son organismos integrantes del Sistema que tienen como misión formar, capacitar y actualizar al personal del Ejército y Fuerza Aérea, y se clasifican en Colegios, Escuelas, Centros de Estudios, Unidades-Escuelas e Institutos.
+Las Instituciones Educativas son organismos integrantes del Sistema que tienen como misión formar, capacitar y actualizar al personal del Ejército, Fuerza Aérea y Guardia Nacional, y se clasifican en Colegios, Escuelas, Centros de Estudios, Unidades-Escuelas, Institutos y otras Instituciones Educativas que coadyuven al cumplimiento de su misión.
+
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 45.
 
-Las Instituciones Educativas y Jefaturas de Curso impartirán los estudios y cursos que permitan asegurar el desarrollo profesional del personal del Ejército y Fuerza Aérea.
+Las Instituciones Educativas y Jefaturas de Curso impartirán los estudios y cursos que permitan asegurar el desarrollo profesional del personal del Ejército, Fuerza Aérea y Guardia Nacional.
 
 ###### ARTÍCULO 46.
 
@@ -481,97 +573,73 @@ b. Escuela Militar de Mantenimiento y Abastecimiento, y
 
 c. Escuela Militar de Especialistas de Fuerza Aérea.
 
+> <small>(REFORMADO [N. DE E. CON SUS APARTADOS], D.O.F. 20 DE MARZO DE 2026)</small>
+
 II. Escuelas:
 
-Escuela Militar de Graduados de Sanidad;
+A. Escuela Militar de Graduados de Sanidad;
 
-Escuela Superior de Guerra;
+B. Escuela Superior de Guerra;
 
-Escuela Militar de Ingenieros;
+C. Escuela Militar de Ingeniería;
 
-> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2023)</small>
+D. Escuela Militar de Medicina;
 
-Escuela Militar de Medicina;
+E. Escuela Militar de Odontología;
 
-Escuela Militar de Odontología;
+F. Escuela Militar de Oficiales de Sanidad;
 
-Escuela Militar de Oficiales de Sanidad;
+G. Escuela Militar de Enfermería;
 
-> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2023)</small>
+H. Escuela Militar de Transmisiones;
 
-Escuela Militar de Enfermería;
+I. Escuela Militar de Materiales de Guerra;
 
-Escuela Militar de Transmisiones;
+J. Escuela Militar de Clases de las Armas, Servicio de Policía Militar y Guardia Nacional;
 
-Escuela Militar de Materiales de Guerra;
+K. Escuela Militar de Tropas Especialistas de la Fuerza Aérea;
 
-> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2023)</small>
+L. Escuela Militar de Clases de Transmisiones;
 
-Escuela Militar de Sargentos;
+M. Escuela Militar de Clases de Sanidad;
 
-Escuela Militar de Tropas Especialistas de la Fuerza Aérea;
+N. Escuela Militar de Tiro;
 
-Escuela Militar de Clases de Transmisiones;
+O. Escuela Militar de los Servicios de Administración e Intendencia;
 
-Escuela Militar de Clases de Sanidad;
+P. Escuela Militar de Capacitación de Tropas del Servicio de Ingenieros;
 
-Escuela Militar de Aplicación de las Armas y Servicios;
+Q. Escuela Militar del Servicio de Transportes;
 
-Escuela Militar de Aplicación Aerotáctica de la Fuerza Aérea;
+R. Escuela Militar de Idiomas, y
 
-Escuela Militar de Tiro;
+S. Escuela de Mando de Defensa;
 
-Escuela Militar de los Servicios de Administración e Intendencia;
-
-> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2023)</small>
-
-Escuela Militar de Capacitación de Tropas del Servicio de Ingenieros;
-
-> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2023)</small>
-
-Escuela Militar del Servicio de Transportes;
-
-> <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2023)</small>
-
-Escuela Militar de Idiomas, y
-
-> <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2023)</small>
-
-Escuela de Mando del Ejército y Fuerza Aérea.
+> <small>(REFORMADO [N. DE E. CON SUS APARTADOS], D.O.F. 20 DE MARZO DE 2026)</small>
 
 III. Centros de Estudios:
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 1 DE FEBRERO DE 2023)</small>
+A. Centro de Capacitación Virtual;
 
-> <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2023)</small>
+B. Centro de Estudios de Defensa, y
 
-Centro de Capacitación Virtual;
+C. Centro de Liderazgo Militar;
 
-Centro de Estudios del Ejército y Fuerza Aérea:
+> <small>(REFORMADO [N. DE E. CON SUS APARTADOS], D.O.F. 20 DE MARZO DE 2026)</small>
 
-> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2023)</small>
+IV. Unidades – Escuela:
 
-Escuela Militar de Administración;
+A. Escuela Militar de Infantería;
 
-Escuela Militar de Administración de Recursos Humanos;
+B. Escuela Militar de Caballería;
 
-Escuela Militar de Inteligencia, y
+C. Escuela Militar de Artillería;
 
-Escuela Militar de Logística.
+D. Escuela Militar de Blindaje;
 
-IV. Unidades - Escuela:
+E. Escuela Militar de Ingenieros de Combate, y
 
-Escuela Militar de Infantería;
-
-Escuela Militar de Caballería;
-
-Escuela Militar de Artillería;
-
-Escuela Militar de Blindaje;
-
-Escuela Militar de Ingenieros de Combate, y
-
-Escuela Militar del Servicio de Transmisiones.
+F. Escuela Militar del Servicio de Transmisiones, y
 
 > <small>(ADICIONADA [N. DE E. CON SU PÁRRAFO], D.O.F. 1 DE FEBRERO DE 2023)</small>
 
@@ -579,11 +647,11 @@ V. Institutos:
 
 Instituto Mexicano de Estudios Estratégicos en Seguridad y Defensa Nacionales.
 
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 47.
 
-Corresponde a la Dirección y Rectoría la organización, acreditación e implementación de los cursos según su propósito, dependientes de las Direcciones Generales y, en su caso, de otros organismos, que se impartan dentro del sistema para satisfacer las necesidades del Ejército y Fuerza Aérea.
+Corresponde a la Dirección y Rectoría la organización, acreditación e implementación de los cursos según su propósito, dependientes de las Direcciones Generales y, en su caso, de otros organismos, que se impartan dentro del sistema para satisfacer las necesidades fundamentales del Ejército, Fuerza Aérea y Guardia Nacional.
 
 ###### ARTÍCULO 48.
 
@@ -597,15 +665,19 @@ La Dirección y Rectoría proporcionará la capacitación necesaria para la plan
 
 La Dirección y Rectoría, de conformidad con el manual que para tal efecto se emita, expedirá los certificados y dictámenes técnicos a que se refiere el artículo 47 de la Ley.
 
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 51.
 
-La Dirección y Rectoría implementará los cursos básicos de los jefes y oficiales egresados de las Instituciones Educativas que no tengan Unidad-Escuela de su especialidad, así como otros que determine la Secretaría.
+La Dirección y Rectoría implementará los cursos básicos de las personas con jerarquías de Jefes y Oficiales egresadas de las Instituciones Educativas que no tengan Unidad-Escuela de su especialidad, así como otros que determine la Secretaría.
 
 > <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2012)</small>
 
 ARTÍCULO 51 BIS.- La Dirección y Rectoría implementará un curso de adiestramiento básico individual, por ciclo escolar, el cual será integrado con personal directivo, docente y de apoyo a la educación, en coordinación con la Secretaría.
 
-El curso tendrá por objeto ambientar y adaptar a la vida militar, al personal discente de nuevo ingreso a las Instituciones Educativas de formación, desarrollando en ellos, la capacidad de realizar tareas propias del Ejército y Fuerza Aérea.
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
+El curso tendrá por objeto ambientar y adaptar a la vida militar, a las personas discentes de nuevo ingreso a las Instituciones Educativas de formación, desarrollando en ellos, la capacidad de realizar tareas propias del Ejército, Fuerza Aérea y Guardia Nacional.
 
 ###### ARTÍCULO 52.
 
@@ -651,11 +723,15 @@ I. Concebir las metas estratégicas del Sistema;
 
 II. Determinar las líneas de acción para alcanzar los objetivos específicos, y
 
-III. Establecer, a través del modelo educativo, los métodos necesarios para asegurar que las líneas de acción sean ejecutadas en forma congruente con las misiones generales del Ejército y Fuerza Aérea, teniendo como base la visión y los valores institucionales que permitan desarrollar las acciones, así como fortalecer y optimizar sus recursos para el logro de los objetivos educativos.
+> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 2026)</small>
+
+III. Establecer, a través del modelo educativo, los métodos necesarios para asegurar que las líneas de acción sean ejecutadas en forma congruente con las misiones generales del Ejército y Fuerza Aérea y los fines de la Guardia Nacional, teniendo como base la visión y los valores institucionales que permitan desarrollar las acciones, así como fortalecer y optimizar sus recursos para el logro de los objetivos educativos.
+
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 55.
 
-El Plan General tendrá como propósito establecer directivas relacionadas con la filosofía, políticas educativas, objetivos y líneas de acción para el Sistema, que permitan con eficiencia y eficacia la selección, formación, capacitación, aplicación, perfeccionamiento, actualización y especialización de los recursos humanos en el nivel profesional que demandan el Ejército y Fuerza Aérea.
+El Plan General tendrá como propósito establecer directivas relacionadas con la filosofía, políticas educativas, objetivos y líneas de acción para el Sistema, que permitan con eficiencia y eficacia la selección, formación, capacitación, aplicación, perfeccionamiento, actualización y especialización de los recursos humanos en el nivel profesional que demandan el Ejército, la Fuerza Aérea y la Guardia Nacional.
 
 ### CAPÍTULO II. De la Evaluación Institucional
 
@@ -671,17 +747,23 @@ I. Analizar y calificar el proceso educativo en las Instituciones Educativas y J
 
 II. Valorar el empleo de los recursos humanos, materiales, técnicos, financieros e instalaciones.
 
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 58.
 
 Para alcanzar los objetivos del proceso de evaluación institucional coadyuvarán, entre otras, los organismos siguientes:
 
-I. El Estado Mayor de la Defensa Nacional;
+I. El Estado Mayor Conjunto de la Defensa Nacional;
 
-II. La Inspección y Contraloría General del Ejército y Fuerza Aérea;
+II. La Inspección y Contraloría General del Ejército, Fuerza Aérea y Guardia Nacional;
 
-III. La Comandancia de la Fuerza Aérea Mexicana, y
+III. La Comandancia del Ejército Mexicano;
 
-IV. Las direcciones generales de las Armas y los Servicios.
+IV. La Comandancia de la Fuerza Aérea Mexicana;
+
+V. La Comandancia de la Guardia Nacional, y
+
+VI. Las Direcciones Generales de las armas, de los servicios y de Guardia Nacional.
 
 ###### ARTÍCULO 59.
 
@@ -691,17 +773,19 @@ I. Analizar y calificar la ejecución de los Planes y Programas de estudio, conf
 
 II. Detectar sus deficiencias y fortalezas, así como las áreas de oportunidad.
 
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 60.
 
 La calidad de la educación en el Sistema incluye las características, complementarias entre sí, las cuales son:
 
-I. La eficacia, la cual consiste en lograr que los discentes aprendan lo establecido en los planes y programas al término de cada ciclo o nivel educativo y pone de manifiesto la eficiencia terminal y el rendimiento académico alcanzados en el proceso educativo;
+I. La eficacia, la cual consiste en lograr que las personas discentes aprendan lo establecido en los planes y programas al término de cada ciclo o nivel educativo y pone de manifiesto la eficiencia terminal y el rendimiento académico alcanzados en el proceso educativo;
 
-II. El contenido, el cual establece lo que el discente necesita para desarrollarse personal, intelectual, afectiva, moral y físicamente, y para desempeñarse en forma adecuada en los diversos ámbitos que implique su participación profesional militar.
+II. El contenido, el cual establece lo que la persona discente necesita para desarrollarse personal, intelectual, afectiva, moral y físicamente, y para desempeñarse en forma adecuada en los diversos ámbitos que implique su participación profesional militar.
 
 Asimismo, incluye los fines atribuidos al concepto de educación integral y su concreción en los diseños y contenidos curriculares, y
 
-III. Los procesos y medios, los cuales deben ofrecer a los discentes un adecuado entorno académico para el aprendizaje, un cuerpo docente preparado para la tarea de enseñar, materiales de estudio y de trabajo apropiados, así como métodos didácticos eficaces que incluyan el análisis de los medios empleados en la acción educativa.
+III. Los procesos y medios deben ofrecer a las personas discentes un adecuado entorno académico para el aprendizaje, un cuerpo docente preparado para la tarea de enseñar, materiales de estudio y de trabajo apropiados, así como métodos didácticos eficaces que incluyan el análisis de los medios empleados en la acción educativa.
 
 ###### ARTÍCULO 61.
 
@@ -739,7 +823,9 @@ La evaluación de la calidad de la educación deberá ser realizada en forma int
 
 Como resultado de la evaluación institucional, la Secretaría y la Dirección y Rectoría girarán las directivas para alcanzar los objetivos específicos y las metas, previstas en la Planeación Institucional y para hacer eficiente la administración y conducción del proceso educativo.
 
-Los directores de las Instituciones Educativas y Jefaturas de Cursos aplicarán las directivas a que se refiere el párrafo precedente.
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
+Las personas titulares de las Direcciones de las Instituciones Educativas y Jefaturas de Curso aplicarán las directivas a que se refiere el párrafo precedente.
 
 ###### ARTÍCULO 64.
 
@@ -749,21 +835,41 @@ La Dirección y Rectoría deberá verificar el cumplimiento de las normas de cal
 
 ### CAPÍTULO I. Generalidades del Proceso Educativo
 
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 65.
 
-El proceso educativo es la manifestación dinámica y sincronizada de acciones derivadas de un modelo educativo propio, para transmitir conocimientos necesarios en la formación del personal del Ejército y Fuerza Aérea.
+El proceso educativo es la manifestación dinámica y sincronizada de acciones derivadas de un modelo educativo propio, para transmitir conocimientos necesarios en la formación del personal del Ejército, Fuerza Aérea y Guardia Nacional.
+
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 66.
 
-El proceso educativo está conformado por etapas que proporcionan al discente oportunidades para adquirir conocimientos que le permitan desarrollar habilidades, destrezas y aptitudes afectivas, cognoscitivas y motrices, así como fortalecer el carácter e incorporar valores y virtudes, necesarios para su superación, indispensables para la existencia del Ejército y Fuerza Aérea.
+El proceso educativo está conformado por etapas que proporcionan a las personas discentes oportunidades para adquirir conocimientos que le permitan desarrollar habilidades, destrezas y aptitudes afectivas, cognoscitivas y motrices, así como fortalecer el carácter e incorporar valores y virtudes, necesarios para su superación, indispensables para la existencia del Ejército, Fuerza Aérea y Guardia Nacional.
+
+Dichas etapas se centran en cumplir con los siguientes objetivos:
+
+I. Garantizar la Defensa Exterior y la Seguridad Interior del Estado Mexicano;
+
+II. Optimizar las capacidades administrativas, logísticas, tecnológicas y de ciberdefensa del Ejército, Fuerza Aérea y Guardia Nacional;
+
+III. Impulsar una cultura axiológica con igualdad sustantiva en los Sistemas Educativo y de Adiestramiento Militar;
+
+IV. Incorporar un liderazgo humanista, visionario, con pensamiento crítico y creativo que fortalezca la moral, la disciplina y el clima organizacional en el Ejército, Fuerza Aérea y Guardia Nacional, y
+
+V. Contribuir en la construcción de proyectos estratégicos que fortalezcan la capacidad de México para impulsar su desarrollo económico y social de manera sostenible.
+
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 67.
 
-La Dirección y Rectoría promoverá la superación de los militares a través del Sistema, para asegurar su desarrollo profesional conforme a los principios y criterios consagrados en la Constitución Política de los Estados Unidos Mexicanos, a fin de satisfacer las necesidades del Ejército y Fuerza Aérea.
+La Dirección y Rectoría promoverá la superación de las personas militares a través del Sistema, para asegurar su desarrollo profesional conforme a los principios y criterios consagrados en la Constitución Política de los Estados Unidos Mexicanos, a fin de satisfacer las necesidades del Ejército, Fuerza Aérea y Guardia Nacional.
+
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 68.
 
-La Dirección y Rectoría establecerá un sistema de créditos y equivalencias que permitan al personal militar las posibilidades de desarrollo profesional, garantizando el acceso a niveles académicos superiores, previo cumplimiento de los requisitos de ingreso. Este sistema preverá también la posibilidad de cambio de curso de los discentes, de conformidad con las necesidades del Ejército y Fuerza Aérea.
+La Dirección y Rectoría establecerá un sistema de créditos y equivalencias que permitan al personal militar las posibilidades de desarrollo profesional, garantizando el acceso a niveles académicos superiores, previo cumplimiento de los requisitos de ingreso. Este sistema preverá también la posibilidad de cambio de curso de las personas discentes, de conformidad con las necesidades del Ejército, Fuerza Aérea y Guardia Nacional.
 
 ### CAPÍTULO II. De los tipos de educación y cursos que se imparten en el Sistema Educativo Militar
 
@@ -781,11 +887,13 @@ IV. Maestría, y
 
 V. Doctorado.
 
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 70.
 
-Los estudios de tipo medio superior son aquellos que requieren, como mínimo, acreditar la educación básica de conformidad con lo estipulado en el artículo 37 de la Ley General de Educación, y cuya conclusión permite acreditar el bachillerato u opciones terminales técnicas equivalentes.
+Los estudios de nivel medio superior son aquellos que requieren, como mínimo, acreditar la educación básica de conformidad con lo estipulado en el artículo 37 de la Ley General de Educación, y cuya conclusión permite acreditar el bachillerato u opciones terminales técnicas equivalentes.
 
-La Dirección y Rectoría deberá prever y disponer lo necesario para que los egresados de las Instituciones Educativas de este tipo tengan oportunidad de continuar sus estudios superiores.
+La Dirección y Rectoría deberá prever y disponer lo necesario para que las personas egresadas de las Instituciones Educativas de nivel medio superior tengan oportunidad de continuar sus estudios superiores.
 
 ###### ARTÍCULO 71.
 
@@ -793,21 +901,23 @@ Se considera la educación de capacitación para el trabajo, a los cursos que re
 
 ### CAPÍTULO III. Del propósito de los Cursos que se imparten en el Sistema Educativo Militar
 
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 72.
 
-De acuerdo con su propósito, los Cursos del Sistema previstos en la Ley, se clasifican como sigue:
+Los Cursos del Sistema previstos en la Ley se clasifican:
 
-I. De formación: Los que imparten educación para el mando, adiestramiento y conducción de unidades de acuerdo con la jerarquía de egreso y para el desempeño de actividades técnicas y profesionales acordes con su Arma o Servicio;
+I. De formación: Los que imparten educación para el mando, adiestramiento y conducción de unidades de acuerdo con la jerarquía de egreso y para el desempeño de actividades técnicas y profesionales acordes con su arma, servicio o guardia nacional;
 
-II. De capacitación: Los que imparten educación para la adquisición de conocimientos, habilidades o destrezas que permitan al egresado, desarrollar una actividad específica en el ámbito militar;
+II. De capacitación: Los que imparten educación para la adquisición de conocimientos, habilidades o destrezas que permitan a la persona egresada, desarrollar una actividad específica en el ámbito militar, acordes con su arma, servicio o guardia nacional;
 
-III. De aplicación: Los que preparan al militar para utilizar los principios técnicos, tácticos y administrativos, acordes con la jerarquía de su Arma o Servicio;
+III. De aplicación: Los que preparan a la persona militar para utilizar los principios técnicos, tácticos y administrativos, acordes con la jerarquía de su arma, servicio o guardia nacional;
 
-IV. De perfeccionamiento: Los que imparten conocimientos específicos, que permitan el mejoramiento y generación de otras destrezas y habilidades de acuerdo la escala jerárquica de su Arma, Servicio o Especialidad;
+IV. De perfeccionamiento: Los que imparten conocimientos específicos, que permitan el mejoramiento y generación de otras destrezas y habilidades de acuerdo a su especialidad y a la escala jerárquica de su arma, servicio y guardia nacional;
 
-V. De actualización: Los que proporcionan conocimientos tácticos y técnicos, de acuerdo al desarrollo científico, tecnológico y doctrinario de las armas, servicios o especialidades, y
+V. De actualización: Los que proporcionan conocimientos tácticos y técnicos, de acuerdo al desarrollo científico, tecnológico, doctrinario y de especialidad, de las armas, servicios y guardia nacional, y
 
-VI. De especialización: Los destinados al desarrollo del militar para adquirir habilidades y conocimientos científicos, técnicos y especializados para el desempeño de una función específica.
+VI. De especialización: Los destinados al desarrollo de la persona militar para adquirir habilidades y conocimientos científicos, técnicos y especializados para el desempeño de una función específica.
 
 ### CAPÍTULO IV. De las Modalidades de la Educación Militar
 
@@ -829,17 +939,25 @@ D. Otras que se desarrollen.
 
 III. Mixta.
 
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 74.
 
-La modalidad escolarizada, implica la presencia física del discente en todas las actividades programadas, bajo la conducción de un docente.
+La modalidad escolarizada implica la presencia física de la persona discente en todas las actividades programadas, bajo la conducción de una persona docente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 75.
 
-La modalidad no escolarizada no exige necesariamente la presencia física del discente en relación con el Proceso Enseñanza-Aprendizaje, y puede ser materializada en las formas siguientes:
+La modalidad no escolarizada no exige necesariamente la presencia física de la persona discente en relación con el Proceso Enseñanza-Aprendizaje, y puede ser materializada en las formas siguientes:
 
-I. La modalidad no escolarizada abierta, la cual exige la presencia de los discentes únicamente para efectos de aplicación de exámenes; los discentes aprenden de forma autodidacta y les será proporcionada asesoría y servicios de apoyo para el aprendizaje a quienes lo soliciten;
+> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 2026)</small>
 
-II. La modalidad no escolarizada a distancia, la cual proporciona apoyo académico permanente a todos los discentes y en la que será exigible la asistencia periódica a sesiones presenciales de clase y de aplicación de exámenes;
+I. La modalidad no escolarizada abierta, la cual exige la presencia de las personas discentes únicamente para efectos de aplicación de evaluaciones; las personas discentes aprenden de forma autodidacta y les será proporcionada asesoría y servicios de apoyo para el aprendizaje a quienes lo soliciten;
+
+> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 2026)</small>
+
+II. La modalidad no escolarizada a distancia, la cual proporciona apoyo académico permanente a todas las personas discentes y en la que será exigible la asistencia periódica a sesiones presenciales de clase y de aplicación de evaluaciones;
 
 III. La modalidad no escolarizada virtual, la cual es aquélla en la que se emplean recursos telemáticos para la conducción de las sesiones de clase, y
 
@@ -851,25 +969,35 @@ La modalidad mixta es la que imparte educación bajo dos o más de las modalidad
 
 ### CAPÍTULO V. De la Planeación Educativa
 
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 77.
 
 La planeación educativa se deriva del Plan General y consiste en:
 
-I. Un ejercicio intelectual permanente, fundamentado en la filosofía, doctrina y política educativas a partir de las cuales serán determinados, en una secuencia lógica, los requerimientos cognitivos, psicomotrices y de actitudes indispensables para la formación profesional de los recursos humanos que satisfagan las necesidades del Ejército y Fuerza Aérea, y
+I. Un ejercicio intelectual permanente para difundir la filosofía, la misión, la visión y los valores del Sistema Educativo Militar, así como establecer las directivas que guiarán la educación militar a través de la Dirección y Rectoría, estableciendo las políticas educativas, objetivos, estrategias y líneas de acción que permitan materializar los procesos de selección, formación, capacitación, aplicación, perfeccionamiento, actualización y especialización de los integrantes del Ejército, Fuerza Aérea y Guardia Nacional, con el objeto de que dispongan de los conocimientos y desarrollen las habilidades para cumplir de forma sobresaliente con las misiones generales y las atribuciones y obligaciones establecidas en las Leyes respectivas de cada Fuerza Armada permanente;
 
-II. Prever las actividades para asegurar la consecución de los objetivos de la educación.
+II. El modelo educativo militar es un esquema teórico-práctico de carácter progresivo y sistemáticamente evaluado mediante criterios cuantitativos y cualitativos. Responde a las exigencias contemporáneas de la educación militar con el propósito de preservar y salvaguardar la soberanía, la defensa y la seguridad nacionales. Es un modelo tecnológico, moderno y dinámico, diseñado para garantizar la excelencia en la formación de quienes integran el Sistema Educativo Militar;
+
+III. El alcance del modelo educativo militar debe incluir la formación de líderes militares en todos los niveles de mando, desarrollando sus capacidades cognitivas y operativas, que les permitan materializar la concepción, preparación y conducción de operaciones en los niveles táctico, operacional y estratégico, actuando de forma ética en diferentes circunstancias y escenarios; dotándolos además de sólidos conocimientos de las nuevas herramientas tecnológicas para mejorar sus capacidades de obtención de información, análisis y toma de decisiones, con el objeto de cumplir de forma exitosa sus misiones, atribuciones y obligaciones establecidas en las Leyes respectivas, y
+
+IV. Prever las actividades para asegurar la consecución de los objetivos de la educación.
 
 ###### ARTÍCULO 78.
 
 Los planes y programas de estudio de las Instituciones Educativas y Jefaturas de Curso, producto de la planeación educativa, son instrumentos rectores del proceso educativo y tienen como finalidad el logro de los objetivos de la educación militar plasmados en la Ley y el Plan General.
 
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 79.
 
 Los planes y programas de estudio, para su desarrollo armónico, secuencial e integral, deberán contener:
 
-I. Aspectos que garanticen la formación de los discentes en los ámbitos militar, de especialidad, cultural, cívico-moral y físico-mental, y
+I. Aspectos que garanticen la formación del personal discente en los ámbitos militar, de especialidad, cultural, cívico-moral y físico-mental;
 
-II. Programas complementarios, en las áreas intelectual, psicomotriz, axiológica y afectiva, que coadyuven en la formación de los discentes.
+II. Programas complementarios, en las áreas intelectual, psicomotriz, axiológica y afectiva, que coadyuven en la formación de las personas discentes, y
+
+III. La inclusión de contenidos relacionados con el liderazgo militar, la ética profesional y la legislación militar, desarrollados bajo un enfoque transversal dentro del Sistema, con el fin de fortalecer la formación del liderazgo humanista y ético.
 
 ###### ARTÍCULO 80.
 
@@ -907,9 +1035,11 @@ X. Perfil de ingreso, y
 
 XI. Consideraciones generales.
 
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 82.
 
-Los planes de estudio deberán prever la participación de los discentes en trabajos de investigación asociados a un programa institucional, como una función sustantiva correspondiente al tipo de educación superior en sus diferentes niveles.
+Los planes de estudio deberán prever la participación de las personas discentes en trabajos de investigación asociados a un programa institucional, como una función sustantiva correspondiente al tipo de educación superior en sus diferentes niveles.
 
 ###### ARTÍCULO 83.
 
@@ -1015,7 +1145,9 @@ I. Propedéutico;
 
 II. Nivelación;
 
-III. Adiestramiento militar básico individual, y
+> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 2026)</small>
+
+III. Curso Básico de Formación Militar, y
 
 IV. Complementarios:
 
@@ -1067,9 +1199,11 @@ El plan de clase derivado del programa de estudios constituye el instrumento fin
 
 La ejecución del proceso educativo consiste en la materialización de los planes y programas de estudio, así como de apoyo educativo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 95.
 
-Los titulares de las Instituciones Educativas y Jefaturas de Curso, son las autoridades responsables de dirigir las actividades académicas, disciplinarias y administrativas, y tendrán, entre otras, las atribuciones siguientes:
+Las personas titulares de las Instituciones Educativas y de las Jefaturas de Curso son las autoridades responsables de dirigir las actividades académicas, disciplinarias y administrativas, y tendrán entre otras, las atribuciones siguientes:
 
 I. Representar a la Institución Educativa o Jefatura de Curso;
 
@@ -1083,11 +1217,15 @@ IV. Disponer las medidas conducentes para el cumplimiento de la normatividad edu
 
 V. Supervisar que en la Institución Educativa o Jefatura de Curso se desarrollen las labores educativas eficazmente, de conformidad con la Ley, el presente Reglamento, y su propia reglamentación.
 
-Para el cumplimiento de sus atribuciones se auxiliarán del subdirector y del personal a su mando.
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
+Para el cumplimiento de sus atribuciones se auxiliarán de la persona titular de la Subdirección y del personal a su mando.
+
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 96.
 
-El Subdirector de la Institución Educativa o Jefatura de Curso es el Jefe de Estudios y responsable de las actividades del proceso educativo, de conformidad con las órdenes que reciba del Director y, además, coordinará al jefe de la sección pedagógica en los ámbitos de la planeación y evaluación, así como al jefe de la sección académica en relación con la ejecución.
+La persona titular de la Subdirección de la Institución Educativa o Jefatura de Curso es la persona titular de Estudios y responsable de las actividades del proceso educativo, de conformidad con las órdenes que reciba de la persona titular de la Dirección y, además, coordinará con quien se desempeñe como titular de la Sección Pedagógica en los ámbitos de la planeación y evaluación del proceso educativo, así como a la persona titular de la Sección Académica en relación con la ejecución de dicho proceso.
 
 ###### ARTÍCULO 97.
 
@@ -1107,13 +1245,17 @@ VI. Distribución de actividades académicas, y
 
 VII. Avance programático.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 98.
 
-Las Instituciones Educativas y las Jefaturas de Curso, para realizar el proceso educativo, llevarán a cabo la organización de los discentes en grupos pedagógicos que permitan desarrollar óptimamente el proceso enseñanza-aprendizaje, considerando entre otros aspectos:
+Las Instituciones Educativas y las Jefaturas de Curso, para realizar el proceso educativo, llevarán a cabo la organización de las personas discentes en grupos pedagógicos que permitan desarrollar óptimamente el proceso enseñanza-aprendizaje, considerando entre otros aspectos, los siguientes:
 
 I. El tipo y modalidad educativa;
 
-II. La cantidad de alumnos que integra cada grupo, el cual deberá ser conforme a la disponibilidad de docentes, instalaciones, apoyos didácticos y especialidad, y
+> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 2026)</small>
+
+II. La cantidad de personas discentes que integra cada grupo, el cual deberá ser conforme a la disponibilidad de docentes, instalaciones, apoyos didácticos y especialidad, y
 
 III. Los resultados de los exámenes de admisión, diagnóstico y curso propedéutico, así como de intereses, aptitudes y aprovechamiento académico.
 
@@ -1129,13 +1271,19 @@ La Sección Pedagógica será responsable de valorar los resultados obtenidos y 
 
 La aplicación de planes y programas de estudio, así como los programas de apoyo educativo será responsabilidad del personal que forma parte de la Institución Educativa.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 101.
 
-En los cursos bajo la modalidad no escolarizada se otorgará al discente un paquete didáctico.
+En los cursos bajo la modalidad no escolarizada se otorgará a las personas discentes un paquete didáctico.
 
-En la ejecución del curso, el discente contará con un asesor, el cual le facilitará al alumno situaciones de aprendizaje en donde pueda aplicar en forma adecuada los conocimientos adquiridos en la guía.
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
-El discente para la ejecución del curso observará:
+En la ejecución del curso, la persona discente contará con una persona asesora, la que le facilitará situaciones de aprendizaje en donde pueda aplicar en forma adecuada los conocimientos adquiridos en la guía.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 20 DE MARZO DE 2026)</small>
+
+La persona discente para la ejecución del curso observará:
 
 I. La metodología para el desarrollo de las actividades académicas basada en los documentos que integran el paquete didáctico, y
 
@@ -1147,31 +1295,41 @@ La Dirección y Rectoría establecerá los lineamientos para verificar que las I
 
 ### CAPÍTULO VII. De la Evaluación del Aprendizaje y de la inconformidad
 
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 103.
 
-La evaluación del aprendizaje es la fase del Proceso Educativo que tiene por objeto que el discente demuestre los conocimientos y habilidades adquiridos conforme a los contenidos temáticos estudiados para otorgarle una calificación.
+La evaluación del aprendizaje es la fase del proceso educativo que tiene por objeto que la persona discente demuestre los conocimientos y habilidades adquiridos conforme a los contenidos temáticos estudiados para otorgarle una calificación.
 
-La evaluación deberá ser inicial, continua y final, de conformidad con la Directiva correspondiente.
+La evaluación deberá ser inicial, parcial y final, de conformidad con la Directiva correspondiente.
+
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 104.
 
-El proceso de evaluación del aprendizaje comprende la planeación, formulación, aplicación y calificación de los instrumentos de medición, así como la retroalimentación del discente.
+El proceso de evaluación del aprendizaje comprende la planeación, formulación, aplicación y calificación de los instrumentos de medición, así como la retroalimentación de las personas discentes.
 
 ###### ARTÍCULO 105.
 
 Las Instituciones Educativas y las Jefaturas de Curso deben adoptar, según el tipo, nivel y modalidad educativa, los procedimientos de evaluación del aprendizaje que señale la directiva en vigor.
 
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 106.
 
-El proceso de evaluación concluye cuando se haga del conocimiento del discente el resultado de su evaluación, recabándose su firma en el instrumento pedagógico.
+El proceso de evaluación concluye cuando se haga del conocimiento de la persona discente el resultado de su evaluación, recabándose su firma en el instrumento pedagógico.
+
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 107.
 
-En caso de inconformidad por el resultado de alguna evaluación, el discente podrá presentar, por escrito, ante la Dirección de la Institución Educativa o Jefatura de Curso correspondiente, en un término no mayor de cinco días naturales contados a partir de la fecha en que tenga conocimiento del resultado, su inconformidad, expresando los motivos para ello.
+En caso de inconformidad por el resultado de alguna evaluación, la persona discente podrá presentar por escrito, ante la Dirección de la Institución Educativa o Jefatura de Curso correspondiente, en un término no mayor de cinco días naturales contados a partir de la fecha en que tenga conocimiento del resultado, su inconformidad, expresando los motivos para ello.
+
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 108.
 
-El Director o el Jefe de Curso turnará la inconformidad a la Junta Técnica Consultiva de la Institución Educativa, la que emitirá la resolución definitiva debidamente fundada y motivada, en un término no mayor de diez días naturales, misma que se hará del conocimiento del discente por escrito.
+La persona titular de la Dirección o Jefatura de Curso turnará la inconformidad a la Junta Técnica Consultiva de la Institución Educativa, la que emitirá la resolución definitiva debidamente fundada y motivada, en un término no mayor de diez días naturales, misma que se hará del conocimiento de la persona discente por escrito.
 
 ## TÍTULO QUINTO. Admisión
 
@@ -1181,39 +1339,45 @@ El Director o el Jefe de Curso turnará la inconformidad a la Junta Técnica Con
 
 El proceso de admisión a las Instituciones Educativas y Cursos que imparten las Jefaturas, es el conjunto de actividades encaminadas a satisfacer las necesidades de profesionalización y capacitación de la Secretaría, a través de la selección del personal que reúna las características señaladas en el perfil de ingreso.
 
-Estas actividades tienen como finalidad captar a los aspirantes que reúnan las mejores condiciones de salud, capacidad física, preparación académica y adaptabilidad al medio militar para cursar los estudios que se impartan.
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
-El proceso de admisión comprende las etapas de planeación, difusión, recepción de documentos y selección de aspirantes a cargo de la Secretaría.
+Estas actividades tienen como finalidad captar a las personas aspirantes que reúnan las mejores condiciones de salud, capacidad física, preparación académica y adaptabilidad al medio militar para cursar los estudios que se impartan.
+
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
+El proceso de admisión comprende las etapas de planeación, difusión, recepción de documentos y selección de las personas aspirantes a cargo de la Secretaría.
+
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 110.
 
-La Secretaría determinará los procedimientos de admisión para cada Institución Educativa y Cursos que impartan las Jefaturas, y fijará las cuotas de discentes para el ingreso de los aspirantes nacionales y extranjeros.
+La Secretaría determinará los procedimientos de admisión para cada Institución Educativa y Jefaturas de Curso, y fijará las cuotas de personas discentes para el ingreso de las personas aspirantes nacionales y extranjeras.
+
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 111.
 
 Los organismos que participen en las fases de admisión al Sistema, serán:
 
-I. Estado Mayor de la Defensa Nacional;
+I. Estado Mayor Conjunto de la Defensa Nacional;
 
-II. Dirección General de Administración;
+II. Dirección y Rectoría;
 
-III. Dirección General de Sanidad;
+III. Comandancia del Ejército Mexicano;
 
-IV. Dirección General de Personal;
+IV. Comandancia de la Fuerza Aérea Mexicana;
 
-V. Dirección y Rectoría;
+V. Comandancia de la Guardia Nacional;
 
-VI. Comandancia de la Fuerza Aérea Mexicana;
+VI. Direcciones Generales de las Armas y los Servicios;
 
-VII. Direcciones Generales de las Armas y los Servicios;
+VII. Dirección General de Comunicación Social;
 
-VIII. Dirección General de Comunicación Social;
+VIII. Dirección General de Tecnologías de la Información y Comunicaciones;
 
-IX. Dirección General de Informática;
+IX. Comandancias de Regiones y Zonas Militares, y
 
-X. Comandancias de Regiones y Zonas Militares, y
-
-XI. Otros organismos que determine la Secretaría.
+X. Otros organismos que determine la Secretaría.
 
 ###### ARTÍCULO 112.
 
@@ -1223,33 +1387,43 @@ En el Procedimiento Sistemático de Operar, denominado Admisión al Sistema Educ
 
 La Secretaría, a propuesta de la Dirección y Rectoría, determinará los perfiles de ingreso que deberá reunir el personal de aspirantes nacionales y extranjeros a las Instituciones Educativas y Cursos que impartan las Jefaturas, debiendo estar contenidos en las convocatorias respectivas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 114.
 
-Las convocatorias son documentos en los que se establecen los requisitos, términos, condiciones y perfiles de ingreso, a los que se sujetarán los aspirantes a ingresar como discentes al Sistema.
+Las convocatorias son documentos en los que se establecen los requisitos, términos, condiciones y perfiles de ingreso, a los que se sujetarán las personas aspirantes a ingresar como personas discentes al Sistema.
 
 La Secretaría, a propuesta de la Dirección y Rectoría, aprobará las convocatorias de admisión al Sistema.
 
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 115.
 
-La Secretaría enviará a los Ministerios de Defensa de los países con los cuales se mantenga intercambio cultural, las convocatorias de las becas que ofrezca el Sistema y recibirá la documentación de los aspirantes a discentes como becarios extranjeros.
+La Secretaría enviará a los Ministerios de Defensa de los países con los cuales se mantenga intercambio académico y cultural, las convocatorias de las becas que ofrezca el Sistema y recibirá la documentación de las personas aspirantes a discentes como personas becarias extranjeras.
 
-La Dirección y Rectoría verificará el cumplimiento de los requisitos especificados en las convocatorias, por parte de los aspirantes a becarios.
+La Dirección y Rectoría verificará el cumplimiento de los requisitos especificados en las convocatorias, por parte de las personas aspirantes a becarias.
 
 ### CAPÍTULO II. Planeación de la Admisión
 
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 116.
 
-La planeación de la admisión preverá las acciones y la secuencia de su realización, que permita garantizar el eficiente desarrollo del proceso de admisión al Sistema, para captar a los aspirantes que cumplan los requisitos de ingreso.
+La planeación de la admisión preverá las acciones y la secuencia de su realización, que permita garantizar el eficiente desarrollo del proceso de admisión al Sistema, para captar a las personas aspirantes que cumplan los requisitos de ingreso.
 
 ###### ARTÍCULO 117.
 
 La planeación comprende:
 
-I. Las cuotas de discentes para el ingreso;
+> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 2026)</small>
+
+I. Las cuotas de personas discentes para el ingreso;
 
 II. El contenido de las convocatorias de admisión a las Instituciones Educativas y Cursos que impartan las Jefaturas;
 
-III. El instructivo de admisión para aspirantes a becarios extranjeros;
+> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 2026)</small>
+
+III. El instructivo de admisión para las personas aspirantes a becarias extranjeras;
 
 IV. El Procedimiento Sistemático de Operar, Admisión al Sistema;
 
@@ -1293,13 +1467,17 @@ La Dirección y Rectoría capacitará al personal que habrá de participar en la
 
 La recepción de documentos comprende el periodo de entrega, revisión, clasificación y aceptación o rechazo de documentos, realizándose a través de los centros de examen ubicados en los diversos Mandos Territoriales.
 
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 124.
 
-Aceptados los documentos se realizarán los trámites administrativos necesarios que posibiliten al aspirante a concursar para la Institución Educativa que haya solicitado.
+Aceptados los documentos se realizarán los trámites administrativos necesarios que posibiliten a la persona aspirante a concursar para la Institución Educativa que haya solicitado.
+
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 125.
 
-La Dirección y Rectoría verificará que los documentos presentados por los aspirantes nacionales a ingresar al Sistema, que hayan realizado estudios en el extranjero, se encuentren autentificados y revalidados. Este requisito será indispensable para su participación.
+La Dirección y Rectoría verificará que los documentos presentados por las personas aspirantes nacionales a ingresar al Sistema, que hayan realizado estudios en el extranjero, se encuentren autentificados y revalidados. Este requisito será indispensable para su participación.
 
 ### CAPÍTULO V. De la Selección de Personal
 
@@ -1315,29 +1493,43 @@ La Secretaría designará al personal para formular y aplicar los exámenes para
 
 Los procedimientos para la aplicación y los parámetros de evaluación en los exámenes de admisión, se establecerán en las convocatorias correspondientes.
 
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 129.
 
 Son motivos de exclusión durante el proceso de selección:
 
 I. Presentar documentación apócrifa;
 
-II. Concursar para dos o más Instituciones Educativas en el mismo o diferente centro de examen;
+II. Concursar para dos o más Instituciones Educativas en el mismo o diferente centro de evaluación;
 
-III. No presentarse en la fecha, hora y lugar señalados para la aplicación de los exámenes;
+III. No presentarse en la fecha, hora y lugar señalados para la aplicación de las evaluaciones;
 
 IV. Resultar no apto en el examen médico o de capacidad física;
 
 V. No cubrir el perfil psicológico;
 
-VI. Presentarse a cualquier examen bajo el influjo del alcohol o de alguna droga;
+VI. Presentarse a cualquier evaluación bajo el influjo del alcohol o de alguna droga;
 
-VII. Utilizar medios fraudulentos para la resolución de los exámenes, y
+VII. Utilizar medios fraudulentos para la resolución de las evaluaciones;
 
-VIII. Otros que señalen las convocatorias respectivas.
+VIII. Contar con tatuajes con las características siguientes:
+
+a) Se encuentren en lugares visibles con el uso de uniforme;
+
+b) Tenga una dimensión máxima de 10 x 10 centímetros;
+
+c) El contenido del diseño no deberá tener imágenes eróticas, desnudos o con contenido sexual, ni contener tipografías altisonantes o hacer apología del delito, y
+
+d) En caso de que tengan más de un tatuaje, estos sean mayor del 10% de la superficie corporal, y
+
+IX. Otros que señalen las convocatorias respectivas.
+
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 130.
 
-Los resultados de los exámenes del concurso de selección serán comunicados a los aspirantes de conformidad con los procedimientos establecidos en las convocatorias respectivas.
+Los resultados de las evaluaciones del concurso de selección serán comunicados a las personas aspirantes de conformidad con los procedimientos establecidos en las convocatorias respectivas.
 
 ###### ARTÍCULO 131.
 
@@ -1345,7 +1537,7 @@ Los casos de inconformidad motivados por la aplicación y resultados de los exá
 
 ###### ARTÍCULO 132.
 
-El personal civil y militar que sea aceptado para efectuar estudios en el Sistema, deberá cubrir las garantías que se establezcan en la convocatoria respectiva.
+(DEROGADO, D.O.F. 20 DE MARZO DE 2026)
 
 ###### ARTÍCULO 133.
 
@@ -1353,21 +1545,31 @@ La Dirección y Rectoría establecerá lo necesario para el procesamiento estad�
 
 ### CAPÍTULO VI. De los Estudiantes Militares en el Extranjero
 
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 134.
 
-La Secretaría establecerá la normatividad a que se sujetarán los miembros del Ejército y Fuerza Aérea, que sean seleccionados para realizar estudios en el extranjero, de conformidad con la Ley y el presente Reglamento.
+La Secretaría establecerá la normatividad a que se sujetarán los integrantes del Ejército, Fuerza Aérea y Guardia Nacional, que sean seleccionados para realizar estudios en el extranjero, de conformidad con la Ley y el presente Reglamento.
+
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 135.
 
-La Secretaría, de conformidad con el programa de becas selecciona al personal militar para realizar cursos en el extranjero de conformidad con las necesidades del Ejército y Fuerza Aérea, expidiendo los requisitos para cada Curso.
+La Secretaría, de conformidad con el programa de becas selecciona a las personas militares para realizar cursos en el extranjero de conformidad con las necesidades del Ejército, Fuerza Aérea y Guardia Nacional, expidiendo los requisitos para cada Curso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 136.
 
-El personal militar estudiante en el extranjero debe:
+La persona militar discente en el extranjero debe:
 
-I. Causar alta en el Estado Mayor de la Secretaría cuando el curso tenga una duración mayor a seis meses;
+> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 2026)</small>
 
-II. Continuar en la situación en que se encuentre y a disposición del Estado Mayor de la Secretaría, para efectos de control administrativo cuando el curso tenga una duración de seis meses o menos;
+I. Causar alta en el Estado Mayor Conjunto de la Defensa Nacional cuando el curso tenga una duración mayor a seis meses;
+
+> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 2026)</small>
+
+II. Continuar en la situación en que se encuentre y a disposición del Estado Mayor Conjunto de la Defensa Nacional, para efectos de control administrativo cuando el curso tenga una duración de seis meses o menos;
 
 III. Ser controlado por la agregaduría militar de México en el país anfitrión o por la Secretaría en caso de que no se cuente con dicha representación militar;
 
@@ -1383,21 +1585,27 @@ VII. Observar las disposiciones establecidas en el instructivo, que para tal efe
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 137.
 
-La Secretaría expedirá los acuerdos de alta en el Ejército y Fuerza Aérea y en la Institución Educativa de los aspirantes civiles a ingresar al Sistema que hayan resultado seleccionados, y la Dirección General de Personal emitirá las órdenes de alta.
+La Secretaría expedirá los acuerdos de alta en el Ejército, Fuerza Aérea y Guardia Nacional, y en la Institución Educativa de las personas aspirantes civiles a ingresar al Sistema que hayan resultado seleccionados, y la Dirección General de Personal emitirá las órdenes de alta.
 
-Por lo que respecta al personal militar, la Secretaría expedirá los acuerdos de baja de la situación en que se encuentre y alta en la Institución Educativa respectiva. Las Direcciones Generales de las Armas o Servicios que controle administrativamente al personal, emitirán las órdenes de alta.
+Por lo que respecta a las personas militares, la Secretaría expedirá los acuerdos de baja de la situación en que se encuentre y alta en la Institución Educativa respectiva. Las Direcciones Generales de las Armas, Servicios o Guardia Nacional que controle administrativamente al personal, emitirán las órdenes de alta.
 
-En el caso del personal becario nacional y extranjero, la Secretaría emitirá los acuerdos de alta en la Institución Educativa correspondiente.
+En el caso de las personas becarias nacionales y extranjeras, la Secretaría emitirá los acuerdos de alta en la Institución Educativa correspondiente.
+
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 138.
 
-La Secretaría dejará sin efectos el alta respectiva cuando se detecte que el discente haya proporcionado documentos apócrifos o datos falsos para su ingreso. Lo anterior, sin perjuicio de las acciones legales procedentes.
+La Secretaría dejará sin efectos el alta respectiva cuando se detecte que la persona discente haya proporcionado documentos apócrifos o datos falsos para su ingreso. Lo anterior, sin perjuicio de las acciones legales procedentes.
+
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 139.
 
-Baja es la separación de los discentes de las Instituciones Educativas de conformidad con lo establecido en el Reglamento de cada Plantel.
+Baja es la separación de la persona discente de las Instituciones Educativas de conformidad con lo establecido en el Reglamento de cada Institución Educativa.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 5 DE AGOSTO DE 2024)</small>
 
@@ -1407,7 +1615,9 @@ Son causas de baja de las Instituciones Educativas del Sistema Educativo Militar
 
 I. Haber terminado satisfactoriamente sus estudios;
 
-II. A solicitud del interesado, siempre que sea aceptada por la Secretaría;
+> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 2026)</small>
+
+II. A solicitud de la persona interesada, siempre que sea aceptada por la Secretaría;
 
 > <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2012)</small>
 
@@ -1433,9 +1643,9 @@ b) Acumular trescientos puntos de demérito al incurrir en una falta muy grave q
 
 Para efectos de este inciso se entiende por faltas muy graves que afecten la disciplina militar, entre otras, las siguientes:
 
-> <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
-1. Golpear a un discente;
+1. Golpear a una persona discente;
 
 > <small>(REFORMADO, D.O.F. 5 DE AGOSTO DE 2024)</small>
 
@@ -1453,9 +1663,9 @@ Para efectos de este inciso se entiende por faltas muy graves que afecten la dis
 
 5. Realizar acciones que desprestigien la imagen de la escuela de formación en donde estudian o de la Secretaría.
 
-> <small>(ADICIONADO, D.O.F. 1 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
-Lo anterior, sin perjuicio de la responsabilidad penal que, en su caso, pudiera incurrir el discente;
+Lo anterior, sin perjuicio de la responsabilidad penal que, en su caso, pudiera incurrir la persona discente;
 
 VI. Adquirir otra nacionalidad;
 
@@ -1463,19 +1673,21 @@ VI. Adquirir otra nacionalidad;
 
 VII. Acumular el número o porcentaje de faltas justificadas o injustificadas que indique el reglamento de cada Institución Educativa;
 
-VIII. Estar comprendido en alguna de las causales de baja señaladas en la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, en el Reglamento de Reclutamiento de Personal para el Ejército y Fuerza Aérea Mexicanos y demás disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 2026)</small>
+
+VIII. Estar comprendido en alguna de las causales de baja señaladas en la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos o en la Ley de la Guardia Nacional, en el Reglamento de Reclutamiento de Personal para el Ejército, Fuerza Aérea y Guardia Nacional y demás disposiciones aplicables;
 
 > <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2012)</small>
 
 IX. Presentar algún padecimiento de los establecidos en el artículo 226 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
 
-> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 2026)</small>
 
-X. Por motivos de salud, que le impidan cumplir con sus obligaciones académicas y militares, dentro de la Institución Educativa, certificado por dos médicos militares en activo, especialistas en el área del padecimiento de que se trate;
+X. Por motivos de salud, al acumular más de treinta días por semestre que le impidan cumplir con sus obligaciones académicas y militares, dentro de la Institución Educativa, certificado por dos personas médicas militares en activo;
 
-> <small>(REFORMADA, D.O.F. 5 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 2026)</small>
 
-XI. Estar sujeto a un proceso penal, ya sea en el fuero militar, o del orden común o federal, en el que se le haya dictado una medida cautelar de prisión preventiva u otra que limite sus actividades en la Institución Educativa;
+XI. Estar la persona discente sujeta a un proceso penal, ya sea en el fuero militar, o del orden común o federal, en el que se le haya dictado auto de vinculación a proceso con una medida cautelar de prisión preventiva u otra que limite sus actividades en la Institución Educativa;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 5 DE AGOSTO DE 2024)</small>
 
@@ -1509,13 +1721,15 @@ b) Cuando sea causado por la persona discente en estado franco, en vacaciones, o
 
 2. Se encuentre bajo los influjos de bebidas embriagantes o de narcóticos;
 
-3. Las lesiones de la persona afectada pongan en entredicho la disciplina o imagen y prestigio de la Institución Educativa, de la Secretaría de la Defensa Nacional o del Ejército y Fuerza Aérea Mexicanos, o
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
+3. Las lesiones de la persona afectada pongan en entredicho la disciplina o imagen y prestigio de la Institución Educativa, de la Secretaría de la Defensa Nacional o del Ejército, Fuerza Aérea y Guardia Nacional, o
 
 4. El hecho haya merecido la atención de los medios de comunicación;
 
-> <small>(ADICIONADA, D.O.F. 5 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 2026)</small>
 
-XVII. Estar involucrado en un caso relevante, consistente en hechos o conductas en las que participe y requieran una atención especial por parte de la Secretaría de la Defensa Nacional por poner en entredicho la imagen y el prestigio de la Institución Educativa o del Ejército y Fuerza Aérea Mexicanos;
+XVII. Estar involucrado en un caso relevante, consistente en hechos o conductas en las que participe y requieran una atención especial por parte de la Secretaría por poner en entredicho la imagen y el prestigio de la Institución Educativa o del Ejército, Fuerza Aérea y Guardia Nacional;
 
 > <small>(ADICIONADA, D.O.F. 5 DE AGOSTO DE 2024)</small>
 
@@ -1557,19 +1771,19 @@ XXIV. Realizarse perforaciones en cualquier parte del cuerpo, con excepción de 
 
 XXV. Otras que señalen los reglamentos de las Instituciones Educativas y de las Jefaturas de cursos.
 
-> <small>(REFORMADO, D.O.F. 1 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
-Los discentes que causen baja de las Instituciones Educativas podrán ser puestos a disposición de la dirección general del arma o del servicio que corresponda conforme a los estudios que se encontraban realizando, siempre que exista vacante y se consideren necesarios sus servicios. Asimismo, se les asignará el grado que corresponda en términos del artículo 16 de este Reglamento, con excepción de los que causen baja de conformidad con el inciso b) de la fracción V Bis del presente artículo, quienes quedarán con el grado de soldados.
+Las personas discentes que causen baja de las Instituciones Educativas podrán ser puestas a disposición de la dirección general del arma, del servicio o de Guardia Nacional que corresponda conforme a los estudios que se encontraban realizando, siempre que exista vacante y se consideren necesarios sus servicios. Asimismo, se les asignará el grado que corresponda en términos del artículo 16 de este Reglamento, con excepción de los que causen baja de conformidad con el inciso b) de la fracción V Bis del presente artículo, quienes quedarán con el grado de soldados.
 
-> <small>(ADICIONADO, D.O.F. 5 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
-ARTÍCULO 140 BIS.- La persona discente causará baja del Sistema Educativo Militar y del Ejército y Fuerza Aérea Mexicanos cuando, además, se ubique en los supuestos previstos en el artículo 170, fracción II, apartados D y G, de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos.
+ARTÍCULO 140 BIS. La persona discente causará baja del Sistema Educativo Militar y del Ejército, Fuerza Aérea y Guardia Nacional cuando, además, se ubique en los supuestos previstos en el artículo 170, fracción II, apartados D y G, de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos y el artículo 43, fracción II, incisos d) y f), de la Ley de la Guardia Nacional.
 
-> <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 141.
 
-A los discentes que se ubiquen en alguna de las causales de baja a que se refiere el artículo 140 del presente Reglamento o en los de cada Institución Educativa, se les comunicará por escrito el procedimiento para determinar la procedencia o improcedencia de causar baja de la Institución Educativa respectiva, así como los motivos y fundamentos jurídicos para ello. Asimismo, se les concederá un término de quince días naturales, contado a partir del día siguiente al que les sea notificado el inicio de dicho procedimiento, a efecto de que manifiesten lo que a su interés convenga. Transcurrido este término sin que manifiesten argumento alguno, se les tendrá por conformes con el citado procedimiento.
+Las personas discentes que se ubiquen en alguna de las causas de baja a que se refiere el artículo 140 del presente Reglamento o en los de cada Institución Educativa, el personal directivo de dicha Institución tendrá facultad de comunicarles por escrito el procedimiento para determinar la procedencia o improcedencia de causar baja de la Institución Educativa respectiva, así como los motivos y fundamentos jurídicos para ello. Asimismo, se les concederá un término de quince días naturales, contado a partir del día siguiente al que les sea notificado el inicio de dicho procedimiento, a efecto de que manifiesten lo que a su interés convenga. Transcurrido este término sin que manifiesten argumento alguno, se les tendrá por conformes con el citado procedimiento, o bien desahogada la inconformidad que presente, la persona titular de la Dirección y Rectoría emitirá el Acuerdo de baja correspondiente.
 
 > <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2011)</small>
 
@@ -1595,33 +1809,55 @@ I. El curso del que causó baja o para iniciar en el mismo plantel, y
 
 II. Un Plantel diferente de conformidad con los reglamentos de cada Institución Educativa y las convocatorias correspondientes.
 
-> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MARZO DE 2026)</small>
 
-ARTÍCULO 143 BIS.- Los discentes que causen baja podrán reingresar por una sola ocasión a la Institución Educativa de la cual causaron baja, únicamente en los casos siguientes:
+ARTÍCULO 143 BIS.- Las personas discentes que causen baja sin importar el año que se encontraban cursando, podrán reingresar por una sola ocasión a la Institución Educativa de la cual causaron baja, únicamente en los casos siguientes:
+
+> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2012)</small>
 
 I. Cuando aprueben el examen especial correspondiente a las asignaturas que hayan motivado su baja;
 
+> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2012)</small>
+
 II. Cuando desaparezca la causa a la que se refiere el artículo 140, fracción X de este ordenamiento;
+
+> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2012)</small>
 
 III. Cuando la baja haya sido por la causa a la que se refiere el artículo 140, fracción VII de este ordenamiento, o
 
+> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2012)</small>
+
 IV. Cuando se emita sentencia ejecutoriada de carácter absolutorio en el proceso penal que hubiere motivado su baja de la Institución Educativa.
 
-> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MARZO DE 2026)</small>
 
-ARTÍCULO 143 TER.- Los discentes que causen baja podrán reingresar a continuar sus estudios, en el semestre que los interrumpieron, previa solicitud escrita presentada por conducto de la dirección y rectoría, y satisfaciendo los requisitos siguientes:
+ARTÍCULO 143 TER.- Las personas discentes que causen baja podrán reingresar a continuar sus estudios, en el semestre que los interrumpieron, previa solicitud escrita presentada por conducto de la Dirección y Rectoría, y cumpliendo los requisitos siguientes:
+
+> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2012)</small>
 
 I. Haber concluido satisfactoriamente el semestre anterior al que pretendan cursar;
 
+> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2012)</small>
+
 II. No presentar algún motivo de salud que le impida cumplir con sus obligaciones académicas y militares, dentro de la Institución Educativa, certificado por dos médicos militares en activo, especialistas en el área del padecimiento de que se trate;
+
+> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2012)</small>
 
 III. Estar apto para el servicio activo de las armas;
 
+> <small>(ADICIONADA, D.O.F. 27 DE ENERO DE 2012)</small>
+
 IV. No encontrarse sujeto a un proceso penal al momento del trámite de reingreso, y
 
-V. Otros que para el ingreso y permanencia en el Ejército y Fuerza Aérea Mexicanos, se señalen en las Leyes y Reglamentos Militares y en las convocatorias respectivas.
+> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 2026)</small>
+
+V. Otros que, para el ingreso y permanencia en el Ejército, Fuerza Aérea y Guardia Nacional, se señalen en las Leyes y Reglamentos Militares y en las convocatorias respectivas.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2012)</small>
 
 Las solicitudes serán consideradas siempre que el reingreso pueda darse sin que haya transcurrido más de un año desde la fecha en que el discente haya causado baja de la Institución Educativa, ni más de tres años en el caso de cursos que deban ser reactivados por haber quedado en receso.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2012)</small>
 
 En el caso de los discentes que se encuentren en el supuesto del artículo 143 bis, fracción II de este reglamento, las solicitudes serán consideradas siempre que el reingreso pueda darse sin que hayan transcurrido más de tres semestres desde la fecha en que el discente haya causado baja de la Institución Educativa.
 
@@ -1695,6 +1931,16 @@ Para el trámite de documentos de acreditación de estudios de nivel superior y 
 
 La certificación de estudios consiste en la expedición de documentos oficiales que dan testimonio de que se ha cumplido parcial o totalmente con los requisitos establecidos en un plan o programa de estudios determinado en las Instituciones Educativas o Jefaturas de Curso.
 
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], D.O.F. 20 DE MARZO DE 2026)</small>
+
+El presente ordenamiento establece las bases y fija los lineamientos para las diferentes formas de titulación en las Instituciones Educativas que integran el Sistema y son las siguientes:
+
+I. Evaluación Integral de Conocimientos;
+
+II. Tesis, y
+
+III. Otras formas de titulación que disponga la Secretaría.
+
 ###### ARTÍCULO 153.
 
 Los documentos que se expidan para certificar o acreditar estudios en el Sistema, deberán señalar específicamente los periodos en que se hayan realizado.
@@ -1727,9 +1973,11 @@ Por cada hora efectiva de actividad de aprendizaje se utilizará el factor de eq
 
 ### CAPÍTULO V. Compatibilidad de Estudios
 
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 156.
 
-La compatibilidad de estudios es el dictamen que emite la Secretaría por conducto de la Dirección y Rectoría, de los estudios realizados fuera del Sistema, respecto a los que se imparten en el mismo, con fines de alta de profesionistas en el Ejército y Fuerza Aérea, reclasificación de personal militar y otros que determine la Secretaría.
+La compatibilidad de estudios es el dictamen que emite la Secretaría por conducto de la Dirección y Rectoría, de los estudios realizados fuera del Sistema, respecto a los que se imparten en el mismo, con fines de alta de profesionistas en el Ejército, Fuerza Aérea y Guardia Nacional, reclasificación de personal militar y otros que determine la Secretaría.
 
 ###### ARTÍCULO 157.
 
@@ -1761,9 +2009,11 @@ La administración escolar es la función de la Dirección y Rectoría, así com
 
 La Dirección y Rectoría gestionará ante la Secretaría el alta y baja de sus recursos humanos.
 
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 161.
 
-La Dirección y Rectoría impartirá el curso de inducción al puesto a los Directores, Subdirectores, Comandantes del Cuerpo, Jefes de Secciones Pedagógicas y Académicas, que causen alta en las Instituciones Educativas, quienes como parte de su responsabilidad tendrán la obligación de mantenerse actualizados, para una administración escolar eficaz.
+La Dirección y Rectoría impartirá el curso de inducción al puesto a las personas titulares de la Dirección, Subdirección, Comandancias del Cuerpo, Jefaturas de Secciones Pedagógicas y Académicas, que causen alta en las Instituciones Educativas, quienes como parte de su responsabilidad tendrán la obligación de mantenerse actualizados, para una administración escolar eficaz.
 
 ###### ARTÍCULO 162.
 
@@ -1773,9 +2023,11 @@ La Dirección y Rectoría formará, capacitará y actualizará al personal docen
 
 La Dirección y Rectoría, de acuerdo a las necesidades educativas del Sistema, propondrá a la Secretaría la inclusión de cursos en el programa de becas para la formación, capacitación y actualización docente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 164.
 
-Los Directores de las Instituciones Educativas y Jefaturas de Curso, elaborarán anualmente su Plan de Trabajo, que incluirá la petición justificada de recursos presupuestales para satisfacer sus necesidades financieras.
+Las personas titulares de la Dirección de las Instituciones Educativas y Jefaturas de Curso, elaborarán anualmente su Plan de Trabajo, que incluirá la petición justificada de recursos presupuestales para satisfacer sus necesidades financieras.
 
 La Dirección y Rectoría consolidará los planes de dichas Instituciones y remitirá dicha información a la Secretaría para su aprobación.
 
@@ -1791,25 +2043,15 @@ Con aprobación de la Secretaría, la Dirección y Rectoría, celebrará conveni
 
 La investigación en el Sistema es un proceso que, mediante la aplicación del método científico, procura obtener información relevante y fidedigna para entender, verificar, corregir o aplicar el conocimiento. Se caracteriza por ser reflexiva, sistemática y metódica, y tiene por finalidad obtener conocimientos y solucionar problemas humanísticos, científicos, tecnológicos y militares.
 
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 167.
 
-La Dirección y Rectoría es el órgano responsable de la investigación en el Sistema de conformidad con el Plan de Investigación, en donde se establecen los objetivos, así como las líneas de investigación respectivas, llevando el registro y control de dichas actividades.
+La Dirección y Rectoría es el órgano responsable de la investigación académica en el Sistema de conformidad con el Plan de Investigación, en donde se establecen los lineamientos, así como las líneas de investigación y vertientes respectivas, llevando el seguimiento y control de dichas actividades.
 
-Las investigaciones que se realicen en el Sistema serán:
+La investigación académica es un proceso que, mediante la aplicación del método científico, procura obtener información relevante y fidedigna para entender, verificar, corregir o aplicar el conocimiento; se caracteriza por ser reflexiva, sistemática y metódica.
 
-I. Por convocatoria:
-
-Anualmente se difundirá una convocatoria en la que se establecerán los proyectos de investigación institucional, invitando a participar a los integrantes del Sistema para la materialización de dichos proyectos en las áreas humanística, científica, tecnológica y militar;
-
-II. A través de trabajos de tesis:
-
-La investigación de los temas de tesis aprobados se desarrollará por los discentes como parte de su examen profesional y de conformidad con el Reglamento de cada Institución Educativa.
-
-III. En cada Institución Educativa y Jefatura de Curso:
-
-Se realizarán en forma permanente actividades de investigación para mantenerse actualizadas pedagógica y académicamente, así como para incorporar los avances humanísticos, científicos, tecnológicos y militares al contenido de las asignaturas que comprendan sus planes y programas de estudio, y de doctrina militar objeto de su estudio.
-
-IV. Otras que establezca la Secretaría.
+Se realizará por convocatoria a través del Centro de Investigación de Defensa o aquellos Centros de Investigación que establezca la Secretaría.
 
 ###### ARTÍCULO 168.
 
@@ -1827,9 +2069,11 @@ La doctrina militar se define como el conjunto de normas, procedimientos, concep
 
 Asimismo, la doctrina militar se conceptualiza como un conjunto sistematizado de conocimiento que abarcan la normatividad, teorías y principios que fundamentan la existencia, estructura, operación y propósito de las fuerzas armadas; que identifican aspectos filosóficos, sociológicos, históricos, educativos y culturales que ayudan a unificar el pensamiento, sentimiento y acción de sus integrantes para la concepción, conducta y proyección de sus responsabilidades; lo anterior en armonía con la política de defensa nacional y seguridad interior para salvaguardar el interés supremo de la nación.
 
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 171.
 
-La Dirección y Rectoría, a través de las Instituciones Educativas del Sistema, se encargará de la investigación, actualización y desarrollo de la doctrina militar en el Ejército y Fuerza Aérea y propondrá a la Secretaría las modificaciones a la misma para su aprobación y difusión.
+La Dirección y Rectoría, a través de las Instituciones Educativas del Sistema, se encargará de la investigación académica, actualización y desarrollo de la doctrina militar en el Ejército, Fuerza Aérea y Guardia Nacional y propondrá a la Secretaría las modificaciones a la misma para su aprobación y difusión.
 
 ## TÍTULO DÉCIMO. Infracciones y Sanciones
 
@@ -1839,9 +2083,11 @@ La Dirección y Rectoría, a través de las Instituciones Educativas del Sistema
 
 Las sanciones para el personal militar se ajustarán a las leyes y reglamentos Militares.
 
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 173.
 
-Los docentes civiles que incumplan alguna de las obligaciones a que se refieren los artículos 48 de la Ley y 23 del presente Reglamento, se harán acreedores a una amonestación escrita, signada por el titular de la Institución Educativa o Jefe de Curso, remitiendo copia a su expediente.
+Las personas docentes civiles que incumplan alguna de las obligaciones a que se refieren los artículos 48 de la Ley y 23 del presente Reglamento, se harán acreedores a una amonestación escrita, signada por la persona titular de la Institución Educativa o Jefatura de Curso, remitiendo copia a su expediente.
 
 > <small>(REFORMADA, D.O.F. 1 DE FEBRERO DE 2023)</small>
 
@@ -1894,3 +2140,15 @@ PRIMERO.- El presente decreto entra en vigor al día siguiente de su publicació
 SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de la Defensa Nacional, por lo que no incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal que se trate.
 
 TERCERO.- Se derogan todas aquellas disposiciones administrativas que se opongan al presente decreto.
+
+D.O.F. 20 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE EDUCACIÓN MILITAR DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las referencias que se hagan en otras disposiciones al Reglamento de la Ley de Educación Militar del Ejército y Fuerza Aérea Mexicanos se entenderán hechas al Reglamento de la Ley de Educación Militar del Ejército, Fuerza Aérea y Guardia Nacional.
+
+TERCERO.- Las erogaciones que deriven por la implementación del presente decreto, se cubrirán con cargo al presupuesto aprobado de la Secretaría de la Defensa Nacional, por lo que no se autorizarán ampliaciones líquidas de recursos a su presupuesto en el presente ejercicio fiscal ni en años subsecuentes.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
