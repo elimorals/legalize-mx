@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-conducta-de-la-secretaria-de-turismo-y-cultura-168533
 country: "mx"
 rank: "codigo"
 publication_date: "2023-11-16"
-last_updated: "2023-11-16"
+last_updated: "2026-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE TURISMO Y CULTURA DEL ESTADO DE VERACRUZ
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE TURISMO, PUBLICADO EN LA G.O. DE 20 DE MARZO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CODIGO DE CONDUCTA DE LA SECRETARIA DE TURISMO Y CULTURA
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 20 DE MARZO DE 2026 (ABROGADO).
 
 Código publicado en Núm. Ext. 458 de la Gaceta Oficial del Estado de Veracruz, el jueves 16 de noviembre de 2023.
 
@@ -424,3 +426,15 @@ Cargo:
 Área de adscripción:
 
 Fecha y firma:
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 27 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE TURISMO”.]
+
+Primero. Publíquese el presente Acuerdo en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave, así como en la página oficial de la SECTUR.
+
+Segundo. El presente Acuerdo entrará en vigor al día siguiente hábil de su publicación.
+
+Tercero. Se abroga el Acuerdo por el que se Emite el Código de Conducta de la Secretaría de Turismo y Cultura, el 09 de octubre del 2023, validado y aprobado por la Contraloría General del Estado de Veracruz de Ignacio de la Llave, y publicado (sic) 16 de noviembre de 2023 en (sic) Gaceta Oficial Núm Ext. 458 y demás disposiciones que contravengan al presente Código de Conducta.
