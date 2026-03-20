@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-fiscalia-general-del-estado-de-puebla-113098
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-02-20"
-last_updated: "2023-08-18"
+last_updated: "2026-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113098&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2026.
 
 Ley publicada en la Tercera Edición Extraordinaria del Periódico Oficial del Estado de Puebla, el sábado 20 de febrero de 2016.
 
@@ -89,7 +89,9 @@ V. Honradez: La cualidad con la que se designa a aquella persona que se muestra,
 
 VI. Respeto a los derechos humanos: El aprecio por parte de los integrantes de las instituciones de seguridad pública, a los derechos establecidos o reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales de los que México forme parte y en la Constitución Política del Estado Libre y Soberano de Puebla, por lo que no ejecutarán ni tolerarán que se ejecuten actos que los trasgredan en modo alguno, aun cuando provengan de órdenes superiores;
 
-VII. Accesibilidad: La creación las condiciones necesarias de accesibilidad y atención de las personas con alguna discapacidad;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2026)</small>
+
+VII. Accesibilidad: Las medidas pertinentes para asegurar el acceso de las personas con discapacidad, en igualdad de condiciones con las demás, al entorno físico, el transporte, la información y las comunicaciones, incluidos los sistemas y las tecnologías de la información y las comunicaciones, y a otros servicios e instalaciones abiertos al público o de uso público, tanto en zonas urbanas como rurales;
 
 VIII. Debida diligencia: Garantizar el acceso a la justicia mediante la debida investigación de los hechos para su esclarecimiento, identificar a los responsables, ejercitar acción penal y velar por una adecuada y debida reparación integral a favor de la víctima;
 
@@ -333,7 +335,9 @@ V. Participar en el Sistema de Seguridad Pública del Estado y vigilar el cumpli
 
 VI. Proponer al Sistema de Seguridad Pública del Estado, políticas, programas y acciones de coordinación y colaboración entre las Instituciones de Seguridad Pública;
 
-VII. Celebrar acuerdos o convenios con instituciones públicas o privadas para garantizar a los imputados, ofendidos, víctimas, denunciantes y testigos pertenecientes a los pueblos y comunidades indígenas, la disponibilidad de intérpretes y traductores;
+> <small>(REFORMADA, P.O. 20 DE MARZO DE 2026)</small>
+
+VII. Celebrar acuerdos o convenios de coordinación y colaboración con instituciones públicas y privadas, a fin de garantizar a las personas imputadas, ofendidas, víctimas, denunciantes y testigos pertenecientes a pueblos y comunidades indígenas, así como a aquellas con discapacidad auditiva, la disponibilidad y provisión oportuna de intérpretes y traductores profesionales que aseguren el pleno ejercicio de sus derechos procesales;
 
 VIII. Atender y dar respuesta a las quejas, propuestas de conciliación y recomendaciones, así como atender las visitas, de las Comisiones Nacional de Derechos Humanos y de Derechos Humanos del Estado;
 
@@ -2004,3 +2008,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. La Fiscalía General del Estado de Puebla, en un plazo que no exceda de 180 días hábiles contados a partir de su entrada en vigor, deberá proveer lo conducente legal, reglamentaria y administrativamente a efecto de cumplir con el presente Decreto.
+
+P.O. 20 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMAN LAS FRACCIONES VII DEL ARTÍCULO 4 Y VIII (SIC) DEL ARTÍCULO 8 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga toda disposición legal y reglamentaria que se oponga al presente Decreto.
