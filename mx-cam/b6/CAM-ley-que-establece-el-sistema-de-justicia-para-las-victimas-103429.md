@@ -4,7 +4,7 @@ identifier: "CAM-ley-que-establece-el-sistema-de-justicia-para-las-victimas-1034
 country: "mx"
 rank: "ley"
 publication_date: "2014-10-02"
-last_updated: "2024-10-28"
+last_updated: "2026-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "CAM"
 
 LEY QUE ESTABLECE EL SISTEMA DE JUSTICIA PARA LAS VÍCTIMAS DEL ESTADO DE CAMPECHE
 
-> <small>N. DE E. DE CONFORMIDAD CON EL PRIMERO TRANSITORIO DEL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL DÍA 3 DE DICIEMBRE DE 2014, PREVIA SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el jueves 2 de octubre de 2014.
 
@@ -727,39 +725,39 @@ III. Una Comisión Ejecutiva Estatal, que será la máxima autoridad del Sistema
 
 ### CAPÍTULO II. DE LA COMISIÓN EJECUTIVA ESTATAL
 
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2026)</small>
 
 ###### Artículo 62.
 
 La Comisión Ejecutiva Estatal se integrará de la siguiente manera:
 
-I. Un Presidente, quien será la persona Titular de la Secretaría de Gobierno;
+I. Un Presidente, quien será la persona Titular de la Consejería Jurídica;
 
 II. Un Vicepresidente, que será la o el Director General del Instituto de Acceso a la Justicia; y
 
 III. Diez vocales:
 
-1) La o el Director General del Sistema para el Desarrollo Integral de la Familia en el Estado de Campeche
+1) La o el Director General del Sistema para el Desarrollo Integral de la Familia en el Estado de Campeche;
 
-2) La persona titular de la Secretaría de Bienestar;
+2) La persona titular de la Secretaría de Gobierno;
 
-3) La persona titular de la Secretaría de Administración y Finanzas;
+3) La persona titular de la Secretaría de Bienestar;
 
-4) La persona titular de la Secretaría de Salud;
+4) La persona titular de la Secretaría de Administración, Finanzas y Planeación;
 
-5) La persona Titular de la Secretaría de Protección y Seguridad Ciudadana;
+5) La persona titular de la Secretaría de Salud;
 
-6) La o el Fiscal General del Estado;
+6) La persona titular de la Secretaría de Protección y Seguridad Ciudadana;
 
-7) La o el Consejero Jurídico del Poder Ejecutivo del Estado;
+7) La o el Fiscal General del Estado;
 
-8) La o el Diputado que presida la Comisión de Procuración e Impartición de Justicia del H. Congreso del Estado de Campeche;
+8) Una o un representante del Poder Legislativo, que será la o el Diputado Presidente de las Comisiones Ordinarias de Procuración e Impartición de Justicia, de Igualdad de Género, de Atención a Grupos Vulnerables y de Asuntos Indígenas del H. Congreso del Estado de Campeche, el cual se designará, entre las mencionadas, por la o el Diputado Presidente de la Junta de Gobierno y Administración del H. Congreso del Estado de Campeche;
 
 9) La o el Magistrado que designe el Pleno del Tribunal Superior de Justicia del Estado de Campeche; y
 
-10) La o el presidente de la Comisión de Derechos Humanos del Estado de Campeche.
+10) La o el Presidente de la Comisión de Derechos Humanos del Estado de Campeche.
 
-Por cada miembro de la comisión con excepción de quien ocupe la presidencia y la vicepresidencia, habrá un suplente designado por el propietario. Para el caso específico de la o el presidente de la Comisión de Procuración e Impartición de Justicia del H. Congreso del Estado, la suplencia recaerá en quien ocupe la secretaría de esa Comisión.
+Por cada miembro de la comisión con excepción de quien ocupe la presidencia y la vicepresidencia, habrá un suplente designado por el propietario.
 
 > <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2024)</small>
 
@@ -1304,3 +1302,15 @@ SEGUNDO.- El Ejecutivo Estatal, a través de la Secretaría de Administración y
 La aportación inicial del fideicomiso se realizará con los recursos que, hasta la fecha de entrada en vigor del presente decreto, cuente el Fondo de Justicia para las Víctimas.
 
 TERCERO.- La Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Campeche deberá proceder a la liquidación del Fondo de Apoyo para los Beneficiarios del Instituto de Acceso a la Justicia del Estado de Campeche, integrando los recursos que conforman dicho Fondo al Patrimonio del Instituto de Acceso a la Justicia del Estado de Campeche.
+
+P.O. 20 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 203 POR EL QUE "SE REFORMA EL ARTÍCULO 62 DE LA LEY QUE ESTABLECE EL SISTEMA DE JUSTICIA PARA LAS VÍCTIMAS DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido del presente decreto.
+
+TERCERO.- De manera enunciativa más no limitativa, en un plazo de 90 días contados a partir de la entrada en vigor del presente decreto, deberán realizarse las modificaciones correspondientes al Reglamento Interior del Instituto de Acceso a la Justicia del Estado de Campeche, al Reglamento Interior de la Secretaría de Gobierno, al Reglamento Interior de la Consejería Jurídica, y demás disposiciones relativas y aplicables del marco jurídico estatal que resulten necesarias para el debido cumplimiento de lo dispuesto por este decreto.
+
+CUARTO.- En un plazo no mayor a 30 días naturales contados a partir de la entrada en vigor del presente decreto se deberá instalar y celebrar la primera sesión de la Junta de Gobierno, en el lugar y fecha que oportunamente determine la o el Presidente de la Junta de Gobierno.
