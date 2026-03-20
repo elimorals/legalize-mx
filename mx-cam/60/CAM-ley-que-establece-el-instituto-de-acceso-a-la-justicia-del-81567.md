@@ -4,7 +4,7 @@ identifier: "CAM-ley-que-establece-el-instituto-de-acceso-a-la-justicia-del-8156
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-25"
-last_updated: "2024-10-28"
+last_updated: "2026-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY QUE ESTABLECE EL INSTITUTO DE ACCESO A LA JUSTICIA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el viernes 25 de febrero de 2011.
 
@@ -49,9 +49,11 @@ Ley que establece el Instituto de Acceso a la Justicia del Estado de Campeche.
 
 Las disposiciones de esta Ley son de orden público e interés social y tienen por objeto reglamentar el artículo 76 Bis de la Constitución Política del Estado de Campeche.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2026)</small>
+
 ###### Artículo 2.
 
-Se establece el Instituto de Acceso a la Justicia del Estado de Campeche, identificado también con el acrónimo “INDAJUCAM”, como un organismo descentralizado de la Administración Pública del Estado de Campeche, con personalidad jurídica y patrimonio propios, quedando sectorizado a la Secretaría de Gobierno de la propia Administración, que tendrá su sede en la capital del Estado, sin perjuicio de establecer oficinas en los municipios de la Entidad.
+Se establece el Instituto de Acceso a la Justicia del Estado de Campeche, identificado también con el acrónimo “INDAJUCAM”, como un organismo descentralizado de la Administración Pública del Estado de Campeche, con personalidad jurídica y patrimonio propios, quedando sectorizado a la Consejería Jurídica de la propia Administración, que tendrá su sede en la capital del Estado, sin perjuicio de establecer oficinas en los municipios de la Entidad.
 
 ###### Artículo 3.
 
@@ -177,35 +179,41 @@ V. Un Delegado en cada uno de los Municipios del Estado, excepto el de Campeche;
 
 VI. El personal profesional técnico y especializado necesario para el cumplimiento de sus funciones.
 
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2026)</small>
+
 ###### Artículo 9.
 
 La Junta se integrará de la siguiente forma:
 
-I. Un presidente, que lo será el Secretario de Gobierno;
+I. Una o un presidente, que será la persona titular de la Consejería Jurídica;
 
-II. Un vicepresidente, que lo será quien presida el Patronato del Sistema para el Desarrollo Integral de la Familia en el Estado de Campeche; y
+II. Una o un vicepresidente, que será la persona titular de la Dirección General del Sistema para el Desarrollo Integral de la Familia en el Estado de Campeche; y
 
-III. Ocho vocales:
+III. Nueve vocales:
 
-1) El Secretario de Desarrollo Social y Regional;
+1) La persona titular de la Secretaría de Gobierno;
 
-2) El Secretario de Finanzas;
+2) La persona titular de la Secretaría de Administración, Finanzas y Planeación;
 
-3) El Secretario de Salud;
+3) La persona titular de la Secretaría de Salud;
 
-4) El Secretario de Seguridad Pública y Protección a la Comunidad;
+4) La persona titular de la Secretaría de Bienestar;
 
-5) El Procurador General de Justicia;
+5) La persona titular de la Secretaría de Protección y Seguridad Ciudadana;
 
-6) El Consejero Jurídico del Gobernador;
+6) La persona titular de la Secretaría de Anticorrupción y Buen Gobierno;
 
-7) El Diputado Presidente de la Comisión Ordinaria de Equidad y Género, Atención a Grupos Vulnerables y Etnias Indígenas del Congreso del Estado de Campeche;
+7) La persona titular de la Fiscalía General del Estado de Campeche;
 
-8) El Magistrado que designe el Pleno del Tribunal Superior de Justicia del Estado de Campeche;
+8) Una o un representante del Poder Legislativo, que será la o el Diputado Presidente de las Comisiones Ordinarias de Procuración e Impartición de Justicia de Igualdad de Género, de Atención a Grupos Vulnerables y de Asuntos Indígenas del Congreso del Estado de Campeche, el cual se designará, entre las mencionadas, por la o el Diputado Presidente de la Junta de Gobierno y Administración del H. Congreso del Estado de Campeche; y
 
-Por cada miembro de la Junta, con excepción del Presidente y del Vicepresidente, habrá un suplente designado por el propietario.
+9) La o el Magistrado que designe el Pleno del Tribunal Superior de Justicia del Estado de Campeche.
+
+Por cada miembro de la Junta, con excepción de la o el Presidente y de la o el Vicepresidente, habrá una o un suplente designado por el propietario.
 
 ### Capítulo IV. De las atribuciones de la Junta
+
+> <small>(REFORMADO, P.O. 20 DE MARZO DE 2026)</small>
 
 ###### Artículo 10.
 
@@ -217,25 +225,21 @@ II. Aprobar los programas necesarios para el cumplimiento de los objetivos del I
 
 III. Expedir el Reglamento Interior del Instituto;
 
-IV. Nombrar y remover al Director General del Instituto, a propuesta del Gobernador del Estado;
+IV. Nombrar y remover a las y los Directores de Operación y de Administración y a los Delegados Municipales, así como designar a quienes deberán suplirlos durante su ausencia;
 
-V. Nombrar y remover a los Directores de Operación y de Administración y a los delegados Municipales, así como designar a quienes deberán suplirlos durante su ausencia;
+V. Conceder licencia para separarse de su cargo, por un lapso no mayor de treinta días calendario, a las y los Directores General, de Operación y de Administración y a los Delegados Municipales, así como designar a quienes deberán suplirlos durante su ausencia;
 
-VI. Conceder licencia para separarse de su cargo, por un lapso no mayor de treinta días calendario, a los Directores General, de Operación y de Administración y a los Delegados Municipales, así como designar a quienes deberán suplirlos durante su ausencia;
+VI. Resolver sobre las solicitudes que en materia de apoyo económico y otorgamiento de la reparación de daños y el pago de perjuicios se sometan a su consideración;
 
-VII. (DEROGADA, P.O. 28 DE OCTUBRE DE 2024)
+VII. Autorizar el proyecto de presupuesto de egresos del Instituto y conocer sobre su ejercicio;
 
-VIII. Resolver sobre las solicitudes que en materia de apoyo económico y otorgamiento de la reparación de daños y el pago de perjuicios se sometan a su consideración;
+VIII. Solicitar a la o el Director General del Instituto la información adicional sobre los asuntos que se encuentren en trámite o haya resuelto en cumplimiento de sus atribuciones;
 
-IX. Autorizar el proyecto de presupuesto de egresos del Instituto y conocer sobre su ejercicio;
+IX. Aprobar, en su caso, las propuestas generales que formule la o el Director General, conducentes a una mejor atención de los beneficiarios del Padrón;
 
-X. Solicitar al Director General del Instituto la información adicional sobre los asuntos que se encuentren en trámite o haya resuelto en cumplimiento de sus atribuciones;
+X. Conocer el informe anual de la o el Director General, con relación a las actividades realizadas; y
 
-XI. Aprobar, en su caso, las propuestas generales que formule el Director General, conducentes a una mejor atención de los beneficiarios del Padrón;
-
-XII. Conocer el informe anual del Director General, con relación a las actividades realizadas; y
-
-XIII. Las demás que le confieran la presente Ley y su Reglamento y otras disposiciones legales y reglamentarias que sean aplicables.
+XI. Las demás que le confieran la presente Ley y su Reglamento y otras disposiciones legales y reglamentarias que sean aplicables.
 
 ###### Artículo 11.
 
@@ -616,3 +620,15 @@ SEGUNDO.- El Ejecutivo Estatal, a través de la Secretaría de Administración y
 La aportación inicial del fideicomiso se realizará con los recursos que, hasta la fecha de entrada en vigor del presente decreto, cuente el Fondo de Justicia para las Víctimas.
 
 TERCERO.- La Secretaría de Administración y Finanzas del Poder Ejecutivo del Estado de Campeche deberá proceder a la liquidación del Fondo de Apoyo para los Beneficiarios del Instituto de Acceso a la Justicia del Estado de Campeche, integrando los recursos que conforman dicho Fondo al Patrimonio del Instituto de Acceso a la Justicia del Estado de Campeche.
+
+P.O. 20 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 203 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 2, 9 Y 10, TODOS DE LA LEY QUE ESTABLECE EL INSTITUTO DE ACCESO A LA JUSTICIA DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido del presente decreto.
+
+TERCERO.- De manera enunciativa más no limitativa, en un plazo de 90 días contados a partir de la entrada en vigor del presente decreto, deberán realizarse las modificaciones correspondientes al Reglamento Interior del Instituto de Acceso a la Justicia del Estado de Campeche, al Reglamento Interior de la Secretaría de Gobierno, al Reglamento Interior de la Consejería Jurídica, y demás disposiciones relativas y aplicables del marco jurídico estatal que resulten necesarias para el debido cumplimiento de lo dispuesto por este decreto.
+
+CUARTO.- En un plazo no mayor a 30 días naturales contados a partir de la entrada en vigor del presente decreto se deberá instalar y celebrar la primera sesión de la Junta de Gobierno, en el lugar y fecha que oportunamente determine la o el Presidente de la Junta de Gobierno.
