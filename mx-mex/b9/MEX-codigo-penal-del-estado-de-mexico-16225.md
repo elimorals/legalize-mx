@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2026-03-17"
+last_updated: "2026-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE MARZO DE 2026.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -3286,6 +3286,36 @@ Las penas previstas en el presente artículo se elevarán hasta en un tercio, si
 > <small>(ADICIONADO, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 A quien condicione a un adulto mayor el acceso y permanencia a su propio domicilio, o cualquiera de sus bienes inmuebles, le restrinja o condicione el uso de sus bienes muebles; presione por medio de la violencia física o moral para que teste o cambie su testamento a favor de un tercero, disponga sin la autorización correspondiente de los recursos económicos del pasivo; o sustraiga, despoje, retenga o condicione la entrega de los documentos de identidad o de acceso a los servicios de salud y de asistencia social, en perjuicio de una persona adulta mayor, la pena aumentará hasta en una mitad.
+
+> <small>(ADICIONADO, G.G. 20 DE MARZO DE 2026)</small>
+
+###### Artículo 218 Bis.
+
+Comete el delito de violencia vicaria, el hombre que realice cualquier acto u omisión con el objetivo de causar perjuicio o daño a las mujeres, se dirige contra las hijas y/o hijos, familiares o personas allegadas, ya sea que se tenga o se haya tenido relación de matrimonio o concubinato; o mantenga o se haya mantenido una relación de hecho con la persona agresora; lo anterior aplica incluso cuando no se cohabite en el mismo domicilio, se configurará el delito de (sic) cuando el sujeto activo:
+
+I. Amenace con causar daño a las hijas e hijos;
+
+II. Amenace con ocultar, retener, o sustraer a hijas e hijos fuera de su domicilio o de su lugar habitual de residencia;
+
+III. Utilice a hijas y/o hijos para obtener información respecto de la madre;
+
+IV. Promueva, incite o fomente actos de violencia física de hijas y/o hijos en contra de la madre;
+
+V. Promueva, incite o fomente actos de violencia psicológica que descalifiquen la figura materna afectando el vínculo materno filial;
+
+VI. Oculte, retenga o sustraiga a hijas y/o hijos, así como a familiares o personas allegadas;
+
+VII. Interponga acciones legales con base en hechos falsos o inexistentes, en contra de las mujeres para obtener la guarda y custodia, cuidados y atenciones o pérdida de la patria potestad de las hijas y/o hijos en común, y
+
+VIII. Condicione el cumplimiento de las obligaciones alimentarias a las mujeres y a sus hijas e hijos.
+
+A quien cometa este delito se le impondrá una pena de cuatro a ocho años de prisión y de quinientos a mil quinientos días multa y tratamiento psicológico, psicoterapéutico, psiquiátrico o reeducativo.
+
+> <small>(ADICIONADO, G.G. 20 DE MARZO DE 2026)</small>
+
+###### Artículo 218 Ter.
+
+En los casos de violencia familiar y/o violencia vicaria el Ministerio Público exhortará a la persona imputada para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima, acordará las medidas preventivas y solicitará las medidas precautorias que considere pertinentes para salvaguardar la integridad física o psíquica de la misma y, solicitará las órdenes de protección que establece la Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de México.
 
 ### CAPITULO VI. TRAFICO DE MENORES
 
@@ -8150,3 +8180,15 @@ G.G. 17 DE MARZO DE 2026.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 20 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 285.- POR EL QUE SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 7; SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 7; Y SE DEROGA EL ARTÍCULO 8 TER DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO; SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 4.102 BIS, EL PRIMER Y TERCER PÁRRAFOS DE LA FRACCIÓN II DEL ARTÍCULO 4.224, EL PRIMER PÁRRAFO Y EL INCISO E) DE LA FRACCIÓN I DEL ARTÍCULO 4.397; SE ADICIONA EL INCISO F) A LA FRACCIÓN I DEL ARTÍCULO 4.397 Y LOS ARTÍCULOS 4.397 QUATER Y 4.397 QUINQUIES; Y SE DEROGA EL SEGUNDO PÁRRAFO DEL INCISO A) DE LA FRACCIÓN I DEL ARTÍCULO 4.397 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO; Y SE ADICIONAN LOS ARTÍCULOS 218 BIS Y 218 TER DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
