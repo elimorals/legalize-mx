@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2026-02-02"
+last_updated: "2026-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CÓDIGO PENAL PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2026.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -2905,15 +2905,9 @@ Es punible el daño en propiedad causado culposamente.
 
 ### CAPITULO IX. EXTORSION
 
-> <small>(REFORMADO, P.O. 21 DE OCTUBRE DE 1998)</small>
-
 ###### ARTICULO 231.
 
-Al que procurándose para sí o para otro un lucro indebido, obligue a una persona a realizar u omitir un acto en perjuicio de su patrimonio o al de un tercero, se le impondrá prisión de cuatro a doce años y de doscientos a cuatrocientos cincuenta días multa.
-
-> <small>(ADICIONADO, P.O. 21 DE OCTUBRE DE 1998)</small>
-
-Si la extorsión es realizada por una asociación delictuosa, o por servidor público, de cualquier ámbito de la administración pública o corporación policíaca, la pena se aumentará en una mitad; además, de la destitución del empleo, cargo o comisión y la inhabilitación para desempeñar ese u otro empleo, cargo o puesto público hasta por cinco años. Las mismas sanciones previstas en este párrafo, se aplicarán a quien habiendo sido servidor público realice la extorsión dentro de los tres años siguientes contados a partir de que concluyó la prestación de su servicio.
+(DEROGADO, P.O. 20 DE MARZO DE 2026)
 
 ### CAPITULO X. USURA
 
@@ -5620,3 +5614,13 @@ P.O. 2 DE FEBRERO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 20 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 375 DEL H. CONGRESO DEL ESTADO.- POR EL QUE SE EXPIDE LA LEY PARA PREVENIR, INVESTIGAR Y SANCIONAR EL DELITO DE EXTORSIÓN DEL ESTADO DE SINALOA Y SE DEROGA EL ARTÍCULO 231 DEL CÓDIGO PENAL PARA EL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. La Secretaría de Seguridad Pública del Estado contará con 90 días hábiles contados a partir de la entrada en vigor del presente Decreto para emitir la Estrategia para Prevenir y Combatir el Delito de Extorsión en el Estado de Sinaloa, prevista en el artículo 22 de la Ley para Prevenir, Investigar y Sancionar el Delito de Extorsión del Estado de Sinaloa.
