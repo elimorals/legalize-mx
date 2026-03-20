@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6457
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-20"
-last_updated: "2025-12-17"
+last_updated: "2026-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE MARZO DE 2026.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el jueves 20 de noviembre de 2008.
 
@@ -221,9 +221,33 @@ VI. Violencia Simbólica: Es cualquier acto u omisión que produzca un daño o m
 
 VII. Violencia mediática: Es cualquier acto que a través de la publicación o difusión de mensajes e imágenes estereotipados a través de cualquier medio de comunicación que promueva la explotación de mujeres o sus imágenes, legitimando la desigualdad de trato o construya patrones socioculturales reproductores de desigualdad o generadores de violencia;
 
-> <small>(ADICIONADA [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN VI], G.G. 3 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 20 DE MARZO DE 2026)</small>
 
-VIII. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
+VIII. Violencia Vicaria contra las mujeres por razón de género: Comete violencia vicaria contra las mujeres por razón de género, el hombre ya sea cónyuge, excónyuge, concubinario, exconcubinario, pareja o expareja, que por medio de cualquier acto u omisión, utilice como víctima directa de violencia a las hijas o los hijos, familiares, personas adultas, personas con discapacidad, personas en situación de dependencia o seres sintientes, para causarle algún tipo de daño a la mujer, generando una consecuente afectación psicoemocional o física.
+
+Se manifiesta de manera enunciativa, mas no limitativa, a través de las siguientes conductas:
+
+a) Amenazar con causar daño a las hijas e hijos;
+
+b) Amenazar con ocultar, retener, o sustraer a hijas e hijos, o seres sintientes, fuera de su domicilio o de su lugar habitual de residencia;
+
+c) Utilizar a hijas y/o hijos para obtener información respecto de la madre;
+
+d) Promover, incitar o fomentar actos de violencia física de hijas y/o hijos en contra de la madre;
+
+e) Promover, incitar o fomentar actos de violencia psicológica que descalifiquen la figura materna afectando el vínculo materno filial;
+
+f) Ocultar, retener o sustraer a hijas y/o hijos, así como a familiares o personas allegadas;
+
+g) Interponer acciones legales con base en hechos falsos o inexistentes, en contra de las mujeres para obtener la guarda y custodia, cuidados y atenciones o pérdida de la patria potestad de las hijas y/o hijos en común;
+
+h) Condicionar el cumplimiento de las obligaciones alimentarias a las mujeres y a sus hijas e hijos; e
+
+i) La imputación de hechos delictuosos falsos en donde se demuestre la dilación procesal injustificada, o cualquier otra que sea utilizada para dañar a la mujer.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 20 DE MARZO DE 2026)</small>
+
+IX. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
 
 ## TÍTULO TERCERO. MODALIDADES DE LA VIOLENCIA
 
@@ -249,11 +273,9 @@ I. Establecer la violencia familiar como restricción para el régimen de conviv
 
 II. Modificar los ordenamientos penales para establecer que cualquier persona que tenga conocimiento de hechos que constituyan delitos de violencia familiar puedan denunciar.
 
-> <small>(ADICIONADO, G.G. 10 DE JUNIO DE 2022)</small>
-
 ###### Artículo 8 Ter.
 
-La Violencia Vicaria es el acto u omisión que genera afectación o daño físico, psicológico, emocional, patrimonial o de cualquier otra índole a un descendiente, ascendiente o dependiente económico de la víctima, cometido por parte de quien mantenga o mantuvo una relación afectiva o sentimental con la misma, y cuyo objeto sea el causar un menoscabo emocional, psicológico, patrimonial o de otra índole hacia la víctima; y que se expresa de manera enunciativa, más no limitativa, a través de conductas tales como las amenazas verbales, el aleccionamiento, la sustracción de sus hijas e hijos, la imputación de hechos delictuosos falsos en donde se demuestre la dilación procesal injustificada, o cualquier otra que sea utilizada para dañar a la mujer.
+(DEROGADO, G.G. 20 DE MARZO DE 2026)
 
 ### CAPÍTULO II. DE LA VIOLENCIA LABORAL Y DOCENTE
 
@@ -2830,3 +2852,15 @@ Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 20 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 285.- POR EL QUE SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 7; SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 7; Y SE DEROGA EL ARTÍCULO 8 TER DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO; SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 4.102 BIS, EL PRIMER Y TERCER PÁRRAFOS DE LA FRACCIÓN II DEL ARTÍCULO 4.224, EL PRIMER PÁRRAFO Y EL INCISO E) DE LA FRACCIÓN I DEL ARTÍCULO 4.397; SE ADICIONA EL INCISO F) A LA FRACCIÓN I DEL ARTÍCULO 4.397 Y LOS ARTÍCULOS 4.397 QUATER Y 4.397 QUINQUIES; Y SE DEROGA EL SEGUNDO PÁRRAFO DEL INCISO A) DE LA FRACCIÓN I DEL ARTÍCULO 4.397 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO; Y SE ADICIONAN LOS ARTÍCULOS 218 BIS Y 218 TER DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO".]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
