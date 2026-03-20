@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-uniformes-divisas-y-equipo-del-ejercito-90405"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-11-30"
-last_updated: "2012-11-30"
+last_updated: "2026-03-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90405&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2012-11-29"
 ---
 # REGLAMENTO DE UNIFORMES, DIVISAS Y EQUIPO DEL EJERCITO, FUERZA AEREA Y GUARDIA NACIONAL -- ANTES REGLAMENTO DE UNIFORMES, DIVISAS Y EQUIPO DEL EJERCITO Y FUERZA AEREA MEXICANOS --
 
-REGLAMENTO DE UNIFORMES, DIVISAS Y EQUIPO DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
+REGLAMENTO DE UNIFORMES, DIVISAS Y EQUIPO DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MARZO DE 2026.
 
 Reglamento publicado en la Primera Sección Vespertina del Diario Oficial de la Federación, el vienes 30 de noviembre de 2012.
 
@@ -29,69 +29,105 @@ Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- 
 
 FELIPE DE JESÚS CALDERÓN HINOJOSA, Presidente de los Estados Unidos Mexicanos, en ejercicio de la facultad que me confiere el artículo 89, fracción I de la Constitución Política de los Estados Unidos Mexicanos, y con fundamento en los artículos 29 de la Ley Orgánica de la Administración Pública Federal; 3o., 17, 125, 131 y 200 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, y 50 de la Ley sobre el Escudo, la Bandera y el Himno Nacionales, he tenido a bien expedir el siguiente
 
-REGLAMENTO DE UNIFORMES, DIVISAS Y EQUIPO DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 20 DE MARZO DE 2026)</small>
+
+REGLAMENTO DE UNIFORMES, DIVISAS Y EQUIPO DEL EJÉRCITO, FUERZA AÉREA Y GUARDIA NACIONAL
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ### CAPÍTULO ÚNICO. GENERALIDADES
 
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### Artículo 1.
 
-El presente ordenamiento reglamenta el Capítulo VIII del Título Cuarto de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos y tiene por objeto establecer las normas a que se sujetará el personal del Ejército y Fuerza Aérea Mexicanos, en el uso de los uniformes, divisas y equipo, así como las normas para el uso de uniformes, divisas y equipo militar por parte del Mando Supremo.
+El presente ordenamiento reglamenta el Capítulo VIII del Título Cuarto de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos y tiene por objeto establecer las normas a que se sujetará a las personas militares del Ejército, Fuerza Aérea y Guardia Nacional, en el uso de los uniformes, divisas y equipo, así como las normas para el uso de uniformes, divisas y equipo militar por parte del Mando Supremo.
+
+> <small>(ADICIONADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
+###### Artículo 1 Bis.
+
+Los uniformes, divisas e insignias en el Ejército, Fuerza Aérea y Guardia Nacional son de uso exclusivo, por lo que no podrán ser utilizados por personas, corporaciones o dependencias que les sean ajenas. Quienes infrinjan estas disposiciones quedarán sujetos a lo que dispone la ley penal de la materia.
+
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### Artículo 2.
 
-Los militares de las armas y de los servicios usarán los uniformes, divisas y equipo conforme a lo establecido en el presente Reglamento y demás disposiciones jurídicas aplicables.
+Las personas militares del Ejército, Fuerza Aérea y Guardia Nacional usarán los uniformes, divisas, insignias y equipo conforme a lo establecido en el presente reglamento y demás disposiciones jurídicas aplicables.
 
-Las características específicas de los uniformes, divisas y equipo se establecerán en los manuales y demás disposiciones administrativas que al efecto expida el Secretario de la Defensa Nacional.
+Las características específicas de los uniformes, divisas, insignias y equipo se establecerán en los manuales y demás disposiciones administrativas que al efecto expida la persona titular de la Secretaría de la Defensa Nacional.
+
+El uso del uniforme deberá evitarse en eventos ajenos a la solemnidad castrense y actividades que menoscaben el decoro y respeto que simboliza.
+
+Las personas militares del Ejército, Fuerza Aérea y Guardia Nacional retiradas podrán portar el uniforme cuando asistan a Instalaciones Militares, actos oficiales, ceremonias cívicas, conmemorativas o de carácter institucional, para representar la dignidad, el honor y el prestigio de las Fuerzas Armadas.
+
+En ambos casos, las personas militares del Ejército, Fuerza Aérea y Guardia Nacional se abstendrán de acudir uniformadas a espectáculos públicos, actos políticos, religiosos, cantinas, garitos y centros de prostitución, de conformidad con lo dispuesto en los artículos 20, 21 y 31 del Reglamento General de Deberes Militares.
 
 ###### Artículo 3.
 
 Para los efectos del presente Reglamento, se entenderá por:
 
-I. Cadete: Discente de una Institución Educativa Militar de formación de oficiales que no posee un grado militar;
+> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 2026)</small>
 
-II. Divisa: Señal o símbolo visible y exterior para reconocer personas, grados y organismos militares;
+I. Cadete: La persona discente de una Institución Educativa Militar de formación de oficiales que no posee un grado militar;
 
-III. Manual gráfico: Manual gráfico para el uso de uniformes, divisas y equipo, del Ejército y Fuerza Aérea Mexicanos, y
+> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 2026)</small>
+
+II. Divisa o insignia: Señal o símbolo visible y exterior para reconocer personas, grados y organismos militares;
+
+> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 2026)</small>
+
+III. Manual gráfico: Manual Gráfico para el Uso de Uniformes, Divisas y Equipo del Ejército, Fuerza Aérea y Guardia Nacional, y
 
 IV. Secretaría: la Secretaría de la Defensa Nacional.
 
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### Artículo 4.
 
-El uso de uniformes, divisas y equipo en el Ejército y Fuerza Aérea se realizará de conformidad con las exigencias del servicio, seguridad y comodidad del personal militar.
+El uso de uniformes, divisas, insignias y equipo en el Ejército, Fuerza Aérea y Guardia Nacional se realizará de conformidad con las exigencias del servicio, seguridad y comodidad del personal militar.
 
-En la fabricación o elaboración de los uniformes, divisas y equipo en el Ejército y Fuerza Aérea se considerará la disponibilidad de los insumos que se requieren en el mercado, así como del uso de nuevas tecnologías.
+En la fabricación o elaboración de los uniformes, divisas, insignias y equipo en el Ejército, Fuerza Aérea y Guardia Nacional se considerará la disponibilidad de los insumos que se requieren en el mercado, así como del uso de nuevas tecnologías.
+
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### Artículo 5.
 
-El Secretario de la Defensa Nacional expedirá el Manual gráfico, el cual contendrá los diseños gráficos y especificaciones para el uso de uniformes, divisas y demás equipo en el Ejército y Fuerza Aérea Mexicanos, así como las características de la materia prima para la confección y elaboración de dichos artículos.
+La persona titular de la Secretaría expedirá el Manual gráfico, el cual contendrá los diseños gráficos y especificaciones para el uso de uniformes, divisas, insignias y demás equipo en el Ejército, Fuerza Aérea y Guardia Nacional, así como las características de la materia prima para la confección y elaboración de dichos artículos.
 
 ###### Artículo 6.
 
 El personal militar no podrá realizar ninguna modificación o alteración a los uniformes, divisas y equipo que se le haya entregado.
 
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### Artículo 7.
 
-El Secretario de la Defensa Nacional tiene la facultad para autorizar la creación o modificación de uniformes, divisas y equipo.
+La persona titular de la Secretaría tiene la facultad para autorizar la creación o modificación de uniformes, divisas, insignias y equipo.
+
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### Artículo 8.
 
-Las unidades, dependencias y organismos del Ejército y Fuerza Aérea Mexicanos, emplearán los uniformes, divisas y equipos conforme a lo establecido en el Manual gráfico.
+Las personas que integran las unidades, dependencias e instalaciones del Ejército, Fuerza Aérea y Guardia Nacional emplearán los uniformes, divisas, insignias y equipos conforme a lo establecido en el Manual gráfico.
 
 ## TÍTULO SEGUNDO. UNIFORMES
 
 ### CAPÍTULO PRIMERO. CLASIFICACIÓN DE LOS UNIFORMES
 
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### Artículo 9.
 
-Los uniformes en el Ejército y Fuerza Aérea Mexicanos se clasifican en:
+Los uniformes en el Ejército, Fuerza Aérea y Guardia Nacional se clasifican en:
 
 I. Comunes;
 
-II. De gala y gran gala, y
+II. Planteles Militares;
 
-III. Especiales.
+III. Unidades, Cuerpos y Servicios Especiales, y
+
+IV. Vestuario complementario.
 
 ###### Artículo 10.
 
@@ -143,9 +179,11 @@ Los brazaletes se usarán por el personal de generales, jefes, oficiales, cadete
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### Artículo 21.
 
-Las divisas en el Ejército y Fuerza Aérea Mexicanos, se clasifican de la siguiente forma:
+Las divisas en el Ejército, Fuerza Aérea y Guardia Nacional, se clasifican de la siguiente forma:
 
 I. De jerarquía;
 
@@ -165,9 +203,11 @@ VIII. Banderas y estandartes, y
 
 IX. Divisas complementarias.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### Artículo 22.
 
-Las divisas de jerarquía usadas por el personal del Ejército y Fuerza Aérea tienen por objeto reconocer la jerarquía de la persona que las porta y son las siguientes:
+Las divisas de jerarquía usadas por el personal del Ejército, Fuerza Aérea y Guardia Nacional tienen por objeto reconocer la jerarquía de la persona que las porta y son las siguientes:
 
 I. Comandante Supremo de las Fuerza (sic) Armadas;
 
@@ -195,49 +235,71 @@ XII. Subteniente;
 
 XIII. Sargento Primero;
 
-XIV. Sargento Segundo, y
+> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 2026)</small>
 
-XV. Cabo.
+XIV. Sargento Segundo;
+
+> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 2026)</small>
+
+XV. Cabo, y
+
+> <small>(ADICIONADA, D.O.F. 20 DE MARZO DE 2026)</small>
+
+XVI. Soldado.
+
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### Artículo 23.
 
-Los escudos usados por el personal del Ejército y Fuerza Aérea Mexicanos tienen por objeto identificar la pertenencia de éste a una unidad, dependencia, instalación, armas, servicio o especialidad.
+Los escudos usados por el personal del Ejército, Fuerza Aérea y Guardia Nacional tienen por objeto identificar la pertenencia de éste a una unidad, dependencia, instalación, armas, servicio o especialidad.
 
 ###### Artículo 24.
 
 Las placas serán empleadas por el personal militar que haya alcanzado un grado académico satisfactorio en establecimientos de educación militar o termine un curso de capacitación o adiestramiento, nacional o extranjero.
 
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### Artículo 25.
 
-Las condecoraciones son recompensas que sirven para premiar a los militares, corporaciones o dependencias por su heroísmo, capacidad profesional, servicios a la patria y demás hechos meritorios, en términos de lo dispuesto por la Ley de Ascensos y Recompensas del Ejército y Fuerza Aérea Mexicanos y su Reglamento.
+Las condecoraciones son recompensas que sirven para premiar a las personas militares, corporaciones o dependencias por su heroísmo, capacidad profesional, servicios a la patria y demás hechos meritorios, en términos de lo dispuesto por la Ley de Ascensos y Recompensas del Ejército, Fuerza Aérea y Guardia Nacional y su Reglamento.
+
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### Artículo 26.
 
-Los gafetes tienen por objeto identificar el plantel de formación, cursos efectuados, comisión que desempeña y condecoración recibida, del personal del Ejército y Fuerza Aérea Mexicanos, conforme a lo dispuesto por el Manual gráfico.
+Los gafetes tienen por objeto identificar el plantel de formación, cursos efectuados, comisión que desempeña y condecoración recibida, del personal del Ejército, Fuerza Aérea y Guardia Nacional, conforme a lo dispuesto por el Manual gráfico.
+
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### Artículo 27.
 
-Las alas de pecho serán empleadas por el personal de generales, jefes, oficiales, cadetes y tropa que acrediten cursos y especialidades del Ejército y Fuerza Aérea Mexicanos, conforme a lo dispuesto por el Manual gráfico.
+Las alas de pecho serán empleadas por las personas con el grado de generales, jefes, oficiales, cadetes y tropa que acrediten cursos y especialidades del Ejército, Fuerza Aérea y Guardia Nacional, conforme a lo dispuesto por el Manual gráfico.
 
 ###### Artículo 28.
 
 Los cordones se utilizarán para distinguir el mando, la comisión y especialidad, conforme a lo dispuesto por el Manual gráfico.
 
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### Artículo 29.
 
-Las banderas y estandartes estarán bajo la custodia de las unidades, dependencias e instalaciones del Ejército y Fuerza Aérea Mexicanos.
+Las banderas y estandartes estarán bajo la custodia de las unidades, dependencias e instalaciones del Ejército, Fuerza Aérea y Guardia Nacional.
+
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### Artículo 30.
 
-Las divisas complementarias serán empleadas por el personal militar que determine el Secretario de la Defensa Nacional, siempre que sea para complementar el uniforme y dar realce a las actividades que realice dicho personal y conforme a lo dispuesto por el Manual gráfico.
+Las divisas complementarias serán empleadas por las personas militares que determine la persona titular de la Secretaría, siempre que sea para complementar el uniforme y dar realce a las actividades que realicen dichas personas y conforme a lo dispuesto por el Manual gráfico.
 
 ## TÍTULO CUARTO. EQUIPO
 
 ### CAPÍTULO PRIMERO. EQUIPO DE USO COMÚN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### Artículo 31.
 
-El equipo de uso común en el Ejército y Fuerza Aérea Mexicanos, se clasifica en:
+El equipo de uso común en el Ejército, Fuerza Aérea y Guardia Nacional se clasifica en:
 
 I. De protección;
 
@@ -271,9 +333,11 @@ El equipo de dormitorio se empleará en las áreas de descanso y de recuperació
 
 ### CAPÍTULO SEGUNDO. EQUIPO ESPECIAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 20 DE MARZO DE 2026)</small>
+
 ###### Artículo 37.
 
-El equipo especial en el Ejército y Fuerza Aérea Mexicanos será empleado por el personal militar que cuente con la capacitación y conocimientos adecuados para su uso y se empleará conforme al Manual gráfico. El equipo especial se clasifica en:
+El equipo especial en el Ejército, Fuerza Aérea y Guardia Nacional será empleado por las personas militares que cuenten con la capacitación y conocimientos adecuados para su uso y se empleará conforme al Manual gráfico. El equipo especial se clasifica en:
 
 I. De protección;
 
@@ -285,13 +349,27 @@ IV. Para control de tránsito;
 
 V. Para actividades ecuestres;
 
-VI. Para actividades acuáticas, y
+> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 2026)</small>
 
-VII. Para cuerpos especiales.
+VI. Para actividades acuáticas;
+
+> <small>(REFORMADA, D.O.F. 20 DE MARZO DE 2026)</small>
+
+VII. Para cuerpos especiales;
+
+> <small>(ADICIONADA, D.O.F. 20 DE MARZO DE 2026)</small>
+
+VIII. De brechamiento, y
+
+> <small>(ADICIONADA, D.O.F. 20 DE MARZO DE 2026)</small>
+
+IX. Equipo y material de vuelo.
+
+> <small>(REFORMADO, D.O.F. 20 DE MARZO DE 2026)</small>
 
 ###### Artículo 38.
 
-El Mando Supremo del Ejército y Fuerza Aérea Mexicanos, podrá hacer uso de uniformes, divisas y equipo, de acuerdo al evento para el cual serán usados y en concordancia con el que, para el mismo evento, use el demás personal militar, siempre y cuando permita distinguir su jerarquía como Comandante Supremo de las Fuerzas Armadas.
+La persona titular que ostente el Mando Supremo del Ejército, Fuerza Aérea y Guardia Nacional podrá hacer uso de uniformes, divisas y equipo, de acuerdo al evento para el cual serán usados y en concordancia con el que, para el mismo evento, usen las demás personas militares, siempre y cuando permita distinguir la jerarquía de Comandante Supremo de las Fuerzas Armadas.
 
 ## TRANSITORIOS
 
@@ -306,3 +384,19 @@ CUARTO.- La Secretaría de la Defensa Nacional, emitirá el Manual gráfico para
 QUINTO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
 
 Dado en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintinueve de noviembre de dos mil doce.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de la Defensa Nacional, Guillermo Galván Galván.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 20 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE UNIFORMES, DIVISAS Y EQUIPO DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las erogaciones que deriven por la implementación del presente Decreto, se cubrirán con cargo al presupuesto aprobado de la Secretaría de la Defensa Nacional, por lo que no se autorizarán ampliaciones líquidas de recursos a su presupuesto en el presente ejercicio fiscal ni en años subsecuentes.
+
+TERCERO.- La Secretaría de la Defensa Nacional emitirá el Manual Gráfico para el Uso de Uniformes, Divisas y Equipo del Ejército, Fuerza Aérea y Guardia Nacional, en un plazo no mayor a ciento ochenta días de la entrada en vigor del presente ordenamiento.
+
+CUARTO.- Se derogan todas las disposiciones que se opongan al presente ordenamiento.
+
+QUINTO.- Las referencias que se hagan en otras disposiciones administrativas al Reglamento de Uniformes, Divisas y Equipo del Ejército y Fuerza Aérea Mexicanos se entenderán hechas al Reglamento de Uniformes, Divisas y Equipo del Ejército, Fuerza Aérea y Guardia Nacional.
