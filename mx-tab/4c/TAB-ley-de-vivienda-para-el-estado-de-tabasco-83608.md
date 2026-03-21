@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-vivienda-para-el-estado-de-tabasco-83608"
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-28"
-last_updated: "2024-03-16"
+last_updated: "2026-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83608&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY DE VIVIENDA PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2026.
 
 Ley publicada en el Suplemento B del Periódico Oficial del Estado de Tabasco, el miércoles 28 de septiembre de 2011.
 
@@ -59,11 +59,13 @@ LEY DE VIVIENDA PARA EL ESTADO DE TABASCO
 
 La presente ley es reglamentaria del artículo 2, fracción XXXV, de la Constitución Política del Estado de Tabasco, y reconoce el derecho a la vivienda como un derecho humano, establecido en los artículos 1 y 4 de la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales suscritos y ratificados por el Estado Mexicano, de conformidad con los párrafos segundo y tercero del artículo 2, de la Constitución estatal. Lo anterior, en relación con lo señalado por el artículo 76 de la propia Constitución, en materia de rectoría del desarrollo económico del Estado.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2026)</small>
 
 ###### Artículo 2.
 
-Las disposiciones de esta Ley son de orden público e interés social, y deberán aplicarse bajo los principios de equidad e inclusión social, que permitan a todos los habitantes del Estado, disfrutar de una vivienda adecuada, digna y decorosa, sin importar su origen étnico, género, edad, discapacidad, condición social o económica, aspectos de salud, religión, opinión, preferencias o estado civil, y sin discriminación alguna por razones de carácter político o económico.
+Las disposiciones de esta Ley son de orden público e interés social, y deberán aplicarse bajo los principios de equidad e inclusión social y con perspectiva de género, que permitan a todos los habitantes del Estado, disfrutar de una vivienda adecuada, digna y decorosa, sin importar su origen étnico, género, edad, discapacidad, condición social o económica, aspectos de salud, religión, opinión, preferencias o estado civil, y sin discriminación alguna por razones de carácter político o económico; priorizando la atención a grupos en situación de vulnerabilidad y marginación, con énfasis en las mujeres jefas de familia o víctimas de violencia de género.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2015)</small>
 
 Se entiende como vivienda adecuada, digna y decorosa aquella que cumpla con disposiciones jurídicas y normativas relacionadas con:
 
@@ -78,6 +80,8 @@ IV. Seguridad jurídica en cuanto a su propiedad y legítima posesión;
 V. Asequibilidad, considerando a todas las personas, de modo que los gastos en materia de vivienda no impidan el logro y satisfacción de otras necesidades básicas; y
 
 VI. Prevención de desastres y la protección física de sus ocupantes, ante los elementos climáticos, naturales y tecnológicos potencialmente peligrosos.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2015)</small>
 
 Las políticas y programas, así como los instrumentos y apoyos a la vivienda a que se refiere este ordenamiento, se ejecutarán conforme a los programas y recursos que contemple el Presupuesto General de Egresos del Estado y otros que sean destinados para tal fin, y se regirán bajo los principios de respeto a la legalidad y protección jurídica a la propiedad, en armonía con un crecimiento urbano racional y sustentable, buscando desincentivar la invasión de predios y el crecimiento irregular de las ciudades, con base en una planeación democrática de las políticas territoriales.
 
@@ -269,9 +273,9 @@ La Política Estatal de Vivienda tiene como objetivo determinar las prioridades 
 
 I. Mantener congruencia con los programas de desarrollo económico, social, urbano y de ordenamiento territorial del Estado;
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2024)</small>
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2026)</small>
 
-II. Promover mayores oportunidades de acceso a la vivienda, dando prioridad a los grupos sociales en situación de pobreza, vulnerabilidad, exclusión y marginación;
+II. Promover mayores oportunidades de acceso a la vivienda, dando prioridad a los grupos sociales en situación de pobreza, vulnerabilidad, exclusión y marginación, con especial énfasis en mujeres jefas de familia o víctimas de violencia de género;
 
 III. Impulsar la participación de los tres órdenes de gobierno y del sector privado en la construcción y mejoramiento de vivienda;
 
@@ -291,7 +295,9 @@ X. Propiciar que las acciones de vivienda constituyan un factor de sustentabilid
 
 XI. Promover que los proyectos urbanos y arquitectónicos de vivienda, así como sus procesos productivos y la utilización de materiales, se adecuen a los rasgos culturales y regionales para procurar su identidad y diversidad;
 
-XII. Promover una distribución y atención equitativa de las acciones de vivienda en todo el territorio estatal, considerando las necesidades y condiciones locales y regionales, así como los distintos tipos y modalidades del proceso habitacional;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2026)</small>
+
+XII. Promover una distribución y atención equitativa de las acciones de vivienda en todo el territorio estatal, considerando las necesidades y condiciones locales y regionales, así como los distintos tipos y modalidades del proceso habitacional; garantizando que estas acciones incorporen un enfoque diferenciado que atienda las necesidades específicas de mujeres en situación de vulnerabilidad;
 
 XIII. Promover medidas que proporcionen a la población, información suficiente para la toma de decisiones sobre las tendencias del desarrollo urbano en su localidad y respecto de las opciones que ofrecen los programas institucionales y el mercado, de acuerdo con sus necesidades, posibilidades y preferencias;
 
@@ -355,7 +361,9 @@ V. Los Programas Municipales de Vivienda; y
 
 VI. Los Presupuestos Estatales y Municipales de Egresos para los ejercicios fiscales que correspondan.
 
-El Programa Estatal y los Programas Municipales de Vivienda, se elaborarán en los términos de la legislación local aplicable.
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2026)</small>
+
+El Programa Estatal y los Programas Municipales de Vivienda, se elaborarán con perspectiva de género y derechos humanos, en los términos de la legislación local aplicable.
 
 ### CAPÍTULO SEGUNDO. DE LOS PROGRAMAS SECTORIAL Y MUNICIPALES DE VIVIENDA
 
@@ -935,11 +943,11 @@ III. Generar los fondos que garanticen la administración y recuperación de los
 
 Para el otorgamiento del financiamiento destinado a los distintos tipos, modalidades y necesidades de vivienda, se fomentarán programas que incorporen el ahorro previo y otras aportaciones en especie, trabajo y suelo de los beneficiarios, aprovechando a las instituciones de crédito y a las instancias de captación de ahorro, particularmente las entidades de ahorro y crédito popular autorizadas por las leyes aplicables en la materia. Para tales efectos, el INVITAB concertará con las instituciones del sector financiero, las facilidades y estímulos para implementar los programas de ahorro, enganches y financiamiento para la adquisición de vivienda.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2026)</small>
 
 ###### Artículo 49.
 
-El INVITAB podrá establecer programas que combinen el ahorro, con crédito, subsidios, estímulos o la combinación de éstos, según corresponda, sin perjuicio de los demás requisitos de elegibilidad que establezcan las disposiciones aplicables, considerando las condiciones socioeconómicas de ahorro de los beneficiarios.
+El INVITAB podrá establecer programas que combinen el ahorro, con crédito, subsidios, estímulos o la combinación de éstos, según corresponda, sin perjuicio de los demás requisitos de elegibilidad que establezcan las disposiciones aplicables, considerando las condiciones socioeconómicas de ahorro de los beneficiarios; priorizando, en lo conducente, la atención a la población en situación de pobreza, vulnerabilidad y marginación, con énfasis en mujeres jefas de familia o víctimas de violencia de género, coordinando su ejecución con las instancias correspondientes.
 
 ### CAPÍTULO SEGUNDO. DEL PADRÓN ÚNICO DE BENEFICIARIOS EN MATERIA DE VIVIENDA
 
@@ -1079,11 +1087,17 @@ II. Los afectados por fenómenos naturales, independientemente de sus niveles de
 
 III. Las personas mayores de sesenta años de edad;
 
-IV. Las personas con discapacidades; y
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 16 DE MARZO DE 2024)</small>
+IV. Las personas con discapacidades;
 
-V. Las demás personas que se encuentren en estado de pobreza, vulnerabilidad, exclusión y marginación.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE MARZO DE 2026)</small>
+
+V. Las mujeres jefas de familia o víctimas de violencia de género; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN V], P.O. 21 DE MARZO DE 2026)</small>
+
+VI. Las demás personas que se encuentren en estado de pobreza, vulnerabilidad, exclusión y marginación.
 
 ## TÍTULO SEXTO. DEL SUELO PARA LA VIVIENDA
 
@@ -1337,9 +1351,9 @@ XIII. Las demás acciones que acuerden las partes para el cumplimiento de esta L
 
 Se crea el Sistema Estatal de Información e Indicadores de Vivienda, que tendrá por objeto integrar, generar y difundir la información que se requiera para la adecuada planeación, instrumentación y seguimiento de la Política Estatal de Vivienda, así como para el fortalecimiento de la oferta articulada de vivienda en el Estado.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2026)</small>
 
-El INVITAB integrará y administrará el Sistema Estatal de Información e Indicadores de Vivienda, el cual se sujetará en lo conducente, a las disposiciones previstas en la Ley de Información Estadística y Geográfica, y se conformará con la información que deberán proporcionar las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, así como los sectores privados y sociales en aspectos vinculados con la vivienda y el suelo; así como aquella que deberán proporcionar las personas físicas o jurídico colectivas que construyan una o más viviendas con fines de comercializarlas en el Estado; por último, aquella información que permita identificar la evolución y crecimiento del mercado con el objeto de evaluar los efectos de la Política Estatal de Vivienda y definir propuestas de política pública acordes a la realidad de las localidades y comunidades del estado de Tabasco.
+El INVITAB integrará y administrará el Sistema Estatal de Información e Indicadores de Vivienda, el cual se sujetará en lo conducente, a las disposiciones previstas en la Ley del Sistema Nacional de Información Estadística y Geográfica, y se conformará con la información que deberán proporcionar las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, así como los sectores privados y sociales en aspectos vinculados con la vivienda y el suelo; así como aquella que deberán proporcionar las personas físicas o jurídico colectivas que construyan una o más viviendas con fines de comercializarlas en el Estado; por último, aquella información que permita identificar la evolución y crecimiento del mercado con el objeto de evaluar los efectos de la Política Estatal de Vivienda y definir propuestas de política pública acordes a la realidad de las localidades y comunidades del estado de Tabasco. En la integración y administración de este sistema, se deberán observar indicadores que incluyan criterios con perspectiva de género y de derechos humanos.
 
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 2015)</small>
 
@@ -1454,3 +1468,11 @@ P.O. 16 DE MARZO DE 2024.
 PRIMERO. El presente Decreto entrará en vigor a los treinta días siguientes a su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 21 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 240 POR EL QUE “SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 2; LAS FRACCIONES II Y XII DEL ARTÍCULO 9; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 12; EL ARTÍCULO 49; LAS FRACCIONES IV Y V DEL ARTÍCULO 66 Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 93, Y SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 66, TODOS DE LA LEY DE VIVIENDA PARA EL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se deroga toda disposición de igual o menor jerarquía que se oponga al presente Decreto.
