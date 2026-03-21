@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2026-01-10"
+last_updated: "2026-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2026.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -625,7 +625,9 @@ XI. Promover la organización y preservación de los archivos municipales confor
 
 XII. Inscribir a sus trabajadores en alguno de los regímenes de seguridad social o en su defecto suscribir nuevo convenio con los Servicios de Salud del Estado;
 
-E. En materia de fiscalización, transparencia y gobierno abierto
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE MARZO DE 2026)</small>
+
+E. En materia de fiscalización, transparencia y de gobierno abierto.
 
 I. Presentar por conducto del Presidente Municipal a la Auditoría Superior de Fiscalización del Estado de Oaxaca, la Cuenta Pública del año anterior, a más tardar el último día hábil del mes de febrero, y en el año que concluya su mandato, conforme a los plazos y procedimientos establecidos legalmente. Asimismo, entregar los informes y demás datos que les sean solicitados, de conformidad con lo establecido en las leyes aplicables.
 
@@ -661,7 +663,9 @@ g) Estado analítico de los egresos en las clasificaciones administrativa (sic),
 
 h) Estado de actividades;
 
-VI. Promover e instalar los Comité de contraloría social, así como la Contraloría Interna Municipal de acuerdo a los procedimientos señalados en esta Ley;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2026)</small>
+
+VI. Promover e instalar los Comités de Contraloría Social, así como la Contraloría Interna Municipal de acuerdo a los procedimientos señalados en esta Ley. El Ayuntamiento está obligado a garantizar que todos los miembros del Comité de Contraloría Social sean capacitados por las instancias competentes, así mismo deberá brindar las herramientas necesarias para el desempeño de sus funciones.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
@@ -1421,6 +1425,8 @@ Tendrán las obligaciones, atribuciones y facultades que para los Ayuntamientos 
 
 ### CAPÍTULO I. DEL PRESIDENTE MUNICIPAL
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 6 DE SEPTIEMBRE DE 2014)</small>
+
 ###### ARTÍCULO 68.
 
 El Presidente Municipal, es el representante político y responsable directo de la administración pública municipal, encargado de velar por la correcta ejecución de las disposiciones del Ayuntamiento, con las siguientes facultades y obligaciones:
@@ -1501,21 +1507,17 @@ XVII.- Informar durante las sesiones ordinarias del Ayuntamiento sobre el estado
 
 XVIII.- Recepcionar los recursos provenientes de los Fondos de Participaciones, Aportaciones, que le corresponda al Municipio, así como los asignados en el Decreto de Presupuesto de Egresos de la Federación, Programas, Convenios o Subsidios Federales, vigilando la correcta administración de los mismos, así como del patrimonio municipal;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-XIX.- Expedir licencias, permisos, autorizaciones o refrendos, previa presentación del Registro Federal de Contribuyentes, cuando se trate de funcionamiento o instalación de comercios, diversiones, bailes y espectáculos públicos, previo dictamen de las comisiones respectivas.
+XIX.- Expedir licencias, permisos, autorizaciones o refrendos, previa presentación del Registro Federal de Contribuyentes, cuando se trate de funcionamiento o instalación de comercios, diversiones, bailes y espectáculos públicos, previo dictamen de las comisiones respectivas. Tratándose de solicitudes de expedición de licencias para el funcionamiento de cualquier entidad financiera, adicional a lo señalado en el párrafo anterior, el solicitante deberá acompañar a su solicitud la autorización de la Comisión Nacional Bancaria y de Valores. Cuando no se cuente con la autorización de la Comisión antes citada, se negará la expedición de licencia, además de notificar de lo anterior a la Comisión Nacional Bancaria y de Valores para los efectos legales que correspondan.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-Tratándose de solicitudes de expedición de licencias para el funcionamiento de cualquier entidad financiera, adicional a lo señalado en el párrafo anterior, el solicitante deberá acompañar a su solicitud la autorización de la Comisión Nacional Bancaria y de Valores.
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2017)</small>
-
-Cuando no se cuente con la autorización de la Comisión antes citada, se negará la expedición de licencia, además de notificar de lo anterior a la Comisión Nacional Bancaria y de Valores para los efectos legales que correspondan.
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO 630 PUBLICADO EN EL P.O. 6 DE AGOSTO DE 2022, PÁGINA 3.]</small>
 
 > <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2022)</small>
 
 Tratándose de expedición de licencias o refrendo para el funcionamiento de establecimientos que se dediquen a la purificación, embotellamiento y comercialización de agua o hielo para consumo humano, además de lo señalado en el primer párrafo, el solicitante deberá acompañar a su solicitud el Certificado Sanitario para purificadoras de agua o fábricas de hielo emitido por la autoridad competente.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO 630 PUBLICADO EN EL P.O. 6 DE AGOSTO DE 2022, PÁGINA 3.]</small>
 
 > <small>(ADICIONADO, P.O. 6 DE AGOSTO DE 2022)</small>
 
@@ -1553,11 +1555,11 @@ XXVIII.- Ejercer las facultades que le confiere el artículo 12 de la Ley Genera
 
 XXIX.- Autorizar los documentos de compraventa de ganado y los permisos para degüello; y
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2018)</small>
 
-XXX.- Celebrar acuerdos, contratos o convenios con el Estado por conducto de la Secretaría de Finanzas del Poder Ejecutivo del Estado, instituciones bancarias, entidades financieras, casas comerciales, oficinas postales y otros organismos público privados, para que auxilien al Municipio en la recaudación de ingresos municipales;
+XXX.- Celebrar acuerdos, contratos o convenios con el Estado por conducto de la Secretaría de Finanzas del Poder Ejecutivo del Estado, instituciones bancarias, entidades financieras, casas comerciales, oficinas postales y otros organismos público- privados, para que auxilien al Municipio en la recaudación de ingresos municipales;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE MAYO DE 2015)</small>
+> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2015)</small>
 
 XXXI.- Celebrar convenios con autoridades fiscales estatales o municipales para la asistencia en materia de administración y recaudación de contribuciones y aprovechamientos;
 
@@ -1565,21 +1567,25 @@ XXXI.- Celebrar convenios con autoridades fiscales estatales o municipales para 
 
 XXXII.- Tramitar y resolver las solicitudes de aclaración a que se refiriere el artículo 34 del Código Fiscal Municipal del Estado de Oaxaca; y
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. 2805, PUBLICADO EN EL P.O. DE 13 DE NOVIEMBRE DE 2021, PÁGINA 5.]</small>
+> <small>[N. DE E. EL CONTENIDO DE LA PRESENTE FRACCIÓN ES SIMILAR AL CONTENIDO DE LA FRACCIÓN XXXIII, VÉASE PUBLICACIÓN OFICIAL DE FECHA 13 DE NOVIEMBRE DE 2021.]</small>
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2026)</small>
 
-XXXIII.- Atender los requerimientos de información del Contralor Interno Municipal y de los Comités de contraloría social, los cuales habrán de crearse en el primer año de ejercicio;
+XXXIV (SIC).- Atender los requerimientos de información del Contralor Interno Municipal y de los Comités de contraloría social, los cuales habrán de crearse durante el primer trimestre del ejercicio fiscal correspondiente;
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. 2805, PUBLICADO EN EL P.O. DE 13 DE NOVIEMBRE DE 2021, PÁGINA 5.]</small>
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 13 DE NOVIEMBRE DE 2021)</small>
+> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2021)</small>
 
 XXXIV.- Desarrollar acciones para la prevención, atención, sanción y erradicación de la violencia contra las mujeres; y
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. 2805, PUBLICADO EN EL P.O. DE 13 DE NOVIEMBRE DE 2021, PÁGINA 5.]</small>
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2021)</small>
 
-XXXV.- Las demás que le señalen las leyes, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus ámbitos territoriales.
+XXXV.- Diseñar e Implementar programas de reforestación de especies arbóreas endémicas, para el entorno y la infraestructura urbana en las vías secundarias de las demarcaciones territoriales;
+
+> <small>(ADICIONADA, P.O. 28 DE AGOSTO DE 2021)</small>
+
+XXXVI.- Promover y fomentar entre las personas el cuidado de las áreas verdes en el entorno inmediato a su domicilio; y
+
+XXXVII.- Las demás que le señalen las leyes, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus ámbitos territoriales.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
 
@@ -2683,15 +2689,35 @@ ARTÍCULO 126 SEXDECIES (SIC).- El titular del Órgano Interno de Control Munici
 
 #### Sección Primera. De los Comités de Contraloría Social
 
-> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2026)</small>
 
-ARTÍCULO 126 SEPTENDECIES.- Los ayuntamientos promoverán la constitución de comités de contraloría social, los que se encargaran de supervisar la obra pública estatal y municipal.
+ARTÍCULO 126 SEPTENDECIES (SIC).- Los Ayuntamientos están obligados a la difusión, promoción y conformación de comités de contraloría social, los que se encargarán de supervisar la obra pública federal, estatal y municipal.
 
-> <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2026)</small>
 
-ARTÍCULO 126 OCTODECIES.- Los comités de contraloría social estarán integrados por tres ciudadanos del Municipio, los cuales serán electos mediante asamblea general de manera democrática, por localidad, agencia, núcleo rural, congregación, ranchería, cuadra, manzana, barrio, colonia o fraccionamiento, de la obra a ejecutar.
+ARTÍCULO 126 OCTODECIES (SIC).- Los comités de de (sic) contraloría social estarán integrados por tres personas ciudadanas del Municipio, debiendo aplicar sin excepción, el principio de paridad de género, quienes serán electas y electos mediante asamblea general de manera Democrática, por localidad, agencia, núcleo rural, congregación, ranchería, cuadra, manzana, barrio, colonia o fraccionamiento, de la obra a ejecutar.
 
-El cargo de integrante del comité será honorífico y no podrán ser integrantes de los comités las personas que sean dirigentes de organizaciones políticas o servidores públicos federales, estatales o municipales.
+El cargo de integrante del comité será honorífico y deberá cumplir los siguientes requisitos:
+
+I. Tener 18 años cumplidos.
+
+II. Ser vecino, avecindado, habitante o residente de la comunidad, en ejercicio de sus derechos.
+
+III. Ser electo con criterios de paridad de género, igualdad e inclusión por la asamblea.
+
+IV. No desempeñar empleo, cargo o comisión pública dentro del gobierno federal, estatal o municipal.
+
+V. No ser agente municipal, agente de policía representante de núcleo rural, representante de barrio, colonia o fraccionamiento del municipio en cuestión.
+
+VI. No ser dirigente de organización política o religiosa.
+
+VII. No ser familiar en primer o segundo grado, cónyuge, conviviente o concubino de algún integrante del cabildo.
+
+VIII. No ser o haber sido contratista, asesor o proveedor de bienes o servicios del Municipio y/o Gobierno del Estado, en el año inmediato anterior a su elección en el cargo.
+
+IX. No haber sido inhabilitado mediante Sentencia Judicial, por el Órgano de Control Federal, por la Secretaría de Honestidad, Transparencia y Función Pública, por el Órgano Interno de Control Municipal o en su caso por la Comisión de Rendición de Cuentas, Transparencia y Acceso a la Información, y;
+
+X. los demás previstos en los lineamientos para la promoción, integración, acreditación y funcionamiento de la contraloría social en el estado de Oaxaca.
 
 > <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2017)</small>
 
@@ -2699,7 +2725,7 @@ ARTÍCULO 126 NOVODECIES.- En cada obra estatal o municipal se constituirá un c
 
 > <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2017)</small>
 
-ARTÍCULO 126 VICIES.- Los comités de contraloría social tendrán las siguientes atribuciones:
+ARTÍCULO 126 VICIES (SIC).- Los comités de contraloría social tendrán las siguientes atribuciones:
 
 I. Vigilar que la obra pública se realice de acuerdo al expediente técnico y dentro de la normatividad correspondiente;
 
@@ -2715,9 +2741,13 @@ V. Verificar la calidad con que se realiza la obra pública;
 
 VI. Hacer del conocimiento de las autoridades correspondientes las irregularidades que observe durante el desempeño de sus funciones o las quejas que reciba de la ciudadanía, con motivo de las obras objeto de supervisión;
 
-VII. Integrar un archivo con la documentación que se derive de la supervisión de las obras;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2026)</small>
 
-VIII. Intervenir en los actos de entrega-recepción de las obras y acciones, informando a los vecinos el resultado del desempeño de sus funciones; y
+VII. Integrar y entregar trimestralmente un archivo con la documentación que se derive de la supervisión de las obras;
+
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2026)</small>
+
+VIII. Intervenir en los actos de entrega-recepción de las obras y acciones, debiendo informar el resultado del desempeño de sus funcionesy (sic) entregar a los beneficiarios el reporte de los informes trimestrales de la obra o acción que corresponda;
 
 IX. Promover el adecuado mantenimiento de la obra pública ante las autoridades municipales.
 
@@ -5054,3 +5084,11 @@ P.O. 10 DE ENERO DE 2026.
 PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 21 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1398.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN VI DEL APARTADO E DEL ARTÍCULO 43, LA FRACCIÓN XXXIV DEL ARTÍCULO 68, EL ARTÍCULO 126 SEPTENDECIES (SIC), EL ARTÍCULO 126 OCTODECIES (SIC), Y LAS FRACCIONES VII Y VIII DEL ARTÍCULO 126 VICIES (SIC); TODOS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese el presente Decreto en la Gaceta Parlamentaria del Honorable Congreso del Estado Libre y Soberano de Oaxaca y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
