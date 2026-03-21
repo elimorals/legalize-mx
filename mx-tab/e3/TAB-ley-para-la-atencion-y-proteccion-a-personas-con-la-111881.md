@@ -4,7 +4,7 @@ identifier: "TAB-ley-para-la-atencion-y-proteccion-a-personas-con-la-111881"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-23"
-last_updated: "2015-12-23"
+last_updated: "2026-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111881&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY PARA LA ATENCION Y PROTECCION A PERSONAS CON LA CONDICION DEL ESPECTRO AUTISTA EN EL ESTADO DE TABASCO
 
-LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA EN EL ESTADO DE TABASCO
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-TEXTO ORIGINAL.
+LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TABASCO
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2026.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 23 de diciembre de 2015.
 
@@ -39,7 +41,9 @@ DECRETO 264
 
 ÚNICO.- Se expide la Ley para la Atención y Protección a Personas con la Condición del Espectro Autista del Estado de Tabasco, en los siguientes términos:
 
-LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA EN EL ESTADO DE TABASCO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE MARZO DE 2026)</small>
+
+LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TABASCO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
@@ -52,6 +56,14 @@ La presente Ley es de orden público e interés social; sus disposiciones son de
 Para los efectos de esta Ley, además de los términos señalados en la Ley General para la Atención y Protección a Personas con la Condición del Espectro Autista, se entiende por:
 
 I. Asistencia social: Conjunto de acciones tendentes a modificar y mejorar las circunstancias de carácter social que impiden el desarrollo integral del individuo, así como la protección física, mental y social de personas en estado de necesidad, indefensión, desventaja física o mental, hasta lograr su incorporación a una vida plena y productiva;
+
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2026)</small>
+
+I Bis. Animales de Asistencia: Animal de compañía que brinda apoyo emocional o terapéutico a una persona con la condición del Espectro Autista;
+
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2026)</small>
+
+I Ter. Ajustes Razonables: Las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran, en un caso particular, para garantizar a las personas con discapacidad el goce y ejercicio pleno de todos sus derechos humanos y libertades fundamentales, en igualdad de condiciones con las demás personas;
 
 II. Barreras socioculturales: Actitudes de rechazo e indiferencia por razones de origen étnico, género, edad, discapacidad, condición social, entre otras, debido a la falta de información, prejuicios y estigmas por parte de los integrantes de la sociedad que impiden su incorporación y participación plena en la vida social;
 
@@ -72,6 +84,14 @@ IX. Habilitación Terapéutica: Proceso con un objetivo definido de orden médic
 X. Inclusión: Cuando la sociedad actúa sin discriminación ni prejuicios e incluye a toda persona, considerando que la diversidad es una condición humana;
 
 XI. Integración: Cuando un individuo con características diferentes se integra a la vida social al contar con las facilidades necesarias y acordes con su condición;
+
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2026)</small>
+
+XI Bis. Maestro Sombra: El docente con preparación pedagógica y psicológica especializada en la condición del Espectro Autista, que crea un puente de comunicación y entendimiento entre la niñez y el ambiente escolar y, en general, con el entorno social;
+
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2026)</small>
+
+XI Ter. Persona cuidadora: Toda persona que proporcione asistencia o cuidado a personas con la condición del espectro autista para la realización de actividades de la vida diaria, de manera temporal o permanente, y con la cual puede o no existir un vínculo de parentesco;
 
 XII. Personas con la condición del espectro autista: Todas aquellas que presentan una condición caracterizada en diferentes grados por dificultades en la interacción social, en la comunicación verbal y no verbal, y en comportamientos repetitivos;
 
@@ -157,9 +177,11 @@ VI. El Código Civil para el Estado de Tabasco.
 
 #### Sección Primera. De los Derechos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2026)</small>
+
 ###### Artículo 9.
 
-Se reconocen como derechos fundamentales de las personas con la condición del espectro autista y/o de sus familias, en los términos de las disposiciones aplicables, los siguientes:
+Se reconocen como derechos fundamentales de las personas con la condición del espectro autista, de sus familias y/o persona cuidadora, en los términos de las disposiciones aplicables, los siguientes:
 
 I. Gozar plenamente de los derechos humanos que garantiza la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, la Ley General, la Constitución Política del Estado Libre y Soberano de Tabasco y la presente Ley;
 
@@ -177,17 +199,25 @@ VII. Contar con los cuidados apropiados para su salud mental y física, con acce
 
 VIII. Recibir una educación o capacitación basada en criterios de integración e inclusión, tomando en cuenta sus capacidades y potencialidades, mediante evaluaciones pedagógicas, a fin de fortalecer la posibilidad de una vida independiente;
 
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2026)</small>
+
+VIII. Bis. Acceder a apoyos y medidas de educación especial, incluyendo esquemas de acompañamiento especializado, entre ellas, la figura del maestro sombra, para favorecer su proceso de integración e inclusión en las escuelas de educación regular, las cuales se implementarán conforme a la disponibilidad presupuestal y las disposiciones reglamentarias que al efecto se emitan;
+
 IX. Contar con facilidades en su proceso de inclusión a escuelas de educación regular;
 
 X. Acceder a los programas gubernamentales para recibir alimentación nutritiva, suficiente, de calidad, y de acuerdo a las necesidades metabólicas propias de su condición;
 
 XI. A crecer y desarrollarse en un medio ambiente sano y en armonía con la naturaleza;
 
-XII. Ser sujetos de los programas públicos de vivienda, en términos de las disposiciones aplicables, con el fin de disponer de vivienda propia para un alojamiento accesible y adecuado;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2026)</small>
+
+XII. Ser beneficiarios de los programas públicos, de acuerdo con la normativa aplicable, con el fin de garantizar el acceso a una vivienda propia, digna y funcional;
 
 XIII. Participar en la vida productiva con dignidad e independencia;
 
-XIV. Recibir formación y capacitación para obtener un empleo adecuado, sin discriminación ni prejuicios;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2026)</small>
+
+XIV. Recibir formación y capacitación para obtener un empleo adecuado, sin discriminación ni prejuicios, basado en una valoración funcional de intereses, destrezas, actitudes y habilidades;
 
 XV. Percibir la remuneración justa por la prestación de su colaboración laboral productiva, que les alcance para alimentarse, vestirse y alojarse adecuadamente, así como también para solventar cualquier otra necesidad vital, en los términos de las disposiciones constitucionales y de las correspondientes leyes reglamentarias;
 
@@ -199,9 +229,17 @@ XVIII. Gozar de una vida sexual digna y segura;
 
 XIX. Tomar libremente decisiones para el ejercicio de sus legítimos derechos;
 
-XX. Contar con asesoría y asistencia jurídica cuando sus derechos humanos y civiles les sean violados, para resarcirlos; y
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2026)</small>
 
-XXI. Los demás que garanticen su integridad, su dignidad, su bienestar y su plena integración a la sociedad de acuerdo con las distintas disposiciones constitucionales y legales.
+XX. Contar con asesoría y asistencia jurídica cuando sus derechos humanos y civiles les sean violados, para resarcirlos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE MARZO DE 2026)</small>
+
+XXI. En caso de ser necesario, tener un libre acceso con animales de asistencia a todas las Instituciones Públicas del Estado de Tabasco, así como a los establecimientos públicos y privados; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE MARZO DE 2026)</small>
+
+XXII. Los demás que garanticen su integridad, su dignidad, su bienestar y su plena integración a la sociedad de acuerdo con las distintas disposiciones constitucionales y legales.
 
 #### Sección Segunda. De las Obligaciones
 
@@ -237,9 +275,13 @@ II. La Secretaría de Educación;
 
 III. La Secretaría de Gobierno;
 
-IV. La Secretaria de Desarrollo Social;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2026)</small>
 
-V. La Secretaría de Planeación y Finanzas, y
+IV. La Secretaría de Bienestar;
+
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2026)</small>
+
+V. La Secretaría de Administración y Finanzas, y
 
 VI. El Sistema para el Desarrollo Integral de la Familia.
 
@@ -267,6 +309,14 @@ III. Apoyar y proponer mecanismos de concertación con los sectores social y pri
 
 IV. Apoyar la promoción de las políticas, estrategias y acciones en la materia de la Ley, así como promover, en su caso, las adecuaciones y modificaciones necesarias a las mismas;
 
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2026)</small>
+
+IV Bis. Impulsar la creación y consolidación de un Registro Estatal de Personas con Condición del Espectro Autista del Estado de Tabasco, como instrumento estadístico y de planeación de políticas públicas, cuya inscripción será de carácter voluntario y se sujetará a la normatividad en materia de protección de datos personales;
+
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2026)</small>
+
+IV Ter. Promover la celebración de convenios con el sector privado que preste servicios comerciales, para el establecimiento de horarios con bajo estímulo sensorial u hora silenciosa, en beneficio de las personas con hipersensibilidad sensorial;
+
 V. Proponer al Ejecutivo Estatal las políticas y criterios para la formulación de programas y acciones de las dependencias y entidades de la administración pública estatal en materia de atención de las personas con la condición del espectro autista;
 
 VI. Las que determine el Titular del Poder Ejecutivo Estatal para el cumplimiento de la Ley; y
@@ -291,17 +341,25 @@ II. Negar la orientación necesaria para un diagnóstico y tratamiento adecuado,
 
 III. Actuar con negligencia y realizar acciones que pongan en riesgo la salud de las personas, así como aplicar terapias riesgosas, indicar sobre-medicación que altere el grado de la condición u ordenar internamientos injustificados en instituciones psiquiátricas;
 
-IV. Negar, impedir o desautorizar su inscripción en los planteles educativos públicos y privados;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2026)</small>
 
-V. Permitir que niños y jóvenes con esta condición, sean víctimas de burlas, agresiones y señalamientos que atenten contra su dignidad y estabilidad emocional por parte de sus maestros y compañeros;
+IV. Negar ajustes razonables o impedir el acceso a servicios públicos y privados de carácter cultural, deportivo, recreativo, así como de transportación;
+
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2026)</small>
+
+V. Permitir, consentir o ejercer cualquier forma de burla, acoso, maltrato o agresión que afecte la dignidad y el bienestar emocional de niñas, niños, adolescentes, jóvenes y adultos con la condición del espectro autista, ya sea por parte de autoridades escolares, personal administrativo, docentes, compañeros de estudio o trabajo, empleadores, profesionales de la salud o cualquier persona responsable de su cuidado o interacción en cualquier ámbito social;
 
 VI. Impedir el acceso a servicios públicos y privados de carácter cultural, deportivo, recreativo, así como de transportación;
 
 VII. Negarles el derecho a contratar seguros de gastos médicos;
 
-VIII. Restringir de cualquier manera su derecho al trabajo o abusar de ellas dentro del ámbito laboral;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2026)</small>
 
-IX. Negar la asesoría jurídica necesaria para el ejercicio de sus derechos; y
+VIII. Restringir o vulnerar el derecho al trabajo de las personas con la condición del espectro autista, así como someterlas a cualquier forma de abuso laboral, incluyendo tratos injustos, desvalorizantes, indignos o retribuciones inadecuadas;
+
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2026)</small>
+
+IX. Negar la asesoría jurídica o los ajustes razonables necesarios para el ejercicio de sus derechos; y
 
 X. Todas aquellas acciones que discriminen, perjudiquen o pretendan contravenir lo dispuesto en la presente Ley y los demás ordenamientos aplicables.
 
@@ -342,3 +400,21 @@ SECRETARIO DE GOBIERNO.
 LIC. JUAN JOSÉ PERALTA FÓCIL.
 
 COORDINADOR GENERAL DE ASUNTOS JURÍDICOS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 242 POR EL QUE SE REFORMAN: EL PRIMER PÁRRAFO Y LAS FRACCIONES XII, XIV, XX Y XXI DEL ARTÍCULO 9; LAS FRACCIONES IV Y V, DEL ARTICULO 12; LAS FRACCIONES IV, V, VIII Y IX DEL ARTÍCULO 15; Y SE ADICIONAN LAS FRACCIONES I BIS, I TER, XI BIS, XI TER AL ARTÍCULO 2; LAS FRACCIONES VIII BIS Y XXII AL ARTÍCULO 9, Y LAS FRACCIONES IV BIS Y IV TER AL ARTÍCULO 13, TODOS DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE TABASCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los treinta días siguientes al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+La persona titular del Poder Ejecutivo del Estado, dentro del plazo de sesenta días hábiles contados a partir de la entrada en vigor del presente Decreto, deberá expedir las disposiciones reglamentarias correspondientes, así como establecer la fecha a partir de la cual comenzará a implementarse el Registro y las demás acciones a que se refiere el presente Decreto.
