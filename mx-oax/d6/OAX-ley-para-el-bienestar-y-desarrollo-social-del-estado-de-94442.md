@@ -4,7 +4,7 @@ identifier: "OAX-ley-para-el-bienestar-y-desarrollo-social-del-estado-de-94442"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-18"
-last_updated: "2025-10-25"
+last_updated: "2026-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY PARA EL BIENESTAR Y DESARROLLO SOCIAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 18 de mayo de 2013.
 
@@ -215,6 +215,14 @@ LIV. Zonas de Atención Prioritaria: A las comunidades, municipios, microrregion
 
 LV. Zonas Indígenas con Identidad en Desarrollo: A las comunidades, microrregiones, regiones, municipios o asociación de estos que se organizan en función de su similitud para superar sus condiciones de pobreza, marginación o cualquier otra circunstancia que afecte su bienestar.
 
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2026)</small>
+
+LVI. Accesibilidad lingüística: garantía de que la información y difusión de los programas de bienestar y desarrollo social se proporcionará en español y en las lenguas indígenas y afromexicanas presentes en el Estado, en medios físicos y electrónicos accesibles;
+
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2026)</small>
+
+LVII. Accesibilidad inclusiva: garantía de que la información y difusión de los programas de bienestar y desarrollo social se proporcionará a las personas con discapacidad en formatos accesibles y de fácil comprensión.
+
 ### CAPÍTULO II. APLICACIÓN DE LA LEY
 
 ###### Artículo 4.
@@ -313,7 +321,13 @@ VIII. Recibir los servicios y prestaciones de los programas sociales, conforme a
 
 IX. Hacer denuncias y quejas ante las instancias correspondientes por el incumplimiento de la presente Ley, y
 
-X. Los previstos por esta Ley y demás disposiciones aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE MARZO DE 2026)</small>
+
+X. Recibir información, orientación, materiales y acompañamiento sobre programas de bienestar y desarrollo social, garantizando su accesibilidad lingüística e inclusiva, especialmente a las personas indígenas, afromexicanas y con discapacidad;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN X], P.O. 21 DE MARZO DE 2026)</small>
+
+XI. Los previstos por esta Ley y demás disposiciones aplicables.
 
 ###### Artículo 11.
 
@@ -410,6 +424,10 @@ XXII. Dignidad Humana: Cuyo sustento son los derechos humanos por el que se reco
 > <small>(ADICIONADA, P.O. 12 DE ABRIL DE 2025)</small>
 
 XXIII. Interés superior de la niñez: De conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Oaxaca, la Ley General de los Derechos de Niñas, Niños y Adolescentes, la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Oaxaca y en los tratados internacionales aplicables de los que el Estado Mexicano sea parte
+
+> <small>(ADICIONADA, P.O. 21 DE MARZO DE 2026)</small>
+
+XXIV. Accesibilidad lingüística e inclusiva: las autoridades garantizarán que la información y difusión de los programas de bienestar y desarrollo social se realice en español y en lenguas maternas en medios físicos y electrónicos accesibles, y en formatos accesibles y de fácil comprensión para las personas con discapacidad; a fin de eliminar barreras de idioma y erradicar la discriminación, procurando el ejercicio efectivo de los derechos sociales.
 
 ###### Artículo 16.
 
@@ -705,17 +723,23 @@ El Ejecutivo del Estado y los municipios, podrán convenir acciones entre sí y 
 
 La Secretaría de Bienestar, Tequio e Inclusión, deberá publicar en el Periódico Oficial del Gobierno del Estado de Oaxaca el Programa Operativo de Bienestar y Desarrollo Social dentro de los primeros treinta días naturales de cada ejercicio gubernamental.
 
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2026)</small>
+
 ###### Artículo 36.
 
-El Gobierno del Estado y los Municipios implementarán campañas de difusión con el objeto de informar a la población del contenido, reglas de operación y beneficios de los programas de desarrollo social que se apliquen en el Estado.
+El Gobierno del Estado y los Municipios implementarán campañas de difusión con el objeto de informar a la población el contenido, reglas de operación, requisitos, calendarios, derechos, obligaciones y beneficios de los programas de bienestar y desarrollo social que apliquen en el Estado, observando el principio y los derechos de accesibilidad lingüística inclusiva de las personas, especialmente cuando se trate de indígenas, afromexicanos y personas con discapacidad.
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2026)</small>
 
 ###### Artículo 37.
 
-Toda publicidad e información relativa a los programas de desarrollo social deberá incluir la siguiente leyenda: "Este programa es de carácter público, ajeno a cualquier partido político. Queda prohibido su uso para fines distintos al desarrollo social".
+Toda publicidad e información relativa a los programas de bienestar y desarrollo social será accesible e incluyente y deberá incluir la siguiente leyenda: "Este programa es de carácter público, ajeno a cualquier partido político. Queda prohibido su uso para fines distintos al bienestar de las personas y el desarrollo social".
+
+> <small>(REFORMADO, P.O. 21 DE MARZO DE 2026)</small>
 
 ###### Artículo 38.
 
-Cuando en un municipio exista población indígena, las autoridades municipales, en coordinación con el Estado, deberán difundir, en su lengua o dialecto, los programas de desarrollo social que se estén implementando en el Municipio.
+Cuando en un municipio o región exista población indígena o afromexicana, las autoridades municipales, en coordinación con el Estado, deberán difundir los programas de bienestar y desarrollo social en lenguas indígenas y afromexicanas, a través de medios de información y comunicación adecuados e idóneos, y en formatos accesibles y de fácil comprensión, para las personas con discapacidad.
 
 ###### Artículo 39.
 
@@ -1870,3 +1894,15 @@ P.O. 25 DE OCTUBRE DE 2025.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO, El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 21 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM: 1404.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 10, LOS ARTÍCULOS 36, 37 Y 38; Y SE ADICIONAN LAS FRACCIONES LVI Y LVII AL ARTÍCULO 3, LA FRACCIÓN XI AL ARTÍCULO 10 Y LA FRACCIÓN XXIV AL ARTÍCULO 15 DE LA LEY PARA EL BIENESTAR Y DESARROLLO SOCIAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TERCERO. La Secretaría de Bienestar, Tequio e Inclusión del Gobierno del Estado de Oaxaca, atendiendo al principio de progresividad de los derechos humanos, considerando sus recursos económicos, administrativos, humanos y de diversa índole, traducirá a lenguas indígenas y afromexicanas las principales convocatorias de bienestar y desarrollo social implementadas en el Estado y los Municipios, o en su caso, realizará resúmenes de información de los principales programas en lenguas indígenas y afromexicanas. Lo anterior, sin perjuicio de que en lo sucesivo amplíe la traducción a lenguas originarias y afrodescendientes de la información que se considere útil y necesaria de los principales programas de bienestar y desarrollo social. Para tal efecto, en el ámbito de sus competencias y atribuciones legales correspondientes, la Secretaría se podrá auxiliar y coordinar con la Secretaría de Interculturalidad, Pueblos y Comunidades Indígenas y Afromexicanas del Gobierno del Estado de Oaxaca, el Instituto de Lenguas Originarias de Oaxaca, las Universidades o demás dependencias públicas estatales y federales y particulares y organismos privados que considere conveniente.
+
+CUARTO. La Secretaría de Finanzas del Gobierno del Estado de Oaxaca, realizará las adecuaciones presupuestarias necesarias para garantizar la implementación de la presente reforma, priorizando las zonas de atención prioritaria y respetando la disponibilidad presupuestaria.
