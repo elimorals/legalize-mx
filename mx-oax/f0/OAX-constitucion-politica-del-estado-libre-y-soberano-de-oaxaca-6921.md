@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2026-01-10"
+last_updated: "2026-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2026.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -623,13 +623,15 @@ La naturaleza, el medio ambiente y su biodiversidad, son sujetos de derechos y t
 
 Toda persona tiene derecho a gozar de los beneficios del progreso científico de sus aplicaciones, en los términos que establezca la ley.
 
-> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 24 DE AGOSTO DE 2019)</small>
+> <small>(REFORMADO [N. DE E. CON SUS INCISOS], P.O. 21 DE MARZO DE 2026)</small>
 
 A.- Esta Constitución reconoce a los animales como seres sintientes y, en consecuencia, deben recibir trato digno.
 
-En el Estado de Oaxaca toda persona tiene un deber ético y obligación jurídica de respetar la vida y la integridad de los animales; éstos, por su naturaleza son sujetos de consideración moral.
+Queda prohibido el maltrato a los animales. El Estado debe garantizar la protección, la conservación y el cuidado de los animales, en los términos que señalen las leyes respectivas.
 
-Su tutela es de responsabilidad común.
+En el Estado de Oaxaca toda persona tiene un deber ético y obligación jurídica de respetar la integridad de los animales; éstos, por su naturaleza son sujetos de consideración moral.
+
+Su tutela es responsabilidad común.
 
 Las autoridades de los órdenes Estatal y Municipal garantizarán la protección, bienestar, así como el trato digno y respetuoso a los animales y fomentarán una cultura de cuidado y tutela responsable. Así mismo, realizarán acciones para la atención de animales en abandono o que hayan sido objeto a que hayan sido objeto (sic) de maltrato.
 
@@ -641,7 +643,7 @@ b) Las conductas prohibidas con objeto de proteger a los animales y las sancione
 
 c) Las bases para promover la conservación, así como prevenir y evitar maltratos en la crianza y el aprovechamiento de animales de consumo;
 
-d) Las medidas necesarias para atender el control de plagas y riesgos sanitarios, y;
+d) Las medidas necesarias para atender el control de plagas y riesgos sanitarios, y
 
 e) Las facilidades para quienes busquen dar albergue y resguardo a animales en estado de abandono y los que hayan sido objeto de maltrato.
 
@@ -2177,9 +2179,9 @@ LIX. Autorizar al Gobernador para celebrar convenio con la Federación;
 
 LX. Autorizar al Gobernador para que enajene, traspase, hipoteque, grave o ejerza cualquier otro acto de dominio sobre bienes muebles o inmuebles pertenecientes al Estado cuando su valor sea superior a 6,300 salarios mínimos diarios, previo avalúo de la Secretaría de Finanzas. El Gobernador dará cuenta al Congreso del Estado del uso que hiciere de esta facultad;
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2026)</small>
 
-LXI. Legislar sobre seguridad social y medio ambiente, procurando la superación del nivel de vida de la población y el mejoramiento de la salud;
+LXI. Legislar sobre seguridad social, protección al medio ambiente, preservación y restauración del equilibrio ecológico y protección de los animales, procurando la superación del nivel de vida de la población y mejoramiento de la salud pública;
 
 > <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
 
@@ -7042,3 +7044,11 @@ P.O. 10 DE ENERO DE 2026.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 21 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1396.- MEDIANTE EL CUAL REFORMA EL APARTADO A DEL ARTÍCULO 12 Y LA FRACCIÓN LXI DEL ARTÍCULO 59 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
