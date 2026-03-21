@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-fomento-para-la-lectura-la-escritura-el-acceso-al-153258
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-04"
-last_updated: "2026-01-10"
+last_updated: "2026-03-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE FOMENTO PARA LA LECTURA, LA ESCRITURA, EL ACCESO AL LIBRO Y LAS BIBLIOTECAS EN EL ESTADO Y MUNICIPIOS DE OAXACA.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2026.
 
 Ley publicada en la Séptima Sección del Número 49 del Periódico Oficial del Estado de Oaxaca, el sábado 4 de diciembre de 2021.
 
@@ -279,9 +279,11 @@ El Consejo Estatal se regirá, además de las disposiciones contenidas en esta l
 
 #### Sección Segunda. De los Consejos Municipales para el Fomento de la Lectura, la Escritura, el Acceso al Libro y las Bibliotecas del Estado de Oaxaca
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 2026)</small>
+
 ###### Artículo 11.
 
-Los Consejos Municipales para el Fomento de la Lectura, la Escritura, el Acceso al Libro y las Bibliotecas del Estado de Oaxaca serán órganos de carácter consultivo de los Ayuntamientos de los Municipios, los cuales propondrán y darán seguimiento, en el ámbito de su competencia, a las políticas, programas y acciones que promuevan el fomento a la lectura, la escritura, la producción, edición, distribución y difusión de libros u obras escritas que contribuyan a elevar el nivel educativo y cultural de la población en los Municipios, así como, los acuerdos y lineamientos sobre la materia.
+Los Consejos Municipales para el Fomento de la Lectura, la Escritura, el Acceso al Libro y las Bibliotecas del Estado de Oaxaca serán órganos de carácter consultivo de los Ayuntamientos de los Municipios, los cuales propondrán y darán seguimiento, en el ámbito de su competencia, a las políticas, programas y acciones que promuevan el fomento a la lectura, la escritura, la producción, edición, distribución y difusión de libros u obras escritas que contribuyan a elevar el nivel educativo y cultural de la población en los Municipios, conforme a su Plan Municipal de Desarrollo; así como, los acuerdos y lineamientos sobre la materia.
 
 En cada Municipio del Estado deberán conformarse un Consejo Municipal, previa convocatoria del Presidente Municipal y con los requisitos que establece la presente Ley.
 
@@ -411,7 +413,9 @@ Los Ayuntamientos de los Municipios coadyuvarán en la realización del festival
 
 En materia de fomento a la lectura y escritura, corresponde a los Ayuntamientos de los Municipios, las siguientes obligaciones:
 
-I. Fomentar, promover, incentivar y difundir material de lectura con la finalidad de desarrollar y fortalecer el hábito a la lectura;
+> <small>(REFORMADA, P.O. 21 DE MARZO DE 2026)</small>
+
+I. Fomentar, promover, incentivar y difundir material de lectura con la finalidad de desarrollar y fortalecer el hábito a la lectura, estipulados en su Plan Municipal de Desarrollo;
 
 II. Elaborar y organizar, en coordinación con los Consejos Municipales, el programa anual de actividades culturales, el cual deberá contener como mínimo la realización de una feria del libro dentro de su demarcación territorial, así como, campañas, bibliotecas itinerantes o cualquier otra actividad que incentive la lectura;
 
@@ -688,3 +692,11 @@ SEGUNDO. El presente Decreto entrará en vigor a partir del día siguiente de su
 TERCERO. El Instituto Estatal de Creación Literaria y Promoción de la Lectura, así como los 570 municipios del Estado de Oaxaca, deberán prever en sus respectivos presupuestos de egresos, a partir del Ejercicio Fiscal siguiente a la entrada en vigor del presente Decreto, los recursos necesarios para la adquisición de libros digitales, audiolibros y demás materiales electrónicos destinados al fomento de la lectura. Asimismo, deberán considerar la adquisición de equipos, dispositivos tecnológicos y soportes que permitan su lectura y escucha, con el objeto de dotar a las bibliotecas públicas del Estado y de los municipios de las herramientas adecuadas para garantizar el acceso universal a los contenidos digitales previstos en esta Ley.
 
 Las autoridades mencionadas deberán realizar estas acciones conforme a su disponibilidad presupuestaria, observando los principios de racionalidad, eficiencia, honradez y transparencia en el uso de los recursos públicos, sin menoscabo de las obligaciones previamente establecidas en la normatividad aplicable.
+
+P.O. 21 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1397.- MEDIANTE EL CUAL REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 11 Y LA FRACCIÓN I DEL ARTICULO 22 DE LA LEY DE FOMENTO PARA LA LECTURA, LA ESCRITURA, EL ACCESO AL LIBRO Y LAS BIBLIOTECAS EN EL ESTADO Y MUNICIPIOS DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Publíquese el presente Decreto en la Gaceta Parlamentaria del Honorable Congreso del Estado Libre Y Soberano de Oaxaca y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
