@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-hacienda-del-estado-de-michoacan-de-ocampo-153311"
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-27"
-last_updated: "2024-12-16"
+last_updated: "2026-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=153311&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2026.
 
 Ley publicada en la Décima Tercera Sección del Número 33 del Periódico Oficial del Estado de Michoacán de Ocampo, el lunes 27 de diciembre de 2021.
 
@@ -909,9 +909,21 @@ II. Venta de publicaciones del Periódico Oficial del Estado;
 
 III. Venta de publicaciones oficiales, leyes y reglamentos que edite el Poder Ejecutivo del Estado, conforme al costo señalado por la Dependencia respectiva;
 
-IV. Suministro de calcomanías u hologramas y certificados para verificación vehicular de emisiones contaminantes; y,
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2026)</small>
 
-V. Otros Productos, como resultado de establecimientos y empresas del Estado, venta de impresos y papel especial; y los demás que señalen las disposiciones aplicables.
+IV. Suministro de calcomanías u hologramas y certificados para verificación vehicular de emisiones contaminantes;
+
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2026)</small>
+
+V. Otros Productos, como resultado de establecimientos y empresas del Estado, venta de impresos y papel especial; y los demás que señalen las disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2026)</small>
+
+VI. Enajenación de Bienes Muebles e Inmuebles; y,
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2026)</small>
+
+VII. Arrendamiento y Explotación de Bienes Muebles e Inmuebles.
 
 ## TÍTULO SEXTO. DE LOS APROVECHAMIENTOS
 
@@ -967,9 +979,9 @@ XVI. Recuperación de Primas de Seguro por Siniestros de vehículos terrestres y
 
 XVII. Recuperación de Primas de Seguro por Siniestros Catastróficos (Secretaría de Agricultura y Desarrollo Rural);
 
-XVIII. Arrendamiento y explotación de Bienes Muebles e Inmuebles;
+XVIII. (DEROGADA, P.O. 23 DE MARZO DE 2026)
 
-XIX. Enajenación de Bienes Muebles e Inmuebles;
+XIX. (DEROGADA, P.O. 23 DE MARZO DE 2026)
 
 XX. Los contratistas con quienes se celebren contratos de obra pública o de servicios relacionados con la misma, cubrirán un cinco al millar sobre el importe de cada una de las estimaciones de trabajo, para los servicios de vigilancia, inspección y control necesarios para su ejecución. De conformidad con lo dispuesto por el Artículo 43 de la Ley de Obra Pública y Servicios Relacionados con la misma para el Estado de Michoacán de Ocampo y sus Municipios, y al Acuerdo de Coordinación que celebran la Secretaría de la Función Pública y el Estado de Michoacán de Ocampo, cuyo objeto es la realización de un programa de coordinación especial denominado Fortalecimiento del Sistema Estatal de Control y Evaluación de la Gestión Pública, y Colaboración en materia de Transparencia y Combate a la Corrupción, publicado en el Diario Oficial de la Federación el 1 de noviembre del año 2012.
 
@@ -1370,3 +1382,13 @@ Dese cuenta del presente Decreto al Titular del Poder Ejecutivo del Estado para 
 ###### ARTÍCULO TERCERO.
 
 Dese cuenta el presente Decreto al Titular de la Secretaría de Finanzas y Administración, para su conocimiento y los efectos correspondientes.
+
+P.O. 23 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 407 POR EL QUE "SE REFORMAN LAS FRACCIONES IV, V, Y SE ADICIONAN LAS FRACCIONES VI Y VII DEL ARTÍCULO 70; Y, SE DEROGAN LAS FRACCIONES XVIII Y XIX DEL ARTÍCULO 71, TODOS DE LA LEY DE HACIENDA DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor al momento de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Dese cuenta el presente Decreto al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+TERCERO. Remítase copia del presente Decreto a la Secretaría de Finanzas y Administración del Estado de Michoacán de Ocampo, para conocimiento y efectos conducentes.
