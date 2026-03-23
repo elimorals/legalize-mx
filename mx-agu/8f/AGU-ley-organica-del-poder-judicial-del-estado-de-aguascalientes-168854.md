@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-poder-judicial-del-estado-de-aguascalientes-16
 country: "mx"
 rank: "ley_organica"
 publication_date: "2023-12-27"
-last_updated: "2025-11-21"
+last_updated: "2026-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168854&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2026.
 
 Ley publicada en el Número 60 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 27 de diciembre de 2023.
 
@@ -265,9 +265,9 @@ I. Representar al Supremo Tribunal de Justicia en particular o en general al Pod
 
 II. Designar, para el caso de que se ausente de manera temporal, a la persona Magistrada que se encargará del despacho de los asuntos de la Presidencia del Tribunal;
 
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2026)</small>
 
-III. Presentar anualmente, a más tardar el último día del mes de marzo, ante el Pleno del Congreso del Estado un informe por escrito correspondiente al año inmediato anterior, sobre el estado que guarda la administración de justicia, en cuanto a la actividad jurisdiccional de los tribunales respecto a sus resoluciones, sentencias y la ejecución de las mismas, así como la actividad administrativa, precisando lo relativo al ejercicio de los recursos financieros del Poder Judicial proporcionados por el Órgano de Administración Judicial;
+III. Presentar anualmente, en el mes de agosto, ante el Congreso del Estado un informe por escrito correspondiente al año inmediato anterior, sobre el estado que guarda la administración de justicia, en cuanto a la actividad jurisdiccional de los tribunales respecto a sus resoluciones, sentencias y la ejecución de las mismas, así como la actividad administrativa, precisando lo relativo al ejercicio de los recursos financieros del Poder Judicial proporcionados por el Órgano de Administración Judicial;
 
 > <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2024)</small>
 
@@ -1481,7 +1481,9 @@ I. Representar al Tribunal de Disciplina Judicial, en los términos que establez
 
 II. En caso de ausencia temporal, designar a la Magistratura que será la encargada del despacho de los asuntos del Tribunal de Disciplina Judicial;
 
-III. Rendir informe ante el Congreso del Estado sobre sus resoluciones, sentencias y la ejecución de estas, a más tardar el último día del mes de marzo;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2026)</small>
+
+III. Rendir anualmente durante el mes de agosto, un informe por escrito ante el Congreso del Estado, sobre sus resoluciones, sentencias y su ejecución;
 
 IV. Convocar, presidir y dirigir los debates y conservar el orden de las sesiones del Pleno, las cuales pueden ser presenciales o virtuales, según lo determine por acuerdo el Pleno del Tribunal de Disciplina Judicial;
 
@@ -1664,3 +1666,11 @@ P.O. 21 DE NOVIEMBRE DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 441.- SE REFORMA LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
