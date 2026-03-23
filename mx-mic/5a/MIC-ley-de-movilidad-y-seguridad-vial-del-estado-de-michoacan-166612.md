@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-movilidad-y-seguridad-vial-del-estado-de-michoacan-16661
 country: "mx"
 rank: "ley"
 publication_date: "2023-06-02"
-last_updated: "2026-01-14"
+last_updated: "2026-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166612&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 23 DE MARZO DE 2026.
 
 Ley publicada en la Novena Sección del Número 7 del Periódico Oficial del Estado de Michoacán, el viernes 2 de junio de 2023.
 
@@ -2249,6 +2249,10 @@ Las dependencias y entidades que participan en el proceso de expedición de lice
 
 Para la expedición de las licencias y permisos de conducir en todos sus tipos, el titular del Poder Ejecutivo a través de la dependencia competente, emitirá los lineamientos para generar los contenidos de los exámenes de valoración integral teórico y práctico, de conocimientos y habilidades necesarias, atendiendo a los diferentes tipos, los requisitos de emisión y renovación que deban establecerse en el Reglamento de la presente Ley y Protocolos para realizar los exámenes y su evaluación.
 
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2026)</small>
+
+Tratándose de personas solicitantes mayores de ochenta años, la expedición o renovación de licencias y permisos para conducir estará condicionada a que acrediten, mediante evaluaciones médicas y psicológicas, así como una prueba práctica de manejo, que conservan las capacidades físicas, sensoriales, cognitivas y psicomotrices necesarias para conducir de manera segura, conforme a los lineamientos y protocolos que emita la dependencia competente, con pleno respeto a los principios de igualdad, no discriminación y seguridad vial.
+
 ###### Artículo 140.
 
 Cuando se pierda o sufra deterioro la licencia o cambie de domicilio la persona titular, deberá solicitar una reposición de la misma por el sólo período que faltare para su expiración, previo el pago de los derechos fiscales correspondientes. En el caso de licencias permanentes se pagará un costo de reposición el cual deberá estar considerado en la Ley de Ingresos del Estado.
@@ -2301,6 +2305,14 @@ VI. Cuando la persona titular de la licencia participe en un siniestro de tráns
 
 VII. Al conductor u operador del servicio del transporte público y especializado que participe en un siniestro de tránsito y de cuyo resultado haya producido u ocasionado lesiones en personas, de las clasificadas como las que tardan más de quince días en sanar, y que se determine su responsabilidad a través del procedimiento administrativo o jurisdiccional indistintamente, se suspenderá por el término de un año a partir de la resolución;
 
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2026)</small>
+
+El conductor u Operador del Transporte Público, que, como resultado de un accidente o siniestro vial, participe de manera comprobada en una riña, confrontación física o agresión contra otras personas, pasajeros o terceros.
+
+> <small>(ADICIONADO, P.O. 23 DE MARZO DE 2026)</small>
+
+La verificación de la participación se realizará con base en los medios probatorios recabados por la autoridad competente, tales como dictámenes periciales, declaraciones, grabaciones y reportes oficiales.
+
 VIII. Las personas titulares de licencia de chofer de transporte, persona operadora de Servicio de Transporte Público y Especializado, y de persona operadora de maquinaria que sean sorprendidas manejando con cualquier cantidad de alcoholemia en aire espirado o en sangre, o cualquier droga, psicotrópico o estupefaciente sin prescripción médica, se les suspenderá la licencia para conducir por un periodo no menor a seis meses;
 
 IX. A la persona operadora de transporte público o especializado que cometa cinco infracciones sancionadas por esta Ley, y conforme a la clasificación establecida en su Reglamento, que oscilen de entre quince a veinticinco UMAS, en un lapso de seis meses, contados a partir de la fecha de la primera infracción, la suspensión será de seis meses; cumplida dicha suspensión y en caso de reincidencia de una nueva infracción del mismo tipo dentro de los siguientes seis meses, la suspensión será por un año;
@@ -2311,9 +2323,11 @@ XI. En el caso de las licencias de motociclista, si el titular es sancionado por
 
 XII. Las demás que determine esta Ley, su Reglamento y demás normativa aplicable.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2026)</small>
+
 ###### Artículo 146.
 
-Son causas de cancelación de la licencia o permiso:
+Son causas de cancelación de la licencia o permiso;
 
 I. Que posterior al otorgamiento de la licencia de conducir al titular le devenga incapacidad total y permanente que lo inhabilite para conducir;
 
@@ -2335,7 +2349,9 @@ IX. Las demás que determine esta Ley y su Reglamento.
 
 En los casos previstos en las fracciones I, VI y VII no se podrá obtener nuevamente licencia para conducir de ningún tipo.
 
-En los casos previstos en las fracciones II, III, IV, V y VIII se podrá obtener una nueva licencia transcurrido un año contado a partir de la fecha de la cancelación o del cumplimiento de las condiciones que se previeron en la resolución correspondiente; previa asistencia a los cursos de sensibilización y educación vial, que tendrán una duración de treinta horas con excepción de la fracción IX en esta última condición.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2026)</small>
+
+En los casos previstos en las fracciones II, III, IV, V y VIII se podrá obtener una nueva licencia transcurrido un año contado a partir de la fecha de la cancelación o del cumplimiento de las condiciones que se previeron en la resolución correspondiente; previa asistencia a los cursos de sensibilización, educación vial y manejo y control de ira, que tendrán una duración de treinta horas con excepción de la fracción IX en esta última condición.
 
 ###### Artículo 147.
 
@@ -4378,3 +4394,19 @@ P.O. 14 DE ENERO DE 2026.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Segundo. Notifíquese el Presente Decreto al Titular del Ejecutivo del Estado para los efectos legales correspondientes.
+
+P.O. 23 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 405 POR EL QUE "SE ADICIONA UN ÚLTIMO PÁRRAFO AL ARTÍCULO 139 DE LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. Notifíquese al Titular del Poder Ejecutivo, para los efectos que considere procedentes.
+
+P.O. 23 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 406.- ARTÍCULO ÚNICO.- SE ADICIONA UN SEGUNDO Y TERCER PÁRRAFO A LA FRACCIÓN VII DEL ARTÍCULO 145; Y, SE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 146 AMBOS DE LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Notifíquese al Titular del Poder Ejecutivo para los efectos que considere procedentes.
