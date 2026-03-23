@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-fomento-a-la-lectura-y-el-libro-del-estado-de-58782"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-22"
-last_updated: "2008-01-22"
+last_updated: "2026-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58782&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE FOMENTO A LA LECTURA Y EL LIBRO DEL ESTADO DE MICHOACAN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2026
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el martes 22 de enero de 2008.
 
@@ -59,7 +59,9 @@ IV. Promover la participación social y de los sectores público y privado en la
 
 V. Determinar la integración, facultades y ámbito de competencia del Consejo Estatal y de los Consejos Municipales;
 
-VI. Implementar las bases técnicas para la elaboración de los programas Estatal y Municipales para el Fomento a la Lectura y el Libro;
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2026)</small>
+
+VI. Implementar las bases técnicas para la elaboración de los programas Estatal y Municipales para el Fomento a la Lectura, el Libro y los Libros Digitales;
 
 VII. Garantizar el fomento de la lectura y de producción literaria entre la población, estableciendo las bases para que los gobiernos municipales realicen acciones conjuntas en este sentido, conforme a lo establecido en la Ley de Desarrollo Cultural para el Estado de Michoacán de Ocampo, y la Ley Orgánica Municipal del Estado de Michoacán de Ocampo;
 
@@ -70,6 +72,18 @@ IX. Promover la formación e integración de promotores de lectura en cada uno d
 X. Promover la creación y mantenimiento de bibliotecas populares y de centros públicos de lectura, en todos los municipios; y
 
 XI. Prever los mecanismos financieros necesarios para la obtención de los ingresos públicos o privados que se requieran, a efecto de hacer posible el cumplimiento de los objetivos establecidos en la presente Ley.
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2026)</small>
+
+XII. Impulsar el desarrollo de sistemas integrales de información sobre el libro, su distribución, la lectura y los derechos de autor;
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2026)</small>
+
+XIII. Elaborar una base de datos que considere los catálogos y directorios colectivos de autores, obras, editoriales, industria gráfica, bibliotecas y librerías disponibles para la consulta en red desde cualquier parte del Estado; y,
+
+> <small>(ADICIONADA, P.O. 23 DE MARZO DE 2026)</small>
+
+XIV. Fomentar las actividades en defensa de los derechos de autor, el traductor y del editor, dentro y fuera del territorio nacional.
 
 ###### Artículo 3.
 
@@ -376,3 +390,11 @@ PRESlDENTE.- DlP. GUSTAVO ARIAS GARDUÑO.- PRIMER SECRETARIO.- DIP. MARTÍN GODO
 En cumplimiento a lo dispuesto por la fracción I, del artículo 60 de la Constitución Política del Estado de Michoacán de Ocampo, y para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la Ciudad de Morelia, Michoacán, a los 04 cuatro días del mes de enero del año 2008 dos mil ocho.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN. EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LÁZARO CÁRDENAS BATEL.- LA SECRETARIA DE GOBIERNO.- MARÍA GUADALUPE SÁNCHEZ MARTÍNEZ. (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 409 POR EL QUE “SE REFORMA LA FRACCIÓN VI Y SE ADICIONAN LAS FRACCIONES XII, XIII Y XIV AL ARTÍCULO 2 DE LA LEY DE FOMENTO A LA LECTURA Y EL LIBRO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
