@@ -4,7 +4,7 @@ identifier: "YUC-estatuto-organico-de-la-universidad-tecnologica-del-centro-1279
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-03-05"
-last_updated: "2020-05-11"
+last_updated: "2026-03-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127924&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 ESTATUTO ORGÁNICO DE LA UNIVERSIDAD TECNOLÓGICA DEL CENTRO DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE MAYO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 23 DE MARZO DE 2026.
 
 Estatuto publicado en el Diario Oficial del Estado de Yucatán, el lunes 5 de marzo de 2018.
 
@@ -83,11 +83,17 @@ b) Rector.
 
 II. Unidades administrativas:
 
-a) Dirección de Carreras.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2026)</small>
 
-b) Dirección de Vinculación.
+a) Secretario Académico.
 
-c) Dirección de Administración y Finanzas.
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2026)</small>
+
+b) Secretario de Vinculación.
+
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2026)</small>
+
+c) Secretario de Administración y Finanzas.
 
 III. Órgano de apoyo:
 
@@ -115,7 +121,9 @@ II. El secretario general de Gobierno.
 
 III. El secretario de Administración y Finanzas.
 
-IV. El secretario de Investigación, Innovación y Educación Superior.
+> <small>(REFORMADA, P.O. 23 DE MARZO DE 2026)</small>
+
+IV. El secretario de educación.
 
 V. Un representante de la Secretaría de Educación Pública, designado por la Coordinación General de Universidades Tecnológicas y Politécnicas de la Subsecretaría de Educación Superior.
 
@@ -303,11 +311,15 @@ La universidad contará con las unidades administrativas establecidas en el art�
 
 De igual forma, los titulares de las unidades administrativas de la universidad estarán auxiliados por el personal que requieran las necesidades del servicio, siempre que lo permita su presupuesto.
 
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 23 DE MARZO DE 2026)</small>
+
 ###### Artículo 26.
 
-Facultades y obligaciones generales de los directores
+Facultades y obligaciones generales de los secretarios
 
-Los directores tendrán las siguientes facultades y obligaciones de carácter general:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2026)</small>
+
+Los secretarios, tendrán las siguientes facultades y obligaciones de carácter general:
 
 I. Planear, dirigir, coordinar, supervisar y evaluar el funcionamiento de la unidad administrativa a su cargo.
 
@@ -339,11 +351,15 @@ XIV. Intervenir en la contratación, capacitación, desarrollo, promoción y ads
 
 XV. Las demás que le confiera el rector y este estatuto orgánico y otras disposiciones legales y normativas aplicables.
 
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 23 DE MARZO DE 2026)</small>
+
 ###### Artículo 27.
 
-Facultades y obligaciones del director de Carrera
+Facultades y obligaciones del Secretario Académico
 
-El director de Carrera tendrá las siguientes facultades y obligaciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2026)</small>
+
+El Secretario Académico, tendrá las siguientes facultades y obligaciones:
 
 I. Vigilar la implementación y el desarrollo de los planes y programas de estudios vigentes.
 
@@ -365,11 +381,15 @@ IX. Dirigir y vigilar los servicios académicos para los estudiantes.
 
 X. Las demás que le confiera el rector, este estatuto y otras disposiciones legales y normativas aplicables.
 
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 23 DE MARZO DE 2026)</small>
+
 ###### Artículo 28.
 
-Facultades y obligaciones del director de Vinculación
+Facultades y obligaciones del Secretario de Vinculación
 
-El director de Vinculación tendrá las siguientes facultades y obligaciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2026)</small>
+
+El Secretario de Vinculación tendrá las siguientes facultades y obligaciones:
 
 I. Planear, dirigir, controlar y evaluar la coordinación de la universidad con los sectores público, privado y social, así como la vinculación de los estudiantes con el sector productivo.
 
@@ -387,11 +407,15 @@ VII. Promover, en coordinación con la dirección Académica, la realización de
 
 VIII. Las demás que le confiera el rector, este estatuto y otras disposiciones legales y normativas aplicables.
 
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 23 DE MARZO DE 2026)</small>
+
 ###### Artículo 29.
 
-Facultades y obligaciones del director de Administración y Finanzas
+Facultades y obligaciones del Secretario de Administración y Finanzas
 
-El director de Administración y Finanzas tendrá las siguientes facultades y obligaciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2026)</small>
+
+El Secretario de Administración y Finanzas tendrá las siguientes facultades y obligaciones:
 
 I. Vigilar la realización y operación de los procesos de adquisición y contratación de bienes y servicios, así como de abastecimiento de recursos materiales.
 
@@ -453,11 +477,13 @@ Las funciones de vigilancia de la universidad estarán a cargo de un comisario p
 
 ### Capítulo VII. Relaciones laborales
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2026)</small>
+
 ###### Artículo 34.
 
 Relaciones laborales
 
-Las relaciones laborales entre la universidad y sus trabajadores, independientemente de la naturaleza de su contratación, se regirán por lo dispuesto en el artículo 123 apartado A de la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo y demás disposiciones legales y normativas aplicables.
+Las relaciones laborales entre la universidad y sus trabajadores, independientemente de la naturaleza de su contratación, se regirán por lo dispuesto en el artículo 123, apartado B de la Constitución Política de los Estados Unidos Mexicanos, la Ley Federal del Trabajo y demás disposiciones legales y normativas aplicables.
 
 ### Capítulo VIII. Suplencias
 
@@ -467,11 +493,13 @@ Suplencias del rector
 
 El rector será suplido por quien determine o por los titulares de las unidades administrativas señaladas en el artículo 4, fracción II, en ese mismo orden, cuando sus ausencias no excedan de quince días, y por la persona nombrada por la junta de gobierno, cuando se exceda de dicho término.
 
+> <small>(REFORMADO, P.O. 23 DE MARZO DE 2026)</small>
+
 ###### Artículo 36.
 
-Suplencias de los directores
+Suplencia de los secretarios
 
-Los directores serán suplidos por los titulares de la jerarquía inmediata inferior que ellos designen, cuando sus ausencias no excedan de quince días, y por la persona nombrada por el rector, cuando se exceda de dicho término.
+Los secretarios serán suplidos por los titulares de la jerarquía inmediata inferior que ellos designen, cuando sus ausencias no excedan de quince días, y por la persona nombrada por el rector, cuando se exceda de dicho término.
 
 ## Artículos transitorios
 
@@ -504,3 +532,15 @@ Este acuerdo entrará en vigor el día siguiente al de su publicación en el Dia
 Segundo. Inscripción en el Registro de Entidades Paraestatales
 
 El rector de la Universidad Tecnológica del Centro deberá realizar la inscripción de la modificación de este estatuto orgánico en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas, dentro de un plazo de treinta días naturales, contados a partir de la entrada en vigor de este acuerdo.
+
+P.O. 23 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO UTC 01/2025 POR EL QUE SE MODIFICA EL ESTATUTO ORGÁNICO DE LA UNIVERSIDAD TECNOLÓGICA DEL CENTRO".]
+
+Primero. Entrada en vigor
+
+Este acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Segundo. Actualización en el Registro de Entidades Paraestatales
+
+La persona titular de la rectoría de la Universidad Tecnológica del Centro deberán (sic) realizar la inscripción de las modificaciones contenidas de este acuerdo en el Registro de Entidades Paraestatales que lleva la Secretaría de Administración y Finanzas dentro de los treinta días naturales siguientes, contados a partir de su entrada en vigor.
