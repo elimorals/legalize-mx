@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transporte-del-estado-de-tamaulipas-23644"
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-12"
-last_updated: "2023-11-27"
+last_updated: "2026-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 12 de febrero de 2002.
 
@@ -1259,6 +1259,10 @@ Los derechos derivados de una concesión o un permiso, el equipamiento auxiliar 
 
 Para la realización de los servicios de transporte privado de pasajeros, especializado y de carga, así como de los servicios auxiliares en el Estado, los interesados deberán contar con una concesión o un permiso, respectivamente, expedidos por el Poder Ejecutivo, previo cumplimiento de los requisitos necesarios para el efecto y el pago de los derechos correspondientes.
 
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2026)</small>
+
+Queda prohibido que las autoridades municipales celebren convenios, contratos, colaboraciones u operativos conjuntos con empresas de arrastre vehicular que no cuenten con concesión o permiso vigente expedido por la Secretaría. Cualquier remolque efectuado por unidades no autorizadas carecerá de validez legal y su cobro será considerado indebido.
+
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE DICIEMBRE DE 2017)</small>
 
 ###### ARTÍCULO 50.
@@ -2086,6 +2090,18 @@ ARTÍCULO 97 TER.- Las modificaciones a las tarifas que autorice el Poder Ejecut
 ###### ARTÍCULO 98.
 
 Los prestadores del servicio de pasajeros tienen la obligación de contar en sus oficinas, terminales, equipamientos auxiliares y vehículos, en caracteres visibles para el usuario, el monto de la tarifa. Igual obligación tendrán los prestadores de los demás servicios públicos del transporte y de los servicios auxiliares.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2026)</small>
+
+ARTÍCULO 98 BIS.- La Secretaría deberá garantizar el acceso público, gratuito y en línea a las tarifas autorizadas por cada concesionario del servicio de arrastre en el Estado, mediante su publicación oficial. Los prestadores del servicio están obligados a:
+
+I.- Exhibir las tarifas autorizadas en lugares visibles de sus oficinas, vehículos y depósitos;
+
+II.- Entregar al usuario un comprobante fiscal digital por internet (CFDI), conforme al marco fiscal vigente; y
+
+III.- Cuando el usuario no proporcione el RFC, deberán emitir un CFDI genérico utilizando el RFC público general, detallando el servicio prestado, unidad utilizada, folio, fecha, hora y fundamento legal.
+
+La omisión de estas obligaciones será causa de sanción administrativa, suspensión temporal del servicio, o revocación definitiva de la concesión.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
@@ -2954,3 +2970,15 @@ Para efecto del Certificado de Persona Operadora Titular o Adhesiva y Constancia
 ###### ARTÍCULO OCTAVO.
 
 Se derogan todas las disposiciones jurídicas y administrativas que se opongan al presente Decreto.
+
+P.O. 24 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-1008 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS Y DE LA LEY DE TRÁNSITO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Titular del Poder Ejecutivo del Estado de Tamaulipas, por conducto de la Secretaría General de Gobierno, deberá emitir en un plazo no mayor a sesenta días naturales los lineamientos administrativos necesarios para la implementación del presente Decreto.
