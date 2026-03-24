@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-transparencia-y-acceso-a-la-informacion-128766"
 country: "mx"
 rank: "reglamento"
 publication_date: "2018-06-01"
-last_updated: "2018-06-01"
+last_updated: "2026-03-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128766&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,13 @@ issue_date: "2018-05-24"
 ---
 # REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DE LOS TRIBUNALES AGRARIOS Y PROTECCION DE DATOS PERSONALES
 
+[NOTA 1: INFORMACIÓN OBTENIDA DE LA LIGA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: www.dof.gob.mx/2026/TSA/Acdo-5-2026- ReglamentoTransparencia.pdf]
+
+[NOTA 2: DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DE LOS TRIBUNALES AGRARIOS, PUBLICADO EN EL D.O.F. DE 24 DE MARZO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
 REGLAMENTO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DE LOS TRIBUNALES AGRARIOS Y PROTECCIÓN DE DATOS PERSONALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE MARZO DE 2026 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 1 de junio de 2018.
 
@@ -586,3 +590,15 @@ TERCERO. Una vez hecha la publicación a que se refiere el artículo anterior qu
 CUARTO. Así lo aprobó el Tribunal Superior Agrario en sesión celebrada el veinticuatro de mayo de dos mil dieciocho y, por tanto, firman los Magistrados que lo integran, con el Subsecretario General de Acuerdos, en funciones de Secretario General de Acuerdos, que autoriza y da fe. –
 
 Ciudad de México, a 24 de mayo de 2018.- El Subsecretario General de Acuerdos, José Guadalupe Razo Islas.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 24 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DE LOS TRIBUNALES AGRARIOS”.]
+
+PRIMERO. Publíquese el presente Reglamento de Transparencia en el Diario Oficial de la Federación, en el Boletín Judicial Agrario y en la página de internet de los Tribunales Agrarios.
+
+SEGUNDO. Este Reglamento de Transparencia entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+TERCERO. Una vez hecha la publicación a que se refiere el artículo anterior queda abrogado el Reglamento de Transparencia y Acceso a la Información Pública de los Tribunales Agrarios y Protección de Datos Personales publicado en el Diario Oficial el 01 de junio de 2018, así como cualquier disposición de igual o menor jerarquía que se oponga al presente ordenamiento.
