@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-salud-para-el-estado-de-tamaulipas-22704"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-27"
-last_updated: "2026-03-09"
+last_updated: "2026-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22704&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 27 de noviembre del 2001.
 
@@ -1000,6 +1000,14 @@ XIV.- En caso de que su salud esté en riesgo con motivo del embarazo y tratánd
 > <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2020)</small>
 
 XV.- Recibir, por parte de cualquier prestador de servicios de salud, atención médica de forma expedita y sin condición de garantía financiera, en caso de presentar alguna urgencia obstétrica, solicitada de manera directa o a través de la referencia de otra unidad médica, independientemente de su derechohabiencia o afiliación a cualquier esquema de aseguramiento.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2026)</small>
+
+ARTICULO 30 TER.- Los establecimientos de atención médica del sector privado, incluyendo hospitales y clínicas, que realicen procedimientos obstétricos quirúrgicos, deberán cumplir con los requisitos de infraestructura, equipamiento y recursos humanos necesarios para garantizar la atención integral, oportuna y segura de la madre y del recién nacido, conforme a las disposiciones que establezca la autoridad sanitaria competente, la normatividad aplicable y las Normas Oficiales Mexicanas.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2026)</small>
+
+ARTICULO 30 QUATER.- Los hospitales y clínicas del sector privado autorizados para realizar procedimientos obstétricos quirúrgicos que incumplan las disposiciones establecidas por la autoridad sanitaria competente, así como las personas responsables de su operación y funcionamiento, serán sujetos a la aplicación de las medidas de seguridad y sanciones que correspondan, en los términos previstos en esta ley y demás disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 19 DE JUNIO DE 2024)</small>
 
@@ -2479,11 +2487,11 @@ Se sancionará con multa de hasta quinientas veces el valor diario de la Unidad 
 
 Se sancionará con multa de quinientas una hasta mil quinientas veces el valor diario de la Unidad de Medida y Actualización, la infracción de las disposiciones contenidas en los artículos 43, 68, 86, 115, 116, 119, 120 y 149 de esta ley, sin perjuicio de lo que se disponga en otros ordenamientos legales.
 
-> <small>(REFORMADO, P.O. 9 DE MARZO DE 2026)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2026)</small>
 
 ###### ARTICULO 156.
 
-Se sancionará con multa de mil quinientas una hasta diez mil veces el valor diario de la Unidad de Medida y Actualización, la infracción de las disposiciones contenidas en los artículos 45 Ter, 54, 57, 69, 70, 83, 103, 107, 108, 109, 139 y 146 de esta ley, sin perjuicio de lo que se disponga en otros ordenamientos legales.
+Se sancionará con multa de mil quinientas una hasta diez mil veces el valor diario de la Unidad de Medida y Actualización, la infracción de las disposiciones contenidas en los artículos 30 TER, 54, 57, 69, 70, 83, 109, 103, 107, 108, 139 y 146 de esta ley, sin perjuicio de lo que se disponga en otros ordenamientos legales.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -4252,3 +4260,15 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 La Secretaría de Salud del Gobierno del Estado, emitirá en un plazo no mayor a 90 días naturales los lineamientos necesarios para la aplicación de lo dispuesto en el artículo 45 Ter del Artículo Primero del presente Decreto.
+
+P.O. 24 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-1012 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 156 Y SE ADICIONAN LOS ARTÍCULOS 30 TER Y 30 QUÁTER A LA LEY DE SALUD PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las Instituciones privadas que no cuenten con una Unidad de Terapia Intensiva Neonatal dispondrán de un plazo máximo de 12 meses, para cumplir con esta disposición ante la Secretaría de Salud del Estado.
