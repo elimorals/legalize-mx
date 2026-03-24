@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2026-02-27"
+last_updated: "2026-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2026.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -3381,7 +3381,9 @@ Es mejor la posesión que se funda en título, y cuando se trata de inmuebles, l
 
 Si las posesiones fueren dudosas, se pondrá en depósito el bien hasta que se resuelva a quién pertenece la posesión.
 
-ART. 699.- Para que el poseedor tenga derecho al interdicto de recuperar la posesión se necesita que no hayan pasado seis meses desde que se verificó el despojo.
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2026)</small>
+
+ART. 699.- Para que el poseedor tenga derecho al interdicto de recuperar la posesión se necesita que no hayan pasado dos años desde que se verificó el despojo.
 
 ART. 700.- Se reputa como nunca perturbado o despojado, el que judicialmente fue mantenido o restituido en la posesión.
 
@@ -11026,6 +11028,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 27 DE FEBRERO DE 2026.
 
 [N. DE E TRANSITORIO DEL "DECRETO NO. 66-982 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 249, FRACCIÓN V; Y 254, FRACCIÓN V; Y SE ADICIONAN EL PÁRRAFO SEGUNDO, RECORRIÉNDOSE EN SU ORDEN NATURAL EL SUBSECUENTE, AL ARTÍCULO 254; Y EL PÁRRAFO CUARTO AL ARTÍCULO 260, DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1009 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 699, DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS; Y SE REFORMAN LOS ARTÍCULOS 226, FRACCIÓN II; Y 233, PÁRRAFO PRIMERO, FRACCIONES I Y II, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
