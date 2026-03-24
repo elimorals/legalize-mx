@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transito-del-estado-de-tamaulipas-antes-ley-de-8214"
 country: "mx"
 rank: "ley"
 publication_date: "1987-11-30"
-last_updated: "2026-02-17"
+last_updated: "2026-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8214&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el lunes 30 de noviembre de 1987.
 
@@ -115,9 +115,9 @@ j) Sistema de movilidad.- Conjunto de elementos y recursos relacionados directa 
 
 k) Vías estatales de comunicación.- Los caminos, carreteras y puentes en términos de la Ley de Caminos del Estado de Tamaulipas; y
 
-> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 28 DE MAYO DE 2024)</small>
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2026)</small>
 
-l) Zona privada de acceso público.- Son todos aquéllos sitios en los que aún siendo propiedad privada, es factible que pueda transitar por éste cualquier persona o vehículo automotor, de tracción humana o animal, incluidos los accesos, estacionamientos, camellones, glorietas, puentes, banquetas y toda aquélla obra de infraestructura o instalación que sea susceptible de favorecer el tránsito de vehículos o personas, ya sea en tiendas departamentales, de autoservicio o en colonias, fraccionamientos o asentamientos humanos de índole reservada o privada.
+l) Zona privada de acceso público.- Son todos aquéllos sitios en los que aun siendo propiedad privada, es factible que pueda transitar por éste cualquier persona o vehículo automotor, de tracción humana o animal, incluidos los accesos, estacionamientos, camellones, glorietas, puentes, banquetas y toda aquella obra de infraestructura o instalación que sea susceptible de favorecer el tránsito de vehículos o personas, ya sea en tiendas departamentales, de autoservicio o en colonias, fraccionamientos o asentamientos humanos de índole reservada o privada, y respecto de los cuales exista convenio o autorización expresa del propietario para su regulación como vía pública.
 
 > <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
@@ -758,6 +758,14 @@ X. En el supuesto de que el producto no se logre, deberá notificarse de este he
 ###### ARTICULO 26.
 
 Los vehículos estacionados en lugares prohibidos o que obstaculicen el libre tránsito, se retirarán por las autoridades competentes, trasladándolos a depósitos oficiales autorizados.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2026)</small>
+
+Con relación a lo dispuesto en el párrafo anterior y cuando la persona propietaria o conductora del vehículo se encuentre presente en el lugar al momento de que se lleve a cabo la remoción, o acuda antes de que la grúa inicie su traslado, la autoridad y el operador de grúa deberán abstenerse de efectuar el retiro y procederán a bajar la unidad en caso de que ya se encuentre sobre la plataforma, sin realizar cobro alguno por maniobras o arrastre. En este supuesto, únicamente procederá el apercibimiento o la imposición de la infracción correspondiente conforme a la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2026)</small>
+
+Lo dispuesto en el párrafo anterior no será aplicable cuando la persona conductora se encuentre impedida para conducir, derivado de la falta de aptitud o intoxicación comprobada mediante la prueba de alcoholemia u otro medio autorizado.
 
 > <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
@@ -1644,3 +1652,23 @@ P.O. 17 DE FEBRERO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-1008 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS Y DE LA LEY DE TRÁNSITO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Titular del Poder Ejecutivo del Estado de Tamaulipas, por conducto de la Secretaría General de Gobierno, deberá emitir en un plazo no mayor a sesenta días naturales los lineamientos administrativos necesarios para la implementación del presente Decreto.
+
+P.O. 24 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-1010 MEDIANTE EL CUAL SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 26 DE LA LEY DE TRÁNSITO”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial de Estado.
