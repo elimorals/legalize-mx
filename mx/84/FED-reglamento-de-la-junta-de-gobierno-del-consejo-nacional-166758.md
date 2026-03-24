@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-junta-de-gobierno-del-consejo-nacional-166758"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-12-22"
-last_updated: "2024-02-15"
+last_updated: "2026-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166758&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2015-12-21"
 ---
 # REGLAMENTO DE LA JUNTA DE GOBIERNO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACION
 
-> <small>[N. DE E. INFORMACIÓN OBTENIDA DE LA PÁGINA ELECTRÓNICA DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN EN: www.conapred.org.mx.]</small>
+> <small>[N. DE E. REGLAMENTO OBTENIDO DE LA LIGA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: www.dof.gob.mx/2026/CONAPRED/ReglamentodelaJuntadeGobiernodelConapred.pdf]</small>
 
 REGLAMENTO DE LA JUNTA DE GOBIERNO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE MARZO DE 2026.
 
 Reglamento publicado en la Primera sección del Número 18 del Diario Oficial de la Federación, el martes 22 de diciembre de 2015.
 
@@ -89,7 +89,9 @@ V. Representante suplente: Persona que sustituye oficialmente a una persona repr
 
 VI. Reglamento: El Reglamento de la Junta de Gobierno del Consejo Nacional para Prevenir la Discriminación; y,
 
-VII. Secretaría Técnica: La Secretaría Técnica de la Junta de Gobierno del Consejo.
+> <small>(REFORMADA, D.O.F. 24 DE MARZO DE 2026)</small>
+
+VII. Secretaria Técnica: La Secretaria Técnica de la Junta de Gobierno del Consejo.
 
 ### CAPÍTULO TERCERO. DE LA PERSONA TITULAR DE LA PRESIDENCIA DE LA JUNTA DE GOBIERNO
 
@@ -129,15 +131,21 @@ XIV. Las demás que le confiera la Ley, el Estatuto, este Reglamento y otras dis
 
 Las ausencias de la persona titular de la Presidencia de la Junta de Gobierno serán suplidas conforme a lo señalado en el artículo 19 del Estatuto.
 
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 2026)</small>
+
 ###### Artículo 6.
 
-En los casos en los que la persona titular de la Presidencia de la Junta de Gobierno se ausente momentáneamente de la sesión, la persona titular de la Secretaría Técnica la auxiliará en la conducción de la misma, con el propósito de no interrumpir su desarrollo.
+En los casos en los que la persona titular de la Presidencia de la Junta de Gobierno se ausente momentáneamente de la sesión, la persona titular de la Secretaria Técnica la auxiliará en la conducción de la misma, con el propósito de no interrumpir su desarrollo.
 
-### CAPÍTULO CUARTO. DE LA PERSONA TITULAR DE LA SECRETARÍA TÉCNICA DE LA JUNTA DE GOBIERNO
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 24 DE MARZO DE 2026)</small>
+
+### CAPÍTULO CUARTO. DE LA PERSONA TITULAR DE LA SECRETARIA TÉCNICA DE LA JUNTA DE GOBIERNO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE MARZO DE 2026)</small>
 
 ###### Artículo 7.
 
-La Junta de Gobierno contará con una Secretaría Técnica con la finalidad de brindar apoyo técnico y logístico a dicho órgano colegiado, cuya persona titular será quien ocupe la Dirección de Apoyo a Órganos Colegiados y Coordinación Interinstitucional del Consejo, quien actuará en términos de lo dispuesto por el artículo 57 del Estatuto, y tendrá las siguientes funciones:
+La Junta de Gobierno contará con una Secretaria Técnica con la finalidad de brindar apoyo técnico y logístico a dicho órgano colegiado, cuya persona titular será quien ocupe la Subdirección de Gestión y Apoyo a Órganos Colegiados del Consejo, quien actuará en términos de lo dispuesto por el artículo 59 del Estatuto, y tendrá las siguientes funciones:
 
 I. Elaborar el proyecto del orden del día de cada sesión;
 
@@ -157,9 +165,11 @@ VIII. Coordinar el archivo físico y electrónico de todas las actas, acuerdos y
 
 IX. Las demás que le confiera la Ley, el Estatuto, este Reglamento y otras disposiciones que resulten aplicables.
 
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 2026)</small>
+
 ###### Artículo 8.
 
-Las ausencias de la persona titular de la Secretaría Técnica a las sesiones de la Junta de Gobierno serán cubiertas por la persona titular de alguna de las Direcciones Generales Adjuntas del Consejo, previa designación de la persona titular de la Presidencia del mismo.
+Las ausencias de la persona titular de la Secretaria Técnica a las sesiones de la Junta de Gobierno serán cubiertas por la persona titular de alguna de las Direcciones Generales Adjuntas del Consejo, previa designación de la persona titular de la Presidencia del mismo.
 
 ### CAPÍTULO QUINTO. DE LAS PERSONAS INTEGRANTES DE LA JUNTA DE GOBIERNO
 
@@ -167,7 +177,9 @@ Las ausencias de la persona titular de la Secretaría Técnica a las sesiones de
 
 Las personas integrantes de la Junta de Gobierno tendrán las siguientes atribuciones:
 
-I. Asistir a las sesiones de la Junta de Gobierno de forma presencial, por sí o a través de su suplente;
+> <small>(REFORMADA, D.O.F. 24 DE MARZO DE 2026)</small>
+
+I. Asistir a las sesiones de la Junta de Gobierno de forma presencial o mediante el uso de tecnologías de la información y comunicación, por sí o a través de su suplente;
 
 II. Notificar a la Presidencia de la Junta de Gobierno, a través de escrito oficial, y en ejercicio de las atribuciones que le correspondan en caso de ser representante titular del Poder Ejecutivo Federal, la designación por única ocasión, de una persona representante suplente para que asista en su lugar a las sesiones de la Junta de Gobierno en los casos en los que no pueda acudir personalmente, respetando el nivel que determina el artículo 23 de la Ley;
 
@@ -181,7 +193,9 @@ VI. Emitir su voto en los asuntos que lo requieran;
 
 VII. Poder disentir del acuerdo que adopte la mayoría y solicitar que su opinión particular se inserte en el acta;
 
-VIII. Emitir observaciones al proyecto de acta que exponga la Secretaría Técnica, así como aprobar el mismo;
+> <small>(REFORMADA, D.O.F. 24 DE MARZO DE 2026)</small>
+
+VIII. Emitir observaciones al proyecto de acta que exponga la Secretaria Técnica, así como aprobar el mismo;
 
 IX. Firmar las actas de las sesiones que apruebe la Junta de Gobierno, y
 
@@ -215,7 +229,9 @@ En el caso de las personas representantes de la Asamblea ante la Junta de Gobier
 
 Son atribuciones de las personas invitadas permanentes de la Junta de Gobierno las siguientes:
 
-I. Asistir a las sesiones de la Junta de Gobierno de forma presencial, por sí o a través de su suplente;
+> <small>(REFORMADA, D.O.F. 24 DE MARZO DE 2026)</small>
+
+I. Asistir a las sesiones de la Junta de Gobierno de forma presencial o mediante el uso de tecnologías de la información y comunicación, por sí o a través de su suplente;
 
 II. Designar, de ser el caso, a una persona representante suplente para que asista en su lugar a las sesiones de la Junta de Gobierno, cuando no pueda acudir personalmente;
 
@@ -223,7 +239,9 @@ III. Analizar, previo a cada sesión, el orden del día y el contenido de los do
 
 IV. Participar libremente en las discusiones sobre los asuntos y temas que se traten en las sesiones;
 
-V. Emitir observaciones al proyecto de acta que exponga la Secretaría Técnica;
+> <small>(REFORMADA, D.O.F. 24 DE MARZO DE 2026)</small>
+
+V. Emitir observaciones al proyecto de acta que exponga la Secretaria Técnica;
 
 VI. Firmar las actas de las sesiones que apruebe la Junta de Gobierno, y
 
@@ -297,11 +315,17 @@ Cualquiera que sea el tipo de suspensión, se hará constar dicha situación en 
 
 Los diferimientos de sesiones por horas serán formalizados por la persona titular de la Presidencia de la Junta de Gobierno ante las personas que se encontraren presentes.
 
-Por su parte, en los casos de diferimiento de la sesión por falta de quórum o por suspensión de la misma por cuestión de días, la Secretaría Técnica informará la nueva fecha para la celebración de la sesión a través de correo electrónico, incluyendo a las personas que no asistieron, a más tardar en los dos días hábiles siguientes del anuncio formulado por la Presidencia de la Junta de Gobierno.
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 2026)</small>
 
-Sin perjuicio de lo señalado en el párrafo anterior, la Secretaría Técnica estará en posibilidad de enviar recordatorios, a través de correo electrónico, a las personas integrantes, personas invitadas permanentes e invitadas de la Junta de Gobierno, una vez que se aproxime la nueva fecha en que se celebrará o continuará la sesión.
+Por su parte, en los casos de diferimiento de la sesión por falta de quórum o por suspensión de la misma por cuestión de días, la Secretaria Técnica informará la nueva fecha para la celebración de la sesión a través de correo electrónico, incluyendo a las personas que no asistieron, a más tardar en los dos días hábiles siguientes del anuncio formulado por la Presidencia de la Junta de Gobierno.
 
-La Secretaría Técnica podrá adoptar una forma de envío diversa a la prevista en el presente artículo, acorde con los avances en los sistemas y las tecnologías de la información y la comunicación, cuando el caso lo amerite.
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 2026)</small>
+
+Sin perjuicio de lo señalado en el párrafo anterior, la Secretaria Técnica estará en posibilidad de enviar recordatorios, a través de correo electrónico, a las personas integrantes, personas invitadas permanentes e invitadas de la Junta de Gobierno, una vez que se aproxime la nueva fecha en que se celebrará o continuará la sesión.
+
+> <small>(REFORMADO, D.O.F. 24 DE MARZO DE 2026)</small>
+
+La Secretaria Técnica podrá adoptar una forma de envío diversa a la prevista en el presente artículo, acorde con los avances en los sistemas y las tecnologías de la información y la comunicación, cuando el caso lo amerite.
 
 ###### Artículo 27.
 
@@ -348,3 +372,21 @@ Para efectos de su difusión, se ordena su publicación en el Diario Oficial de 
 Se informa a las autoridades y sociedad en general que dicha normativa ha sido registrada ante el Sistema de Administración de Normas Internas de la Administración Pública Federal de la Secretaría de la Función Pública.
 
 Ciudad de México a, 31 de enero de 2024.- Presidenta del Consejo Nacional para Prevenir la Discriminación, Claudia Olivia Morales Reza.- Rúbrica.
+
+D.O.F. 24 DE MARZO DE 2026.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRANSCRIBE EL PUNTO ÚNICO DEL ACUERDO, QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+ÚNICO. Se comunica a las personas servidoras públicas y público en general, para todos los efectos legales y administrativos a que haya lugar, la dirección electrónica donde se encuentra disponible para su consulta la actualización del Manual de Organización General, del Reglamento de la Junta de Gobierno, así como toda la normatividad vigente del Consejo Nacional para Prevenir la Discriminación (Conapred) en el portal web https://www.conapred.gob.mx/normatividad, así como en: www.dof.gob.mx/2026/CONAPRED/ManualdeOrganizacionGeneraldelConapred.pdf y www.dof.gob.mx/2026/CONAPRED/ReglamentodelaJuntadeGobiernodelConapred.pdf
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE DAN A CONOCER LA ACTUALIZACIÓN DEL MANUAL DE ORGANIZACIÓN GENERAL, LA ACTUALIZACIÓN DEL REGLAMENTO DE LA JUNTA DE GOBIERNO Y EL ENLACE QUE CONTIENE LA NORMATIVIDAD VIGENTE, TODOS DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN”.]
+
+PRIMERO. Se comunica a las personas servidoras públicas y al público en general, que se abroga cualquier disposición emitida con anterioridad, que se oponga a lo señalado por los documentos que se actualizan.
+
+SEGUNDO. El presente Acuerdo, entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+## TRANSITORIOS
+
+PRIMERO.- Con fundamento en el artículo 24, fracciones I de la Ley Federal para Prevenir y Eliminar la Discriminación, se aprueba la propuesta de armonización del Reglamento de la Junta de Gobierno del Conapred de fecha 12 de febrero de 2026, relativa al cambio de denominación del cargo de la Persona Titular de la Secretaria Técnica de La Junta De Gobierno.
+
+SEGUNDO.- En seguimiento a lo anterior, se instruye a la Presidenta del Consejo Nacional para Prevenir la Discriminación la publicación del Reglamento de la Junta de Gobierno, en el Diario Oficial de la Federación, aprobado en su Primera Sesión Ordinaria 2026, para que surta los efectos legales correspondientes.
