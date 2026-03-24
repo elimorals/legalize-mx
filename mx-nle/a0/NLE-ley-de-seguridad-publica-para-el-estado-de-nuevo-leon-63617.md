@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-seguridad-publica-para-el-estado-de-nuevo-leon-63617"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-22"
-last_updated: "2026-02-27"
+last_updated: "2026-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de septiembre de 2008.
 
@@ -84,6 +84,10 @@ IV. Comités Comunitarios: los Comités de Participación Comunitaria;
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 1 DE ABRIL DE 2016)</small>
 
 V. Sistema de Video Vigilancia: Conjunto de acciones, instrumentos, procedimientos, mecanismos, normas e instituciones utilizadas para la Video vigilancia en el Estado de Nuevo León.
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2026)</small>
+
+V Bis. Cámara Corporal: Dispositivo electrónico de audio, video fotografía que podrán portar y activar los elementos de Seguridad Pública Estatal y Municipal.
 
 VI. Consejo Ciudadano: el Consejo Ciudadano de Seguridad Pública del Estado;
 
@@ -163,9 +167,17 @@ IV. Optimizar la labor de las instituciones policiales en el combate a la delinc
 
 V. Lograr la plena reinserción social de los delincuentes y de los adolescentes infractores sujetos a programas de adaptación;
 
-VI. Promover que los ciudadanos y la población en general incrementen su confianza en las instituciones que realizan tareas de seguridad pública; y
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2026)</small>
 
-VII. Coordinar los diferentes ámbitos de gobierno para asegurar el cumplimiento de los mecanismos de colaboración.
+VI. Promover que los ciudadanos y la población en general incrementen su confianza en las instituciones que realizan tareas de seguridad pública;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2026)</small>
+
+VII. Coordinar los diferentes ámbitos de gobierno para asegurar el cumplimiento de los mecanismos de colaboración; y
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2026)</small>
+
+VIII. Elaborar acciones afirmativas y preventivas para atender la violencia contra la mujer, así como aquellos delitos cometidos en contra de las mujeres por razones de género y la erradicación de los feminicidios.
 
 ###### Artículo 6.
 
@@ -184,6 +196,10 @@ a) Prevención del delito;
 b) Reinserción social; e
 
 c) Internamiento y adaptación de adolescentes infractores;
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2026)</small>
+
+d) Atención especializada a mujeres víctimas de violencia o delito.
 
 IV. Las demás instancias auxiliares.
 
@@ -325,9 +341,13 @@ V. Los lineamientos para el estudio de situaciones de riesgo que incluya la emis
 
 VI. Los lineamientos para desarrollar la planeación operativa de los cuerpos de seguridad pública estatales y municipales y la estructura para su articulación;
 
-VII. El establecimiento de indicadores para la evaluación y seguimiento de resultados, considerando los mecanismos de generación, clasificación y manejo de información estadística y documental, determinando sus niveles de confidencialidad o transparencia, según sea el caso;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2026)</small>
 
-VIII. Los criterios para llevar a cabo la evaluación autónoma externa y calificada;
+VII. El establecimiento de indicadores para la evaluación y seguimiento de resultados, objetivos y metas cumplidas considerando los mecanismos de generación, clasificación y manejo de información estadística y documental, determinando sus niveles de confidencialidad o transparencia, según sea el caso;
+
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2026)</small>
+
+VIII. Los criterios para llevar a cabo la evaluación anual autónoma externa y calificada;
 
 IX. Los criterios en materia de infraestructura y equipamiento;
 
@@ -337,9 +357,15 @@ XI. Los programas municipales; y
 
 XII. Los determinados por el Consejo de Coordinación.
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2026)</small>
+
 ###### Artículo 17.
 
-El Instituto pondrá a consideración del Consejo de Coordinación y de los Consejos Municipales e Intermunicipales el Programa Estatal para su respectiva validación; y será sometido a la aprobación del Ejecutivo del Estado y posteriormente publicado en el Periódico Oficial. Este Programa se revisará anualmente y deberá considerarse en la asignación presupuestaria correspondiente.
+El Instituto pondrá a consideración del Consejo de Coordinación y de los Consejos Municipales e Intermunicipales el Programa Estatal para su respectiva validación; y será sometido a la aprobación del Ejecutivo del Estado y posteriormente publicado en el Periódico Oficial. Este Programa se revisará y evaluará anualmente y deberá considerarse en la asignación presupuestaria correspondiente.
+
+El Instituto informará anualmente al Congreso del Estado los resultados y avances del Programa, sin perjuicio de su atribución para recabar información y dar seguimiento a casos en los términos de la Ley, garantizando la protección de los datos personales conforme a la normatividad aplicable.
+
+El Congreso del Estado, a través de la Comisión correspondiente y del Pleno evaluará los avances y remitirá sus observaciones al Instituto.
 
 ### CAPÍTULO CUARTO. DE LA INFORMACIÓN ESTATAL DE SEGURIDAD PÚBLICA
 
@@ -455,9 +481,9 @@ XII. Relaciones con la comunidad y fomento de la cultura de prevención de infra
 
 XIII. Las relacionadas con las anteriores que sean necesarias para incrementar la eficacia de las medidas y acciones tendientes a alcanzar los fines de la seguridad pública; y
 
-> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2025)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2026)</small>
 
-XIV. Las acciones enfocadas a la prevención y el combate de delitos de mayor gravedad que atenten contra la seguridad de las personas.
+XIV. Las acciones adoptadas para prevenir delitos contra las mujeres y los feminicidios.
 
 La coordinación se hará en los términos del Artículo 21, décimo párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
 
@@ -511,9 +537,11 @@ Las autoridades correspondientes, contarán con protocolos de acción, reacción
 
 ### CAPÍTULO SEGUNDO. DEL CONSEJO DE COORDINACIÓN DEL SISTEMA INTEGRAL DE SEGURIDAD PÚBLICA DEL ESTADO
 
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2026)</small>
+
 ###### Artículo 33.
 
-El Consejo de Coordinación, es la instancia interinstitucional de coordinación interna y de enlace con la federación, que tiene por objeto la planeación y supervisión de los diversos sistemas que conforman la Seguridad Pública del Estado de Nuevo León.
+El Consejo de Coordinación, es la instancia interinstitucional de coordinación interna y de enlace con la federación, que tiene por objeto la planeación y supervisión de los diversos sistemas que conforman la Seguridad Pública del Estado de Nuevo León, así como de la planeación y definición de políticas públicas en seguridad ciudadana.
 
 ###### Artículo 34.
 
@@ -545,15 +573,27 @@ VII. El Presidente de la Comisión de Justicia y Seguridad Pública del H. Congr
 
 VIII. El Titular del Instituto Estatal de Seguridad Pública;
 
-> <small>(REFORMADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2026)</small>
 
-IX. El Presidente Ejecutivo del Consejo Ciudadano de Seguridad Pública del Estado de Nuevo León; y
+IX. El Presidente Ejecutivo del Consejo Ciudadano de Seguridad Pública del Estado de Nuevo León;
 
-> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2026)</small>
 
-X. Un Secretario Ejecutivo, quien será el servidor público que designe el Presidente del Consejo de Coordinación.
+X. Un Secretario Ejecutivo, quien será el servidor público que designe el Presidente del Consejo de Coordinación;
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2026)</small>
+
+XI. A la persona titular de la Agencia de Administración Penitenciaria; y
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2026)</small>
+
+XII. Al Coordinador de la Guardia Nacional en el Estado, como invitado permanente.
 
 A invitación podrán asistir con voz y sin voto cualquier funcionario federal, estatal o municipal, persona física o representante de persona moral privada nacional o extranjera que por su experiencia, conocimiento, función, o pericia se considere procedente su asistencia.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2026)</small>
+
+Cuando ocurran hechos delictivos de alto impacto y/o la percepción ciudadana de inseguridad sea alta según la encuesta en la materia emitida por el Instituto Nacional de Estadística y Geografía, las personas titulares integrantes del Consejo de Coordinación, deberán acudir obligatoriamente a las sesiones respectivas que les sean convocadas.
 
 ###### Artículo 35.
 
@@ -916,6 +956,12 @@ X. Graficar la información que se genera con la realización de estudios o encu
 ###### Artículo 57 Bis 4.
 
 El Instituto realizará y promoverá estudios de investigación criminológica con el propósito de facilitar la comprensión del fenómeno delictivo, de las conductas antisociales y de las infracciones administrativas. Así mismo, establecerá los lineamientos para la aplicación de encuestas de victimización y de técnicas específicas para la cuantificación de delitos no denunciados ni reportados a las Instituciones Policiales.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2026)</small>
+
+###### Artículo 57 Bis 5.
+
+El Instituto realizará de manera proactiva estudios de investigación criminológica y psicológica con el propósito de facilitar acciones afirmativas en prevención de violencia y delitos en contra de las mujeres.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 28 DE OCTUBRE DE 2010)</small>
 
@@ -1287,13 +1333,17 @@ II.- Facilitar el intercambio operativo de la información entre las diversas in
 
 III.- Atender y dar seguimiento a las llamadas ciudadanas sobre denuncia anónima canalizándolas a las autoridades de seguridad pública que sean competentes para su atención y, en su caso, resolución final;
 
-> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2026)</small>
 
-IV.- Proveer el uso de instrumentos de información operativa, táctica y estratégica para coordinar y facilitar el despliegue operativo policial; y
+IV.- Proveer el uso de instrumentos de información operativa, táctica y estratégica para coordinar y facilitar el despliegue operativo policial;
 
-> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2026)</small>
 
-V.- Establecer las bases para el funcionamiento del Sistema de Video Vigilancia, así como los lineamientos o manuales de procedimiento a seguir para proporcionar la información obtenida por las videograbaciones de conformidad, con los acuerdos generales, convenios y demás disposiciones aplicables a la materia y la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León.
+V.- Establecer las bases para el funcionamiento del Sistema de Video Vigilancia, así como los lineamientos o manuales de procedimiento a seguir para proporcionar la información obtenida por las videograbaciones de conformidad, con los acuerdos generales, convenios y demás disposiciones aplicables a la materia y la Ley de Transparencia y Acceso a la Información del Estado de Nuevo León, y
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2026)</small>
+
+VI.- Procurar que el personal operativo en funciones utilice la cámara corporal para el cumplimiento de su encargo.
 
 ###### Artículo 83.
 
@@ -1371,6 +1421,12 @@ Los programas tenderán a lograr un efecto multiplicador fomentando la participa
 
 Las autoridades de Seguridad Pública del Estado, de los Municipios y sus instancias auxiliares promoverán la protección de las personas y de sus bienes en todos sus aspectos y deberán incluir acciones a favor de personas con capacidades diferentes, menores de edad y las que se encaminen a salvaguardar los derechos de personas que en razón de su sexo, preferencia sexual, edad, condición social, religiosa o étnica sean objeto de discriminación o rechazo.
 
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2026)</small>
+
+###### Artículo 93 Bis.
+
+Las autoridades de seguridad pública del Estado y de los Municipios promoverán en sus programas de prevención del delito, acciones coordinadas con la Secretaría de Educación para que los planteles escolares cuenten con sistemas de video vigilancia que podrán estar vinculados al Centro de Coordinación Integral, Control, Comando, Comunicaciones y Cómputo del Estado y los de los municipios.
+
 ###### Artículo 94.
 
 En lo que corresponde al diseño de programas de prevención del delito enfocados a evitar la victimización, deberán estar a lo dispuesto en este ordenamiento, en la Ley de Atención y Apoyo a las Víctimas y a los Ofendidos de Delitos y a las demás disposiciones aplicables en la materia.
@@ -1431,7 +1487,9 @@ VIII. Cuatro ciudadanos representantes de Organizaciones No Gubernamentales;
 
 El Congreso del Estado convocará a las organizaciones, asociaciones e instituciones a que se refiere el párrafo anterior, las cuales deberán estar constituidas legalmente y contar con mayor representatividad social; a efecto de que propongan a sus representantes, los cuales preferentemente deberán contar con algún conocimiento en materia de seguridad pública y no haber ocupado ningún cargo público de elección, de designación o de índole partidista en los últimos cuatro años anteriores a la fecha de su designación; sus cargos serán honoríficos y el nombramiento se hará con la aprobación de las dos terceras partes de los integrantes del Congreso del Estado y será por cuatro años, con la posibilidad de repetir en su cargo por un período más, previa ratificación que haga el Congreso.
 
-La Comisión de Justicia y Seguridad Pública del Congreso del Estado emitirá un dictamen señalando las personas propuestas que cumplen los requisitos, el cual someterá a la consideración del Pleno para que éste haga el nombramiento correspondiente.
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2026)</small>
+
+La Comisión de Justicia y Seguridad Pública del Congreso del Estado emitirá un dictamen señalando las personas propuestas que cumplen los requisitos, el cual someterá a la consideración del Pleno para que éste haga el nombramiento correspondiente, observando el principio de paridad de género y alternancia.
 
 ###### Artículo 101.
 
@@ -1725,15 +1783,21 @@ La Policía Municipal estará bajo el mando del Presidente Municipal, en los té
 
 El Ejecutivo del Estado podrá celebrar convenios con los Municipios del Estado, previa aprobación de los Ayuntamientos correspondientes, para que a solicitud de éstos de manera directa las autoridades de Seguridad Pública del Estado se hagan cargo de manera temporal de la prestación del servicio público de policía, o bien se preste coordinadamente entre ambos niveles de gobierno, conforme a las prescripciones que prevé esta Ley y en los términos del convenio respectivo.
 
-> <small>(REFORMADO, P.O. 19 DE ENERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE MARZO DE 2026)</small>
 
 ###### Artículo 126.
 
-Las Instituciones Policiales deberán desempeñar sus actividades en condiciones que hagan visible y notoria su identidad y presencia, portando el uniforme respectivo, las insignias y la identificación que corresponda. Los vehículos deberán estar plenamente identificados con los emblemas oficiales y los números de identificación de unidad.
+Las Instituciones Policiales deberán desempeñar sus actividades en condiciones que hagan visible y notoria su identidad y presencia, portando el uniforme respectivo, las insignias, la identificación, y en su caso, la cámara corporal correspondiente. Los vehículos deberán estar plenamente identificados con los emblemas oficiales y los números de identificación de unidad.
 
-En el uso de emblemas, uniformes y demás insignias deberán cumplir con la normatividad y manuales de identidad que para ello se establezca.
+> <small>(REFORMADO, P.O. 24 DE MARZO DE 2026)</small>
+
+En el uso de emblemas, uniformes, insignias y en su caso, cámara corporal respectiva, deberán cumplir con la normatividad y manuales de identidad que para ello se establezca.
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2013)</small>
 
 Sólo los elementos de las Instituciones Policiales Estatales que ejerzan técnicas especiales de investigación quedan exceptuados de lo prescrito en el párrafo anterior, pero en todo caso, su asignación al área de investigación sólo será autorizada por el Secretario de Seguridad Pública en el Estado.
+
+> <small>(REFORMADO, P.O. 19 DE ENERO DE 2013)</small>
 
 Los funcionarios o servidores públicos que contraviniendo esta disposición, ejerzan funciones que no les correspondan, serán sancionados conforme al Código Penal vigente en el Estado.
 
@@ -2179,7 +2243,9 @@ XXI. Respetar a sus subordinados y ser ejemplo de honradez, disciplina, honor, l
 
 XXII. Preservar el secreto de los asuntos que por razón del desempeño de su función tengan conocimiento, ajustándose a las excepciones que determinen las Leyes;
 
-XXIII. Usar los uniformes e insignias de manera visible y notoria con las características y especificaciones que para el efecto se determinen;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2026)</small>
+
+XXIII. Usar los uniformes, insignias y en su caso, cámaras corporales de manera visible y notoria con las características y especificaciones que para el efecto se determinen;
 
 XXIV. Abstenerse de fomentar cualquier conducta individual o colectiva que afecte o sea contraria al correcto desempeño de sus atribuciones de brindar a la comunidad las tareas de seguridad y protección a que se refiere esta Ley;
 
@@ -2193,7 +2259,9 @@ XXVIII. Llevar consigo su porte de armas vigente, cuando esté en servicio;
 
 XXIX. Abstenerse de rendir informes falsos a sus superiores respecto del desempeño de sus funciones;
 
-XXX. Usar y mantener en buen estado el equipo móvil, radiotransmisor, arma de cargo, municiones, uniforme, insignias, identificaciones, chaleco, tolete y demás instrumento táctico-policial que le sea proporcionado por la corporación a la que pertenezcan, destinándolo exclusivamente al cumplimiento de sus funciones, evitando un uso indebido del mismo;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2026)</small>
+
+XXX. Usar y mantener en buen estado el equipo móvil, radiotransmisor, arma de cargo, municiones, uniforme, insignias, identificaciones, chaleco y en su caso, cámaras corporales, tolete y demás instrumento táctico-policial que le sea proporcionado por la corporación a la que pertenezcan, destinándolo exclusivamente al cumplimiento de sus funciones, evitando un uso indebido del mismo;
 
 XXXI. Respetar las reglas de tránsito y usar las sirenas, luces y altavoz del vehículo a su cargo sólo en casos de emergencia; y
 
@@ -4104,3 +4172,15 @@ P.O. 27 DE FEBRERO DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 187. SE REFORMAN LA FRACCIÓN XII DEL ARTÍCULO 32, LAS FRACCIONES XXIII Y XXIV DEL ARTÍCULO 38, LA FRACCIÓN I DEL ARTÍCULO 128; Y SE ADICIONA UNA FRACCIÓN XXV AL ARTÍCULO 38; TODOS DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 191. SE REFORMAN LAS FRACCIONES VI Y VII DEL ARTÍCULO 5; LAS FRACCIONES VII Y VIII DEL ARTÍCULO 16; EL ARTÍCULO 17; LA FRACCIÓN XIV DEL ARTÍCULO 32; EL ARTÍCULO 33; LA FRACCIÓN IX Y X DEL ARTÍCULO 34; LAS FRACCIONES V Y VI DEL ARTÍCULO 82; EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 100 Y EL PRIMER Y SEGUNDO PÁRRAFO DEL ARTÍCULO 126; Y SE ADICIONAN UNA FRACCIÓN V BIS AL ARTÍCULO 3; UNA FRACCIÓN VIII AL ARTÍCULO 5; UN INCISO D) A LA FRACCIÓN III DEL ARTÍCULO 6; UNA FRACCIÓN XIV AL ARTÍCULO 32; LAS FRACCIONES XI Y XII Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 34; UN ARTÍCULO 57 BIS 5; UNA FRACCIÓN VI AL ARTÍCULO 82 Y UN ARTÍCULO 93 BIS; TODOS DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN".]
+
+PRIMERO.- El presente Decreto, entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La utilización de cámaras corporales de los elementos de seguridad conforme lo establecen los artículos 82 fracción VI, 126 y 155 Fracción XXIII y XXX, se realizará de la siguiente manera:
+
+a) Las Instituciones Policiales del Estado y de los municipios con una población mayor a 50,000 habitantes, contarán con un plazo de 4 años a partir de la entrada en vigor del presente Decreto para cumplimentar dichas disposiciones.
+
+b) Las Instituciones policiales de los municipios con una población menor a 50,000 habitantes contarán con un plazo de 6 años a partir de la entrada en vigor del presente Decreto para cumplimentar dichas disposiciones.
