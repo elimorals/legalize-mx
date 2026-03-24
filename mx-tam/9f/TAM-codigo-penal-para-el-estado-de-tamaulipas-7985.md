@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2026-03-17"
+last_updated: "2026-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -2839,13 +2839,17 @@ XI.- Otorgue cualquier identificación en que se acredite como servidor público
 
 XII.- Obligue al inculpado a declarar, usando la incomunicación o la intimidación;
 
-> <small>(REFORMADA, P.O. 8 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2026)</small>
 
-XIII.- Obligue a declarar a las personas que por disposición legal deben guardar secreto, acerca de la información obtenida con motivo del desempeño de su actividad; y
+XIII.- Obligue a declarar a las personas que por disposición legal deben guardar secreto, acerca de la información obtenida con motivo del desempeño de su actividad;
 
-> <small>(ADICIONADA, P.O. 8 DE JUNIO DE 2017)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2026)</small>
 
-XIV.- Omita el registro de la detención correspondiente o dilate injustificadamente poner al detenido a disposición.
+XIV.- Omita el registro de la detención correspondiente o dilate injustificadamente poner al detenido a disposición; y
+
+> <small>(ADICIONADA, P.O. 24 DE MARZO DE 2026)</small>
+
+XV.- Retarde o niegue sin causa justificada la entrega de un cadáver a las víctimas indirectas del delito de feminicidio.
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 23 DE OCTUBRE DE 2018)</small>
 
@@ -3065,7 +3069,9 @@ Comete el delito de ejercicio abusivo de funciones:
 
 I.- El servidor público que en el desempeño de su empleo, cargo o comisión, ilícitamente otorgue por sí o por interpósita persona, contratos, concesiones, permisos, licencias, autorizaciones, franquicias, exenciones o efectúe compras o ventas o realice cualquier acto jurídico que produzca beneficios económicos al propio servidor público, a su cónyuge, descendiente o ascendiente, parientes por consanguinidad o afinidad hasta el cuarto grado, a cualquier tercero con el que tenga vínculos afectivos, económicos o de dependencia administrativa directa, socios o sociedades de las que el servidor público o las personas antes referidas formen parte;
 
-II.- El servidor público que valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no materia de sus funciones y que no sea del conocimiento público, haga por sí o por interpósita persona, inversiones, enajenaciones o adquisiciones, o cualquier otro acto que le produzca algún beneficio económico indebido al servidor público o alguna de las personas mencionadas en la primera fracción;
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2026)</small>
+
+II.- El servidor público que valiéndose de la información que posea por razón de su empleo, cargo o comisión, sea o no materia de sus funciones y que no sea del conocimiento público, haga por sí o por interpósita persona, inversiones, enajenaciones o adquisiciones, o cualquier otro acto lícito o ilícito que le produzca algún beneficio económico indebido al servidor público o alguna de las personas mencionadas en la fracción anterior;
 
 III.- El servidor público que por sí o por interpósita persona, sustraiga, destruya, oculte, utilice o inutilice ilícitamente información o documentación que se encuentre bajo su custodia o a la cual tenga acceso o de la que tenga conocimiento en virtud de su empleo, cargo o comisión.
 
@@ -3333,13 +3339,13 @@ LIV.- Al que, de forma indebida difunda, entregue, revele, publique, transmita, 
 
 Al responsable en la comisión de los delitos previstos en el artículo anterior, se le sancionará:
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2026)</small>
 
-I.- A quien cometa los delitos previstos en las fracciones I, II, III, VII, VIII, IX, X, XIV, XX, XXV, XXVI, XLV y XLVI se le impondrá pena de prisión de tres a ocho años y de treinta a mil cien veces el valor diario de la Unidad de Medida y Actualización;
+I.- A quien cometa los delitos previstos en las fracciones I, II, III, VII, IX, X, XIV, XX, XXV, XXVI, XLV y XLVI se le impondrá pena de prisión de tres a ocho años y de treinta a mil cien veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2026)</small>
 
-II.- A quien cometa los delitos previstos en las fracciones IV, V, VI, XI, XII, XV, XVI, XVII, XVIII, XIX, XXI, XXII, XXIII, XXIV, XXXIX, XLI, XLII, XLIII, XLIV, XLVII, XLVIII, XLIX, L, LI, LII y LIII se le impondrá pena de prisión de cuatro a diez años y de cien a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización; y
+II.- A quien cometa los delitos previstos en las fracciones IV, V, VI, VIII, XI, XII, XV, XVI, XVII, XVIII, XIX, XXI, XXII, XXIII, XXIV, XXXIX, XLI, XLII, XLIII, XLIV, XLVII, XLVIII, XLIX, L, LI, LII y LIII se le impondrá pena de prisión de cuatro a diez años y de cien a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización; y
 
 > <small>(ADICIONADA, P.O. 13 DE JUNIO DE 2023)</small>
 
@@ -4047,9 +4053,9 @@ Las penas previstas en los Artículos 268, 271, 274 y 275 se aumentarán hasta l
 
 I.- El delito fuere cometido por un ascendiente contra su descendiente, éste contra aquél, el hermano contra su colateral, el tutor contra su pupilo, el amasio o concubino contra los descendientes de su amasia o concubina. Además de la pena de prisión el culpable perderá el derecho de la patria potestad o de tutela que ejerciere sobre la víctima;
 
-> <small>(REFORMADA, P.O. 12 DE FEBRERO DE 2026)</small>
+> <small>(REFORMADA, P.O. 24 DE MARZO DE 2026)</small>
 
-II.- El delito fuere cometido por quien desempeñe un cargo o empleo público o ejerza su profesión, utilizando los medios o circunstancia que ellos le proporcionen. Además de la pena de prisión el sentenciado será destituido del cargo o empleo o suspendido por el término de uno a cinco años en el ejercicio de dicha profesión, dicho término se duplicará en el caso de que el delito fuere cometido por profesionistas que se desempeñen en atención o servicio de niñas, niños y adolescentes.
+II.- El delito fuere cometido por quien desempeñe un cargo o empleo público o ejerza su profesión, utilizando los medios o circunstancia que ellos le proporcionen. Además de la pena de prisión el sentenciado será destituido del cargo o empleo o suspendido de uno a cinco años en el ejercicio de dicha profesión, dicho término, se duplicará en el caso de que el delito fuere cometido por profesionistas que se desempeñen en atención o servicio de niñas, niños y adolescentes;
 
 > <small>(REFORMADA, P.O. 2 DE ABRIL DE 2024)</small>
 
@@ -8260,3 +8266,39 @@ P.O. 17 DE MARZO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-1007 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS; Y DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Fiscalía General de Justicia del Estado de Tamaulipas contará con un plazo de noventa días hábiles para la emisión de los protocolos de actuación ministerial para los delitos de feminicidio y homicidio. Asimismo, contará con un plazo de ciento ochenta días hábiles, contados a partir de la fecha de entrada en vigor de este Decreto, para la emisión de los demás protocolos de actuación ministerial a los delitos aludidos en el Artículo Segundo de este Decreto. En ningún caso habrá lugar a prórrogas.
+
+###### ARTÍCULO TERCERO.
+
+Para la emisión de los protocolos de actuación ministerial dispuestos en el Artículo Segundo de este Decreto, la persona Titular de la Fiscalía General de Justicia del Estado de Tamaulipas deberá enviar la propuesta de protocolo a la Comisión Estatal de Atención a Víctimas de Tamaulipas treinta días hábiles antes del vencimiento del plazo dispuesto en el Artículo Segundo Transitorio de este Decreto. Asimismo, la Comisión Estatal de Atención a Víctimas de Tamaulipas contará con quince días hábiles para emitir sus recomendaciones no vinculantes y la Fiscalía General de Justicia del Estado contará con los quince días hábiles restantes para determinar si incluye o no algunas de estas recomendaciones no vinculantes. Posterior a dicha fecha, pasará a su publicación en el Periódico Oficial del Estado. En ningún caso habrá lugar a prórrogas.
+
+###### ARTÍCULO CUARTO.
+
+El procedimiento para adicionar, derogar o modificar las disposiciones contenidas en los protocolos de actuación ministerial será el mismo que el dispuesto en los Artículos Segundo y Tercero de este Decreto.
+
+P.O. 24 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1009 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 699, DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS; Y SE REFORMAN LOS ARTÍCULOS 226, FRACCIÓN II; Y 233, PÁRRAFO PRIMERO, FRACCIONES I Y II, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1011 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 277, FRACCIÓN II, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial de (sic) Estado.
