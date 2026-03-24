@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-fiscalia-general-de-justicia-del-estado-1377
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-08-20"
-last_updated: "2025-12-15"
+last_updated: "2026-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=137774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2026.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 20 de agosto de 2019.
 
@@ -406,6 +406,46 @@ XXXIX. Ejercer las demás facultades que le confiera la Constitución General, l
 ###### Artículo 16.
 
 Corresponde a la persona titular de la Fiscalía General ejercer en forma personal y directa las atribuciones indelegables señaladas en las fracciones I, V, VI, VII, VIII, IX, XI, XII, XIII, XIV, XX, XXIII, XXVI, XXVIII, XXIX, XXXII y XXXVI del artículo 15 de esta Ley y las demás que prevean otras disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2026)</small>
+
+Conforme al párrafo segundo del artículo 19 de la Constitución Política del Estado de Tamaulipas, corresponde a la persona titular de la Fiscalía General ejercer personal y directamente la facultad de establecer protocolos de actuación e intervención en ciertos delitos, cuya creación será obligatoria en el caso de delitos que ameritan prisión preventiva oficiosa, conforme el artículo 167 del Código Nacional de Procedimientos Penales.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES E INCISOS], P.O. 24 DE MARZO DE 2026)</small>
+
+En el caso de los delitos de feminicidio y homicidio en todas sus modalidades, el protocolo de actuación ministerial deberá establecer claramente las siguientes medidas:
+
+I. Las áreas encargadas de aplicar el protocolo, así como de vigilar su cumplimiento;
+
+II. Los procedimientos de actuación;
+
+III. Los procedimientos de búsqueda, levantamiento y embalaje de indicios;
+
+IV. Los lineamientos generales de la investigación posteriores a las actuaciones realizadas en el lugar de los hechos o del hallazgo;
+
+V. Los lineamientos especiales de investigación y acreditación de las hipótesis normativas que integran a los tipos penales de feminicidio y de homicidio;
+
+VI. Las líneas de investigación;
+
+VII. La cadena de custodia;
+
+VIII. La determinación ministerial;
+
+IX. La atención a víctimas indirectas, testigos y ofendidos que comprenderá:
+
+a) La atención a víctimas indirectas por parte del ministerio público;
+
+b) La dirección y coordinación con las áreas del Gobierno del Estado que dispongan de servicios de salud física y mental a víctimas y testigos;
+
+c) Las medidas de protección y seguridad a víctimas indirectas, testigos y ofendidos; y
+
+d) El procedimiento de entrega del cuerpo de la víctima directa a las víctimas indirectas, así como el mecanismo mediante el cual éstas podrán acreditar su carácter ante la Fiscalía. Serán consideradas como víctimas indirectas las mencionadas en el artículo 4 de la Ley General de Víctimas. Se detallarán las áreas responsables y etapas de investigación en que proceda dicha entrega sin que se ponga en riesgo el pleno esclarecimiento de los hechos; y
+
+X. Las medidas de análisis, evaluación, supervisión y vigilancia de la implementación del protocolo de actuación e intervención por parte de las autoridades ministeriales, policiales y periciales adscritas a la Fiscalía General de Justicia del Estado.
+
+> <small>(ADICIONADO, P.O. 24 DE MARZO DE 2026)</small>
+
+Previo a la publicación de los protocolos de actuación e intervención en el Periódico Oficial del Estado, la persona Titular de la Fiscalía General del Estado deberá enviar la propuesta del protocolo a la Comisión Estatal de Atención a Víctimas de Tamaulipas, la cual podrá emitir recomendaciones no vinculantes.
 
 ### CAPÍTULO III. DE LAS VICEFISCALÍAS
 
@@ -2924,3 +2964,23 @@ Los asuntos en materia de extorsión que a la entrada en vigor del presente Decr
 ###### ARTÍCULO QUINTO.
 
 En un plazo de 30 días hábiles contados a partir de la entrada en vigor del presente Decreto, la Fiscalía General de Justicia del Estado, deberá reformar el Reglamento de la Ley Orgánica de la Fiscalía General de Justicia del Estado de Tamaulipas, para armonizarlo con las presentes disposiciones.
+
+P.O. 24 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-1007 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DE JUSTICIA DEL ESTADO DE TAMAULIPAS; Y DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Fiscalía General de Justicia del Estado de Tamaulipas contará con un plazo de noventa días hábiles para la emisión de los protocolos de actuación ministerial para los delitos de feminicidio y homicidio. Asimismo, contará con un plazo de ciento ochenta días hábiles, contados a partir de la fecha de entrada en vigor de este Decreto, para la emisión de los demás protocolos de actuación ministerial a los delitos aludidos en el Artículo Segundo de este Decreto. En ningún caso habrá lugar a prórrogas.
+
+###### ARTÍCULO TERCERO.
+
+Para la emisión de los protocolos de actuación ministerial dispuestos en el Artículo Segundo de este Decreto, la persona Titular de la Fiscalía General de Justicia del Estado de Tamaulipas deberá enviar la propuesta de protocolo a la Comisión Estatal de Atención a Víctimas de Tamaulipas treinta días hábiles antes del vencimiento del plazo dispuesto en el Artículo Segundo Transitorio de este Decreto. Asimismo, la Comisión Estatal de Atención a Víctimas de Tamaulipas contará con quince días hábiles para emitir sus recomendaciones no vinculantes y la Fiscalía General de Justicia del Estado contará con los quince días hábiles restantes para determinar si incluye o no algunas de estas recomendaciones no vinculantes. Posterior a dicha fecha, pasará a su publicación en el Periódico Oficial del Estado. En ningún caso habrá lugar a prórrogas.
+
+###### ARTÍCULO CUARTO.
+
+El procedimiento para adicionar, derogar o modificar las disposiciones contenidas en los protocolos de actuación ministerial será el mismo que el dispuesto en los Artículos Segundo y Tercero de este Decreto.
