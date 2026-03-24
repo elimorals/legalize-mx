@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-conducta-de-la-secretaria-de-salud-y-del-144705"
 country: "mx"
 rank: "codigo"
 publication_date: "2020-10-21"
-last_updated: "2020-10-21"
+last_updated: "2026-03-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144705&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE SALUD Y DEL ORGANISMO PUBLICO DESCENTRALIZADO SERVICIOS DE SALUD DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE SALUD Y DEL ORGANISMO PÚBLICO DESCENTRALIZADO SERVICIOS DE SALUD DE VERACRUZ, PUBLICADO EN LA G.O. DE 24 DE MARZO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE SALUD Y DEL ORGANISMO PÚBLICO DESCENTRALIZADO SERVICIOS DE SALUD DE VERACRUZ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE MARZO DE 2026 (ABROGADO).
 
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 21 de octubre de 2020
 
@@ -476,3 +478,15 @@ Cargo:
 Unidad Administrativa:
 
 Fecha y firma:
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 24 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE SALUD Y DEL ORGANISMO PÚBLICO DESCENTRALIZADO SERVICIOS DE SALUD DE VERACRUZ”.]
+
+Primero. El presente Acuerdo entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo. Se abroga el Código de Conducta de la Secretaría de Salud y del Organismo Público Descentralizado Servicios de Salud de Veracruz publicado en la Gaceta Oficial del Estado el 21 de octubre de 2020.
+
+Tercero. Las unidades administrativas deberán realizar las acciones necesarias para la difusión del presente Código y promover la suscripción de la Carta Compromiso por parte de las personas servidoras públicas.
