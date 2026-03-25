@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-para-el-desarrollo-forestal-sustentable-del-4677
 country: "mx"
 rank: "ley"
 publication_date: "2005-10-18"
-last_updated: "2022-02-21"
+last_updated: "2026-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE FEBRERO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 18 de octubre de 2005.
 
@@ -67,9 +67,17 @@ VII. Dotar de mecanismos de coordinación, concertación y cooperación a las in
 
 VIII. Garantizar la participación ciudadana, incluyendo a los pueblos y comunidades indígenas del Estado, en la aplicación, evaluación y seguimiento de la política forestal, a través de los mecanismos pertinentes;
 
-IX. Promover instrumentos de apoyo económico para fomentar el desarrollo forestal, y
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2026)</small>
 
-X. Impulsar el desarrollo de la empresa social forestal y comunal.
+IX. Promover instrumentos de apoyo económico para fomentar el desarrollo forestal;
+
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2026)</small>
+
+X. Impulsar el desarrollo de la empresa social forestal y comunal, y
+
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2026)</small>
+
+XI. Promover, en la política forestal, acciones afirmativas tendientes a garantizar la igualdad sustantiva de oportunidades para las mujeres, las personas pertenecientes a grupos en situación de vulnerabilidad.
 
 ###### ARTICULO 3°.
 
@@ -1074,5 +1082,13 @@ P.O. 21 DE FEBRERO DE 2022.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0264.- SE REFORMAN LOS ARTÍCULOS 79 EN SU PÁRRAFO TERCERO Y 89, DE LA LEY DE FOMENTO PARA EL DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0498.- QUE REFORMA Y ADICIONA AL ARTÍCULO 2°, DE LA LEY DE FOMENTO PARA EL DESARROLLO FORESTAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
