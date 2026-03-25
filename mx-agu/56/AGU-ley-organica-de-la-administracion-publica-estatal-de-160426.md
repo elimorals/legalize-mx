@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-estatal-de-160426"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2022-09-30"
-last_updated: "2025-12-15"
+last_updated: "2026-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160426&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2026.
 
 Ley publicada en el Número 56 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 30 de septiembre de 2022.
 
@@ -1297,7 +1297,37 @@ XV. Solicitar a las autoridades competentes la expropiación, ocupación tempora
 
 XVI. Efectuar periódicamente en coordinación con los ayuntamientos, los estudios sobre del (sic) comportamiento dinámico de las grietas y la formulación de las cartas urbanas que contengan las fallas geológicas detectadas y en caso de presentarse comportamientos dinámicos extraordinarios, deberá informar de manera inmediata a las dependencias y entidades competentes; y
 
-XVII. Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas de convenios, contratos o cualquier otro tipo de acuerdo, sin perjuicio de las atribuciones de otras dependencias.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE MARZO DE 2026)</small>
+
+XVII. Llevar a cabo el procedimiento de licitación para el otorgamiento de concesiones para la explotación del derecho de vía o la construcción y explotación de carreteras de competencia estatal, así como las licitaciones de la prestación del servicio. En todo caso las Bases de licitación complementarán en caso de ser necesario, si se requieren validaciones o dependencias adicionales que colaboren con la Secretaría de Obras Públicas.
+
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2026)</small>
+
+XVIII. Integrar el registro de concesiones del derecho de vía, o de construcción y explotación de carreteras de competencia estatal.
+
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2026)</small>
+
+XIX. Determinar las características y especificaciones técnicas y aprobar el trazo del derecho de vía y o para la construcción y explotación de carreteras de competencia estatal, así como de servicio (sic) carreteros.
+
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2026)</small>
+
+XX. Vigilar la operación de las concesiones del derecho de vía o para la construcción y explotación de carreteras de competencia estatal.
+
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2026)</small>
+
+XXI. Asesorar en la celebración de contratos y convenios con los Gobiernos Federal y Municipal en todo lo relacionado con las carreteras de competencia estatal y sus obras.
+
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2026)</small>
+
+XXII. Establecer las contraprestaciones que deberán cubrir los concesionarios de derecho o vía o para la construcción y explotación de carreteras de competencia estatal.
+
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2026)</small>
+
+XXIII. Vigilar el cumplimiento de las concesiones en materia de derecho de vía o de construcción y explotación de carreteras de competencia estatal e imponer las sanciones que correspondan en caso de incumplimiento; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 25 DE MARZO DE 2026)</small>
+
+XXIV. Ejercer las atribuciones y facultades que le señalen las demás leyes, reglamentos y ordenamientos de carácter general, así como las derivadas (sic) convenios, contratos o cualquier otro tipo de acuerdo, sin perjuicio de las atribuciones de otras dependencias y demás que le confieran esta Ley y otros ordenamientos legales aplicables.
 
 #### Sección Undécima. Secretaría de Desarrollo Rural y Agroempresarial
 
@@ -2224,3 +2254,15 @@ III. Los trámites administrativos en materia de concesiones, permisos y autoriz
 ###### ARTÍCULO DÉCIMO QUINTO.
 
 Quedan sin efectos todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 25 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 444.- SE REFORMAN LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL; LA LEY DE BIENES PARA EL ESTADO DE AGUASCALIENTES; Y, EL CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efectos todas aquellas disposiciones que se oponga (sic) al presente Decreto.
