@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-turismo-del-estado-de-san-luis-potosi-83624"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-22"
-last_updated: "2026-03-10"
+last_updated: "2026-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83624&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 22 de octubre de 2011.
 
@@ -715,9 +715,11 @@ V. La protección del medioambiente, y
 
 VI. La innovación tecnológica en la prestación de los servicios turísticos.
 
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2026)</small>
+
 ###### ARTICULO 41.
 
-El reconocimiento a que se refiere el artículo anterior será entregado por el Ejecutivo del Estado anualmente. El Reglamento establecerá sus características, condiciones y requisitos para su otorgamiento.
+El reconocimiento a que se refiere el artículo anterior será entregado por el Ejecutivo del Estado anualmente. La convocatoria que al efecto se emita, establecerá sus características, condiciones y requisitos para su otorgamiento.
 
 ## TITULO SEXTO. DE LOS SERVICIOS TURISTICOS
 
@@ -1251,13 +1253,17 @@ V. Opinar sobre la elaboración del Programa Sectorial de Turismo;
 
 VI. Conocer las opiniones y recomendaciones de los consejos consultivos regionales municipales y los consejos consultivos municipales, aportando los elementos que consideren necesarios para ser sometidos a la consideración del Ejecutivo;
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2026)</small>
 
-VII. Vigilar la aplicación de los métodos de control y evaluación del servicio, y
+VII. Vigilar la aplicación de los métodos de control y evaluación del servicio;
 
-> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2019)</small>
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2026)</small>
 
-VIII. Hacer propuestas a la Secretaría sobre el diseño y los elementos de las marcas turísticas estatal y regionales.
+VIII. Hacer propuestas a la Secretaría sobre el diseño y los elementos de las marcas turísticas estatal y regionales, y
+
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2026)</small>
+
+IX. Elegir por mayoría a la persona merecedora del premio estatal de turismo, que refiere el artículo 40 de esta ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2025)</small>
 
@@ -1273,13 +1279,17 @@ II. Convocar a reunión a sus integrantes;
 
 III. Proponer el orden del día de las sesiones;
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2026)</small>
 
-IV. Fungir como relator de los proyectos, solicitudes y demás asuntos que se presenten dentro del Consejo, y
+IV. Fungir como relator de los proyectos, solicitudes y demás asuntos que se presenten dentro del Consejo;
 
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2025)</small>
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2026)</small>
 
-V. Designar a la persona que presida el consejo consultivo regional municipal, así como a quien funja como secretario técnico.
+V. Designar a la persona que presida el consejo consultivo regional municipal, así como a quien funja como secretario técnico, y
+
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2026)</small>
+
+VI. Designar subcomisiones para el trámite de asuntos específicos dentro del Consejo de Turismo Estatal.
 
 ### Capítulo III. De la Integración de los Consejos Consultivos Regionales Municipales
 
@@ -1752,6 +1762,14 @@ SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
 P.O. 10 DE MARZO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0485.- QUE REALIZA ADICIÓN AL ARTÍCULO 8°; REFORMA LOS ARTÍCULOS 3°, 4°, 8° Y 9°, DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 25 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0493.- QUE REFORMA LOS ARTÍCULOS 41, 86 Y 87; Y SE REALIZA ADICIÓN A LOS ARTÍCULOS 86 Y 87, DE LA LEY DE TURISMO DEL ESTADO DE SAN LUIS POTOSÍ”]
 
 PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
