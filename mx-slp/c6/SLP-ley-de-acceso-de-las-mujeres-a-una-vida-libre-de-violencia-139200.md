@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1392
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-25"
-last_updated: "2026-03-03"
+last_updated: "2026-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 25 de noviembre de 2019.
 
@@ -157,7 +157,9 @@ Para efecto de la aplicación de los programas y acciones del Estado y los munic
 
 I. Violencia contra el derecho a la libre elección de cónyuge o pareja: toda acción u omisión, sea o no por conveniencia, tradición, costumbre, o práctica cultural, que limite, vulnere o restrinja el derecho de las mujeres a elegir libre, informada y voluntariamente a su cónyuge o pareja;
 
-II. Violencia contra los derechos reproductivos: toda acción u omisión que limite o vulnere el derecho de las mujeres a obtener información y educación sobre salud y derechos sexuales y reproductivos, a decidir libre y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, acceso a una maternidad elegida y segura, a servicios de atención prenatal, así como a servicios obstétricos de emergencia;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2026)</small>
+
+II. Violencia contra los derechos reproductivos: toda acción u omisión que limite o vulnere el derecho de las mujeres a obtener información y educación sobre salud y derechos sexuales y reproductivos, a decidir libre y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, acceso a una maternidad elegida y segura, a servicios de atención prenatal, a servicios de interrupción voluntaria del embarazo en los casos permitidos por ley, así como a servicios obstétricos de emergencia;
 
 > <small>(REFORMADA, P.O. 22 DE OCTUBRE DE 2025)</small>
 
@@ -1283,7 +1285,9 @@ a) Aplicación de antirretrovirales de profilaxis post-exposición.
 
 b) Anticoncepción de emergencia.
 
-c) Interrupción legal y voluntaria del embarazo en el caso de violación;
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2026)</small>
+
+a) (sic) Interrupción legal y voluntaria del embarazo en los casos de violación; estupro, inseminación artificial indebida e implantación de un óvulo fecundado sin el consentimiento expreso de la paciente;
 
 VII. Proveer los recursos y herramientas necesarias para garantizar la seguridad y acondicionamiento de vivienda;
 
@@ -1956,3 +1960,9 @@ P.O. 3 DE MARZO DE 2026.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 0494.- QUE REFORMA LOS ARTÍCULOS 4° Y 37, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+ÚNICO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
