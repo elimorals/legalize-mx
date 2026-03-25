@@ -4,7 +4,7 @@ identifier: "HID-ley-de-movilidad-y-transporte-para-el-estado-de-hidalgo-129684"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-30"
-last_updated: "2025-08-06"
+last_updated: "2026-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de julio de 2018.
 
@@ -106,6 +106,10 @@ III. CADUCIDAD: Acto administrativo por virtud del cual la Autoridad Competente 
 IV. CANCELACIÓN: Acto administrativo por virtud del cual la Autoridad Competente envía al archivo definitivo como asunto totalmente concluido, mediante el acuerdo respectivo, la concesión, el permiso, la autorización o el convenio de que se trate, en razón de que éste ha sido materia de extinción en términos de esta Ley;
 
 V. CENTRO DE TRANSFERENCIA MODAL: Espacio físico con infraestructura y equipamiento auxiliar de transporte, que sirve como punto para la conexión de los usuarios entre dos o más modos de transporte o dos o más rutas;
+
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2026)</small>
+
+V Bis. Ciclovía: Espacios de infraestructura pública reservados exclusivamente para vehículos no motorizados o de movilidad activa;
 
 VI. COMPETENCIA RUINOSA: Acto o conjunto de actos mediante los cuales un prestador del servicio de transporte pretende crear para sí o para su beneficio condiciones de ventaja, con las que altera las características de igualdad a las que debe ceñir la oferta de los servicios a su cargo, afectando o modificando parcial o totalmente la libre concurrencia y la libre competencia de los demás prestadores autorizados para operar en el lugar en el que aquel se encuentra; para lo cual crea condiciones que le propician una posición dominante del mercado o su control, con lo que causa quebranto o demérito económico a otros prestadores del servicio en la zona de operación o lugar que tiene concesionado o permisionado. Ejemplificativamente, dentro de ellas figuran la modificación injustificada de tarifas, la modificación discrecional de horarios o frecuencias de servicios, invasión de rutas, prestar servicios diferentes a los autorizados, actos de violencia y cualquier otra práctica ruinosa que le genere un beneficio indebido;
 
@@ -641,7 +645,9 @@ VI. Remitir a los depósitos vehiculares, los vehículos que se encuentren aband
 
 VII. Promover en el ámbito de su competencia las acciones para el uso racional del espacio vial, teniendo como prioridad a las personas con discapacidad, mujeres, niñas, niños, adolescentes y personas adultas mayores, peatones, y medios de transporte masivo y colectivo de pasajeros, así como de los espacios para la guarda de bicicletas y similares;
 
-VIII. Diseñar e instrumentar programas de recuperación y habilitación progresiva de espacios urbanos para el desplazamiento peatonal y la construcción y mantenimiento de infraestructura ciclista con la finalidad de promover la movilidad urbana no motorizada, en los términos de la ley de la materia; y
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2026)</small>
+
+VIII. Diseñar e instrumentar programas de recuperación y habilitación progresiva de espacios urbanos para el desplazamiento peatonal y la construcción y mantenimiento de infraestructura ciclista y ciclovías con la finalidad de promover la movilidad urbana no motorizada, en los términos de la ley de la materia; y
 
 IX. Las demás que les confiera esta Ley, su reglamento y normatividad aplicable.
 
@@ -3602,5 +3608,11 @@ P.O. 10 DE JUNIO DE 2025.
 P.O. 6 DE AGOSTO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 306 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO, EN MATERIA DE TARIFAS PREFERENCIALES PARA PERSONAS ADULTAS MAYORES Y PERSONAS CON DISCAPACIDAD”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 25 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 575 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO, EN MATERIA DE CICLOVÍAS”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
