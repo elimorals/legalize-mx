@@ -4,7 +4,7 @@ identifier: "MIC-constitucion-politica-del-estado-libre-y-soberano-de-6004"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-07"
-last_updated: "2026-03-16"
+last_updated: "2026-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6004&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo, los días jueves 7, domingo 10, jueves 14, domingo 17, jueves 21, domingo 24, jueves 28, de febrero; domingo 3, jueves 7, domingo 10 y jueves 14 de marzo de 1918.
 
@@ -82,6 +82,26 @@ En todas las decisiones y actuaciones del Estado, en el ámbito de su competenci
 > <small>(REFORMADO, P.O. 30 DE NOVIEMBRE DE 2021)</small>
 
 Toda persona tiene derecho a una existencia digna, a la alimentación, a la educación, a la cultura, al trabajo y a la protección de la salud. El Estado promoverá el desarrollo físico, moral, intelectual, social y económico del pueblo.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2026)</small>
+
+Toda persona tiene derecho a un medio ambiente sano, saludable y sostenible, esencial para su desarrollo y bienestar. El Estado, los Municipios y los Gobiernos Comunales garantizarán el respeto a este derecho, promoviendo la justicia ambiental y asegurando el manejo adecuado y sustentable de los recursos naturales, la preservación y restauración de los ecosistemas y zonas naturales, la conservación y aprovechamiento sostenible de la biodiversidad, así como la prevención, control y, en su caso, remediación de la contaminación del suelo, agua, aire y de cualquier ecosistema. Para tal efecto, adoptarán las medidas necesarias para prevenir, investigar, sancionar y reparar los daños ambientales, empleando tecnologías de geoprocesamiento y análisis de datos espaciales para su adecuada gestión y seguimiento, conforme a la ley.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2026)</small>
+
+El daño o deterioro ambiental generará responsabilidad para quien lo cause, y cualquier persona tendrá derecho a exigir su reparación o compensación en los términos de la legislación aplicable. Cuando exista incertidumbre científica acerca de la posibilidad de un daño grave o irreversible al medio ambiente, la autoridad competente aplicará el principio de precaución, correspondiendo al promovente acreditar la inexistencia del riesgo y, en su caso, las medidas de reparación o compensación correspondientes.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2026)</small>
+
+Las personas en Michoacán tendrán derecho a participar de manera plena, efectiva y oportuna en la protección del medio ambiente, así como el deber de contribuir a su cuidado. El Estado, los Municipios y los Gobiernos Comunales garantizarán la participación pública significativa, el acceso transparente, oportuno y accesible a la información ambiental, y el acceso a la justicia ambiental, mediante instrumentos jurídicos y políticas públicas que aseguren la justicia socioambiental, la conservación integral de los ecosistemas y la tutela efectiva de los derechos ambientales, conforme a los estándares establecidos en los tratados internacionales de los que México sea parte.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2026)</small>
+
+Queda prohibida la crueldad y el maltrato animal. El Estado, los Municipios y los Gobiernos Comunales garantizarán el cuidado, el trato digno y la protección de los animales domésticos y silvestres, así como la conservación de su vida e integridad, conforme a la legislación aplicable.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2026)</small>
+
+En toda operación jurídica que implique la disposición, traslado, uso o aprovechamiento de bienes inmuebles, se garantizará el cumplimiento de la normativa ambiental aplicable, a fin de asegurar la legalidad y la protección del entorno. La ley establecerá los mecanismos y certificados necesarios para constatar la situación ambiental de los predios, entendida como el conjunto de condiciones jurídicas, técnicas y materiales que reflejan su grado de cumplimiento con la legislación ambiental vigente, incluyendo la existencia o inexistencia de contaminantes, restricciones de uso, medidas de mitigación y autorizaciones correspondientes, así como para determinar la responsabilidad de las autoridades y fedatarios públicos en dichos procesos.
 
 Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible.
 
@@ -2585,9 +2605,9 @@ VI. Formular, evaluar, aprobar, administrar, y difundir la zonificación y plane
 
 VII.- Participar en la creación y administración de sus reservas territoriales;
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2001)</small>
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2026)</small>
 
-VIII.- Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia. Cuando el Gobierno del Estado elabore proyectos de desarrollo regional deberá asegurar la participación de los municipios;
+VIII.- Promover que toda obra, proyecto o actividad incorpore criterios de sustentabilidad, así como prácticas orientadas al cuidado, protección y preservación del medio ambiente;
 
 > <small>(REFORMADA, P.O. 3 DE JULIO DE 2001)</small>
 
@@ -2714,6 +2734,10 @@ En el desarrollo económico estatal, concurrirán los sectores público, social 
 > <small>(ADICIONADO, P.O. 23 DE JULIO DE 2025)</small>
 
 Todas las autoridades estatales y municipales, de los poderes Ejecutivo, Legislativo y Judicial, Órganos Autónomos, la Universidad Michoacana de San Nicolás de Hidalgo, las Universidades e Institutos Tecnológicos Públicos, partidos políticos, fideicomisos fondos públicos; así como cualquier persona física o moral que ejecute y ejerza recursos públicos o realice actos de autoridad en el Estado, implementarán el Gobierno Digital mediante el uso de las Tecnologías de la Información y Comunicación, así como de internet, en la realización de los trámites y servicios que presta el Gobierno; a fin de fortalecer la transparencia, la rendición de cuentas, promover la participación ciudadana, optimizar la eficiencia en el uso de los recursos públicos y garantizar la protección de los datos personales, así como la seguridad de la información.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2026)</small>
+
+El desarrollo económico y las políticas públicas estatales deberán orientarse bajo los criterios de sustentabilidad, planeación económica, protección ambiental y uso racional y responsable de los recursos naturales.
 
 > <small>(ADICIONADO, P.O. 24 DE OCTUBRE DE 2017)</small>
 
@@ -2921,11 +2945,11 @@ La educación pública dependerá directamente de la persona Titular del Ejecuti
 
 Todo individuo tiene derecho a recibir educación. El Estado y sus Municipios están obligados a impartir educación inicial, educación preescolar, primaria, secundaria, media superior y superior, así como la educación inclusiva y la educación especial que sea requerida. Toda educación que el Estado imparta será gratuita.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MARZO DE 2026)</small>
 
 ###### Artículo 139.
 
-La educación que imparta el Estado tenderá a desarrollar armónicamente, todas las facultades del ser humano y fomentará en él, a la vez, el amor a la patria, el respeto a los derechos humanos y la conciencia de la solidaridad internacional, en la independencia y en la justicia.
+La educación que imparta el Estado tenderá a desarrollar armónicamente, todas las facultades del ser humano y fomentará en él, a la vez, el amor a la patria, el cuidado al medio ambiente, el respeto a los derechos humanos y la conciencia de la solidaridad internacional, en la independencia y en la justicia.
 
 (REFORMADO, P.O. 1 DE FEBRERO DE 1960) (F. DE E., P.O. 18 DE ABRIL DE 1960)
 
@@ -4686,3 +4710,19 @@ PRIMERO. Remítase a los Ayuntamientos y Concejos Municipales del Estado de Mich
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 TERCERO. El Congreso del Estado, dentro de un plazo no mayor a ciento ochenta días, deberá armonizar el marco estatal en términos del presente Decreto.
+
+P.O. 25 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 401 POR EL QUE “SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 123 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 139; Y, SE ADICIONAN LOS PÁRRAFOS SÉPTIMO, OCTAVO, NOVENO, DÉCIMO Y DÉCIMO PRIMERO AL ARTÍCULO 2°, ASÍ COMO UN CUARTO PÁRRAFO AL ARTÍCULO 129, RECORRIÉNDOSE LOS SUBSECUENTES EN SU ORDEN, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. Remítase el presente Decreto a los ayuntamientos del Estado y al Concejo Mayor de Cherán, para que emitan el resultado de su votación, en los términos de la fracción IV del artículo 164 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+TERCERO. El Congreso del Estado, tendrá un plazo improrrogable de 180 días hábiles a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones normativas correspondientes a efecto de dar cumplimiento al mismo.
+
+CUARTO. Los Ayuntamientos y el Ejecutivo del Estado, deberán realizar las adecuaciones normativas, orgánicas y administrativas conducentes para cumplimiento de lo establecido en el presente Decreto en un periodo no mayor a 180 días hábiles, a partir de la entrada en vigor del mismo.
+
+QUINTO. El presupuesto de la Secretaría del Medio Ambiente, no podrá ser menor que el del ejercicio fiscal anterior.
+
+La Secretaría deberá destinar los recursos necesarios para la adquisición e implementación de tecnologías de geoprocesamiento y análisis de datos espaciales con el objetivo de asegurar la adecuada gestión, monitoreo, y seguimiento de la política ambiental para la prevención, control, remediación y protección del medio ambiente.
