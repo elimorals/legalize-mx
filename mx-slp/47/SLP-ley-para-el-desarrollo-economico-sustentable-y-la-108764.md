@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-el-desarrollo-economico-sustentable-y-la-108764"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-18"
-last_updated: "2026-03-03"
+last_updated: "2026-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2026.
 
 Ley publicada en la Edición Extraordinaria de Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de junio de 2015.
 
@@ -43,9 +43,11 @@ LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO D
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 1°.
 
-La presente Ley es de orden público, interés social y observancia general en el territorio del Estado de San Luis Potosí. Tiene por objeto promover y fomentar el desarrollo económico sustentable; incrementar la competitividad; estimular y retener la inversión local, nacional y extranjera; así como conservar y aumentar el empleo; y la generación e innovación tecnológica.
+La presente Ley es de orden público, interés social y observancia general en el Estado de San Luis Potosí. Tiene por objeto promover y fomentar el desarrollo económico sustentable; incrementar la competitividad; estimular y retener la inversión local, nacional y extranjera; así como conservar y aumentar el empleo; y la implementación e innovación tecnológica, garantizando en todo momento la igualdad sustantiva entre hombres y mujeres.
 
 ###### ARTÍCULO 2°.
 
@@ -831,9 +833,11 @@ La Secretaría promoverá la producción y el empleo en el Estado y sus municipi
 
 La Secretaría, en coordinación con los organismos empresariales y las entidades públicas y privadas, tales como, la Secretaría de Economía; el Comité Nacional de Productividad e Innovación Tecnológica; el Consejo Nacional de Ciencia y Tecnología, y cualquier otro organismo con el que se celebren convenios, promoverá los programas conducentes para elevar de manera permanente la competitividad de las micro pequeñas y medianas empresas del Estado.
 
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 63.
 
-Los apoyos a las micro, pequeñas y medianas empresas en la Entidad se otorgarán de forma equitativa.
+Los apoyos a las micro, pequeñas y medianas empresas en la Entidad se otorgarán garantizando en todo momento la igualdad sustantiva entre hombres y mujeres.
 
 ###### ARTÍCULO 64.
 
@@ -895,11 +899,15 @@ XVI. Realizar acciones como eventos, programas y asesoría específica para apoy
 
 XVII. Impulsar la educación financiera entre los emprendedores de las MIPYMES;
 
-> <small>(ADICIONADA, P.O. 7 DE MARZO DE 2022)</small>
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2026)</small>
 
-XVIII. Impulsar las acciones necesarias para el desarrollo de MIPyMES para mujeres, a través de programas productivos con perspectiva de género, y
+XVIII. Impulsar las acciones necesarias para el desarrollo de MIPyMES para mujeres, a través de programas productivos con perspectiva de género;
 
-XIX. Las demás que emanen de las atribuciones del Consejo y el reglamento.
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2026)</small>
+
+XIX. Diseñar e implementar políticas públicas y programas de apoyo prioritariamente para mujeres, en materia de asesoría técnica y jurídica, de apoyo y financiamiento de proyectos de emprendimiento, de acceso a créditos, así como de convenios con instituciones educativas, financieras y empresariales para apoyar la creación de empresas o negocios de mujeres, y
+
+XX. Las demás que emanen de las atribuciones del Consejo y el reglamento.
 
 ###### ARTÍCULO 65.
 
@@ -1298,6 +1306,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
 P.O. 3 DE MARZO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0472.- QUE REFORMA Y REALIZA ADICIÓN AL ARTÍCULO 33, DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 25 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0497.- QUE REFORMA LOS ARTÍCULOS 1°, 63 Y 64; Y SE REALIZA ADICIÓN AL ARTÍCULO 64, DE LA LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
