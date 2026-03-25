@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2026-01-13"
+last_updated: "2026-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -1120,6 +1120,10 @@ Los integrantes de las instituciones de seguridad pública en el Estado y los ay
 > <small>(REFORMADO, P.O. 13 DE MAYO DE 2022)</small>
 
 Las instituciones de seguridad pública deberán generar para su personal, de acuerdo a sus necesidades y con cargo a sus presupuestos, una normatividad de régimen complementario de seguridad social y reconocimientos, de acuerdo a lo previsto en el artículo 123 apartado B fracción XIII párrafo segundo, de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2026)</small>
+
+La remuneración del personal de seguridad pública deberá ser acorde con la calidad y riesgo de sus funciones, rango y puestos respectivos, así como en las comisiones que cumplan, tomando en cuenta para su determinación las bases que emita el Secretariado Ejecutivo en materia de salario digno y condiciones laborales.
 
 > <small>(ADICIONADO, P.O. 4 DE JUNIO DE 2019)</small>
 
@@ -3338,3 +3342,9 @@ P.O. 13 DE ENERO DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 0445.- QUE REFORMA LOS ARTÍCULOS 230 Y 231; Y DEROGA EL ARTÍCULO 231 BIS, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ. REALIZA ADICIÓN AL ARTÍCULO 41 Y LOS ARTÍCULOS 41 BIS, 41 TER Y 175 TER DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ. REFORMA LOS ARTÍCULOS 4° Y 58; Y REALIZA ADICIÓN AL ARTÍCULO 3°, 4°, 5°, 10, 11, 24, 58, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ, Y ADICIONA EL ARTÍCULO 51 BIS, A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
 
 PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+P.O. 25 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL " DECRETO 0495.- QUE REALIZA ADICIÓN AL ARTÍCULO 51, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ ".]
+
+ÚNICO. El presente Decreto entrará en vigor el día de su publicación del (sic) Periódico Oficial del Estado “Plan de San Luis”.
