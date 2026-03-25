@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-trabajadores-al-servicio-de-los-gobiernos-12047"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-31"
-last_updated: "2025-07-24"
+last_updated: "2026-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12047&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS, DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 1987.
 
@@ -491,9 +491,13 @@ El pago de sueldos o salarios caídos que refiere la presente Ley será computad
 
 V. Proporcionar a los trabajadores los útiles, instrumentos y materiales necesarios para ejecutar el trabajo convenido;
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2022)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 25 DE MARZO DE 2026)</small>
 
-V Bis. Proporcionar capacitación a las y los trabajadores en materia de derechos humanos, combate a la corrupción, igualdad y equidad de género, la prevención y eliminación de la discriminación, derechos culturales y lingüísticos de la población indígena, entre otras;
+V Bis. Proveer el número suficiente de asientos o sillas con respaldo a disposición de las personas trabajadoras, para ejecución de sus funciones o para el descanso periódico durante su jornada laboral, siempre que la naturaleza de su trabajo lo permita;
+
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2026)</small>
+
+V Ter. Permitir tomar asiento periódicamente a las personas trabajadoras que realicen funciones de pie durante períodos prolongados;
 
 VI. Cubrir las aportaciones que fijen las leyes y convenios que se celebren, para que, en su caso, los trabajadores reciban los beneficios de la seguridad y servicios sociales comprendidos en los conceptos siguientes:
 
@@ -1632,3 +1636,13 @@ P.O. 24 DE JULIO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 288 – LXVI POR EL QUE SE REFORMA EL ARTÍCULO 18 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE HIDALGO, EN MATERIA DE DÍAS DE DESCANSO OBLIGATORIOS”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 25 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 577 – LXVI POR EL QUE SE ADICIONAN DIVERSAS FRACCIONES AL ARTÍCULO 32 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS ESTATAL Y MUNICIPALES, ASÍ COMO DE LOS ORGANISMOS DESCENTRALIZADOS DEL ESTADO DE HIDALGO, PARA GARANTIZAR ASIENTOS ADECUADOS DURANTE LA JORNADA LABORAL".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Dentro de los 120 días naturales siguientes a la entrada en vigor del presente Decreto, las dependencias y entidades deberán llevar a cabo las adecuaciones administrativas necesarias para dar cumplimiento al mismo. Dentro del mismo plazo deberán incorporar en sus reglamentos interiores las disposiciones aprobadas en este Decreto.
+
+TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
