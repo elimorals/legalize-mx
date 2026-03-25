@@ -4,7 +4,7 @@ identifier: "NAY-estatuto-organico-que-regula-la-autonomia-tecnica-y-de-182916"
 country: "mx"
 rank: "estatuto"
 publication_date: "2025-12-17"
-last_updated: "2025-12-17"
+last_updated: "2026-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=182916&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 ESTATUTO ORGÁNICO QUE REGULA LA AUTONOMÍA TÉCNICA Y DE GESTIÓN DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO ESTATAL ELECTORAL DE NAYARIT
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2026.
 
 Estatuto publicado en la Sección Quinta del Periódico Oficial del Estado de Nayarit, el miércoles 17 de diciembre de 2025.
 
@@ -405,6 +405,10 @@ VI. Las demás que determine la persona titular del OIC o que deriven de la norm
 
 La persona Abogada Defensora de Oficio no podrá intervenir en la investigación, sustanciación o resolución de procedimientos administrativos en los que participe, ni en asuntos que impliquen conflicto de interés.
 
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2026)</small>
+
+A efecto de que la persona abogada se constituya como defensora de oficio dentro de un procedimiento de responsabilidad administrativa, la autoridad substanciadora, en su caso, deberá solicitar a la persona titular del OIC su puesta a disposición. La autoridad substanciadora deberá nombrarla en cada uno de los procedimientos en los que intervenga con ese carácter.
+
 #### SECCIÓN SEGUNDA. Del Departamento de Auditoría y Fiscalización
 
 ###### Artículo 41.
@@ -641,6 +645,136 @@ Cuando una notificación se realice fuera de la jurisdicción del Instituto, las
 
 En caso de existir urgencia o necesidad fundada, la persona titular del OIC podrá habilitar días y horas inhábiles para la práctica de notificaciones, lo cual deberá asentarse en el acuerdo respectivo.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE MARZO DE 2026)</small>
+
+### CAPÍTULO IX
+
+DE LA AUTORIDAD GARANTE Y REVISORA EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2026)</small>
+
+###### Artículo 54.
+
+El OIC es autoridad garante y revisora para el Instituto en materia de transparencia, acceso a la información pública y protección de datos personales.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2026)</small>
+
+###### Artículo 55.
+
+La persona titular del OIC tendrá originariamente las funciones y atribuciones que como autoridad garante y revisora otorga la legislación en materia de transparencia, acceso a la información pública y protección de datos personales.
+
+En el caso que exista impedimento, conflicto de interés o ausencia de la persona titular del Órgano, el Departamento Substanciador y Resolutor ejercerá las funciones y atribuciones de autoridad garante o revisora.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2026)</small>
+
+###### Artículo 56.
+
+Son impedimentos de la persona titular del OIC para conocer y resolver un recurso de revisión, o en su caso, una denuncia por incumplimiento de obligaciones de transparencia, los siguientes:
+
+I. Cuando la información solicitada en el procedimiento de acceso correspondiente obre en los archivos del Órgano y se encuentre directamente vinculada con las atribuciones propias de su despacho, en términos del presente Estatuto;
+
+II. Cuando el Comité de Transparencia del IEEN confirme la incompetencia, inexistencia o clasificación de información que esté directamente relacionada con las funciones o atribuciones propias de su despacho, en términos del presente Estatuto;
+
+III. Cuando el procedimiento de derechos de acceso, rectificación, cancelación, oposición o portabilidad de datos personales, de origen, se vincule directamente con las atribuciones propias de su despacho, en términos del presente Estatuto; y
+
+IV. Cuando la denuncia por incumplimiento de obligaciones de transparencia se relacione directamente con facultades, atribuciones o funciones asignadas al despacho del OIC y conforme a la tabla de aplicabilidad autorizada y validada en los términos de los Lineamientos Técnicos Generales para la Publicación Homologación y Estandarización de la Información de las Obligaciones de Transparencia, emitidos por el Consejo del Sistema Nacional de Acceso a la Información Pública.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2026)</small>
+
+###### Artículo 57.
+
+Corresponde a la autoridad garante y revisora las siguientes funciones y atribuciones:
+
+I. Conocer y resolver los recursos de revisión en materia de acceso a la información pública y protección de datos personales;
+
+II. Resolver las denuncias por incumplimiento a las obligaciones de transparencia;
+
+III. Emitir las resoluciones y acuerdos necesarios para la tutela efectiva de los derechos de acceso a la información pública y protección de datos personales;
+
+IV. Imponer las medidas de apremio que establecen las leyes en materia de transparencia, acceso a la información pública y protección de datos personales;
+
+V. Conocer, sustanciar y resolver el procedimiento sancionador en materia de acceso a la información y transparencia, así como determinar las sanciones procedentes;
+
+VI. Requerir a las áreas competentes el cumplimiento de las resoluciones emitidas;
+
+VII. Requerir la práctica de verificaciones en materia de transparencia y protección de datos personales;
+
+VIII. Autorizar y validar la tabla de aplicabilidad en los términos previstos por los Lineamientos Técnicos Generales para la Publicación Homologación y Estandarización de la Información de las Obligaciones de Transparencia;
+
+IX. Emitir lineamientos, recomendaciones, requerimientos, observaciones y criterios en materia de transparencia, acceso a la información y protección de datos personales;
+
+X. Atender los informes previo y justificado, así como los requerimientos dentro de los juicios de amparo en los que sean señaladas como responsables;
+
+XI. Dar vista a la autoridad investigadora cuando se adviertan posibles responsabilidades administrativas; y
+
+XII. Las demás atribuciones que le confieran las disposiciones legales en materia de transparencia, acceso a la información pública y protección de datos personales (sic) otorgan a las autoridades garantes y revisoras.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2026)</small>
+
+###### Artículo 58.
+
+Para el ejercicio de sus funciones la autoridad garante y revisora, contará con el apoyo de una secretaría técnica designada por la persona titular de entre las personas que conformen la plantilla del Órgano, como instancia de coordinación y apoyo técnico en materia de transparencia, acceso a la información y protección de datos personales.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2026)</small>
+
+###### Artículo 59.
+
+No podrán ser designadas como secretaría técnica las personas titulares del Departamento Investigador, ni del Departamento Substanciador y Resolutor.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2026)</small>
+
+###### Artículo 60.
+
+Corresponde a la secretaría técnica de la autoridad garante y revisora:
+
+I. Recibir, registrar, integrar organizar y resguardar documentos y expedientes vinculados con las funciones de la autoridad garante y revisora;
+
+II. Sustanciar los recursos de revisión y las denuncias incluyendo la prevención, admisión, desechamiento, requerimiento de informes, notificaciones, audiencias, vistas, cierres de instrucción, turno a resolución y trámites de ejecución, así como acordar la conclusión y archivo de los asuntos;
+
+III. Requerir la práctica de verificaciones en materia de transparencia y protección de datos personales, cuando resulten necesarios para la sustanciación de los asuntos;
+
+IV. Integrar y sistematizar los informes, evaluaciones y verificaciones emitidas por el Departamento de Auditoría y Fiscalización, para su valoración;
+
+V. Elaborar proyectos de resolución y acuerdos, con base en los elementos técnicos y jurídicos que obren en el expediente, para someterlos a consideración de la autoridad garante o revisora;
+
+VI. Dar seguimiento al cumplimiento de las resoluciones emitidas por la autoridad garante o revisora;
+
+VII. Brindar capacitación y apoyo técnico en la materia a las personas servidoras públicas;
+
+VIII. Consultar, resguardar los accesos y operar la Plataforma Nacional de Transparencia y sus módulos para el cumplimiento de las funciones de la autoridad garante y revisora;
+
+IX. Publicar las obligaciones de transparencia que como autoridad garante determina la legislación en la materia;
+
+X. Elaborar y someter a consideración del Comité de Transparencia las versiones públicas que correspondan al ámbito de competencia de la autoridad garante y revisora;
+
+XI. Recibir, registrar, integrar los expedientes, proyectar los informes previo y justificado, así como proyectar las respuestas a los requerimientos dentro de los juicios de amparo en los que la autoridad garante o revisora sean señaladas como responsables; y
+
+XII. Las demás funciones de apoyo técnico-procedimental que le encomiende la autoridad garante o revisora, conforme a la legislación aplicable en la materia.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2026)</small>
+
+###### Artículo 61.
+
+El Departamento de Auditoría y Fiscalización ejercerá las siguientes atribuciones en materia de transparencia, acceso a la información y protección de datos personales, según sea el (sic) necesario:
+
+I. Ejecutar las verificaciones oficiosas o programadas de las obligaciones de transparencia y de protección de datos personales;
+
+II. Ejecutar las verificaciones que le requiera la autoridad garante, revisora o la Secretaría técnica en la substanciación de denuncias de incumplimiento de obligaciones de transparencia;
+
+III. Ejecutar, de oficio o por requerimiento de la autoridad garante, revisora o la secretaría técnica el procedimiento de verificación en materia de protección de datos personales;
+
+IV. Emitir las recomendaciones que resulten necesarias como consecuencia de las verificaciones en materia de transparencia, acceso a la información y protección de datos personales;
+
+V. Realizar las evaluaciones correspondientes a los esquemas de mejores prácticas en materia de protección de datos personales, y
+
+VI. Diseñar y aplicar indicadores para el cumplimiento de las disposiciones en materia de protección de datos personales.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2026)</small>
+
+###### Artículo 62.
+
+Las funciones previstas en el presente capítulo se ejercerán de manera separada de los procedimientos de responsabilidad administrativa, garantizando en todo momento la independencia, imparcialidad y debido proceso.
+
 ## TRANSITORIOS
 
 Primero. El presente Estatuto Orgánico del Órgano Interno de Control del Instituto Estatal Electoral de Nayarit entrará en vigor el día uno de enero del año dos mil veintiséis.
@@ -666,3 +800,15 @@ SEGUNDO. Publíquese el presente acuerdo en la página de internet del Instituto
 Así lo acordó, en la Ciudad de Tepic, Nayarit a los siete días del mes de noviembre del año dos mil veinticinco, el Maestro José Eduardo González Pacheco, Titular del Órgano Interno de Control del Instituto Estatal Electoral de Nayarit.- Rúbrica.
 
 Atentamente.- "En la democracia, todas y todos participamos".- Tepic, Nayarit 17 de diciembre de 2025.- DRA. MARÍA JOSÉ TORRES HERNÁNDEZ, Consejera Presidenta.-Rúbrica.- MTRA. MAYRA TAL TINZIN SAMANIEGO MURILLO, Secretaria General Provisional.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "AVISO POR EL QUE SE DA A CONOCER A LA CIUDADANÍA EN GENERAL LA APROBACIÓN DEL ACUERDO ADMINISTRATIVO QUE TIENE POR OBJETO ADICIONAR EL ESTATUTO ORGÁNICO QUE REGULA LA AUTONOMÍA TÉCNICA Y DE GESTIÓN DEL ÓRGANO INTERNO DE CONTROL DEL INSTITUTO ESTATAL ELECTORAL DE NAYARIT PARA DETERMINAR SU COMPETENCIA COMO AUTORIDAD GARANTE Y REVISORA EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES".]
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. En cumplimiento a la fracción XXVIII del artículo 102 de la Ley Electoral del Estado de Nayarit, remítase el presente acuerdo a la integración del Consejo Local Electoral del Instituto Estatal Electoral de Nayarit.
+
+TERCERO. Publíquese el presente acuerdo en la página de internet del Instituto Estatal de Nayarit en el apartado correspondiente al Órgano Interno de Control y túrnese solicitud para la difusión de los puntos de acuerdo en el Periódico Oficial Órgano del Gobierno del Estado de Nayarit.
