@@ -4,7 +4,7 @@ identifier: "HID-ley-de-turismo-sustentable-del-estado-de-hidalgo-91008"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-10"
-last_updated: "2025-12-26"
+last_updated: "2026-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de diciembre de 2012.
 
@@ -189,6 +189,10 @@ XVII.- Registro Estatal de Turismo: Catálogo público de prestadores de servici
 
 XVII Bis.- Ruta Gastronómica: El circuito geográfico marcado en el mapa de la Entidad, basado en la gastronomía de sus regiones;
 
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2026)</small>
+
+XVII Ter.- Ruta Turística: Circuito temático o geográfico, basado en el patrimonio natural, cultural, artesanal o biocultural de una zona determinada, representado en el territorio mediante señalización física o en sistemas de información cartográfica.
+
 > <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2020)</small>
 
 XVIII.- Secretaría: La Secretaría de Turismo del Estado de Hidalgo;
@@ -352,6 +356,10 @@ XXI.- Emitir recomendaciones y opiniones a la Secretaría de Turismo Federal en 
 XXII.- Fomentar la cultura y la enseñanza de turismo y de la capacitación y certificación de las personas físicas y morales del sector turístico;
 
 XXIII.- Proponer, en coordinación con los Municipios, los proyectos de declaratoria de Zonas de Desarrollo Turístico Sustentable ante la Secretaría Federal;
+
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2026)</small>
+
+XXIII Bis.- Promover y difundir las rutas turísticas, en coordinación con los municipios.
 
 XXIV.- Propiciar y proponer a través de la Promotora Turística de Hidalgo, la creación de instalaciones, incentivos, fondos y estímulos administrativos, económicos y fiscales, para el fomento de la inversión en el desarrollo de la actividad turística sustentable y competitiva, en coordinación con las autoridades de la Administración Pública Estatal, Federal y Municipal, que por sus facultades corresponda;
 
@@ -546,6 +554,10 @@ VII.- Consensuar con los sectores privado y social, acciones tendientes a detona
 VIII.- Participar en los programas de ordenamiento turístico del territorio;
 
 IX.- Participar en el diseño, instrumentación, ejecución y evaluación de los Programas Municipales de investigación para el desarrollo turístico;
+
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2026)</small>
+
+IX Bis.- Implementar acciones de promoción y difusión de rutas turísticas dentro de su territorio, en coordinación con la Secretaría, procurando su integración sustentable y la participación de las comunidades locales.
 
 X.- Apoyar y participar con el Gobierno Estatal, en las acciones de promoción turística del Municipio;
 
@@ -1546,5 +1558,11 @@ P.O. 10 DE JUNIO DE 2025.
 P.O. 26 DE DICIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 372 – LXVI POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 34 TER DE LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO, EN MATERIA DE PROMOCIÓN DEL TURISMO INCLUYENTE”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 25 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 582 – LXVI POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE TURISMO SUSTENTABLE DEL ESTADO DE HIDALGO, EN MATERIA DE RUTAS TURÍSTICAS”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
