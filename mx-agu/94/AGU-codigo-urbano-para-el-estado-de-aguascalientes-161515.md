@@ -4,7 +4,7 @@ identifier: "AGU-codigo-urbano-para-el-estado-de-aguascalientes-161515"
 country: "mx"
 rank: "codigo"
 publication_date: "2022-12-20"
-last_updated: "2026-02-23"
+last_updated: "2026-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2026.
 
 Código publicado en el Número 70 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 20 de diciembre de 2020.
 
@@ -431,7 +431,9 @@ XXXII.- DENSIDAD DE POBLACIÓN: número máximo de habitantes que conforme a la 
 
 XXXIII.- DERECHOS DE PREFERENCIA: facultad que por ley tiene el Estado o el Municipio de adquirir predios con prelación a otros adquirentes por el mismo precio;
 
-XXXIV.- DERECHO DE VÍA: franja de predio federal, estatal o municipal que, en las dimensiones correspondientes, corre a ambos lados de la carretera, camino, vía pública e infraestructura existente y, en el caso de la vía pública proyectada comprende, además la franja de predio para el trazo, construcción, conservación, ampliación, protección y uso adecuado de una vía de comunicación;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2026)</small>
+
+XXXIV.- DERECHO DE VÍA: franja de predio federal, estatal o municipal que, en las dimensiones correspondientes, corre a ambos lados de la carretera, camino, vía pública e infraestructura existente y, en el caso de la vía pública proyectada comprende, además la franja de predio necesaria para el trazo, construcción, conservación, ampliación, protección y uso adecuado de una vía de comunicación.
 
 XXXV.- DESARROLLO INMOBILIARIO ESPECIAL: aprovechamiento de un inmueble mediante la edificación de construcciones para usos o destinos comerciales, de servicios o industriales; y/o habitacionales en los que no se transmite la propiedad sino solo la posesión, que implique la dotación de obras de infraestructura y equipamiento y la prestación de servicios básicos, con la posibilidad de trazar vialidades internas, así como de utilizar espacios comunes o abiertos sin estar sujetos a copropiedad; sin poder realizarse la enajenación de sus elementos, partes o edificaciones;
 
@@ -9767,7 +9769,17 @@ Tratándose de servicios públicos municipales en primer término, se aplicará 
 
 Las autoridades concedentes podrán otorgar a los particulares derechos de uso, explotación o aprovechamiento sobre los inmuebles que integran el patrimonio estatal o municipal, mediante concesión, para la realización de actividades económicas, sociales o culturales, sin perjuicio de leyes específicas que regulen el otorgamiento de concesiones sobre los inmuebles señalados.
 
-Tratándose de carreteras, puentes y otros bienes susceptibles de concesionarse conforme a este Código, pero no regulados por leyes específicas, los derechos de uso, aprovechamiento o explotación se sujetarán, exclusivamente, a lo previsto en el presente Código y en los reglamentos y las concesiones respectivas.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE MARZO DE 2026)</small>
+
+Para efectos de los proyectos de infraestructura vial y carretera, la concesión administrativa se entenderá como el acto Proyecto por el cual el Estado habilita a una persona física o moral para desarrollar, Proyecto, operar, mantener o explotar infraestructura pública de transporte.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE MARZO DE 2026)</small>
+
+La concesión constituye un acto habilitante de derechos cuyo otorgamiento no implica necesariamente la disponibilidad inmediata del derecho de vía requerido para el Proyecto.
+
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2026)</small>
+
+Tratándose de carreteras, puentes, derecho de vía, la construcción y explotación de carreteras de competencia estatal y otros bienes susceptibles de concesionarse conforme a este Código, pero no regulados por la Ley de Bienes para el Estado de Aguascalientes, los derechos de uso, aprovechamiento o explotación se sujetarán, exclusivamente, a lo previsto en el presente Código y en los reglamentos y las concesiones respectivas.
 
 ### CAPÍTULO II. Normas Generales que Regulan a las Concesiones
 
@@ -9789,9 +9801,21 @@ VI. Causales de revocación; y
 
 VII. Sanciones por incumplimiento.
 
-> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2026)</small>
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2026)</small>
 
-Tratándose de carreteras, puentes y otros bienes susceptibles de concesionarse conforme a este Código, el título de concesión respectivo establecerá si la liberación total del derecho de vía quedará a cargo y responsabilidad exclusiva del concesionario. En estos casos, el inicio de la explotación de la carretera quedará condicionado a que el concesionario haya liberado y acreditado ante la autoridad competente el cien por ciento del derecho de vía correspondiente al tramo concesionado.
+Tratándose de carreteras, puentes y otros bienes susceptibles de concesionarse conforme a este Código, la concesión podrá otorgarse respecto de la totalidad de la obra o por uno o varios tramos, y el título de concesión respectivo establecerá si la liberación total del derecho de vía quedará a cargo y bajo la responsabilidad exclusiva del concesionario. En estos casos, el inicio de la explotación de la carretera o del tramo concesionado quedará condicionado a que el concesionario haya liberado y acreditado ante la autoridad competente el cien por ciento del derecho de vía correspondiente al tramo concesionado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS FRACCIONES], P.O. 25 DE MARZO DE 2026)</small>
+
+Cuando el proyecto requiera derecho de vía, el título de concesión deberá establecer:
+
+I. Las condiciones para la liberación del derecho de vía.
+
+II. Los procedimientos de adquisición o negociación de predios.
+
+III. Los plazos para la integración del derecho de vía.
+
+IV. Las restricciones para el inicio de obras cuando el derecho de vía no esté disponible.
 
 ###### ARTÍCULO 785.
 
@@ -10666,6 +10690,18 @@ P.O. 13 DE NOVIEMBRE DE 2025.
 P.O. 23 DE FEBRERO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 408.- SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 61 DE LA LEY DE BIENES PARA EL ESTADO DE AGUASCALIENTES; Y, SE ADICIONA PÁRRAFO SEGUNDO AL ARTÍCULO 784 DEL CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efectos todas aquellas disposiciones que se oponga (sic) al presente Decreto.
+
+P.O. 25 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 444.- SE REFORMAN LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL; LA LEY DE BIENES PARA EL ESTADO DE AGUASCALIENTES; Y, EL CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO PRIMERO.
 
