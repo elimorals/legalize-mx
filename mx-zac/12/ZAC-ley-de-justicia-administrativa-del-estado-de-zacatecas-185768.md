@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-justicia-administrativa-del-estado-de-zacatecas-185768"
 country: "mx"
 rank: "ley"
 publication_date: "2026-02-21"
-last_updated: "2026-02-21"
+last_updated: "2026-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=185768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ZAC"
 ---
 # LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE ZACATECAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 25 DE MARZO DE 2026 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE ZACATECAS
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 25 DE MARZO DE 2026.]</small>
 
 Ley publicada en el Suplemento 7 al Número 15 del Periódico Oficial del Estado de Zacatecas, el sábado 21 de febrero de 2026.
 
@@ -201,9 +201,11 @@ XVI. Las que nieguen la indemnización por responsabilidad patrimonial del Estad
 
 XVII. Las demás que le confieran la Ley General, la presente Ley, el Reglamento Interior y demás ordenamientos legales aplicables.
 
+> <small>(F. DE E., P.O. 25 DE MARZO DE 2026)</small>
+
 ###### Artículo 10.
 
-El Tribunal conocerá de los procedimientos de responsabilidades administrativas de las personas servidoras públicas y particulares vinculados con faltas graves promovidas por la Secretaría de la Función Pública, por los Órganos Internos de Control de los entes públicos estales (sic) o municipales, o de los organismos constitucionales autónomos, o por la Auditoría Superior del Estado para la imposición de sanciones en términos de lo dispuesto en la Ley General, así como fincar a quien resulte responsable el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la hacienda pública estatal o municipal, o bien, al patrimonio de los entes públicos estatales o municipales.
+El Tribunal conocerá de los procedimientos de responsabilidades administrativas de las personas servidoras públicas y particulares vinculados con faltas graves promovidas por la Secretaría de la Función Pública, por los Órganos Internos de Control de los entes públicos estatales o municipales, o de los organismos constitucionales autónomos, o por la Auditoría Superior del Estado para la imposición de sanciones en términos de lo dispuesto en la Ley General, así como fincar a quien resulte responsable el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la hacienda pública estatal o municipal, o bien, al patrimonio de los entes públicos estatales o municipales.
 
 ### Capítulo IV. Integración y Funcionamiento del Tribunal
 
@@ -367,7 +369,9 @@ XII. Vigilar que los recursos del Tribunal se administren conforme a los princip
 
 XIII. Aprobar y autorizar a la persona titular de la Presidencia para que celebre convenios y contratos en materias relacionadas con la competencia del Tribunal;
 
-XIV. Aprobar el Catálogo de Cargos y Puestos, así como el Tabulador de Salarios del personal del Tribunal del Tribunal (sic);
+> <small>(F. DE E., P.O. 25 DE MARZO DE 2026)</small>
+
+XIV. Aprobar el Catálogo de Cargos y Puestos, así como el Tabulador de Salarios del personal del Tribunal;
 
 XV. Observar la igualdad y perspectiva de género en la integración de las áreas administrativas del Tribunal;
 
@@ -949,7 +953,9 @@ VI. Incurrir en actos u omisiones que constituyan violencia, acoso u hostigamien
 
 VII. Recibir de las partes o sus representantes, obsequios, prebendas, dinero o cualquier otro incentivo por el desempeño de sus funciones, y
 
-VIII. Las demás que establezcan establezca (sic) el Pleno, Reglamento Interior y otras disposiciones aplicables.
+> <small>(F. DE E., P.O. 25 DE MARZO DE 2026)</small>
+
+VIII. Las demás que establezca el Pleno, el Reglamento Interior y otras disposiciones aplicables.
 
 ### Capítulo VI. Responsabilidades e Impedimentos de las Personas Servidoras Públicas
 
@@ -1229,7 +1235,9 @@ b) La persona a quien favorezca la resolución cuya nulidad pida la autoridad ad
 
 c) Las personas o instituciones que funjan como autoridad en el ámbito estatal, municipal, incluyendo la administración descentralizada y los organismos constitucionales autónomos;
 
-III. La persona quien tenga un derecho incompatible a la pretensión de quien demanda, tendrá el carácter de tercera en juicio.
+> <small>(F. DE E., P.O. 25 DE MARZO DE 2026)</small>
+
+III. La persona que tenga un derecho incompatible a la pretensión de quien demanda, tendrá el carácter de tercera en juicio.
 
 ###### Artículo 79.
 
@@ -1343,7 +1351,9 @@ La persona actuaria deberá certificar el día y hora en que hayan sido colocado
 
 Las notificaciones a las autoridades se harán por boletín electrónico o por oficio.
 
-En caso de que no se tenga registro de la dirección de correo electrónico de la autoridad señalada como demandada, quien ostente la titularidad de la Sala instructora podrá realizar el emplazamiento mediante oficio, requiriendo a la autoridad correspondiente, para que a más tardar al contestar la demanda, señale dirección de correo electrónico para efecto de realizar las posteriores notificaciones por esta vía, apercibiéndolo que de no hacerlo, se procederá en términos del segundo párrafo del artículo 87 de esta Ley.
+> <small>(F. DE E., P.O. 25 DE MARZO DE 2026)</small>
+
+En caso de que no se tenga registro de la dirección de correo electrónico de la autoridad señalada como demandada, quien ostente la titularidad de la Sala instructora podrá realizar el emplazamiento mediante oficio, requiriendo a la autoridad correspondiente, para que a más tardar al contestar la demanda, señale dirección de correo electrónico para efecto de realizar las posteriores notificaciones por esta vía, apercibiéndolo que de no hacerlo, se procederá en términos del segundo párrafo del artículo 83 de esta Ley.
 
 ###### Artículo 91.
 
@@ -1511,7 +1521,9 @@ Contra el desechamiento de la demanda procede el recurso de reconsideración.
 
 Admitida la demanda, se ordenará emplazar a la parte demandada para que la conteste dentro de los quince días hábiles siguientes a aquél en que surta efectos el emplazamiento y se dictarán las demás providencias que procedan. Cuando fueren varias las personas demandadas, el término para contestar correrá individualmente. Contestada la demanda y preparadas las pruebas para su desahogo, se citará para la audiencia del juicio dentro de un plazo que no excederá de veinte días hábiles.
 
-Cuando alguna autoridad o persona tercera interesada que deba ser parte en el juicio no fuese señalado por la parte actora, de oficio se le correrá traslado de la demanda para que la conteste en el plazo que esta ley establece.
+> <small>(F. DE E., P.O. 25 DE MARZO DE 2026)</small>
+
+Cuando alguna autoridad o persona tercera interesada que deba ser parte en el juicio no fuese señalada por la parte actora, de oficio se le correrá traslado de la demanda para que la conteste en el plazo que esta ley establece.
 
 La persona tercera interesada se podrá apersonar en juicio hasta antes del cierre de instrucción, aportando las pruebas que estime pertinentes y señalando dirección de correo electrónico.
 
@@ -1803,7 +1815,9 @@ Los documentos electrónicos se presentarán mediante el empleo de las tecnolog�
 
 Para el caso de pruebas distintas a las documentales, los instrumentos en los que se haga constar la existencia de dichas pruebas se integrarán al expediente electrónico. La Secretaría General de Acuerdos deberá digitalizar las constancias relativas y procederá al cotejo con los originales físicos y posterior certificación. Asimismo, deberá garantizar el resguardo de los originales y de los bienes materiales que, en su caso, hubieren sido objeto de prueba, para lo cual se formará un expediente físico complementario.
 
-El ofrecimiento y desahogo de las pruebas se sujetarán a las reglas establecidas en la presente Ley para el juicio en la vía tradicional; aquellas que requieran ser exhibidas de manera física, se hará a más tardar el día hábil siguiente, mediante promoción dirigida a la persona titular de la Sala instructora para que, en la misma fecha en la que se registre en el SIT ZAC la promoción correspondiente a su ofrecimiento, se haga constar su recepción.
+> <small>(F. DE E., P.O. 25 DE MARZO DE 2026)</small>
+
+El ofrecimiento y desahogo de las pruebas se sujetarán a las reglas establecidas en la presente Ley para el juicio en la vía tradicional; aquellas que requieran ser exhibidas de manera física, se hará a más tardar el día hábil siguiente, mediante promoción dirigida a la persona titular de la Sala instructora para que, en la misma fecha en la que se registre en el SIT-ZAC la promoción correspondiente a su ofrecimiento, se haga constar su recepción.
 
 ###### Artículo 144.
 
@@ -1855,9 +1869,11 @@ El reporte que determine la interrupción en el SIT-ZAC deberá señalar la caus
 
 ### Capítulo XI. Mecanismos Alternativos de Solución de Controversias
 
+> <small>(F. DE E., P.O. 25 DE MARZO DE 2026)</small>
+
 ###### Artículo 153.
 
-Los mecanismos son procedimientos no jurisdiccionales cuyo objeto consiste en propiciar la avenencia entre las partes de manera voluntaria, pacífica y benéfica para ambas, a través de concesiones reciprocas, en una controversia o conflicto presente o futuro, que se rigen por los principios de voluntariedad, confidencialidad, imparcialidad, neutralidad, flexibilidad, eficiencia y eficacia.
+Los mecanismos son procedimientos no jurisdiccionales cuyo objeto consiste en propiciar la avenencia entre las partes de manera voluntaria, pacífica y benéfica para ambas, a través de concesiones recíprocas, en una controversia o conflicto presente o futuro, que se rigen por los principios de voluntariedad, confidencialidad, imparcialidad, neutralidad, flexibilidad, eficiencia y eficacia.
 
 ###### Artículo 154.
 
