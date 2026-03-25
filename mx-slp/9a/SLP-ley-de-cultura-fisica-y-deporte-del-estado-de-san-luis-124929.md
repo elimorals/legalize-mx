@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-cultura-fisica-y-deporte-del-estado-de-san-luis-124929"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-14"
-last_updated: "2026-03-05"
+last_updated: "2026-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de diciembre de 2017.
 
@@ -1461,13 +1461,17 @@ III. El uso indebido de recursos públicos por parte de los sujetos destinatario
 
 IV. El incumplimiento o violación a los estatutos de las asociaciones y sociedades deportivas estatales o municipales, por cuanto hace a la elección de sus cuerpos directivos;
 
-> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2026)</small>
 
-V. El incumplimiento de las obligaciones establecidas en los artículos 40 y 78 de la presente Ley, y
+V. El incumplimiento de las obligaciones establecidas en los artículos 40 y 78 de la presente Ley;
 
-> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2026)</small>
 
-VI. Incurrir o incitar a que otros incurran en cualquier acto de violencia antes, durante y después del evento deportivo, que ponga en riesgo la integridad de los presentes.
+VI. Incurrir o incitar a que otros incurran en cualquier acto de violencia antes, durante y después del evento deportivo, que ponga en riesgo la integridad de los presentes, y
+
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2026)</small>
+
+VII. El incumplimiento por parte de los organizadores de eventos deportivos o de espectáculos, de las disposiciones establecidas en la fracción II del artículo 37 de esta ley.
 
 ###### ARTÍCULO 131.
 
@@ -1503,7 +1507,9 @@ IV. A técnicos, árbitros y jueces:
 
 a) Amonestación privada o pública.
 
-b) Suspensión temporal o definitiva de su inscripción al Sistema Estatal o Municipal, y
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2026)</small>
+
+b) Suspensión temporal o definitiva de su inscripción al Sistema Estatal o Municipal;
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE MARZO DE 2026)</small>
 
@@ -1515,7 +1521,17 @@ b) Amonestación privada o pública.
 
 c) Multa de 10 a 90 unidades de medida de actualización vigente que corresponda al momento de cometer la infracción.
 
-d) Suspensión de uno a cinco años del acceso a eventos deportivos masivos o con fines de espectáculo.
+> <small>(REFORMADO, P.O. 25 DE MARZO DE 2026)</small>
+
+d) Suspensión de uno a cinco años del acceso a eventos deportivos masivos o con fines de espectáculo; y
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 25 DE MARZO DE 2026)</small>
+
+VI. A los responsables en organizar los eventos:
+
+a) Sin perjuicio de las responsabilidades civiles, administrativas o penales que resulten, se impondrá multa de 1000 a 5000 unidades de medida de actualización vigente, que corresponda al momento de cometer la infracción.
+
+b) Suspensión de uno a cinco años en la organización de eventos deportivos masivos o con fines de espectáculo.
 
 ## TRANSITORIOS
 
@@ -1634,5 +1650,13 @@ P.O. 5 DE MARZO DE 2026.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0478.- POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE CULTURA FÍSICA Y DEL DEPORTE DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0496.- QUE REFORMA LOS ARTÍCULOS 130 Y 131; Y REALIZA ADICIÓN AL ARTÍCULO 131, DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
