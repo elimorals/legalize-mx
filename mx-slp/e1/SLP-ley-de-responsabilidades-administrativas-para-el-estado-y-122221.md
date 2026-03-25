@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-responsabilidades-administrativas-para-el-estado-y-12222
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-03"
-last_updated: "2026-01-13"
+last_updated: "2026-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el día sábado 3 de junio de 2017.
 
@@ -726,6 +726,10 @@ II. No inicien el procedimiento correspondiente ante la autoridad competente, de
 III. Revelen la identidad de un denunciante anónimo protegido bajo los preceptos establecidos en esta Ley.
 
 Para efectos de la fracción anterior, los servidores públicos que denuncien una falta administrativa grave, o sean testigos en el procedimiento, podrán solicitar medidas de protección que resulten razonables. La solicitud deberá ser evaluada y atendida de manera oportuna por el ente público donde presta sus servicios el denunciante.
+
+> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2026)</small>
+
+ARTÍCULO 63 BIS. Será responsable de injerencia y/o intromisión sindical la persona servidora pública que, por sí o por terceros, incurra en las conductas previstas en el artículo 70 Bis de la Ley de los Trabajadores al Servicio de las Instituciones Públicas del Estado de San Luis Potosí y se le sancionará de acuerdo en lo previsto en el Capítulo II, Título Cuarto de la Ley que nos ocupa.
 
 ### Capítulo III. Actos de Particulares Vinculados con Faltas Administrativas Graves
 
@@ -2126,3 +2130,11 @@ P.O. 13 DE ENERO DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 0445.- QUE REFORMA LOS ARTÍCULOS 230 Y 231; Y DEROGA EL ARTÍCULO 231 BIS, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ. REALIZA ADICIÓN AL ARTÍCULO 41 Y LOS ARTÍCULOS 41 BIS, 41 TER Y 175 TER DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ. REFORMA LOS ARTÍCULOS 4° Y 58; Y REALIZA ADICIÓN AL ARTÍCULO 3°, 4°, 5°, 10, 11, 24, 58, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE SAN LUIS POTOSÍ, Y ADICIONA EL ARTÍCULO 51 BIS, A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+P.O. 25 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0492.- QUE ADICIONA EL ARTÍCULO 70 BIS, A LA LEY DE LOS TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES PÚBLICAS DEL ESTADO DE SAN LUIS POTOSÍ; Y ADICIONA EL ARTÍCULO 63 BIS, A LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
