@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-bienes-para-el-estado-de-aguascalientes-168852"
 country: "mx"
 rank: "ley"
 publication_date: "2023-12-27"
-last_updated: "2026-02-23"
+last_updated: "2026-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168852&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE BIENES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2026.
 
 Ley publicada en el Extraordinario Número 60 del Periódico Oficial del Estado de Aguascalientes, el miércoles 27 de diciembre de 2023.
 
@@ -63,7 +63,9 @@ I. Administración Pública Estatal: A las Dependencias y Entidades Paraestatale
 
 II. Afectación: Acto por el que se regresa al régimen del dominio público un bien mueble o inmueble que, fue desafectado para un traslado de dominio y no se llevó a cabo la autorización correspondiente.
 
-III. Autoridades Administradoras: Las Dependencias y Entidades Paraestatales que en relación con los inmuebles que administran y/o son de su propiedad, ejerzan las facultades que esta Ley y las demás disposiciones les confieran en materia de concesiones sobre el uso, aprovechamiento y explotación de bienes inmuebles, así como sobre permisos y autorizaciones;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2026)</small>
+
+III. Autoridades Administradoras: Las Dependencias y Entidades Paraestatales que en relación con los inmuebles que administran y/o son de su propiedad, ejerzan las facultades que esta Ley y las demás disposiciones les confieran en materia de concesiones sobre el uso, aprovechamiento y explotación de bienes inmuebles, la construcción y explotación de carreteras, así como sobre permisos y autorizaciones;
 
 IV. Autorización: Es el acto de autoridad que sin contraprestación otorga una acción de hacer sobre el uso de un bien inmueble del Poder Ejecutivo;
 
@@ -77,13 +79,43 @@ VIII. Cambio de uso o destino: Acto por el que se modifica el uso o destino de u
 
 IX. Cambio de usuario: Acto por el que se cambia de usuario un bien mueble o inmueble del dominio público;
 
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2026)</small>
+
+IX Bis. Caminos de acceso: Son aquellos que comunican a un predio o hacienda con una carretera estatal, camino rural, periférico o libramiento, debiendo contar con carriles de desaceleración y aceleración con sus respectivos acotamientos.
+
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2026)</small>
+
+IX Ter. Caminos rurales: Son aquellos que, no siendo de jurisdicción federal, comunican:
+
+a) Una cabecera municipal con un centro de población en donde no radique Ayuntamiento alguno;
+
+b) Un centro de población que no sea cabecera municipal con otro;
+
+c) Un centro de población con otra vía terrestre de jurisdicción estatal; y
+
+d) Cualquier población con centros agrícolas, pecuarios, industriales, de producción o cualquier sitio de naturaleza análoga.
+
+Los caminos rurales no podrán tener un ancho menor a cuatro metros.
+
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2026)</small>
+
+IX Quater. Carreteras estatales: Las que, no siendo de jurisdicción federal, comunican las cabeceras municipales del Estado entre sí, entroncan con carreteras federales, y son construidas en su totalidad o en su mayor parte con recursos del Estado o mediante concesión estatal a particulares. Las carreteras estatales no podrán tener un ancho menor a seis metros.
+
 X. Comités de Bienes: A los órganos colegiados encargados de conocer, opinar, evaluar, autorizar, controlar y dar seguimiento de las operaciones establecidas en la presente Ley;
 
-XI. Concesión: Acto administrativo por medio del cual la persona titular del Poder Ejecutivo, faculta a una persona física o moral para que lleve a cabo el uso, aprovechamiento o explotación de bienes inmuebles de dominio público que se encuentren asociadas a la prestación de servicios públicos;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2026)</small>
 
-XII. Constitución: A la Constitución Política del Estado de Aguascalientes;
+XI. Concesión: Acto administrativo por medio del cual la persona titular del Poder Ejecutivo del Estado faculta a una persona física o moral para llevar a cabo el uso, aprovechamiento o explotación de bienes inmuebles de dominio público que se encuentren asociados a la prestación de servicios públicos; o por el cual se faculta a una persona física o moral la construcción, operación, mantenimiento y explotación de infraestructura carretera como concesionado; o a la construcción y explotación de carreteras, en los términos establecidos en la presente Ley, en el título de concesión respectivo y en las demás disposiciones aplicables.
 
-XIII. Contraloría: A la Contraloría del Estado;
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2026)</small>
+
+XII. Concesión de servicio público: Acto administrativo mediante el cual la persona titular del Poder Ejecutivo del Estado otorga a una persona física o moral temporal para prestar un servicio público cuya titularidad corresponde al Estado, bajo su regulación, supervisión y control, de conformidad con lo previsto en la presente Ley, en el título de concesión respectivo y en las demás disposiciones aplicables.
+
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2026)</small>
+
+XIII. Concesión de infraestructura: Acto administrativo mediante el cual la persona titular del Poder Ejecutivo del Estado otorga a una persona física o moral el derecho para diseñar, construir, conservar, mantener, operar y explotar carreteras, libramientos, puentes u otras vías de comunicación terrestre de competencia estatal, así como para el uso, aprovechamiento y explotación del derecho de vía correspondiente, por un plazo determinado y conforme a las condiciones técnicas, financieras y operativas establecidas en la presente Ley, en el título de concesión respectivo y en las demás disposiciones aplicables.
+
+La Concesión constituye un acto administrativo habilitante que otorga derechos para desarrollar proyectos de infraestructura pública conforme a las condiciones establecidas en el Título de Concesión.
 
 XIV. Dependencias: A las que integran la Administración Pública Centralizada, de acuerdo a la organización administrativa que establece la Ley Orgánica de la Administración Pública Estatal;
 
@@ -231,7 +263,11 @@ Los bienes sujetos bajo el régimen de dominio público, son:
 
 I. De uso común: todos aquellos que pueden ser aprovechados por las personas habitantes en el Estado, sin más limitaciones y restricciones que las establecidas por las leyes y demás disposiciones normativas, en los que su construcción, conservación y mantenimiento esté a cargo del Poder Ejecutivo, consistentes en:
 
-a) Caminos, carreteras, puentes, calles, aceras, avenidas, viaductos y en general cualquier vía terrestre de comunicación;
+> <small>(REFORMADO, P.O 25 DE MARZO DE 2026)</small>
+
+a) Caminos, carreteras, puentes, calles, aceras, avenidas, viaductos, libramientos y periféricos, y en general cualquier vía terrestre de comunicación;
+
+Las carreteras y obras de infraestructura vial que formen parte del dominio público del Estado podrán ser objeto de concesión administrativa. La Concesión constituye un acto administrativo habilitante que otorga derechos para desarrollar proyectos de infraestructura pública conforme a las condiciones establecidas en el Título de Concesión.
 
 b) Plazas, paseos, jardines, parques, monumentos, zonas e inmuebles con valor histórico, arqueológico, cultural, típico, artísticos (sic) o de belleza natural;
 
@@ -275,9 +311,17 @@ c) Colecciones científicas, técnicas, de armas y numismáticas y filatélicas;
 
 d) Archivos, fono grabaciones, películas, archivos fotográficos, magnéticos o informáticos, cintas magnetofónicas y cualquier otro objeto que contenga imágenes o sonido.
 
-VI. Las pinturas, murales, esculturas y, cualquier otra obra artística incorporada permanentemente a los bienes inmuebles del Estado cuya conservación sea de interés general; y
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2026)</small>
 
-VII. Los demás que por disposición de otros ordenamientos legales formen parte del dominio público del Estado.
+VI. Las pinturas, murales, esculturas y, cualquier otra obra artística incorporada permanentemente a los bienes inmuebles del Estado cuya conservación sea de interés general;
+
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2026)</small>
+
+VII. Las vías federales que sean transferidas al Estado; y
+
+(REUBICADA, P.O. 25 DE MARZO DE 2026)
+
+VIII. Los demás que por disposición de otros ordenamientos legales formen parte del dominio público del Estado.
 
 ###### Artículo 16.
 
@@ -613,9 +657,35 @@ VI. Practicar visitas de inspección para verificar el control y existencia en a
 
 VII. Las demás que le confieran esta Ley y otras disposiciones aplicables.
 
-#### Sección Quinta. Dependencias y Entidades
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O 25 DE MARZO DE 2026)</small>
 
-#### Sección Primera. Concesiones
+#### Sección Cuarta Bis. Secretaria de Obras Públicas
+
+> <small>(ADICIONADO, P.O 25 DE MARZO DE 2026)</small>
+
+###### Artículo 44 Bis.
+
+Corresponde a la Secretaría de Obras Públicas lo siguiente:
+
+I. Llevar a cabo el procedimiento de licitación para el otorgamiento de concesiones para la explotación del derecho de vía o la construcción y explotación de carreteras de competencia estatal, así como las licitaciones de la prestación del servicio. En todo caso las bases de licitación complementarán en caso de ser necesario, si se requieren validaciones o dependencias adicionales que colaboren con la Secretaría General de Gobierno.
+
+II. Integrar el registro de concesiones del derecho de vía, o de construcción y explotación de carreteras de competencia estatal.
+
+III. Determinar las características y especificaciones técnicas y aprobar el trazo del derecho de vía y o para la construcción y explotación de carreteras de competencia estatal, así como de servicio carreteros (sic).
+
+IV. Vigilar la operación de las concesiones del derecho de vía o para la construcción y explotación de carreteras de competencia estatal.
+
+V. Asesorar en la celebración de contratos y convenios con los Gobiernos Federal y Municipal en todo lo relacionado con las carreteras de competencia estatal y sus obras.
+
+VI. Establecer las contraprestaciones que deberán cubrir los concesionarios de derecho o (sic) vía o para la construcción y explotación de carreteras de competencia estatal.
+
+VII. Vigilar el cumplimiento de las concesiones en materia de derecho de vía o de construcción y explotación de carreteras de competencia estatal e imponer las sanciones que correspondan en caso de incumplimiento; y
+
+VIII. Las demás que le confieran esta Ley y otros ordenamientos legales aplicables.
+
+Las características técnicas de construcción, conservación y mantenimiento, serán materia de revisión y análisis a cargo de lo que la Secretaría de Obras Públicas pondere para tal efecto. Las características operativas para otorgar el plazo de la concesión derivado de la recuperación de la inversión del licitante y todos aquellos estudios, cálculos y análisis financieros, basados en datos de pronóstico de tránsito, control de aforo, plan de financiamiento, esquema tarifario y demás relativos, será analizado por la Secretaría de Finanzas y por la Secretaría de Planeación, Participación y Desarrollo o por aquellas dependencias públicas del gobierno central o descentralizado cuyas actividades, acciones y las demás facultades que les otorgue la Ley Orgánica de la Administración Pública Estatal, así como las que se establezcan en las Bases del procedimiento o en el Título de concesión que regule el aprovechamiento, uso o explotación del bien o servicio de que se trate, para tal efecto.
+
+#### Sección Quinta. Dependencias y Entidades
 
 ###### Artículo 45.
 
@@ -817,23 +887,33 @@ Los Comités de Bienes de las Entidades Paraestatales ejercerán las atribucione
 
 ### CAPÍTULO I. Concesiones, Permisos y Autorizaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O 25 DE MARZO DE 2026)</small>
+
 ###### Artículo 60.
 
-El Poder Ejecutivo podrá otorgar concesiones para el uso, aprovechamiento o explotación de bienes de dominio público cuando concurran causas de interés público. El procedimiento para el otorgamiento de concesiones se llevará a cabo de manera concurrente entre las Autoridades Administradoras, las cuales tendrán a su cargo el desarrollo de los procedimientos de selección y la persona titular del Poder Ejecutivo, quien deberá ocurrir en la formalización del título de concesión.
+El Titular del Poder Ejecutivo podrá otorgar concesiones para el uso, aprovechamiento o explotación de bienes de dominio público cuando concurran causas de interés público. El procedimiento para el otorgamiento de concesiones se llevará a cabo de manera concurrente entre las Autoridades Administradoras o licitantes en los términos de la presente ley, las cuales tendrán a su cargo el desarrollo de los procedimientos de selección y la persona titular del Poder Ejecutivo, quien deberá ocurrir en la formalización del título de concesión.
+
+> <small>(ADICIONADO, P.O 25 DE MARZO DE 2026)</small>
+
+Las concesiones a que se refiere el presente artículo podrán consistir, entre otras modalidades, en concesiones de servicio público o en concesiones de infraestructura, en términos de lo previsto en el artículo 2, fracciones XII y XIII, de la presente Ley.
 
 En los procedimientos de selección para el otorgamiento de concesiones, las Autoridades Administradoras analizarán los aspectos técnicos y financieros del uso, aprovechamiento o explotación que pretenda darse a los bienes inmuebles en relación con los actos o actividades de interés público que en materia de su competencia se señalen en las solicitudes respectivas, así como los requisitos que correspondan conforme a esta Ley y llevarán a cabo los procedimientos previstos en el artículo 66 del presente ordenamiento. Por su parte, la persona titular del Poder Ejecutivo suscribirá el título de la concesión.
 
 En lo que corresponde a los permisos y autorizaciones, las Autoridades Administradoras estarán facultadas para el otorgamiento de permisos y autorizaciones para el uso, goce y disfrute de bienes de dominio público o privado, sin mayor restricción que la de que, el fin que se le otorgue sea considerado como lícito.
 
-#### Sección Segunda. Permisos y Autorizaciones
+> <small>(ADICIONADO, P.O 25 DE MARZO DE 2026)</small>
+
+El procedimiento de selección para el otorgamiento de concesiones de derecho de vía o para la construcción y explotación de carreteras de competencia estatal se llevará a cabo conforme al procedimiento especial que establece la presente Ley.
+
+#### Sección Primera. Concesiones
 
 ###### Artículo 61.
 
 Tratándose de concesiones que corresponda otorgar al Poder Ejecutivo, las disposiciones del presente capítulo se aplicarán en los casos en que las leyes especiales de la materia no prevean un procedimiento específico y, de manera supletoria, se aplicará el Código Urbano para el Estado de Aguascalientes, la Ley del Procedimiento Administrativo del Estado de Aguascalientes, la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios y la demás normatividad aplicable.
 
-> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2026)</small>
+> <small>(REFORMADO, P.O 25 DE MARZO DE 2026)</small>
 
-Tratándose de concesiones en materia de carreteras, puentes y otros bienes relacionados, que no estén regulados por leyes específicas, se estará a lo establecido en el Código Urbano para el Estado de Aguascalientes.
+Tratándose de concesiones en materia de carreteras, puentes y otros bienes relacionados, que no estén regulados por leyes específicas, se estará a lo establecido en la presente Ley, así como en el Código Urbano para el Estado de Aguascalientes.
 
 ###### Artículo 62.
 
@@ -939,6 +1019,108 @@ V. Que del uso, aprovechamiento o explotación de un bien no resulte una posible
 
 Las concesiones únicamente podrán otorgarse a ciudadanos mexicanos o personas morales constituidas conforme a las leyes mexicanas, con cláusula de exclusión de extranjeros.
 
+> <small>(ADICIONADO, P.O 25 DE MARZO DE 2026)</small>
+
+###### Artículo 67 Bis.
+
+El procedimiento para el otorgamiento de concesiones de infraestructura para la explotación del derecho de vía o para la construcción y explotación de carreteras de competencia estatal, se sujetará a lo siguiente:
+
+I. La convocatoria para el otorgamiento de concesiones para la explotación, uso y aprovechamiento del derecho de vía o para la construcción y explotación de carreteras de competencia estatal, podrá llevarse a cabo de oficio por el Ejecutivo Estatal, cuando concurran circunstancias que a su juicio ameriten la concesión.
+
+II. A petición de interesados en obtener la concesión para la explotación, uso o aprovechamiento del derecho de vía o para la construcción y explotación de carreteras de competencia estatal.
+
+III. La solicitud de concesión deberá contener por lo menos:
+
+a) Los datos generales del solicitante;
+
+b) Objeto y motivos de su solicitud;
+
+c) El monto previsto de la inversión;
+
+d) Los datos que permitan identificar el derecho de vía o la carretera que se pretenda construir para su explotación, uso y aprovechamiento mediante concesión;
+
+e) La descripción de las obras, actividades y servicios que se pretendan realizar, y
+
+f) La descripción de las actividades que se pretenden contratar con terceros.
+
+> <small>(ADICIONADO, P.O 25 DE MARZO DE 2026)</small>
+
+###### Artículo 67 Ter.
+
+Para obtener la concesión para la explotación, uso y aprovechamiento del derecho de vía o para la construcción y explotación de carreteras de competencia estatal, los interesados deberán cumplir además de los requisitos generales que establecen la presente Ley y el Código Urbano del Estado de Aguascalientes, con los siguientes requisitos:
+
+I. Acreditar su capacidad jurídica, técnica, administrativa y financiera;
+
+II. Presentar el proyecto técnico y financiero de construcción y explotación de las obras que se pretendan realizar;
+
+III. Presentar los planos descriptivos de la obra;
+
+IV. Acreditar el pago de los derechos correspondientes;
+
+V. Acompañar en caso de tratarse de persona moral copia certificada de la escritura pública constitutiva;
+
+VI. Condiciones para la liberación del derecho de vía;
+
+VII. Procedimientos de adquisición o negociación de predios;
+
+VIII. Plazos para la integración del derecho de vía;
+
+IX. Las restricciones para el inicio de obras cuando el derecho de vía no esté disponible.
+
+X. Los demás que señale la convocatoria correspondiente.
+
+Las carreteras que se construyan por concesión para su explotación serán consideradas como obra de utilidad pública y el concesionario deberá adquirir los terrenos para la construcción de la obra de referencia.
+
+Para efectos de la concesión, el otorgamiento podrá efectuarse aun cuando el derecho de vía no se encuentre plenamente liberado, quedando a cargo del concesionario la obligación de adquirir y liberar los terrenos correspondientes dentro del plazo que se establezca en el título de concesión, en coordinación con la Secretaría de Obras Públicas. La falta de cumplimiento podrá ser causal de rescisión del contrato de concesión.
+
+En caso de presentarse dificultades para la adquisición de los terrenos objeto de la concesión, el concesionario lo comunicará a la Secretaría de Obras Públicas para que se proceda conforme a derecho, pero en todo caso la adquisición será con cargo al concesionario.
+
+> <small>(ADICIONADO, P.O 25 DE MARZO DE 2026)</small>
+
+###### Artículo 67 Quater.
+
+Las concesiones para la explotación, uso y aprovechamiento del derecho de vía o para la construcción y explotación de carreteras de competencia estatal se otorgarán mediante licitación pública conforme a lo siguiente:
+
+I. El Ejecutivo del Estado, por sí o a petición del interesado, expedirá por conducto de la Secretaría de Obras Públicas la convocatoria pública para que, dentro del plazo de treinta días naturales, los interesados presenten sus propuestas en sobres cerrados, los cuales serán abiertos en día preestablecido y en presencia de los mismos;
+
+II. Cuando exista petición del interesado, el Ejecutivo del Estado expedirá la convocatoria o, en su caso, señalará a éste la razón de la improcedencia en un plazo no mayor de noventa días;
+
+III. La convocatoria tendrá el carácter de nacional y publicará simultáneamente en el Periódico Oficial del Gobierno del Estado y en dos periódicos de mayor circulación en la entidad;
+
+IV. Las bases del concurso incluirán como mínimo las características técnicas de la construcción de la vía o el proyecto técnico, el plazo de la concesión y los requisitos de la calidad de la construcción y operación. Los criterios para su otorgamiento serán principalmente los precios y tarifas para el usuario, el proyecto técnico en su caso, así como las contraprestaciones ofrecidas por el otorgamiento de la concesión;
+
+V. Podrán participar uno o varios interesados que demuestren su solvencia económica, así como su capacidad técnica, administrativa y financiera y cumplan con los requisitos que establezcan las bases que expida el Ejecutivo del Estado;
+
+VI. La convocatoria establecerá la forma y términos en que se lleve a cabo una junta de aclaraciones y visita al lugar en que se encuentre el derecho de vía a concesionarse o respecto de la construcción y explotación de carreteras de competencia estatal;
+
+VII. A partir del acto de apertura de propuestas y durante el plazo en que las mismas se estudien o equiparen, se informará a todos los interesados de aquéllas que se desechen y las causas principales que motivaren tal determinación;
+
+VIII. El Ejecutivo del Estado, con base en el análisis comparativo de las proposiciones admitidas, emitirá la resolución debidamente fundada y motivada, la cual será dada a conocer a todos los participantes;
+
+IX. La propuesta ganadora estará a disposición de los participantes durante diez días hábiles, a partir de que se haya dado a conocer la resolución, para que manifiesten lo que a su derecho convenga; y
+
+X. No se otorgará la concesión cuando ninguna de las propuestas presentadas cumpla con las bases del concurso o por caso fortuito o fuerza mayor. En este caso se declarará desierto el concurso y el Ejecutivo del Estado podrá expedir una nueva convocatoria u optar por el procedimiento de asignación directa prevista en la presente Ley.
+
+En todo lo no previsto en la presente Ley, la Secretaría de Obras Públicas podrá aplicar supletoriamente lo dispuesto por la Ley de Obras Públicas y Servicios Relacionados con las Mismas, siempre y cuando no se contraponga con lo dispuesto en la presente Ley.
+
+> <small>(ADICIONADO, P.O 25 DE MARZO DE 2026)</small>
+
+###### Artículo 67 Quinquies.
+
+Otorgado el fallo, la Secretaría de Obras Públicas procederá a remitir el expediente que contenga la validación del procedimiento de selección, a fin de que, en su caso, la persona titular del Poder Ejecutivo formalice el título de concesión respectivo, de conformidad con lo dispuesto en la presente Ley y de manera complementaria en el Código Urbano del Estado de Aguascalientes.
+
+> <small>(ADICIONADO, P.O 25 DE MARZO DE 2026)</small>
+
+###### Artículo 67 Sexies.
+
+Las concesiones para la explotación uso y aprovechamiento del derecho de vía o para la construcción y explotación de carreteras, se podrán otorgar mediante el procedimiento de adjudicación directa cuando concurran los supuestos a que se refiere el artículo 68 y conforme al procedimiento establecido en la fracción II del artículo 66 de esta Ley.
+
+> <small>(ADICIONADO, P.O 25 DE MARZO DE 2026)</small>
+
+###### Artículo 67 Sépties.
+
+Al término del plazo de concesión o por cualquiera de las causas de terminación previstas en el título de concesión, los bienes objeto del mismo, incluyendo los predios y derecho de vía, revertirán al Estado de Aguascalientes automáticamente y en forma libre de gravámenes, compromisos o cargas, quedando el concesionario obligado a devolverlos en condiciones aptas para su uso público conforme al objeto de la concesión.
+
 ###### Artículo 68.
 
 El Poder Ejecutivo a través las Autoridades Administradoras, bajo su más estricta responsabilidad, podrán optar por no llevar a cabo el procedimiento de licitación pública y otorgar una concesión por adjudicación directa, cuando se cumpla alguna o más de las siguientes condiciones:
@@ -953,11 +1135,11 @@ IV. Se trate de la sustitución de un concesionario por revocación o extinción
 
 La excepción a la licitación que realice deberá autorizarse de manera fundada y motivada, según las circunstancias que concurran en cada caso, en criterios de economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para la Entidad Federativa.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MARZO DE 2026)</small>
 
 ###### Artículo 69.
 
-Las concesiones sobre inmuebles de dominio público, salvo excepciones previstas en otras leyes, podrán otorgarse por un período mínimo de 5 años y hasta por un período máximo de 30 años, el cual podrá ser prorrogado una o varias veces sin exceder el citado período, atendiendo tanto para su otorgamiento como para sus prórrogas, a lo siguiente:
+Las concesiones sobre inmuebles de dominio público y para la construcción y explotación de carreteras, salvo excepciones previstas en otras leyes, podrán otorgarse por un período mínimo de 5 años y hasta por un período máximo de 30 años, el cual podrá ser prorrogado una o varias veces sin exceder el citado período, atendiendo tanto para su otorgamiento como para sus prórrogas, a lo siguiente:
 
 I. El monto de la inversión que el concesionario pretenda aplicar;
 
@@ -1007,9 +1189,11 @@ Para la prórroga de concesiones no podrán exigirse requisitos adicionales a lo
 
 La persona titular del Poder Ejecutivo no estará obligada a prorrogar en caso de que el titular de la concesión hubiese incumplido alguno de los requisitos originalmente establecidos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MARZO DE 2026)</small>
+
 ###### Artículo 72.
 
-Las concesiones sobre inmuebles del Poder Ejecutivo se extinguen por cualquiera de las causas siguientes:
+Las concesiones sobre inmuebles del Poder Ejecutivo o para la construcción y explotación de carreteras, se extinguen por cualquiera de las causas siguientes:
 
 I. Vencimiento del período por el que se haya otorgado;
 
@@ -1029,9 +1213,11 @@ VII. Cualquiera otra prevista en las leyes, en las disposiciones administrativas
 
 Es causa de caducidad de las concesiones, no iniciar el uso, aprovechamiento o explotación del inmueble concesionado dentro del plazo señalado en las mismas. Las Autoridades Administradoras informarán a la persona titular del Poder Ejecutivo de dicha situación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MARZO DE 2026)</small>
+
 ###### Artículo 74.
 
-Las concesiones sobre inmuebles del Poder Ejecutivo, podrán ser revocadas por cualquiera de las causas siguientes:
+Las concesiones sobre inmuebles del Poder Ejecutivo o para la construcción y operación de carreteras, podrán ser revocadas por cualquiera de las causas siguientes:
 
 I. Dejar de cumplir con el fin para el que fue otorgada la concesión;
 
@@ -1051,9 +1237,11 @@ VIII. Las demás previstas en esta Ley, en su reglamento o en el título de conc
 
 Las Autoridades Administradoras serán las encargadas de dictaminar las causas de revocación que en cada caso correspondan, para lo cual deberán recabar toda la información y documentación que sirva de sustento en cada uno de los supuestos a que se refiere este artículo. En el dictamen que se emita, se expondrán los fundamentos y motivos de la determinación y se acompañaran los documentos en que se sustenten las causas para la revocación, con la información debidamente validada, la Autoridad Administradora procederá a emitir solicitud a la persona titular del Poder Ejecutivo, para que se dicte el acto respectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MARZO DE 2026)</small>
+
 ###### Artículo 75.
 
-La revocación y la caducidad de las concesiones sobre los bienes de dominio público, cuando procedan conforme a la Ley, se dictarán por la persona titular del Poder Ejecutivo, previa audiencia que se conceda a los interesados para que rindan pruebas y aleguen lo que a su derecho convenga.
+La revocación y la caducidad de las concesiones sobre los bienes de dominio público o para la construcción y explotación de carreteras, cuando procedan conforme a la Ley, se dictarán por la persona titular del Poder Ejecutivo, previa audiencia que se conceda a los interesados para que rindan pruebas y aleguen lo que a su derecho convenga.
 
 En el caso de que la declaratoria quede firme por causa imputable al concesionario, los bienes materia de la concesión, sus mejoras y accesorios pasarán de pleno derecho al control y administración del concesionante, sin pago de indemnización alguna al concesionario.
 
@@ -1067,9 +1255,11 @@ II. Ceder en forma parcial los derechos y obligaciones derivados de las concesio
 
 A los concesionarios les quedará prohibido realizar los actos jurídicos a que se refieren las fracciones anteriores, sin que previamente obtengan la autorización de la persona titular del Poder Ejecutivo. Cualquier operación que se realice en contravención de este artículo será nula. La persona titular del Poder Ejecutivo podrá revocar la misma, en los términos establecidos por el artículo anterior. Lo anterior, sin demérito de las responsabilidades en que incurran los responsables de dichas operaciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MARZO DE 2026)</small>
+
 ###### Artículo 77.
 
-Las concesiones sobre bienes inmuebles de dominio público, podrán rescatarse mediante indemnización, por causa de utilidad, de interés público o de seguridad, cuando así proceda.
+Las concesiones sobre bienes inmuebles de dominio público o para la construcción y explotación de carreteras, podrán rescatarse mediante indemnización, por causa de utilidad, de interés público o de seguridad, cuando así proceda.
 
 La declaratoria de rescate que realice la persona titular del Poder Ejecutivo hará que los bienes materia de la concesión vuelvan, de pleno derecho, a la posesión, control y administración del concesionante. Podrá autorizarse al concesionario a retirar y disponer de los bienes, equipo e instalaciones de su propiedad afectos a la concesión, cuando los mismos no sean útiles al concesionante y puedan ser aprovechados por el concesionario.
 
@@ -1081,7 +1271,7 @@ Si el afectado estuviese conforme con el monto de la indemnización, la cantidad
 
 Independientemente de las acciones en la vía judicial, el Poder Ejecutivo a través de la autoridad correspondiente, podrán llevar a cabo el procedimiento administrativo de conformidad con el Capítulo II de este Título, a fin de recuperar la posesión de un bien inmueble del Poder Ejecutivo cuando un particular explote, use o aproveche un bien inmueble estatal, sin haber obtenido previamente concesión o celebrado contrato con la autoridad competente.
 
-#### Sección Primera. Actos Traslativos de Dominio de Inmuebles
+#### Sección Segunda. Permisos y Autorizaciones
 
 ###### Artículo 79.
 
@@ -1291,7 +1481,7 @@ Los bienes que no se encuentren sujetos al régimen del dominio público y no se
 
 Los ingresos que se obtengan por la venta o arrendamiento de bienes o cualquier otro concepto de ingreso, deberá concentrarse en la Secretaría de Finanzas o en las unidades de administración o finanzas de las Entidades Paraestatales, según corresponda. Las contribuciones y demás gastos que se deban cubrir por la venta de los bienes se harán con cargo al producto de la venta o en su caso, con cargo a los presupuestos autorizados de las Dependencias o Entidades Paraestatales con que cuenten para tal efecto.
 
-#### Sección Segunda. Actos Traslativos de Dominio de Muebles
+#### Sección Primera. Actos Traslativos de Dominio de Inmuebles
 
 ###### Artículo 103.
 
@@ -1443,9 +1633,7 @@ Para la enajenación de aquellos bienes inmuebles propiedad de los organismos p�
 
 Los bienes inmuebles propiedad de los organismos públicos descentralizados del Poder Ejecutivo, sólo podrán ser desincorporados y removidos del régimen del dominio público para su disposición, previa autorización legislativa y mediante acuerdo administrativo de desafectación de la Secretaría de Administración.
 
-#### Sección Tercera. Actos Traslativos de Uso
-
-> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
+#### Sección Segunda. Actos Traslativos de Dominio de Muebles
 
 ###### Artículo 117.
 
@@ -1517,7 +1705,9 @@ Para el Poder Legislativo, Judicial, Organismos Autónomos y demás órdenes de 
 
 La Secretaría de Administración o la Entidad Paraestatal, llevará y mantendrá permanentemente actualizado un catálogo o registro clasificatorio de los bienes muebles, para lo cual se hará llegar de la información necesaria para tales efectos, emitiendo los requerimientos que sean necesario (sic), quedando las Dependencias y las unidades administrativas de las Entidades Paraestatales, según corresponda, obligadas a proporcionar aquella información que les solicite.
 
-#### Sección Primera. Inscripción
+#### Sección Tercera. Actos Traslativos de Uso
+
+> <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2025)</small>
 
 ###### Artículo 127.
 
@@ -1639,7 +1829,7 @@ La Secretaría de Administración deberá expedir la normatividad interna sobre 
 
 Las instituciones privadas que por cualquier concepto utilicen, administren o tengan a su cuidado bienes de propiedad estatal, tendrán a su cargo la elaboración y actualización del inventario de estos bienes y estarán obligadas a proporcionar los datos e informes que les soliciten la Secretaría de Administración.
 
-#### Sección Segunda. Cancelación
+#### Sección Primera. Inscripción
 
 ###### Artículo 145.
 
@@ -1730,6 +1920,8 @@ II. La utilización de un medio de comunicación electrónica, en los términos 
 ###### Artículo 152.
 
 El Registro Estatal permitirá a las personas que lo soliciten, la consulta de las inscripciones de los bienes, de conformidad con la Ley de Transparencia.
+
+#### Sección Segunda. Cancelación
 
 ###### Artículo 153.
 
@@ -1898,3 +2090,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efectos todas aquellas disposiciones que se oponga al presente Decreto.
+
+P.O. 25 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 444.- SE REFORMAN LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA ESTATAL; LA LEY DE BIENES PARA EL ESTADO DE AGUASCALIENTES; Y, EL CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efectos todas aquellas disposiciones que se oponga (sic) al presente Decreto.
