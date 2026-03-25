@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-administracion-publica-para-el-estado-174626
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-09-30"
-last_updated: "2026-01-28"
+last_updated: "2026-03-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174626&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2026.
 
 Ley publicada en la Edición Extraordinaria Número 6349 del Periódico Oficial del Estado de Morelos, el lunes 30 de septiembre de 2024.
 
@@ -787,9 +787,17 @@ XLVIII. Promover la formación y el desarrollo integral de las personas trabajad
 
 XLIX. Fungir como enlace entre el buscador de empleo y la fuente de trabajo, así como apoyar la promoción del empleo, vigilando que este servicio sea gratuito para las personas trabajadoras;
 
-L. Establecer y dirigir el Servicio Estatal de Empleo y vigilar su funcionamiento, y
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2026)</small>
 
-LI. Organizar, dirigir, ordenar y supervisar los servicios de visitas de verificación y de inspección que le correspondan, para comprobar el cumplimiento de la Ley Federal del Trabajo y sus reglamentos, en los ámbitos de su competencia.
+L. Establecer y dirigir el Servicio Estatal de Empleo y vigilar su funcionamiento;
+
+> <small>(REFORMADA, P.O. 25 DE MARZO DE 2026)</small>
+
+LI. Organizar, dirigir, ordenar y supervisar los servicios de visitas de verificación y de inspección que le correspondan, para comprobar el cumplimiento de la Ley Federal del Trabajo y sus reglamentos, en los ámbitos de su competencia, y
+
+> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2026)</small>
+
+LII. Formular, promover, coordinar y ejecutar la política estatal en materia de industria fílmica, cinematográfica y audiovisual, como sector estratégico para el desarrollo económico del Estado, fomentando la atracción de inversiones, el desarrollo de proveeduría local, la innovación, la competitividad y el encadenamiento productivo; en coordinación con la Administración Pública Estatal, los municipios y, en su caso, con autoridades federales y el sector privado para la facilitación, promoción y desarrollo de proyectos en dicha materia, en términos de la normativa aplicable.
 
 ###### Artículo 26.
 
@@ -2260,3 +2268,17 @@ TERCERA. Los procedimientos penales iniciados con anterioridad a la entrada en v
 CUARTA. A partir de la entrada en vigor del presente Decreto, en el ámbito del Estado de Morelos, toda referencia normativa al delito de extorsión contenida en leyes, reglamentos y demás disposiciones locales se entenderá hecha al delito de extorsión previsto en la "Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos", en términos de lo dispuesto por el transitorio Segundo del decreto por el que se expidió la citada Ley General.
 
 QUINTA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 25 DE MARZO DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL “DECRETO MIL CIENTO CINCUENTA Y OCHO.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL ARTÍCULO 25 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, EN MATERIA DE INDUSTRIA FÍLMICA, CINEMATOGRÁFICA Y AUDIOVISUAL”.]</small>
+
+PRIMERA. Remítase el presente Decreto a la Persona Titular del Poder Ejecutivo Estatal, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
+
+CUARTA. En un término no mayor a 70 días hábiles, contados a partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo Estatal deberá realizar las adecuaciones reglamentarias correspondientes.
+
+QUINTA. La Persona Titular del Poder Ejecutivo Estatal, está facultada para interpretar las disposiciones del presente Decreto para efectos administrativos.
