@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-turismo-del-estado-de-campeche-80279"
 country: "mx"
 rank: "ley"
 publication_date: "2011-03-04"
-last_updated: "2025-08-08"
+last_updated: "2026-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80279&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE TURISMO DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 4 de marzo de 2011.
 
@@ -135,6 +135,10 @@ IX. Ordenamiento Turístico del Territorio Estatal: Es el instrumento de la pol�
 
 X. Prestadores de Servicios Turísticos: Las personas físicas o morales que habitualmente proporcionen o contraten con el Turista, la prestación de servicios a que se refiere esta Ley y su Reglamento, incluyendo los ofertados por medio de plataformas digitales, aplicaciones o cualquier otro medio tecnológico similar.
 
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2026)</small>
+
+X Bis. Prestadores de Servicios Turísticos Comunitarios: Las personas que ofrezcan productos o servicios a los turistas, organizados de forma individual o colectiva, caracterizados por su contribución a la preservación de la identidad, autenticidad local, el patrimonio histórico, natural y biocultural, así como al desarrollo sostenible de los territorios en los que operan.
+
 XI. Programa: Programa Sectorial de Turismo Federal.
 
 XII. Programa del Estado: Programa de Turismo del Estado de Campeche.
@@ -193,11 +197,33 @@ IV. Eficiencia;
 
 V. Honradez;
 
-VI. Inclusión;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE MARZO DE 2026)</small>
 
-VII. Oportunidad, y
+VI. Igualdad;
 
-VIII. Sustentabilidad.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE MARZO DE 2026)</small>
+
+VII. Inclusión;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE MARZO DE 2026)</small>
+
+VIII. Oportunidad;
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2026)</small>
+
+IX. Participación;
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2026)</small>
+
+X. Perspectiva comunitaria;
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2026)</small>
+
+XI. Respeto; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 26 DE MARZO DE 2026)</small>
+
+XII. Sustentabilidad.
 
 La Secretaría vigilará que los servicios turísticos en el Estado sean prestados con apego a los principios rectores de la actividad turística, en coordinación con las autoridades competentes que velarán por la protección de los recursos naturales, los valores artísticos, culturales, arqueológicos, arquitectónicos y típicos de los centros turísticos del Estado.
 
@@ -711,7 +737,37 @@ VII. Turismo de salud.- Es la categoría del Turismo que tiene como fin realizar
 
 VIII. Turismo Gastronómico.- Es el que tiene como objetivo conocer y experimentar los atractivos culinarios, a través de la visita a restaurantes, mercados populares, tiendas de venta de productos alimenticios locales, participación en fiestas gastronómicas locales, y otros.
 
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2026)</small>
+
+IX. Turismo Comunitario.- Modalidad de turismo organizada, gestionada y desarrollada por las comunidades locales, que aprovecha de manera sostenible sus recursos patrimoniales, históricos, naturales, culturales y productivos, con el objeto de generar beneficios económicos, sociales y culturales directos para sus habitantes, respetando su identidad, gastronomía, costumbres, tradiciones y entorno. El cual ofrece actividades y experiencias auténticas que permiten a los turistas conectar con la cultura local, contribuir a la preservación y revalorización del patrimonio biocultural, promover el orgullo comunitario y fomentar la transmisión de conocimientos y tradiciones a las futuras generaciones.
+
 Asimismo se impulsarán otras áreas de oportunidad para el Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2026)</small>
+
+###### Artículo 54 Bis.
+
+La Secretaría, en coordinación con los Municipios, integrará el turismo comunitario en su estrategia de diversificación y fomento, mediante acciones de capacitación, asistencia técnica, promoción, comercialización y fortalecimiento de las capacidades locales.
+
+Para el reconocimiento y fomento del turismo comunitario, la Secretaría se coordinará con los prestadores de servicios turísticos comunitarios para elaborar y ejecutar planes de manejo y conservación de sus recursos naturales y socioculturales, en plena congruencia con los planes y programas emitidos por esa Secretaría, en términos de las normas ambientales y demás que resulten aplicables.
+
+La Secretaría impulsará acciones para el fomento del turismo comunitario con los sectores social, académico, ambiental y privado para la promoción y comercialización de los productos, así como la conservación de los recursos bioculturales de las comunidades.
+
+Asimismo, privilegiará la participación de las comunidades en ferias, exposiciones y acciones de promoción del Estado, así como el acceso preferente a programas de profesionalización y acompañamiento técnico, además promoverá el desarrollo de infraestructura y equipamiento para aquellas zonas donde se desarrolle el turismo comunitario, que contribuya al fomento e impulso de la actividad turística, conforme a la disponibilidad presupuestal y reglas de operación.
+
+El Reglamento establecerá los criterios y procedimientos para la verificación de los elementos mínimos previstos en este artículo, procurando la debida proporcionalidad y evitando cargas administrativas que impidan la participación de los prestadores de servicio comunitarios.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2026)</small>
+
+###### Artículo 54 Ter.
+
+La Secretaría implementará mecanismos de evaluación y seguimiento del turismo comunitario, con el objeto de fortalecer su impacto social, económico y ambiental, garantizando su mejora continua y su alineación con los objetivos de desarrollo sostenible en el Estado.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2026)</small>
+
+###### Artículo 54 Quater.
+
+Podrán establecerse rutas o productos turísticos comunitarios, a propuesta de prestadores de servicios turísticos comunitarios, con asistencia técnica de la Secretaría y, en su caso de los Municipios correspondientes, con el objetivo de fortalecer la oferta turística local y promover experiencias sostenibles y culturalmente responsables.
 
 ### CAPÍTULO SEGUNDO. CERTIFICACIÓN DE DESTINOS TURÍSTICOS DE LOS PRODUCTOS INTEGRALES TURÍSTICOS
 
@@ -784,6 +840,10 @@ La Secretaría formulará periódicamente programas de evaluación turística, e
 ###### Artículo 64.
 
 Con objeto de incrementar la eficiencia de los recursos tecnológicos, el Sistema de Información Turística del Estado regulará el Registro Estatal de Turismo, el cual tendrá por objeto la inscripción obligatoria de los prestadores de servicios turísticos que operen en el Estado. El Reglamento de la presente Ley, establecerá los requisitos que deben cumplir los prestadores de servicios para su inscripción.
+
+> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2026)</small>
+
+El Registro Estatal de Turismo deberá incorporar una sección específica para los Prestadores de Servicios Turísticos Comunitarios, a fin de identificar y dar seguimiento a esta modalidad.
 
 ## TÍTULO DÉCIMO. DE LOS SERVICIOS TURÍSTICOS, LOS PRESTADORES DE SERVICIOS TURÍSTICOS Y LOS TURISTAS
 
@@ -1012,3 +1072,13 @@ P.O. 8 DE AGOSTO DE 2025.
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco normativo local en lo que se opongan al contenido del presente decreto.
+
+P.O. 26 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 206 POR EL QUE “SE REFORMAN LAS FRACCIONES VI, VII Y VIII DEL ARTÍCULO 6 BIS Y, SE ADICIONAN LA FRACCIÓN X BIS AL ARTÍCULO 5; LAS FRACCIONES IX, X, XI Y XII AL ARTÍCULO 6 BIS; LA FRACCIÓN IX AL ARTÍCULO 54; LOS ARTÍCULOS 54 BIS; 54 TER; 54 QUATER Y UN PÁRRAFO SEGUNDO AL ARTÍCULO 64, TODOS DE LA LEY DE TURISMO DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo Estatal y los Municipios contarán con un plazo de 180 días naturales para realizar las modificaciones a las disposiciones reglamentarias relacionadas con la materia de este decreto.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al contenido del presente decreto.
