@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-educacion-del-estado-de-campeche-3522"
 country: "mx"
 rank: "ley"
 publication_date: "1993-06-01"
-last_updated: "2026-02-27"
+last_updated: "2026-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3522&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MARZO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 1 de junio de 1993.
 
@@ -451,7 +451,11 @@ XXV.- Supervisar que las instituciones educativas instrumenten acciones tendient
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
 
-XXVI. Promover la universalización de la educación temprana o inicial en el Estado de Campeche, la cual deberá fortalecerse y considerarse de manera prioritaria como parte central del ciclo básico del sistema educativo;
+XXVI.- Promover la universalización de la educación temprana o inicial en el Estado de Campeche, la cual deberá fortalecerse y considerarse de manera prioritaria como parte central del ciclo básico del sistema educativo;
+
+> <small>(ADICIONADA, P.O. 26 DE MARZO DE 2026)</small>
+
+XXVI-Bis.- Garantizar la prestación del servicio de transporte escolar gratuito, para niñas, niños y adolescentes de comunidades rurales o de difícil acceso en la Entidad, como parte de los servicios públicos educativos a su cargo, a fin de asegurar la igualdad de oportunidades educativas y la efectiva incorporación, permanencia y conclusión de sus estudios;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE DICIEMBRE DE 2022)</small>
 
@@ -459,19 +463,19 @@ XXVII.- Coordinarse con la Secretaría de Salud del Estado, para elaborar e inte
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE ABRIL DE 2025)</small>
 
-XXVIII. Promover la capacitación del personal docente del uso responsable y seguro de las tecnologías de la información y comunicación, fomentando y fortaleciendo las capacidades de los educandos;
+XXVIII.- Promover la capacitación del personal docente del uso responsable y seguro de las tecnologías de la información y comunicación, fomentando y fortaleciendo las capacidades de los educandos;
 
 > <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2025)</small>
 
-XXIX. Fomentar la capacitación del personal docente en materias de derechos humanos, prevención de la violencia, acoso escolar, igualdad y no discriminación, así como la eliminación de estereotipos, prejuicios, detrimentos y estigmas de los grupos de atención prioritaria;
+XXIX.- Fomentar la capacitación del personal docente en materias de derechos humanos, prevención de la violencia, acoso escolar, igualdad y no discriminación, así como la eliminación de estereotipos, prejuicios, detrimentos y estigmas de los grupos de atención prioritaria;
 
 > <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2025)</small>
 
-XXX. Garantizar, mediante programas, acciones, componentes y estrategias que, en los espacios educativos establecidos en el Estado de Campeche, se cuente con un ambiente saludable y seguro, libre de la distribución y consumo de sustancias psicotrópicas, enervantes u otros productos que puedan comprometer la salud y el bienestar de las y los educandos. Asimismo, se promoverán medidas tendientes a concientizar a la comunidad escolar sobre la introducción y portación de objetos que representen un riesgo para su integridad física y emocional, priorizando siempre el interés superior de la niñez y su derecho a una educación libre de violencia y conductas que afecten su desarrollo; y
+XXX.- Garantizar, mediante programas, acciones, componentes y estrategias que, en los espacios educativos establecidos en el Estado de Campeche, se cuente con un ambiente saludable y seguro, libre de la distribución y consumo de sustancias psicotrópicas, enervantes u otros productos que puedan comprometer la salud y el bienestar de las y los educandos. Asimismo, se promoverán medidas tendientes a concientizar a la comunidad escolar sobre la introducción y portación de objetos que representen un riesgo para su integridad física y emocional, priorizando siempre el interés superior de la niñez y su derecho a una educación libre de violencia y conductas que afecten su desarrollo; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE ABRIL DE 2025)</small>
 
-XXXI. Las demás que emanen del artículo 3º de la Constitución Política de los Estados Unidos Mexicanos y de otros ordenamientos legales.
+XXXI.- Las demás que emanen del artículo 3º de la Constitución Política de los Estados Unidos Mexicanos y de otros ordenamientos legales.
 
 > <small>(ADICIONADO, P.O. 10 DE MARZO DE 2014)</small>
 
@@ -1772,3 +1776,17 @@ Primero.- El presente decreto entrará en vigor el día siguiente al de su publi
 Segundo.- La Secretaría de Educación del Estado en un plazo no mayor a 90 días naturales contados a partir de la entrada en vigor de este decreto deberá emitir los lineamientos y protocolos necesarios para la implementación de las medidas a que se refiere el presente decreto.
 
 Tercero.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
+
+P.O. 26 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 207 POR EL QUE "SE ADICIONA LA FRACCIÓN XXVI-BIS AL ARTÍCULO 13 DE LA LEY DE EDUCACIÓN DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Poder Ejecutivo del Estado, a través de la Secretaría de Administración, Finanzas y Planeación, en conjunto con la Secretaría de Educación, ambas de la administración pública del Estado, deberán realizar los ajustes presupuestales correspondientes, así como tomar las previsiones necesarias para garantizar la operación del servicio de transporte escolar en términos de lo dispuesto en este decreto.
+
+TERCERO.- La implementación del servicio de transporte escolar gratuito para niñas, niños y adolescentes previsto en el presente Decreto se realizará de manera progresiva, conforme a la disponibilidad presupuestaria correspondiente. Para tal efecto, la Secretaría de Educación y la Secretaría de Administración, Finanzas y Planeación, ambas del Poder Ejecutivo del Estado de Campeche, deberán coordinarse en el ámbito de sus respectivas atribuciones para establecer los mecanismos de planeación, programación presupuestaria y ejecución necesarios, priorizando a las comunidades rurales y aquellas con mayores índices de rezago social.
+
+En la implementación se procurará garantizar criterios de equidad territorial, inclusión y acceso efectivo al derecho a la educación de niñas, niños y adolescentes en el Estado.
+
+CUARTO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
