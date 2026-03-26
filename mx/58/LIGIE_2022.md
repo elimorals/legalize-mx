@@ -4,7 +4,7 @@ identifier: "LIGIE_2022"
 country: "mx"
 rank: "ley"
 publication_date: "2022-06-07"
-last_updated: "2025-12-31"
+last_updated: "2026-03-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=158726&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -63339,3 +63339,9 @@ DECRETO DE ACTUALIZACIÓN DEL D.O.F. 31 DE DICIEMBRE DE 2025.
 Primero. El presente decreto entra en vigor el día de su publicación en el Diario Oficial de la Federación, con excepción de lo establecido en su artículo Primero que entrará en vigor el 1 de enero de 2026.
 
 Segundo. Las Empresas Importadoras de Productos de la Canasta Básica registradas en el "Padrón de Importadores de Productos de la Canasta Básica", que acrediten haber celebrado un contrato entre el 1 de enero y el 31 de diciembre de 2025, para la adquisición de las mercancías eliminadas en el Artículo Primero de este decreto, podrán aplicar los beneficios contenidos en el "Decreto por el que se exenta el pago de arancel de importación y se otorgan facilidades administrativas a diversas mercancías de la canasta básica y de consumo básico de las familias”, publicado en el Diario Oficial de la Federación el 6 de enero de 2023 y sus posteriores modificaciones, hasta el 31 de marzo de 2026, siempre que a más tardar el 9 de enero de 2026 presenten ante el Servicio de Administración Tributaria dichos contratos, incluyendo en el caso de contratos marco, las órdenes de compra relacionadas, conforme a las reglas de carácter general que al efecto emita dicho órgano administrativo desconcentrado.
+
+DECRETO DE ACTUALIZACIÓN DEL D.O.F. 26 DE MARZO DE 2026.
+
+> <small>[N. DE E. VÉASE ARCHIVO ANEXO DEL “DECRETO POR EL QUE SE MODIFICA EL DIVERSO QUE MODIFICA LA TARIFA DE LA LEY DE LOS IMPUESTOS GENERALES DE IMPORTACIÓN Y DE EXPORTACIÓN, EL DECRETO PARA EL APOYO DE LA COMPETITIVIDAD DE LA INDUSTRIA AUTOMOTRIZ TERMINAL Y EL IMPULSO AL DESARROLLO DEL MERCADO INTERNO DE AUTOMÓVILES, EL DECRETO PARA EL FOMENTO DE LA INDUSTRIA MANUFACTURERA, MAQUILADORA Y DE SERVICIOS DE EXPORTACIÓN, EL DECRETO POR EL QUE SE ESTABLECE EL IMPUESTO GENERAL DE IMPORTACIÓN PARA LA REGIÓN FRONTERIZA Y LA FRANJA FRONTERIZA NORTE, EL DECRETO DE LA ZONA LIBRE DE CHETUMAL, EL DECRETO POR EL QUE SE ESTABLECEN DIVERSOS PROGRAMAS DE PROMOCIÓN SECTORIAL, EL DECRETO POR EL QUE SE REGULA LA IMPORTACIÓN DEFINITIVA DE VEHÍCULOS USADOS Y LOS DIVERSOS POR LOS QUE SE ESTABLECEN ARANCELES-CUPO, PUBLICADO EL 18 DE NOVIEMBRE DE 2022 EN EL DIARIO OFICIAL DE LA FEDERACIÓN”.]</small>
+
+ÚNICO. El presente decreto entra en vigor el día de su publicación en el Diario Oficial de la Federación.
