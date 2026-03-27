@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2026-03-20"
+last_updated: "2026-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE MARZO DE 2026.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -1091,13 +1091,17 @@ Acta por rectificación para el reconocimiento de identidad de género
 
 De la familia
 
-> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE MARZO DE 2026)</small>
 
 ###### Artículo 4.
 
-1.- Las disposiciones de este Código que se refieran a la familia, son de orden público e interés social y tienen por objeto proteger su organización y el desarrollo integral de sus miembros, basados en el respeto a su dignidad, libertad y la equidad de género.
+1.- Las disposiciones de este Código que se refieran a la familia, son de orden público e interés social y tienen por objeto proteger su organización y el desarrollo integral de sus miembros, basados en el respeto a su dignidad, libertad, la equidad de género y la corresponsabilidad familiar.
+
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
 
 Las relaciones jurídicas familiares constituyen el conjunto de deberes, derechos y obligaciones de las personas integrantes del grupo familiar, derivado de lazos de matrimonio, concubinato o parentesco.
+
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
 
 Es deber de los miembros de la familia observar entre ellos consideración, solidaridad y respeto recíprocos en el desarrollo de las relaciones familiares.
 
@@ -1109,9 +1113,11 @@ Es deber de los miembros de la familia observar entre ellos consideración, soli
 
 Concepto de matrimonio
 
+> <small>(REFORMADO, G.G. 27 DE MARZO DE 2026)</small>
+
 ###### Artículo 4.
 
-1 Bis.- El matrimonio es una institución de carácter público e interés social, por medio de la cual dos personas de manera libre y voluntaria deciden compartir un estado de vida para la búsqueda de su realización personal y conyugal, bajo las formalidades y solemnidades que establezca el presente Código.
+1 Bis.- El matrimonio es una institución de carácter público e interés social, por medio de la cual dos personas de manera libre y voluntaria deciden compartir un estado de vida para la búsqueda de su realización personal y conyugal, en donde ambas personas contrayentes se procuran respeto, igualdad y corresponsabilidad familiar, bajo las formalidades y solemnidades que establezca el presente Código.
 
 Solemnidades para la celebración del matrimonio
 
@@ -1283,11 +1289,13 @@ Los efectos civiles, se retrotraerán a la fecha de la celebración del matrimon
 
 Obligaciones entre los cónyuges
 
-> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE MARZO DE 2026)</small>
 
 ###### Artículo 4.
 
-16.- Los cónyuges están obligados a guardarse fidelidad, solidaridad, respetarse en su integridad física y psicológica, dignidad, bienes, creencias, nacionalidad, orígenes étnicos o de raza y en su condición de género, a contribuir a los fines del matrimonio y a socorrerse mutuamente.
+16.- Los cónyuges están obligados a guardarse fidelidad, solidaridad, respetarse en su integridad física y psicológica, dignidad, bienes, creencias, nacionalidad, orígenes étnicos o de raza y en su condición de género, a contribuir a los fines del matrimonio, a socorrerse mutuamente, procurando respeto, igualdad y corresponsabilidad familiar.
+
+> <small>(REFORMADO, G.G. 6 DE MARZO DE 2010)</small>
 
 Los cónyuges tienen derecho a decidir de manera libre, responsable e informada sobre el número de hijos que deseen tener, así como a emplear métodos de reproducción asistida para lograr su propia descendencia. Este derecho sólo será ejercido por común acuerdo de los cónyuges y de conformidad con las restricciones que al efecto establezcan las leyes.
 
@@ -1317,11 +1325,11 @@ Los derechos y obligaciones que nacen del matrimonio serán siempre iguales para
 
 Educación de los hijos y administración de bienes
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 19 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 27 DE MARZO DE 2026)</small>
 
 ###### Artículo 4.
 
-19.- Los cónyuges de común acuerdo decidirán lo relativo a la educación y formación de los hijos, basados en la crianza positiva, el amor, el diálogo y el respeto, quedando prohibido el castigo corporal, el castigo humillante y el ejercicio de cualquier tipo de violencia en este proceso, así como a la administración de los bienes que sean comunes a los cónyuges o que pertenezcan a los hijos sujetos a su patria potestad.
+19.- Los cónyuges de común acuerdo decidirán lo relativo a la educación y formación de los hijos, basados en la crianza positiva, el amor, el diálogo, el respeto y la igualdad, quedando prohibido el castigo corporal, el castigo humillante y el ejercicio de cualquier tipo de violencia en este proceso, así como a la administración de los bienes que sean comunes a los cónyuges o que pertenezcan a los hijos sujetos a su patria potestad.
 
 En caso de desacuerdo el Juez de Primera Instancia resolverá lo conducente, sin necesidad de juicio.
 
@@ -4615,6 +4623,8 @@ La duración de las medidas de protección será de acuerdo con las necesidades 
 
 Derechos y obligaciones que nacen del concubinato
 
+> <small>(REFORMADO, G.G. 27 DE MARZO DE 2026)</small>
+
 ## TITULO DECIMO TERCERO. Del Concubinato
 
 > <small>(REFORMADO, G.G. 1 DE NOVIEMBRE DE 2022)</small>
@@ -4623,7 +4633,7 @@ Definición del concubinato
 
 ###### Artículo 4.
 
-404.- Las personas en concubinato tienen los derechos y obligaciones alimentarias, de familia, hereditarios y de protección contra la violencia familiar reconocidos en el presente Código y en otras disposiciones legales, así como los establecidos para los cónyuges, en todo aquello que les sea aplicable, sobre todo los dirigidos a la protección de las mujeres de las hijas y los hijos.
+404.- Las personas en concubinato tienen los derechos y obligaciones alimentarias, de familia, hereditarios y de protección contra la violencia familiar reconocidos en el presente Código y en otras disposiciones legales, así como los establecidos para los cónyuges, en todo aquello que les sea aplicable, sobre todo los dirigidos a la protección de las mujeres, de las hijas y los hijos, procurando entre sí respeto, igualdad y corresponsabilidad familiar.
 
 # LIBRO QUINTO. De los Bienes
 
@@ -18934,3 +18944,11 @@ Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno�
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 27 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 288.- POR EL QUE SE REFORMAN LAS FRACCIONES XVI Y XVII Y SE ADICIONA LA FRACCIÓN XVIII AL ARTÍCULO 96 QUATERDECIES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 4.1, EL PRIMER PÁRRAFO DEL ARTÍCULO 4.1 BIS, EL PRIMER PÁRRAFO DEL ARTÍCULO 4.16, EL PRIMER PÁRRAFO DEL ARTÍCULO 4.19 Y EL ARTÍCULO 4.404 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO; SE REFORMAN LAS FRACCIONES VI Y VII DEL ARTÍCULO 4, LAS FRACCIONES IX Y X DEL ARTÍCULO 7, LA FRACCIÓN XXII DEL ARTÍCULO 10, Y LA FRACCIÓN V DEL ARTÍCULO 32 Y SE ADICIONAN LA FRACCIÓN VIII AL ARTÍCULO 4, LA FRACCIÓN III BIS AL ARTÍCULO 6, LA FRACCIÓN XI AL ARTÍCULO 7 Y LA FRACCIÓN XXIII AL ARTÍCULO 10 DE LA LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
