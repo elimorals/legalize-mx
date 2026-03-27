@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-poder-ejecutivo-y-de-la-132088"
 country: "mx"
 rank: "reglamento"
 publication_date: "2019-01-02"
-last_updated: "2025-10-31"
+last_updated: "2026-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132088&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-01-02"
 
 REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE MARZO DE 2026.
 
 Reglamento publicado en el Número 1 Bis de la Gaceta Oficial de la Ciudad de México, el miércoles 2 de enero de 2019.
 
@@ -130,11 +130,11 @@ G) Secretaría Técnica de la Jefatura de Gobierno.
 
 Asimismo, se le adscriben los Órganos Desconcentrados denominados Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano de la Ciudad de México (C5); la Agencia Digital de Innovación Pública de la Ciudad de México; y la Junta de Asistencia Privada.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE MARZO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE MARZO DE 2026)</small>
 
 ###### Artículo 7°.
 
-Para el despacho de los asuntos que competan a las Dependencias de la Administración Pública, se les adscriben las Unidades Administrativas, las Unidades Administrativas de Apoyo Técnico-Operativo y los Órganos Desconcentrados siguientes:
+Para el despacho de los asuntos que competan a las Dependencias de la Administración Pública, se les adscriben las Unidades Administrativas, las Unidades Administrativas de Apoyo Técnico Operativo y los Órganos Desconcentrados siguientes:
 
 > <small>(REFORMADA [N. DE E. REPUBLICADO ESTE PÁRRAFO], G.O. 18 DE MARZO DE 2020)</small>
 
@@ -810,7 +810,9 @@ C) Dirección General de Coordinación de Políticas y Cultura Ambiental a la qu
 
 1. (DEROGADO, G.O. 30 DE JUNIO DE 2022)
 
-D) Dirección General de Zoológicos y Conservación de la Fauna Silvestre;
+> <small>(REFORMADO, G.O. 27 DE MARZO DE 2026)</small>
+
+D) Dirección General de los Centros de Conservación de Vida Silvestre;
 
 > <small>(F. DE E., G.O. 24 DE ENERO DE 2019)</small>
 
@@ -9186,33 +9188,55 @@ XXXV. Las demás que le atribuyan las leyes y reglamentos, así como las que le 
 
 (DEROGADO, G.O. 30 DE JUNIO DE 2022)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE MARZO DE 2026)</small>
+
 ###### Artículo 187.
 
-Corresponde a la Dirección General de Zoológicos y Conservación de la Fauna Silvestre:
+Corresponde a la Dirección General de los Centros de Conservación de Vida Silvestre:
 
-I. Formular y conducir las políticas y programas para el desarrollo de los zoológicos y unidades de manejo de la vida silvestre que estén a cargo del Gobierno de la Ciudad de México, así como ejercer las atribuciones que transfiera la Federación en materia de vida silvestre;
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2026)</small>
 
-II. Administrar, coordinar, supervisar y operar los zoológicos y otras unidades de manejo de la vida silvestre a cargo del Gobierno de la Ciudad de México;
+I. Formular y conducir las políticas y programas para el desarrollo de los Centros de Conservación de Vida Silvestre y unidades de manejo de la vida silvestre que estén a cargo del Gobierno de la Ciudad de México, así como ejercer las atribuciones que transfiera la Federación en materia de vida silvestre;
 
-III. Administrar los espacios e infraestructura asignados al funcionamiento de los zoológicos y unidades de manejo de la vida silvestre, así como autorizar la realización de actividades y el uso de espacios en los términos de la normatividad aplicable y vigilar el cumplimiento de las obligaciones de los permisionarios y usuarios;
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2026)</small>
 
-IV. Aplicar los recursos que ingresen por el uso de espacios e infraestructura y los servicios y actividades en los zoológicos y las unidades de manejo de la vida silvestre para la conservación, mantenimiento y desarrollo de la vida silvestre a su cargo y la infraestructura relacionada con esta actividad, en los términos que determinen las autoridades financieras y la normatividad aplicable;
+II. Administrar, coordinar, supervisar y operar los Centros de Conservación de Vida Silvestre y otras unidades de manejo de la vida silvestre a cargo del Gobierno de la Ciudad de México;
 
-V. Proponer las cuotas relativas al uso de espacios, prestación de servicios en los zoológicos, así como recibir, en los términos que determine la normativa aplicable, los donativos y aportaciones que realicen personas físicas y morales para el mantenimiento, modernización y desarrollo de los zoológicos y unidades de manejo de la vida silvestre;
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2026)</small>
 
-VI. Intervenir en la operación de los fondos que se establezcan para el desarrollo y mejoramiento de los zoológicos y unidades de manejo de la vida silvestre, así como en el cuidado y bienestar de los animales y la conservación de las especies de fauna silvestre;
+III. Administrar los espacios e infraestructura asignados al funcionamiento de los Centros de Conservación de Vida Silvestre y unidades de manejo de la vida silvestre, así como autorizar la realización de actividades y el uso de espacios en los términos de la normatividad aplicable y vigilar el cumplimiento de las obligaciones de los permisionarios y usuarios;
 
-VII. Definir, promover y ejecutar programas de investigación, reproducción, rescate, conservación de la flora y fauna silvestres relativas al funcionamiento de los zoológicos y unidades de manejo de la vida silvestre a cargo de la Administración Pública de la Ciudad de México;
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2026)</small>
+
+IV. Aplicar los recursos que ingresen por el uso de espacios e infraestructura y los servicios y actividades en los Centros de Conservación de Vida Silvestre y las unidades de manejo de la vida silvestre para la conservación, mantenimiento y desarrollo de la vida silvestre a su cargo y la infraestructura relacionada con esta actividad, en los términos que determinen las autoridades financieras y la normatividad aplicable;
+
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2026)</small>
+
+V. Proponer las cuotas relativas al uso de espacios, prestación de servicios en los Centros de Conservación de Vida Silvestre, así como recibir, en los términos que determine la normativa aplicable, los donativos y aportaciones que realicen personas físicas y morales para el mantenimiento, modernización y desarrollo de los Centros de Conservación de Vida Silvestre y unidades de manejo de la vida silvestre;
+
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2026)</small>
+
+VI. Intervenir en la operación de los fondos que se establezcan para el desarrollo y mejoramiento de los Centros de Conservación de Vida Silvestre y unidades de manejo de la vida silvestre, así como en el cuidado y bienestar de los animales y la conservación de las especies de fauna silvestre;
+
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2026)</small>
+
+VII. Definir, promover y ejecutar programas de investigación, reproducción, rescate, conservación de la flora y fauna silvestres relativas al funcionamiento de los Centros de Conservación de Vida Silvestre y unidades de manejo de la vida silvestre a cargo de la Administración Pública de la Ciudad de México;
 
 VIII. Proporcionar la atención médica y zootécnica necesaria para el mantenimiento de la salud, bienestar, desarrollo físico y conductual de los ejemplares a su cargo, así como establecer y desarrollar programas de bioética y bienestar de los animales;
 
 IX. Promover y realizar intercambios, préstamos reproductivos o de exhibición, donación o enajenación de especímenes de flora y fauna a su cargo, en los términos de la normativa aplicable y en coordinación con las autoridades competentes;
 
-X. Fomentar la participación social de los usuarios de los zoológicos y unidades de manejo de la vida silvestre en acciones de preservación, conservación y mejoramiento de especies silvestres y desarrollar programas para el fomento de la cultura y educación ambiental y educación para la conservación, con relación a la vida silvestre, en coordinación con las autoridades en materia de educación, social, cultural y ambiental;
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2026)</small>
 
-XI. Celebrar los instrumentos jurídicos necesarios para el desarrollo de los zoológicos a su cargo, así como convenios de colaboración e intercambio con personas físicas o morales, instituciones de investigación, educación superior, y asociaciones que tengan como objeto el desarrollo de actividades relacionadas con el manejo, la educación, la investigación, y/o la conservación de fauna silvestre;
+X. Fomentar la participación social de los usuarios de los Centros de Conservación de Vida Silvestre y unidades de manejo de la vida silvestre en acciones de preservación, conservación y mejoramiento de especies silvestres y desarrollar programas para el fomento de la cultura y educación ambiental y educación para la conservación, con relación a la vida silvestre, en coordinación con las autoridades en materia de educación, social, cultural y ambiental;
 
-XII. Vigilar el cumplimiento de la normativa sobre el funcionamiento interno de los zoológicos y unidades de manejo de la vida silvestre a su cargo y aplicar las sanciones y medidas de seguridad que procedan en casos de incumplimiento;
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2026)</small>
+
+XI. Celebrar los instrumentos jurídicos necesarios para el desarrollo de los Centros de Conservación de Vida Silvestre a su cargo, así como convenios de colaboración e intercambio con personas físicas o morales, instituciones de investigación, educación superior, y asociaciones que tengan como objeto el desarrollo de actividades relacionadas con el manejo, la educación, la investigación, y/o la conservación de fauna silvestre;
+
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2026)</small>
+
+XII. Vigilar el cumplimiento de la normativa sobre el funcionamiento interno de los Centros de Conservación de Vida Silvestre y unidades de manejo de la vida silvestre a su cargo y aplicar las sanciones y medidas de seguridad que procedan en casos de incumplimiento;
 
 XIII. Coordinar la elaboración y la ejecución del Programa para la Conservación y el Manejo de la Vida Silvestre de la Ciudad de México, en colaboración con las instancias federales y locales responsables de la conservación y manejo de la vida silvestre;
 
@@ -9234,7 +9258,9 @@ II. Promover y coordinar la participación de las instituciones científicas y a
 
 III. Promover, coordinar y llevar a cabo las acciones de protección, desarrollo, restauración, producción, ordenación, el cultivo, el manejo, la conservación y aprovechamiento de los ecosistemas del suelo de conservación, así como administrar y manejar los viveros forestales que correspondan a la Ciudad de México;
 
-IV. Coadyuvar con la Dirección General de Zoológicos y Conservación de la Fauna Silvestre en la elaboración y ejecución del Programa para la Conservación y Manejo de la Vida Silvestre de la Ciudad de México;
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2026)</small>
+
+IV. Coadyuvar con la Dirección General de los Centros de Conservación de Vida Silvestre en la elaboración y ejecución del Programa para la Conservación y Manejo de la Vida Silvestre de la Ciudad de México;
 
 V. Coadyuvar con la Dirección General del Sistema de Áreas Naturales Protegidas y Áreas de Valor Ambiental en la elaboración y ejecución del Programa para la Conservación y Manejo de las Áreas Naturales Protegidas de la Ciudad de México;
 
@@ -16689,3 +16715,13 @@ SEGUNDO.- El presente Decreto entrará en vigor el mismo día de su publicación
 TERCERO.- A partir de la fecha de entrada en vigor del presente Decreto, quedarán sin efectos las disposiciones reglamentarias y administrativas que se opongan a lo establecido en este Decreto.
 
 CUARTO.- Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor de este Decreto deberán realizarse mediante movimientos compensados, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal 2025 o subsecuentes.
+
+G.O. 27 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 7, FRACCIÓN X, INCISO D), 187, FRACCIONES I, II, III, IV, V, VI, VII, X, XI, XII Y 188, FRACCIÓN IV, TODOS DEL REGLAMENTO INTERIOR DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor a partir de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Las referencias hechas a la Dirección General de Zoológicos y Conservación de la Fauna Silvestre, en otras leyes, reglamentos, decretos, acuerdos y demás disposiciones administrativas, así como en contratos o convenios, se entenderán referidas a la Dirección General de los Centros de Conservación de Vida Silvestre.
