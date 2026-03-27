@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-1212-de-salud-del-estado-de-guerrero-92167"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-04"
-last_updated: "2026-02-27"
+last_updated: "2026-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2026.
 
 Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el martes 4 de diciembre de 2012.
 
@@ -739,7 +739,13 @@ g. Las lesiones y la violencia.
 
 h. La prevención, detección oportuna y tratamiento a las víctimas y perpetradores de violencia escolar, conocida como Bullying.
 
-i. Otros problemas de salud pública que se tenga constancia.
+(ADICONADO, P.O. 27 DE MARZO DE 2026)
+
+i. La identificación de los factores de riesgo en la salud mental de la población, incluyendo la psicosocial, consumo de sustancias, ideación suicida y las condiciones de vulnerabilidad que puedan afectar el bienestar emocional, cognitivo y conductual de niñas, niños, adolescentes, personas con discapacidad, afromexicanas, mujeres, personas adultas mayores y comunidades indígenas.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2026)</small>
+
+j. Otros problemas de Salud Pública que se tenga constancia.
 
 III. Los Ayuntamientos deberán establecer, en el ámbito de sus competencias, que los respectivos sistemas de vigilancia en salud pública cumplan en todo momento con las previsiones de esta Ley.
 
@@ -3440,3 +3446,13 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicaci
 SEGUNDO. Remítase este Decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
 
 TERCERO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en la Gaceta del Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
+
+P.O. 27 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 495 POR EL QUE SE ADICONA UN INCISO DE LA FRACCIÓN II DEL ARTÍCULO 31 DE LA LEY NÚMERO 1212 DE SALUD DEL ESTADO DE GUERRERO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase este Decreto a la Gobernadora Constitucional del Estado Libre y Soberano de Guerrero, para los efectos legales conducentes.
+
+TERCERO. Publíquese el presente Decreto para el conocimiento general, en el Periódico Oficial del Gobierno del Estado, en la Gaceta Parlamentaria del Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
