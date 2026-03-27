@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2025-10-10"
+last_updated: "2026-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2026.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -209,13 +209,17 @@ XXVIII.- Elaborar, dar seguimiento y hacer público, los estudios epidemiológic
 
 XXIX.- El programa para la atención médica de neoplasias;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2026)</small>
 
-XXX.- Los cuidados paliativos; y,
+XXX.- Los cuidados paliativos;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MARZO DE 2026)</small>
 
-XXXI.- Las demás atribuciones que se deriven de la Ley General de Salud, de la Ley Orgánica del Poder Ejecutivo del Estado de Baja California, de esta Ley y demás ordenamientos aplicables.
+XXXI.- El programa para la prevención, atención y recuperación del golpe de calor, deberá implementar un registro estadístico que reportare las atenciones y defunciones por golpe de calor. El Servicio Médico Forense proporcionará la información correspondiente a los casos cuya causa de defunción haya sido determinada como golpe de calor, en ejercicio de sus funciones; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 27 DE MARZO DE 2026)</small>
+
+XXXII.- Las demás atribuciones que se deriven de la Ley General de Salud, de la Ley Orgánica del Poder Ejecutivo del Estado de Baja California, de esta Ley y demás ordenamientos aplicables.
 
 ###### ARTÍCULO 5.
 
@@ -335,9 +339,13 @@ XI.- Proporcionar orientación a la población respecto de la importancia de la 
 
 XII.- Diseñar y ejecutar políticas públicas que propicien la alimentación nutritiva, suficiente y de calidad, que contrarreste eficientemente la desnutrición, el sobrepeso, la obesidad y otros trastornos de la conducta alimentaria;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2026)</small>
 
-XIII.- Impulsar estrategias de atención integral con perspectiva de género y enfoque diferencial, dirigidas a mujeres víctimas de violencia, incluyendo atención médica y psicológica para su recuperación e integración social.
+XIII.- Impulsar estrategias de atención integral con perspectiva de género y enfoque diferencial, dirigidas a mujeres víctimas de violencia, incluyendo atención médica y psicológica para su recuperación e integración social;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MARZO DE 2026)</small>
+
+XIV.- Promover la aplicación obligatoria de la NOM-035-STPS-2018, Factores de riesgo psicosocial en el trabajo-identificación, análisis y prevención, en todos los centros de trabajo.
 
 ###### ARTÍCULO 8.
 
@@ -863,11 +871,13 @@ La Secretaría de Salud del Estado coadyuvará con la federación para instrumen
 
 #### SECCION V. DE LA SALUD MENTAL
 
-> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 29.
 
-La salud mental y la prevención de las adicciones tendrán carácter prioritario dentro de las políticas de salud y deberán brindarse conforme a lo establecido en la Constitución federal, en los tratados internacionales en materia de derechos humanos, en Ley General de Salud y en este ordenamiento. El Estado garantizará el acceso universal, igualitario y equitativo a la atención de la salud mental y de las adicciones a las personas que lo requieran.
+La salud mental y la prevención de las adicciones tendrán carácter prioritario dentro de las políticas de salud y deberán brindarse conforme a lo establecido en la Constitución federal, en los tratados internacionales en materia de derechos humanos, en Ley General de Salud, en las Normas Oficiales Mexicanas y en este ordenamiento. El Estado garantizará el acceso universal, igualitario y equitativo a la atención de la salud mental y de las adicciones a las personas que lo requieran.
+
+> <small>(REFORMADO, P.O. 9 DE FEBRERO DE 2024)</small>
 
 Toda persona tiene derecho a gozar del más alto nivel posible de salud mental, sin discriminación por motivos de origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad, la expresión de género, la filiación política, el estado civil, el idioma, los antecedentes penales o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
@@ -2431,11 +2441,11 @@ Los cadáveres no reclamados dentro de las setenta y dos horas posteriores a la 
 
 La inhumación o incineración de cadáveres sólo podrá realizarse con la autorización del oficial del Registro Civil que corresponda, quien exigirá la presentación del certificado de defunción; lo anterior sin perjuicio de las disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2026)</small>
 
 ###### ARTÍCULO 116.
 
-Los cadáveres deberán preferentemente incinerarse, inhumarse o embalsamarse dentro de las cuarenta y ocho horas siguientes a la muerte, salvo autorización específica de la Autoridad Sanitaria competente, por disposición del Ministerio Público o de la Autoridad Judicial.
+Los cadáveres deberán preferentemente incinerarse, inhumarse o embalsamarse dentro de las cuarenta y ocho horas siguientes a la muerte, salvo autorización específica de la Autoridad Sanitaria competente, por disposición del Ministerio Público o de la Autoridad Judicial. Para el caso de cadáveres de personas no identificadas se estará a lo dispuesto en la Ley General en materia de Desaparición Forzada de Personas, Desaparición cometida por Particulares y la Ley sobre Desaparición y Búsqueda de Personas para el Estado de Baja California.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE MARZO DE 2018)</small>
 
@@ -4346,3 +4356,23 @@ P.O. 10 DE OCTUBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 151 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 7 DE LA LEY DE SALUD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 27 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 243 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 7 Y 29 DE LA LEY DE SALUD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 27 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 244 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 4 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- El Poder Ejecutivo del Estado y los Municipios contarán con un plazo de 90 días naturales para realizar las adecuaciones normativas y reglamentarias necesarias para la implementación del presente Decreto.
+
+P.O. 27 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 245 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 116 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
