@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-conducta-y-reglas-de-integridad-de-la-protectora-1739
 country: "mx"
 rank: "codigo"
 publication_date: "2024-08-02"
-last_updated: "2024-08-02"
+last_updated: "2026-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=173957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LA PROTECTORA DE BOSQUES DEL ESTADO DE MEXICO (PROBOSQUE)
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LA PROTECTORA DE BOSQUES DEL ESTADO DE MÉXICO (PROBOSQUE), PUBLICADO EN LA G.G. DE 27 DE MARZO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LA PROTECTORA DE BOSQUES DEL ESTADO DE MÉXICO (PROBOSQUE)
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE MARZO DE 2026 (ABROGADO).
 
 Código publicado en la Sección Primera al Número 20 de la Gaceta del Gobierno del Estado de México, el viernes 2 de agosto de 2024.
 
@@ -640,3 +642,13 @@ PROTESTO LO NECESARIO
 ________________________________________________
 
 NOMBRE Y FIRMA
+
+G.G. 27 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA Y REGLAS DE INTEGRIDAD DE LA PROTECTORA DE BOSQUES DEL ESTADO DE MÉXICO (PROBOSQUE)".]
+
+PRIMERO. Publíquese el presente Código de Conducta en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se abroga el Código de Conducta de la Protectora de Bosques del Estado de México, publicado en el Periódico Oficial “Gaceta del Gobierno” el 2 de agosto de 2024 y demás disposiciones de igual o menor jerarquía que se contrapongan a lo establecido en el presente documento.
