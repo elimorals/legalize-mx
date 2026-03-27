@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fomento-a-la-proveeduria-del-estado-de-baja-128466"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-20"
-last_updated: "2018-04-20"
+last_updated: "2026-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128466&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE FOMENTO A LA PROVEEDURÍA DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2026.
 
 Ley publicada en la Sección VI del Periódico Oficial del Estado de Baja California, el viernes 20 de abril de 2018.
 
@@ -45,9 +45,11 @@ LEY DE FOMENTO A LA PROVEEDURÍA DEL ESTADO DE BAJA CALIFORNIA
 
 La presente Ley es de orden público y de observancia general en todo el Estado de Baja California y tiene por objeto apoyar, fomentar, promover y mantener la actividad de la proveeduría que realicen los particulares en el Estado, así como la creación de políticas públicas relacionadas en la materia, promoviendo la competitividad y el desarrollo económico sustentable, a través de una Política de Desarrollo Empresarial sustentada en las vocaciones regionales, conforme a la Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa y la Ley de Fomento a la Competitividad y Desarrollo Económico para el Estado de Baja California.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2026)</small>
+
 ###### Artículo 2.
 
-La aplicación de la presente Ley corresponde al Ejecutivo del Estado, por conducto de las Secretarías de Desarrollo Económico y de Planeación y Finanzas, mismas que se coordinarán con las demás Dependencias del Estado, Entidades Paraestatales, Ayuntamientos, u organismos integrantes del sector privado, cuyas atribuciones incidan en el cumplimiento del objeto de esta Ley.
+La aplicación de la presente Ley corresponde al Ejecutivo del Estado, por conducto de las Secretarías de Economía e Innovación y de Hacienda, mismas que se coordinarán con las demás Dependencias del Estado, Entidades Paraestatales, Ayuntamientos, u organismos integrantes del sector privado, cuyas atribuciones incidan en el cumplimiento del objeto de esta Ley.
 
 Las Secretarías, dentro de sus respectivos ámbitos de competencia, se encuentran facultadas para interpretar esta Ley y su Reglamento, así como para emitir los lineamientos de carácter general que resulten aplicables para su adecuado y efectivo cumplimiento.
 
@@ -71,7 +73,9 @@ VII. Estímulos: Apoyos que se otorgan en los términos de esta Ley y las dispos
 
 VIII. Fondo: El Fondo para el Financiamiento al Fomento de la Proveeduría;
 
-IX. Fomento a la Competitividad: Acciones tendientes a propiciar la calidad del ambiente económico e institucional para el desarrollo sostenible y sustentable de las actividades privadas y el aumento de la productividad; y a nivel Empresa, la capacidad para mantener y fortalecer su rentabilidad;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2026)</small>
+
+IX. Fomento a la Competitividad: Acciones tendientes a propiciar la calidad del ambiente económico e institucional para el desarrollo sostenible y sustentable de las actividades privadas y el aumento de la productividad; y a nivel Empresa, la capacidad para mantener y fortalecer su rentabilidad y las empresas certificadas con el programa HECHO EN MÉXICO;
 
 X. Fomento a la proveeduría: Acciones económicas, jurídicas, políticas, sociales, comerciales, de capacitación o tecnológicas que contribuyan al progreso de la proveeduría;
 
@@ -89,7 +93,9 @@ XVI. Registro: El Registro Estatal de Proveedores;
 
 XVII. Reglamento: El Reglamento de la Ley de Fomento a la Proveeduría del Estado de Baja California; y,
 
-XVIII. Secretaría: Secretaría de Desarrollo Económico del Estado de Baja California.
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2026)</small>
+
+XVIII. Secretaría: Secretaría de Economía e Innovación del Estado de Baja California.
 
 ### Capítulo II. Sujetos de la Ley
 
@@ -99,7 +105,9 @@ Serán considerados sujetos de aplicación de la presente Ley en el ámbito de s
 
 I. La Secretaría;
 
-II. La Secretaría de Planeación y Finanzas;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2026)</small>
+
+II. La Secretaría de Hacienda;
 
 III. El Comité para el Desarrollo de Proveedores;
 
@@ -129,39 +137,55 @@ Las empresas deberán estar legalmente constituidas como sociedades mercantiles.
 
 El Comité para el Desarrollo de Proveedores es un órgano ciudadano e independiente que auxiliará a la Secretaría, cuyo objetivo principal es encauzar, de manera ordenada los esfuerzos de la sociedad civil en cuanto a las necesidades en el sector de la proveeduría local, así como participar en la elaboración de las políticas públicas que fomenten el desarrollo económico sustentable en la región.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2026)</small>
+
 ###### Artículo 9.
 
-El Comité se integrará por cinco ciudadanos que durarán en el cargo de sus funciones por dos años de manera honoraria y serán designados de forma escalonada en los términos que dicten los lineamientos internos de carácter general que emitan. Los ciudadanos electos desempeñarán su encargo sin percibir salario por dicha responsabilidad.
+El Comité se integrará por cinco integrantes que durarán en el cargo de sus funciones por dos años de manera honoraria y se designarán de forma escalonada en los términos que dicten los lineamientos internos de carácter general que emitan. Las y los integrantes electos desempeñarán su encargo sin percibir salario por dicha responsabilidad.
+
+Tres de cinco integrantes serán personas físicas o representantes de personas morales, autorizadas con la marca de certificación HECHO EN MÉXICO.
 
 ###### Artículo 10.
 
 Para ser integrante del Comité, se requiere:
 
-I. Ser ciudadano mexicano, residente por un tiempo mayor de 5 años en el Estado de Baja California que se haya destacado por su contribución en el sector privado en el ejercicio de actividades relacionadas a la proveeduría local;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2026)</small>
+
+I. Ser persona ciudadana mexicana, residente por un tiempo mayor de 5 años en el Estado de Baja California, que se haya destacado por su contribución en el sector privado en el ejercicio de actividades relacionadas a la proveeduría local;
 
 II. Haberse desempeñado cuando menos tres años en el ejercicio profesional en el sector de la proveeduría local o en actividades relacionadas con la materia de esta Ley; y,
 
-III. No haber sido Secretario de Estado, Procurador General de Justicia, Senador de la República, Diputado Federal o local, Alcalde o Gobernador de alguna Entidad Federativa Estado o Jefe de Gobierno de la Ciudad de México, en los tres años previos a su designación.
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2026)</small>
+
+III. No haber sido titular de una Secretaría de Estado, titular de la Procuraduría General de Justicia, Senadora o Senador de la República, Diputada o Diputado Federal o local, titular de la Alcaldía o titular del Poder Ejecutivo del Estado de alguna Entidad Federativa Estado (sic) en los tres años previos a su designación.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2026)</small>
 
 ###### Artículo 11.
 
-El Presidente del Comité será electo con el voto de la mayoría de sus integrantes, y será el representante del mismo en las reuniones de trabajo que se lleven a cabo para el desarrollo de la proveeduría local, ante cualquier representante Estatal.
+La persona que presida el Comité será electa con el voto de la mayoría de sus integrantes, teniendo la representación del mismo en las reuniones de trabajo que se lleven a cabo en el desarrollo de la proveeduría local ante cualquier representante Estatal.
+
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2026)</small>
 
 ###### Artículo 12.
 
-El Comité se reunirá públicamente, previa convocatoria de su Presidente, en sesiones ordinarias cuando menos una vez cada dos meses y de forma extraordinaria cuando así se requiera. Tomarán sus decisiones por la mayoría de votos de sus miembros presentes y en caso de empate, el Presidente tendrá voto de calidad.
+El Comité se reunirá públicamente, previa convocatoria de la persona que lo presida, en sesiones ordinarias cuando menos una vez cada dos meses y de forma extraordinaria cuando así se requiera. Tomarán sus decisiones por la mayoría de votos de las y los integrantes presentes, y en caso de empate, la persona que preside tendrá voto de calidad.
 
-Los integrantes podrán designar a su respectivo suplente quien sólo podrá participar en ausencia del titular.
+Las y los integrantes podrán designar a su respectivo suplente, quienes sólo podrán participar en ausencia de su titular.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2026)</small>
 
 ###### Artículo 13.
 
-El Comité, a la terminación del período de alguno de sus integrantes, informará a su Consejo Consultivo de la vacante para que a los 30 días posteriores, este emita la convocatoria pública correspondiente.
+El Comité, a la terminación del período de alguna o alguno (sic) sus integrantes, informará a su Consejo Consultivo de la vacante para que, a los 30 días posteriores, emitan la convocatoria pública correspondiente.
 
 En caso de no haberse emitido la convocatoria en los términos del párrafo anterior, el Comité será el encargado de publicarla.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2026)</small>
+
 ###### Artículo 14.
 
-Los integrantes del Comité podrán ser removidos a petición de los demás integrantes o por solicitud del Consejo Consultivo conforme a los lineamientos de carácter interno que para tales efectos se emitan.
+Las personas integrantes del Comité podrán ser removidas a petición de las y los demás integrantes o por solicitud del Consejo Consultivo conforme a los lineamientos de carácter interno que para tales efectos se emitan.
 
 ### Capítulo II. De las Atribuciones del Comité para el Desarrollo de Proveedores
 
@@ -195,9 +219,11 @@ X. Elaborar un informe anual de carácter público que contenga los avances y lo
 
 El Comité contará con un Consejo Consultivo de Proveedores integrado por cámaras empresariales, organizaciones de la sociedad civil o personas especialistas en actividades relacionadas con la proveeduría local, cuyos objetivos serán, de forma enunciativa, mas no limitativa, ser una instancia de consulta, asesoría y apoyo técnico del Comité para el cumplimiento de sus atribuciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2026)</small>
+
 ###### Artículo 17.
 
-El Consejo Consultivo se integrará de manera honoraria hasta por veinticinco representantes de las cámaras empresariales, organizaciones de la sociedad civil o especialistas dedicados a actividades relacionadas a la proveeduría local. Para formar parte del Consejo, la persona interesada deberá acreditar, mediante la documentación correspondiente, la experiencia de cuando menos tres años en el ejercicio profesional de actividades relacionadas con la proveeduría local.
+El Consejo Consultivo se integrará de manera honoraria hasta por veinticinco personas representantes de las cámaras empresariales, organizaciones de la sociedad civil o especialistas dedicadas a actividades relacionadas a la proveeduría local. Para formar parte del Consejo, la persona interesada deberá acreditar, mediante la documentación correspondiente, la experiencia de cuando menos tres años en el ejercicio profesional de actividades relacionadas con la proveeduría local.
 
 La integración, organización, funcionamiento y administración del Consejo quedarán establecidas en las normas de carácter interno que para tales efectos emitan.
 
@@ -207,9 +233,13 @@ El Consejo Consultivo tendrá las siguientes atribuciones:
 
 I. Aprobar los lineamientos de carácter interno de funcionamiento del Consejo Consultivo;
 
-II. Celebrar reuniones con el Comité para coadyuvar en el cumplimiento de sus respectivas funciones y emitir un plan de trabajo en conjunto que contemple mecanismos para el desarrollo de la proveeduría local;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2026)</small>
 
-III. Proponer al Comité proyectos, programas o políticas públicas orientadas a fomentar la proveeduría local;
+II. Celebrar reuniones con el Comité para coadyuvar en el cumplimiento de sus respectivas funciones y emitir un plan de trabajo en conjunto que contemple mecanismos para el desarrollo de la proveeduría local y el impulso de las empresas certificadas con el programa HECHO EN MÉXICO;
+
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2026)</small>
+
+III. Proponer al Comité proyectos, programas o políticas públicas orientadas a fomentar la proveeduría local, impulsando prioritariamente a las empresas certificadas con el programa HECHO EN MÉXICO;
 
 IV. Elaborar investigaciones de carácter económico sobre la situación en la que se encuentre el Estado en materia de desarrollo y fomento de la proveeduría local;
 
@@ -221,9 +251,11 @@ VII. Elaborar un informe anual de carácter público que contenga los avances y 
 
 ### Capítulo IV. De las Incubadoras para el Fomento a la Proveeduría
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2026)</small>
+
 ###### Artículo 19.
 
-La Secretaría, en coordinación con el Comité, desarrollará un programa consistente en la incubación de empresas dedicadas a la proveeduría, con el objeto de que instituciones académicas, cámaras empresariales o entidades gubernamentales, asesoren y/o capacitar técnica, administrativa o financieramente a MIPYMES para su constitución y operación.
+La Secretaría, en coordinación con el Comité, desarrollará un programa consistente en la incubación de empresas dedicadas a la proveeduría, con el objeto de que instituciones académicas, cámaras empresariales o entidades gubernamentales, asesoren y/o capaciten, técnica, administrativa o financieramente a MIPYMES para su constitución y operación.
 
 ###### Artículo 20.
 
@@ -237,23 +269,31 @@ Las incubadoras deberán estar inscritas ante el Registro y cumplir con los crit
 
 La Secretaría, además de las atribuciones y facultades que le corresponden en virtud de la legislación aplicable vigente, además deberá:
 
-I. Impulsar programas o políticas públicas que tengan como objetivo promover, fomentar y facilitar la oferta y demanda de insumos, productos, bienes y servicios locales, en los que puedan destinarse apoyos económicos para incrementar la proveeduría local;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2026)</small>
+
+I. Impulsar programas o políticas públicas que tengan como objetivo promover, fomentar y facilitar la oferta y demanda de insumos, productos, bienes y servicios locales, en los que puedan destinarse apoyos económicos para incrementar la proveeduría local, apuntalando a las empresas certificadas con el programa HECHO EN MÉXICO;
 
 II. Dar respuesta por escrito a las recomendaciones que emita el Comité para explicar el motivo de su negativa a aceptar o cumplir con las mismas;
 
-III. Gestionar mayores recursos económicos dentro del Presupuesto de Egresos del Estado para que sean dirigidos al apoyo y fomento de la proveeduría local; y,
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2026)</small>
+
+III. Gestionar mayores recursos económicos dentro del Presupuesto de Egresos del Estado para que sean dirigidos al apoyo y fomento de la proveeduría local, dando prioridad a las empresas certificadas por el programa HECHO EN MÉXICO; y
 
 IV. Brindar el apoyo necesario para el otorgamiento de los diversos estímulos fiscales y no fiscales que la Ley otorga, y de aquellos que se contemplen en cualquier otra legislación aplicable.
 
 ### Capítulo II. Del Registro Estatal de Proveedores
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2026)</small>
+
 ###### Artículo 22.
 
-El Registro Estatal de Proveedores es el sistema electrónico de información pública integrado, entre otra información, por el padrón de proveedores locales asentados en Baja California. La plataforma debe contar con una base de datos en la que se publiquen los insumos, materiales, productos, o bienes y servicios que ofrezcan los proveedores locales.
+El Registro Estatal de Proveedores es el sistema electrónico de información pública integrado, entre otra información, por el padrón de las y los proveedores locales asentados en Baja California. La plataforma debe contar con una base de datos en la que se publiquen los insumos, materiales, productos, o bienes y servicios que ofrezcan las y los proveedores locales.
 
 El Registro debe asimismo enlistar los programas anuales dirigidos a fomentar la proveeduría que la Secretaría, dependencias y entidades gubernamentales elaboren en coordinación con el Comité; el padrón de incubadoras, así como las convocatorias para las sesiones que lleven a cabo tanto el Comité como el Consejo Consultivo, junto con las respectivas minutas sobre los acuerdos sostenidos en sus reuniones.
 
-El Reglamento de la Ley dictará los lineamientos para el registro de las empresas que deseen formar del padrón de proveedores.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2026)</small>
+
+El Reglamento de la Ley dictará los lineamientos para el registro de las empresas que deseen formar el padrón de proveedores.
 
 ###### Artículo 23.
 
@@ -299,13 +339,23 @@ VI. Promover el consumo de energías limpias de las empresas dedicadas a activid
 
 VII. Fomentar el uso de fuentes alternativas de abastecimiento de agua;
 
-VIII. Impulsar mayor control sobre los desechos contaminantes; y,
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2026)</small>
 
-IX. Cualquier otra política pública que se considere necesaria para el (sic) impulsar la proveeduría local y genere desarrollo económico sustentable en Baja California.
+VIII. Impulsar mayor control sobre los desechos contaminantes;
 
-###### Artículo 28.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MARZO DE 2026)</small>
 
-La Secretaría de Desarrollo Social del Estado, además de las facultades otorgadas en otros ordenamientos, podrá proponer políticas públicas para el desarrollo social de Baja California orientadas a:
+IX. Impulsar a las empresas locales que se certificaron en el programa HECHO EN MÉXICO; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN IX], P.O. 27 DE MARZO DE 2026)</small>
+
+X. Cualquier otra política pública que se considere necesaria para el (sic) impulsar la proveeduría local y genere desarrollo económico sustentable en Baja California.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2026)</small>
+
+###### ARTÍCULO 28.
+
+La Secretaría de Bienestar del Estado, además de las facultades otorgadas en otros ordenamientos, podrá proponer políticas públicas para el desarrollo social de Baja California orientadas a:
 
 I. Apoyar a los MIPYMES que se dediquen a actividades relacionadas con la proveeduría;
 
@@ -425,17 +475,23 @@ En caso de solicitar un estímulo fiscal relacionado con un impuesto, derecho o 
 
 Las Empresas interesadas en obtener los estímulos previstos en esta Ley, deberán presentar la solicitud con los requisitos que se establezcan en el Reglamento, ante la ventanilla única de la Secretaría que se establezca para tal efecto.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2026)</small>
+
 ###### Artículo 44.
 
-La Secretaría de Planeación y Finanzas, contará con un plazo máximo de 20 días hábiles para determinar en su caso, la procedencia de la solicitud del estímulo fiscal, contados a partir de que la Secretaría le remita la referida solicitud de estímulos debidamente integrada, con los anexos técnicos que correspondan en los términos de la petición.
+La Secretaría de Hacienda, contará con un plazo máximo de 20 días hábiles para determinar en su caso, la procedencia de la solicitud del estímulo fiscal, contados a partir de que la Secretaría le remita la referida solicitud de estímulos debidamente integrada, con los anexos técnicos que correspondan en los términos de la petición.
 
-La Secretaría de Planeación y Finanzas resolverá las solicitudes de estímulos fiscales que incluyan los valores técnicos que determine la Secretaría mediante opinión técnica.
+La Secretaría de Hacienda resolverá las solicitudes de estímulos fiscales que incluyan los valores técnicos que determine la Secretaría mediante opinión técnica.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2026)</small>
 
 ###### Artículo 45.
 
-En cualquier tiempo, la Secretaría y/o la Secretaría de Planeación y Finanzas, podrán verificar o inspeccionar que la Empresa observe los requisitos y las condiciones generales y particulares que sirvieron de base para el otorgamiento de los Estímulos.
+En cualquier tiempo, la Secretaría y/o la Secretaría de Hacienda, podrán verificar o inspeccionar que la Empresa observe los requisitos y las condiciones generales y particulares que sirvieron de base para el otorgamiento de los Estímulos.
 
-Para los efectos del párrafo anterior, la Secretaría y/o la Secretaría de Planeación y Finanzas, podrán auxiliarse de las demás Dependencias del Estado y Entidades Paraestatales.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2026)</small>
+
+Para los efectos del párrafo anterior, la Secretaría y/o la Secretaría de Hacienda, podrán auxiliarse de las demás Dependencias del Estado y Entidades Paraestatales.
 
 Las Empresas estarán obligadas a presentar la información que le sea requerida, en un término no mayor a 5 días hábiles, contados a partir de dicho requerimiento. Asimismo estará obligado a brindar todas las facilidades para la realización de la verificación o inspección en su caso.
 
@@ -509,9 +565,11 @@ II. Destinar los apoyos e incentivos otorgados a un uso distinto del autorizado.
 
 Las empresas y los proveedores que infrinjan las disposiciones contenidas en la Ley, serán sancionados por la Secretaría, mediante escrito en el cual se funde y motive dicha sanción, con multa equivalente a la cantidad de diez hasta quinientas veces la Unidad de Medida y Actualización.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2026)</small>
+
 ###### Artículo 53.
 
-Las multas se harán efectivas por conducto de la Secretaría de Planeación y Finanzas, conforme a las formalidades del Código Fiscal del Estado de Baja California.
+Las multas se harán efectivas por conducto de la Secretaría de Hacienda, conforme a las formalidades del Código Fiscal del Estado de Baja California.
 
 ###### Artículo 54.
 
@@ -572,3 +630,11 @@ GOBERNADOR DEL ESTADO
 FRANCISCO RUEDA GÓMEZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 247 MEDIANTE EL CUAL SE APRUEBAN REFORMAS DE DIVERSOS ARTÍCULOS DE LA LEY DE FOMENTO A LA PROVEEDURÍA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
