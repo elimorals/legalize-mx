@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2025-12-30"
+last_updated: "2026-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -265,7 +265,7 @@ El Instituto Estatal Electoral contará con un Órgano Interno de Control con au
 
 La Ley fijará el régimen de responsabilidades a que estarán sujetos (sic) las personas servidoras públicas del Instituto Estatal Electoral.
 
-> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 3 DE SEPTIEMBRE DE 2025)</small>
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 27 DE MARZO DE 2026)</small>
 
 APARTADO C. Participación Ciudadana.
 
@@ -277,9 +277,9 @@ Los instrumentos y mecanismos de participación ciudadana serán la Revocación 
 
 La Ley fomentará, impulsará, promoverá y consolidará los instrumentos y mecanismos de participación ciudadana; igualmente establecerá las reglas que permitan regular el proceso democrático de participación ciudadana en el ámbito de competencia del Estado y de los Ayuntamientos, sujetándose a las bases que establece esta Constitución.
 
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2026)</small>
 
-Los principios rectores de la participación ciudadana serán la libertad, la democracia, la justicia, la corresponsabilidad, la solidaridad, la subsidiariedad, la legalidad, la sustentabilidad, la tolerancia y la equidad.
+Los principios rectores de la participación ciudadana serán la libertad, la democracia, la justicia, la corresponsabilidad, la solidaridad, la subsidiariedad, la legalidad, la sustentabilidad, la tolerancia, la equidad, la accesibilidad, la inclusión, la interculturalidad, la no discriminación y la perspectiva de género.
 
 > <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2021)</small>
 
@@ -619,6 +619,10 @@ APARTADO E.- De las Víctimas.
 
 Esta constitución reconoce y garantiza los Derechos de la víctima o del ofendido derivadas (sic) de las acciones u omisiones que contravengan lo dispuesto por el artículo 20 de la Constitución Política de los Estados Unidos Mexicanos. Este derecho y su garantía será exigido por medio de los preceptos jurídicos y a través de los órganos jurisdiccionales correspondientes en los términos que dispongan las leyes.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MARZO DE 2026)</small>
+
+Esta Constitución garantiza el derecho de toda persona a ser buscada en los casos de desaparición forzada, desaparición cometida por particulares u otras formas de privación de la libertad contrarias a la ley, en los términos y condiciones que establezcan las leyes.
+
 > <small>(REFORMADO [N. DE E. ADICIONADO ESTE PÁRRAFO], P.O. 2 DE SEPTIEMBRE DE 2020)</small>
 
 APARTADO F.- De la Paridad de Género en Órganos Constitucionales Autónomos.
@@ -683,13 +687,13 @@ f).- Decidir sobre la donación, trasplante de sus órganos, tejidos, células c
 
 V.- En su condición de padres, deben ser asistidos en la forma que la Legislación lo disponga para la protección y cuidado de los hijos.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 21 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE MARZO DE 2026)</small>
 
-VI.- Si son personas menores de dieciocho años de edad, tendrán los siguientes derechos:
+VI.- Tratándose de niñas, niños y adolescentes, tendrán de manera enunciativa, más no limitativa, los siguientes derechos:
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2026)</small>
 
-a) Vivir y crecer en forma saludable y normal en un nivel de vida adecuado para su desarrollo físico, mental afectivo, moral y social, en el seno de la familia, la escuela, la sociedad y las instituciones, la formación integral en el amor a la nación, en la democracia como sistema de vida fundada en el respeto a la dignidad humana y en el principio de la solidaridad social, así como a ser protegidos y asistidos contra cualquier forma de sustracción del seno de la familia sin el debido proceso, maltrato, perjuicio, daño, agresión, abuso o explotación, en condiciones de libertad, integridad y dignidad, teniendo garantizado el derecho a convivir con sus padres y madres lo cual sólo podrá ser restringido por orden justificada de autoridad competente. El Estado velará y cumplirá con el principio de preservación del principio del interés superior de la infancia, garantizando de manera plena sus derechos.
+a) Vivir y crecer en forma saludable y segura, en un nivel de vida adecuado para su desarrollo físico, mental, moral, intercultural, inclusivo y social, en el seno de la familia, la escuela, la sociedad y las instituciones; a recibir formación cívica, de amor a la nación y el medio ambiente, bajo un modelo de democracia participativa como sistema de vida fundada en el respeto a la opinión, a la dignidad humana y en el principio de la solidaridad social; así como a ser protegidos y asistidos contra cualquier forma de sustracción del seno de la familia sin el debido proceso, maltrato, perjuicio, daño, agresión, abuso, o explotación, en condiciones de libertad, igualdad, integridad y dignidad, teniendo garantizado el derecho a convivir con sus padres y madres lo cual sólo podrá ser restringido por orden justificada de autoridad competente. El Estado velará y cumplirá con el principio de preservación del principio del interés superior de la niñez, garantizando de manera plena sus derechos.
 
 > <small>(REFORMADO, P.O. 27 DE MARZO DE 2020)</small>
 
@@ -6056,3 +6060,33 @@ PRIMERO.- Aprobada la presente reforma por el pleno del Congreso del Estado, rem
 SEGUNDO.- Agotado el proceso legislativo y de obtenerse la aprobación de la mayoría de los Ayuntamientos del Estado, o si transcurrido un mes después de recibir el presente decreto sin que emitan una votación, procédase a pronunciar la declaratoria de incorporación constitucional correspondiente.
 
 TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 27 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 233 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 8 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA”.]
+
+PRIMERO.– Aprobada la presente reforma, túrnese a los Ayuntamientos del Estado para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.– Agotado el proceso legislativo correspondiente y de obtenerse la aprobación de la mayoría de los Ayuntamientos del Estado, procédase a realizar la declaratoria de incorporación constitucional correspondiente.
+
+TERCERO.– La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 27 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 249 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 7 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Aprobada que sea la presente reforma, túrnese a los Ayuntamientos del Estado para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Agotado el proceso legislativo correspondiente y de obtenerse la aprobación de la mayoría de los Ayuntamientos del Estado, procédase a realizar la declaratoria de incorporación constitucional correspondiente.
+
+TERCERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 27 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 250 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; Y ASÍ MISMO AL ARTÍCULO 2 DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- Aprobada la presente reforma, túrnese a los Ayuntamientos del Estado para el trámite previsto en el artículo 112 de la Constitución Política del Estado Libre y Soberano de Baja California.
+
+SEGUNDO.- Agotado el proceso legislativo correspondiente y de obtenerse la aprobación de la mayoría de los Ayuntamientos del Estado, procédase a realizar la declaratoria de incorporación constitucional correspondiente.
+
+TERCERO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
