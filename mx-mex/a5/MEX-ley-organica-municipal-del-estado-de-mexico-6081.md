@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2026-03-17"
+last_updated: "2026-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE MARZO DE 2026.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -2543,9 +2543,27 @@ XIV. Promover y coordinar la profesionalización permanente del personal de la a
 
 XV. Garantizar que el personal adscrito a la misma, cuente con aptitudes de sensibilidad y profesionalización para la atención integral de las usuarias, y preferentemente, con la certificación de competencia laboral correspondiente;
 
-XVI. Coordinar la transversalización de la perspectiva de género en la administración pública municipal, y
+> <small>(REFORMADA, G.G. 27 DE MARZO DE 2026)</small>
 
-XVII. Las demás que le sean conferidas por la o el Presidente Municipal o por el Ayuntamiento y las establecidas en las disposiciones jurídicas aplicables.
+XVI. Coordinar la transversalización de la perspectiva de género en la administración pública municipal;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 27 DE MARZO DE 2026)</small>
+
+XVII. Fomentar una cultura de corresponsabilidad entre mujeres y hombres, las familias, la comunidad, el sector laboral y el propio municipio, a través de acciones y programas que tengan como propósito:
+
+a) Promover la distribución equitativa de las tareas del hogar y cuidados, así como del tiempo para el autocuidado, entre mujeres y hombres;
+
+b) Promover una participación justa en el cuidado de las hijas e hijos, personas adultas mayores o personas con discapacidad;
+
+c) Favorecer el trabajo y la atención emocional de la familia;
+
+d) Fomentar la crianza de hijas e hijos libre de estereotipos de género, privilegiando el interés superior de la niñez y adolescencia, y
+
+e) Abordar cualquier otro aspecto relacionado con la corresponsabilidad familiar.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 27 DE MARZO DE 2026)</small>
+
+XVIII. Las demás que le sean conferidas por la o el Presidente Municipal o por el Ayuntamiento y las establecidas en las disposiciones jurídicas aplicables.
 
 > <small>(ADICIONADO, G.G. 25 DE MARZO DE 2022)</small>
 
@@ -5782,3 +5800,11 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. El Poder Ejecutivo del Estado y los municipios, en el ámbito de sus atribuciones, deberán realizar las adecuaciones correspondientes a las disposiciones reglamentarias, a fin de armonizar su contenido con lo previsto en el presente Decreto.
 
 CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad de recursos y se cubrirán con cargo al presupuesto aprobado a las dependencias o entidades competentes para el ejercicio fiscal en curso y subsecuentes.
+
+G.G. 27 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 288.- POR EL QUE SE REFORMAN LAS FRACCIONES XVI Y XVII Y SE ADICIONA LA FRACCIÓN XVIII AL ARTÍCULO 96 QUATERDECIES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 4.1, EL PRIMER PÁRRAFO DEL ARTÍCULO 4.1 BIS, EL PRIMER PÁRRAFO DEL ARTÍCULO 4.16, EL PRIMER PÁRRAFO DEL ARTÍCULO 4.19 Y EL ARTÍCULO 4.404 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO; SE REFORMAN LAS FRACCIONES VI Y VII DEL ARTÍCULO 4, LAS FRACCIONES IX Y X DEL ARTÍCULO 7, LA FRACCIÓN XXII DEL ARTÍCULO 10, Y LA FRACCIÓN V DEL ARTÍCULO 32 Y SE ADICIONAN LA FRACCIÓN VIII AL ARTÍCULO 4, LA FRACCIÓN III BIS AL ARTÍCULO 6, LA FRACCIÓN XI AL ARTÍCULO 7 Y LA FRACCIÓN XXIII AL ARTÍCULO 10 DE LA LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
