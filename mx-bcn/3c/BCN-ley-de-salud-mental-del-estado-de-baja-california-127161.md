@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-mental-del-estado-de-baja-california-127161"
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-23"
-last_updated: "2025-10-10"
+last_updated: "2026-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127161&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD MENTAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2026.
 
 Ley publicada en la Sección IV del Periódico Oficial del Estado de Baja California, el viernes 23 de febrero de 2018.
 
@@ -124,6 +124,10 @@ XVI. Persona usuaria: toda persona que recibe el beneficio de cualquier programa
 XVII. Personal de salud: profesionales, especialistas, técnicos, auxiliares y demás trabajadores que laboran en la prestación de los servicios de salud;
 
 XVIII. Prevención de riesgos en salud mental: conjunto de acciones contenidas en los planes, programas, campañas y proyectos gubernamentales, nacionales e internacionales, con la finalidad de informar y educar a la población en relación a cualquier aspecto vinculado a la salud mental, e intervenir en las comunidades para evitar situaciones de riesgo y dar a conocer procedimientos con el propósito principal de preservar la calidad de vida;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MARZO DE 2026)</small>
+
+XVIII BIS. Primeros Auxilios Psicológicos: atención psicológica inmediata en situaciones de crisis o acontecimientos traumáticos;
 
 XIX. Primer nivel de atención: atención otorgada por las Instituciones de Salud del Estado, y cualquier otra institución de Gobierno, que preste algún servicio de salud a la población en general;
 
@@ -231,13 +235,17 @@ VI. Implementar estrategias de coordinación y supervisión de índole instituci
 
 VII. Brindar, a través de una línea telefónica de ayuda psicológica y de intervención en crisis, atención en tiempo real y contribuir a estabilizar a los pacientes, mientras se canaliza a una terapia psicológica presencial;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 9 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2026)</small>
 
-VIII. La realización de programas para la prevención del suicidio a causa de trastornos mentales y del comportamiento, preferentemente en niñas, niños y adolescentes; y,
+VIII. La realización de programas para la prevención del suicidio a causa de trastornos mentales y del comportamiento, preferentemente en niñas, niños y adolescentes;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 9 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE MARZO DE 2026)</small>
 
-IX. Las demás acciones que contribuyan a la promoción y fomento de la salud mental de la población.
+IX. Suscribir convenios o acuerdos de coordinación con Instituciones de Seguridad y de protección civil estatales y municipales, para capacitar en materia de primeros auxilios psicológicos, orientados especialmente a la prevención del suicidio; y,
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 27 DE MARZO DE 2026)</small>
+
+X. Las demás acciones que contribuyan a la promoción y fomento de la salud mental de la población.
 
 ###### Artículo 11.
 
@@ -544,3 +552,9 @@ P.O. 10 DE OCTUBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 150 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DEL ARTÍCULO 9 BIS A LA LEY DE SALUD MENTAL DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 27 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 242 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 6 Y 10 DE LA LEY DE SALUD MENTAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
