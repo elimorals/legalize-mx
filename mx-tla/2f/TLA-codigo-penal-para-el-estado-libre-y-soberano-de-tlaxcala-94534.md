@@ -4,7 +4,7 @@ identifier: "TLA-codigo-penal-para-el-estado-libre-y-soberano-de-tlaxcala-94534"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-31"
-last_updated: "2025-12-18"
+last_updated: "2026-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2026.
 
 Código publicado en el No. 2 Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 31 de mayo de 2013.
 
@@ -3669,35 +3669,29 @@ En estos casos se impondrán penas de un año a cuatro años de prisión y de ci
 
 ### CAPÍTULO V. VIOLACIÓN A LA INTIMIDAD SEXUAL
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2026)</small>
 
 ###### Artículo 295 Bis.
 
-Comete el delito de violación a la intimidad sexual quien por cualquier medio divulgue, difunda, comparta, distribuya, publique o comercialice imágenes, audios o videos de una persona desnuda parcial o totalmente, de contenido íntimo o erótico sexual, ya sea impreso, grabado o digital, sin el consentimiento de la víctima.
+A quien por cualquier medio divulgue, difunda, comparta, distribuya, publique o comercialice imágenes, audios o videos de una persona desnuda parcial o total, de naturaleza íntima, erótica o sexual, ya sea impreso, grabado o digital, sin el consentimiento de la víctima, se impondrá de tres a cinco años de prisión y multa de doscientas a quinientas veces el valor de la Unidad de Medida y Actualización.
 
-A quien cometa este delito, se le impondrá una pena de tres a cinco años de prisión y multa de doscientas a quinientas veces el valor de la Unidad de Medida y Actualización.
+Se impondrán las mismas penas a quien, mediante el uso de tecnologías de inteligencia artificial, técnicas de manipulación digital o cualquier otro medio análogo, simule, altere, genere, difunda, comparta, distribuya, publique o comercialice imágenes, audios o videos de naturaleza íntima, erótica o sexual, reales o ficticios, con apariencia de la persona, sin el consentimiento previo, libre, específico e informado de la víctima, aun cuando ésta no haya participado materialmente en su elaboración.
 
-La pena se incrementará hasta en una mitad cuando:
+Se entenderá por inteligencia artificial a las aplicaciones, programas cibernéticos o tecnologías que, a partir de instrucciones humanas, son capaces de analizar imágenes, audios o videos y realizar ajustes automáticos para alterarlos, modificarlos o generarlos con apariencia realista.
 
-I. El delito sea cometido por el cónyuge o por persona con la que esté, o haya estado unida a la víctima por alguna relación de afectividad, aún sin convivencia;
+La pena se incrementará hasta en una mitad cuando el delito sea cometido:
 
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
+I. Por el cónyuge o por persona vinculada con la víctima por relación de afectividad, aún sin convivencia;
 
-II. Cuando el sujeto activo mantenga una relación laboral, familiar o de amistad con la víctima, y
+II. Por persona que mantenga o haya tenido relación laboral, familiar o de amistad con la víctima;
 
-> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2023)</small>
+III. Se cometa contra una persona en situación de vulnerabilidad social o de origen étnico, y
 
-III. Se cometa contra una persona en situación de vulnerabilidad social o de origen (sic)
+IV. Se cometa en contra de una mujer.
 
-(sic) étnico.
+Este delito se perseguirá por querella.
 
-IV. (DEROGADA, P.O. 26 DE ABRIL DE 2023)
-
-V. (DEROGADA, P.O. 26 DE ABRIL DE 2023)
-
-Este delito se perseguirá por querella, salvo que se trate de personas en situación de discapacidad que no comprendan el significado del hecho o menores de edad.
-
-Para los efectos de las disposiciones señaladas en este artículo, la autoridad investigadora ordenará el retiro inmediato de la publicación que se realizó sin consentimiento de la víctima, al administrador o titular de la plataforma digital, medio de comunicación, red social o cualquier otro medio que la contenga.
+Para la investigación de este delito, el Ministerio Público deberá ordenar el retiro inmediato de la publicación que se realizó sin consentimiento de la víctima, al administrador o titular de la plataforma digital, medio de comunicación, red social o cualquier otro medio que la contenga.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE MAYO DE 2021)</small>
 
@@ -6172,3 +6166,19 @@ Hasta en tanto entra en funciones la Unidad Especializada de Atención a los Del
 ###### ARTÍCULO QUINTO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 27 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 265.- SEREFORMAELARTÍCULO 295BIS DEL CÓDIGO PENAL PARAEL ESTADO LIBRE Y SOBERANO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos penales que se hayan iniciado antes de la entrada en vigor del presente Decreto, deberán concluirse aplicando la legislación penal vigente en el momento de la comisión del delito.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido de este Decreto.
