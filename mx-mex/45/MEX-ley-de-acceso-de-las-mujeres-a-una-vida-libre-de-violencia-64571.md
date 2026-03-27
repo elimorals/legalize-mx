@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6457
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-20"
-last_updated: "2026-03-20"
+last_updated: "2026-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64571&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE MARZO DE 2026.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el jueves 20 de noviembre de 2008.
 
@@ -43,11 +43,11 @@ LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO
 
 ### CAPÍTULO ÚNICO. NATURALEZA Y OBJETO DE LA LEY
 
-> <small>(REFORMADO, G.G. 22 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, G.G. 27 DE MARZO DE 2026)</small>
 
 ###### Artículo 1.
 
-La presente Ley es de orden público, interés social y de observancia general y obligatoria en todo el Estado de México y tiene por objeto establecer la coordinación entre el Gobierno del Estado y los gobiernos municipales, para prevenir, atender, sancionar y erradicar la violencia contra las niñas, adolescentes y mujeres así como establecer las políticas y acciones gubernamentales para garantizar el acceso de las mujeres a una vida libre de violencia que favorezca su desarrollo y bienestar conforme a los principios de igualdad y de no discriminación, que garanticen el desarrollo integral de las niñas, adolescentes y mujeres.
+La presente Ley es de orden público, interés social y de observancia general y obligatoria en todo el Estado de México y tiene por objeto establecer la coordinación entre el Gobierno del Estado y los gobiernos municipales, para prevenir, atender, sancionar y erradicar las violencias contra las niñas, adolescentes y mujeres, así como establecer las políticas y acciones gubernamentales para garantizar el acceso de las mujeres a una vida libre de violencias que favorezca su desarrollo y bienestar conforme a los principios de igualdad y de no discriminación, que garanticen el desarrollo integral de las niñas, adolescentes y mujeres.
 
 ###### Artículo 2.
 
@@ -245,9 +245,15 @@ h) Condicionar el cumplimiento de las obligaciones alimentarias a las mujeres y 
 
 i) La imputación de hechos delictuosos falsos en donde se demuestre la dilación procesal injustificada, o cualquier otra que sea utilizada para dañar a la mujer.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 20 DE MARZO DE 2026)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 27 DE MARZO DE 2026)</small>
 
-IX. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
+IX. Violencia Digital: Es toda acción dolosa realizada mediante el uso de tecnologías de la información y la comunicación, por la que se exponga, distribuya, difunda, exhiba, transmita, comercialice, oferte, intercambie o comparta imágenes, audios o videos reales o simulados de contenido íntimo sexual de una persona sin su consentimiento, sin su aprobación o sin su autorización y que le cause daño psicológico, emocional, en cualquier ámbito de su vida privada o en su imagen propia. Así como aquellos actos dolosos que causen daño a la intimidad, privacidad y/o dignidad de las mujeres, que se cometan por medio de las tecnologías de la información y la comunicación.
+
+Se entiende por Tecnologías de la Información y la Comunicación aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 27 DE MARZO DE 2026)</small>
+
+X. Cualquier otra forma análoga que lesione o sea susceptible de dañar la dignidad, integridad o libertad de las mujeres.
 
 ## TÍTULO TERCERO. MODALIDADES DE LA VIOLENCIA
 
@@ -966,6 +972,20 @@ VI. Principio de integralidad: El otorgamiento de la medida a favor de la vícti
 VII. Principio pro persona: Para interpretar lo referente al otorgamiento de las órdenes de protección, en caso de duda, con relación a la situación de violencia, se estará a lo más favorable para la víctima, tratándose de niñas siempre se garantizará que se cumpla en todas las decisiones que se tomen respecto de las órdenes de protección. De igual forma, cuando las determinaciones que se tomen respecto de una mujer víctima de violencia pudieran impactar en los derechos de las hijas o hijos menores de 18 años, y
 
 VIII. Principio de inmediatez: Deberán ser otorgadas e implementadas de manera pronta y expedita, durante el tiempo que garanticen su objetivo, respetando las garantías del debido proceso y los principios de esta Ley.
+
+> <small>(ADICIONADO, G.G. 27 DE MARZO DE 2026)</small>
+
+###### Artículo 30 Bis.
+
+Tratándose de violencia digital para garantizar la integridad de la víctima, la o el Ministerio Público, la jueza o el juez, ordenarán de manera inmediata, las medidas de protección necesarias, ordenando vía electrónica o mediante escrito a las empresas de plataformas digitales, de medios de comunicación, redes sociales o páginas electrónicas, personas físicas o morales, la interrupción, bloqueo, destrucción, o eliminación de cuentas, imágenes, audios o videos relacionados con la investigación previa satisfacción de los requisitos de Ley.
+
+En este caso se deberá identificar plenamente al proveedor de servicios en línea a cargo de la administración del sistema informático, sitio o plataforma de Internet en donde se encuentre alojado el contenido y la localización precisa del contenido en Internet, señalando el Localizador Uniforme de Recursos.
+
+La autoridad que ordene las medidas de protección contempladas en este artículo deberá solicitar el resguardo y conservación lícita e idónea del contenido que se denunció de acuerdo con las características del mismo.
+
+Las plataformas digitales, medios de comunicación, redes sociales o páginas electrónicas darán aviso de forma inmediata al usuario que compartió el contenido, donde se establezca de forma clara y precisa que el contenido será inhabilitado por cumplimiento de una orden judicial.
+
+La violencia digital será sancionada en la forma y términos que establezca la legislación penal vigente.
 
 > <small>(REFORMADO, G.G. 11 DE MAYO DE 2023)</small>
 
@@ -2864,3 +2884,15 @@ Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 27 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 287.- POR EL QUE SE REFORMA EL ARTÍCULO 1 Y LA FRACCIÓN IX DEL ARTÍCULO 7; Y SE ADICIONA LA FRACCIÓN X AL ARTÍCULO 7 Y EL ARTÍCULO 30 BIS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
