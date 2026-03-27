@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-prevencion-tratamiento-y-control-de-las-adicciones-11788
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-28"
-last_updated: "2025-05-13"
+last_updated: "2026-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2026.
 
 Ley publicada en la Sección IX del Periódico Oficial del Estado de Baja California, el viernes 28 de octubre de 2016.
 
@@ -271,9 +271,11 @@ En el caso de los establecimientos de carácter privado, las tarifas serán las 
 
 Los establecimientos deberán operar de acuerdo a lo que establece la Ley General de Salud y la Norma Oficial Mexicana aplicable en materia de adicciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 24.
 
-Los establecimientos deberán funcionar bajo principios básicos de respeto y fomento a la dignidad de las personas, sus derechos, valores familiares y creencias personales.
+Los establecimientos deberán funcionar bajo principios básicos de respeto y fomento a la dignidad de las personas, sus derechos, valores familiares y creencias personales. Asimismo, deberán promover la inclusión, la igualdad de género, el respeto a la diversidad cultural, étnica, religiosa, de orientación sexual, así como la no discriminación por motivos de discapacidad, origen, identidad, condición social o cualquier otra circunstancia.
 
 El personal que labore en los centros tiene la obligación de vigilar, proteger y dar seguridad a los usuarios mientras permanezcan en el mismo, basando el trato hacia los mismos en el respeto a su persona.
 
@@ -281,17 +283,29 @@ El personal que labore en los centros tiene la obligación de vigilar, proteger 
 
 La Secretaría autorizará la operación de los establecimientos, siempre que se cumplan con los siguientes requerimientos:
 
-I. Contar con instalaciones y equipo apropiados para la atención de usuarios, organizados y distribuidos conforme a grupos de edad y sexo de los usuarios apegado a las disposiciones legales aplicables en materia de salud y control de adicciones;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2026)</small>
 
-II. Contar con un programa de trabajo apegado a las disposiciones legales aplicables en materia de salud y control de adicciones;
+I. Contar con instalaciones y equipo apropiados para la atención de las personas usuarias, organizados y distribuidos conforme a grupos de edad y sexo, garantizando condiciones de accesibilidad universal y sin discriminación, en apego a las disposiciones legales aplicables en materia de salud, control de adicciones y derechos humanos;
 
-III. Contar con personal capacitado y recursos humanos suficientes para desarrollar los servicios del establecimiento;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2026)</small>
 
-IV. Los servicios de los establecimientos deberán garantizar a los usuarios una alimentación adecuada, bajo condiciones estrictas de calidad alimenticia e higiene;
+II. Contar con un programa de trabajo apegado a las disposiciones legales aplicables en materia de salud y control de adicciones, inclusión social y respeto a la diversidad;
 
-V. Los programas de los establecimientos deberán contar con actividades que incluyan la participación de la familia del usuario, así como el fomento de valores familiares, el respeto a su persona, a sus derechos y a sus pertenencias, y
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2026)</small>
 
-VI. Los establecimientos deberán contar con procedimientos para recibir quejas, sugerencias y comentarios de evaluación de los servicios y trato del personal, tanto por parte de los usuarios, como de sus familiares y personas autorizadas para visitar al usuario.
+III. Contar con personal capacitado y recursos humanos suficientes para desarrollar los servicios del establecimiento, incluyendo formación continua en temas de inclusión, igualdad de género, derechos humanos, atención a la diversidad y no discriminación;
+
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2026)</small>
+
+IV. Los servicios de los establecimientos deberán garantizar a las personas usuarias una alimentación adecuada, bajo condiciones estrictas de calidad alimenticia e higiene;
+
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2026)</small>
+
+V. Los programas de los establecimientos deberán contar con actividades que incluyan la participación de las familias de las personas usuarias, así como el fomento de valores familiares, el respeto a su persona, sus derechos y pertenencias, promoviendo entornos seguros, incluyentes y libres de cualquier forma de violencia o exclusión; y,
+
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2026)</small>
+
+VI. Los establecimientos deberán contar con procedimientos accesibles y eficaces para recibir quejas, sugerencias y comentarios de evaluación de los servicios y trato del personal, tanto por parte de las personas usuarias, como de sus familiares y personas autorizadas para visitarlas.
 
 ###### ARTÍCULO 26.
 
@@ -564,3 +578,9 @@ P.O. 13 DE MAYO DE 2025.
 ## [N. DE E. TRANSITORIO DEL ARTÍCULO CUARTO DEL "DECRETO NO. 92 MEDIANTE EL CUAL SE APRUEBA LA REFORMA DE LA LEY PARA LAS PERSONAS CON DISCAPACIDAD EN EL ESTADO DE BAJA CALIFORNIA, LA REFORMA DE LA LEY DE SALUD PÚBLICA, LA REFORMA A LA LEY DE ASISTENCIA SOCIAL, LA REFORMA DE LA LEY DE PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES Y LA REFORMA A LA LEY DE FOMENTO A LAS ACTIVIDADES DE BIENESTAR Y DESARROLLO SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- Las presentes reformas entrarán en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 246 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 24 Y 25 DE LA LEY DE PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
