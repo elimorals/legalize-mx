@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-los-organos-colegiados-de-honor-y-justicia-de-161
 country: "mx"
 rank: "reglamento"
 publication_date: "2022-12-01"
-last_updated: "2022-12-01"
+last_updated: "2026-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161228&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2022-12-01"
 ---
 # REGLAMENTO DE LOS ORGANOS COLEGIADOS DE HONOR Y JUSTICIA DE LA SECRETARIA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DEL RÉGIMEN DISCIPLINARIO DE LA POLICÍA DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 27 DE MARZO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LOS ÓRGANOS COLEGIADOS DE HONOR Y JUSTICIA DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE MARZO DE 2026 (ABROGADO).
 
 Reglamento publicado en el Número 992 Bis de la Gaceta Oficial de la Ciudad de México, el jueves 1 de diciembre de 2022.
 
@@ -663,3 +665,35 @@ SEXTO. La Secretaría deberá actualizar sus Manuales en los plazos y condicione
 SÉPTIMO. Se abroga el Reglamento del Consejo de Honor y Justicia del Sistema Penitenciario de la Ciudad de México, publicado el 25 de enero de 2017 en la Gaceta Oficial del Distrito Federal no. 251, así como sus reformas posteriores y toda disposición normativa que contravenga el presente Reglamento.
 
 Dado en la residencia oficial de la Jefatura de Gobierno de la Ciudad de México, a 01 de diciembre del 2022. DRA. CLAUDIA SHEINBAUM PARDO, JEFA DE GOBIERNO DE LA CIUDAD DE MÉXICO.- FIRMA.- EL SECRETARIO DE GOBIERNO, MARTÍ BATRES GUADARRAMA.- FIRMA.– LA SECRETARIA DE ADMINISTRACIÓN Y FINANZAS, LUZ ELENA GONZÁLEZ ESCOBAR. – FIRMA.- EL SECRETARIO DE LA CONTRALORÍA GENERAL, JUAN JOSÉ SERRANO MENDOZA.- FIRMA.- EL SECRETARIO DE SEGURIDAD CIUDADANA, OMAR HAMID GARCÍA HARFUCH.– FIRMA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 27 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DEL RÉGIMEN DISCIPLINARIO DE LA POLICÍA DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO.]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se abroga el Reglamento de los Órganos Colegiados de Honor y Justicia de la Secretaría de Seguridad Ciudadana de la Ciudad de México, publicado en la Gaceta Oficial de la Ciudad de México el uno de diciembre de dos mil veintidós, así como aquellas disposiciones que se opongan al presente Reglamento.
+
+CUARTO. Se derogan las disposiciones de otros ordenamientos legales que se contrapongan al presente ordenamiento.
+
+QUINTO. A partir de la entrada en vigor del presente Reglamento, todas las menciones a la Dirección General de los Órganos Colegiados de Honor y Justicia previstas en otras leyes y ordenamientos, se entenderán referidas a la Dirección General de los Órganos Colegiados y su estructura orgánica, respecto a las facultades que por virtud del presente Reglamento hayan sido modificadas hasta en tanto se expidan las nuevas disposiciones que regulen su adecuado funcionamiento.
+
+SEXTO. Las carpetas de investigación administrativa que no cuenten con opinión fundada y motivada de solicitud de suspensión de carácter correctivo o en su caso de destitución del personal policial investigado a la entrada en vigor del presente Reglamento, se integrarán como expedientes de investigación hasta que la Dirección General de Asuntos Internos determine lo que en derecho corresponda, sin afectar derechos sustantivos.
+
+Las carpetas de investigación administrativa que cuenten con opinión fundada y motivada de solicitud de suspensión de carácter correctivo o en su caso de destitución del personal policial investigado, se remitirán a la Dirección General de los Órganos Colegiados para que determine lo que en derecho corresponda en términos del presente Reglamento.
+
+SÉPTIMO. Los procedimientos administrativos disciplinarios de suspensión temporal de carácter correctivo y/o preventivo, así como de destitución, que se hayan iniciado con anterioridad a la entrada en vigor del presente Reglamento, se seguirán sustanciando hasta su resolución de conformidad a la legislación aplicable en la fecha en que se dictó el acuerdo de inicio, por la Dirección General de los Órganos Colegiados que asume sus atribuciones en términos del presente Reglamento.
+
+OCTAVO. Los recursos de revisión y de rectificación interpuestos antes de la entrada en vigor del presente Reglamento, deberán sustanciarse hasta su resolución de conformidad con las disposiciones vigentes al momento en que se iniciaron tales medios de impugnación, por la Dirección General de Asuntos Jurídicos y la Dirección General de los Órganos Colegiados, respectivamente, que asumen sus atribuciones en términos del presente Reglamento.
+
+NOVENO. La Comisión de Honor y Justicia, resolverá los procedimientos relacionados con la aplicación de correctivos disciplinarios, sanciones y derivados de infracciones cometidas con anterioridad a la entrada en vigor del presente Reglamento.
+
+Asimismo, dentro de los noventa días hábiles posteriores a la entrada en vigor del presente Reglamento, el Consejo de Honor y Justicia deberá convocar sesión de clausura o extraordinaria, en el que se apruebe el acuerdo de disolución del mismo.
+
+Los asuntos que se encuentren a cargo del Consejo de Honor y Justicia, pasarán a la competencia de la Comisión de Honor y Justicia para su resolución por conducto de la Dirección General de los Órganos Colegiados. Para tal efecto, deberán entregarse a dicha Dirección General, los expedientes, archivos, bases de datos y demás elementos vinculados con dichos asuntos.
+
+DÉCIMO. La persona Titular de la Secretaría de Seguridad Ciudadana y demás autoridades en el ámbito de sus respectivas competencias, contarán con un término no mayor a ciento ochenta días naturales para actualizar la normatividad complementaria que asegure el adecuado funcionamiento del presente Reglamento.
