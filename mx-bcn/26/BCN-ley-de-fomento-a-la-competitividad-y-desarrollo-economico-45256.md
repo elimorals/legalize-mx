@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-fomento-a-la-competitividad-y-desarrollo-economico-45256
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2023-12-22"
+last_updated: "2026-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE FOMENTO A LA COMPETITIVIDAD Y DESARROLLO ECONÓMICO PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Baja California, el viernes 10 de junio de 2005.
 
@@ -56,6 +56,10 @@ La aplicación de la presente Ley corresponde al Ejecutivo del Estado, por condu
 Para efectos de lo previsto en el párrafo anterior, las Secretarías de Economía Sustentable y Turismo y de Hacienda, se coordinarán con las demás Dependencias del Estado y Entidades Paraestatales, cuyas atribuciones incidan en el cumplimiento del objeto de esta Ley.
 
 Las Secretarías a que se refiere el artículo anterior dentro de sus respectivos ámbitos de competencia, se encuentran facultadas para interpretar esta Ley y su Reglamento, así como para emitir las disposiciones de carácter general que resulten necesarias para su adecuado cumplimiento, mismas que deberán publicarse en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE MARZO DE 2026)</small>
+
+Las acciones que derivan de la aplicación de la presente Ley y que implementen el Ejecutivo del Estado y los Ayuntamientos deberán estar alineadas en cumplimiento a la Política de Desarrollo Empresarial del Estado de conformidad a lo que establece esta Ley.
 
 ###### Artículo 3.
 
@@ -771,9 +775,11 @@ El FOINFRA se integrará con los recursos que para tal efecto se determinen en e
 
 Para la aplicación de los recursos que integran el FOINFRA, se deberá sujetar a lo previsto en la Ley de Presupuesto y Ejercicio del Gasto Público del Estado de Baja California y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2026)</small>
+
 ###### Artículo 22.
 
-Para el funcionamiento del FOINFRA, el Comité establecerá las reglas de operación, procurando impactar en los 5 municipios del Estado, así como el mayor rendimiento de los recursos disponibles a través de la mezcla de recursos con otras instancias.
+Para el funcionamiento del FOINFRA, el Comité establecerá las reglas de operación, procurando impactar todos los municipios del Estado, así como el mayor rendimiento de los recursos disponibles a través de la mezcla de recursos con otras instancias.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 28 DE JUNIO DE 2013)</small>
 
@@ -929,9 +935,11 @@ Para el debido cumplimiento de sus funciones, el Comité contará con un secreta
 
 El secretario técnico no será tomado en cuenta para efectos del quórum, pero podrá participar en las sesiones del Comité con derecho a voz pero sin voto.
 
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2026)</small>
+
 ###### Artículo 36.
 
-El Comité celebrará sesiones ordinarias por lo menos una vez cada 2 meses, y de manera extraordinaria, cuando así lo determine el Presidente, o la mayoría de sus integrantes.
+El Comité celebrará sesiones ordinarias por lo menos una vez cada mes, y de manera extraordinaria, cuando así lo determine el Presidente, o la mayoría de sus integrantes.
 
 ###### Artículo 37.
 
@@ -1378,3 +1386,11 @@ SEGUNDO. Las solicitudes de estímulo (sic) fiscales presentadas en ventanilla �
 TERCERO. Las solicitudes en trámite por estímulos fiscales regulados por la presente Ley que hayan sido presentadas antes de la publicación de la presente reforma, se deberá dar trámite y resolver, de conformidad con los ordenamientos vigentes al momento de su presentación en ventanilla única de la Secretaría de Economía e Innovación.
 
 CUARTO. La Secretaría de Economía e Innovación, actualizará los formatos necesarios para las solicitudes de estímulos fiscales que se presenten a partir de la entrada en vigor de la presente reforma.
+
+P.O. 27 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 248 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 2, 22 Y 36 DE LA LEY DE FOMENTO A LA COMPETITIVIDAD Y DESARROLLO ECONÓMICO PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- El Ejecutivo del Estado tendrá un término no mayor a 90 días contados a partir de la entrada en vigor de la presente reforma para la actualización del Reglamento de la Ley de Fomento a la Competitividad y Desarrollo Económico para el Estado de Baja California.
