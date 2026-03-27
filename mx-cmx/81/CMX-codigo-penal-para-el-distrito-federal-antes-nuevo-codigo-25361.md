@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2025-12-24"
+last_updated: "2026-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE MARZO DE 2026.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -2436,9 +2436,11 @@ Este delito se perseguirá de oficio.
 
 ### CAPÍTULO IV. ESTUPRO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 180.
 
-Al que tenga cópula con persona mayor de doce y menor de dieciocho años, obteniendo su consentimiento por medio de cualquier tipo de engaño, se le impondrá de seis meses a cuatro años de prisión.
+Al que realice cópula con persona mayor de quince y menor de dieciocho años, obteniendo su consentimiento por medio de cualquier tipo de engaño, se le impondrá de uno a cinco años de prisión.
 
 Este delito se perseguirá por querella.
 
@@ -2448,29 +2450,43 @@ Este delito se perseguirá por querella.
 
 A los hermanos y a los ascendientes o descendientes consanguíneos en línea recta, que con conocimiento de su parentesco tengan cópula entre sí se les impondrá prisión o tratamiento en libertad de uno a seis años.
 
-> <small>(ADICIONADO, G.O. 26 DE SEPTIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.O. 27 DE MARZO DE 2026)</small>
 
-Para los efectos de este artículo, cuando uno de los hermanos, ascendiente o descendiente consanguíneo en línea recta sea mayor de dieciocho años de edad y el otro sea menor de doce años, se le aplicará al primero de ocho a veinte años de prisión.
+Para los efectos de este artículo, cuando uno de los hermanos, ascendiente o descendiente consanguíneo en línea recta sea mayor de dieciocho años de edad y el otro sea menor de quince años, se le aplicará al primero de ocho a veinte años de prisión.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 27 DE MARZO DE 2026)</small>
 
-### CAPÍTULO VI. VIOLACIÓN, ABUSO SEXUAL Y ACOSO SEXUAL, COMETIDO A MENORES DE DOCE AÑOS DE EDAD
+### CAPÍTULO VI. VIOLACIÓN, ABUSO SEXUAL Y ACOSO SEXUAL, COMETIDO A MENORES DE EDAD
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 27 DE MARZO DE 2026)</small>
+
+ARTÍCULO 181 BIS. Al que realice cópula con persona de cualquier sexo menor de quince años, se le impondrá de doce a veinte años de prisión.
 
 > <small>(REFORMADO, G.O. 7 DE JUNIO DE 2021)</small>
 
-ARTÍCULO 181 BIS. Al que realice cópula con persona de cualquier sexo menor de dieciocho años, se le impondrá de doce a veinte años de prisión.
-
 Comete el delito de pederastia quien valiéndose de la relación de confianza o de subordinación o de cualquier índole, convenza a una persona de cualquier sexo menor de dieciocho años para realizar, con él o con un tercero, cópula. Al autor del delito, se le impondrá de diecisiete a veinticuatro años de prisión.
+
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2021)</small>
 
 Se sancionará con la pena prevista en el párrafo anterior, al que introduzca por vía vaginal o anal cualquier elemento, instrumento o cualquier parte del cuerpo humano, distinto al pene por motivos de la relación de confianza o de subordinación, a una persona de cualquier sexo menor de dieciocho años.
 
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2021)</small>
+
 Si una persona servidora pública teniendo conocimiento de las conductas antes descritas, omite hacer del conocimiento al ministerio público, se le impondrá la destitución e inhabilitación para desempeñar empleo, cargo o comisión por el mismo tiempo de la pena de prisión impuesta a la parte autora del delito.
+
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2021)</small>
 
 Al que sin el propósito de llegar a la cópula, ejecute un acto sexual, en una persona menor de dieciocho años o persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo o quien realice actos en los que muestre, exponga o exhiba sus órganos genitales con fines lascivos, tanto en el ámbito público como privado, ejecute en ella un acto sexual o lo obligue a observarlo, se le impondrán de cuatro a nueve años de prisión.
 
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2021)</small>
+
 Al que acose sexualmente a un menor de dieciocho años con la amenaza de causarle un mal relacionado respecto de la actividad que los vincule, se le impondrá de dos a siete años de prisión.
 
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2021)</small>
+
 Si se ejerciere violencia física o moral, las penas previstas se aumentarán en una mitad.
+
+> <small>(REFORMADO, G.O. 7 DE JUNIO DE 2021)</small>
 
 Las penas anteriores se aumentarán hasta una tercera parte si se cometieran en contra de dos o más personas menores de dieciocho años.
 
@@ -7343,3 +7359,13 @@ G.O. 24 DE DICIEMBRE DE 2025.
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN EL PRIMER PÁRRAFO DEL ARTÍCULO 180, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 181, EL PRIMER PÁRRAFO DEL ARTÍCULO 181 BIS Y LA DENOMINACIÓN DEL CAPÍTULO VI VIOLACIÓN, ABUSO SEXUAL Y ACOSO SEXUAL, COMETIDO A MENORES DE DOCE AÑOS DE EDAD DEL TÍTULO QUINTO DELITOS CONTRA LA LIBERTAD Y LA SEGURIDAD SEXUALES Y EL NORMAL DESARROLLO PSICOSEXUAL DEL LIBRO SEGUNDO PARTE ESPECIAL, TODOS DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL".]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Se derogan todas las disposiciones que contravengan el presente decreto.
