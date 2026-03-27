@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-gobierno-digital-del-estado-de-mexico-y-municipios-11127
 country: "mx"
 rank: "ley"
 publication_date: "2016-01-06"
-last_updated: "2024-04-05"
+last_updated: "2026-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111270&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE MARZO DE 2026.
 
 Ley publicada en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el miércoles 6 de enero de 2016.
 
@@ -160,6 +160,10 @@ XIII. Gobierno Digital: a las políticas, acciones, planeación, organización, 
 > <small>(REFORMADA, G.G. 10 DE MARZO DE 2022)</small>
 
 XIV. Identidad Electrónica: Al conjunto de datos con los cuales los sujetos de la presente Ley, así como las personas físicas y jurídicas colectivas, se han inscrito e identificado con carácter legal en el Registro Único de Personas Acreditadas en el Estado de México;
+
+> <small>(ADICIONADA, G.G. 27 DE MARZO DE 2026)</small>
+
+XIV Bis. Inteligencia Artificial: a la capacidad de un sistema informático de imitar procesos cognitivos humanos, como el aprendizaje, la resolución de problemas y la toma de decisiones;
 
 XV. Ley: a la Ley de Gobierno Digital del Estado de México y Municipios.
 
@@ -415,7 +419,9 @@ IV. Realizar el seguimiento de la evolución de las tecnologías de información
 
 V. Proponer a la persona titular del Poder Ejecutivo Estatal la actualización de la normativa en materia de tecnologías de información y comunicación en la Administración Pública Estatal;
 
-VI. Desarrollar, operar e impulsar los sistemas automatizados y la automatización de los procesos de trabajo de la Administración Pública Estatal, mediante la aplicación adecuada y estandarizada de las tecnologías de la información y comunicación;
+> <small>(REFORMADA, G.G. 27 DE MARZO DE 2026)</small>
+
+VI. Desarrollar, operar e impulsar los sistemas automatizados y la automatización de los procesos de trabajo de la Administración Pública Estatal, mediante la aplicación adecuada y estandarizada de las tecnologías de la información, comunicación y, en su caso, de inteligencia artificial;
 
 VII. Coordinar la planeación del desarrollo en materia de tecnologías de la información y comunicación en la Administración Pública Estatal, y las acciones necesarias para su elaboración, ejecución, control y evaluación, así como establecer los lineamientos para su óptimo funcionamiento;
 
@@ -1728,3 +1734,13 @@ DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la A
 DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
 
 DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
+
+G.G. 27 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO.- 289 POR EL QUE SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 11 QUATER Y SE ADICIONA LA FRACCIÓN XIV BIS AL ARTÍCULO 5 DE LA LEY DE GOBIERNO DIGITAL DEL ESTADO DE MÉXICO Y MUNICIPIOS”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo previsto en el presente Decreto.
