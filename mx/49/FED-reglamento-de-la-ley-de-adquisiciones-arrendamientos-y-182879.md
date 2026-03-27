@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-adquisiciones-arrendamientos-y-182879"
 country: "mx"
 rank: "reglamento"
 publication_date: "2025-12-18"
-last_updated: "2025-12-18"
+last_updated: "2026-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=182879&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2025-12-16"
 
 REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE MARZO DE 2026.
 
 Reglamento publicado en el número 340/2025 del Diario Oficial de la Federación, el jueves 18 de diciembre de 2025.
 
@@ -641,9 +641,11 @@ IX. Si al concluir el plazo establecido en el artículo 34 de la Ley, para lleva
 
 ### CAPÍTULO PRIMERO. METODOLOGÍA DE LA INVESTIGACIÓN DE MERCADO
 
+> <small>(REFORMADO, D.O.F. 27 DE MARZO DE 2026)</small>
+
 ###### Artículo 45.
 
-La investigación de mercado la realizará el área especializada existente en la dependencia o entidad o, en su defecto, será responsabilidad conjunta del área requirente y del área contratante, salvo en los casos en los que el área requirente lleve a cabo la contratación. El resultado de la investigación de mercado deberá remitirse al órgano interno de control para que emita los comentarios que correspondan en un plazo no mayor a siete días hábiles, contados a partir de la recepción de dicho resultado, los cuales no serán vinculantes.
+La investigación de mercado la realizará el área especializada existente en la dependencia o entidad o, en su defecto, será responsabilidad conjunta del área requirente y del área contratante, salvo en los casos en los que el área requirente lleve a cabo la contratación. El resultado de las investigaciones de mercado, con la información a que se refiere el artículo 52 de este Reglamento, deberá cargarse por las áreas contratantes en el módulo de la Plataforma que se habilite para tal efecto, dentro de los cinco días hábiles siguientes a su emisión.
 
 ###### Artículo 46.
 
@@ -2708,3 +2710,17 @@ Para el caso de las personas físicas y morales registradas en la Plataforma pre
 DÉCIMO QUINTO. Las erogaciones que se generen por el cumplimiento del presente Reglamento, se realizarán con cargo al presupuesto aprobado a los ejecutores de gasto que intervienen en el mismo, por lo que no se autorizarán ampliaciones líquidas a sus presupuestos para el presente ejercicio fiscal o subsecuentes.
 
 Dado en la residencia del Poder Ejecutivo Federal, en Ciudad de México a 16 de diciembre de 2025.- Presidenta de los Estados Unidos Mexicanos, Claudia Sheinbaum Pardo.- Rúbrica.- Secretario de Hacienda y Crédito Público, Édgar Abraham Amador Zamora.- Rúbrica.- Secretaria de Bienestar, Ariadna Montiel Reyes.- Rúbrica.- Secretario de Economía, Marcelo Luis Ebrard Casaubon.- Rúbrica.- Secretaria Anticorrupción y Buen Gobierno, Raquel Buenrostro Sánchez.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 27 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 45 DEL REGLAMENTO DE LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La Secretaría Anticorrupción y Buen Gobierno deberá habilitar la Plataforma Digital de Contrataciones Públicas, a fin de que las áreas contratantes estén en posibilidad de cumplir con lo previsto en el artículo 45 del Reglamento que se reforma por virtud del presente Decreto, en un plazo no mayor a ciento ochenta días hábiles contados a partir de su entrada en vigor.
+
+Una vez que la Secretaría Anticorrupción y Buen Gobierno haya habilitado el módulo correspondiente en la Plataforma Digital de Contrataciones Públicas, las áreas contratantes deberán cargar los resultados de las investigaciones de mercado que se hayan generado a partir de la publicación del presente Decreto, en un plazo no mayor a noventa días hábiles, contado a partir de la habilitación de dicho módulo.
+
+Las áreas contratantes que hayan remitido los resultados de las investigaciones de mercado a los órganos internos de control en cumplimiento a lo dispuesto en el artículo 45 del Reglamento de la Ley de Adquisiciones, Arrendamientos, Obras y Servicios vigente hasta antes de la entrada en vigor de este Decreto, deberán continuar con los procedimientos de contratación de que se trate, sin que se requiera la emisión de comentarios por parte de los órganos internos de control.
