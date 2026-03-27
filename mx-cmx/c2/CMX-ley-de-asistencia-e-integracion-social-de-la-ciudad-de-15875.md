@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-asistencia-e-integracion-social-de-la-ciudad-de-15875"
 country: "mx"
 rank: "ley"
 publication_date: "2000-03-16"
-last_updated: "2022-12-30"
+last_updated: "2026-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15875&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,9 @@ issue_date: "1999-12-02"
 ---
 # LEY DE ASISTENCIA E INTEGRACION SOCIAL DE LA CIUDAD DE MEXICO -- ANTES LEY DE ASISTENCIA E INTEGRACION SOCIAL PARA EL DISTRITO FEDERAL --
 
-LEY DE ASISTENCIA E INTEGRACION SOCIAL PARA EL DISTRITO FEDERAL
+LEY DE ASISTENCIA E INTEGRACIÓN SOCIAL DE LA CIUDAD DE MÉXICO
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 30 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 27 DE MARZO DE 2026.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 16 de marzo de 2000.
 
@@ -40,7 +40,9 @@ LA ASAMBLEA LEGISLATIVA DEL DISTRITO FEDERAL, I LEGISLATURA
 
 DECRETA
 
-LEY DE ASISTENCIA E INTEGRACION SOCIAL PARA EL DISTRITO FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 27 DE MARZO DE 2026)</small>
+
+LEY DE ASISTENCIA E INTEGRACIÓN SOCIAL DE LA CIUDAD DE MÉXICO
 
 ### Capítulo I. Disposiciones Generales
 
@@ -94,11 +96,15 @@ VI.- Secretaría de Salud, a la Secretaría de Salud de la Ciudad de México;
 
 VII.- DIF-CDMX, al Sistema para el Desarrollo Integral de la Familia de la Ciudad de México;
 
-VIII.- Instituciones de Asistencia Privada, Entidades con personalidad jurídica y patrimonio propio, sin propósito de lucro, de conformidad con la Ley de Instituciones de Asistencia Privada para el Distrito Federal;
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2026)</small>
+
+VIII.- Instituciones de Asistencia Privada, Entidades con personalidad jurídica y patrimonio propio, sin propósito de lucro, de conformidad con la Ley de Instituciones de Asistencia Privada para la Ciudad de México;
 
 IX.- Instituciones de Educación Superior, Organismos públicos descentralizados y desconcentrados de la Administración Pública Federal, cuyos fines son la enseñanza, la investigación y la difusión de la cultura;
 
-X.- Asociaciones Civiles, las personas morales con personalidad jurídica, con nombre, patrimonio y órganos propios, de conformidad con lo establecido con el Código Civil para el Distrito Federal, que no tienen fines de lucro y dirigidas a la prestación de servicios de asistencia social.
+> <small>(REFORMADA, G.O. 27 DE MARZO DE 2026)</small>
+
+X.- Asociaciones Civiles, las personas morales con personalidad jurídica, con nombre, patrimonio y órganos propios, de conformidad con lo establecido con el Código Civil local vigente para la Ciudad de México, que no tienen fines de lucro y dirigidas a la prestación de servicios de asistencia social.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 30 DE DICIEMBRE DE 2022)</small>
 
@@ -339,6 +345,14 @@ SEXTO.- El Titular de la Jefatura de Gobierno por conducto de la Secretaría de 
 G.O. 30 DE DICIEMBRE DE 2022.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, LAS FRACCIONES I Y II DEL ARTÍCULO 1, EL PRIMER PÁRRAFO Y LAS FRACCIONES II, IV, V, VI Y VII DEL ARTÍCULO 4, EL PRIMER PÁRRAFO Y LA FRACCIÓN I Y III DEL ARTÍCULO 5, EL ARTÍCULO 8, EL ARTÍCULO 9, EL PRIMER PÁRRAFO Y LA FRACCIÓN VI DEL ARTÍCULO 10, EL ARTÍCULO 14, EL ARTÍCULO 19, EL ARTÍCULO 20, EL ARTÍCULO 21, EL ARTÍCULO 22 Y EL ARTÍCULO 23, ASÍ COMO LA DENOMINACIÓN, DE LA LEY DE ASISTENCIA E INTEGRACIÓN SOCIAL PARA EL DISTRITO FEDERAL”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 27 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 4, FRACCIONES VIII Y X, ASÍ COMO LA DENOMINACIÓN DE LA LEY DE ASISTENCIA E INTEGRACIÓN SOCIAL PARA EL DISTRITO FEDERAL".]
 
 PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno, para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
