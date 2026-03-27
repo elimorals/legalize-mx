@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-que-establece-el-procedimiento-para-la-73327"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-26"
-last_updated: "2010-11-11"
+last_updated: "2026-03-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73327&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2010-02-22"
 ---
 # REGLAMENTO QUE ESTABLECE EL PROCEDIMIENTO PARA LA CONCLUSION DE LA CARRERA POLICIAL DE LA SECRETARIA DE SEGURIDAD PUBLICA DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DE LA POLICÍA DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 27 DE MARZO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO QUE ESTABLECE EL PROCEDIMIENTO PARA LA CONCLUSIÓN DE LA CARRERA POLICIAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE NOVIEMBRE DE 2010.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 11 DE NOVIEMBRE DE 2010.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE MARZO DE 2026 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el viernes 26 de febrero de 2010.
 
@@ -341,3 +341,35 @@ Primero.- Publíquese el presente Decreto en la Gaceta Oficial del Distrito Fede
 Segundo.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
 
 Tercero.- Se derogan todas aquellas disposiciones administrativas que se opongan al presente Decreto
+
+G.O. 27 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DE LA POLICÍA DE LA SECRETARÍA DE SEGURIDAD CIUDADANA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se abrogan el Reglamento del Servicio Profesional de Carrera de la Policía de Proximidad de la Ciudad de México, publicado en la Gaceta Oficial de la Ciudad de México el 18 de noviembre de 2020, el Reglamento que Establece el Procedimiento para la Conclusión de la Carrera Policial de la Secretaría de Seguridad Pública del Distrito Federal, publicado en la Gaceta Oficial del Distrito Federal, el 26 de febrero de 2010, así como aquellas disposiciones que se opongan al presente Reglamento.
+
+CUARTO. Se derogan las disposiciones de otros ordenamientos legales que se contrapongan al presente ordenamiento.
+
+QUINTO. Dentro de los noventa días hábiles posteriores a la entrada en vigor del presente Reglamento, las Comisiones Técnicas de Profesionalización y de Selección y Promoción deberán convocar sesión de clausura o extraordinaria, en el que se apruebe el acuerdo de disolución de las mismas, al término de la cual, inmediatamente deberá celebrarse la sesión de instalación de la Comisión del Servicio Profesional de Carrera Policial.
+
+Los asuntos que se encuentren a cargo de las Comisiones Técnicas de Profesionalización y de Selección y Promoción, pasarán a la competencia de la Comisión del Servicio Profesional de Carrera Policial, por conducto de la Dirección General de los Órganos Colegiados. Para tal efecto, deberán entregarse a dicha Dirección General, los expedientes, archivos, bases de datos y demás elementos vinculados con dichos asuntos.
+
+SEXTO. A partir de la entrada en vigor del presente Reglamento, todas las menciones a la Dirección General de los Órganos Colegiados de Honor y Justicia previstas en otras leyes y ordenamientos, se entenderán referidas a la Dirección General de los Órganos Colegiados y su estructura orgánica, respecto a las facultades que por virtud del presente Reglamento hayan sido modificadas hasta en tanto se expidan las nuevas disposiciones que regulen su adecuado funcionamiento.
+
+Asimismo, a partir de la entrada en vigor del presente Reglamento, todas las menciones a la Dirección General de Carrera Policial previstas en otras leyes y ordenamientos, se entenderán referidas a la Dirección General del Servicio Profesional de Carrera Policial y su estructura orgánica, respecto a las facultades que por virtud del presente Reglamento hayan sido modificadas hasta en tanto se expidan las nuevas disposiciones que regulen su adecuado funcionamiento.
+
+SÉPTIMO. El personal policial y personas servidoras públicas que actualmente ocupen un cargo de estructura, podrán solicitar su incorporación al Servicio Profesional de Carrera Policial, dentro del plazo de noventa días naturales contados a partir de la entrada en vigor del presente Reglamento a la Comisión del Servicio Profesional de Carrera Policial, misma que determinará los requisitos y el procedimiento para dicha incorporación.
+
+OCTAVO. Los procedimientos administrativos de separación, que se hayan iniciado con anterioridad a la entrada en vigor del presente Reglamento, se seguirán sustanciando hasta su resolución de conformidad a la legislación aplicable en la fecha en que se dictó el acuerdo de inicio, por la Dirección General de los Órganos Colegiados que asume sus atribuciones en términos del presente Reglamento.
+
+NOVENO. A partir de la instalación de la Comisión del Servicio Profesional de Carrera Policial, la Dirección General de los Órganos Colegiados y la citada Comisión, se encargarán de sustanciar y resolver, respectivamente, los procedimientos de separación extraordinaria que se instruyan al personal policial, por incumplimiento a los requisitos de permanencia.
+
+DÉCIMO. La Comisión del Servicio Profesional de Carrera Policial, resolverá los procedimientos de separación derivados de incumplimiento a los requisitos de permanencia con anterioridad a la entrada en vigor del presente Reglamento.
+
+DÉCIMO PRIMERO. Los recursos humanos, financieros y materiales que tengan asignados las Comisiones Técnicas de Profesionalización y de Selección y Promoción, se transferirán a la Comisión del Servicio Profesional de Carrera Policial, en términos de las atribuciones conferidas en el presente Reglamento.
+
+DÉCIMO SEGUNDO. La persona Titular de la Secretaría de Seguridad Ciudadana y demás autoridades en el ámbito de sus respectivas competencias, contarán con un término no mayor a ciento ochenta días naturales para actualizar la normatividad complementaria que asegure el adecuado funcionamiento del presente Reglamento.
