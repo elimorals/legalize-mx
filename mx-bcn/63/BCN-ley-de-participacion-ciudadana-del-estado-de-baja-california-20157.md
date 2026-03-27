@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-participacion-ciudadana-del-estado-de-baja-california-20
 country: "mx"
 rank: "ley"
 publication_date: "2001-02-16"
-last_updated: "2025-09-05"
+last_updated: "2026-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20157&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2026.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 16 de febrero de 2001.
 
@@ -71,7 +71,9 @@ V.- Presupuesto Participativo; y,
 
 VI.- Parlamento Abierto.
 
-Los principios rectores de la participación ciudadana son la libertad, la democracia, la corresponsabilidad, la solidaridad, el bien general, la subsidiariedad, la legalidad, la sustentabilidad y la equidad.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2026)</small>
+
+Los principios rectores de la participación ciudadana son la libertad, la democracia, la corresponsabilidad, la solidaridad, el bien general, la subsidiariedad, la legalidad, la sustentabilidad, la equidad, la accesibilidad, la inclusión, la interculturalidad, la no discriminación y la perspectiva de género.
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2023)</small>
 
@@ -1140,5 +1142,11 @@ P.O. 11 DE ABRIL DE 2025.
 P.O. 5 DE SEPTIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 128 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 72 DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 27 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 250 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA; Y ASÍ MISMO AL ARTÍCULO 2 DE LA LEY DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
