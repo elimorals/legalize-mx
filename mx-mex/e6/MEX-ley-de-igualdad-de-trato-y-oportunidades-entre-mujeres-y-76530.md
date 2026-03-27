@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-igualdad-de-trato-y-oportunidades-entre-mujeres-y-76530"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-06"
-last_updated: "2025-12-12"
+last_updated: "2026-03-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76530&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 12 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE MARZO DE 2026.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el lunes 6 de septiembre de 2010.
 
@@ -75,9 +75,17 @@ IV. La no discriminación;
 
 V. El empoderamiento de la mujer;
 
-VI. La transversalidad; y
+> <small>(REFORMADA, G.G. 27 DE MARZO DE 2026)</small>
 
-VII. Los establecidos en la Constitución Política de los Estados Unidos Mexicanos, los instrumentos internacionales ratificados por el Estado Mexicano, la legislación federal, la Constitución Política del Estado Libre y Soberano de México.
+VI. La transversalidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 27 DE MARZO DE 2026)</small>
+
+VII. La corresponsabilidad entre hombres y mujeres, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 27 DE MARZO DE 2026)</small>
+
+VIII. Los establecidos en la Constitución Política de los Estados Unidos Mexicanos, los instrumentos internacionales ratificados por el Estado Mexicano, la legislación federal, la Constitución Política del Estado Libre y Soberano de México.
 
 ###### Artículo 5.
 
@@ -106,6 +114,10 @@ II. (DEROGADA, G.G. 29 DE SEPTIEMBRE DE 2020)
 > <small>(REFORMADA, G.G. 12 DE DICIEMBRE DE 2025)</small>
 
 III. Conciliación entre la vida laboral, familiar y personal: A la implementación de medidas, que permitan a personas trabajadoras y patronas, compatibilizar el espacio personal, familiar y laboral, a fin de equilibrar el uso de los tiempos de la vida de cada persona trabajadora en función de sus obligaciones, necesidades y prioridades, permitiéndole mantener una carrera laboral plena y ejercer el derecho al cuidado de su familia, al desarrollo de su personalidad, de su formación y al disfrute del ocio y tiempo libre;
+
+> <small>(ADICIONADA, G.G. 27 DE MARZO DE 2026)</small>
+
+III Bis. Corresponsabilidad familiar: Es el reparto equilibrado de las tareas domésticas y de las responsabilidades familiares, tales como la organización, el cuidado, la educación y el afecto de personas dependientes dentro del hogar, con el fin de distribuir de manera justa los tiempos de vida de mujeres y hombres;
 
 IV. Discriminación: A cualquier forma de preferencia, distinción, exclusión, repudio, desprecio, incomprensión, rechazo o restricción que, basada en el origen étnico o nacional, sexo, género, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, predilecciones de cualquier índole, estado civil o alguna otra, que tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos fundamentales en condiciones de equidad e igualdad de oportunidades y de trato de las personas, tales como:
 
@@ -167,9 +179,17 @@ VII. Promover la eliminación de estereotipos establecidos en función del sexo;
 
 VIII. Diseñar e introducir los indicadores y mecanismos necesarios que permitan el conocimiento de los roles, situaciones, condiciones, aspiraciones y necesidades de mujeres y hombres para la generación de políticas públicas en materia de igualdad de trato y oportunidades;
 
-IX. Promover la igualdad de género y la flexibilidad para el desarrollo de todas las actividades de las personas que dividen su tiempo entre la educación, el empleo remunerado y las responsabilidades familiares; y
+> <small>(REFORMADA, G.G. 27 DE MARZO DE 2026)</small>
 
-X. Los demás que sean necesarios para el cumplimiento de su objeto.
+IX. Promover la igualdad de género y la flexibilidad para el desarrollo de todas las actividades de las personas que dividen su tiempo entre la educación, el empleo remunerado y las responsabilidades familiares;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 27 DE MARZO DE 2026)</small>
+
+X. Promover y fomentar la corresponsabilidad familiar, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 27 DE MARZO DE 2026)</small>
+
+XI. Los demás que sean necesarios para el cumplimiento de su objeto.
 
 ###### Artículo 8.
 
@@ -243,9 +263,13 @@ XX. Coadyuvar para que los medios de comunicación transmitan una imagen igualit
 
 XXI. Vigilar que el contenido de la publicidad institucional a través de la cual se difundan las campañas a que se refiere esta Ley, omitan contenidos que atenten contra la dignidad de las personas, vulneren los derechos humanos y difundan mensajes sexistas;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 3 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 27 DE MARZO DE 2026)</small>
 
-XXII. Las demás que sean necesarias para el cumplimiento de su objeto.
+XXII. Impulsar la corresponsabilidad familiar con el objetivo de promover una distribución justa de las actividades y cuidados al interior de los hogares, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 27 DE MARZO DE 2026)</small>
+
+XXIII. Las demás que sean necesarias para el cumplimiento de su objeto.
 
 ###### Artículo 11.
 
@@ -513,7 +537,9 @@ III. Impulsar acciones que aseguren la igualdad de acceso de mujeres y de hombre
 
 IV. Diseñar políticas y programas de desarrollo social y de reducción de la pobreza con perspectiva de género, para lograr la igualdad de trato y oportunidades;
 
-V. Fomentar la corresponsabilidad social igualitaria, de mujeres y hombres; y
+> <small>(REFORMADA, G.G. 27 DE MARZO DE 2026)</small>
+
+V. Fomentar la corresponsabilidad familiar y social igualitaria, de mujeres y hombres; y
 
 VI. Promover investigaciones con perspectiva de género en materia de salud.
 
@@ -882,3 +908,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 27 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 288.- POR EL QUE SE REFORMAN LAS FRACCIONES XVI Y XVII Y SE ADICIONA LA FRACCIÓN XVIII AL ARTÍCULO 96 QUATERDECIES DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO, SE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 4.1, EL PRIMER PÁRRAFO DEL ARTÍCULO 4.1 BIS, EL PRIMER PÁRRAFO DEL ARTÍCULO 4.16, EL PRIMER PÁRRAFO DEL ARTÍCULO 4.19 Y EL ARTÍCULO 4.404 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO; SE REFORMAN LAS FRACCIONES VI Y VII DEL ARTÍCULO 4, LAS FRACCIONES IX Y X DEL ARTÍCULO 7, LA FRACCIÓN XXII DEL ARTÍCULO 10, Y LA FRACCIÓN V DEL ARTÍCULO 32 Y SE ADICIONAN LA FRACCIÓN VIII AL ARTÍCULO 4, LA FRACCIÓN III BIS AL ARTÍCULO 6, LA FRACCIÓN XI AL ARTÍCULO 7 Y LA FRACCIÓN XXIII AL ARTÍCULO 10 DE LA LEY DE IGUALDAD DE TRATO Y OPORTUNIDADES ENTRE MUJERES Y HOMBRES DEL ESTADO DE MÉXICO".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
