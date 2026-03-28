@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-1122
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-01-20"
-last_updated: "2025-10-15"
+last_updated: "2026-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2026.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 20 de enero de 2016.
 
@@ -1095,7 +1095,9 @@ XX.- De Economía, Industria y Comercio.
 
 XXI.- De Juventud y Niñez.
 
-XXII.- De Igualdad.
+> <small>(REFORMADA, P.O. 28 DE MARZO DE 2026)</small>
+
+XXII.- De Igualdad Sustantiva.
 
 XXIII.- De Energía.
 
@@ -3624,6 +3626,14 @@ TERCERO.- La Comisión de Cultura será la encargada de llevar a cabo el procedi
 P.O. 15 DE OCTUBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFLEY/0269/2025 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 143, INCISO D), DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0499/2026 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 96, FRACCIÓN XXII DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
