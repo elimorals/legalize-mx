@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-ingresos-del-municipio-de-oaxaca-de-juarez-distrito-1848
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2026-01-17"
-last_updated: "2026-01-17"
+last_updated: "2026-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=184870&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,11 +25,11 @@ state: "OAX"
 
 LEY DE INGRESOS DEL MUNICIPIO DE OAXACA DE JUÁREZ, DISTRITO DEL CENTRO, OAXACA, PARA El EJERCICIO FISCAL 2026
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2026
 
 Ley publicada en la Octava Sección del Número 3 del Periódico Oficial del Estado de Oaxaca, el sábado17 de enero de 2026.
 
-> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO Y SU REFORMA SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
 
 ###### Articulo 147.
 
