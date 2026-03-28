@@ -4,7 +4,7 @@ identifier: "OAX-ley-del-servicio-civil-para-los-empleados-del-h-7002"
 country: "mx"
 rank: "ley"
 publication_date: "1974-05-11"
-last_updated: "2025-02-11"
+last_updated: "2026-03-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7002&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "OAX"
 ---
 # LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL H. AYUNTAMIENTO DEL MUNICIPIO DE OAXACA DE JUAREZ
 
-LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL H. AYUNTAMIENTO DEL MUNICIPIO DE OAXACA DE JUAREZ
+LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DE LOS AYUNTAMIENTOS DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2025.
+ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE MARZO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 11 de mayo de 1974.
 
@@ -37,13 +37,17 @@ LA XLVIII LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA,
 
 DECRETA:
 
-LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL H. AYUNTAMIENTO DEL MUNICIPIO DE OAXACA DE JUAREZ
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE MARZO DE 2026)</small>
+
+LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DE LOS AYUNTAMIENTOS DEL ESTADO DE OAXACA
 
 ## TITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2026)</small>
+
 ###### Artículo 1o.
 
-La presente Ley es de observancia general para el H. Ayuntamiento Constitucional del Municipio de Oaxaca de Juárez y los funcionarios dependientes del mismo, así como para los empleados y trabajadores municipales.
+La presente Ley es de observancia general para los ayuntamientos del estado de Oaxaca y los funcionarios dependientes de los mismos, así como para los empleados y trabajadores municipales.
 
 ###### Artículo 2o.
 
@@ -75,11 +79,13 @@ Los empleados de nuevo ingreso se considerarán de base después de haber presta
 
 Cuando se trate de plazas de nueva creación, la categoría que corresponda al empleado será determinada por la disposición legal que la establezca.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2026)</small>
+
 ###### Artículo 6o.
 
-Esta Ley sólo regirá las relaciones entre el H. Ayuntamiento del Municipio de Oaxaca de Juárez y sus empleados de base.
+Esta Ley solo regirá las relaciones entre los Ayuntamientos de los Municipios del estado de Oaxaca y sus empleados de base.
 
-Los funcionarios, empleados de confianza y los que presten servicios al H. Ayuntamiento mediante contrato o lista de raya, no quedarán comprendidos en la propia Ley.
+Los funcionarios, empleados de confianza y los que presten servicios a los Ayuntamientos mediante contratos o listas de raya, no quedarán comprendidos en esta Ley.
 
 ###### Artículo 7o.
 
@@ -251,15 +257,19 @@ Es nula la cesión de sueldo en favor de tercera persona, ya sea que se haga por
 
 El cobro de sueldos se hará personalmente o por medio de apoderado legalmente autorizado.
 
+> <small>(REFORMADO, P.O. 28 DE MARZO DE 2026)</small>
+
 ###### Artículo 34.
 
-En ningún caso los empleados del Ayuntamiento percibirán un sueldo inferior al mínimo fijado para los trabajadores en general en el Municipio de Oaxaca de Juárez.
+En ningún caso los empleados del Ayuntamiento percibirán un sueldo inferior al mínimo fijado para los trabajadores en general en el Municipio de que se trate.
 
 ### CAPITULO CUARTO. DE LAS OBLIGACIONES DEL AYUNTAMIENTO CON SUS EMPLEADOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE MARZO DE 2026)</small>
+
 ###### Artículo 35.
 
-Son obligaciones del Ayuntamiento del Municipio de Oaxaca de Juárez:
+Son obligaciones de los Ayuntamientos de los Municipios del estado de Oaxaca:
 
 I.- Respetar los derechos escalafonarios, de acuerdo con las siguientes bases:
 
@@ -781,6 +791,16 @@ I.- Apercibimiento.
 
 II.- Multa hasta de cien pesos.
 
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2026)</small>
+
+###### Artículo 97 Bis.
+
+En el caso del cumplimiento de los Laudos firmes que ejecute la Junta de Arbitraje donde se ordene el pago de las prestaciones contenidas dentro de la referida resolución, y el presupuesto de egresos de los Ayuntamientos condenados no permita realizar la liquidación en una sola exhibición, verificará el cumplimiento de los planes anuales de pago propuestos por las demandadas, y se considerarán en todos sus términos en vías de cumplimiento.
+
+> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2026)</small>
+
+Artículo 95 (sic) Ter.- La Junta de Arbitraje, verificará el cumplimiento de los planes anuales de pago propuestos por los Ayuntamientos, pudiendo hacer uso de los medios de apremio a que se refiere esta Ley, mismos que se harán valer en caso de incumplimiento parcial o total del plan anteriormente referido.
+
 ###### Artículo 98.
 
 Se faculta al Ayuntamiento para dictar los reglamentos, acuerdos y demás disposiciones administrativas para la exacta aplicación de esta Ley.
@@ -842,3 +862,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Notifíquese el presente Decreto a las instancias pertinentes, para los efectos legales correspondientes.
+
+P.O. 28 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1159.- MEDIANTE EL CUAL SE MODIFICA LA DENOMINACIÓN DE LA LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DEL H. AYUNTAMIENTO DEL MUNICIPIO DE OAXACA DE JUÁREZ; SE REFORMAN LOS ARTÍCULOS 1, 6; 34, Y EL PRIMER PÁRRAFO DEL ARTÍCULO 35; Y SE ADICIONAN LOS ARTÍCULOS 97 BIS Y 97 TER, DE LA LEY DEL SERVICIO CIVIL PARA LOS EMPLEADOS DE LOS AYUNTAMIENTOS DEL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
