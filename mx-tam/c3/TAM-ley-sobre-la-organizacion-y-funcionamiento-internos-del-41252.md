@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-la-organizacion-y-funcionamiento-internos-del-41252"
 country: "mx"
 rank: "ley"
 publication_date: "2004-07-22"
-last_updated: "2026-03-09"
+last_updated: "2026-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2026.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 22 de julio de 2004.
 
@@ -2241,13 +2241,13 @@ Las minutas-proyecto de Decreto sobre adiciones y reformas a la Constitución Ge
 
 6. En el dictamen, discusión y votación de las iniciativas de reformas y adiciones a la Constitución Política del Estado se observarán en lo conducente las previsiones que este ordenamiento dispone en esos rubros para el procedimiento legislativo ordinario.
 
-> <small>(REFORMADO, P.O. 20 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2026)</small>
 
 ###### ARTICULO 90.
 
-1. Si durante el desempeño de la Diputación Permanente se presentan iniciativas de reforma y adición a la Constitución Política del Estado, las mismas podrán ser admitidas por la mayoría de las Diputadas y los Diputados presentes.
+1. Si durante el desempeño de la Diputación Permanente se presentan iniciativas de reforma y adición a la Constitución Política del Estado, estas podrán ser admitidas por la mayoría de las y los Diputados presentes, que integran la misma.
 
-2. Una vez admitidas las iniciativas de reforma y adición a la Constitución Política local, la Diputación Permanente procederá a su estudio y elaboración del dictamen correspondiente.
+2. Una vez admitidas las iniciativas de reforma y adición a la Constitución Política local, la Diputación Permanente podrá proceder a su estudio y elaboración del dictamen correspondiente, debiéndose resolver en definitiva en una sesión extraordinaria, que para tal efecto convoque la Diputación Permanente, o en su caso, en una sesión dentro de un período ordinario.
 
 ###### ARTICULO 91.
 
@@ -3314,6 +3314,72 @@ El Congreso podrá ordenar el acceso del público a las galerías mediante tarje
 1. El Congreso del Estado promoverá la creación y funcionamiento del Congreso Tamaulipeco de las Personas Jóvenes, conforme a los principios que lo rigen y con especial énfasis en la participación activa de la juventud. En el ejercicio de sus atribuciones, las Diputadas y los Diputados fomentarán su integración, inclusión y desarrollo.
 
 2. Para el desarrollo y funcionamiento del Congreso Tamaulipeco de las Personas Jóvenes el Congreso del Estado se sujetará a lo establecido en el Título Sexto Bis de la Ley de los Derechos de las Personas Jóvenes del Estado de Tamaulipas, con el objeto de promover, incentivar y garantizar la participación de las juventudes en los asuntos públicos de sus comunidades.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 30 DE MARZO DE 2026)</small>
+
+### CAPITULO NOVENO BIS. DEL MUSEO LEGISLATIVO DEL CONGRESO DEL ESTADO DE TAMAULIPAS
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2026)</small>
+
+ARTICULO 169 BIS.
+
+El Museo Legislativo del Congreso del Estado Libre y Soberano de Tamaulipas, es un espacio institucional de carácter permanente, adjunto a la Biblioteca adscrita a la Unidad de Servicios Administrativos y Financieros del Poder Legislativo, cuyo objeto es la preservación, conservación, investigación, difusión y exhibición del patrimonio histórico, documental, gráfico, audiovisual y simbólico relacionado con la actividad legislativa y la historia parlamentaria del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2026)</small>
+
+###### ARTICULO 170.
+
+El Museo Legislativo tendrá como finalidades:
+
+I. Conservar y proteger el acervo histórico y patrimonial del Congreso del Estado;
+
+II. Difundir la historia del Poder Legislativo y su contribución al desarrollo político, social y jurídico de Tamaulipas;
+
+III. Fortalecer la educación cívica, la cultura democrática y el conocimiento del parlamentarismo;
+
+IV. Acercar a la ciudadanía al quehacer legislativo mediante exposiciones, actividades educativas y programas de divulgación; y
+
+V. Fomentar la identidad institucional y la memoria histórica del Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2026)</small>
+
+###### ARTICULO 171.
+
+El patrimonio del Museo Legislativo estará integrado por:
+
+I. Documentos históricos, actas, decretos, iniciativas y archivos legislativos relevantes;
+
+II. Objetos, mobiliario, piezas conmemorativas y elementos simbólicos vinculados a la historia del Congreso;
+
+III. Material gráfico, fotográfico, audiovisual y digital relacionado con la actividad parlamentaria;
+
+IV. Reconocimientos, distinciones y testimonios históricos que formen parte del acervo legislativo; y
+
+V. Cualesquiera otros bienes que, por su valor histórico o cultural, sean determinados por el Congreso.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2026)</small>
+
+###### ARTICULO 172.
+
+El Museo Legislativo operará conforme a los principios de legalidad, conservación patrimonial, acceso público, inclusión, transparencia histórica y respeto a la pluralidad política.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2026)</small>
+
+###### ARTICULO 173.
+
+La organización, administración y funcionamiento del Museo Legislativo se sujetarán a los lineamientos, manuales o disposiciones administrativas que para tal efecto emita el Congreso del Estado, sin perjuicio de las atribuciones que correspondan a los órganos de gobierno y administración internos.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2026)</small>
+
+###### ARTICULO 174.
+
+El Museo Legislativo podrá coordinarse con instituciones educativas, culturales, académicas y de investigación, así como con otros congresos y organismos parlamentarios, para el desarrollo de actividades conjuntas, exposiciones temporales, investigaciones históricas y programas de difusión.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2026)</small>
+
+###### ARTICULO 175.
+
+El acceso al Museo Legislativo será público y gratuito, en los términos que determine la normatividad interna del Congreso, garantizando condiciones de accesibilidad universal y atención incluyente.
 
 ## TRANSITORIOS
 
@@ -4454,3 +4520,15 @@ P.O. 9 DE MARZO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado, con excepción de las reformas realizadas a la Ley sobre la Organización y Funcionamiento Internos del Congreso del Estado Libre y Soberano de Tamaulipas, las cuales surtirán efectos a partir de su aprobación.
+
+P.O. 30 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-1013 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY SOBRE LA ORGANIZACIÓN Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir de su aprobación y deberá publicarse en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los recursos humanos, materiales y presupuestales para la operación del Museo Legislativo se asignarán conforme a la disponibilidad presupuestaria del Congreso del Estado, sin generar erogaciones adicionales no previstas.
