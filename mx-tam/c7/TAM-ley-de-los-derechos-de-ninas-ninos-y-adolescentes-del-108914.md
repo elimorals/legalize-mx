@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108914"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-01"
-last_updated: "2026-02-27"
+last_updated: "2026-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108914&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2026.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el miércoles 1 de julio de 2015.
 
@@ -149,7 +149,7 @@ XVII.- Familia de acogida: A aquélla que cuente con la certificación de la aut
 
 XVIII.- Familia de acogimiento pre-adoptivo: A la distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niñas, niños o adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez;
 
-> <small>(ADICIONADA, P.O. 07 DE FEBRERO DE 2023)</small>
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2023)</small>
 
 XVIII Bis.- Feminicidio: La muerte de una mujer por razones de género, ya sea que tenga lugar dentro de la familia, unidad doméstica o en cualquier otra relación interpersonal, en la comunidad, por parte de cualquier persona, o que sea perpetrada o tolerada por el Estado y sus agentes, por acción u omisión;
 
@@ -783,13 +783,13 @@ Las normas aplicables a las niñas y a las adolescentes deberán estar dirigidas
 
 ###### ARTÍCULO 28.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 07 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE FEBRERO DE 2023)</small>
 
 Niñas, niños y adolescentes tienen derecho a no ser sujetos de discriminación alguna ni de limitación o restricción de sus derechos, en razón de encontrarse en orfandad por feminicidio, en razón de su origen étnico, nacional o social, idioma o lengua, edad, género, preferencia sexual, estado civil, religión, opinión, condición económica, circunstancias de nacimiento, discapacidad o estado de salud o cualquier otra condición atribuible a ellos mismos o a su madre, padre, tutor o persona que los tenga bajo guarda y custodia, o a otros miembros de su familia.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán:
 
-> <small>(REFORMADA, P.O. 07 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2023)</small>
 
 I.- Llevar a cabo acciones especiales para prevenir, atender y erradicar la discriminación múltiple de la que son objeto niñas, niños y adolescentes en situación de exclusión social, orfandad por feminicidio, en situación de calle, cualquier forma de trabajo infantil especialmente en las circunstancias de desventaja social contempladas en la presente Ley o cualquiera otra condición de marginalidad;
 
@@ -835,21 +835,25 @@ III.- Trata de niñas, niños y adolescentes, abuso sexual infantil, explotació
 
 IV.- El tráfico de niñas, niños y adolescentes;
 
-> <small>(REFORMADA, P.O. 07 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2023)</small>
 
 V.- El trabajo antes de la edad mínima de quince años, prevista en el artículo 123 de la Constitución Federal y demás disposiciones aplicables, así como actividades de explotación económica o de otras que sean forzados a realizar y que puedan ser peligrosas para su integridad física, su salud, su desarrollo integral o que les impida estudiar y les limite el libre ejercicio de sus derechos;
 
-> <small>(REFORMADA, P.O. 07 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2023)</small>
 
 VI.- El trabajo en adolescentes mayores de 15 años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso, de conformidad con lo dispuesto en la Constitución Federal y en las demás disposiciones aplicables;
 
-> <small>(REFORMADA, P.O. 07 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2026)</small>
 
-VII.- La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral; y
+VII.- La incitación o coacción para que participen en la comisión de delitos o en asociaciones delictuosas, en conflictos armados o en cualquier otra actividad que impida su desarrollo integral;
 
-> <small>(ADICIONADA, P.O. 07 DE FEBRERO DE 2023)</small>
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2026)</small>
 
-VIII.- El feminicidio de su madre.
+VIII.- La privación de la libertad o reclusión de la madre; y
+
+> <small>(ADICIONADA, P.O. 7 DE FEBRERO DE 2023)</small>
+
+IX.- El feminicidio de su madre.
 
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2021)</small>
 
@@ -1007,7 +1011,7 @@ V. Destinar recursos humanos, materiales y presupuestarios adecuados y suficient
 
 VI. Adaptar el sistema educativo a las condiciones, intereses y contextos específicos de niñas, niños y adolescentes para garantizar su permanencia en el sistema educativo;
 
-> <small>(REFORMADA, P.O. 07 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 7 DE FEBRERO DE 2023)</small>
 
 VII. Establecer acciones afirmativas para garantizar el derecho a la educación de niñas, niños y adolescentes de grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, orfandad por feminicidio, de identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con aspectos de género, preferencia sexual, creencias religiosas o prácticas culturales;
 
@@ -2472,6 +2476,14 @@ En las disposiciones transitorias de las diversas leyes y códigos en las que se
 P.O. 27 DE FEBRERO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-983 MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES XI Y XII, Y SE ADICIONA LA FRACCIÓN XIII AL ARTÍCULO 38, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 66-1014 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VII Y SE ADICIONA LA FRACCIÓN VIII, RECORRIÉNDOSE EN SU ORDEN NATURAL LA SUBSECUENTE, AL ARTÍCULO 32 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
