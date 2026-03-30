@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2026-03-17"
+last_updated: "2026-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,9 @@ state: "TAM"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE MAYO DE 2026 EN EL P.O. DEL ESTADO DE TAMAULIPAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -3596,6 +3594,14 @@ Serán días de descanso obligatorio los que señale el calendario oficial y el 
 ###### ARTICULO 219.
 
 Las mujeres disfrutarán de 45 días de descanso antes de la fecha que aproximadamente se fije para el parto, y de otros 45 días después del mismo. En el periodo de lactancia tendrán dos reposos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos, para lo cual, en las instalaciones municipales se habilitarán los espacios para este efecto.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2026)</small>
+
+ARTÍCULO 219 BIS.- Las mujeres trabajadoras de los Ayuntamientos del Estado de Tamaulipas tendrán derecho a solicitar un permiso por luto, por un plazo de 5 días con goce de sueldo, cuando atraviesen por una pérdida gestacional, neonatal, o perinatal.
+
+La solicitante deberá presentar los certificados de gravidez y de muerte fetal, o neonatal para acreditar respectivamente que estuvo embarazada y que perdió al producto o bebé recién nacido.
+
+Lo anterior sin demérito de los permisos que por razón de prescripción médica deban concederse a la solicitante en los términos y condiciones legales correspondientes, para efecto de atención médica o reposo en caso de que lo anterior haya causado afectaciones a su salud.
 
 ###### ARTICULO 220.
 
@@ -7334,3 +7340,11 @@ La Secretaría de Turismo y la Secretaría de Finanzas deberán coordinarse para
 ###### ARTÍCULO OCTAVO.
 
 Los cabildos municipales contarán con un plazo máximo de treinta días naturales contados a partir de la entrada en vigor del presente Decreto, para integrar e instalar la Comisión de Turismo.
+
+P.O. 30 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1019 MEDIANTE EL CUAL SE ADICIONAN EL ARTÍCULO 219 BIS AL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
