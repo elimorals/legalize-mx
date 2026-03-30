@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-conducta-del-sistema-para-el-desarrollo-integral-1455
 country: "mx"
 rank: "codigo"
 publication_date: "2020-11-30"
-last_updated: "2020-11-30"
+last_updated: "2026-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "VER"
 ---
 # CODIGO DE CONDUCTA DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ACUERDO POR EL QUE SE EMITE EL CÓDIGO DE CONDUCTA DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE VERACRUZ, PUBLICADO EN LA G.O. DE 30 DE MARZO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE VERACRUZ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE MARZO DE 2026 (ABROGADO).
 
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el lunes 30 de noviembre de 2020.
 
@@ -410,3 +412,15 @@ Cargo:
 Unidad Administrativa:
 
 Fecha y firma:
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 30 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE EMITE EL CÓDIGO DE CONDUCTA DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE VERACRUZ".]
+
+Primero: El presente Código de Conducta entrará en vigor a partir del día hábil siguiente al de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Segundo: Se abroga el Código de Conducta 2020, difundido en la red informática interna y demás disposiciones jurídicas que se opongan al presente Código de Conducta.
+
+Tercero: Las personas servidoras públicas del SEDIF, a la entrada en vigor del presente Código de Conducta, contarán con un plazo de 30 días naturales para protestar y suscribir una carta compromiso, tanto del presente Código como del Código de Ética.
