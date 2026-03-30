@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-de-ocampo-56908"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-10"
-last_updated: "2025-11-20"
+last_updated: "2026-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 10 de septiembre de 2007.
 
@@ -231,6 +231,14 @@ XLIII. Verificadores: Las personas designadas por la autoridad sanitaria compete
 
 XLIV. La donación de órganos, tejidos, células y cadáveres, consiste en el consentimiento tácito o expreso de la persona para que, en vida o después de su muerte, su cuerpo o sus componentes se utilicen para trasplantes. Toda persona es disponente de su cuerpo y podrá donarlo, total o parcialmente, para los fines y con los requisitos previstos en la legislación de la materia.
 
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2026)</small>
+
+XLV. VIH: Virus de la Inmunodeficiencia Humana es un agente etiológico que infecta y destruye de manera progresiva células del sistema inmunitario, particularmente los linfocitos CD4, lo que, sin diagnóstico y tratamiento oportunos, puede derivar en el Síndrome de Inmunodeficiencia Adquirida SIDA;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2026)</small>
+
+XLVI. SIDA: Síndrome de Inmunodeficiencia Adquirida, es la etapa avanzada de la infección causada por el Virus de la Inmunodeficiencia Humana VIH, caracterizada por el deterioro progresivo del sistema inmunológico y la aparición de infecciones oportunistas, neoplasias u otras manifestaciones clínicas asociadas.
+
 ###### ARTÍCULO 3°.
 
 El derecho a la protección de la salud tiene las siguientes finalidades:
@@ -340,6 +348,10 @@ XII. La prestación de los servicios de salud ocupacional y el saneamiento bási
 XIII. La prestación de los servicios de prevención, atención y el control de urgencias epidemiológicas, emergencias epidemiológicas, asociación epidemiológica, brote, endemia, enfermedad infecciosa emergente, enfermedad infecciosa reemergente, epidemia y pandemia;
 
 XIV. La prestación de los servicios de prevención y control de las enfermedades no transmisibles y de accidentes;
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2026)</small>
+
+XIV Bis. La implementación de acciones y campañas de información, prevención, detección oportuna y control del VIH, SIDA y de las infecciones de transmisión sexual, así como la prestación de servicios de atención integral, conforme a la Ley General de Salud y las Normas Oficiales Mexicanas aplicables;
 
 XV. La prestación de los servicios de prevención de la discapacidad y su rehabilitación;
 
@@ -1061,9 +1073,9 @@ La Secretaría de Salud, con el fin de combatir el cáncer cérvico uterino, cá
 
 I. Dar a conocer la conveniencia del sexo seguro, difundiendo las consecuencias de la promiscuidad sexual, además de advertir de los riesgos que conlleva la práctica de relaciones sexuales tempranas e informar de los riesgos de contagio por relaciones sexuales con personas que hayan tenido diversas parejas sexuales;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2026)</small>
 
-II. Difundir el derecho a la salud de las mujeres, con perspectiva de género, fomentando la erradicación de prácticas culturales o sociales que lo impidan o retrasen, así como las conveniencias de realizarse periódicamente las pruebas para la prevención del cáncer cérvico uterino, tales como colposcopía, papanicolaou y cultivo de híbridos, además deberá aplicar como manera de prevención la vacuna del virus del Papiloma Humano en niñas; de igual manera en el caso del cáncer de próstata deberá (sic) difundirse periódicamente las conveniencias de realizarse la prueba del antígeno prostático específico (PSA) a partir de los 40 años o cuando la persona lo solicite, como medida preventiva para su detección oportuna;
+II. Difundir el derecho a la salud de las mujeres, con perspectiva de género, fomentando la erradicación de prácticas culturales o sociales que lo impidan o retrasen, así como las conveniencias de realizarse periódicamente las pruebas para la prevención del cáncer cérvico uterino, tales como colposcopía, papanicolaou y cultivo de híbridos, y aplicar de manera gratuita la vacuna contra el Virus del Papiloma Humano como medida de prevención en niñas, niños y adolescentes, así como en mujeres y hombres, priorizando a quienes presenten infección activa, lesiones precursoras o condilomas; de igual manera, en el caso del cáncer de próstata deberá difundirse periódicamente las conveniencias de realizarse la prueba del antígeno prostático específico (PSA) a partir de los 40 años o cuando la persona lo solicite, como medida preventiva para su detección oportuna;
 
 > <small>(REFORMADA, P.O. 4 DE MAYO DE 2021)</small>
 
@@ -2735,11 +2747,15 @@ La cuarentena se ordenará por escrito por la autoridad sanitaria competente, pr
 
 La observación personal consiste en la vigilancia sanitaria de los presuntos portadores o sospechosos, sin limitar su libertad de tránsito, con el fin de facilitar la rápida identificación de la infección o enfermedad transmisible.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2026)</small>
+
 ###### ARTÍCULO 217.
 
-Las autoridades sanitarias competentes ordenarán la vacunación de personas expuestas a contraer enfermedades transmisibles, en los siguientes casos:
+Las autoridades sanitarias competentes ordenarán la vacunación gratuita de las personas expuestas a contraer enfermedades transmisibles, en los siguientes casos:
 
-I. Cuando no hayan sido vacunados contra la tosferina, la difteria, el tétanos, la tuberculosis, la poliomielitis, el sarampión y demás enfermedades transmisibles, cuya vacunación se estime obligatoria;
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2026)</small>
+
+I. Cuando no hayan sido vacunadas contra la tosferina, la difteria, el tétanos, la tuberculosis, la poliomielitis, el sarampión, y el Virus del Papiloma Humano, en los casos previstos en la fracción II del artículo 31 de la presente Ley, así como contra las demás enfermedades transmisibles cuya vacunación se estime obligatoria, conforme a las disposiciones aplicables;
 
 II. En caso de epidemia grave; y,
 
@@ -3554,3 +3570,19 @@ Primero. La presente reforma de Ley entrará en vigor al día siguiente de su pu
 Segundo. La Secretaría de Salud del Estado de Michoacán deberá expedir el Programa Estatal de Donación Voluntaria de Sangre, en un plazo no mayor a ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
 
 Tercero. La Secretaría de Salud del Estado de Michoacán deberá integrar y poner en operación el Registro Estatal de Donadores de Sangre, en un plazo no mayor a ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 30 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 419 POR EL QUE "SE ADICIONAN LAS FRACCIONES XLV Y XLVI AL ARTÍCULO 2° ASÍ COMO LA FRACCIÓN XIV BIS AL ARTÍCULO 6°, DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. La Secretaría de Salud del Estado de Michoacán realizará las adecuaciones administrativas y programáticas necesarias para el cumplimiento del presente Decreto, de manera gradual y conforme a la disponibilidad presupuestal, sin comprometer recursos no previstos en el Presupuesto de Egresos correspondiente.
+
+P.O. 30 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 420 POR EL QUE "SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 31 Y EL ARTÍCULO 217 DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. La Secretaría de Salud del Estado de Michoacán deberá realizar las adecuaciones administrativas, presupuestales y programáticas necesarias para el cumplimiento del presente Decreto, conforme a la disponibilidad presupuestal y a los lineamientos aplicables.
