@@ -4,7 +4,7 @@ identifier: "TAM-codigo-civil-para-el-estado-de-tamaulipas-7959"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-01-10"
-last_updated: "2026-03-24"
+last_updated: "2026-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7959&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2026.
 
 Código publicado en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 10 de enero de 1987.
 
@@ -1374,6 +1374,10 @@ III. Con relación a las personas con algún tipo de discapacidad o declarados e
 > <small>(REFORMADA, P.O. 15 DE ABRIL DE 2014)</small>
 
 IV. Por lo que hace a los adultos mayores que carezcan de capacidad económica, además de todo lo necesario para su atención geriátrica, se procurará que los alimentos se les proporcionen, integrándolos a la familia. El Juez suplirá de oficio, las deficiencias de orden procesal en términos del artículo 1° del Código de Procedimientos Civiles del Estado de Tamaulipas.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2026)</small>
+
+ART. 277 Bis.- Cuando se presenten casos de personas adultas mayores en situación de abandono, la autoridad judicial, en coordinación con el Ministerio Público y la Procuraduría de la Defensa del Adulto Mayor del Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas, deberá, conforme a sus facultades, realizar el procedimiento para asegurar los alimentos previsto en el artículo 293 de este Código, además de ejercer la acción penal correspondiente, a fin de garantizar su debido cumplimiento.
 
 ART. 278.- La obligación de dar alimentos es recíproca. El que los da tiene a su vez el derecho de pedirlos.
 
@@ -11036,6 +11040,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 24 DE MARZO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1009 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 699, DEL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS; Y SE REFORMAN LOS ARTÍCULOS 226, FRACCIÓN II; Y 233, PÁRRAFO PRIMERO, FRACCIONES I Y II, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1021 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 277 BIS, AL CÓDIGO CIVIL PARA EL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
