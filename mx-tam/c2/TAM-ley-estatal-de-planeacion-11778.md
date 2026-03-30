@@ -4,7 +4,7 @@ identifier: "TAM-ley-estatal-de-planeacion-11778"
 country: "mx"
 rank: "ley"
 publication_date: "1984-09-19"
-last_updated: "2026-02-12"
+last_updated: "2026-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY ESTATAL DE PLANEACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el 19 de septiembre de 1984.
 
@@ -63,13 +63,17 @@ IV.- Las bases para que el Ejecutivo Estatal coordine sus actividades de planeac
 
 V.- Las bases para promover y garantizar la participación democrática de los diversos grupos sociales, a través de sus organizaciones representativas, en la elaboración de los Planes y Programas a que se refiere esta Ley;
 
-> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2026)</small>
 
-VI.- Las bases para que las acciones de los particulares contribuyan a alcanzar los objetivos y prioridades de Planes y Programas; y
+VI.- Las bases para que las acciones de los particulares contribuyan a alcanzar los objetivos y prioridades de Planes y Programas;
 
-> <small>(ADICIONADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2026)</small>
 
-VII.- Las bases para promover y garantizar la igualdad entre mujeres y hombres y la incorporación de la perspectiva de género en el Plan Estatal de Desarrollo y en los programas a que se refiere esta ley.
+VII.- Las bases para promover y garantizar la igualdad entre mujeres y hombres y la incorporación de la perspectiva de género en el Plan Estatal de Desarrollo y en los programas a que se refiere esta ley; y
+
+> <small>(ADICIONADA, P.O. 30 DE MARZO DE 2026)</small>
+
+VIII. Del impacto que tenga la Planeación Democrática en las familias.
 
 ###### ARTICULO 2.
 
@@ -87,9 +91,9 @@ III.- La igualdad de derechos, la atención de las necesidades básicas de la po
 
 IV.- El respeto irrestricto de los derechos humanos y de las libertades y derechos sociales y políticos;
 
-> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2026)</small>
 
-V.- El fortalecimiento y protección de la familia, a efecto de promover, respetar y proteger los derechos de los seres humanos, reconociendo su realidad como integrantes de un ámbito familiar, que es necesario para su pleno desarrollo;
+V.- El interés superior de la familia, el fortalecimiento y protección de la familia, a efecto de promover, respetar y proteger los derechos de los seres humanos, reconociendo su realidad como integrantes de un ámbito familiar, que es necesario para su pleno desarrollo;
 
 VI.- El fortalecimiento del Pacto Federal y del Municipio Libre, para lograr un desarrollo equilibrado del Estado; y
 
@@ -100,6 +104,10 @@ VII.- El equilibrio de los factores de la producción, que proteja y promueva el
 ###### ARTICULO 3.
 
 Para los efectos de esta ley, se entiende por planeación estatal del desarrollo, la ordenación racional y sistemática de acciones que con base en el ejercicio de las atribuciones del Ejecutivo Estatal y de los Ayuntamientos, en materia de regulación y promoción de la actividad económica, social, política, cultural, de protección al medio ambiente y desarrollo sustentable, tiene como propósito el mejoramiento de la realidad del Estado, de acuerdo a las normas, principios y objetivos que la Constitución Política de los Estados Unidos Mexicanos, la Constitución del Estado de Tamaulipas y las leyes de la materia establecen.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2026)</small>
+
+Se entiende por Perspectiva de Familia. La categoría de análisis que parte de la familia como unidad, que busca conocer el papel de la familia en la problemática estudiada, así como el impacto que las decisiones públicas tienen en ésta. Es transversal, integral e integradora y está basada en la inviolabilidad de la intimidad familiar, así como en el papel subsidiario del Estado y de los demás actores con respecto a ella.
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
@@ -185,9 +193,9 @@ Las disposiciones reglamentarias de esta Ley establecerán las normas de organiz
 
 La Coordinación General de Planeación para el Desarrollo del Estado de Tamaulipas, con el apoyo de las dependencias y entidades de la Administración Pública Federal, Estatal y Municipal, tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2026)</small>
 
-I.- Integrar y actualizar, en congruencia con el Plan Nacional de Desarrollo y con los Planes Municipales, el Plan Estatal de Desarrollo, tomando en cuenta la igualdad entre mujeres y hombres a través de la incorporación de la perspectiva de género, las propuestas de las dependencias y entidades de la administración pública estatal, de los gobiernos municipales y los planteamientos que se formulen por los grupos sociales interesados;
+I.- Integrar y actualizar, en congruencia con el Plan Nacional de Desarrollo y con los Planes Municipales, el Plan Estatal de Desarrollo, con perspectiva de familia, y tomando en cuenta la igualdad entre mujeres y hombres a través de la incorporación de la perspectiva de género, las propuestas de las dependencias y entidades de la administración pública estatal, de los gobiernos municipales y los planteamientos que se formulen por los grupos sociales interesados;
 
 II.- Coordinar la evaluación y seguimiento técnico del Plan Estatal de Desarrollo, verificando la congruencia entre sí de los programas y proyectos que formulen los Gobiernos Federal, Estatal y Municipales con el cumplimiento oportuno de los objetivos señalados en el Plan;
 
@@ -213,9 +221,9 @@ X.- Las demás que le otorguen otros ordenamientos jurídicos.
 
 A la Secretaría de Finanzas le corresponde:
 
-> <small>(REFORMADA, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 30 DE MARZO DE 2026)</small>
 
-I.- Participar en la elaboración del Plan Estatal de Desarrollo, respecto de la definición de las políticas financieras, fiscales y crediticias, en las que se deberá observar el principio de igualdad entre el hombre y la mujer mediante la incorporación de la perspectiva de género;
+I.- Participar en la elaboración del Plan Estatal de Desarrollo, respecto de la definición de las políticas financieras, fiscales y crediticias, en las que se deberá observar el principio de igualdad entre el hombre y la mujer mediante la incorporación de la perspectiva de familia y de género;
 
 II.- Proyectar y calcular los ingresos de las dependencias y entidades de la Administración Pública Estatal, así como las participaciones municipales considerando las necesidades de recursos y la utilización del Crédito Público, para la ejecución del Plan Estatal, y de los Programas que de ellos se deriven;
 
@@ -319,15 +327,17 @@ El Plan Estatal de Desarrollo deberá elaborarse, aprobarse y publicarse, en un 
 
 Los planes municipales de desarrollo deberán elaborarse y aprobarse en un plazo de tres meses contados a partir de la fecha en que tome posesión el Ayuntamiento y sus previsiones se realizarán durante el período constitucional que le corresponda. Las consideraciones y proyecciones de más largo plazo, sustentadas en acciones ejecutadas total o parcialmente por el Ayuntamiento podrán considerarse por el Consejo Económico y Social, a fin de impulsar su incorporación en la planeación municipal.
 
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2026)</small>
+
 ###### ARTICULO 25.
 
-El Plan Estatal de Desarrollo, sobre el diagnóstico que se elabore, precisará los objetivos generales, estrategia y prioridades del Desarrollo Integral del Estado, contendrá previsiones sobre los recursos que serán asignados a tales fines; determinará los instrumentos y responsables de su ejecución, establecerá los lineamientos de política de carácter Estatal, Sectorial y Subregional; sus previsiones se referirán al conjunto de la actividad económica y social, y regirá el contenido de los programas que se generen en el Sistema Estatal de Planeación Democrática.
+El Plan Estatal de Desarrollo, sobre el diagnóstico que se elabore, precisará los objetivos, generales, estrategias, el impacto esperado en las familias y las prioridades del Desarrollo Integral del Estado, contendrá previsiones sobre los recursos que serán asignados a tales fines; determinará los instrumentos y responsables de su ejecución, establecerá los lineamientos de política de carácter Estatal, Sectorial y Subregional; sus previsiones se referirán al conjunto de la actividad económica y social, y regirá el contenido de los programas que se generen en el Sistema Estatal de Planeación Democrática.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 27 DE MAYO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2026)</small>
 
-###### ARTICULO 26.
+###### ARTÍCULO 26.
 
-Los planes municipales de desarrollo precisarán los objetivos generales, estrategias y prioridades del desarrollo integral del Municipio; contendrán previsiones sobre los recursos que serán asignados a tales fines; determinarán los instrumentos y responsables de su ejecución, y establecerán los lineamientos de política de carácter municipal, sectorial y de servicios municipales.
+Los planes municipales de desarrollo precisarán los objetivos generales, estrategias y prioridades del desarrollo integral del Municipio; contendrán previsiones sobre los recursos que serán asignados a tales fines; determinarán los instrumentos y responsables de su ejecución, y establecerán los lineamientos de política de carácter municipal, sectorial y de servicios municipales, debiendo incorporar la perspectiva de familia en su elaboración.
 
 > <small>(REFORMADO, P.O. 28 DE SEPTIEMBRE DE 2018)</small>
 
@@ -760,3 +770,11 @@ El Tribunal de Justicia Administrativa del Estado de Tamaulipas, a través de su
 ###### ARTÍCULO TERCERO.
 
 En las disposiciones transitorias de las diversas leyes y códigos en las que se haga referencia a la Contraloría Gubernamental, se entenderá la Secretaría Anticorrupción y Buen Gobierno.
+
+P.O. 30 DE MARZO DE 2026
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 66-1018 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 1, FRACCIONES VI Y VII; 2, FRACCIÓN V; 15, FRACCIÓN I; 16, FRACCIÓN I; 25; Y 26, PÁRRAFO PRIMERO; Y SE ADICIONAN UNA FRACCIÓN VIII AL ARTÍCULO 1; Y UN PÁRRAFO SEGUNDO, RECORRIÉNDOSE EN SU ORDEN NATURAL EL SUBSECUENTE, AL ARTÍCULO 3, DE LA LEY ESTATAL DE PLANEACIÓN".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
