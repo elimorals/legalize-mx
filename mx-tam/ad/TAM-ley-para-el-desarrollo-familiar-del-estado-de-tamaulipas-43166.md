@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-desarrollo-familiar-del-estado-de-tamaulipas-43166"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-28"
-last_updated: "2025-07-01"
+last_updated: "2026-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43166&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA EL DESARROLLO FAMILIAR DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 28 de diciembre de 2004.
 
@@ -69,7 +69,9 @@ d) definir los principios para su formación, atención, protección y desarroll
 
 1. La familia es la célula básica de la sociedad. Es el conjunto de personas que se encuentran vinculadas por una relación de parentesco, el cual puede ser por consanguinidad, afinidad, o legal, según deriven de la filiación, el matrimonio, el concubinato, o la adopción.
 
-2. La familia tiene como función esencial la convivencia estable e integrada, el cuidado y la protección de sus miembros por medio de la permanencia y estabilidad de sus relaciones interpersonales.
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2026)</small>
+
+2. La familia tiene como función esencial garantizar la convivencia armoniosa, estable e integrada, el cuidado, la protección y el apoyo mutuo entre sus integrantes, promoviendo el bienestar integral y emocional, el desarrollo personal y la realización plena mediante la permanencia y estabilidad de sus relaciones interpersonales.
 
 3. Los derechos familiares que esta ley establece son personalísimos, irrenunciables e indisponibles o inviolables, en cuanto que no admiten renuncia, transferencia o transmisión, y se extinguen con la muerte de su titular.
 
@@ -874,6 +876,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 1 DE JULIO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-361 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 3, PÁRRAFO 1, INCISO A); Y 9, PÁRRAFO 2, DE LA LEY PARA EL DESARROLLO FAMILIAR DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1015 MEDIANTE EL CUAL SE REFORMA EL NUMERAL 2 DEL ARTÍCULO 2 DE LA LEY PARA EL DESARROLLO FAMILIAR DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
