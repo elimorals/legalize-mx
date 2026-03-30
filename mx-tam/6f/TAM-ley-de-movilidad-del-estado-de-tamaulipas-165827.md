@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-movilidad-del-estado-de-tamaulipas-165827"
 country: "mx"
 rank: "ley"
 publication_date: "2023-04-27"
-last_updated: "2026-03-09"
+last_updated: "2026-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE MOVILIDAD DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2026.
 
 Ley publicada en el Anexo al Número 51 del Periódico Oficial del Estado de Tamaulipas, el jueves 27 de abril de 2023.
 
@@ -1605,9 +1605,11 @@ La Secretaría por medio del Sistema Estatal será el encargado de fomentar una 
 
 La Secretaría podrá en coordinación con otras instituciones, dependencias y entidades, utilizar el espacio público generalmente usado para el tránsito vehicular, poniéndolo a disposición de las personas que habitan en el Estado y los turistas, con fines recreativos, culturales y deportivos.
 
+> <small>(REFORMADO, P.O. 30 DE MARZO DE 2026)</small>
+
 ###### Artículo 98.
 
-La Secretaría promoverá, programará e implementará las políticas públicas que promuevan el uso de la movilidad no motorizada y transporte público entre el personal de la Administración Pública Estatal y las dependencias municipales, así como programas de movilidad empresarial, que a través de acciones que tengan como fin el uso de manera cotidiana de transportes eficientes y sustentables; que ayuden a disminuir las emisiones contaminantes, la congestión vial y mejorar la calidad de los viajes, privilegiando los modos no motorizados de transporte.
+La Secretaría promoverá, programará e implementará las políticas públicas que fomenten el uso de la movilidad no motorizada y transporte público entre el personal de la Administración Pública Estatal, las dependencias municipales y la ciudadanía, así como programas de movilidad empresarial, que a través de acciones tengan como fin el uso de manera cotidiana de transportes eficientes y sustentables; que ayuden a disminuir las emisiones contaminantes, los riesgos a la salud y al medio ambiente a causa de la contaminación auditiva generada por el uso de vehículos automotores, especialmente aquellos a los que les realizan modificaciones a su sistema de escape, la congestión vial y mejorar la calidad de los viajes, privilegiando los modos no motorizados de transporte.
 
 ###### Artículo 99.
 
@@ -1782,6 +1784,14 @@ La Secretaría de Seguridad Pública del Estado de Tamaulipas, contará con 120 
 P.O. 9 DE MARZO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. 66-995 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 29 DE LA LEY DE MOVILIDAD DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1017 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 98 DE LA LEY DE MOVILIDAD DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
