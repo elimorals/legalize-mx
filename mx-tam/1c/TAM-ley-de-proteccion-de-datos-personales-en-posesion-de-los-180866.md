@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-de-datos-personales-en-posesion-de-los-180866
 country: "mx"
 rank: "ley"
 publication_date: "2025-07-10"
-last_updated: "2025-07-10"
+last_updated: "2026-03-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180866&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2026.
 
 Ley publicada en el Número 83 del Periódico Oficial del Estado de Tamaulipas, el jueves 10 de julio de 2025.
 
@@ -482,6 +482,12 @@ V. Los medios donde puede obtener más información al respecto.
 El responsable deberá establecer controles o mecanismos que tengan por objeto que todas aquellas personas que intervengan en cualquier fase del tratamiento de los datos personales, guarden confidencialidad respecto de éstos, obligación que subsistirá aún después de finalizar sus relaciones con el mismo.
 
 Lo anterior, sin menoscabo de lo establecido en las disposiciones de acceso a la información pública.
+
+> <small>(ADICIONADO, P.O. 30 DE MARZO DE 2026)</small>
+
+###### Artículo 36 Bis.
+
+Los sujetos obligados que intervengan en procedimientos jurisdiccionales o administrativos en materia familiar deberán garantizar la confidencialidad de los datos personales de niñas, niños, adolescentes y personas involucradas. Queda prohibida la difusión, publicación o filtración de información que permita identificar a las partes, incluyendo nombres, imágenes, testimonios, diagnósticos, resoluciones o cualquier otro dato sensible, a través de medios de comunicación, redes sociales o plataformas digitales. El incumplimiento de esta disposición será sancionado conforme a lo establecido en esta ley y demás normativas aplicables.
 
 ## TÍTULO TERCERO. DERECHOS DE LAS PERSONAS TITULARES Y SU EJERCICIO
 
@@ -1502,3 +1508,13 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los nueve días del mes de julio del año dos mil veinticinco.
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS.- AMÉRICO VILLARREAL ANAYA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HÉCTOR JOEL VILLEGAS GONZÁLEZ.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1016 MEDIANTE EL CUAL SE ADICIONA UN ARTÍCULO 36 BIS A LA LEY DE PROTECCIÓN DE DATOS PERSONALES EN POSESIÓN DE LOS SUJETOS OBLIGADOS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
