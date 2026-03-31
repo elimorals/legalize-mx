@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-registro-civil-del-estado-de-san-luis-potosi-90433"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-18"
-last_updated: "2025-10-02"
+last_updated: "2026-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de octubre de 2012.
 
@@ -711,7 +711,9 @@ Las declaraciones de nacimiento se harán presentando al recién nacido, ante el
 
 Tienen obligación de declarar el nacimiento, la madre y el padre, o cualquiera de ellos, a falta de éstos, los abuelos paternos y, en su defecto, los maternos.
 
-Los médicos cirujanos, matronas, o parteras, que hubieren asistido al parto, tienen obligación de dar aviso del nacimiento a la o el Oficial del Registro Civil, dentro de las veinticuatro horas siguientes. La misma obligación tiene el jefe de familia en cuya casa haya tenido lugar el alumbramiento.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2026)</small>
+
+Los médicos cirujanos, matronas, o parteras, que hubieren asistido al parto, tienen obligación de dar aviso del nacimiento a la o el Oficial del Registro Civil, dentro de las veinticuatro horas siguientes. La misma obligación tendrá la o el jefe (sic) familia en cuya casa haya tenido lugar el alumbramiento.
 
 Si el nacimiento tuviere lugar en un sanatorio particular, o del Estado, la obligación a que se refiere el párrafo anterior, estará a cargo de la persona que dirija la institución, o la encargada de la administración.
 
@@ -1772,3 +1774,11 @@ P.O. 2 DE OCTUBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 31 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0504.- QUE REFORMA EL ARTÍCULO 63, DE LA LEY DE REGISTRO CIVIL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
