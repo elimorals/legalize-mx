@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-fomento-para-la-lectura-y-el-libro-del-estado-y-65768"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-18"
-last_updated: "2019-10-03"
+last_updated: "2026-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO, DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE OCTUBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de diciembre de 2008.
 
@@ -125,9 +125,9 @@ VII. Realizar, fortalecer y evaluar los talleres literarios, rincones, círculos
 
 VIII. Promocionar en los niveles de enseñanza básica, métodos que faciliten la comprensión en la lectura;
 
-> <small>(REFORMADA, P.O. 29 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2026)</small>
 
-IX. Crear textos en lenguas autóctonas del Estado, y promoción, fomento y distribución entre las etnias indígenas de la Entidad;
+IX. Crear textos en lenguas indígenas, y braille, para su promoción, fomento y distribución entre los pueblos y comunidades indígenas, y personas con discapacidad de la Entidad;
 
 > <small>(ADICIONADA, P.O. 29 DE JULIO DE 2019)</small>
 
@@ -143,9 +143,9 @@ I. Promover la lectura, publicación y distribución de libros con contenidos de
 
 II. Organizar todo tipo de actividades y eventos que promuevan libros con contenidos de calidad y estimulen el hábito de la lectura, en apoyo a los objetivos de esta Ley;
 
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2026)</small>
 
-III. Fomentar y promover, en coordinación con la Secretaría de Educación de Gobierno del Estado, la creación literaria en las lenguas autóctonas del Estado, y buscar mecanismos de distribución para todas las zonas de la Entidad;
+III. Fomentar y promover, en coordinación con la Secretaría de Educación de Gobierno del Estado, la creación literaria en lenguas indígenas del Estado, y buscar mecanismos de distribución para todas las zonas con población indígena de la Entidad;
 
 > <small>(REFORMADA, P.O. 13 DE MAYO DE 2017)</small>
 
@@ -225,7 +225,9 @@ IV. Apoyar la concertación de los intereses y esfuerzos del sector público, co
 
 V. Promover el desarrollo de sistemas integrales de información sobre el libro, su distribución, la lectura y los derechos de autor; así como crear una base de datos que contemple: catálogos y directorios colectivos de autores, obras, editoriales, industria gráfica, bibliotecas y librerías en el Estado de San Luis Potosí;
 
-VI. Apoyar acciones que favorezcan el acceso de los discapacitados a las bibliotecas, y a las técnicas de audición de texto;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2026)</small>
+
+VI. Apoyar acciones que favorezcan el acceso a la lectura enfocada a personas con discapacidad, generando accesibilidad a bibliotecas, y elaboración de audiolibros;
 
 VII. Intervenir como instancia de consulta y conciliación, en todos los asuntos concernientes al seguimiento, evaluación y actualización de la política integral de la lectura y el libro, y
 
@@ -310,3 +312,11 @@ P.O. 3 DE OCTUBRE DE 2019.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0499.- QUE REFORMA LOS ARTÍCULOS 5°, 6° Y 11, DE LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente Decreto.
