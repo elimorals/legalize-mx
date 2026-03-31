@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-sistema-estatal-de-seguridad-publica-de-michoacan-10395
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-11"
-last_updated: "2025-09-08"
+last_updated: "2026-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2026.
 
 Ley publicada en la Décima Segunda Sección del Periódico Oficial del Estado de Michoacán, el jueves 11 de diciembre de 2014.
 
@@ -313,9 +313,17 @@ XVII. Promover, desarrollar y consolidar la profesionalización de los integrant
 
 XVIII. Supervisar el funcionamiento de la Dirección de Medidas Cautelares y de Suspensión Condicional del Proceso;
 
-XIX. Las que le delegue el Titular del Poder Ejecutivo; y,
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MARZO DE 2026)</small>
 
-XX. Las que le confieran esta Ley y demás disposiciones normativas aplicables.
+XIX. Establecer los lineamientos y programas para mejorar los mecanismos de recepción, canalización y seguimiento de las denuncias, privilegiando el uso de medios tecnológicos;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 31 DE MARZO DE 2026)</small>
+
+XX. Las que le delegue el Titular del Poder Ejecutivo; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 31 DE MARZO DE 2026)</small>
+
+XXI. Las que le confieran esta Ley y demás disposiciones normativas aplicables.
 
 ###### Artículo 17.
 
@@ -2494,3 +2502,13 @@ P.O. 8 DE SEPTIEMBRE DE 2025.
 Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Segundo. Dese cuenta al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 31 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 415 POR EL QUE "SE REFORMAN LAS FRACCIONES XIX Y XX, Y SE ADICIONA LA FRACCIÓN XXI AL ARTÍCULO 16 DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE MICHOACÁN DE OCAMPO".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. El Poder Ejecutivo del Estado tendrá un plazo de 180 días hábiles para realizar las adecuaciones a sus reglamentos, manuales o lineamientos internos correspondientes, conforme a lo dispuesto en el presente Decreto.
+
+Tercero. Notifíquese al Poder Ejecutivo del Estado de Michoacán, para los efectos legales correspondientes.
