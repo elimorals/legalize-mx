@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-de-la-administracion-publica-del-estado-de-san-110
 country: "mx"
 rank: "ley_organica"
 publication_date: "1997-10-24"
-last_updated: "2025-12-16"
+last_updated: "2026-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11039&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2026.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de octubre de 1997.
 
@@ -844,6 +844,10 @@ XIII. Promover la creación de parques industriales, centrales de abasto, centro
 XIV. Proporcionar servicios de consulta y asesoría en materia de desarrollo económico a los organismos públicos y privados;
 
 XV. Asesorar técnicamente a los Ayuntamientos en el desarrollo de sus actividades industriales, mineras, artesanales, comerciales y de servicios, cuando éstos se lo soliciten;
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2026)</small>
+
+XV BIS. Diseñar, coordinar y ejecutar, en colaboración con autoridades federales, municipales, instituciones financieras y cámaras empresariales, programas permanentes de capacitación, difusión y prevención dirigidos a los sectores productivos del Estado, orientados a fortalecer la seguridad comercial y la detección oportuna de riesgos económicos, incluyendo campañas informativas para la identificación de billetes y monedas presuntamente falsos;
 
 XVI. Coordinar y dirigir el Sistema Estatal de Abasto y promover la organización y modernización del comercio de primera mano en el Estado;
 
@@ -2326,3 +2330,11 @@ P.O. 16 DE DICIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 0328.- QUE REFORMA EL ARTÍCULO 86, Y ADICIONA EL ARTÍCULO 88 BIS, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ; Y REALIZA ADICIÓN AL ARTÍCULO 40, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA (SIC) ESTADO DE SAN LUIS POTOSÍ.”
 
 ÚNICO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+P.O. 31 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0505.- QUE REALIZA ADICIÓN AL ARTÍCULO 37, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; REFORMA Y REALIZA ADICIÓN AL ARTÍCULO 64, DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
