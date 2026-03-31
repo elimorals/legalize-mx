@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-ordenamiento-territorial-y-desarrollo-urbano-del-129830"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-17"
-last_updated: "2026-02-10"
+last_updated: "2026-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129830&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 17 de julio de 2018.
 
@@ -5431,6 +5431,14 @@ I. Solicitudes de subdivisión de predios urbanos:
 
 a. Las que se refieran a predios urbanos que requieran la apertura de una o más vías públicas o introducción de servicios urbanos básicos, se les dará el tratamiento y el trámite correspondiente al de los fraccionamientos, excepto cuando éstas se deriven de afectaciones para la realización de obras públicas o las fracciones no se aprovechen para usos habitacionales y no requieran de la introducción de servicios urbanos.
 
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2026)</small>
+
+Cuando en el alineamiento y número oficial de un predio se determinen afectaciones derivadas de vialidades de interés público, el propietario podrá solicitar la subdivisión correspondiente sin que resulten en la misma más de diez fracciones.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2026)</small>
+
+La subdivisión deberá llevarse a cabo respetando íntegramente las afectaciones señaladas en el alineamiento y número oficial.
+
 b. No se autorizará la subdivisión cuando ésta no respete las densidades, así como los usos de suelo de la zona, barrio, colonia o área que establezcan los Programas de Centro de Población respectivos, o a falta de éstos los que esta Ley determina para cada tipo de fraccionamiento.
 
 c. En todos los casos, para uso habitacional unifamiliar popular o de interés social, los frentes y superficies resultantes deberán respetar las densidades que establezcan los programas sociales respectivos, en su caso los programas de Centro de Población, o el caso de municipios que no cuenten con ellos, las que establece esta Ley para el tipo de fraccionamiento de que se trate.
@@ -5514,6 +5522,10 @@ En caso de traslape o sobreposición de medidas y colindancias de los predios a 
 ###### ARTÍCULO 361.
 
 La Dirección podrá negar la autorización de relotificación, fusión y subdivisión de áreas y predios, cuando en el fraccionamiento, condominio o zonas en que se pretendan realizar, no se cuente con los dictámenes de factibilidad de agua, alcantarillado y electricidad otorgados por las autoridades y organismos correspondientes. Asimismo, no se autorizarán cuando obstruyan o impidan una servidumbre legalmente reconocida o un servicio público. Será nulo de pleno derecho cualquier acto, contrato o convenio contrario a esta disposición.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2026)</small>
+
+Se exceptúan de lo anterior, los casos que deriven de afectaciones para la ejecución de obras públicas, o cuando al momento de la solicitud de subdivisión, las fracciones resultantes no se destinen a usos habitacionales y no requieran la introducción de servicios urbanos.
 
 ###### ARTÍCULO 362.
 
@@ -7126,6 +7138,14 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 10 DE FEBRERO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0455.- QUE REFORMA Y REALIZA ADICIÓN AL ARTÍCULO 139, DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 31 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0503.- QUE REALIZA ADICIÓN A LOS ARTÍCULOS 354 Y 361, AMBOS DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
