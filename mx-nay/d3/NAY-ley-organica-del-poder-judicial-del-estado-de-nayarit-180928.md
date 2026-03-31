@@ -4,7 +4,7 @@ identifier: "NAY-ley-organica-del-poder-judicial-del-estado-de-nayarit-180928"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2025-07-17"
-last_updated: "2025-10-30"
+last_updated: "2026-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180928&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2026.
 
 Ley publicada en la Sección Segunda del Número 011 del Periódico Oficial del Estado de Nayarit, el jueves 17 de julio de 2025.
 
@@ -2141,11 +2141,13 @@ No se concederán licencias indefinidas, ni por más de ciento veinte días natu
 
 Las ausencias mayores a cuatro días dentro de un periodo de treinta días, sin causa justificada calificada por el Órgano de Administración, se considerarán definitivas y se procederá conforme a esta Ley.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2026)</small>
+
 ###### Artículo 185.
 
-Cuando la falta de una Magistrada o Magistrado del Tribunal Superior, del Tribunal (sic) Disciplina, o Jueza o Juez, exceda de un mes sin licencia, o derive de defunción, renuncia o cualquier causa de separación definitiva, ocupará la vacante la persona del mismo género que haya obtenido el segundo lugar en número de votos para ese cargo. En caso de declinación o imposibilidad, se designará a quien haya obtenido la siguiente mayor votación.
+Cuando la falta de una Magistrada o Magistrado del Tribunal Superior, del Tribunal de Disciplina, o Jueza o Juez, exceda de un mes sin licencia, o derive de defunción, renuncia o cualquier causa de separación definitiva, ocupará la vacante la persona del mismo género que haya obtenido el segundo lugar en número de votos para ese cargo. En caso de declinación o imposibilidad, el Congreso del Estado o la Diputación Permanente designará a quien haya obtenido la siguiente mayor votación.
 
-El Congreso del Estado tomará protesta a la persona sustituta para desempeñar el cargo por el periodo restante, conforme al artículo 87 de la Constitución Local.
+El Congreso del Estado o la Diputación Permanente en su caso, tomará protesta a la persona sustituta para desempeñar el cargo por el periodo restante, conforme al artículo 87 de la Constitución Política del Estado.
 
 ###### Artículo 186.
 
@@ -2490,3 +2492,9 @@ P.O. 30 DE OCTUBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE NAYARIT".]
 
 ÚNICO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado del (sic) Nayarit.
+
+P.O. 31 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA EL ARTÍCULO 185 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE NAYARIT, EN MATERIA DE FACULTADES DE LA DIPUTACIÓN PERMANENTE”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente a la entrada en vigor del Decreto que reforma y adiciona diversos artículos de la Constitución Política del Estado Libre y Soberano de Nayarit, en materia de Facultades de la Diputación Permanente, sin perjuicio de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
