@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-pesca-y-acuacultura-sustentables-para-el-estado-de-81582
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-25"
-last_updated: "2021-06-07"
+last_updated: "2026-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81582&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2026.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nayarit, el miércoles 25 de Mayo de 2011.
 
@@ -223,11 +223,9 @@ XXII. Esfuerzo Pesquero: El número de tripulantes, embarcaciones o artes de pes
 
 XXIII. Guía de Pesca: Es el documento que ampara el transporte por vía terrestre, marítima o aérea, de productos vivos, frescos o congelados provenientes de la acuacultura o de la pesca;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 22 DE JUNIO DE 2013)</small>
-
-XXIV. INAPESCA: Instituto Nacional de Pesca; órgano desconcentrado de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+XXIV. IMIPAS: Instituto Mexicano de Investigación en Pesca y Acuacultura Sustentables, órgano público descentralizado sectorizado a la Secretaría de Agricultura y Desarrollo Rural;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -349,17 +347,13 @@ XLIII. Registro Estatal: Registro Estatal de Pesca y Acuacultura;
 
 XLIV. Repoblación: Es el acto de introducir organismos acuáticos nativos en cualquiera de los estados de su ciclo de vida, en cuerpos de agua con la finalidad de mantener, recuperar o incrementar las poblaciones pesqueras naturales;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2026)</small>
 
-> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
+XLV. SADER: Secretaría de Agricultura y Desarrollo Rural del Ejecutivo Federal;
 
-XLV. SAGARPA: Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2026)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 22 DE JUNIO DE 2013)</small>
-
-XLVI. Secretaría: Secretaría de Agricultura, Ganadería, Desarrollo Rural y Pesca del Gobierno del Estado de Nayarit;
+XLVI. Secretaría: Secretaría de Desarrollo Rural del Ejecutivo Estatal;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -535,13 +529,21 @@ II. Contribuir a impulsar el aprovechamiento sustentable de los recursos pesquer
 
 III. Promover la coordinación entre los tres órdenes de gobierno, con la participación concertada de los sectores productivos de la Entidad, y los centros e instituciones de enseñanza e investigación;
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2026)</small>
 
-IV. Proponer mecanismos de participación ordenada de los diversos sectores, en las actividades de pesca y acuacultura que se realicen en el Estado, y
+IV. Proponer mecanismos de participación ordenada de los diversos sectores, en las actividades de pesca y acuacultura que se realicen en el Estado;
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2026)</small>
 
-V. Representar por conducto de quien determine el Consejo a la Entidad, ante el Consejo Nacional de Pesca y Acuacultura y participar en el Comité Mixto del Fondo Mexicano para el Desarrollo Pesquero y Acuícola, de conformidad con la Ley General de Pesca y Acuacultura Sustentables.
+V. Representar por conducto de quien determine el Consejo a la Entidad, ante el Consejo Nacional de Pesca y Acuacultura y participar en el Comité Mixto del Fondo Mexicano para el Desarrollo Pesquero y Acuícola, de conformidad con la Ley General de Pesca y Acuacultura Sustentables;
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2026)</small>
+
+VI. Emitir opiniones técnicas no vinculantes a la SADER respecto de solicitudes de aprovechamiento de recursos pesqueros y acuícolas en el Estado, en términos de la Ley General, y
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2026)</small>
+
+VII. Coadyuvar, en el ámbito de sus competencias, con la Secretaría de Marina y la Procuraduría Federal de Protección al Ambiente en la definición de estrategias de vigilancia y combate a actividades ilícitas.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -551,17 +553,29 @@ V. Representar por conducto de quien determine el Consejo a la Entidad, ante el 
 
 El Consejo se integrará por:
 
-I. El Titular del Poder Ejecutivo, o la persona que éste designe, quien lo presidirá;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2026)</small>
 
-II. Los titulares de las Secretarías y dependencias del Gobierno del Estado siguientes:
+I. La persona Titular del Poder Ejecutivo, o la que éste designe, quien lo presidirá;
 
-a) Secretaría de Agricultura, Ganadería, Desarrollo Rural y Pesca;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2026)</small>
 
-b) Secretaría de Medio Ambiente;
+II. Las personas titulares de las dependencias y entidades del Poder Ejecutivo estatal y la Fiscalía General del Estado:
 
-c) Secretaría de Desarrollo Económico;
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2026)</small>
 
-d) Secretaria de Planeación, Programación y Presupuesto;
+a) Secretaría de Desarrollo Rural, quien ostentará la vicepresidencia;
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2026)</small>
+
+b) Secretaría de Desarrollo Sustentable;
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2026)</small>
+
+c) Secretaría de Desarrollo Económico y Social;
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2026)</small>
+
+d) Instituto de Planeación del Estado de Nayarit;
 
 e) Secretaría de Salud;
 
@@ -569,43 +583,93 @@ e) Secretaría de Salud;
 
 f) Fiscalía General del Estado;
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2026)</small>
 
-g) Dirección de Pesca y Acuacultura de la Secretaría, fungiendo su titular como secretario técnico, y
+g) Subsecretaría de Pesca y Acuacultura de la Secretaría, fungiendo como secretaría técnica, y
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2021)</small>
 
 h) Secretaría de Seguridad y Protección Ciudadana.
 
-III. El Presidente de la Comisión de Asuntos Pesqueros y Desarrollo Acuícola del Poder Legislativo del Estado;
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2026)</small>
 
-IV. Por el Gobierno Federal, los delegados estatales de las siguientes Secretarías:
+III. La persona que presida la Comisión Legislativa de Asuntos Pesqueros y Desarrollo Acuícola del Poder Legislativo del Estado;
 
-a) Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, y
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2026)</small>
 
-b) Secretaría de Medio Ambiente y Recursos Naturales.
+IV. Por el Gobierno Federal, las personas delegadas o representantes en el Estado de las siguientes Dependencias y Entidades:
 
-V. Los siguientes vocales sin derecho a voto:
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2026)</small>
 
-a) Un representante de cada una de la Federaciones de las Cooperativas Pesqueras;
+a) SADER;
 
-b) Un representante del sector académico de la Universidad Autónoma de Nayarit;
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2026)</small>
 
-c) Un representante de cada uno de los sistema-producto pesqueros y acuícolas;
+b) SEMARNAT;
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2021)</small>
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2026)</small>
 
-d) Un representante de la pesca deportivo-recreativa;
+c) Secretaría de Marina;
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2021)</small>
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2026)</small>
 
-e) Un representante del INAPESCA, y
+d) El IMIPAS;
 
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2021)</small>
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2026)</small>
 
-f) Un representante del Ayuntamiento de los Municipios donde se realicen actividades de Pesca y Acuacultura comercial.
+e) Comisión Nacional de Acuacultura y Pesca;
 
-Los integrantes del Consejo designarán a su suplente por escrito y con carácter permanente, para que los supla en sus ausencias.
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2026)</small>
+
+f) Procuraduría Federal de Protección al Ambiente, y
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2026)</small>
+
+g) Comisión Nacional de Áreas Naturales Protegidas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2026)</small>
+
+V. Las siguientes vocalías, sin derecho a voto:
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2026)</small>
+
+a) Una persona representante de cada una de las organizaciones pesqueras y acuícolas legalmente constituidas, conforme a la Ley General;
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2026)</small>
+
+b) Cuatro personas representantes del sector académico en materia de pesca y acuacultura, una de la Universidad Autónoma de Nayarit, una de la Universidad Tecnológica de la Costa, una del Tecnológico Nacional de México, Campus Bahía de Banderas, y una de la Universidad Politécnica del Estado de Nayarit;
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2026)</small>
+
+c) Una persona representante de cada uno de los sistema-producto pesqueros y acuícolas;
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2026)</small>
+
+d) Una persona representante de la pesca deportivo-recreativa, y
+
+e) (DEROGADO, P.O. 31 DE MARZO DE 2026)
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2026)</small>
+
+f) Una persona representante del Ayuntamiento de los Municipios donde se realicen actividades de Pesca y Acuacultura comercial.
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2026)</small>
+
+VI. Se podrá invitar con carácter especial a las personas o representantes del sector social y privado que estime necesario a una determinada sesión según los temas a tratar, asistiendo éstas únicamente con voz, pero sin voto.
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2026)</small>
+
+En el caso de las fracciones II a la V, las personas integrantes titulares del Consejo podrán designar una persona suplente con carácter permanente, la cual deberá contar con facultad para la toma de decisiones y ser acreditada de manera oficial ante la Presidencia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE MARZO DE 2026)</small>
+
+En cuanto a la presidenta o presidente, quien funja como su suplente será designada o designado por la persona Titular del Ejecutivo.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2026)</small>
+
+La participación de las dependencias y entidades del Gobierno Federal será de carácter coordinado y no implicará subordinación jerárquica ni transferencia de competencias.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 31 DE MARZO DE 2026)</small>
 
 La participación en el Consejo será a título honorífico por lo que sus integrantes no recibirán retribución o compensación alguna.
 
@@ -621,9 +685,11 @@ El Consejo funcionará en los términos que disponga el reglamento de la present
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 22 DE JUNIO DE 2013)</small>
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2026)</small>
+
 ###### Artículo 9.
 
-La Secretaría del Medio Ambiente tendrá, en materia de preservación, restauración del equilibrio ecológico y la protección del ambiente, las siguientes atribuciones:
+La Secretaría de Desarrollo Sustentable del Ejecutivo Estatal tendrá, las siguientes atribuciones:
 
 I. En áreas naturales protegidas estatales, de acuerdo con la declaratoria de creación o el programa de manejo, emitir recomendaciones sustentadas, fundadas y motivadas, sobre los permisos de pesca y acuacultura que se pretendan otorgar, así como los volúmenes de pesca incidental;
 
@@ -821,15 +887,15 @@ XII. Se establecerán los esquemas para la capacitación y actualización de la 
 
 ### Capítulo III. Ordenamiento Pesquero
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2026)</small>
 
 ###### Artículo 16.
 
-La Secretaría desarrollará los programas de ordenamiento pesquero y acuícola no previstos en la Ley General, tendientes a regular las actividades pesqueras y acuícolas, debiendo publicarlos en el Periódico Oficial del Estado.
+La Secretaría coadyuvará, en el ámbito de su competencia y de conformidad con la Ley General, en la formulación e implementación de los programas de ordenamiento pesquero y acuícola.
 
-Los programas de ordenamiento señalados en el párrafo anterior podrán modificarse por causas científicas, tecnológicas y de medio ambiente, o en su caso, atendiendo a la sustentabilidad de los recursos pesqueros y acuícolas.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2026)</small>
+
+Los programas de ordenamiento de competencia estatal podrán modificarse por causas científicas, tecnológicas y de medio ambiente, o en su caso, atendiendo a la sustentabilidad de los recursos pesqueros y acuícolas.
 
 ###### Artículo 17.
 
@@ -1035,9 +1101,11 @@ g) Las normas aplicables a aspectos de conservación, protección y/o aprovecham
 
 h) La demás información que se determine en el reglamento de la presente Ley.
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2026)</small>
+
 ###### Artículo 27.
 
-La elaboración de la Carta Estatal estará a cargo de la Secretaría, la cual se apoyará en el INAPESCA, en la Secretaría del Medio Ambiente y demás dependencias de la administración pública estatal que deban intervenir de conformidad con sus atribuciones, y deberá dar participación a los sectores académico y productivo.
+La elaboración de la Carta Estatal estará a cargo de la Secretaría, la cual se apoyará en el IMIPAS, en la Secretaría de Desarrollo Sustentable y demás dependencias y entidades de la administración pública estatal que deban intervenir de conformidad con sus atribuciones, debiendo dar participación a los sectores académico y productivo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1253,17 +1321,73 @@ Cada unidad de manejo acuícola elaborará su propio reglamento interno, en dond
 
 Los permisionarios que se constituyan en una unidad de manejo acuícola son responsables en su conjunto de que ésta cumpla en todo momento con lo establecido en la presente ley y en el plan de manejo acuícola respectivo, sin menoscabo de las obligaciones que le correspondan por la operación de su granja o establecimiento en lo particular.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE MARZO DE 2026)</small>
+
+### Capítulo II BIS. Del Comité de Sanidad Acuícola del Estado de Nayarit
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2026)</small>
+
+###### Artículo 41 Bis.
+
+El Comité de Sanidad Acuícola del Estado de Nayarit será una asociación civil integrada por personas productoras acuícolas y pesqueras de la entidad, cuyo objeto es coordinarse con la Secretaría en el ámbito de su competencia, para la planeación, ejecución y evaluación de acciones orientadas a la prevención, diagnóstico, control y erradicación de enfermedades que afecten a los recursos pesqueros y acuícolas, así como en la promoción de la inocuidad en la producción.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2026)</small>
+
+###### Artículo 41 Ter.
+
+Para su reconocimiento como órgano auxiliar, el Comité deberá:
+
+I. Contar con acta constitutiva;
+
+II. Registrarse ante la Secretaría, y
+
+III. Sujetarse a los lineamientos que ésta emita para su supervisión y coordinación.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2026)</small>
+
+###### Artículo 41 Quater.
+
+El Comité de Sanidad, como órgano auxiliar de la Secretaría, tendrá las siguientes atribuciones:
+
+I. Proponer, promover y participar en programas y campañas de sanidad e inocuidad pesquera y acuícola;
+
+II. Impulsar la adopción de buenas prácticas de manejo sanitario en las actividades pesqueras y acuícolas;
+
+III. Organizar y promover la capacitación de las y los productores en detección, prevención, control y erradicación de enfermedades;
+
+IV. Difundir información técnica y científica en materia de sanidad pesquera y acuícola;
+
+V. Proponer a la Secretaría el establecimiento de puntos de verificación sanitaria para que estos a su vez, en el marco de los convenios celebrados con la Federación, se establezcan o propongan a las autoridades federales competentes;
+
+VI. En el marco de los acuerdos o convenios celebrados con la Federación en la materia, realizar, en coordinación con la Secretaría, servicios de verificación sanitaria en unidades de producción, granjas o establecimientos acuícolas, emitiendo recomendaciones tendientes a reducir riesgos de presencia y diseminación de agentes patógenos, y
+
+VII. Informar de manera inmediata a la Secretaría sobre riesgos sanitarios detectados, a efecto de que se determinen las medidas preventivas o correctivas que correspondan.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2026)</small>
+
+###### Artículo 41 Quinquies.
+
+La Secretaría podrá solicitar formalmente la participación del Comité de Sanidad mediante oficio en el que se especifiquen las acciones a realizar.
+
+Concluidas dichas acciones, el Comité de Sanidad deberá rendir un informe circunstanciado sobre las actividades efectuadas y los resultados obtenidos.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2026)</small>
+
+###### Artículo 41 Sexies.
+
+La Secretaría y el Comité de Sanidad evaluarán periódicamente las acciones de apoyo realizadas, con el fin de fortalecer su eficacia, mejorar la coordinación institucional y garantizar la protección sanitaria de los recursos pesqueros y acuícolas del Estado.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 (REUBICADO, [N. DE E. ANTES CAPÍTULO IV], P.O. 22 DE JUNIO DE 2013)
 
 ### Capítulo III. Certificación de la Calidad de los Procesos de Producción Acuícola
 
-### Capítulo IV. Garantías en Materia de Seguridad Sanitaria
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2026)</small>
 
 ###### Artículo 42.
 
-La Secretaría podrá prestar servicios de verificación de estándares de calidad cuando se lo requieran los productores, y expedirá, en su caso, certificados de calidad de los procesos de producción; para tales efectos verificará las acciones comprendidas desde la siembra hasta antes de la transformación de los recursos acuícolas.
+La Secretaría, en coordinación con asociaciones de productores acuícolas en el Estado y en el marco del ámbito competencial reservado a las entidades federativas en la Ley General, podrá prestar servicios de verificación de estándares de calidad productiva de carácter estatal cuando se lo requieran los productores, y expedirá, en su caso, constancias de cumplimiento; dichas constancias no sustituirán certificaciones, autorizaciones o validaciones sanitarias de carácter federal.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1293,13 +1417,15 @@ VI. Nombre y firma del titular de la Secretaría.
 
 (REUBICADO, [N. DE E. ANTES CAPÍTULO V], P.O. 22 DE JUNIO DE 2013)
 
-### CAPÍTULO V. Permisos para la Pesca y Acuicultura
+### Capítulo IV. Garantías en Materia de Seguridad Sanitaria
 
 #### Sección Primera. Sanidad
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2026)</small>
+
 ###### Artículo 45.
 
-Para salvaguardar la sanidad de los recursos pesqueros y acuícolas, la Secretaría deberá:
+Para salvaguardar la sanidad de los recursos pesqueros y acuícolas, la Secretaría en el marco de los acuerdos y convenios celebrados con la Federación y en coordinación con asociaciones de productores acuícolas en el Estado, deberá:
 
 I. Realizar acciones de verificación de los recursos pesqueros y acuícolas;
 
@@ -1453,15 +1579,19 @@ Cuando los permisionarios detecten durante el cultivo de especies la presencia d
 
 (REUBICADO, [N. DE E. ANTES CAPÍTULO VI], P.O. 22 DE JUNIO DE 2013)
 
-### Capítulo VI. Revocación y Extinción de los Permisos
+### CAPÍTULO V. Permisos para la Pesca y Acuicultura
 
 #### Sección Primera. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2026)</small>
+
 ###### Artículo 59.
 
-La expedición de los permisos para la realización de las actividades pesqueras y acuícolas previstas en esta ley, estará a cargo de la Secretaría.
+La pesca comercial, de fomento, didáctica y deportivo-recreativa, excepto la que se realice desde tierra, y demás actividades enunciadas en la Ley General, que se realicen en los cuerpos de agua de jurisdicción federal señalados en el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, deberán sujetarse a la obtención de las concesiones o permisos correspondientes, de conformidad con lo dispuesto en la Ley General o, en su caso, a los convenios o acuerdos de coordinación o colaboración que la Secretaría suscriba para tal efecto con la Federación.
 
-Los permisos que se otorguen conforme a esta ley serán personales e intransferibles y no podrá constituirse sobre ellos ningún tipo de gravamen.
+La Secretaría podrá otorgar permisos únicamente respecto de cuerpos de agua de jurisdicción estatal, entendiéndose por tales aquellos ubicados íntegramente dentro del territorio del Estado sin confluencia con corrientes federales, y siempre que no se trate de aguas nacionales, recursos reservados a la Federación.
+
+Los permisos que se otorguen conforme a esta Ley serán personales e intransferibles y no podrá constituirse sobre ellos ningún tipo de gravamen.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2099,7 +2229,7 @@ Quienes colecten en cualquier estadio recursos pesqueros vivos provenientes de p
 
 (REUBICADO, [N. DE E. ANTES CAPÍTULO VII], P.O. 22 DE JUNIO DE 2013)
 
-### Capítulo VII. Legal Procedencia
+### Capítulo VI. Revocación y Extinción de los Permisos
 
 ###### Artículo 108.
 
@@ -2151,7 +2281,7 @@ III. La renuncia del interesado, cuando no se cause perjuicio al interés públi
 
 (REUBICADO, [N. DE E. ANTES CAPÍTULO VIII], P.O. 22 DE JUNIO DE 213)
 
-### Capítulo I. Sistema Estatal de Financiamiento
+### Capítulo VII. Legal Procedencia
 
 ###### Artículo 114.
 
@@ -2179,7 +2309,7 @@ El trámite, los requisitos y la vigencia de los documentos para acreditar la le
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-### Capítulo II. Apoyo a la Comercialización
+### Capítulo I. Sistema Estatal de Financiamiento
 
 ###### Artículo 117.
 
@@ -2235,7 +2365,7 @@ V. Otorguen garantías para respaldar proyectos de importancia estratégica regi
 
 El Gobierno Estatal propiciara la coordinación en materia de financiamiento a la pesca y acuacultura, por parte de la banca de desarrollo e instituciones del sector público especializadas; la banca comercial, organismos privados de financiamiento, la banca social y organismos financieros de los productores rurales.
 
-### Capítulo III. Fomento a la Investigación y la Capacitación
+### Capítulo II. Apoyo a la Comercialización
 
 ###### Artículo 122.
 
@@ -2281,7 +2411,7 @@ IV. Las demás que se establezcan en el reglamento de la presente ley.
 
 La Secretaría promoverá que los productores pesqueros y acuícolas desarrollen estructuras, esquemas e instrumentos que les permitan participar directamente en el mercado, apropiándose del valor que genera la cadena de productos primarios.
 
-### Capítulo I. Inspección y Vigilancia
+### Capítulo III. Fomento a la Investigación y la Capacitación
 
 ###### Artículo 126.
 
@@ -2323,11 +2453,17 @@ IV. Realizará acciones de asesoramiento técnico y capacitación de los product
 
 ## Título Quinto. Inspección y Vigilancia del Cumplimiento de esta Ley y de las Sanciones por su Infracción
 
-### Capítulo II. Infracciones y Sanciones
+### Capítulo I. Inspección y Vigilancia
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2026)</small>
 
 ###### Artículo 129.
 
-La Secretaría, en coordinación con la Secretaría del Medio Ambiente y los municipios en el ámbito de sus competencias, realizarán diligencias de inspección y vigilancia con el objeto de verificar el cumplimiento de las disposiciones de esta ley, su reglamento, los planes de manejo y demás disposiciones aplicables en materia pesquera y acuícola.
+La Secretaría, en lo que corresponde a su ámbito competencial, coordinará y promoverá la realización de diligencias de inspección y vigilancia con el objeto de verificar el cumplimiento de las disposiciones de la presente Ley, su reglamento, los planes de manejo y demás disposiciones aplicables en materia pesquera y acuícola.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2026)</small>
+
+Asimismo, para efectos del párrafo anterior, la Secretaría de conformidad con lo previsto por la Ley General y demás disposiciones jurídicas aplicables, podrá en los casos que corresponda coordinarse con las autoridades federales, estatales y municipales competentes.
 
 ###### Artículo 130.
 
@@ -2634,3 +2770,17 @@ P.O. 7 DE JUNIO DE 2021.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE NAYARIT".]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 31 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE PESCA Y ACUACULTURA SUSTENTABLES PARA EL ESTADO DE NAYARIT”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo.- Dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo deberá expedir o, en su caso, adecuar las disposiciones reglamentarias correspondientes.
+
+Tercero.- El Consejo Estatal de Pesca y Acuacultura deberá instalarse conforme a su nueva integración dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto.
+
+Cuarto.- Hasta en tanto se expidan las disposiciones reglamentarias a que se refiere el Transitorio Segundo, continuarán aplicándose las vigentes en lo que no se opongan al presente Decreto.
+
+Quinto.- Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor del presente Decreto se sustanciarán y resolverán conforme a la normatividad vigente al momento de su inicio.
