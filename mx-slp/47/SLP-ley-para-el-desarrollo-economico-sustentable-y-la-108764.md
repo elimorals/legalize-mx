@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-el-desarrollo-economico-sustentable-y-la-108764"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-18"
-last_updated: "2026-03-25"
+last_updated: "2026-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2026.
 
 Ley publicada en la Edición Extraordinaria de Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de junio de 2015.
 
@@ -899,13 +899,13 @@ XVI. Realizar acciones como eventos, programas y asesoría específica para apoy
 
 XVII. Impulsar la educación financiera entre los emprendedores de las MIPYMES;
 
-> <small>(REFORMADA, P.O. 25 DE MARZO DE 2026)</small>
+> <small>(REFORMADA, [N. DE E. REPUBLICADA], P.O. 31 DE MARZO DE 2026)</small>
 
 XVIII. Impulsar las acciones necesarias para el desarrollo de MIPyMES para mujeres, a través de programas productivos con perspectiva de género;
 
-> <small>(ADICIONADA, P.O. 25 DE MARZO DE 2026)</small>
+> <small>(ADICIONADA, [N. DE E. REFORMADA], P.O. 31 DE MARZO DE 2026)</small>
 
-XIX. Diseñar e implementar políticas públicas y programas de apoyo prioritariamente para mujeres, en materia de asesoría técnica y jurídica, de apoyo y financiamiento de proyectos de emprendimiento, de acceso a créditos, así como de convenios con instituciones educativas, financieras y empresariales para apoyar la creación de empresas o negocios de mujeres, y
+XIX. Desarrollar, en coordinación con autoridades federales, municipales, instituciones financieras y cámaras empresariales, acciones de capacitación y orientación dirigidas a las MIPYMES para fortalecer su seguridad comercial y reducir riesgos económicos, incluyendo campañas informativas para la identificación básica de billetes y monedas presuntamente falsos, y
 
 XX. Las demás que emanen de las atribuciones del Consejo y el reglamento.
 
@@ -1314,6 +1314,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
 P.O. 25 DE MARZO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0497.- QUE REFORMA LOS ARTÍCULOS 1°, 63 Y 64; Y SE REALIZA ADICIÓN AL ARTÍCULO 64, DE LA LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 31 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0505.- QUE REALIZA ADICIÓN AL ARTÍCULO 37, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; REFORMA Y REALIZA ADICIÓN AL ARTÍCULO 64, DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO SAN LUIS POTOSÍ".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
