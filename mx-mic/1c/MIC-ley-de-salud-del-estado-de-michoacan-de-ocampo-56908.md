@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-salud-del-estado-de-michoacan-de-ocampo-56908"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-10"
-last_updated: "2026-03-30"
+last_updated: "2026-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Michoacán, el lunes 10 de septiembre de 2007.
 
@@ -123,6 +123,10 @@ XV. Emergencia epidemiológica: Evento de nueva aparición o reaparición, cuya 
 
 XVI. Endemia: Presencia constante o la prevalencia habitual de casos de una enfermedad o agente infeccioso en poblaciones humanas dentro de un área geográfica determinada;
 
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2026)</small>
+
+XVI Bis. Enfermedad Crónico-Degenerativa: Condición de larga duración caracterizada por el deterioro progresivo de órganos o sistemas, que provoca pérdida funcional y requiere seguimiento médico continuo;
+
 > <small>(ADICIONADA, P.O. 25 DE ENERO DE 2021)</small>
 
 XVII. Enfermedad infecciosa emergente: Enfermedad provocada por un agente infeccioso recientemente identificado y anteriormente desconocido, capaz de causar problemas de salud pública a nivel local, regional o mundial;
@@ -130,6 +134,10 @@ XVII. Enfermedad infecciosa emergente: Enfermedad provocada por un agente infecc
 > <small>(ADICIONADA, P.O. 25 DE ENERO DE 2021)</small>
 
 XVIII. Enfermedad infecciosa reemergente: Reaparición y/o aumento del número de infecciones de una patología ya conocida que, anteriormente, habían sido controladas o tratadas eficazmente;
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2026)</small>
+
+XVIII Bis. Enfermedad Rara: Toda afección, patología o síndrome cuya prevalencia en la población sea limitada, generalmente crónica, progresiva y potencialmente discapacitante, conforme a los criterios establecidos por la Organización Mundial de la Salud y la normatividad aplicable;
 
 > <small>(REFORMADA, P.O. 25 DE ENERO DE 2021)</small>
 
@@ -164,6 +172,10 @@ XXVI ter. Interrupción Voluntaria del Embarazo: Al procedimiento médico que a 
 XXVII. Local: Espacio físico donde se pueden ofrecer bienes y/o servicios, o que puede servir de bodega;
 
 XXVIII. Manejo Integral: Las actividades de reducción de riesgos sanitarios consistentes en la separación, reutilización, reciclaje, coprocesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera adecuada para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social;
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2026)</small>
+
+XXVIII Bis. Medicamentos Huérfanos: Aquellos destinados a la prevención, diagnóstico o tratamiento de enfermedades raras reconocidas por la autoridad sanitaria competente, conforme a la legislación federal vigente;
 
 XXIX. Micropigmentación: Cualquier técnica mediante la cual se incrustan pigmentos en áreas específicas de la piel humana bajo la epidermis y en la capa capilar de la dermis;
 
@@ -1089,9 +1101,9 @@ IV. Divulgar los lugares de servicio gratuito para la práctica de exámenes y l
 
 V. Capacitar a los prestadores de servicios de salud de los sectores público, social y privado en la toma de muestras para la prevención del cáncer cérvico uterino y antígeno prostático; para los casos cérvico uterino, papiloma humano, atendiendo a la interpretación de las mismas a través del Sistema Bethesda, o cualquier otro que autorice el sector salud;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2026)</small>
 
-VI. Capacitar a los prestadores de servicios de salud para la orientación de sus pacientes respecto a la detección temprana de los cánceres cérvico uterino, de mama y de próstata, así como la información del derecho a la obtención de la cartilla nacional de salud de la mujer y del hombre. La capacitación deberá incorporar lineamientos para contrarrestar las prácticas culturales o sociales que impiden o retrasan el acceso a diagnósticos tempranos, especialmente de las mujeres;
+VI. Capacitar a los prestadores de servicios de salud para la orientación de sus pacientes respecto a la detección temprana de los cánceres cérvico uterino, de mama y de próstata, así como la información del derecho a la obtención de la cartilla nacional de salud de la mujer y del hombre. La capacitación deberá incorporar lineamientos para contrarrestar las prácticas culturales o sociales que impiden o retrasan el acceso a diagnósticos tempranos tanto a mujeres como a hombres;
 
 > <small>(REFORMADA, P.O. 4 DE MAYO DE 2021)</small>
 
@@ -1105,9 +1117,9 @@ VIII. Enseñar y difundir la táctica de autoexploración a quienes acudan a las
 
 IX. Promocionar actividades de prevención, detección y control oportuno, orientadas a evitar, valorar y disminuir los factores de riesgo y promover estilos de vida sanos, que incluyan las comunicaciones educativas a la población y la eliminación de prejuicios y de prácticas culturales que impidan el acceso de las mujeres al derecho a la salud;
 
-> <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2026)</small>
 
-X. Dar especial atención a las áreas rurales, marginadas e indígenas y a la población de Zonas de Atención Prioritaria, a través de la extensión de la cobertura de estrategias para contribuir a la reducción de la morbilidad y mortalidad para cáncer cérvico uterino y cáncer de mama; y,
+X. Dar especial atención a las áreas rurales, marginadas e indígenas y a la población de Zonas de Atención Prioritaria, a través de la extensión de la cobertura de estrategias para contribuir a la reducción de la morbilidad y mortalidad para cáncer cérvico uterino, cáncer de mama y cáncer de próstata; y,
 
 > <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2018)</small>
 
@@ -1206,6 +1218,118 @@ ARTÍCULO 39 QUINQUIES. El Consejo Estatal para la Prevención y el Tratamiento 
 > <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2019)</small>
 
 ARTÍCULO 39 SEXIES. Se establece el mes de febrero de cada año, como el «Mes Dorado», con el fin de fortalecer las campañas de detección oportuna, información, conciencia y solidaridad entre la población, en lo que respecta a la enfermedad del cáncer infantil y de adolescentes.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE MARZO DE 2026)</small>
+
+#### SECCIÓN SEGUNDA. ATENCIÓN INTEGRAL DEL CÁNCER DE PRÓSTATA Y TESTICULAR
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2026)</small>
+
+ARTÍCULO 39 SEPTIES. La atención integral del cáncer de próstata y testicular tendrá como objetivos:
+
+I. Disminuir las tasas de morbilidad y mortalidad por cáncer de próstata y testicular en los hombres del Estado de Michoacán, mediante una política pública de carácter prioritario;
+
+II. Impulsar la detección oportuna del cáncer de próstata y testicular en los hombres, preferentemente a partir de los cuarenta años de edad, en el ámbito de las acciones de prevención y promoción de la salud;
+
+III. Promover la atención de los hombres sin seguridad social, en situación de vulnerabilidad o que se encuentren en reclusión, cuando su condición clínica requiera la realización de estudios complementarios o la prestación de atención médica, conforme a las disposiciones aplicables;
+
+IV. Fomentar el acompañamiento psicológico a los pacientes y, en su caso, a sus familiares, cuando exista sospecha, alta sospecha o confirmación de cáncer de próstata o testicular; y,
+
+V. Impulsar acciones encaminadas a la atención médica y a la rehabilitación integral de los varones con diagnóstico sospechoso, altamente sospechoso o confirmado de cáncer de próstata o testicular.
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2026)</small>
+
+ARTÍCULO 39 OCTIES. Para garantizar la calidad de los servicios de salud relacionados con la prevención, detección, diagnóstico, atención y tratamiento del cáncer de próstata y testicular, la Secretaría de Salud del Estado, en el ámbito de sus atribuciones, promoverá y fortalecerá las medidas necesarias para que dichos servicios se presten conforme a las disposiciones jurídicas y técnicas aplicables.
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2026)</small>
+
+ARTÍCULO 39 NONIES. La Secretaría de Salud del Estado impulsará la instrumentación y coordinación de acciones para la prestación de los servicios en la atención integral del cáncer de próstata y testicular y, para tal efecto, podrá:
+
+I. Promover la formulación y actualización del Programa de Atención Integral del Cáncer de Próstata y Testicular del Estado de Michoacán, en congruencia con las políticas y programas del Sistema Nacional de Salud;
+
+II. Impulsar la elaboración y actualización de protocolos para la prevención, detección y diagnóstico oportuno del cáncer de próstata y testicular, conforme a las normas oficiales mexicanas y demás disposiciones aplicables;
+
+III. Fortalecer los protocolos para el tratamiento, seguimiento y rehabilitación integral de las personas con diagnóstico sospechoso, altamente sospechoso o confirmado de cáncer de próstata o testicular, de conformidad con la normativa aplicable;
+
+IV. Promover el desarrollo y fortalecimiento de sistemas de información que permitan dar seguimiento oportuno a los pacientes a quienes se les practiquen estudios de detección y que presenten diagnóstico sospechoso, altamente sospechoso o confirmado de cáncer de próstata o testicular;
+
+V. Impulsar mecanismos de registro con fines de planeación, evaluación y mejora continua de los servicios de salud en esta materia, en observancia de la normativa en materia de protección de datos personales; y,
+
+VI. Fomentar la coordinación con instituciones públicas, sociales y privadas del sector salud para la prestación de servicios relacionados con la atención del cáncer de próstata y testicular, en el ámbito de sus respectivas competencias.
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2026)</small>
+
+ARTÍCULO 39 DECIES. En la atención y tratamiento del cáncer de próstata y testicular deberá respetarse en todo momento la decisión y el consentimiento informado de los pacientes, con base en los principios de respeto, voluntariedad, dignidad humana e imparcialidad, de conformidad con las disposiciones legales aplicables.
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2026)</small>
+
+ARTÍCULO 39 UNDECIES. Los hombres cuyos resultados de estudios clínicos indiquen sospecha, alta sospecha o confirmación de cáncer de próstata o testicular tendrán derecho a recibir evaluación diagnóstica, seguimiento oportuno y atención adecuada por parte del personal de salud, en las unidades médicas que determine la autoridad sanitaria competente, conforme a la normativa aplicable.
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2026)</small>
+
+ARTÍCULO 39 DUODECIES. Las decisiones sobre el tratamiento del cáncer de próstata y testicular deberán formularse de acuerdo con la etapa clínica, el reporte histopatológico, las condiciones generales de salud del paciente y su decisión informada, considerando en todo momento su voluntad y libre determinación.
+
+> <small>(ADICIONADA, CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 31 DE MARZO DE 2026)</small>
+
+#### SECCIÓN SEGUNDA (SIC). DEL DIAGNÓSTICO, ATENCIÓN Y TRATAMIENTO DE LAS ENFERMEDADES RARAS Y CRÓNICO-DEGENERATIVAS
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2026)</small>
+
+ARTÍCULO 39 SEPTIES (SIC). La Secretaría, en el ámbito de sus atribuciones y conforme a su planeación institucional, podrá promover la implementación de acciones y programas orientados a la detección, diagnóstico, atención, seguimiento y referencia de personas que viven con enfermedades raras y crónico-degenerativas, en coordinación con instituciones públicas, sociales y privadas.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2026)</small>
+
+ARTÍCULO 39 OCTIES (SIC). La Secretaría creará el Registro Estatal de Enfermedades Raras y Crónico-Degenerativas, con el objeto de recabar, sistematizar y analizar información epidemiológica y estadística, conforme a la normatividad aplicable en materia de protección de datos personales.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2026)</small>
+
+ARTÍCULO 39 NONIES (SIC). La Secretaría creará un Consejo Estatal para la Atención de las Enfermedades Raras y Crónico-Degenerativas, como un órgano de carácter técnico, consultivo y de coordinación interinstitucional, cuya finalidad será emitir opiniones y propuestas orientadas a fortalecer las políticas públicas, programas y acciones dirigidas a la prevención, diagnóstico, tratamiento y atención integral de las personas que viven con enfermedades raras o crónico-degenerativas, el cual se integrará de la siguiente manera:
+
+l. El titular de la Secretaría de Salud del Estado, quien lo presidirá;
+
+II. Un o una representante del Sistema para el Desarrollo Integral de la Familia (DIF) Michoacán;
+
+III. Tres especialistas médicos con reconocida experiencia en: Genética clínica, medicina interna, pediatría, y neurología o inmunología, y/o aquellos con las especialidades que se consideren necesarios;
+
+IV. Dos investigadores en biomedicina, biotecnología o epidemiología;
+
+V. Un representante del área de farmacología o farmacovigilancia, con experiencia en medicamentos huérfanos;
+
+VI. Un representante de la Facultad de Medicina de la Universidad Michoacana de San Nicolás de Hidalgo;
+
+VII. Un representante del Colegio de Médicos de Michoacán;
+
+VIII. Dos representantes de asociaciones civiles de pacientes o cuidadores primarios;
+
+IX. Un representante de la Secretaría de Educación, sólo con voz, para articular programas de capacitación médica y sensibilización social; y,
+
+X. Un representante del Congreso del Estado, con voz pero sin voto, para seguimiento legislativo y rendición de cuentas.
+
+Las y los integrantes del Consejo desempeñarán su encargo de manera honorífica, sin percepción de remuneración alguna y sin generar relación laboral.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2026)</small>
+
+ARTÍCULO 39 DECIES (SIC). El Consejo Estatal tendrá, entre otras, las siguientes funciones:
+
+l. Emitir opiniones técnicas y recomendaciones en materia de atención integral;
+
+II. Proponer mecanismos de coordinación institucional;
+
+III. Promover acciones de capacitación y sensibilización social;
+
+IV. Impulsar la investigación científica y la cooperación interinstitucional;
+
+V. Sugerir mecanismos de coordinación, gestión y priorización de acciones institucionales; y,
+
+VI. Las demás que resulten necesarias para el cumplimiento de su objeto, conforme a la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2026)</small>
+
+ARTÍCULO 39 UNDECIES (SIC). La Secretaría, en el ámbito de sus atribuciones y en coordinación con las instancias federales competentes, promoverá el acceso progresivo a medicamentos huérfanos y terapias especializadas.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2026)</small>
+
+ARTÍCULO 39 DUODECIES (SIC). La Secretaría podrá fomentar acciones de capacitación y actualización del personal de salud para la identificación, atención y seguimiento de enfermedades raras y crónico-degenerativas.
 
 ### CAPÍTULO V. MEDICINA TRADICIONAL Y HERBOLARIA
 
@@ -3586,3 +3710,25 @@ P.O. 30 DE MARZO DE 2026.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. La Secretaría de Salud del Estado de Michoacán deberá realizar las adecuaciones administrativas, presupuestales y programáticas necesarias para el cumplimiento del presente Decreto, conforme a la disponibilidad presupuestal y a los lineamientos aplicables.
+
+P.O. 31 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 414 POR EL QUE “SE REFORMAN LAS FRACCIONES VI Y X DEL ARTÍCULO 31; Y SE ADICIONA AL TÍTULO SEGUNDO, SISTEMA ESTATAL DE SALUD, CAPÍTULO IV DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO, UNA SECCIÓN SEGUNDA DENOMINADA «ATENCIÓN INTEGRAL DEL CÁNCER DE PRÓSTATA Y TESTICULAR», INTEGRADA POR LOS ARTÍCULOS 39 SEPTIES, 39 OCTIES, 39 NONIES, 39 DECIES, 39 UNDECIES Y 39 DUODECIES”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Michoacán de Ocampo.
+
+Segundo. La Secretaría de Salud del Estado, en el ámbito de sus atribuciones, realizará las adecuaciones administrativas necesarias para la implementación de las disposiciones del presente Decreto, conforme a la normativa aplicable.
+
+Tercero. La implementación de las acciones previstas en el presente Decreto se llevará a cabo con los recursos humanos, materiales y presupuestales disponibles de las dependencias y entidades competentes, sin que ello implique la autorización de ampliaciones presupuestales adicionales.
+
+P.O. 31 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO LEGISLATIVO NÚMERO 417 POR EL QUE "SE ADICIONAN LAS FRACCIONES XVI BIS, XVIII BIS Y XXVIII BIS AL ARTÍCULO 2, Y SE ADICIONA UNA SECCIÓN SEGUNDA DENOMINADA "DEL DIAGNÓSTICO, ATENCIÓN Y TRATAMIENTO DE LAS ENFERMEDADES RARAS Y CRÓNICO DEGENERATIVAS" AL CAPÍTULO IV DEL TÍTULO SEGUNDO DE LA LEY DE SALUD DEL ESTADO DE MICHOACÁN DE OCAMPO, INTEGRADA POR LOS ARTÍCULOS 39 SEPTIES, AL 39 DUODECIES".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Las acciones derivadas del presente Decreto se implementarán de manera progresiva, conforme a la planeación institucional y a la disponibilidad presupuestal y operativa.
+
+Tercero. El Poder Ejecutivo del Estado podrá considerar, en los ejercicios fiscales subsecuentes, la asignación de recursos presupuestales necesarios para el cumplimiento del presente Decreto, conforme a la disponibilidad financiera y a las disposiciones aplicables en materia presupuestal.
+
+Cuarto. La Secretaría de Salud del Estado contará con un plazo de hasta ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto, para realizar las acciones preparatorias necesarias para la creación del Registro Estatal de Enfermedades Raras y Crónico-Degenerativas y la conformación del Consejo Estatal correspondiente, conforme a su planeación institucional y a la disponibilidad presupuestal y operativa.
