@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2026-02-10"
+last_updated: "2026-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2026.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -3459,9 +3459,13 @@ ARTÍCULO 242 BIS. Al que por cualquier medio se coloque en estado de insolvenci
 
 Comete el delito de abigeato quien por sí o por interpósita persona, se apodera de una o más cabezas de ganado, sin consentimiento de quien legalmente pueda disponer de ellas.
 
-Se considerará ganado para los efectos de este delito, a las especies: bovina, caballar, asnal, mular, ovina, caprina, porcina, una o más colonias de abejas en un apiario, o una o más colonias de peces en un criadero acuícola; así como aquél domesticado, bravo, de pezuña, ganado mayor o ganado menor, independientemente de la actividad típica del animal.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2026)</small>
 
-Este delito se sancionará con una pena de dos a diez años de prisión y sanción pecuniaria de doscientos a mil días del valor de la unidad de medida y actualización vigente.
+Se considerará ganado para los efectos de este delito, a las especies: bovina, caballar, asnal, mular, ovina, caprina, porcina, una o más colonias de abejas en un apiario, o una o más colonias de peces en un criadero acuícola, los criaderos avícolas cualquiera que sea su explotación y fin zootécnico; así como aquél domesticado, bravo, de pezuña, ganado mayor o ganado menor, independientemente de la actividad típica del animal.
+
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2026)</small>
+
+Este delito se sancionará con una pena de cuatro a diez años de prisión y sanción pecuniaria de cuatrocientos a mil días del valor de la unidad de medida y actualización vigente.
 
 > <small>(DEROGADO CUARTO PÁRRAFO, P.O. 9 DE FEBRERO DE 2023)</small>
 
@@ -3483,17 +3487,23 @@ El delito de abigeato se considerará calificado y se aumentará en una tercera 
 
 A quien, sin tomar las medidas indispensables para cerciorarse de la procedencia legítima de los animales, comercie ganado producto del abigeato o comercie en pieles, carnes u otros derivados obtenidos de este delito, se le impondrá una pena de cuatro a doce años de prisión y sanción pecuniaria de cuatrocientos a mil doscientos días del valor de la unidad de medida y actualización.
 
-A las autoridades que intervengan en esas operaciones, si no tomaron las medidas a las que estén obligadas, se les impondrá una pena de dos a diez años de prisión, sanción pecuniaria de doscientos a mil días del valor de la unidad de medida y actualización, más la inhabilitación para desempeñar cargos públicos por el doble de la pena de prisión impuesta.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2026)</small>
 
-> <small>(ADICIONADO, P.O. 27 DE MAYO DE 2017)</small>
+A las autoridades que intervengan en esas operaciones, si no tomaron las medidas a las que estén obligadas, se les impondrá una pena de cuatro a diez años de prisión, sanción pecuniaria de cuatrocientos a mil días del valor de la unidad de medida y actualización, más la inhabilitación para desempeñar cargos públicos por el doble de la pena de prisión impuesta.
 
-ARTÍCULO 240 BIS. A quien, sin tomar las medidas indispensables para cerciorarse de la procedencia legítima de los animales, custodie, adquiera, destace, acopie, trafique, pignore, reciba, u oculte con dolo, ganado, pieles, carnes u otros derivados del ganado que sean producto del abigeato, o bien que realice tales acciones sin autorización de quien legalmente pueda disponer del ganado, se le impondrá una pena de dos a cuatro años de prisión y sanción pecuniaria de cien a seiscientos días del valor de la unidad de medida y actualización vigente.
+> <small>(REFORMADO, P.O. 31 DE MARZO DE 2026)</small>
+
+ARTÍCULO 240 BIS. A quien, sin tomar las medidas indispensables para cerciorarse de la procedencia legítima de los animales, entiéndase por estas medidas, la revisión de la documentación que expidan las autoridades competentes, las uniones, asociaciones y agrupaciones ganaderas, custodie, adquiera, destace, acopie, trafique, pignore, reciba, u oculte con dolo, ganado, pieles, carnes u otros derivados del ganado que sean producto del abigeato, o bien que realice tales acciones sin autorización de quien legalmente pueda disponer del ganado, se le impondrá una pena de dos a cuatro años de prisión y sanción pecuniaria de cien a seiscientos días del valor de la unidad de medida y actualización vigente.
 
 > <small>(REFORMADO, P.O. 12 DE JULIO DE 2018)</small>
 
 ###### ARTÍCULO 241.
 
 Al que transporte ganado, carne, pieles u otros derivados obtenidos del abigeato, sin haber tomado las medidas necesarias para cerciorarse de su legítima procedencia, se le impondrá una pena de dos a seis años de prisión y sanción pecuniaria de doscientos a seiscientos días del valor de la unidad de medida y actualización vigente.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2026)</small>
+
+ARTÍCULO 241 BIS. Cuando en los actos a que se refieren los artículos, 240, 240 BIS y 241 del presente Código, participe algún servidor público con atribuciones en materia ganadera, además de las sanciones a que se refiere el artículo anterior, se hará acreedor a la destitución de su cargo y se le inhabilitará para el ejercicio de empleos, cargos o comisiones en el servicio público, por un periodo de dos y hasta seis años.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE FEBRERO DE 2023)</small>
 
@@ -3511,9 +3521,9 @@ III. Marque o señale animales ajenos, aunque sea en campo propio;
 
 IV. Contramarque o contraseñe animales ajenos en cualquier parte, sin derecho para hacerlo;
 
-> <small>(REFORMADA, P.O. 12 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2026)</small>
 
-V. Expida certificados falsos para obtener guías que simulen ventas, haga conducir animales que no sean de su propiedad sin estar debidamente autorizado para ello, o haga uso de certificados o guías falsificados para cualquier negociación sobre ganados o cueros;
+V. Expida certificados falsos para obtener guías que simulen ventas, haga conducir animales que no sean de su propiedad sin estar debidamente autorizado para ello, o haga uso de certificados o guías de tránsito para movilización de animales falsificados para cualquier negociación sobre ganados o cueros;
 
 > <small>(REFORMADA, P.O. 9 DE FEBRERO DE 2023)</small>
 
@@ -6406,3 +6416,11 @@ P.O. 10 DE FEBRERO DE 2026.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0501.- QUE REFORMA LOS ARTÍCULOS 237, 240, 240 BIS Y 242; Y ADICIONA EL ARTÍCULO 241 BIS, DE Y AL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
