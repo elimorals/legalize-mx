@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-prevencion-tratamiento-y-control-de-la-diabetes-105
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2024-04-16"
+last_updated: "2026-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105145&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MIC"
 
 LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LA DIABETES MELLITUS EN EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2026.
 
 Ley publicada en la Vigésima Sección del Periódico Oficial del Estado de Michoacán, el miércoles 31 de diciembre de 2014.
 
@@ -56,6 +56,10 @@ Las disposiciones de la presente ley son de orden público, interés social, y d
 ###### Artículo 2.
 
 La atención de la Diabetes Mellitus es importante para el Sistema de Salud del Estado de Michoacán de Ocampo, en el ámbito de sus respectivas competencias, por lo cual se destina presupuesto, servicios, medidas y políticas públicas, que contribuyen a hacer efectivos la prevención, tratamiento y control.
+
+> <small>(ADICIONADO, P.O. 31 MARZO DE 2026)</small>
+
+Los integrantes del Sistema de Salud del Estado de Michoacán de Ocampo deberán considerar, para su diagnóstico, atención y seguimiento, la diferenciación de la diabetes mellitus tipo 1, tipo 2, gestacional, así como otros tipos y subtipos, conforme a las disposiciones aplicables.
 
 ###### Artículo 3.
 
@@ -719,7 +723,17 @@ VII. Establecer las bases para diseñar y proporcionar cursos de capacitación a
 
 VIII. La Secretaría implementará entre los habitantes campañas para la detección de la pre diabetes y de la Diabetes Tipo 2, en el ámbito comunitario y de trabajo donde los hombres o las mujeres suelen reunirse o desarrollar actividades y en los servicios del sistema de educación pública, de acuerdo a la normatividad aplicable, a partir de los 20 anÞos (sic) de edad, en la población general; o al inicio de la pubertad si presenta factores de riesgo y obesidad, con periodicidad de 3 años. Igualmente seguirá protocolos establecidos para el tratamiento estandarizado de la prediabetes y de la Diabetes Tipo 2; y,
 
-IX. Los demás que se establezcan en esta Ley y en otras disposiciones legales aplicables, que no contravengan el presente ordenamiento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 MARZO DE 2026)</small>
+
+IX. Coordinar a través de sus órganos auxiliares, las políticas públicas tendientes a garantizar el acceso a los servicios de salud para la atención de personas con diabetes, en sus diferentes tipos y subtipos;
+
+> <small>(ADICIONADA, P.O. 31 MARZO DE 2026)</small>
+
+X. Realizar las acciones necesarias tendientes a brindar atención oportuna y adecuada a las personas con diabetes, considerando que esta sea oportuna y adecuada, así como el acceso a los medicamentos en apego a las normas, programas, lineamientos o protocolos vigentes; y,
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN IX], P.O. 31 MARZO DE 2026)</small>
+
+XI. Las demás que se establezcan en esta Ley y en otras disposiciones legales aplicables, que no contravengan el presente ordenamiento.
 
 > <small>(ADICIONADO, P.O. 16 ABRIL DE 2024)</small>
 
@@ -758,3 +772,13 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. El Gobernador del Estado dispondrá lo necesario para la instalación del Comité en un término máximo de noventa días naturales contados a partir del día siguiente al de la entrada en vigor del presente Decreto.
 
 Tercero. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos correspondientes.
+
+P.O. 31 MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 413 POR EL QUE “SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 2; Y, SE REFORMA LA FRACCIÓN IX Y SE ADICIONAN LAS FRACCIONES X Y XI DEL ARTÍCULO 55 DE LA LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LA DIABETES MELLITUS EN EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. La Secretaría de Salud del Estado, en el ámbito de sus atribuciones, realizará las adecuaciones administrativas necesarias para la implementación de lo dispuesto en el presente Decreto, conforme a la normativa aplicable.
+
+TERCERO. La implementación de las acciones derivadas del presente Decreto se llevará a cabo con los recursos humanos, materiales y presupuestales disponibles de las dependencias y entidades competentes, sin que ello implique la autorización de ampliaciones presupuestales adicionales.
