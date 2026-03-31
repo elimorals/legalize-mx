@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-juntas-de-participacion-ciudadana-del-estado-de-san-1527
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-02"
-last_updated: "2024-09-24"
+last_updated: "2026-03-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE JUNTAS DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 2 de diciembre de 2021.
 
@@ -365,13 +365,17 @@ XI. Establecer mecanismos de comunicación que informen a las personas habitante
 
 XII. Llevar a cabo los trabajos para la integración del Comité;
 
-> <small>(REFORMADA, P.O. 31 DE JULIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2026)</small>
 
-XIII. Apoyar a las autoridades en aquellas acciones emprendidas en su territorialidad, y
+XIII. Apoyar a las autoridades en aquellas acciones emprendidas en su territorialidad;
 
-> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 31 DE MARZO DE 2026)</small>
 
-XIV. Validar la conformación del comité de obra, y certificar el cumplimiento de las especificaciones de las obras públicas en la territorialidad de su competencia, en términos del artículo 170 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas del Estado de San Luis Potosí.
+XIV. Validar la conformación del comité de obra, y certificar el cumplimiento de las especificaciones de las obras públicas en la territorialidad de su competencia, en términos del artículo 170 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas del Estado de San Luis Potosí, y
+
+> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2026)</small>
+
+XV. Realizar reportes a los Ayuntamientos, relativos a edificaciones y terrenos particulares en estado de abandono, para que se contemple su intervención, en el supuesto de ocasionar afectaciones a la seguridad pública y, en su caso, coordinar acciones conjuntas para su recuperación y vigilancia.
 
 ###### ARTÍCULO 24.
 
@@ -568,3 +572,11 @@ P.O. 24 DE SEPTIEMBRE DE 2024.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE MARZO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0500.- QUE REFORMA Y REALIZA ADICIÓN AL ARTÍCULO 23, DE LA LEY DE JUNTAS DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
