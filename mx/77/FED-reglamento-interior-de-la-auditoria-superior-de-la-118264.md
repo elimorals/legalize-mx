@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-auditoria-superior-de-la-118264"
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-01-20"
-last_updated: "2025-10-24"
+last_updated: "2026-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118264&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2017-01-16"
 ---
 # REGLAMENTO INTERIOR DE LA AUDITORIA SUPERIOR DE LA FEDERACION
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE LA FEDERACIÓN, PUBLICADO EN EL D.O.F. DE 1 DE ABRIL DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE OCTUBRE DE 2025.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 24 DE OCTUBRE DE 2025.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE ABRIL DE 2026 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 20 de enero de 2017.
 
@@ -3906,3 +3906,19 @@ D.O.F. 17 DE OCTUBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE LA FEDERACIÓN”.]
 
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 1 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE LA FEDERACIÓN".]
+
+PRIMERO. El presente Reglamento entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se abroga el Reglamento Interior de la Auditoría Superior de la Federación publicado en el Diario Oficial de la Federación el 20 de enero de 2017, así como los Acuerdos por los que se reforman, adicionan y derogan diversas disposiciones del Reglamento Interior de la Auditoría Superior de la Federación publicados en el Diario Oficial de la Federación el 13 de julio de 2018, 8 de julio de 2021, 25 de agosto de 2021, 14 de diciembre de 2022, 2 de mayo de 2025; el Acuerdo por el que se reforman y derogan diversas disposiciones del Reglamento Interior de la Auditoría Superior de la Federación, publicado en el Diario Oficial de la Federación el 17 de octubre de 2025, así como la Nota Aclaratoria publicada el 24 de octubre de 2025.
+
+TERCERO. Las recomendaciones y solicitudes de aclaración que a la entrada en vigor del presente Reglamento se encuentren en trámite en las entonces Auditorías Especiales de Desempeño y del Gasto Federalizado las continuará la Unidad Especializada en Seguimiento e Investigación, de conformidad con la competencia y atribuciones que le confiere el presente Reglamento.
+
+CUARTO. Los asuntos que a la entrada en vigor del presente Reglamento se encuentren en trámite, iniciados por las entonces Auditorías Especiales de Cumplimiento Financiero, de Desempeño y del Gasto Federalizado y sus Direcciones Generales, las continuarán, en caso, las Unidades de Auditoría Especializada, sus Direcciones Generales y sus Direcciones Ejecutivas a que se refiere el artículo 3, de conformidad con la competencia y atribuciones que les confiere el presente Reglamento.
+
+QUINTO. Los asuntos que a la entrada en vigor del presente Reglamento se encuentren en trámite, iniciados por la entonces Auditoría Especial de Seguimiento, Informes e Investigación, los continuará la Unidad Especializada en Seguimiento e Investigación, de conformidad con la competencia y atribuciones que le confiere el presente Reglamento.
+
+SEXTO. El plazo de 90 días hábiles con que cuentan las Direcciones Generales de Seguimiento A, B, C y D, para remitir a las Direcciones Generales de Investigación y Responsabilidades A o B el dictamen y expediente técnico que integre la documentación y comprobación necesarias en los casos en que no se hayan solventado los pliegos de observaciones, aplicará a partir de los pliegos de observaciones de la Cuenta Pública 2024, emitidos en febrero de 2026.
