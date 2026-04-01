@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2025-12-18"
+last_updated: "2026-04-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2026.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -441,13 +441,21 @@ III. El sistema para garantizar el acceso a la información pública. En el Esta
 
 Toda persona tiene el derecho de acceder a la información sobre sí misma o sus bienes, asentada en archivos, bases de datos, y registros públicos o privados de quienes tengan el carácter de entes obligados conforme a la ley; así como a actualizar, rectificar, suprimir o mantener en reserva dicha información en los términos de la ley. En cualquier caso, la ley protegerá a las personas contra cualquier lesión en sus derechos, resultante del tratamiento de sus datos personales.
 
-La Comisión Estatal de Garantía de Acceso a la Información Pública es un organismo especializado, imparcial, y colegiado, responsable de garantizar el derecho de acceso a la información, y de protección de datos personales en posesión de los sujetos obligados, conforme a los principios y bases establecidos por el artículo 6° de la Constitución Política de los Estados Unidos Mexicanos; y la Ley General que establece las bases, principios generales, y procedimientos del ejercicio de este derecho.
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2026)</small>
 
-> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 12 DE MARZO DE 2024)</small>
+La información relativa a la vida privada y a los datos personales será protegida en los términos y con las excepciones que fijen las leyes. Para tal efecto, los sujetos obligados ejercerán sus atribuciones conforme a las disposiciones aplicables.
 
-La Comisión Estatal de Garantía de Acceso a la Información Pública estará integrada por tres comisionados numerarios; y tres supernumerarios, que serán electos por cuando menos el voto de las dos terceras partes de los miembros del Congreso del Estado, previo procedimiento que iniciará con una convocatoria abierta para la presentación de solicitudes y propuestas.
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2026)</small>
 
-Los comisionados durarán en su cargo cuatro años y, en ese tiempo, sólo podrán ser removidos de éste en los términos del Título Duodécimo de esta Constitución, así como del Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos.
+Se establecerán mecanismos de acceso a la información pública y procedimientos de revisión expeditos que se sustanciarán ante las instancias competentes en los términos que fija esta Constitución y las leyes. El ejercicio de este derecho se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
+
+> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2026)</small>
+
+Los sujetos obligados deberán promover, respetar, proteger y garantizar los derechos de acceso a la información pública y a la protección de datos personales. Las leyes en la materia determinarán las bases y procedimientos del ejercicio de estos derechos, así como la competencia de las autoridades para conocer de los procedimientos de revisión contra los actos que emitan los sujetos obligados.
+
+> <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2026)</small>
+
+La tutela del derecho al acceso a la información pública relativa a la administración pública estatal y los municipios de San Luis Potosí corresponderá al Poder Ejecutivo del Estado, a través del Organismo Desconcentrado de la Administración Pública Estatal sectorizado de la Contraloría General del Estado. Respecto al Poder Judicial y al Poder Legislativo del Estado, así como a los organismos constitucionales autónomos, esta tutela será atribución de sus órganos de control interno o áreas homólogas, en sus respectivos ámbitos de competencia, en los términos establecidos en la Ley General y la Ley local de la materia.
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE MARZO DE 2015)</small>
 
@@ -2631,9 +2639,9 @@ Los servidores públicos que establezca la ley, estarán obligados a presentar, 
 
 ARTÍCULO 124 BIS.- El Sistema Estatal Anticorrupción es el conjunto de autoridades, elementos, programas y acciones, que interactúan entre sí, para el diseño, evaluación de políticas de educación, concientización, prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como la promoción de la integridad pública. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
-> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 1 DE ABRIL DE 2026)</small>
 
-I. El Sistema contará con un Comité Coordinador integrado por las personas titulares, del Instituto de Fiscalización Superior del Estado; de la Fiscalía Especializada en Delitos Relacionados con Hechos de Corrupción; el órgano interno de Control del Gobierno del Estado; por la persona que ostente la presidencia del Tribunal Estatal de Justicia Administrativa; por la persona titular del Organismo Garante en el Estado en materia de Transparencia y Acceso a la Información Pública; así como por la persona consejera que designe el Órgano de Administración Judicial del Poder Judicial del Estado, y una persona del Comité de Participación Ciudadana, y
+I. El Sistema contará con un Comité Coordinador integrado por las personas titulares, del Instituto de Fiscalización Superior del Estado; de la Fiscalía Especializada en Delitos Relacionados con Hechos de Corrupción; el Órgano Interno de Control del Gobierno del Estado; por la persona que ostente la presidencia del Tribunal Estatal de Justicia Administrativa; por la persona titular del Organismo Desconcentrado de la Administración Pública Estatal sectorizado de la Contraloría General del Estado en materia de Transparencia y Acceso a la Información Pública; así como por la persona Magistrada que designe el Tribunal de Disciplina Judicial del Poder Judicial del Estado, y la persona que designe el Comité de Participación Ciudadana, y
 
 > <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2025)</small>
 
@@ -4125,7 +4133,7 @@ TERCERO. Se derogan todas las disposiciones legales que se opongan al presente D
 
 P.O. 18 DE DICIEMBRE DE 2025.
 
-## N. DE E. TRANSITORIOS DEL “DECRETO 0334.- QUE REALIZA ADICIÓN AL ARTÍCULO 114, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; EN MATERIA DE SEGURIDAD SOCIAL DIGNA DE LOS MIEMBROS DE LOS CUERPOS POLICIALES; REALIZA ADICIÓN AL ARTÍCULO 31, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; Y REALIZA ADICIÓN AL ARTÍCULO 57, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0334.- QUE REALIZA ADICIÓN AL ARTÍCULO 114, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; EN MATERIA DE SEGURIDAD SOCIAL DIGNA DE LOS MIEMBROS DE LOS CUERPOS POLICIALES; REALIZA ADICIÓN AL ARTÍCULO 31, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ; Y REALIZA ADICIÓN AL ARTÍCULO 57, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
@@ -4134,3 +4142,37 @@ SEGUNDO. Los ayuntamientos de la Entidad deberán realizar los ajustes normativo
 TERCERO. Los derechos pensionarios adquiridos con anterioridad a la entrada en vigor de esta reforma se respetarán conforme al régimen aplicable al momento de su otorgamiento, sin perjuicio de que los beneficiarios puedan optar voluntariamente por incorporarse a los nuevos esquemas que se establezcan.
 
 CUARTO. En el ejercicio fiscal siguiente a la entrada en vigor de esta reforma, los ayuntamientos deberán prever en sus respectivos proyectos de presupuesto de egresos una partida específica para el financiamiento de los esquemas de previsión social aplicables a las personas integrantes de los cuerpos de seguridad pública municipal.
+
+P.O. 1 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0506.- DECRETO QUE REFORMA LOS ARTÍCULOS 17 Y 124 BIS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. El Congreso del Estado tendrá un plazo de ciento veinte días naturales a partir de la entrada en vigor del presente Decreto, para armonizar las leyes secundarias en materia de transparencia, acceso a la información pública y protección de datos personales en posesión de sujetos obligados.
+
+TERCERO. Con la entrada en vigor de la legislación secundaria a la que hace referencia el artículo transitorio inmediato anterior, se entenderá extinta la Comisión Estatal de Garantía de Acceso a la Información Pública.
+
+En ese sentido, la legislación secundaria deberá contemplar la extinción de la Comisión Estatal de Garantía de Acceso a la Información Pública, y en su defecto, integrar el organismo desconcentrado y áreas administrativas que asumirán su competencia, así como la regulación para la transición correspondiente, misma que deberá realizarse en apego a lo estipulado por la Ley de Entrega Recepción de los Recursos Públicos del Estado y Municipios de San Luis Potosí y demás legislación aplicable.
+
+CUARTO. Con la extinción de la Comisión Estatal de Garantía de Acceso a la Información Pública del Estado de San Luis Potosí, la función de garantizar el acceso a la información pública y protección de datos personales pasará a las autoridades garantes, en los términos de este Decreto, así como acorde a lo que establezcan las leyes en la materia.
+
+Para tal efecto, las leyes secundarias deberán contemplar la regulación del Organismo Público Desconcentrado Sectorizado de la Contraloría General del Estado, para que funja como autoridad garante local en términos de lo señalado por el artículo 3, fracción IV, de la Ley General de Transparencia y Acceso a la Información Pública. Asimismo, respecto del resto de autoridades garantes, se deberá indicar que fungirán como tal en términos de la fracción V, del citado precepto legal.
+
+QUINTO. Las leyes secundarias deberán considerar la creación del Subsistema de Transparencia del Estado de San Luis Potosí, el cual será el mecanismo para la coordinación entre las distintas autoridades garantes en el Estado, en sus ámbitos de competencia, a fin de fortalecer la rendición de cuentas a la ciudadanía, evaluar las acciones relativas a la política pública transversal de transparencia y acceso a la información pública, así como unificar e implementar los criterios y lineamientos correspondientes.
+
+SEXTO. Los actos jurídicos emitidos por la Comisión Estatal de Garantía de Acceso a la Información Pública, con anterioridad a que entre en vigor la legislación secundaria, surtirán todos sus efectos legales.
+
+En el caso de los instrumentos jurídicos, convenios, acuerdos interinstitucionales, contratos o actos equivalentes, se entenderán como vigentes y obligarán en sus términos a las instituciones que asuman las funciones del ente público que se extingue, según corresponda, sin perjuicio del derecho de las partes a ratificarlos, modificarlos o rescindirlos posteriormente.
+
+SÉPTIMO. Los recursos materiales, los registros, padrones, plataformas y sistemas electrónicos de la Comisión Estatal de Garantía de Acceso a la Información Pública del Estado, pasarán a formar parte del Órgano Desconcentrado del Poder Ejecutivo del Estado como autoridad garante local, según lo determinen las leyes secundarias.
+
+OCTAVO. Hasta en tanto no se emita la legislación a que hace referencia el artículo TRANSITORIO SEGUNDO de este Decreto, la Comisión Estatal de Garantía de Acceso a la Información Pública del Estado de San Luis Potosí, continuará operando y realizará las atribuciones que le son conferidas como a las autoridades garantes locales, así como a los órganos encargados de la contraloría interna u homólogos de los poderes legislativo y judicial y de los órganos constitucionales autónomos del Estado.
+
+NOVENO. Las personas comisionadas de la Comisión Estatal de Garantía de Acceso a la Información Pública del Estado de San Luis Potosí, que a la entrada en vigor del presente Decreto continúen en su encargo, concluirán sus funciones y cesarán los efectos de su nombramiento, a la entrada en vigor de la legislación a que alude el artículo SEGUNDO TRANSITORIO, salvo aquellos cuya vigencia de su nombramiento concluya previamente.
+
+DÉCIMO. Los derechos laborales de las personas servidoras públicas de la Comisión Estatal de Garantía de Acceso a la Información Pública, serán respetados en su totalidad, en términos de la legislación aplicable.
+
+Los recursos humanos con que cuenten la Comisión Estatal de Garantía de Acceso a la Información Pública que se extinguirá a consecuencia del presente Decreto, y pasarán a formar parte de aquel que asuma sus atribuciones, cuando corresponda.
+
+DÉCIMO PRIMERO. Se derogan todas las disposiciones que se opongan a este Decreto.
