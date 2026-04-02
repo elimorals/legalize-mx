@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-ascensos-de-la-armada-de-mexico-52166"
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-11-09"
-last_updated: "2020-03-06"
+last_updated: "2026-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52166&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2006-10-31"
 
 REGLAMENTO DE LA LEY DE ASCENSOS DE LA ARMADA DE MEXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2026.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 9 de noviembre de 2006.
 
@@ -57,59 +57,83 @@ El presente ordenamiento tiene por objeto reglamentar las disposiciones de la Le
 
 Para efectos de lo establecido en el presente Reglamento, se entenderá como:
 
-I. Alto Mando: Secretario de Marina;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2026)</small>
+
+I. Alto Mando: La persona titular de la Secretaría de Marina;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2026)</small>
+
+I Bis. Adecuación de grado: El proceso de selección en el cual puede participar el personal naval que haya realizado estudios por su cuenta, conforme a lo previsto en los artículos 55 y 57 de la Ley Orgánica de la Armada de México;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2026)</small>
+
+I Ter. Ascenso de forma excepcional: Son los otorgados por el Alto Mando al personal que ostente el grado de Marinero a Capitán de Corbeta que, a su juicio y consideración haya demostrado una destacada dedicación, compromiso y disposición para el servicio.
+
+Lo anterior, con independencia de los concursos de selección de la promoción y adecuación de grado, y sin detrimento de las vacantes autorizadas para estos, conforme a la disponibilidad presupuestaria.
 
 II. Comisión Coordinadora: Comisión Coordinadora para Ascensos;
 
-III. Comisión Local: Comisión que con carácter temporal, se integra en las jurisdicciones de los Mandos Navales, para proporcionar apoyo a la Comisión Coordinadora durante la promoción;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2026)</small>
 
-> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2016)</small>
+III. Comisión Local: Comisión que, con carácter temporal, se integra en las jurisdicciones de los Mandos, para proporcionar apoyo a la Comisión Coordinadora durante la promoción;
 
-IV. Concurso de Selección: Conjunto de actividades que comprende el desarrollo, aplicación y calificación de los exámenes a que se refiere el artículo 35 de la Ley para determinar el orden de prelación en el que será propuesto el personal de Marinero hasta Capitán de Corbeta convocado para su ascenso;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2026)</small>
+
+IV. Concurso de Selección: El conjunto de actividades que comprende el desarrollo, la aplicación y calificación de los exámenes a que se refiere el artículo 35 de la Ley para determinar el orden de prelación en el que será propuesto el personal de Marinero hasta Capitán de Corbeta convocado para su ascenso, en los diferentes procesos que contempla la Ley Orgánica de la Armada de México;
 
 > <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2016)</small>
 
 V. Direcciones Generales: Unidades administrativas de la Secretaría que conforme a sus atribuciones son responsables a nivel central de la administración de los recursos humanos y materiales, así como aquellas unidades administrativas que el Alto Mando determine deban participar en la Promoción General;
 
-> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2026)</small>
 
-VI. Directiva de Promoción: Documento que tiene por objeto establecer los lineamientos para el desarrollo de la Promoción General;
+VI. Directiva de Promoción: El documento que tiene por objeto establecer los lineamientos y especificaciones para el desarrollo de la Promoción General;
 
 VII. Escalafón: El registro que ordena por Cuerpo y Servicio al personal naval, según su grado y antigüedad durante su permanencia en el servicio activo, de conformidad con lo dispuesto en la Ley Orgánica de la Armada de México;
 
-VIII. Estado Mayor: Estado Mayor General de la Armada;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2026)</small>
+
+VIII. Jefatura de Operaciones: La Jefatura de Operaciones Navales;
 
 IX. Institución: La Armada de México;
 
 X. Ley: Ley de Ascensos de la Armada de México;
 
-XI. Mando Supremo: Presidente de los Estados Unidos Mexicanos;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2026)</small>
 
-> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2016)</small>
+XI. Mando Supremo: La persona titular del Ejecutivo Federal;
 
-XII. Manual: Manual de Normas y Procedimientos de la Comisión Coordinadora para Ascensos;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2026)</small>
+
+XII. Manual: El Manual de Normas y Procedimientos de la Comisión Coordinadora para Ascensos, es el instrumento que contiene los procedimientos para la aplicación de los exámenes académicos, físicos, médicos, prácticos, así como los valores de los conceptos que se evalúan para la promoción por facultad del Alto Mando.
 
 XIII. Oficialía Mayor: La Oficialía Mayor de la Secretaría de Marina;
 
-> <small>(ADICIONADA, D.O.F. 6 DE MARZO DE 2020)</small>
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2026)</small>
 
-XIII Bis. Orden de Prelación: Al orden sucesivo en el que el Participante queda ubicado cuando se han valorado los criterios considerados para su ascenso;
+XIII Bis. Orden de Prelación: Al orden sucesivo en el que la persona participante queda ubicada cuando se han valorado los criterios considerados para su ascenso;
 
-XIV. Participante: El personal naval que es convocado a la Promoción General;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2026)</small>
+
+XIV. Persona Participante: El personal que es convocado a la Promoción General, sin distinción de la unidad, establecimiento o comisión en la que desempeñe sus servicios, de conformidad con lo establecido en el artículo 4 fracción I, de la Ley Orgánica de la Armada de México, salvo que se encuentre imposibilitado de conformidad con la Ley de Ascensos de la Armada de México y el presente Reglamento.
 
 XV. Personal de Apoyo: Personal naval de los diferentes cuerpos y servicios de la Armada de México, que asiste a las Comisiones Coordinadora y Locales;
 
-XVI. Presidente: Presidente de la Comisión Coordinadora para Ascensos;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2026)</small>
 
-XVII. Presidentes de Comisiones Locales: Mandos de Regiones, Cuartel General del Alto Mando, Zonas y Sectores Navales, Agregados Navales y otros que por necesidades del servicio designe la Comisión Coordinadora;
+XVI. Presidenta o Presidente: La persona titular de la Presidencia de la Comisión Coordinadora para Ascensos;
 
-> <small>(ADICIONADA, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2026)</small>
 
-XVII Bis. Proceso de Selección: Conjunto de actividades que realiza el Estado Mayor cada año o cuando se ordene para seleccionar y reunir los elementos de juicio señalados en el artículo 18 de la Ley, de los Capitanes de Fragata hasta Vicealmirantes convocados para ascenso y, en su caso, proponerlos en las listas a que se refieren los artículos 32, fracción III y 33, fracción III de la Ley, las cuales se elaborarán conforme a dichos artículos;
+XVII. Presidentas o Presidentes de las Comisiones Locales: Las personas titulares de los Mandos de Regiones, Zonas y Sectores Navales, Agregadurías Navales y otros que por necesidades del servicio designe la Comisión Coordinadora;
 
-> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2026)</small>
 
-XVIII. Promoción General: Conjunto de actividades que la Secretaría realiza cada año o cuando se ordene, para convocar al personal naval a participar, según corresponda, en el Concurso de Selección o en el Proceso de Selección de ascensos, así como la realización de dicho Concurso o Proceso;
+XVII Bis. Proceso de Selección: El conjunto de actividades que realiza la Jefatura de Operaciones cada año o cuando se ordene para seleccionar y reunir los elementos de juicio señalados en el artículo 18 de la Ley, al personal de Capitanes de Fragata hasta Vicealmirantes convocados para ascenso y, en su caso, proponerlos en las listas a que se refieren los artículos 32, fracción III y 33, fracción III de la Ley de Ascensos de la Armada de México, las cuales se elaborarán conforme a dichos artículos;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2026)</small>
+
+XVIII. Promoción General: El conjunto de actividades que la Secretaría realiza cada año o cuando se ordene, para convocar al personal naval a participar, según corresponda, en el Concurso de Selección en el caso de la promoción por facultad del Alto Mando, o en el Proceso de Selección de ascensos, en la promoción por facultad del Mando Supremo, así como la realización de dicho Concurso o Proceso;
 
 XIX. Renuncia: Es el acto por el cual el personal convocado a Promoción General manifiesta por escrito a su mando respectivo la decisión de no participar en la misma, y
 
@@ -193,9 +217,11 @@ VI. Comunicación de resultados de los exámenes, y
 
 VII. Comunicación de ascensos.
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
+
 ###### Artículo 14.
 
-Para la ejecución descentralizada de la promoción para ascensos por facultad del Alto Mando, en las sedes de los Mandos Navales, la Comisión Coordinadora se apoyará con las Comisiones Locales.
+Para la ejecución descentralizada de la promoción para ascensos por facultad del Alto Mando, en las sedes de los Mandos, la Comisión Coordinadora se apoyará con las Comisiones Locales.
 
 > <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2016)</small>
 
@@ -209,6 +235,12 @@ El Alto Mando ordenará emitir la Directiva de Promoción y la formulación de d
 
 La Promoción General deberá atender los conceptos que se establecen en los artículos 18 y 34 de la Ley, en los términos que se prevén en dicha Ley, lo dispuesto por el presente Reglamento y demás disposiciones aplicables.
 
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2026)</small>
+
+###### Artículo 16 Bis.
+
+Los ascensos por adecuación de grado se regirán conforme a lo dispuesto en el Manual que para tal efecto se emita y demás normatividad aplicable.
+
 ## TÍTULO SEGUNDO. ORGANIZACIÓN
 
 > <small>(REFORMADA SU DENOMINACION, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
@@ -219,17 +251,23 @@ La Promoción General deberá atender los conceptos que se establecen en los art
 
 (DEROGADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2026)</small>
+
 ###### Artículo 18.
 
-La Comisión Coordinadora se integrará con los siguientes miembros:
+La Comisión Coordinadora se integrará por:
 
-> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2026)</small>
 
-I. Presidente: El Director General de Recursos Humanos de la Secretaría;
+I. Presidenta o Presidente: La persona titular de la Dirección General de Recursos Humanos de la Secretaría;
 
-II. Vocales: Los necesarios, pertenecientes a las Direcciones Generales y al Estado Mayor;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2026)</small>
 
-III. Secretario Técnico: El que designe el Presidente, y
+II. Vocales: Las personas necesarias, pertenecientes a las Direcciones Generales y a la Jefatura de Operaciones;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2026)</small>
+
+III. Secretaria o Secretario Técnico: La persona que designe la Presidenta o Presidente, y
 
 IV. Personal de apoyo: El que la Comisión considere necesario.
 
@@ -237,31 +275,35 @@ IV. Personal de apoyo: El que la Comisión considere necesario.
 
 Las Comisiones Locales, se integrarán con:
 
-I. Presidente: Mando Naval correspondiente;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2026)</small>
 
-> <small>(REFORMADA, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+I. Presidenta o Presidente: El Mando correspondiente;
 
-II. Vocales: El Jefe de Estado Mayor o Jefe de Grupo de Comando, así como los Jefes de Sección y Subsección de Estado Mayor y los Capitanes u Oficiales Núcleo que se requieran;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2026)</small>
 
-III. Secretario Técnico: El que designe el Presidente, y
+II. Vocales: Las personas titulares de la Jefatura de Estado Mayor o Jefatura de Grupo de Comando, así como las Jefaturas de Sección y Subsección de Estado Mayor y las personas que ostentan la jerarquía de Capitanes u Oficiales Núcleo que se requieran;
+
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2026)</small>
+
+III. Secretaria o Secretario Técnico: La persona que designe la Presidenta o Presidente, y
 
 IV. Personal de Apoyo: El que las Comisiones consideren necesario.
 
-> <small>(ADICIONADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
-En las Agregadurías Navales, el Presidente será el Agregado Naval acreditado en cada país.
+En las Agregadurías Navales, la Presidenta o Presidente será la persona titular de la Agregaduría Naval acreditada en cada país.
 
-> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 20.
 
-Los Capitanes y Oficiales convocados a la promoción para ascensos por facultad del Alto Mando, no deberán designarse para fungir como vocales, secretarios técnicos o personal de apoyo en la Comisión Coordinadora o en las Comisiones Locales.
+Al personal de Capitanes y Oficiales convocados a la promoción para ascensos por facultad del Alto Mando, no deberán designarse para fungir como vocales, secretarias o secretarios técnicos o personal de apoyo en la Comisión Coordinadora o en las Comisiones Locales.
 
-> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 21.
 
-Los integrantes de la Comisión Coordinadora y de las Comisiones Locales desempeñarán las funciones establecidas en el presente ordenamiento y las que de éste se deriven, sin perjuicio de sus comisiones y cargos.
+Las personas integrantes de la Comisión Coordinadora y de las Comisiones Locales desempeñarán las funciones establecidas en el presente ordenamiento y las que de éste se deriven, sin perjuicio de sus comisiones y cargos.
 
 > <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2016)</small>
 
@@ -281,15 +323,23 @@ La Comisión Coordinadora y las Comisiones Locales, para su organización y func
 
 Son atribuciones del Alto Mando en materia de ascensos, las siguientes:
 
-I. Ordenar al Estado Mayor la emisión de la Directiva de Promoción;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2026)</small>
+
+I. Ordenar a la Jefatura de Operaciones la emisión de la Directiva de Promoción;
 
 II. Someter a acuerdo del Mando Supremo las vacantes existentes;
 
 III. Ascender al personal de Capitanes de Corbeta y Oficiales, previo acuerdo con el Mando Supremo;
 
-IV. Ascender al personal de Clases y Marinería, y
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2026)</small>
 
-V. Comunicar por conducto de la Oficialía Mayor, los ascensos conferidos al personal naval.
+IV. Ascender al personal de Clases y Marinería;
+
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2026)</small>
+
+V. Ascender al personal naval de Marineros a Capitán de Corbeta de forma excepcional, y
+
+VI. Comunicar por conducto de la Oficialía Mayor, los ascensos conferidos al personal naval.
 
 > <small>(DEROGADA CON LOS ARTICULOS QUE LA INTEGRAN, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
 
@@ -303,15 +353,15 @@ V. Comunicar por conducto de la Oficialía Mayor, los ascensos conferidos al per
 
 (DEROGADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 2 DE ABRIL DE 2026)</small>
 
-#### SECCIÓN TERCERA. Del Estado Mayor
+#### SECCIÓN TERCERA. De la Jefatura de Operaciones Navales
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER ´PÁRRAFO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 26.
 
-Son atribuciones del Estado Mayor:
+Son atribuciones de la Jefatura de Operaciones:
 
 > <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2016)</small>
 
@@ -319,7 +369,9 @@ I. Emitir la Directiva de Promoción, así como dirigir el Proceso de Selección
 
 II. Determinar, en coordinación con la Oficialía Mayor, las vacantes orgánicas para ascenso y la cantidad de personal que será convocado;
 
-III. Integrar, en coordinación con la Oficialía Mayor, los listados del personal convocado;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2026)</small>
+
+II. Determinar, en coordinación con la Oficialía Mayor, las vacantes orgánicas a otorgar y la cantidad de personal que será convocado, en los diferentes procesos de ascenso, conforme a la disponibilidad presupuestaria;
 
 > <small>(REFORMADA, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
 
@@ -355,11 +407,15 @@ IV. Formular y actualizar los manuales y lineamientos de desarrollo del concurso
 
 V. Atender y resolver los casos imprevistos que se presenten en el concurso de selección;
 
-> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2026)</small>
 
-VI. Mantener informado al Estado Mayor del cumplimiento y resultados del Concurso de Selección, y
+VI. Mantener informado a la Jefatura de Operaciones del cumplimiento y resultados del Concurso de Selección;
 
-VII. Otras que le asigne el Alto Mando.
+> <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2026)</small>
+
+VII. Determinar las especificaciones y valores de los conceptos y rubros a evaluar para la promoción por facultad del Alto Mando, y
+
+VIII. Otras que le asigne el Alto Mando.
 
 #### SECCIÓN QUINTA. De las Comisiones Locales
 
@@ -387,7 +443,9 @@ Son obligaciones del personal convocado:
 
 I. Conducirse con apego a la Ética Naval;
 
-II. Enterarse y mantenerse informado de los requisitos, programas y evaluaciones a que quedará sujeto durante la promoción, y
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2026)</small>
+
+II. Enterarse y mantenerse informado de los requisitos, programas y evaluaciones a que quedará sujeto durante la promoción, e
 
 > <small>(REFORMADA, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
 
@@ -395,21 +453,25 @@ III. Informar oportunamente por los conductos regulares a la Comisión Local de 
 
 ## TÍTULO CUARTO. RÉGIMEN DE LOS ASCENSOS EN TIEMPO DE PAZ
 
-### CAPÍTULO I. De los Ascensos por Facultad del Mando Supremo
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 2 DE ABRIL DE 2026)</small>
+
+### CAPÍTULO I. De los ascensos por facultad del Mando Supremo
 
 #### SECCIÓN PRIMERA
 
 De la Determinación de Vacantes, Selección de Personal, Convocatoria y Examen Médico.
 
-> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 30.
 
-La determinación de vacantes para ascenso por facultad del Mando Supremo que realice el Estado Mayor, conforme al artículo 26, fracción II del presente Reglamento, se sujetará a la estructura y planillas orgánicas de la Institución.
+La determinación de vacantes para ascenso por facultad del Mando Supremo que realice la Jefatura de Operaciones, conforme al artículo 26, fracción II del presente Reglamento, se sujetará a la estructura y planillas orgánicas de la Institución.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 31.
 
-El Estado Mayor seleccionará y determinará la cantidad del personal de Capitanes de Fragata a Vicealmirantes que se convocará en la promoción para ascenso, considerando:
+La Jefatura de Operaciones, seleccionará y determinará la cantidad del personal de Capitanes de Fragata a Vicealmirantes que se convocará en la promoción para ascenso, considerando:
 
 I. Las vacantes autorizadas a cubrir;
 
@@ -419,11 +481,11 @@ III. Que el personal no se encuentre en situación de grado tope, y
 
 IV. Que el personal convocado no se encuentre en algunas de las situaciones establecidas en el artículo 51 de la Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 32.
 
-El Estado Mayor, previo acuerdo con el Alto Mando, comunicará a los Participantes por conducto de los mandos navales, lo siguiente:
+La Jefatura de Operaciones, previo acuerdo con el Alto Mando, comunicará a las personas participantes por conducto de los Mandos, lo siguiente:
 
 I. La relación del personal convocado;
 
@@ -445,41 +507,53 @@ VI. La demás información que determinen otras disposiciones aplicables al Proc
 
 #### SECCIÓN SEGUNDA. De la Integración de la Información
 
-> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 33.
 
-La información del personal convocado para ascenso estará integrada atendiendo a los conceptos establecidos en la Ley y tiene por objeto dotar al Mando Supremo de los elementos de juicio que le permitan determinar que personal será ascendido al grado inmediato. Su formulación será responsabilidad del Estado Mayor.
+La información del personal convocado para ascenso estará integrada atendiendo a los conceptos establecidos en la Ley, y tiene por objeto dotar al Mando Supremo de los elementos de juicio que le permitan determinar qué personal será ascendido al grado inmediato. Su formulación será responsabilidad de la Jefatura de Operaciones.
 
-> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 34.
 
-El análisis e integración de la información que formule el Estado Mayor tendrá como sustento la documentación con que se cuente en los registros oficiales correspondientes al grado que actualmente ostente el participante.
+El análisis e integración de la información que formule la Jefatura de Operaciones tendrá como sustento la documentación con que se cuente en los registros oficiales correspondientes al grado que actualmente ostente la persona participante.
 
-> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 35.
 
-El Estado Mayor, con antelación suficiente, hará del conocimiento del participante la información con que cuenta en sus registros y que se empleará para llevar a cabo el análisis e integración de la misma.
+La Jefatura de Operaciones, con antelación suficiente, hará del conocimiento de la persona participante la información con que cuenta en sus registros y que se empleará para llevar a cabo el análisis e integración de la misma.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 36.
 
-El participante contará con 30 días naturales a partir de la fecha en que se le comunique la información citada en el artículo anterior, para manifestar por escrito sus observaciones, debiendo adjuntar la documentación comprobatoria. Vencido dicho plazo sin que haya formulado sus observaciones, se considerará como aceptada la información que le haya sido comunicada.
+La persona participante contará con 30 días naturales a partir de la fecha en que se le comunique la información citada en el artículo anterior, para manifestar por escrito sus observaciones, debiendo adjuntar la documentación comprobatoria. Vencido dicho plazo sin que haya formulado sus observaciones, se considerará como aceptada la información que le haya sido comunicada.
 
-> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 37.
 
-La información obtenida por el Estado Mayor para ser presentada al Mando Supremo, estará integrada por:
+La información obtenida por la Jefatura de Operaciones para ser presentada al Mando Supremo, estará integrada por:
+
+> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2016)</small>
 
 I. Grado y nombre del personal convocado, incluyendo su fotografía y estado de salud de acuerdo con el examen médico;
 
+> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2016)</small>
+
 II. Mérito: Estará compuesto por los tiempos en unidades operativas o administrativas, así como el mando, dirección u otros cargos ejercidos;
+
+> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2016)</small>
 
 III. Aptitud y competencia profesional: Será la obtenida del total de las hojas de actuación, sin considerar el concepto de disciplina, y de los cursos realizados en el grado actual;
 
+> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2016)</small>
+
 IV. Conducta civil y militar: Se obtendrá del concepto de disciplina contenida en las hojas de actuación y en los registros oficiales correspondientes, y
+
+> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2016)</small>
 
 V. Antigüedad en el grado: Se acreditará con el despacho o documento oficial que se haya expedido para el grado que se ostenta, conforme al artículo 45 de la Ley.
 
@@ -507,13 +581,17 @@ V. Antigüedad en el grado: Se acreditará con el despacho o documento oficial q
 
 (DEROGADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)
 
-> <small>(ADICIONADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 43 Bis.
 
-Al término de la obtención de la información, el Estado Mayor:
+Al término de la obtención de la información, la Jefatura de Operaciones:
 
-I. Integrará los resultados en la lista correspondiente, y
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2026)</small>
+
+I. Integrará los resultados en la lista correspondiente, e
+
+> <small>(ADICIONADA, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
 
 II. Informará al Alto Mando de los mismos, incorporando la lista, expedientes y demás documentación comprobatoria del personal.
 
@@ -571,21 +649,23 @@ El Alto Mando someterá a consideración del Mando Supremo los expedientes y ele
 
 (DEROGADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)
 
-### CAPÍTULO II. De los Ascensos por Facultad del Alto Mando
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 2 DE ABRIL DE 2026)</small>
+
+### CAPÍTULO II. De los ascensos por facultad del Alto Mando
 
 #### SECCIÓN PRIMERA. De la Determinación de Vacantes, Selección de Personal y Convocatoria
 
-> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 54.
 
-La determinación de vacantes para ascenso por facultad del Alto Mando que realice el Estado Mayor, conforme al artículo 26, fracción II del presente Reglamento, se sujetarán a la estructura y planillas orgánicas de la Institución.
+La determinación de vacantes para ascenso por facultad del Alto Mando que realice la Jefatura de Operaciones, conforme al artículo 26, fracción II del presente Reglamento, se sujetarán a la estructura y planillas orgánicas de la institución.
 
-> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 55.
 
-El Estado Mayor, en coordinación con la Oficialía Mayor, determinará al personal de los grados de Marinero a Capitán de Corbeta que será convocado para participar en el Concurso de Selección.
+La Jefatura de Operaciones, en coordinación con la Oficialía Mayor, determinará al personal de los grados de Marinero a Capitán de Corbeta que será convocado para participar en el Concurso de Selección.
 
 > <small>(REFORMADO PRIMER PARRAFO, D.O.F. 11 DE MARZO DE 2016)</small>
 
@@ -609,9 +689,11 @@ IV. La buena conducta a que se refiere el artículo 17 de la Ley, la cual se acr
 
 V. Que no se encuentre en situación de grado tope.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2026)</small>
+
 ###### Artículo 57.
 
-El Estado Mayor y la Oficialía Mayor, con la autorización del Alto Mando, comunicarán, por conducto de los Mandos Navales:
+La Jefatura de Operaciones y la Oficialía Mayor, con la autorización del Alto Mando, comunicarán, por conducto de los Mandos:
 
 I. La relación del personal convocado;
 
@@ -665,41 +747,33 @@ Si por necesidades del servicio u otra causa justificada, el personal convocado 
 
 El examen médico tiene por objeto determinar el estado de salud del personal convocado, y si se encuentra apto o no apto para participar en la Promoción General, con base en la Directiva de Promoción correspondiente.
 
-Se considerarán “sin clasificación” a los Participantes no comprendidos en alguna de las categorías de accidentes o enfermedades previstas en el artículo 226 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas o en la lista de padecimientos a que se refiere el artículo 226 Bis de dicha Ley.
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
-Se considerarán “en lista de padecimientos” a los Participantes comprendidos en la lista de padecimientos a que se refiere el artículo 226 Bis de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.
+Se considerará “sin clasificación” al personal participante no comprendido en alguna de las categorías de accidentes o enfermedades previstas en el artículo 226 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas o en la lista de padecimientos a que se refiere el artículo 226 Bis de dicha Ley.
 
-Se considerarán “en tercera categoría” a los Participantes comprendidos en la tercera categoría de accidentes o enfermedades previstas en el artículo 226 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
-Se considerarán “excluidos” a los Participantes comprendidos en la primera o segunda categoría de accidentes o enfermedades previstas en el artículo 226 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.
+Se considerará “en lista de padecimientos” al personal participante comprendido en la lista de padecimientos a que se refiere el artículo 226 Bis de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
+
+Se considerará “en tercera categoría” al personal participante comprendido en la tercera categoría de accidentes o enfermedades previstas en el artículo 226 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
+
+Se considerará “excluido” al personal participante comprendido en la primera o segunda categoría de accidentes o enfermedades previstas en el artículo 226 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.
 
 ###### Artículo 62.
 
 La aplicación del examen médico será responsabilidad del servicio de Sanidad Naval a través de los establecimientos médicos navales.
 
-> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 63.
 
-El examen médico se evaluará conforme a lo siguiente:
+El examen médico se evaluará conforme a lo previsto en el Manual.
 
-RESULTADO DE LA EVALUACIÓN PUNTAJE
-
-I. Sin clasificación. 100 puntos
-
-II. En lista de padecimientos. 75 puntos
-
-III. En tercera categoría. 50 puntos
-
-IV. Excluidos. Queda excluido del Concurso de
-
-Selección de la Promoción General,
-
-conforme a la fracción III del
-
-artículo 132 del presente
-
-Reglamento.
+> <small>(DEROGADA TABLA, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 64.
 
@@ -719,21 +793,23 @@ El examen médico anual tendrá validez para efectos de promoción, siempre y cu
 
 (DEROGADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
+
 ###### Artículo 68.
 
-Cuando de los resultados de los exámenes médicos se observen indicios de algún padecimiento o patología, el Director del establecimiento médico canalizará al participante a la especialidad que corresponda.
+Cuando de los resultados de los exámenes médicos se observen indicios de algún padecimiento o patología, la persona titular de la Dirección del establecimiento médico canalizará a la persona participante a la especialidad que corresponda.
 
-> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 69.
 
-El Participante que se encuentre imposibilitado temporalmente o en estado de gravidez en cualquier edad gestacional, se considerará “sin clasificación”, siempre y cuando no se encuentre en alguno de los supuestos a que se refieren los artículos 226 y 226 Bis de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.
+La persona participante que se encuentre imposibilitada temporalmente o en estado de gravidez en cualquier edad gestacional, se considerará “sin clasificación”, siempre y cuando no se encuentre en alguno de los supuestos a que se refieren los artículos 226 y 226 Bis de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas.
 
-> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 70.
 
-El Director del establecimiento médico será responsable de supervisar la correcta aplicación de los exámenes médicos, el control y elaboración de los registros y listados de los resultados del personal conforme a la tabla prevista en el artículo 63 de este Reglamento, así como de la remisión de los certificados médicos correspondientes.
+La persona titular de la Dirección del establecimiento médico será responsable de supervisar la correcta aplicación de los exámenes médicos, el control y elaboración de los registros y listados de los resultados del personal participante conforme a la tabla prevista en el artículo 63 de este Reglamento, así como de la remisión de los certificados médicos correspondientes.
 
 ###### Artículo 71.
 
@@ -811,13 +887,17 @@ XII. Capacidad de reacción, habilidades, destrezas manuales, y
 
 XIII. Otras que se consideren necesarias o específicas para el Cuerpo o Servicio del participante.
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
+
 ###### Artículo 77.
 
-La aplicación del examen y la seguridad del personal participante, será responsabilidad de las Comisiones Locales con el personal y medios que los mandos navales le designen en apoyo.
+La aplicación del examen y la seguridad del personal participante, será responsabilidad de las Comisiones Locales con el personal y medios que los Mandos le designen en apoyo.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 78.
 
-El personal que no presente el examen de capacidad física dentro del período establecido, por encontrarse imposibilitado temporalmente y que no quede con secuelas permanentes, conforme al certificado médico, se le asignará la mínima calificación aprobatoria obtenida por los de su mismo grado, Cuerpo o Servicio, Núcleo o Escala a nivel local; de no existir un caso similar, se tomará como referencia la que se presente a nivel general.
+El personal participante que no presente el examen de capacidad física dentro del período establecido, por encontrarse imposibilitado temporalmente y que no quede con secuelas permanentes, conforme al certificado médico, se le asignará la mínima calificación aprobatoria obtenida por el personal participante de su mismo grado, Cuerpo o Servicio, Núcleo o Escala a nivel local; de no existir un caso similar, se tomará como referencia la que se presente a nivel general.
 
 ###### Artículo 79.
 
@@ -827,15 +907,17 @@ El personal que no presente el examen de capacidad física dentro del período e
 
 (DEROGADO, D.O.F. 11 DE MARZO DE 2016)
 
-> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 81.
 
-El Participante que durante la evaluación médica, previa a la realización de las pruebas de capacidad física, aún sin haber sido clasificado en el examen médico correspondiente, presente presión arterial fuera de los parámetros normales u obesidad que lo ubique en alguno de los supuestos del artículo 226 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, se canalizará al establecimiento de sanidad naval más cercano a fin de que sea nuevamente valorado, expidiendo el certificado médico correspondiente e informando a la Comisión Local si el Participante se encuentra apto para presentar la prueba de capacidad física.
+La persona participante que durante la evaluación médica, previa a la realización de las pruebas de capacidad física, aún sin haber sido clasificada en el examen médico correspondiente, presente presión arterial fuera de los parámetros normales u obesidad que la ubique en alguno de los supuestos del artículo 226 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas, se canalizará al establecimiento de sanidad naval más cercano a fin de que sea nuevamente valorada, expidiendo el certificado médico correspondiente e informando a la Comisión Local si se encuentra apta para presentar la prueba de capacidad física.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 82.
 
-Si previo o durante el examen de capacidad física, se detecta en el participante algún estado patológico, el personal de sanidad naval, médico o enfermeros deberán suspender de manera inmediata su examen físico y evaluarlo clínicamente.
+Si previo o durante el examen de capacidad física, se detecta en la persona participante algún estado patológico, el personal del servicio de sanidad naval, deberá suspender de manera inmediata su examen físico y evaluarla clínicamente.
 
 ###### Artículo 83.
 
@@ -847,17 +929,17 @@ Cuando por razones fisiológicas, el personal femenino solicite otra fecha para 
 
 #### SECCIÓN QUINTA. Del Examen Académico
 
-> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 85.
 
-El examen académico tiene por objeto evaluar sí el Participante tiene los conocimientos necesarios para desempeñarse en el grado inmediato superior.
+El examen académico tiene por objeto evaluar si la persona participante tiene los conocimientos necesarios para desempeñarse en el grado inmediato superior.
 
-> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 86.
 
-Las Comisiones Locales tendrán la responsabilidad de aplicar el examen académico al Participante, conforme al calendario y método que para tal fin establezcan el Manual y la Directiva de la Promoción.
+Las Comisiones Locales tendrán la responsabilidad de aplicar el examen académico a la persona participante, conforme al calendario y método que para tal fin establezcan el Manual y la Directiva de Promoción.
 
 > <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2016)</small>
 
@@ -873,25 +955,25 @@ II. Conocimientos Marineros 20
 
 III. Conocimientos Específicos 60
 
-> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 88.
 
-El examen académico será acorde al Grado, Cuerpo o Servicio, Núcleo o Escala de los Participantes. Al término del examen se generará un reporte para cada evaluado con los resultados obtenidos.
+El examen académico será acorde al Grado, Cuerpo o Servicio, Núcleo o Escala del personal participante. Al término del examen se generará un reporte para cada persona evaluada con los resultados obtenidos.
 
-> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 2020)</small>
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 89.
 
-La vigencia del examen académico tendrá la temporalidad de la Promoción General, por lo que el Participante nuevamente convocado que no hubiese ascendido en la Promoción General inmediata anterior, estará obligado a presentar el examen académico.
+La vigencia del examen académico tendrá la temporalidad de la Promoción General, por lo que la persona participante nuevamente convocada que no hubiese ascendido en la Promoción General inmediata anterior, estará obligada a presentar el examen académico.
 
 #### SECCIÓN SEXTA. Del Examen de Conocimientos Prácticos para Clases y Marinería
 
-> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 90.
 
-El examen de conocimientos prácticos tiene por objeto evaluar el nivel de habilidades que tienen los Participantes de Clases y Marinería.
+El examen de conocimientos prácticos tiene por objeto evaluar el nivel de habilidades que tiene el personal participante de Clases y Marinería.
 
 ###### Artículo 91.
 
@@ -907,11 +989,11 @@ La calificación del examen práctico se graduará en la escala de 0 a 100 punto
 
 La Comisión Local designará los comités de evaluación que sean necesarios, los cuales serán los responsables de la aplicación del examen de conocimientos prácticos de conformidad con el Manual.
 
-> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 94.
 
-Los comités de evaluación estarán integrados al menos por un evaluador que debe tener un grado mayor que el evaluado, de su mismo cuerpo o servicio, núcleo o escala; un supervisor de mayor grado que el evaluador que vigile la imparcialidad de la evaluación, y un representante del Presidente de la Comisión Local. El supervisor podrá participar en más de un comité de evaluación.
+Los comités de evaluación estarán integrados al menos por una persona evaluadora que debe tener un grado superior que la persona evaluada, de su mismo Cuerpo o Servicio, Núcleo o Escala; una persona supervisora de grado superior que la persona evaluadora que vigile la imparcialidad de la evaluación, y una persona representante de la Presidencia de la Comisión Local. La persona supervisora podrá participar en más de un comité de evaluación.
 
 > <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2016)</small>
 
@@ -919,15 +1001,17 @@ Los comités de evaluación estarán integrados al menos por un evaluador que de
 
 Los comités de evaluación se constituirán en las unidades y establecimientos navales, y deberán gestionar la disponibilidad de las instalaciones, material y equipo necesarios para realizar la evaluación del examen de conocimientos prácticos.
 
-> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 96.
 
-Al término de la evaluación del examen de conocimientos prácticos, se elaborará una cartilla de calificaciones, la cual deberá contener los datos del Participante, áreas de práctica evaluadas y la calificación obtenida. Asimismo, dicha cartilla deberá estar certificada por los integrantes del comité de evaluación.
+Al término de la evaluación del examen de conocimientos prácticos, se elaborará una cartilla de calificaciones, la cual deberá contener los datos de la persona participante, áreas de práctica evaluadas y la calificación obtenida. Asimismo, dicha cartilla deberá estar certificada por las personas integrantes del comité de evaluación.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 97.
 
-La vigencia del examen de conocimientos prácticos tendrá la temporalidad de la promoción para la cual se examina el participante.
+La vigencia del examen de conocimientos prácticos tendrá la temporalidad de la promoción para la cual se examina a la persona participante.
 
 > <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2016)</small>
 
@@ -955,11 +1039,11 @@ La Comisión Coordinadora establecerá en el Manual y en las demás disposicione
 
 El examen de lengua extranjera tiene por objeto determinar el nivel de conocimientos de otro idioma del personal de Oficiales y Capitanes del núcleo de los cuerpos y servicios.
 
-> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 102.
 
-La calificación del examen de lengua extranjera se graduará en la escala de 0 a 100 puntos y será evaluada conforme a las directivas que emita el Estado Mayor.
+La calificación del examen de lengua extranjera se graduará en la escala de 0 a 100 puntos y será evaluada conforme a las directivas que emita la Jefatura de Operaciones.
 
 #### SECCIÓN OCTAVA. De la Formulación de Trabajo de Investigación Tipo Tesis
 
@@ -967,9 +1051,11 @@ La calificación del examen de lengua extranjera se graduará en la escala de 0 
 
 El trabajo tipo tesis tiene por objeto determinar el nivel de conocimientos y capacidad de investigación del personal participante de la jerarquía de Teniente de Navío Núcleo, para desempeñarse en el grado inmediato superior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2026)</small>
+
 ###### Artículo 104.
 
-La designación y evaluación del trabajo tipo tesis será responsabilidad del Estado Mayor, debiendo para ello:
+La designación y evaluación del trabajo tipo tesis será responsabilidad de la Jefatura de Operaciones, debiendo para ello:
 
 I. Designar los temas de investigación acorde al Cuerpo o Servicio;
 
@@ -987,17 +1073,19 @@ La calificación mínima aprobatoria del trabajo tipo tesis para continuar parti
 
 El personal nuevamente convocado que no hubiese ascendido en la promoción inmediata anterior, podrá solicitar participar con la calificación aprobatoria que haya obtenido anteriormente, debiendo formular por escrito su solicitud en un término máximo de 30 días naturales contados a partir de la fecha en que se le comunique su nueva participación.
 
-De no realizar manifestación alguna dentro del plazo señalado, se entenderá que el participante renuncia a la citada calificación y deberá efectuar nuevamente trabajo tipo tesis.
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
+
+De no realizar manifestación alguna dentro del plazo señalado, se entenderá que la persona participante renuncia a la citada calificación y deberá efectuar nuevamente trabajo tipo tesis.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 11 DE MARZO DE 2016)</small>
 
 #### SECCIÓN NOVENA. De la Comunicación de Resultados de los Exámenes
 
-> <small>(ADICIONADO, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 106 Bis.
 
-Al término de los exámenes que comprenden el Concurso de Selección, la Comisión Coordinadora comunicará a los Participantes los resultados de los mismos.
+Al término de los exámenes que comprenden el Concurso de Selección, la Comisión Coordinadora comunicará al personal participante los resultados de los mismos.
 
 ### CAPÍTULO III. Del Orden de Prelación
 
@@ -1009,13 +1097,17 @@ Al término de los exámenes que comprenden el Concurso de Selección, la Comisi
 
 El orden de prelación en cada grado, núcleo y escala de Primeros Maestres a Capitán de Corbeta, quedará determinado atendiendo a la calificación final obtenida en los conceptos establecidos en la Ley.
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
+
 ###### Artículo 108.
 
-Será responsabilidad del Estado Mayor elaborar los listados y verificar el orden de prelación del personal participante.
+Será responsabilidad de la Jefatura de Operaciones elaborar los listados y verificar el orden de prelación del personal participante.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 109.
 
-Los elementos de juicio que se requieran para la evaluación del participante, se obtendrán de:
+Los elementos de juicio que se requieran para la evaluación del personal participante, se obtendrán de:
 
 I. Hojas de Actuación;
 
@@ -1027,117 +1119,55 @@ III. Sistemas Informáticos Institucionales, y
 
 IV. Otros elementos vinculados con el servicio naval, correspondientes al grado que ostenta.
 
-En el caso de las Hojas de Actuación, el Estado Mayor efectuará la homologación de valores cuando se trate de diferentes formatos.
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
-> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 2020)</small>
+En el caso de las Hojas de Actuación, la Jefatura de Operaciones efectuará la homologación de valores cuando se trate de diferentes formatos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 110.
 
-La calificación del concepto Mérito se obtendrá de los rubros que integran la trayectoria naval y las recompensas y reconocimientos, con base en los valores siguientes:
+La calificación del concepto mérito se obtendrá de los rubros que integran la trayectoria naval, las recompensas, así como la actitud y probidad para el servicio.
 
-TRAYECTORIA NAVAL (95%) Tiempo en el Grado (50%)
+> <small>(DEROGADA TABLA, D.O.F. 2 DE ABRIL DE 2026)</small>
 
-Numero de promoción a la
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
-que es convocado (50%)
+> <small>(DEROGADO TERCERO PÁRRAFO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
-RECOMPENSAS Y
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
-RECONOCIMIENTOS (5%) Los registrados en
+Los conceptos, rubros y sus valores, se establecen en el Manual y se comunicarán al personal convocado.
 
-las Hojas de Actuación del
-
-grado actual (100%)
-
-Tiempo en el Grado:
-
-RANGO EN AÑOS PORCENTAJE
-
-3 40
-
-3.1 - 5.9 45
-
-6 o más 50
-
-Número de Participación en la Promoción a la que es Convocado:
-
-NÚMERO DE PARTICIPACIÓN PORCENTAJE
-
-1 50
-
-2 48
-
-3 o más 46
-
-No será afectado negativamente en los porcentajes a que se refiere este artículo cuando el Participante en promociones anteriores haya cumplido con los requisitos establecidos y obtenga el promedio de calificación mínimo aprobatorio y no alcance alguna de las vacantes disponibles para su Grado, Cuerpo o Servicio.
-
-La puntuación promedio de cada rubro se determinará promediando la puntuación conceptuada en las Hojas de Actuación correspondientes al periodo que se evalúa. El Estado Mayor efectuará la homologación de valores cuando se trate de diferentes formatos.
-
-> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 111.
 
-La calificación de los conceptos Aptitud y Competencia Profesional se obtendrá de la manera siguiente:
+La calificación del concepto aptitud y competencia profesional se obtendrá de los rubros de hojas de actuación y formación académica.
 
-Aptitud y Competencia
+> <small>(DEROGADA TABLA, D.O.F. 2 DE ABRIL DE 2026)</small>
 
-Profesional (100%) Corresponderá al promedio
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
-de las Hojas de Actuación
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
-del participante en el grado,
-
-sin considerar la parte
-
-correspondiente a disciplina.
-
-(90%)
-
-Formación académica (10%):
-
-Cursos o Estudios de
-
-Postgrados ordenados por la
-
-Institución.
-
-CURSOS O ESTUDIOS DE POSTGRADO ORDENADOS POR EL MANDO EN EL GRADO ACTUAL
-
-CURSOS O ESTUDIOS PORCENTAJE
-
-Quien haya aprobado
-
-satisfactoriamente los estudios o
-
-cursos que correspondan a su
-
-cuerpo o servicio. 100
-
-Quien no haya sido convocado o
-
-designado para los mismos.
-
-Quienes hayan sido designados
-
-para efectuar cursos y no los
-
-concluyan en forma satisfactoria. -2
-
-Por cada caso
-
-La puntuación promedio de cada rubro, se determinará promediando la puntuación conceptuada en las Hojas de Actuación correspondientes al periodo que se evalúa. El Estado Mayor efectuará la homologación de valores cuando se trate de diferentes formatos.
+Los conceptos, rubros y sus valores se establecen en el Manual y se comunicarán al personal convocado.
 
 ###### Artículo 112.
 
 (DEROGADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)
 
-> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 113.
 
-La calificación del concepto conducta militar y civil será aquella que se obtenga del promedio aritmético del concepto de disciplina que se encuentra previsto en las hojas de actuación o memoriales de servicio de los tres últimos años en el grado, incluyendo la del año en que participa.
+La calificación del concepto de conducta militar y civil será aquella que se obtenga del promedio aritmético del concepto de disciplina que se encuentra en las hojas de actuación o memoriales de servicio del grado que se evalúa en el escalafón correspondiente, inclusive la del año en que participa.
+
+> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2016)</small>
 
 Para efectos de realizar el promedio aritmético a que se refiere el párrafo anterior, se tomarán en cuenta los valores siguientes:
+
+> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2016)</small>
 
 CONDUCTA VALOR
 
@@ -1151,69 +1181,67 @@ Regular 3.0
 
 Mala 0.0
 
+> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2016)</small>
+
 Cuando se dé una combinación de los valores, el valor final será el promedio aritmético de dichos valores.
 
-> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 114.
 
-La calificación final de los exámenes del Concurso de Selección será la suma de los porcentajes que hayan obtenido los Participantes en cada uno de los exámenes conforme a lo siguiente:
+La calificación final del concepto exámenes del Concurso de Selección será la suma de los porcentajes que hayan obtenido el personal participante en cada uno de los siguientes exámenes:
 
-EXÁMENES DEL CAPITANES Y CAPITANES Y TENIENTE DE
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2026)</small>
 
-CONCURSO DE OFICIALES DEL OFICIALES DE NAVÍO DEL
+EXÁMENES DEL CAPITANES Y OFICIALES CAPITANES Y OFICIALES
 
-SELECCIÓN (70%) NÚCLEO DE LOS LA ESCALA DE NÚCLEO
+CONCURSO DE DEL NÚCLEO DE LOS DE LA ESCALA DE LOS
 
-CUERPOS Y LOS CUERPOS DE LOS
+SELECCIÓN CUERPOS Y SERVICIOS CUERPOS Y SERVICIOS
 
-SERVICIOS Y SERVICIOS CUERPOS
+A. Médico Sí Sí
 
-Y SERVICIOS
+B. Capacidad física Sí Sí
 
-A. Médico 15% 15% 15%
+C. Académico Sí Sí
 
-B. Capacidad física 15% 15% 15%
+D. Lengua extranjera Sí No aplica.
 
-C. Académico 68% 70% 48%
+E. Tesis De acuerdo a necesidades No aplica
 
-D. Tesis No aplica No aplica 20%
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
-E. Lengua Extranjera 2% No aplica 2%
+Los conceptos, rubros y sus valores se establecen en el Manual y se comunicarán al personal convocado.
 
-> <small>(REFORMADO, D.O.F. 6 DE MARZO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 115.
 
-La calificación final del Concurso de Selección será la suma de los porcentajes que hayan obtenido los Participantes en cada uno de los conceptos de prelación, conforme a lo siguiente:
+La calificación final del Concurso de Selección será la suma de los porcentajes que haya obtenido el personal participante en cada uno de los conceptos a evaluar.
 
-CONCEPTOS QUE DEFINEN EL ORDEN DE PRELACIÓN PORCENTAJE
+> <small>(DEROGADA TABLA, D.O.F. 2 DE ABRIL DE 2026)</small>
 
-Mérito 30%
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
-Aptitud y Competencia Profesional 20%
-
-Conducta Militar y Civil 15%
-
-Exámenes del Concurso de Selección 35%
+Los conceptos, rubros y sus valores se establecen en el Manual y se comunicarán al personal convocado.
 
 #### SECCIÓN SEGUNDA. Del Personal de Clases y Marinería
 
-> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 116.
 
-El orden de prelación en cada grado, cuerpo y servicio, de Marineros a Segundos Maestres, quedará determinado de acuerdo a la calificación final obtenida en los exámenes a que se refiere el artículo 118 del presente Reglamento.
+El orden de prelación en cada grado, Cuerpo y Servicio, del personal de las jerarquías de Marineros a Segundos Maestres, quedará determinado de acuerdo a la calificación final obtenida en los conceptos a los que se refiere el artículo 119 del presente Reglamento.
 
 ###### Artículo 117.
 
 Será responsabilidad de la Oficialía Mayor, a través de la dirección general correspondiente, elaborar los listados y verificar el orden de prelación del personal de clases y marinería participante.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 118.
 
-Los exámenes a que se refiere el artículo 116 de este Reglamento serán:
+El concepto exámenes consiste en:
 
 I. Médico;
 
@@ -1223,37 +1251,49 @@ III. Académico, y
 
 IV. Práctico.
 
-> <small>(REFORMADO, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 119.
 
-La calificación final quedará representada por la suma aritmética de cada uno de los exámenes, según la tabla siguiente:
+La calificación final quedará representada por la suma aritmética de cada uno de los conceptos que correspondan, según la tabla siguiente:
 
-> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2026)</small>
 
-EXÁMENES DEL CONCURSO PORCENTAJE
+CONCEPTOS DEL CONCURSO DE SELECCIÓN.
 
-DE SELECCIÓN
+A. Exámenes.
 
-A. Médico 10%
+- Académico.
 
-B. Capacidad física 10%
+- Capacidad física.
 
-C. Académico 50%
+- Médico.
 
-D. Práctico 30%
+- Práctico.
+
+B. Mérito.
+
+C. Aptitud y competencia profesional.
+
+> <small>(ADICIONADO, D.O.F. 2 DE ABRIL DE 2026)</small>
+
+Los conceptos, rubros y sus valores se establecen en el Manual y se comunicarán al personal convocado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 11 DE MARZO DE 2016)</small>
 
 #### SECCIÓN TERCERA. De la Comunicación de los Ascensos
 
-> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 120.
 
-Al término de los exámenes del Concurso de Selección y de la determinación del orden de prelación, la Oficialía Mayor en coordinación con el Estado Mayor, llevará a cabo lo siguiente:
+Al término de los exámenes del Concurso de Selección y de la determinación del orden de prelación, la Oficialía Mayor en coordinación con la Jefatura de Operaciones, llevará a cabo lo siguiente:
 
-I. Integrar las calificaciones finales de los participantes en el Concurso de Selección, conforme a los artículos 115 y 119 de este Reglamento, y
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2026)</small>
+
+I. Integrar las calificaciones finales del personal participante en el Concurso de Selección, conforme a los artículos 115 y 119 de este Reglamento, e
+
+> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2016)</small>
 
 II. Informar al Alto Mando los resultados del Concurso de Selección, incorporando el orden de prelación que tendrá el personal para ascender.
 
@@ -1275,25 +1315,33 @@ Los ascensos en tiempo de guerra se otorgarán conforme a los términos establec
 
 Los actos de reconocido valor o de extraordinarios méritos del personal naval, en el desarrollo de operaciones de guerra que los hagan merecedores de ascensos, serán los establecidos en la Ley de Recompensas de la Armada de México en los supuestos dados para la Condecoración al Valor Heroico en sus modalidades de Primera, Segunda y Tercera Clase.
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
+
 ###### Artículo 124.
 
-Los ascensos para cubrir necesidades operativas en tiempo de guerra, tendrán como fundamento las propuestas que formulen los Comandantes de las Fuerzas Navales empeñadas en las operaciones de defensa de la nación.
+Los ascensos para cubrir necesidades operativas en tiempo de guerra, tendrán como fundamento las propuestas que formulen las personas titulares de las Comandancias de las Fuerzas Navales empeñadas en las operaciones de defensa de la nación.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 125.
 
-Los Comandantes de las Fuerzas Navales verificarán que el personal propuesto para ascender para cubrir necesidades operativas, reúna primordialmente características de aptitud y actitud altamente combativa, sin que sea necesario que este personal reúna los requisitos establecidos por la Ley para ascenso en tiempo de paz.
+Las personas titulares de las Comandancias de las Fuerzas Navales verificarán que el personal propuesto para ascender a fin de cubrir necesidades operativas, reúna primordialmente características de aptitud y actitud altamente combativa, sin que sea necesario que este personal reúna los requisitos establecidos por la Ley, para ascenso en tiempo de paz.
+
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 126.
 
-Los ascensos para el caso de cubrir vacantes no operativas, tendrán como sustento las propuestas que formulen los Mandos Navales para apoyar el esfuerzo de las Fuerzas Navales.
+Los ascensos para el caso de cubrir vacantes no operativas, tendrán como sustento las propuestas que formulen los Mandos para apoyar el esfuerzo de las Fuerzas Navales.
 
 ###### Artículo 127.
 
 La situación de guerra condiciona las propuestas de ascensos, por lo que los organismos responsables deberán atenderlas en forma expedita.
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
+
 ###### Artículo 128.
 
-Todo miembro de la Armada de México que en operaciones de guerra presencie o tenga conocimiento de algún acto de reconocido valor o de extraordinarios méritos, tiene la obligación de formular el parte respectivo y turnarlo por los conductos regulares.
+El personal de la Armada de México que en operaciones de guerra presencie o tenga conocimiento de algún acto de reconocido valor o de extraordinarios méritos, tiene la obligación de formular el parte respectivo y turnarlo por los conductos regulares.
 
 ### CAPÍTULO II. De los Ascensos por Méritos Especiales
 
@@ -1301,9 +1349,11 @@ Todo miembro de la Armada de México que en operaciones de guerra presencie o te
 
 Los ascensos que se otorguen por méritos especiales serán conforme a los supuestos que establece la Ley.
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
+
 ###### Artículo 130.
 
-Todo miembro de la Armada de México que tenga conocimiento de hechos que signifiquen méritos especiales para el personal naval, tiene la obligación de formular el parte respectivo y turnarlo por los conductos regulares.
+El personal de la Armada de México que tenga conocimiento de hechos que signifiquen méritos especiales para el personal naval, tiene la obligación de formular el parte respectivo y turnarlo por los conductos regulares.
 
 ## TÍTULO SEXTO. EXCLUSIÓN, POSTERGACIÓN E INCONFORMIDADES
 
@@ -1321,21 +1371,23 @@ II. Durante el concurso de selección, sea separado del mismo por dejar de cumpl
 
 En ambos supuestos, el personal que considere afectados sus derechos por la exclusión, podrá interponer el recurso de inconformidad ante la Junta Naval.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 132.
 
-Son causas de exclusión antes y durante el Concurso de Selección las siguientes:
+Son causas de exclusión de la persona participante, antes y durante el Concurso de Selección las siguientes:
 
-> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2026)</small>
 
-I. Dejar de cumplir con alguno de los requisitos que establece la Ley, el presente Reglamento y demás disposiciones jurídicas aplicables para ser convocado;
+I. Dejar de cumplir con alguno de los requisitos que establece la Ley, el presente Reglamento y demás disposiciones jurídicas aplicables para ser convocada;
 
-II. Quedar incluido en alguno de los supuestos establecidos en el artículo 51 de la Ley;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2026)</small>
 
-> <small>(REFORMADA, D.O.F. 6 DE MARZO DE 2020)</small>
+II. Quedar incluida en alguno de los supuestos establecidos en el artículo 51 de la Ley;
 
-III. Quedar clasificado en la primera o segunda categoría de accidentes o enfermedades previstas en el artículo 226 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2026)</small>
+
+III. Quedar clasificada en la primera o segunda categoría de accidentes o enfermedades previstas en el artículo 226 de la Ley del Instituto de Seguridad Social para las Fuerzas Armadas Mexicanas;
 
 > <small>(REFORMADA, D.O.F. 22 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1343,7 +1395,9 @@ IV. No obtener la calificación mínima aprobatoria en los exámenes que estable
 
 V. (DEROGADA, D.O.F. 22 DE SEPTIEMBRE DE 2010)
 
-VI. Por renuncia voluntaria del convocado, manifestada por escrito;
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2026)</small>
+
+VI. Por renuncia voluntaria de la convocada, manifestada por escrito;
 
 VII. No presentarse a los exámenes sin causa justificada;
 
@@ -1351,33 +1405,35 @@ VIII. Presentarse a los exámenes bajo los efectos de alcohol, drogas o psicotr�
 
 IX. Conducirse con falsedad o hacer uso de medios fraudulentos;
 
-> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2026)</small>
 
-X. Estar sujeto a proceso, cumpliendo sentencia condenatoria del orden penal o haber comparecido ante un órgano de disciplina resultando culpable quedando firme la imposición de los correctivos disciplinarios previstos en las fracciones IV, V y VI del artículo 50 de la Ley de Disciplina para el Personal de la Armada de México o bien estar cumpliendo cualquiera de dichos correctivos disciplinarios;
+X. Estar vinculada a proceso penal; cumpliendo sentencia condenatoria del orden penal; haber comparecido ante un órgano de disciplina, resultando culpable y quedando firme la imposición de los correctivos disciplinarios previstos en las fracciones IV, V y VI del artículo 50 de la Ley de Disciplina para el Personal de la Armada de México o estar cumpliendo cualquiera de dichos correctivos disciplinarios;
 
 XI. Habérsele conferido ascenso por adecuación de grado durante el proceso de promoción;
 
-> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2026)</small>
 
-XII. El que esté por comparecer o haya comparecido ante un órgano de disciplina y al término de la Promoción General no se haya determinado su situación jurídica, y
+XII. Estar por comparecer o haber comparecido ante un órgano de disciplina y al término de la Promoción General no se haya determinado su situación jurídica, y
 
-> <small>(REFORMADA, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2026)</small>
 
-XIII. Cuando la conducta del Participante se le conceptúe como regular o mala en el año en que participará o durante el período de la Promoción General, lo cual se acreditará mediante la hoja de actuación, memorial de servicios o certificado de conducta que se elabore por ese motivo.
+XIII. Cuando su conducta se le conceptúe como regular o mala en el año en que participará o durante el período de la Promoción General, lo cual se acreditará mediante la hoja de actuación, memorial de servicios o certificado de conducta que se elabore por ese motivo.
 
 ###### Artículo 133.
 
 (DEROGADO, D.O.F. 11 DE MARZO DE 2016)
 
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
+
 ###### Artículo 134.
 
-Las exclusiones deberán estar debidamente fundadas y motivadas y serán comunicadas al personal participante, por conducto del Estado Mayor o la Oficialía Mayor, según corresponda.
+Las exclusiones deberán estar debidamente fundadas y motivadas y serán comunicadas al personal participante, por conducto de la Jefatura de Operaciones o la Oficialía Mayor, según corresponda.
 
-> <small>(REFORMADO, D.O.F. 11 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, D.O.F. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 135.
 
-Se entenderá como postergación del Participante, lo señalado en el artículo 11, fracción IV del Reglamento de la Junta Naval.
+Se entenderá como postergación de la persona participante, lo señalado en el artículo 11, fracción IV del Reglamento de la Junta Naval.
 
 ### CAPÍTULO II. Del Recurso de Inconformidad
 
@@ -1440,3 +1496,17 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones administrativas que se opongan al presente Decreto.
 
 TERCERO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para la Secretaría de Marina, con movimientos compensados, por lo que no se incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
+
+D.O.F. 2 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE ASCENSOS DE LA ARMADA DE MÉXICO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Se derogan aquellas disposiciones administrativas que se opongan a lo previsto en el presente decreto.
+
+TERCERO. El Manual de Normas y Procedimientos de la Comisión Coordinadora para Ascensos o sus actualizaciones, se harán del conocimiento a todo el personal naval, previo a la comunicación de la lista del personal convocado.
+
+CUARTO. Las erogaciones que deriven por la implementación del presente Decreto se cubrirán con cargo al presupuesto aprobado para la Secretaría de Marina, por lo que no se autorizarán ampliaciones líquidas de recursos a su presupuesto en el presente ejercicio fiscal ni en años subsecuentes.
+
+QUINTO. Los procedimientos que se encuentren en trámite a la entrada en vigor del presente Decreto, se resolverán de conformidad con las disposiciones que les dieron origen.
