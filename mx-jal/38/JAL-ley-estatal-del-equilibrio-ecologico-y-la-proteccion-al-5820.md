@@ -4,7 +4,7 @@ identifier: "JAL-ley-estatal-del-equilibrio-ecologico-y-la-proteccion-al-5820"
 country: "mx"
 rank: "ley"
 publication_date: "1989-06-06"
-last_updated: "2025-12-12"
+last_updated: "2026-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "JAL"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2025.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 12 DE DICIEMBRE DE 2025, NÚMERO 23 BIS, EDICIÓN ESPECIAL, PÁGINA 58, NO APLICA AL ARTICULADO DEL DECRETO NO. 29868/LXIV/25 PUBLICADO EN EL P.O. DEL 25 DE NOVIEMBRE DE 2025.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2026.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 6 de junio de 1989.
 
@@ -112,6 +110,10 @@ IX. Composta: Producto resultante del tratamiento mediante biodegradación que p
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
 X. Condición natural clímax: Características que hacen a un ecosistema mantener la estabilidad, el desarrollo y la evolución de cada uno de sus elementos, cuya composición y estructura es remotamente conocida;
+
+> <small>(ADICIONADA, P.O. 2 DE ABRIL DE 2026)</small>
+
+X Bis. Consejo Estatal: Consejo Estatal de Áreas Naturales Protegidas y Otros Instrumentos de Conservación de Jalisco;
 
 > <small>(REFORMADA, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
@@ -229,13 +231,13 @@ XXXVIII. Ordenamiento Ecológico del Territorio del Estado: Instrumento de polí
 
 XXXIX. Ordenamiento Ecológico Regional: Es el instrumento de planeación ambiental, que integra el Ordenamiento Ecológico del Territorio del Estado, que regula o induce el uso del suelo y el manejo de los recursos naturales del estado en un determinado espacio del territorio del estado en donde interviene más de un municipio;
 
-> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2026)</small>
 
-XXXX (SIC). Ordenamiento Ecológico Local: Es el instrumento de planeación ambiental, que integra el Ordenamiento Ecológico del Territorio del Estado que regula o induce el uso del suelo y el manejo de los recursos naturales en un municipio; y
+XL. Ordenamiento Ecológico Local: Es el instrumento de planeación ambiental, que integra el Ordenamiento Ecológico del Territorio del Estado que regula o induce el uso del suelo y el manejo de los recursos naturales en un municipio; y
 
-> <small>(ADICIONADA, P.O. 3 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2026)</small>
 
-XXXXI (SIC). Resilencia (sic): la capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, logrando una mejor protección futura y mejorando las medidas de reducción de riesgos.
+XLI. Resiliencia: la capacidad de un sistema, comunidad o sociedad potencialmente expuesta a un peligro para resistir, asimilar, adaptarse y recuperarse de sus efectos en un corto plazo y de manera eficiente, a través de la preservación y restauración de sus estructuras básicas y funcionales, logrando una mejor protección futura y mejorando las medidas de reducción de riesgos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
@@ -1495,9 +1497,11 @@ V. El programa de aprovechamiento del área.
 
 Las declaratorias deberán publicarse en el Periódico Oficial El Estado de Jalisco, por una sola vez, y se inscribirán o incorporarán en él o los registros públicos de la propiedad que correspondan, y se notificarán a los propietarios o poseedores de los predios afectados, en forma personal, cuando se conocieren sus domicilios. En caso contrario, se hará una segunda publicación, la cual surtirá efectos de notificación.
 
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2026)</small>
+
 ###### Artículo 58.
 
-Una vez decretada y delimitada un área natural protegida, sólo podrá ser aumentada su extensión y, en su caso, se podrán cambiar las restricciones de usos del suelo por la autoridad que la haya establecido, de conformidad con los estudios que al efecto se realicen para aumentar su extensión o para cambiar las restricciones de usos del suelo.
+Una vez decretada y delimitada un área natural protegida, sólo podrá ser aumentada su extensión y, en su caso, se podrán aumentar las restricciones de usos del suelo por la autoridad que la haya establecido, de conformidad con los estudios que al efecto se realicen para aumentar su extensión o para aumentar las restricciones de usos del suelo.
 
 > <small>(ADICIONADO, P.O. 19 DE SEPTIEMBRE DE 2020)</small>
 
@@ -1515,11 +1519,29 @@ El gobierno del estado o los gobiernos municipales, tomando como base los estudi
 
 En el caso de áreas naturales protegidas de carácter federal, deberá sugerirle a la federación lo conducente.
 
-> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL PERIÓDICO OFICIAL EL ESTADO DE JALISCO DE 2 DE ABRIL DE 2026, PÁGINAS 11 Y 12.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2026)</small>
 
 ###### Artículo 59 Bis.
 
-La explotación o aprovechamiento de recursos en áreas naturales protegidas deberá ser realizado preferentemente por los dueños o posesionarios de los predios.
+La explotación de recursos en áreas naturales protegidas deberá ser realizada únicamente por los propietarios o posesionarios de los predios, a su vez, el aprovechamiento de estas áreas deberá de ser realizado preferentemente por los dueños o posesionarios de los predios, lo anterior en concordancia con su respectivo programa de aprovechamiento.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2026)</small>
+
+En el caso de que el propietario o poseedor de cualquier superficie dentro de un Área Natural Protegida sea una persona jurídica, no podrá tener algún objeto social que le permita realizar cualquier tipo de actividad que vaya en contra de la conservación y protección de dichas áreas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2026)</small>
+
+###### Artículo 59 Bis.
+
+La explotación o aprovechamiento de recursos en áreas naturales protegidas deberá ser realizada únicamente por los propietarios o posesionarios de los predios y en concordancia con su respectivo programa de aprovechamiento.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2026)</small>
+
+En el caso de que el propietario o poseedor de cualquier superficie dentro de un Área Natural Protegida sea una persona jurídica, no podrá tener algún objeto social que le permita realizar cualquier tipo de actividad que vaya en contra de la conservación y protección de dichas áreas.
+
+> <small>(ADICIONADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
 Cuando por incapacidad económica o técnica los dueños o posesionarios legítimos no pudieren explotar personalmente los recursos del área natural protegida, deberá otorgarse el permiso correspondiente a quien los mismos propongan para ese fin, siempre y cuando cumplan con los requisitos señalados.
 
@@ -1592,6 +1614,130 @@ Del sistema estatal de áreas naturales protegidas.
 ###### Artículo 63.
 
 Las áreas naturales protegidas consideradas de interés federal, estatal y municipal, constituyen, en su conjunto, el sistema estatal de áreas naturales protegidas.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2026)</small>
+
+###### Artículo 63 Bis.
+
+La Secretaría constituirá un Consejo Estatal como un órgano auxiliar consultivo, en los términos establecidos de la Ley Orgánica del Poder Ejecutivo del Estado de Jalisco, el cual estará integrado de conformidad a lo establecido en el artículo 63 Ter de esta Ley.
+
+El Consejo Estatal fungirá como apoyo de la Secretaría en la formulación, ejecución, seguimiento y evaluación de la política para el establecimiento, manejo de las áreas naturales protegidas de su competencia y de aquellas que tenga bajo su administración y manejo.
+
+Deberá sesionar, por lo menos, una vez por trimestre de manera ordinaria. Las sesiones del Consejo Estatal podrán realizarse de manera presencial, virtual, mediante plataforma establecida para ello, o mixta y tendrán validez para lograr acuerdos y emitir opiniones.
+
+Las convocatorias deberán enviarse con un mínimo de cinco días hábiles de anticipación junto con la propuesta del orden del día y los documentos necesarios para el desarrollo de cada sesión en caso de las ordinarias, y tres días hábiles en caso de las extraordinarias.
+
+Las recomendaciones y opiniones técnicas que formule el Consejo Estatal, deberán de delimitar a quién van dirigidas, su alcance geográfico, temporal, material y propuesta de acciones a realizar. En caso de que la Secretaría considere que no es viable cumplimentar la recomendación u opinión propuesta, fundamentará y motivará su negativa al respecto, sugiriendo alternativas para su atención.
+
+El Consejo Estatal podrá invitar a sus sesiones a representantes del gobierno federal cuando se traten asuntos relacionados con áreas naturales protegidas de competencia federal que se encuentren dentro del Estado de Jalisco.
+
+Asimismo, podrá invitar a representantes de ejidos, comunidades, propietarios, poseedores y, en general, a cualquier persona cuya participación, a consideración del Consejo Estatal, sea necesaria conforme al asunto que en cada caso se trate.
+
+Los cargos del Consejo Estatal, serán honoríficos.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2026)</small>
+
+###### Artículo 63 Ter.
+
+El Consejo Estatal, estará integrado por un representante, con apego al principio de paridad de género por:
+
+I. EI titular de la Secretaría, quien fungirá como Presidente del Consejo;
+
+II. Dirección Regional de Occidente y Pacifico Centro de la Comisión Nacional de Áreas Naturales Protegidas;
+
+III. Comisión Nacional Forestal;
+
+IV. Procuraduría Estatal de Protección al Ambiente del Estado de Jalisco;
+
+V. Secretaría de Agricultura y Desarrollo Rural del Estado de Jalisco;
+
+VI. Secretaría de Turismo del Estado de Jalisco;
+
+VII. Unión Ganadera Regional de Jalisco;
+
+VIII. Unión de Silvicultores del Estado de Jalisco;
+
+IX. Universidad de Guadalajara;
+
+X. Cámara Nacional de Comercio y Turismo de Guadalajara;
+
+XI. Fondo Noroeste A.C.;
+
+XII. Representante de manejadores de Áreas Naturales Protegidas de carácter Estatal;
+
+XIII. Representante de manejadores de Áreas Naturales Protegidas de carácter Federal.; (sic)
+
+XIV. Representante de cada Consejo Asesor o Consejo de Gestión de áreas protegidas; y
+
+XV. Expertos colaboradores reconocidos por su trayectoria profesional y aporte a la conservación: Tres personas expertas en el manejo y conservación de ecosistemas prioritarios del Estado de Jalisco.
+
+Los representantes de cada una de las instituciones deberán nombrar por escrito un suplente quienes cubrirán sus ausencias a las sesiones y su designación sólo será por el periodo constitucional de la administración pública en turno.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2026)</small>
+
+###### Artículo 63 Quáter.
+
+Son facultades del Presidente del Consejo Estatal de Áreas Naturales Protegidas las siguientes:
+
+I. Convocar y presidir las sesiones del Consejo Estatal;
+
+II. Comunicar los acuerdos tomados en las reuniones que se convoquen;
+
+III. Proponer temas de agenda a partir de consideraciones emanadas de sus integrantes;
+
+IV. Comunicar a las dependencias y entidades de la Administración Pública Federal y Estatal que correspondan, los acuerdos, opiniones, sugerencias y recomendaciones que se emitan;
+
+V. Emitir voto de calidad en caso de igualdad de número de votos en las decisiones de Consejo Estatal;
+
+VI. Presentar, ante las instancias correspondientes dentro de la Secretaría, las recomendaciones técnicas emitidas por el Consejo Estatal; y
+
+VII. Suscribir convenios de colaboración en representación del Consejo Estatal.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2026)</small>
+
+###### Articulo 63 Quinquies.
+
+El Consejo Estatal contará con un Secretarlo Técnico, que será el Director General de Recursos Naturales de la Secretaría.
+
+El Secretarlo Técnico del Consejo Estatal contará con las siguientes facultades:
+
+I. Convocar, por instrucción del Presidente y atendiendo las propuestas de los miembros del Consejo Estatal, a sesiones del Consejo Estatal y proponer el orden del día.
+
+Además de elaborar las actas de las sesiones que celebre el Consejo Estatal y autorizarlas con su firma;
+
+II. Preparar los temas a tratar en la sesión;
+
+III. Llevar el registro de asistentes y participantes en las sesiones;
+
+IV. Registrar los Acuerdos de las sesiones del Consejo Estatal, levantar la minuta de reunión y gestionar las firmas de la misma;
+
+V. Dar seguimiento para el cumplimiento de los Acuerdos establecidos en las minutas;
+
+VI. Mantener el resguardo de la documentación relativa a las sesiones; y
+
+VII. Realizar las demás actividades que sean necesarias para el buen funcionamiento del Consejo Estatal.
+
+El Secretario Técnico tendrá voz informativa pero no voto en las sesiones del Consejo Estatal.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2026)</small>
+
+###### Artículo 63 Sexies.
+
+Son atribuciones de los integrantes del Consejo Estatal, las siguientes:
+
+I. Tener derecho a voz y voto en los Acuerdos tomados por el Consejo Estatal;
+
+II. Emitir opiniones sobre los asuntos que se traten en las sesiones;
+
+III. Realizar propuestas de colaboración en el cumplimiento de los objetivos del Consejo Estatal;
+
+IV. Proponer invitados especiales cuando por su conocimiento y experiencia puedan contribuir al cumplimiento del objetivo del Consejo Estatal;
+
+V. Proponer al Consejo Estatal la integración de Comités o Grupos de trabajo para atender temas específicos que por su importancia o complejidad lo amerite;
+
+VI. Formular opinión a la Secretaría y, en caso de que lo soliciten, a los gobiernos municipales, sobre las propuestas de nuevas Áreas Naturales Protegidas; y
+
+VII. Emitir opinión respecto de los asuntos competencia de la Secretaría en materia de Áreas Naturales Protegidas.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2000)</small>
 
@@ -1924,6 +2070,18 @@ II. La realización de las obras públicas o privadas que por sí mismas puedan 
 ###### Artículo 70.
 
 En las zonas que presentan graves alteraciones ambientales, la Secretaría y los gobiernos municipales, promoverán y formularán los programas especiales para la restauración del equilibrio ecológico, en sus respectivos ámbitos de competencia.
+
+> <small>(ADICIONADO, P.O. 2 DE ABRIL DE 2026)</small>
+
+###### Artículo 70 Bis.
+
+La Secretaría y los gobiernos municipales, podrán solicitar opinión técnica al Consejo Estatal, respecto a la restricción del acceso a la población en general a cualquier Área Natural Protegida estatal o municipal, mediante el control de accesos, cuando exista alguno de los supuestos siguientes:
+
+a) En caso de recuperación ambiental, restringir el acceso a zonas para permitir que los ecosistemas se recuperen de alguna afectación;
+
+b) Cuando las especies que habitan en las áreas protegidas, se encuentren en riesgo, así propiciar su cuidado y en su caso, reproducción; y
+
+c) En el supuesto de que las áreas fueran sujetas para la investigación científica y el estudio de los ecosistemas y su equilibrio.
 
 ## TITULO CUARTO
 
@@ -3590,3 +3748,11 @@ Segundo. Se derogan todas las disposiciones contrarias al presente Decreto.
 Tercero. El titular del Poder Ejecutivo estatal y las autoridades municipales correspondientes, contarán con un plazo de ciento ochenta días para adecuar sus respectivos reglamentos.
 
 Cuarto. El titular del Poder Ejecutivo estatal y las autoridades municipales correspondientes, deberán de publicitar las nuevas disposiciones normativas en los accesos de las áreas naturales protegidas, parques y reservas estatales y municipales, así como en zonas de preservación ecológica correspondientes.
+
+P.O. 2 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 30133/LXIV/26 DEL CONGRESO DEL ESTADO, QUE REFORMA Y ADICIONA ARTÍCULOS DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE”.]
+
+Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+Segundo. El Poder Ejecutivo del Estado dispondrá de un plazo de 90 días para la instalación del Consejo Estatal de Áreas Naturales Protegidas, con la integración propuesta en el presente decreto y para realizar las adecuaciones administrativas y reglamentarias que deriven del presente Decreto.
