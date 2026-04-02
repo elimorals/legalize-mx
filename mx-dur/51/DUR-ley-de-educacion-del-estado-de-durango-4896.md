@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-educacion-del-estado-de-durango-4896"
 country: "mx"
 rank: "ley"
 publication_date: "1995-06-29"
-last_updated: "2025-12-11"
+last_updated: "2026-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE EDUCACIÓN DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 29 de junio de 1995.
 
@@ -150,6 +150,10 @@ En el Estado de Durango se impartirá la educación básica y la media superior,
 ###### ARTICULO 5.
 
 Además de impartir la educación básica y la media superior, el Gobierno del Estado de Durango promoverá y atenderá todos los tipos del servicio educativo, incluida la educación superior, apoyará la investigación científica y tecnológica, fomentará y difundirá la cultura e impulsará el deporte y la actividad física para la salud.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE ABRIL DE 2026)</small>
+
+La Secretaría, en coordinación con el Instituto Estatal del Deporte del Estado y los respectivos de los municipios, implementará y evaluará las medidas necesarias para garantizar el acceso pleno a la educación a los estudiantes que practiquen disciplinas del deporte de alto rendimiento.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2014)</small>
 
@@ -2079,6 +2083,10 @@ Tratándose de educandos con discapacidades, promoverá su integración mediante
 
 Los programas curriculares de educación física y deporte en los niveles de educación obligatoria, fomentarán la cultura del deporte inclusivo y la práctica del deporte adaptado a personas con discapacidad. La enseñanza, capacitación, gestión, administración y desarrollo del deporte adaptado, deberán confiarse a personal especializado.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE ABRIL DE 2026)</small>
+
+Las instituciones educativas proveerán mecanismos flexibles para que los deportistas de alto rendimiento puedan cumplir con los requerimientos de la disciplina deportiva correspondiente y, al mismo tiempo, cuenten con acceso a las evaluaciones, exámenes, prácticas, servicio social y demás obligaciones y actividades académicas.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MARZO DE 2014)</small>
 
 ###### ARTICULO 137.
@@ -3540,3 +3548,11 @@ P.O. 11 DE DICIEMBRE DE 2025.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente decreto.
+
+P.O. 2 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 377 QUE CONTIENE REFORMAS A LOS ARTÍCULOS 5 Y 136 DE LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO, EN MATERIA DE DEPORTES DE ALTO RENDIMIENTO Y DERECHO A LA EDUCACIÓN”.]
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al presente proyecto de decreto.
