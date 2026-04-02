@@ -4,7 +4,7 @@ identifier: "JAL-ley-para-el-desarrollo-economico-del-estado-de-jalisco-87111"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-31"
-last_updated: "2024-03-09"
+last_updated: "2026-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87111&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY PARA EL DESARROLLO ECONÓMICO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2026.
 
 Ley publicada en la Sección V del Periódico Oficial del Estado de Jalisco, el sábado 31 de marzo de 2012.
 
@@ -185,7 +185,7 @@ El Gobierno del Estado, a través de la Secretaría otorgará los apoyos y promo
 
 ###### Artículo 6.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 8 DE NOVIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 2 DE ABRIL DE 2026)</small>
 
 La presente ley tiene como objetivos específicos:
 
@@ -261,13 +261,21 @@ XXIII. Establecer mecanismos de desarrollo económico con perspectiva de género
 
 XXIV. Identificar los incentivos adecuados para el desarrollo y fortalecimiento de las industrias creativas y del ecosistema de innovación, ciencia y tecnología, como apoyos económicos y de capacitación en la materia, de manera directa o con la participación de otras instancias gubernamentales competentes, organismos de la sociedad civil, de la iniciativa privada ya sea (sic) nacionales o internacionales;
 
-> <small>(REFORMADA, P.O. 9 DE MARZO DE 2024)</small>
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2026)</small>
 
-XXV. Establecer los mecanismos tendientes a fortalecer el ecosistema de innovación, ciencia y tecnología, así como su cadena productiva; y
+XXV. Establecer los mecanismos tendientes a fortalecer el ecosistema de innovación, ciencia y tecnología, así como su cadena productiva.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MARZO DE 2024)</small>
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2026)</small>
 
-XXVI. Promover e impulsar sistemas de apoyo financiero, administrativo y de capacitación para los jaliscienses migrantes en retorno en el estado.
+XXVI. Promover e impulsar sistemas de apoyo financiero, administrativo y de capacitación para los jaliscienses migrantes en retorno en el estado; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE ABRIL DE 2026)</small>
+
+XXVII. Fomentar e impulsar la inclusión a la dinámica económica formal del Estado, de las personas que se dedican al cuidado en los términos de la Ley del Sistema Integral de Cuidados para el Estado de Jalisco; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE ABRIL DE 2026)</small>
+
+XXVIII. Fomentar e impulsar la inclusión a la dinámica económica formal del Estado, de las personas que realizan micro emprendimientos de negocios por internet, redes sociales o medios de comunicación.
 
 ### Capítulo II. De las Actividades Sujetas a la Promoción y el Apoyo para el Desarrollo Económico
 
@@ -301,7 +309,7 @@ IX. Los demás que para tal efecto determine la Secretaría o se establezca en e
 
 ###### Artículo 8.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO] PRIMER PÁRRAFO, P.O. 2 DE ABRIL DE 2026)</small>
 
 Dentro de las áreas señaladas en el artículo anterior, serán sujetos de promoción y apoyo, los proyectos productivos que:
 
@@ -345,13 +353,17 @@ XII. Generen espacios y acciones que impulsen la cultura de la paz;
 
 XIII. Garanticen la generación de por lo menos un veinte por ciento de nuevos empleos a personas de grupos vulnerables por proyecto productivo, en los términos de lo que establece el Código de Asistencia Social del Estado;
 
-> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2026)</small>
 
-XIV. Que, en estado de emergencia económica, garanticen la creación o mantenimiento del empleo en el Estado; o
+XIV. En estado de emergencia económica, garanticen la creación o mantenimiento del empleo en el Estado;
 
-> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2026)</small>
 
-XV. Garanticen el crecimiento del ecosistema de innovación, ciencia y tecnología, así como la capacitación especializada de los recursos humanos.
+XV. Garanticen el crecimiento del ecosistema de innovación, ciencia y tecnología, así como la capacitación especializada de los recursos humanos; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE ABRIL DE 2026)</small>
+
+XVI. Generen condiciones de auto sustento económico de personas cuidadoras y sus dependientes, en los términos de la Ley del Sistema Integral de Cuidados para el Estado de Jalisco.
 
 ###### Artículo 9.
 
@@ -1500,3 +1512,9 @@ P.O. 9 DE MARZO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 29528/LXIII/24 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 17 DE LA LEY ORGÁNICA DEL PODER EJECUTIVO; 7º DE LA LEY DE COMISIÓN ESTATAL DE DERECHOS HUMANOS; 6º DE LA LEY PARA EL DESARROLLO ECONÓMICO; 16 DE LA LEY DE EDUCACIÓN; Y 5º, 7º Y 8º DE LA LEY DE PROTECCIÓN Y ATENCIÓN DE LOS MIGRANTES, ORDENAMIENTOS TODOS DEL ESTADO LIBRE Y SOBERANO DE JALISCO".]
 
 UNICO: El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco"
+
+P.O. 2 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 30118/LXIV/25 DEL CONGRESO DEL ESTADO, QUE REFORMA LOS ARTÍCULOS 6 Y 8 DE LA LEY PARA EL DESARROLLO ECONÓMICO Y EL ARTÍCULO 144 DE LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS, AMBOS ORDENAMIENTOS DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
