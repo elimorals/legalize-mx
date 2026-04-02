@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2026-03-07"
+last_updated: "2026-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2026.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -2955,11 +2955,11 @@ V. La Procuraduría de Protección de Niñas, Niños y Adolescentes.
 
 Si las personas a las que se refieren las fracciones II, III y IV del artículo anterior, no pueden representar al acreedor alimentario en el juicio en que se pida el aseguramiento de los alimentos, se nombrará por el juez, un tutor interino.
 
-> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2026)</small>
 
 ###### Art. 448.
 
-En los juicios sobre alimentos la sentencia condenará al pago de los alimentos presentes y aseguramiento de los futuros, dicho aseguramiento podrá consistir en hipoteca, prenda, fianza, depósito o cualquier otro medio legal de cantidad bastante para cubrir los mismos.
+En los juicios sobre alimentos, la sentencia condenará al pago de los alimentos caídos, presentes y asegurará el cumplimiento de los alimentos futuros. Este aseguramiento podrá consistir en medidas precautorias tales como hipoteca, prenda, fianza, depósito, el descuento de salarios, o cualquier otro medio legal de cantidad bastante para cubrir los mismos.
 
 ###### Art. 449.
 
@@ -2999,15 +2999,15 @@ Cuando el deudor alimentista no estuviere presente o estándolo, rehusare entreg
 
 Cuando un cónyuge se vea obligado sin culpa suya, a vivir separado del otro; podrá pedir al Juez de Primera Instancia del lugar de su residencia, que obligue a su cónyuge a darle alimentos durante la separación y que le ministre todos (sic) lo que haya dejado de darle desde que lo abandonó. El juez, según las circunstancias del caso, fijará la suma que deberá ministrar mensualmente, dictando las medidas necesarias para que dicha cantidad sea debidamente asegurada y para que el cónyuge obligado pague los gastos que el cónyuge abandonado haya tenido que erogar con tal motivo.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 2 DE ABRIL DE 2026)</small>
 
 ###### Art. 455.
 
-Toda persona a quien, por su cargo, corresponda proporcionar informes sobre la capacidad económica de los deudores alimentarios, está obligada a suministrar los datos exactos que le solicite el Juez; de no hacerlo, será sancionada en los términos establecidos en el Código de Procedimientos Civiles y responderá solidariamente con los obligados directos de los daños y perjuicios que cause al acreedor alimentista por sus omisiones o informes falsos.
+Toda persona a quien, por su empleo, cargo o comisión corresponda proporcionar informes sobre la capacidad económica de los deudores alimentarios, está obligada a suministrar los datos exactos que le solicite el Juez; de no hacerlo, será sancionada en los términos establecidos en el Código de Procedimientos Civiles aplicable y responderá solidariamente con los obligados directos de los daños y perjuicios que cause al acreedor alimentista por sus omisiones o informes falsos.
 
-Las personas que se resistan a acatar las órdenes judiciales de descuento, o auxilien al deudor a ocultar o simular sus bienes, o a eludir el cumplimiento de las obligaciones alimentarias, son responsables en los términos del párrafo anterior, sin perjuicio de lo dispuesto por otros ordenamientos legales.
+Las personas que no cumplan las órdenes judiciales de descuento, o auxilien al deudor alimentario a ocultar o simular sus bienes, o a eludir el cumplimiento de las obligaciones alimentarias, son responsables en los términos del párrafo anterior, sin perjuicio de lo dispuesto por otros ordenamientos legales.
 
-El deudor alimentario deberá informar de inmediato al Juez y al acreedor alimentista cualquier cambio de empleo, la denominación o razón social de su nueva fuente de trabajo, la ubicación de ésta y el puesto o cargo que desempeñará, a efecto de que continúe cumpliendo con la pensión alimenticia decretada y no incurrir en alguna responsabilidad.
+El deudor alimentario deberá informar de inmediato a (sic) al Juez y al acreedor alimentista cualquier cambio de empleo, la denominación o razón social de su nueva fuente de trabajo, la ubicación de ésta, el puesto o cargo que desempeñará, así como comprobar de manera fehaciente con documento idóneo su salario a efecto de que continúe cumpliendo con la pensión alimenticia decretada y no incurrir en alguna responsabilidad.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE JUNIO DE 2024)</small>
 
@@ -19538,3 +19538,11 @@ P.O. 7 DE MARZO DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 30137/LXIV/26 DEL CONGRESO DEL ESTADO, QUE REFORMA LOS ARTÍCULOS 426, 539, 540, 541, 542, 597, Y 2919; SE MODIFICA LA DENOMINACIÓN DE LAS (SIC) SECCIÓN PRIMERA EL (SIC) CAPÍTULO IV DEL TÍTULO SEXTO; Y SE DEROGAN LOS ARTÍCULOS 538, 543, 544, 545, 546, 550, 2926 Y 2927 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+P.O. 2 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 30117/LXIV/25 DEL CONGRESO DEL ESTADO, QUE REFORMA LOS ARTÍCULOS 448, Y 455 DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. Los procedimientos que a la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares se encuentren en trámite, continuaran su sustanciación de conformidad con la legislación aplicable en el momento del inicio de los mismos.
