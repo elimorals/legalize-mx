@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-compras-gubernamentales-enajenaciones-y-contratacion-117
 country: "mx"
 rank: "ley"
 publication_date: "2016-10-27"
-last_updated: "2023-10-07"
+last_updated: "2026-04-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117012&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ABRIL DE 2026.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 27 de octubre de 2016.
 
@@ -2139,6 +2139,8 @@ III. Cuando se trate de bienes, respecto de los cuales exista disposición legal
 
 ###### Artículo 144.
 
+> <small>(REFORMADO ESTE PÁRRAFO [N. DE E. REPUBLICADO], P.O. 2 DE ABRIL DE 2026)</small>
+
 1. El objeto del Fondo será:
 
 I. Impulsar la reactivación económica en el Estado como medio para alcanzar el desarrollo económico sostenible en la entidad;
@@ -2149,27 +2151,37 @@ III. Impulsar y fomentar la inversión económica, la creación de empleos y de 
 
 IV. Apoyar a emprendedores, así como micro, pequeñas y medianas empresas residentes en el Estado con programas y promoción para su reactivación económica;
 
-V. Coordinar acciones entre los sectores público y privado para el desarrollo de programas de atracción de inversión y promoción económica en el Estado;
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE ABRIL DE 2026)</small>
 
-VI. La adquisición y transferencia de tecnología que generen competitividad en los diversos sectores económicos en el Estado;
+V. Apoyar a emprendedores cuyos ingresos son el sustento de personas que requieren cuidados, en los términos de la Ley del Sistema Integral de Ciudadanos para el Estado de Jalisco;
 
-VII. Promover una cultura de solidaridad y difundir los beneficios de la aportación cinco al millar que permita el cumplimiento del objeto del Fondo.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE ABRIL DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+VI. Coordinar acciones entre los sectores público y privado para el desarrollo de programas de atracción de inversión y promoción económica en el Estado;
 
-VIII. Apoyar, en coordinación con las autoridades, en la adquisición de insumos para la salud pública de los jaliscienses;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE ABRIL DE 2026)</small>
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE OCTUBRE DE 2023)</small>
+VII. La adquisición y transferencia de tecnología que generen competitividad en los diversos sectores económicos en el Estado;
 
-IX. Generar estrategias, apoyos, programas e incentivos que impulsen e incrementen las ventajas competitivas del Estado, para fomentar la creación, permanencia y crecimiento de empresas;
+> <small>(REFORMADA, P.O. 2 DE ABRIL DE 2026)</small>
 
-> <small>(ADICIONADA, P.O. 7 DE OCTUBRE DE 2023)</small>
+VIII. Promover una cultura de solidaridad y difundir los beneficios de la aportación cinco al millar que permita el cumplimiento del objeto del Fondo;
 
-X. Promover, y generar estrategias y acciones para fortalecer el ecosistema de innovación, ciencia y tecnología en cumplimiento de la política en la materia; y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE ABRIL DE 2026)</small>
 
-> <small>(ADICIONADA, [N. DE E. REPUBLICADA Y REUBICADA ANTES FRACCIÓN IX] P.O. 7 DE OCTUBRE DE 2023)</small>
+IX. Apoyar, en coordinación con las autoridades, en la adquisición de insumos para la salud pública de los jaliscienses;
 
-XI. Promover una cultura de solidaridad y difundir los beneficios de la aportación cinco al millar que permita el cumplimiento del objeto del Fondo.
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE ABRIL DE 2026)</small>
+
+X. Generar estrategias, apoyos, programas e incentivos que impulsen e incrementen las ventajas competitivas del Estado, para fomentar la creación, permanencia y crecimiento de empresas;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE ABRIL DE 2026)</small>
+
+XI. Promover, y generar estrategias y acciones para fortalecer el ecosistema de innovación, ciencia y tecnología en cumplimiento de la política en la materia; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 2 DE ABRIL DE 2026)</small>
+
+XII. Promover una cultura de solidaridad y difundir los beneficios de la aportación cinco al millar que permita el cumplimiento del objeto del Fondo.
 
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2021)</small>
 
@@ -2434,3 +2446,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. El Titular del Poder Ejecutivo deberá realizar las adecuaciones reglamentarias para dar cumplimiento al presente decreto dentro de los 180 días posteriores a su entrada en vigor.
 
 TERCERO. El Titular del Poder Ejecutivo deberá prever las adecuaciones administrativas y presupuestales para dar cumplimiento a este decreto en el anteproyecto del Presupuesto de Egresos para el ejercicio fiscal 2024 del Estado de Jalisco.
+
+P.O. 2 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 30118/LXIV /25 DEL CONGRESO DEL ESTADO, QUE REFORMA LOS ARTÍCULOS 6 Y 8 DE LA LEY PARA EL DESARROLLO ECONÓMICO Y EL ARTÍCULO 144 DE LA LEY DE COMPRAS GUBERNAMENTALES, ENAJENACIONES Y CONTRATACIÓN DE SERVICIOS, AMBOS ORDENAMIENTOS DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
