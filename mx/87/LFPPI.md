@@ -4,7 +4,7 @@ identifier: "LFPPI"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2020-07-01"
-last_updated: "2026-01-15"
+last_updated: "2026-04-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143483&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPPI"
 
 LEY FEDERAL DE PROTECCIÓN A LA PROPIEDAD INDUSTRIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE ABRIL DE 2026.
 
 Ley publicada en la Primera Sección Vespertina del Diario Oficial de la Federación, el miércoles 1 de julio de 2020.
 
@@ -70,7 +70,9 @@ III.- Prevenir los actos que atenten contra la propiedad industrial o que consti
 
 IV.- Promover y fomentar la actividad inventiva de aplicación industrial, las mejoras técnicas, la creatividad para el diseño y la presentación de productos nuevos y útiles, y
 
-V.- Promover la difusión de los conocimientos tecnológicos en el país.
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+V.- Promover y fomentar la transferencia de tecnología, así como la difusión de los conocimientos tecnológicos en el país.
 
 > <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
 
@@ -92,7 +94,9 @@ IV.- Ley, a la presente Ley;
 
 V.- Persona Titular de la Dirección General, a la persona Titular de la Dirección General del Instituto Mexicano de la Propiedad Industrial, y
 
-VI.- Tratados Internacionales, a los celebrados de conformidad con la Ley sobre la celebración de Tratados y la Ley sobre la aprobación de Tratados Internacionales en Materia Económica, en los que México sea parte.
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+VI.- Tratados Internacionales, a los celebrados de conformidad con la Ley sobre la Celebración de Tratados y la Ley sobre la Aprobación de Tratados Internacionales en Materia Económica, en los que México sea parte.
 
 ###### Artículo 5.
 
@@ -100,9 +104,13 @@ El Instituto Mexicano de la Propiedad Industrial, autoridad administrativa en ma
 
 I.- Tramitar y, en su caso, otorgar patentes de invención, registros de modelos de utilidad, diseños industriales, esquemas de trazado de circuitos integrados, certificados complementarios, marcas, marcas colectivas o marcas de certificación; publicar nombres comerciales; así como inscribir sus renovaciones, transmisiones o licencias de uso y explotación; estimar o declarar la notoriedad o fama de marcas; emitir las declaraciones de protección a denominaciones de origen e indicaciones geográficas y autorizar el uso de las mismas, y las demás que le otorga esta Ley y su Reglamento para el reconocimiento y conservación de los derechos de propiedad industrial;
 
-II.- Sustanciar los procedimientos de nulidad, caducidad y cancelación de los derechos de propiedad industrial; así como cesar los efectos de las publicaciones de los nombres comerciales; formular las resoluciones y emitir las declaraciones administrativas correspondientes, conforme lo dispone esta Ley y su Reglamento y, en general, resolver las solicitudes que se susciten con motivo de la aplicación de la misma;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-III.- Realizar las investigaciones de presuntas infracciones administrativas en los términos de las leyes cuya aplicación le corresponde; oír en su defensa a los presuntos infractores; conciliar los intereses de las partes involucradas cuando se lo soliciten; formular las resoluciones, emitir las declaraciones e imponer las sanciones administrativas correspondientes;
+II.- Sustanciar los procedimientos de nulidad, caducidad y cancelación de los derechos de propiedad industrial; así como el reclamo de la titularidad de una patente o de un registro, o la cesación de los efectos de la publicación de un nombre comercial; formular las resoluciones y emitir las declaraciones administrativas correspondientes, conforme lo dispone esta Ley y su Reglamento y, en general, resolver las solicitudes que se susciten con motivo de la aplicación de estos ordenamientos;
+
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+III.- Realizar las investigaciones de presuntas infracciones administrativas en los términos de las leyes cuya aplicación le corresponde; oír en su defensa a las presuntas personas infractoras; conciliar los intereses de las partes involucradas cuando se lo soliciten; formular las resoluciones, emitir las declaraciones e imponer las sanciones administrativas correspondientes;
 
 IV.- Ordenar y practicar visitas de inspección, y requerir información y datos;
 
@@ -112,19 +120,27 @@ VI.- Determinar en cantidad líquida el monto de las multas que imponga y, en su
 
 VII.- Exigir el pago de los créditos fiscales que no hubiesen sido cubiertos oportunamente a través del procedimiento administrativo de ejecución, en términos del Código Fiscal de la Federación;
 
-VIII.- Condenar al pago de los daños y perjuicios causados al titular afectado en los procedimientos de declaración administrativa de infracción previstos en las leyes cuya aplicación le corresponde, y cuantificar el monto de la indemnización respectiva;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+VIII.- Condenar al pago de los daños y perjuicios causados a la persona titular afectada en los procedimientos de declaración administrativa de infracción previstos en las leyes cuya aplicación le corresponde, y cuantificar el monto de la indemnización respectiva;
 
 IX.- Solicitar el auxilio de la fuerza pública federal, estatal o local, así como de cualquier institución civil o armada, para cumplimentar eficaz y prontamente sus determinaciones relacionadas con la observancia de derechos contenidos en las leyes, cuya aplicación le corresponde;
 
-X.- Designar peritos o fungir como tal, cuando se le solicite conforme a la legislación aplicable;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-XI.- Emitir los dictámenes técnicos que le sean requeridos por los particulares, por el Ministerio Público Federal o por cualquier otra autoridad judicial o administrativa; efectuar las diligencias y recabar las pruebas que sean necesarias para su emisión;
+X.- Designar persona perita o fungir como tal, cuando se le solicite conforme a la legislación aplicable;
+
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+XI.- Emitir los dictámenes técnicos que le sean requeridos por las personas particulares, por el Ministerio Público Federal o por cualquier otra autoridad judicial o administrativa; efectuar las diligencias y recabar las pruebas que sean necesarias para su emisión;
 
 XII.- Actuar como depositario cuando se le designe conforme a esta Ley y, en su caso, poner a disposición de la autoridad competente los bienes que se hubieren asegurado;
 
 XIII.- Sustanciar y resolver los recursos administrativos que se interpongan contra las resoluciones que emita, conforme a la competencia de las leyes cuya aplicación le corresponde;
 
-XIV.- Fungir como árbitro en la resolución de controversias relacionadas con la competencia de las leyes cuya aplicación le corresponde, cuando los involucrados lo designen expresamente como tal, de conformidad con las disposiciones contenidas en el Código de Comercio;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+XIV.- Fungir como árbitro en la resolución de controversias relacionadas con la competencia de las leyes cuya aplicación le corresponde, cuando las personas involucradas la designen expresamente como tal, de conformidad con las disposiciones contenidas en el Código de Comercio;
 
 XV.- Publicar en la Gaceta los actos a los que se refiere esta Ley;
 
@@ -132,7 +148,9 @@ XV.- Publicar en la Gaceta los actos a los que se refiere esta Ley;
 
 XVI.- Difundir la información derivada de las patentes, registros, publicaciones, declaratorias, declaraciones, autorizaciones y cualquier otra relacionada con las leyes cuya aplicación le corresponde, asegurando que sea accesible y se promueva la participación de mujeres y otros grupos en situación de vulnerabilidad o exclusión, en el uso y aprovechamiento de dicha información;
 
-XVII.- Establecer las reglas para la gestión de trámites a través de medios de comunicación electrónica;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+XVII.- Establecer las reglas para la gestión de trámites, incluido el procedimiento de declaración administrativa de infracción, a través de medios de comunicación electrónica;
 
 XVIII.- Mantener el registro público de los derechos de propiedad industrial en los términos que establezca esta Ley y su Reglamento, sin perjuicio de lo que establezcan los Tratados Internacionales;
 
@@ -140,27 +158,35 @@ XIX.- Difundir, asesorar y dar servicio al público, conforme a la competencia d
 
 XX.- Promover la creación de invenciones de aplicación industrial, apoyar su desarrollo y explotación en la industria y el comercio, e impulsar la transferencia de tecnología mediante:
 
-a) La divulgación de acervos documentales sobre invenciones publicadas en el país o en el extranjero y la asesoría sobre su consulta y aprovechamiento;
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+a) La divulgación de acervos documentales impresos y digitales sobre invenciones publicadas en el país y en el extranjero y la asesoría sobre su consulta y aprovechamiento;
 
 b) La elaboración, actualización y difusión de directorios de personas físicas y morales dedicadas a la generación de invenciones y actividades de investigación tecnológica;
 
-c) La realización de concursos, certámenes o exposiciones y el otorgamiento de premios y reconocimientos que estimulen la actividad inventiva y la creatividad en el diseño y la presentación de productos;
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
+c) La realización de concursos, certámenes, exposiciones y el otorgamiento de premios, reconocimientos y cualquier otra actividad que estimule la actividad inventiva, la creatividad en el diseño, la transferencia de tecnología y las aplicaciones industriales o usos de la propiedad industrial, para beneficio de la sociedad;
 
-d) La difusión entre las personas, grupos, asociaciones o instituciones de investigación, enseñanza superior o de asistencia técnica, del conocimiento y alcance de las disposiciones de esta Ley, que faciliten sus actividades en la generación de invenciones y en su desarrollo industrial y comercial subsecuente;
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 2026)</small>
+d) La difusión entre las personas, grupos, asociaciones o instituciones de investigación, enseñanza superior o de asistencia técnica, del conocimiento y alcance de las disposiciones de esta Ley, que faciliten sus actividades en la generación de invenciones, en su desarrollo industrial, transferencia de tecnología y, en su caso, comercialización;
 
-e) La celebración de convenios de cooperación, coordinación y concertación, con los gobiernos de las entidades federativas, así como con instituciones públicas o privadas, nacionales o extranjeras, para promover y fomentar las invenciones y creaciones de aplicación industrial y comercial, y
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
+e) La celebración de convenios de cooperación, coordinación o concertación con los gobiernos de las entidades federativas e instituciones públicas o privadas, nacionales o extranjeras, para promover y fomentar las invenciones y creaciones de aplicación industrial y comercial, con patente o registro vigente, así como para la transferencia de tecnología y su comercialización;
 
-f) El impulso de estrategias para promover la participación de las mujeres en programas de transferencia de tecnología y desarrollo industrial;
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-> <small>(REFORMADA, D.O.F. 15 DE ENERO DE 2026)</small>
+f) El impulso de estrategias para promover la participación de las mujeres en programas de transferencia de tecnología y desarrollo industrial, y
 
-XXI.- Participar en los programas de otorgamiento de estímulos y apoyos para la protección de la propiedad industrial, tendientes a la generación, desarrollo y aplicación de tecnología mexicana en la actividad económica, así como para mejorar sus niveles de productividad y competitividad. Dichos programas deberán incorporar la perspectiva género y, atendiendo a su objeto, promover la participación de mujeres;
+> <small>(ADICIONADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+g) Brindar asesoría jurídica en materia de licencias, cesiones, transmisiones de derechos u otros instrumentos jurídicos para la celebración de acuerdos de transferencia de tecnología;
+
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+XXI.- Diseñar, promover y participar, con otras instituciones públicas y privadas, a través de instrumentos jurídicos de colaboración o concertación, en programas de otorgamiento de estímulos y apoyos para la innovación, protección de la propiedad industrial y transferencia de tecnología, tendientes a la generación, desarrollo y aplicación de tecnología mexicana en la actividad económica, así como para mejorar sus niveles de productividad y competitividad. Dichos programas deberán incorporar la perspectiva de género y, atendiendo a su objeto, promover la participación de mujeres;
 
 XXII.- Formar y mantener actualizados los acervos sobre invenciones publicadas en el país;
 
@@ -172,9 +198,13 @@ XXV.- Coordinar su actuación con las diversas instituciones públicas y privada
 
 XXVI.- Proporcionar la información y la cooperación técnica en materia de propiedad industrial, que le sea requerida por la Administración Pública Federal u otras autoridades, conforme a las normas y políticas establecidas para tal efecto;
 
-XXVII.- Propiciar la participación del sector industrial en el desarrollo y aplicación de tecnologías que incrementen la calidad, competitividad y productividad del mismo, así como realizar investigaciones sobre el avance y aplicación de la tecnología industrial nacional e internacional y su incidencia en el cumplimiento de tales objetivos, y proponer políticas para fomentar su desarrollo;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-XXVIII.- Promover la cooperación internacional mediante el intercambio de experiencias administrativas y jurídicas con instituciones encargadas del registro y protección legal de la propiedad industrial en otros países, incluyendo entre otras: la capacitación y el entrenamiento profesional de personal, la transferencia de metodologías de trabajo y organización, el intercambio de publicaciones y la actualización de acervos documentales y bases de datos;
+XXVII.- Promover y propiciar la participación del sector industrial, académico y social en el desarrollo y aplicación de tecnologías que incrementen la calidad, competitividad y la productividad de dicho sector, así como realizar investigaciones sobre el avance y aplicación de la tecnología industrial nacional e internacional y su incidencia en el cumplimiento de tales objetivos, y proponer políticas para fomentar su desarrollo;
+
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+XXVIII.- Promover la cooperación internacional mediante el intercambio de experiencias administrativas y jurídicas y de mecanismos y mejores prácticas, con instituciones encargadas del registro y protección legal de la propiedad industrial en otros países, incluyendo entre otras: la capacitación y el entrenamiento profesional de personal, la transferencia de metodologías de trabajo y organización, fomento de acuerdos de cooperación con los cuales se propicie la rapidez, calidad y eficiencia en los procedimientos, el intercambio de publicaciones y la actualización de acervos documentales y bases de datos;
 
 XXIX.- Participar, en coordinación con las unidades competentes de la Secretaría de Economía, en las negociaciones que correspondan al ámbito de sus atribuciones;
 
@@ -186,6 +216,14 @@ XXXI.- Actuar como órgano de consulta conforme a la competencia de las leyes cu
 
 XXXII.- Participar en la formación de recursos humanos especializados en las diversas disciplinas de la propiedad industrial, a través de la formulación y ejecución de programas y cursos de capacitación, enseñanza y especialización de personal profesional, técnico y auxiliar, incorporando un enfoque de género que fomente la participación igualitaria de mujeres y hombres en dichas disciplinas;
 
+> <small>(ADICIONADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+XXXII Bis.- Establecer esquemas de cooperación con la Secretaría de Ciencia, Humanidades, Tecnología e Innovación para el desarrollo de la innovación, avance de la ciencia y tecnología, protección de la propiedad industrial y transferencia de tecnología;
+
+> <small>(ADICIONADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+XXXII Ter.- Promover la adopción de sistemas de cumplimiento normativo en materia de propiedad industrial entre los sectores productivos, mediante el diseño e implementación de programas de formación, sensibilización y capacitación;
+
 XXXIII.- Formular y ejecutar su programa institucional de operación, y
 
 XXXIV.- Prestar los demás servicios y realizar las actividades necesarias para el debido cumplimiento de las leyes cuya aplicación le corresponden.
@@ -194,33 +232,47 @@ XXXIV.- Prestar los demás servicios y realizar las actividades necesarias para 
 
 Los órganos de administración del Instituto serán la Junta de Gobierno y la persona Titular de la Dirección General, quienes tendrán las facultades previstas en la Ley Federal de las Entidades Paraestatales y en su Decreto de creación, sin perjuicio de lo previsto en los artículos 5 y 9 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 7.
 
-La Junta de Gobierno se integrará por diez representantes:
+La Junta de Gobierno se integrará por once personas representantes:
 
 I.- La persona Titular de la Secretaría de Economía, quien la preside;
 
-II.- Un representante designado por la Secretaría de Economía;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-III.- Dos representantes designados por la Secretaría de Hacienda y Crédito Público, y
+II.- Una persona representante designada por la Secretaría de Economía;
 
-IV.- Sendos representantes de las Secretarías de Relaciones Exteriores, de Agricultura y Desarrollo Rural, Cultura, Educación Pública y Salud; así como del Consejo Nacional de Ciencia y Tecnología y del Centro Nacional de Metrología.
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-Por cada representante propietario será designado un suplente, quien asistirá a las sesiones de la Junta de Gobierno en ausencia del primero, con todas las facultades y derechos que a éste correspondan.
+III.- Dos personas representantes designadas por la Secretaría de Hacienda y Crédito Público, y
+
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+IV.- Una persona representante de las Secretarías de Relaciones Exteriores, de Agricultura y Desarrollo Rural, Cultura, Educación Pública, de Salud y de Ciencia, Humanidades, Tecnología e Innovación, así como del Centro Nacional de Metrología.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Por cada persona representante propietaria será designada una suplente, quien asistirá a las sesiones de la Junta de Gobierno en ausencia de la primera, con todas las facultades y derechos que a ésta correspondan.
 
 ###### Artículo 8.
 
 La persona Titular de la Dirección General es la representante legal del Instituto y será designada por la Junta de Gobierno, a indicación del Ejecutivo Federal, a través de la persona Titular de la Secretaría de Economía.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 9.
 
-La persona Titular de la Dirección General podrá delegar las facultades a que se refiere el artículo 5 de esta Ley, así como las demás que considere convenientes para el logro de los objetivos y metas institucionales, en servidores públicos subalternos, en los términos que se establezcan en los Acuerdos aprobados por la Junta de Gobierno y publicados en el Diario Oficial.
+La persona Titular de la Dirección General podrá delegar las facultades a que se refiere el artículo 5 de esta Ley, así como las demás que considere convenientes para el logro de los objetivos y metas institucionales, en personas servidoras públicas subalternas, en los términos que se establezcan en los Acuerdos aprobados por la Junta de Gobierno y publicados en el Diario Oficial.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 10.
 
-La persona Titular de la Dirección General expedirá las reglas y especificaciones para la presentación de solicitudes en medios físicos o virtuales, así como los procedimientos, criterios, lineamientos y requisitos específicos para facilitar la operación del Instituto y garantizar la seguridad jurídica de los particulares, mediante Acuerdos publicados en el Diario Oficial.
+La persona titular de la Dirección General expedirá las reglas y especificaciones para la presentación de solicitudes en medios físicos o virtuales, así como los procedimientos, criterios, lineamientos y requisitos específicos para facilitar la operación del Instituto y garantizar la seguridad jurídica de las personas particulares, mediante Acuerdos publicados en el Diario Oficial.
 
-En el caso de los medios virtuales establecerá las reglas para la gestión de trámites y la conservación de derechos de propiedad industrial a través de medios de comunicación electrónica, incluyendo aquéllas relacionadas con su obligatoriedad para determinados trámites o servicios y el uso de la firma electrónica avanzada o cualquier otro medio de identificación de los particulares que el Instituto reconozca.
+En el caso de los medios virtuales establecerá las reglas para la gestión de trámites y la conservación de derechos de propiedad industrial a través de medios de comunicación electrónica, incluyendo aquéllas relacionadas con su obligatoriedad para determinados trámites o servicios y el uso de la firma electrónica avanzada o cualquier otro medio de identificación de las personas particulares que el Instituto reconozca.
 
 ###### Artículo 11.
 
@@ -244,9 +296,11 @@ Toda solicitud o promoción dirigida al Instituto, con motivo de lo dispuesto en
 
 En el caso de los procedimientos de declaración administrativa, bastará con la exhibición de la traducción de la parte conducente que se pretenda acreditar con la misma.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 14.
 
-Las solicitudes o promociones deberán ser firmadas por el interesado o su representante legal y, en su caso, estar acompañadas del comprobante de pago de la tarifa correspondiente.
+Las solicitudes o promociones deberán ser firmadas por la persona interesada o su representante legal y, en su caso, estar acompañadas del comprobante de pago de la tarifa correspondiente.
 
 La falta de firma de la solicitud o promoción producirá su desechamiento de plano.
 
@@ -254,13 +308,17 @@ La falta de firma de la solicitud o promoción producirá su desechamiento de pl
 
 Para efectos de esta Ley, los documentos presentados a través de medios de comunicación electrónica producirán los mismos efectos que las leyes otorgan a los documentos firmados autógrafamente y tendrán su mismo valor probatorio.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 16.
 
-Ante la falta de pago de las tarifas que correspondan el Instituto requerirá al solicitante, por única ocasión, para que exhiba el comprobante respectivo en un plazo de cinco días. En caso de no cumplir con el requerimiento dentro del plazo señalado, la solicitud o promoción será desechada de plano.
+Ante la falta de pago de las tarifas que correspondan el Instituto requerirá a la persona solicitante, por única ocasión, para que exhiba el comprobante respectivo en un plazo de cinco días. En caso de no cumplir con el requerimiento dentro del plazo señalado, la solicitud o promoción será desechada de plano.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 17.
 
-En toda solicitud el promovente deberá señalar domicilio para oír y recibir notificaciones dentro del territorio nacional, así como un correo electrónico.
+En toda solicitud la persona promovente deberá señalar domicilio para oír y recibir notificaciones dentro del territorio nacional, así como un correo electrónico.
 
 Cualquier cambio en el domicilio para oír y recibir notificaciones o en el correo electrónico deberá ser comunicado al Instituto. En caso de que no se dé aviso, las notificaciones que se practiquen se tendrán por legalmente realizadas en el domicilio que aparezca en el expediente.
 
@@ -282,9 +340,11 @@ El Instituto tomará las medidas necesarias para evitar la divulgación de la so
 
 Las notificaciones en los procedimientos de declaración administrativa previstos en el Título Sexto de esta Ley se practicarán conforme a lo establecido en el Capítulo III de dicho Título.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 20.
 
-Cuando se efectúe una notificación por Gaceta se enviará un aviso informativo al solicitante, en la misma fecha de su publicación.
+Cuando se efectúe una notificación por Gaceta se enviará un aviso informativo a la persona solicitante, en la misma fecha de su publicación.
 
 Las notificaciones se entenderán realizadas con su sola publicación en la Gaceta, con independencia del envío y recepción del aviso al que se refiere el presente artículo.
 
@@ -308,47 +368,69 @@ La publicidad se hará efectiva mediante la consulta directa a sus archivos o a 
 
 Los expedientes de patentes y registros en vigor, así como los relativos a nombres comerciales publicados, denominaciones de origen e indicaciones geográficas, estarán abiertos para todo tipo de consultas y promociones, salvo que éstos contengan secretos industriales o información confidencial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 24.
 
-Los expedientes de las solicitudes de patente, de registro de modelo de utilidad y de registro de diseño industrial no publicadas en la Gaceta solo podrán ser consultados por el solicitante o su representante legal, o personas autorizadas por el mismo, excepto cuando dichos expedientes sean citados a otro solicitante o cuando se ofrezcan como prueba en un procedimiento de declaración administrativa, debiendo observarse las medidas necesarias para preservar su confidencialidad.
+Los expedientes de las solicitudes de patente, de registro de modelo de utilidad y de registro de diseño industrial no publicadas en la Gaceta solo podrán ser consultados por la persona solicitante o su representante legal, o personas autorizadas por ella, excepto cuando dichos expedientes sean citados a otra persona solicitante o cuando se ofrezcan como prueba en un procedimiento de declaración administrativa, debiendo observarse las medidas necesarias para preservar su confidencialidad.
 
 Se exceptúa de lo anterior a la información que sea de carácter oficial o la requerida por la autoridad judicial.
 
-El personal del Instituto que intervenga en los diversos trámites que procedan conforme a esta Ley y su Reglamento, estará obligado a guardar absoluta reserva respecto del contenido de los expedientes en trámite que no hayan sido publicados. De lo contrario se le sancionará conforme a la normatividad aplicable en materia de responsabilidades administrativas de los servidores públicos, independientemente de las penas que correspondan en su caso. Igual obligación tendrá el personal de organismos públicos o privados que pudieran conocer dicho contenido en apoyo al Instituto en el ejercicio de sus funciones.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+El personal del Instituto que intervenga en los diversos trámites que procedan conforme a esta Ley y su Reglamento, está obligado a guardar absoluta reserva respecto del contenido de los expedientes en trámite que no hayan sido publicados. De lo contrario se le sancionará conforme a la normatividad aplicable en materia de responsabilidades administrativas de las personas servidoras públicas, independientemente de las penas que correspondan en su caso. Igual obligación tendrá el personal de organismos públicos o privados que pudieran conocer dicho contenido en apoyo al Instituto en el ejercicio de sus funciones.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 25.
 
-En el caso de aquellas solicitudes que se presenten de manera física y únicamente para efectos de la interoperabilidad gubernamental de la Administración Pública Federal, al momento de presentar una solicitud se deberá proporcionar la Clave Única del Registro de Población (CURP) del solicitante, si se trata de una persona física o, el Registro Federal de Contribuyentes (RFC), en el caso de una persona moral. La omisión de dicha información no afectará el trámite de la solicitud o promoción presentada.
+En el caso de aquellas solicitudes que se presenten de manera física y únicamente para efectos de la interoperabilidad gubernamental de la Administración Pública Federal, al momento de presentar una solicitud se deberá proporcionar la Clave Única del Registro de Población (CURP) de la persona solicitante, si se trata de una persona física o, el Registro Federal de Contribuyentes (RFC), en el caso de una persona moral. La omisión de dicha información no afectará el trámite de la solicitud o promoción presentada.
 
 ### Capítulo III. De la Representación y del Registro General de Poderes
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 26.
 
-Cuando una solicitud o promoción sea presentada por varias personas, se deberá designar en el escrito quién de ellos será el representante común. De no hacerse esto, se entenderá que el representante común es la primera persona de las nombradas.
+Cuando una solicitud o promoción sea presentada por varias personas, se deberá designar en el escrito quién de ellas será la persona representante común. De no hacerse esto, se entenderá que la persona representante común es la primera persona de las nombradas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 27.
 
-Cuando las solicitudes o promociones se presenten por conducto de representante legal, éste deberá acreditar su personalidad:
+Cuando las solicitudes o promociones se presenten por conducto de la persona representante legal, ésta deberá acreditar su personalidad:
 
-I.- Mediante carta poder simple suscrita ante dos testigos, en México o en el extranjero, si el mandante es persona física nacional o extranjera;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-II.- Mediante carta poder simple suscrita ante dos testigos, en México o en el extranjero, cuando en el caso de personas morales nacionales o extranjeras, se trate de solicitudes de patentes, de registros, de publicaciones, de oposiciones, de conservación de derechos, de declaración de uso o de inscripción de licencias o de transmisiones.
+I.- Mediante carta poder simple suscrita ante dos personas testigos, en México o en el extranjero, si la mandante es persona física nacional o extranjera;
 
-En este caso, en la carta poder deberá manifestarse que quien la otorga cuenta con facultades para ello y citarse el instrumento en el que consten dichas facultades.
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-La carta poder a que se refieren las fracciones I y II anteriores, deberá contener el nombre y firma de los testigos;
+II.- Mediante carta poder simple suscrita ante dos personas testigos, en México o en el extranjero, cuando en el caso de personas morales nacionales o extranjeras, se trate de solicitudes de patentes, de registros, de publicaciones, de oposiciones, de conservación de derechos, de declaración de uso o de inscripción de licencias o de transmisiones.
 
-III.- En los casos no comprendidos en la fracción II, mediante instrumento público o carta poder con ratificación de firmas ante notario o corredor, cuando se trate de persona moral nacional, debiendo acreditarse la legal existencia de ésta y las facultades del otorgante;
+En este caso, en la carta poder deberá manifestarse que quien la otorga cuenta con facultades para ello y citarse el instrumento en el que consten dichas facultades. En caso de existir duda fundada respecto al instrumento señalado, el Instituto podrá requerir se presente el documento en donde consten dichas facultades.
 
-IV.- En los casos no comprendidos en la fracción II, mediante poder otorgado conforme a la legislación aplicable del país en donde éste se otorgue o de acuerdo a los Tratados Internacionales, en caso de que el mandante sea una persona moral extranjera. Se presumirá la validez del poder, salvo prueba en contrario, y
+La carta poder a que se refieren las fracciones I y II de este artículo, deberá contener el nombre y firma de las personas testigos;
 
-V.- Mediante la manifestación bajo protesta de decir verdad del representante de contar con facultades suficientes para actuar, siempre y cuando se trate de la misma persona desde el inicio hasta la conclusión del trámite y dicha manifestación conste en la solicitud o promoción respectiva, únicamente en los trámites:
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+III.- En los casos no comprendidos en la fracción II de este artículo, mediante instrumento público o carta poder con ratificación de firmas ante persona notaria o corredora, cuando se trate de persona moral nacional, debiendo acreditarse la legal existencia de ésta y las facultades de la otorgante;
+
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+IV.- En los casos no comprendidos en la fracción II de este artículo, mediante poder otorgado conforme a la legislación aplicable del país en donde éste se otorgue o de acuerdo a los Tratados Internacionales, en caso de que la persona mandante sea una persona moral extranjera. Se presumirá la validez del poder, salvo prueba en contrario, y
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 3 DE ABRIL DE 2026)</small>
+
+V.- Mediante la manifestación bajo protesta de decir verdad de la persona representante de contar con facultades suficientes para actuar, siempre y cuando se trate de la misma persona desde el inicio hasta la conclusión del trámite y dicha manifestación conste en la solicitud o promoción respectiva, únicamente en los trámites:
 
 a) Que se deriven del Título Cuarto de esta Ley, excepto cuando se trate de una solicitud de limitación de productos o servicios o la de cancelación voluntaria de un registro o publicación, en cuyo caso será necesario exhibir un poder, general o especial, para actos de dominio y cuando se presente una oposición a un registro o publicación, en donde deberá exhibirse un instrumento público o carta poder, o
 
 b) Que se relacionen con las solicitudes de información tecnológica.
 
-En estos casos se presumirá la validez de dicha representación, salvo prueba en contrario. Si con posterioridad interviene un nuevo representante en el mismo trámite, éste deberá acreditar su personalidad en los términos de las fracciones I a IV del presente artículo.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+En estos casos se presumirá la validez de dicha representación, salvo prueba en contrario. Si con posterioridad interviene una nueva persona representante en el mismo trámite, ésta deberá acreditar su personalidad en los términos de las fracciones I a IV del presente artículo.
 
 ###### Artículo 28.
 
@@ -364,17 +446,23 @@ III.- Los poderes generales para actos de administración, en los casos no compr
 
 El Instituto tendrá a su cargo el Registro General de Poderes, en el que se inscribirán los poderes originales o su copia certificada. La inscripción en dicho Registro será opcional.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 30.
 
-En cada expediente que se tramite deberá acreditarse la personalidad del representante legal; sin embargo, bastará con indicar el número del registro, si el poder se encuentra inscrito en el Registro General de Poderes.
+En cada expediente que se tramite debe acreditarse la personalidad de la persona representante legal; sin embargo, bastará con indicar el número del registro, si el poder se encuentra inscrito en el Registro General de Poderes.
 
 ###### Artículo 31.
 
 La solicitud de inscripción deberá presentarse, cumpliendo con los siguientes requisitos:
 
-I.- El nombre del mandante;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-II.- El nombre del representante o representantes legales;
+I.- El nombre de la persona mandante;
+
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+II.- El nombre de la persona representante o personas representantes legales;
 
 III.- El original o copia certificada del poder a inscribir;
 
@@ -384,9 +472,11 @@ V.- El comprobante de pago de la tarifa correspondiente, y
 
 VI.- Los demás que prevengan esta Ley y su Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 32.
 
-Cuando la solicitud no cumpla con los requisitos señalados en las fracciones I a IV y VI del artículo anterior, el Instituto requerirá al solicitante para que dentro de un plazo de dos meses, subsane la omisión o haga las aclaraciones que correspondan. En caso de no cumplir con el requerimiento dentro del plazo señalado, la solicitud será desechada de plano.
+Cuando la solicitud no cumpla con los requisitos señalados en las fracciones I a IV y VI del artículo anterior, el Instituto requerirá a la persona solicitante para que dentro de un plazo de dos meses, subsane la omisión o haga las aclaraciones que correspondan. En caso de no cumplir con el requerimiento dentro del plazo señalado, la solicitud será desechada de plano.
 
 Si la omisión se relaciona con la fracción V del artículo anterior, se estará a lo dispuesto en el artículo 16 de esta Ley.
 
@@ -396,27 +486,37 @@ De resultar procedente la solicitud, el Instituto emitirá una constancia de ins
 
 I.- El número de registro;
 
-II.- El nombre del mandante, y
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-III.- El nombre del representante o representantes legales.
+II.- El nombre de la persona mandante, y
+
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+III.- El nombre de la persona representante o personas representantes legales.
 
 Se entenderá que el poder ha quedado inscrito a partir de la fecha en que haya sido presentada la solicitud.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 34.
 
-La inscripción en el Registro General de Poderes podrá cancelarse en cualquier tiempo, a petición del mandante, del representante legal o bien, cuando fenezca la vigencia del poder registrado. En este último caso, no se requerirá pronunciamiento por parte del Instituto.
+La inscripción en el Registro General de Poderes podrá cancelarse en cualquier tiempo, a petición de la persona mandante, de la persona representante legal o bien, cuando fenezca la vigencia del poder registrado. En este último caso, no se requerirá pronunciamiento por parte del Instituto.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 35.
 
-Los solicitantes que actúen por sí o a través de representante legal, podrán autorizar en sus solicitudes o promociones a otras personas físicas para oír y recibir notificaciones y documentos.
+Las personas solicitantes que actúen por sí o a través de una persona representante legal, podrán autorizar en sus solicitudes o promociones a otras personas físicas para oír y recibir notificaciones y documentos.
 
 ## TÍTULO SEGUNDO. De las Invenciones, Modelos de Utilidad, Diseños Industriales y Esquemas de Trazado de Circuitos Integrados
 
 ### Capítulo I. Disposiciones Preliminares
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 36.
 
-La persona física que realice una invención, modelo de utilidad, diseño industrial o esquema de trazado de circuito integrado o su causahabiente, tendrá el derecho exclusivo y temporal de explotación en su provecho, por sí o por otros con su consentimiento, de acuerdo con las disposiciones contenidas en esta Ley y su Reglamento.
+La persona física que realice una invención, modelo de utilidad, diseño industrial o esquema de trazado de circuito integrado o su causahabiente, tendrá el derecho exclusivo y temporal de explotación en su provecho, por sí o por otras personas con su consentimiento, de acuerdo con las disposiciones contenidas en esta Ley y su Reglamento.
 
 El derecho a que se refiere el párrafo anterior se otorgará a través de:
 
@@ -426,21 +526,27 @@ II.- Un registro en el caso de un modelo de utilidad, de un diseño industrial o
 
 III.- Un certificado complementario en el caso de que una patente cumpla con los requisitos previstos en el Capítulo VIII de este Título.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 37.
 
-Los titulares de patentes, de registros o de certificados complementarios podrán ser personas físicas o morales.
+Las personas titulares de patentes, de registros o de certificados complementarios podrán ser personas físicas o morales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 38.
 
-El derecho a obtener una patente o un registro pertenecerá al inventor, diseñador o creador, según sea el caso, sin perjuicio de lo dispuesto en el artículo 40 de esta Ley. Si la invención, el modelo de utilidad, el diseño industrial o el esquema de trazado de circuito integrado, hubiese sido realizado por dos o más personas conjuntamente, el derecho a obtener la patente o el registro les pertenecerá en común a todas ellas.
+El derecho a obtener una patente o un registro pertenecerá a la persona inventora, diseñadora o creadora, según sea el caso, sin perjuicio de lo dispuesto en el artículo 40 de esta Ley. Si la invención, el modelo de utilidad, el diseño industrial o el esquema de trazado de circuito integrado, hubiese sido realizado por dos o más personas conjuntamente, el derecho a obtener la patente o el registro les pertenecerá en común a todas ellas.
 
 Si varias personas hicieran la misma invención, modelo de utilidad, diseño industrial o esquema de trazado de circuito integrado, independientemente unas de otras, tendrá mejor derecho a obtener la patente o el registro aquélla que primero presente la solicitud respectiva o que reivindique la prioridad de fecha más antigua, siempre que la solicitud no sea retirada, abandonada ni negada.
 
 El derecho a obtener una patente o un registro podrá ser transferido por cualquier forma reconocida por la legislación común.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 39.
 
-Se presume inventor, diseñador o creador a la persona o personas físicas que se señalen como tales en la solicitud de patente o de registro, quienes tendrán el derecho a ser reconocidos con tal carácter.
+Se presume persona inventora, diseñadora o creadora a la persona o personas físicas que se señalen como tales en la solicitud de patente o de registro, quienes tendrán el derecho a ser reconocidas con tal carácter.
 
 El derecho a que se refiere el párrafo anterior es irrenunciable. Toda renuncia efectuada al mismo se tendrá por no hecha.
 
@@ -450,6 +556,16 @@ A las invenciones, modelos de utilidad, diseños industriales o esquemas de traz
 
 Las personas que laboren en instituciones de educación, Centros Públicos de Investigación o entidades públicas que realicen actividades de investigación científica, desarrollo tecnológico o innovación, gozarán además de los beneficios establecidos en la normatividad aplicable.
 
+> <small>(ADICIONADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+###### Artículo 40 Bis.
+
+Si una patente o registro hubiere sido concedido a quien no tuviere derecho a obtenerlo, la persona legitimada conforme a lo dispuesto en los artículos 38 o 40 de esta Ley, podrá reclamar la titularidad, sin perjuicio de cualesquiera otros derechos o acciones que puedan corresponderle.
+
+El reclamo de la titularidad podrá ejercerse en cualquier tiempo, a partir de la fecha en que surta efectos la publicación del otorgamiento de la patente o del registro en la Gaceta y siempre que la patente o registro se encuentre vigente, a través de una solicitud de declaración administrativa, presentada de conformidad con lo dispuesto en el Título Sexto de esta Ley.
+
+En caso de que la resolución establezca la titularidad a favor de la persona reclamante, el Instituto ordenará la reexpedición del título, en donde se asentará el nombre y domicilio de la persona legítima titular del derecho y procederá a su publicación en la Gaceta, de conformidad con el artículo 120 de esta Ley.
+
 ###### Artículo 41.
 
 Quien haya presentado una primera solicitud de patente o registro en México o en el extranjero, o su causahabiente, gozará de un derecho de prioridad para la presentación de una o más solicitudes en México relacionadas con la misma invención, modelo de utilidad o diseño industrial, siempre que éstas se presenten dentro del plazo de doce meses en el caso de invenciones y modelos de utilidad, o de seis meses cuando se trate de diseños industriales, contados a partir de la fecha de presentación de la primera solicitud.
@@ -458,19 +574,29 @@ La solicitud que se beneficie de un derecho de prioridad no podrá ser afectada,
 
 Este derecho solo amparará la materia contenida en la solicitud que se reclame como prioridad. Si se reclamaran derechos adicionales, el reconocimiento será solo parcial y referido a esa solicitud.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 42.
 
-Para reclamar el derecho de prioridad, el solicitante deberá:
+Para reclamar el derecho de prioridad, la persona solicitante deberá:
 
 I.- Hacer constar en la solicitud en México, el país de origen de la prioridad, su fecha de presentación y número de la solicitud en ese país, y
 
 II.- Exhibir una copia certificada de la prioridad reclamada y, en su caso, la traducción al español, a más tardar dentro del plazo de tres meses contados a partir de la presentación de la solicitud en México.
 
-De no cumplir los requisitos previstos por este artículo, el derecho de prioridad se tendrá como no reclamado.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-El solicitante podrá retirar un reclamo de prioridad efectuado en una solicitud internacional, en cualquier momento antes del vencimiento del plazo de treinta meses desde la fecha de prioridad, en términos de lo previsto por el Reglamento del Tratado de Cooperación en materia de Patentes. Lo anterior no constituirá la ampliación de un plazo que haya vencido, incluyendo el de la entrada en fase nacional de dicha solicitud.
+De no cumplir los requisitos previstos por este artículo, el derecho de prioridad se tendrá como no reclamado, con excepción de lo dispuesto en el artículo 106, párrafo tercero, de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+La persona solicitante podrá retirar un reclamo de prioridad efectuado en una solicitud internacional, en cualquier momento antes del vencimiento del plazo de treinta meses desde la fecha de prioridad, en términos de lo previsto por el Reglamento del Tratado de Cooperación en materia de Patentes. Lo anterior no constituirá la ampliación de un plazo que haya vencido, incluyendo el de la entrada en fase nacional de dicha solicitud.
 
 La persona Titular de la Dirección General establecerá mediante Acuerdo las condiciones o supuestos en los cuales no será necesaria la exhibición de la copia certificada de la prioridad reclamada.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Si la fecha de recepción de la solicitud en donde se reclama un derecho de prioridad es posterior a los plazos señalados en el artículo 41 de esta Ley, la persona solicitante podrá requerir la restauración de un derecho de prioridad dentro de los dos meses siguientes a la expiración del plazo establecido acompañado del comprobante de pago de la tarifa correspondiente y la documentación señalada en las fracciones I y II del presente artículo.
 
 ###### Artículo 43.
 
@@ -500,9 +626,11 @@ V.- Reivindicación, la materia cuya protección se reclama de manera precisa y 
 
 VI.- Características técnicas esenciales, aquéllas necesarias para que la invención resuelva el problema técnico.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 46.
 
-Se considera invención toda creación humana que permita transformar la materia o la energía que existe en la naturaleza, para su aprovechamiento por el hombre y satisfacer sus necesidades concretas.
+Se considera invención toda creación humana que permita transformar la materia o la energía que existe en la naturaleza, para su aprovechamiento por el ser humano y satisfacer sus necesidades concretas.
 
 ###### Artículo 47.
 
@@ -522,9 +650,13 @@ VI.- Las formas de presentar información;
 
 VII.- El material biológico y genético, tal como se encuentra en la naturaleza, y
 
-VIII.- La yuxtaposición de invenciones conocidas o combinación de productos conocidos, salvo que se trate de su combinación o fusión que no pueda funcionar separadamente o que las cualidades o funciones características de las mismas sean modificadas para obtener un resultado industrial o un uso no obvio para un técnico en la materia.
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-No se considerará invención la materia prevista en las fracciones I a VIII anteriores, cuando en la solicitud exclusivamente se reclame ésta como talo (sic) en sí misma.
+VIII.- La yuxtaposición de invenciones conocidas o combinación de productos conocidos, salvo que se trate de su combinación o fusión que no pueda funcionar separadamente o que las cualidades o funciones características de las mismas sean modificadas para obtener un resultado industrial o un uso no obvio para una persona técnica en la materia.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+No se considerará invención la materia prevista en las fracciones I a VIII de este artículo, cuando en la solicitud exclusivamente se reclame ésta como tal, o en sí misma.
 
 ###### Artículo 48.
 
@@ -542,7 +674,9 @@ b) Los procedimientos de modificación de la identidad genética germinal del se
 
 c) Las utilizaciones de embriones humanos con fines industriales o comerciales, o
 
-d) Los procedimientos de modificación de la identidad genética de los animales, que supongan para éstos sufrimientos sin utilidad médica o veterinaria sustancial para el hombre o el animal, y los animales resultantes de dichos procedimientos;
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+d) Los procedimientos de modificación de la identidad genética de los animales, que supongan para éstos sufrimientos sin utilidad médica o veterinaria sustancial para el ser humano o el animal, y los animales resultantes de dichos procedimientos;
 
 II.- Las variedades vegetales y las razas animales, salvo en el caso de microrganismos;
 
@@ -570,13 +704,15 @@ Además, para determinar si la invención es nueva, estarán incluidas en el est
 
 No quedará comprendido como parte del estado de la técnica, el contenido de dichas solicitudes cuando éstas hayan sido desechadas, retiradas, abandonadas o negadas, salvo que hubiesen sido objeto de publicación, conforme a esta Ley o a los Tratados Internacionales.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 52.
 
-No se considerará como parte del estado de la técnica para una solicitud, la divulgación de la materia que sea objeto de la misma, realizada por el inventor o su causahabiente de forma directa o indirectamente, o, en su caso, un tercero que haya obtenido dicha información de cualquiera de éstos, de forma directa o indirecta, y dentro de los doce meses previos a la fecha de presentación de la solicitud o, en su caso, de la prioridad reconocida.
+No se considerará como parte del estado de la técnica para una solicitud, la divulgación de la materia que sea objeto de ésta, realizada por la persona inventora o su causahabiente de forma directa o indirectamente, o, en su caso, una tercera persona que haya obtenido dicha información de cualquiera de éstos, de forma directa o indirecta, y dentro de los doce meses previos a la fecha de presentación de la solicitud o, en su caso, de la prioridad reconocida.
 
-La publicación en una solicitud, patente o registro efectuada por el Instituto u otra oficina extranjera de propiedad industrial no quedará incluida dentro de los supuestos a que se refiere el párrafo anterior, salvo que haya sido efectuada por un error atribuible a dichas autoridades o bien que la solicitud haya sido presentada por un tercero sin autorización, que obtuvo la información de forma directa o indirecta del inventor.
+La publicación en una solicitud, patente o registro efectuada por el Instituto u otra oficina extranjera de propiedad industrial no quedará incluida dentro de los supuestos a que se refiere el párrafo anterior, salvo que haya sido efectuada por un error atribuible a dichas autoridades o bien que la solicitud haya sido presentada por una tercera persona sin autorización, que obtuvo la información de forma directa o indirecta de la persona inventora.
 
-Para reconocer el derecho a que se refiere este artículo, el solicitante deberá cumplir con las condiciones que establezca el Reglamento de esta Ley.
+Para reconocer el derecho a que se refiere este artículo, la persona solicitante deberá cumplir con las condiciones que establezca el Reglamento de esta Ley.
 
 ###### Artículo 53.
 
@@ -596,17 +732,23 @@ Si la materia objeto de la patente es un proceso, la patente confiere el derecho
 
 El alcance de los derechos conferidos por una patente no podrá interpretarse más allá de la materia protegida y de lo dispuesto por esta Ley.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 56.
 
-El titular de la patente después de otorgada ésta, podrá reclamar el pago de daños y perjuicios a terceros que antes del otorgamiento hubieren explotado sin su consentimiento la invención patentada, cuando dicha explotación se haya realizado después de la fecha en que surta efectos la publicación de la solicitud en términos del artículo 107 de esta Ley.
+La persona titular de la patente después de otorgada ésta, podrá reclamar el pago de daños y perjuicios a terceras personas que antes del otorgamiento hubieren explotado sin su consentimiento la invención patentada, cuando dicha explotación se haya realizado después de la fecha en que surta efectos la publicación de la solicitud en términos del artículo 107 de esta Ley.
 
 ###### Artículo 57.
 
 El derecho que confiere una patente no producirá efecto alguno contra:
 
-I.- Un tercero que realice actividades de investigación científica o tecnológica puramente experimentales, de ensayo o de enseñanza, en el ámbito privado o académico y con fines no comerciales, y para ello fabrique, importe o utilice la invención patentada;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-II.- Un tercero que use, fabrique, ofrezca en venta o importe un producto con una patente vigente, exclusivamente para generar pruebas, información y producción experimental necesarias para la obtención de registros sanitarios de medicamentos para la salud humana;
+I.- Una tercera persona que realice actividades de investigación científica o tecnológica puramente experimentales, de ensayo o de enseñanza, en el ámbito privado o académico y con fines no comerciales, y para ello fabrique, importe o utilice la invención patentada;
+
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+II.- Una tercera persona que use, fabrique, ofrezca en venta o importe un producto con una patente vigente, exclusivamente para generar pruebas, información y producción experimental necesarias para la obtención de registros sanitarios de medicamentos para la salud humana;
 
 III.- Cualquier persona que comercialice, adquiera o use la invención patentada, luego de que la invención hubiera sido introducida lícitamente en el comercio en México;
 
@@ -614,11 +756,17 @@ IV.- Cualquier persona que hubiere iniciado el uso o fabricación de la invenci�
 
 V.- El empleo de la invención en vehículos de transporte de otros países que formen parte de ellos, cuando éstos se encuentren en tránsito en territorio nacional;
 
-VI.- Un tercero que, en el caso de patentes relacionadas con materia viva, utilice la invención patentada como fuente inicial de variación o propagación para obtener otros productos, salvo que dicha utilización se realice en forma reiterada;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-VII.- Un tercero que, en el caso de patentes relacionadas con productos que consistan en materia viva, utilice, ponga en circulación o comercialice la invención patentada, para fines que no sean de multiplicación o propagación, después de que ésta haya sido introducida lícitamente en el comercio por el titular de la patente, o la persona que tenga concedida una licencia;
+VI.- Una tercera persona que, en el caso de patentes relacionadas con materia viva, utilice la invención patentada como fuente inicial de variación o propagación para obtener otros productos, salvo que dicha utilización se realice en forma reiterada;
 
-VIII.- Un tercero que utilice la invención patentada o haya realizado los preparativos necesarios para tal fin, durante el periodo de rehabilitación a que se refiere el artículo 161 de esta Ley, y
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+VII.- Una tercera persona que, en el caso de patentes relacionadas con productos que consistan en materia viva, utilice, ponga en circulación o comercialice la invención patentada, para fines que no sean de multiplicación o propagación, después de que ésta haya sido introducida lícitamente en el comercio por la persona titular de la patente, o la persona que tenga concedida una licencia, y
+
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+VIII.- Una tercera persona que utilice la invención patentada o haya realizado los preparativos necesarios para tal fin, durante el periodo de rehabilitación a que se refiere el artículo 161 de esta Ley.
 
 La realización de cualquier actividad contemplada en el presente artículo no constituirá infracción administrativa o delito en los términos de esta Ley.
 
@@ -632,9 +780,11 @@ Serán registrables los modelos de utilidad que sean nuevos y susceptibles de ap
 
 Se consideran modelos de utilidad los objetos, utensilios, aparatos o herramientas que, como resultado de una modificación en su disposición, configuración, estructura o forma, presenten una función diferente respecto de las partes que lo integran o ventajas en cuanto a su utilidad.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 60.
 
-Para la tramitación del registro de un modelo de utilidad se aplicarán, en lo conducente, las reglas contenidas en los Capítulos II y VI del presente Título, a excepción de los artículos 53, 98, 107 y 109 de esta Ley.
+Para la tramitación del registro de un modelo de utilidad se aplicarán, en lo conducente, las reglas contenidas en los Capítulos II y VI del presente Título, a excepción de los artículos 53, 98 y 107 de esta Ley.
 
 ###### Artículo 61.
 
@@ -648,9 +798,11 @@ El registro de los modelos de utilidad tendrá una vigencia de quince años impr
 
 El derecho exclusivo de explotación del modelo de utilidad protegido confiere a su titular el derecho de impedir a otras personas que fabriquen, usen, vendan, ofrezcan en venta o importen el mismo, sin su consentimiento.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 64.
 
-La explotación del modelo de utilidad y las limitaciones del derecho que confiere su registro al titular se regirán, en lo conducente, por lo dispuesto en los artículos 54, 55 último párrafo, 56 y 57 de esta Ley.
+La explotación del modelo de utilidad y las limitaciones del derecho que confiere su registro a la persona titular se regirán, en lo conducente, por lo dispuesto en los artículos 54, 55 último párrafo, 56 y 57 de esta Ley.
 
 ### Capítulo IV. De los Diseños Industriales
 
@@ -672,13 +824,19 @@ Para efectos del presente Capítulo se entenderá por:
 
 I.- Nuevo, el diseño que sea de creación independiente y difiera en grado significativo, de diseños conocidos o de combinaciones de características conocidas de diseños;
 
-II.- Creación independiente, cuando ningún otro diseño industrial idéntico haya sido hecho público antes de la fecha de presentación de la solicitud de registro, o antes de la fecha de la prioridad reconocida. Se considerarán idénticos los diseños industriales cuyas características difieran solo en detalles irrelevantes, y
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-III.- Grado significativo, la impresión general que el diseño industrial produce en un técnico en la materia y que difiera de la impresión general producida por cualquier otro diseño industrial, que se haya hecho público antes de la fecha de presentación de la solicitud de registro o antes de la fecha de prioridad reconocida, considerando el grado de libertad del diseñador para la creación del diseño industrial.
+II.- Creación independiente, cuando ningún otro diseño industrial idéntico haya sido hecho público antes de la fecha y hora de presentación de la solicitud de registro, o antes de la fecha de la prioridad reconocida. Se considerarán idénticos los diseños industriales cuyas características difieran solo en detalles irrelevantes, y
+
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+III.- Grado significativo, la impresión general que el diseño industrial produce en una persona técnica en la materia y que difiera de la impresión general producida por cualquier otro diseño industrial, que se haya hecho público antes de la fecha y hora de presentación de la solicitud de registro o antes de la fecha de prioridad reconocida, considerando el grado de libertad de la persona diseñadora para la creación del diseño industrial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 68.
 
-La protección conferida a un diseño industrial no comprenderá los elementos o características que estuviesen dictados únicamente por consideraciones de orden técnico o por la realización de una función técnica, y que no incorporan ningún aporte arbitrario del diseñador; ni aquellos elementos o características cuya reproducción exacta fuese necesaria para permitir que el producto que incorpora el diseño sea montado mecánicamente o conectado con otro producto del cual constituya una parte o pieza integrante.
+La protección conferida a un diseño industrial no comprenderá los elementos o características que estuviesen dictados únicamente por consideraciones de orden técnico o por la realización de una función técnica, y que no incorporan ningún aporte arbitrario de la persona diseñadora; ni aquellos elementos o características cuya reproducción exacta fuese necesaria para permitir que el producto que incorpora el diseño sea montado mecánicamente o conectado con otro producto del cual constituya una parte o pieza integrante.
 
 No se protegerá un diseño industrial cuando su aspecto comprenda únicamente los elementos o características a los que se refiere el párrafo anterior.
 
@@ -688,9 +846,13 @@ Será registrable el diseño industrial contenido en una parte de un producto o 
 
 Las solicitudes de registro de diseños industriales deberán contener:
 
-I.- El nombre, nacionalidad, domicilio y correo electrónico del solicitante;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-II.- El nombre y domicilio del diseñador, cuando éste no sea el solicitante;
+I.- El nombre, nacionalidad, domicilio y correo electrónico de la persona solicitante;
+
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+II.- El nombre y domicilio de la persona diseñadora, cuando ésta no sea la persona solicitante;
 
 III.- La denominación del diseño que deberá ser breve, precisa y contener la indicación del producto para el cual se utilizará;
 
@@ -742,9 +904,11 @@ El Instituto reconocerá como fecha de presentación de una solicitud de registr
 
 En el caso de que a la fecha en la que se recibió la solicitud ésta no cumpla con los requisitos señalados en el párrafo anterior, se tendrá como fecha de presentación aquélla en la que se dé el cumplimiento correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 74.
 
-Para reconocer la prioridad a que se refiere el artículo 41 de esta Ley, en una solicitud de registro de diseño industrial, el solicitante deberá satisfacer los requisitos siguientes:
+Para reconocer la prioridad a que se refiere el artículo 41 de esta Ley, en una solicitud de registro de diseño industrial, la persona solicitante deberá satisfacer los requisitos siguientes:
 
 I.- Señalar el número de la solicitud presentada en el país de origen, cuando se conozca o esté disponible, cuya fecha de presentación se reclame como fecha de prioridad, y
 
@@ -760,9 +924,11 @@ Para el reconocimiento del derecho de prioridad en las solicitudes de registro d
 
 Cuando la impresión general que provoquen las características objeto de la solicitud presentada en el país de origen, difiera de la que provoque el diseño presentado en México, se considerará que se trata de diseños distintos, por lo que no se reconocerá el derecho de prioridad reclamado.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 76.
 
-Para la tramitación del registro de un diseño industrial se aplicarán, en lo conducente, las disposiciones contenidas en los Capítulos II y VI del presente Título, a excepción de los artículos 46, 53, 54, 98, 107 y 109 de esta Ley.
+Para la tramitación del registro de un diseño industrial se aplicarán, en lo conducente, las disposiciones contenidas en los Capítulos II y VI del presente Título, a excepción de los artículos 46, 53, 54, 98 y 107 de esta Ley.
 
 ###### Artículo 77.
 
@@ -774,9 +940,15 @@ El registro de los diseños industriales tendrá una vigencia de cinco años, a 
 
 Los registros de diseños industriales y sus renovaciones deberán ser publicados en la Gaceta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 79.
 
-La renovación del registro de un diseño industrial deberá solicitarse por el titular dentro de los seis meses anteriores al vencimiento de su vigencia. Sin embargo, el Instituto dará trámite a aquellas solicitudes que se presenten dentro del plazo de gracia al que hace referencia la fracción II del artículo 160 de esta Ley.
+La renovación del registro de un diseño industrial deberá solicitarse por la persona titular dentro de los seis meses anteriores al vencimiento de su vigencia. Sin embargo, el Instituto dará trámite a aquellas solicitudes que se presenten dentro del plazo de gracia al que hace referencia la fracción II del artículo 160 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+El Instituto deberá resolver respecto de la renovación del registro de un diseño industrial, en un plazo máximo de dos meses contados a partir de la fecha de presentación de la solicitud o, en su caso, de la fecha en que se subsane el último requerimiento realizado por el Instituto.
 
 ###### Artículo 80.
 
@@ -786,17 +958,21 @@ El derecho conferido por un registro de diseño industrial estará determinado p
 
 El derecho exclusivo de explotación del diseño industrial protegido confiere a su titular el derecho de impedir a otras personas que fabriquen, usen, vendan, ofrezcan en venta o importen el producto al que se le incorpore el diseño industrial amparado por un registro o una copia sustancial del mismo, sin su consentimiento.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 82.
 
-La explotación de los diseños industriales y la limitación de los derechos que confiere su registro al titular se regirán, en lo conducente, por lo dispuesto en el artículo 55 último párrafo, 56 y 57 de esta Ley.
+La explotación de los diseños industriales y la limitación de los derechos que confiere su registro a la persona titular se regirán, en lo conducente, por lo dispuesto en los artículos 55 último párrafo, 56 y 57 de esta Ley.
 
 ### Capítulo V. De los Esquemas de Trazado de Circuitos Integrados
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 83.
 
-Será registrable el esquema de trazado original, incorporado o no a un circuito integrado, que no haya sido explotado comercialmente en cualquier parte del mundo. También será registrable aun cuando éste haya sido explotado comercialmente, de manera ordinaria, en México o en el extranjero, siempre que la solicitud de registro se haya presentado ante el Instituto, dentro de los dos años siguientes a la fecha en que fue explotado comercialmente, en forma ordinaria y por primera vez, por el solicitante.
+Será registrable el esquema de trazado original, incorporado o no a un circuito integrado, que no haya sido explotado comercialmente en cualquier parte del mundo. También será registrable aun cuando éste haya sido explotado comercialmente, de manera ordinaria, en México o en el extranjero, siempre que la solicitud de registro se haya presentado ante el Instituto, dentro de los dos años siguientes a la fecha en que fue explotado comercialmente, en forma ordinaria y por primera vez, por la persona solicitante.
 
-Solo será registrable el esquema de trazado que consista en una combinación de elementos o interconexiones que sean habituales o comunes, entre los creadores de esquemas de trazado o los fabricantes de circuitos integrados, si la combinación en su conjunto se considera original en los términos de la fracción IV del artículo 84 de esta Ley y satisfaga las condiciones señaladas en el párrafo anterior, respecto de su comercialización.
+Solo será registrable el esquema de trazado que consista en una combinación de elementos o interconexiones que sean habituales o comunes, entre las personas creadoras de esquemas de trazado o las personas fabricantes de circuitos integrados, si la combinación en su conjunto se considera original en los términos de la fracción IV del artículo 84 de esta Ley y satisfaga las condiciones señaladas en el párrafo anterior, respecto de su comercialización.
 
 ###### Artículo 84.
 
@@ -808,7 +984,9 @@ II.- Esquema de trazado o topografía: la disposición tridimensional expresada 
 
 III.- Esquema de trazado protegido: el esquema de trazado de circuito integrado que haya cumplido las condiciones de protección previstas en el presente Capítulo, y
 
-IV.- Esquema de trazado original: el esquema de trazado de circuito integrado que sea el resultado del esfuerzo intelectual de su creador y no sea habitual o común entre los creadores de esquemas de trazado o los fabricantes de circuitos integrados, al momento de su creación.
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+IV.- Esquema de trazado original: el esquema de trazado de circuito integrado que sea el resultado del esfuerzo intelectual de su persona creadora y no sea habitual o común entre las personas creadoras de esquemas de trazado o las personas fabricantes de circuitos integrados, al momento de su creación.
 
 ###### Artículo 85.
 
@@ -824,7 +1002,9 @@ IV.- La reivindicación de la denominación del esquema de trazado seguido de la
 
 V.- Una reproducción gráfica o fotográfica del esquema de trazado.
 
-El solicitante podrá excluir las partes de la reproducción gráfica o fotográfica relativas a la forma de fabricación del circuito integrado, siempre y cuando las partes presentadas sean suficientes para permitir la identificación del esquema de trazado.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+La persona solicitante podrá excluir las partes de la reproducción gráfica o fotográfica relativas a la forma de fabricación del circuito integrado, siempre y cuando las partes presentadas sean suficientes para permitir la identificación del esquema de trazado.
 
 ###### Artículo 86.
 
@@ -848,23 +1028,33 @@ b) Un circuito integrado en el que se incorpore un esquema de trazado protegido,
 
 c) Un bien que incorpore un circuito integrado que, a su vez, incorpore un esquema de trazado protegido reproducido ilícitamente.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 89.
 
-El titular del registro de un esquema de trazado podrá reclamar el pago de daños y perjuicios a un tercero que, antes de su otorgamiento, haya explotado sin su consentimiento dicho esquema de trazado, siempre y cuando la explotación se haya realizado con posterioridad a la fecha de presentación de la solicitud de registro y el esquema de trazado protegido o el circuito integrado al que éste se incorpore, ostente las siglas “M” o “T”, acompañado del nombre del titular, en forma completa o abreviada, o como éste sea generalmente conocido.
+La persona titular del registro de un esquema de trazado podrá reclamar el pago de daños y perjuicios a una tercera persona que, antes de su otorgamiento, haya explotado sin su consentimiento dicho esquema de trazado, siempre y cuando la explotación se haya realizado con posterioridad a la fecha de presentación de la solicitud de registro y el esquema de trazado protegido o el circuito integrado al que éste se incorpore, ostente las siglas “M” o “T”, acompañado del nombre de la persona titular, en forma completa o abreviada, o como ésta sea generalmente conocida.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 90.
 
-El registro de un esquema de trazado no producirá efecto alguno en contra de cualquier tercero que:
+El registro de un esquema de trazado no producirá efecto alguno en contra de cualquier tercera persona que:
 
-I.- Sin autorización del titular, con propósitos privados o con el único objetivo de evaluación, análisis, investigación o enseñanza, reproduzca un esquema de trazado protegido;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+I.- Sin autorización de la persona titular, con propósitos privados o con el único objetivo de evaluación, análisis, investigación o enseñanza, reproduzca un esquema de trazado protegido;
 
 II.- Cree un esquema de trazado que cumpla con la exigencia de originalidad, sobre la base de la evaluación o el análisis de un esquema de trazado protegido, en los términos de la fracción I de este artículo.
 
-El creador del segundo esquema de trazado podrá llevar a cabo cualquiera de los actos a que se refiere el artículo 88 de esta Ley, respecto del esquema de trazado por él creado, sin la autorización del titular del primer esquema de trazado protegido;
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+La persona creadora del segundo esquema de trazado podrá llevar a cabo cualquiera de los actos a que se refiere el artículo 88 de esta Ley, respecto del esquema de trazado por ella creado, sin la autorización de la persona titular del primer esquema de trazado protegido;
 
 III.- En forma independiente y con anterioridad a la publicación del registro en la Gaceta, haya creado un esquema de trazado original idéntico al esquema de trazado protegido. Quien trate de prevalerse de esta excepción en un procedimiento de declaración administrativa de infracción, tendrá la carga de la prueba;
 
-IV.- Realice cualquiera de los actos a que se refiere la fracción II del artículo 88 de esta Ley, sin la autorización del titular, después de que hayan sido introducidos lícitamente en el comercio, en México o en cualquier parte del mundo, por el titular o con su consentimiento, respecto de:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 3 DE ABRIL DE 2026)</small>
+
+IV.- Realice cualquiera de los actos a que se refiere la fracción II del artículo 88 de esta Ley, sin la autorización de la persona titular, después de que hayan sido introducidos lícitamente en el comercio, en México o en cualquier parte del mundo, por la persona titular o con su consentimiento, respecto de:
 
 a) Un esquema de trazado protegido;
 
@@ -872,9 +1062,13 @@ b) Un circuito integrado que incorpore un esquema de trazado protegido, o
 
 c) Un bien que incorpore un circuito integrado que, a su vez, incorpore un esquema de trazado protegido, y
 
-V.- Sin autorización del titular, venda o distribuya, en cualquier forma, un circuito integrado que incorpore un esquema de trazado protegido reproducido ilícitamente, siempre y cuando, la persona que realice u ordene tales actos no sepa y no tuviere motivos razonables para saber, al adquirir dicho circuito, que éste incorpora un esquema de trazado protegido reproducido ilícitamente.
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-El tercero de buena fe estará obligado al pago de una regalía razonable, similar a la que correspondería bajo una licencia libremente negociada, a partir del momento en que reciba aviso suficiente de que el esquema de trazado protegido fue reproducido ilícitamente, para agotar el inventario existente o los pedidos hechos con anterioridad a la notificación del aviso.
+V.- Sin autorización de la persona titular, venda o distribuya, en cualquier forma, un circuito integrado que incorpore un esquema de trazado protegido reproducido ilícitamente, siempre y cuando, la persona que realice u ordene tales actos no sepa y no tuviere motivos razonables para saber, al adquirir dicho circuito, que ésta incorpora un esquema de trazado protegido reproducido ilícitamente.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+La tercera persona de buena fe estará obligada al pago de una regalía razonable, similar a la que correspondería bajo una licencia libremente negociada, a partir del momento en que reciba aviso suficiente de que el esquema de trazado protegido fue reproducido ilícitamente, para agotar el inventario existente o los pedidos hechos con anterioridad a la notificación del aviso.
 
 La realización de cualquier actividad contemplada en el presente artículo no constituirá infracción administrativa o delito en los términos de esta Ley.
 
@@ -886,9 +1080,11 @@ Para obtener una patente deberá presentarse ante el Instituto una solicitud que
 
 El expediente de la solicitud de patente será confidencial hasta el momento de su publicación, conforme al artículo 107 de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 92.
 
-La patente podrá ser solicitada directamente por el inventor o su causahabiente, o a través de sus representantes legales.
+La patente podrá ser solicitada directamente por la persona inventora o su causahabiente, o a través de sus representantes legales.
 
 ###### Artículo 93.
 
@@ -900,13 +1096,19 @@ Si la solicitud se refiere a un grupo de invenciones, se tendrá por satisfecho 
 
 La solicitud de patente deberá contener:
 
-I.- El nombre, nacionalidad, domicilio y correo electrónico del solicitante;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-II.- El nombre y domicilio del inventor, cuando éste no sea el solicitante;
+I.- El nombre, nacionalidad, domicilio y correo electrónico de la persona solicitante;
+
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+II.- El nombre y domicilio de la persona inventora, cuando ésta no sea la persona solicitante;
 
 III.- La denominación o título de la invención, que deberá ser breve, precisa y denotar por sí misma la naturaleza de la invención;
 
-IV.- La descripción, que deberá divulgar la invención de manera suficientemente clara y completa para que pueda ser realizada por un técnico en la materia, y el mejor método conocido por el solicitante para llevarla a la práctica, así como la información que sustente la aplicación industrial de la invención;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+IV.- La descripción, que deberá divulgar la invención de manera suficientemente clara y completa para que pueda ser realizada por una persona técnica en la materia, y el mejor método conocido por la persona solicitante para llevarla a la práctica, así como la información que sustente la aplicación industrial de la invención;
 
 V.- Una o más reivindicaciones que deberán ser claras, concisas, definir la materia para la que se solicita la protección en función de sus características técnicas esenciales, y tener sustento en la descripción, por lo que no podrán exceder del contenido de la misma;
 
@@ -934,13 +1136,17 @@ I.- Iniciar con la denominación o título de la invención;
 
 II.- Precisar el campo técnico al que se refiera la invención;
 
-III.- Indicar el estado de la técnica conocido por el solicitante, a la fecha de presentación de la solicitud o de la prioridad reclamada, y que sea útil para la comprensión de la invención;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+III.- Indicar el estado de la técnica conocido por la persona solicitante, a la fecha de presentación de la solicitud o de la prioridad reclamada, y que sea útil para la comprensión de la invención;
 
 IV.- Divulgar la invención tal como se reivindique, en términos que permitan la comprensión del problema técnico y de la solución al mismo, y exponer los efectos ventajosos de la invención, si los hubiera, respecto a la técnica anterior, haciendo notar las diferencias de la invención que se divulga con invenciones semejantes ya conocidas;
 
 V.- Describir las figuras contenidas en los dibujos, si los hubiera, haciendo referencia a ellas y a sus partes;
 
-VI.- Indicar la mejor manera prevista por el solicitante para la realización de la invención reivindicada, la indicación deberá hacerse mediante ejemplos cuando resulte adecuado, y con referencias a los dibujos, si los hubiera, y
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+VI.- Indicar la mejor manera prevista por la persona solicitante para la realización de la invención reivindicada, la indicación deberá hacerse mediante ejemplos cuando resulte adecuado, y con referencias a los dibujos, si los hubiera, y
 
 VII.- La indicación de la aplicación industrial de la invención, cuando no resulte evidente de la descripción o de la naturaleza de la invención.
 
@@ -962,17 +1168,23 @@ I.- Que el material biológico haya sido depositado a más tardar en la fecha de
 
 Se considerarán reconocidas las autoridades internacionales de depósito que hayan adquirido dicho carácter, en términos de los Tratados Internacionales;
 
-II.- Que la solicitud, tal como ha sido presentada, contenga la información relevante de que disponga el solicitante sobre las características del material biológico depositado, y
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+II.- Que la solicitud, tal como ha sido presentada, contenga la información relevante de que disponga la persona solicitante sobre las características del material biológico depositado, y
 
 III.- Que se indique el nombre de la institución de depósito y el número del mismo.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 99.
 
-El resumen deberá ser claro, conciso y comprender una síntesis de la divulgación contenida en la descripción, las reivindicaciones y del dibujo más ilustrativo de la invención. Además, deberá indicar el campo técnico al que pertenece la invención y permitir la comprensión del problema técnico, la solución al mismo y la aplicación industrial de la invención.
+El resumen deberá ser claro, conciso y comprender una síntesis de la divulgación contenida en la descripción, las reivindicaciones y, en su caso, con referencia al dibujo más ilustrativo de la invención. Además, deberá indicar el campo técnico al que pertenece la invención y permitir la comprensión del problema técnico, la solución al mismo y la aplicación industrial de la invención.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 100.
 
-Tratándose de solicitudes divisionales presentadas, voluntariamente o por requerimiento del Instituto, el solicitante deberá cumplir los siguientes requisitos:
+Tratándose de solicitudes divisionales presentadas, voluntariamente o por requerimiento del Instituto, la persona solicitante deberá cumplir los siguientes requisitos:
 
 I.- Presentar las descripciones, reivindicaciones y dibujos necesarios para cada solicitud, excepto la documentación relativa a la prioridad reclamada y su traducción que ya se encuentren en la solicitud inicial y, en su caso, la cesión de derechos y el poder. Los dibujos y descripciones que se exhiban no sufrirán alteraciones que modifiquen la invención contemplada en la solicitud inicial;
 
@@ -982,27 +1194,37 @@ Cuando con motivo de la división se haya dejado de reivindicar una invención o
 
 III.- Presentar la solicitud divisional dentro del plazo a que se refiere el artículo 111 de esta Ley o, cuando la división sea voluntaria, en los términos de su artículo 102.
 
-La solicitud divisional no podrá consistir en la división de otras solicitudes divisionales, salvo que ésta sea procedente a juicio del Instituto o le sea requerida al solicitante, en términos del artículo 113 de esta Ley.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+La solicitud divisional no podrá consistir en la división de otras solicitudes divisionales, salvo que ésta sea procedente a juicio del Instituto o le sea requerida a la persona solicitante, en términos del artículo 113 de esta Ley.
 
 Si la solicitud divisional no cumple con los requisitos establecidos en este artículo, no se beneficiará de la fecha de presentación de la solicitud inicial de la que pretende derivarse, teniéndose por presentada en la fecha en que fue recibida, siempre y cuando cumpla con el artículo 105 de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 101.
 
-No se concederá patente respecto de materia que ya se encuentre protegida por otra o cuyas características técnicas esenciales sean una variación no sustancial de la materia amparada por la misma, aun cuando el solicitante sea el titular del primer derecho.
+No se concederá patente respecto de materia que ya se encuentre protegida por otra o cuyas características técnicas esenciales sean una variación no sustancial de la materia amparada por la patente, aun cuando la persona solicitante sea la titular del primer derecho.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 102.
 
-El solicitante podrá dividir de manera voluntaria una solicitud inicial que se encuentre aún en trámite, cumpliendo con lo dispuesto por el artículo 100 de esta Ley, conservando como fecha de presentación de cada solicitud divisional, la misma fecha de la inicial y, en su caso, la fecha de la prioridad reclamada.
+La persona solicitante podrá dividir de manera voluntaria una solicitud inicial que se encuentre aún en trámite, cumpliendo con lo dispuesto por el artículo 100 de esta Ley, conservando como fecha de presentación de cada solicitud divisional, la misma fecha de la inicial y, en su caso, la fecha de la prioridad reclamada.
 
 Para efectos de lo anterior, se considerará que la solicitud inicial se encuentra en trámite, hasta antes de la expedición de la resolución que deniegue, deseche, tenga por abandonada o desistida dicha solicitud, o antes de que una solicitud internacional se considere retirada, conforme al Tratado de Cooperación en materia de Patentes.
 
-Cuando se comunique al solicitante que procede el otorgamiento de la patente o registro, éste aun podrá dividir voluntariamente la solicitud inicial dentro del plazo de dos meses a que se refiere el artículo 110 de esta Ley.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Cuando se comunique a la persona solicitante que procede el otorgamiento de la patente o registro, ésta aun podrá dividir voluntariamente la solicitud inicial dentro del plazo de dos meses a que se refiere el artículo 110 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 103.
 
-El solicitante podrá transformar la solicitud de patente en una de registro de modelo de utilidad o de diseño industrial y viceversa, cuando del contenido de la solicitud se infiera que éste no concuerda con lo solicitado.
+La persona solicitante podrá transformar la solicitud de patente en una de registro de modelo de utilidad o de diseño industrial y viceversa, cuando del contenido de la solicitud se infiera que éste no concuerda con lo solicitado.
 
-El solicitante solo podrá efectuar la transformación de la solicitud dentro de los dos meses siguientes a la fecha de recepción o dentro de los dos meses siguientes a la fecha en que el Instituto le requiera para que la transforme, siempre y cuando la solicitud no se haya abandonado. En caso de que el solicitante no transforme la solicitud dentro del plazo concedido por el Instituto, ésta se tendrá por abandonada.
+La persona solicitante solo podrá efectuar la transformación de la solicitud dentro de los dos meses siguientes a la fecha de recepción o dentro de los dos meses siguientes a la fecha en que el Instituto le requiera para que la transforme, siempre y cuando la solicitud no se haya abandonado. En caso de que la persona solicitante no transforme la solicitud dentro del plazo concedido por el Instituto, ésta se tendrá por abandonada.
 
 ###### Artículo 104.
 
@@ -1016,6 +1238,22 @@ La fecha de presentación determinará la prelación entre las solicitudes.
 
 En caso de que la solicitud no cumpla con los requisitos señalados en el primer párrafo del presente artículo a la fecha en la que ésta se recibió, se tendrá como fecha de presentación a aquélla en la que se dé el cumplimiento correspondiente.
 
+> <small>(ADICIONADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+###### Artículo 105 Bis.
+
+La persona inventora o su causahabiente podrá presentar una solicitud provisional de patente en México, con la finalidad de que se le reconozca, como fecha de presentación de una solicitud de patente, la fecha y hora en la que fue recibida la solicitud provisional de patente en México.
+
+La solicitud provisional de patente en México deberá contener el nombre de la persona inventora o su causahabiente y estar acompañada de la descripción que permita identificar la invención reclamada.
+
+Para beneficiarse de este derecho, la persona solicitante tiene un plazo improrrogable de doce meses contado a partir de la fecha en que fue recibida la solicitud provisional de patente en México, para presentar la solicitud de patente correspondiente que cumpla con los requisitos previstos en esta Ley y su Reglamento.
+
+Una solicitud provisional de patente en México no gozará del derecho de prioridad respecto de otra solicitud o del beneficio de una fecha de presentación anterior en el Instituto.
+
+La solicitud provisional de patente en México no será publicada ni será objeto de examen por parte del Instituto.
+
+De no presentarse la solicitud de patente en el plazo señalado en el párrafo tercero de este artículo, la solicitud provisional de patente en México se considerará declinada, sin que medie declaración administrativa por parte del Instituto.
+
 ###### Artículo 106.
 
 En el examen de forma de la solicitud, el Instituto verificará que:
@@ -1024,7 +1262,9 @@ I.- La forma oficial de la solicitud fue debidamente requisitada;
 
 II.- La solicitud contenga la denominación o título de la invención;
 
-III.- Se acompañe del documento con el que se acredita la causahabiencia, cuando el inventor no sea el solicitante;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+III.- Se acompañe del documento con el que se acredita la causahabiencia, cuando la persona inventora no sea la persona solicitante;
 
 IV.- Se cumple con los requisitos relativos a la representación;
 
@@ -1040,49 +1280,77 @@ c) Un resumen de la invención;
 
 d) Los dibujos a los que se refieran la descripción, en su caso, y
 
-e) Los documentos que el solicitante señale que se acompañan, incluyendo la constancia de depósito de material biológico o el listado de secuencias.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+e) Los documentos que la persona solicitante señale que se acompañan, incluyendo la constancia de depósito de material biológico o el listado de secuencias.
 
 Si el Instituto advierte la omisión o deficiencia de alguno de los elementos señalados en el presente artículo, podrá requerir al solicitante para que precise o aclare lo que se considere necesario o subsane las omisiones, dentro del plazo de dos meses. De no darse cumplimiento a dicho requerimiento dentro del plazo concedido, la solicitud se considerará abandonada.
 
+> <small>(ADICIONADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Si el Instituto advierte la omisión o deficiencia de alguno de los elementos señalados en la fracción II del artículo 42 de esta Ley, podrá requerir al finalizar el plazo de tres meses establecido en dicha fracción, que la persona solicitante exhiba la documentación correspondiente dentro del plazo de cinco días hábiles siguientes. De no darse cumplimiento a dicho requerimiento en el plazo señalado, el derecho de prioridad se tendrá como no reclamado.
+
 El resultado favorable del examen de forma no prejuzgará sobre el cumplimiento de los requisitos necesarios para el otorgamiento de la patente o reconocimiento de los derechos reclamados y que deben ser objeto del examen de fondo de la solicitud, previsto en esta Ley.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 107.
 
-Una vez aprobado el examen de forma y después del vencimiento del plazo de 18 meses, contado a partir de la fecha de la presentación o, en su caso, de la prioridad reclamada, tendrá lugar la publicación de la solicitud.
+La publicación de una solicitud de patente tendrá lugar una vez aprobado el examen de forma y después del vencimiento del plazo de 18 meses, contado a partir de la fecha de la presentación o, en su caso, de la prioridad reclamada.
 
-La publicación de una solicitud divisional se realizará una vez aprobado el examen de forma y después del vencimiento del plazo de 18 meses, contado a partir de la fecha de la presentación de la solicitud inicial o, en su caso, de la prioridad reclamada.
+La publicación de una solicitud divisional de patente se realizará una vez aprobado el examen de forma y después del vencimiento del plazo de 18 meses, contado a partir de la fecha de la presentación de la solicitud inicial o, en su caso, de la prioridad reclamada.
 
-A petición del solicitante, la solicitud podrá ser publicada antes del vencimiento del plazo señalado, siempre y cuando se haya aprobado el examen de forma y se exhiba el comprobante del pago de la tarifa correspondiente.
+La persona solicitante podrá pedir que su solicitud se publique en cualquier momento, antes del vencimiento del plazo de 18 meses a que se refieren los párrafos anteriores, siempre y cuando la solicitud haya aprobado el examen de forma y se exhiba el comprobante del pago de la tarifa correspondiente.
 
-No se publicarán las solicitudes que no hubiesen sido admitidas a trámite, las abandonadas, las retiradas, las desistidas o las desechadas.
+Con la finalidad de agilizar la tramitación de una solicitud de patente, una vez aprobado el examen de forma, el Instituto informará a la persona solicitante la posibilidad de iniciar el trámite de publicación anticipada.
+
+Una vez publicada la solicitud de patente, el Instituto iniciará el examen de fondo previsto en el artículo 110 de esta Ley.
+
+Las solicitudes que hayan sido desechadas, abandonadas, retiradas o desistidas durante la etapa de examen de forma, no serán objeto de la publicación a que se refiere el presente artículo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 108.
 
-La publicación de la solicitud en trámite contendrá los datos bibliográficos necesarios para identificar la solicitud; el nombre de los inventores, solicitantes y representantes legales; la nacionalidad del solicitante, y el domicilio del representante, en su caso.
+La publicación de la solicitud en trámite contendrá los datos bibliográficos necesarios para identificar la solicitud; el nombre de las personas inventoras, solicitantes y representantes legales; la nacionalidad de la persona solicitante, y el domicilio de la persona representante, en su caso.
 
 Una vez publicada la solicitud, el expediente se encontrará abierto para su consulta.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 109.
 
-Dentro del plazo de dos meses contados a partir del día hábil siguiente al que surta efectos la publicación de la solicitud a la que se refiere el artículo 107 de esta Ley, el Instituto podrá recibir información de cualquier persona, relativa a si dicha solicitud cumple con lo dispuesto en los artículos 47 a 49 de esta Ley.
+Dentro del plazo de dos meses contados a partir del día hábil siguiente al que surta efectos la publicación de la solicitud a la que se refiere el artículo 107 de esta Ley, el Instituto podrá recibir información de cualquier persona, relativa a si dicha solicitud cumple con lo dispuesto en los artículos 47 a 49, 58 y 65 de esta Ley.
 
-Cuando así lo estime conveniente, el Instituto podrá considerar dicha información como documento de apoyo técnico para el examen de fondo que sobre la solicitud se realice, sin estar obligado a resolver sobre el alcance de la misma. El Instituto dará vista al solicitante de los datos y documentos aportados para que, en su caso, presente lo que a su derecho convenga.
+Cuando así lo estime conveniente, el Instituto podrá considerar dicha información como documento de apoyo técnico para el examen de fondo que sobre la solicitud se realice, sin estar obligado a resolver sobre el alcance de la misma. El Instituto dará vista a la persona solicitante de los datos y documentos aportados para que, en su caso, presente lo que a su derecho convenga.
 
-La presentación de información no suspenderá el trámite, ni atribuirá a la persona que la hubiera presentado el carácter de interesado, tercero o parte; por lo que el ejercicio de las acciones previstas en el artículo 154 de esta Ley, quedará a salvo.
+La presentación de información no suspenderá el trámite, ni atribuirá a la persona que la hubiera presentado el carácter de interesada, tercera o parte; por lo que el ejercicio de las acciones previstas en el artículo 154 de esta Ley, quedará a salvo.
 
 ###### Artículo 110.
 
 Publicada la solicitud de patente, el Instituto hará un examen de fondo de la misma para determinar si se satisfacen los requisitos previstos en esta Ley y que son necesarios para el otorgamiento de la patente solicitada, o si la materia objeto de la solicitud se encuentra en alguno de los supuestos previstos en los artículos 47 y 49 de esta Ley. Para efectos de lo anterior, el Instituto solo considerará lo que esté contenido en la descripción, reivindicaciones y, en su caso, los dibujos, el listado de secuencias y la constancia de depósito de material biológico.
 
-De no advertir impedimento alguno para el otorgamiento de la patente, el Instituto lo comunicará al solicitante. El otorgamiento estará condicionado a la presentación del comprobante del pago de la tarifa correspondiente a la expedición del título y la anualidad para la conservación de la vigencia de los derechos relativa a ese año calendario, dentro del plazo de dos meses. Si vencido dicho plazo el solicitante no cumple con lo requerido, se tendrá por abandonada su solicitud.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+De no advertir impedimento alguno para el otorgamiento de la patente, el Instituto lo comunicará a la persona solicitante. El otorgamiento estará condicionado a la presentación del comprobante del pago de la tarifa correspondiente a la expedición del título y la anualidad para la conservación de la vigencia de los derechos relativa a ese año calendario, dentro del plazo de dos meses. Si vencido dicho plazo la persona solicitante no cumple con lo requerido, se tendrá por abandonada su solicitud.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 111.
 
-Cuando con motivo del examen de fondo se advierta algún impedimento para el otorgamiento de la patente solicitada, el Instituto podrá requerir al solicitante para que dentro del plazo de dos meses manifieste lo que a su derecho convenga, presente información o documentación y, en su caso, modifique lo que estime oportuno, señalando las modificaciones efectuadas.
+Cuando con motivo del examen de fondo se advierta algún impedimento para el otorgamiento de la patente solicitada, el Instituto podrá requerir a la persona solicitante para que dentro del plazo de dos meses manifieste lo que a su derecho convenga, presente información o documentación y, en su caso, modifique lo que estime oportuno, señalando las modificaciones efectuadas.
 
-Si dentro del plazo a que se refiere el párrafo anterior, el solicitante no da cumplimiento al requerimiento formulado, la solicitud se considerará abandonada.
+Si dentro del plazo a que se refiere el párrafo anterior, la persona solicitante no da cumplimiento al requerimiento formulado, la solicitud se considerará abandonada.
 
-El Instituto deberá resolver en forma definitiva sobre el otorgamiento o la negativa de la patente solicitada, una vez transcurrido el plazo para dar cumplimiento al requerimiento formulado, siempre y cuando la solicitud no se encuentre abandonada o el solicitante no se haya desistido de la misma.
+El Instituto deberá resolver en forma definitiva sobre el otorgamiento o la negativa de la patente solicitada, una vez transcurrido el plazo para dar cumplimiento al requerimiento formulado, siempre y cuando la solicitud no se encuentre abandonada o la persona solicitante no se haya desistido de esta.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+###### Artículo 111 Bis.
+
+El plazo para que el Instituto resuelva en forma definitiva sobre el otorgamiento o negativa de patentes o modelos de utilidad y diseños industriales, no deberá exceder de un año contado a partir de que se inició el examen de fondo de la solicitud correspondiente.
+
+Respecto de los esquemas de trazado de circuitos integrados, el Instituto resolverá la solicitud de registro en un plazo máximo de dos meses contado a partir de la fecha de presentación de la solicitud o, en su caso, de la fecha en que la persona solicitante solvente los requerimientos formulados, dentro del plazo inicial o en el adicional, según corresponda.
 
 ###### Artículo 112.
 
@@ -1100,17 +1368,35 @@ IV.- La ausencia de aplicación industrial.
 
 Cuando el impedimento al que se refiere el artículo 111 de esta Ley consista en que la solicitud no cumple con el requisito de unidad de invención, el Instituto considerará únicamente como invención principal aquélla que se mencione en primer lugar en las reivindicaciones y, a partir de la misma, evaluará el cumplimiento del resto de los requisitos establecidos en esta Ley.
 
-En este caso, el Instituto requerirá al solicitante que limite las reivindicaciones reclamando la invención principal y, en su caso, presente la o las solicitudes divisionales que correspondan, dentro del plazo a que se refiere el artículo 111 de esta Ley.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+En este caso, el Instituto requerirá a la persona solicitante que limite las reivindicaciones reclamando la invención principal y, en su caso, presente la o las solicitudes divisionales que correspondan, dentro del plazo a que se refiere el artículo 111 de esta Ley.
 
 La solicitud divisional conservará como fecha de presentación la de la solicitud inicial y, si a ello hubiere lugar, el reconocimiento del derecho de prioridad, siempre que ésta cumpla con los requisitos previstos por esta Ley.
 
+> <small>(ADICIONADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+###### Artículo 113 Bis.
+
+Antes de que el Instituto declare el abandono, la persona solicitante podrá presentar la petición del restablecimiento de derecho de su solicitud, ante la falta de cumplimiento de un requerimiento contemplado por los artículos 106, 110 y 111 de esta Ley.
+
+La petición del restablecimiento de derecho de la solicitud podrá presentarse dentro del plazo de quince días hábiles contado a partir del día hábil siguiente a la fecha del vencimiento del plazo incumplido, acompañada del comprobante de pago de la tarifa correspondiente.
+
+Al momento de ingresar la petición de restablecimiento de derecho de la solicitud, la persona solicitante deberá dar cumplimiento al requerimiento del que fue omiso, previsto en los artículos 106, 110 o 111 de esta Ley, según corresponda.
+
+El Instituto resolverá la continuación del trámite conforme corresponda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 114.
 
-Cuando a juicio del Instituto sea necesario para efectuar el examen de fondo, se podrá requerir al solicitante para que exhiba información o documentación adicional o complementaria, incluida aquélla relativa a la búsqueda o examen practicado por oficinas extranjeras, en el plazo al que se refiere el artículo 111 de esta Ley.
+Cuando a juicio del Instituto sea necesario para efectuar el examen de fondo, se podrá requerir a la persona solicitante para que exhiba información o documentación adicional o complementaria, incluida aquélla relativa a la búsqueda o examen practicado por oficinas extranjeras, en el plazo al que se refiere el artículo 111 de esta Ley.
 
 El Instituto podrá considerar o requerir el resultado del examen de fondo o su equivalente realizado por oficinas extranjeras de patentes, el cual será contemplado como un documento de apoyo técnico para el efecto de determinar si la invención, cuya patente se solicita, cumple con los requisitos establecidos en esta Ley.
 
-El solicitante podrá presentar una copia de la patente respectiva otorgada por la oficina extranjera de propiedad industrial que corresponda, con su traducción al español, para los efectos del párrafo anterior.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+La persona solicitante podrá presentar una copia de la patente respectiva otorgada por la oficina extranjera de propiedad industrial que corresponda, con su traducción al español, para los efectos del párrafo anterior.
 
 ###### Artículo 115.
 
@@ -1128,15 +1414,19 @@ Solo se aceptarán enmiendas voluntarias hasta antes de la expedición de la res
 
 El interesado tendrá un plazo adicional de dos meses para cumplir los requisitos a que se refieren los artículos 103, 106, 110 y 111 de esta Ley, sin que medie solicitud y comprobando el pago de la tarifa que corresponda al mes en que se dé cumplimiento.
 
-La solicitud se tendrá por abandonada si el solicitante no da cumplimiento a los requerimientos formulados, dentro del plazo inicial o en el adicional previsto en este artículo.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+La solicitud se tendrá por abandonada si la persona solicitante no da cumplimiento a los requerimientos formulados, dentro del plazo inicial o en el adicional previsto en este artículo.
 
 ###### Artículo 118.
 
 El Instituto podrá celebrar acuerdos interinstitucionales en materia de patentes, para facilitar el intercambio y el aprovechamiento del trabajo, relativo a la búsqueda, examen de fondo o su equivalente, incluyendo la asistencia técnica, así como la puesta a disposición de resultados de búsqueda y de examen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 119.
 
-El Instituto expedirá un título para cada patente, como constancia y reconocimiento oficial al titular, el cual comprenderá un ejemplar de la descripción, reivindicaciones y, si los hubiere, dibujos y el listado de secuencias.
+El Instituto expedirá un título para cada patente, como constancia y reconocimiento oficial a la persona titular, el cual comprenderá un ejemplar de la descripción, reivindicaciones y, si los hubiere, dibujos y el listado de secuencias.
 
 En el mismo título se hará constar:
 
@@ -1144,7 +1434,9 @@ I.- El número y la clasificación de la patente;
 
 II.- El nombre y domicilio de la persona o personas a quienes se expide;
 
-III.- El nombre del inventor o inventores;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+III.- El nombre de la persona inventora o de las personas inventoras;
 
 IV.- Las fechas de presentación de la solicitud y de prioridad reconocida, en su caso, y de expedición;
 
@@ -1158,19 +1450,23 @@ Otorgada la patente, el Instituto procederá a su publicación en la Gaceta. Dic
 
 ### Capítulo VII. De la Renuncia, Rectificación y Limitación de Derechos
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 121.
 
-El titular de una patente o registro, mientras se encuentre vigente, podrá renunciar a este derecho, o solicitar su rectificación o limitación, mediante solicitud dirigida al Instituto y acompañando el comprobante de pago de la tarifa correspondiente, en los términos que establezca el Reglamento de esta Ley.
+La persona titular de una patente o registro, mientras se encuentre vigente, podrá renunciar a este derecho, o solicitar su rectificación o limitación, mediante solicitud dirigida al Instituto y acompañando el comprobante de pago de la tarifa correspondiente, en los términos que establezca el Reglamento de esta Ley.
 
-Si la solicitud resulta procedente, el Instituto lo comunicará al solicitante y procederá a publicar en la Gaceta la renuncia o rectificación o limitación, respectiva.
+Si la solicitud resulta procedente, el Instituto lo comunicará a la persona solicitante y procederá a publicar en la Gaceta la renuncia o rectificación o limitación, respectiva.
 
-En caso de que el Instituto advierta algún impedimento en la solicitud, podrá requerir al titular para que precise o aclare en lo que considere necesario, o subsane omisiones. De no cumplir el solicitante con dicho requerimiento en un plazo de dos meses, se desechará de plano la solicitud.
+En caso de que el Instituto advierta algún impedimento en la solicitud, podrá requerir a la persona titular para que precise o aclare en lo que considere necesario, o subsane omisiones. De no cumplir la persona solicitante con dicho requerimiento en un plazo de dos meses, se desechará de plano la solicitud.
 
 ###### Artículo 122.
 
 Será procedente la rectificación de errores de forma del título de una patente o registro, previsto en el artículo 119 de esta Ley.
 
-Si la rectificación concierne a las reivindicaciones o a los elementos que sirvan para interpretarlas, los errores deberán ser evidentes para un técnico en la materia.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Si la rectificación concierne a las reivindicaciones o a los elementos que sirvan para interpretarlas, los errores deberán ser evidentes para una persona técnica en la materia.
 
 El título no podrá ser rectificado de modo tal que se amplíe la protección que éste confiere.
 
@@ -1200,7 +1496,9 @@ I.- Se encuentre pendiente de resolución un procedimiento relativo a la validez
 
 Si con posterioridad a la presentación de una solicitud a la que se refiere el presente Capítulo, se inicia un procedimiento de declaración administrativa, éste se suspenderá hasta en tanto se emita resolución sobre la procedencia o improcedencia de la solicitud respectiva, o
 
-II.- Exista una demanda judicial reivindicando la titularidad de la patente o registro, o el reconocimiento de otros derechos sobre los mismos, excepto cuando se trate de una solicitud de rectificación del título de la patente o registro.
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+II.- Exista una demanda judicial reivindicando la titularidad de la patente o registro, o un procedimiento administrativo de reclamo de la titularidad de una patente o registro, el reconocimiento de otros derechos sobre los mismos, excepto cuando se trate de una solicitud de rectificación del título de la patente o registro.
 
 ### Capítulo VIII. Del Certificado Complementario
 
@@ -1224,9 +1522,11 @@ III.- Fecha de otorgamiento, aquélla en la que se comunica que procede el otorg
 
 IV.- Fecha de la resolución favorable del examen de forma, aquélla en que el Instituto comunica que la solicitud cuenta con los elementos materiales para continuar con su trámite, publicación y, en su caso, examen de fondo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 129.
 
-El titular podrá solicitar un certificado complementario por única vez, mediante escrito que deberá cumplir los requisitos previstos en esta Ley, su Reglamento y demás disposiciones aplicables en la materia.
+La persona titular podrá solicitar un certificado complementario por única vez, mediante escrito que deberá cumplir con los requisitos previstos en esta Ley, su Reglamento y demás disposiciones aplicables en la materia.
 
 La solicitud deberá presentarse de manera independiente, al dar cumplimiento a la comunicación prevista en el segundo párrafo del artículo 110 de esta Ley. Toda solicitud presentada con posterioridad a ese momento se tendrá por extemporánea y se desechará de plano.
 
@@ -1236,11 +1536,15 @@ La solicitud deberá contener:
 
 I.- El número de expediente, fecha de presentación y fecha de la comunicación a la que se refiere el segundo párrafo del artículo 110 de esta Ley;
 
-II.- Los argumentos del solicitante sobre la procedencia del certificado complementario, y
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+II.- Los argumentos de la persona solicitante sobre la procedencia del certificado complementario, y
 
 III.- El pago de la tarifa correspondiente.
 
-Si el Instituto advierte la ausencia o deficiencia de alguno de los requisitos señalados en este artículo, requerirá por única vez al interesado para que dentro del plazo de cinco días, precise o aclare lo que se considere necesario, o subsane omisiones. De no cumplimentarse el requerimiento formulado dentro del plazo señalado, la solicitud se desechará de plano.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Si el Instituto advierte la ausencia o deficiencia de alguno de los requisitos señalados en este artículo, requerirá por única vez a la persona interesada para que dentro del plazo de cinco días, precise o aclare lo que se considere necesario, o subsane omisiones. De no cumplimentarse el requerimiento formulado dentro del plazo señalado, la solicitud se desechará de plano.
 
 ###### Artículo 131.
 
@@ -1260,21 +1564,27 @@ Para efectos del artículo anterior, se considerarán como retrasos razonables:
 
 I.- El periodo que transcurre entre la fecha de recepción y la fecha de la resolución favorable del examen de forma;
 
-II.- Los periodos atribuibles a acciones u omisiones del solicitante, tendientes a retrasar el procedimiento de otorgamiento de la patente y los plazos adicionales empleados, conforme al artículo 117 de esta Ley;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+II.- Los periodos atribuibles a acciones u omisiones de la persona solicitante, tendientes a retrasar el procedimiento de otorgamiento de la patente y los plazos adicionales empleados, conforme al artículo 117 de esta Ley;
 
 III.- Los periodos no atribuibles a acciones u omisiones del Instituto o que queden fuera de su control, tales como los que transcurran en la substanciación de cualquier medio de impugnación administrativo o jurisdiccional o que deriven de los mismos, y
 
 IV.- Los periodos atribuibles a causas de fuerza mayor o caso fortuito.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 133.
 
-Cuando resulte procedente el otorgamiento del certificado complementario, el Instituto lo comunicará al solicitante para que dentro del plazo de un mes, presente el comprobante del pago de la tarifa correspondiente a la expedición del título del certificado, así como el relativo al pago del periodo de ajuste respectivo.
+Cuando resulte procedente el otorgamiento del certificado complementario, el Instituto lo comunicará a la persona solicitante para que dentro del plazo de un mes, presente el comprobante del pago de la tarifa correspondiente a la expedición del título del certificado, así como el relativo al pago del periodo de ajuste respectivo.
 
-Si vencido el plazo anterior, el solicitante no cumple con lo requerido se tendrá por abandonada la solicitud.
+Si vencido el plazo anterior, la persona solicitante no cumple con lo requerido se tendrá por abandonada la solicitud.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 134.
 
-El Instituto expedirá un título para cada certificado complementario como constancia y reconocimiento oficial al titular y procederá a su publicación en la Gaceta.
+El Instituto expedirá un título para cada certificado complementario como constancia y reconocimiento oficial a la persona titular y procederá a su publicación en la Gaceta.
 
 El certificado complementario surtirá efectos al día siguiente del vencimiento de los veinte años de vigencia de la patente de la cual deriva, siempre y cuando la misma se encuentre vigente.
 
@@ -1282,7 +1592,7 @@ El certificado complementario surtirá efectos al día siguiente del vencimiento
 
 El certificado complementario conferirá los mismos derechos de la patente de la cual deriva y estará sujeto a las mismas limitaciones y obligaciones.
 
-Tratándose de los plazos a los que se refieren los incisos a) y b) de la fracción II del artículo 57 de esta Ley, éstos se contabilizarán tomando en consideración el vencimiento de la vigencia del certificado complementario.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 136.
 
@@ -1290,35 +1600,69 @@ El certificado complementario caducará al vencimiento de su vigencia y los dere
 
 La caducidad del certificado complementario no requerirá de declaración administrativa por parte del Instituto.
 
+> <small>(ADICIONADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+###### Artículo 136 Bis.
+
+Una vez que la autoridad sanitaria determine el tiempo compensatorio por el retraso irrazonable en otorgar un registro sanitario a una patente, solicitará al Instituto la expedición de un certificado complementario para ajustar la vigencia de dicha patente, para lo cual deberá acompañar las constancias que acrediten tal determinación, en términos de las disposiciones aplicables.
+
+El tiempo compensatorio que determine la autoridad sanitaria no podrá exceder de cinco años.
+
+El Instituto comunicará lo señalado por la autoridad sanitaria a la persona titular de la patente para que, dentro del plazo de un mes, presente el comprobante de pago de la tarifa correspondiente a la expedición del certificado complementario, así como el relativo al pago del periodo de ajuste que corresponda.
+
+Si vencido el plazo mencionado en el párrafo anterior la persona titular de la patente no cumple con lo requerido, se tendrá por renunciado el ajuste de la vigencia.
+
+El Instituto expedirá un certificado complementario a la persona titular de la patente, indicando la nueva vigencia como reconocimiento oficial y procederá a su publicación en la Gaceta.
+
+El certificado complementario no podrá exceder cinco años y surtirá efectos al día siguiente del vencimiento de la vigencia de la patente de la cual deriva, siempre y cuando ésta se encuentre vigente.
+
 ### Capítulo IX. De las Licencias y Transmisión de Derechos
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 137.
 
-Los derechos que confiere una patente o registro, o aquéllos que deriven de una solicitud en trámite, podrán gravarse y transmitirse total o parcialmente en los términos y con las formalidades que establece la legislación común. Para que la transmisión de derechos o gravamen puedan producir efectos en perjuicio de terceros, deberá inscribirse en el Instituto.
+Los derechos que confiere una patente o registro, o aquéllos que deriven de una solicitud en trámite, podrán gravarse y transmitirse total o parcialmente en los términos y con las formalidades que establece la legislación común. Para que la transmisión de derechos o gravamen puedan producir efectos en perjuicio de terceras personas, deberá inscribirse en el Instituto.
 
-Podrá solicitarse mediante una sola promoción la inscripción de transferencias de la titularidad de dos o más solicitudes en trámite o de dos o más patentes o registros, cuando quien transfiere y quien adquiere sean las mismas personas en todos ellos. El solicitante deberá identificar cada una de las solicitudes, patentes o registros en los que se hará la inscripción. Las tarifas correspondientes se pagarán en función del número de solicitudes, patentes o registros involucrados.
+Podrá solicitarse mediante una sola promoción la inscripción de transferencias de la titularidad de dos o más solicitudes en trámite o de dos o más patentes o registros, cuando quien transfiere y quien adquiere sean las mismas personas en todos ellos. La persona solicitante deberá identificar cada una de las solicitudes, patentes o registros en los que se hará la inscripción. Las tarifas correspondientes se pagarán en función del número de solicitudes, patentes o registros involucrados.
 
 ###### Artículo 138.
 
 Los derechos que confieren una patente o registro, o aquéllos que deriven de una solicitud en trámite, podrán ser objeto de licencia para su explotación, en términos de la legislación común.
 
-El titular o, en su caso, el licenciatario podrá inscribir la licencia en el Instituto.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-La inscripción de licencias de derechos relativos a dos o más solicitudes en trámite o a dos o más patentes o registros podrá solicitarse mediante una sola promoción, cuando el licenciante y el licenciatario sean los mismos en todos ellos. El solicitante deberá identificar cada una de las solicitudes, patentes o registros en los que se hará la inscripción. Las tarifas correspondientes se pagarán en función del número de solicitudes, patentes o registros involucrados.
+La persona titular o, en su caso, la persona licenciataria podrá inscribir la licencia en el Instituto.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+La inscripción de licencias de derechos relativos a dos o más solicitudes en trámite o a dos o más patentes o registros podrá solicitarse mediante una sola promoción, cuando la persona licenciante y la licenciataria sean iguales en todos ellos. La persona solicitante deberá identificar cada una de las solicitudes, patentes o registros en los que se hará la inscripción. Las tarifas correspondientes se pagarán en función del número de solicitudes, patentes o registros involucrados.
 
 ###### Artículo 139.
 
 Para inscribir una transmisión, licencia o gravamen de una solicitud en trámite, patente o registro en el Instituto, bastará formular la petición correspondiente en los términos que fije el Reglamento de esta Ley.
 
+> <small>(ADICIONADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+En el caso de que exista un gravamen inscrito previamente y éste no haya sido cancelado, la solicitud de inscripción de transmisión será desechada de plano.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+La inscripción de un gravamen no afectará la tramitación de la solicitud de inscripción de una licencia.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 140.
 
-Cuando exista un gravamen inscrito ante el Instituto, el beneficiario podrá presentar el pago de las anualidades correspondientes a la conservación de los derechos de una patente o registro de modelo de utilidad o esquema de trazado de circuito integrado, o, en su caso, la renovación del registro de un diseño industrial, conforme a las reglas y especificaciones que establezca el Acuerdo emitido por la persona Titular de la Dirección General para tal efecto.
+Cuando exista un gravamen inscrito ante el Instituto o se reclame la titularidad de una patente o registro, la persona beneficiaria del gravamen, o en su caso, quien reclame la titularidad de una patente o registro, podrá presentar el pago de las anualidades correspondientes a la conservación de los derechos de una patente o registro de modelo de utilidad o esquema de trazado de circuito integrado, o, en su caso, la renovación del registro de un diseño industrial, conforme a las reglas y especificaciones que establezca el Acuerdo emitido por la persona Titular de la Dirección General para tal efecto.
 
 ###### Artículo 141.
 
 La cancelación de la inscripción de una licencia procederá en cualquiera de los siguientes casos:
 
-I.- Cuando la soliciten conjuntamente el titular de la patente o registro y la persona a la que se le haya concedido la licencia, en los términos de la legislación común;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+I.- Cuando la soliciten conjuntamente la persona titular de la patente o registro y la persona a la que se le haya concedido la licencia, en los términos de la legislación común;
 
 II.- Por nulidad o caducidad de la patente o registro;
 
@@ -1330,13 +1674,17 @@ IV.- Por orden judicial.
 
 No se inscribirá la licencia cuando la patente o registro hubiesen caducado o la duración de aquélla sea mayor que su vigencia.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 143.
 
-Salvo estipulación en contrario, la concesión de una licencia no excluirá la posibilidad, por parte del titular de la patente o registro, de conceder otras licencias ni realizar su explotación simultánea por sí mismo.
+Salvo estipulación en contrario, la concesión de una licencia no excluirá la posibilidad, por parte de la persona titular de la patente o registro, de conceder otras licencias ni realizar su explotación simultánea por sí mismo.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 144.
 
-La persona que tenga concedida una licencia, salvo estipulación en contrario, tendrá la facultad de ejercitar las acciones legales de protección a los derechos de patente o registro como si fuere el propio titular.
+La persona que tenga concedida una licencia, salvo estipulación en contrario, tendrá la facultad de ejercitar las acciones legales de protección a los derechos de patente o registro como si fuere la propia titular.
 
 ###### Artículo 145.
 
@@ -1346,33 +1694,45 @@ La explotación de la patente o registro realizada por la persona que tenga conc
 
 Tratándose de invenciones, después de tres años contados a partir de la fecha del otorgamiento de la patente, o de cuatro años de la presentación de la solicitud, según lo que ocurra más tarde, cualquier persona podrá solicitar al Instituto la concesión de una licencia obligatoria para explotarla, cuando la explotación no se haya realizado, salvo que existan causas debidamente justificadas.
 
-No procederá el otorgamiento de una licencia obligatoria, cuando el titular de la patente o quien tenga concedida licencia contractual, hayan realizado la importación de la invención patentada u obtenida por el proceso patentado.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+No procederá el otorgamiento de una licencia obligatoria, cuando la persona titular de la patente o quien tenga concedida licencia contractual, hayan realizado la importación de la invención patentada u obtenida por el proceso patentado.
 
 ###### Artículo 147.
 
 Quien solicite una licencia obligatoria deberá tener capacidad técnica y económica para realizar una explotación eficiente de la invención patentada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 148.
 
-Antes de conceder la primera licencia obligatoria, el Instituto dará oportunidad al titular de la patente para que dentro de un plazo de un año, contado a partir de la notificación personal que se haga a éste, proceda a su explotación.
+Antes de conceder la primera licencia obligatoria, el Instituto dará oportunidad a la persona titular de la patente para que, dentro de un plazo de un año, contado a partir de la notificación personal que se haga a ésta, proceda a su explotación.
 
-Previa audiencia de las partes, el Instituto decidirá sobre la concesión de la licencia obligatoria y, en caso de que resuelva concederla, fijará su duración, condiciones, campo de aplicación y monto de las regalías que correspondan al titular de la patente.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Previa audiencia de las partes, el Instituto decidirá sobre la concesión de la licencia obligatoria y, en caso de que resuelva concederla, fijará su duración, condiciones, campo de aplicación y monto de las regalías que correspondan a la persona titular de la patente.
 
 En caso de que se solicite una licencia obligatoria existiendo otra, la persona que tenga la licencia previa deberá ser notificada y oída.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 149.
 
-Transcurrido el término de dos años contado a partir de la fecha de concesión de la primera licencia obligatoria, el Instituto podrá declarar administrativamente la caducidad de la patente, si la concesión de la licencia obligatoria no hubiese corregido la falta de explotación de la misma, o si el titular de la patente no comprueba su explotación o la existencia de una causa justificada a juicio del Instituto.
+Transcurrido el término de dos años contado a partir de la fecha de concesión de la primera licencia obligatoria, el Instituto podrá declarar administrativamente la caducidad de la patente, si la concesión de la licencia obligatoria no hubiese corregido la falta de explotación de la misma, o si la persona titular de la patente no comprueba su explotación o la existencia de una causa justificada a juicio del Instituto.
 
 El pago de las regalías derivado de una licencia obligatoria concluirá cuando caduque o se anule la patente, o por cualquier otra causa prevista en esta Ley.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 150.
 
-A petición del titular de la patente o de la persona que goce de la licencia obligatoria, las condiciones de ésta podrán ser modificadas por el Instituto cuando lo justifiquen causas supervenientes y, en particular, cuando el titular de la patente haya concedido licencias contractuales más favorables que la licencia obligatoria. El Instituto resolverá sobre la modificación de las condiciones de la licencia obligatoria, previa audiencia de las partes.
+A petición de la persona titular de la patente o de la persona que goce de la licencia obligatoria, las condiciones de ésta podrán ser modificadas por el Instituto cuando lo justifiquen causas supervenientes y, en particular, cuando la persona titular de la patente haya concedido licencias contractuales más favorables que la licencia obligatoria. El Instituto resolverá sobre la modificación de las condiciones de la licencia obligatoria, previa audiencia de las partes.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 151.
 
-Quien goce de una licencia obligatoria deberá iniciar la explotación de la patente dentro del plazo de dos años, contados a partir de la fecha en que se le hubiere concedido. De no cumplirse esto, salvo que existan causas justificadas a juicio del Instituto, procederá la revocación de la licencia de oficio o a petición del titular de la patente.
+Quien goce de una licencia obligatoria deberá iniciar la explotación de la patente dentro del plazo de dos años, contados a partir de la fecha en que se le hubiere concedido. De no cumplirse esto, salvo que existan causas justificadas a juicio del Instituto, procederá la revocación de la licencia de oficio o a petición de la persona titular de la patente.
 
 ###### Artículo 152.
 
@@ -1384,7 +1744,9 @@ El Instituto determinará que la explotación de ciertas patentes se haga median
 
 En los casos de enfermedades graves, el Consejo de Salubridad General hará la declaratoria de atención prioritaria, de oficio o a petición de instituciones nacionales especializadas en dicha enfermedad que se encuentren acreditadas ante éste, en la que se justifique las causas de emergencia o seguridad nacional. Una vez publicada en el Diario Oficial la declaratoria emitida por el Consejo, las empresas farmacéuticas podrán solicitar la concesión de una licencia de utilidad pública al Instituto, quien la otorgará, previa audiencia de las partes y opinión del Consejo, en un plazo no mayor a noventa días contados a partir de la fecha de presentación de la solicitud respectiva.
 
-Para efectos del párrafo anterior, la Secretaría de Salud fijará las condiciones de producción y de calidad, duración, campo de aplicación de la licencia y la calificación de la capacidad técnica del solicitante; así como el monto de las regalías que correspondan al titular de la patente, las cuales deberán ser justas y razonables según las circunstancias de cada caso.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Para efectos del párrafo anterior, la Secretaría de Salud fijará las condiciones de producción y de calidad, duración, campo de aplicación de la licencia y la calificación de la capacidad técnica de la persona solicitante; así como el monto de las regalías que correspondan a la persona titular de la patente, las cuales deberán ser justas y razonables según las circunstancias de cada caso.
 
 La concesión de una licencia de utilidad pública distinta a la prevista en los párrafos segundo y tercero de este artículo se tramitará por el Instituto conforme a lo dispuesto en el artículo 148, segundo párrafo de esta Ley.
 
@@ -1410,7 +1772,7 @@ VI.- Cuando por error o inadvertencia se haya reconocido un derecho de prioridad
 
 VII.- Cuando se haya concedido en contravención al artículo 50 de esta Ley, y
 
-VIII.- Cuando se haya concedido a quien no tenía el derecho a obtenerla, conforme a lo dispuesto en el artículo 38 de esta Ley.
+VIII.- (DEROGADA, D.O.F. 3 DE ABRIL DE 2026)
 
 Las acciones de nulidad previstas en este artículo podrán ejercerse en cualquier tiempo, a partir de la fecha en que surta efectos la publicación de la patente en la Gaceta.
 
@@ -1436,7 +1798,7 @@ VI.- Cuando por error o inadvertencia se haya reconocido un derecho de prioridad
 
 VII.- Cuando se haya concedido en contravención al artículo 50 de esta Ley, y
 
-VIII.- Cuando se haya concedido a quien no tenía el derecho a obtenerlo conforme a lo dispuesto en el artículo 38 de esta Ley.
+VIII.- (DEROGADA, D.O.F. 3 DE ABRIL DE 2026)
 
 Las acciones de nulidad previstas en este artículo podrán ejercerse en cualquier tiempo, a partir de la fecha en que surta efectos la publicación del registro en la Gaceta.
 
@@ -1458,7 +1820,7 @@ IV.- Cuando con motivo del procedimiento de rectificación o limitación a que s
 
 V.- Cuando por error o inadvertencia se haya reconocido un derecho de prioridad y con ello se determinó indebidamente la novedad de la materia protegida, y
 
-VI.- Cuando se haya concedido a quien no tenía el derecho a obtenerlo, conforme a lo dispuesto en el artículo 38 de esta Ley.
+VI.- (DEROGADA, D.O.F. 3 DE ABRIL DE 2026)
 
 Las acciones de nulidad previstas en este artículo podrán ejercerse en cualquier tiempo, a partir de la fecha en que surta efectos la publicación del registro en la Gaceta.
 
@@ -1472,7 +1834,7 @@ Un registro de un esquema de trazado protegido solo podrá ser declarado nulo en
 
 I.- Cuando el esquema de trazado no pueda ser objeto de un registro, en términos del artículo 83 de esta Ley, y
 
-II.- Cuando se haya concedido a quien no tenía el derecho a obtenerlo, conforme a lo dispuesto en el artículo 38 de esta Ley.
+II.- (DEROGADA, D.O.F. 3 DE ABRIL DE 2026)
 
 Las acciones de nulidad previstas en este artículo podrán ejercerse en cualquier tiempo, a partir de la fecha en que surta efectos la publicación del registro en la Gaceta.
 
@@ -1518,7 +1880,9 @@ El Instituto publicará de forma periódica en la Gaceta aquellas solicitudes, p
 
 Se exceptúan de lo anterior aquellas solicitudes que se encuentren en el supuesto previsto en el artículo 24 de esta Ley.
 
-El Instituto publicará cuando menos, semestralmente en la Gaceta, un listado de patentes relacionadas con invenciones susceptibles de ser empleadas en medicamentos alopáticos, en los términos previstos en el artículo 167 bis del Reglamento de Insumos para la Salud, y se coordinará con la autoridad sanitaria competente, para proporcionar la información que se requiera dentro del trámite de autorización de comercialización de medicamentos alopáticos.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+El Instituto publicará cuando menos, semestralmente en la Gaceta, un listado de patentes relacionadas con invenciones susceptibles de ser empleadas en medicamentos alopáticos, y se coordinará con la autoridad sanitaria competente, para proporcionar la información que se requiera dentro del trámite de autorización de comercialización de medicamentos alopáticos.
 
 ## TÍTULO TERCERO. De los Secretos Industriales
 
@@ -1528,7 +1892,9 @@ El Instituto publicará cuando menos, semestralmente en la Gaceta, un listado de
 
 Para efectos de este Título, se entenderá por:
 
-I.- Secreto industrial, a toda información de aplicación industrial o comercial que guarde la persona que ejerce su control legal con carácter confidencial, que signifique la obtención o el mantenimiento de una ventaja competitiva o económica frente a terceros en la realización de actividades económicas y respecto de la cual haya adoptado los medios o sistemas suficientes para preservar su confidencialidad y el acceso restringido a la misma.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 3 DE ABRIL DE 2026)</small>
+
+I.- Secreto industrial, a toda información de aplicación industrial o comercial que guarde la persona que ejerce su control legal con carácter confidencial, que signifique la obtención o el mantenimiento de una ventaja competitiva o económica frente a terceras personas en la realización de actividades económicas y respecto de la cual haya adoptado los medios o sistemas suficientes para preservar su confidencialidad y el acceso restringido a dicha información.
 
 La información de un secreto industrial podrá constar en documentos, medios electrónicos o magnéticos, discos ópticos, microfilmes, películas o en cualquier otro medio conocido o por conocerse.
 
@@ -1536,7 +1902,9 @@ No se considerará secreto industrial aquella información que sea del dominio p
 
 No se considerará que entra al dominio público o que es divulgada por disposición legal, aquella información que sea proporcionada a cualquier autoridad por una persona que ejerza el control legal sobre el secreto industrial, cuando la proporcione para el efecto de obtener licencias, permisos, autorizaciones, registros, o cualesquiera otros actos de autoridad, y
 
-II.- Apropiación indebida, a la adquisición, uso o divulgación de un secreto industrial de manera contraria a los buenos usos y costumbres en la industria, comercio y servicios que impliquen competencia desleal, incluyendo la adquisición, uso, o divulgación de un secreto industrial por un tercero que sabía, o tuviere motivos razonables para saber, que el secreto industrial fue adquirido de manera contraria a dichos usos y costumbres.
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+II.- Apropiación indebida, a la adquisición, uso o divulgación de un secreto industrial de manera contraria a los buenos usos y costumbres en la industria, comercio y servicios que impliquen competencia desleal, incluyendo la adquisición, uso, o divulgación de un secreto industrial por una tercera persona que sabía, o tuviere motivos razonables para saber, que el secreto industrial fue adquirido de manera contraria a dichos usos y costumbres.
 
 ###### Artículo 164.
 
@@ -1548,9 +1916,11 @@ II.- La observación, el estudio, el desmontaje o el ensayo de un producto u obj
 
 III.- La adquisición de la información de otra persona de manera legítima sin obligación de confidencialidad o sin conocimiento de que la información era un secreto industrial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 165.
 
-La persona que ejerza el control legal del secreto industrial podrá transmitirlo o autorizar su uso a un tercero. El usuario autorizado tendrá la obligación de no divulgar el secreto industrial por ningún medio.
+La persona que ejerza el control legal del secreto industrial podrá transmitirlo o autorizar su uso a una tercera persona. La persona usuaria autorizada tendrá la obligación de no divulgar el secreto industrial por ningún medio.
 
 En los convenios por los que se transmitan conocimientos técnicos, asistencia técnica, provisión de ingeniería básica o de detalle, se podrán establecer cláusulas de confidencialidad para proteger los secretos industriales que incluyan, las cuales deberán precisar los aspectos que comprenden como confidenciales.
 
@@ -1558,9 +1928,11 @@ En los convenios por los que se transmitan conocimientos técnicos, asistencia t
 
 Toda aquella persona que, con motivo de su trabajo, empleo, cargo, puesto, desempeño de su profesión o relación de negocios, tenga acceso a un secreto industrial del cual se le haya prevenido sobre su confidencialidad, deberá abstenerse de divulgarlo, sin consentimiento de la persona que ejerza su control legal, o de su usuario autorizado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 167.
 
-La persona física o moral que contrate a un trabajador que esté laborando o haya laborado o a un profesionista, asesor o consultor que preste o haya prestado sus servicios para otra persona, con el fin de obtener secretos industriales de ésta, se considerará responsable en los términos de esta Ley.
+La persona física o moral que contrate a una persona trabajadora que esté laborando o haya laborado o a una persona profesionista, asesora o consultora que preste o haya prestado sus servicios para otra persona, con el fin de obtener secretos industriales de ésta, se considerará responsable en los términos de esta Ley.
 
 También será responsable la persona física o moral que por cualquier medio ilícito obtenga información que contemple un secreto industrial.
 
@@ -1568,13 +1940,15 @@ También será responsable la persona física o moral que por cualquier medio il
 
 La información requerida para determinar la seguridad y eficacia de productos farmoquímicos o agroquímicos que utilicen nuevos componentes quedará protegida en los términos de la legislación aplicable o, en su caso, de los Tratados Internacionales.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 169.
 
-En cualquier procedimiento judicial o administrativo relacionado con un secreto industrial o en donde se requiera que alguno de los interesados divulgue un secreto industrial, la autoridad que conozca deberá adoptar las medidas necesarias, a petición de parte o de oficio, para impedir su divulgación no autorizada a terceros ajenos a la controversia y garantizar su confidencialidad.
+En cualquier procedimiento judicial o administrativo relacionado con un secreto industrial o en donde se requiera que alguna de las personas interesadas divulgue un secreto industrial, la autoridad que conozca deberá adoptar las medidas necesarias, a petición de parte o de oficio, para impedir su divulgación no autorizada a terceras personas ajenas a la controversia y garantizar su confidencialidad.
 
-Ningún interesado podrá divulgar o usar el secreto industrial.
+Ninguna persona interesada podrá divulgar o usar el secreto industrial.
 
-Quedan incluidos en el supuesto anterior, además de las partes, sus representantes o autorizados para oír y recibir notificaciones; los funcionarios judiciales o administrativos; los testigos, peritos o cualquier otra persona que intervenga en un proceso judicial o administrativo, relacionado con un secreto industrial, o que tenga acceso a documentos que formen parte de dicho proceso.
+Quedan incluidos en el supuesto anterior, además de las partes, sus representantes o personas autorizadas para oír y recibir notificaciones; las personas servidoras públicas judiciales o administrativas; las personas testigos, peritas o cualquier otra persona que intervenga en un proceso judicial o administrativo, relacionado con un secreto industrial, o que tenga acceso a documentos que formen parte de dicho proceso.
 
 ## TÍTULO CUARTO. De las Marcas, Avisos y Nombres Comerciales
 
@@ -1604,15 +1978,37 @@ V.- Los sonidos;
 
 VI.- Los olores;
 
-VII.- La pluralidad de elementos operativos o de imagen, incluidos, entre otros, el tamaño, diseño, color, disposición de la forma, etiqueta, empaque, decoración o cualquier otro que al combinarse, distingan productos o servicios en el mercado, y
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-VIII.- La combinación de los signos enunciados en las fracciones I a VI del presente artículo.
+VII.- La pluralidad de elementos operativos o de imagen, incluidos, entre otros, el tamaño, diseño, color, disposición de la forma, etiqueta, empaque, decoración o cualquier otro que al combinarse, distingan productos o servicios en el mercado;
+
+> <small>(ADICIONADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+VIII.- De posición;
+
+> <small>(ADICIONADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+IX.- De movimiento;
+
+> <small>(ADICIONADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+X.- Multimedia, y
+
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+XI.- La combinación de los signos enunciados en las fracciones anteriores.
 
 ###### Artículo 173.
 
 No serán registrables como marca:
 
-I.- Los nombres técnicos o de uso común de los productos o servicios que pretenden distinguirse con la marca, así como aquellas palabras, denominaciones, frases, o elementos figurativos que, en el lenguaje corriente o en las prácticas comerciales, se hayan convertido en elementos usuales o genéricos de los mismos; así como aquéllas que carezcan de distintividad;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+I.- Los nombres técnicos o de uso común de los productos o servicios que pretenden distinguirse con la marca, así como aquellas palabras, denominaciones, frases, o elementos figurativos que, en el lenguaje corriente o en las prácticas comerciales, se hayan convertido en elementos usuales o genéricos de los mismos;
+
+> <small>(ADICIONADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+I Bis.- Los nombres técnicos o de uso común, así como aquellas palabras, denominaciones, frases, sonidos o elementos figurativos de los productos o servicios que pretenden distinguirse con la marca y que carezcan de distintividad;
 
 II.- Las formas tridimensionales o diseños industriales que sean del dominio público o que se hayan hecho de uso común o aquéllas que carezcan de distintividad; así como la forma usual y corriente de los productos, o la impuesta por su naturaleza o funcionalidad;
 
@@ -1634,11 +2030,15 @@ IX.- Los signos que reproduzcan o imiten los nombres, signos o la representació
 
 X.- Los signos idénticos o semejantes en grado de confusión a las zonas geográficas, propias o comunes; los mapas, las denominaciones de poblaciones, o los gentilicios, nombres o adjetivos, cuando éstos indiquen la procedencia de los productos o servicios y puedan originar confusión o error en cuanto a su procedencia.
 
-Quedan incluidos en este supuesto aquellos signos que se acompañen de expresiones tales como "género", "tipo", "manera", "imitación", “producido en”, “con fabricación en” u otros similares que creen confusión en el consumidor o impliquen competencia desleal;
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Quedan incluidos en este supuesto aquellos signos que se acompañen de expresiones tales como “género”, “tipo”, “manera”, “imitación”, “producido en”, “con fabricación en” u otros similares que creen confusión en la persona consumidora o impliquen competencia desleal;
 
 XI.- Los signos idénticos o semejantes en grado de confusión a las denominaciones de origen, indicaciones geográficas, o a las denominaciones o signos de lugares que se caractericen por la fabricación, producción o comercialización de determinados productos o servicios, cuando los productos o servicios solicitados sean idénticos o similares a éstos o a los protegidos por las denominaciones de origen o indicaciones geográficas.
 
-Quedan incluidos en este supuesto aquellos signos que se acompañen de expresiones tales como: "género", "tipo", "manera", "imitación", “producido en”, “con fabricación en” u otras similares que creen confusión en el consumidor o impliquen competencia desleal;
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Quedan incluidos en este supuesto aquellos signos que se acompañen de expresiones tales como: “género”, “tipo”, “manera”, “imitación”, “producido en”, “con fabricación en” u otras similares que creen confusión en la persona consumidora o impliquen competencia desleal;
 
 XII.- Los nombres de lugares de propiedad particular, cuando sean especiales e inconfundibles y que se caractericen por la producción de determinados productos o el ofrecimiento de determinados servicios, sin el consentimiento del propietario;
 
@@ -1646,11 +2046,13 @@ XIII.- Los nombres, apellidos, apelativos o seudónimos de personas que hayan ad
 
 Tampoco será registrable la imagen, la voz identificable, el retrato o la firma de una persona sin su consentimiento expreso, o de quien tenga el derecho correspondiente;
 
-XIV.- Los nombres o denominaciones idénticos o semejantes en grado de confusión al título de una obra literaria o artística, así como la reproducción o imitación de elementos contenidos en ella, cuando dicha obra tenga tal relevancia o reconocimiento que el signo solicitado pueda ser susceptible de engañar al público o inducir a error por hacer creer infundadamente que existe alguna relación o asociación entre éste y la obra, salvo que el titular del derecho correspondiente lo autorice expresamente.
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-No será registrable como marca la reproducción, total o parcial, de una obra literaria o artística, sin la autorización correspondiente del titular del derecho de autor.
+XIV.- Los nombres o denominaciones idénticos o semejantes en grado de confusión al título de una obra literaria o artística, así como la reproducción o imitación de elementos contenidos en ella, cuando dicha obra tenga tal relevancia o reconocimiento que el signo solicitado pueda ser susceptible de engañar al público o inducir a error por hacer creer infundadamente que existe alguna relación o asociación entre éste y la obra, salvo que la persona titular del derecho correspondiente lo autorice expresamente.
 
-Tampoco serán registrables como marca las reservas de derechos vigentes, excepto cuando el registro sea solicitado por el titular del derecho correspondiente o por un tercero con el consentimiento de éste;
+No será registrable como marca la reproducción, total o parcial, de una obra literaria o artística, sin la autorización correspondiente de la persona titular del derecho de autor.
+
+Tampoco serán registrables como marca los títulos de publicaciones y difusiones periódicas, los personajes ficticios o simbólicos, los personajes humanos de caracterización, los nombres artísticos y las denominaciones de grupos artísticos, excepto cuando el registro sea solicitado por la persona titular del derecho correspondiente o por una tercera persona con el consentimiento de ésta;
 
 XV.- Los signos, frases, elementos de imagen, oraciones, avisos o nombres comerciales, susceptibles de engañar al público o inducir a error.
 
@@ -1658,33 +2060,53 @@ Se entenderán como tales, aquéllos que constituyan indicaciones falsas o enga�
 
 XVI.- Los signos iguales o semejantes en grado de confusión a una marca que el Instituto estime o haya declarado notoriamente conocida en México, en términos del Capítulo III de este Título, para ser aplicadas a cualquier producto o servicio, cuando la marca cuyo registro se solicita pudiese:
 
-a) Crear confusión o un riesgo de asociación con el titular de la marca notoriamente conocida;
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-b) Constituir un aprovechamiento no autorizado por el titular de la marca notoriamente conocida;
+a) Crear confusión o un riesgo de asociación con la persona titular de la marca notoriamente conocida;
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+b) Constituir un aprovechamiento no autorizado por la persona titular de la marca notoriamente conocida;
 
 c) Causar el desprestigio de la marca notoriamente conocida, o
 
 d) Diluir el carácter distintivo de la marca notoriamente conocida.
 
-Este impedimento no será aplicable cuando el solicitante del registro sea titular de la marca notoriamente conocida;
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Este impedimento no será aplicable cuando la persona solicitante del registro sea titular de la marca notoriamente conocida;
 
 XVII.- Los signos idénticos o semejantes en grado de confusión a una marca que el Instituto estime o haya declarado famosa en términos del Capítulo III de este Título, para ser aplicadas a cualquier producto o servicio.
 
-Este impedimento no será aplicable cuando el solicitante del registro sea titular de la marca famosa;
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-XVIII.- Los signos idénticos o semejantes en grado de confusión, a una marca en trámite de registro presentada con anterioridad, o a una registrada y vigente, aplicada a los mismos o similares productos o servicios.
+Este impedimento no será aplicable cuando la persona solicitante del registro sea titular de la marca famosa;
 
-Quedan incluidos en este supuesto aquéllos que sean idénticos a una marca registrada o en trámite del mismo titular, que distinga productos o servicios idénticos;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-XIX.- Los signos que sean idénticos o semejantes en grado de confusión, a un nombre comercial aplicado a una empresa o a un establecimiento industrial, comercial o de servicios, cuyo giro preponderante sea la elaboración o venta de los productos o la prestación de los servicios que se pretendan amparar con la marca, y siempre que el nombre comercial haya sido usado con anterioridad a la fecha de presentación de la solicitud de registro de la marca o la de uso declarado de la misma. Lo anterior no será aplicable, cuando la solicitud de marca la presente el titular del nombre comercial, si no existe otro nombre comercial idéntico que haya sido publicado;
+XVIII.- Los signos idénticos o semejantes en grado de confusión, a una marca o aviso comercial en trámite de registro presentada con anterioridad, o a una registrada y vigente, aplicada a los mismos o similares productos o servicios.
+
+Quedan incluidos en este supuesto aquéllos que sean idénticos a una marca registrada o en trámite de la misma persona titular, que distinga productos o servicios idénticos;
+
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+XIX.- Los signos que sean idénticos o semejantes en grado de confusión, a un nombre comercial aplicado a una empresa o a un establecimiento industrial, comercial o de servicios, cuyo giro preponderante sea la elaboración o venta de los productos o la prestación de los servicios que se pretendan amparar con la marca, y siempre que el nombre comercial haya sido usado con anterioridad a la fecha de presentación de la solicitud de registro de la marca o la de uso declarado de la misma. Lo anterior no será aplicable, cuando la solicitud de marca la presente la persona titular del nombre comercial, si no existe otro nombre comercial idéntico que haya sido publicado;
 
 XX.- El nombre propio, apellido, apodo o apelativo de una persona física que sea idéntico o semejante en grado de confusión a una marca en trámite de registro presentada con anterioridad o a una registrada y vigente, o un nombre comercial publicado, aplicado a los mismos o similares productos o servicios;
 
-XXI.- Los signos que reproduzcan o imiten denominaciones o elementos que hagan referencia a variedades vegetales protegidas, así como las razas de animales, que puedan causar confusión en el público consumidor respecto de los productos o servicios a distinguir, y
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+XXI.- Los signos que reproduzcan o imiten denominaciones o elementos que hagan referencia a variedades vegetales protegidas, así como las razas de animales, que puedan causar confusión en el público consumidor respecto de los productos o servicios a distinguir;
 
 XXII.- Los signos solicitados de mala fe.
 
-Se entenderá por mala fe, entre otros casos, el haber solicitado el registro de un signo con el propósito de obtener un beneficio o ventaja indebida en perjuicio de su legítimo titular.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Se entenderá por mala fe, entre otros casos, el haber solicitado el registro de un signo con el propósito de obtener un beneficio o ventaja indebida en perjuicio de su legítimo titular, y
+
+> <small>(ADICIONADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+XXIII.- Los signos idénticos o semejantes en grado de confusión a los elementos que formen parte o se vinculen de manera clara al desarrollo del patrimonio cultural, conocimientos y expresiones culturales tradicionales, así como a las manifestaciones asociadas a los mismos y la propiedad intelectual colectiva de los pueblos y comunidades indígenas y afromexicanas, salvo que la solicitud sea presentada por personas integrantes de dichas comunidades, en términos de lo que establezca el Reglamento de esta Ley y previa autorización de la asamblea general comunitaria respectiva.
 
 Lo dispuesto por las fracciones I, II, III, IV, V y VI del presente artículo no resultará aplicable, cuando derivado del uso que se hubiese hecho en el comercio en los productos o servicios para los cuales se solicita la marca, ésta haya adquirido un carácter distintivo en territorio nacional, de conformidad con lo dispuesto por el Reglamento de esta Ley. No se reconocerá que una forma tridimensional ha adquirido distintividad, cuando se solicite proteger únicamente la forma inherente a su naturaleza o funcionalidad.
 
@@ -1698,7 +2120,9 @@ No podrá usarse ni formar parte del nombre comercial, denominación o razón so
 
 I.- Se trate de establecimientos o personas morales cuya actividad sea la producción, importación o comercialización de bienes o servicios iguales o similares a los que se aplica la marca registrada, y
 
-II.- No exista consentimiento manifestado por escrito del titular del registro de la marca o de quien tenga facultades para hacerlo.
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+II.- No exista consentimiento manifestado por escrito de la persona titular del registro de la marca o de quien tenga facultades para hacerlo.
 
 La violación a este precepto dará lugar a la aplicación de las sanciones a que se refiere esta Ley, independientemente que se pueda demandar judicialmente la supresión de la marca registrada o aquélla semejante en grado de confusión a la previamente registrada, del nombre comercial, la denominación o razón social correspondiente y el pago de daños y perjuicios.
 
@@ -1708,9 +2132,13 @@ Lo dispuesto en este precepto no será aplicable cuando el nombre comercial, den
 
 El registro de una marca no producirá efecto alguno contra:
 
-I.- Un tercero que de buena fe explotaba en territorio nacional la misma marca u otra semejante en grado de confusión, para los mismos o similares productos o servicios, siempre y cuando el tercero hubiese empezado a usar la marca, de manera ininterrumpida, antes de la fecha de presentación de la solicitud de registro o del primer uso declarado en ésta. El tercero tendrá derecho a solicitar el registro de la marca, dentro de los cinco años siguientes al día en que fue publicado el registro, en cuyo caso deberá tramitar y obtener previamente la declaración de nulidad de éste;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-II.- Cualquier persona que comercialice, distribuya, adquiera o use el producto al que se aplica la marca registrada, luego que dicho producto hubiera sido introducido lícitamente en el comercio por el titular de la marca registrada o por la persona a quien le haya concedido licencia.
+I.- Una tercera persona que de buena fe explotaba en territorio nacional la misma marca u otra semejante en grado de confusión, para los mismos o similares productos o servicios, siempre y cuando la tercera persona hubiese empezado a usar la marca, de manera ininterrumpida, antes de la fecha de presentación de la solicitud de registro o del primer uso declarado en ésta. La tercera persona tendrá derecho a solicitar el registro de la marca, dentro de los cinco años siguientes al día en que fue publicado el registro, en cuyo caso deberá tramitar y obtener previamente la declaración de nulidad de éste;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 3 DE ABRIL DE 2026)</small>
+
+II.- Cualquier persona que comercialice, distribuya, adquiera o use el producto al que se aplica la marca registrada, luego que dicho producto hubiera sido introducido lícitamente en el comercio por la persona titular de la marca registrada o por la persona a quien le haya concedido licencia.
 
 Queda comprendida en este supuesto la importación de los productos legítimos a los que se aplica la marca, que realice cualquier persona para su uso, distribución o comercialización en México, en los términos y condiciones que señale el Reglamento de esta Ley, y
 
@@ -1734,7 +2162,9 @@ Para distinguir posteriormente un producto o servicio diverso con una marca ya r
 
 El registro de marca tendrá una vigencia de diez años contados a partir de la fecha de su otorgamiento y podrá renovarse por períodos de la misma duración.
 
-Al momento de solicitar el registro de una marca, así como al momento de su renovación, el interesado declarará bajo protesta de decir verdad que los productos o servicios que ofertará se encuentran libre de engaño o mala fe.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Al momento de solicitar el registro de una marca, así como al momento de su renovación, la persona interesada declarará bajo protesta de decir verdad que los productos o servicios que ofertará se encuentran libre de engaño o mala fe.
 
 En caso de que las autoridades competentes determinen que dicho producto o servicio viola las disposiciones legales vigentes que le resulten aplicables, el Instituto podrá iniciar el procedimiento de declaración administrativa de nulidad del registro respectivo.
 
@@ -1760,7 +2190,9 @@ III.- Los productos o servicios a los que se aplicará la marca;
 
 IV.- Las características o cualidades comunes de los productos o servicios;
 
-V.- Los procesos de elaboración, producción, empaque, embalaje o envasado;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+V.- Los procesos de elaboración, producción, empaque, embalaje o envasado del producto o de la prestación del servicio que se trate;
 
 VI.- La indicación de que la marca no podrá ser transmitida a terceras personas y de que su uso quedará reservado a los miembros de la asociación o sociedad;
 
@@ -1770,7 +2202,9 @@ VIII.- Las sanciones en caso de incumplimiento de las reglas de uso;
 
 IX.- La indicación sobre el ejercicio de las acciones legales de protección, y
 
-X.- Las demás que el solicitante estime pertinentes.
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+X.- Las demás que la persona solicitante estime pertinentes.
 
 En el caso de la fracción IX del presente artículo, cualquier modificación deberá ser inscrita ante el Instituto para surtir efectos frente a terceros.
 
@@ -1792,7 +2226,9 @@ III.- La calidad, procesos u otras características de los productos y servicios
 
 IV.- El origen geográfico de los productos y servicios, entre otros.
 
-El titular de la marca de certificación verificará el cumplimiento de una o más de las cualidades o características establecidas en las fracciones I a IV del presente artículo, conforme a lo establecido en las reglas de uso.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+La persona titular de la marca de certificación verificará el cumplimiento de una o más de las cualidades o características establecidas en las fracciones I a IV del presente artículo, conforme a lo establecido en las reglas de uso.
 
 ###### Artículo 184.
 
@@ -1830,9 +2266,13 @@ VII.- La indicación de que la marca no podrá ser objeto de licencia;
 
 VIII.- La indicación sobre el ejercicio de las acciones legales de protección;
 
-IX.- En su caso, las Normas Oficiales Mexicanas, Normas Mexicanas o cualquier otra norma o lineamiento internacional que apliquen, y
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-X.- Las demás que el solicitante estime pertinentes.
+IX.- En su caso, las normas oficiales mexicanas, estándares o cualquier otra norma o lineamiento internacional que apliquen, y
+
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+X.- Las demás que la persona solicitante estime pertinentes.
 
 En el caso de la fracción VIII del presente artículo, cualquier modificación deberá ser inscrita ante el Instituto para surtir efectos frente a terceros.
 
@@ -1842,11 +2282,13 @@ La marca de certificación no será objeto de licencia, quedando su uso reservad
 
 Las marcas de certificación se regirán, en lo que no haya disposición especial, por lo establecido en esta Ley para las marcas.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 188.
 
-El titular de una marca de certificación autorizará su uso a toda persona cuyo producto o servicio cumpla con las condiciones determinadas en las reglas de uso.
+La persona titular de una marca de certificación autorizará su uso a toda persona cuyo producto o servicio cumpla con las condiciones determinadas en las reglas de uso.
 
-Solo los usuarios autorizados podrán usar junto con la marca de certificación el término “Marca de Certificación Registrada”.
+Solo las personas usuarias autorizadas podrán usar junto con la marca de certificación el término “Marca de Certificación Registrada”.
 
 ###### Artículo 189.
 
@@ -1876,15 +2318,23 @@ La declaratoria o cualquiera de sus actualizaciones constituyen un acto administ
 
 Los impedimentos previstos en el artículo 173, fracciones XVI y XVII, para la protección de marcas notoriamente conocidas o famosas, se aplicarán con independencia de que éstas se encuentren registradas o declaradas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 192.
 
-Para efectos de obtener la declaratoria de notoriedad o fama, el solicitante aportará los siguientes datos:
+Para efectos de obtener la declaratoria de notoriedad o fama, la persona solicitante aportará los siguientes datos:
 
-I.- El sector del público integrado por los consumidores reales o potenciales que identifiquen la marca con los productos o servicios que ésta ampara, basados en una encuesta o estudio de mercado o cualquier otro medio permitido por la ley;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-II.- Otros sectores del público diversos a los consumidores reales o potenciales que identifiquen la marca con los productos o servicios que ésta ampara, basados en una encuesta o estudio de mercado o cualquier otro medio permitido por la ley;
+I.- El sector del público integrado por las personas consumidoras reales o potenciales que identifiquen la marca con los productos o servicios que ésta ampara, basados en una encuesta o estudio de mercado o cualquier otro medio permitido por la ley;
 
-III.- Los círculos comerciales integrados por los comerciantes, industriales o prestadores de servicios relacionados con el género de productos o servicios, que identifiquen la marca con los productos o servicios que ésta ampara, basados en una encuesta o estudio de mercado o cualquier otro medio permitido por la ley;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+II.- Otros sectores del público diversos a las personas consumidoras reales o potenciales que identifiquen la marca con los productos o servicios que ésta ampara, basados en una encuesta o estudio de mercado o cualquier otro medio permitido por la ley;
+
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+III.- Los círculos comerciales integrados por las personas comerciantes, industriales o prestadoras de servicios relacionadas con el género de productos o servicios, que identifiquen la marca con los productos o servicios que ésta ampara, basados en una encuesta o estudio de mercado o cualquier otro medio permitido por la ley;
 
 IV.- La fecha de primer uso, el tiempo de uso continuo y el tiempo de publicidad efectiva de la marca en México y, en su caso, en el extranjero;
 
@@ -1906,7 +2356,9 @@ La declaratoria podrá actualizarse en cualquier tiempo, a petición de quien te
 
 La solicitud de declaración de notoriedad o fama se hará con las formalidades que para las solicitudes y promociones están señaladas en esta Ley y su Reglamento, a la que se acompañarán los elementos probatorios que funden la petición y en la que se expresará cuando menos lo siguiente:
 
-I.- Nombre, nacionalidad, domicilio, teléfono y correo electrónico del solicitante y, en su caso, de su representante, y
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+I.- Nombre, nacionalidad, domicilio, teléfono y correo electrónico de la persona solicitante y, en su caso, de su representante, y
 
 II.- Los documentos y elementos probatorios que se acompañan a la solicitud.
 
@@ -1914,15 +2366,21 @@ II.- Los documentos y elementos probatorios que se acompañan a la solicitud.
 
 Recibida la solicitud por el Instituto y enterado el pago de las tarifas correspondientes, se efectuará el examen de los elementos, datos y documentos aportados.
 
-Si a juicio del Instituto, éstos no satisfacen los requisitos legales o resultan insuficientes para la comprensión y análisis de cualquiera de los elementos de la solicitud, se prevendrá al solicitante para que haga las aclaraciones o adiciones necesarias, otorgándole al efecto un plazo de cuatro meses.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-Si el solicitante no cumple con el requerimiento dentro del plazo otorgado, la solicitud será desechada.
+Si a juicio del Instituto, éstos no satisfacen los requisitos legales o resultan insuficientes para la comprensión y análisis de cualquiera de los elementos de la solicitud, se prevendrá a la persona solicitante para que haga las aclaraciones o adiciones necesarias, otorgándole al efecto un plazo de cuatro meses.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Si la persona solicitante no cumple con el requerimiento dentro del plazo otorgado, la solicitud será desechada.
 
 ###### Artículo 196.
 
 Concluido el trámite de la solicitud y satisfechos los requisitos legales y reglamentarios, se expedirá la declaratoria correspondiente.
 
-En caso de que el Instituto niegue el otorgamiento de la declaratoria, lo notificará por escrito al solicitante, expresando los motivos y fundamentos legales de su resolución y valorando todos los elementos probatorios recibidos.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+En caso de que el Instituto niegue el otorgamiento de la declaratoria, lo notificará por escrito a la persona solicitante, expresando los motivos y fundamentos legales de su resolución y valorando todos los elementos probatorios recibidos.
 
 ###### Artículo 197.
 
@@ -1958,7 +2416,7 @@ Si el aviso comercial tiene por objeto anunciar productos o servicios, éstos de
 
 ###### Artículo 203.
 
-Si el aviso comercial tiene por objeto anunciar algún establecimiento o negociación, sean éstos de la naturaleza que fueren, se considerará comprendido en una clase especial, complementaria de la clasificación que establezca el Reglamento de esta Ley. El registro no amparará en estos casos productos o servicios, aun cuando estén relacionados con el establecimiento o negociación.
+(DEROGADO, D.O.F. 3 DE ABRIL DE 2026)
 
 ###### Artículo 204.
 
@@ -1986,6 +2444,10 @@ La solicitud de publicación de un nombre comercial se presentará al Instituto 
 
 Recibida la solicitud y satisfechos los requisitos legales, se efectuará el examen de fondo a fin de determinar si existe algún nombre comercial idéntico o semejante en grado de confusión aplicado al mismo giro, en trámite o publicado con anterioridad, o a una marca en trámite de registro o a una ya registrada idéntica o semejante en grado de confusión que ampare productos o servicios iguales o similares relacionados con el giro preponderante de la empresa o establecimiento de que se trate. De no encontrarse anterioridad procederá la publicación.
 
+> <small>(ADICIONADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+El Instituto deberá realizar la publicación a que se refiere el párrafo anterior, en un plazo que no deberá exceder de cinco meses contado a partir de la presentación de la solicitud o, en su caso, del día en que se haya solventado el último requerimiento emitido por el Instituto.
+
 ###### Artículo 210.
 
 No se publicarán los nombres comerciales que carezcan de elementos que hagan distinguir a la empresa o establecimiento de que se trate de otros de su género, ni aquéllos que contravengan en lo aplicable, las disposiciones contenidas en el artículo 173 de esta Ley.
@@ -2008,7 +2470,9 @@ El nombre comercial se regirá en lo que sea aplicable y no haya disposición es
 
 Para obtener el registro de una marca deberá presentarse solicitud ante el Instituto con los siguientes datos:
 
-I.- El nombre, domicilio y correo electrónico del solicitante;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+I.- El nombre, domicilio y correo electrónico de la persona solicitante;
 
 II.- La representación del signo que constituya la marca.
 
@@ -2018,15 +2482,23 @@ IV.- Los productos o servicios específicos en los que se aplicará la marca;
 
 V.- Los elementos sobre los cuales no se solicita protección y que se reproducen en la marca, en términos del artículo 216 de esta Ley;
 
-VI.- La descripción de la marca, cuando proceda;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+VI.- La denominación o descripción de la marca, cuando proceda;
 
 VII.- La ubicación de uno o más establecimientos o negociaciones relacionados con la marca, siempre y cuando, se haya señalado fecha de primer uso;
 
-VIII.- Cuando se trate de marcas conformadas únicamente por palabras, letras o números previstos por el alfabeto latino internacional, se deberá incluir la manifestación expresa de que en la representación del signo se han usado caracteres estándar. En este caso, se entenderá que el solicitante se reserva el uso en cualquier tipo o tamaño de letra;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+VIII.- Cuando se trate de marcas conformadas únicamente por palabras, letras o números previstos por el alfabeto latino internacional, se deberá incluir la manifestación expresa de que en la representación del signo se han usado caracteres estándar. En este caso, se entenderá que la persona solicitante se reserva el uso en cualquier tipo o tamaño de letra;
 
 IX.- Cuando la marca de certificación contenga una indicación geográfica, se deberá incluir su manifestación expresa, y
 
 X.- Los demás que prevenga el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Cualquier omisión o error de la información proporcionada por la persona solicitante de las fracciones V y VI de este artículo, se subsanará por el Instituto atendiendo al signo incorporado en el apartado de representación del signo.
 
 ###### Artículo 215.
 
@@ -2038,9 +2510,11 @@ Constituyen elementos no reservables, aquéllos que carezcan de poder distintivo
 
 Los elementos gráficos que no forman parte de la marca deberán señalarse por líneas discontinuas o punteadas en su representación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 217.
 
-En caso de que la marca sea solicitada a nombre de dos o más personas se deberán presentar con la solicitud, las reglas convenidas y firmadas por los solicitantes, las cuales deberán establecer:
+En caso de que la marca sea solicitada a nombre de dos o más personas se deberán presentar con la solicitud, las reglas convenidas y firmadas por las personas solicitantes, las cuales deberán establecer:
 
 I.- El uso, licencia y transmisión de derechos de la marca o, en su caso, para la defensa de la misma;
 
@@ -2048,7 +2522,9 @@ II.- La cancelación del registro, y
 
 III.- La limitación de productos y servicios.
 
-Cualquiera de los cotitulares podrá iniciar las acciones correspondientes para la defensa de sus derechos, salvo estipulación en contrario en el convenio respectivo.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Cualquiera de las personas cotitulares podrá iniciar las acciones correspondientes para la defensa de sus derechos, salvo estipulación en contrario en el convenio respectivo.
 
 ###### Artículo 218.
 
@@ -2068,9 +2544,11 @@ Si al momento de presentarse la solicitud, ésta satisface lo requerido por los 
 
 La fecha de presentación determinará la prelación entre las solicitudes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 221.
 
-Recibida la solicitud, el Instituto procederá a su publicación en la Gaceta, a más tardar en los diez días siguientes a su recepción y otorgará un plazo improrrogable de un mes, contado a partir de la fecha en que surta efectos dicha publicación, para que cualquier tercero que tenga interés, se oponga a la solicitud de registro o publicación por considerar que ésta incurre en los supuestos previstos en los artículos 12 y 173 de esta Ley.
+Recibida la solicitud, el Instituto procederá a su publicación en la Gaceta, a más tardar en los diez días siguientes a su recepción y otorgará un plazo improrrogable de un mes, contado a partir de la fecha en que surta efectos dicha publicación, para que cualquier persona que tenga interés, se oponga a la solicitud de registro o publicación por considerar que ésta incurre en los supuestos previstos en los artículos 12 y 173 de esta Ley.
 
 Si la oposición se presenta fuera del plazo establecido, ésta será desechada de plano.
 
@@ -2080,11 +2558,15 @@ La oposición deberá presentarse por escrito, acompañarse de las pruebas respe
 
 Para el trámite de la oposición se admitirán toda clase de pruebas con excepción de la confesional y testimonial, salvo que el testimonio o la confesión estén contenidos en documental, así como las que sean contrarias al orden público o al derecho.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 223.
 
-Si la oposición presentada o las promociones derivadas de ésta, no cumplieren con el acreditamiento de personalidad o el pago correspondiente, el Instituto requerirá por única ocasión al oponente para que dentro de un plazo de cinco días, contado a partir del día hábil siguiente al de la notificación, subsane la omisión en que incurrió o haga las aclaraciones que correspondan.
+Si la oposición presentada o las promociones derivadas de ésta, no cumplieren con el acreditamiento de personalidad o el pago correspondiente, el Instituto requerirá por única ocasión a la persona oponente para que dentro de un plazo de cinco días, contado a partir del día hábil siguiente al de la notificación, subsane la omisión en que incurrió o haga las aclaraciones que correspondan.
 
-En caso de que el oponente no cumpla con el requerimiento o éste se presente fuera del plazo establecido en el párrafo anterior, la oposición será desechada de plano.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+En caso de que la persona oponente no cumpla con el requerimiento o éste se presente fuera del plazo establecido en el párrafo anterior, la oposición será desechada de plano.
 
 Las oposiciones que se hayan presentado sin cumplir con los requisitos establecidos se notificarán una vez que hayan sido subsanados los requerimientos respectivos.
 
@@ -2092,27 +2574,45 @@ Las oposiciones que se hayan presentado sin cumplir con los requisitos estableci
 
 La oposición al registro o publicación solicitado no prejuzgará sobre el resultado del examen de fondo que realice el Instituto sobre la solicitud.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 225.
 
-Concluido el plazo de un mes al que se refiere el artículo 221 de esta Ley, se procederá a realizar el examen de la solicitud.
+Concluido el plazo de un mes al que se refiere el artículo 221 de esta Ley, se procederá a realizar el examen de forma de la solicitud.
 
-Si la solicitud o la documentación exhibida no cumple con los requisitos legales o reglamentarios o si existe algún impedimento para el registro de la marca, el Instituto lo comunicará por escrito al solicitante. En caso de presentarse oposición a la solicitud, también se le comunicará al solicitante para que manifieste lo que a su derecho convenga y presente las pruebas que estime convenientes.
+> <small>(ADICIONADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-El Instituto otorgará un plazo de dos meses al solicitante para que manifieste lo que a su derecho convenga en relación con los requisitos, oposiciones o impedimentos.
+Finalizado el examen de forma, se procederá a realizar el examen de fondo, a fin de verificar si la marca es registrable en los términos de esta Ley.
 
-Si el interesado no contesta dentro del plazo concedido, se considerará abandonada su solicitud.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Si la solicitud o la documentación exhibida no cumple con los requisitos legales o reglamentarios o si existe algún impedimento para el registro de la marca, o bien, en caso de presentarse oposición a la solicitud, el Instituto lo comunicará por escrito a la persona solicitante para que manifieste lo que a su derecho convenga y presente las pruebas que estime convenientes.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+El Instituto otorgará un plazo de dos meses a la persona solicitante para que manifieste lo que a su derecho convenga en relación con los requisitos, oposiciones o impedimentos.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Si la persona interesada no contesta dentro del plazo concedido, se considerará abandonada su solicitud.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 226.
 
-El interesado tendrá un plazo adicional de dos meses para cumplir los requisitos a que se refiere el artículo anterior, sin que medie solicitud y comprobando el pago de la tarifa que corresponda al mes en que se dé cumplimiento.
+La persona interesada tendrá un plazo adicional de dos meses para manifestarse respecto a los requisitos, oposiciones o impedimentos a que se refiere el artículo anterior, sin que medie solicitud y comprobando el pago de la tarifa que corresponda al mes en que se dé cumplimiento.
 
 El plazo adicional, se contará a partir del día hábil siguiente al del vencimiento del plazo de dos meses previsto en el artículo 225 anterior.
 
-La solicitud se tendrá por abandonada si el solicitante no da cumplimiento a los requerimientos formulados dentro del plazo inicial o en el adicional a que se refiere este artículo, o no presenta el comprobante de pago de las tarifas correspondientes.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+La solicitud se tendrá por abandonada si la persona solicitante no da cumplimiento a los requerimientos formulados dentro del plazo inicial o en el adicional a que se refiere este artículo, o no presenta el comprobante de pago de las tarifas correspondientes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 227.
 
-Si el solicitante, a efecto de subsanar los requisitos, impedimentos o anterioridades, modifica la marca; aumenta el número de productos o servicios para los que se solicita el registro; o sustituye o cambia el producto o servicio señalado en la solicitud inicial, ésta se sujetará a un nuevo trámite.
+Si la persona solicitante, a efecto de subsanar los requisitos, impedimentos o anterioridades, o de forma voluntaria modifica la marca; aumenta el número de productos o servicios para los que se solicita el registro; o sustituye o cambia el producto o servicio señalado en la solicitud inicial, ésta se sujetará a un nuevo trámite.
 
 El nuevo trámite deberá:
 
@@ -2130,19 +2630,41 @@ El Instituto suspenderá el trámite de una solicitud de registro o publicación
 
 I.- Cuando la solicitud se encuentre en alguno de los impedimentos relativos a la existencia de uno o varios registros o publicaciones de uno o varios nombres comerciales, idénticos o similares en grado de confusión y se presente una solicitud de declaración administrativa de nulidad, caducidad o cancelación sobre la marca o aviso comercial registrado o de cesación de los efectos de un nombre comercial publicado.
 
-La suspensión se ordenará de oficio o se solicitará a petición de cualquiera de las partes en el procedimiento de declaración administrativa, dentro del plazo de dos meses previsto en el artículo 225 de esta Ley, y
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-II.- Por orden de autoridad jurisdiccional o administrativa.
+La suspensión se ordenará de oficio o se solicitará a petición de cualquiera de las partes en el procedimiento de declaración administrativa correspondiente, dentro del plazo de dos meses o el adicional previstos en los artículos 225 y 226 de esta Ley.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+En caso de que los procedimientos sean iniciados a petición de parte, la persona solicitante deberá manifestarlo por escrito en el expediente de registro de marca en la cual solicita la suspensión. En caso de no realizarlo se continuará con el procedimiento de registro de marca hasta su conclusión;
+
+> <small>(ADICIONADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+II.- Cuando existan registros o publicaciones que estén siendo objeto de alguna acción o acciones de nulidad, caducidad, cancelación o cesación de efectos, o bien, cuando se hayan resuelto, pero estén siendo impugnados, y existan o presenten posteriores solicitudes idénticas o semejantes en grado de confusión aplicadas a productos o servicios similares de la persona titular cuyos registros o publicaciones están siendo objeto de las acciones antes referidas, el trámite de las posteriores solicitudes será suspendido hasta en tanto las citadas acciones no se resuelvan en forma definitiva, a fin de no emitir resoluciones contradictorias, y
+
+III.- Por orden de autoridad jurisdiccional o administrativa.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 229.
 
-Transcurrido el plazo de dos meses al que se refiere el artículo 225 de esta Ley, una vez desahogadas las pruebas, las actuaciones se pondrán a disposición del solicitante y de las personas que hubieren presentado oposiciones para que, en su caso, formulen alegatos en un plazo de cinco días, los cuales serán tomados en cuenta por el Instituto. Transcurrido dicho plazo se procederá sin mayor trámite a dictar la resolución que corresponda.
+Transcurrido el plazo de dos meses a que se refiere el artículo 225 de esta Ley, una vez desahogadas las pruebas, las actuaciones se pondrán a disposición de la persona solicitante y de las personas que hubieren presentado oposiciones para que, en su caso, formulen alegatos en un plazo de cinco días, los cuales serán tomados en cuenta por el Instituto. Transcurrido dicho plazo se procederá sin mayor trámite a dictar la resolución que corresponda dentro de un plazo que no podrá exceder de cinco meses.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+###### Artículo 229 Bis.
+
+En caso de que el Instituto no emita requerimientos a la persona solicitante de un registro de marca o no se presente oposición sobre la solicitud, el plazo máximo de conclusión para que el Instituto resuelva la solicitud será de cinco meses contados a partir de la fecha de su presentación.
+
+Los plazos previstos en el presente artículo y en el artículo 229 de esta Ley, resultan aplicables para las marcas, avisos comerciales y nombres comerciales, previstos en este Título.
 
 ###### Artículo 230.
 
 Concluido el trámite de la solicitud y satisfechos los requisitos legales y reglamentarios, se expedirá el título.
 
-En caso de que el Instituto niegue el registro de la marca, lo comunicará por escrito al solicitante, expresando los motivos y fundamentos legales de su resolución.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+En caso de que el Instituto niegue el registro de la marca, lo comunicará por escrito a la persona solicitante, expresando los motivos y fundamentos legales de su resolución.
 
 El Instituto dictará la resolución que corresponda a las oposiciones recibidas, expresando los motivos y fundamentos legales de su resolución.
 
@@ -2156,7 +2678,9 @@ II.- El signo que constituye la marca;
 
 III.- Los productos o servicios a los que se aplicará la marca, indicando la clase a la que corresponden;
 
-IV.- El nombre y domicilio del titular;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+IV.- El nombre y domicilio de la persona titular;
 
 V.- La ubicación del establecimiento, en su caso;
 
@@ -2176,17 +2700,23 @@ Las resoluciones sobre registros de marcas y sus renovaciones deberán ser publi
 
 La marca deberá usarse en territorio nacional, tal como fue registrada o con modificaciones que no alteren su carácter distintivo.
 
-El titular de una marca deberá declarar su uso real y efectivo, indicando los productos o servicios específicos a los que ésta se aplica, acompañando el pago de la tarifa correspondiente.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+La persona titular de una marca deberá declarar su uso real y efectivo, indicando los productos o servicios específicos a los que ésta se aplica, acompañando el pago de la tarifa correspondiente.
 
 La declaración se presentará ante el Instituto durante los tres meses posteriores, contados a partir de que se cumpla el tercer año de haberse otorgado el registro.
 
 El alcance de la protección del registro continuará sólo en aquellos productos o servicios sobre los cuales se haya declarado el uso.
 
-Si el titular no declara el uso, el registro caducará de pleno derecho, sin que se requiera de declaración por parte del Instituto.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Si la persona titular no declara el uso, el registro caducará de pleno derecho, sin que se requiera de declaración por parte del Instituto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 234.
 
-El Instituto podrá declarar el registro y uso obligatorio de marcas en cualquier producto o servicio o prohibir o regular el uso de marcas, registradas o no, de oficio o a petición de los organismos representativos, cuando:
+El Instituto podrá declarar el registro y uso obligatorio de marcas en cualquier producto o servicio o prohibir o regular el uso de marcas, registradas o no, de oficio o a petición de organismos representativos, cuando:
 
 I.- El uso de la marca sea un elemento asociado a competencia desleal, que cause distorsiones graves en la producción, distribución o comercialización de determinados productos o servicios;
 
@@ -2196,25 +2726,43 @@ III.- El uso de marcas impida, entorpezca o encarezca en casos de emergencia nac
 
 La declaratoria correspondiente se publicará en el Diario Oficial.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 235.
 
-Si una marca no es usada durante tres años consecutivos en los productos o servicios para los que fue registrada, procederá la caducidad del registro, o en su caso, la caducidad parcial relativa a los productos o servicios que no se encuentren en uso, salvo que su titular o el usuario que tenga concedida licencia, la hubiese usado durante los tres años consecutivos inmediatos anteriores a la presentación de la solicitud de declaración administrativa de caducidad, o que existan circunstancias surgidas independientemente de la voluntad del titular de la marca que constituyan un obstáculo para el uso de la misma, tales como restricciones a la importación u otros requisitos gubernamentales aplicables a los bienes o servicios a los que se aplique la marca.
+Si una marca no es usada durante tres años consecutivos en los productos o servicios para los que fue registrada, procederá la caducidad del registro, o en su caso, la caducidad parcial relativa a los productos o servicios que no se encuentren en uso, salvo que la persona titular o la persona usuaria que tenga concedida licencia, la hubiese usado durante los tres años consecutivos inmediatos anteriores a la presentación de la solicitud de declaración administrativa de caducidad, o que existan circunstancias surgidas independientemente de la voluntad de la persona titular de la marca que constituyan un obstáculo para el uso de la misma, tales como restricciones a la importación u otros requisitos gubernamentales aplicables a los bienes o servicios a los que se aplique la marca.
 
 ###### Artículo 236.
 
 Las leyendas "Marca Registrada", “Marca Colectiva Registrada” o “Marca de Certificación Registrada”, las siglas "M.R." o el símbolo ®, solo podrán usarse para los productos o servicios para los cuales dicha marca se encuentre registrada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 237.
 
-La renovación del registro de una marca deberá solicitarse por el titular, dentro de los seis meses anteriores al vencimiento de su vigencia. Sin embargo, el Instituto dará trámite a aquellas solicitudes que se presenten dentro de un plazo de seis meses posteriores a la terminación de la vigencia del registro.
+La renovación del registro de una marca deberá solicitarse por la persona titular, dentro de los seis meses anteriores al vencimiento de su vigencia. Sin embargo, el Instituto dará trámite a aquellas solicitudes que se presenten dentro de un plazo de seis meses posteriores a la terminación de la vigencia del registro.
 
-Al presentar la solicitud de renovación, el titular deberá declarar el uso real y efectivo de la marca, indicando los productos o servicios específicos a los que ésta se aplica, acompañando el pago de la tarifa correspondiente.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Al presentar la solicitud de renovación, la persona titular deberá declarar el uso real y efectivo de la marca, indicando los productos o servicios específicos a los que ésta se aplica, acompañando el pago de la tarifa correspondiente.
 
 El alcance de la protección del registro continuará sólo en aquellos productos o servicios sobre los cuales se haya declarado el uso.
 
-Cuando no se declare el uso de la marca, el Instituto requerirá al solicitante para que dentro del plazo de dos meses subsane la omisión. En caso de no cumplir con el requerimiento dentro del plazo señalado el registro caducará de pleno derecho, sin que se requiera de declaración por parte del Instituto.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-Cuando la renovación sea presentada por el beneficiario de un gravamen inscrito ante el Instituto no será necesario declarar el uso real y efectivo de la marca.
+Cuando no se declare el uso de la marca, el Instituto requerirá a la persona solicitante para que dentro del plazo de dos meses subsane la omisión. En caso de no cumplir con el requerimiento dentro del plazo señalado el registro caducará de pleno derecho, sin que se requiera de declaración por parte del Instituto.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Cuando la renovación sea presentada por la persona beneficiaria de un gravamen inscrito ante el Instituto no será necesario declarar el uso real y efectivo de la marca.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+La resolución que emita el Instituto para la renovación del registro de marca se deberá realizar en un plazo máximo de tres meses contado a partir de la fecha de presentación de la solicitud o, en su caso, a partir de la fecha en que se subsane la omisión de declarar el uso de la marca o, de que fenezca el plazo del último requerimiento emitido por el Instituto.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Los plazos a que se refiere el párrafo anterior serán aplicables para las marcas, los avisos comerciales y los nombres comerciales previstos en este Título.
 
 ###### Artículo 238.
 
@@ -2222,21 +2770,31 @@ Vencido el plazo al que se refiere el artículo 237 de esta Ley, sin que se pres
 
 ### Capítulo VII. De las Licencias y Transmisión de Derechos
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 239.
 
-El titular de una marca registrada o en trámite podrá conceder, mediante convenio, licencia de uso a una o más personas, con relación a todos o algunos de los productos o servicios a los que se aplique dicha marca, en términos de legislación común.
+La persona titular de una marca registrada o en trámite podrá conceder, mediante convenio, licencia de uso a una o más personas, con relación a todos o algunos de los productos o servicios a los que se aplique dicha marca, en términos de legislación común.
 
 ###### Artículo 240.
 
 Para inscribir una licencia en el Instituto bastará formular la solicitud correspondiente en los términos que fije el Reglamento de esta Ley.
 
-Podrá solicitarse mediante una sola promoción la inscripción de licencias de derechos relativos a dos o más solicitudes en trámite o a dos o más marcas registradas cuando el licenciante y el licenciatario sean los mismos en todos ellos. El solicitante deberá identificar cada una de las solicitudes, o registros en los que se hará la inscripción. Las tarifas correspondientes se pagarán en función del número de solicitudes o registros involucrados.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Podrá solicitarse mediante una sola promoción la inscripción de licencias de derechos relativos a dos o más solicitudes en trámite o a dos o más marcas registradas cuando la persona licenciante y la persona licenciataria sean iguales en todos ellos. La persona solicitante deberá identificar cada una de las solicitudes, o registros en los que se hará la inscripción. Las tarifas correspondientes se pagarán en función del número de solicitudes o registros involucrados.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+El Instituto resolverá la solicitud en un plazo máximo de dos meses contado a partir de la fecha de presentación de la solicitud o, en su caso, de la fecha en que se subsane el último requerimiento realizado por el Instituto.
 
 ###### Artículo 241.
 
 La cancelación de la inscripción de una licencia procederá en los siguientes casos:
 
-I.- Cuando la soliciten conjuntamente el titular de la marca y el usuario a quien se le haya concedido la licencia, en los términos de la legislación común;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+I.- Cuando la soliciten conjuntamente la persona titular de la marca y la persona usuaria a quien se le haya concedido la licencia, en los términos de la legislación común;
 
 II.- Por nulidad, caducidad o cancelación del registro de marca, o cuando se trate de marcas en trámite y no se obtenga el registro de las mismas;
 
@@ -2244,45 +2802,69 @@ III.- Por término de su vigencia, y
 
 IV.- Por orden judicial.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 242.
 
-Los productos que se vendan o los servicios que se presten por el usuario deberán ser de la misma calidad que los fabricados o prestados por el titular de la marca. Además, esos productos o el establecimiento en donde se presten o contraten los servicios, deberán indicar el nombre del usuario y demás datos que prevenga el Reglamento de esta Ley.
+Los productos que se vendan o los servicios que se presten por la persona usuaria deberán ser de la misma calidad que los fabricados o prestados por la persona titular de la marca. Además, esos productos o el establecimiento en donde se presten o contraten los servicios, deberán indicar el nombre de la persona usuaria y demás datos que prevenga el Reglamento de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 243.
 
-La persona que tenga concedida una licencia salvo estipulación en contrario, podrá ejercitar las acciones legales de protección de los derechos sobre la marca, como si fuera el propio titular.
+La persona que tenga concedida una licencia salvo estipulación en contrario, podrá ejercitar las acciones legales de protección de los derechos sobre la marca, como si fuera la persona titular.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 244.
 
-El uso de la marca por el usuario que tenga concedida licencia, se considerará como realizado por el titular de la marca.
+El uso de la marca por la persona usuaria que tenga concedida licencia, se considerará como realizado por la persona titular de la marca.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 245.
 
-Existirá franquicia, cuando con la licencia de uso de una marca, otorgada por escrito, se transmitan conocimientos técnicos o se proporcione asistencia técnica, para que la persona a quien se le concede pueda producir o vender bienes o prestar servicios de manera uniforme y con los métodos operativos, comerciales y administrativos establecidos por el titular de la marca, tendientes a mantener la calidad, prestigio e imagen de los productos o servicios a los que ésta distingue.
+Existirá franquicia, cuando con la licencia de uso de una marca, otorgada por escrito, se transmitan conocimientos técnicos o se proporcione asistencia técnica, para que la persona a quien se le concede pueda producir o vender bienes o prestar servicios de manera uniforme y con los métodos operativos, comerciales y administrativos establecidos por la persona titular de la marca, tendientes a mantener la calidad, prestigio e imagen de los productos o servicios a los que ésta distingue.
 
 Quien conceda una franquicia deberá proporcionar a quien se la pretenda conceder, por lo menos con treinta días previos a la celebración del contrato respectivo, la información relativa sobre el estado que guarda su empresa, en los términos que establezca el Reglamento de esta Ley.
 
-La falta de veracidad en la información a que se refiere el párrafo anterior dará derecho al franquiciatario, además de exigir la nulidad del contrato, a demandar el pago de los daños y perjuicios que se le hayan ocasionado por el incumplimiento. Este derecho podrá ejercerlo el franquiciatario durante un año a partir de la celebración del contrato. Después de transcurrido este plazo solo tendrá derecho a demandar la nulidad del contrato.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-Para la inscripción de la franquicia serán aplicables las disposiciones de este Capítulo.
+La falta de veracidad en la información a que se refiere el párrafo anterior dará derecho al franquiciatario, además de exigir la nulidad del contrato, a demandar el pago de los daños y perjuicios que se le hayan ocasionado por el incumplimiento. Este derecho podrá ejercerlo la persona franquiciataria durante un año a partir de la celebración del contrato. Después de transcurrido este plazo solo tendrá derecho a demandar la nulidad del contrato.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Para la inscripción de la franquicia serán aplicables las disposiciones de este Capítulo, así como los plazos establecidos en el artículo 240 de la presente Ley.
 
 ###### Artículo 246.
 
 El contrato de franquicia deberá constar por escrito y deberá contener, cuando menos, los siguientes requisitos:
 
-I.- La zona geográfica en la que el franquiciatario ejercerá las actividades objeto del contrato;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-II.- La ubicación, dimensión mínima y características de las inversiones en infraestructura, respecto del establecimiento en el cual el franquiciatario ejercerá las actividades derivadas de la materia del contrato;
+I.- La zona geográfica en la que la persona franquiciataria ejercerá las actividades objeto del contrato;
 
-III.- Las políticas de inventarios, mercadotecnia y publicidad, así como las disposiciones relativas al suministro de mercancías y contratación con proveedores, en el caso de que sean aplicables;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+II.- La ubicación, dimensión mínima y características de las inversiones en infraestructura, respecto del establecimiento en el cual la persona franquiciataria ejercerá las actividades derivadas de la materia del contrato;
+
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+III.- Las políticas de inventarios, mercadotecnia y publicidad, así como las disposiciones relativas al suministro de mercancías y contratación con personas proveedoras, en el caso de que sean aplicables;
 
 IV.- Las políticas, procedimientos y plazos relativos a los reembolsos, financiamientos y demás contraprestaciones a cargo de las partes en los términos convenidos en el contrato;
 
-V.- Los criterios y métodos aplicables a la determinación de los márgenes de utilidad o comisiones de los franquiciatarios;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-VI.- Las características de la capacitación técnica y operativa del personal del franquiciatario, así como el método o la forma en que el franquiciante otorgará asistencia técnica;
+V.- Los criterios y métodos aplicables a la determinación de los márgenes de utilidad o comisiones de las personas franquiciatarias;
 
-VII.- Los criterios, métodos y procedimientos de supervisión, información, evaluación y calificación del desempeño, así como la calidad de los servicios a cargo del franquiciante y del franquiciatario;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+VI.- Las características de la capacitación técnica y operativa de la persona franquiciataria, así como el método o la forma en que la persona franquiciante otorgará asistencia técnica;
+
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+VII.- Los criterios, métodos y procedimientos de supervisión, información, evaluación y calificación del desempeño, así como la calidad de los servicios a cargo (sic) la persona franquiciante y de la persona franquiciataria;
 
 VIII.- Los términos y condiciones para subfranquiciar, en caso de que las partes así lo convengan;
 
@@ -2290,51 +2872,71 @@ IX.- Las causales para la terminación del contrato de franquicia, y
 
 X.- Los supuestos bajo los cuales podrán revisarse y, en su caso, modificarse de común acuerdo los términos o condiciones relativos al contrato de franquicia.
 
-No existirá obligación del franquiciatario de enajenar sus activos al franquiciante o a quien éste designe al término del contrato, salvo pacto en contrario.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-Tampoco existirá obligación del franquiciatario de enajenar o transmitir al franquiciante en ningún momento, las acciones de su sociedad o hacerlo socio de la misma, salvo pacto en contrario.
+No existirá obligación de la persona franquiciataria de enajenar sus activos a la persona franquiciante o a quien ésta designe al término del contrato, salvo pacto en contrario.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Tampoco existirá obligación de la persona franquiciataria de enajenar o transmitir a la persona franquiciante en ningún momento, las acciones de su sociedad o hacerlo socio de ésta, salvo pacto en contrario.
 
 Este artículo se sujetará, en lo conducente, a lo dispuesto en el Reglamento de la presente Ley.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 247.
 
-El franquiciante podrá tener injerencia en la organización y funcionamiento del franquiciatario, únicamente para garantizar la observancia de los estándares de administración y de imagen de la franquicia conforme a lo establecido en el contrato.
+La persona franquiciante podrá tener injerencia en la organización y funcionamiento de la persona franquiciataria, únicamente para garantizar la observancia de los estándares de administración y de imagen de la franquicia conforme a lo establecido en el contrato.
 
-No se considerará que el franquiciante tenga injerencia en casos de fusión, escisión, transformación, modificación de estatutos, transmisión o gravamen de partes sociales o acciones del franquiciatario, cuando con ello se modifiquen las características personales del franquiciatario que hayan sido previstas en el contrato respectivo como determinante de la voluntad del franquiciante para la celebración del contrato con dicho franquiciatario.
+No se considerará que la persona franquiciante tenga injerencia en casos de fusión, escisión, transformación, modificación de estatutos, transmisión o gravamen de partes sociales o acciones de la persona franquiciataria, cuando con ello se modifiquen las características personales de esta, siempre que hayan sido previstas en el contrato respectivo como determinante de la voluntad de la persona franquiciante para la celebración del contrato con dicha persona franquiciataria.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 248.
 
-El franquiciatario deberá guardar durante la vigencia del contrato y, una vez terminado éste, la confidencialidad sobre la información que tenga dicho carácter o de la que haya tenido conocimiento y que sean propiedad del franquiciante, así como de las operaciones y actividades celebradas al amparo del contrato.
+La persona franquiciataria deberá guardar durante la vigencia del contrato y, una vez terminado éste, la confidencialidad sobre la información que tenga dicho carácter o de la que haya tenido conocimiento y que sean propiedad de la persona franquiciante, así como de las operaciones y actividades celebradas al amparo del contrato.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 249.
 
-El franquiciante y el franquiciatario no podrán dar por terminado o rescindido unilateralmente el contrato, salvo que el mismo se haya pactado por tiempo indefinido, o bien, exista una causa justa para ello. Para que el franquiciatario o el franquiciante puedan dar por terminado anticipadamente el contrato, ya sea que esto suceda por mutuo acuerdo o por rescisión, deberán ajustarse a las causas y procedimientos convenidos en el contrato.
+La persona franquiciante y la persona franquiciataria no podrán dar por terminado o rescindido unilateralmente el contrato, salvo que éste se haya pactado por tiempo indefinido, o bien, exista una causa justa para ello. Para que la persona franquiciataria o la persona franquiciante puedan dar por terminado anticipadamente el contrato, ya sea que esto suceda por mutuo acuerdo o por rescisión, deberán ajustarse a las causas y procedimientos convenidos en el contrato.
 
-En caso de las violaciones a lo dispuesto en el párrafo precedente, la terminación anticipada que hagan el franquiciante o franquiciatario dará lugar al pago de las penas convencionales que hubieran pactado en el contrato, o en su lugar a las indemnizaciones por los daños y perjuicios causados.
+En caso de las violaciones a lo dispuesto en el párrafo precedente, la terminación anticipada que hagan la persona franquiciante o la persona franquiciataria dará lugar al pago de las penas convencionales que hubieran pactado en el contrato, o en su lugar a las indemnizaciones por los daños y perjuicios causados.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 250.
 
-Los derechos que deriven de una solicitud de registro de marca o los que confiere una marca registrada, podrán gravarse o transmitirse en los términos y con las formalidades que establece la legislación común. Dicho gravamen o transmisión de derechos deberá inscribirse en el Instituto, de acuerdo a lo establecido en el Reglamento de esta Ley, para que pueda producir efectos en perjuicio de terceros.
+Los derechos que deriven de una solicitud de registro de marca o los que confiere una marca registrada, podrán gravarse o transmitirse en los términos y con las formalidades que establece la legislación común. Dicho gravamen o transmisión de derechos deberá inscribirse en el Instituto, de acuerdo con lo establecido en el Reglamento de esta Ley, para que pueda producir efectos en perjuicio de terceras personas.
 
 Podrá solicitarse mediante una sola promoción, la inscripción de transferencias de la titularidad de dos o más solicitudes en trámite o de dos o más marcas registradas cuando quien transfiera y quien adquiera sean las mismas personas en todos ellos.
 
-El solicitante deberá identificar cada una de las solicitudes o registros en los que se hará la inscripción. Las tarifas correspondientes se pagarán en función del número de solicitudes, o registros involucrados.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+La persona solicitante deberá identificar cada una de las solicitudes o registros en los que se hará la inscripción. Las tarifas correspondientes se pagarán en función del número de solicitudes, o registros involucrados.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 251.
 
-Cuando exista un gravamen inscrito ante el Instituto, el beneficiario podrá presentar la renovación del registro de una marca, aviso o nombre comercial, de conformidad con lo establecido en el artículo 237 de esta Ley.
+Cuando exista un gravamen inscrito ante el Instituto, la persona beneficiaria podrá presentar la renovación del registro de una marca, aviso o nombre comercial, de conformidad con lo establecido en el artículo 237 de esta Ley.
 
 ###### Artículo 252.
 
 Cuando se dé la fusión de personas morales se entenderá que existe una transmisión de los derechos sobre marcas registradas, salvo estipulación en contrario.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 253.
 
-Para efectos de su transmisión, se considerarán ligados los registros o solicitudes en trámite de las marcas de un mismo titular, cuando éstas sean idénticas y amparen similares productos o servicios, o bien sean semejantes en grado de confusión y se apliquen a los mismos o similares productos o servicios.
+Para efectos de su transmisión, se considerarán ligados los registros o solicitudes en trámite de las marcas de una misma persona titular, cuando éstas sean idénticas y amparen similares productos o servicios, o bien sean semejantes en grado de confusión y se apliquen a los mismos o similares productos o servicios.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 254.
 
-Cuando el titular de registros o solicitudes en trámite de dos o más marcas ligadas considere que no existe confusión, podrá presentar el consentimiento expreso por escrito y solicitar que sea disuelta la liga impuesta.
+Cuando la persona titular de registros o solicitudes en trámite de dos o más marcas ligadas considere que no existe confusión, podrá presentar el consentimiento expreso por escrito y solicitar que sea disuelta la liga impuesta.
 
 No será aplicable lo anterior, a marcas idénticas aplicadas a productos o servicios idénticos.
 
@@ -2352,6 +2954,20 @@ Cuando se solicite la inscripción de alguna transmisión de marca registrada o 
 
 Cuando el registro de la marca no se encuentre vigente, el Instituto negará la inscripción o anotación que se solicite de una licencia o transmisión de derechos.
 
+> <small>(ADICIONADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+###### Artículo 257 Bis.
+
+Cuando exista un cambio de nombre o denominación o razón social o transformación de régimen jurídico de la persona titular de una solicitud o registro de marca, se deberá inscribir ante el Instituto, para que pueda producir efectos en perjuicio de terceras personas.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+###### Artículo 257 Ter.
+
+Para inscribir un cambio de nombre o denominación o razón social o una transformación en el régimen jurídico bastará formular la petición correspondiente en los términos que fije esta Ley y su Reglamento.
+
+Podrá solicitarse mediante una sola promoción, la inscripción de cambio de nombre o denominación o razón social o de transformación de régimen jurídico de dos o más solicitudes en trámite o de dos o más marcas registradas cuando se trate de la misma persona titular.
+
 ### Capítulo VIII. De la Nulidad, Caducidad y Cancelación de Registros
 
 ###### Artículo 258.
@@ -2360,19 +2976,25 @@ Se declarará la nulidad del registro de una marca cuando:
 
 I.- Se haya otorgado en contravención de las disposiciones de esta Ley o la que hubiese estado vigente en la época de su registro.
 
-No obstante lo dispuesto en esta fracción, la acción de nulidad no podrá fundarse en la impugnación de la representación legal del solicitante del registro de la marca, ni en trámites relativos a su otorgamiento o vigencia;
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+No obstante lo dispuesto en esta fracción, la acción de nulidad no podrá fundarse en la impugnación de la representación legal de la persona solicitante del registro de la marca, ni en trámites relativos a su otorgamiento o vigencia;
 
 II.- La marca sea idéntica o semejante en grado de confusión, a otra que haya sido usada en el país o en el extranjero con anterioridad a la fecha de presentación de la solicitud de la marca registrada y se aplique a los mismos o similares productos o servicios, siempre que, quien haga valer el mejor derecho por uso anterior, compruebe haber usado una marca ininterrumpidamente en el país o en el extranjero, antes de la fecha de presentación o, en su caso, de la fecha de primer uso declarado por el que la registró.
 
 Podrá declarase la nulidad parcial del registro, únicamente respecto de los productos o servicios que éste protege;
 
-III.- El titular del registro no demuestre la veracidad de la fecha de primer uso declarada en la solicitud;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+III.- La persona titular del registro no demuestre la veracidad de la fecha de primer uso declarada en la solicitud;
 
 IV.- Se haya otorgado por error, inadvertencia, o diferencia de apreciación, existiendo una solicitud en trámite presentada con anterioridad o un registro vigente que se considere invadido, por tratarse de una marca que sea igual o semejante en grado de confusión y que se aplique a servicios o productos iguales o similares.
 
 Podrá declarase la nulidad parcial del registro, únicamente respecto de los productos o servicios que éste protege;
 
-V.- El agente, representante legal, usuario o distribuidor del titular o cualquier otra persona que haya tenido relación, directa o indirecta, con el titular de una marca registrada en el extranjero, solicite y obtenga el registro de ésta u otra semejante en grado de confusión, a su nombre sin el consentimiento expreso del titular de la marca extranjera, y
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+V.- La persona agente, representante legal, usuaria o distribuidora de la persona titular o cualquier otra persona que haya tenido relación, directa o indirecta, con la persona titular de una marca registrada en el extranjero, solicite y obtenga el registro de ésta u otra semejante en grado de confusión, a su nombre sin el consentimiento expreso de la persona titular de la marca extranjera, y
 
 VI.- Se haya obtenido de mala fe.
 
@@ -2396,13 +3018,17 @@ El registro también podrá caducar parcialmente respecto de los productos o ser
 
 III.- Cuando no se realice la declaratoria de uso real y efectivo, en los términos que dispone el artículo 233 de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 261.
 
-Procederá la cancelación del registro de una marca, si su titular ha provocado o tolerado que se transforme en una denominación genérica que corresponda a uno o varios de los productos o servicios para los cuales se registró, de tal modo que, en los medios comerciales y en el uso generalizado por el público, la marca haya perdido su carácter distintivo, como medio de distinguir el producto o servicio a que se aplique.
+Procederá la cancelación del registro de una marca, si la persona titular ha provocado o tolerado que se transforme en una denominación genérica que corresponda a uno o varios de los productos o servicios para los cuales se registró, de tal modo que, en los medios comerciales y en el uso generalizado por el público, la marca haya perdido su carácter distintivo, como medio de distinguir el producto o servicio a que se aplique.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 262.
 
-El titular de una marca registrada podrá solicitar, en cualquier tiempo, la cancelación voluntaria de su registro. El Instituto podrá requerir la ratificación de la firma.
+La persona titular de una marca registrada podrá solicitar, en cualquier tiempo, la cancelación voluntaria de su registro. El Instituto podrá requerir la ratificación de la firma.
 
 ###### Artículo 263.
 
@@ -2448,7 +3074,9 @@ La protección que esta Ley concede a la denominación de origen e indicación g
 
 Las denominaciones de origen e indicaciones geográficas protegidas son bienes nacionales y solo podrán usarse mediante la autorización que expida el Instituto.
 
-Corresponderá al Instituto ejercer las acciones de protección y defensa de las denominaciones de origen e indicaciones geográficas protegidas. Dichas facultades podrán ser delegadas a un tercero, de conformidad con lo que disponga el Reglamento de esta Ley.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Corresponderá al Instituto ejercer las acciones de protección y defensa de las denominaciones de origen e indicaciones geográficas protegidas. Dichas facultades podrán ser delegadas a una tercera persona, de conformidad con lo que disponga el Reglamento de esta Ley.
 
 ###### Artículo 269.
 
@@ -2506,9 +3134,13 @@ V.- Las Cámaras del Congreso de la Unión, siempre y cuando la propuesta haya s
 
 La solicitud de declaración de protección a una denominación de origen deberá presentarse ante el Instituto con los siguientes datos y documentos:
 
-I.- El nombre, domicilio y correo electrónico del solicitante;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-II.- El carácter del solicitante, su naturaleza jurídica y las actividades a las que se dedica, en términos del artículo 273;
+I.- El nombre, domicilio y correo electrónico de la persona solicitante;
+
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+II.- El carácter de la persona solicitante, su naturaleza jurídica y las actividades a las que se dedica, en términos del artículo 273 de esta Ley;
 
 III.- El nombre de la denominación de origen;
 
@@ -2526,7 +3158,9 @@ e) Las Normas Oficiales Mexicanas a las que deberá sujetarse el producto para s
 
 V.- El comprobante del pago de la tarifa correspondiente, y
 
-VI.- Los demás que el solicitante considere necesarios o pertinentes.
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+VI.- Los demás que la persona solicitante considere necesarios o pertinentes.
 
 ###### Artículo 275.
 
@@ -2568,9 +3202,13 @@ IV.- El régimen de sanciones por el incumplimiento del productor certificado;
 
 V.- Los lineamientos técnicos, nacionales o internacionales, que resulten aplicables al producto, y
 
-VI.- Las demás que el responsable de la certificación estime pertinentes.
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-Cualquier modificación a las reglas deberá ser inscrita ante el Instituto para surtir efectos ante terceros.
+VI.- Las demás que la persona responsable de la certificación estime pertinentes.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Cualquier modificación a las reglas deberá ser inscrita ante el Instituto para surtir efectos ante terceras personas.
 
 ###### Artículo 277.
 
@@ -2588,37 +3226,51 @@ IV.- El comprobante de pago de las tarifas correspondientes, y
 
 V.- Los demás requisitos que señale el Reglamento de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 278.
 
-Recibida la solicitud, el Instituto efectuará un examen a los datos y documentos aportados en un plazo máximo de seis meses.
+Recibida la solicitud (sic) declaración de protección, el Instituto efectuará un examen a los datos y documentos aportados en un plazo máximo de seis meses.
 
-Si los documentos presentados no satisfacen los requisitos legales, resultan insuficientes para la comprensión y análisis de cualquiera de los elementos de la solicitud, o la denominación de origen o indicación geográfica señalada cae en alguno de los impedimentos a que se refiere el artículo 271, se requerirá al solicitante para que haga las aclaraciones o adiciones necesarias, otorgándole al efecto un plazo de dos meses.
+Si los documentos presentados no satisfacen los requisitos legales, resultan insuficientes para la comprensión y análisis de cualquiera de los elementos de la solicitud, o la denominación de origen o indicación geográfica señalada cae en alguno de los impedimentos a que se refiere el artículo 271 de esta Ley, se requerirá a la persona solicitante para que haga las aclaraciones o adiciones necesarias, otorgándole al efecto un plazo de dos meses.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 279.
 
-El solicitante tendrá un plazo adicional de dos meses para cumplir los requisitos a que se refiere el artículo anterior, sin que medie solicitud y comprobando el pago de la tarifa que corresponda al mes en que se dé cumplimiento.
+La persona solicitante tendrá un plazo adicional de dos meses para cumplir los requisitos a que se refiere el artículo anterior, sin que medie solicitud y comprobando el pago de la tarifa que corresponda al mes en que se dé cumplimiento.
 
 El plazo adicional, se contará a partir del día siguiente al del vencimiento del plazo de dos meses previsto en el artículo anterior.
 
-La solicitud se tendrá por abandonada si el solicitante no da cumplimiento a los requerimientos formulados dentro del plazo inicial o en el adicional a que se refiere este artículo, o no presenta el comprobante de pago de las tarifas correspondientes.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+La solicitud se tendrá por abandonada si la persona solicitante no da cumplimiento a los requerimientos formulados dentro del plazo inicial o en el adicional a que se refiere este artículo, o no presenta el comprobante de pago de las tarifas correspondientes.
 
 Si lo considera pertinente, el Instituto podrá continuar de oficio la tramitación de la declaración en los términos del presente Capítulo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 280.
 
-El solicitante podrá transformar la solicitud de denominación de origen en una de indicación geográfica y viceversa, cuando del contenido de la solicitud se infiera que ésta no concuerda con lo solicitado.
+La persona solicitante podrá transformar la solicitud de denominación de origen en una de indicación geográfica y viceversa, cuando del contenido de la solicitud se infiera que ésta no concuerda con lo solicitado.
 
-El solicitante solo podrá efectuar la transformación de la solicitud dentro del plazo improrrogable de dos meses siguientes a la fecha de su presentación o de los dos meses siguientes a la fecha en que el Instituto le requiera para que la transforme.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+La persona solicitante solo podrá efectuar la transformación de la solicitud dentro del plazo improrrogable de dos meses siguientes a la fecha de su presentación o de los dos meses siguientes a la fecha en que el Instituto le requiera para que la transforme.
 
 En este supuesto, se considerará como fecha de presentación aquélla en la que se solicite la transformación de la solicitud.
 
-En caso de que el solicitante no transforme la solicitud dentro del plazo concedido por el Instituto se tendrá por abandonada.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+En caso de que la persona solicitante no transforme la solicitud dentro del plazo concedido por el Instituto se tendrá por abandonada.
 
 ###### Artículo 281.
 
 Cuando los documentos presentados satisfagan los requisitos legales, el Instituto publicará en el Diario Oficial:
 
-I.- El nombre del solicitante;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+I.- El nombre de la persona solicitante;
 
 II.- El nombre de la denominación de origen o indicación geográfica;
 
@@ -2628,15 +3280,19 @@ IV.- El lugar o lugares de extracción, producción o elaboración del producto 
 
 V.- El domicilio en el que se encontrará abierto para consulta pública el expediente de la solicitud de declaración y en el que se recibirán los documentos relacionados con la misma.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 282.
 
-El Instituto otorgará un plazo improrrogable de dos meses, contados a partir de la fecha de publicación en el Diario Oficial, para que cualquier tercero que justifique su interés presente su oposición a la solicitud de declaración de protección y formule observaciones u objeciones respecto al cumplimiento de lo establecido en los artículos 271, 274 y 275 de la presente Ley.
+El Instituto otorgará un plazo improrrogable de un mes, contado a partir de la fecha de publicación en el Diario Oficial, para que cualquier tercera persona que justifique su interés presente su oposición a la solicitud de declaración de protección y formule observaciones u objeciones respecto al cumplimiento de lo establecido en los artículos 271, 274 y 275 de la presente Ley.
 
 La oposición deberá presentarse por escrito, acompañada de las pruebas respectivas, así como del comprobante de pago de la tarifa correspondiente.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 283.
 
-El Instituto notificará al solicitante sobre las oposiciones recibidas, otorgándole un plazo improrrogable de dos meses, contado a partir de la fecha en que surta efectos la notificación respectiva, para manifestar lo que a su derecho convenga en relación con la oposición, observaciones u objeciones presentadas y, en su caso, presente pruebas.
+El Instituto notificará a la persona solicitante sobre las oposiciones recibidas, otorgándole un plazo improrrogable de un mes, contado a partir de la fecha en que surta efectos la notificación respectiva, para manifestar lo que a su derecho convenga en relación con la oposición, observaciones u objeciones presentadas y, en su caso, presente pruebas.
 
 ###### Artículo 284.
 
@@ -2652,13 +3308,17 @@ I.- Cuando la solicitud se encuentre en alguno de los impedimentos a los que se 
 
 II.- Por orden de autoridad jurisdiccional o administrativa.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 286.
 
-Transcurrido el plazo a que se refiere el artículo 283 de esta Ley, previo análisis de los antecedentes, efectuados los estudios, desahogadas las pruebas y, antes de dictar resolución, las actuaciones se pondrán a disposición del solicitante y de las personas que hubieren presentado oposiciones para que, en su caso, formulen alegatos en un plazo de diez días, los cuales serán tomados en cuenta por el Instituto. Concluido dicho plazo se dictará la resolución que corresponda, la cual se notificará a las partes involucradas.
+Transcurrido el plazo a que se refiere el artículo 283 de esta Ley, previo análisis de los antecedentes, efectuados los estudios, desahogadas las pruebas y, antes de dictar resolución, las actuaciones se pondrán a disposición de la persona solicitante y de las personas que hubieren presentado oposiciones para que, en su caso, formulen alegatos en un plazo de diez días, los cuales serán tomados en cuenta por el Instituto. Concluido dicho plazo se dictará la resolución que corresponda en un plazo de cinco meses, la cual se notificará a las partes involucradas.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 287.
 
-En caso de que el Instituto niegue la protección a la denominación de origen o indicación geográfica solicitada, lo comunicará por escrito al solicitante y, en su caso, a los oponentes, expresando los motivos y fundamentos legales de su resolución.
+En caso de que el Instituto niegue la protección a la denominación de origen o indicación geográfica solicitada, lo comunicará por escrito a la persona solicitante y, en su caso, a las personas oponentes, expresando los motivos y fundamentos legales de su resolución.
 
 ###### Artículo 288.
 
@@ -2676,31 +3336,41 @@ III.- La delimitación de la zona geográfica protegida.
 
 En el caso de una indicación geográfica, una vez que se publique la declaración de protección en el Diario Oficial, el Instituto acreditará a la persona moral responsable de certificar el cumplimiento de las reglas a las que se refiere la fracción V del artículo 275 de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 290.
 
-La solicitud de acreditación deberá cumplir con los requisitos a que se refiere el artículo 277, el Instituto requerirá al interesado, por una única ocasión, para que dentro del plazo de dos meses presente los documentos faltantes. De no cumplir con el requerimiento dentro del plazo señalado, la solicitud será desechada de plano.
+La solicitud de acreditación deberá cumplir con los requisitos a que se refiere el artículo 277 de esta Ley, el Instituto requerirá a la persona interesada, por una única ocasión, para que dentro del plazo de dos meses presente los documentos faltantes. De no cumplir con el requerimiento dentro del plazo señalado, la solicitud será desechada de plano.
 
-Si cumple con los requisitos, el Instituto emitirá la constancia de acreditación a la persona moral responsable de certificar el cumplimiento de las reglas de uso y publicará en la Gaceta la acreditación respectiva.
+Si cumple con los requisitos, el Instituto emitirá en un plazo que no podrá exceder de dos meses, la constancia de acreditación a la persona moral responsable de certificar el cumplimiento de las reglas de uso y publicará en la Gaceta la acreditación respectiva.
 
-El Instituto contará con un registro de los responsables acreditados, el cual será público.
+El Instituto contará con un registro de las personas responsables acreditadas, el cual será público.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 291.
 
-El responsable de la certificación emitirá una constancia a toda persona cuyo producto cumpla con las condiciones determinadas en las reglas a que se refiere la fracción V del artículo 275 de esta Ley.
+La persona responsable de la certificación emitirá una constancia a toda persona cuyo producto cumpla con las condiciones determinadas en las reglas a que se refiere la fracción V del artículo 275 de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 292.
 
-El responsable acreditado de certificar el cumplimiento de las reglas de uso tendrá las siguientes obligaciones:
+La persona responsable acreditada de certificar el cumplimiento de las reglas de uso tendrá las siguientes obligaciones:
 
-I.- Otorgar los certificados a los productores que cumplan con éstas;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+I.- Otorgar los certificados a las personas productoras que cumplan con éstas;
 
 II.- Abstenerse de participar en la producción o comercialización de cualquier producto vinculado con la indicación geográfica protegida, y
 
 III.- Actuar con imparcialidad en el otorgamiento de los certificados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 293.
 
-La acreditación del responsable de certificar el cumplimiento de las reglas de uso será cancelado cuando éste:
+La acreditación de la persona responsable de certificar el cumplimiento de las reglas de uso será cancelado cuando éste:
 
 I.- No controle o no pueda ejercer legítimamente el control sobre el cumplimiento de las reglas de uso a las que debe sujetarse el producto vinculado a la indicación geográfica protegida;
 
@@ -2712,17 +3382,21 @@ IV.- Se niegue a certificar el cumplimiento de las reglas de uso por parte de cu
 
 V.- La indicación geográfica se quede sin efectos en términos del artículo 269 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 294.
 
-El Instituto sancionará al responsable acreditado que incumpla con las obligaciones a que se refiere el artículo 292, con:
+El Instituto sancionará a la persona responsable acreditada que incumpla con las obligaciones a que se refiere el artículo 292 de esta Ley, con:
 
 I.- La amonestación por escrito, por única ocasión, bajo el apercibimiento de que, de reincidir en el incumplimiento de sus obligaciones, se cancelará la acreditación, y
 
 II.- La cancelación de la acreditación.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 295.
 
-En caso de que la acreditación sea cancelada, el Instituto suspenderá los efectos de la declaración de la indicación geográfica protegida hasta en tanto se acredite un nuevo responsable.
+En caso de que la acreditación sea cancelada, el Instituto suspenderá los efectos de la declaración de la indicación geográfica protegida hasta en tanto se acredite una nueva persona responsable.
 
 ###### Artículo 296.
 
@@ -2754,31 +3428,43 @@ V.- Cumpla con los demás requisitos que, en su caso, señale la declaración.
 
 La solicitud para obtener una autorización de uso de denominación de origen o indicación geográfica deberá contener los datos y acompañarse de los documentos que señale el Reglamento de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 300.
 
-Recibida la solicitud por el Instituto y enterado el pago de las tarifas correspondientes, se efectuará el examen de los datos y documentos aportados. En caso de que se satisfagan los requisitos legales procederá su otorgamiento.
+Recibida la solicitud por el Instituto y enterado el pago de las tarifas correspondientes, se efectuará el examen de los datos y documentos aportados. En caso de que se satisfagan los requisitos legales, el Instituto procederá a su autorización en un plazo no mayor a dos meses a partir de la fecha de presentación de la solicitud respectiva.
 
-Si los documentos presentados no satisfacen los requisitos o resultan insuficientes, se requerirá al solicitante para que haga las aclaraciones o adiciones necesarias, otorgándole al efecto un plazo improrrogable de dos meses.
+Si los documentos presentados no satisfacen los requisitos o resultan insuficientes, se requerirá a la persona solicitante para que haga las aclaraciones o adiciones necesarias, otorgándole un plazo improrrogable de dos meses. Concluido dicho plazo, el Instituto procederá a resolver sobre la procedencia de la autorización en un plazo no mayor a dos meses.
 
-Si el solicitante no cumple con el requerimiento dentro del plazo otorgado, la solicitud se considerará abandonada.
+Si la persona solicitante no cumple con el requerimiento a que se refiere el párrafo anterior dentro del plazo otorgado, la solicitud se considerará abandonada.
 
 ###### Artículo 301.
 
 Los efectos de la autorización para usar una denominación de origen o indicación geográfica durarán diez años, contados a partir de la fecha de presentación de la solicitud en el Instituto y podrán renovarse por períodos de la misma duración.
 
-La renovación deberá solicitarse por el titular dentro de los seis meses anteriores al vencimiento de su vigencia. Sin embargo, el Instituto dará trámite a aquellas solicitudes que se presenten dentro de un plazo de seis meses posteriores a la terminación de la vigencia de la autorización. Vencido este plazo sin que se presente la solicitud de renovación, la autorización caducará.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+La renovación deberá solicitarse por la persona titular dentro de los seis meses anteriores al vencimiento de su vigencia. Sin embargo, el Instituto dará trámite a aquellas solicitudes que se presenten dentro de un plazo de seis meses posteriores a la terminación de la vigencia de la autorización. Vencido este plazo sin que se presente la solicitud de renovación, la autorización caducará.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+El Instituto deberá resolver la procedencia de la renovación dentro del plazo de dos meses contado a partir de la presentación de la solicitud respectiva o, en su caso, a partir de que se solvente el último requerimiento formulado por el Instituto.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 302.
 
-El usuario autorizado estará obligado a usar la denominación de origen o indicación geográfica protegida, tal y como aparezca en la declaración correspondiente, así como a aplicar la leyenda "Denominación de Origen Protegida" o “Indicación Geográfica Protegida” o las siglas “D.O.P” o “I.G.P.”, según corresponda, a los productos amparados por éstas.
+La persona usuaria autorizada estará obligada a usar la denominación de origen o indicación geográfica protegida, tal y como aparezca en la declaración correspondiente, así como a aplicar la leyenda "Denominación de Origen Protegida" o "Indicación Geográfica Protegida" o las siglas "D.O.P" o "I.G.P.", según corresponda, a los productos amparados por éstas.
 
 ###### Artículo 303.
 
 La denominación de origen o indicación geográfica podrá usarse en publicidad, documentación comercial, empaques, embalajes, envases o sobre los propios productos en que sea aplicada o de cualquier otra manera con propósitos comerciales.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 304.
 
-El uso ilegal de la denominación de origen o indicación geográfica protegida será sancionado, incluyendo los casos en que venga acompañada de expresiones tales como "género", "tipo", "manera", "imitación", “producido en”, “con fabricación en” u otras similares que creen confusión en el consumidor o impliquen competencia desleal.
+El uso ilegal de la denominación de origen o indicación geográfica protegida será sancionado, incluyendo los casos en que venga acompañada de expresiones tales como "género", "tipo", "manera", "imitación", "producido en", "con fabricación en" u otras similares que creen confusión en la persona consumidora o impliquen competencia desleal.
 
 ###### Artículo 305.
 
@@ -2788,19 +3474,25 @@ Se entenderá que una denominación de origen o indicación geográfica protegid
 
 En caso de que la denominación de origen o indicación geográfica protegida no sea usada en la forma establecida por la declaración o esta Ley, el Instituto procederá a la cancelación de la autorización de uso.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 307.
 
-El derecho a usar una denominación de origen o indicación geográfica protegida podrá ser transmitido por el usuario autorizado en los términos de la legislación común. Dicha transmisión deberá ser inscrita en el Instituto para que pueda producir efectos en perjuicio de terceros, previa comprobación de que el nuevo usuario cumple con las condiciones y requisitos establecidos en esta Ley para obtener el derecho a usarlas. La transmisión surtirá efectos a partir de su inscripción.
+El derecho a usar una denominación de origen o indicación geográfica protegida podrá ser transmitido por la persona usuaria autorizada en los términos de la legislación común. Dicha transmisión deberá ser inscrita en el Instituto para que pueda producir efectos en perjuicio de terceras personas, previa comprobación de que la nueva persona usuaria cumple con las condiciones y requisitos establecidos en esta Ley para obtener el derecho a usarlas. La transmisión surtirá efectos a partir de su inscripción.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 308.
 
-El usuario autorizado de una denominación de origen o indicación geográfica protegida podrá a su vez, mediante convenio, permitir el uso de ésta, únicamente a quienes distribuyan o vendan los productos de sus marcas. El convenio deberá inscribirse en el Instituto para que produzca efectos en perjuicio de terceros, a partir de dicha inscripción.
+La persona usuaria autorizada de una denominación de origen o indicación geográfica protegida podrá a su vez, mediante convenio, permitir el uso de ésta, únicamente a quienes distribuyan o vendan los productos de sus marcas. El convenio deberá inscribirse en el Instituto para que produzca efectos en perjuicio de terceras personas, a partir de dicha inscripción.
 
-El convenio deberá contener una cláusula en la que se establezca la obligación del distribuidor o comercializador de cumplir con los requisitos establecidos en las fracciones III, IV y V del artículo 298 y los previstos en el Reglamento de esta Ley. En caso de que el distribuidor o comercializador no cumpliere con esta obligación, procederá la cancelación de la inscripción.
+El convenio deberá contener una cláusula en la que se establezca la obligación de la persona distribuidora o comercializadora de cumplir con los requisitos establecidos en las fracciones III, IV y V del artículo 298 de este ordenamiento y los previstos en el Reglamento de esta Ley. En caso de que la persona distribuidora o comercializadora no cumpliere con esta obligación, procederá la cancelación de la inscripción.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 309.
 
-El usuario autorizado por el Instituto deberá inscribir ante el mismo, los cambios de nombre, denominación o razón social o transformación de régimen jurídico, así como los cambios de domicilio que correspondan, en los términos previstos en el Reglamento de esta Ley.
+La persona usuaria autorizada por el Instituto deberá inscribir ante éste, los cambios de nombre, denominación o razón social o transformación de régimen jurídico, así como los cambios de domicilio que correspondan, en los términos previstos en el Reglamento de esta Ley.
 
 ### Capítulo IV. De la Cesación de los Efectos de las Declaraciones y de las Autorizaciones de Uso
 
@@ -2816,9 +3508,11 @@ I.- En contravención a las disposiciones de esta Ley, o
 
 II.- Con base en datos o documentos falsos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 312.
 
-Procederá la cancelación de la autorización de uso de una denominación de origen o indicación geográfica protegida cuando el usuario autorizado:
+Procederá la cancelación de la autorización de uso de una denominación de origen o indicación geográfica protegida cuando la persona usuaria autorizada:
 
 I.- La use en forma diferente a la establecida en la declaración de protección, o lo dispuesto por esta Ley;
 
@@ -2848,11 +3542,15 @@ La caducidad a que se refiere la fracción II del artículo anterior, no requeri
 
 El Instituto reconocerá a las denominaciones de origen o indicaciones geográficas protegidas en el extranjero, en términos de los Tratados Internacionales y conforme a lo previsto en el presente Capítulo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 316.
 
-El Instituto inscribirá las denominaciones de origen o indicaciones geográficas protegidas en el extranjero, en el registro creado para tal efecto. La solicitud de inscripción deberá presentarse por el titular de las mismas y cumplir con los siguientes requisitos:
+El Instituto inscribirá las denominaciones de origen o indicaciones geográficas protegidas en el extranjero, en el registro creado para tal efecto. La solicitud de inscripción deberá presentarse por la persona titular de éstas y cumplir con los siguientes requisitos:
 
-I.- Señalar el nombre, nacionalidad, domicilio y correo electrónico del solicitante;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+I.- Señalar el nombre, nacionalidad, domicilio y correo electrónico de la persona solicitante;
 
 II.- Presentar el documento mediante el cual se haya otorgado protección a la denominación de origen o indicación geográfica, conforme a la legislación aplicable del país de origen o de acuerdo a los Tratados Internacionales;
 
@@ -2872,15 +3570,25 @@ No se inscribirá en el registro de denominaciones de origen o indicaciones geog
 
 Recibida la solicitud, el Instituto procederá a realizar un examen, a fin de verificar si ésta cumple con los requisitos a que se refiere el artículo 316 de esta Ley.
 
-Si la solicitud o la documentación exhibida no cumple con los requisitos legales o reglamentarios o si existe algún impedimento, el Instituto lo comunicará por escrito al solicitante otorgándole un plazo de dos meses para que subsane los errores u omisiones en los que hubiese incurrido y manifieste lo que a su derecho convenga, siendo aplicable el plazo adicional establecido en el artículo 279 de la presente Ley.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-Si el interesado no contesta dentro del plazo inicial o en el adicional, se considerará abandonada su solicitud.
+Si la solicitud o la documentación exhibida no cumple con los requisitos legales o reglamentarios o si existe algún impedimento, el Instituto lo comunicará por escrito a la persona solicitante otorgándole un plazo de dos meses para que subsane los errores u omisiones en los que hubiese incurrido y manifieste lo que a su derecho convenga, siendo aplicable el plazo adicional establecido en el artículo 279 de la presente Ley.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Si la persona interesada no contesta dentro del plazo inicial o en el adicional, se considerará abandonada su solicitud.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+El Instituto deberá resolver la procedencia de la inscripción del reconocimiento que corresponda en un plazo de cinco meses contado a partir de la presentación de la solicitud respectiva o, en su caso, a partir de que se solvente el último requerimiento formulado por el Instituto.
 
 ###### Artículo 319.
 
 Cuando los documentos presentados satisfagan los requisitos legales, el Instituto publicará en el Diario Oficial:
 
-I.- El nombre y nacionalidad del solicitante;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+I.- El nombre y nacionalidad de la persona solicitante;
 
 II.- El señalamiento de la denominación de origen o indicación geográfica, el producto o productos protegidos y el territorio o zona geográfica de su extracción, producción o elaboración, conforme al documento mediante el cual se acreditó la protección en el país de origen;
 
@@ -2888,41 +3596,53 @@ III.- La traducción al idioma español o la transliteración al alfabeto latino
 
 IV.- El domicilio en el que se encontrará abierto para consulta pública el expediente de la solicitud de declaración y en el que se recibirán los documentos relacionados con la misma.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 320.
 
-El Instituto otorgará un plazo improrrogable de dos meses, contados a partir de la fecha de publicación en el Diario Oficial, para que cualquier tercero que justifique su interés presente su oposición a la solicitud de reconocimiento y formule observaciones u objeciones respecto al cumplimiento de lo establecido en los artículos 271 y 316 de la presente Ley.
+El Instituto otorgará un plazo improrrogable de dos meses, contados a partir de la fecha de publicación en el Diario Oficial, para que cualquier tercera persona que justifique su interés presente su oposición a la solicitud de reconocimiento y formule observaciones u objeciones respecto al cumplimiento de lo establecido en los artículos 271 y 316 de la presente Ley.
 
 La oposición deberá presentarse por escrito, acompañada de las pruebas respectivas, así como del comprobante de pago de la tarifa correspondiente.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 321.
 
-El Instituto notificará al solicitante sobre las oposiciones recibidas, otorgándole un plazo improrrogable de dos meses, contado a partir de la fecha en que surta efectos la notificación respectiva, para manifestar lo que a su derecho convenga en relación con la oposición, observaciones u objeciones presentadas y, en su caso, presente pruebas.
+El Instituto notificará a la persona solicitante sobre las oposiciones recibidas, otorgándole un plazo improrrogable de dos meses, contado a partir de la fecha en que surta efectos la notificación respectiva, para manifestar lo que a su derecho convenga en relación con la oposición, observaciones u objeciones presentadas y, en su caso, presente pruebas.
 
 ###### Artículo 322.
 
 Al trámite de inscripción del reconocimiento previsto en el presente Capítulo resultan aplicables, en lo que no se oponga, las disposiciones establecidas en los artículos 284, 285 y 286 de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 323.
 
-En caso de que el Instituto niegue la inscripción, lo comunicará por escrito al solicitante y, en su caso, a los oponentes, expresando los motivos y fundamentos legales de su resolución.
+En caso de que el Instituto niegue la inscripción, lo comunicará por escrito a la persona solicitante y, en su caso, a las personas oponentes, expresando los motivos y fundamentos legales de su resolución.
 
 ###### Artículo 324.
 
 En caso de que la resolución sea favorable, el Instituto procederá a la inscripción del reconocimiento de la denominación de origen o indicación geográfica protegida en el extranjero y ordenará la publicación en el Diario Oficial de lo siguiente:
 
-I.- El nombre, nacionalidad y domicilio del titular del registro;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+I.- El nombre, nacionalidad y domicilio de la persona titular del registro;
 
 II.- La denominación de origen o indicación geográfica, el producto o productos protegidos, el territorio o zona geográfica de su extracción, producción o elaboración y, en su caso, la vigencia de la protección, conforme al documento mediante el cual se acreditó la protección en el país de origen, y
 
 III.- La traducción al idioma español o la transliteración al alfabeto latino internacional moderno de la denominación de origen o indicación geográfica protegida, en su caso.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 325.
 
-El titular de la inscripción de reconocimiento a una denominación de origen o indicación geográfica protegida en el extranjero tendrá la facultad de ejercer las acciones legales de protección de los derechos sobre el mismo.
+La persona titular de la inscripción de reconocimiento a una denominación de origen o indicación geográfica protegida en el extranjero tendrá la facultad de ejercer las acciones legales de protección de los derechos sobre el mismo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 326.
 
-El reconocimiento de una denominación de origen o indicación geográfica protegida en el extranjero no producirá efecto contra cualquier persona que comercialice, distribuya, adquiera o use el producto al cual se aplique dicha denominación o indicación, luego que el producto hubiera sido introducido lícitamente en el comercio por su titular o por la persona a quien le haya concedido licencia.
+El reconocimiento de una denominación de origen o indicación geográfica protegida en el extranjero no producirá efecto contra cualquier persona que comercialice, distribuya, adquiera o use el producto al cual se aplique dicha denominación o indicación, luego que el producto hubiera sido introducido lícitamente en el comercio por la persona titular o por la persona a quien le haya concedido licencia.
 
 Queda comprendida en este supuesto, la importación de los productos legítimos a los que se aplique la denominación de origen o indicación geográfica protegida en el extranjero, que realice cualquier persona para su uso, distribución o comercialización en México.
 
@@ -2942,21 +3662,67 @@ II.- Cancelación, cuando el documento al que se refiere la fracción II del art
 
 La declaración de nulidad o cancelación de la inscripción se hará administrativamente por el Instituto de oficio, a petición de parte o del Ministerio Público Federal, cuando tenga algún interés la Federación.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+## TÍTULO QUINTO BIS. Del Procedimiento de Emisión de Resolución Obligatoria de Patentes o Registros
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+### Capítulo I. Disposiciones Generales
+
+> <small>(ADICIONADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+###### Artículo 327 Bis.
+
+Las personas solicitantes podrán optar por solicitar al Comité Técnico Especializado constituido por la Junta de Gobierno del Instituto, el inicio del procedimiento de emisión de resolución obligatoria de patentes o registros, según sea el caso, cuando no se hayan resuelto de manera definitiva los trámites de patentes o registros, dentro de los plazos previstos en los artículos 79, 111 Bis, 229, 229 Bis, 237, 240, 245, 286, 290, 300, 301 y 318 de la presente Ley.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+### Capítulo II. Del Comité Técnico Especializado
+
+> <small>(ADICIONADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+###### Artículo 327 Ter.
+
+La Junta de Gobierno del Instituto contará con un Comité Técnico Especializado, el cual tiene por objeto conocer, atender y determinar sobre la procedencia de las solicitudes relacionadas con los procedimientos de emisión de resolución obligatoria de patentes o registros.
+
+La integración, operación y funcionamiento del Comité Técnico Especializado será en los términos que establezcan los lineamientos que emita la Junta de Gobierno del Instituto.
+
+El Comité Técnico Especializado estará integrado por cuando menos tres personas representantes designadas por la Junta de Gobierno del Instituto, las cuales contarán con derecho a voz y voto, y deben pertenecer a las dependencias que la conforman.
+
+El Comité Técnico Especializado contará con una Secretaría Técnica a cargo de la persona titular de la unidad administrativa de apoyo jurídico del Instituto, así como con personal del mismo Instituto; quienes contarán únicamente con derecho a voz.
+
+Las personas integrantes del Comité Técnico Especializado desempeñarán sus funciones de manera honorífica, por lo que no recibirán emolumento o percibirán remuneración económica alguna.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+### Capítulo III. Del Procedimiento de Emisión de Resolución Obligatoria de Patentes o Registros
+
+> <small>(ADICIONADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+###### Artículo 327 Quater.
+
+Recibida la solicitud del procedimiento de emisión de resolución obligatoria de patentes o registros, el Comité Técnico Especializado, dentro de los tres días siguientes a la recepción de la solicitud, requerirá a la persona servidora pública responsable del trámite de patente o registro que rinda el informe que corresponda, el cual deberá contener, al menos, el examen de forma y, en su caso, el de fondo, cuando corresponda conforme a las disposiciones jurídicas aplicables, así como el señalamiento de las actuaciones respectivas a la solicitud. Dicho informe deberá rendirse dentro del plazo de diez días hábiles, contado a partir del día siguiente al que reciba el requerimiento, en términos de lo dispuesto en el Reglamento.
+
+El Comité Técnico Especializado, dentro de los tres días siguientes a la recepción del informe referido en el párrafo anterior o fenecido el plazo para rendirlo, deberá determinar sobre la procedencia del procedimiento de emisión de resolución obligatoria de patentes o registros, en términos de la normatividad aplicable, únicamente con las constancias remitidas por la persona servidora pública y su informe sin que sean admisibles pruebas que no obran dentro del expediente.
+
+La valoración señalada en el párrafo anterior no constituirá instancia y las determinaciones que dicte el Comité Técnico Especializado al respecto no podrán ser impugnadas por las personas solicitantes, ni admitirán recurso alguno.
+
+En caso de que de las actuaciones que obren en el expediente se desprenda que se excedieron injustificadamente los plazos referidos en el artículo 327 Bis de la presente Ley, el Comité Técnico Especializado, al día siguiente en que emita su determinación, requerirá a la persona servidora pública responsable del trámite de patente o registro para que, en términos de la normatividad aplicable, emita la resolución definitiva y la notifique a la persona solicitante en un plazo de diez días hábiles, contados a partir del día siguiente de la recepción del requerimiento.
+
+La persona servidora pública responsable del trámite de patente o registro deberá dar aviso del cumplimiento al Comité Técnico Especializado, al día hábil siguiente de que concluya el plazo señalado en el párrafo anterior. De lo contrario, de resultar procedente, se llevará a cabo el procedimiento de responsabilidades conforme a lo previsto en la legislación de la materia.
+
 ## TÍTULO SEXTO. De los Procedimientos de Declaración Administrativa
 
 ### Capítulo I. Disposiciones Generales
 
-### Capítulo II. De la Inspección
-
-### Capítulo III. De las Notificaciones
-
-## TÍTULO SÉPTIMO. De las Infracciones, Sanciones Administrativas y Delitos
-
-### Capítulo IV. De la Conciliación
-
 ###### Artículo 328.
 
 Las solicitudes de declaración administrativa de nulidad, caducidad, cancelación e infracción que establece esta Ley, se sustanciarán y resolverán con arreglo al procedimiento que señala este Capítulo y las formalidades que esta Ley prevé.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Para efecto de las solicitudes de declaración administrativa de infracción, el Instituto podrá establecer las reglas para su presentación, sustanciación y resolución, a través de medios de comunicación electrónica.
 
 ###### Artículo 329.
 
@@ -2968,7 +3734,9 @@ Cualquier persona podrá presentar información que le permita al Instituto, det
 
 La solicitud de declaración administrativa que se interponga deberá contener los siguientes requisitos:
 
-I.- El nombre del solicitante y, en su caso, de su representante;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+I.- El nombre de la persona solicitante y, en su caso, de su representante;
 
 II.- El domicilio para oír y recibir notificaciones, y una dirección de correo electrónico;
 
@@ -2988,59 +3756,87 @@ Con la solicitud de declaración administrativa deberán presentarse, en origina
 
 Las pruebas que se presenten posteriormente no serán admitidas, salvo que fueren supervenientes.
 
-El solicitante deberá exhibir el número de copias simples de la solicitud y de los documentos anexos, necesarios para correr traslado a la contraparte.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-Cuando se ofrezca como prueba algún documento que obre en los archivos del Instituto, el solicitante podrá pedir se expida, a su costa, copia certificada de éste o se realice el cotejo respectivo; así como la expedición de las copias simples de dicho documento necesarias para el traslado, señalando el expediente en el cual se encuentre.
+La persona solicitante deberá exhibir el número de copias simples de la solicitud y de los documentos anexos, necesarios para correr traslado a la contraparte.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Cuando se ofrezca como prueba algún documento que obre en los archivos del Instituto, la persona solicitante podrá pedir se expida, a su costa, copia certificada de éste o se realice el cotejo respectivo; así como la expedición de las copias simples de dicho documento necesarias para el traslado, señalando el expediente en el cual se encuentre.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 332.
 
-Si el solicitante no cumpliere con los requisitos a que se refieren los artículos 330 y 331 de esta Ley u omita el documento con el que se acredite la personalidad, el Instituto le requerirá, por una sola vez, subsane la omisión en que incurrió o haga las aclaraciones que correspondan, en un plazo de ocho días. De no cumplir el requerimiento en el plazo otorgado, el Instituto desechará la solicitud.
+Si la persona solicitante no cumpliere con los requisitos a que se refieren los artículos 330 y 331 de esta Ley u omita el documento con el que se acredite la personalidad, el Instituto le requerirá, por una sola vez, subsane la omisión en que incurrió o haga las aclaraciones que correspondan, en un plazo de ocho días. De no cumplir el requerimiento en el plazo otorgado, el Instituto desechará la solicitud.
 
 ###### Artículo 333.
 
 En los procedimientos de declaración administrativa se admitirán toda clase de pruebas, excepto la testimonial y confesional, salvo que el testimonio o la confesión estén contenidos en documental, así como las que sean contrarias a la moral y al derecho.
 
-Sin perjuicio de lo dispuesto en el párrafo anterior, para los efectos de esta Ley, se otorgará valor probatorio a las facturas expedidas y a los inventarios elaborados por el titular o su licenciatario, que estén relacionados con los hechos objeto de prueba.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Sin perjuicio de lo dispuesto en el párrafo anterior, para los efectos de esta Ley, se otorgará valor probatorio a las facturas expedidas y a los inventarios elaborados por la persona titular o la persona licenciataria, que estén relacionados con los hechos objeto de prueba.
 
 ###### Artículo 334.
 
 Para la comprobación de hechos que puedan constituir violación de alguno o algunos de los derechos que protege esta Ley, o en los procedimientos de declaración administrativa, el Instituto podrá valerse de los medios de prueba que estime necesarios.
 
-Cuando el titular afectado o el presunto infractor hayan presentado las pruebas suficientes a las que razonablemente tengan acceso como base de sus pretensiones y hayan indicado alguna prueba pertinente para la sustentación de dichas pretensiones que esté bajo el control de la contraria, el Instituto podrá ordenar a ésta la presentación de dicha prueba, con apego, en su caso, a las condiciones que garanticen la protección de información confidencial.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-Cuando el titular afectado o el presunto infractor nieguen el acceso a pruebas o no proporcionen pruebas pertinentes bajo su control en un plazo razonable, u obstaculicen de manera significativa el procedimiento, el Instituto podrá dictar resoluciones preliminares y definitivas, de naturaleza positiva o negativa, con base en las pruebas presentadas, incluyendo los argumentos presentados por quien resulte afectado desfavorablemente con la denegación de acceso a las pruebas, a condición de que se conceda a los interesados la oportunidad de ser oídos respecto de los argumentos y las pruebas presentadas.
+Cuando la persona titular afectada o la persona presunta infractora hayan presentado las pruebas suficientes a las que razonablemente tengan acceso como base de sus pretensiones y hayan indicado alguna prueba pertinente para la sustentación de dichas pretensiones que esté bajo el control de la parte contraria, el Instituto podrá ordenar a ésta la presentación de dicha prueba, con apego, en su caso, a las condiciones que garanticen la protección de información confidencial.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Cuando la persona titular afectada o la persona presunta infractora nieguen el acceso a pruebas o no proporcionen pruebas pertinentes bajo su control en un plazo razonable, u obstaculicen de manera significativa el procedimiento, el Instituto podrá dictar resoluciones preliminares y definitivas, de naturaleza positiva o negativa, con base en las pruebas presentadas, incluyendo los argumentos presentados por quien resulte afectada desfavorablemente con la denegación de acceso a las pruebas, a condición de que se conceda a las personas interesadas la oportunidad de ser oídos respecto de los argumentos y las pruebas presentadas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 335.
 
-Cuando la materia objeto de la patente sea un proceso para la obtención de un producto, en el procedimiento de declaración administrativa de infracción, el presunto infractor deberá probar que dicho producto se fabricó bajo un proceso diferente al patentado cuando:
+Cuando la materia objeto de la patente sea un proceso para la obtención de un producto, en el procedimiento de declaración administrativa de infracción, la persona presunta infractora deberá probar que dicho producto se fabricó bajo un proceso diferente al patentado cuando:
 
 I.- El producto obtenido por el proceso patentado sea nuevo, o
 
-II.- Exista una probabilidad significativa de que el producto haya sido fabricado mediante el proceso patentado y el titular de la patente no haya logrado, no obstante haberlo intentado, establecer el proceso efectivamente utilizado.
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+II.- Exista una probabilidad significativa de que el producto haya sido fabricado mediante el proceso patentado y la persona titular de la patente no haya logrado, no obstante haberlo intentado, establecer el proceso efectivamente utilizado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 336.
 
-Admitida la solicitud de declaración administrativa, el Instituto correrá traslado con la copia simple de ésta así como de los documentos que le acompañan, al titular afectado o al presunto infractor para que manifiesten lo que a su derecho convenga y presenten las pruebas correspondientes, dentro de los siguientes plazos:
+Admitida la solicitud de declaración administrativa, el Instituto correrá traslado con la copia simple de ésta así como de los documentos que le acompañan, a la persona titular afectada o a la persona presunta infractora para que manifiesten lo que a su derecho convenga y presenten las pruebas correspondientes, dentro de los siguientes plazos:
 
-I.- Un mes, si se trata de una solicitud de declaración administrativa de nulidad, caducidad o cancelación, o
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+I.- Un mes, si se trata de una solicitud de declaración administrativa de nulidad, caducidad, cancelación, o reclamación de la titularidad de una patente o registro, o
 
 II.- Diez días hábiles, si se trata de una solicitud de declaración administrativa de infracción que no amerite visita de inspección o, en su caso, conforme a lo dispuesto por el artículo 360 fracción IX.
 
-La notificación se hará en el domicilio señalado por el solicitante de la declaración administrativa. Cuando no haya sido posible practicarla en dicho domicilio, se llevará a cabo en términos de lo dispuesto por el artículo 369 de esta Ley.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+La notificación se hará en el domicilio señalado por la persona solicitante de la declaración administrativa. Cuando no haya sido posible practicarla en dicho domicilio, se llevará a cabo en términos de lo dispuesto por el artículo 369 de esta Ley.
 
 ###### Artículo 337.
 
 En el procedimiento de declaración administrativa no se sustanciarán incidentes de previo y especial pronunciamiento sino que se resolverán al emitirse la resolución que proceda.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 338.
 
-Cuando el Instituto inicie de oficio el procedimiento de declaración administrativa, la notificación al titular afectado o, en su caso, al presunto infractor se hará de conformidad al Capítulo III del presente Título.
+Cuando el Instituto inicie de oficio el procedimiento de declaración administrativa, la notificación a la persona titular afectada o, en su caso, a la presunta persona infractora se hará de conformidad al Capítulo III del presente Título.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 339.
 
-El escrito en que el titular afectado o, en su caso, el presunto infractor formule sus manifestaciones deberá contener:
+El escrito en que la persona titular afectada o, en su caso, la persona presunta infractora formule sus manifestaciones deberá contener:
 
-I.- El nombre del titular afectado o del presunto infractor y, en su caso, de su representante legal;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+I.- El nombre de la persona titular afectada o de la persona presunta infractora y, en su caso, de su representante legal;
 
 II.- El domicilio para oír y recibir notificaciones, y una dirección de correo electrónico;
 
@@ -3054,27 +3850,37 @@ VI.- Los fundamentos de derecho.
 
 Para la presentación del escrito y el ofrecimiento de pruebas será aplicable lo dispuesto en el artículo 331 de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 340.
 
-Cuando el titular afectado o, en su caso, el presunto infractor no pueda exhibir dentro del plazo concedido la totalidad o parte de las pruebas por encontrarse éstas en el extranjero, se le podrá otorgar un plazo adicional de quince días para su presentación, siempre y cuando las ofrezca en su escrito y haga el señalamiento respectivo.
+Cuando la persona titular afectada o, en su caso, la persona presunta infractora no pueda exhibir dentro del plazo concedido la totalidad o parte de las pruebas por encontrarse éstas en el extranjero, se le podrá otorgar un plazo adicional de quince días para su presentación, siempre y cuando las ofrezca en su escrito y haga el señalamiento respectivo.
 
 ###### Artículo 341.
 
 Previo a la emisión de la resolución, el Instituto pondrá a disposición de las partes las actuaciones que obren en el expediente, para que en un plazo de diez días formulen alegatos. De presentarse, serán tomados en cuenta en la resolución que se emita.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 342.
 
-Una vez que el titular afectado o el presunto infractor presente sus manifestaciones o, en su caso, se exhiban los alegatos, se dictará la resolución administrativa que proceda, previo estudio de los antecedentes relativos y desahogadas las pruebas que lo requieran.
+Una vez que la persona titular afectada o la persona presunta infractora presente sus manifestaciones o, en su caso, se exhiban los alegatos, se dictará la resolución administrativa que proceda, previo estudio de los antecedentes relativos y desahogadas las pruebas que lo requieran.
 
 Tratándose de procedimientos de declaración administrativa de infracción, en la misma resolución se impondrá la sanción, cuando ésta sea procedente.
 
-La resolución definitiva se notificará a los interesados en el domicilio señalado en el expediente o, en su caso, mediante publicación en los términos del artículo 369 de esta Ley.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+La resolución definitiva se notificará a las personas interesadas en el domicilio señalado en el expediente o, en su caso, mediante publicación en los términos del artículo 369 de esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 343.
 
-En el incidente al que se refiere el artículo 397 de esta Ley, considerando los elementos aportados por las partes, el Instituto podrá condenar al infractor al pago de los daños y perjuicios causados al titular afectado. Para tal efecto, la resolución deberá señalar expresamente:
+En el incidente al que se refiere el artículo 397 de esta Ley, considerando los elementos aportados por las partes, el Instituto podrá condenar a la persona infractora al pago de los daños y perjuicios causados a la persona titular afectada. Para tal efecto, la resolución deberá señalar expresamente:
 
-I.- La existencia de la relación de causalidad entre la conducta infractora y la lesión producida al titular afectado, y
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+I.- La existencia de la relación de causalidad entre la conducta infractora y la lesión producida a la persona titular afectada, y
 
 II.- La determinación del daño o perjuicio ocasionado.
 
@@ -3098,27 +3904,41 @@ III.- Prohibir, de inmediato, la comercialización o uso de los productos con lo
 
 IV.- Ordenar el aseguramiento de bienes, mismo que se practicará conforme a lo dispuesto en los artículos 362 a 365;
 
-V.- Ordenar al presunto infractor o a terceros la suspensión o el cese de los actos que constituyan una violación a las disposiciones de esta Ley;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+V.- Ordenar a la persona presunta infractora o a las terceras personas la suspensión o el cese de los actos que constituyan una violación a las disposiciones de esta Ley;
 
 VI.- Ordenar la suspensión de la libre circulación de mercancías destinadas a la importación, exportación, tránsito o, en su caso, cualquier régimen aduanero, que constituyan una violación a las disposiciones de esta Ley, de conformidad con los ordenamientos legales aplicables en materia aduanera;
 
-VII.- Ordenar al presunto infractor o a terceros la suspensión, bloqueo, remoción de contenidos o cese de los actos que constituyan una violación a esta Ley a través de cualquier medio virtual, digital o electrónico, conocido o por conocerse, y
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+VII.- Ordenar a la persona presunta infractora o a las terceras personas la suspensión, bloqueo, remoción de contenidos o cese de los actos que constituyan una violación a esta Ley a través de cualquier medio virtual, digital o electrónico, conocido o por conocerse, y
 
 VIII.- Ordenar se suspenda la prestación del servicio o se clausure el establecimiento cuando las medidas que se prevén en las fracciones anteriores no sean suficiente para prevenir o evitar la violación a los derechos protegidos por esta Ley.
 
-Si el producto o servicio se encuentra en el comercio, los comerciantes o prestadores tendrán la obligación de abstenerse de su enajenación o prestación a partir de la fecha en que se les notifique la resolución.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-Igual obligación tendrán los productores, fabricantes, importadores y sus distribuidores, quienes serán responsables de recuperar de inmediato los productos que ya se encuentren en el comercio.
+Si el producto o servicio se encuentra en el comercio, las personas comerciantes o prestadoras tendrán la obligación de abstenerse de su enajenación o prestación a partir de la fecha en que se les notifique la resolución.
 
-En caso de que la persona física o moral a la cual le fueron impuestas las medidas, no acate lo ordenado en las mismas, se hará acreedor a las sanciones previstas en las fracciones I o III del artículo 388 de esta Ley.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Igual obligación tendrán las personas productoras, fabricantes, importadoras y sus distribuidoras, quienes serán responsables de recuperar de inmediato los productos que ya se encuentren en el comercio.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+En caso de que la persona física o moral a la cual le fueron impuestas las medidas, no acate lo ordenado en éstas, se hará acreedora a las sanciones previstas en las fracciones I o III del artículo 388 de esta Ley.
 
 El Instituto podrá adoptar de oficio las medidas provisionales previstas en este artículo, de considerarlo procedente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 345.
 
-Para determinar la práctica de las medidas a que se refiere el artículo anterior, el Instituto deberá realizar un análisis ponderado de la apariencia del buen derecho y la no contravención de disposiciones de orden público y que no se afecte al interés general; además tomará en consideración la gravedad de la infracción y la naturaleza de la medida solicitada, para lo cual requerirá al solicitante que:
+Para determinar la práctica de las medidas a que se refiere el artículo anterior, el Instituto deberá realizar un análisis ponderado de la apariencia del buen derecho y la no contravención de disposiciones de orden público y que no se afecte al interés general; además tomará en consideración la gravedad de la infracción y la naturaleza de la medida solicitada, para lo cual requerirá a la persona solicitante que:
 
-I.- Acredite ser el titular del derecho y cualquiera de los siguientes supuestos:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 3 DE ABRIL DE 2026)</small>
+
+I.- Acredite ser la persona titular del derecho y cualquiera de los siguientes supuestos:
 
 a) La existencia de una violación a su derecho;
 
@@ -3132,17 +3952,23 @@ El acreditamiento de la titularidad del derecho no será exigible cuando se trat
 
 II.- Otorgue fianza o billete de depósito suficiente para responder por la afectación que se pudiera causar a la persona en contra de quien se haya solicitado la medida.
 
-Para determinar el importe de la fianza o billete de depósito el Instituto tomará en consideración los elementos que aporte el solicitante, así como los que se desprendan de las actuaciones en el expediente.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-El Instituto podrá requerir al solicitante la ampliación de la fianza, cuando de la práctica de las medidas se desprenda que la otorgada inicialmente resulta insuficiente para responder de la afectación que se pudiera causar a la persona en contra de quien se haya solicitado la medida.
+Para determinar el importe de la fianza o billete de depósito el Instituto tomará en consideración los elementos que aporte la persona solicitante, así como los que se desprendan de las actuaciones en el expediente.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+El Instituto podrá requerir a la persona solicitante la ampliación de la fianza, cuando de la práctica de las medidas se desprenda que la otorgada inicialmente resulta insuficiente para responder de la afectación que se pudiera causar a la persona en contra de quien se haya solicitado la medida.
 
 Este requisito no será exigible cuando la imposición de medidas provisionales se adopte de oficio por parte del Instituto, y
 
 III.- Proporcione la información necesaria para la identificación de los bienes, servicios o establecimientos físicos o plataformas digitales con los cuales o en donde se comete la violación a los derechos que protege esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 346.
 
-La persona contra la que se haya adoptado las medidas a que se refiere el artículo 344 de esta Ley, podrá exhibir contrafianza para responder de la afectación que se causen al solicitante de la misma a efecto de obtener su levantamiento.
+La persona contra la que se haya adoptado las medidas a que se refiere el artículo 344 de esta Ley, podrá exhibir contrafianza para responder de la afectación que se causen (sic) a la persona solicitante de la misma a efecto de obtener su levantamiento.
 
 Para resolver si procede levantar las medidas el Instituto, considerando la apariencia del buen derecho y con los elementos que le proporcionen las partes, deberá analizar y ponderar si la afectación que podría sufrir la persona a quien se le impusieron las medidas es mayor a la que se pueden provocar a la persona que las solicite y que no se afecten al orden público o interés general.
 
@@ -3156,19 +3982,23 @@ La persona en contra de quien se haya ordenado alguna de las medidas a que se re
 
 El Instituto podrá modificar los términos de la medida que se haya adoptado tomando en consideración las observaciones que se le presenten.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 349.
 
-El solicitante de las medidas provisionales a que se refiere el artículo 344 será responsable del pago por la afectación causada a la persona en contra de quien se hubiesen ejecutado cuando:
+La persona solicitante de las medidas provisionales a que se refiere el artículo 344 será responsable del pago por la afectación causada a la persona en contra de quien se hubiesen ejecutado cuando:
 
 I.- La resolución definitiva sobre el fondo de la controversia declare que no existió violación ni amenaza de violación a los derechos del solicitante de la medida, y
 
 II.- Se haya solicitado una medida provisional y no se hubiese presentado la demanda o solicitud de declaración administrativa de infracción ante la autoridad competente o ante el Instituto respecto del fondo de la controversia, dentro de un plazo de veinte días contados a partir del día hábil siguiente a la ejecución de la medida.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 350.
 
-Cuando se resuelva el procedimiento de declaración administrativa de infracción, el Instituto pondrá a disposición del afectado la fianza o contrafianza que, en su caso, se hubiesen exhibido.
+Cuando se resuelva el procedimiento de declaración administrativa de infracción, el Instituto pondrá a disposición de la persona afectada la fianza o contrafianza que, en su caso, se hubiesen exhibido.
 
-Lo anterior, con independencia de la indemnización por los daños y perjuicios que correspondan al titular afectado sobre el fondo de la controversia.
+Lo anterior, con independencia de la indemnización por los daños y perjuicios que correspondan a la persona titular afectada sobre el fondo de la controversia.
 
 ###### Artículo 351.
 
@@ -3178,11 +4008,13 @@ El Instituto decidirá en la resolución definitiva del procedimiento de declara
 
 En cualquier medida provisional que se practique, deberá cuidarse que ésta no sirva como medio para violar secretos industriales o para realizar actos que constituyan competencia desleal.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 353.
 
-El solicitante solo podrá utilizar la documentación relativa a la práctica de una medida provisional para iniciar el juicio correspondiente o para exhibirla en los autos de los procesos en trámite, con prohibición de usarla, divulgarla o comunicarla a terceros.
+La persona solicitante solo podrá utilizar la documentación relativa a la práctica de una medida provisional para iniciar el juicio correspondiente o para exhibirla en los autos de los procesos en trámite, con prohibición de usarla, divulgarla o comunicarla a terceras personas.
 
-### Capítulo I. De las Infracciones y Sanciones Administrativas
+### Capítulo II. De la Inspección
 
 ###### Artículo 354.
 
@@ -3204,11 +4036,15 @@ Las visitas de inspección se practicarán en días y horas hábiles y únicamen
 
 El Instituto podrá autorizar se practiquen también en días y horas inhábiles a fin de evitar la comisión de infracciones, caso en el cual en el oficio de comisión se expresará tal autorización.
 
-Durante el desarrollo de las diligencias, el personal comisionado a las visitas de inspección podrá tomar fotografías, video filmaciones o recabar pruebas con cualquier otro instrumento considerado como admisible, en términos de las disposiciones legales aplicables. Las fotografías que se tomen, los videos que se filmen y las demás probanzas recabadas con los instrumentos reconocidos por el presente artículo, podrán ser utilizados por el Instituto como elementos con pleno valor probatorio. El solicitante de la visita de inspección podrá proporcionar los medios necesarios para tal efecto.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Durante el desarrollo de las diligencias, el personal comisionado a las visitas de inspección podrá tomar fotografías, video filmaciones o recabar pruebas con cualquier otro instrumento considerado como admisible, en términos de las disposiciones legales aplicables. Las fotografías que se tomen, los videos que se filmen y las demás probanzas recabadas con los instrumentos reconocidos por el presente artículo, podrán ser utilizados por el Instituto como elementos con pleno valor probatorio. La persona solicitante de la visita de inspección podrá proporcionar los medios necesarios para tal efecto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 357.
 
-Los propietarios o encargados de establecimientos en que se fabriquen, almacenen, distribuyan, vendan o se ofrezcan en venta los productos o se presten servicios, tendrán la obligación de permitir el acceso al personal comisionado para practicar visitas de inspección, siempre que se cumplan los requisitos establecidos en el artículo anterior.
+Las personas propietarias o encargadas de establecimientos en que se fabriquen, almacenen, distribuyan, vendan o se ofrezcan en venta los productos o se presten servicios, tendrán la obligación de permitir el acceso al personal comisionado para practicar visitas de inspección, siempre que se cumplan los requisitos establecidos en el artículo anterior.
 
 Si se negara el acceso del personal comisionado a los establecimientos a los que se refiere el párrafo previo o si de cualquier manera hubiera oposición a la realización de la visita de inspección, dicha circunstancia se hará constar en el acta respectiva, se presumirán ciertos los hechos que se le imputen en los procedimientos de declaración administrativa correspondiente, y se impondrán las sanciones previstas en las fracciones I o III del artículo 388 de esta Ley.
 
@@ -3216,11 +4052,13 @@ Si se negara el acceso del personal comisionado a los establecimientos a los que
 
 Se entiende por visitas de inspección las que se practiquen en los lugares en que se fabriquen, almacenen, transporten, expendan o comercialicen productos o en que se presten servicios, con objeto de examinar los productos, las condiciones de prestación de los servicios y los documentos relacionados con la actividad de que se trate, ya sea en establecimientos físicos o plataformas digitales.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 359.
 
-De toda visita de inspección se levantará acta circunstanciada en presencia de dos testigos propuestos por la persona con la que se hubiese entendido la diligencia o por el inspector que la practicó, si aquélla se hubiese negado a proponerlos.
+De toda visita de inspección se levantará acta circunstanciada en presencia de dos personas testigos propuestas por la persona con la que se hubiese entendido la diligencia o por la persona inspectora que la practicó, si aquélla se hubiese negado a proponerlas.
 
-Si la persona con quien se entendió la diligencia o los testigos no firman el acta, o se niega a aceptar copia de la misma, o no se proporcionan testigos para firmar la misma, dichas circunstancias se asentarán en la propia acta sin que esto afecte su validez y valor probatorio.
+Si la persona con quien se entendió la diligencia o las personas testigos no firman el acta, o se niega a aceptar copia de esta, o no se proporcionan personas testigos para firmar el acta, dichas circunstancias se asentarán en la propia acta sin que esto afecte su validez y valor probatorio.
 
 ###### Artículo 360.
 
@@ -3230,29 +4068,45 @@ I.- La hora, día, mes y año en que se practique la diligencia;
 
 II.- La calle, número, población y entidad federativa en que se encuentre ubicado el lugar donde se practique la visita;
 
-III.- El número y fecha del oficio de comisión que la motivó, incluyendo la identificación del inspector;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+III.- El número y fecha del oficio de comisión que la motivó, incluyendo la identificación de la persona inspectora;
 
 IV.- El nombre y carácter de la persona con quien se entendió la diligencia;
 
-V.- El nombre y domicilio de las personas que fungieron como testigos, sea que hubieran sido designadas por el visitado o, en su defecto, por el inspector;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-VI.- La mención de la oportunidad que se dio al visitado de ejercer su derecho de hacer observaciones al inspector durante la práctica de la diligencia;
+V.- El nombre y domicilio de las personas que fungieron como testigos, sea que hubieran sido designadas por la persona visitada o, en su defecto, por la persona inspectora;
+
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+VI.- La mención de la oportunidad que se dio a la persona visitada de ejercer su derecho de hacer observaciones a la persona inspectora durante la práctica de la diligencia;
 
 VII.- Los datos relativos a la actuación, incluyendo el reporte de cualquier circunstancia o hecho que haya observado durante la práctica de la diligencia, aun cuando dicha circunstancia o hecho no estén contenidos en los puntos del acta de inspección, y la mención de si se han tomado fotografías, realizado video filmaciones o recabado otros elementos de prueba durante el desarrollo de la diligencia. En su caso, dichos elementos se deberán anexar al acta correspondiente;
 
-VIII.- La declaración del visitado, si quisiera hacerla;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-IX.- La mención de la oportunidad que se dio al visitado de ejercer su derecho de confirmar por escrito las observaciones que hubiera hecho en el momento de la visita y hacer otras nuevas al acta levantada, dentro del término de diez días, y
+VIII.- La declaración de la persona visitada, si quisiera hacerla;
 
-X.- El nombre y firma de quienes intervinieron en la diligencia, incluyendo al inspector, y en su caso, la indicación de que el visitado se negó a firmar el acta.
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+IX.- La mención de la oportunidad que se dio a la persona visitada de ejercer su derecho de confirmar por escrito las observaciones que hubiera hecho en el momento de la visita y hacer otras nuevas al acta levantada, dentro del término de diez días, y
+
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+X.- El nombre y firma de las personas que intervinieron en la diligencia, incluyendo a la persona inspectora, y en su caso, la indicación de que la persona visitada se negó a firmar el acta.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 361.
 
-Al hacer observaciones durante la diligencia o por escrito, los visitados podrán ofrecer pruebas en relación con los hechos contenidos en el acta.
+Al hacer observaciones durante la diligencia o por escrito, las personas visitadas podrán ofrecer pruebas en relación con los hechos contenidos en el acta.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 362.
 
-Si durante la diligencia se comprobara fehacientemente la comisión de cualquiera de los actos o hechos previstos en los artículos 386 o 402 de esta Ley, el inspector asegurará, en forma cautelar, los productos con los cuales presumiblemente se cometan dichas infracciones o delitos, levantando un inventario de los bienes asegurados, lo cual se hará constar en el acta de inspección.
+Si durante la diligencia se comprobara fehacientemente la comisión de cualquiera de los actos o hechos previstos en los artículos 386 o 402 de esta Ley, la persona inspectora asegurará, en forma cautelar, los productos con los cuales presumiblemente se cometan dichas infracciones o delitos, levantando un inventario de los bienes asegurados, lo cual se hará constar en el acta de inspección.
 
 Si se trata de hechos posiblemente constitutivos de delitos, el Instituto lo hará constar en la resolución que emita al efecto.
 
@@ -3270,13 +4124,17 @@ II.- Libros, registros, documentos, modelos, muestras, etiquetas, papelería, ma
 
 III.- Mercancías, productos y cualesquiera otros bienes en los que se materialice la infracción a los derechos protegidos por esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 365.
 
-En el aseguramiento de bienes a que se refiere el artículo anterior, podrá designarse como depositario al encargado o propietario del establecimiento en el que se encuentren, si éste es fijo. Si no lo fuere, se designará a la persona o institución que señale el solicitante de la medida, bajo su responsabilidad o, en su caso, los productos se concentrarán en el Instituto.
+En el aseguramiento de bienes a que se refiere el artículo anterior, podrá designarse como depositaria a la persona encargada o a la persona propietaria del establecimiento en el que se encuentren, si éste es fijo. Si no lo fuere, se designará a la persona o institución que señale la persona solicitante de la medida, bajo su responsabilidad o, en su caso, los productos se concentrarán en el Instituto.
 
 La mercancía asegurada deberá de estar en todo momento a disposición del Instituto y cualquier cambio de situación de la misma deberá ser comunicado a éste.
 
-Cuando el Instituto requiera la mercancía y ésta no sea proporcionada, el depositario se hará acreedor a la sanción prevista en la fracción I del artículo 388 de esta Ley, sin perjuicio de las acciones civiles o penales que correspondan, salvo causa justificada.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Cuando el Instituto requiera la mercancía y ésta no sea proporcionada, la persona depositaria se hará acreedora a la sanción prevista en la fracción I del artículo 388 de esta Ley, sin perjuicio de las acciones civiles o penales que correspondan, salvo causa justificada.
 
 ###### Artículo 366.
 
@@ -3288,7 +4146,7 @@ II.- La destrucción de los mismos, sin compensación alguna.
 
 Lo anterior, sin perjuicio del acuerdo al que pudieran llegar las partes sobre el destino de los bienes asegurados durante la tramitación del procedimiento.
 
-### Capítulo II. De los Delitos
+### Capítulo III. De las Notificaciones
 
 ###### Artículo 367.
 
@@ -3302,7 +4160,9 @@ III.- A través de medios de comunicación electrónica o cualquier otro medio, 
 
 IV.- Por edicto, cuando se desconozca el domicilio de la persona a quien deba notificarse, haya desaparecido, se ignore su domicilio o se encuentre en el extranjero sin haber dejado representante legal.
 
-Para el caso de procedimientos de declaración administrativa de nulidad, cancelación y caducidad, previo a la notificación por edicto, el solicitante deberá agotar los domicilios señalados por el titular afectado en el expediente de la patente, registro, publicación o autorización respectivo, y
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Para el caso de procedimientos de declaración administrativa de nulidad, cancelación y caducidad, previo a la notificación por edicto, la persona solicitante deberá agotar los domicilios señalados por el titular afectado en el expediente de la patente, registro, publicación o autorización respectivo, y
 
 V.- Mediante Gaceta.
 
@@ -3310,15 +4170,19 @@ V.- Mediante Gaceta.
 
 Las notificaciones serán personales:
 
-I.- Para emplazar al titular afectado o presunto infractor, y
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+I.- Para emplazar a la persona titular afectada o la persona presunta infractora, y
 
 II.- Cuando el Instituto estime que se trata de un caso urgente o que, por alguna circunstancia, deban ser personales, y así lo ordene expresamente.
 
 En los procedimientos de declaración administrativa de infracción, en donde se haya practicado una visita de inspección, se considerará legalmente realizada la notificación con la persona con la que se entendió la diligencia, en términos del artículo 360 fracción IX de la presente Ley.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 369.
 
-Cuando no haya sido posible el emplazamiento a que se refiere el artículo anterior por cambio de domicilio, tanto en el señalado por el solicitante como en aquéllos que obren en el expediente que corresponda, y se desconozca el nuevo, la notificación se hará por edicto, a costa de quien intente la acción por medio de publicación en el Diario Oficial y en un periódico de los de mayor circulación de la República, por una sola vez. En la publicación se dará a conocer un extracto de la solicitud de declaración administrativa y se señalará el plazo con que cuenta el titular afectado o presunto infractor para que manifieste lo que a su derecho convenga.
+Cuando no haya sido posible el emplazamiento a que se refiere el artículo anterior por cambio de domicilio, tanto en el señalado por la persona solicitante como en aquéllos que obren en el expediente que corresponda, y se desconozca el nuevo, la notificación se hará por edicto, a costa de quien intente la acción por medio de publicación en el Diario Oficial y en un periódico de los de mayor circulación de la República, por una sola vez. En la publicación se dará a conocer un extracto de la solicitud de declaración administrativa y se señalará el plazo con que cuenta la persona titular afectada o la persona presunta infractora para que manifieste lo que a su derecho convenga.
 
 ###### Artículo 370.
 
@@ -3328,11 +4192,13 @@ En las notificaciones por edictos se tendrá como fecha de notificación la de l
 
 En el caso de las notificaciones que no deban practicarse de manera personal, se dará prioridad a la notificación por Gaceta.
 
-### Capítulo III. De los Procedimientos Jurisdiccionales
+### Capítulo IV. De la Conciliación
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 372.
 
-En los procedimientos de declaración administrativa de infracción, el Instituto buscará en todo momento conciliar los intereses de los involucrados, conforme a las reglas establecidas en el presente Capítulo.
+En los procedimientos de declaración administrativa de infracción, el Instituto buscará en todo momento conciliar los intereses de las personas involucradas, conforme a las reglas establecidas en el presente Capítulo.
 
 ###### Artículo 373.
 
@@ -3340,27 +4206,37 @@ La conciliación podrá ser solicitada por cualquiera de las partes, en cualquie
 
 En la conciliación, el Instituto no se pronunciará sobre cuestiones de fondo, quedando bajo la responsabilidad de las partes los acuerdos que se adopten.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 374.
 
-Al momento de solicitar la conciliación, el solicitante deberá presentar los términos de la propuesta conciliatoria. Además deberá exhibir copias simples de dicho escrito y sus anexos, a efecto de correr traslado a su contraparte.
+Al momento de solicitar la conciliación, la persona solicitante deberá presentar los términos de la propuesta conciliatoria. Además, deberá exhibir copias simples de dicho escrito y sus anexos, a efecto de correr traslado a su contraparte.
 
 ###### Artículo 375.
 
 Una vez admitida la solicitud de conciliación, el Instituto dará vista a la contraparte para que en el plazo de cinco días hábiles, manifieste su aceptación o negativa a negociar un convenio, apercibido que de no dar respuesta dentro del plazo señalado, se tendrá por contestada en sentido negativo.
 
-En caso de que la contraparte acepte iniciar la negociación del convenio, podrá aceptar la propuesta inicial del solicitante o, en su caso, presentar una contrapropuesta, debiendo exhibir copias simples de dicho escrito y sus anexos, a efecto de correr traslado a la parte contraria.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-De la respuesta de la contraparte, se dará vista al solicitante de la conciliación.
+En caso de que la contraparte acepte iniciar la negociación del convenio, podrá aceptar la propuesta inicial de la persona solicitante o, en su caso, presentar una contrapropuesta, debiendo exhibir copias simples de dicho escrito y sus anexos, a efecto de correr traslado a la parte contraria.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+De la respuesta de la contraparte, se dará vista a la persona solicitante de la conciliación.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 376.
 
-En caso de que se acepte la propuesta inicial del solicitante de la conciliación, el Instituto requerirá a las partes a presentar el convenio respectivo, debidamente formalizado, en el plazo de cinco días hábiles.
+En caso de que se acepte la propuesta inicial de la persona solicitante de la conciliación, el Instituto requerirá a las partes a presentar el convenio respectivo, debidamente formalizado, en el plazo de cinco días hábiles.
 
 ###### Artículo 377.
 
 En caso de que sea presentada una contrapropuesta, el Instituto citará a las partes a una primera reunión de negociación, en sus instalaciones.
 
-De la reunión se levantará acta circunstanciada, firmada por quienes intervinieron en ella y se integrará al expediente respectivo. La falta de firma de alguna de las partes no afectará la validez del acta respectiva.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+De la reunión se levantará acta circunstanciada, firmada por las personas que intervinieron en ella y se integrará al expediente respectivo. La falta de firma de alguna de las partes no afectará la validez del acta respectiva.
 
 ###### Artículo 378.
 
@@ -3406,6 +4282,10 @@ La conciliación y sus negociaciones no suspenderán la sustanciación del proce
 
 El convenio resultante de la conciliación pondrá fin al procedimiento de declaración administrativa de infracción, tendrá el carácter de cosa juzgada y traerá aparejada ejecución.
 
+## TÍTULO SÉPTIMO. De las Infracciones, Sanciones Administrativas y Delitos
+
+### Capítulo I. De las Infracciones y Sanciones Administrativas
+
 ###### Artículo 386.
 
 Son infracciones administrativas:
@@ -3414,35 +4294,65 @@ I.- Realizar actos contrarios a los buenos usos y costumbres en la industria, co
 
 II.- Efectuar, en el ejercicio de actividades industriales o mercantiles, actos que causen o induzcan al público a confusión, error o engaño, por hacer creer o suponer infundadamente:
 
-a) La existencia de una relación o asociación entre un establecimiento y el de un tercero;
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-b) Que se fabriquen productos bajo especificaciones, licencias o autorización de un tercero;
+a) La existencia de una relación o asociación entre un establecimiento y el de una tercera persona;
 
-c) Que se prestan servicios o se venden productos bajo autorización, licencias o especificaciones de un tercero, o
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-d) Que el producto de que se trate proviene de un territorio, región o localidad distinta al verdadero lugar de origen, de modo que induzca al público a error en cuanto al origen geográfico del producto;
+b) Que se fabriquen productos bajo especificaciones, licencias o autorización de una tercera persona;
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+c) Que se prestan servicios o se venden productos bajo autorización, licencias o especificaciones de una tercera persona;
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+d) Que el producto de que se trate proviene de un territorio, región o localidad distinta al verdadero lugar de origen, de modo que induzca al público a error en cuanto al origen geográfico del producto, o
+
+> <small>(ADICIONADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+e) La existencia de una relación de patrocinio oficial entre un signo distintivo y un evento público o privado de concentración masiva.
 
 III.- Intentar o lograr el propósito de desprestigiar los productos, los servicios, la actividad industrial o comercial o el establecimiento de otro. No estará comprendida en esta disposición, la comparación de productos o servicios que ampare la marca con el propósito de informar al público, siempre que dicha comparación no sea tendenciosa, falsa o exagerada en los términos de la Ley Federal de Protección al Consumidor;
 
 IV.- Hacer aparecer como productos patentados aquéllos que no lo estén. Si la patente ha caducado o fue declarada nula, se incurrirá en la infracción después de un año de la fecha de caducidad o, en su caso, de la fecha en que sea exigible la declaración de nulidad;
 
-V.- Fabricar o elaborar productos amparados por una patente o por un registro de modelo de utilidad o diseño industrial, sin consentimiento de su titular o sin la licencia respectiva;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-VI.- Ofrecer en venta, poner en circulación o usar productos que incorporen una invención patentada, sin consentimiento de su titular o sin la licencia respectiva;
+V.- Fabricar o elaborar productos amparados por una patente o por un registro de modelo de utilidad o diseño industrial, sin consentimiento de la persona titular o sin la licencia respectiva;
 
-VII.- Utilizar procesos patentados, sin consentimiento del titular de la patente o sin la licencia respectiva;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-VIII.- Ofrecer en venta o poner en circulación productos que sean resultado de la utilización de procesos patentados, que fueron utilizados sin el consentimiento del titular de la patente o de quien tuviera una licencia de explotación;
+VI.- Ofrecer en venta, poner en circulación o usar productos que incorporen una invención patentada, sin consentimiento de la persona titular o sin la licencia respectiva;
 
-IX.- Ofrecer en venta, poner en circulación o usar productos amparados por un registro de modelo de utilidad, sin consentimiento de su titular o sin la licencia respectiva;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-X.- Ofrecer en venta, poner en circulación o usar un producto al que se incorpore un diseño industrial registrado, sin consentimiento de su titular o sin la licencia respectiva;
+VII.- Utilizar procesos patentados, sin consentimiento de la persona titular de la patente o sin la licencia respectiva;
 
-XI.- Usar un diseño industrial que no difiera en grado significativo o combinaciones de características de un registro de diseño industrial protegido, sin el consentimiento de su titular o sin la licencia respectiva;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-XII.- Reproducir un esquema de trazado protegido, sin la autorización del titular del registro, en su totalidad o cualquier parte que se considere original por sí sola, por incorporación en un circuito integrado o en otra forma;
+VIII.- Ofrecer en venta o poner en circulación productos que sean resultado de la utilización de procesos patentados, que fueron utilizados sin el consentimiento de la persona titular de la patente o de quien tuviera una licencia de explotación;
 
-XIII.- Importar, vender o distribuir en contravención a lo previsto en esta Ley, sin la autorización del titular del registro, en cualquier forma para fines comerciales:
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+IX.- Ofrecer en venta, poner en circulación o usar productos amparados por un registro de modelo de utilidad, sin consentimiento de la persona titular o sin la licencia respectiva;
+
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+X.- Ofrecer en venta, poner en circulación o usar un producto al que se incorpore un diseño industrial registrado, sin consentimiento de la persona titular o sin la licencia respectiva;
+
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+XI.- Usar un diseño industrial que no difiera en grado significativo o combinaciones de características de un registro de diseño industrial protegido, sin el consentimiento de la persona titular o sin la licencia respectiva;
+
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+XII.- Reproducir un esquema de trazado protegido, sin la autorización de la persona titular del registro, en su totalidad o cualquier parte que se considere original por sí sola, por incorporación en un circuito integrado o en otra forma;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 3 DE ABRIL DE 2026)</small>
+
+XIII.- Importar, vender o distribuir en contravención a lo previsto en esta Ley, sin la autorización de la persona titular del registro, en cualquier forma para fines comerciales:
 
 a) Un esquema de trazado protegido;
 
@@ -3450,9 +4360,13 @@ b) Un circuito integrado en el que esté incorporado un esquema de trazado prote
 
 c) Un bien que incorpore un circuito integrado que a su vez incorpore un esquema de trazado protegido reproducido ilícitamente;
 
-XIV.- Apropiarse de manera indebida de información que sea considerada como secreto industrial, sin consentimiento de la persona que ejerce su control legal o su usuario autorizado, para obtener una ventaja competitiva de mercado, o realizar actos contrarios a los buenos usos y costumbres en la industria, comercio y servicios que impliquen competencia desleal;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-XV.- Producir, ofrecer en venta, vender, importar, exportar o almacenar productos o servicios que utilicen un secreto comercial, cuando la persona que lleve a cabo dichas actividades supiera o tuviere motivos razonables para saber, que el secreto comercial se utilizó sin consentimiento de la persona que ejerce su control legal o su usuario autorizado y de manera contraria a los buenos usos y costumbres en la industria, comercio y servicios que impliquen competencia desleal;
+XIV.- Apropiarse de manera indebida de información que sea considerada como secreto industrial, sin consentimiento de la persona que ejerce su control legal o de la persona usuaria autorizada, para obtener una ventaja competitiva de mercado, o realizar actos contrarios a los buenos usos y costumbres en la industria, comercio y servicios que impliquen competencia desleal;
+
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+XV.- Producir, ofrecer en venta, vender, importar, exportar o almacenar productos o servicios que utilicen un secreto comercial, cuando la persona que lleve a cabo dichas actividades supiera o tuviere motivos razonables para saber, que el secreto comercial se utilizó sin consentimiento de la persona que ejerce su control legal o de la persona usuaria autorizada y de manera contraria a los buenos usos y costumbres en la industria, comercio y servicios que impliquen competencia desleal;
 
 XVI.- Poner a la venta o en circulación productos u ofrecer servicios, indicando que están protegidos por una marca registrada sin que lo estén. Si el registro de marca ha caducado o ha sido declarado nulo o cancelado, se incurrirá en infracción después de un año de la fecha de caducidad o en su caso, de la fecha en que sea exigible la declaración correspondiente;
 
@@ -3462,7 +4376,9 @@ XVIII.- Usar, sin consentimiento de su titular, una marca registrada o semejante
 
 XIX.- Usar como marcas las denominaciones, signos, símbolos, siglas o emblemas a las que se refieren las fracciones VII, VIII, IX, XII, XIII, XIV, XV, XVI, XVII y XX del artículo 173 de esta Ley; así como aquéllas que sean contrarias al orden público o que contravengan cualquier disposición legal;
 
-XX.- Usar una marca previamente registrada o semejante en grado de confusión como nombre comercial, denominación o razón social o nombre de dominio o como partes de éstos, de una persona física o moral cuya actividad sea la producción, importación o comercialización de bienes o servicios iguales o similares a los que se aplica la marca registrada, sin el consentimiento, manifestado por escrito, del titular del registro de marca o de la persona que tenga facultades para ello;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+XX.- Usar una marca previamente registrada o semejante en grado de confusión como nombre comercial, denominación o razón social o nombre de dominio o como partes de éstos, de una persona física o moral cuya actividad sea la producción, importación o comercialización de bienes o servicios iguales o similares a los que se aplica la marca registrada, sin el consentimiento, manifestado por escrito, de la persona titular del registro de marca o de la persona que tenga facultades para ello;
 
 XXI.- Usar una marca registrada, sin el consentimiento de su titular o sin la licencia respectiva, en productos o servicios iguales o similares a los que la marca se aplique;
 
@@ -3472,13 +4388,17 @@ XXIII.- Ofrecer en venta o poner en circulación productos a los que se aplica u
 
 XXIV.- Usar la combinación de signos distintivos, elementos operativos o de imagen, que permitan identificar productos o servicios iguales o similares en grado de confusión a otros protegidos por esta Ley y que por su uso causen o induzcan al público a creer o suponer una asociación inexistente con quien acredite el derecho;
 
-XXV.- Omitir proporcionar al franquiciatario la información, a que se refiere el artículo 245 de esta Ley, siempre y cuando haya transcurrido el plazo para ello y haya sido requerida;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+XXV.- Omitir proporcionar a la persona franquiciataria la información, a que se refiere el artículo 245 de esta Ley, siempre y cuando haya transcurrido el plazo para ello y haya sido requerida;
 
 XXVI.- Usar un aviso comercial registrado o uno semejante en grado de confusión, sin el consentimiento de su titular o sin la licencia respectiva para anunciar bienes, servicios o establecimientos iguales o similares a los que se aplique el aviso;
 
 XXVII.- Usar un nombre comercial o uno semejante en grado de confusión, sin el consentimiento de su titular o sin la licencia respectiva, para amparar un establecimiento industrial, comercial o de servicios del mismo o similar giro, dentro de la zona geográfica de la clientela efectiva o en cualquier parte de la República, conforme a lo establecido en el artículo 206 de esta Ley;
 
-XXVIII.- Usar un nombre comercial idéntico o uno semejante en grado de confusión a otro previamente utilizado por un tercero, para amparar un establecimiento industrial, comercial o de servicios del mismo o similar giro, dentro de la zona geográfica de la clientela efectiva o en cualquier parte de la República, conforme a lo establecido en el artículo 206 de esta Ley;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+XXVIII.- Usar un nombre comercial idéntico o uno semejante en grado de confusión a otro previamente utilizado por una tercera persona, para amparar un establecimiento industrial, comercial o de servicios del mismo o similar giro, dentro de la zona geográfica de la clientela efectiva o en cualquier parte de la República, conforme a lo establecido en el artículo 206 de esta Ley;
 
 XXIX.- Usar sin la autorización de uso correspondiente una denominación de origen o indicación geográfica protegida;
 
@@ -3486,9 +4406,15 @@ XXX.- Usar una denominación o indicación idéntica o semejante en grado de con
 
 XXXI.- Usar la traducción o transliteración de una denominación de origen o indicación geográfica nacional protegida o extranjera reconocida por el Instituto, para amparar los mismos o similares productos. Queda incluido en este supuesto, el uso de la denominación o indicación en servicios;
 
-XXXII.- Producir, almacenar, transportar, distribuir o vender productos idénticos o semejantes a los que se encuentren protegidos por una denominación de origen o indicación geográfica nacional protegida o extranjera reconocida por el Instituto, utilizando cualquier tipo de indicación o elemento que cree confusión en el consumidor sobre su origen o calidad, tales como "género", "tipo", "manera", "imitación”, “producido en”, “con fabricación en” u otras similares, y
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+XXXII.- Producir, almacenar, transportar, distribuir o vender productos idénticos o semejantes a los que se encuentren protegidos por una denominación de origen o indicación geográfica nacional protegida o extranjera reconocida por el Instituto, utilizando cualquier tipo de indicación o elemento que cree confusión en la persona consumidora sobre su origen o calidad, tales como “género”, “tipo”, “manera”, “imitación”, “producido en”, “con fabricación en” u otras similares, y
 
 XXXIII.- Las demás violaciones a las disposiciones de esta Ley que no constituyan delitos.
+
+> <small>(ADICIONADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Las conductas previstas en las fracciones anteriores también serán sancionadas si se realizan mediante el uso de Inteligencia Artificial.
 
 La investigación de las infracciones administrativas se realizará por el Instituto de oficio o a petición de parte interesada.
 
@@ -3508,7 +4434,9 @@ III.- Clausura temporal hasta por noventa días,
 
 IV.- Clausura definitiva.
 
-Las sanciones se aplicarán en función de la gravedad de la conducta u omisión en que hubiera incurrido el infractor, sin existir alguna prelación específica en cuanto a su imposición.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Las sanciones se aplicarán en función de la gravedad de la conducta u omisión en que hubiera incurrido la persona infractora, sin existir alguna prelación específica en cuanto a su imposición.
 
 ###### Artículo 389.
 
@@ -3530,13 +4458,19 @@ Para la determinación de las sanciones deberá tomarse en cuenta:
 
 I.- El carácter intencional de la acción u omisión constitutiva de la infracción;
 
-II.- Las condiciones económicas del infractor, y
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-III.- La gravedad que la infracción implique en relación con el comercio de productos o la prestación de servicios, así como el perjuicio ocasionado a los directamente afectados.
+II.- Las condiciones económicas de la persona infractora, y
+
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+III.- La gravedad que la infracción implique en relación con el comercio de productos o la prestación de servicios, así como el perjuicio ocasionado a las personas directamente afectadas.
 
 Cuando la acción u omisión constitutiva de infracción se haya realizado a sabiendas, se impondrá multa por el importe del doble de la multa impuesta a la conducta infractora.
 
-Se entenderá que la acción u omisión se realizó a sabiendas, cuando el infractor conocía la existencia de los derechos del titular.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Se entenderá que la acción u omisión se realizó a sabiendas, cuando la persona infractora conocía la existencia de los derechos de la persona titular.
 
 ###### Artículo 393.
 
@@ -3544,43 +4478,65 @@ Las multas que imponga el Instituto serán consideradas créditos fiscales y se 
 
 El Instituto implementará mecanismos para el pago de multas a través del uso de medios electrónicos o de cualquier otra tecnología.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 394.
 
-La persona que obstaculice o impida, por sí o por interpósita persona, el procedimiento administrativo de ejecución que ordene el Instituto será acreedor a las sanciones previstas en las fracciones I o III del artículo 388 de esta Ley.
+La persona que obstaculice o impida, por sí o por interpósita persona, el procedimiento administrativo de ejecución que ordene el Instituto será acreedora a las sanciones previstas en las fracciones I o III del artículo 388 de esta Ley.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 395.
 
-Las sanciones establecidas en esta Ley y demás disposiciones derivadas de ella, se impondrán además de la indemnización que corresponda por daños y perjuicios, o la reparación del daño material a los afectados.
+Las sanciones establecidas en esta Ley y demás disposiciones derivadas de ella, se impondrán además de la indemnización que corresponda por daños y perjuicios, o la reparación del daño material a las personas afectadas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 396.
 
-La indemnización por la violación de alguno o algunos de los derechos de propiedad industrial regulados en esta Ley, en ningún caso podrá ser inferior al cuarenta por ciento del indicador de valor legítimo presentado por el titular afectado, en términos del artículo 397 de esta Ley.
+La indemnización por la violación de alguno o algunos de los derechos de propiedad industrial regulados en esta Ley, en ningún caso podrá ser inferior al cuarenta por ciento del indicador de valor legítimo presentado por la persona titular afectada, en términos del artículo 397 de esta Ley.
 
-La indemnización podrá ser reclamada, a elección del titular afectado ante:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 3 DE ABRIL DE 2026)</small>
+
+La indemnización podrá ser reclamada, a elección de la persona titular afectada ante:
 
 I.- El Instituto una vez concluido el procedimiento administrativo respectivo, en los términos de esta Ley, o
 
 II.- Los Tribunales de forma directa, conforme a lo dispuesto en la legislación común, y sin necesidad de declaración administrativa previa, atendiendo a lo dispuesto en el artículo 409 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 397.
 
-Una vez que el Instituto haya declarado una infracción administrativa y ésta sea exigible, en términos de la Ley Federal de Procedimiento Administrativo, el titular afectado podrá presentar su reclamo por los daños y perjuicios ocasionados, así como la cuantificación correspondiente a éstos, de manera incidental, para lo cual deberá ofrecer las pruebas que estime pertinentes.
+Una vez que el Instituto haya declarado una infracción administrativa y ésta sea exigible, en términos de la Ley Federal de Procedimiento Administrativo, la persona titular afectada podrá presentar su reclamo por los daños y perjuicios ocasionados, así como la cuantificación correspondiente a éstos, de manera incidental, para lo cual deberá ofrecer las pruebas que estime pertinentes.
 
-Para determinar el monto de la indemnización se tomará en cuenta la fecha en que se haya acreditado la infracción al derecho y, a elección del titular afectado, cualquier indicador de valor legítimo presentado por éste, incluyendo:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Para determinar el monto de la indemnización se tomará en cuenta la fecha en que se haya acreditado la infracción al derecho y, a elección de la persona titular afectada, cualquier indicador de valor legítimo presentado por ésta, incluyendo:
 
 I.- El valor de los productos o servicios infringidos calculados por el precio del mercado, o el precio sugerido para la venta al por menor;
 
-II.- Las utilidades que el titular hubiera dejado de percibir como consecuencia de la infracción;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-III.- Las utilidades que haya obtenido el infractor como consecuencia de la infracción, o
+II.- Las utilidades que la persona titular hubiera dejado de percibir como consecuencia de la infracción;
 
-IV.- El precio que el infractor hubiera debido pagar al titular del derecho por el otorgamiento de una licencia, teniendo en cuenta el valor comercial del derecho infringido y las licencias contractuales que ya se hubieran concedido.
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-Las obligaciones de hacer o no hacer establecidas en la resolución sobre el fondo de la controversia, que no puedan cumplirse por el infractor y que se traduzcan en daños y perjuicios al titular afectado, también podrán ser cuantificadas para efectos de la indemnización correspondiente.
+III.- Las utilidades que haya obtenido la persona infractora como consecuencia de la infracción, o
+
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+IV.- El precio que la persona infractora hubiera debido pagar a la persona titular del derecho por el otorgamiento de una licencia, teniendo en cuenta el valor comercial del derecho infringido y las licencias contractuales que ya se hubieran concedido.
+
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Las obligaciones de hacer o no hacer establecidas en la resolución sobre el fondo de la controversia, que no puedan cumplirse por la persona infractora y que se traduzcan en daños y perjuicios a la persona titular afectada, también podrán ser cuantificadas para efectos de la indemnización correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 398.
 
-De la reclamación del titular afectado se dará vista al infractor para que, dentro del plazo de quince días hábiles siguientes a la notificación respectiva, manifieste lo que a su derecho convenga y presente las pruebas que considere convenientes.
+De la reclamación de la persona titular afectada se dará vista a la persona infractora para que, dentro del plazo de quince días hábiles siguientes a la notificación respectiva, manifieste lo que a su derecho convenga y presente las pruebas que considere convenientes.
 
 Una vez desahogadas las pruebas y tomando en cuenta las manifestaciones presentadas, el Instituto determinará los daños y perjuicios ocasionados, así como el monto de la indemnización que corresponda.
 
@@ -3600,37 +4556,55 @@ La ejecución de la resolución del incidente emitida por el Instituto podrá pr
 
 Si del análisis del expediente formado con motivo de la investigación por infracción administrativa el Instituto advierte la realización de hechos que pudieran constituir alguno de los delitos previstos en esta Ley, así lo hará constar en la resolución que emita.
 
+### Capítulo II. De los Delitos
+
 ###### Artículo 402.
 
 Son delitos:
 
 I.- Falsificar una marca con fines de especulación comercial.
 
-Para efectos de esta Ley, se entenderá por falsificar, el usar una marca idéntica o de forma tal que no pueda distinguirse en sus aspectos esenciales a una previamente registrada o a una protegida por esta Ley, sin autorización de su legítimo titular o de su licenciatario, para representar falsamente a un producto o servicio como original o auténtico.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+Para efectos de esta Ley, se entenderá por falsificar, el usar una marca idéntica o de forma tal que no pueda distinguirse en sus aspectos esenciales a una previamente registrada o a una protegida por esta Ley, sin autorización de su legítima persona titular o de su licenciataria, para representar falsamente a un producto o servicio como original o auténtico.
 
 Para acreditar la falsificación bastará que la marca sea usada en forma idéntica o de forma tal que no pueda distinguirse en sus aspectos esenciales a como aparezca representada en el título de registro o, en su caso, en la resolución que estime o declare su notoriedad o fama;
 
 II.- Producir, almacenar, transportar, introducir al país, distribuir o vender con fines de especulación comercial, objetos que ostenten falsificaciones de marcas, así como aportar o proveer de cualquier forma, a sabiendas, materias primas o insumos destinados a la producción de objetos que ostenten dichas falsificaciones;
 
-III.- Divulgar a un tercero un secreto industrial, que se conozca con motivo de su trabajo, puesto, cargo, desempeño de su profesión, relación de negocios o en virtud del otorgamiento de una licencia para su uso, sin consentimiento de la persona que ejerza su control legal o de su usuario autorizado, habiendo sido prevenido de su confidencialidad, con el propósito de obtener un beneficio económico para sí o para el tercero o con el fin de causar un perjuicio a la persona que guarde el secreto;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-IV.- Apoderarse de un secreto industrial sin derecho y sin consentimiento de la persona que ejerza su control legal o de su usuario autorizado, para usarlo o revelarlo a un tercero, con el propósito de obtener un beneficio económico para sí o para el tercero o con el fin de causar un perjuicio a quien ejerce su control legal o a su usuario autorizado;
+III.- Divulgar a una tercera persona un secreto industrial, que se conozca con motivo de su trabajo, puesto, cargo, desempeño de su profesión, relación de negocios o en virtud del otorgamiento de una licencia para su uso, sin consentimiento de la persona que ejerza su control legal o de la persona usuaria autorizada, habiendo sido prevenido de su confidencialidad, con el propósito de obtener un beneficio económico para sí o para la tercera persona o con el fin de causar un perjuicio a la persona que guarde el secreto;
 
-V.- Usar la información contenida en un secreto industrial, que conozca por virtud de su trabajo, cargo o puesto, ejercicio de su profesión o relación de negocios, sin contar con el consentimiento de quien ejerce su control legal o de su usuario autorizado, o que le haya sido revelado por un tercero, que éste no contaba para ello con el consentimiento de la persona que ejerce su control legal o su usuario autorizado, con el propósito de obtener un beneficio económico o con el fin de causar un perjuicio a quien ejerce el control legal del secreto industrial o su usuario autorizado;
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
 
-VI.- Apropiarse, adquirir, usar o divulgar indebidamente un secreto industrial a través de cualquier medio, sin consentimiento de quien ejerce su control legal o de su usuario autorizado; con el propósito de causarle perjuicio u obtener un beneficio económico para sí o para un tercero;
+IV.- Apoderarse de un secreto industrial sin derecho y sin consentimiento de la persona que ejerza su control legal o de la persona usuaria autorizada, para usarlo o revelarlo a una tercera persona, con el propósito de obtener un beneficio económico para sí o para la tercera persona o con el fin de causar un perjuicio a quien ejerce su control legal o a la persona usuaria autorizada;
 
-VII.- Producir, almacenar, transportar, distribuir o vender productos de origen nacional que ostenten una denominación de origen protegida que no cuenten con la certificación correspondiente en términos de la Norma Oficial Mexicana aplicable, con el propósito de obtener un beneficio económico para sí o para un tercero.
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+V.- Usar la información contenida en un secreto industrial, que conozca por virtud de su trabajo, cargo o puesto, ejercicio de su profesión o relación de negocios, sin contar con el consentimiento de quien ejerce su control legal o de la persona usuaria autorizada, o que le haya sido revelado por una tercera persona, que ésta no contaba para ello con el consentimiento de la persona que ejerce su control legal o la persona usuaria autorizada, con el propósito de obtener un beneficio económico o con el fin de causar un perjuicio a quien ejerce el control legal del secreto industrial o la persona usuaria autorizada;
+
+> <small>(REFORMADA, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+VI.- Apropiarse, adquirir, usar o divulgar indebidamente un secreto industrial a través de cualquier medio, sin consentimiento de quien ejerce su control legal o de persona usuaria autorizada; con el propósito de causarle perjuicio u obtener un beneficio económico para sí o para una tercera persona;
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 3 DE ABRIL DE 2026)</small>
+
+VII.- Producir, almacenar, transportar, distribuir o vender productos de origen nacional que ostenten una denominación de origen protegida que no cuenten con la certificación correspondiente en términos de la Norma Oficial Mexicana aplicable, con el propósito de obtener un beneficio económico para sí o para una tercera persona.
 
 Queda incluido en el supuesto anterior, el realizar cualquier acto de despacho aduanero relacionado con el producto, ante las autoridades competentes, para la introducción al país o salida del mismo.
 
 No existirá responsabilidad penal cuando la Norma Oficial Mexicana correspondiente no se encuentre vigente o el respectivo organismo de evaluación de la conformidad no se encuentre acreditado, en términos de la legislación aplicable;
 
-VIII.- Producir, almacenar, transportar, distribuir o vender productos de origen nacional que ostenten una indicación geográfica protegida que no cuenten con el certificado de cumplimiento a las reglas de uso respectivas, con el propósito de obtener un beneficio económico para sí o para un tercero.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 3 DE ABRIL DE 2026)</small>
+
+VIII.- Producir, almacenar, transportar, distribuir o vender productos de origen nacional que ostenten una indicación geográfica protegida que no cuenten con el certificado de cumplimiento a las reglas de uso respectivas, con el propósito de obtener un beneficio económico para sí o para una tercera persona.
 
 Queda incluido en el supuesto anterior, el realizar cualquier acto de despacho aduanero relacionado con el producto, ante las autoridades competentes, para la introducción al país o salida del mismo.
 
-No existirá responsabilidad penal cuando no se encuentre acreditado ante el Instituto el responsable de emitir el certificado de cumplimiento a las reglas de uso respectivas, en términos de la legislación aplicable.
+> <small>(REFORMADO [N. DE E. PERTENECE A LA FRACCIÓN VIII], D.O.F. 3 DE ABRIL DE 2026)</small>
+
+No existirá responsabilidad penal cuando no se encuentre acreditada ante el Instituto la persona responsable de emitir el certificado de cumplimiento a las reglas de uso respectivas, en términos de la legislación aplicable.
 
 Los delitos previstos en las fracciones I a VI de este artículo se perseguirán por querella de parte ofendida. Los delitos contemplados en las fracciones VII y VIII se perseguirán de oficio o por denuncia.
 
@@ -3640,9 +4614,11 @@ En el caso de los delitos previstos en las fracciones I, II, VII y VIII del art�
 
 A quien cometa alguno de los delitos señalados en las fracciones III, IV, V o VI del artículo 402 de esta Ley, se le impondrá de dos a seis años de prisión y multa por el importe de mil a trescientas mil unidades de medida y actualización, vigente al momento en que se cometa el ilícito.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 404.
 
-Se impondrá de dos a seis años de prisión y multa de mil a cien mil unidades de medida y actualización, vigente al momento en que se cometa el delito, al que venda a cualquier consumidor final en vías o en lugares públicos, en forma dolosa y con fin de especulación comercial, objetos que ostenten falsificaciones de marcas protegidas por esta Ley.
+Se impondrá de dos a seis años de prisión y multa de mil a cien mil unidades de medida y actualización, vigente al momento en que se cometa el delito, a la persona que venda a cualquier persona consumidora final en vías o en lugares públicos, en forma dolosa y con fin de especulación comercial, objetos que ostenten falsificaciones de marcas protegidas por esta Ley.
 
 Si la venta se realiza en establecimientos comerciales, o de manera organizada o permanente, se impondrán de tres a diez años de prisión y multa de dos mil a doscientas cincuenta mil unidades de medida y actualización, vigente al momento en que se cometa el ilícito.
 
@@ -3652,15 +4628,23 @@ Los delitos a los que se refiere el presente artículo se perseguirán de oficio
 
 Para que el Ministerio Público ejercite la acción penal, en los supuestos previstos en las fracciones I y II del artículo 402, se requerirá que el Instituto en un plazo que no exceda de 30 días hábiles emita un dictamen técnico en el que no se prejuzgará sobre las acciones civiles o penales que procedan.
 
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 406.
 
-Independientemente del ejercicio de la acción penal, el perjudicado por cualquiera de los delitos a que esta Ley se refiere podrá demandar del o de los autores de los mismos, la reparación y el pago de los daños y perjuicios sufridos con motivo de dichos delitos, en los términos previstos en el artículo 396 de esta Ley.
+Independientemente del ejercicio de la acción penal, la persona perjudicada por cualquiera de los delitos a que esta Ley se refiere podrá demandar de la o las personas autoras de éstos, la reparación y el pago de los daños y perjuicios sufridos con motivo de dichos delitos, en los términos previstos en el artículo 396 de esta Ley.
+
+### Capítulo III. De los Procedimientos Jurisdiccionales
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
 
 ###### Artículo 407.
 
-Son competentes los Tribunales de la Federación para conocer de las controversias civiles, mercantiles o penales, así como de las medidas precautorias que se susciten con motivo de la aplicación de esta Ley, sin perjuicio de la facultad de los particulares de someterse al procedimiento de arbitraje, conforme a las disposiciones contenidas en el Código de Comercio.
+Son competentes los Tribunales de la Federación para conocer de las controversias civiles, mercantiles o penales, así como de las medidas precautorias que se susciten con motivo de la aplicación de esta Ley, sin perjuicio de la facultad de las personas particulares de someterse al procedimiento de arbitraje, conforme a las disposiciones contenidas en el Código de Comercio.
 
-A elección del actor y cuando sólo se afecten intereses particulares, podrán conocer de ellas, los jueces y tribunales del orden común.
+> <small>(REFORMADO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
+A elección de la persona actora y cuando sólo se afecten intereses particulares, podrán conocer de ellas, las personas juzgadoras del orden común.
 
 Es competente el Tribunal Federal de Justicia Administrativa para conocer de los juicios que se promuevan en contra de los actos administrativos y resoluciones que pongan fin a un procedimiento emitidos por el Instituto en su carácter de autoridad, de conformidad con las disposiciones legales aplicables y con lo dispuesto en los Tratados Internacionales de los que México sea parte.
 
@@ -3668,15 +4652,19 @@ Es competente el Tribunal Federal de Justicia Administrativa para conocer de los
 
 En los procedimientos a que se refiere el artículo anterior, la autoridad judicial podrá adoptar las medidas previstas en esta Ley, así como las contenidas en los Tratados Internacionales en los que México es parte.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 409.
 
-Para la reclamación de daños y perjuicios y el ejercicio de las acciones civiles, mercantiles o penales derivadas de la violación de un derecho de propiedad industrial así como para la adopción de las medidas previstas en el artículo 344 de esta Ley, será necesario que el titular del derecho haya aplicado a los productos, envases o embalajes de productos amparados por un derecho de propiedad industrial las indicaciones y leyendas a que se refieren los artículos 44, 89, 236 y 302 de esta Ley, o por algún otro medio haber manifestado o hecho del conocimiento público que los productos o servicios se encuentran protegidos por un derecho de propiedad industrial.
+Para la reclamación de daños y perjuicios y el ejercicio de las acciones civiles, mercantiles o penales derivadas de la violación de un derecho de propiedad industrial así como para la adopción de las medidas previstas en el artículo 344 de esta Ley, será necesario que la persona titular del derecho haya aplicado a los productos, envases o embalajes de productos amparados por un derecho de propiedad industrial las indicaciones y leyendas a que se refieren los artículos 44, 89, 236 y 302 de esta Ley, o por algún otro medio haber manifestado o hecho del conocimiento público que los productos o servicios se encuentran protegidos por un derecho de propiedad industrial.
 
 Este requisito no será exigible en los casos de infracciones administrativas que no impliquen una violación a un derecho de propiedad industrial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 3 DE ABRIL DE 2026)</small>
+
 ###### Artículo 410.
 
-En el supuesto al que se refiere la fracción II del artículo 396 de esta Ley, cuando en la reclamación de daños y perjuicios se controvierta la validez de una patente, registro, publicación o autorización otorgada por el Instituto, el Tribunal suspenderá el juicio una vez que el demandado acredite en su contestación, el haber iniciado la solicitud de declaración administrativa de nulidad, caducidad o cancelación respectiva, en los términos de esta Ley.
+En el supuesto al que se refiere la fracción II del artículo 396 de esta Ley, cuando en la reclamación de daños y perjuicios se controvierta la validez de una patente, registro, publicación o autorización otorgada por el Instituto, el Tribunal suspenderá el juicio una vez que la persona demandada acredite en su contestación, el haber iniciado la solicitud de declaración administrativa de nulidad, caducidad o cancelación respectiva, en los términos de esta Ley.
 
 El juicio se reanudará una vez que cualquiera de las partes presente al Tribunal, la resolución con carácter de exigible emitida por el Instituto.
 
@@ -3767,3 +4755,19 @@ Quinto. Las erogaciones que se generen con motivo de la entrada en vigor del pre
 Sexto. Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
 
 Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
+
+D.O.F. 3 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DE PROTECCIÓN A LA PROPIEDAD INDUSTRIAL, EN MATERIA DE TRANSFERENCIA DE TECNOLOGÍA Y DE SIMPLIFICACIÓN DEL PROCESO DE PROTECCIÓN DE PATENTES Y REGISTROS".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Los asuntos que se encuentren pendientes de resolución a la entrada en vigor del presente Decreto se concluirán conforme a las disposiciones vigentes al momento de su inicio.
+
+Sin perjuicio de lo previsto en el párrafo anterior, se podrá llevar a cabo el Procedimiento de Emisión de la Resolución Obligatoria de patentes o registros para trámites que se encuentren pendientes de resolución a la entrada en vigor del presente Decreto, una vez conformado el Comité Técnico Especializado, en términos del artículo transitorio Quinto de este ordenamiento.
+
+Tercero. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo a los presupuestos aprobados a los ejecutores de gasto que intervienen en su aplicación, por lo que no se autorizarán ampliaciones de recursos a dichos ejecutores de gasto en el presente ejercicio fiscal ni en años subsecuentes y tampoco podrán incrementar su presupuesto regularizable en servicios personales ni de gasto de operación.
+
+Cuarto. El Ejecutivo Federal realizará las adecuaciones normativas que le correspondan para la aplicación del presente Decreto. En tanto se emiten dichas adecuaciones, continuarán vigentes las emitidas con anterioridad, en lo que no se opongan las disposiciones del presente Decreto.
+
+Quinto. La Junta de Gobierno, dentro de los treinta días siguientes contados a partir de la entrada en vigor del presente Decreto, constituirá el Comité Técnico Especializado referido en el Título Quinto Bis del presente ordenamiento, y emitirá los lineamientos para su integración, operación y funcionamiento.
