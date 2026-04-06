@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cultura-fisica-y-deporte-del-estado-de-aguascalientes-53
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-22"
-last_updated: "2025-12-08"
+last_updated: "2026-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 30 de enero de 2007.
 
@@ -1451,7 +1451,7 @@ El IDEA, en coordinación con la Secretaría de Desarrollo Económico, Ciencia y
 
 ### CAPITULO DECIMO SEXTO. De la Certificación y Supervisión de Clínicas y Gimnasios Deportivos
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2026)</small>
 
 ###### Artículo 89.
 
@@ -1469,11 +1469,11 @@ El IDEA en coordinación con la Secretaría de Seguridad Pública del Estado, re
 
 ###### Artículo 91.
 
-Independientemente de los requisitos que establezcan los Municipios, el Estado y otras dependencias correspondientes a la apertura de clínicas y gimnasios deportivos, el IDEA, supervisará que los entrenadores deportivos que fomentan el desarrollo de la cultura física y el deporte en todas sus manifestaciones, cuenten con los conocimientos necesarios y estén debidamente certificados.
+Independientemente de los requisitos que establezcan los Municipios, el Estado y otras autoridades para la apertura y funcionamiento de clínicas, gimnasios o escuelas deportivas, el IDEA supervisará que los entrenadores deportivos o instructores que impartan actividades de cultura física y deporte de manera remunerada cuenten con los conocimientos necesarios y posean, al menos, la certificación o acreditación mínima que avale su capacidad técnica y pedagógica en la materia.
 
-El IDEA tendrá a su cargo la operación y administración del Programa de Formación y Capacitación para el Desarrollo del Deporte, cuyo objeto será coadyuvar en la formación, capacitación, actualización y certificación de entrenadores deportivos para la enseñanza y práctica del deporte en términos de los lineamientos que para el efecto emita la CONADE. Asimismo, el IDEA deberá evaluar, por lo menos una vez al año, a los entrenadores deportivos.
+El IDEA tendrá a su cargo la operación y administración del Programa de Formación y Capacitación para el Desarrollo del Deporte, cuyo objeto será coadyuvar en la formación, capacitación, actualización y certificación de entrenadores deportivos para la enseñanza y práctica del deporte, en términos de los lineamientos que para el efecto emita la CONADE. Asimismo, el IDEA deberá evaluar, por lo menos una vez al año, a los entrenadores deportivos para verificar el mantenimiento de sus competencias.
 
-Para tal efecto, el IDEA impartirá y validará cursos, talleres, diplomados, congresos, coloquios, clínicas, foros, simposiums, así como especialidades en materia de deporte y cultura física, brindando apoyo y asesoría a las Asociaciones Deportivas y público en general.
+Para tal efecto, el IDEA impartirá y validará cursos, talleres, diplomados, congresos, coloquios, clínicas, foros, seminarios y demás mecanismos de profesionalización en materia de deporte y cultura física, brindando apoyo y asesoría tanto a las Asociaciones Deportivas como al público en general interesados en capacitarse.
 
 ### CAPITULO DECIMO OCTAVO. De la Cultura Física y el Deporte de los Trabajadores del Estado
 
@@ -1635,13 +1635,11 @@ El IDEA, promoverá en coordinación con el IEA, el desarrollo e investigación 
 
 El IDEA, coordinará las acciones necesarias a fin de que los integrantes del SIEDE obtengan los beneficios que por el desarrollo e investigación en estas ciencias se adquieran.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2026)</small>
 
 ###### Artículo 109.
 
-Las personas deportistas integrantes del SIEDE tendrán derecho a recibir atención médica, y psicológica deportiva. Para tal efecto, las autoridades estatales y municipales promoverán los mecanismos de concertación con las instituciones públicas o privadas que integren el sector salud.
-
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+Las personas deportistas integrantes del SIEDE tendrán derecho a recibir atención médica y psicológica del deporte. Para tal efecto, las autoridades estatales y municipales promoverán mecanismos de coordinación con las instituciones públicas o privadas del sector salud, a fin de garantizar servicios oportunos y especializados en beneficio de los deportistas.
 
 En el caso, los deportistas, los entrenadores e instructores que integren el padrón de deportistas de alto rendimiento dentro del RESIEDE, así como aquellos considerados como talentos deportivos que integren preselecciones y selecciones estatales, deberán contar con un seguro de vida y gastos médicos que proporcionará el IDEA, así como incentivos económicos con base a los resultados obtenidos. El procedimiento correspondiente quedará establecido en el reglamento de la presente Ley.
 
@@ -1863,7 +1861,7 @@ Los Poderes Públicos en el ámbito de sus respectivas competencias, adoptarán 
 
 ### CAPITULO VIGESIMO QUINTO. De las Infracciones y Sanciones
 
-> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2026)</small>
 
 ###### Artículo 133.
 
@@ -2001,11 +1999,13 @@ Asimismo, brindarán las facilidades y ayuda necesarias a las autoridades respon
 
 ###### Artículo 139.
 
-La aplicación de sanciones administrativas por infracciones a esta Ley, su Reglamento y demás disposiciones que de ella emanen, corresponde al IDEA.
+La aplicación de medidas correctivas y sanciones administrativas por infracciones a esta Ley, a su Reglamento y a las demás disposiciones que de ella deriven corresponde al IDEA, por conducto de la autoridad administrativa deportiva que resulte competente.
+
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2026)</small>
 
 ###### Artículo 140.
 
-Las sanciones administrativas a que se refiere el Artículo anterior, se aplicarán de acuerdo a lo establecido en la Ley del Procedimiento Administrativo del Estado de Aguascalientes.
+Las sanciones administrativas a que se refiere el artículo anterior se impondrán con apego a la garantía de audiencia y al debido proceso, de acuerdo con lo establecido en la Ley del Procedimiento Administrativo del Estado de Aguascalientes y demás ordenamientos aplicables. En todo caso, antes de sancionar se podrán dictar apercibimientos, requerimientos o acudir a mecanismos alternos de solución de controversias para que el infractor subsane voluntariamente la falta en un plazo razonable, cuando la naturaleza de la infracción lo permita.
 
 ###### Artículo 141.
 
@@ -2103,9 +2103,11 @@ a) Amonestación privada o pública; y
 
 b) Suspensión temporal o definitiva de su inscripción al SIEDE.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2026)</small>
+
 ###### Artículo 147.
 
-El trámite para la imposición de sanciones a las infracciones previstas en el presente Capítulo, se señalará en el reglamento de esta Ley.
+El trámite para la imposición de sanciones por infracciones previstas en el presente Capítulo se llevará a cabo con estricto apego a los principios de legalidad, objetividad, proporcionalidad y respeto al debido proceso, garantizando en todo momento el derecho de audiencia y defensa del presunto infractor.
 
 ## TRANSITORIOS
 
@@ -2424,3 +2426,11 @@ P.O. 8 DE DICIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 309.- SE REFORMA LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 6 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 432.- SE REFORMA LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES".]
+
+PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las personas que, a la fecha de entrada en vigor de este Decreto, se encuentren impartiendo actividades deportivas de manera remunerada sin contar con la certificación a que hace referencia el artículo 91 reformado, deberán obtener dicha acreditación dentro del plazo de 180 días naturales siguientes a la entrada en vigor del presente Decreto. Durante dicho periodo, el Instituto del Deporte del Estado de Aguascalientes podrá gestionar ante las autoridades u organismos competentes en materia de cultura física y deporte el acceso a procesos de capacitación o certificación para instructores y entrenadores en ejercicio. Cumplido dicho término, no se permitirá la impartición remunerada de entrenamiento, instrucción o actividades deportivas por quienes no acrediten la certificación mínima exigida en la Ley.
