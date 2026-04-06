@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2026-01-12"
+last_updated: "2026-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -379,11 +379,15 @@ VII. Violencia en el tránsito por espacios públicos: es todo acto de hostigami
 
 VIII. Violencia Política en contra de las Mujeres en razón de Género: Es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo, en los términos precisados en el Código Electoral para el Estado de Aguascalientes;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2026)</small>
 
-IX. Violencia Digital: es toda acción dolosa realizada mediante el uso de tecnologías de la información y la comunicación, por la que se exponga, distribuya, difunda, exhiba, transmita, comercialice, oferte, intercambie o comparta imágenes, audios o videos reales o simulados de contenido íntimo sexual de una persona sin su consentimiento, sin su aprobación o sin su autorización y que le cause daño psicológico, emocional, en cualquier ámbito de su vida privada o en su imagen propia;
+IX. Violencia Digital: Es cualquier acto que se presenta a través de las tecnologías de la información y la comunicación, plataformas de internet, redes sociales o correo electrónico, o cualquier otro espacio digitalizado que atente contra la integridad, la dignidad, la intimidad, la libertad, la vida privada de las mujeres o cause daño o sufrimiento psicológico, físico, económico o sexual tanto en el ámbito privado como en el público; así como daño moral a ellas y su familia. Se manifiesta mediante el acoso, hostigamiento, amenazas, insultos, divulgación de información apócrifa, mensajes de odio, difusión sin consentimiento de contenido íntimo, textos, fotografías, videos y/o datos personales u otras impresiones graficas o sonoras verdaderas o alteradas;
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
 Así como aquellos actos dolosos que causen daño a la intimidad, privacidad y/o dignidad de las mujeres, que se cometan por medio de las tecnologías de la información y la comunicación;
+
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
 Para efectos del presente Capítulo se entenderá por Tecnologías de la Información y la Comunicación aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos;
 
@@ -2324,3 +2328,9 @@ P.O. 12 DE ENERO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 6 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 421.- SE REFORMA LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES".]
+
+ÚNICO.- El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
