@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2026-02-24"
+last_updated: "2026-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2026.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -1179,6 +1179,10 @@ Prescripción de las demás sanciones. La potestad de ejecutar las demás penas 
 
 Prescripción del derecho a formular querella. El derecho para formular querella prescribirá en dos años, contados a partir del momento en que la víctima u ofendido tengan conocimiento directo del resultado de afectación o de puesta en peligro del bien jurídico protegido por la correspondiente figura típica del que sea titular.
 
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2026)</small>
+
+Tratándose del delito previsto en el artículo 131 de este Código, relativo al incumplimiento de obligaciones de asistencia familiar, el derecho de querella será imprescriptible.
+
 ###### ARTÍCULO 96.
 
 Resolución de la extinción. La extinción de la acción penal y de la potestad para ejecutar penas y medidas de seguridad, podrá resolverse de oficio o a petición de la parte interesada.
@@ -1803,11 +1807,13 @@ II. Colocarse dolosamente en estado de insolvencia con el objeto de eludir el cu
 
 III. La alteración o variación de nombre, domicilio o ingresos con el fin de eludir una responsabilidad de orden familiar o el incumplimiento de obligaciones alimentarias que el Código Civil del Estado de Aguascalientes determina, independientemente de que los alimentos sean proporcionados por quien tenga bajo su cuidado a los acreedores alimentarios o sean proporcionados por cualquier otra persona;
 
-Al responsable de Incumplimiento de las Obligaciones de Asistencia Familiar se le aplicarán de 6 meses a 3 años de prisión, al pago total de la reparación de los daños y perjuicios ocasionados, y suspensión o privación de los derechos de familia, en relación con la víctima.
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2026)</small>
 
-> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2019)</small>
+Al responsable de Incumplimiento de las Obligaciones de Asistencia Familiar se le aplicarán de 6 meses a 3 años de prisión, al pago total de la reparación de los daños y perjuicios ocasionados.
 
-Cuando el acreedor alimentario sea una persona con discapacidad, la pena de prisión se aumentará hasta una tercera parte más respecto de los mínimos y máximos señalados en el párrafo anterior.
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2026)</small>
+
+Cuando el acreedor alimentario sea una persona con discapacidad o adulta mayor de sesenta años, la pena de prisión se aumentará hasta una tercera parte más respecto de los mínimos y máximos señalados en el párrafo anterior.
 
 ###### ARTÍCULO 132.
 
@@ -3101,11 +3107,15 @@ En el caso de que el responsable del delito sea Servidor Público, distinto de l
 
 El hecho punible descrito en este artículo será aplicable también en el Centro Estatal para el Desarrollo del Adolescente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2026)</small>
+
+Artículo 178 BIS.- Atentados a la Seguridad Pública. Los Atentados a la Seguridad Pública consisten en acechar, vigilar o realizar actos tendientes a obtener información de manera injustificada, sobre las actividades oficiales de las Instituciones del Sistema Estatal de Seguridad Pública, Corporaciones Auxiliares de la Seguridad en el Estado, particulares o personas servidoras públicas, con la finalidad de informar o alertar a otras personas para que estas puedan organizar o planear la comisión de un delito, cometerlo o evitar el cumplimiento de la función pública.
+
 > <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2023)</small>
 
-Artículo 178 BIS.- Atentados a la Seguridad Publica. Los Atentados a la Seguridad Publica consisten en acechar, vigilar o realizar actos tendientes a obtener información de manera injustificada, sobre las actividades oficiales de las Instituciones del Sistema Estatal de Seguridad Publica, Corporaciones Auxiliares de la Seguridad en el Estado o particulares, con la finalidad de informar o alertar u otras personas para que estas puedan organizar o planear la comisión de un delito, cometerlo o evitar el cumplimiento de la función pública.
-
 Al responsable de Atentados a la Seguridad Publica se aplicarán de 3 a 7 años de prisión y de 25 a 100 días multa, así como al pago total de la reparación de los daños y perjuicios ocasionados.
+
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2023)</small>
 
 Se aumentará la punibilidad que corresponda hasta en una mitad de sus mínimos y máximos cuando:
 
@@ -3113,9 +3123,17 @@ I. Sea cometido por servidores públicos de Instituciones del Sistema Estatal de
 
 II. Se utilice a menores de edad o a quienes no tienen la capacidad para comprender el significado del hecho o que por cualquier causa no pueda resistirla;
 
-III. Se utilice para ello algún bien público; o
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2026)</small>
 
-IV. Posea o porte, uno o varios equipos o artefactos que permitan la intervención, escucha o transmisión de datos con respeto a canales de comunicación oficiales de Instituciones del Sistema Estatal de Seguridad Publica.
+III. Se utilice para ello algún bien público;
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2026)</small>
+
+IV. Posea o porte, uno o varios equipos o artefactos que permitan la intervención, escucha o transmisión de datos con respeto a canales de comunicación oficiales de Instituciones del Sistema Estatal de Seguridad Pública; o
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2026)</small>
+
+V. Se utilice para ello artefactos equipados para captar imágenes.
 
 > <small>(ADICIONADO, P.O. 23 DE OCTUBRE DE 2023)</small>
 
@@ -4916,3 +4934,27 @@ P.O. 24 DE FEBRERO DE 2026.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 6 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 426.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 6 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 427.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 6 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 428.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
