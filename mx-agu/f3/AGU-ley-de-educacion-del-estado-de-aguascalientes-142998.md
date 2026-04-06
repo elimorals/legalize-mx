@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-142998"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-25"
-last_updated: "2025-11-21"
+last_updated: "2026-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2026.
 
 Ley publicada en la Sección Primera al Número 21 del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de mayo de 2020.
 
@@ -393,13 +393,21 @@ XXXIII. Garantizar el acceso a la educación básica y media superior, aun cuand
 
 Las autoridades educativas ofrecerán opciones que faciliten la obtención de los documentos referidos en el párrafo anterior; así como, en el caso de la educación básica y media superior, la ubicación por grado, ciclo escolar o nivel educativo que corresponda, conforme a la edad, desarrollo evolutivo, cognoscitivo y madurez, y, en su caso, saberes que previa evaluación demuestren los educandos. De igual forma, las autoridades educativas promoverán acciones similares para el caso de la educación superior;
 
-> <small>(REFORMADA, P.O. 27 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2026)</small>
 
-XXXIV. Celebrar acuerdos de colaboración que garanticen la higiene bucodental a niños, niñas y adolescentes, con las instancias correspondientes; y
+XXXIV. Celebrar acuerdos de colaboración que garanticen la higiene bucodental a niños, niñas y adolescentes, con las instancias correspondientes;
 
-> <small>(ADICIONADA, P.O. 27 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2026)</small>
 
-XXXV. Fomentar y promover en el ámbito de su competencia la educación para madres y padres de familia o tutores, que tengan la guarda y custodia de niñas, niños o adolescentes, a efecto de que puedan continuar con su educación o puedan terminarla a nivel profesional, para lo cual, se realizarán convenios y se incentivará a las entidades de educación superior a otorgar becas y estímulos para que madres y padres de familia o tutores terminen sus estudios a nivel profesional.
+XXXV. Fomentar y promover en el ámbito de su competencia la educación para madres y padres de familia o tutores, que tengan la guarda y custodia de niñas, niños o adolescentes, a efecto de que puedan continuar con su educación o puedan terminarla a nivel profesional, para lo cual, se realizarán convenios y se incentivará a las entidades de educación superior a otorgar becas y estímulos para que madres y padres de familia o tutores terminen sus estudios a nivel profesional;
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2026)</small>
+
+XXXVI. Promover el desarrollo de programas de prevención de riesgos y accidentes, conocimiento en primeros auxilios, la educación vial, campañas de salubridad y seguridad escolar; y
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2026)</small>
+
+XXXVII. Velar por que en el interior de los planteles educativos se evite la introducción y consumo de sustancias psicoactivas o productos similares que puedan perjudicar la salud de la persona educanda. De igual forma, prevenir la introducción y portación de cualquier tipo de objeto que pueda ser utilizado para atentar o poner en riesgo la integridad física de la comunidad escolar. Lo anterior se deberá realizar bajo esquemas que respeten los derechos humanos de las personas educandas, justificando las medidas que deban considerarse a fin de salvaguardarlos. Además la autoridad educativa podrá realizar convenios de coordinación con las autoridades competentes, el sector privado y social para su cumplimiento.
 
 ###### Artículo 10.
 
@@ -541,11 +549,13 @@ h) Realizar trabajos en conjunto con Organizaciones de la Sociedad Civil cuyo ob
 
 i) Concientizar en los padres de familia y los educandos, sobre la reducción, reutilización y reciclaje de materiales, así como incentivar en estos sobre la reducción en el uso de plástico para el forrado de libros, libretas y/o materiales escolares.
 
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2026)</small>
 
-XXII. Promover que la educación digital fomente en las y los educandos el uso crítico, ético, responsable y formativo de las tecnologías de la información y comunicación entre las que se encuentran el internet, las redes sociales, la mensajería instantánea y el uso de correos electrónicos, entre otras, con la finalidad de prevenir el acoso o violencia escolar y conductas antisociales e ilícitas que se cometan por conducto de dichos medios conforme a los lineamientos generales para el uso responsable y seguro de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital en el sistema educativo que al efecto emita la Secretaría y demás disposiciones aplicables.
+XXII. Promover que la educación digital fomente en las y los educandos el uso crítico, ético, responsable y formativo de las tecnologías de la información y comunicación entre las que se encuentran el internet, las redes sociales, la mensajería instantánea y el uso de correos electrónicos, entre otras, con la finalidad de prevenir el acoso o violencia escolar y conductas antisociales e ilícitas que se cometan por conducto de dichos medios conforme a los lineamientos generales para el uso responsable y seguro de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital en el sistema educativo que al efecto emita la Secretaría y demás disposiciones aplicables; y
 
-> <small>[N. DE E. PERTENECE A LA FRACCIÓN XXII, P.O. 18 DE DICIEMBRE DE 2023]</small>
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2026)</small>
+
+XXIII. Fomentar el uso correcto de las reglas gramaticales y ortográficas del idioma español, en todos los niveles y modalidades educativas, como parte del fortalecimiento de la comprensión lectora, la escritura y la comunicación efectiva de los educandos.
 
 Los fines anteriores se ajustarán a la edad y al nivel de desarrollo de las y los educandos, así como al tipo, nivel, modalidad y opción educativa que les sea impartida.
 
@@ -2686,3 +2696,19 @@ PRIMERO.- El presente decreto entrará en vigor en (sic) 1° de enero del año 2
 SEGUNDO.- El Instituto de Educación del Estado de Aguascalientes contará con un plazo máximo de seis meses, contados a partir de la entrada en vigor del presente decreto, para emitir los lineamientos, protocolos y mecanismos operativos necesarios para la implementación de la Red Estatal de Mentoría Vocacional.
 
 TERCERO.- El Instituto de Educación del Estado de Aguascalientes podrá iniciar, a partir de la publicación del presente decreto, las acciones preparatorias que permitan el diagnostico, planeación, promoción y vinculación interinstitucional del programa, con el objeto de garantizar su operatividad plena, a partir del momento en que se encuentren disponibles los lineamientos, protocolos y mecanismos operativos necesarios para la implementación de la Red Estatal de Mentoría Vocacional.
+
+P.O. 6 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 429.- SE REFORMA LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO. El Instituto de Educación de Aguascalientes deberá emitir, en un plazo no mayor a noventa días naturales, los lineamientos pedagógicos y administrativos para el fomento del uso correcto del idioma español en los centros educativos de la entidad.
+
+P.O. 6 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 430.- SE REFORMA LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
