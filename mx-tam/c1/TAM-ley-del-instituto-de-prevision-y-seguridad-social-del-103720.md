@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-instituto-de-prevision-y-seguridad-social-del-103720"
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-26"
-last_updated: "2026-02-12"
+last_updated: "2026-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DEL INSTITUTO DE PREVISIÓN Y SEGURIDAD SOCIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2026.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el miércoles 26 de noviembre de 2014.
 
@@ -225,7 +225,9 @@ VI.- Derechohabiente: el trabajador que haya sido inscrito ante el Instituto por
 
 VII.- Descuentos: las deducciones a las percepciones de los trabajadores, pensionistas o pensionados con motivo de las obligaciones contraídas por éstos, las cuales deberán aplicarse a través de la nómina de pago;
 
-VIII.- Entidades Públicas: los Poderes del Estado de Tamaulipas, incluyendo a las dependencias y entidades de la administración pública estatal; los organismos autónomos conforme a la Constitución Política del Estado; y los Ayuntamientos y entidades paramunicipales;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2026)</small>
+
+VIII.- Entidades Públicas: los Poderes del Estado de Tamaulipas, incluyendo a las dependencias y entidades de la administración pública estatal; los organismos autónomos conforme a la Constitución Política del Estado;
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2025)</small>
 
@@ -391,9 +393,9 @@ VIII.- Las demás que se deriven de la presente Ley.
 
 ###### ARTÍCULO 10.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2026)</small>
 
-1. El seguro por causa de muerte y la ayuda para gastos funerarios, serán cubiertos por la Entidad Pública correspondiente que tenía la calidad de patrón del trabajador. Los montos se determinarán mediante pliegos petitorios de las instancias sindicales de los trabajadores o pensionistas, autorizados por el Ejecutivo del Estado, los cuales no podrán exceder del equivalente a diez veces el salario mínimo vigente en la capital del estado, elevado al mes, correspondiendo al Instituto únicamente realizar los trámites necesarios ante la unidad responsable de dicho pago. Tratándose de las Entidades Públicas, éstas estarán obligadas a acatar el monto que para tal efecto se establezca; en todo caso, el Poder Ejecutivo podrá realizar las erogaciones para cubrir el seguro por causa de muerte y la ayuda para gastos funerarios, realizándose con cargo a las partidas presupuestales de la Entidad Pública obligada.
+1. El seguro por causa de muerte y la ayuda para gastos funerarios, serán cubiertos por la Entidad Pública correspondiente que tenía la calidad de patrón del trabajador. Los montos se determinarán mediante pliegos petitorios de las instancias sindicales de los trabajadores o pensionistas, autorizados por el Ejecutivo del Estado, los cuales no podrán tomar como sueldo base montos mayores al equivalente a diez veces el salario mínimo vigente en la capital del estado, elevado al mes, correspondiendo al Instituto únicamente realizar los trámites necesarios ante la unidad responsable de dicho pago. Tratándose de las Entidades Públicas, éstas estarán obligadas a acatar el monto que para tal efecto se establezca; en todo caso, el Poder Ejecutivo podrá realizar las erogaciones para cubrir el seguro por causa de muerte y la ayuda para gastos funerarios, realizándose con cargo a las partidas presupuestales de la Entidad Pública obligada.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2025)</small>
 
@@ -735,9 +737,9 @@ Para los efectos de la presente Ley, serán reputados como riesgos del trabajo l
 
 1. La pensión por riesgos de trabajo por incapacidad permanente parcial, permanente total o muerte, así como la indemnización global a que se refiere la presente Sección, se otorgará con cargo al Fondo de Pensiones del Instituto.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2026)</small>
 
-2. Tratándose de trabajadores a los que se les otorguen prestaciones de seguridad social derivada de un convenio suscrito por el Instituto con algún organismo autónomo conforme a la Constitución Política del Estado o con algún Ayuntamiento o entidad para municipal (sic) de éste, deberán pagar al Instituto las aportaciones que resulten necesarias para que éste haga frente al pago de la pensión por riesgos de trabajo. En ningún caso, éste se efectuará por parte del Instituto si las Entidades Públicas obligadas no cumplen con el pago de las aportaciones y cuotas correspondientes. En dicho supuesto, la única responsable sobre los riesgos de trabajo y sus consecuencias será la propia Entidad Pública.
+2. Tratándose de trabajadores a los que se les otorguen prestaciones de seguridad social derivada de un convenio suscrito por el Instituto con algún organismo autónomo conforme a la Constitución Política del Estado, deberán pagar al Instituto las aportaciones que resulten necesarias para que éste haga frente al pago de la pensión por riesgos de trabajo. En ningún caso, éste se efectuará por parte del Instituto si las Entidades Públicas obligadas no cumplen con el pago de las aportaciones y cuotas correspondientes. En dicho supuesto, la única responsable sobre los riesgos de trabajo y sus consecuencias será la propia Entidad Pública.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2025)</small>
 
@@ -1043,9 +1045,9 @@ V.- Cuando el estado de invalidez sea anterior a la fecha del alta laboral del t
 
 ###### ARTÍCULO 70.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2026)</small>
 
-1. Los trabajadores que soliciten pensión por riesgos de trabajo y los pensionistas por la misma causa, están obligados a someterse a los reconocimientos y tratamientos que el Instituto determine y/o proporcione en cualquier tiempo, con el fin de aumentar o disminuir su cuantía, y en su caso, revocar la misma en virtud del estado físico o mental que goce el pensionista; así como a facilitar las investigaciones y evaluaciones necesarias para verificar la vigencia de sus derechos por este concepto y, en caso de no hacerlo, no se tramitará su solicitud o se le suspenderá el goce de la pensión.
+1. Los trabajadores que soliciten pensión por invalidez por causas ajenas al trabajo y los pensionistas por la misma causa, están obligados a someterse a los reconocimientos y tratamientos que el Instituto determine y/o proporcione en cualquier tiempo, con el fin de aumentar o disminuir su cuantía, y en su caso, revocar la misma en virtud del estado físico o mental que goce el pensionista; así como a facilitar las investigaciones y evaluaciones necesarias para verificar la vigencia de sus derechos por este concepto y, en caso de no hacerlo, no se tramitará su solicitud o se le suspenderá el goce de la pensión.
 
 2. Cualquier irregularidad que se advirtiera por parte del Instituto en la gestión de la pensión referida en el párrafo anterior, será sancionada por la autoridad correspondiente.
 
@@ -2443,15 +2445,17 @@ I. Trabajador en transición de primera generación: cuando su fecha de inicio d
 
 II. Trabajador en transición de segunda generación: cuando su fecha de inicio de cotización hubiese sido a partir del 1 de enero de 2015 y hasta antes de la entrada en vigor del presente Decreto.
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2026)</small>
+
 ###### ARTÍCULO OCTAVO.
 
-Para los efectos a que se refiere la fracción XXV del artículo 5 de la Ley del Instituto de Previsión y Seguridad Social del Estado de Tamaulipas, el salario regulador de los trabajadores en transición de primera generación será el promedio del salario base sobre el que haya cotizado el trabajador ante el Fondo de Pensiones durante los últimos 4 años inmediatos anteriores a la fecha de su baja, previa actualización con base en el Índice Nacional de Precios al Consumidor, más la prestación de adquisición de víveres básicos o el concepto de despensa a que tuviera derecho, así como un porcentaje de la compensación o gratificación, compensación provisional compactable y del quinquenio con la que haya contribuido en fusión del año en que se reciba una pensión de acuerdo con la siguiente tabla:
+Para los efectos a que se refiere la fracción XXV del artículo 5 de la Ley del Instituto de Previsión y Seguridad Social del Estado de Tamaulipas, el salario regulador de los trabajadores en transición de primera generación será el promedio del salario base sobre el que haya cotizado el trabajador ante el Fondo de Pensiones durante los últimos 4 años inmediatos anteriores a la fecha de su baja, previa actualización con base en el Índice Nacional de Precios al Consumidor, más la prestación de adquisición de víveres básicos o el concepto de despensa a que tuviera derecho, así como un porcentaje de la compensación o gratificación, compensación provisional compactable y del quinquenio con la que haya contribuido en función del año en que se reciba una pensión de acuerdo con la siguiente tabla:
 
-Porcentaje de la
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2026)</small>
 
-Año Compensación y
+Año Porcentaje de la
 
-Quinqenio (sic)
+Compensación y Quinquenio
 
 2026 13.33%
 
@@ -2471,15 +2475,17 @@ Quinqenio (sic)
 
 2034 en adelante 100.00%
 
+> <small>(REFORMADO, P.O. 6 DE ABRIL DE 2026)</small>
+
 ###### ARTÍCULO NOVENO.
 
-Para los efectos a que se refiere la fracción XXV del artículo 5 de la Ley del Instituto de Previsión y Seguridad Social del Estado de Tamaulipas, el salario regulador de los trabajadores en transición de segunda generación será el promedio del salario base sobre el que haya cotizado el trabajador ante el Fondo de Pensiones durante los últimos 5 años inmediatos anteriores a la fecha de su baja, previa actualización con base en el Índice Nacional de Precios al Consumidor, más la prestación de adquisición de víveres básicos o el concepto de despensa a que tuviera derecho, así como un porcentaje de la compensación o gratificación, compensación provisional compactable y del quinquenio con la que haya contribuido en fusión del año en que se reciba una pensión de acuerdo con la siguiente tabla:
+Para los efectos a que se refiere la fracción XXV del artículo 5 de la Ley del Instituto de Previsión y Seguridad Social del Estado de Tamaulipas, el salario regulador de los trabajadores en transición de segunda generación será el promedio del salario base sobre el que haya cotizado el trabajador ante el Fondo de Pensiones durante los últimos 5 años inmediatos anteriores a la fecha de su baja, previa actualización con base en el Índice Nacional de Precios al Consumidor, más la prestación de adquisición de víveres básicos o el concepto de despensa a que tuviera derecho, así como un porcentaje de la compensación o gratificación, compensación provisional compactable y del quinquenio con la que haya contribuido en función del año en que se reciba una pensión de acuerdo con la siguiente tabla:
 
-Porcentaje de la
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2026)</small>
 
-Año Compensación y
+Año Porcentaje de la
 
-Quinqenio (sic)
+Compensación y Quinquenio
 
 2026 13.33%
 
@@ -2503,15 +2509,15 @@ Quinqenio (sic)
 
 Para los efectos a que se refiere el artículo 15 de la Ley del Instituto de Previsión y Seguridad Social del Estado de Tamaulipas, las aportaciones al Fondo de Pensiones a cargo de las Entidades Públicas serán de un porcentaje del salario base, prestación de adquisición de víveres básicos o despensa, quinquenio, compensación o gratificación y la compensación provisional compactable que reciba el trabajador en transición que tuvieran a su cargo de acuerdo con la siguiente tabla:
 
-Porcentaje
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2026)</small>
 
-Adquisición de víveres
+Año Porcentaje
 
-Año Salario Base básicos, Quinquenio,
+Salario Base Adquisición de víveres básicos,
 
-Compensación y
+Quinquenio, Compensación o
 
-Gratificación Anual
+Gratificación
 
 2026 21.50% 3.00%
 
@@ -2529,19 +2535,21 @@ Gratificación Anual
 
 2033 24.00% 24.00%
 
-4 en adelante 27.00% 27.00%
+2034 en adelante 27.00% 27.00%
 
 ###### ARTÍCULO DÉCIMO PRIMERO.
 
 Para los efectos a que se refiere el artículo 16 de la Ley del Instituto de Previsión y Seguridad Social del Estado de Tamaulipas, las cuotas al Fondo de Pensiones a cargo del trabajador en transición serán de un porcentaje del salario base, prestación de adquisición de víveres básicos o despensa, quinquenio y compensación o gratificación y la compensación provisional compactable que reciba de acuerdo con la siguiente tabla:
 
-Porcentaje
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2026)</small>
 
-Adquisición de víveres
+Año Porcentaje
 
-Año Salario Base básicos, Quinquenio y
+Salario Base Adquisición de víveres básicos,
 
-Compensación
+Quinquenio, Compensación o
+
+Gratificación
 
 2026 10.50% 2.00%
 
@@ -2553,7 +2561,7 @@ Compensación
 
 2030 10.50% 10.00%
 
-1 en adelante 10.50% 10.50%
+2031 en adelante 10.50% 10.50%
 
 ###### ARTÍCULO DÉCIMO SEGUNDO.
 
@@ -2799,10 +2807,10 @@ El Tribunal de Justicia Administrativa del Estado de Tamaulipas, a través de su
 
 En las disposiciones transitorias de las diversas leyes y códigos en las que se haga referencia a la Contraloría Gubernamental, se entenderá la Secretaría Anticorrupción y Buen Gobierno.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 102.- SE REFORMA EL PÁRRAFO SEGUNDO Y SE ADICIONA EL TERCER PÁRRAFO AL ARTÍCULO 227 DE LA LEY DE MOVILIDAD DEL ESTADO DE AGUASCALIENTES”.]
+P.O. 6 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1038 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL INSTITUTO DE PREVISIÓN Y SEGURIDAD SOCIAL DEL ESTADO DE TAMAULIPAS; Y LOS ARTÍCULOS TRANSITORIOS OCTAVO, Y LA TABLA DE PORCENTAJES POR AÑO; NOVENO Y LA TABLA DE PORCENTAJES POR AÑO; Y LAS TABLAS DE PORCENTAJES POR AÑO CONTENIDAS EN LOS ARTÍCULOS DÉCIMO Y DÉCIMO PRIMERO TRANSITORIOS DEL DECRETO 66-945, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO EXTRAORDINARIO NÚMERO 61, DE FECHA 20 DE DICIEMBRE DE 2025”.]
 
 ###### ARTÍCULO ÚNICO.
 
-El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 26 DE JULIO DE 2021.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
