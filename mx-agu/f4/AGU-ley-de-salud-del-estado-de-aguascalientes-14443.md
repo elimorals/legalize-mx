@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2025-07-21"
+last_updated: "2026-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2026.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -61,7 +61,9 @@ II.- La prolongación y el mejoramiento de la calidad de la vida humana;
 
 III.- La protección y el acrecentamiento de los valores que coadyuven a la creación, conservación y disfrute de condiciones de salud que contribuyan al desarrollo social;
 
-IV.- La extensión de actitudes solidarias y responsables de la población en la preservación, conservación, mejoramiento y restauración de la salud;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2026)</small>
+
+IV.- La promoción del autocuidado, así como la extensión de actitudes solidarias y responsables de la población en la preservación, conservación, mejoramiento y restauración de la salud;
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 29 DE MAYO DE 2020)</small>
 
@@ -177,7 +179,9 @@ El Sistema Estatal de Salud, con la intervención que corresponda a la Secretar�
 
 El Sistema Estatal de Salud tiene los siguientes objetivos:
 
-I.- Proporcionar servicios de salud a toda la población del Estado y mejorar la calidad de los mismos, atendiendo a los problemas sanitarios prioritarios del Estado y a los factores que condicionen y causen daños a la salud, con especial interés en las acciones preventivas;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2026)</small>
+
+I.- Proporcionar servicios de salud a toda la población del Estado y mejorar la calidad de los mismos, atendiendo a los problemas sanitarios prioritarios del Estado y a los factores que condicionen y causen daños a la salud, con especial interés en la promoción, implementación e impulso de acciones de atención integrada de carácter preventivo, acorde con la edad, sexo, factores de riesgo y circunstancias de cada persona.
 
 II.- Contribuir al desarrollo demográfico armónico del Estado;
 
@@ -189,7 +193,9 @@ V.- Apoyar al mejoramiento de las condiciones sanitarias del medio ambiente del 
 
 VI.- Impulsar, en el ámbito estatal un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud;
 
-VII.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección; y
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2026)</small>
+
+VII.- Impulsar el autocuidado de la salud en las personas, las familias y las comunidades con o sin la asistencia de un profesional de la salud para coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección; destacando el fomento del autocuidado de la salud.
 
 VIII.- Promover un sistema de fomento sanitario que coadyuve al desarrollo de productos y servicios que no sean nocivos para la salud;
 
@@ -769,7 +775,9 @@ Para la organización y administración de los servicios de salud, se definirán
 
 Para los efectos del derecho a la protección de salud, se consideran servicios básicos de salud los referentes a:
 
-I.- La educación para la salud, la promoción del saneamiento básico y el mejoramiento de las condiciones sanitarias del ambiente;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2026)</small>
+
+I.- La educación para la salud, el autocuidado, la promoción del saneamiento básico y el mejoramiento de las condiciones sanitarias del ambiente;
 
 II.- La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes;
 
@@ -4749,71 +4757,13 @@ P.O. 21 DE JULIO DE 2025.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 4/2018, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL SEXTO TRIBUNAL COLEGIADO DE CIRCUITO Y DEL JUZGADO SEXTO DE DISTRITO, AMBOS DEL CENTRO AUXILIAR DE LA PRIMERA REGIÓN, CON RESIDENCIA EN CUERNAVACA, MORELOS, Y LA TRANSFORMACIÓN EN TERCER TRIBUNAL COLEGIADO EN MATERIAS PENAL Y ADMINISTRATIVA DEL DECIMOCTAVO CIRCUITO DEL ÓRGANO COLEGIADO QUE CONCLUYE FUNCIONES, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES, Y A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS DE LA ESPECIALIZACIÓN Y CIRCUITO INDICADOS".]
+P.O. 6 DE ABRIL DE 2026.
 
-PRIMERO. El presente Acuerdo entrará en vigor el uno de abril de dos mil dieciocho, con excepción del artículo 1, el cual entrará en vigor en la fecha señalada en el mismo; y de los Transitorios CUARTO y QUINTO de dicho instrumento normativo, los cuales iniciarán su vigencia a partir de la aprobación del citado Acuerdo.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 420.- SE REFORMA LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
 
-SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Consejo de la Judicatura Federal en Internet.
+###### ARTÍCULO ÚNICO.
 
-TERCERO. El Tercer Tribunal Colegiado en Materias Penal y Administrativa del Decimoctavo Circuito, formará parte del Pleno del Decimoctavo Circuito en Materias Penal y Administrativa a partir del uno de abril de dos mil dieciocho, de conformidad con lo establecido por el Acuerdo General 8/2015, del Pleno del Consejo de la Judicatura Federal, relativo a la integración y funcionamiento de los Plenos de Circuito, para lo cual informará lo conducente a las Secretarías Ejecutivas de Carrera Judicial; de Creación de Nuevos Órganos; así como de Adscripción.
-
-CUARTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará al órgano jurisdiccional de nueva creación de la infraestructura y equipamiento necesarios para el desempeño de sus funciones.
-
-Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial del Consejo de la Judicatura Federal, realizarán las modificaciones necesarias a la configuración del sistema computarizado, para la recepción y distribución de los asuntos que se presenten en la Oficina de Correspondencia Común de que se trata.
-
-QUINTO. La Secretaría Ejecutiva de Adscripción certificará la nueva adscripción de los magistrados del Tercer Tribunal Colegiado en Materias Penal y Administrativa del Decimoctavo Circuito.
-
-SEXTO. Se reforman los numerales SEGUNDO, fracción XVIII, número 1; y QUINTO, número 1, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los tribunales de Circuito y de los juzgados de Distrito, para quedar como sigue:
-
-"SEGUNDO. ...
-
-I. a XVII. ...
-
-XVIII. ...
-
-1. Seis tribunales colegiados especializados: dos en materia de trabajo, tres en materias penal y administrativa y uno en materia civil, todos con residencia en Cuernavaca, Morelos.
-
-2. a 3. ...
-
-XIX. a XXXII. ...
-
-QUINTO. ...
-
-1. El Centro Auxiliar de la Primera Región se integrará por cuatro tribunales colegiados de Circuito Auxiliares, dos con residencia en la Ciudad de México y dos con residencia en Naucalpan de Juárez, Estado de México, y tres juzgados de Distrito auxiliares con sede en la Ciudad de México, de los cuales, uno está especializado además en materia de extinción de dominio;
-
-2. a 11. ...
-
-..."
-
-SÉPTIMO. Se reforma el numeral PRIMERO, primer párrafo; y se derogan los incisos c) de la fracción I, y d) de la fracción II del Acuerdo General 20/2009 del Pleno del Consejo de la Judicatura Federal, que crea el Centro Auxiliar de la Primera Región, así como los órganos jurisdiccionales que lo integrarán, para quedar como sigue:
-
-"PRIMERO. CONFORMACIÓN, COMPETENCIA Y DENOMINACIÓN. El Centro Auxiliar de la Primera Región está conformado por cuatro tribunales Colegiados de Circuito Auxiliares, dos con residencia en la Ciudad de México y dos con residencia en Naucalpan de Juárez, Estado de México, y tres juzgados de Distrito Auxiliares con sede en la Ciudad de México.
-
-...
-
-I. ...
-
-a) a b) ...
-
-c) Derogado.
-
-d) a e) ...
-
-...
-
-II.
-
-a) a c)
-
-d) Derogado."
-
-OCTAVO. Los asuntos que hayan sido de la competencia del Tribunal Colegiado de Circuito del Centro Auxiliar de la Primera Región, con residencia en Cuernavaca, Morelos, conforme a lo previsto en el "Acuerdo General 4/2017 del Pleno del Consejo de la Judicatura Federal, relativo al trámite de las resoluciones emitidas por los Juzgados Primero y Segundo de Distrito del Centro Auxiliar de la Primera Región, con residencia en la Ciudad de México, respecto de los juicios de amparo promovidos a partir del uno de enero de dos mil quince en los que se reclame la inconstitucionalidad de diversas disposiciones fiscales, relativas a la denominada contabilidad electrónica y por el que se abroga el diverso 5/2015", pendientes de resolver se repartirán a la entrada en vigor de este Acuerdo de manera equitativa entre los Tribunales Colegiados de los Centros Auxiliares Regionales de la República Mexicana, a efecto de que integren la remesa relativa al mes de abril.
-
-El Tribunal Colegiado de Circuito del Centro Auxiliar de la Primera Región, con residencia en Cuernavaca, Morelos previo a su conclusión de funciones, deberá devolver al Primer y Segundo Tribunales Colegiados en Materias Penal y Administrativa del Decimoctavo Circuito, los asuntos pendientes de resolución en los que les estuviera prestando auxilio.
-
-NOVENO. Los asuntos que se encuentren en el Juzgado Sexto de Distrito del Centro Auxiliar de la Primera Región, con residencia en Cuernavaca, Morelos, que concluye funciones se enviarán al Juzgado Primero de Distrito del Centro Auxiliar de la Segunda Región, con residencia en San Andrés Cholula, Puebla, a efecto de que integre la remesa correspondiente al mes de abril.
-
-D.O.F. 27 DE MARZO DE 2018.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 ## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 5/2018 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL SÉPTIMO TRIBUNAL COLEGIADO DE CIRCUITO DEL CENTRO AUXILIAR DE LA TERCERA REGIÓN, CON RESIDENCIA EN GUADALAJARA, JALISCO, Y SU TRANSFORMACIÓN EN SEXTO TRIBUNAL COLEGIADO EN MATERIA CIVIL DEL TERCER CIRCUITO, ASÍ COMO SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y FECHA DE INICIO DE FUNCIONES, Y A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES COLEGIADOS DE LA ESPECIALIZACIÓN Y CIRCUITO INDICADOS".]
 
