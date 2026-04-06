@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-del-regimen-disciplinario-del-personal-144123"
 country: "mx"
 rank: "reglamento"
 publication_date: "2020-09-17"
-last_updated: "2023-08-30"
+last_updated: "2026-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144123&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2020-09-09"
 ---
 # REGLAMENTO DEL REGIMEN DISCIPLINARIO DEL PERSONAL SUSTANTIVO DE LA FISCALIA GENERAL DE JUSTICIA DE LA CIUDAD DE MEXICO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO DEL RÉGIMEN DISCIPLINARIO DEL PERSONAL SUSTANTIVO DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. DE 6 DE ABRIL DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DEL RÉGIMEN DISCIPLINARIO DEL PERSONAL SUSTANTIVO DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO OFICIAL: 30 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE ABRIL DE 2026 (ABROGADO).
 
 Reglamento publicado en el Número 432 de la Gaceta Oficial de la Ciudad de México, el jueves 17 de septiembre de 2020.
 
@@ -1025,3 +1027,17 @@ G.O. 30 DE AGOSTO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “AVISO FGJCDMX/19/2023 POR EL QUE SE DA A CONOCER LA VERSIÓN ACTUALIZADA DEL REGLAMENTO DEL RÉGIMEN DISCIPLINARIO DEL PERSONAL SUSTANTIVO DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO”.]
 
 ÚNICO. - Publíquese el presente Aviso en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 6 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DEL RÉGIMEN DISCIPLINARIO DEL PERSONAL SUSTANTIVO DE LA FISCALÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Reglamento en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Reglamento entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. A partir de la entrada en vigor del presente Reglamento quedan abrogados el Reglamento del Régimen Disciplinario del Personal Sustantivo de la Fiscalía General de Justicia de la Ciudad de México, dado a conocer mediante el Aviso FGJCDMX/31/2020, publicado en la Gaceta Oficial de la Ciudad de México el 17 de septiembre de 2020; así como el Acuerdo FGJCDMX/27/2021 por el que se reforman diversas disposiciones del Reglamento del Régimen Disciplinario del Personal Sustantivo de la Fiscalía General de Justicia de la Ciudad de México, y el Aviso FGJCDMX/19/2023 por el que se da a conocer la versión actualizada del Reglamento del Régimen Disciplinario del Personal Sustantivo de la Fiscalía General de Justicia de la Ciudad de México.
+
+CUARTO. Las investigaciones y procedimientos que se encuentren en trámite o pendientes de resolver serán continuados y resueltos conforme a la normatividad vigente al momento del inicio del expediente de investigación respectivo.
+
+QUINTO. La Unidad de Asuntos Internos, a través de las Direcciones de Investigación y de Sustanciación, asumirá y continuará la tramitación de las investigaciones y procedimientos disciplinarios que se encontraban en trámite ante el Consejo de Honor y Justicia al momento de la entrada en vigor de este Reglamento.
