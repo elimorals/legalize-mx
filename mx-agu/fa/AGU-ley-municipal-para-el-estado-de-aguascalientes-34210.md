@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2026-01-12"
+last_updated: "2026-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -1759,17 +1759,21 @@ XVII. De Derechos Humanos cuya competencia será: conocer de los asuntos relacio
 
 XVIII. Cultura, cuya competencia será promover y salvaguardar el patrimonio cultural y los aspectos históricos de cada municipio, así como fomentar, promover, difundir y fortalecer el desarrollo cultural entre la ciudadanía. Además, brindar difusión, espacios y apoyo a las personas que realicen actividades artísticas y culturales de cada municipio, otorgándoles preferencia en los eventos que se realicen dentro del territorio de cada ente Municipal;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 25 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2026)</small>
 
-XIX. Asuntos Legislativos; y
+XIX. Asuntos Legislativos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2026)</small>
 
-XX. Migración e inmigración, con competencia para conocer asuntos relacionados con dichas materias en el ámbito donde las leyes aplicables permitan la acción municipal; y
+XX. Migración e inmigración, con competencia para conocer asuntos relacionados con dichas materias en el ámbito donde las leyes aplicables permitan la acción municipal;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 25 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE ABRIL DE 2026)</small>
 
-XXI. Todas las que el H. Cabildo considere necesarias para el cumplimiento de sus funciones.
+XXI. Juventud, cuya competencia será: diseñar, promover, y evaluar políticas públicas orientadas a mejorar la calidad de vida de las juventudes, además de impulsar programas y acciones que combatan las desigualdades que afectan a este sector de la población; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE ABRIL DE 2026)</small>
+
+XXII. Todas las que el H. Cabildo considere necesarias para el cumplimiento de sus funciones.
 
 ###### Artículo 114.
 
@@ -3016,3 +3020,11 @@ P.O. 12 DE ENERO DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 360.- SE REFORMA LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 6 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 423.- SE REFORMAN LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
