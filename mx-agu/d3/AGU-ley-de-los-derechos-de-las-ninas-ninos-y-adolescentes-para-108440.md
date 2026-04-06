@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-para-1084
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-03"
-last_updated: "2026-01-12"
+last_updated: "2026-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2026.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 3 de junio de 2015.
 
@@ -487,9 +487,17 @@ Las niñas, niños y adolescentes tienen derecho a que se les asegure prioridad 
 
 I. Se les brinde protección y socorro en cualquier circunstancia y con la oportunidad necesaria;
 
-II. Se les atienda antes que a las personas adultas en todos los servicios, en igualdad de condiciones; y
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2026)</small>
 
-III. Se les considere para el diseño y ejecución de las políticas públicas necesarias para la protección de sus derechos.
+II. Se les atienda antes que a las personas adultas en todos los servicios, en igualdad de condiciones;
+
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2026)</small>
+
+III. Se les considere para el diseño y ejecución de las políticas públicas necesarias para la protección de sus derechos; y
+
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2026)</small>
+
+IV. En caso de encontrarse en situación de orfandad, se les dé acceso prioritario a los programas de desarrollo social con los que cuente el Estado.
 
 > <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2019)</small>
 
@@ -3638,6 +3646,18 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 12 DE ENERO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 369.- SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 6 DE ABRIL DE 2026
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 419.-·SE REFORMA LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO PRIMERO.
 
