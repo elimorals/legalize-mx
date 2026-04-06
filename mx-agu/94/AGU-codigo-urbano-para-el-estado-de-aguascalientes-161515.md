@@ -4,7 +4,7 @@ identifier: "AGU-codigo-urbano-para-el-estado-de-aguascalientes-161515"
 country: "mx"
 rank: "codigo"
 publication_date: "2022-12-20"
-last_updated: "2026-03-25"
+last_updated: "2026-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2026.
 
 Código publicado en el Número 70 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 20 de diciembre de 2020.
 
@@ -6901,6 +6901,10 @@ Las convocatorias para Asamblea General de Condóminos se harán por parte de la
 
 La forma de convocar a la asamblea general de condóminos será por medio de publicación de un aviso en uno de los diarios de mayor circulación en el Estado; a través de redes sociales; correo electrónico si el condómino lo proporcionó a la administración; así como la fijación de la convocatoria en los lugares más visibles del condominio, incluyendo los accesos y salidas vehiculares y peatonales.
 
+> <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2026)</small>
+
+Las personas administradoras del condominio podrán invitar, cuando en el orden del día de la Asamblea General de Condóminos se traten asuntos relacionados con el desarrollo urbano, el ordenamiento territorial o la prestación de servicios públicos municipales, a la autoridad municipal competente, a efecto de que personal debidamente autorizado participe con voz, pero sin voto, exclusivamente para brindar orientación, asesoría o capacitación técnica. La participación de la autoridad municipal tendrá carácter voluntario, no será obligatoria para la celebración de la asamblea ni condicionará la validez de sus acuerdos, y deberá realizarse con pleno respeto a la autonomía del condominio.
+
 ###### ARTÍCULO 494.
 
 Las convocatorias para la celebración de la Asamblea General de Condóminos se harán de acuerdo a las siguientes disposiciones como mínimo:
@@ -7025,7 +7029,9 @@ XX.- Promover, por lo menos una vez al año en coordinación con el Municipio re
 
 XXI.- En los condominios en que se ejecuten obras de urbanización, infraestructura y equipamiento urbano, una vez expedidos los dictámenes técnico jurídicos por parte del Municipio, que determinen que no existen obligaciones pendientes del promotor, así como el que fueron debidamente concluidas dichas obras y que los servicios funcionan adecuadamente, con la anuencia del Comité de Propietarios y de Vigilancia o de la asamblea general de condóminos, recibirlas formalmente por parte del promotor, así como realizar todos los actos de administración, mantenimiento y prestación de servicios en nombre y representación de los condóminos;
 
-XXII.- Permitir el acceso al condominio, a las autoridades competentes debidamente identificadas, para realizar el ejercicio de sus funciones, tales como notificaciones, diligencias judiciales o administrativas, entre otras;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2026)</small>
+
+XXII.- Permitir el acceso al condominio a las autoridades competentes, debidamente identificadas, cuando ello sea necesario para el ejercicio de las funciones que legalmente les correspondan, así como permitir el acceso a la autoridad municipal competente que haya sido previamente invitada conforme a lo dispuesto en el artículo 493 de este Código, únicamente para asistir a la Asamblea General de Condóminos con fines de orientación, asesoría o capacitación y para realizar el ejercicio de sus funciones, tales como notificaciones, diligencias judiciales o administrativas, entre otras. Sin que dicha asistencia implique facultades de inspección, supervisión o intervención en la toma de decisiones internas.
 
 XXIII.- Emitir al Municipio su opinión, respecto de la autorización para el funcionamiento de establecimientos comerciales y de servicios, que pretendan instalarse en predios o lotes colindantes con áreas habitacionales del condominio, a fin de evitar daños y perjuicios a los condóminos, en su tranquilidad y seguridad;
 
@@ -10710,3 +10716,9 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Quedan sin efectos todas aquellas disposiciones que se oponga (sic) al presente Decreto.
+
+P.O. 6 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 431.- SE REFORMA EL CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
