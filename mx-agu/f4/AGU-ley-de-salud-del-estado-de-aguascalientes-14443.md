@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2025-07-21"
+last_updated: "2026-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2026.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -61,7 +61,9 @@ II.- La prolongación y el mejoramiento de la calidad de la vida humana;
 
 III.- La protección y el acrecentamiento de los valores que coadyuven a la creación, conservación y disfrute de condiciones de salud que contribuyan al desarrollo social;
 
-IV.- La extensión de actitudes solidarias y responsables de la población en la preservación, conservación, mejoramiento y restauración de la salud;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2026)</small>
+
+IV.- La promoción del autocuidado, así como la extensión de actitudes solidarias y responsables de la población en la preservación, conservación, mejoramiento y restauración de la salud;
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO, P.O. 29 DE MAYO DE 2020)</small>
 
@@ -177,7 +179,9 @@ El Sistema Estatal de Salud, con la intervención que corresponda a la Secretar�
 
 El Sistema Estatal de Salud tiene los siguientes objetivos:
 
-I.- Proporcionar servicios de salud a toda la población del Estado y mejorar la calidad de los mismos, atendiendo a los problemas sanitarios prioritarios del Estado y a los factores que condicionen y causen daños a la salud, con especial interés en las acciones preventivas;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2026)</small>
+
+I.- Proporcionar servicios de salud a toda la población del Estado y mejorar la calidad de los mismos, atendiendo a los problemas sanitarios prioritarios del Estado y a los factores que condicionen y causen daños a la salud, con especial interés en la promoción, implementación e impulso de acciones de atención integrada de carácter preventivo, acorde con la edad, sexo, factores de riesgo y circunstancias de cada persona.
 
 II.- Contribuir al desarrollo demográfico armónico del Estado;
 
@@ -189,7 +193,9 @@ V.- Apoyar al mejoramiento de las condiciones sanitarias del medio ambiente del 
 
 VI.- Impulsar, en el ámbito estatal un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud;
 
-VII.- Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección; y
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2026)</small>
+
+VII.- Impulsar el autocuidado de la salud en las personas, las familias y las comunidades con o sin la asistencia de un profesional de la salud para coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud y con el uso de los servicios que presten para su protección; destacando el fomento del autocuidado de la salud.
 
 VIII.- Promover un sistema de fomento sanitario que coadyuve al desarrollo de productos y servicios que no sean nocivos para la salud;
 
@@ -769,7 +775,9 @@ Para la organización y administración de los servicios de salud, se definirán
 
 Para los efectos del derecho a la protección de salud, se consideran servicios básicos de salud los referentes a:
 
-I.- La educación para la salud, la promoción del saneamiento básico y el mejoramiento de las condiciones sanitarias del ambiente;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2026)</small>
+
+I.- La educación para la salud, el autocuidado, la promoción del saneamiento básico y el mejoramiento de las condiciones sanitarias del ambiente;
 
 II.- La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes;
 
@@ -4744,6 +4752,14 @@ Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que
 P.O. 21 DE JULIO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 230.- SE REFORMA LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 6 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 420.- SE REFORMA LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
