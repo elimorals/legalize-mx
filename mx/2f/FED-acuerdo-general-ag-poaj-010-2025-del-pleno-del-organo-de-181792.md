@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-ag-poaj-010-2025-del-pleno-del-organo-de-181792
 country: "mx"
 rank: "acuerdo"
 publication_date: "2025-09-29"
-last_updated: "2025-09-29"
+last_updated: "2026-04-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181792&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2025-09-22"
 
 ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL POR EL QUE SE DESIGNAN A LAS PERSONAS TITULARES DE LAS UNIDADES ADMINISTRATIVAS DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE ABRIL DE 2026.
 
 Acuerdo publicado en el Número 260/2025 del Diario Oficial de la Federación, el lunes 29 de septiembre de 2025.
 
@@ -45,7 +45,9 @@ ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL POR EL QUE SE 
 
 PRIMERO. Se designa como titular de la Unidad de Asesoría Jurídica del Instituto Federal de Defensoría Pública al Maestro Pedro José María García Montañez a partir del 16 de septiembre de 2025.
 
-SEGUNDO. Se designa como titular de la Unidad de Defensa Penal del Instituto Federal de Defensoría Pública a la Maestra Norma González Jiménez a partir del 16 de septiembre de 2025.
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL QUE REFORMA EL SIMILAR POR EL QUE SE DESIGNAN A LAS PERSONAS TITULARES DE LAS UNIDADES ADMINISTRATIVAS DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA, D.O.F. 6 DE ABRIL DE 2026)</small>
+
+SEGUNDO. Se designa como titular de la Unidad de Defensa Penal del Instituto Federal de Defensoría Pública al licenciado Florentino Francisco Pimentel Girón a partir del 31 de marzo de 2026.
 
 TERCERO. Se designa como titular de la Unidad de Supervisión, Evaluación y Servicio Civil de Carrera del Instituto Federal de Defensoría Pública al Licenciado Julio Alberto Salgado Cano a partir del 19 de septiembre de 2025.
 
@@ -62,3 +64,13 @@ SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Jud
 Firman al calce el Presidente del Órgano de Administración Judicial y la persona titular de la Secretaría Ejecutiva del Pleno, de conformidad con lo dispuesto en los artículos 91, 99, fracción VIII y 100, párrafo primero de la Ley Orgánica del Poder Judicial de la Federación.
 
 EL MAESTRO CÉSAR MAURICIO LÓPEZ RAMIREZ, SECRETARIO EJECUTIVO DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL, CERTIFICA: Que este Acuerdo General del Pleno del Órgano de Administración Judicial por el que se designan a las personas titulares de las unidades administrativas del Instituto Federal de Defensoría Pública, fue aprobado por el Pleno del propio Órgano, en sesión celebrada el 22 de septiembre de 2025, por unanimidad de votos de las personas integrantes: Maestro Néstor Vargas Solano, Presidente; Licenciada Surit Berenice Romero Domínguez; Doctora Lorena Josefina Pérez Romo; Maestra Catalina Ramírez Hernández y Maestro José Alberto Gallegos Ramírez.- Ciudad de México, a 22 de septiembre de 2025.- Conste.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 6 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL QUE REFORMA EL SIMILAR POR EL QUE SE DESIGNAN A LAS PERSONAS TITULARES DE LAS UNIDADES ADMINISTRATIVAS DEL INSTITUTO FEDERAL DE DEFENSORÍA PÚBLICA”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación por el Pleno del Órgano de Administración Judicial.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como en el portal del Órgano de Administración Judicial del Poder Judicial de la Federación en internet e intranet.
