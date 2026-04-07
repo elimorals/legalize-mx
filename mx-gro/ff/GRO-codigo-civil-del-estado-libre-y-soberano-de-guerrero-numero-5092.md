@@ -4,7 +4,7 @@ identifier: "GRO-codigo-civil-del-estado-libre-y-soberano-de-guerrero-numero-509
 country: "mx"
 rank: "codigo"
 publication_date: "1993-03-02"
-last_updated: "2025-11-21"
+last_updated: "2026-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 358
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Guerrero, el martes 2 de marzo de 1993.
 
@@ -245,17 +245,11 @@ Las personas físicas que no hayan cumplido dieciocho años son menores de edad.
 
 ###### Artículo 36.
 
-El matrimonio del menor produce su emancipación:
-
-Aunque el vínculo se extinga, el menor no recaerá en la patria potestad.
+(DEROGADO, P.O. 7 DE ABRIL DE 2026)
 
 ###### Artículo 37.
 
-La persona emancipada tiene libre administración de sus bienes; pero necesitará durante la minoría de edad:
-
-I. De la autorización judicial para la enajenación, gravamen o hipoteca de bienes raíces; y
-
-II. De un tutor para los negocios judiciales.
+(DEROGADO, P.O. 7 DE ABRIL DE 2026)
 
 ### Capítulo IV. De la mayoría de edad
 
@@ -1879,7 +1873,9 @@ IV. Un certificado suscrito por un médico titulado que asegure, bajo protesta d
 
 Para los indigentes tienen obligación de expedir gratuitamente este certificado los médicos encargados de los servicios de sanidad de carácter oficial;
 
-V. El convenio que los pretendientes deberán celebrar si contrajeran matrimonio bajo el régimen de sociedad conyugal con relación a sus bienes presentes y a los que adquieran durante el matrimonio. Si los pretendientes son menores de edad, deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio;
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2026)</small>
+
+V. El convenio que los pretendientes deberán celebrar si contrajeran matrimonio bajo el régimen de sociedad conyugal con relación a sus bienes presentes y a los que adquieran durante el matrimonio.
 
 VI. Copia del acta de defunción del cónyuge fallecido si alguno de los contrayentes es viudo, o de la parte resolutiva de la sentencia de divorcio o de nulidad de matrimonio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente; y
 
@@ -1925,7 +1921,7 @@ I. Los nombres, apellidos, edad, ocupación, domicilios y lugar de nacimiento de
 
 II. Los nombres, apellidos, ocupación y domicilios de las madres y los padres;
 
-III. En su caso, el consentimiento de las madres, padres, abuelas, abuelos, tutoras o tutores; o el de las autoridades que deban suplirlos;
+III. (DEROGADA, P.O. 7 DE ABRIL DE 2026)
 
 IV. Que no hubo impedimento o que se dispensó;
 
@@ -2005,7 +2001,7 @@ En todos los casos de muerte violenta en las prisiones o en las casas de detenci
 
 ###### Artículo 363.
 
-En los casos de emancipación por efecto del matrimonio, no se formará acta separada; el oficial del Registro Civil anotará las respectivas actas de nacimiento de los cónyuges, expresándose al margen de ellas quedar éstos emancipados en virtud del matrimonio, y citando la fecha en que éste se celebró, así como el número y la foja del acta relativa.
+(DEROGADO, P.O. 7 DE ABRIL DE 2026)
 
 ### Capítulo VII. De las actas de divorcio
 
@@ -2753,6 +2749,8 @@ Artículo 450 BIS.- Cuando durante la relación de concubinato, alguna de las pa
 
 #### Sección Cuarta. De las donaciones antenupciales
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 7 DE ABRIL DE 2026)</small>
+
 ###### Artículo 451.
 
 Serán donaciones antenupciales:
@@ -2761,7 +2759,7 @@ I. Las donaciones que antes del matrimonio hiciere un prometido al otro; y
 
 II. Las donaciones que un extraño hace a alguno de los prometidos o a ambos, en consideración al matrimonio.
 
-Los prometidos menores de edad podrán hacer donaciones antenupciales, pero sólo con la intervención de la persona que ejerza la patria potestad o la tutela, o con aprobación judicial.
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 7 DE ABRIL DE 2026)</small>
 
 Serán aplicables a las donaciones antenupciales las reglas de las donaciones comunes, en todo lo que no fueren contrarias a esta sección.
 
@@ -16052,3 +16050,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal, para su conocimiento y para los efectos legales conducentes.
 
 TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página oficial del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
+
+P.O. 7 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 494, POR EL QUE SE DEROGAN LOS ARTÍCULOS 36, 37 Y DE MANERA PROPORCIONAL LA FRACCIÓN V DEL ARTÍCULO 349, ASÍ COMO LA FRACCIÓN III DEL ARTÍCULO 351, EL ARTÍCULO 363 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 451 DEL CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 358”.]
+
+PRIMERO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO: Remítase el presente Decreto a la persona titular del Poder Ejecutivo del Estado de Guerrero, para su conocimiento y efectos legales procedentes.
+
+TERCERO: Publíquese el presente Decreto para el conocimiento general en el Periódico Oficial del Gobierno del Estado, en el Portal Web del H. Congreso del Estado y difúndase en los medios de comunicación para el conocimiento general y efectos legales procedentes.
