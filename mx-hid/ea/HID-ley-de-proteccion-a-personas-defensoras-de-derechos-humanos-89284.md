@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-a-personas-defensoras-de-derechos-humanos-892
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-27"
-last_updated: "2016-08-15"
+last_updated: "2026-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROTECCIÓN A PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y DE SALVAGUARDA DE LOS DERECHOS PARA EL EJERCICIO DEL PERIODISMO DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE AGOSTO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 27 de agosto de 2012.
 
@@ -97,7 +97,9 @@ XIII.- Peticionario: Persona que solicita las Medidas urgentes de protección an
 
 XIV.- Periodista: Persona física, así como medios de comunicación y difusión públicos, comunitarios, privados, independientes, universitarios, experimentales o de cualquier otra índole, cuyo trabajo consiste en recabar, generar, procesar, editar, comentar, opinar, difundir, publicar o proveer información, a través de cualquier medio de difusión y comunicación, que puede ser impreso, radioeléctrico, digital o imagen;
 
-XV.- Persona Defensora de Derechos Humanos: Personas físicas que actúen individualmente o como integrantes de un grupo, organización o movimiento social, así como personas morales, grupos, organizaciones o movimientos sociales cuya finalidad sea la promoción o defensa de los derechos humanos; y
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2026)</small>
+
+XV.- Persona Defensora de Derechos Humanos: Personas físicas que actúen individualmente o como integrantes de un grupo, organización o movimiento social, así como personas morales, grupos, organizaciones o movimientos sociales cuya finalidad sea la promoción o defensa de los derechos humanos, incluyendo a las personas, grupos o colectivos que de forma continua y sustancial promueven e intervienen en la búsqueda de personas desaparecidas; y
 
 > <small>(REFORMADA, P.O. 15 DE AGOSTO DE 2016)</small>
 
@@ -377,9 +379,15 @@ I.- Recopilar y analizar toda la información que sirva para evitar agresiones p
 
 II.- Diseñar sistemas de alerta temprana y planes de contingencia con la finalidad de evitar potenciales agresiones a Personas Defensoras de Derechos Humanos, Periodistas y Colaboradoras periodísticas;
 
-III.- Promover el reconocimiento público y social de la importante labor de Personas Defensoras de Derechos Humanos, Periodistas y Colaboradoras periodísticas, para la consolidación del Estado Democrático de Derecho, y condenarán, investigarán y sancionarán las agresiones de las que sean objeto; y
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2026)</small>
 
-IV.- Promover las reformas y adiciones necesarias en la legislación para mejorar la situación de Personas Defensoras de Derechos Humanos, Periodistas y Colaboradoras periodísticas.
+III.- Promover el reconocimiento público y social de la importante labor de Personas Defensoras de Derechos Humanos, Periodistas y Colaboradoras periodísticas, para la consolidación del Estado Democrático de Derecho, y condenarán, investigarán y sancionarán las agresiones de las que sean objeto;
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2026)</small>
+
+IV.- Reconocer la labor y promover la protección de las personas que de forma continua y sustancial promueven e intervienen en la búsqueda de personas desaparecidas, y
+
+V.- Promover las reformas y adiciones necesarias en la legislación para mejorar la situación de Personas Defensoras de Derechos Humanos, Periodistas y Colaboradoras periodísticas.
 
 ###### Artículo 31.
 
@@ -476,3 +484,9 @@ P.O. 15 DE AGOSTO DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 595 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN A PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y DE SALVAGUARDA DE LOS DERECHOS PARA EL EJERCICIO DEL PERIODISMO, EN MATERIA DE PERSONAS BUSCADORAS”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
