@@ -4,7 +4,7 @@ identifier: "HID-ley-de-derechos-y-cultura-indigena-para-el-estado-de-hidalgo-78
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2023-06-15"
+last_updated: "2026-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78310&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "HID"
 
 LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2026.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el viernes 31 de diciembre de 2010.
 
@@ -3433,11 +3433,17 @@ VI. Garantizar el desarrollo de las capacidades de los individuos de la comunida
 
 VII. Actualizar y ampliar los servicios educativos orientados a incrementar las capacidades laborales y profesionales en personal comunitario en situación de trabajo, ligándolo con el financiamiento para el establecimiento y desarrollo de la pequeña empresa y la cooperativización de las necesidades, a fin de generar autoempleo, reducción de costos en la producción o transformación de productos, e incrementar márgenes de utilidad;
 
-> <small>(REFORMADA, P.O. 24 DE JUNIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2026)</small>
 
-VIII. Promover, mediante el diseño y registro de planes y/o programas, que las comunidades y pueblos indígenas sean unidades receptoras de servicio social profesional. De igual forma se promoverá la aportación, de universidades, colegios y empresas, de teorías, prácticas, conocimientos y recursos articulados a iniciativas de los pueblos y comunidades indígenas; y
+VIII. Promover, mediante el diseño y registro de planes y/o programas, que las comunidades y pueblos indígenas sean unidades receptoras de servicio social profesional. De igual forma se promoverá la aportación, de universidades, colegios y empresas, de teorías, prácticas, conocimientos y recursos articulados a iniciativas de los pueblos y comunidades indígenas;
 
-IX. Velar por la salud, bienestar y respeto a los adultos mayores, procurando su protección e inclusión en programas de asistencia social, que reconozcan su dignidad y experiencia.
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2026)</small>
+
+IX. Velar por la salud, bienestar y respeto a los adultos mayores, procurando su protección e inclusión en programas de asistencia social, que reconozcan su dignidad y experiencia; y
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2026)</small>
+
+X. Fomentar el emprendimiento de las mujeres indígenas mediante estrategias de capacitación, vinculación y asistencia técnica, acorde a los programas y recursos disponibles.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE MARZO DE 2014)</small>
 
@@ -3614,5 +3620,11 @@ TERCERO. Los municipios con población indígena reconocida en la Ley de Derecho
 P.O. 15 DE JUNIO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 537 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 4 DE LA LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 7 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 587 – LXVI POR EL QUE SE REFORMAN LAS FRACCIONES VIII Y IX Y SE ADICIONA UNA FRACCIÓN X, TODAS DEL ARTÍCULO 58 DE LA LEY DE DERECHOS Y CULTURA INDÍGENA PARA EL ESTADO DE HIDALGO, EN MATERIA DE FOMENTO AL EMPRENDIMIENTO A LAS MUJERES”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
