@@ -4,7 +4,7 @@ identifier: "CAM-ley-agricola-del-estado-de-campeche-16697"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-26"
-last_updated: "2020-07-22"
+last_updated: "2026-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16697&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY AGRÍCOLA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 26 de junio de 2000.
 
@@ -47,11 +47,15 @@ LEY AGRÍCOLA DEL ESTADO DE CAMPECHE
 
 Las disposiciones de esta ley son de orden público y de observancia general; y tienen como propósito establecer:
 
-I. Los lineamientos para el fomento de las actividades agrícolas y el impulso de un desarrollo sustentable de las mismas, con el fin de incrementar su eficiencia, productividad y competitividad, mediante un aprovechamiento ambientalmente racional de los recursos naturales, la aplicación de la tecnología y el desarrollo de la investigación, para mejorar las condiciones socioeconómicas de los productores;
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2026)</small>
+
+I. Los lineamientos para el fomento de las actividades agrícolas y el impulso de un desarrollo sustentable de las mismas, con el fin de incrementar su eficiencia, productividad y competitividad, mediante un aprovechamiento ambientalmente racional de los recursos naturales, la aplicación de la tecnología y el desarrollo de la investigación, para mejorar las condiciones socioeconómicas de las personas productoras;
 
 II. Las disposiciones para promover y desarrollar la protección fitosanitaria en el Estado; y,
 
-III. Las bases para la organización de los productores agrícolas, propiciando su integración plena al proceso productivo del Estado.
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2026)</small>
+
+III. Las bases para la organización de las personas productoras agrícolas, propiciando su integración plena al proceso productivo del Estado.
 
 ###### ARTÍCULO 2.
 
@@ -61,33 +65,71 @@ I. La persona física o moral que, directa o indirectamente, esté relacionada c
 
 II. Las tierras, bienes, infraestructura, insumos, maquinaria y equipo dedicados o relacionados con la agricultura.
 
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2026)</small>
+
+ARTÍCULO 2 BIS.- Los principios rectores que deberán observarse en esta ley son:
+
+I. La planeación basada en el ordenamiento ecológico territorial;
+
+II. La adaptación y, en su caso, mitigación al cambio climático;
+
+III. La visibilización, inclusión y reconocimiento de la mujer en los procesos de planeación, la política agropecuaria local y estímulos o apoyos económicos; y
+
+IV. Equidad social, con un margen de rentabilidad, que permita acceder a los estándares mínimos de bienestar y desarrollo sustentable a las familias campesinas.
+
 ### CAPÍTULO II. DEL OBJETO
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
 
 ###### ARTÍCULO 3.
 
-La presente ley tiene por objeto el fomento y la protección de la producción agrícola, con el fin de atender las necesidades alimentarias del Estado y coadyuvar en la satisfacción de las del país, así como las demandas de los mercados de productos agrícolas, procurando elevar las condiciones de vida en el campo. Ninguna disposición de esta ley producirá efecto, cuando contravenga algún precepto de la legislación federal aplicable en la materia.
+La presente ley tiene por objeto:
+
+I. El fomento y la protección de la producción agrícola, con el fin de atender las necesidades alimentarias del Estado y coadyuvar en la satisfacción de las del país;
+
+II. Atender las demandas de los mercados de productos agrícolas, procurando elevar las condiciones de vida en el campo;
+
+III. Garantizar el reconocimiento y la protección de los derechos de las mujeres campesinas;
+
+IV. Promover la participación efectiva de mujeres de comunidades rurales en programas sectoriales en materia agraria;
+
+V. Crear las condiciones para que las actividades productivas relacionadas con la agricultura, se desarrollen atendiendo el principio de equidad social, con un margen de rentabilidad, que permita acceder a los estándares mínimos de bienestar y desarrollo sustentable a las familias campesinas;
+
+VI. Facilitar la adaptación de sistemas productivos a los efectos de cambio climático;
+
+VII. Fomentar una política agrícola en materia de análisis de suelos para la producción sustentable;
+
+VIII. Promover el desarrollo de la investigación y la transferencia tecnológica a través de las instancias gubernamentales, académicas y científicas, mediante un proceso permanente de consulta y concertación con las organizaciones de productoras y productores, que derive en la generación de instrumentos efectivos para transitar hacia el uso de productos naturales en la erradicación de plagas, e incrementar la producción y rentabilidad agrícola;
+
+IX. Diseñar los instrumentos de apoyo económico, de capitalización y financiamiento, que permitan el tránsito de las personas productoras y sus organizaciones, de un modelo económico dependiente a un modelo abierto;
+
+X. Identificar los problemas que de manera regional se presenten e incorporar sus soluciones a los programas anuales de fomento y desarrollo agrícola; y
+
+XI. Difundir los programas de apoyo a instituciones y mejoras tecnológicas.
 
 ### CAPÍTULO III. DE LA COMPETENCIA
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
 
 ###### ARTÍCULO 4.
 
 Son autoridades competentes para la aplicación de esta ley:
 
-I. El Gobernador del Estado;
+I. La persona titular del Poder Ejecutivo del Estado;
 
-II. El Secretario de Desarrollo Rural;
+II. La persona titular de la Secretaría de Desarrollo Agropecuario;
 
-III. Los Subsecretarios del Ramo;
+III. Las personas titulares de las Subsecretarías del Ramo;
 
-IV. Los Directores del Ramo;
+IV. Las personas titulares de las Direcciones del Ramo;
 
-V. Los Inspectores Agrícolas;
+V. Las personas Inspectoras Agrícolas;
 
-VI. Los Presidentes de los Ayuntamientos;
+VI. Las personas titulares de las Presidencias de los Ayuntamientos;
 
-VII. Los Presidentes de las Juntas Municipales; y
+VII. Las personas titulares de las Presidencias de las Juntas Municipales; y
 
-VIII. Los Comisarios Municipales.
+VIII. Las personas titulares de las Comisarías Municipales.
 
 ###### ARTÍCULO 5.
 
@@ -103,9 +145,11 @@ IV. El Comité Estatal de Protección y Control Estadístico, Agropecuario, Fore
 
 V. Las autoridades que el Ejecutivo del Estado expresamente faculte para ello.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
+
 ###### ARTÍCULO 6.
 
-La vigilancia del cumplimiento de la presente Ley queda a cargo de la Secretaría de Desarrollo Rural de la Administración Pública del Estado, misma que en lo sucesivo será designada como "La Secretaría".
+La vigilancia del cumplimiento de la presente Ley queda a cargo de la Secretaría de Desarrollo Agropecuario de la Administración Pública del Estado, misma que en lo sucesivo será designada como "La Secretaría".
 
 ### CAPÍTULO IV. DE LAS ATRIBUCIONES
 
@@ -117,17 +161,27 @@ I. Planear, organizar, fomentar y proteger la producción agrícola en el Estado
 
 II. Formular y proponer al Ejecutivo Estatal el Programa Sectorial de Desarrollo Agrícola del Estado, coordinándose para tal efecto con los Municipios, así como con las instancias federales en lo legalmente conducente, de acuerdo con las respectivas competencias de cada institución;
 
-III. Elaborar y someter a la consideración del Gobernador del Estado el reglamento para la aplicación de esta ley;
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2026)</small>
+
+III. Elaborar y someter a la consideración de la persona titular del Poder Ejecutivo del Estado, el reglamento para la aplicación de esta ley;
 
 IV. Celebrar toda clase de convenios y acuerdos de coordinación que coadyuven en el cumplimiento del objeto de la presente ley;
 
-V. Propiciar la organización de los productores agrícolas, promoviendo las normas específicas para el caso;
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2026)</small>
 
-VI. Promover conjuntamente con los productores la comercialización de sus productos;
+V. Propiciar la organización de las y los productores agrícolas, promoviendo las normas específicas para el caso;
 
-VII. Realizar acciones para el fomento de las actividades agrícolas, en beneficio de los productores;
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2026)</small>
 
-VIII. Fomentar las agroasociaciones de productores;
+VI. Promover conjuntamente con las personas productoras agrícolas la comercialización de sus productos;
+
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2026)</small>
+
+VII. Realizar acciones para el fomento de las actividades agrícolas, en beneficio de las y los productores;
+
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2026)</small>
+
+VIII. Fomentar las agroasociaciones de las personas productoras;
 
 IX. Instituir premios y reconocimientos en materia agrícola;
 
@@ -165,7 +219,9 @@ XXV. Promover el uso de tecnologías, equipos y procesos en las actividades agr�
 
 XXVI. Estimular la producción agrícola, estableciendo esquemas ágiles para su operación;
 
-XXVII. Apoyar a los productores en el establecimiento de esquemas de asistencia técnica especializada;
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2026)</small>
+
+XXVII. Apoyar a las y los productores en el establecimiento de esquemas de asistencia técnica especializada;
 
 XXVIII. Evaluar comparativamente, por ciclo y por cultivo, los alcances de la actividad agrícola en cada región, en función del Programa Sectorial de Desarrollo Agrícola del Estado;
 
@@ -177,27 +233,59 @@ XXXI. Crear y delimitar los Distritos de Desarrollo Rural en atención a las nec
 
 XXXII. Difundir el Programa Sectorial de Desarrollo Agrícola del Estado;
 
-XXXIII. Aplicar las sanciones correspondientes por las infracciones que se cometan a la presente ley; y,
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2026)</small>
 
-XXXIV. Las demás que le otorgue la presente ley.
+XXXIII. Aplicar las sanciones correspondientes por las infracciones que se cometan a la presente ley;
 
-## TÍTULO SEGUNDO. DE LA ORGANIZACIÓN DE LOS PRODUCTORES AGRÍCOLAS
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE ABRIL DE 2026)</small>
+
+XXXIV. Impulsar que las organizaciones y asociaciones del sector agrícola que se conformen en el Estado incorporen, como eje prioritario de su actuación, el fortalecimiento de las unidades de producción familiar, con énfasis en la participación y desarrollo de las mujeres;
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2026)</small>
+
+XXXV. Fomentar la creación y consolidación de actividades industriales orientadas a la generación de empleo y al desarrollo integral de las mujeres, mediante la provisión de asistencia técnica, orientación financiera y acompañamiento para su adecuada organización;
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2026)</small>
+
+XXXVI. Promover y respaldar la implementación de proyectos productivos, otorgando atención preferente a aquellos impulsados o liderados por mujeres, con el fin de fortalecer su autonomía económica y su participación en el desarrollo productivo;
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2026)</small>
+
+XXXVII. Promover el fortalecimiento y autonomía de las mujeres campesinas mediante el acceso equitativo a procesos de formación, acompañamiento técnico y asesoría especializada, así como a programas, instrumentos y apoyos de carácter económico que aseguren el ejercicio pleno e igualitario de sus derechos como productoras;
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2026)</small>
+
+XXXVIII. Impulsar un modelo de desarrollo incluyente y sostenible que contribuya al bienestar de las familias y comunidades rurales, asegurando la participación efectiva de las mujeres productoras en la planeación, ejecución y evaluación de las políticas y programas de desarrollo rural; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE ABRIL DE 2026)</small>
+
+XXXIX. Las demás que le otorgue la presente ley.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE ABRIL DE 2026)</small>
+
+## TÍTULO SEGUNDO. DE LA ORGANIZACIÓN DE LAS PERSONAS PRODUCTORAS AGRÍCOLAS
 
 ### CAPÍTULO I. DE LAS FORMAS DE ORGANIZACIÓN
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
+
 ###### ARTÍCULO 8.
 
-Las formas de organización de los productores agrícolas son dos: la asociación y la federación de asociaciones. En cada región agrícola sólo podrá haber una asociación; y en el Estado sólo existirá una federación de asociaciones.
+Las formas de organización de las personas productoras agrícolas son dos: la asociación y la federación de asociaciones. En cada región agrícola sólo podrá haber una asociación; y en el Estado sólo existirá una federación de asociaciones.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
 
 ###### ARTÍCULO 9.
 
-Son agricultores las personas físicas que, directa o indirectamente, se dediquen a la producción de especies vegetales y quienes agreguen valor a su producción mediante procesos de transformación y comercialización, en terrenos de los cuales sea propietario, colono, ejidatario, arrendatario, aparcero o poseedor de los mismos por cualquier título.
+Son agricultoras y agricultores las personas físicas que, directa o indirectamente, se dediquen a la producción de especies vegetales y quienes agreguen valor a su producción mediante procesos de transformación y comercialización, en terrenos de los cuales sean propietarias, colonas, ejidatarias, arrendatarias, aparceras o poseedoras de los mismos por cualquier título.
 
 ### CAPÍTULO II. DE LAS ASOCIACIONES AGRÍCOLAS
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
+
 ###### ARTÍCULO 10.
 
-Las asociaciones agrícolas constituyen la forma de organización regional con fines productivos de los agricultores del Estado de Campeche.
+Las asociaciones agrícolas constituyen la forma de organización regional con fines productivos de las personas agricultoras del Estado de Campeche.
 
 ###### ARTÍCULO 11.
 
@@ -219,9 +307,11 @@ La Federación de Asociaciones Agrícolas del Estado de Campeche es una entidad 
 
 La Secretaría, atendiendo la opinión de los productores agrícolas en sus distintos niveles y con base en la información estadística de que disponga y la que recabe de los Municipios y de las entidades públicas, privadas y sociales, elaborará el proyecto de Programa Sectorial de Desarrollo Agrícola del Estado, y lo propondrá para su aprobación al Ejecutivo Estatal.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
+
 ###### ARTÍCULO 14.
 
-El Programa Sectorial de Desarrollo Agrícola del Estado deberá considerar el adecuado aprovechamiento de los recursos de que se dispone para la agricultura de riego y de temporal, con apego a los principios de la sustentabilidad, para alcanzar un mejor nivel de vida y un mayor número de empleos en el campo.
+El Programa Sectorial de Desarrollo Agrícola del Estado deberá considerar el adecuado aprovechamiento de los recursos de que se dispone para la agricultura de riego y de temporal, con apego a los principios de la sustentabilidad, para alcanzar un mejor nivel de vida y un mayor número de empleos en el campo, anteponiendo en todo momento a la mujer campesina.
 
 ###### ARTÍCULO 15.
 
@@ -233,23 +323,27 @@ II. Las metas específicas de producción por ciclos, cultivos y otras modalidad
 
 III. El monto de las inversiones públicas y privadas que deban realizarse para el logro de sus objetivos y metas; y la organización de agricultores incidentes en las metas;
 
-IV. Los instrumentos financieros y de apoyo para el fomento de la producción agrícola en el Estado;
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2026)</small>
+
+IV. Los instrumentos financieros y de apoyo para el fomento de la producción agrícola en el Estado, privilegiando a la mujer campesina;
 
 V. La infraestructura productiva y de apoyo, para la producción, industrialización y comercialización;
 
 VI. La infraestructura y esquemas de protección fitosanitaria, para la producción, transporte y comercialización de los productos y subproductos de origen vegetal;
 
-VII. Las formas de organización de los productores, para una mejor aplicación de los programas y un mejor aprovechamiento de los recursos disponibles;
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2026)</small>
+
+VII. Las formas de organización de las personas productoras, para una mejor aplicación de los programas y un mejor aprovechamiento de los recursos disponibles;
 
 VIII. La intervención que deban tener las dependencias de los Ejecutivos Estatal y Federal, según sus atribuciones, para soporte, instrumentación y cumplimiento del Programa Sectorial y de los Programas Institucionales, Especiales y Operativos que de él se deriven; y,
 
 IX. Las demás medidas necesarias para el cumplimiento de dichos Programas.
 
-> <small>(REFORMADO, P.O. 22 DE JULIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
 
 ###### ARTÍCULO 16.
 
-Las Secretarías de Finanzas, de Desarrollo Rural, de Planeación, de Desarrollo Social y Humano y, de Medio Ambiente, Biodiversidad y Cambio Climático de la Administración Pública del Estado, intervendrán, conforme a sus facultades, para hacer compatible el Programa Sectorial de Desarrollo Agrícola con el Plan Estatal de Desarrollo y autorizar, en su oportunidad, las asignaciones presupuestales de los programas que en la materia apruebe el Ejecutivo Estatal.
+Las Secretarías de Administración, Finanzas y Planeación, de Desarrollo Agropecuario, de Bienestar y, de Medio Ambiente, Biodiversidad, Cambio Climático y Energía, respectivamente, intervendrán, conforme a sus facultades, para hacer compatible el Programa Sectorial de Desarrollo Agrícola con el Plan Estatal de Desarrollo y autorizar, en su oportunidad, las asignaciones presupuestales de los programas que en la materia apruebe el Ejecutivo Estatal.
 
 ###### ARTÍCULO 17.
 
@@ -305,17 +399,19 @@ La Secretaría contemplará en el Programa Sectorial Estatal de Desarrollo Agrí
 
 La Secretaría, a través de sus instrumentos y programas de apoyo y con fines de protección fitosanitaria, proveerá la compactación de superficies agrícolas, para integrar unidades productivas estratégicas.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
 
 ###### ARTÍCULO 29.
 
-La Secretaría recabará la información correspondiente a las necesidades de ejecución de obras de infraestructura productiva y de apoyo, adecuadas para el fomento de la producción en zonas temporaleras, a fin de que se incorporen a los programas que promueva el Ejecutivo Estatal, por conducto de las instancias que concurren al desarrollo rural, a efecto de propiciar la transición de zonas marginadas y restringidas, a zonas de alta producción. Para ello tendrán prioridad las comunidades consideradas de pobreza o pobreza extrema
+La Secretaría recabará la información correspondiente a las necesidades de ejecución de obras de infraestructura productiva y de apoyo, adecuadas para el fomento de la producción en zonas temporaleras, a fin de que se incorporen a los programas que promueva el Ejecutivo Estatal, por conducto de las instancias que concurren al desarrollo rural, a efecto de propiciar la transición de zonas marginadas y restringidas, a zonas de alta producción. Para ello tendrán prioridad las mujeres productoras agrícolas y las comunidades consideradas de pobreza o pobreza extrema.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
 
 ###### ARTÍCULO 30.
 
-En cada Dirección de Desarrollo Rural Municipal se integrará un Comité Directivo con un representante de la Secretaría, quien lo presidirá; el Jefe del Distrito de Desarrollo Rural de la jurisdicción, quien fungirá como secretario técnico y además presidirá el Comité Técnico del Distrito; y los representantes de cada una de las organizaciones de productores que tengan actividades agrícolas en el área del Distrito.
+En cada Dirección de Desarrollo Rural Municipal se integrará un Comité Directivo con una persona representante de la Secretaría, quien lo presidirá; la persona titular de la Jefatura del Distrito de Desarrollo Rural de la jurisdicción, quien fungirá en la secretaría técnica y además presidirá el Comité Técnico del Distrito; y las personas representantes de cada una de las organizaciones de productoras y productores que tengan actividades agrícolas en el área del Distrito.
 
-Los Comités Directivos deberán procurar, en un marco de respeto y compatibilidad de esferas de competencia, la mejor coordinación de trabajo posible con los servidores públicos de los gobiernos federal, estatal y municipal, que tengan relación con el sector agrícola de sus respectivos Municipio y Distritos.
+Los Comités Directivos deberán procurar, en un marco de respeto y compatibilidad de esferas de competencia, la mejor coordinación de trabajo posible con las personas servidoras públicas de los gobiernos federal, estatal y municipal, que tengan relación con el sector agrícola de sus respectivos Municipios y Distritos.
 
 ###### ARTÍCULO 31.
 
@@ -325,17 +421,27 @@ Los Comités Directivos, deberán reunirse periódicamente.
 
 Los Comités Directivos tendrán las siguientes facultades:
 
-I. Aprobar los programas agrícolas de las direcciones de la Secretaría de Desarrollo Rural en los municipios, atendiendo las directrices que señale la Secretaría conforme al Programa Sectorial Estatal de Desarrollo Agrícola;
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2026)</small>
+
+I. Aprobar los programas agrícolas de las direcciones de la Secretaría de Desarrollo Agropecuario en los municipios, atendiendo las directrices que señale la Secretaría conforme al Programa Sectorial Estatal de Desarrollo Agrícola;
 
 II. Vigilar la ejecución de los Programas específicamente autorizados;
 
-III. Conocer de las demandas de apoyos e infraestructura productiva que, por conducto de sus organizaciones, hagan llegar los productores; y canalizarlas a las instancias correspondientes;
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2026)</small>
 
-IV. Conocer, divulgar e informar sobre los programas de apoyos que tanto el Ejecutivo Federal como el Estatal promuevan en beneficio de los productores;
+III. Conocer de las demandas de apoyos e infraestructura productiva que, por conducto de sus organizaciones, hagan llegar las personas productoras; y canalizarlas a las instancias correspondientes;
 
-V. Promover, entre los productores, una interpretación precisa de la esencia y significado de los programas institucionales;
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2026)</small>
 
-VI. Promover la organización de los productores para facilitar su acceso a los beneficios oficiales y privados de apoyos, créditos, asistencia técnica y comercialización de sus productos;
+IV. Conocer, divulgar e informar sobre los programas de apoyos que tanto el Ejecutivo Federal como el Estatal promuevan en beneficio de las personas productoras;
+
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2026)</small>
+
+V. Promover, entre las personas productoras, una interpretación precisa de la esencia y significado de los programas institucionales;
+
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2026)</small>
+
+VI. Promover la organización de las personas productoras para facilitar su acceso a los beneficios oficiales y privados de apoyos, créditos, asistencia técnica y comercialización de sus productos;
 
 VII. Supervisar y evaluar periódicamente el desarrollo de los Programas Institucionales que directamente se les relacionan y proponer a la Secretaría los ajustes programáticos que se consideren necesarios;
 
@@ -351,29 +457,37 @@ Para apoyar las funciones de los Comités Directivos, la Secretaría integrará 
 
 ### CAPÍTULO II. DE LA CONSERVACIÓN DE LOS RECURSOS
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
+
 ###### ARTÍCULO 34.
 
-La Secretaría, con la participación de las instituciones y organizaciones del sector, promoverá y orientará la investigación y los estudio (sic) de riesgo de deterioro del suelo y agua.
+La Secretaría, con la participación de las instituciones y organizaciones del sector, promoverá y orientará la investigación y los estudios de riesgo de deterioro del suelo y agua.
 
 ###### ARTÍCULO 35.
 
 La Secretaría participará con las organizaciones de productores agrícolas en la ejecución de programas que tiendan a la aplicación de técnicas para la conservación del suelo y agua.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
+
 ###### ARTÍCULO 36.
 
-Los productores agrícolas procurarán en las tierras susceptibles de erosión, la aplicación de técnicas o métodos para reducir las pérdidas del suelo y el buen aprovechamiento del agua.
+Las personas productoras agrícolas procurarán en las tierras susceptibles de erosión, la aplicación de técnicas o métodos para reducir las pérdidas del suelo y el buen aprovechamiento del agua.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
 
 ###### ARTÍCULO 37.
 
-Los productores de áreas agrícolas dictaminadas con alto potencial de erosión o afectación del medio ecológico, evitarán dedicarlas a la agricultura, pudiendo substituir su actividad por la agroforestal, siempre que esta no implique impacto ecológico por erosión o por pérdida de biomasa.
+Las personas productoras de áreas agrícolas dictaminadas con alto potencial de erosión o afectación del medio ecológico, evitarán dedicarlas a la agricultura, pudiendo substituir su actividad por la agroforestal, siempre que esta no implique impacto ecológico por erosión o por pérdida de biomasa.
 
 ###### ARTÍCULO 38.
 
 Cuando alguna persona destruya, por falta de precaución o intencionalmente, obras o prácticas de conservación de suelos y aguas, será sancionado por la autoridad correspondiente y estará obligado a reparar el daño causado.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
+
 ###### ARTÍCULO 39.
 
-La Secretaría, con la participación de los productores, determinará en forma anual los alcances del programa estatal permanente de conservación de los recursos de suelo y agua.
+La Secretaría, con la participación de las personas productoras, determinará en forma anual los alcances del programa estatal permanente de conservación de los recursos de suelo y agua.
 
 ###### ARTÍCULO 40.
 
@@ -383,9 +497,11 @@ La Secretaría, en coordinación y con la participación de las instituciones y 
 
 La Secretaría supervisará y vigilará a las personas físicas o morales, públicas o privadas, que realicen obras y prácticas de conservación y manejo, con las cuales se pueda provocar degradación del suelo, para que cumplan con lo dispuesto en esta ley y otros ordenamientos legales.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
+
 ###### ARTÍCULO 42.
 
-Los productores que realicen obras y prácticas de manejo y conservación de suelo y agua, así como prácticas de rehabilitación, tendrán prioridad en los programas que para el caso se establezcan.
+Las personas productoras que realicen obras y prácticas de manejo y conservación de suelo y agua, así como prácticas de rehabilitación, tendrán prioridad en los programas que para el caso se establezcan.
 
 ###### ARTÍCULO 43.
 
@@ -395,23 +511,57 @@ La Secretaría apoyará a salvaguardar los recursos naturales en las áreas que 
 
 La Secretaría participará en la preservación del material genético de las especies vegetales que, por sus características especiales o por estar en peligro de extinción, deben particularmente protegerse.
 
-### CAPÍTULO III. DE LOS APOYOS AL PRODUCTOR
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE ABRIL DE 2026)</small>
+
+### CAPÍTULO III. DE LOS APOYOS A LAS PERSONAS PRODUCTORAS
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
 
 ###### ARTÍCULO 45.
 
-La Secretaría, en coordinación con organismos públicos y privados, promoverá programas de apoyo a los productores agrícolas, orientados principalmente hacia los que presenten esquemas de organización empresarial y/o proyectos productivos sustentables.
+La Secretaría, en coordinación con organismos públicos y privados, promoverá programas de apoyo a las personas productoras agrícolas, orientados principalmente hacia los que presenten esquemas de organización empresarial y/o proyectos productivos sustentables.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2026)</small>
+
+ARTÍCULO 45 BIS.- Los Instrumentos Financieros y de Apoyo se destinarán a los siguientes fines:
+
+I. Impulsar el aumento de la eficiencia y el rendimiento de la actividad agrícola en el Estado, mediante acciones que fortalezcan la capacidad productiva del sector;
+
+II. Diseñar e implementar mecanismos innovadores y funcionales de financiamiento que cuenten con esquemas de garantía para asegurar la recuperación de los recursos otorgados, así como con instrumentos que permitan la comercialización anticipada de la producción agrícola y agroindustrial;
+
+III. Proporcionar garantías adicionales a las personas productoras que así lo requieran, a fin de facilitar el cumplimiento de los compromisos crediticios adquiridos con intermediarios financieros autorizados, siempre que los recursos se destinen a la producción tecnificada de cultivos cíclicos con viabilidad económica;
+
+IV. Promover y fortalecer el crecimiento sostenido de las actividades agrícolas, mediante políticas y acciones orientadas a su consolidación y competitividad;
+
+V. Otorgar apoyos financieros temporales que permitan complementar el arranque de nuevas actividades agrícolas en el Estado, asegurando el cumplimiento de créditos revolventes y proporcionando los recursos necesarios para su incorporación efectiva al sector productivo;
+
+VI. Reforzar y consolidar los mecanismos financieros del Fondo de Apoyo Económico Emergente, a fin de garantizar su operatividad y capacidad de respuesta ante situaciones extraordinarias;
+
+VII. Impulsar acciones orientadas al ordenamiento y la estabilidad financiera de la actividad agrícola en el Estado, que contribuyan a su sostenibilidad económica;
+
+VIII. Gestionar y promover, ante instituciones financieras nacionales, la obtención de líneas de crédito específicas destinadas al fortalecimiento y desarrollo de las personas productoras del campo;
+
+IX. Fomentar e impulsar la implementación de proyectos orientados a la agricultura regenerativa, promoviendo prácticas productivas sostenibles que contribuyan a la conservación de los recursos naturales y al desarrollo del sector agrícola;
+
+X. Promover condiciones de acceso equitativo que favorezcan la participación de las mujeres en el sector agrícola, facilitando su incorporación a esquemas de financiamiento, apoyos productivos y mecanismos de comercialización; y
+
+XI. Impulsar acciones que favorezcan la transparencia y el seguimiento de los apoyos otorgados, procurando la generación de información que permita evaluar su impacto en el desarrollo del sector agrícola.
 
 ###### ARTÍCULO 46.
 
 La Secretaría institucionalizará premios, estímulos y reconocimientos a quienes por su dedicación y entrega, realicen acciones que contribuyan al desarrollo productivo de la entidad.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
+
 ###### ARTÍCULO 47.
 
-Los apoyos directos al productor podrán ser en efectivo, en especie o en servicios para la producción y comercialización agrícola.
+Los apoyos directos a las personas productoras podrán ser en efectivo, en especie o en servicios para la producción y comercialización agrícola.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
 
 ###### ARTÍCULO 48.
 
-Los apoyos a los productores podrán ser a través de programas de financiamiento, de programas de mejoramiento de la infraestructura productiva y social o de programas de investigación, desarrollo y aplicación de tecnología.
+Los apoyos a las personas productoras podrán ser a través de programas de financiamiento, de programas de mejoramiento de la infraestructura productiva y social o de programas de investigación, desarrollo y aplicación de tecnología.
 
 ###### ARTÍCULO 49.
 
@@ -429,9 +579,11 @@ Todas las personas sujetas a la presente ley, podrán hacer uso de la maquinaria
 
 ### CAPÍTULO V. DE LA COMERCIALIZACIÓN AGRÍCOLA
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
+
 ###### ARTÍCULO 51.
 
-La Secretaría de Desarrollo Rural apoyará la comercialización de vegetales, sus productos y subproductos, en el mercado local, regional, nacional e internacional, a través de la concertación entre él y los productores, industriales, comerciantes e instituciones bancarias privadas y oficiales relacionadas con el sector rural.
+La Secretaría de Desarrollo Agropecuario apoyará la comercialización de vegetales, sus productos y subproductos, en el mercado local, regional, nacional e internacional, a través de la concertación entre él y los productores, industriales, comerciantes e instituciones bancarias privadas y oficiales relacionadas con el sector rural.
 
 ###### ARTÍCULO 52.
 
@@ -445,9 +597,13 @@ III. Promover la celebración de convenios de producción, empaque, beneficio, t
 
 IV. Fomentar el uso de créditos preferenciales para la producción y comercialización de productos y subproductos agrícolas;
 
-V. Brindar asesoría técnica a los productores en las operaciones de acopio, selección, empaque y envío de sus productos y subproductos a los mercados de destino;
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2026)</small>
 
-VI. Impulsar el establecimiento de canales modernos de distribución y comercialización de productos y subproductos agrícolas, para mejorar la competitividad de los productores;
+V. Brindar asesoría técnica a las personas productoras en las operaciones de acopio, selección, empaque y envío de sus productos y subproductos a los mercados de destino;
+
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2026)</small>
+
+VI. Impulsar el establecimiento de canales modernos de distribución y comercialización de productos y subproductos agrícolas, para mejorar la competitividad de las personas productoras;
 
 VII. Difundir las normas de control sanitario, calidad y presentación de los productos y subproductos agrícolas;
 
@@ -455,27 +611,39 @@ VIII. Impulsar la aplicación de nuevas tecnologías en los procesos de producci
 
 IX. Fomentar la participación de capitales nacionales y extranjeros, en la producción y comercialización de productos y subproductos agrícolas; y
 
-X. Proporcionar asesoría en materia de comercio nacional e internacional, a los productores que lo requieran, así como difundir esta información en forma periódica en los Ayuntamientos y sedes de organizaciones de productores.
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2026)</small>
+
+X. Proporcionar asesoría en materia de comercio nacional e internacional, a las personas productoras que lo requieran, así como difundir esta información en forma periódica en los Ayuntamientos y sedes de organizaciones de personas productoras.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
 
 ###### ARTÍCULO 53.
 
-La Secretaría podrá registrar a los productores agrícolas y a sus organizaciones, para conocer la oferta de sus productos y subproductos, sus características y condiciones de venta, así como a los particulares y empresas almacenadoras e industrializadoras de especies vegetales, que deseen participar en la comercialización de las mismas.
+La Secretaría podrá registrar a las personas productoras agrícolas y a sus organizaciones, para conocer la oferta de sus productos y subproductos, sus características y condiciones de venta, así como a los particulares y empresas almacenadoras e industrializadoras de especies vegetales, que deseen participar en la comercialización de las mismas.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
 
 ###### ARTÍCULO 54.
 
-Las organizaciones de productores podrán participar en la elaboración de procesos para la comercialización de los productos y subproductos agrícolas.
+Las organizaciones de personas productoras podrán participar en la elaboración de procesos para la comercialización de los productos y subproductos agrícolas.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
 
 ###### ARTÍCULO 55.
 
-Las organizaciones de productores en su nivel de asociaciones, concurrirán con sus propios recursos, mediante un sistema de cuotas, para el financiamiento de la sanidad vegetal, la investigación agrícola y para su propio funcionamiento; y determinarán ellas mismas la distribución de dichas cuotas en estos tres rubros.
+Las organizaciones de personas productoras en su nivel de asociaciones, concurrirán con sus propios recursos, mediante un sistema de cuotas, para el financiamiento de la sanidad vegetal, la investigación agrícola y para su propio funcionamiento; y determinarán ellas mismas la distribución de dichas cuotas en estos tres rubros.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
 
 ###### ARTÍCULO 56.
 
-Las organizaciones de productores, en coordinación con las dependencias federales, estatales y municipales, manejarán procesos de difusión de precios, costos de almacenaje y transporte, financiamiento y volúmenes ofertados, que permitan al productor tomar su decisión de siembra, considerando las expectativas del mercado.
+Las organizaciones de personas productoras, en coordinación con las dependencias federales, estatales y municipales, manejarán procesos de difusión de precios, costos de almacenaje y transporte, financiamiento y volúmenes ofertados, que permitan al productor tomar su decisión de siembra, considerando las expectativas del mercado.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
 
 ###### ARTÍCULO 57.
 
-La Secretaría promoverá en coordinación con otras dependencias, organizaciones de productores, inversionistas industriales y comerciantes, el establecimiento de centros para el acopio, selección y empaque, beneficio, transporte y comercialización de productos y subproductos agrícolas.
+La Secretaría promoverá en coordinación con otras dependencias, organizaciones de personas productoras, inversionistas industriales y comerciantes, el establecimiento de centros para el acopio, selección y empaque, beneficio, transporte y comercialización de productos y subproductos agrícolas.
 
 ###### ARTÍCULO 58.
 
@@ -509,13 +677,17 @@ VIII. Proyectos de investigación para la multiplicación de material genético,
 
 IX. Los demás que, en la materia, sean de interés colectivo.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
+
 ###### ARTÍCULO 61.
 
-La Secretaría de Desarrollo Rural fomentará la integración de agrupaciones, que impulsen la investigación y desarrollo tecnológico del área agrícola.
+La Secretaría de Desarrollo Agropecuario fomentará la integración de agrupaciones, que impulsen la investigación y desarrollo tecnológico del área agrícola.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
 
 ###### ARTÍCULO 62.
 
-La Secretaría de Desarrollo Rural conservará y, en su caso, reestructurará aquellas agrupaciones de investigación agrícola que, por razones estratégicas, deban permanecer; relacionándolas con todas las organizaciones agrícolas constituidas legalmente.
+La Secretaría de Desarrollo Agropecuario conservará y, en su caso, reestructurará aquellas agrupaciones de investigación agrícola que, por razones estratégicas, deban permanecer; relacionándolas con todas las organizaciones agrícolas constituidas legalmente.
 
 ###### ARTÍCULO 63.
 
@@ -527,9 +699,11 @@ La Secretaría promoverá acciones de validación y demostración, con la capaci
 
 En materia agrícola sólo podrá impartir asesoría y asistencia técnica el personal capacitado y acreditado por la Secretaría, y los profesionales oficialmente acreditados por las instituciones competentes.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
+
 ###### ARTÍCULO 65.
 
-La Secretaría promoverá la participación y el registro de profesionales, individualmente o asociados, para su acreditación en las dependencias competentes y la elaboración de un directorio, para que los productores puedan contratar los servicios técnicos y de asesoría que requieran.
+La Secretaría promoverá la participación y el registro de profesionales, individualmente o asociados, para su acreditación en las dependencias competentes y la elaboración de un directorio, para que las personas productoras puedan contratar los servicios técnicos y de asesoría que requieran.
 
 ###### ARTÍCULO 66.
 
@@ -549,9 +723,17 @@ VI. La capacitación para el desarrollo agrícola;
 
 VII. La capacitación para la prevención y combate de plagas y enfermedades;
 
-VIII. La creación de empresas agrícolas y establecimiento de procesos de comercialización; y
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2026)</small>
 
-IX. El mejoramiento de la economía rural.
+VIII. La creación de empresas agrícolas y establecimiento de procesos de comercialización;
+
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2026)</small>
+
+IX. El mejoramiento de la economía rural; y
+
+> <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2026)</small>
+
+X. Diseñar y ejecutar programas para fortalecer el ejercicio efectivo y acceso de las mujeres a su derecho de propiedad, así como, al uso, goce y disfrute de la tierra y su participación en el desarrollo rural y en sus beneficios.
 
 ###### ARTÍCULO 67.
 
@@ -565,21 +747,29 @@ En caso de fenómenos naturales que pongan en riesgo la agricultura en el Estado
 
 El Ejecutivo del Estado promoverá, en coordinación con las instancias federales, otras entidades federativas, municipios, organizaciones sociales y particulares, la vigilancia y el control de aspectos fitosanitarios en la producción, industrialización, comercialización y movilización de vegetales, sus productos y subproductos.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
+
 ###### ARTÍCULO 69.
 
-La Secretaría, en coordinación con la Secretaría de Agricultura, Ganadería y Desarrollo Rural, el Comité de Fomento y Protección Pecuaria y el Comité Estatal de Sanidad Vegetal, realizarán las campañas fitosanitarias y apoyarán la operación de los puntos de inspección que estarán a cargo del Comité Estatal de Protección y Control Estadístico, Agropecuario, Forestal, Pesquero y Minero de Campeche, A. C.
+La Secretaría, en coordinación con el Comité de Fomento y Protección Pecuaria y el Comité Estatal de Sanidad Vegetal, realizarán las campañas fitosanitarias y apoyarán la operación de los puntos de inspección que estarán a cargo del Comité Estatal de Protección y Control Estadístico, Agropecuario, Forestal, Pesquero y Minero de Campeche, A. C.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
 
 ###### ARTÍCULO 70.
 
-La Secretaría, en coordinación con la Secretaría de Agricultura, Ganadería y Desarrollo Rural, elaborará y aplicará en forma permanente programas de capacitación técnica y acreditación en materia de sanidad vegetal y su normatividad.
+La Secretaría, elaborará y aplicará en forma permanente programas de capacitación técnica y acreditación en materia de sanidad vegetal y su normatividad.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
 
 ###### ARTÍCULO 71.
 
-La Secretaría, en coordinación con la Secretaría de Agricultura, Ganadería y Desarrollo Rural y otras instituciones relacionadas, operará un Banco de Información sobre aspectos fitosanitarios.
+La Secretaría, en coordinación con otras instituciones relacionadas, operará un Banco de Información sobre aspectos fitosanitarios.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
 
 ###### ARTÍCULO 72.
 
-La Secretaría, en coordinación con la Secretaría de Agricultura, Ganadería y Desarrollo Rural, vigilará que los viveros, huertos, empacadoras, almacenes, industrias, patios de concentración y transportes, cumplan con los requisitos fitosanitarios establecidos, con el objeto de evitar la contaminación, diseminación o dispersión de plagas o enfermedades.
+La Secretaría, vigilará que los viveros, huertos, empacadoras, almacenes, industrias, patios de concentración y transportes, cumplan con los requisitos fitosanitarios establecidos, con el objeto de evitar la contaminación, diseminación o dispersión de plagas o enfermedades.
 
 ###### ARTÍCULO 73.
 
@@ -589,13 +779,17 @@ La Secretaría, en coordinación con otras entidades federales y organizaciones 
 
 Para la seguridad y protección agrícola del Estado, la Secretaría organizará a los sectores productivos interesados en Comités Estatales, Regionales y Municipales de Protección Fitosanitaria, mismos que tendrán personalidad jurídica y patrimonio propio, y funcionarán como organismos auxiliares de coordinación y cooperación de la Secretaría.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
+
 ###### ARTÍCULO 75.
 
-La Secretaría, en coordinación con la Secretaría de Agricultura, Ganadería y Desarrollo Rural y su organismo de sanidad vegetal y del Comité Estatal de Protección Fitosanitaria, determinará la puesta en marcha de las Campañas Emergentes de Sanidad y Protección Agrícola que se requieran por afectación de cultivos en el Estado, así como las de interés nacional; y además determinará la obligatoriedad de adoptar las medidas que se establezcan, para evitar la propagación de plagas y enfermedades de las plantas en la Entidad.
+La Secretaría, en coordinación con su organismo de sanidad vegetal y del Comité Estatal de Protección Fitosanitaria, determinará la puesta en marcha de las Campañas Emergentes de Sanidad y Protección Agrícola que se requieran por afectación de cultivos en el Estado, así como las de interés nacional; y además determinará la obligatoriedad de adoptar las medidas que se establezcan, para evitar la propagación de plagas y enfermedades de las plantas en la Entidad.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
 
 ###### ARTÍCULO 76.
 
-La Secretaría, en coordinación con la Secretaría de Agricultura, Ganadería y Desarrollo Rural a través de su organismo de sanidad vegetal y del Comité Estatal de Protección Fitosanitaria, determinará los casos en que para el acarreo o movilización de vegetales, productos y subproductos de origen vegetal, así como de sus envases y medios de transporte, sea requisito indispensable contar con la documentación correspondiente.
+La Secretaría, a través de su organismo de sanidad vegetal y del Comité Estatal de Protección Fitosanitaria, determinará los casos en que para el acarreo o movilización de vegetales, productos y subproductos de origen vegetal, así como de sus envases y medios de transporte, sea requisito indispensable contar con la documentación correspondiente.
 
 ###### ARTÍCULO 77.
 
@@ -669,9 +863,11 @@ IV. Que las fábricas, bodegas y establecimientos comerciales de fertilizantes, 
 
 V. Evitar el manejo y comercialización de agroquímicos prohibidos o restringidos, por representar un riesgo inminente para la salud humana, vegetal y animal.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
+
 ###### ARTÍCULO 90.
 
-La Secretaría supervisará y vigilará las áreas dedicadas a las actividades agrícolas en las que se otorguen apoyos a productores, para verificar que los cultivos establecidos correspondan a los programados y aprobados por la propia dependencia.
+La Secretaría supervisará y vigilará las áreas dedicadas a las actividades agrícolas en las que se otorguen apoyos a las personas productoras para verificar que los cultivos establecidos correspondan a los programados y aprobados por la propia dependencia.
 
 ###### ARTÍCULO 91.
 
@@ -737,17 +933,23 @@ V. Decomiso de muebles y productos relacionado con la infracción; y
 
 VI. Destrucción de los productos que fueran causa original de la infracción.
 
-El importe de las multas será cubierto en las correspondiente (sic) oficinas recaudadoras de la Secretaría de Finanzas y Administración, aplicándose en su caso, el procedimiento económico coactivo que establece el Código Fiscal del Estado.
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
+
+El importe de las multas será cubierto en las correspondientes oficinas recaudadoras de la Secretaría de Administración, Finanzas y Planeación, aplicándose en su caso, el procedimiento económico coactivo que establece el Código Fiscal del Estado.
 
 En caso de movilización de vegetales, sus productos y subproductos, sujetos a las disposiciones de esta Ley, y los vehículos en que se transporten, serán retenidos hasta que el interesado cumpla con los requisitos necesarios.
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
+
 ###### ARTÍCULO 95.
 
-Para la calificación de la infracción e imposición de la respectiva sanción, se tomará en cuenta la gravedad de la misma, las condiciones económicas del infractor, el monto del beneficio obtenido o el daño causado y la reincidencia si la hubiere.
+Para la calificación de la infracción e imposición de la respectiva sanción, se tomará en cuenta la gravedad de la misma, las condiciones económicas de la persona infractora, el monto del beneficio obtenido o el daño causado y la reincidencia si la hubiere.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
 
 ###### ARTÍCULO 96.
 
-La calificación de la infracción e imposición de sanciones corresponderá a la Secretaría o a los Ayuntamientos, en la esfera de sus respectivas competencias, previa garantía de audiencia de los afectados.
+La calificación de la infracción e imposición de sanciones corresponderá a la Secretaría o a los Ayuntamientos, en la esfera de sus respectivas competencias, previa garantía de audiencia de las personas afectadas.
 
 ###### ARTÍCULO 97.
 
@@ -790,3 +992,11 @@ P.O. 22 DE JULIO DE 2020.
 PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal que se opongan al contenido del presente decreto.
+
+P.O. 7 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 209 POR EL QUE "SE REFORMAN LAS FRACCIONES I Y III DEL ARTÍCULO 1; 3; 4; 6; LAS FRACCIONES III, V, VI, VII, VIII, XXVII, XXXIII Y XXXIV DEL ARTÍCULO 7; LA DENOMINACIÓN DEL TÍTULO SEGUNDO PARA QUEDAR COMO "DE LA ORGANIZACIÓN DE LAS PERSONAS PRODUCTORAS AGRÍCOLAS", LOS ARTÍCULOS 8; 9; 10; 14; LAS FRACCIONES IV Y VII DEL ARTÍCULO 15; LOS ARTÍCULOS 16; 29; 30; LAS FRACCIONES I, III, IV, V Y VI DEL ARTÍCULO 32; LOS ARTÍCULOS 34; 36; 37; 39; 42; LA DENOMINACIÓN DEL CAPÍTULO III PARA QUEDAR COMO "DE LOS APOYOS A LAS PERSONAS PRODUCTORAS" DEL TÍTULO CUARTO; LOS ARTÍCULOS 45; 47; 48; 51; LAS FRACCIONES V, VI Y X DEL ARTÍCULO 52; LOS ARTÍCULOS 53; 54; 55; 56; 57; 61; 62; 65; LAS FRACCIONES VIII Y IX DEL ARTÍCULO 66; LOS ARTÍCULOS 69; 70; 71; 72; 75; 76; 90; EL PÁRRAFO SEGUNDO DEL ARTÍCULO 94; LOS ARTÍCULOS 95; 96 Y, SE ADICIONAN LOS ARTÍCULOS 2 BIS; LAS FRACCIONES XXXV, XXXVI, XXXVII, XXXVIII Y XXXIX AL ARTÍCULO 7; EL ARTÍCULO 45 BIS Y LA FRACCIÓN X AL ARTÍCULO 66, TODOS DE LA LEY AGRÍCOLA DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
