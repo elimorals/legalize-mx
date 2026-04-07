@@ -4,7 +4,7 @@ identifier: "CAM-ley-constitutiva-del-premio-al-merito-de-la-enfermeria-24667"
 country: "mx"
 rank: "ley"
 publication_date: "2002-05-03"
-last_updated: "2009-04-16"
+last_updated: "2026-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY CONSTITUTIVA DEL PREMIO "AL MERITO A LA ENFERMERIA CAMPECHANA"
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE ABRIL DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 3 de mayo de 2002.
 
@@ -39,93 +39,171 @@ NUMERO 140
 
 LEY CONSTITUTIVA DEL PREMIO "AL MERITO A LA ENFERMERIA CAMPECHANA"
 
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
+
 ###### Art. 1.
 
-El Premio al Mérito a la Enfermería Campechana es la más alta distinción que el Congreso del Estado de Campeche otorgará, para significar su reconocimiento, a los profesionales de la Enfermería que en la Entidad se distingan en el desempeño de esa profesión.
+El Premio al Mérito a la Enfermería Campechana es la más alta distinción que el H. Congreso del Estado de Campeche otorgará, para significar su reconocimiento, a los profesionales de la Enfermería que en la Entidad se distingan en el desempeño de esa profesión.
 
-> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
 
 ###### Art. 2.
 
-El premio se concederá en dos categorías y será entregado en sesión solemne, en la fecha que determine el Congreso del Estado. Una categoría premiará los méritos en el área académica y otra en la de servicios.
+El premio se concederá en tres categorías y será entregado en sesión solemne, en la fecha que determine el H. Congreso del Estado. Las categorías premiarán los méritos en las siguientes áreas:
+
+I. Académica;
+
+II. Servicios y Administración; y
+
+III. Comunitaria en Primer Nivel de Atención.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
 
 ###### Art. 3.
 
-El premio consistirá en una medalla, elaborada en un metal precioso, en cuyo anverso, en la parte central, ostentará el Escudo del Estado de Campeche circundado por las siguientes leyendas "H. Congreso del Estado de Campeche", en la parte superior, y "Al Mérito a la Enfermería Campechana", en la parte inferior; y en el reverso, en la parte central, el símbolo de la Enfermería, circundado por las siguientes leyendas "Día Internacional de la Enfermera", en la parte superior, y "12 de Mayo de (año a que corresponda la entrega)", en la parte inferior, como se aprecia en las figuras siguientes:
+El premio consistirá en una medalla, elaborada en un metal precioso, en cuyo anverso, en la parte central, ostentará el Escudo del Estado de Campeche circundado por la siguientes leyendas “H. Congreso del Estado de Campeche”, en la parte superior, y “Al Mérito a la Enfermería Campechana”, en la parte inferior; y en el reverso, en la parte central, el símbolo de la Enfermería, circundado por las siguientes leyendas “Día Internacional de la Enfermería”, en la parte superior, y “12 de Mayo de (año a que corresponda la entrega)”, en la parte inferior, como se aprecia en las figuras siguientes:
 
-> <small>N. DE E. VER IMAGENES EN EL P.O. DE 3 DE MAYO DE 2002, PAGINA 2.</small>
+> <small>[N. DE E. VÉASE IMÁGENES EN EL P.O. DE 7 DE ABRIL DE 2026, PÁGINA 1.]</small>
+
+Además de las medallas, se podrán entregar hasta tres reconocimientos honoríficos, uno por cada categoría, a los participantes que obtengan los puntajes subsecuentes más altos en la evaluación.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
 
 ###### Art. 4.
 
-La selección de la persona merecedora del premio estará a cargo de un Comité de Evaluación integrado por:
+La selección de las personas merecedoras de los premios estará a cargo de un Comité de Evaluación integrado por:
 
-I.- El presidente de la Comisión de Salud, Preservación del Medio Ambiente y Recursos Naturales del Congreso;
+I. La o el presidente de la Comisión de Salud del H. Congreso del Estado;
 
-II.- El secretario de la misma Comisión;
+II. La o el secretario de la misma Comisión;
 
-III.- Un representante de enfermería del Instituto de Servicios Descentralizados de Salud Pública del Estado de Campeche (INDESALUD);
+III. Un representante de Enfermería del Instituto de Servicios Descentralizados de Salud Pública del Estado de Campeche;
 
-IV.- El director de la Escuela Superior de Enfermería de la Universidad Autónoma de Campeche;
+IV. La o el director de la Facultad de Enfermería de la Universidad Autónoma de Campeche o quien esta designe, quien deberá contar con título profesional o certificado de especialización para el ejercicio de la enfermería;
 
-V.- El director de la Escuela Superior de Enfermería de la Universidad Autónoma del Carmen; y
+V. La o el director de la Facultad de Ciencias de la Salud de la Universidad Autónoma del Carmen o quien esta designe, quien deberá contar con título profesional o certificado de especialización para el ejercicio de la enfermería; y
 
-VI.- Un representante del Colegio de Enfermeras del Estado de Campeche, A.C.
+VI. La o el presidente, o en su caso la persona que designe, del Colegio de Enfermeras del Estado de Campeche, A.C.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
 
 ###### Art. 5.
 
-El presidente del Comité invitará a la Delegación Estatal del Instituto Mexicano del Seguro Social, en sus regímenes IMSS ordinario e IMSS Solidaridad, a la Delegación Estatal del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, a la Dirección del Hospital Naval Regional en el Estado y a la Dirección del Hospital General de Petróleos Mexicanos en el Estado, para que, si no tienen inconveniente alguno, nombren sendos representantes de enfermería ante el citado Comité.
+La o el presidente del Comité invitará a un representante estatal de enfermería de:
+
+I. El Instituto Mexicano del Seguro Social régimen Ordinario;
+
+II. El Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+
+III. El Hospital General Naval de Campeche;
+
+IV. El Instituto Mexicano del Seguro Social Bienestar Servicios Públicos de Salud;
+
+V. La Dirección del Hospital General de Petróleos Mexicanos en el Estado; y
+
+VI. Las demás autoridades, instituciones públicas o privadas que determine el Comité Evaluador.
+
+Cada representante deberá contar con título profesional o certificado de especialización para el ejercicio de la enfermería y facultades para toma de decisiones.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
 
 ###### Art. 6.
 
-El Comité de Evaluación será presidido por el presidente de la Comisión y como secretario técnico del mismo actuará el secretario de la misma Comisión; los demás miembros del Comité fungirán como vocales.
+El Comité de Evaluación será presidido por la o el presidente de la Comisión de Salud y como secretaria o secretario técnico del mismo actuará la secretaria o secretario de la misma Comisión; los demás miembros del Comité fungirán como vocales.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
 
 ###### Art. 7.
 
-Para la validez de las sesiones del Comité se requerirá de la presencia de la mitad más uno de sus integrantes. Las decisiones del Comité se adoptarán por mayoría de votos de los miembros presentes en la respectiva sesión. El presidente del Comité tendrá voto de calidad en caso de empate.
+Para la validez de las sesiones del Comité se requerirá de la presencia de la mitad más uno de sus integrantes. Las decisiones del Comité se adoptarán por mayoría de votos de los miembros presentes en la respectiva sesión.
+
+La o el presidente del Comité tendrá voto de calidad en caso de empate, considerando lo siguiente:
+
+I. Número de reconocimientos;
+
+II. Distinciones Institucionales;
+
+III. Aportaciones a la Población campechana;
+
+IV. Proyecto de mejora a la Enfermería; y
+
+V. Máximo nivel académico.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
 
 ###### Art. 8.
 
-El Comité de Evaluación, a moción de su presidente, se reunirá en la primera semana del mes de abril de cada año para convocar a las diversas agrupaciones de profesionales de la Enfermería existentes en el Estado a que presenten las propuestas de personas que consideren con los méritos suficientes para ser acreedoras al otorgamiento del premio. El Comité sesionará las veces que sean necesarias para hacer el análisis de las propuestas y emitir el acuerdo de otorgamiento del premio, con cuando menos tres días de anticipación a la fecha de entrega del mismo. El acuerdo del Comité será inapelable.
+El Comité de evaluación, a moción de su presidenta o presidenta (sic), se reunirá en la primera semana del mes de marzo de cada año y tendrán las siguientes facultades:
+
+I. Convocar a las diversas agrupaciones de profesionales de la Enfermería existentes en el Estado a presentar las propuestas de personas que consideren con los méritos suficientes para ser acreedoras al otorgamiento del premio;
+
+II. Recibir las propuestas de las y los candidatos al premio;
+
+III. Analizar y deliberar sobre los expedientes de las personas propuestas;
+
+IV. Establecer, mediante acuerdo fundado, los criterios específicos de evaluación que regirán en cada edición del premio, atendiendo a las categorías convocadas, los contextos actuales del ejercicio profesional y las mejores prácticas en materia de reconocimiento al mérito, considerando como mínimo los establecidos en el artículo 12 de esta ley; y
+
+V. Las demás que le confiera esta ley y la convocatoria respectiva.
+
+El Comité sesionará las veces que sean necesarias para hacer el análisis de las propuestas y emitir el acuerdo de otorgamiento del premio, con cuando menos tres días de anticipación a la fecha de entrega del mismo. El acuerdo del Comité será inapelable.
 
 ###### Art. 9.
 
 Las propuestas de candidatos al premio deberán presentarse ante el Comité de Evaluación dentro del plazo que al efecto señale la convocatoria que al efecto expida el Comité
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2026)</small>
+
 ###### Art. 10.
 
-En la convocatoria se señalarán los requisitos que deberán satisfacer los candidatos, entre los cuales siempre estarán los siguientes:
+En la convocatoria se señalarán los requisitos necesarios e indispensables que deberán satisfacer las y los candidatos, entre los cuales se encuentran los siguientes:
 
 I.- Ser campechano por nacimiento o tener no menos de cinco años de residencia en el Estado;
 
-II.- Poseer título profesional de Enfermera (o) o de Licenciatura en Enfermería; y (sic)
+> <small>(REFORMADA, P.O. 7 DE ABRIL DE 2026)</small>
 
-III.- Encontrarse en activo en alguna de las siguientes áreas:
+II.- Presentar Título y Cédula Profesional en Enfermería;
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 7 DE ABRIL DE 2026)</small>
+
+III.- Encontrarse activo en alguna de las siguientes áreas:
 
 a) Servicios;
 
-b) Docencia; o
+b) Académica;
 
-c) Administración.
+c) Administración; o
 
-> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2009)</small>
+c) (sic) Comunitario en Primer Nivel de Atención.
 
-IV.- En la categoría académica se solicitarán también los siguientes requisitos:
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 7 DE ABRIL DE 2026)</small>
+
+IV.- En la Categoría de Servicios y Administración, se deberán considerar adicionalmente los siguientes requisitos:
+
+a) Estar activo en el área de la categoría que se postula;
+
+b) Aportaciones relevantes a la Enfermería;
+
+c) Cursos, diplomas de actualización y máximo nivel académico.
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 7 DE ABRIL DE 2026)</small>
+
+V.- En la Categoría Académica, se deberán considerar adicionalmente los siguientes requisitos:
 
 a) Comprobar difusión del conocimiento o investigación;
 
 b) Publicaciones o investigaciones realizadas;
 
-c) Aportación científica a la disciplina; y
+c) Aportación científica a la disciplina.
 
-> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2009)</small>
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 7 DE ABRIL DE 2026)</small>
 
-V.- En la categoría de servicios y administración se deberán considerar adicionalmente los siguientes requisitos:
+VI.- En la Categoría Comunitaria en Primer Nivel de Atención, se deberán considerar adicionalmente los siguientes requisitos:
 
-a) Estar en activo en un área aplicativa;
+a) Estar activo en el área de la categoría que se postula;
 
-b) Aportaciones a la comunidad;
+b) Aportaciones relevantes a la comunidad; y
 
-c) Cursos de actualización.
+c) Cursos, diplomas de actualización y máximo nivel académico.
 
 ###### Art. 11.
 
@@ -135,9 +213,11 @@ Las propuestas de candidatos deberán provenir de la directiva de una agrupació
 
 Las propuestas deberán señalar cual es la categoría en la que se inscribirá a los candidatos. Los candidatos sólo podrán participar en una categoría.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2026)</small>
+
 ###### Art. 12.
 
-Los criterios que para evaluar las candidaturas deberá tener en consideración el Comité serán los siguientes:
+Los criterios que para evaluar las candidaturas deberá tener en consideración como mínimo el Comité serán los siguientes:
 
 I.- Responsabilidad y competencia;
 
@@ -170,3 +250,13 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, L.A. JOSE ANTONIO GONZALEZ CURI.- EL SE
 P.O. 16 DE ABRIL DE 2009.
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 208 POR EL QUE SE “SE REFORMAN LOS ARTÍCULOS 1; 2; 3; 4; 5; 6; 7; 8; EL PÁRRAFO PRIMERO, LAS FRACCIONES II, III, IV Y V DEL ARTÍCULO 10 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 12, Y SE ADICIONA LA FRACCIÓN VI AL ARTÍCULO 10, TODOS DE LA LEY CONSTITUTIVA DEL PREMIO “AL MÉRITO A LA ENFERMERÍA CAMPECHANA”.]
+
+PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Por esta única ocasión el Comité Evaluador se reunirá en la primera semana del mes de abril para emitir la convocatoria correspondiente del Premio “Al Mérito a la Enfermería Campechana” en su edición 2026.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía que se opongan al contenido del presente decreto.
