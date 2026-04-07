@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-18-de-remuneraciones-de-los-servidores-publicos-1321
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-14"
-last_updated: "2021-08-24"
+last_updated: "2026-04-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132135&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 18 DE REMUNERACIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 14 de diciembre de 2018.
 
@@ -107,69 +107,99 @@ Los servidores públicos están obligados a reportar a su superior jerárquico, 
 
 SE EXCEPTÚA DE ESTA OBLIGACIÓN AL PERSONAL DE BASE Y SUPERNUMERARIO DE LAS ENTIDADES PÚBLICAS QUE NO TENGA PUESTO DE MANDO MEDIO O SUPERIOR.
 
-### Capítulo II. De la determinación de las remuneraciones
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE ABRIL DE 2026)</small>
 
-(NOTA: EL 20 DE ENERO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 7/2019, DECLARÓ FUNDADA LA OMISIÓN LEGISLATIVA DE ESTE ARTÍCULO Y SE CONDENA AL CONGRESO DEL ESTADO PARA QUE, A MÁS TARDAR EN EL PERÍODO ORDINARIO DE SESIONES, SIGUIENTE A LA NOTIFICACIÓN DE ESTA SENTENCIA, LEGISLE RESPECTO DE LAS DEFICIENCIAS LEGISLATIVAS ADVERTIDAS EN LOS ARTÍCULOS 6, 7 Y 8 DE LA CITADA LEY NÚMERO 18 DE REMUNERACIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUERRERO, LA CUAL SURTIÓ EFECTOS EL 17 DE FEBRERO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+### Capítulo I (SIC)
+
+Bases y criterios objetivos para la determinación de las remuneraciones.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
 
 ###### Artículo 6.
 
-La remuneración de los servidores públicos del Estado se determina de acuerdo con las siguientes bases:
+La remuneración de las personas servidoras públicas del Estado de Guerrero, se determinará con sujeción a los principios de adecuación, irrenunciabilidad, proporcionalidad, equidad, igualdad, transparencia, desempeño, fiscalización y rendición de cuentas, conforme a las bases siguientes:
 
-I. Ningún servidor público recibe una remuneración o retribución por el desempeño de su función, empleo, cargo o comisión mayor a la establecida para el Presidente de la República en el Presupuesto de Egresos del Estado (sic).
+I. Las personas servidoras públicas recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, proporcional al nivel de responsabilidad y a las funciones encomendadas, en los términos del artículo 127 de la Constitución Política de los Estados Unidos Mexicanos y de esta Ley.
 
-II. Ningún servidor público puede tener una remuneración igual o mayor que su superior jerárquico, salvo que el excedente sea consecuencia de:
+II. Ninguna persona servidora pública podrá recibir una remuneración mayor a la establecida para el Presidente de la República en el Presupuesto de Egresos de la Federación, considerando la totalidad de las percepciones en efectivo y en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viajes en actividades oficiales.
 
-a) El desempeño de varios puestos, siempre que el servidor público cuente con el dictamen de compatibilidad correspondiente con antelación al desempeño del segundo o subsecuentes puestos, ya sean federales o locales;
+III. La remuneración de la persona titular del Poder Ejecutivo del Estado se determinará como el referente máximo local para la fijación de las remuneraciones de las demás personas servidoras públicas de la entidad, con base en:
 
-b) El contrato colectivo o las condiciones generales de trabajo;
+a) La remuneración total del Presidente de la República, monetizada en su integridad;
 
-c) Un trabajo técnico calificado, considerado así cuando su desempeño exige una preparación, formación y conocimiento resultado de los avances de la ciencia o la tecnología o porque corresponde en lo específico a determinadas herramientas tecnológicas, instrumentos, técnicas o aptitud física y requiere para su ejecución o realización de una certificación, habilitación o aptitud jurídica otorgada por un ente calificado, institución técnica, profesional o autoridad competente, o;
+b) El nivel de gobierno y el ámbito territorial en que ejerce sus funciones;
 
-d) Un trabajo de alta especialización, determinado así cuando las funciones conferidas resultan de determinadas facultades previstas en un ordenamiento jurídico y exige para su desempeño de una experiencia determinada, de la acreditación de competencias o de capacidades específicas o de cumplir con un determinado perfil y, cuando corresponda, de satisfacer evaluaciones dentro de un procedimiento de selección o promoción en el marco de un sistema de carrera establecido por ley.
+c) La responsabilidad política, administrativa y jurídica inherente al cargo;
 
-Bajo las anteriores excepciones, la suma de las retribuciones no excede la mitad de la remuneración establecida para el Presidente de la República en el Presupuesto de Egresos de la Federación.
+d) El análisis comparativo con remuneraciones de cargos equivalentes en otras entidades federativas y en el ámbito federal; y
 
-III. En ningún caso se cubre una remuneración con efectos retroactivos a la fecha de su autorización, salvo resolución jurisdiccional.
+e) Los criterios técnicos establecidos en esta Ley y en los lineamientos que emita el Comité Técnico de Remuneraciones del Estado.
 
-Las contribuciones causadas por concepto de las remuneraciones a cargo de los servidores públicos se retienen y enteran a las autoridades fiscales respectivas de conformidad con la legislación aplicable y no son pagadas por los órganos públicos en calidad de prestación, percepción extraordinaria u otro concepto.
+IV. Para determinar las bandas salariales y las remuneraciones específicas de las personas servidoras públicas, se deberán considerar, cuando menos, los siguientes criterios objetivos:
 
-IV. Las unidades de administración de los órganos públicos a que se refiere el artículo 2 de esta Ley, dictaminan la compatibilidad entre funciones, empleos, cargos o comisiones conforme a lo siguiente:
+a) Funciones sustantivas y nivel de responsabilidad asociado al puesto;
 
-a) Toda persona, previo a su contratación en un ente público, manifiesta por escrito y bajo protesta de decir verdad que no recibe remuneración alguna por parte de otro ente público, con cargo a recursos federales, sea nivel federal, estatal, de la Ciudad de México, Federal o municipal. Si la recibe, formula solicitud de compatibilidad al propio ente en la que señala la función, empleo, cargo o comisión que pretende le sea conferido, así como la que desempeña en otros entes públicos; las remuneraciones que percibe y las jornadas laborales.
+b) Grado de especialización y formación profesional requerida;
 
-La compatibilidad se determina incluso cuando involucra la formalización de un contrato por honorarios para la realización de actividades y funciones equivalentes a las que desempeñe el personal contratado en plazas presupuestarias, o cuando la persona por contratar lo ha formalizado previamente en diverso ente público;
+c) Riesgo asociado al desempeño de las funciones;
 
-b) Dictaminada la incompatibilidad, el servidor público opta por el puesto que convenga a sus intereses, y
+d) Carga de trabajo y complejidad técnica de las tareas;
 
-c) El dictamen de compatibilidad de puestos es dado a conocer al área de administración del ente público en que el interesado presta servicios, para los efectos a que haya lugar.
+e) Necesidad de independencia y de minimizar riesgos de captura por intereses políticos o económicos;
 
-Cuando se acredita que un servidor público declaró con falsedad respecto de la información a que se refiere este artículo para obtener un dictamen de compatibilidad favorable a sus intereses, queda sin efectos el nombramiento o vínculo laboral conforme a las disposiciones aplicables. Lo anterior, sin perjuicio de las acciones legales correspondientes.
+f) Costo de vida real en el lugar de adscripción del puesto;
 
-La falta de dictamen se subsana mediante el mismo procedimiento descrito, incluyendo la necesidad de optar por uno u otro cargo cuando se determina la incompatibilidad.
+g) Índice inflacionario y condiciones macroeconómicas;
 
-### Capítulo III. De la presupuestación de las remuneraciones
+h) Costo de oportunidad de desempeñar el cargo público frente a posiciones equivalentes en el sector privado, cuando ello proceda; e
 
-(NOTA: EL 20 DE ENERO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 7/2019, DECLARÓ FUNDADA LA OMISIÓN LEGISLATIVA DE ESTE ARTÍCULO Y SE CONDENA AL CONGRESO DEL ESTADO PARA QUE, A MÁS TARDAR EN EL PERÍODO ORDINARIO DE SESIONES, SIGUIENTE A LA NOTIFICACIÓN DE ESTA SENTENCIA, LEGISLE RESPECTO DE LAS DEFICIENCIAS LEGISLATIVAS ADVERTIDAS EN LOS ARTÍCULOS 6, 7 Y 8 DE LA CITADA LEY NÚMERO 18 DE REMUNERACIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUERRERO, LA CUAL SURTIÓ EFECTOS EL 17 DE FEBRERO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+i) Posibilidad de obtener otros ingresos compatibles con el cargo sin conflicto de interés, en los términos de la legislación aplicable.
+
+V. Ninguna persona servidora pública podrá tener una remuneración igual o mayor que su superior jerárquico, salvo en los supuestos siguientes, que deberán justificarse mediante dictamen técnico emitido por el Comité Técnico de Remuneraciones del Estado:
+
+a) Que el excedente sea consecuencia del desempeño de dos o más empleos públicos compatibles, previo dictamen de compatibilidad de jornada y funciones;
+
+b) Que la remuneración adicional derive de las condiciones generales de trabajo o de contratos colectivos, celebrados conforme a la legislación aplicable, debidamente registrados y publicados;
+
+c) Que la remuneración corresponda a un trabajo técnico calificado, cuyo desempeño exija certificaciones, habilitaciones o acreditaciones profesionales específicas, reconocidas por autoridad competente o por organismos especializados;
+
+d) Que obedezca a un trabajo de alta especialización, sustentado en experiencia comprobable, competencias certificadas y procesos de selección o carrera profesional regulados en la ley.
+
+En todos los casos anteriores, la suma de las retribuciones no podrá exceder la mitad de la remuneración establecida para la persona titular del Poder Ejecutivo Federal, en el presupuesto correspondiente.
+
+VI. Las remuneraciones serán revisadas de manera periódica con base en estudios técnicos actualizados, a fin de garantizar su adecuación y proporcionalidad, así como la sostenibilidad financiera en términos de la legislación de disciplina financiera aplicable.
+
+VII. Para los efectos de este artículo, funcionará un Comité Técnico de Remuneraciones del Estado de Guerrero, de carácter permanente, imparcial y con autonomía técnica en el ejercicio de sus funciones, integrado por:
+
+a) Personas servidoras públicas de las áreas de finanzas públicas, planeación y servicio civil de carrera; y
+
+b) Personas expertas independientes en economía, administración pública, derecho y recursos humanos, seleccionadas conforme a los procedimientos que establezca esta Ley.
+
+El Comité emitirá lineamientos, metodologías y fórmulas de cálculo para la determinación de remuneraciones y bandas salariales, mismos que serán de observancia obligatoria para los entes públicos de la entidad.
+
+No forman parte de la remuneración las jubilaciones, pensiones, haberes de retiro, liquidaciones por servicios prestados, préstamos, créditos ni demás prestaciones de naturaleza análoga que perciban las personas servidoras públicas, las cuales únicamente podrán concederse y cubrirse cuando estén expresamente previstas en ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo aplicables. En todo caso, dichos conceptos deberán registrarse y reportarse en la cuenta pública correspondiente, sin que se computen para efectos de los límites y topes remunerativos establecidos en esta Ley y en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE ABRIL DE 2026)</small>
+
+### Capitulo II (SIC). Tabuladores y estructura del sistema de remuneraciones
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
 
 ###### Artículo 7.
 
-La remuneración de los servidores públicos se determina anualmente en el Presupuesto de Egresos del Estado o del presupuesto de egresos de los Municipios, para el caso de los entes públicos que no ejerzan recursos aprobados en éste, en el presupuesto que corresponda conforme a la ley aplicable, mismos que contendrán:
+La remuneración de las personas servidoras públicas se determinará anualmente en el Presupuesto de Egresos del Estado y, en su caso, en los presupuestos de egresos de los municipios y demás entes públicos, con base en los estudios técnicos y lineamientos emitidos por el Comité Técnico de Remuneraciones del Estado, y deberá observar lo siguiente:
 
-I Los tabuladores de remuneraciones mensuales, conforme a lo siguiente:
+I. El Presupuesto de Egresos del Estado contendrá, de manera obligatoria:
 
-a) Los límites mínimos y máximos de percepciones ordinarias netas mensuales para los servidores públicos, las cuales incluyen la suma de la totalidad de pagos fijos, en efectivo y en especie, comprendiendo los conceptos que a continuación se señalan con sus respectivos montos, una vez realizada la retención de contribuciones correspondiente:
+a) Tabuladores de remuneraciones mensuales, estructurados por grupos, niveles y rangos, que reflejen las bandas salariales definidas con base en los criterios objetivos previstos en el artículo 6 de esta Ley;
 
-I. Los montos correspondientes a sueldos y salarios, y;
+b) La especificación de los límites mínimos y máximos de las percepciones ordinarias netas mensuales, desglosando los conceptos de sueldos, salarios y prestaciones fijas, una vez efectuadas las retenciones correspondientes;
 
-II. Los montos correspondientes a las prestaciones.
+c) La identificación de las percepciones extraordinarias netas mensuales que, conforme a la legislación aplicable, puedan corresponder a determinadas personas servidoras públicas, precisando su naturaleza, periodicidad, condiciones para su otorgamiento y el órgano competente para autorizarlas;
 
-Los montos así presentados no consideran los incrementos salariales que, en su caso, se autoricen para el personal operativo, de base y confianza, y categorías, para el ejercicio fiscal respectivo ni las repercusiones que se deriven de la aplicación de las disposiciones de carácter fiscal, y;
+d) La remuneración total anual de la persona titular del Poder Ejecutivo del Estado, desglosada por concepto y con referencia explícita al porcentaje que representa respecto de la remuneración total anual del Presidente de la República; y
 
-b) Los límites mínimos y máximos de percepciones extraordinarias netas mensuales que perciban los servidores públicos que, conforme a las disposiciones aplicables, tengan derecho a percibirlas.
-
-II La remuneración total anual del Gobernador del Estado para el ejercicio fiscal correspondiente, desglosada por cada concepto que la comprenda.
-
-III La remuneración total anual de los titulares de los entes públicos que a continuación se indican y los tabuladores correspondientes a las percepciones ordinarias y extraordinarias de los servidores públicos de éstos, conforme a lo dispuesto en la fracción I de este artículo:
+e) La remuneración total anual de los entes públicos que a continuación se indican y los tabuladores correspondientes a las percepciones ordinarias y extraordinarias de los servidores públicos de estos, y demás entes públicos estatales, así como los tabuladores correspondientes de su personal:
 
 a) Congreso del Estado;
 
@@ -177,9 +207,7 @@ b) Auditoría Superior del Estado;
 
 c) Tribunal Superior de Justicia del Estado;
 
-d) Consejo de la Judicatura del Estado;
-
-e) Fiscalía General del Estado;
+d) Consejo de la Judicatura del Estado; e) Fiscalía General del Estado; (sic)
 
 f) Tribunal de Justicia Administrativa;
 
@@ -199,27 +227,75 @@ m) Cualquier otro ente público, de carácter estatal, descentralizado, autónom
 
 n) Los Ayuntamientos, la administración municipal y paramunicipal, sus fideicomisos públicos, instituciones y cualquier otro ente público.
 
-IV La remuneración total anual de los titulares de las instituciones del Estado y de los fidecomisos públicos o afectos al Presupuesto de Egresos del Estado, y los tabuladores correspondientes a las percepciones ordinarias y extraordinarias de los servidores públicos de tales ejecutores de gasto, conforme a lo dispuesto en la fracción I de este artículo.
+II. Los tabuladores deberán:
 
-(NOTA: EL 20 DE ENERO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VII Y VIII, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y SEXTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 7/2019, DECLARÓ FUNDADA LA OMISIÓN LEGISLATIVA DE ESTE ARTÍCULO Y SE CONDENA AL CONGRESO DEL ESTADO PARA QUE, A MÁS TARDAR EN EL PERÍODO ORDINARIO DE SESIONES, SIGUIENTE A LA NOTIFICACIÓN DE ESTA SENTENCIA, LEGISLE RESPECTO DE LAS DEFICIENCIAS LEGISLATIVAS ADVERTIDAS EN LOS ARTÍCULOS 6, 7 Y 8 DE LA CITADA LEY NÚMERO 18 DE REMUNERACIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUERRERO, LA CUAL SURTIÓ EFECTOS EL 17 DE FEBRERO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
+a) Estar sustentados en estudios técnicos elaborados por las unidades de administración de cada ente público, con base en la metodología aprobada por el Comité Técnico de Remuneraciones;
+
+b) Incorporar la descripción del puesto tipo al que corresponde cada plaza, el nivel de responsabilidad, las funciones esenciales, el perfil de ingreso y la carga de trabajo estimada;
+
+c) Mantener la correspondencia jerárquica entre niveles, de manera que a mayor responsabilidad, complejidad y especialización, corresponda una mayor remuneración, dentro de los límites previstos en el artículo 127 constitucional; y
+
+d) Precisar la diferencia entre componentes fijos (percepciones ordinarias) y componentes variables (percepciones extraordinarias), así como los supuestos en que estos últimos pueden ser autorizados.
+
+III. En la aprobación del Presupuesto de Egresos del Estado, el Congreso deberá pronunciarse expresamente sobre:
+
+a) La congruencia de los tabuladores con los criterios objetivos de la presente Ley;
+
+b) El respeto al tope máximo derivado de la remuneración total anual del Presidente de la República; y
+
+c) La sostenibilidad financiera de las remuneraciones, a la luz de la legislación de disciplina financiera y de responsabilidad hacendaria aplicable.
+
+IV. Los tabuladores de remuneraciones y las remuneraciones totales anuales de las personas titulares de los entes públicos serán información pública, deberán publicarse en el Periódico Oficial del Gobierno del Estado y difundirse en los portales de transparencia correspondientes, con actualización anual y en formatos abiertos y accesibles.
+
+V. En el ámbito municipal, los ayuntamientos deberán elaborar y aprobar sus tabuladores y presupuestos de remuneraciones sujetándose, en lo conducente, a los criterios y metodologías de esta Ley y de los lineamientos del Comité Técnico de Remuneraciones, sin perjuicio de su autonomía hacendaria, respetando siempre los límites y principios establecidos en la Constitución Federal y en la Constitución del Estado.
+
+> <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2026)</small>
+
+Procedimiento para la programación y presupuestación de remuneraciones
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2026)</small>
 
 ###### Artículo 8.
 
-Durante el procedimiento de programación y presupuestación establecido en la Ley de Presupuesto de Egresos y la Contabilidad Gubernamental del Estado, los poderes Legislativo, Ejecutivo y Judicial, así como los entes con autonomía, técnicos o independencia reconocida por la Constitución Local, deben incluir dentro de sus proyectos de presupuesto los tabuladores de las remuneraciones que se propone perciban los servidores públicos que prestan sus servicios en cada ejecutor de gasto, de conformidad con el manual de percepciones de los servidores públicos que emita la Secretaría de Finanzas y Administración y la Secretaría de Contraloría y Transparencia Gubernamental, en el ámbito de sus respectivas competencias, así como los Poderes Legislativo y Judicial y los entes autónomos, por conducto de sus respectivas unidades de administración u órganos de gobierno.
+Durante el procedimiento de programación y presupuestación establecido en la legislación estatal en materia de presupuesto y contabilidad gubernamental, los Poderes Legislativo, Ejecutivo y Judicial, los organismos constitucionales autónomos, los entes públicos con autonomía técnica o de gestión y los municipios deberán observar, al integrar sus proyectos de presupuesto, lo siguiente:
 
-Las reglas establecidas en los manuales a que se refiere el artículo anterior, así como los tabuladores contenidos en los proyectos de presupuesto de cada ente, se apegan estrictamente a las disposiciones de esta Ley.
+I. Incluirán los tabuladores de remuneraciones del personal a su servicio, sustentados en:
 
-Lo propio se hará (sic) el ámbito municipal.
+a) Un estudio técnico de valoración de puestos, que considere los criterios del artículo 6 de esta Ley;
 
-Las remuneraciones siempre deben estar desglosadas en las percepciones ordinarias y, en su caso, las extraordinarias por cada concepto en que éstas sean otorgadas, considerando que:
+b) La clasificación de plazas por grupos, niveles y rangos;
 
-a) Las percepciones ordinarias incluyen la totalidad de los elementos fijos de la remuneración.
+c) El análisis del impacto presupuestario y de sostenibilidad financiera a corto y mediano plazos.
 
-b) Las percepciones extraordinarias consideran los elementos variables de dicha remuneración, la cual sólo podrá cubrirse conforme a los requisitos y con la periodicidad establecidos en las disposiciones aplicables.
+II. Los proyectos de tabuladores y de remuneraciones serán:
 
-c) Las contribuciones a cargo de los servidores públicos que se causan por las percepciones señaladas en los dos incisos anteriores, forman parte de su remuneración.
+a) Aprobados por el órgano de gobierno competente de cada ente público; y
 
-Los entes públicos estatales que no erogan recursos del Presupuesto de Egresos de la Federación observan, en lo conducente, las mismas reglas contenidas en el presente artículo en la elaboración de sus respectivos presupuestos.
+b) Remitidos a la Secretaría de Finanzas y Administración y al Comité Técnico de Remuneraciones del Estado, para la emisión de opinión técnica en lo relativo a su congruencia con los criterios y lineamientos de esta Ley.
+
+III. La Secretaría de Finanzas y Administración integrará, con base en dichas opiniones técnicas, el proyecto de Presupuesto de Egresos del Estado, asegurando que:
+
+a) Ninguna remuneración exceda los límites constitucionales;
+
+b) Se respete la proporcionalidad entre niveles y grupos de puestos; y
+
+c) Las percepciones extraordinarias se sujeten a reglas claras, objetivas, verificables y compatibles con la disciplina financiera.
+
+IV. Las remuneraciones deberán estar desglosadas en:
+
+a) Percepciones ordinarias: todos los elementos fijos de la remuneración, de pago regular y permanente; y
+
+b) Percepciones extraordinarias: aquellos elementos variables que dependan del cumplimiento de metas, resultados u otros supuestos objetivos, conforme a la normatividad aplicable, sin que puedan tener carácter general ni permanente.
+
+V. Cualquier modificación a las remuneraciones durante el ejercicio fiscal:
+
+a) Deberá fundarse en la metodología y criterios técnicos de esta Ley;
+
+b) Requerirá, en su caso, la opinión del Comité Técnico de Remuneraciones del Estado; y
+
+c) No podrá implicar aumento o disminución arbitraria que contravenga los principios de adecuación, proporcionalidad, disciplina financiera y responsabilidad hacendaria.
+
+VI. Las personas servidoras públicas tendrán derecho a conocer, de manera clara y accesible, la metodología aplicada para la fijación de su remuneración, así como los criterios que sustentan su ubicación en determinada banda salarial.
 
 ###### Artículo 9.
 
@@ -408,3 +484,15 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Comuníquese el presente Decreto al titular del Poder Ejecutivo del Estado para los efectos legales procedentes.
 
 TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado, en la página web del Congreso del Estado y divúlguese en los medios de comunicación.
+
+P.O. 7 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 493 POR EL QUE SE REFORMAN LOS ARTÍCULOS 6, 7 Y 8 DE LA LEY NÚMERO 18 DE REMUNERACIONES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal, para su conocimiento y para los efectos legales conducentes.
+
+TERCERO. Notifíquese el presente Dictamen a la Sección de Trámite de Controversias Constitucionales y de Acciones de Constitucionalidad de la Suprema Corte de Justicia de la Nación, para dar cumplimiento al considerando VIII y el punto resolutivo sexto de la sentencia de Acción de Inconstitucionalidad 07/2019.
+
+CUARTO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página oficial del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
