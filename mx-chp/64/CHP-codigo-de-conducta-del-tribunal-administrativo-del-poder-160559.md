@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-conducta-del-tribunal-administrativo-del-poder-160559
 country: "mx"
 rank: "codigo"
 publication_date: "2022-10-12"
-last_updated: "2022-10-12"
+last_updated: "2026-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=160559&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # CODIGO DE CONDUCTA DEL TRIBUNAL ADMINISTRATIVO DEL PODER JUDICIAL DEL ESTADO CHIAPAS (SIC)
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE CHIAPAS, PUBLICADO EN EL P.O. DE 8 DE ABRIL DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL TRIBUNAL ADMINISTRATIVO DEL PODER JUDICIAL DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2026 (ABROGADO).
 
 Código publicado en el Número 248 del Periódico Oficial del Estado de Chiapas, el miércoles 12 de octubre de 2022.
 
@@ -262,3 +264,21 @@ QUINTO. Publíquese en el Periódico Oficial del Estado de Chiapas y en la pági
 Dado en el salón del Pleno del Tribunal Administrativo del Poder Judicial del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los 28 días del mes de septiembre del año 2022.
 
 Magistrada Presidenta Susana Sarmiento López, Magistrada Mónica de Jesús Trejo Velázquez y Magistrado Víctor Marcelo Ruiz Reyna, con la presencia de la Secretaria General de Acuerdos y del Pleno Fabiola Antón Zorrilla, quien da fe.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE CHIAPAS”.]
+
+PRIMERO. El presente Código de Conducta entrará en vigor el día siguiente de su publicación en el Periódico Oficial.
+
+SEGUNDO.- Se abroga el Código de Conducta del Tribunal Administrativo del Poder Judicial del Estado de Chiapas, publicado en el Periódico Oficial número 248, de fecha 12 de octubre del 2022.
+
+TECERO (SIC). El Comité de Ética y el Órgano Interno de Control deberán promover la suscripción de la carta compromiso de las personas servidoras públicas del Tribunal de Justicia Administrativa del Estado de Chiapas.
+
+CUARTO.- En los casos de cualquier controversia derivada de la interpretación del presente Código, así como lo no previsto, será resuelto por la Junta de Gobierno y Administración del Tribunal de Justicia Administrativa del Estado de Chiapas.
+
+QUINTO.- En cumplimiento a lo dispuesto por el artículo 13, fracción V de la Ley Estatal del Periódico Oficial, publíquese el presente Código de Conducta del Tribunal de Justicia Administrativa del Estado de Chiapas en el Periódico Oficial.
+
+SEXTO.- Una vez publicado en el Periódico Oficial, hágase del conocimiento de las personas servidoras públicas del Tribunal de Justicia Administrativa del Estado de Chiapas, por conducto de la Secretaría General de Acuerdos y del Pleno, el presente Código de Conducta del Tribunal de Justicia Administrativa del Estado de Chiapas; y publíquese en la página oficial de internet de este Tribunal.
