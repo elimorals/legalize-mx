@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2026-03-06"
+last_updated: "2026-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2026.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 6 DE MARZO DE 2026 NO APLICA AL ARTICULADO DEL DECRETO PUBLICADO EN EL P.O. DE 3 DE MARZO DE 2026.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2026.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -189,7 +187,13 @@ Las leyes garantizarán que las consultas populares sean libres, auténticas y d
 
 Las resoluciones del Instituto Electoral de Tamaulipas podrán ser impugnadas en los términos de lo dispuesto en las fracciones IV y V del artículo 20 de esta Constitución y las leyes aplicables; y
 
-V. Ejercer en materias políticas el derecho de petición.
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2026)</small>
+
+V. Formular peticiones por escrito, de manera pacífica y respetuosa, ante cualquier autoridad en la entidad.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN V, P.O. 8 DE ABRIL DE 2026.]</small>
+
+Toda autoridad está obligada a responder por escrito, de manera fundada y motivada, dentro de un plazo cierto y razonable. Las leyes determinarán los medios y procedimientos administrativos y jurisdiccionales para garantizar la exigibilidad plena de este derecho.
 
 ###### Art. 8o.
 
@@ -339,13 +343,17 @@ I. La inviolabilidad de la propiedad, la cual no podrá ser ocupada sino en virt
 
 II. La libertad de asociarse o reunirse con cualquier objeto lícito, pero en asuntos políticos es exclusiva de los ciudadanos tamaulipecos en los términos que establece la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA, P.O. 12 DE MARZO DE 2025)</small>
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2026)</small>
 
-III. La igualdad sustantiva en el acceso a derechos y oportunidades. Además, se garantiza el derecho a vivir una vida libre de violencias, por lo que el Estado tiene deberes reforzados de protección con mujeres, adolescentes, niñas y niños;
+III. La igualdad sustantiva en el acceso a derechos y oportunidades. Ésta protegerá la organización y el desarrollo de las familias. El Estado garantizará el goce y ejercicio del derecho a la igualdad sustantiva de las mujeres, adolescentes, niñas y niños. Toda persona tiene derecho a vivir una vida libre de violencias, el Estado tiene deberes reforzados de protección con las mujeres, adolescentes, niñas y niños. La Ley definirá las bases y modalidades para garantizar su realización de conformidad con lo previsto en los artículos 21, párrafo noveno y 73, fracción XXI, penúltimo párrafo de la Constitución Política de los Estados Unidos Mexicanos;
 
 > <small>(REFORMADA, P.O. 4 DE MARZO DE 2014)</small>
 
 IV. El derecho a un medio ambiente adecuado para su desarrollo y bienestar y al uso racional de los recursos naturales susceptibles de apropiación con base en el objetivo del desarrollo sustentable, en los términos que fijen las leyes;
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2026)</small>
+
+IV Bis. El derecho de toda persona a acceder a una vivienda adecuada. La Ley establecerá los instrumentos, mecanismos y apoyos necesarios para alcanzar este objetivo.
 
 > <small>(REFORMADA, P.O. 27 DE ABRIL DE 2016)</small>
 
@@ -513,9 +521,9 @@ El Ministerio Público podrá considerar criterios de oportunidad para el ejerci
 
 El Sistema Estatal de Seguridad Pública se organizará en los términos del Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, la ley general de la materia, las disposiciones del Sistema Nacional de Seguridad Pública, y las siguientes bases de coordinación:
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2026)</small>
 
-I. La seguridad pública es una función a cargo del Estado y de los Municipios, que comprende la prevención de los delitos; la investigación y persecución para hacerla efectiva, así como la sanción de las infracciones administrativas, dentro de sus respectivas competencias establecidas en esta Constitución y desarrolladas en la ley. La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en el orden jurídico nacional. El Congreso establecerá en el Presupuesto de Egresos las partidas presupuestales correspondientes a las instituciones de seguridad pública del Estado, las cuales no podrán ser menores a las aprobadas en el ejercicio anual inmediato anterior.
+I. La seguridad pública es una función del Estado y los Municipios, cuyos fines son salvaguardar la vida, las libertades, la integridad y el patrimonio de las personas, que garantiza los deberes reforzados de protección del Estado con las mujeres, adolescentes, niñas y niños; así como contribuir a la generación y preservación del orden público y la paz social, de conformidad con lo previsto en esta Constitución y las leyes en la materia. La seguridad pública comprende la prevención de los delitos; la investigación y persecución para hacerla efectiva, así como la sanción de las infracciones administrativas, dentro de sus respectivas competencias establecidas en esta Constitución y desarrolladas en la ley. La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo y honradez, así como por la perspectiva de género y el respeto a los derechos humanos reconocidos en el orden jurídico nacional. El Congreso establecerá en el Presupuesto de Egresos las partidas presupuestales correspondientes a las instituciones de seguridad pública del Estado, las cuales no podrán ser menores a las aprobadas en el ejercicio anual inmediato anterior.
 
 > <small>(ADICIONADO, P.O. 21 DE SEPTIEMBRE DE 2021)</small>
 
@@ -2785,13 +2793,19 @@ El Ministerio Público estará integrado por un Fiscal General de Justicia, quie
 
 La Fiscalía General de Justicia del Estado de Tamaulipas será un organismo público, con autonomía administrativa, técnica, operativa y presupuestal, personalidad jurídica y patrimonio propios. El presupuesto de egresos de la Fiscalía General de Justicia, no podrá ser menor al aprobado por el Congreso para el ejercicio anual inmediato anterior.
 
-La función de procuración de justicia en el Estado se regirá por los principios de legalidad, imparcialidad, igualdad, objetividad, eficiencia, profesionalismo, transparencia y respeto irrestricto a los derechos humanos. La ley orgánica, reglamentos, acuerdos y los manuales de organización deberán garantizar estos principios, así como regular los procesos para la segmentación de casos, la descentralización territorial de funciones y la independencia técnica de los servicios periciales y forenses. La ley establecerá el servicio profesional de carrera para las funciones ministeriales, de investigación y periciales.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2026)</small>
+
+La función de procuración de justicia en el Estado se regirá por los principios de autonomía, legalidad, imparcialidad, objetividad, eficiencia, profesionalismo, responsabilidad, así como perspectiva de género y respeto a los derechos humanos. La ley orgánica, reglamentos, acuerdos y los manuales de organización deberán garantizar estos principios, así como regular los procesos para la segmentación de casos, la descentralización territorial de funciones y la independencia técnica de los servicios periciales y forenses. La ley establecerá el servicio profesional de carrera para las funciones ministeriales, de investigación y periciales.
 
 La ley orgánica establecerá un Consejo de Fiscales, como el órgano colegiado encargado de la administración, vigilancia y disciplina de la Fiscalía General. Asimismo, será el órgano rector del servicio profesional de carrera, en los términos que establezca la ley.
 
 > <small>(REFORMADO, P.O. 12 DE MARZO DE 2025)</small>
 
 La Fiscalía General contará, al menos, con las fiscalías especializadas en materia de delitos electorales, asuntos internos y de combate a la corrupción, cuyas personas titulares serán nombradas y removidas en términos de esta constitución y la ley.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2026)</small>
+
+La Fiscalía Especializada en la Investigación de los Delitos contra Niñas, Niños y Adolescentes y de Delitos contra las Mujeres por Razones de Género; dependiente de la Fiscalía General del Estado de Tamaulipas, será competente para investigar y perseguir delitos relacionados con las violencias de género contra las mujeres, protegiendo el derecho de las mujeres a una vida libre de violencias.
 
 Para ser Fiscal General de Justicia se requiere: ser ciudadano mexicano por nacimiento; tener cuando menos treinta y cinco años cumplidos al día de la designación; contar con título profesional de licenciado en derecho con antigüedad mínima de diez años; gozar de buena reputación, y no haber sido condenado por delito doloso.
 
@@ -6058,3 +6072,27 @@ Las adecuaciones que se establecen en este instrumento se ajustarán a la dispon
 ###### ARTÍCULO SÉPTIMO.
 
 Los procedimientos disciplinarios cuya etapa de investigación no haya concluido a la entrada en vigor del presente Decreto, se tramitarán por el Tribunal de Disciplina Judicial a través de sus órganos auxiliares, conforme a las disposiciones legales vigentes en su inicio.
+
+P.O. 8 DE ABRIL DE 2026.
+
+[N. DE E TRANSITORIO DEL “DECRETO NO. 66-1023 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS Y DE LA LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1024 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 17, FRACCIÓN III; 19 BIS, PÁRRAFO PRIMERO DE LA FRACCIÓN I; Y 125, PÁRRAFO TERCERO; Y SE ADICIONA EL PÁRRAFO SEXTO AL ARTÍCULO 125, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1025 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN V, DEL ARTÍCULO 7o., DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
