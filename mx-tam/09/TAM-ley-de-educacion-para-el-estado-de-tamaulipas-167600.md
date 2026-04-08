@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-167600"
 country: "mx"
 rank: "ley"
 publication_date: "2023-08-23"
-last_updated: "2025-11-27"
+last_updated: "2026-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167600&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2026.
 
 Ley publicada en la Edición Vespertina Número 101 del Periódico Oficial del Estado de Tamaulipas, el miércoles 23 de agosto de 2023.
 
@@ -93,7 +93,9 @@ Para el cumplimiento de los fines y criterios previstos en esta Ley y de conform
 
 ###### ARTÍCULO 7.
 
-1.- Toda persona tiene derecho a la educación, la cual es un medio para fortalecer, actualizar y ampliar sus conocimientos y saberes, y potenciar sus capacidades, habilidades y aptitudes para alcanzar su desarrollo personal y profesional, y por ende, contribuir a su bienestar, así como a la transformación y mejoramiento de la sociedad de la que forma parte.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2026)</small>
+
+1.- Toda persona tiene derecho a la educación, la cual es un medio para adquirir, fortalecer, actualizar, completar y ampliar sus conocimientos y saberes, además de potenciar sus capacidades, habilidades y aptitudes para alcanzar su desarrollo personal y profesional, y por ende, contribuir a su bienestar, así como a la transformación, a una vida saludable, física y mental, para el mejoramiento de la sociedad de la que forma parte.
 
 2.- Con el ejercicio de este derecho, inicia un proceso permanente de desarrollo integral centrado en los conocimientos, saberes y en el aprendizaje del educando, que contribuye a su desarrollo humano integral y a la transformación de la sociedad; es factor determinante para la adquisición de conocimientos significativos y la formación integral para la vida de las personas con un sentido de pertenencia social basado en el respeto de la diversidad, y es medio fundamental para la construcción de una sociedad equitativa y solidaria.
 
@@ -1786,6 +1788,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 27 DE NOVIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-560 MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN IV, RECORRIÉNDOSE EN SU ORDEN NATURAL LAS SUBSECUENTES AL ARTÍCULO 43 DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1027 MEDIANTE EL CUAL SE REFORMA EL NUMERAL 1, DEL ARTÍCULO 7, DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
