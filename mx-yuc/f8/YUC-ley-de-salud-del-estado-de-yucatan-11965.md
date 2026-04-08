@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-salud-del-estado-de-yucatan-11965"
 country: "mx"
 rank: "ley"
 publication_date: "1992-03-16"
-last_updated: "2024-06-26"
+last_updated: "2026-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11965&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE SALUD DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 8 DE ABRIL DE 2026.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el lunes 16 de marzo de 1992.
 
@@ -1321,17 +1321,25 @@ En los programas a que se refiere el artículo anterior, se incorporarán accion
 
 El Estado, promoverá en coordinación con las autoridades Estatales y Federales competentes, todos aquellos estudios y acciones tendentes a mejorar la dieta de los habitantes de Yucatán, sujetándose a las normas establecidas por la Ley General de Salud y otras disposiciones legales aplicables.
 
-> <small>(ADICIONADO, D.O. 9 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 8 DE ABRIL DE 2026)</small>
 
 ###### ARTICULO 104 Bis.
 
-Para la eliminación de formas de mala nutrición en personas menores de 12 años y en fortalecimiento a lo dispuesto en la normatividad en la materia de nutrición y combate a la obesidad, se prohíben las siguientes actividades:
+Para la eliminación de formas de mala nutrición en personas estudiantes de alguna institución que forme parte del Sistema Educativo Nacional, de conformidad con la normativa federal en materia de nutrición y combate a la obesidad, se prohíben las siguientes actividades al interior de las escuelas:
 
-I. La distribución, venta, regalo y suministro de alimentos y bebidas no alcohólicas con exceso de sodio, grasas y azúcares de acuerdo a la norma oficial mexicana correspondiente, en instituciones educativas públicas de nivel preescolar y primaria.
+> <small>(REFORMADA, D.O. 8 DE ABRIL DE 2026)</small>
 
-II. La venta o distribución de alimentos o bebidas no alcohólicas con exceso de sodio, grasas y azúcares de acuerdo a lo estipulado en la norma oficial mexicana correspondiente, a través de distribuidores automáticos o máquinas expendedoras instaladas en instituciones educativas públicas y privadas de los niveles preescolar y primaria.
+I. La distribución, venta, regalo y suministro de alimentos y bebidas ultra procesadas, por cualquier medio, en cualquier presentación, al interior de los entornos escolares del Sistema Educativo Nacional.
+
+> <small>(REFORMADA, D.O. 8 DE ABRIL DE 2026)</small>
+
+II. Publicidad en cualquiera de sus formas, de marcas, alimentos, bebidas o alusiones a ellas al interior de los entornos escolares del Sistema Educativo Nacional.
+
+> <small>(ADICIONADO, D.O. 9 DE DICIEMBRE DE 2020)</small>
 
 Las infracciones cometidas de acuerdo con lo establecido en el presente artículo serán sancionadas en términos de esta ley.
+
+> <small>(ADICIONADO, D.O. 9 DE DICIEMBRE DE 2020)</small>
 
 Quedan exentos de estas prohibiciones la madre, padre o tutor legal, quienes serán responsables de la compra, suministro y consumo de estos productos, por sus hijos o hijas menores de 12 años.
 
@@ -2707,6 +2715,10 @@ II.- Bebidas no alcohólicas, cualquier líquido natural o transformado que prop
 
 III.- Bebidas alcohólicas, aquellas que contengan alcohol etílico en una proporción mayor del dos por ciento en volumen.
 
+> <small>(ADICIONADA, D.O. 8 DE ABRIL DE 2026)</small>
+
+IV.- Ultra procesado, alimento o bebida realizada por medio de formulaciones a base de sustancias extraídas o derivadas de otros ingredientes, contienen aditivos que dan color, sabor o textura. Estos productos están nutricionalmente desequilibrados, poseen un elevado contenido en azúcares, grasa total, grasas saturadas y sodio, y un bajo contenido en proteína, fibra, minerales y vitaminas, en comparación con los productos y comidas sin procesar o mínimamente procesados, ocasionando perjuicios a la salud de las personas que los consumen de manera crónica.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 1 DE ABRIL DE 2020)</small>
 
 ###### ARTICULO 275-G.
@@ -3824,3 +3836,15 @@ Artículo segundo. La implementación de las acciones de capacitación voluntari
 Cláusula derogatoria
 
 Artículo tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a este Decreto.
+
+D.O. 8 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 174/2026 POR EL QUE SE MODIFICAN LA LEY DE SALUD DEL ESTADO DE YUCATÁN, LA LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN Y LA LEY DE NUTRICIÓN Y COMBATE A LA OBESIDAD PARA EL ESTADO DE YUCATÁN, EN MATERIA DE ENTORNOS SALUDABLES".]
+
+Entrada en vigor
+
+Artículo primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Cláusula derogatoria
+
+Artículo segundo. Se derogan todas las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
