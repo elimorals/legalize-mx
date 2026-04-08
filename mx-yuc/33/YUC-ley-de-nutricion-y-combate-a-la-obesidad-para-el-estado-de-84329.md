@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-nutricion-y-combate-a-la-obesidad-para-el-estado-de-8432
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-05"
-last_updated: "2020-12-09"
+last_updated: "2026-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84329&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE NUTRICIÓN Y COMBATE A LA OBESIDAD PARA EL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 9 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 8 DE ABRIL DE 2026.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 5 de enero de 2012.
 
@@ -53,17 +53,23 @@ Las disposiciones que establece la presente Ley, son de orden público, interés
 
 Esta Ley tiene los siguientes objetivos:
 
-I. Construir una política pública para la prevención, tratamiento y erradicación de la Obesidad, Desnutrición y Trastornos de la Conducta Alimentaria; así como promover en sus habitantes la adopción de hábitos de Alimentación correcta;
+> <small>(ADICIONADA, D.O. 8 DE ABRIL DE 2026)</small>
 
-II. Determinar las pautas normativas para la creación, ejecución y evaluación de programas y estrategias dirigidos a una Alimentación correcta;
+I. Reconocer como de interés general del Estado la prevención y control de los trastornos alimentarios que comprenderá la investigación de sus agentes causales, el diagnóstico y tratamiento de las enfermedades vinculadas, asistencia integral y rehabilitación, incluyendo la de sus patologías derivadas y las medidas tendientes para evitar su propagación.
 
-III. Señalar las obligaciones a las autoridades estatales y municipales en el ámbito de sus atribuciones, en materia de Nutrición y Alimentación, para combatir la Mala Nutrición, así como atender los Trastornos de la Conducta Alimentaria;
+> <small>(REFORMADA, D.O. 8 DE ABRIL DE 2026)</small>
 
-IV. Establecer medidas con el fin de erradicar la Mala Nutrición mediante el desarrollo de acciones de responsabilidad compartida entre las diferentes instituciones y órdenes de gobierno, en los ámbitos educativo, social, económico, político, legal, cultural y de salud;
+II. Construir una política pública para la prevención, tratamiento y erradicación de la obesidad, desnutrición y trastorno de la conducta alimentaria, así como para combatir la malnutrición alimentaria y promover en sus habitantes la adopción de hábitos de alimentación completa, equilibrada, variada, suficiente e inocua, privilegiando el consumo de productos locales.
 
-V. Propiciar el logro de los niveles óptimos de Nutrición en la población yucateca mediante acciones de Prevención, detección, atención, Tratamiento oportuno, así como de rehabilitación adecuada desarrolladas a través de las intervenciones del Sistema Estatal de Salud, y
+III. Determinar las pautas normativas para la creación, ejecución y evaluación de programas y estrategias dirigidos a una Alimentación correcta;
 
-VI. Promover la creación de programas de actividad física para la salud a nivel poblacional e involucrar a las instituciones públicas y privadas a que fomenten la actividad física.
+IV. Señalar las obligaciones a las autoridades estatales y municipales en el ámbito de sus atribuciones, en materia de Nutrición y Alimentación, para combatir la Mala Nutrición, así como atender los Trastornos de la Conducta Alimentaria;
+
+V. Establecer medidas con el fin de erradicar la Mala Nutrición mediante el desarrollo de acciones de responsabilidad compartida entre las diferentes instituciones y órdenes de gobierno, en los ámbitos educativo, social, económico, político, legal, cultural y de salud;
+
+VI. Propiciar el logro de los niveles óptimos de Nutrición en la población yucateca mediante acciones de Prevención, detección, atención, Tratamiento oportuno, así como de rehabilitación adecuada desarrolladas a través de las intervenciones del Sistema Estatal de Salud, y
+
+VII. Promover la creación de programas de actividad física para la salud a nivel poblacional e involucrar a las instituciones públicas y privadas a que fomenten la actividad física.
 
 ###### Artículo 3.
 
@@ -157,11 +163,19 @@ XXIII. Pobreza alimentaria: la carencia de los medios para adquirir la Canasta a
 
 XXIV. Prevención: la preparación y disposición que se hace anticipadamente para evitar enfermedades y padecimientos derivados de la Mala Nutrición y de los Trastornos de la Conducta Alimentaria;
 
+> <small>(ADICIONADA, D.O. 8 DE ABRIL DE 2026)</small>
+
+XXIV Bis. Producto ultra procesado: alimento o bebida realizada por medio de formulaciones a base de sustancias extraídas o derivadas de otros ingredientes, contienen aditivos que dan color, sabor o textura. Estos productos están nutricionalmente desequilibrados, poseen un elevado contenido en azúcares, grasa total, grasas saturadas y sodio, y un bajo contenido en proteína, fibra, minerales y vitaminas, en comparación con los productos y comidas sin procesar o mínimamente procesados, ocasionando perjuicios a la salud de las personas que los consumen de manera crónica.
+
 XXV. Sistema Estatal: el Sistema Estatal de Nutrición y Combate a la Obesidad;
 
 XXVI. Sedentarismo: la ausencia de actividad física necesaria para que el organismo se mantenga sano, y que tiene como consecuencia el aumento en la frecuencia de enfermedades, discapacidades y mortalidad;
 
 XXVII. Sobrealimentación: la ingesta alimentaria que supera las necesidades básicas del organismo humano para su subsistencia y desarrollo;
+
+> <small>(ADICIONADA, D.O. 8 DE ABRIL DE 2026)</small>
+
+XXVII Bis. Seguridad Alimentaria: La garantía que poseen todos los seres humanos para poder acceder a alimentos inocuos, suficientes y nutritivos. A través de ella, se busca que nadie pase hambre y que todas y todos puedan disfrutar de una dieta saludable.
 
 XXVIII. Sobrepeso: el exceso de peso en relación con la edad y estatura de la persona, caracterizado por la acumulación de tejido adiposo en el organismo humano;
 
@@ -171,13 +185,17 @@ XXX. Tratamiento: el conjunto de medios que se emplean para curar o aliviar una 
 
 ### CAPÍTULO II. Del Fomento a la Salud
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 8 DE ABRIL DE 2026)</small>
+
 ###### Artículo 5.
 
-La salud es un derecho social, por lo que deberán existir acciones coordinadas entre los diferentes órdenes de gobierno, sectores sociales y económicos, organizaciones benéficas y cooperantes, sector privado y comunidad, que procuren y promuevan su fomento.
+La salud y la Seguridad Alimentaria es un derecho social, por lo que deberán existir acciones coordinadas entre los diferentes órdenes de gobierno, sectores sociales y económicos, organizaciones benéficas y cooperantes, sector privado y comunidad, que procuren y promuevan su fomento y cuidado.
 
 Los lineamientos que deberán seguir los actores para alcanzar niveles óptimos en materia de salud y nutrición en la población, son los siguientes:
 
-I. Promoción activa, con equidad de género, de los esfuerzos inter e intra sectoriales y multidisciplinarios para mejorar la calidad de vida y el entorno de los individuos, familias y comunidades, aplicando los principios de participación social y el enfoque de género, a fin de abordar de forma integral la problemática nutricional e incorporar el tema en los planes de desarrollo,
+> <small>(REFORMADA, D.O. 8 DE ABRIL DE 2026)</small>
+
+I. Promoción activa, de los esfuerzos inter e intra sectoriales y multidisciplinarios para mejorar la calidad de vida y el entorno de los individuos, familias y comunidades, aplicando los principios de participación social, interculturalidad, perspectiva de género y discapacidad, a fin de abordar de forma integral la problemática nutricional e incorporar el tema en los planes de desarrollo.
 
 II. Armonización de acciones coordinadas con la Federación, el Estado y los municipios, con la finalidad de gestionar y asignar los recursos en función de las prioridades observadas.
 
@@ -185,21 +203,45 @@ II. Armonización de acciones coordinadas con la Federación, el Estado y los mu
 
 Las personas que reciban algún beneficio de programas estatales o municipales en materia de Alimentación, deberán corresponsabilizarse para lograr el objetivo de dichos programas.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 8 DE ABRIL DE 2026)</small>
+
 ###### Artículo 7.
 
-La Secretaría de Salud en coordinación con la Secretaría de Educación, procurará fomentar la participación de la comunidad en los programas de protección a la salud.
+La Secretaría de Salud en coordinación con la Secretaría de Educación, procurará fomentar la participación de la comunidad en los programas de protección a la salud y la seguridad alimentaria.
 
 Las acciones a realizar por las autoridades mencionadas en el párrafo anterior consistirán en:
 
-I. Promocionar hábitos de conductas alimenticias que contribuyan a proteger y solucionar problemas de Nutrición;
+> <small>(REFORMADA, D.O. 8 DE ABRIL DE 2026)</small>
+
+I. Construir y Promocionar con y para la comunidad educativa entornos alimentarios saludables que favorezcan las mejores elecciones y hábitos de alimentación para proteger y contribuir en la solución de los problemas de nutrición.
 
 II. Intervenir en programas de promoción y mejoramiento de la salud y de Prevención de enfermedades;
 
 III. Participar en los distintos procesos de la asistencia social, como capacitación, rehabilitación e integración. Los familiares de los sujetos a la asistencia social, serán corresponsables de dicha participación y aprovechamiento;
 
-IV. Apoyar, en coordinación con la autoridad encomendada de salud y educación, en la prestación de servicios para formar y capacitar recursos humanos en materia de Alimentación, y
+> <small>(REFORMADA, D.O. 8 DE ABRIL DE 2026)</small>
 
-V. Promover la interacción familiar y social mediante el aprovechamiento de sus conocimientos y experiencias.
+IV. Apoyar, en coordinación con la autoridad encomendada de salud y educación, en la prestación de servicios para formar y capacitar recursos humanos en materia de Alimentación, considerando elementos como la interculturalidad y reconocimiento del derecho a la alimentación adecuada.
+
+> <small>(REFORMADA, D.O. 8 DE ABRIL DE 2026)</small>
+
+V. Promover la vinculación familiar, comunitaria y social en el diseño, desarrollo y evaluación de estrategias para la alimentación saludable en las que se contemplen los conocimientos y experiencias de los diversos individuos y grupos.
+
+> <small>(ADICIONADA, D.O. 8 DE ABRIL DE 2026)</small>
+
+VI. Establecer criterios nutricionales para el sistema de educación pública y privada, centros de asistencia sociales y demás lugares donde se encuentren niñas, niños y adolescentes.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], D.O. 8 DE ABRIL DE 2026)</small>
+
+VII. La incorporación del tema de la Educación Alimentaria Nutricional en el sistema Educativo en todos sus niveles, así como también de medidas que fomenten la actividad física y eviten el sedentarismo y la promoción de un ambiente escolar saludable, deberán:
+
+a) Promover la capacitación de educadores, trabajadores sociales, trabajadores de la salud y demás operadores comunitarios a fin de formar agentes aptos para Contribuir a la capacitación, perfeccionamiento y actualización.
+
+b) Detectar adecuadamente las situaciones de vulnerabilidad y promover acciones y estrategias para abordarlas a través de una adecuada orientación y/o derivación.
+
+> <small>(ADICIONADA, D.O. 8 DE ABRIL DE 2026)</small>
+
+VIII. La realización de talleres y reuniones para dar a conocer a los padres y madres cuestiones relativas a la prevención de los trastornos alimentarios, y los peligros de vida no saludables.
 
 ###### Artículo 8.
 
@@ -377,9 +419,13 @@ XVIII. Realizar campañas de información intensiva para erradicar todo acto de 
 
 XIX. Diseñar y evaluar el Sistema Estatal, así como elaborar y evaluar políticas públicas en materia de fomento y adopción social de hábitos de alimentación correcta;
 
-XX. Funcionar como órgano de consulta en materia de estrategias y programas encaminados hacia la Prevención, Tratamiento y erradicación de la Obesidad y Trastornos de la Conducta Alimentaria, así como de fomento y adopción social de hábitos de Alimentación correcta;
+> <small>(REFORMADA, D.O. 8 DE ABRIL DE 2026)</small>
 
-XXI. Emitir las modificaciones a los programas y políticas públicas para mejorar la viabilidad de estos, como consecuencia de la evaluación de los informes trimestrales;
+XX. Funcionar como órgano de consulta para el diseño, monitoreo, supervisión y evaluación en materia de estrategias y programas encaminados hacia la Prevención, Tratamiento y erradicación de la Obesidad y trastornos de la conducta alimentaria, así como de fomentos y adopción social de hábitos de alimentación correcta y saludable en materia de seguridad alimentaria.
+
+> <small>(REFORMADA, D.O. 8 DE ABRIL DE 2026)</small>
+
+XXI. Emitir las modificaciones y adecuaciones pertinentes a los programas y políticas públicas para mejorar su viabilidad, como consecuencias de la evaluación de los informes trimestrales.
 
 XXII. Expedir la lista de dependencias y entidades de la administración pública estatal y municipal que deban enviar su informe trimestral al Consejo así como los contenidos mínimos que deben abarcar;
 
@@ -617,7 +663,9 @@ La unidad especializada en materia de Nutrición, perteneciente a la autoridad s
 
 La Secretaría de Educación tendrá a su cargo las siguientes obligaciones:
 
-I. Fomentar el consumo de comida saludable en instituciones educativas públicas y privadas y establecer la prohibición de distribuir, comercializar o fomentar el consumo de alimentos y bebidas con bajo valor nutricional que contengan altos contenidos de azúcares refinados, sal, colesterol, ácidos grasos saturados y transaturados;
+> <small>(REFORMADA, D.O. 8 DE ABRIL DE 2026)</small>
+
+I. Fomentar el consumo de comida saludable en instituciones educativas públicas y privadas y establecer la prohibición de distribuir, comercializar o fomentar el consumo de alimentos y bebidas ultra procesadas, con bajo valor nutricional que contengan altos contenidos de azúcares refinados, sal, colesterol, ácidos grasos saturados y transaturados; así como prohibir la publicidad en cualquiera de sus formas, relativa a marcas, alimentos y bebidas o alusiones a ellas, todo al interior de los entornos escolares del Sistema Educativo Nacional.
 
 II. Fomentar la educación continua en el área de educación para la salud en los maestros de educación física;
 
@@ -643,7 +691,9 @@ XII. Fomentar la participación social mediante la integración e implementació
 
 XIII. Difundir e implementar las políticas públicas que establezca el Consejo, en todos los planteles del Sistema Educativo del Estado, público o privado en todos sus tipos, niveles y modalidades;
 
-XIV. Implementar el Programa Integral de Atención a la Obesidad Infantil del Estado de Yucatán (PIAOIY) en las escuelas de educación básica, públicas y privadas;
+> <small>(REFORMADA, D.O. 8 DE ABRIL DE 2026)</small>
+
+XIV. Coadyuvar con la Autoridad Sanitaria en cuanto a las políticas públicas de connotación de salud preventiva que ésta implemente al interior de los entornos escolares, con la finalidad de que el desarrollo de todas las actividades se cumpla a cabalidad.
 
 XV. Procurar paulatinamente el incremento a doble sesión semanal de clases de educación física en los niveles preescolar y primaria;
 
@@ -655,15 +705,23 @@ XVIII. Colaborar junto con las instancias correspondientes en la asistencia clí
 
 XIX. Las demás que le confiera esta Ley y otras disposiciones legales y normativas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 8 DE ABRIL DE 2026)</small>
+
 ###### Artículo 37.
 
-Las cooperativas, tiendas y expendios comerciales escolares deberán cumplir con los lineamientos que expida el Consejo a efecto de:
+Las cooperativas, tiendas y expendios comerciales escolares deberán cumplir con los lineamientos que expida la Autoridad Educativa Federal o el Consejo a efecto de:
 
-I. Restringir la venta de productos que no sean propios de una dieta completa, equilibrada e inocua, en las distintas instalaciones educativas;
+> <small>(REFORMADA, D.O. 8 DE ABRIL DE 2026)</small>
 
-II. Verificar que los alimentos que se preparen en las tienditas o cafeterías escolares cumplan con los requerimientos nutricionales propios de una dieta equilibrada, así como con las normas de higiene y sanidad, y
+I. Restringir la venta de todos los productos ultra procesados ofertando exclusivamente alimentos y bebidas que sean propios de una dieta completa, equilibrada e inocua, en las distintas instalaciones educativas.
 
-III. Preferir la venta de productos propios de la región siempre y cuando cumplan con los lineamientos que emita el Consejo.
+> <small>(REFORMADA, D.O. 8 DE ABRIL DE 2026)</small>
+
+II. Proponer junto con los administradores y personal de las cooperativas, tiendas y expendios comerciales, escolares y profesionales de la nutrición asignando una propuesta de alimentos que cumplan con los requerimientos nutricionales propios de una dieta equilibrada, así como con las normas de higiene y sanidad.
+
+> <small>(REFORMADA, D.O. 8 DE ABRIL DE 2026)</small>
+
+III. Incorporar la venta de productos propios de la región y de la época adquiridos directamente de productores primarios, siempre y cuando cumplan con los lineamientos que emita el consejo.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 31 DE JULIO DE 2019)</small>
 
@@ -775,9 +833,15 @@ III. Realizar, en coordinación con las autoridades competentes, las gestiones p
 
 IV. Desarrollar e instrumentar planes municipales trianuales para la prevención del sobrepeso y la obesidad;
 
-V. Participar en la modificación de los desayunos escolares que se ofrecen a través del Sistema para el Desarrollo Integral de la Familia municipal orientándolos hacia una mejor calidad de los mismos, y
+> <small>(REFORMADA, D.O. 8 DE ABRIL DE 2026)</small>
 
-VI. Las demás que le confiera esta Ley y otras disposiciones legales y normativas aplicables.
+V. Participar en la modificación de los desayunos escolares que se ofrecen a través del sistema para el desarrollo integral de la familia municipal orientándolos hacia una mejor calidad de estos.
+
+> <small>(ADICIONADA, D.O. 8 DE ABRIL DE 2026)</small>
+
+VI. Promover sistemas alimentarios en cada municipio que permitan fortalecer la alimentación familiar, a fin de que se consideren los procesos e infraestructura para la producción de alimentos ya sea agrícola, pecuarias, forestal hasta su comercialización, conforme los principios de la agroecología, sustentabilidad y los saberes y prácticas locales.
+
+VII. Las demás que le confiera esta Ley y otras disposiciones legales y normativas aplicables.
 
 ### CAPÍTULO IX. De las Políticas Públicas en Materia de Nutrición y Combate a la Obesidad
 
@@ -1012,3 +1076,27 @@ Artículo segundo. El Consejo Estatal de Nutrición y Combate a la Obesidad tend
 Derogación tácita
 
 Artículo tercero. Se derogan todas aquellas disposiciones de igual o menor jerarquía que contravengan lo dispuesto en este Decreto.
+
+D.O. 8 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 174/2026 POR EL QUE SE MODIFICAN LA LEY DE SALUD DEL ESTADO DE YUCATÁN, LA LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN Y LA LEY DE NUTRICIÓN Y COMBATE A LA OBESIDAD PARA EL ESTADO DE YUCATÁN, EN MATERIA DE ENTORNOS SALUDABLES”.]
+
+Entrada en vigor
+
+Artículo primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Cláusula derogatoria
+
+Artículo segundo. Se derogan todas las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
+
+D.O. 8 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 175/2026 POR EL QUE SE MODIFICA LA LEY DE NUTRICIÓN Y COMBATE A LA OBESIDAD PARA EL ESTADO DE YUCATÁN, EN MATERIA DE SEGURIDAD ALIMENTARIA E IMPULSO DE LA ALIMENTACIÓN SALUDABLE CON PRODUCTOS LOCALES PROPIOS DE LA REGIÓN Y ÉPOCA".]
+
+Entrada en vigor
+
+Artículo primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Cláusula derogatoria
+
+Artículo segundo. Se derogan todas las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este presente Decreto.
