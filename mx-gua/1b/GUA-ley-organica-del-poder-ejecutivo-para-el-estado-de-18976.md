@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-ejecutivo-para-el-estado-de-18976"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-15"
-last_updated: "2025-06-25"
+last_updated: "2026-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2026.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de diciembre del año 2000.
 
@@ -1387,11 +1387,11 @@ h) Garantizar que todas las acciones de investigación, detención y aseguramien
 
 V.- Las demás que le señalen las leyes y reglamentos en la entidad o que le asigne legalmente la persona titular del Poder Ejecutivo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2026)</small>
 
 ###### Artículo 32.
 
-La Secretaría de la Honestidad es la dependencia encargada de llevar a cabo y evaluar el control interno de las dependencias y entidades, promoviendo la participación ciudadana en dichas funciones. Su finalidad es garantizar la honestidad del gobierno, utilizando el combate a la corrupción como su principal herramienta. Asimismo, se encarga de la prevención de conductas constitutivas de responsabilidad administrativa y, en su caso, de la aplicación del derecho disciplinario, y le competen las siguientes atribuciones:
+La Secretaría de la Honestidad es la dependencia encargada de llevar a cabo y evaluar el control interno de las dependencias y entidades, promoviendo la participación ciudadana en dichas funciones. Su finalidad es garantizar la honestidad del gobierno, utilizando el combate a la corrupción como su principal herramienta. Asimismo, se encarga de la prevención de conductas constitutivas de responsabilidad administrativa y, en su caso, de la aplicación del derecho disciplinario; así como atender los asuntos que le corresponden en materia de transparencia, acceso a la información y protección de datos personales, y le competen las siguientes atribuciones:
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE MAYO DE 2017)</small>
 
@@ -1543,9 +1543,15 @@ c) Emitir el Código de Ética de los servidores públicos del gobierno estatal 
 
 d) Recibir y registrar las declaraciones patrimoniales de los servidores públicos conforme a la Ley de la materia en su caso, requerir información adicional, así como realizar las investigaciones y denuncias correspondientes; y
 
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2026)</small>
+
+VII. Ejercer las atribuciones que le corresponden en materia de transparencia, acceso a la información pública y protección de datos personales.
+
+Para efectos de la presente fracción, la Secretaría de la Honestidad actuará como autoridad garante local, de conformidad con lo establecido en el artículo 14, Apartado B de la Constitución Política para el Estado de Guanajuato y las respectivas leyes en la materia.
+
 > <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
-VII. Las demás que le señalen las leyes y reglamentos en la entidad o que le asigne legalmente la persona titular del Poder Ejecutivo.
+VIII. Las demás que le señalen las leyes y reglamentos en la entidad o que le asigne legalmente la persona titular del Poder Ejecutivo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
 
@@ -2958,3 +2964,141 @@ Cuando el liquidador haya regularizado los bienes, derechos y obligaciones, así
 Referencias
 
 Artículo Tercero. Para todos los efectos legales correspondientes, las referencias al Instituto para las Mujeres Guanajuatenses, contenidas en otros decretos, reglamentos, convenios, u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuados a la Secretaría de las Mujeres.
+
+P.O. 8 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 176, QUE EMITE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE EXPIDE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA PARA EL ESTADO DE GUANAJUATO; Y SE REFORMAN Y SE ADICIONAN DIVERSAS DISPOSICIONES, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Abrogación
+
+###### ARTÍCULO SEGUNDO.
+
+A la entrada en vigor del presente Decreto se abroga la Ley de Transparencia y Acceso a la Información Pública para el Estado de Guanajuato, contenida en el Decreto Legislativo número 88, publicado en el Periódico Oficial del Estado de Guanajuato número 77 Tercera Parte de 13 de mayo de 2016.
+
+Referencias
+
+###### ARTÍCULO TERCERO.
+
+Las menciones, atribuciones o funciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto del Instituto de Acceso a la Información Pública se entenderán hechas o conferidas a los Sujetos obligados que adquieren tales atribuciones o funciones, según corresponda.
+
+Personal del IACIP
+
+###### ARTÍCULO CUARTO.
+
+Los derechos laborales de las personas servidoras públicas del Instituto de Acceso a la Información para el Estado de Guanajuato, serán respetados, en términos de la legislación aplicable. Los recursos humanos con que cuente el referido Instituto pasarán a formar parte de la Secretaría de la Honestidad.
+
+El Instituto de Acceso a la Información Pública para el Estado de Guanajuato, transferirá los recursos correspondientes al valor del inventario o plantilla de plazas a la Secretaría de Finanzas, dentro de los veinte días hábiles siguientes contados a partir de la entrada en vigor del presente Decreto, a fin de que esta dependencia realice acciones que correspondan, conforme a las disposiciones jurídicas aplicables.
+
+Las personas servidoras públicas del Instituto de Acceso a la Información Pública para el Estado de Guanajuato que dejen de prestar sus servicios en el mencionado Instituto y que estén obligadas a prestar declaración patrimonial y de interés, de conformidad con las disposiciones jurídicas aplicables, lo realizarán en los sistemas de la Secretaría de la Honestidad habilitados para tales efectos o en los medios que esta determine y conforme a la normativa aplicable a la Administración Pública Local. Lo anterior también es aplicable a las personas que se hayan desempeñado como servidoras públicas en el mencionado Instituto y que a la fecha de entrada en vigor del presente Decreto aún tengan pendiente cumplir con dicha obligación.
+
+Transferencia de recursos materiales
+
+###### ARTÍCULO QUINTO.
+
+Los recursos materiales con que cuente el Instituto de Acceso a la Información serán transferidos a la Secretaría de la Honestidad, dentro de los veinte días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+Transferencia de recursos financieros
+
+###### ARTÍCULO SEXTO.
+
+El Instituto de Acceso a la Información para el Estado de Guanajuato transferirá los recursos financieros a la Secretaría de Finanzas, de conformidad con las disposiciones jurídicas aplicables.
+
+Asimismo, el Instituto de Acceso a la Información para el Estado de Guanajuato deberá entregar a la citada dependencia información y formatos necesarios para integrar la Cuenta Pública y demás informes correspondientes al primer trimestre, de conformidad con las disposiciones jurídicas aplicables, dentro de los diez días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+Otras transferencias
+
+###### ARTÍCULO SÉPTIMO.
+
+Los registros, padrones y sistemas, internos y externos con los que cuenta el Instituto de Acceso a la Información para el Estado de Guanajuato, así como los sistemas informáticos utilizados por dicho Instituto, incluso los que ya no se utilicen, pero contengan registros históricos, incluida su documentación y titularidad, serán transferidos a la Secretaría de la Honestidad dentro de los quince días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+Seguimiento de trámites
+
+###### ARTÍCULO OCTAVO.
+
+Los procedimientos iniciados con anterioridad a la entrada en vigor de este Decreto ante el Instituto de Acceso a la Información Pública para el Estado de Guanajuato, en materia de acceso a la información pública, se sustanciarán ante la Secretaría de la Honestidad y las Autoridades garantes conforme a las disposiciones aplicables vigentes al momento de su inicio.
+
+La defensa legal ante autoridades administrativas, jurisdiccionales y judiciales de los actos administrativos y jurídicos emitidos por el Instituto de Acceso a la Información para el Estado de Guanajuato, en materia de acceso a la información pública, se sustanciarán ante la Secretaría de la Honestidad conforme a las disposiciones jurídicas aplicables.
+
+La Secretaría de la Honestidad podrá remitir a las Autoridades garantes competentes aquellos asuntos que se mencionan en los párrafos anteriores que le corresponda conforme al ámbito de sus atribuciones para su atención.
+
+Seguimiento de trámites en materia de datos personales
+
+###### ARTÍCULO NOVENO.
+
+Los procedimientos iniciados con anterioridad a la entrada en vigor de este Decreto ente el Instituto de Acceso a la Información para el Estado de Guanajuato, en materia de datos personales o cualquier otra distinta a la mencionada en el transitorio anterior, se sustanciarán conforme a las disposiciones vigentes al momento de su inicio ante la Secretaría de la Honestidad y a las Autoridades garantes a que se refiere este Decreto.
+
+La defensa legal ante autoridades administrativas, jurisdiccionales o judiciales de los actos administrativos y jurídicos emitidos por el Instituto de Acceso a la información para el Estado de Guanajuato, en materia de datos personales o cualquier otra distinta a la mencionada en el transitorio anterior, así como el seguimiento de los que se encuentren en trámite, incluso los procedimientos penales y laborales, se llevará a cabo por la Secretaría de la Honestidad.
+
+La Secretaría de la Honestidad podrá remitir a las Autoridades garantes competentes aquellos asuntos que se mencionan en los párrafos anteriores que les correspondan conforme al ámbito de sus atribuciones para su atención.
+
+Obligación ayuntamientos
+
+###### ARTÍCULO DÉCIMO.
+
+Los Ayuntamientos cumplirán con las obligaciones a su cargo en materia de transparencia y acceso a la información, en términos de lo previsto en el transitorio Noveno de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Guanajuato que se abroga por virtud de este Decreto.
+
+Transferencia de archivos
+
+###### ARTÍCULO UNDÉCIMO.
+
+Los expedientes y archivos que a la entrada en vigor del presente Decreto estén a cargo del Instituto de Acceso a la Información pública para el Estado de Guanajuato para el ejercicio de sus facultades sustantivas, competencias o funciones, de conformidad con la Ley de Archivos del Estado de Guanajuato y demás disposiciones jurídicas aplicables, serán transferidos a la Secretaría de la Honestidad dentro de los veinte días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+La Secretaría de la Honestidad dentro de los treinta días naturales siguientes contados a partir de que se reciban los expedientes y archivos que se mencionan en el párrafo anterior, podrá transferirlos a la autoridad correspondiente.
+
+Adecuaciones reglamentarias en el Poder Ejecutivo
+
+###### ARTÍCULO DUODÉCIMO.
+
+La persona titular del Ejecutivo deberá expedir las adecuaciones a las disposiciones normativas correspondientes, dentro de los cincuenta días naturales siguientes a la entrada en vigor del presente Decreto, a fin de armonizarlos a lo previsto en el mismo.
+
+Adecuaciones en otros poderes y órganos autónomos
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+El Órgano Interno de Control del Poder Legislativo, la Contraloría del Poder Judicial, así como los órganos internos de control de los órganos constitucionalmente autónomos, en un plazo de máximo de treinta días naturales contados a partir de la entrada en vigor del presente Decreto deberán realizar las adecuaciones necesarias a su normativa interna para dar cumplimiento a lo dispuesto en este instrumento.
+
+Suspensión de plazos
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Para efectos de lo previsto en los transitorios Duodécimo y Décimo Tercero del presente Decreto, se suspenden por un plazo de sesenta y cinco días naturales contados a partir de la entrada en vigor de este decreto todos y cada uno de los trámites, procedimientos y demás medios de impugnación, establecidos en este instrumento y demás normativa aplicable, con excepción de la recepción y atención de las solicitudes de información que se tramitan a través de la Plataforma Nacional de Transparencia por las autoridades a que se refiere este decreto.
+
+Adecuaciones en poderes y organismos autónomos
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Los Poderes Legislativo y Judicial, así como los órganos autónomos, en un plazo máximo de treinta días naturales contados a partir de la entrada en vigor del presente Decreto deberán realizar las adecuaciones necesarias a su normativa interna para dar cumplimiento a los dispuesto en este instrumento, relacionado con las atribuciones, facultades y funciones que se les conferirán como Autoridades garantes a sus órganos internos de control o equivalentes.
+
+Transferencia de archivos del OIC del IACIP
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+El Órgano Interno de Control del Instituto de Acceso a la Información Pública para el Estado de Guanajuato queda extinto y sus asuntos y procedimientos que a la entrada en vigor del presente Decreto estén a su cargo, así como los expedientes y archivos, serán transferidos al Órgano Interno de Control de la Secretaría de la Honestidad dentro de los veinte días hábiles siguientes a su entrada en vigor, serán tramitados y resueltos por dicho órgano conforme a las disposiciones jurídicas vigentes al momento de su inicio.
+
+Comité de Transferencia
+
+###### ARTÍCULO DÉCIMO SÉPTIMO.
+
+Para efectos de lo dispuesto en los transitorios Cuarto, Quinto, Sexto, Séptimo y Octavo del presente Decreto deberá integrar, en la fecha de publicación de este instrumento, un Comité de Transferencia conformado por los Comisionados del mencionado Instituto y siete personas servidoras públicas del mismo con al menos el nivel de Dirección de área o equivalente, que tengan conocimiento o que se encuentren a su cargo los asuntos que se mencionan en los propios transitorios, una persona representante de la Consejería Jurídica del Ejecutivo, una persona representante de la Secretaría de Finanzas y una persona representante de la Secretaría de la Honestidad.
+
+El Comité de Transferencia en materia de Transparencia del Estado acordará y coordinará las acciones encaminadas a realizar una transición ordenada de las facultades, obligaciones, presupuestos, recursos materiales, tecnológicos, financieros, archivos y capital humano que se realicen con motivo de lo dispuesto en esta Ley.
+
+El Comité de Transferencia estará vigente por un periodo de 30 días naturales, en el que sus integrantes participarán con las diversas autoridades competentes para recibir los asuntos que se señalan en los transitorios ya citados y realizar las demás acciones que se consideren necesarias para dichos efectos.
+
+Primer integración del Subsistema de Transparencia
+
+###### ARTÍCULO DÉCIMO OCTAVO.
+
+Para efectos de la primer integración de los ayuntamientos al Subsistema de Transparencia de Guanajuato, conforme la división establecida en el artículo 26 fracción V de la presente Ley, el Poder Ejecutivo por conducto de la Secretaría de la Honestidad, realizará la invitación en forma directa privilegiando que, en la integración de los ayuntamientos, se atienda al criterio geográfico y de las diferentes fuerzas políticas representadas en los ayuntamientos.
+
+Evaluación ex-post de la ley
+
+###### ARTÍCULO DÉCIMO NOVENO.
+
+En un término de cinco años, contados a partir del inicio de vigencia del presente Decreto, el Congreso del Estado deberá determinar, mediante un procedimiento de evaluación, si la Ley ha logrado los objetivos esperados, si ha sido suficientemente efectiva y eficiente en su implementación y si ha tenido los impactos esperados; a efecto de generar las reformas que resulten necesarias para la mejor implementación de las disposiciones normativas contenidas en este ordenamiento normativo, lo anterior independientemente de las iniciativas de reforma, adición o derogación que se presenten.
