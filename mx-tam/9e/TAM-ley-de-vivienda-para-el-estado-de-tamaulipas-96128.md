@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-vivienda-para-el-estado-de-tamaulipas-96128"
 country: "mx"
 rank: "ley"
 publication_date: "2013-09-25"
-last_updated: "2025-06-24"
+last_updated: "2026-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 25 de septiembre de 2013.
 
@@ -67,13 +67,17 @@ IV. Fijar las bases para la coordinación, concertación y colaboración entre l
 
 V. Regular la calidad y sustentabilidad de la vivienda;
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2026)</small>
 
-VI. Fomentar, propiciar e impulsar la participación de los sectores social y privado en la adquisición y urbanización de suelo y en la producción y uso de vivienda, en todos sus tipos y modalidades; y
+VI. Fomentar, propiciar e impulsar la participación de los sectores social y privado en la adquisición y urbanización de suelo y en la producción y uso de vivienda, en todos sus tipos y modalidades;
 
-> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2016)</small>
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2026)</small>
 
-VII. Fomentar la prevención de la salud en la construcción de vivienda social.
+VII. Fomentar la prevención de la salud en la construcción de vivienda social; y
+
+> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2026)</small>
+
+VIII. Fomentar el derecho de las y los tamaulipecos al acceso a una vivienda adecuada, como base para la construcción de un auténtico Estado de bienestar social.
 
 ###### ARTÍCULO 3.
 
@@ -545,9 +549,13 @@ XII. La realización de las demás acciones tendientes a cumplir con los fines p
 
 3. El Instituto y los Ayuntamientos darán a los órganos de fiscalización, todas las facilidades para que verifiquen la aplicación de los recursos en acciones de vivienda y suelo.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2026)</small>
+
 ###### ARTÍCULO 27.
 
-El Instituto y los organismos municipales de vivienda y suelo o las instancias encargadas de estas funciones, promoverán el uso de materiales y productos que contribuyan a evitar efluentes y emisiones que deterioren el medio ambiente; así como el uso de los que propicien ahorro de energía, empleo eficiente del agua y un ambiente más confortable y saludable dentro de la vivienda, de acuerdo con las características climáticas de la región.
+El Instituto y los organismos municipales de vivienda y suelo o las instancias encargadas de estas funciones, promoverán el uso de materiales y productos que contribuyan a evitar efluentes y emisiones que deterioren el medio ambiente; Asimismo, se fomentará el uso de elementos y materiales que favorezcan el ahorro de energía, empleo eficiente del agua, la reducción de la ganancia térmica en el interior de la vivienda, y un ambiente más confortable y saludable, de acuerdo con las características climáticas de la región.
+
+De igual forma, el instituto podrá desarrollar sus funciones en materia de vivienda, conforme a los planes de desarrollo urbano, en coordinación con las autoridades estatales y municipales para procurar su formulación, actuación y cumplimiento.
 
 ###### ARTÍCULO 28.
 
@@ -924,6 +932,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 24 DE JUNIO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 66-349 MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS; DE LA LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS; DE LA LEY DE LOS DERECHOS DE LAS PERSONAS JÓVENES DEL ESTADO DE TAMAULIPAS; DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS; Y DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS, EN MATERIA DE VIVIENDA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1023 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS Y DE LA LEY DE VIVIENDA PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
