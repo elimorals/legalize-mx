@@ -4,7 +4,7 @@ identifier: "TAM-estatuto-organico-de-la-secretaria-ejecutiva-del-sistema-130182
 country: "mx"
 rank: "estatuto"
 publication_date: "2018-08-09"
-last_updated: "2018-08-09"
+last_updated: "2026-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -20,9 +20,11 @@ state: "TAM"
 ---
 # ESTATUTO ORGANICO DE LA SECRETARIA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCION DE TAMAULIPAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN, PUBLICADO EN EL P.O. DE 8 DE ABRIL DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
 ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2026 (DEROGADO).
 
 Estatuto publicado en el Periódico Oficial del Estado de Tamaulipas, el jueves 9 de agosto de 2018.
 
@@ -587,3 +589,37 @@ PRIMERO. El presente Estatuto entrará en vigor al día siguiente de su aprobaci
 SEGUNDO. El Estatuto de la Secretaría Ejecutiva deberá inscribirse en el Registro de Entidades Paraestatales dentro de los treinta días naturales siguientes a la fecha de su publicación en el Periódico Oficial del Estado.
 
 ATENTAMENTE.- SECRETARIO TÉCNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN DE TAMAULIPAS.- LIC. ABELARDO PERALES HUERTA.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "ESTATUTO ORGÁNICO DE LA SECRETARÍA EJECUTIVA DEL SISTEMA ESTATAL ANTICORRUPCIÓN".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Estatuto Orgánico entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tamaulipas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se deroga el Estatuto Orgánico de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción publicado en el Periódico Oficial del Estado Número 96, de fecha 9 de agosto de 2018.
+
+###### ARTÍCULO TERCERO.
+
+La persona titular de la Secretaría Ejecutiva, realizará todos los trámites y gestiones necesarias para la difusión del presente Estatuto Orgánico.
+
+###### ARTÍCULO CUARTO.
+
+Las funciones específicas de las unidades administrativas que conforman la Secretaría Ejecutiva del Sistema Estatal Anticorrupción se desarrollarán en el Manual de Organización que se emita para tal efecto, dentro de los 30 días posteriores a la publicación del presente Estatuto.
+
+###### ARTÍCULO QUINTO.
+
+El presente Estatuto Orgánico de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción, deberá inscribirse en el Registro Estatal de Organismos Descentralizados, de conformidad con el numeral 3 del artículo 12 de la Ley de Entidades Paraestatales del Estado de Tamaulipas.
+
+###### ARTÍCULO SEXTO.
+
+Los asuntos pendientes a la entrada en vigor del presente Estatuto continuarán su trámite y serán resueltos hasta su conclusión por aquella o aquellas unidades administrativas a las que se les haya atribuido la competencia para resolver los asuntos correspondientes, sin que se afecte su validez jurídica y administrativa.
+
+###### ARTÍCULO SÉPTIMO.
+
+Se derogan todas las disposiciones que se opongan al presente Estatuto Orgánico.
