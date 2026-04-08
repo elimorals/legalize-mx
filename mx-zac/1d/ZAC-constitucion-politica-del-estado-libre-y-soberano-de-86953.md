@@ -4,7 +4,7 @@ identifier: "ZAC-constitucion-politica-del-estado-libre-y-soberano-de-86953"
 country: "mx"
 rank: "constitucion"
 publication_date: "1998-07-11"
-last_updated: "2026-01-24"
+last_updated: "2026-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86953&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2026.
 
 Constitución publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 11 de julio de 1998.
 
@@ -230,6 +230,10 @@ La Soberanía del Estado reside esencial y originariamente en el Pueblo, que la 
 ###### Artículo 7°.
 
 El Estado adopta para su régimen interior, la forma de gobierno republicano, representativo, democrático, laico y popular, tiene como base de su división territorial y organización política y administrativa el Municipio Libre.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2026)</small>
+
+Los gobiernos estatal y municipales dispondrán de los medios de democracia participativa y deliberativa para el desarrollo de la vida institucional, entre ellos, el presupuesto participativo, los derechos de consulta, audiencia y auditoría ciudadana, así como los cabildos abiertos, de conformidad con las leyes en la materia.
 
 ### CAPÍTULO TERCERO. DEL TERRITORIO Y LÍMITES DEL ESTADO
 
@@ -479,13 +483,17 @@ El patrimonio familiar es inalienable y en ningún caso sufrirá menoscabo ni se
 
 Las autoridades estatales y municipales colaborarán con la familia en la adopción de medidas para propiciar el desarrollo físico y mental de la población infantil y de la juventud; establecer un sistema permanente de apoyo e integración social de los ancianos, que les permita una vida digna y decorosa; promover el tratamiento, la rehabilitación e integración de las personas con algún grado de discapacidad, con el objeto de facilitar su desarrollo; y auspiciar la difusión de la cultura, el deporte y la recreación.
 
-> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 2 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE ABRIL DE 2026)</small>
 
-I. El Estado implementará una política pública, regida en su diseño, ejecución, seguimiento y evaluación por el principio del interés superior de la niñez, para garantizar su desarrollo integral y la plena satisfacción de sus derechos a la alimentación, salud, educación y sano esparcimiento;
+I. En todas las decisiones y actuaciones de las autoridades estatales y municipales se velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos.
 
-Los niños gozarán de atención y cuidados especiales por parte de las Instituciones públicas y de la sociedad, con el fin de asegurar el desarrollo equilibrado y armónico de todas sus facultades y su desenvolvimiento en un ambiente de libertad y dignidad.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2026)</small>
 
-Son derechos particulares de los niños zacatecanos:
+Los niños y las niñas, con énfasis en la primera infancia, tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 8 DE ABRIL DE 2026)</small>
+
+Son derechos particulares de las niñas y niños zacatecanos:
 
 a) Los incluidos en la Declaración de los Derechos del Niño aprobada por la Organización de las Naciones Unidas;
 
@@ -493,9 +501,21 @@ b) La formación de su personalidad en el amor a la Patria, en la democracia com
 
 c) El ser inscritos en el Registro Civil, y merecedores de protección integral, con independencia del vínculo o condición jurídica de sus progenitores; y
 
-d) La atención especial en los casos en que se constituya en infractor de leyes.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2026)</small>
 
-Se considera niño a toda persona menor de dieciocho años.
+d) La atención especial en los casos en que se encuentren en conflicto con la ley;
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2026)</small>
+
+e) Contar con una formación que propicie su derecho al libre desarrollo de la personalidad, y
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2026)</small>
+
+f) A vivir libres de violencia.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2026)</small>
+
+Se considera niño o niña a toda persona menor de dieciocho años.
 
 > <small>(REFORMADA, P.O. 24 DE ENERO DE 2026)</small>
 
@@ -512,6 +532,10 @@ b) Ser preferidos en igualdad de condiciones para desempeñar un trabajo socialm
 c) El descanso y la recreación; y
 
 d) Los pensionados y jubilados tendrán consideraciones especiales en el pago de obligaciones fiscales estatales y municipales, en la forma y los términos que señalen las leyes.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE ABRIL DE 2026)</small>
+
+IV. Toda persona tiene derecho a cuidar y ser cuidado dignamente. La ley establecerá un sistema de cuidados que atienda de manera prioritaria a las personas en situación de dependencia por enfermedad, discapacidad, ciclo vital, especialmente la infancia y la vejez y a quienes, de manera no remunerada, están a cargo de su cuidado.
 
 > <small>(REFORMADO, P.O. 24 DE ENERO DE 2026)</small>
 
@@ -659,27 +683,21 @@ Los sujetos obligados se regirán por las leyes estatales en la materia, las que
 
 El ejercicio de este derecho se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
 
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2026)</small>
+
 ###### Artículo 30.
 
-Todo individuo tiene derecho a disfrutar de un medio ambiente adecuado y sano que propicie el desarrollo integral de manera sustentable.
+Todas las personas gozarán del derecho humano a vivir y crecer en un ambiente sano, ecológicamente equilibrado y sustentable, para su bienestar y desarrollo humano.
 
-El Estado dictará, en el ámbito de su competencia, las medidas apropiadas que garanticen la preservación del equilibrio ecológico, la protección del ambiente y el aprovechamiento racional de los recursos naturales, de manera que no se comprometa la satisfacción de las necesidades de generaciones futuras.
+Para tales efectos se observará lo siguiente:
 
-> <small>(ADICIONADO, P.O. 25 DE MARZO DE 2015)</small>
+I. En la esfera de su competencia, el Gobierno del Estado y los Ayuntamientos, de manera coordinada, llevarán a cabo planes y programas para conservar, proteger, aprovechar racionalmente y mejorar los recursos naturales de la entidad, así como para prevenir y combatir la contaminación ambiental, con la finalidad de no comprometer la satisfacción de las necesidades de generaciones futuras.
 
-Toda persona tiene derecho al acceso, disposición y saneamiento del agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible. El Estado deberá garantizar este derecho y la ley definirá los mecanismos, bases, apoyos y modalidades para el acceso, uso equitativo y sustentable de los recursos hídricos, estableciendo y delimitando la participación del Estado y los municipios, así como la participación de la ciudadanía para la consecución de dichos fines.
+Asimismo, se realizarán acciones de prevención, adaptación y mitigación a los efectos del cambio climático; el daño y deterioro ambiental será causa de responsabilidad;
 
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2026)</small>
+II. Toda persona tiene derecho al acceso, disposición y saneamiento del agua potable suficiente, salubre, segura, asequible, accesible y de calidad, para el uso personal y doméstico de una forma adecuada a la dignidad, la vida, la salud, la alimentación, así como a solicitar, recibir y difundir información sobre las cuestiones del agua, y
 
-El Estado protege a los animales y esta Constitución los reconoce como seres vivos que sienten, por tanto, tienen derecho a recibir un trato digno y ser protegidos contra todo tipo de violencia, maltrato o crueldad.
-
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2026)</small>
-
-En el estado, toda persona tiene el deber ético y la obligación jurídica de respetar la vida y la integridad de los animales. Su tutela es responsabilidad común de los habitantes de la entidad.
-
-> <small>(ADICIONADO, P.O. 24 DE ENERO DE 2026)</small>
-
-Las autoridades estatales y municipales garantizarán la protección, el trato digno y respetuoso a los animales.
+III. El agua es un bien público, social y cultural. Es inalienable, inembargable, irrenunciable y esencial para la vida, por lo que su gestión será pública y sin fines de lucro.
 
 ###### Artículo 31.
 
@@ -738,6 +756,16 @@ Para el logro de estos objetivos, las administraciones públicas estatal y munic
 Asimismo se promoverá la participación de los sectores social y privado en la ejecución de acciones del Estado y Municipio.
 
 En todos los casos el Estado y los Municipios darán preferencia a los sectores sociales económicamente débiles.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2026)</small>
+
+###### Artículo 34 Bis.
+
+Toda persona tiene derecho a la buena administración pública. El ejercicio de este derecho es de carácter receptivo, eficaz y eficiente, y conlleva la obligación de las autoridades administrativas de otorgar los servicios públicos de conformidad con los principios de generalidad, uniformidad, regularidad, continuidad, calidad y uso de las tecnologías de la información y la comunicación.
+
+Las autoridades administrativas del estado garantizarán la audiencia previa de los gobernados frente a cualquier resolución que constituya un acto privativo de autoridad. En este supuesto, deberán resolver de manera imparcial y equitativa, dentro de un plazo razonable, de conformidad con las formalidades esenciales del procedimiento, permitiendo el acceso al expediente correspondiente, con respeto a la confidencialidad, reserva y protección de datos personales.
+
+Se deberá establecer un sistema de índices de calidad de los servicios públicos basado en criterios técnicos y acorde con los principios señalados en el primer párrafo de este artículo.
 
 ## TÍTULO III. DEL SISTEMA ELECTORAL
 
@@ -3053,13 +3081,15 @@ XXI. Facultar al Presidente Municipal para celebrar contratos con particulares e
 
 XXII. Admitir o desechar las licencias que solicitaren sus integrantes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2026)</small>
+
 ###### Artículo 120.
 
-El Municipio deberá elaborar su Plan Municipal trianual y sus programas operativos anuales, de acuerdo a las siguientes bases:
+El Municipio deberá elaborar su Plan Municipal trianual, programas operativos anuales y programas presupuestarios, de acuerdo con las siguientes bases:
 
-> <small>(REFORMADA, P.O. 11 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2026)</small>
 
-I. Los Planes Municipales de Desarrollo precisarán los objetivos generales, estrategias y prioridades del desarrollo integral del Municipio; contendrán previsiones sobre los recursos que serán asignados a tales fines; determinarán los instrumentos y los responsables de su ejecución; establecerán los lineamientos de política de carácter general, sectorial y de servicios municipales, así como la política municipal de igualdad entre mujeres y hombres. Sus previsiones se referirán al conjunto de la actividad económica y social y regirán el contenido de los programas operativos anuales en concordancia siempre con los Planes Regional, Estatal y Nacional de Desarrollo;
+I. Los Planes Municipales de Desarrollo precisarán los objetivos generales, estrategias y prioridades del desarrollo integral del Municipio; contendrán previsiones sobre los recursos que serán asignados a tales fines; determinarán los instrumentos y los responsables de su ejecución; establecerán los lineamientos de política de carácter general, sectorial y de servicios municipales, así como la política municipal de igualdad entre mujeres y hombres. Sus previsiones se referirán al conjunto de la actividad económica y social y regirán el contenido de los programas presupuestarios y de los programas operativos anuales en concordancia siempre con los Planes Regional, Estatal y Nacional de Desarrollo;
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2001)</small>
 
@@ -3583,19 +3613,31 @@ Si no pudieren cumplirse las prevenciones de los artículos anteriores, se estar
 
 ### CAPÍTULO PRIMERO. DE LAS REFORMAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2026)</small>
+
 ###### Artículo 164.
 
-La presente Constitución podrá ser adicionada o reformada; pero para ello será preciso que se satisfagan las siguientes condiciones:
+La presente Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de ella, se requiere:
 
-I. Que la Legislatura admita a discusión las reformas o adiciones por el voto de las dos terceras partes, cuando menos, del número total de Diputados que constituyan la Legislatura;
+I. (DEROGADA, P.O. 8 DE ABRIL DE 2026)
 
 II. Que las adiciones o reformas sean aprobadas, cuando menos, por el voto de las dos terceras partes del número total de Diputados que constituyan la Legislatura; y
 
-III. Que aprobadas definitivamente las reformas o adiciones por la Legislatura, manifiesten su conformidad con ellas, cuando menos, las dos terceras partes de los Ayuntamientos del Estado.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2026)</small>
 
-En un plazo no mayor de treinta días naturales, los Ayuntamientos deberán hacer llegar a la Legislatura del Estado copia certificada del acta de la sesión de Cabildo donde se registre la determinación acordada
+III. Que, aprobadas por la Legislatura, obtengan la aprobación de la mayoría de los Ayuntamientos del Estado.
 
-Se estimará que aprueban las adiciones o reformas aquellos Ayuntamientos que en el plazo de treinta días naturales no expresen su parecer
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2026)</small>
+
+En un plazo no mayor de treinta días naturales, contado a partir de la recepción de la minuta de decreto con las reformas respectivas, los Ayuntamientos deberán hacer llegar a la Legislatura copia certificada del acta de cabildo donde conste la determinación tomada.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 8 DE ABRIL DE 2026)</small>
+
+Se entenderá que el Ayuntamiento que no emita resolución dentro del citado plazo aprueba las adiciones o reformas de que se trate.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2026)</small>
+
+Una vez cumplidos los requisitos anteriores, la Legislatura expedirá el decreto correspondiente y lo remitirá al Ejecutivo del Estado para su promulgación y publicación.
 
 ###### Artículo 165.
 
@@ -4600,3 +4642,15 @@ Las reformas y adiciones a los artículos 51, 53, 75 y 118 del presente Decreto 
 ###### ARTÍCULO TERCERO.
 
 En el caso de la prohibición establecida en el artículo 94 del presente Decreto, las Magistradas y Magistrados que gocen del haber de retiro se les suspenderá o revocará, si incumplen el contenido de la citada disposición, de conformidad con el procedimiento que se establezca en la normatividad interna del Poder Judicial del Estado.
+
+P.O. 8 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 324.- REFORMAS Y ADICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
