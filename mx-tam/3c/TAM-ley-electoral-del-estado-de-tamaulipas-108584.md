@@ -4,7 +4,7 @@ identifier: "TAM-ley-electoral-del-estado-de-tamaulipas-108584"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-13"
-last_updated: "2025-04-04"
+last_updated: "2026-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108584&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ELECTORAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2026.
 
 Ley publicada en el Anexo Extraordinario Número 4 del Periódico Oficial del Estado de Tamaulipas, el sábado 13 de junio de 2015.
 
@@ -3773,6 +3773,10 @@ II. Los partidos políticos, candidatas y candidatos deberán solicitar el uso d
 
 El presidente o presidenta del Consejo General podrá solicitar a las autoridades competentes, los medios de seguridad personal para los candidatos y candidatas que lo requieran, desde el momento en que de acuerdo con los mecanismos internos de su partido político se ostenten con tal carácter. Las medidas que adopte la autoridad competente serán informadas a la Consejera o Consejero Presidente.
 
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2026)</small>
+
+Queda prohibido el uso de pirotecnia sonora y visual por las candidatas, candidatos y partidos políticos durante el tiempo que comprenden las campañas electorales hasta la conclusión de la jornada electoral. El incumplimiento de esta disposición será sancionado con apercibimiento o amonestación pública, según lo determine la autoridad electoral.
+
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2020)</small>
 
 ###### Artículo 245.
@@ -6574,6 +6578,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 4 DE ABRIL DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-275 MEDIANTE EL CUAL SE DEROGA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 413 DE LA LEY ELECTORAL DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1028 MEDIANTE EL CUAL SE ADICIONA EL PÁRRAFO CUARTO AL ARTÍCULO 244, DE LA LEY ELECTORAL DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
