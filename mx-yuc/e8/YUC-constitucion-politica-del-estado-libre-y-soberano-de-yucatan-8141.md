@@ -4,7 +4,7 @@ identifier: "YUC-constitucion-politica-del-estado-libre-y-soberano-de-yucatan-81
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-14"
-last_updated: "2025-10-24"
+last_updated: "2026-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8141&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 8 DE ABRIL DE 2026.
 
 Constitución publicada en el Suplemento al Número 6199 del Diario Oficial del Estado de Yucatán, el lunes 14 de enero de 1918.
 
@@ -89,6 +89,10 @@ El Estado promoverá el desarrollo integral de las personas jóvenes a través d
 
 Toda persona en el estado de Yucatán tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad. Las autoridades estatales y municipales establecerán, conforme a las disposiciones aplicables, sistemas de movilidad que permitan el cumplimiento de este derecho.
 
+> <small>(ADICIONADO, D.O. 8 DE ABRIL DE 2026)</small>
+
+El Estado reconoce el derecho a la salud física y mental; en consecuencia, se considera de interés público la atención, prevención y tratamiento de las afecciones psico-emocionales, así como la eliminación de los estigmas asociados a la salud mental, garantizando el bienestar individual y colectivo mediante políticas públicas con enfoque de derechos humanos y pertinencia cultural, establecidas en la ley de la materia.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 2.
@@ -115,9 +119,9 @@ En el Estado de Yucatán todas las personas tienen derecho a la Paz, la cual deb
 
 Para el respeto y garantía del derecho a la Paz, el Estado y sus municipios deberán establecer políticas públicas enfocadas a la construcción de la cultura de la paz para el buen convivir. Además, impulsarán acciones de paz positiva a través del respeto a los derechos humanos, el fortalecimiento institucional, la participación ciudadana, la reconstrucción del tejido social, la unión familiar y la integración comunitaria, así como la seguridad ciudadana.
 
-> <small>(REFORMADO, D.O. 9 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, D.O. 8 DE ABRIL DE 2026)</small>
 
-Queda prohibida toda discriminación por motivo de raza, origen étnico, nacionalidad, género e identidad de género, edad, discapacidades, condiciones de salud, social, económica o lingüística, preferencias sexuales, identidad sexual, filiación, instrucción, religión, ideología política, o cualquier otro que atente contra la dignidad humana, y tenga por objeto anular o menoscabar los derechos y libertades de las personas; así como el uso de cualquier forma de violencia, la comisión de actos que humillen y ultrajen a las personas, para lo cual se debe impartir una educación basada en una mejor convivencia humana, a fin de fortalecer el aprecio y respeto por la diversidad cultural, la dignidad de la persona, la integridad de la familia, la convicción del interés general de la sociedad, los ideales de fraternidad e igualdad de derechos de todos, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos, manteniendo un plano de igualdad y de respeto para todos. Las niñas, niños y adolescentes no podrán ser objeto de medidas que con la pretensión de ser correctivas, se fundamenten en causas discriminatorias o que sean consecuencia de las actividades, las opiniones expresadas o las creencias de sus padres, o sus tutores o de sus demás familiares.
+Queda prohibida toda discriminación por motivo de raza, origen étnico, nacionalidad, género e identidad de género, edad, discapacidades, condiciones de salud, social, económica o lingüística, orientación sexual, identidad de género, expresión de género, características sexuales, filiación, instrucción, religión, ideología política, o cualquier otro que atente contra la dignidad humana, y tenga por objeto anular o menoscabar los derechos y libertades de las personas; así como el uso de cualquier forma de violencia, la comisión de actos que humillen y ultrajen a las personas, para lo cual se debe impartir una educación basada en una mejor convivencia humana, a fin de fortalecer el aprecio y respeto por la diversidad cultural, la dignidad de la persona, la integridad de la familia, la convicción del interés general de la sociedad, los ideales de fraternidad e igualdad de derechos de todos, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos, manteniendo un plano de igualdad y de respeto para todos. Las niñas, niños y adolescentes no podrán ser objeto de medidas que con la pretensión de ser correctivas, se fundamenten en causas discriminatorias o que sean consecuencia de las actividades, las opiniones expresadas o las creencias de sus padres, o sus tutores o de sus demás familiares.
 
 > <small>(REFORMADO, D.O. 11 DE ABRIL DE 2007)</small>
 
@@ -167,6 +171,10 @@ El derecho a la ciudad permite garantizar el ejercicio pleno de los derechos hum
 
 El campo es la base fundamental para el desarrollo rural integral y sustentable en el Estado, por ello, se reconocen los derechos de las personas campesinas establecidos en los Tratados Internacionales de los que el Estado Mexicano es parte, así como los reconocidos por la Constitución Política de los Estados Unidos Mexicanos. Las medidas legislativas y administrativas adoptadas por el Estado para favorecer su protección, promoción y mejora deberán salvaguardarlos.
 
+> <small>(ADICIONADO, D.O. 8 DE ABRIL DE 2026)</small>
+
+El Estado reconoce el derecho a la seguridad y soberanía alimentaria, en términos del Artículo 4º de la Constitución General, garantizando el acceso a una alimentación suficiente, saludable y nutritiva para el desarrollo humano mediante políticas públicas sostenibles, basados en los sistemas alimentarios locales, agroecológicos, libres de amenazas a la salud pública, el patrimonio biocultural, así como social y económicamente responsables con el bienestar.
+
 > <small>(ADICIONADO, D.O. 24 DE OCTUBRE DE 2025)</small>
 
 El Estado promoverá la participación de las personas trabajadoras del campo y otras que laboren en zonas rurales de manera directa o por conducto de organizaciones representativas en la elaboración de políticas, programas y proyectos que les afecten su vida, sus tierras o medios de subsistencia.
@@ -211,9 +219,9 @@ III.- Prestar los servicios que las Leyes prescriban, considerándose como tales
 
 IV.- Inscribirse en el padrón de su municipalidad manifestando la propiedad que tengan, o la industria, profesión o trabajo de que subsistan; y
 
-> <small>(REFORMADA, D.O. 9 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, D.O. 8 DE ABRIL DE 2026)</small>
 
-V.- Corresponsabilizarse con el Estado en la protección y vigilancia de los derechos de las niñas, niños y adolescentes, conforme a las leyes, así como ser responsables de que sus hijas, hijos o pupilos menores de dieciocho años concurran a las escuelas, para recibir la educación obligatoria en los términos que establezca la ley, así como participar en su proceso educativo, al revisar su progreso y desempeño, velando siempre por su bienestar y desarrollo.
+V.- Corresponsabilizarse con el Estado en la protección y vigilancia de los derechos de las niñas, niños y adolescentes, conforme a las leyes, así como ser responsables de que sus hijas, hijos o pupilos menores de dieciocho años concurran a las escuelas, para recibir la educación obligatoria en los términos que establezca la ley, así como participar en su proceso educativo, al revisar su progreso y desempeño, así como fomentar en ellos, hábitos de una vida saludable, velando siempre por su bienestar y desarrollo.
 
 > <small>(REFORMADO, D.O. 4 DE JULIO DE 1938)</small>
 
@@ -3079,17 +3087,17 @@ X.- organizar un sistema de Planeación del Desarrollo Integral que imprima soli
 
 XI.- coadyuvar con la Federación promoviendo las condiciones para el desarrollo rural integral, con el propósito de generar empleos y de garantizar el acceso de la población campesina al bienestar y justa incorporación y participación en el desarrollo del Estado;
 
-> <small>(REFORMADA, D.O. 24 DE MAYO DE 2006)</small>
+> <small>(REFORMADA, D.O. 8 DE ABRIL DE 2026)</small>
 
-XII.- fomentar la actividad agropecuaria y forestal para el mejor aprovechamiento de los recursos naturales con obras de infraestructura, créditos y servicios públicos de capacitación y extensionismo;
+XII.- Fomentar la actividad agropecuaria, forestal, agrícola, agroindustrial, turismo rural comunitario y apícola con visión de un desarrollo social y para el mejor aprovechamiento de los recursos naturales con obras de infraestructura, créditos y servicios públicos de capacitación y extensionismo, integrando la participación y la articulación efectiva del sector productivo, políticas, autoridades, así como en los procesos de producción, distribución y comercialización;
 
 > <small>(ADICIONADA, D.O. 27 DE JUNIO DE 2024)</small>
 
 XII Bis.- Fomentar y promover la actividad artesanal del Estado, con el objetivo de garantizarles el derecho para acceder y realizar sus actividades en condiciones dignas para el aprovechamiento de sus capacidades culturales y económicas; y así, contribuir a la generación de un mayor ingreso familiar de las y los artesanos, mediante su desarrollo humano, social y económico.
 
-> <small>(REFORMADA, D.O. 5 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, D.O. 8 DE ABRIL DE 2026)</small>
 
-XIII.- Apoyar e impulsar a las empresas del sector social y las del sector privado propiedad de nacionales, siempre y cuando contribuyan, en el marco de la planeación del desarrollo económico estatal, a los objetivos que en su caso se establezcan;
+XIII.- Apoyar e impulsar al sector productivo, así como a las empresas del sector social y las del sector privado propiedad de nacionales, impulsando redes de cooperativas y de cooperación, siempre y cuando contribuyan, en el marco de la planeación del desarrollo económico estatal, a los objetivos que en su caso se establezcan;
 
 > <small>(REFORMADA, D.O. 5 DE ENERO DE 2012)</small>
 
@@ -3153,9 +3161,9 @@ La educación inicial es un derecho de la niñez y será responsabilidad del Est
 
 Son bases de la Educación que se imparta en el Estado, las siguientes:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O. 9 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 8 DE ABRIL DE 2026)</small>
 
-I.- Será obligatoria, universal, inclusiva, pública, gratuita, progresista, con contenido nacional y regional, democrática y tenderá a la igualdad entre las personas, procurará siempre desarrollar de manera armónica las facultades del ser humano hasta el máximo de sus posibilidades, fomentará la no discriminación, el civismo, la identidad nacional, el máximo aprovechamiento sustentable de los recursos naturales y la protección del medio ambiente, y promoverá la enseñanza de la lengua de señas mexicana, en la educación básica, el respeto a todos los derechos humanos, las libertades, la cultura de paz y la conciencia de la solidaridad internacional, en la independencia y en la justicia, la honestidad, los valores y la mejora continua del proceso de enseñanza aprendizaje;
+I.- Será obligatoria, universal, inclusiva, pública, gratuita, progresista, con contenido nacional y regional, democrática y tenderá a la igualdad entre las personas, procurará siempre desarrollar de manera armónica las facultades del ser humano hasta el máximo de sus posibilidades, fomentará la no discriminación, el civismo, la identidad nacional, el máximo aprovechamiento sustentable de los recursos naturales y la protección del medio ambiente, promoverá los hábitos para una alimentación nutritiva, suficiente y de calidad, y promoverá la enseñanza de la lengua de señas mexicana, en la educación básica, el respeto a todos los derechos humanos, las libertades, la cultura de paz y la conciencia de la solidaridad internacional, en la independencia y en la justicia, la honestidad, los valores y la mejora continua del proceso de enseñanza aprendizaje;
 
 > <small>(REFORMADO [N. DE E. ADICIONADO CON SUS INCISOS], D.O. 9 DE JUNIO DE 2020)</small>
 
@@ -3363,9 +3371,9 @@ La planeación para el desarrollo estatal y municipal facilitará la programaci�
 
 La ley facultará al Poder Ejecutivo para que establezca los procedimientos de participación y consulta popular en el sistema estatal de planeación democrática, y los criterios para la formulación, instrumentación, control y evaluación del plan y los programas de desarrollo.
 
-> <small>(ADICIONADO, D.O. 19 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, D.O. 8 DE ABRIL DE 2026)</small>
 
-La planeación del Estado también implicará mecanismos para el uso racional de los recursos naturales, la salud y el desarrollo sostenido.
+La planeación del Estado también implicará mecanismos para el uso racional de los recursos naturales, la salud y el desarrollo sostenido y bajo los principios de eficiencia, economía, sustentabilidad se podrán considerar proyectos que abarquen periodos gubernamentales más allá de la gestión, siempre y cuando estos no comprometan la estabilidad financiera de las subsecuentes administraciones.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 20 DE ABRIL DE 2016)</small>
 
@@ -6402,3 +6410,19 @@ Artículo segundo. El Congreso del Estado deberá expedir la normatividad señal
 Cláusula derogatoria
 
 Artículo tercero. Se derogan todas las disposiciones de igual o menor rango que se opongan a lo establecido en este decreto.
+
+D.O. 8 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 173/2026 POR EL QUE SE MODIFICA LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN, EN MATERIA DE SALUD MENTAL, ALIMENTACIÓN NUTRITIVA Y NO DISCRIMINACIÓN”.]
+
+Entrada en vigor
+
+Artículo primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Ajustes normativos
+
+Artículo segundo. El Congreso del Estado de Yucatán en un plazo que no podrá exceder de 180 días naturales deberá realizar los ajustes normativos a las leyes a las que haya lugar para cumplir con el presente decreto.
+
+Cláusula derogatoria
+
+Artículo tercero. Se derogan todas las disposiciones de igual o menor rango que se opongan al contenido del presente decreto.
