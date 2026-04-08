@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1000
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-01"
-last_updated: "2025-06-20"
+last_updated: "2026-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100038&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "YUC"
 ---
 # LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATAN
 
-LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN
+LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIAS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 8 DE ABRIL DE 2026.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el martes 1 de abril de 2014.
 
@@ -37,19 +37,21 @@ E X P O S I C I Ó N D E M O T I V O S:
 
 En tal virtud, con fundamento en los artículos 30 fracción V de la Constitución Política, 18 y 43 fracción XII, inciso b) de la Ley de Gobierno del Poder Legislativo y 71 fracción II del Reglamento de la Ley de Gobierno del Poder Legislativo, todos del Estado de Yucatán, sometemos a consideración del Pleno del Congreso del Estado de Yucatán, el siguiente proyecto de:
 
-Ley de Acceso de las Mujeres a una Vida Libre de Violencia del Estado de Yucatán
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 8 DE ABRIL DE 2026)</small>
+
+Ley de Acceso de las Mujeres a una Vida Libre de Violencias del Estado de Yucatán
 
 ## Título primero. Disposiciones generales
 
 ### Capítulo único. Disposiciones preliminares
 
-> <small>(REFORMADO, D.O. 20 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO, D.O. 8 DE ABRIL DE 2026)</small>
 
 ###### Artículo 1.
 
 Objeto
 
-Esta Ley es de orden público, de interés social y de observancia general en el estado de Yucatán y tiene por objeto garantizar el derecho de todas las mujeres en igualdad de condiciones, a una vida libre de violencia, a través de la regulación de los principios de actuación y mecanismos de coordinación entre las autoridades y las medidas de atención a las víctimas, velando en todo momento por brindar un debido acompañamiento a las mismas, así como también evitar y erradicar la revictimización.
+Esta Ley es de orden público, de interés social y de observancia general en el estado de Yucatán y tiene por objeto garantizar el derecho de todas las mujeres en igualdad de condiciones, a una vida libre de violencia, a través de la regulación de los principios de actuación y mecanismos de coordinación entre las autoridades y las medidas de atención a las víctimas, velando en todo momento por brindar una debida diligencia a las mismas, así como también evitar y erradicar la revictimización.
 
 ###### Artículo 2.
 
@@ -105,9 +107,21 @@ XI. Víctima: es toda aquella niña, adolescente o mujer de cualquier edad, orig
 
 XII. Violencia contra las mujeres: la acción u omisión por motivo de género, que tenga como resultado violencia económica, física, psicológica, sexual, estética, obstétrica o cause la muerte de la mujer, en términos del artículo 6 de esta ley; tanto en el ámbito privado como en el público.
 
-> <small>(ADICIONADA, D.O. 20 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, D.O. 8 DE ABRIL DE 2026)</small>
 
-XIII. Debido acompañamiento: Es la obligación de las personas servidoras públicas y de la sociedad en general a quienes corresponda la atención de las víctimas, de prevenir, atender, investigar y sancionar la violencia contra las mujeres de manera oficiosa, oportuna, competente, independiente, imparcial, exhaustiva con la participación individual y colectiva de las mujeres, para garantizar el derecho a una vida libre de violencia, a la verdad, la justicia y la reparación integral y transformadora.
+XIII. Debida diligencia: Es la obligación de las personas servidoras públicas a quienes corresponda la atención de las víctimas, de prevenir, atender, investigar y sancionar la violencia contra las mujeres de manera oficiosa, oportuna, competente, independiente, imparcial, exhaustiva con la participación individual y colectiva de las mujeres, para garantizar el derecho a una vida libre de violencia, a la verdad, la justicia y la reparación integral y transformadora.
+
+> <small>(ADICIONADA, D.O. 8 DE ABRIL DE 2026)</small>
+
+XIV. Interseccionalidad: Herramienta analítica para estudiar, entender y responder a las maneras en que el género se cruza con otras identidades creando múltiples ejes de diferencias que se intersectan en contextos históricos específicos, mismos que contribuyen a experiencias específicas de opresión y privilegio e influyen sobre el acceso de las mujeres y las niñas a derechos y oportunidades.
+
+> <small>(ADICIONADA, D.O. 8 DE ABRIL DE 2026)</small>
+
+XV. Interculturalidad: El enfoque intercultural parte del reconocimiento y respeto de las diferencias culturales existentes, bajo la concepción de que las culturas pueden ser diferentes entre sí pero igualmente válidas, no existiendo culturas superiores ni inferiores. Está orientado a abordar las particularidades de las mujeres de los pueblos indígenas afrodescendientes y otros grupos étnicos diferenciados y su relación con la sociedad dominante, más allá de la coexistencia de culturas.
+
+> <small>(ADICIONADA, D.O. 8 DE ABRIL DE 2026)</small>
+
+XVI. Enfoque diferencial: Tiene como objetivo visibilizar las diferentes situaciones de vulnerabilidad de las mujeres, las adolescentes y las niñas, ya sea por género, edad, etnia o discapacidad; así como las vulneraciones específicas a sus derechos humanos en tanto pertenecientes a grupos sociales o culturales específicos. Lo anterior con el objetivo de diseñar y ejecutar medidas afirmativas para la garantía del goce efectivo de los derechos de las mujeres, las adolescentes y las niñas.
 
 ###### Artículo 3.
 
@@ -121,21 +135,45 @@ Principios rectores
 
 Las autoridades estatales y municipales, en la elaboración y ejecución de las políticas públicas orientadas a prevenir, atender, sancionar y erradicar la violencia contra las mujeres, deberán observar los principios rectores siguientes:
 
-I. La igualdad de género.
+> <small>(REFORMADA, D.O. 8 DE ABRIL DE 2026)</small>
 
-II. El respeto a los derechos humanos de las mujeres.
+I. La igualdad jurídica, sustantiva, de resultados y estructural.
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADA, D.O. 8 DE ABRIL DE 2026)</small>
 
-III. La no discriminación por razones de género, en términos del último párrafo del artículo 1o de la Constitución Política de los Estados Unidos Mexicanos.
+II. La dignidad de las mujeres.
 
-IV. La libertad y autonomía de las mujeres.
+> <small>(REFORMADA, D.O. 8 DE ABRIL DE 2026)</small>
 
-V. La perspectiva de género.
+III. La no discriminación.
 
-> <small>(ADICIONADA, D.O. 20 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, D.O. 8 DE ABRIL DE 2026)</small>
 
-VI. Autodeterminación humana.
+IV. La libertad de las mujeres.
+
+> <small>(REFORMADA, D.O. 8 DE ABRIL DE 2026)</small>
+
+V. La universalidad, la interdependencia, la indivisibilidad y la progresividad de los derechos humanos.
+
+> <small>(REFORMADA, D.O. 8 DE ABRIL DE 2026)</small>
+
+VI. La perspectiva de género.
+
+> <small>(ADICIONADA, D.O. 8 DE ABRIL DE 2026)</small>
+
+VII. La debida diligencia.
+
+> <small>(ADICIONADA, D.O. 8 DE ABRIL DE 2026)</small>
+
+VIII. La interseccionalidad.
+
+> <small>(ADICIONADA, D.O. 8 DE ABRIL DE 2026)</small>
+
+IX. La interculturalidad.
+
+> <small>(ADICIONADA, D.O. 8 DE ABRIL DE 2026)</small>
+
+X. El enfoque diferencial.
 
 ###### Artículo 5.
 
@@ -183,9 +221,9 @@ XIV. Ser debidamente asesorado e informado por parte del Instituto Estatal de Tr
 
 XV. A no ser revictimizadas por parte de los servidores públicos y de la sociedad en general a quienes corresponda su atención.
 
-> <small>(ADICIONADA, D.O. 20 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, D.O. 8 DE ABRIL DE 2026)</small>
 
-XVI. A que se les brinde un debido acompañamiento, aplicando las bases propias de la confianza, trato digno, respeto a la víctima, y limitando las actuaciones jurídicas en pro y salvaguarda de la integridad de la mujer.
+XVI. A que se les brinde una debida diligencia, aplicando las bases propias de la confianza, trato digno, respeto a la víctima, y limitando las actuaciones jurídicas en pro y salvaguarda de la integridad de la mujer.
 
 XVII. Los demás derechos previstos en esta ley, en la ley general, en las leyes general y estatal de víctimas, y en otras disposiciones legales y normativas aplicables.
 
@@ -677,15 +715,15 @@ X. Crear un micrositio en la página de Internet actual de la Fiscalía General 
 
 XI. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
 
-> <small>(REFORMADO SU EPÍGRAFE, D.O. 31 DE JULIO DE 2019)</small>
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 8 DE ABRIL DE 2026)</small>
 
 ###### Artículo 20.
 
-Secretaría de Fomento Económico y Trabajo
+Secretaría de Economía y Trabajo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 31 DE JULIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 8 DE ABRIL DE 2026)</small>
 
-La Secretaría de Fomento Económico y Trabajo, en el ámbito de su competencia, tendrá las atribuciones siguientes:
+La Secretaría de Economía y Trabajo, en el ámbito de su competencia, tendrá las atribuciones siguientes:
 
 I. Desarrollar programas y acciones dirigidos a prevenir, atender, sancionar o erradicar la violencia laboral.
 
@@ -703,7 +741,13 @@ V. Diseñar campañas de difusión para impulsar la igualdad de género salarial
 
 VI. Promover políticas de igualdad de condiciones y oportunidades entre mujeres y hombres, para lograr el adelanto de las mujeres para su empoderamiento y la eliminación de las brechas y desventajas de género.
 
-VII. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
+> <small>(ADICIONADA, D.O. 8 DE ABRIL DE 2026)</small>
+
+VII. Fomentar en coordinación con la Secretaría de las Mujeres, la impartición de capacitaciones, cursos o talleres en los refugios temporales, para que las mujeres víctimas de violencia puedan adquirir conocimientos para el desempeño de una actividad laboral.
+
+Para tal efecto, la Secretaría promoverá la vinculación con instituciones de capacitación para el trabajo, centros de formación técnica, instituciones educativas y organismos especializados, a fin de que las mujeres puedan acceder a procesos formativos que les permitan obtener certificaciones, desarrollar habilidades productivas y facilitar su inserción en el mercado laboral o el desarrollo de proyectos productivos propios.
+
+VIII. Las demás que le confiera esta ley y otras disposiciones legales y normativas aplicables.
 
 > <small>(REFORMADO SU EPÍGRAFE, D.O. 31 DE JULIO DE 2019)</small>
 
@@ -1113,9 +1157,9 @@ I. Órdenes de protección.
 
 II. Refugios temporales.
 
-> <small>(ADICIONADA, D.O. 20 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, D.O. 8 DE ABRIL DE 2026)</small>
 
-III. Debido acompañamiento a las mujeres víctimas de violencia.
+III. Debida diligencia a las mujeres víctimas de violencia.
 
 IV. Centros de reeducación.
 
@@ -1435,67 +1479,115 @@ XI. Los demás que dispongan las autoridades en la materia.
 
 Los servicios a cargo de los refugios temporales deberán prestarse con perspectiva de género a fin de que las víctimas al concluir su estancia estén en la posibilidad de acceder a una vida libre de violencia.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 20 DE JUNIO DE 2025)</small>
+> <small>(ADICIONADO, D.O. 8 DE ABRIL DE 2026)</small>
 
-### Capítulo III Bis. Del debido acompañamiento a las mujeres víctimas de violencia
+Los servicios a cargo de los refugios temporales también deberán proporcionar toda la información para el acceso a programas sociales, de proyectos productivos o desarrollo económico, que brinden el Gobierno Federal, Estatal y/o Municipal.
 
-> <small>(ADICIONADO, D.O. 20 DE JUNIO DE 2025)</small>
+> <small>(ADICIONADO, D.O. 8 DE ABRIL DE 2026)</small>
+
+Los refugios temporales deberán promover la vinculación con dependencias, instituciones de capacitación para el trabajo, organismos públicos y privados y programas de inserción laboral, con el objetivo de fortalecer la autonomía económica de las mujeres al concluir su estancia en el refugio.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 8 DE ABRIL DE 2026)</small>
+
+### Capítulo III Bis. De la debida diligencia a las mujeres víctimas de violencias
+
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 8 DE ABRIL DE 2026)</small>
 
 ###### Artículo 61 Bis.
 
-Del debido acompañamiento
+De la debida diligencia
+
+> <small>(ADICIONADO, D.O. 20 DE JUNIO DE 2025)</small>
 
 Con el objetivo de tener mayor confianza por parte de las víctimas para con las autoridades e incentivar la cultura de la denuncia o demanda, este mecanismo debe emplear técnicas de sensibilización respecto de las víctimas, con el objeto de salvaguardar la integridad de las mismas, así como también evitar una revictimización o victimización secundaria, para lo cual, los servidores públicos y de la sociedad en general a quienes corresponda la atención de las víctimas, deberán desarrollar esta figura jurídica, conforme a los (sic) dispuesto en el artículo 1º de la Constitución Política de los Estados Unidos Mexicanos y de los tratados internacionales respecto de los derechos humanos, y derechos de las mujeres.
 
+> <small>(ADICIONADO, D.O. 20 DE JUNIO DE 2025)</small>
+
 Es por ello que, los servidores públicos y la sociedad en general a quienes corresponda la atención de las víctimas, deberán capacitarse y prepararse en temas de trato digno, sensibilización y todo lo referente a los derechos de las mujeres.
 
-> <small>(ADICIONADO, D.O. 20 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 8 DE ABRIL DE 2026)</small>
 
 ###### Artículo 61 Ter.
 
-Objetivos del debido acompañamiento
+Objetivos de la debida diligencia
 
-Los objetivos del debido acompañamiento a mujeres víctimas de violencia, son:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 8 DE ABRIL DE 2026)</small>
+
+Los objetivos de la debida diligencia para mujeres víctimas de violencia, son:
+
+> <small>(ADICIONADA, D.O. 20 DE JUNIO DE 2025)</small>
 
 I. Establecer las bases y aspectos teóricos y jurídicos para la atención de mujeres víctimas.
 
-II. Especificar las características de los servicios de acompañamiento, incluida la sensibilización y trato digno.
+> <small>(REFORMADA, D.O. 8 DE ABRIL DE 2026)</small>
 
-III. Forjar la confianza y el alcance de la prestación de servicios de acompañamiento por parte de los servidores públicos y de la sociedad en general a quienes corresponda la atención de las víctimas.
+II. Especificar las características de los servicios de debida diligencia, incluida la sensibilización y trato digno.
 
-IV. Facilitar la comprensión de todo lo concerniente a un debido acompañamiento, así como también de todas y cada una de las actuaciones judiciales.
+> <small>(REFORMADA, D.O. 8 DE ABRIL DE 2026)</small>
+
+III. Forjar la confianza y el alcance de la prestación de servicios de debida diligencia por parte de los servidores públicos y de la sociedad en general a quienes corresponda la atención de las víctimas.
+
+> <small>(REFORMADA, D.O. 8 DE ABRIL DE 2026)</small>
+
+IV. Facilitar la comprensión de todo lo concerniente a una debida diligencia, así como también de todas y cada una de las actuaciones judiciales.
+
+> <small>(ADICIONADA, D.O. 20 DE JUNIO DE 2025)</small>
 
 V. Evitar la revictimización de las mujeres en situación de violencia.
 
+> <small>(ADICIONADA, D.O. 20 DE JUNIO DE 2025)</small>
+
 VI. Vincular con los servicios médicos, psicológicos, sociales, jurídicos o cuales quiera (sic) que tengan injerencia en el caso que se trate, para que, en coadyuvancia, la víctima se sienta protegida y en confianza.
+
+> <small>(ADICIONADA, D.O. 20 DE JUNIO DE 2025)</small>
 
 VII. Mantener un ambiente donde la víctima se siente en confianza y protección.
 
-> <small>(ADICIONADO, D.O. 20 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 8 DE ABRIL DE 2026)</small>
 
 ###### Artículo 61 Quáter.
 
-El acompañamiento a víctimas
+La debida diligencia para las víctimas.
 
-El acompañamiento de las víctimas buscará en todo momento:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 8 DE ABRIL DE 2026)</small>
+
+La debida diligencia para las víctimas buscará en todo momento:
+
+> <small>(ADICIONADA, D.O. 20 DE JUNIO DE 2025)</small>
 
 I. Orientar y asesorar a las víctimas utilizando un lenguaje claro y sencillo, que deberá ser de respeto y digno.
 
+> <small>(ADICIONADA, D.O. 20 DE JUNIO DE 2025)</small>
+
 II. Representar a las víctimas directas e indirectas ante cualquier instancia institucional a efecto de restablecer sus derechos humanos, así como aplicar normas y estándares internacionales en todas las actuaciones pertinentes.
+
+> <small>(ADICIONADA, D.O. 20 DE JUNIO DE 2025)</small>
 
 III. Hacer del conocimiento de los derechos que les confiere la Ley de Protección a las Víctimas, el Código Nacional de Procedimientos Penales, o la normatividad en materia de violencia a las mujeres, tanto federal como estatal.
 
+> <small>(ADICIONADA, D.O. 20 DE JUNIO DE 2025)</small>
+
 IV. Comunicar a la víctima el derecho que tiene para solicitar a la autoridad ministerial y judicial las órdenes de protección que correspondan.
+
+> <small>(ADICIONADA, D.O. 20 DE JUNIO DE 2025)</small>
 
 V. Garantizar que cuando la víctima sea una menor de edad, deberá estar acompañada por su tutor o quien tenga su representación legal, en cuyo caso el o la asesor jurídico tendrá la obligación de informarles en un lenguaje claro y sencillo, con respeto y velando por la dignidad de sus derechos, todo lo concerniente al procedimiento jurídico del que se trate. Vigilando en todo momento que se cumpla con el interés superior de la infancia por parte de las autoridades.
 
-VI. Asegurar que el acompañamiento de la víctima se realicen las solicitudes que se hagan al Ministerio Público o Fiscalía competente, para que éste dicte las medidas de protección requeridas, mismas que deberán de guardar congruencia con los hechos delictivos y que sean las más prontas, expeditas y favorables para las víctimas.
+> <small>(REFORMADA, D.O. 8 DE ABRIL DE 2026)</small>
+
+VI. Asegurar que durante la debida diligencia para la víctima se realicen las solicitudes al Ministerio Público o Fiscalía competente, para que éste dicte las medidas de protección requeridas, mismas que deberán de guardar congruencia con los hechos delictivos y que sean las más prontas, expeditas y favorables para las víctimas.
+
+> <small>(ADICIONADA, D.O. 20 DE JUNIO DE 2025)</small>
 
 VII. Canalizar a las víctimas a los servicios médicos que así lo requiera (sic), tomando como base la autorización de la víctima.
 
+> <small>(ADICIONADA, D.O. 20 DE JUNIO DE 2025)</small>
+
 VIII. Toda actuación, procedimiento o acción, deberá ser en primera instancia informado a la víctima de su realización, y de manera discrecional, velando por la integridad de ésta, se realizarán.
 
-IX. La integridad y la dignidad de toda mujer serán los que prevalezcan en cada una de las actuaciones que debe contener el debido acompañamiento.
+> <small>(REFORMADA, D.O. 8 DE ABRIL DE 2026)</small>
+
+IX. La integridad y la dignidad de toda mujer serán los que prevalezcan en cada una de las actuaciones que debe contener la debida diligencia.
 
 ### Capítulo IV. Centros de reeducación
 
@@ -2074,3 +2166,15 @@ Artículo primero. Este decreto entrará en vigor al día siguiente de su public
 Cláusula derogatoria
 
 Artículo segundo. Se derogan las disposiciones de igual o menor jerarquía en lo que se opongan a este decreto.
+
+D.O. 8 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 177/2026 POR EL QUE SE MODIFICA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE YUCATÁN, EN MATERIA DE LIBERTAD ECONÓMICA, INTERSECCIONALIDAD, INTERCULTURALIDAD, ENFOQUE DIFERENCIAL Y DEBIDA DILIGENCIA”.]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Cláusula derogatoria
+
+Artículo segundo. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
