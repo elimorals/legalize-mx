@@ -4,7 +4,7 @@ identifier: "YUC-codigo-penal-del-estado-de-yucatan-17049"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-30"
-last_updated: "2026-02-11"
+last_updated: "2026-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 CÓDIGO PENAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 8 DE ABRIL DE 2026.
 
 Código publicado en el Diario Oficial del Estado de Yucatán, el jueves 30 de marzo de 2000.
 
@@ -624,6 +624,10 @@ V.- El costo de la pérdida de oportunidades, en particular el empleo, educació
 VI.- La declaración que restablezca la dignidad y reputación de la víctima, a través de medios electrónicos o escritos, y
 
 VII.- La disculpa pública, la aceptación de responsabilidad, así como la garantía de no repetición, cuando el delito se cometa por servidores públicos.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2026)</small>
+
+Sin perjuicio de las fracciones anteriores en la reparación del daño, tratándose del delito de incumplimiento de obligaciones de asistencia familiar, el órgano judicial deberá contemplar el importe legalmente acreditado de los gastos realizados, deudas y obligaciones contraídas por los acreedores alimentarios o sus representantes legales durante el lapso en que persistió el incumplimiento y cuya finalidad haya sido satisfacer los medios de subsistencia necesaria para garantizar los alimentos en términos de la ley sustantiva familiar local. Asimismo, el monto de las costas erogadas al asesor jurídico particular cuando se haya acreditado fehacientemente ante el órgano judicial. Asimismo, al determinar la reparación del daño respecto al citado delito de incumplimiento de obligaciones de asistencia familiar en donde estén inmersos los derechos de niñas, niños y adolescentes, se deberá observar en todo momento el interés superior de la niñez.
 
 Los medios para la rehabilitación deben ser lo más completos posible, y deberán permitir a la víctima participar de forma plena en la vida pública, privada y social.
 
@@ -2271,9 +2275,9 @@ ARTÍCULO 220 BIS. Se aplicará de seis meses a tres años de prisión y de vein
 
 El delito de incumplimiento de obligaciones de asistencia familiar se perseguirá mediante querella de la parte agraviada.
 
-> <small>(REFORMADO, D.O. 24 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2026)</small>
 
-Cuando el incumplimiento se refiera a los hijos, a los ascendientes adultos mayores o exista imposibilidad para presentar la querella por parte de los acreedores, se perseguirá de oficio y cuando proceda, el Ministerio Público promoverá la designación de un tutor especial o representante para las víctimas del delito ante la autoridad judicial, que tendrá facultades para designarlos. Se declarará extinguida la acción penal oyéndose previamente al tutor o representante, cuando el procesado hubiese cubierto el importe de los alimentos vencidos.
+Cuando el incumplimiento se refiera a hijas e hijos, a los ascendientes que sean personas adultas mayores o exista imposibilidad para presentar la querella por parte de los acreedores, se perseguirá de oficio y cuando proceda, el Ministerio Público promoverá la designación de un tutor especial o representante para las víctimas del delito ante la autoridad judicial que tendrá facultades para designarlos; se declarará extinguida la acción penal cuando el ministerio público o el órgano judicial se haya cerciorado fehacientemente que el procesado haya cubierto el importe de los alimentos vencidos y se haya cumplido con la reparación del daño prevista en el artículo 33 de este código, escuchando el parecer del tutor especial o representante.
 
 > <small>(ADICIONADO, D.O. 6 DE SEPTIEMBRE DE 2021)</small>
 
@@ -6382,3 +6386,19 @@ Los procedimientos penales en materia de feminicidio y abuso sexual, iniciados a
 Para el caso de la reforma en materia de legítima defensa a los artículos 21 y 22 del presente decreto, el órgano jurisdiccional deberá observar su contenido para, si fuera el caso, aplicarla como causa de exclusión del delito en términos de lo dispuesto en el Capítulo VII del Código Penal del Estado de Yucatán tanto para dictarse sentencia en primera y segunda instancia, como para la revisión por parte del juez de ejecución en aquellas personas que hayan sido sentenciados (sic).
 
 Las previsiones en este artículo transitorio se realizan en plena observancia al Principio de Irretroactividad de la Ley en materia penal.
+
+P.O. 8 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 176/2026 POR EL QUE SE MODIFICA EL CÓDIGO PENAL DEL ESTADO DE YUCATÁN, EN MATERIA DE REPARACIÓN DEL DAÑO EN EL DELITO DE INCUMPLIMIENTO DE OBLIGACIONES DE ASISTENCIA FAMILIAR”.]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Asuntos en trámite
+
+Artículo segundo. Los asuntos que se encuentren en trámite ante el ministerio público o el órgano judicial en los que no se haya dictado sentencia de primera o segunda instancia deberán observar lo previsto para la reparación del daño en los términos que ordena el presente decreto.
+
+Protocolo de actuación
+
+Artículo tercero. La autoridad investigadora en lo conducente, para la investigación del delito de incumplimiento de obligaciones de asistencia familiar, podrá implementar un protocolo que asegure la correcta integración de las carpetas de investigación en ese delito.
