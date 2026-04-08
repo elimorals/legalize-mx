@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-educacion-del-estado-de-yucatan-143736"
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-29"
-last_updated: "2024-08-05"
+last_updated: "2026-04-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143736&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 5 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 8 DE ABRIL DE 2026.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 29 de julio de 2020.
 
@@ -227,7 +227,9 @@ En ningún caso, se utilizarán la existencia de denuncias por cualquier tipo de
 
 Derecho a la salud
 
-Las autoridades educativas, los docentes y el personal que realiza funciones de dirección o supervisión serán responsables de vigilar el cumplimiento de los lineamientos emitidos por la Secretaría de Educación Pública para la distribución de alimentos y bebidas preparadas y procesadas dentro de la escuela, en cuya elaboración se cumplirán los criterios nutrimentales que para tal efecto determine la Secretaría de Salud federal y en los términos que reconoce la ley general.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 8 DE ABRIL DE 2026)</small>
+
+Las autoridades educativas, los docentes y el personal que realiza funciones de dirección o supervisión serán responsables de vigilar el cumplimiento de los lineamientos emitidos por la Secretaría de Educación Pública para la distribución de alimentos y bebidas preparadas y procesadas dentro de la escuela, en cuya elaboración se cumplirán los criterios nutrimentales que para tal efecto determine la Secretaría de Salud federal y en los términos que reconoce la ley general. Las escuelas que conforman el Sistema Educativo Nacional tienen prohibido la distribución y expendio de alimentos y bebidas ultra procesadas en cualquier presentación. Deberán estar libres de publicidad en cualquiera de sus formas, que de manera directa o indirecta hagan alusión a marcas, alimentos o bebidas ultra procesadas o preparadas con ingredientes que atenten en contra del estado de salud de las personas.
 
 Estos lineamientos también comprenderán las regulaciones que prohíban los alimentos que no favorezcan la salud de los educandos y fomenten aquellos alimentos con mayor valor nutritivo.
 
@@ -2551,9 +2553,13 @@ VI. Dar a conocer, antes de su aplicación, los exámenes o cualesquiera otros i
 
 VII. Expedir certificados, constancias, diplomas o títulos a quienes no cumplan los requisitos aplicables.
 
-VIII. Realizar o permitir la difusión de publicidad dentro del plantel escolar que no fomente la promoción de estilos de vida saludables en alimentación, así como la comercialización de bienes o servicios notoriamente ajenos al proceso educativo, con excepción de los de alimentos.
+> <small>(REFORMADA, D.O. 8 DE ABRIL DE 2026)</small>
 
-IX. Efectuar actividades que pongan en riesgo la salud o la seguridad de los educandos o que menoscaben su dignidad.
+VIII. Realizar o permitir la publicidad en cualquiera de sus formas, de marcas, alimentos, bebidas o alusiones a ellas al interior de los entornos escolares del Sistema Educativo Nacional.
+
+> <small>(REFORMADA, D.O. 8 DE ABRIL DE 2026)</small>
+
+IX. Efectuar actividades que pongan en riesgo la salud o la seguridad de los educandos o que menoscaben su dignidad, incluyendo la distribución, venta, regalo y suministro de alimentos y bebidas ultra procesadas, por cualquier medio, en cualquier presentación, al interior de los entornos escolares del Sistema Educativo Nacional.
 
 X. Ocultar a las madres y padres de familia o tutores, las conductas de los educandos menores de dieciocho años que notoriamente deban ser de su conocimiento.
 
@@ -2974,3 +2980,15 @@ D.O. 5 DE AGOSTO DE 2024.
 PRIMERO.- Publíquese el presente decreto en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 SEGUNDO.- Este decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 8 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 174/2026 POR EL QUE SE MODIFICAN LA LEY DE SALUD DEL ESTADO DE YUCATÁN, LA LEY DE EDUCACIÓN DEL ESTADO DE YUCATÁN Y LA LEY DE NUTRICIÓN Y COMBATE A LA OBESIDAD PARA EL ESTADO DE YUCATÁN, EN MATERIA DE ENTORNOS SALUDABLES”.]
+
+Entrada en vigor
+
+Artículo primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Cláusula derogatoria
+
+Artículo segundo. Se derogan todas las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
