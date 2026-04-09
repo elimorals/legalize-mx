@@ -4,7 +4,7 @@ identifier: "ROO-constitucion-politica-del-estado-libre-y-soberano-de-7319"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-12"
-last_updated: "2026-03-11"
+last_updated: "2026-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7319&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Quintana Roo, el 12 de enero de 1975.
 
@@ -368,6 +368,10 @@ No se reputará ilegal ni podrá ser disuelta una asamblea o reunión cuyo objet
 Los derechos de tránsito por el Estado, y mudar de residencia dentro del mismo, no requerirán de documento alguno, pero estarán supeditados a las facultades de la autoridad judicial en los casos de responsabilidad civil o criminal, y a la autoridad administrativa por cuanto a las limitaciones que impongan las leyes sobre migración, y las que se establezcan con arreglo a disposiciones federales y locales en materia de salubridad.
 
 Se reconoce el derecho que tienen todas las personas y la colectividad a la movilidad, bajo los principios de seguridad vial, igualdad, accesibilidad, sostenibilidad, eficiencia, calidad, e inclusión. Toda persona con discapacidad tiene derecho a que se facilite su movilidad y a la supresión de todas las barreras arquitectónicas para su desplazamiento.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2026)</small>
+
+El presupuesto destinado a la movilidad y a la seguridad vial no podrá ser inferior al asignado en el ejercicio fiscal inmediato anterior.
 
 ###### ARTICULO 20.
 
@@ -6820,3 +6824,13 @@ P.O. 11 DE MARZO DE 2026.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 9 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 215 POR EL QUE SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 19 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El Poder Ejecutivo, así como las autoridades en materia de movilidad y seguridad vial, de conformidad con la viabilidad presupuestal, deberán realizar las adecuaciones a las disposiciones reglamentarias y normativas que resulten pertinentes para armonizarlas a lo previsto en el presente Decreto, en un plazo no mayor a ciento ochenta días hábiles, contados a partir de la entrada en vigor del presente Decreto.
+
+TERCERO. La Secretaría de Finanzas y Planeación del Poder Ejecutivo del Estado de Quintana Roo, deberá realizar las previsiones y adecuaciones presupuestales que resulten necesarias para la aplicación del presente Decreto.
