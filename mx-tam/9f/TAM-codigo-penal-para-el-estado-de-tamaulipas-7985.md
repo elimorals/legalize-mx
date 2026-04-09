@@ -4,7 +4,7 @@ identifier: "TAM-codigo-penal-para-el-estado-de-tamaulipas-7985"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-20"
-last_updated: "2026-03-24"
+last_updated: "2026-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 20 de diciembre de 1986.
 
@@ -5011,7 +5011,7 @@ Si en la comisión del delito de filicidio participara un médico, partero o enf
 
 ### CAPITULO VIII. ABANDONO DE PERSONAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE OCTUBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ABRIL DE 2026)</small>
 
 ###### ARTICULO 356.
 
@@ -5081,7 +5081,11 @@ III.- Cuando de no provocarse el aborto, la mujer embarazada corra peligro de mu
 
 ###### ARTICULO 362.
 
-Comete el delito de abandono de personas, el que teniendo obligación de cuidarlos, abandone a un menor, a una persona enferma o adulta mayor, incapaces de cuidarse a sí mismos.
+Comete el delito de abandono de personas, el que, teniendo obligación de cuidarlos, abandone a una niña, niño o adolescente, a una persona adulta mayor, a una persona con alguna discapacidad o que sea incapaz de cuidarse o valerse por sí misma.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2026)</small>
+
+Se entiende por abandono lo establecido por la fracción V del artículo 3, de la Ley de Prevención de la Violencia Familiar en el Estado de Tamaulipas.
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2001)</small>
 
@@ -5993,9 +5997,9 @@ XVIII.- Al que obtenga de otro una cantidad de dinero o cualquier otro lucro oto
 
 XIX.- Al que se coloque en estado de insolvencia, con el objeto de eludir las obligaciones a su cargo con respecto a sus acreedores; y
 
-> <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2025)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2026)</small>
 
-XX.- Al que, por medio de plataformas digitales, tiendas en línea, o cualquier medio electrónico, engañe o incite al error al consumidor, mediante la venta de productos o servicios falsos.
+XX.- Al que, por medio de la red de redes, plataformas digitales, tiendas en línea, o cualquier medio electrónico o tecnológico como redes sociales, sitios web o aplicaciones móviles, engañe o incite al error al consumidor mediante la venta, renta, traspaso o cualquier tipo operación relacionada con bienes inmuebles, productos o servicios falsos.
 
 ###### ARTICULO 419.
 
@@ -8302,3 +8306,19 @@ P.O. 24 DE MARZO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial de (sic) Estado.
+
+P.O. 9 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1030 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO Y SE ADICIONA EL PÁRRAFO SEGUNDO, RECORRIENDO EN SU ORDEN NATURAL LOS SUBSECUENTES, AL ARTÍCULO 362 DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1037 MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN XX DEL ARTÍCULO 418, DEL CÓDIGO PENAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
