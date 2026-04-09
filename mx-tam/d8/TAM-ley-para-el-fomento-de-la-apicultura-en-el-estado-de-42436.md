@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-el-fomento-de-la-apicultura-en-el-estado-de-42436"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-16"
-last_updated: "2016-12-21"
+last_updated: "2026-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA EL FOMENTO DE LA APICULTURA EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2026.
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Tamaulipas, el jueves 16 de diciembre de 2004.
 
@@ -121,9 +121,17 @@ f) Registrar en la Secretaría las rutas o territorios apícolas en operación y
 
 g) Participar en la integración de organismos técnicos o de consulta que se establezcan para la protección y mejoramiento de la apicultura;
 
-h) Promover y organizar coordinadamente con las dependencias del Subsector Pecuario, concursos, exposiciones o actos, que tiendan al mejoramiento técnico del apicultor y sus actividades; e
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2026)</small>
 
-i) Manifestar sus opiniones cuando consideren afectados sus intereses.
+h) Promover y organizar coordinadamente con las dependencias del Subsector Pecuario, concursos, exposiciones o actos, que tiendan al mejoramiento técnico del apicultor y sus actividades;
+
+> <small>(REFORMADO, P.O. 9 DE ABRIL DE 2026)</small>
+
+i) Manifestar sus opiniones cuando consideren afectados sus intereses; y
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2026)</small>
+
+j) Recibir incentivos y apoyos económicos por parte del Estado, destinados a fortalecer la producción, tecnificación, innovación, comercialización y preservación de la apicultura como actividad estratégica para el desarrollo económico, social y ambiental de Tamaulipas, de conformidad con la disponibilidad presupuestal.
 
 ###### ARTICULO 7.
 
@@ -744,3 +752,15 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las normas del Código de Procedimientos Penales para el Estado de Tamaulipas, abrogado por el Código Nacional de Procedimientos Penales, en su Artículo Tercero Transitorio, publicado en el Diario Oficial de la Federación, el 5 de marzo de 2014, y de su reforma publicada el 17 de junio de 2016 del citado órgano de difusión, en la que se haga referencia al salario mínimo y que sean objeto de aplicación, se entenderá efectuada la homologación a la que se ciñe el presente Decreto.
+
+P.O. 9 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-1031 MEDIANTE EL CUAL SE REFORMAN LOS INCISOS H) E I) Y SE ADICIONA UN INCISO J) AL ARTÍCULO 6 DE LA LEY PARA EL FOMENTO DE LA APICULTURA EN EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado, a través de la Secretaría de Desarrollo Rural y en coordinación con la Secretaría de Finanzas, establecerá las reglas de operación y montos de los incentivos y apoyos económicos a que se refiere esta reforma, en un plazo no mayor a 180 días naturales.
