@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-sociedades-mutualistas-de-la-ciudad-de-mexico-antes-6382
 country: "mx"
 rank: "ley"
 publication_date: "2008-10-23"
-last_updated: "2021-04-23"
+last_updated: "2026-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63825&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2008-09-18"
 
 LEY DE SOCIEDADES MUTUALISTAS DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 23 DE ABRIL DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE ABRIL DE 2026.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 23 de octubre de 2008.
 
@@ -92,7 +92,9 @@ III. Junta Directiva: Es aquella que tiene facultades y obligaciones que fijen l
 
 IV. Consejo de Vigilancia: Es el que tiene el ejercicio de la supervisión de las Sociedades Mutualistas;
 
-V. Código Civil: Al Código Civil para el Distrito Federal;
+> <small>(REFORMADA, G.O. 9 DE ABRIL DE 2026)</small>
+
+V. Código Civil: Al Código Civil vigente en la Ciudad de México;
 
 > <small>(REFORMADA, G.O. 23 DE ABRIL DE 2021)</small>
 
@@ -166,11 +168,11 @@ VI. Las demás que le estén atribuidas por esta Ley, el Reglamento y otros orde
 
 Podrán formar parte de las Sociedades Mutualistas todas las personas físicas de nacionalidad mexicana.
 
-> <small>(REFORMADO, G.O. 23 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO, G.O. 9 DE ABRIL DE 2026)</small>
 
 ###### Artículo 8.
 
-En lo no previsto por la presente Ley, por lo que se refiere a la constitución y funcionamiento de las Sociedades, se aplicarán las disposiciones del Código Civil y los asuntos contenciosos que tengan las Sociedades frente a la administración, se ventilarán de conformidad con el procedimiento administrativo que prevé la Ley de Procedimiento Administrativo, o bien con el procedimiento contencioso que prevé la Ley Orgánica del Tribunal de Justicia Administrativa, y de manera supletoria a ésta, las disposiciones del Código de Procedimientos Civiles, todos de la Ciudad de México.
+En lo no previsto por la presente Ley, por lo que se refiere a la constitución y funcionamiento de las Sociedades, se aplicarán las disposiciones del Código Civil y los asuntos contenciosos que tengan las Sociedades frente a la administración, se ventilarán de conformidad con el procedimiento administrativo que prevé la Ley de Procedimiento Administrativo, o bien con el procedimiento contencioso que prevé la Ley Orgánica del Tribunal de Justicia Administrativa, ambos de la Ciudad de México, y de manera supletoria a ésta, las disposiciones del Código Nacional de Procedimientos Civiles y Familiares.
 
 ### CAPÍTULO II. DE LA ORGANIZACIÓN
 
@@ -456,13 +458,11 @@ Para este fin, el liquidador comunicará a cada mutualizado el monto de la reser
 
 En caso de reclamación contra una mutualista, derivada de uno de sus socios, estos ocurrirán ante el juez del domicilio de la mutualista a reclamar sus derechos y el juez de la causa podrá ordenar a la demandada que, dentro de los diez días hábiles siguientes, constituya e invierta, la cantidad reclamada, respecto de la cual tendrá el carácter de depositaria en términos del Título Octavo del Código Civil vigente en la Ciudad de México.
 
-> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN LA G.O. DE 23 DE ABRIL DE 2021, PÁGINAS 6 Y 8.]</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 23 DE ABRIL DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE ABRIL DE 2026)</small>
 
 ###### Artículo 38.
 
-Las multas impuestas por incumplimiento a las disposiciones de esta Ley, serán determinadas administrativamente por la Secretaría tomando como base la Unidad de Cuenta de la Ciudad de México al momento de cometerse la infracción, a menos que en la propia Ley se disponga otra forma de sanción. Dichas sanciones se harán efectivas por la autoridad fiscal de la Ciudad de México. Al imponer la sanción que corresponda, la citada Secretaría siempre deberá oír previamente al interesado y tomará en cuenta las condiciones e intención del infractor, la importancia de la infracción y la conveniencia de evitar prácticas tendientes a contravenir las disposiciones de esta Ley.
+Las multas impuestas por incumplimiento a las disposiciones de esta Ley, serán determinadas administrativamente por la Secretaría tomando como base la Unidad de Medida y Actualización vigente al momento de cometerse la infracción, a menos que en la propia Ley se disponga otra forma de sanción. Dichas sanciones se harán efectivas por la autoridad fiscal de la Ciudad de México. Al imponer la sanción que corresponda, la citada Secretaría siempre deberá oír previamente al interesado y tomará en cuenta las condiciones e intención del infractor, la importancia de la infracción y la conveniencia de evitar prácticas tendientes a contravenir las disposiciones de esta Ley.
 
 > <small>(REFORMADO, G.O. 28 DE NOVIEMBRE DE 2014)</small>
 
@@ -503,3 +503,11 @@ PRIMERO.– Remítase a la persona titular de la Jefatura de Gobierno para su pr
 SEGUNDO.– El presente Decreto entrará en vigor al día siguiente de su publicación.
 
 TERCERO.– Las referencias hechas a la Ley de Sociedades Mutualistas del Distrito Federal en otros ordenamientos se entenderán hechas a la Ley de Sociedades Mutualistas de la Ciudad de México.
+
+G.O. 9 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LA FRACCIÓN VI DEL ARTÍCULO 3; Y LOS ARTÍCULOS 8 Y 38 DE LA LEY DE SOCIEDADES MUTUALISTAS DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO. Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
