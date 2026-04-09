@@ -4,7 +4,7 @@ identifier: "CMX-codigo-de-instituciones-y-procedimientos-electorales-de-la-1218
 country: "mx"
 rank: "codigo"
 publication_date: "2017-06-07"
-last_updated: "2024-12-23"
+last_updated: "2026-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121814&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2017-06-06"
 
 CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 23 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 9 DE ABRIL DE 2026.
 
 Código publicado en la Gaceta Oficial de la Ciudad de México, el miércoles 7 de junio de 2017.
 
@@ -626,7 +626,9 @@ VI. No tener mando en instituciones militares o policiales, a menos que se separ
 
 VII. No ejercer una Magistratura de Circuito o ser Juez de Distrito en la Ciudad de México, a menos que se haya separado definitivamente de sus funciones antes de la fecha de inicio del proceso electoral Local correspondiente;
 
-VIII. No ejercer una Magistratura en el Poder Judicial, el Tribunal de Justicia Administrativa ni ser integrante del Consejo de la Judicatura de la Ciudad de México, ni del Tribunal Local de Conciliación y Arbitraje, a menos que se haya separado definitivamente de sus funciones antes de la fecha de inicio del proceso electoral local correspondiente;
+> <small>(REFORMADA, G.O. 9 DE ABRIL DE 2026)</small>
+
+VIII. No ejercer una Magistratura en el Poder Judicial, el Tribunal de Justicia Administrativa ni ser integrante del Órgano de Administración Judicial o del Tribunal de Disciplina Judicial de la Ciudad de México, ni del Tribunal Local de Conciliación y Arbitraje, a menos que se haya separado definitivamente de sus funciones antes de la fecha de inicio del proceso electoral local correspondiente;
 
 IX. No ser legislador o legisladora Local o Federal, ni ser concejal o titular de una alcaldía, dependencia, unidad administrativa, órgano desconcentrado, organismo autónomo o entidad paraestatal de la Administración Pública de la Ciudad de México o de la Fiscalía General de Justicia de la Ciudad de México, a menos que se haya separado definitivamente de sus funciones al menos 180 días antes de la jornada electoral Local correspondiente;
 
@@ -662,11 +664,15 @@ En el caso de las candidaturas de personas originarias de la Ciudad de México r
 
 IV. No estar en servicio activo en el Ejército Federal ni tener mando en la policía de la Ciudad de México, cuando menos antes del inicio del proceso electoral local correspondiente;
 
-V. No ser titular de alguna Secretaría o Subsecretaría de Estado, de la Fiscalía General de la República, ni Ministra o Ministro de la Suprema Corte de Justicia de la Nación o integrante del Consejo de la Judicatura Federal, a menos que se haya separado definitivamente de sus funciones al menos 120 días antes de la jornada electoral local correspondiente o dos años antes en el caso de ministros, ministras e integrantes del Consejo de Judicatura Federal;
+> <small>(REFORMADA, G.O. 9 DE ABRIL DE 2026)</small>
+
+V. No ser titular de alguna Secretaría o Subsecretaría de Estado, de la Fiscalía General de la República, ni Ministra o Ministro de la Suprema Corte de Justicia de la Nación o integrante del Órgano de Administración Judicial o del Tribunal de Disciplina Judicial del Poder Judicial de la Federación, a menos que se haya separado definitivamente de sus funciones al menos 120 días antes de la jornada electoral local correspondiente o dos años antes en el caso de ministros, ministras e integrantes del Órgano de Administración Judicial o del Tribunal de Disciplina Judicial del Poder Judicial de la Federación.
 
 VI. No ser Magistrada o Magistrado de Circuito o Juez de Distrito en la Ciudad de México, a menos que se haya separado definitivamente de sus funciones antes del inicio del proceso electoral local correspondiente;
 
-VII. No ser Magistrada o Magistrado del Poder Judicial, del Tribunal de Justicia Administrativa, Consejera o Consejero de la Judicatura de la Ciudad de México, a menos que se haya separado definitivamente de sus funciones antes del inicio del proceso electoral local correspondiente;
+> <small>(REFORMADA, G.O. 9 DE ABRIL DE 2026)</small>
+
+VII. No ser Magistrada o Magistrado del Poder Judicial, del Tribunal de Justicia Administrativa, ni ser integrante del Órgano de Administración Judicial o del Tribunal de Disciplina Judicial de la Ciudad de México, a menos que se haya separado definitivamente de sus funciones antes del inicio del proceso electoral local correspondiente;
 
 VIII. No ser Jefa o Jefe de Gobierno de la Ciudad de México, ni titular de una alcaldía, dependencia, unidad administrativa, órgano desconcentrado, organismo autónomo o entidad paraestatal de la administración pública o de la Fiscalía General de Justicia de la Ciudad de México, a menos que se haya separado de sus funciones 120 días antes de la jornada electoral local correspondiente;
 
@@ -2410,7 +2416,9 @@ XIX. En materia de información pública y protección de datos personales, tend
 
 2) Recibir, tramitar y notificar la respuesta a las solicitudes de acceso a la información pública, de conformidad con lo establecido en la Ley de Transparencia;
 
-3) Recibir las solicitudes de acceso, rectificación, cancelación y oposición de datos personales en posesión del Instituto Electoral a cuya tutela estará el trámite de las mismas, conforme a lo establecido en las Leyes de Transparencia y de Protección de Datos Personales del Distrito Federal, así como en los Lineamientos en la materia;
+> <small>(REFORMADO, G.O. 9 DE ABRIL DE 2026)</small>
+
+3) Recibir las solicitudes de acceso, rectificación, cancelación y oposición de datos personales en posesión del Instituto Electoral a cuya tutela estará el trámite de las mismas, conforme a lo establecido en las Leyes de Transparencia y de Protección de Datos Personales de la Ciudad de México, así como en los Lineamientos en la materia;
 
 4) Facilitar el acceso a la información pública generada, administrada, o en poder del Instituto Electoral, de acuerdo a lo dispuesto en este Código y en la Ley de Transparencia, y
 
@@ -3740,7 +3748,9 @@ VIII. Solicitar licencias para ausentarse del cargo hasta por 90 días naturales
 
 Las Magistradas y Magistrados Electorales están sujetas al régimen de responsabilidades de los servidores públicos establecido en la ley de la materia. Gozan de la garantía de inamovilidad. Sólo pueden ser suspendidos, destituidos o inhabilitados del cargo, en términos del Título Cuarto de la Constitución Local y la Ley de Responsabilidad Administrativa de la Ciudad de México.
 
-El procedimiento sancionatorio será sustanciado de conformidad con lo previsto en la citada Ley Federal.
+> <small>(REFORMADO, G.O. 9 DE ABRIL DE 2026)</small>
+
+El procedimiento sancionatorio será sustanciado de conformidad con lo previsto en la citada Ley.
 
 Concluido su encargo, las Magistradas y los Magistrados Electorales no podrán asumir un cargo público en los órganos emanados de las elecciones sobre las cuales se hayan pronunciado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, por un plazo de dos años.
 
@@ -4440,7 +4450,9 @@ II. Supervisar las políticas y medidas técnicas para la regulación de los pro
 
 III. Formular el proyecto de los instrumentos, procesos y métodos de control archivístico y documental del Tribunal.
 
-IV. Coordinar las actividades tendentes al cumplimiento de las obligaciones establecidas en la Ley de Archivos del Distrito Federal, realizando todas las acciones tendentes al enriquecimiento y conservación del acervo archivístico y documental del Tribunal.
+> <small>(REFORMADA, G.O. 9 DE ABRIL DE 2026)</small>
+
+IV. Coordinar las actividades tendentes al cumplimiento de las obligaciones establecidas en la Ley de Archivos de la Ciudad de México, realizando todas las acciones tendentes al enriquecimiento y conservación del acervo archivístico y documental del Tribunal.
 
 V. Fungir, por conducto de su titular como Secretario/a Técnico/a del Comité Técnico de Administración de Documentos del Tribunal; promover la operación regular de este órgano y coadyuvar en la integración de su Reglamento de operación y programa anual de trabajo.
 
@@ -9309,3 +9321,11 @@ SEXTO. El Congreso Local dotará al Instituto Electoral de la Ciudad de México 
 Para tal efecto tomará en consideración la presupuestación que al efecto realice el Instituto Electoral de la Ciudad de México y el Tribunal Electoral de la Ciudad de México, una vez que entre en vigor el presente Decreto.
 
 SÉPTIMO. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+G.O. 9 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 19 FRACCIÓN VIII, 20 FRACCIONES V Y VII, 86, FRACCIÓN XIX, NUMERAL 3, 176 PÁRRAFO TERCERO Y EL 213 FRACCIÓN IV DEL CÓDIGO DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
