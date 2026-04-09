@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-167600"
 country: "mx"
 rank: "ley"
 publication_date: "2023-08-23"
-last_updated: "2026-04-08"
+last_updated: "2026-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167600&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "TAM"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2026.
 
 Ley publicada en la Edición Vespertina Número 101 del Periódico Oficial del Estado de Tamaulipas, el miércoles 23 de agosto de 2023.
 
-AMÉRICO VILLARREAL ANAYA, Gobernador Constitucional del Estado de Tamaulipas, a sus habitantes hace saber:
+AMÉRICO VILLARREAL ANAYA, Gobernador Constitucional del E9stado de Tamaulipas, a sus habitantes hace saber:
 
 Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decreto:
 
@@ -830,6 +830,14 @@ La Secretaría ofrecerá servicios de orientación educativa, de trabajo social 
 1.- La Secretaría establecerá las bases para fomentar estilos de vida saludables que prevengan, atiendan y contrarresten, en su caso, el sobrepeso y la obesidad entre los educandos, como la activación física, el deporte escolar, la educación física, los buenos hábitos nutricionales, entre otros para prevenir, atender y contrarrestar, en su caso, el sobrepeso y la obesidad entre los educandos. En materia de la promoción de la salud escolar, la Secretaría considerará las Normas Oficiales Mexicanas respectivas.
 
 2.- El gobierno del Estado de Tamaulipas dispondrá las medidas para que los certificados médicos de los educandos que se requieran para sus trámites escolares se emitan sin costo alguno.
+
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2026)</small>
+
+ARTÍCULO 71 BIS.
+
+1. La educación física es un componente esencial para el desarrollo integral de las y los educandos y para la promoción de estilos de vida saludables en el entorno escolar. La Secretaría y las autoridades educativas fomentarán la cultura física, el desarrollo motriz y la práctica sistemática de actividad física diaria en los planteles escolares.
+
+2. Se promoverá la competencia motriz, la alfabetización física y la práctica deportiva y recreativa, con el fin de fortalecer hábitos de vida activa que contribuyan al bienestar físico y emocional de las y los educandos, así como a la prevención del sobrepeso, la obesidad y enfermedades derivadas del sedentarismo. Para tal efecto, se procurará que en el sistema educativo estatal se impartan hasta dos horas semanales de educación física, cuando las condiciones y el personal docente lo permitan, a fin de impulsar y fortalecer los valores de cooperación, solidaridad y convivencia pacífica, aunado a la prevención de adicciones y conductas de riesgo, considerando el desarrollo psicomotor en relación con las dimensiones cognitiva, social y afectiva, como parte de la formación integral del alumnado.
 
 ###### ARTÍCULO 72.
 
@@ -1800,3 +1808,15 @@ P.O. 8 DE ABRIL DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-1034 ADICIONA UN ARTÍCULO 71 BIS A LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS, PARA FORTALECER LA EDUCACIÓN FÍSICA Y PROMOVER ESTILOS DE VIDA SALUDABLES EN EL ENTORNO ESCOLAR”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto a la Secretaría de Educación del Estado, para los efectos legales conducentes.
