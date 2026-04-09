@@ -4,7 +4,7 @@ identifier: "TAM-ley-organica-de-la-administracion-publica-del-estado-de-165929"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2023-05-04"
-last_updated: "2025-11-04"
+last_updated: "2026-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165929&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2026.
 
 Ley publicada en la Edición Vespertina del Número 54 del Periódico Oficial del Estado de Tamaulipas, el jueves 4 de mayo de 2023.
 
@@ -811,13 +811,17 @@ XV. Organizar, coordinar y vigilar el funcionamiento del Instituto de la Juventu
 
 XVI. Proporcionar la asesoría para que las personas empleadoras implementen los protocolos para prevenir la discriminación por razones de género y atención de casos de violencia y acoso u hostigamiento sexual;
 
-> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2026)</small>
 
-XVII. Vigilar la existencia del protocolo para prevenir la discriminación por razones de género y atender casos de violencia, acoso u hostigamiento sexual, así como verificar que dicho protocolo sea del conocimiento del personal y se encuentre accesible dentro del centro de trabajo; y
+XVII. Vigilar la existencia del protocolo para prevenir la discriminación por razones de género y atender casos de violencia, acoso u hostigamiento sexual, así como verificar que dicho protocolo sea del conocimiento del personal y se encuentre accesible dentro del centro de trabajo;
+
+> <small>(ADICIONADA, P.O. 9 DE ABRIL DE 2026)</small>
+
+XVIII. Expedir las acreditaciones y credenciales de las personas inspectoras del trabajo en el Estado; y
 
 > <small>(REFORMADA, P.O. 19 DE JUNIO DE 2025)</small>
 
-XVIII. Las demás que señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende la Gobernadora o el Gobernador del Estado con relación a sus competencias.
+XIX. Las demás que señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende la Gobernadora o el Gobernador del Estado con relación a sus competencias.
 
 #### Sección IX. De la Secretaría de Desarrollo Rural, Pesca y Acuacultura
 
@@ -2174,3 +2178,11 @@ Cualquier trámite administrativo y/o judicial del ámbito federal o estatal de 
 ###### ARTÍCULO DÉCIMO PRIMERO.
 
 Los instrumentos jurídicos, convenios, contratos acuerdos interinstitucionales o actos equivalentes, se entenderán como vigentes y obligarán en sus términos a las partes, sin perjuicio del derecho que tienen las mismas de ratificarlos, modificarlos o rescindirlos.
+
+P.O. 9 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1033 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 3, FRACCIÓN III, DE LA LEY DE PROCEDIMIENTO ADMINISTRATIVO PARA EL ESTADO DE TAMAULIPAS; Y SE REFORMA EL ARTÍCULO 32, FRACCIÓN XVII; Y SE ADICIONA UNA FRACCIÓN XVIII, RECORRIÉNDOSE EN SU ORDEN NATURAL LA SUBSECUENTE, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
