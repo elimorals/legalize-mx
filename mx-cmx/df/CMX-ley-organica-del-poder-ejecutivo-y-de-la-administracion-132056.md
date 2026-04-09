@@ -4,7 +4,7 @@ identifier: "CMX-ley-organica-del-poder-ejecutivo-y-de-la-administracion-132056"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-12-13"
-last_updated: "2025-08-27"
+last_updated: "2026-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132056&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2018-12-13"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE ABRIL DE 2026.
 
 Ley publicada en el Número 471 Bis en la Gaceta Oficial de la Ciudad de México, el jueves 13 de diciembre de 2018.
 
@@ -326,7 +326,9 @@ XIII BIS. Secretaría de Planeación, Ordenamiento Territorial y Coordinación M
 
 XIV. Secretaría de Pueblos y Barrios Originarios y Comunidades Indígenas Residentes;
 
-XV. Secretaría de Salud;
+> <small>(REFORMADA, G.O. 9 DE ABRIL DE 2026)</small>
+
+XV. Secretaría de Salud Pública;
 
 XVI. Secretaría de Seguridad Ciudadana;
 
@@ -1716,9 +1718,11 @@ XXIV. Proveer a la autoridad competente la información y datos sobre el patrimo
 
 XXV. Las demás que le atribuyan las leyes y otros ordenamientos jurídicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE ABRIL DE 2026)</small>
+
 ###### Artículo 40.
 
-A la Secretaría de Salud corresponde el despacho de las materias relativas a la formulación, ejecución, operación y evaluación de las políticas de salud de la Ciudad de México.
+A la Secretaría de Salud Pública corresponde el despacho de las materias relativas a la formulación, ejecución, operación y evaluación de las políticas de salud de la Ciudad de México.
 
 Específicamente cuenta con las siguientes atribuciones:
 
@@ -3659,3 +3663,17 @@ G.O. 27 DE AGOSTO DE 2025.
 PRIMERO.- Remítase a la Persona Titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 9 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, LA FRACCIÓN XV DEL ARTÍCULO 16; Y EL PRIMER PÁRRAFO DEL ARTÍCULO 40, DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO. Remítase a la Persona Titular de la Jefatura de Gobierno para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO. Las referencias hechas a la Secretaría de Salud en otros ordenamientos, deberán entenderse hechas a la Secretaría de Salud Pública, a partir de la entrada en vigor de este Decreto.
+
+CUARTO. Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente decreto, se cubrirán con cargo al presupuesto aprobado a las unidades responsables del gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
+
+QUINTO. El Gobierno de la Ciudad de México, contará con 360 días, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones a los reglamentos y el marco normativo regulatorio de la ciudad.
