@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2026-03-30"
+last_updated: "2026-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
@@ -323,9 +323,9 @@ El Ayuntamiento residirá en la cabecera del Municipio, y sólo por Decreto del 
 
 Para ser miembro de un Ayuntamiento se requiere:
 
-> <small>(REFORMADA, P.O. 20 DE OCTUBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2026)</small>
 
-I.- Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;
+I.- Ser ciudadano o ciudadana mexicana en pleno ejercicio de sus derechos;
 
 > <small>(REFORMADA, P.O. 2 DE OCTUBRE DE 2003)</small>
 
@@ -335,9 +335,9 @@ II.- Ser originario del municipio o tener una residencia en el mismo por un peri
 
 III.- No pertenecer al estado eclesiástico ni ser ministro del algún culto, aun cuando no esté en ejercicio.
 
-> <small>(REFORMADA, P.O. 22 DE ABRIL DE 1989)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2026)</small>
 
-IV.- No estar sujeto a proceso por delito doloso. El impedimento surte efecto desde el momento en que se notifique el auto de formal prisión. Tratándose de servidores públicos que gocen de fuero constitucional, el impedimento surte efecto desde que se declare que ha lugar para la formación de causa.
+IV.- No estar sujeto a proceso por delito doloso. El impedimento surte efecto desde el momento en que se dicte el auto de vinculación a proceso. Tratándose de personas servidoras públicas que gocen de fuero constitucional, el impedimento surte efecto desde que se declare que ha lugar para la formación de causa;
 
 > <small>(REFORMADA, P.O. 22 DE ABRIL DE 1989)</small>
 
@@ -465,7 +465,9 @@ VIII.- Adoptar conductas sistemáticas y graves que afecten al buen Gobierno y A
 
 IX.- Incurrir en responsabilidad por infracciones administrativas reiteradas o graves en los términos del Capítulo XIV de este Título.
 
-X.- Haberse dictado en su contra auto de formal prisión o estar sujeto a juicio político; en estos casos la suspensión será temporal entre tanto se resuelve su situación jurídica.
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2026)</small>
+
+X.- Haberse dictado en su contra auto de vinculación a proceso o estar sujeto a juicio político; en estos casos la suspensión será temporal entre tanto se resuelve su situación jurídica;
 
 > <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
@@ -7344,6 +7346,14 @@ Los cabildos municipales contarán con un plazo máximo de treinta días natural
 P.O. 30 DE MARZO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1019 MEDIANTE EL CUAL SE ADICIONAN EL ARTÍCULO 219 BIS AL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 66-1036 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 26 FRACCIONES I Y IV; Y 38, FRACCIÓN X, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS; Y SE REFORMA EL ARTÍCULO 185, FRACCIÓN I, DE LA LEY ELECTORAL DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
