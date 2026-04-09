@@ -4,7 +4,7 @@ identifier: "GUA-codigo-de-conducta-de-la-procuraduria-estatal-de-proteccion-181
 country: "mx"
 rank: "codigo"
 publication_date: "2025-09-15"
-last_updated: "2025-09-15"
+last_updated: "2026-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181654&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # CODIGO DE CONDUCTA DE LA PROCURADURIA ESTATAL DE PROTECCION DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL CÓDIGO DE CONDUCTA DE LA PROCURADURÍA ESTATAL DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 9 DE ABRIL DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA PROCURADURÍA ESTATAL DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2026 (ABROGADO).
 
 Código publicado en la segunda parte del Periódico Oficial del Estado de Guanajuato, el lunes 15 de septiembre de 2025.
 
@@ -400,3 +402,19 @@ MARÍA TERESA PALOMINO RAMOS.
 APROBÓ LA TITULAR DEL ÓRGANO INTERNO DE CONTROL
 
 JANETH ALEJANDRA SAAVEDRA GONZÁLEZ.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LA PROCURADURÍA ESTATAL DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Acuerdo entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Normatividad aplicable a procedimientos iniciados
+
+Artículo Segundo. Los Procedimientos de responsabilidad administrativa iniciados durante la vigencia del Código de Conducta de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato y se encuentren inconclusos aplicaran la normativa vigente hasta la conclusión y cierre del caso administrativo correspondiente.
+
+Artículo Tercero. Se abroga el Código de Conducta de la Procuraduría Estatal de Protección de Niñas, Niños y Adolescentes del Estado de Guanajuato, publicado en el periódico oficial del Gobierno del Estado de Guanajuato, número 184, segunda parte, del 15 quince de septiembre del 2025.
