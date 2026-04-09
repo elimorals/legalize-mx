@@ -4,7 +4,7 @@ identifier: "TAM-ley-electoral-del-estado-de-tamaulipas-108584"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-13"
-last_updated: "2026-04-08"
+last_updated: "2026-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108584&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY ELECTORAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2026.
 
 Ley publicada en el Anexo Extraordinario Número 4 del Periódico Oficial del Estado de Tamaulipas, el sábado 13 de junio de 2015.
 
@@ -3041,9 +3041,9 @@ IV. Estar condenada o condenado por el delito de violencia política contra las 
 
 Son requisitos para ser miembro de un Ayuntamiento:
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2020)</small>
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2026)</small>
 
-I. Ser ciudadano o ciudadana mexicana por nacimiento, en pleno ejercicio de sus derechos;
+I. Ser ciudadano o ciudadana mexicana, en pleno ejercicio de sus derechos;
 
 II. Ser originario del Municipio o tener una residencia en el mismo por un periodo no menor de 3 años inmediatos anteriores al día de la elección; y
 
@@ -6586,6 +6586,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 8 DE ABRIL DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1028 MEDIANTE EL CUAL SE ADICIONA EL PÁRRAFO CUARTO AL ARTÍCULO 244, DE LA LEY ELECTORAL DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1036 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 26, FRACCIONES I Y IV; Y 38, FRACCIÓN X, DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS; Y SE REFORMA EL ARTÍCULO 185, FRACCIÓN I, DE LA LEY ELECTORAL DEL ESTADO DE TAMAULIPAS".]
 
 ###### ARTÍCULO ÚNICO.
 
