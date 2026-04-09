@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-22840
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-06"
-last_updated: "2025-11-19"
+last_updated: "2026-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22840&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el jueves 6 de diciembre del 2001.
 
@@ -707,6 +707,20 @@ ARTICULO 26 BIS.- El Ejecutivo del Estado aprobará el Programa de Apoyo Directo
 
 ARTICULO 26 TER.- Para tener acceso a los beneficios del Programa de Apoyo Directo al Adulto Mayor, los sujetos de apoyo deberán reunir los requisitos establecidos en las reglas de operación correspondientes.
 
+> <small>(ADICIONADO, P.O. 9 DE ABRIL DE 2026)</small>
+
+ARTICULO 26 QUATER.- El Estado, en coordinación con los municipios, las instituciones educativas, las bibliotecas públicas y los centros de inclusión digital comunitarios, promoverá e implementará programas gratuitos de capacitación digital dirigidos a personas adultas mayores, los cuales, de manera enunciativa más no limitativa, podrán incluir:
+
+I.- Alfabetización digital básica: uso de dispositivos móviles, computadoras, navegación en internet y redes sociales;
+
+II.- Acceso a trámites y servicios digitales gubernamentales y financieros;
+
+III.- Prevención de riesgos digitales: protección de datos personales y seguridad en línea;
+
+IV.- Modalidades presenciales, virtuales o híbridas, según las capacidades y necesidades de las personas beneficiarias; y
+
+V.- Participación de estudiantes universitarios como facilitadores, mediante esquemas de servicio social o voluntariado.
+
 ## TITULO SEPTIMO
 
 ### CAPITULO UNICO. DE LA ASISTENCIA SOCIAL
@@ -1080,3 +1094,15 @@ P.O. 19 DE NOVIEMBRE DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-1035 MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 26 QUÁTER A LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto a la persona titular del Poder Ejecutivo del Estado, a efecto de que, en el ámbito de sus atribuciones, emita los lineamientos operativos correspondientes, en coordinación con los ayuntamientos.
