@@ -4,7 +4,7 @@ identifier: "CFF"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-12-31"
-last_updated: "2025-12-28"
+last_updated: "2026-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=445&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CFF"
 
 CÓDIGO FISCAL DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2026.
 
 ÚLTIMA ACTUALIZACIÓN POR MISCELÁNEA FISCAL: 28 DE DICIEMBRE DE 2025.
 
@@ -7944,11 +7944,11 @@ Las publicaciones a que se refiere este artículo contendrán un extracto de los
 
 Se tendrá como fecha de notificación la de la última publicación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE ABRIL DE 2026)</small>
 
 ###### Artículo 141.
 
-Los contribuyentes podrán garantizar el interés fiscal, cuando se actualice alguno de los supuestos establecidos en los artículos 74 y 142 de este Código, conforme al siguiente orden obligatorio:
+Las personas contribuyentes podrán garantizar el interés fiscal, cuando se actualice alguno de los supuestos establecidos en los artículos 74 y 142 de este Código, en alguna de las formas siguientes:
 
 > <small>(REFORMADA, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
@@ -7976,9 +7976,9 @@ V. Obligación solidaria asumida por tercero que compruebe su idoneidad y solven
 
 VI. Embargo en la vía administrativa de negociaciones, bienes muebles tangibles e inmuebles, excepto aquellos con características de predios rústicos. Mediante reglas de carácter general, el Servicio de Administración Tributaria podrá establecer las características y demás tipo de bienes que se podrán ofrecer en esta modalidad.
 
-> <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADO, D.O.F. 9 DE ABRIL DE 2026)</small>
 
-Los contribuyentes deberán ofrecer como garantía, en todos los casos, la modalidad señalada en la fracción I, hasta por el importe máximo de su capacidad económica, aun y cuando no sea suficiente para garantizar el interés fiscal y, en la misma solicitud, combinarse con alguna de las formas y en el orden que al efecto establece este artículo, en ese caso, los contribuyentes deberán demostrar la imposibilidad para garantizar sus adeudos fiscales bajo las modalidades establecidas en las fracciones I, II, III, IV, V y VI, en ese orden, presentando la documentación que acredite dicha situación. La garantía deberá comprender, además de las contribuciones adeudadas actualizadas, los accesorios causados, así como de los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período y en tanto no se cubra el crédito, deberá actualizarse su importe cada año y ampliarse la garantía para que cubra el crédito actualizado y el importe de los recargos, incluso los correspondientes a los doce meses siguientes.
+La garantía deberá comprender, además de las contribuciones adeudadas actualizadas, los accesorios causados, así como de los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este periodo y en tanto no se cubra el crédito, deberá actualizarse su importe cada año y ampliarse la garantía para que cubra el crédito actualizado y el importe de los recargos, incluso los correspondientes a los doce meses siguientes.
 
 > <small>(REFORMADO, D.O.F. 7 DE NOVIEMBRE DE 2025)</small>
 
@@ -11541,3 +11541,13 @@ Cuarto. El Artículo Cuadragésimo Primero, del presente Decreto, tendrá vigenc
 D.O.F. 14 DE MAYO DE 2020.
 
 > <small>[N. DE E. LA ACTUALIZACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL FEDERAL VIGENTE.]</small>
+
+D.O.F. 9 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 141 DEL CÓDIGO FISCAL DE LA FEDERACIÓN".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los procedimientos de garantía del interés fiscal iniciados entre el 1 de enero de 2026 y la entrada en vigor del presente Decreto, así como las garantías constituidas durante dicho periodo conforme al orden establecido en el artículo 141 vigente en el citado periodo, se podrán sujetar a lo establecido en dicho artículo en su texto reformado mediante el presente Decreto, siempre que la persona contribuyente lo solicite expresamente ante la autoridad exactora dentro de los treinta días naturales siguientes a la entrada en vigor de este Decreto. En el caso de garantías ya constituidas, la sustitución no interrumpirá la suspensión del procedimiento administrativo de ejecución ni generará requerimiento adicional. La autoridad exactora resolverá la solicitud en un plazo no mayor a veinte días hábiles. Los actos ya consumados y no impugnados al momento de la solicitud conservarán sus efectos.
+
+Tercero.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo a los presupuestos aprobados a los ejecutores de gasto que intervienen en el mismo, sin que se autoricen ampliaciones liquidas a dichos presupuestos.
