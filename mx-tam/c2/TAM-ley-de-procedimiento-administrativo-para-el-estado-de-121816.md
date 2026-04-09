@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-procedimiento-administrativo-para-el-estado-de-121816"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-06"
-last_updated: "2018-01-09"
+last_updated: "2026-04-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "TAM"
 
 LEY DE PROCEDIMIENTO ADMINISTRATIVO PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 9 DE ENERO DE 2018.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el martes 6 de junio de 2017.
 
@@ -79,7 +77,9 @@ I. Fiscal, tratándose de las contribuciones y los accesorios que deriven direct
 
 II. Responsabilidades de los servidores públicos;
 
-III. Laboral;
+> <small>(REFORMADA, P.O. 9 DE ABRIL DE 2026)</small>
+
+III. Laboral, tratándose de procedimientos jurisdiccionales que se ventilen ante los tribunales laborales o las Juntas de Conciliación y Arbitraje en el Estado;
 
 IV. Electoral y participación ciudadana; y
 
@@ -988,3 +988,13 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los diecisiete días del mes de mayo del año dos mil diecisiete.
 
 ATENTAMENTE.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- FRANCISCO JAVIER GARCÍA CABEZA DE VACA.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- CÉSAR AUGUSTO VERÁSTEGUI OSTOS.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 66-1033 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 3, FRACCIÓN III, DE LA LEY DE PROCEDIMIENTO ADMINISTRATIVO PARA EL ESTADO DE TAMAULIPAS; Y SE REFORMA EL ARTÍCULO 32, FRACCIÓN XVII; Y SE ADICIONA UNA FRACCIÓN XVIII, RECORRIÉNDOSE EN SU ORDEN NATURAL LA SUBSECUENTE, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
