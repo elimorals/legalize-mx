@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-judicial-del-estado-de-mexico-181509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2025-09-04"
-last_updated: "2025-09-04"
+last_updated: "2026-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE ABRIL DE 2026.
 
 Ley publicada en la Sección Tercera del Número 42 de la Gaceta del Gobierno del Estado de México, el jueves 4 de septiembre de 2025.
 
@@ -667,7 +667,27 @@ Estructura de las salas colegiadas y tribunales de alzada
 
 Cada sala colegiada y tribunal de alzada contará con una estructura orgánica propia que se integrará por:
 
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], G.G. 10 DE ABRIL DE 2026)</small>
+
+A. Salas Colegiadas:
+
 I. Tres magistradas o magistrados;
+
+II. Una secretaria o secretario de acuerdos;
+
+III. Las secretarias o secretarios proyectistas que sean necesarios por cada magistrada o magistrado, de conformidad con lo que determine el Órgano de Administración Judicial;
+
+IV. Una secretaria o secretario proyectista para el trámite de los juicios de amparo;
+
+V. Una o un oficial mayor; y
+
+VI. Las demás servidoras y servidores públicos que determine el Órgano de Administración Judicial.
+
+> <small>(ADICIONADO [N. DE E. CON SUS FRACCIONES], G.G. 10 DE ABRIL DE 2026)</small>
+
+B. Tribunales de Alzada:
+
+I. Uno o tres magistradas o magistrados;
 
 II. Una secretaria o secretario de acuerdos;
 
@@ -4476,3 +4496,13 @@ Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, capit
 Por tanto, mando se publique, circule, observe y se le dé el debido cumplimiento.
 
 Toluca de Lerdo, México, a 03 de septiembre de 2025.- La Gobernadora Constitucional del Estado de México, Mtra. Delfina Gómez Álvarez.- Rúbrica.- El Secretario General de Gobierno, Horacio Duarte Olivares.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 10 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 290.- POR EL QUE SE ADICIONA EL INCISO A, PRIMER PÁRRAFO, Y EL INCISO B AL ARTÍCULO 47 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
