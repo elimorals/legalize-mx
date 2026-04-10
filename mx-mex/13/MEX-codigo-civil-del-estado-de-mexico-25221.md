@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2026-03-27"
+last_updated: "2026-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE ABRIL DE 2026.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -70,6 +70,56 @@ Nulidad de actos contrarios a la ley
 ###### Artículo 1.
 
 5.- Los actos ejecutados contra el tenor de las leyes prohibitivas o de interés público serán nulos, excepto en los casos en que la ley ordene lo contrario.
+
+> <small>(ADICIONADO, G.G. 10 DE ABRIL DE 2026)</small>
+
+Acción de nulidad de juicio concluido
+
+###### Artículo 1.
+
+5 Bis.- La nulidad de juicio concluido es de naturaleza excepcional y procede en aquellos asuntos en los que se haya dictado sentencia o auto definitivo que haya causado ejecutoria.
+
+> <small>(ADICIONADO, G.G. 10 DE ABRIL DE 2026)</small>
+
+Legitimación
+
+###### Artículo 1.
+
+5 Ter.- La nulidad de juicio concluido puede ser ejercitada por quienes habiendo sido parte en el procedimiento, hayan sido falsamente representados o emplazados, sus sucesores o causahabientes, y los terceros a quienes perjudique la resolución y se actualice alguna de las siguientes hipótesis:
+
+I. Si se falló con base en pruebas reconocidas o declaradas de cualquier modo falsas con posterioridad a la resolución, por sentencia o resolución judicial firme o que la parte vencida ignoraba que se habían reconocido o declarado como tales antes de la sentencia, o
+
+II. Cuando exista colusión u otra maniobra fraudulenta de las partes litigantes en el juicio cuya nulidad se pide, en perjuicio de la parte promovente de la acción de nulidad de juicio concluido.
+
+> <small>(ADICIONADO, G.G. 10 DE ABRIL DE 2026)</small>
+
+Prescripción de la acción de nulidad de juicio concluido
+
+###### Artículo 1.
+
+5 Quáter.- En ningún caso será procedente la acción de nulidad de juicio concluido:
+
+I. Si han transcurrido cinco años desde que hubiere causado ejecutoria la resolución que en ese juicio se dictó, o
+
+II. Si han transcurrido dos años desde que el recurrente hubiere conocido o debió conocer los motivos en que se fundare la misma.
+
+No procede la acción de nulidad de juicio concluido contra las sentencias dictadas en el mismo juicio de nulidad.
+
+Si se encuentra juicio pendiente de resolver sobre la falsedad de alguna prueba que fue determinante en fallo dictado en el juicio reclamado como nulo, se suspenderán los plazos a que se refiere el presente artículo.
+
+> <small>(ADICIONADO, G.G. 10 DE ABRIL DE 2026)</small>
+
+Suspensión de ejecución de la sentencia
+
+###### Artículo 1.
+
+5 Quinquies.- La interposición de la nulidad de juicio concluido no suspenderá la ejecución de la resolución firme que la motivare.
+
+No obstante, quien promueva la nulidad podrá solicitar a la autoridad jurisdiccional que conozca de la misma, la suspensión de la ejecución de aquella sentencia cuya nulidad se pide. Para tal efecto, deberá otorgar garantía que fije la autoridad jurisdiccional que conoce de la nulidad, por los daños y perjuicios que, de manera inmediata y directa, pudieran ocasionarse con motivo de la suspensión a la parte vencedora del juicio cuya nulidad se solicita.
+
+Cuando la nulidad de juicio concluido se declare improcedente, la garantía se adjudicará a la parte demandada por concepto de los daños y perjuicios ocasionados por la suspensión, sin necesidad de prueba alguna.
+
+No será necesaria la garantía cuando se acredite fehacientemente que la ejecución pueda causar un daño irreparable a quien promueve la nulidad. En este supuesto, si la nulidad resulta improcedente, la parte actora será condenada al pago de los daños y perjuicios ocasionados con motivo de la suspensión, en los términos del párrafo anterior, junto con el pago de gastos y costas, que se cuantificarán en ejecución de sentencia; así como una multa equivalente a un año de valor de la Unidad de Medida y Actualización para la persona licenciada en derecho o abogada que la haya intentado.
 
 Derogación y abrogación de la ley
 
@@ -911,9 +961,13 @@ III. La persona menor de dieciocho pero mayor de doce años de edad, con el cons
 
 En caso de que la registrada o el registrado tenga dos o más nombres en el sustantivo propio, sólo surtirá efecto en el sustantivo propio expuesto al ridículo.
 
-> <small>(REFORMADO, G.G. 9 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, G.G. 10 DE ABRIL DE 2026)</small>
 
-La solicitud de modificación, cambio, ampliación o reducción del sustantivo propio registrado por ser expuesto al ridículo o por el uso invariable y constante de otro diverso en su vida social y jurídica, sin que se afecten los apellidos, será resuelta en un plazo no mayor a treinta días hábiles por el Consejo Dictaminador, en términos de lo dispuesto por los lineamientos que para el efecto se emitan.
+La solicitud de modificación, cambio, ampliación o reducción del sustantivo propio registrado por ser expuesto al ridículo o por el uso invariable y constante de otro diverso en su vida social y jurídica, sin que se afecten los apellidos, será resuelta en un plazo no mayor a quince días hábiles por el Consejo Dictaminador, en términos de lo dispuesto por los lineamientos que para el efecto se emitan.
+
+> <small>(ADICIONADO, G.G. 10 DE ABRIL DE 2026)</small>
+
+Una vez dictaminada la procedencia de la modificación del sustantivo propio por el Consejo Dictaminador, se dará aviso a la persona interesada y en un plazo no mayor a dos días hábiles, la Dirección General del Registro Civil notificará al Oficial del Registro Civil y a la Jefatura Regional que correspondan, para que de forma inmediata realicen la anotación de modificación en el acta de nacimiento.
 
 De proceder la modificación o cambio del sustantivo propio se tendrá por entendido, para efectos legales, que se trata de la misma persona, lo que se hará constar en el documento que para tal efecto se expida.
 
@@ -18952,3 +19006,31 @@ G.G. 27 DE MARZO DE 2026.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 10 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 291.- POR EL QUE SE ADICIONAN LOS ARTÍCULOS 1.5 BIS, 1.5 TER, 1.5 QUÁTER Y 1.5 QUINQUIES AL CÓDIGO CIVIL DEL ESTADO DE MÉXICO".]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO TERCERO.
+
+Las disposiciones materia del presente Decreto quedarán sin efecto a partir de la entrada en vigor del Código Nacional de Procedimientos Civiles y Familiares, de conformidad con el marco jurídico aplicable.
+
+G.G. 10 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 292.- POR EL QUE SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 3.38 BIS Y SE ADICIONA UN PÁRRAFO CUARTO, RECORRIÉNDOSE EL SUBSECUENTE DEL ARTÍCULO 3.38 BIS DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
