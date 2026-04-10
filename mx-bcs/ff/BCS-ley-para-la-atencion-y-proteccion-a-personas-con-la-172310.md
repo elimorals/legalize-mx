@@ -4,7 +4,7 @@ identifier: "BCS-ley-para-la-atencion-y-proteccion-a-personas-con-la-172310"
 country: "mx"
 rank: "ley"
 publication_date: "2024-03-20"
-last_updated: "2024-03-20"
+last_updated: "2026-04-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=172310&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCS"
 ---
 # LEY PARA LA ATENCION Y PROTECCION A PERSONAS CON LA CONDICION DEL ESPECTRO AUTISTA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-(NOTA: EL 13 DE MARZO DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 85/2024, DECLARÓ LA INVALIDEZ DEL DECRETO 3010, POR EL QUE SE CREA LA LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL BOLETÍN OFICIAL DE DICHA ENTIDAD FEDERATIVA EL VEINTE DE MARZO DE DOS MIL VEINTICUATRO, LA CUAL SURTIRÁ SUS EFECTOS A LOS DOCE MESES SIGUIENTES A LA NOTIFICACIÓN DE ESTOS PUNTOS RESOLUTIVOS AL CONGRESO DEL ESTADO DE BAJA CALIFORNIA SUR DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/)
+[NOTA 1: DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON TRASTORNO DEL ESPECTRO AUTISTA DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL B.O. DE 10 DE ABRIL DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
 
 LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON LA CONDICIÓN DEL ESPECTRO AUTISTA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE ABRIL DE 2026 (ABROGADA).
 
 Ley publicada en el No. 19 del Boletín Oficial del Estado de Baja California Sur, el miércoles 20 de Marzo de 2024.
 
@@ -360,3 +360,35 @@ VÍCTOR MANUEL CASTRO COSÍO
 SECRETARIO GENERAL DE GOBIERNO
 
 JOSÉ SAÚL GONZÁLEZ NÚÑEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 10 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY PARA LA ATENCIÓN Y PROTECCIÓN A PERSONAS CON TRASTORNO DEL ESPECTRO AUTISTA DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo Segundo. Se abroga el Decreto 3010, mediante el cual se expidió la Ley para la Atención y Protección a Personas con la Condición del Espectro Autista del Estado de Baja California Sur, publicada en el Boletín Oficial del Gobierno del Estado de Baja California sur el 20 de marzo de 2024.
+
+Artículo Tercero La Comisión Intersecretarial para la Atención y Protección a las Personas con Trastorno del Espectro Autista deberá instalarse dentro de los noventa días naturales siguientes a la entrada en vigor de la presente Ley.
+
+Artículo Cuarto. Una vez instalada, la Comisión Intersecretarial contará con un plazo máximo de sesenta días naturales para expedir su Reglamento Interno, en el que se establecerán su organización, funcionamiento, atribuciones de la Secretaría Técnica, mecanismos de coordinación y demás aspectos operativos necesarios para el cumplimiento de su objeto.
+
+Artículo Quinto. Las dependencias y entidades de la Administración Pública Estatal que participen en la implementación de la presente Ley deberán emitir, en el ámbito de sus atribuciones y conforme a la normatividad aplicable, los lineamientos técnicos necesarios para la operación de los programas, mecanismos, procedimientos y acciones previstas en esta Ley, dentro de los ciento veinte días naturales siguientes a la entrada en vigor del Reglamento de la Comisión.
+
+Artículo Sexto. Las acciones que las dependencias y entidades de la Administración Pública Estatal deban realizar para dar cumplimiento a lo establecido en el presente Decreto, se sujetarán a la disponibilidad presupuestaria aprobada en el Presupuesto de Egresos del Estado para el ejercicio fiscal 2027 y los subsecuentes.
+
+Artículo Séptimo. La Secretaría de Salud del Estado deberá realizar las adecuaciones técnicas y administrativas necesarias para la operación del Padrón Estatal de las Personas con Trastorno del Espectro Autista, conforme a lo previsto en esta Ley y a su normativa interna, dentro de los ciento veinte días naturales siguientes a la entrada en vigor del Reglamento de la Comisión.
+
+Artículo Octavo. La Comisión Intersecretarial deberá presentar su primer informe anual de actividades al Titular del Poder Ejecutivo del Estado y al Congreso del Estado de Baja California Sur, dentro del primer trimestre del año siguiente a aquel en que haya iniciado formalmente sus funciones.
+
+Artículo Noveno. La implementación de la presente Ley se realizará de manera progresiva, conforme a la disponibilidad presupuestaria y a las capacidades Institucionales del Estado, en términos de la normatividad aplicable.
+
+Artículo Décimo. Dentro de los doce meses siguientes a la entrada en vigor del presente Decreto, el Sistema Estatal para el Desarrollo Integral de la Familia, en coordinación con la Secretaría de Salud del Estado y los Sistemas Municipales DIF, diseñará e implementará el programa de equipos multidisciplinarios de atención para personas con trastorno del espectro autista, debiendo garantizar la atención en cada uno de los municipios del Estado de Baja California Sur.
+
+La implementación del programa se realizará de manera progresiva, conforme a la disponibilidad de profesionistas especializados, presupuestaria y a las disposiciones aplicables.
+
+Artículo Décimo primero. Las dependencias y entidades de la Administración Pública Estatal deberán realizar, en el ámbito de sus atribuciones, las adecuaciones normativas y administrativas que resulten necesarias para armonizar sus disposiciones internas con lo previsto en la presente Ley.
+
+Artículo Décimo Segundo. Los Municipios de Baja California Sur, en el ámbito de sus atribuciones, realizarán las acciones necesarias para implementar un programa permanente, conforme a sus necesidades y suficiencia presupuestaria, para llevar a cabo acciones de apoyo pedagógico para la inclusión educativa a las personas que señala la presente ley, el cual coincidirá con el ciclo escolar al que corresponda, con plena coordinación con las autoridades competentes. Debiendo establecer conforme a su autonomía y atribuciones las reglas de operación de dicho programa para garantizar el perfil del personal que sea contratado y el correcto funcionamiento del mismo, respetando los principios de la presente ley.
