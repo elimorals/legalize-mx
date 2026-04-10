@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-cultura-civica-de-la-ciudad-de-mexico-136644"
 country: "mx"
 rank: "ley"
 publication_date: "2019-06-07"
-last_updated: "2025-12-24"
+last_updated: "2026-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136644&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2019-06-07"
 
 LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE ABRIL DE 2026.
 
 Ley publicada en el Número 108 Bis de la Gaceta Oficial de la Ciudad de México, el viernes 7 de junio de 2019.
 
@@ -1936,6 +1936,14 @@ PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad
 
 SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial de la Ciudad de México.
 
-TERCERO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto con base en los delitos previstos en los Títulos Quinto y Octavo del Libro Segundo del Código Penal para el Distrito Federal se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+TERCERO.- (DEROGADO, G.O. 10 DE ABRIL DE 2026)
 
 CUARTO.- La Fiscalía General de Justicia de la Ciudad de México deberá armonizar sus protocolos de investigación y atención a víctimas, en un plazo no mayor a 120 días.
+
+G.O. 10 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DEROGA EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL, ASÍ COMO SE REFORMA LA LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO, EN MATERIA DE GÉNERO Y ACCESO A UNA VIDA LIBRE DE VIOLENCIAS PARA LAS MUJERES, PUBLICADO EL 24 DE DICIEMBRE DE 2025 EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO”.]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial de la Ciudad de México.
