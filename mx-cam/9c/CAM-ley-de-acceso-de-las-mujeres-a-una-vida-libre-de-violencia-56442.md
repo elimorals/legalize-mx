@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5644
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-04"
-last_updated: "2025-05-15"
+last_updated: "2026-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56442&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el miércoles 4 de julio de 2007.
 
@@ -227,11 +227,11 @@ La violencia mediática se ejerce por cualquier persona física o moral que util
 
 X. Violencia Vicaria: Cualquier acto u omisión cometido por parte de quien mantenga o haya mantenido una relación afectiva o sentimental con la víctima y que tenga por objeto por sí o por interpósita persona infligir a los hijos e hijas de ésta un daño, menoscabo o sufrimiento de cualquier naturaleza con el propósito de causarle una afectación o daño físico, psicológico, emocional, patrimonial o de cualquier otra índole a la víctima;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 14 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2026)</small>
 
-XI. Violencia Química: Es aquella que pretende causar daño físico irreversible que lastime, altere y/o cause alguna discapacidad, mediante la acción de arrojar ácido o sustancia corrosiva, cáustica, irritante, tóxica o inflamable o cualquier otra sustancia que, en determinadas condiciones, pueda provocar lesiones ya sean internas, externas, o ambas.
+XI. Violencia Química.- Es aquella que pretende causar daño físico irreversible que lastime, altere y/o cause alguna discapacidad, mediante la acción de utilizar cualquier tipo de agente o arrojar sustancia corrosiva, cáustica, irritante, tóxica o inflamable, álcali, ácido, líquido en altas temperaturas o cualquier otra sustancia incluyendo las que necesiten otro agente para reaccionar y que causen lesiones, ya sean internas, externas, o ambas.
 
-Dicha acción envuelve una carga simbólica, porque con esta el agresor pretende causar de forma deliberada y permanente dolor, sufrimiento o humillación a la víctima, causándole daños físicos, psicológicos y emocionales; y
+Dicha acción envuelve una carga simbólica, porque con esta el agresor pretende causar de forma deliberada y permanente dolor, sufrimiento o humillación a la víctima, causándole daños físicos, psicológicos y emocionales;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 23 DE FEBRERO DE 2024)</small>
 
@@ -1422,3 +1422,13 @@ P.O. 15 DE MAYO DE 2025.
 Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al presente decreto.
+
+P.O. 10 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 212 POR EL QUE "SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 5 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los procedimientos penales iniciados antes de la entrada en vigor de (sic) presente decreto, se sustanciarán de acuerdo con las disposiciones vigentes en el momento de la comisión del ilícito que corresponda.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
