@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2023-06-27"
+last_updated: "2026-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 25 de junio de 1999.
 
@@ -5389,9 +5389,11 @@ V. A los ascendientes.
 
 VI. A sus hermanos carentes de medios de subsistencia y que no hayan cumplido dieciocho años, o que habiéndolos cumplido carezcan de dichos medios y estén sujetos a interdicción.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2026)</small>
+
 ###### ARTÍCULO 840.
 
-Los herederos instituidos, a quienes por virtud de lo dispuesto en los artículos 844 y 845 pasa la obligación de dar alimentos a los preteridos, pueden demandar la suspensión o la cesación de dicha obligación si concurre alguna de las causas señaladas en los artículos 424 y 425.
+Los herederos instituidos, a quienes por virtud de lo dispuesto en los artículos 844 y 845 pasa la obligación de dar alimentos a los preteridos, pueden demandar la suspensión o la cesación de dicha obligación si concurre alguna de las causas señaladas en los artículos 305 y 306 de la Ley para la Familia de Coahuila de Zaragoza.
 
 ###### ARTÍCULO 841.
 
@@ -21320,3 +21322,11 @@ P.O. 27 DE JUNIO DE 2023.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 456.- SE REFORMA EL ARTÍCULO 840 DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
