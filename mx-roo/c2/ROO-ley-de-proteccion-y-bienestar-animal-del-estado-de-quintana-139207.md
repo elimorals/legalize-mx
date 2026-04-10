@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-proteccion-y-bienestar-animal-del-estado-de-quintana-139
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-25"
-last_updated: "2023-12-21"
+last_updated: "2026-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE PROTECCIÓN Y BIENESTAR ANIMAL DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2026.
 
 Ley publicada en el Número 133 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 25 de noviembre de 2019.
 
@@ -455,6 +455,10 @@ IX. Establecer y operar el Padrón de las Asociaciones Protectoras de Animales y
 
 X. Establecer y operar el Padrón Municipal de Mascotas de especies domésticas y de compañía;
 
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2026)</small>
+
+X Bis. Establecer y operar los Registros Municipales de Ejemplares Caninos Sujetos a Manejo Especial.
+
 XI. Inspeccionar, vigilar y sancionar de conformidad con la presente Ley, a los criaderos, establecimientos, refugios, instalaciones, transportes, espectáculos públicos, instituciones académicas, de investigación y particulares que manejen animales domésticos y de compañía, que incumplan con lo dispuesto por la presente ley;
 
 XII. Emitir resoluciones que pongan fin al procedimiento de inspección y vigilancia, así como cualquier resolución que sea necesaria para el cumplimiento de esta Ley en el ámbito de su competencia;
@@ -837,9 +841,11 @@ Los establecimientos, instalaciones y prestadores de servicios que manejen anima
 
 Toda persona que compre o adquiera por cualquier medio un animal está obligada a su tenencia responsable y a cumplir con las disposiciones correspondientes establecidas en la presente ley y demás ordenamientos jurídicos aplicables.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2026)</small>
+
 ###### Artículo 54.
 
-Será obligatorio para todo propietario o poseedor de cualquier animal doméstico o de compañía, su inscripción en el padrón municipal, de acuerdo con el reglamento que al efecto se expida en términos de la presente Ley.
+Toda persona propietaria o poseedora de animales domésticos o de compañía está obligada a inscribirlos en el Padrón Municipal y, cuando la naturaleza del ejemplar lo requiera, en el Registro Municipal de Ejemplares Caninos Sujetos a Manejo Especial de acuerdo con el reglamento que al efecto se expida en términos de la presente Ley.
 
 ###### Artículo 55.
 
@@ -885,9 +891,79 @@ Los lugares en los que se lleven a cabo actividades de recreación, exhibición 
 
 Los animales de guía, de asistencia y/o servicio o aquellos que por prescripción médica deban acompañar a alguna persona tienen libre acceso a todos los lugares y servicios públicos, salvo aquellos que por razón de salud y sanidad, no deban entrar.
 
-### Capítulo V. De la captura de animales abandonados o perdidos
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE ABRIL DE 2026)</small>
 
-### Capítulo VI. Del Uso de Animales para Espectáculos y para Monta, Carga, Tiro y Labranza
+### Capítulo IV Bis. De los Registros Municipales de Ejemplares Caninos Sujetos a Manejo Especial
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2026)</small>
+
+###### Artículo 63 Bis.
+
+Con el fin de regular la tenencia responsable de los animales, los municipios del Estado de Quintana Roo, deberán implementar los Registros Municipales de Ejemplares Caninos Sujetos a Manejo Especial, como instrumentos administrativos de identificación y seguimiento, destinados a la protección de la integridad de las personas, la salubridad pública y el bienestar animal.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2026)</small>
+
+###### Artículo 63 Ter.
+
+Se considerarán Ejemplares Caninos Sujetos a Manejo Especial, aquellos ejemplares que, previa acreditación mediante dictamen emitido por Médico Veterinario Zootecnista con cédula profesional, presenten rasgos físicos o conductuales que, de manera objetiva, hagan necesaria la adopción de medidas especiales de manejo responsable, con independencia de su raza o denominación.
+
+Para la emisión del dictamen, se deberán considerar, de manera integral, entre otros, los siguientes criterios médico-veterinarios:
+
+I. Tamaño y constitución física, atendiendo a su talla, peso y desarrollo muscular;
+
+II. Fuerza y capacidad física potencial, incluyendo su resistencia y potencia corporal;
+
+III. Fuerza mandibular, conforme a sus características anatómicas;
+
+IV. Conducta y temperamento, evaluados mediante, observación directa y análisis de respuestas ante estímulos ambientales y sociales, y
+
+V. Cualquier otro criterio técnico-científico que, conforme a la medicina veterinaria resulte pertinente para la prevención de riesgos y la protección del bienestar animal.
+
+La persona propietaria o poseedora del ejemplar inscrito en el Registro asumirá la posición de garante de los riesgos que puedan ocasionar por la sola tenencia de estos animales y por las molestias que ocasione a las personas, a los espacios públicos y al medio natural en general.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2026)</small>
+
+###### Artículo 63 Quater.
+
+Además de la inscripción en el Padrón Municipal de Especies Domésticas y de compañía la persona propietaria o poseedora de un ejemplar canino que, conforme a dictamen médico-veterinario o resolución de la autoridad municipal competente, reúna las características para ser considerado sujeto a manejo especial, deberá inscribirlo en el Registro Municipal de Ejemplares Caninos Sujetos a Manejo Especial que se establecerá de acuerdo al reglamento expedido por la autoridad municipal correspondiente, para obtener la respectiva licencia física o digital.
+
+Este registro deberá constar necesariamente:
+
+I. Nombre del canino;
+
+II. Identificación y domicilio de la persona propietaria;
+
+III. Descripción de las características fenotípicas del ejemplar que hagan posible su identificación, y
+
+IV. El lugar habitual de residencia del animal, especificando si esta designado a convivir con los seres humanos o si será destinado a la guarda, protección u otra tarea especifica.
+
+La inscripción en el Registro Municipal de Ejemplares Caninos Sujetos a Manejo Especial deberá renovarse cada tres años para lo cual la persona propietaria o poseedora deberá acreditar nuevamente el cumplimiento de los requisitos previstos para su inscripción inicial.
+
+En el Registro se harán constar, además, las sanciones administrativas impuestas a la persona propietaria o poseedora, así como los incidentes documentados en los que se encuentre involucrado el ejemplar y que representen riesgo o afectación a personas u otros animales.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2026)</small>
+
+###### Artículo 63 Quinquies.
+
+Todo acto de transmisión de la propiedad o posesión de un ejemplar canino inscrito en el Registro Municipal de Ejemplares Caninos Sujetos a Manejo Especial, incluyendo la compra, venta, donación o cualquier otra forma de cesión, deberá ser notificada a la autoridad municipal competente y asentado en el registro correspondiente.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2026)</small>
+
+###### Artículo 63 Sexies.
+
+Cuando un ejemplar canino inscrito en el Registro Municipal de Ejemplares Caninos Sujetos a Manejo Especial cause lesiones, daño o la muerte a otro animal doméstico de compañía, como consecuencia de la omisión en las medidas de control, custodia o manejo responsable por parte de su persona propietaria o poseedora, ésta será sancionada por la autoridad municipal competente, conforme a lo dispuesto en la presente Ley, su reglamento y demás disposiciones aplicables.
+
+Lo anterior, sin perjuicio de la responsabilidad civil o penal que, en su caso, pudiera generarse.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2026)</small>
+
+###### Artículo 63 Septies.
+
+Cuando un ejemplar canino inscrito en el Registro Municipal de Ejemplares Caninos Sujetos a Manejo Especial cause lesiones permanentes o la muerte a una persona, como consecuencia de la omisión en las medidas de control, custodia o manejo responsable por parte de su persona propietaria o poseedora, la autoridad municipal competente procederá al aseguramiento o decomiso del ejemplar, conforme a lo dispuesto en la presente Ley, su reglamento, así como en las demás disposiciones aplicables.
+
+Lo anterior, sin perjuicio de las sanciones administrativas, así como de la responsabilidad civil o penal que, en su caso, corresponda a la persona propietaria o poseedora.
+
+### Capítulo V. De la captura de animales abandonados o perdidos
 
 ###### Artículo 64.
 
@@ -917,7 +993,7 @@ Cuando no sea posible dar a los animales en adopción, éstos serán sacrificado
 
 Es responsabilidad de los Centros de Control Animal, Asistencia y Zoonosis o cualquier institución que ampare a los animales que hayan sido capturados temporalmente, procurar condiciones de bienestar animal, alimentarlos adecuadamente, darles agua limpia de beber y brindarles un trato digno y respetuoso en términos de la presente Ley.
 
-### Capítulo VII. De la Movilización y Traslado de Animales
+### Capítulo VI. Del Uso de Animales para Espectáculos y para Monta, Carga, Tiro y Labranza
 
 ###### Artículo 67.
 
@@ -983,7 +1059,7 @@ En toda exhibición o espectáculo público o privado, filmación de películas,
 
 Las instalaciones para animales deportivos, centros para la práctica de la equitación y pensiones para animales, deberán ser adecuadas y con espacio suficiente conforme a las características propias de cada especie y serán objeto de regulación específica en el reglamento de la presente Ley, debiendo contar con la asesoría de un Médico Veterinario Zootecnista responsable.
 
-### Capítulo VIII. Del Uso de Animales para Experimentos
+### Capítulo VII. De la Movilización y Traslado de Animales
 
 ###### Artículo 75.
 
@@ -1031,7 +1107,7 @@ XV. Los vehículos de los Centros de Control Animal, Asistencia y Zoonosis deben
 
 XVI. Las demás obligaciones que establezcan otras disposiciones legales aplicables.
 
-### Capítulo IX. Del Sacrificio de Animales
+### Capítulo VIII. Del Uso de Animales para Experimentos
 
 ###### Artículo 78.
 
@@ -1055,7 +1131,7 @@ Los experimentos no puedan ser sustituidos por esquemas, dibujos, películas, fo
 
 IV. Se realicen en animales criados preferentemente para tal fin.
 
-### Capítulo Único. De la Denuncia
+### Capítulo IX. Del Sacrificio de Animales
 
 ###### Artículo 80.
 
@@ -1105,7 +1181,7 @@ En caso de tener conocimiento de que un animal se encuentre bajo sufrimiento irr
 
 ## TÍTULO SEXTO. DE LA DENUNCIA
 
-### Capítulo Único. De las Visitas de Inspección y Vigilancia
+### Capítulo Único. De la Denuncia
 
 ###### Artículo 87.
 
@@ -1173,7 +1249,7 @@ IV. Por desistimiento del denunciante, en caso de que sólo se afecten sus inter
 
 ## TÍTULO SÉPTIMO. DE LAS VISITAS DE INSPECCIÓN Y VIGILANCIA
 
-### Capítulo I. De las Medidas de Seguridad
+### Capítulo Único. De las Visitas de Inspección y Vigilancia
 
 ###### Artículo 95.
 
@@ -1263,7 +1339,7 @@ En todo lo no previsto en el presente capítulo, se aplicará supletoriamente la
 
 ## TÍTULO OCTAVO. DE LAS MEDIDAS DE SEGURIDAD, INFRACCIONES Y SANCIONES
 
-### Capítulo II. De las infracciones y sanciones
+### Capítulo I. De las Medidas de Seguridad
 
 ###### Artículo 106.
 
@@ -1329,7 +1405,7 @@ La medida de seguridad concluye con la imposición de la sanción o en su caso, 
 
 En caso de que no se imponga sanción alguna, la medida de seguridad cesará sus efectos de inmediato.
 
-### Capítulo III. Del Registro de Infractores
+### Capítulo II. De las infracciones y sanciones
 
 ###### Artículo 115.
 
@@ -1417,7 +1493,7 @@ IV. Las demás que se determine para garantizar el bienestar y sano desarrollo d
 
 En todo lo no previsto en el presente título, se aplicará supletoriamente el Código de Justicia Administrativa del Estado de Quintana Roo, así como el Código de Procedimientos Civiles aplicable en el Estado.
 
-### Capítulo Único. Del Recurso
+### Capítulo III. Del Registro de Infractores
 
 ###### Artículo 125.
 
@@ -1444,6 +1520,8 @@ La información contenida en el Registro de Infractores garantiza la observancia
 La sistematización de información contenida en el registro de infractores tendrá como objeto el diseño de las estrategias y acciones tendientes a la preservación de la protección de animales, así como la instrumentación de programas de desarrollo social y de prevención de maltrato animal.
 
 ## TÍTULO NOVENO. DEL RECURSO
+
+### Capítulo Único. Del Recurso
 
 ###### Artículo 129.
 
@@ -1552,3 +1630,17 @@ CUARTO. Dentro de los 60 días naturales siguientes a la publicación de las mod
 QUINTO. La implementación de las acciones que resulten necesarias, derivado de la entrada en vigor del presente Decreto, deberán ser solventadas por las instancias públicas competentes, con cargo a los recursos financieros que les hayan sido asignados en el ejercicio fiscal del que se trate, de conformidad a lo establecido en las disposiciones normativas aplicables, sin menoscabo de las ampliaciones presupuestales que les sean autorizadas, cuando así resulte conducente.
 
 Lo anterior, sin perjuicio de establecer las medidas conducentes, para la implementación progresiva de las medidas a las que se refiere el presente Decreto, así como de la suscripción de convenios con instituciones privadas, instituciones académicas, tanto públicas como privadas, así como organizaciones sociales, a fin de reducir los costos de operación.
+
+P.O. 10 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 217 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Dentro de los 365 días naturales siguientes a la publicación del presente Decreto, los Ayuntamientos del Estado, realizarán las adecuaciones o adiciones reglamentarias que correspondan a su normatividad aplicable, a efecto de dar cumplimiento a lo establecido por el presente.
+
+TERCERO. Los Ayuntamientos del Estado contarán con un plazo de 365 días naturales, contados a partir de la publicación de las modificaciones a las disposiciones a las que se refiere el artículo anterior, para la creación e implementación de los Registros Municipales de Ejemplares Caninos Sujetos a Manejo Especial.
+
+CUARTO. La Implementación de las acciones que resulten necesarias, derivado de la entrada en vigor del presente Decreto, se realizarán de manera progresiva con cargo a la disponibilidad presupuestaria del gasto correspondiente en el ejercicio fiscal 2027, y subsecuentes de conformidad a la capacidad institucional y suficiencia presupuestal de los Ayuntamientos del Estado de Quintana Roo.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan o se opongan a lo dispuesto por el presente Decreto.
