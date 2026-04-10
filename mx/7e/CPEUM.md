@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2026-03-03"
+last_updated: "2026-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 3 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ABRIL DE 2026.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -5682,17 +5682,37 @@ Dicha remuneración será determinada anual y equitativamente en los presupuesto
 
 I. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
 
-> <small>(REFORMADA, D.O.F. 24 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ABRIL DE 2026)</small>
 
-II. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Presidente de la República en el presupuesto correspondiente.
+II. Ninguna persona servidora pública podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para la persona titular del Ejecutivo Federal en el presupuesto correspondiente.
 
-> <small>(REFORMADA, D.O.F. 24 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 10 DE ABRIL DE 2026)</small>
 
-III. Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Presidente de la República en el presupuesto correspondiente.
+III. Ninguna persona servidora pública podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para la persona titular del Ejecutivo Federal en el presupuesto correspondiente.
 
 > <small>(REFORMADA, D.O.F. 24 DE AGOSTO DE 2009)</small>
 
 IV. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ABRIL DE 2026)</small>
+
+En cualquier caso, las jubilaciones o pensiones del personal de confianza a cargo de los organismos descentralizados, las empresas públicas del Estado, las sociedades nacionales de crédito, las empresas de participación estatal mayoritaria y los fideicomisos públicos constitutivos de entidades paraestatales, todos del Gobierno Federal, así como los organismos descentralizados, las empresas de participación estatal o municipal mayoritaria, las empresas públicas y los fideicomisos públicos, de las entidades federativas y de los municipios, no deberán exceder de la mitad de la remuneración establecida para la persona titular del Ejecutivo Federal en el presupuesto correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ABRIL DE 2026)</small>
+
+Las disposiciones e instrumentos jurídicos que regulen la relación laboral no podrán establecer condiciones que superen el límite establecido en el párrafo que antecede.
+
+> <small>(ADICIONADO, D.O.F. 10 DE ABRIL DE 2026)</small>
+
+Quedan excluidas de lo previsto en el segundo párrafo de esta fracción:
+
+a) Las Fuerzas Armadas;
+
+b) Las jubilaciones o pensiones que se constituyan a partir de las aportaciones voluntarias a los sistemas de ahorro para el retiro basados en cuentas individuales;
+
+c) Las jubilaciones o pensiones constituidas a partir de aportaciones sindicales en los sistemas de ahorro complementarios, y
+
+d) La pensión no contributiva a que se refiere el artículo 4o. de esta Constitución.
 
 > <small>(REFORMADA, D.O.F. 24 DE AGOSTO DE 2009)</small>
 
@@ -9621,3 +9641,21 @@ Año Jornada Laboral
 2030 40
 
 Cuarto.- En ningún caso la reducción de la jornada laboral implicará la disminución de sueldos, salarios o prestaciones de las personas trabajadoras.
+
+D.O.F. 10 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA Y ADICIONA EL ARTÍCULO 127 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE LÍMITE A LAS JUBILACIONES Y PENSIONES DE LAS ENTIDADES PÚBLICAS”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- A partir de la entrada en vigor del presente Decreto todas las jubilaciones o pensiones que no estén excluidas conforme a la fracción IV del artículo 127 constitucional, y que se hayan otorgado con anterioridad a la entrada en vigor del presente Decreto, deberán ajustarse al límite establecido en el párrafo segundo de dicha fracción, incluyendo las que se encuentren vigentes.
+
+Los entes públicos a que se refiere el párrafo segundo, fracción IV, del artículo 127, con las excepciones previstas en dicha fracción, deberán revisar y, en su caso, adecuar los contratos, las disposiciones, las condiciones generales de trabajo y demás instrumentos jurídicos que prevean planes de pensiones o jubilaciones, para que se ajusten a lo previsto en el presente Decreto.
+
+Tercero.- Los haberes de retiro concedidos conforme al marco constitucional vigente con anterioridad a la entrada en vigor del presente Decreto se conservarán en los términos en que fueron reconocidos.
+
+Cuarto.- Las aportaciones que realice el Estado a cuentas individuales o planes complementarios de pensiones o jubilaciones de las personas servidoras públicas de las entidades paraestatales del Gobierno Federal, de las entidades federativas y de los municipios, a partir de la entrada en vigor del presente Decreto, se sujetarán al límite previsto en el párrafo segundo de la fracción IV del artículo 127 de la Constitución.
+
+Quinto.- En un plazo no mayor a noventa días naturales contados a partir de su entrada en vigor, el Congreso de la Unión y las Legislaturas de las entidades federativas, en el ámbito de sus respectivas competencias, deberán revisar y, en su caso, adecuar el marco jurídico aplicable, a fin de hacerlo congruente con lo dispuesto en el presente Decreto.
+
+Sexto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo a los presupuestos aprobados a los ejecutores de gastos que intervienen en su aplicación, por lo que no se autorizarán ampliaciones de recursos a dichos ejecutores de gasto en el presente ejercicio fiscal ni subsecuentes y tampoco podrán incrementar su presupuesto regularizable en servicios personales ni de gasto de operación.
