@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-congreso-del-estado-independiente-libre-y-1048
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-30"
-last_updated: "2025-11-28"
+last_updated: "2026-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 30 de diciembre de 2014.
 
@@ -1191,7 +1191,9 @@ XVI. Legislación civil y penal;
 
 XVII. Leyes orgánicas del Poder Judicial y del Ministerio Público;
 
-XVIII. Nombramiento de Magistrados del Tribunal Superior de Justicia, del Tribunal Administrativo, del Tribunal de Conciliación y Arbitraje para los trabajadores al servicio del Estado y los Municipios así como del Presidente y Consejeros de la Comisión de los Derechos Humanos;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2026)</small>
+
+XVIII. Nombramiento de las personas Magistradas del Tribunal de Conciliación y Arbitraje del Estado, así como la Presidencia y personas Consejeras de la Comisión de Derechos Humanos del Estado de Coahuila;
 
 XIX. Renuncias y licencias de Magistrados del Tribunal Superior de Justicia, del Tribunal Administrativo, del Tribunal de Conciliación y Arbitraje para los trabajadores al servicio del Estado y los Municipios así como del Presidente y Consejeros de la Comisión de los Derechos Humanos;
 
@@ -3123,13 +3125,11 @@ Si por falta de quórum o por cualquiera otra causa no pudiere verificarse la se
 
 En los demás casos en que deba procederse a la designación de Gobernador provisional, interino o sustituto, las propuestas correspondientes serán presentadas por el grupo parlamentario del partido político que postuló a quien venía desempeñando el cargo de Gobernador.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2026)</small>
+
 ###### ARTÍCULO 270.
 
-Es facultad del Congreso o de la Diputación Permanente, otorgar o negar la aprobación de los nombramientos de Magistrados del Tribunal Superior de Justicia, del Tribunal de lo Contencioso-Administrativo y del Tribunal de Conciliación y Arbitraje, que les someta el Gobernador del Estado, en los términos de la Constitución y las leyes.
-
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2019)</small>
-
-Igualmente, ratificar, el nombramiento de aquellos otros titulares de la administración pública estatal que presente el Ejecutivo del Estado.
+Es facultad del Congreso o de la Diputación Permanente, otorgar o negar la aprobación de los nombramientos del Tribunal de Conciliación y Arbitraje del Estado, que les someta la persona titular del Poder Ejecutivo del Estado, en los términos de la Constitución y las leyes.
 
 ### CAPITULO III. Del Ceremonial
 
@@ -3469,25 +3469,33 @@ El Instituto de Investigaciones Jurídicas y Parlamentarias, se encargará de la
 
 ### CAPÍTULO ÚNICO. Disposiciones Generales en Materia de Acceso a la Información
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2026)</small>
+
 ###### ARTÍCULO 290.
 
-En materia de acceso a la información pública, el Poder Legislativo observará lo establecido en la Constitución Política Local, en la Ley de Acceso a la Información Pública y Protección de Datos Personales y en los demás ordenamientos que regulen aspectos relacionados con esta materia.
+En materia de acceso a la información pública, el Poder Legislativo observará lo establecido en la Constitución Política Local, en la Ley de Transparencia y Acceso a la Información Pública para el Estado de Coahuila de Zaragoza, en la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Coahuila de Zaragoza y en los demás ordenamientos que regulen aspectos relacionados con esta materia.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2026)</small>
 
 ###### ARTÍCULO 291.
 
-El Poder Legislativo deberá informar lo dispuesto por la Ley de Acceso a la Información Pública y Protección de Datos Personales y demás leyes aplicables.
+El Poder Legislativo deberá informar lo dispuesto por la Ley de Transparencia y Acceso a la Información Pública para el Estado de Coahuila de Zaragoza y la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Coahuila de Zaragoza.
 
 ###### ARTÍCULO 292.
 
 Las solicitudes de información pública que se formulen al Poder Legislativo, se atenderán conforme al procedimiento que se establece en la ley de la materia.
 
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2026)</small>
+
 ###### ARTÍCULO 293.
 
-El Poder Legislativo establecerá una instancia encargada de la atención de las solicitudes de información pública, la cual será creada conforme a lo que se establece en la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Coahuila de Zaragoza.
+El Poder Legislativo establecerá una instancia encargada del cumplimiento de las disposiciones en la materia, derivadas de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Coahuila de Zaragoza y la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Coahuila de Zaragoza.
+
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2026)</small>
 
 ###### ARTÍCULO 294.
 
-El ejercicio del derecho a la información pública sólo estará restringido mediante la figura de la información reservada, en los términos previstos por la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Coahuila de Zaragoza. Para su clasificación, administración, resguardo, conservación y preservación se observará lo dispuesto en el mismo ordenamiento.
+El ejercicio del derecho a la información pública sólo estará restringido mediante la figura de la información reservada, en los términos previstos por la Ley de Transparencia y Acceso a la Información Pública para el Estado de Coahuila de Zaragoza y la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Coahuila de Zaragoza. Para su clasificación, administración, resguardo, conservación y preservación se observará lo dispuesto en los mismos ordenamientos.
 
 ###### ARTÍCULO 295.
 
@@ -3984,3 +3992,19 @@ PRIMERO.- El presente Decreto entrará en vigor al momento de su aprobación.
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 454.- SE REFORMAN LOS ARTÍCULOS 290, 291, 293 Y 294, DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 455.- SE REFORMA LA FRACCIÓN XVIII DEL ARTÍCULO 90 Y EL ARTÍCULO 270, DE LA LEY ORGÁNICA DEL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
