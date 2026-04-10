@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2026-04-08"
+last_updated: "2026-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO PENAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2026.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -98,6 +98,10 @@ Este Código se aplicará a las personas a partir de los dieciocho años de edad
 ###### Artículo 7o.
 
 Cuando se realice una conducta tipificada penalmente por otra ley y que deban aplicar los tribunales del Estado, será esa la que se aplique, observándose, en su caso, las disposiciones generales de este Código en lo no previsto por aquélla.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2026)</small>
+
+En caso de delitos cometidos en contra de menores de dieciocho años de edad, siempre se procurará el interés superior de la niñez que debe prevalecer en toda aplicación de la Ley.
 
 ## TÍTULO SEGUNDO. EL DELITO
 
@@ -4678,5 +4682,11 @@ Artículo Único. El presente decreto entrará en vigencia al día siguiente de 
 P.O. 8 DE ABRIL DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 177, QUE EMITE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 10 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 179, QUE EMITE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 7o. DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
