@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2026-03-20"
+last_updated: "2026-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -1283,7 +1283,9 @@ III. Violación;
 
 IV. Tortura;
 
-V. Desaparición forzada de personas;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2026)</small>
+
+V. Desaparición forzada de personas y la Desaparición cometida por particulares;
 
 > <small>(REFORMADA, P.O. 13 DE MAYO DE 2025)</small>
 
@@ -1477,7 +1479,9 @@ I. Que las lesiones causadas sean infamantes, degradantes o una mutilación;
 
 II. Cuando existan antecedentes o datos de algún tipo de violencia en cualquier ámbito por parte del sujeto activo en contra de la víctima;
 
-III. Cuando se haya utilizado cualquier tipo de agente o sustancia corrosiva, cáustica, irritante, tóxica o inflamable, álcali, ácido, líquido en altas temperaturas o cualquier otra sustancia que provoque lesiones, ya sean internas, externas o ambas; y
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2026)</small>
+
+I (SIC). Cuando se haya utilizado cualquier tipo de agente o sustancia corrosiva, cáustica, irritante, tóxica o inflamable, álcali, ácido, líquido en altas temperaturas o cualquier otra sustancia, incluyendo las que necesiten otro agente para reaccionar y que causen lesiones, ya sean internas, externas o ambas; y
 
 IV. Cuando entre el sujeto activo y la víctima exista o haya existido cualquier tipo de relación que implique confianza.
 
@@ -1485,15 +1489,19 @@ Se deberá garantizar en todo momento la incorporación de la perspectiva de gé
 
 Este delito se perseguirá de oficio.
 
-> <small>(ADICIONADO, P.O. 14 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2026)</small>
 
 ###### Artículo 140 Ter.
 
-Las sanciones a que se refiere el artículo anterior se aumentarán desde un tercio hasta en una mitad, cuando:
+Las sanciones a que se refiere el artículo anterior se aumentarán en una mitad cuando:
 
-I. Cause deformidad en el rostro o daño físico permanente en algún órgano interno, externo o ambos, o incapacidad permanente para trabajar, o entorpezca o debilite permanentemente una extremidad o cualquier otro órgano; y
+I. Cause deformidad en el rostro o daño físico permanente en algún órgano interno, externo o ambos, o incapacidad permanente para trabajar, o entorpezca o debilite permanentemente una extremidad o cualquier otro órgano;
 
-II. Cause pérdida parcial o total del oído, vista, habla, resección parcial o total de las mamas, alteración o daño en el aparato genital, en las funciones de reproducción sexual o atente contra el ejercicio de la autonomía sexual.
+II. Cause pérdida parcial o total del oído, vista, habla, resección parcial o total de las mamas, alteración o daño en el aparato genital, en las funciones de reproducción sexual o atente contra el ejercicio de la autonomía sexual;
+
+III. Cuando la víctima sea una niña, niño o adolescente; y
+
+IV. Cuando la víctima cuente con alguna discapacidad.
 
 ### CAPÍTULO III. REGLAS COMUNES PARA LOS DELITOS DE HOMICIDIO Y LESIONES
 
@@ -1509,9 +1517,11 @@ No podrá alegarse estado de emoción violenta por las lesiones u homicidio come
 
 Para efectos de este Código, la riña es el enfrentamiento entre dos o más personas con el propósito de causarse daño físico.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2026)</small>
+
 ###### Artículo 143.
 
-El homicidio y las lesiones son calificados cuando se cometan con premeditación; ventaja; traición; alevosía; retribución; por el medio empleado; saña; en perjuicio de menor de edad; o cuando dolosamente se cometan en perjuicio de agentes policiales, así como de servidores públicos que se encarguen de la administración o procuración de justicia, si se encuentran en el ejercicio de sus funciones y con motivo de las mismas, siempre que se cumplan con arreglo a la ley. También serán lesiones calificadas cuando se cometan en perjuicio de mujer. Para efectos de aplicar esta disposición se atenderá a lo siguiente:
+El homicidio y las lesiones son calificados cuando se cometan con premeditación; ventaja; traición; alevosía; retribución; por el medio empleado; saña; en perjuicio de menor de edad; o cuando dolosamente se cometan en perjuicio de agentes policiales, así como de servidores públicos que se encarguen de la administración o procuración de justicia, o en contra del personal docente o personas que trabajen en instituciones educativas, si se encuentran en el ejercicio de sus funciones y con motivo de las mismas, siempre que se cumplan con arreglo a la ley. También serán lesiones calificadas cuando se cometan en perjuicio de mujer. Para efectos de aplicar esta disposición se atenderá a lo siguiente:
 
 I. Existe premeditación cuando se ejecuta la conducta después de haber reflexionado sobre el delito que se va a cometer;
 
@@ -1746,6 +1756,10 @@ VI. El cuerpo de la víctima sea expuesto, arrojado, depositado o exhibido en un
 > <small>(ADICIONADA, P.O. 29 DE MAYO DE 2020)</small>
 
 VII. Exista o haya existido entre el activo y la víctima una relación de cualquier naturaleza que implique confianza.
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2026)</small>
+
+VII. Bis. Cuando la muerte de la víctima haya sido provocada por lesiones hechas mediante el uso de cualquier tipo de agente o sustancia corrosiva, cáustica, irritante, tóxica o inflamable, álcali, ácido, líquido en altas temperaturas o cualquier otra sustancia incluyendo las que necesiten otro agente para reaccionar;
 
 > <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2023)</small>
 
@@ -3643,8 +3657,6 @@ Las mismas sanciones se impondrán a quien acepte la identificación.
 
 ### CAPÍTULO II BIS. DESAPARICIÓN FORZADA DE PERSONAS
 
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
-
 ###### Artículo 289.
 
 Comete el delito de abuso de autoridad el servidor público cuando:
@@ -3681,7 +3693,7 @@ Al que incurra en alguna de las conductas previstas en las demás fracciones, se
 
 En el caso del agente del ministerio público o servidor público investigador que incurra en la conducta prevista en la fracción VI, será sancionado de conformidad por lo dispuesto en el artículo 313 bis del presente Código.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE JULIO DE 2017)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE ABRIL DE 2026)</small>
 
 ### CAPÍTULO II TER. SIMULACIÓN DE REINTEGRO DE RECURSOS
 
@@ -3695,33 +3707,19 @@ Al que cometa el delito a que se refiere este artículo, se le impondrán de dos
 
 ###### Artículo 289 Bis.
 
-Comete el delito de desaparición forzada de personas el agente estatal que, con motivo de sus atribuciones, prive de la libertad a una o más personas, seguida de la falta de información o de la negativa a reconocer dicha privación de libertad o de informar sobre el paradero de la persona, con lo cual se impida el ejercicio de los recursos legales y de los derechos procesales procedentes.
-
-Para los efectos del presente Capítulo se considera agente estatal a cualquiera de los servidores públicos señalados en el artículo 89 de la Constitución Política del Estado de Campeche, así como aquella persona que actúe con el apoyo, autorización o aquiescencia de un agente estatal.
-
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+(DEROGADO, P.O. 10 DE ABRIL DE 2026)
 
 ###### Artículo 289 Ter.
 
-A quien cometa el delito de desaparición forzada de personas se le impondrá de cinco a cuarenta años de prisión.
-
-Si la víctima fuere liberada espontáneamente dentro de los tres días siguientes a su detención la sanción será de ocho meses a cuatro años de prisión, sin perjuicio de aplicar la que corresponda a actos ejecutados u omitidos que constituyan por sí mismos delitos.
-
-Si la liberación ocurriera dentro de los diez días siguientes a su detención, la sanción aplicable será de dos a ocho años de prisión, sin perjuicio de aplicar la que corresponda a actos ejecutados u omitidos que constituyan por sí mismo delitos.
-
-Estas sanciones podrán ser disminuidas hasta una tercera parte en beneficio de aquel que hubiere participado en la comisión del delito, cuando suministre información que permita esclarecer los hechos, y hasta en una mitad, cuando contribuya a lograr la aparición con vida de la víctima.
-
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+– (DEROGADO, P.O. 10 DE ABRIL DE 2026)
 
 ###### Artículo 289 Quáter.
 
-Al agente estatal que haya sido condenado por el delito de desaparición forzada de personas, además se le destituirá del cargo y se le inhabilitará de uno a veinte años para desempeñar cualquier cargo, comisión o empleo públicos.
-
-> <small>(ADICIONADO, P.O. 13 DE JULIO DE 2017)</small>
+(DEROGADO, P.O. 10 DE ABRIL DE 2026)
 
 ###### Artículo 289 Quinquies.
 
-La oposición o negativa a la autoridad competente para tener libre e inmediato acceso al lugar donde haya motivos para creer que se pueda encontrar a una persona desaparecida, por parte del agente estatal responsable del mismo, será sancionada con la destitución de su cargo, comisión o empleo, sin perjuicio de la aplicación de las sanciones de los demás delitos en que pudiera incurrir con motivo de su conducta.
+(DEROGADO, P.O. 10 DE ABRIL DE 2026)
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE OCTUBRE DE 2022)</small>
 
@@ -4825,19 +4823,19 @@ Se impondrán de uno a siete años de prisión y multa de cien a doscientos día
 
 ### CAPÍTULO I
 
-NARCOMENUDEO, SECUESTRO, TRATA DE PERSONAS, TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES, DELITOS ELECTORALES, DELITO DE EXTORSIÓN Y LOS DELITOS VINCULADOS CON EL DELITO DE EXTORSIÓN
+NARCOMENUDEO, SECUESTRO, TRATA DE PERSONAS, TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES, DELITOS ELECTORALES, DELITO DE EXTORSIÓN Y LOS DELITOS VINCULADOS CON EL DELITO DE EXTORSIÓN Y DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2026)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2026)</small>
 
 ## TÍTULO VIGÉSIMO QUINTO. DELITOS CONTENIDOS EN LEYES ESPECIALES
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE MARZO DE 2026)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE ABRIL DE 2026)</small>
 
 ### CAPÍTULO II. PROTECCIÓN CIVIL
 
-###### Artículo 379.
+###### ARTÍCULO 379.
 
-En los casos de Narcomenudeo, Secuestro, Trata de Personas, Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, Delitos Electorales, Delito de Extorsión y los Delitos vinculados al Delito de Extorsión, se aplicarán las disposiciones contenidas en la Ley General de Salud, la Ley General para Prevenir y Sancionar los Delitos en materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General para Prevenir, Sancionar y Erradicar los Delitos en materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, la Ley General en Materia de Delitos Electorales, y la Ley General para Prevenir, Investigar y Sancionar los Delitos en materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, respectivamente.
+En los casos de Narcomenudeo, Secuestro, Trata de Personas, Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes, Delitos Electorales, Delito de Extorsión y los Delitos vinculados al Delito de Extorsión y Desaparición forzada de personas y Desaparición cometida por particulares se aplicarán las disposiciones contenidas en la Ley General de Salud, la Ley General para Prevenir y Sancionar los Delitos en materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General para Prevenir, Sancionar y Erradicar los Delitos en materia de Trata de Personas y para la Protección y Asistencia a las Víctimas de estos Delitos, la Ley General para Prevenir, Investigar y Sancionar la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes, la Ley General en Materia de Delitos Electorales, la Ley General para Prevenir, Investigar y Sancionar los Delitos en materia Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, y la Ley General en materia de Desaparición Forzada de Personas, Desaparición Cometida por Particulares y del Sistema Nacional de Búsqueda de Personas, respectivamente.
 
 ### CAPÍTULO ÚNICO
 
@@ -5620,3 +5618,33 @@ PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las disposiciones relativas a los delitos de extorsión previstas en el Código Penal del Estado de Campeche que mediante este decreto se derogan, seguirán aplicándose por los hechos realizados durante su vigencia, de conformidad con lo dispuesto en el Artículo Quinto Transitorio del Decreto de expedición de la Ley General para Prevenir, Investigar y Sancionar los Delitos en materia de Extorsión, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos, publicado el 28 de noviembre de 2025 en el Diario Oficial de la Federación.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido del presente decreto.
+
+P.O. 10 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 211 POR EL QUE SE "SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 122; LA DENOMINACIÓN DEL CAPÍTULO I DENOMINADO “NARCOMENUDEO, SECUESTRO, TRATA DE PERSONAS, TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES, DELITOS ELECTORALES, DELITO DE EXTORSIÓN Y LOS DELITOS VINCULADOS CON EL DELITO DE EXTORSIÓN” PARA QUEDAR COMO “NARCOMENUDEO, SECUESTRO, TRATA DE PERSONAS, TORTURA Y OTROS TRATOS O PENAS CRUELES, INHUMANOS O DEGRADANTES, DELITOS ELECTORALES, DELITO DE EXTORSIÓN Y LOS DELITOS VINCULADOS CON EL DELITO DE EXTORSIÓN Y DESAPARICIÓN FORZADA DE PERSONAS Y DESAPARICIÓN COMETIDA POR PARTICULARES” Y SU ARTÍCULO 379 DEL TÍTULO VIGÉSIMO QUINTO, DENOMINADO “DELITOS CONTENIDOS EN LEYES ESPECIALES”; Y SE DEROGA EL CAPÍTULO II BIS DENOMINADO “DESAPARICIÓN FORZADA DE PERSONAS” Y SUS ARTÍCULOS 289 BIS, 289 TER, 289 QUÁTER Y 289 QUINQUIES DEL TÍTULO DÉCIMO QUINTO DENOMINADO “DELITOS CONTRA EL ERARIO Y EL SERVICIO PÚBLICO POR HECHOS DE CORRUPCIÓN”, TODOS DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal en lo que se opongan al contenido del presente decreto.
+
+TERCERO.- El Ejecutivo Estatal deberá realizar las modificaciones que estime necesarias a las demás disposiciones normativas aplicables en la materia, en un plazo que no exceda de noventa días hábiles posteriores a la entrada en vigor del presente decreto.
+
+P.O. 10 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 212 POR EL QUE “SE REFORMAN LA FRACCIÓN III DEL ARTÍCULO 140 BIS; EL ARTÍCULO 140 TER Y, SE ADICIONA LA FRACCIÓN VII BIS AL ARTÍCULO 160, TODOS DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los procedimientos penales iniciados antes de la entrada en vigor de presente decreto, se sustanciarán de acuerdo con las disposiciones vigentes en el momento de la comisión del ilícito que corresponda.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 10 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 213 POR EL QUE "SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 143 DEL CÓDIGO PENAL DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente decreto, continuarán su trámite de conformidad con las disposiciones vigentes en el momento de la comisión de los hechos que les dieron origen.
+
+TERCERO.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al contenido del presente decreto.
