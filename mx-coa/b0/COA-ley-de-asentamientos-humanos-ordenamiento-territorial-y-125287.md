@@ -4,7 +4,7 @@ identifier: "COA-ley-de-asentamientos-humanos-ordenamiento-territorial-y-125287"
 country: "mx"
 rank: "ley"
 publication_date: "2017-12-26"
-last_updated: "2025-12-12"
+last_updated: "2026-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125287&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 26 de diciembre de 2017.
 
@@ -1439,7 +1439,9 @@ Las tierras agrícolas y forestales, así como las destinadas a la preservación
 
 Las áreas de preservación o conservación ecológica de los centros de población se sujetarán a las disposiciones de esta Ley, sin perjuicio de lo dispuesto en la legislación ambiental aplicable.
 
-Las zonas que se determinen como de riesgo grave en los atlas de riesgo, planes y programas de desarrollo urbanoy (sic) demás instrumentos aplicables, solo podrán tener un uso, destino o aprovechamiento compatible con tal determinación y conforme a los estudios de riesgo correspondientes, en los términos de las disposiciones aplicables; en ningún caso se permitirá alojar o construir infraestructura o equipamientos estratégicos, o vivienda de cualquier tipo.
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2026)</small>
+
+Las zonas que se determinen como de riesgo grave en los atlas de riesgo vigentes, planes y programas de desarrollo urbano y demás instrumentos aplicables, solo podrán tener un uso, destino o aprovechamiento compatible con tal determinación y conforme a los estudios de riesgo correspondientes, en los términos de las disposiciones aplicables; queda prohibida la autorización de acciones, proyectos u obras ubicadas en zonas de alto riesgo que no cumplan con los estudios de prevención de riesgo correspondientes y, en ningún caso, se permitirá alojar o construir infraestructura o equipamientos estratégicos, o vivienda de cualquier tipo.
 
 ### CAPÍTULO SEGUNDO. DE LA FUNDACIÓN DE CENTROS DE POBLACIÓN
 
@@ -4368,3 +4370,11 @@ P.O. 12 DE DICIEMBRE DE 2025.
 Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 10 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 462.- SE REFORMA EL CUARTO PÁRRAFO DEL ARTÍCULO 76 DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
