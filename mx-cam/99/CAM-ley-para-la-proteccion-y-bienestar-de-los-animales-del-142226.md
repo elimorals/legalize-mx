@@ -4,7 +4,7 @@ identifier: "CAM-ley-para-la-proteccion-y-bienestar-de-los-animales-del-142226"
 country: "mx"
 rank: "ley"
 publication_date: "2018-09-27"
-last_updated: "2025-10-09"
+last_updated: "2026-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142226&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY PARA LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2026.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Campeche, el jueves 27 de septiembre de 2018.
 
@@ -149,6 +149,10 @@ b) Adiestramiento, entrenamiento y demás prácticas y manejo relacionados con e
 
 VIII. Velar por el bienestar de los animales depositados en albergues o refugios; y
 
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2026)</small>
+
+VIII Bis. Promover un registro gratuito de animales de compañía en coordinación con la Secretaría de Salud;
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 10 DE MAYO DE 2022)</small>
 
 IX. Procurar, en coordinación con cada uno de los Municipios del Estado, la Instalación de los Centros de Bienestar Animal; para tal efecto se podrá generar convenios con entidades públicas o privadas; y
@@ -224,6 +228,32 @@ IV. Las demás que esta Ley y otros ordenamientos aplicables le confieran en est
 ###### ARTÍCULO 8°.
 
 Cualquier poseedor o propietario encargado de la guarda o custodia de los animales a los que se refiere la presente Ley, está obligado a brindar los cuidados necesarios para velar por el bienestar del animal de manera responsable y de acuerdo a su especie.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2026)</small>
+
+###### ARTÍCULO 8 Bis.
+
+Son obligaciones específicas de las personas propietarias, poseedoras o responsables de animales de compañía, las siguientes:
+
+I. Procurar el registrar (sic) gratuito de la propiedad o posesión de cualquier animal de compañía ante las autoridades correspondientes;
+
+II. Proporcionarle alimento en cantidad suficiente servido en recipientes limpios;
+
+III. Brindarle atención veterinaria cuando presente alguna lesión, enfermedad o condición que comprometa su salud o bienestar;
+
+IV. Protegerlo contra condiciones climáticas adversas, garantizándole sombra, ventilación adecuada y un espacio de resguardo seguro;
+
+V. Proporcionarle un espacio que le permita libertad de movimiento suficiente, que garantice su protección, cuidado y bienestar físico;
+
+VI. Garantizarle una vida libre de miedo, angustia, sufrimiento o estrés innecesario;
+
+VII. Asegurar que los perros y gatos cuenten con un nivel adecuado de contacto y socialización segura con seres humanos u otros animales de compañía;
+
+VIII. Promover conductas adecuadas mediante métodos de manejo y educación respetuosos, acordes a las características del animal, que favorezcan su protección, cuidado y convivencia responsable;
+
+IX. Procurar la esterilización responsable del animal, de conformidad con las políticas públicas, campañas y lineamientos que emita el Estado y los Municipios a través de sus respectivas Secretarías o Unidades Administrativas;
+
+X. Las demás que establezcan esta Ley y demás disposiciones normativas aplicables.
 
 ###### ARTÍCULO 9°.
 
@@ -723,9 +753,17 @@ VI. Usar animales en espectáculos circenses;
 
 VII. Realizar actos u omisiones que puedan ocasionar dolor, sufrimiento, poner en peligro la vida del animal o afectar su bienestar;
 
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2026)</small>
+
+VII Bis. Omitir proporcionar atención médica a los animales cuando se encuentren visiblemente enfermos o lesionados;
+
 VIII. Distribuir o vender animales vivos con fines ilícitos;
 
 IX. Privar a los animales de aire, luz, alimento, bebida, espacio suficiente o de abrigo contra la intemperie;
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2026)</small>
+
+IX Bis. Confinar animales en espacios insalubres, inseguros o incompatibles con su especie, tamaños o necesidades fisiológicas;
 
 X. Practicar a los animales mutilaciones, extirpación de uñas, cuerdas vocales u otras partes u órganos, salvo las intervenciones efectuadas con asistencia veterinaria en caso de necesidad terapéutica, para preservar su salud o para limitar o anular su capacidad reproductiva y demás casos previstos en la presente ley y su reglamento;
 
@@ -886,3 +924,13 @@ P.O. 9 DE OCTUBRE DE 2025.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente día al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 10 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. 214 POR EL QUE “SE ADICIONAN LA FRACCIÓN VIII BIS AL ARTÍCULO 4°; EL ARTÍCULO 8 BIS Y LAS FRACCIONES VII BIS Y IX BIS AL ARTÍCULO 68 DE LA LEY PARA LA PROTECCIÓN Y BIENESTAR DE LOS ANIMALES DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- La Secretaría de Medio Ambiente, Biodiversidad, Cambio Climático y Energía en coordinación con la Secretaría de Salud, realizarán las acciones tendientes de manera progresiva para el logro del Registro Gratuito a que se refiere el presente decreto, de conformidad con su disponibilidad presupuestal.
+
+TERCERO.- Se derogan las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
