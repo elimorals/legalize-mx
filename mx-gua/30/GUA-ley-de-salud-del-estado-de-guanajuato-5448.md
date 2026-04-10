@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-salud-del-estado-de-guanajuato-5448"
 country: "mx"
 rank: "ley"
 publication_date: "1986-08-08"
-last_updated: "2025-11-20"
+last_updated: "2026-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE SALUD DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2026.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 8 de agosto de 1986.
 
@@ -961,7 +961,9 @@ Para la promoción de la salud mental, la Secretaría de Salud del Estado y las 
 
 I.- El desarrollo de actividades educativas, socioculturales y recreativas que contribuyan a la salud mental, preferentemente de la infancia y de la juventud;
 
-II.- La difusión de las orientaciones para la promoción de la salud mental;
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2026)</small>
+
+II.- La difusión de las orientaciones para la promoción de la salud mental, con perspectiva intercultural, pertinencia lingüística, perspectiva de género y enfoque interseccional.
 
 > <small>(ADICIONADA, P.O. 19 DE JULIO DE 2021)</small>
 
@@ -3828,3 +3830,9 @@ P.O. 20 DE NOVIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 102 DE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE REFORMA EL ARTÍCULO 40; Y SE ADICIONAN UNA FRACCIÓN VIII AL ARTÍCULO 2; UNA FRACCIÓN IV AL ARTÍCULO 38; Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 41, RECORRIÉNDOSE EN SU ORDEN LOS ACTUALES PÁRRAFOS SEGUNDO Y TERCERO, PARA QUEDAR COMO TERCERO Y CUARTO, DE LA LEY DE SALUD DEL ESTADO DE GUANAJUATO”.]
 
 Único. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 10 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 178, QUE EMITE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE REFORMA EL ARTÍCULO 73, FRACCIÓN II DE LA LEY DE SALUD DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
