@@ -4,7 +4,7 @@ identifier: "COA-ley-de-obras-publicas-y-servicios-relacionados-con-las-66144"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-06"
-last_updated: "2017-12-26"
+last_updated: "2026-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66144&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 6 de enero de 2009.
 
@@ -97,9 +97,9 @@ XII. Órganos ejecutores: Los contemplados en las fracciones I al V del artícul
 
 XIII. Padrón de Contratistas: Registro administrativo en el que se inscribe a las personas físicas y morales que han satisfecho los requisitos establecidos por el Órgano de Control para celebrar contratos de obra pública y servicios relacionados con el gobierno del estado;
 
-> <small>(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2026)</small>
 
-XIV. Contratistas Salarialmente Responsables: Los Contratistas que hayan comprobado fehacientemente, a través de la documentación o cualquier otra prueba idónea, que sus trabajadores y los que laboren para terceros que presten servicios en sus instalaciones perciban un salario equivalente a 1.18 veces la Unidad de Cuenta del Estado de Coahuila de Zaragoza o en su caso el salario mínimo general vigente en la capital del estado, sí este fuese mayor al múltiplo de la Unidad de Cuenta antes referido, y cumplir con sus obligaciones en materia de seguridad social.
+XIV. Contratistas Salarialmente Responsables: Los Contratistas que hayan comprobado fehacientemente, a través de la documentación o cualquier otra prueba idónea, que sus trabajadores y los que laboren para terceros que presten servicios en sus instalaciones perciban un salario equivalente a 1.18 veces el salario mínimo general diario vigente en la capital del estado, y cumplir con sus obligaciones en materia de seguridad social;
 
 > <small>(REFORMADA, P.O. 7 DE ABRIL DE 2017)</small>
 
@@ -112,6 +112,14 @@ XVI. Sobre cerrado: Cualquier medio que contenga la proposición del licitante c
 > <small>(ADICIONADA, P.O. 7 DE ABRIL DE 2017)</small>
 
 XVII. Testigo Social: Las personas físicas que pertenezcan o no a organizaciones no gubernamentales, así como las propias organizaciones no gubernamentales, que cuenten con el registro correspondiente ante el Órgano de Control, las cuales a solicitud de las dependencias y entidades, por acuerdo entre ellas y la Secretaría o a solicitud de esta última, o del Órgano de Control, podrán participar con derecho a voz en las contrataciones que lleven a cabo las dependencias y entidades, emitiendo al término de su participación un testimonio público sobre el desarrollo de las mismas.
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2026)</small>
+
+XVIII. Modalidad de pagos a plazos preestablecidos: Acuerdo financiero donde el costo total de un bien o servicio se divide en cuotas periódicas, regulares y fijas durante un plazo o período de tiempo definido;
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2026)</small>
+
+XIX. Certificado de Avance de Obra: Documento oficial que acredita el progreso físico y financiero de un proyecto de obra pública y servicios relacionados con la misma, detallando las tareas ejecutadas, materiales utilizados y el porcentaje de avance en un período específico, sirviendo de base legal para que el contratista solicite el pago correspondiente.
 
 ###### Artículo 3.
 
@@ -177,7 +185,9 @@ La ejecución de las obras públicas que realicen las dependencias y entidades c
 
 El gasto para las obras públicas y servicios relacionados con las mismas se sujetará, en su caso, a las disposiciones específicas del Presupuesto de Egresos del Estado.
 
-Asimismo, las obras públicas podrán ser financiadas de manera directa o mediante mezcla de recursos; las primeras son aquellas cuyo financiamiento total es aportado por el Gobierno del Estado, mientras que las realizadas mediante mezcla de recursos, son aquellas cuyo financiamiento se integra con aportaciones conjuntas del Gobierno del Estado con los municipios, o de cualquiera de ellos con la federación, o con los particulares sin importar el porcentaje de la participación en la mezcla.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2026)</small>
+
+Asimismo, las obras públicas podrán ser financiadas de manera directa o mediante mezcla de recursos; las primeras son aquellas cuyo financiamiento total es aportado por el Gobierno del Estado, mientras que las realizadas mediante mezcla de recursos, son aquellas cuyo financiamiento se integra con aportaciones conjuntas del Gobierno del Estado con los municipios, o de cualquiera de ellos con la federación, o con los particulares sin importar el porcentaje de la participación en la mezcla. Además de lo anterior las obras públicas podrán ser financiadas de manera directa mediante el financiamiento total por parte de particulares a través de la modalidad de pago a plazos preestablecidos.
 
 (REFORMADO PRIMER PÁRRAFO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2013)
 
@@ -323,9 +333,11 @@ La Secretaría publicará a través de su sitio en internet el programa de obras
 
 El citado programa deberá ser actualizado y difundido por el mismo medio a más tardar el 31 de marzo del ejercicio fiscal de que se trate, solamente será de carácter informativo y no implicará compromiso alguno de contratación, por lo que podrá ser adicionado, modificado, suspendido o cancelado sin responsabilidad alguna para la Secretaría.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2026)</small>
+
 ###### Artículo 21.
 
-En las obras públicas y los servicios relacionados con las mismas, cuya ejecución rebase un ejercicio presupuestal, las dependencias o entidades deberán determinar tanto el presupuesto total, como el relativo a los ejercicios de que se trate; en la formulación de los presupuestos de los ejercicios subsecuentes, además de considerar los costos que, en su momento, se encuentren vigentes, se deberán tomar en cuenta las previsiones necesarias para los ajustes de costos y convenios que aseguren la continuidad de los trabajos.
+En las obras públicas y los servicios relacionados con las mismas, cuya ejecución rebase un ejercicio presupuestal, las dependencias o entidades deberán determinar tanto el presupuesto total, como el relativo a los ejercicios de que se trate; en la formulación de los presupuestos de los ejercicios subsecuentes, además de considerar los costos que, en su momento, se encuentren vigentes, se deberán tomar en cuenta las previsiones necesarias para los ajustes de costos y convenios que aseguren la continuidad de los trabajos. Así mismo se deberán considerar los compromisos plurianuales derivados de los contratos de obra pública en la modalidad de pagos a plazos preestablecidos.
 
 El presupuesto actualizado será la base para solicitar la asignación de cada ejercicio presupuestal subsecuente.
 
@@ -785,11 +797,11 @@ En las juntas de aclaraciones, las convocantes resolverán en forma clara (sic) 
 
 Cualquier modificación derivada del resultado de la o las juntas de aclaraciones, será considerada como parte integrante de las propias convocatorias a la licitación.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2026)</small>
 
 ###### Artículo 35.
 
-La entrega de las propuestas presenciales se hará en sobre cerrado, en los términos solicitados en las convocatorias a la licitación y acompañadas, cuando así se disponga en las mismas, de un dispositivo magnético, preferentemente disco compacto, introducido en el sobre que contenga fielmente reproducida la información de la propuesta y de los anexos indicados, y en su caso, la anotación correspondiente que acredite a las personas físicas o morales participantes ser Contratistas Salarialmente Responsables, de conformidad a lo señalado en el presente ordenamiento. La documentación distinta a la propuesta técnica y económica que específicamente señale la convocante en las convocatorias a la licitación, podrá entregarse, a elección del licitante, dentro o fuera de dicho sobre.
+La entrega de las propuestas presenciales se hará en sobre cerrado, en los términos solicitados en las convocatorias a la licitación y acompañadas, cuando así se disponga en las mismas, de un dispositivo magnético, preferentemente una unidad de almacenamiento digital, introducida en el sobre que contenga fielmente reproducida la información de la propuesta y de los anexos indicados, y en su caso, la anotación correspondiente que acredite a las personas físicas o morales participantes ser Contratistas Salarialmente Responsables, de conformidad a lo señalado en el presente ordenamiento. La documentación distinta a la propuesta técnica y económica que específicamente señale la convocante en las convocatorias a la licitación, podrá entregarse, a elección del licitante, dentro o fuera de dicho sobre.
 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
@@ -798,6 +810,10 @@ Dos o más personas podrán presentar conjuntamente propuestas sin necesidad de 
 > <small>(REFORMADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
 En todos los casos, se deberá preferir la especialidad, experiencia en obras similares o servicios similares y capacidad técnica de los interesados, así como a aquellos contratistas que, en su caso, hayan ejecutado obras con contratos terminados en costo y tiempo.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2026)</small>
+
+Sin perjuicio de lo anterior, para los contratos de obra pública bajo la modalidad de pagos a plazos preestablecidos, una vez que se adjudique el contrato, independientemente si su adjudicación se dio por licitación pública, invitación a cuando menos tres contratistas o adjudicación directa; la o las personas en quienes recaiga tal adjudicación podrán constituir una nueva persona moral de propósito específico; cuyo objeto social sea exclusivamente realizar las actividades necesarias para desarrollar el proyecto respectivo, para formalizar dicho contrato. En las bases o condiciones de contratación, se precisarán, en su caso, los requisitos correspondientes.
 
 (REFORMADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
 
@@ -947,9 +963,13 @@ II. A través de adjudicación directa con por lo menos tres cotizaciones, cuand
 
 Tratándose de servicios relacionados con las obras públicas, las dependencias y entidades, podrán contratar sin sujetarse al procedimiento de licitación pública, siempre que los contratos no se fraccionen para quedar comprendidas en los supuestos de excepción a la licitación pública a que se refiere este artículo, en los casos siguientes:
 
-I. A través de invitación a cuando menos tres personas cuando el importe de cada contrato sea de más de 4,463 y hasta un máximo de 17,853 días de salario mínimo general vigente en la capital del estado al momento de iniciar el procedimiento de contratación, sin considerar el Impuesto al Valor Agregado, y
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2026)</small>
 
-II. Por medio de adjudicación directa con cuando menos tres cotizaciones si el monto del contrato no exceda de 4,463 días de salario mínimo general vigente en la capital del estado al momento de iniciar el procedimiento de contratación, sin considerar el Impuesto al Valor Agregado.
+I. A través de invitación a cuando menos tres personas, cuando el importe de cada contrato sea de más de 4,463 y hasta un máximo de 17,853 veces, en ambos casos, el valor diario de la unidad de medida y actualización vigente al momento de iniciar el procedimiento de contratación, sin considerar el Impuesto al Valor Agregado, y
+
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2026)</small>
+
+II. Por medio de adjudicación directa con cuando menos tres cotizaciones si el monto del contrato no excede de 4,463 veces el valor diario de la unidad de medida y actualización vigente al momento de iniciar el procedimiento de contratación, sin considerar el Impuesto al Valor Agregado.
 
 > <small>(ADICIONADO, P.O. 7 DE ABRIL DE 2017)</small>
 
@@ -1045,6 +1065,22 @@ Las dependencias y entidades podrán incorporar en las convocatorias a la licita
 
 Los trabajos cuya ejecución comprendan más de un ejercicio presupuestal deberán formularse en un solo contrato, por la vigencia que resulte necesaria para la ejecución de los trabajos, quedando únicamente sujetos a la autorización presupuestal para cada ejercicio.
 
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2026)</small>
+
+Cualquier tipo de contrato de obra pública podrá celebrarse bajo la modalidad de pagos a plazos preestablecidos. En esta modalidad, los pagos se realizarán mediante amortizaciones periódicas programadas en más de un ejercicio fiscal, conforme a los términos y condiciones que establezcan los contratos respectivos, debiéndose emitir certificados de avance de obra con base en las estimaciones autorizadas.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2026)</small>
+
+Los certificados de avance de obra deben contener, por lo menos: las fechas y montos de pago, incluyendo el costo por diferimiento; detalles de la obra, como nombre, número de certificado, período cubierto y el contratista; medición de trabajos, que incluye descripción de las partidas ejecutadas, unidades, cantidades y valores; cómputos métricos, que son el registro del avance acumulado y el del período actual; valoración económica, compuesta por el importe anterior, importe del certificado actual y el acumulado hasta la fecha; y porcentaje de avance, calculado sobre el total del proyecto.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2026)</small>
+
+La emisión del formato de certificado de avance de obra es independiente a la aceptación de la obra, por lo que la dependencia se reserva el derecho de reclamar por trabajos faltantes, mal ejecutados, vicios o defectos ocultos en la ejecución de los mismos haciendo efectiva la fianza correspondiente.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2026)</small>
+
+Los compromisos plurianuales derivados de los contratos de obra pública en la modalidad de pagos a plazos preestablecidos tendrán preferencia respecto a otras previsiones de gasto, debiéndose incluir en los presupuestos de egresos de los ejercicios subsecuentes hasta la liquidación total de los contratos respectivos.
+
 (REFORMADO, P.O. 6 DE JULIO DE 2012) (REPUBLICADO, P.O. 19 DE ABRIL DE 2013)
 
 ###### Artículo 45.
@@ -1076,6 +1112,12 @@ VIII. Porcentajes, número y fechas de las exhibiciones y amortización de los a
 IX. Forma y términos o porcentajes de garantizar la correcta inversión de los anticipo s (sic) que en su caso se otorguen y el cumplimiento del contrato;
 
 X. Plazos, forma y lugar de pago de las estimaciones de trabajos ejecutados y, cuando corresponda, de los ajustes de costos;
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2026)</small>
+
+X Bis. En el caso de modalidad de pagos a plazos preestablecidos se deberá precisar que se celebra bajo dicha modalidad, especificar que los pagos se realizarán mediante amortizaciones periódicas programadas en más de un ejercicio fiscal, y se emitirán los certificados de avance de obra en base a las estimaciones autorizadas y validadas por servidor público facultado para tales efectos, los cuales se emitirán como anexos y serán parte integrante del contrato.
+
+La condición de pago que se pacte en el contrato no podrá modificarse durante la vigencia del contrato;
 
 XI. Penas convencionales por atraso en la ejecución de los trabajos por causas imputables a los contratistas, que en ningún caso podrán ser superiores, en su conjunto, al monto de la garantía de cumplimiento y serán determinadas únicamente en función de los trabajos no ejecutados conforme al programa convenido. Las dependencias y entidades deberán fijar en el contrato, los términos, condiciones y el procedimiento, para aplicar las penas convencionales, debiendo, en su caso, exponer en el finiquito correspondiente las razones de su aplicación;
 
@@ -1109,11 +1151,11 @@ En la formalización de los contratos, podrán utilizarse los medios de comunica
 
 En la elaboración, control y seguimiento de la bitácora, se podrán utilizar medios remotos de comunicación electrónica, que al efecto autorice el Órgano de Control.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2026)</small>
 
 ###### Artículo 46.
 
-La adjudicación del contrato obligará al Órgano Ejecutor y a la persona en quien hubiere recaído dicha adjudicación, a formalizar el documento relativo en la fecha que se haya establecido en las convocatorias a la licitación, que no será posterior a los quince días naturales siguientes al de la notificación del fallo. No podrá formalizarse contrato alguno que no se encuentre garantizado de acuerdo con lo dispuesto en el artículo 47 de esta Ley.
+La adjudicación del contrato obligará al Órgano Ejecutor y a la persona en quien hubiere recaído dicha adjudicación, o con la empresa constituida para tales efectos, según sea el caso, a formalizar el documento relativo en la fecha que se haya establecido en las convocatorias a la licitación, que no será posterior a los quince días naturales siguientes al de la notificación del fallo. No podrá formalizarse contrato alguno que no se encuentre garantizado de acuerdo con lo dispuesto en el artículo 47 de esta Ley.
 
 Si el interesado no firmare el contrato por causas imputables al mismo, en la fecha o plazo establecido en el párrafo anterior será sujeto a lo establecido en los artículos 78 y 79 de esta Ley, no obstante, la dependencia o entidad podrá, sin necesidad de un nuevo procedimiento, adjudicar el contrato al participante que haya presentado la siguiente proposición solvente que resulte económicamente más conveniente para el Estado, de conformidad con lo asentado en el dictamen a que se refiere el artículo 37 de esta Ley, y así sucesivamente en caso de que este último no acepte la adjudicación, siempre que la diferencia en precio con respecto a la propuesta que inicialmente hubiere resultado ganadora, no sea superior al diez por ciento.
 
@@ -1125,11 +1167,13 @@ Cuando la proposición ganadora de la licitación haya sido presentada en forma 
 
 Si la dependencia o entidad no firmare el contrato respectivo o cambia las condiciones de las convocatorias a la licitación que motivaron el fallo correspondiente, el licitante ganador, sin incurrir en responsabilidad, no estará obligado a ejecutar los trabajos. En este supuesto, la dependencia o entidad, a solicitud escrita del licitante, cubrirá los gastos no recuperables en que hubiere incurrido para preparar y elaborar su propuesta, siempre que éstos sean razonables, estén debidamente comprobados y se relacionen directamente con la licitación de que se trate.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2026)</small>
 
-El contratista a quien se adjudique el contrato, no podrá hacerlo ejecutar por otro; pero, con autorización previa del titular del área responsable de la ejecución de los trabajos en la dependencia o entidad de que se trate, podrá hacerlo respecto de partes del contrato o cuando adquiera materiales o equipos que incluyan su instalación en las obras. Esta autorización previa no se requerirá cuando la dependencia o entidad señale específicamente en las convocatorias a la licitación, las partes de los trabajos que podrán ser objeto de subcontratación. En todo caso, el contratista seguirá siendo el único responsable de la ejecución de los trabajos y de la calidad de estos ante la dependencia o entidad.
+El contratista que suscriba el contrato, no podrá hacerlo ejecutar por otro; pero, con autorización previa del titular del área responsable de la ejecución de los trabajos en la dependencia o entidad de que se trate, podrá hacerlo respecto de partes del contrato o cuando adquiera materiales o equipos que incluyan su instalación en las obras. Esta autorización previa no se requerirá cuando la dependencia o entidad señale específicamente en las convocatorias a la licitación, las partes de los trabajos que podrán ser objeto de subcontratación. En todo caso, el contratista seguirá siendo el único responsable de la ejecución de los trabajos y de la calidad de estos ante la dependencia o entidad.
 
-Los derechos y obligaciones que se deriven de los contratos no podrán cederse en forma parcial o total en favor de cualesquiera otra persona, con excepción de los derechos de cobro sobre las estimaciones por trabajos ejecutados, en cuyo caso se deberá contar con el consentimiento de la dependencia o entidad de que se trate.
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2026)</small>
+
+Los derechos y obligaciones que se deriven de los contratos no podrán cederse en forma parcial o total en favor de cualquier otra persona, con excepción de los derechos de cobro sobre las estimaciones por trabajos ejecutados y/o certificados de avance de obra, en cuyo caso se deberá contar con el consentimiento de la dependencia o entidad de que se trate.
 
 > <small>(REFORMADO, P.O. 7 DE ABRIL DE 2017)</small>
 
@@ -1211,7 +1255,9 @@ III. Las que desempeñen un empleo, cargo o comisión en el servicio público, o
 
 IV. Aquellos contratistas que, por causas imputables a ellos mismos, la dependencia o entidad convocante les hubiere rescindido administrativamente un contrato dentro de un lapso de un año calendario contado a partir de la notificación de la rescisión. Dicho impedimento prevalecerá ante la propia dependencia o entidad convocante durante un año calendario contado a partir de la notificación de la rescisión;
 
-V. Las que se encuentren inhabilitadas por resolución del Órgano de Control;
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2026)</small>
+
+V. Las que se encuentren inhabilitadas por resolución del Órgano de Control o de cualquier otra autoridad competente;
 
 VI. Aquéllas que hayan sido declaradas o sujetas a concurso mercantil o alguna figura análoga;
 
@@ -1297,9 +1343,19 @@ En los proyectos de infraestructura productiva de largo plazo, la forma de estim
 
 Las dependencias y entidades deberán establecer en sus convocatorias a la licitación y en los contratos que se celebren al amparo de esta ley, que el pago a contratistas podrá realizarse a través del sistema de factoraje electrónico denominado Cadenas Productivas implementado por el gobierno del estado en coordinación con Nacional Financiera S.N.C.
 
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2026)</small>
+
+En el caso de los contratos de obra con pagos a plazos preestablecidos, la convocante emitirá certificados de avance de obra con base en las estimaciones de obra aprobadas, los cuales serán pagaderos en los términos establecidos en los mismos y en el contrato de obra correspondiente, y una vez expedidos con las formalidades dispuestas en esta ley, constituirán obligaciones incondicionales e irrevocables de pago, siendo exigibles aún en los supuestos de suspensión de los trabajos, terminación anticipada total o parcial o rescisión previstos en esta Ley. En virtud de que estos certificados derivan de estimaciones por trabajos ejecutados, no están sujetos a deducciones, ajustes, descuentos, compensaciones, retenciones o penas convencionales de ningún tipo y se cubrirán en las fechas y por los montos que en ellos se establezcan, conforme a los términos pactados en el contrato respectivo.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2026)</small>
+
+El plazo para la emisión del certificado de avance de obra será de cinco días hábiles contados a partir de que la estimación correspondiente haya sido aprobada.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2026)</small>
+
 ###### Artículo 55.
 
-En caso de incumplimiento en los pagos de estimaciones y de ajustes de costos, la dependencia o entidad, a solicitud del contratista, deberá pagar gastos financieros conforme a una tasa que será igual a la establecida por la Ley de Ingresos del Estado en los casos de prórroga para el pago de créditos fiscales. Dichos gastos empezarán a generarse cuando las partes tengan definido el importe a pagar y se calcularán sobre las cantidades no pagadas, debiéndose computar por días naturales desde que sean determinadas y hasta la fecha en que se ponga efectivamente las cantidades a disposición del contratista.
+En caso de incumplimiento en los pagos de estimaciones, certificados de avance de obra y de ajustes de costos, la dependencia o entidad, a solicitud del contratista, deberá pagar gastos financieros conforme a una tasa que será igual a la establecida por la Ley de Ingresos del Estado en los casos de prórroga para el pago de créditos fiscales. Dichos gastos empezarán a generarse cuando las partes tengan definido el importe a pagar y se calcularán sobre las cantidades no pagadas, debiéndose computar por días naturales desde que sean determinadas y hasta la fecha en que se ponga efectivamente las cantidades a disposición del contratista.
 
 Tratándose de pagos en exceso que haya recibido el contratista, éste deberá reintegrar las cantidades pagadas en exceso más los intereses correspondientes, conforme a lo señalado en el párrafo anterior. Los cargos se calcularán sobre las cantidades pagadas en exceso en cada caso y se computarán por días naturales, desde la fecha del pago hasta la fecha en que se pongan efectivamente las cantidades a disposición de la dependencia o entidad.
 
@@ -1567,9 +1623,11 @@ Cuando del resultado del dictamen se determinen irregularidades imputables direc
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE ABRIL DE 2026)</small>
+
 ###### Artículo 78.
 
-Los licitantes o contratistas que infrinjan las disposiciones de esta Ley o las normas que con base en ella se dicten, serán sancionados por el Órgano de Control con multa equivalente a la cantidad de mil a diez mil veces el salario mínimo general diario vigente en el Estado, en la fecha de la infracción. En caso de reincidencia, se aplicará hasta en tres veces la multa a que se refiere este artículo.
+Los licitantes o contratistas que infrinjan las disposiciones de esta Ley o las normas que con base en ella se dicten, serán sancionados por el Órgano de Control con multa equivalente a la cantidad de mil a diez mil veces el valor diario de la unidad de medida y actualización vigente en la fecha de la infracción. En caso de reincidencia, se aplicará hasta en tres veces la multa a que se refiere este artículo.
 
 Cuando proceda, el Órgano de Control podrá proponer a la dependencia o entidad contratante, la rescisión administrativa del contrato en que incida la infracción.
 
@@ -1901,13 +1959,17 @@ VI. Cuando la documentación o información presentada para su inscripción o re
 
 VII. Cuando se compruebe que por causas atribuidas al contratista, no haya firmado el contrato en los términos del artículo 46 del presente ordenamiento jurídico. La negativa para expedir el certificado será por un período de 365 días, contados a partir de la fecha en que se haya pactado la firma del contrato.
 
-(ADICIONADA, P.O. 6 DE JULIO DE 2012) (REPUBLICADA, P.O. 19 DE ABRIL DE 2013)
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2026)</small>
 
-VIII. Cuando como resultado de la revisión de la solicitud de las personas morales, se detecte que en su capital social, participan personas físicas o morales que se encuentren inhabilitadas por la Secretaría de la Función Pública Federal, en los términos de la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza y esta Ley.
+VIII. Cuando como resultado de la revisión de la solicitud de las personas morales, se detecte que, en su capital social, participan personas físicas o morales que se encuentren inhabilitadas por resolución del Órgano de Control o de cualquier otra autoridad competente.
 
-(ADICIONADA, P.O. 6 DE JULIO DE 2012) (REPUBLICADA, P.O. 19 DE ABRIL DE 2013)
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2026)</small>
 
-IX. Cuando como resultado de la revisión de la solicitud de las personas morales, se detecte que en su capital social participan personas en cuyo capital social a su vez participen personas físicas o morales que se encuentren inhabilitadas por la Secretaría de la Función Pública Federal, en los términos de la Ley de Adquisiciones, Arrendamientos y Contratación de Servicios para el Estado de Coahuila de Zaragoza y esta Ley.
+IX. Cuando como resultado de la revisión de la solicitud de las personas morales, se detecte que en su capital social participan personas en cuyo capital social a su vez participen personas físicas o morales que se encuentren inhabilitadas por resolución del Órgano de Control o de cualquier otra autoridad competente.
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2026)</small>
+
+X. Se encuentren inhabilitados por resolución del Órgano de Control o de cualquier otra autoridad competente.
 
 > <small>(ADICIONADO, P.O. 25 DE SEPTIEMBRE DE 2015)</small>
 
@@ -2192,3 +2254,13 @@ DÉCIMO PRIMERO. Los asuntos en trámite que se encuentren pendientes en la Secr
 DÉCIMO SEGUNDO. Los derechos y obligaciones derivados de convenios celebrados por la Secretaría de Desarrollo Social, la Secretaría de Medio Ambiente, la Secretaría de la Juventud, la Secretaría de las Mujeres, la Comisión Estatal de Seguridad, el Instituto Coahuilense del Catastro y la Información Territorial, el Registro Público del Estado de Coahuila de Zaragoza y la Procuraduría para Niños, Niñas y la Familia, serán asumidos por las dependencias y entidades que corresponda de acuerdo al segundo párrafo del transitorio décimo primero.
 
 DÉCIMO TERCERO. Los reglamentos interiores de las dependencias a que se refiere el presente decreto, deberán adecuarse dentro de los noventa días siguientes a la entrada en vigor del presente decreto.
+
+P.O. 10 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 457.- SE REFORMA LA FRACCIÓN XIV DEL ARTÍCULO 2; EL SEGUNDO PÁRRAFO DEL ARTÍCULO 6; EL PRIMER PÁRRAFO DEL ARTÍCULO 21; EL PÁRRAFO PRIMERO DEL ARTÍCULO 35; LAS FRACCIONES I Y II, DEL ARTÍCULO 42-A; LOS PÁRRAFOS PRIMERO, QUINTO Y SEXTO DEL ARTÍCULO 46; LA FRACCIÓN V DEL ARTÍCULO 50; EL PÁRRAFO PRIMERO DEL ARTÍCULO 55; PRIMER PÁRRAFO DEL ARTÍCULO 78; Y FRACCIONES VIII Y IX DEL ARTÍCULO 97; SE ADICIONA LA FRACCIÓN XVIII Y XIX AL ARTÍCULO 2; UN CUARTO PÁRRAFO AL ARTÍCULO 35; LOS PÁRRAFOS CUARTO, QUINTO, SEXTO Y SÉPTIMO AL ARTÍCULO 44; LA FRACCIÓN X BIS AL ARTÍCULO 45; LOS PÁRRAFOS NOVENO Y DÉCIMO AL ARTÍCULO 54; UNA FRACCIÓN X AL ARTÍCULO 97, TODOS DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a la (sic) presente Decreto.
+
+TERCERO. Publíquese el presente Decreto por una sola vez en el Periódico Oficial del Gobierno del Estado.
