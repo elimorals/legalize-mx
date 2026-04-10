@@ -4,7 +4,7 @@ identifier: "ROO-codigo-penal-para-el-estado-libre-y-soberano-de-quintana-roo-71
 country: "mx"
 rank: "codigo"
 publication_date: "1991-03-29"
-last_updated: "2025-12-10"
+last_updated: "2026-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7189&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 29 de marzo de 1991.
 
@@ -1305,6 +1305,24 @@ Además de la sanción anterior, el sujeto activo perderá todos los derechos co
 
 Al que prive de la vida a otro en riña se le impondrá de ocho a quince años de prisión y de setecientos a mil días multa, si tiene el carácter de provocador y de cinco a diez años de prisión y de quinientos a setecientos cincuenta días multa si se trata del provocado.
 
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2026)</small>
+
+###### Artículo 87 Bis.
+
+Será responsable de homicidio, la persona propietaria y/o quien tenga bajo su cuidado algún animal, cuando por negligencia o por no prever todos los cuidados necesarios respecto de éste, el animal cause la muerte de una persona o personas, dicha conducta tendrá una sanción de cinco a diez años de prisión y de doscientos cincuenta a setecientos cincuenta días multa.
+
+Las penas previstas para el párrafo anterior se agravarán hasta en una tercera parte cuando:
+
+I. La victima sea una persona menor de 18 años, mayor de 60 años o mujer embarazada;
+
+II. La persona propietaria y/o responsable del cuidado del animal, haya sido previamente advertida, apercibida o sancionada por la autoridad competente, respecto a la peligrosidad del animal, y
+
+III. El animal ya había causado lesiones a otra persona anteriormente, y a pesar de los registros de dichos antecedentes, la persona propietaria, poseedora o que ostente la calidad garante del animal, no tomó las acciones necesarias para evitar nuevos ataques.
+
+Para los efectos del presente artículo se entenderá por animal, lo dispuesto en la Ley de Protección y Bienestar Animal del Estado de Quintana Roo.
+
+Sin menoscabo de la responsabilidad que se genere, no será punible la conducta cuando se acredite que el animal actuó bajo su instinto de proteger y/o defender la vida o integridad de su persona propietaria, la persona que lo está cuidando o de quien mantiene su vínculo familiar cercano que esté con el animal al momento que se generó su conducta.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2017)</small>
 
 ###### ARTICULO 88.
@@ -1567,6 +1585,18 @@ En los casos donde la conducta descrita en el párrafo anterior se realice con e
 
 Cuando la conducta descrita en el primer párrafo provoque resección parcial o total en las mamas, alteración en el aparato genital, en las funciones de reproducción sexual o atente contra el ejercicio de la autonomía sexual, cause alguna deformidad o daño permanente en algún órgano interno, externo o ambos, provoque daños en extremidades, entorpezca, debilite u ocasione la pérdida parcial o total del oído, vista, habla o incapacidad permanente para trabajar, las penas se duplicarán.
 
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2026)</small>
+
+###### Artículo 104 Ter.
+
+Será responsable de lesiones la persona propietaria y/o quien tenga bajo su cuidado algún animal, cuando por negligencia o no prever todos los cuidados necesarios respecto de éste, lesione a una o más personas.
+
+Para los efectos del párrafo anterior, y atendiendo a la gravedad de las lesiones, se aplicarán las penas previstas en los artículos 99 y 100, en relación con el artículo 54 del mismo Código.
+
+Para los efectos del presente artículo se entenderá por animal, lo dispuesto en la Ley de Protección y Bienestar Animal del Estado de Quintana Roo.
+
+Sin menoscabo de la responsabilidad que se genere, no será punible la conducta cuando se acredite que el animal actuó bajo su instinto de proteger y defender la vida o integridad de su persona propietaria, la persona que lo está cuidando o su vínculo familiar cercano que esté con el animal al momento que se generó su conducta.
+
 ### CAPITULO V. DISPOSICIONES COMUNES PARA LOS DELITOS DE HOMICIDIO Y LESIONES
 
 ###### ARTICULO 105.
@@ -1628,6 +1658,18 @@ VII. Cuando se cometan en agravio de periodistas, teniendo como propósito obsta
 > <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2024)</small>
 
 VIII. Cuando se cometan en agravio de personas integrantes de alguna institución policial con motivo del desempeño de sus funciones.
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2026)</small>
+
+IX. Cuando se cometan en agravio de personas defensoras de derechos humanos con motivo del desempeño de sus actividades.
+
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2026)</small>
+
+X. Cuando se cometa a través de un animal, mediante la instigación, incitación, y/o provocación que se ejerza sobre él, o lo suelte con el propósito de que cometa dicha conducta.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN X, P.O. 10 DE ABRIL DE 2026]</small>
+
+Entendiéndose por animal, lo dispuesto en la Ley de Protección y Bienestar Animal del Estado de Quintana Roo.
 
 ###### ARTICULO 107.
 
@@ -3193,6 +3235,10 @@ V.- Provoque la erosión, deterioro o degradación de los suelos y subsuelos de 
 
 BIS.- Al que injustificada e intencionalmente realice actos de crueldad en contra de cualquier especie animal, causándole maltrato evidente, pero que no pongan en peligro la vida del animal, y que puedan ocasionar un daño permanente se le impondrá de uno a cinco años de prisión y de cincuenta a cien días multa.
 
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2026)</small>
+
+Se aplicará la misma pena a la persona propietaria y/o quien tenga bajo su cuidado algún animal, cuando lo instigue, incite, provoque o lo suelte y a consecuencia cause lesiones a otro animal.
+
 > <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2013)</small>
 
 Si las lesiones ponen en peligro la vida del animal se incrementarán en una mitad de la pena señalada.
@@ -3226,6 +3272,10 @@ Cuando el delito previsto en este artículo sea cometido por un servidor públic
 ###### ARTICULO 179
 
 TER.- Al que injustificada e intencionalmente cometa actos de maltrato o crueldad en contra de cualquier especie animal provocándole la muerte, se le impondrán de cuatro a seis años de prisión y de doscientos a cuatrocientos días multa, así como el aseguramiento de todos los animales que pudiera tener bajo su cuidado o resguardo, de conformidad a lo dispuesto en la Ley de Protección y Bienestar Animal del Estado de Quintana Roo.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2026)</small>
+
+Se aplicará la misma pena a la persona propietaria y/o quien tenga bajo su cuidado algún animal, cuando lo instigue, incite, provoque o lo suelte y como consecuencia cause la muerte de otro animal.
 
 > <small>(ADICIONADO, P.O. 14 DE JUNIO DE 2013)</small>
 
@@ -3266,6 +3316,20 @@ III. Posea o administre una propiedad en la que se realicen peleas de perros con
 IV. Ocasione que niñas, niños y adolescentes asistan o presencien cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros.
 
 A quien asista como espectador a cualquier exhibición, espectáculo o actividad que implique una pelea entre perros, se le impondrá un tercio del mínimo a un tercio del máximo de la pena prevista en este artículo.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2026)</small>
+
+###### ARTÍCULO 179
+
+TER-2. - Se impondrá una pena de seis meses a tres años de prisión y de doscientos a setecientos días multa a la persona propietaria y/o quien tenga bajo su cuidado algún animal, que, por negligencia o falta de cuidado, lo suelte, ocasionando que ataque a otro animal, provocándole lesiones, que no pongan en peligro la vida del animal lesionado.
+
+Si las lesiones ponen en peligro la vida del animal se incrementarán hasta en una tercera parte la pena señalada.
+
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2026)</small>
+
+###### ARTÍCULO 179
+
+TER-3. - Se impondrá una pena de uno a cuatro años de prisión y de cien a quinientos días multa a la persona propietaria y/o quien tenga bajo su cuidado algún animal, que, por negligencia o falta de cuidado, lo suelte, ocasionando que ataque a otro animal, provocándole la muerte.
 
 > <small>(ADICIONADO, P.O. 13 DE SEPTIEMBRE DE 2019)</small>
 
@@ -5836,3 +5900,25 @@ P.O. 10 DE DICIEMBRE DE 2025.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 10 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 214 POR EL QUE SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 106 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 217 POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN Y BIENESTAR ANIMAL DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Dentro de los 365 días naturales siguientes a la publicación del presente Decreto, los Ayuntamientos del Estado, realizarán las adecuaciones o adiciones reglamentarias que correspondan a su normatividad aplicable, a efecto de dar cumplimiento a lo establecido por el presente.
+
+TERCERO. Los Ayuntamientos del Estado contarán con un plazo de 365 días naturales, contados a partir de la publicación de las modificaciones a las disposiciones a las que se refiere el artículo anterior, para la creación e implementación de los Registros Municipales de Ejemplares Caninos Sujetos a Manejo Especial.
+
+CUARTO. La Implementación de las acciones que resulten necesarias, derivado de la entrada en vigor del presente Decreto, se realizarán de manera progresiva con cargo a la disponibilidad presupuestaria del gasto correspondiente en el ejercicio fiscal 2027, y subsecuentes de conformidad a la capacidad institucional y suficiencia presupuestal de los Ayuntamientos del Estado de Quintana Roo.
+
+QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan o se opongan a lo dispuesto por el presente Decreto.
