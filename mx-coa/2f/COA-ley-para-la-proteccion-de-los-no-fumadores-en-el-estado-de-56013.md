@@ -4,7 +4,7 @@ identifier: "COA-ley-para-la-proteccion-de-los-no-fumadores-en-el-estado-de-5601
 country: "mx"
 rank: "ley"
 publication_date: "2007-06-01"
-last_updated: "2023-01-03"
+last_updated: "2026-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA LA PROTECCIÓN DE LOS NO FUMADORES EN EL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ENERO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2026.
 
 Ley publicada en la Primera Sección al Periódico Oficial del Estado de Coahuila, el viernes 1 de junio de 2007.
 
@@ -447,11 +447,11 @@ La publicidad de tabaco deberá sujetarse a lo dispuesto en la Ley General de Sa
 
 Queda prohibida la venta de tabaco en cualquiera de sus modalidades a menores de edad, en cualquier establecimiento comercial. Así mismo queda prohibida la instalación y funcionamiento de máquinas automáticas expendedoras de cigarros en los lugares antes mencionados.
 
-> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2020)</small>
+> <small>(REFORMADO, P.O. 10 DE ABRIL DE 2026)</small>
 
 ###### Artículo 33 Bis.
 
-Se prohíbe el uso, comercio, venta, distribución, exhibición, así como la promoción o producción de cigarros electrónicos o cualquier objeto que no sea un producto del tabaco, que contenga alguno de los elementos de la marca o cualquier tipo de diseño o señal auditiva que lo identifique con productos del tabaco.
+Se prohíbe el uso, comercio, venta, distribución, exhibición,· así como la promoción o producción de Sistemas Electrónicos de Administración de Nicotina, Sistemas Similares sin Nicotina, Sistemas Alternativos de Consumo de Nicotina, cigarrillos electrónicos y dispositivos vaporizadores con usos similares o cualquier objeto que no sea un producto del tabaco, que contenga alguno de los elementos de la marca o cualquier tipo de diseño o señal auditiva que lo identifique con productos del tabaco.
 
 ###### Artículo 34.
 
@@ -806,3 +806,11 @@ P.O. 3 DE ENERO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 310.- SE REFORMA EL PRIMER PÁRRAFO DE LA FRACCIÓN I DEL ARTÍCULO 9, LAS FRACCIONES III, IV, VI, VII, IX Y ÚLTIMO 7 PÁRRAFO DEL ARTÍCULO 13, EL PRIMER Y TERCER PÁRRAFO DEL ARTÍCULO 16, Y LAS FRACCIONES I, II Y III DEL ARTÍCULO 18; SE DEROGA LA FRACCIÓN V DEL ARTÍCULO 13, ASÍ COMO LOS ARTÍCULOS 23 Y 25 DE LA LEY PARA LA PROTECCIÓN DE LOS NO FUMADORES EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado.
+
+P.O. 10 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 461.- SE REFORMA EL ARTÍCULO 33 BIS DE LA LEY PARA LA PROTECCIÓN DE LOS NO FUMADORES EN EL ESTADO DE COAHUILA".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente decreto.
