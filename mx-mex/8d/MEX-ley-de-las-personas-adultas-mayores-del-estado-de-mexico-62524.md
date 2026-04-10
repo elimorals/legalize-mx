@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-las-personas-adultas-mayores-del-estado-de-mexico-62524"
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-06"
-last_updated: "2024-07-17"
+last_updated: "2026-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62524&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 17 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA DEL GOBIERNO: 10 DE ABRIL DE 2026.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el miércoles 6 de agosto de 2008.
 
@@ -362,6 +362,14 @@ e) A formar parte de los diversos órganos de representación y consulta ciudada
 VIII. De la denuncia popular:
 
 Toda persona, grupo social, organizaciones no gubernamentales, asociaciones o sociedades podrán denunciar ante los órganos competentes, todo hecho, acto u omisión que produzca o pueda producir daño o afectación a los derechos y garantías que establece la presente Ley, o que contravenga cualquier otra de sus disposiciones o de los demás ordenamientos que regulen materias relacionadas con las Personas Adultas Mayores.
+
+> <small>(ADICIONADA, G.G. 10 DE ABRIL DE 2026)</small>
+
+IX. Del acceso a los servicios y trámites públicos:
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN IX, G.G. 10 DE ABRIL DE 2026]</small>
+
+A recibir atención preferente, digna y expedita en todos los trámites, servicios y procedimientos que presten las dependencias y entidades de la administración pública estatal, los ayuntamientos y sus organismos auxiliares.
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN], G.G. 17 DE JULIO DE 2024)</small>
 
@@ -1816,3 +1824,19 @@ SEXTO.- El Ejecutivo del Estado expedirá la reglamentación necesaria en un pla
 SÉPTIMO.- Los sistemas DIF, estatal y municipales, deberán reformar su normatividad en un plazo no mayor a ciento ochenta días naturales, a partir de la entrada en vigor de este Decreto, para formalizar la creación de los grupos multidisciplinarios de atención a Personas Adultas Mayores.
 
 OCTAVO.- El Ejecutivo del Estado proveerá lo necesario para que las entidades de la administración pública estatal adecuen sus documentos administrativos desde una perspectiva gerontogeriátrica de servicio a las Personas Adultas Mayores.
+
+G.G. 10 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 293.- POR EL QUE SE ADICIONA LA FRACCIÓN IX AL ARTÍCULO 5 DE LA LEY DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE MÉXICO”.]
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTICULO SEGUNDO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO TERCERO.
+
+Las autoridades deberán establecer mecanismos visibles y accesibles que garanticen el ejercicio efectivo del derecho establecido en este Decreto, conforme a sus atribuciones, sin que ello implique erogaciones adicionales al presupuesto autorizado.
