@@ -4,7 +4,7 @@ identifier: "COA-ley-de-cultura-fisica-y-deporte-del-estado-de-coahuila-de-10162
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-17"
-last_updated: "2022-05-27"
+last_updated: "2026-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101621&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ABRIL DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el martes 17 de junio de 2014.
 
@@ -111,27 +111,41 @@ XIII. Disciplinas deportivas de tipo individual: ajedrez, atletismo, bádminton,
 
 XIV. Estado: El Estado de Coahuila de Zaragoza;
 
-XV. Gobernador: El Gobernador Constitucional del Estado de Coahuila de Zaragoza;
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2026)</small>
 
-XVI. Instituto: El Instituto Estatal del Deporte de Coahuila de Zaragoza;
+XV. Evento Deportivo: Cualquier encuentro entre deportistas afiliados a las asociaciones o sociedades deportivas, que se realice conforme a las normas establecidas por éstas y por los organismos rectores del deporte;
 
-XVII. Ley: la Ley de Cultura Física y Deporte del Estado de Coahuila de Zaragoza;
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2026)</small>
 
-XVIII. Municipios: Los municipios del Estado de Coahuila de Zaragoza;
+XVI. Evento Deportivo Masivo: Sin importar el número de personas que se encuentren reunidas, será cualquier evento deportivo abierto al público, que se realice en instalaciones deportivas, estadios, recintos o edificios deportivos, que tenga una capacidad de aforo igual o superior al resultado de multiplicar por cien el número mínimo de competidores que, conforme al reglamento o normatividad de la disciplina que corresponda, deba estar activo dentro de un área de competencia; o bien, aquél que se realice en lugares abiertos, cuando el número de competidores sea igual o mayor a doscientos;
 
-XIX. Plan Estatal del Deporte: El documento que incluye las acciones, programas y proyectos que tengan como fin promover las actividades deportivas y de cultura física en el Estado;
+> <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2026)</small>
+
+XVII. Evento Deportivo con fines de espectáculo: Cualquier evento deportivo en el que se condicione el acceso de los aficionados o espectadores al pago de una tarifa para presenciarlo;
+
+XVIII. Gobernador: El Gobernador Constitucional del Estado de Coahuila de Zaragoza;
+
+XIX. Instituto: El Instituto Estatal del Deporte de Coahuila de Zaragoza;
+
+XX. Ley: la Ley de Cultura Física y Deporte del Estado de Coahuila de Zaragoza;
+
+XXI. Municipios: Los municipios del Estado de Coahuila de Zaragoza;
+
+XXII. Plan Estatal del Deporte: El documento que incluye las acciones, programas y proyectos que tengan como fin promover las actividades deportivas y de cultura física en el Estado;
 
 > <small>(ADICIONADA, P.O. 31 DE ENERO DE 2020)</small>
 
-XX. Registro Municipal del Deporte: El registro que se integra por deportistas, las organizaciones que los agrupen en un Municipio e instalaciones públicas y privadas que se establezcan para realizar actividades físicas, deportivas y recreativas;
+XXIII. Registro Municipal del Deporte: El registro que se integra por deportistas, las organizaciones que los agrupen en un Municipio e instalaciones públicas y privadas que se establezcan para realizar actividades físicas, deportivas y recreativas;
 
-XXI. Recreación: El uso del tiempo de una manera planeada que tiene fines de disfrute físico, mental y terapéutico;
+XXIV. Recreación: El uso del tiempo de una manera planeada que tiene fines de disfrute físico, mental y terapéutico;
 
-XXII. Registro Estatal del Deporte: El registro que se integra por deportistas, las organizaciones que los agrupen en el Estado e instalaciones públicas y privadas que se establezcan para realizar actividades físicas, deportivas y recreativas;
+XXV. Registro Estatal del Deporte: El registro que se integra por deportistas, las organizaciones que los agrupen en el Estado e instalaciones públicas y privadas que se establezcan para realizar actividades físicas, deportivas y recreativas;
 
-XXIII. Secretaria: La Secretaría de Educación del Estado de Coahuila de Zaragoza, y
+> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2026)</small>
 
-XXIV. Sistema Estatal del Deporte: El sistema interinstitucional, conformado por las autoridades estatales y municipales en materia de deporte, así como por deportistas y organizaciones que los agrupan, que tiene por objeto planear, programar y realizar acciones en materia de cultura física y deporte.
+XXVI. Secretaría: La Secretaría de Educación del Estado de Coahuila de Zaragoza, y
+
+XXVII. Sistema Estatal del Deporte: El sistema interinstitucional, conformado por las autoridades estatales y municipales en materia de deporte, así como por deportistas y organizaciones que los agrupan, que tiene por objeto planear, programar y realizar acciones en materia de cultura física y deporte.
 
 ### CAPÍTULO II. AUTORIDADES Y DISTRIBUCIÓN DE COMPETENCIAS EN MATERIA DE CULTURA FÍSICA Y DEPORTE
 
@@ -561,6 +575,12 @@ La autoridad estatal y las municipales, definirán en los planes de desarrollo u
 
 Las instalaciones públicas a que se refiere este Capítulo serán destinadas exclusivamente a la práctica de actividades físicas, recreativas y deportivas. La autoridad estatal o municipal, según sea el caso, con el consenso de la comunidad y en especial de los usuarios, podrá autorizar en forma extraordinaria la realización de otras actividades que tengan un notorio beneficio social.
 
+> <small>(ADICIONADO, P.O. 10 DE ABRIL DE 2026)</small>
+
+ARTÍCULO 41 BIS.- Para la celebración de eventos deportivos masivos o con fines de espectáculo, las instalaciones en que pretendan realizarse, independientemente del origen de los fondos con que hayan sido construidas, deberán contar con el equipamiento de seguridad y protección civil que establezcan las leyes y demás ordenamientos aplicables.
+
+Las autoridades municipales, serán competentes para verificar el cumplimiento de la presente disposición.
+
 ###### ARTÍCULO 42.
 
 La autoridad deportiva estatal incluirá en el Registro Estatal de Deporte previsto en la fracción XX del artículo 5, a las instalaciones públicas y privadas en donde se practiquen actividades físicas, deportivas y recreativas y que sean registradas por los integrantes del Sistema Estatal; dichos registros, así como los lineamientos de uso y los horarios de apertura y cierre deberán publicarse en el sitio de internet del Instituto. Además, promoverá que las mismas cuenten con las condiciones técnicas idóneas.
@@ -954,3 +974,11 @@ P.O. 27 DE MAYO DE 2022.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 233.- SE REFORMA LA FRACCIÓN XVII Y SE ADICIONA LA FRACCIÓN XVIII, DEL ARTÍCULO 7, DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 460.- SE ADICIONA UN NUEVO CONTENIDO A LAS FRACCIONES XV, XVI, Y XVII, RECORRIENDO LAS SUBSECUENTES DEL ARTÍCULO 5; Y SE ADICIONA EL ARTÍCULO 41 BIS A LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
