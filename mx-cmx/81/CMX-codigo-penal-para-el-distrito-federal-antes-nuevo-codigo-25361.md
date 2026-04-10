@@ -4,7 +4,7 @@ identifier: "CMX-codigo-penal-para-el-distrito-federal-antes-nuevo-codigo-25361"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-07-16"
-last_updated: "2026-03-27"
+last_updated: "2026-04-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25361&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2002-07-11"
 
 CÓDIGO PENAL PARA EL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE ABRIL DE 2026.
 
 Código publicado en la Gaceta Oficial del Distrito Federal, el martes 16 de julio de 2002.
 
@@ -7318,7 +7318,7 @@ PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad
 
 SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial de la Ciudad de México.
 
-TERCERO.- Los procedimientos penales iniciados antes de la entrada en vigor del presente Decreto con base en los delitos previstos en los Títulos Quinto y Octavo del Libro Segundo del Código Penal para el Distrito Federal se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que les dieron origen. Lo mismo se observará respecto de la ejecución de las penas correspondientes.
+TERCERO.- (DEROGADO, G.O. 10 DE ABRIL DE 2026)
 
 CUARTO.- La Fiscalía General de Justicia de la Ciudad de México deberá armonizar sus protocolos de investigación y atención a víctimas, en un plazo no mayor a 120 días.
 
@@ -7369,3 +7369,11 @@ PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
 
 TERCERO.- Se derogan todas las disposiciones que contravengan el presente decreto.
+
+G.O. 10 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE DEROGA EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL, ASÍ COMO SE REFORMA LA LEY DE CULTURA CÍVICA DE LA CIUDAD DE MÉXICO, EN MATERIA DE GÉNERO Y ACCESO A UNA VIDA LIBRE DE VIOLENCIAS PARA LAS MUJERES, PUBLICADO EL 24 DE DICIEMBRE DE 2025 EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente Decreto entrará en vigor al siguiente día de su publicación en la Gaceta Oficial de la Ciudad de México.
