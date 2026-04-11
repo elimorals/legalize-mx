@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-justicia-administrativa-del-estado-de-tabasco-122656"
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-15"
-last_updated: "2017-07-15"
+last_updated: "2026-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2026.
 
 Ley publicada en el Suplemento B al Número 7811 del Periódico Oficial del Estado de Tabasco, el sábado 15 de julio de 2017.
 
@@ -1659,7 +1659,7 @@ XXVII. Conceder o negar licencias sin goce de sueldo hasta por dos meses, siempr
 
 XXVIII. Conceder o negar licencias, en los términos señalados en la fracción anterior al Secretario General de Acuerdos, a los Secretarios de Acuerdos, a los Secretarios de Estudio y Cuenta, al Coordinador de Defensores, a los Defensores de lo Administrativo y a los Actuarios;
 
-XXIX. Establecer, los términos, cuantía y condiciones del haber por retiro de los Magistrados, con sujeción a lo dispuesto en el reglamento respectivo;
+XXIX. (DEROGADA, P.O. 11 DE ABRIL DE 2026)
 
 XXX. Supervisar la correcta operación y funcionamiento de las oficialías de partes común y de las Salas, las oficinas de Actuarios, así como de los archivos y Secretarías de Acuerdos en las Salas del Tribunal, según sea el caso;
 
@@ -2128,3 +2128,15 @@ SECRETARIO DE GOBIERNO
 LIC. JUAN JOSÉ PERALTA FÓCIL
 
 COORDINADOR GENERAL DE ASUNTOS JURÍDICOS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 251 POR EL QUE "SE DEROGA LA FRACCIÓN XXIX DEL ARTÍCULO 171, DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas aquellas disposiciones jurídicas que sean contrarias a lo establecido al presente Decreto.
+
+TERCERO. En un plazo no mayor a noventa días hábiles contados a partir de la entrada en vigor del presente Decreto, deberán realizarse todas las adecuaciones normativas necesarias.
