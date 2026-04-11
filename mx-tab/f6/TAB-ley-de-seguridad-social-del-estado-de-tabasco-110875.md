@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-seguridad-social-del-estado-de-tabasco-110875"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2020-03-25"
+last_updated: "2026-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2026.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tabasco, el jueves 31 de diciembre de 2015.
 
@@ -75,9 +75,9 @@ VII. Los pensionados en los términos de esta Ley; y
 
 VIII. Los beneficiarios.
 
-(NOTA: EL 15 DE OCTUBRE DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 8/2016 Y SU ACUMULADA 9/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE FEBRERO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2026)</small>
 
-No serán sujetos de la aplicación de la presente Ley, los prestadores de servicios profesionales cuya contratación derive de un instrumento regulado por la legislación civil, NI LOS TRABAJADORES EVENTUALES. Estos últimos podrán acceder a los servicios médicos que otorga esta Ley a través de los convenios Institucionales que para tales efectos se suscriban.
+No serán sujetos de la aplicación de la presente Ley, los prestadores de servicios profesionales cuya contratación derive de un instrumento regulado por la legislación civil.
 
 ###### Artículo 3.
 
@@ -147,9 +147,9 @@ V. Los hijos o hijas solteros, mayores de dieciocho años, hasta la edad de vein
 
 VI. Los hijos o hijas mayores de dieciocho años, incapacitados física o mentalmente, previo dictamen médico expedido por el ISSET, que no puedan trabajar para obtener su subsistencia y que cohabiten el domicilio; y
 
-(NOTA: EL 15 DE OCTUBRE DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 8/2016 Y SU ACUMULADA 9/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN VII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE FEBRERO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2026)</small>
 
-VII. El padre y/o madre, previa acreditación de la dependencia económica total. PARA EL CASO DE LA PRESTACIÓN MÉDICA, EL ASEGURADO DEBERÁ CONVENIR CON EL ISSET, EL INCREMENTO DE LA CUOTA DE SU SUELDO BASE EN UN PORCENTAJE ADICIONAL, MISMO QUE SERÁ ESTABLECIDO EN EL REGLAMENTO DE LA LSSET.
+VII. El padre y/o madre, previa acreditación de la dependencia económica total.
 
 ###### Artículo 7.
 
@@ -309,9 +309,7 @@ X. Conceder al Director General licencia temporal, cuando ésta sea mayor a 15 d
 
 XI. Autorizar al Director General para que obtenga recursos como contraprestación de los servicios que otorgue a favor de terceros;
 
-(NOTA: EL 15 DE OCTUBRE DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 8/2016 Y SU ACUMULADA 9/2016, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN XII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE FEBRERO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-XII. AUTORIZAR QUE, EN SU CASO, LAS CUOTAS Y APORTACIONES SEAN DESTINADAS PARA PRESTACIONES DISTINTAS PARA LAS CUALES FUERON RECAUDADAS, A EXCEPCIÓN DEL RUBRO DE PENSIONES Y JUBILACIONES. EN NINGÚN CASO ESTAS ADECUACIONES PODRÁN SER DESTINADAS A SERVICIOS PERSONALES;
+XII. (DEROGADA, P.O. 11 DE ABRIL DE 2026)
 
 XIII. Resolver cualquier situación no prevista en la LSSET; y
 
@@ -387,9 +385,9 @@ III. Las cuotas de los asegurados al servicio de los Entes Públicos;
 
 IV. El importe de los créditos, intereses, rentas, plusvalías y demás utilidades que se obtengan de las inversiones y operaciones;
 
-(NOTA: EL 15 DE OCTUBRE DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 8/2016 Y SU ACUMULADA 9/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE FEBRERO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2026)</small>
 
-V. El importe de las indemnizaciones, PENSIONES CAÍDAS, descuentos o intereses que prescriban a favor del ISSET en los términos de la LSSET;
+V. El importe de las indemnizaciones, descuentos o intereses que prescriban a favor del ISSET en los términos de la LSSET;
 
 VI. El producto de las sanciones económicas que hayan sido aplicadas en los términos de este ordenamiento y de su Reglamento;
 
@@ -781,11 +779,9 @@ Los pensionados tendrán derecho al pago de una gratificación anual, cuyo monto
 
 El ISSET en cualquier momento podrá ordenar la verificación de los documentos y de los hechos que se hayan aportado y/o manifestado, y servido de base para conceder la pensión. Cuando se sospeche de falsedad, con audiencia del pensionado o beneficiario, se procederá a la revisión y, de comprobarse aquélla, de inmediato se notificará la suspensión provisional del pago y se denunciarán los hechos a las autoridades competentes para los efectos que procedan.
 
-(NOTA: EL 15 DE OCTUBRE DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 8/2016 Y SU ACUMULADA 9/2016, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 24 DE FEBRERO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
 ###### Artículo 76.
 
-Para que un asegurado, conforme a lo establecido por la LSSET trámite para sí una pensión, o pueda disfrutar de esta, previamente deberá liquidar todos los adeudos que tuviere con el ISSET, a excepción de los créditos hipotecarios que se encuentran garantizados con el objeto del gravamen.
+(DEROGADO, P.O. 11 DE ABRIL DE 2026)
 
 ###### Artículo 77.
 
@@ -1133,9 +1129,7 @@ En los convenios de incorporación, no podrá incluirse el reconocimiento de la 
 
 El derecho a las pensiones a las que se refiere la LSSET es imprescriptible y se hará efectiva a partir del momento en que el titular de ese derecho lo solicite, siempre y cuando cumpla con los requisitos establecidos.
 
-(NOTA: EL 15 DE OCTUBRE DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 8/2016 Y SU ACUMULADA 9/2016, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE FEBRERO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-DE CONFORMIDAD CON EL PÁRRAFO QUE ANTECEDE, EL ISSET NO HARÁ PAGOS RETROACTIVOS POR CONCEPTO DE PENSIONES.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 11 DE ABRIL DE 2026)</small>
 
 ###### Artículo 131.
 
@@ -1203,9 +1197,11 @@ a aumentar
 
 El primer incremento se aplicará a partir de la entrada en vigor de la LSSET y en lo subsecuente se comenzará a aplicar a partir del día 01 del mes de enero del año siguiente.
 
-(NOTA: EL 15 DE OCTUBRE DE 2024 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 8/2016 Y SU ACUMULADA 9/2016, DECLARÓ LA INVALIDEZ DEL ARTÍCULO TRANSITORIO OCTAVO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE FEBRERO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2026)</small>
 
-OCTAVO.- AQUELLOS ASEGURADOS QUE NO TENGAN DERECHO A PENSIÓN ALGUNA DE LAS AMPARADAS POR LA LEY ABROGADA, DEBERÁN DE APEGARSE A LAS NUEVAS DISPOSICIONES DE LA PRESENTE LEY.
+###### ARTÍCULO OCTAVO.
+
+A las personas aseguradas que, al momento de entrar en vigor el Decreto número 294, publicado en el Periódico Oficial Extraordinario número 121 con fecha 31 de diciembre de 2015, se encontraban cotizando en su vida laboral, pero no se ubicaban en los supuestos, ni cumplían con los requisitos para acceder a alguna de las pensiones previstas en el régimen obligatorio establecido en la Ley que se abrogó, se les reconocen los periodos de cotización anteriores, así como los demás derechos que por ley les corresponden. Dichos derechos, conforme al artículo Transitorio Sexto, párrafo primero, del citado Decreto, quedarán sujetos a las disposiciones de edad, tiempo de servicio, de cotización y a los demás requisitos señalados en la Ley expedida mediante el referido Decreto 294, cuyos datos de publicación han quedado citados.
 
 NOVENO.- A partir del día siguiente a la publicación de esta Ley en el Periódico Oficial del Gobierno del Estado, los asegurados del régimen de la ley abrogada que tengan derecho a pensión, tendrán seis meses para solicitar por escrito al ISSET su permanencia en el régimen o su transición al régimen establecido en esta Ley.
 
@@ -1372,3 +1368,13 @@ P.O. 25 DE MARZO DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 253POR EL QUE "SE REFORMAN EL SEGUNDO PÁRRAFO DEL ARTÍCULO 2; LA FRACCIÓN VII DEL ARTÍCULO 6; LA FRACCIÓN V DEL ARTÍCULO 30; Y SE DEROGAN LA FRACCIÓN XII DEL ARTÍCULO 23; EL ARTÍCULO 76 Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 130, TODOS DE LA LEY DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO".]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Quedan derogadas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO.- En su oportunidad, notifíquese al Ministro Presidente de la Suprema Corte de Justicia de la Nación, el cumplimiento a la sentencia dictada con fecha 15 de octubre de 2024, el Pleno de la Suprema Corte de Justicia de la Nación, al resolver la Acción de Inconstitucionalidad 8/2016 y su acumulada 9/2016, para su conocimiento y efectos legales a que haya lugar.
