@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-de-la-fiscalia-general-del-estado-de-tabasco-10506
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-13"
-last_updated: "2026-02-25"
+last_updated: "2026-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105066&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2026.
 
 Ley publicada en el Suplemento E del Periódico Oficial del Estado de Tabasco, el sábado 13 de diciembre de 2014.
 
@@ -589,6 +589,30 @@ Direcciones Administrativas
 
 Las Direcciones Administrativas de la Fiscalía General se encargarán de atender y desahogar los asuntos de orden administrativo relacionados con los recursos humanos, financieros y materiales; así como del cumplimiento de las normas relativas a las adquisiciones, arrendamientos y prestación de servicios; y de obras públicas; transparencia y acceso a la información pública, comunicación social y representación legal de la Fiscalía General, entre otras.
 
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2026)</small>
+
+ARTÍCULO 19 A. El Centro de Justicia para las Mujeres en el Estado de Tabasco.
+
+El Centro de Justicia para las Mujeres en el Estado de Tabasco es la unidad administrativa de la Fiscalía General del Estado encargada de brindar atención integral, especializada, multidisciplinaria e interinstitucional a mujeres víctimas de violencias, así como a sus hijas e hijos, con el objeto de garantizar el acceso a la justicia, la protección de sus derechos humanos y su empoderamiento.
+
+La organización, estructura, funcionamiento y mecanismos de coordinación interinstitucional del Centro de Justicia para las Mujeres en el Estado de Tabasco se establecerán en el Reglamento Interior de la Fiscalía General del Estado y demás instrumentos jurídicos y administrativos correspondientes.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2026)</small>
+
+ARTÍCULO 19 B. El Centro de Justicia para las Mujeres en el Estado de Tabasco tendrá las atribuciones generales siguientes:
+
+I. Brindar atención integral a mujeres víctimas de violencias, mediante servicios interinstitucionales jurídicos, psicológicos, médicos y de trabajo social;
+
+II. Facilitar el acceso a la procuración de justicia mediante la coordinación con las unidades administrativas de la Fiscalía General;
+
+III. Coordinar acciones con dependencias y entidades de los tres órdenes de gobierno, así como con instituciones públicas, privadas y organizaciones de la sociedad civil, para la atención, protección y empoderamiento de las mujeres;
+
+IV. Implementar mecanismos de atención con perspectiva de género, enfoque de derechos humanos y debida diligencia, orientados a evitar la revictimización;
+
+V. Promover acciones de coordinación interinstitucional para la prevención, atención y erradicación de la violencia contra las mujeres; y
+
+VI. Las demás que establezcan la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias y otras disposiciones jurídicas aplicables.
+
 ###### ARTÍCULO 20.
 
 Escuela de la Fiscalía
@@ -1128,3 +1152,23 @@ SEXTO. Las autoridades a las que se refiere el presente Decreto, en el ámbito d
 SÉPTIMO. Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto aprobado de los sujetos obligados por este instrumento, por lo que no incrementarán su presupuesto y no se autorizarán recursos adicionales para el ejercicio fiscal respectivo.
 
 OCTAVO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 11 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 252 POR EL QUE "SE ADICIONAN LOS ARTÍCULOS 19 A Y 19 B, DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se abroga el Acuerdo mediante el cual se creó el Centro de Justicia, Empoderamiento e Igualdad para las Mujeres en el Estado de Tabasco, así como todas aquellas disposiciones administrativas que se opongan a lo previsto en el presente Decreto.
+
+TERCERO. Dentro de los 90 días naturales siguientes, contados a partir de la entrada en vigor del presente Decreto, la Secretaría de Gobierno del Estado de Tabasco y la Secretaría de Administración y Finanzas del Estado de Tabasco deberán transferir a la Fiscalía General del Estado, los recursos financieros estatales, humanos y materiales del entonces Centro de Justicia, Empoderamiento e Igualdad para las Mujeres en el Estado de Tabasco, de conformidad con las disposiciones legales y administrativas aplicables.
+
+CUARTO. La Secretaría de Gobierno del Estado de Tabasco deberá transferir a la Fiscalía General del Estado de Tabasco, los recursos financieros federales asignados mediante el Convenio de Coordinación y Adhesión para el ejercicio 2026, celebrado con el Gobierno Federal para la operación del Centro de Justicia, Empoderamiento e Igualdad para las Mujeres en el Estado de Tabasco, de conformidad con las disposiciones jurídicas y presupuestarias aplicables.
+
+QUINTO. A partir de la entrada en vigor del presente Decreto, el Gobierno del Estado de Tabasco concederá a la Fiscalía General del Estado de Tabasco, la ocupación y el uso del inmueble para la operación y administración del Centro de Justicia para las Mujeres en el Estado de Tabasco.
+
+SEXTO. Hasta en tanto la Fiscalía General del Estado de Tabasco, suscriba los convenios de colaboración interinstitucionales correspondientes con las Dependencias, Órganos y Organismos de la Administración Pública Estatal, así como con las Instituciones y/o Entes Públicos que actualmente participan en la operación del Centro de Justicia, Empoderamiento e Igualdad para las Mujeres en el Estado de Tabasco, estos continuarán coadyuvando con los recursos humanos, materiales y tecnológicos destinados para ello.
+
+SÉPTIMO. El Poder Ejecutivo del Estado de Tabasco, dentro de un plazo no mayor de 90 días hábiles, contados a partir de la entrada en vigor del presente Decreto, deberá realizar las modificaciones correspondientes al marco jurídico que resulte aplicable.
+
+OCTAVO. Concluido el plazo previsto en el artículo Tercero Transitorio de este Decreto, la Fiscalía General del Estado de Tabasco, dentro de los 90 días hábiles siguientes, deberá realizar las adecuaciones presupuestarias, administrativas y reglamentarias necesarias, para el cumplimiento del presente Decreto.
