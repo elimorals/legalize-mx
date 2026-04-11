@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-16821
 country: "mx"
 rank: "ley"
 publication_date: "2023-10-07"
-last_updated: "2025-10-25"
+last_updated: "2026-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2026.
 
 Ley publicada en la Décima Cuarta Sección del Número 40 del Periódico Oficial del Estado de Oaxaca, el sábado 7 de octubre de 2023.
 
@@ -651,9 +651,37 @@ La Secretaría de Salud del Estado implementará políticas públicas que preven
 
 Para el cumplimiento de lo dispuesto en el párrafo anterior, el Estado deberá contar con centros de atención para la salud mental; contra las adicciones y para la atención psicoemocional de niñas, niños y adolescentes.
 
-### CAPÍTULO XII. DEL DERECHO A LA INCLUSIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES CON DISCAPACIDAD
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE ABRIL DE 2026)</small>
 
-### CAPÍTULO XIII. DEL DERECHO A LA EDUCACIÓN
+### CAPÍTULO XI BIS. DEL DERECHO A LA PROTECCIÓN DE LA SALUD FRENTE A PROCEDIMIENTOS MÉDICOS QUIRÚRGICOS ESTÉTICOS
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2026)</small>
+
+###### Artículo 46 Bis.
+
+Queda prohibida la realización de procedimientos médicos o quirúrgicos con fines exclusivamente estéticos o cosméticos en niñas, niños y adolescentes. Se exceptúan únicamente los procedimientos reconstructivos, funcionales o terapéuticos indispensables para la salud física o emocional de niñas, niños y adolescentes, siempre que:
+
+I. Exista diagnóstico médico especializado que justifique la intervención; y
+
+II. Se cuente con dictamen interdisciplinario emitido por profesionales en pediatría, cirugía plástica reconstructiva y psicología o psiquiatría infantil, según corresponda.
+
+Tratándose de los procedimientos permitidos en el presente artículo, deberá contarse con el consentimiento de quienes ejerzan la patria potestad, tutela o guarda y custodia. En caso de controversia entre dichas personas respecto de la procedencia de la intervención, será necesaria la autorización previa de la autoridad judicial competente, quien deberá resolver conforme al principio del interés superior de la niñez.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2026)</small>
+
+###### Artículo 46 Ter.
+
+Todo procedimiento autorizado conforme al artículo anterior deberá ser practicado exclusivamente por profesionales que cuenten con cédula de especialidad en cirugía plástica, estética y reconstructiva, en establecimientos debidamente registrados ante la autoridad sanitaria competente.
+
+La determinación de cualquier responsabilidad jurídica derivada de la realización de procedimientos en contravención a lo dispuesto en el presente Capítulo corresponderá a la autoridad competente, conforme a las disposiciones legales aplicables y con pleno respeto al derecho de audiencia y al debido proceso.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2026)</small>
+
+###### Artículo 46 Quáter.
+
+Se prohíbe la publicidad dirigida específicamente a niñas, niña y adolescente que promueva procedimientos médicos o quirúrgicos con fines exclusivamente estéticos o cosméticos.
+
+### CAPÍTULO XII. DEL DERECHO A LA INCLUSIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES CON DISCAPACIDAD
 
 ###### Artículo 47.
 
@@ -709,7 +737,7 @@ Las vías públicas deberán ser provistas de señales preventivas para informac
 
 Las edificaciones públicas o abiertas al público, deberán contar con accesibilidad y diseño universal para niñas, niños y adolescentes con discapacidades físicas. La autoridad competente no otorgará licencias de construcción, si en los planos de una obra no se cumple con lo estipulado en este artículo.
 
-### CAPÍTULO XIV. DEL DERECHO AL DESCANSO Y AL ESPARCIMIENTO
+### CAPÍTULO XIII. DEL DERECHO A LA EDUCACIÓN
 
 ###### Artículo 54.
 
@@ -743,7 +771,7 @@ La expulsión como sanción, sólo se impondrá por las causas expresamente esta
 
 La emisión o entrega de la documentación probatoria de los estudios respectivos no será condicionada por imposiciones, servicios o contribuciones.
 
-### CAPÍTULO XV. DEL DERECHO A LA LIBERTAD DE CONVICCIONES ÉTICAS, PENSAMIENTO, CONCIENCIA, RELIGIÓN Y CULTURA
+### CAPÍTULO XIV. DEL DERECHO AL DESCANSO Y AL ESPARCIMIENTO
 
 ###### Artículo 56.
 
@@ -757,7 +785,7 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 El Estado y los municipios implementarán campañas permanentes dirigidas a disuadir la utilización de juguetes bélicos y de juegos violentos y deben asegurar que existan los espacios de recreación comunitarios suficientes; así mismo, supervisarán la prohibición de entrada a personas menores de edad a eventos o espectáculos con contenidos violentos o que hagan apología del delito.
 
-### CAPÍTULO XVI. DEL DERECHO A LA LIBERTAD DE EXPRESIÓN Y DE ACCESO A LA INFORMACIÓN
+### CAPÍTULO XV. DEL DERECHO A LA LIBERTAD DE CONVICCIONES ÉTICAS, PENSAMIENTO, CONCIENCIA, RELIGIÓN Y CULTURA
 
 ###### Artículo 58.
 
@@ -775,7 +803,7 @@ Las autoridades, en el ámbito de sus respectivas competencias, aprovecharán su
 
 Lo dispuesto en este artículo no será limitativo del ejercicio del derecho a la educación, según lo dispuesto en el artículo 3o. de la Constitución Federal, ni de los principios rectores de esta Ley.
 
-### CAPÍTULO XVII. DEL DERECHO A LA PARTICIPACIÓN
+### CAPÍTULO XVI. DEL DERECHO A LA LIBERTAD DE EXPRESIÓN Y DE ACCESO A LA INFORMACIÓN
 
 ###### Artículo 60.
 
@@ -801,7 +829,7 @@ Asimismo, las Procuradurías de Protección estarán facultadas para promover ac
 
 Lo anterior, sin perjuicio de cualquier otra responsabilidad a la que hubiere lugar de conformidad con las disposiciones aplicables.
 
-### CAPÍTULO XVIII. DEL DERECHO DE ASOCIACIÓN Y REUNIÓN
+### CAPÍTULO XVII. DEL DERECHO A LA PARTICIPACIÓN
 
 ###### Artículo 63.
 
@@ -841,7 +869,7 @@ Las autoridades estatales y municipales, respetarán y promoverán el derecho de
 
 Asimismo, formularán las instancias de participación conjunta de padres, organizaciones sociales, instituciones públicas e iniciativa privada para la formulación y ejecución de programas y planes de promoción cultural que incluyan la creación o distribución de espacios, así como el acceso a espectáculos y diferentes manifestaciones culturales y artísticas.
 
-### CAPÍTULO XIX. DEL DERECHO A LA INTIMIDAD
+### CAPÍTULO XVIII. DEL DERECHO DE ASOCIACIÓN Y REUNIÓN
 
 ###### Artículo 67.
 
@@ -849,7 +877,7 @@ Niñas, niños y adolescentes tienen derecho a asociarse y reunirse, sin más li
 
 Quienes ejerzan la patria potestad, tutela o guarda y custodia representarán a niñas, niños y adolescentes para el ejercicio del derecho de asociación, cuando ello sea necesario para satisfacer las formalidades que establezcan las disposiciones aplicables.
 
-### CAPÍTULO XX. DEL DERECHO A LA SEGURIDAD JURÍDICA Y AL DEBIDO PROCESO
+### CAPÍTULO XIX. DEL DERECHO A LA INTIMIDAD
 
 ###### Artículo 68.
 
@@ -897,7 +925,7 @@ En los procedimientos ante órganos jurisdiccionales, se podrá solicitar ante l
 
 El órgano jurisdiccional competente, con base en este artículo y en las disposiciones aplicables, podrá requerir a las empresas de prestación de servicios en materia de medios electrónicos que realicen las acciones necesarias para el cumplimiento de las medidas cautelares que ordene.
 
-### CAPÍTULO XXI. DEL DERECHO DE ACCESO A LAS TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN
+### CAPÍTULO XX. DEL DERECHO A LA SEGURIDAD JURÍDICA Y AL DEBIDO PROCESO
 
 ###### Artículo 74.
 
@@ -975,7 +1003,7 @@ La legislación en materia de justicia integral para adolescentes en conflicto c
 
 La legislación a la que se refiere el párrafo anterior deberá garantizar los derechos fundamentales que reconoce la Constitución Federal para todo individuo, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos.
 
-### CAPÍTULO XXII. DEL DERECHO A UNA VIDA LIBRE DE TRABAJO INFANTIL
+### CAPÍTULO XXI. DEL DERECHO DE ACCESO A LAS TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN
 
 ###### Artículo 80.
 
@@ -989,7 +1017,7 @@ El Estado garantizará a niñas, niños y adolescentes el acceso a la informaci�
 
 Niñas, niños y adolescentes tienen derecho al acceso y uso seguro del internet como medio efectivo para ejercer los derechos a la información, comunicación, educación, salud, esparcimiento, no discriminación, entre otros, de conformidad con el principio de interdependencia, en términos de las disposiciones aplicables.
 
-### CAPÍTULO XXIII. DEL DERECHO A UNA CRIANZA POSITIVA
+### CAPÍTULO XXII. DEL DERECHO A UNA VIDA LIBRE DE TRABAJO INFANTIL
 
 ###### Artículo 83.
 
@@ -1007,7 +1035,7 @@ Niñas, niños y adolescentes deben vivir libres de trabajo infantil, por lo que
 
 Queda prohibida cualquier forma de trabajo en personas menores de quince años de edad, así como el de personas mayores de esta edad y menores de dieciocho años de edad que contravenga lo dispuesto en la Constitución Federal, la Ley Federal del Trabajo y demás normatividad aplicable en la materia.
 
-### CAPÍTULO XXIV. DEL DERECHO A LA LACTANCIA MATERNA
+### CAPÍTULO XXIII. DEL DERECHO A UNA CRIANZA POSITIVA
 
 ###### Artículo 86.
 
@@ -1021,7 +1049,7 @@ El derecho a una crianza positiva implica la prohibición expresa de cualquier m
 
 Las autoridades estatales y municipales en el ámbito de sus respectivas competencias implementarán mecanismos que garanticen la difusión, concientización y colaboración de quienes ejercen la tutela, guarda, custodia o tengan contacto con niñas, niños y adolescentes en materia de crianza positiva.
 
-### CAPÍTULO ÚNICO. DE QUIENES EJERCEN LA PATRIA POTESTAD, TUTELA O GUARDA Y CUSTODIA DE NIÑAS, NIÑOS Y ADOLESCENTES
+### CAPÍTULO XXIV. DEL DERECHO A LA LACTANCIA MATERNA
 
 ###### Artículo 89.
 
@@ -1033,7 +1061,7 @@ El Estado, los municipios, los sectores públicos, privados y sociales tienen la
 
 ## TÍTULO TERCERO. DE LAS OBLIGACIONES
 
-### CAPÍTULO ÚNICO. DE LOS CENTROS DE ASISTENCIA SOCIAL
+### CAPÍTULO ÚNICO. DE QUIENES EJERCEN LA PATRIA POTESTAD, TUTELA O GUARDA Y CUSTODIA DE NIÑAS, NIÑOS Y ADOLESCENTES
 
 ###### Artículo 91.
 
@@ -1073,7 +1101,7 @@ No podrá declararse la caducidad ni la prescripción en perjuicio de niñas, ni
 
 ## TÍTULO CUARTO. DE LA PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-### CAPÍTULO I. DE LAS AUTORIDADES
+### CAPÍTULO ÚNICO. DE LOS CENTROS DE ASISTENCIA SOCIAL
 
 ###### Artículo 97.
 
@@ -1209,7 +1237,7 @@ La Procuraduría Estatal de Protección será coadyuvante de la Procuraduría de
 
 ## TÍTULO QUINTO. DE LAS AUTORIDADES PARA LA PROTECCIÓN Y RESTITUCIÓN INTEGRAL DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-### CAPÍTULO II. DEL PROGRAMA LOCAL Y MUNICIPAL
+### CAPÍTULO I. DE LAS AUTORIDADES
 
 ###### Artículo 106.
 
@@ -1597,7 +1625,7 @@ X. Situación de la infraestructura para la atención de niñas, niños y adoles
 
 La Defensoría de los Derechos Humanos del Pueblo de Oaxaca en el ámbito de sus competencias, a través de su área especializada dará seguimiento a la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes, privilegiando siempre el interés superior de la niñez.
 
-### CAPÍTULO III. DE LA EVALUACIÓN Y DIAGNÓSTICO
+### CAPÍTULO II. DEL PROGRAMA LOCAL Y MUNICIPAL
 
 ###### Artículo 126.
 
@@ -1605,7 +1633,7 @@ Las autoridades estatales y municipales en el ámbito de sus respectivas compete
 
 Deberán Incluir mecanismos transparentes que permitan su evaluación y seguimiento, así como de participación ciudadana mismos que serán publicados en el Periódico Oficial del Gobierno del Estado.
 
-### CAPÍTULO IV. DEL REGISTRO ESTATAL DE NIÑAS, NIÑOS Y ADOLESCENTES EN ESTADO DE ORFANDAD A CONSECUENCIA DEL DELITO DE HOMICIDIO O FEMINICIDIO
+### CAPÍTULO III. DE LA EVALUACIÓN Y DIAGNÓSTICO
 
 ###### Artículo 127.
 
@@ -1623,7 +1651,7 @@ De acuerdo con los resultados de las evaluaciones, el Consejo Consultivo emitir�
 
 Los resultados de las evaluaciones serán entregados a la Comisión Permanente de Grupos en Situación de Vulnerabilidad del H. Congreso del Estado.
 
-### CAPÍTULO V. DEL REGISTRO ESTATAL DE AGRESORES SEXUALES DE NIÑAS, NIÑOS Y ADOLESCENTES
+### CAPÍTULO IV. DEL REGISTRO ESTATAL DE NIÑAS, NIÑOS Y ADOLESCENTES EN ESTADO DE ORFANDAD A CONSECUENCIA DEL DELITO DE HOMICIDIO O FEMINICIDIO
 
 ###### Artículo 131.
 
@@ -1667,7 +1695,7 @@ El Sistema Local de Protección y la Comisión Ejecutiva Estatal de Atención In
 
 La información contenida en el Registro Estatal de Orfandad será confidencial en lo relativo a la protección de datos personales y sólo podrá ser pública en lo que se refiere a datos de carácter estadístico, para fines de medición y evaluación.
 
-### CAPÍTULO VI. DEL REGISTRO DE OBLIGACIONES ALIMENTARIAS
+### CAPÍTULO V. DEL REGISTRO ESTATAL DE AGRESORES SEXUALES DE NIÑAS, NIÑOS Y ADOLESCENTES
 
 ###### Artículo 137.
 
@@ -1705,7 +1733,7 @@ El Tribunal Superior de Justicia del Estado de Oaxaca proporcionará la informac
 
 La Procuraduría Estatal de Protección no podrá hacer públicos o mal uso de los datos de las víctimas y de los agresores, excepto que le sean solicitados los datos por las autoridades competentes, la persona servidora pública que infrinja esta disposición será sancionada de conformidad con las leyes administrativas y en su caso las de índole penal.
 
-### CAPÍTULO I. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
+### CAPÍTULO VI. DEL REGISTRO DE OBLIGACIONES ALIMENTARIAS
 
 ###### Artículo 141.
 
@@ -1731,7 +1759,7 @@ V. En las solicitudes de matrimonio, el Oficial del Registro Civil hará del con
 
 ## TÍTULO SEXTO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS, DE LAS SANCIONES Y RECURSOS
 
-### CAPÍTULO II. DE LAS SANCIONES
+### CAPÍTULO I. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
 
 ###### Artículo 144.
 
@@ -1787,7 +1815,7 @@ V. La oposición en la verificación o revisión de inmuebles o documentos relac
 
 VI. Oponerse a las visitas médicas, psicológicas y psiquiátricas de niñas, niños y adolescentes, por parte de las autoridades competentes.
 
-### CAPÍTULO III. DEL RECURSO ADMINISTRATIVO
+### CAPÍTULO II. DE LAS SANCIONES
 
 ###### Artículo 148.
 
@@ -1818,6 +1846,8 @@ V. La reincidencia del infractor.
 ###### Artículo 150.
 
 Las sanciones previstas en esta Ley se aplicarán por la dependencia o entidad de la Administración Pública Estatal que resulte competente.
+
+### CAPÍTULO III. DEL RECURSO ADMINISTRATIVO
 
 ###### Artículo 151.
 
@@ -1860,3 +1890,11 @@ PRIMERO. Publíquese en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 11 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1474.- MEDIANTE EL CUAL SE ADICIONA EL CAPÍTULO XI BIS A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
