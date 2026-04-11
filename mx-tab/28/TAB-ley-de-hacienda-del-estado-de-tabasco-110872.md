@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-hacienda-del-estado-de-tabasco-110872"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-30"
-last_updated: "2025-12-24"
+last_updated: "2026-04-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110872&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY DE HACIENDA DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2026.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 30 de diciembre de 2015.
 
@@ -1141,27 +1141,91 @@ III. Expedir comprobante por cada una de las operaciones, sin que el impuesto es
 
 Los ayuntamientos tendrán la obligación de proporcionar a la Secretaría, de forma trimestral la información con la que cuenten sobre los establecimientos que realicen actividades relacionadas con este impuesto, a fin de mantener actualizado el padrón correspondiente y ejercer las facultades con que cuenta la autoridad fiscal.
 
-### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE ABRIL DE 2026)</small>
 
-#### SECCIÓN PRIMERA. PRESTACIÓN DE SERVICIOS
+### CAPÍTULO OCTAVO. DE LOS IMPUESTOS AMBIENTALES
 
-#### SECCIÓN SEGUNDA. CERTIFICADOS, CONSTANCIAS Y COPIAS CERTIFICADAS; LEGALIZACIÓN DE FIRMAS Y BUSQUEDA DE DOCUMENTOS
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 11 DE ABRIL DE 2026)</small>
 
-#### SECCIÓN PRIMERA. SERVICIOS LEGALES
+#### SECCIÓN PRIMERA. DEL IMPUESTO POR EXTRACCIÓN DE MATERIALES PÉTREOS
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2026)</small>
 
-#### SECCIÓN SEGUNDA. REGISTRO CIVIL
+###### Artículo 62 Nonies.
+
+Para efectos de este capítulo, se entenderá por materiales pétreos aquellos de naturaleza no metálica, resultado de la desintegración, compactación o cementación de rocas sedimentarias y depósitos fluviales o lacustres, susceptibles de aprovechamiento para construcción, relleno, ornamento o usos afines, no reservados a la Federación.
+
+Para la interpretación y aplicación del presente capítulo, serán aplicables de manera supletoria la Ley de Protección Ambiental del Estado de Tabasco, la Ley de Cambio Climático y Sustentabilidad del Estado de Tabasco y demás disposiciones aplicables.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 11 DE ABRIL DE 2026)</small>
+
+#### SECCIÓN SEGUNDA. DEL OBJETO Y DE LOS SUJETOS
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2026)</small>
+
+###### Artículo 62 Decies.
+
+Es objeto de este impuesto la extracción del suelo y subsuelo de materiales pétreos de competencia estatal, de igual naturaleza a los componentes del terreno, incluyendo arena, grava, arcilla, caliza y otros agregados pétreos de origen sedimentario o aluvial en el territorio del Estado de Tabasco.
+
+No serán objeto de este impuesto los minerales o sustancias comprendidos en los párrafos cuarto y quinto del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, ni aquellos a que se refiere el artículo 4 de la Ley de Minería.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2026)</small>
+
+Artículo 62 Undecies. Son sujetos de este impuesto las personas físicas o jurídicas colectivas que, en el territorio del Estado de Tabasco e independientemente de su domicilio fiscal, realicen extracción de materiales pétreos del suelo y subsuelo, de competencia estatal, sin importar si el destino del material es para uso propio o para su comercialización.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 11 DE ABRIL DE 2026)</small>
+
+#### SECCIÓN TERCERA. DE LA BASE, CUOTAS Y PAGO
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2026)</small>
+
+Artículo 62 Duodecies. La base del impuesto se calculará considerando el número de metros cúbicos (m3) extraídos que declara el propio contribuyente en bitácoras, reportes, pesajes convertidos a volumen o controles topográficos, o que determinen las autoridades fiscales.
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2026)</small>
+
+Artículo 62 Terdecies. El impuesto se causará por cada metro cúbico (m3) de material extraído, aplicando cuotas en UMA por tipo de material, conforme a lo siguiente:
+
+I. Arena: 0.15 UMA/m3
+
+II. Grava: 0.20 UMA/m3
+
+III. Arcillas: 0.12 UMA/m3
+
+IV. Caliza: 0.20 UMA/m3
+
+V. Otros: 0.16 UMA/m3
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2026)</small>
+
+Artículo 62 Quaterdecies. El pago de este impuesto deberá efectuarse mediante declaración mensual, que los contribuyentes presentarán ante la Secretaría, a más tardar el día 20 del mes inmediato siguiente a aquel en que se haya realizado la extracción de materiales pétreos del suelo o subsuelo, considerándose dicho pago como definitivo por el periodo correspondiente.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRAN, P.O. 11 DE ABRIL DE 2026)</small>
+
+#### SECCIÓN CUARTA. DE LAS OBLIGACIONES
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2026)</small>
+
+Artículo 62 Quindecies. Además de las obligaciones previstas en el Código Fiscal del Estado, los contribuyentes deberán:
+
+I. Inscribirse dentro de los treinta días siguientes a aquél en que inicien sus actividades, utilizando al efecto, las formas oficiales aprobadas por la Secretaría, con los datos que las mismas exijan, en los términos y condiciones establecidos en el artículo 29 del Código Fiscal del Estado de Tabasco;
+
+II. Presentar en la Receptoría de Rentas que corresponda a su domicilio fiscal, en los términos y condiciones establecidos en el artículo 29 del Código Fiscal del Estado de Tabasco, dentro del plazo señalado en la fracción anterior, los avisos de cambio de nombre o razón social, domicilio, actividad, suspensión de actividades o cierre de establecimiento y en general, cualquier aviso relacionado con su Registro Estatal de Contribuyentes;
+
+III. Presentar los avisos, declaraciones, documentos, datos e información que le soliciten las autoridades fiscales y ambientales en relación a este impuesto, dentro de los plazos señalados al efecto;
+
+IV. Llevar los libros o registros de extracción diarios con volumen en m3 , tipo de material pétreo y destino, así como expedir la documentación comprobatoria de sus ingresos, que en forma general señala la Secretaría y que podrán ser las mismas que establezcan las disposiciones fiscales federales correspondientes;
+
+V. Facilitar verificaciones y aportar información que permita comprobar el volumen de extracción reportado;
+
+VI. Registrar el domicilio fiscal del lugar de origen de las actividades de extracción cuando tengan domicilio fiscal en otra entidad federativa, pero extraigan materiales pétreos en Tabasco; y
+
+VII. Las demás que establezcan esta Ley y demás ordenamientos aplicables.
 
 ## TÍTULO TERCERO. DERECHOS
 
-### CAPÍTULO SEGUNDO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE GOBIERNO Y SUS ÓRGANOS DESCONCENTRADOS
+### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES GENERALES
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2019)</small>
-
-#### SECCIÓN TERCERA. SERVICIOS NOTARIALES
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+#### SECCIÓN PRIMERA. PRESTACIÓN DE SERVICIOS
 
 ###### Artículo 63.
 
@@ -1181,9 +1245,7 @@ Los Poderes del Estado, sus Dependencias, Órganos Administrativos Desconcentrad
 
 El recibo oficial de pago para efectuar los diversos trámites que contempla la presente Ley, tendrá una vigencia de un año a partir de su expedición.
 
-#### SECCIÓN CUARTA. REGISTRO PÚBLICO DE LA PROPIEDAD Y EL COMERCIO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+#### SECCIÓN SEGUNDA. CERTIFICADOS, CONSTANCIAS Y COPIAS CERTIFICADAS; LEGALIZACIÓN DE FIRMAS Y BUSQUEDA DE DOCUMENTOS
 
 ###### Artículo 67.
 
@@ -1317,13 +1379,13 @@ El establecimiento de estos costos no contraviene las facultades que la Ley de T
 
 Las mismas cuotas y tarifas serán aplicables por la expedición de los documentos físicos o que en medio magnético u óptico realicen los poderes Legislativo y Judicial, así como los órganos autónomos y que le sean solicitados en materia de acceso a la información pública. La entrega de la información pública bajo las modalidades de correo electrónico, consulta física o verbal, en ningún caso generará pago alguno.
 
-### CAPÍTULO TERCERO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA Y SUS ÓRGANOS DESCONCENTRADOS
+### CAPÍTULO SEGUNDO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE GOBIERNO Y SUS ÓRGANOS DESCONCENTRADOS
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN PRIMERA. SEGURIDAD PRIVADA
+#### SECCIÓN PRIMERA. SERVICIOS LEGALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 71.
 
@@ -1353,9 +1415,7 @@ de autoridad educativa. 4.0 UMA
 
 La Secretaría podrá exentar o en su caso reducir el pago del derecho establecido en la fracción II del presente artículo, a solicitud de la dependencia o entidad que preste el servicio de que se trate con motivo de programas colectivos y específicos de beneficio social que emprenda el Gobierno del Estado.
 
-#### SECCIÓN SEGUNDA. DIRECCIÓN GENERAL DE LA POLICÍA ESTATAL DE CAMINOS
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+#### SECCIÓN SEGUNDA. REGISTRO CIVIL
 
 ###### Artículo 72.
 
@@ -1449,9 +1509,9 @@ La Secretaría podrá exentar o en su caso reducir el pago del derecho estableci
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-#### SECCIÓN TERCERA. POLICIA AUXILIAR Y LA BANCARIA, INDUSTRIAL Y COMERCIAL
+#### SECCIÓN TERCERA. SERVICIOS NOTARIALES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 73.
 
@@ -1483,9 +1543,9 @@ sobre el ejercicio notarial. 50.0 UMA
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-#### SECCIÓN PRIMERA. CATASTRO
+#### SECCIÓN CUARTA. REGISTRO PÚBLICO DE LA PROPIEDAD Y EL COMERCIO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 73-A.
 
@@ -2133,13 +2193,13 @@ Por cada escritura o documento hecho o elaborado en otras Entidades Federativas 
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO CUARTO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS
+### CAPÍTULO TERCERO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA Y SUS ÓRGANOS DESCONCENTRADOS
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-#### SECCIÓN SEGUNDA. VENTA, DISTRIBUCIÓN, TRANSPORTACIÓN Y CONSUMO DE BEBIDAS ALCOHÓLICAS
+#### SECCIÓN PRIMERA. SEGURIDAD PRIVADA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 74.
 
@@ -2241,7 +2301,9 @@ seguridad (Por cada canino). 2.0 UMA
 
 Las inscripciones al Registro de los Servicios de Seguridad Privada y de Personal a que se refiere este artículo, se cobrarán sólo la primera vez que sean asentadas.
 
-#### SECCIÓN TERCERA. REGULACIÓN DE CASAS DE EMPEÑO
+#### SECCIÓN SEGUNDA. DIRECCIÓN GENERAL DE LA POLICÍA ESTATAL DE CAMINOS
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 75.
 
@@ -2373,9 +2435,9 @@ VI. Tráiler. 23.0 UMA
 
 VII. Semirremolque. 46.0 UMA
 
-#### SECCIÓN CUARTA. REGISTRO ESTATAL DE VEHÍCULOS
+#### SECCIÓN TERCERA. POLICIA AUXILIAR Y LA BANCARIA, INDUSTRIAL Y COMERCIAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 77.
 
@@ -2713,11 +2775,11 @@ j) Firma del solicitante del servicio.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-### CAPÍTULO QUINTO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE ADMINISTRACIÓN E INNOVACIÓN GUBERNAMENTAL
+### CAPÍTULO CUARTO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE ADMINISTRACIÓN Y FINANZAS
 
-> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN QUINTA. CUMPLIMIENTO DE OBLIGACIONES FISCALES
+#### SECCIÓN PRIMERA. CATASTRO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
@@ -2777,13 +2839,13 @@ IX. Por trámites efectuados vía Sistema Catastral y Registral del Estado de Ta
 
 a) Consulta de información documental almacenada en disco compacto, por documento. 1.0 UMA
 
-> <small>(REFORMADA P.O. 21 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2026)</small>
 
-X. Constancia de no propiedad. 3.0 UMA
+X. Constancia certificada de no propiedad. 3.0 UMA
 
-> <small>(REFORMADA P.O. 21 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2026)</small>
 
-XI. Constancia de propiedad por predio. 5.0 UMA
+XI. Constancia certificada de propiedad por predio. 5.0 UMA
 
 > <small>(REFORMADA P.O. 21 DE DICIEMBRE DE 2021)</small>
 
@@ -2887,9 +2949,9 @@ Cuando se trate de viviendas de interés social o popular, se cobrará en el pri
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
-#### SECCIÓN SEXTA. USO DE BIENES DE DOMINIO PÚBLICO
+#### SECCIÓN SEGUNDA. VENTA, DISTRIBUCIÓN, TRANSPORTACIÓN Y CONSUMO DE BEBIDAS ALCOHÓLICAS
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 79.
 
@@ -3199,9 +3261,7 @@ menudeo por cada unidad. 20.0 UMA
 
 El importe correspondiente al 10% del monto total de los derechos que se obtengan por los conceptos establecidos en este artículo será destinados al auxilio y estímulo de las acciones en materia de salud efectuadas por instituciones humanitarias de asistencia pública o privada, tales como servicio de urgencias médicas o de emergencia y socorro para víctimas. Los recursos serán otorgados de conformidad con los convenios que para tal efecto suscriban con la Secretaría.
 
-#### SECCIÓN SÉPTIMA. REGISTRO DE PROVEEDORES DE BIENES MUEBLES Y SERVICIOS
-
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+#### SECCIÓN TERCERA. REGULACIÓN DE CASAS DE EMPEÑO
 
 ###### Artículo 80.
 
@@ -3243,9 +3303,9 @@ VII. Por modificación de cada permiso de
 
 cada establecimiento. 100.0 UMA
 
-#### SECCIÓN OCTAVA. REGISTRO ESTATAL DE GESTORES VEHICULARES
+#### SECCIÓN CUARTA. REGISTRO ESTATAL DE VEHÍCULOS
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 81.
 
@@ -3847,7 +3907,9 @@ la expedición de permisos para vehículos en traslado. 100.0 UMA
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
-#### SECCIÓN PRIMERA. USO DE BIENES DE DOMINIO PÚBLICO
+#### SECCIÓN QUINTA. CUMPLIMIENTO DE OBLIGACIONES FISCALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 88.
 
@@ -3861,7 +3923,9 @@ cumplimiento de obligaciones. 5.00 UMA
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-#### SECCIÓN SEGUNDA. REGISTRO DE PROVEEDORES DE BIENES MUEBLES Y SERVICIOS
+#### SECCIÓN SEXTA. USO DE BIENES DE DOMINIO PÚBLICO
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 88 Bis.
 
@@ -3911,11 +3975,13 @@ Tabasco Dora María, por vehículo, cuando no se actualice
 
 el supuesto de la fracción X del presente artículo.
 
-> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 24 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE ABRIL DE 2026)</small>
 
-XVII. Por el uso de estacionamiento de Plaza Juárez al público en general por vehículo, cuando se actualicen los siguientes supuestos:
+XVII. Por el uso del estacionamiento de Plaza de Armas al público en general por vehículo, cuando se actualicen los siguientes supuestos:
 
-a) Por pensión mensual. 7.95 UMA
+> <small>(REFORMADO, P.O. 11 DE ABRIL DE 2026)</small>
+
+a) Por pensión mensual. 7.93 UMA
 
 b) Por 24 horas. 3.12 UMA
 
@@ -3937,9 +4003,9 @@ La Secretaría, con motivo de eventos de promoción turística o cultural que em
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-#### SECCIÓN PRIMERA. PROTECCIÓN AMBIENTAL, CAMBIO CLIMÁTICO Y RECURSOS NATURALES
+#### SECCIÓN SÉPTIMA. REGISTRO DE PROVEEDORES DE BIENES MUEBLES Y SERVICIOS
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 88 Ter.
 
@@ -3963,9 +4029,9 @@ Servicios del Estado de Tabasco.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-#### SECCIÓN SEGUNDA. COMISIÓN ESTATAL FORESTAL
+#### SECCIÓN OCTAVA. REGISTRO ESTATAL DE GESTORES VEHICULARES
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 88 Quáter.
 
@@ -4039,11 +4105,11 @@ III. Refrendo anual. 5.0 UMA
 
 > <small>(DEROGADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-### CAPÍTULO SEXTO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE EDUCACIÓN SUS ÓRGANOS DESCONCENTRADOS Y ORGANISMOS DESCENTRALIZADOS
+### CAPÍTULO QUINTO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE ADMINISTRACIÓN E INNOVACIÓN GUBERNAMENTAL
 
-#### SECCIÓN PRIMERA. ORDENAMIENTO TERRITORIAL Y OBRAS PÚBLICAS
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+#### SECCIÓN PRIMERA. USO DE BIENES DE DOMINIO PÚBLICO
 
 ###### Artículo 89.
 
@@ -4051,17 +4117,13 @@ III. Refrendo anual. 5.0 UMA
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-#### SECCIÓN SEGUNDA. CENTRAL DE MAQUINARIA DE TABASCO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+#### SECCIÓN SEGUNDA. REGISTRO DE PROVEEDORES DE BIENES MUEBLES Y SERVICIOS
 
 ###### Artículo 90.
 
 (DEROGADO, P.O. 18 DE DICIEMBRE DE 2024)
 
-### CAPÍTULO SEXTO BIS. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE MEDIO AMBIENTE Y DESARROLLO SOSTENIBLE Y SU ÓRGANO DESCONCENTRADO
-
-> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES SECCIÓN ÚNICA], P.O. 18 DE DICIEMBRE DE 2024)</small>
+### CAPÍTULO SEXTO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE EDUCACIÓN SUS ÓRGANOS DESCONCENTRADOS Y ORGANISMOS DESCENTRALIZADOS
 
 ###### Artículo 91.
 
@@ -4069,11 +4131,13 @@ Por los servicios prestados por la Secretaría de Educación, sus órganos desco
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-### CAPÍTULO SÉPTIMO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE SALUD Y SUS ÓRGANOS DESCONCENTRADOS Y ORGANISMOS DESCENTRALIZADOS
+### CAPÍTULO SEXTO BIS. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE MEDIO AMBIENTE Y DESARROLLO SOSTENIBLE Y SU ÓRGANO DESCONCENTRADO
 
-#### SECCIÓN TERCERA. COORDINACIÓN ESTATAL PARA LA REGULARIZACIÓN DE LA TENENCIA DE LA TIERRA
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES SECCIÓN ÚNICA], P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+#### SECCIÓN PRIMERA. PROTECCIÓN AMBIENTAL, CAMBIO CLIMÁTICO Y RECURSOS NATURALES
+
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 91-A.
 
@@ -4347,65 +4411,47 @@ producción o manufactura de bolsas y popotes
 
 de plástico. 150.0 UMA
 
-XII. Por el uso de los espacios durante el evento "Convención Internacional de Sostenibilidad: Medio Ambiente y Energía", se pagarán los siguientes conceptos:
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2026)</small>
 
-a) Espacio de 2.15m x 4m, esquina; 397.74 UMA
+XII. Por el uso de los espacios durante el evento “Convención Internacional de Sostenibilidad: Energía y Medio Ambiente”, se pagarán los siguientes conceptos:
 
-b) Espacio de 2.15m x 4m, centro; 309.35 UMA
+a) Espacio de 3m x 3m en zona comercial:
 
-c) Espacios publicitarios físicos 1; 530.32 UMA
+(a) Apartado; 153.44 UMA
 
-d) Espacios publicitarios físicos 2; 777.80 UMA
+(b) Abono; 153.44 UMA
 
-e) Espacios publicitarios físicos 3; 1025.28 UMA
+(c) Finiquito; 153.44 UMA
 
-f) Espacios publicitarios físicos 4; 1272.76 UMA
+(d) Pago anticipado (pago total). 298.36 UMA
 
-g) Espacios publicitarios físicos 5; 1520.24 UMA
+b) Espacio de 3m x 3m, zona gastronómica; 221.65 UMA
 
-h) Espacios publicitarios físicos 6; 1767.72 UMA
+c) Gafete expositor por día; 6.82 UMA
 
-i) Espacios publicitarios físicos 7; 2015.20 UMA
+d) Gafete estudiante/docente por día; 2.13 UMA
 
-j) Espacios publicitarios físicos 8; 2262.68 UMA
+e) Acceso general por día; 8.53 UMA
 
-k) Espacios publicitarios digital 1; 441.93 UMA
+Corresponde a la Secretaría de Medio Ambiente y Desarrollo Sostenible expedir los lineamientos o reglas de operación, con los requisitos y mecánica operativa del evento “Convención Internacional de Sostenibilidad: Energía y Medio Ambiente”.
 
-l) Espacios publicitarios digital 2; 636.38 UMA
+> <small>(REFORMADA, P.O. 11 DE ABRIL DE 2026)</small>
 
-m) Espacios publicitarios digital 3; 830.83 UMA
+XIII. Por los servicios prestados por el Vivero Forestal “El Dorado” en materia de desarrollo forestal, se causarán y pagarán los siguientes derechos:
 
-n) Espacios publicitarios digital 4; 1025.28 UMA
+a) Plantas frutales. 0.2216 UMA
 
-o) Espacios publicitarios digital 5; 1219.73 UMA
+b) Plantas maderables. 0.0579 UMA
 
-p) Espacios publicitarios digital 6; 1414.18 UMA
+c) Plantas ornamentales. 0.2557 UMA
 
-q) Espacios publicitarios digital 7; 1608.63 UMA
-
-r) Espacios publicitarios digital 8; 1803.08 UMA
-
-XIII. Derechos por trámites en materia de aprovechamiento de recursos naturales de competencia del Estado.
-
-a) Por el aprovechamiento y extracción de
-
-recursos naturales de competencia
-
-estatal, material pétreo por metro cúbico. 0.18 UMA
-
-b) Por el aprovechamiento y extracción de
-
-recursos naturales por competencia estatal
-
-como arena, arcilla, suelo o cualquier otro
-
-material, por metro cúbico. 0.10 UMA
+d) Plantas medicinales. 0.1704 UMA
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-#### SECCIÓN CUARTA. JUNTA ESTATAL DE CAMINOS
+#### SECCIÓN SEGUNDA. COMISIÓN ESTATAL FORESTAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 91-B.
 
@@ -4451,9 +4497,7 @@ II. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2025)
 
 III. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2025)
 
-### CAPÍTULO OCTAVO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE MOVILIDAD
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2019)</small>
+### CAPÍTULO SÉPTIMO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE SALUD Y SUS ÓRGANOS DESCONCENTRADOS Y ORGANISMOS DESCENTRALIZADOS
 
 ###### Artículo 92.
 
@@ -4463,9 +4507,9 @@ El paciente cubrirá los derechos a que se refiere esta Ley, de acuerdo al resul
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 16 DE MARZO DE 2019)</small>
 
-### CAPÍTULO NOVENO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE TURISMO Y DESARROLLO ECONÓMICO
+### CAPÍTULO OCTAVO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE MOVILIDAD
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MARZO DE 2019)</small>
 
 ###### Artículo 93.
 
@@ -4791,7 +4835,9 @@ V. Corrección o cancelación de trámite. 5.0 UMA
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-### CAPÍTULO DÉCIMO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE ORDENAMIENTO TERRITORIAL Y OBRAS PÚBLICAS Y SUS ÓRGANOS DESCONCENTRADOS
+### CAPÍTULO NOVENO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE TURISMO Y DESARROLLO ECONÓMICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 94.
 
@@ -4801,13 +4847,11 @@ Por los servicios prestados por la Secretaría de Turismo y Desarrollo Económic
 
 I. Por concepto de inscripción o revalidación en el Registro Estatal de Agentes Inmobiliarios del Estado de Tabasco. 6.0 UMA
 
-### CAPÍTULO DÉCIMO BIS. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE DESARROLLO AGROPECUARIO Y PESCA
+### CAPÍTULO DÉCIMO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE ORDENAMIENTO TERRITORIAL Y OBRAS PÚBLICAS Y SUS ÓRGANOS DESCONCENTRADOS
 
-> <small>(REFORMADA SU DENOMINACIÓN Y NUMERACIÓN [N. DE E. ANTES SECCIÓN PRIMERA], P.O. 18 DE DICIEMBRE DE 2024)</small>
+#### SECCIÓN PRIMERA. ORDENAMIENTO TERRITORIAL Y OBRAS PÚBLICAS
 
-#### SECCIÓN ÚNICA. DESARROLLO AGROPECUARIO Y PESCA
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 95.
 
@@ -4869,7 +4913,9 @@ relacionados con el mismo, previo a la emisión
 
 del Dictamen. 50,000 UMA
 
-#### SECCIÓN SEGUNDA. COMISIÓN ESTATAL FORESTAL
+#### SECCIÓN SEGUNDA. CENTRAL DE MAQUINARIA DE TABASCO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 96.
 
@@ -5249,7 +5295,9 @@ En caso de que se requiera pagar peaje por cuotas de carreteras o autopistas, de
 
 Si derivado del flete de la maquinaria solicitada, es necesario emplear maniobras complejas y equipo adicional para su traslado, se aumentará el costo de los servicios establecidos en los incisos a), b), c), d) y e) de la fracción III del presente artículo en un 10 por ciento.
 
-#### SECCIÓN PRIMERA
+#### SECCIÓN TERCERA. COORDINACIÓN ESTATAL PARA LA REGULARIZACIÓN DE LA TENENCIA DE LA TIERRA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 97.
 
@@ -5367,7 +5415,9 @@ k) Mayor de 10 hectáreas a 15 hectáreas. 75.0 UMA
 
 l) Mayor a 15 hectáreas a 20 hectáreas. 83.0 UMA
 
-#### SECCIÓN SEGUNDA
+#### SECCIÓN CUARTA. JUNTA ESTATAL DE CAMINOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 98.
 
@@ -5377,13 +5427,13 @@ I. Permiso carretero 585.83 UMA
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-### CAPÍTULO DÉCIMO TER. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE CULTURA
+### CAPÍTULO DÉCIMO BIS. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE DESARROLLO AGROPECUARIO Y PESCA
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y NUMERACIÓN [N. DE E. ANTES SECCIÓN PRIMERA], P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-#### SECCIÓN ÚNICA. CONSEJERÍA JURÍDICA DEL PODER EJECUTIVO DEL ESTADO
+#### SECCIÓN ÚNICA. DESARROLLO AGROPECUARIO Y PESCA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
 ###### Artículo 98-A.
 
@@ -5673,11 +5723,7 @@ ccc) Cayuco: de fibra de vidrio de 5 mts. de
 
 dos puntas (pz). 66.95 UMA
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
-
-ddd) Cayuco: de fibra de vidrio de 5 mts.
-
-de espejo para motor (pz). 83.69 UMA
+ddd) (DEROGADO, P.O. 11 DE ABRIL DE 2026)
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
@@ -5695,6 +5741,18 @@ e) Paq. de 100 juveniles de 4" sin hormonar. 6.00 UMA
 
 f) Paq. de 100 juveniles de 4" hormonado. 8.00 UMA
 
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2026)</small>
+
+g) Cayuco: de fibra de vidrio de 4.99 metros con
+
+espejo para motor. 102.5 UMA
+
+> <small>(ADICIONADO, P.O. 11 DE ABRIL DE 2026)</small>
+
+h) Cayuco: de fibra de vidrio de 6 metros con
+
+espejo para motor. 115.0 UMA
+
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 VIII. Asesoría técnica por hora (incluye traslado). 5.75 UMA
@@ -5703,9 +5761,7 @@ IX. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2020)
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-#### SECCIÓN PRIMERA. INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+#### SECCIÓN SEGUNDA. COMISIÓN ESTATAL FORESTAL
 
 ###### Artículo 98-B.
 
@@ -5713,9 +5769,9 @@ IX. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2020)
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO DÉCIMO PRIMERO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA ANTICORRUPCIÓN Y BUEN GOBIERNO
+### CAPÍTULO DÉCIMO TER. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE CULTURA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
 ###### Artículo 98-C.
 
@@ -6455,9 +6511,9 @@ Con motivo de programas de promoción cultural, que emprenda el Gobierno del Est
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
-### CAPÍTULO DÉCIMO SEGUNDO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE ENERGÍA, RECURSOS NATURALES Y PROTECCIÓN AMBIENTAL Y SUS ÓRGANOS DESCONCENTRADOS
+### CAPÍTULO DÉCIMO PRIMERO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA ANTICORRUPCIÓN Y BUEN GOBIERNO
 
-> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 99.
 
@@ -6513,13 +6569,11 @@ b) Por reimpresión de constancia, siempre que se solicite en el mismo año cale
 
 > <small>(DEROGADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-### CAPÍTULO DÉCIMO TERCERO. DE LOS SERVICIOS PRESTADOS POR LA CONSEJERÍA JURÍDICA DEL PODER EJECUTIVO DEL ESTADO
+### CAPÍTULO DÉCIMO SEGUNDO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARÍA DE ENERGÍA, RECURSOS NATURALES Y PROTECCIÓN AMBIENTAL Y SUS ÓRGANOS DESCONCENTRADOS
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2024)</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN SEGUNDA. INSTITUTO DE PROTECCIÓN CIVIL
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+#### SECCIÓN PRIMERA
 
 ###### Artículo 100.
 
@@ -6527,7 +6581,7 @@ b) Por reimpresión de constancia, siempre que se solicite en el mismo año cale
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN TERCERA. CENTRAL DE ABASTO DE VILLAHERMOSA
+#### SECCIÓN SEGUNDA
 
 ###### Artículo 101.
 
@@ -6535,11 +6589,13 @@ b) Por reimpresión de constancia, siempre que se solicite en el mismo año cale
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-### CAPÍTULO DÉCIMO CUARTO. ORGANISMOS DESCENTRALIZADOS
+### CAPÍTULO DÉCIMO TERCERO. DE LOS SERVICIOS PRESTADOS POR LA CONSEJERÍA JURÍDICA DEL PODER EJECUTIVO DEL ESTADO
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2024)</small>
 
-#### SECCIÓN CUARTA. INSTITUTO DE VIVIENDA DE TABASCO
+#### SECCIÓN ÚNICA. CONSEJERÍA JURÍDICA DEL PODER EJECUTIVO DEL ESTADO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 102.
 
@@ -6565,11 +6621,13 @@ Nacional. 97.0 UMA
 
 II. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2025)
 
-### CAPÍTULO DÉCIMO QUINTO. DE LOS SERVICIOS PRESTADOS POR LOS PODERES LEGISLATIVO Y JUDICIAL Y LOS ÓRGANOS AUTÓNOMOS
+### CAPÍTULO DÉCIMO CUARTO. ORGANISMOS DESCENTRALIZADOS
 
-#### SECCIÓN QUINTA. COMISIÓN ESTATAL DE AGUA Y SANEAMIENTO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
+#### SECCIÓN PRIMERA. INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 103.
 
@@ -6615,6 +6673,10 @@ XVI. Servicio mensual Centro de Atención Infantil (CAI) Particular. 31.81 UMA
 
 XVII. Servicio mensual Centro de Atención Infantil (CAI) lista de raya, contratos o supernumerarios ISSET. 10.92 UMA
 
+> <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2026)</small>
+
+XVIII. Constancia de vigencia de derechos (afiliación-no afiliación). 1.022 UMA
+
 ###### Artículo 104.
 
 (DEROGADO, P.O. 24 DE DICIEMBRE DE 2016)
@@ -6639,9 +6701,9 @@ XVII. Servicio mensual Centro de Atención Infantil (CAI) lista de raya, contrat
 
 (DEROGADO, P.O. 24 DE DICIEMBRE DE 2016)
 
-#### SECCIÓN SEXTA. SERVICIO ESTATAL DE ADMINISTRACIÓN DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS
+#### SECCIÓN SEGUNDA. INSTITUTO DE PROTECCIÓN CIVIL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 110.
 
@@ -6967,9 +7029,7 @@ b) Por 8 horas. 30.00 UMA
 
 XLVIII. (DEROGADA, P.O. 28 DE DICIEMBRE DE 2022)
 
-#### SECCIÓN SÉPTIMA. MUSEO INTERACTIVO PAPAGAYO
-
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
+#### SECCIÓN TERCERA. CENTRAL DE ABASTO DE VILLAHERMOSA
 
 ###### Artículo 111.
 
@@ -7167,9 +7227,7 @@ XXXIII. Por el uso anual de espacio
 
 para publicidad en espectacular F. 133.90 UMA
 
-#### SECCIÓN OCTAVA. CENTRO DE INTERPRETACIÓN Y CONVIVENCIA CON LA NATURALEZA "YUMKA"
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
+#### SECCIÓN CUARTA. INSTITUTO DE VIVIENDA DE TABASCO
 
 ###### Artículo 112.
 
@@ -7233,7 +7291,9 @@ a) Costo mensual por contratación semestral. 1,149.0 UMA
 
 b) Costo mensual por contratación anual. 883.86 UMA
 
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+#### SECCIÓN QUINTA. COMISIÓN ESTATAL DE AGUA Y SANEAMIENTO
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 113.
 
@@ -8069,7 +8129,9 @@ g) Envío de 80 a 100 garrafones de agua purificada de 20 Its (no incluye garraf
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2019)</small>
 
-#### SECCIÓN SEGUNDA. DE LOS SERVICIOS PRESTADOS POR EL PODER JUDICIAL
+#### SECCIÓN SEXTA. SERVICIO ESTATAL DE ADMINISTRACIÓN DE BIENES ASEGURADOS, ABANDONADOS O DECOMISADOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 113 Bis.
 
@@ -8153,7 +8215,9 @@ Cuando la víctima sea quien solicite la devolución de un bien mueble o inmuebl
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
-#### SECCIÓN TERCERA. DE LOS SERVICIOS PRESTADOS POR LA FISCALÍA GENERAL DEL ESTADO
+#### SECCIÓN SÉPTIMA. MUSEO INTERACTIVO PAPAGAYO
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2021)</small>
 
 ###### Artículo 113 Ter.
 
@@ -8212,6 +8276,10 @@ VII. Por el uso de las áreas verdes del Museo por día, hasta 300 personas. 273
 El Consejo de Administración del Museo podrá fijar las tarifas que se cobrarán cuando la Sala Tabasco se otorgue para alguna de las actividades señaladas en el artículo 118 de la Ley de Hacienda del Estado de Tabasco.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE DICIEMBRE DE 2022)</small>
+
+#### SECCIÓN OCTAVA. CENTRO DE INTERPRETACIÓN Y CONVIVENCIA CON LA NATURALEZA "YUMKA"
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2025)</small>
 
 ###### Artículo 113 Quater.
 
@@ -8361,13 +8429,17 @@ e) Persona adicional. 1.77 UMA
 
 Los beneficios que se otorgan en este artículo no podrán ser acumulables.
 
-### CAPÍTULO PRIMERO. PRODUCTOS
+### CAPÍTULO DÉCIMO QUINTO. DE LOS SERVICIOS PRESTADOS POR LOS PODERES LEGISLATIVO Y JUDICIAL Y LOS ÓRGANOS AUTÓNOMOS
+
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 114.
 
 Los poderes Legislativo y Judicial, así como los órganos autónomos efectuarán los cobros de sus ingresos, a través de sus unidades administrativas correspondientes.
 
 La Secretaría podrá cobrar los ingresos que generen los Poderes Legislativo y Judicial, así como los órganos autónomos, por concepto de contribuciones, cuando se celebre el convenio de colaboración correspondiente.
+
+#### SECCIÓN SEGUNDA. DE LOS SERVICIOS PRESTADOS POR EL PODER JUDICIAL
 
 ###### Artículo 115.
 
@@ -8386,6 +8458,8 @@ b. Por cada hoja subsecuente. 0.01 UMA
 > <small>(REFORMADA, P.O. 5 DE JULIO DE 2017)</small>
 
 II. Otros no especificados en esta sección. 5.0 UMA
+
+#### SECCIÓN TERCERA. DE LOS SERVICIOS PRESTADOS POR LA FISCALÍA GENERAL DEL ESTADO
 
 ###### Artículo 116.
 
@@ -8455,7 +8529,7 @@ XIV. Reimpresión de constancia de no existencia de sanción 1.00 UMA
 
 ## TÍTULO CUARTO. DE LOS PRODUCTOS, APROVECHAMIENTOS Y PARTICIPACIONES
 
-### CAPÍTULO SEGUNDO. APROVECHAMIENTOS
+### CAPÍTULO PRIMERO. PRODUCTOS
 
 ###### Artículo 117.
 
@@ -8485,7 +8559,7 @@ X. Papel especial para actos del registro civil.
 
 XI. Otros no especificados.
 
-### CAPÍTULO TERCERO. PARTICIPACIONES
+### CAPÍTULO SEGUNDO. APROVECHAMIENTOS
 
 ###### Artículo 118.
 
@@ -8502,6 +8576,8 @@ Cuando alguna Ley o disposición legal no establezca monto de la tarifa o cuota 
 ###### Artículo 121.
 
 Las infracciones y omisiones al presente título, serán sancionadas de conformidad al Código Fiscal del Estado.
+
+### CAPÍTULO TERCERO. PARTICIPACIONES
 
 ###### Artículo 122.
 
@@ -8541,7 +8617,7 @@ COORDINADOR GENERAL DE ASUNTOS JURÍDICOS
 
 > <small>[N. DE E. VÉASE ANEXO PRIMERO DE LA LEY DE HACIENDA DEL ESTADO DE TABASCO EN EL P.O. DE 30 DE DICIEMBRE DE 2015, PÁGINAS DE LA 88 A LA 136.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS AL ANEXO PRIMERO, P.O. 24 DE DICIEMBRE DE 2016, PÁGINAS DE LA 54 A LA 65; 5 DE JULIO DE 2017, PÁGINAS DE LA 55 A LA 85; 22 DE DICIEMBRE DE 2018, PÁGINAS DE LA 51 A LA 54; 21 DE DICIEMBRE DE 2019, PÁGINAS DE LA 95 A LA 97; 18 DE DICIEMBRE DE 2020, PÁGINAS DE LA 82 A LA 87; 21 DE DICIEMBRE DE 2021, PÁGINAS DE LA 116 A LA 125; 28 DE DICIEMBRE DE 2022, PÁGINAS DE LA 87 A LA 100; 20 DE DICIEMBRE DE 2023, PÁGINAS DE LA 66 A LA 68; 18 DE DICIEMBRE DE 2024, PÁGINAS DE LA 69 A LA 74; 24 DE DICIEMBRE DE 2025, PÁGINAS DE LA 110 A LA 123.]</small>
+> <small>[N. DE E. VÉASE REFORMAS AL ANEXO PRIMERO, P.O. 24 DE DICIEMBRE DE 2016, PÁGINAS DE LA 54 A LA 65; 5 DE JULIO DE 2017, PÁGINAS DE LA 55 A LA 85; 22 DE DICIEMBRE DE 2018, PÁGINAS DE LA 51 A LA 54; 21 DE DICIEMBRE DE 2019, PÁGINAS DE LA 95 A LA 97; 18 DE DICIEMBRE DE 2020, PÁGINAS DE LA 82 A LA 87; 21 DE DICIEMBRE DE 2021, PÁGINAS DE LA 116 A LA 125; 28 DE DICIEMBRE DE 2022, PÁGINAS DE LA 87 A LA 100; 20 DE DICIEMBRE DE 2023, PÁGINAS DE LA 66 A LA 68; 18 DE DICIEMBRE DE 2024, PÁGINAS DE LA 69 A LA 74; 24 DE DICIEMBRE DE 2025, PÁGINAS DE LA 110 A LA 123, 11 DE ABRIL DE 2026, PÁGINAS DE LA 9 A LA 12.]</small>
 
 > <small>[N. DE E. VÉASE ANEXO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE TABASCO EN EL P.O. DE 30 DE DICIEMBRE DE 2015, PÁGINAS DE LA 137 A LA 351.]</small>
 
@@ -9754,3 +9830,11 @@ SÉPTIMO. La Secretaría de Administración y Finanzas, a través de la Subsecre
 OCTAVO. Con fundamento en el artículo 116 del Código Fiscal del Estado de Tabasco, se declara la prescripción de los créditos y obligaciones fiscales derivados de las contribuciones por concepto de Impuesto Vehicular Estatal, refrendo anual de placa de circulación, tarjeta de circulación y calcomanía, y canje de placas y emisión de documentos que amparen a la unidad para que circule legalmente en la vía pública, así como sus accesorios, anteriores al ejercicio fiscal 2021, que se encuentren en el sistema del Registro Estatal de Vehículos de la Secretaría de Administración y Finanzas, siempre y cuando no hayan sido requeridas por la autoridad fiscal mediante cualquier acción, gestión de cobro o cualquier acto administrativo, o se encuentre suspendido en términos del mismo artículo.
 
 Asimismo, con fundamento en el artículo 54 del Código Fiscal del Estado de Tabasco, se declaran extinguidas las facultades de las autoridades fiscales para determinar las contribuciones omitidas en el párrafo anterior.
+
+P.O. 11 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 254 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 78, FRACCIONES X Y XI; 88 BIS, FRACCIÓN XVII Y EL INCISO A); Y 91-A, FRACCIONES XII Y XIII; SE ADICIONAN EL CAPÍTULO OCTAVO DENOMINADO “DE LOS IMPUESTOS AMBIENTALES”, QUE COMPRENDE DE LOS ARTÍCULOS 62 NONIES, 62 DECIES, 62 UNDECIES, 62 DUODECIES, 62 TERDECIES, 62 QUATERDECIES Y 62 QUINDECIES, AL TÍTULO SEGUNDO; LOS INCISOS G) Y H) A LA FRACCCIÓN VII DEL ARTÍCULO 98-A; LA FRACCIÓN XVIII AL ARTÍCULO 103; LAS FRACCIONES LXXI, LXXII, LXXIII, LXXIV, LXXV, LXXVI, LXXVII, LXXVIII, LXXIX, LXXX, LXXXI, LXXXII, LXXXIII, LXXXIV, LXXXV, LXXXVI, LXXXVII, LXXXVIII, LXXXIX, XC, XCI, XCII, XCIII, XCIV, XCV, XCVI, XCVII, XCVIII, XCIX, C, CI, CII, CIII, CIV, CV, CVI, CVII, CVIII, CIX, CX, CXI, CXII, CXIII, CXIV, CXV y CXVI AL DÉCIMO PRIMERO DEL ANEXO PRIMERO; Y SE DEROGA EL INCISO DDD) DE LA FRACCIÓN VI DEL ARTÍCULO 98-A; TODOS DE LA LEY DE HACIENDA DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
