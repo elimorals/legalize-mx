@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-educacion-del-estado-de-nayarit-6855"
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-13"
-last_updated: "2025-12-17"
+last_updated: "2026-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 13 de julio de 1994.
 
@@ -67,9 +67,9 @@ La educación, basada en el respeto a los derechos humanos, es un medio para adq
 
 La educación que imparta el Estado, los Municipios, los Organismos Descentralizados y los Particulares con autorización y reconocimiento de validez oficial, será regulada por esta ley, y se ajustará a los principios y disposiciones que se establecen en el artículo 3o. de la Constitución Federal, la Ley General, la Ley de las Maestras y los Maestros, la Ley de Mejora Continua de la Educación, la Constitución Local, y a las disposiciones legales que de ellas emanen.
 
-> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ABRIL DE 2026)</small>
 
-ARTICULO 2o A.- La educación que imparta el Estado, sus organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios, se basará en los resultados del progreso científico; luchará contra la ignorancia, sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, la discriminación y la violencia, especialmente la que se ejerce contra la niñez y las mujeres, así como personas con discapacidad o en situación de vulnerabilidad social, debiendo implementar políticas públicas orientadas a garantizar la transversalidad de estos criterios en los tres órdenes de gobierno.
+ARTÍCULO 2o A.- La educación que imparta el Estado, sus organismos descentralizados y los particulares con autorización o con reconocimiento de validez oficial de estudios, se basará en los resultados del progreso científico; luchará contra la ignorancia, sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, la discriminación y las violencias, especialmente las que se ejercen contra las niñas, niños, adolescentes y las mujeres, de conformidad con los deberes reforzados de protección de estos sectores poblacionales, así como personas con discapacidad o en situación de vulnerabilidad social, debiendo implementar políticas públicas orientadas a garantizar la transversalidad de estos criterios en los tres órdenes de gobierno.
 
 Además, responderá a los siguientes criterios:
 
@@ -79,7 +79,9 @@ II. Será nacional, en cuanto que, sin hostilidades ni exclusivismos, la educaci
 
 III. Será humanista, al fomentar el aprecio y respeto por la dignidad de las personas, sustentado en los ideales de fraternidad e igualdad de derechos, promoviendo el mejoramiento de la convivencia humana y evitando cualquier tipo de privilegio de razas, religión, grupos, sexo o de personas;
 
-IV. Promoverá el respeto al interés general de la sociedad, por encima de intereses particulares o de grupo, así como el respeto a las familias, a efecto de que se reconozca su importancia como los núcleos básicos de la sociedad y constituirse como espacios libres de cualquier tipo de violencia;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2026)</small>
+
+IV. Promoverá el respeto al interés general de la sociedad, por encima de intereses particulares o de grupo, así como el respeto a las familias, a efecto de que se reconozca su importancia como los núcleos básicos de la sociedad y constituirse como espacios libres de cualquier tipo de violencias;
 
 V. Inculcará los conceptos y principios de las ciencias ambientales, el desarrollo sostenible, la prevención y combate a los efectos del cambio climático, la reducción del riesgo de desastres, la biodiversidad, el consumo sostenible y la resiliencia; así como la generación de conciencia y la adquisición de los conocimientos, las competencias, las actitudes y los valores necesarios para forjar un futuro sostenible, como elementos básicos para el desenvolvimiento armónico e integral de la persona y la sociedad;
 
@@ -97,9 +99,9 @@ IX. Será integral porque educará para la vida y estará enfocada a las capacid
 
 X. Será de excelencia, orientada al mejoramiento permanente de los procesos formativos que propicien el máximo logro de aprendizaje de los educandos, para el desarrollo de su pensamiento crítico, así como el fortalecimiento de los lazos entre escuela y comunidad, y
 
-> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2022)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2026)</small>
 
-XI. Será con perspectiva de género, consistente en la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres, que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad de género.
+XI. Será con perspectiva de género, consistente en la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación y las violencias, especialmente las que se ejercen contra las niñas, niños, adolescentes y las mujeres, la desigualdad y la exclusión de las mujeres, que se pretenden justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear las condiciones de cambio que permitan avanzar en la construcción de la igualdad sustantiva entre mujeres y hombres, a través de la incorporación de la perspectiva de género.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE MARZO DE 2021)</small>
 
@@ -139,9 +141,9 @@ a) Extenderá sus beneficios sin discriminación alguna, de conformidad con lo d
 
 b) Tendrá especial énfasis en el estudio de la realidad y las culturas nacionales;
 
-> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 5 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE ABRIL DE 2026)</small>
 
-II. Inclusiva, eliminando toda forma de discriminación y exclusión, así como las demás condiciones estructurales que se convierten en barreras al aprendizaje y la participación, por lo que:
+II. Inclusiva, con perspectiva de género y de derechos humanos, eliminando toda forma de discriminación, exclusión y violencias, así como las demás condiciones estructurales que puedan implicar barreras para el aprendizaje y la participación, por lo que:
 
 a) Atenderá las capacidades, circunstancias, necesidades, estilos y ritmos de aprendizaje de los educandos;
 
@@ -179,13 +181,17 @@ V. Laica, al mantenerse por completo ajena a cualquier doctrina religiosa.
 
 La educación que imparta el Estado, los municipios, los organismos descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios, tendrá las siguientes finalidades:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2026)</small>
 
-I.- Fomentar las actividades de carácter científico y tecnológico que respondan a las necesidades del desarrollo municipal, regional, estatal y nacional, a fin de abatir la ignorancia y sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, la discriminación y la violencia especialmente la que se ejerce contra las mujeres, niñas y niños.
+I.- Fomentar las actividades de carácter científico y tecnológico que respondan a las necesidades del desarrollo municipal, regional, estatal y nacional, a fin de abatir la ignorancia y sus causas y efectos, las servidumbres, los fanatismos, los prejuicios, la formación de estereotipos, la discriminación y las violencias, especialmente las que se ejercen contra las niñas, niños, adolescentes y las mujeres.
 
 > <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
 Contribuir al desarrollo integral y permanente de los educandos, para que ejerzan de manera plena sus capacidades, a través de la mejora continua del Sistema Educativo Estatal;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2026)</small>
+
+I.- Bis.- Promover la participación activa en la transformación de la sociedad, al emplear el pensamiento crítico a partir del análisis, la reflexión, el diálogo, la conciencia histórica, el humanismo y la argumentación para el mejoramiento de los ámbitos social, cultural y político;
 
 > <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
 
@@ -201,9 +207,9 @@ III.- Contribuirá al desarrollo integral y armónico de las facultades del ser 
 
 IV.- Propiciar en los educandos la integración de los conocimientos que armonicen la tradición y la modernidad;
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2026)</small>
 
-V.- Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el respeto por la naturaleza, a través de la generación de capacidades y habilidades que aseguren el manejo integral, la conservación y el aprovechamiento de los recursos naturales, el desarrollo sostenible y la resiliencia frente al cambio climático, conservación del medio ambiente y el equilibrio ecológico, como elementos fundamentales para el desenvolvimiento armónico e integral del individuo y la sociedad. También se proporcionarán los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representa el cambio climático y otros fenómenos naturales;
+V.- Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el respeto y cuidado al medio ambiente y la naturaleza, a través de la generación de capacidades y habilidades que aseguren el manejo integral, la conservación y el aprovechamiento de los recursos naturales, el desarrollo sostenible y la resiliencia frente al cambio climático, conservación del medio ambiente y el equilibrio ecológico, como elementos fundamentales para el desenvolvimiento armónico e integral del individuo y la sociedad, con el fin de comprender y asimilar la interrelación de las personas con la naturaleza y de los temas sociales, ambientales y económicos, así como su responsabilidad y participación para la ejecución de acciones que garanticen su preservación y restauración, y que adopten y promuevan estilos de vida sostenibles. También se proporcionarán los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representa el cambio climático y otros fenómenos naturales;
 
 > <small>(REFORMADA, P.O. 3 DE MAYO DE 2024)</small>
 
@@ -217,9 +223,9 @@ VII.- Fortalecer la conciencia de la Nación y la soberanía, fomentar el conoci
 
 VIII.- Difundir el espíritu y la conciencia democrática, no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el constante mejoramiento económico, social y cultural del pueblo;
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2026)</small>
 
-IX.- Fomentar en los educandos la cultura de la paz, el respeto, la tolerancia, los valores democráticos que favorezcan el diálogo constructivo, la solidaridad y la búsqueda de acuerdos que permitan la solución no violenta de conflictos y la convivencia en un marco de respeto a las diferencias;
+IX.- Fomentar en los educandos la cultura de la paz, el derecho a una vida libre de violencias, el respeto, la tolerancia, los valores democráticos que favorezcan el diálogo constructivo, la solidaridad y la búsqueda de acuerdos que permitan la solución no violenta de conflictos y la convivencia en un marco de respeto a las diferencias;
 
 > <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
@@ -237,17 +243,17 @@ XII.- Fomentar en los alumnos, docentes y madres y padres de familia, la cultura
 
 XIII.- Contribuir al desarrollo integral del ser humano conforme a los derechos humanos, promoviendo la cultura de la legalidad, los valores sociales y éticos, la igualdad entre las personas, la equidad de género, así como, fomentar la responsabilidad ciudadana, sustentada en valores como la honestidad, la justicia, la solidaridad, la reciprocidad, la lealtad, la libertad, entre otros;
 
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2026)</small>
 
-XIV.- Impulsar actitudes que incentiven la investigación y la innovación científicas y tecnológicas, así como su comprensión, aplicación y uso responsables, impulsando y utilizando el avance de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital, con la finalidad de fortalecer los modelos pedagógicos de enseñanza aprendizaje la innovación educativa el desarrollo de habilidad y saberes digitales de los educandos, además de establecimiento de programas de educación a distancia y semipresencial para cerrar la brecha digital y las desigualdades en la población;
+XIV.- Impulsar actitudes que incentiven la investigación y la innovación científicas y tecnológicas, así como su comprensión, aplicación, uso responsable, guiado y cuidado, impulsando y utilizando el avance de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital, bajo los principios de responsabilidad, conciencia y seguridad con la finalidad de fortalecer los modelos pedagógicos de enseñanza aprendizaje la innovación educativa el desarrollo de habilidad y saberes digitales de los educandos, además de establecimiento de programas de educación a distancia y semipresencial para cerrar la brecha digital y las desigualdades en la población;
 
 > <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
 XV.- Promover la coordinación efectiva con las autoridades competentes de los tres órdenes de gobierno, así como con organizaciones sociales para el cumplimiento de las disposiciones antes citadas, en aras de lograr educación con calidad, entendiéndose por ésta la congruencia entre los objetivos, resultados y procesos del sistema educativo, conforme a las dimensiones de eficacia, eficiencia, pertinencia y equidad;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 5 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2026)</small>
 
-XVI.- Promover y difundir los derechos humanos y el respeto irrestricto de la dignidad humana, como valor fundamental e inalterable de la persona y de la sociedad, a partir de una formación humanista que contribuya a la mejor convivencia social en un marco de respeto por los derechos de todas las personas, especialmente de las minorías, de las personas adultas mayores y de las personas con discapacidad, inculcando valores y actitudes de participación, no discriminación, tolerancia y pluralidad, fomentando el respeto a las diferencias, así como la integridad de las familias, el aprecio por la diversidad y la corresponsabilidad con el interés general.
+XVI.- Promover y difundir los derechos humanos y el respeto irrestricto de la dignidad humana, como valor fundamental e inalterable de la persona y de la sociedad, a partir de una formación humanista que contribuya a la mejor convivencia social en un marco de respeto por los derechos de todas las personas, especialmente de las minorías, de las personas adultas mayores y de las personas con discapacidad, inculcando valores y actitudes de participación, no discriminación y las no violencias especialmente las que se ejercen contra niñas, niños, adolescentes y mujeres, tolerancia y pluralidad, fomentando el respeto a las diferencias, así como la integridad de las familias, el aprecio por la diversidad y la corresponsabilidad con el interés general.
 
 > <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2023)</small>
 
@@ -257,9 +263,9 @@ En ese mismo marco del respeto hacia las personas adultas mayores, fomentar una 
 
 XVII.- Promover la comprensión, el aprecio, el conocimiento y enseñanza de la pluralidad étnica, cultural y lingüística de la nación, el diálogo e intercambio intercultural sobre la base de equidad y respeto mutuo; así como la valoración de las tradiciones y particularidades culturales de las diversas regiones del país y del estado de Nayarit;
 
-> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2026)</small>
 
-XVIII.- Alentar la construcción de relaciones sociales, económicas y culturales con base en el respeto de los derechos humano (sic); y enfoque de igualdad sustantiva, promoviendo el conocimiento, respeto, disfrute y ejercicio de todos los derechos, con el mismo trato y oportunidades para las personas;
+XVIII.- Alentar la construcción de relaciones sociales, económicas y culturales con base en el respeto de los derechos humanos; y enfoque de igualdad sustantiva entre mujeres y hombres, promoviendo el conocimiento, respeto, disfrute y ejercicio de todos los derechos, con el mismo trato y oportunidades para las personas;
 
 > <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
@@ -269,9 +275,9 @@ XIX.- Propiciar un diálogo continuo entre las humanidades, las artes, la cienci
 
 XX.- Fortalecer el tejido social para evitar la corrupción, a través del fomento de la honestidad, el civismo y los valores necesarios para transformar la vida pública del país y del Estado de Nayarit;
 
-> <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2026)</small>
 
-XXI.- Combatir las causas de discriminación y violencia en las diferentes regiones del Estado especialmente la que se ejerce contra la niñez y las mujeres;
+XXI.- Combatir las causas de discriminación y violencias en las diferentes regiones del Estado especialmente las que se ejercen contra niñas, niños, adolescentes y las mujeres de conformidad con los deberes reforzados de protección de estos sectores poblacionales;
 
 > <small>(ADICIONADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
@@ -331,11 +337,11 @@ XII.- Secretaría, a la Secretaría de Educación en el Estado.
 
 ### CAPITULO II. DEBERES Y ATRIBUCIONES DEL ESTADO
 
-> <small>(REFORMADO, P.O. 11 DE MAYO DE 2022)</small>
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2026)</small>
 
-###### ARTICULO 8o.
+###### ARTÍCULO 8o.
 
-La autoridad educativa estatal ejercerá las facultades que en materia educativa le confiere la Constitución Federal, la Constitución Local, la Ley Orgánica, la Ley General, la Ley de las Maestras y los Maestros, la Ley de Mejora Continua de la Educación, la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, Ley General para la Igualdad Entre Mujeres y Hombres, y sus correlativas en el Estado, así como las derivadas de la presente Ley.
+La autoridad educativa estatal ejercerá las facultades que en materia educativa le confiere la Constitución Federal, la Constitución Local, la Ley Orgánica, la Ley General, la Ley de las Maestras y los Maestros, la Ley de Mejora Continua de la Educación, la Ley General de Acceso de las Mujeres a una Vida Libre de Violencias, Ley General para la Igualdad Sustantiva entre Mujeres y Hombres, y sus correlativas en el Estado, así como las derivadas de la presente Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
@@ -407,9 +413,9 @@ b) Alto rendimiento.
 
 3. Alto rendimiento cultural, artístico, científico o tecnológico.
 
-> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2026)</small>
 
-Lo anterior, sin limitar modalidades u otras condiciones que atiendan problemáticas sociales, de conformidad con los criterios de selección que al efecto establezca la autoridad educativa a través del Consejo Estatal de Becas como instancia responsable de coordinar la política estatal en materia de becas, a fin de evitar la discriminación, garantizar la igualdad sustantiva y abatir la deserción escolar, lo que podrá ser regulado en el reglamento respectivo;
+Lo anterior, sin limitar modalidades u otras condiciones que atiendan problemáticas sociales, de conformidad con los criterios de selección que al efecto establezca la autoridad educativa a través del Consejo Estatal de Becas como instancia responsable de coordinar la política estatal en materia de becas, a fin de evitar la discriminación y violencias, garantizar la igualdad sustantiva entre mujeres y hombres y abatir la deserción escolar, lo que podrá ser regulado en el reglamento respectivo;
 
 > <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
@@ -475,9 +481,9 @@ XXVIII.- Suscribir convenios de colaboración con instituciones de educación su
 
 XXIX.- De manera concurrente con la autoridad educativa federal, promover la investigación y el desarrollo de la ciencia, la tecnología y la innovación, fomentando su enseñanza, diseminación y divulgación en acceso abierto cuando el conocimiento se obtenga mediante financiamiento público o el uso de infraestructura pública, sin perjuicio de las disposiciones en materia de patentes, protección de la propiedad intelectual o industrial, seguridad nacional y derechos de autor, entre otras, así como de aquella información que por razón de su naturaleza o decisión del autor, sea confidencial o reservada;
 
-> <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2026)</small>
 
-XXX.- De manera concurrente con la autoridad educativa federal, fomentar el uso responsable y seguro de las tecnologías de la información y la comunicación en el sistema educativo, apoyando el aprendizaje de los estudiantes, ampliando sus competencias para la vida, favoreciendo así su inserción en la sociedad del conocimiento;
+XXX.- De manera concurrente con la autoridad educativa federal, fomentar el uso guiado y cuidado de las tecnologías de la información y la comunicación en el sistema educativo bajo los principios de responsabilidad, conciencia y seguridad, apoyando el aprendizaje de los estudiantes, ampliando sus competencias para la vida, favoreciendo así su inserción en la sociedad del conocimiento;
 
 > <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
@@ -519,9 +525,33 @@ XXXIX.- Fomentar y encausar el desarrollo y la aplicación del avance científic
 
 XL.- Promover, fomentar y difundir los derechos humanos, así como el respeto de los derechos de las minorías y grupos vulnerables;
 
-> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2021)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2026)</small>
 
-XLI.- Contribuir a la mejor convivencia humana, fortaleciendo el aprecio por la dignidad de la persona, la integridad de la familia, la convicción por el interés general de la sociedad, la promoción y respeto de los derechos humanos, los ideales de fraternidad e igualdad de derechos de hombres y mujeres, evitando la discriminación, así como los privilegios de raza, de religión, de grupo, de sexo, de condición económica e individuales;
+XLI.- Contribuir a la mejor convivencia humana, fortaleciendo el aprecio por la dignidad de la persona, la integridad de la familia, la convicción por el interés general de la sociedad, la promoción y respeto de los derechos humanos, los ideales de fraternidad e igualdad sustantiva mujeres entre (sic) y hombres, evitando la discriminación, así como los privilegios de raza, de religión, de grupo, de sexo, de condición económica e individuales;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2026)</small>
+
+XLI Bis.- Fomentar la igualdad sustantiva entre mujeres y hombres para la construcción de una sociedad justa, igualitaria y libre de violencias;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2026)</small>
+
+XLI Ter.- La promoción del valor de la justicia, de la observancia de la ley y de la igualdad sustantiva entre mujeres y hombres, la cultura de la legalidad, de la inclusión y la no discriminación, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como la práctica de los valores y el conocimiento de los derechos humanos para garantizar el respeto a los mismos;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2026)</small>
+
+XLI Quáter.- Hacer del conocimiento de las autoridades competentes las conductas que pueden resultar constitutivas de infracciones o delitos cometidos en contra de las niñas, los niños, adolescentes y jóvenes por el ejercicio de cualquier maltrato o tipo de violencias en el entorno escolar, familiar o comunitario, así como promover en el ámbito de su competencia, su defensa en las instancias administrativas o judiciales;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2026)</small>
+
+XLI Quinquies.- Realizar campañas, mediante el uso de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital, que concienticen sobre la importancia de una convivencia libre de violencias o maltrato, ya sea psicológico, físico o cibernético, en los ámbitos familiar, comunitario, escolar y social;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2026)</small>
+
+XLI Sexies.- Elaborar y difundir materiales educativos para la prevención y atención de los tipos y modalidades de maltrato escolar, así como coordinar campañas de información sobre las mismas;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2026)</small>
+
+XLI Septies.- Las autoridades educativas, en el ámbito de sus respectivas competencias y, en observancia de sus deberes reforzados de protección con las mujeres, adolescentes, niñas y niños emitirán los lineamientos para los protocolos de actuación que sean necesarios, entre otros, para la prevención y atención de la violencia que se genere en el entorno escolar, familiar o comunitario contra cualquier integrante de la comunidad educativa, para su detección oportuna y para la atención de accidentes que se presenten en el plantel educativo, con énfasis en la prevención, atención y sanción de casos de hostigamiento sexual y acoso sexual. A su vez, determinarán los mecanismos para la mediación y resolución pacífica de controversias que se presenten entre los integrantes de la comunidad educativa;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 30 DE ABRIL DE 2021)</small>
 
@@ -571,9 +601,9 @@ XLVI.- Impulsar la alfabetización inicial, entendida como el proceso en el que 
 
 XLVII.- Suscribir convenios de colaboración con el Consejo de Ciencia y Tecnología del Estado de Nayarit, con la finalidad de desarrollar herramientas tecnológicas y de innovación que apoyen la alfabetización inicial, y
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 13 DE ABRIL DE 2026)</small>
 
-XVLIII.- Las demás que fijen las leyes o normas aplicables en la materia.
+XLVIII.- Las demás que fijen las leyes o normas aplicables en la materia.
 
 > <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
@@ -975,9 +1005,9 @@ e).- Líneas de acción;
 
 f).- La participación directa de los diversos sectores sociales involucrados en el proceso educativo, y
 
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2022)</small>
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2026)</small>
 
-g).- Mecanismos para la paz y no violencia.
+g).- Mecanismos para la paz y las no violencias.
 
 > <small>(ADICIONADO, P.O. 27 DE JULIO DE 2011)</small>
 
@@ -1172,6 +1202,10 @@ La organización y funcionamiento de las Asociaciones de Madres y Padres de Fami
 ###### ARTICULO 53.
 
 La autoridad educativa estatal podrá promover, de conformidad con los lineamientos que establezca la autoridad educativa federal, la participación de la sociedad en actividades que tengan por objeto garantizar el derecho a la educación.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2026)</small>
+
+En la impartición de educación para menores de dieciocho años se tomarán medidas reforzadas de protección para las y los educandos que aseguren el cuidado necesario para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad, la igualdad sustantiva entre mujeres y hombres y el respeto a su derecho a una vida libre de violencias, y que la aplicación de la disciplina escolar sea compatible con su edad, de conformidad con los lineamientos que para tal efecto se establezcan.
 
 > <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
@@ -1443,23 +1477,43 @@ La Secretaría, aplicará los procedimientos establecidos por la autoridad educa
 
 En el Estado de Nayarit, toda educación que se imparta, se promueva u ofrezca, deberá ser encaminada a la excelencia en su calidad, integrando los aspectos de equidad, pertinencia, relevancia, eficiencia y eficacia de sus programas y contenidos.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2026)</small>
+
+Las medidas que adopte para tal efecto estarán dirigidas, de manera prioritaria, a quienes pertenezcan a grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con estereotipos de género, orientación sexual o prácticas culturales que constituyan barreras para acceder a servicios educativos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ABRIL DE 2026)</small>
 
 ###### ARTICULO 67.
 
-Las instituciones del sistema educativo estatal, realizarán acciones que las vinculen y proyecten con la comunidad de que formen parte para elevar la calidad de la educación, para lo cual las autoridades educativas:
+Las instituciones del sistema educativo estatal, realizarán acciones que las vinculen y proyecten con la comunidad de que formen parte para elevar la calidad de la educación, con la finalidad de establecer condiciones que permitan el ejercicio pleno del derecho a la educación de cada persona, favoreciendo la igualdad sustantiva entre mujeres y hombres y la excelencia para lo cual las autoridades educativas:
 
-I.- Tomarán medidas tendientes a establecer condiciones que permitan el ejercicio pleno del derecho a la educación de calidad de cada individuo, una mayor equidad educativa, así como el logro de la efectiva igualdad en oportunidades de acceso y permanencia en los servicios educativos;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2026)</small>
+
+I.- Establecerán políticas incluyentes, transversales y con perspectiva de género, para procurar el otorgamiento de becas y demás apoyos económicos que prioricen a las y los educandos que enfrenten condiciones socioeconómicas que les impidan ejercer su derecho a la educación.
+
+Las autoridades educativas deberán implementar políticas educativas con enfoque diferenciado, con perspectiva de género y de derechos humanos para la prevención y atención de la deserción escolar de las mujeres, adolescentes, niñas y niños;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2026)</small>
+
+I. Bis.- Tornarán medidas tendientes a establecer condiciones que permitan el ejercicio pleno del derecho a la educación de calidad de cada individuo, una mayor equidad educativa, así como el logro de la efectiva igualdad en oportunidades de acceso y permanencia en los servicios educativos;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
 
 II.- Prestarán servicios educativos para atender a quienes abandonaron el sistema regular y se encuentran en situación de rezago educativo para que concluyan la educación básica y media superior, otorgando facilidades de acceso, reingreso, permanencia, y egreso a las mujeres;
 
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
+
 III.- Fortalecerán la educación especial y la educación inicial, incluyendo a las personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
 
 IV.- Establecerán y fortalecerán los sistemas de educación a distancia;
 
 > <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)</small>
 
 V.- Impulsarán programas y escuelas dirigidos a las madres y padres de familia o tutores, que les permitan dar mejor atención a sus hijas e hijos para lo cual se aprovechará la capacidad escolar instalada, en horarios y días en que no se presten los servicios educativos ordinarios;
+
+> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
 
 VI.- Realizarán las demás actividades que permitan mejorar y ampliar la cobertura de los servicios educativos, y alcanzar los propósitos mencionados en el artículo anterior;
 
@@ -2054,3 +2108,15 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Comuníquese el presente Decreto a la Secretaría de Educación y a los Servicios de Educación Pública, ambos del Estado de Nayarit, para su conocimiento y efectos conducentes.
 
 Tercero. Comuníquese el presente Decreto al Consejo de Ciencia y Tecnología del Estado de Nayarit COCYTEN, para su conocimiento y efectos conducentes.
+
+P.O. 13 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS NUMERALES DE LA LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT, EN MATERIA DE IGUALDAD SUSTANTIVA, PERSPECTIVA DE GÉNERO Y NO VIOLENCIAS”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 13 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO (SIC) REFORMA Y ADICIONA DIVERSOS NUMERALES DE LA LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT, EN MATERIA DE IGUALDAD SUSTANTIVA Y PERSPECTIVA DE GÉNERO”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
