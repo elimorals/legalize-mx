@@ -4,7 +4,7 @@ identifier: "AGU-estatuto-organico-del-instituto-cultural-de-aguascalientes-1087
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-06-22"
-last_updated: "2025-01-27"
+last_updated: "2026-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO CULTURAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2026.
 
 Estatuto publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de junio de 2015.
 
@@ -667,9 +667,7 @@ XIX. Realizar las acciones necesarias para que las Bibliotecas Públicas del Ins
 
 XX. Elaborar y presentar a la Dirección General las propuestas para el Programa Estatal para la Promoción de la Lectura y el Libro;
 
-> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
-
-XXI. Coordinar y supervisar el correcto funcionamiento del Centro de Idiomas; y
+XXI. (DEROGADA, P.O. 13 DE ABRIL DE 2026)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MARZO DE 2021)</small>
 
@@ -743,9 +741,7 @@ XVII. (DEROGADA, P.O. 7 DE SEPTIEMBRE DE 2020)
 
 XVIII. Vincularse con las Direcciones de Área para promover el desarrollo de investigaciones teóricas, técnicas y operativas en torno a los museos, las colecciones que resguardan y las curadurías e interpretaciones, así como a las exposiciones temporales;
 
-> <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
-
-XIX. Coordinar el Taller Nacional de Gráfica;
+XIX. (DEROGADA, P.O. 13 DE ABRIL DE 2026)
 
 > <small>(ADICIONADA, P.O. 22 DE ENERO DE 2018)</small>
 
@@ -977,13 +973,17 @@ XXI. Llevar a cabo acciones de coordinación con las organizaciones de la socied
 
 XXII. De forma conjunta con el Director General, deberá coordinar sus acciones de trabajo y promoción con las entidades y dependencias del Gobierno Federal y gobiernos municipales responsables de la aplicación de las políticas, programas y acciones de la promoción de la lectura para el mejoramiento de los niveles de lectura en el Estado;
 
-> <small>(ADICIONADA, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2026)</small>
 
-XXIII. Realizar las acciones que resulten necesarias para garantizar a la población el ejercicio real del derecho de acceso a la lectura; y
+XXIII. Realizar las acciones que resulten necesarias para garantizar a la población el ejercicio real del derecho de acceso a la lectura;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE SEPTIEMBRE DE 2020)</small>
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2026)</small>
 
-XXIV. Todas las demás facultades y atribuciones que le confiera este Estatuto Orgánico, la Ley de Cultura del Estado de Aguascalientes, otros ordenamientos legales aplicables, así como las que otorgue el Director General, o la Junta Directiva.
+XXIV. Coordinar el Taller Nacional de Gráfica; y
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2026)</small>
+
+XXV. Todas las demás facultades y atribuciones conferidas por este Estatuto Orgánico, la Ley de Cultura del Estado de Aguascalientes, otros ordenamientos legales aplicables, así como las que le concedan el Director General o la Junta Directiva.
 
 > <small>(REFORMADO, P.O. 7 DE SEPTIEMBRE DE 2020)</small>
 
@@ -1538,3 +1538,23 @@ Se instruye a la persona titular de la Dirección General del Instituto Cultural
 ###### ARTÍCULO CUARTO.
 
 A partir de la entrada en vigor de las presentes reformas, el Instituto Cultural de Aguascalientes deberá realizar las adecuaciones normativas y administrativas correspondientes en un término de 180 días.
+
+P.O. 13 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LAS "REFORMAS, ADICIONES Y DEROGACIONES AL ESTATUTO ORGÁNICO DEL INSTITUTO CULTURAL DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+Las reformas, adiciones y derogaciones al Estatuto Orgánico del Instituto Cultural de Aguascalientes, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan a esta reforma, de igual o menor jerarquía.
+
+###### ARTÍCULO TERCERO.
+
+Se instruye a la persona titular de la Dirección General del Instituto Cultural de Aguascalientes para que lleve a cabo las acciones necesarias para la inscripción de estas reformas, adiciones y derogaciones al Estatuto Orgánico del Instituto Cultural de Aguascalientes, ante el Registro de Entidades Paraestatales del Registro Público de la Propiedad y del Comercio en el Estado de Aguascalientes.
+
+###### ARTÍCULO CUARTO.
+
+A partir de la entregada en vigor de estas reformas, adiciones y derogaciones al Estatuto Orgánico del Instituto Cultural de Aguascalientes, el Instituto Cultural de Aguascalientes deberá realizar las adecuaciones normativas y administrativas correspondientes en un término de 120 días.
