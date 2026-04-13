@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asistencia-social-para-el-estado-de-hidalgo-88792"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-30"
-last_updated: "2025-11-19"
+last_updated: "2026-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88792&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de julio de 2012.
 
@@ -185,7 +185,9 @@ XXXII. Persona en situación de calle.- Aquella que, de forma permanente o tempo
 
 XXXIII. Prevención.- Acción orientada a detectar factores de riesgo de vulnerabilidad a efecto de evitar su potencialización, en la medida de lo posible, estableciendo programas y proyectos encaminados a disminuirlos;
 
-XXXIV. Procuraduría.- La Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Estado de Hidalgo;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2026)</small>
+
+XXXIV. Procuraduría.- La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Hidalgo;
 
 XXXV. Programas.- Programas Operativos de Asistencia Social contenidos en el Capítulo Único del Título Séptimo de la presente Ley;
 
@@ -1163,15 +1165,15 @@ II. A través de la Junta General de Asistencia; y
 
 III. Las que directamente presenten las propias instituciones ante este Directorio.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ENERO DE 2021)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE ABRIL DE 2026)</small>
 
-### CAPÍTULO V. De la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia
+### CAPÍTULO V. De la Procuraduría de Protección de Niñas, Niños y Adolescentes
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ABRIL DE 2026)</small>
 
 ###### Artículo 41.
 
-Para el mejor cumplimiento del objeto del Organismo y para una efectiva protección y restitución de los derechos de niñas, niños y adolescentes, contará con un Órgano Administrativo Desconcentrado con autonomía técnica, denominado Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Estado de Hidalgo.
+Para el mejor cumplimiento del objeto del Organismo y para una efectiva protección y restitución de los derechos de niñas, niños y adolescentes, contará con un Órgano Administrativo Desconcentrado con autonomía técnica, operativa y de gestión, denominado Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Hidalgo.
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2021)</small>
 
@@ -1181,75 +1183,21 @@ En el ejercicio de sus funciones la Procuraduría, podrá solicitar el auxilio d
 
 Para la debida determinación, coordinación de la ejecución y seguimiento de las medidas de protección integral y restitución de los derechos de niñas, niños y adolescentes, la Procuraduría deberá establecer contacto y trabajar conjuntamente con todas las autoridades, instituciones y corporaciones con las que sea necesario para garantizar los derechos de niñas, niños y adolescentes, en términos de lo dispuesto en el artículo 1 de la Constitución Política de los Estados Unidos Mexicanos, el artículo 4 de la Constitución Política del Estado y en la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Hidalgo y su Reglamento.
 
-> <small>(REFORMADO, P.O. 9 DE ENERO DE 2025)</small>
-
 ###### Artículo 42.
 
-La Procuraduría tendrá entre otras funciones: proporcionar asesoría jurídica, patrocinar los juicios en materia de derecho familiar, proteger y velar por los intereses de los sujetos de asistencia social referidos en la presente Ley, dando prioridad al interés superior de la niñez y adolescencia.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2021)</small>
+(DEROGADO, P.O. 13 DE ABRIL DE 2026)
 
 ###### Artículo 43.
 
-La Procuraduría ejercerá las siguientes atribuciones:
+(DEROGADO, P.O. 13 DE ABRIL DE 2026)
 
-I.- Prestar servicios de asesoría, representación, prevención, conciliación, mediación y orientación jurídica en materia familiar en beneficio de a (sic) las personas sujetas de asistencia social;
-
-II.- Cerciorarse que en los Centros Asistenciales Públicos o Privados, la población sujetos de asistencia social no sean víctimas de la comisión de un delito;
-
-III.- Otorgar la constancia de idoneidad conforme a la normatividad aplicable;
-
-IV.- Solicitar a la autoridad competente la separación provisional y preventiva del seno familiar, o de quienes ejerzan la patria potestad de aquellas niñas, niños y adolescentes en que se presuma la existencia de un peligro inminente e inmediato a su salud o seguridad;
-
-V.- Representar, legalmente a las niñas, niños y adolescentes que no cuenten con quien ejerza la guarda y custodia, o tutela en juicio y fuera de él, velando siempre porque se respete su interés superior;
-
-VI.- Realizar acciones de prevención de violencia y maltrato de los sujetos de asistencia social;
-
-VII.- Aplicar, con fundamento en las leyes vigentes en la materia, la práctica de exámenes psicológicos y realización de investigación de trabajo social de niñas, niños y adolescentes y personas posibles víctimas de maltrato;
-
-VIII.- Coadyuvar con las autoridades competentes en la aplicación de las medidas de protección a los sujetos de asistencia social que se encuentren en situación de violencia o maltrato conforme a los ordenamientos legales aplicables;
-
-IX.- Ejercer la acción de suspensión o pérdida de Patria Potestad de las niñas, niños y adolescentes que se encuentren bajo el cuidado y tutela de las Instituciones de Asistencia Social Pública y Privada a las cuales se les otorgo la guarda custodia o tutela por la autoridad competente de conformidad con lo previsto por la ley en la materia;
-
-X.- Realizar acciones de prevención y protección a niñas, niños, adolescentes y adultas mayores en desamparo, maltratadas o en estado de abandono, para incorporarlas al núcleo familiar;
-
-XI.- Realizar investigaciones de trabajo social y evaluaciones psicológicas para determinar las necesidades de integración familiar de la población que se encuentra en Centros Asistenciales Públicos y Privados y definir las acciones adecuadas para su integración social y familiar;
-
-XII.- Coadyuvar con la autoridad competente, en la localización de sujetos de asistencia social extraviados o sustraídos del seno familiar;
-
-XIII.- Salvaguardar los derechos de las niñas, niños, adolescentes y los adultos mayores respecto de su cuidado mientras las autoridades competentes resuelven su situación legal;
-
-XIV.- Promover ante las autoridades competentes la guarda y custodia o en su caso la tutela de las niñas, niños y adolescentes expósitos cuando no existiera persona alguna que legalmente pueda asumirla;
-
-XV.- Fungir como promovente, ante las autoridades judiciales para efectos de la tramitación de los juicios relativos a la Patria Potestad de las niñas, niños y adolescentes que se encuentren albergados en centros asistenciales;
-
-XVI.- Fungir como abogado patrono ante las autoridades judiciales en el desahogo de trámites de adopción en los términos previstos en las leyes vigentes o en los casos que sea procedente;
-
-XVII.- Intervenir en los asuntos de maltrato relacionados con los sujetos de asistencia social que reciban servicios asistenciales en Instituciones de Asistencia Social Públicas y Privadas;
-
-XVIII.- Emitir los dictámenes que en materia familiar le solicite la autoridad competente;
-
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
-
-XIX.- Hacer del conocimiento del Ministerio Público los asuntos que sean de su jurisdicción y actuar como coadyuvante;
-
-XX.- Expedir reglas y disposiciones de carácter general con relación a los procedimientos administrativos para los trámites de adopción;
-
-XXI.- Gestionar ante el Registro del Estado Familiar la elaboración de las actas de nacimiento de las niñas, niños y adolescentes expósitos o abandonados, en los casos que corresponda;
-
-XXII.- Atender de oficio y dar seguimiento a los casos de maltrato que le hagan de su conocimiento; y
-
-> <small>(REFORMADA, P.O. 20 DE ENERO DE 2021)</small>
-
-XXIII.- Ejercer las funciones y atribuciones que le confieran los Tratados Internacionales, los ordenamientos federales y locales, la presente Ley, el Estatuto Orgánico del Organismo y las demás disposiciones legales aplicables a la materia.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2026)</small>
 
 ###### Artículo 44.
 
-La persona titular de la Procuraduría será nombrada y removida libremente por el Gobernador del Estado.
+La persona titular de la Procuraduría será nombrada y removida bajo los términos, requisitos y procedimientos que establezca la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Hidalgo.
 
-La organización, atribuciones, integración y funcionamiento de la Procuraduría se asentarán en el instrumento reglamentario pertinente.
+La organización, atribuciones, integración y funcionamiento de la Procuraduría también serán establecidos en dicha Ley,
 
 > <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2025)</small>
 
@@ -1734,3 +1682,17 @@ P.O. 19 DE NOVIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 318 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DISTINTAS DISPOSICIONES DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE PERSONAS EN SITUACIÓN DE CALLE".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 13 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 607 - LXVI POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO, DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO Y DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO, EN MATERIA DE FORTALECIMIENTO A LAS MEDIDAS DE PROTECCIÓN Y CREACIÓN DE LAS PROCURADURÍAS MUNICIPALES DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, la denominación de la actual Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia se modifica a “Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Hidalgo”, con las atribuciones y facultades establecidas en el artículo 119 del presente ordenamiento.
+
+TERCERO. Dentro del término de sesenta días naturales contados a partir de la entrada en vigor del presente Decreto, el Sistema Estatal para el de Desarrollo Integral de la Familia, por conducto de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Hidalgo, deberá emitir y publicar en el Periódico Oficial del Estado, los lineamientos e instrumentos necesarios para que las Unidades de Primer Contacto que actualmente existen en los municipios, adapten su integración y atribuciones para transformarse en Procuradurías Municipales de Protección de Niñas, Niños y Adolescentes, con la estructura y facultades aprobadas en el articulado de este Decreto.
+
+Dentro del mismo plazo señalado en el párrafo anterior, la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Hidalgo deberá crear e instalar un Comité Técnico para el acompañamiento y seguimiento a la implementación de las Procuradurías Municipales de Protección de Niñas, Niños y Adolescentes, conformado al menos por el Sistema Estatal de Desarrollo Integral de la Familia, los Sistemas DIF Municipales, así como las dependencias y entidades de la Administración Pública Estatal y Municipal que se consideren pertinentes.
+
+CUARTO. En un plazo que no exceda de ciento ochenta días naturales contados a partir de la publicación de los lineamientos a que se hace referencia en el artículo tercero transitorio de este Decreto, los municipios deberán realizar los ajustes jurídicos, administrativos, operativos y presupuestales para que las Unidades de Primer Contacto transiten a Procuradurías Municipales de Protección de Niñas, Niños y Adolescentes, conforme a lo aprobado en el presente Decreto.
