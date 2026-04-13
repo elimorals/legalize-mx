@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-organo-de-administracion-judicial-18636
 country: "mx"
 rank: "reglamento"
 publication_date: "2026-03-10"
-last_updated: "2026-03-10"
+last_updated: "2026-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=186360&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,11 +22,11 @@ issue_date: "2026-02-27"
 
 > <small>[N. DE E. INFORMACIÓN OBTENIDA EN EL ANEXO VIII AL EJEMPLAR DE LA GACETA OFICIAL DE LA CIUDAD DE MEXICO, DEL 10 DE MARZO DE 2026.]</small>
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE ABRIL DE 2026 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERIOR DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO EL 13 DE ABRIL DE 2026.]</small>
 
 Reglamento publicado en el Número 1816 de la Gaceta Oficial de la Ciudad de México, el martes 10 de marzo de 2026 1.
 
@@ -924,6 +924,14 @@ XVI. Dirección Ejecutiva de Desarrollo Jurisdiccional, y
 
 XVII. Los demás órganos auxiliares necesarios para el desempeño de sus atribuciones.
 
+> <small>(F. DE E., G.O. 13 DE ABRIL DE 2026)</small>
+
+Las dependencias, órganos y áreas del Órgano de Administración Judicial estarán integradas por el personal administrativo necesario para su buen funcionamiento, nombrado por el Pleno, con excepción del Instituto de Estudios Judiciales cuyo personal será nombrado por la Presidencia.
+
+> <small>(F. DE E., G.O. 13 DE ABRIL DE 2026)</small>
+
+El Pleno emitirá la normativa interna en la que se determinará las relaciones de subordinación, de colaboración y apoyo entre las dependencias, órganos y áreas del Órgano de Administración Judicial.
+
 #### Sección Primera. De la Unidad de Supervisión de Medidas Cautelares y Suspensión Condicional del Proceso
 
 ###### Artículo 65.
@@ -1214,7 +1222,9 @@ X. Asesorar a las áreas en la organización de eventos institucionales, en cuan
 
 XI. Administrar las cuentas institucionales de redes sociales, y
 
-XIII (SIC). Las demás que deriven de los ordenamientos que resulten aplicables y las que el Pleno determine mediante acuerdo.
+> <small>(F. DE E., G.O. 13 DE ABRIL DE 2026)</small>
+
+XII. Las demás que deriven de los ordenamientos que resulten aplicables y las que el Pleno determine mediante acuerdo.
 
 #### Sección Décima. De la Dirección Ejecutiva de Orientación Ciudadana y Derechos Humanos
 
@@ -1294,7 +1304,9 @@ XX. Proporcionar material fotográfico y de video sobre eventos públicos a las 
 
 XXI. Aprobar el contenido de los comunicados de prensa, tarjetas informativas y contenidos digitales, y
 
-XIV (SIC). Las demás que deriven de los ordenamientos que resulten aplicables y las que el Pleno determine mediante acuerdo.
+> <small>(F. DE E., G.O. 13 DE ABRIL DE 2026)</small>
+
+XXII. Las demás que deriven de los ordenamientos que resulten aplicables y las que el Pleno determine mediante acuerdo.
 
 #### Sección Décima Segunda. De la Secretaría Ejecutiva del Pleno del Órgano de Administración Judicial
 
@@ -1498,7 +1510,9 @@ VIII. Efectuar el monitoreo de la infraestructura de comunicaciones, seguridad y
 
 IX. Instalar y configurar ambientes de sistematización físicos o virtuales para poner en producción los servicios web y/o aplicaciones cliente servidor, en apoyo a los procesos y operación de los órganos jurisdiccionales, áreas de apoyo judicial o áreas administrativas del Poder Judicial;
 
-X. Gestionar el trámite de la Firma Electrónica (FIREL) del personal del Poder Judicial;
+> <small>(F. DE E., G.O. 13 DE ABRIL DE 2026)</small>
+
+IX (SIC). Gestionar el trámite de la Firma. Judicial del personal del Poder Judicial (sic);
 
 XI. Planificar y agendar cursos para el personal del Poder Judicial, así como de sus familiares;
 
@@ -1685,3 +1699,13 @@ SE EXPIDE LA COPIA DEBIDAMENTE SELLADA, COTEJADA Y RUBRICADA, PARA SER REMITIDA 
 SECRETARIA EJECUTIVA DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO
 
 LIC. VALERIA PARADA SÁNCHEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 13 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA “NOTA ACLARATORIA A LA PUBLICACIÓN POR EL CUAL SE DA A CONOCER LA VERSIÓN DIGITALIZADA DE LA CIRCULAR OAJPJCDMX-09/2026 QUE CONTIENE EL “REGLAMENTO INTERIOR DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL DEL PODER JUDICIAL DE LA CIUDAD DE MÉXICO”, PUBLICADO EL 10 DE MARZO DE 2026, EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO, NÚMERO 1816”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- La presente nota aclaratoria entrará en vigor el día de su publicación en la Gaceta Oficial de la Ciudad de México.
