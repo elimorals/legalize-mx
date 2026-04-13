@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-las-personas-adultas-mayores-antes-74484
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-12"
-last_updated: "2025-08-22"
+last_updated: "2026-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 12 de abril de 2010.
 
@@ -777,7 +777,9 @@ V.- Rehabilitar a las personas adultas mayores con discapacidad en los centros e
 
 VI.- Impulsar y promover el reconocimiento y ejercicio de los derechos de las personas adultas mayores;
 
-VII.- Recibir quejas e informes a través de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia o del Instituto para la Atención de las Personas Adultas Mayores sobre la violación de los derechos de las personas adultas mayores, haciéndolo del conocimiento de las autoridades competentes y de ser procedente ejercitar las acciones legales correspondientes; y
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2026)</small>
+
+VII.- Recibir quejas e informes a través del Instituto para la Atención de las Personas Adultas Mayores sobre la violación de los derechos de las personas adultas mayores, haciéndolo del conocimiento de las autoridades competentes y de ser procedente ejercitar las acciones legales correspondientes; y
 
 VIII.- Denunciar ante las autoridades correspondientes, cuando sea procedente, cualquier caso de maltrato, lesiones, abuso físico o psíquico, sexual, abandono, descuido o negligencia, explotación y en general cualquier acto que perjudique a las personas adultas mayores.
 
@@ -1019,11 +1021,11 @@ Cuando la violación a los derechos de las personas adultas mayores provenga de 
 
 Si la queja o denuncia presentada fuera competencia de otra autoridad, la institución ante quien se presentó, acusará recibo al denunciante, pero no admitirá la instancia y la turnará a la autoridad competente para su trámite y regulación, notificándole tal hecho al denunciante, mediante acuerdo fundado y motivado.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ABRIL DE 2026)</small>
 
 ###### Artículo 35.
 
-Cuando los actos, hechos y omisiones provengan de familiares, las quejas o denuncias se presentarán ante (sic) Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo, quien tomará las medidas preventivas para la protección de las personas adultas mayores y en su caso, turnará la queja o denuncia a la autoridad competente.
+Cuando los actos, hechos y omisiones provengan de familiares, las quejas o denuncias se presentarán ante el Instituto para la Atención de las Personas Adultas Mayores del Estado de Hidalgo, quien tomará las medidas preventivas para la protección de las personas adultas mayores y en su caso, turnará la queja o denuncia a la autoridad competente.
 
 > <small>(ADICIONADO, P.O. 28 DE MARZO DE 2022)</small>
 
@@ -1280,3 +1282,17 @@ P.O. 22 DE AGOSTO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 342 – LXVI POR EL QUE SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 4 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO, EN MATERIA DE INTEGRACIÓN ECONÓMICA Y SOCIAL”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 13 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 607 – LXVI POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO, DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO Y DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO, EN MATERIA DE FORTALECIMIENTO A LAS MEDIDAS DE PROTECCIÓN Y CREACIÓN DE LAS PROCURADURÍAS MUNICIPALES DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, la denominación de la actual Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia se modifica a “Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Hidalgo”, con las atribuciones y facultades establecidas en el artículo 119 del presente ordenamiento.
+
+TERCERO. Dentro del término de sesenta días naturales contados a partir de la entrada en vigor del presente Decreto, el Sistema Estatal para el de Desarrollo Integral de la Familia, por conducto de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Hidalgo, deberá emitir y publicar en el Periódico Oficial del Estado, los lineamientos e instrumentos necesarios para que las Unidades de Primer Contacto que actualmente existen en los municipios, adapten su integración y atribuciones para transformarse en Procuradurías Municipales de Protección de Niñas, Niños y Adolescentes, con la estructura y facultades aprobadas en el articulado de este Decreto.
+
+Dentro del mismo plazo señalado en el párrafo anterior, la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Hidalgo deberá crear e instalar un Comité Técnico para el acompañamiento y seguimiento a la implementación de las Procuradurías Municipales de Protección de Niñas, Niños y Adolescentes, conformado al menos por el Sistema Estatal de Desarrollo Integral de la Familia, los Sistemas DIF Municipales, así como las dependencias y entidades de la Administración Pública Estatal y Municipal que se consideren pertinentes.
+
+CUARTO. En un plazo que no exceda de ciento ochenta días naturales contados a partir de la publicación de los lineamientos a que se hace referencia en el artículo tercero transitorio de este Decreto, los municipios deberán realizar los ajustes jurídicos, administrativos, operativos y presupuestales para que las Unidades de Primer Contacto transiten a Procuradurías Municipales de Protección de Niñas, Niños y Adolescentes, conforme a lo aprobado en el presente Decreto.
