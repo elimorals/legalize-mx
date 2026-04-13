@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10753
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-20"
-last_updated: "2025-12-26"
+last_updated: "2026-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de abril de 2015.
 
@@ -157,9 +157,21 @@ XVI. Informe de Adoptabilidad: El documento expedido por el Sistema DIF Hidalgo 
 
 XVI Bis. Lactancia materna: La alimentación con leche del seno materno;
 
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2026)</small>
+
+XVI Bis 1. Medidas de protección: Se refiere a todas las acciones de carácter administrativo o judicial adoptadas por autoridades competentes para garantizar, preservar o restituir el ejercicio pleno de los derechos de niñas, niños y adolescentes, ante situaciones de riesgo, amenaza o vulneración, así como otras que, en el marco de esta Ley y las demás disposiciones aplicables en la materia, se consideran necesarias para su protección integral.
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2026)</small>
+
+XVI Bis 2. Medidas de protección especial: Son todas las acciones y servicios conducentes a la restitución de los derechos vulnerados o restringidos de niñas, niños y adolescentes;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2026)</small>
+
+XVI Bis 3. Medidas urgentes de protección: Son las acciones y servicios que se determinan y ejecutan cuando se detecta un riesgo inminente contra la vida, libertad o integridad de niñas, niños y adolescentes. Se activan ante la sospecha de esta situación, para asegurar su protección inmediata;
+
 > <small>(ADICIONADA [N. DE E. CON SUS INCISOS], P.O. 26 DE DICIEMBRE DE 2025)</small>
 
-XVI Bis 1. Medios de comunicación: Son los que pueden ser captados simultáneamente por gran cantidad de individuos. Se entenderán como tales a los medios electrónicos, medios impresos, medios digitales, medios públicos y medios complementarios, conforme a la siguiente clasificación:
+XVI Bis 4. Medios de comunicación: Son los que pueden ser captados simultáneamente por gran cantidad de individuos. Se entenderán como tales a los medios electrónicos, medios impresos, medios digitales, medios públicos y medios complementarios, conforme a la siguiente clasificación:
 
 a) Medios electrónicos: Medios de comunicación masivos tales como radio y televisión, que difunden mensajes a través de impulsos radioeléctricos;
 
@@ -193,7 +205,13 @@ XVII Bis 1. Prácticas nocivas: Formas de conducta persistentes que se fundament
 
 XVII Ter. Primera Infancia: Periodo de vida de las niñas y niños menores de seis años, en el que se sientan las bases para su desarrollo;
 
-XVIII. Procuraduría de Protección: La Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Estado de Hidalgo;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2026)</small>
+
+XVIII. Procuraduría Estatal de Protección: La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Hidalgo;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2026)</small>
+
+XVIII Bis. Procuradurías Municipales: Las Procuradurías Municipales de Protección de Niñas, Niños y Adolescentes;
 
 XIX. Programa Estatal: El Programa Estatal de Protección de Niñas, Niños y Adolescentes;
 
@@ -201,11 +219,23 @@ XX. Programa Nacional: El Programa Nacional de Protección de Niñas, Niños y A
 
 XXI. Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de la Ley General de los Derechos de las Niñas, Niños y Adolescentes, la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Hidalgo y los Tratados Internacionales de los que el Estado Mexicano forma parte;
 
-XXII. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de la Procuraduría de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2026)</small>
+
+XXII. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que de manera oficiosa, quedará a cargo de la Procuraduría Estatal de Protección y de las Procuradurías Municipales, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
 
 XXIII. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en esta Ley y demás disposiciones aplicables;
 
-XXIV. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección, conforme a sus respectivos ámbitos de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2026)</small>
+
+XXIV. Representación en Suplencia: La representación de niñas, niños y adolescentes que ejercen la Procuraduría Estatal de Protección o las Procuradurías Municipales, la cual, en términos del artículo 105 de esta Ley, puede presentarse en los siguientes supuestos:
+
+a) A falta de quienes ejerzan la representación originaria;
+
+b) Cuando existan indicios de conflicto de interés entre quienes ejerzan la representación originaria o de éstos con las niñas, niños y adolescentes, y
+
+c) Por una representación originaria deficiente o dolosa.
+
+Lo anterior en el ámbito de atribuciones de dichas Procuradurías, sin perjuicio de la intervención que corresponda al Ministerio Público;
 
 XXV. Sistema DIF Hidalgo: El Sistema para el Desarrollo Integral de la Familia del Estado de Hidalgo;
 
@@ -1577,11 +1607,17 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 Los medios de comunicación locales, en cualquiera de sus modalidades reconocidas en esta Ley, deberán asegurarse que las imágenes, voz o datos a difundir, no pongan en peligro, de forma individual o colectiva, la vida, integridad, dignidad o vulneren el ejercicio de derechos de niñas, niños y adolescentes, aun cuando se modifiquen, se difuminen o no se especifiquen sus identidades, y evitarán la difusión de imágenes o noticias que propicien o sean tendentes a su discriminación, criminalización o estigmatización, en contravención a las disposiciones aplicables.
 
-En caso de incumplimiento a lo establecido en el presente artículo, niñas, niños o adolescentes afectados, por conducto de su representante legal o, en su caso, de la Procuraduría de Protección, actuando de oficio o en representación sustituta, podrá promover las acciones civiles de reparación del daño e iniciar los procedimientos por la responsabilidad administrativa a que haya lugar; así como dar seguimiento a los procedimientos hasta su conclusión.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2026)</small>
 
-Niñas, niños o adolescentes afectados, considerando su edad, grado de desarrollo cognoscitivo y madurez, solicitarán la intervención de la Procuraduría de Protección.
+En caso de incumplimiento a lo establecido en el presente artículo, niñas, niños o adolescentes afectados, por conducto de su representante legal o, en su caso, de la Procuraduría Estatal de Protección o de las Procuradurías Municipales, actuando de oficio o en representación en suplencia, podrán promover las acciones civiles de reparación del daño e iniciar los procedimientos por la responsabilidad administrativa a que haya lugar; así como dar seguimiento a los procedimientos hasta su conclusión.
 
-En los procedimientos civiles, familiares o administrativos que sean iniciados o promovidos por quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la Procuraduría de Protección ejercerá su representación coadyuvante.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2026)</small>
+
+Niñas, niños o adolescentes afectados, considerando su edad, grado de desarrollo cognoscitivo y madurez, solicitarán la intervención de la Procuraduría Estatal de Protección o de las Procuradurías Municipales.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2026)</small>
+
+En los procedimientos civiles, familiares, penales o administrativos que sean iniciados o promovidos por quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la Procuraduría Estatal de Protección o las Procuradurías Municipales, según sea el caso, ejercerán su representación coadyuvante.
 
 ###### Artículo 80.
 
@@ -1639,13 +1675,17 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 Lo anterior, sin perjuicio de las responsabilidades civiles y familiares que correspondan a quienes ejerzan la patria potestad, tutela o guarda y custodia, conforme a las disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ABRIL DE 2026)</small>
+
 ###### Artículo 84.
 
-En aquellos casos en que el Ministerio Público o cualquier otra autoridad, tenga conocimiento de la presunta comisión o participación de una niña o niño en un hecho que la ley señale como delito, de manera inmediata dará aviso a la Procuraduría de Protección.
+En aquellos casos en que el Ministerio Público o cualquier otra autoridad tenga conocimiento de la presunta comisión o participación de una niña, niño o adolescente en un hecho que la ley señale como delito, de manera inmediata dará aviso a la Procuraduría Estatal de Protección o a las Procuradurías Municipales.
 
 Niñas o niños, en ningún caso podrán ser detenidos, retenidos o privados de su libertad por la supuesta comisión o participación en un hecho que la ley señale como delito.
 
-La Procuraduría de Protección, en el marco de sus atribuciones, deberá, en su caso, solicitar a la autoridad competente de manera inmediata las medidas necesarias para la protección integral, de asistencia social y en su caso, restitución de sus derechos y garantizar que niñas y niños no sean objeto de discriminación.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2026)</small>
+
+La Procuraduría Estatal de Protección o las Procuradurías Municipales, en el marco de sus atribuciones, deberán, en su caso, solicitar a la autoridad competente de manera inmediata las medidas necesarias para la protección integral, de asistencia social y en su caso, restitución de sus derechos y garantizar que niñas, niños y adolescentes no sean objeto de discriminación.
 
 Toda medida que se adopte será susceptible de revisión por el órgano judicial competente en un proceso contradictorio en el que se garantice, por lo menos, el derecho a ser oído y la asistencia de un abogado especializado.
 
@@ -1677,9 +1717,11 @@ VI. Adoptar las medidas necesarias para evitar la revictimización de niñas, ni
 
 VII. Que se admitan las medidas de protección urgentes o cautelares correspondientes, para evitar posibles daños a su integridad personal y cualquier tipo de violencia en su contra.
 
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2026)</small>
+
 ###### Artículo 86.
 
-Siempre que se encuentre una niña, niño o adolescente en el contexto de la comisión de un delito, se notificará de inmediato a quienes ejerzan la patria potestad, tutela o guarda y custodia, así como a la Procuraduría de Protección.
+Siempre que se encuentre una niña, niño o adolescente en el contexto de la comisión de un delito, se notificará de inmediato a quienes ejerzan la patria potestad, tutela o guarda y custodia, así como a la Procuraduría Estatal de Protección o a las Procuradurías Municipales.
 
 ###### Artículo 87.
 
@@ -1701,9 +1743,13 @@ El presente capítulo se refiere a las medidas especiales de protección que las
 
 Las autoridades estatales y municipales, deberán proporcionar, de conformidad con sus competencias, los servicios correspondientes a niñas, niños y adolescentes en situación de migración, independientemente de su nacionalidad o su situación migratoria.
 
-En tanto, el Instituto Nacional de Migración determine la condición migratoria de la niña, niño o adolescente, el Sistema DIF Hidalgo deberá brindar la protección que prevé esta Ley y demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2026)</small>
 
-El principio del interés superior de la niñez será una consideración primordial que se tomará en cuenta durante el procedimiento administrativo migratorio al que estén sujetos niñas, niños y adolescentes migrantes, en el que se estimarán las posibles repercusiones de la decisión que se tome en cada caso.
+En tanto el Instituto Nacional de Migración determine la condición migratoria de la niña, niño o adolescente, el Sistema DIF Hidalgo y los Sistemas DIF municipales deberán brindar la protección que prevé esta Ley y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2026)</small>
+
+El principio del interés superior de la niñez será una consideración primordial que se tomará en cuenta durante el procedimiento administrativo migratorio al que estén sujetos niñas, niños y adolescentes en contexto de movilidad humana, en el que se estimarán las posibles repercusiones de la decisión que se tome en cada caso.
 
 ###### Artículo 89.
 
@@ -1763,11 +1809,13 @@ Está prohibido devolver, expulsar, deportar, retornar, rechazar en frontera o n
 
 Cualquier decisión sobre la devolución de una niña, niño o adolescente al país de origen o a un tercer país seguro, sólo podrá basarse en los requerimientos de su interés superior.
 
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2026)</small>
+
 ###### Artículo 97.
 
-En caso de que los Sistemas DIF estatal o municipales, identifiquen, mediante una evaluación inicial, a niñas, niños o adolescentes extranjeros que sean susceptibles de reconocimiento de condición de refugiado o de asilo, lo comunicarán al Instituto Nacional de Migración, Delegación Hidalgo, a fin de adoptar medidas de protección especial.
+En caso de que los Sistemas DIF estatal o municipales, la Procuraduría Estatal de Protección o las Procuradurías Municipales identifiquen, mediante una evaluación inicial, a niñas, niños o adolescentes extranjeros que sean susceptibles de reconocimiento de condición de refugiado o de asilo, lo comunicarán al Instituto Nacional de Migración, Delegación Hidalgo, a fin de adoptar medidas de protección especial.
 
-El Sistema DIF Hidalgo y los sistemas DIF Municipales, en coordinación con las instituciones competentes, deberán identificar a las niñas, niños y adolescentes extranjeros que requieren de protección internacional, ya sea como refugiado o de algún otro tipo, a través de una evaluación inicial con garantías de seguridad y privacidad, con el fin de proporcionarles el tratamiento adecuado e individualizado que sea necesario mediante la adopción de medidas de protección especial.
+El Sistema DIF Hidalgo, los sistemas DIF Municipales, la Procuraduría Estatal de Protección y las Procuradurías Municipales, en coordinación con las instituciones competentes, deberán identificar a las niñas, niños y adolescentes extranjeros que requieren de protección internacional, ya sea como refugiado o de algún otro tipo, a través de una evaluación inicial con garantías de seguridad y privacidad, con el fin de proporcionarles el tratamiento adecuado e individualizado que sea necesario mediante la adopción de medidas de protección especial.
 
 ###### Artículo 98.
 
@@ -2005,13 +2053,23 @@ III. Que personal de instituciones de salud, asistencia social, académicas, dep
 
 IV. Que quienes tengan trato con niñas, niños y adolescentes se abstengan de ejercer cualquier tipo de violencia en su contra, en particular el castigo corporal y humillante.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ABRIL DE 2026)</small>
+
 ###### Artículo 105.
 
-A falta de quienes ejerzan la representación originaria de niñas, niños y adolescentes, o cuando por otra causa así lo determine el órgano jurisdiccional o autoridad administrativa competente, con base en el interés superior de la niñez, la representación en suplencia corresponderá a la Procuraduría de Protección.
+A falta de quienes ejerzan la representación originaria de niñas, niños y adolescentes, o cuando por otra causa así lo determine el órgano jurisdiccional o autoridad administrativa competente, con base en el interés superior de la niñez, la representación en suplencia corresponderá a la Procuraduría Estatal de Protección o a las Procuradurías Municipales.
 
-Las autoridades estatales y municipales, garantizarán que en cualquier procedimiento jurisdiccional o administrativo se dé intervención a la Procuraduría de Protección para que ejerza la representación coadyuvante, de conformidad con lo dispuesto en esta Ley y en las demás disposiciones aplicables.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2026)</small>
 
-Asimismo, dispondrán que cuando existan indicios de conflicto de intereses entre quienes ejerzan la representación originaria o de éstos con niñas, niños y adolescentes o por una representación deficiente o dolosa, a petición del Ministerio Público, de la Procuraduría de Protección o de oficio, el órgano jurisdiccional o administrativo que conozca del asunto, deberá sustanciar por vía incidental, un procedimiento sumario de restricción, suspensión o revocación de la representación originaria, según sea el caso, para efectos de que la Procuraduría de Protección ejerza la representación en suplencia.
+Las autoridades estatales y municipales garantizarán que en cualquier procedimiento jurisdiccional o administrativo se dé intervención a la Procuraduría Estatal de Protección o a las Procuradurías Municipales para que ejerzan la representación coadyuvante, de conformidad con lo dispuesto en esta Ley y en las demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2026)</small>
+
+Asimismo, dispondrán que cuando existan indicios de conflicto de intereses entre quienes ejerzan la representación originaria o de éstos con niñas, niños y adolescentes o por una representación deficiente o dolosa, a petición del Ministerio Público, de la Procuraduría Estatal de Protección, de las Procuradurías Municipales, o de oficio, el órgano jurisdiccional o administrativo que conozca del asunto, deberá sustanciar por vía incidental, un procedimiento sumario de restricción, suspensión o revocación de la representación originaria, según sea el caso, para efectos de que la Procuraduría Estatal de Protección o las Procuradurías Municipales ejerzan la representación en suplencia.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2026)</small>
+
+En todos los casos en que las Procuradurías Municipales tengan noticia o intervengan de cualquier forma en procedimientos jurisdiccionales o administrativos relacionados con niñas, niños y adolescentes; promuevan o participen en procedimientos de restricción, suspensión o revocación de la representación originaria; o sean convocadas al procedimiento para ejercer la representación coadyuvante o en suplencia, deberán dar aviso a la Procuraduría Estatal de Protección, a fin de generar expedientes y registros homologados de atención, así como para coordinar la ejecución de sus actividades, en el ámbito de competencia correspondiente.
 
 > <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2024)</small>
 
@@ -2163,7 +2221,11 @@ Las autoridades estatales y municipales y de los organismos constitucionales aut
 
 Las políticas públicas emprendidas por dichas autoridades garantizarán el ejercicio de los derechos de niñas, niños y adolescentes, para lo cual deberán observar el interés superior de la niñez y asegurar la asignación prioritaria de recursos en términos de las disposiciones aplicables.
 
-### Capítulo Tercero. De la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia
+### Capítulo Tercero
+
+De la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Hidalgo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ABRIL DE 2026)</small>
 
 ###### Artículo 114.
 
@@ -2273,9 +2335,13 @@ III. Promover la libre manifestación de ideas de niñas, niños y adolescentes 
 
 IV. Ser enlace entre la administración pública municipal y niñas, niños y adolescentes que deseen manifestar inquietudes;
 
-V. Recibir quejas y denuncias por violaciones a los derechos contenidos en la presente Ley y demás disposiciones aplicables, así como canalizarlas de forma inmediata a la Procuraduría de Protección, sin perjuicio que ésta pueda recibirlas directamente;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2026)</small>
 
-VI. Auxiliar a la Procuraduría de Protección en las medidas urgentes de protección que ésta determine, y coordinar las acciones que correspondan en el ámbito de sus atribuciones;
+V. Por conducto de las Procuradurías Municipales, recibir quejas y denuncias por violaciones a los derechos contenidos en la presente Ley y demás disposiciones aplicables, debiendo brindar la atención correspondiente y comunicarlas a la Procuraduría Estatal de Protección, sin perjuicio que ésta pueda recibirlas y atenderlas directamente;
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2026)</small>
+
+VI. Auxiliar a la Procuraduría Estatal de Protección y a la Procuraduría Municipal en la ejecución de las medidas especiales o urgentes de protección que éstas determinen, y coordinar las acciones que correspondan en el ámbito de sus atribuciones;
 
 VII. Promover, con la aprobación del Cabildo, la celebración de convenios de coordinación con las autoridades competentes, así como con otras instancias públicas o privadas, para la atención y protección de niñas, niños y adolescentes;
 
@@ -2289,19 +2355,39 @@ XI. Impulsar la participación de las organizaciones privadas dedicadas a la pro
 
 XII. Las demás que establezca el ordenamiento jurídico estatal y aquéllas que deriven de los acuerdos que, de conformidad con la presente Ley, se asuman en el Sistema Nacional DIF y el Sistema DIF Hidalgo.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 13 DE ABRIL DE 2026)</small>
+
 ### Capítulo Cuarto. Del Sistema Estatal de Protección Integral
 
 ###### Artículo 118.
 
-Para una efectiva protección y restitución de los derechos de niñas, niños y adolescentes, el Gobierno del Estado de Hidalgo, dentro de la estructura del Sistema DIF Hidalgo, contará con un Órgano Administrativo Desconcentrado con autonomía técnica, denominado Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia.
+Para una efectiva protección especial y restitución de los derechos de niñas, niños y adolescentes, el Gobierno del Estado de Hidalgo, dentro de la estructura del Sistema DIF Hidalgo, contará con un Órgano Administrativo Desconcentrado con autonomía técnica, operativa y de gestión, con funciones de autoridad administrativa, denominado Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Hidalgo; la cual deberá contar con la estructura orgánica necesaria que garantice su operatividad para el cumplimiento de su objetivo.
 
-En el ejercicio de sus funciones, la Procuraduría de Protección podrá solicitar el auxilio de autoridades federales, estatales y municipales, las que estarán obligadas a proporcionarlo de conformidad con las disposiciones aplicables.
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2026)</small>
 
-Para la debida determinación, coordinación de la ejecución y seguimiento de las medidas de protección integral y restitución de los derechos de niñas, niños y adolescentes, la Procuraduría de Protección deberá establecer contacto y trabajar conjuntamente con todas las autoridades, instituciones y corporaciones con las que sea necesario para garantizar los derechos de niñas, niños y adolescentes, en términos de lo dispuesto en los artículos 1° de la Constitución Política de los Estados Unidos Mexicanos y 4 de la Constitución Pública del Estado.
+La Procuraduría Estatal de Protección contará con legitimación suficiente para comparecer y actuar ante autoridades jurisdiccionales y administrativas con el objeto de proteger los derechos de la niñez y la adolescencia, conforme a las atribuciones de esta Ley y demás disposiciones aplicables. Para tales efectos, podrá ser representada y actuar por conducto de su titular o de las personas servidoras públicas designadas y autorizadas a quienes se les delegue dicha representación, mediante oficio simple firmado por la persona titular.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2026)</small>
+
+Además, coordinará y supervisará a las Procuradurías Municipales, estableciendo lineamientos y metodologías obligatorios para la atención de casos que garanticen la uniformidad de criterios y condiciones paritarias en todo el territorio estatal.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2026)</small>
+
+La Procuraduría Estatal de Protección contará con la facultad de atracción respecto de los asuntos que se inicien o se encuentren en trámite en las Procuradurías Municipales, cuando por su complejidad, trascendencia, impacto social o interés superior de la niñez y la adolescencia, se estime necesario para garantizar una adecuada protección y restitución de derechos. Dicha facultad podrá ejercerse de manera oficiosa o a petición de las Procuradurías Municipales, y en todos los casos la determinación de su ejercicio deberá recaer en un acuerdo o instrumento equivalente, debidamente fundado y motivado.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2026)</small>
+
+En el ejercicio de sus funciones, la Procuraduría Estatal de Protección podrá solicitar el auxilio de autoridades federales, estatales y municipales, las que estarán obligadas a proporcionarlo de conformidad con las disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2026)</small>
+
+Para la debida determinación, coordinación de la ejecución y seguimiento de las medidas de protección integral y restitución de los derechos de niñas, niños y adolescentes, la Procuraduría Estatal de Protección deberá establecer contacto y trabajar conjuntamente con todas las autoridades, instituciones y corporaciones con las que sea necesario para garantizar los derechos de niñas, niños y adolescentes, en términos de lo dispuesto en los artículos 1° de la Constitución Política de los Estados Unidos Mexicanos y 4 de la Constitución Pública del Estado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ABRIL DE 2026)</small>
 
 ###### Artículo 119.
 
-La Procuraduría de Protección tendrá las atribuciones siguientes:
+La Procuraduría Estatal de Protección tendrá las atribuciones siguientes:
 
 I. Procurar la protección integral de niñas, niños y adolescentes que prevé la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, los Tratados Internacionales, esta Ley y demás disposiciones aplicables; dicha protección integral deberá abarcar, por lo menos:
 
@@ -2317,15 +2403,19 @@ I Bis. Asumir en suplencia de los padres, la tutela de las niñas, niños y adol
 
 II. Prestar asesoría y representación en suplencia a niñas, niños y adolescentes involucrados en procedimientos judiciales o administrativos, sin perjuicio de las atribuciones que le correspondan al Ministerio Público, así como intervenir oficiosamente, con representación coadyuvante, en todos los procedimientos jurisdiccionales y administrativos en que participen niñas, niños y adolescentes, de conformidad con lo dispuesto en la presente Ley y demás disposiciones aplicables;
 
-> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2026)</small>
 
-III. Solicitar, coordinar la ejecución y dar seguimiento a las medidas de protección para la restitución integral de los derechos de niñas, niños y adolescentes, a fin de que las instituciones competentes actúen de manera oportuna y articulada;
+III. Solicitar a las autoridades administrativas o jurisdiccionales las medidas de protección para la restitución integral de los derechos de niñas, niños y adolescentes; coordinar su ejecución y darles seguimiento a fin de que las instituciones competentes actúen de manera oportuna y articulada; y promover la exigibilidad de su cumplimiento cuando quienes estén obligados a llevarlas a cabo se abstengan de realizarlas;
 
 IV. Fungir como conciliador y mediador en casos de conflicto familiar, cuando los derechos de niñas, niños y adolescentes hayan sido restringidos o vulnerados, conforme a las disposiciones aplicables. La conciliación no procederá en casos de violencia;
 
-V. Denunciar ante el Ministerio Público aquellos hechos que se presuman constitutivos de delito en contra de niñas, niños y adolescentes;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2026)</small>
 
-VI. Solicitar al Ministerio Público competente la imposición de medidas urgentes de protección especial idóneas, cuando exista un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes, quien deberá decretarlas a más tardar, durante las siguientes 3 horas a la recepción de la solicitud, dando aviso de inmediato a la autoridad jurisdiccional competente. Son medidas urgentes de protección especial en relación con niñas, niños y adolescentes, además de las establecidas en el Código Nacional de Procedimientos Penales, las siguientes:
+V. Denunciar ante el Ministerio Público aquellos hechos que se presuman constitutivos de delito en agravio de niñas, niños y adolescentes;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ABRIL DE 2026)</small>
+
+VI. Solicitar al Ministerio Público competente la imposición de medidas urgentes de protección idóneas, cuando exista un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes, quien deberá decretarlas a más tardar, durante las siguientes 3 horas a la recepción de la solicitud, dando aviso de inmediato a la autoridad jurisdiccional competente. Son medidas urgentes de protección en relación con niñas, niños y adolescentes, además de las establecidas en el Código Nacional de Procedimientos Penales, las siguientes:
 
 a) El ingreso de una niña, niño o adolescente a un centro de asistencia social; y
 
@@ -2333,19 +2423,27 @@ b) La atención médica inmediata por parte de alguna institución del Sistema E
 
 Dentro de las 24 horas siguientes a la imposición de la medida urgente de protección, el órgano jurisdiccional competente deberá pronunciarse sobre la cancelación, ratificación o modificación de la medida que se encuentre vigente;
 
-VII. Ordenar, fundada y motivadamente, bajo su más estricta responsabilidad, la aplicación de medidas urgentes de protección especial establecidas en la fracción anterior, cuando exista riesgo inminente contra la vida, integridad o libertad de niñas, niños o adolescentes, dando aviso de inmediato al Ministerio Público y a la autoridad jurisdiccional competente.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ABRIL DE 2026)</small>
+
+VII. Ordenar, fundada y motivadamente, bajo su más estricta responsabilidad, la aplicación de medidas urgentes de protección establecidas en la fracción anterior, cuando exista riesgo inminente contra la vida, integridad o libertad de niñas, niños o adolescentes, dando aviso de inmediato al Ministerio Público y a la autoridad jurisdiccional competente.
 
 Dentro de las 24 horas siguientes a la imposición de la medida urgente de protección el órgano jurisdiccional competente deberá pronunciarse sobre la cancelación, ratificación o modificación de la medida que se encuentre vigente.
 
-Para la imposición de las medidas urgentes de protección, la persona Titular de la Procuraduría de Protección podrá solicitar el auxilio de las instituciones policiales competentes; en caso de incumplimiento podrá solicitar la imposición de medidas de apremio a la autoridad competente;
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2026)</small>
 
-> <small>(ADICIONADA, P.O. 21 DE OCTUBRE DE 2022)</small>
+Para la imposición de las medidas urgentes de protección, la persona titular de la Procuraduría Estatal de Protección podrá solicitar el auxilio de las instituciones policiales competentes; en caso de incumplimiento podrá solicitar la imposición de medidas de apremio a la autoridad competente;
 
-VII Bis. Promover ante las autoridades competentes la pérdida definitiva de la patria potestad, así como la imposibilidad de ejercer la guarda y custodia de niñas, niños y adolescentes derivado (sic) víctimas de violencia familiar o derivado de violencia vicaria;
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2026)</small>
 
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2023)</small>
+VII Bis. Solicitar a las Procuradurías Municipales la remisión inmediata de la información y documentación necesaria para promover u ordenar una medida urgente de protección, en los casos en que se tenga conocimiento o se presuma la existencia de un riesgo inminente contra la vida, integridad o libertad de niñas, niños o adolescentes;
 
-VII Ter. Velar la debida implementación de protocolos específicos para la atención integral y restitución de los derechos de niñas, niños y adolescentes víctimas de delitos, garantizando el interés superior de la niñez en todas las etapas del procedimiento penal;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2026)</small>
+
+VII Ter. Promover ante las autoridades competentes la pérdida de la patria potestad de niñas, niños y adolescentes que hayan sido víctimas de cualquier tipo de violencia, cuando así convenga a su interés superior;
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2026)</small>
+
+VII Quater. Velar la debida implementación de protocolos específicos para la atención integral y restitución de los derechos de niñas, niños y adolescentes;
 
 VIII. Promover la participación de los sectores público, social y privado en la planificación y ejecución de acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes;
 
@@ -2357,7 +2455,9 @@ IX Bis. Auxiliar a las autoridades competentes que le requieran información sob
 
 X. Desarrollar los lineamentos y procedimientos a los que se sujetarán para la restitución de los derechos de niñas, niños y adolescentes;
 
-XI. Coadyuvar con el Sistema DIF Hidalgo y los Sistemas DIF Municipales en la elaboración de los lineamientos y procedimientos para registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, considerando los requisitos señalados para el acogimiento pre-adoptivo, así como para emitir los certificados de idoneidad;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2026)</small>
+
+XI. Coadyuvar con el Sistema DIF Hidalgo y los Sistemas DIF Municipales en la elaboración de los lineamientos y procedimientos para registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, considerando los requisitos señalados para el acogimiento pre-adoptivo, así como para emitir los certificados de idoneidad, en caso de ser procedente su emisión;
 
 XII. Proporcionar información para integrar y sistematizar los Registros Nacional y Estatal de Centros de Asistencia Social;
 
@@ -2371,19 +2471,81 @@ XV. Realizar y promover estudios e investigaciones para fortalecer las acciones 
 
 XVI. Dentro del marco de sus atribuciones y de los procedimientos aplicables, realizar acercamiento con niñas, niños y adolescentes para identificar posibles indicadores de cualquier tipo de violencia y/o necesidades emocionales; con la finalidad de realizar un diagnóstico oportuno que permita solicitar y decretar las medidas de protección necesarias;
 
-XVII. Las demás que les confieran otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2026)</small>
 
-> <small>(ADICIONADO, P.O. 17 DE MAYO DE 2024)</small>
+XVII. Recibir por escrito el consentimiento de adopción por parte de quienes ejerzan la patria potestad sobre niñas, niños o adolescentes, así como la entrega de forma voluntaria de los mismos con fines de adopción, para su ingreso a un Centro de Asistencia Social. Dicho acto jurídico tendrá carácter de irrevocable.
+
+Para estos efectos, quienes ejercen la patria potestad deberán presentar certificado electrónico de nacimiento o copia certificada del acta de nacimiento de la persona menor de edad.
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2026)</small>
+
+XVIII. Realizar todos los trámites concernientes a la integración de los expedientes de las personas y familias solicitantes de adopción, así como las valoraciones correspondientes para determinar su idoneidad, en caso de ser procedente;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2026)</small>
+
+XIX. Promover el procedimiento especial de adopción de niñas, niños y adolescentes susceptibles de adopción que estén bajo la tutela del sistema DIF Hidalgo; realizar los trámites para el acogimiento preadoptivo ante el Consejo Técnico de Adopciones y demás autoridades relacionadas; y brindar seguimiento postadoptivo, una vez integrada la niña, niño o adolescente a su familia adoptiva;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2026)</small>
+
+XX. Promover ante las autoridades competentes todos los trámites conducentes al acogimiento familiar de niñas, niños o adolescentes que estén bajo la tutela del Sistema DIF Hidalgo, como medida de protección de carácter temporal;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2026)</small>
+
+XXI. Realizar las valoraciones de las personas que soliciten su certificación para asumir el carácter de familia de acogida; determinar la idoneidad de las personas solicitantes en caso de ser procedente; realizar en su caso los trámites administrativos para la integración de niñas, niños y adolescentes a dicha familia, y brindar el seguimiento correspondiente posterior a la integración;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2026)</small>
+
+XXII. Solicitar a la autoridad jurisdiccional o ministerial, ordene la separación del núcleo familiar de aquella persona que se encuentre ejerciendo el cuidado o conviviendo con algún niña, niño o adolescente, cuando se conozca o se presuma fundadamente la existencia de un peligro inminente e inmediato a la integridad o seguridad de la persona menor de edad. Esta medida de protección tendrá carácter preventivo y estrictamente provisional por el tiempo que resulte indispensable; y solo podrá autorizarse cuando otra persona adulta pueda ejercer el cuidado de la niña, niño o adolescente en el mismo núcleo familiar;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2026)</small>
+
+XXIII. Solicitar a la autoridad jurisdiccional o ministerial, ordene el resguardo temporal de niñas, niños y adolescentes con su familia extensa o ampliada, con el objetivo de privilegiar su cuidado en un entorno que le es conocido y protector, cuando se conozca o se presuma fundadamente la existencia de un peligro inminente e inmediato a la integridad o seguridad de la persona menor de edad en su núcleo familiar. Esta medida de protección tendrá carácter preventivo y estrictamente provisional por el tiempo que resulte indispensable;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2026)</small>
+
+XXIV. Ordenar, fundada y motivadamente, bajo su más estricta responsabilidad, el resguardo temporal de niñas, niños y adolescentes con su familia extensa o ampliada, con el objetivo de privilegiar su cuidado en un entorno que le es conocido y protector, cuando se detecte o se presuma fundadamente la existencia de un peligro inminente e inmediato a la integridad o seguridad de la persona menor de edad en su núcleo familiar.
+
+Esta medida de protección tendrá carácter preventivo y estrictamente provisional por el tiempo que resulte indispensable, y deberá ser puesta de conocimiento inmediato a la autoridad jurisdiccional o ministerial competente, para que se pronuncie a la brevedad sobre la cancelación, ratificación o modificación de la medida;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2026)</small>
+
+XXV. Establecer y mantener una coordinación adecuada con las Agencias del Ministerio Público; así como con las autoridades de seguridad pública del Estado y los municipios, para lograr, cuando sea necesario, su intervención oportuna y brindar atención a niños, niñas y adolescentes que resulten víctimas de cualquier tipo de violencia;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2026)</small>
+
+XXVI. Coadyuvar en la vigilancia del cumplimiento de las disposiciones laborales aplicables a adolescentes;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2026)</small>
+
+XXVII. Realizar ante el Registro del Estado Familiar, el registro de nacimiento de las niñas, niños y adolescentes expósitos o abandonados, en los casos que corresponda;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2026)</small>
+
+XXVIII. Realizar acercamiento psicológico con niñas, niños y adolescentes, en el lugar en el que se encuentren, para identificar posibles indicadores de cualquier tipo de violencia y sus necesidades emocionales, con la finalidad de realizar un diagnóstico oportuno que permita decretar o solicitar las medidas de protección necesarias;
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2026)</small>
+
+XXIX. Atender reportes de posibles vulneraciones a los derechos de niñas, niños y adolescentes. Para estos efectos, podrá vincularse con las autoridades educativas de instituciones públicas o privadas, con el propósito de ingresar a las mismas para llevar a cabo los acercamientos necesarios con las personas menores de edad, las autoridades directivas, administrativas y docentes, y en general con la comunidad educativa para recabar la información relacionada con su entorno familiar y escolar, y
+
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2026)</small>
+
+XXX. Las demás que le confieran la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, los tratados internacionales, los ordenamientos federales y locales, esta Ley y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2026)</small>
 
 ###### Artículo 119 Bis.
 
-En los casos que se detecten embarazos de menores de 18 años, los servicios de salud darán vista a la Procuraduría de Protección, a efecto de denunciar ante el Ministerio Público aquellos hechos en los que se presuman conductas delictivas en contra de las niñas y adolescentes.
+En los casos en que se detecten embarazos de personas menores de 18 años, los servicios de salud darán vista al Ministerio Público sobre aquellos hechos en los que se presuman conductas delictivas en agravio de niñas y adolescentes. En estos casos, la autoridad ministerial solicitará la intervención de la Procuraduría Estatal de Protección o de las Procuradurías Municipales, para los efectos de lo establecido en los artículos 86, 105, 119 y 135 Ter del presente ordenamiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ABRIL DE 2026)</small>
 
 ###### Artículo 120.
 
-Para solicitar la protección y restitución integral de los derechos de niñas, niños y adolescentes, la Procuraduría de Protección deberá seguir el siguiente procedimiento:
+Para solicitar la protección y restitución integral de los derechos de niñas, niños y adolescentes, la Procuraduría Estatal de Protección deberá cumplir el siguiente procedimiento:
 
-I. Detectar o recibir casos de restricción y vulneración de derechos de niñas, niños y adolescentes;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2026)</small>
+
+I. Detectar o recibir casos de restricción o vulneración de derechos de niñas, niños y adolescentes. La Procuraduría podrá recibir reportes de forma anónima cuando éstos provengan de particulares, garantizando en todo momento la confidencialidad y reserva de sus datos personales. En tales casos, tendrá la obligación de realizar las diligencias necesarias para su atención, sin perjuicio de denunciar ante las autoridades competentes cualquier violación o vulneración de derechos. Cuando se adviertan situaciones relacionadas con la posible comisión de delitos en agravio de personas menores de edad, deberá dar aviso de inmediato al Ministerio Público;
 
 II. Acercarse a la familia o lugares en donde se encuentren las niñas, niños y adolescentes para diagnosticar la situación de sus derechos cuando exista información sobre posible restricción o vulneración de los mismos;
 
@@ -2395,23 +2557,33 @@ V. Acordar y coordinar con las instituciones que corresponda el cumplimiento del
 
 VI. Dar seguimiento a cada una de las acciones del plan de restitución de derechos, hasta cerciorarse de que todos los derechos de la niña, niño o adolescente se encuentren garantizados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ABRIL DE 2026)</small>
+
 ###### Artículo 121.
 
-Los requisitos para ocupar la titularidad de la Procuraduría de Protección, son los siguientes:
+Los requisitos para ocupar la titularidad de la Procuraduría Estatal de Protección, son los siguientes:
 
 I. Gozar de ciudadanía en pleno goce de sus derechos civiles y políticos;
 
 II. Contar con título profesional de licenciatura en derecho, debidamente registrado;
 
-> <small>(REFORMADA, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2026)</small>
 
-III. Contar con al menos cinco años de experiencia en materia de procuración, impartición de justicia y/o defensa de niñas, niños y adolescentes; y
+III. Contar con al menos tres años de experiencia en materia de defensa de los derechos de niñas, niños y adolescentes. De igual forma, contará preferentemente con experiencia en promoción de derechos humanos, derechos de la niñez, perspectiva de género, o procuración o impartición de justicia con perspectiva de infancia;
 
-IV. No haber sido sentenciado por delito doloso o inhabilitado como servidor público.
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2026)</small>
+
+IV. No estar condenado en sentencia firme por la comisión de un delito doloso o encontrarse inhabilitado como servidor público, y
+
+> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2026)</small>
+
+V. No ser declarada persona deudora alimentaria.
 
 El nombramiento de la persona Titular de la Procuraduría de Protección deberá ser aprobado por la Junta de Gobierno del Sistema DIF Hidalgo, a propuesta del Gobernador Constitucional del Estado de Hidalgo.
 
-La Procuraduría de Protección, contara con Subprocuradurías Regionales a efecto de que logre la mayor presencia y cobertura posible en los municipios, quienes contaran con unidades de atención acorde a la autonomía e independencia presupuestal de cada municipio.
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2026)</small>
+
+La Procuraduría Estatal de Protección contará con oficinas regionales a efecto de que logre la mayor presencia y cobertura posible, quienes coordinarán operativamente a las Procuradurías Municipales.
 
 ### Capítulo Quinto. Del Programa Estatal
 
@@ -2603,7 +2775,9 @@ Corresponde a la Unidad Técnica de Evaluación del Desempeño del Estado [UTED]
 
 La evaluación consistirá en revisar periódicamente el cumplimiento de metas y acciones en materia de derechos de niñas, niños y adolescentes y de acuerdo con el resultado, tanto el Consejo Nacional de Evaluación de la Política de Desarrollo Social [CONEVAL] y a la Unidad Técnica de Evaluación del Desempeño del Estado [UTED] podrán emitir las sugerencias y recomendaciones que consideren pertinentes a través de las instancias competentes.
 
-### Capítulo Noveno. De la Comisión Estatal de los Derechos Humanos
+### Capítulo Octavo Bis. De las Procuradurías Municipales de Protección de Niñas, Niños y Adolescentes
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2026)</small>
 
 ###### Artículo 134.
 
@@ -2680,6 +2854,104 @@ II. Contar con título profesional de nivel licenciatura, debidamente registrado
 III. Tener como mínimo tres años de experiencia en las áreas correspondientes a su función:
 
 IV. No haber sido sentenciado por delito doloso o inhabilitado como servidor público.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE ABRIL DE 2026)</small>
+
+### Capítulo Noveno. De la Comisión Estatal de los Derechos Humanos
+
+###### Artículo 135 Ter.
+
+Cada municipio deberá contar con una Procuraduría Municipal dentro de la estructura del Sistema Municipal para el Desarrollo Integral de la Familia, dotada de autonomía técnica y operativa, con funciones de autoridad administrativa, la cual tendrá por objeto la protección especial de niñas, niños y adolescentes que vivan dentro de su demarcación territorial o que se encuentren en tránsito en el municipio.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2026)</small>
+
+###### Artículo 135 Quater.
+
+Para el cumplimiento de su objeto, las Procuradurías Municipales contarán con las siguientes atribuciones:
+
+I.- Procurar la protección integral de niñas, niños y adolescentes que prevé la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, los Tratados Internacionales, la Ley General en la materia, esta Ley y las demás disposiciones aplicables, a través de por lo menos las siguientes acciones:
+
+a) La gestión de atención médica y psicológica;
+
+b) El seguimiento a las actividades académicas, de entorno social y cultural, y
+
+c) La inclusión, en su caso, de quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, en las medidas de rehabilitación y asistencia.
+
+II.- Prestar asesoría y representación en suplencia a niñas, niños y adolescentes involucrados en procedimientos judiciales o administrativos, sin perjuicio de las atribuciones que le correspondan al Ministerio Público, así como intervenir oficiosamente, con representación coadyuvante, en todos los procedimientos jurisdiccionales y administrativos en que participen niñas, niños y adolescentes, de conformidad con lo dispuesto en la presente Ley y demás disposiciones aplicables.
+
+Como parte del ejercicio de esta atribución, las Procuradurías Municipales deberán dar aviso a la Procuraduría Estatal de Protección acerca de los procedimientos jurisdiccionales o administrativos que inicien, promuevan, participen, o en los que sea solicitada o requerida su intervención. Lo anterior para los efectos de coordinación señalados en el párrafo cuarto del artículo 105 y en el artículo 117 de esta Ley, así como para que la instancia estatal determine y comunique si es procedente ejercer su facultad de atracción prevista en el artículo 118 de este ordenamiento.
+
+III.- Solicitar o determinar las medidas de protección especial que sean necesarias para la restitución integral de los derechos de niñas, niños y adolescentes; coordinar su ejecución y darles seguimiento a fin de que las instituciones competentes actúen de manera oportuna y articulada; así como promover su cumplimiento ante las instancias correspondientes.
+
+Cuando la Procuraduría Municipal advierta la existencia de un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes que amerite una medida urgente de protección, deberá proporcionar a la Procuraduría Estatal de Protección la documentación que acredite la necesidad de la misma, para que ésta, en el ámbito de sus atribuciones, la solicite o decrete, en términos de lo establecido por el artículo 119 de esta Ley;
+
+IV.- Supervisar la ejecución de las medidas de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial;
+
+V.- Fungir como instancia conciliadora y mediadora en casos de conflicto familiar, cuando los derechos de niñas, niños y adolescentes hayan sido restringidos o vulnerados, conforme a las disposiciones aplicables. La conciliación y mediación no procederán en casos de violencia;
+
+VI.- Denunciar ante el Ministerio Público aquellos hechos o conductas que se presuman constitutivos de delito cometido en agravio de niñas, niños y adolescentes;
+
+VII.- Difundir y aplicar los protocolos específicos que las instancias federales y estatales competentes en la materia autoricen para la atención integral y restitución de los derechos de niñas, niños y adolescentes;
+
+VIII.- Promover la participación de los sectores público, social y privado en la planificación y ejecución de acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes;
+
+IX.- Asesorar a las autoridades municipales competentes y a los sectores público, social y privado en el cumplimiento del marco normativo relativo a la protección de niñas, niños y adolescentes, conforme a las disposiciones aplicables;
+
+X.- Solicitar a la autoridad jurisdiccional o ministerial, ordene la separación del núcleo familiar de aquella persona que se encuentre ejerciendo el cuidado o conviviendo con algún niña, niño o adolescente, cuando se conozca o se presuma fundadamente la existencia de un peligro inminente e inmediato a la integridad o seguridad de la persona menor de edad. Esta medida de protección tendrá carácter preventivo y estrictamente provisional por el tiempo que resulte indispensable; y solo podrá autorizarse cuando otra persona adulta pueda ejercer el cuidado de la niña, niño o adolescente en el mismo núcleo familiar;
+
+XI.- Solicitar a la autoridad jurisdiccional o ministerial, ordene el resguardo temporal de niñas, niños y adolescentes con su familia extensa o ampliada, con el objetivo de privilegiar su cuidado en un entorno que le es conocido y protector, cuando se conozca o se presuma fundadamente la existencia de un peligro inminente e inmediato a la integridad o seguridad de la persona menor de edad en su núcleo familiar. Esta medida de protección tendrá carácter preventivo y estrictamente provisional por el tiempo que resulte indispensable;
+
+XII.- Llevar a cabo las acciones que resulten necesarias para el registro de nacimiento de las niñas, niños y adolescentes expósitos o abandonados ante el Registro del Estado Familiar en los casos que corresponda;
+
+XIII.- Realizar acercamiento psicológico con niñas, niños y adolescentes, en el lugar en el que se encuentren, para identificar posibles indicadores de cualquier tipo de violencia y sus necesidades emocionales, con la finalidad de realizar un diagnóstico oportuno que permita decretar o solicitar las medidas de protección necesarias;
+
+XIV.- Atender reportes de posibles vulneraciones a los derechos de niñas, niños y adolescentes. Para estos efectos, podrá vincularse con las autoridades educativas de instituciones públicas o privadas, con el propósito de llevar a cabo de llevar a cabo (sic) los acercamientos necesarios con las personas menores de edad, las autoridades directivas, administrativas y docentes, y en general con la comunidad educativa para recabar la información relacionada con su entorno familiar y escolar;
+
+XV.- Proporcionar a la Procuraduría Estatal de Protección, información para integrar y sistematizar los registros de información estatal y nacional en materia de derechos de niñas, niños y adolescentes;
+
+XVI.- Coadyuvar con la Procuraduría Estatal de Protección respecto a la atención de niñas, niños y adolescentes, en los términos establecidos en la Ley de Migración y la Ley General de Derechos de Niñas, Niños y Adolescentes, y
+
+XVII.- Las demás atribuciones establecidas en las disposiciones aplicables en la materia.
+
+Las Procuradurías Municipales deberán contar con la estructura orgánica necesaria que garantice su operatividad para el cumplimiento de su objetivo.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2026)</small>
+
+###### Artículo 135 Quinquies.
+
+La persona titular de cada Procuraduría Municipal será nombrada y removida por la presidenta o presidente municipal, y deberá cubrir obligatoriamente los requisitos que se señalan en el artículo 121 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2026)</small>
+
+###### Artículo 135 Sexies.
+
+Las Procuradurías Municipales contarán con legitimación suficiente para comparecer y actuar ante autoridades jurisdiccionales y administrativas con el objeto de proteger los derechos de la niñez y la adolescencia, conforme a las atribuciones de esta Ley y demás disposiciones aplicables. Para tales efectos, podrán ser representadas y actuar por conducto de su titular o de las personas servidoras públicas designadas y autorizadas a quienes se les delegue dicha representación, mediante oficio simple firmado por la persona titular de la Procuraduría Municipal.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2026)</small>
+
+###### Artículo 135 Septies.
+
+Para la debida determinación, coordinación de la ejecución y seguimiento de las medidas de protección integral y restitución de los derechos de niñas, niños y adolescentes, las Procuradurías Municipales deberán establecer contacto y trabajar conjuntamente con las autoridades administrativas de asistencia social, de servicios de salud, de educación, de protección social, de cultura, deporte y con todas aquellas con las que sea necesario.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2026)</small>
+
+###### Artículo 135 Octies.
+
+Para solicitar la protección y restitución integral de los derechos de niñas, niños y adolescentes, las Procuradurías Municipales deberá (sic) atender el siguiente procedimiento:
+
+I.- Detectar o recibir casos de restricción y vulneración de derechos de niñas, niños y adolescentes.
+
+Las Procuradurías Municipales podrán recibir reportes de forma anónima cuando éstos provengan de particulares, garantizando en todo momento la confidencialidad y reserva de sus datos personales. En tales casos, tendrán la obligación de realizar las diligencias necesarias para su atención, sin perjuicio de denunciar ante las autoridades competentes cualquier violación o vulneración de derechos. Cuando se adviertan situaciones relacionadas con la posible comisión de delitos en agravio de personas menores de edad, deberán dar aviso de inmediato al Ministerio Público;
+
+II.- Acercarse a la familia o a los lugares en donde se encuentren niñas, niños y adolescentes, para diagnosticar la situación de sus derechos, en los casos en que exista información sobre posible restricción o vulneración de los mismos;
+
+III.- Determinar, en cada uno de los casos identificados, los derechos de las niñas, niños o adolescentes que se encuentran restringidos o vulnerados;
+
+IV.- Elaborar, bajo el principio del interés superior de la niñez y adolescencia, un diagnóstico sobre la situación de vulneración y un plan de restitución de derechos, el cual deberá incluir las propuestas relativas al otorgamiento de medidas para la protección de las niñas, niños o adolescentes involucrados;
+
+V.- Acordar y coordinar con las instituciones que corresponda el cumplimiento del plan de restitución de derechos, y
+
+VI.- Dar seguimiento a cada una de las acciones del plan de restitución de derechos, hasta cerciorarse de que todos los derechos de las niñas, niños o adolescentes involucrados se encuentren garantizados.
 
 ### Capítulo Único. De las Infracciones y Sanciones Administrativas
 
@@ -3146,3 +3418,17 @@ P.O. 26 DE DICIEMBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Los ayuntamientos del Estado deberán emitir o actualizar su normatividad interna para efecto de dar cumplimiento a lo aprobado en este Decreto.
+
+P.O. 13 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 607 – LXVI POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO, DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO Y DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO, EN MATERIA DE FORTALECIMIENTO A LAS MEDIDAS DE PROTECCIÓN Y CREACIÓN DE LAS PROCURADURÍAS MUNICIPALES DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, la denominación de la actual Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia se modifica a “Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Hidalgo”, con las atribuciones y facultades establecidas en el artículo 119 del presente ordenamiento.
+
+TERCERO. Dentro del término de sesenta días naturales contados a partir de la entrada en vigor del presente Decreto, el Sistema Estatal para el de Desarrollo Integral de la Familia, por conducto de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Hidalgo, deberá emitir y publicar en el Periódico Oficial del Estado, los lineamientos e instrumentos necesarios para que las Unidades de Primer Contacto que actualmente existen en los municipios, adapten su integración y atribuciones para transformarse en Procuradurías Municipales de Protección de Niñas, Niños y Adolescentes, con la estructura y facultades aprobadas en el articulado de este Decreto.
+
+Dentro del mismo plazo señalado en el párrafo anterior, la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Hidalgo deberá crear e instalar un Comité Técnico para el acompañamiento y seguimiento a la implementación de las Procuradurías Municipales de Protección de Niñas, Niños y Adolescentes, conformado al menos por el Sistema Estatal de Desarrollo Integral de la Familia, los Sistemas DIF Municipales, así como las dependencias y entidades de la Administración Pública Estatal y Municipal que se consideren pertinentes.
+
+CUARTO. En un plazo que no exceda de ciento ochenta días naturales contados a partir de la publicación de los lineamientos a que se hace referencia en el artículo tercero transitorio de este Decreto, los municipios deberán realizar los ajustes jurídicos, administrativos, operativos y presupuestales para que las Unidades de Primer Contacto transiten a Procuradurías Municipales de Protección de Niñas, Niños y Adolescentes, conforme a lo aprobado en el presente Decreto.
