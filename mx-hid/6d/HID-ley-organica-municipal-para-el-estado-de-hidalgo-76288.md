@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2025-12-26"
+last_updated: "2026-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2026.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -3667,9 +3667,9 @@ ARTÍCULO 145 NOVENUS.- Las dependencias y organismos de la administración púb
 
 ### CAPÍTULO DÉCIMO QUATER. DEL SISTEMA MUNICIPAL DE PROTECCIÓN INTEGRAL DE NIÑAS, NIÑOS Y ADOLESCENTES
 
-> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ABRIL DE 2026)</small>
 
-ARTÍCULO 145 DÉCIMUS.- En cada municipio, deberá existir un Sistema Municipal de Protección Integral de los Derechos de Niñas, Niños y Adolescentes, presidido por la o el Presidente Municipal y estará integrado por las instancias y organismos municipales vinculados con la protección de los derechos de niñas, niños y adolescentes, contará con una Secretaría Ejecutiva y garantizará la participación de los sectores social y privado, así como de niñas, niños y adolescentes y tendrá por objeto:
+ARTÍCULO 145 DÉCIMUS.- En cada municipio deberá existir un Sistema Municipal de Protección Integral de los Derechos de Niñas, Niños y Adolescentes, presidido por la presidenta o el presidente municipal y estará integrado por las instancias y organismos municipales vinculados con la protección de los derechos de niñas, niños y adolescentes, contará con una Secretaría Ejecutiva y garantizará la participación de los sectores social y privado, así como de niñas, niños y adolescentes y tendrá por objeto:
 
 > <small>(REFORMADA, P.O. 19 DE ENERO DE 2024)</small>
 
@@ -3695,6 +3695,8 @@ La presidenta o presidente municipal deberá instalar el Sistema Municipal a má
 
 Los Sistemas Municipales de Protección Integral se reunirán cuando menos dos veces al año. Para sesionar válidamente se requerirá un quorum de la mayoría de sus miembros y la asistencia de la presidenta o presidente; sus decisiones se tomarán por mayoría simple de votos y, en caso de empate, la presidenta o presidente tendrá voto de calidad.
 
+> <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2018)</small>
+
 La persona titular de la Secretaría Ejecutiva del Sistema Municipal de Protección Integral de los Derechos de las Niñas, Niños y Adolescentes, deberá contar con experiencia profesional probada en la defensa o promoción de los derechos de las niñas, niños y adolescentes, con diversos grupos de población, conocimientos en materia de Derechos Humanos y en particular de la infancia en áreas correspondientes a su función.
 
 > <small>(ADICIONADO, P.O. 23 DE ABRIL DE 2018)</small>
@@ -3709,9 +3711,11 @@ III.- Promover la libre manifestación de ideas de niñas, niños y adolescentes
 
 IV.- Ser enlace entre la administración pública municipal y niñas, niños y adolescentes que deseen manifestar inquietudes;
 
-V.- Recibir quejas y denuncias por violaciones a los derechos contenidos en la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Hidalgo y demás disposiciones aplicables, así como canalizarlas de forma inmediata a la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Estado de Hidalgo, sin perjuicio que ésta pueda recibirla directamente;
+> <small>(REFORMADA, P.O. 13 DE ABRIL DE 2026)</small>
 
-VI.- Coadyuvar con la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Estado de Hidalgo en relación con las medidas urgentes de protección que ésta determine, y coordinar las acciones que correspondan en el ámbito de sus atribuciones;
+V. Recibir reportes por posibles vulneraciones, así como quejas y denuncias por violaciones a los derechos contenidos en la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Hidalgo y demás disposiciones aplicables, y canalizarlas de forma inmediata a la Procuraduría Municipal de Protección de Niñas, Niños y Adolescentes, sin perjuicio que ésta pueda recibirlas directamente;
+
+VI. (DEROGADA, P.O. 13 DE ABRIL DE 2026)
 
 VII.- Promover con la aprobación del Ayuntamiento, la celebración de convenios de coordinación con las autoridades competentes, así como con otras instancias públicas o privadas, para la atención y protección de niñas, niños y adolescentes;
 
@@ -3742,6 +3746,20 @@ Para el debido cumplimiento de las atribuciones de la Secretaría Ejecutiva de l
 > <small>(ADICIONADO, P.O. 19 DE ENERO DE 2024)</small>
 
 Cada municipio procurará destinar un área específica para la Secretaría Ejecutiva, la cual, en cumplimiento a lo dispuesto en el artículo 82, fracción XI de esta Ley, deberá contar con espacios lúdicos de descanso y aseo para niñas, niños y adolescentes; pudiendo coordinarse con el Sistema Municipal para el Desarrollo Integral de la Familia o cualquier otra autoridad municipal para tal efecto.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE ABRIL DE 2026)</small>
+
+### CAPÍTULO DÉCIMO QUATER 1. DE LAS PROCURADURÍAS MUNICIPALES DE NIÑAS, NIÑOS Y ADOLESCENTES
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2026)</small>
+
+ARTÍCULO 145 UNDÉCIMUS 1.- En cada municipio, dentro de la estructura del Sistema Municipal para el Desarrollo Integral de la Familia, deberá existir una Procuraduría Municipal de Protección de Niñas, Niños y Adolescentes, dotada de autonomía técnica y operativa, con funciones de autoridad administrativa, la cual tendrá por objeto la protección especial de niñas, niños y adolescentes que vivan dentro de su demarcación territorial o que se encuentren en tránsito en el municipio.
+
+Estará bajo la coordinación de la Procuraduría Estatal en la materia y contará con las facultades y atribuciones que se establecen en el Capítulo Octavo Bis del Título Quinto de la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Hidalgo.
+
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2026)</small>
+
+ARTÍCULO 145 UNDÉCIMUS 2.- La persona titular de la Procuraduría Municipal de Protección de Niñas, Niños y Adolescentes será nombrada y removida libremente por la presidenta o presidente municipal, y deberá cubrir obligatoriamente los requisitos que se señalan en el artículo 121 de la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Hidalgo.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -3857,13 +3875,9 @@ V. Opinar sobre el desarrollo y ejecución de la política pública municipal en
 
 VI. Proponer la creación, promoción, mantenimiento y mejora de los recursos turísticos municipales.
 
-### CAPÍTULO PRIMERO. DE LA MUNICIPALIZACIÓN
-
 ## TÍTULO SÉPTIMO. DE LA MUNICIPALIZACIÓN Y CONCESIÓN DE LOS SERVICIOS PÚBLICOS
 
-### CAPÍTULO SEGUNDO. DE LAS CONCESIONES DE LOS SERVICIOS PÚBLICOS MUNICIPALES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 2024)</small>
+### CAPÍTULO PRIMERO. DE LA MUNICIPALIZACIÓN
 
 ###### ARTÍCULO 146.
 
@@ -3895,9 +3909,9 @@ Seguido el trámite que señala el artículo precedente, el Ayuntamiento, con la
 
 En caso de que se apruebe la municipalización del servicio y el Municipio carezca de recursos para prestarlo, podrá nuevamente otorgarlo en concesión en términos de esta Ley.
 
-### CAPÍTULO PRIMERO. DE LA CONCILIACIÓN MUNICIPAL
+### CAPÍTULO SEGUNDO. DE LAS CONCESIONES DE LOS SERVICIOS PÚBLICOS MUNICIPALES
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ENERO DE 2024)</small>
 
 ###### ARTÍCULO 152.
 
@@ -4147,7 +4161,9 @@ IV.- Las instalaciones y/o equipo se encuentren en condiciones para la adecuada 
 
 ## TÍTULO OCTAVO. DE LA JUSTICIA COTIDIANA
 
-### CAPÍTULO SEGUNDO. DE LAS SANCIONES Y MEDIDAS DE SEGURIDAD
+### CAPÍTULO PRIMERO. DE LA CONCILIACIÓN MUNICIPAL
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 9 DE OCTUBRE DE 2017)</small>
 
 ###### ARTÍCULO 160.
 
@@ -4247,7 +4263,7 @@ IV.- Ordenar la detención que sea competencia de otras autoridades; y
 
 V.- No podrán aplicar procedimientos de conciliación en casos de violencia familiar o sexual, en estos casos tienen la obligación de canalizar a las victimas ante las instancias o dependencias correspondientes.
 
-### CAPÍTULO TERCERO. DE LOS RECURSOS ADMINISTRATIVOS
+### CAPÍTULO SEGUNDO. DE LAS SANCIONES Y MEDIDAS DE SEGURIDAD
 
 ###### ARTÍCULO 164.
 
@@ -4287,7 +4303,7 @@ III.- Otras que tiendan a proteger los bienes y la seguridad pública en los cas
 
 Si las circunstancias así lo ameritan, podrán imponerse al infractor simultáneamente las sanciones y medidas de seguridad que establezcan las Leyes, sin perjuicio de la responsabilidad civil o penal en que incurriere.
 
-### CAPÍTULO CUARTO. DE LAS RESPONSABILIDADES DE LAS AUTORIDADES MUNICIPALES
+### CAPÍTULO TERCERO. DE LOS RECURSOS ADMINISTRATIVOS
 
 ###### ARTÍCULO 168.
 
@@ -4423,7 +4439,7 @@ La autoridad recurrida o el Ayuntamiento, deberán tomar en cuenta para su resol
 
 Con relación a los recursos administrativos, tanto la autoridad Municipal como el Ayuntamiento comunicarán en tiempo y forma su resolución al promovente.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO CUARTO. DE LAS RESPONSABILIDADES DE LAS AUTORIDADES MUNICIPALES
 
 ###### ARTÍCULO 184.
 
@@ -4453,7 +4469,7 @@ Tratándose de delitos o faltas oficiales en que hayan incurrido los miembros y 
 
 ## TÍTULO NOVENO. LEGISLACIÓN MUNICIPAL
 
-### CAPÍTULO PRIMERO. ASESORÍA MUNICIPAL
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 189.
 
@@ -4473,9 +4489,7 @@ Los bandos de policía y gobierno, los reglamentos, circulares y disposiciones a
 
 ## TÍTULO DÉCIMO. DE LA COLABORACIÓN ENTRE EL MUNICIPIO Y EL ESTADO
 
-### CAPÍTULO SEGUNDO. DE LOS DERECHOS HUMANOS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2024)</small>
+### CAPÍTULO PRIMERO. ASESORÍA MUNICIPAL
 
 ###### ARTÍCULO 192.
 
@@ -4484,6 +4498,10 @@ El Poder Ejecutivo del Estado a solicitud de los Ayuntamientos, les dará asesor
 ###### ARTÍCULO 193.
 
 Las distintas dependencias con acuerdo del Titular del Ejecutivo Estatal, en su caso, auxiliarán y proporcionarán personal técnico a los Municipios en todas las esferas de la actividad Municipal, cuando así lo soliciten y de acuerdo con el convenio de colaboración respectivo.
+
+### CAPÍTULO SEGUNDO. DE LOS DERECHOS HUMANOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ABRIL DE 2024)</small>
 
 ###### ARTÍCULO 194.
 
@@ -5342,3 +5360,17 @@ P.O. 26 DE DICIEMBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Los ayuntamientos del Estado deberán emitir o actualizar su normatividad interna para efecto de dar cumplimiento a lo aprobado en este Decreto.
+
+P.O. 13 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 607 – LXVI POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO, DE LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO DE HIDALGO, DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO Y DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO, EN MATERIA DE FORTALECIMIENTO A LAS MEDIDAS DE PROTECCIÓN Y CREACIÓN DE LAS PROCURADURÍAS MUNICIPALES DE PROTECCIÓN DE NIÑAS, NIÑOS Y ADOLESCENTES”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, la denominación de la actual Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia se modifica a “Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Hidalgo”, con las atribuciones y facultades establecidas en el artículo 119 del presente ordenamiento.
+
+TERCERO. Dentro del término de sesenta días naturales contados a partir de la entrada en vigor del presente Decreto, el Sistema Estatal para el de Desarrollo Integral de la Familia, por conducto de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Hidalgo, deberá emitir y publicar en el Periódico Oficial del Estado, los lineamientos e instrumentos necesarios para que las Unidades de Primer Contacto que actualmente existen en los municipios, adapten su integración y atribuciones para transformarse en Procuradurías Municipales de Protección de Niñas, Niños y Adolescentes, con la estructura y facultades aprobadas en el articulado de este Decreto.
+
+Dentro del mismo plazo señalado en el párrafo anterior, la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Hidalgo deberá crear e instalar un Comité Técnico para el acompañamiento y seguimiento a la implementación de las Procuradurías Municipales de Protección de Niñas, Niños y Adolescentes, conformado al menos por el Sistema Estatal de Desarrollo Integral de la Familia, los Sistemas DIF Municipales, así como las dependencias y entidades de la Administración Pública Estatal y Municipal que se consideren pertinentes.
+
+CUARTO. En un plazo que no exceda de ciento ochenta días naturales contados a partir de la publicación de los lineamientos a que se hace referencia en el artículo tercero transitorio de este Decreto, los municipios deberán realizar los ajustes jurídicos, administrativos, operativos y presupuestales para que las Unidades de Primer Contacto transiten a Procuradurías Municipales de Protección de Niñas, Niños y Adolescentes, conforme a lo aprobado en el presente Decreto.
