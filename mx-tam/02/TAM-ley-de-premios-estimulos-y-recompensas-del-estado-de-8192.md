@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-premios-estimulos-y-recompensas-del-estado-de-8192"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-26"
-last_updated: "2026-02-12"
+last_updated: "2026-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8192&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 26 de diciembre de 1987.
 
@@ -565,17 +565,27 @@ El Premio Estatal de Antigüedad en el Servicio Público, se otorgará a los ser
 
 Este premio se tramitará de oficio en cada una de las Dependencias y Entidades del Poder Público Estatal, por conducto de los Consejos de Premiación que en ellas se establezcan, los cuales se integrarán con el titular como Presidente, el representante de la Secretaría de Administración, quien actuará como Secretario, y con un representante del Sindicato Unico de Trabajadores al Servicio de los Poderes del Estado de Tamaulipas. Estos Consejos fungirán como Jurados.
 
+> <small>(REFORMADO, P.O. 13 DE ABRIL DE 2026)</small>
+
 ###### ARTICULO 76.
 
-El premio consistirá en medalla y podrá acompañarse de entrega en numerario o en especie cuando así lo acuerde el Gobernador del Estado; se otorgará en cuatro grados:
+El premio consistirá en medalla y podrá acompañarse de entrega en numerario o en especie cuando así lo acuerde el Gobernador del Estado; se otorgará en ocho grados:
 
-I.- Primer grado, por 50 años de servicio;
+I.- Primer grado, por 55 años de servicio;
 
-II.- Segundo grado, por 40;
+II.- Segundo grado, por 50;
 
-III.- Tercer grado, por 30; y
+III.- Tercer grado, por 45;
 
-IV.- Cuarto grado, por 20.
+IV.- Cuarto grado, por 40;
+
+V.- Quinto grado, por 35;
+
+VI.- Sexto grado, por 30;
+
+VII.- Séptimo grado, por 25; y
+
+VIII.- Octavo grado, por 20.
 
 > <small>(REFORMADO, P.O. 25 DE JUNIO DE 1994)</small>
 
@@ -942,3 +952,11 @@ El Tribunal de Justicia Administrativa del Estado de Tamaulipas, a través de su
 ###### ARTÍCULO TERCERO.
 
 En las disposiciones transitorias de las diversas leyes y códigos en las que se haga referencia a la Contraloría Gubernamental, se entenderá la Secretaría Anticorrupción y Buen Gobierno.
+
+P.O. 13 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 66-1045 MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 76 DE LA LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
