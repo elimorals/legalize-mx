@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2026-03-09"
+last_updated: "2026-04-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2026.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -21013,6 +21013,10 @@ a) Solicitar el apoyo de la fuerza pública para retirar a las personas que real
 
 b) Asegurar los instrumentos musicales de las personas que infrinjan las disposiciones del presente capítulo.
 
+> <small>(ADICIONADO, P.O. 13 DE ABRIL DE 2026)</small>
+
+Durante el período de la Feria Nacional de San Marcos, y exclusivamente dentro del perímetro ferial, podrán asegurar bocinas, amplificadores y demás dispositivos de reproducción o amplificación de sonido, cuando su uso contravenga las disposiciones aplicables o genere afectaciones al orden público. Asimismo, cuando su instalación, ubicación o utilización interfiera, obstaculice o entorpezca el libre tránsito y la movilidad peatonal en vía pública.
+
 ###### ARTÍCULO 1345.
 
 Los filarmónicos que ofrezcan sus servicios en la vía pública lo deberán hacer sólo en los lugares que determine la Dirección General de Gobierno.
@@ -26838,3 +26842,9 @@ P.O. 9 DE MARZO DE 2026.
 ## [N. DE E. TRANSITORIOS DE LA “REFORMA A LA FRACCIÓN XVII Y ADICIÓN DE LA FRACCIÓN XVIII, AMBAS DEL APARTADO A DEL ARTÍCULO 82 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
 
 La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DE LAS “ADICIONES DE DIVERSAS DISPOSICIONES AL ARTÍCULO 1344 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+
+ÚNICO.- La presente adición iniciarán (sic) su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
