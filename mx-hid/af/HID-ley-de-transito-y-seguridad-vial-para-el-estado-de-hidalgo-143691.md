@@ -4,7 +4,7 @@ identifier: "HID-ley-de-transito-y-seguridad-vial-para-el-estado-de-hidalgo-1436
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-20"
-last_updated: "2025-11-19"
+last_updated: "2026-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143691&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de julio de 2020.
 
@@ -124,6 +124,10 @@ VI.- Dispositivos para el control del tránsito y de la seguridad vial: Los medi
 > <small>(REFORMADA, P.O. 12 DE MAYO DE 2021)</small>
 
 VII.- Dispositivos Tecnológicos: Equipo electromecánico, eléctrico, análogo, digital u óptico, incluyendo radares, cinemómetros u otros instrumentos de innovación tecnológica que permitan la detección e identificación de infracciones y conductas en el tránsito de vehículos en general;
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2026)</small>
+
+VII Bis.- Educación vial: Conjunto de acciones que promueven, informan y comunican una cultura vial en la población, dirigida a todas las personas usuarias de la vía, con el objetivo de generar cambios en los patrones de comportamiento social y contribuir a la seguridad vial;
 
 VIII.- Estacionamiento: Los espacios públicos o privados destinados al aparcamiento o guarda de vehículos;
 
@@ -493,6 +497,14 @@ Las autoridades estatales y municipales se responsabilizarán del mantenimiento 
 
 De manera progresiva y conforme a la suficiencia presupuestal, se deberá garantizar que las intersecciones y cruces peatonales cercanos a los centros educativos, de salud, culturales, comerciales y de recreación, cuenten con semáforos sonoros, con el propósito de facilitar la movilidad de las personas con discapacidad visual.
 
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2026)</small>
+
+###### Artículo 26 Bis.
+
+En los cruceros o intersecciones de vías públicas de igual jerarquía que carezcan de señalización vial, semáforos u otros dispositivos de control de tránsito, los conductores deberán permitir el avance alternado de vehículos, uno por uno, conforme al orden de llegada y con respeto total a los peatones, ciclistas y demás usuarios vulnerables de la vía.
+
+Todo conductor deberá hacer alto total antes de ingresar a la intersección y continuar su marcha únicamente cuando le corresponda el turno.
+
 ###### Artículo 27.
 
 Cuando se presenten situaciones que perturben la circulación vehicular, tanto en las áreas de rodamiento como en las reservadas para el uso peatonal, las autoridades de tránsito y seguridad vial tomarán las medidas necesarias para regular y controlar el desplazamiento vehicular, en tanto perdure la emergencia. Se implementarán operativos para el control de la seguridad vial y señalamientos de circulación, en coordinación con otras autoridades competentes.
@@ -819,7 +831,9 @@ II.- Obedecer los dispositivos tecnológicos, así como aquellos que sirven para
 
 III.- Respetar los límites de velocidad que establezca esta Ley, su Reglamento, los Reglamentos Municipales y los señalamientos viales, conduciendo con prudencia en zonas escolares y hospitales;
 
-IV.- Respetar al peatón y su derecho preferente de paso;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2026)</small>
+
+IV.- Respetar al peatón y su derecho preferente de paso en las esquinas o pasos peatonales, deteniendo completamente el vehículo cuando observe que se encuentra cruzando o manifieste claramente su intención de hacerlo;
 
 > <small>(ADICIONADA, P.O. 11 DE ABRIL DE 2025)</small>
 
@@ -895,7 +909,9 @@ XVIII.- Instalar en los vehículos sistemas anti radares, detector de radares de
 
 XIX.- Circular sin placas, licencia o tarjeta de circulación vigentes, o que correspondan a otros vehículos;
 
-XX.- Instalar o utilizar porta placas y/o micas, laminas transparentes u obscuras sobre las mismas placas, que obstruyan la visibilidad de la información contenida en las placas del vehículo.
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2026)</small>
+
+XX.- Usar, colocar o portar porta placas, marcos, micas, cubiertas, dispositivos o cualquier aditamento, cuando estos alteren, modifiquen, distorsionen, reduzcan o impidan total o parcialmente la visibilidad, legibilidad o identificación del número de placas de circulación del vehículo, incluyendo hologramas, códigos, números, letras y demás elementos oficiales de seguridad vehicular;
 
 XXI.- Remachar, soldar o modificar la forma de las placas del vehículo;
 
@@ -1104,6 +1120,10 @@ Son obligaciones de la Secretaría, a través de la Agencia, en materia de exped
 I.- Autorizar las licencias para conducir, reposiciones o renovaciones de las mismas, a las personas que así lo soliciten previo el cumplimiento de los requisitos establecidos en la presente Ley y su Reglamento;
 
 II.- Autorizar los permisos para conducir vehículos motorizados a menores de edad que reúnan las condiciones previstas en esta Ley y su Reglamento;
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2026)</small>
+
+II Bis.- Establecer un programa que fomente la cultura de donación de órganos y tejidos en la expedición o renovación de la licencia de conducir, diseñando mecanismos para incluir una anotación que exprese la voluntad de la persona titular de la misma, respecto a la donación de sus órganos o tejidos, para tal efecto, la Secretaría deberá celebrar los convenios de colaboración con las dependencias competentes, a efecto de que se lleve el registro de dicho trámite.
 
 III.- Instalar módulos en los municipios del Estado; y
 
@@ -1347,6 +1367,10 @@ La Norma Técnica Estatal para el Control del Tránsito y de la Seguridad Vial p
 
 Las autoridades estatales y municipales, promoverán e instrumentarán acciones de educación vial destinadas a la población en general, peatones, conductores y todo tipo de usuarios de las vías públicas, para garantizar la seguridad y salud pública; educación en la que podrán válidamente participar las escuelas de manejo autorizadas por la Secretaría.
 
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2026)</small>
+
+Las autoridades procurarán implementar el uso de las tecnologías de la información en las acciones de educación vial.
+
 ###### Artículo 110.
 
 Los programas de educación vial contendrán los objetivos, estrategias y acciones encaminadas al logro de su objeto mediante la coordinación entre autoridades federales, estatales y municipales.
@@ -1513,6 +1537,10 @@ I.- No respete los derechos de los peatones al conducir;
 
 II.- Coloque objetos que dificulten o impidan la inmediata identificación del vehículo;
 
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2026)</small>
+
+II Bis.- Use, coloque o porte porta placas, marcos, micas, cubiertas, dispositivos o cualquier aditamento, cuando estos alteren, modifiquen, distorsionen, reduzcan o impidan total o parcialmente la visibilidad, legibilidad o identificación del número de placas de circulación del vehículo, incluyendo hologramas, códigos, números, letras y demás elementos oficiales de seguridad vehicular;
+
 III.- No cuente con placas de circulación vigentes;
 
 IV.- No cuente con los espejos retrovisores, así como con limpia parabrisas en condiciones de funcionamiento;
@@ -1617,13 +1645,17 @@ IV.- Transporte cargas que dificulten su visibilidad, equilibrio, adecuada opera
 
 V.- No tenga un manejo responsable o realice piruetas o zigzagueos;
 
-> <small>(REFORMADA, P.O. 2 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2026)</small>
 
-VI.- Conduzca entre los carriles de tránsito y entre hileras adyacentes de vehículos; u
+VI.- Conduzca entre los carriles de tránsito y entre hileras adyacentes de vehículos;
 
-> <small>(ADICIONADA, P.O. 2 DE JULIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2026)</small>
 
-VII.- Omita circular por el carril de la extrema derecha de la vía sobre la que circule y no proceder con cuidado al adelantar los vehículos por el lado izquierdo.
+VII.- Omita circular por el carril de la extrema derecha de la vía sobre la que circule y no proceder con cuidado al adelantar los vehículos por el lado izquierdo; o
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2026)</small>
+
+VIII.- No cuente con placas de circulación vigentes.
 
 C. También serán motivo de infracción a la presente Ley y su reglamento cuando:
 
@@ -1830,5 +1862,11 @@ P.O. 22 DE AGOSTO DE 2025.
 P.O. 19 DE NOVIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 280 - LXVI POR EL QUE SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y CUARTO AL ARTÍCULO 33 BIS DE LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE HIDALGO, EN MATERIA DE ESTACIONAMIENTOS PARA PERSONAS CON DISCAPACIDAD O MOVILIDAD REDUCIDA".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 14 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 601 – LXVI QUE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 67, LA FRACCIÓN XX DEL ARTÍCULO 68 Y LAS FRACCIONES VI Y VII DEL APARTADO B DEL ARTÍCULO 127; Y SE ADICIONA LA FRACCIÓN VII BIS DEL ARTÍCULO 4, EL ARTÍCULO 26 BIS, LA FRACCIÓN II BIS DEL ARTÍCULO 88, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 109, LA FRACCIÓN II BIS DEL APARTADO A Y LA FRACCIÓN VIII DEL APARTADO B DEL ARTÍCULO 127, DE LA LEY DE TRÁNSITO Y SEGURIDAD VIAL PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
