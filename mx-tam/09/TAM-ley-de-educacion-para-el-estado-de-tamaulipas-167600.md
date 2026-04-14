@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-167600"
 country: "mx"
 rank: "ley"
 publication_date: "2023-08-23"
-last_updated: "2026-04-09"
+last_updated: "2026-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167600&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2026.
 
 Ley publicada en la Edición Vespertina Número 101 del Periódico Oficial del Estado de Tamaulipas, el miércoles 23 de agosto de 2023.
 
@@ -525,9 +525,17 @@ III.- Asegurar que los educandos ciegos, sordos o sordociegos reciban educación
 
 IV.- Promover en las aulas educativas la inclusión, la igualdad de oportunidades y el respeto a la diversidad;
 
-V.- Asegurar que se realicen ajustes razonables para las personas con discapacidad; y
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2026)</small>
 
-VI.- Proporcionar a los educandos con aptitudes sobresalientes la atención que requieran de acuerdo con sus capacidades, intereses y necesidades.
+V.- Asegurar que se realicen ajustes razonables para las personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2026)</small>
+
+VI.- Proporcionar a los educandos con aptitudes sobresalientes la atención que requieran de acuerdo con sus capacidades, intereses y necesidades; y
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2026)</small>
+
+VII.- Promover la intervención de personal de apoyo educativo, conocido como maestro sombra, entendiéndose como la persona estudiante de nivel superior adscrita a programas de licenciatura en psicología, pedagogía, educación especial o áreas afines, que en el marco de su servicio social o prácticas profesionales y bajo supervisión institucional brinda acompañamiento a estudiantes con la condición del espectro autista o trastornos del neurodesarrollo, con el propósito de favorecer su integración, permanencia y participación en el entorno escolar, sin sustituir las funciones del personal docente ni asumir responsabilidades clínicas o terapéuticas.
 
 ###### ARTÍCULO 44.
 
@@ -1441,6 +1449,18 @@ X.- En general, realizar actividades para apoyar y fortalecer la educación en e
 
 2.- Las autoridades educativas, en coordinación con las instituciones de educación respectivas, promoverán lo necesario a efecto de establecer diversos mecanismos de acreditación del servicio social o sus equivalentes y que éste sea reconocido como parte de su experiencia en el desempeño de sus labores profesionales.
 
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2026)</small>
+
+3.- Las autoridades educativas podrán celebrar convenios de colaboración con instituciones de educación superior que impartan las Licenciatura (sic) en Psicología, Pedagogía, Educación Especial o áreas afines, a fin de que estudiantes que se encuentren en etapa de servicio social o prácticas profesionales puedan desempeñarse como Maestros Sombra en planteles de educación básica, como parte de los requisitos para su titulación.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2026)</small>
+
+4.- La asignación del acompañamiento se realizará previa solicitud del centro educativo correspondiente y conforme a las necesidades específicas del alumnado, de acuerdo con la disponibilidad de recurso estudiantil y los lineamientos que emita la Secretaría de Educación del Estado.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2026)</small>
+
+5.- La implementación de este esquema no generará relación laboral con el Estado ni implicará la creación de nuevas plazas, y deberá desarrollarse bajo criterios de supervisión académica, consentimiento informado de madres, padres o tutores, y evaluación periódica de resultados.
+
 ###### ARTÍCULO 122.
 
 La Secretaría, en coordinación con las autoridades competentes, establecerá mecanismos para que cuente como prestación de servicio social, las tutorías y acompañamientos que realicen estudiantes a los educandos de preescolar, primaria, secundaria y media superior que lo requieran para lograr su máximo aprendizaje y desarrollo integral.
@@ -1820,3 +1840,15 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Remítase el presente Decreto a la Secretaría de Educación del Estado, para los efectos legales conducentes.
+
+P.O. 14 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-1041 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Educación del Estado promoverá la celebración de convenios con instituciones de educación superior para facilitar la participación de estudiantes de licenciatura en psicología, pedagogía, educación especial o áreas afines, en el acompañamiento educativo a que se refiere el presente Decreto, en el marco de su servicio social o prácticas profesionales.
