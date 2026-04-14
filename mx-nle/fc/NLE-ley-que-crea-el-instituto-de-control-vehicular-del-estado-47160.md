@@ -4,7 +4,7 @@ identifier: "NLE-ley-que-crea-el-instituto-de-control-vehicular-del-estado-47160
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-02"
-last_updated: "2025-12-19"
+last_updated: "2026-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 2 de diciembre de 2005.
 
@@ -363,35 +363,33 @@ II. Un Director General.
 
 La Junta de Gobierno será la máxima autoridad del Instituto y se integrará por:
 
-I. Un Presidente, que será el Gobernador del Estado o quien éste designe;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2026)</small>
 
-II. Un Secretario, que será el Director General del Instituto; y
+I. Un Presidente, quién será la persona Titular de (sic) Poder Ejecutivo del Estado o quien ésta designe;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 17 DE ENERO DE 2025)</small>
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2026)</small>
 
-III. Seis vocales, que serán los titulares de las siguientes dependencias y entidades:
+II. Un Secretario, quién será la persona titular de la Dirección General del Instituto; y
 
-a) El Secretario de Finanzas y Tesorero General del Estado;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 2025)</small>
+III. Seis vocales, que serán las personas titulares de las siguientes dependencias y entidades Estatales:
 
-b) El Secretario de Seguridad;
+a) Secretaría de Finanzas y Tesorería General del Estado;
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 2025)</small>
+b) Secretaría de Seguridad;
 
-c) El Fiscal General de Justicia del Estado;
+c) Fiscalía General de Justicia;
 
-d) El Director General de la Agencia para la Racionalización y Modernización del Sistema de Transporte Público del Estado; y
+d) Dirección General de la Agencia para la Racionalización y Modernización del Sistema de Transporte Público del Estado;
 
-> <small>(REFORMADO, P.O. 17 DE ENERO DE 2025)</small>
+e) Secretaría de Medio Ambiente; y
 
-e) El Secretario de Medio Ambiente;
+f) Un Diputado Local que represente al Poder Legislativo, nombrado por el Pleno del H. Congreso del Estado de Nuevo León.
 
-> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2025)</small>
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2026)</small>
 
-f) Un Diputado Local que represente al Poder Legislativo, nombrado por el Pleno del H. Congreso del Estado de Nuevo León
-
-La ausencia del Gobernador del Estado, o de quien éste designe para presidir la Junta, será suplida por el Secretario de Finanzas y Tesorero General del Estado, y en su defecto, por la persona que éste último designe. El resto de los integrantes de la Junta de Gobierno podrán ser representados en sus ausencias por quienes designen para ese efecto con el carácter de suplentes.
+La ausencia de la persona titular de (sic) Poder Ejecutivo del Estado, o de quien ésta designe para presidir la Junta, será suplida por la representación de la Secretaría de Finanzas y Tesorería General del Estado, y en su defecto, por la persona que ésta última designe. El resto de los integrantes de la Junta de Gobierno podrán ser representados en sus ausencias por quienes designen para ese efecto con el carácter de suplentes.
 
 El Instituto contará además con un Consejo de Participación Ciudadana representativo de la sociedad civil.
 
@@ -1126,3 +1124,9 @@ P.O. 19 DE DICIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 179. SE REFORMAN LOS ARTÍCULOS, 18 PRIMER Y SEGUNDO PÁRRAFOS; 21 PRIMER PÁRRAFO; 23 FRACCIÓN XI; 32 BIS; Y SE ADICIONA UN ARTÍCULO VIGÉSIMO QUINTO TRANSITORIO; TODOS DE LA LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN; Y SE REFORMAN LOS ARTÍCULOS 4 FRACCIÓN I, 12 PRIMER PÁRRAFO; 14 PRIMERO, CUARTO Y QUINTO PÁRRAFOS; 15 PRIMERO Y SEGUNDO PÁRRAFOS; 16; 17 Y 18 SEGUNDO PÁRRAFO; Y SE ADICIONA AL ARTÍCULO 15 CON UN TERCER PÁRRAFO; TODOS DE LA LEY QUE REGULA LA EXPEDICIÓN DE LICENCIAS PARA CONDUCIR DEL ESTADO DE NUEVO LEÓN".]
 
 ÚNICO. El presente Decreto entrará en vigor el 01 de enero del año 2026.
+
+P.O. 14 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 192. SE REFORMA EL SEGUNDO PÁRRAFO Y LA FRACCIÓN I, II, Y III DEL ARTÍCULO 7, TODO DE LA LEY QUE CREA EL INSTITUTO DE CONTROL VEHICULAR DEL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
