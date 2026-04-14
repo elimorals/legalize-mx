@@ -4,7 +4,7 @@ identifier: "HID-ley-de-movilidad-y-transporte-para-el-estado-de-hidalgo-129684"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-30"
-last_updated: "2026-03-25"
+last_updated: "2026-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de julio de 2018.
 
@@ -331,13 +331,21 @@ f. Vigilar que el Organismo del Transporte Convencional proceda correctamente en
 
 g. Vigilar que el Organismo del Transporte Convencional y el Organismo del Transporte Masivo obtengan, compilen, clasifiquen, almacenen y preserven en forma adecuada la estadística relacionada con el Sistema Estatal del Transporte e implementen el Registro de Concesiones, Permisos, Autorizaciones y Conductores del Servicio de Transporte; y
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2024)</small>
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2026)</small>
 
-h. Las demás que determinen esta Ley y otras disposiciones legales aplicables; y
+h. Las demás que determinen esta Ley y otras disposiciones legales aplicables;
 
-> <small>(ADICIONADA, P.O. 30 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2026)</small>
 
-XVII. Implementar una campaña anual de difusión y concientización relativa a las normas de seguridad y educación vial para los peatones, conductores, ciclistas, usuarios del servicio público y especial de transporte, y población en general.
+XVII. Implementar una campaña anual de difusión y concientización relativa a las normas de seguridad y educación vial para los peatones, conductores, ciclistas, usuarios del servicio público y especial de transporte, y población en general;
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2026)</small>
+
+XVIII. Establecer criterios para realizar los ajustes razonables que permitan que la infraestructura de transporte, incluidas estaciones, terminales y centros de transferencia modal, cumplan con los estándares nacionales e internacionales de accesibilidad para personas con discapacidad y movilidad reducida, a fin de garantizar su libre desplazamiento y uso seguro de los servicios; y
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2026)</small>
+
+XIX. Supervisar que las unidades destinadas al servicio de transporte público y privado colectivo cuenten con las condiciones de accesibilidad necesarias para la atención de personas con discapacidad y movilidad reducida.
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2021)</small>
 
@@ -795,9 +803,11 @@ XI. Enfoque de género. Categoría de análisis que permita identificar, a trav�
 
 ### CAPITULO III. DE LA ESTRATEGIA INTEGRAL DE MOVILIDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE ABRIL DE 2026)</small>
+
 ###### Artículo 28.
 
-El desarrollo y aplicación de la política pública de movilidad y transporte, se sustentará en los siguientes ejes fundamentales:
+El desarrollo y aplicación de la política pública de movilidad y transporte, deberá observar los principios y criterios establecidos en la Ley General de Movilidad y Seguridad Vial, para garantizar una movilidad segura, eficiente y de calidad, y se sustentará además en los siguientes ejes fundamentales:
 
 I. Integración de los Servicios de Transporte: Promoción e implementación de acciones para la integración de los sistemas de transporte en las zonas metropolitanas, ciudades y cabeceras municipales, hacia el entorno de sus comunidades; para articular de manera física, mecánica operativa, de información e identidad institucional, para proporcionar un servicio de transporte confiable, eficiente, cómodo y seguro, que posibilite el traslado de las personas con altos estándares de calidad y accesibilidad, conforme a sus requerimientos de desplazamiento;
 
@@ -1647,6 +1657,10 @@ Los Tarjetones que se expidan en cumplimiento a esta Ley, tendrán una vigencia 
 
 La renovación del Tarjetón se sujetará al acreditamiento de los cursos de actualización correspondiente. En el Reglamento respectivo se determinarán los aspectos académicos y formativos que deberán conformar los cursos, los cuales deberán contemplar contenido relativo a perspectiva de género, no discriminación, transporte libre de violencia y atención de calidad a las personas usuarias, sin perjuicio de los demás que se estipulen.
 
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2026)</small>
+
+Los cursos deberán contemplar como mínimo, contenidos relacionados con conducción responsable, prevención de la violencia, violencia de género, primeros auxilios y protocolos de actuación frente a situaciones que representen un riesgo para la integridad del conductor o de las personas usuarias del transporte público.
+
 ###### Artículo 118.
 
 Cuando el titular del Tarjetón acreditare fehacientemente el extravío, destrucción o posible robo; la Autoridad Competente verificará en sus archivos si el documento gozaba de vigencia, reponiéndolo, previo pago de los derechos respectivos. En estos casos, al obtener el nuevo Tarjetón el titular conservará la antigüedad que posea en el registro.
@@ -1745,9 +1759,15 @@ Los prestadores del servicio deberán exhibir en forma permanente y en lugares v
 
 Las tarifas que los usuarios deben pagar por la prestación del Servicio Público de Transporte Masivo de Pasajeros, su autorización, estructura, integración, tipo, intermodalidad y vigencia, quedan sujetas a la periodicidad y determinación del Organismo del Transporte Masivo; al efecto, dicho Organismo regulará y determinará las formalidades y el procedimiento a seguir para la revisión y modificación anual de las tarifas.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 14 DE ABRIL DE 2026)</small>
+
 ###### Artículo 134.
 
-Tomando en cuenta las circunstancias particulares de los usuarios y las situaciones de interés general, en los servicios de transporte público masivo y transporte público colectivo, se aplicarán tarifas preferenciales para adultos mayores y personas con discapacidad, así como exenciones del pago de tarifa a niñas y niños menores de tres años de edad. El reglamento establecerá los términos y condiciones para la aplicación de estas tarifas, así como los medios de identificación que acrediten a los beneficiarios.
+Tomando en cuenta las circunstancias particulares de los usuarios y las situaciones de interés general, en los servicios de transporte público masivo y transporte público colectivo se garantizarán tarifas preferenciales para personas adultas mayores y personas con discapacidad, así como exenciones del pago de tarifa a niñas y niños menores de tres años de edad. El Reglamento establecerá los términos, condiciones y medios de acreditación para la aplicación de estas tarifas preferenciales, procurando que sean consistentes con los principios de igualdad, accesibilidad universal y no discriminación.
+
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2026)</small>
+
+Las autoridades competentes deberán implementar campañas de información y capacitación dirigidas a concesionarios, operadores y personal involucrado en la prestación del servicio de transporte, con el propósito de otorgar el acceso efectivo de las personas beneficiarias al servicio de tarifas preferenciales.
 
 ###### Artículo 135.
 
@@ -3616,3 +3636,17 @@ P.O. 25 DE MARZO DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 575 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO, EN MATERIA DE CICLOVÍAS”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 14 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 599 - LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO, EN MATERIA DE ACCESIBILIDAD Y TARIFAS PREFERENCIALES A PERSONAS CON DISCAPACIDAD".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. En un plazo no mayor a un año contado a partir de la entrada en vigor del presente Decreto, la Secretaría de Movilidad y Transporte deberá actualizar las disposiciones normativas para dar cumplimiento al mismo.
+
+P.O. 14 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 602 – LXVI QUE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 28 Y ADICIONA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 117 DE LA LEY (SIC) MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
