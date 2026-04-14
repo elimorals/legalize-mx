@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-para-el-10753
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-20"
-last_updated: "2026-04-13"
+last_updated: "2026-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 20 de abril de 2015.
 
@@ -77,7 +77,9 @@ V. Establecer las bases generales para la participación de los sectores privado
 
 Para garantizar la protección de los derechos de niñas, niños y adolescentes, las autoridades realizarán las acciones y tomarán medidas, de conformidad con los principios establecidos en la presente Ley. Para tal efecto, deberán:
 
-I. Garantizar un enfoque integral, transversal y con perspectiva de derechos humanos en el diseño y la instrumentación de políticas y programas de gobierno;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2026)</small>
+
+I. Garantizar un enfoque integral, transversal, intercultural, interseccional y con perspectiva de derechos humanos en el diseño y la instrumentación de políticas y programas de gobierno;
 
 II. Promover la participación, tomar en cuenta la opinión y considerar los aspectos culturales, éticos, afectivos, educativos y de salud de niñas, niños y adolescentes, en todos aquellos asuntos de su incumbencia, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez; y
 
@@ -321,13 +323,17 @@ XVII. Resiliencia;
 
 XVIII. El derecho al adecuado desarrollo evolutivo de la personalidad;
 
-> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2026)</small>
 
-XIX. Mínima intervención de menores cuando intervienen en procedimientos judiciales, y
+XIX. Mínima intervención de menores cuando intervienen en procedimientos judiciales;
 
-> <small>(ADICIONADA, P.O. 16 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2026)</small>
 
-XX. No revictimización de menores cuando intervienen en procedimientos judiciales.
+XX. No revictimización de menores cuando intervienen en procedimientos judiciales, y
+
+> <small>(ADICIONADA, P.O. 14 DE ABRIL DE 2026)</small>
+
+XXI. La interseccionalidad.
 
 Así como los Principios contenidos en la Ley de Justicia para Adolescentes del Estado, en aquellas situaciones que sea procedente:
 
@@ -3432,3 +3438,9 @@ TERCERO. Dentro del término de sesenta días naturales contados a partir de la 
 Dentro del mismo plazo señalado en el párrafo anterior, la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Hidalgo deberá crear e instalar un Comité Técnico para el acompañamiento y seguimiento a la implementación de las Procuradurías Municipales de Protección de Niñas, Niños y Adolescentes, conformado al menos por el Sistema Estatal de Desarrollo Integral de la Familia, los Sistemas DIF Municipales, así como las dependencias y entidades de la Administración Pública Estatal y Municipal que se consideren pertinentes.
 
 CUARTO. En un plazo que no exceda de ciento ochenta días naturales contados a partir de la publicación de los lineamientos a que se hace referencia en el artículo tercero transitorio de este Decreto, los municipios deberán realizar los ajustes jurídicos, administrativos, operativos y presupuestales para que las Unidades de Primer Contacto transiten a Procuradurías Municipales de Protección de Niñas, Niños y Adolescentes, conforme a lo aprobado en el presente Decreto.
+
+P.O. 14 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 606 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO, EN MATERIA DE PRINCIPIOS RECTORES".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
