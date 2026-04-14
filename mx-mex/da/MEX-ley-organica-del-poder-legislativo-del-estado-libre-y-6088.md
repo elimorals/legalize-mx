@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2025-07-03"
+last_updated: "2026-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE ABRIL DE 2026.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -133,11 +133,11 @@ La Comisión Instaladora recibirá de los organismos electorales correspondiente
 
 La Comisión Instaladora citará a los diputados electos a una junta preparatoria dentro de los diez días anteriores al inicio del primer período ordinario de la Legislatura entrante.
 
-> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADO, G.G. 14 DE ABRIL DE 2026)</small>
 
 ###### Artículo 17.
 
-A más tardar el 4 de septiembre del año de renovación de la Legislatura, con intervención de la Comisión Instaladora, los diputados electos se reunirán y elegirán mediante votación por cédula y por mayoría de votos a la Directiva, que se integrará por una Presidencia, dos Vicepresidencias y tres Secretarías. La Persona Titular de la Presidencia fungirá durante todo el año del ejercicio constitucional, y presidirá los periodos ordinarios, extraordinarios y la Diputación Permanente que corresponda. Los demás integrantes de la Directiva serán renovados mensualmente.
+A más tardar el 4 de septiembre del año de renovación de la Legislatura, con intervención de la Comisión Instaladora, los diputados electos se reunirán y elegirán mediante votación por cédula y por mayoría de votos a la Directiva, que se integrará por una Presidencia, dos Vicepresidencias y las Secretarías suficientes para asegurar la participación de cada Grupo Parlamentario, pudiendo optar estos por no ejercer dicho derecho. La Persona Titular de la Presidencia fungirá durante todo el año del ejercicio constitucional, y presidirá los periodos ordinarios, extraordinarios y la Diputación Permanente que corresponda. Los demás integrantes de la Directiva serán renovados mensualmente.
 
 ###### Artículo 18.
 
@@ -497,31 +497,37 @@ Los órganos de la Legislatura serán integrados por diputados de diversos grupo
 
 ### CAPITULO II. DE LA DIRECTIVA DE LA LEGISLATURA
 
-> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE ABRIL DE 2026)</small>
 
 ###### Artículo 42.
 
-La Directiva de la Legislatura se integra por una Presidencia, dos Vicepresidencias y tres Secretarías. Las Personas Titulares de las Vicepresidencias suplirán en sus faltas alternativamente a la Persona Titular en la Presidencia y las Secretarías a quienes ocupen la Vicepresidencia. Su integración se realizará procurando el principio de paridad. Las Personas Titulares de las Vicepresidencias podrán realizar las funciones de las Secretarías en ausencia de estas, cuando así lo acuerde la Presidencia.
+La Directiva de la Legislatura se integra por una Presidencia, dos Vicepresidencias y las Secretarías necesarias para que cada Grupo Parlamentario cuente con al menos un integrante en la Directiva, pudiendo estos optar por no ejercer dicho derecho. Las Personas Titulares de las Vicepresidencias suplirán en sus faltas alternativamente a la Persona Titular en la Presidencia y las Secretarías a quienes ocupen la Vicepresidencia. Su integración se realizará procurando el principio de paridad. Las Personas Titulares de las Vicepresidencias podrán realizar las funciones de las Secretarías en ausencia de estas, cuando así lo acuerde la Presidencia.
 
-La Persona Titular de la Presidencia será electa por un año legislativo y presidirá los periodos ordinarios, extraordinarios y la Diputación Permanente, los demás integrantes de la Directiva serán renovados mensualmente. La elección se llevará a cabo mediante votación secreta. Las mismas disposiciones regirán para las Vicepresidencias y Secretarías en los periodos extraordinarios. Quien ocupe la Presidencia no podrá reelegirse para ocupar igual cargo durante el año de ejercicio constitucional siguiente.
+> <small>(REFORMADO, G.G. 14 DE ABRIL DE 2026)</small>
+
+La Persona Titular de la Presidencia será electa por un año legislativo y presidirá los periodos ordinarios, extraordinarios y la Diputación Permanente, los demás integrantes de la Directiva serán renovados mensualmente, a propuesta de la Junta de Coordinación Política, la elección se llevará a cabo en el formato que esta determine, pudiendo realizarse mediante votación secreta. Las mismas disposiciones regirán para las Vicepresidencias y Secretarías en los periodos extraordinarios. Quien ocupe la Presidencia no podrá reelegirse para ocupar igual cargo durante el año de ejercicio constitucional siguiente.
+
+> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2024)</small>
 
 La Diputación Permanente será electa conforme lo dispuesto en esta Ley.
 
+> <small>(REFORMADO, G.G. 12 DE NOVIEMBRE DE 2024)</small>
+
 La persona que presida la Directiva, lo será también de la Legislatura del Congreso del Estado Libre y Soberano de México.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 12 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE ABRIL DE 2026)</small>
 
 ###### Artículo 43.
 
-Quienes integren la Directiva que presidirá la Legislatura al inicio del año de ejercicio constitucional y del primer mes del Periodo Ordinario o Extraordinario que corresponda en el caso de las Vicepresidencias y las Secretarías, serán electos en junta preparatoria dentro de los siete días previos al inicio del año de ejercicio constitucional o del Periodo Ordinario o Extraordinario según corresponda; en el supuesto de que la junta no pudiere realizarse, podrán elegirse, en junta el primer día del período respectivo, antes de la primera Sesión.
+Quienes integren la Directiva que presidirá la Legislatura al inicio del año de ejercicio constitucional y del primer mes del Periodo Ordinario o Extraordinario que corresponda en el caso de las Vicepresidencias y las Secretarías, serán electos a propuesta de la Junta de Coordinación Política en junta preparatoria dentro de los siete días previos al inicio del año de ejercicio constitucional o del Periodo Ordinario o Extraordinario según corresponda pudiendo realizarse mediante votación por cédula, en el supuesto de que la junta no pudiere realizarse, podrán elegirse, en junta el primer día del período respectivo, antes de la primera Sesión.
 
 > <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
 
 La Directiva deberá integrarse preferentemente de manera plural y paritaria procurando nombrar a dos de las personas titulares de la secretaría de género contrario a quien ocupe la presidencia y a la otra, del mismo género de la presidencia, procurando a su vez que, quienes ocupen las vicepresidencias, sean una de cada género.
 
-> <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
+> <small>(REFORMADO, G.G. 14 DE ABRIL DE 2026)</small>
 
-Cada mes en la fecha en que se hubieren abierto las sesiones iniciarán su gestión las personas titulares de las Vicepresidencias y Secretarías, para lo cual deberán elegirse dentro de los siete días anteriores, o bien, en la primera sesión del mes en el que deban fungir. En el caso del Segundo Período Ordinario de Sesiones, cuando el mes que corresponda no tenga treinta y un días, las personas titulares serán electas dentro de los siete días anteriores al primer día del mes siguiente o bien ese día; e iniciarán sus funciones el primer día del mes.
+Cada mes en la fecha en que se hubieren abierto las sesiones iniciarán su gestión las personas titulares de las Vicepresidencias y Secretarías, para lo cual deberán elegirse a propuesta de la Junta de Coordinación Política, o mediante votación por cédula, dentro de los siete días anteriores, o bien, en la primera sesión del mes en el que deban fungir. En el caso del Segundo Período Ordinario de Sesiones, cuando el mes que corresponda no tenga treinta y un días, las personas titulares serán electas dentro de los siete días anteriores al primer día del mes siguiente o bien ese día; e iniciarán sus funciones el primer día del mes.
 
 ###### Artículo 44.
 
@@ -535,9 +541,9 @@ Los integrantes de la directiva desempeñarán sus funciones conforme a lo dispu
 
 Corresponde a la directiva, bajo la autoridad del presidente, vigilar la buena marcha del trabajo legislativo, aplicando con imparcialidad las disposiciones de la ley y el reglamento.
 
-> <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, G.G. 14 DE ABRIL DE 2026)</small>
 
-Cuando el Presidente no convoque a sesión en términos de la Ley y el Reglamento, podrá convocar la directiva por acuerdo de la mayoría de sus integrantes.
+Cuando el Presidente no convoque a sesión en términos de la Ley y el Reglamento, podrá convocar la directiva por acuerdo de la mayoría de sus integrantes, a solicitud de la Junta de Coordinación Política.
 
 > <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2004)</small>
 
@@ -609,9 +615,9 @@ XIX. Nombrar las comisiones especiales de protocolo;
 
 XX. Adoptar las decisiones y medidas que se requieran para la organización y buena marcha del trabajo legislativo;
 
-> <small>(REFORMADA, G.G. 12 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADA, G.G. 14 DE ABRIL DE 2026)</small>
 
-XXI. Dar cuenta a la Asamblea, al término del Segundo Periodo de Sesiones del año de ejercicio constitucional que corresponda, o del Periodo Extraordinario de Sesiones que presida, del desarrollo de los trabajos legislativos, y de los informes que emitan;
+XXI. Dar cuenta a la Asamblea, al término del Segundo Periodo de Sesiones del año de ejercicio constitucional que corresponda, del receso, o del Periodo Extraordinario de Sesiones que presida, del desarrollo de los trabajos legislativos, y de los informes que emitan, y
 
 > <small>(REFORMADA, G.G. 10 DE NOVIEMBRE DE 2011)</small>
 
@@ -695,9 +701,13 @@ El Presidente de la Diputación Permanente les podrá turnar para su estudio ini
 
 La Diputación Permanente se integrará por una Presidencia, una Vicepresidencia, una Secretaría y seis miembros más. Para cubrir la falta de las y los titulares se elegirán cinco suplentes.
 
+> <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2026)</small>
+
+La Junta de Coordinación Política propondrá su integración y la elección podrá llevarse a cabo en votación secreta debiendo integrarse preferentemente de manera plural y paritaria en términos similares a la Directiva.
+
 La Persona Titular de la Presidencia de la Directiva, presidirá la Diputación Permanente en los recesos del año del ejercicio constitucional que corresponda.
 
-La elección de la Vicepresidencia, la Secretaría, los seis miembros titulares y cinco miembros suplentes de la Diputación Permanente se llevará a cabo en votación secreta debiendo integrarse preferentemente de manera plural y paritaria en términos similares a la Directiva.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.G. 14 DE ABRIL DE 2026)</small>
 
 ###### Artículo 53.
 
@@ -719,7 +729,9 @@ II. Excitar a los poderes de la unión a que presten su protección al Estado, e
 
 III. Recibir, analizar y resolver la solicitud que formulen cuando menos la mitad más uno de los miembros de la Legislatura, para convocarla a período extraordinario;
 
-IV. Expedir la convocatoria a período extraordinario, proveyendo que entre la publicación y la sesión de apertura, medien al menos cuarenta y ocho horas;
+> <small>(REFORMADA, G.G. 14 DE ABRIL DE 2026)</small>
+
+IV. Expedir la convocatoria a período extraordinario, proveyendo que entre la publicación y la sesión de apertura, medien al menos veinticuatro horas;
 
 > <small>(REFORMADA, G.G. 21 DE JULIO DE 2006)</small>
 
@@ -769,7 +781,9 @@ La Junta de Coordinación Política funcionará para todo el ejercicio constituc
 
 La Junta de Coordinación Política propondrá la integración de las comisiones y comités a la aprobación de la Asamblea.
 
-La Junta de Coordinación Política contará para su buen funcionamiento con un Secretario Técnico nombrado por el Presidente de dicha Junta.
+> <small>(REFORMADO, G.G. 14 DE ABRIL DE 2026)</small>
+
+La Junta de Coordinación Política podrá proponer a la Asamblea la integración de la Directiva al inicio del Primer Periodo de Sesiones Ordinarias del año que corresponda, y de las Vicepresidencias y Secretarías en los Periodos Extraordinarios, y de la Diputación Permanente, que serán designados conforme al procedimiento establecido en esta Ley.
 
 > <small>(REFORMADO, G.G. 26 DE SEPTIEMBRE DE 2008)</small>
 
@@ -1247,6 +1261,10 @@ Los Secretarios Técnicos, podrán ser removidos por el presidente de la Comisi�
 
 En el caso de que los diputados no sean miembro (sic) de las comisiones o de los comités, podrán integrarse como asociados, con voz pero sin voto. Los diputados presidirán una sola comisión legislativa.
 
+> <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2026)</small>
+
+Las y los diputados asociados podrán, en auxilio de la comisión, fungir como secretarios o presidir las reuniones de trabajo que se celebren, cuando así lo determine la propia comisión.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE OCTUBRE DE 2010)</small>
 
 ###### Artículo 72.
@@ -1485,11 +1503,11 @@ Ninguna iniciativa podrá discutirse sin que primero pase a las comisiones corre
 
 Tratándose de asuntos calificados como urgentes o de obvia resolución, la Legislatura o la Diputación Permanente podrá acordar la dispensa de trámites, excepto el de votación.
 
-> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE ABRIL DE 2026)</small>
 
 ###### Artículo 84.
 
-La comisión o comisiones a las que sean remitidas las iniciativas o asuntos presentados a la Legislatura, harán llegar su dictamen al Presidente dentro de los treinta días hábiles siguientes de haberlas recibido, para el efecto de su presentación a la Asamblea; si esto no fuere posible, deberán solicitar a la Presidencia una prórroga que les será concedida hasta por igual término y por una sola vez, salvo que por acuerdo de la Asamblea se les conceda un plazo mayor. Si en el plazo señalado no presentan el dictamen, el Presidente nombrará una comisión especial para que dictamine en el término improrrogable de 10 días. Cuando las leyes establezcan plazos, las comisiones se sujetarán a ellos.
+La comisión o comisiones a las que sean remitidas las iniciativas o asuntos presentados a la Legislatura, harán llegar su dictamen al Presidente conforme a los plazos y calendarios que establezca la Junta de Coordinación Política, para el efecto de su presentación a la Asamblea; si esto no fuere posible, deberán solicitar a la Presidencia una prórroga que les será concedida hasta por igual término y por una sola vez, salvo que por acuerdo de la Asamblea se les conceda un plazo mayor. Si en el plazo señalado no presentan el dictamen, el Presidente nombrará una comisión especial para que dictamine en el término improrrogable de 10 días. Cuando las leyes establezcan plazos, las comisiones se sujetarán a ellos.
 
 > <small>(ADICIONADO, G.G. 8 DE MARZO DE 2011)</small>
 
@@ -1679,17 +1697,21 @@ El Presidente de la Junta de Coordinación Política, procurará que los miembro
 
 La Legislatura del Estado, actuará como Gran Jurado de Sentencia respecto de los sujetos a juicio político, en los términos de la Constitución, de la ley y demás disposiciones relativas.
 
-> <small>(REFORMADO, G.G. 21 DE JULIO DE 2006)</small>
+> <small>(REFORMADO, G.G. 14 DE ABRIL DE 2026)</small>
 
 ###### Artículo 98.
 
-Para el examen previo de las denuncias sobre juicio político, se integrará una comisión conformada por tres diputados que serán los presidentes de las comisiones legislativas de Gobernación y Puntos Constitucionales, Derechos Humanos, y Procuración y Administración de Justicia.
+Para el examen previo de las denuncias sobre juicio político, se integrará una comisión denominada de “Examen Previo”, conformada por las diputadas y los diputados que integren la Junta de Coordinación Política.
 
-> <small>(REFORMADO, G.G. 12 DE OCTUBRE DE 2004)</small>
+La Comisión de Examen Previo verificará si las denuncias colman los presupuestos procesales indispensable y si su improcedencia es manifiesta e indudable, de modo tal que no sea justificable darle trámite y, por tanto, deba ser desechada de plano.
+
+Una denuncia puede ser manifiesta e indudablemente improcedente, cuando los motivos de improcedencia son notorios, claros y evidentes, que además no podrían ser desvirtuados aun cuando se diere trámite a la petición en cuestión y se allegaren pruebas.
+
+> <small>(REFORMADO, G.G. 14 DE ABRIL DE 2026)</small>
 
 ###### Artículo 99.
 
-La Sección Instructora del Gran Jurado se integrará por cinco diputados insaculados en sesión reservada. Los insaculados designarán de entre ellos a un Presidente y un Secretario; los demás fungirán como Vocales.
+La Sección Instructora se integrará por cinco diputados insaculados en sesión reservada, los insaculados designarán de entre ellos a un Presidente y un Secretario; los demás fungirán como Vocales.
 
 > <small>(REFORMADO, G.G. 27 DE AGOSTO DE 2021)</small>
 
@@ -1703,7 +1725,9 @@ Para substanciar el procedimiento de juicio político, se procederá de conformi
 
 La Legislatura del Estado actuará como Jurado de Procedencia respecto de responsabilidades de servidores públicos, por delitos que cometan durante el tiempo de su encargo, conforme a lo previsto en la Constitución.
 
-Para estos casos se integrará también la Sección Instructora del Gran Jurado.
+> <small>(REFORMADO, G.G. 14 DE ABRIL DE 2026)</small>
+
+Para estos casos se integrará también la Comisión de Examen Previo y la Sección Instructora.
 
 > <small>(REFORMADO, G.G. 27 DE AGOSTO DE 2021)</small>
 
@@ -1715,13 +1739,19 @@ El procedimiento de declaración de procedencia, se ajustará a la normatividad 
 
 ### CAPITULO UNICO. DE LA COMISION DE INSTRUCCION Y DICTAMEN
 
+> <small>(REFORMADO, G.G. 14 DE ABRIL DE 2026)</small>
+
 ###### Artículo 103.
 
-Para los casos de suspensión de ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato de alguno de sus miembros, se integrará la Comisión de Instrucción y Dictamen.
+Para el examen previo de las denuncias de suspensión de Ayuntamientos, declarar que estos han desaparecido y suspender o revocar el mandato de alguno de sus miembros, la Comisión de Examen Previo verificará si las denuncias cumplen con los presupuestos procesales indispensable y si su improcedencia es manifiesta e indudable, de modo tal que no sea justificable darle trámite y, por tanto, deba ser desechada de plano.
 
-> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2004)</small>
+Una denuncia puede ser manifiesta e indudablemente improcedente, cuando los motivos de improcedencia son notorios, claros y evidentes, que además no podrían ser desvirtuados aun cuando se diere trámite a la petición en cuestión y se allegaren pruebas.
+
+> <small>(REFORMADO, G.G. 14 DE ABRIL DE 2026)</small>
 
 ###### Artículo 104.
+
+En caso de admitirse la denuncia, se hará del conocimiento del Pleno de la Asamblea para que se constituya la Comisión de Instrucción y Dictamen, a la que se hará llegar el expediente que al efecto haya integrado la Comisión de Examen Previo.
 
 La Comisión de Instrucción y Dictamen se integrará por seis diputados que serán dos de la Junta de Coordinación Política, los Presidentes de las comisiones de Gobernación y Puntos Constitucionales, y de Procuración y Administración de Justicia, un diputado de la primera minoría y uno de la segunda a propuesta de los grupos parlamentarios respectivos.
 
@@ -2830,3 +2860,11 @@ G.G. 3 DE JULIO DE 2025.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 14 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 295.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 17, 42 PÁRRAFOS PRIMERO Y SEGUNDO, 43 PÁRRAFOS PRIMERO Y TERCERO, 46 PÁRRAFO SEGUNDO, 47 FRACCIÓN XXI, 55 FRACCIÓN IV, 60 PÁRRAFO CUARTO, 84 PÁRRAFO PRIMERO, 98, 99, 101 PÁRRAFO SEGUNDO, 103 Y 104; SE ADICIONA EL PÁRRAFO SEGUNDO, RECORRIÉNDOSE LOS SUBSECUENTES DEL ARTÍCULO 52, Y UN PÁRRAFO SEGUNDO AL ARTÍCULO 71; Y SE DEROGA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 52 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO; Y SE REFORMAN LOS ARTÍCULOS 20 FRACCIÓN III, 22, 35 PÁRRAFO SEGUNDO, 43, 44 FRACCIÓN VI, 72 FRACCIÓN I, 81 PÁRRAFO PRIMERO, 87, 93, 94, 95 Y 138; Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 20, Y EL TERCER PÁRRAFO AL ARTÍCULO 68 DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
