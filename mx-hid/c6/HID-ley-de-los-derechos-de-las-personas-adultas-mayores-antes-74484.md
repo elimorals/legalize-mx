@@ -4,7 +4,7 @@ identifier: "HID-ley-de-los-derechos-de-las-personas-adultas-mayores-antes-74484
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-12"
-last_updated: "2026-04-13"
+last_updated: "2026-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74484&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 12 de abril de 2010.
 
@@ -111,9 +111,9 @@ IX.- Calidad del Servicio.- Conjunto de características que confieren al servic
 
 X.- Instituto.- Instituto para la Atención de los Adultos Mayores del Estado de Hidalgo;
 
-> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2026)</small>
 
-XI.- Abandono.- La falta de acción deliberada o no para atender de manera integral las necesidades de una persona adulta mayor, que ponga en peligro su vida o su integridad física, psíquica o moral;
+XI.- Abandono: La falta de acción deliberada o no para atender de manera integral las necesidades de una persona adulta mayor, que ponga en peligro su vida o su integridad física, psicológica o moral, obstaculizando con ello el goce o ejercicio de sus derechos.
 
 > <small>(ADICIONADA, P.O. 10 DE MAYO DE 2021)</small>
 
@@ -1296,3 +1296,9 @@ TERCERO. Dentro del término de sesenta días naturales contados a partir de la 
 Dentro del mismo plazo señalado en el párrafo anterior, la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Hidalgo deberá crear e instalar un Comité Técnico para el acompañamiento y seguimiento a la implementación de las Procuradurías Municipales de Protección de Niñas, Niños y Adolescentes, conformado al menos por el Sistema Estatal de Desarrollo Integral de la Familia, los Sistemas DIF Municipales, así como las dependencias y entidades de la Administración Pública Estatal y Municipal que se consideren pertinentes.
 
 CUARTO. En un plazo que no exceda de ciento ochenta días naturales contados a partir de la publicación de los lineamientos a que se hace referencia en el artículo tercero transitorio de este Decreto, los municipios deberán realizar los ajustes jurídicos, administrativos, operativos y presupuestales para que las Unidades de Primer Contacto transiten a Procuradurías Municipales de Protección de Niñas, Niños y Adolescentes, conforme a lo aprobado en el presente Decreto.
+
+P.O. 14 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 605 – LXVI POR EL QUE SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 4 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
