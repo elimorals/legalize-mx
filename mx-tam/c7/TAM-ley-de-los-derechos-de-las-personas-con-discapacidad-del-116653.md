@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-los-derechos-de-las-personas-con-discapacidad-del-116653
 country: "mx"
 rank: "ley"
 publication_date: "2016-09-27"
-last_updated: "2026-03-17"
+last_updated: "2026-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2026.
 
 Ley publicada en el Número 115 del Periódico Oficial del Estado de Tamaulipas, el martes 27 de septiembre de 2016.
 
@@ -133,7 +133,9 @@ XXVI.- Persona con Discapacidad: Toda persona que, por razón congénita o adqui
 
 XXVI BIS.- Perspectiva de Discapacidad: Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las personas con discapacidad, que se pretende justificar con base en las diferencias de carácter físico, mental, intelectual o sensorial, ya sea permanente o temporal, así como las acciones que deben emprenderse para actuar sobre la igualdad e inclusión y, crear las condiciones de cambio que permitan la integración y desarrollo de las personas con discapacidad en la sociedad;
 
-XXVII.- Perro Guía: Son aquellos que han sido certificados para el acompañamiento, conducción y auxilio de personas con discapacidad;
+> <small>(REFORMADA, P.O. 14 DE ABRIL DE 2026)</small>
+
+XXVII.- Perro Guía o animal de servicio: son aquellos que han sido certificados para el acompañamiento, conducción y auxilio de personas con discapacidad;
 
 > <small>(REFORMADA, P.O. 23 DE MARZO DE 2023)</small>
 
@@ -429,11 +431,13 @@ II.- Ser atendidos con prontitud y diligencia por los particulares que brinden a
 
 Los costos de las adecuaciones que eroguen las empresas, centros y locales comerciales, áreas culturales o recreativas y en general todo inmueble con acceso al público, podrá ser sujeto de estímulos fiscales o reconocimientos por la autoridad competente.
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2026)</small>
+
 ###### ARTÍCULO 17.
 
-1. Las personas con discapacidad visual usuarias de perro guía, tendrán derecho al libre acceso a inmuebles públicos que presten algún servicio al público o establecimientos con servicios comerciales así como en el transporte público.
+1. Las personas con discapacidad visual usuarias de perro guía o animal de servicio, tendrán derecho al libre acceso a inmuebles públicos que presten algún servicio al público o establecimientos con servicios comerciales, así como en el transporte público.
 
-2. Los inmuebles deberán contar con las adecuaciones físicas de señalización, acceso y permanencia, que permitan el libre desplazamiento y el uso por parte de las personas con discapacidad visual, las usuarias de perro guía, o cualquier otro instrumento de auxilio para su discapacidad.
+2. Los inmuebles deberán contar con las adecuaciones físicas de señalización, acceso y permanencia, que permitan el libre desplazamiento y el uso por parte de las personas con discapacidad visual, las usuarias de perro guía o animal de servicio, o cualquier otro instrumento de auxilio para su discapacidad.
 
 ###### ARTÍCULO 18.
 
@@ -1540,3 +1544,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 La implementación de lo dispuesto en el presente decreto se realizará conforme a la disponibilidad presupuestal y a los mecanismos de planeación existentes desarrollados por las áreas competentes.
+
+P.O. 14 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 66-1040 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 3, FRACCIÓN XXVII; Y 17, DE LA LEY DE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
