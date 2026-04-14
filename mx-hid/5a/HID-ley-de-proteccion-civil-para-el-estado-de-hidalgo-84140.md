@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-civil-para-el-estado-de-hidalgo-84140"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-05"
-last_updated: "2023-08-18"
+last_updated: "2026-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84140&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE AGOSTO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2026.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 5 de diciembre de 2011.
 
@@ -1117,6 +1117,12 @@ Para ello, tendrá como función la acreditación de las capacidades de personas
 
 La estructura, organización y operación de la Escuela Estatal se especificará en las disposiciones normativas que para tal efecto se emitan.
 
+> <small>(ADICIONADO, P.O. 14 DE ABRIL DE 2026)</small>
+
+###### Artículo 61 Bis.
+
+La Secretaría de Gobierno, a través de la Subsecretaría de Protección Civil y Gestión de Riesgos, promoverá acciones de capacitación y prevención dirigidos a grupos vulnerables con el propósito de fortalecer sus capacidades para la autoprotección, la respuesta comunitaria y la reducción de riesgos ante emergencias o desastres.
+
 ## TÍTULO DÉCIMO CUARTO. De los Instrumentos Financieros de Gestión de Riesgos
 
 ###### Artículo 62.
@@ -1428,5 +1434,11 @@ P.O. 18 DE AGOSTO DE 2023.
 P.O. 18 DE AGOSTO DE 2023.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 562 POR EL QUE SE REFORMA LA FRACCIÓN XXXI DEL ARTÍCULO 2 DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 14 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 583 – LXVI POR EL QUE SE ADICIONA UN ARTÍCULO 61 BIS A LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO, EN MATERIA DE CAPACITACIÓN Y PREVENCIÓN A GRUPOS VULNERABLES”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
