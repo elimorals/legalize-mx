@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2025-07-03"
+last_updated: "2026-04-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE ABRIL DE 2026.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -905,7 +905,13 @@ I.- A través del Secretario de la directiva, en sesión;
 
 II.- En reunión de las propias comisiones, debiendo señalar el Orden del Día a tratar en la reunión;
 
-III.- Por escrito con acuse de recibo en las oficinas de los diputados, cuando menos con veinticuatro horas de anticipación.
+> <small>(REFORMADA, G.G. 14 DE ABRIL DE 2026)</small>
+
+III.- Por escrito con acuse de recibo en las oficinas de los diputados, cuando menos con veinticuatro horas de anticipación;
+
+> <small>(ADICIONADA, G.G. 14 DE ABRIL DE 2026)</small>
+
+IV.- Por medios electrónicos, digitales o de comunicación instantánea, a través del medio más expedito disponible, que permita dejar constancia de su envío y recepción.
 
 > <small>(REFORMADO, G.G. 13 DE AGOSTO DE 2007)</small>
 
@@ -923,9 +929,11 @@ El Gobernador del Estado o a las autoridades a quienes la Constitución otorga e
 
 En caso de ausencia de alguno de los integrantes de la directiva de la comisión, tomará su lugar quien le siga en orden jerárquico. Si la ausencia fuere definitiva, la Asamblea decidirá sobre la sustitución.
 
+> <small>(REFORMADO, G.G. 14 DE ABRIL DE 2026)</small>
+
 ###### Artículo 22.
 
-El presidente de la comisión será el encargado de presentar el dictamen a la consideración de la Asamblea. Cuando se trate de comisiones unidas, se pondrán de acuerdo sobre quien deba hacerlo, lo mismo cuando sea otro de los integrantes de las comisiones.
+La Diputada o el Diputado presentante de la iniciativa será el encargado de presentar el dictamen a la consideración de la Asamblea. Cuando el dictamen recaiga sobre iniciativas analizadas y dictaminadas de manera conjunta, o presentadas por cualquier otra persona o autoridad con derecho de Iniciativa, la Junta de Coordinación Política determinará quién deberá realizar la presentación ante la Asamblea.
 
 > <small>(REFORMADO, G.G. 8 DE MARZO DE 2011)</small>
 
@@ -1001,9 +1009,9 @@ Los grupos parlamentarios coadyuvarán al mejor desarrollo del proceso legislati
 
 Durante los períodos ordinarios, la Legislatura sesionará por lo menos una vez por semana o cuantas veces sea necesario para el oportuno despacho de los asuntos de su competencia.
 
-> <small>(ADICIONADO, G.G. 30 DE ABRIL DE 2004)</small>
+> <small>(REFORMADO, G.G. 14 DE ABRIL DE 2026)</small>
 
-Cuando el Presidente no convoque a sesión en términos de la Ley y el Reglamento, podrá convocar la directiva por acuerdo de la mayoría de sus integrantes.
+Cuando el Presidente no convoque a sesión en términos de la Ley y el Reglamento, podrá convocar la directiva por acuerdo de la mayoría de sus integrantes, a solicitud de la Junta de Coordinación Política.
 
 ###### Artículo 36.
 
@@ -1075,9 +1083,11 @@ X.- Clausura de la sesión.
 
 Atendiendo a la importancia de los asuntos, el presidente podrá proponer su tratamiento en orden diverso.
 
+> <small>(REFORMADO, G.G. 14 DE ABRIL DE 2026)</small>
+
 ###### Artículo 43.
 
-Las sesiones solemnes que se realicen por mandato legal o por acuerdo expreso de la Asamblea, se sujetarán en su desarrollo a lo previsto en el orden del día y en el protocolo respectivo. La directiva cuidará de preservar el carácter solemne, sin que en ningún caso sea procedente el tratamiento de asuntos ajenos a la misma y sólo intervendrán los oradores registrados.
+Las sesiones solemnes que se realicen por mandato legal o por acuerdo expreso de la Asamblea o de la Junta de Coordinación Política, se sujetarán en su desarrollo a lo previsto en el orden del día y en el protocolo respectivo. La directiva o la diputación permanente, cuidará de preservar el carácter solemne, sin que en ningún caso sea procedente el tratamiento de asuntos ajenos a la misma y sólo intervendrán los oradores registrados.
 
 ###### Artículo 44.
 
@@ -1093,7 +1103,9 @@ IV.- Asista el Presidente de los Estados Unidos Mexicanos;
 
 V.- Se honre a personas o instituciones;
 
-VI.- Así lo acuerde la Asamblea.
+> <small>(REFORMADA, G.G. 14 DE ABRIL DE 2026)</small>
+
+VI.- Así lo acuerde la Asamblea o la Junta de Coordinación Política.
 
 ###### Artículo 45.
 
@@ -1257,6 +1269,10 @@ El diputado o la diputada, que presente una iniciativa se denominará presentant
 
 La presentación de iniciativas será hasta por diez minutos, así como las proposiciones que no tengan tal carácter. La Presidencia de la Legislatura garantizará, en todo momento, que se respete el tiempo establecido para la presentación de las iniciativas y proposiciones que no tengan tal carácter; en caso de que no se pueda utilizar el cronómetro del salón de sesiones, se auxiliará con un cronómetro manual.
 
+> <small>(ADICIONADO, G.G. 14 DE ABRIL DE 2026)</small>
+
+La Secretaría de Asuntos Parlamentarios implementará los mecanismos necesarios para hacer saber a la persona oradora sobre la finalización de su tiempo, a través de elementos sonoros y/o visuales.
+
 > <small>(REFORMADO, G.G. 30 DE ABRIL DE 2018)</small>
 
 ###### Artículo 69.
@@ -1293,9 +1309,9 @@ Si las iniciativas carecen del apartado previsto por el inciso c) de la fracció
 
 Las proposiciones con punto de acuerdo serán presentadas, respecto de asuntos de interés general, cuyos efectos repercutan al Estado de México, así como exhortar respetuosamente en el ámbito de colaboración entre los Poderes del Estado, la realización o cesación en la ejecución de determinados actos, el cumplimiento concreto de obligaciones, y se sujetarán a las siguientes bases:
 
-> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, G.G. 14 DE ABRIL DE 2026)</small>
 
-I. Deberán registrarse ante la Presidencia de la Legislatura y contener una propuesta específica de acuerdo, petición o declaración institucional de la Legislatura. Podrán ser presentadas de manera individual o a nombre de alguno de los Grupos Parlamentarios, en un tiempo de hasta diez minutos;
+I. Deberán registrarse ante la Presidencia de la Legislatura y contener una propuesta específica de acuerdo, petición o declaración institucional de la Legislatura. Podrán ser presentadas de manera individual o a nombre de alguno de los Grupos Parlamentarios, en un tiempo de hasta diez minutos. La Secretaría de Asuntos Parlamentarios implementará los mecanismos necesarios para hacer saber a la persona oradora sobre la finalización de su tiempo, a través de elementos sonoros o visuales;
 
 > <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2022)</small>
 
@@ -1421,15 +1437,17 @@ Los dictámenes presentados por las comisiones serán firmados de forma autógra
 
 Concluido un dictamen, el presidente de la comisión lo remitirá al Presidente de la Legislatura, quien dispondrá su presentación a la Asamblea.
 
-> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE ABRIL DE 2026)</small>
 
 ###### Artículo 81.
 
-El diputado encargado de presentar el dictamen a consideración de la Asamblea, le dará lectura únicamente, a la parte introductoria, los antecedentes, y a los puntos resolutivos; y en su caso también a las modificaciones que hubiese tenido el proyecto de ley o decreto; concluida la misma, el Presidente de la Legislatura lo someterá a discusión.
+EI diputado encargado de presentar el dictamen a consideración de la Asamblea, le dará lectura únicamente, a la parte introductoria y a los puntos resolutivos; pudiendo solicitar su reproducción íntegra en la Gaceta Parlamentaria y en el Diario de los Debates, concluida la misma, el Presidente de la Legislatura lo someterá a discusión.
 
 > <small>(ADICIONADO, G.G. 25 DE ABRIL DE 2019)</small>
 
 La presentación de dictámenes será hasta por diez minutos.
+
+> <small>(REFORMADO, G.G. 30 DE ABRIL DE 2018)</small>
 
 Lo anterior será aplicable, en lo conducente, a las comisiones y comités.
 
@@ -1465,9 +1483,17 @@ La Asamblea no podrá rechazar la discusión de las iniciativas presentadas con 
 
 ### CAPITULO VIII. DE LA DISCUSION
 
+> <small>(REFORMADO, G.G. 14 DE ABRIL DE 2026)</small>
+
 ###### Artículo 87.
 
-Las discusiones en la Asamblea, respecto de iniciativas de ley o decreto, proposiciones, dictámenes o de cualquier otro asunto, se sujetarán a lo dispuesto por la ley y el reglamento y al orden del día aprobado.
+Las discusiones en la Asamblea, respecto de iniciativas de ley o decreto, proposiciones, dictámenes o de cualquier otro asunto, se sujetarán a lo dispuesto por la ley y el reglamento y al orden del día aprobado, cualquier punto que se presente a la asamblea diverso a los aprobados en el orden del día correspondiente, se tendrá por no presentado.
+
+La Junta de Coordinación Política podrá proponer la inclusión de un punto en el orden del día que no se encuentre originalmente contemplado en este. Para ello, deberá hacer la solicitud a la Presidencia de la Directiva, que ordenará que el asunto se distribuya a los diputados y las diputadas en forma electrónica y a solicitud, en forma impresa, antes de que dicha modificación al Orden del Día se someta a consideración de la Asamblea.
+
+Si el diputado o la diputada presentante no se encuentra presente, en cualquier modalidad, al momento de la presentación del asunto previamente enlistado en el orden del día, éste será retirado del mismo, salvo acuerdo de la Directiva en contrario, a solicitud del propio presentante.
+
+Cuando un diputado o diputada haga uso de la voz para presentar un punto previamente acordado en el orden del día, y se refiera a uno distinto, será reconvenido por la presidencia de la Directiva, para que se ciña al orden acordado por la asamblea.
 
 > <small>(REFORMADO, G.G. 3 DE MARZO DE 2011)</small>
 
@@ -1497,21 +1523,25 @@ Si un proyecto constare de más de cien artículos, aprobado en lo general se po
 
 Cuando un proyecto de ley o decreto fuere aprobado en lo general y no hubiese discusión en lo particular, se tendrá por aprobado, sin necesidad de someterlo a nueva votación, previa declaratoria del presidente.
 
-> <small>(REFORMADO, G.G. 8 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 14 DE ABRIL DE 2026)</small>
 
 ###### Artículo 93.
 
-Para la discusión en lo particular de un dictamen, los diputados que pretendan intervenir, indicarán los artículos o fracciones del proyecto que desean impugnar y estrictamente sobre ellos versará el debate. El Gobernador del Estado o las autoridades a quienes la Constitución otorga el derecho de iniciativa, podrán solicitar que se discuta un artículo o fracción en particular. Si la Asamblea lo aprueba, se procederá a la discusión.
+Para la discusión en lo particular de un dictamen, los diputados que pretendan intervenir indicarán los artículos o fracciones del proyecto que desean impugnar y se someterán a votación para determinar si se admiten a discusión, en el orden en que hayan sido presentados. El Gobernador del Estado o las autoridades a quienes la Constitución otorga el derecho de iniciativa, podrán solicitar que se discuta un artículo o fracción en particular. Si la Asamblea lo aprueba, se procederá a la discusión.
+
+> <small>(REFORMADO, G.G. 14 DE ABRIL DE 2026)</small>
 
 ###### Artículo 94.
 
-La discusión en lo particular de determinados artículos o fracciones, se desarrollará en el orden en que estén enumerados.
+La discusión en lo particular de determinados artículos o fracciones se desarrollará en el orden en que estén enumerados una vez que hayan sido admitidos a discusión conforme al artículo anterior, y únicamente sobre ellos versará el debate.
 
-Si algún artículo o fracción fuere objeto de varias impugnaciones, se pondrá a discusión separadamente una después de otra.
+Si algún artículo o fracción fuere objeto de varias impugnaciones y se hubiere admitido su discusión, se pondrá a discusión separadamente una después de otra.
+
+> <small>(REFORMADO, G.G. 14 DE ABRIL DE 2026)</small>
 
 ###### Artículo 95.
 
-Cuando durante la discusión se proponga alguna modificación al proyecto de ley o decreto, deberá hacerse por escrito y se someterá a votación para determinar si se admite o no; en caso afirmativo, pasará a formar parte del proyecto, de lo contrario, se tendrá por desechada.
+Cuando durante la discusión se proponga alguna modificación al proyecto de ley o decreto, deberá hacerse por escrito y se someterá primero a votación para determinar si se admite a discusión o no; en caso negativo, se tendrá por desechada de plano. Si es admitida, la persona proponente podrá exponerla ante la Asamblea en un tiempo no mayor a 5 minutos y se abrirá la lista de oradores, posteriormente se someterá a votación para determinar si se aprueba; en caso afirmativo pasará a formar parte del proyecto, y en caso contrario se tendrá por desechada y por aprobada la propuesta del proyecto de ley o decreto, sin que para ello sea necesaria una nueva votación.
 
 ###### Artículo 96.
 
@@ -1871,9 +1901,11 @@ XI.- Clausura de la sesión.
 
 Al entrar y salir del salón de sesiones el Gobernador y el Presidente del Tribunal Superior de Justicia del Estado, se pondrán de pie los miembros de la Legislatura, a excepción de su Presidente, quien sólo lo hará cuando hayan llegado al lugar que deban ocupar.
 
+> <small>(REFORMADO, G.G. 14 DE ABRIL DE 2026)</small>
+
 ###### Artículo 138.
 
-Las demás sesiones solemnes y las especiales que acuerde la Asamblea, se sujetarán al protocolo que previamente se determine en el respectivo orden del día.
+Las demás sesiones solemnes y las especiales que acuerde la Asamblea o la Junta de Coordinación Política se sujetarán al protocolo que previamente se determine en el respectivo orden del día.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE MARZO DE 2017)</small>
 
@@ -3419,15 +3451,13 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 228, POR EL QUE SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 177 BIS DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499”.]
+G.G. 14 DE ABRIL DE 2026.
 
-PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 295.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 17, 42 PÁRRAFOS PRIMERO Y SEGUNDO, 43 PÁRRAFOS PRIMERO Y TERCERO, 46 PÁRRAFO SEGUNDO, 47 FRACCIÓN XXI, 55 FRACCIÓN IV, 60 PÁRRAFO CUARTO, 84 PÁRRAFO PRIMERO, 98, 99, 101 PÁRRAFO SEGUNDO, 103 Y 104; SE ADICIONA EL PÁRRAFO SEGUNDO, RECORRIÉNDOSE LOS SUBSECUENTES DEL ARTÍCULO 52, Y UN PÁRRAFO SEGUNDO AL ARTÍCULO 71; Y SE DEROGA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 52 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO; Y SE REFORMAN LOS ARTÍCULOS 20 FRACCIÓN III, 22, 35 PÁRRAFO SEGUNDO, 43, 44 FRACCIÓN VI, 72 FRACCIÓN I, 81 PÁRRAFO PRIMERO, 87, 93, 94, 95 Y 138; Y SE ADICIONA LA FRACCIÓN IV AL ARTÍCULO 20, Y EL TERCER PÁRRAFO AL ARTÍCULO 68 DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO".]
 
-SEGUNDO.- Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal, para su conocimiento y para los efectos legales conducentes.
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
-TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página oficial del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
-
-P.O. 15 DE JULIO DE 2025.
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 252 POR EL QUE SE REFORMAN LAS FRACCIONES II, III, IV Y VII Y SE ADICIONAN LAS FRACCIONES VIII, IX Y X AL ARTÍCULO 135 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499, EN MATERIA DE FEMINICIDIO".]
 
