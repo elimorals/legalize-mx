@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-124615"
 country: "mx"
 rank: "ley"
 publication_date: "2017-11-24"
-last_updated: "2026-03-05"
+last_updated: "2026-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el viernes 24 de noviembre de 2017.
 
@@ -203,13 +203,17 @@ XXVIII. Sistema Nacional de Protección Integral: el Sistema Nacional de Protecc
 
 XXIX. Sistema Nacional DIF: el Sistema Nacional para el Desarrollo Integral de la Familia;
 
-> <small>(REFORMADA, P.O. 10 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2026)</small>
 
-XXX. Tratados internacionales: los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado Mexicano sea parte, y
+XXX. Tratados internacionales: los tratados internacionales vigentes en materia de derechos de niñas, niños y adolescentes de los que el Estado Mexicano sea parte;
 
-> <small>(REFORMADA, P.O. 4 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2026)</small>
 
-XXXI. Violencia digital: los actos de, acoso, hostigamiento, amenazas, insultos, vulneración de datos e información privada, divulgación de información apócrifa, mensajes de odio, difusión de contenido sexual, convencimiento y reclutamiento, textos, fotografías, videos y/o datos personales u otras impresiones gráficas sonoras, verdaderas o alteradas, o cualquier otra acción que sea cometida a través de tecnologías de la información y la comunicación, plataformas de internet, redes sociales, correo electrónico, aplicaciones, inteligencia artificial o cualquier otro espacio digital, que atenten contra la integridad, la dignidad, la intimidad, la libertad, la vida privada, o vulneren algún derecho humano de las niñas, niños y adolescentes.
+XXXI. Violencia digital: los actos de, acoso, hostigamiento, amenazas, insultos, vulneración de datos e información privada, divulgación de información apócrifa, mensajes de odio, difusión de contenido sexual, convencimiento y reclutamiento, textos, fotografías, videos y/o datos personales u otras impresiones gráficas sonoras, verdaderas o alteradas, o cualquier otra acción que sea cometida a través de tecnologías de la información y la comunicación, plataformas de internet, redes sociales, correo electrónico, aplicaciones, inteligencia artificial o cualquier otro espacio digital, que atenten contra la integridad, la dignidad, la intimidad, la libertad, la vida privada, o vulneren algún derecho humano de las niñas, niños y adolescentes, y
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2026)</small>
+
+XXXII. Violencia contra niñas, niños y adolescentes: Toda acción omisión, abuso, trato negligente o cualquier forma de abandono, de maltrato que cause daño, afectación, sufrimiento o ponga en riesgo la vida, la dignidad, la libertad, la integridad física, psicológica, emocional, sexual, y el desarrollo integral de niñas, niños y adolescentes.
 
 ###### ARTÍCULO 7°.
 
@@ -2922,6 +2926,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 5 DE MARZO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0480.- QUE REFORMA Y REALIZA ADICIÓN A LOS ARTÍCULOS 46 Y 63, DE LA LEY DE LOS DERECHOS DE LA (SIC) NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0509.- QUE REFORMA Y REALIZA ADICIÓN AL ARTÍCULO 6°, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
