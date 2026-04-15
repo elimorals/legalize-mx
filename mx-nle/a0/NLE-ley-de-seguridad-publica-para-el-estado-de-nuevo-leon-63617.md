@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-seguridad-publica-para-el-estado-de-nuevo-leon-63617"
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-22"
-last_updated: "2026-03-24"
+last_updated: "2026-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de septiembre de 2008.
 
@@ -1941,9 +1941,17 @@ XV. Coordinar acciones con los Comités de Participación Comunitaria de los Mun
 
 XVI. Solicitar a las autoridades de seguridad pública del Estado, cuando la circunstancia lo requiera, la intervención de sus Grupos Tácticos o Unidades Especiales de Intervención o de Reacción;
 
-XVII. Proceder inmediatamente a la búsqueda y ubicación de una persona reportada por cualquier medio como desaparecida, dando aviso sin dilación alguna a su superior inmediato, para los efectos que haya a lugar, y
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2026)</small>
 
-XVIII. Las demás que señale esta Ley.
+XVII. Proceder inmediatamente a la búsqueda y ubicación de una persona reportada por cualquier medio como desaparecida, dando aviso sin dilación alguna a su superior inmediato, para los efectos que haya a lugar;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE ABRIL DE 2026)</small>
+
+XVIII. Implementar protocolos de actuación para la atención de crisis psicológicas, intentos de suicidio y otras situaciones que pongan en riesgo la vida de las personas, coordinándose con las instituciones de salud y protección civil; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE ABRIL DE 2026)</small>
+
+XIX. Las demás que señale esta Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2010)</small>
 
@@ -3069,7 +3077,9 @@ III. Estatura mínima para hombres 1.65 metros y mujeres 1.55 metros. Su peso de
 
 IV. Contar con el Certificado con efectos de Patente Policial, y de educación que determina el Sistema Nacional de Seguridad Pública y su Ley;
 
-V. No contar con tatuajes que resulten visibles aún vistiendo el pantalón y la camisola de manga corta de la policía;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2026)</small>
+
+V. No contar con tatuajes con símbolos que representen un discurso de odio;
 
 VI. Saber conducir automóviles y tener licencia de manejo vigente;
 
@@ -4184,3 +4194,19 @@ SEGUNDO.- La utilización de cámaras corporales de los elementos de seguridad c
 a) Las Instituciones Policiales del Estado y de los municipios con una población mayor a 50,000 habitantes, contarán con un plazo de 4 años a partir de la entrada en vigor del presente Decreto para cumplimentar dichas disposiciones.
 
 b) Las Instituciones policiales de los municipios con una población menor a 50,000 habitantes contarán con un plazo de 6 años a partir de la entrada en vigor del presente Decreto para cumplimentar dichas disposiciones.
+
+P.O. 15 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 193. SE REFORMAN LAS FRACCIONES XVII Y XVIII DEL ARTÍCULO 131, Y SE ADICIONA UNA FRACCIÓN XIX AL ARTÍCULO 131 DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 194. SE ADICIONA EL ARTÍCULO 29 BIS A LA LEY DE LA INSTITUCIÓN POLICIAL ESTATAL FUERZA CIVIL; Y SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 198 BIS 5 DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado y los Ayuntamientos de los 51 municipios del Estado contarán con un plazo de 60 días contados a partir de la entrada en vigor del presente Decreto, para ajustar sus disposiciones reglamentarias a lo dispuesto por el mismo.
+
+TERCERO.- Se deroga cualquier disposición en lo que se oponga a lo preceptuado por el presente Decreto.
