@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-forestal-sustentable-del-estado-de-131113"
 country: "mx"
 rank: "ley"
 publication_date: "2018-10-24"
-last_updated: "2021-05-19"
+last_updated: "2026-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=131113&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2026.
 
 Ley publicada en el Folleto Anexo al Número 85 del Periódico Oficial del Estado de Chihuahua, el miércoles 24 de octubre de 2018.
 
@@ -87,7 +87,9 @@ VII. Establecer acciones para la coordinación, concertación y cooperación a l
 
 VIII. Promover y facilitar la participación ciudadana, incluyendo a los pueblos y comunidades indígenas del Estado, de acuerdo a su Sistema de Normatividad Interna, en la aplicación, evaluación y seguimiento de la política forestal, a través de los mecanismos pertinentes.
 
-IX. Promover la creación de instrumentos de apoyos económicos para fomentar el desarrollo forestal.
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2026)</small>
+
+IX. Promover la creación de instrumentos de apoyos económicos para fomentar el desarrollo forestal y medidas de prevención, adaptación y mitigación ante el cambio climático.
 
 X. Impulsar el desarrollo de la empresa social forestal.
 
@@ -355,7 +357,13 @@ XXX. Hacer del conocimiento de las autoridades competentes y, en su caso, denunc
 
 XXXI. Promover en su programa de desarrollo, los terrenos con uso del suelo forestal y preferentemente forestal.
 
-XXXII. La atención de los demás asuntos que en materia de desarrollo forestal sustentable le conceda esta Ley u otros ordenamientos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE ABRIL DE 2026)</small>
+
+XXXII. Promover y coadyuvar con las autoridades federales, estatales y municipales, la elaboración de políticas públicas forestales, para la prevención, adaptación y mitigación del cambio climático.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE ABRIL DE 2026)</small>
+
+XXXIII. La atención de los demás asuntos que en materia de desarrollo forestal sustentable le conceda esta Ley u otros ordenamientos.
 
 ###### ARTÍCULO 9.
 
@@ -403,7 +411,13 @@ XX. Regular y vigilar la disposición final de residuos provenientes de la extra
 
 XXI. Promover en su programa de desarrollo respectivo, los terrenos con uso del suelo forestal y preferentemente forestal.
 
-XXII. La atención de los demás asuntos que en materia de desarrollo forestal sustentable les conceda esta Ley u otros ordenamientos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE ABRIL DE 2026)</small>
+
+XXII. Coadyuvar con las autoridades federales y estatales, en la elaboración de políticas públicas forestales estatales, para la adaptación y mitigación del cambio climático.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 15 DE ABRIL DE 2026)</small>
+
+XXIII. La atención de los demás asuntos que en materia de desarrollo sustentable les conceda esta Ley u otros ordenamientos.
 
 ### CAPÍTULO II. DE LA SECRETARÍA
 
@@ -1258,6 +1272,14 @@ EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. JAVIER CORRAL JURADO. Rúbrica. EL
 P.O. 19 DE MAYO DE 2021.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVL/RFLEY/1004/2021 II P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 74 UN PÁRRAFO SEGUNDO DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFLEY/0475/2026 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE DEL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
 
