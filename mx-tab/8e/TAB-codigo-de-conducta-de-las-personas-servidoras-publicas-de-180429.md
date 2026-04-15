@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-conducta-de-las-personas-servidoras-publicas-de-18042
 country: "mx"
 rank: "codigo"
 publication_date: "2025-06-14"
-last_updated: "2025-06-14"
+last_updated: "2026-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180429&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # CODIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PUBLICAS DE LA CONSEJERIA JURIDICA DEL PODER EJECUTIVO DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA E INTEGRIDAD DE LA CONSEJERÍA JURÍDICA DEL PODER EJECUTIVO DEL ESTADO, PUBLICADO EN EL P.O. DE 15 DE ABRIL DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA CONSEJERÍA JURÍDICA DEL PODER EJECUTIVO DEL ESTADO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2026 (ABROGADO).
 
 Código publicado en el Suplemento K del Número 8637 del Periódico Oficial del Estado de Tabasco, el sábado 14 de junio de 2025.
 
@@ -286,3 +288,13 @@ DADO EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO, A LOS TREINTA 
 JESUS MANUEL ARGÁEZ DE LOS SANTOS
 
 CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA E INTEGRIDAD DE LA CONSEJERÍA JURÍDICA DEL PODER EJECUTIVO DEL ESTADO".]
+
+PRIMERO. El Presente Código de Conducta e Integridad de la Consejería Jurídica del Poder Ejecutivo del Estado entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se abroga el Código de Conducta de las Personas Servidoras Públicas de la Consejería Jurídica del Poder Ejecutivo del Estado publicado el 14 de junio de 2025 en el Periódico Oficial número 8637, Suplemento K.
