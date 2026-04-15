@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-tribunal-estatal-de-justicia-134390"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-03-13"
-last_updated: "2024-07-10"
+last_updated: "2026-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=134390&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2026.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 13 de marzo de 2019.
 
@@ -685,7 +685,9 @@ Para ser titular de una Secretaría de Acuerdos se requiere:
 
 I. Tener ciudadanía mexicana.
 
-II. Ser mayor de veinticinco años de edad.
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2026)</small>
+
+II. Ser mayor de edad.
 
 III. Contar con reconocida buena conducta.
 
@@ -693,7 +695,7 @@ IV. Tener licenciatura en derecho con título debidamente registrado.
 
 V. Contar como mínimo con tres años de experiencia en materia fiscal o administrativa.
 
-Para ser titular de la Primera Secretaría de Acuerdos se requiere tener al menos treinta años.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 15 DE ABRIL DE 2026)</small>
 
 Las y los actuarios y oficiales jurisdiccionales deberán reunir los requisitos descritos en las fracciones I a la IV de este artículo y además deberán contar como mínimo con un año de experiencia en materia fiscal o administrativa.
 
@@ -1030,3 +1032,11 @@ Se abroga el Decreto No. LXVII/RFLEY/0642/2023 I P.O., aprobado por el Pleno del
 ###### ARTÍCULO DÉCIMO.
 
 Háganse las medidas administrativas, financieras, presupuestales u operativas a que haya lugar, para el cumplimiento del presente Decreto, siguiendo los procedimientos correspondientes; por las instancias que resulten competentes.
+
+P.O. 15 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0490/2026 II P.O., MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DEL ARTÍCULO 19, DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL TRIBUNAL ESTATAL DE JUSTICIA ADMINISTRATIVA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
