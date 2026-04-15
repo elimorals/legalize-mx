@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-conducta-del-sistema-para-el-desarrollo-integral-1718
 country: "mx"
 rank: "codigo"
 publication_date: "2024-01-24"
-last_updated: "2024-01-24"
+last_updated: "2026-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=171812&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # CODIGO DE CONDUCTA DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE TABASCO, PUBLICADO EN EL P.O. DE 15 DE ABRIL DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2026 (ABROGADO).
 
 Código publicado en el Suplemento D del Periódico Oficial del Estado de Tabasco, el miércoles 24 de enero de 2024.
 
@@ -546,3 +548,15 @@ Fecha:
 Como persona servidora pública consciente de la importancia de mi labor dentro del Sistema DIF Tabasco, manifiesto que he recibido y conozco el contenido, alcance y responsabilidad que adquiero con el Código de Conducta, por lo que voluntariamente me comprometo a cumplirlo y a observar un comportamiento en estricto apego a los principios constitucionales, reglas de integridad y valores, fomentando así una cultura de integridad y ética pública, lo que me permite responder a las necesidades de la población bajo una conducta de servicio digna y responsable ante la sociedad y con mis compañeros de trabajo.
 
 Firma: _______________________________________
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se abroga el Código de Conducta del Sistema para el Desarrollo Integral de la Familia del Estado de Tabasco, publicado en el Periódico Oficial, Edición: 8492, Suplemento D, de fecha 24 de Enero de 2024.
+
+TECERO (SIC).- Todas las personas servidoras públicas del Sistema DIF Tabasco, deberán suscribir la Carta Compromiso a que hace referencia el artículo 14 del presente Código de Conducta.
