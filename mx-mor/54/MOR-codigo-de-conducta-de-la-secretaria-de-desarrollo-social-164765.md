@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-de-la-secretaria-de-desarrollo-social-164765
 country: "mx"
 rank: "codigo"
 publication_date: "2023-03-01"
-last_updated: "2023-03-01"
+last_updated: "2026-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=164765&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE DESARROLLO SOCIAL DEL PODER EJECUTIVO DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE BIENESTAR DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 15 DE ABRIL DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE DESARROLLO SOCIAL DEL PODER EJECUTIVO DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2026 (ABROGADO).
 
 Código publicado en el Número 6173 del Periódico Oficial del Estado de Morelos, el miércoles 1 de marzo de 2023.
 
@@ -276,3 +278,15 @@ Mtro. En D. Alfonso de Jesús Sotelo Martínez
 Secretario de Desarrollo Social
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE ABRIL DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE BIENESTAR DEL PODER EJECUTIVO DEL GOBIERNO DEL ESTADO DE MORELOS".]</small>
+
+PRIMERA. El presente Código de Conducta entrará en vigor a partir del día siguiente de su publicación, en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDA. Se abroga el Código de Conducta de la Secretaría de Desarrollo Social, publicado en el Periódico Oficial "Tierra y Libertad", número 6173, de fecha 01 de marzo de 2023.
+
+TERCERA. El presente instrumento deberá difundirse también en el portal electrónico oficial de la Secretaría de Bienestar del Poder Ejecutivo Estatal.
