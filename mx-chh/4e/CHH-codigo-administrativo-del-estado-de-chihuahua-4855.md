@@ -4,7 +4,7 @@ identifier: "CHH-codigo-administrativo-del-estado-de-chihuahua-4855"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-08-21"
-last_updated: "2025-07-09"
+last_updated: "2026-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2026.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 21 de agosto de 1974.
 
@@ -563,11 +563,19 @@ El tercer lunes de marzo, en conmemoración del 21 de marzo,
 
 12 de octubre,
 
-El tercer lunes de noviembre, en conmemoración del 20 de noviembre,
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE ABRIL DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 9 DE JULIO DE 2025)</small>
+2 noviembre.
 
-1o. de octubre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal,
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2026)</small>
+
+El tercer lunes de noviembre, en conmemoración del 20 de noviembre.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2026)</small>
+
+1o. de octubre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 15 DE ABRIL DE 2026)</small>
 
 25 de diciembre.
 
@@ -701,15 +709,23 @@ XII.- Otorgar horarios flexibles, reubicación temporal, o bien, autorizar la re
 
 > <small>(REFORMADA, P.O. 15 DE OCTUBRE DE 2022)</small>
 
-XIII. Conceder permisos o licencias, con goce de sueldo, para acudir a citas médicas para el tratamiento de cáncer de sus hijas, hijos o cónyuge, en su caso; el tratamiento destinado al alivio del dolor y cuidados paliativos, previa entrega de la constancia expedida por la institución pública o privada de salud, que precisará las características de la atención requerida y el tiempo que ampare dicho documento.
+XIII.- Conceder permisos o licencias, con goce de sueldo, para acudir a citas médicas para el tratamiento de cáncer de sus hijas, hijos o cónyuge, en su caso; el tratamiento destinado al alivio del dolor y cuidados paliativos, previa entrega de la constancia expedida por la institución pública o privada de salud, que precisará las características de la atención requerida y el tiempo que ampare dicho documento.
 
 > <small>(ADICIONADA, P.O. 10 DE ABRIL DE 2024)</small>
 
-XIV. Conceder permiso a las personas trabajadoras, cuyas niñas, niños y adolescentes se encuentren cursando estudios, para que puedan acudir a las citas a que sean convocados por la Autoridad Educativa, presentando ante el patrón y con razonable anticipación, el citatorio o justificación respectiva.
+XIV.- Conceder permiso a las personas trabajadoras, cuyas niñas, niños y adolescentes se encuentren cursando estudios, para que puedan acudir a las citas a que sean convocados por la Autoridad Educativa, presentando ante el patrón y con razonable anticipación, el citatorio o justificación respectiva.
 
 > <small>(ADICIONADA, P.O. 19 DE OCTUBRE DE 2024)</small>
 
-XV. Diseñar e implementar políticas públicas tendientes a prevenir, atender, erradicar y sancionar la violencia laboral.
+XV.- Diseñar e implementar políticas públicas tendientes a prevenir, atender, erradicar y sancionar la violencia laboral.
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2026)</small>
+
+XVI.- Otorgar permiso con goce de sueldo, a las personas trabajadoras que lo soliciten, por un plazo de 24 horas, para que acudan de manera voluntaria a donar sangre, hasta cuatro veces al año, con intervalos no menores a tres meses entre cada donación.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XVI, P.O. 15 DE ABRIL DE 2026.]</small>
+
+Para tal efecto, deberán presentar la constancia o documento médico correspondiente expedido por la institución competente, dentro de los dos días hábiles siguientes al que hayan realizado la donación.
 
 (ADICIONADO, P.O. 5 DE FEBRERO DE 2020) (F. DE E., P.O. 15 DE FEBRERO DE 2020)
 
@@ -11224,6 +11240,22 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 9 DE JULIO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVIII/RFCOD/0217/2025 II P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 93, NOVENO PÁRRAFO DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+P.O. 15 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFCOD/0478/2026 II P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 105, PÁRRAFO PRIMERO, LA FRACCIÓN XVI, DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+P.O. 15 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFCOD/0479/2026 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
