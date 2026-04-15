@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-desarrollo-rural-sustentable-del-estado-de-chiapas-12325
 country: "mx"
 rank: "ley"
 publication_date: "2017-08-30"
-last_updated: "2017-08-30"
+last_updated: "2026-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123253&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial para el Estado de Chiapas, el miércoles 30 de agosto de 2017.
 
@@ -63,6 +63,10 @@ II. Actividades económicas de la sociedad rural. Las actividades agropecuarias 
 
 III. Agentes de la sociedad rural. Personas físicas o morales de los sectores social y privado que integran a la sociedad rural.
 
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2026)</small>
+
+III Bis. Cambio Climático y Adaptación Rural: Estrategias y acciones dirigidas a mitigar los efectos del cambio climático en las actividades agropecuarias y forestales, asegurando la adaptación de las comunidades rurales.
+
 IV. Comisión Intersecretarial Estatal.- La Comisión Intersecretarial para el Desarrollo Rural Sustentable del Estado de Chiapas.
 
 V. Comisión Intersecretarial Federal.- La Comisión Intersecretarial integrada por las Secretarías y entidades federales de conformidad con la Ley de Desarrollo Rural Sustentable federal.
@@ -83,6 +87,10 @@ XII. Ecorregiones.- Son unidades geográficas con flora, fauna y ecosistemas car
 
 XIII. Ecotécnias.- Son innovaciones tecnológicas diseñadas con la finalidad de preservar y restablecer el equilibrio entre la naturaleza y las necesidades humanas.
 
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2026)</small>
+
+XIII Bis. Estrategia para del Desarrollo Rural. Es el mecanismo que fomenta la participación local en la toma de decisiones para el fortalecimiento de mercados regionales y la articulación productiva.
+
 XIV. Estrategia para la Conservación y el Uso Sustentable de la Biodiversidad del Estado de Chiapas.- Es un documento científico que reconoce como alta prioridad en la agenda política estatal la atención integral de las diversas y complejas presiones que enfrenta el estado con relación a su biodiversidad, como la pérdida de hábitat, la sobreexplotación de los recursos biológicos, la introducción de especies exóticas invasoras, la contaminación y el cambio climático. Tiene como objetivo incidir de manera directa en los factores de presión y cambio de la biodiversidad chiapaneca para asegurar su conservación y uso sustentable en el mediano y largo plazo.
 
 XV. Ganadería Sustentable de Bajas Emisiones.- Es un esquema de manejo adecuado del paisaje, el cual tiene como eje de intervención, el fortalecimiento de la actividad ganadera en el estado de Chiapas, a fin de reducir la emisión de Gases de Efecto Invernadero (GEI), a través de la implementación de prototipos de Unidades Ganaderas Sustentables, que se fundamentan en la integración de arreglos forestales, buenas prácticas de manejo ganadero y gestión del territorio.
@@ -95,6 +103,10 @@ XVIII. Ley Estatal.- La Ley de Desarrollo Rural Sustentable del Estado de Chiapa
 
 XIX. Ley Federal. La Ley de Desarrollo Rural Sustentable promulgada por el Gobierno Federal.
 
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2026)</small>
+
+XIX Bis. Perspectiva de Género: Enfoque que reconoce y aborda las diferencias entre hombres y mujeres en el acceso a recursos, oportunidades y derechos, promoviendo la igualdad sustantiva en el ámbito rural.
+
 XX. Programa Especial Concurrente.- El Programa Especial Concurrente para el Desarrollo Rural Sustentable que incluye el conjunto de Programas Sectoriales relacionados con la materia de esta Ley para una unidad territorial.
 
 XXI. Programa Estatal de Cambio Climático.- Instrumento de apoyo del Gobierno del Estado para el análisis, planeación, desarrollo y diseño de políticas públicas sustentables y acciones relacionadas en materia de cambio climático a nivel local.
@@ -104,6 +116,10 @@ XXII. Programa de Fomento.- Conjunto de acciones e incentivos para promover el i
 XXIII. Programa de Ordenamiento Ecológico y Territorial del Estado de Chiapas.- Es un documento que contiene los objetivos, prioridades y acciones que regulan o inducen el uso del suelo y las actividades productivas de una región. Está integrado principalmente por dos elementos: un modelo de ordenamiento que incluye la regionalización del área a ordenar y los lineamientos ecológicos aplicables a cada una de las regiones definidas y las estrategias ecológicas que, para cada una de las regiones identificadas en el modelo, resulta de la integración de los objetivos, acciones y proyectos, así como de los responsables de realizarlos.
 
 XXIV. Protección.- El conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro.
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2026)</small>
+
+XXIV Bis. Protección del Maíz Nativo. Medidas para preservar, fomentar y garantizar la producción sustentable de maíz criollo y nativo como patrimonio alimentario y cultural de las comunidades rurales.
 
 XXV. Proyecto Productivo.- Es el proyecto que se refiere a la producción primaria agrícola, pecuaria, forestal, pesquera, y acuícola, a su transformación y a su distribución y a cualquier otra actividad productiva no agropecuaria que proporcione ingresos a la población rural.
 
@@ -145,6 +161,18 @@ IV. Fomentar la conservación de la biodiversidad y el mejoramiento de la calida
 
 V. Valorar las diversas funciones económicas, ambientales, sociales y culturales de las diferentes manifestaciones de la agricultura estatal.
 
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2026)</small>
+
+VI. Impulsar a la cultura y al desarrollo de las formas específicas de organización social y capacidad productiva de los pueblos y comunidades indígenas y afromexicanas.
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2026)</small>
+
+VII. Promover la igualdad de género y la eliminación de cualquier tipo de discriminación contra las mujeres rurales en el acceso a los recursos productivos, financiamiento, capacitación y mercados.
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2026)</small>
+
+VIII. Fomentar el respeto a los sistemas normativos internos de los pueblos y comunidades indígenas y afromexicanas en la planificación y ejecución de proyectos de desarrollo rural.
+
 ###### Artículo 6.
 
 Tendrán carácter prioritario las acciones que el Gobierno Estatal y los municipios, en los términos de las leyes aplicables, realicen en el medio rural.
@@ -157,53 +185,61 @@ Las acciones que efectúe el Gobierno Estatal atenderán de manera diferenciada 
 
 Las acciones para el desarrollo rural se realizarán conforme a criterios de preservación, restauración, aprovechamiento sustentable de los recursos naturales y de la biodiversidad, así como de prevención del impacto ambiental y mitigación del cambio climático.
 
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2026)</small>
+
+Se reforzará el compromiso del Estado en promover prácticas agropecuarias y forestales sustentables que aseguren la conservación de los ecosistemas, la biodiversidad y el uso racional de los recursos naturales en las comunidades rurales.
+
 ## TITULO II. De los Órganos de la Ley
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2026)</small>
 
 ###### Artículo 9.
 
-Para los propósitos de esta Ley se crea la Comisión Intersecretarial para el Desarrollo Rural Sustentable del Estado de Chiapas que será presidida por el Titular del Poder Ejecutivo y en su ausencia por el Titular de la Secretaría del Campo.
+Para los propósitos de esta Ley se crea la Comisión Intersecretarial para el Desarrollo Rural Sustentable del Estado de Chiapas que será presidida por la persona Titular del Poder Ejecutivo y en su ausencia por la persona Titular de la Secretaría del Campo.
 
-La Comisión Intersecretarial Estatal estará integrada por los titulares de las siguientes dependencias del Poder Ejecutivo Estatal:
+La Comisión Intersecretarial Estatal estará integrada por las personas titulares de las siguientes dependencias del Poder Ejecutivo Estatal:
 
 a) Secretaría del Campo.
 
-b) Secretaría de Hacienda.
+b) Secretaría de Finanzas.
 
-c) Secretaría de Planeación, Gestión Pública y Programa de Gobierno.
+c) Secretaría de Economía y del Trabajo.
 
-d) Secretaría del Trabajo.
+d) Secretaría de Infraestructura
 
-e) Secretaría de Obra Pública y Comunicaciones.
+e) Secretaría de Medio Ambiente e Historia Natural.
 
-f) Secretaría de Medio Ambiente e Historia Natural.
+f) Secretaría de Humanismo
 
-g) Secretaría de Economía.
+g) Secretaría de Turismo.
 
-h) Secretaría de Desarrollo Social.
+h) Secretaría para el Desarrollo Sustentable de los Pueblos Indígenas.
 
-i) Secretaría de Turismo.
+i) Secretaría de Educación.
 
-j) Secretaría de Pesca y Acuacultura.
+j) Secretaría de Salud.
 
-k) Secretaría para el Desarrollo Sustentable de los Pueblos Indígenas.
+k) Secretaría de la Frontera Sur
 
-l) Secretaría de Educación.
-
-m) Secretaría de Salud.
+l) Secretaría de la Mujer e Igualdad de Género.
 
 Las demás que se determine necesario para la operación de la Comisión.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2026)</small>
+
 ###### Artículo 10.
 
-La Comisión Intersecretarial Estatal propondrá al Titular del Poder Ejecutivo Estatal las políticas y criterios para la formulación de programas y acciones de las dependencias y entidades del sector público y evaluará periódicamente los programas relacionados con el desarrollo rural sustentable.
+La Comisión Intersecretarial Estatal propondrá a la persona Titular del Poder Ejecutivo Estatal las políticas y criterios necesarios para la formulación de programas y acciones de las dependencias y entidades del sector público. Además, evaluará periódicamente los programas relacionados con el desarrollo rural sustentable.
 
-La Comisión Intersecretarial Estatal sesionará al menos una vez al año para conocer la situación en que se encuentran los aspectos productivos y de servicios públicos de las regiones rurales de la entidad y conocer el avance de las acciones, proyectos y programas en proceso.
+La Comisión Intersecretarial Estatal sesionará al menos una vez al año con el fin de conocer la situación de los aspectos productivos y de servicios públicos en las regiones rurales de la entidad, así como para revisar el avance de las acciones, proyectos y programas en curso.
 
-La Comisión Intersecretarial Estatal propondrá, en su caso, nuevos programas de fomento agropecuario y de desarrollo rural sustentable para ser incluidos en el Proyecto de Presupuesto de Egresos del año fiscal correspondiente.
+La Comisión Intersecretarial Estatal podrá proponer nuevos programas de fomento agropecuario y desarrollo rural sustentable para su inclusión en el Proyecto de Presupuesto de Egresos del ejercicio fiscal correspondiente, según las necesidades y prioridades del sector.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2026)</small>
 
 ###### Artículo 11.
 
-Se crea el Consejo Estatal para el Desarrollo Rural Sustentable del Estado de Chiapas como órgano de consulta para la planeación de las actividades agropecuarias, así como de las inversiones y apoyos públicos que promuevan el desarrollo económico y social en el medio rural del Estado.
+Se crea el Consejo Estatal para el Desarrollo Rural Sustentable del Estado de Chiapas como un órgano de consulta, concertación y participación de los sectores público, social y privado, encargado de coadyuvar en la planeación, seguimiento y evaluación de las políticas, programas y acciones en materia agropecuaria, así como en la determinación de inversiones y apoyos públicos que impulsen el desarrollo económico y social en el medio rural de la entidad.
 
 ###### Artículo 12.
 
@@ -213,13 +249,23 @@ El Consejo Estatal será presidido por el Titular del Poder Ejecutivo del Estado
 
 ### Capítulo I. De la Planeación
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2026)</small>
+
 ###### Artículo 13.
 
-La planeación del desarrollo rural sustentable se realizará de conformidad con el Plan Estatal de Desarrollo y la Ley de Planeación del Estado de Chiapas y con el carácter democrático que establece la Constitución Política de los Estados Unidos Mexicanos y las disposiciones relativas aplicables.
+La planeación del desarrollo rural sustentable se llevará a cabo conforme al Plan Estatal de Desarrollo y la Ley de Planeación del Estado de Chiapas, respetando los principios de participación democrática y de inclusión social.
+
+Esta planeación se deberá enfocar en la sostenibilidad, el respeto a los derechos humanos y la autonomía de los pueblos y comunidades indígenas y afromexicanas, campesinas y rurales.
+
+El Estado promoverá la participación activa de las organizaciones de productores, pueblos y comunidades indígenas y afromexicanas, mujeres y jóvenes rurales en la planificación, ejecución y evaluación de políticas y programas de desarrollo rural.
+
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2026)</small>
 
 ###### Artículo 14.
 
-La planeación para el desarrollo rural deberá considerar la situación actual y futura de la población rural en un horizonte de corto, mediano y largo plazo. Cada año deberá evaluarse el impacto de lo realizado y, en su caso, el crecimiento de las necesidades de la población.
+La planeación para el desarrollo rural deberá considerar la situación actual y futura de la población rural en un horizonte de corto, mediano y largo plazo, promoviendo la resiliencia climática y la sostenibilidad económica.
+
+Cada año, la evaluación del impacto de las acciones realizadas deberá considerar no solo el crecimiento de las necesidades de la población, sino también los efectos sobre el medio ambiente y la equidad social, con especial atención a los pueblos y comunidades indígenas y afromexicanas.
 
 ###### Artículo 15.
 
@@ -369,6 +415,14 @@ o).- De la Seguridad y Soberanía Alimentaria
 
 XXV. Para la evaluación del cumplimiento de la política agropecuaria relacionada con la seguridad y la soberanía alimentaria a través de la producción de los productos básicos y estratégicos.
 
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2026)</small>
+
+p).- Perspectiva de género
+
+(ADICIONADA [N. DE E. PERTENECE AL INCISO P)], P.O. 15 DE ABRIL DE 2026)
+
+XXVI. La promoción de liderazgos femeninos en comunidades rurales, facilitando su integración en órganos de decisión y representación del sector agropecuario.
+
 ## TITULO IV. Del Fomento del Empleo Rural
 
 ###### Artículo 27.
@@ -408,6 +462,10 @@ El Gobierno Estatal implementará mecanismos propios y gestionará ante la Feder
 ###### Artículo 32.
 
 En la realización de las actividades agropecuarias del sector rural deberá considerarse a la sustentabilidad como principio rector para lograr el bienestar social y el buen uso, manejo y aprovechamiento racional de los recursos naturales.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2026)</small>
+
+Quienes hagan uso productivo de los recursos naturales, deberán seleccionar técnicas y actividades agropecuarias que garanticen la conservación o incremento de la productividad, sin deteriorarlos y de acuerdo con la aptitud y potencial natural de los territorios y las condiciones socioeconómicas y culturales de los productores.
 
 ###### Artículo 33.
 
@@ -463,13 +521,19 @@ Se deberán desarrollar formas de aprovechamiento y mejoramiento de los recursos
 
 Quienes hagan uso productivo de las tierras deberán seleccionar técnicas y cultivos que garanticen la conservación o incremento de la productividad, de acuerdo con la aptitud de las tierras y las condiciones socioeconómicas de los productores.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2026)</small>
+
 ###### Artículo 38.
 
-Los ejidatarios, comuneros, pueblos indígenas, propietarios o poseedores de los predios que realicen actividades agropecuarias dentro del sector rural deberán dejar el 10% de la totalidad de la superficie para la conservación de los recursos naturales.
+Los ejidatarios, comuneros, pueblos y comunidades indígenas y afromexicanas, propietarios o poseedores de los predios que realicen actividades agropecuarias dentro del sector rural deberán dejar el 10% de la totalidad de la superficie para la conservación de los recursos naturales.
 
 ###### Artículo 39.
 
 La Comisión Intersecretarial Estatal, a través de las dependencias competentes y con la participación del Consejo Estatal, establecerá las medidas de regulación y fomento conducentes a la asignación de la carga de ganado adecuada a la capacidad de las tierras de pastoreo y al incremento de su condición, de acuerdo con la tecnología disponible y las recomendaciones técnicas respectivas; especialmente con prácticas que fomenten la baja emisión de carbono.
+
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2026)</small>
+
+De igual manera, se establecerán medidas para garantizar la integridad del patrimonio de la biodiversidad del Estado, incluidos los organismos generados en condiciones naturales y bajo cultivo por los productores, así como la defensa de los derechos de propiedad intelectual de los pueblos y comunidades indígenas y afromexicanas.
 
 ###### Artículo 40.
 
@@ -481,9 +545,11 @@ La Comisión Intersecretarial Estatal, con la participación del Consejo Estatal
 
 Los programas para la tecnificación del riego que realicen los diferentes órdenes de gobierno darán atención prioritaria a las regiones en las que se registre sobreexplotación de los recursos hidráulicos subterráneos o degradación de la calidad de las aguas, en correspondencia con los compromisos de los productores de ajustar la explotación de los recursos en términos que garanticen la sustentabilidad de la producción.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2026)</small>
+
 ###### Artículo 42.
 
-Serán materia de asistencia técnica y capacitación, la preservación y recuperación de las prácticas y los conocimientos tradicionales, vinculados al aprovechamiento sustentable de los recursos naturales.
+Serán materia de asistencia técnica y capacitación, la preservación y recuperación de las prácticas y los conocimientos tradicionales, vinculados al aprovechamiento sustentable de los recursos naturales, respetando usos y costumbres, tradición y tecnologías en el caso de los pueblos y comunidades indígenas y afromexicanas.
 
 ###### Artículo 43.
 
@@ -505,11 +571,11 @@ En atención a los criterios de sustentabilidad, la Secretaría promoverá la re
 
 Las instancias competentes establecerán los procedimientos para señalar las tierras frágiles y preferentemente forestales, donde los apoyos y acciones del Estado estarán orientadas a la selección de cultivos y técnicas sustentables de manejo de las tierras.
 
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2026)</small>
+
 ###### Artículo 48.
 
-Los ejidatarios, comuneros, pueblos indígenas, propietarios o poseedores de los predios que habiten en áreas naturales protegidas de jurisdicción estatal, tendrán prioridad para obtener los permisos, licencias y autorizaciones para desarrollar obras o actividades económicas en los términos de la Ley Ambiental para el Estado de Chiapas, de la Ley para la Adaptación y Mitigación ante el Cambio Climático en el Estado de Chiapas, de la Ley de Desarrollo Forestal Sustentable para el Estado de Chiapas, de las Normas Técnicas Ambientales Estatales y demás ordenamientos legales que resulten aplicables.
-
-El Gobierno del Estado, prestará asesoría técnica y legal para que los interesados formulen sus proyectos y tengan acceso a los apoyos gubernamentales.
+Los ejidatarios, comuneros, pueblos y comunidades indígenas y afromexicanas, propietarios o poseedores de los predios que habiten en áreas naturales protegidas de jurisdicción estatal, tendrán prioridad para obtener los permisos, licencias y autorizaciones para desarrollar obras o actividades económicas en los términos de la Ley Ambiental para el Estado de Chiapas, de la Ley para la Adaptación y Mitigación ante el Cambio Climático en el Estado de Chiapas, de la Ley de Desarrollo Forestal Sustentable para el Estado de Chiapas, de las Normas Técnicas Ambientales Estatales y demás ordenamientos legales que resulten aplicables.
 
 ###### Artículo 49.
 
@@ -524,6 +590,10 @@ El Gobierno Estatal podrá coordinar acciones con el Gobierno Federal y con los 
 I. Para promover la creación de obras de infraestructura que apoyen a los productores y a sus organizaciones económicas en la capitalización de sus unidades productivas, en las fases de producción, transformación y capitalización;
 
 II. Para la definición de esquemas de apoyo, transferencias y estímulos para el fomento de las actividades agropecuarias y no agropecuarias en las zonas rurales.
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2026)</small>
+
+III. Para buscar la transformación tecnológica y la adaptación de tecnologías y procesos acordes a la cultura y los recursos naturales de los pueblos y comunidades indígenas y afromexicanas y las comunidades rurales.
 
 ###### Artículo 51.
 
@@ -577,6 +647,10 @@ Tendrán preferencia para su asignación, aquéllos apoyos que se destinen a obr
 
 La atención de los organismos públicos relacionados con el desarrollo rural, deberá privilegiar siempre la participación de las autoridades locales en conjunto con los beneficiados individuales o con las organizaciones respectivas.
 
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2026)</small>
+
+Para tal efecto, el Estado promoverá la equidad de género en todas las políticas y programas dirigidos al desarrollo rural, estableciendo mecanismos de apoyo específicos para mujeres rurales y de pueblos y comunidades indígenas y afromexicanas, fomentando su capacitación y participación en la toma de decisiones.
+
 ###### Artículo 55.
 
 Los apoyos que proporcionen los tres órdenes de gobierno estarán sujetos a los criterios de generalidad, temporalidad y protección de las finanzas públicas a que se refiere el artículo 28 de la Constitución Política de los Estados Unidos Mexicanos para el otorgamiento de subsidios, así como a los compromisos contraídos por el Gobierno Mexicano en la suscripción de convenios y tratados internacionales.
@@ -604,3 +678,13 @@ Dado en el Salón de Sesiones Sergio Armando Valls Hernández del Honorable Cong
 De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los 29 días del mes de Agosto del año Dos Mil Diecisiete.
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Juan Carlos Gómez Aranda, Secretaria General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 224 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
