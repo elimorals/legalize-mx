@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-conducta-de-la-secretaria-de-la-funcion-publica-15229
 country: "mx"
 rank: "codigo"
 publication_date: "2021-10-27"
-last_updated: "2021-10-27"
+last_updated: "2026-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152299&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # CODIGO DE CONDUCTA DE LA SECRETARIA DE LA FUNCION PUBLICA, TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA DE LA SECRETARIA DE LA FUNCIÓN PUBLICA DEL ESTADO DE TABASCO, PUBLICADO EN EL P.O. DE 15 DE ABRIL DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE LA FUNCIÓN PÚBLICA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2026 (ABROGADO).
 
 Código publicado en el Suplemento F al Periódico Oficial del Estado de Tabasco, el miércoles 27 de octubre de 2021.
 
@@ -434,3 +436,15 @@ Cargo:
 Unidad administrativa:
 
 Fecha y firma:
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DE LA SECRETARIA DE LA FUNCIÓN PUBLICA DEL ESTADO DE TABASCO".]
+
+PRIMERO.- El presente Código de Conducta de la Secretaría Anticorrupción y Buen Gobierno, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se abroga el Código de Conducta de la Secretaría de la Función Pública, publicado en el suplemento F al Periódico Oficial del Estado de Tabasco, edición 8258, de fecha 27 de octubre de 2021.
+
+TERCERO.- Todas las personas servidoras públicas de la Secretaría Anticorrupción y Buen Gobierno, deberán suscribir ante el Órgano de Control Interno la Carta Compromiso de cumplimiento al Código de Ética y de Conducta correspondiente.
