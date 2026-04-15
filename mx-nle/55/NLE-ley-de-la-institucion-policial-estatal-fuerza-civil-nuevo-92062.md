@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-institucion-policial-estatal-fuerza-civil-nuevo-92062
 country: "mx"
 rank: "ley"
 publication_date: "2013-01-19"
-last_updated: "2025-01-17"
+last_updated: "2026-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92062&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE LA INSTITUCIÓN POLICIAL ESTATAL FUERZA CIVIL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ENERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 19 de enero de 2013.
 
@@ -863,6 +863,12 @@ De la Carrera Policial
 
 La Carrera Policial es el sistema de carácter obligatorio y permanente, conforme al cual se establecen los lineamientos que definen los procedimientos de Planeación, Ingreso, Profesionalización, Permanencia y Promoción, así como el procedimiento de Separación y Terminación de la Carrera Policial de los Integrantes, mismo que se establece en la Ley, Reglamento de Desarrollo Policial del Estado y demás normatividad aplicable.
 
+> <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2026)</small>
+
+Artículo 29 BIS.- No podrá negarse el ingreso, profesionalización, permanencia o promoción en la carrera policial, por la única razón de que el aspirante porte tatuajes o perforaciones.
+
+Se exceptúa lo dispuesto en el párrafo anterior, cuando la portación de tatuajes sea con símbolos que representen un discurso de odio.
+
 ###### Artículo 30.
 
 Actos sobresalientes
@@ -1072,3 +1078,13 @@ P.O. 17 DE ENERO DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 036. SE REFORMA LA FRACCIÓN XIX DEL ARTÍCULO 16 DE LA LEY DE LA INSTITUCIÓN POLICIAL ESTATAL FUERZA CIVIL".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
+
+P.O. 15 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 194. SE ADICIONA EL ARTÍCULO 29 BIS A LA LEY DE LA INSTITUCIÓN POLICIAL ESTATAL FUERZA CIVIL; Y SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 198 BIS 5 DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Ejecutivo del Estado y los Ayuntamientos de los 51 municipios del Estado contarán con un plazo de 60 días contados a partir de la entrada en vigor del presente Decreto, para ajustar sus disposiciones reglamentarias a lo dispuesto por el mismo.
+
+TERCERO.- Se deroga cualquier disposición en lo que se oponga a lo preceptuado por el presente Decreto.
