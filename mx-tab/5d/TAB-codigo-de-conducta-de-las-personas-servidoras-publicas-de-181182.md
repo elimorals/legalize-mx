@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-conducta-de-las-personas-servidoras-publicas-de-18118
 country: "mx"
 rank: "codigo"
 publication_date: "2025-08-13"
-last_updated: "2025-08-13"
+last_updated: "2026-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # CODIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PUBLICAS DE LA SECRETARIA DE MEDIO AMBIENTE Y DESARROLLO SOSTENIBLE DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE MEDIO AMBIENTE Y DESARROLLO SOSTENIBLE, PUBLICADO EN EL P.O. DE 15 DE ABRIL DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE MEDIO AMBIENTE Y DESARROLLO SOSTENIBLE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2026 (ABROGADO).
 
 Código publicado en el Suplemento C de la Edición 8654 del Periódico Oficial del estado de Tabasco, el miércoles 13 de agosto de 2025.
 
@@ -528,3 +530,13 @@ VIII. VIGILANCIA
 IX. CARTA INVITACIÓN
 
 X. CARTA COMPROMISO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE MEDIO AMBIENTE Y DESARROLLO SOSTENIBLE”.]
+
+PRIMERO. El presente Código de Conducta entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se abroga el Código de Conducta de la Secretaría de Medio Ambiente y Desarrollo Sostenible, publicado en el Suplemento C, del Periódico Oficial del Estado de Tabasco, número 8654, de fecha 13 de agosto de 2025.
