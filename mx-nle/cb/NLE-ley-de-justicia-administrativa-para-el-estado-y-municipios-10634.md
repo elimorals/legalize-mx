@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-justicia-administrativa-para-el-estado-y-municipios-1063
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-21"
-last_updated: "2024-11-11"
+last_updated: "2026-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10634&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "NLE"
 
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y MUNICIPIOS DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 21 de febrero de 1997.
 
@@ -2373,9 +2373,9 @@ Se entenderá por Tribunal Virtual Administrativo el sistema de procesamiento de
 
 El promovente, al presentar su demanda, podrá hacer la solicitud expresa de substanciar el procedimiento mediante el Tribunal Virtual Administrativo.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2026)</small>
 
-Las partes podrán solicitar la autorización por sí o persona autorizada en los términos del Artículo 34 de esta Ley, el acceso a la página electrónica que para tal efecto tiene el Tribunal de Justicia Administrativa del Estado, debiendo proporcionar el nombre del usuario previamente registrado en la base de datos, con la cual ingresará al Tribunal Virtual Administrativo, lo que les permitirá consultar en forma completa el expediente electrónico. También podrá solicitarse la autorización para presentar promociones en vía electrónica a través de la página de internet del Tribunal Virtual Administrativo. Igualmente, si así lo desean, podrán las partes autorizar que se les realicen notificaciones en vía electrónica, que implicará, en este último caso, la aceptación expresa del solicitante en el sentido de que todas las notificaciones, aún las de carácter personal, ordenadas con posterioridad a la fecha en que se le otorgue este tipo de autorización, se tendrán por legalmente practicadas a las quince horas del segundo día que siga a la fecha en que el acuerdo o resolución sea publicado en el sistema del Tribunal Virtual y surtirán sus efectos en los 1érminos (sic) de lo previsto por los Artículos 40 y 43 de esta Ley. La consulta de expedientes electrónicos, el envío de promociones y notificación por este medio, se ajustarán a los lineamientos de operación para el uso del Tribunal Virtual Administrativo que se establezcan por el Tribunal de Justicia Administrativa del Estado a través del reglamento que para tal efecto se emita. Se excluye de la anterior forma de notificación el emplazamiento a juicio, además de las que el Magistrado considere necesarias.
+Las partes podrán solicitar la autorización por sí o persona autorizada en los términos del Artículo 34 de esta Ley, el acceso a la página electrónica que para tal efecto tiene el Tribunal de Justicia Administrativa del Estado, debiendo proporcionar el nombre del usuario previamente registrado en la base de datos, con la cual ingresará al Tribunal Virtual Administrativo, lo que les permitirá consultar en forma completa el expediente electrónico e, igualmente, implicará la aceptación expresa del solicitante para que todas las notificaciones, aún las de carácter personal, ordenadas con posterioridad a la fecha en que se le otorgue este tipo de autorización, se tendrán por legalmente practicadas a las quince horas del segundo día que siga a la fecha en que el acuerdo o resolución sea publicado en el sistema del Tribunal Virtual y surtirán sus efectos en los términos de lo previsto por los Artículos 40 y 43 de esta Ley. También podrá solicitarse la autorización para presentar promociones en vía electrónica a través de la página de internet del Tribunal Virtual Administrativo. La consulta de expedientes electrónicos, el envío de promociones y notificación por este medio, se ajustarán a los lineamientos de operación para el uso del Tribunal Virtual Administrativo que se establezcan por el Tribunal de Justicia Administrativa del Estado a través del reglamento que para tal efecto se emita. Se excluye de la anterior forma de notificación el emplazamiento a juicio, además de las que el Magistrado considere necesarias.
 
 De igual manera el demandado y en su caso los terceros perjudicados, al contestar su demanda, podrán hacerlo mediante el Tribunal Virtual Administrativo con la reserva antes enunciada. Las partes se reservarán la posibilidad de presentar en cualquier momento algún otro tipo de promoción por escrito ante la autoridad que conozca el asunto.
 
@@ -2917,4 +2917,10 @@ PRIMERO.- El Presente Decreto entrará en vigor al día siguiente de su publicac
 
 SEGUNDO.- Dentro de los 60-sesenta días naturales siguientes a la entrada en vigor del presente Decreto, la Sala Superior del Tribunal deberá realizar las adecuaciones necesarias al Reglamento interior del Tribunal de Justicia Administrativa del Estado de Nuevo León
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 233.- CERTIFICACIÓN DE PLAZO; DECLARATORIA CONSTITUCIONAL; SE REFORMA EL ARTÍCULO 46; SE ADICIONAN LOS ARTÍCULOS 7º Y 46 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO".]
+P.O. 15 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 195. SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 169 DE LA LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO Y MUNICIPIOS DE NUEVO LEÓN”.]
+
+Primero: El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo: La presente reforma aplicará para los juicios contenciosos administrativos que se inicien con posterioridad a la entrada en vigor del presente Decreto.
