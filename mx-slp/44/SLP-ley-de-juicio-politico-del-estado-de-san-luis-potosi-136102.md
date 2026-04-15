@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-juicio-politico-del-estado-de-san-luis-potosi-136102"
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-16"
-last_updated: "2025-04-11"
+last_updated: "2026-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE JUICIO POLÍTICO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 16 de abril de 2019.
 
@@ -103,11 +103,25 @@ ARTÍCULO 7° Son sujetos de juicio político:
 
 I. El Gobernador del Estado;
 
-II. Los diputados;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2026)</small>
 
-III. Los magistrados, y consejeros de la Judicatura;
+II. Los diputados y diputadas locales;
 
-IV. Los jueces de Primera Instancia;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2026)</small>
+
+III. Las personas Magistradas del Supremo Tribunal de Justicia;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2026)</small>
+
+III BIS. Las personas Magistradas del Tribunal de Disciplina Judicial del Poder Judicial del Estado;
+
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2026)</small>
+
+IV. Las personas Juzgadoras de Primera Instancia del Poder Judicial del Estado;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2026)</small>
+
+IV BIS. Personas integrantes del Órgano de Administración Judicial;
 
 V. Los secretarios de despacho;
 
@@ -115,7 +129,9 @@ VI. El Fiscal General del Estado; el Fiscal Especializado en materia de Delitos 
 
 VII. Los subsecretarios; directores generales, o sus equivalentes de las dependencias y entidades paraestatales y paramunicipales;
 
-VIII. Los titulares de los organismos constitucionales autónomos;
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2026)</small>
+
+VIII. Las personas titulares de los organismos constitucionales autónomos;
 
 > <small>(REFORMADA, P.O. 19 DE ABRIL DE 2024)</small>
 
@@ -544,5 +560,13 @@ P.O. 11 DE ABRIL DE 2025.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0186.- SE REFORMAN LA FRACCIÓN XVI DEL ARTÍCULO 107 Y LA FRACCIÓN VI DEL ARTÍCULO 114, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ; SE REFORMAN LAS FRACCIONES I Y IV DEL ARTÍCULO 4°, EL PÁRRAFO PRIMERO DEL ARTÍCULO 20, EL PÁRRAFO PRIMERO DEL ARTÍCULO 32 Y EL ARTÍCULO 37, DE LA LEY DE JUICIO POLÍTICO DEL ESTADO DE SAN LUIS POTOSÍ Y SE REFORMAN LAS FRACCIONES I Y II DEL ARTÍCULO 131, DEL REGLAMENTO DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. Este Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0510.- QUE REALIZA ADICIÓN Y REFORMA EL ARTÍCULO 7, DE LA LEY DE JUICIO POLÍTICO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
