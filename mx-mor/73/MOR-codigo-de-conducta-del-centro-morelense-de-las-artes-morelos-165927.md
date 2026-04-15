@@ -4,7 +4,7 @@ identifier: "MOR-codigo-de-conducta-del-centro-morelense-de-las-artes-morelos-16
 country: "mx"
 rank: "codigo"
 publication_date: "2023-05-03"
-last_updated: "2023-05-03"
+last_updated: "2026-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=165927&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "MOR"
 
 CÓDIGO DE CONDUCTA DEL CENTRO MORELENSE DE LAS ARTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2026 (ABROGADO).
 
 Código publicado en el número 6191 del Periódico Oficial del Estado de Morelos, el miércoles 3 de mayo de 2023.
 
@@ -353,3 +353,15 @@ COMISARIO PÚBLICO Y ÓRGANO INTERNO DE CONTROL EN EL COMITÉ DE ÉTICA DEL CENT
 RÚBRICAS.
 
 Al margen superior un escudo del estado de Morelos que dice: “TIERRA Y LIBERTAD”.- LA TIERRA VOLVERÁ A QUIENES LA TRABAJAN CON SUS MANOS.- MORELOS.- 2018-2024, y un logotipo que dice: MORELOS ANFITRIÓN DEL MUNDO.- Gobierno del Estado.- 2018-2024.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DEL CENTRO MORELENSE DE LAS ARTES”.]
+
+PRIMERO. Cualquier situación de conflicto o interpretación que derive del presente Código de Conducta será resuelto por medio del Comité de Ética del Centro Morelense de las Artes.
+
+SEGUNDO. El presente Código de Conducta del Centro Morelense de las Artes, surtirá sus efectos a partir de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del estado.
+
+TERCERO. Se abroga el Código de Conducta del Centro Morelense de las Artes publicado el 03 de mayo de 2023 en el Periódico Oficial “Tierra y Libertad” número 6191.
