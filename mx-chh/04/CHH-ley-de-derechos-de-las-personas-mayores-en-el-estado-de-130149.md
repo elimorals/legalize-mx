@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-derechos-de-las-personas-mayores-en-el-estado-de-130149"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-25"
-last_updated: "2021-09-04"
+last_updated: "2026-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DERECHOS DE LAS PERSONAS MAYORES EN EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2026.
 
 Ley publicada en el Folleto del Periódico Oficial del Estado de Chihuahua, el miércoles 25 de julio de 2018.
 
@@ -150,6 +150,10 @@ XV. Envejecimiento.- Proceso gradual y natural que se desarrolla durante el curs
 XVI. Envejecimiento activo y saludable.- Proceso por el cual se optimizan las oportunidades de bienestar físico, mental y social, de participar en actividades sociales, económicas, culturales, espirituales y cívicas, y de contar con protección, seguridad y atención, con el objetivo de ampliar la esperanza de vida saludable y la calidad de vida de todos (sic) las personas en la vejez.
 
 XVII. Hogar de acogimiento.- Espacio en el que se brindan cuidados a personas mayores de forma transitoria, en un ambiente familiar, por terceros que tengan con aquellos una relación de parentesco, afecto, identidad o confianza.
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2026)</small>
+
+XVII Bis. Integración Social.- Resultado de las acciones que realizan las dependencias y entidades de la administración pública, estatal y municipal, las familias y la sociedad civil organizada, orientadas a lograr la plena inclusión y participación activa de las personas mayores para su desarrollo integral.
 
 XVIII. Ley.- La Ley de Derechos de las Personas Mayores en el Estado de Chihuahua.
 
@@ -856,6 +860,10 @@ III. Proporcionar servicios de salud de forma integral y con calidad a través d
 IV. Proporcionar educación en sus diferentes tipos, niveles y modalidades, así como promover su permanencia en el sistema educativo.
 
 V. Implementar programas y acciones que tengan como fin la prevención y atención de las personas en situación de vulnerabilidad, de acuerdo a lo establecido en la Ley de Asistencia Social Pública y Privada para el Estado.
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2026)</small>
+
+VI. Fomentar una cultura de aprecio a la vejez para lograr un trato digno, favorecer su revalorización y su plena integración social, así como procurar una mayor sensibilidad, conciencia social, respeto, solidaridad y convivencia entre las generaciones, con el fin de evitar toda forma de abandono o discriminación por motivo de edad, género, estado físico o condición social.
 
 ###### Artículo 61.
 
@@ -1872,3 +1880,11 @@ Al inicio de la vigencia del presente Decreto, todas las investigaciones, carpet
 ###### ARTÍCULO DÉCIMO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0368/2025 I P.O., MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS DE LAS PERSONAS MAYORES EN EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
