@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-las-personas-adultas-mayores-para-el-estado-y-los-57049"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-07"
-last_updated: "2026-03-05"
+last_updated: "2026-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO Y LOS MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2026.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 7 de agosto de 2007.
 
@@ -77,13 +77,21 @@ IV. Participación: inserción de las personas adultas mayores en todos los órd
 
 V. Equidad e igualdad: es el trato justo y proporcional en las condiciones de acceso y disfrute de los satisfactores necesarios para el bienestar de las personas adultas mayores, sin distinción por sexo, situación económica, identidad étnica, fenotipo, credo, religión o cualquier otra circunstancia;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2026)</small>
 
-VI. Corresponsabilidad: concurrencia y responsabilidad compartida de los sectores público y social, en especial de la comunidad y las familias para el cumplimiento del objeto de esta Ley, y
+VI. Corresponsabilidad: concurrencia y responsabilidad compartida de los sectores público y social, en especial de la comunidad y las familias para el cumplimiento del objeto de esta Ley acordes a las diferentes etapas, características y circunstancias de las personas adultas mayores;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2026)</small>
 
-VII. Atención preferente: es aquélla que obliga a las instituciones estatales y municipales de gobierno, así como sectores sociales y privados, a implementar programas acordes a las diferentes etapas, características y circunstancias de las personas adultas mayores.
+VII. Atención preferente: es aquélla que obliga a las instituciones estatales y municipales de gobierno, así como sectores sociales y privados, a implementar programas acordes a las diferentes etapas, características y circunstancias de las personas adultas mayores;
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2026)</small>
+
+VIII. Inclusión, accesibilidad y no discriminación: conjunto de acciones y políticas orientadas a garantizar el ejercicio pleno de los derechos de las personas adultas mayores, promoviendo su participación plena, efectiva y en condiciones de igualdad en la sociedad, asegurando la accesibilidad universal, la eliminación de barreras físicas, sociales, culturales, comunicativas y normativas, así como la implementación de ajustes razonables, a fin de prevenir y erradicar cualquier forma de exclusión, segregación o discriminación, y
+
+> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2026)</small>
+
+IX. Transversalidad: obligación de las autoridades de coordinarse, implementar y vigilar, en el ámbito de sus respectivas competencias, la promoción, el respeto, la protección y la garantía de los derechos humanos de las personas adultas mayores.
 
 ###### ARTICULO 3°.
 
@@ -1478,5 +1486,11 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 P.O. 5 DE MARZO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 0479.- QUE REFORMA LOS ARTÍCULOS 11 BIS Y 45; Y REALIZA ADICIÓN AL ARTÍCULO 11 BIS, DE LA LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE SAN LUIS POTOS”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+P.O. 15 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 0508.- QUE REFORMA Y REALIZA ADICIÓN AL ARTÍCULO 2, DE LA LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
