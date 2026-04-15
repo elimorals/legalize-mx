@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-conducta-para-las-personas-servidoras-publicas-de-144
 country: "mx"
 rank: "codigo"
 publication_date: "2020-06-10"
-last_updated: "2020-06-10"
+last_updated: "2026-04-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144015&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # CODIGO DE CONDUCTA PARA LAS PERSONAS SERVIDORAS PUBLICAS DE LA SECRETARIA DE GOBIERNO, TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE TABASCO, PUBLICADO EN EL P.O. DE 15 DE ABRIL DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2026 (ABROGADO).
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 10 de junio de 2020.
 
@@ -420,3 +422,13 @@ Unidad Administrativa:
 Fecha:
 
 Firma
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "CÓDIGO DE CONDUCTA DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Código de Conducta de la Secretaría de Gobierno entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se abroga el acuerdo mediante el cual se emitió el Código de Conducta para las Personas Servidoras Públicas de la Secretaría de Gobierno, publicado el 10 de junio de 2020, en el Suplemento al Periódico Oficial del Estado de Tabasco, edición 8114.
