@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2026-03-06"
+last_updated: "2026-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE ABRIL DE 2026.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -2801,6 +2801,8 @@ A quien, sin importar el material ni los instrumentos utilizados, pinte, tiña, 
 
 ### CAPÍTULO XIII. OPERACIONES CON RECURSOS DE PROCEDENCIA ILÍCITA
 
+> <small>(REFORMADO, G.O. 16 DE ABRIL DE 2026)</small>
+
 ###### Artículo 229.
 
 A quien, después de la ejecución del delito y sin haber participado en él, adquiera, reciba u oculte el producto del mismo, a sabiendas de que provenía de éste o si, de acuerdo con las circunstancias, debía presumir su procedencia ilegítima, así como a quien ayude a otro para los mismos fines, se le impondrán de dos a seis años de prisión y multa hasta de trescientos días de salario. Si el delito se comete con ánimo de lucro, la prisión será de cuatro a nueve años y la multa hasta de quinientos días de salario.
@@ -2815,7 +2817,13 @@ Si el delito se comete por elementos de los cuerpos policiacos o de procuración
 
 ###### Artículo 230.
 
-Se impondrán de cinco a quince años de prisión y multa hasta de mil días de salario a quien a sabiendas y por cuenta de otra persona, adquiera, administre, enajene, cambie, deposite, dé en garantía, invierta, transporte o transfiera dentro o fuera del territorio veracruzano, recursos o bienes de cualquier naturaleza, que procedan o representen el producto de una actividad ilícita.
+Se impondrá de cinco a quince años de prisión y multa de mil a cinco mil veces el valor diario de la Unidad de Medida y Actualización al que, por sí o por interpósita persona realice cualquiera de las siguientes conductas:
+
+I. Adquiera, enajene, administre, custodie, posea, cambie, convierta, deposite, retire, dé o reciba por cualquier motivo, invierta, traspase, transporte o transfiera, dentro del territorio estatal, de éste hacia el exterior o a la inversa, recursos, derechos o bienes de cualquier naturaleza, cuando tenga conocimiento de que proceden o representan el producto de una actividad ilícita, o
+
+II. Oculte, encubra o pretenda ocultar o encubrir la naturaleza, origen, ubicación, destino, movimiento, propiedad o titularidad de recursos, derechos o bienes, cuando tenga conocimiento de que proceden o representan el producto de una actividad ilícita.
+
+Se entenderá que son producto de una actividad ilícita, los recursos, derechos o bienes de cualquier naturaleza, cuando existan indicios fundados o certeza de que provienen directa o indirectamente, o representan las ganancias derivadas de la comisión de algún delito y no pueda acreditarse su legítima procedencia.
 
 Cuando el agente activo sea servidor público las sanciones anteriores serán aumentadas hasta en una mitad y se le destituirá e inhabilitará para desempeñar empleo, cargo o comisión públicos por otro tiempo igual al de la pena de prisión impuesta.
 
@@ -5666,3 +5674,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Las autoridades encargadas de la procuración e impartición de justicia tendrán un plazo de sesenta días para capacitar a su personal en investigación y atención del delito de abuso sexual con perspectiva de género.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 16 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 506 QUE REFORMA EL ARTÍCULO 230 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
