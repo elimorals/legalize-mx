@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-ejecutivo-y-de-la-administracion-151621"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2021-10-09"
-last_updated: "2025-11-15"
+last_updated: "2026-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151621&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE NOVIEMBRE DE 2025.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 15 DE NOVIEMBRE DE 2025.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2026.
 
 Ley publicada en el Suplemento Número 2 del Número 77 del Periódico Oficial del Estado de Colima, el sábado 9 de octubre de 2021.
 
@@ -167,7 +165,9 @@ Para el estudio, planeación, resolución y despacho de los asuntos de los diver
 
 I. Secretaría General de Gobierno;
 
-II. Secretaría de Seguridad Pública;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2026)</small>
+
+II. Secretaría de Seguridad y Protección Ciudadana;
 
 III. Secretaría de Planeación, Finanzas y Administración;
 
@@ -359,11 +359,13 @@ XXI. Coordinar la función catastral del Estado, la registral de la propiedad y 
 
 XXII. Gestionar, operar y supervisar la política pública de protección civil en el Estado, participar en el sistema estatal respectivo y sus órganos, así como coordinar y orientar las actividades de la Unidad Estatal de Protección Civil;
 
-XXIII. Coordinar al gabinete de seguridad pública en términos de lo dispuesto por la Ley del Sistema de Seguridad Pública para el Estado de Colima, sin perjuicio de las funciones y atribuciones previstas para la Secretaría de Seguridad Pública, contribuyendo desde su ámbito de competencia a definir y supervisar la política de seguridad interior y de vigencia del Estado de Derecho;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2026)</small>
 
-XXIV. Coordinar y orientar las actividades del Secretariado Ejecutivo del Sistema de Seguridad Pública del Estado y de sus centros estatales de Información en Seguridad Pública y de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana;
+XXIII. Coordinar al gabinete de seguridad pública en términos de lo dispuesto por la Ley del Sistema de Seguridad Pública para el Estado de Colima, sin perjuicio de las funciones y atribuciones previstas para la Secretaría de Seguridad y Protección Ciudadana, contribuyendo desde su ámbito de competencia a definir y supervisar la política de seguridad interior y de vigencia del Estado de Derecho;
 
-XXV. Coordinar y orientar las actividades del Centro de Evaluación y Control de Confianza (C3) y del Centro de Coordinación, Control, Comando, Comunicación, Cómputo e Inteligencia del Estado (C5i);
+XXIV. (DEROGADA, P.O. 16 DE ABRIL DE 2026)
+
+XXV. (DEROGADA, P.O. 16 DE ABRIL DE 2026)
 
 XXVI. Gestionar, operar y supervisar la política pública de protección integral de los derechos de niñas, niños y adolescentes en el Estado, participar en el sistema estatal respectivo y sus órganos, así como coordinar y orientar las actividades de la Secretaría Ejecutiva de dicho sistema y de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado;
 
@@ -375,9 +377,11 @@ XXIX. Coordinar y orientar las actividades de la Comisión Ejecutiva Estatal de 
 
 XXX. Las demás que le atribuyan las leyes, reglamentos y disposiciones jurídicas aplicables, así como aquellas que le encomiende la persona titular del Poder Ejecutivo en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ABRIL DE 2026)</small>
+
 ###### Artículo 34.
 
-A la persona titular de la Secretaría de Seguridad Pública corresponde el ejercicio de las funciones y atribuciones siguientes:
+A la persona titular de la Secretaría de Seguridad y Protección Ciudadana corresponde el ejercicio de las funciones y atribuciones siguientes:
 
 I. Ejercer las funciones de orden público para mantener la seguridad pública y la paz social en el Estado;
 
@@ -425,9 +429,19 @@ XXII. Coordinar y orientar las actividades del Instituto de Formación, Capacita
 
 XXIII. Coordinar y orientar las actividades de la Policía Auxiliar;
 
-XXIV. Regular y evaluar las funciones, servicios y políticas derivadas de la aplicación del Sistema Integral de Justicia Penal para Adolescentes y coordinar y orientar las actividades del Instituto Especializado en la Ejecución de Medidas para Adolescentes; y
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2026)</small>
 
-XXV. Las demás que le atribuyan las leyes, reglamentos y disposiciones jurídicas aplicables, así como aquellas que le encomiende la persona titular del Poder Ejecutivo en la materia.
+XXIV. Regular y evaluar las funciones, servicios y políticas derivadas de la aplicación del Sistema Integral de Justicia Penal para Adolescentes y coordinar y orientar las actividades del Instituto Especializado en la Ejecución de Medidas para Adolescentes;
+
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2026)</small>
+
+XXV. Coordinar y orientar las actividades del Secretariado Ejecutivo del Sistema de Seguridad Pública del Estado y de sus centros estatales de Información en Seguridad Pública y de Prevención Social de la Violencia y la Delincuencia con Participación Ciudadana;
+
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2026)</small>
+
+XXVI. Coordinar y orientar las actividades del Centro de Evaluación y Control de Confianza (C3) y del Centro de Coordinación, Control, Comando, Comunicación, Cómputo e Inteligencia del Estado (C5i); y
+
+XXVII. Las demás que le atribuyan las leyes, reglamentos y disposiciones jurídicas aplicables, así como aquellas que le encomiende la persona titular del Poder Ejecutivo en la materia.
 
 ###### Artículo 35.
 
@@ -1155,7 +1169,9 @@ VII. Formular, aplicar y supervisar programas, medidas y directrices de capacita
 
 VIII. Diseñar, promover y adoptar cursos de capacitación y preparación técnica en artes, oficios o servicios, dirigidos a personas sin empleo, con el propósito de integrarlos al mercado laboral y su sector productivo;
 
-IX. Promover, en coordinación con la Secretaría de Seguridad Pública, programas de capacitación e integración laboral para las personas privadas de su libertad en los centros de reinserción social del Estado;
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2026)</small>
+
+IX. Promover, en coordinación con la Secretaría de Seguridad y Protección Ciudadana, programas de capacitación e integración laboral para las personas privadas de su libertad en los centros de reinserción social del Estado;
 
 X. Analizar, organizar y difundir la información en materia de oferta de empleo y oportunidades laborales;
 
@@ -1492,3 +1508,15 @@ SEGUNDO. Dentro de los 90 días siguientes a la entrada en vigor del presente De
 TERCERO. Dentro de los 60 días hábiles siguientes a la entrada en vigor del presente Decreto, la Contraloría deberá realizar las modificaciones necesarias a los manuales y lineamientos respectivos.
 
 CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, así como las modificaciones a la estructura orgánica y al ejercicio de las nuevas atribuciones conferidas a la Contraloría, deberán cubrirse con cargo a su presupuesto autorizado para el presente ejercicio fiscal y subsecuentes, mediante la realización de las adecuaciones presupuestales respectivas que se realizarán conforme a las disposiciones jurídicas aplicables, toda vez que no se autorizan ampliaciones al presupuesto de la Contraloría.
+
+P.O. 16 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 269.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA; Y SE REFORMA LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. Dentro del plazo de 90 días naturales siguientes a la entrada en vigor del presente Decreto, la persona Titular del Ejecutivo Estatal llevará a cabo la armonización de los reglamentos interiores de las dependencias y entidades de la Administración Pública, que con motivo de las presentes reformas deban ser actualizados.
+
+TERCERO. Todas las referencias que hagan mención a (sic) la Secretaría de Seguridad Pública del Estado de Colima, en las leyes y demás disposiciones vigentes, se entenderán realizadas a la Secretaría de Seguridad y Protección Ciudadana del Estado de Colima.
+
+CUARTO. Se instruye a las autoridades competentes para que, en el ámbito de sus atribuciones, realicen las adecuaciones presupuestarias y administrativas necesarias, a efecto de transferir los recursos humanos, materiales y financieros a la Secretaría de Seguridad y Protección Ciudadana, garantizando el cumplimiento del presente Decreto.
