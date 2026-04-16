@@ -4,7 +4,7 @@ identifier: "SLP-ley-del-sistema-de-seguridad-publica-del-estado-de-san-luis-875
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-28"
-last_updated: "2026-03-25"
+last_updated: "2026-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial de San Luis Potosí, el miércoles 28 de marzo de 2012.
 
@@ -477,11 +477,19 @@ VII. Aplicar las tecnologías, equipos y procesos para hacer eficiente la activi
 
 VIII. Establecer programas y políticas particulares de prevención del delito, que atiendan la dinámica específica de los fenómenos criminológicos de su competencia, así como acciones en la materia, coordinadas entre el Estado y la Federación;
 
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2026)</small>
+
+IX. Prever en sus presupuestos de egresos las partidas necesarias para garantizar que los elementos de seguridad pública municipal perciban, como mínimo, una remuneración mensual neta equivalente al monto de $14,000.00 pesos (Catorce Mil Pesos 00/100 M.N.), expresado en su equivalente en UMA vigente, sin que la actualización anual pueda implicar una disminución del monto percibido;
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2026)</small>
+
+IX BIS. Informar anualmente al Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública y al Instituto de Fiscalización Superior del Estado sobre el cumplimiento del estándar mínimo de remuneración previsto para los elementos de seguridad pública municipal, adjuntando evidencia documental de los tabuladores y nóminas correspondientes;
+
 > <small>(ADICIONADA, P.O. 17 DE NOVIEMBRE DE 2020)</small>
 
-IX. En el ámbito de su competencia, emitir la reglamentación necesaria para prohibir la comercialización de juguetes que tengan características similares a cualquier arma real en su forma, dimensiones y colores, incluyendo también recubrimientos que resulten en texturas parecidas a aquellas de las armas verdaderas; así como para establecer las sanciones administrativas aplicables a la violación de la prohibición y medidas de incautación, y
+X. En el ámbito de su competencia, emitir la reglamentación necesaria para prohibir la comercialización de juguetes que tengan características similares a cualquier arma real en su forma, dimensiones y colores, incluyendo también recubrimientos que resulten en texturas parecidas a aquellas de las armas verdaderas; así como para establecer las sanciones administrativas aplicables a la violación de la prohibición y medidas de incautación, y
 
-X. Ejercer las demás facultades que les confiere esta Ley y los ordenamientos legales aplicables.
+XI. Ejercer las demás facultades que les confiere esta Ley y los ordenamientos legales aplicables.
 
 ###### ARTICULO 18.
 
@@ -3348,3 +3356,25 @@ P.O. 25 DE MARZO DE 2026.
 ## [N. DE E. TRANSITORIO DEL " DECRETO 0495.- QUE REALIZA ADICIÓN AL ARTÍCULO 51, DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ ".]
 
 ÚNICO. El presente Decreto entrará en vigor el día de su publicación del (sic) Periódico Oficial del Estado “Plan de San Luis”.
+
+P.O. 16 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 0511.- SE REFORMAN LOS ARTÍCULOS 114 Y 133 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; ASÍ COMO DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA, LA LEY ORGÁNICA DEL MUNICIPIO LIBRE Y LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA, TODAS DEL ESTADO DE SAN LUIS POTOSÍ, EN MATERIA DE REMUNERACIÓN MÍNIMA PARA INTEGRANTES DE INSTITUCIONES DE SEGURIDAD PÚBLICA MUNICIPALES".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Los ayuntamientos deben realizar los ajustes normativos, administrativos y presupuestales internos necesarios para dar cumplimiento a lo dispuesto en este Decreto, en un plazo no mayor a 120 días naturales contados a partir de su entrada en vigor.
+
+TERCERO. Los municipios que ya otorguen percepciones iguales o superiores al ingreso mínimo mensual establecido en este Decreto deberán mantenerlas, sin que en ningún caso puedan disminuirse, y podrán incrementarlas conforme a su capacidad financiera, sin perjuicio de la obligación de respetar el estándar mínimo previsto en la presente reforma.
+
+La implementación del ingreso mínimo mensual previsto en este Decreto no podrá implicar la disminución de percepciones, prestaciones, compensaciones u otros derechos adquiridos por las y los elementos de seguridad pública municipal.
+
+CUARTO. La actualización anual conforme al valor vigente de la UMA se aplicará exclusivamente al monto mínimo de remuneración establecido en este Decreto. Los municipios que otorguen percepciones superiores continuarán aplicando sus propios tabuladores y disposiciones normativas, sin que la presente reforma implique modificación, reducción o sustitución de dichos esquemas.
+
+QUINTO. Para el ejercicio fiscal en curso, los ayuntamientos deberán realizar las adecuaciones presupuestales internas necesarias para garantizar el cumplimiento del ingreso mínimo mensual establecido en este Decreto, utilizando para tal efecto las previsiones, economías, ampliaciones o ajustes permitidos por la normatividad aplicable.
+
+En los ejercicios fiscales subsecuentes, deberán prever partidas específicas en sus respectivos Presupuestos de Egresos.
+
+SEXTO. El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, en coordinación con el Instituto de Fiscalización Superior del Estado y la Secretaría de Finanzas, emitirá en un plazo no mayor a 60 días naturales los criterios técnicos y/o lineamientos para la verificación, seguimiento y cumplimiento del ingreso mínimo mensual previsto en este Decreto, mismos que serán de observancia obligatoria para los ayuntamientos.
+
+SÉPTIMO. El Poder Ejecutivo del Estado, a través de la Secretaría de Finanzas, podrá celebrar convenios de coordinación con los ayuntamientos para apoyar la implementación progresiva del ingreso mínimo mensual previsto en este Decreto, sin que ello implique transferencia de obligaciones permanentes ni afectación a la autonomía municipal.
