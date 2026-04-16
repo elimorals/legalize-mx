@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-la-entrega-recepcion-de-los-recursos-asignados-a-34930
 country: "mx"
 rank: "ley"
 publication_date: "2003-11-06"
-last_updated: "2026-02-12"
+last_updated: "2026-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34930&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "TAM"
 ---
 # LEY PARA LA ENTREGA-RECEPCION DE LOS RECURSOS ASIGNADOS A LOS PODERES, ORGANOS Y AYUNTAMIENTOS DEL ESTADO DE TAMAULIPAS (ANTES: LEY PARA LA ENTREGA-RECEPCION DE LOS RECURSOS ASIGNADOS A LOS PODERES Y AYUNTAMIENTOS DEL ESTADO DE TAMAULIPAS)
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+NOTA 1: [N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+NOTA 2: [N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE ENTREGA-RECEPCIÓN PARA EL ESTADO DE TAMAULIPAS, PUBLICADA EN EL P.O. DE 16 DE ABRIL DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
 
 LEY PARA LA ENTREGA-RECEPCION DE LOS RECURSOS ASIGNADOS A LOS PODERES, ORGANOS Y AYUNTAMIENTOS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2026 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 6 de noviembre de 2003.
 
@@ -712,3 +714,23 @@ El Tribunal de Justicia Administrativa del Estado de Tamaulipas, a través de su
 ###### ARTÍCULO TERCERO.
 
 En las disposiciones transitorias de las diversas leyes y códigos en las que se haga referencia a la Contraloría Gubernamental, se entenderá la Secretaría Anticorrupción y Buen Gobierno.
+
+P.O. 16 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 66-1044 MEDIANTE EL CUAL SE EXPIDE LA LEY DE ENTREGA-RECEPCIÓN PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se Abroga la Ley para la Entrega-Recepción de los Recursos Asignados a los Poderes, Órganos y Ayuntamientos del Estado de Tamaulipas, expedida mediante Decreto número 383, de fecha 05 de noviembre de 2003, de la Quincuagésima Octava Legislatura del Congreso del Estado, publicada en el Periódico Oficial Número 134, de fecha 06 de noviembre 2003 y sus reformas; y se derogan las disposiciones que se opongan a los preceptos del nuevo ordenamiento que se emite.
+
+###### ARTÍCULO TERCERO.
+
+Hasta en tanto sea publicada la reforma a los Lineamientos para la Entrega-Recepción de los recursos humanos, materiales y financieros asignados a las Dependencias y Entidades de la Administración Pública del Estado de Tamaulipas, asignados a las personas servidoras públicas integrantes de la Administración Pública del Estado de Tamaulipas, y las reglas e instrucciones para el registro de los recursos que les hayan sido asignados a cada unidad administrativa responsable en los siguientes rubros: orden jurídico de actuación; recurso humano, material y financiero; el registro de obras públicas; derechos y obligaciones; relación de archivos en trámite y concentración; relación de archivos con valor histórico; activos intangibles y otros; además de la referencia de asuntos prioritarios, relevantes o trascendentes y en trámite que impliquen la atención inmediata de quien recibe, y que conforman los rubros relativos a la información a que se refiere el artículo 6° de esta Ley, para el acto de entrega-recepción en los Poderes, Órganos Públicos Autónomos y los Ayuntamientos, así como de las Entidades Paraestatales y Paramunicipales del Estado de Tamaulipas, según corresponda siempre que no se opongan a las disposiciones contenidas en la presente Ley, serán utilizados los emitidos y aprobados por el Órgano Interno de Control correspondiente.
+
+###### ARTÍCULO CUARTO.
+
+El Gobierno del Estado y los Ayuntamientos deberán efectuar, en el ámbito de sus respectivas competencias, los ajustes correspondientes en su normatividad, en un plazo que no exceda 90 días a partir de la entrada en vigor del presente Decreto.
