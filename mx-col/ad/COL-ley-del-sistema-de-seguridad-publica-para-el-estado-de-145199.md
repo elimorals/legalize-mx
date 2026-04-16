@@ -4,7 +4,7 @@ identifier: "COL-ley-del-sistema-de-seguridad-publica-para-el-estado-de-145199"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-14"
-last_updated: "2026-01-17"
+last_updated: "2026-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145199&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COL"
 
 LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2025.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 17 DE ENERO DE 2026.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 14 de noviembre de 2020.
 
@@ -919,9 +917,9 @@ III. Dos o más municipios de diferentes entidades federativas.
 
 Carácter del Secretariado Ejecutivo y requisitos de elegibilidad
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2026)</small>
 
-1. El Secretariado Ejecutivo es un órgano operativo del Sistema Estatal, desconcentrado de la Secretaría General, con autonomía técnica y de gestión. La persona titular del Poder Ejecutivo del Estado expedirá el Reglamento Interior del Secretariado Ejecutivo, que establecerá las atribuciones y articulación de las distintas unidades administrativas dependientes de este órgano.
+1. El Secretariado Ejecutivo es un órgano operativo del Sistema Estatal, desconcentrado de la Secretaría de Seguridad, con autonomía técnica y de gestión. La persona titular del Poder Ejecutivo del Estado expedirá el Reglamento Interior del Secretariado Ejecutivo, que establecerá las atribuciones y articulación de las distintas unidades administrativas dependientes de este órgano.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2025)</small>
 
@@ -1193,7 +1191,9 @@ XX. Las demás que establezcan disposiciones jurídicas aplicables, el Consejo E
 
 Centro de Evaluación y Control de Confianza del Estado (C3)
 
-1. El Centro de Evaluación y Control de Confianza del Estado (C3) es el organismo público descentralizado, con personalidad jurídica y patrimonio propios, y autonomía técnica, operativa y de gestión, sectorizado a la Secretaría General, responsable de la evaluación y certificación de los aspirantes y miembros de las Instituciones de Seguridad Pública y personal operativo de los prestadores de servicios de seguridad privada.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2026)</small>
+
+1. El Centro de Evaluación y Control de Confianza del Estado (C3) es el organismo público descentralizado, con personalidad jurídica y patrimonio propios, y autonomía técnica, operativa y de gestión, sectorizado a la Secretaría de Seguridad, responsable de la evaluación y certificación de los aspirantes y miembros de las Instituciones de Seguridad Pública y personal operativo de los prestadores de servicios de seguridad privada.
 
 2. El Centro de Evaluación y Control de Confianza del Estado (C3) tiene a cargo la aplicación de los exámenes y evaluaciones de control de confianza en los procesos de selección de aspirantes, ingreso, formación, permanencia, reconocimiento, desarrollo, promoción, y certificación del personal integrante de las Instituciones de Seguridad Pública estatal y municipal, auxiliares de éstas, así como de las instituciones y empresas de seguridad privada que presten sus servicios dentro del Estado, de conformidad con la normatividad respectiva.
 
@@ -1267,7 +1267,9 @@ XIX. Celebrar convenios, contratos y acuerdos con instancias federales, estatale
 
 XX. Gestionar y concertar ante las autoridades competentes, la ministración de los recursos que requiera para su operación, así como administrarlos atendiendo a los principios de eficiencia, eficacia, economía, transparencia y honradez;
 
-XXI. Presentar por conducto de su Director quejas, demandas o denuncias ante las autoridades competentes, cuando resulte necesario, e informar al respecto al Secretariado Ejecutivo; y
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2026)</small>
+
+XXI. Presentar por conducto de su Dirección General, quejas, demandas o denuncias ante las autoridades competentes, cuando resulte necesario, e informar al respecto a la Secretaría de Seguridad; y
 
 XXII. Las demás que establezcan su reglamento y demás disposiciones jurídicas aplicables.
 
@@ -1287,9 +1289,9 @@ Organización y funcionamiento
 
 Centro de Coordinación, Control, Comando, Comunicación, Cómputo e Inteligencia del Estado (C5i)
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2026)</small>
 
-1. El Centro de Coordinación, Control, Comando, Comunicación, Cómputo e Inteligencia del Estado (C5i) es el organismo público descentralizado, con personalidad jurídica y patrimonio propios, y autonomía técnica, operativa y de gestión, sectorizado a la Secretaría General, responsable de operar los Sistemas de Radiocomunicación, Videovigilancia, Telecomunicación, Monitoreo Vehicular, el de Atención de Emergencias 9-1-1, Denuncia Anónima 089, análisis de datos destinadas a la coordinación y supervisión operativa en tiempo real de las actividades de prevención, vigilancia y atención de emergencias, coordinando la captación de información integral para que las instancias correspondientes atiendan y tomen decisiones en las emergencias que se presenten en las áreas de protección civil, procuración de justicia, seguridad pública, urgencias médicas, movilidad, medio ambiente, servicios a la comunidad, así como demás contingencias y desastres en dichas materias, mediante la integración y análisis de información captada a través de su sala de video monitoreo, de la utilización de herramientas tecnológicas, bases de datos o cualquier servicio, sistema o equipo de que disponga para el diseño de estrategias, elaboración de estadísticas y generación de inteligencia, así como de la vinculación, coordinación y gestión respectivas con los órganos de Gobierno Federal, Estatal o Municipal e instituciones y demás organismos públicos, privados y asistenciales, conforme a las disposiciones legales aplicables.
+1. El Centro de Coordinación, Control, Comando, Comunicación, Cómputo e Inteligencia del Estado (C5i) es el organismo público descentralizado, con personalidad jurídica y patrimonio propios, y autonomía técnica, operativa y de gestión, sectorizado a la Secretaría de Seguridad, responsable de operar los Sistemas de Radiocomunicación, Videovigilancia, Telecomunicación, Monitoreo Vehicular, el de Atención de Emergencias 9-1-1, Denuncia Anónima 089, análisis de datos destinadas a la coordinación y supervisión operativa en tiempo real de las actividades de prevención, vigilancia y atención de emergencias, coordinando la captación de información integral para que las instancias correspondientes atiendan y tomen decisiones en las emergencias que se presenten en las áreas de protección civil, procuración de justicia, seguridad pública, urgencias médicas, movilidad, medio ambiente, servicios a la comunidad, así como demás contingencias y desastres en dichas materias, mediante la integración y análisis de información captada a través de su sala de video monitoreo, de la utilización de herramientas tecnológicas, bases de datos o cualquier servicio, sistema o equipo de que disponga para el diseño de estrategias, elaboración de estadísticas y generación de inteligencia, así como de la vinculación, coordinación y gestión respectivas con los órganos de Gobierno Federal, Estatal o Municipal e instituciones y demás organismos públicos, privados y asistenciales, conforme a las disposiciones legales aplicables.
 
 ###### ARTÍCULO 40.
 
@@ -1367,7 +1369,9 @@ XIII. Coordinarse con las Instituciones de Seguridad Pública a fin de prever si
 
 XIV. Gestionar y concertar ante las autoridades competentes, la ministración de los recursos que requiera para su operación, así como administrarlos atendiendo a los principios de eficiencia, eficacia, economía, transparencia y honradez;
 
-XV. Presentar, por conducto de su Director General, quejas, demandas o denuncias ante las autoridades competentes, cuando resulte necesario, e informar al respecto a la Secretaría General;
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2026)</small>
+
+XV. Presentar, por conducto de su Dirección General, quejas, demandas o denuncias ante las autoridades competentes, cuando resulte necesario, e informar al respecto a la Secretaría de Seguridad;
 
 XVI. Coordinarse y auxiliar en lo que incida en el ámbito de su competencia con las autoridades sanitarias de los tres órdenes de gobierno;
 
@@ -3890,3 +3894,15 @@ P.O. 31 DE DICIEMBRE DE 2025.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 16 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 269.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COLIMA; Y SE REFORMA LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA PARA EL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. Dentro del plazo de 90 días naturales siguientes a la entrada en vigor del presente Decreto, la persona Titular del Ejecutivo Estatal llevará a cabo la armonización de los reglamentos interiores de las dependencias y entidades de la Administración Pública, que con motivo de las presentes reformas deban ser actualizados.
+
+TERCERO. Todas las referencias que hagan mención a la Secretaría de Seguridad Pública del Estado de Colima, en las leyes y demás disposiciones vigentes, se entenderán realizadas a la Secretaría de Seguridad y Protección Ciudadana del Estado de Colima.
+
+CUARTO. Se instruye a las autoridades competentes para que, en el ámbito de sus atribuciones, realicen las adecuaciones presupuestarias y administrativas necesarias, a efecto de transferir los recursos humanos, materiales y financieros a la Secretaría de Seguridad y Protección Ciudadana, garantizando el cumplimiento del presente Decreto.
