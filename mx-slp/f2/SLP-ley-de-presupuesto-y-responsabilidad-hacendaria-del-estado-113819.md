@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-presupuesto-y-responsabilidad-hacendaria-del-estado-1138
 country: "mx"
 rank: "ley"
 publication_date: "2016-03-03"
-last_updated: "2023-09-01"
+last_updated: "2026-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113819&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "SLP"
 
 LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de San Luis Potosí, el jueves 3 de marzo de 2016.
 
@@ -234,13 +234,25 @@ Los municipios, sus organismos, así como los organismos intermunicipales confor
 
 I. Para la formulación del Presupuesto de Egresos del municipio, la tesorería elaborará su proyecto con base en los objetivos, estrategias y prioridades que determinen el Plan Municipal de Desarrollo, así como los programas que de éste deriven, y lo remitirá al Presidente Municipal, para que él a su vez lo presente al cabildo a más tardar el quince de diciembre del año anterior a su entrada en vigor. Previa solicitud del Presidente Municipal, el cabildo podrá ampliar el plazo de presentación hasta por siete días; y en el caso de los organismos intermunicipales, el tesorero o su equivalente, elaborará el proyecto y lo remitirá al director del organismo para que lo presente a su órgano de gobierno, a más tardar el quince de diciembre del año anterior a su vigencia;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2026)</small>
 
-II.- En los municipios, sus organismos, así como los organismos intermunicipales, corresponde a la tesorería y al órgano de control interno, el control y la evaluación del gasto, y
+II. En los municipios, sus organismos, así como los organismos intermunicipales, corresponde a la tesorería y al órgano de control interno, el control y la evaluación del gasto;
 
-> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2026)</small>
 
-III. Para la elaboración del Presupuesto de Egresos, los municipios, sus organismos, así como los organismos intermunicipales, deberán considerar la información permitente que genere el Banco Estatal de Indicadores de Género a cargo del Instituto de las Mujeres del Estado, a fin de promover políticas, planes y programas con perspectiva de género, que garanticen el respeto a los derechos humanos, fomenten la igualdad de derechos, y eviten toda forma de discriminación.
+III. Para la elaboración del Presupuesto de Egresos, los municipios, sus organismos, así como los organismos intermunicipales, deberán considerar la información permitente que genere el Banco Estatal de Indicadores de Género a cargo del Instituto de las Mujeres del Estado, a fin de promover políticas, planes y programas con perspectiva de género, que garanticen el respeto a los derechos humanos, fomenten la igualdad de derechos, y eviten toda forma de discriminación, y
+
+> <small>(ADICIONADA, P.O. 16 DE ABRIL DE 2026)</small>
+
+IV. Para la formulación del Presupuesto de Egresos, los municipios, deberán prever las partidas necesarias para garantizar que los elementos de seguridad pública municipal perciban, como mínimo, una remuneración mensual neta equivalente al monto de $14,000.00 pesos (Catorce Mil Pesos 00/100 M.N.), expresados en su equivalente en UMA vigente, sin que la actualización anual pueda implicar una disminución del monto percibido.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2026)</small>
+
+ARTÍCULO 6° BIS. El incumplimiento injustificado de la obligación de garantizar la remuneración mínima prevista para los elementos de seguridad pública municipal será considerado una omisión en la administración de recursos públicos.
+
+El Instituto de Fiscalización Superior del Estado deberá emitir las observaciones correspondientes y promover, ante las autoridades competentes, las responsabilidades administrativas que procedan en términos de la Ley de Responsabilidades Administrativas para el Estado y Municipios.
+
+En ningún caso este incumplimiento podrá justificar la disminución del estándar mínimo previsto en esta Ley, debiendo el ayuntamiento realizar las adecuaciones presupuestales necesarias para su cumplimiento.
 
 ###### ARTÍCULO 7°.
 
@@ -1515,3 +1527,25 @@ SEGUNDO. Se derogan las disposiciones que se opongan a este Decreto.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. En tanto se armonizan las leyes secundarias conforme a lo establecido en este Decreto, las referencias que hagan a la Auditoría Superior del Estado se entenderán hechas al Instituto de Fiscalización Superior del Estado.
+
+P.O. 16 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0511.- SE REFORMAN LOS ARTÍCULOS 114 Y 133 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; ASÍ COMO DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA, LA LEY ORGÁNICA DEL MUNICIPIO LIBRE Y LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA, TODAS DEL ESTADO DE SAN LUIS POTOSÍ, EN MATERIA DE REMUNERACIÓN MÍNIMA PARA INTEGRANTES DE INSTITUCIONES DE SEGURIDAD PÚBLICA MUNICIPALES".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Los ayuntamientos deben realizar los ajustes normativos, administrativos y presupuestales internos necesarios para dar cumplimiento a lo dispuesto en este Decreto, en un plazo no mayor a 120 días naturales contados a partir de su entrada en vigor.
+
+TERCERO. Los municipios que ya otorguen percepciones iguales o superiores al ingreso mínimo mensual establecido en este Decreto deberán mantenerlas, sin que en ningún caso puedan disminuirse, y podrán incrementarlas conforme a su capacidad financiera, sin perjuicio de la obligación de respetar el estándar mínimo previsto en la presente reforma.
+
+La implementación del ingreso mínimo mensual previsto en este Decreto no podrá implicar la disminución de percepciones, prestaciones, compensaciones u otros derechos adquiridos por las y los elementos de seguridad pública municipal.
+
+CUARTO. La actualización anual conforme al valor vigente de la UMA se aplicará exclusivamente al monto mínimo de remuneración establecido en este Decreto. Los municipios que otorguen percepciones superiores continuarán aplicando sus propios tabuladores y disposiciones normativas, sin que la presente reforma implique modificación, reducción o sustitución de dichos esquemas.
+
+QUINTO. Para el ejercicio fiscal en curso, los ayuntamientos deberán realizar las adecuaciones presupuestales internas necesarias para garantizar el cumplimiento del ingreso mínimo mensual establecido en este Decreto, utilizando para tal efecto las previsiones, economías, ampliaciones o ajustes permitidos por la normatividad aplicable.
+
+En los ejercicios fiscales subsecuentes, deberán prever partidas específicas en sus respectivos Presupuestos de Egresos.
+
+SEXTO. El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, en coordinación con el Instituto de Fiscalización Superior del Estado y la Secretaría de Finanzas, emitirá en un plazo no mayor a 60 días naturales los criterios técnicos y/o lineamientos para la verificación, seguimiento y cumplimiento del ingreso mínimo mensual previsto en este Decreto, mismos que serán de observancia obligatoria para los ayuntamientos.
+
+SÉPTIMO. El Poder Ejecutivo del Estado, a través de la Secretaría de Finanzas, podrá celebrar convenios de coordinación con los ayuntamientos para apoyar la implementación progresiva del ingreso mínimo mensual previsto en este Decreto, sin que ello implique transferencia de obligaciones permanentes ni afectación a la autonomía municipal.
