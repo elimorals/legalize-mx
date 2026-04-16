@@ -4,7 +4,7 @@ identifier: "COL-ley-que-crea-premios-y-estimulos-para-los-colimenses-4433"
 country: "mx"
 rank: "ley"
 publication_date: "1967-10-14"
-last_updated: "2025-03-29"
+last_updated: "2026-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Colima, el sábado 14 de octubre de 1967.
 
@@ -191,7 +191,13 @@ a) EI premio al mérito en enfermería primer nivel de atención. Se otorgará a
 
 b) El premio al mérito de enfermería de segundo y tercer nivel de atención. Se otorgará a quien se haya distinguido profesionalmente en la actividad de enfermería en cualquiera de sus especialidades, particularmente en el área de segundo y tercer nivel de atención.
 
-c) El premio al mérito de enfermería gestión e investigación en enfermería. Se otorgará a quien se haya distinguido profesionalmente en la actividad de enfermería en cualquiera de sus especialidades o áreas de conocimiento relacionadas a la gestión e investigación en enfermería.
+> <small>(REFORMADO, P.O. 16 DE ABRIL DE 2026)</small>
+
+c) El premio al mérito de enfermería, gestión en enfermería y mejora de procesos. Se otorgará a quien se haya distinguido profesionalmente en la actividad de enfermería en cualquiera de sus especialidades o áreas de conocimiento relacionadas a la gestión y mejora de procesos.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2026)</small>
+
+d) El premio al mérito de enfermería investigación y docencia. Se otorgarán a quien se haya distinguido profesionalmente en la actividad de enfermería en cualquiera de sus especialidades, particularmente en el área de e (sic) investigación y docencia.
 
 > <small>(ADICIONADA, P.O. 10 DE SEPTIEMBRE DE 2022)</small>
 
@@ -592,3 +598,9 @@ P.O. 29 DE MARZO DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 78.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY QUE CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 16 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 265.- POR EL QUE SE REFORMA LA FRACCIÓN XI DEL ARTÍCULO 1 DE LA LEY DE (SIC) CREA PREMIOS Y ESTÍMULOS PARA LOS COLIMENSES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
