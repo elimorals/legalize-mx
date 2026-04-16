@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2025-12-18"
+last_updated: "2026-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -573,9 +573,13 @@ VII. Los ayuntamientos podrán solicitar al Congreso del Estado las modificacion
 
 VIII. Remitir anualmente al Congreso del Estado, a más tardar el quince de marzo de cada año, la actualización al Catálogo General de Inmuebles Municipales, así como el inventario de bienes muebles de su propiedad para efectos del control y registro de los mismos;
 
-(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 23 DE ENERO DE 2020.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE ABRIL DE 2026)</small>
 
-IX. Aprobar a más tardar el treinta de diciembre de cada año, el presupuesto anual de egresos que regirá el ejercicio fiscal inmediato posterior, el cual deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos, sujetándose a las bases previstas en el artículo 133 de la Constitución Política del Estado; así como la cuenta pública municipal anual que presente el tesorero del ayuntamiento, remitiéndola al Congreso del Estado para su revisión y fiscalización, a más tardar el día quince de marzo del año siguiente al del ejercicio.
+IX. Aprobar a más tardar el treinta de diciembre de cada año, el presupuesto anual de egresos que regirá el ejercicio fiscal inmediato posterior, el cual deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos, garantizando que los elementos de seguridad pública municipal perciban, como mínimo, una remuneración mensual neta equivalente al monto de $14,000.00 pesos (Catorce Mil Pesos 00/100 M.N.), expresados en su equivalente en UMA vigente, sujetándose a las bases previstas en el artículo 133 de la Constitución Política del Estado; así como la cuenta pública municipal anual que presente el tesorero del ayuntamiento, remitiéndola al Congreso del Estado para su revisión y fiscalización, a más tardar el día quince de marzo del año siguiente al del ejercicio.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2026)</small>
+
+El incumplimiento injustificado de esta obligación será considerado una omisión en la administración de recursos públicos y dará lugar a las responsabilidades administrativas que correspondan, en términos de la Ley de Responsabilidades Administrativas para el Estado y Municipios.
 
 > <small>(ADICIONADO, P.O. 3 DE ABRIL DE 2007)</small>
 
@@ -1467,9 +1471,11 @@ X. Ejercer el presupuesto anual de egresos y vigilar que los gastos se apliquen 
 
 XI. Intervenir en la formulación de convenios de coordinación fiscal con el Gobierno del Estado;
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 16 DE ABRIL DE 2026)</small>
 
-XII. Elaborar el proyecto y someter a la aprobación del cabildo en forma oportuna, la cuenta pública anual municipal, y el presupuesto anual de egresos, el cual deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos, sujetándose a las bases previstas en el artículo 133 de la constitución Política del Estado;
+XII. Elaborar el proyecto y someter a la aprobación del cabildo en forma oportuna, la cuenta pública anual municipal y el presupuesto anual de egresos, el cual deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos, y deberán prever las partidas necesarias para garantizar que los elementos de seguridad pública municipal perciban, como mínimo, una remuneración mensual neta equivalente al monto de $14,000.00 pesos (Catorce Mil Pesos 00/100 M.N.), expresados en su equivalente en UMA vigente, sujetándose a las bases previstas en el artículo 133 de la Constitución Política del Estado.
+
+El incumplimiento injustificado de esta obligación será considerado una omisión en la administración de recursos públicos y dará lugar a las responsabilidades administrativas que correspondan, en términos de la Ley de Responsabilidades Administrativas para el Estado y Municipios.
 
 > <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2016)</small>
 
@@ -3714,3 +3720,25 @@ SEGUNDO. Los ayuntamientos de la Entidad deberán realizar los ajustes normativo
 TERCERO. Los derechos pensionarios adquiridos con anterioridad a la entrada en vigor de esta reforma se respetarán conforme al régimen aplicable al momento de su otorgamiento, sin perjuicio de que los beneficiarios puedan optar voluntariamente por incorporarse a los nuevos esquemas que se establezcan.
 
 CUARTO. En el ejercicio fiscal siguiente a la entrada en vigor de esta reforma, los ayuntamientos deberán prever en sus respectivos proyectos de presupuesto de egresos una partida específica para el financiamiento de los esquemas de previsión social aplicables a las personas integrantes de los cuerpos de seguridad pública municipal.
+
+P.O. 16 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0511.- SE REFORMAN LOS ARTÍCULOS 114 Y 133 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; ASÍ COMO DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA, LA LEY ORGÁNICA DEL MUNICIPIO LIBRE Y LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA, TODAS DEL ESTADO DE SAN LUIS POTOSÍ, EN MATERIA DE REMUNERACIÓN MÍNIMA PARA INTEGRANTES DE INSTITUCIONES DE SEGURIDAD PÚBLICA MUNICIPALES”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Los ayuntamientos deben realizar los ajustes normativos, administrativos y presupuestales internos necesarios para dar cumplimiento a lo dispuesto en este Decreto, en un plazo no mayor a 120 días naturales contados a partir de su entrada en vigor.
+
+TERCERO. Los municipios que ya otorguen percepciones iguales o superiores al ingreso mínimo mensual establecido en este Decreto deberán mantenerlas, sin que en ningún caso puedan disminuirse, y podrán incrementarlas conforme a su capacidad financiera, sin perjuicio de la obligación de respetar el estándar mínimo previsto en la presente reforma.
+
+La implementación del ingreso mínimo mensual previsto en este Decreto no podrá implicar la disminución de percepciones, prestaciones, compensaciones u otros derechos adquiridos por las y los elementos de seguridad pública municipal.
+
+CUARTO. La actualización anual conforme al valor vigente de la UMA se aplicará exclusivamente al monto mínimo de remuneración establecido en este Decreto. Los municipios que otorguen percepciones superiores continuarán aplicando sus propios tabuladores y disposiciones normativas, sin que la presente reforma implique modificación, reducción o sustitución de dichos esquemas.
+
+QUINTO. Para el ejercicio fiscal en curso, los ayuntamientos deberán realizar las adecuaciones presupuestales internas necesarias para garantizar el cumplimiento del ingreso mínimo mensual establecido en este Decreto, utilizando para tal efecto las previsiones, economías, ampliaciones o ajustes permitidos por la normatividad aplicable.
+
+En los ejercicios fiscales subsecuentes, deberán prever partidas específicas en sus respectivos Presupuestos de Egresos.
+
+SEXTO. El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, en coordinación con el Instituto de Fiscalización Superior del Estado y la Secretaría de Finanzas, emitirá en un plazo no mayor a 60 días naturales los criterios técnicos y/o lineamientos para la verificación, seguimiento y cumplimiento del ingreso mínimo mensual previsto en este Decreto, mismos que serán de observancia obligatoria para los ayuntamientos.
+
+SÉPTIMO. El Poder Ejecutivo del Estado, a través de la Secretaría de Finanzas, podrá celebrar convenios de coordinación con los ayuntamientos para apoyar la implementación progresiva del ingreso mínimo mensual previsto en este Decreto, sin que ello implique transferencia de obligaciones permanentes ni afectación a la autonomía municipal.
