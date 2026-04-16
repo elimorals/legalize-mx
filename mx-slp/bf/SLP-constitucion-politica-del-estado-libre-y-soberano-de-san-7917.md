@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2026-04-01"
+last_updated: "2026-04-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2026.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -2291,6 +2291,14 @@ Los ayuntamientos en el ámbito de su competencia, propondrán a la Legislatura 
 
 El Congreso del Estado aprobará las leyes de ingresos de los municipios, a más tardar el quince de diciembre de cada año; revisará y fiscalizará sus cuentas públicas. Los presupuestos de egresos serán aprobados por los ayuntamientos con base en sus ingresos disponibles, y deberán incluir en los mismos, los tabuladores desglosados de las remuneraciones que percibirán los servidores públicos municipales, sujetándose a lo dispuesto por el artículo 133 de esta Constitución.
 
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2026)</small>
+
+En el caso de las personas integrantes de los cuerpos de seguridad pública municipal, los tabuladores deberán garantizar, como mínimo una remuneración mensual neta equivalente al monto de $ 14,000.00 pesos (Catorce Mil Pesos 00/100 M.N.), expresado en su equivalente en UMA vigente, sin que la actualización anual pueda implicar una disminución del monto percibido. Lo anterior, sin perjuicio de que los ayuntamientos otorguen remuneraciones superiores conforme a su capacidad financiera.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2026)</small>
+
+La actualización anual conforme al valor vigente de la UMA será aplicable únicamente al estándar mínimo de remuneración previsto en este artículo. Las remuneraciones superiores que otorguen los municipios se regirán por sus propios tabuladores y disposiciones aplicables, sin que la presente disposición implique modificación o afectación a dichos esquemas.
+
 > <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2000)</small>
 
 Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los ayuntamientos, o bien, por quien ellos autoricen, conforme a la ley.
@@ -2788,6 +2796,14 @@ Los funcionarios de elección popular que, sin causa justificada o sin la corres
 Los servidores públicos del Estado, de los municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales, intermunicipales, y paramunicipales, fideicomisos públicos, instituciones de organismos autónomos, y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades.
 
 Los salarios de los servidores públicos serán fijados en los presupuestos respectivos, sin que su cuantía pueda ser disminuida durante la vigencia de éstos, sujetándose a lo dispuesto en el artículo 127 de la Constitución General de la República, y en las leyes aplicables en el Estado.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2026)</small>
+
+En el caso de los elementos de seguridad pública municipal, la remuneración no podrá ser inferior al equivalente en UMA vigente al monto neto mensual de $14,000.00 pesos (Catorce Mil Pesos 00/100 M.N.), conforme a lo establecido en esta Constitución y en las leyes aplicables.
+
+> <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2026)</small>
+
+La actualización anual conforme al valor vigente de la UMA será aplicable únicamente al estándar mínimo de remuneración previsto en este artículo. Las remuneraciones superiores que otorguen los municipios se regirán por sus propios tabuladores y disposiciones aplicables, sin que la presente disposición implique modificación o afectación a dichos esquemas.
 
 Dicha remuneración será determinada anual y equitativamente, en los presupuestos de egresos correspondientes, sin que su cuantía pueda ser disminuida durante la vigencia de éstos, sujetándose a lo dispuesto en el artículo 127 de la Constitución General de la República, en las leyes aplicables en el Estado, y bajo las siguientes bases:
 
@@ -4176,3 +4192,25 @@ DÉCIMO. Los derechos laborales de las personas servidoras públicas de la Comis
 Los recursos humanos con que cuenten la Comisión Estatal de Garantía de Acceso a la Información Pública que se extinguirá a consecuencia del presente Decreto, y pasarán a formar parte de aquel que asuma sus atribuciones, cuando corresponda.
 
 DÉCIMO PRIMERO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 16 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0511.- SE REFORMAN LOS ARTÍCULOS 114 Y 133 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ; ASÍ COMO DIVERSAS DISPOSICIONES DE LA LEY DEL SISTEMA DE SEGURIDAD PÚBLICA, LA LEY ORGÁNICA DEL MUNICIPIO LIBRE Y LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA, TODAS DEL ESTADO DE SAN LUIS POTOSÍ, EN MATERIA DE REMUNERACIÓN MÍNIMA PARA INTEGRANTES DE INSTITUCIONES DE SEGURIDAD PÚBLICA MUNICIPALES”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Los ayuntamientos deben realizar los ajustes normativos, administrativos y presupuestales internos necesarios para dar cumplimiento a lo dispuesto en este Decreto, en un plazo no mayor a 120 días naturales contados a partir de su entrada en vigor.
+
+TERCERO. Los municipios que ya otorguen percepciones iguales o superiores al ingreso mínimo mensual establecido en este Decreto deberán mantenerlas, sin que en ningún caso puedan disminuirse, y podrán incrementarlas conforme a su capacidad financiera, sin perjuicio de la obligación de respetar el estándar mínimo previsto en la presente reforma.
+
+La implementación del ingreso mínimo mensual previsto en este Decreto no podrá implicar la disminución de percepciones, prestaciones, compensaciones u otros derechos adquiridos por las y los elementos de seguridad pública municipal.
+
+CUARTO. La actualización anual conforme al valor vigente de la UMA se aplicará exclusivamente al monto mínimo de remuneración establecido en este Decreto. Los municipios que otorguen percepciones superiores continuarán aplicando sus propios tabuladores y disposiciones normativas, sin que la presente reforma implique modificación, reducción o sustitución de dichos esquemas.
+
+QUINTO. Para el ejercicio fiscal en curso, los ayuntamientos deberán realizar las adecuaciones presupuestales internas necesarias para garantizar el cumplimiento del ingreso mínimo mensual establecido en este Decreto, utilizando para tal efecto las previsiones, economías, ampliaciones o ajustes permitidos por la normatividad aplicable.
+
+En los ejercicios fiscales subsecuentes, deberán prever partidas específicas en sus respectivos Presupuestos de Egresos.
+
+SEXTO. El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, en coordinación con el Instituto de Fiscalización Superior del Estado y la Secretaría de Finanzas, emitirá en un plazo no mayor a 60 días naturales los criterios técnicos y/o lineamientos para la verificación, seguimiento y cumplimiento del ingreso mínimo mensual previsto en este Decreto, mismos que serán de observancia obligatoria para los ayuntamientos.
+
+SÉPTIMO. El Poder Ejecutivo del Estado, a través de la Secretaría de Finanzas, podrá celebrar convenios de coordinación con los ayuntamientos para apoyar la implementación progresiva del ingreso mínimo mensual previsto en este Decreto, sin que ello implique transferencia de obligaciones permanentes ni afectación a la autonomía municipal.
