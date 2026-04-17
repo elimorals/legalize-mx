@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-expropiacion-para-el-estado-de-baja-california-32087"
 country: "mx"
 rank: "ley"
 publication_date: "2003-06-13"
-last_updated: "2009-10-09"
+last_updated: "2026-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=32087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EXPROPIACION PARA EL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE OCTUBRE DE 2009.
+ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el viernes 13 de junio de 2003.
 
@@ -53,15 +53,21 @@ Los bienes muebles sólo pueden ser expropiados por las causas de utilidad públ
 
 A falta de la disposición expresa en la presente Ley, se aplicarán supletoriamente la Ley del Procedimiento para los Actos de la Administración Pública del Estado de Baja California y en defecto de ésta, el Código de Procedimientos Civiles para el Estado de Baja California; siempre y cuando se trate de instituciones previstas en esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 17 DE ABRIL DE 2026)</small>
+
 ###### Artículo 4.
 
 Para los efectos de esta Ley se entiende por:
 
 I.- Expropiación: El procedimiento de derecho público, por el cual, el Estado adquiere bienes de los particulares, para el cumplimiento de un fin de utilidad pública, y mediante el pago de una indemnización;
 
-II.- Autoridad Expropiante: El titular del Poder Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2026)</small>
 
-III.- Secretaría: La Secretaría de Infraestructura y Desarrollo Urbano del Estado;
+II.- Autoridad Expropiante: La persona titular del Poder Ejecutivo del Estado;
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2026)</small>
+
+III.- Secretaría: La Secretaría de Infraestructura, Desarrollo Urbano y Reordenación Territorial;
 
 > <small>(REFORMADA, P.O. 12 DE ENERO DE 2007)</small>
 
@@ -670,3 +676,9 @@ P.O. 9 DE OCTUBRE DE 2009.
 ###### ARTÍCULO ÚNICO.
 
 La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE ABRIL DE 2026.
+
+[N. DE E TRANSITORIO DEL “DECRETO NO. 252 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 4 DE LA LEY DE EXPROPIACIÓN PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma de Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
