@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-12-2020-del-pleno-del-consejo-de-la-143196"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2020-06-12"
-last_updated: "2022-10-28"
+last_updated: "2026-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143196&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2020-06-08"
 
 ACUERDO GENERAL 12/2020, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LA INTEGRACIÓN Y TRÁMITE DE EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE ABRIL DE 2026 (ABROGADO).
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 12 de junio de 2020.
 
@@ -1566,3 +1566,19 @@ DÉCIMO SÉPTIMO. Se instruye a la Dirección General de Archivo y Documentació
 DÉCIMO OCTAVO. La Comisión Especial se integrará por la o el Presidente del Consejo de la Judicatura Federal y las personas Consejeras que presidan las Comisiones de Administración y de Vigilancia, conforme a lo señalado en el artículo 58 Sexies del presente Acuerdo General, a partir del 16 de enero de 2023.
 
 DÉCIMO NOVENO. La Secretaría Ejecutiva de Carrera Judicial, en coordinación con la Dirección General de Asuntos Jurídicos, deberá presentar a consideración del Pleno del Consejo, con el visto bueno de la Comisión de Carrera Judicial, la propuesta de armonización al Acuerdo General del Pleno del Consejo de la Judicatura Federal que reglamenta la Carrera Judicial, publicado en el Diario Oficial de la Federación el 3 de noviembre de 2021.
+
+D.O.F. 17 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL QUE REGULA LA INTEGRACIÓN Y TRÁMITE DEL EXPEDIENTE ELECTRÓNICO Y EL USO DE VIDEOCONFERENCIAS EN TODOS LOS ASUNTOS COMPETENCIA DE LOS ÓRGANOS JURISDICCIONALES A CARGO DEL ÓRGANO”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, en el Sistema Integral de Seguimiento de Expedientes, en el Sistema Integral de Gestión de Expedientes, así como en el portal del Órgano de Administración Judicial en intranet e internet.
+
+TERCERO. Se abroga el Acuerdo General 12/2020 del Pleno del Consejo de la Judicatura Federal, que regula la integración y trámite de expediente electrónico y el uso de videoconferencias en todos los asuntos competencia de los órganos jurisdiccionales a cargo del propio Consejo, y se derogan todas las disposiciones que se opongan al presente Acuerdo General.
+
+CUARTO. Una vez que el Órgano de Administración Judicial realice las adecuaciones al Sistema Electrónico del Poder Judicial de la Federación que resulten necesarias para dar cumplimiento a lo previsto por los artículos 3, 25, 26, 28 y 30 de la Ley de Amparo, así como la publicación en el Diario Oficial de la Federación y en su propio portal, del Aviso de Inicio de Registro de Usuarios Digitales para Autoridades, a que se refiere el Cuarto Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones a la Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos, al Código Fiscal de la Federación y a la Ley Orgánica del Tribunal Federal de Justicia Administrativa, se realizarán las actualizaciones necesarias al presente Acuerdo General.
+
+QUINTO. Se instruye a la Secretaría Ejecutiva de Administración, realizar las gestiones que permitan garantizar la pronta y oportuna materialización de las acciones que se deriven con la aplicación del presente Acuerdo General, de conformidad con la disponibilidad presupuestal.
+
+SEXTO. La Dirección General de Gestión Judicial deberá de emitir los lineamientos a que hace referencia el presente Acuerdo General en un plazo que no exceda de 270 días naturales a partir de la publicación del presente acuerdo
