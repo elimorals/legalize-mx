@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-legislativo-del-estado-de-guanajuato-180
 country: "mx"
 rank: "ley_organica"
 publication_date: "2025-06-20"
-last_updated: "2025-10-09"
+last_updated: "2026-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180578&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2026.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el viernes 20 de junio de 2025.
 
@@ -1447,7 +1447,7 @@ VIII. Los referidos a la autorización para la emisión de valores, certificados
 
 IX. Los que se refieran a reformas a la Ley de Fiscalización Superior del Estado;
 
-X. Los que se refieran a las recomendaciones de montos, máximos de las remuneraciones de las personas integrantes de los ayuntamientos;
+X. (DEROGADA, P.O. 17 DE ABRIL DE 2026)
 
 XI. Los relativos a la aprobación de los montos máximos y límites para la contratación de obra pública en los términos de la Ley de la materia;
 
@@ -3123,7 +3123,7 @@ VIII. Elaborar y actualizar una base de datos con información estadística, eco
 
 IX. Realizar estudios e investigaciones sobre política fiscal, financiera, económica y administrativa que coadyuve en el ejercicio de las atribuciones del Congreso del Estado, así como elaborar y proponer criterios en dichas materias;
 
-X. Elaborar y sugerir estudios sobre las remuneraciones que deben recibir las personas integrantes de los ayuntamientos;
+X. (DEROGADA, P.O. 17 DE ABRIL DE 2026)
 
 XI. Elaborar y proponer su programa anual de actividades;
 
@@ -3466,3 +3466,9 @@ P.O. 9 DE OCTUBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 87, ACORDADO POR LA SEXAGÉSIMA SEXTA LEGISLATURA DEL CONGRESO DEL ESTADO, MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 42, FRACCIÓN II DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO".]
 
 Artículo Único. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial de Gobierno del Estado de Guanajuato.
+
+P.O. 17 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 181, QUE EMITE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE DEROGA LA FRACCIÓN X DEL ARTÍCULO 115 Y LA FRACCIÓN X DEL ARTÍCULO 288 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno de Estado de Guanajuato.
