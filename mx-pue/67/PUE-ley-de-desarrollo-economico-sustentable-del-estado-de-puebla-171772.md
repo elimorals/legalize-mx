@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-desarrollo-economico-sustentable-del-estado-de-puebla-17
 country: "mx"
 rank: "ley"
 publication_date: "2024-02-27"
-last_updated: "2024-02-27"
+last_updated: "2026-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=171772&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2026.
 
 Ley publicada en la Edición Vespertina del Número 18 del Periódico Oficial del Estado de Puebla, el martes 27 de febrero de 2024.
 
@@ -157,6 +157,10 @@ XL. Reglamento: Reglamento de la Ley de Desarrollo Económico Sustentable del Es
 
 XLI. Rentabilidad social con enfoque económico: Valor que aportan los proyectos a la sociedad, entendido como los beneficios generados una vez que los proyectos se ejecutan. Por lo mismo, los beneficios deberán ser mayores que las pérdidas, además de que deberán contribuir con la sustentabilidad en lo económico, medioambiental y social;
 
+> <small>(ADICIONADA, P.O. 17 DE ABRIL DE 2026)</small>
+
+XLI Bis. Responsabilidad Social Empresarial: Compromiso voluntario que asumen las empresas para integrar dentro de sus operaciones diarias y estrategias de negocios, prácticas éticas, sociales, ambientales y económicas en términos de contribuir al desarrollo sostenible, al bienestar de todos sus colaboradores, así como la integración de su preocupación social e interacciones con todas las partes interesadas vinculadas a su actividad económica;
+
 XLII. Secretaría: A la Secretaría de Economía del Gobierno del Estado de Puebla;
 
 XLIII. Secretaría de Planeación y Finanzas: A la Secretaría de Planeación y Finanzas del Gobierno del Estado de Puebla;
@@ -235,6 +239,10 @@ e) Fortalezcan a proveedores apoyando la integración de las MIPYMES en las gran
 
 f) Coordinen con la Unidad Responsable de la Secretaría, acciones de promoción y atracción internacional de inversiones.
 
+> <small>(ADICIONADA, P.O. 17 DE ABRIL DE 2026)</small>
+
+XXIV. Fomentar la adopción de la Responsabilidad Social Empresarial en el sector productivo del Estado como herramienta para impulsar prácticas éticas, sostenibles y solidarias que fortalezcan la armonía entre los sectores público, privado y social.
+
 ###### ARTÍCULO 6.
 
 La persona Titular del Poder Ejecutivo del Estado, a través de la Secretaría y otras Dependencias, en coordinación con los Ayuntamientos, orientará el desarrollo económico del Estado, para hacerlo sustentable, a través de las acciones siguientes:
@@ -257,7 +265,9 @@ VIII. Vigilar el cumplimiento oportuno de las empresas respecto a las regulacion
 
 IX. Promover la transferencia de tecnología y el desarrollo científico y tecnológico que incrementen la eficiencia y calidad productiva de las empresas;
 
-X. Privilegiar el establecimiento de empresas cuyos estándares de cuidado ambiental y eficiencia sean superiores a los estándares establecidos en las regulaciones aplicables a nivel estatal y/o federal, y
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2026)</small>
+
+X. Privilegiar el establecimiento de empresas que adopten voluntariamente estándares superiores a los establecidos en la normatividad estatal en materia de protección ambiental, eficiencia productiva y Responsabilidad Social Empresarial, promoviendo con ello prácticas sostenibles que coadyuven al desarrollo económico con enfoque de equidad, inclusión y respeto a los derechos humanos, y
 
 XI. Las demás que le atribuyan las leyes y reglamentos respectivos.
 
@@ -319,9 +329,17 @@ VII. En la formulación de políticas públicas en apoyo a Sectores Estratégico
 
 VIII. La identificación de oportunidades para promover la atracción de inversión en ferias, exposiciones y foros;
 
-IX. La coordinación con los Ayuntamientos integrantes de su región para impulsar la simplificación administrativa, y
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2026)</small>
 
-X. La colaboración con los Ayuntamientos integrantes de su región para elaborar y ejecutar planes o programas de desarrollo económico sustentable en sus planes municipales de desarrollo.
+IX. La coordinación con los Ayuntamientos integrantes de su región para impulsar la simplificación administrativa;
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2026)</small>
+
+X. La colaboración con los Ayuntamientos integrantes de su región para elaborar y ejecutar planes o programas de desarrollo económico sustentable en sus planes municipales de desarrollo, y
+
+> <small>(ADICIONADA, P.O. 17 DE ABRIL DE 2026)</small>
+
+XI. El impulso de la Responsabilidad Social Empresarial como parte de la estrategia de desarrollo económico del Estado, fomentando modelos de negocio sostenibles, éticos e inclusivos.
 
 ### CAPÍTULO II. DE LA INFORMACIÓN ECONÓMICA
 
@@ -1344,3 +1362,13 @@ SÉPTIMO. Los procedimientos que se encuentren en trámite al momento de la publ
 EL GOBERNADOR SUBSTITUTO hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veinticinco días del mes de enero de dos mil veinticuatro. Diputado Presidente. JUAN ENRIQUE RIVERA REYES. Rúbrica. Diputado Vicepresidente. EDGAR VALENTÍN GARMENDIA DE LOS SANTOS. Rúbrica. Diputada Vicepresidenta. MARÍA RUTH ZÁRATE DOMÍNGUEZ. Rúbrica. Diputado Secretario. ROBERTO BAUTISTA LOZANO. Rúbrica. Diputada Secretaria. ILIANA JOCELYN OLIVARES LÓPEZ. Rúbrica.
 
 Por lo tanto, con fundamento en lo establecido por el artículo 79 fracción III de la Constitución Política del Estado Libre y Soberano de Puebla, mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintiséis días del mes de enero de dos mil veinticuatro. El Gobernador Substituto del Estado Libre y Soberano de Puebla. LICENCIADO SERGIO SALOMÓN CÉSPEDES PEREGRINA. Rúbrica. El Secretario de Gobernación. CIUDADANO JAVIER AQUINO LIMÓN. Rúbrica. La Secretaria de Planeación y Finanzas. CIUDADANA JOSEFINA MORALES GUERRERO. Rúbrica. El Secretario de Administración. CIUDADANO JESÚS RAMÍRES DÍAZ. Rúbrica. El Secretario de la Función Pública. CIUDADANO JUAN CARLOS MORENO VALLE ABDALA. Rúbrica. EL Secretario de Economía. CIUDADANO JORGE ERMILO BARRERA NOVELO. Rúbrica. El Secretario de Cultura. CIUDADANO NGUYEN ENRIQUE GLOCKNER CORTE. Rúbrica. La Secrearia (sic) de Turismo. CIUDADANA MARTA TERESA ORNELAS GUERRERO. Rúbrica. El Secretario de Infraestructura. CIUDADANO LUIS ROBERTO TENORIO GARCÍA. Rúbrica. La Secretaria de Educación. CIUDADANA MARÍA ISABEL MERLO TALAVERA. Rúbrica. La Secretaria de Medio Ambiente, Desarrollo Sustentable y Ordenamiento Territorial. CIUDADANA BEATRIZ MANRIQUE GUEVARA. Rúbrica. EL Secretario de Trabajo. CIUDADANO GABRIEL JUAN MANUEL BIESTRO MEDINILLA. Rúbrica. El Secretario de Movilidad y Transporte. CIUDADANO OMAR ÁLVAREZ ARRONTE. Rúbrica. La Secretaria de Salud. CIUDADANA ARACELI SORIA CÓRDOBA. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN X DEL ARTÍCULO 6; LAS FRACCIONES IX Y X DEL ARTÍCULO 9, Y ADICIONA LAS FRACCIONES XLI BIS AL ARTÍCULO 4; XXIV AL ARTÍCULO 5; Y XI AL ARTÍCULO 9, TODOS DE LA LEY DE DESARROLLO ECONÓMICO SUSTENTABLE DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
