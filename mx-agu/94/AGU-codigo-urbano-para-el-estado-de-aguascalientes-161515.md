@@ -4,7 +4,7 @@ identifier: "AGU-codigo-urbano-para-el-estado-de-aguascalientes-161515"
 country: "mx"
 rank: "codigo"
 publication_date: "2022-12-20"
-last_updated: "2026-04-06"
+last_updated: "2026-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2026.
 
 Código publicado en el Número 70 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 20 de diciembre de 2020.
 
@@ -390,6 +390,10 @@ XI.- CÓDIGO: el Código Urbano para el Estado de Aguascalientes;
 XII.- COEFICIENTE DE OCUPACIÓN DEL SUELO (COS): el factor determinado por el Municipio que, multiplicado por el área total de un predio, determina la máxima superficie de desplante edificable; excluyendo de su cuantificación las áreas ocupadas por sótanos;
 
 XIII.- COEFICIENTE DE UTILIZACIÓN DEL SUELO (CUS): el factor establecido por el Municipio que, multiplicado por el área total de un predio, determina la máxima superficie construida que puede tener una edificación, excluyendo de su cuantificación las áreas ocupadas por sótanos;
+
+> <small>(ADICIONADA, P.O. 17 DE ABRIL DE 2026)</small>
+
+XIII BIS.- COEFICIENTE DE UTILIZACIÓN DEL SUELO MÁXIMO (CUSMAX): Es el coeficiente máximo de metros cuadrados de construcción permitidos por metro cuadrado de superficie del predio, que podrá autorizarse como incremento respecto del CUS base previsto en los programas de desarrollo urbano, sujeto a la acreditación de capacidad de carga urbana mediante el estudio técnico correspondiente y al cumplimiento de las obligaciones fiscales y administrativas aplicables.
 
 XIV.- COMISIONES DE CONURBACIÓN: las comisiones metropolitanas y de conurbación intraestatales que se establezcan dentro del Estado;
 
@@ -2655,9 +2659,15 @@ La determinación de la relación entre el COS y el CUS se efectuará conforme a
 
 En los predios ubicados en áreas con potencial de desarrollo definidas en los programas de desarrollo urbano municipal, el COS y el CUS deberán determinarse conforme a estudios técnicos que aseguren su congruencia con las condiciones físicas y urbanas del entorno, garantizando la protección del paisaje, la infraestructura existente y la calidad de vida de la población.
 
-> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2026)</small>
 
-ARTÍCULO 144 BIS.- En los predios ubicados en áreas con potencial de desarrollo establecidas en los programas de desarrollo urbano municipal, la autorización del COS y CUS estará sujeta a la disponibilidad y capacidad comprobada de los servicios públicos de agua potable, drenaje, energía eléctrica y movilidad.
+ARTÍCULO 144 BIS.- Se podrá autorizar el incremento del Coeficiente de Utilización del Suelo respecto del establecido en los instrumentos de planeación urbana, exclusivamente en áreas de actuación con potencial de desarrollo, en términos de lo dispuesto por el artículo 59 de la Ley General de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano y demás disposiciones aplicables, a efecto de garantizar la suficiencia de infraestructura, movilidad y servicios urbanos.
+
+I. Para la autorización del Coeficiente de Utilización del Suelo Máximo Optativo (CUSMAX), será requisito indispensable contar con la opinión técnica favorable del Instituto Municipal de Planeación (IMPLAN) o del órgano técnico de planeación correspondiente en cada municipio, respecto de la evaluación del Estudio de Impacto Urbano Significativo y de las factibilidades técnicas de infraestructura y servicios urbanos.
+
+II. Serán responsables del cumplimiento de las obligaciones derivadas de la autorización del Coeficiente de Utilización del Suelo Máximo Optativo (CUSMAX) las personas propietarias del bien inmueble sujeto de la autorización.
+
+III. La autorización del incremento del CUS dará lugar al cumplimiento de las obligaciones administrativas y al pago de las cargas económicas previstas en la legislación fiscal municipal, calculadas sobre los metros cuadrados de edificabilidad adicional autorizados, conforme a la cuota vigente en la Ley de Ingresos.
 
 Cuando se proponga un incremento en la densidad o intensidad de construcción, los desarrolladores deberán presentar estudios técnicos de factibilidad y mitigación, mediante los cuales acrediten que el proyecto no supera la capacidad instalada de infraestructura o, en su caso, que asumirán las medidas necesarias para su ampliación o reforzamiento, conforme a los lineamientos que establezca el municipio en su reglamento.
 
@@ -4963,15 +4973,7 @@ I.- La superficie destinada para áreas verdes no podrá ser modificada, conform
 
 II.- Solo podrá aprobarse por la autoridad municipal competente hasta el 25% la sustitución, debiendo determinarse con precisión las obras de urbanización especificas a ejecutarse por el promotor o fraccionador, en las zonas donde el promotor o fraccionador las proponga o el municipio determine mediante un dictamen.
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2025)</small>
-
-III.- En el caso de los condominios verticales ubicados dentro de un radio de 2 kilómetros a partir del centro urbano fundacional de localidades con una población mayor a 50,000 habitantes, podrá sustituirse hasta el 100% de las áreas de donación que le corresponda por obras de equipamiento urbano, infraestructura urbana y/o servicios urbanos. Esta sustitución deberá aplicarse en su totalidad dentro del contexto inmediato al condominio determinado por el Municipio.
-
-El Municipio deberá definir a través del análisis correspondiente de los programas de desarrollo urbano aplicables, las áreas con potencial de desarrollo, donde para condominios verticales se podrá sustituir hasta el 80% de las áreas de donación que le corresponda, por obras de equipamiento urbano, infraestructura urbana y/o servicios urbanos. Esta sustitución deberá aplicarse en su totalidad dentro del contexto urbano inmediato al condominio que determine el Municipio.
-
-En cualquiera de los supuestos anteriores, el valor del metro cuadrado se determinará conforme al precio de venta establecido en avalúo comercial emitido por perito valuador certificado designado por el Municipio, en los términos previstos por este Código, debiéndose observar además lo dispuesto en los programas de desarrollo urbano aplicables.
-
-En los condominios que estén fuera de los polígonos definidos por este Código y el Municipio, no será posible realizar sustituciones de las áreas de donación por obras de equipamiento urbano, infraestructura urbana y/o servicios urbanos.
+III.- (DEROGADA, P.O. 17 DE ABRIL DE 2026)
 
 IV.- Las propuestas de sustitución de la superficie de área de donación por obras de equipamiento urbano, infraestructura, u obras de impacto social significativo que proporcionará el fraccionador o promotor, el Municipio respectivo realizará avalúo por conducto de perito valuador del terreno que se sustituirá por el equipamiento urbano o infraestructura, considerando ese predio con todas las obras de urbanización aprobadas para el fraccionamiento, condominio o desarrollo inmobiliario especial respectivo, el cual deberá tener un valor equivalente, este valor resultante se tomará como referencia para los costos por equipamiento urbano, infraestructura, u obras de impacto social significativo.
 
@@ -6659,9 +6661,11 @@ XI.- Tratándose de condominios verticales y comerciales o de servicios, la exis
 
 Al apéndice de la escritura, se agregarán foliados y autorizados, el plano general y parciales de zonificación, con especificación precisa de su separación del resto de áreas, si está ubicado dentro de un conjunto condominal, los planos tipo correspondientes a cada uno de los predios, departamentos, viviendas o áreas y a los elementos comunes; el reglamento de administración del condominio en donde se establezca el grado de participación del promotor en la prestación de servicios y cualquier otro de los documentos, constancias o descripciones a que se refiere este artículo, a fin de simplificar la escritura pública correspondiente. De la documentación anterior, se entregará a la administración del condominio copias certificadas por el notario público, para el debido desempeño de sus atribuciones.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2026)</small>
+
 ###### ARTÍCULO 465.
 
-El número máximo de bienes de propiedad exclusiva que podrán constituirse bajo el régimen de propiedad en condominio será de 50 en condominios verticales y 150 en condominios horizontales.
+El número máximo de bienes de propiedad exclusiva que podrán constituirse bajo el régimen de propiedad en condominio horizontales será de 150.
 
 > <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2025)</small>
 
@@ -7437,21 +7441,23 @@ De acuerdo a la densidad de construcción y población aplicable a los condomini
 
 Para los efectos del artículo anterior, las normas y criterios para la dotación de equipamiento urbano básico y áreas verdes en los condominios y desarrollos inmobiliarios especiales, son los siguientes:
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2025)</small>
-
-I.- Tratándose de condominios verticales habitacionales, que se compongan de 50 o más unidades privativas, el promotor donará a favor del Municipio, como mínimo, una superficie de terreno urbanizada, equivalente a 10 metros cuadrados por cada departamento o vivienda; pudiendo acceder a la sustitución de áreas de donación que señala este código;
-
-En caso de que, por las condiciones físicas, técnicas o urbanísticas del predio, no sea posible la materialización de dicha superficie, la donación podrá sustituirse conforme a lo previsto en el artículo 334 del presente ordenamiento, mediante la aportación del valor económico equivalente o en los términos que determine la autoridad municipal competente.
+I.- (DEROGADA, P.O. 17 DE ABRIL DE 2026)
 
 > <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2025)</small>
 
 II.- Tratándose de condominios horizontales habitacionales con una superficie superior a los 10,000 metros cuadrados o se compongan de 50 o más predios, viviendas o casas, el promotor donará al Municipio el 12% de la superficie neta vendible del condominio; pudiendo acceder a la sustitución de áreas de donación que señala este código;
 
-III.- Tratándose de condominios horizontales o verticales comerciales, industriales o especiales, que cuenten con una superficie mayor de 10,000 metros cuadrados o se compongan de 50 o más locales o predios, el promotor donará al Municipio, el 5% de la superficie neta vendible del terreno;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2026)</small>
 
-IV.- Tratándose de condominios mixtos habitacionales, comerciales, industriales o de servicios o especiales con una superficie mayor a los 10,000 metros cuadrados o se compongan de 50 o más predios, departamentos, viviendas, casas o locales, el promotor donará al Municipio el 10% de la superficie neta vendible del condominio; y pudiendo acceder a la sustitución de áreas de donación que señala este código;
+III.- Tratándose de condominios horizontales comerciales, industriales o especiales, que cuenten con una superficie mayor de 10,000 metros cuadrados o se compongan de 50 o más locales o predios, el promotor donará al Municipio, el 5% de la superficie neta vendible del terreno;
 
-V.- Tratándose de desarrollos inmobiliarios especiales, el promotor deberá donar a favor del Municipio, el 5% de la superficie total del terreno.
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2026)</small>
+
+IV.- Tratándose de condominios horizontales, mixtos habitacionales, comerciales, industriales o de servicios o especiales con una superficie mayor a los 10,000 metros cuadrados o se compongan de 50 o más predios, viviendas, casas o locales, el promotor donará al Municipio el 10% de la superficie neta vendible del condominio; y pudiendo acceder a la sustitución de áreas de donación que señala este código;
+
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2026)</small>
+
+V.- Tratándose de desarrollos inmobiliarios horizontales, especiales, el promotor deberá donar a favor del Municipio, el 5% de la superficie total del terreno.
 
 Cuando se trate de condominios o desarrollos inmobiliarios especiales realizados por instancias federales, estatales o municipales, no se requerirá el otorgamiento de donaciones a los Municipios; teniendo las instancias promotoras la obligación de procurar la dotación de infraestructura y equipamiento urbano suficiente en la zona de influencia de dichos condominios o desarrollos inmobiliarios.
 
@@ -10722,3 +10728,15 @@ P.O. 6 DE ABRIL DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 431.- SE REFORMA EL CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 17 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 476.- SE REFORMA EL CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Municipios tendrán hasta 30 días naturales para, realizar sus adecuaciones normativas que consideren pertinentes.
