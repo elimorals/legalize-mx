@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-catastro-inmobiliario-del-estado-de-baja-california-216
 country: "mx"
 rank: "ley"
 publication_date: "1994-09-02"
-last_updated: "1994-09-02"
+last_updated: "2026-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21660&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL CATASTRO INMOBILIARIO DEL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2026.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 2 de septiembre de 1994.
 
@@ -217,9 +217,11 @@ a). Base de datos gráfica de la cartografía catastral digitalizada; y,
 
 b). Base de datos del padrón catastral alfanumérico.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2026)</small>
+
 ###### ARTICULO 7.
 
-Para uniformar los trabajos catastrales, de identificación, localización y registro inmobiliario que se realicen por parte de las autoridades municipales, el Gobernador del Estado, a través de la Secretaría de Asentamientos Humanos y Obras Públicas emitirá la normatividad técnica y los principios homogéneos de captación, ordenación y generación de datos, de tal manera que se integren al Sistema de Información Geográfica del Estado.
+Para uniformar los trabajos catastrales, de identificación, localización y registro inmobiliario que se realicen por parte de las autoridades municipales, la Persona Titular del Poder Ejecutivo, a través de la Secretaría de Infraestructura Desarrollo Urbano y Reordenación Territorial emitirá la normatividad técnica y los principios homogéneos de captación, ordenación y generación de datos, de tal manera que se integren al Sistema de Información Geográfica del Estado.
 
 ### CAPITULO SEGUNDO. De las Autoridades
 
@@ -227,7 +229,9 @@ Para uniformar los trabajos catastrales, de identificación, localización y reg
 
 Son Autoridades en materia de Catastro y Registro Inmobiliario:
 
-I. El Gobernador del Estado; y,
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2026)</small>
+
+I. La Persona Titular del Poder Ejecutivo; y,
 
 II. Los Ayuntamientos.
 
@@ -235,9 +239,11 @@ II. Los Ayuntamientos.
 
 El Consejo Municipal de Catastro Inmobiliario, es el órgano auxiliar de participación social y consulta pública sobre Catastro Inmobiliario. Su integración y sus funciones se regirán por lo dispuesto en esta Ley y en el Reglamento Municipal correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2026)</small>
+
 ###### ARTICULO 10.
 
-Corresponde al Gobernador del Estado:
+Corresponde a la Persona Titular del Poder Ejecutivo:
 
 I. Establecer la política, normas y procedimientos generales del Catastro Inmobiliario y evaluar su cumplimiento;
 
@@ -259,15 +265,19 @@ IX. Proponer los instructivos y manuales administrativos para su aplicación con
 
 X. Las demás que le determine esta Ley y otras disposiciones legales relativas.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2026)</small>
+
 ###### ARTICULO 11.
 
-Las facultades que la presente Ley confiere al Gobernador del Estado serán ejercidas por conducto de la Secretaría de Asentamientos Humanos y Obras Públicas del Estado, con excepción de las que correspondan a otras Dependencias del Ejecutivo Estatal, conforme a ésta y otras disposiciones legales aplicables y, de las que expresamente tengan que ser ejercidas por el Ejecutivo del Estado.
+Las facultades que la presente Ley confiere a la Persona Titular del Poder Ejecutivo serán ejercidas por conducto de la Secretaría de Infraestructura Desarrollo Urbano y Reordenación Territorial, con excepción de las que correspondan a otras dependencias del Ejecutivo Estatal, conforme a esta y otras disposiciones legales aplicables y, de las que expresamente tengan que ser ejercidas por el Ejecutivo del Estado.
 
 ###### ARTICULO 12.
 
 Corresponde a los Ayuntamientos:
 
-I. Llevar a cabo las operaciones catastrales de identificación, localización, descripción, deslinde, registro, cartografía, valuación, actualización de valores de los bienes inmuebles ubicados dentro de su Municipio, ya sea que los mismos se definan como urbanos o rústicos, en los términos del presente ordenamiento y de las normas, especificaciones técnicas y principios homogéneos que al efecto expida el Gobernador del Estado;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2026)</small>
+
+I. Llevar a cabo las operaciones catastrales de identificación, localización, descripción, deslinde, registro, cartografía, valuación, actualización de valores de los bienes inmuebles ubicados dentro de su Municipio, ya sea que los mismos se definan como urbanos o rústicos, en los términos del presente ordenamiento y de las normas, especificaciones técnicas y principios homogéneos que al efecto expida la Persona Titular del Poder Ejecutivo;
 
 II. Elaborar e integrar los Registros, Padrones y Archivos Documentales Catastrales previstos en el artículo 6 de esta Ley;
 
@@ -323,15 +333,21 @@ Las facultades que la presente Ley otorga a los Ayuntamientos, estarán a cargo 
 
 Los Ayuntamientos podrán celebrar Acuerdos de Colaboración Administrativa con el Estado, para que éste se haga cargo de algunas de las funciones y obligaciones que aquellos tienen en materia del Catastro Inmobiliario.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE ABRIL DE 2026)</small>
+
 ###### ARTICULO 15.
 
-Los Consejos Municipales del Catastro Inmobiliario se integrarán por convocatoria del Presidente Municipal y funcionarán en consulta permanente con los organismos e instituciones representativas de la comunidad, de acuerdo a los mecanismos de participación social y consulta establecidos en la Ley de Planeación del Estado de Baja California.
+Los Consejos Municipales del Catastro Inmobiliario se integrarán por convocatoria de la persona titular de la Presidencia Municipal y funcionarán en consulta permanente con los organismos e instituciones representativas de la comunidad, de acuerdo a los mecanismos de participación social y consulta establecidos en la Ley de Planeación del Estado de Baja California.
 
-Dicho Consejo será presidido por el Presidente Municipal o por quien el designe como su representante y fungirá como Secretario Técnico del mismo el titular de la Dependencia del Catastro Municipal; se integrará con tres representantes de vecinos, colonos, propietarios y ejidatarios, que determine el reglamento correspondiente y con un representante de las siguientes dependencias y organizaciones:
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2026)</small>
+
+Dicho Consejo será presidido por la persona titular de la Presidencia Municipal o por quien designe como su representante, y fungirá como Secretaría Técnica del mismo la persona titular de la Dependencia del Catastro Municipal. Se integrará con tres personas representantes de las personas vecinas, colonas, propietarias y ejidatarias, que determinen el reglamento correspondiente y con una persona representante de las siguientes dependencias y organizaciones:
 
 I. Ayuntamiento;
 
-II. Secretaría de Asentamientos Humanos y Obras Públicas;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2026)</small>
+
+II. Secretaría de Infraestructura Desarrollo Urbano y Reordenación Territorial;
 
 III. Cámara de Comercio;
 
@@ -363,7 +379,9 @@ III. Asesorar a la Dependencia de Catastro Inmobiliario en la instrumentación d
 
 IV. Apoyar y asesorar a la Dependencia del Catastro Inmobiliario en la realización de los trabajos catastrales que le corresponden en los términos de esta Ley;
 
-V. Apoyar y asesorar al Presidente Municipal en la resolución sobre el recurso de Queja presentado por el interesado, en aquellos casos en que no haya sido resuelto satisfactoriamente el recurso de Revisión ante la Autoridad Catastral;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2026)</small>
+
+V. Apoyar y asesorar a la persona titular de la Presidencia Municipal en la resolución sobre el recurso de Queja presentado por el interesado, en aquellos casos en que no haya sido resuelto satisfactoriamente el recurso de Revisión ante la Autoridad Catastral.
 
 VI. Las demás que determine esta Ley y otras disposiciones legales relativas.
 
@@ -387,7 +405,9 @@ La elaboración, revisión, modificación de la zonificación y sectorización c
 
 I. La Dependencia del Catastro Municipal elaborará, dentro del ámbito de competencia territorial que corresponde, la propuesta de zonificación y sectorización catastral; la cual será remitida al Consejo Municipal del Catastro Inmobiliario, para que proceda a su revisión y, en su caso, resuelvan sobre su aprobación;
 
-II. Una vez revisada y aprobada por el Consejo Municipal del Catastro Inmobiliario, será remitida a través del Ayuntamiento, al H. Congreso del Estado, para que resuelva sobre su aprobación definitiva; quien a su vez la enviará al C. Gobernador del Estado, para su publicación (sic) el Periódico Oficial Organo del Gobierno del Estado y a la Dependencia de Catastro correspondiente para su aplicación.
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2026)</small>
+
+II. Una vez revisada y aprobada por el Consejo Municipal del Catastro Inmobiliario, será remitida a través del Ayuntamiento, al H. Congreso del Estado, para que resuelva sobre su aprobación definitiva; quien a su vez la enviará a la Persona Titular del Poder Ejecutivo, para su publicación en el Periódico Oficial Órgano del Gobierno del Estado y a la Dependencia de Catastro correspondiente para su aplicación.
 
 ###### ARTICULO 19.
 
@@ -547,13 +567,17 @@ Los fraccionadores manifestarán mensualmente a las Autoridades Catastrales, las
 
 Los fraccionamientos que se ejecuten sin la autorización correspondiente o cuando el fraccionador lleve a cabo alguna de las operaciones que impliquen la transmisión del dominio de los lotes que formen parte del fraccionamiento, sin haber obtenido la autorización para enajenarlos, la autoridad catastral inscribirá dichos lotes y hará la valuación respectiva, con efecto a partir de la fecha de la primera operación y con cargo al fraccionador.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2026)</small>
+
 ###### ARTICULO 46.
 
-Las Autoridades Catastrales Municipales, informarán mensualmente a la Secretaría de Asentamientos Humanos y Obras Públicas del Estado sobre los registros contenidos en los Padrones Catastrales, remitiendo los cambios que se produzcan en los mismos. A fin de mantener actualizado el Sistema de Información Geográfica del Estado, enviarán todos los nuevos documentos que se generen en relación a la propiedad inmobiliaria, así como la información cartográfica que dichas Autoridades elaboren, con el objeto de mantener actualizado el Archivo Cartográfico del Estado.
+Las Autoridades Catastrales Municipales, informarán mensualmente a la Secretaría de Infraestructura Desarrollo Urbano y Reordenación Territorial del Estado, sobre los registros contenidos en los Padrones Catastrales, remitiendo los cambios que se produzcan en los mismos. A fin de mantener actualizado el Sistema de Información Geográfica del Estado, enviarán todos los nuevos documentos que se generen en relación a la propiedad inmobiliaria, así como la información cartográfica que dichas Autoridades elaboren, con el objeto de mantener actualizado el Archivo Cartográfico del Estado.
+
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2026)</small>
 
 ###### ARTICULO 47.
 
-Las Autoridades Catastrales Municipales proporcionarán en forma mensual, los datos estadísticos relacionados con la propiedad inmobiliaria a la Secretaría de Asentamientos Humanos y Obras Públicas del Estado, con el objeto de mantener actualizado el Padrón Estatal de la Propiedad Inmobiliaria, así como las modificaciones que experimenten dichos datos y la información que sea requerida por el Estado, para la consolidación y desarrollo del Sistema de Información Geográfica del Estado.
+Las Autoridades Catastrales Municipales proporcionarán en forma mensual, los datos estadísticos relacionados con la propiedad inmobiliaria a la Secretaría de Infraestructura Desarrollo Urbano y Reordenación Territorial del Estado, con el objeto de mantener actualizado el Padrón Estatal de la Propiedad Inmobiliaria, así como las modificaciones que experimenten dichos datos y la información que sea requerida por el Estado, para la consolidación y desarrollo del Sistema de Información Geográfica del Estado.
 
 ### CAPITULO SEXTO. De los Recursos Administrativos
 
@@ -575,9 +599,11 @@ VI. Cuando la clave catastral sea distinta a la que debe corresponder al bien in
 
 VII. En los demás casos en que haya error o diferencia entre los datos asentados en el Padrón Catastral y las características físicas, geométricas y jurídicas del bien inmueble.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2026)</small>
+
 ###### ARTICULO 49.
 
-El recurso de Revisión y el de Queja se interpondrá por escrito, adjuntándose una copia, ante la Autoridad Catastral que emitió el acto en el caso del Recurso de Revisión y ante el Presidente Municipal tratándose del Recurso de Queja, dentro del término de quince días hábiles, contados desde el día siguiente de la fecha de notificación de la resolución recurrida.
+El recurso de Revisión y el de Queja se interpondrán por escrito, adjuntándose una copia, ante la Autoridad Catastral que emitió el acto en el caso del Recurso de Revisión y ante la persona titular de la Presidencia Municipal tratándose del Recurso de Queja, dentro del término de quince días hábiles, contados desde el día siguiente de la fecha de notificación de la resolución recurrida.
 
 ###### ARTICULO 50.
 
@@ -599,9 +625,11 @@ Al (sic) este escrito deberán acompañarse los documentos que la respalden para
 
 Para los efectos de la presentación y resolución de estos recursos, todos los propietarios o poseedores de bienes inmuebles tienen la obligación de señalar domicilio para recibir notificaciones, en el lugar donde está asentada la Autoridad Catastral; en caso contrario, éstas se llevarán a cabo en los términos que establece el Código Fiscal del Estado, y de manera supletoria, el Código de Procedimientos Civiles del Estado de Baja California.
 
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2026)</small>
+
 ###### ARTICULO 52.
 
-Corresponde a la Autoridad Catastral resolver el Recurso de Revisión, en un término no mayor de treinta días hábiles contados a partir de la fecha de recepción de la solicitud y de no obtener respuesta el interesado, interpondrá el Recurso de Queja ante el Presidente Municipal, siendo auxiliado en su resolución por el Consejo Municipal del Catastro Inmobiliario, debiendo resolver en un término no mayor de 30 días hábiles a partir de la fecha de recepción de este último Recurso.
+Corresponde a la Autoridad Catastral resolver el Recurso de Revisión, en un término no mayor de treinta días hábiles contados a partir de la fecha de recepción de la solicitud y de no obtener respuesta el interesado, interpondrá el Recurso de Queja ante la persona titular de la Presidencia Municipal, siendo auxiliado en su resolución por el Consejo Municipal del Catastro Inmobiliario, debiendo resolver en un término no mayor de treinta días hábiles a partir de la fecha de recepción de este último Recurso.
 
 ### CAPITULO SEPTIMO. De las Infracciones y Sanciones
 
@@ -680,3 +708,11 @@ LIC. ERNESTO RUFFO APPEL.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. RODOLFO VALDEZ GUTIERREZ.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 256 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A DIVERSOS ARTÍCULOS DE LA LEY DE CATASTRO INMOBILIARIO DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
