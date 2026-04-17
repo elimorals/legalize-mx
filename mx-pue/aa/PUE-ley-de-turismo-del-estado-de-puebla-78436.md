@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-turismo-del-estado-de-puebla-78436"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-31"
-last_updated: "2025-11-04"
+last_updated: "2026-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE TURISMO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2026.
 
 Ley publicada en la Trigésima Segunda Sección del Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2010.
 
@@ -104,6 +104,10 @@ II.- Actividades Turísticas: Las que realizan las personas durante sus viajes y
 III.- Centro de Desarrollo Turístico: La infraestructura diseñada con fines de promoción y fomento de productos y actividades turísticas regionales y municipales;
 
 IV.- Consejo Consultivo: Consejo Consultivo de Turismo del Estado de Puebla;
+
+> <small>(ADICIONADA, P.O. 17 DE ABRIL DE 2026)</small>
+
+IV Bis.- Consejo Municipal: Consejo Consultivo Municipal de Turismo.
 
 V.- Estado: Estado Libre y Soberano de Puebla;
 
@@ -403,7 +407,9 @@ III.- Aplicar los instrumentos de política turística que les sean atribuidos p
 
 IV.- Formular, ejecutar y evaluar el Programa Municipal de Turismo, el cual considerará las directrices previstas en los Planes Nacional y Estatal de Desarrollo, el Programa Sectorial de Turismo y el Programa Estatal de Turismo del Estado de Puebla;
 
-V.- Establecer el Consejo Consultivo Municipal de Turismo, en términos de las disposiciones legales y reglamentarias aplicables;
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2026)</small>
+
+V.- Establecer el Consejo Consultivo Municipal de Turismo, cuyo objeto será coordinar, proponer y formular las estrategias y acciones de la Administración Pública Municipal, con el fin de lograr un desarrollo integral de la actividad turística en el Municipio. Será presidido por la persona Titular del Ejecutivo Municipal, la persona Titular de la Regiduría encargado de la Comisión competente; la persona servidora pública adscrita a la Dirección de Turismo Municipal o similar, un representante de la Secretaría de Desarrollo Turístico del Estado de Puebla, mismo que será designado por su Titular, y dos vocales ciudadanos que por su trayectoria y experiencia conozcan la cultura, costumbres y tradiciones del mismo. En términos de las disposiciones legales y reglamentarias aplicables;
 
 VI.- Concertar con los sectores privado y social, las acciones tendientes a detonar programas a favor de la actividad turística;
 
@@ -1500,6 +1506,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 4 DE NOVIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA DIVERSAS DISPOSICIONES A LA LEY DE TURISMO DEL ESTADO DE PUEBLA“.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN V DEL ARTÍCULO 18, Y SE ADICIONA LA FRACCIÓN IV BIS AL ARTÍCULO 3, DE LA LEY DE TURISMO DEL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
