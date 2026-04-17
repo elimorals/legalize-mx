@@ -4,7 +4,7 @@ identifier: "BCN-ley-del-periodico-oficial-del-estado-de-baja-california-3074"
 country: "mx"
 rank: "ley"
 publication_date: "1992-11-10"
-last_updated: "2020-06-01"
+last_updated: "2026-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3074&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el 10 de noviembre de 1992.
 
@@ -109,11 +109,11 @@ c) Tomo, fecha y número de publicación; y
 
 d) Indice del contenido.
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2020)</small>
+> <small>(REFORMADO, P.O. 17 DE ABRIL DE 2026)</small>
 
 ###### ARTICULO 6.
 
-Serán publicados en el Periódico Oficial del Estado los documentos que en original y copia se reciban en la Secretaría General de Gobierno, observándose lo dispuesto en la fracción XXIII del Artículo 26 de la Ley Orgánica de la Administración Pública del Estado de Baja California.
+Serán publicados en el Periódico Oficial del Estado los documentos que en original y copia se reciban en la Secretaría General de Gobierno, observándose lo dispuesto en la fracción III del Artículo 31 de la Ley Orgánica del Poder Ejecutivo del Estado de Baja California.
 
 > <small>(REFORMADO, P.O. 1 DE JUNIO DE 2020)</small>
 
@@ -234,3 +234,9 @@ P.O. 1 DE JUNIO DE 2020.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- La Oficialía Mayor de Gobierno deberá pasar a la Secretaría General de Gobierno, todos los recursos materiales, humanos y financieros.
+
+P.O. 17 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 253 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 6 DE LA LEY DEL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
