@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-municipal-del-estado-de-puebla-21183"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2001-03-23"
-last_updated: "2025-10-15"
+last_updated: "2026-04-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21183&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2026.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el viernes 23 de marzo de 2001.
 
@@ -1121,7 +1121,9 @@ Los miembros de los Ayuntamientos podrán ser suspendidos en los cargos para los
 
 I.- Por incapacidad legal declarada por autoridad competente;
 
-II.- Por existir en su contra proceso por delito intencional calificado como grave. En este caso la suspensión surtirá efecto a partir del momento en que se dicte auto de formal prisión y quedará sin efecto si llegare a dictarse sentencia absolutoria; y
+> <small>(REFORMADA, P.O. 17 DE ABRIL DE 2026)</small>
+
+II. Por existir en su contra proceso penal que amerite prisión preventiva oficiosa. En este caso la suspensión surtirá efecto a partir del momento en que se dicte auto de vinculación a proceso y quedará sin efecto si llegare a dictarse sentencia absolutoria, y
 
 III.- Por las demás causas establecidas en esta Ley y disposiciones aplicables.
 
@@ -4728,6 +4730,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 15 DE OCTUBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES III, IV, VI, VII, VIII Y IX DEL ARTÍCULO 96 Y EL 98 BIS Y ADICIONA LAS FRACCIONES X Y XI AL ARTÍCULO 96 DE LA LEY ORGÁNICA MUNICIPAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN II DEL ARTÍCULO 56 DE LA LEY ORGÁNICA MUNICIPAL".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
