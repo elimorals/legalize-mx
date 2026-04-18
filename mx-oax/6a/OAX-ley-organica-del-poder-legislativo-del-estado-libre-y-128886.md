@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-legislativo-del-estado-libre-y-128886"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2018-05-12"
-last_updated: "2025-11-29"
+last_updated: "2026-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2026.
 
 Ley publicada en la Décima Primera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 12 de mayo de 2018.
 
@@ -95,9 +95,9 @@ XVII. Iniciativa preferente: La que presenta el Titular del Poder Ejecutivo del 
 
 XVIII. Iniciativa: El acto jurídico por el cual se da inicio el proceso legislativo.
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
 
-XIX. Órgano Garante: Órgano Garante de Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno del Estado de Oaxaca.
+XIX. Autoridad Garante: Órgano Interno de Control del Poder Legislativo del Estado de Oaxaca, en materia de Transparencia y Acceso a la Información Pública, Transparencia, Protección de Datos Personales y Buen Gobierno; quien fungirá a su vez como Autoridad Garante de la Auditoria Superior de Fiscalización del Estado de Oaxaca.
 
 XX. Jucopo: La Junta de Coordinación Política del Congreso.
 
@@ -105,9 +105,9 @@ XXI. Legislatura: El periodo de tiempo que dura el mandato de un órgano legisla
 
 XXII. Ley de Datos Personales: La Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Oaxaca.
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
 
-XXIII. Ley de Transparencia: Ley de Trasparencias (sic), Acceso a la Información Pública y Buen Gobierno del Estado de Oaxaca.
+XXIII. Ley de Transparencia: Ley de Transparencia, Acceso a la Información Pública con Sentido Social y Buen Gobierno del Estado de Oaxaca;
 
 XXIV. Ley: La Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Oaxaca.
 
@@ -731,7 +731,11 @@ XVIII. Celebrar conjuntamente o por conducto de su Presidente, convenios de coor
 
 XIX. Asumir y desempeñar las atribuciones que no estén expresamente señaladas a la Mesa Directiva;
 
-XX. Designar a los integrantes del Comité de Transparencia, así como el Titular de la Unidad de Transparencia y al Oficial de Datos Personales del Congreso del Estado;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+XX. Designar a las personas integrantes del Comité de Transparencia, al Titular de la Unidad de Transparencia, así como al Oficial de Protección de Datos Personales del Congreso del Estado, en términos de las disposiciones aplicables.
+
+De la designación e integración del Comité de Transparencia deberá excluirse al Órgano Interno de Control para garantizar la imparcialidad y objetividad en su función como Autoridad Garante del Poder Legislativo.
 
 XXI. Aprobar el Programa Anual de Auditoría y Fiscalización;
 
@@ -1183,9 +1187,9 @@ X. Coordinar la correcta administración y custodia del archivo legislativo del 
 
 XI. Coordinar los servicios de biblioteca y archivo legislativo;
 
-> <small>(REFORMADA, P.O. 24 DE AGOSTO DE 2021)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
 
-XII. Recabar y sistematizar la información relativa a los indicadores de evaluación del desempeño legislativo, en coordinación con la Comisión Permanente de Transparencia, Acceso a la Información y Congreso Abierto, para hacerlos de conocimiento de los integrantes de la Jucopo;
+XII. Recabar y sistematizar la información relativa a los indicadores de evaluación del desempeño legislativo, para hacerlo del conocimiento de las personas integrantes de la Jucopo;
 
 > <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2021)</small>
 
@@ -1293,9 +1297,11 @@ Se integra y ejerce sus atribuciones en los términos establecidos por la Consti
 
 ### CAPÍTULO CUARTO. DEL ÓRGANO INTERNO DE CONTROL DEL CONGRESO
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2026)</small>
+
 ###### ARTÍCULO 98.
 
-El Congreso contará con un Órgano Interno de Control, cuyo titular tendrá a su cargo practicar auditorías, revisiones, investigaciones y verificaciones; recibir quejas y denuncias y aplicar los procedimientos y sanciones inherentes a las responsabilidades administrativas; así como conocer de los recursos de revocación, de conformidad con la normatividad aplicable y llevar a cabo los procedimientos derivados de las inconformidades presentadas por contratistas y proveedores, así como las demás que se desprendan de la normatividad aplicable.
+El Congreso contará con un Órgano Interno de Control, cuyo titular tendrá a su cargo practicar auditorías, revisiones, investigaciones y verificaciones; recibir quejas y denuncias y aplicar los procedimientos y sanciones inherentes a las responsabilidades administrativas; así como conocer de los recursos de revocación, de conformidad con la normatividad aplicable y llevar a cabo los procedimientos derivados de las inconformidades presentadas por contratistas y proveedores, y fungir como Autoridad Garante del Poder Legislativo y de la Auditoria Superior de Fiscalización del Estado de Oaxaca, en materia de Transparencia, Acceso a la Información Pública y protección de datos personales, en términos de las disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2024)</small>
 
@@ -1339,9 +1345,13 @@ X. Presentar al Pleno un informe anual sobre el cumplimiento de sus funciones;
 
 XI. Exhortar a las Diputadas, Diputados y personas titulares de los órganos del Congreso para que cumplan con su obligación de presentar sus declaraciones patrimoniales, de intereses y fiscales, en los plazos que establece la Ley;
 
-XII. Vigilar que los órganos del Congreso apliquen los recursos institucionales para los fines establecidos; y
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2026)</small>
 
-XIII. Las demás que deriven de esta Ley, su Reglamento y demás normatividad aplicable.
+XII. Fungir como Autoridad Garante del Poder Legislativo y de la Auditoria Superior de Fiscalización del Estado de Oaxaca, en materia de Transparencia, Acceso a la Información Pública y Protección de datos personales en términos de las disposiciones aplicables;
+
+XIII. Vigilar que los órganos del Congreso apliquen los recursos institucionales para los fines establecidos; y
+
+XIV. Las demás que deriven de esta Ley, su Reglamento y demás normatividad aplicable.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE DICIEMBRE DE 2024)</small>
 
@@ -1437,9 +1447,11 @@ Su tramitación se realizara de conformidad con lo previsto por la Constitución
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2026)</small>
+
 ###### ARTÍCULO 108.
 
-El Congreso tiene la obligación de poner a disposición de la ciudadanía la información sobre las funciones legislativas y productividad de los Diputados, los resultados de las acciones de los órganos de gobierno, el ejercicio presupuestal y toda aquella información de su interés; siempre que no esté clasificada como reservada o confidencial, en los términos de la Ley de la materia.
+El Congreso cumplirá con sus obligaciones en materia de transparencia, acceso a la información pública, protección de datos personales y congreso abierto, en términos de las disposiciones aplicables.
 
 ###### ARTÍCULO 109.
 
@@ -1454,6 +1466,48 @@ En materia de acceso a la información pública, el Congreso observará lo estab
 ###### ARTÍCULO 111.
 
 Las solicitudes de información pública que formulen al Congreso, se atenderán conforme al procedimiento que se establece en Reglamento.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+ARTÍCULO 111 BIS. La Autoridad Garante del Poder Legislativo en materia de acceso a la información pública, transparencia, protección de datos personales y buen gobierno, tendrá las atribuciones siguientes:
+
+I. Interpretar en el ámbito de sus atribuciones los ordenamientos que les resulten aplicables, derivados de esta Ley y de la Constitución Política de los Estados Unidos Mexicanos;
+
+II. Conocer y resolver los recursos de revisión interpuestos por las personas en contra de las resoluciones expedidas por este sujeto obligado, en términos de lo dispuesto en el Capítulo I del Título Octavo de la Ley General;
+
+III. Imponer las medidas de apremio y sanciones, según corresponda, de conformidad con lo previsto en la Ley General y demás disposiciones que deriven de la misma;
+
+IV. Promover y difundir el ejercicio de los derechos de acceso a la información, de conformidad con la política Estatal y Nacional en materia de transparencia y acceso a la información pública y las disposiciones jurídicas aplicables en la materia;
+
+V. Fomentar la cultura de la transparencia en el sistema educativo;
+
+VI. Brindar capacitación a las personas servidoras públicas y apoyo técnico de este sujeto obligado en materia de transparencia y acceso a la información;
+
+VII. Establecer políticas de transparencia con sentido social, atendiendo a las condiciones económicas, sociales y culturales;
+
+VIII. Promover la igualdad sustantiva;
+
+IX. Coordinarse con las autoridades competentes para que, en los procedimientos de acceso a la información y en los medios de impugnación, se contemple contar con la información en lenguas indígenas y en formatos accesibles para que sean sustanciados y atendidos en la misma lengua y en su caso, se promuevan los ajustes razonables necesarios si se tratara de personas con discapacidad;
+
+X. Garantizar condiciones de accesibilidad para que los grupos de atención prioritaria puedan ejercer su derecho de acceso a la información pública en igualdad de circunstancias;
+
+XI. Informar a la instancia competente sobre la probable responsabilidad de los sujetos obligados que incumplan las obligaciones previstas en la presente Ley y en las demás disposiciones aplicables;
+
+XII. Promover la participación y colaboración con organismos, Estatales, Nacionales e internacionales, en el análisis y mejores prácticas en materia de acceso a la información pública;
+
+XIII. Fomentar los principios de transparencia, rendición de cuentas, participación ciudadana, accesibilidad e innovación tecnológica;
+
+XIV. Emitir recomendaciones a los sujetos obligados, con el propósito de diseñar, implementar y evaluar acciones de apertura gubernamental que permitan orientar las políticas internas en la materia;
+
+XV. Promover la digitalización de la información pública en posesión de este sujeto obligado y la utilización de las tecnologías de información y comunicación, conforme a las políticas que establezca el Sistema Nacional;
+
+XVI. Integrar el Subsistema Estatal de Transparencia y Acceso a la Información Pública;
+
+XVII. Presentar anualmente a la ciudadanía un informe de actividades;
+
+XVIII. Gestionar convenios con sujetos obligados o particulares que propicie la publicación de información en el marco de la política de transparencia mismo que suscribirá la o el Titular del Sujeto Obligado; y
+
+XIX. Las demás que le confiera el Sistema Nacional de Acceso a la Información Pública por conducto de su Consejo, el Subsistema Estatal de Transparencia y Acceso a la Información Pública a través de su Comité, la Ley General de Transparencia y Acceso a la Información Pública, la Ley de Transparencia, Acceso a la Información Pública con Sentido Social y Buen Gobierno del Estado de Oaxaca, la presente Ley y otras disposiciones aplicables en la materia.
 
 ## TÍTULO DÉCIMO CUARTO. DEL CONGRESO ABIERTO
 
@@ -1786,3 +1840,21 @@ P.O. 29 DE NOVIEMBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor el día de su aprobación.
 
 SEGUNDO. Publíquese el presente Decreto en la Gaceta Parlamentaria y en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 18 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1539 MEDIANTE EL CUAL REFORMAN LAS FRACCIONES XIX Y XXIII DEL ARTÍCULO 3, LA FRACCIÓN XX DEL ARTÍCULO 48, LA FRACCIÓN XII DEL ARTÍCULO 89, LOS ARTÍCULOS 98 Y 108; Y SE ADICIONA LA FRACCIÓN XII, RECORRIENDO EN SU ORDEN LAS SUBSECUENTES, DEL ARTÍCULO 101 Y EL ARTÍCULO 111 BIS; TODOS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE OAXACA; Y REFORMAN LAS FRACCIONES XIX Y XXIII DEL ARTÍCULO 3; EL INCISO G) DE LA FRACCIÓN XXXII DEL ARTÍCULO 42; EL ARTÍCULO 205; LAS FRACCIONES XIII Y XV DEL ARTÍCULO 209; LOS ARTÍCULOS 213, 214, 225, LA FRACCIÓN IV DEL ARTÍCULO 226 Y EL ARTÍCULO 234; SE DEROGAN LOS INCISOS B) A F), DE LA FRACCIÓN XXXII DEL ARTÍCULO 42 Y LOS ARTÍCULOS 204, 206 Y 207 Y SE ADICIONA UN INCISO H) DE LA FRACCIÓN XXXII DEL ARTÍCULO 42 Y EL ARTÍCULO 208 BIS; TODOS DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su aprobación, en términos del artículo 7 tercer párrafo de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Oaxaca.
+
+SEGUNDO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado y en la Gaceta Parlamentaria del Honorable Congreso del Estado de Oaxaca.
+
+TERCERO. En un plazo no mayor a 30 días hábiles a partir de la entrada en vigor del presente Decreto, el Honorable Congreso del Estado deberá realizar las reformas reglamentarias y efectuar las adecuaciones administrativas para dotar al Órgano Interno de Control de los recursos humanos, materiales y financieros que permitan cumplir con su función de Autoridad Garante en materia de acceso a la información pública, transparencia, protección de datos personales y buen gobierno, en términos de las disposiciones aplicables.
+
+CUARTO. El Congreso del Estado, a través de la Junta de Coordinación Política, deberá proponer y aprobar, en un plazo no mayor a sesenta días naturales contados a partir de la entrada en vigor del presente Decreto, los manuales y acuerdos que resulten necesarios para su debida aplicación.
+
+QUINTO. Los órganos, unidades administrativas, comisiones y demás instancias del Congreso del Estado deberán realizar, en un plazo no mayor a noventa días naturales a partir de la entrada en vigor del presente Decreto, los ajustes normativos, administrativos y operativos necesarios para su debido cumplimiento.
+
+SEXTO. Los procedimientos legislativos, administrativos y jurisdiccionales iniciados con anterioridad a la entrada en vigor del presente Decreto se tramitarán conforme a las disposiciones vigentes al momento de su inicio, sin perjuicio de que puedan adaptarse a las nuevas reglas cuando así convenga al interés público y a la economía procesal, mediante acuerdo debidamente fundado y motivado.
+
+SÉPTIMO. La implementación del presente Decreto deberá realizarse con base en la suficiencia presupuestaria del Congreso del Estado
