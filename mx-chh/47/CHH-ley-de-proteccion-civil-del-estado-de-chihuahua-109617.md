@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-proteccion-civil-del-estado-de-chihuahua-109617"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-26"
-last_updated: "2025-10-29"
+last_updated: "2026-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2026.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 26 de agosto de 2015.
 
@@ -437,7 +437,9 @@ VI. El personal que se le asigne para su adecuado funcionamiento.
 
 Compete a la Coordinación Estatal de Protección Civil:
 
-I. Identificar y diagnosticar los riesgos a los que está expuesto el Estado y elaborar el Atlas Estatal de Riesgo.
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+I. Identificar y diagnosticar los riesgos a los que está expuesto el Estado y elaborar el Atlas Estatal de Riesgo, observando lo establecido en la Guía de contenido mínimo para la elaboración del Atlas Nacional de Riesgos.
 
 II. Coordinar y dirigir técnica y operativamente la atención de las emergencias y/o desastres, en caso de verse rebasada la capacidad de respuesta del municipio, a solicitud del mismo.
 
@@ -585,9 +587,9 @@ II. Elaborar el plan de contingencias por temporada, así como los programas esp
 
 III. Analizar y evaluar los peligros, vulnerabilidades y riesgos ante los fenómenos que impliquen una amenaza que afecte al municipio, e informar a las autoridades competentes para realizar las acciones correspondientes para mitigación de los mismos.
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
 
-IV. Elaborar el Atlas municipal de riesgos, procurando su actualización y difusión de manera periódica.
+IV. Elaborar el Atlas municipal de riesgos, procurando su actualización y difusión de manera periódica, contemplando lo dispuesto en la Guía de contenido mínimo para la elaboración del Atlas Nacional de Riesgos.
 
 V. Impulsar la creación de sistemas de monitoreo y alerta temprana para los riesgos de su territorio.
 
@@ -1510,3 +1512,11 @@ Vocal: Diputado Pedro Torres Estrada.
 Pudiendo auxiliarse en cualquier momento, del Diputado Octavio Javier Borunda Quevedo.
 
 Secretaría Técnica: Designada por la Secretaría de Asuntos Legislativos y Jurídicos.
+
+P.O. 18 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0380/2025 I P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
