@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2025-11-29"
+last_updated: "2026-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2026.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -2336,6 +2336,10 @@ VI. En despoblado o lugar solitario; o
 > <small>(ADICIONADA, P.O. 7 DE MAYO DE 2011)</small>
 
 VII. Por personas con quien la víctima tenga un vínculo matrimonial, de parentesco por consanguinidad, afinidad o civil; con quien tenga o haya tenido alguna relación afectiva o sentimental de hecho.
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+VIII. Por quien, desempeñando una profesión u oficio, se valiere de los medios o circunstancias que ellos les proporcionen.
 
 ### CAPÍTULO III. HOSTIGAMIENTO SEXUAL
 
@@ -4663,15 +4667,13 @@ II.- Se trate de un área natural protegida del Estado.
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO, P.O. 1 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2026)</small>
 
 ###### Artículo 361.
 
-A quien introduzca ganado bovino al Estado o lo movilice en contravención a lo establecido en el Capítulo Cuarto del Título Tercero de la Ley de Ganadería del Estado de Chihuahua, se le impondrán de tres años seis meses a seis años de prisión y de mil a diez mil días multa.
+A quien introduzca, transporte, comercialice, críe, posea o disponga de cualquier manera un animal que esté infectado con enfermedades trasmisibles zoonóticas o sujetas a control sanitario obligatorio, con conocimiento de la enfermedad o que de acuerdo con las circunstancias debió presumir la enfermedad, omitiendo realizar las medidas adecuadas para su tratamiento, se le impondrá una pena de tres a siete años de prisión.
 
-Se aplicarán las mismas sanciones a quien movilice ganado dentro del territorio estatal, en contravención a lo establecido en el Capítulo Tercero del Título Tercero de la Ley de Ganadería del Estado de Chihuahua.
-
-Si las conductas anteriores se realizan con la intención de comercializarlo para exportación, se le impondrán de cinco años seis meses a siete años de prisión y de cinco mil a diez mil días multa.
+Si, además, esa conducta ocasiona la trasmisión de la enfermedad a otro animal, se le impondrá una pena de tres a ocho años de prisión.
 
 > <small>(ADICIONADO, P.O. 1 DE ABRIL DE 2017)</small>
 
@@ -5984,6 +5986,30 @@ Se derogan las disposiciones legales que se opongan al contenido del presente De
 P.O. 29 DE NOVIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFCOD/0281/2025 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVIII/RFLYC/0277/2025 I P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA Y DE LA LEY DE GANADERÍA DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La reforma relativa al artículo 20, párrafo primero, de la Ley de Ganadería del Estado de Chihuahua, entrará en vigor el primer día del mes de enero del año 2026.
+
+###### ARTÍCULO TERCERO.
+
+El Poder Ejecutivo del Estado, deberá presentar la iniciativa correspondiente para la creación del Fondo de Preserva o Mejora del Estatus Zoosanitario y de Fomento Pecuario, a los seis meses de la entrada en vigor del presente Decreto.
+
+P.O. 18 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFCOD/0464/2025 I P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 175, LA FRACCIÓN VIII, DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA".]
 
 ###### ARTÍCULO ÚNICO.
 
