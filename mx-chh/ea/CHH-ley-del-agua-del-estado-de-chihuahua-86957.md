@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-agua-del-estado-de-chihuahua-86957"
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-31"
-last_updated: "2025-03-05"
+last_updated: "2026-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=86957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DEL AGUA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2026.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 31 de marzo de 2012.
 
@@ -241,7 +241,9 @@ II. La gestión integrada de los recursos hídricos es la base de la política e
 
 III. La gestión del agua debe generar recursos económicos y financieros suficientes, para que las Juntas Operadoras y organismos operadores municipales realicen sus tareas inherentes, en forma autosustentable, y ejecuten los programas hídricos de desarrollo sostenible orientados a la cobertura universal de los servicios públicos en el Estado.
 
-IV. La gestión integrada de los recursos hídricos se basa en el uso sustentable de las aguas y la interrelación que existe con los seres humanos y el medio ambiente.
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+IV. La gestión integrada de los recursos hídricos se basa en el uso sustentable, sostenible y prioritario de las aguas y la interrelación que existe con los seres humanos y el medio ambiente.
 
 V. Las autoridades instrumentarán las acciones correspondientes para que el desarrollo de los centros urbanos, se realice promoviendo el ordenamiento territorial y los mecanismos necesarios para proporcionar los servicios públicos de conformidad con esta Ley, procurando en todo momento el equilibrio hídrico.
 
@@ -277,17 +279,17 @@ V.- Las demás atribuciones que le otorguen otras disposiciones en la materia.
 
 Será responsabilidad del Poder Ejecutivo del Estado, a través de Junta Central:
 
-> <small>(REFORMADA, P.O. 24 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
 
-I. La propuesta, formulación y promoción de las políticas que orienten a la conservación de los sistemas hídricos y el fomento de infraestructura para el desarrollo hidráulico en el Estado, así como garantizar el acceso de cualquier persona al agua para consumo personal y doméstico en forma suficiente, salubre y asequible; al saneamiento de las aguas residuales y o su disposición.
+I. La propuesta, formulación y promoción de las políticas que orienten a la conservación de los sistemas hídricos y el fomento de infraestructura para el desarrollo hidráulico en el Estado, así como garantizar el acceso prioritario de cualquier persona al agua para consumo personal y doméstico en forma suficiente, salubre y asequible; al saneamiento de las aguas residuales y a su disposición.
 
 > <small>(REFORMADA, P.O. 24 DE MARZO DE 2021)</small>
 
 II. Coadyuvar en la planeación hídrica y la programación hidráulica en el ámbito estatal.
 
-> <small>(REFORMADA, P.O. 24 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
 
-III. La gestión de las aguas de jurisdicción estatal, incluido su inventario y registro, así como la planeación, promoción, estímulo y, en su caso, ejecución de las acciones que sean necesarias para la prevención y control de la contaminación del agua, además de definir las bases, apoyos y modalidades para el acceso y uso sustentable de los recursos hídricos, a través del fomento de la participación de la Federación, los municipios y la ciudadanía para la consecución de dichos fines.
+III. La gestión de las aguas de jurisdicción estatal, incluido su inventario y registro, así como la planeación, promoción, estímulo y, en su caso, ejecución de las acciones que sean necesarias para la prevención y control de la contaminación del agua, además de definir las bases, apoyos y modalidades para el acceso y uso sustentable y sostenible de los recursos hídricos, a través del fomento de la participación de la Federación, los municipios y la ciudadanía para la consecución de dichos fines.
 
 IV.- La conservación de las reservas hidrológicas del Estado y de las fuentes de abastecimiento de agua potable destinadas a satisfacer las necesidades de la población, de conformidad con los convenios que se celebren o se hayan celebrado con las autoridades federales.
 
@@ -315,7 +317,9 @@ XII.- Coordinarse con los Ayuntamientos que cuenten con organismos operadores mu
 
 Serán responsabilidad del Poder Ejecutivo del Estado, a través de la Secretaría de Desarrollo Rural, las siguientes atribuciones en materia de agua:
 
-I.- Elaborar el programa anual en materia hidroagrícola, en coordinación con las dependencias estatales involucradas.
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+I.- Elaborar el programa anual en materia hidroagrícola, en coordinación con las dependencias estatales involucradas, promoviendo el reúso de aguas tratadas en el sector agrícola, previo cumplimiento de las Normas Oficiales Mexicanas aplicables.
 
 > <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2017)</small>
 
@@ -337,7 +341,9 @@ VIII.- Prestar, en coordinación con las dependencias estatales, la asistencia t
 
 IX.- Apoyar, en coordinación con las dependencias estatales, en la consolidación y desarrollo técnico a las asociaciones de los usuarios de los distritos y unidades de riego y drenaje pluvial.
 
-X.- Promover e impulsar, en coordinación con las dependencias estatales, la construcción de obras que permitan la captación y el aprovechamiento del agua para diversos usos, así como también en sistemas de riego.
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+X.- Promover e impulsar, en coordinación con las dependencias estatales, la construcción de obras que permitan el tratamiento de aguas residuales y su reutilización, la captación y el aprovechamiento del agua para diversos usos, así como también en sistemas de riego.
 
 XI.- Coadyuvar con el Sistema Estatal de Protección Civil, en la aplicación de los programas y acciones para prevenir y atender situaciones de emergencia, causadas por fenómenos hidrometeorológicos.
 
@@ -2195,7 +2201,13 @@ V.- Lagos de ornato.
 
 VI.- Áreas verdes de campos deportivos.
 
-VII.- Cualquier otro reuso acorde con la Norma Oficial Mexicana que corresponda.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE ABRIL DE 2026)</small>
+
+VII.- Cultivos del sector agrícola en el Estado.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+VIII.- Cualquier otro reúso acorde con la Norma Oficial Mexicana que corresponda.
 
 ###### Artículo 61.
 
@@ -2968,6 +2980,26 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 5 DE MARZO DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO Nº LXVIII/RFLEY/0094/2024 I P.O., MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 6, FRACCIONES XI Y XII DE LA LEY DEL AGUA DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVIII/RFLEY/0310/2025 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL AGUA Y DE LA LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE, AMBAS DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado, promoverá las adecuaciones a las políticas públicas en materia de agua, que permitan promover la utilización de las aguas tratadas en cultivos del sector agrícola en el Estado, de conformidad con la infraestructura disponible.
+
+P.O. 18 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0311/2025 I P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL AGUA DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
