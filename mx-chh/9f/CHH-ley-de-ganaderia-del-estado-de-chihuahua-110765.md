@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ganaderia-del-estado-de-chihuahua-110765"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-12"
-last_updated: "2024-08-21"
+last_updated: "2026-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110765&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE GANADERÍA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2026.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 12 de diciembre de 2015.
 
@@ -453,11 +453,13 @@ La Secretaría operará un registro general de los fierros de herrar, tatuajes o
 
 La Secretaría remitirá a las autoridades municipales y a los organismos auxiliares, copia de los registros expedidos y registrados que correspondan a sus jurisdicciones, a efecto de que formen sus registros especiales y se auxilien de ellos para el mejor cumplimiento de sus funciones.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2026)</small>
+
 ###### Artículo 20.
 
-Los propietarios de ganado tienen la obligación de refrendar los títulos y/o micas de fierro de herrar o cualquier otro medio de identificación, ante la Secretaría, en los años terminados en cero y cinco, según lo disponga el reglamento de esta Ley; en caso de no hacerlo, les será cancelado.
+Los propietarios de ganado tienen la obligación de refrendar los títulos y/o micas de fierro de herrar o cualquier otro medio de identificación, ante la Secretaría, en los años terminados en cero y cinco, según lo disponga el reglamento de esta Ley; en caso de no hacerlo, les será cancelado. Tratándose de la revalidación, los ganaderos podrán optar por hacerla por cinco o por diez años.
 
-Los ganaderos pagarán las cuotas, tanto por el registro como por la revalidación, que se fijen en la Ley de Ingresos del Gobierno del Estado.
+Los ganaderos pagarán las cuotas, tanto por el registro como por la revalidación, que se fijen en la Ley Estatal de Derechos de Chihuahua.
 
 ###### Artículo 21.
 
@@ -1201,7 +1203,9 @@ Toda persona que compre, venda, disponga, traslade, ordene o permita que sea mov
 
 Cuando en uno o más UPP o PSG aparezca una enfermedad, plaga o cualquier evento que afecte a la salud pública o a la sanidad animal de las actividades pecuarias, la Secretaría resolverá y aplicará las medidas que considere necesarias, siguiendo para ese efecto el siguiente procedimiento:
 
-I. Se inmovilizará el ganado y se notificará su aseguramiento al propietario o poseedor para que, en un plazo no mayor de tres días hábiles, manifieste lo que a su derecho convenga.
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+I. Se inmovilizará o cuarentenará precautoriamente el ganado y se notificará su aseguramiento al propietario o poseedor para que, en un plazo no mayor de tres días hábiles, manifieste lo que a su derecho convenga.
 
 II. Transcurrido dicho plazo, con o sin la comparecencia del propietario o poseedor, o antes cuando la urgencia del caso lo amerite, la Secretaría ordenará la realización de los dictámenes periciales sobre la salud del ganado.
 
@@ -1251,9 +1255,11 @@ III. Promover el establecimiento de la infraestructura sanitaria que por sí o a
 
 En los programas de apoyo o inversión a las actividades pecuarias tendrán prioridad los productores que observen las disposiciones sanitarias emitidas por la autoridad competente, en coordinación con la Secretaría.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2026)</small>
+
 ###### Artículo 150.
 
-Toda persona que introduzca al Estado, ganado enfermo o portador de plagas, o sin observar los procedimientos previstos para dicha introducción, o lo movilice dentro del Estado sin cumplir las disposiciones sanitarias, será excluida de los programas de apoyo gubernamentales, sin perjuicio de las sanciones a que se haga acreedor.
+Toda persona que introduzca al Estado, ganado enfermo o portador de plagas, o sin observar los procedimientos previstos para dicha introducción, o lo movilice dentro del Estado sin cumplir las disposiciones sanitarias, con independencia de las responsabilidades administrativas o, en su caso, penales que se deriven de sus actos, será excluida de los programas de apoyo gubernamentales, sin perjuicio de las sanciones a que se haga acreedor.
 
 ###### Artículo 151.
 
@@ -1417,9 +1423,11 @@ La Secretaría fomentará la creación de organismos auxiliares donde participen
 
 En caso de que en una o más Entidades Federativas, se comprobara algún brote de enfermedades, se prohibirá el ingreso al Estado de ganado porcino en pie, así como de productos y/o subproductos de origen porcícola, provenientes de unidades o piaras de dichas Entidades, hasta que el problema sanitario quede debidamente resuelto por las autoridades correspondientes.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2026)</small>
+
 ###### Artículo 179.
 
-Cuando se trate de ganado porcino que se presuma introducido de manera irregular o que ponga en riesgo la sanidad de la actividad porcícola de la región y del Estado, o bien, que atente contra la salud pública, la Secretaría notificará a la SAGARPA para los efectos que corresponda.
+Cuando se trate de ganado porcino que se presuma introducido de manera irregular o que ponga en riesgo la sanidad de la actividad porcícola de la región y del Estado, o bien, que atente contra la salud pública, la Secretaría notificará a la autoridad federal correspondiente, para los efectos a que haya lugar.
 
 ###### Artículo 180.
 
@@ -1459,17 +1467,21 @@ Para el ingreso al Estado de esquilmos, deberá acreditarse que estén libres de
 
 Todo avicultor deberá dar aviso del inicio de operaciones de sus unidades a la Secretaría, en coordinación con las autoridades municipales, proporcionándole la información correspondiente de la infraestructura y número de aves en aprovechamiento, con las especificaciones respectivas.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2026)</small>
+
 ###### Artículo 189.
 
-La Secretaría, en coordinación con la SAGARPA y los organismos auxiliares, realizará campañas y acciones sanitarias a fin de preservar el estatus sanitario y alcanzar constantemente mayores niveles de sanidad en la avicultura.
+La Secretaría, en coordinación con la autoridad federal correspondiente y los organismos auxiliares, realizará campañas y acciones sanitarias permanentes, a fin de preservar el estatus sanitario y alcanzar constantemente mayores niveles de sanidad en la avicultura.
 
 ###### Artículo 190.
 
 En caso de contingencias, la Secretaría podrá ejecutar, coordinadamente con las autoridades federales, locales y organismos auxiliares, las medidas que considere necesarias para preservar la sanidad animal de la avicultura.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2026)</small>
+
 ###### Artículo 191.
 
-Cuando se trate de aves, productos y subproductos introducidos al Estado de manera ilegal, o que pongan en riesgo la sanidad de la actividad avícola de la región y del Estado, que atente a la salud pública, la Secretaría procederá a dar aviso a la SAGARPA y demás autoridades correspondientes a efecto de que tomen las medidas pertinentes.
+Cuando se trate de aves, productos y subproductos introducidos al Estado de manera ilegal, o que pongan en riesgo la sanidad de la actividad avícola de la región y del Estado, que atente a la salud pública, la Secretaría procederá a dar aviso a la autoridad federal correspondiente y demás autoridades, a efecto de que tomen las medidas pertinentes.
 
 ###### Artículo 192.
 
@@ -1711,9 +1723,11 @@ En caso de que la persona que cometió la falta, se oponga a la misma, previo pa
 
 Las multas impuestas por la Secretaría, se harán efectivas por la oficina fiscal correspondiente y, en caso de incumplimiento, será mediante el procedimiento administrativo de ejecución.
 
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2026)</small>
+
 ###### Artículo 230.
 
-Los recursos recaudados con motivo de la expedición de pases de ganado por parte de la Secretaría y por imposición de las multas a que se refiere esta Ley, serán depositados en un Fondo de Fomento Pecuario, que constituirá y operará la Secretaría para el efecto de destinarlos a acciones y programas tendientes a la producción pecuaria, y a mantener y, en su caso, incrementar la referida sanidad animal.
+Los recursos recaudados con motivo de la expedición o revalidación de micas de fierro de herrar por parte de la Secretaría y por imposición de las multas a que se refiere esta Ley, serán depositados en un Fondo de Preserva o Mejora del Estatus Zoosanitario y de Fomento Pecuario, que constituirá y operará la Secretaría para el efecto de destinarlos a acciones y programas tendientes a la producción pecuaria, y a mantener y, en su caso, incrementar la referida sanidad animal.
 
 ### CAPÍTULO II. DEL RECURSO DE RECONSIDERACIÓN
 
@@ -1858,3 +1872,19 @@ P.O. 21 DE AGOSTO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVIII/RFLYC/0277/2025 I P.O., MEDIANTE EL CUAL SE REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA Y DE LA LEY DE GANADERÍA DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La reforma relativa al artículo 20, párrafo primero, de la Ley de Ganadería del Estado de Chihuahua, entrará en vigor el primer día del mes de enero del año 2026.
+
+###### ARTÍCULO TERCERO.
+
+El Poder Ejecutivo del Estado, deberá presentar la iniciativa correspondiente para la creación del Fondo de Preserva o Mejora del Estatus Zoosanitario y de Fomento Pecuario, a los seis meses de la entrada en vigor del presente Decreto.
