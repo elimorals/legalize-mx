@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-del-poder-judicial-del-estado-de-colima-181816"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2025-09-29"
-last_updated: "2025-09-29"
+last_updated: "2026-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181816&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2026.
 
 Ley publicada en la Edición Extraordinaria al Número 95 del Periódico Oficial del Estado de Colima, el lunes 29 de septiembre de 2025.
 
@@ -269,7 +269,13 @@ V. Judicaturas de menor cuantía.
 
 4. Los recintos del Poder Judicial son inviolables.
 
-5. La Buena Marcha del Poder Judicial corresponde, de manera coordinada, a las presidencias del Tribunal Superior, del Tribunal de Disciplina y al Órgano de Administración, conforme a la división de competencias y atribuciones, mismas que se encuentran señaladas en la Constitución Estatal, en la presente Ley y sus reglamentos.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+5. La Buena Marcha del Poder Judicial corresponde, de manera coordinada, a las presidencias del Tribunal Superior, del Tribunal de Disciplina y del Órgano de Administración, conforme a la división de competencias y atribuciones, mismas que se encuentran señaladas en la Constitución Estatal, en la presente Ley y sus reglamentos.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+6. Para garantizar la Buena Marcha del Poder Judicial, las Presidencias previstas en el párrafo anterior deberán reunirse, por lo menos, una vez al mes en sesión ordinaria, previa convocatoria de la Presidencia del Tribunal Superior. Asimismo, podrán celebrarse sesiones extraordinarias en cualquier momento, a convocatoria de esta o a solicitud de cualquiera de las otras Presidencias. Dichas reuniones tendrán carácter exclusivamente consultivo y de coordinación, y no sustituirán ni invadirán las atribuciones constitucionales y legales de los órganos colegiados del Poder Judicial. Los planteamientos, propuestas o recomendaciones que se formulen deberán ser sometidos para su análisis y determinación, conforme al ámbito de sus atribuciones y competencias, por conducto de las Presidencias, al órgano que corresponda.
 
 ###### Artículo 11.
 
@@ -284,6 +290,14 @@ Atribuciones Reglamentarias
 4. Con independencia de lo anterior, los tres órganos señalados, en el ámbito de su competencia, estarán facultados para expedir los Acuerdos Generales que resulten necesarios para el debido cumplimiento de sus atribuciones.
 
 5. Los reglamentos y demás instrumentos normativos a que se refiere el presente artículo, se publicarán en el Periódico Oficial "El Estado de Colima".
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+6. Los órganos del Poder Judicial sólo podrán expedir acuerdos generales o disposiciones de carácter reglamentario en los casos y mediante el procedimiento previsto en esta Ley, sin perjuicio de las facultades reglamentarias que la Constitución del Estado les confiera directamente, las cuales deberán ejercerse con apego a los principios de legalidad, jerarquía normativa y competencia.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+7. La opinión que deban dar el Tribunal Superior o el Tribunal de Disciplina, según corresponda, en los términos del numeral 3 del presente artículo, se deberá realizar en un plazo de diez días hábiles y en caso de no emitirse respuesta, el Órgano correspondiente podrá emitir la reglamentación en cuestión.
 
 ###### Artículo 12.
 
@@ -349,11 +363,21 @@ Quórum y Votaciones en el Pleno del Tribunal Superior
 
 2. Las sesiones se celebrarán previa convocatoria expedida por quien se desempeñe en la presidencia del Pleno del Tribunal Superior, con la periodicidad que determine el reglamento; y sus decisiones se tomarán por mayoría simple, entendiéndose por ésta la mitad más uno de los presentes, salvo en los asuntos que se requiera otro tipo de mayoría. Sus resoluciones obligarán a los ausentes y disidentes.
 
-3. En sus resoluciones, las magistraturas presentes no podrán abstenerse de votar sino cuando tengan impedimento legal o no hubiesen estado presentes durante la discusión del asunto del que se trate.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE ABRIL DE 2026)</small>
 
-4. En caso de empate, quien presida el Tribunal Superior tendrá voto de calidad, salvo en la elección de la Presidencia del mismo.
+3. Cuando la naturaleza o trascendencia del asunto lo amerite, o cuando la determinación pueda producir efectos respecto de personas ajenas al Tribunal Superior, las propuestas que se sometan a votación deberán presentarse en forma de dictamen, proyecto de acuerdo o proyecto de resolución, según corresponda, a fin de facilitar su análisis, discusión y, en su caso, aprobación.
 
-5. Las magistraturas deberán firmar las actas de los plenos extraordinarios en unión de la Secretaría General de Acuerdos y en caso de negativa, se asentará por esta última dicha circunstancia.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+4. En sus resoluciones, las magistraturas presentes no podrán abstenerse de votar, salvo cuando tengan impedimento legal o no hubiesen estado presentes durante la discusión del asunto del que se trate.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 18 DE ABRIL DE 2026)</small>
+
+5. En caso de empate, quien presida el Tribunal Superior tendrá voto de calidad, salvo en la elección de la Presidencia del mismo.
+
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 18 DE ABRIL DE 2026)</small>
+
+6. Las magistraturas deberán firmar las actas de los plenos extraordinarios en unión de la Secretaría General de Acuerdos y en caso de negativa, se asentará por esta última dicha circunstancia.
 
 ###### Artículo 18.
 
@@ -371,7 +395,9 @@ Atribuciones del Pleno del Tribunal Superior
 
 1. El Pleno del Tribunal Superior, además de las atribuciones que le confieren expresamente la Constitución Estatal y las leyes respectivas, tendrá las atribuciones siguientes:
 
-I. Con excepción de la materia laboral burocrática, representar jurídicamente al Poder Judicial en cualquier juicio o asunto en que éste intervenga o deba intervenir con cualquier carácter, así como en las acciones y controversias a que se refiere el artículo 105 de la Constitución Federal. La representación a que se refiere esta fracción comprende la interposición y el desahogo de todo tipo de recursos, pruebas, alegatos y actos que favorezcan los intereses y derechos del Poder Judicial. Esta facultad podrá ser delegada en la Presidencia, o en alguna otra persona servidora pública, en términos de lo dispuesto por esta Ley y su reglamento;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+I. Con excepción de la materia laboral burocrática y de lo previsto en la fracción I del párrafo 1 del artículo 92 de esta Ley, representar jurídicamente al Poder Judicial en cualquier juicio o asunto en que éste intervenga o deba intervenir con cualquier carácter, así como en las acciones y controversias a que se refiere el artículo 105 de la Constitución Federal. La representación a que se refiere esta fracción comprende la interposición y el desahogo de todo tipo de recursos, pruebas, alegatos y actos que favorezcan los intereses y derechos del Poder Judicial. Esta facultad podrá ser delegada en la Presidencia, o en alguna otra persona servidora pública, en términos de lo dispuesto por esta Ley y su reglamento;
 
 II. Otorgar a nombre y representación del Poder Judicial poderes generales o especiales para cumplir con las atribuciones señaladas en esta Ley, para ejercitar acciones o la defensa del Poder Judicial;
 
@@ -381,9 +407,13 @@ IV. Instar a quien se desempeñe en la presidencia del Tribunal Superior, para e
 
 V. Recibir el informe anual de labores de las presidencias del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial y del Órgano de Administración, respectivamente, dentro del plazo que establezcan las disposiciones aplicables;
 
-VI. En el Órgano de Administración y el Tribunal de Disciplina, proveer lo conducente para la debida observancia de la Ley en la administración de justicia, procurando que ésta sea pronta, completa e imparcial, en todas las instancias del Poder Judicial, a través de los mecanismos o instrumentos que establezcan los reglamentos;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
 
-VII. Aprobar la asignación o reasignación de competencias y número de las Salas del Tribunal Superior;
+VI. En coordinación con el Órgano de Administración y el Tribunal de Disciplina, proveer lo conducente para la debida observancia de la Ley en la administración de justicia, procurando que esta sea pronta, completa e imparcial, en todas las instancias del Poder Judicial, a través de los mecanismos o instrumentos que establezcan los reglamentos;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+VII. Aprobar la asignación o reasignación de competencias y número de las Salas del Tribunal Superior e informarlo al Órgano de Administración para los efectos del primer párrafo del artículo 72 de la Constitución del Estado;
 
 VIII. Determinar las adscripciones de las magistraturas del Tribunal Superior a las Salas respectivas y efectuar los cambios necesarios entre sus integrantes con motivo de la elección de la presidencia del Tribunal Superior, o cuando las necesidades del servicio, a juicio del Pleno lo requieran;
 
@@ -397,7 +427,9 @@ XII. Nombrar y remover, así como resolver sobre las renuncias y suplencias, de 
 
 XIII. Conceder licencias hasta por tres meses a las personas servidoras públicas adscritas al Pleno del Tribunal Superior, a la Presidencia y a sus Salas; con excepción de las licencias menores a quince días, que corresponde otorgar a la Presidencia y a las Salas del Tribunal Superior; debiendo en ambos casos, informarlo al Órgano de Administración para los efectos respectivos;
 
-XIV. Aprobar a propuesta del Órgano de Administración, las listas de personas que deban ejercer cargos de Síndicos de Concurso, Interventores, Albaceas, Tutores, Depositarios Judiciales, Peritos y otros Auxiliares de la Administración de Justicia en los términos de esta Ley;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+XIV. Aprobar, a propuesta del Órgano de Administración, las listas de personas que deban ejercer cargos de Síndicos de Concurso, Interventores, Albaceas, Tutores, Depositarios Judiciales y otros Auxiliares de la Administración de Justicia en los términos de esta Ley;
 
 XV. Conocer y resolver de las renuncias que presenten las personas titulares del Órgano de Administración que el Pleno del Tribunal Superior hubiese designado;
 
@@ -409,9 +441,19 @@ XVIII. Presentar quejas o denuncias ante el Tribunal de Disciplina, así como pr
 
 XIX. Resolver los conflictos de competencia que surjan entre las Salas del Tribunal Superior; y
 
-XX. Las demás que le confiera la Constitución Federal, la Constitución Estatal y las leyes y reglamentos.
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2026)</small>
 
-2. Las atribuciones contenidas en las fracciones I, III, V, VIII, X y XVIII de este artículo, podrán ejercerse por el Pleno del Tribunal Superior en sesión extraordinaria que se convoque para tal efecto; las restantes en sesión ordinaria.
+XX. Solicitar al Órgano de Administración la aplicación de recursos del Fondo Auxiliar para atender necesidades institucionales del Poder Judicial, de conformidad con los fines previstos en la Constitución del Estado, esta Ley y los reglamentos aplicables, sin perjuicio de las atribuciones de administración y ejecución que corresponden a dicho órgano;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+XXI. Conocer y, en su caso, aprobar el anteproyecto de presupuesto que le someta su Presidencia;
+
+XXII. Las demás que le confiera la Constitución Federal, la Constitución Estatal y las leyes y reglamentos.
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+2. Las atribuciones contenidas en las fracciones I, III, V, VIII, X, XII, XIII, XVIII, XX y XXI de este artículo, podrán ejercerse por el Pleno del Tribunal Superior en sesión extraordinaria que se convoque para tal efecto; las restantes en sesión ordinaria.
 
 ### CAPÍTULO II. PRESIDENCIA
 
@@ -433,7 +475,9 @@ Atribuciones de la Presidencia del Tribunal Superior
 
 1. La Presidencia del Tribunal Superior, además de las atribuciones que le confieren expresamente la Constitución Estatal y las leyes respectivas, tendrá las atribuciones siguientes:
 
-I. Representar jurídica y oficialmente al Poder Judicial;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+I. Representar jurídica y oficialmente al Poder Judicial, de conformidad con la fracción I del párrafo 1 del artículo 19 de esta Ley;
 
 II. Convocar y presidir las sesiones del Pleno del Tribunal Superior, dirigir los debates y tomar las medidas necesarias para conservar el orden durante su desarrollo; y por causa justificada prorrogar, suspender o dar por concluidas las mismas; así como decretar libremente un receso de la sesión cuando resulte necesario;
 
@@ -449,7 +493,9 @@ VII. Conceder licencias hasta por quince días a las personas servidoras públic
 
 VIII. Remitir al Congreso del Estado las renuncias que presenten las magistraturas del Tribunal Superior, para los efectos respectivos;
 
-IX. Tramitar como magistratura instructora y ponente los asuntos de la competencia del Pleno del Tribunal Superior hasta ponerlos en estado de resolución. Si estimare dudoso o trascendental un trámite, podrá someterlo a la consideración del Pleno del Tribunal Superior para que éste resuelva lo que proceda;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+IX. Tramitar como magistratura instructora y ponente los asuntos de la competencia del Pleno del Tribunal Superior hasta ponerlos en estado de resolución, salvo lo previsto en la legislación correspondiente. Si estimare dudoso o trascendental un trámite, podrá someterlo a la consideración del Pleno del Tribunal Superior para que este resuelva lo que proceda;
 
 X. Constituirse como magistratura instructora y ponente, en los asuntos que le asigne el Pleno del Tribunal Superior y en aquellos que, conforme a las leyes deban ser conocidos y resueltos por el Pleno del Tribunal Superior;
 
@@ -469,9 +515,17 @@ XVII. Adoptar las medidas de naturaleza inmediata o urgente, necesarias para el 
 
 XVIII. Dar cuenta al Tribunal de Disciplina de las irregularidades en las que incurra el personal adscrito a la Presidencia del Tribunal Superior y al Pleno del Tribunal Superior;
 
-XIX. Ejercer la representación jurídica del Pleno del Tribunal Superior y de la propia Presidencia del Tribunal Superior, ante los tribunales federales en los asuntos y trámites jurisdiccionales en los que estas áreas sean señaladas como autoridades responsables en los juicios de amparo que se interpongan contra los asuntos resueltos éstos, incluyendo dicha representación, todos los derechos procesales que las leyes reconocen a las partes. Por consiguiente, podrá firmar, en representación de dichas áreas, los informes, requerimientos, demandas, contestaciones, alegatos, recursos y en general las promociones necesarias para el cumplimiento de su función de representación jurídica; y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
 
-XX. Las demás que determinen las leyes, los reglamentos y Acuerdos Generales del Pleno del Tribunal Superior.
+XIX. Ejercer la representación jurídica del Pleno del Tribunal Superior y de la propia Presidencia del Tribunal Superior, ante los tribunales federales en los asuntos y trámites jurisdiccionales en los que estas áreas sean señaladas como autoridades responsables en los juicios de amparo que se interpongan contra los asuntos resueltos estos, incluyendo dicha representación, todos los derechos procesales que las leyes reconocen a las partes. Por consiguiente, podrá firmar, en representación de dichas áreas, los informes, requerimientos, demandas, contestaciones, alegatos, recursos y en general las promociones necesarias para el cumplimiento de su función de representación jurídica;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+XX. Participar en la elaboración del anteproyecto de presupuesto del Poder Judicial y someterlo a la aprobación de su Pleno; y, una vez aprobado, comunicarlo formalmente a la Presidencia del Órgano de Administración para los efectos conducentes; y
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+XXI. Las demás que le confiera la Constitución Federal, la Constitución Estatal y las leyes y reglamentos.
 
 ### CAPÍTULO III. SECRETARÍA GENERAL DE ACUERDOS
 
@@ -565,7 +619,9 @@ Personal del Tribunal Superior
 
 Salas del Tribunal Superior
 
-1. El Tribunal Superior, para conocer de los asuntos jurisdiccionales, funcionará en Salas Colegiadas, las que podrán trabajar como Sala Unitaria en los términos señalados en la presente Ley y demás normativa aplicable. El Órgano de Administración a propuesta del Pleno del Tribunal Superior, determinará su número, denominación, integración y competencia en atención a las necesidades del servicio jurisdiccional.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+1. El Tribunal Superior, para conocer de los asuntos jurisdiccionales, funcionará en Salas Colegiadas, las que podrán trabajar como Sala Unitaria en los términos señalados en la presente Ley y demás normativa aplicable. El Órgano de Administración a propuesta del Pleno del Tribunal Superior, determinará su número, denominación, integración y competencia de cada Sala Colegiada, en atención a las necesidades del servicio jurisdiccional.
 
 2. En las Salas Colegiadas, será válida la sesión con la presencia de cuando menos dos magistraturas que la integren, siempre y cuando una de ellas sea o funja en la Presidencia de la misma. Sin perjuicio de ello, tratándose de impedimentos legales de alguno de sus integrantes, quien desempeñe la Presidencia del Tribunal Superior podrá integrar Sala para la resolución de los asuntos cuando sea convocado para ello.
 
@@ -615,11 +671,17 @@ Resoluciones de las Salas
 
 Competencia de las Salas
 
-1. Las Salas, en los términos que determine el Órgano de Administración a propuesta del Pleno del Tribunal Superior, serán competentes para conocer en segunda instancia, las materias civil, familiar, mercantil, extinción de dominio, penal, sistema integral de justicia para adolescentes, narcomenudeo, jurisdicción concurrente en los términos de las fracciones I y II del artículo 104 de la Constitución Federal; y de cualquier otra materia que le asignen las leyes aplicables.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2026)</small>
 
-2. En materia civil, familiar, mercantil y extinción de dominio, podrán sustanciarse y resolverse de manera unitaria los recursos de apelación en contra de acuerdos e interlocutorias y cualquier determinación intraprocesal que no ponga fin al juicio ni resuelva el fondo del mismo.
+1. Las Salas, en los términos que determine el Órgano de Administración a propuesta del Pleno del Tribunal Superior, serán competentes para conocer en segunda instancia, las materias civil, familiar, mercantil, extinción de dominio, penal, sistema integral de justicia penal para adolescentes, narcomenudeo, jurisdicción concurrente en los términos de las fracciones I y II del artículo 104 de la Constitución Política de los Estados Unidos Mexicanos; y de cualquier otra materia que les asignen las leyes aplicables.
 
-3. En materia penal, las apelaciones contra las determinaciones del Juez de Control previstas en los artículos 284 y 467 fracciones I, III, IV, V y XI del Código Nacional de Procedimientos Penales, y las emitidas por Juez de Ejecución de Sanciones Penales, se sustanciarán y resolverán de manera Unitaria al interior de la Sala correspondiente, de conformidad con el sistema de gestión judicial.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+2. En materia civil, familiar, mercantil y extinción de dominio, podrán sustanciarse y resolverse de manera unitaria los recursos de apelación en contra de acuerdos, interlocutorias y cualquier determinación intraprocesal que no ponga fin al juicio ni resuelva el fondo del mismo.
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+3. En materia penal, sistema integral de justicia penal para adolescentes, narcomenudeo y ejecución penal, las Salas actuarán como Tribunal de Alzada en los términos del Código Nacional de Procedimientos Penales, de la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, de la Ley Nacional de Ejecución Penal y demás disposiciones aplicables. La forma de resolución unitaria o colegiada se regirá por lo dispuesto en el artículo 37 de esta Ley.
 
 ###### Artículo 32.
 
@@ -699,7 +761,11 @@ X. Conocer de los demás asuntos que le encomienden las leyes, los reglamentos y
 
 Salas Penales y Especializadas en Sistema Integral de Justicia para Adolescentes
 
-1. Las Salas que conozcan de asuntos en materia penal, narcomenudeo, justicia para adolescentes y ejecución de sanciones, podrán hacerlo de forma especializada o mixta, Colegiada o Unitaria, según la normatividad aplicable para la resolución de los asuntos de su conocimiento; y conforme lo determine el Pleno del Tribunal Superior.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+1. Las Salas que conozcan de asuntos en materia penal, narcomenudeo, justicia penal para adolescentes y ejecución penal podrán hacerlo de forma especializada o mixta, conforme lo determine el Pleno del Tribunal Superior. La forma de resolución Colegiada o Unitaria de los recursos y asuntos de su competencia se regirá por lo dispuesto en el artículo 37 de esta Ley.
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2026)</small>
 
 2. Para llevar a cabo el trámite relativo al conocimiento y resolución de sus asuntos, las Salas observarán las disposiciones procesales que establezca la legislación de cada materia.
 
@@ -707,7 +773,19 @@ Salas Penales y Especializadas en Sistema Integral de Justicia para Adolescentes
 
 Atribuciones en materia Penal, Sistema Integral de Justicia para Adolescentes
 
-1. Corresponde a las Salas que conozcan de la materia Penal, del Sistema Integral de Justicia para Adolescentes y Narcomenudeo de manera colegiada:
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+1. Corresponde a las Salas que conozcan de la materia penal, del sistema integral de justicia penal para adolescentes y de narcomenudeo, además de las atribuciones comunes previstas en esta Ley, conocer como Tribunal de Alzada de los recursos y asuntos que expresamente establezcan el Código Nacional de Procedimientos Penales, la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes, la Ley Nacional de Ejecución Penal y las demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+2. En el sistema penal acusatorio, serán apelables ante las Salas las resoluciones previstas en los artículos 467 y 468 del Código Nacional de Procedimientos Penales, o en los preceptos que los reformen o sustituyan. La sustanciación, admisión, audiencia, resolución y efectos del recurso se regirán por lo dispuesto en dicho Código y en la legislación nacional aplicable.
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE ABRIL DE 2026)</small>
+
+3. Las Salas resolverán de manera colegiada:
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 18 DE ABRIL DE 2026)</small>
 
 A. En todos los casos:
 
@@ -725,7 +803,9 @@ VI. Conocer de los conflictos que sobre competencia se susciten entre las person
 
 VII. Conocer de los demás asuntos que le encomienden las leyes, los reglamentos y Acuerdos Generales del Pleno del Tribunal Superior.
 
-B. En el Sistema Tradicional conocer de:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE ABRIL DE 2026)</small>
+
+B. En el Sistema Tradicional, conocer de:
 
 I. La apelación contra sentencias definitivas;
 
@@ -737,17 +817,45 @@ IV. Las impugnaciones que se deriven de la Ley que establece el Sistema Integral
 
 V. Las apelaciones derivadas de los asuntos de su competencia en términos de lo previsto por la Ley General de Salud.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 18 DE ABRIL DE 2026)</small>
+
 C. En el Sistema Acusatorio conocer de:
 
-I. La apelación contra sentencias definitivas en relación a aquellas consideraciones contenidas en la misma, distintas a la valoración de la prueba siempre y cuando no comprometan el principio de inmediación o bien, aquellos que impliquen una violación grave del debido proceso; las que pongan término al procedimiento o lo suspendan; la sentencia definitiva dictada en el procedimiento abreviado; y las que versen sobre desistimiento de la acción penal por el Ministerio Público;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
 
-II. Los procedimientos de reconocimiento de inocencia y anulación de sentencia;
+I. Las apelaciones contra sentencias definitivas dictadas por el Tribunal de enjuiciamiento;
 
-III. Los recursos en el que les otorgue competencia objetiva esta Ley u otras disposiciones aplicables; y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
 
-IV. Los recursos de apelación respecto de las hipótesis previstas en el Código Nacional de Procedimientos Penales, distintas a las mencionadas en las fracciones I y II de este artículo, deberán resolverse de manera unitaria al interior de las Salas en los términos de Ley.
+II. Las apelaciones contra la sentencia definitiva dictada en procedimiento abreviado;
 
-2. Las mismas reglas para el conocimiento de las magistraturas de manera colegiada o unitaria, se aplicarán, en el caso de impugnaciones que se deriven de la Ley que establece el Sistema Integral de Justicia para Adolescentes y de los asuntos de la competencia de las Salas, seguidos por delitos contra la salud, en los términos previstos por la Ley General de Salud.
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+III. Las apelaciones contra las resoluciones que pongan término al procedimiento o lo suspendan;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+IV. Las apelaciones contra las resoluciones que versen sobre desistimiento de la acción penal por el Ministerio Público;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+V. Las apelaciones en materia de ejecución penal cuando la resolución impugnada incida directamente en la duración, modificación, sustitución, suspensión o extinción de la pena o medida de seguridad, o afecte de manera directa la libertad personal; y
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+VI. Las demás apelaciones que, por disposición legal expresa, deban ser resueltas por un órgano colegiado.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+En caso de duda sobre la forma de resolución, prevalecerá la colegiada.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+4. En todos los demás casos, la sustanciación y resolución de los recursos de apelación, serán de forma unitaria.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+5. Todos los recursos de apelación en la materia, serán asignados de conformidad al sistema de gestión judicial correspondiente.
 
 ### CAPÍTULO V. PERSONAL DE LAS SALAS
 
@@ -973,9 +1081,17 @@ XIII. Remitir al Órgano de Administración el informe mensual de las labores ju
 
 XIV. Implementar los sistemas informáticos, de comunicación y tecnológicos que el Órgano de Administración autorice para el seguimiento y control de los asuntos conocidos, iniciados, tramitados y resueltos ante el Poder Judicial;
 
-XV. Informar y solicitar, al área respectiva del Órgano de Administración, la provisión de los insumos materiales y recursos humanos necesarios para la operación del órgano jurisdiccional de su adscripción; y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
 
-XVI. Las demás que establezca la Constitución Estatal, la presente Ley, los Acuerdos Generales emitidos por los Órganos de Gobierno y el reglamento al respecto.
+XV. Informar y solicitar, al área respectiva del Órgano de Administración, la provisión de los insumos materiales y recursos humanos necesarios para la operación del órgano jurisdiccional de su adscripción;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+XVI. Proponer, en los términos de esta Ley y su Reglamento, al personal adscrito al órgano jurisdiccional a su cargo, con excepción de las Judicaturas en materia Penal; sin que ello implique facultad de nombramiento; y
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+XVII. Las demás que establezca la Constitución del Estado, la presente Ley, los Acuerdos Generales emitidos por los Órganos de Gobierno y el reglamento al respecto.
 
 ###### Artículo 50.
 
@@ -1461,7 +1577,9 @@ Funcionamiento del Centro Público de Mecanismos Alternativos de Solución de Co
 
 1. El Órgano de Administración contará con independencia técnica y de gestión, y será responsable de la administración y carrera judicial del Poder Judicial. Tendrá a su cargo la determinación del número, división en partidos judiciales, competencia territorial y especialización por materias de las Salas del Tribunal Superior y de los Juzgados; el ingreso, permanencia y separación del personal de carrera judicial y administrativo, así como su formación, promoción y evaluación de su desempeño; la inspección del cumplimiento de las normas de funcionamiento administrativo del Poder Judicial; y las demás que establezca esta Ley y su reglamento.
 
-2. El Órgano de Administración elaborará el anteproyecto de presupuesto del Poder Judicial y lo remitirá para su inclusión en el proyecto de Presupuesto de Egresos del Estado; y le corresponderá gestionar y administrar los recursos humanos, materiales y financieros que requiere el correcto funcionamiento del Poder Judicial; así como disponer, en los términos de esta Ley, su reglamento y de la de Hacienda del Estado, del Fondo Auxiliar en Beneficio de la Administración de Justicia.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+2. El Órgano de Administración elaborará el anteproyecto de presupuesto del Poder Judicial, integrando los anteproyectos que le sean remitidos por las Presidencias del Tribunal Superior y del Tribunal de Disciplina, en la parte que corresponda a sus ámbitos de competencia. Para tal efecto, podrá requerir a las Presidencias de dichos órganos la información adicional que estime necesaria, así como formular observaciones para su atención y, en su caso, ajuste. Una vez integrado el anteproyecto, será sometido a la aprobación del Pleno del Órgano de Administración y, aprobado, lo remitirá para su inclusión en el proyecto de Presupuesto de Egresos del Estado, observando lo dispuesto en la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Colima. Asimismo, le corresponderá gestionar y administrar los recursos humanos, materiales y financieros que requiera el correcto funcionamiento del Poder Judicial; así como disponer, en los términos de esta Ley, su reglamento y de la de Hacienda del Estado, del Fondo Auxiliar en Beneficio de la Administración de Justicia.
 
 3. Su objetivo principal será administrar y gestionar el debido funcionamiento de todas las tareas y actividades relacionadas con la función de la administración del Poder Judicial, para garantizar la buena marcha de la administración de justicia.
 
@@ -1537,15 +1655,21 @@ Atribuciones del Pleno del Órgano de Administración
 
 1. El Pleno del Órgano de Administración tendrá las atribuciones que establece la Constitución Estatal, así como las siguientes:
 
-I. Representar jurídica y administrativamente al Órgano de Administración Judicial, cuya representación recaerá en la Consejería que funja en la Presidencia del Órgano de Administración;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+I. Representar jurídica y administrativamente al Poder Judicial en todos los actos de administración de recursos humanos, financieros, materiales, de presupuesto y del ámbito de competencia del Órgano de Administración, sin invadir las atribuciones que correspondan al Tribunal Superior y al Tribunal de Disciplina; cuya representación recaerá en la Consejería que funja en la Presidencia del Órgano de Administración, y podrá ser delegada por el Pleno del Órgano de Administración o recaer en las personas que establezca la presente Ley y sus reglamentos;
 
 II. En su calidad de patrón equiparado, representar jurídicamente en materia laboral burocrática al Poder Judicial en cualquier juicio o asunto en éste intervenga o deba intervenir con cualquier carácter en los procedimientos seguidos ante el Tribunal de Arbitraje y Escalafón, así como en los juicios de amparo derivados o relacionados con éstos. La representación a que se refiere esta fracción comprende la interposición y el desahogo de todo tipo de recursos, pruebas, alegatos y actos que favorezcan los intereses y derechos del Poder Judicial. Esta facultad podrá ser delegada en la Presidencia, o en alguna otra persona servidora pública, en términos de lo dispuesto por esta Ley y su reglamento;
 
-III. Expedir los Acuerdos Generales, lineamientos, catálogos de puestos y perfiles, manuales y demás instrumentos normativos de observancia general, que regulen y permitan el adecuado ejercicio de las funciones administrativas y jurisdiccionales del Poder Judicial, así como que garanticen la buena marcha de la administración de justicia, y los que se requieren en cumplimiento a las leyes; y designar y remover a las personas que deban integrarlas;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+III. Expedir los Acuerdos Generales, lineamientos, catálogos de puestos y perfiles, manuales y demás instrumentos normativos de observancia general, que regulen y permitan el adecuado ejercicio de las funciones administrativas y jurisdiccionales del Poder Judicial, así como que garanticen la buena marcha de la administración de justicia, y los que se requieren en cumplimiento a las leyes, de conformidad con lo dispuesto en la presente Ley;
 
 IV. Expedir los reglamentos que deriven de la presente Ley; los instrumentos de carácter administrativo que le sean propuestos, previo análisis; así como los que resulten necesarios para el debido funcionamiento y operatividad del Poder Judicial; con excepción del reglamento interior del propio Tribunal Superior, y en general, impulsar la actualización del marco normativo respectivo. Para la aprobación de los reglamentos, deberá seguirse el procedimiento señalado en el artículo 11 de esta Ley;
 
-V. Determinar el número de cualquier unidad organizacional, división en partidos judiciales, competencia territorial y especialización por materias de las Judicaturas;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+V. Determinar el número de cualquier unidad organizacional, división en partidos judiciales, competencia territorial y especialización por materias de las Judicaturas, previa propuesta que formule el Tribunal Superior;
 
 VI. Establecer las bases para el ingreso, permanencia, escalafón y separación del personal de Carrera Judicial y administrativo, así como su formación, promoción y evaluación del desempeño;
 
@@ -1553,7 +1677,9 @@ VII. Celebrar convenios de colaboración administrativa con el objeto de formar,
 
 VIII. Coordinar y supervisar el buen funcionamiento de las judicaturas y de los órganos auxiliares del Órgano de Administración, de las unidades administrativas, del fondo auxiliar para la administración de justicia y de la Escuela de Formación Judicial;
 
-IX. Establecer y cambiar la residencia de los órganos jurisdiccionales y sedes judiciales;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+IX. Determinar la residencia de los órganos jurisdiccionales y sedes judiciales, previa propuesta que formule (sic) Tribunal Superior, atendiendo a criterios de eficiencia administrativa, acceso a la justicia y disponibilidad presupuestaria;
 
 X. Concentrar en uno o más órganos jurisdiccionales para que conozcan, conforme a sus atribuciones y competencia, de los asuntos vinculados con hechos que constituyan violaciones graves de derechos humanos, previa solicitud del Pleno del Tribunal Superior;
 
@@ -1561,9 +1687,13 @@ XI. Aprobar el proyecto de Presupuesto de Egresos del Poder Judicial y remitirlo
 
 XII. Administrar y ejercer el Presupuesto de Egresos del Poder Judicial;
 
-XIII. Gestionar y administrar los recursos humanos, materiales y financieros que requiere el correcto funcionamiento del Poder Judicial, así como disponer del Fondo Auxiliar en Beneficio de la Administración de Justicia en los términos de la presente Ley, la que regule la Hacienda del Estado y el reglamento respectivo;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
 
-XIV. Adscribir y readscribir a las personas juzgadoras electas a los órganos judiciales o sedes judiciales correspondientes, y velar por la autonomía e independencia de las autoridades jurisdiccionales del Poder Judicial;
+XIII. Gestionar y administrar los recursos humanos, materiales y financieros que requiere el correcto funcionamiento del Poder Judicial, así como disponer del Fondo Auxiliar en Beneficio de la Administración de Justicia en los términos de la presente Ley, la que regule la Hacienda del Estado y el reglamento respectivo; debiendo analizar y, en su caso, atender las solicitudes que formule el Pleno del Tribunal Superior para la aplicación de recursos de dicho fondo auxiliar a necesidades institucionales del Poder Judicial;
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+XIV. Adscribir y readscribir a las personas juzgadoras electas a los órganos judiciales o sedes judiciales correspondientes, previa opinión del Tribunal Superior, mediante decisiones debidamente fundadas y motivadas que garanticen la autonomía e independencia de las autoridades jurisdiccionales del Poder Judicial;
 
 XV. Decidir sobre las ausencias temporales de las Judicaturas, que no excedan de un mes. En el caso de que excedan de un mes o se trate de cualquier causa de separación definitiva, se llevará a cabo el proceso que establece la Constitución Estatal;
 
@@ -1583,7 +1713,9 @@ XXII. Aplicar y ejecutar las medidas provisionales que el Tribunal de Disciplina
 
 XXIII. Hacer del conocimiento del Congreso del Estado los cargos vacantes sujetos a elección en términos de la Constitución Estatal;
 
-XXIV. Resolver sobre las renuncias que presenten las personas servidoras públicas del Poder Judicial, con excepción de magistraturas y judicaturas de elección popular, de las que conocerá el Congreso del Estado;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+XXIV. Resolver sobre las renuncias que presenten las personas servidoras públicas del Poder Judicial, con excepción de las que presente el personal adscrito al Tribunal Superior o al Tribunal de Disciplina, de las que conocerán estos últimos, respectivamente; así como de las magistraturas y judicaturas de elección popular, de las que conocerá el Congreso del Estado;
 
 XXV. Acordar todo lo relacionado con la conclusión de sus funciones por término de mandato para el que fueron electas, las personas juzgadoras y magistraturas del Poder Judicial;
 
@@ -1601,7 +1733,9 @@ XXXI. Nombrar, a propuesta de la Presidencia del Órgano de Administración, a l
 
 XXXII. Nombrar, a propuesta de la Presidencia del Órgano de Administración, a la persona titular de la Secretaría Ejecutiva, así como conocer de sus licencias y renuncias;
 
-XXXIII. Nombrar, tomar protesta y remover a las personas servidoras públicas del Poder Judicial, con excepción de las Magistraturas y judicaturas electas por voto popular;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+XXXIII. Nombrar y remover a las personas servidoras públicas del Poder Judicial, previa opinión o propuesta del Tribunal Superior cuando se trate de personal jurisdiccional adscrito a juzgados, y del Tribunal de Disciplina cuando se trate del personal adscrito a este, con excepción de las Magistraturas, de su personal adscrito y de las judicaturas electas por voto popular;
 
 XXXIV. Establecer la normatividad y los criterios para modernizar las estructuras orgánicas, los sistemas y procedimientos administrativos internos del Poder Judicial; así como para la organización, administración y resguardo de los archivos de los Tribunales y Judicaturas.
 
@@ -1639,11 +1773,23 @@ L. Autorizar, a solicitud de la Presidencia del Pleno del Órgano de Administrac
 
 LI. Presentar quejas o denuncias ante el Tribunal de Disciplina, así como proporcionar, de oficio o cuando el Tribunal de Disciplina formalmente lo requiera, la información y documentación que pueda constituir indicio o medios de prueba en la investigación y determinación de Responsabilidades Administrativas de las personas trabajadoras del Poder Judicial;
 
-LII. Autorizar, anualmente, una lista con los nombres de las personas que puedan peritar ante los órganos del Poder Judicial ordenándose por ramas, especialidades y partidos judiciales, en su caso; y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
 
-LIII. Desempeñar cualquier otra función que le corresponda conforme lo establezca la Constitución Federal, la Constitución Estatal y las leyes que de ellas emanan, así como los reglamentos que se emitan derivados de esta Ley.
+LII. Autorizar, anualmente, una lista con los nombres de las personas que puedan peritar ante los órganos del Poder Judicial ordenándose por ramas, especialidades y partidos judiciales, en su caso;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+LIII. Integrar, actualizar y someter a la aprobación del Pleno del Tribunal Superior las listas de personas que deban ejercer los cargos de Síndicos de Concurso, Interventores, Albaceas, Tutores, Depositarios Judiciales y demás auxiliares de la administración de justicia, en los términos de esta Ley y el reglamento aplicable; y
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+LIV. Desempeñar cualquier otra función que le corresponda conforme lo establezca la Constitución Federal, la Constitución del Estado y las leyes que de ellas emanan, así como los reglamentos que se emitan derivados de esta Ley.
 
 2. El Pleno del Órgano de Administración, en ningún caso, podrá crear ni mantener en operación otros fondos, fideicomisos, mandatos o contratos análogos que no estén previstos en la Constitución Estatal y en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+3. Las atribuciones contenidas en las fracciones IX, X, XIII, XV, XX, XXI, XXII, XXIV, XXVI, XXXI, XXXII, XXXIII, XLI, XLVI y L de este artículo, podrán ejercerse por el Pleno del Órgano de Administración en sesión extraordinaria que se convoque para tal efecto; las restantes en sesión ordinaria.
 
 ###### Artículo 93.
 
@@ -1705,7 +1851,9 @@ IX. Firmar las resoluciones y acuerdos del Pleno del Órgano de Administración 
 
 X. Cumplir y hacer cumplir en el ámbito que corresponda los acuerdos emitidos por el Pleno del Órgano de Administración Judicial;
 
-XI. Elaborar con el apoyo de las áreas respectivas, el anteproyecto de presupuesto de Egresos del Poder Judicial y someterlo para su aprobación al Pleno de dicho Órgano para su correspondiente remisión, por los conductos legales para su incorporación al Proyecto de Egresos del Poder Judicial;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+XI. Coordinar, en conjunto con las Presidencias del Tribunal Superior y el Tribunal de Disciplina, la elaboración del anteproyecto de presupuesto del Poder Judicial; y someterlo a la aprobación del Pleno del Órgano de Administración una vez que el anteproyecto haya sido aprobado por los Plenos del Tribunal Superior y Tribunal de Disciplina;
 
 XII. Rendir ante el Pleno del Órgano de Administración, el informe anual de labores de las actividades del Órgano de Administración en el año que corresponda, dentro del plazo que establezcan las disposiciones aplicables y remitirlo al Pleno del Tribunal Superior para su integración en el Informe Anual General de labores del Poder Judicial;
 
@@ -2285,7 +2433,9 @@ Funciones, cargos y actividades incompatibles con algún cargo dentro del Person
 
 I. Ejercer la profesión de abogacía o las funciones de notariado público;
 
-II. Desempeñar otro cargo o empleo público;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+II. Desempeñar otro cargo, empleo o comisión de la Federación, de las entidades federativas, de los municipios o de particulares;
 
 III. Dirigir, patrocinar, asesorar o procurar asuntos judiciales en forma pública o privada, salvo que a ello se encuentre vinculado el interés jurídico o patrimonial de sí mismo, de su cónyuge, de sus ascendientes, descendientes, hasta segundo grado, o de sus colaterales en primer grado;
 
@@ -2297,9 +2447,13 @@ VI. Tener ocupación que lo constituya en estado de dependencia moral o económi
 
 VII. Desempeñar cargos directivos en organizaciones, colegios o barras de profesionistas en derecho o abogacía, salvo que las citadas asociaciones se encuentren constituidas por integrantes del Poder Judicial del Estado.
 
-2. Los anteriores impedimentos serán aplicables a las personas funcionarias judiciales que gocen de licencia, y su infracción, será sancionada con la pérdida del respectivo cargo dentro del Poder Judicial, así como de las prestaciones y beneficios que en lo sucesivo correspondan por el mismo, independientemente de las demás sanciones que en materia de responsabilidades establezcan las leyes respectivas.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2026)</small>
 
-3. Quedan exceptuados los cargos no remunerados en asociaciones científicas, docentes, literarias o de beneficencia, y cualquier otra actividad independiente que no contravenga lo dispuesto en el presente artículo siempre que su desempeño, no se empalme con sus horarios laborales y no perjudique o menoscabe las actividades relativas a la administración de justicia.
+2. Tratándose de Magistradas y Magistrados del Tribunal Superior de Justicia, así como Juezas y Jueces de Primera Instancia, quedarán exceptuados los cargos no remunerados en asociaciones científicas, docentes, literarias o de beneficencia. El resto del personal del Poder Judicial podrá desempeñar actividades remuneradas en asociaciones científicas, docentes, literarias, de beneficencia o independientes, siempre que dichas actividades no se empalmen con sus horarios laborales ni menoscaben el adecuado desempeño de sus funciones en la administración de justicia.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 18 DE ABRIL DE 2026)</small>
+
+3. Los anteriores impedimentos serán aplicables a las personas funcionarias judiciales que gocen de licencia, y su infracción, será sancionada con la pérdida del respectivo cargo dentro del Poder Judicial, así como de las prestaciones y beneficios que en lo sucesivo correspondan por el mismo, independientemente de las demás sanciones que en materia de responsabilidades establezcan las leyes respectivas.
 
 ###### Artículo 130.
 
@@ -2761,7 +2915,9 @@ Requisitos para ocupar una Actuaría de Juzgado
 
 I. Tener nacionalidad mexicana y estar en pleno ejercicio de sus derechos políticos y civiles;
 
-II. Tener por lo menos veintitrés años de edad cumplidos al momento de su designación;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+II. Tener por lo menos veintidós años de edad cumplidos al momento de su designación;
 
 III. Tener título y cédula profesional de licenciatura en derecho o equivalente;
 
@@ -3291,7 +3447,9 @@ IX. Establecer los métodos, criterios e indicadores aplicables para la evaluaci
 
 X. Garantizar la autonomía de los órganos del Poder Judicial, la independencia de sus miembros y dictar las providencias necesarias para la mejor impartición de justicia;
 
-XI. Aprobar el programa anual de visitas judiciales ordinarias a las Magistraturas del Tribunal Superior y Judicaturas, para inspeccionar su funcionamiento a fin de lograr un ejercicio responsable, profesional e independiente en la función jurisdiccional. El Tribunal de Disciplina deberá tomar en cuenta las particularidades de cada órgano, y en su caso, observará por lo menos lo siguiente:
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+XI. Aprobar visitas judiciales a las Magistraturas del Tribunal Superior y Judicaturas, para inspeccionar su funcionamiento a fin de lograr un ejercicio responsable, profesional e independiente en la función jurisdiccional. El Tribunal de Disciplina deberá tomar en cuenta las particularidades de cada órgano, y en su caso, podrá observar lo siguiente:
 
 a) Revisarán la existencia de los libros de gobierno a fin de determinar si se encuentran en orden, en buen estado y contienen los registros relativos a los datos requeridos;
 
@@ -3323,13 +3481,21 @@ Cuando la suspensión haya sido decretada por el Tribunal de Disciplina Judicial
 
 XVI. Establecer, mediante Acuerdos Generales, los sistemas que permitan evaluar de manera periódica el desempeño y de las y los visitadores para efectos de lo que se dispone en la presente Ley en materia de responsabilidad;
 
-XVII. Fungir como Autoridad Garante en materia de transparencia, conforme a lo dispuesto por el artículo 3 fracción V de la Ley General de Transparencia y Acceso a la Información Pública con las atribuciones y obligaciones establecidas para resolver los recursos de revisión establecidos en la ley de la materia;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+XVII. Fungir como Autoridad Garante en materia de transparencia y protección de datos personales, conforme a lo dispuesto por el artículo 3 fracción V de la Ley General de Transparencia y Acceso a la Información Pública y artículo 3 fracción II de la Ley General de Protección de Datos Personales en Posesión de Particulares con las atribuciones y obligaciones establecidas y para resolver los recursos de revisión establecidos en las leyes de la materia. Para el cumplimiento de lo anterior, en términos del artículo 36 de la Ley General de Transparencia y Acceso a la Información Pública, el Pleno del Tribunal de Disciplina, adoptará la estructura que considere adecuada para el ejercicio de las atribuciones de la materia;
 
 XVIII. Supervisar que la Secretaría General de Acuerdos del Tribunal de Disciplina lleve un registro de personas servidoras públicas y particulares sancionadas, conforme a lo que se establezca mediante Acuerdos Generales;
 
-XIX. Substanciar y resolver, en segunda instancia, los recursos que procedan respecto de las resoluciones recaídas en los procedimientos de responsabilidad administrativa que son competencia de las Comisiones, respecto de las resoluciones de evaluación del desempeño de la función judicial que dicten las Comisiones, en los procedimientos sustanciados por la Unidad de Evaluación; y
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
 
-XX. Las demás que les corresponda en términos de la Ley General de Responsabilidades, la Constitución Estatal, esta Ley y los reglamentos.
+XIX. Substanciar y resolver, en segunda instancia, los recursos que procedan respecto de las resoluciones recaídas en los procedimientos de responsabilidad administrativa que son competencia de las Comisiones, respecto de las resoluciones de evaluación del desempeño de la función judicial que dicten las Comisiones, en los procedimientos sustanciados por el Órgano de Evaluación;
+
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+XX. Conocer y, en su caso, aprobar el anteproyecto de presupuesto que le someta su Presidencia; y
+
+XXI. Las demás que les corresponda en términos de la Ley General de Responsabilidades, la Constitución Estatal, esta Ley y los reglamentos.
 
 2. En ningún caso los recursos de segunda instancia que resuelva el Pleno del Tribunal de Disciplina Judicial serán turnados para su substanciación y elaboración del proyecto de resolución respectivo a los Magistrados o Magistradas que integran la Comisión recurrida.
 
@@ -3343,13 +3509,17 @@ XX. Las demás que les corresponda en términos de la Ley General de Responsabil
 
 Comisiones del Tribunal de Disciplina Judicial
 
-1. El Pleno del Tribunal de Disciplina determinará mediante Acuerdos Generales el número, competencia, atribuciones y funcionamiento de las Comisiones; sin perjuicio de lo que disponga el reglamento respectivo, disposiciones generales que deberán emitirse bajo las siguientes bases:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE ABRIL DE 2026)</small>
+
+1. El Pleno del Tribunal de Disciplina determinará mediante Acuerdos Generales el número, competencia, atribuciones, especialidad y funcionamiento de las Comisiones; sin perjuicio de lo que disponga el reglamento respectivo, disposiciones generales que deberán emitirse bajo las siguientes bases:
 
 I. Se integrarán por tres integrantes del Tribunal de Disciplina Judicial, pero podrán sesionar con la presencia de dos. En caso de empate, y cuando la resolución de los asuntos no pueda aplazarse, la Comisión respectiva se integrará con un Magistrado o Magistrada integrante de una Comisión diversa;
 
 II. Serán competentes para substanciar y resolver en primera instancia los procedimientos de responsabilidad administrativa seguidos contra las personas servidoras públicas del Poder Judicial, los recursos de inconformidad de la Ley General de Responsabilidades Administrativas;
 
-III. Resolverán en primera instancia respecto de los procedimientos de evaluación que realice la Unidad de Evaluación;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+III. Resolverán en primera instancia respecto de los procedimientos de evaluación que realice el Órgano de Evaluación;
 
 IV. Sancionarán a las personas servidoras públicas de todos los Órganos del Poder Judicial que incurran en actos u omisiones contrarias a la Ley y reglamentos respectivos, a la administración de justicia o a los principios de objetividad, imparcialidad, independencia, profesionalismo o excelencia, además de aquellos asuntos que la ley determine;
 
@@ -3395,7 +3565,11 @@ VII. Rendir ante el Pleno del Tribunal de Disciplina, el informe anual de labore
 
 VIII. Ejercer la representación jurídica del Pleno del Tribunal de Disciplina y de la propia Presidencia del mismo, ante los tribunales federales en los asuntos y trámites jurisdiccionales en los que estas áreas sean señaladas como autoridades responsables en los juicios de amparo que se interpongan contra los asuntos resueltos éstos, incluyendo dicha representación, todos los derechos procesales que las leyes reconocen a las partes. Por consiguiente, podrá firmar, en representación de dichas áreas, los informes, requerimientos, demandas, contestaciones, alegatos, recursos y en general las promociones necesarias para el cumplimiento de su función de representación jurídica; y
 
-IX. Las demás que le confieran las leyes, reglamentos o los Acuerdos Generales que de acuerdo con su competencia emita el Pleno del Tribunal de Disciplina.
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+IX. Participar en la elaboración del anteproyecto de presupuesto del Poder Judicial y someterlo a la aprobación de su Pleno; y, una vez aprobado, comunicarlo formalmente a la Presidencia del Órgano de Administración para los efectos conducentes; y
+
+X. Las demás que le confieran las leyes, reglamentos o los Acuerdos Generales que de acuerdo con su competencia emita el Pleno del Tribunal de Disciplina.
 
 #### SECCIÓN CUARTA. SECRETARÍA GENERAL DE ACUERDOS
 
@@ -3453,7 +3627,9 @@ X. Las demás que señalen esta Ley, reglamentos o los Acuerdos Generales que de
 
 Bases para la Investigación de Responsabilidades Administrativas
 
-1. El Órgano de Investigación rendirá los informes de probable responsabilidad al Pleno Tribunal de Disciplina y sus Comisiones, para lo cual, podrá ordenar la recolección de indicios y medios de prueba, requerir información y documentación, realizar inspecciones, llamar a comparecer y apercibir a personas que aporten elementos de prueba, solicitar medidas cautelares y de apremio para el desarrollo de sus investigaciones, entre otras que determinen las leyes.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+1. El Órgano de Investigación rendirá los informes de probable responsabilidad a las Comisiones competentes, para lo cual, podrá ordenar la recolección de indicios y medios de prueba, requerir información y documentación, realizar inspecciones, llamar a comparecer y apercibir a personas que aporten elementos de prueba, solicitar medidas cautelares y de apremio para el desarrollo de sus investigaciones, entre otras que determinen las leyes.
 
 2. Este Órgano fungirá como autoridad investigadora en términos de la legislación en materia de Responsabilidades Administrativas y tendrá la carga de la prueba para demostrar la veracidad sobre los hechos que demuestren la existencia de faltas administrativas cometidas por el personal tanto administrativo como jurisdiccional del Poder Judicial, así como la responsabilidad de aquellos a quienes se imputen las mismas.
 
@@ -3495,13 +3671,17 @@ VII. Inspeccionar, en el ámbito de su competencia, el funcionamiento administra
 
 VIII. Imponer las medidas de apremio para hacer cumplir sus determinaciones, a que se refiere el artículo 97 de la Ley General de Responsabilidades Administrativas;
 
-IX. Integrar y presentar a las comisiones del Tribunal de Disciplina, los Informes de Presunta Responsabilidad Administrativa cuando así resulte conducente o emitir el acuerdo de conclusión y archivo del expediente, de conformidad con los Acuerdos Generales que dicte el Tribunal de Disciplina;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+IX. Integrar y presentar a las comisiones competentes del Tribunal de Disciplina, los Informes de Presunta Responsabilidad Administrativa cuando así resulte conducente o emitir el acuerdo de conclusión y archivo del expediente, de conformidad con los Acuerdos Generales que dicte el Tribunal de Disciplina;
 
 X. Solicitar a la autoridad substanciadora o resolutora, en los procedimientos de responsabilidad administrativa, las medidas cautelares a que se refiere el artículo 124 de la Ley General de Responsabilidades Administrativas; y
 
 XI. Las demás que determinen las leyes, los reglamentos y Acuerdos Generales correspondientes.
 
-2. Como resultado de dicha facultad investigadora, el Órgano de Investigación será la unidad responsable de integrar y presentar a las Comisiones del Tribunal de Disciplina, los Informes de Presunta Responsabilidad Administrativa cuando así resulte conducente o emitir el acuerdo de conclusión y archivo del expediente.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+2. Como resultado de dicha facultad investigadora, el Órgano de Investigación será la unidad responsable de integrar y presentar a las Comisiones competentes del Tribunal de Disciplina, los Informes de Presunta Responsabilidad Administrativa cuando así resulte conducente o emitir el acuerdo de conclusión y archivo del expediente.
 
 3. Si no se encontraren elementos suficientes para demostrar la existencia de la infracción y la presunta responsabilidad del infractor, se emitirá un acuerdo de conclusión y archivo del expediente, sin perjuicio de que pueda abrirse nuevamente la investigación si se presentan nuevos indicios o pruebas y no hubiere prescrito la facultad para sancionar. Dicha determinación, en su caso, se notificará a las personas servidoras públicas y particulares sujetas a la investigación, así como a las denunciantes cuando éstas fueren identificables, dentro de los diez días hábiles siguientes a su emisión.
 
@@ -3609,7 +3789,9 @@ Evaluaciones Ordinarias
 
 1. El Órgano de Evaluación iniciará el procedimiento de evaluación ordinaria al desempeño de las Magistraturas y Judicaturas con posterioridad a los primeros noventa días naturales desde su toma de protesta, y con anterioridad a que concluya el primer año de su mandato.
 
-2. Del resultado del procedimiento de evaluación el Órgano de Evaluación someterá a las Comisiones del Tribunal de Disciplina los proyectos de resolución de evaluación, mismos que deberán ser aprobados por éstas. En caso de que el proyecto no sea aprobado por las Comisiones, éstas deberán instruir al Órgano de Evaluación para que haga las adecuaciones a los proyectos para someterlos de nueva cuenta a Comisión para su aprobación, en los términos instruidos.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+2. Del resultado del procedimiento de evaluación el Órgano de Evaluación someterá a las Comisiones competentes del Tribunal de Disciplina los proyectos de resolución de evaluación, mismos que deberán ser aprobados por éstas. En caso de que el proyecto no sea aprobado por las Comisiones, éstas deberán instruir al Órgano de Evaluación para que haga las adecuaciones a los proyectos para someterlos de nueva cuenta a Comisión para su aprobación, en los términos instruidos.
 
 3. Cuando la evaluación ordinaria resulte insatisfactoria y la Comisión del Tribunal de Disciplina Judicial lo estime pertinente, podrá dictar las medidas que considere necesarias para el fortalecimiento de la función judicial.
 
@@ -3629,9 +3811,11 @@ Evaluaciones Extraordinarias
 
 3. En caso de que se actualice el supuesto previsto en el párrafo anterior, el Tribunal de Disciplina podrá ordenar la suspensión de la persona servidora pública de hasta un año, y determinará las acciones y condiciones para su restitución. Transcurrido el año de suspensión sin acreditar satisfactoriamente la evaluación, el Tribunal de Disciplina resolverá de manera fundada y motivada la destitución de la persona servidora pública, sin responsabilidad para el Poder Judicial.
 
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 18 DE ABRIL DE 2026)</small>
+
 ###### Artículo 202.
 
-Seguimiento de Correcciones motivo de Evaluaciones
+Evaluaciones de Seguimiento
 
 1. Con la finalidad de dar seguimiento al desempeño judicial y garantizar el derecho a la información y participación pública, el Órgano de Evaluación podrá realizar evaluaciones de seguimiento al desempeño judicial.
 
@@ -3801,7 +3985,9 @@ a. Deberán solicitarse a la autoridad resolutora, según lo dispuesto en el sig
 
 b. Serán medidas cautelares las previstas en la fracción XV del artículo 180 de la presente Ley;
 
-c. Las medidas cautelares podrán tener como finalidad alguna de las previstas en el artículo 123 de la Ley General de Responsabilidades Administrativas, así como la de salvaguardar la integridad de las personas potencialmente afectadas por conductas graves, particularmente en casos de violencia sexual;
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+c. Las medidas cautelares podrán tener como finalidad alguna de las previstas en el artículo 123 de la Ley General de Responsabilidades Administrativas, así como en lo dispuesto en la Ley de Justicia Administrativa del Estado de Colima, de aplicación supletoria a la referida Ley General, así como la de salvaguardar la integridad de las personas potencialmente afectadas por conductas graves, particularmente en casos de violencia sexual;
 
 d. Las medidas cautelares serán proporcionales a la conducta investigada o procesada, e instrumentales para la persecución de la finalidad buscada;
 
@@ -3813,9 +3999,13 @@ V. Los medios de impugnación se regirán por lo previsto en el artículo 212 de
 
 Competencia del Tribunal de Disciplina en el Procedimiento de Responsabilidades Administrativas
 
-1. El Tribunal de Disciplina es el órgano competente para investigar, sustanciar y resolver los procedimientos de Responsabilidades Administrativas por presuntas faltas cometidas por el personal jurisdiccional del Poder Judicial, así como aplicar las sanciones que correspondan, de acuerdo con las siguientes atribuciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE ABRIL DE 2026)</small>
 
-I. Las Comisiones del Tribunal de Disciplina serán competentes para substanciar y resolver en primera instancia respecto de las Responsabilidades Administrativas del personal jurisdiccional; y
+1. El Tribunal de Disciplina es el órgano competente para investigar, sustanciar y resolver los procedimientos de Responsabilidades Administrativas por presuntas faltas cometidas por el personal del Poder Judicial, así como aplicar las sanciones que correspondan, de acuerdo con las siguientes atribuciones:
+
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+I. Las Comisiones del Tribunal de Disciplina serán competentes para substanciar y resolver en primera instancia respecto de las Responsabilidades Administrativas de las personas servidoras públicas del Poder Judicial del Estado de Colima; y
 
 II. El Pleno del Tribunal de Disciplina fungirá como segunda instancia en los procedimientos a los que se refiere la fracción anterior. En consecuencia, substanciará y resolverá el recurso de revisión en los procedimientos a los que se refiere la fracción anterior y los demás que resulten procedentes, así como el recurso de revisión en los casos que involucren presuntas faltas graves cometidas por el personal administrativo del Poder Judicial.
 
@@ -3877,7 +4067,7 @@ La suspensión del empleo, cargo o comisión que se imponga podrá ser de treint
 
 En caso de que se determine la inhabilitación, ésta será de uno hasta diez años si el monto de la afectación de la falta administrativa grave no excede de doscientas veces el valor diario de la Unidad de Medida y Actualización, y de diez a veinte años si el monto excede de dicho límite. Cuando no se causen daños o perjuicios, ni exista beneficio o lucro alguno, se podrán imponer de tres meses a un año de inhabilitación.
 
-Para la destitución de los cargos de las magistraturas y judicaturas electas, se aplicará el procedimiento de juicio político, de conformidad con lo dispuesto en la Constitución Estatal.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 18 DE ABRIL DE 2026)</small>
 
 En el caso que la falta administrativa grave cometida por la persona servidora pública le genere beneficios económicos, a sí misma o a cualquiera de las personas a que se refiere el artículo 52 de la Ley General de Responsabilidades Administrativas, se le impondrá sanción económica que podrá alcanzar hasta dos tantos de los beneficios obtenidos. En ningún caso la sanción económica que se imponga podrá ser menor o igual al monto de los beneficios económicos obtenidos. Lo anterior, sin perjuicio de la imposición de las sanciones antes referidas.
 
@@ -3941,11 +4131,31 @@ V. Faltar gravemente en el ejercicio de su cargo a la observancia de los princip
 
 ### CAPÍTULO VI. EXCITATIVAS DE JUSTICIA
 
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 18 DE ABRIL DE 2026)</small>
+
 ###### Artículo 216.
 
-Objeto de las Excitativas
+Objeto de las excitativas
 
-1. Las excitativas de justicia tienen por objeto hacer cesar los retardos indebidos en el despacho de los asuntos. Procederá a petición de cualquiera de las partes por escrito, en el supuesto de que haya omisión o retraso en el dictado de los acuerdos, sentencias interlocutorias o definitivas.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+1. Las excitativas de justicia tienen por objeto hacer cesar los retardos indebidos en el despacho de los asuntos. Procederá a petición de cualquiera de las partes por escrito, en el supuesto de que haya omisión o retraso en el dictado de los acuerdos, sentencias interlocutorias o definitivas, o en la práctica de notificaciones y citaciones.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+2. Para el mejor despacho del trámite de las excitativas, el Tribunal de Disciplina, mediante Acuerdos Generales, podrá hacer las adecuaciones pertinentes a la tramitación del mecanismo procesal en cuestión, en lo que no se oponga a la presente Ley.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+3. El promovente deberá adjuntar a su solicitud de excitativa la documentación pertinente para acreditar su dicho, señalando si se trata de una dilación en el dictado de un acuerdo o sentencia, o la realización de una notificación o citación; refiriendo, en su caso, la fecha de presentación de su escrito y el folio del acuse respectivo; la fecha en la que se turnó el expediente para sentencia o, en su caso, la resolución pendiente de notificarse.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+4. En el supuesto de que el escrito del promovente no reúna los requisitos anteriores se le prevendrá por única ocasión, para que, dentro del plazo de tres días, subsane su omisión. Solventada la prevención, se procederá a proveer lo conducente y a requerir el informe respectivo, en términos de lo establecido en el artículo 218 del (sic) esta Ley, adjuntando al oficio de requerimiento, el escrito inicial de excitativa, así como el de cumplimiento a la prevención. De no cumplimentarse la referida prevención, se tendrá por no presentada la excitativa de justicia.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+5. El Tribunal de Disciplina podrá desechar de plano las excitativas notoriamente improcedentes.
 
 ###### Artículo 217.
 
@@ -3963,9 +4173,33 @@ Informe de la Excitativa
 
 2. El plazo para rendir el informe, será de tres días hábiles siguientes, contados a partir de que se notifique a la persona servidora pública.
 
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 18 DE ABRIL DE 2026)</small>
+
+3. Al rendir su informe, la Autoridad requerida deberá comunicar por lo menos la siguiente información:
+
+a. Número de expediente;
+
+b. Tipo de Juicio;
+
+c. Nombre de las partes;
+
+d. Indicar si el promovente es parte en el expediente principal, o autorizado legal de una de éstas; y
+
+e. Afirmar o negar la dilación que se reclama, adjuntando a su informe copias certificadas de las actuaciones que acrediten su dicho.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+4. En el caso de que se reclame la omisión del dictado de un acuerdo, y este ya se hubiera emitido, se deberá anexar copia certificada de la promoción y del proveído que recayó a la misma.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+5. Tratándose del retardo en la emisión de una sentencia, si esta ya se hubiera dictado, se remitirá copia certificada de la misma; y en el supuesto de que se encuentre pendiente de dictar, deberá informarse la fecha en que se turnó para resolución, el tipo de juicio, la naturaleza de la determinación que deba emitirse y el volumen del expediente.
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 18 DE ABRIL DE 2026)</small>
+
 ###### Artículo 219.
 
-Omisión de Informe y confirmativa ficta
+Omisión de Informe y afirmativa ficta
 
 1. Cuando la persona servidora pública no rinda el informe solicitado dentro del plazo conferido, se considerará emitido en sentido afirmativo, acreditándose para los efectos de dicho procedimiento la citada omisión o retardo injustificado denunciado.
 
@@ -3975,7 +4209,9 @@ Resolución de la Excitativa
 
 1. Rendido o no el informe dentro del plazo que se hubiera concedido, el órgano resolutor, a los tres días hábiles siguientes resolverá si ha lugar a la expedición de la excitativa solicitada.
 
-2. En caso de que al rendirse el informe se acredite que a la fecha de presentación de la excitativa no existía la omisión o retraso denunciados, se declarará infundada.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+2. En caso de que al rendirse el informe se acredite que a la fecha de presentación de la excitativa no existía la omisión o retraso denunciados, o en su caso, si a la fecha de presentación de la excitativa, se hubiera llevado a cabo el acuerdo, resolución, citación o notificación pendientes se declarará infundada.
 
 3. De acreditarse al rendir el informe que, si bien existió la omisión o retraso denunciados, pero se adjunta la documentación que acredite el dictado del acuerdo, sentencia interlocutoria o definitiva que estuviera pendiente, se sobreseerá la misma por quedar sin materia ésta. Sin perjuicio de lo anterior, podrá emitirse pronunciamiento en el sentido de apercibir y exhortar a las personas servidoras públicas, para que emitan sus determinaciones en los plazos previstos por la normatividad aplicable si se advierte que la determinación en cuestión se atendió notoriamente en forma extemporánea conforme a la normatividad aplicable, o hasta que les fue notificada la excitativa en cuestión.
 
@@ -3993,13 +4229,37 @@ Excitativa fundada
 
 2. Las excitativas decretadas se notificarán a la persona servidora pública por cualquier medio legal, dejando constancia de ello.
 
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 18 DE ABRIL DE 2026)</small>
+
 ###### Artículo 222.
 
-Consecuencias del incumplimiento de las Excitativas
+Sanción por incumplimiento de las Excitativas y por presentación de excitativas basadas en hechos falsos.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+A. Sanción a las autoridades por el incumplimiento de las excitativas.
 
 1. El órgano resolutor impondrá una multa de uno a cien unidades de medida y actualización a la persona servidora pública que incumpla sin causa justificada en el plazo concedido, con el pronunciamiento del acuerdo o resolución que corresponda; la que se aplicará al Fondo Auxiliar para la Administración de Justicia.
 
-2. Asimismo, se remitirá copia de los puntos resolutivos al expediente personal de la persona servidora pública respectiva
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+2. Asimismo, se remitirá copia de los puntos resolutivos al expediente personal de la persona servidora pública respectiva.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+3. Para la procedencia de la multa y su individualización, se tomará en cuenta: el tipo de asunto, y si la persona servidora pública es o no reincidente en el incumplimiento de las excitativas.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+B. Sanción por presentación de excitativas basadas en hechos falsos.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+1. Cuando del informe rendido por la persona servidora pública en contra de quien se interponga una excitativa, se advierta que, contrario a lo manifestado por la parte promovente, a la fecha de presentación de la excitativa no existía dilación, promoción pendiente de proveer, resolución por dictarse, notificación o citación por realizarse o, cuando el Tribunal de Disciplina detecte que la parte promovente se haya conducido con falsedad; al emitirse la sentencia se le podrá imponer a esta una multa de uno a cien unidades de medida y actualización, misma que se aplicará en beneficio del Fondo Auxiliar para la Administración de Justicia.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+2. Para la procedencia de la multa y su individualización, se tomará en cuenta: el tipo de asunto, y si la persona promovente es o no reincidente en la presentación de excitativas que contengan hechos falsos.
 
 ## TÍTULO DÉCIMO QUINTO. AUSENCIAS Y COMPETENCIA SUBJETIVA
 
@@ -4221,9 +4481,13 @@ SEXTO. La implementación del presente Decreto será con cargo al presupuesto ap
 
 SÉPTIMO. Se faculta tanto a los Plenos del Tribunal, del Tribunal de Disciplina y del Órgano de Administración, para dictar en el ámbito de sus atribuciones, todas las medidas que sean necesarias para la efectividad y cumplimiento de la presente Ley.
 
-OCTAVO. De conformidad con las facultades reglamentarias de cada órgano, contarán con un plazo de ciento ochenta días naturales contados a partir de su toma de protesta, para presentar ante el Órgano de Administración, los proyectos de reglamentos de carácter administrativo que les corresponda en el ámbito de sus competencias, para que sean aprobados por este último.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2026)</small>
 
-El Pleno del Tribunal Superior de Justicia expedirá su propio reglamento interior dentro del plazo de ciento ochenta días naturales contados a partir de la toma de protesta de sus integrantes.
+OCTAVO. De conformidad con las facultades reglamentarias de cada órgano, contarán con un plazo de doscientos setenta días naturales contados a partir de su toma de protesta, para presentar ante el Órgano de Administración, los proyectos de reglamentos de carácter administrativo que les corresponda en el ámbito de sus competencias, para que sean aprobados por este último.
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+El Pleno del Tribunal Superior de Justicia expedirá su propio reglamento interior dentro del plazo de doscientos setenta días naturales contados a partir de la toma de protesta de sus integrantes.
 
 Los reglamentos que deba expedir el Órgano de Administración, en caso de que surjan por iniciativa de éste, previo a su aprobación, deberá contarse con la opinión que emitan, según corresponda, el Pleno del Tribunal Superior, o el Pleno del Tribunal de Disciplina, cuando los reglamentos en cuestión les impacten o se relacionen con sus funciones y atribuciones; y en todos los casos, con la que corresponda al Pleno del Tribunal Superior de Justicia.
 
@@ -4345,6 +4609,22 @@ VIGÉSIMO SEXTO. Los modelos de gestión vigentes con base en los cuales operan 
 
 VIGÉSIMO SÉPTIMO. El Centro Estatal de Justicia Alternativa, a la entrada en vigor del presente Decreto, cambiará su denominación a Centro Público de Mecanismos Alternativos de Solución de Conflictos, con independencia de la nueva Ley que se emita en armonía con la Ley General de Mecanismos Alternativos de Solución de Conflictos.
 
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+VIGÉSIMO OCTAVO. Las Magistraturas del Tribunal Superior de Justicia que se encontraban en funciones a la entrada en vigor del decreto 63 por el que se reformó la Constitución Política del Estado Libre y Soberano de Colima en materia del Poder Judicial, y que hayan cumplido o lleguen a cumplir con los requisitos para acceder a una pensión por jubilación, vejez o retiro en edad avanzada, según lo establecido en la Ley de Pensiones de los Servidores Públicos del Estado de Colima, y conforme a las bases previstas en el decreto 479 publicado en el Periódico Oficial “El Estado de Colima”, de fecha 08 de agosto de 2024; podrán acceder a los derechos previstos en el mismo, en la proporción que les corresponda, siempre que se encuentren dentro de alguno de los supuestos contemplados en el Programa y dentro del periodo otorgado para ello, esto es, desde la fecha de su publicación y hasta el 31 de julio del año 2027.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+Las Magistraturas que opten por acogerse al Programa, deberán cumplir con los requisitos correspondientes, atendiendo a lo señalado en el Artículo Cuadragésimo Tercero transitorio de la Ley de Pensiones de los Servidores Públicos del Estado de Colima; y manifestar expresamente su voluntad de incorporarse al mismo, mediante escrito dirigido a la Dirección General de Planeación, Finanzas y Administración del Poder Judicial del Estado y al Instituto de Pensiones de los Servidores Públicos del Estado de Colima, para efectos de que se tomen las previsiones tanto administrativas como financieras que correspondan.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+En ese sentido, a las Magistraturas que cumplan con los requisitos para pensionarse establecidos en la Ley de Pensiones de los Servidores Públicos del Estado de Colima, y que se acojan al Programa, se les deberá autorizar, con cargo al Presupuesto de Egresos del Poder Judicial del Estado de Colima, una prestación económica adicional de forma proporcional conforme a lo dispuesto en el artículo transitorio Cuadragésimo Tercero de la Ley de Pensiones de los Servidores Públicos del Estado de Colima, según corresponda en cada caso.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+Dicha prestación se hará efectiva a partir de que el Instituto de Pensiones de los Servidores Públicos del Estado de Colima determine, conforme a la ley, la pensión correspondiente. En ningún caso, la suma de ambos conceptos podrá exceder la remuneración que la Magistratura percibía en activo al momento de autorizarse la pensión. Asimismo, tal prestación tendrá la misma temporalidad y efectos de actualización que la pensión decretada por el Instituto de Pensiones de los Servidores Públicos del Estado de Colima.
+
 La Gobernadora del Estado dispondrá se publique, circule y observe.
 
 Dado en el Recinto Oficial del Poder Legislativo del Estado de Colima, a los 24 veinticuatro días del mes de septiembre de 2025 dos mil veinticinco.
@@ -4386,3 +4666,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. ALBERTO ELOY GARCÍA ALCARAZ
 
 Firma.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 268.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COLIMA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. Las excitativas de justicia que se encuentren en trámite a la entrada en vigor del presente Decreto continuarán su sustanciación hasta su conclusión con las normas que se encontraban vigentes al momento de su inicio.
+
+TERCERO. Los recursos de apelación en materia penal que, a la entrada en vigor del presente Decreto, se encuentren en trámite, continuarán sustanciándose conforme a las disposiciones vigentes al momento de su interposición.
