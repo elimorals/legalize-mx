@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-conducta-y-de-prevencion-de-conflicto-de-interes-1791
 country: "mx"
 rank: "codigo"
 publication_date: "2025-03-29"
-last_updated: "2025-03-29"
+last_updated: "2026-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=179196&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # CODIGO DE CONDUCTA Y DE PREVENCION DE CONFLICTO DE INTERES DE LAS PERSONAS SERVIDORAS PUBLICAS DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO, PUBLICADO EN EL P.O. DE 18 DE ABRIL DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA Y DE PREVENCIÓN DE CONFLICTO DE INTERÉS DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2026 (ABROGADO).
 
 Código publicado en el Suplemento I del Número 8615 en el Periódico Oficial del Estado de Tabasco, el sábado 29 de marzo de 2025.
 
@@ -762,3 +764,13 @@ Unidad Administrativa: _________________________________
 Fecha: ________________________________________________
 
 Firma: ________________________________________________
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Código de Conducta entrará en vigor a partir del día hábil siguiente a su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se abroga el Código de Conducta y de Prevención de Conflicto de Interés de las Personas Servidoras Públicas del Instituto de Seguridad Social del Estado de Tabasco, publicado en el Suplemento I, del Periódico Oficial del Estado, Edición 8615, de fecha 29 de marzo de 2025.
