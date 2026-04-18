@@ -4,7 +4,7 @@ identifier: "COL-constitucion-politica-del-estado-libre-y-soberano-de-colima-396
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-20"
-last_updated: "2025-08-16"
+last_updated: "2026-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "COL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2026.
 
 Constitución publicada en el Periódico Oficial "El Estado de Colima", los días 20, 27 de octubre y 3, 10, 17 y 24 de noviembre de 1917.
 
@@ -135,17 +135,19 @@ La obligación del Estado y de los Municipios de resarcir los daños y perjuicio
 
 XII. A un medio ambiente social que le permita vivir en paz y en armonía con todos los demás seres humanos;
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
 
-XIII. A acceder a un transporte público de calidad, digno y eficiente el Estado proveerá lo necesario para garantizar dicho acceso; y
+XIII. A acceder a un transporte público de calidad, digno y eficiente el Estado proveerá lo necesario para garantizar dicho acceso;
 
-> <small>(ADICIONADA, P.O. 18 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
 
-XIV. Al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible. La Ley establecerá la forma, términos y condiciones en que se ejercerá este derecho.
+XIV. Al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible. La ley establecerá la forma, términos y condiciones en que se ejercerá este derecho;
 
-> <small>(ADICIONADO [N. DE E. PERTENECE A LA FRACCIÓN XIV], P.O. 7 DE MAYO DE 2022)</small>
+Bajo ninguna circunstancia podrá suspenderse de forma absoluta el acceso y disposición de agua en casas habitación, el Estado tiene la obligación inalienable de garantizar el acceso al mínimo vital de agua potable como un derecho humano. La Ley establecerá la forma, términos y condiciones en que se ejercerá este derecho; y
 
-Bajo ninguna circunstancia podrá suspenderse de forma absoluta el acceso y disposición de agua en casas habitación, el Estado tiene la obligación inalienable de garantizar el acceso al mínimo vital de agua potable como un derecho humano. La Ley establecerá la forma, términos y condiciones en que se ejercerá este derecho.
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+XV. A vivir una vida libre de violencias, el Estado tiene deberes reforzados de protección con las mujeres, adolescentes, niñas y niños.
 
 Artículo 3°
 
@@ -323,9 +325,13 @@ La violencia, en cualquiera de sus formas, atenta contra el desarrollo humano in
 
 El Estado, con la participación de la sociedad, impulsará las condiciones que permitan a las personas y a los grupos sociales vivir en paz, sin violencia y sin miedo. Cualquier persona puede exigir a la autoridad competente el cumplimiento de esta obligación.
 
-La seguridad pública es una función y un servicio a cargo del Estado y los municipios que, en concurrencia con la Federación y de acuerdo con las competencias que señalen la Constitución Federal y esta Constitución, comprende la prevención de los delitos, la coadyuvancia en su investigación y persecución, así como la sanción de las infracciones administrativas, en los términos de las leyes de la materia.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2026)</small>
 
-La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución Federal y en los tratados internacionales de los que el Estado Mexicano sea parte.
+La seguridad pública es una función y un servicio a cargo del Estado y los municipios que, en concurrencia con la Federación y de acuerdo con las competencias que señalen la Constitución Federal y esta Constitución, comprende la prevención de los delitos, la coadyuvancia en su investigación y persecución, así como la sanción de las infracciones administrativas, en los términos de las leyes de la materia, y de conformidad con lo dispuesto en el artículo 2° fracción XV de esta Constitución, que garantiza los deberes reforzados de protección del Estado con las mujeres, adolescentes, niñas y niños.
+
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, así como por la perspectiva de género y el respeto a los derechos humanos reconocidos en la Constitución Federal y en los tratados internacionales de los que el Estado Mexicano sea parte.
 
 Las instituciones de seguridad pública del Estado y sus municipios serán de carácter civil, disciplinado y profesional.
 
@@ -767,9 +773,9 @@ Fuera de los periodos que señala el párrafo segundo, el Congreso celebrará se
 
 Artículo 31
 
-(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2022) (F. DE E., P.O. 1 DE OCTUBRE DE 2022)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2026)</small>
 
-La Gobernadora o el Gobernador del Estado, en el mes de noviembre de cada año, presentará ante el Congreso del Estado un informe por escrito, en el que manifieste el estado general que guarda la administración pública de la entidad y el cumplimiento del Plan Estatal de Desarrollo. El informe tendrá lugar en sesión solemne a la que asistirán la Presidenta o Presidente del Supremo Tribunal de Justicia y las y los integrantes de la Legislatura. En el último año de la Administración Pública Estatal, la presentación del informe tendrá lugar en el mes de octubre.
+La Gobernadora o el Gobernador del Estado, en el mes de noviembre de cada año, presentará ante el Congreso del Estado un informe por escrito, en el que manifieste el estado general que guarda la administración pública de la entidad y el cumplimiento del Plan Estatal de Desarrollo. El informe tendrá lugar en sesión solemne a la que asistirán la Presidenta o Presidente del Tribunal Superior de Justicia y las y los integrantes de la Legislatura, en la sede del Poder Legislativo. En el último año de la Administración Pública Estatal, la presentación del informe tendrá lugar en el mes de octubre.
 
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2019)</small>
 
@@ -1067,7 +1073,9 @@ I. A las diputadas y diputados;
 
 II. A la Gobernadora o Gobernador;
 
-III. Al Supremo Tribunal de Justicia en asuntos del ramo de justicia;
+> <small>(REFORMADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+III. Al Tribunal Superior de Justicia en asuntos del ramo de justicia;
 
 IV. A los ayuntamientos;
 
@@ -1145,11 +1153,11 @@ Artículo 46
 
 Cuando presenten una iniciativa, los ayuntamientos podrán designar una persona oradora para que asista, sin voto, a los debates, a quien se le hará saber el día de la discusión siempre que señale domicilio en la población donde residan los supremos poderes del Estado.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2026)</small>
 
 Artículo 47
 
-Las iniciativas de ley o decreto se considerarán aprobadas con el voto de la mayoría de los miembros del Congreso. Cuando sean objetadas por representantes del Ejecutivo, del Supremo Tribunal de Justicia, o de los ayuntamientos, se requerirá el voto de las dos terceras partes de las y los diputados respecto de los puntos en que haya discrepancia.
+Las iniciativas de ley o decreto se considerarán aprobadas con el voto de la mayoría de los miembros del Congreso. Cuando sean objetadas por representantes del Ejecutivo, del Tribunal Superior de Justicia, o de los ayuntamientos, se requerirá el voto de las dos terceras partes de las y los diputados respecto de los puntos en que haya discrepancia.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
@@ -2027,7 +2035,9 @@ Artículo 80
 
 El Ministerio Público es la institución que tiene por objeto la investigación de los delitos del orden común y de su persecución ante los tribunales; por lo mismo, solicitará las medidas cautelares contra los imputados; buscará y presentará las pruebas que acrediten la participación de éstos en los hechos que las leyes locales señalen como delito; procurará que los juicios en materia penal se sigan con toda regularidad, para que la impartición de justicia sea pronta y expedita; pedirá la aplicación de las penas y la reparación del daño, e intervendrá en los asuntos que la ley determine.
 
-Le corresponde también la defensa de los derechos de la sociedad y la intervención en los procedimientos que afecten a las personas a quienes las leyes otorguen especial protección.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+Le corresponde también la defensa de los derechos de la sociedad y la intervención en los procedimientos que afecten a las personas a quienes las leyes otorguen especial protección. Deberán realizar sus funciones con base en los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo y responsabilidad, así como con perspectiva de género y respeto a los derechos humanos.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2017)</small>
 
@@ -2038,6 +2048,10 @@ El Ministerio Público se organizará en una Fiscalía General del Estado como �
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
 Para el ejercicio de sus funciones, la Fiscalía contará con fiscalías especializadas, agentes, peritos, policía investigadora y demás personal, que estará bajo su autoridad en los términos que establezcan esta Constitución y la ley. Las fiscalías especializadas se constituirán y funcionarán como órganos con autonomía técnica y operativa.
+
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+Para proteger el derecho de las mujeres a una vida libre de violencias, la Fiscalía deberá contar con, por lo menos, una fiscala especializada de investigación de delitos relacionados con las violencias de género contra las mujeres.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
@@ -2489,7 +2503,9 @@ c) El procedimiento y las condiciones para que el Gobierno del Estado asuma una 
 
 d) Las disposiciones aplicables en aquellos municipios que no cuenten con los bandos o reglamentos correspondientes.
 
-El Supremo Tribunal de Justicia, de conformidad con el procedimiento que establezca la ley respectiva, resolverá los conflictos que se presenten entre los municipios y el Gobierno del Estado, o entre aquéllos, con motivo de los actos derivados de los incisos b) y c) anteriores y de todos aquellos no previstos en la fracción XX del artículo 34 de esta Constitución.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+El Tribunal Superior de Justicia, de conformidad con el procedimiento que establezca la ley respectiva, resolverá los conflictos que se presenten entre los municipios y el Gobierno del Estado, o entre aquéllos, con motivo de los actos derivados de los incisos b) y c) anteriores y de todos aquellos no previstos en la fracción XX del artículo 34 de esta Constitución.
 
 La enajenación de los inmuebles que formen parte del patrimonio inmobiliario del Municipio, el otorgamiento de concesiones para que los particulares operen una función o presten un servicio público municipal, la suscripción de empréstitos o créditos, la autorización para que la hacienda pública municipal sea ejercida por persona distinta al Ayuntamiento, la celebración de actos o suscripción de convenios que comprometan al Municipio por un plazo mayor al periodo del Ayuntamiento, así como la solicitud para que el Gobierno del Estado asuma una función o servicio municipal, requerirán del acuerdo de cuando menos las dos terceras partes del total de los miembros del cabildo respectivo;
 
@@ -3003,7 +3019,9 @@ Artículo 119
 
 Para los efectos de las responsabilidades a que alude este capítulo se reputarán como servidores públicos las personas representantes de elección popular, los miembros del Poder Judicial del Estado, las personas funcionarias y empleadas y, en general toda persona que desempeñe un empleo, cargo, o comisión de cualquier naturaleza en el Poder Legislativo o la Administración Pública del Estado o los municipios, así como las personas servidoras públicas de los órganos autónomos, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones. Dichos servidores públicos serán responsables por el manejo indebido de recursos públicos y la deuda pública.
 
-El Gobernador o Gobernadora, quienes ostenten una diputación del Poder Legislativo del Estado, una magistratura del Supremo Tribunal de Justicia, sean miembros de los ayuntamientos, los integrantes de los órganos autónomos, así como las demás personas servidoras públicas del Estado y los municipios, serán responsables por infracciones a la Constitución Federal, esta Constitución y las leyes generales, federales y locales, así como por el manejo y aplicación indebidos de fondos y recursos públicos federales y locales.
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+El Gobernador o Gobernadora, quienes ostenten una diputación del Poder Legislativo del Estado, una magistratura del Tribunal Superior de Justicia, sean miembros de los ayuntamientos, los integrantes de los órganos autónomos, así como las demás personas servidoras públicas del Estado y los municipios, serán responsables por infracciones a la Constitución Federal, esta Constitución y las leyes generales, federales y locales, así como por el manejo y aplicación indebidos de fondos y recursos públicos federales y locales.
 
 Las y los servidores públicos que determine la ley y los términos que en ella se disponga, se obligan a presentar, bajo protesta de decir verdad, su declaración patrimonial y de interese (sic) ante las autoridades competentes.
 
@@ -3289,11 +3307,11 @@ Artículo 139
 
 Las personas funcionarias que entren a ejercer su cargo después del día señalado por esta Constitución o por las leyes como inicio del período que les corresponde, solo durarán en sus funciones el tiempo que les falte para cumplir dicho período.
 
-> <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 18 DE ABRIL DE 2026)</small>
 
 Artículo 140
 
-Cuando por circunstancias imprevistas no puedan instalarse el Congreso o los ayuntamientos, el Supremo Tribunal de Justicia, ni la Gobernadora o el Gobernador toma posesión de su cargo el día fijado por esta Constitución y demás leyes relativas, lo verificarán lo más brevemente posible, siempre que no haya transcurrido el período legal en que deban funcionar.
+Cuando por circunstancias imprevistas no puedan instalarse el Congreso o los ayuntamientos, el Tribunal Superior de Justicia, ni la Gobernadora o el Gobernador toma posesión de su cargo el día fijado por esta Constitución y demás leyes relativas, lo verificarán lo más brevemente posible, siempre que no haya transcurrido el período legal en que deban funcionar.
 
 > <small>(REFORMADO, P.O. 4 DE NOVIEMBRE DE 2023)</small>
 
@@ -3305,7 +3323,9 @@ Nunca se impondrán préstamos forzosos ni por las oficinas se hará gasto algun
 
 Artículo 142
 
-A. Las personas servidoras públicas de los poderes del Estado, los órganos autónomos, los municipios, las entidades paraestatales y paramunicipales de la Administración Pública del Estado y de los municipios, fideicomisos públicos, y de cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE ABRIL DE 2026)</small>
+
+A. Las personas servidoras públicas de los poderes del Estado, los órganos autónomos, los municipios, las entidades paraestatales y paramunicipales de la Administración Pública del Estado y de los municipios, fideicomisos públicos, y de cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades, sin tener en cuenta el sexo ni género. Las leyes establecerán los mecanismos tendentes a reducir y erradicar la brecha salarial de género.
 
 El régimen de remuneraciones será determinado anual y equitativamente en los presupuestos de egresos del Estado y de los municipios, bajo las bases siguientes:
 
@@ -4648,3 +4668,11 @@ QUINTO.- La Comisionada del Instituto de Transparencia, Acceso a la Información
 SEXTO.- Los derechos laborales de las personas servidoras públicas del Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos del Estado de Colima, serán respetados y garantizados en su totalidad, en términos de la legislación secundaria a la que se refiere el transitorio segundo del presente Decreto.
 
 SÉPTIMO.- Quedan sin efecto todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 18 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 258.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE COLIMA, EN MATERIA DE IGUALDAD SUSTANTIVA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO. El Congreso del Estado de Colima deberá llevar a cabo las reformas a la legislación secundaria que se deriven del presente Decreto para garantizar lo previsto en este, en el plazo de 180 días hábiles a partir de la entrada en vigor del mismo debiendo incluir disposiciones que determinen los alcances y permitan dar cumplimiento gradual conforme a lo que se apruebe en los presupuestos de egresos correspondientes, así como las atribuciones y obligaciones necesarias para garantizar los derechos derivados del presente Decreto.
