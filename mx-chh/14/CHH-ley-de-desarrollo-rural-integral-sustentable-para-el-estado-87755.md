@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-rural-integral-sustentable-para-el-estado-877
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-17"
-last_updated: "2023-10-18"
+last_updated: "2026-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2026.
 
 Ley publicada en Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 17 de marzo de 2012.
 
@@ -1223,6 +1223,10 @@ VI. Aumentar la cobertura y calidad de los procesos de capacitación productiva,
 
 VII. Impulsar, mediante la participación y compromiso de las organizaciones sociales y económicas, el mejor uso y destino de los recursos naturales, para preservar y mejorar el medio ambiente, atendiendo a los criterios de sustentabilidad.
 
+> <small>(ADICIONADA, P.O. 18 DE ABRIL DE 2026)</small>
+
+VIII. Promover el reúso de aguas tratadas, en cultivos del sector agrícola en el Estado.
+
 ###### Artículo 88.
 
 El Gobierno Estatal, en coordinación con los demás Órdenes de Gobierno, apoyará de manera prioritaria a los productores de las zonas de reconversión y, especialmente, a las ubicadas en las partes altas de las cuencas, a fin de que lleven a cabo la transformación de sus actividades productivas.
@@ -1834,3 +1838,15 @@ P.O. 18 DE OCTUBRE DE 2023.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVIII/RFLEY/0310/2025 I P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL AGUA Y DE LA LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE, AMBAS DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado, promoverá las adecuaciones a las políticas públicas en materia de agua, que permitan promover la utilización de las aguas tratadas en cultivos del sector agrícola en el Estado, de conformidad con la infraestructura disponible.
