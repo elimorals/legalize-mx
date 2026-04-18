@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-asentamientos-humanos-ordenamiento-territorial-y-151472"
 country: "mx"
 rank: "ley"
 publication_date: "2021-10-02"
-last_updated: "2022-05-04"
+last_updated: "2026-04-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=151472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2022.
+ULTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2026.
 
 Ley publicada en el Folleto Anexo del Número 79 del Periódico Oficial del Estado de Chihuahua, el sábado 2 de octubre de 2021.
 
@@ -4321,6 +4321,10 @@ Las áreas de equipamiento urbano que por la aplicación de esta Ley reciba el m
 
 El Municipio no podrá ejercer actos de dominio respecto de dichas áreas de cesión gratuita, salvo que hayan transcurrido cinco años y estas ya no representen alguna utilidad para las personas residentes de la zona de que se trate. Para estos efectos, el Municipio deberá justificar su factibilidad y atender el procedimiento para la desafectación de bienes del dominio público que establece la Ley de Bienes del Estado de Chihuahua.
 
+> <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2026)</small>
+
+Lo dispuesto en el párrafo anterior no será aplicable cuando dichas áreas se destinen o enajenen a favor de dependencias o entidades de la administración pública federal, estatal o municipal, para la prestación de servicios de salud pública, educación pública y seguridad pública. En todo caso, será necesaria la aprobación del Ayuntamiento.
+
 ### CAPÍTULO SÉPTIMO. DE LOS REQUERIMIENTOS PARA LA MOVILIDAD URBANA SOSTENIBLE
 
 Diseño de la red vial
@@ -5728,3 +5732,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Los municipios, a partir de la entrada en vigor de la presente Disposición, podrán realizar las acciones y adecuaciones necesarias a sus reglamentos que permitan la correcta aplicación de este Decreto, en el ámbito de su competencia.
+
+P.O. 18 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0314/2025 I P.O., MEDIANTE EL CUAL SE ADICIONA AL ARTÍCULO 274, UN CUARTO PÁRRAFO, DE LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
