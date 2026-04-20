@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-142998"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-25"
-last_updated: "2026-04-06"
+last_updated: "2026-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2026.
 
 Ley publicada en la Sección Primera al Número 21 del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de mayo de 2020.
 
@@ -249,6 +249,14 @@ La obligatoriedad de la educación superior corresponde al Estado en los términ
 
 Además de impartir educación en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos, el Estado apoyará la investigación e innovación científica, humanística y tecnológica y alentará el fortalecimiento y la difusión de la cultura estatal, nacional y universal.
 
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2026)</small>
+
+Será prioridad del Estado el establecer de manera progresiva, políticas para garantizar la inclusión, permanencia y continuidad en todos los tipos de educación y así evitar la deserción y el abandono escolar.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2026)</small>
+
+Así mismo, se priorizará la reincorporación al sistema educativo de las niñas, niños, adolescentes y jóvenes que por alguna razón hayan desertado o abandonado sus estudios, mediante el establecimiento de políticas y programas que faciliten su reingreso.
+
 ###### Artículo 6°.
 
 La educación que imparta el Estado, en términos de lo establecido en el artículo 7 de la Ley General de Educación, además de Obligatoria será:
@@ -393,21 +401,21 @@ XXXIII. Garantizar el acceso a la educación básica y media superior, aun cuand
 
 Las autoridades educativas ofrecerán opciones que faciliten la obtención de los documentos referidos en el párrafo anterior; así como, en el caso de la educación básica y media superior, la ubicación por grado, ciclo escolar o nivel educativo que corresponda, conforme a la edad, desarrollo evolutivo, cognoscitivo y madurez, y, en su caso, saberes que previa evaluación demuestren los educandos. De igual forma, las autoridades educativas promoverán acciones similares para el caso de la educación superior;
 
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2026)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE ABRIL DE 2026)</small>
 
 XXXIV. Celebrar acuerdos de colaboración que garanticen la higiene bucodental a niños, niñas y adolescentes, con las instancias correspondientes;
 
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2026)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 20 DE ABRIL DE 2026)</small>
 
 XXXV. Fomentar y promover en el ámbito de su competencia la educación para madres y padres de familia o tutores, que tengan la guarda y custodia de niñas, niños o adolescentes, a efecto de que puedan continuar con su educación o puedan terminarla a nivel profesional, para lo cual, se realizarán convenios y se incentivará a las entidades de educación superior a otorgar becas y estímulos para que madres y padres de familia o tutores terminen sus estudios a nivel profesional;
 
-> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2026)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE ABRIL DE 2026)</small>
 
-XXXVI. Promover el desarrollo de programas de prevención de riesgos y accidentes, conocimiento en primeros auxilios, la educación vial, campañas de salubridad y seguridad escolar; y
+XXXVI. Garantizar que las niñas, niños y adolescentes con necesidades educativas especiales sean atendidos de manera adecuada a sus propias condiciones con equidad social incluyente y con perspectiva de género con el fin de garantizar la satisfacción de sus necesidades de aprendizaje; y
 
-> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2026)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 20 DE ABRIL DE 2026)</small>
 
-XXXVII. Velar por que en el interior de los planteles educativos se evite la introducción y consumo de sustancias psicoactivas o productos similares que puedan perjudicar la salud de la persona educanda. De igual forma, prevenir la introducción y portación de cualquier tipo de objeto que pueda ser utilizado para atentar o poner en riesgo la integridad física de la comunidad escolar. Lo anterior se deberá realizar bajo esquemas que respeten los derechos humanos de las personas educandas, justificando las medidas que deban considerarse a fin de salvaguardarlos. Además la autoridad educativa podrá realizar convenios de coordinación con las autoridades competentes, el sector privado y social para su cumplimiento.
+XXXVII. Establecer mecanismos que favorezcan la movilidad escolar de las niñas, niños y adolescentes con base en los lineamientos para la evaluación diagnóstica, los modelos pedagógicos y los mecanismos de acreditación y certificación necesarios, atendiendo al nivel educativo correspondiente.
 
 ###### Artículo 10.
 
@@ -422,6 +430,22 @@ Las becas se destinarán a alumnos de educación básica, media y superior, los 
 II. Un Sistema Estatal para el Fortalecimiento de la Educación Media Superior y Superior, integrado por personas al servicio de la educación, organismos públicos del sector educativo, maestras y maestros que se desempeñen en los niveles de dichos tipos educativos y demás elementos educativos que sean determinados mediante la normatividad que para tal efecto emita el Titular del Poder Ejecutivo, con el objeto de fortalecer la calidad educativa mediante la planeación, programación, organización y supervisión de los servicios educativos que brindan las Instituciones de Educación Media Superior y Superior; y
 
 III. Otros organismos que las autoridades estatales o municipales decidan crear para coadyuvar al logro de la excelencia y equidad educativa.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2026)</small>
+
+###### Artículo 10 Bis.
+
+En el caso de personas con características especiales que no puedan ser atendidas por el sistema escolarizado convencional, el Instituto instrumentará modelos educativos complementarios o suplementarios que permitan ofrecer servicios educativos, entre otros a:
+
+I. Habitantes de localidades pequeñas o dispersas;
+
+II. Niñas, niños, adolescentes y jóvenes migrantes;
+
+III. Personas que han desertado o no han tenido acceso a la educación obligatoria;
+
+IV. Personas con requerimientos de educación especial o en condiciones de vulnerabilidad; y
+
+V. Niñas, niños y adolescentes en situación hospitalaria.
 
 ## TÍTULO SEGUNDO. DE LA NUEVA ESCUELA MEXICANA
 
@@ -2708,6 +2732,14 @@ SEGUNDO. El Instituto de Educación de Aguascalientes deberá emitir, en un plaz
 P.O. 6 DE ABRIL DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 430.- SE REFORMA LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 20 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 436.- SE REFORMA LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES".]
 
 ###### ARTÍCULO ÚNICO.
 
