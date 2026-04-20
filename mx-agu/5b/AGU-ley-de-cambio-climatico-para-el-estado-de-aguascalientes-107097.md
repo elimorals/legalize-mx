@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-cambio-climatico-para-el-estado-de-aguascalientes-107097
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-06"
-last_updated: "2025-06-30"
+last_updated: "2026-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107097&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 6 de abril de 2015.
 
@@ -231,9 +231,17 @@ XVI. Convenir con los sectores social y privado la realización de acciones e in
 
 XVII. Gestionar y administrar fondos estatales para apoyar e implementar las acciones en la materia, así como llevar a cabo acciones, en el ámbito de su competencia, para el diseño y aplicación de instrumentos económicos, fiscales, financieros y de reconocimiento social vinculados a un medio ambiente sano;
 
-XVIII. Vigilar, en el ámbito de su competencia, el cumplimiento de esta ley y los demás ordenamientos que de ella se deriven, así como sancionar su incumplimiento; y
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2026)</small>
 
-XIX. Las demás que les señalen esta Ley y otras disposiciones jurídicas aplicables.
+XVIII. Vigilar, en el ámbito de su competencia, el cumplimiento de esta ley y los demás ordenamientos que de ella se deriven, así como sancionar su incumplimiento;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ABRIL DE 2026)</small>
+
+XIX. Formular, promover y coordinar, en el ámbito de sus atribuciones y en apego a la normatividad federal y estatal aplicable, la gestión técnica de recursos financieros no reembolsables provenientes de cooperación nacional e internacional, destinados a proyectos de mitigación y adaptación al cambio climático; así como participar como instancia ejecutora en programas financiados por mecanismos internacionales, sin que ello implique facultad para contratar deuda pública, celebrar financiamientos, comprometer ingresos futuros del Estado o invadir atribuciones de la Secretaría de Finanzas o del Congreso del Estado; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE ABRIL DE 2026)</small>
+
+XX. Las demás que les señalen esta Ley y otras disposiciones jurídicas aplicables.
 
 ###### Artículo 7º.
 
@@ -1036,3 +1044,15 @@ La Comisión intergubernamental de Cambio Climático deberá expedir el Reglamen
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 20 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 449.- SE REFORMA LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+– La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+– La Secretaría de Sustentabilidad, Medio Ambiente y Agua contará con 180 días a la entrada en vigor del presente Decreto para modificar su normatividad jurídica, a fin de adaptarla a lo dispuesto por lo establecido en el mismo.
