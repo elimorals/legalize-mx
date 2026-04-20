@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-juventud-del-estado-de-aguascalientes-113815"
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-04"
-last_updated: "2025-09-22"
+last_updated: "2026-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,477 +21,453 @@ state: "AGU"
 ---
 # LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES
 
-LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2025.
+LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS
 
-Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 4 de abril de 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2018.
 
-CARLOS LOZANO DE LA TORRE, Gobernador Constitucional del Estado de Aguascalientes, a sus habitantes sabed:
+Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el jueves 27 de diciembre de 2007.
 
-Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
+EUGENIO HERNANDEZ FLORES, Gobernador Constitucional del Estado Libre y Soberano de Tamaulipas, a sus habitantes hace saber:
 
-La LXII Legislatura del Congreso del Estado Libre y Soberano de Aguascalientes, en virtud de su función y facultad constitucional, ha tenido a bien expedir el siguiente:
+Que el Honorable Congreso del Estado, ha tenido a bien expedir el siguiente Decreto:
 
-Decreto Número 326
+Al margen un sello que dice: - "Estados Unidos Mexicanos.- Gobierno de Tamaulipas.- Poder Legislativo.
+
+LA QUINCUAGESIMA NOVENA LEGISLATURA DEL CONGRESO CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE TAMAULIPAS, EN USO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTICULOS 58 FRACCION I DE LA CONSTITUCION POLITICA LOCAL; Y 119 DE LA LEY SOBRE LA ORGANIZACION Y FUNCIONAMIENTO INTERNOS DEL CONGRESO DEL ESTADO DE TAMAULIPAS, TIENE A BIEN EXPEDIR EL SIGUIENTE:
+
+D E C R E T O No. LIX-1086
+
+MEDIANTE EL CUAL SE EXPIDE LA LEY DE SEGURIDAD PUBLICA PARA EL ESTADO DE TAMAULIPAS.
 
 ## TITULO PRIMERO. DE LA SEGURIDAD PUBLICA
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPITULO UNICO. DISPOSICIONES GENERALES
 
-###### ARTÍCULO 1°.
+###### ARTICULO 1.
 
-La presente Ley es de orden público, interés social y observancia general en el Estado; su objeto es establecer, fomentar y garantizar el ejercicio de los derechos de los Jóvenes así como definir las políticas públicas dirigidas a la Juventud.
+1. La presente ley es de orden público e interés social, con observancia general en el Estado de Tamaulipas, reglamentaria del artículo 21 constitucional en lo relativo a la seguridad pública a cargo de los Estados y los Municipios en sus respectivas competencias.
 
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2021)</small>
+2. Para los efectos de esta ley, la seguridad pública constituye el conjunto de programas, principios y ámbitos, a través de los cuales el Estado ejerce sus atribuciones operativas y técnicas, que redundan en la prevención, vigilancia, control y protección de los residentes del Estado contra cualquier acción criminal que pudiera ponerles en peligro o amenaza, a fin de garantizar el pleno goce y disfrute de sus derechos y libertades, privilegiándose la preservación armónica de la convivencia y el fomento de la cohesión social.
 
-###### ARTÍCULO 2°.
+3. La presente ley tiene por objeto:
 
-Son derechos de los jóvenes los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Aguascalientes, los tratados internacionales en los que el Estado Mexicano sea parte y demás ordenamientos aplicables.
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2012)</small>
 
-Queda prohibida toda discriminación motivada por origen étnico o nacional, sexo, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias sexuales, estado civil o cualquier otra situación personal, que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de los jóvenes o de sus padres, representantes legales o tutores.
+I. Normar la función de seguridad pública preventiva que realizan el Estado y los Municipios en las respectivas competencias que señala la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, la Ley de Coordinación del Sistema de Seguridad Pública del Estado, la presente ley y las demás disposiciones legales de la materia;
 
-> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2025)</small>
+II. Precisar las autoridades responsables de la función de seguridad pública preventiva, su organización, funcionamiento, atribuciones y obligaciones;
 
-###### Artículo 2° Bis.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
-Los principios rectores de los programas, el Consejo y las acciones de las autoridades en el Estado en materia de juventud son los siguientes:
+III. Designar las instituciones responsables de la seguridad pública preventiva, los Consejos de Desarrollo Policial, y fijar las bases del Servicio Profesional de Carrera Policial;
 
-I. Universalidad. Las políticas de juventud deberán estar dirigidas al beneficio de la totalidad de las personas jóvenes, sin distinción alguna por razón de sexo, género, etnia, origen nacional o social, edad, estado civil, ideología, creencias, orientación sexual o cualquier otra condición o circunstancia personal o social. Se reconoce la pluralidad como una característica esencial de este sector poblacional en todos estos ámbitos.
+IV. (DEROGADA, P.O. 27 DE MARZO DE 2012)
 
-II. Igualdad. Todas las personas jóvenes tienen derecho a acceder, en igualdad de condiciones, a los programas y acciones que les afecten, prestando especial atención a quienes residen en zonas rurales o se encuentren en situación de vulnerabilidad.
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2012)</small>
 
-III. Participación democrática. La juventud participará en la planificación, ejecución y evaluación de estas políticas a través del Consejo y de las instancias municipales correspondientes, conforme a los procedimientos establecidos en el reglamento respectivo.
+V. Establecer las bases de coordinación entre el Estado y los Municipios y, en su caso, con la Federación, previstas en la presente ley, tendientes a cumplir los fines de la seguridad pública;
 
-IV. Solidaridad. Se promoverán relaciones solidarias entre las juventudes y los diferentes grupos sociales, con el objetivo de superar las condiciones que generan marginación y desigualdad.
+VI. Alentar la participación de la comunidad en materia de prevención, inclusive, constituyendo los órganos o instancias auxiliares en materia de seguridad pública que se requieran;
 
-V. Identidad. Se implementarán programas y acciones orientados a conservar y fortalecer la identidad cultural del Estado de Aguascalientes, promoviendo el respeto, la transmisión y el disfrute de sus costumbres y tradiciones. Asimismo, se impulsará la integración de aportaciones externas que enriquezcan dicha identidad, favoreciendo la armonización entre los valores tradicionales y las influencias del entorno nacional e internacional, en un proceso dinámico de construcción cultural.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
-VI. Interculturalidad. Se fomentará entre las juventudes el conocimiento, aprecio y respeto por las costumbres y tradiciones de otras regiones del país y del mundo. Se promoverá el aprendizaje de lenguas extranjeras como herramienta clave para la comunicación, la movilidad y los intercambios culturales, académicos y profesionales.
+VII. Proveer lo necesario para la ejecución de las sanciones privativas y restrictivas de la libertad impuestas por los tribunales, en torno al internamiento de indiciados, procesados, sentenciados y ejecutoriados; asimismo, en lo que corresponda en tratándose de personas a quienes se atribuya la realización de una conducta tipificada como delito por las leyes penales y tenga entre doce años cumplidos y menos de dieciocho años de edad;
 
-###### ARTÍCULO 3°.
+VIII. Ejecutar las medidas impuestas por las autoridades judiciales competentes en términos de las leyes de justicia para adolescentes, por conducto de las instituciones y órganos establecidos por dichos ordenamientos y demás leyes aplicables, velando por el estricto respeto de los derechos y garantías de los adolescentes;
 
-Para efectos de esta Ley se entiende por:
+IX. (DEROGADA, P.O. 27 DE MARZO DE 2012)
 
-I. Estado: Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2018)</small>
 
-II. Ejecutivo: Poder Ejecutivo del Estado;
+X. Determinar las sanciones y estímulos a que se hagan acreedores los integrantes de las instituciones de seguridad pública preventiva, en términos de la presente ley y el Reglamento del Servicio Profesional de Carrera Policial del Estado de Tamaulipas.
 
-III. Ayuntamientos: Ayuntamientos que conforman el Estado;
+###### ARTICULO 2.
 
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
+1. La aplicación de la presente ley compete a las autoridades estatales y municipales en sus respectivos ámbitos de competencia, con base en la misma, en los reglamentos, convenios y acuerdos que suscriban y demás ordenamientos aplicables.
 
-IV. Instituto: Instituto Aguascalentense de la Juventud;
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2012)</small>
 
-V. Dependencias: Las que forman parte de la Administración Pública Estatal centralizada y paraestatal, en términos de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes;
+2. El Sistema Estatal de Seguridad se integra con las autoridades, conferencias, estrategias, programas, instrumentos, políticas, servicios y acciones previstas en la ley, tendentes a alcanzar los fines y objetivos de la seguridad pública.
 
-VI. Ley: Ley de la Juventud del Estado de Aguascalientes;
+3. Las autoridades de seguridad pública del Estado se coordinarán con la Federación y los municipios para integrar el Sistema Estatal de Seguridad Pública, y determinar las políticas y acciones que realizarán para el mejoramiento del mismo.
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+4. Al efecto, desarrollarán por sí o conjuntamente, los lineamientos, mecanismos e instrumentos para la mejor organización y funcionamiento de las dependencias e instituciones policiales.
 
-VII. Jóvenes: Mujeres y hombres cuya edad esté comprendida entre los 12 y 29 años;
+5. Igualmente, integrarán los mecanismos de información del Sistema Estatal y los datos que deban incorporarse al mismo, manteniéndolos debidamente actualizados.
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2012)</small>
 
-VIII. Juventud: Sector de Jóvenes en el Estado;
+###### ARTICULO 3.
 
-> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2017)</small>
+1. Para los efectos de esta ley, la seguridad pública es una función a cargo del Estado y sus Municipios que tiene como fines salvaguardar la integridad y derechos de las personas, y preservar las libertades, el orden y la paz públicos, y comprende la prevención especial y general de los delitos, la sanción de las infracciones administrativas y la reinserción social del individuo, que se realizará en los diversos ámbitos de competencia por conducto de las instituciones policiales, de las instancias encargadas de aplicar las infracciones administrativas, de los responsables de la prisión preventiva y ejecución de penas, de las autoridades competentes en materia de justicia para adolescentes y para brindar auxilio y protección a la población en caso de accidentes, desastres o cualquier contingencia que atente contra la seguridad de los individuos.
 
-IX. Consejo: Consejo Estatal de la Juventud de Aguascalientes; y
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2018)</small>
 
-> <small>(ADICIONADA, P.O. 3 DE JULIO DE 2017)</small>
+2. El servicio de seguridad pública estatal en la entidad se regirá por lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, la Ley General del Sistema Nacional de Seguridad Pública, la Ley Orgánica de la Administración Pública del Estado de Tamaulipas, la Ley de Coordinación del Sistema de Seguridad Pública del Estado, esta ley, el Reglamento Interior de la Secretaría de Seguridad Pública, el Reglamento del Servicio Profesional de Carrera Policial del Estado de Tamaulipas y las demás disposiciones jurídicas aplicables.
 
-X. Dependencia Municipal: Las áreas municipales encargadas de la atención a la juventud.
+###### ARTICULO 4.
 
-###### ARTÍCULO 4°.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2012)</small>
 
-Es responsabilidad del Ejecutivo y de los Ayuntamientos integrar en su Plan Sexenal de Gobierno del Estado o en sus Planes de Desarrollo Municipal según corresponda, proyectos y acciones en beneficio de la Juventud.
+1. Las autoridades estatales y municipales de seguridad pública instrumentarán acciones de evaluación en los procesos de selección de aspirantes, permanencia, depuración, desarrollo y la promoción de los integrantes de las instituciones de seguridad pública, además de la modernización de infraestructura, del equipo y de sus recursos técnicos; así como la generación de información actualizada sobre seguridad pública, que permitan realizar programas conjuntos entre los tres órdenes de gobierno, en materia de prevención y de persecución de delitos en flagrancia.
 
-> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2018)</small>
+2. Es obligación y responsabilidad de los titulares de las instituciones de seguridad, integrar una base de datos que contenga la totalidad de los incidentes de su incumbencia, aprovechando al efecto los avances de la tecnología.
 
-###### ARTÍCULO 5°.
+3. Toda información se conservará de manera permanente e institucional, adicionándole nuevos elementos conforme se requiera.
 
-Serán autoridades competentes para elaborar políticas públicas para la Juventud y ejecutoras en materia de la presente Ley, el Ejecutivo, el Consejo, el Instituto y los Ayuntamientos.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2012)</small>
 
-> <small>(REFORMADO, P.O. 3 DE JULIO DE 2017)</small>
+###### ARTICULO 5.
 
-###### ARTÍCULO 6°.
+El Estado y los Municipios, de acuerdo con sus propios recursos, procurarán alcanzar los fines de la seguridad pública, combatiendo las causas que generan la comisión de delitos y conductas antisociales, mediante la formulación, desarrollo e instrumentación de programas y acciones para fomentar en la sociedad valores culturales, cívicos, deportivos y de sano esparcimiento que induzcan el respeto a los derechos fundamentales, a la legalidad y a la protección de las víctimas.
 
-Para la planeación, ejecución, e implementación de las políticas públicas en materia de Juventud las autoridades competentes se auxiliarán del Consejo, las dependencias estatales y/o municipales según corresponda.
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2012)</small>
 
-###### ARTÍCULO 7°.
+###### ARTICULO 6.
 
-En las acciones que se ejecuten para dar cumplimiento a esta Ley, se dará atención prioritaria a los Jóvenes que se encuentren en alguno de los siguientes supuestos:
+El titular del Ejecutivo Estatal o quien éste designe, y los Presidentes Municipales podrán celebrar entre sí, o con el Gobierno Federal, con otros poderes del Estado, con otros Gobiernos Estatales o Municipales del país, con personas físicas o morales, públicas o privadas, los convenios o acuerdos que el interés general requiera para la mejor prestación de la función de seguridad pública, conforme a lo dispuesto por el artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, la Ley General del Sistema Nacional de Seguridad Pública, esta ley y cualquier otra disposición legal de la materia.
 
-I. Embarazadas;
+###### ARTICULO 7.
 
-II. Madres o padres de familia monoparental;
-
-III. Con problemas de drogadicción y/o alcoholismo;
-
-IV. Sufrir alguna clase de pobreza según los lineamientos y criterios establecidos por el Consejo Nacional de Evaluación de la Política de Desarrollo Social;
-
-V. Personas con discapacidad;
-
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
-
-VI. Sufrir alguna enfermedad crónica;
-
-> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
-
-VII. Víctimas de delitos o de violaciones de sus derechos humanos; y
-
-> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2019)</small>
-
-VIII. Con problemas de salud mental y/o trastornos mentales.
+El Estado y los Municipios se coordinarán entre sí y con la Federación para la observancia general de los fines de esta ley y demás ordenamientos aplicables, integrándose a los Sistemas Nacional y Estatal de Seguridad Pública, a través de las instancias, programas, instrumentos, políticas, servicios y acciones que correspondan.
 
 ## TITULO SEGUNDO. DE LAS AUTORIDADES
 
-### CAPÍTULO II. De los Derechos de los Jóvenes
+### CAPITULO I. AUTORIDADES ESTATALES Y MUNICIPALES
 
-###### ARTÍCULO 8°.
+###### ARTICULO 8.
 
-Los jóvenes tienen derecho a:
+Son autoridades estatales en materia de seguridad pública:
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2025)</small>
+I. El Gobernador del Estado;
 
-I. Un desarrollo pleno, asegurando su bienestar físico, emocional e intelectual, con el fin de que puedan integrarse activamente en la vida social, con la madurez y responsabilidad necesarias para participar en las decisiones y acciones que afectan a su comunidad;
+II. (DEROGADA, P.O. 27 DE MARZO DE 2012)
 
-II. Expresar libremente sus ideas y opiniones salvo que representen ataques a la moral, a la vida privada o derechos de los terceros, provoquen algún delito o perturben el orden público;
+III. El Secretario de Seguridad Pública;
 
-III. Recibir asesoría y asistencia jurídica;
+IV. El Secretario General de Gobierno;
 
-IV. Desarrollarse en un ambiente libre de violencia, así como recibir protección para salvaguardar su integridad física y psicológica;
+V. El Procurador General de Justicia;
 
-V. Ser tratados con igualdad, sin sufrir alguna forma de discriminación, gozando de la protección que para el efecto prevén la Ley para Prevenir y Erradicar la Discriminación del Estado de Aguascalientes, el Código Penal para el Estado de Aguascalientes y demás disposiciones aplicables;
+VI. El Secretario Ejecutivo del Consejo Estatal de Seguridad Pública;
 
-VI. Ser integrados a la vida social, de tal forma que tengan acceso a los servicios públicos como sujetos de derechos y oportunidades que les garanticen mejor calidad de vida, especialmente a aquellos Jóvenes que se encuentren en alguno de los supuestos referidos en el Artículo 7° de la presente Ley;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
-VII. Acceder a los servicios de educación y capacitación que les permitan un desarrollo académico y laboral óptimo y equitativo;
+VII. El Subsecretario de Ejecución de Sanciones y Reinserción Social;
 
-VIII. Participar en el diseño e implementación de las políticas públicas a través de los canales que para ello establezcan y difundan las autoridades competentes;
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2012)</small>
 
-IX. A recibir atención cuando sean víctimas de un delito y a recibir trato digno cuando ellos cometan violaciones a la normatividad;
+VIII. El Subsecretario de Operación Policial;
 
-X. Recibir información preventiva en materia de embarazos no deseados, enfermedades de transmisión sexual, adicciones, nutrición, atención a su salud física y psicológica;
+IX. El Director de la Policía Ministerial;
 
-XI. Oportunidades de empleo en condiciones equitativas en los sectores público y privado con igualdad, sin sufrir ninguna forma de discriminación;
+X. El Director de Reintegración Social y Familiar del Adolescente;
 
-XII. Acceder a espacios recreativos y culturales, garantizando la libertad de expresión, manifestación artística y respetando la diversidad de ideologías, así como a practicar cualquier deporte y actividad física;
+XI. (DEROGADA, P.O. 27 DE MARZO DE 2012)
 
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
+> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-XIII. Recibir información, asesoría y capacitación gratuita por parte del Instituto o de las instancias de gobierno competentes, así como en su caso, de las dependencias municipales para el desarrollo de proyectos productivos basados en una cultura de emprendimiento;
+XII. Rector de la Universidad de Seguridad y Justicia de Tamaulipas; y
 
-> <small>(REFORMADA, P.O. 2 DE JUNIO DE 2025)</small>
+XIII. Las demás que con ese carácter determine la ley.
 
-XIV. Recibir talleres de educación y participación cívica, salvo en el período de las precampañas, campañas electorales y hasta la jornada electoral;
+###### ARTICULO 9.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE JUNIO DE 2025)</small>
+Son autoridades municipales en materia de seguridad pública:
 
-XV. Participar libremente y en condiciones de igualdad en el ámbito político del Estado; y
+I. Los Ayuntamientos;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE JUNIO DE 2025)</small>
+II. Los Presidentes Municipales;
 
-XVI. Los demás que les reconozcan otras disposiciones legales o reglamentarias.
+III. Los Síndicos, en funciones de Ministerio Público;
 
-###### ARTÍCULO 9°.
+IV. Los Directores de Seguridad Pública Municipal;
 
-Las políticas públicas dirigidas a la Juventud son estrategias integrales con enfoque multidisciplinario, diseñadas e implementadas por las autoridades facultadas en la presente Ley dentro de sus respectivos ámbitos competenciales. Su objeto es garantizar el cumplimiento de los derechos de los Jóvenes e impulsar el desarrollo de sus capacidades, que, de forma enunciativa y no limitativa, comprenden las siguientes acciones:
+V. Los titulares de cada institución policial que hubiere;
 
-I. Ofrecer estímulos para la adquisición de bienes y servicios;
+VI.- (DEROGADA, P.O. 27 DE MARZO DE 2012)
 
-II. Promover los principios de responsabilidad y superación personal;
+VII.- (DEROGADA, P.O. 27 DE MARZO DE 2012)
 
-III. Garantizar que se respete el derecho a la libre expresión de los Jóvenes fomentando al mismo tiempo el respeto hacia otras formas de pensar;
+VIII. Las demás que determinen con ese carácter las disposiciones jurídicas aplicables.
 
-IV. Priorizar la atención a Jóvenes que se encuentren en alguno de los supuestos referidos en el Artículo 7° de la presente Ley, con la finalidad de que sean reconocidos como miembros activos de la sociedad;
+###### ARTICULO 10.
 
-V. Ofrecer terapia ocupacional y orientación psicológica, a fin de prevenir conductas juveniles riesgosas;
+Las autoridades estatales y municipales de seguridad pública podrán disponer por sí, o coordinadamente, la ejecución de acciones con el fin de preservar o restablecer el orden público y la paz social que el interés general demande, y de garantizar la integridad física de las personas, sus bienes y sus derechos.
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2017)</small>
+### CAPITULO II. DE LAS FACULTADES Y OBLIGACIONES DE LAS AUTORIDADES
 
-VI. Crear y aprovechar espacios de recreación, arte y cultura en los que sea posible la exhibición de proyectos personales, talentos y habilidades, su difusión y el intercambio cultural a nivel nacional e internacional. Se procurará el acceso gratuito de los Jóvenes en todo evento;
+###### ARTICULO 11.
 
-VII. Vincular a la población estudiantil con las autoridades competentes en materia de Juventud, de tal forma que se impulsen apoyos para este sector;
+> <small>(REFORMADO, P.O. 27 DE MARZO DE 2012)</small>
 
-> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
+1. El Gobernador del Estado tendrá en todo momento el mando de las instituciones policiales estatales y municipales en donde resida habitual o transitoriamente. Al efecto, los titulares de las diversas instituciones de seguridad se asegurarán y serán responsables de su estricto cumplimiento.
 
-Para tal efecto el Estado deberá crear mecanismos y programas que fomenten la capacitación, desarrollo de habilidades y talentos de todos los jóvenes, los cuales podrán ser impartidos por el Instituto de Capacitación para el Trabajo del Estado de Aguascalientes;
+2. La policía preventiva y de tránsito municipales estarán bajo el mando del Presidente Municipal.
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+Aquellas acatarán las órdenes que el Gobernador del Estado les transmita en los casos que éste juzgue como de fuerza mayor o alteración grave del orden público.
 
-VIII. Promover créditos financieros para el desarrollo (sic) proyectos productivos, creativos o académicos, así como estímulos fiscales y capacitación para los jóvenes emprendedores;
+3. Previa determinación de los Ayuntamientos, las instituciones de policía preventiva y de tránsito municipales, podrán integrar un sólo cuerpo policial, con la amplitud de las atribuciones que les son propias, denominándose policía municipal.
 
-IX. Implementar acciones para que la Juventud se integre a actividades deportivas y de recreación de acuerdo a sus intereses personales;
+4. Para los efectos del párrafo anterior, bastará la simple determinación del Cabildo para que un sólo cuerpo policial realice tanto las funciones de policía, como las de tránsito preventivo municipal.
 
-X. Promover entre los Jóvenes por medio del sistema educativo estatal, el respeto y la preservación del medio ambiente aprovechando de manera racional los recursos naturales;
+###### ARTICULO 12.
 
-XI. Generar información para la mejor implementación, desarrollo y evaluación de las políticas públicas;
+Son facultades y obligaciones del Gobernador del Estado:
 
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2018)</small>
+I. Velar por la preservación del orden y la paz públicos, y por la seguridad interior del Estado;
 
-XII. Impulsar la cultura de la libre información en los Jóvenes que sea útil para la toma de decisiones;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+II. Vigilar el estricto cumplimiento de la presente ley;
 
-XIII. Promover la inclusión laboral de jóvenes con discapacidad, basada en habilidades y competencias laborales;
+III. Participar en el Consejo Nacional de Seguridad Pública;
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2025)</small>
+IV. Presidir el Consejo Estatal de Seguridad Pública;
 
-XIV. Promover la inclusión de los jóvenes en los proyectos de labor social y comunitaria;
+V. Establecer las políticas de seguridad pública de la entidad;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ABRIL DE 2025)</small>
+VI. Suscribir convenios de coordinación con los poderes del Estado, autoridades federales, de Entidades Federativas, de municipios y de organismos e instituciones públicas, privadas y sociales, por sí o por conducto del Secretario de Seguridad Pública;
 
-XV. Generar en conjunto con las autoridades en materia electoral, mecanismos y programas que favorezcan la participación de las juventudes en la vida democrática del Estado; y
+VII. Aprobar y expedir el Programa Estatal de Seguridad Pública y los que deriven del Plan Estatal de Desarrollo;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 29 DE ABRIL DE 2025)</small>
+VIII. Ordenar la realización de acciones específicas en la entidad o en determinadas zonas de su territorio;
 
-XVI. Las demás que sean necesarias para el cumplimiento del objeto de esta Ley.
+IX. Imponer las condecoraciones a que se refiere esta ley, a través del Secretario de Seguridad Pública en el Estado;
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 3 DE JULIO DE 2017)</small>
+X. Promover una amplia participación de la comunidad en el análisis y solución de las cuestiones de seguridad pública;
 
-###### ARTÍCULO 10.
+XI. Autorizar a particulares, por conducto de la Secretaría de Seguridad Pública, para que presten servicios privados de seguridad en los términos de la Ley para Regular los Servicios Privados de Seguridad en el Estado; y
 
-El Ejecutivo tiene las siguientes atribuciones:
+XII. Las demás que le señalen las disposiciones constitucionales, legales y reglamentarias aplicables.
 
-I. Garantizar el pleno ejercicio de los derechos de los Jóvenes establecidos en esta Ley;
+###### ARTICULO 13.
 
-II. Asegurar la implementación de los programas dirigidos a la Juventud, los cuales deberán contener las acciones establecidas en esta ley;
+Son facultades y obligaciones del Secretario de Seguridad Pública:
 
-III. Coordinar la colaboración interinstitucional para la elaboración, implementación y revisión de las políticas públicas en materia de Juventud;
+I. Desarrollar las políticas de seguridad pública y proponer en el ámbito estatal los criterios para prevenir eficazmente la comisión de delitos, mediante la adopción de normas, acciones, estrategias y tácticas, así como la conjunción de los recursos a disposición del Ejecutivo del Estado;
 
-IV. Incluir en el Plan Sexenal y en los programas de Gobierno del Estado, directrices y acciones dirigidas a la Juventud;
+II. Diseñar y ejecutar programas para fomentar la cultura de legalidad;
 
-V. Promover entre las Dependencias la no discriminación a los Jóvenes;
+III. (DEROGADA, P.O. 27 DE MARZO DE 2012)
 
-VI. Propiciar el desarrollo de organizaciones civiles de Jóvenes legalmente constituidas;
+IV. Proponer al Gobernador del Estado las medidas que garanticen la congruencia de la política de prevención eficaz de los delitos entre las dependencias de la administración pública;
 
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2018)</small>
+V. Participar en representación del Gobierno del Estado en el Sistema Nacional de Seguridad Pública;
 
-VII. Facilitar los medios y los recursos necesarios para el cumplimiento de programas a favor de la Juventud;
+VI. Participar, conforme a lo establecido en la ley de la materia, en el Consejo Estatal de Seguridad Pública;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE NOVIEMBRE DE 2018)</small>
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2012)</small>
 
-VIII. Estimular la cultura y formación emprendedora de los jóvenes, así como las iniciativas productivas de la juventud, favoreciendo su incorporación al mercado y economía regional;
+VII. Proponer políticas, acciones y estrategias de coordinación estatal en materia de prevención del delito, al tiempo de alentar la coordinación regional en la materia;
 
-> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2018)</small>
+VIII. Fomentar la participación ciudadana en la elaboración de programas de prevención del delito;
 
-IX. Promover el desarrollo productivo de las micros y pequeñas empresas innovadoras, creativas y competitivas, con participación mayoritaria de jóvenes;
+IX. Promover y facilitar la participación social para el desarrollo de actividades de vigilancia sobre el ejercicio de sus atribuciones;
 
-> <small>(ADICIONADA, P.O. 12 DE NOVIEMBRE DE 2018)</small>
+X. Atender y disponer la resolución de las denuncias y quejas ciudadanas relacionadas con el ejercicio de sus atribuciones;
 
-X. Promover la incorporación del emprendimiento en los planes y programas de estudio de la educación básica, media y superior, pública y privada, en las diferentes modalidades que se imparten en el Estado; y
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 12 DE NOVIEMBRE DE 2018)</small>
+XI. Organizar, dirigir, administrar y supervisar las instituciones preventivas de seguridad pública estatales, así como aplicar el régimen disciplinario de dichas instituciones;
 
-XI. Las demás que señalen otras disposiciones legales o reglamentarias.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE ABRIL DE 2018)</small>
+XII. Recopilar y mantener al corriente la información sobre los atributos personales, académicos y técnicos de las instituciones de seguridad pública y de los servidores públicos ministeriales;
 
-### CAPÍTULO III. De las Políticas Públicas en Materia de Juventud
+XIII. Salvaguardar la integridad y el patrimonio de las personas, prevenir la comisión de delitos del fuero común y preservar las libertades públicas, el orden y la paz sociales dictando las medidas administrativas que sean necesarias para ello;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE JUNIO DE 2025)</small>
+XIV. Establecer un sistema destinado a obtener, analizar, estudiar y procesar información para la prevención de delitos, mediante métodos que garanticen el respeto a los derechos y libertades fundamentales;
 
-###### ARTÍCULO 11.
+XV. Elaborar y difundir estudios multidisciplinarios y estadísticas sobre el fenómeno delictivo; asimismo, disponer la integración de una base de datos que contenga la totalidad de los incidentes de su incumbencia, aprovechando al efecto, los avances de la tecnología;
 
-El Instituto es la dependencia responsable de la planeación, diseño, desarrollo, implementación y evaluación de políticas públicas en materia de Juventud.
+XVI. Efectuar, en coordinación con la Procuraduría General de Justicia, estudios sobre actos delictivos no denunciados para incorporar este elemento en el diseño de las políticas de prevención de los ilícitos penales;
 
-> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2018)</small>
+XVII. Determinar y aplicar las normas y políticas de ingreso, capacitación, desarrollo y disciplina del personal responsable de funciones de seguridad pública, de acuerdo con las leyes y reglamentos vigentes;
 
-###### ARTÍCULO 12.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
-El Instituto, además de las atribuciones que le otorga la Ley del Instituto Aguascalentense de la Juventud, se encargará de proponer e impulsar políticas públicas que permitan incorporar plenamente a los Jóvenes al desarrollo del Estado; asimismo implementar, en coordinación con las dependencias de los tres órdenes de gobierno, campañas de difusión oportuna de los programas y fondos estatales que tengan por objeto el fomento y financiamiento de proyectos productivos, así como servir de vínculo entre los Jóvenes y aquellas Dependencias afines a estos programas y fondos.
+XVIII. Organizar, dirigir y administrar el servicio profesional de carrera policial de las instituciones policiales y de seguridad bajo su mando;
 
-El Instituto contará con un área especial para el control y seguimiento de la gestión y quejas que presenten los jóvenes, cuya integración y funcionamiento se regulará a fin de que las peticiones sean canalizadas ante la autoridad correspondiente o ante organismos sociales y privados, según sea el caso.
+XIX. Otorgar autorización y, en su caso, suspender o revocar el permiso conferido a empresas que presten servicios privados de seguridad, cuando los mismos se realicen exclusivamente en el territorio del Estado, así como supervisar su funcionamiento y desempeño en los términos de la Ley para Regular los Servicios Privados de Seguridad en el Estado de Tamaulipas;
 
-###### ARTÍCULO 13.
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2012)</small>
 
-Los Ayuntamientos además de formular políticas públicas y desarrollar acciones de atención a los Jóvenes en su ámbito territorial, se coordinarán con el Instituto en la planeación, diseño, implementación y evaluación de las políticas públicas con el objeto de atender a las principales demandas de los Jóvenes dentro de su esfera competencial.
+XX. Promover la celebración de convenios de colaboración con autoridades federales, de otras entidades federativas o municipales del Estado para el cumplimiento de sus atribuciones;
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2018)</small>
+XXI. Colaborar, dentro del Sistema Nacional de Seguridad Pública y a requerimiento de autoridades federales competentes, de otras entidades federativas o municipales del Estado, en la protección de la integridad física de las personas y en la preservación de sus bienes, cuando se vean amenazadas por situaciones de peligro que generen disturbios, violencia o riesgo inminente;
 
-###### ARTÍCULO 14.
+XXII. Auxiliar a los Poderes Legislativo y Judicial del Estado y a la Procuraduría General de Justicia, cuando así lo requieran para el debido ejercicio de sus funciones;
 
-Los Ayuntamientos deberán incluir en sus Planes de Desarrollo Municipal y en sus programas, las líneas de acción y objetivos para efecto de proyectar e impulsar, en su esfera competencial, proyectos productivos y empresariales de los jóvenes.
+XXIII. Ejecutar las penas por delitos del orden común y administrar el sistema penitenciario del Estado, así como organizar y dirigir las actividades de apoyo a liberados;
 
-###### ARTÍCULO 15.
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2012)</small>
 
-Cualquier persona que realice un acto u omisión que afecte derechos de los Jóvenes, tendrá responsabilidad civil o penal, según corresponda.
+XXIV. Ejecutar las medidas impuestas por las autoridades judiciales competentes en términos de las leyes de justicia para adolescentes, por conducto de las instituciones y órganos establecidos por dichos ordenamientos y demás leyes aplicables, velando por el estricto respeto de los derechos y garantías de los adolescentes;
 
-> <small>(REFORMADO, P.O. 23 DE ENERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
-###### ARTÍCULO 16.
+XXV. Implementar, dirigir y ejecutar los programas de reinserción social de los infractores de la ley penal y administrar los Centros de Ejecución de Sanciones;
 
-El servidor público que en el ejercicio de sus funciones afecte derechos de los Jóvenes, será sancionado en términos de la Ley General de Responsabilidades Administrativas y de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, sin perjuicio de la responsabilidad penal o civil en que pueda incurrir.
+XXVI. Tramitar las solicitudes de libertad anticipada y traslado de internos;
 
-T R A N S I T O R I O
+XXVII. Ser conducto para el ejercicio de la atribución del Gobernador del Estado en materia de inclusión de reos del orden común para su traslado a su país de origen con objeto de cumplir en éste la condena que les hubiere sido impuesta, conforme a lo dispuesto por el párrafo séptimo del artículo 18 de la Constitución Política de los Estados Unidos Mexicanos;
 
-###### ARTÍCULO ÚNICO.
+XXVIII. Coordinar los programas y comisiones de seguridad pública;
 
-El presente Decreto iniciará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+XXIX. Proponer al Gobernador del Estado el proyecto del Programa Estatal de Seguridad Pública;
 
-Al Ejecutivo para su promulgación y publicación.
+XXX. Evaluar el cumplimiento del Programa Estatal de Seguridad Pública y los que se deriven del Plan Estatal de Desarrollo;
 
-Dado en el Salón de Sesiones “Soberana Convención Revolucionaria de Aguascalientes”, del Palacio Legislativo, a los diez días del mes de marzo del año dos mil dieciséis.
+XXXI. Informar oportunamente al Gobernador del Estado sobre los avances y resultados del Programa Estatal de Seguridad Pública y demás acciones emprendidas en materia de seguridad pública;
 
-Lo que tenemos el honor de comunicar a usted, para los efectos Constitucionales conducentes.
+XXXII. Aprobar las normas y políticas relacionadas con el desarrollo del personal que interviene en funciones de seguridad pública;
 
-Aguascalientes, Ags., a 10 de marzo del año 2016.
+XXXIII. Administrar el porte colectivo estatal de armas y suscribir las credenciales para tal efecto, a los integrantes de las instituciones policiales referidas en los términos de la presente ley;
 
-A T E N T A M E N T E
+XXXIV. Formular a los Presidentes Municipales las recomendaciones que estime pertinentes para el mejoramiento de la seguridad pública en sus municipios;
 
-LA MESA DIRECTIVA:
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2018)</small>
 
-Dip. J. Luis Fernando Muñoz López,
+XXXV. Coadyuvar con la instancia competente en la defensa legal de los servidores públicos de la Secretaría de Seguridad Pública que, con motivo del ejercicio de sus atribuciones, se vieran implicados en asuntos jurídicos; asimismo, deberá disponer que sin demora alguna sean cubiertos en su totalidad los montos que por concepto de fianza, gastos que genere su defensa en el proceso, e inclusive, los correspondientes a la reparación del daño, si fuere el caso, con recursos de la administración estatal, sin afectar, en lo más mínimo, los recursos de los servidores públicos implicados. Al efecto, preverá lo que corresponda ante la dependencia estatal competente;
 
-PRESIDENTE.
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2012)</small>
 
-Dip. Salvador Dávila Montoya,
+XXXVI. Coordinar actividades en materia vehicular con las autoridades federales, estatales y municipales;
 
-PROSECRETARIO EN FUNCIONES DE PRIMER SECRETARIO
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2012)</small>
 
-(Artículo 112 del Reglamento de la Ley Orgánica del Poder Legislativo).
+XXXVII. Coordinar las tareas de vigilancia, con el apoyo de la Secretaría de Desarrollo Urbano y Medio Ambiente, tendentes a prevenir y combatir las acciones que afecten el medio ambiente y los recursos naturales en el Estado, en especial la cacería furtiva, la afectación de la actividad cinegética, el uso inadecuado del agua y la disposición de materiales o residuos en lugares no autorizados para ello; así como vigilar la observancia y cumplimiento de las disposiciones establecidas en los ordenamientos en materia ambiental y desarrollo sustentable del Estado;
 
-Dip. María de Lourdes Dávila Castañeda,
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2012)</small>
 
-SEGUNDA SECRETARIA.
+XXXVIII. Participar e impulsar las acciones que se acuerden en la Conferencia Nacional de Secretarios de Seguridad Pública;
 
-En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 31 de marzo de 2016.- Carlos Lozano de la Torre.- Rúbrica.- Lic. Alejandro Bernal Rubalcava, en suplencia del Secretario General de Gobierno por ministerio de Ley. Rúbrica.
+> <small>[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO No. LXI-586, PUBLICADO EN EL P.O. 18 DE DICIEMBRE DE 2012, TODA MENCIÓN, O REFERENCIA QUE SE HAGA DE LA "SUBSECRETARÍA DE REINSERCIÓN SOCIAL Y DE LA COORDINACIÓN GENERAL DE REINSERCIÓN SOCIAL Y EJECUCIÓN DE SANCIONES O DE SUS TITULARES", EN CUALQUIER DISPOSICIÓN JURÍDICA DEL ESTADO, SE ENTENDERÁ HECHA A LA "SUBSECRETARÍA DE EJECUCIÓN DE SANCIONES Y REINSERCIÓN SOCIAL Y A SU TITULAR, EL SUBSECRETARIO DE EJECUCIÓN DE SANCIONES Y REINSERCIÓN SOCIAL".]</small>
 
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2012)</small>
 
-P.O. 3 DE JULIO DE 2017.
+XXXIX. Coordinar e impulsar, a través del titular de la Subsecretaría de Reinserción Social del Estado, las acciones que se acuerden en la Conferencia Nacional del Sistema Penitenciario;
+
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2012)</small>
+
+XL. Proponer al Consejo Estatal, los Presidentes Municipales que deban participar en la Conferencia Nacional de Seguridad Pública;
+
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2012)</small>
+
+XLI. Vigilar el estricto cumplimiento de esta ley y demás disposiciones que de ella deriven; y
+
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2012)</small>
+
+XLII. Las demás que le señalen las leyes, reglamentos y otras disposiciones jurídicas, así como las que le encomiende el Gobernador del Estado.
+
+###### ARTICULO 14.
+
+Son facultades y obligaciones de los Ayuntamientos:
+
+I. Garantizar en el ámbito de su competencia, las libertades y derechos de las personas, preservar el orden y la paz públicos, expidiendo al efecto los reglamentos, bandos de policía y buen gobierno y demás disposiciones administrativas de observancia general en materia de seguridad pública;
+
+II. Disponer la realización de un análisis de las condiciones, características y circunstancias imperantes en su Municipio en materia de seguridad pública, para que con apoyo en los programas estatales, regionales o municipales de la materia, se establezcan políticas y lineamientos para garantizar la seguridad y tranquilidad de los habitantes. La implementación de estrategias deberá tener continuidad y seguimiento institucional, independientemente de la conclusión del periodo constitucional del que se trate, sin demérito de que se incluyan adiciones o se incorporen nuevos mecanismos que optimicen los servicios de seguridad, previo acuerdo del Ayuntamiento en funciones;
+
+III. Suscribir convenios en materia de seguridad pública preventiva con el Gobierno del Estado, otros Municipios, y organismos e instituciones de los sectores público, social y privado;
+
+IV. Aprobar los programas de seguridad pública municipales y, en su caso, interregionales, y participar en su elaboración en el orden estatal;
+
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2012)</small>
+
+V.- Promover la participación de la sociedad en el análisis y solución de los problemas de la seguridad pública, a través de las instancias municipales de participación ciudadana;
+
+VI. Nombrar al Director de Seguridad Pública Municipal, previa consulta de los antecedentes del aspirante en el Registro de Personal de Seguridad Pública a que se refiere esta ley, y que avalen su propuesta. Asimismo, nombrar a todo aquel que realice labores directivas técnicas, operativas o administrativas, adscrito, dependiente o vinculado a las tareas de seguridad;
+
+VII. Solicitar al Secretario de Seguridad Pública del Estado las credenciales para el porte de arma de los integrantes de las instituciones preventivas de seguridad pública municipal; y
+
+VIII. Las demás que le señalen las disposiciones constitucionales, legales y reglamentarias aplicables.
+
+###### ARTICULO 15.
+
+Son facultades y obligaciones de los Presidentes Municipales:
+
+I. Asumir el mando y la responsabilidad de las instituciones municipales de seguridad pública;
+
+II. Participar en las sesiones del Consejo Estatal de Seguridad Pública;
+
+III. Presidir el Consejo Municipal de Seguridad Pública;
+
+IV. Formular, proponer y ejecutar el Programa de Seguridad Pública Municipal;
+
+V. Ejecutar los acuerdos y convenios que se suscriban en materia de seguridad pública;
+
+VI. Proponer al Ayuntamiento el nombramiento de los titulares de la Dirección de Seguridad Pública Municipal, de la Policía Preventiva y de Tránsito y Vialidad, previa consulta de los antecedentes del aspirante en el Registro de Personal de Seguridad Pública a que se refiere esta ley, y que avalen su propuesta; asimismo, hará lo propio en tratándose de cualquier otro cargo directivo, ya sea operativo, técnico o administrativo, adscrito, dependiente o vinculado a las tareas de seguridad pública;
+
+VII. Autorizar altas, bajas y cambios de adscripción del personal de las instituciones municipales de seguridad pública, así como aplicar sanciones administrativas por faltas a esta ley o a los reglamentos respectivos, informando de ello a la Secretaría de Seguridad Pública y a la Unidad de Enlace Informático del Secretariado Ejecutivo del Consejo Estatal de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+VIII. Establecer, actualizar y fortalecer el Registro Municipal del Personal de las Instituciones Preventivas de Policía y Tránsito. Dicho Registro contendrá: los datos generales de identificación del servidor público; sus huellas dactilares; fotografías de frente y de perfil; tipo sanguíneo; de ser el caso, las señas particulares que tuviera; datos de escolaridad y antecedentes laborales; condecoraciones, estímulos y, en su caso, sanciones merecidas; cursos de actualización recibidos; y, en general, toda información que permita una exacta identificación del servidor público. Igualmente, la información general de su familia y amistades;
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+IX. Vigilar que los titulares de las instituciones municipales de seguridad pública invariablemente consulten los antecedentes de todo aspirante a ingresar a éstas, ante el Registro de Personal de Seguridad Pública, de cuya información dependerá su ingreso. No se autorizará el ingreso a quien tenga antecedentes penales por delito doloso o por mala fama, o hubiese sido dado de baja de otra institución policial o por no aprobar las evaluaciones de control y confianza;
+
+X. Presentar mensualmente o cuando lo solicite, un informe a la Secretaría de Seguridad Pública con los resultados de las investigaciones que contengan los elementos generales criminógenos, las zonas e incidencias en la comisión de delitos en su territorio, para integrar la estadística delictiva y, además, para adoptar las medidas preventivas necesarias, aprehender en flagrancia y evitar las faltas a los ordenamientos jurídicos;
+
+XI. Determinar la realización de operativos especiales de vigilancia en zonas que por su incidencia delictiva lo requieran;
+
+XII. Adoptar las acciones correctivas en caso de funcionamiento insuficiente o ineficiente de las instituciones municipales de seguridad pública;
+
+XIII. Optimizar el uso de los recursos federales, estatales y municipales que se autoricen en su presupuesto anual, para la adquisición y mantenimiento de equipos, armamento, vehículos e infraestructura que requieran las instituciones de seguridad pública a su cargo, debiendo utilizarse única y exclusivamente en el fortalecimiento de las tareas de seguridad pública, siendo responsable del adecuado destino de dichos recursos;
+
+XIV. Informar oportunamente al Gobernador del Estado sobre alteraciones graves del orden público o de la tranquilidad social en su Municipio;
+
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2012)</small>
+
+XV.- Integrar el Consejo de Desarrollo Policial en los términos de la ley, y vigilar que cumpla sin demora y con apego a la legislación, con las labores a su cargo instruyéndose los procesos interpuestos ante dicho órgano;
+
+XVI. Auxiliar a las autoridades federales y estatales de seguridad pública, cuando sea requerido;
+
+XVII. Ejercer las atribuciones que le confiere la Ley para Regular los Servicios Privados de Seguridad en el Estado, respecto de las autorizaciones y demás trámites administrativos relativos a la prestación de servicios privados de seguridad;
+
+XVIII. Atender las recomendaciones que en materia de seguridad pública le formule el Secretario de Seguridad Pública;
+
+XIX. Integrar, dentro del término de los primeros seis meses de su gestión, el Comité Municipal de Consulta y Participación de la Comunidad, y diseñar acciones que fomenten la organización comunitaria. Asimismo, participará dicha información a las instancias estatales de la materia para propiciar la coordinación institucional;
+
+XX. Auxiliar a la población de su circunscripción territorial en caso de accidentes o siniestros;
+
+XXI. Disponer la integración de una base de datos que contenga la totalidad de los incidentes en materia de seguridad pública, aprovechando al efecto, los avances de la tecnología;
+
+XXII. Mantener estricto control del personal adscrito al área de seguridad, prohibiendo terminantemente que el personal operativo realice labores administrativas y viceversa, así fuera temporal o permanentemente;
+
+XXIII. Disponer que los bienes muebles, recursos y los vehículos automotores asignados al área de seguridad pública, por ningún motivo y bajo ninguna circunstancia, se adscriban provisional o definitivamente, tácita o expresamente, directa, indirecta o encubiertamente, a instancia diversa a las propias de seguridad;
+
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2012)</small>
+
+XXIV.- Participar en la Conferencia Nacional de Seguridad Pública Municipal;
+
+> <small>(REFORMADA, P.O. 27 DE MARZO DE 2012)</small>
+
+XXV.- Colaborar con las instituciones públicas y privadas, en la ejecución de programas tendientes a prevenir el delito;
+
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2012)</small>
+
+XXVI.- Promover en el ámbito municipal la homologación del desarrollo policial;
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2012)</small>
+
+XXVII. Establecer la instancia idónea para la defensa legal, en todas las etapas procesales, de los integrantes de las Instituciones de seguridad de su competencia, que con motivo del ejercicio de sus atribuciones se vieran implicados en asuntos jurídicos; asimismo, deberá disponer que sin demora alguna sean cubiertos en su totalidad los montos que por concepto de fianza, gastos que genere su defensa en el proceso, e inclusive, los correspondientes a la reparación del daño, si fuere el caso, con recursos de la administración municipal, sin afectar, en forma alguna los recursos de los servidores públicos implicados. Al efecto, preverá lo que corresponda en el presupuesto de egresos; y
+
+> <small>(ADICIONADA, P.O. 27 DE MARZO DE 2012)</small>
+
+XXVIII.- Las demás que les señalen las disposiciones legales y reglamentarias aplicables.
+
+###### ARTICULO 16.
+
+Los Presidentes Municipales, ya sea directamente o por conducto del o los titulares de las áreas de seguridad pública, tienen la obligación de registrar y consultar permanentemente en la Unidad de Enlace Informático del Consejo Estatal de Seguridad Pública, la totalidad de la información a que se refiere el Capítulo III, del Titulo Quinto de esta ley.
 
 ## TITULO TERCERO. DE LAS DEPENDENCIAS DE SEGURIDAD PUBLICA
 
-### CAPÍTULO IV. Del Consejo
-
-> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
-
-ARTÍCULO 9° A.- Para el cumplimiento de lo que establece el Artículo anterior, se crea el Consejo Estatal de la Juventud de Aguascalientes.
-
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2025)</small>
-
-El Consejo es el órgano de vinculación, consulta del Instituto y Dependencias Municipales de la Juventud con el propósito de asesorar, proponer, sugerir, plantear, opinar, colaborar, fortalecer y apoyar los planes, proyectos y programas dirigidos al desarrollo integral de la juventud.
-
-> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
-
-ARTÍCULO 9° B.- El Consejo, estará integrado por las siguientes autoridades:
-
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2025)</small>
-
-I.- Una Presidencia, que será la persona titular de la Dirección General del Instituto Aguascalentense de la Juventud;
-
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2025)</small>
-
-II.- Una Vicepresidencia, que será el Diputado o la Diputada que presida la Comisión de Juventud del Honorable Congreso del Estado de Aguascalientes;
-
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2025)</small>
-
-III.- Una Secretaria Técnica, que será la persona titular de la Dirección de Vinculación y Enlace Municipal;
-
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2025)</small>
-
-IV.- 11 Vocalías, que serán las personas titulares de las Dependencias Municipales en materia de juventud de cada uno de los once Municipios del Estado de Aguascalientes; y
-
-> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2020)</small>
-
-V.- Dos jóvenes, uno de ellos mujer y otro hombre, con reconocida trayectoria en el ámbito académico o social, quienes serán elegidos por la Comisión Legislativa de la Juventud mediante convocatoria pública abierta.
-
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2025)</small>
-
-Los cargos del Consejo descritos anteriormente son honoríficos, por lo que no gozarán de ninguna remuneración y tampoco será necesario separarse de algún otro cargo en el que hayan sido designados o desempeñen mientras funjan como integrantes del Consejo, salvo que la propia ley o reglamento lo impida explícitamente, pudiendo cada uno de estos designar un suplente.
-
-> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
-
-Los integrantes referidos en la fracción V del presente artículo durarán en su encargo dos años o hasta en tanto rebasen el rango de edad establecido en la presente ley para ser considerados como jóvenes, con posibilidad de reelegirse por una sola ocasión.
-
-> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
-
-ARTÍCULO 9° C.- Para el cumplimiento de sus funciones y objeto el Consejo, tendrá las siguientes atribuciones:
-
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
-
-I.- Colaborar en el diseño y supervisar la implementación y ejecución de políticas públicas a favor de la juventud, que esta ley encomienda al Instituto y Dependencias Municipales de la Juventud en sus respectivos ámbitos de competencia;
-
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2025)</small>
-
-II.- Sugerir a la persona titular del Poder Ejecutivo del Estado, a la Dirección General del Instituto Aguascalentense de la Juventud y a los Municipios, el diseño de planes, programas y proyectos en apoyo a la juventud del Estado de Aguascalientes;
-
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2025)</small>
-
-III.- Sugerir al Instituto y Dependencias Municipales de la Juventud, la celebración de convenios con los diferentes órdenes de gobierno y sectores social y privado, para llevar a cabo las políticas públicas en materia de juventud;
-
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
-
-IV.- Proponer al Instituto y Dependencias Municipales de la Juventud programas en conjunto con la iniciativa privada, con la finalidad de obtener trato preferente para la adquisición de bienes y servicios a favor de la juventud;
-
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2025)</small>
-
-V.- Plantear al Instituto y Dependencias Municipales de la Juventud la celebración de acuerdos con Instituciones de Educación Superior para que se impartan talles (sic), cursos, seminarios o diplomados a bajo costo, con el objeto de promover los principios de responsabilidad y superación personal en beneficio de la juventud;
-
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
-
-VI.- Proponer al Instituto y Dependencias Municipales de la Juventud el que se gestionen espacios en medios electrónicos y escritos, para la divulgación de sus expresiones e ideas y así garantizar que se respete el derecho a la libre expresión de los jóvenes fomentando al mismo tiempo el respeto hacia otras formas de pensar;
-
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
-
-VII.- Sugerir al Instituto y Dependencias Municipales de la juventud la celebración de convenios de colaboración y atención preferente con las dependencias encargadas de atender los casos previstos en el Artículo 7° de la presente Ley;
-
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
-
-VIII.- Plantear al Instituto y Dependencias Municipales de la juventud que colaboren con las autoridades encargadas de la cultura y las artes en el Estado, con el objeto de incorporar a los jóvenes a las actividades y programas que llevan a cabo mediante la suscripción de acuerdos;
-
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
-
-IX.- Proponer al Instituto y Dependencias municipales de la Juventud, la suscripción de convenios con el sector público y privado, encargados de colocar créditos a los emprendedores, con el objeto de hacer llegar oportunidades de auto empleo a los jóvenes;
-
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2025)</small>
-
-X.- Sugerir o Proponer al Instituto y Dependencias Municipales de la Juventud en coordinación con el Instituto de Educación de Aguascalientes y la Secretaría de Sustentabilidad, Medio Ambiente y Agua del Estado, el diseño y ejecución de programas que tengan como finalidad de (sic) promover entre los jóvenes el respeto y la preservación del medio ambiente aprovechando de manera racional los recursos naturales;
-
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2025)</small>
-
-XI.- Plantear al Instituto y Dependencias Municipales de la Juventud en coordinación con la Secretaría de Salud del Estado, el diseño y ejecución de programas intensivos de formación en materia de salud en general y en especial en salud mental y salud reproductiva que tengan como finalidad orientar y prevenir enfermedades de todo tipo entre los jóvenes;
-
-> <small>(REFORMADA, P.O. 6 DE ENERO DE 2025)</small>
-
-XII. Revisar, evaluar, analizar y discutir el trabajo realizado por la Comisión, así como sus avances generados en el último bimestre correspondiente;”
-
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
-
-XIII.- Sugerir al Instituto y Dependencias Municipales de la Juventud para que se coordinen con el Instituto de Capacitación para el Trabajo en el Estado de Aguascalientes, con la finalidad de difundir de manera más amplia y en especial al sector de la juventud los programas que dicho instituto brinda para que los jóvenes encuentren oportunidades laborales;
-
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
-
-XIV.- Fungir como órgano de consulta del Instituto y Dependencias Municipales de la Juventud;
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 23 DE ABRIL DE 2018)</small>
-
-XV.- Vigilar que los recursos asignados para el apoyo de los jóvenes, sean ejercidos con honradez, oportunidad, trasparencia (sic) y equidad;
-
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
-
-XVI.- Elaborar su reglamento para la organización, funcionamiento y cumplimento de sus atribuciones; y
-
-> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2018)</small>
-
-XVII.- Las demás que señalen otras disposiciones legales o reglamentarias.
-
-> <small>(REFORMADO, P.O. 6 DE ENERO DE 2025)</small>
-
-ARTÍCULO 9° D.- Las personas integrantes del Consejo, tendrán voz y voto, con excepción de la Secretaría Técnica, quien sólo tendrá voz. Las decisiones del Consejo se tomarán por mayoría de votos de sus integrantes. En caso de empate, la Presidencia tendrá voto de calidad.
-
-La Presidencia podrá invitar a las sesiones del Consejo, a representantes de los sectores público, social o privado, previa invitación anexada en la Convocatoria o Citatorio que se emita para la Sesión correspondiente, quienes tendrán derecho a voz, pero sin voto.
-
-> <small>(ADICIONADO, P.O. 3 DE JULIO DE 2017)</small>
-
-ARTÍCULO 9° E.- El Consejo sesionará en forma ordinaria trimestralmente y extraordinaria cuantas veces sea necesario.
-
-Para que el Consejo pueda sesionar válidamente, se requerirá de la asistencia de la mitad más uno de sus integrantes, siempre que asista el Presidente y el Secretario Técnico, o sus suplentes debidamente acreditados.
-
-Para el cumplimiento de sus funciones, el Consejo podrá designar la instalación de grupos de trabajo.
+### CAPITULO I
 
 #### Sección Primera. DE LA SECRETARIA DE SEGURIDAD PUBLICA
 
@@ -515,11 +491,15 @@ La Secretaría de Seguridad Pública es la dependencia encargada de la función 
 
 1. A fin de lograr el pleno cumplimiento de los principios de legalidad, objetividad, eficiencia, honradez y respeto a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos, por parte de los integrantes de las instituciones preventivas estatales y municipales de seguridad pública, así como de los servidores públicos a ellas adscritos, el Centro Estatal de Evaluación y Control de Confianza aplicará los procedimientos de evaluación y control de confianza para la permanencia en el servicio activo, de los integrantes y servidores públicos de las Instituciones Policiales.
 
-2. Asimismo, la Dirección de Asuntos Internos verificará el cumplimiento de las obligaciones de los integrantes de las instituciones de seguridad pública estatales, a través de la realización de revisiones permanentes en los establecimientos y lugares en que se desarrollen sus actividades, dando seguimiento a las mismas e informando de los resultados al Secretario de Seguridad Pública.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2018)</small>
+
+2.- Asimismo, la Dirección de Asuntos Internos verificará el cumplimiento de las obligaciones de los integrantes de las instituciones de seguridad pública estatales, a través de la realización de revisiones permanentes en los establecimientos y lugares en que se desarrollen sus actividades, dando seguimiento a las mismas e informando de los resultados al Secretario de Seguridad Pública. De igual forma conocerá de quejas y denuncias, incluso anónimas, con motivo de faltas administrativas o infracciones disciplinarias cometidas por los integrantes de las instituciones, preservando la reserva de las actuaciones.
 
 3. El Órgano de Control Interno de la Contraloría Gubernamental adscrito a la Secretaría, tendrá las atribuciones conferidas por la Ley Orgánica de la Administración Pública del Estado y la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
-### CAPÍTULO V. Del Poder Ejecutivo del Estado
+### CAPITULO II. DE LAS INSTITUCIONES PREVENTIVAS DE SEGURIDAD PUBLICA
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTICULO 20.
 
@@ -565,9 +545,7 @@ II. Policía de Tránsito y Vialidad.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
-### CAPÍTULO VI. Del Instituto Aguascalentense de la Juventud
-
-> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2018)</small>
+### CAPITULO III. DE LA POLICÍA ESTATAL
 
 ###### ARTICULO 22.
 
@@ -695,15 +673,17 @@ XXVII.- Otorgar y garantizar la protección y auxilio en todo momento a las víc
 
 XXVIII.- Registrar en el Informe Policial Homologado los datos de las actividades e investigaciones que realice; y
 
-> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE DICIEMBRE DE 2017)</small>
 
-XXIX.- Las demás que le confieran otras disposiciones jurídicas aplicables o sus superiores jerárquicos.
+XXIX.- Vigilar y verificar que los vehículos automotores que circulen por las vías públicas en el Estado y sus municipios, cuenten y porten con la póliza de seguro vigente de responsabilidad civil por daños a terceros, bienes y personas y gastos médicos ocupantes y con el engomado expedido por la Secretaría de Finanzas a vehículos que cuenten con seguro de responsabilidad civil por daños a terceros, bienes y personas y gastos médicos ocupantes, según sea el caso.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE DICIEMBRE DE 2017)</small>
+
+XXX.- Las demás que le confieran otras disposiciones jurídicas aplicables o sus superiores jerárquicos.
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-### CAPÍTULO VII. De los Ayuntamientos
-
-> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2018)</small>
+### CAPITULO IV. DE LA POLICIA RURAL DEL ESTADO
 
 ###### ARTICULO 23.
 
@@ -711,7 +691,7 @@ XXIX.- Las demás que le confieran otras disposiciones jurídicas aplicables o s
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-### CAPÍTULO VIII. De las Infracciones y Sanciones
+### CAPITULO V. DE LA POLICIA AUXILIAR
 
 ###### ARTICULO 24.
 
@@ -1291,7 +1271,9 @@ Para la liquidación o extinción de la Universidad se requerirá de las mismas 
 
 1. El Estado y los Municipios, con base en sus posibilidades presupuestales, establecerán el Servicio Profesional de Carrera Policial, con carácter obligatorio y permanente, para asegurar la profesionalización de sus integrantes.
 
-2. La estructura, funciones y procedimientos del Servicio Profesional de Carrera Policial, se sujetarán a lo previsto en el Reglamento del Desarrollo Policial de las Instituciones Preventivas de Seguridad Pública del Estado.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2018)</small>
+
+2. La estructura, funciones y procedimientos del Servicio Profesional de Carrera Policial, se sujetarán a lo previsto en el Reglamento del Servicio Profesional de Carrera Policial del Estado de Tamaulipas.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
@@ -1309,13 +1291,13 @@ Para la liquidación o extinción de la Universidad se requerirá de las mismas 
 
 Se considerará policía de carrera, al integrante que haya aprobado los cursos de formación, actualización, especialización y profesionalización establecidos en el plan de estudios de la Universidad de Seguridad y Justicia de Tamaulipas, tratándose de las instituciones de seguridad pública estatales y municipales, y que acredite tres años de permanencia, por lo menos, en el servicio de la institución respectiva.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2018)</small>
 
-###### ARTICULO 42.
+###### ARTÍCULO 42.
 
-1. El otorgamiento de los grados en la escala jerárquica para las instituciones de seguridad pública del Estado y los Municipios, se sujetará a las condiciones y procedimientos que señale el Reglamento del Desarrollo Policial de las Instituciones Preventivas de Seguridad Pública del Estado.
+1.- El otorgamiento de los grados en la escala jerárquica para las instituciones de seguridad pública del Estado y los Municipios, se sujetará a las condiciones y procedimientos que señale el Reglamento del Servicio Profesional de Carrera Policial del Estado de Tamaulipas.
 
-2. No podrá concederse un grado a integrante alguno de las instituciones de seguridad pública, si no se ha ostentado el inmediato inferior y cumplir además los requisitos de capacidad, eficacia y antigüedad que exija el Reglamento del Desarrollo Policial de las Instituciones Preventivas de Seguridad Pública del Estado.
+2.- No podrá concederse un grado a integrante alguno de las instituciones de seguridad pública, si no se ha ostentado el inmediato inferior y cumplir además los requisitos de capacidad, eficacia y antigüedad que exija el Reglamento del Servicio Profesional de Carrera Policial del Estado de Tamaulipas.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE MARZO DE 2012)</small>
 
@@ -1743,9 +1725,9 @@ Las anteriores disposiciones podrán ser complementadas por otras que dicte el C
 
 ###### ARTICULO 89.
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2018)</small>
 
-1. Los correctivos disciplinarios y sanciones a que se hagan acreedores los integrantes de las instituciones de seguridad pública estatales y municipales, se aplicarán cuando desacaten los principios de actuación y las obligaciones que la presente ley establezca, sin perjuicio de la responsabilidad administrativa y penal que prevean otros ordenamientos legales.
+1. Los correctivos disciplinarios y sanciones a que se hagan acreedores los integrantes de las instituciones de seguridad pública estatales y municipales, se aplicarán cuando desacaten los principios de actuación y las obligaciones que la presente ley y demás ordenamientos legales aplicables establezcan, sin perjuicio de la responsabilidad administrativa y penal que prevean otros ordenamientos legales, en virtud de lo cual, no se suspenderán las investigaciones en la Dirección de Asuntos Internos ni el procedimiento administrativo en el Consejo de Desarrollo Policial.
 
 2. Previo a la aplicación de las sanciones e infracciones se respetará la garantía de audiencia del infractor.
 
@@ -1939,7 +1921,9 @@ VI. Todas aquellas que sean permitidas por la ley.
 
 3. La resolución se notificará personalmente al presunto infractor, ya sea en la oficina del Consejo, o en el domicilio que hubiere señalado para oír y recibir notificaciones. En el caso de que el presunto infractor no hubiere señalado domicilio, la notificación se realizará por instructivo que se publicará en lugar visible de las instalaciones del Consejo.
 
-4. Contra la resolución procederá el recurso de reconsideración, el cual deberá interponerse por escrito en un término de cinco días, contados a partir de la notificación de la resolución, debiendo expresarse los agravios correspondientes. El Consejo emitirá resolución dentro de un plazo de tres días y la notificará en la forma prevista en este artículo.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2018)</small>
+
+4. Contra la resolución procederá el recurso de reconsideración, el cual deberá interponerse por escrito en un término de diez días naturales, contados a partir de la notificación de la resolución, debiendo expresarse los agravios correspondientes. El Consejo emitirá resolución dentro de un plazo de tres días y la notificará en la forma prevista en este artículo.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
@@ -1953,11 +1937,11 @@ Las resoluciones que dicte el Pleno del Consejo deberán estar debidamente funda
 
 Los acuerdos dictados durante el procedimiento serán firmados por el Presidente del Consejo y autentificados por el Secretario.
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2018)</small>
 
 ###### ARTÍCULO 103.
 
-En las actuaciones que se practiquen en los procedimientos a que se refiere este título, también se observarán las disposiciones conducentes del Reglamento del Desarrollo Policial de las Instituciones Preventivas de Seguridad Pública del Estado, y lo no previsto en ambos ordenamientos, se aplicará de manera supletoria el Código Nacional de Procedimientos Penales.
+En las actuaciones que se practiquen en los procedimientos a que se refiere este título, también se observarán las disposiciones conducentes del Reglamento del Servicio Profesional de Carrera Policial del Estado de Tamaulipas, y lo no previsto en ambos ordenamientos, se aplicará de manera supletoria el Código Nacional de Procedimientos Penales.
 
 > <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2012)</small>
 
@@ -1967,19 +1951,17 @@ Cualquier otra controversia diversa a las establecidas en el artículo 92, pero 
 
 ## TRANSITORIOS
 
-###### ARTÍCULO PRIMERO.
+###### ARTICULO PRIMERO.
 
-La presente reforma entrará en vigor al día siguiente de su publicación en el periódico Oficial del Estado de Aguascalientes.
+La presente ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-###### ARTÍCULO SEGUNDO.
+###### ARTICULO SEGUNDO.
 
-El Consejo a que se refiere la presente Ley, deberá instalarse en un plazo no mayor a noventa días hábiles a partir de la publicación del presente Decreto.
+Se abroga la Ley de Seguridad Pública para el Estado de Tamaulipas expedida mediante Decreto No. 178, del 29 de marzo del 2000, publicado en el Periódico Oficial del Estado, Extraordinario No. 2, del 6 de abril del 2000; así como las reformas expedidas mediante Decreto No. LVIII-841, del 8 de septiembre del 2004, publicado en el Periódico Oficial del Estado No. 150, del 15 de diciembre del 2004, y las reformas expedidas mediante Decreto número LIX-561 del 8 de agosto de 2006, publicado en el Periódico Oficial del Estado número 107 del 6 de septiembre de 2006.
 
-###### ARTÍCULO TERCERO.
+###### ARTICULO TERCERO.
 
-Se Derogan todas las disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
-
-P.O. 23 DE ABRIL DE 2018.
+En un término que no exceda de 180 días posteriores a la entrada en vigor de esta ley, se expedirán el Reglamento del Consejo de Honor y Justicia y el Reglamento Interior de la Secretaría de Seguridad Pública.
 
 ###### ARTICULO CUARTO.
 
@@ -2001,41 +1983,23 @@ ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCION.- GOBERNADOR CONSTITUCIONAL DEL E
 
 P.O. 16 DE DICIEMBRE DE 2010.
 
-###### ARTÍCULO PRIMERO.
+###### ARTICULO PRIMERO.
 
-El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el 21 de agosto del 2012.
 
-###### ARTÍCULO SEGUNDO.
+###### ARTICULO SEGUNDO.
 
-Quedan Derogadas todas las disposiciones normativas o reglamentarias que se opongan al presente Decreto.
+Los titulares de las instituciones policiales del Estado y de los Municipios implementarán la capacitación permanente de su personal con base en las disposiciones que establece el presente Decreto.
 
-P.O. 23 DE DICIEMBRE DE 2019.
+P.O. 29 DE DICIEMBRE DE 2010.
 
-###### ARTÍCULO PRIMERO.
+###### ARTICULO PRIMERO.
 
-El presente decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
-###### ARTÍCULO SEGUNDO.
+###### ARTICULO SEGUNDO.
 
-La Comisión de la Juventud deberá emitir la convocatoria pública abierta a que se refiere la fracción V del artículo 9° B dentro de los noventa días naturales siguientes a la publicación del presente decreto.
-
-P.O. 10 DE MAYO DE 2021.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 548.- SE REFORMA EL ARTÍCULO 2°; 9°, FRACCIONES VIII, XIII Y XIV; Y SE ADICIONA UNA FRACCIÓN XV AL ARTÍCULO 9°, DE LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES”.]
-
-ÚNICO.- El presente decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 23 DE ENERO DE 2023.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 259.- SE REFORMA LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES; LA LEY DE PROTECCIÓN Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES; Y DIVERSOS ORDENAMIENTOS”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 6 DE ENERO DE 2025.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 51.- SE REFORMA LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES”.]
+En términos de las atribuciones que le confieren las normas constitucionales y legales aplicables, el Ejecutivo del Estado contará con 180 días a partir de la publicación del presente Decreto para reformar o en su caso expedir las disposiciones reglamentarias necesarias que se deriven del mismo.
 
 ###### ARTICULO TERCERO.
 
@@ -2045,33 +2009,13 @@ P.O. 15 DE JUNIO DE 2011.
 
 ###### ARTÍCULO PRIMERO.
 
-El presente decreto iniciara su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+> <small>(F. DE E., P.O. 30 DE AGOSTO DE 2011)</small>
 
 ###### ARTÍCULO SEGUNDO.
 
-El Consejo Estatal de la Juventud dispondrá de un término de 60 días naturales contados a partir del inicio de vigencia de este Decreto, para realizar las armonizaciones correspondientes en su Reglamento.”
-
-P.O. 29 DE ABRIL DE 2025.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 149.- SE REFORMA LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES".]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 2 DE JUNIO DE 2025.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 190.- SE REFORMA LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES".]
-
-###### ARTÍCULO ÚNICO.
-
-El presente decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 22 DE SEPTIEMBRE DE 2025.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 248.- SE REFORMA LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES”.]
-
-[N. DE. E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.]
+En un plazo no mayor a 30 días posteriores a la entrada en vigor del presente Decreto, el Ejecutivo del Estado deberá expedir las Normas de Funcionamiento del Instituto de Reclutamiento y Formación Policial del Estado de Tamaulipas.
 
 ###### ARTÍCULO TERCERO.
 
@@ -2171,9 +2115,9 @@ P.O. 4 DE FEBRERO DE 2014.
 
 ###### ARTÍCULO ÚNICO.
 
-Se aprueba la Ley de la Juventud del Estado de Aguascalientes, para quedar en los siguientes términos:
+El presente Decreto deberá ser publicado en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación, con excepción de las atribuciones inherentes al nuevo sistema de justicia penal, las cuales entrarán en vigor de manera sucesiva, conforme a las fechas de aplicación del Código de Procedimientos Penales del Estado de Tamaulipas, expedido mediante Decreto No. LXI-475 y reformado mediante Decreto No. LXI-862, publicado en el Periódico Oficial del Estado extraordinario al número 3 de fecha 7 de junio de 2013.
 
-LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES
+P.O. 26 DE JUNIO DE 2014.
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2233,9 +2177,7 @@ Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
 
 P.O. 16 DE JUNIO DE 2016.
 
-> <small>[N. DE E. TRANSITORIOS DEL“DECRETO NO. LXII-964 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, SE REFORMA EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NO. LXII-249, DEL 25 DE JUNIO DE 2014 Y PUBLICADO EN EL PERIÓDICO OFICIAL NO. 77, DEL 26 DE JUNIO DE 2014, Y SE ABROGA LA LEY DE JUSTICIA DE PAZ PARA EL ESTADO DE TAMAULIPAS, EXPEDIDA MEDIANTE DECRETO NO. LIX-935, DEL 31 DE MAYO DE 2007, PUBLICADA EN EL PERIÓDICO OFICIAL NO. 92 DEL 1 DE AGOSTO DE 2007".]</small>
-
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 106.- SE REFORMA Y ADICIONA LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXII-964 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO, SE REFORMA EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NO. LXII-249, DEL 25 DE JUNIO DE 2014 Y PUBLICADO EN EL PERIÓDICO OFICIAL NO. 77, DEL 26 DE JUNIO DE 2014, Y SE ABROGA LA LEY DE JUSTICIA DE PAZ PARA EL ESTADO DE TAMAULIPAS, EXPEDIDA MEDIANTE DECRETO NO. LIX-935, DEL 31 DE MAYO DE 2007, PUBLICADA EN EL PERIÓDICO OFICIAL NO. 92 DEL 1 DE AGOSTO DE 2007".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2247,13 +2189,7 @@ Todos los procesos y recursos iniciados con las disposiciones que mediante el pr
 
 P.O. 20 DE SEPTIEMBRE DE 2016.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 273.- SE REFORMAN LOS ARTÍCULOS 3°, 5°, 8°, 9°A, 9°B, 9°C, LA DENOMINACIÓN DEL CAPÍTULO VI “DE LA SECRETARÍA DE LA JUVENTUD” PARA PASAR A SER “DEL INSTITUTO AGUASCALENTENSE DE LA JUVENTUD” LOS ARTÍCULOS 11, 12 Y 13; SE ADICIONA EL ARTÍCULO 8° DE LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
-
-P.O. 12 DE NOVIEMBRE DE 2018.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXII-989, MEDIANTE EL CUAL SE REFORMAN LA DENOMINACIÓN DEL CAPÍTULO VI DEL TÍTULO TERCERO Y LOS ARTÍCULOS 20 PÁRRAFO 1, FRACCIONES IV Y V Y 26; Y SE ADICIONAN LA FRACCIÓN VI AL PÁRRAFO 1, DEL ARTÍCULO 20 Y EL ARTÍCULO 26 BIS, DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2273,14 +2209,42 @@ Sin demérito de lo establecido en el párrafo que antecede, los elementos que f
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 37.- SE REFORMAN LAS FRACCIONES XII Y XIII DEL ARTÍCULO 9°, LAS FRACCIONES VII Y VIII DEL ARTÍCULO 10 Y EL ARTÍCULO 14; ASÍ COMO SE ADICIONA UNA FRACCIÓN XIV AL ARTÍCULO 9°, Y UNAS FRACCIONES IX, X Y XI AL ARTÍCULO 10, TODOS DE LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES”.]
+P.O. 21 DE DICIEMBRE DE 2017.
 
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 289.- ARTÍCULO ÚNICO.- SE REFORMAN EL ARTÍCULO 2°; LAS FRACCIONES VI Y VII DEL ARTÍCULO 7°; Y SE ADICIONA LA FRACCIÓN VIII AL ARTÍCULO 7° A LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES".]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. LXIII-373 MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TAMAULIPAS, DE LA LEY REGLAMENTARIA PARA ESTABLECIMIENTOS DE BEBIDAS ALCOHÓLICAS, DEL CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS, DE LA LEY DE TRÁNSITO Y DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS".]
 
-###### ARTÍCULO ÚNICO.
+###### ARTÍCULO PRIMERO.
 
-El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+El presente Decreto entrará en vigor el 1 de enero del 2018, previa publicación en el Periódico Oficial del Estado.
 
-P.O. 7 DE DICIEMBRE DE 2020.
+###### ARTÍCULO SEGUNDO.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 426.- SE ADICIONA LA FRACCIÓN V Y UN PÁRRAFO TERCERO AL ARTÍCULO 9° B Y (SIC) DE LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES".]
+Para efecto de lo dispuesto en los artículos 93 BIS y 99 de la Ley de Hacienda para el Estado de Tamaulipas, las cuotas por los servicios que prestan los organismos públicos descentralizados deberán publicarse en el Periódico Oficial del Estado, mediante el tabulador que las fije, a más tardar el 01 de febrero del año corriente, acorde a la Ley de Ingresos que corresponda.
+
+###### ARTÍCULO TERCERO.
+
+Todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes estatales, así como cualquier disposición jurídica que emane de las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+###### ARTÍCULO CUARTO.
+
+Tratándose de las menciones al salario mínimo que se hagan en contratos y convenios, se atenderá a lo dispuesto en el artículo Séptimo Transitorio del Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación el 27 de enero de 2016.
+
+###### ARTÍCULO QUINTO.
+
+El valor de la Unidad de Medida y Actualización, será determinado conforme el Decreto por el que se declara reformadas y adicionadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, publicado en el Diario Oficial de la Federación el 27 de enero de 2016 y, en su caso, por otras disposiciones aplicables.
+
+###### ARTÍCULO SEXTO.
+
+Quedan derogadas todas las disposiciones de igual o menor rango, que se opongan al presente Decreto.
+
+P.O. 15 DE MAYO DE 2018.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LXIII-413 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 1, PÁRRAFO 3, FRACCIÓN X; 3, PÁRRAFO 2; 13, FRACCIÓN XXXV; 19, PÁRRAFO 2; 39, PÁRRAFO 2; 42; 89, PÁRRAFO 1; 100, PÁRRAFO 4 Y 103, DE LA LEY DE SEGURIDAD PÚBLICA PARA EL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente Decreto.
