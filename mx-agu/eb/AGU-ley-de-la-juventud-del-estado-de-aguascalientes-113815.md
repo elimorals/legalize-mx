@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-juventud-del-estado-de-aguascalientes-113815"
 country: "mx"
 rank: "ley"
 publication_date: "2016-04-04"
-last_updated: "2025-09-22"
+last_updated: "2026-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=113815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 4 de abril de 2016.
 
@@ -467,6 +467,36 @@ Cualquier persona que realice un acto u omisión que afecte derechos de los Jóv
 
 El servidor público que en el ejercicio de sus funciones afecte derechos de los Jóvenes, será sancionado en términos de la Ley General de Responsabilidades Administrativas y de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, sin perjuicio de la responsabilidad penal o civil en que pueda incurrir.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ABRIL DE 2026)</small>
+
+### CAPÍTULO IX. Del Premio Estatal de la Juventud
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2026)</small>
+
+###### ARTÍCULO 17.
+
+El Premio Estatal de la Juventud es el reconocimiento público otorgado por el Instituto Aguascalentense de la Juventud, cada mes de agosto, a las personas jóvenes o colectivos integrados mayoritariamente por jóvenes, cuya trayectoria, acciones o aportaciones representen un ejemplo de mérito, liderazgo, creatividad o compromiso social, consistente en un estímulo económico o en especie, conforme a las reglas de operación que para tal efecto se emitan.
+
+Este reconocimiento tiene por finalidad estimular a las juventudes para destacar en los ámbitos académico, artístico, científico, cultural, deportivo, ambiental, de mérito cívico, labor altruista, derechos humanos, y en cualquier otro ámbito de impacto benéfico que el Instituto identifique y considere pertinente estimular de manera fundada y motivada; diferenciándose claramente de aquellas iniciativas de carácter empresarial o de emprendimiento productivo reguladas por su legislación específica.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2026)</small>
+
+###### ARTÍCULO 18.
+
+A fin de garantizar el principio de equidad y reconocer las distintas etapas de desarrollo, madurez y trayectoria de las juventudes, el otorgamiento del Premio Estatal de la Juventud se realizará mediante categorías diferenciadas por grupos etarios.
+
+Las Reglas de Operación establecerán la segmentación específica de dichos rangos de edad, asegurando que las y los postulantes compitan exclusivamente entre pares de condiciones equiparables. El Instituto deberá garantizar la entrega del reconocimiento y el estímulo correspondiente a los ganadores de cada una de las categorías etarias establecidas para cada ámbito.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2026)</small>
+
+###### ARTÍCULO 19.
+
+El análisis, dictaminación y selección de las personas ganadoras del premio estará a cargo de un Comité Evaluador, que operará conforme a lo dispuesto en las reglas de operación y bajo los principios de imparcialidad, transparencia, objetividad e inclusión.
+
+Dicho Comité deberá estar integrado, cuando menos, por la persona titular del Instituto y por la persona que presida la Comisión de Juventud del H. Congreso del Estado de Aguascalientes, así como por los integrantes adicionales que se determinen en las citadas reglas.
+
+Para garantizar una valoración objetiva y equitativa, los criterios de evaluación deberán ser públicos, claros, medibles y aplicados de manera uniforme, considerando elementos como el impacto social, la innovación, los beneficios comunitarios, la sostenibilidad, la trayectoria demostrada y la pertinencia de las acciones o proyectos postulados.
+
 T R A N S I T O R I O
 
 ###### ARTÍCULO ÚNICO.
@@ -606,3 +636,11 @@ P.O. 22 DE SEPTIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 248.- SE REFORMA LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES”.]
 
 [N. DE. E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.]
+
+P.O. 20 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 450.- SE ADICIONA LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
