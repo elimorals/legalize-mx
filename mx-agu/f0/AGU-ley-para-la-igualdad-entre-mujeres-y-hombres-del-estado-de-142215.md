@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-igualdad-entre-mujeres-y-hombres-del-estado-de-1422
 country: "mx"
 rank: "ley"
 publication_date: "2020-03-16"
-last_updated: "2025-04-29"
+last_updated: "2026-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142215&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 16 de marzo de 2020.
 
@@ -409,11 +409,17 @@ El Estado, conforme a la Ley de Cultura Física y Deporte del Estado de Aguascal
 
 ### CAPÍTULO VI. ÁMBITO RURAL
 
-> <small>(REFORMADO, P.O. 16 DE MAYO DE 2022)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2026)</small>
 
 ###### Artículo 21.
 
-El Estado, conforme a la Ley para el Desarrollo Pecuario del Estado de Aguascalientes, promoverá actividades rurales que favorezcan la efectiva igualdad de oportunidades entre mujeres y hombre, así como el uso, goce y disfrute de la tierra, su participación en el desarrollo rural y en sus beneficios.
+El Estado, conforme a la Ley para el Desarrollo Pecuario del Estado de Aguascalientes y la Ley para el Desarrollo Agrícola del Estado de Aguascalientes, promoverá actividades rurales, que favorezcan la efectiva igualdad de oportunidades entre mujeres y hombres, así como el uso, goce y disfrute de la tierra, su participación en el desarrollo rural y en sus beneficios.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2026)</small>
+
+###### Artículo 21 Bis.
+
+Los Entes Públicos, deberán promover la igualdad de participación de mujeres y hombres en programas, consejos, comités o asociaciones sociales para la práctica de actividades que favorezcan el desarrollo rural, agrícola, pecuario rural y/o comunitario.
 
 ### CAPÍTULO VII. ÁMBITO ECONÓMICO
 
@@ -1122,3 +1128,9 @@ P.O. 29 DE ABRIL DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 20 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 439.- SE REFORMA LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE AGUASCALIENTES".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
