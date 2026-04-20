@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-procuraduria-estatal-de-proteccion-al-ambiente-29297"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-10"
-last_updated: "2026-02-24"
+last_updated: "2026-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29297&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE LA PROCURADURÍA ESTATAL DE PROTECCIÓN AMBIENTAL Y ANIMAL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2026.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de marzo de 2003.
 
@@ -765,10 +765,52 @@ P.O. 24 DE FEBRERO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 409.- SE REFORMA LA LEY DE LA PROCURADURÍA ESTATAL DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE AGUASCALIENTES".]
 
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2026)</small>
+
 ###### ARTÍCULO PRIMERO.
 
-La presente reforma iniciará su vigencia a los 180 días hábiles siguientes al de su publicación en el Periódico Oficial del Estado.
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2026)</small>
 
 ###### ARTÍCULO SEGUNDO.
 
-Aquellos procedimientos administrativos y jurídicos que se estén llevando a cabo, deberán continuarse conforme a la legislación vigente al momento de la comisión del hecho punible.
+Dentro de los ciento ochenta días hábiles siguientes a la entrada en vigor, las autoridades competentes realizarán los ajustes jurídicos, administrativos, operativos, técnicos y presupuestales necesarios para su debida implementación.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2026)</small>
+
+###### ARTÍCULO TERCERO.
+
+Los procedimientos administrativos, jurídicos y demás asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto continuarán su substanciación y resolución conforme a la legislación vigente al momento de su inicio, sin interrupción de plazos, etapas o efectos jurídicos.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2026)</small>
+
+###### ARTÍCULO CUARTO.
+
+En un plazo no mayor a ciento ochenta días hábiles, deberán armonizarse leyes, reglamentos, lineamientos, acuerdos, manuales, criterios y demás disposiciones que hagan referencia a la denominación anterior, para ajustarlas a lo previsto en el presente Decreto.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2026)</small>
+
+###### ARTÍCULO QUINTO.
+
+Las referencias que; en el marco jurídico, actos administrativos, expedientes, registros, contratos, convenios, oficios, sistemas y demás documentos se realicen a (sic) Procuraduría Estatal de Protección al Ambiente, se entenderán hechas a (sic) Procuraduría Estatal de Protección Ambiental y Animal, sin que ello afecte su validez o eficacia jurídica.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2026)</small>
+
+###### ARTÍCULO SEXTO.
+
+Los derechos, obligaciones, atribuciones, recursos humanos, materiales, técnicos, documentales, archivos, sistemas y, en su caso, recursos financieros y presupuestales que se encontraban adscritos a (sic) Procuraduría Estatal de Protección al Ambiente, se entenderán asignados a (sic) Procuraduría Estatal de Protección Ambiental y Animal para la continuidad de sus funciones.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2026)</small>
+
+###### ARTÍCULO SÉPTIMO.
+
+El cambio de denominación no afectará los derechos laborales y adquiridos de las personas servidoras públicas adscritas a la dependencia, quienes conservarán su antigüedad y prestaciones conforme a la normatividad aplicable.
+
+P.O. 20 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 442.- SE REFORMAN LOS ARTÍCULOS TRANSITORIOS DEL DECRETO NÚMERO 409, POR EL QUE SE REFORMA LA LEY DE LA PROCURADURÍA ESTATAL DE PROTECCIÓN AL AMBIENTE DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en el día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
