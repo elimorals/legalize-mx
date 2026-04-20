@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2026-04-06"
+last_updated: "2026-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2026.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -2541,11 +2541,19 @@ Los cónyuges deben darse alimentos. La ley determinará cuándo queda subsisten
 
 Los padres están obligados a dar alimentos a sus hijas e hijos. A falta o por imposibilidad de los padres, la obligación recae en los demás ascendientes por ambas líneas que estuvieren más próximos en grado.
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2026)</small>
 
 ###### Artículo 326.
 
-Los hijos e hijas están obligados a dar alimentos a los padres. A falta o por imposibilidad de estos, lo están los descendientes más próximos en grado.
+Los hijos están obligados a dar alimentos a los padres. A falta o por imposibilidad de los hijos, lo están los descendientes más próximos en grado.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2026)</small>
+
+Tratándose de ascendientes en primer grado, deberán acreditar que, en su momento, cumplieron con el deber de proporcionar alimentos a su descendiente, conforme al principio de reciprocidad, establecido en el artículo 323 del presente Código. Tratándose de ascendientes de grado ulterior en línea recta, dicha acreditación no será exigible.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2026)</small>
+
+Para efectos de lo dispuesto en el párrafo anterior, se presumirá el incumplimiento del deber alimentario del ascendiente cuando exista sentencia firme que lo haya condenado por el delito de incumplimiento de las obligaciones de asistencia familiar en los términos previstos en el Código Penal para el Estado de Aguascalientes o cuando en un juicio de alimentos exista resolución judicial firme en la que se haya determinado el incumplimiento de la obligación alimentaria respecto del descendiente.
 
 ###### Artículo 327.
 
@@ -18468,3 +18476,11 @@ P.O. 6 DE ABRIL DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 447.- SE ADICIONAN DISPOSICIONES AL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
