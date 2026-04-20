@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-prevenir-atender-y-erradicar-la-violencia-escolar-9881
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-17"
-last_updated: "2024-07-01"
+last_updated: "2026-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98814&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA ESCOLAR EN EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 17 de febrero de 2014.
 
@@ -179,21 +179,27 @@ XXVII. Violencia Escolar: Forma de violencia por acción u omisión con la inten
 
 ### CAPÍTULO II. Violencia Escolar
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2022)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2026)</small>
 
 ###### ARTÍCULO 4°.
 
-La violencia escolar puede ser generada individual o colectivamente cuando se cometen acciones negativas o actos agresivos, sin ser éstos respuesta a una acción predeterminada, contra uno o varios estudiantes, docentes o personal administrativo, conforme a los siguientes tipos:
+La violencia escolar puede ser generada individual o colectivamente, de manera enunciativa y no limitativa, conforme a los siguientes tipos:
 
-I. En las personas: Las lesiones que causen cualquier alteración en la salud y que son producidas por una causa externa, infringidas entre estudiantes susceptibles de causar daño;
+I. Cibernética: Toda violencia psicoemocional implementada a partir del uso de plataformas virtuales y herramientas tecnológicas, tales como chats, blogs, redes sociales, correo electrónico, mensajes de texto enviados por aparatos celulares, foros, servidores que almacenan videos o fotografías, páginas web, teléfono y otros medios tecnológicos, incluyendo la suplantación de identidad por esa vía de comunicación;
 
-II. En las cosas: Todo daño o menoscabo a bienes o posesiones jurídicas con el fin de producir agresión al afectado; puede consistir en la sustracción, destrucción, desaparición, ocultamiento o retención de las cosas;
+II. Exclusión social escolar: Cuando se aísle de la convivencia escolar, dentro o fuera del plantel escolar, o se le amenace con hacerlo, por cualquier motivo o razón;
 
-III. Psicoemocional: Toda acción o comunicación, dirigida a desvalorar, intimidar o controlar las acciones, comportamientos y decisiones, consistente en prohibiciones, coacciones, condicionamientos, intimidaciones, amenazas, chantaje, humillaciones, comparaciones destructivas o actitudes devaluatorias, que produzca en quien la recibe un daño psicológico o emocional; y
+III. Física: Toda acción u omisión intencional que causa un daño corporal;
 
-IV. Sexual: Toda acción u omisión que amenace, ponga en riesgo o lesione la libertad, seguridad, integridad y desarrollo psicosexual de los estudiantes.
+IV. Patrimonial: Toda acción u omisión que daña o afecta los bienes materiales de estudiantes, puede consistir en la sustracción, destrucción, desaparición, ocultamiento o retención de las cosas sin su consentimiento;
 
-En relación a las Fracciones I y IV se estará a lo establecido en la Ley del Sistema de Justicia para Adolescentes del Estado de Aguascalientes.
+V. Psicológica: Toda acción u omisión dirigida a desvalorar, intimidar o controlar las acciones, comportamientos y decisiones; consistente en prohibiciones, coacciones, condicionamientos, intimidaciones, amenazas, indiferencia, chantaje, humillaciones, comparaciones destructivas, abandono o actitudes devaluatorias, o cualquier otra, que provoque en quien la recibe alteración autocognitiva y autovalorativa que integran su autoestima o alteraciones en alguna esfera o área de su estructura psíquica;
+
+VI. Sexual: Toda acción u omisión que amenaza, pone en riesgo o lesiona la libertad, seguridad, integridad y desarrollo psicosexual de las y los estudiantes; o
+
+VII. Verbal: Toda acción no corporal en la que se emplea el lenguaje ofensivo, denigrante o peyorativo, que de manera intencional o no, trasgrede la dignidad de la persona receptora.
+
+En relación a las fracciones III y VI se estará a lo establecido en la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
 
 ###### ARTÍCULO 5°.
 
@@ -489,6 +495,14 @@ IV. Las demás que señale el Consejo.
 
 ### CAPÍTULO V. Protocolo
 
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2026)</small>
+
+ARTÍCULO 21 BIS.- El Protocolo es el instrumento rector que establecerá los mecanismos de actuación que deberá seguir la comunidad en las instituciones educativas, el cual deberá incluir los enfoques de prevención, detección oportuna, atención inmediata y eliminación y erradicación de la violencia con perspectiva de género y de derechos humanos.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2026)</small>
+
+ARTÍCULO 21 TER. El Protocolo debe diseñarse para que sea aplicado en todos los niveles educativos, en términos de lo previsto por el artículo 22 del presente ordenamiento. El contenido del Protocolo tendrá como base las acciones previstas en la Ley de Educación del Estado de Aguascalientes.
+
 ###### ARTÍCULO 22.
 
 El Protocolo se encuentra dirigido a:
@@ -548,6 +562,14 @@ XVIII. Mencionar la información sobre el tipo de servicios de apoyo para recept
 ###### ARTÍCULO 24.
 
 El Protocolo deberá ser publicado en el Periódico Oficial del Estado, así como todas sus modificaciones y reformas para su vigencia.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2026)</small>
+
+ARTÍCULO 24 BIS. En las Instituciones educativas se deberá proporcionar capacitación sobre el Protocolo, tanto a la dirección del plantel, la docencia y las personas empleadas que tengan contacto directo con las y los estudiantes; el Protocolo será incluido en los programas de capacitación de todo directivo, docente y empleado que pertenezca al centro escolar.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2026)</small>
+
+ARTÍCULO 24 TER. Al término de cada ciclo escolar, las Instituciones Educativas deberán remitir un informe al Consejo que contenga un sumario de los reportes recibidos y las acciones tomadas, anexando toda la documentación que respalde el actuar de la autoridad escolar correspondiente en la resolución de los incidentes, así como copia de los reportes.
 
 ### CAPÍTULO VI. Denuncias y Relaciones de Hechos
 
@@ -812,3 +834,11 @@ P.O. 1 DE JULIO DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 437.- SE REFORMA LA LEY PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA ESCOLAR EN EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
