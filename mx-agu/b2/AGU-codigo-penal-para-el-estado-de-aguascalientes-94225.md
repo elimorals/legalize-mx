@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2026-04-06"
+last_updated: "2026-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2026.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -501,11 +501,17 @@ Exclusión de punibilidad. Cuando el responsable hubiese sufrido consecuencias g
 
 Si se trata de un hecho punible culposo cometido en contra de un ascendiente o descendiente consanguíneo en línea recta, hermano, cónyuge, concubino, adoptante o adoptado del responsable, o cuando el responsable en ocasión de un hecho punible culposo haya sufrido un daño moral de difícil reparación, el juez podrá prescindir de la aplicación de penas privativas o restrictivas de libertad. Esta disposición no se considerará si el responsable en el momento de la realización del hecho, se encontrare bajo el efecto de bebidas embriagantes o narcóticos, o no auxiliare debidamente a las víctimas.
 
-> <small>(ADICIONADO, P.O. 22 DE AGOSTO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2026)</small>
 
-ARTÍCULO 38 BIS.- Reincidencia. Hay reincidencia siempre que el condenado por sentencia ejecutoria, dictada por cualquier tribunal de la República Mexicana o del extranjero, cometa otro delito en la entidad, si no ha transcurrido, desde el cumplimiento de la condena, un término igual al de la prescripción de la pena.
+ARTÍCULO 38 BIS.- Reincidencia. Hay reincidencia siempre que el condenado por sentencia ejecutoria, dictada por cualquier tribunal de los Estados Unidos Mexicanos o del extranjero, cometa otro delito en la entidad, si no ha transcurrido, desde el cumplimiento de la condena, un término igual al de la prescripción de la pena, salvo las excepciones de los delitos señalados como imprescriptibles.
 
-Al reincidente se le aplicará la sanción que corresponda por el último delito cometido, la que podrá aumentarse hasta en dos terceras partes de la pena mínima establecida en el tipo penal correspondiente.
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2026)</small>
+
+Al reincidente se le aplicará la sanción que corresponda por el último delito cometido, la que podrá aumentarse hasta en dos terceras partes de sus mínimos y máximos de la pena establecida en el tipo penal correspondiente.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2026)</small>
+
+En la determinación sobre la existencia de la reincidencia se comprenden los casos en que exista la tentativa punible del tipo penal que corresponda, sea cual fuere el carácter con que intervenga el responsable.
 
 > <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2026)</small>
 
@@ -1547,19 +1553,23 @@ II. La inducción que se realice sobre una persona menor de 18 años de edad o d
 
 III. La venta o suministro que de cualquier forma se haga a personas menores de 18 años de edad, o de personas que no tienen capacidad para comprender el significado del hecho o resistirlo, de sustancias tóxicas, tales como materiales solventes, alcoholes, medicamentos y otras sustancias que produzcan efectos similares;
 
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2026)</small>
 
-IV. Emplear, directa o indirectamente, a personas menores de dieciocho años o personas que no tengan la capacidad de comprender el significado del hecho o resistirlo, para que presten servicios en cantinas, tabernas, bares, establecimientos donde otras personas practiquen la prostitución o en cualquier lugar nocivo donde se afecte de forma negativa su sano desarrollo físico, mental o emocional. Se considerará que se emplea a las personas descritas en la presente Fracción cuando preste sus servicios por un salario, comida, comisión de cualquier tipo, estipendio, gaje o emolumento, o bien gratuitamente; o
+IV. Emplear, directa o indirectamente, a personas menores de dieciocho años o personas que no tengan la capacidad de comprender el significado del hecho o resistirlo, para que presten servicios en cantinas, tabernas, bares, establecimientos donde otras personas practiquen la prostitución o en cualquier lugar nocivo donde se afecte de forma negativa su sano desarrollo físico, mental o emocional. Se considerará que se emplea a las personas descritas en la presente Fracción cuando preste sus servicios por un salario, comida, comisión de cualquier tipo, estipendio, gaje o emolumento, o bien gratuitamente;
 
-> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2026)</small>
 
-V. Obligar, inducir, facilitar, procurar o emplear directa o indirectamente, a personas menores de 18 años de edad, o personas que no tengan capacidad para comprender el significado del hecho o resistirlo, para formar parte de una asociación delictuosa, para los efectos de esta fracción, se entenderá como asociación delictuosa lo previsto en el artículo 178 D, de este Código;
+V. Obligar, inducir, facilitar, procurar o emplear directa o indirectamente, a personas menores de 18 años de edad, o personas que no tengan capacidad para comprender el significado del hecho o resistirlo, para formar parte de una asociación delictuosa, para los efectos de esta fracción, se entenderá como asociación delictuosa lo previsto en el artículo 178 D, de este Código; o
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2026)</small>
+
+VI . Inducir, incitar, facilitar, permitir o tolerar que una persona menor de dieciocho años de edad o una persona que no tenga capacidad para comprender el significado del hecho o resistirlo utilice máquinas de juegos de azar o dispositivos electrónicos de apuesta cuyo funcionamiento dependa predominantemente del azar y no de la destreza o habilidad del usuario, en los que se ofrezca o permita la obtención de un beneficio económico directo en dinero.
 
 Para los efectos de este Artículo, por exhibicionismo corporal se entenderá mostrar la vagina, pene, senos, glúteos o ano.
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2026)</small>
 
-Al responsable de Corrupción de Menores e incapaces descrita en las Fracciones I, II, III y V se aplicarán de 6 a 14 años de prisión y de 200 a 500 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. Tratándose de la Fracción IV, al responsable se le aplicaran de 3 a 5 años de prisión, de 100 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
+Al responsable de Corrupción de Menores e incapaces descrita en las Fracciones I, II, III y V se aplicarán de 6 a 14 años de prisión y de 200 a 500 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados. Tratándose de las Fracciones IV y VI al responsable se le aplicaran de 3 a 5 años de prisión, de 100 a 200 días multa, y al pago total de la reparación de los daños y perjuicios ocasionados.
 
 > <small>(REFORMADO, P.O. 23 DE MARZO DE 2015)</small>
 
@@ -2230,6 +2240,10 @@ X. El obtener un beneficio indebido mediante la simulación de un acto jurídico
 XI. Obtener un lucro indebido o una prestación que no le corresponda a un particular, por utilizar una credencial, identificación o nombramiento que no le pertenezca y que lo acredite como servidor público;
 
 XII. Causar un perjuicio público o privado por sí o por interpósita persona, al fraccionar, enajenar o comprometerse a enajenar, la propiedad, la posesión o cualquier derecho sobre un lote de terreno urbano o rústico, propio o ajeno, con o sin construcciones, sin el previo permiso de las autoridades competentes, o cuando existiendo éste no se hayan satisfecho los requisitos en tal permiso señalados;
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2026)</small>
+
+XIII. El obtener un lucro indebido para sí o para otro, empleando como objeto de medio comisivo máquinas de juegos de azar o dispositivos electrónicos de apuesta cuyo funcionamiento dependa predominantemente del azar y no de la destreza o habilidad del usuario, en los que se ofrezca o permita la obtención de un beneficio económico directo en dinero, para inducir al error o engaño de los usuarios respecto de las probabilidades de obtención de premios, generando un perjuicio patrimonial a éstos.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2016)</small>
 
@@ -4958,3 +4972,27 @@ P.O. 6 DE ABRIL DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 20 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 443.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 20 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 483.- SE REFORMA EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Las autoridades competentes adoptarán las medidas necesarias para la debida aplicación del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las autoridades competentes implementarán, en el ámbito de sus atribuciones, campañas de prevención dirigidas a evitar la participación de niñas, niños y adolescentes en juegos de azar, así como acciones de sensibilización sobre los riesgos asociados a dichas actividades.
