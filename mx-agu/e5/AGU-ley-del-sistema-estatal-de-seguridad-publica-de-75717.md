@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-seguridad-publica-de-75717"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-02"
-last_updated: "2025-12-22"
+last_updated: "2026-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de agosto de 2010.
 
@@ -695,7 +695,9 @@ III.- Acordar la celebración de convenios o acuerdos en el ejercicio de sus atr
 
 IV.- Proporcionar a la Secretaría la información necesaria para darle seguimiento a la ejecución y resultados de las funciones y programas de seguridad;
 
-V.- Impulsar la profesionalización de los integrantes de las instituciones policiales municipales;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2026)</small>
+
+V.- Impulsar la profesionalización de los integrantes de las instituciones policiales municipales, conforme a los estándares, lineamientos y modelos que establezca el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública, en términos de la legislación general aplicable;
 
 VI.- Dictar las disposiciones administrativas de las funciones operativas, para la observancia y cumplimiento de esta Ley;
 
@@ -703,13 +705,25 @@ VI.- Dictar las disposiciones administrativas de las funciones operativas, para 
 
 VII.- Hacer del conocimiento de la persona titular del Poder Ejecutivo del Estado, las alteraciones graves del orden público y la tranquilidad social en sus comunidades;
 
-> <small>(ADICIONADA, P.O. 1 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2026)</small>
 
-VIII.- En el ámbito de su competencia, expedir la reglamentación y demás disposiciones administrativas de carácter general necesarias para la implementación de medidas sobre la comercialización de armas que tengan características similares a cualquier arma real en su forma, dimensiones y colores, incluyendo también recubrimientos que resulten en texturas parecidas a aquellas de las armas verdaderas, y que no cumplan con la NORMA Oficial Mexicana NOM.161-SCFI-2003; así como para establecer las sanciones administrativas aplicables en caso de incumplimiento; y
+VIII.- En el ámbito de su competencia, expedir la reglamentación y demás disposiciones administrativas de carácter general necesarias para la implementación de medidas sobre la comercialización de armas que tengan características similares a cualquier arma real en su forma, dimensiones colores, incluyendo también recubrimientos que resulten en texturas parecidas a aquellas de las armas verdaderas, y que no cumplan con las Normas Oficiales Mexicanas aplicables en la materia; así como para establecer las sanciones administrativas aplicables en caso de incumplimiento;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 1 DE ABRIL DE 2024)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ABRIL DE 2026)</small>
 
-IX.- Ejercer las demás facultades que les confiere esta Ley y los ordenamientos legales aplicables.
+IX.- Asistir a las mesas de seguridad y paz del Estado, cuando se les convoque;
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2026)</small>
+
+X.- Establecer reuniones periódicas de seguridad pública;
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2026)</small>
+
+XI.- Impulsar la justicia cívica para la atención a las faltas administrativas incluyendo la capacitación de jueces cívicos y demás operadores municipales, conforme a los estándares que establezca el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA Y REUBICADA], P.O. 20 DE ABRIL DE 2026)</small>
+
+XII.- Ejercer las demás facultades que les confiere esta Ley y los ordenamientos aplicables.
 
 ###### Artículo 27.
 
@@ -2117,6 +2131,10 @@ El Estado y los Municipios, en lo que les corresponda, mantendrán actualizada l
 
 El Estado y los municipios, de acuerdo con la Federación, realizarán los trabajos para lograr la compatibilidad de los servicios de telecomunicaciones de su red local correspondiente, con las bases de datos criminalísticos y de personal del Sistema, previstas en la Ley General del Sistema Nacional de Seguridad Pública.
 
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2026)</small>
+
+La información relativa a las medidas u órdenes de protección dictadas a favor de las mujeres, adolescentes, niñas y niños formará parte de dichas bases de datos criminalísticas y de personal, y deberá integrarse, administrarse y actualizarse conforme a los lineamientos del Sistema Nacional de Información, observando en todo momento los principios de confidencialidad, reserva y protección de datos personales previstos en la legislación general aplicable y en esta Ley.
+
 ### CAPÍTULO II. Sistema Estatal de Estadística Criminológica
 
 ###### Artículo 106.
@@ -3098,5 +3116,27 @@ P.O. 22 DE SEPTIEMBRE DE 2025.
 P.O. 22 DE DICIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 344.- SE REFORMA LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 20 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 440.- SE ADICIONA LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública deberá realizar las adecuaciones técnicas, administrativas y operativas necesarias para la integración y actualización permanente de la información relativa a las medidas u órdenes de protección dentro de un plazo máximo de 90 días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Las instituciones de seguridad pública del Estado y de los municipios deberán modificar sus protocolos internos de registro, resguardo y manejo de información relativa a medidas u órdenes de protección dentro de un plazo no mayor a 120 días naturales, garantizando su articulación con el Sistema Nacional de Información y el Registro Nacional de Medidas u Órdenes de Protección.
+
+P.O. 20 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 448.- SE REFORMA LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
