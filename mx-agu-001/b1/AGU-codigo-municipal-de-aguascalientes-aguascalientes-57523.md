@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2026-04-13"
+last_updated: "2026-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,11 @@ state: "AGU"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 27 DE ABRIL DE 2026 EN EL P.O. DEL ESTADO DE AGUASCALIENTES, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2026.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -19459,89 +19461,97 @@ I. Recibir, analizar y tramitar las solicitudes para el otorgamiento de las lice
 
 II. Recibir las solicitudes de las personas físicas o morales para los cambios de: titular de la licencia, domicilio, aumento y/o disminución de giro, suspensión de actividades o su respectiva corrección de las licencias expedidas por el Municipio, así como las cancelaciones voluntarias de las licencias;
 
-> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
+> <small>(ADICIONADA [N. DE E. ESTE FRACCIÓN ES SIMILAR A LA FRACCIÓN II], P.O. 20 DE ABRIL DE 2026)</small>
 
-III. Integrar los expedientes correspondientes, previo cumplimiento de los requisitos establecidos en el presente Libro;
-
-> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
-
-IV. Ordenar que se coteje y se deje copia fotostática de toda documentación que se deba presentar en original, para la integración de los expedientes así como su digitalización;
+III. Recibir las solicitudes de las personas físicas o morales para los cambios de: titular de la licencia, domicilio, aumento y/o disminución de giro, suspensión de actividades o su respectiva corrección de las licencias expedidas por el Municipio, así como las cancelaciones voluntarias de las licencias;
 
 > <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
 
-V. Autorizar las degustaciones de cualquier tipo de bebidas alcohólicas en lugares públicos;
+IV. Integrar los expedientes correspondientes, previo cumplimiento de los requisitos establecidos en el presente Libro;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2026)</small>
+
+V. Ordenar que se coteje y se deje copia fotostática de toda documentación que se deba presentar en original, para la integración de los expedientes, así como su digitalización;
 
 > <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
 
-VI. Solicitar dictámenes y demás requerimientos a las autoridades municipales correspondientes, para el cumplimiento de los requisitos de las solicitudes de licencias y/o permisos;
+VI. Autorizar las degustaciones de cualquier tipo de bebidas alcohólicas en lugares públicos;
 
 > <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
 
-VII. Autorizar y suscribir los permisos para eventos públicos y/o privados que se desarrollen en lugares públicos, en términos de lo establecido en el presente Título;
+VII. Solicitar dictámenes y demás requerimientos a las autoridades municipales correspondientes, para el cumplimiento de los requisitos de las solicitudes de licencias y/o permisos;
 
 > <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
 
-VIII. Autorizar y suscribir las ampliaciones y anticipaciones de horarios de los establecimientos mercantiles y/o lugares a que se refiere el presente Título;
+VIII. Autorizar y suscribir los permisos para eventos públicos y/o privados que se desarrollen en lugares públicos, en términos de lo establecido en el presente Título;
+
+> <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
+
+IX. Autorizar y suscribir las ampliaciones y anticipaciones de horarios de los establecimientos mercantiles y/o lugares a que se refiere el presente Título;
 
 > <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
-IX. Sancionar y ordenar su ejecución, mediante clausura temporal o definitiva a los establecimientos mercantiles o lugares y la imposición o reimposición de sellos de clausura, conforme a las disposiciones jurídicas aplicables;
+X. Sancionar y ordenar su ejecución, mediante clausura temporal o definitiva a los establecimientos mercantiles o lugares y la imposición o reimposición de sellos de clausura, conforme a las disposiciones jurídicas aplicables;
 
 > <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
 
-X. Llevar un registro y control de licencias y permisos otorgados por el Municipio y regulados por el presente Título y de los cambios que le sean autorizados;
+XI. Llevar un registro y control de licencias y permisos otorgados por el Municipio y regulados por el presente Título y de los cambios que le sean autorizados;
 
 > <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
 
-XI. Recibir y calificar las actas de verificación y en su caso determinar y aplicar todas aquellas sanciones y/o medidas de seguridad por la contravención a las disposiciones del presente Libro y, en su caso remitirlas a la Secretaría de Finanzas para su cobro;
+XII. Recibir y calificar las actas de verificación y en su caso determinar y aplicar todas aquellas sanciones y/o medidas de seguridad por la contravención a las disposiciones del presente Libro y, en su caso remitirlas a la Secretaría de Finanzas para su cobro;
 
 > <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
 
-XII. Determinar, en su caso, la improcedencia de las sanciones de las actas de verificación que le sean remitidas para su calificación;
+XIII. Determinar, en su caso, la improcedencia de las sanciones de las actas de verificación que le sean remitidas para su calificación;
 
 > <small>(REFORMADA, P.O. 13 DE ENERO DE 2014)</small>
 
-XIII.- Ordenar el retiro de sellos de clausura una vez que se hayan pagado las multas y/o subsanado las observaciones de la autoridad municipal competente;
+XIV.- Ordenar el retiro de sellos de clausura una vez que se hayan pagado las multas y/o subsanado las observaciones de la autoridad municipal competente;
 
 > <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
 
-XIV. Solicitar a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, que expida a través de la Dirección de Asuntos Jurídicos, los dictámenes de cancelación de las licencias que regula el presente Libro, cuando proceda, a excepción de los dictámenes que se realizan por cancelación voluntaria;
+XV. Solicitar a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, que expida a través de la Dirección de Asuntos Jurídicos, los dictámenes de cancelación de las licencias que regula el presente Libro, cuando proceda, a excepción de los dictámenes que se realizan por cancelación voluntaria;
 
 > <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2024)</small>
 
-XV. Coordinarse con la Coordinación General de Infraestructura y Desarrollo Tecnológico, para que se elabore y actualice un sistema informático del padrón de licencias y permisos, con los datos y herramientas necesarias para su consulta, en los términos de los ordenamientos jurídicos de acceso a la información;
+XVI. Coordinarse con la Coordinación General de Infraestructura y Desarrollo Tecnológico, para que se elabore y actualice un sistema informático del padrón de licencias y permisos, con los datos y herramientas necesarias para su consulta, en los términos de los ordenamientos jurídicos de acceso a la información;
 
 > <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
 
-XVI. Remitir a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno los expedientes debidamente integrados para la expedición de licencias;
+XVII. Remitir a la Secretaría del H. Ayuntamiento y Dirección General de Gobierno los expedientes debidamente integrados para la expedición de licencias;
 
 > <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
 
-XVII. Expedir y firmar conjuntamente con la persona titular de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, la acreditación de las personas que tiene a su cargo, para desarrollar las actividades de vigilancia que establecen los ordenamientos jurídicos aplicables, en materia de espectáculos públicos, deportivos u otros;
+XVIII. Expedir y firmar conjuntamente con la persona titular de la Secretaría del H. Ayuntamiento y Dirección General de Gobierno, la acreditación de las personas que tiene a su cargo, para desarrollar las actividades de vigilancia que establecen los ordenamientos jurídicos aplicables, en materia de espectáculos públicos, deportivos u otros;
 
 > <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
 
-XVIII. Expedir y firmar la acreditación correspondiente a todas aquellas personas que individualmente o en grupo se dediquen a las actividades musicales u otras en la materia y hagan de ella su modo de vida;
+XIX. Expedir y firmar la acreditación correspondiente a todas aquellas personas que individualmente o en grupo se dediquen a las actividades musicales u otras en la materia y hagan de ella su modo de vida;
 
 > <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
 
-XIX. Las que sean inherentes a su función y necesarias para el cumplimiento del presente Libro;
+XX. Las que sean inherentes a su función y necesarias para el cumplimiento del presente Libro;
 
 > <small>(ADICIONADA, P.O. 4 DE MARZO DE 2013)</small>
 
-XX. Rendir el informe correspondiente en forma mensual a la Comisión Permanente de Control Reglamentario y Espectáculos o cuando así lo requiera la Comisión; y
+XXI. Rendir el informe correspondiente en forma mensual a la Comisión Permanente de Control Reglamentario y Espectáculos o cuando así lo requiera la Comisión; y
 
 > <small>(REFORMADA, P.O. 8 DE ENERO DE 2018)</small>
 
-XXI. Ordenar la práctica de visitas domiciliarias de tipo preventivo precisadas en el artículo 342 QUINQUIES del presente Código, para efecto de llevar a cabo las mediciones de ruido, así como detectar la fuente emisora que lo produce, de todo ello se levantará acta circunstanciada;
+XXII. Ordenar la práctica de visitas domiciliarias de tipo preventivo precisadas en el artículo 342 QUINQUIES del presente Código, para efecto de llevar a cabo las mediciones de ruido, así como detectar la fuente emisora que lo produce, de todo ello se levantará acta circunstanciada;
 
 > <small>(ADICIONADA, P.O. 8 DE ENERO DE 2018)</small>
 
-XXII. Requerir y apercibir al infractor, propietario o poseedor del bien inmueble, el cumplimiento a las disposiciones previstas en el Apartado Séptimo del Capítulo VIII, Título Tercero, Libro Segundo del presente Código;
+XXIII. Requerir y apercibir al infractor, propietario o poseedor del bien inmueble, el cumplimiento a las disposiciones previstas en el Apartado Séptimo del Capítulo VIII, Título Tercero, Libro Segundo del presente Código;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE ABRIL DE 2026)</small>
+
+XXIV. Verificar que, como requisito indispensable para la expedición o renovación de licencias o permisos para la venta o consumo de bebidas alcohólicas, el establecimiento cuente con constancia válida expedida por la Coordinación del Centro de Mando C-4, que acredite la instalación y funcionamiento en tiempo real de cámaras de videovigilancia conforme a lo establecido en el artículo 1306, fracción XIV.
 
 > <small>(ADICIONADA, P.O. 8 DE ENERO DE 2018)</small>
 
-XXIII. Las demás que otorgue el presente Código y las leyes de la materia o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+XXV. Las demás que otorgue el presente Código y las leyes de la materia o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
 
 ARTÍCULO 1298 UNDECIES.- (DEROGADO, P.O. 13 DE ENERO DE 2014)
 
@@ -19995,11 +20005,11 @@ Todas las licencias reglamentadas deberán ser renovadas anualmente a más tarda
 
 ARTÍCULO 1305 BIS.- Para la realización de cambio de domicilio del establecimiento mercantil, industrial o de servicios reglamentados o especiales, la persona interesada debe cumplir con todos y cada uno de los requisitos necesarios como si se tratase de una solicitud de licencia nueva, realizar el pago de los derechos correspondientes y contar con la autorización de la autoridad municipal competente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2026)</small>
 
 ###### ARTÍCULO 1306.
 
-Cualquier persona interesada en obtener una licencia para un establecimiento mercantil que se dedique a la venta y/o consumo de bebidas alcohólicas; sustancias o medicamentos de efectos psicotrópicos o enervantes, deberá presentar ante la Dirección de Reglamentos, los siguientes requisitos:
+Cualquier persona interesada en obtener una licencia para un establecimiento mercantil que se dedique a la venta y/o consumo de bebidas alcohólicas; sustancias o medicamentos de efectos psicotrópicos o enervantes, deberá presentar ante la Dirección de Reglamentación, los siguientes requisitos:
 
 > <small>(REFORMADA, P.O. 4 DE MARZO DE 2013)</small>
 
@@ -20053,7 +20063,15 @@ XII. Fotografías del exterior y del interior del establecimiento; y
 
 XIII. Que el acceso del establecimiento mercantil sea independiente y por la vía pública.
 
-(REFORMADO, P.O. 4 DE MARZO DE 2013)Además del cumplimiento de los requisitos anteriores, para los establecimientos mercantiles señalados en la fracción I, II, III y IV incisos c), d), f), j) y k) del artículo 1300 del presente Código, que tengan una capacidad de aforo mayor a cien personas, deberán cumplir con los siguientes requisitos:
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2026)</small>
+
+XIV. Para la expedición o renovación de licencias o permisos para la venta de bebidas alcohólicas, se deberá acompañar una constancia expedida por la Coordinación del Centro de Mando C-4, que acredite que el establecimiento cuenta con una cámara de videovigilancia en funcionamiento continuo, transmitiendo en tiempo real a dicha Coordinación.
+
+Las cámaras deberán cumplir con las especificaciones técnicas que para el efecto establezca el área técnica correspondiente.
+
+> <small>(REFORMADO, P.O. 4 DE MARZO DE 2013)</small>
+
+Además del cumplimiento de los requisitos anteriores, para los establecimientos mercantiles señalados en la fracción I, II, III y IV incisos c), d), f), j) y k) del artículo 1300 del presente Código, que tengan una capacidad de aforo mayor a cien personas, deberán cumplir con los siguientes requisitos:
 
 > <small>(REFORMADA, P.O. 4 DE MARZO DE 2013)</small>
 
@@ -26848,3 +26866,27 @@ P.O. 13 DE ABRIL DE 2026.
 ## [N. DE E. TRANSITORIO DE LAS “ADICIONES DE DIVERSAS DISPOSICIONES AL ARTÍCULO 1344 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
 
 ÚNICO.- La presente adición iniciarán (sic) su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 20 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA A LA FRACCIÓN XXIV Y SE ADICIONA LA FRACCIÓN XXV AL ARTÍCULO 1298 DECIES; Y, SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 1306 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO. Se deberá emitir, en un plazo no mayor a noventa días naturales contados a partir de la entrada en vigor de la presente reforma, las disposiciones técnicas, lineamientos y especificaciones necesarias para la implementación del sistema de video vigilancia.
+
+TERCERO. Una vez que entren en vigor las disposiciones normativas referidas en el artículo transitorio anterior, se instruye a la Dirección de Reglamentos, así como a la Secretaría de Finanzas del Municipio de Aguascalientes, para que, en el ámbito de sus respectivas competencias, lleven a cabo las acciones administrativas necesarias a efecto de incorporar de manera progresiva la obligatoriedad del cumplimiento de lo dispuesto en los artículos 1298 Decies, fracción XXIII, y 1306, fracción XIV, al momento de realizar los siguientes trámites:
+
+a) Cambio de domicilio y/o de propietario;
+
+b) Apertura de nuevas licencias; y
+
+c) Renovación anual de licencias.
+
+CUARTO. Los titulares de licencias o permisos vigentes para la venta o consumo de bebidas alcohólicas que no se encuentren en los supuestos previstos en el artículo transitorio anterior, contarán con un plazo de hasta ciento ochenta días naturales, contados a partir de la entrada en vigor de las disposiciones técnicas señaladas en el artículo segundo transitorio, para cumplir con la obligación de instalación, funcionamiento y transmisión en tiempo real de cámaras de video vigilancia.
+
+QUINTO. Durante el periodo de transición señalado, las autoridades municipales deberán privilegiar un enfoque de acompañamiento, orientación y facilitación administrativa, a fin de promover el cumplimiento gradual de las obligaciones previstas, evitando afectaciones desproporcionadas a los titulares de licencias o permisos.
+
+SEXTO. Los trámites de expedición o renovación de licencias o permisos iniciados con anterioridad a la entrada en vigor de la presente reforma se substanciarán conforme a las disposiciones vigentes al momento de su inicio.
+
+SÉPTIMO. Concluidos los plazos de implementación previstos en los artículos transitorios tercero y cuarto, el cumplimiento de lo dispuesto en los artículos 1298 Decies, fracción XXIII, y 1306, fracción XIV, será exigible en su totalidad.
