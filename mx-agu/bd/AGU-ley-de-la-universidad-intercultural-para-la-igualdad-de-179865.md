@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-universidad-intercultural-para-la-igualdad-de-179865"
 country: "mx"
 rank: "ley"
 publication_date: "2025-05-02"
-last_updated: "2025-11-24"
+last_updated: "2026-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=179865&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA UNIVERSIDAD INTERCULTURAL PARA LA IGUALDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2026.
 
 Ley publicada en el Extraordinario del Número 30 en el Periódico Oficial del Estado de Aguascalientes, el viernes 2 de mayo de 2025.
 
@@ -239,9 +239,13 @@ LIV. Asegurar el principio de libertad de cátedra y libre investigación, aline
 
 LV. Las demás que le señale la Ley que la crea, en su Reglamento Interior y las demás disposiciones normativas e instrumentos aplicables.
 
-### CAPITULO III. Patrimonio
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 2026)</small>
 
-#### Sección Primera. Junta de Gobierno
+### CAPITULO III. Patrimonio de la Universidad, Infraestructura y Equipamiento de sus Bienes
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2026)</small>
+
+#### Sección Primera. Patrimonio de la Universidad
 
 ###### Artículo 12.
 
@@ -277,7 +281,33 @@ Los ingresos que obtenga la Universidad por concepto de colegiaturas y cuotas de
 
 El ejercicio de los recursos de la Universidad se ajustará siempre a los criterios de racionalidad y disciplina presupuestal y al cumplimiento de las disposiciones legales aplicables en la materia.
 
-#### Sección Segunda. Rectoría
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE ABRIL DE 2026)</small>
+
+#### Sección Segunda. Infraestructura y Equipamiento de sus Bienes
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2026)</small>
+
+Artículo 16 A. Dentro de la infraestructura mínima con la que cuente la Universidad se encontrará una sala de lactancia privada e higiénica en términos de las normas oficiales mexicanas, para que las madres de la comunidad universitaria puedan extraer y conservar su leche materna.
+
+Dicha sala de lactancia deberá tener un espacio mínimo de cinco metros cuadrados, contar con al menos cuatro conexiones eléctricas, así como estar ubicada en un lugar de fácil acceso, en su caso, preferentemente en pisos inferiores.
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2026)</small>
+
+Artículo 16 B. Dentro del equipamiento mínimo con el que cuente la sala de lactancia a que se refiere el artículo anterior, se encontrará aquel que garantice la privacidad de las usuarias, y una adecuada iluminación y ventilación; así como que esté provisto por lo menos de:
+
+I. - Mesas, sillas o sillones cómodos, suficientes para el número de madres trabajadoras o al espacio disponible;
+
+II. - Un refrigerador o frigobar en el que se pueda conservar exclusivamente la leche materna;
+
+III.- Un microondas, un extractor manual de leche materna y un extractor eléctrico con succión de vacío;
+
+IV.- Esterilizadores y recipientes o bolsas para almacenar leche materna, suficientes para el número de madres trabajadoras;
+
+V.- Etiquetas adhesivas y marcadores para rotular los recipientes o bolsas para almacenar la leche materna;
+
+VI.- Un dispensador de jabón líquido o de gel desinfectante; y
+
+VII.- Un lavabo, un dispensador de toallas de papel para el secado de manos, y un dispensador de agua potable.
 
 ### CAPITULO IV. Organización
 
@@ -337,7 +367,7 @@ La persona titular de la Rectoría podrá nombrar y remover libremente a las per
 
 ### CAPITULO V. Órganos de Gobierno y Administración
 
-#### Sección Primera. Dirección Académica
+#### Sección Primera. Junta de Gobierno
 
 ###### Artículo 20.
 
@@ -479,7 +509,7 @@ XXXIV. Determinar los lineamientos para elegir la terna al cargo de Rector, obse
 
 XXXV. Las demás que se consideren para el buen funcionamiento de la Universidad, que sean por el bien común y que prioricen procesos transparentes y democráticos en la toma de decisiones.
 
-#### Sección Segunda. Dirección Administrativa
+#### Sección Segunda. Rectoría
 
 ###### Artículo 26.
 
@@ -549,7 +579,7 @@ XIV. Las demás que le confiera la Junta de Gobierno, la Ley de Entidades Paraes
 
 Las Unidades Administrativas serán todas aquellas, dependientes de la persona titular de la Rectoría, necesarias para el cumplimiento del objeto de la Universidad, mismas que se establezcan en la presente Ley, así como en el Reglamento, los Manuales de Organización y demás disposiciones aplicables.
 
-#### Sección Tercera. Dirección de Vinculación
+#### Sección Primera. Dirección Académica
 
 ###### Artículo 30.
 
@@ -597,7 +627,7 @@ XI. Coordinar, en conjunto con el Consejo Académico, los proyectos de investiga
 
 XII. Las demás que de manera específica de (sic) señale la persona titular de la Rectoría y la normatividad interna de la Universidad.
 
-#### Sección Cuarta. Dirección Jurídica
+#### Sección Segunda. Dirección Administrativa
 
 ###### Artículo 33.
 
@@ -657,7 +687,7 @@ XXIV. Realizar todas aquellas actividades afines a las que anteceden; y
 
 XXV. Las demás que de manera específica le señale la persona titular de la Rectoría y la normatividad interna de la Universidad.
 
-#### Sección Quinta. Dirección para la Igualdad y Contra la Violencia
+#### Sección Tercera. Dirección de Vinculación
 
 ###### Artículo 35.
 
@@ -693,7 +723,7 @@ XII. Elaborar el informe anual de las actividades desempeñadas en la propia Dir
 
 XIII. Las demás que de manera específica le señale la persona titular de la Rectoría y la normatividad interna de la Universidad.
 
-#### Sección Primera. Consejo Académico
+#### Sección Cuarta. Dirección Jurídica
 
 ###### Artículo 37.
 
@@ -725,7 +755,7 @@ X. Realizar los trámites que sean necesarios para el registro legal de patentes
 
 XI. Las demás que de manera específica le señale la persona titular de la Rectoría y la normatividad interna de la Universidad.
 
-#### Sección Segunda. Consejo de las Comunidades Diversas e Inclusivas
+#### Sección Quinta. Dirección para la Igualdad y Contra la Violencia
 
 ###### Artículo 39.
 
@@ -781,7 +811,7 @@ XII. Las demás que de manera específica le señale la persona titular de la Re
 
 Para el funcionamiento y operación de los Órganos Colegiados de la Universidad, se estará de conformidad con la presente Ley, su reglamento y demás disposiciones normativas aplicables para tal efecto.
 
-#### Sección Tercera. Consejo de Vinculación y Pertinencia
+#### Sección Primera. Consejo Académico
 
 ###### Artículo 43.
 
@@ -819,7 +849,7 @@ II. Una persona académica por cada sede y por programa educativo de la Universi
 
 La persona titular integrante del Consejo Académico tendrá un suplente, quienes tendrán los mismos derechos y obligaciones.
 
-#### Sección Cuarta. Consejo Estudiantil
+#### Sección Segunda. Consejo de las Comunidades Diversas e Inclusivas
 
 ###### Artículo 46.
 
@@ -913,7 +943,7 @@ El suplente que será designado de la misma forma que el Titular podrá funciona
 
 En caso de que en la convocatoria no se presenten propuestas de todos los rubros arriba enlistados el Consejo se conformará de manera paritaria y equilibrada con aquellos grupos que si atiendan la convocatoria.
 
-#### Sección Primera. Órgano de Vigilancia
+#### Sección Tercera. Consejo de Vinculación y Pertinencia
 
 ###### Artículo 50.
 
@@ -961,7 +991,7 @@ Por cada persona titular deberá haber un suplente. Los consejeros durarán en s
 
 En el caso de las personas representantes de la sociedad civil, durarán en su cargo tres años, pudiendo ser invitados a participar por un periodo igual.
 
-#### Sección Segunda. Órgano Interno de Control
+#### Sección Cuarta. Consejo Estudiantil
 
 ###### Artículo 53.
 
@@ -989,7 +1019,7 @@ Para ser persona integrante del Consejo Estudiantil se requiere cumplir con los 
 
 ### CAPITULO VIII. Órganos de Control y Evaluación
 
-#### Sección Primera. Personal
+#### Sección Primera. Órgano de Vigilancia
 
 ###### Artículo 55.
 
@@ -999,7 +1029,7 @@ El Comisario Público evaluará el desempeño general y por funciones de la Univ
 
 Para el cumplimiento de las funciones citadas por la Junta de Gobierno y la persona titular de la Rectoría deberán proporcionar la información que solicite el Comisario Público de la Universidad y el Órgano Superior de Fiscalización del Estado, este último será sólo respecto de las cuentas públicas que le sean presentadas.
 
-#### Sección Segunda. Régimen Laboral
+#### Sección Segunda. Órgano Interno de Control
 
 ###### Artículo 56.
 
@@ -1147,7 +1177,7 @@ XIII. Las demás atribuciones otorgadas por las disposiciones legales aplicables
 
 ### CAPITULO IX. Disposiciones Complementarias
 
-#### Sección Tercera. Ausencias y Suplencias
+#### Sección Primera. Personal
 
 ###### Artículo 63.
 
@@ -1159,13 +1189,13 @@ Los nombramientos definitivos del personal docente de la Universidad se otorgar�
 
 Los principios de libertad de cátedra y de libre investigación normarán la actividad académica y de investigación universitaria.
 
-#### Sección Cuarta. Responsabilidades Administrativas
+#### Sección Segunda. Régimen Laboral
 
 ###### Artículo 65.
 
 Las relaciones de trabajo entre la Universidad y sus trabajadores se regularán por las disposiciones del Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios, Órganos Constitucionales Autónomos y Organismos Descentralizados y demás normatividad aplicable.
 
-#### Sección Quinta. Personas Estudiantes
+#### Sección Tercera. Ausencias y Suplencias
 
 ###### Artículo 66.
 
@@ -1183,9 +1213,13 @@ Las ausencias temporales, de casos especiales o definitivas, así como las suple
 
 Las personas servidoras públicas que cubran las ausencias temporales o especiales, actuarán con todas las facultades que correspondan a la persona titular, independientemente de las de su propio cargo.
 
+#### Sección Cuarta. Responsabilidades Administrativas
+
 ###### Artículo 69.
 
 Las violaciones a los preceptos de la presente Ley y a las disposiciones que de ésta emanen, constituyen una falta administrativa que será sancionada en términos de la Ley de Responsabilidades.
+
+#### Sección Quinta. Personas Estudiantes
 
 ###### Artículo 70.
 
@@ -1276,3 +1310,15 @@ P.O. 24 DE NOVIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 300.- SE REFORMA LA LEY DE LA UNIVERSIDAD INTERCULTURAL PARA LA IGUALDAD”.]
 
 ÚNICO.– El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 20 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 438 POR EL QUE “SE REFORMA LA DENOMINACIÓN DEL CAPÍTULO III, Y SE ADICIONA UNA SECCIÓN PRIMERA “PATRIMONIO DE LA UNIVERSIDAD”, QUE SE INTEGRA CON LOS VIGENTES ARTÍCULOS 12, 13, 14, 15 Y 16; ASÍ COMO UNA SECCIÓN SEGUNDA “INFRAESTRUCTURA Y EQUIPAMIENTO DE SUS BIENES”, QUE SE INTEGRA CON LOS ARTÍCULOS 16 A Y 16 B QUE TAMBIÉN SE ADICIONAN; TODOS A LA LEY DE LA UNIVERSIDAD INTERCULTURAL PARA LA IGUALDAD.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
