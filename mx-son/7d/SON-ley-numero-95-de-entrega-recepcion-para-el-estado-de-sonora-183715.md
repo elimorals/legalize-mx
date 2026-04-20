@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-95-de-entrega-recepcion-para-el-estado-de-sonora-183
 country: "mx"
 rank: "ley"
 publication_date: "2026-01-12"
-last_updated: "2026-01-12"
+last_updated: "2026-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=183715&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY NUMERO 95 DE ENTREGA RECEPCION PARA EL ESTADO DE SONORA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE ENTREGA-RECEPCIÓN PARA EL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 20 DE ABRIL DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE ENTREGA RECEPCIÓN PARA EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ABRIL DE 2026 (ABROGADA).
 
 Ley publicada en el Número 4 Sección II del Boletín Oficial del Estado de Sonora, el lunes 12 de enero de 2026.
 
@@ -1100,3 +1102,25 @@ Comuníquese al Titular del Poder Ejecutivo para su sanción y publicación en e
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los veintinueve días del mes de agosto del año dos mil veinticinco.- GOBERNADOR DEL ESTADO.- DR. FRANCISCO ALFONSO DURAZO MONTAÑO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- LIC. ADOLFO SALAZAR RAZO.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 20 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY DE ENTREGA-RECEPCIÓN PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entra en vigor el día siguiente al de su publicación en (sic) Boletín Oficial del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Entrega Recepción, publicada en el Boletín Oficial del Estado no. 4 sección II, de fecha lunes 12 de enero de 2026.
+
+###### ARTÍCULO TERCERO.
+
+El titular del Poder Ejecutivo en un plazo de 90 días naturales, contado a partir de la entrada en vigor de la presente Ley, deberá expedir el reglamento a que se refiere el presente ordenamiento jurídico y demás normatividad aplicable en la materia.
+
+###### ARTÍCULO CUARTO.
+
+La persona titular del Poder Judicial, y la o el Presidente de la Mesa Directiva del Poder Legislativo, así como de los Ayuntamientos y los diversos organismos autónomos, en un plazo no mayor a 120 días naturales, contado a partir de la entrada en vigor de la presente Ley, podrán observar para ello los criterios y formatos que establezcan para este fin la Secretaría, y la Secretaría de Hacienda, deberá expedir la normatividad secundaria aplicable en el ámbito de su competencia.
