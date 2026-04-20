@@ -4,7 +4,7 @@ identifier: "SON-ley-de-gobierno-y-administracion-municipal-del-estado-de-30437"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2026-01-12"
+last_updated: "2026-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 12 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ABRIL DE 2026.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 15 de octubre de 2001.
 
@@ -2123,13 +2123,15 @@ El Ayuntamiento deberá publicar trimestralmente, un resumen del estado de ingre
 
 Los estados financieros y demás información presupuestal que emane de la contabilidad, serán utilizados por la Tesorería Municipal para la formulación de los avances financieros trimestrales y de la cuenta.
 
-> <small>(REFORMADA SU DENOMINACIÓN, B.O. 10 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 20 DE ABRIL DE 2026)</small>
 
-## TITULO QUINTO. DE LAS PROTESTAS, PERMISOS, FALTAS, LICENCIAS, RENUNCIAS Y RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL MUNICIPIO
+## TÍTULO QUINTO
 
-> <small>(REFORMADA SU DENOMINACIÓN, B.O. 10 DE ABRIL DE 2003)</small>
+DE LAS PROTESTAS, PERMISOS, FALTAS, LICENCIAS, RENUNCIAS, RESPONSABILIDADES Y AUSENCIA DEFINITIVA DE LOS SERVIDORES PÚBLICOS DEL MUNICIPIO.
 
-### CAPITULO UNICO. DE LAS PROTESTAS, PERMISOS, FALTAS, LICENCIAS, RENUNCIAS Y RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL MUNICIPIO
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. Y SU NUMERACIÓN], B.O. 20 DE ABRIL DE 2026)</small>
+
+### CAPÍTULO PRIMERO. DE LAS PROTESTAS, PERMISOS, FALTAS, LICENCIAS, RENUNCIAS Y RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL MUNICIPIO
 
 ###### Artículo 164.
 
@@ -2159,9 +2161,13 @@ Los acuerdos aprobados por los Ayuntamientos que deriven del supuesto previsto e
 
 El supuesto establecido en el párrafo primero del presente artículo aplicará al Síndico y Regidores del Ayuntamiento, sólo que en ambos casos se llamará para que entren en funciones los suplentes respectivos.
 
-###### Artículo 167.
+> <small>(REFORMADO, B.O. 20 DE ABRIL DE 2026)</small>
 
-En caso de falta absoluta del Presidente Municipal, el Ayuntamiento, deberá dar aviso al Congreso del Estado, para los efectos previstos en el artículo 338 de esta Ley.
+###### Articulo 167.
+
+En caso de la falta absoluta de alguno de los miembros del Ayuntamiento, éste deberá dar aviso al Congreso del Estado, para los efectos previstos en el artículo 338 de esta Ley.
+
+Lo previsto en el primer párrafo del presente artículo, no aplicará para los casos de fallecimiento de alguno de los miembros del Ayuntamiento, para lo cual se observará lo que establece, en lo que fuere conducente, el Capítulo Segundo del Título Quinto de la presente Ley.
 
 ###### Artículo 168.
 
@@ -2201,11 +2207,33 @@ Las licencias y renuncias de los empleados de base, se sujetarán a lo que estab
 
 Las responsabilidades de los funcionarios y empleados municipales se sujetarán a las bases normativas establecidas en el título sexto de la Constitución Política local y a lo que señalen las leyes.
 
-### CAPITULO UNICO. DEL SERVICIO CIVIL DE CARRERA
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 20 DE ABRIL DE 2026)</small>
+
+### CAPÍTULO SEGUNDO. DE LA AUSENCIA DEFINITIVA DE LOS MIEMBROS DEL AYUNTAMIENTO
+
+> <small>(ADICIONADO, B.O. 20 DE ABRIL DE 2026)</small>
+
+Artículo 173 BIS.- Se entenderá por ausencia definitiva por defunción la terminación del encargo derivada del fallecimiento de cualquiera de los integrantes del Ayuntamiento en funciones, la cual constituye una modalidad distinta a las causales sancionatorias de separación del cargo y se regirá por el procedimiento previsto en el presente artículo.
+
+I.- Cuando se trate del Presidente o Presidenta Municipal, dentro de los cinco días naturales posteriores a su defunción, el Ayuntamiento deberá comunicar al Congreso del Estado tal situación, el cual, se deberá acompañar de los documentos fehacientes necesarios que acrediten su fallecimiento; asimismo, de la propuesta aprobada por mayoría absoluta de sus integrantes de la persona designada para sustituirla en sus funciones por el resto del tiempo que tenga duración el cargo.
+
+Una vez lo anterior, el Pleno del Congreso del Estado, dentro de los siete días naturales posteriores a dicha notificación, deberá, resolver la Ausencia Definitiva, aprobar la propuesta de designación y, llamar a la persona sustituta a la toma de protesta de ley correspondiente ante el Ayuntamiento; todo lo anterior, con aprobación de las dos terceras partes de las y los diputados presentes en la sesión.
+
+En caso, de que el Ayuntamiento omita enviar la propuesta señalada en el primer párrafo de la fracción I del presente articulo, dentro de los siete días naturales posteriores a la comunicación de defunción, la Comisión de Presupuestos y Asuntos Municipales del Congreso del Estado, en comunicación con el Ayuntamiento afectado, presentará ante el Pleno del Congreso, una terna de entre las y los integrantes del Ayuntamiento, de la cual, será designada como sustituta para que realice las funciones del o la Presidenta Municipal fallecida por el tiempo que reste el cargo, aquella persona que obtenga la aprobación de las dos terceras partes de las y los diputados integrantes del Congreso del Estado.
+
+Para efectos de lo señalado en el párrafo lo (sic) anterior, el Congreso del Estado, dentro de los diez días posteriores a la comunicación de defunción, deberá resolver lo conducente y designar a la persona sustituta que realizará las funciones de Presidente o Presidenta Municipal.
+
+Hasta en tanto, el Congreso del Estado resuelva la Ausencia Definitiva y, designe a la persona sustituta bajo la debida protesta de ley, el o la Síndico Municipal, encabezará los trabajos del Ayuntamiento.
+
+II.- Cuando se trate del Síndico Municipal, dentro de los cinco días naturales posteriores a la fecha de defunción, el Ayuntamiento deberá comunicar al Congreso del Estado tal situación, la cual, deberá estar acompañada de los documentos fehacientes que acrediten la muerte de la persona; asimismo, se apegarán al procedimiento que señala la fracción III del artículo 168 de esta misma Ley; y
+
+III.- Cuando se trate de Regidores, el Ayuntamiento deberá comunicar al Congreso del Estado en los términos señalados en el párrafo anterior, pero, en este caso, el Congreso llamará al o la suplente a ocupar el cargo de la persona fallecida que ostentaba el cargo como propietario.
+
+Para efectos de los supuestos señalados en las fracciones II y III del presente artículo, el Congreso del Estado, dentro de los cinco días naturales posteriores a la fecha de recibida la comunicación correspondiente, deberá designar y llamar, con la aprobación de las dos terceras partes de las y los diputados presentes en la Sesión del Pleno del Congreso, a la persona o personas, según corresponda, que ejercerá funciones de propietario, previa protesta de ley.
 
 ## TITULO SEXTO. DEL SERVICIO CIVIL DE CARRERA
 
-### CAPITULO PRIMERO. DEL PATRIMONIO MUNICIPAL
+### CAPITULO UNICO. DEL SERVICIO CIVIL DE CARRERA
 
 ###### Artículo 174.
 
@@ -2217,7 +2245,7 @@ En cumplimiento de lo estipulado por el artículo anterior, el Ayuntamiento aten
 
 ## TITULO SEPTIMO. DEL PATRIMONIO MUNICIPAL
 
-### CAPITULO SEGUNDO. DE LA HACIENDA MUNICIPAL
+### CAPITULO PRIMERO. DEL PATRIMONIO MUNICIPAL
 
 ###### Artículo 176.
 
@@ -2239,7 +2267,7 @@ El manejo del patrimonio municipal, se sujetará a lo que señalan las leyes y l
 
 La inobservancia a lo establecido en este título será considerada como una violación grave a las normas que determinan el manejo de recursos económicos municipales.
 
-### CAPITULO TERCERO. DE LA DEUDA PUBLICA MUNICIPAL
+### CAPITULO SEGUNDO. DE LA HACIENDA MUNICIPAL
 
 ###### Artículo 179.
 
@@ -2263,7 +2291,7 @@ Los anteproyectos de Ley de Ingresos y Presupuesto de Ingresos deberán elaborar
 
 La vigilancia de la Hacienda Pública Municipal compete efectuarla al Ayuntamiento por conducto del Presidente Municipal y de la comisión de hacienda, patrimonio y cuenta pública, en los términos de esta Ley y, al Congreso del Estado por medio de la Contaduría Mayor de Hacienda. Cuando el Gobernador del Estado sea avalista de empréstitos o créditos concedidos al Ayuntamiento, podrá solicitar al Congreso del Estado que la Contaduría Mayor de Hacienda practique visitas de inspección respecto de los montos aplicados por tal concepto.
 
-### CAPITULO CUARTO. DE LOS BIENES DE DOMINIO PUBLICO Y PRIVADO DE LOS MUNICIPIOS
+### CAPITULO TERCERO. DE LA DEUDA PUBLICA MUNICIPAL
 
 ###### Artículo 184.
 
@@ -2291,9 +2319,7 @@ Los montos de endeudamiento aprobados por la Legislatura local serán la base pa
 
 Además de lo previsto en el presente capítulo, se observará lo dispuesto en la Ley de Deuda Pública del Estado.
 
-### CAPITULO QUINTO. DE LAS CONCESIONES SOBRE LOS BIENES DE DOMINIO PUBLICO
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE ABRIL DE 2017)</small>
+### CAPITULO CUARTO. DE LOS BIENES DE DOMINIO PUBLICO Y PRIVADO DE LOS MUNICIPIOS
 
 ###### Artículo 188.
 
@@ -2605,7 +2631,9 @@ Cuando se trate de recuperar la posesión provisional o definitiva o de reivindi
 
 Cuando se requiera afectar un bien inmueble de propiedad privada, que por su ubicación y características satisfaga las necesidades para la realización de una obra pública, podrá ser permutado por bienes de propiedad municipal.
 
-### CAPITULO SEXTO. DE LAS ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DE BIENES MUEBLES
+### CAPITULO QUINTO. DE LAS CONCESIONES SOBRE LOS BIENES DE DOMINIO PUBLICO
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 27 DE ABRIL DE 2017)</small>
 
 ###### Artículo 214.
 
@@ -2649,7 +2677,7 @@ Cualquier operación que se realice en contravención a este artículo, estará 
 
 Las concesiones sobre bienes de dominio público municipal, se otorgarán, extinguirán, revocarán y se decretará su nulidad y caducidad en la misma forma y términos que para dichos actos se señalen en la Ley de Bienes y Concesiones y la de Desarrollo Urbano vigentes en el Estado, así como el Código Civil para el Estado de Sonora, en todo lo que resulte aplicable.
 
-### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+### CAPITULO SEXTO. DE LAS ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DE BIENES MUEBLES
 
 ###### Artículo 220.
 
@@ -2883,9 +2911,7 @@ El Órgano de Control y Evaluación Gubernamental aplicará las sanciones que pr
 
 ## TITULO OCTAVO. DE LOS SERVICIOS PUBLICOS MUNICIPALES
 
-### CAPITULO SEGUNDO. DE LAS CONCESIONES PARA LA PRESTACION DE LOS SERVICIOS PUBLICOS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 25 DE NOVIEMBRE DE 2019)</small>
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 258.
 
@@ -2911,7 +2937,9 @@ Para los efectos del párrafo anterior, tratándose de la asociación de municip
 
 En la prestación de los servicios públicos deberá observarse lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y la del Estado Libre y Soberano de Sonora, la presente Ley y las Leyes de Desarrollo Urbano y de Salud para el Estado de Sonora, así como las disposiciones reglamentarias que se deriven de éstas, las Normas Oficiales y Técnicas Mexicanas y los demás ordenamientos jurídicos federales y estatales aplicables.
 
-### CAPITULO TERCERO. DE LA COORDINACION, LA ASOCIACION Y LA CONCERTACION PARA LA PRESTACION DE LOS SERVICIOS PUBLICOS
+### CAPITULO SEGUNDO. DE LAS CONCESIONES PARA LA PRESTACION DE LOS SERVICIOS PUBLICOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 25 DE NOVIEMBRE DE 2019)</small>
 
 ###### Artículo 261.
 
@@ -3117,7 +3145,7 @@ Cuando la concesión de servicio público se extinga por revocación, así como 
 
 Las resoluciones de extinción de las concesiones de servicios públicos se publicarán en el Boletín Oficial del Gobierno del Estado.
 
-### CAPITULO CUARTO. DE LAS TARIFAS, CUOTAS Y HORARIOS PARA LA PRESTACION DE LOS SERVICIOS PUBLICOS
+### CAPITULO TERCERO. DE LA COORDINACION, LA ASOCIACION Y LA CONCERTACION PARA LA PRESTACION DE LOS SERVICIOS PUBLICOS
 
 ###### Artículo 284.
 
@@ -3177,7 +3205,7 @@ VI. La observancia de esta Ley y demás disposiciones legales y reglamentarias a
 
 Una vez formalizados dichos convenios deberán publicarse en el Boletín Oficial del Gobierno del Estado.
 
-### CAPITULO QUINTO. DE LOS SERVICIOS PUBLICOS
+### CAPITULO CUARTO. DE LAS TARIFAS, CUOTAS Y HORARIOS PARA LA PRESTACION DE LOS SERVICIOS PUBLICOS
 
 ###### Artículo 288.
 
@@ -3199,7 +3227,7 @@ El Ayuntamiento podrá solicitar la revisión, en cualquier tiempo, de las tarif
 
 El Ayuntamiento fijará los horarios en los cuales se prestarán los servicios públicos, ya sea que dicha prestación se lleve a cabo a través de sus propias estructuras administrativas o mediante el otorgamiento de concesión.
 
-### CAPITULO UNICO. DE LA COORDINACION Y ASOCIACION
+### CAPITULO QUINTO. DE LOS SERVICIOS PUBLICOS
 
 #### Sección I. Alumbrado Publico
 
@@ -3367,7 +3395,7 @@ En todo sacrificio de ganado, los administradores o encargados de los rastros se
 
 ## TITULO NOVENO. DE LA COORDINACION Y ASOCIACION PARA EL EJERCICIO DE LAS FUNCIONES Y PRESTACION DE LOS SERVICIOS PUBLICOS MUNICIPALES
 
-### CAPITULO PRIMERO. DE LA DESAPARICION Y SUSPENSION DE AYUNTAMIENTOS
+### CAPITULO UNICO. DE LA COORDINACION Y ASOCIACION
 
 ###### Artículo 322.
 
@@ -3385,7 +3413,7 @@ Los convenios de coordinación o asociación a que se refieren los artículos an
 
 ## TITULO DECIMO. DE LA DESAPARICION Y SUSPENSION DE AYUNTAMIENTOS Y DE LA SUSPENSION O REVOCACION DEL MANDATO DE ALGUNO DE SUS INTEGRANTES
 
-### CAPITULO SEGUNDO. DE LA SUSPENSION O REVOCACION DEL MANDATO DE ALGUNO O ALGUNOS DE SUS MIEMBROS
+### CAPITULO PRIMERO. DE LA DESAPARICION Y SUSPENSION DE AYUNTAMIENTOS
 
 ###### Artículo 325.
 
@@ -3465,7 +3493,7 @@ Cuando los Concejos Municipales sean designados dentro de la segunda mitad del p
 
 La designación de los Concejos Municipales o de alguno de sus miembros, podrá ser revocada por el Congreso Local por las mismas causas que señalan los artículos 326 y 327 de esta Ley y conforme a los procedimientos que para la desaparición y suspensión de Ayuntamientos señala este título.
 
-### CAPITULO UNICO. DE LA FACULTAD REGLAMENTARIA
+### CAPITULO SEGUNDO. DE LA SUSPENSION O REVOCACION DEL MANDATO DE ALGUNO O ALGUNOS DE SUS MIEMBROS
 
 ###### Artículo 338.
 
@@ -3511,7 +3539,7 @@ Si la persona que resulte electa para ocupar el cargo de Presidente Municipal no
 
 ## TITULO DECIMO PRIMERO. DE LA FACULTAD REGLAMENTARIA
 
-### CAPITULO UNICO. DE LA RESOLUCION DE CONFLICTOS
+### CAPITULO UNICO. DE LA FACULTAD REGLAMENTARIA
 
 ###### Artículo 343.
 
@@ -3585,7 +3613,7 @@ Cuando no se cuente con Bando de Policía y Gobierno y los reglamentos respectiv
 
 ## TITULO DECIMO SEGUNDO. DE LA RESOLUCION DE CONFLICTOS
 
-### CAPITULO UNICO. DE LAS SANCIONES
+### CAPITULO UNICO. DE LA RESOLUCION DE CONFLICTOS
 
 ###### Artículo 350.
 
@@ -3739,7 +3767,7 @@ El sobreseimiento de los conflictos se decretará cuando la parte actora se desi
 
 ## TITULO DECIMO TERCERO. DE LAS SANCIONES
 
-### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+### CAPITULO UNICO. DE LAS SANCIONES
 
 ###### Artículo 379.
 
@@ -3787,7 +3815,7 @@ Cuando en un mismo acto se comprenda a dos o más infractores, a cada uno de ell
 
 ## TITULO DECIMO CUARTO. DEL PROCEDIMIENTO ADMINISTRATIVO
 
-### CAPITULO SEGUNDO. DEL PROCEDIMIENTO ADMINISTRATIVO
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 383.
 
@@ -3825,7 +3853,7 @@ IX. Tratar con respeto a los particulares y a facilitar el ejercicio de sus dere
 
 X. Dictar resolución expresa sobre cuantas peticiones le formulen; así como en los procedimientos iniciados de oficio, cuya instrucción y resolución afecte a terceros, debiendo dictarla dentro del plazo de treinta días hábiles.
 
-### CAPITULO TERCERO. DE LAS VISITAS DE INSPECCION
+### CAPITULO SEGUNDO. DEL PROCEDIMIENTO ADMINISTRATIVO
 
 ###### Artículo 386.
 
@@ -3981,7 +4009,7 @@ Contra la resolución que declare la caducidad del procedimiento administrativo 
 
 Los actos o resoluciones emitidos que pongan fin al procedimiento, deberán decidir todas y cada una de las cuestiones planteadas por los interesados o previstas por las normas.
 
-### CAPITULO CUARTO. DE LAS MEDIDAS DE SEGURIDAD
+### CAPITULO TERCERO. DE LAS VISITAS DE INSPECCION
 
 ###### Artículo 411.
 
@@ -4069,7 +4097,7 @@ La inspección podrá realizarse, cuando se estime conveniente, por parte de la 
 
 El procedimiento previsto en los artículos anteriores no será aplicable cuando los puntos objeto de la inspección tengan origen en materias de carácter fiscal, financiero y de responsabilidades de los servidores públicos, en las cuales se estará a su propia normatividad.
 
-### CAPITULO QUINTO. DEL RECURSO DE INCONFORMIDAD
+### CAPITULO CUARTO. DE LAS MEDIDAS DE SEGURIDAD
 
 ###### Artículo 425.
 
@@ -4092,6 +4120,8 @@ I. Fundarán y motivarán sus resoluciones, en los términos de los artículos 1
 II. Se considerará la trascendencia del asunto de que se trate y los intereses que se afecten o dejen de afectarse, en caso de aplicarse la medida; y
 
 III. La resolución que se adopte, se hará saber por escrito al interesado, dentro de un plazo no mayor de cinco días naturales, contados a partir de la fecha en que se dicte la resolución.
+
+### CAPITULO QUINTO. DEL RECURSO DE INCONFORMIDAD
 
 ###### Artículo 428.
 
@@ -4646,3 +4676,15 @@ B.O. 12 DE ENERO DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 92. QUE DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 20 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 99, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
