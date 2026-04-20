@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-ag-poaj-004-2025-del-pleno-del-organo-de-181520
 country: "mx"
 rank: "acuerdo"
 publication_date: "2025-09-08"
-last_updated: "2026-02-13"
+last_updated: "2026-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181520&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2025-09-05"
 
 ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL POR EL QUE SE CREAN E INTEGRAN SUS COMISIONES Y SE APRUEBAN LOS NOMBRAMIENTOS DE LAS PERSONAS TITULARES DE LAS SECRETARÍAS EJECUTIVAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE ABRIL DE 2026.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el lunes 8 de septiembre de 2025.
 
@@ -125,9 +125,9 @@ b) Xóchitl Almendra Hernández Torres, y
 
 c) Surit Berenice Romero Domínguez.
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL QUE REFORMA EL SIMILAR POR EL QUE SE CREAN E INTEGRAN SUS COMISIONES Y SE APRUEBAN LOS NOMBRAMIENTOS DE LAS PERSONAS TITULARES DE LAS SECRETARÍAS EJECUTIVAS, D.O.F. 13 DE FEBRERO DE 2026)</small>
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL QUE REFORMA EL SIMILAR POR EL QUE SE CREAN E INTEGRAN SUS COMISIONES Y SE APRUEBAN LOS NOMBRAMIENTOS DE LAS PERSONAS TITULARES DE LAS SECRETARÍAS EJECUTIVAS, D.O.F. 20 DE ABRIL DE 2026)</small>
 
-Se designa como titular de la Secretaría Ejecutiva de la Comisión de Carrera Judicial y Especialización a Alonso Antonio Hernández Flores.
+Se designa como titular de la Secretaría Ejecutiva de la Comisión de Carrera Judicial y Especialización a Lizeth Karina Villeda García.
 
 IV. Comisión de Creación y Seguimiento de Órganos Jurisdiccionales
 
@@ -170,5 +170,13 @@ D.O.F. 13 DE FEBRERO DE 2026.
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL QUE REFORMA EL SIMILAR POR EL QUE SE CREAN E INTEGRAN SUS COMISIONES Y SE APRUEBAN LOS NOMBRAMIENTOS DE LAS PERSONAS TITULARES DE LAS SECRETARÍAS EJECUTIVAS”.]
 
 PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación por el Pleno del Órgano de Administración Judicial.
+
+SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Órgano de Administración Judicial del Poder Judicial de la Federación en Intranet e Internet.
+
+D.O.F. 20 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL QUE REFORMA EL SIMILAR POR EL QUE SE CREAN E INTEGRAN SUS COMISIONES Y SE APRUEBAN LOS NOMBRAMIENTOS DE LAS PERSONAS TITULARES DE LAS SECRETARÍAS EJECUTIVAS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor el 20 de abril de 2026.
 
 SEGUNDO. Publíquese en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta; así como en el portal del Órgano de Administración Judicial del Poder Judicial de la Federación en Intranet e Internet.
