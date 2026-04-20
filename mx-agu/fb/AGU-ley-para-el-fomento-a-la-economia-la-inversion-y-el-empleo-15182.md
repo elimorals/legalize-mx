@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-fomento-a-la-economia-la-inversion-y-el-empleo-1518
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-11"
-last_updated: "2025-07-14"
+last_updated: "2026-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA EL FOMENTO A LA ECONOMÍA, LA INVERSIÓN Y EL EMPLEO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2026.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 11 de julio de 1999.
 
@@ -61,7 +61,9 @@ I.- Secretaría: La Secretaría de Desarrollo Económico, Ciencia y Tecnología;
 
 II.- Secretario: El titular de la Secretaría;
 
-III.- Ley: La Ley de Fomento al Desarrollo Económico, la Inversión y el Empleo para el Estado de Aguascalientes;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2026)</small>
+
+III.- Ley: La presente Ley para el Fomento a la Economía, la Inversión y el Empleo para el Estado de Aguascalientes;
 
 IV.- Consejo: El Consejo Consultivo para el Desarrollo Económico de Aguascalientes.
 
@@ -81,7 +83,9 @@ III.- Promover programas de capacitación y adiestramiento para fortalecer y ele
 
 IV.- Procurar el apoyo frontal a las micro, pequeñas y medianas empresas locales;
 
-V.- Procurar el impulso al desarrollo integral armónico y equilibrado de las regiones que conforman el Estado;
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2026)</small>
+
+V.- Procurar el impulso al desarrollo integral armónico, sostenible, sustentable y equilibrado de las regiones que conforman el Estado;
 
 VI.- Impulsar la participación efectiva de los sectores empresarial y social en la definición del rumbo económico del Estado;
 
@@ -291,17 +295,17 @@ VII.- Las demás que se deriven de la presente Ley.
 
 El titular del Ejecutivo Estatal expedirá los ordenamientos jurídicos que considere pertinentes para otorgar los incentivos que puedan atraer las inversiones que requiere el Estado para su desarrollo económico, tomando como base las propuestas hechas por el Consejo Consultivo de acuerdo a las facultades que le han sido conferidas en esta materia en el Artículo 10 en su fracción III de la presente Ley y cuidando en todo momento aquellas que sean consideradas como estratégicas.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ABRIL DE 2026)</small>
 
 ###### ARTICULO 15.
 
-Para efectos de la presente Ley, se consideran como empresas estratégicas aquellas que signifiquen un detonante económico regional, ya sea porque se ubiquen en alguna zona prioritaria para el desarrollo, generen empleos, contraten a hombres y mujeres en condiciones de igualdad y equidad, y con inclusión de las personas con discapacidad en toda la estructura orgánica de la empresa, o bien porque impliquen mejores ingresos a la población circundante.
+Para efectos de la presente Ley, se consideran como empresas estratégicas aquellas que signifiquen un detonante económico regional, ya sea porque se ubiquen en alguna zona prioritaria para el desarrollo, generen empleos, contraten a hombres y mujeres en condiciones de igualdad y equidad, incluyan a personas con discapacidad en toda la estructura orgánica de la empresa, o bien porque impliquen mejores ingresos para la población circundante.
 
 Asimismo, para definir la clase de incentivos a otorgar, se tendrán en cuenta los siguientes factores;
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2018)</small>
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2026)</small>
 
-a).- Número de empleos que generen y/o contraten a hombres y mujeres en condiciones de igualdad y equidad, y con inclusión de las personas con discapacidad, y su nivel de remuneración;
+a).- Número de empleos que generen y/o contraten a hombres y mujeres en condiciones de igualdad y equidad, incluyan a personas con discapacidad, y su nivel de remuneración;
 
 b).- Monto de la inversión;
 
@@ -315,7 +319,9 @@ e).- La instalación de tecnologías que permitan la protección y el mejoramien
 
 f).- Consumo de agua;
 
-g).- Prioridades estatales en cuanto bienes o servicios;
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2026)</small>
+
+g).- Prioridades estatales en cuanto a bienes o servicios;
 
 h).- Perspectiva de crecimiento;
 
@@ -323,11 +329,23 @@ h).- Perspectiva de crecimiento;
 
 i).- El impacto en innovación y tecnología, entendiéndose por éste la generación de propiedad intelectual en el Estado, instalación de centros de diseño e investigación o similares; y
 
-j).- Volumen de exportaciones.
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2026)</small>
+
+j).- Volumen de exportaciones;
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2026)</small>
+
+k).- La adopción comprobable de políticas de integridad corporativa, responsabilidad social empresarial o sustentabilidad; y
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2026)</small>
+
+l).- El impacto en innovación y tecnología, entendiéndose por éste la generación de propiedad intelectual en el Estado, instalación de centros de diseño e investigación o similares.
+
+> <small>(REFORMADO, P.O. 20 DE ABRIL DE 2026)</small>
 
 ###### ARTICULO 16.
 
-Además de los estímulos otorgados a las empresas estratégicas a que se ha hecho referencia, el Ejecutivo del Estado creará un incentivo especial destinado exclusivamente a elevar la calidad de los productos de las empresas de la Entidad, el cual consistirá en un reconocimiento honorífico que se denominará Premio Estatal a la Calidad. A tal efecto expedirá el decreto correspondiente.
+Además de los estímulos otorgados a las empresas estratégicas a que se ha hecho referencia, la persona titular del Poder Ejecutivo del Estado creará un incentivo especial denominado Premio Estatal de Calidad, asimismo, podrá otorgar reconocimientos y distintivos destinados exclusivamente a elevar la calidad de los productos de las empresas de la Entidad.
 
 ### CAPITULO VI. De las Unidades Industriales en el Estado
 
@@ -441,9 +459,17 @@ La Secretaría será una instancia de apoyo para el cuidado y la preservación d
 
 I.- Que en el ámbito de su competencia, incentive una cultura de cuidado a los recursos naturales renovables y no renovables;
 
-II.- Que el desarrollo económico e industrial del Estado, no comprometa la explotación racional de los recursos naturales; y
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2026)</small>
 
-III.- Que se garantice que el desarrollo económico del Estado satisfaga las necesidades del presente, sin comprometer la capacidad de las generaciones futuras para atender a sus propias necesidades.
+II.- Que el desarrollo económico e industrial del Estado, no comprometa la explotación racional de los recursos naturales;
+
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2026)</small>
+
+III.- Que se garantice que el desarrollo económico del Estado satisfaga las necesidades del presente, sin comprometer la capacidad de las generaciones futuras para atender a sus propias necesidades; y
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2026)</small>
+
+IV.- Que las inversiones realizadas por el Estado procuren el impulso de energías renovables y de las tecnologías de aprovechamiento eficiente de la energía.
 
 ###### ARTICULO 32.
 
@@ -481,13 +507,25 @@ II.- Búsqueda de canales para la comercialización y promoción de los producto
 
 III.- Estimulación a los procesos de desregulación, simplificación administrativa y descentralización;
 
-IV.- Asesoría continua y permanente sobre la tramitación de los procedimientos necesarios para su óptimo funcionamiento; y
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2026)</small>
 
-V.- Impulso a la especialización de los procesos productivos y productos con ventajas competitivas.
+IV.- Asesoría continua y permanente sobre la tramitación de los procedimientos necesarios para su óptimo funcionamiento;
 
-> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 20 DE ABRIL DE 2026)</small>
 
-ARTICULO 36 BIS.- La Secretaría deberá implementar el programa específico "Hecho en Aguascalientes", con la finalidad de promover el desarrollo de proveedores de productos locales generados por personas emprendedoras, micro, pequeñas y medianas empresas del Estado, en las grandes cadenas comerciales, así como en las empresas de mayor tamaño que ofrezcan oportunidad para comercializarlos.
+V.- Impulso a la especialización de los procesos productivos y productos con ventajas competitivas; y
+
+> <small>(ADICIONADA, P.O. 20 DE ABRIL DE 2026)</small>
+
+VI.- Impulso para el otorgamiento de subsidios, apoyos y capacitación en materia de uso de tecnologías de aprovechamiento eficiente de la energía, así como de energías renovables.
+
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 20 DE ABRIL DE 2026)</small>
+
+ARTÍCULO 36 BIS.- La Secretaría deberá implementar el programa específico "Hecho en Aguascalientes", con la finalidad de promover el desarrollo de proveedores de productos locales y prestadores de servicios, ambos generados por personas emprendedoras, micro, pequeñas y medianas empresas del Estado, en las grandes cadenas comerciales, así como en las empresas de mayor tamaño que ofrezcan oportunidad para comercializarlos y/o requieran de sus servicios.
+
+> <small>(ADICIONADO, P.O. 20 DE ABRIL DE 2026)</small>
+
+La Secretaría de Desarrollo Económico, Ciencia y Tecnología del Estado de Aguascalientes emitirá, sin costo, el distintivo oficial "Hecho en Aguascalientes", el cual incluirá un código de respuesta rápida "QR" que enlazará al perfil público de la persona productora en la plataforma electrónica Expediente Digital del Gobierno del Estado.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 3 DE SEPTIEMBRE DE 2018)</small>
 
@@ -752,3 +790,45 @@ La Secretaría de Desarrollo Económico, Ciencia y Tecnología, tendrá 180 día
 ###### ARTÍCULO TERCERO.
 
 La persona titular del Poder Ejecutivo del Estado contará con un plazo de 180 días hábiles, contados a partir de la publicación del presente, para realizar las reformas reglamentarias derivadas del presente Decreto.
+
+P.O. 20 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 435.- SE REFORMA LA LEY PARA EL FOMENTO A LA ECONOMÍA, LA INVERSIÓN Y EL EMPLEO PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
+
+P.O. 20 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 445.- SE REFORMA LA LEY PARA EL FOMENTO A LA ECONOMÍA, LA INVERSIÓN Y EL EMPLEO PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Desarrollo Económico, Ciencia y Tecnología, contará con un plazo de 180 días naturales a partir de la entrada en vigor del presente Decreto para emitir los lineamientos para otorgar el Premio Estatal de Calidad, así como para el otorgamiento de reconocimientos y distintivos, los cuales deberán contener:
+
+1. Criterios de elegibilidad y evaluación para las empresas.
+
+2. Reglas de operación claras y transparentes.
+
+3. Procedimientos de postulación y dictaminación.
+
+4. Mecanismos de monitoreo y rendición de cuentas.
+
+5. Disposición presupuestal o fuentes de financiamiento.
+
+P.O. 20 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 451.- SE REFORMA LA LEY PARA EL FOMENTO A LA ECONOMÍA, LA INVERSIÓN Y EL EMPLEO PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
