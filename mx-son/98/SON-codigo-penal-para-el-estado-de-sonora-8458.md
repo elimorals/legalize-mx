@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2025-12-18"
+last_updated: "2026-04-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CÓDIGO PENAL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ABRIL DE 2026.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -4291,8 +4291,6 @@ CHANTAJE Y EXTORSION
 
 ### CAPITULO II. EXTORSION
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
-
 ###### ARTICULO 292.
 
 Comete el delito de chantaje, el que con ánimo de lucro u otro provecho, bajo la amenaza directa o encubierta de divulgar o dar a conocer a otra persona algún hecho cierto o falso que afecte el honor, prestigio o patrimonio del amenazado o de su cónyuge, ascendientes, descendientes, adoptante, adoptado, hermanos, parientes o de personas a quienes éste deba respeto, cariño, gratitud o amistad íntima, o de alguna entidad en cuya gestión intervengan, exijan por sí o por medio de otros la entrega de cantidades o efectos o traten de obligar al amenazado o a las personas y entidades expresadas, contra su voluntad, a contraer alguna obligación, a realizar algún acto determinado o a dejar de realizarlo.
@@ -4307,19 +4305,7 @@ Al responsable del delito de chantaje se le impondrán de seis meses a diez año
 
 ###### ARTICULO 293.
 
-Al que sin derecho y mediante coacción o intimidación, obligue a otro a dar, hacer, no hacer, dejar de hacer o tolerar algo, con la finalidad de obtener un lucro para sí o para otro, o de causar a alguien un perjuicio patrimonial, se le impondrán de cinco a quince años de prisión y multa de cien a ochocientas Unidades de Medida y Actualización.
-
-> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2014)</small>
-
-Se impondrá de 30 a 60 años de prisión cuando en la comisión del delito se dé alguna de las siguientes modalidades:
-
-I. Intervengan dos o más personas armadas o portando instrumentos peligrosos;
-
-II. Se emplee violencia física;
-
-III. Si es cometido en contra de un menor de edad, de una mujer en estado de gravidez o de una persona que no tenga la capacidad de comprender el significado del hecho, o bien, en contra de una persona mayor de sesenta años;
-
-IV. El sujeto activo del delito sea o haya sido, o se ostente sin serlo, integrante de alguna institución policial o servidor público en alguna de las áreas de prevención o persecución de delitos, administración de justicia o reinserción social; asimismo, cuando porte vestimentas o instrumentos de identificación, de los utilizados por integrantes de instituciones de seguridad pública; o tenga alguna relación de confianza, laboral, de parentesco o de negocios con la víctima o con sus familiares;
+(DEROGADO POR EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA PREVENIR, INVESTIGAR Y SANCIONAR LOS DELITOS EN MATERIA DE EXTORSIÓN Y DELITOS VINCULADOS DEL ESTADO DE SONORA, B.O. 20 DE ABRIL DE 2026)
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 26 DE DICIEMBRE DE 2017)</small>
 
@@ -6135,32 +6121,58 @@ B.O. 18 DE DICIEMBRE DE 2025.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
-###### ARTICULO QUINTO.
+B.O. 20 DE ABRIL DE 2026.
 
-Respecto a lo dispuesto por el Artículo 41 de esta Ley, la Secretaría de Finanzas determinará la oportunidad en que la Contabilidad se llevará en forma acumulativa y aquella en que tendrá lugar el traspaso de los activos y pasivos de la Contabilidad centralizada a las descentralizadas, lo que se hará con base en los inventarios y depuración correspondiente.
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 154, PARA PREVENIR, INVESTIGAR Y SANCIONAR LOS DELITOS EN MATERIA DE EXTORSIÓN Y DELITOS VINCULADOS DEL ESTADO DE SONORA”.]
 
-###### ARTICULO SEXTO.
+###### ARTÍCULO PRIMERO.
 
-En tanto se presenta la oportunidad técnica para la operación de los cambios incorporados por esta Ley, se continuará laborando con el manejo paralelo de ambos sistemas.
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
 
-El C. Gobernador Constitucional del Estado dispondrá se publique, circule y observe.
+###### ARTÍCULO SEGUNDO.
 
-Dado en el Salón de Sesiones del H. Congreso del Estado en Victoria de Durango, Dgo., a los (15) quince días del mes de Julio del año de (1980) mil novecientoc (sic) ochenta.
+Al entrar en vigor la presente Ley, se deroga el artículo 293 del Código Penal del Estado de Sonora.
 
-Profr. Elías Vázquez Payán, Diputado Presidente.- Profra. Zina Ruiz de León, Diputada Secretaria Int.- Lic. Moisés Moreno Armendariz, Diputado Secretario Int.- Rúbricas.
+###### ARTÍCULO TERCERO.
 
-Por tanto mando se imprima, publique, circule y comunique a quienes corresponda para su exacta observancia.
+Las referencias contenidas en ordenamientos legales, reglamentarios o administrativos del Estado de Sonora al delito de extorsión, deberán entenderse realizadas conforme a lo dispuesto en la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, una vez armonizado, en el ámbito de sus respectivas competencias.
 
-DADO en el PALACIO del PODER EJECUTIVO, en Victoria de Durango, Dgo. a los quince días del mes de Julio del año de mil novecientos ochenta.
+###### ARTÍCULO CUARTO.
 
-El Gobernador Constitucional Substituto del Estado,
+La implementación de las acciones previstas en la presente Ley deberá realizarse sin crear estructuras administrativas paralelas ni duplicar atribuciones de las instancias que integran el Sistema Estatal de Seguridad Pública, debiendo privilegiarse la coordinación, integración y aprovechamiento de las capacidades institucionales existentes.
 
-Dr. SALVADOR GAMIZ FERNANDEZ.- Rúbrica.
+###### ARTÍCULO QUINTO.
 
-El Secretario General de Gobierno,
+La Secretaría de Seguridad y Protección Ciudadana del Estado de Sonora, dentro de los 180 días hábiles a partir de la entrada en vigor de la presente Ley, emitirá los lineamientos para la organización, integración y funcionamiento de la Unidad de Atención a Denuncias por el Delito de Extorsión, previstos en el artículo 19 de la presente Ley.
 
-Lic. CARLOS GALINDO MARTINEZ.- Rúbrica.
+###### ARTÍCULO SEXTO.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+En los procesos pendientes de dictarse sentencia en primera y segunda instancia, a partir de la entrada en vigor de la presente Ley, el órgano jurisdiccional, podrá efectuar la traslación del tipo en beneficio de la persona a sentenciar, de conformidad con la conducta delictiva de extorsión, sus modalidades o agravantes que se hayan acreditado.
 
-P.O. 5 DE FEBRERO DE 1984.
+Tratándose de persona sentenciada, el juez de ejecución podrá considerar la revisión de las penas que se hayan impuesto para efectuar, en su caso, la traslación del tipo, siempre que la conducta, modalidades o agravantes proceda y resultase en su beneficio.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las disposiciones relativas al delito de extorsión previstas en el Código Penal del Estado de Sonora vigente a la entrada en vigor de la presente Ley, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por el delito de extorsión, sus modalidades, agravantes y sanciones, salvo lo dispuesto en el artículo anterior en lo relativo a la traslación del tipo y adecuación de la pena.
+
+Los procedimientos penales en materia de extorsión, iniciados antes de la entrada en vigor de la presente Ley, seguirán tramitándose hasta su conclusión conforme a las disposiciones aplicables antes de la vigencia de la misma.
+
+###### ARTÍCULO OCTAVO.
+
+La Secretaría de Seguridad y Protección Ciudadana del Estado de Sonora, deberá establecer la Estrategia Estatal para Prevenir y Combatir el Delito de Extorsión y Delitos Vinculados en un plazo no mayor a 90 días hábiles contados a partir de la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO NOVENO.
+
+El Ejecutivo del Estado, por conducto de las dependencias competentes, deberá adecuar o emitir las disposiciones reglamentarias necesarias para la correcta aplicación de la presente Ley, en un plazo no mayor a 180 días naturales contados a partir de su entrada en vigor.
+
+###### ARTÍCULO DÉCIMO.
+
+En tanto se crean y entran en operación las unidades especializadas de atención a los delitos de extorsión a que se refiere el artículo 12 de la presente Ley, la Fiscalía General de Justicia del Estado de Sonora deberá apoyarse en las unidades especializadas en el combate al delito de secuestro con que cuente, para la atención, investigación y persecución del delito de extorsión, sin perjuicio de las atribuciones que correspondan a otras áreas competentes, conforme a la normatividad aplicable.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Dentro de los 180 días hábiles contados a partir de la entrada en vigor de la presente Ley, las autoridades responsables de la administración de los centros penitenciarios del Estado de Sonora deberán establecer, implementar o adecuar, de manera progresiva de acuerdo con la disponibilidad presupuestaria, los procedimientos, mecanismos y tecnologías para la inhibición de la entrada y salida de llamadas y comunicaciones de telefonía celular, radiocomunicación o de transmisión de voz, datos o imagen, conforme a lo dispuesto en el artículo 38 de la Ley General para Prevenir, Investigar y Sancionar los Delitos en Materia de Extorsión, y demás disposiciones aplicables.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor de la presente Ley se realizarán con cargo al presupuesto aprobado de los sujetos obligados por este instrumento, por lo que no incrementarán su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
