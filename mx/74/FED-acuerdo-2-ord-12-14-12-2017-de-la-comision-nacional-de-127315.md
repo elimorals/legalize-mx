@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-2-ord-12-14-12-2017-de-la-comision-nacional-de-127315"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2018-03-23"
-last_updated: "2018-03-23"
+last_updated: "2026-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=127315&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2018-01-22"
 ---
 # ACUERDO 2-ORD/12: 14/12/2017 DE LA COMISION NACIONAL DE VIGILANCIA, POR EL QUE SE APRUEBAN LOS MEDIOS DE IDENTIFICACION PARA OBTENER LA CREDENCIAL PARA VOTAR DESDE EL EXTRANJERO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO SEGUNDO DEL EXTRACTO DEL ACUERDO DE LA COMISIÓN NACIONAL DE VIGILANCIA, POR EL QUE SE MODIFICAN LOS MEDIOS DE IDENTIFICACIÓN PARA OBTENER LA CREDENCIAL PARA VOTAR DESDE EL EXTRANJERO, APROBADOS MEDIANTE EL DIVERSO 2-ORD/12: 14/12/2017, PUBLICADO EN EL D.O.F. DE 21 DE ABRIL DE 2026, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+
 SÍNTESIS DEL ACUERDO 2-ORD/12: 14/12/2017 DE LA COMISIÓN NACIONAL DE VIGILANCIA, POR EL QUE SE APRUEBAN LOS MEDIOS DE IDENTIFICACIÓN PARA OBTENER LA CREDENCIAL PARA VOTAR DESDE EL EXTRANJERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE ABRIL DE 2026 (SIN EFECTOS).
 
 Acuerdo publicado en la Primera Sección a No. 16 del Diario Oficial de la Federación, el viernes 23 de marzo de 2018.
 
@@ -33,7 +35,7 @@ Síntesis del Acuerdo de la Comisión Nacional de Vigilancia, por el que se apru
 
 ANTECEDENTES
 
-[…]
+[...]
 
 Con base en las razones expuestas, válidamente esta Comisión Nacional de Vigilancia puede aprobar los medios de identificación para obtener la Credencial para Votar desde el Extranjero.
 
@@ -54,3 +56,21 @@ SEXTO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación, 
 El acuerdo completo se encuentra disponible en la dirección: https://norma.ine.mx/direcciones-ejecutivas/direccion-ejecutiva-del-registro-federal-de-electores/vigente/normativo/acuerdos
 
 Ciudad de México, 22 de enero de 2018.- El Director Ejecutivo del Registro Federal de Electores, René Miranda Jaimes.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 21 DE ABRIL DE 2026.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS PUNTOS DEL "EXTRACTO DEL ACUERDO DE LA COMISIÓN NACIONAL DE VIGILANCIA, POR EL QUE SE MODIFICAN LOS MEDIOS DE IDENTIFICACIÓN PARA OBTENER LA CREDENCIAL PARA VOTAR DESDE EL EXTRANJERO, APROBADOS MEDIANTE EL DIVERSO 2-ORD/12: 14/12/2017", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO. Se aprueban los medios de identificación para obtener la Credencial para Votar desde el Extranjero, de conformidad con el documento anexo que forma parte integral de este Acuerdo.
+
+SEGUNDO. Se deja sin efectos el Acuerdo: 2-ORD/12: 14/12/2017, aprobado por esta Comisión Nacional de Vigilancia.
+
+TERCERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+CUARTO. Se solicita a las áreas competentes del Instituto Nacional Electoral, la realización de una estrategia de difusión e información, para hacer del conocimiento de las y los ciudadanos los medios de identificación, que deberán presentar para solicitar y obtener su Credencial para Votar desde el Extranjero.
+
+QUINTO. Hágase del conocimiento a la Secretaría de Relaciones Exteriores, lo acordado en el presente Acuerdo.
+
+SEXTO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación, en la Gaceta del Instituto Nacional Electoral, en la página electrónica del Instituto Nacional Electoral y en el Portal de las Comisiones de Vigilancia.
