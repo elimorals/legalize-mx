@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-833-registral-para-el-estado-de-guerrero-173541"
 country: "mx"
 rank: "ley"
 publication_date: "2024-06-17"
-last_updated: "2024-06-17"
+last_updated: "2026-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=173541&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de Guerrero, el lunes 17 de junio de 2024.
 
@@ -175,9 +175,7 @@ III. Contar con la Licenciatura en Derecho, con título y cédula profesional de
 
 IV. Tener experiencia mínima de cinco años en la práctica de la profesión, y de tres años en materia registral, notarial o de correduría pública;
 
-(NOTA: EL 14 DE OCTUBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 141/2024, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE OCTUBRE DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
-
-V. TENER UN MODO HONESTO DE VIVIR, SER DE RECONOCIDA PROBIDAD Y SOLVENCIA MORAL, Y NO ESTAR SUJETO A PROCEDIMIENTO POR DELITO QUE MEREZCA PENA PRIVATIVA DE LA LIBERTAD; Y
+V. (DEROGADA, P.O. 21 DE ABRIL DE 2026)
 
 VI. No ser titular de una notaría o correduría pública, sea en ejercicio o con licencia.
 
@@ -1476,3 +1474,15 @@ SUBSECRETARIA DE GOBIERNO, ASUNTOS JURÍDICOS Y DERECHOS HUMANOS ENCARGADA DE DE
 DRA. ANACLETA LÓPEZ VEGA.
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 503 POR EL QUE SE DEROGA LA FRACCIÓN V, DEL ARTÍCULO 7 DE LA LEY NÚMERO 833 REGISTRAL PARA EL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal, para su conocimiento y para los efectos legales conducentes.
+
+TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página oficial del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
