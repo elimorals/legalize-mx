@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-vivienda-del-estado-de-quintana-roo-77789"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-21"
-last_updated: "2021-07-16"
+last_updated: "2026-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77789&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE VIVIENDA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2026.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial de Quintana Roo, el martes 21 de diciembre de 2010.
 
@@ -77,11 +77,11 @@ IX. Informar a la ciudadanía de los mecanismos jurídicos y financieros existen
 
 Serán de aplicación supletoria a lo dispuesto en este ordenamiento, la Ley de Vivienda de carácter Federal, así como las leyes de Asentamientos Humanos, Equilibrio Ecológico y la Protección del Ambiente, Fraccionamientos, todos del Estado de Quintana Roo; y demás ordenamientos legales relacionados con la materia de vivienda.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2026)</small>
 
 ###### Artículo 2.
 
-Todos los habitantes de Quintana Roo tienen derecho a una vivienda adecuada, digna y decorosa, considerándose por esta la que cumpla con las disposiciones jurídicas nacionales e internacionales aplicables, en materia de asentamientos humanos y construcción, habitabilidad, accesibilidad, salubridad y sustentabilidad, que cuente con los servicios básicos y brinde a sus ocupantes seguridad jurídica en cuanto a la propiedad o legítima posesión, y contemple criterios para la prevención de desastres y la protección física de sus ocupantes ante los elementos naturales potencialmente agresivos.
+Todos los habitantes de Quintana Roo tienen derecho a una vivienda adecuada, considerándose por esta la que cumpla con las disposiciones jurídicas nacionales e internacionales aplicables, en materia de asentamientos humanos y construcción, habitabilidad, accesibilidad, salubridad y sustentabilidad, que cuente con los servicio (sic) básicos y brinde a sus ocupantes seguridad jurídica en cuanto a la propiedad o legítima posesión, y contemple criterios para la prevención de desastres y la protección física de sus ocupantes ante los elementos naturales potencialmente agresivos.
 
 Asimismo que permita el disfrute de la intimidad y la integración social y urbana.
 
@@ -159,11 +159,15 @@ XIX. Sector Privado: Toda persona física y/o moral que produzca bienes o servic
 
 XX. Sector Público: Toda Dependencia oEntidad (sic) de la Administración Pública Estatal o municipal, cuyas atribuciones comprendan el financiamiento y la gestión del proceso habitacional o la ordenación del territorio que incluya la vivienda;
 
-XXI. Sector Social: Toda persona física o moral, familia o grupo social, aún sin personalidad jurídica que sin fines preponderantes de lucro, realicen acciones o procesos habitacionales en beneficio de personas con ingresos iguales o inferiores a los que se requieren para adquirir una vivienda popular;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2026)</small>
+
+XXI. Sector Social: Toda persona física o moral, familia o grupo social, aún sin personalidad jurídica que, sin fines preponderantes de lucro, realicen acciones o procesos habitacionales en beneficio de personas con ingresos iguales o inferiores a los que se requieren para adquirir una vivienda social, ya sea económica, popular o tradicional;
 
 XXII. Suelo para Vivienda: Los terrenos física y legalmente susceptibles de ser destinados a incrementar o mejorar el inventario habitacional;
 
-XXIII. Vivienda Social: Es aquella destinada a las personas que no cuentan con la capacidad económica para adquirir una vivienda y dirigida preferentemente a aquellas de bajos ingresos, en situación de pobreza, riesgo o vulnerabilidad, a través de los programas sociales y crediticios de vivienda, y clasificada en básica, económica, de interés social, y social progresiva.
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2026)</small>
+
+XXIII. Vivienda Social: Es aquella destinada a personas que no cuentan con la capacidad económica para adquirir una vivienda, priorizando a quienes se encuentran en condiciones de bajos ingresos, pobreza, riesgo o vulnerabilidad, a través de programas sociales y crediticios de vivienda. Se clasifica en económica, popular y tradicional de conformidad con las disposiciones jurídicas aplicables y la normativa federal en la materia.
 
 ### CAPÍTULO II. DE LAS AUTORIDADES Y SUS COMPETENCIAS
 
@@ -189,11 +193,11 @@ El Ejecutivo del Estado y los Municipios ejercerán las atribuciones en materia 
 
 Con el objeto de hacer más rápidos y expeditos los trámites para vivienda, el Ejecutivo del Estado promoverá la operación y revisión permanente de un procedimiento único, sencillo y ágil, que permita en una sola Dependencia gestionar todos los trámites vinculados con los permisos, licencias y autorizaciones, a fin de evitar la duplicidad de procedimientos. Asimismo, promoverá una estrecha coordinación con los Municipios para vincular los procesos de autorización.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2026)</small>
 
 ###### Artículo 10.
 
-Sin menoscabo de lo establecido en la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado, el Gobernador del Estado, a través de la Secretaría, tiene las siguientes atribuciones:
+Sin menoscabo de lo establecido en la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Quintana Roo, la persona Titular del Poder Ejecutivo del Estado, a través de la Secretaría, tiene las siguientes atribuciones:
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2021)</small>
 
@@ -222,6 +226,16 @@ VI. Dictaminar previamente a su ejecución, la congruencia de los programas de s
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE JULIO DE 2021)</small>
 
 VII. Coordinar los programas y acciones de suelo y vivienda;
+
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 21 DE ABRIL DE 2026)</small>
+
+VII Bis. Expedir y publicar en el Periódico Oficial del Estado de Quintana Roo, los valores de referencia para la vivienda social, los cuales servirán de base para la clasificación, gestión y ejecución de los programas, acciones de mejora y trámites en materia de vivienda que sean competencia de las dependencias y entidades de la administración pública estatal. Dichos valores deberán:
+
+a) Estar homologados con los lineamientos, clasificaciones y valores máximos que para cada tipo de vivienda social emitan las instituciones públicas federales de vivienda.
+
+b) Ser actualizados anualmente o cuando las instituciones federales modifiquen sus referentes, asegurando la congruencia de la política pública estatal.
+
+c) Considerar en su aplicación las particularidades económicas y de desarrollo de las distintas regiones del Estado, en especial las zonas insulares, sin contravenir los topes establecidos en los valores federales.
 
 > <small>(REFORMADA [N. DE E. REUBICADA], P.O. 16 DE JULIO DE 2021)</small>
 
@@ -475,7 +489,9 @@ II. Promover el acceso de la población que resida en el territorio del Estado, 
 
 III. Incorporar estrategias que fomenten la concurrencia de los sectores público, social y privado para satisfacer las necesidades de vivienda, en sus diferentes tipos y modalidades;
 
-IV. La adquisición y constitución de reservas territoriales y el establecimiento de oferta pública de suelo para vivienda de interés popular y social, acordada y vigilada por los tres órdenes de Gobierno, con la participación social, para evitar la especulación sobre suelo urbano, prever sus requerimientos y promover los medios y formas de adquisición del mismo;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2026)</small>
+
+IV. La adquisición y constitución de reservas territoriales y el establecimiento de oferta pública de suelo para vivienda social, acordada y vigilada por los tres órdenes de Gobierno, con la participación social, para evitar la especulación sobre suelo urbano, prever sus requerimientos y promover los medios y formas de adquisición del mismo;
 
 V. Promover e impulsar mejoras regulatorias que fortalezcan la seguridad jurídica y disminuyan los costos de la vivienda;
 
@@ -1544,3 +1560,11 @@ La Secretaría de Finanzas y Planeación, deberá presentar un informe a la Legi
 ###### ARTÍCULO OCTAVO.
 
 Se derogan todas las disposiciones de igual o menor jerarquía, que contravengan y/o se opongan a lo dispuesto por este Decreto.
+
+P.O. 21 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 223 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA DEL ESTADO DE QUINTANA ROO Y LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por el presente Decreto.
