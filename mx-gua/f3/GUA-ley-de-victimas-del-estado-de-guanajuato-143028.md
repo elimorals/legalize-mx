@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-victimas-del-estado-de-guanajuato-143028"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-27"
-last_updated: "2025-06-25"
+last_updated: "2026-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143028&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE VÍCTIMAS DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2026.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el miércoles 27 de mayo de 2020.
 
@@ -123,6 +123,10 @@ X. Hecho victimizante: Actos u omisiones que dañan, menoscaban o ponen en pelig
 
 XI. Ley General: Ley General de Víctimas;
 
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2026)</small>
+
+XI bis. Medidas u órdenes de protección: Son actos de urgente aplicación en función del interés superior de la víctima y son fundamentalmente precautorias y cautelares, deberán otorgarse de oficio o a petición de parte, según sea el caso, a través del Ministerio Público, las autoridades administrativas, o por los órganos jurisdiccionales competentes, al momento en que tengan conocimiento del hecho de violencia presuntamente constitutivo de un delito o infracción, que ponga en riesgo la integridad, la libertad o la vida de las mujeres, adolescentes, niñas o niños, evitando en todo momento que la persona agresora, directamente o a través de algún tercero, tenga contacto de cualquier tipo o medio con la víctima;
+
 XII. Programa: Programa Estatal de Atención Integral a Víctimas;
 
 XIII. Recursos de Ayuda: Gastos de ayuda inmediata, ayuda, asistencia, atención y rehabilitación, con cargo al Fondo Estatal;
@@ -157,9 +161,9 @@ Derecho de ayuda
 
 Las víctimas recibirán ayuda provisional, oportuna y rápida de los Recursos de Ayuda de la Comisión, de acuerdo a las necesidades inmediatas que tengan relación directa con el hecho victimizante para atender y garantizar la satisfacción de sus necesidades de alimentación, aseo personal, manejo de abastecimientos, atención médica y psicológica de emergencia, transporte de emergencia y alojamiento transitorio en condiciones dignas y seguras, a partir del momento de la comisión del delito o de la violación de los derechos humanos o en el momento en el que las autoridades tengan conocimiento del delito o de la violación de derechos humanos. Las medidas de ayuda provisional se brindarán garantizando siempre un enfoque transversal de género y diferencial, y durante el tiempo que sea necesario para garantizar que la víctima supere las condiciones de necesidad inmediata.
 
-> <small>(ADICIONADO, P.O. 9 DE MARZO DE 2023)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2026)</small>
 
-Además, las hijas o hijos menores de edad de madres víctimas de feminicidio u homicidio recibirán la atención especializada, los apoyos en educación y de carácter jurídico.
+Además, las hijas o hijos menores de edad de madres víctimas de feminicidio, homicidio y desaparición recibirán la atención especializada, los apoyos en educación y de carácter jurídico.
 
 Las víctimas de delitos o de violaciones de derechos humanos que atenten contra la vida, contra la libertad o la integridad, así como de desplazamiento interno, recibirán ayuda médica y psicológica especializada de emergencia en los términos de la presente Ley.
 
@@ -499,17 +503,25 @@ La Comisión deberá reintegrar los gastos en términos de lo previsto en la fra
 
 ### CAPÍTULO IV. MEDIDAS EN MATERIA DE PROTECCIÓN
 
-La autoridad de seguridad pública y las medidas para evitar que (sic) víctima sufra lesión o daño
+> <small>(REFORMADO SU ACÁPITE, P.O. 21 DE ABRIL DE 2026)</small>
+
+Medidas u órdenes de protección
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2026)</small>
 
 ###### Artículo 37.
 
-Cuando la víctima se encuentre amenazada en su integridad personal o en su vida o existan razones fundadas para pensar que estos derechos están en riesgo, en razón del delito o de la violación de derechos humanos sufrida, la Secretaría de Seguridad Pública del Estado y la equivalente en el municipio de acuerdo con sus competencias y capacidades, adoptarán con carácter inmediato, las medidas para evitar que la víctima sufra alguna lesión o daño.
+Cuando la víctima se encuentre amenazada en su integridad personal o en su vida o existan razones fundadas para pensar que estos derechos están en riesgo, en razón del delito o de la violación de derechos humanos sufrida, la Secretaría de Seguridad Pública y Paz y la equivalente en el municipio, de acuerdo con sus competencias y capacidades, adoptarán con carácter inmediato, las medidas u órdenes de protección para evitar que la víctima sufra alguna lesión o daño.
 
-Las medidas de protección a las víctimas se deberán implementar con base en los siguientes principios:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE ABRIL DE 2026)</small>
+
+Las medidas u órdenes de protección a las víctimas se deberán implementar con base en los siguientes principios:
 
 I. Principio de protección: Considera primordial la protección de la vida, la integridad física, la libertad y la seguridad de las personas;
 
-II. Principio de necesidad y proporcionalidad: Las medidas de protección deben responder al nivel de riesgo o peligro en que se encuentre la persona destinataria, y deben ser aplicadas en cuanto sean necesarias para garantizar su seguridad o reducir los riesgos existentes;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2026)</small>
+
+II. Principio de necesidad y proporcionalidad: Las medidas u órdenes de protección deben responder al nivel de riesgo o peligro en que se encuentre la persona destinataria, y deben ser aplicadas en cuanto sean necesarias para garantizar su seguridad o reducir los riesgos existentes;
 
 III. Principio de confidencialidad: Toda la información y actividad administrativa o jurisdiccional relacionada con el ámbito de protección de las personas, debe ser confidencial para los fines de la investigación o del proceso respectivo; y
 
@@ -1439,7 +1451,9 @@ VI. La identificación y descripción detallada de las medidas de ayuda y de ate
 
 VII. La identificación y descripción detallada de las medidas de reparación que, en su caso, hayan sido otorgadas a la víctima; y
 
-VIII. La identificación y descripción detallada de las medidas de protección que, en su caso, se hayan brindado a la víctima.
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2026)</small>
+
+VIII. La identificación y descripción detallada de las medidas u órdenes de protección que, en su caso, se hayan brindado a la víctima.
 
 La información que se asiente en el Registro deberá garantizar que se respeta el enfoque diferencial.
 
@@ -1737,7 +1751,9 @@ II. Vigilar el cumplimiento de los deberes consagrados en la presente Ley, en es
 
 III. Solicitar el embargo precautorio de los bienes susceptibles de aplicarse a la reparación integral del daño sufrido por la víctima;
 
-IV. Solicitar las medidas cautelares o de protección para la protección de la víctima, sus familiares o sus bienes cuando sea necesario;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2026)</small>
+
+IV. Solicitar las medidas u órdenes de protección o medidas cautelares para la protección de la víctima, sus familiares o sus bienes cuando sea necesario;
 
 V. Solicitar las pruebas conducentes a fin de acreditar, determinar y cuantificar el daño de la víctima, especificando lo relativo a daño moral y daño material, siguiendo los criterios de la Ley General;
 
@@ -2245,9 +2261,13 @@ II. Representar a la víctima de manera integral en todos los procedimientos y j
 
 III. Proporcionar a la víctima de forma clara, accesible, oportuna y detallada la información y la asesoría legal que requiera, sea esta en materia penal, civil, familiar, laboral y administrativa;
 
-IV. Informar a la víctima, respecto al sentido y alcance de las medidas de protección, ayuda inmediata, ayuda, asistencia, atención, rehabilitación y reparación integral, y en su caso, tramitarlas ante las autoridades judiciales y administrativas;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2026)</small>
 
-V. Dar el seguimiento a todos los trámites de medidas de protección, ayuda, asistencia y atención para garantizar la integridad física y psíquica de las víctimas, así como su plena recuperación;
+IV. Informar a la víctima, respecto al sentido y alcance de las medidas u órdenes de protección, ayuda inmediata, ayuda, asistencia, atención, rehabilitación y reparación integral, y en su caso, tramitarlas ante las autoridades judiciales y administrativas;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2026)</small>
+
+V. Dar el seguimiento a todos los trámites de medidas u órdenes de protección, ayuda, asistencia y atención para garantizar la integridad física y psíquica de las víctimas, así como su plena recuperación;
 
 VI. Informar y asesorar a los familiares de la víctima o a las personas que ésta decida, sobre los servicios con que cuenta el Estado para brindarle ayuda, asistencia, asesoría, representación legal y demás derechos establecidos en la presente Ley, la Ley General, en los Tratados Internacionales y demás leyes aplicables;
 
@@ -2426,3 +2446,9 @@ Cuando el liquidador haya regularizado los bienes, derechos y obligaciones, así
 Referencias
 
 Artículo Tercero. Para todos los efectos legales correspondientes, las referencias al Instituto para las Mujeres Guanajuatenses, contenidas en otros decretos, reglamentos, convenios, u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto, se entenderán efectuados a la Secretaría de las Mujeres.
+
+P.O. 21 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 185, QUE EMITE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE VÍCTIMAS DEL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
