@@ -4,7 +4,7 @@ identifier: "GRO-codigo-penal-para-el-estado-libre-y-soberano-de-guerrero-104907
 country: "mx"
 rank: "codigo"
 publication_date: "2014-08-01"
-last_updated: "2026-02-13"
+last_updated: "2026-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2026.
 
 Código publicado en el Alcance IV del Periódico Oficial del Estado de Guerrero, el viernes 1 de agosto de 2014.
 
@@ -2881,11 +2881,17 @@ Cuando exista en las instituciones educativas públicas y privadas de nivel bás
 
 Incumplimiento de la obligación alimentaria
 
-A quien incumpla con su obligación de dar alimentos a la persona que tiene derecho a recibirlos se le impondrán de uno a cinco años de prisión así como la suspensión de los derechos de familia y pago en calidad de reparación del daño de las cantidades no suministradas oportunamente.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2026)</small>
+
+A quien incumpla con su obligación de dar alimentos a la persona que tiene derecho a recibirlos se le impondrán de uno a cinco años de prisión, así como la suspensión de los derechos de familia y pago en calidad de reparación del daño de las cantidades no suministradas oportunamente. Si el adeudo excede de treinta días, el Juez ordenará al Registro Civil el ingreso de los datos del sentenciado en el Registro Estatal de Deudores Alimentarios Morosos.
 
 Para los efectos de este artículo, se tendrá como consumado el delito aun cuando el acreedor alimentario haya sido dejado al cuidado o reciba ayuda de un tercero.
 
 Cuando no sean comprobables el salario o los ingresos del deudor alimentario, éstos se determinarán con base en la capacidad económica y nivel de vida que el deudor y el acreedor alimentario hayan tenido en los dos últimos años.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2026)</small>
+
+Una vez que el sentenciado cumpla con la reparación del daño, el Juez a petición de parte deberá ordenar al Registro Civil la cancelación de la inscripción.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2025)</small>
 
@@ -6036,3 +6042,13 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal, para su conocimiento y para los efectos legales conducentes.
 
 TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página oficial del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
+
+P.O. 21 DE ABRIL DE 2026
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 502 POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 205 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO NÚMERO 499”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal, para su conocimiento y para los efectos legales conducentes.
+
+TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero, así como en la página oficial del Congreso del Estado, para el conocimiento general y efectos legales procedentes.
