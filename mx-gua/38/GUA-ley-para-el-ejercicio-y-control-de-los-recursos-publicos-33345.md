@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-el-ejercicio-y-control-de-los-recursos-publicos-33345"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-12"
-last_updated: "2024-12-27"
+last_updated: "2026-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33345&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PÚBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2026.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el martes 12 de agosto del 2003.
 
@@ -1613,7 +1613,7 @@ III.- Considerar el nivel de rezago salarial que éstos presenten.
 
 ###### Artículo 81.
 
-El Congreso del Estado deberá emitir a más tardar el quince de octubre de cada año, las recomendaciones de montos máximos de las remuneraciones de los integrantes de los Ayuntamientos, mismas que deberá publicar en el Periódico Oficial del Gobierno del Estado y en su caso, en un diario de amplia circulación en el Municipio de que se trate.
+(DEROGADO, P.O. 21 DE ABRIL DE 2026)
 
 (REUBICADO [N. DE E. ANTES CAPÍTULO TERCERO], P.O. 16 DE DICIEMBRE DE 2014)
 
@@ -1631,7 +1631,7 @@ No podrá omitirse la retribución que corresponda a una función pública, en c
 
 La remuneración integrada mensual a que se refiere el artículo anterior, considerará los montos netos que proponga el Comité Técnico de Estructuración Salarial.
 
-En el caso de los servidores públicos municipales, se podrán tomar como base las recomendaciones que emita el Congreso del Estado con fundamento en el artículo 81 de esta Ley, debiendo el presidente municipal presentar la propuesta correspondiente al Ayuntamiento para su aprobación e integración en el presupuesto de egresos.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 21 DE ABRIL DE 2026)</small>
 
 ###### Artículo 84.
 
@@ -2190,3 +2190,9 @@ P.O. 27 DE DICIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO 53, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL EJERCICIO Y CONTROL DE LOS RECURSOS PÚBLICOS PARA EL ESTADO DE GUANAJUATO".]
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 21 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 181, QUE EMITE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS RECURSOS PÚBLICOS PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO".]
+
+Artículo Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
