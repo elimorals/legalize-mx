@@ -4,7 +4,7 @@ identifier: "HID-ley-de-migrantes-hidalguenses-y-en-contexto-de-movilidad-143820
 country: "mx"
 rank: "ley"
 publication_date: "2020-08-17"
-last_updated: "2026-01-07"
+last_updated: "2026-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143820&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE MIGRANTES HIDALGUENSES Y EN CONTEXTO DE MOVILIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2026.
 
 Decreto publicado en el Alcance Núm. 33 del Periódico Oficial del Estado de Hidalgo, el lunes 17 de agosto de 2020.
 
@@ -433,6 +433,10 @@ V.- Mantenerse al margen de cualquier condicionamiento de tipo político partidi
 
 VI.- Acceder a los servicios públicos prestados por las dependencias estatales y municipales del Estado conforme a la presente Ley y demás normatividad aplicable;
 
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2026)</small>
+
+VI BIS.- La inscripción voluntaria al Padrón de personas migrantes;
+
 VII.- La protección del Estado contra toda violencia, daño corporal, amenaza o intimidación por parte de funcionarios públicos o de particulares, grupos o instituciones;
 
 > <small>(ADICIONADA, P.O. 31 DE MAYO DE 2022)</small>
@@ -633,11 +637,43 @@ II.- Riesgos y peligros que pueden presentarse al migrar de formailegal(sic).
 
 Cuando ocurra un desastre natural o urbano, un atentado terrorista o accidentes colectivos que afecten o pongan en peligro la vida o el patrimonio de migrantes hidalguenses que se encuentren fuera del Estado de Hidalgo, la Secretaría, coordinadamente con la Secretaría de Relaciones Exteriores, promoverá las acciones necesarias para salvaguardar su integridad y, en su caso, facilitarles los medios para retornar al Estado de Hidalgo.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE ABRIL DE 2026)</small>
+
+### CAPÍTULO III BIS. DEL PADRÓN DE PERSONAS MIGRANTES
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2026)</small>
+
+###### Artículo 32 Bis.
+
+Corresponde a la Secretaría promover la elaboración y actualización de un padrón de personas migrantes como instrumento de política pública.
+
+La información contenida en el padrón tendrá por objeto la recopilación de cuando menos la siguiente información:
+
+I. Nombre
+
+II. Lugar de nacimiento,
+
+III. Domicilio dentro del territorio nacional,
+
+IV. Sexo,
+
+V. Edad,
+
+VI. Estado civil,
+
+VII. Datos de contacto (número telefónico y/o correo electrónico) y;
+
+VIII. Datos de contacto de un familiar.
+
+Dicha información será de carácter público, de acuerdo con la normatividad aplicable.
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2026)</small>
+
+###### Artículo 32 Ter.
+
+Las dependencias estatales que otorguen algún beneficio de los que refiere la presente ley, promoverán el registro voluntario al padrón de personas migrantes. La inscripción no condicionará el acceso a los beneficios.
+
 ### CAPÍTULO IV. CONSEJO ESTATAL DE ATENCIÓN Y PROTECCIÓN AL MIGRANTE
-
-### CAPÍTULO V. MIGRANTES EN CONTEXTO DE MOVILIDAD
-
-> <small>(REFORMADO, P.O. 17 DE MAYO DE 2024)</small>
 
 ###### Artículo 33.
 
@@ -731,6 +767,10 @@ VIII.- Aprobar las comisiones que se requieran para atender asuntos específicos
 
 IX.- Las demás que determine esta Ley, su Reglamento y demás disposiciones normativas aplicables.
 
+### CAPÍTULO V. MIGRANTES EN CONTEXTO DE MOVILIDAD
+
+> <small>(REFORMADO, P.O. 17 DE MAYO DE 2024)</small>
+
 ###### Artículo 38.
 
 Las personas migrantes que no sean originarias del Estado de Hidalgo y que se encuentren en territorio estatal tienen derecho a recibir un trato digno, justo y humano, prohibiéndose cualquier acto de discriminación, xenofobia, segregación, exclusión o restricción, por razón de su origen étnico, nacional o regional, la identidad o la expresión de género, características sexuales, la edad, las discapacidades, la condición social o económica, las condiciones de salud, la religión, las opiniones, la orientación sexual, el estado civil, el trabajo desempeñado, las costumbres, la raza o cualquier otra conducta que tenga por efecto anular o menoscabar el reconocimiento, goce o ejercicio de los derechos y libertades fundamentales del ser humano
@@ -822,3 +862,11 @@ P.O. 7 DE ENERO DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 387 – LXVI POR EL QUE SE ADICIONA UN ARTÍCULO 28 BIS A LA LEY DE MIGRANTES HIDALGUENSES Y EN CONTEXTO DE MOVILIDAD, EN MATERIA DE DESARROLLO ECONÓMICO DE LAS PERSONAS MIGRANTES".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 21 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 598 - LXVI POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MIGRANTES HIDALGUENSES Y EN CONTEXTO DE MOVILIDAD, EN MATERIA DE CREACIÓN DEL PADRÓN DE PERSONAS MIGRANTES".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. La Secretaría de Bienestar e Inclusión Social, de manera progresiva y atendiendo a la suficiencia presupuestal, emitirá las adecuaciones normativas y operativas para dar cumplimiento al presente Decreto.
