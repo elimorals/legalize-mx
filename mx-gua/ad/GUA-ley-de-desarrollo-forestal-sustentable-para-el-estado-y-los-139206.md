@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-desarrollo-forestal-sustentable-para-el-estado-y-los-139
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-25"
-last_updated: "2021-11-23"
+last_updated: "2026-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139206&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2026.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el lunes 25 de noviembre de 2019.
 
@@ -479,6 +479,14 @@ La forestación y reforestación que se realice con propósitos de conservación
 
 El Estado y los ayuntamientos se coordinarán para que, en el ámbito de sus respectivas competencias, instrumenten programas de restauración integral, así como para el monitoreo y seguimiento de estos. Se impulsará la reforestación con especies forestales preferentemente nativas de conformidad con el inventario de especies vegetales nativas y la paleta vegetal.
 
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2026)</small>
+
+Prohibición de uso
+
+###### Artículo 29 Bis.
+
+Queda prohibido realizar en terrenos forestales incendiados, cualquier actividad o uso distintos a la restauración o al manejo forestal sustentable, dentro de los 20 años siguientes a que haya ocurrido el incendio, en términos de la Ley General y su reglamento.
+
 ### Capítulo V. Instrumentos Económicos para el Desarrollo Forestal
 
 #### Sección Primera. Incentivos para el Desarrollo Forestal
@@ -714,3 +722,9 @@ Artículo Quinto. La Secretaría de Finanzas, Inversión y Administración defin
 Proceso de entrega-recepción extraordinaria
 
 Artículo Sexto. De conformidad a lo estipulado en el Reglamento de Entrega- Recepción para la Administración Pública Estatal, la Secretaría de la Transparencia y Rendición de Cuentas, vigilará el proceso de entrega recepción extraordinaria.
+
+P.O. 21 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 183, QUE EMITE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE ADICIONAN DIVERSAS DISPOSICIONES (SIC) LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
