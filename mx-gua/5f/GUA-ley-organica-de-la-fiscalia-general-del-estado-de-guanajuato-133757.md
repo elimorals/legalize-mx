@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-de-la-fiscalia-general-del-estado-de-guanajuato-13
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-02-15"
-last_updated: "2024-12-27"
+last_updated: "2026-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=133757&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2026.
 
 Ley publicada en la Tercera Parte al Número 34 del Periódico Oficial del Estado de Guanajuato, el viernes 15 de febrero de 2019.
 
@@ -139,15 +139,19 @@ IX. Promover la aplicación de soluciones alternas y formas de terminación anti
 
 X. Crear y administrar bases de información y de estadística criminal en el ámbito de su competencia;
 
-XI. Implementar un sistema de control de la gestión institucional a través del establecimiento de indicadores que sirvan para la evaluación del funcionamiento de la Fiscalía General;
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2026)</small>
 
-XII. Instrumentar mecanismos de colaboración y cooperación con instituciones de los diversos órdenes de gobierno, que permitan el diseño y operación de estrategias que robustezcan sus capacidades y faciliten el cumplimiento de sus respectivas atribuciones;
+XI. Administrar y operar el Registro Público de Personas Agresoras Sexuales, registrando a la persona sentenciada, previa orden judicial de conformidad con el Código Penal del Estado de Guanajuato, en su portal web oficial;
 
-XIII. Establecer medios de información sistemática con la sociedad, atendiendo los principios, así como las disposiciones de reserva y confidencialidad establecidas en el Código Nacional y demás disposiciones en la materia;
+XII. Implementar un sistema de control de la gestión institucional a través del establecimiento de indicadores que sirvan para la evaluación del funcionamiento de la Fiscalía General;
 
-XIV. Expedir constancias de antecedentes penales y de revisión vehicular, previo pago de derechos conforme a la legislación aplicable; y
+XIII. Instrumentar mecanismos de colaboración y cooperación con instituciones de los diversos órdenes de gobierno, que permitan el diseño y operación de estrategias que robustezcan sus capacidades y faciliten el cumplimiento de sus respectivas atribuciones;
 
-XV. Las demás que le atribuyan las disposiciones jurídicas aplicables.
+XIV. Establecer medios de información sistemática con la sociedad, atendiendo los principios, así como las disposiciones de reserva y confidencialidad establecidas en el Código Nacional y demás disposiciones en la materia;
+
+XV. Expedir constancias de antecedentes penales y de revisión vehicular, previo pago de derechos conforme a la legislación aplicable; y
+
+XVI. Las demás que le atribuyan las disposiciones jurídicas aplicables.
 
 ### Capítulo II. Patrimonio
 
@@ -2004,3 +2008,11 @@ P.O. 27 DE DICIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO 57, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA PARA EL ESTADO DE GUANAJUATO; Y SE REFORMA EL ARTÍCULO 18 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUANAJUATO”.]
 
 Artículo Único. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 21 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 182, QUE EMITE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO; Y, SE ADICIONA UN FRACCIÓN XI AL ARTÍCULO 7 DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE GUANAJUATO”.]
+
+Artículo Primero. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo Segundo. La persona titular de la Fiscalía General del Estado solicitará al Poder Ejecutivo la suficiencia presupuestal necesaria para la creación y funcionamiento del Registro Público de Personas Agresoras Sexuales y en un plazo de ciento ochenta días establecerá los lineamientos para crear, organizar, implementar, gestionar, actualizar, monitorear y evaluar el funcionamiento del Registro Público de Personas Agresoras Sexuales.
