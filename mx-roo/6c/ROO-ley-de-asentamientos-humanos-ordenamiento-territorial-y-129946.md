@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-asentamientos-humanos-ordenamiento-territorial-y-129946"
 country: "mx"
 rank: "ley"
 publication_date: "2018-08-16"
-last_updated: "2025-12-16"
+last_updated: "2026-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129946&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2026.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quinta Roo, el jueves 16 de agosto de 2018.
 
@@ -303,9 +303,17 @@ LXI. Zonificación Primaria: La determinación de las áreas que integran un ter
 
 LXII. Zonificación Incluyente: Instrumento que permite dar flexibilidad a los usos del suelo y transparencia financiera a la gestión urbana, mediante el cual, los ciudadanos puedan desarrollar y acceder a mejores condiciones para el desarrollo de sus propiedades, así como generar mecanismos para sufragar los rezagos de infraestructura y equipamiento urbano en los centros de población;
 
-LXIII. Zonificación Secundaria: La determinación de los usos de suelo y destinos permitidos, prohibidos o condicionados en un espacio edificable y no edificable, así como sus compatibilidades, los coeficientes de uso y ocupación de suelo, las densidades, otros parámetros, criterios ecológicos y normas técnicas, tales como alturas máximas y alineamientos, y
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2026)</small>
 
-LXIV. Zona de Riesgo: Espacio territorial determinado en el que existe la probabilidad de que se produzca un daño, originado por fenómenos naturales o antrópicos.
+LXIII. Zonificación Secundaria: La determinación de los usos de suelo y destinos permitidos, prohibidos o condicionados en un espacio edificable y no edificable, así como sus compatibilidades, los coeficientes de uso y ocupación de suelo, las densidades, otros parámetros, criterios ecológicos y normas técnicas, tales como alturas máximas y alineamientos;
+
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2026)</small>
+
+LXIV. Zona de Riesgo: Espacio territorial determinado en el que existe la probabilidad de que se produzca un daño, originado por fenómenos naturales o antrópicos, y
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2026)</small>
+
+LXV. Vivienda Social: Es aquella destinada a personas que no cuentan con la capacidad económica para adquirir una vivienda, priorizando a quienes se encuentran en condiciones de bajos ingresos, pobreza, riesgo o vulnerabilidad, a través de los programas sociales y crediticios de vivienda. Se clasifica en económica, popular y tradicional de conformidad con las disposiciones jurídicas aplicables y la normativa federal en la materia.
 
 > <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2023)</small>
 
@@ -2487,7 +2495,9 @@ IV. Si las áreas o predios son propiedad de un núcleo de población ejidal, pr
 
 La acción urbanística de objetivo social se refiere a las urbanizaciones que se desarrollarán mediante la gestión pública, bajo la coordinación de la Secretaría, con la participación que corresponda a otras dependencias y entidades competentes, conforme a las siguientes disposiciones generales:
 
-I. La finalidad de la acción urbanística por objetivo social en acciones de crecimiento y mejoramiento urbano, es responder a la demanda de suelo para la vivienda de interés social y evitar con ello el asentamiento irregular o el rescate y renovación de barrios y colonias;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2026)</small>
+
+I. La finalidad de la acción urbanística por objetivo social en acciones de crecimiento y mejoramiento urbano, es responder a la demanda de suelo para la vivienda social y evitar con ello el asentamiento irregular o el rescate y renovación de barrios y colonias;
 
 II. En acciones de mejoramiento para la regularización de la tenencia de la tierra urbana, formalizará los términos y condiciones para la participación de los titulares de los predios y fincas, en la ejecución de las obras de infraestructura, urbanización y equipamiento necesarias para su integración al desarrollo del Centro de Población;
 
@@ -3520,3 +3530,11 @@ P.O. 16 DE DICIEMBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 21 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 223 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE VIVIENDA DEL ESTADO DE QUINTANA ROO Y LA LEY DE ASENTAMIENTOS HUMANOS, ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan lo dispuesto por el presente Decreto.
