@@ -4,7 +4,7 @@ identifier: "GRO-constitucion-politica-del-estado-libre-y-soberano-de-5126"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-03"
-last_updated: "2026-02-13"
+last_updated: "2026-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2026.
 
 Constitución publicada en los Periódicos Oficiales del Estado de Guerrero los días 3, 10 y 17 de noviembre de 1917 y 5 de enero de 1918.
 
@@ -123,7 +123,27 @@ XIV. Libertad de expresión e información, en consecuencia a buscar, recibir y 
 
 La información difundida en medios de comunicación que se dirijan al público en general que sean inexactas o agraviantes en perjuicio de persona alguna, darán derecho a la rectificación o respuesta, sin demérito de las responsabilidades en que el medio o medios hayan incurrido;
 
-XV. De libre acceso a registros, archivos o bancos de datos que contengan referencias a sus datos personales en información creada, administrada o en posesión de entidades públicas o privadas, asistiéndole el derecho de requerir la actualización, rectificación, confidencialidad o supresión, si lesionan o restringen alguno de sus derechos;
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2026)</small>
+
+XV. El derecho de acceder a la información pública y a la protección de sus datos personales en posesión de los sujetos obligados, entendidos como cualquier autoridad, agencia, comisión, comité, corporación, ente, entidad, institución, órgano, fideicomiso, organismo o su equivalente de los poderes Ejecutivo, Legislativo y Judicial; de los órganos autónomos constitucionales y con autonomía técnica; partidos políticos; candidaturas independientes; así como cualquier persona física o moral, sindicato u organización que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal, municipal o de los consejos municipales.
+
+Para el ejercicio del derecho de acceso a la información pública, no será necesario acreditar interés alguno o justificar su uso.
+
+La garantía del derecho de acceso a la información pública se regirá conforme a los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
+
+Toda la información en posesión de los sujetos obligados es pública y sólo podrá ser reservada temporalmente por razones de interés público o declarada inexistente, en los términos que fijen las leyes. En la interpretación de este derecho, deberá prevalecer el principio de máxima publicidad.
+
+Los sujetos obligados deberán promover, respetar, proteger y garantizar este derecho, conforme a la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ella emanen, las cuales determinarán las bases y procedimientos para su ejercicio, así como la competencia de las autoridades garantes encargadas de coordinar y vigilar, en el ámbito de su respectiva competencia, el cumplimiento de las disposiciones en materia de transparencia, acceso a la información pública y protección de datos personales.
+
+Las autoridades garantes en el estado de Guerrero serán responsables de garantizar, en el ámbito de sus competencias, el ejercicio de los derechos de acceso a la información pública y la protección de datos personales, conforme a los principios y bases establecidos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución local y las disposiciones jurídicas aplicables.
+
+Las resoluciones que emitan las autoridades garantes en los recursos de revisión que conozcan serán vinculatorias, definitivas e inatacables para los sujetos obligados.
+
+La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes. Para tal efecto, los sujetos obligados contarán con las facultades suficientes para su atención.
+
+Toda persona tendrá acceso a sus datos personales, a la rectificación y cancelación u oposición al uso de estos.
+
+Tratándose de datos personales en posesión de personas físicas o morales del sector privado, la protección, verificación y eventual imposición de sanciones se regirá por lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y en la ley aplicable en la materia.
 
 > <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
@@ -205,9 +225,9 @@ Toda persona tendrá derecho a conocer, de conformidad a lo que señalen las ley
 
 Las autoridades culturales promoverán la formación profesional en materia de arte y cultura para contribuir al pleno y libre desarrollo de los derechos culturales.
 
-> <small>(ADICIONADA, P.O. 31 DE JULIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2026)</small>
 
-X. El derecho de acceder a toda persona de forma libre a internet, a las tecnologías de la información y comunicación.
+X. El derecho de toda persona a acceder, de forma libre y sin discriminación, a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet;
 
 > <small>(ADICIONADA, P.O. 30 DE MAYO DE 2025)</small>
 
@@ -1255,11 +1275,11 @@ Se instalará el primero de septiembre del año de renovación de la Legislatura
 
 Deberán acudir a la sesión de instalación del Congreso los titulares de los Poderes Ejecutivo y Judicial del Estado, en los términos que establezca la Ley Orgánica del Poder Legislativo.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2026)</small>
 
-###### ARTICULO 58.
+###### Artículo 58.
 
-El Congreso contará con órganos de gobierno y administración, cuyo nombramiento, integración y denominación se regulará por la Ley Orgánica del Congreso y su Reglamento.
+El Congreso contará con órganos de gobierno, administración y un órgano interno de control, cuyo nombramiento, integración, denominación y competencia se regulará por la Ley Orgánica del Congreso y su Reglamento. El órgano interno de control será autoridad garante del derecho de acceso a la información pública y protección de datos personales, en el ámbito del Poder Legislativo.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -1851,11 +1871,17 @@ El mandato de la Gobernadora o Gobernador será de seis años improrrogables.
 
 La Gobernadora o Gobernador no podrá ser removido de su cargo sino exclusivamente por las causas establecidas en el título Décimo Tercero de esta Constitución.
 
-1. La Gobernadora o Gobernador recibirá una remuneración digna y adecuada, acorde a la naturaleza de su cargo. La remuneración podrá ser aumentada justificadamente, pero no procederá su disminución durante el período para el que fue electo;
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 21 DE ABRIL DE 2026)</small>
 
-2. La Gobernadora o Gobernador gozará de inmunidad constitucional, que podrá ser confirmada o suspendida mediante declaración de procedencia del Congreso del Estado; y,
+1. El Gobernador del Estado recibirá una remuneración digna y adecuada, acorde a la naturaleza de su cargo, la cual no podrá ser mayor a la establecida para el Presidente de la República en el presupuesto correspondiente. Sin contravenir lo dispuesto en este precepto, la remuneración podrá ser aumentada justificadamente, y no podrá disminuirse durante el período para el que fue electo.
 
-3. La Gobernadora o Gobernador será sujeto de responsabilidad política y penal, en los términos del Título Décimo Tercero de la presente Constitución y de las demás leyes aplicables.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 21 DE ABRIL DE 2026)</small>
+
+2. El Gobernador gozará de inmunidad constitucional, que podrá ser confirmada o suspendida mediante declaración de procedencia del Congreso del Estado; y,
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 21 DE ABRIL DE 2026)</small>
+
+3. El Gobernador será sujeto de responsabilidad política y penal, en los términos del Título Décimo Tercero de la presente Constitución y de las demás leyes aplicables.
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
 
@@ -1913,21 +1939,35 @@ Quien ocupe provisionalmente el gobierno no podrá remover a los secretarios del
 
 Para el despacho de los asuntos que competen al Poder Ejecutivo, la Gobernadora o Gobernador se auxiliará de Secretarias y Secretarios de Despacho y de los servidores públicos que las necesidades de la administración pública demanden, en los términos de la ley orgánica respectiva.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2026)</small>
 
 ###### ARTICULO 88.
 
-El Poder Ejecutivo funcionará a través de Secretarías y dependencias centralizadas y entidades paraestatales, en los términos señalados en su ley orgánica.
+El Poder Ejecutivo funcionará a través de la administración pública centralizada y paraestatal, en los términos establecidos por esta Constitución, su ley orgánica y demás disposiciones jurídicas aplicables.
 
-1. La organización, atribuciones, control y evaluación de las Secretarías y dependencias centralizadas, así como las relaciones entre ellas, se regularán por la propia ley orgánica y los reglamentos correspondientes; y,
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2026)</small>
 
-2. La Ley establecerá las bases generales de creación de las entidades paraestatales y la intervención de la Gobernadora o Gobernador Constitucional del Estado de Guerrero en su operación, así como las relaciones entre estas, la Gobernadora o Gobernador y las secretarías, dependencias y órganos de administración pública centralizada;
+1. La organización, funcionamiento, atribuciones, control y evaluación de las secretarías y dependencias de la administración pública centralizada, así como las relaciones entre estas, se regularán por la ley orgánica respectiva, los reglamentos que de ella emanen y las disposiciones administrativas que dicte la persona titular del Poder Ejecutivo, en el ámbito de su competencia.
 
-3.- La Gobernadora o Gobernador representará al Estado en los asuntos en que este sea parte. Por conducto de la Consejera o Consejero Jurídico del Poder Ejecutivo; y
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2026)</small>
 
-4.- La atribución de representar y asesorar jurídicamente a la Gobernadora o Gobernador del estado, estará a cargo de quien ejerza la función de Consejera o Consejero Jurídico del Poder Ejecutivo, en los términos que establezca la Ley.
+Las estructuras orgánicas y ocupacionales se ajustarán de conformidad con los principios de racionalidad y austeridad republicana, eliminando todo tipo de duplicidades funcionales u organizacionales, atendiendo a las necesidades de mejora y modernización de la gestión pública;
 
-(…) (sic)
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2026)</small>
+
+2. La ley establecerá las bases generales de creación de las entidades paraestatales y la intervención de la Gobernadora o Gobernador Constitucional del Estado de Guerrero en su operación, así como las relaciones entre estas, la persona titular del Poder Ejecutivo y las secretarías, dependencias y órganos de la administración pública centralizada;
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2026)</small>
+
+3. La Gobernadora o Gobernador representará al estado en los asuntos en que éste sea parte, por conducto de la Consejera o Consejero Jurídico del Poder Ejecutivo;
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2026)</small>
+
+4. La atribución de representar y asesorar jurídicamente a la Gobernadora o Gobernador del estado, estará a cargo de quién ejerza la función de Consejera o Consejero Jurídico del Poder Ejecutivo, en los términos que establezca la ley, y
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2026)</small>
+
+5. La secretaría responsable del control interno del Poder Ejecutivo fungirá como autoridad garante del derecho de acceso a la información pública y de la protección de datos personales, y ejercerá dicha función en el ámbito del Poder Ejecutivo, así como respecto de los municipios y concejos municipales en el estado de Guerrero.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -2385,9 +2425,17 @@ XI. Resolver las solicitudes de excusa o recusación presentadas contra magistra
 
 XII. Integrar su Comité de Evaluación para el Proceso de Selección de Personas Candidatas a los Cargos de Magistradas, Magistrados, Juezas y Jueces del Poder Judicial del Estado;
 
-XIII. Postular en términos de la Constitución y la ley, a las personas que participarán en la elección de quienes integrarán el Poder Judicial del Estado; y,
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2026)</small>
 
-XIV. Las demás que le confieran esta Constitución y las leyes aplicables.
+XIII. Postular en términos de la Constitución y la ley, a las personas que participarán en la elección de quienes integrarán el Poder Judicial del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 21 DE ABRIL DE 2026)</small>
+
+XIV. Determinar mecanismos para garantizar la transparencia, el acceso a la información y la protección de los datos personales en el ejercicio de la función judicial, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 21 DE ABRIL DE 2026)</small>
+
+XV. Las demás que le confieran esta Constitución y las leyes aplicables.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -2407,7 +2455,7 @@ Esta Constitución garantiza la autonomía e independencia de los Órganos Autó
 
 I. La protección de los derechos humanos;
 
-II. La transparencia, el acceso a la información pública y la protección de datos personales;
+II. (DEROGADA, P.O. 21 DE ABRIL DE 2026)
 
 III. La organización de las elecciones y demás mecanismos de participación ciudadana;
 
@@ -2451,19 +2499,27 @@ Cada Órgano Autónomo elaborará su proyecto de presupuesto para cumplir adecua
 
 4. El titular o presidente de cada Órgano Autónomo deberá comparecer ante el Congreso del Estado, previa solicitud fundada y motivada.
 
-> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2026)</small>
 
-5. Cada organismo con autonomía reconocida en esta Constitución, que ejerza recursos del presupuesto de egresos del Estado, contará con un órgano interno de control.
+5. Cada organismo con autonomía reconocida en esta Constitución, que ejerza recursos del presupuesto de egresos del Estado, contará con un órgano interno de control, el cual también actuará, en el ámbito de su competencia, como autoridad garante del derecho de acceso a la información pública y de la protección de datos personales.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2026)</small>
 
 ###### ARTICULO 108.
 
-En el funcionamiento, deliberaciones y resoluciones de los Órganos Autónomos se privilegiará la máxima publicidad y transparencia.
+En el funcionamiento, deliberaciones y resoluciones de los órganos autónomos se privilegiará la máxima publicidad y transparencia.
 
-1. Los actos y resoluciones de los Órganos Autónomos estarán sujetos a control jurisdiccional en los términos dispuestos en la ley, con excepción de los que emanen de la Comisión de los Derechos Humanos y del Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales, que serán definitivos; y,
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2026)</small>
 
-2. Las leyes establecerán las bases de colaboración y coordinación entre los Órganos Autónomos y los poderes del Estado.
+1. Los actos y resoluciones de los órganos autónomos estarán sujetos a control jurisdiccional en los términos dispuestos en la ley, con excepción de los que emanen de la Comisión de los Derechos Humanos, que serán definitivos; y,
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2026)</small>
+
+2. Las leyes establecerán las bases de colaboración y coordinación entre los órganos autónomos y los poderes del estado de Guerrero, y
+
+> <small>(ADICIONADO, P.O. 21 DE ABRIL DE 2026)</small>
+
+3. Los órganos autónomos son sujetos obligados para efectos de transparencia y cumplimiento de los derechos de acceso a la información pública y protección de datos personales. Sus respectivos órganos internos de control fungirán como autoridades garantes de dichos derechos.
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -2483,11 +2539,11 @@ Las leyes definirán la forma y las modalidades de su designación, sus responsa
 
 #### SECCIÓN II. ESTATUTO JURÍDICO DE SUS INTEGRANTES
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2026)</small>
 
 ###### ARTICULO 111.
 
-Para ser presidente de la Comisión de los Derechos Humanos; consejero del Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales; o Fiscal General de la Fiscalía General, se requiere:
+Para ser presidenta o presidente de la Comisión de los Derechos Humanos o titular de la Fiscalía General del Estado de Guerrero, se requiere:
 
 > <small>(REFORMADA, P.O. 27 DE MAYO DE 2025)</small>
 
@@ -2701,95 +2757,37 @@ XIII. Conocer del recurso extraordinario de exhibición de personas en los casos
 
 XIV. Las demás que determine la ley y su reglamento.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE ABRIL DE 2026)</small>
 
 ### CAPÍTULO II. INSTITUTO DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE GUERRERO
 
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE ABRIL DE 2026)</small>
 
 #### SECCIÓN I. FUNCIÓN
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
-
 ###### ARTICULO 120.
 
-La función de promover, proteger, garantizar, difundir y transparentar los actos de las autoridades estatales y municipales, el derecho a la información de las personas y sus datos personales, se deposita en un órgano denominado Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Guerrero.
+(DEROGADO, P.O. 21 DE ABRIL DE 2026)
 
-1. El Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Guerrero ejercerá su función mediante la implementación de políticas de transparencia, la aplicación de los procedimientos de acceso a la información y protección de datos personales;
-
-2. Son sujetos obligados por la Ley de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Guerrero y, en consecuencia, competencia del Instituto, cualquier autoridad, entidad, órgano u organismos de los Poderes Legislativo, Ejecutivo y Judicial, Órganos Autónomos, Órganos con Autonomía Técnica, los Ayuntamientos, partidos políticos, candidatos independientes, fideicomisos y fondos públicos, instituciones de educación básica, media, media superior, superior y de posgrado; centros de investigación, así como cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en los ámbitos estatal y municipal;
-
-3. La información en posesión de los sujetos obligados es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad nacional, en los términos que fijen las leyes. Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, la ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información;
-
-4. Quedan igualmente obligados dichos sujetos por depósito y manejo de datos personales. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes;
-
-5. La ley establecerá mecanismos de acceso a la información y procedimientos de revisión expeditos que se sustanciarán ante el Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Guerrero;
-
-6. Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán, a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores que permitan rendir cuenta del cumplimiento de sus objetivos y de los resultados obtenidos; y,
-
-7. Las resoluciones del organismo garante son vinculatorias, definitivas e inatacables para los sujetos obligados.
-
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 21 DE ABRIL DE 2026)</small>
 
 #### SECCIÓN II. PRINCIPIOS, INTEGRACIÓN Y NOMBRAMIENTO
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
-
 ###### ARTICULO 121.
 
-En la interpretación del derecho de acceso a la información y protección de datos personales deberá prevalecer el principio de máxima publicidad. El Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Guerrero deberá adoptar aquélla que garantice su mayor eficacia.
-
-Los procedimientos de acceso a la información y protección de datos personales se regirán por los principios de acceso universal, máxima publicidad, disponibilidad, simplicidad, rapidez y gratuidad.
-
-> <small>(REFORMADO, P.O. 14 DE JULIO DE 2017)</small>
+(DEROGADO, P.O. 21 DE ABRIL DE 2026)
 
 ###### ARTICULO 122.
 
-El Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales se integra con tres Comisionados, nombrados por las dos terceras partes del total de los integrantes del Congreso del Estado, mediante convocatoria pública y satisfechos los requisitos que establezca la presente Constitución y la ley de la materia.
+(DEROGADO, P.O. 21 DE ABRIL DE 2026)
 
-1. Los Comisionados durarán en su encargo siete años.
-
-2. El Comisionado Presidente será designado por los propios Comisionados, mediante voto secreto, por un periodo de dos años con posibilidad de ser reelecto por un periodo igual; estará obligado a rendir un informe anual ante el Congreso del Estado, en la fecha y en los términos que disponga la ley.
-
-3. El Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales funcionará exclusivamente en pleno y contará con el personal necesario para el adecuado cumplimiento de sus atribuciones, de conformidad con lo dispuesto en su Ley y su reglamento.
-
-4. El organismo garante tendrá un Consejo Consultivo, integrado por 3 Consejeros que durarán en el cargo 5 años de manera honorifica, nombrados por el voto de las dos terceras partes de los Diputados presentes del Congreso del Estado. La ley determinará los procedimientos a seguir para la presentación de las propuestas por el propio Congreso del Estado.
-
-> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 21 DE ABRIL DE 2026)</small>
 
 #### SECCIÓN III. ATRIBUCIONES
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
-
 ###### ARTICULO 123.
 
-El Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Guerrero tiene las atribuciones siguientes:
-
-I. Conocer, instruir y resolver las impugnaciones contra las autoridades que nieguen, obstaculicen o restrinjan el acceso a la información pública;
-
-II. Sustanciar y resolver la acción de protección de datos personales;
-
-III. Implementar políticas, lineamientos, instrucciones y recomendaciones en favor de la transparencia en el ejercicio de la función pública, y la adecuada y oportuna rendición de cuentas a través de la apertura informativa;
-
-IV. Emitir criterios generales para determinar los supuestos de clasificación y desclasificación de la información pública;
-
-V. Establecer normas y criterios para la administración, seguridad y tratamiento de los datos personales y vigilar que estos se encuentren efectivamente protegidos por los sujetos obligados;
-
-VI. Elaborar lineamientos técnicos para crear, sistematizar, preservar y actualizar la información y los archivos públicos en resguardo de cualquier autoridad;
-
-VII. Comprobar que los sujetos obligados publiquen a través de los medios electrónicos disponibles, la información completa y actualizada sobre sus indicadores de gestión y el ejercicio de los recursos públicos;
-
-VIII. Verificar que la información pública de oficio de los sujetos obligados se dé a conocer en su portal electrónico;
-
-IX. Sancionar la inobservancia a las disposiciones en materia de acceso a la información pública en los términos que disponga la ley;
-
-X. Expedir recomendaciones para eliminar los obstáculos que impidan la transparencia, el acceso efectivo a la información pública y la protección eficaz de los datos personales;
-
-XI. Emitir su opinión sobre las leyes que en la materia de su competencia se discutan en el Congreso del Estado;
-
-XII. Promover y difundir de manera permanente la cultura de la transparencia y acceso a la información pública, así como la protección de datos personales; y,
-
-XIII. Las demás que determine la ley y su reglamento.
+(DEROGADO, P.O. 21 DE ABRIL DE 2026)
 
 > <small>(REFORMADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -3617,11 +3615,13 @@ IX. Las demás que determine la ley y su reglamento.
 
 #### SECCIÓN I. TRIBUNAL DE DISCIPLINA JUDICIAL
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2026)</small>
 
 ###### ARTICULO 160.
 
-El Tribunal de Disciplina Judicial será un órgano del Poder Judicial del Estado con independencia técnica, de gestión y para emitir sus resoluciones, y tiene por objeto garantizar la integridad, objetividad e imparcialidad en el desempeño de las personas servidoras públicas de dicho poder, a través de la investigación, substanciación y sanción de su actuación.
+El Tribunal de Disciplina Judicial será un órgano del Poder Judicial del estado con independencia técnica, de gestión y para emitir sus resoluciones, y tiene por objeto garantizar la integridad, objetividad e imparcialidad en el desempeño de las personas servidoras públicas de dicho poder, a través de la investigación, sanción y evaluación de su actuación, el cual también actuará, en el ámbito de su competencia, como autoridad garante del derecho de acceso a la información pública y de la protección de datos personales.
+
+> <small>(REFORMADO [N. DE E. CON SUS FRACCIONES], P.O. 26 DE AGOSTO DE 2025)</small>
 
 El Tribunal de Disciplina Judicial funcionará en pleno y comisiones, y tendrá las atribuciones siguientes:
 
@@ -3641,7 +3641,9 @@ VII. Resolver los conflictos laborales entre el Poder Judicial del Estado y sus 
 
 VIII. Solicitar al Órgano de Administración Judicial la expedición de acuerdos generales o la ejecución de las resoluciones que considere necesarios para asegurar un adecuado ejercicio de la función jurisdiccional estatal en los asuntos de su competencia, y
 
-VIII. (Sic) Las demás que le sean asignadas por disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2026)</small>
+
+IX. Las demás que le sean asignadas por disposiciones legales aplicables.
 
 > <small>(ADICIONADO, P.O. 26 DE AGOSTO DE 2025)</small>
 
@@ -4069,13 +4071,23 @@ i) Intervenir en la formulación y aplicación de programas de transporte públi
 
 j) De conformidad a los fines señalados en el párrafo tercero, del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, expedir los reglamentos y disposiciones administrativas que sean necesarias;
 
-> <small>(REFORMADO, P.O. 30 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2026)</small>
 
-k) Planear y regular de manera conjunta y coordinada con la Federación, el Estado y otros municipios, el desarrollo de los centros urbanos situados en los territorios municipales del Estado o de otras Entidades federativas, siempre que formen o tiendan a formar una continuidad demográfica, incluyendo criterios para la movilidad y seguridad vial, con apego a las leyes federales de la materia;
+k) Planear y regular de manera conjunta y coordinada con la Federación, el estado y otros municipios, el desarrollo de los centros urbanos situados en los territorios municipales del estado o de otras entidades federativas, siempre que formen o tiendan a formar una continuidad demográfica, y
 
-l) Asociarse libremente con municipios del Estado con población mayoritariamente indígena, con base en su filiación étnica e histórica, para conformar organizaciones de pueblos y comunidades indígenas que tengan por objeto implementar programas de desarrollo común y promover el bienestar y progreso comunitario; y,
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2026)</small>
 
-m) Las demás que le confieran esta Constitución y las leyes.
+l) Asociarse libremente con municipios del estado con población mayoritariamente indígena, con base en su filiación étnica e histórica, para conformar organizaciones de pueblos y comunidades indígenas que tengan por objeto implementar programas de desarrollo común y promover el bienestar y progreso comunitario;
+
+m) (DEROGADO, P.O. 21 DE ABRIL DE 2026)
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2026)</small>
+
+XIX. Promover, respetar y proteger los derechos de acceso a la información pública y a la protección de datos personales, y
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2026)</small>
+
+XX. Las demás que le confieran la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y la normatividad aplicable.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -4487,9 +4499,9 @@ VI. Las personas titulares de las dependencias, entidades u organismos de la adm
 
 VII. La persona titular de la Presidencia y las personas consejeras de Comisión de los Derechos Humanos del Estado de Guerrero;
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2026)</small>
 
-VIII. Las y los consejeros del Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Guerrero;
+VIII. Las personas titulares de los órganos internos de control y sus equivalentes, en su calidad de autoridades garantes del derecho de acceso a la información pública y de la protección de datos personales;
 
 > <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
 
@@ -4643,9 +4655,9 @@ Incurren en responsabilidad administrativa, los servidores públicos que en el e
 
 12. En el cumplimiento de sus atribuciones, a los órganos responsables de la investigación y sanción de responsabilidades administrativas y hechos de corrupción, no les serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios. La ley establecerá los procedimientos para que les sea entregada dicha información; y
 
-> <small>(ADICIONADO, P.O. 14 DE JULIO DE 2017)</small>
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2026)</small>
 
-13. La Auditoría Superior del Estado de Guerrero y la Secretaría de Contraloría y Transparencia Gubernamental, respectivamente, podrán recurrir las determinaciones de la Fiscalía Especializada en Combate a la Corrupción y del Tribunal de Justicia Administrativa del Estado de Guerrero, de conformidad con lo previsto en el artículo 92, numeral 4, fracción X de esta Constitución.
+13. La Auditoría Superior del Estado de Guerrero y la secretaría del Poder Ejecutivo estatal responsable del control interno, respectivamente, podrán recurrir las determinaciones de la Fiscalía Especializada en Combate a la Corrupción y del Tribunal de Justicia Administrativa del Estado de Guerrero, de conformidad con lo previsto en el artículo 92, numeral 4, fracción X de esta Constitución.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -4667,9 +4679,9 @@ No se requerirá declaración de procedencia para su interposición.
 
 ARTICULO 198 BIS.- El Sistema Estatal Anticorrupción de Guerrero, es la instancia de coordinación de las autoridades estatales y municipales, competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
-> <small>(REFORMADA, P.O. 26 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2026)</small>
 
-I. El Sistema contará con un Comité Coordinador, que estará integrado por las personas titulares de la Auditoría Superior del Estado de Guerrero; de la Fiscalía Especializada en Combate a la Corrupción; de la Secretaría de Contraloría y Transparencia Gubernamental; por la presidenta o presidente del Tribunal de Justicia Administrativa del Estado de Guerrero; así como por una persona representante del Tribunal de Disciplina Judicial y otra del Comité de Participación Ciudadana;
+I. El Sistema contará con un Comité Coordinador, que estará integrado por las personas titulares de la Auditoría Superior del Estado de Guerrero; de la Fiscalía Especializada en Combate a la Corrupción; de la secretaría del Poder Ejecutivo estatal responsable del control interno; por la presidenta o presidente del Tribunal de Justicia Administrativa del Estado de Guerrero; así como por una persona integrante del Tribunal de Disciplina Judicial y otra del Comité de Participación Ciudadana;
 
 II. El Comité de Participación Ciudadana del Sistema, deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley, y
 
@@ -4709,31 +4721,35 @@ ARTICULO 198 TER.- El Comité de Participación Ciudadana del Sistema, tiene com
 
 #### SECCIÓN ÚNICA. DE LA REFORMA E INVIOLABILIDAD DE LA CONSTITUCIÓN
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 27 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE ABRIL DE 2026)</small>
 
 ###### ARTICULO 199.
 
-La presente Constitución puede ser reformada o adicionada por el Congreso del Estado.
+El Congreso del Estado podrá reformar o adicionar la presente Constitución, así como derogar sus disposiciones, en los términos que ella misma establece.
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 21 DE ABRIL DE 2026)</small>
 
-1. Para que las reformas o adiciones lleguen a ser parte de la Constitución se deberá cumplir con el siguiente procedimiento:
+1. Para que las reformas, adiciones y derogaciones lleguen a ser parte de la Constitución se deberá cumplir con el siguiente procedimiento:
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2026)</small>
 
-I. Son sujetos legitimados para presentar iniciativas las Diputadas y los Diputados del Congreso y la Gobernadora o Gobernador del Estado.
+I. Son sujetos legitimados para presentar iniciativas las Diputadas y Diputados del Congreso y la Gobernadora o Gobernador del Estado;
 
-> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2026)</small>
 
-II. Las reformas deberán ser aprobadas por las dos terceras partes del total de los integrantes del Congreso del Estado; y,
+II. Las reformas, adiciones y derogaciones deberán ser aprobadas por las dos terceras partes del total de las Diputadas y Diputados integrantes del Congreso del Estado; y,
 
-> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2026)</small>
 
-III. Ser aprobadas por el cincuenta por ciento más uno de los Ayuntamientos, en sesión de Cabildo, en un plazo improrrogable de 60 días naturales contados a partir del día siguiente en que la reciban.
+III. Ser aprobadas por el cincuenta por ciento más uno de los Ayuntamientos, en sesión de Cabildo, en un plazo improrrogable de 60 días naturales contados a partir del día siguiente en que la reciban. Transcurrido dicho plazo, sin que se haya recibido en el Congreso del Estado el acta de Cabildo correspondiente, se entenderá que el Ayuntamiento omiso la aprueba.
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2026)</small>
 
-2. El Congreso del Estado o, en su caso, la Comisión Permanente, cumplido el término de 60 días, realizará el cómputo de los votos de los Ayuntamientos y levantará el Acta correspondiente. Cuando se reciba el voto de la mayoría de los Ayuntamientos, se procederá de inmediato a la declaración. El decreto de reformas y/o adiciones se remitirá de inmediato al Ejecutivo del Estado para su debida promulgación y publicación en el Periódico Oficial; y,
+IV. Los ayuntamientos tienen la obligación de emitir el voto respectivo en el tiempo señalado en la fracción anterior. En caso contrario, la omisión será sancionada conforme a la legislación aplicable a la materia.
+
+> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2026)</small>
+
+2. El Congreso del Estado, cumplido el plazo de sesenta días naturales, realizará el cómputo de los votos de los Ayuntamientos y levantará el acta correspondiente, en la que la Mesa Directiva dará cuenta de: los que validaron el decreto respectivo; los que no remitieron el acta de validación, entendiéndose su aprobación de manera ficta; y los que remitieron acta en sentido no aprobatorio, procediendo, en su caso, de inmediato a emitir la declaratoria de validación, alcanzada por la mayoría requerida, el decreto de reformas o adiciones se remitirá de inmediato al Ejecutivo del Estado para su promulgación y publicación en el Periódico Oficial del Gobierno del Estado; y,
 
 > <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2014)</small>
 
@@ -6498,3 +6514,59 @@ Las autoridades de los 84 municipios y el Concejo Municipal de Ayutla de los Lib
 ###### ARTÍCULO SÉPTIMO.
 
 El Poder Ejecutivo dispondrá que el texto normativo íntegro del presente Decreto se traduzca a las lenguas de los pueblos indígenas y ordenará la difusión correspondiente.
+
+P.O. 21 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 255 POR EL QUE SE REFORMAN EL PRIMER PÁRRAFO, EL NUMERAL 1 Y SUS FRACCIONES I, II Y III, ASÍ COMO EL NUMERAL 2, Y SE ADICIONA LA FRACCIÓN IV DEL NUMERAL I DEL ARTÍCULO 199 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero, sin perjuicio de lo previsto en los transitorios legales.
+
+SEGUNDO. La Secretaría de Asuntos Parlamentarios deberá generar un expediente por cada uno de los Decretos de reformas y/o adiciones a la Constitución Política del Estado Libre y Soberano de Guerrero, en el que se incluyan los oficios de notificación a los Ayuntamientos, las Actas de Sesiones de Cabildo que se hayan recibido al respecto, la certificación del término del periodo para emitir su voto y, en su caso, el listado de los Ayuntamientos que no hayan emitido el acta de cabildo correspondiente.
+
+TERCERO. En términos del numeral 1, fracción III del artículo 199 de la Constitución Política del Estado Libre y Soberano de Guerrero, remítase a los H. Ayuntamientos Municipales del Estado, para su conocimiento y efectos constitucionales procedentes.
+
+CUARTO. Remítase a la Titular del Poder Ejecutivo para su conocimiento y efectos legales correspondientes.
+
+QUINTO. Remítase a la Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno del Estado para conocimiento general.
+
+SEXTO. Remítase a los Ayuntamientos Municipales para su conocimiento y efectos legales.
+
+P.O. 21 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 257 POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUERRERO, EN MATERIA DE SIMPLIFICACIÓN ORGÁNICA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. El Congreso del Estado tendrá un plazo de sesenta días naturales a partir de la entrada en vigor del presente Decreto para adecuar el marco normativo secundario correspondiente, para armonizarlo con las disposiciones constitucionales reformadas.
+
+TERCERO. El Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Guerrero cesará en sus funciones a partir de la entrada en vigor de la legislación secundaria. A partir de esa fecha, se considerará formalmente extinguido como organismo constitucional autónomo, para lo cual el Congreso de Guerrero deberá emitir el decreto correspondiente.
+
+CUARTO. La legislación secundaria que se emita con motivo del presente Decreto deberá establecer los mecanismos, procedimientos y plazos para la transferencia ordenada de funciones, archivos, recursos humanos, financieros y materiales a las autoridades garantes que corresponda, garantizando la asignación de dichos recursos para el cumplimiento de las atribuciones que le confiera a este último la normatividad aplicable.
+
+La Auditoria Superior del Estado de Guerrero deberá practicar una auditoria integral al Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Guerrero, correspondientes al ejercicio fiscal en que entre en vigor el presente Decreto, a efecto de fincar responsabilidades por posibles daños al erario público o hechos de corrupción, debiendo presentar el informe de resultados correspondiente al Congreso del Estado.
+
+QUINTO. Las personas comisionadas del Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Guerrero concluirán sus funciones a la entrada en vigor de la legislación secundaria. Para efectos del cese de sus funciones, se estará a lo establecido en el artículo 7 de la Ley de Trabajo de los Servidores Públicos del Estado de Guerrero número 248, por lo que no procederá compensación o cualquier otro tipo de gratificación por el tiempo de servicio prestado.
+
+SEXTO. Los derechos laborales de las personas servidoras públicas del Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Guerrero serán respetados en términos de la legislación aplicable. Al momento de la extinción de dicho órgano, las personas servidoras públicas que realicen funciones operativas o especializadas y cuya antigüedad sea mayor a un año, podrán ser incorporadas a las nuevas instancias garantes o instancias administrativas competentes, de conformidad con las disposiciones presupuestarias, laborales y administrativas aplicables.
+
+Los recursos necesarios para el pago de obligaciones de carácter laboral, en los términos que establezcan las leyes o las condiciones generales de trabajo aplicables, serán cubiertos con el presupuesto del Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Guerrero autorizado para el presente ejercicio fiscal.
+
+Los recursos sin ejercer una vez cubiertas las obligaciones de carácter laboral, serán administrados por la Secretaría de Finanzas y Administración del Gobierno del Estado para los fines que determine conforme a las disposiciones aplicables.
+
+SÉPTIMO. Las obligaciones de transparencia, acceso a la información pública y protección de datos personales deberán continuar siendo observadas por los sujetos obligados durante el proceso de transición institucional, sin perjuicio de su cumplimiento ni afectación a los derechos de las personas.
+
+OCTAVO. Cualquier asunto en trámite continuará desahogándose conforme a las disposiciones legales aplicables al momento de su inicio ante las autoridades garantes que corresponda.
+
+Los registros, padrones, expedientes en trámite, acervo documental, plataformas y sistemas electrónicos del Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales del Estado de Guerrero, deberán remitirse a las autoridades garantes que corresponda, en los términos del presente Decreto y de la legislación secundaria.
+
+NOVENO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto, así como cualquier normativa interna, reglamentaria o administrativa que no se ajuste a lo establecido en el mismo, debiendo las autoridades competentes realizar, en el ámbito de sus atribuciones, las adecuaciones correspondientes para su debida observancia.
+
+DÉCIMO. En términos del numeral 1, fracción III del artículo 199 de la Constitución Política del Estado Libre y Soberano de Guerrero, remítase a los H. Ayuntamientos Municipales del Estado, para su conocimiento y efectos constitucionales procedentes.
+
+DÉCIMO PRIMERO. Remítase a la Titular del Poder Ejecutivo para su promulgación y efectos legales correspondientes.
+
+DÉCIMO SEGUNDO. Remítase a los titulares de los sujetos obligados de las autoridades garantes, para los efectos legales procedentes.
+
+DÉCIMO TERCERO. Notifíquese a la Auditoría Superior del Estado para los efectos establecidos en el Artículo Sexto transitorio, conforme a lo establecido en la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Guerrero.
+
+DÉCIMO CUARTO. Publíquese en el Periódico Oficial del Gobierno del Estado para conocimiento general.
