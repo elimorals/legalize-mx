@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-cambio-climatico-para-el-estado-de-guanajuato-y-sus-9661
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-15"
-last_updated: "2024-06-07"
+last_updated: "2026-04-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96617&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2026.
 
 Ley publicada en la Quinta Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de noviembre de 2013.
 
@@ -796,6 +796,10 @@ XII. Incorporar en los programas de política ambiental municipal y de desarroll
 XIII. Promover y realizar acciones e inversiones para la conservación, mejoramiento y crecimiento de los centros de población, atendiendo a los atlas de riesgos;
 
 XIV. Formular, aprobar y administrar los programas de acción climática municipales y los demás que de éstos se deriven, así como evaluar y vigilar su cumplimiento, de conformidad con la legislación aplicable;
+
+> <small>(ADICIONADA, P.O. 21 DE ABRIL DE 2026)</small>
+
+XIV bis. Implementar las medidas necesarias en materia de impacto ambiental y manejo integral de residuos en cumplimiento con las Normas Oficiales Mexicanas en la materia para la mitigación de emisiones, previniendo riesgos ambientales en las áreas de disposición final de residuos sólido (sic);
 
 XV. Promover la participación social, conforme a lo dispuesto en esta Ley;
 
@@ -2760,3 +2764,9 @@ Artículo Tercero. La Comisión será instalada en los términos del presente De
 Término para expedir instrumentos de planeación de la política estatal de cambio climático
 
 Artículo Cuarto. El Ejecutivo del Estado y los Ayuntamientos expedirán los instrumentos de la política de cambio climático a que se refiere el artículo 53 de la presente Ley dentro de los 180 días siguientes a la entrada en vigencia del presente Decreto.
+
+P.O. 21 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO LEGISLATIVO NÚMERO 180, QUE EMITE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE ADICIONA UNA DISPOSICIÓN DE LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS”.]
+
+Artículo Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
