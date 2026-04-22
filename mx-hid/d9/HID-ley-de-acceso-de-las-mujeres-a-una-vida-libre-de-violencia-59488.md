@@ -4,7 +4,7 @@ identifier: "HID-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5948
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2025-12-26"
+last_updated: "2026-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59488&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 31 de diciembre de 2007.
 
@@ -334,6 +334,10 @@ h) Condicionar el cumplimiento de las obligaciones alimentarias a las mujeres y 
 XI Quater. Violencia estructural: Se refiere a la que, sin manifestarse de manera directa, se produce a través de estructuras de autoridad y sistemas de estratificación social que limitan el acceso equitativo a recursos y derechos.
 
 Esta violencia afecta a mujeres en situaciones de desventaja en función de factores como etnia, edad, jerarquía social, u otros aspectos en los cuales los recursos y oportunidades se distribuyen de forma desigual, perpetuando actitudes y comportamientos que justifican y reproducen estas desigualdades.
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2026)</small>
+
+XI Quinquies. Violencia estética: Es todo acto a través del cual se ejerce presión a las mujeres, a fin de que su apariencia física se apegue a un prototipo de ideal estético, vulnerando con ello el derecho al libre desarrollo de la personalidad, el cual incluye el derecho a la elección de la apariencia personal; y
 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE OCTUBRE DE 2019)</small>
 
@@ -2554,5 +2558,11 @@ P.O. 6 DE AGOSTO DE 2025.
 P.O. 26 DE DICIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 345 – LXVI QUE REFORMA LA FRACCIÓN XI TER DEL ARTÍCULO 5, LA FRACCIÓN VI DEL ARTÍCULO 8 Y LA FRACCIÓN XIX Y XX DEL ARTÍCULO 32 BIS, LA FRACCIÓN XIII Y XIV DEL ARTÍCULO 32 TER, Y ADICIONA LA FRACCIÓN XXI DEL ARTÍCULO 32 BIS Y LAS FRACCIONES XV Y XVI DEL ARTÍCULO 32 TER DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO; Y REFORMA EL PÁRRAFO TERCERO DE LA FRACCIÓN VII Y LA FRACCIÓN X DEL ARTÍCULO 3 DE LA LEY PARA LA ATENCIÓN Y SANCIÓN DE LA VIOLENCIA FAMILIAR PARA EL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 610 – LXVI POR EL QUE SE ADICIONA UNA FRACCIÓN XI QUINQUIES AL ARTÍCULO 5 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE HIDALGO, EN MATERIA DE VIOLENCIA ESTÉTICA".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
