@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2026-04-16"
+last_updated: "2026-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2026.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -233,9 +233,9 @@ e) Incorporación de las mujeres al desarrollo.
 
 f) Ampliación de la red de comunicaciones, y posibilidad para los pueblos y comunidades indígenas para adquirir y operar sus propios medios de comunicación.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2003)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2026)</small>
 
-g) Impulso a las actividades productivas y al desarrollo sustentable de las comunidades.
+g) Impulso a las actividades productivas y al desarrollo sustentable y sostenible de las comunidades.
 
 > <small>(REFORMADO, P.O. 11 DE JULIO DE 2003)</small>
 
@@ -281,7 +281,9 @@ El Ejecutivo del Estado coadyuvará con la Federación en el establecimiento de 
 
 Los planteles educativos constituyen un espacio fundamental para el proceso de enseñanza aprendizaje. El Estado garantizará que los materiales didácticos, la infraestructura educativa, su mantenimiento y las condiciones del entorno, sean idóneos y contribuyan a los fines de la educación.
 
-Los planes y programas de estudio tendrán perspectiva de género y una orientación integral, por lo que se incluirá el conocimiento de las ciencias y humanidades; la enseñanza de las matemáticas; la lecto-escritura; la literacidad; la historia; la geografía; el civismo; la filosofía; la tecnología; la innovación; las lenguas indígenas de nuestro estado; las lenguas extrajeras; la educación física; el deporte; las artes, en especial la música; la promoción de estilos de vida saludables; la educación sexual y reproductiva; y el cuidado del medio ambiente, entre otras.
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2026)</small>
+
+Los planes y programas de estudio tendrán perspectiva de género y una orientación integral, por lo que se incluirá el conocimiento de las ciencias y humanidades; la enseñanza de las matemáticas; la lecto-escritura; la literacidad; la historia; la geografía; el civismo; la filosofía; la tecnología; la innovación; las lenguas indígenas de nuestro estado; las lenguas extrajeras (sic); la educación física; el deporte; las artes, en especial la música; la promoción de estilos de vida saludables; la educación sexual y reproductiva; y el cuidado del medio ambiente, así como el bienestar, el cuidado y la protección de los animales, entre otras.
 
 La educación se orientará en los criterios que establece el artículo 3º de la Constitución Política Federal, poniendo especial énfasis en favorecer el pleno ejercicio de derecho a la educación de las personas y combatan las desigualdades socioeconómicas; la mejora de las condiciones de vida de las y los educandos, con énfasis en las de carácter alimentario; y educación para las personas adultas para ingresar a las instituciones en sus distintos tipos y modalidades.
 
@@ -373,11 +375,13 @@ III. (DEROGADA, P.O. 22 DE NOVIEMBRE DE 2022)
 
 Con la participación democrática de la sociedad, compete al Gobierno del Estado la formulación de los planes y programas de desarrollo del Estado para la consecución de una existencia digna y justa de sus habitantes.
 
-> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ABRIL DE 2026)</small>
 
 ###### ARTÍCULO 15.
 
-Todas las personas que habitan el Estado tienen derecho a vivir y crecer en un ambiente sano, ecológicamente equilibrado y sustentable para su bienestar y desarrollo humano.
+Todas las personas que habitan el Estado tienen derecho a vivir y crecer en un ambiente sano, ecológicamente equilibrado, sustentable y sostenible para su bienestar y desarrollo humano.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
 
 En la esfera de su competencia y, concurrentemente, los ayuntamientos, y el Gobierno del Estado, en coordinación con la Federación, en su caso, llevarán a cabo planes y programas para conservar, proteger, aprovechar racionalmente y mejorar los recursos naturales de la Entidad, así como para prevenir y combatir la contaminación ambiental. Realizarán acciones de prevención, adaptación y mitigación frente a los efectos del cambio climático.
 
@@ -385,7 +389,11 @@ En la esfera de su competencia y, concurrentemente, los ayuntamientos, y el Gobi
 
 Todas las personas que habitan en el Estado, tienen derecho al aprovechamiento de las fuentes renovables de energía, en los términos que establezcan las leyes de la materia.
 
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
+
 Las personas que habitan el Estado, igualmente participarán en la preservación, restauración y equilibrio ecológico, y en materia de prevención, adaptación y mitigación frente al cambio climático.
+
+> <small>(REFORMADO, P.O. 9 DE SEPTIEMBRE DE 2022)</small>
 
 El daño y deterioro ambiental generará responsabilidad para quien lo provoque en términos de lo dispuesto por la ley.
 
@@ -1111,7 +1119,9 @@ III.- Legislar, dentro del ámbito de su competencia, en materia de asentamiento
 
 IV.- Expedir la ley que establezca los procedimientos para el fraccionamiento y enajenación de las extensiones que llegaren a exceder los límites señalados en el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos;
 
-V.- Expedir leyes concurrentes con las federales en materia de protección al ambiente y de restauración y preservación del equilibrio ecológico;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2026)</small>
+
+V.- Expedir leyes concurrentes con las federales en materia de protección al ambiente y de restauración, preservación del equilibrio ecológico, y en materia de protección y bienestar de los animales, en el ámbito de su competencia;
 
 VI.- Expedir la Ley Orgánica del Municipio Libre;
 
@@ -4214,3 +4224,19 @@ En los ejercicios fiscales subsecuentes, deberán prever partidas específicas e
 SEXTO. El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, en coordinación con el Instituto de Fiscalización Superior del Estado y la Secretaría de Finanzas, emitirá en un plazo no mayor a 60 días naturales los criterios técnicos y/o lineamientos para la verificación, seguimiento y cumplimiento del ingreso mínimo mensual previsto en este Decreto, mismos que serán de observancia obligatoria para los ayuntamientos.
 
 SÉPTIMO. El Poder Ejecutivo del Estado, a través de la Secretaría de Finanzas, podrá celebrar convenios de coordinación con los ayuntamientos para apoyar la implementación progresiva del ingreso mínimo mensual previsto en este Decreto, sin que ello implique transferencia de obligaciones permanentes ni afectación a la autonomía municipal.
+
+P.O. 22 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0512.- QUE REFORMA LOS ARTÍCULOS 9° Y 15, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, EN MATERIA DE DESARROLLO SUSTENTABLE Y SOSTENIBLE”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 22 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0513.- QUE REFORMA LOS ARTÍCULOS 10 Y 57, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, EN MATERIA DEL BIENESTAR, EL CUIDADO Y LA PROTECCIÓN DE LOS ANIMALES”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
