@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2026-03-03"
+last_updated: "2026-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -555,11 +555,11 @@ El Estado procurará el acceso a programas de becas para los alumnos más destac
 
 Los planes y programas de estudio tendrán perspectiva de género y una orientación integral, por lo que se incluirá el conocimiento de las ciencias y humanidades: la enseñanza de las matemáticas, la lecto-escritura, la literacidad, la historia, la geografía, el civismo, la filosofía, la tecnología, la innovación, las lenguas indígenas de nuestro país, las lenguas extranjeras, la educación física, el deporte, las artes, en especial la música, la promoción de estilos de vida saludables, la educación sexual y reproductiva y el cuidado al medio ambiente, entre otras.
 
-> <small>(ADICIONADO, P.O. 24 DE JULIO DE 2025)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2026)</small>
 
 ###### Artículo 8° Ter.
 
-Esta Constitución reconoce a los animales no humanos como seres sintientes, que poseen una conciencia propia, lo que les permite percibir su entorno y ser capaces de discernir entre lo bueno y lo malo, sentir estados afectivos y experimentar dolor, placer y sufrimiento. Por lo tanto, se consideran sujetos de tutela, garantizándoles con ello las condiciones óptimas que les provean altos niveles de bienestar, así como la preservación de su vida y dignidad. En consecuencia, las personas y el Estado tienen la obligación de respetar y, en su caso, proteger la vida de todo animal, evitando cualquier acto de negligencia, maltrato o crueldad en su contra.
+Esta Constitución reconoce a los animales como seres sintientes. Por lo tanto, se consideran sujetos de tutela, garantizándoles con ello condiciones óptimas que les provean bienestar, así como la preservación de su vida y dignidad. Su tutela es de responsabilidad común. En consecuencia, las personas y el Estado tienen la obligación de respetar y, en su caso, proteger la vida y la integridad de todo animal, evitando cualquier acto de negligencia, maltrato o crueldad en su contra, en los términos que señale la normatividad respectiva.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE SEPTIEMBRE DE 2019)</small>
 
@@ -1105,6 +1105,10 @@ III. Tener una residencia efectiva no menor de tres años en el estado; y
 
 IV. (DEROGADA, P.O. 14 DE NOVIEMBRE DE 1995)
 
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2026)</small>
+
+V.- No tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de alguna diputación.
+
 > <small>(REFORMADO Y REUBICADO, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
 ###### Artículo 32.
@@ -1131,11 +1135,13 @@ IV. Los Jueces de Primera Instancia en la circunscripción en la que ejerzan sus
 
 V. Los militares que no se hayan separado del servicio activo, cuando menos seis meses antes de la elección.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2026)</small>
 
 ###### Artículo 33.
 
-Los Diputados al Congreso del Estado, podrán ser electos hasta por un periodo consecutivo. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieran postulado; salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+Las personas propietarias de las diputaciones locales, no podrán ser reelectas para el periodo inmediato posterior al ejercicio de su mandato.
+
+Las personas diputadas suplentes podrán ser electas para el periodo inmediato con el carácter de propietarias, siempre que no hubieren estado en ejercicio; pero las personas diputadas propietarias no podrán ser electas para el periodo inmediato con el carácter de suplentes.
 
 > <small>(REFORMADO, P.O. 19 DE ABRIL DE 2004)</small>
 
@@ -1733,9 +1739,9 @@ Los partidos políticos deberán alternar el género en la candidatura para cada
 
 Para ser persona titular del Poder Ejecutivo del Estado, se requiere:
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2026)</small>
 
-I. Ser mexicano por nacimiento, en el ejercicio de sus derechos políticos;
+I. Tener nacionalidad mexicana de nacimiento, en ejercicio de sus derechos políticos;
 
 > <small>(REFORMADA, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -1745,9 +1751,9 @@ II. Ser hidalguense por nacimiento o con residencia efectiva no menor de cinco a
 
 III. Tener al menos dieciocho años de edad;
 
-> <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2026)</small>
 
-IV. No pertenecer al Estado eclesiástico, ni ser ministro de culto religioso;
+IV. No pertenecer al estado eclesiástico, ni ser persona ministra de culto religioso;
 
 > <small>(REFORMADA, P.O. 1 DE NOVIEMBRE DE 1979)</small>
 
@@ -1757,11 +1763,13 @@ V. No ser militar en servicio activo o ciudadano con mando de los cuerpos de Seg
 
 VI. No ser servidora o servidor público federal o local, secretaria o secretario de Gabinete, titular de la Fiscalía General de Justicia del Estado, de la Fiscalía Especializada en Delitos de Corrupción, titular de una magistratura del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa o del Tribunal de Disciplina Judicial, jueza o juez del fuero común, diputada o diputado local o titular de la presidencia municipal en funciones, a menos que se hayan separado de su encargo, noventa días naturales antes de la fecha de la elección.
 
-> <small>[N. DE E. PERTENECE A LA FRACCIÓN VI, P.O. 22 DE MAYO DE 2017.]</small>
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 22 DE MAYO DE 2017)</small>
+VII. No haber tenido ni tener, en los tres años previos al día de la elección, vínculo de matrimonio, concubinato, unión de hecho, ni parentesco por consanguinidad o civil en línea recta sin limitación de grado, o afinidad hasta el segundo grado, con la persona que ocupe la titularidad del Ejecutivo Estatal, y
 
-No ser Consejero Electoral, Fiscal Especializado en Delitos Electorales, integrante de la Junta Estatal Ejecutiva del Instituto Estatal Electoral y Magistrado del Tribunal Electoral del Poder Judicial del Estado, a menos que, se separen de su cargo un año antes del inicio del proceso electoral de que se trate.
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2026)</small>
+
+VIII. No ser consejera o consejero Electoral, titular de la Fiscalía Especializada en Delitos Electorales, integrante de la Junta Estatal Ejecutiva del Instituto Estatal Electoral o magistrada o magistrado del Tribunal Electoral del Estado, a menos que se separen de su cargo un año antes del inicio del proceso electoral de que se trate.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE FEBRERO DE 2001)</small>
 
@@ -2887,23 +2895,15 @@ Los Ayuntamientos se integran por un Presidente o Presidenta Municipal, las sind
 
 En la elección de los Ayuntamientos, se aplica el principio de representación proporcional de acuerdo a las reglas que establezca la ley de la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2023)</small>
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2026)</small>
 
 ###### Artículo 125.
 
-Las personas electas popularmente, que ocupen el cargo de presidentes municipales, síndicos y regidores de los ayuntamientos, podrán ser electos por un periodo adicional consecutivo. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
+Las personas electas popularmente, que ejerzan los cargos de presidencia municipal, sindicatura o regiduría de los ayuntamientos, no podrán ser reelegidas para el periodo inmediato posterior al ejercicio de su mandato.
 
-> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2023)</small>
+El mismo principio antes mencionado aplica para las personas que integran a los ayuntamientos y que sean electas como independientes.
 
-En el caso de las personas que integran a los ayuntamientos y que sean electas como independientes, podrán postularse para la elección consecutiva solamente con su misma calidad y no podrán ser postuladas por un partido político, salvo que demuestren su militancia a ese partido político antes de la mitad de su mandato.
-
-> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2023)</small>
-
-Ninguna de las personas funcionarias antes mencionadas, cuando hayan tenido el carácter de propietarios durante los dos periodos consecutivos, podrán ser electas para el periodo inmediato con el carácter de suplentes, pero estos últimos sí podrán ser electos para el periodo inmediato como propietarios, pudiendo ser electos para el mismo cargo hasta por un periodo adicional, a menos que hayan estado en ejercicio dentro del periodo de suplencia.
-
-> <small>(REFORMADO, P.O. 7 DE MARZO DE 2023)</small>
-
-Las personas que por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que les dé, no podrán ser electas para el periodo inmediato.
+Las personas servidoras públicas antes mencionadas, cuando tengan el carácter de propietarias, no podrán ser electas para el periodo inmediato con el carácter de suplentes, pero las que tengan el carácter de suplentes sí podrán ser electas para el periodo inmediato como propietarias, a menos que hayan estado en ejercicio.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
 
@@ -2949,7 +2949,9 @@ Para ser miembro del Ayuntamiento se requiere:
 
 I. Ser hidalguense en pleno goce de sus derechos;
 
-II. Ser vecino del municipio correspondiente, con residencia no menor de dos años inmediatamente anteriores al día de la elección;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2026)</small>
+
+II. Tener vecindad en el municipio correspondiente, con residencia no menor de dos años inmediatamente anteriores al día de la elección;
 
 > <small>(REFORMADA, P.O. 1 DE JULIO DE 2025)</small>
 
@@ -2959,13 +2961,19 @@ IV. Tener modo honesto de vivir;
 
 V. No desempeñar cargo o comisión del Gobierno Federal, Estatal o Municipal, en la circunscripción del municipio, a menos que se separen de aquéllos cuando menos con sesenta días naturales de anticipación al día de la elección, a excepción de los docentes;
 
-VI. No ser ministro de culto religioso alguno, ni pertenecer al estado eclesiástico;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2026)</small>
+
+VI. No ser persona ministra de culto religioso alguno, ni pertenecer al estado eclesiástico;
 
 VII. Saber leer y escribir y
 
-> <small>(REFORMADA, P.O. 22 DE MAYO DE 2017)</small>
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2026)</small>
 
-VIII. En el caso de los Consejeros Electorales, el Fiscal Especializado en Delitos Electorales, los integrantes de la Junta Estatal Ejecutiva del Instituto Estatal Electoral y los Magistrados del Tribunal Electoral, deberán separarse de su cargo un año antes del inicio del proceso electoral de que se trate.
+VIII. En el caso de las consejeras y consejeros Electorales, la persona titular de la Fiscalía Especializada en Delitos Electorales, las y los integrantes de la Junta Estatal Ejecutiva del Instituto Estatal Electoral, las magistradas y los magistrados del Tribunal Electoral, deberán separarse de su cargo un año antes del inicio del proceso electoral de que se trate, y
+
+> <small>(ADICIONADA, P.O. 22 DE ABRIL DE 2026)</small>
+
+IX. En ningún caso, podrá participar en la elección para presidencia municipal, las regidurías y las sindicaturas, la persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio, concubinato, unión de hecho, parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que esté ejerciendo la titularidad del cargo para el que se postula.
 
 > <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
@@ -4858,3 +4866,17 @@ OCTAVO. Dentro de los treinta días naturales posteriores a la entrada en vigor 
 Este Comité emitirá sus Lineamientos de Operación dentro de los treinta días naturales siguientes a su instalación.
 
 NOVENO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 22 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 611 – LXVI POR EL QUE SE REFORMA EL ARTÍCULO 8 TER DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO, EN MATERIA DE PROTECCIÓN A LOS ANIMALES".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 621 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO, EN MATERIA DE NO REELECCIÓN Y NEPOTISMO ELECTORAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Las reformas aprobadas en este Decreto, relativas la prohibición de nepotismo electoral y a la prohibición de reelección, serán aplicables a partir de los procesos electorales locales a celebrarse en el año 2030.
