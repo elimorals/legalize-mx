@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-seguridad-privada-para-el-estado-de-nuevo-leon-56448"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-25"
-last_updated: "2023-10-04"
+last_updated: "2026-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SEGURIDAD PRIVADA PARA EL ESTADO DE NUEVO LEON
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el miércoles 25 de julio de 2007.
 
@@ -465,6 +465,22 @@ Tratándose de los Municipios, su personal deberá formarse en sus Academias de 
 
 La Dirección podrá concertar acuerdos con los prestadores de servicios para la instrumentación y modificación a sus planes y programas de capacitación y adiestramiento.
 
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2026)</small>
+
+###### Artículo 29 Bis.
+
+Como base del programa de capacitación, los prestadores de servicios procurarán brindar las capacitaciones siguientes:
+
+I.- Primeros auxilios;
+
+II.- Sobre respeto a los derechos humanos;
+
+III.- Sobre medios no violentos, incluyendo la resolución pacífica de conflictos, análisis de multitudes y técnicas de persuasión, negociación y mediación, como alternativas previas a recurrir al empleo de la fuerza o las armas.
+
+IV.- Identificación y manejo de situaciones de riesgo, el uso de protocolos básicos de alerta y comunicación con autoridades; y
+
+V.- Defensa personal básica, enfocada en protegerse sin causar daño.
+
 ###### Artículo 30.
 
 El prestador de servicios deberá registrar ante la Dirección los planes y programas de los cursos de capacitación, actualización o adiestramiento para el personal operativo.
@@ -764,3 +780,9 @@ P.O. 4 DE OCTUBRE DE 2023.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
 
 SEGUNDO.- El Ejecutivo del Estado (sic) con un plazo de noventa días, contados a partir de la entrada en vigor de la presente Ley, para realizar las adecuaciones a sus respectivos Reglamentos.
+
+P.O. 22 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 196. SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 316 DEL CÓDIGO PENAL PARA EL ESTADO DE NUEVO LEÓN; Y SE ADICIONA UN ARTÍCULO 29 BIS A LA LEY DE SEGURIDAD PRIVADA PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
