@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-social-del-estado-de-hidalgo-53770"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-29"
-last_updated: "2025-08-22"
+last_updated: "2026-04-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 29 de diciembre de 2006.
 
@@ -223,9 +223,11 @@ III.- Los demás ordenamientos aplicables.
 
 ### CAPITULO IV. DE LOS SUJETOS DEL DESARROLLO SOCIAL
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2026)</small>
+
 ###### Artículo 7.
 
-Toda persona tiene derecho a participar y a beneficiarse de los programas sociales, de acuerdo con los principios rectores de la Política Social, en los términos que establezca la normatividad de cada programa.
+Toda persona de forma individual o colectiva tiene derecho a participar y a beneficiarse de los programas sociales, de acuerdo con los principios rectores de la Política Social, en los términos que establezca la normatividad de cada programa.
 
 ###### Artículo 8.
 
@@ -243,7 +245,9 @@ II.- Personas con discapacidad;
 
 III.- Migrantes;
 
-IV.- Indígenas;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2026)</small>
+
+IV.- Pueblos y Comunidades Indígenas;
 
 V.- Jornaleros agrícolas;
 
@@ -275,7 +279,9 @@ I.- Destinar con base a esta Ley, la Ley de Planeación y el Presupuesto de Egre
 
 II.- Participar en el Sistema Nacional de Desarrollo Social y coordinar el Sistema Estatal de Desarrollo Social;
 
-III.- Formular y aplicar políticas sociales en beneficio de las personas, familias y grupos sociales en situación de vulnerabilidad;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2026)</small>
+
+III.- Formular y aplicar políticas sociales en beneficio de las personas, familias y grupos sociales en situación de vulnerabilidad, para lo cual deberá atender la composición pluricultural y multiétnica del Estado;
 
 IV.- Coordinar en los términos de la Ley de Planeación del Estado de Hidalgo y de esta Ley, junto con el Comité de Planeación para el Desarrollo del Estado de Hidalgo y los de Desarrollo Regional y Municipal, mecanismos de concertación y participación para la formulación, aprobación y aplicación de los programas sociales;
 
@@ -531,7 +537,9 @@ I.- Alimentación nutritiva y de calidad, nutrición materno-infantil y abasto s
 
 II.- Atención médica de primer contacto, dotación de aparatos funcionales, capacitación para el autoempleo, apoyo a proyectos productivos, desarrollo de actividades deportivas, recreativas y culturales, para adultos mayores;
 
-III.- Superación de la pobreza, atención a personas en situación de vulnerabilidad como indígenas, niños en estado de abandono, madres solteras, jornaleros agrícolas y en general toda persona en situación desfavorable por razón de edad, sexo o grupo étnico;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2026)</small>
+
+III.- Superación de la pobreza, atención a personas en situación de vulnerabilidad como personas indígenas, así como niñas, niños y adolescentes en estado de abandono, madres solteras, jornaleros agrícolas y en general toda persona en situación desfavorable por razón de edad, sexo o grupo étnico;
 
 > <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2021)</small>
 
@@ -556,6 +564,10 @@ En materia de fortalecimiento a la educación, habrá en forma permanente un pro
 > <small>(ADICIONADO, P.O. 10 DE MAYO DE 2021)</small>
 
 El Estado, a través de la Secretaria, deberá instrumentar, implementar y desarrollar políticas públicas y mecanismos institucionales que permitan el establecimiento de Bancos de Alimentos en la Entidad.
+
+> <small>(ADICIONADO, P.O. 22 DE ABRIL DE 2026)</small>
+
+El Estado y los municipios deberán tomar las medidas necesarias para garantizar el derecho de las mujeres indígenas a acceder en igualdad de condiciones a los programas de desarrollo social, y para que puedan participar de forma plena en el desarrollo integral de sus comunidades.
 
 ###### Artículo 24.
 
@@ -861,11 +873,13 @@ IX.- Las demás inherentes al cumplimiento de su objeto social en los términos 
 
 Son derechos de los beneficiarios de los programas sociales los siguientes:
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2026)</small>
 
-I.- Recibir oportunamente la información acerca de los programas y servicios que promuevan la Secretaría y los Municipios; así como de aquellos que la Federación aplique en la Entidad;
+I. Recibir oportunamente y bajo criterios de accesibilidad, la información acerca de los programas y servicios que promuevan la Secretaría y los Municipios; así como de aquellos que la federación aplique en la Entidad;
 
-II.- Recibir por parte de los oferentes de programas sociales un trato oportuno, respetuoso y con calidad, asimismo, ser asesorado respecto a los mecanismos para acceder a los programas y alcanzar su desarrollo integral;
+> <small>(REFORMADA, P.O. 22 DE ABRIL DE 2026)</small>
+
+II. Recibir por parte de los oferentes de programas sociales un trato oportuno, respetuoso y con calidad, asimismo, ser asesorado bajo criterios de accesibilidad, respecto a los mecanismos para acceder a los programas y alcanzar su desarrollo integral;
 
 III.- Solicitar su inclusión, participación y acceso en los programas sociales;
 
@@ -1093,9 +1107,11 @@ La Secretaria, revisará las mediciones de la pobreza, índices de marginación 
 
 ### CAPITULO XX. DE LA DIFUSION DE LOS PROGRAMAS
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2026)</small>
+
 ###### Artículo 73.
 
-El Gobierno del Estado a través de la Secretaría y las Dependencias y Entidades, en un plazo máximo de 90 días a partir de la aprobación de su Presupuesto de Egresos, deberá elaborar y publicar en el Periódico Oficial, así como en su página electrónica, las reglas de operación de los Programas Sociales Estatales.
+El Gobierno del Estado a través de la Secretaría y las Dependencias y Entidades, en un plazo máximo de 90 días a partir de la aprobación de su Presupuesto de Egresos, deberá elaborar y publicar en el Periódico Oficial, así como en su página electrónica y demás medios oficiales, las reglas de operación de los Programas Sociales Estatales.
 
 ###### Artículo 74.
 
@@ -1109,9 +1125,11 @@ Además de las obligaciones que señalan los Artículos anteriores, el Gobierno 
 
 La Publicidad e información relativa a los Programas Sociales Federales, Estatales o Municipales deberán identificarse con el Escudo Nacional, Estatal y Municipal que corresponda en los términos que señala la Ley en la materia y tendrá la siguiente leyenda: "Este programa es de carácter público, no es patrocinado ni promovido por partido político alguno y sus recursos provienen de los impuestos que pagan los contribuyentes. Está prohibido el uso de este programa con fines políticos, electorales, de lucro y otros distintos a los establecidos. Quien haga uso indebido de los recursos de este programa deberá ser denunciado y sancionado de acuerdo a la Ley aplicable".
 
+> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2026)</small>
+
 ###### Artículo 77.
 
-Cuando en un Municipio exista población indígena, las Autoridades Municipales deberán difundir en la lengua o dialecto que hable este grupo de la población, los programas sociales y los mecanismos para acceder a ellos.
+Cuando en un Municipio exista población indígena, las Autoridades Municipales, tomando como base criterios etnolingüísticos y socioculturales, deberán difundir en la lengua o dialecto que hable este grupo de la población, los programas sociales y los mecanismos para acceder a ellos.
 
 ###### Artículo 78.
 
@@ -1382,3 +1400,11 @@ P.O. 22 DE AGOSTO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 335 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS FRACCIONES DEL ARTÍCULO 14 DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO, EN MATERIA DE PROGRESIVIDAD DE POLÍTICA SOCIAL”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 22 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 597 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO, EN MATERIA DE COMPOSICIÓN PLURICULTURAL Y MULTIÉTNICA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. La Secretaría de Bienestar e Inclusión Social y los Municipios deberán realizar las adecuaciones normativas y programáticas para dar cumplimiento al presente Decreto.
