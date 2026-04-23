@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-movilidad-transporte-y-seguridad-vial-del-estado-de-1825
 country: "mx"
 rank: "ley"
 publication_date: "2025-11-25"
-last_updated: "2025-11-25"
+last_updated: "2026-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=182504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE MOVILIDAD, TRANSPORTE Y SEGURIDAD VIAL DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2026.
 
 Ley publicada en el número 6493 extraordinario del Periódico Oficial del Estado de Morelos, el martes 25 de noviembre de 2025.
 
@@ -2263,7 +2263,9 @@ SEXTA. Los Ayuntamientos del estado de Morelos deberán crear, adecuar o modific
 
 SÉPTIMA. La Coordinación General de Movilidad y Transporte, deberá expedir y mantener actualizado el Manual de Diseño de Calles para el Estado de Morelos, en un plazo no mayor a ciento ochenta días naturales, contados a partir de la entrada en vigor de la presente Ley.
 
-OCTAVA. Las concesiones, permisos y autorizaciones otorgados con anterioridad a la entrada en vigor de la presente Ley continuarán vigentes en los términos en que fueron expedidos, acreditando estar debidamente regularizados en sus trámites, pero sus titulares deberán ajustarse a las obligaciones de transición, operación, seguridad y equipamiento que establece el nuevo ordenamiento en los plazos que fije el Reglamento.
+> <small>(REFORMADA, P.O. 23 DE ABRIL DE 2026)</small>
+
+OCTAVA. Las concesiones, permisos y autorizaciones otorgados con anterioridad a la entrada en vigor de la presente Ley continuarán vigentes en los términos en que fueron expedidos, acreditando estar debidamente regularizados en sus trámites, pero sus titulares que así lo deseen, podrán ajustarse a las obligaciones de transición, operación, seguridad y equipamiento que establece el nuevo ordenamiento en los plazos que fije el Reglamento.
 
 NOVENA. Los procedimientos y recursos administrativos iniciados con anterioridad a la entrada en vigor de esta Ley se seguirán tramitando y se resolverán conforme a las disposiciones vigentes al momento de su inicio.
 
@@ -2302,3 +2304,17 @@ SECRETARIO DE GOBIERNO
 EDGAR ANTONIO MALDONADO CEBALLOS
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE ABRIL DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NÚMERO MIL CIENTO SETENTA POR EL QUE SE REFORMA LA DISPOSICIÓN TRANSITORIA OCTAVA DE LA LEY DE MOVILIDAD, TRANSPORTE Y SEGURIDAD VIAL DEL ESTADO DE MORELOS".]</small>
+
+PRIMERA. Remítase el presente decreto a la Persona Titular del Poder Ejecutivo Estatal, para los efectos de lo dispuesto por los artículos 44, 47 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente decreto.
+
+CUARTA. Se instruye a la Coordinación General de Movilidad y Transporte para que, en el ámbito de su competencia, realice las adecuaciones administrativas y reglamentarias necesarias para instrumentar los mecanismos de adhesión voluntaria previstos en la presente reforma, garantizando en todo momento la continuidad en la prestación del servicio público.
