@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2026-04-10"
+last_updated: "2026-04-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ABRIL DE 2026.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -4572,9 +4572,9 @@ La ley señalará los casos de prescripción de la responsabilidad administrativ
 
 Los estados adoptarán, para su régimen interior, la forma de gobierno republicano, representativo, democrático, laico y popular, teniendo como base de su división territorial y de su organización política y administrativa, el municipio libre, conforme a las bases siguientes:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 1 DE ABRIL DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE ABRIL DE 2026)</small>
 
-I.- Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente o Presidenta Municipal y el número de regidurías y sindicaturas que la ley determine, de conformidad con el principio de paridad. En ningún caso, podrá participar en la elección para la presidencia municipal, las regidurías y las sindicaturas, la persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que esté ejerciendo la titularidad del cargo para el que se postula. La competencia que esta Constitución otorga al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre este y el gobierno del Estado.
+I.- Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente o Presidenta Municipal, una sindicatura y hasta quince regidurías, de conformidad con los principios de paridad de género vertical y horizontal, perspectiva de género e igualdad sustantiva en el acceso, integración y ejercicio del poder público municipal. En ningún caso, podrá participar en la elección para la presidencia municipal, las regidurías y las sindicaturas, la persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que esté ejerciendo la titularidad del cargo para el que se postula. La competencia que esta Constitución otorga al gobierno municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre este y el gobierno del Estado.
 
 > <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2025)</small>
 
@@ -4782,9 +4782,9 @@ Sólo podrá ser gobernador constitucional de un Estado un ciudadano mexicano po
 
 II.- El número de representantes en las legislaturas de los Estados será proporcional al de habitantes de cada uno; pero, en todo caso, no podrá ser menor de siete diputados en los Estados cuya población no llegue a 400 mil habitantes; de nueve, en aquellos cuya población exceda de este número y no llegue a 800 mil habitantes, y de 11 en los Estados cuya población sea superior a esta última cifra.
 
-> <small>(REFORMADO, D.O.F. 1 DE ABRIL DE 2025)</small>
+> <small>(REFORMADO, D.O.F. 23 DE ABRIL DE 2026)</small>
 
-Las Constituciones estatales deberán establecer la prohibición de la reelección de las personas diputadas a las legislaturas de los Estados para el periodo inmediato posterior al ejercicio de su mandato. Las personas diputadas suplentes podrán ser electas para el periodo inmediato con el carácter de propietarias, siempre que no hubieren estado en ejercicio, pero las personas diputadas propietarias no podrán ser electas para el período inmediato con el carácter de suplentes. En ningún caso, podrá participar en la elección de una diputación la persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la diputación.
+Las Constituciones estatales deberán establecer que el presupuesto anual de las legislaturas locales no exceda del cero punto setenta por ciento del presupuesto de egresos de la entidad federativa correspondiente. Asimismo, deberán garantizar los principios de paridad, igualdad sustantiva y perspectiva de género, en la integración y funcionamiento de los órganos legislativos locales; así como prohibir la reelección de las personas diputadas a las legislaturas de los Estados para el periodo inmediato posterior al ejercicio de su mandato. Las personas diputadas suplentes podrán ser electas para el periodo inmediato con el carácter de propietarias, siempre que no hubieren estado en ejercicio, pero las personas diputadas propietarias no podrán ser electas para el período inmediato con el carácter de suplentes. En ningún caso, podrá participar en la elección de una diputación la persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la diputación.
 
 > <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
@@ -5795,6 +5795,10 @@ Los resultados del ejercicio de dichos recursos serán evaluados por las instanc
 > <small>(ADICIONADO, D.O.F. 20 DE DICIEMBRE DE 2024)</small>
 
 Los entes públicos ajustarán sus estructuras orgánicas y ocupacionales de conformidad con los principios de racionalidad y austeridad republicana, eliminando todo tipo de duplicidades funcionales u organizacionales, atendiendo a las necesidades de mejora y modernización de la gestión pública.
+
+> <small>(ADICIONADO, D.O.F. 23 DE ABRIL DE 2026)</small>
+
+Las remuneraciones de las personas consejeras electorales, las magistradas y magistrados electorales, titulares de las secretarías de órganos administrativos y titulares de áreas ejecutivas y técnicas u homólogos del Instituto Nacional Electoral, los organismos públicos locales electorales y los tribunales electorales de las entidades federativas, no excederán el límite establecido en el artículo 127 de esta Constitución y no podrán adquirir o contratar con recursos públicos seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones que no estén previstas por la ley, decreto, disposición general, contrato colectivo o condiciones generales de trabajo.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
@@ -9659,3 +9663,41 @@ Cuarto.- Las aportaciones que realice el Estado a cuentas individuales o planes 
 Quinto.- En un plazo no mayor a noventa días naturales contados a partir de su entrada en vigor, el Congreso de la Unión y las Legislaturas de las entidades federativas, en el ámbito de sus respectivas competencias, deberán revisar y, en su caso, adecuar el marco jurídico aplicable, a fin de hacerlo congruente con lo dispuesto en el presente Decreto.
 
 Sexto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo a los presupuestos aprobados a los ejecutores de gastos que intervienen en su aplicación, por lo que no se autorizarán ampliaciones de recursos a dichos ejecutores de gasto en el presente ejercicio fiscal ni subsecuentes y tampoco podrán incrementar su presupuesto regularizable en servicios personales ni de gasto de operación.
+
+D.O.F. 23 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 115, FRACCIÓN I, PÁRRAFO PRIMERO, Y 116, FRACCIÓN II, PÁRRAFO SEGUNDO, Y SE ADICIONA AL ARTÍCULO 134, UN PÁRRAFO CUARTO, RECORRIÉNDOSE LOS SUBSECUENTES EN SU ORDEN, DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Congreso de la Unión y las legislaturas de las entidades federativas, en el ámbito de su competencia, armonizarán su marco jurídico para adecuarlo al contenido del presente Decreto a más tardar el 30 de mayo de 2026.
+
+Entre tanto, se aplicarán en lo conducente de manera directa las disposiciones constitucionales en la materia y, supletoriamente, las leyes en materia electoral en todo lo que no se contraponga al presente Decreto.
+
+Tercero.- A partir del ejercicio fiscal inmediato siguiente a la entrada en vigor del presente Decreto, el presupuesto anual autorizado para el Senado de la República deberá ajustarse de manera progresiva durante los cuatro ejercicios fiscales subsecuentes, con el objeto de alcanzar, al término de dicho periodo, una reducción acumulada equivalente al quince por ciento en términos reales, respecto del presupuesto base vigente para el ejercicio fiscal 2026. La reducción no podrá afectar los derechos laborales de las personas trabajadoras, conforme a las Condiciones Generales de Trabajo aplicables.
+
+Cuarto.- El Instituto Nacional Electoral, los organismos públicos locales electorales y los tribunales electorales de las entidades federativas revisarán y adecuarán sus disposiciones normativas, administrativas y presupuestarias para garantizar el cumplimiento de lo previsto en el presente Decreto.
+
+La Cámara de Diputados y las legislaturas de las entidades federativas, en el ámbito de su competencia, garantizarán que los presupuestos de los entes públicos y autoridades electorales federales y de las entidades federativas se ajusten a lo previsto en los artículos 116 y 134 constitucionales, por lo que realizarán en cada ejercicio fiscal los ajustes necesarios a los presupuestos que integren, previo a su aprobación.
+
+Quinto.- Las legislaturas de las entidades federativas preverán los ajustes necesarios a sus presupuestos con el objeto de que las reducciones que, en su caso, se realicen en cumplimiento a lo previsto en el artículo 116 Constitucional, surtan efectos a partir del inicio de la legislatura subsecuente en la entidad federativa que corresponda.
+
+La Cámara de Diputados, en el Presupuesto de Egresos que corresponda, hará los ajustes necesarios para dar cumplimiento al contenido de este Decreto, por lo que se refiere a congresos de las entidades federativas y ayuntamientos.
+
+Sexto.- La integración de los Ayuntamientos establecida en lo dispuesto en el artículo 115 constitucional surtirá efectos a partir del periodo administrativo municipal subsecuente en la entidad federativa que corresponda.
+
+Los Ayuntamientos que, a la entrada en vigor del presente Decreto, cuenten con un número de regidurías menor a quince, conservarán su integración actual. Solo en los casos que se requiera alguna modificación de la integración por criterios de variación poblacional u otros requisitos, se realizará conforme a lo establecido en las constituciones y leyes de las entidades federativas.
+
+Séptimo.- Los recursos públicos que resulten como economías o ahorros en los presupuestos anuales de las entidades federativas derivados de las reducciones que, en su caso, se realicen a los presupuestos de las legislaturas locales y en la integración de los Ayuntamientos conforme a los artículos 115 y 116 constitucionales, quedarán en el patrimonio de la hacienda pública de cada municipio. Las legislaturas de las entidades federativas destinarán estos recursos excedentes a obras de infraestructura pública en beneficio de la población dentro del presupuesto correspondiente, en los términos de la legislación aplicable, garantizando en todo momento los principios de legalidad, honradez, transparencia y austeridad.
+
+Octavo.- Las entidades federativas cuyas legislaturas, a la entrada en vigor del presente Decreto, cuenten con un presupuesto anual que represente un porcentaje igual o menor al límite previsto en el artículo 116 de esta Constitución, no podrán autorizar, aprobar o ejercer para sí mismas incrementos presupuestarios reales respecto del monto aprobado para el ejercicio fiscal 2026, ni incrementar dicha proporción respecto del presupuesto de egresos de la entidad federativa correspondiente en los ejercicios fiscales subsecuentes.
+
+El monto del presupuesto anual de los Congresos de las entidades federativas únicamente podrá actualizarse conforme a la inflación anual.
+
+No podrán aprobar ampliaciones presupuestarias, transferencias, reasignaciones, adecuaciones presupuestarias, reclasificaciones administrativas o cualquier otro mecanismo que tenga por objeto o efecto incrementar directamente el presupuesto de los Congresos locales por encima del límite previsto en el presente transitorio.
+
+Las constituciones y leyes de las entidades federativas deberán armonizarse con lo dispuesto en este transitorio y establecer los mecanismos institucionales de control, disciplina presupuestaria y responsabilidad administrativa necesarios para asegurar su cumplimiento.
+
+Cualquier disposición, determinación presupuestaria o acto de autoridad que contravenga lo establecido en el presente transitorio será nulo de pleno derecho.
+
+Noveno.- Se derogan las disposiciones que se opongan al presente Decreto.
