@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-transporte-del-estado-de-puebla-152811"
 country: "mx"
 rank: "ley"
 publication_date: "2021-12-03"
-last_updated: "2025-12-04"
+last_updated: "2026-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE TRANSPORTE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2026.
 
 Ley publicada en la Edición Vespertina del Número 3 en el Periódico Oficial del Estado de Puebla, el viernes 3 de diciembre de 2021.
 
@@ -1277,9 +1277,11 @@ Acreditación vigencia concesión/permiso. Los propietarios de los vehículos de
 
 Asimismo, deberán acreditar haber cumplido con los programas de actualización de documentos del servicio público o mercantil de transporte, implementados por la Secretaría, en caso contrario se harán acreedores a las sanciones señaladas en la presente Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2026)</small>
+
 ###### ARTÍCULO 110.
 
-Capacitación. Los concesionarios, los permisionarios y las Empresas de Redes de Transporte tendrán en todo tiempo, la obligación de capacitarse, así como la de proporcionar a sus conductores la capacitación, adiestramiento, o profesionalización necesarios para lograr que la prestación de los servicios a su cargo sea eficiente, segura y con apego a las políticas de igualdad de género, no discriminación y respeto a los derechos humanos, con sujeción a las disposiciones de la presente Ley, su reglamento y las demás disposiciones legales aplicables.
+Capacitación. Los concesionarios, los permisionarios y las Empresas de Redes de Transporte tendrán en todo tiempo, la obligación de capacitarse, así como la de proporcionar a sus conductores la capacitación, adiestramiento, o profesionalización necesaria para lograr que la prestación de los servicios a su cargo sean, de manera eficaz, eficiente, segura, accesible, incluyente y con apego a las políticas de igualdad de género, no discriminación y respeto a los derechos humanos, en especial, de aquellas personas que forman parte de algún grupo en situación de vulnerabilidad, con sujeción a las disposiciones de la presente Ley, su Reglamento y las demás disposiciones legales aplicables.
 
 También deberán realizar campañas informativas para prevenir la violencia de género, la discriminación o violación de derechos humanos.
 
@@ -1894,3 +1896,11 @@ SEGUNDO. Se derogan las disposiciones legales y administrativas que se opongan a
 TERCERO. Todos los documentos, instrumentos o actos jurídicos, administrativos, financieros y demás que se hubieren realizado o realicen en razón del Acuerdo por el que se implementa la Modalidad del Servicio Público de Transporte denominada “Sistema de Transporte por Cable” y de la Declaratoria por la que se determina la necesidad de implementación del Servicio Público de Transporte en la modalidad de “Sistema de Transporte por Cable”, publicados en el Periódico Oficial del Estado de fechas veintiséis y veintiocho de agosto de dos mil veinticinco, respectivamente, continuarán vigentes en todos sus términos y surtirán todos sus efectos, sin perjuicio de las adecuaciones que puedan realizarse conforme al presente Decreto.
 
 CUARTO. Dentro de los ciento veinte días naturales siguientes a la entrada en vigor del presente Decreto, el Titular del Poder Ejecutivo del Estado realizará las adecuaciones que resulten necesarias al Reglamento de la Ley de Transporte del Estado de Puebla.
+
+P.O. 24 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 110 DE LA LEY DE TRANSPORTE DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
