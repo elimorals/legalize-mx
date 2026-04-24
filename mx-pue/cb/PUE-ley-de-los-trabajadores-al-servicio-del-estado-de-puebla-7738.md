@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-los-trabajadores-al-servicio-del-estado-de-puebla-7738"
 country: "mx"
 rank: "ley"
 publication_date: "1966-11-18"
-last_updated: "2024-02-07"
+last_updated: "2026-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7738&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2026.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Puebla, el viernes 18 de noviembre de 1966.
 
@@ -291,11 +291,15 @@ Cuando por circunstancias especiales deban aumentarse las horas de trabajo, ést
 
 Por cada seis días de trabajo, disfrutará el trabajador de un día de descanso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JULIO DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ABRIL DE 2026)</small>
 
 ###### ARTICULO 26.
 
-Las mujeres embarazadas disfrutarán de seis semanas de descanso antes de la fecha que aproximadamente se fije para el parto y de otras ocho semanas después del mismo, con goce de sueldo íntegro en ambos casos.
+Las mujeres y personas gestantes disfrutarán de seis semanas de descanso antes de la fecha que aproximadamente se fije para el parto y de otras ocho semanas después del mismo, con goce de sueldo íntegro en ambos casos.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2026)</small>
+
+A solicitud expresa de la persona trabajadora, previa autorización escrita del médico de la institución de seguridad social que le corresponda, tomando en cuenta la opinión del patrón y la naturaleza del trabajo que desempeñe, se podrá transferir hasta cuatro de las seis semanas de descanso previas al parto para después del mismo.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2014)</small>
 
@@ -1176,3 +1180,11 @@ PRIMERO. El presente Decreto se publicará en el Periódico Oficial del Estado, 
 SEGUNDO. Los juicios iniciados antes de la entrada en vigor del presente Decreto continuarán tramitándose hasta su total conclusión, conforme a las disposiciones aplicables a su inicio.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PRIMER PÁRRAFO Y ADICIONA UN SEGUNDO PÁRRAFO, RECORRIÉNDOSE EN SU ORDEN LOS SUBSECUENTES, DEL ARTÍCULO 26 DE LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
