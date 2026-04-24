@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-las-comisiones-estatales-de-servicios-publicos-del-11826
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-19"
-last_updated: "2020-11-26"
+last_updated: "2026-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LAS COMISIONES ESTATALES DE SERVICIOS PÚBLICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE NOVIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2026.
 
 Ley publicada en el Número Especial al 4 del Periódico Oficial del Estado de Baja California, el jueves 19 de enero de 2017.
 
@@ -43,11 +43,15 @@ LEY DE LAS COMISIONES ESTATALES DE SERVICIOS PUBLICOS DEL ESTADO DE BAJA CALIFOR
 
 Las Comisiones Estatales de Servicios Públicos de los Municipios de Mexicali, Tijuana, Tecate y Ensenada, son organismos públicos descentralizados del Gobierno del Estado, con personalidad jurídica y patrimonio propios, con domicilio en las ciudades de Mexicali, Tijuana, Tecate y Ensenada respectivamente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 24 DE ABRIL DE 2026)</small>
+
 ###### ARTÍCULO 2.
 
 Es función de las Comisiones Estatales de Servicios Públicos:
 
-I.- Todo lo relativo al cumplimiento y realización de los sistemas de agua potable y alcantarillado de aguas negras de cada uno de los Municipios a que correspondan;
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2026)</small>
+
+I.- Todo lo relativo al cumplimiento y realización de los sistemas de agua potable y alcantarillado de aguas negras de cada uno de los Municipios a que correspondan; incluyendo las actividades complementarias necesarias para la conservación, rehabilitación, reposición, pavimentación y reencarpetado de las superficies de las vialidades vinculadas a su correcta operación y funcionamiento;
 
 II.- La ejecución directa o por contratación de las obras a que se refieren dichos sistemas;
 
@@ -316,3 +320,11 @@ P.O. 26 DE NOVIEMBRE DE 2020.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Las Comisiones tendrán un plazo de sesenta días naturales contados a partir del día siguiente de la entrada en vigor del presente decreto, para realizar la reforma y la armonización normativa de sus reglamentos internos acorde con la presente reforma.
+
+P.O. 24 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 257 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 4 DE LA LEY DE URBANIZACIÓN DEL ESTADO DE BAJA CALIFORNIA, DE DIVERSOS ARTÍCULOS DE LA LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA Y ARTÍCULO 2 DE LA LEY DE LAS COMISIONES ESTATALES DE SERVICIOS PÚBLICOS DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las Comisiones Estatales de Servicios Públicos dentro de los 60 días naturales contados a partir de la entrada en vigor de la presente reforma, deberán realizar las modificaciones a los reglamentos internos correspondientes.
