@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-el-acceso-de-las-mujeres-a-una-vida-libre-de-57774"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2025-08-19"
+last_updated: "2026-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "PUE"
 
 LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE MAYO DE 2025.
-
-(REPUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2025).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2026.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 26 de noviembre de 2007.
 
@@ -412,6 +410,10 @@ VIII.- Desarrollar programas para sensibilizar y capacitar a las personas que ej
 ###### ARTÍCULO 13.
 
 La violencia contra las mujeres en el ámbito laboral o docente, consiste en el ejercicio abusivo de cualquier facultad que sitúe a la mujer en un plano de subordinación, o bien, cualquier omisión en el cumplimiento de determinadas obligaciones suficiente, dolosa y motivada por razones de género, que menoscabe los derechos laborales de la mujer, que pueda dañar su salud e integridad física, psíquica, libertad o seguridad, así como su desarrollo profesional, académico o análogo, y que se ejerce por personas con quienes tiene un vínculo laboral, docente o análogo, independientemente de la relación jerárquica.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2026)</small>
+
+Puede consistir en un solo evento dañino o en una serie de eventos cuya suma produce el daño. También incluye el acoso o el hostigamiento sexual.
 
 > <small>(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
 
@@ -1369,9 +1371,9 @@ VII Bis.- Establecer como requisito de contratación a todo el personal, docente
 
 VIII.- Diseñar y difundir materiales educativos que promuevan la prevención y atención de la violencia contra las mujeres;
 
-> <small>(REFORMADA, P.O. 31 DE AGOSTO DE 2018)</small>
+> <small>(REFORMADA, P.O. 24 DE ABRIL DE 2026)</small>
 
-IX.- Capacitar y proporcionar acciones formativas a todo el personal de los centros educativos y padres de familia, en materia de derechos humanos de las mujeres niñas o adultas, así como delinear políticas de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
+IX.- Capacitar y proporcionar acciones formativas a todo el personal de los centros educativos, a madres y padres de familia, tutoras o tutores, en materia de derechos humanos de las mujeres, niñas, adolescentes o adultas, así como delinear políticas de prevención, atención, sanción y erradicación de la violencia contra las mujeres;
 
 X.- Informar a la autoridad competente de los casos de violencia que sucedan en las instituciones educativas;
 
@@ -2326,5 +2328,13 @@ REPUBLICADO, P.O. 19 DE AGOSTO DE 2025.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y ADICIONA (SIC) DIVERSAS DISPOSICIONES DE LA LEY PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE PUEBLA Y DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA".]
 
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 43 Y ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 13 DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
