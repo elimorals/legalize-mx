@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-proteccion-a-los-animales-domesticos-del-estado-de-21669
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-08"
-last_updated: "2025-12-12"
+last_updated: "2026-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21669&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY DE PROTECCIÓN A LOS ANIMALES DOMÉSTICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2026.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 8 de diciembre de 1997.
 
@@ -645,6 +645,56 @@ Si un canino potencialmente peligroso ataca a una persona ocasionándole lesione
 
 Se autoriza a los municipios para definir las tarifas que se cobrarán a los propietarios por efecto de ser registrados los ejemplares caninos en el Registro de Caninos Potencialmente Peligrosos, la expedición del permiso correspondiente, así como las condiciones por las cuales se suspenda o cancele el permiso para poseer ejemplares caninos potencialmente peligrosos.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2026)</small>
+
+### CAPITULO XII. DEL REGISTRO ESTATAL DE AGRESORES DE ANIMALES
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2026)</small>
+
+###### ARTICULO 67.
+
+El Registro Estatal de Agresores de Animales es una base de datos de carácter administrativo la cual tiene por objeto identificar plenamente a las personas que cuenten con sentencia firme por el delito de maltrato y crueldad animal y su equiparable previsto en el Código Penal para el Estado de Baja California.
+
+El Registro Estatal de Agresores de Animales, estará a cargo y bajo la operación de la Secretaría de Medio Ambiente y Desarrollo Sustentable, en colaboración con el Poder Judicial del Estado.
+
+La información que genere dicho registro se referirá a personas condenadas en el Estado de Baja California, y en su caso, en el extranjero o en otras entidades federativas, de conformidad con los convenios que al efecto realice la Secretaría de Medio Ambiente y Desarrollo Sustentable.
+
+La inscripción en el Registro Estatal de Agresores de Animales se mantendrá durante el tiempo equivalente al de la pena impuesta por la autoridad judicial competente, periodo durante el cual la persona inscrita no podrá adquirir, tener, poseer ni ejercer la guarda o custodia de animales.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2026)</small>
+
+###### ARTICULO 68.
+
+La autoridad jurisdiccional competente deberá notificar mensualmente a la Secretaría de Medio Ambiente y Desarrollo Sustentable sobre las personas agresoras de animales que tengan sentencia firme por alguno de los delitos mencionados en el artículo anterior.
+
+Para la inscripción en el Registro, se generará una ficha pública que contendrá:
+
+I. Nombre completo;
+
+II. Apodos o alias;
+
+III. Nacionalidad;
+
+IV. Fotografía actual de la persona agresora;
+
+V. Delito o delitos por los que fue condenado;
+
+VI. Pena privativa de la libertad;
+
+VII. Fecha de nacimiento;
+
+VIII. Lugar de nacimiento; y,
+
+IX. CURP.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2026)</small>
+
+###### ARTICULO 69.
+
+El Registro Estatal de Agresores de Animales, podrá ser consultado por establecimientos mercantiles dirigidos al expendio de animales vivos que cuenten con las autorizaciones correspondientes, así como por los albergues municipales de animales.
+
+Para tal efecto, la Secretaría de Medio Ambiente y Desarrollo Sustentable fijará en el reglamento correspondiente los criterios y requisitos de acceso, observando en todo momento las disposiciones normativas aplicables al derecho de acceso a la información pública y la protección de datos personales.
+
 T R A N S I T O R I O S:
 
 ###### ARTICULO PRIMERO.
@@ -772,3 +822,11 @@ P.O. 12 DE DICIEMBRE DE 2025.
 PRIMERO.- La presente reforma entrará en vigor a los 180 días siguientes al de su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Dentro de los 90 días siguientes a la entrada en vigor del presente Decreto, los gobiernos de los Ayuntamientos del Estado deberán realizar la actualización y armonización de los Reglamentos Municipales de la Ley de Protección a los Animales Domésticos del Estado de Baja California y demás disposiciones aplicables.
+
+P.O. 24 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 258 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA Y ASÍ MISMO SE APRUEBA LA CREACIÓN DE UN CAPÍTULO XII, DENOMINADO DEL REGISTRO ESTATAL DE AGRESORES DE ANIMALES Y LA ADICIÓN DE LOS DIVERSOS ARTÍCULOS A LA LEY DE PROTECCIÓN A LOS ANIMALES DOMÉSTICOS DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestal correspondiente.
