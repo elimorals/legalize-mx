@@ -4,7 +4,7 @@ identifier: "BCN-codigo-penal-para-el-estado-de-baja-california-6370"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2026-04-17"
+last_updated: "2026-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2026.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -5343,39 +5343,39 @@ Se impondrá de uno a tres años de prisión y multa equivalente de cincuenta a 
 
 ### CAPITULO II. MALTRATO O CRUELDAD ANIMAL
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2026)</small>
 
 ###### Artículo 342.
 
-Al que intencionalmente realice algún acto de maltrato o crueldad en contra de un animal, se le impondrá de tres meses a dos años de prisión y multa de hasta doscientas veces el valor diario de la Unidad de Medida y Actualización vigente.
+Comete el delito de maltrato y crueldad animal quien intencionalmente:
 
-> <small>(REFORMADO [N. DE E. ADICIONADO CON SUS FRACCIONES], P.O. 31 DE OCTUBRE DE 2014)</small>
+I.- Abandone a un animal que se encuentre bajo su guarda o custodia, dejándolo en condición de desamparo;
 
-Se consideran actos de maltrato o crueldad animal:
+II.- Ocasione por su negligencia estado de desnutrición o deshidratación en un animal que esté bajo su cuidado, guarda o custodia;
 
-I.- Causar la muerte de un animal injustificadamente, sacrificar un animal empleando métodos diversos a los establecidos en las normas oficiales mexicanas, o privar de la vida a un animal utilizando cualquier medio que le provoque un sufrimiento extremo o prolongue su agonía;
+III.- Utilice a un animal en estado de desnutrición, enfermedad, con lesiones en la columna vertebral o extremidades, contusiones, heridas u otras condiciones que afecten su salud o integridad física, para actividades de trabajo;
 
-II.- La tortura, el sadismo, la zoofilia o cualquier acción análoga que le implique sufrimiento;
+IV.- Azuce a uno o más animales para que se ataquen entre ellos, siempre que con dicha acción se provoquen lesiones;
 
-III.- Cualquier mutilación sin fines médicos;
+V.- Provoque lesiones que pongan en peligro la vida de un animal, que le generen una incapacidad parcial o total permanente, que disminuyan alguna de sus facultades, o que afecten el normal funcionamiento de un órgano o miembro con independencia de las armas, instrumentos, objetos o sustancias con que sea cometido;
 
-IV.- Las lesiones que pongan en peligro la vida de un animal, que le generen una incapacidad parcial o total permanente, que disminuyan alguna de sus facultades, o que afecten el normal funcionamiento de un órgano o miembro;
+VI.- Cause la muerte de un animal injustificadamente, sacrifique a un animal empleando métodos diversos a los establecidos en las Normas Oficiales Mexicanas, o prive de la vida a un animal mediante el azuzamiento de uno o más animales para que se ataquen entre sí, o por cualquier medio que le provoque un sufrimiento extremo o prolongue su agonía;
 
-V.- El suministro o aplicación de substancias u objetos tóxicos que pongan en peligro la vida de un animal o le provoque la muerte; y
+VII.- Torture o ejerza actos de sadismo o cualquier acción análoga que implique sufrimiento a los animales;
 
-VI.- Azuzar a los animales para que se ataquen entre ellos, siempre que con dicha acción se provoquen lesiones o la muerte.
+VIII.- Ejecute actos sexuales con un animal, o introduzca en este, por vía vaginal, anal u oral, el miembro viril, cualquier otra parte del cuerpo humano o un objeto de cualquier tipo;
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE OCTUBRE DE 2014)</small>
+IX.- Cualquier mutilación sin fines médicos.
 
-Cuando el acto de maltrato o crueldad animal sea realizado por médico veterinario o persona relacionada con el cuidado o resguardo de animales, o sea realizado por un servidor público en ejercicio o con motivo de sus funciones, además se le inhabilitará por un lapso de seis meses a un año del empleo, cargo, autorización o licencia respectiva, y en caso de reincidencia, serán privados definitivamente del derecho a ejercer la actividad de que se trate, o se revocará en forma definitiva la autorización o licencia respectiva.
+A quien cometa alguna de las conductas previstas en las fracciones de la I a la IV, se le impondrá de uno a cinco años de prisión y multa de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización vigente y a quien cometa alguna de las conductas previstas en las fracciones de la V a la IX se le impondrá de tres a ocho años de prisión y multa de cuatrocientas a setecientas veces el valor diario de la Unidad de Medida y Actualización vigente, en cualquier supuesto, la Jueza o Juez ordenará el registro de la persona sentenciada en el Registro Estatal de Agresores de Animales.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE OCTUBRE DE 2014)</small>
+Las penas previstas en el párrafo anterior de este artículo se aumentarán hasta en una mitad más cuando alguno de los actos de maltrato o crueldad animal a que se refiere este artículo se realice en contra de animales de asistencia a personas con discapacidad o animales asignados para la realización de funciones de las instituciones de seguridad, policiales, protección civil o bomberos.
 
-Cuando las lesiones o la muerte del animal se cause con la finalidad de evitar un mal igual o mayor a una persona o animal, no se aplicará sanción alguna siempre y cuando se justifique el hecho en la necesidad de salvaguardar la integridad de la persona o el animal en peligro.
+Además de las penas correspondientes, la persona responsable perderá el derecho a tener, poseer o mantener la guarda o custodia de los animales que se encuentren a su cargo al momento de la comisión del delito y será sujeta a un tratamiento psicológico o psiquiátrico especializado orientado a su rehabilitación. Asimismo, no podrá adquirir, tener, poseer ni ejercer la guarda o custodia de otros animales hasta por el tiempo en que permanezca inscrita en el Registro Estatal de Agresores de Animales, el cual podrá ser hasta por el equivalente al tiempo de la pena impuesta.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE JUNIO DE 2023)</small>
+Cuando algún acto de maltrato y crueldad animal sea realizado por una persona médica veterinaria o por una persona relacionada con el cuidado o resguardo de animales, o sea realizado por una persona servidora pública en ejercicio o con motivo de sus funciones, se le inhabilitará por un lapso de seis meses a un año para desempeñar el empleo, cargo, autorización o licencia respectiva, y en caso de reincidencia, será privada de manera definitiva del derecho a ejercer la actividad de que se trate, o se revocará en forma definitiva la autorización o licencia correspondiente.
 
-Las penas previstas en el primer párrafo de este artículo se aumentarán hasta en una mitad más cuando alguno de los actos de maltrato o crueldad animal a que se refiere este artículo, se realice en contra de animales de asistencia a personas con discapacidad o animales asignados para la realización de funciones de las instituciones de seguridad, policiales, protección civil o bomberos.
+Cuando las lesiones o la muerte del animal se causen con la finalidad de evitar un mal igual o mayor a una persona o animal, no se aplicará sanción alguna siempre y cuando se justifique el hecho en la necesidad de salvaguardar la integridad de la persona o el animal en peligro.
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2014)</small>
 
@@ -5391,9 +5391,9 @@ Artículo 342 TER.- Cuando se realicen algún acto de maltrato o crueldad a un a
 
 En cualquiera de los casos anteriores, los animales se canalizarán a los albergues municipales respectivos o a lugares adecuados para su debido cuidado. Asimismo, se dará aviso inmediato a las asociaciones u organizaciones protectoras o dedicadas al cuidado de animales debidamente constituidas, las cuales podrán solicitar en cualquier momento al Ministerio Público o al Juez de Control, el resguardo temporal o definitivo del o los animales de que se traten.
 
-> <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2026)</small>
 
-Artículo 342 QUATER.- El delito de crueldad animal se perseguirá por querella del propietario o poseedor del animal y de oficio en los casos en que se cometa por el propietario, custodio o poseedor del animal o cuando el animal carezca de propietario, custodio o poseedor.
+Artículo 342 QUATER.- El delito de maltrato y crueldad animal se perseguirá de oficio.
 
 > <small>(ADICIONADO, P.O. 31 DE OCTUBRE DE 2014)</small>
 
@@ -5401,23 +5401,25 @@ Artículo 342 QUINQUIES.- Se exceptúan de las disposiciones de este capítulo, 
 
 Asimismo, se exceptúa la caza, la pesca, las buenas prácticas pecuarias, las de control animal y salubridad llevadas a cabo por autoridad competente, así como las actividades científicas, de investigación y demás similares, siempre que se realicen en términos de las disposiciones que resulten aplicables.
 
-> <small>(ADICIONADO, P.O. 1 DE FEBRERO DE 2019)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2026)</small>
 
-Artículo 342 SEXTIES. Se impondrá de uno a cinco años de prisión y multa de doscientas a cuatrocientas unidades de medida y actualización a quien:
+Artículo 342 SEXTIES.- Se equipará al delito de maltrato y crueldad animal y se impondrá de uno a cinco años de prisión y multa de doscientas a quinientas unidades de medida y actualización a quien:
 
-I. Organice, induzca, provoque, promueva o realice una o varias peleas de perros, públicas o privadas, con o sin apuestas, o las permita en su propiedad.
+I. Organice, induzca, provoque, promueva o realice una o varias peleas de animales o cualquier acto, espectáculo o acción en que se mate, hiera u hostilice a los animales ya sean públicos o privados, con o sin apuestas, o las permita en su propiedad;
 
-II. Anuncie, patrocine o venda entradas para asistir a espectáculos que impliquen peleas de perros;
+II. Anuncie, patrocine o venda entradas para asistir a espectáculos que impliquen peleas de animales;
 
-III. Posea o administre una propiedad en la que se realicen peleas de perros con conocimiento de dicha actividad;
+III. Posea o administre una propiedad en la que se realicen peleas de animales con conocimiento de dicha actividad;
 
-IV. Ocasione o permita que menores de edad asistan o presencien cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros, o
+IV. Ocasione o permita que menores de edad asistan o presencien cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más animales; o,
 
-V. Realice con o sin fines de lucro cualquier acto con el objetivo de involucrar a perros en cualquier exhibición, espectáculo o actividad que implique una pelea entre dos o más perros.
+V. Realice con o sin fines de lucro cualquier acto con el objetivo de involucrar a animales en cualquier exhibición, espectáculo o actividad que implique una pelea entre dos o más animales.
 
-La sanción a que se hace mención en el párrafo anterior, se incrementará en una mitad cuando se trate de servidores públicos.
+Asimismo, incurre en responsabilidad penal quien asista como espectador a cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más animales, a sabiendas de esta circunstancia. En dichos casos se impondrá un tercio de la pena prevista en este artículo.
 
-Asimismo, incurre en responsabilidad penal, quien asista como espectador a cualquier exhibición, espectáculo o actividad que involucre una pelea entre dos o más perros, a sabiendas de esta circunstancia. En dichos casos se impondrá un tercio de la pena prevista en este artículo.
+Las sanciones previstas en este artículo se incrementarán en una mitad cuando se trate de personas servidoras públicas.
+
+Además de la pena de prisión prevista en este artículo se impondrá la privación de la guarda o custodia de otros animales, tratamiento psicológico o psiquiátrico especializado orientado a su rehabilitación y la inscripción en el Registro Estatal de Agresores de Animales en los términos dispuestos en el artículo 342 de este Código.
 
 > <small>(DEROGADO CON EL CAPÍTULO Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
 
@@ -6976,3 +6978,13 @@ P.O. 17 DE ABRIL DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 251 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 113 BIS Y LA ADICIÓN DE UN CAPÍTULO I BIS AL TÍTULO CUARTO DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA Y EN SU INTERIOR LA ADICIÓN DEL NUMERAL 261 SEXTIES”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 24 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 258 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A DIVERSOS ARTÍCULOS DEL CÓDIGO PENAL PARA EL ESTADO DE BAJA CALIFORNIA Y ASÍ MISMO SE APRUEBA LA CREACIÓN DE UN CAPÍTULO XII, DENOMINADO DEL REGISTRO ESTATAL DE AGRESORES DE ANIMALES Y LA ADICIÓN DE LOS DIVERSOS ARTÍCULOS A LA LEY DE PROTECCIÓN A LOS ANIMALES DOMÉSTICOS DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Los procedimientos penales que se estén sustanciando a la entrada en vigor de las presentes reformas se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
+
+TERCERO.- A las personas que hayan cometido el delito contemplado en las presentes reformas con anterioridad a su entrada en vigor, incluidas las procesadas o sentenciadas les serán aplicables las disposiciones vigentes en el momento en que se haya cometido, de resultar menos gravosas.
