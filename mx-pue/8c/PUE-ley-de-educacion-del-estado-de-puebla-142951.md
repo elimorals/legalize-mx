@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-educacion-del-estado-de-puebla-142951"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-18"
-last_updated: "2025-07-23"
+last_updated: "2026-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2026.
 
 Ley publicada en la Segunda Sección del Estado de Puebla, el lunes 18 de mayo de 2020.
 
@@ -1551,11 +1551,39 @@ La Secretaría promoverá, ante las autoridades competentes, las acciones necesa
 
 El Ejecutivo estatal promoverá la contribución de los medios de comunicación a los fines de la educación. Para tal efecto procurará la creación de espacios y la realización de proyectos de difusión educativa con contenidos de la diversidad cultural de la entidad federativa, cuya transmisión sean en español y las diversas lenguas indígenas.
 
-### CAPÍTULO ÚNICO. DE LAS DISPOSICIONES APLICABLES A LA VALIDEZ DE ESTUDIOS Y CERTIFICACIÓN DE CONOCIMIENTOS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE ABRIL DE 2026)</small>
+
+### CAPÍTULO V. DEL APOYO ESCOLAR COMUNITARIO
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2026)</small>
+
+###### ARTÍCULO 136 Bis.
+
+El Apoyo Escolar Comunitario es una forma de participación social consistente en la prestación voluntaria y gratuita de acompañamiento académico complementario a estudiantes de educación básica y media superior.
+
+Dicho acompañamiento podrá realizarse en instituciones educativas o en otros espacios públicos que, en su caso, autorice la Secretaría, sin que ello implique la creación de nuevas estructuras administrativas ni erogaciones presupuestales adicionales.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2026)</small>
+
+###### ARTÍCULO 136 Ter.
+
+El Apoyo Escolar Comunitario tendrá los siguientes fines:
+
+I. Contribuir al fortalecimiento de los aprendizajes en áreas prioritarias determinadas por la Secretaría;
+
+II. Coadyuvar en la atención del rezago educativo mediante el acompañamiento académico complementario, y
+
+III. Fomentar la participación corresponsable de la comunidad en el proceso educativo, con respeto a los principios de inclusión, gratuidad, formación integral y protección integral de los derechos de niñas, niños y adolescentes.
+
+> <small>(ADICIONADO, P.O. 24 DE ABRIL DE 2026)</small>
+
+###### ARTÍCULO 136 Quater.
+
+La Secretaría emitirá los lineamientos y disposiciones de carácter general necesarios para la implementación, operación y seguimiento del Apoyo Escolar Comunitario.
 
 ## TÍTULO DÉCIMO PRIMERO. DE LA VALIDEZ DE ESTUDIOS Y CERTIFICACIÓN DE CONOCIMIENTOS
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
+### CAPÍTULO ÚNICO. DE LAS DISPOSICIONES APLICABLES A LA VALIDEZ DE ESTUDIOS Y CERTIFICACIÓN DE CONOCIMIENTOS
 
 ###### ARTÍCULO 137.
 
@@ -1595,7 +1623,7 @@ Los acuerdos secretariales señalarán los requisitos específicos que deban cum
 
 ## TÍTULO DÉCIMO SEGUNDO. DE LA EDUCACIÓN IMPARTIDA POR PARTICULARES
 
-### CAPÍTULO II. DE LOS MECANISMOS PARA EL CUMPLIMIENTO DE LOS FINES DE LA EDUCACIÓN IMPARTIDA POR LOS PARTICULARES
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 ###### ARTÍCULO 142.
 
@@ -1657,7 +1685,7 @@ VIII. Solicitar el refrendo del reconocimiento de validez oficial de estudios al
 
 IX. Dar aviso a la autoridad educativa competente el cambio de domicilio donde presten el servicio público de educación o cuando dejen de prestarlo conforme a la autorización o reconocimiento de validez oficial de estudios respectiva, para que conforme al procedimiento que se determine en las disposiciones aplicables, se dé inicio al procedimiento de retiro o revocación.
 
-### CAPÍTULO III. DEL RECURSO ADMINISTRATIVO
+### CAPÍTULO II. DE LOS MECANISMOS PARA EL CUMPLIMIENTO DE LOS FINES DE LA EDUCACIÓN IMPARTIDA POR LOS PARTICULARES
 
 ###### ARTÍCULO 146.
 
@@ -1760,6 +1788,8 @@ Las autoridades competentes harán uso de las medidas legales necesarias, incluy
 ###### ARTÍCULO 153.
 
 Las acciones de vigilancia a las que se refiere el artículo 146 de esta Ley que lleven a cabo las autoridades educativas del Estado de Puebla, se realizarán de conformidad con el procedimiento establecido en los artículos 152 al 179 de la Ley General de Educación previstos en su Capítulo II del Título Décimo Primero y atenderán los lineamientos que emita la autoridad educativa federal en la materia.
+
+### CAPÍTULO III. DEL RECURSO ADMINISTRATIVO
 
 ###### ARTÍCULO 154.
 
@@ -2392,6 +2422,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 23 DE JULIO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA UN SEGUNDO PÁRRAFO DEL ARTÍCULO 71 DE LA LEY EDUCACIÓN DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 24 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE ADICIONA EL CAPÍTULO V DENOMINADO DEL APOYO ESCOLAR COMUNITARIO AL TÍTULO DÉCIMO "DE LA CORRESPONSABILIDAD SOCIAL EN EL PROCESO EDUCATIVO", ASÍ COMO LOS ARTÍCULOS 136 BIS, 136 TER Y 136 QUÁTER A LA LEY DE EDUCACIÓN DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
