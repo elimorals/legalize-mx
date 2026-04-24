@@ -4,7 +4,7 @@ identifier: "BCN-ley-que-reglamenta-el-servicio-de-agua-potable-en-el-estado-118
 country: "mx"
 rank: "ley"
 publication_date: "2017-01-19"
-last_updated: "2021-07-29"
+last_updated: "2026-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118265&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2026.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el jueves 19 de enero de 2017.
 
@@ -49,11 +49,11 @@ LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA
 
 El diseño, planeación, gestión y coordinación de las políticas públicas en materia de agua en el Estado de Baja California estará a cargo del Ejecutivo del Estado, quedando la proyección, dirección y ejecución de las obras de captación, conducción y distribución de los Sistemas de Agua Potable para el servicio público de las poblaciones del Estado, a cargo de los Organismos señalados en la presente Ley y se efectuarán de acuerdo con las necesidades que demande el servicio y con sujeción a las disposiciones legales sobre la materia.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2020)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2026)</small>
 
 ###### ARTICULO 2.
 
-La operación, conservación, vigilancia y reparación de los Sistemas de Agua Potable, las obras de ampliación, la recaudación de los ingresos por la prestación de los mismos, así como la imposición de sanciones por infracción a las disposiciones de esta Ley, estará igualmente a cargo de los Organismos a que se refiere el artículo anterior.
+La operación, conservación, vigilancia y reparación de los Sistemas de Agua Potable, incluyendo las actividades complementarias necesarias para la conservación, rehabilitación, reposición, pavimentación y reencarpetado de las superficies de las vialidades vinculadas a su correcta operación y funcionamiento, las obras de ampliación, la recaudación de los ingresos por la prestación de los mismos, así como la imposición de sanciones por infracción a las disposiciones de esta Ley, estará igualmente a cargo de los Organismos a que se refiere el artículo anterior.
 
 DE LA OBLIGACION DE SURTIRSE DE AGUA POTABLE DEL SERVICIO PUBLICO
 
@@ -277,9 +277,11 @@ En los casos de clausura, traspaso o traslado de un giro mercantil o industrial,
 
 Las tomas y los medidores deberán instalarse en la forma que determine el Organismo encargado del servicio, de manera que sin dificultad se puedan llevar a cabo las lecturas de consumo, las pruebas de funcionamiento del aparato o bien, su reparación o sustitución.
 
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2026)</small>
+
 ###### ARTICULO 32.
 
-Instalada la toma y hecha la conexión que permita el consumo del agua, dentro den (sic) los diez días siguientes se comunicará a la oficina de contabilidad respectiva para la apertura de la cuenta correspondiente. Al mismo tiempo se harán las anotaciones en el registro que establece el Artículo 39. En los casos en que, con motivo de la instalación de la toma, se destruya el pavimento, el Organismo encargado del servicio ordenará su reparación en un plazo que no excederá de sesenta días.
+Instalada la toma y hecha la conexión que permita el consumo del agua, dentro de los diez días siguientes se comunicará a la oficina de contabilidad respectiva para la apertura de la cuenta correspondiente. Al mismo tiempo se harán las anotaciones en el registro que establece el Artículo 39. En los casos en que, con motivo de la instalación de la toma, se destruya el pavimento, el Organismo encargado del servicio ordenará su pavimentación o reencarpetado en un plazo que no excederá de sesenta días, a fin de garantizar la adecuada conservación y funcionalidad de las vías públicas.
 
 ###### ARTICULO 33.
 
@@ -1150,3 +1152,9 @@ DÉCIMO SEGUNDA.- Los adeudos generados y el patrimonio a favor de los organismo
 DÉCIMO TERCERA.- Las referencias que se hagan a las Comisiones Estatales de Servicios Públicos de Baja California o a los organismos estatales encargados del servicio de agua en la normatividad estatal se entenderán realizadas a los Organismos paramunicipales encargados del servicio de agua.
 
 Al termino del proceso de transferencia de recursos entre el Ejecutivo Estatal y los Municipios, quedará abrogada la Ley de las Comisiones Estatales de Servicios Públicos de Baja California, así como las demás disposiciones reglamentarias de dicha Ley.
+
+P.O. 24 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 257 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 4 DE LA LEY DE URBANIZACIÓN DEL ESTADO DE BAJA CALIFORNIA, DE DIVERSOS ARTÍCULOS DE LA LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA Y ARTÍCULO 2 DE LA LEY DE LAS COMISIONES ESTATALES DE SERVICIOS PÚBLICOS DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
