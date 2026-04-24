@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-urbanizacion-del-estado-de-baja-california-3356"
 country: "mx"
 rank: "ley"
 publication_date: "1981-08-20"
-last_updated: "2023-09-08"
+last_updated: "2026-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3356&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE URBANIZACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE SEPTIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ABRIL DE 2026.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el jueves 20 de agosto de 1981.
 
@@ -75,11 +75,11 @@ VIII.- Las obras de regeneración urbana de aquellas zonas de los centros de pob
 
 IX.- Cualquier otro tipo de obras o servicios relacionadas con la misma, tendientes a la integración y mejoramiento de las poblaciones del Estado.
 
-> <small>(REFORMADO, P.O. 28 DE FEBRERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 24 DE ABRIL DE 2026)</small>
 
 ###### ARTICULO 4o.
 
-Una vez concluidas las obras de urbanización que realicen los Consejos de Urbanización Municipales y la Junta de Urbanización del Estado, se entregarán a los Municipios a cuyo cargo estará su mantenimiento, el que se considerará como un servicio municipal, con excepción de las obras de drenaje de aguas negras, pluvial, así como las líneas y redes de agua potable, que serán entregadas para su mantenimiento a la Comisión Estatal de Servicios Públicos que corresponda, las de electrificación que se entregarán a la Comisión Federal de Electricidad para su mantenimiento, las que se considerarán como servicios federales de acuerdo a lo que establece la fracción III del Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, así como el Artículo 82 de la Constitución Política Local.
+Una vez concluidas las obras de urbanización que realicen los Consejos de Urbanización Municipales y la Junta de Urbanización del Estado, se entregarán a los Municipios a cuyo cargo estará su mantenimiento, el que se considerará como un servicio municipal, con excepción de las obras de drenaje de aguas negras, pluvial, así como las líneas, redes de agua potable, incluyendo las actividades complementarias necesarias para la conservación, rehabilitación, reposición y pavimentación de las superficies de las vialidades vinculadas a su correcta operación y funcionamiento, las cuales serán entregadas para su mantenimiento a la Comisión Estatal de Servicios Públicos que corresponda, las de electrificación que se entregarán a la Comisión Federal de Electricidad para su mantenimiento, las que se considerarán como servicios federales de acuerdo a lo que establece la fracción III del Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, así como el Artículo 82 de la Constitución Política Local.
 
 > <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
@@ -1476,3 +1476,9 @@ P.O. 8 DE SEPTIEMBRE DE 2023.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 274 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS 2, 5, 6, 7, 9, 13, 16, 18, 19, 22, 23, 25, 26, 28, 29, 32, 34, 36, 38, 39, 40, 42, 44, 45, 46, 47, 48, 49, 50, 51, 63, 73, 80, 82, 84, 88, 101 Y 102 DE LA LEY DE URBANIZACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 257 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 4 DE LA LEY DE URBANIZACIÓN DEL ESTADO DE BAJA CALIFORNIA, DE DIVERSOS ARTÍCULOS DE LA LEY QUE REGLAMENTA EL SERVICIO DE AGUA POTABLE EN EL ESTADO DE BAJA CALIFORNIA Y ARTÍCULO 2 DE LA LEY DE LAS COMISIONES ESTATALES DE SERVICIOS PÚBLICOS DEL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- Las presentes reformas entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
