@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-insumos-para-la-salud-11369"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-02-04"
-last_updated: "2021-05-31"
+last_updated: "2026-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11369&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "1998-02-03"
 
 REGLAMENTO DE INSUMOS PARA LA SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 31 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ABRIL DE 2026.
 
 Reglamento publicado en el Diario Oficial de la Federación, el miércoles 4 de febrero de 1998.
 
@@ -49,15 +49,11 @@ I. Acondicionamiento, a las operaciones necesarias por las que un producto a gra
 
 II. Biodisponibilidad, a la proporción de fármaco que se absorbe a la circulación general después de la administración de un medicamento y el tiempo que requiere para hacerlo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
 > <small>(ADICIONADA, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
 II Bis. Certificado Analítico, al documento que avala los resultados obtenidos en un estudio para determinar la composición o naturaleza de una muestra, emitido por el fabricante del producto, de conformidad con las disposiciones de la Ley, el presente Reglamento y demás disposiciones aplicables;
 
 III. Condición Sanitaria, a las especificaciones o requisitos sanitarios que deben reunir cada uno de los Insumos, Establecimientos, actividades y servicios y que se establecen en los ordenamientos correspondientes;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
@@ -71,19 +67,13 @@ VI. Envase Primario, a los elementos del sistema de envase que están en contact
 
 VII. Envase Secundario, a los componentes que forman parte del empaque en el cual se comercializa el Insumo y no están en contacto directo con él;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
 > <small>(ADICIONADA, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
 VII Bis 1. Estudios clínicos, a las pruebas realizadas en seres humanos para demostrar la calidad, seguridad y eficacia de los medicamentos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
 > <small>(ADICIONADA, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
 VII Bis 2. Estudios de biocomparabilidad, a las pruebas, ensayos y análisis que sean indispensables para demostrar que un medicamento biotecnológico biocomparable tiene las mismas características de calidad, seguridad y eficacia de un medicamento biotecnológico de referencia;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
@@ -95,8 +85,6 @@ IX. Farmacopea de los Estados Unidos Mexicanos, al documento expedido por la Sec
 
 X. Farmacopea Homeopática de los Estados Unidos Mexicanos, al documento instituido por la Ley y expedido por la Secretaría, que comprende los nombres, procedimientos, métodos y especificaciones para la identificación, preparación o análisis de sustancias y productos homeopáticos;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
 > <small>(ADICIONADA, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
 X Bis. Información técnica, a los ensayos, análisis, estudios preclínicos y clínicos necesarios, en su caso, para demostrar la calidad, seguridad y eficacia requeridos por la Secretaría para la obtención del registro sanitario;
@@ -107,19 +95,13 @@ XII. Ley, a la Ley General de Salud;
 
 XIII. Lote, a la cantidad específica de cualquier materia prima o Insumo, que haya sido elaborada en un ciclo de producción, bajo condiciones equivalentes de operación y durante un período determinado;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
 > <small>(ADICIONADA, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
 XIII Bis 1. Medicamento biotecnológico biocomparable, al medicamento biotecnológico no innovador que demuestre ser biocomparable en términos de seguridad, calidad y eficacia al medicamento biotecnológico de referencia a través de las pruebas que establezca la Ley, este Reglamento y demás disposiciones aplicables;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
 > <small>(ADICIONADA, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
 XIII Bis 2. Medicamento biotecnológico innovador, al medicamento biotecnológico que obtenga el registro sanitario en México, así reconocido por la Secretaría;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADA, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
@@ -133,19 +115,9 @@ XIV. Medicamento Genérico, a la especialidad farmacéutica con el mismo fármac
 
 XIV Bis. Medicamento de referencia, al medicamento indicado por la Secretaría como tal, que cuenta con el registro de dicha dependencia, que se encuentra disponible comercialmente y es seleccionado conforme a los criterios establecidos en las Normas;
 
-XV. Molécula Nueva, a la sustancia de origen natural o sintético que es el principio activo de un medicamento, no utilizada previamente en el país, cuya eficacia, seguridad y fines terapéuticos no hayan sido completamente documentados en la literatura científica;
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2026)</small>
 
-> <small>(ADICIONADO, D.O.F. 2 DE ENERO DE 2008)</small>
-
-Para efectos del Comité de Moléculas Nuevas, se clasificarán como moléculas nuevas a aquellas que se encuentren dentro de las siguientes categorías:
-
-a. Aquel fármaco o medicamento que no tenga registro a nivel mundial y que se pretende registrar en México (nueva entidad molecular).
-
-b. Aquel fármaco o medicamento que aún existiendo en otros países, con experiencia clínica limitada o información controvertida, no tenga registro en México y pretenda registrarse en nuestro país.
-
-c. Aquel medicamento que pretenda hacer una combinación que no exista en el mercado nacional de dos o más fármacos.
-
-d. Aquel fármaco o medicamento existente en el mercado que pretenda comercializarse con otra indicación terapéutica.
+XV. Molécula Nueva, al fármaco, biofármaco o sustancia con actividad terapéutica, preventiva o rehabilitatoria, solo o en combinación, que se encuentre contenido en un medicamento o producto biológico, que no cuenta con registro sanitario en territorio nacional;
 
 XVI. Normas, a las normas oficiales mexicanas;
 
@@ -1555,13 +1527,81 @@ I. Cuando se trate de medicamentos que incluyan ingredientes activos y con indic
 
 II. Cuando se trate de medicamentos cuyos ingredientes activos no estén registrados en los Estados Unidos Mexicanos, pero se encuentren registrados y se vendan libremente en su país de origen, la resolución deberá emitirse en un plazo máximo de doscientos cuarenta días naturales, y
 
-III. Cuando se trate de medicamentos con moléculas nuevas, previo a la solicitud de registro sanitario, se realizará una reunión técnica entre el solicitante y el Comité de Moléculas Nuevas de la Comisión Federal para la Protección contra Riesgos Sanitarios. Una vez que se someta la solicitud de registro sanitario, la resolución deberá emitirse en un plazo máximo de 180 días naturales.
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2026)</small>
 
-El Comité de Moléculas Nuevas estará integrado por el Comisionado de Autorización Sanitaria, el Director Ejecutivo de Autorización de Productos y Establecimientos, el Director del Centro Nacional de Farmacovigilancia, y representantes de las asociaciones académicas.
+III. Cuando se trate de medicamentos que contengan moléculas nuevas, la Secretaría, por conducto de la Comisión Federal para la Protección contra Riesgos Sanitarios, solicitará la opinión técnica del Comité de Moléculas Nuevas como parte del proceso de evaluación de la solicitud de registro sanitario. Para el caso de solicitudes que cuenten con una autorización previa emitida por una autoridad regulatoria extranjera reconocida por la Secretaría, solo se solicitará dicha opinión técnica en los casos donde se identifique algún riesgo asociado al medicamento.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN III, D.O.F. 24 DE ABRIL DE 2026.]</small>
+
+Una vez presentada la solicitud de registro sanitario, la resolución deberá emitirse dentro del plazo máximo de ciento ochenta días.
+
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2026)</small>
+
+El Comité de Moléculas Nuevas estará integrado por las personas titulares de la Comisión de Autorización Sanitaria, de la Dirección Ejecutiva de Autorización de Productos y Establecimientos, de la Dirección del Centro Nacional de Farmacovigilancia y Tecnovigilancia, y personas expertas externas con experiencia en temas científicos, técnicos, académicos, de investigación y regulatorios.
 
 Cuando el último día del plazo sea inhábil, se entenderá prorrogado hasta el día siguiente hábil.
 
 En caso de que el solicitante presente informe técnico favorable expedido por Institución reconocida como Tercero Autorizado por la Secretaría, los plazos se reducirán a la mitad.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2026)</small>
+
+###### ARTÍCULO 166
+
+bis 1. Si durante el proceso de obtención del registro sanitario de medicamentos alopáticos se presentaran retrasos no razonables atribuibles a la Secretaría, entre la fecha de ingreso de la solicitud y la fecha de emisión del registro sanitario, y dicho retraso repercutiera en el aprovechamiento de la exclusividad de una patente que proteja al medicamento y que haya sido señalada desde el momento del ingreso de la solicitud del registro sanitario, a petición de la persona titular del registro sanitario se podrá otorgar una compensación que avale el tiempo por el que se podrá ajustar la vigencia de una de las patentes del medicamento mediante un certificado complementario, expedido por el Instituto Mexicano de la Propiedad Industrial, el cual no podrá exceder de cinco años.
+
+Para efectos del párrafo anterior, se entenderá que, por cada atraso en la emisión del registro sanitario, únicamente podrá solicitarse la compensación de una sola de las patentes previamente señaladas en la solicitud del registro sanitario.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2026)</small>
+
+###### ARTÍCULO 166
+
+bis 2. La solicitud de compensación deberá ser presentada por la persona titular del registro sanitario dentro del plazo de sesenta días hábiles contado a partir del día hábil siguiente de la fecha de notificación del registro sanitario.
+
+La solicitud de compensación deberá contener:
+
+I. Fecha de ingreso de la solicitud del registro sanitario, fecha de la notificación del otorgamiento del registro sanitario y la clave alfanumérica del registro sanitario;
+
+II. Los argumentos de la persona solicitante sobre la solicitud de compensación, y
+
+III. La patente respecto de la cual se solicita la compensación, la cual deberá haber sido señalada desde el ingreso de la solicitud del registro sanitario.
+
+Si la Secretaría advierte la ausencia o deficiencia de alguno de los requisitos señalados en este artículo, requerirá por única vez a la persona titular del registro sanitario para que, dentro del plazo de cinco días hábiles, precise o aclare lo que considere necesario, o subsane las omisiones respectivas. De no cumplimentarse el requerimiento formulado dentro del plazo señalado, la solicitud se desechará de plano.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2026)</small>
+
+###### ARTÍCULO 166
+
+bis 3. La solicitud de compensación es improcedente cuando:
+
+I. La patente forme parte de un medicamento alopático que haya obtenido previamente un registro conforme a este Reglamento;
+
+II. La patente haya sido incluida en la solicitud del registro sanitario de un medicamento alopático que haya obtenido previamente un registro conforme a este Reglamento;
+
+III. Se haya omitido señalar el número de concesión de la patente en la solicitud del registro sanitario del medicamento alopático objeto de la solicitud de compensación, y
+
+IV. El medicamento alopático haya sido comercializado previo a la obtención de un registro sanitario conforme a este Reglamento.
+
+La Secretaría determinará el periodo que corresponda a los retrasos razonables y lo sustraerá del periodo de tramitación del registro sanitario.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2026)</small>
+
+###### ARTÍCULO 166
+
+bis 4. Para efectos del último párrafo del artículo anterior, se considera como retrasos razonables:
+
+I. Aquellos atribuibles a la persona solicitante relacionados con los plazos para sustanciar la prevención realizada por la Secretaría establecida en este Reglamento;
+
+II. Los tiempos atribuibles a las acciones u omisiones de la persona solicitante que retrasen el procedimiento de otorgamiento del registro sanitario, incluidas impugnaciones administrativas o jurisdiccionales, únicamente cuando la resolución de dichas impugnaciones no haya sido favorable a esta, y
+
+III. Los tiempos sean atribuibles a causas de fuerza mayor o caso fortuito.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2026)</small>
+
+###### ARTÍCULO 166
+
+bis 5. La Secretaría informará a la persona titular del registro sanitario y al Instituto Mexicano de la Propiedad Industrial la determinación sobre la solicitud de compensación.
+
+Cuando la determinación sea favorable, el Instituto Mexicano de la Propiedad Industrial emitirá el certificado complementario conforme a las disposiciones aplicables en la ley de la materia.
 
 ###### ARTÍCULO 167.
 
@@ -1575,7 +1615,13 @@ b. La estabilidad del producto terminado conforme a las Normas correspondientes;
 
 c. La eficacia terapéutica y seguridad de acuerdo con la información científica que corresponda;
 
-II. La información para prescribir, en sus versiones amplia y reducida, y (sic)
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2026)</small>
+
+I Bis. El documento emitido por el Instituto Mexicano de la Propiedad Industrial que acredite la titularidad de la o las patentes vigentes o, de ser el caso, la constancia de la licencia de explotación correspondiente inscrita en el propio Instituto, del medicamento alopático;
+
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2026)</small>
+
+II. La información para prescribir, en sus versiones amplia y reducida;
 
 III. El proyecto de etiqueta;
 
@@ -1583,9 +1629,11 @@ III. El proyecto de etiqueta;
 
 IV. Lo señalado en el artículo 167-bis de este Reglamento;
 
-> <small>(ADICIONADA, D.O.F. 2 DE ENERO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2026)</small>
 
-V. Para Medicamentos Genéricos, en lugar de lo indicado en el inciso c de la fracción I, el informe de las pruebas de intercambiabilidad de acuerdo con las Normas correspondientes y demás disposiciones aplicables, y
+V. Para Medicamentos Genéricos, en lugar de lo indicado en el inciso c de la fracción I de este artículo, el informe de las pruebas de intercambiabilidad de acuerdo con las Normas correspondientes y demás disposiciones aplicables.
+
+En caso de que el informe de las pruebas de intercambiabilidad utilice total o parcialmente información concerniente a la seguridad y eficacia de una Molécula Nueva conforme al artículo 2o, fracción XV, de este Reglamento, se deberá presentar el documento con el consentimiento expreso y por escrito de la persona titular de la información, si no han transcurrido más de cinco años desde la fecha de notificación del registro sanitario de dicho medicamento alopático conforme a este Reglamento, y
 
 > <small>(ADICIONADA, D.O.F. 2 DE ENERO DE 2008)</small>
 
@@ -1605,17 +1653,27 @@ Para el otorgamiento del registro sanitario a que se refiere este artículo, la 
 
 Cuando en la Farmacopea de los Estados Unidos Mexicanos y sus suplementos no exista la información pertinente, podrá utilizarse la información de farmacopeas de otros países cuyos procedimientos de análisis se realicen conforme a especificaciones y recomendaciones de organismos especializados u otras fuentes de información científica internacional.
 
-> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2026)</small>
 
 ###### ARTÍCULO 167
 
-bis. El solicitante del registro de un medicamento alopático deberá anexar a la solicitud la documentación que demuestre que es el titular de la patente de la sustancia o ingrediente activo o que cuenta con la licencia correspondiente, ambas inscritas en el Instituto Mexicano de la Propiedad Industrial.
+bis. La persona solicitante del registro de un medicamento alopático deberá anexar a la solicitud la documentación que demuestre que es la titular de la patente de la sustancia o ingrediente activo o que cuenta con la licencia correspondiente, ambas inscritas en el Instituto Mexicano de la Propiedad Industrial.
 
-Alternativamente, y de acuerdo con el listado de productos establecidos en el artículo 47 bis del Reglamento de la Ley de la Propiedad Industrial, podrá manifestar, bajo protesta de decir verdad, que cumple con las disposiciones aplicables en materia de patentes respecto a la sustancia o ingrediente activo objeto de la solicitud. En este supuesto, la Secretaría pedirá de inmediato la cooperación técnica del Instituto Mexicano de la Propiedad Industrial para que, dentro del ámbito de su competencia, éste determine a más tardar dentro de los diez días hábiles posteriores a la recepción de la petición, si se invaden derechos de patente vigentes. En caso de que el Instituto Mexicano de la Propiedad Industrial concluya que existen patentes vigentes sobre la sustancia o ingrediente activo de las que el solicitante no sea titular o licenciatario, lo informará a la Secretaría para que ésta prevenga al solicitante con el objeto de que demuestre que es titular de la patente o que cuenta con la licencia respectiva, dentro del plazo que determine la Secretaría y que no podrá ser menor a cinco días hábiles contados a partir de que haya surtido efectos la notificación. En el supuesto de que el solicitante no subsane la omisión, la Secretaría desechará la solicitud e informará al solicitante los motivos de esta determinación para que, en su caso, los dirima ante la autoridad competente. La falta de respuesta del Instituto Mexicano de la Propiedad Industrial dentro del plazo señalado se entenderá en sentido favorable al solicitante.
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2026)</small>
+
+Cuando se trate de Medicamentos Genéricos o biocomparables, la persona solicitante podrá manifestar, bajo protesta de decir verdad, que no invade las patentes previstas en el listado de patentes relacionadas con invenciones susceptibles de ser empleadas en medicamentos alopáticos a que se refiere la Ley Federal de Protección a la Propiedad Industrial, respecto de la sustancia o ingrediente activo objeto de la solicitud. En este supuesto, la Secretaría pedirá de inmediato la cooperación técnica del Instituto Mexicano de la Propiedad Industrial para que, dentro del ámbito de su competencia, éste determine a más tardar dentro de los diez días hábiles posteriores a la recepción de la petición, si se invaden derechos de patente vigentes. En caso de que el Instituto Mexicano de la Propiedad Industrial concluya que existen patentes vigentes sobre la sustancia o ingrediente activo de las que la persona solicitante no sea titular o licenciataria, lo informará a la Secretaría para que ésta prevenga a la persona solicitante con el objeto de que demuestre que es titular de la patente o que cuenta con la licencia respectiva, dentro del plazo que determine la Secretaría y que no podrá ser menor a cinco días hábiles contado a partir de que haya surtido efectos la notificación. En el supuesto de que la persona solicitante no subsane la omisión, la Secretaría desechará la solicitud e informará a la persona solicitante los motivos de esta determinación para que, en su caso, los dirima ante la autoridad competente. La falta de respuesta del Instituto Mexicano de la Propiedad Industrial dentro del plazo señalado se entenderá en sentido favorable a la persona solicitante.
+
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2003)</small>
 
 Sin perjuicio de lo establecido en los dos párrafos anteriores, se podrá solicitar el registro de un genérico respecto de un medicamento cuya sustancia o ingrediente activo esté protegida por una patente, con el fin de realizar los estudios, pruebas y producción experimental correspondientes, dentro de los tres años anteriores al vencimiento de la patente. En este caso, el registro sanitario se otorgará solamente al concluir la vigencia de la patente.
 
+> <small>(ADICIONADO, D.O.F. 19 DE SEPTIEMBRE DE 2003)</small>
+
 La información a que se refieren los artículos 167 y 167 bis de este Reglamento que tenga el carácter de confidencial o reservada de conformidad con lo establecido en los tratados internacionales de los que México sea parte y con las demás disposiciones legales aplicables, estará protegida contra toda divulgación a otros particulares.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2026)</small>
+
+Tratándose de un medicamento alopático que contenga una Molécula Nueva conforme al artículo 2o, fracción XV, de este Reglamento la información técnica y científica concerniente a la seguridad, calidad y eficacia presentada en los términos del artículo 167 de este Reglamento, incluso cuando haya sido presentada basándose total o parcialmente en un registro sanitario otorgado en el extranjero, estará sujeta a protección por un periodo de cinco años contados a partir de la fecha de notificación del registro sanitario de dicho medicamento alopático. Durante ese periodo, ninguna persona podrá utilizar esa información para obtener un registro sanitario, salvo que presente el documento con el consentimiento expreso y por escrito de la persona titular de la información. La Secretaría informará a la persona titular del registro sanitario que la información presentada no podrá ser utilizada por terceras personas durante el periodo señalado.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VER ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1795,8 +1853,6 @@ Todo cambio de fabricación nacional a extranjera de un medicamento ameritará c
 
 Para autorizar el cambio de fabricación extranjera a nacional de cualquier medicamento registrado, se presentará la solicitud en el formato oficial y se cumplirá con lo establecido en los artículos 167, 173 y 174 de este Reglamento, según el medicamento de que se trate.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
-
 > <small>(REFORMADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
 ###### ARTÍCULO 177.
@@ -1819,19 +1875,21 @@ VII. Los procesos de fabricación, formulación, llenado y acondicionamiento, as
 
 VIII. Los proyectos de etiqueta y del instructivo correspondiente, así como las especificaciones de los envases primario y secundario, de conformidad con la Ley, este Reglamento y demás disposiciones aplicables;
 
-IX. Programa de farmacovigilancia intensiva, de conformidad con las disposiciones que resulten aplicables, y
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2026)</small>
+
+IX. Plan de manejo de riesgo, de conformidad con las disposiciones que resulten aplicables, y
 
 X. Los estudios preclínicos y clínicos que señale la Secretaría como necesarios para demostrar la seguridad, eficacia y calidad del producto, de acuerdo a lo establecido en la Ley, este Reglamento y demás disposiciones jurídicas aplicables, incluyendo el reporte de eventos adversos e inmunogenicidad, caracterizando la respuesta inmune y la evaluación de la correlación entre anticuerpos neutralizantes de la farmacocinética y farmacodinamia del producto.
 
-Todos los medicamentos biotecnológicos innovadores, deberán presentarse para ser evaluados ante el Comité de Moléculas Nuevas y deberán ser estudiados por el Subcomité de Evaluación de Productos Biotecnológicos previamente al sometimiento de la solicitud de registro sanitario, para determinar si las pruebas clínicas son efectivas para demostrar su seguridad, calidad y eficacia.
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2026)</small>
+
+Tratándose de medicamentos biotecnológicos innovadores, la Secretaría, por conducto de la Comisión Federal para la Protección Contra Riesgos Sanitarios, solicitará la opinión técnica del Comité de Moléculas Nuevas y del Subcomité de Evaluación de Productos Biotecnológicos. Para el caso de solicitudes que cuenten con una autorización previa emitida por una autoridad regulatoria extranjera reconocida por la Secretaría, solo se solicitará dicha opinión técnica en los casos donde se identifique algún riesgo asociado al medicamento biotecnológico innovador para demostrar su seguridad, calidad y eficacia.
 
 Para el caso de medicamentos biotecnológicos innovadores de fabricación extranjera además de los documentos anteriores se deberán anexar los establecidos en las fracciones I, II y III del artículo 170 del presente Reglamento.
 
 La Secretaría resolverá las solicitudes de registro de medicamentos biotecnológicos innovadores en un plazo de ciento ochenta días naturales, contados a partir del día siguiente a aquel en que se presente la solicitud de registro correspondiente. La Secretaría podrá solicitar información faltante, por única ocasión, durante los primeros ciento veinte días naturales del plazo antes referido, teniendo el interesado un máximo de cien días hábiles para responder, contados a partir del día siguiente a aquel en que haya sido notificado de la prevención respectiva.
 
 En caso de que la Secretaría no emita la resolución respectiva en el plazo señalado, la solicitud de registro se entenderá resuelta en sentido negativo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL REGLAMENTO.</small>
 
 > <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
@@ -1841,15 +1899,25 @@ bis 1. Los estudios clínicos de los medicamentos biotecnológicos innovadores, 
 
 I. Cuando el medicamento se fabrique en el territorio nacional, y
 
-II. Cuando la fabricación y los estudios mencionados se hayan realizado en el extranjero y así lo determine la Secretaría, con base en la opinión del Comité de Moléculas Nuevas, previa consulta que éste realice al Subcomité de Evaluación de Productos Biotecnológicos.
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2026)</small>
+
+II. Cuando la fabricación y los estudios mencionados se hayan realizado en el extranjero, la Secretaría, por conducto de la Comisión Federal para la Protección contra Riesgos Sanitarios, podrá determinar su procedencia con base en la opinión técnica que solicite al Comité de Moléculas Nuevas, el cual consultará al Subcomité de Evaluación de Productos Biotecnológicos, en los casos donde se identifique algún riesgo asociado al medicamento biotecnológico innovador.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2026)</small>
+
+###### ARTÍCULO 177 Bis 2.
+
+Para obtener el registro sanitario de medicamentos biotecnológicos biocomparables se requiere presentar solicitud en el formato oficial, que para tal efecto se publique en el Diario Oficial de la Federación, a la que se anexará la documentación contenida en las fracciones I a IX del artículo 177 de este Reglamento y los estudios preclínicos y clínicos como estudios de biocomparabilidad, estudios de inmunogenicidad y reportes de eventos adversos.
+
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2026)</small>
+
+Como parte del proceso de evaluación de la solicitud de registro sanitario, la Secretaría, a través de la Comisión Federal para la Protección contra Riesgos Sanitarios, solicitará la opinión técnica del Comité de Moléculas Nuevas. Para el caso de solicitudes que cuenten con una autorización previa emitida por una autoridad regulatoria extranjera reconocida por la Secretaría, solo se solicitará dicha opinión técnica en los casos donde se identifique algún riesgo asociado al medicamento biotecnológico biocomparable.
 
 > <small>(REFORMADO, D.O.F. 31 DE MAYO DE 2021)</small>
 
-###### ARTÍCULO 177
-
-bis 2. Para obtener el registro sanitario de medicamentos biotecnológicos biocomparables se requiere presentar solicitud en el formato oficial, que para tal efecto se publique en el Diario Oficial de la Federación, a la que se anexará la documentación contenida en las fracciones I a IX del artículo 177 y los estudios preclínicos y clínicos como estudios de biocomparabilidad, estudios de inmunogenicidad y reportes de eventos adversos, y otros que la Secretaría determine, previa opinión del Comité de Moléculas Nuevas.
-
 Una vez que un medicamento biotecnológico biocomparable haya demostrado su biocomparabilidad, le serán autorizadas las indicaciones que tenga aprobadas el medicamento biotecnológico de referencia, siempre y cuando el medicamento biotecnológico biocomparable se presente en la misma forma farmacéutica y dosis que el biotecnológico de referencia y que dichas indicaciones compartan el mismo mecanismo de acción o que el medicamento biotecnológico biocomparable presente el mismo efecto farmacodinámico, ya sea de acuerdo a lo publicado por el de referencia, o en su caso de acuerdo a la experiencia clínica y evidencia científica disponible. Lo anterior sin perjuicio de lo dispuesto en los tratados internacionales de los que México sea parte.
+
+> <small>(REFORMADO, D.O.F. 31 DE MAYO DE 2021)</small>
 
 Sin perjuicio de lo establecido en los párrafos anteriores, se podrá solicitar el registro de un medicamento biocomparable respecto de un medicamento biotecnológico protegido por una patente, con el fin de realizar los estudios, pruebas y producción experimental correspondientes, dentro de los ocho años anteriores al vencimiento de la patente. En cuyo caso, el registro sanitario se otorgará solamente al concluir la vigencia de la patente.
 
@@ -1863,27 +1931,37 @@ bis 3. El alcance de las pruebas clínicas de biocomparabilidad deberá estar su
 
 La posología, la dosis y la ruta de administración del medicamento biotecnológico biocomparable deben ser las mismas que las del medicamento biotecnológico de referencia.
 
-> <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2026)</small>
 
 ###### ARTÍCULO 177
 
-bis 4. Los estudios preclínicos y clínicos, en los que el solicitante del registro de medicamentos biotecnológicos biocomparables sustente su solicitud, deberán utilizar el medicamento biotecnológico de referencia correspondiente, para la realización de los estudios comparativos y físico-químicos. Para tal efecto deberá presentar la siguiente información documental:
+bis 4. Los estudios preclínicos y clínicos, en los que la persona solicitante del registro de medicamentos biotecnológicos biocomparables sustente su solicitud, deberán utilizar el medicamento biotecnológico de referencia correspondiente, para la realización de los estudios comparativos y físico-químicos. Para tal efecto deberá presentar la siguiente información documental:
 
-> <small>(REFORMADA, D.O.F. 31 DE MAYO DE 2021)</small>
+> <small>(REFORMADA, D.O.F. 24 DE ABRIL DE 2026)</small>
 
-I. Los estudios in vitro. No se requerirán de éstos cuando la Secretaría así lo determine, con base en la opinión del Comité de Moléculas Nuevas.
+I. Los estudios in vitro. No se requerirán de éstos cuando la Secretaría así lo determine;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 31 DE MAYO DE 2021)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 24 DE ABRIL DE 2026)</small>
 
-II. Los reportes de los estudios preclínicos en animales incluyendo la información que compare al medicamento biotecnológico de referencia y al medicamento biotecnológico biocomparable. Dichos estudios preclínicos deberán realizarse en especies animales relevantes para el modelo de estudio y deben incluir, de conformidad con la opinión que al efecto emita el Comité de Moléculas Nuevas, los siguientes datos:
+II. Los reportes de los estudios preclínicos en animales incluyendo la información que compare al medicamento biotecnológico de referencia y al medicamento biotecnológico biocomparable. Dichos estudios preclínicos deberán realizarse en especies animales relevantes para el modelo de estudio. Asimismo, deberán contener los siguientes elementos:
+
+> <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
 a. Reporte comparativo del efecto farmacodinámico y actividad relevante para la aplicación clínica;
 
+> <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
+
 b. Reporte comparativo de toxicología en al menos un estudio de toxicidad de dosis repetida, incluyendo mediciones toxicocinéticas;
+
+> <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
 c. La duración reportada de los estudios debe estar técnicamente justificada para permitir la detección de diferencias relevantes en la toxicidad y respuestas inmunes entre el medicamento biotecnológico biocomparable y el medicamento biotecnológico de referencia;
 
+> <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
+
 d. Si los resultados de los estudios mencionados no son suficientes, se deberán incluir observaciones relevantes en el mismo estudio toxicológico de dosis repetida, incluyendo, tolerabilidad local, e
+
+> <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
 e. Sólo se requerirán reportes de otros estudios toxicológicos como seguridad farmacológica, toxicología reproductiva, mutagénesis y carcinogénesis para la evaluación de medicamentos biotecnológicos biocomparables, si los resultados de los estudios de dosis repetida así lo requieren;
 
@@ -1891,27 +1969,47 @@ e. Sólo se requerirán reportes de otros estudios toxicológicos como seguridad
 
 III. Un reporte de estudios comparativos de farmacocinética cuando así lo determine la Secretaría, tomando en cuenta la opinión del Comité de Moléculas Nuevas, para demostrar biocomparabilidad farmacocinética entre el medicamento biotecnológico biocomparable y el medicamento biotecnológico de referencia en relación a los parámetros claves;
 
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE OCTUBRE DE 2011)</small>
+
 IV. Los reportes de estudios de farmacodinamia con las siguientes características:
+
+> <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
 a. Los marcadores para farmacodinamia deben seleccionarse de acuerdo a su relevancia para demostrar eficacia terapéutica del producto;
 
+> <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
+
 b. El efecto farmacodinámico del medicamento biotecnológico biocomparable y del medicamento biotecnológico de referencia debe compararse en una población donde puedan observarse las posibles diferencias, e
+
+> <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
 c. El diseño y duración de los estudios deben justificarse.
 
+> <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
+
 Los estudios combinados de farmacocinética y farmacodinamia pueden proporcionar información de utilidad sobre la relación entre la exposición y el efecto, y
+
+> <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
 V. Los estudios clínicos de eficacia y seguridad comparativa para demostrar semejanza clínica entre el medicamento biotecnológico biocomparable y el medicamento biotecnológico de referencia. Dichos estudios deberán contar con las siguientes características:
 
+> <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
+
 a. Los parámetros y márgenes de biocomparabilidad clínica deben haberse justificado y especificado previamente a la realización de dichos estudios y deben estar claramente señalados en el reporte de los estudios de eficacia y seguridad comparativos que se presente a evaluación;
+
+> <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
 b. Cumplir con la normatividad aplicable de buenas prácticas de investigación clínica que aseguren la validez científica del estudio, e
 
+> <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
+
 c. Para aquellos medicamentos en donde la respuesta inmune pudiera afectar a la proteína endógena o a su función biológica, las pruebas de anticuerpos deben realizarse en los ensayos clínicos de seguridad, tomando en cuenta el papel que pudieran tener la hipersensibilidad, reacciones de infusión, la autogenicidad y pérdida de la eficacia.
 
-> <small>(REFORMADO, D.O.F. 31 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2026)</small>
 
-Para efecto de las fracciones anteriores, los requerimientos específicos para la aprobación de cada medicamento biotecnológico biocomparable serán determinados por la Secretaría considerando la opinión del Comité de Moléculas Nuevas.
+Para efecto de las fracciones anteriores siempre y cuando resulten aplicables, los requerimientos específicos para la aprobación de cada medicamento biotecnológico biocomparable serán determinados por la Secretaría, por conducto de la Comisión Federal para la Protección contra Riesgos Sanitarios.
+
+> <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
 Para el caso de los estudios de biocomparabilidad en relación con un medicamento biotecnológico de referencia, el mismo deberá ser usado durante todo el desarrollo del medicamento biotecnológico biocomparable, para comparar la calidad y los estudios preclínicos y clínicos.
 
@@ -1927,17 +2025,23 @@ Los estudios clínicos de los medicamentos biotecnológicos biocomparables, podr
 
 Cuando el solicitante del registro del medicamento biotecnológico biocomparable sustente su solicitud en los estudios clínicos de origen, deberá presentar estudios clínicos realizados en México cuando solicite la prórroga correspondiente.
 
+> <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
+
 Para el caso de medicamentos biotecnológicos biocomparables de fabricación extranjera además de los documentos anteriores se deberán anexar los establecidos en las fracciones I, II y III del artículo 170 del presente Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
 
 La Secretaría resolverá las solicitudes de registro de medicamentos biotecnológicos biocomparables en un plazo de ciento ochenta días naturales, contados a partir del día siguiente a aquel en que se presente la solicitud de registro correspondiente. La Secretaría podrá solicitar información faltante, por única ocasión, dentro de los primeros ciento veinte días naturales del plazo antes referido, teniendo el interesado un máximo de cien días hábiles, contados a partir del día siguiente a aquel en que haya sido notificado de la prevención respectiva para su desahogo.
 
+> <small>(ADICIONADO, D.O.F. 19 DE OCTUBRE DE 2011)</small>
+
 En caso de que la Secretaría no emita la resolución respectiva en el plazo señalado, la solicitud de registro se entenderá resuelta en sentido negativo.
 
-> <small>(REFORMADO, D.O.F. 31 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2026)</small>
 
 ###### ARTÍCULO 177
 
-bis 5. Un medicamento biotecnológico innovador o un medicamento biotecnológico biocomparable puede ser aprobado para su uso en otras indicaciones clínicas, siempre y cuando exista justificación científica aprobada mediante los estudios clínicos, que determine la Secretaría considerando la opinión del Comité de Moléculas Nuevas.
+bis 5. Un medicamento biotecnológico innovador o un medicamento biotecnológico biocomparable puede ser aprobado para su uso en otras indicaciones clínicas, siempre y cuando exista justificación científica aprobada mediante los estudios clínicos, que determine la Secretaría, por conducto de la Comisión Federal para la Protección contra Riesgos Sanitarios.
 
 ###### ARTÍCULO 178.
 
@@ -2065,11 +2169,11 @@ En el oficio en el que se autorice la modificación a las condiciones de registr
 
 La cesión de derechos de un registro sanitario de los Insumos de que trata este Reglamento, deberá comunicarse por escrito a la Secretaría por el nuevo titular, en un plazo no mayor de treinta días hábiles contados a partir de la fecha en que se hubiere realizado. A esta comunicación se anexarán los documentos en los que conste la cesión y los proyectos de Etiqueta por duplicado en los que se exprese el nuevo titular.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE MAYO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2026)</small>
 
 ###### ARTÍCULO 190
 
-bis 1. Para obtener la primera prórroga del registro sanitario de medicamentos se deberá presentar con la solicitud, exclusivamente lo siguiente:
+bis 1. Para obtener la primera prórroga del registro sanitario de medicamentos, la cual será otorgada por un periodo de diez años, conforme a lo dispuesto en el artículo 376 de la Ley, se deberá presentar con la solicitud, exclusivamente lo siguiente:
 
 > <small>(ADICIONADA, D.O.F. 2 DE ENERO DE 2008)</small>
 
@@ -2117,11 +2221,11 @@ III. Para el caso de medicamentos herbolarios, homeopáticos, y vitamínicos cua
 
 En caso de que el solicitante presente el certificado de buenas prácticas de fabricación del medicamento emitido por una agencia reguladora nacional que no sea reconocida por la Secretaría, ésta verificará el cumplimiento de las buenas prácticas de fabricación del medicamento, de conformidad con las Normas correspondientes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 31 DE MAYO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2026)</small>
 
 ###### ARTÍCULO 190
 
-bis 3. Para obtener la primera prórroga del registro sanitario de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, material quirúrgico, de curación, productos higiénicos, y otros dispositivos de uso médico, que sean de fabricación nacional, se deberá presentar en el siguiente orden y con la solicitud exclusivamente lo siguiente:
+bis 3. Para obtener la primera prórroga del registro sanitario de equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, material quirúrgico, de curación, productos higiénicos, y otros dispositivos de uso médico, que sean de fabricación nacional, la autorización se otorgará por un periodo de diez años, conforme a lo dispuesto en el artículo 376 de la Ley, se deberá presentar en el siguiente orden y con la solicitud exclusivamente lo siguiente:
 
 > <small>(ADICIONADA, D.O.F. 2 DE ENERO DE 2007)</small>
 
@@ -2185,13 +2289,17 @@ bis 6. Las solicitudes de prórroga previstas en los artículos 190 Bis 1, 190 B
 
 La Secretaría resolverá las solicitudes de prórroga de Insumos en un plazo máximo de ciento veinte días naturales siguientes a la presentación de la solicitud. Cuando el último día del plazo sea inhábil, se entenderá prorrogado hasta el día siguiente hábil. En caso de que la Secretaría no emita la resolución respectiva en los plazos señalados en este artículo, se entenderá procedente la solicitud.
 
-> <small>(ADICIONADO, D.O.F. 31 DE MAYO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ABRIL DE 2026)</small>
 
 ###### ARTÍCULO 190
 
-bis 7. Los titulares de los Registros Sanitarios previstos en los artículos 190 Bis 1, 190 Bis 2, 190 Bis 3 y 190 Bis 4 de este Reglamento, para obtener su segunda prórroga y posteriores, deberán presentar a la Secretaría, cada cinco años y a más tardar ciento cincuenta días naturales antes de la fecha en que concluya la vigencia, la solicitud correspondiente, utilizando los formatos que dicha Secretaría expida para tal efecto.
+bis 7. Las personas titulares de los registros sanitarios previstos en los artículos 190 Bis 1, 190 Bis 2, 190 Bis 3 y 190 Bis 4 de este Reglamento, para obtener su segunda prórroga y posteriores, deberán presentar a la Secretaría, cada diez años conforme a lo dispuesto en el artículo 376 de la Ley, y a más tardar ciento cincuenta días naturales antes de la fecha en que concluya la vigencia, la solicitud correspondiente, utilizando los formatos que dicha Secretaría expida para tal efecto.
+
+> <small>(ADICIONADO, D.O.F. 31 DE MAYO DE 2021)</small>
 
 La constancia que emita la Secretaría, como acuse de recibo a la solicitud presentada, surtirá los efectos de prórroga del Registro Sanitario, la cual deberá conservar la misma clave alfanumérica asignada conforme a lo dispuesto por el artículo 165 de este Reglamento.
+
+> <small>(ADICIONADO, D.O.F. 31 DE MAYO DE 2021)</small>
 
 De no presentarse las solicitudes en el período establecido para tal efecto, el Registro Sanitario perderá su vigencia y deberá solicitarse un nuevo registro conforme a lo dispuesto en este Reglamento.
 
@@ -2664,3 +2772,17 @@ CUARTO.- A partir de la entrada en vigor del presente Decreto, los fabricantes o
 QUINTO.- Las solicitudes de prórroga de Registro Sanitario que se encuentren en trámite a la entrada en vigor del presente Decreto, así como las que se deban presentar durante el periodo que transcurra hasta la publicación del formato a que se refiere el primer párrafo del artículo 190 Bis 7, se atenderán hasta su conclusión conforme a las disposiciones vigentes al momento de su presentación.
 
 SEXTO.- Los titulares de registros sanitarios que cuenten con una primera prórroga, podrán solicitar la segunda o posteriores, una vez publicado el formato a que se refiere el primer párrafo del artículo 190 Bis 7 del presente Decreto, hasta en tanto se haga la publicación referida, se deberán ajustar a los requisitos y formatos vigentes al momento de presentación de la solicitud de prórroga correspondiente.
+
+D.O.F. 24 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE INSUMOS PARA LA SALUD".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, se regirán y substanciarán hasta su conclusión conforme a las disposiciones vigentes al momento de su presentación.
+
+TERCERO. La Secretaría de Salud, dentro de los ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto, deberá realizar las adecuaciones normativas y administrativas necesarias para su debida implementación.
+
+En tanto se emiten dichas adecuaciones, continuarán aplicándose las disposiciones vigentes con anterioridad, en todo aquello que no contravenga lo dispuesto en el presente Decreto, debiendo la autoridad competente aplicar directamente las disposiciones de éste, en caso de conflicto.
+
+CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para los ejecutores de gasto correspondientes, por lo que no se incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate y subsecuentes.
