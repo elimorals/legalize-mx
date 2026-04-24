@@ -4,7 +4,7 @@ identifier: "FED-reglamento-en-materia-de-registros-autorizaciones-de-41935"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-12-28"
-last_updated: "2014-02-13"
+last_updated: "2026-04-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41935&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2004-12-23"
 
 REGLAMENTO EN MATERIA DE REGISTROS, AUTORIZACIONES DE IMPORTACIÓN Y EXPORTACIÓN Y CERTIFICADOS DE EXPORTACIÓN DE PLAGUICIDAS, NUTRIENTES VEGETALES Y SUSTANCIAS Y MATERIALES TÓXICOS O PELIGROSOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE ABRIL DE 2026.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el martes 28 de diciembre de 2004.
 
@@ -112,6 +112,10 @@ XXX. Micronutrientes, los nutrientes que las plantas requieren en pequeñas cant
 XXXI. Nomenclatura, las reglas internacionalmente reconocidas para nombrar una sustancia;
 
 XXXII. Nomenclatura CAS, las reglas reconocidas por la CAS;
+
+> <small>(ADICIONADA, D.O.F. 24 DE ABRIL DE 2026)</small>
+
+XXXII Bis. Nuevo producto químico agrícola, aquél plaguicida o nutriente vegetal que contiene un ingrediente activo que no ha sido utilizado en un plaguicida o nutriente vegetal que haya obtenido un registro conforme al presente Reglamento;
 
 XXXIII. Número CAS, identificador numérico permanente, inconfundible y único que otorga la CAS a cada sustancia descrita en la literatura científica, incluyendo a los plaguicidas;
 
@@ -385,35 +389,33 @@ Vencido este plazo sin que COFEPRIS emita una resolución, se entenderá en sent
 
 Quedan exentos de seguir este procedimiento aquellos productos cuyo registro se solicite a través de un programa de evaluación conjunta que estén llevando a cabo las autoridades en materia de registro de plaguicidas de los Estados Unidos Mexicanos con las autoridades en materia de registro de plaguicidas de cualquiera de sus socios comerciales. El procedimiento a seguir será el acordado entre las autoridades mexicanas, las autoridades de dicho país o países y el particular.
 
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2026)</small>
+
 ###### Artículo 10.
 
 Para la obtención de los registros a que se refiere el presente Capítulo, el interesado deberá:
 
 I. Presentar ante COFEPRIS la siguiente documentación:
 
-a) Formato oficial de solicitud de registro debidamente requisitado, firmado por el interesado o su representante legal, a menos que no sepa o no pueda firmar, en cuyo caso deberá imprimir su huella digital;
+a) El formato o formulario de solicitud;
 
-b) Documento que acredite la personalidad jurídica del promovente, cuando se trate de personas morales o se actúe en representación de otro, el número de referencia del Registro de Personas Acreditadas o el número de referencia del trámite en el que haya acreditado previamente la personalidad jurídica en caso de haber realizado algún otro trámite ante COFEPRIS y, en su caso, documento en el que se designen las personas autorizadas para oír y recibir documentos y notificaciones;
+b) Documento que acredite la representación legal para personas físicas o morales, así como la identificación oficial del apoderado o representante legal y de los autorizados, únicamente en el caso de acreditar la personalidad por primera vez y modificaciones al representante legal;
 
 c) La documentación a que se refieren los artículos 11 y 12 de este Reglamento, conforme al tipo de producto de que se trate;
 
-d) Comprobante de pago de derechos en la forma autorizada por la Secretaría de Hacienda y Crédito Público por la cantidad establecida en la Ley Federal de Derechos vigente, y
+d) Comprobante de pago de derechos en la forma autorizada por la Secretaría de Hacienda y Crédito Público por la cantidad establecida en la Ley Federal de Derechos vigente;
 
-e) Copia del aviso de funcionamiento para el caso de las comercializadoras o número de licencia sanitaria para el caso de fábricas o formuladoras de plaguicidas y nutrientes vegetales.
+e) Indicar número de licencia sanitaria para el caso de fábricas, formuladoras o maquiladoras de plaguicidas y nutrientes vegetales o del aviso de funcionamiento para el caso de las comercializadoras;
 
-> <small>(REFORMADO, D.O.F. 13 DE FEBRERO DE 2014)</small>
+f) Documento con el consentimiento expreso de la persona titular de la información concerniente a la seguridad y eficacia de un nuevo producto químico agrícola que cuente con un registro emitido conforme a este Reglamento, cuando el producto utilice total o parcialmente esta información, si no han transcurrido más de diez años desde la fecha de emisión del registro del nuevo producto químico agrícola, y
 
-La documentación referida deberá ser entregada en original y copia. El interesado presentará además copia del formato de solicitud y escrito libre en el que se especifique la información que integra el expediente, como acuse de recibo en donde se asentará el número asignado y el sello de recibido, así como la relación y descripción de los anexos.
+g) En caso de que el producto cuente con una patente vigente en México, la persona solicitante deberá presentar el documento emitido por el Instituto Mexicano de la Propiedad Industrial que acredite su titularidad o, de ser el caso, la constancia de la licencia de explotación correspondiente inscrita ante el mismo Instituto.
 
-> <small>(REFORMADO, D.O.F. 13 DE FEBRERO DE 2014)</small>
-
-Según convenga al interesado, los documentos podrán ser presentados en copia certificada o, en su defecto, en original que ostente la firma autógrafa de su emisor o copia certificada y copia simple, para el efecto de su cotejo y la devolución de aquel al promovente;
-
-> <small>(REFORMADA, D.O.F. 13 DE FEBRERO DE 2014)</small>
+La documentación referida deberá ser entregada en original o según convenga al interesado en copia certificada que ostente la firma autógrafa de su emisor. El interesado presentará además la información que integra el expediente como acuse de recibo en donde se asentará el número asignado y el sello de recibido, así como la relación y descripción de los anexos.
 
 II. Entregar la documentación a que se refiere la fracción I, clasificada conforme a los siguientes apartados:
 
-a) Primero: la información prevista en los incisos a), b), d) y e), así como la relacionada con los formatos, cartas-compromiso, licencias, certificados, y demás escritos libres que el promovente presente para apoyar su solicitud;
+a) Primero: la información prevista en los incisos a), b), d) y f), así como la relacionada con los formatos, cartas-compromiso, y demás escritos libres que el promovente presente para apoyar su solicitud;
 
 b) Segundo: la información relacionada con la identidad y composición del producto, sus propiedades físicas, químicas y biológicas, los métodos analíticos, la información técnica, análisis de su cuantificación y de laboratorio, resúmenes de fabricación y tabla de especificaciones de los límites de fabricación;
 
@@ -422,8 +424,6 @@ c) Tercero: la información toxicológica, los límites máximos de residuos y e
 d) Cuarto: la copia del formato de solicitud, información ecotoxicológica y de destino ambiental y copia del proyecto de etiqueta, y
 
 e) Quinto: la copia del formato de solicitud, copia de la información relativa con las propiedades físicas que corresponden al tipo de formulación, los límites máximos de residuos, número de dictamen de efectividad biológica y copia del proyecto de etiqueta.
-
-> <small>(ADICIONADO, D.O.F. 13 DE FEBRERO DE 2014)</small>
 
 COFEPRIS publicará en su página de internet las bases de datos de registros otorgados así como las solicitudes de registro en trámite, las cuales serán actualizadas al menos cada 30 días naturales a partir del inicio de su publicación.
 
@@ -2091,6 +2091,16 @@ En caso de tratarse de un proveedor en el extranjero que no haya registrado prev
 
 Para el caso de la efectividad biológica el interesado deberá ingresar el oficio emitido por SAGARPA en el que se da por enterada del acceso a la información de la efectividad biológica y su dictamen técnico por parte del proveedor del producto formulado.
 
+> <small>(ADICIONADO, D.O.F. 24 DE ABRIL DE 2026)</small>
+
+###### Artículo 13 Bis.
+
+La información concerniente a la seguridad y eficacia de un nuevo producto químico agrícola, incluyendo la información físico-química, física de formulación, toxicológica, ecotoxicológica y de destino ambiental, será presentada para la obtención de un registro conforme al presente Reglamento.
+
+La autoridad competente no permitirá que terceros, sin el consentimiento expreso de la persona titular de dicha información, obtengan un registro para comercializar el mismo producto o un producto similar, con base en esa información o en el registro sanitario previamente otorgado, durante un periodo de diez años contado a partir de la fecha en que se haya otorgado el primer registro del nuevo producto químico agrícola en territorio nacional.
+
+Lo dispuesto en el párrafo anterior será aplicable incluso cuando la solicitud de registro del nuevo producto químico agrícola se haya sustentado total o parcialmente en una autorización de comercialización otorgada en el extranjero.
+
 > <small>(REFORMADO, D.O.F. 13 DE FEBRERO DE 2014)</small>
 
 ###### Artículo 14.
@@ -2453,11 +2463,11 @@ IV. COFEPRIS emitirá resolución dentro de los veinte días hábiles siguientes
 
 La constancia relativa a la prórroga del registro, solo será entregada contra recibo de la constancia original del registro objeto de la prórroga que ostente la firma autógrafa de su emisor.
 
-> <small>(ADICIONADO, D.O.F. 13 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 24 DE ABRIL DE 2026)</small>
 
 ###### Artículo 23 Bis 4.
 
-La prórroga del registro tendrá una vigencia de 5 años contados a partir de su emisión y podrá ser revisada en cualquier momento por COFEPRIS, de conformidad con lo dispuesto en la Ley General de Salud.
+La prórroga del registro tendrá una vigencia de 10 años contados a partir de su emisión y podrá ser revisada en cualquier momento por COFEPRIS, de conformidad con lo dispuesto en la Ley General de Salud.
 
 ## TÍTULO TERCERO. DE LAS AUTORIZACIONES DE IMPORTACIÓN
 
@@ -2786,3 +2796,17 @@ SEXTO.- Para los casos de los registros de plaguicidas de uso industrial otorgad
 SÉPTIMO.- Se derogan los Lineamientos para el otorgamiento de prórroga de los registros otorgados por tiempo determinado, de conformidad con el Reglamento en Materia de Registros, Autorizaciones de Importación y Exportación y Certificados de Exportación de Plaguicidas, Nutrientes Vegetales y Sustancias y Materiales Tóxicos o Peligrosos, publicados en el Diario Oficial de la Federación el 20 de mayo de 2011.
 
 OCTAVO.- En tanto se expide la norma oficial mexicana a que se refieren los artículos 12 último párrafo y 26 fracción III inciso b) del presente Reglamento, se podrán aceptar los límites máximos de residuos establecidos por la Agencia para la Protección Ambiental de los Estados Unidos de América, por Codex Alimentarius o en su defecto, por los establecidos por la Unión Europea o cualquier país que forma parte de esta, por Brasil, Japón, Australia y los ya establecidos en países miembros de la OCDE, previo análisis de riesgo por parte de COFEPRIS.
+
+D.O.F. 24 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO EN MATERIA DE REGISTROS, AUTORIZACIONES DE IMPORTACIÓN Y EXPORTACIÓN Y CERTIFICADOS DE EXPORTACIÓN DE PLAGUICIDAS, NUTRIENTES VEGETALES Y SUSTANCIAS Y MATERIALES TÓXICOS O PELIGROSOS”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto, se regirán y substanciarán hasta su conclusión conforme a las disposiciones vigentes al momento de su presentación.
+
+TERCERO.- La Secretaría de Salud, dentro de los ciento ochenta días naturales contados a partir de la entrada en vigor del presente Decreto, deberá realizar las adecuaciones normativas y administrativas necesarias para su debida implementación.
+
+En tanto se emiten dichas adecuaciones, continuarán aplicándose las disposiciones vigentes con anterioridad, en todo aquello que no contravenga lo dispuesto en el presente Decreto, debiendo la autoridad competente aplicar directamente las disposiciones de éste, en caso de conflicto.
+
+CUARTO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo al presupuesto autorizado para los ejecutores de gasto correspondientes, por lo que no se incrementará su presupuesto regularizable, y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate y subsecuentes.
