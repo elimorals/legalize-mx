@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-entrega-recepcion-del-estado-de-zacatecas-129384"
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-16"
-last_updated: "2021-07-07"
+last_updated: "2026-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE ENTREGA-RECEPCIÓN DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JULIO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2026.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 16 de junio de 2018.
 
@@ -701,7 +701,9 @@ II. Instrumentos de planeación;
 
 III. Información contable-financiera;
 
-IV. Información presupuestaria;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2026)</small>
+
+IV. Información presupuestaria que deberá contener el informe de grado de implementación y cumplimiento del presupuesto basado en resultados y el sistema de evaluación del desempeño;
 
 V. Información programática;
 
@@ -1418,3 +1420,9 @@ P.O. 7 DE JULIO DE 2021.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Estado de Zacatecas.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 195.- SE REFORMA LA FRACCIÓN IV, DEL ARTÍCULO 42 DE LA LEY DE ENTREGA-RECEPCIÓN DEL ESTADO DE ZACATECAS".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
