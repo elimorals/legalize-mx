@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-el-desarrollo-rural-integral-sustentable-del-96743"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-30"
-last_updated: "2025-10-08"
+last_updated: "2026-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY PARA EL DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2026.
 
 Ley publicada en el Suplemento 2 del Periódico Oficial del Estado de Zacatecas, el sábado 30 de noviembre de 2013.
 
@@ -136,6 +136,10 @@ XXX. Participación Social.- Integración efectiva de la ciudadanía en la elabo
 XXXI. P.E.E.C.- El Programa Estatal Especial Concurrente;
 
 XXXII. Productos Estratégicos.- Los productos agropecuarios cuyo proceso productivo se relaciona con segmentos significativos de la población rural o que son estratégicos para el desarrollo del Estado de Zacatecas;
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2026)</small>
+
+XXXII BIS. Producción Orgánica. Sistema de producción y procesamiento de alimentos, productos y subproductos animales, vegetales u otros satisfactores, sin la utilización de productos de síntesis química;
 
 XXXIII. Programas Sectoriales.- Los programas específicos del Gobierno del Estado que establecen las políticas, objetivos, presupuestos e instrumentos para cada uno de los ámbitos del desarrollo, de acuerdo a la Ley de Planeación para el Desarrollo del Estado de Zacatecas;
 
@@ -1067,9 +1071,9 @@ Impulso a la investigación
 
 La Secretaría impulsará la investigación, el desarrollo, transferencia y apropiación de ciencia y tecnología, que favorezcan el desarrollo de la población rural, a través de convenios con organismos públicos, privados y sociales dedicados a dichas actividades.
 
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2016)</small>
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2026)</small>
 
-También impulsará programas y políticas públicas que promuevan la difusión y apropiación de conocimientos científicos y tecnológicos en las actividades económicas del sector rural. Para ello se trabajará de manera coordinada con universidades públicas y privadas así como con el sector privado que esté vinculado con el sector agropecuario.
+También impulsará programas y políticas públicas que promuevan la difusión y apropiación de conocimientos científicos y tecnológicos, así como la capacitación en el uso y aplicación de herramientas tecnológicas e inteligencia artificial en las actividades del sector rural. Para ello se trabajará de manera coordinada con universidades públicas y privadas, el Consejo Zacatecano de Ciencia, Tecnología e Innovación, el sector privado y organismos especializados vinculados al sector agropecuario.
 
 Promoción de la ciencia y tecnología
 
@@ -1101,11 +1105,35 @@ Capacitación y asistencia técnica
 
 La Secretaría impulsará y desarrollará la capacitación y asistencia técnica, atendiendo la demanda de la población rural y de sus organizaciones; se establecerá el SECAT, instituyendo una relación directa entre los profesionales técnicos y los productores, mediante la oferta de servicios especializados que eleven la competitividad en el sector.
 
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2026)</small>
+
+Principios
+
+Artículo 63 BIS. La política de capacitación y asistencia técnica que implemente el Gobierno del Estado a través de la Secretaría, tendrá como propósito:
+
+I. Desarrollar la capacidad de los productores para el mejor desempeño de sus actividades agropecuarias, y de desarrollo rural sustentable;
+
+II. Impulsar sus habilidades empresariales;
+
+III. Fortalecer la autonomía del productor, así como de los diversos agentes del sector, fomentando la creación de capacidades que les permitan apropiarse del proceso productivo y definir su papel en el proceso económico y social;
+
+IV. Habilitar a los productores para el aprovechamiento de las oportunidades y el conocimiento y cumplimiento de la normatividad en materia ambiental y de bioseguridad;
+
+V. Promover y divulgar el conocimiento para el mejor aprovechamiento de los programas y apoyos institucionales que se ofrecen en esta materia;
+
+VI. Proporcionar a los productores y agentes de la sociedad rural, conocimientos para acceder y participar activamente en los mecanismos relativos al crédito y financiamiento;
+
+VII. Habilitar a los productores para acceder a la información de mercados y mecanismos de acceso a los mismos, y
+
+VIII. Contribuir a elevar el nivel educativo y tecnológico en el medio rural.
+
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2026)</small>
+
 SECAT
 
 ###### Artículo 64.
 
-El SECAT será la instancia permanente para la evaluación y seguimiento de los programas, en la materia, que se desarrollen en el Estado.
+Para dar cumplimiento con lo establecido en el artículo anterior, el SECAT será la instancia permanente para la evaluación y seguimiento de los programas, en la materia, que desarrollen las dependencias y entidades del sector público y los sectores social y privado.
 
 Vinculación
 
@@ -1153,6 +1181,24 @@ III. Organizativos.- Constitución de figuras asociativas, reglamentación, admi
 
 IV. Planeación Administrativa y Comercial.- Talleres de administración básica, de gestión, negociación e imagen comercial.
 
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2026)</small>
+
+La asistencia técnica en materia de invernaderos deberá incluir, de manera prioritaria y permanente, programas de capacitación enfocados en el diseño, construcción y operación de invernaderos de bajo costo, adaptados a las condiciones climáticas y productivas del estado, utilizando materiales locales y técnicas accesibles, con el fin de fortalecer la productividad agrícola sustentable en los municipios rurales.
+
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2026)</small>
+
+Materia de asistencia técnica y capacitación
+
+Artículo 68 BIS. Serán materia de asistencia técnica y capacitación:
+
+I. La transferencia de tecnología sustentable a los productores y demás agentes de la sociedad rural, tanto básica como avanzada;
+
+II. La aplicación de un esquema que permita el desarrollo sostenido y eficiente de los servicios técnicos, con especial atención para aquellos sectores con mayor rezago;
+
+III. El desarrollo de unidades de producción demostrativas como instrumentos de capacitación, inducción y administración de riesgos hacia el cambio tecnológico, y
+
+IV. Formular e implementar estrategias orientadas al mejoramiento de las estructuras organizativas de las pequeñas unidades de producción y con ello fomentar la regularización legal y la consolidación de nuevas empresas rurales.
+
 ### CAPÍTULO VII. De la reconversión productiva sustentable
 
 Reconversión productiva sustentable
@@ -1169,9 +1215,21 @@ III. Reorientar el uso del suelo cuando existan niveles altos de erosión o impa
 
 IV. Promover la adopción de tecnologías que conserven y mejoren la productividad de las tierras, la biodiversidad y el entorno natural;
 
-V. Fomentar la producción de productos con oportunidades de exportación y generación de divisas, y
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2026)</small>
 
-VI. Fomentar la diversificación productiva.
+V. Fomentar la producción de productos con oportunidades de exportación y generación de divisas;
+
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2026)</small>
+
+VI. Fomentar la diversificación productiva;
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2026)</small>
+
+VII. Apoyar proyectos que propicien la innovación productiva y el cuidado del suelo, a través del uso de biofertilizantes, plaguicidas orgánicos, la bioestimulación de cultivos y, en general, todas las prácticas agronómicas que mejoren los medios de vida en el campo de manera orgánica y sustentable; y
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2026)</small>
+
+VIII. Incentivar las prácticas agronómicas sustentables que permitan la bioestimulación de cultivos por medio de nutrientes vegetales y sustancias naturales, propiciando el uso preferente de biofertilizantes y plaguicidas orgánicos que permitan una transición gradual y progresiva hacia sistemas de agricultura regenerativa y ecológica.
 
 > <small>(ADICIONADO, P.O. 30 DE SEPTIEMBRE DE 2023)</small>
 
@@ -1192,6 +1250,10 @@ Obras de infraestructura productiva
 ###### Artículo 71.
 
 El Ejecutivo del Estado, en coordinación con el Consejo Zacatecano, promoverá la creación y restauración de obras de infraestructura productiva tales como pozos, bordos, represas, bodegas para centros de acopio así como adquisición o reparación de maquinaria y equipo.
+
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2026)</small>
+
+En la creación y restauración de las obras de infraestructura productiva, se procurará el fomento de proyectos que propicien la innovación y el cuidado del suelo, a través del uso de fertilizantes biológicos y orgánicos, plaguicidas orgánicos, la bioestimulación de cultivos, hidrantes conectados a las presas o pozos y, en general, todas las prácticas agronómicas que mejoren los medios de vida en el campo de manera orgánica y sustentable, que permitan una transición gradual y progresiva hacia sistemas de agricultura regenerativa y ecológica.
 
 > <small>(ADICIONADO, P.O. 11 DE MAYO DE 2022)</small>
 
@@ -1748,3 +1810,11 @@ P.O. 8 DE OCTUBRE DE 2025.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 25 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 197.- REFORMAS Y ADICIONONES A LA LEY PARA EL DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial Órgano del Gobierno del Estado de Zacatecas.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente Decreto.
