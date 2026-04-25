@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-servicio-civil-del-estado-de-zacatecas-17887"
 country: "mx"
 rank: "ley"
 publication_date: "1996-09-11"
-last_updated: "2025-10-08"
+last_updated: "2026-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ZAC"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 11 de septiembre de 1996.
 
@@ -511,6 +511,10 @@ IX.- La disposición que como sanción disciplinaria dicte la o el titular de la
 
 X.- Las y los trabajadores que manejen fondos, valores o bienes, podrán ser suspendidos hasta por dos meses por la o el titular de la entidad pública respectiva, cuando apareciere alguna irregularidad en su gestión. La suspensión referida tendrá por objeto la práctica de la investigación y resolución correspondientes. En caso de que esta sea absolutoria, se pagarán a la o el trabajador los salarios vencidos y se le reintegrará a su puesto.
 
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2026)</small>
+
+XI.- La declaración especial de ausencia de la persona trabajadora, en los términos de la legislación en la materia.
+
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 24.
@@ -547,6 +551,10 @@ VI.- En el caso de la fracción IX, desde la fecha en que se haya señalado como
 
 VII.- En el caso de la fracción X, desde la fecha en que la o el titular de la entidad pública tenga conocimiento de la irregularidad en que incurrió la o el trabajador.
 
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2026)</small>
+
+VIII.- En el caso de la fracción XI, a partir de la declaración especial de ausencia de la persona trabajadora, dictada por la autoridad competente, en términos de la ley en la materia.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 26.
@@ -556,6 +564,10 @@ De conformidad con lo previsto en el artículo 23 de esta Ley, la o el trabajado
 I.- En los casos de las fracciones I, II, IV, VII, VIII, IX y X, al día siguiente de la fecha en que termine la causa de la suspensión; y
 
 II.- En los casos de las fracciones III, V y VI, dentro de los diez días siguientes a la terminación de la causa de suspensión.
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2026)</small>
+
+III.- En el caso de la fracción XI, al ser localizado con vida y encontrarse en condiciones para desempeñar su trabajo, de conformidad con el certificado o dictamen de la institución de seguridad social correspondiente. La persona trabajadora recuperará su empleo, escalafón, antigüedad y los demás derechos y prestaciones laborales vigentes hasta antes de la suspensión de la relación laboral, de conformidad con lo establecido en esta Ley y otras disposiciones aplicables.
 
 ### CAPITULO IV. DE LA TERMINACION DE LA RELACION DE TRABAJO
 
@@ -641,9 +653,13 @@ VI.- Por desobedecer la o el trabajador, sin justificación, las órdenes que re
 
 VII.- Que por su imprudencia o descuido inexcusables, comprometa la seguridad del establecimiento o de quienes ahí se encuentren; que se niegue a adoptar las medidas para prevenir accidentes o enfermedades o que realice sus labores o concurra a realizarlas en estado de embriaguez, o bajo la influencia de alguna droga, salvo que en este último caso presente previamente la prescripción médica correspondiente;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 25 DE ABRIL DE 2026)</small>
 
-VIII.- Que dentro del término de treinta días naturales, falte a sus labores cuatro o más días, sin permiso de la o el titular de la entidad pública o sin causa justificada;
+VIII.- Que dentro del término de treinta días naturales, falte a sus labores cuatro o más días, sin permiso de la o el titular de la entidad pública o sin causa justificada.
+
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2026)</small>
+
+No se considerará falta injustificada si la ausencia se debe a la desaparición de la persona trabajadora o si su ausencia está relacionada con su participación en la búsqueda de un familiar desaparecido por afinidad o consanguinidad en primer grado, esta circunstancia la podrá acreditar mediante constancias expedidas por asociaciones o colectivos de búsqueda o cualquier otro medio de convicción idóneo;
 
 > <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2005)</small>
 
@@ -722,6 +738,12 @@ Los abogados, litigantes o representantes que promuevan acciones, excepciones, i
 > <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2017)</small>
 
 Si la dilación es producto de omisiones o conductas irregulares de los servidores públicos, la sanción aplicable será la suspensión hasta por noventa días sin pago de salario y, en caso de reincidencia, la destitución del cargo, en los términos de las disposiciones aplicables. Además, en este último supuesto, se dará vista a su superior jerárquico para que investigue la posible comisión de delitos contra la administración de justicia.
+
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2026)</small>
+
+###### Artículo 33 Bis.
+
+En caso de que los padres, madres, cónyuges o personas concubinarias de personas desaparecidas sean separados de su empleo debido a su participación en la búsqueda de sus familiares, se entenderá como un despido injustificado y, en consecuencia, tendrán derecho a reclamar su reinstalación o indemnización, en términos del artículo anterior.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -951,6 +973,14 @@ III.- A las y los que tengan más de diez años de servicio, hasta ciento veinte
 
 Los cómputos deberán hacerse por servicio continuo o cuando de existir una interrupción en la prestación de dichos servicios, ésta no sea mayor de seis meses.
 
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2026)</small>
+
+###### Artículo 56 Bis.
+
+La persona trabajadora que sea madre, padre, cónyuge o persona concubinaria de una víctima de desaparición, previa la comprobación idónea correspondiente, podrá solicitar licencias laborales para participar en la búsqueda de su familiar y en los procesos judiciales relacionados, tales licencias podrán otorgarse hasta por veinte días hábiles con goce de sueldo o seis meses sin goce de sueldo.
+
+La persona trabajadora deberá acreditar su participación en las jornadas de búsqueda, diligencias ministeriales u otras actividades relacionadas con la localización de la persona desaparecida, entre otros que se consideren idóneos, por medio de constancias que expidan los colectivos de búsqueda o cualquier otra instancia competente.
+
 ### CAPITULO V. DE LOS SALARIOS
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
@@ -1117,13 +1147,17 @@ XIV.- Prevenir cualquier manifestación de Violencia Política en contra de las 
 
 XV.- Acatar en sus términos las sentencias que emita el Tribunal; y
 
-> <small>(ADICIONADA, P.O. 11 DE MARZO DE 2023)</small>
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2026)</small>
 
-XVI.- Emitir el protocolo para prevenir, atender y sancionar el acoso y hostigamiento sexual.
+XVI. Emitir el protocolo para prevenir, atender y sancionar el acoso y hostigamiento sexual;
 
-> <small>(ADICIONADA, P.O. 6 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2026)</small>
 
-XVII.- Otorgar a las trabajadoras y los trabajadores, permiso con goce de sueldo íntegro, un día al año, para la realización de exámenes médicos de prevención y detección oportuna de cáncer o cualquier otra enfermedad, según sea el caso, de manera programada, para lo cual deberán presentar certificado médico expedido por una institución del Sistema Nacional de Salud, como el IMSS o el ISSSTE.
+XVII. Otorgar a las trabajadoras y los trabajadores, permiso con goce de sueldo íntegro, un día al año, para la realización de exámenes médicos de prevención y detección oportuna de cáncer o cualquier otra enfermedad, según sea el caso, de manera programada, para lo cual deberán presentar certificado médico expedido por una institución del Sistema Nacional de Salud, y
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2026)</small>
+
+XVIII. Autorizar las licencias previstas en el artículo 56 bis de la presente Ley y otorgar a las personas trabajadoras que sean madres, padres, cónyuges o personas concubinarias de personas desaparecidas un trato digno y respetuoso de sus derechos humanos y laborales.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -1934,6 +1968,20 @@ I.- Por la sola presentación de la demanda o de cualquier promoción ante el Tr
 II.- Si la persona a cuyo favor corre la prescripción reconoce el derecho de aquella contra quien prescribe, de palabra, por escrito o por hechos indudables, y
 
 III.- Por la presentación de la solicitud de conciliación a que se refiere el artículo 145 ter de esta Ley. La interrupción de la prescripción cesará a partir del día siguiente en que la Autoridad Conciliadora expida la constancia de no conciliación o, en su caso, se determine el archivo del expediente por falta de interés de parte. No es obstáculo para la interrupción que la Autoridad Conciliadora ante la que se promovió sea incompetente.
+
+> <small>(ADICIONADO, P.O. 25 DE ABRIL DE 2026)</small>
+
+###### Artículo 144 Bis.
+
+La prescripción no puede comenzar ni correr:
+
+I. Respecto de la persona trabajadora que no tenga la capacidad de comprender las consecuencias jurídicas hasta el momento en el que se defina su representación o tutela conforme a la ley;
+
+II. Respecto de la persona trabajadora incorporada al servicio militar en tiempo de guerra, durante el lapso de dicho servicio;
+
+III. Durante el tiempo en el que la persona trabajadora se encuentre privada de su libertad, siempre y cuando haya sido absuelta por sentencia firme, y
+
+IV. Respecto de la persona trabajadora que tenga la calidad de desaparecido y cuente con declaración especial de ausencia, en términos de la legislación en la materia.
 
 ###### Artículo 145.
 
@@ -4170,3 +4218,11 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 El Tribunal de Justicia Laboral Burocrática del Estado deberá modificar su normatividad interna, conforme al contenido del presente Decreto, en un plazo que no exceda de treinta días hábiles, contados a partir de su entrada en vigor.
+
+P.O. 25 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 312.- SE REFORMA LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado.
+
+Artículo segundo. Se derogan las disposiciones que contravengan el presente instrumento.
