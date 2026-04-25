@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-bienestar-y-proteccion-de-los-animales-en-el-estado-1164
 country: "mx"
 rank: "ley"
 publication_date: "2016-08-24"
-last_updated: "2021-08-11"
+last_updated: "2026-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE BIENESTAR Y PROTECCIÓN DE LOS ANIMALES EN EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2026.
 
 Ley publicada en el Suplemento 3 del Periódico Oficial del Estado de Zacatecas, el miércoles 24 de agosto de 2016.
 
@@ -61,7 +61,9 @@ Bases
 
 La presente Ley tiene por objeto establecer las bases para:
 
-I. Establecer los principios para proteger la vida y garantizar el bienestar y protección de los animales;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2026)</small>
+
+I. Proteger la vida y garantizar el bienestar y protección de los animales contra actos de violencia, crueldad y maltrato, cometidos por personas físicas o morales;
 
 II. Estipular las atribuciones que correspondan a las autoridades del Estado y Municipios;
 
@@ -259,6 +261,10 @@ I. La planeación, diseño, implementación y evaluación de la política estata
 
 II. Celebrar convenios de colaboración, coordinación y concertación en materia de bienestar y protección animal;
 
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2026)</small>
+
+II. Bis Diseñar, implementar y evaluar políticas de comunicación, sensibilización, difusión de programas y acciones gubernamentales, referentes a la defensa de animales en la entidad, a través de la Secretaría de Educación y de la Secretaría del Agua y Medio Ambiente del Gobierno del Estado.
+
 III. Asignar en la iniciativa de Presupuesto de Egresos del Estado, partidas para programas de bienestar y protección de los animales;
 
 IV. Expedir las normas en materia de bienestar y protección animal;
@@ -280,6 +286,22 @@ I. Promover y difundir la cultura de bienestar y protección animal;
 II. Desarrollar programas de educación y capacitación en materia de bienestar y protección de los animales, en coordinación con las instituciones de educación básica, media superior y superior del Estado, así como con la participación de las asociaciones protectoras de animales y organizaciones de la sociedad civil;
 
 III. Crear y administrar el registro de establecimientos comerciales, criadores y prestadores de servicios vinculados con el manejo, producción, exhibición, adiestramiento y venta de animales en el Estado;
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2026)</small>
+
+III Bis. Crear y administrar, en coordinación con la Secretaría de Seguridad Pública y de la Secretaría de Salud del Gobierno del Estado, el Registro Estatal de Albergues para Animales en Situación de Calle, que contendrá, como mínimo, los siguientes datos:
+
+a) Persona física responsable;
+
+b) Capacidad física del albergue y población animal beneficiada;
+
+c) Método de financiación de sus actividades; y
+
+d) Si cuentan con atención veterinaria fija.
+
+Adicionalmente, deberán supervisar que los animales albergados, cuenten con las condiciones adecuadas para su desarrollo y sean tratados de manera digna y respetuosa.
+
+Cuando los Albergues para Animales en Situación de Calle no cuente con un financiamiento regular o las necesidades de los animales superen su financiamiento, los gobiernos Estatal y Municipales podrán proveer en especie: alimento, vacunas, desparasitación y atención veterinaria para los animales, en la medida que sus capacidades financieras, humanas y materiales se los permita.
 
 IV. Constituir, actualizar y administrar los siguientes padrones:
 
@@ -332,6 +354,10 @@ Son facultades y obligaciones de la Secretaría de Educación:
 I. Proponer a la autoridad educativa federal, en los términos de la fracción II del artículo 14 de la Ley General de Educación, la formulación de planes y programas de estudio sobre la enseñanza de materias de bienestar y protección animal;
 
 II. Promover la creación de institutos de investigación científica y técnica que procuren y promuevan el bienestar y protección animal; y
+
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2026)</small>
+
+II. Bis. Diseñar, implementar y evaluar políticas educativas destinadas a fomentar el bienestar y defensa de los animales en la entidad; y
 
 III. Las demás que esta Ley y otros ordenamientos jurídicos aplicables le confieran.
 
@@ -419,7 +445,11 @@ XIII. Promover la inclusión de políticas en materia de bienestar y protección
 
 XIV. Establecer en los bandos de policía y buen gobierno, disposiciones sobre el bienestar y protección animal, así como expedir los reglamentos y disposiciones correspondientes en la materia; y
 
-XV. Las demás que esta Ley y demás ordenamientos jurídicos aplicables les confieran.
+> <small>(ADICIONADA, P.O. 25 DE ABRIL DE 2026)</small>
+
+XV. Instruir a las corporaciones de seguridad pública municipal para que atiendan de manera inmediata los reportes o denuncias de presunto maltrato y crueldad de los animales de compañía, acudiendo al lugar de los hechos para verificar la situación, salvaguardar la integridad del animal y poner los hechos en conocimiento de la autoridad competente; debiendo actuar conforme a los procedimientos previstos en la presente Ley, su Reglamento y demás disposiciones aplicables; y
+
+XVI. Las demás que esta Ley y demás ordenamientos jurídicos aplicables les confieran.
 
 ## TÍTULO TERCERO. NORMAS DE BIENESTAR Y PROTECCIÓN ANIMAL
 
@@ -547,21 +577,37 @@ III. Obtener el servicio de esterilización para sus animales, en las instalacio
 
 IV. Presentar, ante cualquier autoridad competente en la materia, denuncias por maltrato, crueldad o afectación de animales y colaborar, en la medida de lo posible, con las mismas para evitar tales actos.
 
+> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2026)</small>
+
 Obligaciones de los ciudadanos
 
 ###### Artículo 28.
 
-Son obligaciones de los ciudadanos, en su carácter de propietarios o tenedores de animales:
+Son obligaciones de las y los zacatecanos, en su carácter de propietarios o tenedores de animales:
 
-I. Observar la presente Ley, su Reglamento, las normas oficiales mexicanas, las normas zoológicas y otras disposiciones aplicables;
+I. Observar la Constitución de la entidad, la presente Ley, su Reglamento, las normas oficiales mexicanas, las normas zoológicas y otras disposiciones aplicables;
 
-II. Colocar una placa u otro medio de identificación permanente, en la que constará al menos, los datos de identificación del propietario;
+II. Evitar causarles o permitir sufrimientos innecesarios;
 
-III. Recoger las heces de su animal cuando transite en la vía pública;
+III. Concientizar y educar a las nuevas generaciones, sobre la importancia del respeto a los animales y promover su defensa;
 
-IV. Dar en adopción a los centros de control animal, asistencia y zoonosis, así como a las asociaciones u organizaciones legalmente registradas y que reciban aportaciones del Estado o Municipio o, en su caso, buscarle alojamiento, alimento y cuidado seguro; y
+IV. Denunciar ante las autoridades competentes, cualquier acto de maltrato y crueldad que contravenga el ordenamiento jurídico en la entidad, relacionado con la protección de los animales;
 
-V. No abandonarlo, bajo ninguna circunstancia, en vía pública o zona rural.
+V. Abstenerse de realizar procedimientos quirúrgicos innecesarios;
+
+VI. Denunciar los casos de sospechas de enfermedades zoonóticas y otras propias de los animales, ante las autoridades competentes;
+
+VII. Colocar una placa u otro medio de identificación permanente, en la que constará al menos, los datos de identificación en caso de ser el dueño o propietario;
+
+VIII. Asumir la responsabilidad emergente de la custodia y tenencia de un animal y de los daños a terceros que el animal pudiera ocasionar;
+
+IX. Velar por su alimentación y abrigo necesario y recoger las heces de su animal cuando transite en la vía pública;
+
+X. Como medida de salud pública, controlar su ciclo reproductivo y darle cuidado médico veterinario profesional, adecuado y oportuno;
+
+XI. Dar en adopción a los centros de control animal, asistencia y zoonosis, así como a las asociaciones u organizaciones legalmente registradas y que reciban aportaciones del Estado o Municipio o, en su caso, buscarle alojamiento, alimento y cuidado seguro; y
+
+XII. No abandonarlo, bajo ninguna circunstancia, en vía pública o zona rural.
 
 Daños y perjuicios ocasionados por mascota
 
@@ -1282,3 +1328,11 @@ P.O. 11 DE AGOSTO DE 2021.
 Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 25 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 246.- REFORMAS Y ADICIONES A LA LEY PARA EL BIENESTAR Y PROTECCIÓN DE LOS ANIMALES EN EL ESTADO DE ZACATECAS".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+Segundo. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
