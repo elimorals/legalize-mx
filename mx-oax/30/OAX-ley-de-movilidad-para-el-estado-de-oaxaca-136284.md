@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-movilidad-para-el-estado-de-oaxaca-136284"
 country: "mx"
 rank: "ley"
 publication_date: "2019-04-27"
-last_updated: "2026-02-10"
+last_updated: "2026-04-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136284&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "OAX"
 
 LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ABRIL DE 2026.
 
 Ley publicada en la Cuarta Sección en el Periódico Oficial del Estado de Oaxaca, el sábado 27 de abril de 2019.
 
@@ -1731,7 +1731,9 @@ IV. Para el transporte público de carga en todas sus modalidades: diez años.
 
 El procedimiento para el otorgamiento de las concesiones para prestar el servicio de transporte de pasajeros y de carga, se sujetará a lo siguiente:
 
-I. La Secretaría, a petición o con anuencia del Ayuntamiento o Ayuntamientos, que se trate, realizará los estudios técnicos para justificar la necesidad del servicio;
+> <small>(REFORMADA, P.O. 25 DE ABRIL DE 2026)</small>
+
+I. La Secretaría realizará los estudios técnicos que permitan determinar y acreditar la necesidad de la prestación del servicio en la zona, ruta o región de que se trate, los cuales podrán iniciarse por determinación de la propia Secretaría o a solicitud del Ayuntamiento correspondiente.
 
 II. Con sustento en los estudios técnicos la Secretaría emitirá la declaratoria de necesidad de servicio público de transporte, así como la convocatoria pública correspondiente, las cuales se publicarán de manera obligatoria, en el Periódico Oficial del Gobierno del Estado, y en un diario comercial de mayor circulación en la localidad donde se realizó el estudio de factibilidad;
 
@@ -3768,6 +3770,14 @@ TERCERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno d
 P.O. 10 DE FEBRERO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1268.- MEDIANTE EL CUAL REFORMA LA FRACCIÓN VII BIS DEL ARTÍCULO 4, LA DENOMINACIÓN DEL CAPÍTULO VII BIS PARA QUEDAR COMO SIGUE "DEL PROCEDIMIENTO PARA OTORGAMIENTO DE LAS AUTORIZACIONES DEL SIT", EL ARTÍCULO 155 BIS, EL TERCER PÁRRAFO DEL ARTÍCULO 192, Y EL PRIMER PÁRRAFO DEL ARTÍCULO 206; Y SE ADICIONAN LAS FRACCIONES III BIS Y III TER DEL ARTÍCULO 4, TODOS DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA; Y ADICIONA EL ARTÍCULO CUARTO TRANSITORIO AL DECRETO NÚMERO 781 PUBLICADO EN EL PERIÓDICO OFICIAL EXTRA DE FECHA 24 DE SEPTIEMBRE DE 2025".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 25 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1542.- MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 114 DE LA LEY DE MOVILIDAD PARA EL ESTADO DE OAXACA".]
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
