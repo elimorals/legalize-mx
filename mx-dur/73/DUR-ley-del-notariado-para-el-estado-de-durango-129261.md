@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-notariado-para-el-estado-de-durango-129261"
 country: "mx"
 rank: "ley"
 publication_date: "2018-04-12"
-last_updated: "2022-12-22"
+last_updated: "2026-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129261&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 12 de abril de 2018.
 
@@ -35,7 +35,7 @@ En diversas fechas fueron presentadas a esta H. LXVII Legislatura del Estado, do
 
 C O N S I D E R A C I O N E S
 
-[…]
+[...]
 
 Con base en los anteriores Considerandos, esta H. LXVII Legislatura del Estado, expide el siguiente:
 
@@ -249,9 +249,15 @@ X. No haber sido declarado en quiebra o concurso mercantil, salvo que haya sido 
 
 XI. No ser ministro de algún culto religioso;
 
-XII. Realizar el pago de derechos correspondiente ante la Secretaría de Finanzas y de Administración del Gobierno del Estado, y presentar el comprobante en la Dirección General y en el Colegio; y
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2026)</small>
 
-XIII. Ser aprobado en el examen que establece esta Ley y su Reglamento.
+XII. Realizar el pago de derechos correspondiente ante la Secretaría de Finanzas y de Administración del Gobierno del Estado, y presentar el comprobante en la Dirección General y en el Colegio;
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2026)</small>
+
+XIII. No ser deudor alimentario moroso y no estar inscrito en el Registro Estatal de Deudores Alimentarios Morosos, y
+
+XIV. Ser aprobado en el examen que establece esta Ley y su Reglamento.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE OCTUBRE DE 2021)</small>
 
@@ -279,9 +285,17 @@ VIII. Los de la fracción VIII, se acreditarán con la Constancia de no Antecede
 
 IX. Los señalados en las fracciones IX, X y XI, se acredita con carta bajo protesta de decir verdad, su afirmación la admite en contrario;
 
-X. Los de la fracción XII, se justificará con el recibo de pago correspondiente; y
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2026)</small>
 
-XI. El señalado en la fracción XIII, se justificará con el acta de examen de aspirante, donde conste que fue aprobado.
+X. Los de la fracción XII, se justificará con el recibo de pago correspondiente;
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2026)</small>
+
+XI. El señalado en la fracción XIII, se acreditará con la constancia de no deudor alimentario moroso expedida por el Tribunal Superior de Justicia del Estado de Durango y/o por el Registro Nacional de Obligaciones Alimentarias, y
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2026)</small>
+
+XII. El señalado en la fracción XIV, se justificará con el acta de examen de aspirante, donde conste que fue aprobado.
 
 #### Sección Segunda. De la Patente de Notario
 
@@ -2232,3 +2246,11 @@ P.O. 22 DE DICIEMBRE DE 2022.
 PRIMERO.- El presente decreto entrará en vigor en (sic) día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que contravengan lo establecido en el presente decreto.
+
+P.O. 26 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 383 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DEL NOTARIADO PARA EL ESTADO DE DURANGO, EN MATERIA DE REQUISITOS PARA ASPIRAR A LA PATENTE DE NOTARIO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente decreto.
