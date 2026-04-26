@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107590"
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-12"
-last_updated: "2025-11-16"
+last_updated: "2026-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2026.
 
 Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 12 de marzo de 2015.
 
@@ -541,6 +541,18 @@ Las autoridades estatales y municipales, en el ámbito de sus respectivas compet
 
 Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda forma de violencia y a que se resguarde su integridad personal, a fin de lograr las mejores condiciones de bienestar y el desarrollo integral.
 
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2026)</small>
+
+Cuando se detecten embarazos en niñas y adolescentes menores de 18 años, los servicios de salud deberán notificar de manera inmediata a la Procuraduría de Protección de Niñas, Niños y Adolescentes, a efecto de que se realice una valoración integral del caso, con enfoque de interés superior, perspectiva de género y respeto a los derechos sexuales y reproductivos.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2026)</small>
+
+En caso de que, derivado de dicha valoración, existan indicios de la posible comisión de un delito, la Procuraduría de Protección dará vista al Ministerio Público, garantizando en todo momento la no revictimización, el derecho a ser escuchada y el acceso continuo a servicios de salud, acompañamiento psicosocial y protección integral.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2026)</small>
+
+Así mismo, tienen derecho a que se respete su integridad corporal y a no ser sometidos a procedimientos médicos quirúrgicos con fines meramente estéticos que modifiquen su cuerpo o comprometan su salud física y emocional.
+
 ###### Artículo 32.
 
 Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán adoptar las medidas necesarias para que niñas niños y adolescentes vivan en contextos familiares, escolares, vecinales y estatales libres de violencia, por lo que deberán:
@@ -611,17 +623,21 @@ XII. Establecer las medidas para que en los servicios de salud se atiendan de ma
 
 XIII. Establecer medidas tendentes a la prevención, atención, combate y rehabilitación de los problemas de salud pública causados por las adicciones;
 
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2026)</small>
 
-XIV. Establecer medidas para la detección temprana de discapacidades a efecto de prevenir y reducir al máximo la aparición de nuevas discapacidades y asegurar los mayores niveles de atención y rehabilitación; y
+XIV. Establecer medidas para la detección temprana de discapacidades a efecto de prevenir y reducir al máximo la aparición de nuevas discapacidades y asegurar los mayores niveles de atención y rehabilitación;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2026)</small>
 
-XV. Establecer programas, acciones y medidas especiales para el cuidado de la salud de niñas, niños y adolescentes en situación de orfandad derivada de la comisión (sic) algún delito o la violencia generalizada o de cualquier otra índole; y
+XV. Establecer programas, acciones y medidas especiales para el cuidado de la salud de niñas, niños y adolescentes en situación de orfandad derivada de la comisión (sic) algún delito o la violencia generalizada o de cualquier otra índole;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2026)</small>
 
-XVI. Fomentar acciones y programas para difundir entre la ciudadanía los perjuicios dañinos de la exposición de las niñas y niños al humo de segunda mano derivado del consumo de tabaco.
+XVI. Fomentar acciones y programas para difundir entre la ciudadanía los perjuicios dañinos de la exposición de las niñas y niños al humo de segunda mano derivado del consumo de tabaco, y
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2026)</small>
+
+XVII. Prohibir la realización de cirugías estéticas en personas menores de dieciocho años de edad, exceptuando aquellos casos en los que la cirugía sea reconstructiva y esta se encuentre debidamente justificada por el dictamen médico especializado.
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE DICIEMBRE DE 2023)</small>
 
@@ -2586,6 +2602,22 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 16 DE NOVIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 238 QUE CONTIENE REFORMA AL ARTÍCULO 60 BIS 4 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO, EN MATERIA DE ALIMENTACIÓN INFANTIL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 384 QUE CONTIENE ADICIÓN DE UN SEGUNDO PÁRRAFO AL ARTÍCULO 31 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO, EN MATERIA DE EMBARAZO INFANTIL Y ADOLESCENTE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 385 QUE CONTIENE ADICIÓN DE UN ARTÍCULO A LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO, EN MATERIA DE DERECHOS A LA SALUD Y LA INTEGRIDAD DE NIÑAS, NIÑOS Y ADOLESCENTES”.]
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
