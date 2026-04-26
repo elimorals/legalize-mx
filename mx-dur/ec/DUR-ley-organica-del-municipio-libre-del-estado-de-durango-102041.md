@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-municipio-libre-del-estado-de-durango-102041"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-07-06"
-last_updated: "2025-12-04"
+last_updated: "2026-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102041&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 6 de julio de 2014.
 
@@ -683,9 +683,11 @@ II. Cuando el público asistente no guarde el orden debido, por lo cual la sesi�
 
 Los acuerdos del Ayuntamiento se tomarán por mayoría de votos de los presentes en sesión, teniendo el presidente municipal voto de calidad en caso de empate. Esta Ley y los ordenamientos que de ella se deriven, podrán establecer aquellos acuerdos que requieran del voto de las dos terceras partes de sus miembros.
 
+> <small>(REFORMADO, P.O. 26 DE ABRIL DE 2026)</small>
+
 ###### Artículo 40.
 
-Cada sesión de Ayuntamiento, se iniciará con la lectura del acta de la sesión anterior, sometiéndose a la discusión y aprobación o rectificación, en su caso, de quiénes intervinieron en la misma e inmediatamente después, se deliberarán los asuntos que contenga el orden del día, procediendo a su desahogo; la lectura podrá dispensarse en caso de que el Ayuntamiento así lo apruebe y el acta haya sido entregada a cada uno de los miembros del Ayuntamiento.
+Cada sesión de Ayuntamiento, se iniciará con la lectura del acta de la sesión anterior, sometiéndose a la discusión y aprobación o rectificación, en su caso, de quiénes intervinieron en la misma, posteriormente se da lectura a la lista de la correspondencia oficial, recibida para su trámite e inmediatamente después, se deliberarán los asuntos que contenga el orden del día, procediendo a su desahogo; la lectura podrá dispensarse en caso de que el Ayuntamiento así lo apruebe y el acta haya sido entregada a cada uno de los miembros del Ayuntamiento.
 
 ###### Artículo 41.
 
@@ -751,6 +753,8 @@ De igual manera, se abstendrán de participar en la selección, promoción, desi
 
 ###### Artículo 52.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 26 DE ABRIL DE 2026)</small>
+
 El Presidente Municipal tendrá a su cargo la representación del Ayuntamiento y la ejecución de las resoluciones del mismo, así como las siguientes atribuciones:
 
 I. Cumplir y hacer cumplir la Constitución General de la República, la particular del Estado, las leyes que de ellas emanen, la presente Ley y otras leyes, reglamentos y disposiciones del orden federal, estatal y municipal. Conducir las relaciones del Ayuntamiento con los Poderes de la Federación, del Gobierno del Estado y con los otros ayuntamientos de la entidad.
@@ -803,7 +807,13 @@ El Presidente Municipal que se ausente del territorio del Estado o del País, en
 
 XXIII. Vigilar que el Ayuntamiento cumpla con las disposiciones que señala la Ley, y con los planes y programas establecidos.
 
-XXIV. Las demás que le señalen las leyes y reglamentos.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ABRIL DE 2026)</small>
+
+XXIV. Procurar la afiliación de los trabajadores que laboran para la administración municipal a la seguridad social para el acceso de estos y sus familias a las prestaciones y servicios de salud y acceso a vivienda digna y adecuada, así como todos aquellos inherentes, garantizando sus derechos laborales conforme las leyes federales y locales de la materia.
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE ABRIL DE 2026)</small>
+
+XXV. Las demás que le señalen las leyes y reglamentos.
 
 ###### Artículo 53.
 
@@ -1119,9 +1129,17 @@ XV. Coordinar las funciones de los titulares de las dependencias administrativas
 
 XVI. Refrendar con su firma las iniciativas de ley o decreto, documentos, correspondencia, acuerdos y comunicaciones del Ayuntamiento y del Presidente Municipal, en su caso.
 
-XVII. Proponer el nombramiento o remoción de los servidores públicos subalternos de la secretaría del Ayuntamiento.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ABRIL DE 2026)</small>
 
-XVIII. Las demás que le señale esta Ley, el Bando de Policía y Gobierno, los reglamentos de la administración municipal y las demás disposiciones legales relativas.
+XVII. Dar lectura para su trámite correspondiente, a la correspondencia oficial recibida dirigida al Cabildo, en la Sesión inmediate (sic) posterior a su recepción;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2026)</small>
+
+XVIII. Proponer el nombramiento o remoción de los servidores públicos subalternos de la secretaría del Ayuntamiento; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN XVIII], P.O. 26 DE ABRIL DE 2026)</small>
+
+XIX. Las demás que le señale esta Ley, el Bando de Policía y Gobierno, los reglamentos de la administración municipal y las demás disposiciones legales relativas.
 
 ### Capítulo III. Del Tesorero Municipal o su Equivalente
 
@@ -2982,6 +3000,24 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del pres
 P.O. 4 DE DICIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 285 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO, EN MATERIA DE JUSTICIA CÍVICA ITINERANTE".]
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 26 DE ABRIL DE 2026.
+
+## N. DE E. TRANSITORIOS DEL "DECRETO 380 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO".]
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- El presidente municipal y quienes integran el cabildo una vez aprobado (sic) la presente reforma contara con 90 días hábiles a partir de su publicación en el Periódico Oficial del Gobierno del Estado, para que realice las modificaciones permanentes a los reglamentos de los ayuntamientos que conforman nuestro territorio, y una vez realizadas dichas modificaciones entraran en vigor al día siguiente de su publicación de la gaceta municipal.
+
+TERCERO.- Se derogan todas las disposiciones que se opongan al presente resolutivo.
+
+P.O. 26 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 381 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE DURANGO, EN MATERIA DE DERECHOS LABORALES".]
 
 PRIMERO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
