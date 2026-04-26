@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-derechos-de-las-jefas-de-familia-del-estado-de-16621
 country: "mx"
 rank: "ley"
 publication_date: "2023-05-07"
-last_updated: "2023-05-07"
+last_updated: "2026-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=166218&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LOS DERECHOS DE LAS JEFAS DE FAMILIA DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2026.
 
 Ley publicada en el No. 37 del Periódico Oficial del Estado de Durango, el domingo 7 de mayo de 2023.
 
@@ -107,9 +107,17 @@ II. La igualdad de oportunidades para las Jefas de Familia;
 
 III. El bienestar físico y mental de las Jefas de Familia y sus dependientes;
 
-IV. Las políticas públicas permanentes de naturaleza compensatoria para contrarrestar la vulnerabilidad económica y social de las Jefas de Familia; y
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2026)</small>
 
-V. La perspectiva de género y no discriminación contra la mujer en la aplicación de las disposiciones de esta Ley y las que de ella deriven.
+IV. Las políticas públicas permanentes de naturaleza compensatoria para contrarrestar la vulnerabilidad económica y social de las Jefas de Familia;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2026)</small>
+
+V. La perspectiva de género y no discriminación contra la mujer en la aplicación de las disposiciones de esta Ley y las que de ella deriven, y
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2026)</small>
+
+VI. La igualdad sustantiva de la mujer.
 
 ### CAPÍTULO II. DE LOS DERECHOS Y OBLIGACIONES DE LAS JEFAS DE FAMILIA
 
@@ -117,9 +125,7 @@ V. La perspectiva de género y no discriminación contra la mujer en la aplicaci
 
 Son derechos de las Jefas de Familia, de manera enunciativa más no limitativa, los siguientes:
 
-I. Recibir en todo momento un trato con dignidad, respeto y salvaguarda de sus derechos fundamentales
-
-;
+I. Recibir en todo momento un trato con dignidad, respeto y salvaguarda de sus derechos fundamentales;
 
 II. Recibir atención médica, psicológica, tratamiento y hospitalización, cuando no sean derechohabientes de alguna institución de seguridad social;
 
@@ -127,7 +133,9 @@ III. Acceder a los beneficios de los diferentes programas gubernamentales dirigi
 
 IV. Recibir orientación y apoyo integral en materia de asistencia y atención social, así como asesoría jurídica;
 
-V. Tener acceso a un empleo digno y bien remunerado sin discriminación y en igualdad de trato y oportunidades;
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2026)</small>
+
+V. Tener acceso a un empleo digno y bien remunerado sin discriminación y en igualdad de trato y oportunidades, que le permita reducir o erradicar la brecha salarial de género;
 
 VI. Recibir la capacitación necesaria que les brinde las herramientas oportunas para obtener un ingreso propio y suficiente;
 
@@ -402,3 +410,13 @@ DR. ESTEBAN ALEJANDRO VILLEGAS VILLAREAL
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ING. HÉCTOR EDUARDO VELA VALENZUELA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 26 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 386 EL CUAL REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE LOS DERECHOS DE LAS JEFAS DE FAMILIA DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones qua contravengan lo establecido en el presente decreto.
