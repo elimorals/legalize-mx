@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-107590"
 country: "mx"
 rank: "ley"
 publication_date: "2015-03-12"
-last_updated: "2025-11-16"
+last_updated: "2026-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,65 +21,29 @@ state: "DUR"
 ---
 # LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO
 
-LEY DE EDUCACION DEL ESTADO DE MORELOS
+LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2026.
 
-Ley publicada en el Periódico Oficial del Estado de Morelos, el día 26 de agosto de 1996.
+Ley publicada en el Número Bis del Periódico Oficial del Estado de Durango, el jueves 12 de marzo de 2015.
 
-Al margen izquierdo un Escudo Nacional que dice: Estados Unidos Mexicanos.- Gobierno del Estado Libre y Soberano de Morelos.- Poder Ejecutivo.
+EL CIUDADANO CONTADOR PÚBLICO JORGE HERRERA CALDERA, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE DURANGO, A SUS HABITANTES, S A B E D:
 
-JORGE CARRILLO OLEA, GOBERNADOR DEL ESTADO LIBRE Y SOBERANO DE MORELOS, A SUS HABITANTES SABED:
+QUE LA H. LEGISLATURA DEL MISMO SE HA SERVIDO DIRIGIRME EL SIGUIENTE:
 
-Que el H. Congreso del Estado se ha servido enviarme para su promulgación, lo siguiente:
+Con fecha 04 de Febrero del presente año el C. Diputado Julián Salvador Reyes, presentó a esta H. Legislatura, Iniciativa de Decreto que contiene LEY DE DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO; misma que fue turnada a la Comisión de Asuntos de la Familia y Menores de Edad, integrada por los CC. Diputados: María Luisa González Achem, Alicia García Valenzuela, Beatriz Barragán González y Felipe de Jesús Enríquez Herrera; Presidente, Secretario y Vocales respectivamente, los cuales emitieron su dictamen favorable con base en los siguientes:
 
-LA HONORABLE CUADRAGESIMA SEXTA LEGISLATURA DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE MORELOS, CON FUNDAMENTO EN LO DISPUESTO POR LA FRACCION II DE LA CONSTITUCION POLITICA LOCAL, Y
+C O N S I D E R A N D O S
 
-CONSIDERANDO
+[...]
 
-1.- Que tal y como lo consagra nuestra Carta Magna en su Artículo 3°. todo individuo tiene derecho a recibir educación, por lo que el Estado está obligado a impartir educación preescolar, primaria y secundaria; a promover y atender todos los tipos y modalidades educativos incluyendo la educación superior; a apoyar la investigación científica y tecnológica, y a alentar el fortalecimiento y difusión de nuestra cultura. La educación que imparta el Estado será invariablemente gratuita y laica, el criterio con que se debe orientar este servicio público en nuestro país se basará en los resultados del progreso científico, luchará contra la ignorancia y sus efectos, las servidumbres, los fanatismos y los prejuicios, además será democrática y nacionalista.
+Por lo anteriormente expuesto y considerado, la Comisión que dictaminó, con fundamento en lo que dispone el artículo 182, último párrafo de la Ley Orgánica del Congreso del Estado de Durango, estimó que la iniciativa, con las adecuaciones realizadas a la misma, es procedente, en virtud de considerar que obedece al mejoramiento de forma y fondo jurídicos, y a lo dispuesto por la Ley General de los Derechos de Niñas, Niños y Adolescentes,
 
-2.- Que el texto de esta garantía constitucional es el resultado de la voluntad popular y de sus ajustes sociales, por lo que al inicio de la presente década y reconociendo la importancia de la función que cumple la educación dentro del proceso de cambio social, así como su indiscutible carácter de factor de unidad nacional, y la necesidad de la participación de los particulares en la prestación del Servicio Público Educativo, el Gobierno de la República propuso al Constituyente Permanente la reforma del Artículo 3°. Constitucional.
+Con base en los anteriores Considerandos esta H. LXVI Legislatura del Estado, expide el siguiente:
 
-Que publicada la reforma constitucional el 21 de enero de 1992, los gobernadores de los 31 Estados de la República suscribieron con la Secretaría de Educación Pública y el Sindicato Nacional de Trabajadores de la Educación, el 18 de mayo del mismo año, el Acuerdo Nacional para la Modernización de la Educación Básica, a fin elevar la calidad de la educación pública y promover el mejoramiento de la calidad de la educación que con apego a las disposiciones vigentes, imparten los particulares.
+D E C R E T O No. 336
 
-Que gracias a la trascendencia de los actos anteriores, a los que se sumó la reforma constitucional del 5 de marzo de 1993, se abrogó la Ley Federal de Educación publicada en el Diario Oficial de la Federación de 29 de noviembre de 1973, con la respectiva aprobación de la Ley General de Educación, expedida por el Congreso de la Unión y publicada el 13 de julio del mismo año de la reforma constitucional antes citada. El contenido del ordenamiento vigente sustenta el principio de que la educación tenderá a desarrollar armónicamente todas las facultades del ser humano; fija las atribuciones que de manera exclusiva, corresponden al Ejecutivo Federal, por conducto de la Secretaría de Educación Pública y, cuya finalidad es garantizar el carácter nacional de la educación, evaluar el sistema educativo nacional y fijar los lineamientos para la planeación y la evaluación que el gobierno de cada entidad federativa deba realizar; reconoce a los educadores como promotores, coordinadores y agentes directos del proceso educativo; y propone destinar recursos presupuestarios crecientes para la educación pública.
-
-3.- Que pese a las grandes transformaciones que la normatividad educativa ha sufrido en el ámbito nacional, en nuestra Entidad ha continuado vigente, sin grandes cambios ni adecuaciones, la Ley de Educación Pública del Estado de Morelos, publicada en el Periódico Oficial el día 6 de octubre de 1971.
-
-Que tal situación ha provocado y continuará provocando hasta en tanto no se corrijan severas incongruencias entre las nuevas exigencias sociales y las prohibiciones normativas de la Ley Estatal de Educación Pública, así como las graves contradicciones entre lo dispuesto por este ordenamiento y lo consignado en la legislación federal.
-
-4.- Que como es de suponer una Ley de Educación como la presente acorde con la normatividad federal, la participación social y ciudadana, así como por las nuevas expectativas educativas, exigió la participación de todos los sectores institucionales y particulares que tienen un interés especial en el desarrollo educativo del Estado, por lo que en nuestra Entidad se efectuaron diversos foros de consulta, discusión y análisis sobre el servicio educativo y sus repercusiones sociales.
-
-En este proceso de consulta coordinado de manera conjunta por los representantes de las tres fracciones parlamentarias que integran esta Soberanía, por la Secretaría de Bienestar Social, la Sección XIX del Sindicato Nacional de Trabajadores de la Educación, y en cuya organización, desarrollo, compilación, análisis e interpretación de resultados participaron de manera muy activa y asumieron responsabilidades directas los representantes de diversas instituciones, dependencias, asociaciones y organismos públicos y privados, entre los cuales, y solo enunciativamente, es justo destacar a los siguientes: Universidad Autónoma del Estado de Morelos, Consejo Coordinador Empresarial del Estado de Morelos, Unión Estatal de Padres de Familia, Casa Ciudadana, Asociación Estatal de Padres de Familia, Representación en Morelos del Consejo Nacional de Ciencia y Tecnología, Federación de Escuelas Particulares y Representación de la Secretaría de Educación Pública en el Estado de Morelos.
-
-5.- Que al interior del Congreso del Estado se efectuó un profundo análisis y una exhaustiva revisión al valioso material recopilado durante esa consulta y a las propuestas individuales de los Diputados que participaron en cada una de las reuniones que se efectuaron por las Comisiones de Trabajo, en donde con verdadera disposición al diálogo y tolerancia por parte de los representantes de las tres fracciones parlamentarias de este Congreso, se pudo elaborar el presente documento en forma por demás consensada, que recoge y expresa real y efectivamente las exigencias y expectativas de la sociedad; precisa las atribuciones de cada nivel educativo, define los altos fines de la educación, preservando las características sustantivas del Artículo 3° Constitucional de garantizar una educación nacionalista, popular y progresista; consolida la formación del educando dentro de un esquema integral de valores; concibe el proyecto educativo inserto en un contexto social, nacional, en donde se destaca la soberanía, la prevalencia y superación de la escuela pública, el respeto irrestricto a los símbolos patrios y la preservación de la identidad nacional; una educación más comprometida de solidaridad con los más necesitados, que esté vinculada estrechamente con el desarrollo productivo de la Entidad y participe en la resolución de su problemática social; establece las bases para abrir espacios para la investigación educativa y la capacitación, formación y superación del magisterio, para hacer del maestro un verdadero profesional de la enseñanza; asegura la aplicación de recursos suficientes para el sostenimiento del servicio público educativo; reconoce los derechos de los particulares a impartir educación y; garantiza el pleno derecho de los padres de familia para intervenir en el proceso de formación de sus hijos y en el mejoramiento de las condiciones en que tal proceso se desarrolla, mediante el ejercicio de todas aquellas acciones y aportaciones que no implican intervención en los ámbitos pedagógico y laboral.
-
-6.- Que la presente Ley es la síntesis de un esfuerzo parlamentario de profundo carácter participativo e integrador, representativo de las inquietudes educativas que hoy demanda la ciudadanía morelense hacía la integración de una población capaz de luchar por la paz, la armonía, la justicia social, y la defensa de sus valores humanos a través de la consolidación de una educación integral.
-
-7.- Que el contenido de la presente propuesta está integrado por seis Títulos divididos en varios Capítulos, cuyo articulado se resume en los lineamientos siguientes:
-
-En el Título Primero, Capítulo Primero referente al Sistema Educativo Estatal se desglosan las disposiciones generales que delimitan la materia y el ámbito de aplicación de la Ley; especifica cuáles son, en materia educativa, las funciones del Gobierno del Estado de Morelos; determina los tipos y fines de la educación, así como la necesaria coordinación que debe existir entre las Autoridades Estatales y las Municipales en Materia Educativa.
-
-En este Título se establecen los elementos fundamentales que componen el Sistema Educativo Estatal, es decir: los educandos, los educadores, personal de apoyo, autoridades, padres de familia, planes, programas, métodos, materiales educativos, consejos de participación social, instituciones y presupuestos.
-
-El Título Segundo, Capítulo Primero está destinado de manera muy concreta a la Educación que se imparta en el Estado, que comprende los tipos; inicial, básico, medio superior y superior, con sus respectivas modalidades.
-
-Los Capítulos Octavo y Noveno se refieren a la Educación Media Superior y Superior destacando entre sus normas las que facultan al Gobierno del Estado para crear los organismos que garanticen las condiciones que permitan el adecuado desarrollo de la Educación Media Superior, Superior y de la Investigación Tecnológica, Científica y Humanística en el Estado de Morelos, así como promover la participación de los particulares en la expansión de la oferta educativa y la de los Colegios y Asociaciones de Profesionales en la determinación de la orientación de la demanda educativa.
-
-En el Décimo Capítulo, se determinan las reglas generales que rigen la educación para los adultos y en el Capítulo Décimo Primero se hace referencia a la Educación Informal, destacando la importancia de los medios de comunicación y la necesidad de utilizar en el cumplimiento de la tarea educativa los medios que proporciona el avance tecnológico.
-
-En el Título Tercero, se resalta la importancia de la planeación y evaluación educativa para el desarrollo del Estado, sin lugar a dudas uno de los grandes avances en materia educativa, aquí se propone la creación de una Comisión que de manera permanente evalúe el Sistema Educativo en el Estado por que a juicio de este Congreso se debe de tener en todo momento la certeza de cual es el alcance real de la educación que se imparta en nuestra Entidad pues al contar con datos estadísticos y técnicos se podrá (sic) mejorar los contenidos y los programas educativos.
-
-El Título Cuarto está dedicado a la participación social en la educación y contiene las normas que especifican los derechos y obligaciones de los padres de familia y de quienes, en su caso, ejercen la patria potestad sobre los educandos y las relativas a la integración y funcionamiento de los Consejos de Participación Social que deben operar, tanto a nivel estatal como municipal y en el marco de cada una de las instituciones educativas, con el objeto de propiciar la mayor atención de la comunidad en el correcto funcionamiento de la escuela, sus instalaciones, su mobiliario, el material didáctico de que disponen los maestros y el cumplimiento de los planes y programas de estudio.
-
-Dentro de este Título, en el Capítulo Cuarto se establecen con precisión las normas relativas a los particulares como prestadores del servicio público educativo, que les garantiza en el ámbito estatal los derechos y obligaciones que les confiere la Constitución General de la República, regula la intervención de las autoridades educativas locales en los planteles particulares. Un ejemplo de los avances propuestos en este rubro es sin lugar a dudas la articulación de reglas generales sobre la obligación que éstos tienen de otorgar becas a alumnos destacados académicamente y de escasos recursos. Cabe destacar que producto de una inquietud compartida y requerida por las tres fracciones parlamentarias con representación en este Congreso se estableció un porcentaje mínimo de 5% sobre el total de la matrícula de la institución privada de que se trate, además de que se determinó la creación de una Comisión de Participación Institucional y Privada para su otorgamiento.
-
-El Título Quinto, se refiere a la validez oficial de estudios y de la certificación de conocimientos, considerando desde luego la concurrencia que con la federación se debe guardar al respecto. Finalmente en el Título Sexto se trata todo lo relativo a las infracciones, las sanciones y los recursos administrativos que resulten procedentes en contra de la aplicación de la presente Ley.
-
-Por lo anteriormente expuesto y fundado esta soberanía ha tenido a bien expedir la siguiente:
-
-LEY DE EDUCACION DEL ESTADO DE MORELOS.
+LA HONORABLE SEXAGÉSIMA SEXTA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, CON LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 82 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, A NOMBRE DEL PUEBLO DECRETA:
 
 ###### ARTÍCULO ÚNICO.
 
@@ -87,333 +51,599 @@ Se expide la LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE 
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO
 
-## TITULO PRIMERO. DEL SISTEMA EDUCATIVO ESTATAL
+## TÍTULO PRIMERO. De las Disposiciones Generales
 
-###### ARTICULO 1.
+###### Artículo 1.
 
-Las disposiciones de esta Ley son de orden público e interés social y de observancia general en todo el Estado de Morelos y tienen por objeto regular la educación que impartan el Gobierno del Estado y sus Municipios, sus organismos descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios en los términos establecidos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado, la Ley General de Educación, los principios contenidos en la presente Ley, los Reglamentos y demás disposiciones que emanen de éstas, así como los convenios que sobre la materia concerte el Estado con la Federación, las Entidades Federativas, los Municipios y los de carácter internacional.
+La presente Ley es de orden público, interés social y observancia general en el territorio del Estado de Durango, y tiene por objeto:
 
-###### ARTICULO 2.
+I. Reconocer a niñas, niños y adolescentes como titulares de derechos;
 
-La aplicación de las disposiciones de esta Ley corresponde a las autoridades educativas estatales y municipales, en los términos que la misma establece y en los que prevean sus reglamentos y por lo tanto obligan a:
+II. Garantizar el pleno goce, respeto, protección y promoción de los derechos humanos de niñas, niños y adolescentes;
 
-I.- El Gobierno del Estado y Municipios, dentro de sus respectivas competencias y sus organismos descentralizados;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2019)</small>
 
-II.- Las personas, físicas o morales, particulares con autorización o reconocimiento de validez oficial; y
+III. Regular la integración, organización y funcionamiento del Sistema Local y de los Sistemas Municipales de Protección Integral de Niñas, Niños y Adolescentes;
 
-III.- Las instituciones a quienes esta Ley imponga deberes esenciales vinculados con la educación.
+IV. Establecer los principios rectores y criterios que orientarán la política estatal en materia de derechos de niñas, niños y adolescentes, y
 
-Las Universidades y demás Instituciones de Educación Superior, referidas en la fracción VII del Artículo 3º de la Constitución Política de los Estados Unidos Mexicanos, regularán su función social educativa, por sus propios ordenamientos jurídicos y normas administrativas siempre y cuando no contravengan la presente Ley.
+V. Establecer las bases generales para la participación de los sectores privado y social en las acciones tendientes a garantizar la protección de los derechos de niñas, niños y adolescentes.
 
-###### ARTICULO 3.
+###### Artículo 2.
 
-La educación que en cualquiera de los tipos establecidos por esta Ley, imparta el Gobierno del Estado, los Municipios y las Instituciones en la que el propio Gobierno del Estado descentralice acciones educativas y los particulares con autorización o reconocimiento de validez oficial de estudios deberá efectuarse en el marco del federalismo y la concurrencia previstos en la Constitución Política de los Estados Unidos Mexicanos y conforme a la distribución de la función social educativa establecida en la Ley General de Educación.
+Esta Ley reconoce los derechos de las niñas, niños y adolescentes consagrados en la Constitución Política de los Estados Unidos Mexicanos, los Tratados y Convenciones internacionales, la Constitución Política del Estado Libre y Soberano de Durango; la Ley General de los Derechos de Niñas, Niños y Adolescentes. Deberán aplicarse conjuntamente los mencionados ordenamientos y el Código Civil del Estado y las demás disposiciones jurídicas aplicables.
 
-###### ARTICULO 4.
+###### Artículo 3.
 
-La educación tiene prioridad en el desarrollo integral del Estado y es un derecho de todos los habitantes de la Entidad; el Gobierno del Estado, los Municipios, y sus organismos descentralizados establecerán los mecanismos para que todos los individuos tengan las mismas oportunidades de acceso al Sistema Educativo Estatal, sin más limitaciones que los requisitos previstos por las normas aplicables.
+Para garantizar la protección de los derechos de niñas, niños y adolescentes, las autoridades estatales y municipales deberán:
 
-El Gobierno del Estado y los Municipales, destinarán presupuestos necesarios y complementarios, además de los que refiere el Artículo 25 de la Ley General de Educación, para el cumplimiento cabal del derecho de sus habitantes a la educación.
+I. Garantizar un enfoque integral, transversal y con perspectiva de derechos humanos en el diseño y la instrumentación de políticas y programas de gobierno;
 
-Asimismo podrán convenir con la Federación, formas de financiamiento conjunto para la ampliación y mejoramiento de los servicios educativos que se prestan en el Estado.
+II. Promover la participación, tomar en cuenta la opinión y considerar los aspectos culturales, éticos, afectivos, educativos y de salud de niñas, niños y adolescentes, en todos aquellos asuntos de su incumbencia, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez;
 
-###### ARTICULO 5.
+III. Establecer mecanismos transparentes de seguimiento y evaluación de la implementación de políticas y programas gubernamentales en materia de respeto, protección y promoción de los derechos de niñas, niños y adolescentes;
 
-Los Gobiernos Estatal y Municipal, en el ámbito de sus respectivas competencias y atribuciones y las instituciones en que el propio Estado descentralice funciones educativas, están obligados a prestar servicios educativos para que todos los habitantes del Estado puedan cursar la educación preescolar, la primaria y la secundaria; asimismo, están facultados para prestar servicios de educación normal y los de formación, actualización, capacitación y superación profesional para los maestros.
+IV. En la toma de decisiones sobre una cuestión debatida que involucre niñas, niños y adolescentes, considerar de manera primordial el interés superior de la niñez. Cuando se presenten diferentes interpretaciones, se elegirá la que satisfaga de manera más efectiva este principio rector.
 
-###### ARTICULO 6.
+Cuando se tome una decisión que afecte a niñas, niños o adolescentes, en lo individual o colectivo, se deberán evaluar y ponderar las posibles repercusiones a fin de salvaguardar su interés superior y sus garantías procesales, e
 
-Todos los habitantes del Estado deben cursar la educación primaria y secundaria. Es obligación de los padres y tutores, lograr que sus hijos y pupilos, cursen tal instrucción.
+V. Incorporar en sus proyectos de presupuesto la asignación de recursos que permitan dar cumplimiento a las acciones establecidas por la presente Ley. El Congreso del Estado establecerá en su respectivo presupuesto, los recursos que permitan dar cumplimiento a las acciones establecidas por la presente Ley.
 
-###### ARTICULO 7.
+###### Artículo 4.
 
-La educación básica que imparta el Gobierno del Estado, los Municipios y sus organismos descentralizados, será gratuita, las donaciones destinadas a dicha educación, en ningún caso se entenderán como contraprestaciones del servicio público.
+Las autoridades estatales y municipales, en el diseño y ejecución de políticas públicas deberán garantizar el máximo bienestar posible de niñas, niños y adolescentes, privilegiando su interés superior, tomando en cuenta su situación familiar y social.
 
-###### ARTICULO 8.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2021)</small>
 
-El Gobierno del Estado promoverá y atenderá todos los tipos y modalidades educativas, incluidas la Educación Superior, la Investigación Científica y Tecnológica, y alentará el fortalecimiento de la cultura universal, nacional y regional.
+Las políticas públicas deberán contribuir a la formación física, psicológica, económica, social, cultural, artística, ambiental, ética y cívica de niñas, niños y adolescentes.
 
-###### ARTICULO 9.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-La educación que imparta el Gobierno del Estado, los Municipios y sus organismos descentralizados será laica y obligatoria.
+###### Artículo 5.
 
-## TITULO SEGUNDO. DE LA EDUCACION QUE SE IMPARTA EN EL ESTADO
+Para los efectos de esta Ley, se entenderá por:
 
-###### ARTICULO 10.
+I. Acciones Afirmativas: Medidas temporales que las autoridades realizan en el ámbito de su competencia cuyo objetivo es corregir situaciones de desigualdad en el goce y disfrute de los derechos para lograr la igualdad entre niñas, niños y adolescentes. Se adecuarán a la situación a remediar y deberán ser legítimas y respetar los principios de justicia y proporcionalidad;
 
-La educación que imparta el Estado, sus organismos descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios, es un servicio público.
+II. Acogimiento Residencial: Aquél brindado por centros de asistencia social como una medida especial de protección de carácter subsidiario, que será de último recurso y por el menor tiempo posible, priorizando las opciones de cuidado en un entorno familiar;
 
-El Gobierno del Estado creará los organismos descentralizados, desconcentrados y órganos de apoyo y consulta que se requieran para la mejor prestación del servicio educativo.
+III. Adopción Internacional: Aquélla que se realice en términos de lo dispuesto por los tratados internacionales en la materia;
 
-### CAPITULO I. DISPOSICIONES GENERALES
+IV. Ajustes Razonables: Las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, cuando se requieran en un caso particular, para garantizar a niñas, niños y adolescentes con discapacidad el goce o ejercicio, en igualdad de condiciones con las demás, de todos los derechos humanos y libertades fundamentales;
 
-###### ARTICULO 11.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-Las inversiones que en materia educativa realicen los Gobiernos Estatal y Municipal y sus Organismos Descentralizados son de interés social.
+V. Castigo corporal o físico: Todo aquel acto cometido en contra de niñas, niños y adolescentes en el que se utilice la fuerza física, incluyendo golpes con la mano u otro objeto, empujones, pellizcos, mordidas, jalones de cabello u orejas, quemaduras, obligar a mantener posturas incómodas o cualquier otro acto que tenga como objeto causar dolor o malestar, aunque sea leve.
 
-###### ARTICULO 12.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-La educación que imparta el Estado, los Municipios, sus Organismos Descentralizados y los particulares con autorización o reconocimiento de validez oficial de estudios, en cualquiera de sus tipos, tendrá además de los fines establecidos en el segundo párrafo del Artículo 3º de la Constitución Política de los Estados Unidos Mexicanos y el Artículo 7º de la Ley General de Educación, los siguientes:
+VI. Castigo humillante: Cualquier trato ofensivo, denigrante, desvalorizador, estigmatizante, ridiculizador y de menosprecio, y/o cualquier acto que tenga como objetivo provocar dolor, amenaza, molestia o humillación cometido en contra de niñas, niños y adolescentes.
 
-I.- Fomentar el desarrollo integral y armónico del individuo, resaltando los valores éticos y espirituales de la persona, así como los de solidaridad y bien común para que ejerza en plenitud su capacidad humana;
+VII. Centro de Asistencia Social: El establecimiento, lugar o espacio de cuidado alternativo o acogimiento residencial para niñas, niños y adolescentes sin cuidado parental o familiar que brindan instituciones públicas, privadas y asociaciones;
 
-II.- Fortalecer la conciencia de la nacionalidad y de la soberanía, el aprecio por la historia, el respeto y amor a los símbolos patrios y a las instituciones nacionales, así como la valoración de las tradiciones y particularidades culturales, regionales del Estado, del País, y de la convivencia internacional, en el marco de la democracia, libertad, paz y autodeterminación de los pueblos;
+VIII. Certificado de Idoneidad: El documento expedido por el Consejo Técnico de Adopciones u organizaciones que éste autorice o por la autoridad central del país de origen de los adoptantes en los casos de adopciones internacionales, en virtud del cual se determina que los solicitantes de adopción son aptos para ello;
 
-III.- Estimular el aprendizaje de conocimientos científicos y culturales, fomentando el interés por la investigación y el sentido crítico, así como el respeto de los principios de orden, justicia y libertad;
+IX. Constitución Federal: Constitución Política de los Estados Unidos Mexicanos;
 
-IV.- Proteger y acrecentar los bienes y valores que constituyen el acervo cultural del Estado y hacerlos accesibles a la colectividad;
+X. Constitución Local: Constitución Política del Estado Libre y Soberano de Durango;
 
-V.- Promover el español mediante la enseñanza de la lengua nacional e idioma común para todos los mexicanos, sin menoscabo de proteger e impulsar el desarrollo de las lenguas indígenas; así como fomentar en la educación básica el estudio de una lengua extranjera;
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
 
-VI.- Promover las actividades de carácter científico y tecnológico que respondan a las necesidades del desarrollo municipal, estatal, regional y nacional;
+XI. Control de confianza: Las pruebas realizadas por el Centro Estatal de Acreditación y Control de Confianza en materia toxicológica, socioeconómica, psicológica, médica y de antecedentes penales así como los demás que establezcan en sus lineamientos el Centro Nacional de Certificación y Acreditación en la materia.
 
-VII.- Fomentar el conocimiento y el respeto de las Instituciones Estatales, Regionales y Nacionales;
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2021)</small>
 
-VIII.- Considerar a la persona como principio y meta del proceso educativo y de toda organización social, dotada de dignidad, cuyas características son el ser creativo, reflexivo y crítico;
+XII. Crianza Positiva: Comportamiento de las madres, padres y tutores, con base en el interés superior de la niñez, que promueve la atención, el desarrollo de capacidades, el ejercicio de la no violencia, ofreciendo el reconocimiento y orientación necesaria sin dejar de contemplar el establecimiento de los límites relativos a la disciplina, los cuales permitan el pleno desarrollo de las niñas, niños y adolescentes;
 
-IX.- Infundir el conocimiento y práctica de la democracia como la forma de gobierno y el sistema de vida que permita la participación de todos en el desarrollo político, económico y social del Estado, y en general en la toma de decisiones que sirvan al mejoramiento de la sociedad;
+XIII. Familia de Origen: Aquélla compuesta por titulares de la patria potestad o tutela, respecto de quienes niñas, niños y adolescentes tienen parentesco ascendente hasta segundo grado, de conformidad con el Código Civil del Estado de Durango;
 
-X.- Promover el valor de la justicia, de la observancia de la Ley, de la igualdad de los individuos ante ésta, así como propiciar la práctica de los valores éticos, los derechos humanos y el respeto a los mismos;
+XIV. Familia Extensa o Ampliada: Aquélla compuesta por los ascendientes de niñas, niños y adolescentes en línea recta sin limitación de grado, y los colaterales hasta el cuarto grado;
 
-XI.- Impulsar actitudes que estimulen la investigación e innovación científica y tecnológica, procurando la vinculación con el sector productivo;
+XV. Familia de Acogida: Aquélla que cuente con la certificación de la autoridad competente y que brinde cuidado, protección, crianza positiva y la promoción del bienestar social de niñas, niños y adolescentes por un tiempo limitado hasta que se pueda asegurar una opción permanente con la familia de origen, extensa o adoptiva;
 
-XII.- Impulsar la creación artística y propiciar el enriquecimiento y la difusión de los bienes y valores de la cultura universal, en especial de aquellos que constituyen el patrimonio cultural del Estado de Morelos y la Nación Mexicana;
+XVI. Familia de Acogimiento pre-adoptivo: Aquélla distinta de la familia de origen y de la extensa que acoge provisionalmente en su seno niñas, niños y adolescentes con fines de adopción, y que asume todas las obligaciones en cuanto a su cuidado y protección, de conformidad con el principio de interés superior de la niñez;
 
-XIII.- Estimular y propiciar las condiciones indispensables para el impulso de la educación física y la práctica del deporte, la recreación artística y la difusión de la cultura;
+XVII. Igualdad: El acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos;
 
-XIV.- Desarrollar actitudes solidarias en los individuos para crear conciencia sobre la preservación de la salud, la vida, la institución y planeación familiar, y la paternidad responsable, sin menoscabo de la libertad y del respeto absoluto a la dignidad humana;
+XVIII. Informe de Adoptabilidad: El documento expedido por el Sistema Estatal DIF, que contiene la información sobre la identidad, medio social, evolución personal y familiar que determina la adoptabilidad de niñas, niños y adolescentes;
 
-XV.- Crear conciencia sobre los valores morales, la sexualidad y prevenir sobre los perjuicios que causan al hombre y a la sociedad las conductas delictivas, e informar y orientar a los educandos sobre el daño que causan los enervantes y reactivos tóxicos, tales como el alcohol, tabaco, drogas y otros, propiciando el rechazo a los vicios;
+XIX. Ley General: Ley General de los Derechos de Niñas, Niños y Adolescentes;
 
-XVI.- Fomentar y encauzar el desarrollo y la aplicación del avance científico y tecnológico de acuerdo a las necesidades del crecimiento económico y social de la Entidad, propiciando el uso racional de los recursos naturales a fin de preservar el equilibrio del medio ambiente, promoviendo entre los individuos el cuidado, rehabilitación y mantenimiento de la naturaleza; y
+XX. Órgano Jurisdiccional: Los juzgados o tribunales federales o del Estado;
 
-XVII.- Las demás que no se contrapongan a la Ley General de Educación, a la presente Ley y que coadyuven al logro de sus objetivos.
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2022)</small>
 
-### CAPITULO II. DISTRIBUCION DE LA FUNCION SOCIAL EDUCATIVA
+XXI. Primera Infancia: Periodo que comprende desde el nacimiento hasta los 6 años de edad, es un momento primordial para el crecimiento cognitivo físico y emocional de las personas;
 
-###### ARTICULO 13.
+XXII. Procuraduría de Protección: La Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado de Durango;
 
-Los Gobiernos Estatal y Municipal deben en forma permanente, evaluar, adecuar, ampliar, mejorar y actualizar los servicios educativos que por disposición de esta Ley, queden bajo su responsabilidad y competencia.
+XXIII. Programa Municipal: El Programa de Protección de Niñas, Niños y Adolescentes de cada Municipio;
 
-###### ARTICULO 14.
+XXIV. Protección Integral: Conjunto de mecanismos que se ejecuten en los tres órdenes de gobierno con el fin de garantizar de manera universal y especializada en cada una de las materias relacionadas con los derechos humanos de niñas, niños y adolescentes de conformidad con los principios rectores de esta Ley, la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano del Estado de Durango y los tratados internacionales de los que el Estado Mexicano forma parte;
 
-Corresponde a las autoridades educativas locales, además de las atribuciones que en materia educativa les confiere la Constitución Política de los Estados Unidos Mexicanos, las leyes y reglamentos que de ellas se deriven, las siguientes:
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2021)</small>
 
-I.- Prestar los servicios de educación inicial, básica, normal y demás para la formación, actualización, capacitación y superación de docentes, incluyendo la indígena y especial, y de manera concurrente los de media superior, superior y demás servicios educativos distintos a los anteriores de acuerdo a las necesidades del Estado en la forma y términos que señalen las leyes respectivas;
+XXV. Representación Coadyuvante: El acompañamiento de niñas, niños y adolescentes en los procedimientos jurisdiccionales y administrativos, que, de manera oficiosa, quedará a cargo de las Procuradurías de Protección, sin perjuicio de la intervención que corresponda al Ministerio Público;
 
-II.- Estructurar el Sistema Educativo Estatal de tal manera que permita al educando integrarse a la vida económica y social de la Entidad, sin que suspenda su escolaridad;
+XXVI. Representación Originaria: La representación de niñas, niños y adolescentes a cargo de quienes ejerzan la patria potestad o tutela, de conformidad con lo dispuesto en la legislación aplicable;
 
-III.- Planear, organizar, desarrollar, administrar, supervisar y evaluar los servicios del Sistema Educativo Estatal, de conformidad con lo dispuesto por la Ley General de Educación. Pudiendo delegar esta función en sus organismos descentralizados, conforme a lo que determine esta Ley o la normatividad que al efecto se expida;
+XXVII. Representación en Suplencia: La representación de niñas, niños y adolescentes a cargo de la Procuraduría de Protección, conforme a su respectivo ámbito de competencia, sin perjuicio de la intervención que corresponda al Ministerio Público;
 
-IV.- Elaborar y proponer a la autoridad educativa federal los contenidos regionales que hayan de incluirse en los planes y programas de estudio para la educación básica, la normal y demás para la formación de los docentes de educación básica. La autoridad educativa estatal podrá consultar para tal efecto a los diversos sectores sociales;
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2019)</small>
 
-V.- Establecer un sistema permanente de investigación educativa que permita la actualización y mejoramiento del Sistema Educativo del Estado;
+XXVIII. Secretaría Ejecutiva: Secretaría Ejecutiva del Sistema Local de Protección Integral de Niñas Niños y Adolescentes del Estado de Durango;
 
-VI.- Vigilar que la educación que impartan los particulares en planteles incorporados al Sistema Educativo Estatal, se sujeten a las disposiciones de las leyes aplicables;
+XXIX. Sistema DIF Estatal: El Sistema para el Desarrollo Integral de la Familia del Estado de Durango;
 
-VII.- Vigilar que en los planteles educativos de la Entidad, se de estricta observancia a la Ley sobre el Escudo, la Bandera y el Himno Nacional, sancionando de acuerdo con el reglamento respectivo a quienes infrinjan esta disposición;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2019)</small>
 
-VIII.- Promover los convenios de cooperación internacional o acuerdos interinstitucionales en materia educativa, científica, tecnológica, artística, humanística, cultural, de educación física y deporte, en términos de lo que establecen las disposiciones legales aplicables;
+XXX. Sistema Local de Protección: El Sistema de Protección Integral de Niñas, Niños y Adolescentes del Estado de Durango;
 
-IX.- Planificar, programar y promover la extensión y las modalidades de los tipos medio superior y superior que integran el Sistema Educativo Estatal;
+> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2022)</small>
 
-X.- Celebrar convenios con la Federación y los Municipios en el marco de la concurrencia, para unificar y ampliar los servicios educativos;
+XXXI. Sistemas Municipales DIF: Los Sistemas Municipales para el Desarrollo Integral de la Familia del Estado de Durango;
 
-XI.- Fomentar y difundir las actividades científicas, técnicas, de educación física, recreativas y culturales en todas sus manifestaciones;
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
 
-XII.- Promover la investigación pedagógica para que el Sistema Educativo sea permanentemente actualizado;
+XXXII. Sistema Nacional DIF: El Sistema Nacional para el Desarrollo Integral de la Familia; y
 
-XIII.- Realizar actividades tendientes a que la población y en especial los de las zonas rurales y marginadas eleven su nivel cultural, social y económico;
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2021)</small>
 
-XIV.- Promover un sistema de becas con cargo al erario Estatal para apoyar en los planteles oficiales al educando de escasos recursos económicos y destacado desarrollo académico en todos los niveles y modalidades educativas que prevé la presente Ley;
+XXXIII. Violencia contra niñas, niños y adolescentes: Toda forma de perjuicio o abuso físico o mental, descuido o trato negligente, malos tratos o explotación, incluido el abuso sexual.
 
-XV.- Fomentar la formación para el trabajo a los campesinos y obreros;
+###### Artículo 6.
 
-XVI.- Expedir los lineamientos normativos para la organización y funcionamiento de las escuelas estatales, conforme a esta Ley;
+Son niñas y niños los menores de doce años, y adolescentes las personas de entre doce años cumplidos y menos de dieciocho años de edad.
 
-XVII.- Revalidar y otorgar equivalencias de estudios en todos los niveles educativos que atienda el Estado, de acuerdo a los lineamientos generales que expida la autoridad educativa federal;
+Cuando exista la duda de si se trata de una persona mayor de dieciocho años de edad, se presumirá que es adolescente. Cuando exista la duda de si se trata de una persona mayor o menor de doce años, se presumirá que es niña o niño.
 
-XVIII.- Promover la ampliación de los servicios educativos, fomentando la creación de instituciones que ofrezcan nuevas opciones para el educando;
+###### Artículo 7.
 
-XIX.- Expedir constancias y certificados de estudios, otorgar diplomas, títulos y grados académicos del Sistema Educativo Estatal, con base en las disposiciones legales aplicables;
+Para efectos de esta Ley, son principios rectores, los siguientes:
 
-XX.- Otorgar, negar y revocar la autorización a los particulares para impartir educación primaria y secundaria, normal y demás para la formación de educación básica;
+I. El interés superior de la niñez;
 
-XXI.- Promover la difusión de programas de radio y televisión que impulsen el desarrollo cultural y educativo de la población, exaltando los valores humanos en que se sustenta la convivencia armónica orientada al bien común y recomendar que sus contenidos coadyuven a los fines del proceso educativo;
+II. La universalidad, interdependencia, indivisibilidad, progresividad e integralidad de los derechos de niñas, niños y adolescentes, conforme a lo dispuesto en los artículos 1o. y 4o. de la Constitución Federal así como en los tratados internacionales.
 
-XXII.- Disponer del uso temporal de los planteles educativos oficiales para albergue de la población, cuando por razones de siniestros naturales u otro tipo de contingencias sean requeridos;
+III. La Igualdad sustantiva;
 
-XXIII.- Aplicar las disposiciones que en materia de validez oficial de estudios instrumente la autoridad federal;
+IV. La No discriminación;
 
-XXIV.- Editar libros de texto preferentemente de geografía e historia del Estado de Morelos y producir otros materiales didácticos distintos a los señalados en la fracción III del Artículo 12 de la Ley General de Educación;
+V. La inclusión;
 
-XXV.- Elaborar el presupuesto general del ramo educativo, el cual no deberá ser inferior al ocho por ciento del presupuesto total anual del Ejecutivo del Estado;
+VI. El derecho a la vida, supervivencia y desarrollo;
 
-XXVI.- Aplicar los ordenamientos contenidos en esta Ley y vigilar su cumplimiento y el de las disposiciones reglamentarias;
+VII. La participación;
 
-XXVII.- Establecer un sistema permanente de informática y estadística del Sistema Educativo Estatal;
+VIII. La interculturalidad;
 
-XXVIII.- Expedir los Reglamentos de la presente Ley y las disposiciones que de la misma emanen, y
+IX. La corresponsabilidad de los miembros de la familia, la sociedad y las autoridades;
 
-XXIX.- Las que ésta u otra Ley le señalen.
+X. La transversalidad en la legislación, políticas públicas, actividades administrativas, económicas y culturales;
 
-### CAPITULO III. DE LA ESTRUCTURA DEL SISTEMA EDUCATIVO
+XI. La autonomía progresiva;
 
-###### ARTICULO 15.
+XII. El principio pro persona;
 
-En materia de educación pública, el Ejecutivo del Estado podrá celebrar convenios de colaboración con los Municipios, cuyos Ayuntamientos tendrán para el efecto las siguientes atribuciones:
+XIII. El acceso a una vida libre de violencia; y
 
-I.- Podrán establecer planteles educativos de acuerdo con los tipos, lineamientos y modalidades establecidos en esta Ley, y sostenerlos económicamente, considerando que dichos planteles funcionarán bajo el control técnico y administrativo de la autoridad educativa correspondiente;
+XIV. La accesibilidad.
 
-II.- Cuidar que no se establezcan o funcionen en su jurisdicción escuelas que no cumplan con los requisitos de esta Ley;
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2023)</small>
 
-III.- Promover permanentemente la investigación que sirva como base de la innovación educativa, así como impulsar el desarrollo de la enseñanza tecnológica y de la investigación científica;
+###### Artículo 8.
 
-IV.- Coadyuvar en la vigilancia de la asistencia de los educandos en edad escolar a las instituciones educativas;
+Es deber de la familia, la comunidad a la que pertenecen, del Estado y, en general, de todos los integrantes de la sociedad, el respeto y el auxilio para la protección de derechos de niñas, niños y adolescentes, así como garantizarles un nivel adecuado de vida para su desarrollo integral, primordialmente en el periodo de la primera infancia.
 
-V.- Otorgar becas a los alumnos de escasos recursos que destaquen académicamente;
+###### Artículo 9.
 
-VI.- Establecer servicios bibliotecarios a través de bibliotecas públicas, a fin de apoyar el Sistema Educativo Estatal;
+Es obligación de toda persona que tenga conocimiento de casos de niñas, niños y adolescentes que sufran o hayan sufrido, en cualquier forma, violación de sus derechos, hacerlo del conocimiento inmediato de las autoridades competentes, de manera que pueda seguirse la investigación correspondiente y, en su caso, instrumentar las medidas cautelares y de protección procedentes en los términos de las disposiciones jurídicas aplicables.
 
-VII.- Fomentar y difundir las actividades artísticas, culturales, de educación vial, cívicas y deportivas en todas las modalidades; y
+## TÍTULO SEGUNDO. De los Derechos de Niñas, Niños y Adolescentes
 
-VIII.- Auxiliar a la autoridad educativa en el cumplimiento de esta Ley y los reglamentos que de ella emanen.
+###### Artículo 10.
 
-###### ARTICULO 16.
+Para efectos de la presente Ley son derechos de niñas, niños y adolescentes, de manera enunciativa más no limitativa, los siguientes:
 
-El Ejecutivo del Estado, sin menoscabo de su propia obligación, promoverá la participación directa de cada ayuntamiento para dar mantenimiento y proveer de equipo básico a las escuelas públicas.
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 8 DE ABRIL DE 2021)</small>
 
-### CAPITULO I. DE LOS TIPOS Y MODALIDADES
+I. Derecho a la vida, a la paz, a la supervivencia y al desarrollo;
 
-###### ARTICULO 17.
+II. Derecho de prioridad;
 
-Las autoridades educativas en sus respectivas competencias podrán reducir las cargas administrativas y las comisiones de los maestros, con el fin de alcanzar más horas efectivas de clases y lograr la prestación del servicio educativo con mayor eficiencia; en las actividades de supervisión, las autoridades educativas darán preferencia a los apoyos técnicos, didácticos y pedagógicos para el adecuado desempeño de la función docente, estando por encima de los aspectos administrativos.
+III. Derecho a la identidad;
 
-###### ARTICULO 18.
+IV. Derecho a vivir en familia;
 
-Las autoridades educativas en el Estado se reunirán periódicamente con el propósito de analizar e intercambiar opiniones sobre el desarrollo del Sistema Educativo Estatal, formular recomendaciones y convenir acciones para apoyar la función social educativa, estas reuniones serán convocadas por la Autoridad Estatal o Municipal en su caso.
+V. Derecho a la igualdad;
 
-###### ARTICULO 19.
+VI. Derecho a no ser discriminado;
 
-Las autoridades educativas realizarán actividades que propicien mayor aprecio social por la labor desarrollada por el magisterio y otorgará reconocimientos, distinciones, estímulos e incentivos a los trabajadores de la educación que se destaquen en el ejercicio de su profesión, con la posibilidad de obtener mejores remuneraciones y prestaciones económicas, sociales y profesionales.
+VII. Derecho a vivir en condiciones de bienestar y a un sano desarrollo integral;
 
-La autoridad educativa estatal otorgará becas a profesores que les permitan estudios de postgrado, promoverá la formación de investigadores mediante el establecimiento de un sistema de investigación educativa y establecerá cursos permanentes de capacitación a los trabajadores docentes de la educación, quienes deberán asistir a los mismos.
+VIII. Derecho a una vida libre de violencia y a la integridad personal;
 
-###### ARTICULO 20.
+IX. Derecho a la protección de la salud y a la seguridad social;
 
-La educación que imparta el Gobierno del Estado, los Municipios, sus Organismos Descentralizados y los particulares con autorización, en cualquier tipo y modalidad, conforman el Sistema Educativo Estatal.
+X. Derecho a la inclusión de niñas, niños y adolescentes con discapacidad;
 
-Los siguientes constituyen los elementos fundamentales del Sistema:
+XI. Derecho a la educación;
 
-a).- Los educandos, los educadores y el personal de apoyo;
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2021)</small>
 
-b).- Las autoridades educativas;
+XII. Derecho al descanso, al juego, al deporte y al esparcimiento;
 
-c).- Los padres de familia o tutores, así como las asociaciones que los representan;
+XIII. Derecho a la libertad de convicciones éticas, pensamiento, conciencia, religión y cultura;
 
-d).- Los planes, programas, métodos y materiales educativos;
+XIV. Derecho a la libertad de expresión y de acceso a la información;
 
-e).- Los consejos técnico-pedagógicos;
+XV. Derecho de participación;
 
-f).- Los consejos de participación social;
+XVI. Derecho de asociación y reunión;
 
-g).- Las instituciones educativas del Estado, de los Municipios y sus Organismos Descentralizados en materia educativa;
+XVII. Derecho a la intimidad;
 
-h).- Las instituciones de los particulares con autorización o con reconocimiento de validez oficial de estudios;
+XVIII. Derecho a la seguridad jurídica y al debido proceso;
 
-i).- Las instituciones de educación media superior y superior establecidas en el Estado y las que tengan autonomía se regirán por las disposiciones legales correspondientes;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2020)</small>
 
-j).- Los presupuestos, recursos humanos, materiales y financieros destinados a la educación, por parte del Gobierno del Estado; y
+XIX. Derechos de niñas, niños y adolescentes migrantes;
 
-k).- Las instituciones de formación para el trabajo o las de cualquier otro tipo y modalidad que se imparta de acuerdo con las necesidades educativas de la población y las características particulares de los grupos que la integran.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
-###### ARTICULO 21.
+XX. Derechos de niñas, niños y adolescentes en situaciones especiales;
 
-El Estado otorgará un salario profesional que sea digno y justo para que los educadores del Sistema Educativo Estatal alcancen un nivel de vida decoroso para su familia, así como para que dispongan del tiempo necesario para la preparación de clases que impartan y para su perfeccionamiento profesional.
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
-###### ARTICULO 22.
+XXI. Derecho de acceso a las Tecnologías de la Información y Comunicación; y
 
-El educador es promotor, coordinador y agente directo del proceso educativo; por ello las autoridades educativas y los particulares a que se refiere esta Ley, deberán proporcionarle los medios que le permitan realizar eficazmente su labor y que contribuyan a su constante superación profesional.
+> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
-Para ejercer la docencia en instituciones establecidas por el Gobierno del Estado, los Ayuntamientos, sus Organismos Descentralizados y por los particulares con autorización o reconocimiento de validez oficial de estudios, los docentes deberán reunir el perfil académico a que se refiera el reglamento de esta Ley y los requisitos que previamente sean señalados por la autoridad competente.
+XXII. Derecho a la alimentación.
 
-###### ARTICULO 23.
+> <small>(ADICIONADA, P.O. 4 DE DICIEMBRE DE 2022)</small>
 
-El Sistema Educativo Estatal comprende los tipos: inicial, básico, medio, medio superior, y superior con sus respectivas modalidades. Estos podrán adoptar las modalidades escolarizada, no escolarizada y mixta, en los términos siguientes:
+XXIII. Derecho a la protección de la primera infancia.
 
-I.- La educación inicial comprende la educación que se imparta en los centros de desarrollo infantil, en las guarderías y los análogos de particulares;
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2020)</small>
 
-II.- El tipo básico comprende la educación preescolar, primaria y secundaria, incluyendo la educación física, artística, indígena y la educación especial:
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, adoptarán las medidas necesarias para garantizar los anteriores y en general todos los derechos de las niñas, niños y adolescentes sin discriminación de ningún tipo o condición.
 
-a).- La educación preescolar no es antecedente obligatorio de la primaria;
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], P.O. 8 DE ABRIL DE 2021)</small>
 
-b).- La educación primaria incluye la educación regular, la de niños con necesidad de educación especial y la de adultos en su caso;
+### Capítulo Primero. Del Derecho a la Vida, a la Paz, a la Supervivencia y al Desarrollo
 
-c).- La educación primaria es antecedente obligatorio de la educación secundaria;
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 8 DE ABRIL DE 2021)</small>
 
-d).- La educación secundaria incluye las escuelas generales, técnicas, y telesecundarias;
+###### Artículo 11.
 
-e).- La educación primaria y secundaria es antecedente obligatorio del nivel medio superior;
+Niñas, niños y adolescentes tienen derecho intrínseco a la vida y a la paz, de conformidad con la Constitución Local, a que se les preserve la vida, a la supervivencia y al desarrollo, deberán disfrutar de una vida plena en condiciones acordes a su dignidad y que garanticen su desarrollo integral.
 
-f).- La autoridad educativa en el Estado promoverá programas y acciones que permitan lograr una alimentación balanceada en los niños, especialmente indígenas, que reciban educación durante el tipo básico.
+Quienes ejercen la patria potestad, tutela o guarda y custodia tienen la obligación de preservar y exigir el cumplimiento de estos derechos.
 
-III.- El tipo medio superior, comprende el nivel bachillerato, los demás niveles equivalentes a éste, así como la educación profesional que no requiere bachillerato o sus equivalencias. Para los efectos de esta Ley, tiene carácter informativo, formativo y terminal en su caso y comprende la educación media terminal el bachillerato técnico, la educación comercial y la preparatoria:
+Niñas, niños y adolescentes tienen derecho a no ser privados de la vida bajo ninguna circunstancia, ni ser utilizados en conflictos armados o violentos o en la comisión de conductas delictivas.
 
-a).- La educación preparatoria o el bachillerato tecnológico son antecedente obligatorio de la educación superior, y
+###### Artículo 12.
 
-b).- La educación comercial, técnica y de capacitación para el trabajo serán terminales.
+Las autoridades, en el ámbito de sus respectivas competencias, deberán llevar a cabo las acciones necesarias para garantizar el desarrollo y prevenir cualquier conducta que atente contra su supervivencia, así como para investigar y sancionar efectivamente los actos de privación de la vida.
 
-IV.- El tipo superior comprende la educación normal, la tecnológica y la universitaria e incluye estudios encaminados a obtener grados de licenciatura, maestría y doctorado así como cursos de actualización y especialización.
+### Capítulo Segundo. Del Derecho de Prioridad
 
-###### ARTICULO 24.
+###### Artículo 13.
 
-La educación inicial tendrá la finalidad de familiarizar al niño a partir de los 45 días de nacido o antes de los 4 años de edad, con su correcto desenvolvimiento social.
+Niñas, niños y adolescentes tienen derecho a que se les asegure prioridad en el ejercicio de todos sus derechos, especialmente a que:
 
-###### ARTICULO 25.
+I. Se les brinde protección y socorro en cualquier circunstancia y con la oportunidad necesaria;
 
-La educación preescolar atenderá por personal especializado a niños cuyas edades fluctúen entre los cuatro y los seis años y promoverá el desarrollo integral del niño, ofreciendo oportunidades de realización que le permitan identificarse como ser individual y miembro de un grupo social.
+II. Se les atienda antes que a las personas adultas en todos los servicios, en igualdad de condiciones, y
 
-### CAPITULO II. DE LA EDUCACION INICIAL
+III. Se les considere para el diseño y ejecución de las políticas públicas necesarias para la protección de sus derechos.
 
-###### ARTICULO 26.
+###### Artículo 14.
 
-La educación primaria contribuirá al desarrollo integral y armónico del niño, promoviendo en él una actitud de aprendizaje permanente, y es requisito para acceder al siguiente nivel de estudio.
+En todas las medidas concernientes a niñas, niños y adolescentes que tomen los órganos jurisdiccionales, autoridades administrativas y órganos legislativos, se tomará en cuenta, como consideración primordial, el interés superior de la niñez. Dichas autoridades elaborarán los mecanismos necesarios para garantizar este principio.
 
-### CAPITULO III. DE LA EDUCACION PRIMARIA
+### Capítulo Tercero. Del Derecho a la Identidad
 
-###### ARTICULO 27.
+###### Artículo 15.
 
-La educación primaria se impartirá por el Estado, Municipios y particulares con autorización expresa, a niños cuya edad se encuentre entre seis y catorce años.
+Niñas, niños y adolescentes, en términos de la legislación civil aplicable, desde su nacimiento, tienen derecho a:
 
-###### ARTICULO 28.
+I. Contar con nombre y los apellidos que les correspondan, así como a ser inscritos en el Registro Civil respectivo de forma inmediata y gratuita, y a que se les expida en forma ágil y sin costo la primera copia certificada del acta correspondiente, en los términos de las disposiciones aplicables;
 
-La educación primaria tendrá las adecuaciones requeridas para responder a las características lingüísticas y culturales de los diversos grupos indígenas del Estado, así como de la población rural y grupos migrantes.
+II. Contar con nacionalidad, de conformidad con lo dispuesto en la Constitución Federal, la Constitución Local y los tratados internacionales;
 
-### CAPITULO IV. DE LA EDUCACION SECUNDARIA
+III. Conocer su filiación y su origen, en la medida de lo posible y siempre que ello sea acorde con el interés superior de la niñez, y
 
-###### ARTICULO 29.
+IV. Preservar su identidad, incluidos el nombre, la nacionalidad y su pertenencia cultural, así como sus relaciones familiares.
 
-Para atender a la población de quince años o más que no haya cursado o concluido la educación primaria, el Sistema Educativo Estatal ofrecerá educación para adultos.
+Las autoridades, en el ámbito de sus respectivas competencias, deberán colaborar en la búsqueda, localización y obtención de la información necesaria para acreditar o restablecer la identidad de niñas, niños y adolescentes.
 
-###### ARTICULO 30.
+La Procuraduría de Protección, en el ámbito de su respectiva competencia, orientará a las autoridades que correspondan para que den debido cumplimiento al presente artículo.
 
-La educación secundaria tiene como propósito contribuir al proceso de madurez de la personalidad del adolescente, orientar sus opciones vocacionales y contribuir a la formación comunitaria.
+Cuando haya procesos o procedimientos que deriven en cambio de apellidos de niñas, niños y adolescentes, éstos tendrán el derecho a opinar y a ser tomados en cuenta, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
 
-### CAPITULO V. DE LA EDUCACION FISICA Y ARTISTICA
+Para efectos del reconocimiento de maternidad y paternidad de niñas, niños y adolescentes, así como en relación con los derechos y obligaciones derivados de la filiación y parentesco, se estará a la legislación civil aplicable. Ante la negativa de la prueba de paternidad o maternidad, la autoridad competente, salvo prueba en contrario, presumirá que es el padre o la madre respectivamente.
 
-###### ARTICULO 31.
+La falta de documentación para acreditar la identidad de niñas, niños y adolescentes no será obstáculo para garantizar sus derechos.
 
-La educación secundaria continuará y profundizará la formación científica, humanística, cívica, artística, física y tecnológica adquirida en los niveles precedentes. Asimismo sentará las bases necesarias para la incorporación de los alumnos a la vida productiva y permitirá el acceso al nivel medio superior.
+###### Artículo 16.
 
-###### ARTICULO 32.
+Las Niñas, niños y adolescentes de nacionalidad extranjera que se encuentren en territorio del Estado, tienen derecho a comprobar su identidad con los documentos emitidos por la autoridad competente u otros medios previstos en la Ley de Migración y demás disposiciones aplicables.
 
-La educación secundaria atenderá a los adolescentes, jóvenes y adultos que hayan acreditado el nivel de primaria. Tendrá carácter formativo y ajustará la enseñanza, a los intereses y aptitudes de los estudiantes, así como a las exigencias del desarrollo de la comunidad y del Estado.
+En los casos en que niñas, niños o adolescentes cumplan con los requisitos para obtener la nacionalidad mexicana, se les brindarán todas las facilidades a efecto de darles un trato prioritario, para ello, la Procuraduría de Protección, tendrá la intervención que corresponda.
 
-### CAPITULO VI. DE LA EDUCACION INDIGENA
+### Capítulo Cuarto. Del Derecho a Vivir en Familia
 
-###### ARTICULO 33.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2023)</small>
 
-La educación secundaria contribuirá al desarrollo integral del educando, favorecerá la capacidad de observación, análisis, reflexión crítica y el desarrollo de las facultades para adquirir conocimientos, habilidades y actitudes positivas.
+###### Artículo 17.
+
+Las niñas, niños y adolescentes tienen derecho a vivir en familia y a crecer en un ambiente sano, estimulante, afectivo, cariñoso, sensible, de seguridad y respeto, garantizando de manera plena sus derechos. La falta de recursos no podrá considerarse motivo suficiente para separarlos de su familia de origen o de los familiares con los que convivan, ni causa para la pérdida de la patria potestad.
+
+Estas condiciones deberán considerarse como un indicio de la necesidad de proporcionar a la familia el apoyo apropiado.
+
+Niñas, niños y adolescentes no podrán ser separados de las personas que ejerzan la patria potestad o de sus tutores y, en términos de las disposiciones aplicables, de las personas que los tengan bajo su guarda y custodia, salvo que medie orden de autoridad competente, en la que se determine la procedencia de la separación, en cumplimiento a la preservación del interés superior de la niñez y la salvaguarda de sus derechos y exentos de todo tipo de violencia, de conformidad con las causas previstas en las leyes y mediante el debido proceso en el que se garantice el derecho de audiencia de todas las partes involucradas. En todos los casos, se tendrá en cuenta la opinión de niñas, niños y adolescentes conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
+
+Los casos en que las personas que ejerzan la patria potestad, por extrema pobreza o por necesidad de ganarse el sustento lejos del lugar de residencia, tengan dificultades para atender a niñas, niños y adolescentes de manera permanente, no serán considerados como supuestos de exposición o estado de abandono, siempre que los mantengan al cuidado de otras personas, libres de violencia y provean su subsistencia.
+
+Niñas, niños y adolescentes cuyas familias estén separadas, tendrán derecho a convivir o mantener relaciones personales y contacto directo con sus familiares de modo regular, excepto en los casos en que el órgano jurisdiccional competente determine que ello es contrario al interés superior de la niñez, sin perjuicio de las medidas cautelares y de protección que se dicten por las autoridades competentes en los procedimientos respectivos, en los que se deberá garantizar el derecho de audiencia de todas las partes involucradas, en especial de niñas, niños y adolescentes.
+
+Asimismo, niñas, niños y adolescentes tienen derecho a convivir con sus familiares cuando éstos se encuentren privados de su libertad. Las autoridades competentes en materia jurisdiccional y penitenciaria deberán garantizar este derecho y establecer las condiciones necesarias para que esta convivencia se realice en forma adecuada, conforme a las disposiciones aplicables. Este derecho sólo podrá ser restringido por resolución del órgano jurisdiccional competente, siempre y cuando no sea contrario a su interés superior.
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+Las niñas, niños y adolescentes en condiciones de orfandad derivada de la comisión de algún un (sic) delito o a consecuencia de la violencia generalizada o de cualquier otra índole, tienen derecho a convivir o mantener relaciones personales y contacto directo con sus familiares supervivientes de modo regular, para tal efecto y en beneficio del fortalecimiento familiar, las autoridades implementarán acciones y procedimientos expeditos que lo garanticen.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+Las autoridades locales, en el ámbito de sus respectivas competencias, están obligadas a establecer políticas de fortalecimiento familiar para evitar la separación de niñas, niños y adolescentes de quienes ejerzan la patria potestad, tutela o guarda y custodia o de sus familiares sobrevivientes más cercanos en su caso.
+
+###### Artículo 18.
+
+Las autoridades, en el ámbito de sus respectivas competencias, establecerán las normas y los mecanismos necesarios para facilitar la localización y reunificación de la familia de niñas, niños y adolescentes, cuando hayan sido privados de ella, siempre y cuando no sea contrario a su interés superior.
+
+Durante la localización de la familia, niñas, niños y adolescentes tienen derecho a acceder a las modalidades de cuidados alternativos de carácter temporal, en tanto se incorporan a su familia.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2019)</small>
+
+Para efectos del párrafo anterior, la Procuraduría de Protección, deberá otorgar acogimiento correspondiente, de conformidad con lo previsto en el Título Cuarto, Capítulo Único de esta Ley y demás disposiciones aplicables.
+
+###### Artículo 19.
+
+El traslado o retención ilícita de niñas, niños y adolescentes cuando se produzcan en violación de los derechos atribuidos individual o conjuntamente a las personas o instituciones que ejerzan la patria potestad, la tutela o la guarda y custodia, y se sancionará en términos de la legislación aplicable.
+
+En los casos de traslados o retenciones ilícitas de niñas, niños y adolescentes fuera del territorio del estado o nacional, la persona interesada podrá presentar la solicitud de restitución respectiva ante la Secretaría de Relaciones Exteriores, para que ésta lleve a cabo las acciones correspondientes en el marco de sus atribuciones, de conformidad con lo dispuesto en los instrumentos internacionales y demás disposiciones aplicables.
+
+Cuando las autoridades de la entidad tengan conocimiento de casos de niñas, niños y adolescentes de nacionalidad mexicana trasladados o retenidos de manera ilícita en el extranjero, se coordinarán con las autoridades federales competentes, conforme a las demás disposiciones aplicables, para su localización y restitución.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2024)</small>
+
+Cuando una niña, niño o adolescente sea trasladado o retenido ilícitamente en territorio nacional, o haya sido trasladado legalmente pero retenido ilícitamente, las autoridades, en el ámbito de sus respectivas competencias, estarán obligadas a coadyuvar en su localización, a través de los programas para la búsqueda, localización y recuperación, así como en la adopción de todas las medidas necesarias para prevenir que sufran mayores daños y en la sustanciación de los procedimientos de urgencia necesarios para garantizar su restitución inmediata, cuando la misma resulte procedente conforme a los tratados internacionales en materia de sustracción de niñas, niños y/o adolescentes.
+
+###### Artículo 20.
+
+El Sistema DIF Estatal deberá otorgar medidas especiales de protección a niñas, niños y adolescentes que hayan sido separados de sus padres o familiares por resolución judicial, atendiendo a la legislación civil y determinará la opción más adecuada entre las siguientes:
+
+I. Sean ubicados preferentemente con los demás miembros de su familia extensa o ampliada para su cuidado, siempre y cuando no sea contrario a su interés superior;
+
+II. Sean recibidos por una familia de acogida, en caso de no ser posible que la familia extensa pudiera hacerse cargo;
+
+III. Sean recibidos por una familia de acogimiento pre-adoptivo, o
+
+IV. Sean recibidos en última instancia en acogimiento residencial brindado por centros de asistencia social el menor tiempo posible. Esta medida especial de protección tendrá carácter subsidiario dando prioridad a las opciones de cuidado en un entorno familiar.
+
+La Procuraduría de Protección, deberá registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, tomando en cuenta los requisitos señalados para el acogimiento pre-adoptivo.
+
+La Procuraduría de Protección será responsable de dar seguimiento a la situación en la que se encuentren niñas, niños y adolescentes una vez que hayan concluido las medidas especiales de protección aplicadas.
+
+###### Artículo 21.
+
+Las personas interesadas en adoptar niñas, niños y adolescentes que se encuentren bajo la tutela de la Procuraduría de Protección, podrán presentar ante dicha instancia la solicitud correspondiente.
+
+La Procuraduría de Protección, en el ámbito de su competencia, realizará la valoración psicológica, estudios socio-económicos, y todo aquello que sea necesario para determinar la idoneidad de quienes soliciten la adopción, en los términos de lo dispuesto por las leyes y reglamentos aplicables. Los exámenes y certificados médicos deberán ser practicados por instituciones públicas.
+
+La asignación de niñas, niños y adolescentes sólo podrá otorgarse a los solicitantes que cuenten con certificado de idoneidad expedido por el Consejo Técnico de Adopciones. Para tal efecto, se observará lo siguiente:
+
+I. Niñas, niños y adolescentes, siempre que sea posible de acuerdo con su edad, desarrollo cognoscitivo y grado de madurez, serán escuchados y su opinión será fundamental para la determinación que adopte el órgano jurisdiccional competente;
+
+II. Se tomará en cuenta que las condiciones en la familia de acogimiento pre-adoptiva sean adecuadas para el desarrollo integral de niñas, niños y adolescentes, de conformidad con el principio de interés superior de la niñez;
+
+III. Se tomará en consideración el grado de parentesco; la relación de afinidad y de afectividad; el origen, la comunidad y las condiciones culturales en que se desarrollen niñas, niños y adolescentes, y
+
+IV. Se procurará no separar a hermanas y hermanos, pero si hubiere necesidad de ello, se establecerán medidas para que mantengan vínculos de convivencia, contacto y comunicación permanente.
+
+###### Artículo 22.
+
+Una vez autorizada la asignación de niñas, niños o adolescentes a una familia de acogida pre-adoptiva, el Consejo Técnico de Adopciones deberá dar seguimiento a la convivencia entre ellos y al proceso de adaptación conforme a su nueva situación, con la finalidad de prevenir o superar las dificultades que se puedan presentar.
+
+Si no se lograran consolidar las condiciones de adaptación de niñas, niños y adolescentes con la familia de acogida pre-adoptiva, el Consejo Técnico de Adopciones iniciará el procedimiento correspondiente para reincorporarlos al sistema que corresponda y de ser necesario, realizar una nueva asignación.
+
+Corresponde al Consejo Técnico de Adopciones de la entidad revocar la asignación y ejercer las facultades que le otorgan la presente ley y demás disposiciones jurídicas aplicables, cuando se violenten los derechos de niñas, niños y adolescentes que hayan sido asignados.
+
+###### Artículo 23.
+
+Corresponde al Sistema DIF Estatal:
+
+I. Prestar servicios de asesoría y asistencia jurídica a las personas que deseen asumir el carácter de familia de acogimiento pre-adoptivo de niñas, niños o adolescentes, así como su capacitación;
+
+Il. Realizar evaluaciones sobre la idoneidad de las condiciones de quienes pretendan adoptar, y emitir correspondientes, así como formular las pertinentes al órgano jurisdiccional, y los dictámenes recomendaciones.
+
+III. Contar con un sistema de información que permita registrar a las niñas, niños y adolescentes cuya situación jurídica o familiar permita que sean susceptibles de adopción, así como el listado de las personas solicitantes de adopción, adopciones concluidas e informar de manera trimestral a la Procuraduría de Protección Federal.
+
+###### Artículo 24.
+
+En materia de adopciones se estará a lo dispuesto por la Ley General y la legislación local en la materia.
+
+###### Artículo 25.
+
+Las autoridades competentes en materia de desarrollo integral de la familia e instituciones públicas y privadas ofrecerán orientación, cursos y asesorías gratuitas, así como servicios terapéuticos en materia de pareja, de maternidad y paternidad, entre otros.
+
+### Capítulo Quinto. Del Derecho a la Igualdad
+
+###### Artículo 26.
+
+Niñas, niños y adolescentes tienen derecho al acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos contenidos en la presente Ley, a fin de garantizar su desarrollo integral.
+
+Con el fin de garantizar la igualdad entre niñas, niños y adolescentes, las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán realizar las siguientes acciones:
+
+I. Contribuir con programas de alimentación, educación, y médicos para la nivelación en el acceso a las oportunidades de niñas, niños y adolescentes, especialmente para aquellos que pertenezcan a grupos y regiones con mayor rezago educativo o que enfrenten condiciones económicas y sociales desfavorables;
+
+II. Promover la eliminación de costumbres y tradiciones que sean perjudiciales para el acceso al mismo trato y oportunidades entre las niñas y los niños y las adolescentes y los adolescentes;
+
+III. Desarrollar campañas encaminadas a promover la responsabilidad de preservar los derechos de niñas, niños y adolescentes dirigidas a los ascendientes, tutores o custodios.
+
+IV. Establecer medidas expeditas, en los casos, en que niñas, niños y adolescentes no cuenten con un legítimo representante para el ejercicio de sus derechos.
+
+### Capítulo Sexto. Del Derecho a No ser Discriminado
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+###### Artículo 27.
+
+Niñas, niños y adolescentes tienen derecho a no ser discriminados, por lo que no deberá hacerse distinción, exclusión o restricción alguna de sus derechos, en razón de su raza, origen étnico, nacional o social, idioma, sexo, religión, opiniones, condición socioeconómica, discapacidad, circunstancias de nacimiento, estado de salud, de su situación de maternidad o paternidad prematura o cualquier otra condición atribuible a ellos mismos o a su madre, padre, tutor, familiares o quienes ejerzan la custodia sobre ellos.
+
+###### Artículo 28.
+
+Las instancias públicas del Estado de Durango deberán reportar semestralmente a la Comisión Estatal de Derechos Humanos las medidas de nivelación, inclusión, o las acciones afirmativas que adopten a favor de niñas, niños y adolescentes.
+
+Los reportes deberán contener la información seccionada por edad, sexo, escolaridad y municipio.
+
+### Capítulo Séptimo. Del Derecho a Vivir en Condiciones de Bienestar y a un Sano Desarrollo Integral
+
+###### Artículo 29.
+
+Niñas, niños y adolescentes tienen derecho a vivir en un medio ambiente sano y sustentable, y en condiciones que permitan su desarrollo, bienestar, crecimiento saludable y armonioso, tanto físico como mental, material, espiritual, ético, cultural y social.
+
+Corresponde a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, la obligación primordial de proporcionar, dentro de sus posibilidades y medios económicos, las condiciones de vida suficientes para su sano desarrollo. Las autoridades, en el ámbito de sus respectivas competencias, coadyuvarán a dicho fin mediante la adopción de las medidas apropiadas.
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2021)</small>
+
+Dentro de las responsabilidades de velar por el sano desarrollo de niñas, niños y adolescentes, se adquiere la de brindar el acceso a una vida libre de condiciones de mendicidad, entendiéndose como toda situación que implique solicitar limosnas para sí o para un tercero.
+
+Las autoridades estatales y municipales, estarán obligadas de manera subsidiaria, en el ámbito de sus respectivas competencias, mediante políticas públicas, programas y acciones a crear condiciones para que la familia pueda desempeñar sus derechos y obligaciones de manera adecuada para asegurar los derechos de niñas, niños y adolescentes.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
+
+Queda prohibido el uso del castigo corporal y humillante en todos los ámbitos, como método correctivo o disciplinario a niñas, niños o adolescentes.
+
+###### Artículo 30.
+
+En el Estado de Durango, la edad mínima para contraer matrimonio son los 18 años.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2023)</small>
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias y con la finalidad de brindar protección a niñas, niños y adolescentes, establecerán medidas y acciones encaminadas a prevenir y erradicar, uniones tempranas o forzadas con pertinencia cultural, la cesión, entrega o intercambio de niñas, niños y/o adolescentes a título oneroso o gratuito con fines de unión informal o de hecho en el Estado.
+
+### Capítulo Octavo. Derecho de Acceso a una Vida Libre de Violencia y a la Integridad Personal
+
+###### Artículo 31.
+
+Niñas, niños y adolescentes tienen derecho a vivir una vida libre de toda forma de violencia y a que se resguarde su integridad personal, a fin de lograr las mejores condiciones de bienestar y el desarrollo integral.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2026)</small>
+
+Cuando se detecten embarazos en niñas y adolescentes menores de 18 años, los servicios de salud deberán notificar de manera inmediata a la Procuraduría de Protección de Niñas, Niños y Adolescentes, a efecto de que se realice una valoración integral del caso, con enfoque de interés superior, perspectiva de género y respeto a los derechos sexuales y reproductivos.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2026)</small>
+
+En caso de que, derivado de dicha valoración, existan indicios de la posible comisión de un delito, la Procuraduría de Protección dará vista al Ministerio Público, garantizando en todo momento la no revictimización, el derecho a ser escuchada y el acceso continuo a servicios de salud, acompañamiento psicosocial y protección integral.
+
+> <small>(ADICIONADO, P.O. 26 DE ABRIL DE 2026)</small>
+
+Así mismo, tienen derecho a que se respete su integridad corporal y a no ser sometidos a procedimientos médicos quirúrgicos con fines meramente estéticos que modifiquen su cuerpo o comprometan su salud física y emocional.
+
+###### Artículo 32.
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán adoptar las medidas necesarias para que niñas niños y adolescentes vivan en contextos familiares, escolares, vecinales y estatales libres de violencia, por lo que deberán:
+
+I. Prevenir, sancionar y erradicar los casos en que niñas, niños o adolescentes se vean afectados por las acciones u omisiones a que se refiere el artículo 47 de la Ley General;
+
+II. Implementar las medidas apropiadas para prevenir, sancionar y erradicar cualquier tipo de violencia en contra de niñas, niños y adolescentes con discapacidad;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+III. Adoptar las medidas apropiadas de conformidad con la legislación correspondiente para promover la recuperación física, psicológica y la integración social de niñas, niños y adolescentes víctimas directas o indirectas de violencia para lograr el goce y restitución de sus derechos;
+
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2021)</small>
+
+IV. Garantizar su reincorporación a la vida cotidiana, en un ambiente que fomente la salud física y psicológica, el respeto y la dignidad de niñas, niños y adolescentes, para su desarrollo integral;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+V. Elaborar protocolos de atención en los que se considere su situación familiar, su edad, desarrollo evolutivo, cognoscitivo y madurez para la implementación de las acciones de asistencia y protección respectivas, así como para la reparación integral del daño;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+VI. Coordinar programas, talleres y campañas de información para padres, alumnas y alumnos a fin de generar la prevención, protección y erradicación de la violencia digital, así como del uso responsable de las tecnologías de la información y la comunicación;
+
+> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+VII. Implementar programas, acciones y medidas especiales para la protección de los derechos de niñas, niños y adolescentes en situación de orfandad, afectados por la violencia derivada de la comisión de algún delito o la violencia generalizada o de cualquier otra índole; y
+
+> <small>(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2022)</small>
+
+VIII. Adoptar medidas y acciones para la prevención, protección y erradicación de la hipersexualización infantil en el Estado.
+
+### Capítulo Noveno. Del Derecho a la Protección de la Salud y a la Seguridad Social
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2021)</small>
+
+###### Artículo 33.
+
+Niñas, niños y adolescentes tienen derecho a disfrutar del más alto nivel posible de salud, así como a recibir la prestación de servicios de atención médica gratuita y de calidad de conformidad con la legislación aplicable, con el fin de prevenir, proteger y restaurar su salud. Las autoridades Estatales y Municipales, en el ámbito de sus respectivas competencias, en relación con los derechos de niñas, niños y adolescentes, se coordinarán a fin de:
+
+I. Reducir la morbilidad y mortalidad;
+
+II. Asegurar la prestación de la asistencia médica y sanitaria que sean necesarias a niñas, niños y adolescentes, haciendo hincapié en la atención primaria;
+
+III. Promover en todos los grupos de la sociedad y, en particular, en quienes ejerzan la patria potestad, tutela o guarda y custodia, de niños, niñas y adolescentes, los principios básicos de la salud, la nutrición, la higiene y el saneamiento ambiental, las medidas de prevención de accidentes, las ventajas de la lactancia materna, exclusiva dentro de los primeros seis meses y complementaria hasta los dos años;
+
+IV. Adoptar medidas tendentes a la eliminación las prácticas culturales, usos y costumbres que sean perjudiciales para la salud de niñas, niños y adolescentes;
+
+V. Desarrollar la atención sanitaria preventiva, la orientación a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes, y cuidados en materia de planificación familiar de conformidad con la Ley de Salud del Estado de Durango;
+
+VI. Asegurar la prestación de servicios de atención médica respetuosa, efectiva e integral durante el embarazo, parto y puerperio;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2023)</small>
+
+VII. Impulsar programas de prevención e información, así como la asistencia para combatir el sedentarismo, la desnutrición crónica y aguda, la malnutrición, sobrepeso y obesidad, así como otros trastornos de conducta alimentaria mediante la promoción de una alimentación equilibrada y saludable, el consumo de agua potable, así como la activación física, la disciplina deportiva y el fomento del ejercicio físico; así como de medidas preventivas que inhiban o disminuyan el consumo de alimentos o bebidas con bajo contenido nutricional y excesivo contenido graso, de azúcares o sodio
+
+VIII. Fomentar y ejecutar los programas de vacunación y el control de la niñez y adolescencia sana para vigilar su crecimiento y desarrollo en forma periódica;
+
+IX. Atender de manera especial las enfermedades respiratorias, renales, gastrointestinales, epidémicas, cáncer, VIH, SIDA y otras enfermedades de transmisión sexual e impulsar programas de prevención e información sobre éstas;
+
+X. Disponer lo necesario para que niñas, niños y adolescentes con discapacidad reciban la atención apropiada a su condición, que los rehabilite, mejore su calidad de vida, facilite su interacción e inclusión social y permita un goce igualitario de sus derechos;
+
+XI. Prohibir, sancionar y erradicar la esterilización forzada de niñas, niños y adolescentes y cualquier forma de violencia obstétrica;
+
+XII. Establecer las medidas para que en los servicios de salud se atiendan de manera especial los casos en que niñas, niños y adolescentes sean víctimas de delitos o de cualquier tipo de violencia;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+XIII. Establecer medidas tendentes a la prevención, atención, combate y rehabilitación de los problemas de salud pública causados por las adicciones;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2026)</small>
+
+XIV. Establecer medidas para la detección temprana de discapacidades a efecto de prevenir y reducir al máximo la aparición de nuevas discapacidades y asegurar los mayores niveles de atención y rehabilitación;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2026)</small>
+
+XV. Establecer programas, acciones y medidas especiales para el cuidado de la salud de niñas, niños y adolescentes en situación de orfandad derivada de la comisión (sic) algún delito o la violencia generalizada o de cualquier otra índole;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2026)</small>
+
+XVI. Fomentar acciones y programas para difundir entre la ciudadanía los perjuicios dañinos de la exposición de las niñas y niños al humo de segunda mano derivado del consumo de tabaco, y
+
+> <small>(ADICIONADA, P.O. 26 DE ABRIL DE 2026)</small>
+
+XVII. Prohibir la realización de cirugías estéticas en personas menores de dieciocho años de edad, exceptuando aquellos casos en los que la cirugía sea reconstructiva y esta se encuentre debidamente justificada por el dictamen médico especializado.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 19 DE DICIEMBRE DE 2023)</small>
+
+En todos los casos se respetará el derecho a la intimidad de niñas, niños y adolescentes, conforme al artículo 48 de la presente Ley, así como el derecho a la información de quienes detenten la patria potestad, tutela o guarda y custodia o la de sus familiares sobrevivientes en su caso de niños niñas y adolescentes en relación a su estado de su salud, para cumplir con su obligación constitucional de proteger y exigir el cumplimiento del derecho a la salud de niñas, niños y adolescentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE JUNIO DE 2024)</small>
 
 ###### Artículo 33 Bis.
 
@@ -431,303 +661,475 @@ II. Atención psicológica, y tratamiento a niñas, niños y adolescentes que su
 
 III. La promoción de la salud integral para la prevención de cualquier tipo de violencia en niñas, niños y adolescentes.
 
-###### ARTICULO 34.
+###### Artículo 34.
 
-Las instituciones que ofrezcan este servicio podrán ser secundarias generales, técnicas y telesecundarias.
+Las autoridades, en el ámbito de sus respectivas competencias y de conformidad con las disposiciones aplicables, deberán garantizar el derecho a la seguridad social, así como desarrollar políticas para fortalecer la salud materno infantil y aumentar la esperanza de vida.
 
-### CAPITULO VII. DE LA EDUCACION ESPECIAL
+### Capítulo Décimo. Del Derecho a la Inclusión de Niñas, Niños y Adolescentes con Discapacidad
 
-###### ARTICULO 35.
+###### Artículo 35.
 
-Las escuelas públicas de nueva creación del tipo básico, llevarán el nombre que designe el Ejecutivo del Estado de una terna de hombres ilustres o conceptos e instituciones coincidentes con los fines educativos, propuestas por la comunidad educativa del plantel, en la que no podrán figurar nombres de personas vivas.
+Niñas, niños y adolescentes con discapacidad tienen derecho a la igualdad de condiciones con los demás niñas, niños y adolescentes, a vivir incluidos en la comunidad y a disfrutar de los derechos contenidos en la presente Ley, la Constitución Federal, la Constitución Local, los tratados internacionales y demás leyes aplicables.
 
-###### ARTICULO 36.
+###### Artículo 36.
 
-La educación física contribuirá al desarrollo armónico e integral del individuo en el proceso escolar y se promoverá en los niveles de educación básica.
+Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, están obligadas a implementar medidas de nivelación, de inclusión y acciones afirmativas en los términos de las disposiciones jurídicas aplicables considerando los principios de participación e inclusión plenas y efectivas en la sociedad, respeto por la diferencia y la aceptación de las personas con discapacidad como parte de la condición humana, para lo cual deberán:
 
-### CAPITULO VIII. DE LA EDUCACION MEDIA SUPERIOR
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-###### ARTICULO 37.
+I. Realizar ajustes razonables para fomentar la inclusión social, escolar y cultural, además de establecer el diseño universal de accesibilidad de niñas, niños y adolescentes con discapacidad, en términos de la legislación aplicable;
 
-Las autoridades educativas serán las responsables de la expedición y aplicación de los programas y guías metodológicas oficiales de educación física, en los diferentes niveles educativos.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-###### ARTICULO 38.
+II. Dotar a las instalaciones que ofrezcan trámites y servicios a niñas, niños y adolescentes con discapacidad, de señalización en Braille y formatos accesibles de fácil lectura y comprensión y procurarán ofrecer otras medidas de asistencia e intermediarios, así como un intérprete o aquellos medios tecnológicos que les permitan obtener información de forma comprensible de acuerdo a las particularidades de cada caso;
 
-La educación física que imparta el Gobierno del Estado y los Municipios, tendrá además de los propósitos establecidos los siguientes:
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-I.- Estimular la disciplina del ejercicio físico y la práctica del deporte;
+III. Realizar acciones y políticas públicas a fin de sensibilizar a la sociedad, incluso a nivel familiar, para que tome mayor conciencia respecto de niñas, niños y adolescentes con discapacidad y fomentar el respeto y reconocimiento a sus derechos humanos, a sus libertades fundamentales y dignidad, así como combatir los estereotipos, desinformación y prejuicios respecto de su discapacidad;
 
-II.- Desarrollar actitudes responsables hacia la preservación de la salud, propiciar el rechazo a las adiciones (sic) y prevenir las conductas delictivas, y
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-III.- Fomentar y difundir la cultura física en todas sus manifestaciones.
+IV. Ofrecer apoyos educativos y formativos para quienes ejercen la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes con discapacidad, a fin de aportarles los medios necesarios para que puedan fomentar su máximo desarrollo, bienestar y vida digna;
 
-###### ARTICULO 39.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-La educación artística tendrá como propósito, desarrollar las aptitudes creadoras, estimular e impulsar todas las expresiones del arte y la cultura regional, nacional y universal. Esta educación se impartirá dentro de las actividades de educación básica y normal.
+V. Promover acciones interdisciplinarias para el estudio, prevención, diagnóstico temprano, tratamiento y rehabilitación de las discapacidades de niñas, niños y adolescentes que en cada caso se necesiten, asegurando que sean accesibles a las posibilidades económicas de sus familiares;
 
-### CAPITULO IX. DE LA EDUCACION SUPERIOR
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-###### ARTICULO 40.
+VI. Prevenir la ocultación, abandono, negligencia, discriminación, abuso y segregación de niñas, niños y adolescentes con discapacidad;
 
-La educación indígena contribuirá a la conservación y desarrollo de las lenguas, valores y costumbres de los grupos étnicos, al tiempo que facilitará al educando su integración y una mayor participación a la vida estatal y a la identidad nacional.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-### CAPITULO X. DE LA EDUCACION PARA LOS ADULTOS
+VII. Disponer acciones que permitan ofrecerles cuidados elementales gratuitos, acceso a programas de estimulación temprana, servicios de salud, rehabilitación, juego y esparcimiento, actividades culturales, artísticas y ocupacionales, así como a la capacitación para el trabajo; y
 
-###### ARTICULO 41.
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2021)</small>
 
-La educación indígena promoverá en el educando actitudes encaminadas a la prevención y conservación de la salud, sin abandonar los conocimientos de la medicina tradicional.
+VIII. Establecer mecanismos que permitan la recopilación, actualización y disposición periódica y sistemática de información y estadística de niñas, niños y adolescentes con discapacidad, que permita una adecuada formulación de políticas públicas y acciones de la sociedad civil en la materia. Dichos reportes deberán desagregarse, al menos, por sexo, edad, escolaridad, municipio y tipo de discapacidad.
 
-### CAPITULO XI. DE LA EDUCACION INFORMAL
+### Capítulo Décimo Primero. Del Derecho a la Educación
 
-###### ARTICULO 42.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2023)</small>
 
-La educación indígena se apoyará con servicios asistenciales y de extensión educativa que faciliten en forma continua y permanente el aprendizaje y aprovechamiento de los alumnos, respetando y resaltando su personalidad y su cultura.
+###### Artículo 37.
 
-###### ARTICULO 43.
+Niñas, niños y adolescentes tienen derecho a una educación de calidad que contribuya al conocimiento de sus propios derechos, basada en un enfoque de derechos humanos y de igualdad sustantiva, que garantice el respeto a su dignidad humana; el pleno y armonioso desarrollo de sus potencialidades y personalidad, en bienestar de la salud física, mental y emocional, y fortalezca el respeto a los mismos derechos humanos y a las libertades fundamentales, en los términos del artículo 3o. de la Constitución Federal, la Constitución Local, la Ley General de Educación, la Ley de Educación del Estado de Durango, los tratados internacionales y demás disposiciones jurídicas aplicables.
 
-La educación indígena deberá impartirse por docentes bilingües, de acuerdo a las necesidades étnicas de cada región.
+Quienes ejerzan la patria potestad, tutela o guarda y custodia, tendrán derecho a intervenir en la educación que habrá de darse a niñas, niños y adolescentes.
 
-###### ARTICULO 44.
+Las autoridades estatales, en el ámbito de sus respectivas competencias garantizarán la consecución de una educación de calidad y la igualdad en el acceso y permanencia en la misma, para lo cual deberán:
 
-La educación especial tendrá como finalidad brindar apoyo psicopedagógico a individuos con discapacidades transitorias o definitivas, así como a aquellos con capacidad y aptitudes sobresalientes.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2023)</small>
 
-Procurará atender a los educandos de manera adecuada a sus propias condiciones, para que se integren al medio escolar regular, a la comunidad y al trabajo productivo.
+I. Proporcionar la atención educativa que niñas, niños y adolescentes requieran para su pleno desarrollo, y su salud física, mental y emocional para lo cual, los programas respectivos deberán considerar la edad, madurez, circunstancias particulares y tradiciones culturales, para prepararlos para la vida con un espíritu crítico, reflexivo y analítico;
 
-Tratándose de personas en edad escolar con estas características, se propiciará su integración a los planteles de educación básica regular, y para aquéllos que no logren esta integración se procurará atenderlos de manera adecuada a sus propias condiciones con equidad social.
+II. Adoptar medidas orientadas hacia el pleno ejercicio del derecho a la educación;
 
-### CAPITULO I. DE LA PLANEACION EDUCATIVA
+III. Establecer medidas para garantizar la gratuidad de la educación pública obligatoria y para procurar la accesibilidad material, económica y geográfica a la educación sin discriminación;
 
-###### ARTICULO 45.
+> <small>(ADICIONADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
 
-La educación especial se ofrecerá en planteles educativos estatales, municipales y particulares con autorización o reconocimiento de validez oficial de estudios.
+Tratándose de mujeres que se encuentran recluidas en los Centros de Reinserción Social, se asegurará que dicha lactancia se proporcione en condiciones apropiadas;
 
-###### ARTICULO 46.
+IV. Establecer las condiciones necesarias para fortalecer la calidad educativa, tales como la relevancia y pertinencia de la currícula, la disposición de la infraestructura y equipamiento adecuados para el aprendizaje y para las prácticas de enseñanza y la evaluación docente;
 
-En la impartición de la educación para menores de edad se tomarán medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad, y que la aplicación de la disciplina escolar sea compatible con su edad.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2023)</small>
 
-### CAPITULO II. DE LA EVALUACION EDUCATIVA
+V. Destinar recursos humanos, materiales y presupuestarios adecuados para garantizar la educación de calidad de niñas, niños y adolescentes; con enfoque de los derechos humanos y de igualdad sustantiva.
 
-###### ARTICULO 47.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2023)</small>
 
-La educación media superior continuará la formación integral del educando, que le permita el acceso tanto a la educación de su sociedad y de su tiempo, así como su posible incorporación al trabajo productivo.
+VI. Adaptar el sistema educativo a las condiciones, intereses y contextos específicos de niñas, niños y adolescentes para garantizar su permanencia y continuidad en el sistema educativo;
 
-La educación media superior deberá propiciar en el educando:
+VII. Establecer acciones afirmativas para garantizar el derecho a la educación de niñas, niños y adolescentes de grupos y regiones con mayor rezago educativo, dispersos o que enfrentan situaciones de vulnerabilidad por circunstancias específicas de carácter socioeconómico, físico, mental, de identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con su sexo, creencias religiosas o prácticas culturales;
 
-I.- El desarrollo de un sistema de valores sociales, a partir de principios universales y nacionales racionalmente compartidos;
+VIII. Prestar servicios educativos en condiciones de normalidad mínima, entendida ésta como el conjunto de condiciones indispensables que deben cumplirse en cada escuela para el buen desempeño de la tarea docente y el logro del aprendizaje de los educandos;
 
-II.- La participación crítica en el desarrollo cultural de su tiempo;
+IX. Implementar mecanismos para la atención, canalización y seguimiento de los casos que constituyan violaciones al derecho a la educación de niñas, niños y adolescentes;
 
-III.- La adquisición de los instrumentos metodológicos necesarios para su formación y acceso al conocimiento científico;
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
-IV.- La consolidación de los distintos aspectos de su personalidad que le permitan desarrollar su capacidad de abstracción y el auto aprendizaje; y
+X. Contribuir a garantizar la permanencia y conclusión de la educación obligatoria de niñas, niños y adolescentes, para abatir el ausentismo, bajo rendimiento, abandono y deserción escolar, mediante campañas que promuevan los servicios de alfabetización de los niveles básicos.
 
-V.- Su introducción a los aspectos aplicados de la ciencia y la tecnología, durante la formación para el trabajo.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2023)</small>
 
-### CAPITULO II. DE LAS ASOCIACIONES DE PADRES DE FAMILIA
+XI. Fomentar la convivencia escolar armónica y la generación de mecanismos para la discusión, debate y resolución pacífica de conflictos y disminución en su incidencia;
 
-###### ARTICULO 48.
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2021)</small>
 
-Las escuelas de educación media superior terminal o de enseñanza técnica, normarán sus trabajos de acuerdo a los programas que cubran las necesidades del alumnado y de la entidad, con el fin de preparar personal calificado en la (sic) diferentes actividades de la industria, del comercio y del trabajo en general.
+XII. Conformar una instancia multidisciplinaria responsable que establezca mecanismos para la prevención, atención y canalización de los casos de maltrato, perjuicio, daño, agresión, abuso sexual o cualquier otra forma de violencia incluyendo la violencia digital en contra de niñas, niños y adolescentes que se suscite en los centros educativos;
 
-###### ARTICULO 49.
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2021)</small>
 
-La educación media superior tendrá como antecedente la educación secundaria completa y comprenderá el nivel de bachillerato, los demás niveles equivalentes a éste, así como la educación profesional de nivel medio superior que no requiere el antecedente de bachillerato o sus equivalentes; y se organizará y funcionará conforme a los lineamientos establecidos en esta Ley.
+XIII. Elaborar protocolos de actuación sobre situaciones de acoso o violencia escolar y violencia sexual y/o digital que afecten a niñas, niños y adolescentes, para guiar la actuación del personal docente y para quienes ejerzan la patria potestad, tutela o guarda y custodia;
 
-###### ARTICULO 50.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2023)</small>
 
-El bachillerato podrá ser propedéutico, terminal o bivalente:
+XIV. Garantizar el pleno respeto al derecho a la educación y la inclusión de niñas, niños y adolescentes con discapacidad en todos los niveles del Sistema Educativo Estatal, desarrollando y aplicando normas y reglamentos que eviten su discriminación y las condiciones de accesibilidad en instalaciones educativas, proporcionen los apoyos didácticos, materiales y técnicos y cuenten con personal docente capacitado, así como su participación en actividades recreativas, deportivas, lúdicas, artísticas, científicas o culturales en instituciones públicas, privadas y sociales;
 
-I.- Será propedéutico el que se oriente hacia la formación del educando para su incorporación específica a los estudios de educación superior;
+XV. Adoptar medidas para responder a las necesidades de niñas, niños y adolescentes con aptitudes sobresalientes, de tal manera que se posibilite su desarrollo progresivo e integral, conforme a sus capacidades y habilidades personales;
 
-II.- Será terminal el que ofrezca una preparación tecnológica que permita al egresado su integración al sector productivo; y
+XVI. Establecer mecanismos para la expresión y participación de niñas, niños y adolescentes, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez que permita atender y tomar en cuenta sus intereses y preocupaciones en materia educativa;
 
-III.- Será bivalente el que atienda las dos finalidades señaladas en las dos fracciones anteriores.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-###### ARTICULO 51.
+XVII. Administrar la disciplina escolar de modo compatible con la dignidad humana, prohibiendo la imposición de medidas de disciplina que no estén previamente establecidas, sean contrarias a la dignidad humana o atenten contra la vida o la integridad física, mental y/o emocional de niñas, niños y adolescentes, incluyendo el castigo corporal o humillante;
 
-En la impartición de la educación media superior con preparación de conocimientos técnicos especializados y formación para el trabajo, las autoridades educativas locales podrán escuchar las opiniones del sector productivo para la elaboración de planes y programas de estudio que permitan a los educandos adquirir los conocimientos, habilidades y destrezas que faciliten su incorporación al desarrollo económico tanto estatal como nacional.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-### CAPITULO I. DE LOS PADRES DE FAMILIA
+XVIII. Erradicar las prácticas pedagógicas discriminatorias, excluyentes, que atenten contra la dignidad humana o integridad, especialmente el castigo corporal y los tratos humillantes y degradantes;
 
-###### ARTICULO 52.
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2021)</small>
 
-La educación superior que esté a cargo del Gobierno del Estado tendrá como antecedente el bachillerato o su equivalente, e incluirá: educación tecnológica, educación normal, la que se imparta en la Universidad Pedagógica del Estado de Morelos, y demás para la formación de docentes de educación básica; así como opciones terminales posteriores al bachillerato o previas a la conclusión de la licenciatura.
+XIX. Inculcar en niñas, niños y adolescentes el respeto, protección y conservación del medio ambiente, considerándolos como elementos esenciales para el desenvolvimiento armónico e integral del individuo y la sociedad al medio ambiente; el respeto, cuidado y bienestar de los animales; así como los conceptos y principios fundamentales de las ciencias ambientales, el fomento de hábitos dirigidos a un estilo de vida sustentable, la sensibilización y prevención sobre las causas y efectos del cambio climático. Poniendo en el centro de la formación la afectación que se genera por el empleo del plástico de un solo uso y el uso inmoderado del agua.
 
-###### ARTICULO 53.
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2021)</small>
 
-El Gobierno del Estado promoverá, en coordinación con las autoridades federales, la consolidación y el desarrollo de las instituciones públicas de educación superior, dentro del ámbito de su competencia y conforme a los lineamientos que fije la legislación aplicable.
+XX. Establecer mecanismos para fomentar el uso responsable y seguro de las tecnologías de información y comunicación;
 
-La política estatal para la educación superior atenderá a su carácter estratégico, en la producción y orientación de conocimientos que incidan en el desarrollo económico, social y cultural del Estado, con la formación de los profesionistas que demanda la sociedad, atendiendo a las necesidades de las diversas regiones de la Entidad y conforme al Programa Estatal de Educación.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2023)</small>
 
-###### ARTICULO 54.
+XXI. Establecer acciones afirmativas que garanticen el acceso y permanencia de niñas y adolescentes embarazadas y faciliten su reingreso al sistema educativo estatal;
 
-La autoridad educativa del Estado, por conducto del órgano técnico de planeación, hará las recomendaciones que estime pertinentes para mantener una comunicación efectiva entre las instituciones públicas y privadas en relación con el servicio educativo, su calidad y su evaluación, así como sobre el crecimiento y expansión curricular, evitando duplicidades y esfuerzos en la esfera educativa, en beneficio de la sociedad.
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2025)</small>
 
-###### ARTICULO 55.
+XXII. Diseñar una calendarización y planeación específica, estructurada en coordinación con los padres de familia, o con quienes ejerzan la patria potestad, tutela o guarda y custodia de las niñas, niños y adolescentes estudiantes, con el objetivo de garantizar la participación directa y permanente de éstos en la educación, ello a través de escuelas para padres, reuniones informativas u otro tipo de actividades que fortalezcan su corresponsabilidad formativa y educativa con las instituciones de enseñanza;
 
-La política estatal de educación en un marco de respeto y colaboración hacia las instituciones públicas de este tipo educativo, buscará en todo momento, coadyuvar al mejoramiento institucional, a mantener criterios confiables de evaluación, de ampliación de la cobertura y prever la configuración de fenómenos negativos que impacten la calidad del servicio educativo.
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2025)</small>
 
-### CAPITULO III. DE LOS CONSEJOS DE PARTICIPACION SOCIAL
+XXIII. Formular y fomentar las condiciones requeridas para el uso responsable y saludable del traslado de útiles y materiales escolares, de manera que se evite la sobrecarga o el peso excesivo de la mochila de los estudiantes; y
 
-###### ARTICULO 94.
+> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2025)</small>
 
-Las autoridades educativas en el Estado promoverán, de conformidad con los lineamientos que establezca la autoridad educativa federal, la participación de la sociedad en actividades que tengan por objeto fortalecer y elevar la calidad de la educación pública, ampliar la cobertura de los servicios educativos y buscar la participación social coordinada de las autoridades educativas, de los trabajadores de la educación, de los educandos y de los sectores sociales vinculados con ésta, a través de un Sistema de Consejos de Participación Social conforme a las necesidades propias de cada región, debiendo garantizar:
+XXIV. Proporcionar los elementos básicos de protección civil tales como señalización de seguridad, capacitación y simulacros, un programa, interno de protección civil, con la finalidad de brindar seguridad y capacidad de respuesta ante la eventualidad de alguna emergencia o desastre tanto a docentes como a Niñas, Niños y Adolescentes.
 
-I.- La democracia participativa de sus miembros;
+###### Artículo 38.
 
-II.- La representatividad equitativa de los sectores sociales, y
+La educación, además de lo dispuesto en las disposiciones jurídicas aplicables, tendrá los siguientes fines:
 
-III.- La autonomía en el ámbito de sus atribuciones.
+I. Fomentar en niñas, niños y adolescentes los valores fundamentales y el respeto de la identidad propia, así como a las diferencias culturales y opiniones diversas;
 
-###### ARTICULO 95.
+II. Desarrollar las aptitudes y las potencialidades de niñas, niños y adolescentes;
 
-El Sistema de Consejos de Participación Social estará integrado por:
+III. Inculcar a niñas, niños y adolescentes sentimientos de identidad y pertenencia a su escuela, comunidad y nación, así como su participación activa en el proceso educativo y actividades cívicas en términos de las disposiciones jurídicas aplicables;
 
-I.- Un Consejo Estatal de Participación Social que como órgano de consulta, orientación y apoyo, funcione con la participación de los padres de familia y representantes de sus asociaciones, maestros y representantes de su organización sindical, instituciones formadoras de docentes, autoridades educativas estatales, municipales, así como de sectores sociales de la Entidad especialmente interesados en la educación;
+IV. Orientar a los adolescentes respecto a la formación profesional, las oportunidades de empleo y las posibilidades de carrera;
 
-II.- En cada Municipio, un Consejo Municipal de Participación Social, integrado por las autoridades municipales, padres de familia y representantes de sus asociaciones, maestros distinguidos y directivos de las escuelas establecidas en el Municipio, representantes de la organización sindical de los maestros, representantes de organizaciones sociales y demás interesados en el mejoramiento de la educación;
+V. Apoyar a niñas, niños y adolescentes que sean víctimas de maltrato y la atención especial de quienes se encuentren en situación de riesgo;
 
-III.- En cada escuela pública de educación básica, un Consejo Escolar de Participación Social, integrado con padres de familia y representantes de sus asociaciones, maestros y representantes de su organización sindical, directivos de la escuela, exalumnos, así como los demás miembros de la comunidad interesados en el desarrollo de la propia escuela. Consejos análogos podrán operar en las escuelas particulares de educación básica.
+VI. Prevenir el delito y las adicciones, mediante el diseño y ejecución de programas;
 
-Cada Consejo se integrará con una estructura mínima formada por un Presidente, un Secretario, un Tesorero, y dos vocales, que lo serán quienes designe el propio Consejo de que se trate.
+VII. Emprender, en cooperación con quienes ejercen la patria potestad, tutela o guarda y custodia, así como con grupos de la comunidad, la planificación, organización y desarrollo de actividades extracurriculares que sean de interés para niñas, niños y adolescentes;
 
-###### ARTICULO 96.
+VIII. Impartir a los educandos conocimientos sobre la sexualidad, la reproducción humana, la planificación familiar, la paternidad y maternidad responsables; así como la prevención de enfermedades de transmisión sexual, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez;
 
-Los Consejos de Participación Social a que se refiere el artículo anterior tendrán las atribuciones y obligaciones que señalen los reglamentos respectivos que apruebe la autoridad educativa competente.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2023)</small>
 
-###### ARTICULO 97.
+IX. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, propiciar la cultura de la legalidad, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos;
 
-Los Consejos de Participación Social se abstendrán de intervenir en los aspectos laborales de los establecimientos educativos y no deberán participar en cuestiones políticas ni religiosas.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2024)</small>
 
-###### ARTICULO 98.
+X. Difundir los derechos humanos de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercerlos;
 
-En el Estado de Morelos los medios de comunicación masiva en el desarrollo de sus actividades, contribuirán al logro de las finalidades de la educación previstas en la presente Ley, conforme a los criterios establecidos en el Artículo 3° de la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2024)</small>
 
-###### ARTICULO 56.
+XI. Fomentar y promover los beneficios de la cultura del ahorro, la educación financiera y el valor de la actitud emprendedora entre las niñas, niños y adolescentes; y
 
-Las instituciones públicas de educación superior, contarán de una manera permanente con mecanismos eficaces de evaluación que les permitan orientar y optimizar la función pública educativa, manteniendo criterios de calidad, fomentando la idea de Nación y Patria, así como procurar la formación humana y un elevado compromiso social de sus estudiantes.
+> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2024)</small>
+
+XII. Promover e incentivar en niñas, niños y adolescentes el acercamiento y práctica de la lectura que estimule su creatividad, memorización y el pensamiento crítico y asertivo, así como la comprensión y el uso adecuado del lenguaje y la escritura.
+
+###### Artículo 39.
+
+Sin perjuicio de lo dispuesto en otras disposiciones jurídicas aplicables, las autoridades competentes llevarán a cabo las acciones necesarias para propiciar las condiciones idóneas para crear un ambiente libre de violencia en las instituciones educativas, en el que se fomente la convivencia armónica y el desarrollo integral de niñas, niños y adolescentes, incluyendo la creación de mecanismos de mediación permanentes donde participen quienes ejercen la patria potestad o tutela.
+
+Para efectos del párrafo anterior, las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, y las instituciones académicas se coordinarán para:
+
+I. Diseñar estrategias y acciones para la detección temprana, contención, prevención y erradicación del acoso o la violencia escolar en todas sus manifestaciones, que contemplen la participación de los sectores público, privado y social, así como indicadores y mecanismos de seguimiento, evaluación y vigilancia;
+
+II. Desarrollar actividades de capacitación para servidores públicos y para el personal administrativo y docente;
+
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2021)</small>
+
+III. Establecer mecanismos gratuitos de atención, asesoría, orientación y protección de niñas, niños y adolescentes involucrados en una situación de acoso, violencia sexual y/o digital o violencia escolar, y
+
+IV. Establecer y aplicar las sanciones que correspondan a las personas responsables de centros de asistencia social, personal docente o servidores públicos que realicen, promuevan, propicien, toleren o no denuncien actos de acoso o violencia escolar, conforme a lo dispuesto en esta Ley y demás disposiciones jurídicas aplicables.
+
+### Capítulo Décimo Segundo. De los Derechos al Descanso y al Esparcimiento
+
+###### Artículo 40.
+
+Niñas, niños y adolescentes tienen derecho al descanso, al esparcimiento, al juego y a las actividades recreativas propias de su edad, así como a participar libremente en actividades culturales, deportivas y artísticas, como factores primordiales de su desarrollo y crecimiento.
+
+Quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes deberán respetar el ejercicio de estos derechos y, por lo tanto, no podrán imponerles regímenes de vida, estudio, trabajo o reglas de disciplina desproporcionadas a su edad, desarrollo evolutivo, cognoscitivo y madurez, que impliquen la renuncia o el menoscabo de los mismos.
+
+Las autoridades, en el ámbito de sus respectivas competencias, están obligadas a garantizar el derecho de niñas, niños y adolescentes al descanso y el esparcimiento y a fomentar oportunidades apropiadas, en condiciones de igualdad, para su participación en actividades culturales, artísticas y deportivas dentro de su comunidad.
+
+### Capítulo Décimo Tercero. De los Derechos de la Libertad de Convicciones Éticas, Pensamiento, Conciencia, Religión y Cultura
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ABRIL DE 2021)</small>
+
+###### Artículo 41.
+
+Niñas, niños y adolescentes tienen derecho a la libertad de convicciones éticas, pensamiento, conciencia, religión, arte y cultura. Las autoridades políticas y gubernamentales, en el ámbito de sus respectivas competencias garantizarán el ejercicio de este derecho.
+
+Los derechos mencionados estarán sujetos únicamente a las limitaciones prescritas por la ley que sean necesarias para proteger los derechos de los demás. Se ejercerán bajo la orientación de los padres o quienes ejerzan la patria potestad, tutela o guarda y custodia, según la evolución de sus facultades a fin de que contribuya con su desarrollo integral.
+
+Niñas, niños y adolescentes no podrán ser discriminados de forma alguna por ejercer su libertad de convicciones éticas, de pensamiento, conciencia, religión y cultura.
+
+> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2021)</small>
+
+Así mismo, tienen derecho a disfrutar libremente de su lengua, cultura, usos, costumbres, prácticas culturales, artísticas, religión, recursos y formas específicas de organización social y todos los elementos que constituyen su identidad cultural, así como al acceso a espacios de arte y cultura y a expresar sus manifestaciones culturales y artísticas de acuerdo a sus propios intereses y expectativas.
+
+Lo dispuesto en este artículo se ejercerá en concordancia con el derecho a la educación y no será limitativo del deber de educación de los padres o de quienes ejerzan la patria potestad, tutela o guarda y custodia, de guiar y orientar a niñas, niños y adolescentes en el ejercicio de estos derechos, a fin de que contribuya con su desarrollo integral.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2024)</small>
+
+Las autoridades estatales y municipales aprovecharán su infraestructura y recursos, así como las acciones de fomento y promoción de la lectura; el uso y desarrollo de los medios de comunicación oficiales y de las nuevas tecnologías a su alcance; lo mismo que su vinculación con las empresas de la industria cultural, a fin de promover y difundir todas sus expresiones para que las niñas, niños y adolescentes del Estado cuenten con elementos de aprendizaje y acercamiento a la cultura y las artes, al pensamiento crítico y la creatividad.
+
+### Capítulo Décimo Cuarto. De los Derechos a la Libertad de Expresión y de Acceso a la Información
+
+###### Artículo 42.
+
+Niñas, niños y adolescentes tienen derecho a expresar libremente sus pensamientos, ideas u opiniones tanto en el ámbito público como privado, ya sea oralmente, por escrito o medio impreso, en forma artística o por cualquier otro medio elegido por ellos. El ejercicio de este derecho se llevará a cabo conforme a la evolución de sus facultades, edad, madurez y demás limitaciones prescritas por la ley que sean necesarias para proteger la seguridad, el orden, la salud, la moral y los derechos de terceros. Los padres o quienes ejerzan la patria potestad, tutela o guarda y custodia tienen el deber de orientar a niñas, los niños y adolescentes en el ejercicio de este derecho a fin de que contribuya a su desarrollo integral.
+
+###### Artículo 43.
+
+Niñas, niños y adolescentes tienen derecho al acceso a información y material procedentes de diversas fuentes nacionales e internacionales, en especial la información y el material educativo que tenga por finalidad promover su bienestar intelectual, social, espiritual y moral, así como su salud física y mental.
+
+En todos los casos, serán los padres o quienes ejerzan la patria potestad, tutela o guarda y custodia los primeros responsables de orientar y supervisar a niñas, niños y adolescentes en el ejercicio de este derecho, a fin de que contribuya a su desarrollo integral.
+
+En cumplimiento de este derecho se deberán diseñar políticas públicas que permitan su ejercicio, con especial énfasis en medidas que aseguren su bienestar social y ético, así como su desarrollo cultural que los protejan de peligros que puedan afectar su vida, su salud o su desarrollo integral.
+
+> <small>(ADICIONADO, P.O. 8 DE ABRIL DE 2021)</small>
+
+De igual forma tienen derecho a no sufrir violencia en el ámbito digital. Tanto las autoridades como quienes ejerzan la patria potestad, tutela, guarda o custodia deberán tomar acciones para detectar y atender en forma integral aquellos casos en que se utilicen las tecnologías de la información y comunicación para agredir o vulnerar la dignidad, intimidad, libertad y vida privada de niñas, niños y adolescentes.
+
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, promoverán:
+
+I. La difusión de información y materiales pertinentes, necesarios que contribuyan a orientar a niñas, niños y adolescentes en el conocimiento de sus derechos, y les ayude al pleno desarrollo de sus cualidades intelectuales, emocionales y contribuyan a salvaguardar su integridad física y moral;
+
+II. La vigilancia en los espectáculos públicos, los impresos y cualquier otra forma de comunicación o información a que tengan acceso niñas, niños y adolescentes, no sean perjudiciales para su bienestar o que atenten contra su dignidad;
+
+III. Programas tendientes a contrarrestar los contenidos nocivos transmitidos por los medios y sus efectos en niñas, niños y adolescentes, particularmente mediante el fortalecimiento de su capacidad crítica y de rechazo a todo aquello que resulte dañino para su salud física y psicológica, y que vaya en contra de su desarrollo integral, así como la creación de espacios públicos en donde puedan discutir y expresarse a ese respecto; y el convencimiento a los padres de la necesidad de acompañar con una posición crítica a sus hijos en la relación con los contenidos a contrarrestar;
+
+IV. Campañas sobre la cultura de la denuncia a la violación de los derechos de niñas, niños y adolescentes;
+
+V. La prevención de violaciones a los derechos humanos de niñas, niños y adolescentes y la comisión de actos delictivos, y
+
+VI. La información y participación de niñas, niños y adolescentes para la prevención y atención de las adicciones.
+
+###### Artículo 44.
+
+Niñas, niños y adolescentes tienen derecho, de manera individual y colectiva, a ser escuchados en todo procedimiento judicial o administrativo que les afecte, ya sea directamente o por medio de representante u órgano apropiado de acuerdo a las disposiciones jurídicas aplicables.
+
+Se garantiza el ejercicio personal y directo de este derecho, especialmente en todo procedimiento que conduzca a una decisión que afecte sus derechos, garantías e intereses, de acuerdo a su edad, desarrollo evolutivo, cognoscitivo y madurez, de acuerdo al interés superior de la niñez.
+
+### Capítulo Décimo Quinto. Del Derecho a la Participación
+
+###### Artículo 45.
+
+Niñas, niños y adolescentes tienen derecho a participar libre y activamente en la vida familiar, social, escolar, científica, cultural, deportiva y recreativa, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
+
+Este derecho implica la posibilidad de expresar su opinión, ser escuchados y tomados en cuenta respecto de los asuntos de su familia, su comunidad y su país, así como todos aquellos temas que les afecten, por lo que la familia, la sociedad y el Estado, deberán propiciar y fomentar oportunidades de participación de niñas, niños y adolescentes.
+
+###### Artículo 46.
+
+Las autoridades estatales y municipales, fomentarán la participación de niñas, niños y adolescentes en foros municipales, estatales, nacionales o internacionales y la creación de espacios de participación a fin de que puedan opinar, analizar, y en general, puedan expresar su punto de vista y propuestas, de forma individual o colectiva, en aquellos ámbitos que no vulneren su integridad física o moral.
+
+Es responsabilidad del Estado, de la sociedad civil y de las instituciones públicas y privadas, diseñar los mecanismos que den un peso específico a la opinión de niñas, niños y adolescentes, en todos los aspectos que determinen su vida y su desarrollo, sin menoscabo del deber de cuidado y orientación de quienes ejercen la patria potestad, tutela o custodia.
+
+### Capítulo Décimo Sexto. Del Derecho de Asociación y Reunión
+
+###### Artículo 47.
+
+Niñas, niños y adolescentes tienen derecho a asociarse y reunirse libre y pacíficamente con otras personas con fines sociales, culturales, deportivos, recreativos, religiosos, políticos, económicos, o de cualquier otra índole, siempre que sean de carácter lícito.
+
+El ejercicio de este derecho sólo podrá restringirse cuando se atente contra la seguridad y moral públicas y los derechos de los demás.
+
+Cuando en el ejercicio de estos derechos se lesione el interés superior de la niñez, quienes ejerzan la patria potestad, tutela o guarda y custodia podrán intervenir y en su caso, restringir las conductas o hábitos de niñas, niños o adolescentes.
+
+Las autoridades estatales correspondientes proporcionarán asesoría y orientación para la promoción e integración de organizaciones de niñas, niños y adolescentes así como también elaborarán un registro de las mismas.
+
+Quienes ejercen la patria potestad, tutela o guarda y custodia representarán a niñas, niños y adolescentes para el ejercicio del derecho de asociación, cuando sea necesario para satisfacer las formalidades que establezcan las disposiciones jurídicas aplicables.
+
+### Capítulo Décimo Séptimo. Del Derecho a la Intimidad
+
+###### Artículo 48.
+
+Niñas, niños y adolescentes tienen derecho a la intimidad y a la protección contra toda injerencia arbitraria o ilegal en su vida privada y en la de su familia, domicilio o correspondencia y a la protección de sus datos personales.
+
+No se considerará injerencia ilegal o arbitraria, aquella que emane de quienes ejercen la patria potestad, tutela o guarda y custodia, en el cumplimiento de la obligación de orientar, supervisar y en su caso restringir las conductas y hábitos de niñas, niños y adolescentes, siempre que atiendan al interés superior de la niñez.
+
+Niñas, niños y adolescentes no podrán ser objeto de divulgaciones o difusiones ilícitas de información, manejo de su imagen o datos personales, incluyendo aquélla que tenga carácter informativo a la opinión pública o de noticia que permita identificarlos, que menoscabe su honra o reputación, sea contrario a sus derechos o que los ponga en riesgo, conforme al principio de interés superior de la niñez.
+
+###### Artículo 49.
+
+Cualquier medio de comunicación que difunda entrevistas, imágenes, voz o datos deberán atender lo establecido en los artículos 77, 78 y 80 de la Ley General, cuidando en todo momento el desarrollo integral de niñas, niños y adolescentes.
+
+En caso de incumplimiento se promoverán las acciones civiles, denuncias, querellas y procedimientos de conformidad con las leyes Civil, Penal y Administrativa del Estado de Durango y demás disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2024)</small>
+
+###### Artículo 50.
+
+Los (sic) autoridades estatales y municipales, deberán garantizar la protección de la identidad e intimidad de niñas y niños que sean víctimas, ofendidos, testigos o que estén relacionados de cualquier manera en la comisión de un delito, a fin de evitar su identificación pública. La misma protección se otorgará a adolescentes a quienes se les atribuya la realización o participación en un delito, conforme lo establece la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
+
+###### Artículo 51.
+
+En los procedimientos ante órganos jurisdiccionales, se podrá solicitar que se imponga como medida cautelar la suspensión o bloqueo de cuentas de usuarios en medios electrónicos, a fin de evitar la difusión de información, imágenes, sonidos o datos que puedan contravenir el interés superior de la niñez.
+
+El órgano jurisdiccional, con base en este artículo y en las disposiciones jurídicas aplicables, podrá requerir a las empresas de prestación de servicios en materia de medios electrónicos que realicen las acciones necesarias para el cumplimiento de las medidas cautelares que ordene.
+
+### Capítulo Décimo Octavo. Del Derecho a la Seguridad Jurídica y al Debido Proceso
+
+###### Artículo 52.
+
+Niñas, niños y adolescentes gozan de los derechos y garantías de seguridad jurídica y el debido proceso, establecidos en la Constitución Federal, la Constitución Local, los tratados internacionales, la Ley General, esta Ley y las demás disposiciones aplicables, por lo que las autoridades estatales están obligadas a garantizar el goce de estos derechos y la protección y prevalencia del interés superior de la niñez.
+
+Las autoridades, que sustancien procedimientos de carácter jurisdiccional o administrativo o que realicen cualquier acto de autoridad en los que estén relacionados niñas, niños o adolescentes, de conformidad con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez estarán obligadas cuando menos a:
+
+I. Garantizar la protección y prevalencia del interés superior de la niñez;
+
+II. Proporcionar información clara, sencilla y comprensible para las niñas, niños y adolescentes sobre el procedimiento judicial o administrativo de que se trate y la importancia de su participación en el mismo, incluyendo, en su caso, formatos accesibles de fácil comprensión y lectura para niñas, niños y adolescentes con discapacidad;
+
+III. Implementar mecanismos de apoyo al presentar una denuncia, participar en una investigación o en un proceso judicial;
+
+IV. Garantizar el derecho de niñas, niños y adolescentes a ser representados, así como a obtener información sobre y las medidas de protección disponibles;
+
+V. Proporcionar asistencia de profesionales especializados cuando la naturaleza del procedimiento lo requiera;
+
+VI. Proporcionar la asistencia de un traductor o intérprete;
+
+VII. Ponderar, antes de citar a una niña, niño o adolescente a alguna audiencia, la pertinencia de la misma, considerando su edad, madurez, estado psicológico, así como cualquier otra condición específica;
+
+VIII. Garantizar el acompañamiento de quien ejerza sobre ellos la patria potestad, tutela, guarda o custodia durante la sustanciación de todo el procedimiento, salvo disposición judicial en contrario;
+
+IX. Mantener a niñas, niños o adolescentes apartados de los adultos que puedan influir en su comportamiento o estabilidad emocional, cuando así lo determine la autoridad competente, antes y durante la realización de la audiencia o comparecencia respectiva;
+
+X. Destinar espacios lúdicos, de descanso y aseo para niñas, niños y adolescentes en los recintos en que se lleven a cabo procedimientos en que deban intervenir;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
+
+XI. Ajustarse al tiempo de participación máximo para la intervención de niñas, niños o adolescentes durante la sustanciación de los procedimientos de conformidad con los principios de autonomía progresiva y celeridad procesal;
+
+> <small>(REFORMADA, P.O. 3 DE MAYO DE 2020)</small>
+
+XII. Implementar medidas para proteger a niñas, niños o adolescentes de sufrimientos durante su participación y garantizar el resguardo de la intimidad y datos personales de niñas, niños y adolescentes; y
+
+> <small>(ADICIONADA, P.O. 3 DE MAYO DE 2020)</small>
+
+XIII. Realizar de forma oficiosa y asequible las pruebas psicológicas y de entorno social, para garantizar la prevención y protección adecuada de niñas, niños y adolescentes víctimas de violencia.
+
+###### Artículo 53.
+
+Las autoridades, en el ámbito de sus respectivas competencias, garantizarán que niñas y niños a quienes se atribuya la comisión o participación en un hecho que la ley señale como delito se les reconozca que están exentos de responsabilidad penal y garantizarán que no serán privados de la libertad ni sujetos a procedimiento alguno, sino que serán únicamente sujetos a la asistencia social con el fin de restituirles, en su caso, en el ejercicio de sus derechos.
+
+Lo anterior, sin perjuicio de las responsabilidades civiles que correspondan a quienes ejerzan la patria potestad, tutela o guarda y custodia, conforme a las disposiciones aplicables.
+
+En aquellos casos en que el Ministerio Público o cualquier otra autoridad, tenga conocimiento de la presunta comisión o participación de una niña o niño en un hecho que la ley señale como delito de manera inmediata dará aviso a la Procuraduría de Protección.
+
+La Procuraduría de Protección, en el marco de sus atribuciones, deberá, en su caso, solicitar a la autoridad competente de manera inmediata las medidas necesarias para la protección integral, de asistencia social y en su caso, restitución de sus derechos y garantizar que niñas y niños no sean objeto de discriminación.
+
+Toda medida que se adopte será susceptible de revisión por órgano judicial competente en un proceso contradictorio en el que se garantice, por lo menos, el derecho a ser oído y la asistencia de un abogado especializado.
+
+###### Artículo 54.
+
+Las autoridades, en el ámbito de sus respectivas competencias, garantizarán que en los procedimientos jurisdiccionales en que estén relacionadas niñas, niños o adolescentes como probables víctimas del delito o testigos, de conformidad con su edad, desarrollo evolutivo, cognoscitivo y grado de madurez, tengan al menos los siguientes derechos:
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+I. Se les informe sobre la naturaleza del procedimiento y el carácter de su participación en el mismo, el que en ningún caso podrá ser el de imputado o probable responsable, a excepción de aquellos en los que se involucren adolescentes y así lo precisen las leyes aplicables;
+
+II. Que su participación en un procedimiento se lleve a cabo de la manera más expedita, en espacios lúdicos y condiciones especiales, asistidos por un profesional en derecho;
+
+III. Garantizar el acompañamiento de quien ejerza sobre ellos la patria potestad, tutela o guarda y custodia durante la sustanciación de todo el procedimiento, salvo disposición judicial en contrario, con base en el interés superior de la niñez;
+
+IV. Que se preserve su derecho a la intimidad, que no se divulguen sus datos de identificación en los términos de esta Ley y las demás aplicables;
+
+V. Tener acceso gratuito a asistencia jurídica, psicológica y cualquier otra necesaria atendiendo a las características del caso, a fin de salvaguardar sus derechos, en términos de las disposiciones aplicables, y
+
+VI. Adoptar las medidas necesarias para evitar la revictimización de niñas, niños y adolescentes que presuntamente son víctimas de la comisión de un delito o violación a sus derechos humanos.
+
+> <small>(REFORMADO, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+Siempre que se encuentre una niña, niño o adolescente en el contexto de la comisión de un delito, se notificará de inmediato a quienes ejerzan la patria potestad, tutela o guarda y custodia, así como a la Procuraduría de Protección; tratándose de adolescentes se deberá atender y proceder conforme a lo establecido en la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2024)</small>
+
+###### Artículo 55.
+
+Para los procedimientos y las medidas que correspondan a quienes se les atribuyan la comisión o participación en un hecho que la ley señale como delito mientras era adolescente se estará a lo dispuesto por la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
+
+### Capítulo Décimo Noveno. Niñas, Niños y Adolescentes Migrantes
+
+###### Artículo 56.
+
+Las autoridades estatales, en el ámbito de su competencia, deberán garantizar los derechos de niñas, niños y adolescentes migrantes, acompañados, no acompañados, separados, nacionales, extranjeros y repatriados en el contexto de movilidad humana, independientemente de su nacionalidad o su situación migratoria de conformidad con la Ley de Migración y su Reglamento, la Ley General, esta Ley y las demás disposiciones jurídicas aplicables debiendo observar en todo momento el principio del interés superior de la niñez y los estándares internacionales en la materia.
+
+Las autoridades competentes; una vez en contacto con la niña, niño o adolescente deberán de adoptar las medidas correspondientes para la protección de sus derechos. En consecuencia, darán una solución que resuelva todas sus necesidades de protección, teniendo en cuenta sus opiniones y privilegiando la reunificación familiar, excepto que sea contrario a su interés superior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 23 DE JUNIO DE 2024)</small>
+
+Corresponde al Sistema DIF Estatal y los Sistemas Municipales DIF brindar la protección que prevé esta ley y demás disposiciones aplicables, en tanto el Instituto Nacional de Migración determine la condición migratoria de las niñas, niños y/o adolescentes acompañados y/o no acompañados en contexto de movilidad humana.
+
+> <small>(REFORMADO, P.O. 23 DE JUNIO DE 2024)</small>
+
+Para garantizar la protección integral de los derechos, el Sistema DIF Estatal y los Sistemas Municipales DIF en coordinación con el Instituto Nacional de Migración, habilitarán espacios de alojamiento o albergues con estándares óptimos y atiendan a la perspectiva de género, para dar una atención adecuada a niñas, niños y adolescentes migrantes, en donde se respetarán el principio de separación y el derecho a la unidad familiar, de modo tal que si se trata de niñas, niños o adolescentes no acompañados o separados, deberán alojarse en sitios distintos al que corresponde a las personas adultas.
+
+Tratándose de niñas, niños o adolescentes acompañados, podrán alojarse con sus familiares, salvo que lo más conveniente sea la separación de éstos en aplicación del principio del interés superior de la niñez.
+
+En caso de que el Sistema DIF Estatal o los Sistemas Municipales DIF identifiquen, mediante una evaluación inicial, a niñas, niños o adolescentes extranjeros que sean susceptibles de reconocimiento de condición de refugiado o de asilo, lo comunicarán al Instituto Nacional de Migración con el fin de proporcionarles el tratamiento adecuado de adoptar medidas de protección especiales.
+
+El Sistema DIF Estatal enviará al Sistema Nacional DIF la información en el momento en que se genere de las bases de datos de niñas, niños y adolescentes migrantes extranjeros no acompañados, que incluya las causas de su migración, las condiciones de tránsito, sus vínculos familiares, factores de riesgo en origen y tránsito, información de sus representantes legales, datos sobre su alojamiento y situación jurídica.
+
+En ningún caso una situación migratoria irregular de niñas, niños o adolescentes, preconfigurará por sí misma la comisión de un delito, ni se prejuzgará la comisión de ilícitos por el hecho de encontrarse en condición migratoria irregular.
+
+> <small>(ADICIONADO, P.O. 23 DE JUNIO DE 2024)</small>
 
 ###### Artículo 56 Bis.
 
 Las políticas públicas, ordenamientos jurídicos, programas gubernamentales, protocolos, instrumentos, servicios, acciones y decisiones que se generen para la atención de niñas, niños y adolescentes con condición de migrantes, deberán considerar la perspectiva de género y el enfoque intercultural.
 
-### CAPITULO IV. DE LA EDUCACION QUE IMPARTAN LOS PARTICULARES
+### Capítulo Vigésimo. De las Niñas, Niños y Adolescentes en Situaciones Especiales
 
-###### ARTICULO 99.
+###### Artículo 57.
 
-Los particulares podrán impartir educación en todos sus tipos, niveles y modalidades.
+Para efectos de esta ley se entienden por niñas, niños y adolescentes en situaciones especiales:
 
-Por lo que concierne a la educación primaria, secundaria, la normal y demás para la formación de maestros de educación básica deberán obtener previamente en cada caso la autorización expresa del Estado. Tratándose de estudios distintos de los antes mencionados podrán obtener el reconocimiento de validez oficial de estudios.
+I. Niñas, niños y adolescentes cuyos padres se encuentren en situación de encarcelamiento;
 
-###### ARTICULO 100.
+II. Niñas, Niños y Adolescentes que hayan sido objeto de un hecho victimizante en los términos de la Ley General de Victimas y de la Ley de Victimas del Estado de Durango, y
 
-Para obtener o conservar la autorización o el reconocimiento de validez oficial de estudios, los particulares deberán cumplir con:
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2024)</small>
 
-I.- Desarrollar sus actividades conforme a lo establecido por la presente Ley y demás disposiciones reglamentarias que deriven de ella;
+III. Aquellos adolescentes sujetos a los procedimientos establecidos en la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
 
-II.- Personal que acredite la preparación adecuada para impartir educación y reunir los requisitos previstos por la presente Ley;
+###### Artículo 58.
 
-III.- Instalaciones que satisfagan las condiciones higiénicas, de seguridad y pedagógicas que la autoridad otorgante determine. Para establecer un nuevo plantel se requerirá, según el caso, una nueva autorización o un nuevo reconocimiento, y
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, evaluarán el impacto de las políticas públicas y prácticas gubernamentales relacionadas con niñas, niños y adolescentes en situaciones especiales.
 
-IV.- Planes y programas de estudio que la autoridad otorgante considere procedentes, en el caso de educación distinta a la educación básica, la normal y demás para la formación de docentes de Educación Básica.
+Se establecerán mecanismos efectivos para tutelar los derechos de niñas, niños y adolescentes en situaciones especiales de conformidad con la presente Ley y las leyes de la materia.
 
-###### ARTICULO 101.
+###### Artículo 59.
 
-Las autoridades educativas publicarán anualmente, en el Periódico Oficial del Estado "Tierra y Libertad", una relación de las instituciones a las que se les haya concedido autorización o reconocimiento de validez oficial de estudios. Asimismo publicarán, oportunamente y en cada caso la inclusión así como la supresión, en dicha lista, de las instituciones a las que se otorguen, revoquen o retiren la autorización o el reconocimiento de validez oficial de estudios.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, impulsarán a nivel institucional público y privado, campañas de información que permitan una temprana identificación de las necesidades de niñas, niños y adolescentes en situaciones especiales.
 
-Los particulares que impartan educación con autorización o con reconocimiento de validez oficial de estudios, deberán mencionar en la documentación que expidan y en la publicidad que hagan, una leyenda que indique, su calidad de incorporados, el número y fecha del acuerdo respectivo, así como la autoridad que lo otorgó.
+Se implementarán mecanismos de coordinación entre instancias a fin de capacitar al personal que, en el ámbito de su competencia, tenga trato directo con niñas, niños y adolescentes en situaciones especiales.
 
-###### ARTICULO 102.
+###### Artículo 60.
 
-Los particulares que impartan educación en el Estado con autorización o reconocimiento de validez oficial de estudios deberán:
+Las autoridades estatales y municipales, a fin de lograr la reinserción y participación ciudadana de niñas, niños y adolescentes en situaciones especiales, velarán por el seguimiento y cumplimiento de las políticas públicas implementadas a nivel estatal.
 
-I.- Cumplir con lo dispuesto en el Artículo 3º de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Educación, la Constitución Política local, la presente Ley y con las disposiciones que de ella emanen;
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 25 DE MAYO DE 2021)</small>
 
-II.- Cumplir con los planes y programas de estudio que las autoridades educativas competentes hayan determinado o considerado procedentes;
+### CAPÍTULO VIGÉSIMO PRIMERO. DERECHO DE ACCESO A LAS TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN
 
-III.- Proporcionar un mínimo de becas para alumnos destacados académicamente y de escasos recursos, en un porcentaje que nunca será inferior al cinco por ciento del total de la matrícula de la Institución Educativa del ciclo escolar de que se trate y que podrá ampliarse de acuerdo a la capacidad económica de la misma. Las becas a que se refiere esta fracción deberán ser otorgadas por una comisión especial de becas, que estará integrada cuando menos por los siguientes cinco miembros: un representante del Titular del Poder Ejecutivo, un Representante de la Autoridad Auxiliar Educativa Estatal, el Diputado Presidente de la Comisión que al interior del Congreso del Estado deba de conocer de los asuntos educativos, un representante de las asociaciones legalmente constituidas de los padres de familia de los centros de educación privado y otro de las correspondientes a las escuelas particulares.
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2021)</small>
 
-El reglamento respectivo determinará las atribuciones, organización y funcionamiento de la Comisión a que se refiere esta fracción.
+Artículo 60 BIS. Niñas, niños y adolescentes gozan del derecho de acceso universal a las Tecnologías de la Información y Comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet establecidos en la Constitución Política de los Estados Unidos Mexicanos y en la Ley Federal de Telecomunicaciones y Radiodifusión.
 
-IV.- Rendir semestralmente a la Autoridad Educativa Estatal o Municipal, las estadísticas correspondientes a la organización, administración, escolaridad y aspectos técnicos de las Instituciones, y
-
-V.- Facilitar y colaborar en las actividades de evaluación, inspección y vigilancia que las autoridades competentes realicen u ordenen.
-
-###### ARTICULO 103.
-
-Los particulares que presten servicios por los que se impartan estudios sin reconocimiento de validez oficial, deberán mencionarlo en su correspondiente documentación y publicidad.
-
-En el caso de educación inicial y de preescolar deberán cumplir, además, con los requisitos que impone el segundo párrafo del artículo 59 de la Ley General de Educación y lo que al respecto determine la presente Ley.
-
-###### ARTICULO 104.
-
-Las autoridades educativas en el Estado deberán inspeccionar y vigilar los servicios educativos respecto de los cuales hayan concedido autorizaciones o reconocimientos de validez oficial de estudios para verificar el cumplimiento de lo dispuesto por la presente Ley, en el entendido que las visitas de inspección deberán realizarse cumpliendo con los requisitos siguientes:
-
-a).- Para realizar una visita de inspección deberá mostrarse la orden correspondiente expedida por la autoridad educativa competente. La visita se realizará en el lugar, fecha y sobre los asuntos específicos señalados en dicha orden; el encargado de la visita deberá identificarse adecuadamente;
-
-b).- Desahogada la visita, se suscribirá el acta correspondiente por quienes hayan intervenido y por dos testigos. En su caso, se hará constar en dicha acta la negativa del visitado de suscribirla sin que esta negativa afecte su validez. Un ejemplar del acta se pondrá a disposición del visitado, y
-
-c).- Los particulares podrán presentar a las autoridades educativas documentación relacionada con la visita dentro de los cinco días hábiles siguientes a la fecha de la inspección.
-
-###### ARTICULO 105.
-
-La educación que no requiera autorización o no sea susceptible de reconocimiento de validez oficial de estudios, se regirá por la Ley General de Educación, esta Ley, y por el Reglamento que sobre la materia en su caso, expida la autoridad educativa competente.
-
-###### ARTICULO 57.
-
-El Gobierno del Estado, a través de la autoridad educativa, participará mediante gestiones ante las autoridades federales de educación, grupos sociales e instituciones para el financiamiento de la educación superior, a fin de obtener fondos y recursos que mejoren la educación pública superior. Particularmente para las instituciones que ofrecen el servicio educativo en regiones estratégicas para el desarrollo del Estado.
-
-###### ARTICULO 58.
-
-En el Estado de Morelos, se promoverá el desarrollo de la educación superior de carácter público y privado, apoyando para ello con mecanismos que simplifiquen los requisitos necesarios para ofrecer el servicio educativo, sin menoscabo de su calidad, oportunidad e infraestructura mínima que requiere en cada caso.
-
-###### ARTICULO 59.
-
-El Estado promoverá la celebración de convenios con los Colegios y Asociaciones de Profesionistas, así como con los centros o entidades de capacitación de las empresas, en el desarrollo y vinculación de las instituciones de educación superior. Para ello, se establecerán programas de educación y todas aquellas formas de enseñanza que permitan la mutua consolidación del conocimiento y sus aplicaciones.
-
-###### ARTICULO 60.
-
-La educación superior que se imparta en los institutos tecnológicos tendrá las características siguientes:
-
-I.- Promoverá y afirmará en los estudiantes una formación acorde a los requerimientos del desarrollo socioeconómico del país y del Estado, poniendo énfasis en los conocimientos básicos y tecnológicos, vinculándolos con el sector productivo;
-
-II.- Dotará a los estudiantes de los conocimientos adecuados que les permitan el aprovechamiento de los avances científicos y tecnológicos, aplicables en el ejercicio de su profesión;
-
-III.- Infundirá a los estudiantes una actitud crítica, reflexiva e innovadora que les permita incorporarse al proceso de modernización, y
-
-IV.- Fomentará en los estudiantes una clara conciencia de la responsabilidad ética y social que contraerán en el ejercicio de su profesión.
-
-### CAPITULO UNICO. DE LA VALIDEZ OFICIAL DE ESTUDIOS Y DE LA CERTIFICACION DE CONOCIMIENTOS
-
-###### ARTICULO 106.
-
-Los estudios realizados dentro del Sistema Educativo Estatal, por formar éste parte del Sistema Educativo Nacional, tendrán validez en toda la República.
-
-Las Instituciones del Sistema Educativo Estatal expedirán certificados y otorgarán constancias, diplomas, títulos o grados académicos de conformidad con los requisitos establecidos en los planes y programas de estudio correspondiente.
-
-###### ARTICULO 107.
-
-Los estudios realizados fuera del Sistema Educativo Estatal y Nacional, podrán adquirir validez oficial mediante su revalidación, siempre y cuando sean equiparables con los estudios correspondientes a dicho sistema.
-
-La revalidación podrá otorgarse por niveles educativos, por modalidades escolares o por asignaturas u otras unidades de aprendizaje, según lo establezca la regulación respectiva.
-
-###### ARTICULO 108.
-
-Los estudios realizados dentro del Sistema Educativo Nacional podrán, en su caso, declararse equivalentes con los realizados dentro del Sistema Estatal, por niveles educativos, grados escolares, asignaturas u otras unidades de aprendizaje según lo establezca la normatividad aplicable.
-
-###### ARTICULO 109.
-
-La autoridad educativa local aplicará las normas y criterios generales que determine la Secretaría de Educación Pública, a que se ajustarán la revalidación, así como la declaración de estudios equivalentes.
-
-La autoridad educativa local otorgará revalidaciones y equivalencias únicamente cuando estén referidas a planes y programas de estudio que se impartan en el Sistema Educativo Estatal.
-
-###### ARTICULO 110.
-
-Las revalidaciones y equivalencias otorgadas en términos del artículo anterior tendrán validez en toda la República.
-
-###### ARTICULO 111.
-
-La autoridad educativa local en el ámbito de su competencia aplicará los procedimientos establecidos por la Secretaría de Educación Pública para expedir certificados, constancias, diplomas o títulos a quienes acrediten conocimientos terminales que correspondan a cierto nivel educativo o grado escolar, adquiridos en forma autodidacta o a través de la experiencia laboral.
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2021)</small>
 
 ###### Artículo 60 Bis 1.
 
@@ -747,41 +1149,11 @@ Los padres, tutores y quienes tengan a cargo el cuidado de niñas, niños o adol
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
-### CAPITULO I. DE LAS INFRACCIONES
+### CAPITULO VIGÉSIMO SEGUNDO
 
-###### ARTICULO 112.
+DERECHO A LA ALIMENTACIÓN.
 
-Son infracciones de los particulares que presten servicios educativos:
-
-I.- Incumplir cualesquiera de las obligaciones previstas en los artículos 99 párrafo segundo; 100, 101 párrafo segundo y 103 de esta Ley;
-
-II.- Suspender el servicio educativo sin que medie motivo justificado, caso fortuito o fuerza mayor;
-
-III.- Suspender clases en días y horas no autorizadas por el calendario escolar aplicable, sin que medie motivo justificado, caso fortuito o fuerza mayor;
-
-IV.- No utilizar los libros de texto que la Secretaría de Educación Pública autorice y determine para la educación primaria y secundaria;
-
-V.- Incumplir los lineamientos generales para el uso de material didáctico para la educación primaria y secundaria;
-
-VI.- Dar a conocer antes de su aplicación, los exámenes o cualesquiera otros instrumentos de admisión, acreditación o evaluación, a quienes habrán de presentarlos;
-
-VII.- Expedir certificados, constancias, diplomas o títulos a quienes no cumplan los requisitos aplicables;
-
-VIII.- Realizar o permitir se realice publicidad dentro del plantel escolar que fomente el consumo distinto de los alimentos, así como la comercialización de bienes o servicios notoriamente ajenos al proceso educativo;
-
-IX.- Efectuar actividades que pongan en riesgo la salud o la seguridad de los alumnos;
-
-X.- Ocultar a los padres o tutores las conductas de los alumnos que notoriamente deban ser de su conocimiento;
-
-XI.- Oponerse a las actividades de evaluación, supervisión y vigilancia, así como no proporcionar información veraz y oportuna;
-
-XII.- Ostentarse como plantel incorporado sin estarlo;
-
-XIII.- Impartir la educación primaria, la secundaria, la normal y demás para la formación de maestros de educación básica, sin contar con la autorización correspondiente;
-
-XIV.- Incumplir con lo dispuesto por el artículo 102 de la presente Ley, y
-
-XV.- Incumplir con lo dispuesto por el Artículo 3º Constitucional, por la Ley General de Educación y la presente, así como de las disposiciones expedidas con fundamento en ellas.
+> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2025)</small>
 
 ###### Artículo 60 Bis 4.
 
@@ -794,6 +1166,10 @@ La desnutrición y la obesidad entre las niñas, niños y adolescentes son asunt
 El Poder Ejecutivo del Estado y gobiernos municipales podrán crear programas de educación alimentaria y mejoramiento nutricional para las niñas, niños y adolescentes en la etapa inicial, preescolar, primaria, secundaria y medio superior en zonas identificadas con altos índices de desnutrición, anemia o en riesgo de desnutrición. Madres y padres de familia participaran en el cumplimiento de la misma.
 
 El Poder Judicial del Estado de Durango, implementará un registro que integre los datos, antecedentes y referencias de las personas obligadas por sentencia ejecutoriada a dar alimentos y que hayan adquirido el carácter de deudor alimentario moroso por incumplimiento a esa obligación.
+
+> <small>(ADICIONADO, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+Los sistemas DIF estatal y sistemas municipales DIF, tratándose de actividades, programas y estrategias que tengan la finalidad de atender aspectos de alimentación infantil, combatir la inseguridad alimentaria infantil, la desnutrición infantil, y la obesidad, podran suscribir, convenios con aquellas organizaciones sociales, fundaciones y personas morales no lucrativas, a fin de establecer programas conjuntos y promover la aportación de ideas y recursos financieros destinados a combatir dicha condición.
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2021)</small>
 
@@ -847,193 +1223,119 @@ El Juez de lo familiar podrá autorizar la salida del país si se garantiza el p
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE DICIEMBRE DE 2022)</small>
 
-### CAPITULO II. DE LAS SANCIONES
+### Capítulo Vigésimo Tercero. Derecho a la Protección de la Primera Infancia
 
-###### ARTICULO 113.
-
-Las infracciones enumeradas en el artículo anterior se sancionarán con:
-
-I.- Amonestación por escrito;
-
-II.- Multa económica hasta por el equivalente a cinco mil veces el salario mínimo general vigente en la Entidad y en la fecha en la que se cometa la infracción. Las multas impuestas podrán duplicarse en caso de reincidencia, y
-
-III.- Revocación de la autorización o retiro del reconocimiento de validez oficial de estudios correspondiente.
-
-La imposición de las sanciones establecidas en las fracciones I y III anteriores no excluye la posibilidad de que sea impuesta alguna multa, sin perjuicio de las acciones legales que procedan.
-
-> <small>(F. DE E., P.O. 29 DE ENERO DE 1997)</small>
-
-###### ARTICULO 114.
-
-En los supuestos previstos por las fracciones XII, XIII y XIV del artículo 112 de esta Ley, además de aplicarse las sanciones señaladas en la fracción II del artículo anterior, podrá procederse a la clausura del plantel respectivo.
-
-###### ARTICULO 115.
-
-Las disposiciones del artículo anterior no son aplicables a los trabajadores de la educación, en virtud de que las infracciones en que incurran serán sancionadas conforme a las disposiciones específicas que existen para ellos.
-
-###### ARTICULO 116.
-
-Cuando la autoridad educativa responsable de la prestación del servicio, o que haya otorgado la autorización o el reconocimiento de validez oficial de estudios, considere que existen causas justificadas que ameriten la imposición de sanciones, lo hará del conocimiento del presunto infractor para que, dentro de un plazo de quince días naturales, manifieste lo que a su derecho convenga y proporcione los datos y documentos que le sean requeridos.
-
-La autoridad dictará resolución con base en los datos aportados por el presunto infractor y las demás constancias que obren en el expediente.
-
-Para determinar la sanción se considerará las circunstancias en que se cometió la infracción, los daños y perjuicios que se hayan producido o puedan producirse a los educandos, la gravedad de la infracción, las condiciones socio-económicas del infractor, el carácter intencional o no de la infracción y si se trata de reincidencia.
-
-###### ARTICULO 117.
-
-La negativa o revocación de la autorización otorgada a particulares produce efectos de clausura del servicio educativo de que se trate.
-
-El retiro del reconocimiento de validez oficial se referirá a los estudios que se impartan a partir de la fecha en que se dicte la resolución. Los realizados mientras la institución contaba con el reconocimiento, mantendrán su validez oficial.
-
-La autoridad que dicte la resolución adoptará las medidas que sean necesarias para evitar perjuicios a los educandos.
-
-En el caso de autorizaciones cuando la revocación se dicte durante el ejercicio lectivo la institución podrá seguir funcionando a juicio y bajo la vigilancia de la autoridad, hasta que aquél concluya.
+> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 60 Ter.
 
 Niñas y niños tendrán derechos a la protección de su primera infancia. Para garantizar este derecho, las autoridades del Estado y sus Municipios procurarán diseñar programas y políticas públicas que promuevan un desarrollo igualitario durante la primera infancia en materia de salud, nutrición, protección, cuidado y educación.
 
-## TITULO TERCERO. DE LA PLANEACION Y EVALUACION EDUCATIVA PARA EL DESARROLLO DEL ESTADO
+## TÍTULO TERCERO. De los derechos y obligaciones
 
-### CAPITULO III. DEL RECURSO ADMINISTRATIVO
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-###### ARTICULO 118.
+### Capítulo Primero. De quienes ejercen la Patria Potestad, Tutela, Guarda y Custodia de Niñas, Niños y Adolescentes
 
-En contra de las resoluciones de las autoridades educativas dictadas con fundamento en las disposiciones de esta Ley y las que de ella emanen; podrá interponerse recurso de revisión dentro de los quince días hábiles siguientes a la fecha de su notificación.
+###### Artículo 61.
 
-Transcurrido el plazo a que se refiere el párrafo anterior sin que el interesado interponga el recurso, la resolución tendrá el carácter de definitiva.
+Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias están obligadas a proporcionar asistencia médica, psicológica y atención preventiva integrada a la salud, así como un traductor o intérprete en caso de ser necesario, asesoría jurídica y orientación social a quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes o personas que los tengan bajo su responsabilidad, en cuanto a las obligaciones que establecen esta Ley y demás disposiciones jurídicas aplicables.
 
-Asimismo, podrá interponerse dicho recurso cuando la autoridad no dé respuesta en un plazo de treinta días hábiles siguientes a la presentación de las solicitudes de autorización o de reconocimiento de validez oficial de estudios o por falta de contestación al derecho de petición consagrado en el Artículo 8° Constitucional.
+###### Artículo 62.
 
-###### ARTICULO 119.
+Son derechos de quienes ejercen la patria potestad, tutela o guarda y custodia, los siguientes:
 
-El recurso se interpondrá por escrito, ante la autoridad inmediata superior a la que se emitió el acto recurrido u omitió responder la solicitud correspondiente. La autoridad receptora del recurso deberá sellarlo o firmarlo de recibido y anotará la fecha y hora en que se presente el número de anexos que se acompañe, devolviendo en el mismo acto copia debidamente sellada o firmada.
+I. Tener y conservar la patria potestad, tutela o guarda y custodia de niñas, niños o adolescentes;
 
-###### ARTICULO 120.
+II. Convivir con niñas, niños o adolescentes;
 
-Con el escrito a que se refiere al artículo anterior el recurrente deberá:
+III. Proveer el sostenimiento y educación de niñas, niños o adolescentes;
 
-I.- Expresar su nombre y domicilio para recibir notificaciones;
+IV. Ser la autoridad y principal responsable respecto del desarrollo integral de niñas, niños o adolescentes bajo su cuidado; y ser reconocido y tomado en cuenta como tal por las autoridades y la sociedad;
 
-II.- Proporcionar la documentación que acredite su personalidad y justifique su interés jurídico;
+V. Fijar las normas que guíen el proceso formativo y positivo para el desarrollo integral de niñas, niños o adolescentes;
 
-III.- Expresar el acto o resolución que se impugna, la autoridad responsable, los agravios que se invocan y la fecha de notificación;
+VI. Dirigir el proceso educativo de los hijos de acuerdo a sus propias convicciones morales y religiosas;
 
-IV.- Expresar los preceptos legales que se estimen violados y una relación sucinta de los hechos en que se base el recurso, y
+VII. Mantener comunicación de forma oportuna con la niña, niño o adolescente;
 
-V.- Acompañar los elementos de prueba que considere necesarios, excepto la confesional.
+VIII. Proteger y prodigar la salvaguarda del interés superior de la niña, niño o adolescente bajo su cuidado;
 
-En caso de incumplimiento de los requisitos antes señalados la autoridad educativa declarará improcedente el recurso.
+IX. Orientar, supervisar y guiar el ejercicio de los derechos de niñas, niños o adolescentes en salvaguarda de su interés superior;
 
-###### ARTICULO 121.
+X. Ser informados en primera instancia, de forma inmediata y oportuna de toda decisión o acción respecto de la niña, niño o adolescente;
 
-Si se ofrecen pruebas que requieran desahogo, se abrirá un plazo de diez días hábiles para tal efecto. La autoridad educativa que este conociendo del recurso podrá allegarse los elementos de convicción que considere necesarios.
+XI. Revisar los expedientes educativos y médicos de niñas, niños o adolescentes;
 
-###### ARTICULO 122.
+XII. Recibir oportunamente una explicación completa y detallada sobre las garantías procesales que asisten a la niña, niño o adolescente;
 
-La autoridad educativa dictará resolución dentro de los treinta días hábiles siguientes a partir de la fecha:
+XIII. Representar a niñas, niños o adolescentes bajo su cuidado en la medida que favorezca su interés superior. Las autoridades proveerán todas las medidas legales y administrativas necesarias para el ejercicio de este derecho;
 
-I.- Del acuerdo de admisión del recurso, cuando no se hubiesen ofrecido pruebas o las ofrecidas no requieran plazo especial de desahogo;
+XIV. Participar activamente en reuniones cuya finalidad sea favorecer el interés superior de niñas, niños o adolescentes bajo su cuidado;
 
-II.- De la conclusión del desahogo de las pruebas o en su caso, cuando haya transcurrido el plazo concedido para ello y no se hubieren desahogado, y
+XV. Hacer uso de los recursos legales ante la autoridad competente en todos los asuntos concernientes a niñas, niños o adolescentes; en la medida que salvaguarde el interés superior de la niñez;
 
-Las resoluciones del recurso se notificarán a los interesados o a sus representantes legales personalmente o por correo certificado, con acuse de recibo.
+XVI. Administrar los bienes de niñas, niños o adolescentes, y
 
-###### ARTICULO 123.
+XVII. Ser atendidos por las autoridades respecto de las acciones, políticas y programas que posibiliten el ejercicio de los derechos de niñas, niños o adolescentes.
 
-La interposición del recurso, suspenderá la ejecución de la resolución impugnada en cuanto al pago de multas.
+Las autoridades del Estado de Durango y sus municipios tienen el compromiso y el deber de respetar y garantizar a quienes ejercen la patria potestad, tutela o guarda y custodia, el goce y ejercicio efectivo de los derechos reconocidos en Constitución Federal y Estatal, esta Ley, los tratados internacionales y demás legislación aplicable.
 
-Respecto de cualquier otra clase de resoluciones administrativas y de sanciones no pecuniarias, la suspensión solo se otorgará si concurren los requisitos siguientes:
+###### Artículo 63.
 
-I.- Que lo solicite el recurrente;
+Son obligaciones de quienes ejercen la patria potestad, tutela o guarda y custodia, así como de las demás personas que por razón de sus funciones o actividades tengan bajo su cuidado niñas, niños o adolescentes, las siguientes:
 
-II.- Que el recurso haya sido admitido;
+> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2025)</small>
 
-III.- Que de otorgarse no implique la continuación o consumación de actos u omisiones que ocasionen infracciones a esta Ley, y
+I. Proporcionar y garantizar el derecho a alimentos, el libre desarrollo de su personalidad y el ejercicio de sus derechos, además de denunciar el incumplimiento de las obligaciones alimentarias de la persona o personas sentenciadas a dicho deber;
 
-IV.- Que no ocasionen daños o perjuicios a los educandos o terceros en términos de esta Ley o de las disposiciones que de ella emanen.
+II. Registrar su nacimiento ante la oficialía de registro civil correspondiente dentro de los primeros sesenta días de vida;
 
-Cuando proceda la suspensión pero pueda ocasionar daños o perjuicios a terceros, el promovente podrá otorgar, previa a la ejecución de aquélla, una garantía cuya cantidad será fijada por la autoridad educativa correspondiente.
+III. Brindarles una educación asegurando que cursen en igualdad de oportunidades, los niveles de la educación básica y media superior;
 
-## TRANSITORIOS
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2021)</small>
 
-PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Morelos.
+IV. Protegerlos de toda forma de violencia, incluida la alienación parental, maltrato, agresión, perjuicio, daño, abuso, venta, trata de personas, explotación, castigo corporal o cualquier acto que atente contra su integridad física, psicológica o menoscabe su desarrollo integral;
 
-SEGUNDO.- Se derogan las disposiciones contenidas en la Ley de Educación Pública, publicada en el Periódico Oficial número 2512, de fecha 6 de octubre de 1971. Quedando vigente únicamente su Capítulo Décimo Séptimo, hasta que estas disposiciones sean contenidas en el ordenamiento legal correspondiente.
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2021)</small>
 
-TERCERO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
+V. Evitar conductas que puedan vulnerar el ambiente de respeto y generar violencia familiar, incluida la alienación parental, creando condiciones de bienestar que propicien un entorno afectivo y comprensivo que garantice el ejercicio de sus derechos conforme a la presente Ley y demás disposiciones jurídicas aplicables;
 
-CUARTO.- El Poder Ejecutivo del Estado por conducto de la Secretaría de Bienestar Social expedirá los reglamentos respectivos dentro de un término de ciento veinte días posteriores a la publicación de esta Ley, para la aplicación de la misma.
+VI. Dar en consonancia con la evolución de sus facultades, la dirección y orientación apropiada a niñas, niños y adolescentes;
 
-QUINTO.- Las autoridades competentes se obligan a respetar íntegramente los derechos de los trabajadores de la educación y reconocer la titularidad de las relaciones laborales colectivas de su organización sindical en los términos de su registro vigente y de acuerdo con las disposiciones legales correspondientes al expedirse esta Ley.
+VII. Fomentar en niñas, niños y adolescentes el respeto a las personas, así como el cuidado de los bienes propios, de la familia y de la comunidad, y el aprovechamiento de los recursos que se dispongan para su desarrollo integral;
 
-Recinto Legislativo a los 22 días del mes de agosto de 1996.
+VIII. Orientar, supervisar y, en su caso, restringir, las conductas y hábitos que menoscaben el desarrollo integral de niñas, niños y adolescentes siempre que se atienda al interés superior de la niñez;
 
-ATENTAMENTE
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 25 DE MAYO DE 2021)</small>
 
-"SUFRAGIO EFECTIVO. NO REELECCION"
+IX. Considerar la opinión de niñas, niños y adolescentes para la toma de decisiones que les conciernan de manera directa conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez;
 
-LOS CC. MIEMBROS DE LA MESA DIRECTIVA EN TURNO
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 25 DE MAYO DE 2021)</small>
 
-PRESIDENTE
+X. Evitar suministrar, facilitar o dar a consumir bebidas y alimentos a niñas y niños de cero a tres años de edad, que conforme a la Norma Oficial Mexicana de la materia se encuentren etiquetados con exceso de azúcares, grasas, sodio o calorías;
 
-DIP. DELFINO TOLEDANO ALFARO
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2021)</small>
 
-SECRETARIOS
+XI. Protegerlos de toda forma de malnutrición o alimentación deficiente.
 
-DIP. MARCOS GARCIA ALVAREZ
+> <small>(ADICIONADA, P.O. 17 DE JUNIO DE 2021)</small>
 
-DIP. TERESA DE JESUS ORTIZ MARTINEZ
+XII. Educar y supervisar en el conocimiento y uso responsable de las tecnologías de la información y comunicación.
 
-RUBRICAS
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2025)</small>
 
-Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
+XIII. Evitar promover e inculcar expresiones, posturas, códigos de vestimenta, inclinación a tendencias musicales o audio visuales, o cualquier otra manifestación o comportamiento, que pretenda exaltar la imagen corporal sexualizada de niñas, niños y adolescentes.
 
-Dado en la Residencia del Poder Ejecutivo en la Ciudad de Cuernavaca, Capital del Estado de Morelos, a los veintitrés días del mes de agosto de mil novecientos noventa y seis.
+> <small>(ADICIONADA, P.O. 23 DE OCTUBRE DE 2025)</small>
 
-SUFRAGIO EFECTIVO. NO REELECCION
+XIV. Evitar facilitar o brindar juguetes, ropa, accesorios o cualquier otro objeto, cuyo uso exalte la imagen corporal de forma sexualizada de las niñas, niños y adolescentes.
 
-GOBERNADOR DEL ESTADO
+> <small>(ADICIONADO, P.O. 17 DE JUNIO DE 2021)</small>
 
-JORGE CARRILLO OLEA
+Quienes ejercen la patria potestad, tutela o guarda y custodia, independientemente de que habiten en domicilios distintos, darán cumplimiento a las obligaciones a su cargo de manera coordinada y respetuosa.
 
-SECRETARIO GENERAL DE GOBIERNO
-
-GUILLERMO MALO VELASCO
-
-RUBRICAS
-
-###### ARTICULO 61.
-
-La educación que se imparta en las escuelas normales tendrá las siguientes características:
-
-I.- Desarrollará y afirmará en los estudiantes la vocación magisterial;
-
-II.- Dedicará especial atención a la educación que imparta el Gobierno del Estado, de acuerdo con las bases establecidas por la presente Ley;
-
-III.- Dotará a los estudiantes normalistas de una cultura general y pedagógica, con las bases teóricas y prácticas que los capaciten para realizar eficazmente el servicio educativo tanto en el medio rural como el urbano;
-
-IV.- Infundirá en los estudiantes, un alto espíritu profesional, nacionalista y un concepto claro de la responsabilidad social que contraerán en el ejercicio de la profesión, propugnando por el progreso, la armonía, la libertad y el bienestar social;
-
-V.- Formará en los educandos una sólida conciencia social para la interpretación y observancia de la Constitución Política de los Estados Unidos Mexicanos y la del Estado;
-
-VI.- Proporcionará a los estudiantes un conocimiento amplio sobre los contenidos básicos de la ecología para que puedan orientar a las comunidades en el mejoramiento del medio ambiente;
-
-VII.- Pugnará para que se comprendan e interpreten los principios de nuestras relaciones internacionales, fundamentadas en la independencia, soberanía y la solidaridad entre las naciones, bajo el principio de la no intervención y autodeterminación de los pueblos, incluida la idea de que las relaciones entre los pueblos son indispensables, por razones esencialmente humanísticas, independientemente de su régimen económico, político y social;
-
-VIII.- Promoverá y pugnará por la constante actualización y superación académica del Magisterio, mediante las bases del conocimiento científico y pedagógico, así como el contenido de las características históricas, geográficas y sociales del Estado;
-
-IX.- Desarrollará y formará en los educandos una sólida conciencia de valores morales necesarios para la convivencia social, respetuosa entre otras cosas de los derechos humanos y de todas las manifestaciones de la vida, de tal manera que contribuya al mejoramiento integral de la sociedad en la que participe; y
-
-X.- Fortalecerá la conciencia de la identidad y cultura nacional, como el principio fundamental de la independencia y soberanía del País.
-
-###### ARTICULO 62.
-
-La autoridad educativa competente regulará el establecimiento y la inscripción de las instituciones que impartan educación normal, conforme a la demanda de atención que requiera el Sistema Educativo Estatal.
-
-###### ARTICULO 63.
-
-Los beneficiados directamente por los servicios educativos que hayan cursado estudios de nivel medio superior terminal o superior, deberán prestar servicio social en los casos y términos que señalen las disposiciones reglamentarias correspondientes, como requisito previo para obtener título o grado académico.
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 ### Capítulo Segundo. De la Representación de Niñas, Niños y Adolescentes
 
@@ -1043,9 +1345,13 @@ Disposiciones Generales
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
-###### ARTICULO 64.
+###### Artículo 64.
 
-La Universidad Pedagógica del Estado de Morelos, a cargo de la autoridad educativa local, tendrá como finalidad prestar, desarrollar y orientar servicios educativos de tipo superior encaminados a la formación de profesionales de la educación, la investigación en materia educativa y la difusión cultural, de acuerdo a las necesidades del País, del Estado y la región.
+Las niñas, niños y adolescentes involucrados en procedimientos administrativos o jurisdiccionales tienen derecho a contar con un representante que funja como intermediario.
+
+La intermediación adulta implica, en sintonía con el enfoque de derechos de la infancia y bajo un esquema de protección integral, asegurar el ejercicio de la integralidad de sus derechos, teniendo presente en todo momento el principio del interés superior de la niñez, así como y (sic) su autonomía progresiva y no puede ser interrumpida o suspendida.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2022)</small>
 
 ###### Artículo 64 Bis.
 
@@ -1113,161 +1419,543 @@ La representación en suplencia se sujetará a los momentos y casos específicos
 
 El Ministerio Público tendrá la intervención que las leyes dispongan en los procedimientos jurisdiccionales o administrativos en que niñas, niños o adolescentes estén relacionados. En materia de justicia penal, se estará a lo dispuesto en la Constitución Federal, la Ley, esta Ley y demás disposiciones jurídicas aplicables. No podrá declararse la caducidad ni la prescripción en perjuicio de niñas, niños y adolescentes.
 
-## TITULO CUARTO. DE LA PARTICIPACION SOCIAL EN LA EDUCACION
+## TÍTULO CUARTO. De la Protección de Niñas, Niños y Adolescentes
 
 ### Capítulo Único. De los Centros de Asistencia Social
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE ABRIL DE 2025)</small>
 
-###### ARTICULO 65.
+###### Artículo 65.
 
-El Sistema Educativo Estatal podrá impartir opciones terminales posteriores al bachillerato y previas a la conclusión de la licenciatura, de acuerdo a las características y necesidades de desarrollo económico de cada región.
+Los requisitos para autorizar, registrar, certificar y supervisar los centros de asistencia social, a fin de garantizar el cumplimiento de los derechos de niñas, niños y adolescentes privados de cuidado parental o familiar, atendidos en dichos centros, serán determinados por las autoridades estatales y municipales, en términos de lo dispuesto por esta Ley, la Ley General y Estatal de Salud, la Ley General y Estatal de Asistencia Social y la Ley de Protección Civil del Estado de Durango y demás disposiciones jurídicas aplicables.
 
-###### ARTICULO 66.
+Las instalaciones de los centros de asistencia social deberán cumplir con las condiciones establecidas por la Ley General.
 
-El Gobierno del Estado, promoverá el establecimiento de los organismos públicos o privados necesarios para garantizar las condiciones que permitan el desarrollo de la educación media superior y superior, la investigación científica, humanística y tecnológica, con objeto de cumplir, entre otras, con la (sic) siguientes finalidades:
+Niñas, niños y adolescentes con discapacidad temporal o permanente; sin distinción entre motivo o grado de discapacidad, no podrán ser discriminados para ser recibidos o permanecer en los centros de asistencia social.
 
-I.- Fortalecer la infraestructura científica;
+###### Artículo 66.
 
-II.- Fomentar la vinculación entre las instituciones de investigación y los sectores productivos;
+Es responsabilidad de los centros de asistencia social garantizar la integridad física y psicológica de las niñas, niños y adolescentes que tengan bajo su custodia.
 
-III.- Propiciar y fortalecer la participación de la comunidad académica en actividades de divulgación científica;
+Los servicios que presten los centros de asistencia social estarán orientados a brindar, en cumplimiento a sus derechos:
 
-IV.- Fomentar la coordinación de proyectos entre las instituciones de investigación y los sectores productivos del Estado;
+I. Un entorno seguro, afectivo y libre de violencia;
 
-V.- Realizar estudios para la transferencia de resultados de la investigación científica y tecnológica al entorno socio-económico;
+> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2025)</small>
 
-VI.- Realizar acciones de enlace de la sociedad con las áreas de educación superior y de investigación para la solución científica de los problemas prioritarios del Estado;
+II. cuidado y protección contra actos u omisiones que puedan afectar su integridad física o psicología, para la cual deberán contar con un programa interno de protección civil;
 
-VII.- Proporcionar servicios de asesoría e información científica a la comunidad, y
+III. Alimentación que les permita tener una nutrición equilibrada y que cuente con la periódica certificación de la autoridad sanitaria;
 
-VIII.- Estimular el flujo de recursos financieros para la creación de empresas que propongan nuevos usos de la tecnología.
+IV. Atención integral y multidisciplinaria que le brinde servicio médico integral, atención de primeros auxilios, seguimiento psicológico, social, jurídico, entre otros;
 
-###### ARTICULO 67.
+V. Orientación y educación apropiada a su edad, encaminadas a lograr un desarrollo físico, cognitivo, afectivo y social hasta el máximo de sus posibilidades, así como a la comprensión y el ejercicio de sus derechos;
 
-La educación para los adultos está destinada a individuos de quince años o más que no hayan cursado o concluido la educación básica y comprende, entre otras, la alfabetización, la educación primaria y la secundaria, así como la formación para el trabajo. Esta educación se apoyará en la solidaridad social.
+VI. Disfrutar en su vida cotidiana, del descanso, recreación, juego, esparcimiento y actividades que favorezcan su desarrollo integral;
 
-###### ARTICULO 68.
+VII. Servicios de calidad y calidez, por parte de personal capacitado, calificado, apto y suficiente, con formación enfocada en los derechos de la niñez;
 
-El Gobierno del Estado, a través de la autoridad educativa local, impartirá educación abierta que ofrezca a los adultos servicios integrados desde la alfabetización hasta el nivel medio superior para que los ciudadanos tengan diferentes opciones para iniciar y en su caso, continuar su educación.
+VIII. Las personas responsables y el personal de los centros de asistencia social se abstendrán de realizar actividades que afecten la integridad física y psicológica de niñas, niños y adolescentes. De igual manera, los responsables evitarán que el personal que realice actividades diversas al cuidado de niñas, niños y adolescentes, tenga contacto con éstos en la medida que pudiera causarles algún daño o perjuicio;
 
-Los estudios realizados por los adultos en el sistema abierto tendrán validez oficial y una duración de acuerdo a su capacidad y disponibilidad de tiempo. Los beneficiarios de esta educación podrán acreditar los conocimientos adquiridos mediante exámenes parciales o globales, conforme a las disposiciones legales aplicables.
+IX. Espacios de participación para expresar libremente sus ideas y opiniones sobre los asuntos que les atañen y que dichas opiniones sean tomadas en cuenta;
 
-## TITULO QUINTO
+X. Brindarles la posibilidad de realizar actividades externas que les permita tener contacto con su comunidad;
+
+XI. Contar con espacios físicos adecuados a las necesidades de niñas, niños y adolescentes, y
+
+XII. Fomentar la inclusión de niñas, niños y adolescentes con discapacidad, en términos de la legislación aplicable.
+
+Asimismo y con la finalidad de brindarles mejores alternativas de protección para el cumplimiento de sus derechos, se deberá llevar a cabo la revisión periódica de su situación, de la de su familia y de la medida especial de protección por la cual ingresó al centro de asistencia social, garantizando el contacto con su familia y personas significativas siempre que esto sea posible, atendiendo a su interés superior.
+
+La niña, niño o adolescente deberá contar con expediente completo para efectos de que su situación sea revisada y valorada de manera particular, así como para determinar procedimientos de ingreso y egreso con el apoyo de las autoridades competentes que faciliten su reincorporación familiar o social.
+
+Asimismo, se deberá garantizar la protección de sus datos personales conforme a la legislación aplicable y hacer de su conocimiento, en todo momento, su situación legal.
+
+###### Artículo 67.
+
+En lo referente al personal con que deben contar los centros de asistencia social, las obligaciones de sus titulares o responsables legales y lo relativo al Registro Nacional de Centros de Asistencia Social, se estará a lo dispuesto por la Ley General.
+
+###### Artículo 68.
+
+Sin perjuicio de las atribuciones que las disposiciones jurídicas aplicables establezcan a otras autoridades, corresponderá a la Procuraduría de Protección, la supervisión de los centros de asistencia social y, en su caso, ejercitarán las acciones legales que correspondan por el incumplimiento de los requisitos que establece la presente Ley, la Ley General y demás disposiciones jurídicas aplicables.
+
+La Procuraduría de Protección será coadyuvante de la Procuraduría de Protección Federal en la supervisión que se realice a las instalaciones de los centros de asistencia social, en términos de lo previsto en la Ley General y en la Ley Estatal de Asistencia Social.
+
+## TÍTULO QUINTO. De la Protección y Restitución Integral de los Derechos de Niñas, Niños y Adolescentes
 
 ### Capítulo Primero. De las autoridades
 
-###### ARTICULO 69.
+###### Artículo 69.
 
-El Ejecutivo del Estado, podrá sin perjuicio de las disposiciones de las autoridades educativas federales y conforme a la Ley General de Educación, emitir lineamientos referidos a la formación para el trabajo en la Entidad, en atención a sus requerimientos particulares, con el objeto de definir aquellos conocimientos o destrezas susceptibles de certificación, así como los procedimientos de evaluación correspondientes.
+Las políticas públicas emprendidas por las autoridades estatales, municipales y de los órganos constitucionales autónomos, deberán garantizar, en el ámbito de su respectiva competencia, el goce de los derechos de niñas, niños y adolescentes, para lo cual deberán observar el interés superior de la niñez y asegurar la asignación de recursos en términos de las disposiciones jurídicas aplicables, a fin de dar cumplimiento de la política nacional y estatal en materia de derechos de niñas, niños y adolescentes.
 
 #### Sección Primera. De la Distribución de Competencias
 
-###### ARTICULO 70.
+###### Artículo 70.
 
-La formación para el trabajo procurará la adquisición de conocimientos y el desarrollo de habilidades o destrezas, que permitan a quien la reciba, desempeñar una actividad productiva demandada en el mercado de trabajo, para obtener alguna ocupación o algún oficio calificados.
+Corresponde a las autoridades estatales y municipales, en el ámbito de sus atribuciones, garantizar a niñas, niños y adolescentes la protección y el ejercicio de sus derechos y la aplicación de medidas necesarias para su bienestar, tomando en cuenta los derechos y deberes de quienes ejercen la patria potestad, tutela o guarda y custodia.
 
-En la decisión sobre los servicios de formación para el trabajo ofertados por el Estado, se considerarán las necesidades, propuestas y opiniones de los diversos sectores productivos, a nivel municipal y Estatal.
+Las (sic) concurrencia de obligaciones que deberán observar las autoridades locales y federales, será en los términos que al efecto dispone la Ley General.
 
-Podrán celebrarse convenios para que la formación para el trabajo se imparta por los ayuntamientos, las instituciones privadas, las organizaciones sindicales, las empresas y demás particulares.
+###### Artículo 71.
 
-La formación para el trabajo que se imparta en términos del presente Artículo, será adicional y complementaría a la capacitación prevista en la fracción XIII del apartado "A" del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos.
+A fin de garantizar el cumplimiento de los derechos establecidos en esta Ley, las autoridades estatales y municipales competentes, en ejercicio de las atribuciones que les otorgue la presente Ley, podrán disponer lo necesario para que en el Estado se cumplan:
 
-###### ARTICULO 71.
+I. Las obligaciones de ascendientes o tutores o de cualquier persona que tenga a su cargo el cuidado de niñas, niños y adolescentes;
 
-La acreditación de los conocimientos a que se refiere este Capítulo, adquiridos por los adultos, se regirá por lo dispuesto en los artículos 68 y 110 de esta Ley.
+II. De protegerlo contra toda forma de abuso, tratarlo con respeto a su dignidad y a sus derechos, cuidarlo, atenderlo y orientarlo a fin de que conozca sus derechos, aprenda a defenderlos y a respetar los de las otras personas;
 
-###### ARTICULO 72.
+> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2021)</small>
 
-La autoridad educativa local promoverá acciones tendientes a ampliar el alcance de la educación para adultos. Para ello, a través de las actividades que realicen sus dependencias, fomentará la difusión de la cultura, el funcionamiento de asociaciones culturales, el empleo productivo del tiempo libre de los individuos y el conocimiento para el mejoramiento de la vida familiar y social.
+III. Los cursos y programas educativos destinados a servidores públicos, padres de familia y estudiantes, con la finalidad de que comprendan las necesidades, conflictos e intereses de la adolescencia, las formas de violencia familiar, escolar, social, digital y la consecuencia de la victimización de los menores de dieciocho años, por actos u omisiones;
 
-Se concertarán acciones y programas de educación para adultos que promueva la federación para reducir conjuntamente el rezago educativo, dando prioridad a la alfabetización y a la educación básica en los municipios más afectados por la marginación.
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2021)</small>
 
-###### ARTICULO 73.
+IV. La obligación de familiares, vecinos, médicos, maestros, trabajadores sociales, servidores públicos o cualquier persona que tenga conocimiento de casos de niñas, niños y adolescentes que estén sufriendo la violación de los derechos consignados en esta Ley, en cualquiera de sus formas y de ponerlo en conocimiento inmediato de las autoridades competentes, de manera que pueda seguirse la investigación correspondiente;
 
-Las escuelas que se establezcan en cumplimiento de la obligación prevista en la fracción XII del apartado "A" del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, quedarán bajo la dirección administrativa de la autoridad educativa estatal correspondiente y contarán con edificio propio, instalaciones y demás elementos necesarios para realizar su función, de conformidad con lo que señalen las disposiciones aplicables; el sostenimiento de estas instituciones educativas, comprende la obligación patronal de proporcionar los recursos económicos para la remuneración del personal y las prestaciones que dispongan las leyes y reglamentos, que no serán inferiores a las que otorguen las Autoridades Educativas Estatales en igualdad de circunstancias.
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+V. En las instituciones educativas, deportivas, religiosas, de salud, de cuidado, penales, policiales, de investigación o de cualquier índole o quienes tengan trato con niñas, niños y adolescentes, se velará por el respeto de sus derechos, a efecto de evitar cualquier tipo de maltrato, perjuicio, daño, agresión, castigo corporal, humillante, abuso o explotación;
+
+> <small>(REFORMADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+VI. Las obligaciones de quienes tengan trato con niñas, niños y adolescentes observen la prohibición de ejercer cualquier tipo de violencia en su contra, incluyendo el castigo corporal y humillante; y
+
+> <small>(ADICIONADA, P.O. 16 DE NOVIEMBRE DE 2025)</small>
+
+VII. La obligación de los servidores públicos que intervengan en los procedimientos jurisdiccionales en los que se atribuya la comisión o participación en un hecho que la ley señale como delito cometido por adolescentes, de contar con los conocimientos, capacitación y especialización de conformidad con lo establecido en la Ley Nacional del Sistema Integral de Justicia Penal para Adolescentes.
+
+###### Artículo 72.
+
+Corresponden a las autoridades estatales en el ámbito de sus competencias, las atribuciones siguientes:
+
+I. Garantizar en el ámbito de su competencia, el cabal cumplimiento de la presente Ley, la Ley General y de los tratados internacionales aplicables, en la medida que favorezcan la protección del interés superior de la niñez;
+
+II. Impulsar la formación y actualización de acuerdos interinstitucionales de coordinación entre las diferentes instancias de gobierno;
+
+III. Revocar temporal o definitivamente, a través de la autoridad competente, la autorización para operar los centros de asistencia social, por el incumplimiento de las obligaciones y requisitos previstos en esta Ley y en la Ley General;
+
+IV. Instrumentar y articular sus políticas públicas tomando en consideración el Programa Nacional para la adecuada garantía y protección de los derechos de niñas, niños y adolescentes;
+
+V. Elaborar el Programa local y participar en el diseño del Programa Nacional;
+
+VI. Fortalecer las políticas existentes e impulsar la creación de instituciones públicas y privadas que tengan trato con niñas, niños y adolescentes, en la medida que armonicen con los principios rectores y disposiciones de la presente Ley;
+
+VII. Promover, en coordinación con el Gobierno Federal, programas y proyectos de atención, educación, capacitación, investigación y cultura de los derechos humanos de niñas, niños y adolescentes;
+
+VIII. Impulsar programas locales para el adelanto y desarrollo de niñas, niños y adolescentes en situación de vulnerabilidad;
+
+IX. Difundir por todos los medios de comunicación el contenido de esta Ley;
+
+X. Aplicar el Programa Local a que se refiere esta Ley, así como rendir ante el Sistema Nacional de Protección Integral un informe anual sobre los avances;
+
+XI. Revisar y valorar la eficacia de las acciones, las políticas públicas, los programas estatales en la materia, con base en los resultados de las evaluaciones que al efecto se realicen;
+
+XII. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas estatales, en la medida que favorezca la salvaguarda del interés superior de la niñez;
+
+XIII. Recibir de las organizaciones privadas, las propuestas y recomendaciones sobre protección de derechos de niñas, niños y adolescentes, a fin de mejorar los mecanismos en la materia, en la medida que favorezca la salvaguarda del interés superior de la niñez;
+
+XIV. Proporcionar a las instancias encargadas de realizar estadísticas y de integrar el sistema nacional de información, la información necesaria para la elaboración de éstas;
+
+XV. Coordinar con las autoridades de los órdenes de gobierno la implementación y ejecución de las acciones y políticas públicas que deriven de la presente Ley;
+
+XVI. Impulsar reformas, en el ámbito de su competencia, para el cumplimiento de los objetivos de la presente Ley;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+XVII. Adoptar medidas de protección especial de los derechos de niñas, niños y adolescentes que se encuentren en situación de vulnerabilidad por circunstancias específicas de carácter socioeconómico, psicológico, físico, discapacidad, identidad cultural, origen étnico o nacional, situación migratoria o bien, relacionadas con su sexo, creencias religiosas o prácticas culturales, u otros que restrinjan o limiten sus derechos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+XVIII. Realizar campañas permanentes de difusión en redes sociales, televisoras y radiodifusoras locales, con la finalidad de prevenir la violencia contra las niñas, niños y adolescentes, así como campañas de promoción dentro de la población en general para que denuncien cuando tengan conocimiento de que alguna niña, niño o adolescente este sufriendo algún tipo de violencia; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+XIX. Cualquier otra prevista en las disposiciones jurídicas aplicables para el cumplimiento de esta Ley.
+
+###### Artículo 73.
+
+Corresponde a las autoridades municipales, de conformidad con esta Ley y las leyes locales en la materia, las atribuciones siguientes:
+
+I. Elaborar su Programa Municipal y participar en el diseño del Programa Local;
+
+II. Realizar acciones de difusión que promuevan los derechos de niñas, niños y adolescentes en el municipio, para que sean plenamente conocidos y ejercidos;
+
+III. Promover la libre manifestación de ideas de niñas, niños y adolescentes en los asuntos concernientes a su municipio, de acuerdo a lo prescrito en la presente Ley;
+
+IV. Atender a niñas, niños y adolescentes que deseen manifestar inquietudes, de acuerdo a lo prescrito en la presente Ley;
+
+V. Recibir quejas y denuncias por violaciones a los derechos reconocidos en la presente Ley, la Ley General y demás disposiciones jurídicas aplicables, así como canalizarlas de forma inmediata a la Procuraduría de Protección, sin perjuicio que ésta pueda recibirla directamente;
+
+VI. Colaborar con la Procuraduría de Protección en las medidas urgentes de protección que ésta determine, y coordinar las acciones que correspondan en el ámbito de sus respectivas atribuciones;
+
+VII. Promover la celebración de convenios de coordinación con las autoridades competentes, así como con otras instancias públicas o privadas, para la atención y protección de niñas, niños y adolescentes;
+
+VIII. Difundir y aplicar los protocolos específicos sobre los derechos de niñas, niños y adolescentes que autoricen las autoridades federales, estatales y municipales;
+
+IX. Coordinarse con las autoridades estatal y federal para la implementación y ejecución de las acciones y políticas públicas que deriven de la presente Ley, de la Ley General y demás disposiciones jurídicas aplicables;
+
+X. Coadyuvar en la integración del sistema de información a nivel nacional de niñas, niños y adolescentes;
+
+> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+XI. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas municipales; en la medida que favorezca a la salvaguarda del interés superior de la niñez;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+XII. Realizar campañas permanentes de difusión en redes sociales, televisoras y radiodifusoras locales, con la finalidad de prevenir la violencia contra las niñas, niños y adolescentes, así como campañas de promoción dentro de la población en general para que denuncien cuando tengan conocimiento de que alguna niña, niño o adolescente este sufriendo algún tipo de violencia; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 26 DE DICIEMBRE DE 2021)</small>
+
+XIII. Las demás que establezcan las autoridades estatales y municipales y aquellas que deriven del cumplimiento de lo dispuesto en la Ley General.
 
 #### Sección Segunda. Del Sistema DIF Estatal
 
-###### ARTICULO 74.
+###### Artículo 74.
 
-En concordancia con el artículo anterior, las autoridades educativas estatales podrán celebrar convenios con los patrones para cumplir eficientemente con la función educativa.
+Sin perjuicio de las atribuciones que establezcan las demás disposiciones jurídicas aplicables, corresponde al Sistema DIF Estatal:
+
+I. Proteger los derechos de niñas, niños y adolescentes, cuando los mismos se encuentren restringidos o vulnerados, en términos de esta Ley y las demás disposiciones jurídicas aplicables. Teniendo en cuenta, que la institucionalización procederá como último recurso y por el menor tiempo posible, priorizando las opciones de cuidado en un entorno familiar;
+
+II. Apoyar el desarrollo de la familia y la comunidad, resaltando una cultura de respeto de los derechos de las niñas, niños y adolescentes que fomente la integración social de todos los ciudadanos;
+
+III. Impulsar la cooperación y coordinación de las autoridades en los diferentes niveles en el ámbito de sus respectivas competencias en materia de protección y restitución en el ejercicio de derechos de niñas, niños y adolescentes para establecer los mecanismos necesarios para ello;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2024)</small>
+
+IV. Prestar servicios de asistencia social y en su caso, celebrar los convenios de colaboración con los Sistemas Municipales DIF, así como con organizaciones e instituciones de los sectores público, privado y social, en la medida que favorezca la salvaguarda del interés superior de la niñez;
+
+V. Operar y monitorear todas las acciones, programas y establecimientos destinados a brindar asistencia social en beneficio de niñas, niños y adolescentes; especialmente con aquellos que sufren algún tipo de discapacidad;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2024)</small>
+
+VI. Promover la formación, capacitación y profesionalización del personal de instituciones vinculadas con la protección y restitución de los derechos de niñas, niños y adolescentes, así como para realizar y apoyar estudios e investigaciones en la materia, en la medida que favorezca la salvaguarda del interés superior de la niñez, y
+
+VII. Las demás que establezcan otras disposiciones en relación con la protección de niñas, niños y adolescentes que sean del ámbito de su competencia.
 
 ### Capítulo Segundo. De la Procuraduría de Protección
 
-###### ARTICULO 75.
+###### Artículo 75.
 
-La educación informal es la que se adquiere en los espacios sociales diferentes al ámbito escolar e influye en el desarrollo personal y social de los individuos.
+De conformidad con lo estipulado en el Artículo 121 de la Ley General, la Procuraduría de Protección, como parte del Sistema DIF Estatal, será integrada en los términos que al efecto establezca la legislación orgánica correspondiente y la reglamentación interna del propio organismo.
 
-###### ARTICULO 76.
+###### Artículo 76.
 
-Para propiciar el desarrollo de sus comunidades el Estado impulsará la educación informal a través de las siguientes acciones:
+La Procuraduría de Protección tendrá las atribuciones siguientes:
 
-I.- Misiones culturales;
+I. Procurar la protección integral de niñas, niños y adolescentes de acuerdo a lo previsto por la Constitución Federal y Estatal, los tratados internacionales, la Ley General, esta Ley y demás disposiciones jurídicas aplicables; dicha protección integral deberá abarcar, por lo menos:
 
-II.- Programas de preservación y mejoramiento de la salud;
+a. Atención médica y psicológica de manera preventiva y oportuna;
 
-III.- Programas de mejoramiento y preservación del medio ambiente;
+b. Respeto y promoción en primera instancia, del mantenimiento y buen funcionamiento de sus relaciones familiares con sus padres, tutores, cuidadores o responsables legales;
 
-IV.- Fomento al desarrollo artístico y artesanal;
+c. Seguimiento a las actividades académicas y del entorno social y cultural en que se desenvuelvan;
 
-V.- Procurar el conocimiento de la historia y geografía del Estado;
+d. Un hogar seguro para todas las niñas, niños y adolescentes, especialmente para aquellos en situación de desamparo; y
 
-VI.- Rescate y conservación del patrimonio cultural comunitario;
+e. La inclusión, en su caso, de quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes en las medidas de rehabilitación y asistencia.
 
-VII.- Fomento del servicio a la comunidad en una participación social comprometida, y
+II. Prestar asesoría y representación en suplencia a niñas, niños y adolescentes involucrados en procedimientos judiciales o administrativos, sin perjuicio de las atribuciones que le correspondan al Ministerio Público, así como intervenir oficiosamente, con representación coadyuvante, en los procedimientos jurisdiccionales y administrativos en que participen niñas, niños y adolescentes, de conformidad con lo dispuesto en la presente Ley, la Ley General y demás disposiciones jurídicas aplicables;
 
-VIII.- Las demás que tiendan al bienestar individual y social.
+III. Coordinar la ejecución y dar seguimiento a las medidas de protección para la restitución integral de los derechos de niñas, niños y adolescentes, a fin de que las instituciones competentes actúen de manera oportuna y articulada;
 
-###### ARTICULO 77.
+IV. Fungir como conciliador y mediador en casos de conflicto familiar y cuando los derechos de niñas, niños y adolescentes hayan sido restringidos o vulnerados, conforme a las disposiciones jurídicas aplicables. La conciliación no procederá en casos de violencia;
 
-Para impulsar la educación informal el Gobierno del Estado hará uso de los avances de la tecnología a su alcance.
+> <small>(REFORMADA, P.O. 17 DE JUNIO DE 2021)</small>
 
-###### ARTICULO 78.
+V. Denunciar ante el Ministerio Público dentro de las siguientes 24 horas de las que se tenga conocimiento todos aquellos hechos que se presuman constitutivos de delito en contra de niñas, niños y adolescentes; así como en hechos en donde se haga participar a niñas, niños o adolescentes en actividades delictivas; auxiliando a la autoridad correspondiente con la información que se le solicite para la investigación correspondiente;
 
-El Gobierno del Estado utilizará los medios masivos de comunicación para impulsar el desarrollo social, cultural y educativo en la Entidad.
+VI. Solicitar al Ministerio Público competente la imposición de medidas urgentes de protección especial idóneas, cuando exista un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes, quien deberá decretarlas a más tardar, durante las siguientes 3 horas a la recepción de la solicitud, dando aviso de inmediato a la autoridad jurisdiccional competente. Son medidas urgentes de protección especial en relación con niñas, niños y adolescentes, además de las establecidas en el Código Nacional de Procedimientos Penales y demás disposiciones jurídicas aplicables, las siguientes:
+
+a. El ingreso de una niña, niño o adolescente a un centro de asistencia social;
+
+b. La atención médica inmediata.
+
+VII. Ordenar, fundada y motivadamente, bajo su más estricta responsabilidad, la aplicación de medidas urgentes de protección especial establecidas en la fracción anterior, cuando exista riesgo inminente contra la vida, integridad o libertad de niñas, niños o adolescentes, dando aviso de inmediato a la autoridad jurisdiccional competente y en su caso, al Ministerio Público.
+
+Dentro de las 24 horas siguientes a la imposición de la medida urgente de protección el órgano jurisdiccional competente deberá pronunciarse sobre la cancelación, ratificación o modificación de la medida que se encuentre vigente.
+
+Para la imposición de las medidas urgentes de protección, el Procurador de Protección podrá solicitar el auxilio de las instituciones policiales competentes.
+
+En caso de incumplimiento de las medidas urgentes de protección, el Procurador de Protección podrá solicitar la imposición de las medidas de apremio o sanciones correspondientes a la autoridad competente;
+
+VIII. Proceder a verificar el hecho de abandono de una niña, niño o adolescente del que tenga conocimiento la Procuraduría de Protección y, habiéndolo comprobado, deberá presentar la denuncia correspondiente ante el Ministerio Público;
+
+IX. Promover la participación de los sectores público, social y privado en la planificación y ejecución de acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes, en la medida que favorezca la salvaguarda de su interés superior;
+
+X. Asesorar a las autoridades competentes y a los sectores público, social y privado en el cumplimiento del marco normativo relativo a la protección de niñas, niños y adolescentes, conforme a las disposiciones jurídicas aplicables, en la medida que favorezca la salvaguarda de su interés superior;
+
+XI. Proporcionar orientación y asesoría jurídica en materia de derecho familiar a personas en situación vulnerable;
+
+XII. Coadyuvar con el Sistema Nacional y el Sistema DIF Estatal y sus municipios, en la elaboración de los lineamientos y procedimientos para registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, considerando los requisitos señalados para el acogimiento pre-adoptivo, así como para emitir los certificados de idoneidad, de acuerdo a lo dispuesto en las disposiciones jurídicas aplicables;
+
+XIII. Proporcionar información para integrar y sistematizar el Registro Nacional de Centros de Asistencia Social, de acuerdo a lo prescrito por la Ley General;
+
+XIV. Supervisar el debido funcionamiento de los centros de asistencia social a que se refiere esta ley, en su caso, ejercer las acciones legales que correspondan por el incumplimiento de los requisitos que establece la presente Ley, la Ley General y demás disposiciones jurídicas aplicables;
+
+XV. Supervisar la ejecución de las medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen por resolución judicial;
+
+XVI. Realizar y promover estudios e investigaciones para fortalecer las acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes, con el fin de difundirlos entre las autoridades competentes y los sectores público, social y privado para su incorporación en los programas respectivos, en la medida que favorezca la salvaguarda del interés superior de la niñez;
+
+XVII. Las demás que les confieran otras disposiciones jurídicas aplicables.
+
+###### Artículo 77.
+
+Para solicitar la protección y restitución integral de los derechos de niñas, niños y adolescentes, la Procuraduría de Protección deberá seguir el procedimiento establecido en el Artículo 123 de la Ley General.
+
+###### Artículo 78.
+
+Los requisitos para ser nombrado titular de la Procuraduría de Protección, son los siguientes:
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
+
+> <small>(REFORMADA, P.O. 20 DE MAYO DE 2021)</small>
+
+II. Tener más de 30 años de edad.
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+III. Contar con título y cédula profesional de licenciatura en derecho, debidamente registrados, con una antigüedad mínima de 5 años;
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+IV. Contar con al menos cinco años de experiencia en materia de procuración de justicia o defensa de niñas, niños y adolescentes;
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+V. No haber sido condenado mediante sentencia ejecutoriada por delito doloso o inhabilitado a través de sentencia firme como servidor público; y
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+VI. Acreditar las pruebas de control de confianza emitidas por la autoridad competente.
+
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2017)</small>
+
+El nombramiento de Procurador de Protección deberá ser aprobado por la Junta de Gobierno del Sistema DIF Estatal, a propuesta del Titular del Poder Ejecutivo.
 
 ### Capítulo Tercero. Del Sistema Local de Protección
 
 #### Sección Primera. De los Integrantes
 
-###### ARTICULO 79.
+###### Artículo 79.
 
-Para elevar el nivel social, cultural y educativo de la comunidad e impulsar la investigación científica y tecnológica, el Gobierno del Estado, los Municipios y sus organismos descentralizados, fomentarán la producción y difusión de libros, revistas, folletos y demás formas de comunicación.
+El eje rector del Sistema Local será el fortalecimiento familiar con el fin de proteger de forma integral los derechos de niñas, niños y adolescentes de esta entidad.
 
-###### ARTICULO 80.
+El Sistema Local de Protección tendrá las siguientes atribuciones:
 
-Corresponde al Gobierno del Estado la planeación, organización, administración y evaluación del Sistema Educativo Estatal a través de las autoridades educativas locales las cuales tendrán la estructura técnica y administrativa que les permita lograr la mayor eficiencia y productividad.
+I. Crear, impulsar, instrumentar y articular políticas públicas que favorezcan el interés superior de la niñez;
 
-###### ARTICULO 81.
+II. Coadyuvar en la adopción y consolidación del Sistema Nacional de Protección;
 
-El Titular del Poder Ejecutivo, expedirá el Programa Estatal de Educación, tomando en cuenta la propuesta que le presente la autoridad educativa local.
+III. Garantizar la transversalidad de la perspectiva de derechos de niñas, niños y adolescentes en la elaboración de programas sectoriales o, en su caso, institucionales específicos, así como en las políticas y acciones de las dependencias y entidades de la administración pública local;
 
-El Programa Estatal de Educación se formulará en congruencia con el Plan Estatal de Desarrollo y con el Proyecto Educativo que formule la autoridad educativa estatal, quien deberá considerar la opinión de los diversos sectores involucrados en el ámbito de la educación para su elaboración.
+IV. Difundir el marco jurídico local, nacional e internacional de protección a los derechos de niñas, niños y adolescentes;
+
+V. Integrar a los sectores público, social y privado en la definición e instrumentación de políticas para la protección de niñas, niños y adolescentes, en la medida que favorezca su interés superior;
+
+VI. Generar los mecanismos necesarios para garantizar la participación directa y efectiva de niñas, niños y adolescentes en los procesos de elaboración de programas y políticas locales para la protección integral de sus derechos, de acuerdo a lo estipulado en la presente Ley;
+
+VII. Establecer en sus presupuestos, rubros destinados a la protección de los derechos de niñas, niños y adolescentes, los cuales tendrán una realización progresiva;
+
+VIII. Participar en la elaboración del Programa Nacional;
+
+IX. Elaborar y ejecutar el Programa Local con la participación de los sectores público, social y privado, así como de niñas, niños y adolescentes;
+
+X. Llevar a cabo el seguimiento, monitoreo y evaluación de la ejecución del Programa Local;
+
+XI. Emitir un informe anual sobre los avances del Programa Local y remitirlo al Sistema Nacional de Protección;
+
+XII. Garantizar la participación de niñas, niños y adolescentes en el ejercicio de sus derechos humanos, tomando en consideración las medidas especiales que se requieran y las disposiciones prescritas en la presente Ley;
+
+XIII. Fortalecer las acciones de corresponsabilidad y cercanía entre las instancias públicas y privadas con niñas, niños y adolescentes;
+
+XIV. Realizar acciones de formación y capacitación de manera sistemática y continua sobre el conocimiento y respeto de los derechos humanos de niñas, niños y adolescentes, especialmente en coordinación con sus padres, tutores o responsables legales y con aquellas personas que trabajan desde los diversos ámbitos en la garantía de sus derechos;
+
+XV. Impulsar reformas, en el ámbito de su competencia, para el cumplimiento de los objetivos de la presente Ley;
+
+XVI. Celebrar convenios de coordinación en la materia;
+
+> <small>(REFORMADA, P.O. 25 DE MAYO DE 2021)</small>
+
+XVII. Auxiliar a la Procuraduría de Protección en las medidas urgentes de protección que ésta determine, y coordinar las acciones que correspondan en el ámbito de sus atribuciones;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2021)</small>
+
+XVIII. Establecer programas de integración familiar, así como implementar programas de formación para padres de familia, que promuevan el desarrollo de habilidades y herramientas parentales para la educación parental en el marco de una crianza positiva;
+
+> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2021)</small>
+
+XIX. Impulsar mecanismos que permitan el desarrollo de un enfoque preventivo y multidisciplinario de las políticas, programas, estrategias y acciones en materia de protección y ejercicio de los derechos de las niñas, niños y adolescentes; y
+
+XX. Las demás que le otorguen otras disposiciones jurídicas aplicables.
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 23 DE JUNIO DE 2024)</small>
+
+###### Artículo 80.
+
+El Sistema Local de Protección estará conformado por:
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 23 DE JUNIO DE 2024)</small>
+
+A. Poder Ejecutivo Estatal:
+
+I. El Gobernador del Estado, quien lo presidirá;
+
+II. El Secretario General de Gobierno;
+
+III. El Secretario de Finanzas y de Administración;
+
+> <small>(REFORMADA, P.O. 23 DE JUNIO DE 2024)</small>
+
+IV. El Secretario de Bienestar Social;
+
+V. El Secretario de Educación;
+
+VI. El Secretario de Salud;
+
+VII. El Secretario de Trabajo y Previsión Social;
+
+VIII. El Fiscal General del Estado, y
+
+IX. El Director del Sistema DIF Estatal.
+
+B. Delegaciones Federales:
+
+I. Secretaría de Relaciones Exteriores;
+
+II. Instituto Nacional de Migración, y
+
+III. Secretaría de Comunicaciones y Transportes.
+
+C. Hasta cinco Presidentes municipales que serán invitados por el Presidente del Sistema.
+
+D. Órganos Constitucionales Autónomos:
+
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2019)</small>
+
+I. Comisión Estatal de Derechos Humanos.
+
+E. Representantes de la Sociedad Civil que serán nombrados por el Sistema Local, en los términos del reglamento de esta Ley.
+
+Para efectos de lo previsto en el apartado E, el reglamento deberá prever los términos para la emisión de una convocatoria pública, que contendrá las etapas completas para el procedimiento, sus fechas límites y plazos.
+
+> <small>(REFORMADO, P.O. 17 DE MARZO DE 2019)</small>
+
+Serán invitados permanentes a las sesiones del Sistema Local de Protección, el Presidente de la Comisión de Asuntos de la Familia y Menores de Edad del Congreso del Estado, el Titular del Instituto Estatal de las Mujeres y un representante del Poder Judicial del Estado de Durango, quienes intervendrán con voz pero sin voto.
+
+El Gobernador del Estado, en casos excepcionales, podrá ser suplido por el Secretario General de Gobierno.
+
+Los integrantes del Sistema Local nombrarán un suplente que deberá tener el nivel de subsecretario o equivalente.
+
+El Presidente del Sistema podrá invitar a las sesiones respectivas a representantes de otras dependencias y entidades de la Administración Pública Estatal, de los Órganos Constitucionales Autónomos, según la naturaleza de los asuntos a tratar quienes intervendrán con voz pero sin voto.
+
+En las sesiones del Sistema Local, participarán de forma permanente, sólo con voz, niñas, niños y adolescentes, que serán seleccionados por el propio Sistema. De igual forma, se podrá invitar a personas o instituciones, estatales, nacionales o internacionales, especializadas en la materia.
+
+###### Artículo 81.
+
+El Sistema Local se reunirá cuando menos dos veces al año.
+
+Para sesionar válidamente se requerirá un quórum de la mayoría de sus miembros y la asistencia de su Presidente; sus decisiones se tomarán por mayoría de votos y, en caso de empate, el Presidente tendrá voto de calidad.
+
+Para el mejor cumplimiento de sus funciones, el Sistema Local podrá constituir comisiones encargadas de atender asuntos o materias específicas y emitirá los lineamientos para su integración, organización y funcionamiento, así como para la integración, organización y funcionamiento de los Sistemas Municipales, dichos lineamientos deberán ser publicados en el Periódico Oficial del Gobierno del Estado.
 
 #### Sección Segunda. De la Secretaría Ejecutiva
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2020)</small>
 
-###### ARTICULO 82.
+###### Artículo 82.
 
-El Proyecto Educativo del Estado, es el instrumento que permite integrar los esfuerzos de las autoridades, organismos e instituciones educativas, públicas y privadas, orientadas al desarrollo educativo, debiendo contener por lo menos los siguientes elementos:
+La coordinación operativa del Sistema Local recaerá en un órgano administrativo desconcentrado de la Secretaría General de Gobierno, que ejercerá las funciones de Secretaría Ejecutiva y a través de su titular, ejercerá las siguientes atribuciones:
 
-I.- Diagnóstico de la educación en el Estado;
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2020)</small>
 
-II.- Instrumentos de planeación y control;
+I. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2020)
 
-III.- Instrumentos de evaluación permanente;
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2019)</small>
 
-IV.- Proyectos estratégicos;
+II. Coordinar y colaborar en las acciones entre las dependencias y las entidades competentes de la Administración Pública Estatal que deriven de la presente Ley;
 
-V.- Líneas de acción, y
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2019)</small>
 
-VI.- Participación directa de la sociedad.
+III. Coordinar a las Secretarías Ejecutivas de los Sistemas Municipales de Protección, para la adecuada articulación de la política estatal, así como el intercambio de información necesaria a efecto de dar cumplimiento a la presente Ley;
 
-###### ARTICULO 83.
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2019)</small>
 
-El Proyecto Educativo del Estado, estará encaminado a elevar la calidad de la educación que se imparta, así como promover la cultura y el bienestar personal, familiar y social en la comunidad, para lo cual tomará como base la Ley General de Educación y la presente Ley.
+IV. Elaborar el anteproyecto del Programa Local para someterlo a consideración de los miembros del Sistema Local de Protección;
+
+V. Llevar a cabo el seguimiento y monitoreo de la ejecución del Programa Local;
+
+VI. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2020)
+
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2019)</small>
+
+VII. Compilar los acuerdos que se tomen en el Sistema Local de Protección, llevar el archivo de éstos, de los instrumentos jurídicos que deriven, y expedir constancia de los mismos;
+
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2019)</small>
+
+VIII. Apoyar al Sistema Local de Protección en la ejecución y seguimiento de los acuerdos y resoluciones emitidos;
+
+IX. Celebrar convenios de coordinación, colaboración y concertación con instancias públicas y privadas, nacionales e internacionales;
+
+X. Realizar y promover estudios e investigaciones para fortalecer las acciones en favor de la atención, defensa y protección de niñas, niños y adolescentes con el fin de difundirlos a las autoridades competentes y a los sectores social y privado para su incorporación en los programas respectivos;
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2019)</small>
+
+XI. Realizar reuniones de trabajo y procesos de colaboración interinstitucional continuos con las autoridades obligadas en el cumplimiento de la Ley, así como con quienes integran el Sistema Local de Protección para el cumplimiento de los acuerdos, resoluciones y recomendaciones emitidos por el mismo;
+
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2019)</small>
+
+XII. Difundir entre las autoridades correspondientes y la población en general los resultados de los trabajos que realice, y la información pública que tienda a la generación, desarrollo y consolidación de una cultura de respeto y reconocimiento de los derechos de las niñas, niños y adolescentes, desagregada por lo menos, en razón de edad, sexo, entidad federativa, escolaridad y discapacidad;
+
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2019)</small>
+
+XIII. Asesorar y apoyar al Gobierno del Estado y a los Ayuntamientos que lo requieran para el ejercicio de sus atribuciones en la materia;
+
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2019)</small>
+
+XIV. Informar cada cuatro meses al Sistema Local de Protección y a su Presidente, sobre sus actividades;
+
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2019)</small>
+
+XV. Fungir como instancia de interlocución con organizaciones de la sociedad civil, academia y demás instituciones de los sectores social y privado;
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2019)</small>
+
+XVI. Realizar acciones de supervisión y guía a las dependencias y entidades de la Administración Pública Estatal y Municipal, que presten servicios en materia de niñas, niños y adolescentes;
+
+XVII. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2020)
+
+> <small>(ADICIONADA, P.O. 17 DE MARZO DE 2019)</small>
+
+XVIII. Crear una plataforma que permita integrar, desarrollar y consolidar la información sobre niñas, niños y adolescentes a nivel Estatal y Municipal, a fin de orientar políticas públicas, programas, planes y demás acciones a favor de niñas, niños y adolescentes, con el objetivo de llevar a cabo el monitoreo, seguimiento y evaluación de los mismos;
+
+XIX. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2020)
+
+> <small>(REFORMADA, P.O. 17 DE MARZO DE 2019)</small>
+
+XX. Las demás que le encomiende el Presidente o el Sistema Local de Protección.
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2020)</small>
+
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2020)</small>
+
+###### Artículo 83.
+
+El titular de la Secretaría Ejecutiva será nombrado y removido libremente por el Presidente del Sistema y deberá cumplir con los siguientes requisitos:
+
+I. Ser ciudadano mexicano en pleno goce de sus derechos civiles y políticos;
+
+II. Tener más de 30 años de edad;
+
+III. Contar con título profesional de nivel de licenciatura debidamente registrado;
+
+IV. Contar con al menos cinco años de experiencia en las áreas correspondientes a su función, y
+
+V. No haber sido sentenciado por delito doloso o inhabilitado como servidor público.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2020)</small>
+
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2020)</small>
 
 ###### Artículo 83 Bis.
 
@@ -1291,107 +1979,87 @@ El Proyecto Educativo del Estado, estará encaminado a elevar la calidad de la e
 
 ### Capítulo Cuarto. De los Sistemas Municipales de Protección
 
-###### ARTICULO 84.
+###### Artículo 84.
 
-La Autoridad Educativa en el Estado dará a conocer a los trabajadores de la educación, sus organismos sindicales, alumnos, padres de familia y a la sociedad en general, los resultados y alcances del Proyecto Educativo.
+Los Sistemas Municipales serán presididos por los Presidentes Municipales y estarán integrados por las dependencias e instituciones vinculadas con la protección de los derechos de niñas, niños y adolescentes.
+
+Los Sistemas Municipales garantizarán la participación de los sectores sociales y privados, así como de niñas, niños y adolescentes.
+
+El eje rector de los Sistemas Municipales será el fortalecimiento familiar con el fin de proteger de forma integral los derechos de niñas, niños y adolescentes de esta entidad.
+
+Cada Sistema Municipal contará con una Secretaría Ejecutiva cuyo titular será nombrado y removido libremente por el Presidente Municipal, quien deberá contar con experiencia en materia de asistencia social.
+
+Los Sistemas Municipales funcionarán y se organizarán de acuerdo a los lineamientos establecidos por el Sistema Local; se reunirán cuando menos dos veces al año, para sesionar válidamente se requerirá un quórum de la mayoría de sus miembros y la asistencia de su Presidente; sus decisiones se tomarán por mayoría de votos y, en caso de empate, el Presidente tendrá voto de calidad.
 
 ### Capítulo Quinto. De los Organismos de Protección de los Derechos Humanos
 
-###### ARTICULO 85.
+###### Artículo 85.
 
-Las Autoridades Educativas Estatales y Municipales, evaluarán en forma sistemática y permanente al Sistema Educativo Estatal de manera coordinada y concurrente con las autoridades educativas federales.
+La Comisión Estatal de los Derechos Humanos de Durango, en el ámbito de su competencia, deberá establecer áreas especializadas para la protección efectiva, observancia, promoción, estudio y divulgación de los derechos de niñas, niños y adolescentes.
 
 ### Capítulo Sexto. Del Programa Nacional y el Programa Local
 
-###### ARTICULO 86.
+###### Artículo 86.
 
-Se declara de interés público la evaluación del Sistema Educativo Estatal; los organismos e instituciones educativas pertenecientes al Sistema, tienen la obligación de contribuir a la evaluación y al derecho de conocer los resultados de la misma.
+Las autoridades estatales y sus municipios, en el ámbito de sus respectivas competencias, a través del Sistema Nacional de Protección Integral, así como los sectores privado y social, participarán en la elaboración y ejecución de los Programas Nacional y Local, los cuales deberán estar acorde con los Planes Nacional y Estatal de Desarrollo, la Ley General y la presente.
 
-###### ARTICULO 87.
+Los programas locales preverán acciones de mediano y largo alcance, indicarán los objetivos, estrategias y líneas de acción prioritarias, y deberán alinearse al Programa Nacional; deberán incluir mecanismos transparentes que permitan su evaluación y seguimiento, así como de participación ciudadana y serán publicados en el Diario Oficial del Gobierno del Estado de Durango.
 
-Para la planeación y evaluación del desarrollo educativo del Estado, el Gobernador, a través de una Comisión Mixta de Evaluación del Sistema Educativo en el Estado, establecerá un sistema de evaluación de carácter permanente de participación y consulta con los sectores educativos y sociales, principalmente aquellos sectores involucrados en los aspectos educativos, sus organizaciones sindicales, las instituciones particulares de educación y sus organismos representativos, que se encargue de:
+###### Artículo 87.
 
-I.- Actuar como cuerpo especializado de consulta en la evaluación educativa, en todos sus niveles y tipos;
+El Sistema Local y los Municipales contarán con órganos consultivos de apoyo, en los que participarán las autoridades competentes y representantes de los sectores social y privado, para la implementación y aplicación de los programas.
 
-II.- Diseñar, desarrollar, establecer y aplicar los programas y demás disposiciones técnicas que se requieran para la evaluación del Sistema Educativo en el Estado;
-
-III.- Proponer las medidas adecuadas y presentar estudios técnicos a las autoridades educativas en el Estado, para mejorar el servicio educativo;
-
-IV.- Verificar que las normas pedagógicas, contenidos, planes y programas de estudios, métodos, materiales didácticos e instrumentos para la evaluación del aprendizaje se cumplan en los planteles educativos.
-
-El Titular del Poder Ejecutivo promoverá con las autoridades encargadas de los niveles medio superior y superior la celebración de convenios para que éstas se incorporen, en la medida que sus propias normatividades lo permitan, a los trabajos de esta Comisión, la que tendrá las atribuciones y la organización que le señale el reglamento correspondiente.
-
-## TITULO SEXTO. DE LAS INFRACCIONES, LAS SANCIONES Y EL RECURSO ADMINISTRATIVO
+## TÍTULO SEXTO. De las Infracciones Administrativas
 
 ### Capítulo Único. De las Infracciones y Sanciones Administrativas
 
-###### ARTICULO 88.
+###### Artículo 88.
 
-Son derechos de quienes ejercen la patria potestad o tutela:
+Se considerarán infracciones cometidas por servidores públicos, personal de instituciones de salud, educación, deportiva o cultural, empleado o trabajador de establecimientos sujetos al control, administración o coordinación de aquellas, como centros de asistencia social o de cualquier otra índole de jurisdicción estatal o municipal, en el ámbito de sus respectivas competencias; las siguientes:
 
-I.- Ser reconocidos como agente natural y primario de la educación, así como elegir para sus hijos o pupilos la instrucción educativa pública o particular que les convenga;
+I. Negar injustificadamente el ejercicio de un derecho a la niña, niño o adolescente; así como a la prestación de un servicio al que se encuentra obligado por la presente Ley;
 
-II.- Obtener la inscripción en escuelas públicas o particulares para que sus hijos o pupilos menores de edad, que satisfagan los requisitos aplicables, reciban la educación en los niveles, tipos y modalidades que imparta el Estado;
+II. Cuando en el ejercicio de sus funciones o con motivo de ellas tenga conocimiento de la violación de algún derecho de alguna niña, niño o adolescente y se abstenga de hacerlo del conocimiento de la autoridad competente, en contravención de lo prescrito por la presente Ley y demás disposiciones estatales aplicables;
 
-III.- Participar a las autoridades de la escuela en la que estén inscritos sus hijos o pupilos, cualquier problema relacionado con la educación de éstos, a fin de que aquéllas se aboquen a su solución;
+III. Propiciar, tolerar o abstenerse de impedir, cualquier tipo de abuso, acoso, agresión, daño, intimidación, violencia, maltrato o perjuicio de que tengan conocimiento, en contra de niñas, niños y adolescentes, y
 
-IV.- Formar parte de las asociaciones de padres de familia y de los consejos de participación social;
+IV. Toda actuación que no cuente con el permiso o autorización respectiva de la autoridad correspondiente; especialmente, en los procedimientos de adopción de acuerdo a lo prescrito por la presente Ley y la Ley General.
 
-V.- Colaborar con las autoridades escolares para la superación de los educandos, así como coadyuvar en el mejoramiento de los planteles escolares;
+###### Artículo 89.
 
-VI.- Notificar por escrito a las autoridades escolares y educativas, las irregularidades que observen en la prestación del servicio educativo, y
+Para la determinación de la sanción, las autoridades competentes deberán considerar:
 
-VII.- Opinar en relación con las contraprestaciones que las escuelas particulares fijen.
+I. La gravedad de la infracción;
 
-###### ARTICULO 89.
+II. El carácter intencional o no de la acción u omisión constitutiva de la infracción;
 
-Son obligaciones de quienes ejercen la patria potestad o tutela:
+III. Los daños que se hubieren producido o puedan producirse;
 
-I.- Hacer que sus hijos o pupilos, menores de edad, reciban la educación primaria y la secundaria;
+IV. La condición económica del infractor, y
 
-II.- Apoyar el proceso educativo de sus hijos o pupilos;
+V. La reincidencia del infractor.
 
-III.- Colaborar con las instituciones educativas en las que estén inscritos sus hijos o pupilos, en las actividades cívicas y sociales que las mismas realicen, y
+###### Artículo 90.
 
-IV.- Coadyuvar en la medida de sus posibilidades con las autoridades educativas en la construcción, mantenimiento y mejoramiento de los planteles educativos.
+Las sanciones previstas en esta Ley se aplicarán por las siguientes autoridades:
 
-###### ARTICULO 90.
+I. La dependencia o entidad de la Administración Pública del Estado de Durango que resulte competente, en los casos de las infracciones cometidas de acuerdo al artículo 88 de esta Ley;
 
-En cada establecimiento educativo habrá por lo menos una asociación integrada por padres de familia, tutores o por quienes ejerzan la patria potestad de los educandos por cada tipo de instrucción.
+II. Tratándose de servidores públicos, así como empleados o trabajadores de establecimientos sujetos al control, administración o coordinación del Poder Judicial del Estado de Durango; el H. Congreso del Estado de Durango; órganos constitucionales autónomos, las sanciones serán impuestas por los órganos que establezcan sus respectivos ordenamientos legales; y
 
-###### ARTICULO 91.
+III. El Sistema DIF Estatal, en los casos que resulte competente.
 
-Las asociaciones de padres de familia tendrán por objeto:
+###### Artículo 91.
 
-I.- Representar los intereses que en materia educativa sean comunes a los asociados;
+Contra las sanciones que las autoridades estatales impongan en cumplimiento de esta Ley, se podrá interponer el recurso de revisión de acuerdo a las disposiciones aplicables en la materia.
 
-II.- Colaborar en el mejoramiento de la comunidad escolar y proponer a las autoridades escolares y educativas las medidas que estimen conducentes, y coadyuvar en el mejoramiento de los planteles educativos;
+###### Artículo 92.
 
-III.- Participar en la aplicación de cooperaciones en numerario, bienes y servicios que las propias asociaciones deseen hacer al establecimiento escolar;
+Será cada institución pública del Estado, la que de acuerdo al ámbito de su competencia y las obligaciones emanadas de la presente Ley determine la gravedad del hecho investigado, la responsabilidad del funcionario público y en su caso, la sanción a imponer; de acuerdo al procedimiento administrativo establecido por la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios.
 
-IV.- Propiciar el mejoramiento social y cultural de sus miembros;
+Lo anterior sin perjuicio de las responsabilidades y sanciones conexas que puedan resultar aplicables de acuerdo a la legislación estatal.
 
-V.- Proponer las medidas que estimen conducentes para alcanzar los objetivos señalados en las fracciones anteriores, y
-
-VI.- La organización y el funcionamiento de las asociaciones de padres de familia en lo concerniente a sus relaciones con las autoridades escolares municipales y estatales se sujetarán a las disposiciones que la autoridad educativa federal señale.
-
-###### ARTICULO 92.
-
-Son atribuciones de las asociaciones de padres de familia:
-
-I.- Proponer y promover, en coordinación con las autoridades escolares y educativas, las acciones necesarias para el mejoramiento de los establecimientos y de su funcionamiento;
-
-II.- Reunir fondos con aportaciones voluntarias y/o actividades de sus miembros para los fines de la educación, los cuales serán considerados como de las propias asociaciones, hasta en tanto no sean entregados oficialmente a la autoridad educativa, mediante bienes o servicios;
-
-III.- Fomentar y mantener las relaciones de colaboración y respeto mutuo entre los trabajadores de la educación, los alumnos y los padres de familia, para un aprovechamiento óptimo de los educandos y del cumplimiento de los planes y programas educativos;
-
-IV.- Colaborar con las autoridades educativas en las actividades y campañas de beneficio social, cultural, sanitario y ecológico que se efectúen en sus comunidades; y
-
-V.- Informar por escrito a las autoridades educativas y escolares sobre cualquier irregularidad de que sean objeto los educandos.
-
-###### ARTICULO 93.
-
-Las asociaciones de Padres de Familia se abstendrán de intervenir en los aspectos administrativos, técnico-pedagógicos y laborales de los establecimientos educativos.
+T R A N S I T O R I O S
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1920,5 +2588,37 @@ P.O. 26 DE OCTUBRE DE 2025.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 203 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO, TODAS EN MATERIA DE REGISTRO NACIONAL DE OBLIGACIONES ALIMENTARIAS”.]
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 236 QUE CONTIENE REFORMAS A LOS ARTÍCULOS 54 Y 71, DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 238 QUE CONTIENE REFORMA AL ARTÍCULO 60 BIS 4 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO, EN MATERIA DE ALIMENTACIÓN INFANTIL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 384 QUE CONTIENE ADICIÓN DE UN SEGUNDO PÁRRAFO AL ARTÍCULO 31 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO, EN MATERIA DE EMBARAZO INFANTIL Y ADOLESCENTE".]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 26 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 385 QUE CONTIENE ADICIÓN DE UN ARTÍCULO A LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE DURANGO, EN MATERIA DE DERECHOS A LA SALUD Y LA INTEGRIDAD DE NIÑAS, NIÑOS Y ADOLESCENTES”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
