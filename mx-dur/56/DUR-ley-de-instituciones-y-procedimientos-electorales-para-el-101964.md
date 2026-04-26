@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-instituciones-y-procedimientos-electorales-para-el-10196
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2025-12-04"
+last_updated: "2026-04-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "DUR"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 3 de julio de 2014.
 
@@ -1823,6 +1823,8 @@ ARTÍCULO 105
 
 ARTÍCULO 106
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 26 DE ABRIL DE 2026)</small>
+
 1. Para ser Presidente, Secretario o Consejero Electoral de los Consejos Municipales, se requiere:
 
 I. Ser ciudadano en pleno ejercicio de sus derechos políticos;
@@ -1839,9 +1841,17 @@ VI. No ser ni haber sido dirigente nacional, estatal o municipal de algún parti
 
 VII. No ocupar ni haber ocupado cargo de elección popular; ni haber sido registrado como candidato a cargo alguno de elección popular en los últimos tres años anteriores a la designación;
 
-VIII. Ser de reconocida probidad y poseer los estudios y conocimientos suficientes para desempeñar adecuadamente sus funciones; y
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2026)</small>
 
-IX. No haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial.
+VIII. Ser de reconocida probidad y poseer los estudios y conocimientos suficientes para desempeñar adecuadamente sus funciones;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2026)</small>
+
+IX. No haber sido condenado por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ABRIL DE 2026)</small>
+
+X. No ser deudor alimentario moroso.
 
 2. Los Consejeros Electorales serán designados para ocupar el cargo por dos procesos electorales, y no podrán ser reelectos.
 
@@ -2593,6 +2603,8 @@ ARTÍCULO 146
 
 ARTÍCULO 147
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 26 DE ABRIL DE 2026)</small>
+
 1. Para ser designado Secretario Instructor o de Estudio y Cuenta en la Sala del Tribunal, se requiere:
 
 I. Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles y contar con credencial para votar con fotografía;
@@ -2603,11 +2615,21 @@ III. Gozar de buena reputación y no haber sido condenado por delito intencional
 
 IV. Contar con título de licenciado en derecho expedido legalmente y práctica profesional de cuando menos cinco años, contados a partir de la recepción de dicho título;
 
-V. Someterse a la evaluación que para acreditar los requisitos de conocimientos básicos determine la Comisión de Administración; y
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2026)</small>
 
-VI. No desempeñar ni haber desempeñado cargo alguno de dirigencia nacional, estatal, distrital o municipal en algún partido político, en los últimos seis años.
+V. Someterse a la evaluación que para acreditar los requisitos de conocimientos básicos determine la Comisión de Administración;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2026)</small>
+
+VI. No desempeñar ni haber desempeñado cargo alguno de dirigencia nacional, estatal, distrital o municipal en algún partido político, en los últimos seis años; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ABRIL DE 2026)</small>
+
+VII. No ser deudor alimentario moroso.
 
 ARTÍCULO 148
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 26 DE ABRIL DE 2026)</small>
 
 1. Para ser designado Secretario Auxiliar, Actuario, y Oficial de Partes en la Sala del Tribunal Electoral, se requiere:
 
@@ -2617,9 +2639,17 @@ II. Gozar de buena reputación y no haber sido condenado por delito intencional 
 
 III. Contar con título de licenciado en derecho expedido legalmente;
 
-IV. Someterse a la evaluación que para acreditar los requisitos de conocimientos básicos, determine la Comisión de Administración; y
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2026)</small>
 
-V. No desempeñar ni haber desempeñado cargo alguno de dirigencia nacional, estatal, distrital o municipal en algún partido político, en los últimos seis años.
+IV. Someterse a la evaluación que para acreditar los requisitos de conocimientos básicos, determine la Comisión de Administración;
+
+> <small>(REFORMADA, P.O. 26 DE ABRIL DE 2026)</small>
+
+V. No desempeñar ni haber desempeñado cargo alguno de dirigencia nacional, estatal, distrital o municipal en algún partido político, en los últimos seis años; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE ABRIL DE 2026)</small>
+
+VI. No ser deudor alimentario moroso.
 
 ARTÍCULO 149
 
@@ -3404,6 +3434,10 @@ III. Certificado de nacionalidad mexicana, expedido por la Secretaría de Relaci
 5. La solicitud de cada partido político para el registro de las listas completas de candidaturas a diputados por el principio de representación proporcional, deberá acompañarse, además de los documentos referidos en los párrafos anteriores, copia certificada de la solicitud de registro de por lo menos once candidaturas para diputados por el principio de mayoría relativa.
 
 6. Para el registro de candidatos por coalición, deberá acreditarse que se cumplió con lo dispuesto en la Ley General de Partidos y esta Ley, de acuerdo con la elección de que se trate.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE ABRIL DE 2026)</small>
+
+7. En todos los casos descritos en el presente artículo se deberá anexar constancia expedida por el Tribunal Superior de Justicia del Estado de Durango y/o por el Registro Nacional de Obligaciones Alimentarias, que confirme que los candidatos no son deudores alimentarios morosos.
 
 ARTÍCULO 188
 
@@ -6584,5 +6618,13 @@ P.O. 4 DE DICIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 281 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE DURANGO, EN MATERIA DE ARMONIZACIÓN LEGAL”.]
 
 PRIMERO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 26 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 382 QUE CONTIENE REFORMAS A LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE DURANGO, EN MATERIA DE OBLIGACIONES ALIMENTARIAS”.]
+
+PRIMERO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
