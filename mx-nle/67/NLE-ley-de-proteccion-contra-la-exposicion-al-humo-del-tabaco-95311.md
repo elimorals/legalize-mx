@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-contra-la-exposicion-al-humo-del-tabaco-95311
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-14"
-last_updated: "2020-12-30"
+last_updated: "2026-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95311&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,566 +21,2284 @@ state: "NLE"
 ---
 # LEY DE PROTECCION CONTRA LA EXPOSICION AL HUMO DEL TABACO DEL ESTADO DE NUEVO LEON
 
-LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DEL TABACO DEL ESTADO DE NUEVO LEÓN
+LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2025.
 
-Decreto publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 14 de junio de 2013.
+Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
-RODRIGO MEDINA DE LA CRUZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN, A TODOS SUS HABITANTES HAGO SABER: Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
+LUIS ARMANDO REYNOSO FEMAT, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, a sus habitantes sabed:
 
-D E C R E T O
+Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
 
-Núm. 077
+La LIX Legislatura del Poder Legislativo del Estado Libre y Soberano de Aguascalientes, en virtud de su función y facultad constitucional, ha tenido a bien expedir el siguiente
 
-Artículo Único.- Se expide la Ley de Protección contra la Exposición al Humo del Tabaco del Estado de Nuevo León, para quedar como sigue:
+Decreto Número 366
 
-LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DEL TABACO DEL ESTADO DE NUEVO LEÓN
+###### ARTÍCULO ÚNICO.
 
-### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
+Se aprueba la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes, para quedar bajo los siguientes términos:
 
-###### Artículo 1o.
+LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-La presente Ley es de orden público e interés general, y de observancia obligatoria en el Estado de Nuevo León.
+### CAPÍTULO I. Disposiciones Generales
 
-###### Artículo 2o.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2025)</small>
 
-La presente Ley tiene por objeto:
+###### Artículo 1º.
 
-I. Proteger la salud de las personas fumadoras y no fumadoras de los daños que causa inhalar el humo del tabaco en los sitios señalados en esta Ley, incluyendo al personal ocupacionalmente expuesto;
+La presente Ley es de orden público, interés social y de observancia general en todo el Estado de Aguascalientes y tiene por objeto establecer la coordinación entre el gobierno del Estado y los municipios para prevenir, atender, sancionar y erradicar las violencias contra las mujeres, adolescentes y niñas, así como los principios y mecanismos para el pleno acceso a una vida libre de violencias, así como para garantizar el goce y ejercicio de sus derechos humanos y fortalecer el régimen democrático establecido en la Constitución Política de los Estados Unidos Mexicanos.
 
-II. Prevenir, concienciar y difundir los daños en la salud que ocasiona el uso desmedido del tabaco, a través de las campañas que al efecto la Secretaría realice en la población, principalmente entre los niños, adolescentes jóvenes y mujeres embarazadas;
+###### Artículo 2°.
 
-III. Establecer programas y tratamientos permanentes de apoyo a los fumadores que lo soliciten, a fin de evitar fumar;
+Los objetivos específicos de esta Ley son:
 
-IV. Promover la cultura de espacios 100% libres del humo del tabaco, con el objeto de proteger auténticamente a los no fumadores y fumadores, y persuadir a estos últimos a dejar de fumar;
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
 
-V. Determinar atribuciones de las autoridades estatales y municipales para vigilar el cumplimiento de normas, leyes y reglamentos relacionados con el consumo del tabaco, y
+I. Transformar las condiciones políticas, sociales, económicas y culturales que justifican, alientan y reproducen la violencia de género contra las niñas, adolescentes y mujeres para generar mecanismos institucionales de aplicación de políticas de gobierno integrales que garanticen el respeto y el ejercicio de sus derechos humanos, de conformidad con la legislación nacional, así como de los instrumentos internacionales en la materia aprobados por México, y para impulsar y consolidar la atención integral y la generación de oportunidades de manera igualitaria para todas las mujeres;
 
-VI. Establecer las sanciones para los que incumplan lo previsto en esta Ley.
+II. Garantizar la protección institucional especializada, de las mujeres víctimas de violencia de género, de sus hijas e hijos y de las instituciones, profesionales, denunciantes, testigos y demás personas intervinientes;
 
-###### Artículo 3o.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
 
-Para los efectos de la presente Ley, se entiende por:
+III. Asegurar el acceso pronto, expedito, transparente y eficaz de la justicia para las mujeres víctimas u ofendidas de violencia de género tanto desde los ámbitos de la procuración, como de la impartición de justicia;
 
-I. ÁREA FÍSICA CERRADA CON ACCESO AL PÚBLICO.- Todo espacio cubierto por un techo o que tenga como mínimo dos paredes o muros, independientemente del material utilizado para su construcción y de que la estructura sea permanente o temporal.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
 
-II. DENUNCIA CIUDADANA.- Toda notificación hecha a la autoridad competente por cualquier persona respecto de los hechos de incumplimiento de las disposiciones contenidas en esta Ley, sus reglamentos y demás disposiciones aplicables.
+IV. Establecer, promover, difundir, estandarizar y ejecutar la política integral de gobierno, estatal y municipal, para la prevención de la violencia contra las mujeres y las niñas, así como las acciones para la atención de las víctimas u ofendidas de cualquier tipo o modalidad de violencia de género, así como de la sanción y la reeducación de las personas agresoras;
 
-III. ESCUELAS.- Los recintos de enseñanza especial, inicial, preescolar, primaria, secundaria, media superior, superior, para adultos y de formación para el trabajo del sector público y privado.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
 
-IV. ESPACIO AL AIRE LIBRE PARA FUMAR.- Es aquel que no tiene techo ni está limitado entre más de una pared o muro, independientemente del material utilizado para su construcción y de que la estructura sea permanente o temporal.
+V. Favorecer la recuperación y la construcción del pleno goce de los Derechos Humanos para las mujeres y las niñas víctimas de violencia de género u ofendidas, que les permita generar un nuevo proyecto de vida;
 
-V. ESPACIO 100% LIBRE DE HUMO DE TABACO.- Aquella área física cerrada con acceso al público o todo lugar de trabajo interior o de transporte público, en los que por razones de orden público e interés social queda prohibido fumar, consumir o tener encendido cualquier producto de tabaco. Así como todo aquel espacio de los denominados sitios de concurrencia colectiva.
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
 
-VI. ESTABLECIMIENTO.- Los locales y sus instalaciones, dependencias estén cubiertas o descubiertas, sean fijos o móviles, en los que se desarrolle el proceso de productos, las actividades y servicios,
+VI. Asegurar la concurrencia, integralidad y optimización de recursos e instrumentos que garanticen la vigencia de los Derechos Humanos de las niñas y las mujeres;
 
-VII. FUMAR.- Al acto de inhalar y exhalar humo de un producto de tabaco e incluye el hecho de estar en posesión o control de un producto de tabaco en combustión que genere emisiones.
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
 
-VIII. LEY.- Ley de Protección contra la Exposición al Humo del Tabaco del Estado de Nuevo León.
+VII. Garantizar el estudio de la efectividad de la intervención y la reproducibilidad del fenómeno;
 
-IX. LUGAR DE TRABAJO INTERIOR.- Toda zona fija o móvil, que cuente por lo menos con un techo y dos paredes, utilizado por las personas durante su empleo o trabajo permanente o eventual, remunerado o voluntario. Incluye no solo el sitio donde se realiza el trabajo, sino también todos los lugares conexos y anexos que los trabajadores suelen utilizar en el desempeño de sus funciones, incluyendo aquellos contratados para la realización de eventos.
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2019)</small>
 
-X. NO FUMADOR O FUMADOR PASIVO.- Es aquella persona que inhala el humo exhalado por el fumador o generado por la combustión del tabaco de quienes si fuman.
+VIII. Promover el desempeño de las instituciones públicas y privadas para que asuman el compromiso de prevenir y atender la violencia de género contra las mujeres;
 
-XI. PERSONAL OCUPACIONALMENTE EXPUESTO.- Aquel que en el ejercicio y con motivo de su ocupación está expuesto al humo de tabaco.
+> <small>(REFORMADA, P.O. 18 DE MARZO DE 2019)</small>
 
-XII. PROPIETARIO.- La persona física o moral a nombre de quien se encuentre la licencia de operación o concesión o quien asuma esa responsabilidad con motivo de la operación o explotación del establecimiento o del vehículo de transporte público o escolar, o la persona física o moral a nombre de quien se encuentre la tarjeta de circulación del vehículo de transporte público o escolar.
+IX. Garantizar que la educación en todos los niveles se realice en el marco de la igualdad entre mujeres y hombres evitando toda forma de discriminación y violencia;
 
-XIII. REINCIDENCIA.- Cuando el infractor cometa violaciones a las disposiciones de esta Ley, en dos ocasiones, dentro del período de un año, contado a partir de la fecha en que se le hubiere notificado la sanción inmediata anterior.
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2024)</small>
 
-XIV. SANCIÓN.- La pena establecida a quien viola las disposiciones de la presente Ley.
+X. Impulsar la planeación, diseño, implementación, ejecución, seguimiento y evaluación de políticas públicas transversales e integrales para prevenir, atender y sancionar la violencia en contra de las mujeres, fomentando las medidas administrativas y presupuestales necesarias para garantizar el cumplimiento de la Ley;
 
-XV. SECRETARÍA.- La Secretaría de Salud del Estado de Nuevo León.
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2024)</small>
 
-XVI. SITIOS DE CONCURRENCIA COLECTIVA.- Al que independientemente si es abierto o cerrado, interior o exterior, concentre o reúna a personas, para llevar a cabo acciones de esparcimiento, de libre asociación, prácticas o espectáculos, deportivos y similares, tales como patios escolares, balnearios, parques de diversiones y acuáticos, lagunas y reservas ecológicas, centros de espectáculos, canchas, estadios, plazas, entre otros.
+XI. Garantizar la comunicación y difusión de los derechos de las mujeres y el acceso a una vida libre de violencia, contenidos en los instrumentos internacionales y en la presente ley; y
 
-XVII. VEHÍCULO DE TRANSPORTE PÚBLICO.- Todo aquel vehículo que proporcione el servicio de transporte público de pasajeros, transporte de escolares o transporte de personal que circule en el Estado.
+> <small>(ADICIONADA, P.O. 13 DE AGOSTO DE 2024)</small>
 
-### CAPÍTULO II. DE LA DISTRIBUCIÓN DE COMPETENCIAS Y ATRIBUCIONES DE LA AUTORIDAD
+XII. Impulsar un cambio cultural a partir de la adopción de medidas progresivas, específicas para modificar patrones culturales y fomentar la educación y capacitación en perspectiva de género y la administración de justicia.
 
-###### Artículo 4o.
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2021)</small>
 
-La aplicación y vigilancia del cumplimiento de esta Ley corresponde al Poder Ejecutivo a través de la Secretaría, mediante las unidades administrativas correspondientes, así como a los Ayuntamientos en el ámbito de su respectiva competencia.
+Artículo 2° bis.- Los principios rectores para el acceso de todas las mujeres a una vida libre de violencia que deberán ser observados en la elaboración y ejecución de las políticas públicas estatales y municipales son:
 
-###### Artículo 5o.
+I. La igualdad sustantiva entre la mujer y el hombre;
 
-Corresponde a la Secretaría:
+II. El respeto a la dignidad humana de las mujeres;
 
-I. Coordinarse con las autoridades sanitarias federales y municipales para la ejecución en el Estado del programa contra el tabaquismo;
+III. La no discriminación;
 
-II. Formular y conducir la política estatal para la prevención y el tratamiento de padecimientos originados por el tabaquismo;
+IV. La libertad de las mujeres;
 
-III. Gestionar, y establecer convenios con las autoridades e instancias educativas correspondientes, en coordinación con la Secretaría de Educación, para promover la educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños y adolescentes, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar en los espacios 100% libres de humo de tabaco;
+V. La promoción del desarrollo integral de las mujeres;
 
-IV. Prevenir, concienciar y difundir los daños en la salud que ocasiona el uso del tabaco, a través de las campañas que al efecto la Secretaría realice en la población, principalmente entre los niños, adolescentes, jóvenes, mujeres embarazadas, padres de familia en el Estado;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2023)</small>
 
-V. Establecer programas de apoyo permanentes y los convenios con instituciones especializadas para ofrecer tratamiento y rehabilitación a los fumadores que lo soliciten;
+VI. La plena participación de las mujeres en todas las esferas de la vida;
 
-VI. Determinar y ejercer medios de control en el expendio de tabaco en cualquiera de sus formas;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2023)</small>
 
-VII. Suscribir convenios con los Ayuntamientos para la aplicación de la presente Ley;
+VII. Perspectiva de género en las decisiones que emitan las autoridades competentes;
 
-VIII. Vigilar el cumplimiento de esta Ley;
+> <small>(REFORMADA, P.O. 12 DE JUNIO DE 2023)</small>
 
-IX. Imponer las sanciones correspondientes en caso de que se comprueben infracciones a esta Ley;
+VIII. Transversalidad y progresividad en la implementación de acciones gubernamentales;
 
-X. Promover espacios 100% libres de humo de tabaco y programas de educación para un medio ambiente libre de humo de tabaco, y
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2023)</small>
 
-XI. Ejercer las demás atribuciones que determine la presente Ley y demás disposiciones aplicables.
+IX. La universalidad, la interdependencia, e indivisibilidad de los derechos humanos;
 
-###### Artículo 6o.
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2023)</small>
 
-Corresponde a los Municipios en el ámbito de su competencia:
+X. La debida diligencia;
 
-I. Coordinarse con las autoridades sanitarias del Estado para la ejecución en el Municipio del programa contra el tabaquismo;
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2023)</small>
 
-II. Formular y conducir la política municipal para la prevención y el tratamiento de padecimientos originados por el tabaquismo;
+XI. La interseccionalidad;
 
-III. Gestionar y promover la educación sobre los efectos del tabaquismo en la salud dirigida especialmente a la familia, niños y adolescentes, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación a la población para que se abstenga de fumar en lugares públicos;
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2023)</small>
 
-IV. Vigilar el cumplimiento de la prohibición de fumar, en edificios, oficinas y cualquier otra instalación al servicio del gobierno municipal;
+XII. La interculturalidad; y
 
-V. Suscribir convenios con el Estado para la aplicación de la presente Ley, y
+> <small>(ADICIONADA, P.O. 12 DE JUNIO DE 2023)</small>
 
-VI. Las demás atribuciones que determinen la presente Ley y sus disposiciones reglamentarias.
+XIII. El enfoque diferencial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+###### Artículo 3°.
+
+La violencia contra las mujeres, de manera enunciativa, no limitativa, comprende las siguientes formas:
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+I. La violencia familiar;
+
+> <small>(REFORMADA, P.O. 16 DE MARZO DE 2015)</small>
+
+II. La originada con motivo de embarazo y su interrupción obligados, así como la solicitud de certificados de no gravidez para ocupar un puesto laboral;
+
+III. La selección prenatal del sexo;
+
+IV. La selección nutricional en el núcleo familiar en perjuicio de las niñas;
+
+V. La asignación de actividades de servicio doméstico en beneficio de los miembros masculinos del núcleo familiar;
+
+VI. La prohibición para iniciar o continuar con actividades escolares, laborales o sociales;
+
+VII. La imposición vocacional en el ámbito escolar;
+
+VIII. Favorecer el estado de riesgo que induzca al suicidio;
+
+IX. La heterosexualidad obligatoria;
+
+X. La inseminación artificial no consentida;
+
+XI. Los tocamientos libidinosos;
+
+XII. La trata de mujeres;
+
+XIII. La esterilización provocada;
+
+XIV. La insensibilidad al dolor o a las enfermedades femeninas por parte de los sistemas médicos;
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+XV. La negligencia en la procuración e impartición de la justicia en delitos contra la libertad y el normal desarrollo psicosexual, violencia familiar y delitos violentos o de odio contra las mujeres, entre otros;
+
+XVI. La inclusión de las mujeres en programas dirigidos a sectores vulnerables;
+
+XVII. La imagen estereotipada de la mujer que presentan los medios de comunicación;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+XVIII. La invisibilización de la participación de las mujeres en la construcción de nuestra sociedad;
+
+> <small>(REFORMADA, P.O. 28 DE NOVIEMBRE DE 2019)</small>
+
+XIX. La difusión o publicación a través de cualquier medio tecnológico, de imágenes o grabaciones con contenido erótico o sexual, o que sin tener expresamente este contenido, se use o manipule con estos fines, sin autorización de quien sufre la afectación;
+
+> <small>(REFORMADA, P.O. 23 DE ENERO DE 2023)</small>
+
+XX. La Captura, Producción, Manipulación o Alteración de Imágenes o grabaciones, con la finalidad de llevar a cabo las acciones señaladas en la fracción anterior, o de acosar, hostigar, intimidar o amenazar a mujeres por cualquier medio;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+XXI. Violencia vicaria;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+XXII. La violencia mediática;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+XXIII. La violencia simbólica; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+XXIV. Todas aquellas que de alguna forma denigren la dignidad de la mujer.
+
+###### Artículo 4°.
+
+Para los efectos de esta Ley, se entiende por:
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2021)</small>
+
+I. Ley: La Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes;
+
+II. Sistema: El Sistema Estatal para la Erradicación de la Violencia de Género contra las Mujeres;
+
+III. Consejo: El Consejo Estatal para la Erradicación de la Violencia de Género contra las Mujeres;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2016)</small>
+
+IV. Programa: El Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia de Género contra las Mujeres;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2021)</small>
+
+V. Perspectiva de Género. Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2021)</small>
+
+VI. Ley General: La Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2021)</small>
+
+VII. Persona agresora: Aquella que inflige cualquier tipo de violencia contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2021)</small>
+
+VIII. Derechos Humanos de las Mujeres: Derechos que son parte inalienable, integrante e indivisible de los derechos humanos universales contenidos en la Convención sobre la Eliminación de Todos (sic) las Formas de Discriminación contra la Mujer, la Convención sobre los Derechos de la Niñez, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer y demás instrumentos internacionales en la materia;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
+
+IX. Empoderamiento de la Mujer: Es un proceso por medio del cual las mujeres transitan de cualquier situación de opresión, desigualdad, discriminación, explotación o exclusión a un estado de conciencia, libertad, autodeterminación, autonomía y responsabilidad, el cual se manifiesta en el ejercicio del poder democrático que emana del goce pleno de sus derechos y libertades;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 7 DE MAYO DE 2025)</small>
+
+X. Misoginia: Son conductas de odio hacia la mujer y se manifiesta en actos violentos y crueles contra ella por el hecho de ser mujer;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 7 DE MAYO DE 2025)</small>
+
+XI. Víctima: La mujer de cualquier edad a quien se le inflige cualquier tipo de violencia;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2025)</small>
+
+XII. Víctima indirecta: Familiares o aquellas personas físicas dependientes de la víctima directa que tengan una relación inmediata con ella;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2025)</small>
+
+XIII. Daño: Cualquier menoscabo que sufre una persona como consecuencia de la acción u omisión de otra, por si o a través de interpósita persona y que afecte a sus bienes, sus derechos, intereses o su integridad física, emocional o psicológica: y
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2025)</small>
+
+XIV. Medidas u Órdenes de Protección: A las medidas y órdenes de protección a que se refiere la presente ley y el Código Nacional de Procedimientos Penales.
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2025)</small>
+
+XV. La universalidad, la interdependencia, e indivisibilidad de los derechos humanos: Todas las personas son titulares de todos los derechos humanos, ligados unos con otros de tal forma que se deben reconocer, proteger y garantizar de forma integral por todas las autoridades;
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2025)</small>
+
+XVI. La debida diligencia: la obligación por parte de las personas servidoras públicas de prevenir, atender, investigar y sancionar la violencia contra las mujeres de manera oficiosa, oportuna, competente, independiente, imparcial, exhaustiva y garantizando la participación individual y colectiva de las mujeres, para garantizar el derecho a una vida libre de violencia, a la verdad, la justicia y la reparación integral y transformadora;
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2025)</small>
+
+XVII. La interseccionalidad: herramienta analítica para estudiar, entender y responder a las maneras en que el género se cruza con otras categorías creando múltiples ejes de diferencias que se intersecan en contextos históricos específicos, mismos que contribuyen a experiencias específicas de opresión o privilegio e influyen sobre el acceso de las mujeres y las niñas a derechos y oportunidades;
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2025)</small>
+
+XVIII. La interculturalidad: el enfoque intercultural parte del reconocimiento y respeto de las diferencias culturales existentes, bajo la concepción de que las culturas pueden ser diferentes entre sí pero igualmente validas, no existiendo culturas superiores ni inferiores. Está orientado a abordar las particularidades de las mujeres de los pueblos indígenas, afrodescendientes y otros grupos étnicos diferenciados y su relación con la sociedad dominante, más allá de la coexistencia de culturas; y
+
+> <small>(ADICIONADA, P.O. 7 DE MAYO DE 2025)</small>
+
+XIX. El enfoque diferencial de género: tiene como objetivo visibilizar las diferentes situaciones de vulnerabilidad de las mujeres, las adolescentes y las niñas, ya sea por género, edad, etnia o discapacidad, así como las vulneraciones especificas a sus derechos humanos en tanto pertenecientes a sus grupos sociales o culturales específicos. Lo anterior con el objetivo de diseñar y ejecutar medidas afirmativas para la garantía del goce efectivo de los derechos de las mujeres, las adolescentes y las niñas.
+
+###### Artículo 5°.
+
+La aplicación de esta Ley, corresponde:
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2025)</small>
+
+I. A la persona titular del Gobierno del Estado;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2025)</small>
+
+II. A la persona titular de la Secretaría General de Gobierno; y
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2025)</small>
+
+III. A las personas titulares de las Presidencias Municipales.
+
+###### Artículo 6°.
+
+Todas las medidas que se deriven de la presente Ley, garantizarán la prevención, la atención, la sanción y la erradicación de todos los tipos de violencia contra las mujeres durante su ciclo de vida y para promover su desarrollo integral y su plena participación en todas las esferas de la vida.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2025)</small>
+
+###### Artículo 7°.
+
+El Poder Ejecutivo, Legislativo y Judicial, entidades municipales, desconcentradas y paraestatales, organismos constitucionales autónomos y en general todas las entidades públicas, en el ámbito de sus respectivas competencias, expedirán las normas legales y tomarán las medidas presupuestales y administrativas correspondientes, para garantizar el derecho de las mujeres a una vida libre de violencia, de conformidad con los Tratados Internacionales en materia de Derechos Humanos de las Mujeres, ratificados por el Estado mexicano.
+
+### CAPÍTULO II. De los Tipos de Violencia de Género Contra las Mujeres y de los Ámbitos en que se Presenta
+
+###### Artículo 8°.
+
+Los tipos de violencia de género contra las mujeres son:
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
+
+I. La violencia psicológica: Es cualquier acto u omisión que dañe la estabilidad psicológica, que puede consistir en: negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, devaluación, marginación, indiferencia, infidelidad, comparaciones destructivas, rechazo, chantaje, restricción a la autodeterminación o amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
+
+> <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2025)</small>
+
+II. La violencia física: Es cualquier acto que inflige daño no accidental, usando la fuerza física o algún tipo de arma, objeto, ácido o sustancia corrosiva, cáustica, irritante, tóxica o inflamable o cualquier otra sustancia que, en determinadas condiciones, pueda provocar o no lesiones ya sean internas, externas o ambas;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
+
+III. La violencia sexual: Es cualquier acto que degrada o daña el cuerpo y/o la sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder que implica la supremacía de la persona agresora sobre la mujer, al denigrarla y concebirla como objeto;
+
+IV. La violencia patrimonial: Es cualquier acto u omisión que afecta la supervivencia de la mujer. Se manifiesta en la transformación, sustracción, destrucción, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos destinados a satisfacer sus necesidades y puede abarcar los daños a bienes comunes o propios de la víctima;
+
+> <small>(REFORMADA, P.O. 30 DE MAYO DE 2022)</small>
+
+V. La violencia económica y laboral: La económica es toda acción u omisión de la persona agresora que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso económico, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral; la laboral es aquella ejercida en tal ámbito en términos del Artículo 12 de la presente Ley, así como cualquier limitación para que una mujer pueda ocupar un cargo o puesto laboral por encontrarse en estado de gravidez;
+
+> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2016)</small>
+
+VI. La violencia obstétrica: Es todo acto u omisión del personal de salud, tanto médico, auxiliar y/o administrativo, que, en ejercicio de su profesión u oficio, dañe, lastime o denigre a la mujer en su salud física y psicoemocional, durante el periodo de embarazo, parto, puerperio y procesos reproductivos;
+
+Se considerará de manera enunciativa que existe violencia obstétrica, en los siguientes casos:
+
+a) En los que exista negligencia;
+
+b) En los que la atención médica exprese un trato deshumanizado, discriminatorio o de humillación;
+
+c) En los que la atención médica niegue a la mujer el recibir la información oportuna y/o conlleve a la pérdida de su autonomía y capacidad de decidir libremente sobre el tratamiento médico que recibe;
+
+d) En los que se dé la imposición de métodos anticonceptivos sin mediar consentimiento de la mujer, la práctica del parto por vía cesárea, existiendo la posibilidad para efectuar el parto natural y sin haber obtenido la renuncia voluntaria, expresa e informada de la mujer a esta posibilidad.
+
+e) La negativa, retraso o la omisión injustificada de brindar atención médica oportuna y eficaz a las mujeres en el embarazo, parto, puerperio, y procesos reproductivos.
+
+f) Alterar sin justificación o sin consentimiento de la mujer o de quien legalmente esté facultado para otorgarlo, el proceso natural del parto de bajo riesgo, mediante su patologización, abuso de medicación, o el uso de técnicas que aceleren el nacimiento;
+
+g) Obligar a la mujer a parir en una posición en específico, cuando existan los medios técnicos para que lo realice en la posición que ella elija;
+
+h) Obstaculizar sin causa médica justificada el apego precoz del recién nacido con su madre, negándole la posibilidad de cargarlo y amamantarlo inmediatamente después de nacer;
+
+> <small>(REFORMADO, P.O. 10 DE JULIO DE 2017)</small>
+
+i) Retener a la mujer o al producto de la concepción en los centros de salud o instituciones análogas por su incapacidad de pago;
+
+> <small>(REFORMADA, P.O. 2 DE JULIO DE 2018)</small>
+
+VII. Violencia en el tránsito por espacios públicos: es todo acto de hostigamiento que se realice en contra de una persona en la vía pública, en el que haya o no contacto físico; consiste en comentarios, gestos o expresiones de connotación sexual o discriminatoria en razón del género, acecho, actos de exhibicionismo y cualquier práctica que vulnere la integridad de las personas o genere inseguridad en su transitar por los espacios públicos;
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+VIII. Violencia Política en contra de las Mujeres en razón de Género: Es toda acción u omisión, incluida la tolerancia, basada en elementos de género y ejercida dentro de la esfera pública o privada, que tenga por objeto o resultado limitar, anular o menoscabar el ejercicio efectivo de los derechos políticos y electorales de una o varias mujeres, el acceso al pleno ejercicio de las atribuciones inherentes a su cargo, labor o actividad, el libre desarrollo de la función pública, la toma de decisiones, la libertad de organización, así como el acceso y ejercicio a las prerrogativas, tratándose de precandidaturas, candidaturas, funciones o cargos públicos del mismo tipo, en los términos precisados en el Código Electoral para el Estado de Aguascalientes;
+
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+
+IX. Violencia Digital: es toda acción dolosa realizada mediante el uso de tecnologías de la información y la comunicación, por la que se exponga, distribuya, difunda, exhiba, transmita, comercialice, oferte, intercambie o comparta imágenes, audios o videos reales o simulados de contenido íntimo sexual de una persona sin su consentimiento, sin su aprobación o sin su autorización y que le cause daño psicológico, emocional, en cualquier ámbito de su vida privada o en su imagen propia;
+
+Así como aquellos actos dolosos que causen daño a la intimidad, privacidad y/o dignidad de las mujeres, que se cometan por medio de las tecnologías de la información y la comunicación;
+
+Para efectos del presente Capítulo se entenderá por Tecnologías de la Información y la Comunicación aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos;
+
+> <small>(REFORMADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+X. Violencia Vicaria: Es aquella que se realiza contra una mujer a través de un acto u omisión que genere afectación o daño físico, psicológico, emocional, patrimonial o de cualquier otra índole por medio de amenazas o violencia ejercida a un descendente, ascendente o dependiente económico de la víctima;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+XI. Violencia mediática: Es todo acto a través de cualquier medio de comunicación que, de manera directa o indirecta, promueva mensajes, valores, iconos o signos, estereotipados sexistas, transmita y reproduzca dominación, cosificación, desigualdad y discriminación, naturalizando la subordinación de la mujer en la sociedad, promueva la explotación de mujeres o sus imágenes, haga apología de la violencia contra las mujeres y las niñas, produzca o permita la producción y difusión de discurso de odio sexista, discriminación de género o desigualdad entre mujeres y hombres;
+
+La violencia mediática se puede ejercer por cualquier persona física o moral que utilice un medio de comunicación para producir y difundir contenidos que atenten contra la autoestima, salud, integridad, libertad y seguridad de las mujeres, adolescentes y niñas, que impidan su desarrollo y que atenta contra la igualdad y dignidad;
+
+Para efectos del presente artículo se entenderá por Medios de Comunicación aquellos instrumentos, canales o formas de transmisión de la información como la prensa, radio, televisión, cine, internet, redes sociales, entre otros, los cuales son utilizados para procesar, administrar y compartir la información;
+
+> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+XII. Violencia Simbólica: La que, a través de patrones estereotipados, mensajes, valores, iconos o signos, transmita y reproduzca dominación, cosificación, desigualdad y discriminación en las relaciones sociales, naturalizando la subordinación de la mujer en la sociedad; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+XIII. Cualesquiera otras formas análogas que, por acción u omisión, lesionen o sean susceptibles de lesionar la dignidad, integridad o libertad de las mujeres.
+
+###### Artículo 9°.
+
+La violencia de género contra las mujeres se presenta en los siguientes ámbitos:
+
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+
+I. En el familiar;
+
+II. En el laboral y docente;
+
+> <small>(REFORMADA, P.O. 10 DE JULIO DE 2017)</small>
+
+III. En el social;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+IV. En los medios de comunicación;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+V. En el de las instituciones y servicio público; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+VI. En espacios públicos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE MAYO DE 2025)</small>
 
 ###### Artículo 10.
 
-La investigación sobre el tabaquismo considerará:
+La violencia familiar contra las mujeres es el acto abusivo de poder u omisión intencional dirigido a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres, dentro o fuera del domicilio familiar o unidad doméstica, cuya persona agresora tenga o haya tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una relación de hecho. También se considera violencia familiar cuando la persona agresora tenga responsabilidades de cuidado o de apoyo, aunque no tenga una relación de parentesco.
 
-I. Sus causas, que comprenderá, entre otros:
+> <small>(ADICIONADO, P.O. 15 DE ENERO DE 2024)</small>
 
-a) Los factores de riesgo individual, familiar y social;
+Se equiparará a violencia familiar, la que se ejerce en el noviazgo, con las ex parejas de noviazgo, en las relaciones de padrinazgo y las relaciones que existen entre la mujer y los hijos e hijas de la pareja, aun y cuando no tengan algún parentesco, pero cohabite en el mismo domicilio de esta o se incorpore al núcleo familiar.
 
-b) Los problemas de salud, economía, ecología y sociales asociados con el consumo de tabaco y la exposición a su humo;
+> <small>(ADICIONADO, P.O. 23 DE ENERO DE 2023)</small>
 
-c) La magnitud, características, tendencias, alcances y consecuencias del problema;
+Artículo 10 BIS.- La violencia vicaria.
 
-d) Los contextos socioculturales de la adicción a la nicotina, del consumo y la exposición al humo de tabaco, y
+Tipo de violencia que comete la persona que mantenga o haya mantenido una relación de matrimonio, concubinato, afectiva o sentimental con la víctima; incluye toda aquella conducta realizada de manera consciente para generar un daño a un descendente, ascendente o dependiente económico de la víctima, ejerciéndose de forma indirecta hacia esta.
 
-e) Los efectos de los precios, la publicidad directa e indirecta, la promoción y el patrocinio de los productos de tabaco.
+> <small>(ADICIONADO, P.O. 7 DE AGOSTO DE 2023)</small>
 
-II. El estudio de las acciones para controlarlo, que comprenderá, entre otros:
-
-a) La valoración de las medidas de prevención, tratamiento, rehabilitación, y regulación sanitaria;
-
-b) La información sobre:
-
-1. La dinámica del problema del tabaquismo;
-
-2. La incidencia y la prevalencia del consumo de tabaco y de la exposición a su humo;
-
-3. Las necesidades y recursos disponibles para realizar las acciones de prevención, tratamiento y control de la adicción a la nicotina, del consumo de tabaco y de la exposición a su humo;
-
-4. La conformación y tendencias de la morbilidad, discapacidad y mortalidad atribuibles al tabaco, sus costos económicos y sociales;
-
-5. El cumplimiento de la regulación sanitaria en la materia;
-
-6. El impacto económico y ecológico del tabaquismo en su producción, fabricación, comercialización consumo y exposición;
-
-7. Las medidas más efectivas y las mejores prácticas a nivel mundial para el control del tabaco, y
-
-8. El conocimiento de los riesgos para la salud asociados al consumo de tabaco y a la exposición a su humo, así como los beneficios por dejar de fumar.
-
-La información a que se refiere el presente Artículo deberá integrarse en el sistema de información sobre adicciones, vigilancia epidemiológica y sanitaria.
+Artículo 10 TER.- Violencia en el noviazgo: Es el acto abusivo de poder u omisión intencional, dirigido a humillar, dominar, someter, controlar o agredir a las mujeres de cualquier edad, mediante la realización de uno o varios tipos de violencia, durante o después de una relación de noviazgo.
 
 ###### Artículo 11.
 
-Dentro del Programa contra el Tabaquismo, se deberán desarrollar acciones para la vigilancia y evaluación de la aplicación, observancia y repercusiones de las disposiciones que propicien entornos libres de humo de tabaco.
+La violencia de género contra las mujeres en el ámbito laboral y docente, es la que se ejerce por las personas que tienen un vínculo laboral, docente o análogo con la víctima, independientemente de la relación jerárquica. Consiste en un acto o una omisión de abuso de poder que daña la autoestima, salud, integridad, libertad y seguridad de la víctima e impide su desarrollo y atenta contra el principio de igualdad.
+
+Puede consistir en un solo evento dañino o en una serie de eventos, cuya suma produce el daño.
+
+> <small>(REFORMADO, P.O. 5 DE MARZO DE 2012)</small>
 
 ###### Artículo 12.
 
-Se prohíbe consumir o tener encendido cualquier producto del tabaco en los espacios 100% libres de humo de tabaco en términos de la presente Ley. Para tal efecto, deberán colocarse en las puertas de acceso, interiores y exteriores de dichas instalaciones los letreros, logotipos y emblemas que se establezcan en el Reglamento que se derive de la presente Ley.
+Constituye violencia de género contra las mujeres en el ámbito laboral, la negativa ilegal a contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo, la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación, el impedimento a las mujeres de llevar a cabo el período de lactancia previsto en las leyes y todo tipo de discriminación por razón de género.
+
+> <small>(REFORMADO, P.O. 9 DE JULIO DE 2018)</small>
 
 ###### Artículo 13.
 
-Queda prohibida la venta de tabaco en cualquiera de sus modalidades a menores de edad, así como la venta de cigarros por unidad, la instalación y funcionamiento de máquinas automáticas expendedoras de cigarros.
+Constituye violencia de género contra las mujeres en el ámbito académico, aquellas conductas que se lleven a cabo dentro de las instituciones educacionales y que dañen la autoestima de las alumnas o docentes con actos de discriminación por su sexo, edad, condición social, académica, limitaciones y/o características físicas, las cuales son infligidas por personal académico, administrativo o el alumnado dentro de un plantel educacional.
 
 ###### Artículo 14.
 
-Los establecimientos mercantiles que deseen contar con un espacio para fumar con servicio de alimentos y bebidas, deberán ubicarlo al aire libre de acuerdo con las características descritas en el artículo 3° fracción IV de esta Ley, además, deberán estar completamente separadas e incomunicadas de los espacios 100% libres de humo de tabaco, no ser paso forzoso de las personas y ubicarse a la distancia que establezca el Reglamento que se derive de la presente Ley, de cualquier puerta, ventana, o baño que comunique con los espacios libres de humo de tabaco. Los espacios para fumar en exteriores no podrán ubicarse sobre las aceras o cualquier otro espacio de uso público.
+La violencia de género contra las mujeres en el ámbito social, comprende los actos individuales o colectivos que transgreden sus derechos fundamentales y propician su denigración, discriminación, marginación o exclusión en el ámbito público.
 
-Los espacios al aire libre para fumar descritos en el párrafo anterior, deberán estar señalizados conforme a lo establecido en el Reglamento de la presente Ley y demás normatividad aplicable.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2023)</small>
 
 ###### Artículo 15.
 
-Las dependencias de los sectores de salud y educación, sean públicas o privadas, además de ser espacios 100% libres de humo de tabaco, no podrán contar con áreas al aire libre para fumar ni podrán comerciar, distribuir, donar, regalar, vender o suministrar productos del tabaco.
+La violencia de género contra las mujeres en el ámbito institucional, comprende los actos y omisiones de las y los servidores públicos del Estado, sus Municipios y Órganos Constitucionales Autónomos que discriminen, utilicen estereotipos de género o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las mujeres, así como su acceso al disfrute de las políticas públicas destinadas a prevenir, atender, investigar, sancionar y erradicar los diferentes tipos de violencia.
+
+En los órdenes de gobierno estatal y municipal, los Poderes Ejecutivo, Legislativo y Judicial, así como los Órganos Constitucionales Autónomos, a través de los cuales se manifiesta el ejercicio del poder público, tienen la obligación de organizar la estructura gubernamental de tal manera que sean capaces de asegurar, en el ejercicio de sus funciones, el derecho de las mujeres a una vida libre de violencia.
 
 ###### Artículo 16.
 
-En los lugares dedicados al hospedaje de personas queda prohibido fumar.
+El Estado debe garantizar a las mujeres la erradicación de la violencia social e institución a través de:
 
-### CAPÍTULO III. PROGRAMA CONTRA EL TABAQUISMO
+I. La reeducación libre de estereotipos y la información de alerta sobre el estado de riesgo que enfrentan las mujeres en una sociedad desigual y discriminatoria;
 
-###### Artículo 7o.
+II. El diseño de un sistema de monitoreo del comportamiento violento de los individuos y de la sociedad contra las mujeres, y
 
-El Programa contra el tabaquismo, sin perjuicio de lo que establezcan otras disposiciones aplicables, comprenderá las siguientes acciones:
+III. El establecimiento de un banco de datos sobre las órdenes de protección y de las personas sujetas a ellas, para realizar las acciones de política criminal que correspondan y faciliten el intercambio de información entre las dependencias.
 
-I. Promoción de la salud y estilos de vida saludable, libres de tabaco;
+> <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
 
-II. Diagnóstico, prevención, tratamiento y rehabilitación del tabaquismo y de los padecimientos originados por él;
+Artículo 16 bis.- Las conductas, acciones y omisiones que constituyan violencia política en contra de las mujeres en razón de género conforme a las disposiciones del Código Electoral para el Estado de Aguascalientes, se sancionarán en los términos establecidos en el mismo, así como el Código Penal para el Estado de Aguascalientes y la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, según corresponda.
 
-III. Prevención, tratamiento, investigación e información sobre los daños que produce a la salud el humo del tabaco;
-
-IV. Educación sobre la adicción a la nicotina y los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niñas, niños y adolescentes, incluyendo la orientación a la población para que se abstenga de fumar al interior de los espacios 100% libres de humo de tabaco y exija su derecho a la protección de su salud;
-
-V. Vigilancia epidemiológica y sanitaria del tabaquismo;
-
-VI. Investigación, capacitación y formación de recursos para el control del tabaco, y
-
-VII. Campañas de información respecto del tabaco, su consumo y sus consecuencias, a través de acciones de promoción, difusión y fomento sanitario.
-
-###### Artículo 8o.
-
-La prevención del tabaquismo tiene carácter prioritario, principalmente en la infancia y la adolescencia, con enfoque de género, y comprenderá las siguientes acciones:
-
-I. La promoción de la salud, que considerará el desarrollo de actitudes y conductas que favorezcan estilos de vida saludables personales, en la familia, la escuela, el trabajo, la recreación y la comunidad;
-
-II. La orientación de la población sobre los riesgos a la salud por el consumo de tabaco y a la exposición a su humo;
-
-III. La inclusión de contenidos acerca del tabaquismo en programas y materiales educativos, sus efectos nocivos a la salud, la ecología y la economía;
-
-IV. La orientación a la población para que se abstenga de fumar en el hogar y en los lugares de ámbito privado, especialmente frente a niñas, niños y adolescentes, mujeres embarazadas, enfermos y personas adultas mayores;
-
-V. La detección temprana del fumador, la orientación y el apoyo para que deje de fumar lo antes posible;
-
-VI. La promoción de espacios 100% libres de humo de tabaco;
-
-VII. Coadyuvar con la vigilancia sobre el cumplimiento de las disposiciones referentes a la venta y el consumo de tabaco;
-
-VIII. Coadyuvar con la vigilancia sobre el cumplimiento de las disposiciones referentes a la publicidad, la promoción y el patrocinio de productos de tabaco;
-
-IX. El establecimiento de políticas tendentes a disminuir el acceso a los productos derivados del tabaco, y
-
-X. La vigilancia del cumplimiento de esta ley en el sentido de que ninguna persona podrá fumar en lugares de trabajo interior, espacios públicos cerrados, sitios de concurrencia colectiva, transporte público y puertas de acceso a los lugares cerrados.
-
-###### Artículo 9o.
-
-El tratamiento del tabaquismo comprenderá las acciones tendientes a:
-
-I. Ayudar a las personas que deseen abandonar el consumo de tabaco, recibiendo el apoyo terapéutico necesario para conseguirlo;
-
-II. Reducir los riesgos y daños causados por la adicción a la nicotina, el consumo de tabaco y la exposición a su humo;
-
-III. Atender los padecimientos asociados al consumo de tabaco y a la exposición al humo de tabaco;
-
-IV. Atender y rehabilitar a quienes tengan alguna enfermedad atribuible al consumo de tabaco o a la exposición a su humo, y
-
-V. Incrementar el grado de bienestar físico, mental y social tanto de quienes consumen tabaco o están expuestos a su humo, como el de su familia y compañeros de trabajo.
+### CAPÍTULO III. De la Prevención, Atención y Sanción
 
 ###### Artículo 17.
 
-Los propietarios, responsables o administradores de los establecimientos, serán responsables en forma subsidiaria con el infractor, si existiera alguna persona fumando fuera de las áreas destinadas para ello en los espacios 100% libres de humo de tabaco definidos en esta Ley.
+La prevención que en el Estado se realice tendrá como objetivo lograr que la sociedad visualice todo tipo de violencia de género contra las mujeres como un evento antisocial, un problema de derechos humanos, de salud pública y de seguridad ciudadana. La prevención se llevará a cabo mediante acciones educativas en los ámbitos sociocultural, familiar e individual.
 
-El propietario o titular del establecimiento, o su personal, deberá exhortar, a quien se encuentre fumando fuera de las áreas autorizadas, a que se abstenga de hacerlo, en caso de negativa, se le invitará a abandonar las instalaciones; si el infractor se resiste a dar cumplimiento al exhorto, el titular o sus dependientes solicitarán el auxilio de la fuerza pública, a efecto de que pongan al infractor a disposición del Juez Calificador competente.
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2023)</small>
 
-Cuando el dueño o conductor de un vehículo de transporte público o transporte privado de personal o escolar, advierta que algún pasajero esté fumando en el interior del mismo, lo conminará a dejar de hacerlo. De no atender la exhortación, lo invitará a bajar y si se niega, solicitará el auxilio de la fuerza pública a fin de que el infractor sea retirado del vehículo y puesto a disposición del Juez Calificador.
-
-La responsabilidad de los propietarios, responsables administradores o conductores a que se refiere el presente Artículo terminará en el momento en que el propietario o titular del local o establecimiento dé aviso a la Autoridad competente del Estado o bien del municipio y ésta le proporcione el número o clave de reporte correspondiente.
+Tratándose de violencia de género se deberá generar el apoyo interinstitucional del Sistema para el Desarrollo Integral de la Familia del Estado de Aguascalientes; Secretaría General de Gobierno, a través del Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Aguascalientes; Instituto Aguascalentense de la Mujer; Fiscalía General del Estado, a través del Centro de Justicia para las Mujeres y en su caso Poder Judicial del Estado de Aguascalientes; con el objetivo de implementar un sistema de protección y acompañamiento integral para las mujeres y sus hijas o hijos.
 
 ###### Artículo 18.
 
-En los establecimientos en los que se expenden alimentos y bebidas para su consumo, los propietarios, responsables o administradores del establecimiento deberán:
+La atención que se proporcione a las mujeres víctimas de violencia de género en el Estado tendrá como fin salvaguardar su integridad, identidad y derechos, procurará su recuperación y la construcción de un nuevo proyecto de vida. Será gratuita, expedita y se proporcionará desde la perspectiva de género. La atención se realizará a través de Núcleos de Atención Integral y Refugios.
 
-I. Garantizar que las personas mayores de edad se abstengan de ingresar con menores de edad a los espacios al aire libre para fumar, y
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2023)</small>
 
-II. Colocar en los accesos de los espacios al aire libre para fumar letreros o señalamientos para advertir los perjuicios causados por el consumo de tabaco.
+En los casos de violencia vicaria se proporcionará atención y tratamiento psicológico especializado y gratuito a las víctimas y víctimas indirectas, que favorezcan la reunificación familiar entre las hijas y/o los hijos menores con la madre, con el objetivo de reparar el daño causado, derivado de dicha modalidad de violencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2025)</small>
 
 ###### Artículo 19.
 
-En todos los accesos a los espacios 100% libres de humo de tabaco, los propietarios, poseedores, administradores o responsables deberán colocar un cenicero de pie con el letrero: "Apaga tu cigarro o cualquier producto de tabaco antes de entrar".
+Los Núcleos de Atención Integral podrán proporcionar los siguientes servicios:
 
-En las entradas y en el interior de los mismos, deberán colocar las señalizaciones y letreros que orienten a los trabajadores, usuarios y visitantes que se trata de un espacio 100% libre de humo de tabaco, así como letreros que contengan leyendas de advertencia sobre su incumplimiento y el número telefónico donde se puedan presentar quejas y denuncias.
+I. Asesoría jurídica;
 
-Asimismo, los propietarios, poseedores o responsables de los vehículos de transporte público terrestre, deberán fijar en el interior y acceso a los mismos, letreros, logotipos o emblemas visibles que indiquen la prohibición de fumar, de acuerdo a las características y requisitos que determinen las disposiciones reglamentarias correspondientes.
+II. Gestión de protección para la víctima, testigos y denunciantes;
+
+III. Seguimiento de indagatorias y procesos:
+
+IV. Atención médica;
+
+V. Tratamiento psicológico especializado a las víctimas, directas e indirectas;
+
+VI. Intervención especializada de trabajadoras sociales;
+
+VII. Gestión de empleo y vivienda;
+
+VIII. Canalización de personas violentas para modificar conductas; y
+
+IX. Ludoteca.
 
 ###### Artículo 20.
 
-En las oficinas o instalaciones de las distintas dependencias de los Poderes Ejecutivo, Legislativo y Judicial, de los Municipios y órganos autónomos del Estado, estará prohibido fumar.
+Los Refugios son espacios terapéuticos, secretos y temporales, en donde se podrá brindar a las mujeres víctimas de violencia de género y a sus hijas e hijos, seguridad, servicios de hospedaje y alimentación, y en su caso, los señalados en el Artículo anterior.
 
 ###### Artículo 21.
 
-Los titulares de cada una de las dependencias del Gobierno del Estado instruirán a los titulares de las unidades administrativas, órganos, entidades y cualquier autoridad de estas áreas, a fin de que en sus oficinas, sanitarios, bodegas o cualquier otra instalación, sean colocados los señalamientos que determinen las disposiciones reglamentarias correspondientes, que indiquen la prohibición de fumar.
-
-Los titulares y administradores de las dependencias, órganos y entidades de la Administración Pública y de los Órganos Legislativo y Judicial del Estado, serán los responsables de implantar, cumplir y hacer cumplir las presentes disposiciones, en sus respectivos ámbitos.
-
-Todo servidor público estatal, que ostente un cargo superior jerárquico, deberá requerir a toda persona que se encuentre fumando, a que se abstenga de hacerlo en la oficina o instalación asignada a su servicio y que apague inmediatamente su cigarro o cualquier producto de tabaco que haya encendido. Si continúa fumando, deberá pedirle que se traslade a un área al aire libre y si se niega, deberá pedirle que la abandone, siempre que dicha persona sea un particular, si se negase a abandonar el inmueble deberá solicitar el auxilio de la autoridad correspondiente.
-
-Si se trata de un servidor público sujeto a su dirección, deberá denunciarlo a la contraloría del órgano, dependencia o entidad a la que se encuentre adscrito.
-
-Las personas que violen lo previsto en este Capítulo después de ser conminadas a modificar su conducta, cuando no lo hicieren podrán ser puestas a disposición de la autoridad administrativa correspondiente quien definirá las sanciones a que haya lugar.
+La permanencia de las víctimas en los refugios no podrá ser mayor a tres meses, a menos que persista su inestabilidad física, psicológica o su situación de riesgo. El personal médico, psicológico y jurídico evaluará, para tales efectos, su condición. En ningún caso se podrá mantener a las víctimas en los refugios en contra de su voluntad.
 
 ###### Artículo 22.
 
-El Ejecutivo del Estado canalizará los recursos económicos que se recauden por la imposición de sanciones derivadas del incumplimiento a la presente Ley, a la ejecución de acciones para la prevención, tratamiento y rehabilitación de enfermedades atribuibles al tabaco o para llevar a cabo investigaciones sobre el tabaquismo y sus riesgos.
+Los Núcleos de Atención Integral y los Refugios contarán con una persona responsable de su conducción y con el personal necesario para el cumplimiento de sus fines. El personal deberá contar con el perfil y aptitudes adecuadas para el tratamiento de los casos de violencia de género contra las mujeres.
 
 ###### Artículo 23.
 
-Los funcionarios y servidores públicos que violen lo dispuesto en la presente Ley serán sancionados por los órganos de control que les corresponda.
+La atención a personas que ejercen violencia de género contra las mujeres se proporcionará a través de Centros Reeducativos, será gratuita y especializada, y tenderá a transformar la práctica de la violencia en las relaciones de género.
 
 ###### Artículo 24.
 
-El Ejecutivo del Estado, a través de la Secretaría, se coordinará y coadyuvará con los titulares de las dependencias de la Administración Pública Estatal, para que en sus instalaciones, se establezcan las medidas necesarias para el cumplimiento de esta Ley.
+La atención que reciba la victima de violencia de género y la persona que la ejerce no será proporcionada por la misma persona ni en el mismo lugar. No se obligará a las personas involucradas a que se les proporcione terapia de pareja y en ningún caso podrán brindar atención aquellas personas que hayan sido sancionadas por ejercer algún tipo de violencia.
 
 ###### Artículo 25.
 
-La Secretaría, en coordinación con las autoridades federales, estatales, municipales y los sectores social y privado, implementará programas preventivos permanentes contra los efectos nocivos causados por el consumo de tabaco, a fin de fomentar que sus disposiciones sean aplicadas, así mismo se llevaran a cabo campañas de información consistentes en: La promoción, orientación y educación de la población sobre los riesgos a la salud por el consumo del tabaco y a la exposición a su humo.
+Los casos de violencia de género contra las mujeres y las causas que tengan relación o que se originen de ella, no serán sometidos a procedimientos de mediación y conciliación, ni a ningún otro mecanismo alternativo de solución de conflictos.
 
-### CAPÍTULO IV. MEDIDAS PARA LA PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DEL TABACO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE FEBRERO DE 2016)</small>
 
-### CAPÍTULO V. DE LAS SANCIONES
+### CAPÍTULO III BIS. De la Violencia Feminicida y de la Alerta de Violencia de Género Contra las Mujeres
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE AGOSTO DE 2023)</small>
+
+Artículo 25 bis.- Por Violencia Feminicida se entiende la forma extrema de violencia de género contra las mujeres, las adolescentes y las niñas, producto de la violación de sus derechos humanos, y del ejercicio abusivo del poder, tanto en los ámbitos público y privado, que puede conllevar impunidad social y del Estado. Se manifiesta a través de conductas de odio y discriminación que ponen en riesgo sus vidas o culminan en muertes violentas como el feminicidio, el suicidio y el homicidio, u otras formas de muertes evitables y en conductas que afectan gravemente la integridad, la seguridad, la libertad personal y el libre desarrollo de las mujeres, las adolescentes y las niñas.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2016)</small>
+
+En los casos de feminicidio cometidos en la entidad, se aplicarán las sanciones previstas en el Código Penal del Estado de Aguascalientes.
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2023)</small>
+
+Artículo 25 ter.- Por Alerta de Violencia de Género contra las mujeres se entiende, el conjunto de acciones gubernamentales, coordinadas, integrales, de emergencia y temporales realizadas entre las autoridades de los tres órdenes y niveles de gobierno para enfrentar y erradicar la violencia feminicida en un territorio determinado; así como para eliminar el agravio comparado, resultado de las desigualdades producidas por ordenamientos jurídicos o políticas públicas que impiden el reconocimiento o ejercicio de los derechos humanos de las mujeres, las adolescentes y las niñas, a fin de garantizar su pleno acceso al derecho a una vida libre de violencias.
+
+El procedimiento para la emisión de la Alerta de Violencia de Género contra las mujeres deberá ser pronto y expedito, atendiendo a la situación de urgencia de los hechos documentados que motiva su solicitud y al territorio especificado en la misma, así como al principio de debida diligencia, de conformidad con lo previsto en la Ley General.
+
+La declaratoria de Alerta de Violencia de Genero se emitirá de conformidad con lo previsto en los artículos 24, 24 Bis, 24 Ter, 24 Quater, 24 Quinquies, 24 Sexies, 24 Septies, 25 y 25 Bis de la Ley General.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2016)</small>
+
+Artículo 25 quater.- El Agravio Comparado, implica un trato desigual a las mujeres dentro del marco jurídico del Estado, incluso de procedimientos y trámites administrativos.
+
+En caso de existir Agravio Comparado, las autoridades competentes deberán realizar los ajustes normativos necesarios para subsanarlo.
+
+> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2023)</small>
+
+Artículo 25 quinquies.- Ante la Violencia Feminicida, el Estado de Aguascalientes y sus municipios, colaborarán con el Gobierno Federal, para el resarcimiento del daño, conforme a lo dispuesto por el artículo 26 de la Ley General y la Ley de Víctimas del Estado de Aguascalientes.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE MAYO DE 2025)</small>
+
+### CAPÍTULO IV. De las Medidas u Órdenes de Protección
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2025)</small>
 
 ###### Artículo 26.
 
-La publicidad de tabaco deberá sujetarse a lo dispuesto en la Ley General para el Control del Tabaco, Reglamento de la Ley General para el Control del Tabaco y demás disposiciones aplicables.
+Las medidas u órdenes de protección, son actos de urgente aplicación, en función del interés superior de la víctima; son fundamentalmente precautorias y cautelares, deberán otorgarse de oficio o a petición de parte, por las autoridades administrativas, el Ministerio Público o por los órganos jurisdiccionales competentes, en el momento en que tengan conocimiento del hecho de violencia presuntamente constitutivo de un delito o infracción, que ponga en riesgo la integridad, la libertad o la vida de las mujeres, adolescentes, niñas y niños, evitando en todo momento que la persona agresora, directamente o a través de algún tercero, tenga contacto de cualquier tipo o medio con la víctima.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2025)</small>
+
+Tienen como propósito prevenir o hacer cesar un acto de violencia, o impedir la comisión de un nuevo acto de violencia o delito.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 12 DE MAYO DE 2025)</small>
+
+En materia de violencia política contra las mujeres en razón de género, el Tribunal Electoral del Estado, el Instituto Estatal Electoral, podrán solicitar a las autoridades competentes el otorgamiento de las medidas u órdenes de protección a que se refiere el presente Capítulo.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2025)</small>
 
 ###### Artículo 27.
 
-La Secretaría ejercerá las funciones de vigilancia y verificación que correspondan y aplicará las sanciones que en este ordenamiento se establezcan.
+Las medidas u órdenes de protección que consagra la presente Ley son personalísimas e intransferibles y podrán ser:
+
+I. Administrativas: que son emitidas por el Ministerio Público y las autoridades administrativas; y
+
+II. De naturaleza jurisdiccional: que son las emitidas por los órganos encargados de la administración de justicia.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2025)</small>
+
+Artículo 27 bis.- Las autoridades administrativas, el Ministerio Público o el órgano jurisdiccional que emita las medidas u órdenes de protección, realizarán las gestiones necesarias para garantizar su cumplimiento, monitoreo y ejecución. Para lo anterior se allegará de los recursos materiales y humanos necesarios, asimismo podrá solicitar la colaboración de las autoridades competentes.
+
+Durante los primeros seis días posteriores a la implementación de las órdenes, la autoridad que la emitió mantendrá contacto directo con la mujer víctima de violencia cada 24 horas. A partir del séptimo día, se establecerá un plan de seguimiento personalizado, de acuerdo a las circunstancias, la valoración del riesgo y el avance en la carpeta de investigación.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2025)</small>
+
+Artículo 27 ter. - Quien en ejercicio de funciones públicas tenga conocimiento de la probable existencia de un hecho que la ley señale como delito en contra de una mujer o una niña, está obligado a denunciarlo inmediatamente al Ministerio Público, proporcionándole todos los datos que tuviere, poniendo a su disposición a la persona imputada, si hubieren sido detenida en flagrancia.
+
+Quien tenga el deber jurídico de denunciar y no lo haga, será acreedor a las sanciones previstas en la Ley General de Responsabilidades Administrativas, en la Ley de Responsabilidades Administrativas del Estado de Aguascalientes o en la Legislación correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2025)</small>
 
 ###### Artículo 28.
 
-Los alumnos, maestros, personal administrativo, padres de familia e integrantes de las asociaciones de padres de familia de las escuelas e instituciones educativas hasta el nivel medio superior sean públicas o privadas, podrán participar de manera individual o colectiva en la vigilancia, para que se cumpla con la prohibición de consumir o tener encendido cualquier producto del tabaco en el interior de estas, independientemente de que se trate de espacios cerrados o al aire libre pudiendo dar aviso a la autoridad correspondiente sobre la persona o las personas que incumplan con la presente Ley.
+Para la emisión de las medidas u órdenes de protección las autoridades administrativas, el Ministerio Público o el órgano jurisdiccional competente tomará en consideración:
 
-Asimismo, podrán participar de manera individual o colectiva en la vigilancia, para que se cumpla con la prohibición de vender productos de tabaco a menores de edad así como cigarrillos sueltos o por unidad o cualquier producto de tabaco y denunciar ante la autoridad correspondiente la existencia de establecimientos fijos, semifijos o vendedores ambulantes que incumplan con este ordenamiento.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2025)</small>
+
+I. Los hechos relatados por la mujer o la niña, en situación de violencia, considerando su desarrollo evolutivo y cognoscitivo o por quien lo haga del conocimiento a la autoridad;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2025)</small>
+
+II. Las peticiones explícitas de la mujer o la niña, en situación de violencia, considerando su desarrollo evolutivo y cognoscitivo o de quien informe sobre el hecho;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2025)</small>
+
+III. Las medidas que ella considere oportunas, una vez informada de cuáles pueden ser esas medidas. Tratándose de niñas, las medidas siempre serán determinadas conforme al principio del interés superior de la niñez;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2025)</small>
+
+IV. Las necesidades que se deriven de su situación particular analizando su identidad de género, orientación sexual, raza, origen étnico, edad, nacionalidad, discapacidad, religión, así como cualquier otra condición relevante;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2025)</small>
+
+V. La persistencia del riesgo aún después de su salida de un refugio temporal; y
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2025)</small>
+
+VI. La manifestación de actos o hechos previos de cualquier tipo de violencia que hubiese sufrido la víctima.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2025)</small>
 
 ###### Artículo 29.
 
-Los propietarios, administradores, organizadores de eventos en un espacio 100% libre de humo de tabaco, con el apoyo de los empleados y trabajadores que laboran en el mismo serán responsables de implementar, cumplir y hacer cumplir la Ley y su Reglamento en los espacios que ocupa el mismo, así como de solicitar a quien incumpla dichas disposiciones a que se retire del sitio, percibido que en caso de no hacerlo se le dará aviso a la autoridad administrativa correspondiente.
+Las autoridades administrativas, el Ministerio Público o el órgano jurisdiccional competente, deberá ordenar la protección necesaria, considerando:
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2025)</small>
+
+I. Los principios establecidos en esta ley;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2025)</small>
+
+II. Que sea adecuada, oportuna y proporcional;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2025)</small>
+
+III. Que los sistemas normativos propios basados en usos y costumbres no impidan la garantía de los derechos de las mujeres reconocidos en la Constitución Política de los Estados Unidos Mexicanos, así como en los tratados internacionales ratificados por el Estado Mexicano;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2025)</small>
+
+IV. La discriminación y vulnerabilidad que viven las mujeres y las niñas por razón de identidad de género, orientación sexual, raza, origen étnico, edad, nacionalidad, discapacidad, religión o cualquiera otra, que las coloque en una situación de mayor riesgo; y
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2025)</small>
+
+V. Las necesidades expresadas por la mujer o niña solicitante.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2025)</small>
+
+Las autoridades administrativas, el Ministerio Público y los órganos jurisdiccionales determinarán las órdenes de protección para denunciantes anónimas de violencia, privilegiando la integridad y la seguridad de las víctimas.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2025)</small>
+
+Artículo 29 bis. Las medidas u órdenes de protección podrán solicitarse en cualquier municipio del Estado distinto a donde ocurrieron los hechos, sin que la competencia en razón del territorio pueda ser usada como excusa para no recibir la solicitud.
+
+Para efectos del párrafo anterior, las autoridades administrativas, la Fiscalía General del Estado y el Poder Judicial celebrarán convenios de colaboración con las entidades públicas para garantizar la efectiva protección de las mujeres, adolescentes, niñas y niños conforme a los principios rectores de las medidas u órdenes de protección.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2025)</small>
+
+Artículo 29 ter. Las medidas u órdenes de protección administrativas, además de las previstas en otros ordenamientos, podrán consistir en una o varias de las siguientes:
+
+IV (SIC). El traslado de las víctimas a donde se requiera, cuantas veces sea necesario en las diferentes diligencias para garantizar su seguridad y protección;
+
+V. Custodia personal y o domiciliaria a las víctimas, que estará a cargo de los cuerpos policiacos adscritos a la Fiscalía General del Estado, según corresponda.
+
+En caso de que no exista disponibilidad podrá apoyarse en las instituciones de seguridad pública del Estado y Municipios.
+
+Esta medida se aplicará bajo la más estricta responsabilidad del Ministerio Público;
+
+VI. Proporcionar a las mujeres, o las niñas, en situación de violencia y en su caso a sus hijas e hijos o personas que dependan de la víctima, alojamiento temporal en espacios seguros tales como casas de emergencia, refugios y albergues que garanticen su seguridad y dignidad, en términos de las disposiciones aplicables de esta ley;
+
+IV (SIC). Proporcionar los recursos económicos para garantizar su seguridad personal, transporte, alimentos, comunicación, mudanza y los trámites oficiales que requiera entre otros;
+
+V. Canalizar y trasladar sin demora alguna a las mujeres, o las niñas, en situación de violencia sexual a las instituciones que integran el sistema estatal de salud para que provean gratuitamente y de manera inmediata los servicios de:
+
+a) Aplicación de antirretrovirales de profilaxis post-exposición;
+
+b) Anticoncepción de emergencia; y
+
+c) Interrupción legal y voluntaria del embarazo en el caso de violación.
+
+VI. Proveer los recursos y herramientas necesarias para garantizar la seguridad y acondicionamiento de vivienda;
+
+VII. Los demás gastos indispensables, dentro o fuera del país, para la mujer y en su caso sus hijas e hijos mientras se encuentre imposibilitada de obtenerlos por sus propios medios;
+
+VIII. Facilitar a la mujer o la niña, y en su caso a sus hijas e hijos en situación de violencia, la reubicación de domicilio, residencia o del centro educativo. Tratándose de niñas víctimas de violencia, la autoridad en todo momento ponderará su interés superior, siendo la remisión a instituciones públicas de acogida la última opción y por el menor tiempo posible;
+
+IX. Prohibición inmediata a la persona agresora de acercarse al domicilio y al de familiares y amistades, al lugar de trabajo, de estudios, o cualquier otro que frecuente la víctima directa o víctimas indirectas;
+
+X. Reingreso de la mujer y en su caso a sus hijas e hijos en situación de violencia al domicilio, una vez que se salvaguarde su seguridad, en caso de que así lo desee.
+
+Para el cumplimiento de esta orden se garantizará el acompañamiento, del Ministerio Público y del personal de la policía ministerial, a la mujer en situación de violencia para acceder al domicilio, lugar de trabajo u otro, con el propósito de recuperar sus pertenencias personales y las de sus hijas e hijos, en cualquier caso, podrá ser acompañada de una persona de su confianza.
+
+En caso de que no haya personal ministerial disponible, el acompañamiento será a cargo de personal de cualquier institución de seguridad pública que garantice la seguridad de la mujer;
+
+XI. En casos de peligro inminente o extrema urgencia, el Ministerio Público bajo su más estricta responsabilidad, podrá determinar la desocupación inmediata por la persona agresora, del domicilio conyugal o de pareja, independientemente de la acreditación de propiedad o posesión del inmueble, aun en los casos de arrendamiento del mismo;
+
+XII. Protección policíaca permanente a la mujer, o la niña, así como a su familia;
+
+XIII. Protección por seguridad privada, en los casos que sea necesario;
+
+XIV. Utilización de herramientas tecnológicas que permitan brindar seguridad a las mujeres, o niñas, en situación de violencia; así como a las víctimas indirectas y testigos. Entre las que pueden encontrarse proporcionar un teléfono móvil con contacto directo para brindar auxilio policial, entre otros;
+
+XV. Solicitud a la autoridad judicial competente, la suspensión temporal a la persona agresora del régimen de visitas y convivencia con sus descendientes;
+
+XVI. Ordenar la entrega inmediata de objetos de uso personal y documentos de identidad a la mujer en situación de violencia, o niña, y en su caso, a sus hijas e hijos;
+
+XVII. La prohibición a la persona agresora de comunicarse por cualquier medio o por interpósita persona, con la mujer en situación de violencia y, en su caso, de sus hijas e hijos u otras víctimas indirectas;
+
+XVIII. Prohibición a la persona agresora de intimidar o molestar por si, por cualquier medio o interpósita persona, a la mujer en situación de violencia y en su caso sus hijas e hijos u otras víctimas indirectas o testigos de los hechos o cualquier otra persona con quien la mujer tenga una relación familiar, afectiva, de confianza o, de hecho;
+
+XIX. Resguardar las armas de fuego u objetos utilizados para amenazar o agredir a la mujer, o niña, en situación de violencia;
+
+XX. Solicitar a la autoridad jurisdiccional competente, para garantizar las obligaciones alimentarias, la elaboración de un inventario de los bienes de la persona agresora y su embargo precautorio, el cual deberá inscribirse con carácter temporal en el Registro Público de la Propiedad y del Comercio del Estado;
+
+XXI. Solicitar a la autoridad jurisdiccional competente la suspensión del régimen de tutela o curatela que ejerza la persona agresora;
+
+XXII. Solicitar a la autoridad judicial competente la recuperación y entrega inmediata a las mujeres víctimas, de sus hijas e/o hijos menores de 18 años y/o personas incapaces que requieran cuidados especiales, que hayan sido sustraídos, retenidos u ocultados de la madre, en casos de violencia vicaria; y
+
+XXIII. Además de las anteriores, aquellas y cuantas sean necesarias para salvaguardar la integridad, la seguridad y la vida de las mujeres, adolescentes o niñas víctimas de violencia.
+
+Las órdenes de protección señaladas en este artículo podrán ser ampliadas o modificadas por la autoridad administrativa, el Ministerio Público o el órgano jurisdiccional competente, siempre procurando la mayor protección para la víctima.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2025)</small>
+
+Artículo 29 quáter.- Las medidas u órdenes de naturaleza jurisdiccional, además de las previstas en otros ordenamientos, podrán consistir en una o varias de las siguientes acciones:
+
+XVII (SIC). La reserva del domicilio, lugar de trabajo, profesión o cualquier otro dato que permita que a la persona agresora o su familia puedan ubicar a la víctima;
+
+XVIII. El uso de medios o dispositivos electrónicos para impedir el contacto directo de la persona agresora con la víctima;
+
+XIX. Entrega inmediata de objetos de uso personal y documentos de identidad de la víctima y en su caso, de sus hijas e hijos;
+
+XX. Medidas para evitar que se capten y/o se transmitan por cualquier medio o tecnologías de la información y la comunicación, imágenes de la mujer en situación de violencia que permitan su identificación o la de sus familiares. Tratándose de niñas hay una prohibición absoluta de transmitir datos e imágenes que permitan su identificación;
+
+XXI. Prohibir el acceso a la persona agresora al domicilio, permanente o temporal de la mujer, o la niña, en situación de violencia, así como acercarse al lugar de trabajo, estudio o cualquier lugar que frecuente;
+
+XXII. Embargo preventivo de bienes de la persona agresora, a efecto de garantizar las obligaciones alimentarias;
+
+XXIII. La desocupación por la persona agresora, del domicilio conyugal o de pareja, independientemente de la acreditación de propiedad o posesión del inmueble, aún en los casos de arrendamiento del mismo, y en su caso el reingreso de la mujer en situación de violencia una vez que se resguarde su seguridad;
+
+XXIV. Cumplimiento de la obligación alimentaria provisional e inmediata;
+
+XXV. La notificación al superior jerárquico inmediato, cuando la persona agresora sea servidora pública y en el ejercicio de su cargo, comisión o servicio, se le involucre en un hecho de violencia contra las mujeres. Esta orden será emitida en todos los casos donde la persona agresora pertenezca a los cuerpos policiacos, militares o de seguridad, ya sea corporaciones públicas o privadas;
+
+XXVI. La obligación de la persona agresora de presentarse periódicamente ante el órgano jurisdiccional que emitió la orden;
+
+XXVII. La colocación de localizadores electrónicos, previo consentimiento de la persona agresora;
+
+XXVIII. La prohibición a la persona agresora de salir sin autorización judicial del país o del ámbito territorial que fije el juez o la jueza;
+
+XXIX. La suspensión del régimen de tutela o curatela que ejerza la persona agresora sobre la víctima;
+
+XXX. Ordenar la restitución, recuperación o entrega inmediata a la mujer víctima, de sus hijas y/o hijos menores de 18 años y/o personas incapaces que requieran cuidados especiales, que hayan sido sustraídos, retenidos u ocultados de forma ilícita;
+
+XXXI. Ordenar la suspensión temporal a la persona agresora del régimen de visitas y convivencia con sus descendientes; y
+
+XXXII. Las demás que se requieran para brindar una protección integral a la víctima.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2025)</small>
+
+Artículo 29 quinquies.- En caso de que la persona agresora incumpla la medida u orden de protección, se emitirán las medidas de apremio conforme a la legislación aplicable.
+
+Asimismo, se reforzarán las acciones que se contemplaron en un primer momento con la finalidad de salvaguardar la vida y seguridad de las mujeres y niñas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2025)</small>
 
 ###### Artículo 30.
 
-La vigilancia sanitaria se llevará a cabo a través visitas (sic) de verificación a cargo del personal expresamente autorizado por la autoridad sanitaria competente para llevar a cabo la verificación física del cumplimiento de la Ley y demás disposiciones aplicables.
+Las medidas u órdenes de protección, atendiendo a la naturaleza de cada una de ellas, se otorgarán de oficio o a petición de las víctimas, de los hijos o las hijas, de las personas que convivan con ellas o se encuentren sujetas a su guarda o custodia, de las o de los responsables de los Núcleos de Atención Integral, y de los Refugios, o cualquier persona que tenga conocimiento del riesgo en que se encuentra la integridad física o psicológica, la libertad o seguridad de la víctima o víctimas indirectas.
 
-### CAPITULO VI. DEL RECURSO DE INCONFORMIDAD
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 12 DE MAYO DE 2025)</small>
+
+La Procuraduría de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado, deberá solicitar las medidas u órdenes de protección a las autoridades correspondientes de manera oficiosa de conformidad con las disposiciones normativas aplicables.
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 12 DE MAYO DE 2025)</small>
+
+En toda orden de protección que se expida deberán ponerse a disposición de la autoridad, las personas que ejercen Violencia de Género
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2025)</small>
+
+Artículo 30 bis.- La medida u orden de protección surtirá sus efectos al momento de ser notificada y en la misma se citará a la persona agresora para comparecer ante el juez que emite la orden al día siguiente en que la reciba para celebrar audiencia de pruebas y alegatos; cuando la medida u orden de protección sea otorgada por el Ministerio Público, éste remitirá el expediente al juez competente para que realice la notificación de referencia y dé el trámite previsto en el presente Artículo.
+
+> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2010)</small>
+
+En la audiencia se recibirán, admitirán y desahogarán las pruebas que procedan y se recibirán los alegatos. Serán supletorios los ordenamientos procesales de la materia en que se dicten las medidas.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2025)</small>
+
+El juez tendrá hasta veinticuatro horas para dictar resolución donde confirme, modifique o revoque la medida u orden de protección, atendiendo al peligro existente, el tipo de medida implementada y al interés superior de la víctima.
+
+> <small>(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2025)</small>
+
+Las ordenes de protección tendrán una duración mínima de treinta días y una máxima de sesenta días, que podrán ser prorrogables por treinta días más o por el tiempo que dure la investigación o prolongarse hasta que se cese la situación de riesgo para la víctima.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2025)</small>
+
+El juez durante el desahogo de la audiencia deberá evitar cualquier circunstancia que propicie la revictimización de la mujer en situación de violencia.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2021)</small>
+
+Artículo 30 ter.- Las órdenes de protección se deberán dictar e implementar con base en los siguientes principios:
+
+I.- Principio de protección: Considera primordial la vida, la integridad física, la libertad y la seguridad de las personas;
+
+II.- Principio de necesidad y proporcionalidad: Las órdenes de protección deben responder a la situación de violencia en que se encuentre la persona destinataria, y deben garantizar su seguridad o reducir los riesgos existentes;
+
+III.- Principio de confidencialidad: Toda la información y actividad administrativa o jurisdiccional relacionada con el ámbito de protección de las personas, debe ser reservada para los fines de la investigación o del proceso respectivo;
+
+IV.- Principio de oportunidad y eficacia: Las órdenes deber ser oportunas, específicas, adecuadas y eficientes para la protección de la víctima, y deben ser otorgadas e implementadas de manera inmediata y durante el tiempo que garanticen su objetivo;
+
+V.- Principio de accesibilidad: Se deberá articular un procedimiento sencillo para que facilite a las víctimas obtener la protección inmediata que requiere su situación;
+
+VI.- Principio de integralidad: El otorgamiento de la medida a favor de la víctima deberá generarse en un solo acto y de forma automática, y
+
+VII.- Principio pro persona: Para interpretar lo referente al otorgamiento de las órdenes de protección, en caso de duda, con relación a la situación de violencia, se estará a lo más favorable para la víctima, tratándose de niñas siempre se garantizará que se cumpla en todas las decisiones que se tome respecto de las órdenes de protección. De igual forma, cuando las determinaciones que se tomen respecto de una mujer víctima de violencia pudieran impactar en los derechos de las hijas o hijos menores de 18 años de edad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2025)</small>
+
+Artículo 30 quáter.- Cuando una mujer o una niña víctima de violencia soliciten una medida u orden de protección a la autoridad administrativa, ministerial y/o judicial, se le deberá brindar toda la información disponible sobre el procedimiento relacionado con la propia orden.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2021)</small>
+
+La autoridad deberá informar con un lenguaje claro, sencillo y empático a la mujer víctima de violencia sobre su derecho a solicitar las órdenes de protección, y evitará cualquier información tendiente a inhibir o desincentivar la solicitud.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2021)</small>
+
+La autoridad en el ámbito de su competencia deberá de realizar la medición y valoración del riesgo, la valoración médica en caso de requerirse, así como la valoración psicológica.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2025)</small>
+
+La autoridad en el ámbito de su competencia, que reciban denuncias anónimas de mujeres y niñas víctimas de violencia, decretarán las órdenes de protección correspondientes.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2021)</small>
+
+Artículo 30 quinquies.- La tramitación y otorgamiento de una orden de protección podrá contener una o varias medidas, atendiendo al principio de integralidad. No se necesita una orden para cada medida, una sola orden de protección podrá concentrar el número de medidas necesarias para garantizar la seguridad y bienestar de la mujer en situación de violencia y en su caso de las víctimas indirectas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2025)</small>
+
+Artículo 30 sexies.- Las medidas u órdenes de protección deberán ser evaluadas para modificarse o adecuarse, en caso de que al momento de evaluar la efectividad de la medida orden se detecten irregularidades o incumplimiento, se sustanciará la comunicación correspondiente a los órganos internos de control de las dependencias involucradas.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2025)</small>
+
+Previo a la suspensión de las órdenes de protección decretadas, las autoridades administrativas, el Ministerio Público o por los órganos jurisdiccionales competentes, deberán asegurarse bajo su más estricta responsabilidad que la situación de riesgo o peligro de la víctima ha cesado, realizando una nueva evaluación del riesgo y analizando los informes de implementación por parte de las autoridades responsables de su cumplimiento.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2021)</small>
+
+Artículo 30 septies.- Al momento de dictarse sentencia, las autoridades judiciales competentes determinarán las órdenes de protección y medidas similares que deban dictarse de manera temporal o durante el tiempo que dure la sentencia.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2025)</small>
+
+Las órdenes de protección podrán ser dictadas de oficio o a solicitud de la mujer, niña o adolescente en situación de violencia, de su representante legal o del Ministerio Público, tratándose de niñas o adolescentes víctimas de un delito, la autoridad judicial se encuentra obligada a hacer la determinación del interés superior de la niñez y la adolescencia, a fin de dictar órdenes de protección, aun cuando no exista una solicitud.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2025)</small>
+
+Artículo 30 octies.- Por ninguna circunstancia las autoridades administrativas, el Ministerio Público o por los órganos jurisdiccionales competentes notificarán de sus actuaciones a la persona agresora a través de la víctima. Cualquier notificación es responsabilidad exclusiva de la autoridad. Las autoridades que intervengan en el cumplimiento de una orden, también serán las responsables de informar a la autoridad ordenadora sobre su implementación de forma periódica.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2021)</small>
+
+Artículo 30 nonies.- A ninguna mujer o niña y sus hijas e hijos en situación de violencia, que solicite orden de protección se le podrá requerir que acredite su situación migratoria, ni cualquier otro elemento que impida su derecho al acceso a la justicia y la protección.
+
+> <small>(ADICIONADO, P.O. 6 DE NOVIEMBRE DE 2023)</small>
+
+Artículo 30 decies.- Tratándose de violencia mediática o digital, para garantizar la integridad de la víctima, la o el Ministerio Público, la jueza o el juez, ordenaran de manera inmediata, las medidas de protección necesarias, atendiendo a lo dispuesto en el Artículo 20 Sexies de la Ley General.
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2025)</small>
+
+Artículo 30 undecies.- Las autoridades administrativas, la Fiscalía General del Estado y el Poder Judicial del Estado, darán cumplimiento al Capítulo VII del Título I de la Ley General, en relación con el Registro Nacional de Protección de las Mujeres, Adolescentes, niñas y niños, para garantizar la continuidad, efectividad y no interrupción de las medidas u órdenes de protección con independencia del lugar en que hayan sido ordenadas.
+
+### CAPÍTULO V. Del Sistema Estatal para la Erradicación de la Violencia de Género Contra las Mujeres
 
 ###### Artículo 31.
 
-Las verificaciones podrán ser ordinarias y extraordinarias. Las primeras se efectuarán en días y horas hábiles y las segundas en cualquier tiempo.
-
-Para los efectos de esta Ley, tratándose de establecimientos industriales, comerciales o de servicios, se considerarán horas hábiles las de su funcionamiento habitual.
+El Estado y los Municipios se coordinarán para la integración y funcionamiento del Sistema, el cual tiene por objeto la conjunción de esfuerzos, instrumentos, políticas, servicios y acciones interinstitucionales para la erradicación de la violencia de género contra las mujeres.
 
 ###### Artículo 32.
 
-Los verificadores, para practicar visitas, deberán estar provistos de órdenes escritas, con firma autógrafa expedidas por las autoridades sanitarias competentes, en las que se deberá precisar el lugar o zona que ha de verificarse, el objeto de la visita, el alcance que debe tener y las disposiciones legales que la fundamenten.
+Son materia de coordinación entre el Gobierno del Estado y los Municipios:
+
+I. La prevención de la violencia de género contra las mujeres y la atención especializada de sus víctimas;
+
+II. La capacitación del personal encargado de su prevención y atención;
+
+III. La reeducación de las personas que la ejercen;
+
+IV. El suministro, intercambio y sistematización de todo tipo de información en la materia;
+
+V. Acciones conjuntas para la protección de las mujeres, niñas y niños víctimas de violencia de género de conformidad con las disposiciones legales e instrumentos en la materia; y
+
+VI. Las relacionadas con las anteriores que sean necesarias para incrementar la eficacia de las medidas y acciones tendientes a erradicar la violencia de género contra las mujeres.
 
 ###### Artículo 33.
 
-Los verificadores en el ejercicio de sus funciones tendrán libre acceso a los edificios, establecimientos comerciales, industriales, de servicio y, en general a todos los lugares a que hace referencia esta Ley.
+Son instancias de coordinación en materia de erradicación de la violencia de género contra las mujeres:
 
-Los propietarios, responsables, encargados u ocupantes de establecimientos o conductores de los transportes objeto de verificación, estarán obligados a permitir el acceso y a dar facilidades e informes a los verificadores para el desarrollo de su labor.
+I. El Consejo Estatal para la Erradicación de la Violencia de Género contra las Mujeres; y
+
+II. Los Consejos Municipales para la Erradicación de la Violencia de Género contra las Mujeres.
 
 ###### Artículo 34.
 
-En la diligencia de verificación sanitaria se deberán observar las siguientes reglas:
+Las políticas, lineamientos y acciones de coordinación, se llevarán a cabo mediante la suscripción de los convenios respectivos.
 
-I. Al iniciar la visita al (sic) verificador deberá exhibir la credencial vigente, expedida por la autoridad sanitaria competente, que lo acredite legalmente para desempeñar dicha función, así como la orden expresa a que se refiere el artículo 33 de esta Ley, de la que deberá dejar copia al propietario, responsable, encargado u ocupante del establecimiento. Esta circunstancia se deberá anotar en el acta correspondiente;
+El Gobierno del Estado integrará los instrumentos de información del Sistema Estatal, para cuyo efecto se establecerá la base de datos correspondiente. El Reglamento de la Ley determinará los indicadores que permitan el monitoreo de las tendencias socio-jurídicas del fenómeno y de la aplicación de la Ley.
 
-II. Al inicio de la visita, se deberá requerir al propietario, responsable, encargado u ocupante del establecimiento, o conductor del transporte, que proponga a dos testigos que deberán permanecer durante el desarrollo de la visita. Ante la negativa o ausencia del visitado, los designará la autoridad que practique la verificación. Estas circunstancias, el nombre, domicilio y firma de los testigos, se hará constar en el acta;
-
-III. En el acta que se levante con motivo de la verificación, se harán constar las circunstancias de la diligencia, las deficiencias o anomalías sanitarias observadas, el número y tipo de muestras tomadas o en su caso las medidas de seguridad que se ejecuten, y
-
-IV. Al concluir la verificación, se dará oportunidad al propietario, responsable, encargado u ocupante del establecimiento o conductor del transporte, de manifestar lo que a su derecho convenga, asentando su dicho en el acta respectiva y recabando su firma en el propio documento, del que se le entregará una copia. La negativa a firmar el acta o a recibir copia de la misma o de la orden de visita, se deberá hacer constar en el referido documento y no afectará su validez, ni la de la diligencia practicada.
+### CAPÍTULO VI. De los Consejos Estatal y Municipales para la Erradicación de la Violencia de Género Contra las Mujeres
 
 ###### Artículo 35.
 
-Las autoridades sanitarias con base en los resultados de la visita podrán dictar las medidas para corregir las irregularidades que se hubieren encontrado notificándolas al interesado y dándole un plazo no menor de 5 días ni mayor de 30 días naturales para su realización.
+El Consejo Estatal para la Erradicación de la Violencia de Género contra las Mujeres es la instancia normativa y de evaluación de las políticas públicas en la materia.
 
 ###### Artículo 36.
 
-Las autoridades sanitarias competentes harán uso de las medidas legales necesarias, incluyendo el auxilio de la fuerza pública, para lograr la ejecución de las sanciones y medidas de seguridad que procedan.
+El Consejo se conformará por:
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
+
+I. La Gubernatura Constitucional del Estado, quien fungirá como Presidenta o Presidente Honorario;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
+
+II. La persona titular de la Secretaría General de Gobierno, quien será la Presidenta Ejecutiva o el Presidente Ejecutivo del Consejo;
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+
+III. Una persona representante de la Secretaría de Finanzas;
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+
+IV. Una persona representante de la Secretaria de Seguridad Pública;
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+
+V. Una persona representante de la Secretaría de Desarrollo Social;
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+
+VI. Una persona representante de la Secretaría de Desarrollo Económico, Ciencia y Tecnología;
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+
+VII. Una persona representante de la Secretaría de Planeación, Participación y Desarrollo;
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+
+VIII. Una persona representante de la Fiscalía General del Estado;
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+
+IX. Una persona representante del Instituto de Educación del Estado;
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+
+X. Una persona representante del Instituto de Servicios de Salud del Estado;
+
+XI. Una representante del Instituto Aguascalentense de las Mujeres;
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+
+XII. Una persona representante del Sistema Estatal para el Desarrollo Integral de la Familia;
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+
+XIII. Una persona representante del Presidente de la Comisión Estatal de Derechos Humanos;
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+
+XIV. Una persona representante del Instituto Estatal Electoral;
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+
+XV. Una persona representante de la Comisión de Igualdad Sustantiva y Equidad de Género del Congreso del Estado y otro de la Comisión de Derechos Humanos del Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2024)</small>
+
+XVI. Tres personas representantes de organizaciones civiles especializadas en la materia;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
+
+XVII. Una persona representante del Supremo Tribunal de Justicia del Poder Judicial del Estado;
+
+> <small>(REFORMADA, P.O. 1 DE JULIO DE 2024)</small>
+
+XVIII. Dos personas representantes de instituciones de investigación especializados en la materia; y
+
+> <small>(ADICIONADA, P.O. 1 DE JULIO DE 2024)</small>
+
+XIX. Una persona representante de la Coordinación del Centro de Justicia para las Mujeres del Estado.
 
 ###### Artículo 37.
 
-Derivado de las irregularidades sanitarias que reporte el acta de verificación a que se refiere el Artículo 34 fracción III de esta Ley, la autoridad sanitaria competente citará al interesado personalmente o por correo certificado con acuse de recibo, para que dentro de un plazo no mayor de cinco días comparezca a manifestar lo que a su derecho convenga y ofrezca las pruebas que estime procedentes en relación con los hechos asentados en el acta de verificación.
+Para su adecuado funcionamiento, el Consejo se auxiliará de una Coordinadora General.
 
 ###### Artículo 38.
 
-El cómputo de los plazos que señale la autoridad sanitaria competente para el cumplimiento de sus disposiciones, se hará entendiendo los días como naturales, con las excepciones que esta Ley establezca.
+El funcionamiento del Consejo y todo lo relacionado con su régimen interno deberá determinarse en el Reglamento de la Ley.
 
 ###### Artículo 39.
 
-Una vez oído al presunto infractor o a su representante legal y desahogadas las pruebas que ofreciere y fueren admitidas, se procederá dentro de los cinco días hábiles siguientes, a dictar, por escrito, la resolución que proceda, la cual será notificada en forma personal o por correo certificado con acuse de recibo al interesado o a su representante legal.
+El Consejo, como órgano colegiado, tendrá a su cargo las siguientes atribuciones:
+
+I. Participar en la elaboración del Proyecto del Programa Estatal;
+
+II. Evaluar su cumplimiento;
+
+III. Proponer el establecimiento de lineamientos técnicos y administrativos que faciliten la ejecución del Programa Estatal;
+
+IV. Determinar las atribuciones complementarias que ejercerá la Coordinadora General;
+
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2023)</small>
+
+V. Convenir con los Ayuntamientos del Estado, la participación que les corresponda para la realización del objeto de esta Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE JUNIO DE 2023)</small>
+
+VI. Capacitar exhaustivamente a sus funcionarios sobre la violencia vicaria y las modalidades en las que se presenta; por ser de reciente reconocimiento; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE JUNIO DE 2023)</small>
+
+VII. Las demás que le señale la presente Ley y ordenamientos aplicables.
 
 ###### Artículo 40.
 
-En caso de que el presunto infractor no compareciera dentro del plazo fijado por el artículo 37 de este ordenamiento legal, se procederá a dictar, en rebeldía, la resolución definitiva y a notificarla personalmente o por correo certificado con acuse de recibo.
-
-#### SECCIÓN SÉPTIMA. PARTICIPACIÓN Y DENUNCIA CIUDADANA
+El Gobernador del Estado, como Presidente Honorario del Consejo, expedirá el Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia de Género contra las Mujeres y propondrá en el Proyecto de Presupuesto de Egresos del Estado una partida presupuestaria para garantizar su cumplimiento. Dicho Programa se publicará en el Periódico Oficial del Estado.
 
 ###### Artículo 41.
 
-La Secretaría promoverá que la población y las organizaciones de la sociedad civil participen activamente en la aplicación de esta Ley, con las siguientes acciones:
+Son atribuciones del Presidente Ejecutivo del Consejo:
 
-I. Promocionar espacios 100% libres de humo del tabaco;
+I. Conducir la política pública en la materia;
 
-II. Denunciar a los establecimientos cerrados donde se permita fumar;
+II. Presidir las sesiones del Consejo;
 
-III. Denunciar a los expendedores del tabaco o similares que vendan a menores de edad;
+III. Presentar a la consideración del Gobernador del Estado, el Proyecto de Programa para su aprobación;
 
-IV. Colaborar en campañas de información y prevención, respecto a los riesgos que entraña el consumo del tabaco y la exposición al humo del mismo, y
+IV. Elaborar el proyecto de reglamento de la presente Ley y presentarlo a los miembros del Consejo para su consideración y aprobación en su caso;
 
-V. Fomentar el cumplimiento de las disposiciones legales en materia de control de los productos del tabaco.
+V. Promover ante las instancias competentes el financiamiento necesario para la realización de las funciones del Consejo;
 
-Las campañas que se mencionan en el presente artículo, también deberán ir dirigidas a aquellos entornos que no se encuentren contemplados en la presente Ley, como es el caso de los hogares o vehículos particulares, para que las personas que fuman se abstengan de hacerlo en el interior de los mismos o al menos lo eviten cuando estén en presencia de menores de edad, mujeres embarazadas, personas enfermas o con discapacidad y de adultos mayores.
+VI. Nombrar a la Coordinadora General;
+
+VII. Recibir y aprobar el informe anual de actividades que deba rendir la Coordinadora General;
+
+VIII. Servir de enlace entre el Consejo Estatal y los Ayuntamientos para la consecución del objeto que persigue esta Ley; y
+
+IX. Las demás que sean necesarias para la consecución de sus fines o que le asigne el Consejo.
 
 ###### Artículo 42.
 
-Cualquier ciudadano podrá presentar ante la Secretaría una denuncia en caso de observar el incumplimiento de esta Ley, la cual conocerá del caso y dará el seguimiento necesario, actuando conforme a los procedimientos establecidos.
-
-La autoridad será responsable de salvaguardar la identidad e integridad del ciudadano que interponga la denuncia.
+El cargo de Coordinadora General será ejercido por la titular del Instituto Aguascalentense de las Mujeres.
 
 ###### Artículo 43.
 
-La Secretaría pondrá en operación o vinculará con una línea telefónica preferentemente de acceso gratuito para que los ciudadanos puedan efectuar quejas y sugerencias sobre los espacios 100% libres de humo de tabaco así como el incumplimiento de esta Ley, sus reglamentos y demás disposiciones aplicables, o dirección de correo electrónico en donde los ciudadanos podrán presentar sus quejas o enviar las pruebas que acrediten las violaciones a la presente Ley, con los datos del lugar, fecha y hora en que ocurrió dicho incumplimiento. Las pruebas a que se refiere este artículo tendrán presunción de validez, siempre y cuando sean completamente comprobables.
+La Coordinadora General tendrá las siguientes atribuciones:
+
+I. Asistir a las sesiones del Consejo y fungir como Secretaria Ejecutiva del mismo;
+
+II. Convocar a sesiones ordinarias y extraordinarias del Consejo con la oportunidad debida;
+
+III. Vigilar el cumplimiento de los acuerdos del Consejo;
+
+IV. Elaborar el anteproyecto del Programa Estatal;
+
+V. Ser representante legal del Consejo;
+
+VI. Rendir anualmente al Presidente Ejecutivo y al Consejo un informe de actividades;
+
+VII. Estandarizar los procesos de prevención de la violencia de género contra las mujeres, de atención a sus víctimas y de reeducación de personas que ejercen violencia;
+
+VIII. Establecer, coordinar, controlar y actualizar el Sistema Estatal de Información sobre la Violencia de Género contra las Mujeres;
+
+IX. Capacitar al personal encargado de la prevención y atención, mediante procesos educativos formales en materia de violencia de género contra las mujeres;
+
+X. Impulsar la investigación sobre la violencia de género que se ejerce contra las mujeres y publicar los resultados;
+
+XI. Promover la integración de una instancia ciudadana que otorgue anualmente reconocimiento público a quienes intervienen en la prevención de la violencia de género contra las mujeres y en la atención de sus víctimas;
+
+XII. Implementar un programa especial para proporcionar tratamiento terapéutico al personal encargado de la atención de las mujeres víctimas de violencia de género;
+
+XIII. Promover la instalación de Núcleos de Atención Integral, Refugios, Centros Reeducativos para personas que ejercen Violencia de Género y de módulos de información;
+
+XIV. Promover la firma de convenios con instituciones públicas y privadas para el cumplimiento de los fines de esta Ley; y
+
+XV. Las demás que le señale la presente Ley y otros ordenamientos aplicables.
 
 ###### Artículo 44.
 
-Las violaciones a los preceptos de esta Ley, serán sancionadas administrativamente por la Secretaría, sin perjuicio de las penas que correspondan cuando sean constitutivas de delitos.
+La Coordinadora General podrá invitar a cualquier persona que por sus conocimientos, prestigio o experiencia, sea conveniente que asista a las sesiones del Consejo.
 
 ###### Artículo 45.
 
-Las sanciones administrativas podrán consistir en:
+Para la debida coordinación y desarrollo de las actividades para la erradicación de la violencia de género contra las mujeres en el Estado, podrán formar consejos municipales, mismos que se organizarán atendiendo las características de cada lugar.
 
-I. Amonestación con Apercibimiento;
+### CAPÍTULO VII
 
-II. Multa;
-
-III. Clausura temporal o definitiva del establecimiento, que podrá ser parcial o total, y
-
-IV. Arresto hasta por treinta y seis horas.
+Del Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia de Género Contra las Mujeres.
 
 ###### Artículo 46.
 
-Se sancionarán las infracciones a lo dispuesto por la presente Ley en los siguientes términos:
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
-
-I. Se sancionará con multa de hasta 100 veces el valor diario de la Unidad de Medida y Actualización, a las personas que contravengan lo dispuesto en los artículos 12, 15, 16, 18, 19, 20 y 21 del presente ordenamiento;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
-
-II. Se sancionará con multa de 1000 hasta 4000 veces el valor diario de la Unidad de Medida y Actualización, a los propietarios, responsables o encargados de los establecimientos que no cumplan con lo dispuesto en los artículos 13 y 14 de la presente Ley, y
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2020)</small>
-
-III. se sancionará con multa de 1000 hasta 4000 veces el valor diario de la Unidades (sic) de Medida y Actualización, al titular de la concesión o permiso del medio de transporte que no fije las señalizaciones o que permitan la realización de conductas prohibidas por esta ley.
+El Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia de Género contra las Mujeres es el instrumento que contiene las acciones que, en forma planeada y coordinada, deberán realizar las dependencias y entidades de la administración pública del Estado, en el corto, mediano y largo plazo. Dicho Programa tendrá el carácter de prioritario y su ejecución se ajustará a la disponibilidad presupuestaria anual, así como a las disposiciones y lineamientos que sobre el particular dicte el Consejo.
 
 ###### Artículo 47.
 
-En caso de reincidencia en primera ocasión se duplicará el monto de la multa que corresponda.
+El Programa guardará congruencia con los instrumentos internacionales en materia de protección de los derechos de las mujeres y disposiciones legales federales en la materia, y con las establecidas en esta Ley, además de que contendrá, entre otros, los siguientes puntos:
+
+I. El diagnóstico de la situación actual de la violencia de género contra las mujeres en el Estado;
+
+II. Los objetivos específicos a alcanzar;
+
+III. Las estrategias a seguir para el logro de esos objetivos;
+
+IV. Los subprogramas específicos, así como las acciones o metas operativas correspondientes, incluyendo aquellas que sean objeto de coordinación con instituciones públicas o privadas; y
+
+V. Las unidades administrativas responsables de su ejecución.
 
 ###### Artículo 48.
 
-Se sancionarán con clausura temporal de los establecimientos, a los dueños que reincidan en segunda ocasión en incumplir con las disposiciones de la presente Ley. Procederá la clausura definitiva de los establecimientos cuando exista reincidencia por tercera ocasión en violentar las disposiciones de este ordenamiento jurídico.
+El Programa contendrá las acciones con perspectiva de género para:
+
+I. Impulsar y fomentar el conocimiento y el respeto a los derechos humanos de las mujeres;
+
+II. Impulsar el cambio de los modelos socioculturales de conducta de mujeres y hombres, incluyendo la formulación de programas y acciones de educación formales y no formales, en todos los niveles educativos y de instrucción, con la finalidad de prevenir, atender y erradicar las conductas estereotipadas que permiten, fomentan y toleran la violencia contra las mujeres;
+
+III. Educar y capacitar en materia de derechos humanos al personal encargado de la procuración de justicia, policías y demás funcionarios encargados de las políticas de prevención, atención, sanción y eliminación de la violencia contra las mujeres;
+
+IV. Educar y capacitar en materia de derechos humanos de las mujeres al personal encargado de la impartición de justicia, a fin de dotarles de instrumentos que les permita juzgar con perspectiva de género;
+
+V. Promover los servicios especializados y gratuitos para la atención y protección a las victimas, por medio de las autoridades y las instituciones públicas o privadas;
+
+VI. Fomentar y apoyar programas de educación pública y privada, destinados a concientizar a la sociedad sobre las causas y las consecuencias de la violencia;
+
+VII. Diseñar programas de atención y capacitación a victimas que les permita participar plenamente en todos los ámbitos de la vida;
+
+VIII. Vigilar que los medios de comunicación eviten fomentar la violencia contra las mujeres y que favorezcan la erradicación de todos los tipos de violencia, para fortalecer el respeto a los derechos humanos y la dignidad de éstas;
+
+IX. Garantizar la investigación y la elaboración de diagnósticos estadísticos sobre las causas, la frecuencia y las consecuencias de la violencia contra las mujeres, con el fin de evaluar la eficacia de las medidas desarrolladas para prevenir, atender, sancionar y erradicar todo tipo de violencia;
+
+X. Publicar semestralmente la información general y estadística sobre los casos de violencia contra las mujeres para integrar el banco nacional de datos e información sobre casos de violencia contra las mujeres;
+
+XI. Promover la inclusión prioritaria en el plan estatal de desarrollo de las medidas y las políticas de gobierno para erradicar la violencia contra las mujeres;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+XII. Promover la cultura de denuncia de la violencia contra las mujeres en el marco de la eficacia de las instituciones para garantizar su seguridad y su integridad;
+
+> <small>(REFORMADA, P.O. 3 DE JULIO DE 2023)</small>
+
+XIII. Diseñar un modelo integral de atención a los derechos humanos y ciudadanía de las mujeres que deberán instrumentar las instituciones, los centros de atención y los refugios que atiendan a víctimas;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 3 DE JULIO DE 2023)</small>
+
+XIV. Educar, capacitar e informar a las Dependencias integrantes del Consejo, así como a la población en general sobre las consecuencias, formas de prevención y erradicación de la violencia digital, promoviendo el uso adecuado de las tecnologías de la información y comunicación; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 3 DE JULIO DE 2023)</small>
+
+XV. Diseñar programas de atención, reeducación y capacitación para las personas agresoras, que les permitan reincorporarse y participar plenamente en todos los ámbitos de la vida.
+
+### CAPÍTULO VIII. De la Distribución de Competencias en Materia de Prevención, Atención y Sanción de la Violencia de Género Contra las Mujeres
+
+> <small>(REFORMADO, P.O. 30 DE MAYO DE 2022)</small>
 
 ###### Artículo 49.
 
-El monto recaudado producto de las multas será destinado de acuerdo a lo establecido en el artículo 22 de la presente Ley.
+Los poderes públicos del Estado y los Municipios, así como los organismos constitucionalmente autónomos, coadyuvarán para el cumplimiento de los objetivos de esta Ley, de conformidad con las competencias previstas en el presente ordenamiento y demás instrumentos legales aplicables.
 
-#### SECCIÓN PRIMERA. PROHIBICIONES
+#### SECCIÓN PRIMERA. Del Poder Ejecutivo
 
 ###### Artículo 50.
 
-Al imponer una sanción, la autoridad sanitaria fundará y motivará la resolución, tomando en cuenta:
+Las dependencias y entidades del Poder Ejecutivo se agruparán en los siguientes sectores:
 
-I. Los daños que se hayan producido o puedan producirse en la salud de las personas;
+I. Educativo;
 
-II. La gravedad de la infracción;
+II. Salud;
 
-III. Las condiciones socio-económicas del infractor;
+III. Seguridad y Justicia;
 
-IV. La calidad de reincidente del infractor, y
+IV. Trabajo y Desarrollo Social y Económico;
 
-V. El beneficio obtenido por el infractor como resultado de la infracción.
+V. Asistencia Social; y
+
+VI. Medios de Comunicación.
 
 ###### Artículo 51.
 
-Para el cobro de las multas derivadas de las infracciones previstas en este capítulo, se seguirá el procedimiento administrativo de ejecución establecido en el Código Fiscal del Estado.
+Forman parte del Sector Educativo:
+
+I. El Instituto de Educación del Estado;
+
+II. Instituciones de Educación superior;
+
+III. Instituto para la Educación de personas Jóvenes y Adultas; y
+
+IV. El Instituto Aguascalentense de las Mujeres.
 
 ###### Artículo 52.
 
-El término de prescripción para la aplicación de las sanciones será de un año y empezará a computarse desde el día en que se hubiera cometido la infracción.
+Corresponde al Instituto de Educación del Estado:
+
+I. Desarrollar en niñas y niños del nivel educativo preescolar el aprendizaje en la resolución pacífica de conflictos;
+
+II. Desarrollar en el alumnado de educación primaria y secundaria la capacidad de adquirir habilidades para la resolución pacífica de conflictos, y para comprender y respetar la igualdad entre los hombres y las mujeres.
+
+III. Desarrollar en el alumnado del nivel medio superior y superior la capacidad de consolidar su madurez personal, social y ética, que le permita contribuir a la eliminación de la discriminación hacia las mujeres;
+
+IV. Instrumentar procesos educativos formales dirigidos a su planta docente de los diferentes niveles educativos, que permitan analizar y difundir la problemática de la violencia de género contra las mujeres, así como prevenirla y combatirla;
+
+V. Aplicar procedimientos de detección de violencia de género contra las mujeres a grupos preseleccionados y comunicar de inmediato, por escrito, a las autoridades competentes, los casos detectados;
+
+VI. Implementar programas educativos cocurriculares de corta duración, dirigidos a grupos de niñas en situación de riesgo de padecer violencia de género;
+
+VII. Diseñar y distribuir en el alumnado instrumentos educativos que promuevan la prevención y atención de la violencia de género contra las mujeres;
+
+VIII. Elaborar un programa de servicio social especializado dirigido a las instituciones de educación superior para dotar de recursos humanos a los Núcleos de Atención Integral y Refugios;
+
+IX. Diseñar e implementar un sistema de educación alternativo para niñas y niños que vivan en los refugios, con el fin de no interrumpir su ciclo escolar;
+
+X. Diseñar e implementar un sistema de educación alternativo para niñas y niños que requieran cambiar de residencia, como consecuencia de la violencia padecida, o que se encuentren en situación de riesgo de perder la vida;
+
+XI. Instalar módulos de información en las oficinas de su competencia sobre las causas y efectos de la violencia de género contra las mujeres y su relación con la violencia social;
+
+XII. Rendir un informe bimensual a la Coordinación General del Consejo de las actividades realizadas; y
+
+XIII. Las demás que le asigne el Programa.
 
 ###### Artículo 53.
 
-En el caso de las violaciones cometidas por los servidores públicos, se aplicarán las normas que regulen la responsabilidad de dichos servidores.
+Corresponde a las instituciones de Educación Superior del Estado:
+
+I. Diseñar y distribuir, en el alumnado, instrumentos educativos libres de prejuicios de género;
+
+II. Capacitar a su planta docente mediante procesos educativos formales para difundir y analizar las causas y consecuencias de la violencia de género contra las mujeres, así como la forma de prevenirla y atenderla desde su ámbito educativo;
+
+III. Realizar programas educativos cocurriculares de corta duración para grupos de jóvenes que vivan en alto riesgo de padecer y/o ejercer violencia de género contra las mujeres;
+
+IV. Aplicar procedimientos de detección de violencia de género contra las mujeres a grupos preseleccionados;
+
+V. Implementar un programa de prácticas profesionales especializado en violencia contra las mujeres desde la perspectiva de género, para dotar de recursos humanos a los Núcleos de Atención Integral y Refugios;
+
+VI. Diseñar e implementar un sistema de educación alternativo para jóvenes que requieran cambiar de residencia debido a las consecuencias de la violencia;
+
+VII. Instalar módulos de información en sus oficinas en el Estado sobre las causas y efectos de la violencia de género contra las mujeres y su relación con la violencia social;
+
+VIII. Rendir un informe bimensual a la Coordinación General del Consejo de las actividades realizadas; y
+
+IX. Las demás que le asigne el Programa.
 
 ###### Artículo 54.
 
-Los presuntos infractores podrán interponer contra actos y resoluciones de la Secretaría con motivo de la aplicación de esta Ley, el recurso de inconformidad previsto en la Ley Estatal de Salud.
+Corresponde al Instituto para la Educación de Personas Jóvenes y Adultas:
+
+I. Desarrollar actividades orientadas a la resolución pacífica de conflictos interpersonales en la educación para personas adultas y detectar a mujeres en situación de violencia o en riesgo de padecerla;
+
+II. Capacitar a su planta docente mediante procesos educativos formales para difundir y analizar las causas y consecuencias de la violencia de género contra las mujeres; así como la forma de prevenirla y atenderla desde su ámbito educativo;
+
+III. Incorporar criterios de género en los programas de alfabetización;
+
+IV. Instalar módulos de información en sus oficinas en el Estado sobre las causas y efectos de la violencia de género contra las mujeres y su relación con la violencia social;
+
+V. Rendir un informe bimensual a la Coordinación General del Consejo de las actividades realizadas; y
+
+VI. Las demás que le asigne el Programa.
 
 ###### Artículo 55.
 
-El recurso deberá presentarse por escrito ante la misma autoridad, dentro de los quince días hábiles, contados a partir del día siguiente a aquel en que se hubiera notificado la resolución o acto que se recurra.
+Corresponde al Instituto Aguascalentense de las Mujeres:
+
+I. Diseñar planes y programas de estudio para la especialización de servidoras y servidores públicos responsables de la prevención y atención de las mujeres víctimas de violencia de género;
+
+II. Diseñar e impulsar la realización de proyectos de investigación en temas relacionados con la violencia de género que se ejerce contra las mujeres;
+
+III. Diseñar el protocolo para la detección de la violencia de género contra las mujeres;
+
+IV. Diseñar las campañas de prevención de la violencia de género contra las mujeres;
+
+V. Instalar módulos de información en sus oficinas en el Estado sobre las causas y efectos de la violencia de género contra las mujeres, y su relación con la violencia social;
+
+VI. Promover modificaciones a esta Ley cuando así se requiera;
+
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2013)</small>
+
+VII. Rendir un informe bimensual a la Coordinación General del Consejo de las actividades realizadas;
+
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2013)</small>
+
+VIII. Realizar estudios estadísticos e investigaciones referentes al acceso a la justicia de las mujeres víctimas de violencia, así como de las causas y sentencias que se dictan en contra de las mujeres responsables de delitos;
+
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2017)</small>
+
+IX. Especializar a las y los agentes del Ministerio Público, peritos, personal adscritos a la Fiscalía General del Estado que atiende a víctimas a través de programas y cursos permanentes en: derechos humanos y género, perspectiva de género para la debida diligencia en la integración de carpetas de investigación y conducción de procesos judiciales relacionados con discriminación y violencia, incorporación de la perspectiva de género en los servicios periciales, eliminación de estereotipos sobre el rol social de las mujeres, entre otros;
+
+> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2017)</small>
+
+X. Impulsar mecanismos de promoción, protección y respeto de los derechos político-electorales de las mujeres; y
+
+> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2017)</small>
+
+XI. Las demás que le asigne el Programa.
 
 ###### Artículo 56.
 
-Al escrito de recurso deberán acompañarse los siguientes documentos:
+Forman parte del Sector Salud:
 
-I. Los que acrediten la personalidad del promovente, siempre que él no sea el directamente afectado y cuando dicha personalidad no hubiere sido reconocida con anterioridad en la instancia o expediente que concluyó con la resolución impugnada;
-
-II. Los documentos que el recurrente ofrezca como pruebas y que tengan relación inmediata y directa con la resolución o acto impugnado, y
-
-III. Original de la resolución impugnada, en su caso.
+I. El Instituto de Salud del Estado.
 
 ###### Artículo 57.
 
-En la tramitación del recurso se admitirá toda clase de medios probatorios, excepto la confesional. Solo procederán las pruebas que se hayan ofrecido en la instancia o expediente que concluyó con la resolución o acto impugnado y las supervenientes.
+Corresponde al Instituto de Salud del Estado:
 
-Las pruebas ofrecidas que procedan se admitirán por el área competente que deba continuar el trámite de recurso, y para su desahogo se dispondrá de un término de treinta días hábiles contados a partir de la fecha en que hayan sido admitidas.
+I. Proporcionar atención médica, en horario de veinticuatro horas, a las mujeres víctimas de violencia de género que acudan a los Centros de Salud del Estado, Núcleos de Atención Integral y Refugios;
+
+II. Capacitar a sus servidoras y servidores públicos sobre el fenómeno de la violencia de género contra las mujeres y los efectos que produce en la salud;
+
+III. Aplicar el protocolo de detección de la violencia de género;
+
+IV. Proporcionar información a las y los usuarios en la consulta externa acerca de las consecuencias que este tipo de violencia produce en la salud de las mujeres y su impacto en la pobreza de las comunidades;
+
+V. Identificar a usuarias víctimas de violencia de género y notificar oportunamente al Ministerio Público, de conformidad con la NOM-190-SSA1-1999: Prestación de servicios de salud. Criterios para la atención médica de la violencia familiar;
+
+VI. Colaborar diligentemente con las autoridades de procuración e impartición de justicia para la ratificación de la información y la elaboración de dictámenes médicos;
+
+VII. Rendir un informe bimensual a la Coordinación General del Consejo de las actividades realizadas; y
+
+VIII. Las demás que le asigne el Programa.
 
 ###### Artículo 58.
 
-En la tramitación del recurso de inconformidad, se aplicará supletoriamente el Código de Procedimientos Civiles del Estado.
+Forman parte del Sector de Seguridad Pública y Justicia:
 
-## TRANSITORIOS
+I. La Secretaria de Seguridad Pública;
 
-Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
 
-Artículo Segundo.- Se abroga la Ley de Protección para los No Fumadores del Estado de Nuevo León, publicada en el Periódico Oficial del Estado en fecha 14 de Diciembre de 2004 y sus posteriores modificaciones.
+II-. La Fiscalía General del Estado; y
 
-Artículo Tercero.- Se establece un plazo de 180 días naturales contados a partir de la entrada en vigor de la presente Ley para que el Estado y los Municipios del Estado expidan, modifiquen, adicionen o deroguen las disposiciones reglamentarias en la materia, a fin de dar cumplimiento a lo dispuesto por la presente Ley.
+> <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
 
-Artículo Cuarto.- Los propietarios de establecimientos mercantiles que cuenten con espacios para fumar, y que hubieran realizado inversión para dar cumplimiento a la legislación y reglamentación vigente antes de la entrada en vigor de la presente Ley, podrán contar con un plazo de un año contado a partir del día de su entrada en vigor, para hacer las adecuaciones físicas a tales establecimientos; previa verificación y aprobación por la Subsecretaría de Regulación y Fomento Sanitario de la Secretaría de Salud del Estado.
+III. La Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes en el Estado de Aguascalientes.
 
-Artículo Quinto.- Se derogan las disposiciones que se opongan a lo previsto por esta Ley.
+###### Artículo 59.
 
-Por lo tanto envíese al Ejecutivo del Estado para su promulgación y publicación en el Periódico Oficial del Estado.
+Corresponde a la Secretaría de Seguridad Pública:
 
-Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su capital, al primer día del mes de junio de 2013.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
 
-PRESIDENTE: DIP. LUIS DAVID ORTIZ SALINAS; DIP. SECRETARIO: JUAN MANUEL CAVAZOS BALDERAS; DIP. SECRETARIA: REBECA CLOUTHIER CARRILLO.- Rúbricas.-
+I. Capacitar al personal de las diferentes instancias policiales en materia de derechos de las mujeres y perspectiva de género para atender los casos de violencia contra las mujeres;
 
-Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en el Despacho del Poder Ejecutivo del Estado de Nuevo León, en Monterrey, su Capital, al día 04 del mes de junio del año 2013.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
 
-EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO DE NUEVO LEÓN
+II. Celebrar convenios de cooperación, coordinación y concertación con las autoridades competentes en la materia, para el cumplimiento de los objetivos de la presente ley;
 
-RODRIGO MEDINA DE LA CRUZ
+III. Otorgar las facilidades necesarias para el cumplimiento y ejecución de las órdenes de protección dictadas por las autoridades competentes, en los casos de violencia de género;
 
-EL C. SECRETARIO GENERAL DE GOBIERNO
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
 
-ALVARO IBARRA HINOJOSA
+IV. Establecer las acciones y medidas que se deberán tomar para la reeducación y reinserción social de la persona agresora;
 
-EL C. SECRETARIO DE SALUD DEL ESTADO
+V. Establecer y difundir el servicio telefónico para denunciar casos de violencia de género contra las mujeres y ofrecer, a través del mismo, asesoría especializada sobre el tema y sobre los servicios de asistencia que presta el Gobierno del Estado;
 
-JESÚS ZACARÍAS VILLARREAL PÉREZ
+VI. Instalar módulos de información en sus oficinas en el Estado sobre las causas y efectos de la violencia de género contra las mujeres y su relación con la violencia social;
 
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2021)</small>
 
-P.O. 30 DE DICIEMBRE DE 2020.
+VII. Rendir un informe bimensual a la Coordinación General del Consejo de las actividades realizadas;
 
-#### SECCIÓN SEGUNDA. DE LAS OBLIGACIONES
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE MAYO DE 2021)</small>
 
-#### SECCIÓN TERCERA. DEL ESTADO Y LOS MUNICIPIOS
+VIII. Elaborar e implementar en coordinación con la Fiscalía General del Estado, acciones de política criminal que incidan en la prevención de la violencia contra las mujeres, dando prioridad a las zonas de mayor incidencia delictiva;
 
-#### SECCIÓN CUARTA. DE LA DIVULGACIÓN Y CONCIENTIZACIÓN DE LOS EFECTOS NOCIVOS POR EL CONSUMO DEL TABACO
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2021)</small>
 
-#### SECCIÓN QUINTA. DE LA VERIFICACIÓN Y VIGILANCIA
+IX. Generar mecanismos de prevención, detección y canalización de las mujeres víctimas de violencia;
 
-#### SECCIÓN SEXTA. DEL PROCEDIMIENTO ADMINISTRATIVO
+> <small>(ADICIONADA, P.O. 31 DE MAYO DE 2021)</small>
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. (UMA)”.]
+X. Realizar estudios estadísticos e investigaciones que permitan la elaboración de políticas públicas que prevengan la violencia contra las mujeres en los ámbitos público y privado;
 
-ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+XI. Diseñar, con una visión transversal, la política integral con perspectiva de género orientada a la prevención, atención, sanción y erradicación de los delitos violentos contra las mujeres en los ámbitos público y privado bajo una perspectiva de derechos humanos;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+XII. Formular acciones y programas orientados a fomentar la cultura del respeto a los derechos humanos de las mujeres;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MAYO DE 2023)</small>
+
+XIII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema y del Programa;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2023)</small>
+
+XIV. Integrar el banco estatal de datos e información sobre casos de violencia contra las mujeres; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 8 DE MAYO DE 2023)</small>
+
+XV. Las demás previstas para el cumplimiento de la presente ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2015)</small>
+
+###### Artículo 60.
+
+Corresponde a la Fiscalía General del Estado:
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+I. Promover, entre sus servidores públicos la atención especializada en los casos de violencia de género, así como formar y especializar a las y los agentes del Ministerio Público, peritos y personal que atiende a víctimas a través de programas y cursos permanentes en:
+
+a) Derechos humanos y género;
+
+b) Perspectiva de género para la debida diligencia en la conducción de carpetas de investigación y procesos judiciales relacionados con discriminación, violencia y feminicidio;
+
+c) Incorporación de la perspectiva de género en los servicios periciales;
+
+d) Eliminación de estereotipos sobre el rol social de las mujeres, entre otros.
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+II. Proporcionar a las víctimas orientación y asesoría para su eficaz atención y protección, de conformidad con los ordenamientos jurídicos aplicables;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+III. Dictar las medidas necesarias para que la víctima reciba atención médica de emergencia, asesoría jurídica y psicoterapia especializada;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+IV. Diseñar y desarrollar campañas de difusión para promover la denuncia de los hechos de violencia de género contra las mujeres y sobre los derechos que tienen las víctimas de delitos que atentan contra la Libertad Sexual, la Seguridad Sexual, el Normal Desarrollo Físico y Psicosexual, y el Libre Desarrollo de la Personalidad, feminicidio, violencia familiar y violencia a partir de una relación de pareja, así como de las agencias especializadas que atienden estos delitos;
+
+> <small>(REFORMADA, P.O. 25 DE FEBRERO DE 2013)</small>
+
+V. Rendir un informe bimensual a la Coordinación General del Consejo de las actividades realizadas;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+VI. Elaborar y aplicar protocolos especializados con perspectiva de género en la búsqueda inmediata de mujeres y niñas desaparecidas, para la investigación de los delitos de discriminación, feminicidio, trata de personas, violencia familiar y contra la libertad y el normal desarrollo psicosexual;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+VII. Crear y administrar un sistema de registro público de los delitos cometidos en contra de mujeres, que incluya la clasificación de los hechos de los que tenga conocimiento, lugar de ocurrencia y lugar de hallazgo de los cuerpos, características sociodemográficas de las víctimas y del sujeto activo, especificando su tipología, relación entre el sujeto activo y pasivo, móviles, diligencias básicas a realizar, así como las dificultades para la práctica de diligencias y determinaciones; los índices de incidencia y reincidencia, consignación, sanción y reparación del daño. Este registro se integrará a la estadística criminal y victimal para definir políticas en materia de prevención del delito, procuración y administración de justicia;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+VIII. Promover la cultura de respeto a los derechos humanos de las mujeres y garantizar la seguridad e integridad física de quienes denuncian y garantizar mecanismos expeditos para el acceso de las mujeres a la justicia plena;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE MAYO DE 2023)</small>
+
+IX. Diseñar las políticas en materia de procuración de justicia en contra de la violencia hacia las mujeres;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2023)</small>
+
+X. Proporcionar a las víctimas información objetiva que les permita reconocer su situación;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2023)</small>
+
+XI. Implementar los mecanismos necesarios que permitan, en los casos de violencia contra las mujeres, aplicar con prontitud y eficacia las medidas u órdenes de protección señaladas en esta Ley y contar con un banco de datos sobre las órdenes de protección y de las personas sujetas a ellas;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2023)</small>
+
+XII. Crear una base estatal de información genética que contenga la información personal disponible de mujeres y niñas desaparecidas a nivel estatal; la información genética y muestras celulares de los familiares de las personas desaparecidas que lo consientan; la información genética y muestras celulares provenientes de los cuerpos de cualquier mujer o niña no identificada. La información integrada en esta base deberá ser resguardada y únicamente podrá ser utilizada para la confrontación de información genética entre cuerpos no identificados y personas desaparecidas;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2023)</small>
+
+XIII. Proporcionar a las instancias encargadas de realizar estadísticas las referencias necesarias sobre el número de víctimas atendidas;
+
+> <small>(REFORMADA, P.O. 13 DE AGOSTO DE 2024)</small>
+
+XIV. Celebrar convenios de cooperación, coordinación y concertación en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 13 DE AGOSTO DE 2024)</small>
+
+XV. Investigar con perspectiva de género y debida diligencia las muertes violentas de mujeres y niñas para esclarecer los hechos y en su caso, determinar si se trata de un Feminicidio; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE AGOSTO DE 2024)</small>
+
+XVI. Las demás previstas para el cumplimiento de la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE JULIO DE 2015)</small>
+
+###### Artículo 61.
+
+Corresponde a la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes en el Estado de Aguascalientes;
+
+I. Promover la recepción de atención integral para las víctimas de violencia;
+
+II. Implementar procesos formales de capacitación sobre violencia de género contra las mujeres para servidoras y servidores públicos de su institución;
+
+III. Aplicar procedimientos de detección de la violencia de género contra las mujeres a grupos preseleccionados que acudan a sus oficinas;
+
+IV. Instalar módulos de información en las oficinas de su competencia sobre las causas y efectos de la violencia de género que se ejerce contra las mujeres, y su relación con la violencia social;
+
+V. Rendir un informe bimensual a la Coordinación General del Consejo de las actividades realizadas; y
+
+VI. Las demás que le asigne el Programa.
+
+###### Artículo 62.
+
+Forman parte del Sector Trabajo y Desarrollo Social y Económico:
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+I. La Secretaría de Desarrollo Social;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2023)</small>
+
+II. La Secretaría de Desarrollo Económico, Ciencia y Tecnología; y
+
+III. La Secretaria de Turismo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2023)</small>
+
+###### Articulo 63.
+
+Corresponde a la Secretaría de Desarrollo Social:
+
+I. Fomentar el desarrollo social desde la visión de protección integral de los derechos humanos de las mujeres con perspectiva de género, para garantizarles una vida libre de violencia;
+
+II. Coadyuvar en la promoción de los derechos humanos de las mujeres;
+
+III. Formular la política de desarrollo social del Estado considerando el adelanto de las mujeres y su plena participación en todos los ámbitos de la vida;
+
+IV. Realizar acciones tendientes a mejorar las condiciones de las mujeres y sus familias que se encuentren en situación de exclusión y de pobreza;
+
+V. Promover políticas de igualdad de condiciones y oportunidades entre mujeres y hombres, eliminando brechas y desventajas de genero;
+
+VI. Promover políticas de prevención y atención de la violencia contra las mujeres;
+
+VII. Establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del sistema y del programa;
+
+VIII. Celebrar convenios de cooperación, coordinación y concertación en la materia; y
+
+IX. Las demás previstas para el cumplimiento de la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2023)</small>
+
+###### Artículo 64.
+
+Corresponde a la Secretaría de Desarrollo Económico, Ciencia y Tecnología:
+
+I. Implementar un proyecto especial de crédito a la palabra para mujeres víctimas de violencia de género;
+
+II. Instrumentar cursos de capacitación empresarial para mujeres víctimas de violencia de género;
+
+III. Diseñar y ejecutar programas especiales de capacitación técnica y productividad para mujeres víctimas de violencia de género;
+
+IV. Instalar módulos de información en sus oficinas en el Estado sobre las causas y efectos de la violencia de género contra las mujeres y su relación con la violencia social;
+
+V. Rendir un informe bimensual a la Coordinación General del Consejo de las actividades realizadas; y
+
+VI. Las demás que le asigne el Programa.
+
+###### Artículo 65.
+
+Corresponde a la Secretaría de Turismo:
+
+I. Implementar acciones de prevención del turismo sexual infantil y la trata de personas, con especial énfasis en los municipios, con proyectos de desarrollo eco-turístico;
+
+II. Instalar en los centros turísticos módulos de información para la población local sobre las causas y efectos de la violencia de género contra las mujeres y su relación con la violencia social;
+
+III. Rendir un informe bimensual a la Coordinación General del Consejo de las actividades realizadas; y
+
+IV. Las demás que le asigne el Programa.
+
+###### Artículo 66.
+
+Forman parte del Sector de Asistencia Social:
+
+I. El Sistema Estatal para el Desarrollo Integral de la Familia;
+
+II. La Dirección General del Registro Civil;
+
+> <small>(REFORMADA, P.O. 28 DE JULIO DE 2014)</small>
+
+III. La Secretaría de la Juventud; y
+
+IV. El Instituto del Deporte del Estado de Aguascalientes.
+
+###### Artículo 67.
+
+Corresponde al Sistema Estatal para el Desarrollo Integral de la Familia:
+
+I. Impulsar la instalación de Núcleos de Atención Integral en los centros de Desarrollo Integral de la Familia, estatal y municipales;
+
+II. Implementar un programa especial de asistencia social para mujeres víctimas de violencia de género;
+
+III. Ejecutar campañas de prevención sobre violencia de género contra las mujeres, las que tendrán por objetivo que la sociedad perciba el fenómeno como un asunto de seguridad pública y de derechos humanos, y no como un problema familiar;
+
+> <small>(REFORMADA, P.O. 31 DE MAYO DE 2021)</small>
+
+IV. Impulsar procesos de capacitación sobre la violencia de género contra las mujeres, así como del empoderamiento de la mujer para servidoras y servidores públicos del Sistema Estatal para el Desarrollo Integral de la Familia; así como para los comités municipales del mismo;
+
+V. Apoyar la realización de proyectos de investigación en los municipios sobre temas relacionados con la violencia de género contra las mujeres;
+
+VI. Instalar módulos de información en sus oficinas en el Estado sobre las causas y efectos de la violencia de género contra las mujeres y su relación con la violencia social;
+
+VII. Rendir un informe bimensual a la Coordinación General del Consejo de las actividades realizadas; y
+
+VIII. Las demás que le asigne el Programa.
+
+###### Artículo 68.
+
+Corresponde a la Dirección General del Registro Civil:
+
+I. Impulsar procesos formales de capacitación sobre la violencia de género contra las mujeres para sus servidoras y servidores públicos;
+
+II. Diseñar y ofrecer un instrumento de información para los nuevos matrimonios sobre las causas y efectos de la violencia de género contra las mujeres;
+
+III. Diseñar un instrumento orientado a la democratización de las relaciones de pareja para su lectura durante la celebración del matrimonio civil;
+
+IV. Impulsar un programa gratuito para que las mujeres obtengan su registro civil;
+
+V. Instalar módulos de información en sus oficinas en el Estado sobre las causas y efectos de la violencia de género contra las mujeres y su relación con la violencia social;
+
+VI. Rendir un informe bimensual a la Coordinación General del Consejo de las actividades realizadas; y
+
+VII. Las demás que le asigne el Programa.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2014)</small>
+
+###### Artículo 69.
+
+Corresponde a la Secretaría de la Juventud:
+
+I. Ejecutar campañas de información y difusión para jóvenes sobre las causas y efectos de la violencia de género que se ejerce contra las mujeres en la relación de noviazgo o en cualquier otra relación de hecho; así como para impulsar el respeto al derecho de libertad y autonomía de las mujeres;
+
+II. Instalar módulos de información en sus oficinas en el Estado sobre las causas y efectos de la violencia de género contra las mujeres y su relación con la violencia social;
+
+III. Rendir un informe bimensual a la Coordinación General del Consejo de las actividades realizadas; y
+
+IV. Las demás que le asigne el Programa.
+
+###### Artículo 70.
+
+Corresponde al Instituto del Deporte del Estado de Aguascalientes:
+
+I. Ejecutar campañas de información y difusión dirigidas a la comunidad deportista sobre las causas y efectos de la violencia de género contra las mujeres;
+
+II. Instalar módulos de información en sus oficinas en el Estado sobre las causas y efectos de la violencia de género contra las mujeres y su relación con la violencia social;
+
+III. Rendir un informe bimensual a la Coordinación General del Consejo de las actividades realizadas; y
+
+IV. Las demás que le asigne el Programa.
+
+###### Artículo 71.
+
+Forman parte del Sector Medios de Comunicación:
+
+I. Las Corporaciones de Radio y Televisión del Estado;
+
+II. La Coordinación de Comunicación Social del Gobierno del Estado de Aguascalientes; y
+
+III. La Unidad de Imagen del Gobierno del Estado.
+
+###### Artículo 72.
+
+Corresponde a las Corporaciones de Radio y Televisión del Estado:
+
+I. Difundir, a través de los medios de comunicación, el derecho que tienen las mujeres de vivir una vida libre de violencia;
+
+II. Difundir el procedimiento de denuncia y los espacios de atención integral para las víctimas de violencia de género, así como las instituciones públicas y privadas que prestan estos servicios;
+
+III. Producir series televisivas y radiofónicas orientadas a que la sociedad perciba la violencia de género contra las mujeres como delito, como un asunto de seguridad ciudadana y de derechos humanos;
+
+IV. Impulsar procesos de capacitación para su personal, con la finalidad de fortalecer el respeto a los derechos humanos y la dignidad de las mujeres;
+
+V. Rendir un informe bimensual a la Coordinación General del Consejo de las actividades realizadas; y
+
+VI. Las demás que le asigne el Programa.
+
+###### Artículo 73.
+
+Corresponde a la Coordinación de Comunicación Social del Gobierno del Estado de Aguascalientes:
+
+I. Producir secciones en prensa escrita sobre el derecho que tienen las mujeres a vivir una vida libre de violencia, así como sobre la prevención y procedimiento de denuncia del fenómeno;
+
+II. Impulsar procesos de capacitación para su personal, con la finalidad de fortalecer el respeto a los derechos humanos y la dignidad de las mujeres;
+
+III. Rendir un informe bimensual a la Coordinación General del Consejo de las actividades realizadas; y
+
+IV. Las demás que le asigne el Programa.
+
+###### Artículo 74.
+
+Corresponde a la Unidad de Imagen del Gobierno del Estado:
+
+I. Producir la totalidad de mensajes de radio, televisión, prensa y comunicación gráfica, incluida la virtual, desde la perspectiva de género, con el propósito de promover relaciones equitativas entre mujeres y hombres;
+
+II. Rendir un informe bimensual a la Coordinación General del Consejo de las actividades realizadas; y
+
+III. Las demás que le asigne el Programa.
+
+#### SECCIÓN SEGUNDA. Del Poder Judicial
+
+###### Artículo 75.
+
+Corresponde al Supremo Tribunal de Justicia:
+
+I. Desarrollar un programa de capacitación permanente sobre la violencia de género contra las mujeres;
+
+II. Incorporar en sus sistemas estadísticos, indicadores que faciliten el monitoreo de las tendencias socio-jurídicas del fenómeno y la consecuente aplicación de la presente ley;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
+
+III. Institucionalizar la perspectiva de género en la administración e impartición de justicia;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
+
+IV. Difundir permanentemente el procedimiento judicial en materia de violencia de género contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2018)</small>
+
+V. Promover internamente mecanismos para prevenir, atender, sancionar y erradicar el hostigamiento y acoso sexual; y
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2018)</small>
+
+VI. Promover la cultura de respeto a los derechos humanos y garantizar la seguridad de quienes denuncian.
+
+#### SECCIÓN TERCERA. Del Poder Legislativo
+
+###### Artículo 76.
+
+Corresponde al Congreso del Estado, a través de las Comisiones respectivas:
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
+
+I. Vigilar que el marco normativo del Estado garantice el cumplimiento de la presente ley;
+
+> <small>(REFORMADA, P.O. 9 DE JULIO DE 2018)</small>
+
+II. Institucionalizar la perspectiva de género en el proceso legislativo y realizar estudios de género; y
+
+> <small>(ADICIONADA, P.O. 9 DE JULIO DE 2018)</small>
+
+III. Promover internamente mecanismos para prevenir, atender, sancionar y erradicar el hostigamiento y acoso sexual.
+
+#### SECCIÓN CUARTA. De la Comisión Estatal de Derechos Humanos
+
+###### Artículo 77.
+
+Corresponde a la Comisión Estatal de los Derechos Humanos:
+
+I. Institucionalizar la perspectiva de género en el ejercicio de las funciones sustantivas y administrativas de la Comisión;
+
+II. Implementar campañas de información en las regiones del Estado sobre el derecho de las mujeres a vivir una vida libre de violencia, lo mismo en el ámbito público que en el privado, y difundir el procedimiento para interponer quejas por presuntas violaciones a este derecho fundamental, cuando fueren imputables a autoridades o servidoras o servidores públicos estatales o municipales;
+
+III. Implementar en sus sistemas estadísticos la incorporación de indicadores que faciliten el monitoreo de las tendencias socio-jurídicas del fenómeno y la consecuente aplicación de la ley;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2016)</small>
+
+IV. Rendir un informe bimensual de actividades a la Coordinación General del Consejo;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2016)</small>
+
+V. Solicitar la declaratoria de Alerta de Violencia de Género, conforme a lo establecido en la Ley General; y
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2016)</small>
+
+VI. Las demás que le asigne el Programa.
+
+#### SECCIÓN QUINTA. De los Municipios
+
+###### Artículo 78.
+
+Corresponde a los Municipios:
+
+I. Diseñar, formular y aplicar, en concordancia con la política estatal, la política municipal orientada a erradicar la violencia de género contra las mujeres;
+
+II. Promover la instalación de Núcleos de Atención Integral;
+
+III. Implementar procesos de especialización para el personal responsable de la atención;
+
+IV. Instalar módulos de información sobre las causas y consecuencias de la violencia de género contra las mujeres y su relación con la violencia social; y
+
+V. Los demás asuntos que en materia de violencia de género contra las mujeres les confiera esta Ley u otros ordenamientos legales.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE JUNIO DE 2017)</small>
+
+#### SECCIÓN SEXTA. Del Instituto Estatal Electoral
+
+> <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2017)</small>
+
+###### Artículo 79.
+
+Corresponde al Instituto Estatal Electoral, en el ámbito de su competencia:
+
+I.- Prevenir, atender, sancionar y en su caso erradicar la violencia política de género;
+
+II.- Garantizar la igualdad sustantiva y el pleno ejercicio de los derechos políticos de las mujeres;
+
+III.- Realizar la difusión en los medios de comunicación de las conductas, acciones u omisiones que conllevan a la violencia política de género, así como la prevención, formas de denuncia y conciencia sobre la erradicación de ésta;
+
+> <small>(REFORMADA, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+IV.- Capacitar a las personas integrantes de sus organismos y demás personal adscrito al propio Instituto o funcionarios electorales, para prevenir y en su caso erradicar la violencia política de género;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+V.- Promover la cultura de la no violencia en el marco del ejercicio de los derechos políticos y electorales de las mujeres;
+
+> <small>(ADICIONADA, P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+VI.- Sancionar, de acuerdo con la normatividad aplicable, las conductas que constituyan violencia política contra las mujeres en razón de género; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 7 DE DICIEMBRE DE 2020)</small>
+
+VII.- Las demás le asignen el Programa, o que establezcan esta Ley y otras disposiciones aplicables.
+
+TRANSITORIOS:
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado emitirá el Reglamento de la Ley, dentro de los noventa días siguientes a la entrada en vigencia del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Los Consejos Estatal y Municipales, se instalarán en un plazo no mayor de noventa días contados a partir de la entrada en vigencia de la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+Dentro de los treinta días posteriores a la instalación de los Consejos Estatal y Municipal, deberá aprobarse el Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia de Género contra las Mujeres.
+
+###### ARTÍCULO QUINTO.
+
+El Sistema Estatal de Información sobre la Violencia de Género contra las Mujeres, a que se refiere el segundo párrafo del Artículo 34, deberá integrarse dentro de los trescientos sesenta y cinco días siguientes a la instalación del Consejo Estatal.
+
+Al Ejecutivo para su promulgación y publicación.
+
+Dado en el Salón de Sesiones del Palacio Legislativo, en la Ciudad de Aguascalientes, a los quince días del mes de octubre del año 2007.
+
+Lo que tenemos el honor de comunicar a Usted, para los efectos constitucionales conducentes.
+
+Aguascalientes, Ags., a 15 de octubre del año 2007.
+
+SUFRAGIO EFECTIVO. NO REELECCION.
+
+María Guadalupe Díaz Martínez,
+
+DIPUTADA PRESIDENTE.
+
+Dip. César Pérez Uribe,
+
+PRIMER SECRETARIO.
+
+Dip. Ubaldo Treviño Soledad,
+
+SEGUNDO SECRETARIO.
+
+Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
+
+Aguascalientes, Ags., 22 de noviembre de 2007.
+
+Luis Armando Reynoso Femat,
+
+El SECRETARIO GENERAL DE GOBIERNO,
+
+Lic. Juan Angel Pérez Talamantes.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.]</small>
+
+P.O. 2 DE AGOSTO DE 2010.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 5 DE MARZO DE 2012.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el periódico Oficial del Estado.
+
+P.O. 25 DE FEBRERO DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su Publicación en el Periódico Oficial del Estado.
+
+P.O. 28 DE JULIO DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE SEPTIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE MARZO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE JULIO DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, las referencias a dicha Fiscalía contenidas en el presente Decreto, se entenderán echas (sic) a la Procuraduría General de la Republica.
+
+P.O. 25 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 296.- SE REFORMA LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 22 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 311.- SE REFORMA Y ADICIONA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los ciento veinte días hábiles siguientes al inicio de vigencia del presente Decreto, deberán realizarse las adecuaciones conducentes al Reglamento de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes.
+
+P.O. 22 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 370.- SE REFORMA Y ADICIONA EL ARTÍCULO 8º DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE AGOSTO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 371.- SE REFORMAN LOS ARTÍCULOS 27 Y 30 BIS, DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el periódico oficial del Estado.
+
+P.O. 19 DE JUNIO DE 2017.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 99.- SE ADICIONA Y REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 10 DE JULIO DE 2017.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 117.- SE REFORMA Y ADICIONA LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se exhorta a los Ayuntamientos del Estado a armonizar sus disposiciones reglamentarias con la presente reforma dentro de los 180 días contados a partir de la entrada en vigencia de la misma, a fin de implementar mecanismos para sancionar el acoso callejero.
+
+P.O. 2 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 336.- SE REFORMAN LAS FRACCIONES VII Y VIII DEL ARTÍCULO 8°, Y LA FRACCIÓN IV DEL ARTÍCULO 9°; ASÍ COMO SE ADICIONA UNA FRACCIÓN IX AL ARTÍCULO 8°, Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 15, TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 9 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 343.- SE REFORMAN LAS FRACCIONES VII Y VIII DEL ARTÍCULO 2º, EL ARTÍCULO 13, Y LA FRACCIÓN I DEL TERCER PÁRRAFO DEL ARTÍCULO 30 BIS; ASÍ COMO SE ADICIONA UNA FRACCIÓN IX AL ARTÍCULO 2º, TODOS DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia a partir del día siguiente al de su publicación.
+
+P.O. 9 DE JULIO DE 2018.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 345.- SE REFORMAN LAS FRACCIONES V, VII, XVI, XVII DEL ARTÍCULO 36; LAS FRACCIONES III Y IV DEL ARTÍCULO 75; Y LAS FRACCIONES I Y II DEL ARTÍCULO 76; ASÍ COMO ADICIONAR UNA FRACCIÓN XVIII AL ARTÍCULO 36; UNAS FRACCIONES V Y VI AL ARTÍCULO 75; Y UNA FRACCIÓN III AL ARTÍCULO 76; DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 18 DE MARZO DE 2019.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 117.- SE REFORMA EL ARTÍCULO 2° DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 28 DE NOVIEMBRE DE 2019.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 244.- ARTÍCULO PRIMERO.- SE REFORMAN EL PRIMER PÁRRAFO Y LAS FRACCIONES XIX Y XX DEL ARTÍCULO 3°; LA FRACCIÓN I, VIII Y IX DEL ARTÍCULO 8°; LA FRACCIÓN XV DEL ARTÍCULO 36; Y LA FRACCIÓN XIV DEL ARTÍCULO 48; ASÍ MISMO SE ADICIONAN LA FRACCIÓN XXI AL ARTÍCULO 3° Y LA FRACCIÓN X DEL ARTÍCULO 8° DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES; ARTÍCULO SEGUNDO.- SE REFORMAN LOS PÁRRAFOS SEGUNDO Y TERCERO DEL ARTÍCULO 181, Y SE ADICIONA EL ARTÍCULO 181 B DEL CÓDIGO PENAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 7 DE DICIEMBRE DE 2020.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 428.- REFORMAS Y ADICIONES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El Presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 31 DE MAYO DE 2021.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 554 - SE REFORMAN LA (SIC) FRACCIONES I, V Y VI DEL ARTÍCULO 4°; LAS FRACCIONES VII Y VIII DEL ARTÍCULO 59, LA FRACCIÓN IV DEL ARTÍCULO 67 Y SE ADICIONAN LAS FRACCIONES VII, VIII, IX Y X AL ARTÍCULO 4°, LAS FRACCIONES IX, X, XI, XII Y XIII AL ARTÍCULO 59 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+ÚNICO.- El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 2 DE AGOSTO DE 2021.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 598.- SE REFORMAN LOS ARTÍCULOS 26 PÁRRAFO SEGUNDO; 27 PÁRRAFO SEGUNDO Y TERCERO; 28 PÁRRAFO PRIMERO; Y 29 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El Presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos de la entidad deberán adecuar sus normas internas de conformidad con esta Reforma, en un plazo máximo de un año contado a partir de su inicio de vigencia.
+
+P.O. 20 DE DICIEMBRE DE 2021.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 47.- SE REFORMA EL ARTÍCULO 26 Y SE ADICIONAN LOS ARTÍCULOS 30 TER, 30 QUÁTER, 30 QUINQUIES, 30 SEXIES, 30 SEPTIES, 30 OCTIES Y 30 NONIES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado
+
+P.O. 20 DE DICIEMBRE DE 2021.
+
+> <small>[N. DE E. TANSITORIO DEL “DECRETO NÚMERO 48.- SE ADICIONA EL ARTÍCULO 2 BIS A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]</small>
+
+###### ARTICULO ÚNICO.
+
+La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 21 DE MARZO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 87.- ARTÍCULO ÚNICO.- SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 30 DE MAYO DE 2022.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 131.- SE REFORMAN LOS ARTÍCULOS 1º, 2º FRACCIONES I, III, IV, V Y VI, ARTÍCULO 4º FRACCIONES IX Y X, ARTÍCULO 8º FRACCIONES I, III Y V, ARTÍCULO 48 FRACCIÓN XIII Y ARTÍCULO 49; Y SE ADICIONAN LA FRACCIÓN XI AL ARTÍCULO 4° DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los noventa días naturales siguientes al inicio de vigencia del presente Decreto, deberán realizarse las adecuaciones conducentes al Reglamento de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes.
+
+P.O. 23 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 259.- SE REFORMA LA LEY DE CAMBIO CLIMÁTICO PARA EL ESTADO DE AGUASCALIENTES; LA LEY DE LA JUVENTUD DEL ESTADO DE AGUASCALIENTES; LA LEY DE PROTECCIÓN Y FOMENTO DEL PATRIMONIO CULTURAL DEL ESTADO DE AGUASCALIENTES; Y DIVERSOS ORDENAMIENTOS".]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 23 DE ENERO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUMERO 261.- SE REFORMAN LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES; Y, LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 315.- REFORMA A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La Fiscalía General del Estado de Aguascalientes deberá en un plazo no mayor a ciento ochenta días hábiles a la entrada en vigor del presente Decreto, dar cumplimiento a lo dispuesto en la fracción XII del artículo 60 de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia.
+
+P.O. 8 DE MAYO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 318.- REFORMA A LA LEY DE FOMENTO PARA EL DESARROLLO DE LOS JÓVENES EMPRENDEDORES DEL ESTADO DE AGUASCALIENTES Y A DIVERSAS NORMAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarías que se opongan al presente Decreto.
+
+P.O. 12 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 355.- SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 19 DE JUNIO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 366.- SE REFORMAN LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES; EL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES; LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE AGUASCALIENTES; Y, EL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Decreto, quedan sin efectos las disposiciones legales y reglamentarias que se opongan al mismo.
+
+P.O. 3 DE JULIO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 375.- SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciara su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 7 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 399.-SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+– El Poder Ejecutivo del Estado, en un plazo no mayor a noventa días naturales a la entrada en vigor del presente Decreto, deberá realizar las modificaciones necesarias al Reglamento de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes.
+
+P.O. 7 DE AGOSTO DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 408.- SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 6 DE NOVIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 460.- SE REFORMA Y ADICIONA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 18 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 510.- SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 25 DE DICIEMBRE DE 2023.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 518.- SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 15 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 540.- SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 15 DE ENERO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 546.- SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 13 DE MAYO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 643.- SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 1 DE JULIO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 721.- SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 13 DE AGOSTO DE 2024.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 783.- SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 7 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 160.- SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 12 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 173.- SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Ejecutivo del Estado deberá realizar las modificaciones necesarias al Reglamento de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia, en un plazo no mayor a 90 días naturales, contados a partir de la publicación del presente Decreto en el Periódico Oficial del Estado.
+
+P.O. 19 DE MAYO DE 2025.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 168.- SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 10 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 281.- SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 24 DE NOVIEMBRE DE 2025.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 304.- SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
