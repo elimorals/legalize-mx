@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2026-04-20"
+last_updated: "2026-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2026.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -3961,17 +3961,17 @@ IX.- Cuando quien la ejerza obligue a la niña, niño o adolescente a realizar l
 
 X.- Cuando quien la ejerza permita o tolere que otras personas atenten contra la seguridad e integridad física, emocional o sexual de la niña, niño o adolescente;
 
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2026)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 27 DE ABRIL DE 2026)</small>
 
 XI.- Por el incumplimiento reiterado de las determinaciones judiciales que se hayan ordenado al que ejerza la patria potestad, tendientes a corregir la violencia familiar o las que se emitan para regular la custodia, el régimen de convivencias o el cumplimiento de sus obligaciones y éstas hayan afectado a las niñas, niños o adolescentes;
 
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2026)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 27 DE ABRIL DE 2026)</small>
 
 XII.- Cuando se realicen conductas que provoquen alienación parental de acuerdo con el diagnostico psicológico realizado por perito en la materia; o
 
-> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2026)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE ABRIL DE 2026)</small>
 
-XIII.- Cuando uno o ambos progenitores padezcan adicción o dependencia habitual al consumo de sustancias ilícitas previstas en la Ley General de Salud, o al consumo abusivo de sustancias lícitas, y derivado de dicha condición incumplan de manera grave o reiterada sus deberes de cuidado, protección y crianza, colocando con ello a las niñas, niños o adolescentes en una situación de riesgo real para su vida, salud, seguridad, integridad física o psicológica, dignidad o desarrollo integral.
+XIII.- Cuando la persona que la ejerza incurra y sea condenada por el delito de feminicidio previsto en el Código Penal para el Estado de Aguascalientes, cometido en contra de la madre de las niñas, niños y adolescentes, sujetos a patria potestad.
 
 > <small>(ADICIONADO, P.O. 6 DE ABRIL DE 2026)</small>
 
@@ -4041,17 +4041,17 @@ III.- Por sentencia condenatoria que imponga como pena esta suspensión;
 
 IV.- Por disponer de los bienes de la niña, niño o adolescente sin autorización judicial, en los casos en que esta sea requerida por la ley;
 
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2026)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 27 DE ABRIL DE 2026)</small>
 
 V.- Por negar o no permitir se lleven a cabo las convivencias decretadas por autoridad competente o fijadas mediante convenio judicial;
 
-> <small>(REFORMADA, P.O. 6 DE ABRIL DE 2026)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 27 DE ABRIL DE 2026)</small>
 
 VI.- Cuando en una resolución judicial firme, se determine la existencia de actos de manipulación que generen rencor, antipatía, desagrado, temor o alienación parental, respecto al progenitor que la haya generado; o
 
-> <small>(ADICIONADA, P.O. 6 DE ABRIL DE 2026)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE ABRIL DE 2026)</small>
 
-VII.- Cuando el consumo del alcohol o el uso no terapéutico de las sustancias ilícitas a que hace referencia la Ley General de Salud y de las lícitas no destinadas a ese uso, que produzcan efectos psicotrópicos, sea realizado de manera habitual y dicha circunstancia cause perjuicio o ponga en riesgo el desarrollo de niñas, niños y adolescentes.
+VII.- Por decretarse auto de vinculación a proceso dictado por el delito de feminicidio o su tentativa, cometido en contra de la madre de las niñas, niños y adolescentes, sujetos a patria potestad.
 
 > <small>(ADICIONADO, P.O. 28 DE JUNIO DE 2021)</small>
 
@@ -18484,3 +18484,11 @@ P.O. 20 DE ABRIL DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 27 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 461.- SE REFORMA EL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
