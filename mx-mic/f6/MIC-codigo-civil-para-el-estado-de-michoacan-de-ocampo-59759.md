@@ -4,7 +4,7 @@ identifier: "MIC-codigo-civil-para-el-estado-de-michoacan-de-ocampo-59759"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-02-11"
-last_updated: "2026-02-12"
+last_updated: "2026-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59759&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO CIVIL PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2026.
 
 Código publicado en la Segunda Sección al Periódico Oficial del Estado de Michoacán, el lunes 11 de febrero de 2008.
 
@@ -2281,9 +2281,13 @@ La prescripción se interrumpe:
 
 I. Si el poseedor es privado de la posesión de la cosa o del goce del derecho por más de un año;
 
-II. Por demanda u otro cualquier género de interpelación judicial notificada al poseedor o al deudor en su caso.
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
 
-Se considerará la prescripción como no interrumpida por la interpelación judicial, si el actor desistiese de ella, o fuese desestimada su demanda; y,
+II. Por demanda, u otro cualquier género de interpelación judicial notificada al poseedor o al deudor en su caso, respecto del bien poseído.
+
+Se considerará la prescripción como no interrumpida por la interpelación judicial, si el actor desistiese de ella, o fuese desestimada su demanda;
+
+Tratándose de la posesión de mala fe, la prescripción también podrá interrumpirse por denuncia o querella penal, pero se tendrá por no interrumpida cuando se extinga la acción penal o se pronuncie cualquier otra determinación que tenga los efectos de la sentencia absolutoria; y,
 
 III. Porque la persona a cuyo favor corre la prescripción reconozca expresamente, de palabra o por escrito, o tácitamente por hechos indudables, el derecho de la persona contra quien prescribe.
 
@@ -8143,9 +8147,11 @@ Lo dispuesto en el artículo 1626 es aplicable a los aperos de la finca arrendad
 
 ### CAPÍTULO VII. DISPOSICIONES ESPECIALES RESPECTO DE LOS ARRENDAMIENTOS POR TIEMPO INDETERMINADO
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
+
 ###### Artículo 1639.
 
-Todos los arrendamientos, sean de predios rústicos o urbanos, que no se hayan celebrado por tiempo expresamente determinado, concluirán a voluntad de cualquiera de las partes contratantes, previo aviso a la otra parte dado en forma indubitable con dos meses de anticipación si el predio es urbano, y con un año si es rústico.
+Todos los arrendamientos, sean de predios rústicos o urbanos, que no se hayan celebrado por tiempo expresamente determinado, concluirán a voluntad de cualquiera de las partes contratantes, previo aviso a la otra parte dado en forma indubitable con un mes de anticipación si el predio es urbano, y con un año si es rústico.
 
 ###### Artículo 1640.
 
@@ -11056,3 +11062,15 @@ P.O. 12 DE FEBRERO DE 2026.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente a su publicación.
 
 SEGUNDO. Se derogan las disposiciones legales y administrativas en lo que se opongan al presente Decreto.
+
+P.O. 27 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 432.- ARTÍCULO ÚNICO.- SE REFORMA EL ARTICULO 1639 DEL CÓDIGO CIVIL PARA EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 27 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 433.- ARTÍCULO ÚNICO.- SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 439 DEL CÓDIGO CIVIL PARA EL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
