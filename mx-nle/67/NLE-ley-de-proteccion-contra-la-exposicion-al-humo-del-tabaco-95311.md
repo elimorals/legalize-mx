@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-proteccion-contra-la-exposicion-al-humo-del-tabaco-95311
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-14"
-last_updated: "2020-12-30"
+last_updated: "2026-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95311&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DEL TABACO DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2026.
 
 Decreto publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 14 de junio de 2013.
 
@@ -333,9 +333,11 @@ Los funcionarios y servidores públicos que violen lo dispuesto en la presente L
 
 El Ejecutivo del Estado, a través de la Secretaría, se coordinará y coadyuvará con los titulares de las dependencias de la Administración Pública Estatal, para que en sus instalaciones, se establezcan las medidas necesarias para el cumplimiento de esta Ley.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
+
 ###### Artículo 25.
 
-La Secretaría, en coordinación con las autoridades federales, estatales, municipales y los sectores social y privado, implementará programas preventivos permanentes contra los efectos nocivos causados por el consumo de tabaco, a fin de fomentar que sus disposiciones sean aplicadas, así mismo se llevaran a cabo campañas de información consistentes en: La promoción, orientación y educación de la población sobre los riesgos a la salud por el consumo del tabaco y a la exposición a su humo.
+La Secretaría, en coordinación con las autoridades federales, estatales, municipales y los sectores social y privado, implementará programas preventivos permanentes contra los efectos nocivos causados por el consumo de tabaco, a fin de fomentar que sus disposiciones sean aplicadas, así mismo se llevaran a cabo campañas de información consistentes en: La promoción, orientación y educación de la población sobre los riesgos a la salud por el consumo del tabaco y a la exposición a su humo, así como las consecuencias derivadas de la inadecuada disposición de los residuos sólidos provenientes de productos de tabaco.
 
 ###### Artículo 26.
 
@@ -584,3 +586,11 @@ P.O. 30 DE DICIEMBRE DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 436. SE APRUEBAN REFORMAS A DIVERSAS LEYES ESTATALES, RELATIVAS A LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN. (UMA)”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 203. SE REFORMA EL ARTÍCULO 25 DE LA LEY DE PROTECCIÓN CONTRA LA EXPOSICIÓN AL HUMO DEL TABACO DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO. Los sujetos obligados en el cumplimiento del presente Decreto, tendrán un plazo de 180 días, a la entrada en vigor, para la armonización y adecuación de sus respectivos reglamentos.
