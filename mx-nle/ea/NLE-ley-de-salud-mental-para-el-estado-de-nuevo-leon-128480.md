@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-salud-mental-para-el-estado-de-nuevo-leon-128480"
 country: "mx"
 rank: "ley"
 publication_date: "2018-05-09"
-last_updated: "2025-10-17"
+last_updated: "2026-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=128480&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE SALUD MENTAL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2026.
 
 Ley publicada en la Sección III al Número 58 del Periódico Oficial del Estado de Nuevo León, el miércoles 9 de mayo de 2018.
 
@@ -597,9 +597,9 @@ VII. La recuperación del bienestar psíquico y la rehabilitación de las person
 
 VIII. La reinserción social mediante acciones desarrolladas en conjunto con las áreas de Trabajo, Educación, Asistencia Social y aquellas que fuesen necesarias para efectivizar la recuperación y rehabilitación del asistido;
 
-> <small>(ADICIONADA, P.O. 31 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
 
-VIII Bis.- La realización de programas y políticas públicas de prevención, atención, apoyo y seguimiento de problemas de salud mental, dirigidos al personal del sector salud que lo requiera, derivado de algún desastre natural, emergencia sanitaria o distanciamiento social determinados por la autoridad competente;
+VIII Bis.- La implementación de programas y políticas públicas de prevención, atención, apoyo y seguimiento en materia de salud mental, dirigidos a practicantes y al personal del sector salud, de manera permanente, y de forma prioritaria cuando lo requieran con motivo de desastres naturales, emergencias sanitarias, distanciamiento social determinados por la autoridad competente;
 
 > <small>(ADICIONADA, P.O. 31 DE MARZO DE 2021)</small>
 
@@ -1232,3 +1232,9 @@ P.O. 17 DE OCTUBRE DE 2025.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Para dar cumplimiento a las obligaciones emanadas del presente Decreto, estas se realizarán atendiendo a la suficiencia presupuestal del ente ejecutor.
+
+P.O. 27 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 204. SE REFORMA LA FRACCIÓN VIII BIS DEL ARTÍCULO 36 A LA LEY DE SALUD MENTAL PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
