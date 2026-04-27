@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2026-04-06"
+last_updated: "2026-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2026.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -2637,9 +2637,17 @@ El Gobierno del Estado se coordinará con las autoridades sanitarias federales y
 
 I.- La prevención y el tratamiento del alcoholismo y, en su caso, la rehabilitación de los alcohólicos;
 
-II.- La educación sobre los efectos del alcohol en el organismo, el daño a la salud por el abuso del mismo en las relaciones sociales, dirigida especialmente a niños, adolescentes, obreros y campesinos, a través de métodos individuales, sociales o de comunicación masiva; y
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
 
-III.- El fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el alcoholismo, especialmente en zonas rurales y en los grupos de población considerados de alto riesgo.
+II.- La educación sobre los efectos del alcohol en el organismo, el daño a la salud por el abuso del mismo en las relaciones sociales, dirigida especialmente a niños, adolescentes, obreros y campesinos, a través de métodos individuales, sociales o de comunicación masiva;
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+III.- El fomento de actividades cívicas, deportivas y culturales que coadyuven en la lucha contra el alcoholismo, especialmente en zonas rurales y en los grupos de población considerados de alto riesgo; y
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+IV.- La colaboración de acciones derivadas del programa contra el alcoholismo en las instituciones de educación secundaria y media superior del Estado, en coordinación con el Instituto de Educación de Aguascalientes, para la prevención y concientización sobre las consecuencias del consumo de alcohol, de conformidad con los acuerdos que se celebren con la autoridad competente.
 
 ###### ARTICULO 159.
 
@@ -4764,3 +4772,15 @@ P.O. 6 DE ABRIL DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 27 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 460.- SE REFORMA LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+El Ejecutivo del Estado contará con un plazo de 90 días naturales a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones reglamentarias y administrativas necesarias para el cumplimiento de lo dispuesto en el presente Decreto.
