@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-los-jovenes-del-estado-de-michoacan-de-ocampo-81518"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-24"
-last_updated: "2025-05-06"
+last_updated: "2026-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81518&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE LOS JÓVENES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2026.
 
 Ley publicada en la quinta sección del Periódico Oficial del Estado de Michoacán, el martes 24 de mayo de 2011.
 
@@ -633,6 +633,56 @@ Además deben crear y actualizar un banco de datos de las instancias de Gobierno
 
 Las autoridades y servidores públicos considerados en la presente Ley que incumplan con la misma, serán sujetos de responsabilidad, de conformidad con lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo y la Ley de Responsabilidades de los Servidores Públicos del Estado de Michoacán.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE ABRIL DE 2026)</small>
+
+### CAPÍTULO DÉCIMO. DE LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA LETAL ENTRE PERSONAS JÓVENES CON VÍNCULOS DE CONFIANZA
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2026)</small>
+
+###### ARTÍCULO 41.
+
+El Instituto de la Juventud Michoacana fomentará acciones de prevención, orientación y atención temprana dirigidas a reducir factores de riesgo de violencia grave entre personas jóvenes que mantengan vínculos afectivos, sociales, escolares o de convivencia cotidiana, en el ámbito de sus atribuciones y de conformidad con la normativa aplicable.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2026)</small>
+
+###### ARTÍCULO 42.
+
+El Instituto de la Juventud Michoacana, en coordinación con las dependencias, entidades, municipios e instituciones educativas de nivel medio superior, públicas o privadas, fomentará programas de:
+
+I. Educación emocional y resolución pacífica de conflictos;
+
+II. Identificación de factores de riesgo psicosocial en relaciones interpersonales;
+
+III. Mecanismos de orientación y canalización institucional; y,
+
+IV. Campañas de cultura del respeto, empatía y prevención de la violencia.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2026)</small>
+
+###### ARTÍCULO 43.
+
+El Instituto de la Juventud Michoacana elaborará, con el apoyo de personal con perfil jurídico, psicológico y de trabajo social, lineamientos de actuación administrativa para la detección, orientación y canalización de situaciones de riesgo psicosocial entre personas jóvenes con vínculos de confianza.
+
+Dichos lineamientos no tendrán carácter de investigación ni sustituirán las atribuciones de las autoridades de seguridad pública o de procuración de justicia.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2026)</small>
+
+###### ARTÍCULO 44.
+
+Las instituciones educativas y dependencias que participen en las acciones previstas en este Capítulo fomentarán la designación, conforme a su normativa interna, de una persona responsable de enlace institucional para efectos de orientación y canalización, sin que ello implique la creación de nuevas unidades administrativas ni obligaciones presupuestales adicionales.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2026)</small>
+
+###### ARTÍCULO 45.
+
+El Instituto fomentará la integración y análisis de información estadística, general y pública, proveniente de fuentes oficiales, con fines de diagnóstico y diseño de políticas públicas preventivas dirigidas a las juventudes, sin concentrar datos personales ni información reservada.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2026)</small>
+
+###### ARTÍCULO 46.
+
+Se establece el Día Estatal por la Prevención de la Violencia Letal entre Personas Jóvenes, el cual se conmemorará anualmente en la fecha que determine el Ejecutivo del Estado, a través de actividades de concientización y memoria.
+
 ## TRANSITORIOS
 
 ###### ARTÍCULO PRIMERO.
@@ -722,3 +772,15 @@ P.O. 6 DE MAYO DE 2025.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 Segundo. Notifíquese al Titular del Poder Ejecutivo, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo y trámites correspondientes.
+
+P.O. 27 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 421.- ARTÍCULO ÚNICO.- SE ADICIONA UN CAPÍTULO DÉCIMO "DE LA PREVENCIÓN Y ATENCIÓN DE LA VIOLENCIA LETAL ENTRE PERSONAS JÓVENES CON VÍNCULOS DE CONFIANZA", ASÍ COMO LOS ARTÍCULOS 41, 42, 43, 44, 45 Y 46 A LA LEY DE LOS JÓVENES DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Michoacán de Ocampo.
+
+Segundo. Las acciones derivadas del presente Decreto se ejecutarán con los recursos humanos, materiales y financieros existentes, sin generar impacto presupuestal adicional.
+
+Tercero. Notifíquese el presente Decreto al Titular del Poder Ejecutivo del Estado, para los efectos legales conducentes.
+
+Cuarto. El Ejecutivo del Estado contará con 30 días hábiles para emitir el Decreto mediante el cual se establezca el "Día Estatal por la Prevención de la Violencia Letal entre Personas Jóvenes".
