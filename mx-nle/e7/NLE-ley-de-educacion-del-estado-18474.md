@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-educacion-del-estado-18474"
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-16"
-last_updated: "2023-06-23"
+last_updated: "2026-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "NLE"
 ---
 # LEY DE EDUCACION DEL ESTADO
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+NOTA 1: [N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+NOTA 2: [N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE NUEVO LEÓN, PUBLICADA EN EL P.O. DE 27 DE ABRIL DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
 
 LEY DE EDUCACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2026 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2000.
 
@@ -2512,3 +2514,37 @@ SEGUNDO.- La Secretaría de Educación del Estado, previó al inicio del ciclo e
 TERCERO.- La Secretaría de Educación del Estado dispondrá de un plazo de hasta 180 días hábiles contados a partir de la entrada en vigor del presente Decreto, para realizar el protocolo de detección y atención temprana de educación especial que establece la fracción XXII del artículo 16 del presente Decreto.
 
 CUARTO.- Envíese el presente dictamen con los documentos que sirvieron de sustento para la elaboración del presente documento a la Suprema Corte de Justicia de la Nación para dar cumplimiento al resolutivo Tercero de la Acción de Inconstitucionalidad 29/2021.
+
+P.O. 27 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 205. SE EXPIDE LA LEY DE EDUCACIÓN PARA EL ESTADO DE NUEVO LEÓN".]
+
+Primero. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+Segundo. Se abroga la Ley de Educación del Estado de Nuevo León, publicada el lunes 16 de octubre del año 2000, en el Periódico Oficial del Estado y se derogan todas las disposiciones contenidas en las leyes secundarias y quedan sin efectos los reglamentos, acuerdos y disposiciones de carácter general que se opongan al presente Decreto.
+
+Tercero. La Secretaría deberá emitir y adecuar los reglamentos, acuerdos, lineamientos, protocolos y demás disposiciones de carácter general conforme a lo establecido en este Decreto, en un plazo no mayor a 180 días hábiles siguientes contados a partir de su entrada en vigor. Hasta su emisión, seguirán aplicándose para la operación y funcionamiento de los servicios que se presten y se deriven de aquellos en lo que no contravengan a este Decreto.
+
+Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a la asignación de partidas presupuestarias que se aprueben para tal fin al sector educativo en el ejercicio fiscal del que se trate, lo cual se llevará a cabo de manera progresiva con el objeto de cumplir con las obligaciones que tendrán a su cargo las autoridades competentes.
+
+Quinto. El titular del Poder Ejecutivo del Estado, y la autoridad educativa municipal, en sus respectivos ámbitos de sus competencias, preverán de manera progresiva y de acuerdo con la asignación de partidas presupuestarias, los recursos necesarios para ofrecer la educación inicial, especial e inclusiva con el fin de lograr paulatinamente la universalidad de dichos servicios y modalidades educativas, conforme a lo que establece la Estrategia Nacional de Atención a la Primera Infancia.
+
+Sexto. El sistema integral de formación, capacitación y actualización del Estado de Nuevo León, previsto en la presente Ley, deberá instalarse en un plazo no mayor a 180 días hábiles siguientes a la entrada en vigor del presente Decreto.
+
+Séptimo. La Secretaría cada año escolar deberá integrar de manera progresiva, psicólogos a los planteles escolares priorizando las zonas de alto riesgo y sectores con un alto grado de vulnerabilidad.
+
+Octavo. Los procedimientos y trámites iniciados con anterioridad a la entrada en vigor de este Decreto continuarán, hasta su conclusión, regidos con las disposiciones en los cuales se fundamentaron.
+
+Noveno. El Consejo Estatal de Participación Escolar en la Educación previsto en esta Ley, deberá quedar instalado en un plazo de 60 días hábiles contados a partir de la entrada en vigor del presente Decreto.
+
+Décimo. En caso de que el Municipio no cuente con la Defensoría Municipal para la Protección de Niñas, Niños y Adolescentes, previsto en esta Ley, la Alerta Temprana será remitida a la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado, o en su caso al Sistema para el Desarrollo Integral de la Familia del Municipio que corresponda, a fin de que pueda realizar las evaluaciones pertinentes y restituyan los derechos vulnerados de las niñas, niños y adolescentes.
+
+Décimo Primero. La autoridad educativa, en un plazo de 180 días a partir de la entrada en vigor del presente Decreto, realizará y dará a conocer el reglamento para la educación inclusiva, el protocolo de atención, protección e inclusión de los estudiantes que enfrentan barreas para el aprendizaje y la participación, el protocolo de prevención y actuación ante conductas suicidas a las escuelas y a los padres, madres o quienes ejerzan la tutela, guarda o custodia, dichos documentos se publicarán en el portal oficial de internet de la Secretaría de Educación. Asimismo, se entregarán en los planteles educativos para su distribución.
+
+Décimo Segundo. Las autoridades educativas estatales en conjunto con la autoridad estatal en materia de movilidad elaborarán las bases previstas por el artículo 140, dentro de los tres meses siguientes a la entrada en vigor del presente Decreto.
+
+Décimo Tercero. Las instituciones de educación básica deberán elaborar sus programas de transporte dentro de los tres meses siguientes a la expedición de las bases previstas por el artículo 141.
+
+Décimo Cuarto. Una vez elaborado el programa, su aplicación será con un mínimo de tres a un máximo de seis meses, de acuerdo a las fases que se establezcan para su cumplimiento, en el período escolar vigente.
+
+Décimo Quinto. La Secretaría establecerá la estrategia o un plan de plazos y cobertura claros para la transición a un sistema de educación inclusiva.
