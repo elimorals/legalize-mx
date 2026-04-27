@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-educacion-del-estado-de-michoacan-de-ocampo-143099"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-29"
-last_updated: "2026-02-12"
+last_updated: "2026-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143099&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2026.
 
 Ley publicada en la Sexta Sección en el Número 22 del Periódico Oficial del Estado de Michoacán, el viernes 29 de mayo de 2020.
 
@@ -1407,7 +1407,13 @@ En la formulación de las estrategias de aprendizaje, se fomentará la participa
 
 Las madres y padres de familia o tutores serán corresponsables en el proceso educativo de sus hijas, hijos o pupilos menores de dieciocho años para lo cual, además de cumplir con su obligación de hacerlos asistir a los servicios educativos, apoyarán su aprendizaje, y revisarán su progreso, desempeño y conducta, velando siempre por su bienestar y desarrollo.
 
-Las autoridades educativas del Estado en el ámbito de sus competencias, desarrollarán actividades de información y orientación para las familias de los educandos en relación con prácticas de crianza enmarcadas en el ejercicio de los valores, los derechos de la niñez, buenos hábitos de salud, la importancia de una hidratación saludable, alimentación nutritiva, práctica de la actividad física, disciplina positiva, prevención de la violencia, uso responsable de las tecnologías de la información, comunicación, lectura, conocimiento y aprendizaje digital y otros temas que permitan a madres y padres de familia o tutores, proporcionar una mejor atención a sus hijas, hijos o pupilos.
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2026)</small>
+
+Las autoridades educativas del Estado fomentarán la participación activa y equitativa de madres, padres y personas tutoras en las actividades escolares, culturales y comunitarias, asegurando condiciones de igualdad y evitando cualquier forma de exclusión por estructura familiar o razones de género. Particularmente, promoverán acciones que reconozcan y fortalezcan el rol de madres y padres que ejerzan la maternidad y la paternidad de manera individual.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
+
+Asimismo, en el ámbito de sus competencias, desarrollarán actividades de información y orientación para las familias de los educandos en relación con prácticas de crianza enmarcadas en el ejercicio de los valores, los derechos de la niñez, buenos hábitos de salud, la importancia de una hidratación saludable, alimentación nutritiva, práctica de la actividad física, disciplina positiva, prevención de la violencia, uso responsable de las tecnologías de la información, comunicación, lectura, conocimiento y aprendizaje digital y otros temas que permitan a madres y padres de familia o tutores, proporcionar una mejor atención a sus hijas, hijos o pupilos.
 
 Para efectos del primer párrafo del presente artículo, las madres y padres o tutores que cumplan con su obligación de hacer asistir a los servicios educativos a sus hijas, hijos o pupilos, deberían privilegiarse en los programas de beneficio social otorgados por el Estado o los municipios de éste; para lo anterior, las entidades y dependencias de la Administración Pública, Estatal y Municipales, o cualquier otro ente que tenga a su cargo de beneficio, podrán solicitar, cuando quien solicite sea madre o padre de familia, o tutor, que lo tenga a su guardia y custodia, que acrediten que sus hijas, hijos o pupilos están inscritos en institución educativa.
 
@@ -2770,3 +2776,9 @@ P.O. 12 DE FEBRERO DE 2026.
 Primero. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su conocimiento y los efectos legales correspondientes.
 
 Segundo. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 27 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 425 POR EL QUE "SE ADICIONA EL PÁRRAFO SEGUNDO, RECORRIENDO EN SU ORDEN LOS SUBSECUENTES; Y, SE REFORMA EL AHORA PÁRRAFO TERCERO DEL ARTÍCULO 122 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
