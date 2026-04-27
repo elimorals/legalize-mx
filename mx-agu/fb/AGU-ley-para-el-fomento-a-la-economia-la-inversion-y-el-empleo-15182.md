@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-fomento-a-la-economia-la-inversion-y-el-empleo-1518
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-11"
-last_updated: "2026-04-20"
+last_updated: "2026-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA EL FOMENTO A LA ECONOMÍA, LA INVERSIÓN Y EL EMPLEO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2026.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 11 de julio de 1999.
 
@@ -577,6 +577,100 @@ La Secretaría establecerá el Registro Estatal de Desarrollo Económico, en el 
 
 El Registro será público, no tendrá efectos constitutivos, ni surtirá efectos contra terceros.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE ABRIL DE 2026)</small>
+
+### CAPITULO XIII. De la Inclusión Laboral de Grupos Vulnerables
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2026)</small>
+
+###### ARTICULO 41.
+
+El presente Capítulo tiene por objeto establecer las bases y los mecanismos para promover la inclusión laboral efectiva y prioritaria de las madres solteras, las personas con discapacidad, las personas adultas mayores y los jóvenes en el mercado laboral del Estado de Aguascalientes, en condiciones de igualdad, dignidad y no discriminación.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2026)</small>
+
+###### ARTICULO 42.
+
+La inclusión laboral de los grupos sociales en situación de vulnerabilidad se regirá por los siguientes principios:
+
+I.- Igualdad de Oportunidades: Garantizar que todos los aspirantes y trabajadores tengan las mismas oportunidades de acceso, permanencia y desarrollo en el empleo, sin distinción por su condición de vulnerabilidad.
+
+II.- No Discriminación: Prohibir cualquier forma de discriminación directa o indirecta basada en la condición de madre soltera, discapacidad, edad o juventud.
+
+III.- Adaptabilidad: Fomentar la adaptación de los puestos de trabajo y los entornos laborales a las necesidades específicas de cada grupo social en situación de vulnerabilidad.
+
+IV.- Participación y Consulta: Promover la participación de las organizaciones de la sociedad civil y de los propios grupos sociales en situación de vulnerabilidad en el diseño, implementación y evaluación de las políticas de inclusión laboral.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2026)</small>
+
+###### ARTICULO 43.
+
+El Estado, en coordinación con los municipios y el sector privado, implementará las siguientes acciones para fomentar el empleo de las madres solteras:
+
+I.- Creación y promoción de bolsas de trabajo especializadas que consideren sus necesidades de conciliación laboral y familiar.
+
+II.- Desarrollo de programas de capacitación y certificación de habilidades que faciliten su inserción o reinserción laboral.
+
+III.- Impulso de convenios con empresas para la implementación de horarios flexibles, teletrabajo y otras modalidades que faciliten el equilibrio entre el trabajo y el cuidado de los hijos.
+
+IV.- Fomento de acceso prioritario a servicios de cuidado infantil asequibles y de calidad.
+
+V.- Promoción de apoyos económicos y becas para la formación y el emprendimiento.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2026)</small>
+
+###### ARTICULO 44.
+
+El Estado, en coordinación con los municipios y el sector privado, implementará las siguientes acciones para fomentar el empleo de las personas con discapacidad:
+
+I.- Promoción de la accesibilidad universal en los entornos laborales y en los procesos de selección.
+
+II.- Otorgamiento de incentivos fiscales a las empresas que contraten personas con discapacidad.
+
+III.- Apoyo para la adaptación de puestos de trabajo y la provisión de herramientas y tecnologías de asistencia.
+
+IV.- Desarrollo de programas de formación y capacitación específicos para sus habilidades y potencialidades.
+
+V.- Sensibilización y concientización a empleadores y trabajadores sobre los derechos y capacidades de las personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2026)</small>
+
+###### ARTICULO 45.
+
+El Estado, en coordinación con los municipios y el sector privado, implementará las siguientes acciones para fomentar el empleo de los adultos mayores:
+
+I.- Promoción de la contratación flexible y a tiempo parcial.
+
+II.- Desarrollo de programas de reciclaje y actualización de habilidades.
+
+III.- Combate a la discriminación por edad en los procesos de selección y en el ámbito laboral.
+
+IV.- Fomento de la transferencia de conocimientos y experiencias a las nuevas generaciones.
+
+V.- Apoyo al emprendimiento de adultos mayores.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2026)</small>
+
+###### ARTICULO 46.
+
+El Estado, en coordinación con los municipios y el sector privado, implementará las siguientes acciones para fomentar el empleo de los jóvenes:
+
+I.- Impulso de programas de primer empleo y de formación dual.
+
+II.- Apoyo al emprendimiento juvenil a través de financiamiento y asesoría.
+
+III.- Fomento de la vinculación entre instituciones educativas y el sector productivo.
+
+IV.- Promoción de la movilidad laboral y las oportunidades de desarrollo profesional.
+
+V.- Información y orientación sobre el mercado laboral y las oportunidades de empleo.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2026)</small>
+
+###### ARTICULO 47.
+
+El Estado establecerá mecanismos de coordinación entre las diferentes dependencias y entidades de la administración pública estatal y municipal, así como con las organizaciones de la sociedad civil y el sector privado, para la implementación efectiva de las acciones previstas en este Capítulo.
+
 ## TRANSITORIOS
 
 PRIMERO: La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
@@ -832,3 +926,11 @@ P.O. 20 DE ABRIL DE 2026.
 ###### ARTÍCULO PRIMERO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 27 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 457.- SE ADICIONA UN CAPÍTULO XIII A LA LEY PARA EL FOMENTO A LA ECONOMÍA, LA INVERSIÓN Y EL EMPLEO PARA EL ESTADO DE AGUASCALIENTES”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO. El Poder Ejecutivo del Estado, a través de las dependencias competentes, deberá realizar las adecuaciones necesarias para la implementación del presente Decreto, en un plazo no mayor a 120 días naturales contados a partir de su entrada en vigor.
