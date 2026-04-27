@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-cultura-fisica-y-deporte-para-el-estado-de-nayarit-74405
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-03"
-last_updated: "2025-12-12"
+last_updated: "2026-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74405&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2026.
 
 Ley publicada en la Sección Quinta del Periódico Oficial del Estado de Nayarit, el sábado 3 de abril de 2010.
 
@@ -55,7 +55,9 @@ II. Comisión: Comisión Estatal de Apelación y Arbitraje Deportivo;
 
 III. Comité: Comité Antidopaje del Estado de Nayarit;
 
-IV. Director General: Director General del Instituto;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+IV. La persona titular de la Dirección General: la persona que ejerza la titularidad de la Dirección General del Instituto;
 
 V. Instituto: Instituto Nayarita de Cultura Física y Deporte;
 
@@ -99,33 +101,37 @@ V. Cultura Física: Conjunto de bienes integrados por los conocimientos, ideas, 
 
 VI. Deporte: Actividad física, organizada y reglamentada, que tiene por finalidad preservar y mejorar la salud física y mental, el desarrollo social, ético e intelectual, con el logro de resultados en competiciones;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
 
-VII. Deporte Social: El deporte que promueve, fomenta y estimula el que todas las personas sin distinción de género, edad, discapacidad, condición social, religión, opiniones, preferencias o estado civil, tengan igualdad de participación en actividades deportivas con finalidades recreativas, educativas y de salud o rehabilitación;
+VII. Deporte Social: Aquel que promueve, fomenta y estimula la participación igualitaria de todas las personas en actividades deportivas con finalidades recreativas, educativas, de salud o rehabilitación, sin distinción de origen étnico o nacional, sexo, género, orientación sexual, edad, discapacidad, estatura corporal, condición social, salud, embarazo, lengua, religión, opiniones o estado civil;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
 
-VIII. Deporte de Rendimiento: El deporte que promueve, fomenta y estimula el que todas las personas puedan mejorar su nivel de calidad deportiva como aficionados, pudiendo integrarse al deporte de alto rendimiento, o en su caso, sujetarse adecuadamente a una relación laboral por la práctica del deporte;
+VIII. Deporte de Rendimiento: El deporte que promueve, fomenta y estimula que todas las personas puedan mejorar su nivel de calidad deportiva como aficionadas, pudiendo integrarse al deporte de alto rendimiento, o en su caso, sujetarse adecuadamente a una relación laboral por la práctica del deporte;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
 
-IX. Deporte de Alto Rendimiento: El deporte que se practica con altas exigencias técnicas y científicas de preparación y entrenamiento, que permite al deportista la participación en preselecciones y selecciones estatales y nacionales que representan al Estado y al país en competiciones y pruebas oficiales de carácter nacional o internacional;
+IX. Deporte de Alto Rendimiento: El deporte que se practica con altas exigencias técnicas y científicas de preparación y entrenamiento, que permite a quienes lo practican participar en preselecciones y selecciones estatales y nacionales que representan al Estado y al país en competiciones y pruebas oficiales de carácter nacional o internacional;
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+IX Bis. Deportista: las personas físicas que practiquen cualquier disciplina o especialidad deportiva;
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2014)</small>
 
 X. Educación Física: Proceso por medio del cual se adquiere, transmite y acrecienta la cultura física;
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
 
-XI. Evento Deportivo: Cualquier encuentro entre deportistas afiliados a las asociaciones o sociedades deportivas, que se realice conforme a las normas establecidas por éstas y por los organismos rectores del deporte;
+XI. Evento Deportivo: Cualquier encuentro entre personas deportistas afiliadas a las asociaciones o sociedades deportivas, que se realice conforme a las normas establecidas por éstas y por los organismos rectores del deporte;
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
 
-XII. Evento Deportivo Masivo: Sin importar el número de personas que se encuentren reunidas, será cualquier evento deportivo abierto al público, que se realice en instalaciones deportivas, estadios, recintos o edificios deportivos, que tenga una capacidad de aforo igual o superior al resultado de multiplicar por cien el número mínimo de competidores que, conforme al reglamento o normatividad de la disciplina que corresponda, deba estar activo dentro de un área de competencia; o bien, aquél que se realice en lugares abiertos, cuando el número de competidores sea igual o mayor a doscientos;
+XII. Evento Deportivo Masivo: Sin importar el número de personas que se encuentren reunidas, será cualquier evento deportivo abierto al público, que se realice en instalaciones deportivas, estadios, recintos o edificios deportivos, que tenga una capacidad de aforo igual o superior al resultado de multiplicar por cien el número mínimo de competidoras o competidores que, conforme al reglamento o normatividad de la disciplina que corresponda, deba estar activo dentro de un área de competencia; o bien, aquél que se realice en lugares abiertos, cuando el número de personas competidoras sea igual o mayor a doscientos;
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
 
-XIII. Evento Deportivo con fines de espectáculo: Cualquier evento deportivo en el que se condicione el acceso de los aficionados o espectadores al pago de una tarifa para presenciarlo;
+XIII. Evento Deportivo con fines de espectáculo: Cualquier evento deportivo en el que se condicione el acceso de las personas aficionadas o espectadoras al pago de una tarifa para presenciarlo;
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2016)</small>
 
@@ -147,13 +153,17 @@ El Gobierno del Estado y los Ayuntamientos deberán considerar en sus respectivo
 
 Las Dependencias y Entidades de la administración pública estatal y municipal, en el ámbito de sus respectivas competencias, deberán apoyar al Instituto.
 
-## Título Segundo. De los Derechos y Deberes del Deportista
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ABRIL DE 2026)</small>
+
+## Título Segundo. De los Derechos y Deberes de las personas Deportistas
 
 ### Capítulo I. De los Derechos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2026)</small>
+
 ###### Artículo 6.
 
-Son derechos del deportista:
+Son derechos de las personas deportistas:
 
 I. Practicar el deporte o deportes de su elección;
 
@@ -167,47 +177,89 @@ V. Recibir los servicios médicos adecuados en competencias oficiales;
 
 VI. Participar en competencias, juegos o eventos deportivos, reglamentarios y oficiales;
 
-VII. Desempeñar cargos directivos dentro de algún organismo deportivo siempre y cuando haya sido electo para ello, conforme a las disposiciones estatutarias aplicables;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+VII. Desempeñar cargos directivos dentro de algún organismo deportivo siempre y cuando hayan sido electas para ello, conforme a las disposiciones estatutarias aplicables;
 
 VIII. Participar en la elaboración de los programas y reglamentos deportivos de su especialidad en los términos que se fijen en la convocatoria que al efecto se expida;
 
 IX. Recibir estímulos o apoyos, previo cumplimiento de los requisitos y condiciones que para el efecto se establezcan;
 
-X. Obtener de las autoridades el registro o reconocimiento que lo acredite como deportista; y
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
 
-XI. Ejercer los medios que establece esta Ley para la defensa de sus derechos.
+X. Obtener de las autoridades el registro o reconocimiento que les acredite como personas deportistas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE ABRIL DE 2026)</small>
+
+XI. Gozar del derecho a la igualdad sustantiva entre mujeres y hombres, así como la incorporación de la perspectiva de género en las políticas, programas y acciones en materia de cultura física y deporte;
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+XII. Acceder, en condiciones de igualdad de oportunidades, a los programas de desarrollo en materia de cultura física y deporte, sin discriminación por origen étnico o nacional, sexo, género, orientación sexual, edad, discapacidad, estatura, condición social, condiciones de salud, embarazo, lengua, religión, opiniones, estado civil o cualquier otra que atente contra la dignidad humana, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE ABRIL DE 2026)</small>
+
+XIII. Ejercer los medios de defensa previstos en esta Ley para la protección de sus derechos, conforme a los principios de legalidad, igualdad, debido proceso y acceso a la justicia.
 
 ### Capítulo II. De los Deberes
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2026)</small>
+
 ###### Artículo 7.
 
-Son deberes del deportista:
+Son deberes de las personas deportistas:
 
-I. Cumplir con lo que dispone esta Ley y su Reglamento, así como con los estatutos y reglamentos que rijan para el deporte que practique;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+I. Cumplir con lo dispuesto en esta Ley, su Reglamento, así como en los estatutos y reglamentos aplicables al deporte que practiquen;
 
 II. Inscribirse en el Registro Estatal;
 
-III. Asistir a competencias y eventos oficiales cuando sea requerido;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
 
-IV. Comunicar al Instituto por escrito cuando forme parte de organizaciones y clubes deportivos profesionales;
+III. Asistir a competencias y eventos oficiales cuando sean convocadas o convocados;
 
-V. Representar al municipio y al estado en los eventos y competencias para los cuales sea convocado;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
 
-VI. Asistir a las reuniones, premiaciones y estímulos deportivos al que fuese convocado;
+IV. Informar por escrito al Instituto cuando formen parte de organizaciones o clubes deportivos profesionales;
 
-VII. Cuidar y vigilar la conservación de las instalaciones en que practique deporte, así como la observancia de los reglamentos de uso establecidos para dichas instalaciones;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
 
-VIII. Fomentar la práctica del deporte;
+V. Representar a su municipio y al Estado en los eventos y competencias para los cuales sean convocadas o convocados;
 
-IX. No administrarse sustancias prohibidas;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
 
-X. No ingerir bebidas alcohólicas o substancias tóxicas dentro de las instalaciones deportivas;
+VI. Asistir a reuniones, ceremonias de premiación y actos de entrega de estímulos deportivos a los que sean convocadas o convocados;
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+VII. Cuidar, preservar y hacer uso adecuado de las instalaciones en las que practiquen deporte, así como observar los reglamentos de uso correspondientes;
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+VIII. Fomentar la práctica del deporte con apego a los principios de inclusión, igualdad y no discriminación;
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+IX. Abstenerse de administrarse o consumir sustancias prohibidas, en términos de la normatividad aplicable;
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+X. No ingerir bebidas alcohólicas o sustancias tóxicas dentro de las instalaciones deportivas;
 
 XI. Asistir cuando sea requerido a los muestreos que realice la autoridad competente, con el fin de detectar posibles casos de dopaje;
 
-XII. Abstenerse de prácticas violentas y antirreglamentarias en las actividades deportivas que practique; y
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
 
-XIII. Las demás que le señale esta Ley y su Reglamento.
+XII. Abstenerse de realizar prácticas violentas, discriminatorias, de acoso, hostigamiento o cualquier otra que atente contra la dignidad humana o contravenga la normatividad deportiva;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE ABRIL DE 2026)</small>
+
+XIII. Contribuir a la prevención, atención y erradicación de la violencia, el acoso y la discriminación en el ámbito deportivo, promoviendo entornos seguros, inclusivos y libres de violencia, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 27 DE ABRIL DE 2026)</small>
+
+XIV. Las demás que establezcan esta Ley y su Reglamento.
 
 ## Título Tercero. Del Instituto Nayarita de Cultura Física y Deporte
 
@@ -237,15 +289,21 @@ VI. Los demás recursos, bienes y derechos que se adquieran o reciban por cualqu
 
 El Instituto realizará las siguientes funciones:
 
-I. Coordinar y ejecutar los programas, acciones y acuerdos del Sistema;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+I. Coordinar y ejecutar los programas, acciones y acuerdos del Sistema, garantizando el respeto a los derechos humanos y el principio de igualdad sustantiva;
 
 II. Representar al Estado ante organismos regionales, nacionales e internacionales;
 
-III. Establecer, administrar y mantener actualizado el Registro Estatal de Cultura Física y Deporte en términos de esta Ley;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+III. Establecer, administrar y mantener actualizado el Registro Estatal de Cultura Física y Deporte en términos de esta Ley, asegurando el acceso equitativo y sin discriminación;
 
 IV. Convocar al Sistema para los efectos del artículo 43 de la presente Ley;
 
-V. Programar cursos de formación, capacitación y actualización para instructores, entrenadores deportivos y profesores de educación física;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+V. Programar cursos de formación, capacitación y actualización dirigidos a personas instructoras, entrenadoras deportivas y docentes de educación física, incorporando la perspectiva de género, inclusión y el enfoque de derechos humanos;
 
 VI. Establecer los procedimientos para identificar y seleccionar talentos deportivos;
 
@@ -253,15 +311,17 @@ VII. Celebrar convenios con las autoridades federales y con los sectores públic
 
 VIII. Promover la construcción, conservación y adecuación de la infraestructura deportiva en el estado;
 
-IX. Organizar programas especiales de recreación física y práctica deportiva entre los adultos en plenitud, personas con discapacidades, comunidades indígenas, rurales y demás sectores con características y necesidades especiales;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
+IX. Organizar programas especiales de recreación física y práctica deportiva dirigidos a personas adultas mayores, personas con discapacidad, comunidades indígenas, rurales y demás sectores con características y necesidades especiales;
 
-X. Establecer programas que faciliten el acceso de la mujer a la práctica deportiva;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2014)</small>
+X. Establecer programas que faciliten el acceso de las mujeres a la práctica deportiva, en condiciones de igualdad sustantiva;
 
-XI. Establecer los procedimientos y acciones a efecto de prevenir la violencia en eventos deportivos, protegiendo la seguridad y patrimonio de las personas en coordinación con las autoridades de seguridad pública, privada y protección civil garantizando el desarrollo pacífico en los recintos donde se celebren eventos deportivos masivos y con fines de espectáculo, así como sus inmediaciones;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+XI. Implementar procedimientos y acciones para prevenir, atender y erradicar la violencia, el acoso, el hostigamiento y cualquier forma de discriminación en el ámbito deportivo, protegiendo la integridad, seguridad y patrimonio de las personas, en coordinación con las autoridades competentes, y garantizando el desarrollo pacífico de los eventos deportivos;
 
 > <small>(ADICIONADA, P.O. 19 DE MARZO DE 2014)</small>
 
@@ -287,39 +347,59 @@ El Instituto conjuntamente con las autoridades educativas del estado, diseñará
 
 #### Sección Primera. La Junta de Gobierno
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
+
 ###### Artículo 12.
 
-El Instituto contará con una Junta de Gobierno que será el órgano rector de su funcionamiento y un Director General.
+El Instituto contará con una Junta de Gobierno que será el órgano rector de su funcionamiento y una persona titular de la Dirección General.
 
 ###### Artículo 13.
 
 La Junta es el órgano superior de gobierno y administración del Instituto y se integrará por los siguientes miembros:
 
-I. Un Presidente, que será el Gobernador del Estado o la persona que designe;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
 
-II. Un Secretario, que será el Director General;
+I. La persona que ocupe la Presidencia, que será la Gobernadora o el Gobernador del Estado o la persona que designe;
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
 
-III. Consejeros nombrados por cada una de las siguientes dependencias:
+II. Una persona secretaria, que será quien ejerza la titularidad de la Dirección General;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2026)</small>
+
+III. Personas Consejeras nombradas por cada una de las siguientes dependencias:
 
 a. Secretaría de Educación;
 
-b. DEROGADO, P.O. 19 DE MARZO DE 2014
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE ABRIL DE 2026)</small>
 
-c. Secretaría de Administración y Finanzas;
+b. Secretaría de Administración y Finanzas;
 
-d. Secretaría de Salud;
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
 
-e. Secretaría de Planeación, Programación y Presupuesto, y
+c. Secretaría de Salud;
 
-f. Sistema Estatal para el Desarrollo Integral de la Familia;
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
 
-IV. Un consejero integrante de la Comisión Legislativa del Congreso del Estado en materia de deporte que preferentemente será su Presidente.
+d. Secretaría de Desarrollo Sustentable, y
 
-Los miembros de la Junta desempeñarán su encargo de manera honorífica, por lo que no percibirán retribución alguna.
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
 
-Por cada consejero deberá nombrarse un suplente para que en su ausencia asista a las sesiones de la Junta con derecho a voz y voto; dicho nombramiento deberá hacerse por escrito y tendrá carácter permanente.
+e. Sistema Estatal para el Desarrollo Integral de la Familia.
+
+f. (DEROGADO, P.O. 27 DE ABRIL DE 2026)
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+IV. Una persona consejera integrante de la Comisión Legislativa del Congreso del Estado en materia de deporte que preferentemente será quien ejerza su Presidencia.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
+
+Las personas integrantes de la Junta desempeñarán su encargo de manera honorífica, por lo que no percibirán retribución alguna.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
+
+Por cada persona consejera deberá nombrarse una suplente para que en su ausencia asista a las sesiones de la Junta con derecho a voz y voto; dicho nombramiento deberá hacerse por escrito y tendrá carácter permanente.
 
 ###### Artículo 14.
 
@@ -331,7 +411,9 @@ De cada sesión deberá levantarse acta circunstanciada en la que consten las fi
 
 Para que las sesiones de la Junta tengan validez, se requerirá la presencia de la mitad más uno de sus integrantes.
 
-Los acuerdos y resoluciones se tomarán por mayoría de votos de los miembros presentes, en caso de empate el presidente tendrá voto de calidad.
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
+
+Los acuerdos y resoluciones se tomarán por mayoría de votos de las personas integrantes presentes, en caso de empate, quien ocupe la presidencia tendrá voto de calidad.
 
 ###### Artículo 16.
 
@@ -347,27 +429,41 @@ De igual forma, la Junta podrá invitar a participar con voz pero sin voto, a pe
 
 Son atribuciones de la Junta:
 
-I. Aprobar los planes y programas que para el desarrollo de las funciones del Instituto presente a su consideración el Director General;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+I. Aprobar los planes y programas que para el desarrollo de las funciones del Instituto presente a su consideración la persona titular de la Dirección General;
 
 II. Aprobar el presupuesto anual de ingresos y egresos del Instituto, así como sus modificaciones, conforme a las disposiciones normativas aplicables;
 
-III. Aprobar a propuesta del Director General, la estructura básica de la organización del Instituto y las modificaciones que en su caso procedan;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+III. Aprobar a propuesta de la persona titular de la Dirección General, la estructura básica de la organización del Instituto y las modificaciones que en su caso procedan;
 
 IV. Revisar y en su caso aprobar el ejercicio presupuestal del Instituto;
 
-V. Facultar al Director General para otorgar y revocar poderes;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
 
-VI. Expedir el Reglamento Interior y los manuales administrativos del Instituto; y
+V. Facultar a la persona titular de la Dirección General para otorgar y revocar poderes;
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+VI. Expedir el Reglamento Interior y los manuales administrativos del Instituto, y
 
 VII. Las demás que le otorgue esta Ley.
 
-#### Sección Segunda. Del Director General
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE ABRIL DE 2026)</small>
+
+#### Sección Segunda. De la Persona Titular de la Dirección General
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2026)</small>
 
 ###### Artículo 19.
 
-El Director General será designado y removido libremente por el Titular del Poder Ejecutivo, debiendo reunir para su nombramiento los siguientes requisitos:
+La persona titular de la Dirección General será designada y removida libremente por la persona titular del Poder Ejecutivo, debiendo reunir para su nombramiento los siguientes requisitos:
 
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+I. Ser ciudadana o ciudadano mexicano en pleno ejercicio de sus derechos;
 
 II. Ser mayor de 25 años de edad;
 
@@ -375,9 +471,11 @@ III. Tener residencia mínima de cinco años en el estado; y
 
 IV. Acreditar tener conocimiento en la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2026)</small>
+
 ###### Artículo 20.
 
-El Director General del Instituto tendrá las siguientes facultades y obligaciones:
+La persona titular de la Dirección General del Instituto tendrá las siguientes facultades y obligaciones:
 
 I. Representar legalmente al Instituto y administrarlo;
 
@@ -385,7 +483,9 @@ II. Ejecutar los acuerdos de la Junta;
 
 III. Dar seguimiento a las acciones y acuerdos tomados por el Sistema y la Junta;
 
-IV. Formular el programa anual de trabajo del Instituto y presentarlo ante la Junta para su aprobación;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+IV. Formular el programa anual de trabajo del Instituto con perspectiva de género, igualdad sustantiva y enfoque de derechos humanos, y someterlo a la aprobación de la Junta;
 
 V. Elaborar el anteproyecto del presupuesto anual de ingresos y egresos para someterlos a consideración de la Junta;
 
@@ -399,9 +499,9 @@ VIII. Rendir trimestralmente a la Junta, un informe de los avances en el ejercic
 
 IX. Convocar a las sesiones de la Junta;
 
-> <small>(REFORMADA, P.O. 19 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
 
-X. Presentar dentro de los primeros 15 días de noviembre de cada año un informe ante el Congreso del Estado, que presente las metas alcanzadas y los retos en la materia, y
+X. Presentar dentro de los primeros 15 días de noviembre de cada año un informe a la persona titular del Poder Ejecutivo del Estado, que presente las metas alcanzadas y los retos en la materia, y
 
 > <small>(ADICIONADA, P.O. 19 DE MARZO DE 2014)</small>
 
@@ -561,7 +661,9 @@ a) Secretaría de Salud;
 
 b) Secretaría de Educación;
 
-c) Secretaría de Planeación, Programación y Presupuesto, y
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
+
+c) Secretaría de Desarrollo Sustentable, y
 
 d) Secretaría de Administración y Finanzas.
 
@@ -577,7 +679,9 @@ A invitación del Sistema podrán participar con voz aquellas dependencias y ent
 
 El Sistema deberá sesionar cuando menos una vez cada semestre a efecto de fijar las políticas operativas y de instrumentación en materia de cultura física y deporte y dar cumplimiento al Programa.
 
-Para que las sesiones del Sistema sean válidas se requerirá la presencia de la mitad mas uno de sus integrantes y sus determinaciones se tomarán por mayoría de votos de los presentes.
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
+
+Para que las sesiones del Sistema sean válidas se requerirá la presencia de la mitad más uno de sus integrantes y sus determinaciones se tomarán por mayoría de votos de las y los presentes.
 
 ###### Artículo 44.
 
@@ -595,9 +699,17 @@ V. Propiciar la participación de los Organismos Deportivos, deportistas destaca
 
 VI. Gestionar ante los sectores público, social y privado la obtención de estímulos, apoyos y reconocimientos para el fomento, desarrollo y capacitación de la cultura física y el deporte;
 
-VII. Coordinar sus actividades para aplicar las políticas, planes y programas del Sistema Nacional de Cultura Física y Deporte; y
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
 
-VIII. Las demás que le otorgue esta Ley, su reglamento y otras disposiciones aplicables.
+VII. Coordinar sus actividades para aplicar las políticas, planes y programas del Sistema Nacional de Cultura Física y Deporte;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE ABRIL DE 2026)</small>
+
+VIII. Promover mecanismos de integración institucional y sectorial para fomentar, promover y estimular el desarrollo de la activación física, la cultura física y el deporte, desde una perspectiva de género y de igualdad sustantiva, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE ABRIL DE 2026)</small>
+
+IX. Las demás que le otorgue esta Ley, su reglamento y otras disposiciones aplicables.
 
 ## Título Sexto. Del Programa y del Registro Estatal de Cultura Física y Deporte
 
@@ -621,9 +733,13 @@ El procedimiento para elaborar y modificar el Programa así como los mecanismos 
 
 El Programa deberá considerar cuando menos los siguientes rubros:
 
-I. La difusión, fomento y desarrollo de la cultura física y el deporte en el estado;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
 
-II. Acciones específicas para promover el deporte popular y la activación física entre los adultos en plenitud, personas con discapacidades, comunidades indígenas, rurales y demás sectores con características y necesidades especiales;
+I. La difusión, fomento y desarrollo de la cultura física y el deporte en el Estado, con perspectiva de género, igualdad sustantiva y enfoque de derechos humanos;
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+II. El diseño e implementación de acciones específicas para promover el deporte popular y la activación física entre las personas adultas mayores, las personas con discapacidad, los pueblos y comunidades indígenas, las comunidades rurales y demás grupos de atención prioritaria, atendiendo a sus características, necesidades y contextos, bajo los principios de igualdad, inclusión y no discriminación;
 
 III. El financiamiento para el desarrollo de la cultura física y el deporte;
 
@@ -677,9 +793,13 @@ III. Inventario de las instalaciones deportivas existentes en el estado;
 
 IV. Competencias y eventos deportivos oficiales a realizarse en el estado;
 
-V. Talentos deportivos y deportistas de alto rendimiento; y
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
 
-VI. Entrenadores, instructores, técnicos, jueces y árbitros deportivos.
+V. Talentos deportivos y deportistas de alto rendimiento, y
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+VI. Personas entrenadoras, instructoras, técnicas, juzgadoras y el personal de arbitraje en el ámbito deportivo.
 
 ## Título Séptimo. De las Instalaciones Deportivas
 
@@ -705,23 +825,29 @@ Todas las instalaciones deportivas oficiales deberán contar con un área espec�
 
 La autoridad competente podrá autorizar el uso de las instalaciones deportivas oficiales para eventos de índole distinta a la deportiva o recreativa siempre y cuando se garantice la conservación del estado físico de éstas, fijando además un porcentaje sobre el boletaje vendido, mismo que se destinará para el fomento de la cultura física y el deporte.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
+
 ###### Artículo 56.
 
-El estado y los municipios tienen el deber de garantizar el libre acceso de las personas al uso de las instalaciones deportivas y vigilar que en ellas prevalezca la sana y pacífica convivencia, previniendo el consumo de bebidas alcohólicas y sustancias toxicas.
+El estado y los municipios tienen el deber de garantizar el libre acceso de las personas al uso de las instalaciones deportivas y vigilar que en ellas prevalezca la sana y pacífica convivencia, previniendo el consumo de bebidas alcohólicas y sustancias tóxicas.
 
 ## Título Octavo. Del Fomento y Estímulo al Deporte
 
 ### Capítulo I. Prevenciones Generales
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
+
 ###### Artículo 57.
 
-Corresponde al Instituto y a las dependencias del sector público otorgar y promover en el ámbito de sus respectivas competencias, los apoyos, estímulos y reconocimientos para los deportistas, técnicos y Organismos Deportivos ajustándose a lo dispuesto en la presente Ley y su Reglamento.
+Corresponde al Instituto y a las dependencias del sector público otorgar y promover en el ámbito de sus respectivas competencias, los apoyos, estímulos y reconocimientos para las personas deportistas, técnicas y organismos deportivos ajustándose a lo dispuesto en la presente Ley y su Reglamento.
 
 ###### Artículo 58.
 
 Los estímulos y apoyos que se otorguen conforme a la presente Ley tendrán como finalidad el cumplimiento de alguno de los siguientes objetivos:
 
-I. Promover el deporte popular y la activación física entre los adultos en plenitud, personas con discapacidades, comunidades indígenas y demás poblaciones con características y necesidades especiales;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+I. Promover el deporte popular y la activación física entre las personas adultas mayores, personas con discapacidad, comunidades indígenas y demás poblaciones con características y necesidades especiales;
 
 II. Desarrollar los programas y promover la actividad de los Organismos Deportivos;
 
@@ -735,13 +861,17 @@ VI. Propiciar con las universidades la participación en los programas deportivo
 
 VII. Realizar cualquier actividad que contribuya al desarrollo de las competencias y eventos oficiales que de acuerdo con esta Ley corresponda al Instituto.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
+
 ###### Artículo 59.
 
-Los candidatos a obtener estímulos, apoyos y reconocimientos deberán estar inscritos en el Registro Estatal y afiliados a la Asociación Deportiva estatal que corresponda y satisfacer los requisitos que se establezcan en el Reglamento de la presente Ley.
+Las personas candidatas a obtener estímulos, apoyos y reconocimientos deberán estar inscritas en el Registro Estatal y afiliadas a la Asociación Deportiva estatal que corresponda y satisfacer los requisitos que se establezcan en el Reglamento de la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2026)</small>
 
 ###### Artículo 60.
 
-Los beneficiarios de los estímulos y apoyos a que se refiere la presente Ley tendrán las siguientes obligaciones:
+Las personas beneficiarias de los estímulos y apoyos a que se refiere la presente Ley tendrán las siguientes obligaciones:
 
 I. Destinar los beneficios otorgados exclusivamente para el objeto por el que le fue otorgado;
 
@@ -781,9 +911,11 @@ V. Material deportivo; y
 
 VI. Apoyo económico.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
+
 ###### Artículo 65.
 
-En el otorgamiento de los estímulos y apoyos a que se refiere este capítulo se deberá garantizar que se beneficie en la medida de lo posible al mayor número de deportistas y Organismos Deportivos observando el principio de equidad, para ello deberán considerarse los méritos realizados y la necesidad del apoyo.
+En el otorgamiento de los estímulos y apoyos a que se refiere este capítulo se deberá garantizar que se beneficie en la medida de lo posible al mayor número de personas deportistas y Organismos Deportivos observando el principio de igualdad sustantiva y la perspectiva de género, para ello deberán considerarse los méritos realizados y la necesidad del apoyo.
 
 ###### Artículo 66.
 
@@ -795,13 +927,17 @@ Los estímulos y apoyos a que se refiere el presente capítulo se otorgarán con
 
 ### Capítulo IV. Del Premio Estatal del Deporte
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
+
 ###### Artículo 68.
 
-Se instituye el Premio Estatal del Deporte, mismo que será entregado anualmente por el Ejecutivo del Estado, como un reconocimiento a los deportistas, entrenadores, instructores, técnicos, jueces y árbitros deportivos que por sus méritos y logros contribuyan y destaquen en el desarrollo del deporte en la entidad.
+Se instituye el Premio Estatal del Deporte, mismo que será entregado anualmente por la persona titular del Poder Ejecutivo del Estado, como un reconocimiento a las personas deportistas, entrenadoras, instructoras, técnicas, juzgadoras y el personal de arbitraje del ámbito deportivo que por sus méritos y logros contribuyan y destaquen en el desarrollo del deporte en la entidad.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
 
 ###### Artículo 69.
 
-Los estímulos a que se harán acreedores los ganadores del Premio Estatal del Deporte se especificarán en la convocatoria respectiva, debiendo consistir por lo menos en premio económico y su reconocimiento público.
+Los estímulos a que se harán acreedoras las personas ganadoras del Premio Estatal del Deporte se especificarán en la convocatoria respectiva, debiendo consistir, por lo menos, en un premio económico y su reconocimiento público.
 
 ###### Artículo 70.
 
@@ -817,9 +953,11 @@ El Salón de la Fama del Deporte Nayarita tiene como finalidad reconocer a quien
 
 El Instituto tendrá a su cargo la administración, control y vigilancia del Salón de la Fama.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2026)</small>
+
 ###### Artículo 73.
 
-Los Organismos Deportivos reconocidos por esta Ley, así como los ciudadanos podrán proponer en su disciplina respectiva y previo cumplimiento de los requisitos que al efecto establezca el Reglamento de la presente ley, a quienes por sus méritos o trayectoria en el deporte lo merezcan.
+Los Organismos Deportivos reconocidos por esta Ley, así como la ciudadanía en general, podrán proponer en su disciplina respectiva y previo cumplimiento de los requisitos que al efecto establezca el Reglamento de la presente Ley, a quienes por sus méritos o trayectoria en el deporte lo merezcan.
 
 Cuando se trate de personas que no cuenten con la calidad de nayaritas, deberán contar con residencia mínima en el Estado de cinco años.
 
@@ -835,11 +973,15 @@ El Centro de Medicina Deportiva y Ciencias Aplicables del Estado de Nayarit es u
 
 La integración y funcionamiento del Centro de Medicina se establecerá en el Reglamento correspondiente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2026)</small>
+
 ###### Artículo 75.
 
-Todo deportista organizado que practique alguna actividad incluida en el Sistema tendrá derecho a recibir atención médica gratuita tanto para la prevención como para el tratamiento y rehabilitación de lesiones sufridas con motivo de su participación en competencias oficiales, asimismo tendrá derecho a que se le proporcionen los medicamentos que requiera para su tratamiento de conformidad con la disponibilidad presupuestaria y atendiendo a las políticas y modalidades que al efecto establezca el propio centro.
+Toda persona deportista organizada que practique alguna actividad incluida en el Sistema tendrá derecho a recibir atención médica gratuita tanto para la prevención como para el tratamiento y rehabilitación de lesiones sufridas con motivo de su participación en competencias oficiales, asimismo tendrá derecho a que se le proporcionen los medicamentos que requiera para su tratamiento de conformidad con la disponibilidad presupuestaria y atendiendo a las políticas y modalidades que al efecto establezca el propio centro.
 
-En la prestación de los servicios médicos a deportistas se deberá garantizar que la atención que se brinde sea especializada.
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
+
+En la prestación de los servicios médicos a personas deportistas se deberá garantizar que la atención que se brinde sea especializada.
 
 ###### Artículo 76.
 
@@ -847,33 +989,49 @@ Los Institutos Estatal y Municipales para proporcionar de manera efectiva y opor
 
 Los Institutos Municipales promoverán la concertación de convenios con instituciones públicas y privadas del sector salud, así como con Organismos Deportivos nacionales o extranjeros a fin de brindar los servicios médicos en eventos o competencias oficiales organizadas por éstos.
 
-Los Organismos Deportivos están obligados a prestar los servicios médicos a los deportistas que los representen y que lo requieran durante las competencias oficiales que promuevan u organicen, por lo que procurarán contar con un fondo para sufragar parte o la totalidad de los gastos médicos que el deportista erogue.
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
+
+Los Organismos Deportivos están obligados a prestar los servicios médicos a las personas deportistas que los representen y que lo requieran durante las competencias oficiales que promuevan u organicen, por lo que procurarán contar con un fondo para sufragar parte o la totalidad de los gastos médicos que la o el deportista erogue.
 
 ###### Artículo 77.
 
 El Instituto promoverá en coordinación con las instituciones públicas y privadas del sector salud, programas preventivos para enfermedades y lesiones derivadas de la práctica deportiva y enfermedad crónica degenerativa, así como para la formación y actualización de especialistas en medicina deportiva y ciencias aplicables y para la investigación científica.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
+
 ###### Artículo 78.
 
-El Instituto coordinará y concertará convenios con los organismos públicos o privados, a efecto de que los deportistas integrantes de clubes, ligas y asociaciones que participen en competencias de campeonatos estatales o nacionales, en cualquiera de sus disciplinas, puedan contar con seguro de vida y de gastos médicos durante el período en que se desarrollen los eventos.
+El Instituto coordinará y concertará convenios con los organismos públicos o privados, a efecto de que las personas deportistas integrantes de clubes, ligas y asociaciones que participen en competencias de campeonatos estatales o nacionales, en cualquiera de sus disciplinas, puedan contar con seguro de vida y de gastos médicos durante el período en que se desarrollen los eventos.
 
 ### Capítulo II. Del Comité y del Control Antidopaje
 
 #### Sección Primera. Del Comité Antidopaje
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2026)</small>
+
 ###### Artículo 79.
 
-El Comité Antidopaje del Estado de Nayarit tiene por objeto conocer los resultados, controversias e irregularidades que surjan de los controles de dopaje dentro y fuera de competición a que sean sometidos los deportistas en el estado. Dicho Comité se integrará por los siguientes miembros:
+El Comité Antidopaje del Estado de Nayarit tiene por objeto conocer los resultados, controversias e irregularidades que surjan de los controles de dopaje dentro y fuera de competición a que sean sometidas las personas deportistas en el estado. Dicho Comité se integrará conforme a lo siguiente:
 
-I. El Director General del Instituto;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
 
-II. El Titular del Centro de Medicina Deportiva y Ciencias Aplicables del Estado de Nayarit;
+I. La persona titular de la Dirección General del Instituto;
 
-III. Un Representante de la Secretaría de Salud;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
 
-IV. Un Representante de las Asociaciones Deportivas nombrado por el Sistema a propuesta de dichos organismos; y
+II. La persona titular del Centro de Medicina Deportiva y Ciencias Aplicables del Estado de Nayarit;
 
-V. Un Representante de los deportistas que hayan obtenido el Premio Estatal del Deporte nombrado por el Sistema a propuesta de los mismos.
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+III. Una persona representante de la Secretaría de Salud;
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+IV. Una persona representante de las Asociaciones Deportivas, nombrada por el Sistema a propuesta de dichos organismos, y
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+V. Una persona representante de las y los deportistas que hayan obtenido el Premio Estatal del Deporte nombrado por el Sistema a propuesta de los mismos.
 
 ###### Artículo 80.
 
@@ -901,19 +1059,25 @@ Queda prohibido el uso y consumo de sustancias farmacológicas que aumenten arti
 
 El Comité y el Sistema en el ámbito de sus respectivas competencias, con la participación de los sectores social y privado velarán por la aplicación de la Convención Internacional Contra el Dopaje en el Deporte y demás instrumentos internacionales que resulten aplicables.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
+
 ###### Artículo 82.
 
-Se entenderá por dopaje en el deporte, cuando los deportistas ingieran sustancias farmacológicas prohibidas que figuren en la lista que emita la CONADE.
+Se entenderá por dopaje en el deporte, cuando las personas deportistas ingieran sustancias farmacológicas prohibidas que figuren en la lista que emita la CONADE.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
 
 ###### Artículo 83.
 
-El Comité podrá emitir fallo de dopaje positivo cuando el deportista declare por escrito indicando la sustancia o método de dopaje utilizado o bien cuando del análisis practicado se revele tal circunstancia.
+El Comité podrá emitir fallo de dopaje positivo cuando la persona deportista declare por escrito, indicando la sustancia o método de dopaje utilizado o bien cuando del análisis practicado se revele tal circunstancia.
 
-El deportista tendrá derecho a recurrir el fallo del Comité solicitando un nuevo análisis.
+La persona deportista tendrá derecho a recurrir el fallo del Comité solicitando un nuevo análisis.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
 
 ###### Artículo 84.
 
-Cuando un deportista haya dado positivo en la prueba que al efecto se le hubiese practicado, el Comité le deberá notificar personalmente; de igual forma se deberá hacer del conocimiento a la Asociación Deportiva en la cual se encuentre afiliado y al Instituto a fin de que imponga la sanción correspondiente.
+Cuando una persona deportista haya dado positivo en la prueba que al efecto se le hubiese practicado, el Comité le deberá notificar personalmente; de igual forma se deberá hacer del conocimiento a la Asociación Deportiva en la cual se encuentre afiliada y al Instituto a fin de que imponga la sanción correspondiente.
 
 ###### Artículo 85.
 
@@ -921,9 +1085,11 @@ En competencias o eventos oficiales que se realicen en el estado el Comité debe
 
 El Comité deberá hacer del conocimiento de los deportistas del procedimiento que se seguirá para seleccionar a quienes deberán someterse al análisis de detección de dopaje, mismo que deberá apegarse a las normas que al efecto dicte la CONADE.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
+
 ###### Artículo 86.
 
-Todos los deportistas que integren las preselecciones y selecciones estatales, deberán someterse a los controles para la detección del uso de sustancias prohibidas y métodos no reglamentarios a fin de poder participar en competiciones nacionales e internacionales o por lo menos en tres ocasiones al año, pudiendo ser éstas dentro o fuera de competición y de acuerdo a lo que se establezca en el reglamento de la presente Ley.
+Todas las personas deportistas que integren las preselecciones y selecciones estatales, deberán someterse a los controles para la detección del uso de sustancias prohibidas y métodos no reglamentarios a fin de poder participar en competiciones nacionales e internacionales o por lo menos en tres ocasiones al año, pudiendo ser éstas dentro o fuera de competición y de acuerdo a lo que se establezca en el reglamento de la presente Ley.
 
 ###### Artículo 87.
 
@@ -941,41 +1107,53 @@ III. En la segunda ocasión perderá definitivamente sus derechos como deportist
 
 Las sanciones señaladas en el presente artículo se aplicarán independientemente de la responsabilidad civil o penal a que haya lugar.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
+
 ###### Artículo 89.
 
-Las personas que integran el cuerpo técnico como entrenadores, auxiliares, preparadores físicos, metodólogos, encargados de laboratorio, profesionales y técnicos en medicina y ciencias aplicables al deporte, así como directivos y administradores que tengan responsabilidad en caso positivo de dopaje, serán cesados de forma inmediata de sus cargos inhabilitándolos para ejercer su profesión en el ámbito deportivo en el estado hasta por cinco años.
+Las personas que integran el cuerpo técnico como entrenadoras, auxiliares, preparadoras físicas, metodólogas, encargadas de laboratorio, profesionales y técnicas en medicina y ciencias aplicables al deporte, así como personas directivas y administradoras que tengan responsabilidad en caso positivo de dopaje, serán cesadas de forma inmediata de sus cargos inhabilitándolas para ejercer su profesión en el ámbito deportivo en el estado hasta por cinco años.
 
 ## Título Décimo. De la Justicia en el Deporte
 
 ### Capítulo I. De la Comisión Estatal de Apelación y Arbitraje Deportivo
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
+
 ###### Artículo 90.
 
-La Comisión Estatal de Apelación y Arbitraje Deportivo es el organismo competente para substanciar el recurso de apelación y fungir como árbitro en las controversias que pudieran suscitarse entre deportistas, entrenadores, jueces, árbitros, directivos, Organismos Deportivos y demás sujetos involucrados.
+La Comisión Estatal de Apelación y Arbitraje Deportivo es el organismo competente para substanciar el recurso de apelación y fungir como árbitro en las controversias que pudieran suscitarse entre personas deportistas, entrenadoras, juzgadoras, personal de arbitraje, directivas, Organismos Deportivos y demás personas involucradas.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2026)</small>
 
 ###### Artículo 91.
 
-La Comisión estará integrada por un Presidente, un Secretario y tres Vocales, mismos que serán nombrados por el Ejecutivo Estatal a propuesta del Sistema, desempeñando su encargo con carácter honorífico.
+La Comisión estará integrada por una persona Presidenta, una persona Secretaria y tres personas Vocales, mismas que serán nombradas por quien ejerce la titularidad del Poder Ejecutivo Estatal a propuesta del Sistema, desempeñando su encargo con carácter honorífico.
 
-> <small>(REFORMADO, P.O. 19 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
 
-Los nombramientos deben recaer preferentemente en personas con profesión de Licenciado en Derecho o Abogado, amplio conocimiento y experiencia en el ámbito deportivo, y reconocido prestigio y calidad moral. Por cada miembro titular deberá nombrarse un suplente.
+Los nombramientos deben recaer preferentemente en personas con Licenciatura en Derecho, Abogadas y Abogados con amplio conocimiento y experiencia en el ámbito deportivo, y reconocido prestigio y calidad moral. Por cada persona miembro titular deberá nombrarse una suplente.
 
 Los miembros de la Comisión durarán en su encargo tres años, pudiendo ser ratificados por única vez para un periodo igual.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
+
 ###### Artículo 92.
 
-Los integrantes de la Comisión no deberán ostentar o desempeñar ningún cargo como directivo de algún Organismo Deportivo reconocido por esta Ley.
+Las personas integrantes de la Comisión no deberán ostentar o desempeñar ningún cargo como directivo de algún Organismo Deportivo reconocido por esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2026)</small>
 
 ###### Artículo 93.
 
-Para que las sesiones de la Comisión tengan validez se requerirá la presencia de la mitad más uno de sus miembros y las resoluciones se tomarán por mayoría de votos de los presentes, en caso de empate, el Presidente tendrá voto de calidad.
+Para que las sesiones de la Comisión tengan validez se requerirá la presencia de la mitad más uno de sus miembros y las resoluciones se tomarán por mayoría de votos de las y los presentes, en caso de empate, quien ejerza la Presidencia tendrá voto de calidad.
 
 Las resoluciones definitivas emitidas por la Comisión no admitirán recurso alguno en el ámbito deportivo.
 
-###### Artículo 94.
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
 
-El Ejecutivo Estatal expedirá las normas reglamentarias necesarias para la integración y funcionamiento de la Comisión.
+###### Articulo 94.
+
+La persona titular del Poder Ejecutivo Estatal expedirá las normas reglamentarias necesarias para la integración y funcionamiento de la Comisión.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE MARZO DE 2014)</small>
 
@@ -991,9 +1169,9 @@ Las disposiciones previstas en este capítulo, serán aplicables a todos los eve
 
 El Instituto, podrá asesorar en la materia, dentro del ámbito de su competencia, a los organizadores de eventos deportivos, cuando así lo requieran.
 
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
 
-El funcionamiento, integración y organización de la Comisión Especial de Nayarit estará a lo establecido en el Reglamento de la Ley General de Cultura Física y Deporte en materia de violencia en el deporte. Esta Comisión será presidida por el Director General del Instituto Nayarita de Cultura Física y Deporte, misma que será el vínculo para la ejecución de los acuerdos, políticas y acciones que determine la Comisión Especial.
+El funcionamiento, integración y organización de la Comisión Especial de Nayarit estará a lo establecido en el Reglamento de la Ley General de Cultura Física y Deporte en materia de violencia en el deporte. Esta Comisión será presidida por la persona titular de la Dirección General del Instituto Nayarita de Cultura Física y Deporte, misma que será el vínculo para la ejecución de los acuerdos, políticas y acciones que determine la Comisión Especial.
 
 > <small>(ADICIONADO, P.O. 19 DE MARZO DE 2014)</small>
 
@@ -1001,7 +1179,9 @@ El funcionamiento, integración y organización de la Comisión Especial de Naya
 
 Para efectos de esta Ley, de manera enunciativa y no limitativa se entienden por actos o conductas violentas o que incitan a la misma en el deporte, las siguientes:
 
-I. La participación activa de deportistas, entrenadores, jueces o árbitros, espectadores, organizadores, directivos o cualquier involucrado en la celebración del evento deportivo en altercados, riñas, peleas o desórdenes públicos en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos, cuando tales conductas estén relacionadas con un evento deportivo que vaya a celebrarse, se esté celebrando o se haya celebrado;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+I. La participación activa de personas: deportistas, entrenadoras, juzgadoras o personal de arbitraje, espectadoras, organizadoras, directivas o cualquier persona involucrada en la celebración del evento deportivo en altercados, riñas, peleas o desórdenes públicos en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos, cuando tales conductas estén relacionadas con un evento deportivo que vaya a celebrarse, se esté celebrando o se haya celebrado;
 
 II. La exhibición en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos de pancartas, símbolos, emblemas o leyendas que, por su contenido o por las circunstancias en las que se exhiban o utilicen de alguna forma inciten, fomenten o ayuden a la realización de comportamientos violentos, o constituyan un acto de manifiesto desprecio a las personas participantes en el evento deportivo;
 
@@ -1009,7 +1189,9 @@ III. La entonación de cánticos que inciten a la violencia o a la agresión en 
 
 IV. La irrupción no autorizada en los terrenos de juego;
 
-V. La emisión de declaraciones o la transmisión de informaciones, con ocasión de la próxima celebración de un evento deportivo, ya sea en los recintos deportivos, en sus aledaños o en los medios de transporte públicos en los que se pueda desplazar a los recintos deportivos, en cuya virtud se amenace o incite a la violencia o a la agresión a los participantes o asistentes a dichos encuentros, así como la contribución significativa mediante tales declaraciones a la creación de un clima hostil, antideportivo o que promueva el enfrentamiento físico entre los participantes en los eventos deportivos o entre asistentes a los mismos;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+V. La emisión de declaraciones o la difusión de información, con ocasión de la próxima celebración de un evento deportivo, ya sea en los recintos deportivos, en sus inmediaciones o en los medios de transporte público utilizados para el traslado a dichos recintos, que implique amenazas o incitación a la violencia o a la agresión en contra de las personas participantes o asistentes a tales eventos, así como la contribución relevante, mediante dichas declaraciones o informaciones, a la generación de un entorno hostil, antideportivo o que promueva el enfrentamiento físico entre las personas participantes o entre quienes asistan a los mismos, en contravención a los principios de igualdad, no discriminación y cultura de paz;
 
 VI. La facilitación de medios técnicos, económicos, materiales o tecnológicos que den soporte a la actuación de las personas o grupos que promuevan la violencia, o que inciten, fomenten o ayuden a los comportamientos violentos, o la creación, y difusión o utilización de soportes digitales utilizados para la realización de estas actividades, y
 
@@ -1021,15 +1203,21 @@ VII. Las que establezca la presente Ley, su reglamento y demás ordenamientos ap
 
 El instituto en materia de prevención de la violencia en el deporte, tendrá las atribuciones siguientes:
 
-I. Promover e impulsar acciones de prevención contra la violencia en el deporte;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+I. Promover e impulsar acciones para la prevención de la violencia en el deporte, con perspectiva de género, igualdad sustantiva y enfoque de derechos humanos;
 
 II. Fomentar, coordinar y realizar campañas de divulgación y de sensibilización en contra de la violencia y la discriminación, con el fin de conseguir que el deporte sea un referente de integración y convivencia social;
 
-III. Asesorar, dentro del ámbito de su competencia siempre que lo requieran, a los organizadores de aquellos eventos o espectáculos deportivos en los que razonablemente se prevea la posibilidad de actos violentos;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+III. Asesorar, dentro del ámbito de su competencia siempre que lo requieran, a las personas organizadoras de eventos o espectáculos deportivos en los que razonablemente se prevea la posibilidad de actos de violencia;
 
 IV. Coadyuvar con las dependencias administrativas involucradas en la realización de eventos deportivos, procuradurías, áreas de seguridad pública y protección civil tanto en el Estado como en los Municipios;
 
-V. Emitir recomendaciones y orientar a los miembros del Sistema sobre la implementación de medidas tendientes a erradicar la violencia y la discriminación en el desarrollo de sus actividades y la celebración de eventos deportivos;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+V. Emitir recomendaciones y orientar a las personas integrantes del Sistema sobre la implementación de medidas tendientes a erradicar la violencia y la discriminación en el desarrollo de sus actividades y la celebración de eventos deportivos;
 
 VI. Brindar asesoría a quien lo solicite, en materia de prevención de la violencia en el deporte, y
 
@@ -1071,27 +1259,45 @@ II. Cumplir con las indicaciones señaladas por el organizador, mismas que deber
 
 La coordinación y colaboración entre el Estado y los municipios de la entidad, en lo concerniente a la seguridad pública y la prevención del delito en los eventos deportivos masivos o con fines de espectáculo se ejecutará sin perjuicio de lo dispuesto por la Ley General del Sistema Nacional de Seguridad Pública y la Ley del Sistema Estatal de Seguridad Pública, ésta será subsidiaria y se sujetará a lo siguiente:
 
-I. Los usuarios de las instalaciones deportivas, ya sea organizadores, participantes, asistentes, aficionados o espectadores en general, atenderán las disposiciones en materia de seguridad pública y protección civil, según corresponda y las indicaciones en la materia que emitan las autoridades competentes, para que los eventos deportivos se realicen de manera ordenada y se preserve la integridad de las personas y los bienes;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
 
-II. Para la seguridad en el interior de los recintos y sus anexos, los organizadores de los eventos deberán observar las disposiciones legales, reglamentarias y administrativas correspondientes al municipio en que se celebren los eventos,
+I. Las personas usuarias de las instalaciones deportivas, ya sean organizadoras, participantes, asistentes, aficionadas o espectadoras en general, deberán atender las disposiciones en materia de seguridad pública y protección civil, así como las indicaciones que emitan las autoridades competentes, a efecto de que los eventos deportivos se desarrollen de manera ordenada y segura, preservando la integridad de las personas y los bienes;
 
-La seguridad de las personas que se encuentren en la cancha, área de competencia, en los vestidores y baños para jugadores y en los corredores que los comuniquen, será responsabilidad compartida y exclusiva de las asociaciones o sociedades deportivas que avalen el evento y de los organizadores y sólo a petición expresa de sus dirigentes podrán intervenir las autoridades municipales, estatales o federales de seguridad para restablecer la paz pública, salvo que la intervención sea de necesidad inminente e indispensable para salvaguardar la vida o la integridad de los jugadores, de las personas o de los bienes que se encuentren en dichos espacios, cuyo caso no necesitarán permiso alguno;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2026)</small>
+
+II. Para la seguridad en el interior de los recintos y sus anexos, las personas organizadoras de los eventos deberán observar las disposiciones legales, reglamentarias y administrativas correspondientes al municipio en que se celebren los eventos.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
+
+La seguridad de las personas que se encuentren en la cancha, área de competencia, en los vestidores y baños para personas jugadoras y en los corredores que los comuniquen, será responsabilidad compartida y exclusiva de las asociaciones o sociedades deportivas que avalen el evento y de las personas organizadoras y sólo a petición expresa de sus dirigencias podrán intervenir las autoridades municipales, estatales o federales de seguridad para restablecer la paz pública, salvo que la intervención sea de necesidad inminente e indispensable para salvaguardar la vida o la integridad de las y los jugadores, de las personas o de los bienes que se encuentren en dichos espacios, en cuyo caso no necesitarán permiso alguno.
 
 La seguridad en los alrededores de los recintos deportivos corresponde a las autoridades municipales en los términos de lo que dispongan las leyes aplicables;
 
-III. Para participar en la planeación previa y en el seguimiento durante el desarrollo del evento, los organizadores de los eventos y las autoridades deportivas podrán acreditar un representante y deberán atender las indicaciones y recomendaciones de las autoridades de seguridad pública o de la Comisión Especial de Nayarit;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
 
-IV. Los representantes a que se refiere esta fracción podrán realizar sugerencias y recomendaciones o solicitudes a las autoridades de seguridad pública, pero por ningún motivo tendrán carácter de autoridad pública ni asumirán posiciones de mando;
+III. Para participar en la planeación previa y en el seguimiento durante el desarrollo del evento, las personas organizadoras de los eventos y las autoridades deportivas podrán acreditar una persona representante, quienes deberán atender las indicaciones y recomendaciones de las autoridades de seguridad pública o de la Comisión Especial de Nayarit;
 
-V. Los responsables de la seguridad al interior de los recintos deportivos y sus instalaciones anexas designados por los organizadores de los eventos, deberán participar en las labores de planeación previa, atendiendo las recomendaciones e indicaciones de las autoridades de seguridad pública;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
 
-VI. En la seguridad al interior de los recintos y sus instalaciones anexas, a solicitud de los organizadores, podrán participar autoridades de los tres órdenes de gobierno, atendiendo a lo dispuesto en este artículo y en las disposiciones legales y reglamentarias aplicables, en cuyo caso el mando de los elementos tanto oficiales, como los que aporten los responsables del evento, estará siempre a cargo de quien jerárquicamente corresponda dentro de la corporación, quien será el responsable de coordinar las acciones;
+IV. Las personas representantes a que se refiere la fracción anterior podrán realizar sugerencias y recomendaciones o solicitudes a las autoridades de seguridad pública, pero por ningún motivo tendrán carácter de autoridad pública ni asumirán posiciones de mando;
 
-VII. Todas las autoridades contribuirán, en el ámbito de sus competencias, a la efectiva coordinación para garantizar la seguridad en las inmediaciones de las instalaciones deportivas y en el traslado de aficionados al lugar donde se realicen los eventos deportivos, así como en el auxilio eficaz y oportuno al interior de los recintos en caso de requerirse, y
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+V. Las personas responsables de la seguridad al interior de los recintos deportivos y sus instalaciones anexas, designadas por quienes organicen los eventos, deberán participar en las labores de planeación previa, atendiendo las recomendaciones e indicaciones de las autoridades de seguridad pública;
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+VI. En la seguridad al interior de los recintos y sus instalaciones anexas, a solicitud de las personas organizadoras, podrán participar autoridades de los tres órdenes de gobierno, atendiendo a lo dispuesto en este artículo y en las disposiciones legales y reglamentarias aplicables, en cuyo caso el mando de las y los elementos tanto oficiales, como las y los aportados por las personas responsables del evento, estará siempre a cargo de quien jerárquicamente corresponda dentro de la corporación y será responsable de coordinar las acciones;
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+VII. Todas las autoridades contribuirán, en el ámbito de sus competencias, a la efectiva coordinación para garantizar la seguridad en las inmediaciones de las instalaciones deportivas y en el traslado de las personas aficionadas o asistentes a los eventos, así como en el auxilio eficaz y oportuno al interior de los recintos cuando sea necesario, y
 
 VIII. Las autoridades de seguridad pública tanto estatales como municipales capacitarán a los cuerpos policiacos en el uso apropiado de sus atribuciones así como en técnicas y tácticas especiales para resolver conflictos y eliminar cualquier acto de violencia que pueda suscitarse.
 
-Para los efectos de este artículo se considera que el evento deportivo concluye hasta que el recinto se encuentre desalojado y los asistentes se hayan retirado de las inmediaciones.
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
+
+Para los efectos de este artículo se considera que el evento deportivo concluye hasta que el recinto se encuentre desalojado y las personas asistentes se hayan retirado de las inmediaciones.
 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2014)</small>
 
@@ -1145,9 +1351,11 @@ VII. Multa de diez a noventa veces la UMA, y
 
 VIII. Suspensión de uno a cinco años del acceso a eventos deportivos masivos o con fines de espectáculo.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
+
 ###### Artículo 97.
 
-Habrá lugar a la amonestación cuando la infracción cometida no se considere grave, exhortando por escrito al infractor para que enmiende la falta o en su caso no la vuelva a cometer, y apercibiéndolo que en caso de reincidencia se le aplicará alguna de las sanciones establecidas en el artículo anterior.
+Habrá lugar a la amonestación cuando la infracción cometida no se considere grave, exhortando por escrito a la persona infractora para que enmiende la falta o en su caso no la vuelva a cometer, y apercibiéndole de que en caso de reincidencia se le aplicará alguna de las sanciones establecidas en el artículo anterior.
 
 ###### Artículo 98.
 
@@ -1155,7 +1363,9 @@ Las infracciones que darán motivo a que se limiten, reduzcan o cancelen los est
 
 I. Destinar los recursos recibidos a un uso distinto al previsto para su otorgamiento; o
 
-II. Incumplir cualquiera de los compromisos a los que se haya obligado el beneficiario.
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+II. Incumplir cualquiera de los compromisos a los que se haya obligado la persona beneficiaria.
 
 ###### Artículo 99.
 
@@ -1185,17 +1395,23 @@ V. En el caso de los Organismos Deportivos, cuando cambie sus características, 
 
 La destitución e inhabilitación para desempeñar cargos directivos en Organismos Deportivos procederá en los siguientes casos:
 
-I. Cuando el directivo en su actuación transgreda las disposiciones de la presente Ley y demás disposiciones que de ella emanen;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
 
-II. Cuando habiendo mediado amonestación por una infracción anterior, se reincida en dicha falta y ésta sea atribuible al directivo; y
+I. Cuando la persona directiva en su actuación transgreda las disposiciones de la presente Ley y demás disposiciones que de ella emanen;
 
-III. Cuando el directivo transgreda las disposiciones de los estatutos y reglamentos deportivos que regulan a la disciplina en que participa dicho organismo.
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
 
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2014)</small>
+II. Cuando habiendo mediado amonestación por una infracción anterior, se reincida en dicha falta y ésta sea atribuible a la persona directiva, y
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+III. Cuando la persona directiva transgreda las disposiciones de los estatutos y reglamentos deportivos que regulan a la disciplina en que participa dicho organismo.
+
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
 
 ###### Artículo 101 Bis.
 
-A los aficionados, asistentes o espectadores en general, sin perjuicio de las sanciones penales o civiles, se aplicarán en su caso las penas establecidas en las fracciones I, VI, VII y VIII del artículo 96.
+A las y los aficionados, asistentes o espectadores en general, sin perjuicio de las sanciones penales o civiles, se aplicarán en su caso las penas establecidas en las fracciones I, VI, VII y VIII del artículo 96.
 
 ###### Artículo 102.
 
@@ -1213,15 +1429,19 @@ V. La reincidencia.
 
 #### Sección Segunda. De la Substanciación del Procedimiento
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
+
 ###### Artículo 103.
 
-El Instituto cuando tenga conocimiento de algún hecho o falta que pueda constituir una infracción a las disposiciones de esta Ley y demás disposiciones que de ella emanen, iniciará el procedimiento respectivo para determinar la responsabilidad o no del sujeto involucrado y aplicar en su caso la sanción que corresponda.
+El Instituto cuando tenga conocimiento de algún hecho o falta que pueda constituir una infracción a las disposiciones de esta Ley y demás disposiciones que de ella emanen, iniciará el procedimiento respectivo para determinar la responsabilidad o no de la persona involucrada y aplicar en su caso la sanción que corresponda.
 
 ###### Artículo 104.
 
 El procedimiento para la imposición de sanciones se tramitará conforme a lo siguiente:
 
-I. Se notificará personalmente y por escrito al probable infractor de los hechos y faltas que se le atribuyan, a efecto que de contestación y ofrezca los medios de prueba que a su interés legal convenga apercibiéndolo que en caso de no hacerlo se le tendrá por perdido su derecho y en consecuencia por contestada en el sentido afirmativo a la causa; asimismo se señalará la fecha y hora en que habrá de celebrarse la audiencia de desahogo de pruebas y formulación de alegatos correspondiente, la cual deberá tener verificativo dentro de los diez días hábiles siguientes;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+I. Se notificará personalmente y por escrito a la persona probable infractora de los hechos y faltas que se le atribuyan, a efecto de que formule su contestación y ofrezca los medios de prueba que a su interés legal convenga, apercibiéndole que en caso de no hacerlo se le tendrá por perdido su derecho y en consecuencia por contestados los hechos en el sentido afirmativo; asimismo, se señalará la fecha y hora en que habrá de celebrarse la audiencia de desahogo de pruebas y formulación de alegatos correspondiente, la cual deberá tener verificativo dentro de los diez días hábiles siguientes;
 
 II. Celebrada la audiencia deberá emitirse resolución en un término no mayor a diez días hábiles;
 
@@ -1327,11 +1547,17 @@ Los Institutos Municipales orientarán su actuación a la consecución de los si
 
 I. Integrar y coordinar su respectivo Sistema Municipal;
 
-II. Establecer dentro del marco del Sistema la programación y coordinación de las actividades deportivas y el fomento de la cultura física en el ámbito de su competencia;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
 
-III. Fomentar los programas municipales de carácter deportivo de conformidad con el Programa Estatal; y
+II. Establecer dentro del marco del Sistema la programación y coordinación de las actividades deportivas y el fomento de la cultura física en el ámbito de su competencia, con perspectiva de género, igualdad sustantiva y enfoque de derechos humanos;
 
-IV. Otorgar estímulos, premios o apoyos económicos a dependencias, organizaciones deportivas, instituciones, entrenadores, investigadores y deportistas que se destaquen en el fomento de la cultura física y en la promoción, organización y práctica de disciplinas deportivas que estén incorporadas al Sistema.
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+III. Fomentar los programas municipales en materia deportiva, de conformidad con el Programa Estatal, y bajo los principios de igualdad y no discriminación, y
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+IV. Otorgar estímulos, premios o apoyos económicos a dependencias, organizaciones deportivas, instituciones y a personas entrenadoras, investigadoras y deportistas que se destaquen en el fomento de la cultura física y en la promoción, organización y práctica de disciplinas deportivas incorporadas al Sistema, bajo criterios de equidad y el reconocimiento al mérito en condiciones de igualdad.
 
 ###### Artículo 122.
 
@@ -1371,9 +1597,11 @@ Los Sistemas Municipales se integran por las autoridades municipales, organismos
 
 Los Sistemas Municipales coordinarán sus actividades para aplicar las políticas, planes y programas que en materia de cultura física y deporte se adopten por el Sistema.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
+
 ###### Artículo 126.
 
-En tanto los municipios del estado no creen su respectivo Instituto Municipal, las disposiciones de la presente Ley en la que se contemplen atribuciones o se establezcan deberes a cargo de aquél, las desempeñará el Presidente Municipal directamente o a través de la unidad administrativa que éste determine.
+En tanto los municipios del estado no creen su respectivo Instituto Municipal, las disposiciones de la presente Ley en la que se contemplen atribuciones o se establezcan deberes a cargo de aquél, las desempeñará la persona titular de la Presidencia Municipal, o a través de la unidad administrativa que ésta determine.
 
 ## Transitorios
 
@@ -1522,3 +1750,11 @@ P.O. 12 DE DICIEMBRE DE 2025.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 Segundo. Comuníquese el presente Decreto a la persona que ejerza la Dirección General del Instituto Nayarita de Cultura Física y Deporte, para los efectos legales conducentes.
+
+P.O. 27 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA, ADICIONA Y DEROGA DIVERSOS NUMERALES DE LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE NAYARIT, EN MATERIA DE IGUALDAD SUSTANTIVA Y PERSPECTIVA DE GÉNERO".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente instrumento.
