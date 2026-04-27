@@ -4,7 +4,7 @@ identifier: "NAY-ley-para-el-desarrollo-social-del-estado-de-nayarit-140650"
 country: "mx"
 rank: "ley"
 publication_date: "2020-01-24"
-last_updated: "2026-02-27"
+last_updated: "2026-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=140650&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY PARA EL DESARROLLO SOCIAL DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2026.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Nayarit, el 24 de enero de 2020.
 
@@ -47,13 +47,17 @@ LEY PARA EL DESARROLLO SOCIAL DEL ESTADO DE NAYARIT
 
 La presente Ley es de orden público, interés social y de observancia general, tiene por objeto promover, proteger y garantizar el pleno ejercicio de los derechos sociales de quienes habitan en el estado de Nayarit, consagrados en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales celebrados por el Estado Mexicano, la Constitución Política del Estado Libre y Soberano de Nayarit, así como las demás leyes aplicables en la materia, mediante una política de desarrollo social dirigida a:
 
-I. Cumplir con la responsabilidad social del estado y municipios, asumiendo plenamente las obligaciones constitucionales en materia de desarrollo social, para garantizar que la ciudadanía pueda gozar de sus derechos sociales universales;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+I. Cumplir con la responsabilidad social del estado y municipios, asumiendo plenamente las obligaciones constitucionales en materia de desarrollo social y la igualdad sustantiva entre mujeres y hombres, para garantizar que la ciudadanía pueda gozar de sus derechos sociales universales;
 
 II. Establecer el Sistema Estatal de Desarrollo Social con la participación del Gobierno del Estado, los municipios, los sectores social y privado para consolidar las bases de coordinación de las acciones orientadas a la consecución de los objetivos, y prioridades de la Política de Desarrollo Social a fin de disminuir las desigualdades sociales en todo el estado;
 
 III. Regular y garantizar la prestación de los bienes y servicios contenidos en los programas sociales, dando prioridad a las personas vulnerables y núcleos de población que mayores carencias presenten;
 
-IV. Establecer los mecanismos para la planeación, instrumentación, ejecución, seguimiento y evaluación de las políticas públicas en materia de desarrollo Social;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+IV. Establecer los mecanismos para la planeación, instrumentación, ejecución, seguimiento y evaluación de las políticas públicas en materia de desarrollo social bajo los criterios de integralidad y transversalidad, con perspectiva de género y derechos humanos;
 
 V. Combatir con eficiencia los niveles de pobreza, marginación, exclusión y desigualdad social de los habitantes del estado de Nayarit;
 
@@ -169,7 +173,13 @@ V. Participación social: Derecho de las personas y organizaciones a intervenir 
 
 VI. Sustentabilidad: Preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales, para mejorar la calidad de vida y la productividad de las personas, sin comprometer la satisfacción de las necesidades de las generaciones futuras;
 
-VII. Respeto a la diversidad: Reconocimiento en términos de origen étnico, género, edad, discapacidad, condición social, condiciones de salud, religión, las opiniones, preferencias, estado civil o cualquier otra, para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2026)</small>
+
+VII. Respeto a la diversidad: Reconocimiento en términos de origen étnico, género, edad, discapacidad, condición social, condiciones de salud, religión, las opiniones, orientación sexual, estado civil o cualquier otra, para superar toda condición de discriminación y promover la igualdad sustantiva, el desarrollo con equidad y respeto a las diferencias.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2026)</small>
+
+Para garantizar la igualdad sustantiva entre mujeres y hombres, el Estado fomentará las medidas necesarias para prevenir y erradicar cualquier forma de discriminación;
 
 VIII. Libre determinación y autonomía de los pueblos indígenas y sus comunidades: Reconocimiento en el marco constitucional a las formas internas de convivencia y de organización; ámbito de aplicación de sus propios sistemas normativos; elección de sus autoridades o representantes; medios para preservar y enriquecer sus lenguas y cultura; medios para conservar y mejorar su hábitat; acceso preferente a sus recursos naturales; elección de representantes ante los ayuntamientos y acceso pleno a la jurisdicción del Estado;
 
@@ -227,15 +237,19 @@ VII. Ley de Protección de Datos Personales en Posesión de Sujetos Obligados pa
 
 Sin distinción, toda persona que habita en el estado tiene derecho a participar y a ser beneficiada por los programas de desarrollo social en los términos que establezca la presente Ley y las reglas de operación de cada programa.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
+
 ###### Artículo 7.
 
-Son derechos para el desarrollo social la educación, la salud, la alimentación nutritiva y de calidad, la vivienda digna y decorosa, el disfrute de un medio ambiente sano, el trabajo y la seguridad social, los relativos a la no discriminación y los demás establecidos en la Constitucional General y la Constitución Local.
+Son derechos para el desarrollo social la educación, la salud, la alimentación nutritiva y de calidad, la vivienda digna y decorosa, el disfrute de un medio ambiente sano, el trabajo y la seguridad social, los relativos a la no discriminación, la igualdad sustantiva entre mujeres y hombres y los demás establecidos en la Constitución General y la Constitución Local.
 
 ###### Artículo 8.
 
 Las personas beneficiarias de los Programas Sociales tienen derecho a:
 
-I. Ser tratadas con respeto y dignidad;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+I. Recibir un trato digno y respetuoso, libre de cualquier forma de discriminación o violencias;
 
 II. Participar y acceder a los Programas Sociales conforme a las reglas de operación que cada programa establezca;
 
@@ -271,9 +285,11 @@ V. Las demás que establezca el Gran Plan y los programas de desarrollo social, 
 
 ### CAPÍTULO TERCERO. COMPETENCIAS
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
+
 ###### Artículo 10.
 
-La persona titular del Poder Ejecutivo, dentro de su competencia será la autoridad rectora para desarrollo social del estado, en el diseño y ejecución de las políticas y programas de la materia.
+La persona titular del Poder Ejecutivo, dentro de su competencia será la autoridad rectora para el desarrollo social del estado, en el diseño y ejecución de las políticas y programas de la materia, bajo los criterios de integralidad y transversalidad, con perspectiva de género y derechos humanos.
 
 ###### Artículo 11.
 
@@ -379,17 +395,29 @@ Para fomentar la participación de la población en la política de desarrollo s
 
 La política estatal de desarrollo social comprende los programas, acciones, directrices, líneas de acción y convenios que establezca bajo los criterios de integralidad y transversalidad, la Secretaría, encaminada a impulsar el desarrollo social en el estado, tendrá los siguientes objetivos:
 
-I. Generar oportunidades de desarrollo integral, con equidad y procurando las mejores condiciones de vida para quienes habitan en el estado;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+I. Propiciar las condiciones que aseguren el disfrute de los derechos sociales, individuales o colectivos, garantizando el acceso a los programas de desarrollo social y la igualdad de oportunidades, así como la superación de la discriminación, la exclusión social y la eliminación de las brechas de desigualdad entre mujeres y hombres, procurando las mejores condiciones de vida para quienes habitan en el estado;
 
 II. Dirigir sus acciones hacia la construcción de una sociedad justa, igualitaria y equitativa que asegure el goce de los derechos sociales;
 
 III. Implementar de manera transversal los programas que sean necesarios para la ejecución de las políticas públicas de desarrollo social para garantizar el respeto de los derechos económicos y sociales, individuales o colectivos;
 
-IV. Impulsar esquemas que fomenten el empleo y la conservación del mismo, el auto empleo, el cooperativismo y las empresas sociales, los cuales eleven el nivel de ingreso y mejore su distribución;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
 
-V. Diseñar y ejecutar programas transversales de desarrollo social con enfoque antidiscriminatorio, a los cuales puedan acceder en igualdad de oportunidades las personas pertenecientes a los grupos sociales en condición de vulnerabilidad que les permita la inclusión e integración social, así como la superación de la condición de riesgo, discriminación y la exclusión social, y
+IV. Promover un desarrollo económico con sentido social que fomente el empleo, el auto empleo, el cooperativismo y las empresas sociales, que propicien y conserven el empleo, eleven el nivel de ingreso, mejoren su distribución y fomenten la igualdad salarial entre mujeres y hombres;
 
-VI. Asegurar y fomentar la participación ciudadana en la planeación e instrumentación de la política estatal de desarrollo social.
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+V. Diseñar y ejecutar programas transversales de desarrollo social con enfoque antidiscriminatorio, a los cuales puedan acceder en igualdad de oportunidades las personas pertenecientes a los grupos sociales en condición de vulnerabilidad que les permita la inclusión e integración social, así como la superación de la condición de riesgo, discriminación y la exclusión social, promoviendo el desarrollo sostenible y sustentable en el ejercicio de los derechos sociales;
+
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+VI. Asegurar y fomentar la participación ciudadana en la planeación e instrumentación de la política estatal de desarrollo social, y
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+VII. La transversalidad de la perspectiva de género y de derechos humanos en el diseño, implementación y evaluación de los programas de desarrollo social.
 
 #### SECCIÓN SEGUNDA. POLÍTICA MUNICIPAL DE DESARROLLO SOCIAL
 
@@ -519,7 +547,9 @@ La Comisión es un organismo de coordinación, apoyo y vinculación entre las di
 
 Será presidido por la persona titular del Poder Ejecutivo del Estado y se integrará por:
 
-I. Titular de la Secretaría quién tendrá a cargo la coordinación ejecutiva y suplirá a la persona titular del Poder Ejecutivo en caso de ausencia;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+I. La persona Titular de la Secretaría quien tendrá a cargo la coordinación ejecutiva y suplirá a la persona Titular del Poder Ejecutivo en caso de ausencia;
 
 II. Por quienes tengan la titularidad de las siguientes dependencias y entidades;
 
@@ -1054,3 +1084,9 @@ P.O. 27 DE FEBRERO DE 2026.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 Segundo. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 27 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO SOCIAL DEL ESTADO DE NAYARIT, EN MATERIA DE IGUALDAD SUSTANTIVA Y PERSPECTIVA DE GÉNERO".]
+
+ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
