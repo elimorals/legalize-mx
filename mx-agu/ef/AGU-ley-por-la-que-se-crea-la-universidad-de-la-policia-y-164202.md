@@ -4,7 +4,7 @@ identifier: "AGU-ley-por-la-que-se-crea-la-universidad-de-la-policia-y-164202"
 country: "mx"
 rank: "ley"
 publication_date: "2023-02-03"
-last_updated: "2025-10-28"
+last_updated: "2026-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=164202&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY POR LA QUE SE CREA LA UNIVERSIDAD DE LA POLICÍA Y CIENCIAS DE LA SEGURIDAD DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2026.
 
 Ley publicada en el Número 3 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 3 de febrero de 2023.
 
@@ -145,7 +145,9 @@ VIII. La persona titular de la Dirección General de Reinserción Social;
 
 IX. La persona titular de la Comisión Estatal de Derechos Humanos;
 
-X. La persona titular de la Comisión de Educación y Cultura del Congreso del Estado y quien solo tendrá derecho a voz; y
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+X. La persona titular de la Comisión de Educación y Cultura del Congreso del Estado; y
 
 XI. El Secretario General de la Universidad quien fungirá como Secretario Técnico y quien solo tendrá derecho a voz.
 
@@ -979,19 +981,11 @@ Con la entrada en vigor del presente Decreto, la Universidad de la Policía y Ci
 
 Con la entrada en vigor del presente Decreto, quedan sin efectos todas aquellas disposiciones que se opongan al mismo.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 280 QUE REFORMA, DEROGA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ-LLAVE”.]
+P.O. 27 DE ABRIL DE 2026.
 
-Primero. Este Decreto entrará en vigor el día 1° de julio de 2002, previa publicación en la Gaceta Oficial del estado.
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 456.- SE REFORMA LA LEY POR LA QUE (SIC) CREA LA UNIVERSIDAD DE LA POLICÍA Y CIENCIAS DE LA SEGURIDAD DE AGUASCALIENTES".]
 
-Segundo. Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
-
-Tercero. El personal, así como los recursos materiales y financieros destinados a las funciones de trabajo y previsión social con que actualmente cuenta la Secretaría de Gobierno, pasarán a la Secretaría de Trabajo y Previsión Social, debiendo ésta sujetarse al presupuesto autorizado para tal fin en el ejercicio fiscal de 2002.
-
-Cuarto. Las dependencias del Poder Ejecutivo del Estado a que hace referencia este Decreto, adecuarán su organización y normatividad interiores, en un plazo no mayor de 60 días hábiles, contados a partir de la entrada en vigor del mismo.
-
-Quinto. En tanto no se expidan las normas reglamentarias correspondientes, seguirá siendo aplicable la normatividad vigente en lo que no se oponga al presente Decreto.
-
-G.O. 28 DE NOVIEMBRE DE 2002.
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 303 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO Y DEL CÓDIGO FINANCIERO PARA EL ESTADO”.]
 
