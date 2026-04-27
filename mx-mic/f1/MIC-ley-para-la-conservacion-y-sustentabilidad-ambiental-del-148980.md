@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-la-conservacion-y-sustentabilidad-ambiental-del-148980
 country: "mx"
 rank: "ley"
 publication_date: "2021-04-05"
-last_updated: "2025-09-02"
+last_updated: "2026-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=148980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA LA CONSERVACIÓN Y SUSTENTABILIDAD AMBIENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2026.
 
 Ley publicada en la Novena Sección del Número 43 del Periódico Oficial del Estado de Michoacán de Ocampo, el lunes 5 de abril de 2021.
 
@@ -1153,9 +1153,13 @@ Se promoverán campañas de concientización entre los propietarios de estableci
 
 En el Estado se promoverá, mediante el uso de artículos biodegradables, la sustitución en el consumo de artículos de higiene personal y belleza de un solo uso, mencionando de manera enunciativa más no limitativa, los hisopos de plástico, pañales no biodegradables y microplásticos, hasta lograr su erradicación a través de campañas de educación y concientización que el Estado y los Ayuntamientos deberán realizar.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
+
 ###### Artículo 62.
 
-Queda estrictamente prohibido el uso de plásticos y productos derivados del poliestireno de un solo uso, botellas de plástico desechables y globos en el desarrollo de cualquier actividad que realicen los Poderes del Estado, Órganos Constitucionalmente Autónomos y Ayuntamientos.
+Las dependencias y entidades de la Administración Pública Estatal y Municipal, así como los Órganos Autónomos, deberán sustituir el uso de plásticos y productos derivados del poliestireno de un solo uso en sus oficinas, instalaciones y actividades, por materiales biodegradables, compostables o reutilizables.
+
+Queda prohibido el uso, distribución y entrega de plásticos y productos derivados del poliestireno de un solo uso en eventos públicos, ferias, festivales, campañas o actos oficiales organizados, patrocinados o autorizados por autoridades estatales y municipales.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2025)</small>
 
@@ -1552,6 +1556,12 @@ II. Las acciones y medidas necesarias para rehabilitar o restaurar las zonas de 
 III. El establecimiento de las zonas o perímetros de protección de manantiales y humedales a efecto de preservar las condiciones hidrológicas y el ecosistema, mismos que deberán ser considerados en los Programas de Desarrollo Urbano; y,
 
 IV. El Plan de Restauración y/o Protección Ambiental, se elaborará de acuerdo a los términos de referencia establecidos en el Reglamento de la presente Ley.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2026)</small>
+
+###### Artículo 104 Bis.
+
+El Estado, en coordinación con la Secretaría del Medio Ambiente, los municipios y las instancias competentes, podrá promover acciones de conservación, restauración y educación ambiental sobre los ecosistemas hídricos, considerando su importancia ambiental, social, cultural y económica.
 
 ## TÍTULO CUARTO. DEL MANEJO DE RECURSOS NATURALES Y CONSERVACIÓN DE HÁBITATS
 
@@ -2341,6 +2351,10 @@ VI. Promoverá acciones e inversiones con los sectores sociales y privados, con 
 
 La Secretaría impulsará el fortalecimiento de la participación social a través de la realización de acciones conjuntas con los sectores público, privado y social, para la conservación y el mejoramiento del ambiente, el aprovechamiento sustentable de los recursos naturales, el adecuado manejo de residuos y la implementación de la educación ambiental para el desarrollo sustentable.
 
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2026)</small>
+
+Asimismo, la Secretaría coordinará e implementará programas permanentes con las dependencias y entidades de la administración pública estatal, los ayuntamientos de los municipios del Estado, los concejos ciudadanos conformados de acuerdo a los procedimientos legales correspondientes, el Congreso del Estado, el Supremo Tribunal de Justicia del Estado y los organismos constitucionales autónomos, para el manejo, reutilización y reciclaje de equipos de cómputo, dispositivos electrónicos y demás residuos tecnológicos que se encuentren caducos o en desuso y que sean generados en las oficinas gubernamentales, fomentando la economía circular y la educación ambiental tecnológica.
+
 ###### Artículo 191.
 
 Para los efectos del artículo anterior, la Secretaría, convocará a representantes de los pueblos indígenas, organizaciones, empresariales, pesqueras, campesinos y productores agropecuarios y forestales, de las comunidades, de instituciones educativas, académicas y de investigación, de instituciones privadas no lucrativas, personas con capacidades diferentes, grupos minoritarios y de otros representantes de la sociedad, para que manifiesten su opinión y propuestas; asimismo, establecerá los acuerdos de concertación necesarios con:
@@ -3116,6 +3130,32 @@ P.O. 6 DE MAYO DE 2025.
 P.O. 2 DE SEPTIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 214 POR EL QUE "SE ADICIONAN LAS FRACCIONES XLIV Y XLV RECORRIENDO EN SU ORDEN LA SUBSECUENTE FRACCIÓN DEL ARTÍCULO 8; Y, SE ADICIONA EL ARTÍCULO 62 BIS A LA LEY PARA LA CONSERVACIÓN Y SUSTENTABILIDAD AMBIENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+PRIMERO. Notifíquese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 27 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 426 POR EL QUE "SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 190 DE LA LEY PARA LA CONSERVACIÓN Y SUSTENTABILIDAD AMBIENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. Notifíquese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Tercero. Notifíquese a las dependencias y entidades de la Administración Pública Estatal, los ayuntamientos de los municipios del Estado, los concejos ciudadanos conformados de acuerdo a los procedimientos legales correspondientes, el Supremo Tribunal de Justicia del Estado y los organismos constitucionales autónomos para su conocimiento y efectos conducentes.
+
+P.O. 27 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 427.- ARTÍCULO ÚNICO.- SE REFORMA EL ARTÍCULO 62 DE LA LEY PARA LA CONSERVACIÓN Y SUSTENTABILIDAD AMBIENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. Notifíquese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 27 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 428.- ARTÍCULO ÚNICO.- SE ADICIONA EL ARTÍCULO 104 BIS A LA LEY PARA LA CONSERVACIÓN Y SUSTENTABILIDAD AMBIENTAL DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
 
 PRIMERO. Notifíquese al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
