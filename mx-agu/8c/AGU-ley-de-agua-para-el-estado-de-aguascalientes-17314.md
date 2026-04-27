@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-agua-para-el-estado-de-aguascalientes-17314"
 country: "mx"
 rank: "ley"
 publication_date: "2000-07-24"
-last_updated: "2026-01-12"
+last_updated: "2026-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2026.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 24 de julio de 2000.
 
@@ -112,6 +112,10 @@ XI. Descarga: las aguas residuales y pluviales que se vierten en el sistema de a
 XII. Drenaje: sistema de conductos abiertos y cerrados, estructuras hidráulicas y accesorios para la conducción, desagüe y alejamiento de las aguas superficiales, residuales o pluviales;
 
 XIII. Estructura tarifaria: la tabla que establece por cada tipo de usuarios y, en su caso, nivel de consumos, los precios por unidad de servicio que deberá pagar cada usuario;
+
+> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+XIII bis. Jardines de lluvia: infraestructura natural o artificial, conformados por plantas tolerantes al agua, de poca profundidad, diseñada para la captación y retención temporal del agua pluvial proveniente de superficies impermeables, como techos, aceras y pavimentos, permitiendo su infiltración gradual al subsuelo;
 
 XIV. Instituto: el Instituto del Agua del Estado;
 
@@ -309,9 +313,17 @@ XXVIII. Participar en la elaboración de los planes y programas para la conserva
 
 XXIX. Dar seguimiento a las obligaciones derivadas de los convenios de coordinación celebrados con los municipios del Estado en los términos establecidos por la Ley Municipal para el Estado de Aguascalientes;
 
-XXX. Las demás que en materia de agua sean concertadas por la Federación al Gobierno del Estado de Aguascalientes en los términos de Ley, de los convenios que al efecto se celebren, las que le sean encomendadas por el Titular del Ejecutivo del Estado relacionadas con los temas de su competencia en materia del agua, las que asuma derivadas de los convenios de colaboración celebrados con los municipios del Estado y las que sean necesarias para el cumplimiento de las demás funciones previstas en esta ley y en las demás normas jurídicas aplicables; y
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
 
-XXXI. Las demás que le atribuyan las normas jurídicas aplicables.
+XXX. Las demás que en materia de aguo (sic) sean concertados (sic) por la Federación al Gobierno del Estado de Aguascalientes en los términos de Ley, de los convenios que al efecto se celebren, las que le sean encomendadas por el Titular del Ejecutivo del Estado relacionadas con los lemas (sic) de su competencia en materia del aguo (sic), las que asuma derivadas de los convenios de colaboración celebrados con los municipios del Estado y las que sean necesarios (sic) para el cumplimiento de las demás funciones previstas en esta ley y en las demás normas jurídicas aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE ABRIL DE 2026)</small>
+
+XXXI. Fomentar la implementación de mecanismos de captación de agua pluvial, tales como jardines de lluvia, sistemas de infiltración y otras soluciones sustentables, en el diseño y la construcción de los espacios públicos y privados, con el fin de mejorar la recarga de los acuíferos y optimizar el aprovechamiento del recurso hídrico; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 27 DE ABRIL DE 2026)</small>
+
+XXXII. Las demás que le atribuyan las normas jurídicas aplicables.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE NOVIEMBRE DE 2019)</small>
 
@@ -2796,3 +2808,11 @@ El Instituto del Agua del Estado, en un plazo no mayor a 120 días naturales a p
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 27 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 458.- SE REFORMA LA LEY DE AGUA PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
