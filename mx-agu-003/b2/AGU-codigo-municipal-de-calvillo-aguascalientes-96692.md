@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-calvillo-aguascalientes-96692"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-11-25"
-last_updated: "2025-02-17"
+last_updated: "2026-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96692&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE CALVILLO DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2026.
 
 Código Publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de noviembre de 2013.
 
@@ -2603,15 +2603,15 @@ Los Manuales de Organización y Procedimientos, una vez publicados, imponen carg
 
 Los Manuales de Organización y Procedimientos serán elaborados por cada dependencia o en su caso, elaborados por la Secretaría encargada del ámbito administrativo interno municipal, de conformidad a los lineamientos de la dependencia correspondiente y aprobados en todo caso por el titular de la Secretaría respectiva o del organismo descentralizado correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 17 DE FEBRERO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 27 DE ABRIL DE 2026)</small>
 
 ###### Artículo 311.
 
 Las dependencias de la Administración Pública Municipal contarán con las siguientes Unidades Administrativas:
 
-> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE ABRIL DE 2026)</small>
 
-I. Secretaría de Gobernación y del Ayuntamiento:
+I. Secretaría de Gobernación y del Ayuntamiento
 
 > <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
 
@@ -2637,9 +2637,25 @@ f). Departamento de Enlace con Relaciones Exteriores,
 
 g). Coordinación de Archivo de trámite, concentración e histórico municipal; y
 
-> <small>(REFORMADO, P.O. 21 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE ABRIL DE 2026)</small>
 
-h). Departamento de Jueces Calificadores.
+h). Dirección de Justicia Cívica.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE ABRIL DE 2026)</small>
+
+1). Departamento de Jueces Cívicos;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE ABRIL DE 2026)</small>
+
+a) Área de Custodios.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE ABRIL DE 2026)</small>
+
+2). Departamento de Servicios Médicos;
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE ABRIL DE 2026)</small>
+
+3). Departamento de Trabajo Social;
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE FEBRERO DE 2024)</small>
 
@@ -2699,15 +2715,21 @@ I. Departamento de Rendición de Cuentas y Normatividad.
 
 II. Departamento de Prevención y Atención a Entes Fiscalizadores.
 
-> <small>(REFORMADA, P.O. 21 DE ABRIL DE 2014)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 27 DE ABRIL DE 2026)</small>
 
 IV. Secretaría de Seguridad Pública y Vialidad:
 
-a). Dirección Operativa,
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ABRIL DE 2026)</small>
 
-b). Dirección Administrativa,
+a) Dirección Operativa,
 
-1). Departamento de Servicios Médicos, y
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ABRIL DE 2026)</small>
+
+b) Dirección Administrativa,
+
+1). (DEROGADO, P.O. 27 DE ABRIL DE 2026)
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE ABRIL DE 2026)</small>
 
 2). Departamento de Prevención del Delito.
 
@@ -3087,7 +3109,7 @@ La estructura orgánica, en cuanto a niveles de jerarquía funcional, no implica
 
 #### SECCIÓN PRIMERA. De la Secretaría de Gobernación y del H. Ayuntamiento
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 14 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 27 DE ABRIL DE 2026)</small>
 
 ###### Artículo 326.
 
@@ -3195,7 +3217,9 @@ XXVII.- Ordenar las visitas de inspección o verificación en las materias de su
 
 XXVIII.- Iniciar, sustanciar y desahogar el procedimiento de clausura de establecimientos comerciales, industriales y de servicios, en los casos previstos por las leyes y reglamentos vigentes;
 
-XXIX.- Conocer y calificar las infracciones en materia de sanidad, comercio, industria y prestación de servicios, así como en materia de faltas cívicas y de vialidad, éstas a través de los jueces calificadores, cuando se incurra en violaciones a los preceptos de la Ley y el presente Código e imponer las sanciones correspondientes;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+XXIX.- Conocer y calificar las infracciones en materia de sanidad, comercio, industria y prestación de servicios, así como en materia de faltas cívicas y de vialidad, éstas a través de los jueces cívicos, cuando se incurra en violaciones a los preceptos de la Ley y el presente Código e imponer las sanciones correspondientes;
 
 XXX.- Llevar la inspección y regulación sanitaria de los giros de competencia municipal, de acuerdo con la Ley de Salud del Estado y los convenios que en la materia se realicen con el Instituto de Servicios de Salud del Estado;
 
@@ -3236,6 +3260,18 @@ XLV.- Designar un enlace ante la Secretaría de Planeación, Ordenamiento Territ
 > <small>(REFORMADA, P.O. 14 DE JUNIO DE 2021)</small>
 
 XLVI.- Entregar la información requerida por la Secretaría de Planeación, Ordenamiento Territorial y Medio Ambiente, para realizar las Evaluaciones a los recursos de que disponga la secretaría esto en base al Sistema de Evaluación del Desempeño (SED).
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE ABRIL DE 2026)</small>
+
+XLVII.- Ejecutar las sanciones que impongan los jueces cívicos, esto a través de la dirección de justicia cívica;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE ABRIL DE 2026)</small>
+
+XLVIII.- Supervisar que se aplique el correcto estado de derecho, certificando médicamente el estado físico y psicomotriz en que se encuentren las personas que sean remitidas al juez cívico, esto a través del departamento médico;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE ABRIL DE 2026)</small>
+
+XLIX.- Supervisar de acuerdo a lo previsto por el presente Código, y demás reglamentos y leyes vigentes en la materia, la calificación de faltas administrativas en materia cívica y de vialidad, implementando los medios de control necesarios para tal efecto;
 
 > <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 14 DE JUNIO DE 2021)</small>
 
@@ -3531,7 +3567,7 @@ XXIV.- Las demás que expresamente le señalen las leyes y reglamentos vigentes 
 
 #### SECCIÓN CUARTA. De la Dirección de Desarrollo Urbano
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 14 DE JUNIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 27 DE ABRIL DE 2026)</small>
 
 ###### Artículo 330.
 
@@ -3541,13 +3577,15 @@ I.- Coordinar la implementación de los planes de prevención del delito que se 
 
 II.- Ejercer las funciones propias de la Policía Preventiva en el Municipio, incluyendo la de detener a las personas en caso de flagrante delito o flagrante falta cívica o en otros casos previstos por la Ley;
 
-III.- Ejecutar las sanciones que impongan los jueces calificadores;
+III.- (DEROGADA, P.O. 27 DE ABRIL DE 2026)
 
 IV.- Cuidar del orden y la seguridad de las personas;
 
-V.- Detener y presentar ante el Juez Calificador a los presuntos infractores de las faltas cívicas;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
 
-VI.- Detener y presentar ante el Juez Calificador a quienes sean sorprendidos en flagrancia, cometiendo algún delito;
+V.- Detener y presentar ante el Juez Cívico a los presuntos infractores de las faltas cívicas;
+
+VI.- (DEROGADA, P.O. 27 DE ABRIL DE 2026)
 
 VII.- Ejecutar las órdenes de presentación que se dicten con motivo de los procedimientos previstos por el presente Código;
 
@@ -3583,11 +3621,11 @@ XXII.- Detectar posibles riesgos que pudieran convertirse en contingencias y des
 
 XXIII.- Atender e investigar las quejas referentes a los elementos operativos que presente la ciudadanía;
 
-XXIV.- Supervisar de acuerdo a lo previsto por el presente Código, y demás reglamentos y leyes vigentes en la materia, la calificación de faltas administrativas en materia cívica y de vialidad, implementando los medios de control necesarios para tal efecto;
+XXIV.- (DEROGADA, P.O. 27 DE ABRIL DE 2026)
 
 XXV.- Velar por los derechos humanos y la integridad física de las personas que por motivo de haber cometido una falta administrativa, estén bajo resguardo de la Secretaría, o bien que al haber cometido un ilícito de carácter federal o del fuero común se encuentren bajo la tutela de la misma, en lo que se da conocimiento de la autoridad competente, lo cual deberá ser en el menor tiempo posible;
 
-XXVI.- Supervisar que se aplique el correcto estado de derecho, certificando médicamente el estado físico y psicomotriz en que se encuentren las personas que sean remitidas al juez calificador;
+XXVI.- (DEROGADA, P.O. 27 DE ABRIL DE 2026)
 
 XXVII.- Supervisar y controlar al personal de nuevo ingreso, llevando un control interno de las incidencias, incapacidades y control del rendimiento, con la finalidad de incentivar al personal que así lo amerite;
 
@@ -3597,7 +3635,7 @@ XXIX.- Brindar el apoyo necesario a los inspectores o verificadores de las diver
 
 XXX.- Supervisar y coordinar la investigación sobre las quejas y anomalías referentes al personal operativo que se formulen y realizar labores de inteligencia respecto a reportes de carácter especial en el que se vean involucrados elementos de la Secretaría;
 
-XXXI.- Certificar médicamente el estado físico y psicomotriz en el que se encuentren las personas que le sean remitidas;
+XXXI.- (DEROGADA, P.O. 27 DE ABRIL DE 2026)
 
 XXXII.- Llevar control interno de las incidencias, incapacidades y control del rendimiento del personal con la finalidad de incentivar al personal que así lo amerite y llevar control estricto sobre los recursos materiales existentes en la Secretaría, sujetándose a las normas legales aplicables en caso de armamento y equipo técnico especializado; y
 
@@ -9537,9 +9575,11 @@ IX.- Las corporaciones auxiliares.
 
 El Gobernador del Estado, en los casos que juzgue como de fuerza mayor o alteración grave del orden público, dispondrá de la Policía Preventiva. Del ejercicio de esta facultad, informará al Congreso del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2026)</small>
+
 ###### Artículo 922.
 
-Las autoridades de Seguridad Pública serán las encargadas de poner a disposición del juez calificador a los infractores de faltas cívicas y de carácter administrativo cometidas en el territorio municipal, y levantar infracciones de tránsito.
+Las autoridades de Seguridad Pública serán las encargadas de poner a disposición del Juez Cívico a los infractores de faltas cívicas y de carácter administrativo cometidas en el territorio municipal, y levantar infracciones a la Ley de Movilidad y Seguridad Vial del Estado de Aguascalientes.
 
 Asimismo, combatirán las causas que generan la comisión de faltas, delitos y conductas antisociales, formulando y desarrollando políticas, planes, programas y acciones para fomentar en la sociedad valores culturales y cívicos que induzcan el respeto a la legalidad.
 
@@ -22727,215 +22767,61 @@ En caso de clausura provisional como medida de seguridad, ésta podrá prolongar
 
 ###### Artículo 2351.
 
-Constituye una falta cívica, la acción u omisión individual o de grupo, realizada en un lugar público o cuyos efectos se manifiesten en él, que altere o ponga en peligro la seguridad pública, el orden público, el civismo, la propiedad pública, la salubridad, el bienestar colectivo, la integridad de las personas y sus bienes, la tranquilidad, dignidad y moralidad de las personas en los términos de este Código.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2352.
 
-Son "Lugares Públicos", todo espacio de uso común o libre tránsito, como las plazas, calles, avenidas, calzadas, vías terrestres de comunicación, paseos, jardines, parques o áreas verdes y deportivas; los inmuebles públicos o privados de acceso general como: Mercados, templos, cementerios, centros de diversión, de recreo, de reunión, deportivos, de espectáculos, comerciales, destinados a la prestación de servicios públicos; inmuebles y vehículos destinados al servicio de transporte público; y lugares de uso común de los inmuebles sujetos al régimen de propiedad en condominio, así como los federales, estatales y municipales.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2353.
 
-El objeto del establecimiento de las faltas cívicas, es contar con reglas mínimas de comportamiento cívico en la sociedad calvillense, a efecto de garantizar el funcionamiento adecuado de los servicios públicos y de la Administración Pública Municipal y el respeto a las personas, a los bienes públicos y privados.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2354.
 
-Para los efectos de este Capítulo son responsables las personas de doce años o más que cometan infracciones, así como las personas físicas o morales que hubiesen ordenado la realización de las conductas que importen la comisión de una infracción.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 #### SECCIÓN PRIMERA. De las Faltas Contra la Seguridad Pública
 
 ###### Artículo 2355.
 
-Son faltas contra la seguridad pública las siguientes:
-
-I.- Causar, en los espectáculos y lugares públicos, falsas alarmas, lanzando objetos, emitiendo gritos o tomar actitudes que infundan o provoquen pánico en los presentes;
-
-II.- Almacenar, encender, pretender o detonar cohetes, utilizar material peligroso, explosivo, inflamable o flamable, corrosivo, pólvora fría, hacer fogatas o utilizar negligentemente cualquier combustible, que pongan en peligro a la población y que no cuenten con los permisos correspondientes;
-
-III.- Formar parte de grupos que causen molestias a las personas en lugares públicos o en la proximidad de los domicilios de éstas;
-
-IV.- Penetrar o invadir sin la autorización correspondiente, zonas o lugares de acceso prohibido en los centros de espectáculos, diversiones o recreo;
-
-V.- Organizar o tomar parte en juegos de cualquier índole, en vía pública, que pongan en peligro a las personas que en ella transiten o que causen molestias a las familias que habitan en o cerca del lugar en que se desarrollen los juegos, a los peatones o a las personas que manejen cualquier clase de vehículos. Esta falta se sancionará a petición de parte interesada;
-
-VI.- Solicitar por cualquier medio los servicios de: Policía, bomberos, médicos u otros que sean considerados de emergencia, invocando hechos falsos;
-
-VII.- Transportar, sin la autorización de la autoridad correspondiente, sustancias de cualquier tipo que generen peligro para la población, quedando el vehículo bajo el resguardo de la autoridad competente;
-
-VIII.- Portar cualquier objeto que puede ser utilizado para agredir o causar algún daño y que no tenga aplicación en actividades laborales o recreativas;
-
-IX.- Ingerir bebidas embriagantes o alcohólicas en la vía pública;
-
-X.- Participar en altercados o contiendas de manera física y/o verbal;
-
-XI.- Provocar, perseguir o asechar por cualquier medio a alguien con el ánimo de provocarlo, pelear o agredirlo física o verbalmente;
-
-XII.- Disparar, exhibir o portar artefactos similares a las armas de fuego en cualquier lugar público, provocando escándalo o temor en las personas;
-
-XIII.- Resistirse al arresto de sí o de un tercero utilizando la violencia física;
-
-XIV.- Realizar actos de violencia contra las mujeres en la comunidad, en términos de la legislación del Estado que regula las modalidades y tipo de violencia de género; y
-
-XV.- Oponerse, impedir o tratar de impedir que una autoridad municipal realice una diligencia legitima o imponga una sanción.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 #### SECCIÓN SEGUNDA. De las Faltas Contra el Civismo
 
 ###### Artículo 2356.
 
-Son faltas contra el civismo y se sancionarán con arresto hasta por treinta y seis horas o multa de uno a treinta días de Salario Mínimo General Vigente en el Estado, las siguientes:
-
-I.- Ocasionar disturbios, emitir gritos o interrumpir injustificadamente, un acto oficial con honores a la Bandera;
-
-II.- Hacer burla, signos de desprecio o cualquier otra manifestación que implique falta de respeto hacia los símbolos patrios;
-
-III.- Portar, usar o utilizar de manera negligente los símbolos patrios, sin el respeto o consideración a éstos, utilizándolos en otros aspectos que no son los propios; y
-
-IV.- Portar insignias, escudos, ropas ó identificaciones de uso exclusivo de corporaciones policíacas del Estado y sus Municipios, sin estar debidamente autorizado para ello.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 #### SECCIÓN TERCERA. De las Faltas Contra la Propiedad Pública
 
 ###### Artículo 2357.
 
-Son faltas contra la propiedad pública las siguientes:
-
-I.- Deteriorar intencionalmente bienes destinados al equipamiento urbano, o hacer uso indebido de los servicios públicos;
-
-II.- Hacer uso indebido de las casetas telefónicas o maltratar los buzones, nomenclaturas, expendios de timbres, señales indicadoras u otros aparatos de uso común colocados en la vía pública;
-
-III.- Utilizar negligentemente cualquier objeto que se encuentre en la vía pública que sea destinado para brindar un servicio público;
-
-IV.- Utilizar, remover o transportar césped, flores, tierra u otros materiales de las calles, plazas, mercados y demás lugares de uso común, sin autorización para ello;
-
-V.- Maltratar o ensuciar las fachadas de los edificios o lugares públicos;
-
-VI.- Maltratar o hacer uso indebido de las estatuas, monumentos, postes, arbotantes, cobertizos, edificios o cualquier otro bien de uso público o causar deterioros en las calles, parques, paseos o lugares públicos;
-
-VII.- Cortar o maltratar todo tipo de flora que se encuentre ubicada en la vía pública;
-
-VIII.- Borrar, cubrir o alterar los números o letras con que están marcadas las casas o los letreros que designen las calles o plazas u ocupar los lugares destinados para ello con propaganda de cualquier clase;
-
-IX.- Obstruir por cualquier medio parcial o totalmente calles, avenidas, calzadas, puentes u otros lugares públicos sin permiso de la autoridad correspondiente.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 #### SECCIÓN CUARTA. De las Faltas Contra la Salubridad
 
 ###### Artículo 2358.
 
-Son faltas contra la salubridad y el ornato público las siguientes:
-
-I.- Desperdiciar, contaminar, desviar o retener las corrientes de agua de los: Manantiales, tanques, tinacos almacenadores, plantas tratadoras, fuentes públicas, acueductos o de las tuberías de los servicios de agua potable del Municipio;
-
-II.- Arrojar en la vía pública animales muertos, agua sucia que despida malos olores, escombros o cualquier sustancia que contamine el ambiente;
-
-III.- Arrojar a los drenajes basura, escombros o cualquier otro objeto que pueda obstruir su funcionamiento;
-
-IV.- Arrojar o abandonar en la vía pública fuera de los depósitos colocados para tal fin, basura, residuos o cualquier otro objeto contaminante;
-
-V.- Arrojar en predios baldíos basura, residuos en cualquier estado y especie;
-
-VI.- Orinar o defecar en la vía pública, en lugares distintos de los autorizados para ese efecto;
-
-VII.- Sacudir ropa, alfombras y otros objetos hacia la vía pública, tirar deshechos o desperdicios sobre la misma o en cualquier predio o lugar no autorizado;
-
-VIII.- Tener animales que originen mal olor, fauna nociva, ruidos o que causen cualquier otro tipo de molestia a los vecinos en zonas habitacionales;
-
-IX.- Realizar la quema de basura, pasto seco, llantas o cualquier sustancia que cause contaminación al ambiente;
-
-X.- Fumar en lugares expresamente prohibidos por la Ley de la materia;
-
-XI.- Omitir limpiar o recoger los responsables de la guarda y cuidado de cualquier tipo de animal una vez que estos defequen o lleve a cabo sus necesidades fisiológicas en lugares públicos así como en propiedad privada; y
-
-XII.- Sacar la basura de los contenedores o de los depósitos destinados para tal fin o prenderles fuego.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 #### SECCIÓN QUINTA. De las Faltas Contra el Bienestar Colectivo
 
 ###### Artículo 2359.
 
-Son faltas contra el bienestar colectivo las siguientes:
-
-I.- Causar escándalo en la vía pública;
-
-II.- Conducir en la vía pública animales peligrosos sin permiso de la autoridad y sin tomar las medidas de seguridad necesarias; o dejar el poseedor o el propietario del animal que éste transite libremente en la vía pública sin tomar las medidas de seguridad necesarias para evitar daños a terceros;
-
-III.- Hacer manifestaciones ruidosas en forma tal que produzcan disturbio o grave alteración del orden de un espectáculo o acto público;
-
-IV.- Exigir gratificaciones por protección de automóviles estacionados en la vía pública;
-
-V.- Ocupar u obstruir rampas o lugares de estacionamiento que no sean de uso común y que sean destinados a servicios de emergencia, personas con capacidades diferentes, u otro uso reglamentado por la Ley de la materia;
-
-VI.- Alterar el orden, arrojar cojines, líquidos o cualquier objeto, prender fuego o provocar altercados en los espectáculos o en la entrada de ellos;
-
-VII.- Producir cualquier tipo de ruido excesivo con equipos de sonido, vehículos de motor o de arrastre, equipos de trabajo o cualquier otro objeto que provoque malestar público;
-
-VIII.- Ensayar las bandas de guerra o conjuntos musicales en lugares públicos, careciendo del permiso correspondiente o en lugares privados cuando el ruido generado ocasione molestias a los vecinos;
-
-IX.- Proferir palabras obscenas o cualquier tipo de insulto en la vía pública;
-
-X.- Causar daños a vecinos, transeúntes o vehículos, por omitir las medidas necesarias de aseguramiento de tiestos, plantas u otros objetos;
-
-XI.- Difundir o poner a la vista cualquier tipo de material con sexo explicito o imágenes que sean en contra de la moral y las buenas costumbres;
-
-XII.- Realizar acoso contra las mujeres del Municipio, siempre y cuando no constituya algún delito; y
-
-XIII.- Obstruir, rentar o pedir propina por o para el uso de los espacios públicos para ser utilizados como estacionamiento de vehículos automotores.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 #### SECCIÓN SEXTA. De las Faltas Contra la Integridad de las Personas y sus Bienes
 
 ###### Artículo 2360.
 
-Son faltas contra la integridad de las personas en su seguridad, tranquilidad y propiedades particulares las siguientes:
-
-I.- Provocar o incitar a cualquier animal para que ataque a una persona, o dejarlo en libertad sin tomar las debidas precauciones y medidas de seguridad necesarias para evitar que estos ataquen o provoquen lesiones en las personas o daños en sus propiedades;
-
-II.- Causar molestias por cualquier medio, que impida el legitimo uso o disfrute de un inmueble;
-
-III.- Dejar el encargado de la guarda o custodia de un enfermo mental que éste deambule libremente en la vía pública, causando molestias o poniendo en riesgo la integridad de terceros;
-
-IV.- Arrojar intencionalmente, contra una persona o sus bienes líquidos, polvos u otras sustancias, que puedan mojarla, ensuciarla, mancharla o causarle malestar;
-
-V.- Turbar la tranquilidad de las personas con gritos, música o ruidos aún cuando éstos los provoquen animales domésticos de la pertenencia o bajo el cuidado del que debiendo impedirlo, no lo haga;
-
-VI.- Hacer bromas indecorosas o mortificantes de cualquier forma con la intención de molestar a una persona;
-
-VII.- Dirigirse a una persona con frases o ademanes que afecten su integridad, asediarlo, intimidarlo o impedirle su libertad de acción en cualquier forma;
-
-VIII.- Maltratar, rayar, pintar ó ensuciar las fachadas de los edificios, vehículos automotores o cualquier otro bien mueble o inmueble de propiedad particular;
-
-IX.- Permitir, inducir, incitar u obligar a menores de edad para que cometan faltas a las presentes disposiciones;
-
-X.- Deambular en lugar público en notorio estado de intoxicación producido por sustancias estimulantes o depresores del sistema nervioso central, contrariando el orden público o turbando la tranquilidad de los vecinos, o realizando actos que pongan en riesgo su propia integridad física o la de terceros;
-
-XI.- Poner en peligro la integridad de las personas o patrimonio por la conducción de vehículos de motor en estado de ebriedad o bajo el influjo de narcóticos u otras sustancias, que produzcan efectos similares;
-
-XII.- Comunicar dolosamente a una o más personas de la imputación que se hace a otra persona física de un hecho cierto o falso, que le cause deshonra, descrédito o afecte su reputación; y
-
-XIII.- Formular toda clase de expresiones o realización de acciones destinadas a manifestar desprecio a otra persona o con el fin de causarle una ofensa, siempre y cuando de ello tengan conocimiento otras personas y se ponga al ofendido en una situación de notable humillación pública.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 #### SECCIÓN SÉPTIMA. De las Faltas Contra la Integridad Moral del Individuo
 
 ###### Artículo 2361.
 
-Son faltas contra la integridad moral del individuo y de la familia las siguientes:
-
-I.- Consumir, suministrar o inhalar drogas, estupefacientes, psicotrópicos, sustancias, plantas o semillas enervantes en la vía pública;
-
-II.- Invitar, inducir, promocionar o facilitar en la vía o espacio público no autorizado para ello el comercio carnal;
-
-III.- Injuriar a las personas que asistan a un espectáculo o diversión con palabras, actitudes o gestos, por parte de los actores, jugadores, músicos o auxiliares del espectáculo o diversión;
-
-IV.- Faltar, en la vía pública, al respeto o consideración que se debe a los adultos mayores, mujeres, niños ó a personas con capacidades diferentes;
-
-V.- Corregir con escándalo, vejar o maltratar a los menores, adultos mayores, al cónyuge, concubina o concubinario en la vía pública, o bien en el interior de un bien inmueble, siempre que cause efectos hacia el exterior o lo solicite un tercero;
-
-VI.- Ejecutar, exhibir o asumir actitudes obscenas, de manera pública y por cualquier medio, que atente contra la moral y las buenas costumbres;
-
-VII.- Ingresar por cualquier medio los menores de dieciocho años de edad a centros nocturnos, bares, pulquerías o cualquier otro lugar en que se prohíba su permanencia, esto con independencia de la sanción correspondiente a los establecimientos, de acuerdo con las disposiciones reglamentarias que las rijan;
-
-VIII.- Efectuar actos de discriminación o de violencia de género;
-
-IX.- Efectuar trato diferenciado entre mujeres y hombres en la prestación de cualquier servicio o en el otorgamiento de algún derecho;
-
-X.- Menospreciar o dar trato diferenciado entre mujeres y hombres que puedan incitar a algún tipo de violencia;
-
-XI.- Propinar a una persona en forma intencional y fuera de riña golpes que no le causen lesión.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ### CAPÍTULO III. De las Reglas para la Imposición de Sanciones y Medidas de Seguridad
 
@@ -22997,9 +22883,11 @@ Si como resultado del dictamen técnico fuera necesario ejecutar alguno de los t
 
 En caso de peligro inminente conforme al dictamen, la desocupación deberá ejecutarse en forma inmediata, y si es necesario, la Presidencia Municipal utilizará la fuerza pública para hacer cumplir la orden. En estos casos no procederá el recurso previsto en el presente Código.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
+
 ###### Artículo 2373.
 
-En caso de la comisión de una falta no flagrante, que sea denunciada ante el juez calificador, éste mandará citar ante su presencia a los implicados, y en caso de desobediencia a dicho citatorio podrá hacerlos comparecer por medio de la fuerza pública.
+En caso de la comisión de una falta no flagrante, que sea denunciada ante el juez cívico, éste mandará citar ante su presencia a los implicados, y en caso de desobediencia a dicho citatorio podrá hacerlos comparecer por medio de la fuerza pública.
 
 ###### Artículo 2374.
 
@@ -23013,9 +22901,11 @@ Cuando la imposición de la sanción o medidas de seguridad implique el pago de 
 
 En caso de que la multa impuesta no fuere cubierta por el infractor en el plazo establecido, aquélla se conmutará por arresto hasta por treinta y seis horas, de conformidad con las reglas que se establecen en el presente Código.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
+
 ###### Artículo 2377.
 
-Cuando una falta se ejecute con la intervención de dos o más personas, y no constare la forma en que dichas personas actuaron, pero si su participación en el hecho, a cada una se le aplicará la sanción que para la falta señale este Capítulo; pero el juez calificador, podrá duplicar la sanción pecuniaria si apareciere que los infractores se ampararon en la fuerza o anonimato del grupo para cometer en común la falta.
+Cuando una falta se ejecute con la intervención de dos o más personas, y no constare la forma en que dichas personas actuaron, pero si su participación en el hecho, a cada una se le aplicará la sanción que para la falta señale este Capítulo; pero el juez cívico, podrá duplicar la sanción pecuniaria si apareciere que los infractores se ampararon en la fuerza o anonimato del grupo para cometer en común la falta.
 
 ###### Artículo 2378.
 
@@ -23055,159 +22945,129 @@ Para toda violación a las normas y disposiciones municipales previstas en el pr
 
 ###### Artículo 2386.
 
-Las faltas cívicas contempladas en el Capítulo Segundo del Título Segundo del presente Libro, se sancionarán con amonestación, multa, arresto y decomiso.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2387.
 
-Se sancionará con amonestación verbal o escrita, por parte del juez calificador las infracciones previstas en los artículos siguientes: 2355, fracciones III y V; 2357, fracciones III y VI, si no se causa daño; y 2358, fracción VII primera parte si no afecta a terceros.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2388.
 
-Se sancionará con multa de tres a cinco días de salario mínimo general vigente en el Estado, las faltas cívicas previstas en los artículos siguientes: 2355, fracción, IV; 2356 fracciones I, II, III y IV; 2357, fracciones IV y VI, cuando sólo hace mal uso sin causar daño; 2358, fracciones IV, V, VI y VII, parte segunda; 2359, fracciones I, II, III, IV, V, VII, VIII, IX, X, XI y XII; 2360, fracciones III, V, VI, VII, IX, XII y XIII; y 2361, fracción IV.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2389.
 
-Se sancionará con multa de seis a diez días de salario mínimo general vigente en el Estado, las faltas cívicas previstas en los artículos siguientes: 2355, fracción, I, II, VII, VIII, IX, X, XI y XII; 2357, fracciones I, II, V y VI, si se causa daño, VII, VIII y IX; 2358, fracciones II, VIII, IX, X, XI y XII; 2359, fracciones III y VI; 2360, fracciones I, II, IV y X; 2361, fracciones III y VIII.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2390.
 
-Se sancionará con multa de once a veinte días de salario mínimo general vigente en el Estado, las faltas cívicas previstas en los artículos siguientes: 2355, fracciones VI, XIII y XIV; 2358, fracciones I, III y XII, en el caso de que se prenda fuego; 2359, fracción VI cuando se trate de prender fuego; 2360, fracciones I si se causa daño, IV si se causa daño y XI; y 2361, fracciones I y II.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2391.
 
-Se sancionarán con arresto hasta por 36 horas inconmutables las faltas siguientes:
-
-I.- Por manejar en estado de ebriedad;
-
-II.- Las previstas en las fracciones XIII y XIV del artículo 2355; y
-
-III.- La prevista en la fracción IX del artículo 2355, cuando las bebidas se ingieran en vehículo de motor en movimiento.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2392.
 
-Se aplicará la sanción de decomiso, en el caso de que el infractor por ingerir bebidas alcohólicas porte botellas a medio consumir o en el caso de estupefacientes, artículos peligrosos que no sean para algún oficio o profesión, pólvora u otros materiales inflamables y demás artículos que a juicio de juez calificador deban ser destruidos, quedar en resguardo de la Presidencia Municipal, o remitirse a otra autoridad estatal o federal.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2393.
 
-Para fijar el importe de la multa el juez calificador tomará en cuenta, la situación económica del infractor, su peligrosidad, sus antecedentes y la conducta desplegada al momento de ser detenido.
-
-Cuando el infractor, demuestre fehacientemente ser jornalero, obrero, trabajador no asalariado, o pensionado, la multa no excederá del monto correspondiente a un día de su salario o ingreso.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2394.
 
-Cuando una infracción se ejecute con la participación de dos o más personas, a cada una se le aplicará la sanción máxima señalada para esa infracción.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2395.
 
-Cuando la persona molestada u ofendida sea menor de edad o anciano, persona con discapacidad o indigente, se aumentará la sanción hasta en una mitad.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2396.
 
-Se considerará como agravante el hecho de que el infractor se encuentre en estado de ebriedad o bajo los efectos de estupefacientes, psicotrópicos o sustancias tóxicas.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2397.
 
-Cuando el infractor cometa varias faltas, se le acumularán, las sanciones correspondientes a cada una de ellas, pero el arresto directo no podrá exceder de treinta y seis horas, y el arresto como permuta de la multa no pagada no podrá ser mayor de treinta y seis horas.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2398.
 
-Cuando una falta puede ser considerada bajo dos o más aspectos, y cada uno de ellos merezca una sanción diversa, se impondrá la mayor.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2399.
 
-En caso de reincidencia, si la falta amerita amonestación, se impondrá pena de multa prevista en el artículo 2388 y si la sanción es de multa, el juez calificador podrá duplicar el máximo del monto que establece este Capítulo.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2400.
 
-Se considera reincidente de faltas cívicas al que cometa dos o más faltas cívicas en un periodo de tres meses.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2401.
 
-Las sanciones administrativas previstas en este Capítulo, serán aplicables cuando corresponda, sin perjuicio de las responsabilidades civiles o penales en que se incurra, con motivo de los hechos constitutivos de la falta.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2402.
 
-Una vez notificada la multa económica impuesta al infractor, se le requerirá por el pago inmediato de la misma. En caso de no hacerlo, se le conmutará por arresto que no excederá de treinta y seis horas. Inmediatamente que el infractor pague la multa, por su conducto o por interpósita persona, será puesto en absoluta libertad.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2403.
 
-Por ningún motivo el juez calificador podrá liberar al detenido, sin el cumplimiento de la sanción a que se hubiere hecho acreedor. Solamente que medie una disposición expresa del Presidente Municipal, se podrá liberar al infractor que se encuentra detenido en los separos de la Policía Preventiva, sin pagar la multa correspondiente.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2404.
 
-Para los efectos de conmutar la multa impuesta por horas de arresto se estará a lo dispuesto en el tabulador siguiente:
-
-Tres días de salario mínimo: Seis horas de arresto.
-
-Cuatro días de salario mínimo: Siete horas de arresto.
-
-Cinco días de salario mínimo: Ocho horas de arresto.
-
-Seis a ocho días de salario mínimo: Doce horas de arresto.
-
-Nueve a diez días de salario mínimo: Veinticuatro horas de arresto.
-
-Once a quince días de salario mínimo: Treinta horas de arresto.
-
-Más de Dieciséis días de salario mínimo o más: Treinta y seis horas de arresto.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2405.
 
-El infractor, al momento que se determine su arresto, por ningún motivo quedará incomunicado, teniendo derecho a comunicarse al exterior vía telefónica, en los términos establecidos en el artículo 2517 del presente Código.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2406.
 
-Una vez cumplida la sanción, el infractor obtendrá su libertad e inmediatamente le deberán ser entregadas sus pertenencias resguardadas, según el inventario respectivo.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2407.
 
-El juez calificador también podrá imponer como medida de seguridad a los infractores, en el caso de que se encuentren bajo los efectos de bebidas embriagantes o sustancias que causen efectos similares, clínicamente comprobable, o cuando su conducta sea agresiva, el arresto hasta en tanto cesen dichos efectos o mejore su comportamiento. El arresto como medida de seguridad tampoco podrá exceder de treinta y seis horas.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2408.
 
-Cuando el infractor acredite de manera fehaciente su identidad y domicilio, podrá solicitar al juez le sea permitido realizar trabajo a favor de la comunidad a efecto de no cubrir la multa o el arresto que se le hubiese impuesto, excepto en los casos de reincidencia.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2409.
 
-El trabajo a favor de la comunidad se desarrollará por un lapso equivalente a las horas de arresto que correspondan a la infracción que se hubiera cometido. En ningún caso podrán realizarse dentro de la jornada laboral del infractor.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2410.
 
-Para los efectos de este Código, se entiende por trabajo a favor de la comunidad las siguientes:
-
-I.- Limpieza, pintura o restauración de centros públicos, educativos, de salud o de servicios;
-
-II.- Limpieza, pintura o restauración de los bienes dañados por el infractor o semejantes a los mismos;
-
-III.- Realización de obras de ornato en lugares de uso común;
-
-IV.- Realización de obras de balizamiento, limpia o reforestación en lugares de uso común; y
-
-V.- Impartición de pláticas a vecinos o educandos relacionadas con la convivencia ciudadana o realización de actividades relacionadas con la profesión, oficio u ocupación del infractor.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2411.
 
-El trabajo a favor de la comunidad se llevará a cabo bajo la supervisión de personal de la Presidencia Municipal que corresponda.
-
-En el supuesto de que el infractor no realice el trabajo a favor de la comunidad, el juez emitirá la orden de presentación a efecto de que la sanción impuesta sea ejecutada de inmediato.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2412.
 
-En el caso de reincidentes adictos al alcohol y a las drogas, el juez calificador podrá turnarlos al DIF Municipal, a efecto de que reciban orientación y/o tratamiento médico y/o psicológico.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ### CAPÍTULO II. De las Sanciones en Materia de Vialidad
 
 ###### Artículo 2413.
 
-Las sanciones por infracciones a la Ley de Vialidad, se impondrán conforme a los parámetros establecidos por dicha Ley y las multas serán las que se establecen en la Ley de Ingresos del Municipio, además de las sanciones previstas por el presente Código.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ### CAPÍTULO III. De las Sanciones en Materia de Gobernación
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE ABRIL DE 2026)</small>
+
 ###### Artículo 2414.
 
-Se sancionarán por parte de los jueces calificadores, las infracciones siguientes:
+Se sancionarán por parte de los jueces cívicos, las infracciones siguientes:
 
-I.- Multa de uno a cinco días de salario mínimo general vigente en el Estado por:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE ABRIL DE 2026)</small>
+
+I.- Multa de uno a cinco Unidades de Medida y Actualización (UMAS) por:
 
 a).- Manifestar datos inexactos en la solicitud de credencial de residencia;
 
@@ -23215,7 +23075,9 @@ b).- Comer en el Salón de Cabildo, cuando el Ayuntamiento se encuentre en Sesi�
 
 c).- Fumar al interior de las oficinas del Palacio Municipal;
 
-II.- Multa de seis a diez días de salario mínimo general vigente en el Estado por:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE ABRIL DE 2026)</small>
+
+II.- Multa de seis a diez Unidades de Medida y Actualización (UMAS) por:
 
 a).- Perturbar la tranquilidad, realizar desorden o escándalo, al interior del Palacio Municipal;
 
@@ -23245,7 +23107,9 @@ m).- Negar con falsedad la presencia de un tercero en el lugar, cuando se realic
 
 n).- Oponerse, resistir u obstaculizar el ejercicio de las facultades de la autoridad administrativa, para llevar a cabo diligencias relativas al ejercicio de sus funciones dentro de las oficinas del Gobierno Municipal;
 
-III.- Multa de once a veinte días de salario mínimo general vigente en el Estado por:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 27 DE ABRIL DE 2026)</small>
+
+III.- Multa de once a veinte Unidades de Medida y Actualización (UMAS) por:
 
 a).- Obtener credencial de residencia, habiendo proporcionado información con falsedad;
 
@@ -23803,9 +23667,11 @@ XII.- Se ofrezca música al público en general y se toque música pidiendo dine
 
 XIII.- Se incumpla con los requisitos y obligaciones establecidas en los artículos 1826, 1827, 1828, 1829, 1830, 1831, 1832, 1833, 1834 y 1835, del presente Código.
 
+> <small>(REFORMADO, P.O. 27 DE ABRIL DE 2026)</small>
+
 ###### Artículo 2438.
 
-El comerciante ambulante, pedigüeño, músico, lavacoches, bolero, que se dedique a la compra venta de chatarra o cualquier persona que realice actividad en la vía pública, que no cuente con permiso expreso para tal fin, será retirado de ésta y remitido ante el juez calificador, quien le fijará una multa de cinco a diez días de salario mínimo vigente en el Estado, y en caso de no pagar ésta, se le impondrá el arresto que corresponda, según la tabla prevista en el artículo 2404 de este Código.
+El comerciante ambulante, pedigüeño, músico, lavacoches, bolero, que se dedique a la compra venta de chatarra o cualquier persona que realice actividad en la vía pública, que no cuente con permiso expreso para tal fin, será retirado de ésta y remitido ante el juez cívico, quien aplicará la sanción prevista en el inciso a) del artículo 85 del Reglamento de Justicia Cívica y Buen Gobierno.
 
 ###### Artículo 2439.
 
@@ -23957,665 +23823,375 @@ III.- Se resista sin justificación a los reconocimientos médicos y clínicos q
 
 ###### Artículo 2455.
 
-En el Municipio de Calvillo existirá un cuerpo de jueces calificadores, que dependerá de la Secretaría del Ayuntamiento, a través del Departamento Jurídico y de Gobernación, a efecto de llevar a cabo el procedimiento para la imposición de sanciones por faltas cívicas y de vialidad y administrativas en el caso de que su imposición no se encuentre atribuida expresamente a otra autoridad.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2456.
 
-Será facultad de los jueces calificadores de Seguridad Pública y Vialidad, el conocimiento y calificación de las infracciones en materia cívica, administrativas, cuando así lo prevea el presente Código, así como la imposición de las sanciones correspondientes.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2457.
 
-Para ingresar al cuerpo de jueces calificadores de Seguridad Pública y Vialidad se requiere:
-
-I.- Ser ciudadano mexicano;
-
-II.- Acreditar tener los conocimientos necesarios para el desempeño del cargo, a juicio del Secretario (a) de Gobernación y del H. Ayuntamiento;
-
-III.- Contar con buena reputación y honorabilidad;
-
-IV.- Ser Licenciado en Derecho; y
-
-V.- No tener antecedentes penales por delitos dolosos.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2458.
 
-Son facultades y obligaciones de los jueces calificadores:
-
-I.- Llevar el control de las personas puestas a su disposición, de los detenidos y sanciones impuestas en su turno;
-
-II.- Imponer oportunamente las sanciones y medidas de seguridad aplicables a los infractores de las faltas cívicas y de vialidad;
-
-III.- Ejercer funciones de conciliador cuando con motivo de la comisión de faltas cívicas, se causen daños a terceros y los interesados estén de acuerdo en someterse a su decisión, siempre y cuando no se trate de delitos que se persigan de oficio;
-
-IV.- Intervenir en conflictos vecinales, familiares o conyugales, con el fin de avenir a las partes o conocer de las infracciones cívicas que se deriven de tales conductas;
-
-V.- Autorizar con su firma las actuaciones en que intervengan en ejercicio de sus funciones;
-
-VI.- Expedir boletas de egreso, cuando el infractor haya cubierto el monto de su infracción, haya cumplido su arresto, o cuando sea remitido a otra autoridad competente;
-
-VII.- Calificar las infracciones a la Ley de Vialidad del Estado y el presente Código y establecer la sanción correspondiente;
-
-VIII.- Llevar el control de los expedientes relativos a los asuntos que se ventilen en el juzgado, así como de la correspondencia y oficios relativos al ejercicio de sus funciones;
-
-IX.- Expedir constancias relativas a hechos y documentos contenidos en los expedientes integrados con motivo de los procedimientos de que tenga conocimiento;
-
-X.- Solicitar por escrito a las autoridades competentes, el retiro de objetos que estorben la vía pública y la limpia de lugares que deterioren el ambiente y dañen la salud pública;
-
-XI.- Reportar inmediatamente al servicio de localización telefónica la información sobre las personas detenidas;
-
-XII.- Llevar el control y registro de infractores;
-
-XIII.- Rendir diariamente al Secretario (a) de Gobernación y del H. Ayuntamiento, el informe respecto de los infractores puestos a su disposición y de las sanciones aplicadas;
-
-XIV.- Retener y devolver los objetos y valores de los presuntos infractores, o que sean motivo de la controversia, previo recibo que expida;
-
-XV.- Remitir a las autoridades competentes las armas, objetos peligrosos, o que sean motivo o estén afectos a la comisión de algún ilícito, así como las sustancias psicotrópicas, enervantes y estupefacientes que se hayan asegurado a los infractores;
-
-XVI.- No abandonar su área de trabajo, aún concluido su turno, hasta que sea relevado por el juez calificador entrante;
-
-XVII.- Colaborar con las tareas de capacitación y actualización para el personal de los centros;
-
-XVIII.- Ordenar se realice toda diligencia necesaria a fin que se cumpla estrictamente con la normatividad vigente en relación con las personas internadas en los centros de detención municipales;
-
-XIX.- Cuidar que se respeten la dignidad y los derechos humanos de los presentados y detenidos, impidiendo todo maltrato, abuso físico o verbal, cualquier tipo de incomunicación, exacción o coacción moral;
-
-XX.- Hacer del conocimiento del Secretario (a) de Gobernación y del H. Ayuntamiento, de cualquier anomalía que sea detectada en los centros de detención municipal; y
-
-XXI.- Las demás que se desprendan del presente Código.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2459.
 
-los jueces calificadores, dentro del ámbito de sus funciones, cuidarán estrictamente que se respeten los derechos humanos de los infractores y su dignidad humana, quedando bajo su responsabilidad cualquier atentado en que incurra el personal de seguridad pública, una vez que es puesto a su disposición.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2460.
 
-El servicio de jueces calificadores actuará por turnos, de tal forma que cubran las veinticuatro horas del día los trescientos sesenta y cinco días del año.
-
-En los turnos que se considere procedente, el juez podrá estar ausente del juzgado, pero disponible por si acaso se requieren sus servicios.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2461.
 
-Los asuntos serán atendidos sucesivamente, según el orden en que se pongan a disposición del juez calificador.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2462.
 
-El juez calificador en turno impondrá las sanciones correspondientes a todos los infractores que se pongan a su disposición y el juez calificador entrante, por ningún motivo podrá aumentar o disminuir dicha sanción.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2463.
 
-El juez calificador al hacer su cambio de turno, deberá entregar documental y físicamente, al juez calificador entrante, los arrestados que aún se encuentran cumpliendo su sanción impuesta, así como informarle sobre su situación jurídica.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2464.
 
-El juez calificador, a efecto de aplicar las sanciones administrativas que señala el Capítulo de Faltas Cívicas y en materia de vialidad, deberá de verificar que exista una adecuación de la conducta del infractor con la falta descrita.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2465.
 
-Los jueces calificadores, al tener conocimiento de los hechos, si presume que son delictivos, suspenderá su intervención y pondrá de inmediato al detenido y los objetos afectos al asunto, a disposición de la autoridad competente.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2466.
 
-Los jueces calificadores sólo atenderán las gestiones que provengan directamente de los interesados y en ningún momento podrán emitir resoluciones en materia de vialidad, respecto de flotillas o parques vehiculares públicos o privados.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2467.
 
-El juez que termina el turno, bajo su estricta responsabilidad, hará entrega física de los asuntos en trámite y de las personas que se encuentren en las áreas del juzgado, al juez entrante, lo que se hará constar en el registro respectivo.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2468.
 
-El juez, al iniciar su turno, continuará la tramitación de los asuntos que hayan quedado sin terminar en el turno anterior. Los casos serán atendidos sucesivamente según el orden en que se hayan presentado en el juzgado.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2469.
 
-Los jueces podrán solicitar a los servidores públicos, los datos, informes o documentos, sobre asuntos de su competencia, para mejor proveer.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2470.
 
-En el juzgado cívico se llevará un registro de infractores, mismo que contendrá la información de las personas que han sido sancionadas por la comisión de faltas cívicas.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2471.
 
-Dicho registro contendrá:
-
-I.- Nombre, domicilio, sexo y huellas dactilares del infractor;
-
-II.- Infracciones cometidas;
-
-III.- Lugares de comisión de la infracción;
-
-IV.- Sanciones impuestas y, en su caso, lugares de cumplimiento del arresto; y
-
-V.- Fotografía del infractor.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2472.
 
-Los datos para la integración del registro serán incorporados al mismo por los jueces; al efecto, en cada juzgado se instalará el equipo necesario.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2473.
 
-El registro de infractores será de consulta obligatoria para los jueces, a efecto de obtener los elementos necesarios para motivar la aplicación de sanciones.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2474.
 
-La información contenida en el registro de infractores, tendrá como objeto el diseño de las estrategias y acciones tendientes a la preservación del orden y la tranquilidad pública en el Municipio, y la instrumentación de programas de desarrollo social y de prevención de adicciones.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ### CAPÍTULO II. Del Procedimiento ante el Juez Calificador
 
 ###### Artículo 2475.
 
-El procedimiento que se realice ante el juez calificador, se iniciará con la presentación del probable infractor por el elemento operativo o con la queja de particulares por la probable comisión de infracciones.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2476.
 
-El procedimiento será oral y público y se sustanciará en una sola audiencia, resuelta de inmediato por el juez que lo hubiere iniciado.
-
-Las actuaciones deberán constar por escrito y permanecerán en el local del juzgado, hasta que se determine su envío al archivo general para su resguardo.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2477.
 
-Los elementos operativos de la Secretaría de Seguridad Pública y Vialidad en servicio, detendrán y presentarán al probable infractor inmediatamente ante el juez, en los casos siguientes:
-
-I.- Cuando presencien la comisión de la infracción; y
-
-II.- Cuando sean informados de la comisión de una infracción inmediatamente después de que hubiese sido realizada o se encuentre en poder del presunto infractor el objeto o instrumento, huellas o indicios, que hagan presumir fundadamente su participación en la infracción.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2478.
 
-La detención y presentación del probable infractor ante el juez, constará en una boleta de remisión, la cual contendrá por lo menos los datos siguientes:
-
-I.- Nombre, edad y domicilio, del probable infractor, así como los datos de los documentos con que los acredite;
-
-II.- Una relación de los hechos que motivaron la detención, describiendo las circunstancias de tiempo, modo, lugar, así como cualquier dato que pudiera contribuir para los fines del procedimiento;
-
-III.- Nombre y domicilio del ofendido o de la persona que hubiere informado de la comisión de la infracción, si fuere el caso, y datos del documento con que los acredite;
-
-IV.- La lista de objetos recogidos, que tuvieren relación con la probable infracción; y
-
-V.- Nombre, número de placa o jerarquía, unidad de adscripción y firma del policía que hace la presentación, así como en su caso número de vehículo.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2479.
 
-Los particulares podrán presentar quejas orales o por escrito ante el juez, por hechos constitutivos de probables infracciones. El juez considerará los elementos contenidos en la queja y, si lo estima procedente, girará citatorio al quejoso y al presunto infractor.
-
-En todos los casos la queja deberá contener nombre y domicilio de las partes, relación de los hechos motivo de la queja y firma del quejoso.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2480.
 
-El derecho a formular la queja prescribe en quince días naturales, contados a partir de la comisión de la probable infracción. La prescripción se interrumpirá por la formulación de la queja.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2481.
 
-En caso de que el juez considere que la queja no contiene elementos suficientes que denoten la posible comisión de una infracción, acordará de inmediato, fundando y motivando la improcedencia; debiendo notificar al quejoso en ese mismo acto. Si no fuere posible en ese momento, dejará constancia del motivo y tendrá un término de tres días para hacerlo.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2482.
 
-En caso de que el quejoso no se presentare, se desechará su queja, y si el que no se presentare fuera el probable infractor, el juez librará orden de presentación en su contra, misma que será ejecutada por el comandante en turno, bajo su más estricta responsabilidad, en un plazo de 48 horas.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2483.
 
-Al iniciar el procedimiento, el juez verificará que las personas citadas se encuentren presentes y que las personas ausentes hayan sido citadas legalmente.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2484.
 
-El juez celebrará en presencia del denunciante y del probable infractor, la audiencia de conciliación en la que procurará su avenimiento; de llegarse a éste, se hará constar por escrito el convenio entre las partes.
-
-En todo momento, a solicitud de las partes o a consideración del juez, la audiencia se suspenderá por única ocasión; señalándose día y hora para su continuación, que no excederá de los diez días naturales siguientes, debiendo continuarla el juez que determinó la suspensión.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2485.
 
-El convenio de conciliación puede tener por objeto:
-
-I.- La reparación del daño; y
-
-II.- No reincidir en conductas que den motivo a un nuevo procedimiento.
-
-En el convenio se establecerá el término para el cumplimiento de lo señalado en la fracción I, así como para los demás acuerdos que asuman las partes.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2486.
 
-A quien incumpla el convenio de conciliación, se le impondrá un arresto de 6 a 24 horas o una multa de 1 a 30 días de salario mínimo.
-
-A partir del incumplimiento del convenio, el afectado tendrá 15 días para solicitar que se haga efectivo el apercibimiento.
-
-Transcurridos seis meses a partir de la firma del convenio, solo se procederá por nueva queja que se presente.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2487.
 
-En el caso de que las partes manifiesten su voluntad de no conciliar, se dará por concluida la audiencia de conciliación y se iniciará la audiencia sobre la responsabilidad del citado, en la cual el juez, en presencia del quejoso y del probable infractor, llevará a cabo las actuaciones siguientes:
-
-I.- Dará lectura a la queja, la cual podrá ser ampliada por el denunciante;
-
-II.- Otorgará el uso de la palabra al quejoso para que ofrezca las pruebas respectivas;
-
-III.- Otorgará el uso de la palabra el probable infractor, para que formule las manifestaciones que estime convenientes y ofrezca pruebas en su descargo;
-
-IV.- Acordará la admisión de las pruebas y las desahogará de inmediato; y
-
-V.- Resolverá sobre la conducta imputada, considerando todos los elementos que consten en el expediente y resolverá sobre la responsabilidad del probable infractor.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2488.
 
-En el caso de que el quejoso o el probable infractor no presentaren en la audiencia las pruebas ofrecidas, serán desechadas en el mismo acto. Cuando la presentación de las pruebas ofrecidas dependiera del acto de alguna autoridad, el juez suspenderá la audiencia y señalará día y hora para la presentación y desahogo de las mismas.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2489.
 
-En el supuesto de que se libre orden de presentación al presunto infractor y el día de la presentación no estuviere presente el quejoso, se llevará a cabo el procedimiento previsto en el artículo 2487 de este Código, y si se encuentra el quejoso, se llevará cabo el procedimiento por queja.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2490.
 
-El juez llevará a cabo las actuaciones siguientes:
-
-I.- Dará lectura a la boleta de remisión o en su caso a la queja y si lo considera necesario, solicitará la declaración del elemento operativo;
-
-II.- Otorgará el uso de la palabra al probable infractor, para que formule las manifestaciones que estime convenientes y ofrezca en su descargo las pruebas de que disponga. Se admitirán como pruebas las testimoniales y las demás que a juicio del juez sean idóneas en atención a las conductas imputadas;
-
-III.- Acordará la admisión de las pruebas y las desahogará de inmediato; y
-
-IV.- Resolverá sobre la responsabilidad del presunto infractor.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2491.
 
-Cuando el probable infractor se encuentre en estado de ebriedad o bajo el influjo de estupefacientes o sustancias psicotrópicas o tóxicas, el juez ordenará que se practique examen para determinar su estado y señalar plazo probable de recuperación, que será la base para fijar el inicio del procedimiento. En tanto se recupera será ubicado en la sección que corresponda.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2492.
 
-Tratándose de probables infractores que por su estado físico o mental denoten peligrosidad o intención de evadirse del juzgado, se les retendrá en el área de seguridad hasta que se inicie la audiencia.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2493.
 
-Cuando el probable infractor padezca alguna enfermedad o discapacidad mental, el juez suspenderá el procedimiento y citará a las personas obligadas a la custodia del enfermo o persona con discapacidad mental y, a falta de éstos, lo remitirá a las autoridades de salud o instituciones de asistencia social competentes, a fin de que se le proporcione la ayuda o asistencia que requiera.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2494.
 
-Cuando comparezca el probable infractor ante el juez, éste le informará del derecho que tiene a comunicarse con persona de su confianza para que le asista y defienda.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2495.
 
-Si el probable infractor solicita comunicarse con persona que le asista y defienda, el juez suspenderá el procedimiento, dándole dentro del juzgado las facilidades necesarias, y le concederá un plazo que no excederá de dos horas, para que se presente el defensor o persona que le asista.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2496.
 
-En caso de que el probable infractor sea menor de edad, el juez citará a quien detente la custodia o tutela, legal o de hecho, en cuya presencia se desarrollará la audiencia y se dictará la resolución.
-
-En tanto acude quien custodia o tutela al menor, éste deberá permanecer en la oficina del juzgado. Si por cualquier causa no asistiera el responsable del menor en un plazo de dos horas, el juez le nombrará un representante de la Administración Pública Municipal, después de lo cual determinará su responsabilidad.
-
-En caso de que el menor de edad resulte responsable, el juez lo amonestará y le hará saber las consecuencias jurídicas y sociales de su conducta.
-
-Tratándose de las conductas previstas en los artículos 2389 y 2390 se aplicarán las sanciones correspondientes.
-
-Si a consideración del juez el menor se encontrara en situación de riesgo, lo enviará a las autoridades competentes a efecto de que reciba la atención correspondiente.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2497.
 
-Si después de iniciada la audiencia, el probable infractor acepta la responsabilidad en la comisión de la infracción imputada tal y como se le atribuye, el juez dictará de inmediato su resolución e impondrá la menor de las sanciones para la infracción de que se trate, excepto en los casos previstos en los artículos 2390 y 2391. Si el probable infractor no acepta los cargos, se continuará el procedimiento.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2498.
 
-El juez determinará la sanción aplicable en cada caso concreto, tomando en cuenta la naturaleza y las consecuencias individuales y sociales de la infracción, las condiciones en que ésta se hubiere cometido y las circunstancias personales del infractor, pudiendo solicitar a la Secretaría de Gobernación y del H. Ayuntamiento la condonación de la sanción, en los casos en que las especiales circunstancias físicas, psicológicas, económicas y, en general, personales del infractor lo ameriten, de acuerdo a su consideración y a petición expresa del mismo o de persona de su confianza.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2499.
 
-El juez notificará de manera personal e inmediata, la resolución al presunto infractor y al quejoso, si estuviera presente.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2500.
 
-Si el probable infractor resulta no ser responsable de la infracción imputada, el juez resolverá en ese sentido y le autorizará que se retire.
-
-Si resulta responsable, al notificarle la resolución, el juez le informará que podrá elegir entre cubrir la multa o cumplir el arresto que le corresponda en caso de tener derecho a ello; si sólo estuviere en posibilidad de pagar parte de la multa, se le recibirá el pago parcial y el juez le permutará la diferencia por un arresto, en la proporción o porcentaje que corresponda a la parte no cubierta, subsistiendo esta posibilidad durante el tiempo de arresto del infractor.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ### CAPÍTULO III. De los Centros de Detención
 
 ###### Artículo 2501.
 
-Los centros municipales de detención preventiva, son las instituciones donde se internan a las personas que se encuentran cumpliendo una sanción de arresto administrativo, quienes estarán separadas e independientes de las personas que están detenidas a disposición de alguna autoridad investigadora o judicial, en espera de que se resuelva su situación jurídica.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2502.
 
-El Centro Municipal de Detención Preventiva, está bajo la Dirección Administrativa del Secretario de Seguridad Pública del Municipio, a través de un comandante o el personal que éste designe.
-
-Podrán establecerse en algunas comunidades centros municipales de detención preventiva, los cuales funcionarán como auxiliares del principal, que se ubica en la cabecera municipal.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2503.
 
-El Secretario de Seguridad Pública y Vialidad Municipal, además de las facultades y obligaciones que tiene por su cargo, le corresponde:
-
-I.- Organizar, dirigir y administrar los centros municipales de detención preventiva;
-
-II.- Tener las 24 horas de los 365 días del año, elementos de policía en las instalaciones del Centro Municipal de Detención Preventiva, encargados del buen funcionamiento del mismo;
-
-III.- Realizar cursos teórico-prácticos en materia de Derecho y funciones del Centro Municipal de Detención Preventiva e Internamientos de personas detenidas, para la formación y actualización del personal de los centros;
-
-IV.- Designar al comandante o encargado de la guardia en prevención entre los oficiales en turno, y los elementos que estén bajo su mando;
-
-V.- Solicitar al área correspondiente, la asignación de un área médica la cual estará bajo la responsabilidad de un médico quien se podrá auxiliar de personal paramédico o de enfermería y contará con el cuadro básico de medicamentos y material de curación para la atención de los primeros auxilios; a dicha área le corresponde determinar el estado físico de las personas que ingresen en calidad de arrestadas o detenidas, así como ordenar la atención médica cuando sea necesario; y
-
-VI.- Observar que se dé fiel cumplimiento a las indicaciones y diligencias necesarias ordenadas por el juez calificador en turno, al calificar o determinar la situación legal de los detenidos.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2504.
 
-Son facultades y obligaciones del comandante o encargado de la guardia en prevención y de los oficiales de policía a su mando; además de las que señale el presente Código Municipal; las siguientes:
-
-I.- Dar al público en general, con esmero y buen trato, la información que les sea solicitada respecto a las personas detenidas o arrestadas en el Centro Municipal de Detención Preventiva;
-
-II.- Recibir, trasladar, custodiar, vigilar y disponer el tratamiento de toda persona detenida y remitida por los elementos operativos de seguridad pública y vialidad, adscritos a la vigilancia del Municipio;
-
-III.- Llevar un registro de las personas que se detienen en su turno, en el que se fijarán todos los datos relativos a su identidad, falta administrativa o delito cometido, así como la autoridad ante la cual se encuentra a disposición;
-
-IV.- Realizar las remisiones correspondientes de los detenidos, así como la captura de las mismas bajo el sistema implementado por la Secretaría de Seguridad Pública y Vialidad Municipal;
-
-V.- Llevar a cabo un riguroso registro de las órdenes de libertad de los internos;
-
-VI.- Vigilar que antes de ingresar el detenido al Centro Municipal de Detención Preventiva, dicha persona haya sido objeto de una revisión corporal, para impedir se introduzca con objetos de los prohibidos dentro de dicha área, para su seguridad y de los demás internos o para evitar una evasión;
-
-VII.- Vigilar que antes de ingresar al detenido a la celda correspondiente, dicha persona haya sido sujeta a revisión de estado físico;
-
-VIII.- Vigilar u ordenar que el detenido realice la llamada telefónica local a que tiene derecho, si así es su deseo, en caso de llamadas foráneas se harán por cobrar y a celulares, sólo que el propio arrestado o detenido traiga su propio celular;
-
-IX.- Exigir y ordenar a los elementos operativos de seguridad pública y vialidad, que remitan al Centro Municipal de Detención Preventiva, a personas en calidad de detenidos para su internamiento en dicha instalación por faltas administrativas o cualquier otra índole, que notifiquen al juez calificador en turno, los motivos de la detención; apercibiéndolos que en caso de omisión a lo indicado se harán acreedores a una sanción administrativa;
-
-X.- Custodiar y vigilar en todo momento al detenido durante el procedimiento: De calificación, revisión de estado físico y en su caso hasta su internamiento en las celdas, igualmente, cuando sea requerido ante la presencia del juez calificador, del Agente del Ministerio Público o de la autoridad judicial;
-
-XI.- Vigilar que no se den malos tratos, ni se ataque físicamente a los detenidos por el personal policial, estando obligado a reportar cualquier caso al juez calificador en turno, así como a su autoridad superior para la sanción a que se hiciera acreedor;
-
-XII.- En caso de que se suscite un conato de riña, robos, evasión de internos o cualquier otro disturbio que ocurra dentro de los Centros de Detención Preventiva, deberán de dar conocimiento inmediato al juez calificador en turno, a fin de que determine el trámite legal a seguir;
-
-XIII.- Dar aviso inmediato a la autoridad competente, en caso de que el interno necesite atención médica;
-
-XIV.- Permitir el acceso a las personas visitantes de los internos en los horarios establecidos para tal efecto, siempre que reúnan y cumplan con los requisitos señalados, de conformidad al presente Código;
-
-XV.- Llevar a cabo un registro de visitas, en el cual se contengan los datos personales del visitante, persona a quien va a visitar, la hora de entrada y de salida del visitante;
-
-XVI.- Vigilar que las personas visitantes no introduzcan objetos o sustancias ilegales al área de celdas y practicar una revisión minuciosa de los objetos y alimentos que lleven consigo;
-
-XVII.- Acompañar por seguridad a cada persona visitante al área de detención de la persona a visitar, hasta el momento de su retiro;
-
-XVIII.- Vigilar que se efectúen rondas en los alrededores de los centros de detención, cuando menos, cada 30 minutos;
-
-XIX.- Vigilar el área de celdas, permanentemente, para salvaguardar la integridad física de los detenidos o internos, especialmente en los casos de personas agresivas o en estado depresivo; y
-
-XX.- Vigilar que se cumpla con la normativa aplicable.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2505.
 
-El área de celdas para el internamiento de las personas detenidas se distribuirá de la forma siguiente:
-
-I.- Área para internar a los menores de edad;
-
-II.- Celdas para los varones; y
-
-III.- Celdas para mujeres.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2506.
 
-Como medida de seguridad y con el objeto de salvaguardar la integridad y los derechos humanos de los internos, el área de celdas podrá contar con cámaras de video grabación.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2507.
 
-El personal de custodia del Centro Preventivo de Detención Municipal, deberá cumplir con sus responsabilidades en estricto apego a los derechos fundamentales de las personas internas, cumpliendo lo establecido por las leyes, el presente Código y Reglamentos relacionados con la materia.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2508.
 
-Por ningún motivo el personal de custodia o administrativo, solicitará al interno o a sus familiares dádiva, o emolumento alguno con el fin de hacer algo que esté obligado a realizar en cumplimiento de su trabajo, ya que, en caso de esta naturaleza, se pondrá a disposición de su jefe inmediato a fin de que se proceda conforme a derecho; por lo que se deberá levantar el acta administrativa circunstanciada de los hechos que motiven la irregularidad detectada o reportada con el nombre y firma del quejoso y de dos testigos de asistencia.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2509.
 
-El personal de custodia o barandilla al prestar sus servicios deberán realizarlo con la debida atención a las personas que acudan ante él.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2510.
 
-Como medida de seguridad entre los cambios de turno de los responsables de la barandilla y custodia de los detenidos, deberán realizar una revisión en el área de celdas, a fin de contabilizar todas y cada una de las personas que se encuentren internas y a disposición de las diversas autoridades. De igual forma se realizará una revisión a las instalaciones del área de celdas para verificar los objetos personales del interno que no sean de los prohibidos y verificar los accesos a dichas celdas y lugares de ventilación para evitar en todo momento que algún interno se evada de la justicia.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2511.
 
-Cualquier irregularidad que se detecte en el área de celdas, deberá ser reportada de inmediato en forma verbal y mediante un parte informativo, sobre los hechos que en forma concreta se describan y se tomarán las medidas de seguridad pertinentes.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ### CAPÍTULO IV. Del Procedimiento en los Centros de Detención
 
 ###### Artículo 2512.
 
-El juez calificador supervisará que desde el momento en que sea presentada una persona en calidad de arrestado o detenido, le sea elaborado el expediente administrativo de ingreso, a fin de llevar un control sobre la población que ingresa al Centro de Detención Preventivo Municipal y vigilará a los responsables de barandilla y custodia, que durante el procedimiento administrativo para el internamiento del detenido se apeguen a lo dispuesto en el presente Código.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2513.
 
-El elemento de seguridad pública y vialidad tiene la obligación de presentar al detenido e informar todo lo relacionado con la detención al juez calificador en turno, para su debida calificación o para resolver la situación legal del presentado.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2514.
 
-Antes de ingresar al área de internamiento, deberá elaborarse un estudio de estado físico a la persona detenida, precisando si dicha persona presenta alguna lesión, las características de ésta o si se requiere alguna atención médica especializada o su internamiento a alguna institución hospitalaria; asimismo, deberá determinar si dicha persona se encuentra bajo los efectos de alguna bebida embriagante, sustancia tóxica o enervante o en caso contrario, si no presenta ninguna de las circunstancias antes descritas.
-
-Igualmente se deberá asentar si existe algún inconveniente, por su estado de salud física o mental, para ingresar al área de internamiento.
-
-En el estudio se precisará el nombre y firma de quien elabora el documento.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2515.
 
-El área médica tiene las atribuciones y obligaciones siguientes:
-
-I.- Aplicar, en caso necesario, los primeros auxilios a los internos que así lo requieran y realizar los exámenes necesarios para corroborar el estado de salud de los detenidos;
-
-II.- Controlar los medicamentos que se le deban administrar a los internos; y
-
-III.- Emitir opinión al juez calificador en turno, sobre el traslado de los detenidos a instituciones hospitalarias.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2516.
 
-Antes de ingresar al detenido, al área de celdas y una vez elaborado su expediente administrativo y médico, deberá ser presentado ante el juez calificador en turno, a fin de que se lleve a cabo el procedimiento de calificación de conformidad a lo que establece el presente Código.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2517.
 
-El elemento responsable de la guardia, deberá informar a la persona detenida sobre su derecho de realizar una llamada telefónica local, foránea, por cobrar o a celular, sólo que el arrestado o detenido traiga su propio teléfono, o en su caso las que le autorice expresamente el juez calificador, siendo obligación de aquél dejar constancia en el libro que se lleve para el efecto de control de llamadas de los detenidos, el número telefónico al que llame, la hora en que se realiza, así como el nombre de la persona con quien se entrevistó vía telefónica, con la firma del interno donde acepta haber realizado dicha llamada.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2518.
 
-Toda persona antes de ser internada, será sujeta por parte del responsable de la guardia de barandilla a una rigurosa revisión corporal, a fin de verificar que la persona no traiga en su poder alguna droga, arma u objetos con que pueda lesionar o lesionarse, o bien causar algún daño a las instalaciones.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2519.
 
-Para efectos del artículo anterior, ninguna persona podrá ser internada con cintas, cintos, lentes, cordones, cerillos, encendedores, cigarros, dinero, radio localizador, teléfonos o cualquier otro objeto, que ponga en peligro la integridad física del mismo interno o sus compañeros de celda.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2520.
 
-Para la identificación de los internos, se les tomará una fotografía de frente y de perfil, la cual se insertará en el expediente administrativo de ingreso al Centro de Detención Preventivo Municipal. La información será confidencial y sólo podrá ser entregada cuando así sea requerido por las autoridades competentes y se realice dicha petición por escrito.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2521.
 
-Son derechos de los internos:
-
-I.- Ser informados del motivo y causa de la detención y a disposición de qué autoridad se encuentran o en su caso el arresto multa que se les aplicará;
-
-II.- Ser visitados por familiares o personas de su confianza, las cuales deberán sujetarse al horario y condiciones establecidas para tal efecto. El abogado defensor del interno tendrá acceso en cualquier tiempo, siempre que acredite ser abogado a través de su cédula profesional y el detenido lo acepte como su abogado defensor;
-
-III.- Realizar una llamada telefónica diaria en los términos del artículo 2517;
-
-IV.- Asearse una vez al día en el área que para tal efecto se designe;
-
-V.- Recibir del Municipio tres raciones diarias de alimentos, en la mañana, al mediodía y en la noche; y
-
-VI.- Recibir atención médica cuando lo requieran, incluyendo el traslado a un centro hospitalario previa autorización expresa de la autoridad competente.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2522.
 
-Son obligaciones de los internos:
-
-I.- Dirigirse con el debido respeto y consideración al juez calificador y al personal de la guardia y administrativo;
-
-II.- Evitar cualquier agresión física o verbal a las personas que se encuentren internas o que acudan de visita;
-
-III.- Mantener aseada el área donde se encuentra detenido;
-
-IV.- Evitar realizar desperfectos o daños a las instalaciones;
-
-V.- Reportar a las autoridades del Centro de Detención Preventivo Municipal, cualquier anomalía de que se percate;
-
-VI.- Acatar las órdenes de las autoridades del Centro de Detención Preventivo Municipal; y
-
-VII.- Abstenerse de tener objetos que por su naturaleza impliquen un riesgo para su integridad física o la de las demás personas.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2523.
 
-Al interno que no cumpla con las obligaciones le serán aplicadas las sanciones siguientes:
-
-I.- Amonestación;
-
-II.- Suspensión de visita familiar;
-
-III.- Incremento de la sanción de multa y en arresto, siempre que no exceda los limites que marca el presente Código Municipal, en los casos en que está cumpliendo un arresto administrativo; y
-
-IV.- Remisión al Ministerio Público si realiza un acto que de acuerdo a la Ley se tipifique como delito.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2524.
 
-Las personas detenidas, una vez registradas y calificadas, serán internadas en las celdas bajo las bases siguientes:
-
-I.- Las mujeres y los hombres ocuparán celdas distintas;
-
-II.- Los menores de edad serán internados en un cuarto de observación designado para tal efecto o en su caso se turnarán de inmediato a la autoridad competente;
-
-III.- Las personas con alguna enfermedad infecto-contagiosa, con alguna enfermedad mental, depresivos o con una actitud agresiva, serán internados en celda distinta a los demás;
-
-IV.- Los detenidos que forman parte de una corporación policial deberán ser internados en una sola celda; y
-
-V.- Las personas de la tercera edad y discapacitados serán objeto de consideración especial.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2525.
 
-Por ningún motivo se internará a persona alguna por autoridad ministerial o judicial, si no presenta el oficio o boleta de internamiento, el cual deberá contener los datos de la persona que será internada, así como la firma y sello de la autoridad ordenadora, el cual deberá estar dirigido, al titular de la Secretaría de Seguridad Pública y Vialidad Municipal, debiéndose acompañar del dictamen médico correspondiente elaborado en fecha y hora próxima al internamiento.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2526.
 
-Cuando la autoridad ministerial o judicial requiera al interno para alguna diligencia, deberá solicitar su excarcelación provisional mediante oficio en el cual se indique el lugar donde habrá de ser remitido, el día y la hora en que se requiere, debiéndose designar a los elementos de custodia necesarios, quienes deberán tomar las medidas de seguridad convenientes.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2527.
 
-Para dejar en libertad a un interno, se deberá contar con la respectiva orden de libertad por escrito, con el nombre, firma y sello, de la autoridad a cuya disposición se encuentra.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2528.
 
-Los detenidos por la probable comisión de delitos, deberán ser trasladados a los lugares que indiquen las autoridades competentes, procurando efectuarlo en forma rápida y con seguridad por el personal destinado para tal efecto.
-
-El traslado deberá ser registrado en el libro que se lleve para dicha finalidad, señalando fecha y hora, en que se lleve a cabo, el lugar del traslado y la causa o motivo del mismo.
-
-El traslado será efectuado por personal policial, especialmente capacitado y designado para tal efecto, observándose las normas de seguridad y remitiendo la documentación relativa.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2529.
 
-Los familiares de los internos tendrán derecho de visitarlos en un horario de las 9:00 a las 14:00 horas y de las 16:00 a las 19:00 horas de todos los días de la semana, por una sola ocasión, por turno, por detenido, en un lapso de hasta diez minutos, con excepción del abogado quien podrá durar el tiempo que considere necesario.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2530.
 
-El elemento de seguridad pública encargado de la guardia, llevará un control de visitas en un libro destinado para tal efecto en el que se asentará entre otros datos los siguientes:
-
-I.- Fecha de la visita;
-
-II.- Nombre de la persona interna a visitar;
-
-III.- Nombre del visitante;
-
-IV.- Edad y firma del visitante;
-
-V.- Parentesco o relación;
-
-VI.- Hora de visita; y
-
-VII.- Hora de salida.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2531.
 
-El visitante deberá portar un gafete con la palabra "visitante", que se entregará previa presentación de una identificación, el cual se devolverá una vez concluida la visita, a cambio de la identificación.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2532.
 
-Se negará el acceso para ver a los internos o hablar con el juez calificador para pedir información de los detenidos, a la persona que se presente:
-
-I.- En estado de ebriedad o bajo los influjos de alguna sustancia tóxica;
-
-II.- Armado o con materiales que pongan en peligro la integridad de los detenidos, del personal policial o administrativo;
-
-III.- Sin camisa, sin pantalones o que éstos sean cortos, descalzo o con calzaletas; y
-
-IV.- Menor de edad.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2533.
 
-Los visitantes serán sometidos a una revisión corporal como medida de seguridad y por ningún motivo podrá ingresar al área de celdas con objetos que por su diseño o naturaleza implique algún riesgo para la integridad física de los internos, de los visitantes, del personal de custodia o administrativo de la institución, como corta uñas, navajas, spray para el pelo, envases de vidrio, teléfonos celulares, objetos punzo cortantes y otros similares.
-
-Los alimentos también serán revisados de manera higiénica, para evitar que sean introducidos diversos objetos no permitidos.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2534.
 
-Los visitantes depositarán sus objetos personales que no pueden ingresar al área de celdas en los mismos términos de lo establecido en el Capítulo Quinto del presente Título.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2535.
 
-Cuando algún funcionario relacionado con la Procuración y Administración de la Justicia, ya sea del fuero Común o Federal en ejercicio de sus funciones, solicite su ingreso al área de celdas y acredite su personalidad, deberá proporcionársele las facilidades necesarias para que realice su visita. De igual forma se permitirá el acceso a los funcionarios de las Comisiones Nacional y Estatal de Derechos Humanos, para que lleven a cabo sus funciones.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2536.
 
-Para conservar el orden en el Centro de Detención y el juzgado calificador, el juez podrá imponer las correcciones disciplinarias siguientes:
-
-I.- Amonestación;
-
-II.- Multa por el equivalente de 1 a 10 días de salario mínimo; y
-
-III.- Arresto hasta por 12 horas.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2537.
 
-El juez calificador a efecto de hacer cumplir sus órdenes y resoluciones, podrán hacer uso de los medios de apremio siguientes:
-
-I.- Multa por el equivalente de 1 a 10 días de salario mínimo;
-
-II.- Arresto hasta por 12 horas; y
-
-III.- Auxilio de la fuerza pública.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2538.
 
-La persona que incurra en alguna irregularidad en relación a este Capítulo, se pondrá a disposición del juez calificador en turno, para deslindar responsabilidades y en caso de la probable comisión de algún delito, se dará vista al Agente del Ministerio Público.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ### CAPÍTULO V. De los Receptores de Presuntos Infractores y Pertenencias
 
 ###### Artículo 2539.
 
-El receptor de presuntos infractores dependiente de la Secretaría de Seguridad Pública y Vialidad Municipal, estará bajo la supervisión del juez calificador y tendrá, las obligaciones siguientes:
-
-I.- La recepción de los detenidos que sean puestos a su disposición;
-
-II.- Recabar los datos de los presuntos infractores, de la falta en que incurrió, de su perfil económico, de su detención y del denunciante, en caso de existir, así como cualquier otra circunstancia que revista interés para el caso;
-
-III.- Remitir al infractor, al depósito de pertenencias a fin de que resguarden sus objetos personales;
-
-IV.- Solicitar en su caso el examen psicofísico de los presuntos infractores puestos a disposición del juez calificador;
-
-V.- Entregar la documentación necesaria al juez calificador en turno, a efecto de que imponga las sanciones correspondientes a los infractores; y
-
-VI.- Conducir al presunto infractor, en caso de quedar detenido a galeras, y si es menor de edad, en recepción previo su turno a la autoridad competente.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2540.
 
-En caso de que, el receptor constatara de que, el infractor, al momento de su detención, fue objeto de malos tratos, de abuso, golpes o merma en sus pertenencias, por parte del elemento operativo que lo detuvo, deberá de levantar acta circunstanciada, misma que está obligado a firmar el aprehensor y se lo comunicará al juez calificador, para los efectos de remitir el acta mencionada a la Secretaría de Gobernación y del H. Ayuntamiento, con el objeto de proceder a los correctivos a que haya lugar, o en su caso dar vista al Ministerio Público.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2541.
 
-El encargado del depósito de pertenencias tendrá bajo su más estricta responsabilidad recibir, custodiar y devolver cuando proceda, todos los objetos, valores, dinero y documentos, que depositen los infractores o visitantes, previo recibo inventario que se le expida.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2542.
 
-Cuando se recojan armas, objetos peligrosos, enervantes, psicotrópicos, estupefacientes o cualquier tipo de droga prohibida, u objeto que presuma la comisión de algún ilícito o cualquier objeto utilizado para delinquir, se pondrán inmediatamente a disposición del juez calificador para que proceda a su revisión, mediante oficio, a la autoridad competente.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2543.
 
-Al infractor o visitante, al dejar sus pertenencias en el depósito, se le entregará el recibo inventario debidamente firmado y sellado por el encargado del depósito. Dicho recibo será reintegrado al encargado, una vez que las cosas sean recibidas por los familiares, personas expresamente autorizadas, o por el propio infractor.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2544.
 
-Al infractor se le notificará que cuenta con el término de treinta días naturales para reclamar la devolución de sus pertenencias, a partir del día siguiente al de su egreso.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 ###### Artículo 2545.
 
-En caso de no recogerlas dentro del término señalado en el artículo anterior, se tendrá como abandonadas y se procederá, por conducto del juez calificador a su donación y entrega del Sistema D.I.F., Municipal, para la beneficencia pública, cuando el valor de los objetos no exceda de diez días de salario mínimo general vigente en el Estado.
-
-Cuando el valor de los objetos exceda de dicho valor, se procederá a solicitar su venta en almoneda pública conforme a las disposiciones del presente Código y el producto quedará a disposición del legítimo propietario en la Secretaría de Finanzas del Municipio de Calvillo. El término para reclamar dicho producto prescribe en un año después de fincado el remate.
+(DEROGADO, P.O. 27 DE ABRIL DE 2026)
 
 > <small>(ADICIONADO CON EL TÍTULO, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE FEBRERO DE 2018)</small>
 
@@ -24635,7 +24211,7 @@ Cuando el valor de los objetos exceda de dicho valor, se procederá a solicitar 
 
 Las disposiciones de este Libro son de orden e interés público, y se aplicarán a las evaluaciones de los fondos, programas y recursos de la administración pública del Municipio de Calvillo.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTRGRAN, P.O. 19 DE FEBRERO DE 2018)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTREGRAN, P.O. 19 DE FEBRERO DE 2018)</small>
 
 ### CAPÍTULO II. Del Sistema de Evaluación del Desempeño
 
@@ -25132,6 +24708,20 @@ P.O. 17 DE FEBRERO DE 2025.
 > <small>[N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES VIGENTE.]</small>
 
 > <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DE LA "REFORMA AL CÓDIGO MUNICIPAL DE CALVILLO, AGS.", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+Artículo Primero.- Se reforma el Código Municipal de Calvillo, Ags., en los siguientes términos:
+
+[...]
+
+Artículo Segundo.- Publíquese el presente Decreto en el Periódico Oficial del Estado para los efectos legales conducentes.
+
+Artículo Tercero.- Cúmplase.
+
+P.O. 27 DE ABRIL DE 2026.
+
+> <small>[N. DE E. EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES VIGENTE.]</small>
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBEN LOS ARTÍCULOS DEL “DECRETO POR EL QUE SE REFORMA EL CÓDIGO MUNICIPAL DE CALVILLO, AGS.”, QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
 
 Artículo Primero.- Se reforma el Código Municipal de Calvillo, Ags., en los siguientes términos:
 
