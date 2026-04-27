@@ -4,7 +4,7 @@ identifier: "MIC-ley-estatal-de-educacion-en-el-nivel-medio-superior-y-la-152184
 country: "mx"
 rank: "ley"
 publication_date: "2021-10-05"
-last_updated: "2021-10-05"
+last_updated: "2026-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152184&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ESTATAL DE EDUCACIÓN EN EL NIVEL MEDIO SUPERIOR Y LA FORMACIÓN PARA EL TRABAJO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2026.
 
 Ley publicada en la Octava Sección del Periódico Oficial del Estado de Michoacán, el martes 5 de octubre de 2021.
 
@@ -112,6 +112,10 @@ V. Promover la coordinación de las instituciones de educación media superior b
 ###### Artículo 8.
 
 La educación en el nivel medio superior incluirá la orientación vocacional para la formación de los adolescentes, coadyuvando en su tránsito a la edad juvenil y adulta, a través de las instituciones responsables de este nivel educativo.
+
+> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2026)</small>
+
+Se deberán incorporar los contenidos mínimos en materia de educación financiera que deberán integrarse transversalmente en el plan de estudios del nivel medio superior.
 
 ###### Artículo 9.
 
@@ -400,3 +404,11 @@ ATENTAMENTE.- «SUFRAGIO EFECTIVO. NO REELECCIÓN».- PRESIDENTE DE LA MESA DIRE
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 04 cuatro días del mes de octubre del año 2021 dos mil veintiuno.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- LIC. ALFREDO RAMÍREZ BEDOLLA.- EL SECRETARIO DE GOBIERNO.- LIC. CARLOS TORRES PIÑA.- (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 424.- ARTÍCULO ÚNICO.- SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 8 DE LEY ESTATAL DE EDUCACIÓN EN EL NIVEL MEDIO SUPERIOR Y LA FORMACIÓN PARA EL TRABAJO DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
