@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-del-instituto-aguascalentense-de-las-personas-1642
 country: "mx"
 rank: "ley_organica"
 publication_date: "2023-02-03"
-last_updated: "2025-04-29"
+last_updated: "2026-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=164201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DEL INSTITUTO AGUASCALENTENSE DE LAS PERSONAS MIGRANTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2026.
 
 Ley publicada en el Extraordinario del Número 3 del Periódico Oficial del Estado de Aguascalientes, el viernes 3 de febrero de 2023.
 
@@ -137,7 +137,9 @@ XIV.- Promover el respeto y la protección de los derechos humanos de las person
 
 XV.- Promover la constitución de asociaciones, organismos o grupos de apoyo cuyo objeto permita colaborar al cumplimiento del objeto del Instituto;
 
-XVI.- Celebrar convenios de colaboración con los Clubes de Migrantes radicados fuera del país que tengan registro en el Consejo Estatal de Población, para la aplicación de la presente ley;
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+XVI.- Crear y administrar un Registro Estatal de Organizaciones y Clubes de Migrantes del Estado de Aguascalientes, para fortalecer la coordinación y vinculación sociocultural, la difusión y aplicación de programas de atención a personas migrantes y sus familias, así como la celebración de convenios de colaboración;
 
 XVII.- Usar mecanismos de consulta con las personas migrantes, sus familias y sus comunidades, para que sus opiniones y propuestas sean tomadas en cuenta en la elaboración de políticas públicas de atención, apoyo y protección;
 
@@ -714,3 +716,11 @@ P.O. 29 DE ABRIL DE 2025.
 ###### ARTÍCULO ÚNICO
 
 El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 27 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 459.- SE REFORMA LA LEY ORGÁNICA DEL INSTITUTO AGUASCALENTENSE DE LAS PERSONAS MIGRANTES".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- La Junta de Gobierno del Instituto Aguascalentense de las Personas Migrantes deberá emitir los lineamientos para el registro Estatal de Organizaciones Migrantes de Aguascalientes, en un plazo no mayor a noventa días naturales, contados a partir del día siguiente de la entrada en vigor del presente Decreto.
