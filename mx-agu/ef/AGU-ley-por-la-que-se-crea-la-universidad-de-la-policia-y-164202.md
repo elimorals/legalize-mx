@@ -4,7 +4,7 @@ identifier: "AGU-ley-por-la-que-se-crea-la-universidad-de-la-policia-y-164202"
 country: "mx"
 rank: "ley"
 publication_date: "2023-02-03"
-last_updated: "2025-10-28"
+last_updated: "2026-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=164202&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY POR LA QUE SE CREA LA UNIVERSIDAD DE LA POLICÍA Y CIENCIAS DE LA SEGURIDAD DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2026.
 
 Ley publicada en el Número 3 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el viernes 3 de febrero de 2023.
 
@@ -145,7 +145,9 @@ VIII. La persona titular de la Dirección General de Reinserción Social;
 
 IX. La persona titular de la Comisión Estatal de Derechos Humanos;
 
-X. La persona titular de la Comisión de Educación y Cultura del Congreso del Estado y quien solo tendrá derecho a voz; y
+> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
+
+X. La persona titular de la Comisión de Educación y Cultura del Congreso del Estado; y
 
 XI. El Secretario General de la Universidad quien fungirá como Secretario Técnico y quien solo tendrá derecho a voz.
 
@@ -978,3 +980,9 @@ Con la entrada en vigor del presente Decreto, la Universidad de la Policía y Ci
 ###### ARTÍCULO TERCERO.
 
 Con la entrada en vigor del presente Decreto, quedan sin efectos todas aquellas disposiciones que se opongan al mismo.
+
+P.O. 27 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 456.- SE REFORMA LA LEY POR LA QUE (SIC) CREA LA UNIVERSIDAD DE LA POLICÍA Y CIENCIAS DE LA SEGURIDAD DE AGUASCALIENTES".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
