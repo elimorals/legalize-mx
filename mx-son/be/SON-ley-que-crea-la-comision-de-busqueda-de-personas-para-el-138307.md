@@ -4,7 +4,7 @@ identifier: "SON-ley-que-crea-la-comision-de-busqueda-de-personas-para-el-138307
 country: "mx"
 rank: "ley"
 publication_date: "2019-09-25"
-last_updated: "2024-07-08"
+last_updated: "2026-04-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=138307&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SON"
 ---
 # LEY QUE CREA LA COMISION DE BUSQUEDA DE PERSONAS PARA EL ESTADO DE SONORA
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY EN MATERIA DE DESAPARICIÓN Y BÚSQUEDA DE PERSONAS DESAPARECIDAS PARA EL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 27 DE ABRIL DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
 LEY QUE CREA LA COMISIÓN DE BÚSQUEDA DE PERSONAS PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 27 DE ABRIL DE 2026 (ABROGADA).
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el miércoles 25 de septiembre de 2019.
 
@@ -426,3 +426,33 @@ Tercero.- Iniciada la operación del Centro Estatal, la Comisión tendrá novent
 Cuarto.- La Comisión tendrá un plazo de noventa días hábiles para presentar su anteproyecto de Reglamento Interno.
 
 Quinto.- Las erogaciones que, en su caso, deban realizar las dependencias y entidades de la Administración Pública Federal y cualquier otro ente público, en el ámbito de sus competencias, para dar cumplimiento a lo dispuesto en el presente Decreto, deberán cubrirse con cargo a sus respectivos presupuestos aprobados para el presente ejercicio fiscal y subsecuentes, por lo que no se incrementarán sus respectivos presupuestos regularizables.
+
+B.O. 27 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY EN MATERIA DE DESAPARICIÓN Y BÚSQUEDA DE PERSONAS DESAPARECIDAS PARA EL ESTADO DE SONORA”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Estado de Sonora.
+
+Artículo Segundo. El Congreso del Estado deberá armonizar la legislación estatal que sea requerida para el cumplimiento de la presente Ley dentro de los ciento ochenta (180) días naturales siguientes a su entrada en vigor.
+
+Artículo Tercero. A la entrada en vigor de la presente Ley se abroga la Ley que crea la Comisión de Búsqueda de Personas para el Estado de Sonora, publicada en el Boletín Oficial del Estado de Sonora, el día 25 de septiembre de 2019. CCIV Edición Especial.
+
+Artículo Cuarto. A la entrada en vigor de la presente Ley se derogan todas las disposiciones que se opongan a la misma.
+
+Artículo Quinto. El titular del Poder Ejecutivo del Estado deberá expedir el Reglamento de la presente Ley; asimismo, la Comisión de Búsqueda deberá emitir su Reglamento Interior. Ambos instrumentos deberán ser expedidos en un plazo que no exceda de ciento ochenta (180) días naturales, contados a partir de la entrada en vigor de la presente Ley.
+
+Artículo Sexto. El Poder Judicial, organismos autónomos y demás entidades del Estado, en un plazo no mayor a ciento ochenta (180) días naturales a partir de la entrada en vigor de la presente Ley, deberán expedir y armonizar las disposiciones reglamentarias que correspondan, conforme a lo dispuesto en la presente Ley.
+
+Artículo Séptimo. El Congreso del Estado de Sonora y la Secretaría de Hacienda tomarán las medidas necesarias para garantizar los recursos suficientes para la inmediata implementación de la presente Ley; y en particular, para dotar de presupuesto al Centro Estatal de Identificación Humana en el Estado de Sonora, a través de la Comisión de Búsqueda de Personas para el Estado de Sonora.
+
+Artículo Octavo. La Comisión de Búsqueda a que se refiere la Ley que crea la Comisión de Búsqueda de Personas para el Estado de Sonora continuará en funciones con su personal, patrimonio y demás características, e implementará las disposiciones de la presente Ley.
+
+Artículo Noveno. El Consejo Ciudadano a que se refiere la presente Ley, deberá quedar instalado a más tardar a los noventa (90) días naturales de la entrada en vigor de esta Ley. Posterior a su instalación, el Consejo Ciudadano deberá emitir sus Reglas de Funcionamiento en un plazo de noventa (90) días naturales.
+
+Artículo Décimo. La Fiscalía especializada deberá ser creada por la Fiscalía del Estado a más tardar en ciento ochenta días (180) días (sic) naturales, desde la entrada en vigor de la presente Ley. En tanto, la Vice Fiscalía de Derechos Humanos y Búsqueda de Personas Desaparecidas, ejercerá las facultades y cumplirá las obligaciones que establece la presente Ley.
+
+Artículo Décimo Primero. El Mecanismo de Coordinación deberá quedar instalado en un plazo no mayor a treinta (30) días naturales posteriores a la entrada en vigor de la presente Ley.
+
+Artículo Décimo Segundo. La Fiscalía del Estado y la Comisión de Búsqueda adoptarán los protocolos homologados de actuación forense centrados en el proceso de identificación de personas desaparecidas que hayan sido aprobados por la Conferencia Nacional de Procuración de Justicia o el Sistema Nacional de Búsqueda de Personas, a más tardar en noventa (90) días naturales desde la entrada en vigor de la presente Ley.
+
+En relación con los registros de personas desaparecidas con que cuente la Fiscalía del Estado a la fecha de entrada en vigor de la presente Ley, deberá informarse de manera inmediata a la Comisión de Búsqueda y a la Fiscalía General correspondiente, exclusivamente respecto de aquellos casos en los que las personas continúen en calidad de desaparecidas.
