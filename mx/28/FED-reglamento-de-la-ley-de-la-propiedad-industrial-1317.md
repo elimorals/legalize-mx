@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-de-la-propiedad-industrial-1317"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-11-23"
-last_updated: "2016-12-16"
+last_updated: "2026-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1317&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "1994-11-18"
 ---
 # REGLAMENTO DE LA LEY DE LA PROPIEDAD INDUSTRIAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY FEDERAL DE PROTECCIÓN A LA PROPIEDAD INDUSTRIAL, PUBLICADO EN EL D.O.F. DE 28 DE ABRIL DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA LEY DE LA PROPIEDAD INDUSTRIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ABRIL DE 2026 (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 23 de noviembre de 1994.
 
@@ -904,3 +906,23 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las solicitudes que a la entrada en vigor del presente Decreto, se encuentren en trámite ante el Instituto Mexicano de la Propiedad Industrial, se sustanciarán hasta su conclusión conforme a las disposiciones vigentes al momento de su presentación.
 
 TERCERO.- El Director General del Instituto Mexicano de la Propiedad Industrial deberá emitir el Acuerdo por el que se establezcan las reglas generales para la gestión de trámites a través de medios de comunicación electrónica, a más tardar a los treinta días hábiles posteriores a la entrada en vigor del presente Decreto.
+
+D.O.F. 28 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY FEDERAL DE PROTECCIÓN A LA PROPIEDAD INDUSTRIAL”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a los sesenta días hábiles siguientes al de su publicación en el Diario Oficial de la Federación.
+
+El procedimiento de declaración administrativa de infracción en línea a que se refiere el Capítulo VII del presente Reglamento, entrará en vigor al día siguiente al que se publique en el Diario Oficial de la Federación el Acuerdo para su implementación, el cual deberá publicarse en un plazo no mayor a dieciocho meses a partir de la entrada en vigor del presente Reglamento.
+
+SEGUNDO.- Se abroga el Reglamento de la Ley de la Propiedad Industrial, publicado en el Diario Oficial de la Federación el 23 de noviembre de 1994, así como sus posteriores reformas y adiciones.
+
+TERCERO.- Los asuntos que estuvieren en trámite al entrar en vigor este Reglamento, se regirán y substanciarán hasta su conclusión conforme a las disposiciones vigentes al momento de su presentación.
+
+Los procedimientos administrativos que se encuentren en trámite a la entrada en vigor del presente Reglamento podrán acceder, en lo que resulte procedente, a las disposiciones relativas a los mecanismos alternativos de solución de controversias previstas en el mismo.
+
+Tratándose de los mecanismos alternativos de solución de controversias en sede jurisdiccional, éstos podrán promoverse o utilizarse a partir de la entrada en vigor del presente Reglamento, conforme a la normativa aplicable del Tribunal Federal de Justicia Administrativa.
+
+CUARTO.- El Instituto deberá publicar el listado al que se refiere el artículo 131 del presente Reglamento dentro del plazo de tres meses contado a partir de la entrada en vigor de este Reglamento.
+
+QUINTO.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado para el ejecutor de gasto, por lo que no se autorizarán recursos adicionales para el presente ejercicio fiscal ni subsecuentes.
