@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-amnistia-del-estado-de-mexico-145747"
 country: "mx"
 rank: "ley"
 publication_date: "2021-01-05"
-last_updated: "2021-01-05"
+last_updated: "2026-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145747&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE AMNISTÍA DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE ABRIL DE 2026.
 
 Ley publicada en la Sección Primera de la Gaceta del Gobierno del Estado de México, el martes 5 de enero de 2021.
 
@@ -41,9 +41,13 @@ Se expide la Ley de Amnistía del Estado de México, para quedar como sigue:
 
 LEY DE AMNISTÍA DEL ESTADO DE MÉXICO
 
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2026)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público, interés social y de observancia general y obligatoria en el Estado de México, y tiene por objeto establecer las bases para decretar amnistía en favor de las personas en contra de quienes estén vinculadas a proceso o se les haya dictado sentencia firme ante los tribunales del orden común, por los delitos previstos en ésta Ley, cometidos hasta la fecha de entrada en vigor de la misma, siempre y cuando no sean reincidentes por el delito que se beneficiará.
+La presente Ley es de orden público, interés social y de observancia general en el Estado de México.
+
+Su objeto es establecer las bases para decretar amnistía en favor de las personas a las que se les dicte auto de vinculación a proceso o se les haya dictado sentencia firme ante los tribunales del orden común, respecto de los delitos previstos en esta Ley, sin trato diferenciado, salvaguardando en todo momento la constitucionalidad, los derechos humanos y la no discriminación, siempre que no sean reincidentes en el delito por el cual se otorgue el beneficio.
 
 ###### Artículo 2.
 
@@ -55,15 +59,29 @@ II. El Poder Ejecutivo;
 
 III. El Poder Judicial;
 
-IV. La Fiscalía General de Justicia del Estado de México.
+> <small>(REFORMADA, G.G. 28 DE ABRIL DE 2026)</small>
+
+IV. La Fiscalía General de Justicia del Estado de México;
+
+> <small>(ADICIONADA, G.G. 28 DE ABRIL DE 2026)</small>
+
+V. El Congreso del Estado de México, a través de su Comisión Legislativa de Amnistía;
+
+> <small>(ADICIONADA, G.G. 28 DE ABRIL DE 2026)</small>
+
+VI. La Comisión de Derechos Humanos del Estado de México, y
+
+> <small>(ADICIONADA, G.G. 28 DE ABRIL DE 2026)</small>
+
+VII. El Instituto de la Defensoría Pública del Estado de México.
 
 ###### Artículo 3.
 
 Para los efectos de esta Ley, se entenderá por:
 
-I. Campesino o campesina: La persona que vive y trabaja del campo, y goce de los derechos protegidos por el artículo 27
+> <small>(REFORMADA, G.G. 28 DE ABRIL DE 2026)</small>
 
-de la Constitución Política de los Estados Unidos Mexicanos y su Ley Reglamentaria en materia Agraria.
+I. Persona campesina: A la que vive y trabaja del campo, y que goce de los derechos protegidos por el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos y su Ley Reglamentaria en materia Agraria.
 
 II. Código Penal: Código Penal del Estado de México.
 
@@ -87,11 +105,17 @@ Se decretará amnistía en los siguientes supuestos:
 
 I. Por el delito de aborto, en cualquiera de sus modalidades, previsto en el Código Penal, cuando:
 
-a) Se impute a la madre del producto del embarazo interrumpido.
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2026)</small>
 
-b) Se impute a las y los médicos, cirujanos, comadronas o parteras, u otro personal autorizado de servicios de la salud, que hayan auxiliado en la interrupción del embarazo, siempre que la conducta delictiva se haya llevado a cabo sin violencia y con el consentimiento de la madre del producto del embarazo interrumpido.
+a) Se impute a la madre o persona gestante del producto del embarazo interrumpido.
 
-c) Se impute a los parientes consanguíneos de la madre del producto que hayan auxiliado en la interrupción del embarazo, y exista consentimiento de la madre para dicha circunstancia.
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2026)</small>
+
+b) Se impute a las y los médicos, cirujanos, comadronas o parteras, u otro personal autorizado de servicios de la salud, que hayan auxiliado en la interrupción del embarazo, siempre que esta se haya llevado a cabo sin violencia y con el consentimiento de la madre o persona gestante del producto del embarazo interrumpido.
+
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2026)</small>
+
+c) Se impute a las personas que hayan auxiliado, con previo consentimiento de la madre o la persona gestante del producto, en la interrupción del embarazo.
 
 II. Por los delitos contra la salud de los cuales conozcan los tribunales del Estado de México, en términos del artículo 474 de la Ley General de Salud, cuando:
 
@@ -137,9 +161,13 @@ V. A las mujeres acusadas o sentenciadas por exceso de legítima defensa en la p
 
 VI. A personas mayores de sesenta y cinco años de edad, que:
 
-a) Padezcan enfermedad terminal o crónico degenerativa grave, o
+a) (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 b) Sean sentenciadas o acusadas por exceso de legítima defensa en la protección de su vida e integridad.
+
+> <small>(ADICIONADA, G.G. 28 DE ABRIL DE 2026)</small>
+
+VI Bis. Que padezcan enfermedad terminal o crónico degenerativa grave diagnosticada.
 
 VII. Por el delito de sedición o apología del delito de sedición, porque hayan invitado, instigado o incitado a la comisión de este delito formando parte de grupos impulsados por razones políticas con el propósito de alterar la vida institucional y que en los hechos no se haya producido la privación de la vida, lesiones graves a otra persona o se hayan empleado o utilizado armas de fuego, explosivos o incendios.
 
@@ -153,13 +181,25 @@ XI. En casos de delitos culposos, cuando exista sentencia firme ejecutoriada sin
 
 XII. A las personas privadas de la libertad independientemente del delito del que se trate, que cuenten con resolución, pronunciamiento o recomendación de organismos internacionales cuya competencia esté reconocida por el Estado Mexicano, algún organismo nacional o local de derechos humanos, donde se desprendan violaciones a derechos humanos y/o al debido proceso, en la que se proponga su libertad.
 
+> <small>(ADICIONADA, G.G. 28 DE ABRIL DE 2026)</small>
+
+XIII. A las mujeres acusadas o sentenciadas que no hubieren sido juzgadas con perspectiva de género o perspectiva de derechos humanos.
+
+> <small>(ADICIONADA, G.G. 28 DE ABRIL DE 2026)</small>
+
+XIV. A las personas acusadas o sentenciadas por delitos cometidos bajo una situación de vulnerabilidad manifiesta, desventaja, asimetría o existencia de alguna categoría sospechosa.
+
 Los organismos a que se refiere el párrafo anterior, podrán remitir para análisis y resolución del Poder Judicial, los casos que sean hechos de su conocimiento y consideren que son objeto de aplicación de la presente Ley.
 
-No se concederá la amnistía cuando se trate de delitos que atenten contra la vida, la libertad o la integridad personal, salvo las excepciones expresamente previstas en esta Ley.
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2026)</small>
+
+No se concederá la amnistía cuando se trate de delitos que atenten contra la vida, la libertad o la integridad personal, salvo lo previsto en la fracción XII anterior y las excepciones expresamente previstas en esta Ley.
+
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2026)</small>
 
 ###### Artículo 5.
 
-El Consejo de la Judicatura del Poder Judicial Poder Judicial del Estado estará facultado para emitir acuerdos generales a efecto de normar el procedimiento, fijando plazos para sustanciar las solicitudes de amnistía ajustándose a los que se encuentran previstos en esta Ley, para su debido cumplimiento.
+El Órgano de Administración Judicial del Poder Judicial del Estado estará facultado para emitir acuerdos generales a efecto de normar el procedimiento, fijando plazos para sustanciar las solicitudes de amnistía ajustándose a los que se encuentran previstos en esta Ley, para su debido cumplimiento.
 
 ###### Artículo 6.
 
@@ -169,11 +209,19 @@ I. Tratándose de personas vinculadas o sujetas a proceso o indiciadas pero pró
 
 II. Tratándose de personas con sentencia firme, se realizarán las actuaciones conducentes para, en su caso, ordenar su inmediata liberación.
 
-Son supletorias de esta Ley en lo que correspondan, el Código Nacional de Procedimientos Penales y la Ley Nacional de Ejecución Penal.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.G. 28 DE ABRIL DE 2026)</small>
 
 ###### Artículo 7.
 
 Las solicitudes también podrán ser presentadas por personas que tengan relación de parentesco por consanguinidad o afinidad hasta el cuarto grado con el interesado, o bien por organizaciones u organismos públicos defensores de derechos humanos debidamente registrados y sin fines de lucro.
+
+> <small>(ADICIONADO, G.G. 28 DE ABRIL DE 2026)</small>
+
+###### Artículo 7 Bis.
+
+El Instituto de la Defensoría Pública del Estado de México deberá proporcionar asesoría y defensa jurídica a las personas solicitantes de amnistía que así lo requieran, conforme a la legislación aplicable, así como ejercer su representación legal, cuando así corresponda, ante las autoridades competentes.
+
+La Comisión de Derechos Humanos del Estado de México deberá proporcionar orientación jurídica especializada a las personas solicitantes de amnistía, respecto de la identificación de posibles violaciones a derechos humanos o al debido proceso.
 
 ###### Artículo 8.
 
@@ -221,19 +269,31 @@ En los casos en que estén pendiente de resolución recursos en segunda instanci
 
 Las personas a quienes beneficie esta Ley, no podrán ser en lo futuro detenidas ni procesadas por los mismos hechos; por lo que la autoridad Judicial ordenará la cancelación de los antecedentes penales del delito por el que se aplica amnistía.
 
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2026)</small>
+
 ###### Artículo 16.
 
-La LX Legislatura del Estado de México con base en su normatividad, integrará una Comisión Especial, con el fin de dar seguimiento a lo ordenado en esta ley, así como para conocer de aquellos casos que por su relevancia son puestos a su consideración por medio de las personas a que se refiere el artículo 7 de esta Ley y organismos defensores de derechos humanos, por encuadrar en supuestos de violación de derechos o fallas en la aplicación de alguno de los principios penales del sistema acusatorio, o la plena presunción de fabricación de delitos.
+El Congreso del Estado de México con base en su normatividad, integrará una Comisión Legislativa, con el fin de dar seguimiento a lo ordenado en esta Ley, así como para conocer de aquellos casos que por su relevancia son puestos a su consideración por medio de las personas a que se refiere el artículo 7 de esta Ley y organismos defensores de derechos humanos, por encuadrar en supuestos de violación de derechos o fallas en la aplicación de alguno de los principios penales del sistema acusatorio, o la plena presunción de fabricación de delitos.
+
+La Comisión Legislativa de Amnistía se integrará conforme a lo dispuesto en la Ley Orgánica y el Reglamento del Poder Legislativo del Estado de México, a propuesta de la Junta de Coordinación Política y con aprobación del Pleno.
+
+En su integración se considerará la participación de los distintos grupos parlamentarios, respetando en todo momento los principios de pluralidad, paridad y proporcionalidad.
+
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2026)</small>
 
 ###### Artículo 17.
 
-La Comisión al conocer de la solicitud a que se refiere el artículo anterior, solicitará la opinión consultiva de la Comisión de Derechos Humanos del Estado de México, de la Fiscalía General de Justicia del Estado de México, del Poder Judicial del Estado de México y del Ejecutivo estatal a través de la Secretaría de Justicia y Derechos Humanos, así como de Organizaciones de la Sociedad Civil debidamente registradas, cuyo objeto sea la protección y defensa de derechos humanos, quienes deberán emitir la opinión en un plazo razonable.
+La Comisión Legislativa al conocer de la solicitud a que se refiere el artículo anterior, solicitará la opinión consultiva de la Comisión de Derechos Humanos, de la Fiscalía General de Justicia, del Poder Judicial y del Poder Ejecutivo, todos del Estado de México, éste último, a través de la Consejería Jurídica, así como de las Organizaciones de la Sociedad Civil debidamente registradas, cuyo objeto sea la protección y defensa de derechos humanos, quienes deberán emitir la opinión en un plazo razonable.
 
-En atención a las facultades señaladas en el párrafo anterior, tratándose de solicitudes de amnistía, la recepción de la solicitud por parte de la Comisión no implica el otorgamiento de la misma.
+Además, podrá convocar la participación de personas expertas, instituciones académicas y organizaciones de la sociedad civil, cuando la naturaleza del asunto lo amerite.
+
+En atención a las facultades señaladas en el párrafo anterior, tratándose de solicitudes de amnistía, la recepción de la solicitud por parte de la Comisión Legislativa no implica el otorgamiento de la misma.
+
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2026)</small>
 
 ###### Artículo 18.
 
-La determinación que resulte del análisis de cada caso, será turnado (sic) a la autoridad judicial o procuradora de justicia a efecto de que atienda la recomendación legislativa y resuelva lo procedente. También se hará del conocimiento del Titular del Ejecutivo para que, en ejercicio de sus atribuciones, determine lo conducente.
+La Comisión Legislativa, con base en la presunción de inocencia, el debido proceso y de los demás principios penales aplicables, derivado del análisis exhaustivo, profesional, imparcial, y libre de estereotipos y de discriminación de cada caso, solicitará al Instituto de la Defensoría Pública del Estado de México, para que a través de su conducto o de su defensa, previa recepción del expediente y dictaminación correspondiente, presente la solicitud de amnistía en términos del artículo 6 de esta Ley, a la autoridad judicial o procuradora de justicia a efecto de que se realice el trámite correspondiente de amnistía en los términos de la presente Ley.
 
 ###### Artículo 19.
 
@@ -276,3 +336,17 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. ERNESTO NEMER ALVAREZ
 
 (RÚBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 28 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 312.- POR EL QUE SE REFORMA EL ARTÍCULO 1, LA FRACCIÓN IV DEL ARTÍCULO 2, LA FRACCIÓN I DEL ARTÍCULO 3, LOS INCISOS A), B) Y C) DE LA FRACCIÓN I Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 4, Y LOS ARTÍCULO 5, 16, 17 Y 18; SE ADICIONAN LAS FRACCIONES V, VI Y VII DEL ARTÍCULO 2, LAS FRACCIONES VI BIS, XIII Y XIV AL ARTÍCULO 4 Y EL ARTÍCULO 7 BIS; Y SE DEROGA EL INCISO A) DE LA FRACCIÓN VI DEL ARTÍCULO 4 Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 6 DE LA LEY DE AMNISTÍA DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad de recursos y se cubrirán con cargo al presupuesto aprobado a las dependencias o entidades competentes para el ejercicio fiscal en curso y subsecuentes.
