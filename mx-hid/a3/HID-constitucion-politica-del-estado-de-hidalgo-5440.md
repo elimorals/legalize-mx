@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2026-04-22"
+last_updated: "2026-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -201,23 +201,23 @@ Los habitantes del Estado gozan del derecho a que le sea respetado su honor, su 
 
 El derecho de réplica será ejercido en los términos dispuestos por la Ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2026)</small>
 
 ###### Artículo 5.
 
-Sin distinción alguna, todas y todos los habitantes del Estado tienen los derechos y obligaciones, así como los derechos humanos, consagrados en esta Constitución.
+Sin distinción alguna, todas las personas habitantes del Estado tienen los derechos y obligaciones, así como los derechos humanos consagrados en esta Constitución.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE SEPTIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2026)</small>
 
-La familia es el elemento natural y fundamental de la sociedad y tiene derecho a su protección y desarrollo, por la sociedad, el Estado y la ley.
+La familia es una institución social permanente a la que se reconoce como el elemento natural y fundamental de la sociedad. El Estado, la ley y la sociedad protegerán la organización y el desarrollo de la familia, así como el respeto a su dignidad e intimidad. En Hidalgo, el régimen matrimonial, el concubinario, y cualquier forma de integración análoga debe establecerse conforme a los principios de derechos humanos reconocidos en esta Constitución; por lo que el Estado vigilará y garantizará que, para la unión de dos personas a través de estas instituciones, o cualquiera equivalente, se establezcan límites respecto de la edad, quedando prohibida cualquier tipo de unión de hecho o de derecho que involucre a personas menores de edad.
 
-> <small>(REFORMADO, P.O. 17 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2026)</small>
 
-Todas las personas son iguales ante la ley.
+Todas las personas son iguales ante la ley. El Estado garantizará el goce y ejercicio del derecho a la igualdad sustantiva de las mujeres.
 
-> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2025)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2026)</small>
 
-Toda persona tiene derecho a una vida libre de violencia. El Estado priorizará el ejercicio de este derecho a las niñas, niños, adolescentes y mujeres. Asimismo, todas las personas tienen derecho a la paz, y a la convivencia pacífica y solidaria.
+Toda persona tiene derecho a vivir una vida libre de violencias, el Estado tiene deberes reforzados de protección con las mujeres, adolescentes, niñas y niños.
 
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
@@ -227,17 +227,17 @@ Toda persona tiene derecho a decidir, de manera libre, responsable e informada, 
 
 El Estado, en sus decisiones y actuaciones, velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez. Los niños, niñas, adolescentes, adultos mayores y personas con discapacidad, tienen derecho a la satisfacción de sus necesidades de alimentación nutritiva, suficiente y de calidad, salud, educación y sano esparcimiento para su desarrollo integral, así como a la convivencia familiar. Asimismo garantizará a toda persona el derecho a la identidad y a ser registrado de manera inmediata a su nacimiento. Las autoridades municipales exentarán de cobro el derecho por el registro de nacimiento y expedirán gratuitamente la primera copia certificada del acta de nacimiento.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2026)</small>
 
-Los ascendientes, tutores y custodios tienen la obligación de preservar y exigir el cumplimiento de estos derechos y principios. El Estado proveerá lo necesario para garantizar el respeto a la dignidad de la niñez, los adolescentes, las personas con discapacidad, los adultos mayores, así como el ejercicio pleno de sus derechos.
+Las personas ascendientes, tutoras y custodias tienen la obligación de preservar y exigir el cumplimiento de estos derechos y principios. El Estado proveerá lo necesario para garantizar el respeto a la dignidad de la niñez, los adolescentes, las personas con discapacidad, las personas adultas mayores, así como el ejercicio pleno de sus derechos.
 
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2001)</small>
 
 El Estado otorgará facilidades a los particulares, para que se coadyuve al cumplimiento de los derechos de la niñez.
 
-> <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2026)</small>
 
-Es deber de los padres preservar el derecho de los menores a la satisfacción de sus necesidades y a la salud física y mental. La ley determinará los apoyos a la protección de los menores, a cargo de las instituciones públicas.
+Es deber de los padres y madres preservar el derecho de sus hijas e hijos a la satisfacción de sus necesidades y a la salud física y mental. La ley determinará los apoyos a la protección de las personas menores de edad, a cargo de las instituciones públicas.
 
 > <small>(REFORMADO, P.O. 3 DE JULIO DE 2025)</small>
 
@@ -287,9 +287,9 @@ La jurisdicción indígena se ejercerá por las autoridades comunitarias de acue
 
 La Ley establecerá qué se debe entender por conflictos internos y sistemas normativos, así como delimitar facultades y competencias.
 
-> <small>(REFORMADA, P.O. 3 DE JULIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2026)</small>
 
-III. Elegir de acuerdo con sus sistemas normativos, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando que las mujeres y hombres indígenas disfrutarán y ejercerán su derecho de votar y ser votados en condiciones de igualdad; así como acceder y desempeñar los cargos públicos y de elección popular para los que hayan sido electos o designados, en un marco que respete el pacto federal, la soberanía del Estado y la autonomía de los municipios. En ningún caso sus sistemas normativos podrán limitar los derechos político-electorales de la ciudadanía en la elección de sus autoridades municipales;
+III. Elegir de acuerdo con sus sistemas normativos, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando que las personas integrantes de los pueblos y comunidades indígenas y afromexicanas disfrutarán y ejercerán su derecho de votar y ser votados en condiciones de igualdad; así como acceder y desempeñar los cargos públicos y de elección popular para los que hayan sido electos o designados, en un marco que respete el pacto federal, la soberanía del Estado y la autonomía de los municipios. En ningún caso sus sistemas normativos podrán limitar los derechos político-electorales de la ciudadanía en la elección de sus autoridades municipales;
 
 > <small>(REFORMADA, P.O. 3 DE JULIO DE 2025)</small>
 
@@ -467,9 +467,9 @@ Se reconoce y garantiza el derecho de la niñez, adolescencia y juventud indíge
 
 El Estado y los municipios adoptarán las medidas necesarias para hacer efectivos los derechos reconocidos en esta Constitución con el propósito de eliminar la discriminación, racismo, exclusión e invisibilidad de las que sean objeto los pueblos y comunidades indígenas y afromexicanas.
 
-> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 3 DE JULIO DE 2025)</small>
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2026)</small>
 
-Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienestar, así como el deber de conservarlo. El Estado garantizará el respeto a ese derecho. Las Autoridades Estatales y Municipales instrumentarán y aplicarán en el ámbito de su competencia los planes, programas y acciones destinadas a la preservación, aprovechamiento racional, protección y resarcimiento de los recursos naturales en su territorio. El daño y deterioro ambiental generará responsabilidad para quién lo provoque en términos de lo dispuesto por la Ley.
+Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienestar, así como el deber de conservarlo. El Estado garantizará el respeto a ese derecho. Las Autoridades Estatales y Municipales instrumentarán y aplicarán en el ámbito de su competencia los planes, programas y acciones destinadas a la preservación, aprovechamiento racional, protección y resarcimiento de los recursos naturales en su territorio, además de promover el uso de energías renovables que contribuyan a la conservación y protección del entorno ambiental. El daño y deterioro ambiental generará responsabilidad para quién lo provoque en términos de lo dispuesto por la Ley.
 
 > <small>(REFORMADO, P.O. 3 DE JULIO DE 2025)</small>
 
@@ -499,6 +499,10 @@ Toda persona tiene el derecho humano a la participación ciudadana en los asunto
 
 Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad.
 
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2026)</small>
+
+Toda persona tiene el derecho al cuidado, que incluye el reconocimiento a ser asistida, a brindar asistencia a otras personas y a procurar su propio bienestar, con base en los principios de igualdad, universalidad, progresividad y no regresividad, así como con corresponsabilidad social y de género.
+
 > <small>(REFORMADO, P.O. 16 DE ENERO DE 1987)</small>
 
 ###### Artículo 6º.
@@ -520,6 +524,10 @@ La ley determinará cuáles son las profesiones que necesitan título para su ej
 ###### Artículo 8°.
 
 Todos los habitantes del Estado tienen derecho a la alimentación nutritiva, suficiente y de calidad, a la protección de la salud, a disfrutar de una vivienda digna y decorosa, y en general, al bienestar y a la seguridad individual y social y a la accesibilidad, como objetivos de la permanente superación del nivel de vida de la población. La Ley definirá las bases y formas para conseguir estas finalidades en concurrencia con la Federación.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2026)</small>
+
+Para garantizar el derecho de protección a la salud de las personas, la ley sancionará toda actividad relacionada con cigarrillos electrónicos y demás sistemas o dispositivos análogos que señale la ley; así como la producción, distribución y enajenación de sustancias tóxicas, precursores químicos, el uso ilícito del fentanilo y demás drogas sintéticas no autorizadas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MARZO DE 2023)</small>
 
@@ -2213,15 +2221,25 @@ Así mismo, la Ley facultará al Ejecutivo Estatal para que establezca los proce
 
 #### SECCION IV BIS. SEGURIDAD PUBLICA
 
-> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2026)</small>
 
 ###### Artículo 87 Bis.
 
-La Seguridad Pública en la Entidad, será una función a cargo del Estado y de los municipios, en sus respectivos ámbitos de competencia para la prevención de los delitos, así como para determinar las sanciones a infracciones de carácter administrativo, en términos de la ley.
+La Seguridad Pública en la Entidad, es una función a cargo del Estado y de los municipios, en sus respectivos ámbitos de competencia para la prevención de los delitos, cuyos fines son salvaguardar la vida, las libertades, la integridad y el patrimonio de las personas, de conformidad con lo dispuesto en el artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos que garantiza los deberes reforzados de protección del Estado con las mujeres, adolescentes, niñas y niños; así como contribuir a la generación y preservación del orden público y la paz social, de conformidad con lo previsto en esta Constitución y las leyes en la materia.
 
-La Seguridad Pública deberá regirse por los principios de eficiencia, legalidad, objetividad, profesionalismo, honradez y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales de los que el Estado Mexicano sea parte y por esta Constitución.
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2026)</small>
+
+La seguridad pública comprende la prevención, investigación y persecución de los delitos, así como la sanción de las infracciones administrativas, en los términos de la ley, en las respectivas competencias que esta Constitución señala.
+
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2026)</small>
+
+La actuación de las instituciones de Seguridad Pública deberán regirse por los principios de eficiencia, legalidad, objetividad, profesionalismo, honradez, así como por la perspectiva de género y respeto a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales de los que el Estado Mexicano sea parte y por esta Constitución.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2022)</small>
 
 Las instituciones encargadas de la Seguridad Pública en el Estado, serán de carácter civil, disciplinado y profesional. Deberán coordinarse con el Ministerio Público a fin de cumplir con los objetivos establecidos en el Sistema Nacional de Seguridad Pública, lo anterior en términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, la Ley General del Sistema Nacional de Seguridad Pública y la Ley de Seguridad pública para el Estado de Hidalgo.
+
+> <small>(ADICIONADO, P.O. 22 DE JUNIO DE 2022)</small>
 
 Las policías de investigación actuarán bajo la conducción y el mando del Ministerio Público en la investigación de los delitos.
 
@@ -4880,3 +4898,39 @@ P.O. 22 DE ABRIL DE 2026.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Las reformas aprobadas en este Decreto, relativas la prohibición de nepotismo electoral y a la prohibición de reelección, serán aplicables a partir de los procesos electorales locales a celebrarse en el año 2030.
+
+P.O. 28 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 612 – LXVI POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 8 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO, EN MATERIA DE PROTECCIÓN A LA SALUD".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 613 – LXVI POR EL QUE SE ADICIONAN DIVERSAS DISPOSICIONES A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO, EN MATERIA DE DERECHO AL CUIDADO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 614 – LXVI POR EL QUE SE REFORMA EL TRIGÉSIMO SEGUNDO PÁRRAFO DEL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO, EN MATERIA DE PROMOCIÓN DE APROVECHAMIENTO DE ENERGÍAS RENOVABLES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 615 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO, EN MATERIA DE IGUALDAD SUSTANTIVA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 620 – LXVI POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO, EN MATERIA DE PROTECCIÓN DE LA FAMILIA Y DEL LIBRE DESARROLLO DE NIÑAS, NIÑOS Y ADOLESCENTES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 622 – LXVI POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO, EN MATERIA DE LENGUAJE NEUTRO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
