@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-seguridad-integral-escolar-para-el-estado-libre-y-79854"
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-04"
-last_updated: "2021-11-08"
+last_updated: "2026-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79854&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE SEGURIDAD INTEGRAL ESCOLAR PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE NOVIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Puebla, el viernes 4 de febrero de 2011.
 
@@ -77,9 +77,13 @@ Para los efectos y la aplicación de esta Ley, se entenderá por:
 
 I.- Acoso escolar: El comportamiento negativo, repetitivo e intencional que llevan a cabo uno o más individuos contra una persona que tiene dificultades para defenderse; a la relación interpersonal caracterizada por el desequilibrio de poder o fuerza, que ocurre de manera repetida durante algún tiempo y no existe una provocación aparente por parte de la víctima, siempre que se dirija contra uno o más alumnos; entorpezca significativamente las oportunidades educativas o la participación en programas educativos de dichos alumnos; y perjudique la disposición de un alumno a participar o aprovechar los programas o actividades educativas del centro escolar, al hacerle sentir un temor razonable a sufrir alguna agresión física;
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2026)</small>
 
-I Bis.- Acoso Escolar Cibernético: Consiste en utilizar las tecnologías de la información y la comunicación, para acosar, amenazar, avergonzar, intimidar o criticar a otra persona, lo cual se produce entre niñas, niños y/o adolescentes.
+I Bis.- Acoso Escolar Cibernético: Cualquier forma de acoso, amenaza, ofensa, intimidación o violencia que se ejerza a través de las tecnologías de la información y la comunicación. Esto incluye, de manera enunciativa y no limitativa, el uso de Internet, redes sociales, correos electrónicos, aplicaciones de mensajería instantánea, imágenes o videos enviados mediante teléfonos móviles, computadoras u otros dispositivos digitales, independientemente de si ocurre dentro o fuera del entorno escolar, siempre que se origine o esté vinculado con la comunidad educativa;
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2026)</small>
+
+I Ter.- Agresión psicológica: Acciones u omisiones que afecten la integridad emocional o psicosocial de una persona, generando depresión, sometimiento, aislamiento o deterioro de su autoestima o dignidad personal.
 
 II.- Brigada: Grupo de personas seleccionadas de entre los integrantes de la comunidad escolar, que interactúan y se reúnen con la finalidad de tomar las medidas necesarias para velar por la seguridad escolar de la institución educativa a la que pertenecen;
 
@@ -101,13 +105,21 @@ VI.- Consejo Municipal: Consejo Municipal de Seguridad Escolar;
 
 VII.- Escuela o Institución Educativa: Establecimiento público o privado, donde seimparte (sic) educación de cualquier tipo;
 
-> <small>(REFORMADA, P.O. 1 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2026)</small>
 
-VIII.- Secretaría: Secretaría de Educación del Estado de Puebla; y
+VIII.- Secretaría: Secretaría de Educación Pública del Estado de Puebla;
 
-> <small>(ADICIONADA, P.O. 1 DE MARZO DE 2021)</small>
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2026)</small>
 
-IX.- Seguridad escolar.- Condición referida al resguardo de la integridad física y psicosocial de los integrantes de la comunidad escolar, al interior de la escuela y alrededor de la misma, derivada del conjunto de acciones preventivas y de atención, coordinadas por la autoridad competente en la materia.
+IX.- Seguridad escolar: Condición referida al resguardo de la integridad física y psicosocial de los integrantes de la comunidad escolar, al interior de la escuela y alrededor de la misma, derivada del conjunto de acciones preventivas y de atención, coordinadas por la autoridad competente en la materia;
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2026)</small>
+
+IX Bis.- Violencia física: Toda acción intencional que cause daño corporal a un integrante de la comunidad escolar, ya sea mediante el uso de la fuerza física o de cualquier otro medio capaz de provocar lesiones internas, externas o ambas, y
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2026)</small>
+
+IX Ter.- Violencia verbal: Conducta que se manifiesta a través de expresiones verbales o gestuales, incluyendo insultos, menosprecio y burlas, ya sea en público o en privado.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2011)</small>
 
@@ -924,6 +936,14 @@ TERCERO. El Consejo Estatal de Seguridad Escolar, contará con 120 días natural
 P.O. 8 DE NOVIEMBRE DE 2021.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 1, LA FRACCIÓN I DEL 33, EL PRIMER PÁRRAFO DEL 34, Y ADICIONA LA FRACCIÓN I BIS AL ARTÍCULO 2, TODOS DE LA LEY DE SEGURIDAD INTEGRAL ESCOLAR PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, EN MATERIA DE CLASES EN LA MODALIDAD A DISTANCIA Y ACOSO ESCOLAR CIBERNÉTICO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES I BIS, VIII Y IX, Y ADICIONA LAS FRACCIONES I TER, IX BIS Y IX TER, TODAS DEL ARTÍCULO 2 DE LA LEY DE SEGURIDAD INTEGRAL ESCOLAR PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
