@@ -4,7 +4,7 @@ identifier: "HID-ley-de-educacion-del-estado-hidalgo-145389"
 country: "mx"
 rank: "ley"
 publication_date: "2020-11-30"
-last_updated: "2025-12-29"
+last_updated: "2026-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=145389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE EDUCACIÓN DEL ESTADO HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2026.
 
 Ley publicada en el Núm. 48 del Periódico Oficial del Estado de Hidalgo, el lunes 30 de noviembre de 2020.
 
@@ -939,13 +939,19 @@ XVI. La educación ambiental para la sustentabilidad y la consciencia en el uso 
 
 XVII. El aprendizaje y fomento de la cultura de protección civil, integrando elementos básicos de prevención y resiliencia, así como los riesgos inherentes a otros fenómenos naturales;
 
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2026)</small>
+
+XVII Bis. La enseñanza de primeros auxilios y respuesta básica ante emergencias;
+
 XVIII. El fomento de los valores y principios que propicien la construcción de relaciones solidarias y fraternas para el bienestar;
 
 XIX. La promoción de actitudes solidarias y positivas hacia el trabajo, el ahorro y el bienestar general;
 
 XX. El fomento de la lectura y el uso de los libros, materiales diversos y dispositivos digitales;
 
-XXI. La promoción del valor de la justicia, la cultura de la legalidad, la cultura de la paz y el respeto a los derechos humanos;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2026)</small>
+
+XXI. La promoción del valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante ésta, la cultura de la legalidad, de la inclusión y la no discriminación, de la paz y la no violencia en cualquier tipo de sus manifestaciones, así como la práctica de los valores y el conocimiento de los derechos humanos para garantizar el respeto a los mismos;
 
 XXII. El conocimiento, cuidado, preservación, valoración y desarrollo del patrimonio cultural y artístico, a través de procesos y medios tecnológicos y tradicionales;
 
@@ -2688,3 +2694,9 @@ P.O. 29 DE DICIEMBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Las autoridades educativas, en coordinación con los ayuntamientos y demás instancias competentes, establecerán las acciones y programas necesarios para dar cumplimiento a lo dispuesto en el presente Decreto.
+
+P.O. 28 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 617 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL ARTÍCULO 68 DE LA LEY DE EDUCACIÓN DEL ESTADO DE HIDALGO, EN MATERIA DE PLANES Y PROGRAMAS DE ESTUDIO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
