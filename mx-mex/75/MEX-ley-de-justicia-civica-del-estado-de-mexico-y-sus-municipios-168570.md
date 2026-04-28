@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-justicia-civica-del-estado-de-mexico-y-sus-municipios-16
 country: "mx"
 rank: "ley"
 publication_date: "2023-11-22"
-last_updated: "2023-11-22"
+last_updated: "2026-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168570&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE JUSTICIA CÍVICA DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE ABRIL DE 2026.
 
 Ley publicada en la Sección Segunda del Número 96 de la Gaceta del Gobierno del Estado de México, el miércoles 22 de noviembre de 2023.
 
@@ -125,7 +125,9 @@ XIX. Perfil de Riesgo: A la evaluación que realiza la o el psicólogo del Juzga
 
 XX. Quejosa o Quejoso: A la persona que interpone una queja en el Juzgado Cívico, por considerar que este último cometió una infracción;
 
-XXI. Registro Municipal de Personas Infractoras: Al registro para llevar un control de las detenciones por la comisión de infracciones en materia de Justicia Cívica, así como del procedimiento hasta su conclusión;
+> <small>(REFORMADA, G.G. 28 DE ABRIL DE 2026)</small>
+
+XXI. Registro Municipal de Infracciones: Al registro de infracciones determinadas por la jueza o juez cívico;
 
 XXII. Reglamento: Al Reglamento de Justicia Cívica Municipal o equivalente; y
 
@@ -365,7 +367,9 @@ IV. Integrar y resguardar los expedientes relativos a los procedimientos del Juz
 
 V. Devolver los objetos y valores de las personas infractoras;
 
-VI. Vigilar la integración y actualización del Registro de Personas Infractoras;
+> <small>(REFORMADA, G.G. 28 DE ABRIL DE 2026)</small>
+
+VI. Vigilar la integración y actualización del Registro Municipal de Infracciones;
 
 VII. Suplir las ausencias de la o el Juez Cívico, si ésta es mayor a quince días, deberá de autorizarse en Sesión de Cabildo; y
 
@@ -901,9 +905,7 @@ VI. Coaccionar de cualquier manera a otra persona para realizar alguna conducta 
 
 VII. Realizar en estado de ebriedad o bajo influjo de enervantes, estupefacientes, psicotrópicos o inhalantes, actividades para la prestación de un servicio público o privado de comercio que requiera trato directo con el público;
 
-(NOTA: EL 20 DE OCTUBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 228/2023, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN VIII DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 21 DE OCTUBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-VIII. FALTAR AL RESPETO AL PÚBLICO QUE ASISTE A EVENTOS O ESPECTÁCULOS, CON AGRESIONES VERBALES, POR PARTE DE LA PERSONA PROPIETARIA DEL ESTABLECIMIENTO, DE LAS PERSONAS ORGANIZADORAS, DE LAS PERSONAS TRABAJADORAS, ARTISTAS O DEPORTISTAS O DE LAS PROPIAS PERSONAS ASISTENTES;
+VIII. (DEROGADA, G.G. 28 DE ABRIL DE 2026)
 
 IX. Alterar el orden, arrojar líquidos u objetos, prender fuego o provocar altercados en los eventos o espectáculos públicos durante su desarrollo o a la entrada o salida del mismo; y
 
@@ -1043,7 +1045,9 @@ Dependiendo de la infracción cometida, para efectos de la individualización de
 
 Para efectos de lo anterior, se deberá tomar en consideración la reincidencia de la persona infractora en la comisión de cualquier conducta que transgreda a esta Ley.
 
-A efecto de determinar la reincidencia, la o el Juez Cívico deberá consultar el Registro de Personas Infractoras y hacer referencia o anexar el antecedente en la resolución respectiva.
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2026)</small>
+
+A efecto de determinar la reincidencia, la Jueza o el Juez Cívico deberá consultar el Registro Municipal de Infracciones y en su caso, hacer referencia o anexar el antecedente de la persona infractora en la resolución respectiva.
 
 ###### Artículo 72.
 
@@ -1061,37 +1065,49 @@ III. Los términos para la prescripción de acción, será de seis meses y comen
 
 IV. Los términos para la prescripción de la sanción, será de un año y correrá desde el día siguiente a que el sancionado se sustraiga de la acción de la autoridad.
 
-## TÍTULO QUINTO. DEL REGISTRO DE PERSONAS INFRACTORAS
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 28 DE ABRIL DE 2026)</small>
 
-### CAPÍTULO ÚNICO. DEL REGISTRO DE PERSONAS INFRACTORAS
+## TÍTULO QUINTO. DEL REGISTRO MUNICIPAL DE INFRACCIONES
 
-(NOTA: EL 20 DE OCTUBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 228/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 21 DE OCTUBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 28 DE ABRIL DE 2026)</small>
+
+### CAPÍTULO ÚNICO. DEL REGISTRO MUNICIPAL DE INFRACCIONES
+
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2026)</small>
 
 ###### Artículo 74.
 
-El Ayuntamiento contará con un Registro de Personas Infractoras, el cual será operado por la Dirección de Seguridad Pública y Tránsito Municipal o su equivalente, que actualizará, en coordinación con el Juzgado Cívico, a efecto de que se asiente la información de las personas que hubieran sido detenidas y a las que se les haya comprobado la comisión de las infracciones en materia de Justicia Cívica. Dicho registro se realizará conforme a los lineamientos observados en la Ley Nacional del Registro de Detenciones.
+El Ayuntamiento contará con un Registro Municipal de Infracciones, el cual será operado por el Juzgado Cívico, a efecto de que se asiente la información de las personas a las que se les haya comprobado la comisión de infracciones en materia de Justicia Cívica. El Registro deberá contener:
 
-Las y los servidores públicos que tengan acceso al Registro de Personas Infractoras estarán obligados a mantener su confidencialidad y reserva, por contener datos sensibles en términos de la normatividad de la materia aplicable.
+I. Datos de identificación del expediente relativo al procedimiento del Juzgado Cívico;
 
-(NOTA: EL 20 DE OCTUBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 228/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 21 DE OCTUBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+II. Datos de identificación de la persona infractora: nombre completo, Clave Única de Registro de Población y municipio de residencia, en su caso;
+
+III. Datos de la resolución, y
+
+IV. Sanción impuesta y forma de cumplimiento, o su conmutación.
+
+Las personas servidoras públicas que tengan acceso al Registro Municipal de Infracciones estarán obligadas a mantener su confidencialidad y reserva, por contener datos sensibles en términos de la normatividad de la materia aplicable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 28 DE ABRIL DE 2026)</small>
 
 ###### Artículo 75.
 
-El Registro de Personas Infractoras será de consulta obligatoria para las y los Jueces Cívicos a efecto de obtener los elementos necesarios para la individualización de las sanciones.
+El Registro Municipal de Infracciones será de consulta obligatoria para las Juezas y los Jueces Cívicos a efecto de obtener los elementos necesarios para la individualización de las sanciones.
 
 Aquellas autoridades que no tengan acceso al registro podrán solicitar información que conste en el mismo, únicamente cuando exista mandamiento de autoridad competente que funde y motive su requerimiento.
 
-(NOTA: EL 20 DE OCTUBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 228/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 21 DE OCTUBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2026)</small>
 
 ###### Artículo 76.
 
-La información contenida en el Registro de Personas Infractoras tendrá como objeto el diseño de las estrategias y acciones tendientes a la preservación del orden y la paz pública en los municipios del Estado de México, así como la instrumentación de programas de desarrollo social y de prevención de adicciones, entre otros.
+La información contenida en el Registro Municipal de Infracciones tendrá como objeto el diseño de las estrategias y acciones tendientes a la preservación del orden y la paz pública en los municipios del Estado de México, así como la instrumentación de programas de desarrollo social y de prevención de adicciones, entre otros.
 
-(NOTA: EL 20 DE OCTUBRE DE 2025, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 228/2023, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 21 DE OCTUBRE DE 2025, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2026)</small>
 
 ###### Artículo 77.
 
-Con el fin de asegurar las condiciones de seguridad sobre manejo y acceso a la información del Registro de Personas Infractoras, los responsables de inscribir, proporcionar y administrar la información deberán tener claves confidenciales a fin de que quede debida constancia de cualquier movimiento de asientos, consultas y otorgamiento de información.
+Con el fin de asegurar las condiciones de seguridad sobre manejo y acceso a la información del Registro Municipal de Infracciones, las personas servidoras públicas responsables de inscribir, proporcionar y administrar la información deberán tener claves confidenciales a fin de que quede debida constancia de cualquier movimiento de asientos, consultas y otorgamiento de información.
 
 ## TÍTULO SEXTO. DE LA PARTICIPACIÓN VECINAL
 
@@ -1301,7 +1317,7 @@ La o el policía que realice la remisión de una persona probable infractora, lo
 
 Asimismo, elaborará una boleta de remisión de la persona infractora ante el Juzgado Cívico, proporcionará una copia a la persona probable infractora e informará inmediatamente a su superior jerárquico de la detención. Debiendo dar cumplimiento a las obligaciones derivadas del Registro Nacional de Detenciones.
 
-Lo anterior con independencia de la información que debe plasmar en el Registro de Personas Infractoras en coordinación con el Juzgado Cívico.
+> <small>(DEROGADO TERCER PÁRRAFO, G.G. 28 DE ABRIL DE 2026)</small>
 
 ###### Artículo 107.
 
@@ -1427,9 +1443,11 @@ El convenio o acuerdo de reparación del daño podrá ser modificado a petición
 
 La o el Facilitador al tener conocimiento de que el convenio o acuerdo de reparación del daño ha sido cumplido en sus términos, dará por concluido el asunto.
 
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2026)</small>
+
 ###### Artículo 124.
 
-De los procedimientos que se desahoguen y resuelvan a través de mecanismos alternativos de solución de controversias a que se refiere la presente Ley, deberá quedar registro en los archivos del Juzgado Cívico y en el Registro de Personas Infractoras.
+De los procedimientos que se desahoguen y resuelvan a través de mecanismos alternativos de solución de controversias a que se refiere la presente Ley, deberá quedar registro en los archivos del Juzgado Cívico y en el Registro de (sic) Municipal de Infracciones.
 
 ###### Artículo 125.
 
@@ -1476,3 +1494,13 @@ Dado en el Palacio del Poder Legislativo, en la ciudad de Toluca de Lerdo, Capit
 Por tanto, mando se publique, circule, observe y se le dé el debido cumplimiento.
 
 Toluca de Lerdo, México, a 22 de noviembre de 2023.- LA GOBERNADORA CONSTITUCIONAL DEL ESTADO DE MÉXICO, MTRA. DELFINA GÓMEZ ÁLVAREZ.- RÚBRICA.- EL SECRETARIO GENERAL DE GOBIERNO, HORACIO DUARTE OLIVARES.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 28 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 311.- POR EL QUE SE REFORMA LA FRACCIÓN XXI DEL ARTÍCULO 4; LA FRACCIÓN VI DEL ARTÍCULO 19, EL PÁRRAFO TERCERO DEL ARTÍCULO 71, LA DENOMINACIÓN DEL TÍTULO QUINTO Y DE SU CAPÍTULO ÚNICO; EL ARTÍCULO 74; EL PÁRRAFO PRIMERO DEL ARTÍCULO 75, Y LOS ARTÍCULOS 76, 77 Y 124; Y SE DEROGA LA FRACCIÓN VIII DEL ARTÍCULO 62 Y EL PÁRRAFO TERCERO DEL ARTÍCULO 106 DE LA LEY DE JUSTICIA CÍVICA DEL ESTADO DE MÉXICO Y SUS MUNICIPIOS".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
