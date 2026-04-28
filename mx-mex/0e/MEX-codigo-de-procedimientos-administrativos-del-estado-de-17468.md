@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-administrativos-del-estado-de-17468"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-07"
-last_updated: "2023-06-22"
+last_updated: "2026-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17468&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE ABRIL DE 2026.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 7 de febrero de 1997.
 
@@ -1053,9 +1053,9 @@ XI. Al momento de practicar la primera visita de verificación y de encontrarse 
 
 Sello que deberá contener la siguiente leyenda:
 
-> <small>(REFORMADO, G.G. 5 DE ENERO DE 2021)</small>
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2026)</small>
 
-En términos del artículo 2.68 fracción XI del Código Administrativo del Estado de México, se exhorta al propietario y/o representante legal de este establecimiento para que dentro del término de tres días, comparezca en la oficina de la Jurisdicción de Regulación Sanitaria correspondiente al domicilio de la negociación, u oficina central de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México, según sea el caso, a fin de que acredite el cumplimiento de las disposiciones sanitarias consistentes en el Dictamen de Giro y en el aviso de funcionamiento, además del cumplimiento de la Ley General de Salud, la Ley General para el Control del Tabaco y su Reglamento, apercibido que de no dar cumplimiento a este requerimiento se hará uso de las medidas de seguridad previstas en los artículos 404 de la Ley General de Salud y 2.68 del Código Administrativo del Estado de México, así como las medidas de apremio y medidas disciplinarias previstas en el artículo 19 del Código de Procedimientos Administrativos del Estado de México; con la advertencia de que el retiro o destrucción de este aviso sin la orden de la autoridad competente, generará la aplicación de las medidas referidas;
+En términos de los artículos 247 y 248 de la Ley de Salud del Estado de México, se exhorta al propietario y/o representante legal de este establecimiento para que dentro del término de tres días, comparezca en la oficina de la Jurisdicción de Regulación Sanitaria correspondiente al domicilio de la negociación, u oficina central de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México, según sea el caso, a fin de que acredite el cumplimiento de las disposiciones sanitarias consistentes en el Dictamen de Giro y en el aviso de funcionamiento, además del cumplimiento de la Ley General de Salud, la Ley General para el Control del Tabaco y su Reglamento, apercibido que de no dar cumplimiento a este requerimiento se hará uso de las medidas de seguridad previstas en los artículos 404 de la Ley General de Salud y 247 de la Ley de Salud del Estado de México, así como las medidas de apremio y medidas disciplinarias previstas en el artículo 19 del Código de Procedimientos Administrativos del Estado de México; con la advertencia de que el retiro o destrucción de este aviso sin la orden de la autoridad competente, generará la aplicación de las medidas referidas;
 
 > <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
 
@@ -3160,3 +3160,19 @@ CUARTO. Los acuerdos suscritos o aprobados por el Consejo para Prevenir y Erradi
 Los asuntos, actos, procedimientos, programas o proyectos del Consejo para Prevenir y Erradicar la Violencia Familiar en el Estado de México, que se encuentren en trámite o curso serán atendidos por el Sistema para el Desarrollo Integral de la Familia del Estado de México, a través de la unidad administrativa que determine su titular, hasta su conclusión.
 
 QUINTO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+G.G. 28 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 309.- POR EL QUE SE EXPIDE LA LEY DE SALUD DEL ESTADO DE MÉXICO; SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 8.10 Y SE DEROGA EL LIBRO SEGUNDO DE LA SALUD DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO; SE REFORMA EL PÁRRAFO TERCERO DE LA FRACCIÓN XI DEL ARTÍCULO 128 DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO; SE REFORMAN LAS FRACCIONES I, II, VII, VIII Y IX DEL ARTÍCULO 31 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO; SE REFORMAN LOS ARTÍCULOS 13 Y 29 DE LA LEY DE EVENTOS PÚBLICOS DEL ESTADO DE MÉXICO; SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 52 DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO; SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 72 DE LA LEY DE TURISMO SOSTENIBLE Y DESARROLLO ARTESANAL DEL ESTADO DE MÉXICO; SE REFORMA LA FRACCIÓN XXV BIS DEL ARTÍCULO 31 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO; Y SE REFORMAN LOS INCISOS A) Y H) DE LA FRACCIÓN II DEL ARTÍCULO 9 DE LA LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO. EXPOSICIONES DE MOTIVOS".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. Este Decreto entrará en vigor el día hábil siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan las disposiciones legales de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+CUARTO. El Ejecutivo Estatal expedirá y actualizará las disposiciones reglamentarias necesarias para dar cumplimiento al presente Decreto en un plazo no mayor a ciento ochenta días hábiles, contados a partir de su entrada en vigor.
+
+QUINTO. Las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación al Libro Segundo del Código Administrativo del Estado de México se entenderán hechas a la Ley de Salud del Estado de México.
+
+SEXTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad de recursos y se cubrirán con cargo al presupuesto aprobado a las dependencias o entidades competentes para el ejercicio fiscal en curso y subsecuentes.
