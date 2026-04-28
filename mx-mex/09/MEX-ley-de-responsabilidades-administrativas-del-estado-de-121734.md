@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-responsabilidades-administrativas-del-estado-de-121734"
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-30"
-last_updated: "2026-03-06"
+last_updated: "2026-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA LA GACETA DEL GOBIERNO: 6 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA LA GACETA DEL GOBIERNO: 28 DE ABRIL DE 2026.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno, el martes 30 de mayo de 2017.
 
@@ -2209,21 +2209,49 @@ Si la resolución que se dicte en el juicio político es condenatoria, se sancio
 
 El juicio político sólo podrá iniciarse durante el tiempo en que el servidor público desempeñe su empleo, cargo o comisión y dentro de un año después de la conclusión de sus funciones. Las sanciones respectivas se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento.
 
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2026)</small>
+
 ###### Artículo 218.
 
-Corresponde a la Legislatura del Estado iniciar el juicio político, constituyendo al efecto una sección instructora integrada por un mínimo de tres diputados para sustanciar el procedimiento consignado en el presente capítulo y en los términos de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de México, la que estará formada por un mínimo de tres Diputados.
+Corresponde a la Legislatura del Estado iniciar el juicio político, constituyendo al efecto una sección instructora, integrada por lo menos por tres diputados designados en los términos que señale la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de México
 
-Las vacantes que ocurran en la sección serán cubiertas por designación que haga la Legislatura del Estado de entre sus miembros o la Diputación Permanente, en su caso.
+En caso de admitirse a trámite la denuncia, la Comisión de Examen Previo lo hará del conocimiento del Presidente de la Legislatura o de la Diputación Permanente, a efecto de que convoque a la brevedad posible a las y los Diputados integrantes de la Legislatura a una sesión de carácter reservado para constituir la Sección Instructora.
+
+Constituida la Sección Instructora, la Comisión de Examen Previo le turnará directamente el asunto con el expediente que al efecto se haya integrado.
+
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2026)</small>
 
 ###### Artículo 219.
 
-Cualquier ciudadano bajo su más estricta responsabilidad y a través de la presentación de elementos de prueba, podrá formular por escrito denuncia ante la Legislatura por las conductas a que se refiere el artículo 215 de esta Ley presentada la denuncia y ratificada dentro de tres días naturales, se turnará con la documentación que la acompañe a la sección instructora, para que dictamine si la conducta atribuida corresponde a las enumeradas por el precepto citado y si el inculpado está comprendido entre los servidores públicos a que se refiere el artículo 213, de la presente Ley, así como si la denuncia es procedente y por lo tanto amerita la incoación del procedimiento.
+Cualquier ciudadano bajo su más estricta responsabilidad y a través de la presentación de elementos de prueba, podrá formular por escrito denuncia ante la Legislatura por las conductas a que se refiere el artículo 215 de esta Ley.
+
+Presentada la denuncia y ratificada dentro de tres días naturales, se turnará con la documentación que la acompañe a la Comisión de Examen Previo, para que determine si la denuncia es procedente y por lo tanto amerita la incoación del procedimiento, o si debe negarse su admisión o desecharse de plano.
+
+La Comisión de Examen Previo verificará si las denuncias colman los presupuestos procesales indispensables o si su improcedencia es manifiesta e indudable, de modo tal que no sea justificable darle trámite y, por tanto, deba ser desechada de plano.
+
+I. La Comisión de Examen Previo negará la admisión de la denuncia cuando:
+
+a) La denuncia no sea ratificada dentro de los tres días naturales siguientes a su presentación.
+
+b) Cuando no sea suficientemente clara.
+
+II. La Comisión de Examen Previo desechará de plano las denuncias por considerarlas notoriamente improcedentes cuando:
+
+a) La conducta atribuida no corresponda a las nominadas en el artículo 215 de esta Ley.
+
+b) La persona inculpada no sea sujeto de juicio político conforme al artículo 213, de la presente Ley.
+
+c) No se cuente con elementos de prueba suficientes para incoar el procedimiento.
+
+También se entenderá que una denuncia es manifiesta e indudablemente improcedente cuando los motivos de improcedencia sean notorios, claros y evidentes, de tal forma que no puedan desvirtuarse aun cuando se diera trámite a la petición y se allegaran pruebas.
+
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2026)</small>
 
 ###### Artículo 220.
 
-Acreditados los extremos a que se refiere el artículo anterior la sección instructora practicará todas las diligencias necesarias para la comprobación de la conducta o hecho material de la denuncia, estableciendo las características y circunstancias del caso y precisando la intervención que haya tenido el servidor público denunciado.
+Una vez remitida la documentación correspondiente a la Sección Instructora, dentro de los cinco días naturales siguientes, estudiara el expediente turnado y verificará que en efecto se cumplan los requisitos y elementos de ley para continuar la sustanciación y en caso de no existir discrepancia, notificará por vía de emplazamiento a la persona servidora pública de que se trate sobre la materia de la denuncia, haciéndole saber su derecho a un proceso justo, a la garantía de defensa y que deberá a su elección, comparecer personalmente o a través de su defensor o informar por escrito, dentro de los siete días naturales siguientes a la notificación citada.
 
-Dentro de los tres días naturales siguientes a la ratificación de la denuncia, la Sección notificará por vía de emplazamiento al servidor público de que se trate sobre la materia de la denuncia, haciéndole saber su derecho a un proceso justo, a la garantía de defensa y que deberá a su elección, comparecer personalmente o a través de su defensor o informar por escrito, dentro de los siete días naturales siguientes a la notificación citada.
+La sección instructora practicará todas las diligencias necesarias para la comprobación de la conducta o hecho material de la denuncia, estableciendo las características y circunstancias del caso y precisando la intervención que haya tenido el servidor público denunciado.
 
 ###### Artículo 221.
 
@@ -2293,13 +2321,15 @@ En caso contrario, la resolución decretará la destitución del cargo y el peri
 
 ### CAPÍTULO TERCERO. DE LA DECLARACIÓN DE PROCEDENCIA POR RESPONSABILIDAD PENAL
 
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2026)</small>
+
 ###### Artículo 230.
 
-Cuando se presente denuncia o querella por cualquier ciudadano o requerimiento del Ministerio Público, cumplidos los requisitos procedimentales para la vinculación a proceso, y fundamente un procedimiento en contra de los servidores públicos a que se refiere la Constitución Local, se actuará, en lo pertinente, de acuerdo con lo previsto en el capítulo anterior de esta Ley, en materia de juicio político ante la Legislatura. En este caso, la Sección Instructora practicará todas las diligencias conducentes a establecer la probable existencia de delito y la presunta responsabilidad del inculpado, así como la subsistencia de la protección Constitucional o fuero cuya remoción se solicita. Concluida esta averiguación, la Sección dictaminará si ha lugar o no a proceder penalmente en contra del inculpado.
+Cuando se presente denuncia o querella por cualquier ciudadano o requerimiento del Ministerio Público, cumplidos los requisitos procedimentales para la vinculación a proceso, y fundamente un procedimiento en contra de los servidores públicos a que se refiere la Constitución Local, se actuará, en lo pertinente, de acuerdo con lo previsto en el capítulo anterior de esta Ley, en materia de juicio político ante la Legislatura. En este caso, una vez que la Comisión de Examen Previo haya admitido la denuncia, querella o requerimiento del Ministerio Público, se haya comunicado al Pleno e Instalado la Sección Instructora, esta última practicará todas las diligencias conducentes a establecer la probable existencia de delito y la presunta responsabilidad del inculpado, así como la subsistencia de la protección Constitucional o fuero cuya remoción se solicita. Concluida esta averiguación, la Sección dictaminará si ha lugar o no a proceder penalmente en contra del inculpado.
 
-Si a juicio de la Sección Instructora la imputación fuese notoriamente improcedente, lo notificará de inmediato a la Legislatura para que resuelva si se continúa el procedimiento o desecha la imputación, sin perjuicio de reanudar el procedimiento si posteriormente aparecen motivos que los justifiquen.
+Si a juicio de la Comisión de Examen Previo la imputación fuese notoriamente improcedente, se hará del conocimiento del Pleno de la Asamblea, sin perjuicio de reanudar el procedimiento si posteriormente aparecen motivos que lo justifiquen.
 
-Para los efectos del primer párrafo de este artículo, la Sección deberá rendir su dictamen en un plazo de sesenta días naturales, salvo que fuese necesario disponer de más tiempo, a criterio de la propia Sección. En este caso se observarán las normas acerca de ampliación de plazos para la recepción de pruebas en el procedimiento referente al juicio político.
+Para los efectos del primer párrafo de este artículo, una vez admitida la denuncia, querella o requerimiento del Ministerio Público, la Sección deberá rendir su dictamen en un plazo de sesenta días naturales, salvo que fuese necesario disponer de más tiempo, a criterio de la propia Sección. En este caso se observarán las normas acerca de ampliación de plazos para la recepción de pruebas en el procedimiento referente al juicio político.
 
 ###### Artículo 231.
 
@@ -2327,9 +2357,11 @@ Cuando se siga el proceso penal a un servidor público de los mencionados en la 
 
 Las declaraciones y resoluciones definitivas dictadas conforme a estos capítulos por la Legislatura son inatacables por juicio o recurso alguno.
 
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2026)</small>
+
 ###### Artículo 237.
 
-La Legislatura enviará por riguroso turno a la Sección Instructora, las denuncias, querellas, requerimientos del Ministerio Público o acusaciones que se le presenten.
+Las denuncias, querellas, requerimientos del Ministerio Público o acusaciones que se le presenten, serán remitidas directamente y sin dilación a la Comisión de Examen Previo, a efecto de que esta provea lo conducente.
 
 ###### Artículo 238.
 
@@ -2351,7 +2383,9 @@ Tanto el inculpado como el denunciante o querellante podrán solicitar de las of
 
 Las autoridades estarán obligadas a expedir dichas copias certificadas sin demora y si no lo hicieren la Sección, o la Legislatura a instancia del interesado, señalará a la autoridad omisa un plazo razonable para que las expida, bajo apercibimiento de imponerle una multa de diez a cien veces de la Unidad de Medida y Actualización vigente, sanción que se hará efectiva si la autoridad no las expidiere. Si resultase falso que el interesado hubiera solicitado las constancias, la multa se hará efectiva en su contra.
 
-Por su parte, la Sección solicitará las copias certificadas de constancias que estime necesarias para el procedimiento y si la autoridad de quienes la solicitasen no las remite dentro del plazo discrecional, que se le señale, se le impondrá la multa, señalada en el párrafo previo.
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2026)</small>
+
+Por su parte, la Comisión de Examen Previo y la Sección podrán solicitar las copias certificadas de constancias que estimen necesarias para el examen previo y el desarrollo del procedimiento y si la autoridad de quienes la solicitasen no las remite dentro del plazo discrecional, que se le señalen, se le impondrá la multa, señalada en el párrafo previo.
 
 ###### Artículo 241.
 
@@ -2383,9 +2417,11 @@ Cuando en el curso del procedimiento incoado a un servidor público de los menci
 
 Si la acumulación fuese procedente, la Sección formulará en un solo documento sus conclusiones, que comprenderán el resultado de los diversos procedimientos.
 
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2026)</small>
+
 ###### Artículo 247.
 
-La Sección podrá disponer las medidas de apercibimiento que fueren procedentes por acuerdo de la mayoría de sus miembros presentes en la Sección respectiva.
+La Comisión de Examen Previo, así como la Sección Instructora, podrán disponer las medidas de apercibimiento que fueren procedentes por acuerdo de sus integrantes.
 
 ###### Artículo 248.
 
@@ -2588,3 +2624,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las autoridades estatales y municipales deberán adecuar sus reglamentos, lineamientos y disposiciones administrativas en un plazo no mayor a 60 días naturales, contados a partir de la entrada en vigor del presente Decreto, de conformidad con lo previsto en el mismo.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.G. 28 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 303.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 218, 219, 220, 230, 237, 240 TERCER PÁRRAFO Y 247 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO DE MÉXICO Y MUNICIPIOS".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
