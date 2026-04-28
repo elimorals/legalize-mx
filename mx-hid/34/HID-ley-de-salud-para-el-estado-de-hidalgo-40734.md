@@ -4,7 +4,7 @@ identifier: "HID-ley-de-salud-para-el-estado-de-hidalgo-40734"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-30"
-last_updated: "2025-12-26"
+last_updated: "2026-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40734&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 LEY DE SALUD PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de agosto de 2004.
 
@@ -203,9 +203,9 @@ XXVIII Bis.- Los cuidados paliativos a las personas enfermas en situación termi
 
 XXIX.- El fomento de la metodología de 5 pasos por tu salud en cada familia como una herramienta útil en la adquisición de hábitos saludables;
 
-> <small>(REFORMADA, P.O. 25 DE JUNIO DE 2018)</small>
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2026)</small>
 
-XXX.- Establecer y promover acciones encaminadas a la prevención, tratamiento y fortalecimiento de programas de detección oportuna de cáncer; y
+XXX.- Establecer, promover e implementar acciones encaminadas a la prevención, detección oportuna y tratamiento del cáncer, priorizando los de mayor incidencia en la entidad, según el grupo de edad; y
 
 > <small>(ADICIONADA, P.O. 25 DE JUNIO DE 2018)</small>
 
@@ -2928,5 +2928,11 @@ P.O. 22 DE AGOSTO DE 2025.
 P.O. 26 DE DICIEMBRE DE 2025.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 363 – LXVI POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO Y A LA LEY DE SALUD PARA EL ESTADO DE HIDALGO, EN MATERIA DE RECTORÍA DEL SISTEMA ESTATAL DE SALUD”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 618 – LXVI POR EL QUE SE REFORMA LA FRACCIÓN XXX DEL APARTADO A DEL ARTÍCULO 3 DE LA LEY DE SALUD PARA EL ESTADO DE HIDALGO, EN MATERIA DE PREVENCIÓN DEL CÁNCER”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
