@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-regula-los-centros-de-asistencia-social-y-las-109572"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-20"
-last_updated: "2025-02-21"
+last_updated: "2026-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109572&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE ABRIL DE 2026.
 
 Ley publicada en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el jueves 20 de agosto de 2015.
 
@@ -269,7 +269,9 @@ h) Las demás que le otorgue la presente Ley y demás disposiciones jurídicas a
 
 II. A la Secretaría de Salud y al Instituto de Salud del Estado de México, a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México, en el ámbito de su competencia:
 
-a) Otorgar a los Centros de Asistencia Social la autorización sanitaria, en términos de lo establecido en el Código Administrativo del Estado de México y demás normatividad aplicable.
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2026)</small>
+
+a) Otorgar a los Centros de Asistencia Social la autorización sanitaria, en términos de lo establecido en la Ley del (sic) Salud del Estado de México y demás normatividad aplicable.
 
 b) Revocar la autorización sanitaria, en caso de incumplimiento de las normas de salud a que estén obligados los Centros de Asistencia Social.
 
@@ -283,7 +285,9 @@ f) Proporcionar servicios de salud gratuitos a las niñas, niños y adolescentes
 
 g) Elaborar programas de nutrición y difundir información para recomendar hábitos alimenticios correctos al interior de los Centros de Asistencia Social.
 
-h) Realizar las visitas de verificación correspondientes conforme a lo establecido en la presente, el Código Administrativo del Estado de México y demás disposiciones jurídicas en la materia, así como aplicar las sanciones correspondientes.
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2026)</small>
+
+h) Realizar las visitas de verificación correspondientes conforme a lo establecido en la presente, la Ley de Salud del Estado de México y demás disposiciones jurídicas en la materia, así como aplicar las sanciones correspondientes.
 
 i) Las demás que le otorgue la presente Ley y demás disposiciones jurídicas aplicables.
 
@@ -1880,3 +1884,19 @@ Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vi
 Los actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en el organismo público descentralizado denominado Comisión para la Protección contra Riesgos Sanitarios del Estado de México COPRISEM serán atendidos hasta su conclusión por el Instituto de Salud del Estado de México, a través de su unidad administrativa Comisión para la Protección contra Riesgos Sanitarios del Estado de México.
 
 OCTAVO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria y financiera; y deberán cubrirse con cargo al presupuesto aprobado al ente público competente para el ejercicio fiscal en curso y subsecuentes.
+
+G.G. 28 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 309.- POR EL QUE SE EXPIDE LA LEY DE SALUD DEL ESTADO DE MÉXICO; SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 8.10 Y SE DEROGA EL LIBRO SEGUNDO DE LA SALUD DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO; SE REFORMA EL PÁRRAFO TERCERO DE LA FRACCIÓN XI DEL ARTÍCULO 128 DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO; SE REFORMAN LAS FRACCIONES I, II, VII, VIII Y IX DEL ARTÍCULO 31 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO; SE REFORMAN LOS ARTÍCULOS 13 Y 29 DE LA LEY DE EVENTOS PÚBLICOS DEL ESTADO DE MÉXICO; SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 52 DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO; SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 72 DE LA LEY DE TURISMO SOSTENIBLE Y DESARROLLO ARTESANAL DEL ESTADO DE MÉXICO; SE REFORMA LA FRACCIÓN XXV BIS DEL ARTÍCULO 31 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO; Y SE REFORMAN LOS INCISOS A) Y H) DE LA FRACCIÓN II DEL ARTÍCULO 9 DE LA LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. Este Decreto entrará en vigor el día hábil siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan las disposiciones legales de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+CUARTO. El Ejecutivo Estatal expedirá y actualizará las disposiciones reglamentarias necesarias para dar cumplimiento al presente Decreto en un plazo no mayor a ciento ochenta días hábiles, contados a partir de su entrada en vigor.
+
+QUINTO. Las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación al Libro Segundo del Código Administrativo del Estado de México se entenderán hechas a la Ley de Salud del Estado de México.
+
+SEXTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad de recursos y se cubrirán con cargo al presupuesto aprobado a las dependencias o entidades competentes para el ejercicio fiscal en curso y subsecuentes.
