@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-conducta-de-las-personas-servidoras-publicas-de-16853
 country: "mx"
 rank: "codigo"
 publication_date: "2023-11-15"
-last_updated: "2023-11-15"
+last_updated: "2026-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=168532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # CODIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PUBLICAS DE LA SECRETARIA DE SALUD DEL ESTADO DE TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE SALUD DEL ESTADO DE TABASCO, PUBLICADO EN EL P.O. DE 18 DE ABRIL DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE SALUD DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE ABRIL DE 2026 (ABROGADO).
 
 Código publicado en el Suplemento N a la Edición 8472 del Periódico Oficial del Estado de Tabasco, el miércoles 15 de noviembre de 2023.
 
@@ -688,3 +690,13 @@ Dado en la Ciudad de Villahermosa, Capital del Estado de Tabasco, a los once dí
 DRA. SILVIA GUILLERMINA ROLDÁN FERNÁNDEZ
 
 SECRETARÍA DE SALUD DEL ESTADO DE TABASCO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DE LA SECRETARÍA DE SALUD DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente Código de Conducta de las Personas Servidoras Públicas de la Secretaría de Salud del Estado de Tabasco, entrará en vigor a partir del día hábil siguiente a su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se abroga el Código de Conducta de las Personas Servidoras Públicas de la Secretaría de Salud, publicado en el Suplemento N, del Periódico Oficial del Estado de Tabasco, Edición 8472, de fecha 15 de noviembre de 2023.
