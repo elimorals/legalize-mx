@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2026-03-27"
+last_updated: "2026-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE ABRIL DE 2026.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -807,9 +807,9 @@ XXII. Dotar de servicios públicos a los habitantes del municipio;
 
 XXIII. Preservar, conservar y restaurar el medio ambiente; así como generar las acciones necesarias a fin de crear, rescatar, restaurar y vigilar las áreas verdes que permitan mejorar la calidad de vida y convivencia social de los habitantes del municipio, establecidos como espacios públicos de conservación ambiental; asimismo, elaborar y ejecutar su programa anual de reforestación, forestación, restauración de suelos y conservación de bienes y servicios ambientales dentro de su territorio, de conformidad con las disposiciones jurídicas aplicables.
 
-> <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2026)</small>
 
-Además, podrán fomentar una mayor asignación presupuestal para mantenimiento de parques, jardines e infraestructura municipal procurando que éste sea destinado a la generación de empleos para los adultos mayores en trabajos de conservación y mantenimiento.
+Además, podrán promover la asignación de mayores recursos presupuestales para el mantenimiento y conservación de parques, jardines, camellones, áreas públicas e infraestructura municipal, incluyendo proyectos de forestación y reforestación urbana, procurando que éstos sean destinados a la generación de empleos para los grupos vulnerables en trabajos de conservación y mantenimiento de las áreas verdes.
 
 > <small>(ADICIONADO, G.G. 5 DE SEPTIEMBRE DE 2019)</small>
 
@@ -863,9 +863,9 @@ XXIV Sexties. Aprobar y publicar el programa especial para otorgar la licencia o
 
 XXV. Coadyuvar con la Secretaría del Medio Ambiente y Desarrollo Sostenible a la creación y desarrollo del mercado de derechos de uso del medio ambiente.
 
-> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 28 DE ABRIL DE 2026)</small>
 
-XXV Bis. Participar en la prevención y atención a las adicciones, en términos de lo dispuesto en la Sección Cuarta del Capítulo Quinto del Título Tercero del Libro Segundo del Código Administrativo del Estado de México.
+XXV Bis. Participar en la prevención y atención a la salud mental y adicciones, en términos de lo dispuesto en la Ley de Salud del Estado de México.
 
 > <small>(ADICIONADO, G.G. 24 DE AGOSTO DE 2012)</small>
 
@@ -5808,3 +5808,31 @@ G.G. 27 DE MARZO DE 2026.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 28 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 301.- POR EL QUE SE REFORMA EL SEGUNDO PÁRRAFO DE LA FRACCIÓN XXIII DEL ARTÍCULO 31 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+###### ARTÍCULO SEGUNDO.
+
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 28 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 309.- POR EL QUE SE EXPIDE LA LEY DE SALUD DEL ESTADO DE MÉXICO; SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 8.10 Y SE DEROGA EL LIBRO SEGUNDO DE LA SALUD DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO; SE REFORMA EL PÁRRAFO TERCERO DE LA FRACCIÓN XI DEL ARTÍCULO 128 DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO; SE REFORMAN LAS FRACCIONES I, II, VII, VIII Y IX DEL ARTÍCULO 31 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO; SE REFORMAN LOS ARTÍCULOS 13 Y 29 DE LA LEY DE EVENTOS PÚBLICOS DEL ESTADO DE MÉXICO; SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 52 DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO; SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 72 DE LA LEY DE TURISMO SOSTENIBLE Y DESARROLLO ARTESANAL DEL ESTADO DE MÉXICO; SE REFORMA LA FRACCIÓN XXV BIS DEL ARTÍCULO 31 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO; Y SE REFORMAN LOS INCISOS A) Y H) DE LA FRACCIÓN II DEL ARTÍCULO 9 DE LA LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. Este Decreto entrará en vigor el día hábil siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan las disposiciones legales de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+CUARTO. El Ejecutivo Estatal expedirá y actualizará las disposiciones reglamentarias necesarias para dar cumplimiento al presente Decreto en un plazo no mayor a ciento ochenta días hábiles, contados a partir de su entrada en vigor.
+
+QUINTO. Las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación al Libro Segundo del Código Administrativo del Estado de México se entenderán hechas a la Ley de Salud del Estado de México.
+
+SEXTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad de recursos y se cubrirán con cargo al presupuesto aprobado a las dependencias o entidades competentes para el ejercicio fiscal en curso y subsecuentes.
