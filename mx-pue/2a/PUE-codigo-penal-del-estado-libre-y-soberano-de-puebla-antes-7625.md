@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2026-03-15"
+last_updated: "2026-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2026.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -641,7 +641,9 @@ Serán aplicables a la obligación de reparar el daño y los perjuicios causados
 
 I.- Tendrá carácter de preferente con respecto a la multa y a cualquier otra obligación asumida con posterioridad al delito, excepto las de carácter alimentario o laboral, salvo que se demuestre que éstas fueron contraídas para evadir el cumplimiento de aquéllas, y
 
-II.- Si el ofendido o la persona que tuviere derecho al pago de la reparación del daño, renunciare al cobro de la misma, cuyo monto haya sido acreditado dentro del proceso y se haya determinado en sentencia, el Estado se subrogará legalmente, a través de la Procuraduría General de Justicia, en los derechos de aquélla y destinará el importe devengado al Fondo que se constituya de acuerdo con la Ley para la Protección a Víctimas de Delitos.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2026)</small>
+
+II.- Si el ofendido o la persona que tuviere derecho al pago de la reparación del daño, renunciare al cobro de la misma, cuyo monto haya sido acreditado dentro del proceso y se haya determinado en sentencia, el Estado se subrogará legalmente, a través de la Fiscalía General del Estado de Puebla, en los derechos de aquélla y destinará el importe devengado al Fondo que se constituya de acuerdo con la Ley de Víctimas del Estado de Puebla.
 
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
 
@@ -791,7 +793,9 @@ Los frutos o rendimientos de los bienes durante el tiempo del aseguramiento, se 
 
 La moneda nacional o extranjera que se asegure, embargue o decomise, será remitida a la autoridad competente, para su correspondiente depósito en la cuenta aperturada para este fin en institución bancaria debidamente autorizada.
 
-En caso de billetes o piezas metálicas que por tener marcas, señas u otras características, sea necesario conservar para fines de la averiguación previa o el proceso penal, la autoridad judicial o el Ministerio Público así lo indicará a la Dirección General Administrativa de la Procuraduría General de Justicia del Estado, para que éste los guarde y conserve en el estado en que los reciba. En estos casos, los depósitos no devengarán intereses.
+> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2026)</small>
+
+En caso de billetes o piezas metálicas que, por tener marcas, señas u otras características, sea necesario conservar para fines de la averiguación previa o el proceso penal, la autoridad judicial o el Ministerio Público así lo indicará a la Dirección General Administrativa de la Fiscalía General del Estado de Puebla, para que éste los guarde y conserve en el estado en que los reciba. En estos casos, los depósitos no devengarán intereses.
 
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
 
@@ -1789,7 +1793,9 @@ I.- Abolir, suspender o reformar la Constitución Política del Estado, y las le
 
 II.- Impedir la elección o la integración de alguno de los Poderes del Estado o de las Autoridades Municipales;
 
-III.- Separar de su cargo, obligar a renunciar o privar de la libertad con que debe ejercer sus funciones, al Gobernador del Estado, Magistrados del Tribunal Superior de Justicia, integrantes del Congreso Local o Procurador General de Justicia;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2026)</small>
+
+III.- Separar de su cargo, obligar a renunciar o privar de la libertad con que debe ejercer sus funciones, al Gobernador del Estado, Magistrados del Tribunal Superior de Justicia, integrantes del Congreso Local o Fiscal General del Estado de Puebla.
 
 IV.- Substraer de la obediencia del Gobierno del Estado:
 
@@ -2206,6 +2212,28 @@ Se aplicará prisión de veinte a cincuenta años al que empleando explosivos o 
 ###### Artículo 192.
 
 Si en el vehículo a que se refiere el Artículo anterior no se hallara persona alguna, se aplicará prisión de ocho a treinta años.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2026)</small>
+
+###### Artículo 192 Bis.
+
+Se impondrá una pena de dos a seis años de prisión, y multa de cien a quinientas Unidades de Medida y Actualización, así como el decomiso de los objetos utilizados, a quien coloque o arroje en vías de comunicación objetos punzocortantes, estrellas metálicas, abrojos, erizos, varillas o cualquier artefacto similar elaborado con materiales de acero o de cualquier otro, con la finalidad de obstaculizar ilícitamente el tránsito vehicular o se utilice para ponchar llantas o dañar cualquier vehículo.
+
+La misma pena se aplicará a quien ilícitamente posea, fabrique, distribuya, comercialice o facilite la obtención de estos objetos con el propósito de ser utilizados para obstaculizar el tránsito vehicular o causar daño a terceros.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2026)</small>
+
+###### Artículo 192 Ter.
+
+Las penas señaladas en el artículo anterior se aumentarán hasta en una mitad de su mínima y máxima, cuando se cometan en alguna de las formas siguiente (sic):
+
+I. De noche.
+
+II. Cuando sirva como medio de ejecución de otro ilícito.
+
+III. Cuando se cometa en contra de vehículos oficiales, de emergencia o destinados al transporte público.
+
+IV. Cuando se cometa en autopista o que, por las características del camino o vialidad, la víctima no pueda recibir apoyo oportuno.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2021)</small>
 
@@ -3433,53 +3461,91 @@ Si el falsario hiciere uso de los documentos u objetos falsos que se detallan en
 
 #### SECCIÓN PRIMERA.- ABUSO SEXUAL
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2026)</small>
 
 ###### Artículo 260.
 
-Comete el delito de abuso sexual quien, sin el propósito de llegar a la cópula:
+Comete el delito de abuso sexual quien sin el consentimiento de la víctima y sin el propósito de llegar a la cópula, realice en el ámbito público o privado, cualquier acto de naturaleza sexual, la obligue a observarlo, o la haga ejecutarlo sobre sí, para un tercero o para el propio sujeto activo.
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2026)</small>
 
-I. Ejecutare en una persona mayor de catorce años de edad o le hiciere ejecutar un acto erótico sexual, sin su consentimiento, mediante consentimiento viciado o la obligue a observarlo, y
+También se considera abuso sexual cuando se obligue a la víctima a exhibir su cuerpo. Se entiende por acto sexual los tocamientos, caricias, roces corporales, exhibiciones o representaciones sexuales explícitas. Para los efectos del presente artículo no se considera consentimiento cuando la voluntad de la persona haya sido anulada o viciada por violencia, intimidación, engaño, amenaza, abuso de confianza, autoridad o situación de vulnerabilidad. El consentimiento no podrá presumirse del silencio, la pasividad o la falta de resistencia física de la víctima.
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2026)</small>
 
-II. Ejecutare en una persona o le hiciere ejecutar un acto erótico sexual, o la haga observarlo aun con consentimiento viciado, tratándose de menor de catorce años de edad o en otra circunstancia de desigualdad o sumisión de la víctima respecto al victimario que le impida oponer resistencia.
+A quien cometa este delito se le impondrá una sanción de seis a diez años de prisión y multa de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización. Asimismo, se impondrá la obligación de acudir a talleres reeducativos con perspectiva de género y no violencia contra las mujeres y/o prestar servicio social en favor del Estado o de instituciones de beneficencia pública a fin de favorecer medidas de no repetición y promover un cambio cultural a favor de la igualdad sustantiva entre mujeres y hombres. El cumplimiento de esta obligación es de especial relevancia para la procedencia y continuidad de la suspensión condicional.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2026)</small>
+
+El delito de abuso sexual se considerará siempre como delito consumado y se perseguirá de oficio.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE ABRIL DE 2026)</small>
 
 ###### Artículo 261.
 
-Al responsable de un delito de abuso sexual se le impondrán:
+Las penas previstas en los artículos 260 y 262 de este Código se aumentarán en una tercera parte cuando el delito se cometa en cualquiera de las siguientes circunstancias:
 
-(NOTA: EL 29 DE ENERO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 180/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 9 DE NOVIEMBRE DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+l. Con violencia física, psicológica o moral;
 
-I. Prisión de seis a diez años Y MULTA DE DOSCIENTAS UNIDADES DE MEDIDA Y ACTUALIZACIÓN, si el sujeto pasivo es mayor de catorce años y el delito se cometió sin su consentimiento o con su consentimiento viciado;
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2026)</small>
 
-(NOTA: EL 29 DE ENERO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 180/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 9 DE NOVIEMBRE DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+II. Por dos o más personas;
 
-> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2023)</small>
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2026)</small>
 
-II. Si el sujeto pasivo del delito fuere persona menor de catorce años o se encontrare en otra circunstancia de desigualdad o sumisión de la víctima respecto al victimario que le impida oponer resistencia, estuviere privada de razón o de sentido, no tuviere la capacidad de comprender el significado del hecho o que por enfermedad o cualquier otra causa no pudiere oponer resistencia, o por sumisión de la víctima respecto del victimario por haberle suministrado alcohol, fármacos, narcóticos, sustancia toxica o cualquier otra sustancia y no pudiera oponer resistencia, se presumirá la violencia y la sanción será de seis a trece años de prisión Y MULTA DE QUINIENTAS UNIDADES DE MEDIDA Y ACTUALIZACIÓN, se haya ejecutado el delito sin su consentimiento o con consentimiento viciado, debiéndose aumentar hasta en otro tanto igual las sanciones, si el delito fuere cometido con intervención de dos o más personas, y
+III. En un lugar despoblado, solitario o poco accesible;
 
-(NOTA: EL 29 DE ENERO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 180/2021, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 9 DE NOVIEMBRE DE 2021, FECHA EN LA QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2021)</small>
+IV. Cuando exista o haya existido entre la persona agresora y la víctima una relación de confianza, sentimental, de parentesco por consanguinidad o afinidad, laboral, educativa, docente, de formación deportiva, artística o religiosa;
 
-III. Cuando el sujeto pasivo sea mayor de catorce años y el delito se ejecute con violencia física o moral, se impondrán al responsable de seis a trece años de prisión Y MULTA (SIC) QUINIENTAS UNIDADES DE MEDIDA Y ACTUALIZACIÓN, sanciones que se aumentarán hasta en otro tanto igual, si el delito fuere cometido con intervención de dos o más personas.
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2026)</small>
+
+V. Cuando se realice por persona que tenga a la víctima bajo su responsabilidad la custodia, guarda, tutela, cuidado o dependencia económica;
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2026)</small>
+
+VI. Cuando se realice por persona servidora pública aprovechando su empleo, cargo o comisión. En este caso, además de la pena de prisión, la persona agresora será destituida del cargo, empleo o comisión e inhabilitada para el ejercicio de servicio público por un plazo igual al de la pena privativa de la libertad sin perjuicio de otras sanciones administrativas o civiles que correspondan;
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2026)</small>
+
+VII. Cuando se realice por profesionista aprovechando su empleo, cargo o comisión. En este caso, además de la pena de prisión, la persona agresora será inhabilitada para el ejercicio de la profesión por un plazo igual al de la pena privativa de la libertad sin perjuicio de otras sanciones administrativas o civiles;
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2026)</small>
+
+VIII. Cuando se realice por ministra o ministro de culto aprovechando su cargo, función o comisión;
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2026)</small>
+
+IX. Cuando la víctima se encuentre bajo los efectos de alcohol, fármacos, narcóticos u otras sustancias que afecten su voluntad o discernimiento;
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2026)</small>
+
+X. Cuando la víctima se encuentre en estado de embarazo o puerperio;
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2026)</small>
+
+XI. Cuando se cometa contra personas por su orientación sexual, identidad de género, expresión de género, y
+
+> <small>(ADICIONADA, P.O. 28 DE ABRIL DE 2026)</small>
+
+XII. Cuando la víctima se encuentre en estado de indefensión.
+
+> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2026)</small>
+
+Adicional a las sanciones anteriormente señaladas, se impondrá al sujeto activo cumplimiento de la reparación integral del daño, que deberá incluir, entre otras medidas establecidas en la Ley General de Víctimas y en la Ley de Victimas del Estado de Puebla, la atención psicológica especializada para la víctima, hasta su total recuperación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE ABRIL DE 2026)</small>
 
 ###### Artículo 262.
 
-(DEROGADO, P.O. 1 DE JULIO DE 1994)
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2016)</small>
+A quien cometa el delito de abuso sexual en una niña, niño, adolescente o en persona que no tenga la capacidad de comprender el significado del hecho, aun con su consentimiento, o que por cualquier causa no pueda resistirlo o la obligue a ejecutarlo en sí o en otra persona, se le impondrá una pena de seis a trece años de prisión y hasta quinientos días multa.
 
 ###### Artículo 263.
 
-El delito de abuso sexual se considerará siempre como delito consumado y se perseguirá a petición de parte, salvo que el sujeto pasivo sea menor de edad o estuviere en alguno de los supuestos previstos en la fracción II del artículo 261, en cuyo caso se perseguirá de oficio.
+(DEROGADO, P.O. 28 DE ABRIL DE 2026)
 
 #### SECCION SEGUNDA.- ESTUPRO
 
@@ -8022,3 +8088,19 @@ P.O. 15 DE MARZO DE 2026.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE TUVO A BIEN APROBAR LA MINUTA DE DECRETO POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 51 TER, EL SEGUNDO PÁRRAFO DEL ARTÍCULO 56 SEPTIES, LA FRACCIÓN III DEL ARTÍCULO 147, EL PRIMER PÁRRAFO DEL ARTÍCULO 260, EL ARTÍCULO 261, EL ARTÍCULO 262, SE ADICIONAN TRES PÁRRAFOS AL ARTÍCULO 260, LAS FRACCIONES IV, V, VI, VII, VIII, IX, X, XI, XII Y UN PÁRRAFO AL ARTÍCULO 261, Y SE DEROGA EL ARTÍCULO 263, TODOS DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 28 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA LOS ARTÍCULOS 192 BIS Y 192 TER AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
