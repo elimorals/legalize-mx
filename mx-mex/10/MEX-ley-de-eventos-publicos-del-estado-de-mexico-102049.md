@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-eventos-publicos-del-estado-de-mexico-102049"
 country: "mx"
 rank: "ley"
 publication_date: "2014-08-18"
-last_updated: "2025-02-21"
+last_updated: "2026-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE EVENTOS PÚBLICOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE FEBRERO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE ABRIL DE 2026.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el lunes 18 de agosto de 2014.
 
@@ -289,9 +289,11 @@ En el interior de los lugares donde se celebren eventos públicos podrán presta
 
 Para la venta de alimentos en instalaciones semifijas no se permitirá en ningún caso la preparación de alimentos con gas. Asimismo, solo se expenderán bebidas alcohólicas fermentadas y en recipientes de plástico desechables.
 
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2026)</small>
+
 ###### Artículo 13.
 
-De acuerdo con las características de cada evento público, será la autoridad quien determine el horario en que podrán expenderse las bebidas alcohólicas, el cual en ningún caso rebasará las 01:00 horas del día siguiente a aquel en el que se lleve a cabo el evento, lo que se hará constar en la autorización respectiva. Además de lo anterior, los titulares deberán cumplir con las disposiciones establecidas en el Libro Segundo del Código Administrativo del Estado de México que le sean aplicables de acuerdo al tipo de evento público de que se trate.
+De acuerdo con las características de cada evento público, será la autoridad quien determine el horario en que podrán expenderse las bebidas alcohólicas, el cual en ningún caso rebasará las 01:00 horas del día siguiente a aquel en el que se lleve a cabo el evento, lo que se hará constar en la autorización respectiva. Además de lo anterior, los titulares deberán cumplir con las disposiciones establecidas en la Ley de Salud del Estado de México que le sean aplicables de acuerdo al tipo de evento público de que se trate.
 
 #### SECCIÓN TERCERA. REQUISITOS
 
@@ -463,11 +465,11 @@ La inscripción en el Registro municipal de bienes inmuebles tendrá vigencia de
 
 Corresponde a las autoridades de esta Ley, en el ámbito de sus respectivas competencias, ejercer las funciones de vigilancia y supervisión para verificar el cumplimiento de la Ley y sus disposiciones reglamentarias, a través de visitas de verificación, mismas que se realizarán de conformidad con lo establecido por el Código de Procedimientos Administrativos del Estado de México.
 
-> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2026)</small>
 
 ###### Artículo 29.
 
-La contravención a las disposiciones de la Ley dará lugar a la imposición de las medidas de seguridad previstas en los Libros Segundo y Sexto del Código Administrativo del Estado de México.
+La contravención a las disposiciones de la Ley dará lugar a la imposición de las medidas de seguridad previstas en la Ley de Salud del Estado de México y el Libro Sexto del Código Administrativo del Estado de México.
 
 ### CAPÍTULO II. MEDIDAS DE SEGURIDAD
 
@@ -782,3 +784,19 @@ Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vi
 Los actos, procedimientos, programas o proyectos que se encuentren en trámite o curso en el organismo público descentralizado denominado Comisión para la Protección contra Riesgos Sanitarios del Estado de México COPRISEM serán atendidos hasta su conclusión por el Instituto de Salud del Estado de México, a través de su unidad administrativa Comisión para la Protección contra Riesgos Sanitarios del Estado de México.
 
 OCTAVO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria y financiera; y deberán cubrirse con cargo al presupuesto aprobado al ente público competente para el ejercicio fiscal en curso y subsecuentes.
+
+G.G. 28 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 309.- POR EL QUE SE EXPIDE LA LEY DE SALUD DEL ESTADO DE MÉXICO; SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 8.10 Y SE DEROGA EL LIBRO SEGUNDO DE LA SALUD DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO; SE REFORMA EL PÁRRAFO TERCERO DE LA FRACCIÓN XI DEL ARTÍCULO 128 DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO; SE REFORMAN LAS FRACCIONES I, II, VII, VIII Y IX DEL ARTÍCULO 31 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO; SE REFORMAN LOS ARTÍCULOS 13 Y 29 DE LA LEY DE EVENTOS PÚBLICOS DEL ESTADO DE MÉXICO; SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 52 DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO; SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 72 DE LA LEY DE TURISMO SOSTENIBLE Y DESARROLLO ARTESANAL DEL ESTADO DE MÉXICO; SE REFORMA LA FRACCIÓN XXV BIS DEL ARTÍCULO 31 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO; Y SE REFORMAN LOS INCISOS A) Y H) DE LA FRACCIÓN II DEL ARTÍCULO 9 DE LA LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. Este Decreto entrará en vigor el día hábil siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan las disposiciones legales de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+CUARTO. El Ejecutivo Estatal expedirá y actualizará las disposiciones reglamentarias necesarias para dar cumplimiento al presente Decreto en un plazo no mayor a ciento ochenta días hábiles, contados a partir de su entrada en vigor.
+
+QUINTO. Las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación al Libro Segundo del Código Administrativo del Estado de México se entenderán hechas a la Ley de Salud del Estado de México.
+
+SEXTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad de recursos y se cubrirán con cargo al presupuesto aprobado a las dependencias o entidades competentes para el ejercicio fiscal en curso y subsecuentes.
