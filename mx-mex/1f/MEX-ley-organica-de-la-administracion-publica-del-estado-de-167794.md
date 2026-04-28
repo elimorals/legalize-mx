@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-167794"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2023-09-11"
-last_updated: "2026-02-04"
+last_updated: "2026-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=167794&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 4 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE ABRIL DE 2026.
 
 Ley publicada en la Sección Segunda del Número 46 de la Gaceta de Gobierno del Estado de México, el lunes 11 de septiembre de 2023.
 
@@ -503,9 +503,13 @@ La Secretaría de Salud es la dependencia encargada de conducir la política est
 
 La Secretaría de Salud contará con las siguientes atribuciones:
 
-I. Ejercer las atribuciones que en materia de salud le correspondan al Poder Ejecutivo, de acuerdo con la Ley General de Salud, el Libro Segundo del Código Administrativo del Estado de México, sus reglamentos y demás disposiciones aplicables;
+> <small>(REFORMADA, G.G. 28 DE ABRIL DE 2026)</small>
 
-II. Conducir la política estatal en materia de salud, en los términos del Libro Segundo del Código Administrativo del Estado de México y demás disposiciones aplicables, de conformidad con el Sistema Nacional de Salud;
+I. Ejercer las atribuciones que en materia de salud le correspondan al Poder Ejecutivo, de acuerdo con la Ley General de Salud, la Ley de Salud del Estado de México, sus reglamentos y demás disposiciones aplicables;
+
+> <small>(REFORMADA, G.G. 28 DE ABRIL DE 2026)</small>
+
+II. Conducir la política estatal en materia de salud, en los términos de la Ley de Salud del Estado de México y demás disposiciones aplicables, de conformidad con el Sistema Nacional de Salud;
 
 III. Elaborar en coordinación con las autoridades competentes y los diversos actores del sector salud tanto federales, estatales como privados, los programas de salud y presentarlos a la aprobación de la persona titular del Poder Ejecutivo del Estado;
 
@@ -515,11 +519,17 @@ V. Planear, organizar, dirigir, coordinar y evaluar el Sistema Estatal de Salud,
 
 VI. Coordinar la prestación de servicios de atención médica, salud pública, medicina preventiva y regulación sanitaria en el Estado; y convenir en lo conducente, con cualquier otro sector que promueva acciones en estas materias, tanto de nivel federal, estatal y del sector privado que actúan y participan en el sistema de salud estatal;
 
-VII. Planear, operar, controlar y evaluar el Sistema Estatal de Donación de Órganos Humanos para trasplante;
+> <small>(REFORMADA, G.G. 28 DE ABRIL DE 2026)</small>
 
-VIII. Planear, operar, controlar y evaluar el Sistema de Información de Salud del Estado de México, participando todas las dependencias y organismos auxiliares que proporcionen servicios de salud, así como el Instituto Mexicano del Seguro Social y el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
+VII. Planear, operar, controlar y evaluar el Sistema Estatal de Donación y Trasplante de Órganos y Tejidos;
 
-IX. Impulsar la descentralización y desconcentración de los servicios de salud a los municipios, mediante los convenios que al efecto se suscriban, en términos del Libro Segundo del Código Administrativo del Estado de México y demás disposiciones legales en la materia;
+> <small>(REFORMADA, G.G. 28 DE ABRIL DE 2026)</small>
+
+VIII. Planear, operar, controlar y evaluar el Sistema de Información en Salud del Estado de México, con la participación de todas las dependencias y organismos auxiliares que proporcionen servicios de salud, así como, los prestadores de servicios de salud públicos, sociales y privados, en el ámbito de su competencia;
+
+> <small>(REFORMADA, G.G. 28 DE ABRIL DE 2026)</small>
+
+IX. Impulsar la descentralización y desconcentración de los servicios de salud a los municipios, mediante los convenios que al efecto se suscriban, en términos de la Ley de Salud del Estado de México y demás disposiciones legales en la materia;
 
 X. Proponer a la persona titular del Poder Ejecutivo del Estado, para su aprobación, acuerdos de coordinación con las instituciones del sector salud, tendientes a promover y apoyar los programas de medicina preventiva;
 
@@ -2044,3 +2054,19 @@ SEXTO. Los asuntos que se encuentren en trámite a la entrada en vigor del prese
 SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
 
 OCTAVO. Se abrogan el Reglamento de los Cuerpos de Seguridad Pública del Estado de México, publicada el 09 de junio de 1987 en el Periódico Oficial "Gaceta del Gobierno", el Reglamento de Escalafón del Personal Operativo de la Dirección General de Seguridad Pública y Tránsito del Estado de México, publicado el 09 de julio de 1987 en el Periódico Oficial "Gaceta del Gobierno"; el Reglamento de Homologación de Cromática de los Vehículos de los Cuerpos de Seguridad Pública Preventiva Estatal y Municipal y Uniformes de sus Miembros, publicado en el Periódico Oficial "Gaceta del Gobierno" el 30 de enero de 2007 y las demás disposiciones de igual o menor jerarquía, en lo que se opongan al presente Decreto.
+
+G.G. 28 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 309.- POR EL QUE SE EXPIDE LA LEY DE SALUD DEL ESTADO DE MÉXICO; SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 8.10 Y SE DEROGA EL LIBRO SEGUNDO DE LA SALUD DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO; SE REFORMA EL PÁRRAFO TERCERO DE LA FRACCIÓN XI DEL ARTÍCULO 128 DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO; SE REFORMAN LAS FRACCIONES I, II, VII, VIII Y IX DEL ARTÍCULO 31 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO; SE REFORMAN LOS ARTÍCULOS 13 Y 29 DE LA LEY DE EVENTOS PÚBLICOS DEL ESTADO DE MÉXICO; SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 52 DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO; SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 72 DE LA LEY DE TURISMO SOSTENIBLE Y DESARROLLO ARTESANAL DEL ESTADO DE MÉXICO; SE REFORMA LA FRACCIÓN XXV BIS DEL ARTÍCULO 31 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO; Y SE REFORMAN LOS INCISOS A) Y H) DE LA FRACCIÓN II DEL ARTÍCULO 9 DE LA LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO. EXPOSICIONES DE MOTIVOS".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. Este Decreto entrará en vigor el día hábil siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan las disposiciones legales de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+CUARTO. El Ejecutivo Estatal expedirá y actualizará las disposiciones reglamentarias necesarias para dar cumplimiento al presente Decreto en un plazo no mayor a ciento ochenta días hábiles, contados a partir de su entrada en vigor.
+
+QUINTO. Las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación al Libro Segundo del Código Administrativo del Estado de México se entenderán hechas a la Ley de Salud del Estado de México.
+
+SEXTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad de recursos y se cubrirán con cargo al presupuesto aprobado a las dependencias o entidades competentes para el ejercicio fiscal en curso y subsecuentes.
