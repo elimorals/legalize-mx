@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-poder-legislativo-del-estado-libre-y-6087"
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-15"
-last_updated: "2026-04-14"
+last_updated: "2026-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6087&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE ABRIL DE 2026.
 
 Reglamento publicado en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -830,6 +830,16 @@ b) Del seguimiento y análisis de las políticas públicas estatales para verifi
 c) De la supervisión e implementación de mecanismos para la medición y cumplimiento de los indicadores de desarrollo incluidos en el Plan;
 
 d) Los asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
+
+> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], G.G. 28 DE ABRIL DE 2026)</small>
+
+XLI. La Comisión de Seguimiento a los Casos de Amnistía, conocerá de los temas, siguientes:
+
+a) De las iniciativas de ley, decreto o acuerdo relacionadas con la Ley de Amnistía del Estado de México;
+
+b) De los asuntos que, en términos de la Ley de Amnistía del Estado de México, correspondan a la Legislatura;
+
+c) Los demás asuntos que se le asignen en la Legislatura, en la Diputación Permanente o en la Junta de Coordinación Política.
 
 > <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2024)</small>
 
@@ -3459,12 +3469,12 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 252 POR EL QUE SE REFORMAN LAS FRACCIONES II, III, IV Y VII Y SE ADICIONAN LAS FRACCIONES VIII, IX Y X AL ARTÍCULO 135 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE GUERRERO, NÚMERO 499, EN MATERIA DE FEMINICIDIO".]
+G.G. 28 DE ABRIL DE 2026.
 
-PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 299.- POR EL QUE SE REFORMA LA FRACCIÓN XL DEL ARTÍCULO 69; Y SE ADICIONA LA FRACCIÓN XLI AL ARTÍCULO 69 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO; Y SE ADICIONA LA FRACCIÓN XLI AL ARTÍCULO 13 A DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
 
-SEGUNDO.- Se derogan todas las disposiciones que sean contrarias al presente Decreto.
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
-TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero y en la página web del Honorable Congreso del Estado.
+SEGUNDO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
 
-P.O. 9 DE SEPTIEMBRE DE 2025.
+TERCERO. La Junta de Coordinación Política proveerá lo necesario para la integración e instalación de la Comisión de Seguimiento a los casos de Amnistía.
