@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2025-12-17"
+last_updated: "2026-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE ABRIL DE 2026.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -969,769 +969,229 @@ La Secretaría de la Contraloría podrá celebrar convenios que coadyuven al obj
 
 La Secretaría de la Contraloría vigilará que el sistema de consulta se encuentre en funcionamiento, para que la información proporcionada por las autoridades, pueda ser consultada en tiempo real.
 
+> <small>(DEROGADO CON LOS TÍTULOS, CAPÍTULOS, SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, G.G. 28 DE ABRIL DE 2026)</small>
+
 # LIBRO SEGUNDO. De la salud
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 28 DE ABRIL DE 2026)</small>
 
 ## TITULO PRIMERO. Disposiciones generales
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 28 DE ABRIL DE 2026)</small>
+
 ### CAPITULO PRIMERO. Del objeto y finalidad
 
-> <small>(REFORMADO, G.G. 10 DE JULIO DE 2015)</small>
+###### Artículo 2.
+
+1. (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-1. Este Libro tiene por objeto regular los servicios públicos de salud que presta el Estado y el ejercicio de regulación, control y fomento sanitarios en materia de salubridad local.
+2.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
-###### Artículo 2.
-
-2.- Las disposiciones de este Libro tienen como finalidad garantizar y proteger el derecho a la salud de la población.
-
-> <small>(REFORMADO, G.G. 30 DE SEPTIEMBRE DE 2025)</small>
-
-En atención al interés superior de las niñas, niños y adolescentes se garantizará el pleno acceso a la protección de la salud de niñas, niños y adolescentes de manera integral, sin discriminación y evitando la victimización secundaria de conformidad con la legislación aplicable. Las autoridades en materia de salud competentes deberán celebrar convenios para que las niñas, niños y adolescentes reciban la prestación de servicios de atención médica de calidad para disfrutar del nivel más alto posible de salud.
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 28 DE ABRIL DE 2026)</small>
 
 ### CAPITULO SEGUNDO. De las autoridades
 
-> <small>(REFORMADO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
-
 ###### Artículo 2.
 
-3.- Son autoridades en materia de salud la Secretaría de Salud, el Instituto de Salud del Estado de México y los municipios, en su caso. Es autoridad en materia de impacto sanitario la Comisión para la Protección contra Riesgos Sanitarios del Estado de México.
+3.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, G.G. 28 DE ABRIL DE 2026)</small>
 
 ### CAPITULO TERCERO. De la Secretaría de Salud
 
 ###### Artículo 2.
 
-4.- La Secretaría de Salud del Estado de México, ejercerá las atribuciones que en materia de salud le correspondan al titular del Ejecutivo Estatal de acuerdo a la Ley General de Salud, el presente Código, sus reglamentos y demás disposiciones legales aplicables.
+4.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
-Asimismo, en materia de salubridad general compete a la Secretaría de Salud, ejercer conforme a lo dispuesto en este Libro, las atribuciones correspondientes en materia de salubridad local.
-
-> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
-
-En el ejercicio de las atribuciones anteriores, cuando la Ley General de Salud haga referencia a las atribuciones competencia de la federación, delegadas a favor de autoridades sanitarias, se ejercerán por conducto del Instituto de Salud del Estado de México.
-
-> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
-
-El ejercicio de la regulación, control y fomento sanitarios, con funciones de autoridad en materia de salubridad local, las ejercerá la Secretaría de Salud por conducto del Instituto de Salud del Estado de México.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 28 DE ABRIL DE 2026)</small>
 
 ### CAPITULO CUARTO. Del Instituto de Salud del Estado de México
 
-> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
-
 ###### Artículo 2.
 
-5. El Instituto de Salud del Estado de México es un organismo público descentralizado, con personalidad jurídica y patrimonio propios y funciones de autoridad; que tiene por objeto la prestación de los servicios de salud en la Entidad, y el ejercicio del control y fomento sanitarios, estos últimos serán ejercidos a través de su unidad administrativa denominada Comisión para la Protección contra Riesgos Sanitarios del Estado de México.
+5. (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
 5. Bis.- (DEROGADO, G.G. 10 DE JULIO DE 2015)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+###### Artículo 2.
+
+6.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-6.- La dirección y administración del Instituto de Salud del Estado de México estará a cargo de un Consejo Interno y de una Dirección General.
+7.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 29 DE NOVIEMBRE DE 2017)</small>
-
-El Consejo Interno del Instituto de Salud del Estado de México estará integrado por:
-
-> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
-
-I. Una Presidencia, que estará a cargo de la persona Titular de la Secretaría de Salud.
-
-> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
-
-II. Una Secretaría, que estará a cargo de la persona designada por el Consejo Interno a propuesta de la Presidencia.
-
-> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
-
-III. Una Comisaría, que estará a cargo de la persona representante de la Secretaría de la Contraloría.
-
-> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
-
-IV. Ocho vocales que serán las personas representantes de las secretarías de Finanzas, del Trabajo, de Educación, Ciencia, Tecnología e Innovación, de Desarrollo Urbano e Infraestructura, del Campo, del Medio Ambiente y Desarrollo Sostenible, así como un representante de la Secretaría de Salud del Gobierno Federal y otro de los trabajadores designado por el Comité Ejecutivo Nacional del Sindicato Nacional de Trabajadores de la Secretaría de Salud.
-
-> <small>(REFORMADO, G.G. 29 DE NOVIEMBRE DE 2017)</small>
-
-Por cada uno de los integrantes, el Consejo Interno aprobará el nombramiento de un suplente quien será propuesto por el propietario.
-
-> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
-
-Las personas integrantes del Consejo Interno tendrán derecho a voz y voto en las sesiones que celebren, con excepción de la Secretaría y Comisaría quienes sólo tendrán derecho de voz.
-
-> <small>(REFORMADO, G.G. 29 DE NOVIEMBRE DE 2017)</small>
-
-El desempeño de los miembros del Consejo Interno será honorífico.
-
-> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
-
-La persona titular de la Dirección General será nombrada por la persona titular del Poder Ejecutivo del Estado y deberá ser preferentemente ciudadano mexiquense y con experiencia en materias de salud pública y administración de servicios de salud; médico cirujano; de reconocida calidad moral, buena conducta, y honorabilidad manifiesta.
-
-> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
-
-El nombramiento de titular de la Dirección General podrá recaer en la o el Titular de la Secretaría de Salud, sin que exista doble remuneración.
-
-> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
-
-La organización y funcionamiento del Instituto se regirá por el Reglamento Interno que apruebe el Consejo Interno y expida la persona titular del Poder Ejecutivo Estatal.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE MAYO DE 2013)</small>
-
-###### Artículo 2.
-
-7.- El patrimonio del Instituto de Salud del Estado de México, se integra con:
-
-I. Los bienes con los que actualmente cuenta;
-
-II. Las aportaciones que los gobiernos federal, estatal y municipales le otorguen;
-
-III. Los derechos que tenga sobre los bienes muebles e inmuebles que le transfieran;
-
-IV. Las aportaciones, donaciones, legados y demás análogas que reciba de los sectores social y privado;
-
-V. Las cuotas de recuperación que reciba por los servicios que preste;
-
-> <small>(REFORMADA, G.G. 9 DE MAYO DE 2013)</small>
-
-VI. En general, todos los bienes, derechos y obligaciones que entrañen utilidad económica o sean susceptibles de estimación pecuniaria y que se obtengan por cualquier título.
-
-VII. Las concesiones, permisos, licencias y autorizaciones que se le otorguen conforme a la Ley General de Salud y este Libro;
-
-VIII. En general, todos los bienes, derechos y obligaciones que entrañen utilidad económica o sean susceptibles de estimación pecuniaria y que se obtengan por cualquier título.
-
-Los ingresos del Instituto, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a las actividades señaladas en los programas aprobados por el consejo interno.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 28 DE ABRIL DE 2026)</small>
 
 ### CAPITULO QUINTO. Del Consejo de Salud del Estado de México
 
 ###### Artículo 2.
 
-8.- El Consejo de Salud del Estado de México es una instancia permanente de coordinación, consulta y apoyo para la planeación, programación y evaluación de los servicios de salud.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+8.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-9.- El Consejo se integra por la persona titular de la Secretaría de Salud, quien fungirá como presidente, las personas titulares de las Secretarías de Educación, Ciencia, Tecnología e Innovación y de Medio Ambiente y Desarrollo Sostenible, la persona titular de la Secretaría Técnica del Consejo Estatal de Población, las personas titulares de las direcciones generales del Instituto de Salud del Estado de México, del Instituto de Seguridad Social del Estado de México y Municipios, del Sistema para el Desarrollo Integral de la Familia del Estado de México, de la Facultad de Medicina de la Universidad Autónoma del Estado de México, de la Coordinación General de Protección Civil y Gestión Integral del Riesgo, así como con los delegados del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado y del Instituto Mexicano del Seguro Social y un representante de los municipios de la Entidad.
-
-> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
-
-A invitación de la persona titular de la Presidencia, tres personas representantes de los sectores social y privado.
-
-El Consejo contará con un secretario técnico nombrado por su presidente, así como con las comisiones y grupos de trabajo necesarios para el cumplimiento de su objeto, y operará en términos de su reglamento interno.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 1 DE DICIEMBRE DE 2023)</small>
+9.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-10.- El Consejo, a fin de garantizar el derecho a la salud de las y los ciudadanos del Estado, tendrá las funciones siguientes:
+10.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
-I. Contribuir a consolidar el sistema estatal de salud, apoyar a los comités municipales de salud y coordinar éstos con los sistemas nacional y estatal de salud;
-
-II. Coordinar los consejos y comités específicos de salud existentes en el Estado;
-
-III. Promover el proceso de descentralización de los servicios de salud para población abierta, a los municipios;
-
-IV. Proponer lineamientos para la coordinación de acciones de atención en materia de salubridad;
-
-V. Unificar criterios para el correcto cumplimiento de los programas de salud pública;
-
-VI. Llevar el seguimiento de las acciones derivadas del programa de descentralización;
-
-VII. Apoyar la evaluación de los programas estatal y municipales de salud;
-
-VIII. Fomentar la cooperación técnica y logística de los servicios de salud;
-
-IX. Inducir y promover la participación social para coadyuvar en el proceso de descentralización de los servicios de salud;
-
-X. Estudiar y proponer esquemas de financiamiento complementario para la atención de la salud pública;
-
-XI. Promover la investigación en materia de salud en el Estado;
-
-XII. Las demás que sean necesarias para el cumplimiento de su objeto.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 28 DE ABRIL DE 2026)</small>
 
 ### CAPITULO SEXTO. Del Sistema de Información y del Registro Estatales de Salud
 
 ###### Artículo 2.
 
-11.- La Secretaría de Salud organizará y coordinará el sistema estatal de información de salud, con el objeto de obtener, generar y procesar la información de la entidad en materia de salud.
-
-Las dependencias y organismos de la administración pública estatal y municipal, así como las personas físicas y morales relacionadas con las actividades de salubridad general y local, deberán proporcionar a la Secretaría de Salud los informes que para tal efecto les requiera dicha dependencia.
+11.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-12.- La Secretaría de Salud establecerá el Registro Estatal de Salud, en el que inscribirá de manera sistematizada la información que obtenga a través del sistema a que se refiere el artículo anterior.
+12.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
-> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
-
-El registro será público y deberá estar disponible en la página de Internet de la Secretaría de Salud. El registro no tendrá efectos constitutivos ni surtirá efectos contra terceros.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 28 DE ABRIL DE 2026)</small>
 
 ## TITULO SEGUNDO. De los Institutos Especializados en Materia de Salud del Estado de México
 
 ###### Artículo 2.
 
-13.- Los Institutos Especializados de Salud son organismos públicos descentralizados, con personalidad jurídica y patrimonio propios, que tienen por objeto la investigación, enseñanza y prestación de servicios de alta especialidad.
-
-> <small>[N. DE E. SE REFORMA EL SEGUNDO PÁRRAFO PARA QUEDAR COMO APARTADO A.]</small>
-
-> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2005)</small>
-
-A. Serán Institutos Especializados de Salud del Estado de México, cada uno de los siguientes:
-
-I. El Instituto Materno Infantil del Estado de México;
-
-II. (DEROGADA, G.G. 22 DE DICIEMBRE DE 2005)
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 8 DE AGOSTO DE 2007)</small>
-
-III. Hospital Regional de Alta Especialidad de Zumpango; y
-
-IV. Los demás que el Ejecutivo del Estado considere necesarios.
-
-> <small>[N. DE E. SE REFORMA EL TERCER PÁRRAFO PARA QUEDAR COMO APARTADO B.]</small>
-
-> <small>(REFORMADO, G.G. 22 DE DICIEMBRE DE 2005)</small>
-
-B. Los Institutos para el cumplimiento de su objeto, tiene las atribuciones siguientes:
-
-I. Promover y desarrollar investigaciones científicas y tecnológicas en las áreas biomédicas, clínicas, sociomédicas y epidemiológicas;
-
-II. Realizar estudios e investigaciones clínicas, epidemiológicas, experimentales, de desarrollo tecnológico y básicas, en las áreas biomédicas y sociomédicas, para la comprensión, prevención, diagnóstico y tratamiento de las enfermedades y rehabilitación de los afectados, así como promover medidas de salud;
-
-III. Publicar los resultados de las investigaciones y trabajos que realice, así como difundir información técnica y científica sobre los avances que en materia de salud registre;
-
-IV. Promover y realizar reuniones de intercambio científico, de carácter nacional e internacional, y celebrar convenios de coordinación, intercambio y cooperación con instituciones afines;
-
-V. Formular y ejecutar programas de estudio y cursos de capacitación, enseñanza, especialización y actualización de personal profesional, técnico y auxiliar, en sus áreas de especialización y afines, así como evaluar y reconocer el aprendizaje;
-
-VI. Otorgar constancias, diplomas, reconocimientos y certificados de estudios, grados y títulos, en su caso, de conformidad con las disposiciones aplicables;
-
-VII. Prestar servicios de salud en aspectos preventivos, curativos y de rehabilitación en sus áreas de especialización;
-
-VIII. Proporcionar consulta externa, atención hospitalaria y servicios de urgencias a la población que requiera atención médica en sus áreas de especialización, hasta el límite de su capacidad instalada;
-
-IX. Asesorar y formular opiniones a la Secretaría cuando sean requeridos para ello;
-
-X. Asesorar y opinar en asuntos relacionados con el área de su especialización, cuando le sea solicitado por instituciones públicas de salud en el territorio del Estado;
-
-XI. Promover acciones para la prevención de la salud, y en lo relativo a padecimientos propios de sus especialidades;
-
-XII. Regular los procedimientos de selección e ingresos de los interesados en estudios de postgrado y establecer las normas para su permanencia en el Instituto de acuerdo a las disposiciones aplicables;
-
-XIII. Estimular al personal directivo, docente, médico y de apoyo para su superación permanente, favoreciendo la formación profesional;
-
-XIV. Fortalecer el tercer nivel de atención en las áreas de su especialización;
-
-XV. Contribuir en el abatimiento de los índices de morbilidad y mortalidad en sus áreas de especialización;
-
-XVI. Actuar como órgano de consulta técnica y normativa en su materia, de las dependencias y organismos auxiliares del Gobierno del Estado de México;
-
-XVII. Prestar consultoría a título oneroso a personas de derecho privado;
-
-XVIII. Coadyuvar con la Secretaría de Salud en la actualización de las estadísticas sobre la situación sanitaria de la entidad, respecto a la materia de su especialización;
-
-XIX. Realizar las demás actividades que les correspondan para el cumplimiento de su objeto conforme al presente ordenamiento y otras disposiciones aplicables.
+13.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-14.- La dirección y administración de cada uno de los Institutos estará a cargo de un consejo interno y un director general.
-
-El consejo interno de cada Instituto, se integrará en los términos previstos en la Ley para la Coordinación y Control de Organismos Auxiliares y Fideicomisos del Estado de México y Municipios.
-
-El director general de los Institutos será nombrado por el Gobernador del Estado, a propuesta del presidente del consejo interno respectivo.
-
-La organización y funcionamiento de los Institutos se regirá por los reglamentos que expidan sus consejos internos.
+14.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-15.- El patrimonio de los Institutos se integrará con:
+15.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
-I. Los ingresos que obtengan por los servicios que presten en el ejercicio de sus atribuciones;
-
-II. Las aportaciones, participaciones, subsidios y apoyos que les otorguen los gobiernos federal, estatal y municipal;
-
-III. Los legados, herencias, donaciones y demás bienes otorgados en su favor, y los productos de los fideicomisos en los que se les designe como fideicomisario;
-
-IV. Los bienes muebles e inmuebles que adquieran por cualquier título legal para el cumplimiento de su objeto;
-
-V. Las utilidades, intereses, dividendos, rendimientos de sus bienes, derechos y demás ingresos que adquieran por cualquier título legal.
-
-Los ingresos de los Institutos, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a las actividades señaladas en los programas aprobados por sus consejos internos.
+> <small>(DEROGADO CON LOS CAPÍTULOS, SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, G.G. 28 DE ABRIL DE 2026)</small>
 
 ## TITULO TERCERO. De la salubridad general
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 28 DE ABRIL DE 2026)</small>
 
 ### CAPITULO PRIMERO. Disposiciones generales
 
 ###### Artículo 2.
 
-16.- Los servicios de salud que presta el Estado en materia de salubridad general son:
-
-I. Atención médica, preferentemente en beneficio de grupos vulnerables;
-
-> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
-
-II. Atención materno-infantil y la promoción de la lactancia materna.
-
-> <small>(REFORMADA, G.G. 1 DE DICIEMBRE DE 2023)</small>
-
-III. Planificación familiar que incluya orientación sobre salud sexual y reproductiva, donde se incluya la gestión menstrual;
-
-> <small>(REFORMADA, G.G. 18 DE JULIO DE 2014)</small>
-
-IV. Salud mental y prevención del suicidio;
-
-V. Organización, coordinación y vigilancia del ejercicio de las actividades profesionales, técnicas y auxiliares para la salud;
-
-VI. Promoción de la formación de recursos humanos para la salud;
-
-VII. Coordinación de la investigación para la salud y el control de ésta en seres humanos;
-
-VIII. Información relativa a las condiciones, recursos y servicios de salud;
-
-IX. Educación para la salud;
-
-> <small>(REFORMADA, G.G. 1 DE DICIEMBRE DE 2023)</small>
-
-X. Asistencia social, promoción, orientación en materia de nutrición, higiene, gestión menstrual, sobrepeso, obesidad y trastornos alimentarios;
-
-> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
-
-XI. Prevención y control de los efectos nocivos de los factores ambientales en la salud de las personas.
-
-XII. Salud ocupacional y saneamiento básico;
-
-XIII. Prevención y control de enfermedades transmisibles, no transmisibles y de accidentes;
-
-> <small>(REFORMADA, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
-
-XIV. Prevención de la discapacidad y la rehabilitación de las personas con discapacidad;
-
-> <small>(REFORMADA, G.G. 15 DE JUNIO DE 2016)</small>
-
-XV. Asistencia social e instalación de unidades de hemodiálisis en los hospitales regionales pertenecientes al ISEM y capacitación al familiar o a quien acompañe al paciente.
-
-> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
-
-XVI. Programas para prevenir y erradicar las adicciones con una visión de perspectiva de género, dando prioridad a niñas, niños y adolescentes, de acuerdo con su edad, desarrollo evolutivo, cognoscitivo y madurez. Para la puesta en marcha de estos programas, se hará en coordinación con la Secretaría de Educación, Ciencia, Tecnología e Innovación del Gobierno del Estado;
-
-> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
-
-XVII. Atención médica gratuita a niñas, niños y adolescentes.
-
-> <small>(REFORMADA, G.G. 23 DE NOVIEMBRE DE 2016)</small>
-
-XVIII. Atención médica a las personas que padezcan obesidad mórbida a través de su tratamiento, terapia psicológica, intervención quirúrgica y rehabilitación.
-
-> <small>(ADICIONADA, G.G. 23 DE JULIO DE 2020)</small>
-
-XIX. Atención médica a las personas que padezcan diabetes, así como brindar de manera permanente el tratamiento requerido de conformidad con las disposiciones jurídicas aplicables.
-
-> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2025)</small>
-
-XIX Bis. Atención médica a las personas que padezcan enfermedades de transmisión sexual y personas con VIH;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 21 DE JUNIO DE 2022)</small>
-
-XX. Detección, prevención, tratamiento y seguimiento del cáncer de mama y en su caso la mastectomía y mamoplastia reconstructiva, incluidas prótesis de calidad, atención médica y psicológica integral durante todo el proceso, y
-
-> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2025)</small>
-
-XX Bis. Detección y tratamiento de enfermedades de transmisión sexual y personas con VIH;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE DICIEMBRE DE 2023)</small>
-
-XXI. Promover programas de orientación y atención en materia de gestión menstrual, mediante los cuales se prevenga la discriminación, la desigualdad y violencia contra las niñas, adolescentes, mujeres y personas menstruantes;
-
-> <small>(ADICIONADA, G.G. 1 DE DICIEMBRE DE 2023)</small>
-
-XXII. Suministrar productos de gestión menstrual para niñas, adolescentes, mujeres y personas menstruantes, en zonas de alta marginación de acuerdo con la suficiencia presupuestal disponible;
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 1 DE DICIEMBRE DE 2023)</small>
-
-XXIII. Los demás que se establezcan en la Ley General de Salud y otras disposiciones aplicables.
+16.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-17.- El Estado de México está obligado a prestar los servicios de salud en el marco del federalismo y concurrencia establecidos en la Constitución Política de los Estados Unidos Mexicanos y la Ley General de Salud.
-
-> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
+17.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-18. La Secretaría de Salud tendrá a su cargo la regulación de los servicios de salud a que se refiere este Título, el Instituto de Salud se encargará de la operación de los mismos, así como de ejercer la regulación, control y fomento sanitarios competencia del Estado en materia de salubridad general, a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México.
+18. (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-19.- Los derechos y obligaciones de los usuarios de los servicios de salud y la participación de la comunidad en los mismos se regirá por lo previsto en la Ley General de Salud.
-
-> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
+19.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-19 Bis. En cumplimiento a los ordenamientos legales reglamentarios y administrativos a la Secretaría de Salud, por conducto del Instituto de Salud del Estado de México a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México le corresponde vigilar y operar la regulación, control y fomento sanitarios de las actividades de salud, que realizan los establecimientos que brindan servicios de control de peso o en beneficio de la salud, estética, bajo tratamientos terapéuticos quiroprácticos, medicinales, herbolarios u otros métodos.
+19 Bis. (DEROGADO, G.G. 28 DE ABRIL DE 2026)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 28 DE ABRIL DE 2026)</small>
 
 ### CAPITULO SEGUNDO. Del Sistema Estatal de Salud
 
 ###### Artículo 2.
 
-20.- El sistema estatal de salud está constituido por las dependencias y organismos auxiliares de la administración pública estatal, y las personas físicas y morales de los sectores social y privado que presten servicios de salud en la Entidad.
-
-Los colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud participarán en el sistema estatal de salud como instancias éticas del ejercicio de las profesiones y promotoras de la superación permanente de sus miembros, así como consultoras de las autoridades de salud.
+20.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-21.- El sistema estatal de salud tiene los objetivos siguientes:
-
-I. Proporcionar servicios de salud a toda la población del Estado y mejorar la calidad de los mismos, atendiendo a los requerimientos sanitarios prioritarios y a los factores que condicionen y causen daños a la salud, con especial interés en las acciones preventivas;
-
-II. Contribuir al adecuado desarrollo demográfico;
-
-> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
-
-III. Colaborar al bienestar social de la población mediante la prestación de servicios de salud principalmente a niñas, niños, adolescentes, adultos mayores, indígenas y personas con discapacidad en situación de vulnerabilidad, favoreciendo su extensión cuantitativa y cualitativa, para fomentar y propiciar su incorporación a una vida activa en lo económico y social. El Estado garantizará la atención domiciliaria a los adultos mayores sin capacidad de trasladarse, personas en situación de discapacidad, mujeres embarazadas sin control prenatal, y a los enfermos con cuidados paliativos, así como el uso de unidades móviles para otorgar atención médica de primer nivel, de acuerdo con la suficiencia presupuestal existente.
-
-IV. Dar impulso al desarrollo de la familia y de la comunidad, así como a la integración social y al crecimiento físico y mental de la niñez;
-
-V. Apoyar el mejoramiento de las condiciones sanitarias del ambiente que propicien el desarrollo satisfactorio de la vida;
-
-VI. Impulsar un sistema racional de administración y desarrollo de los recursos humanos para mejorar la salud;
-
-VII. Coadyuvar a la modificación de los patrones culturales que determinen hábitos, costumbres y actitudes relacionados con la salud, y con el uso de los servicios que se presten para su protección;
-
-VIII. Promover un sistema de fomento sanitario que contribuya al desarrollo de actividades y servicios que no sean nocivos para la salud.
-
-> <small>(REFORMADA, G.G. 6 DE AGOSTO DE 2015)</small>
-
-IX. Promover la prevención y el tratamiento de problemas causados por las adicciones y, en su caso, la rehabilitación, así como la educación e información sobre sus efectos en la salud y en las relaciones sociales, dirigida preferentemente a niñas, niños y adolescentes y el fomento a actividades cívicas, deportivas y culturales que coadyuven en la lucha contra las adicciones.
-
-> <small>(ADICIONADA, G.G. 6 DE JUNIO DE 2016)</small>
-
-X. Brindar de manera eficiente y humanitaria atención y asistencia de calidad a los migrantes, especialmente aquellos que enfrentan situaciones de vulnerabilidad, independientemente de su situación migratoria o nacionalidad.
-
-> <small>(ADICIONADA, G.G. 23 DE NOVIEMBRE DE 2016)</small>
-
-XI. Diseñar e implementar políticas públicas que promuevan la prevención, el tratamiento y el combate del sobrepeso, la obesidad y los trastornos alimentarios.
-
-> <small>(ADICIONADA, G.G. 1 DE DICIEMBRE DE 2023)</small>
-
-XII. Diseñar e implementar políticas públicas que atiendan la salud, el bienestar, el ejercicio de la sexualidad y los proyectos individuales de vida, trabajo y convivencia de niñas, adolescentes, mujeres y personas menstruantes, mediante las cuales se les respeten todos sus derechos humanos y no sufran discriminación, desigualdad ni violencia.
-
-> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2025)</small>
-
-XII Bis. Garantizar el acceso universal y gratuito para la prevención y tratamiento de enfermedades, para la población no derechohabiente de la Entidad, con énfasis en los grupos de atención prioritaria;
-
-> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2025)</small>
-
-XII Ter. Promover los derechos sexuales y de salud reproductiva entre la población, así como las obligaciones del personal de salud;
-
-> <small>(ADICIONADA, G.G. 17 DE DICIEMBRE DE 2025)</small>
-
-XII Quater. Impulsar campañas permanentes de seguimiento continuo en favor de la no discriminación;
-
-> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2025)</small>
-
-XIII. Brindar atención prioritaria a niñas, niños y adolescentes víctimas de cualquier tipo de violencia. Las instituciones de salud deberán adoptar de forma urgente las medidas necesarias para la protección de su salud y darán aviso a la Procuraduría de Protección y al Ministerio Público de manera inmediata, para que se tomen las medidas urgentes y especiales para garantizar la protección, salvaguarda de la vida, de la integridad y seguridad de niñas, niños y adolescentes, en el ámbito de su competencia.
-
-El sistema estatal de salud podrá auxiliarse de los organismos nacionales e internacionales que estime necesarios para el cumplimiento de sus objetivos.
+21.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-22.- La coordinación del sistema estatal de salud estará a cargo de la Secretaría de Salud, quien tendrá las atribuciones siguientes:
+22.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
-I. Coordinar los programas de servicios de salud de las dependencias y organismos auxiliares de la administración pública estatal;
-
-II. Apoyar la coordinación de los programas y servicios de salud de toda dependencia o entidad pública federal, en los términos de la legislación aplicable y de los acuerdos de coordinación que en su caso se celebren;
-
-III. Impulsar, en los términos de los convenios que al efecto se suscriban, la desconcentración y descentralización a los municipios de los servicios de salud;
-
-IV. Determinar la periodicidad y características de la información que deberán proporcionar las dependencias y organismos auxiliares de salud;
-
-V. Coordinar el proceso de programación de las actividades de salud;
-
-VI. Formular recomendaciones a las dependencias y organismos auxiliares competentes sobre la asignación de los recursos que requieran los programas de salud;
-
-VII. Impulsar las actividades científicas y tecnológicas en el campo de la salud;
-
-VIII. Coadyuvar con las dependencias federales competentes en lo relativo a la transferencia de tecnología en el área de salud;
-
-IX. Apoyar la coordinación entre las instituciones de salud y educativas del Estado, para formar y capacitar recursos humanos para la salud y el otorgamiento de campos clínicos;
-
-X. Coadyuvar a que la formación y distribución de los recursos humanos para la salud sea congruente con las prioridades del sistema estatal de salud;
-
-XI. Impulsar la participación de los usuarios de servicios de salud, en el sistema estatal de salud;
-
-XII. Fomentar la coordinación con los proveedores de insumos para la salud para racionalizar y procurar su disponibilidad;
-
-XIII. Promover e impulsar la participación de la comunidad en el cuidado de su salud;
-
-XIV. Impulsar la permanente actualización de las disposiciones legales en materia de salud;
-
-> <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
-
-XV. Coordinar la elaboración de programas de prevención, atención y erradicación de la violencia de género; difundir entre los usuarios del sistema estatal de salud el conocimiento de sus derechos y los mecanismos para su exigibilidad en la materia e impulsar acciones que aseguren la igualdad de acceso de mujeres y hombres a la salud;
-
-> <small>(ADICIONADA, G.G. 6 DE MARZO DE 2010)</small>
-
-XVI. Promover y fomentar investigaciones con perspectiva de género en materia de salud, así como para prevenir, atender y erradicar la violencia contra las mujeres estableciendo mecanismos para la atención de las víctimas;
-
-> <small>(ADICIONADA, G.G. 10 DE DICIEMBRE DE 2019)</small>
-
-XVI Bis. Desarrollar programas que fomenten la atención integral de la mujer durante el embarazo, el parto, el puerperio o en emergencia obstétrica, así como, coordinar la implementación de políticas públicas transversales, y la elaboración de programas de promoción, orientación y prevención, encaminados a erradicar la violencia obstétrica.
-
-> <small>(ADICIONADA, G.G. 24 DE AGOSTO DE 2012)</small>
-
-XVII. Implementar los mecanismos e instrumentos necesarios que permitan a la población indígena el acceso efectivo a los servicios de salud que establece el presente Libro;
-
-> <small>(REFORMADA, G.G. 23 DE NOVIEMBRE DE 2016)</small>
-
-XVIII. Coordinar programas con la finalidad de promover la prevención, tratamiento, combate al sobrepeso, obesidad y trastornos alimentarios.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 10 DE JUNIO DE 2022)</small>
-
-XIX. Diseñar, implementar y promover programas de atención psicológica a pacientes diagnosticados con cáncer a lo largo de todo su tratamiento.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE DICIEMBRE DE 2023)</small>
-
-XX. Diseñar, implementar y coordinar programas, políticas y acciones mediante las cuales se priorice el interés superior de niñas, niños y adolescentes, la igualdad de género y la gestión menstrual mediante:
-
-a) El reconocimiento de que la menstruación forma parte de la salud reproductiva.
-
-b) Disponibilidad de entornos seguros y privados.
-
-c) Acceso a la educación en salud sexual y reproductiva, e higiene y gestión menstrual.
-
-d) El acceso a información y atención adecuada por trastornos relacionados con la menstruación.
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 1 DE DICIEMBRE DE 2023)</small>
-
-XXI. Las demás que se requieran para el cumplimiento de los objetivos del sistema estatal de salud.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 28 DE ABRIL DE 2026)</small>
 
 ### CAPITULO TERCERO. Del Centro Estatal de Trasplantes
 
 ###### Artículo 2.
 
-23.- El Centro Estatal de Trasplantes es un órgano desconcentrado de la Secretaría de Salud, con autonomía técnica y administrativa, y tiene a su cargo las funciones siguientes:
-
-I. Decidir y vigilar la asignación de órganos, tejidos y células;
-
-II. Participar en el Consejo Nacional de Trasplantes;
-
-III. Proporcionar al Registro Nacional de Trasplantes la información correspondiente a la entidad y su actualización;
-
-> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
-
-IV. Promover el diseño, instrumentación y operación del Sistema Estatal de Donación de Órganos Humanos para Trasplante;
-
-V. Proponer políticas, estrategias y acciones para la elaboración y aplicación de los programas en materia de trasplantes;
-
-VI. Sugerir a las autoridades competentes la realización de actividades de investigación y difusión para el fomento de la cultura de la donación de órganos, tejidos y células;
-
-VII. Establecer los mecanismos para la sistematización y difusión entre los sectores involucrados de la normatividad y de la información científica, técnica y sanitaria en materia de trasplantes;
-
-VIII. Coordinar las acciones de las dependencias y organismos auxiliares de la administración publica del Estado, en la instrumentación de los programas nacional y estatal en materia de trasplantes, así como promover la concertación de acciones con las instituciones de los sectores social y privado que lleven a cabo tareas relacionadas con los programas mencionados;
-
-IX. Coordinar sus acciones con los registros Nacional y Estatal de Trasplantes;
-
-X. Proponer mecanismos de evaluación de los programas de capacitación y atención médica relacionados con los trasplantes;
-
-XI. Coadyuvar con las autoridades competentes en la prevención del tráfico ilegal de órganos, tejidos y células;
-
-XII. Proponer mecanismos de vigilancia y control en la donación de órganos, tejidos y células;
-
-XIII. Crear comisiones para el estudio de las diversas materias de salud relacionadas con trasplantes;
-
-XIV. Organizar, coordinar y vigilar el ejercicio de las actividades profesionales, técnicas y auxiliares de la salud en materia de disposición de órganos, tejidos y células con fines de trasplantes;
-
-XV. Proponer a la Secretaría de Salud del Gobierno Federal y al Centro Nacional de Trasplantes, la revocación de la autorización sanitaria o cancelación del registro de los establecimientos y profesionales dedicados a la disposición de órganos, tejidos y células con fines de trasplantes;
-
-XVI. Proponer a la Secretaría de Salud acuerdos de colaboración interinstitucional en materia de trasplantes;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 27 DE OCTUBRE DE 2023)</small>
-
-XVII. Coordinar con el Gobierno del Estado de México y los 125 municipios el impulso de campañas de información con la finalidad de fortalecer la cultura de donación de órganos y tejidos;
-
-> <small>(ADICIONADA, G.G. 27 DE OCTUBRE DE 2023)</small>
-
-XVIII. Generar una constante vinculación con el Centro Nacional de Trasplantes para agilizar los trámites de donación de órganos y tejidos, y
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], G.G. 27 DE OCTUBRE DE 2023)</small>
-
-XIX. Las demás que se determinen en los acuerdos de coordinación respectivos.
+23.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-24.- La organización y funcionamiento del Centro se determinarán en su reglamento interno.
+24.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-25.- Con el objeto de difundir y promover la donación altruista de órganos y tejidos, el Ejecutivo creará un patronato, cuya organización y funcionamiento se regirá por su reglamento interno.
+25.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 28 DE ABRIL DE 2026)</small>
 
 ### CAPITULO CUARTO. De la Comisión de Conciliación y Arbitraje Médico del Estado de México
 
 ###### Artículo 2.
 
-26.- La Comisión de Conciliación y Arbitraje Médico del Estado de México es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, que tiene por objeto contribuir a la solución de los conflictos suscitados entre los usuarios y prestadores de los servicios médicos.
-
-La Comisión, para el cumplimiento de su objeto, tiene las atribuciones siguientes:
-
-I. Brindar asesoría médico-legal e información a los usuarios y prestadores de servicios médicos sobre sus derechos y obligaciones en la materia;
-
-II. Recibir, investigar y substanciar las quejas que presenten los usuarios en contra de prestadores de servicios médicos por supuestas irregularidades en su prestación o por la negativa a otorgarlos;
-
-III. Intervenir en amigable composición para conciliar conflictos derivados de la prestación de servicios médicos, por alguno de los supuestos siguientes:
-
-a) Probables actos u omisiones derivados de la prestación del servicio médico;
-
-b) Probables casos de negligencia con consecuencia en la salud del usuario;
-
-c) Los que determine la Comisión, a través de disposiciones generales.
-
-IV. Fungir como árbitro y pronunciar el laudo que corresponda cuando el usuario y el prestador del servicio médico acepten expresamente someterse al arbitraje;
-
-V. Solicitar a los prestadores de servicios médicos, los datos y documentos que sean necesarios para resolver las quejas y hacer del conocimiento del superior inmediato de aquellos o del órgano de control interno correspondiente, cuando los prestadores tengan en su poder los datos y documentos solicitados y se nieguen a remitirlos a la Comisión;
-
-VI. Solicitar los datos y documentos que sean necesarios para mejor proveer los asuntos que le sean planteados y, en su caso, hacer del conocimiento de las autoridades de salud y los colegios y asociaciones de medicina la negativa expresa o tácita a proporcionarlos, así como informar a las autoridades competentes cuando se detecte que los hechos pudieran llegar a constituir un ilícito;
-
-VII. Elaborar los dictámenes o peritajes médicos que le sean solicitados por las autoridades judiciales, administrativas o el ministerio público, en términos de los convenios que para tal efecto se celebren;
-
-VIII. Intervenir de oficio en cualquier otra cuestión que se considere de interés general en la esfera de sus atribuciones;
-
-IX. Informar a los prestadores de servicios médicos sobre las irregularidades que se adviertan en sus actividades, haciéndolas del conocimiento de la autoridad competente cuando llegaren a ser constitutivas de responsabilidad administrativa o penal;
-
-X. Otorgar a los usuarios asesoría respecto de los trámites a realizar con motivo de su queja;
-
-XI. Convenir con institutos, asociaciones médicas, organizaciones públicas y privadas, la ejecución de acciones que le permitan el desarrollo y fortalecimiento de sus atribuciones;
-
-XII. Celebrar convenios con la Comisión Nacional de Arbitraje Médico, para la substanciación de arbitrajes con motivo de controversias que se susciten entre los usuarios y los prestadores de servicios médicos establecidos en el Estado;
-
-XIII. Las demás que determinen otras disposiciones legales.
-
-La Comisión se excusará del conocimiento de las inconformidades que se establezcan en la reglamentación respectiva.
+26.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-27.- La presentación de quejas así como los procedimientos no afectan el ejercicio de otras acciones legales que tengan los usuarios o prestadores de los servicios médicos.
+27.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-28.- La dirección y administración de la Comisión estará a cargo de un consejo y un comisionado.
-
-> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
-
-El consejo se integra con el comisionado, quien lo presidirá, siete vocales que serán un representante de la Secretaría de Finanzas y seis representantes de los sectores social y privado, y un comisario que será el representante de la Secretaría de la Contraloría.
-
-El comisionado es nombrado por el Gobernador del Estado y deberá reunir los siguientes requisitos:
-
-I. Ser mexicano por nacimiento y ciudadano en pleno ejercicio de sus derechos políticos y civiles, con residencia efectiva en el Estado de México de por lo menos 5 años anteriores a su designación;
-
-(REFORMADA, G.G. 25 DE ENERO DE 2010) (F. DE E., G.G. 4 DE FEBRERO DE 2010)
-
-II. Tener, por lo menos, 25 años de edad;
-
-III. Contar con estudios de posgrado preferentemente en el área medica;
-
-IV. Haberse distinguido por su probidad, competencia y antecedentes profesionales en el ejercicio de las actividades que se vinculen a las funciones de la Comisión;
-
-V. No tener ningún otro empleo, cargo o comisión al momento de asumir su función y durante el ejercicio de la misma, con excepción de actividades honorarias o docencia por cuyo ejercicio no se perciba remuneración alguna.
-
-La organización y funcionamiento de la Comisión se regirá por el reglamento interno que expida el consejo.
+28.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-29.- El patrimonio de la Comisión se integra con:
+29.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
-I. Los ingresos que se le asignen para el cumplimiento de su objeto;
-
-II. Las aportaciones, participaciones, subsidios y apoyos que le otorguen los gobiernos Federal, Estatal y municipal;
-
-III. Los legados, herencias, donaciones y demás bienes otorgados en su favor, y los productos de los fideicomisos en los que se le designe como fideicomisario;
-
-IV. Los bienes muebles e inmuebles que adquiera por cualquier título legal para el cumplimiento de su objeto;
-
-V. Las utilidades, intereses, dividendos, rendimientos de sus bienes, derechos y demás ingresos que adquiera por cualquier título legal.
-
-Los ingresos de la Comisión, así como los productos e instrumentos financieros autorizados serán destinados y aplicados a las actividades señaladas en los programas aprobados por el consejo.
-
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 28 DE ABRIL DE 2026)</small>
 
 ### CAPÍTULO QUINTO. De la Participación en la Prevención y Atención a las Adicciones
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 28 DE ABRIL DE 2026)</small>
 
 #### SECCIÓN PRIMERA. Disposiciones Generales
 
-> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+###### Artículo 2.
+
+30.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-30.- Las disposiciones del presente capítulo establecen las acciones y mecanismos de participación de las autoridades estatales y municipales, así como de los sectores social y privado en la prevención y atención a las adicciones en la Entidad, y son complementarias a las disposiciones y programas federales en la materia que operan de conformidad con los acuerdos y convenios celebrados entre ambos órdenes de gobierno, con el objeto de:
-
-I. Coadyuvar en la prevención y atención a las adicciones en el Estado de México;
-
-II. Preservar el derecho a la sana convivencia familiar, el desarrollo armónico de sus integrantes y el de esparcimiento saludable de las personas;
-
-III. Implementar medidas y acciones que tiendan a prevenir, concientizar, reducir, erradicar y medir el consumo de sustancias que dañen, deterioren y pongan en riesgo la salud, la calidad y las expectativas de vida de las personas;
-
-IV. Fomentar en las familias, centros educativos, unidades económicas y organizaciones sociales, la corresponsabilidad social, como valor fundamental en la prevención y atención de las adicciones;
-
-V. Delinear las políticas públicas que el Gobierno del Estado de México y los municipios realicen en materia de prevención, tratamiento y control de las adicciones; y
-
-VI. Promover en el Sistema Educativo del Estado de México y en sus Universidades Públicas y Privadas, un ambiente libre de adicciones mediante la realización de acciones colectivas y autogestoras para la detección y prevención del consumo de sustancias psicoactivas entre los estudiantes.
-
-> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+31.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-31.- El ingreso y tratamiento de las personas con problemas de adicciones a los establecimientos de prevención y atención de las mismas, se sujetará a las disposiciones legales y reglamentarias expedidas en la materia.
+32.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
-> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
-
-###### Artículo 2.
-
-32.- Este capítulo estará a los conceptos contenidos en la Ley General de Salud, sus disposiciones reglamentarias y normas oficiales mexicanas, relativas a prevención, adicción, sustancias adictivas o con efectos psicoactivos, así como los sectores sujetos de los mismos.
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 28 DE ABRIL DE 2026)</small>
 
 #### SECCIÓN SEGUNDA. De la Prevención y Atención a las Adicciones
 
-> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+###### Artículo 2.
+
+33.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-33.- Las acciones y programas de prevención y atención de las adicciones, tendrán como principios rectores para su diseño y ejecución, la integralidad, sustentabilidad, transversalidad, corresponsabilidad, subsidiaridad, direccionalidad y eficacia, adecuándose a los Programas Nacionales y Estatal respectivos.
-
-> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+34.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-34.- La prevención y atención a las adicciones, se sujetará a lo siguiente:
-
-I. El fomento de una cultura para la prevención y autoprotección de adicciones;
-
-II. La atención de las causas que generan las adicciones, mediante el conocimiento sistematizado de los factores de riesgo y protección;
-
-III. El desarrollo de un programa integral de fomento de valores sociales, culturales y cívicos, mediante una labor permanente de corte formativa e informativa;
-
-IV. La promoción de la participación comunitaria, en la prevención de las causas y condiciones que inciden en el consumo de drogas, bebidas alcohólicas y tabaco; y
-
-V. El tratamiento, rehabilitación y reinserción social de los adictos, mediante el establecimiento de centros especializados, públicos y privados, los cuales deberán apegarse a las directrices de la Ley General de Salud y la Norma Oficial Mexicana.
-
-> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
+35.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-35.- La Secretaría de Salud a través del Instituto Mexiquense de Salud Mental y Adicciones, con la participación de las dependencias y organismos auxiliares de la administración pública, de los sectores social y privado, en especial del Consejo de Participación Social de la Educación, elaborará el programa respectivo para establecer acciones contra las adicciones; dicho programa será evaluado anualmente.
-
-> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+36.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-36.- Toda persona física o jurídica colectiva, puede hacer del conocimiento de las autoridades, sujetos de este capítulo, los casos de personas con problemas de adicción, a efecto de proporcionarles la atención que requieran para su rehabilitación.
-
-> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
-
-###### Artículo 2.
-
-37.- El Programa de Prevención y Atención a las Adicciones del Estado de México, abarcará a la población abierta, ubicará las zonas o sectores tanto urbanos, suburbanos o rurales que se identifiquen como sitios de riesgo o generador de adicciones; propiciará la participación de la familia y de la sociedad en la detección de los factores de riesgo y de protección, e impulsará también acciones tendientes a prevenir, reducir y evitar el consumo de sustancias psicoactivas.
+37.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
@@ -1741,275 +1201,49 @@ V. El tratamiento, rehabilitación y reinserción social de los adictos, mediant
 
 37 Ter.- (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 28 DE ABRIL DE 2026)</small>
 
 #### SECCIÓN TERCERA. De las Autoridades
 
-> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+###### Artículo 2.
+
+38.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-38.- Son Autoridades encargadas de la aplicación del presente capítulo:
-
-I. El Ejecutivo del Estado;
-
-II. La Secretaría de Salud;
-
-> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
-
-III. La Secretaría de Educación, Ciencia, Tecnología e Innovación;
-
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-IV. La Fiscalía General de Justicia del Estado de México;
-
-V. El Sistema para el Desarrollo Integral de la Familia del Estado de México;
-
-> <small>(REFORMADA, G.G. 12 DE OCTUBRE DE 2017)</small>
-
-VI. La Secretaría de Seguridad.
-
-VII. La Comisión de Derechos de Humanos del Estado de México;
-
-VIII. Los ayuntamientos del Estado de México, dentro del ámbito de su competencia; y
-
-IX. Las Dependencias, Entidades y Organismos de la Administración Pública Estatal, en los asuntos de su competencia conforme a lo dispuesto en este capítulo.
-
-> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+39.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-39.- Para los efectos de este capítulo, la Secretaría de Salud tendrá las siguientes atribuciones:
-
-I. Cumplir con los lineamientos, medidas y acciones que dicte el Titular del Ejecutivo, en materia de prevención y atención de las adicciones;
-
-II. Coordinar con las Dependencias y Organismos Auxiliares de la Administración Pública Estatal, el diseño y la ejecución de programas y campañas específicas para la preservación de la salud pública;
-
-III. Instrumentar mecanismos para la adecuada prestación de los servicios de orientación y atención a las personas con problemas de adicción;
-
-IV. Llevar a cabo programas y acciones encaminadas a la prevención y atención del consumo de sustancias psicoactivas;
-
-> <small>(ADICIONADA, G.G. 27 DE JUNIO DE 2014)</small>
-
-IV Bis. Crear centros especializados en tratamiento, atención y rehabilitación, con base en sistemas modernos de tratamiento y rehabilitación, fundamentados en el respeto a la integridad y a la libre decisión del farmacodependiente, de conformidad con el artículo 192 Quáter de la Ley General de Salud;
-
-> <small>(REFORMADA, G.G. 27 DE JUNIO DE 2014)</small>
-
-V. Crear y actualizar permanentemente el padrón de instituciones y organismos públicos, privados y del sector social que realicen actividades de prevención, atención y reinserción social en materia de adicciones;
-
-> <small>(REFORMADA, G.G. 27 DE JUNIO DE 2014)</small>
-
-VI. Promover la formación y capacitación de recursos humanos de las instituciones y organismos públicos, privados y del sector social especializados para la prevención y atención de las adicciones;
-
-> <small>(REFORMADA, G.G. 27 DE JUNIO DE 2014)</small>
-
-VII. Realizar periódicamente las visitas de inspección que permitan vigilar el cumplimiento de las disposiciones jurídicas en materia de prevención y atención de las adicciones por parte de quienes brinden los servicios especializados en la materia;
-
-VII Bis. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2014)
-
-> <small>(ADICIONADA, G.G. 27 DE JUNIO DE 2014)</small>
-
-VII. Ter. Promover el apoyo para la formación y capacitación de los recursos humanos, el financiamiento para la operación y funcionamiento, la atención médica general de las personas que se atiendan por parte de las Instituciones de Asistencia Privada del Estado de México, organismos públicos y sociales nacionales e internacionales y los particulares, atendiendo las disposiciones legales respectivas;
-
-> <small>(REFORMADA, G.G. 27 DE JUNIO DE 2014)</small>
-
-VIII. Crear y actualizar el registro de establecimientos mercantiles que cuenten con el permiso sanitario para la solicitud o renovación de licencia de funcionamiento de un establecimiento mercantil con venta o suministro de bebidas alcohólicas, en botella cerrada, para el consumo inmediato o al copeo;
-
-> <small>(REFORMADA, G.G. 9 DE AGOSTO DE 2012)</small>
-
-IX. Realizar actividades en materia de investigación científica respecto al uso, abuso y dependencia de sustancias psicoactivas. Para este fin podrá celebrar acuerdos de colaboración con los centros de estudios superiores, las universidades u organismos de investigación;
-
-> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
-
-X. Llevar a cabo, a través del Instituto Mexiquense de Salud Mental y Adicciones, los programas o acciones encaminadas a la prevención, atención del uso, abuso y dependencia de sustancias psicoactivas, así como su seguimiento y evaluación.
-
-> <small>(ADICIONADA, G.G. 9 DE AGOSTO DE 2012)</small>
-
-XI. Atender los reportes de la autoridad ministerial para promover la correspondiente orientación médica o de prevención; o bien, brindar el tratamiento al farmacodependiente, en términos de lo establecido en los artículos 193 Bis y 478 de la Ley General de Salud;
-
-XII. (DEROGADA, G.G. 27 DE JUNIO DE 2014)
-
-> <small>(ADICIONADA, G.G. 9 DE AGOSTO DE 2012)</small>
-
-XIII. Crear indicadores y bases de datos que permitan identificar zonas, sectores y grupos de alto riesgo en materia de farmacodependencia.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE ABRIL DE 2024)</small>
+40.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-40.- Para los efectos del presente capítulo, son atribuciones de la Secretaría de Educación, Ciencia, Tecnología e Innovación:
-
-> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
-
-I. Diseñar y conducir campañas y acciones para la prevención de la salud, con el propósito de generar en los estudiantes, el desarrollo de competencias sociales y aptitudes de resistencia y rechazo a las adicciones;
-
-> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
-
-II. Garantizar ambientes escolares sin adicciones, en coordinación con las autoridades de Salud, de Seguridad Pública y de Procuración de Justicia;
-
-> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
-
-III. Promover, fomentar e impulsar la participación del personal docente, de los padres de familia y los alumnos en la aplicación, ejecución y desarrollo de las campañas y acciones contra las adicciones;
-
-> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
-
-IV. Enriquecer los contenidos de los programas con acciones específicas de orientación, a fin de prevenir el consumo de sustancias psicoactivas entre los escolares;
-
-> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
-
-V. Participar en el diseño de programas de investigación científica y tecnológica, que contribuyan a la prevención del consumo de sustancias psicoactivas, en coordinación con instituciones de educación superior;
-
-> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
-
-VI. Promover la participación de las asociaciones de padres de familia en la instrumentación de acciones para la formación de una cultura de prevención y atención de las adicciones;
-
-> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
-
-VII. Formar a los alumnos e informar a los padres de familia para que desde el seno familiar y en su ámbito vecinal, identifiquen la problemática de las adicciones y aprendan a manejar la influencia negativa que dicho fenómeno social genera en su salud e integridad; y
-
-> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
-
-VIII. Promover la colaboración de las asociaciones de padres de familia con el Instituto Mexiquense de Salud Mental y Adicciones, en la ejecución de los distintos programas y medidas formativas e informativas para el desarrollo de recursos psicosociales de prevención y atención a las adicciones.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
+41.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-41.- Para los efectos del presente capítulo, son atribuciones de la Fiscalía General de Justicia del Estado de México:
-
-> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
-
-I. Participar en las acciones de prevención y atención de las adicciones y colaborar en el ámbito de su competencia;
-
-> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
-
-II. Colaborar con las instituciones públicas, en las acciones de prevención y atención de las adicciones que realicen de conformidad al objeto del presente capítulo;
-
-> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
-
-III. Considerar en los programas de prevención del delito, acciones en materia de prevención y atención de las adicciones;
-
-> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
-
-IV. Informar en su caso, a los sujetos del delito con problemas de fármacodependencia, sobre las instituciones que prestan atención en materia de adicciones para su tratamiento; y
-
-> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
-
-V. Las demás que en el ámbito de su competencia dispongan las disposiciones legales.
-
-> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+42.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-42.- Para los efectos del presente capítulo, son atribuciones del Sistema para el Desarrollo Integral de la Familia del Estado de México:
-
-I. Proponer acciones y estrategias de prevención de las adicciones que permitan desalentar el consumo de sustancias psicoactivas entre la población sujeta de la asistencia social;
-
-II. Promover el establecimiento y operación de los programas sobre prevención de las adicciones entre los Sistemas Municipales para el Desarrollo Integral de la Familia;
-
-III. Participar en coordinación con otras instituciones públicas y organizaciones de la sociedad civil, en la difusión de la corresponsabilidad social como valor fundamental en los programas y acciones para prevenir e inhibir el consumo de sustancias psicoactivas;
-
-IV. Participar con la Secretaría de Salud en el diseño de los mecanismos para brindar los servicios de prevención y orientación a los sujetos de la asistencia social con problemas de adicciones;
-
-V. Impulsar la difusión de programas que concienticen, orienten y prevengan a la población, sobre los efectos y consecuencias que ocasiona el consumo de sustancias psicoactivas en el entorno familiar;
-
-VI. Implementar programas específicos que concienticen, orienten y prevengan a la población, de los efectos y consecuencias del consumo de sustancias adictivas, en el entorno familiar;
-
-> <small>(REFORMADA, G.G. 5 DE ABRIL DE 2024)</small>
-
-VII. Participar en coordinación con las Secretarías de Salud y de Educación, Ciencia, Tecnología e Innovación en el diseño de campañas y acciones de educación para la salud, con la finalidad de fomentar en los padres y tutores, el desarrollo de habilidades psicosociales, para la prevención y atención de las adicciones; y
-
-VIII. Implementar en coordinación con las instituciones públicas y de las organizaciones de la sociedad civil, campañas dirigidas a la población mexiquense para desalentar el consumo de sustancias psicoactivas, particularmente entre los sujetos de asistencia social.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 12 DE OCTUBRE DE 2017)</small>
+43.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-43.- Para los efectos del presente capítulo, son atribuciones de la Secretaría de Seguridad:
+44.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
-> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
-
-I. Realizar acciones para la detección de la producción, venta, distribución, trasiego y consumo de sustancias prohibidas por la Ley;
-
-> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
-
-II. Realizar, de manera coordinada con las instancias correspondientes, dentro del marco de sus atribuciones, acciones bajo criterios médicos y tecnológicos aceptados, para la detección de conductores influenciados por sustancias psicoactivas; y
-
-> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
-
-III. Operar e instrumentar las acciones en materia de prevención y atención a las adicciones y al narcomenudeo en el ámbito de su competencia.
-
-> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
-
-###### Artículo 2.
-
-44.- Para los efectos del presente capítulo, son atribuciones de la Comisión de Derechos Humanos del Estado de México:
-
-I. Velar por el respeto de los derechos humanos de las personas con problemas de adicciones;
-
-II. Difundir entre la población el derecho a la salud y atención de las personas con problemas de adicciones;
-
-III. Orientar o remitir, en su caso, a las instancias correspondientes a las personas que sufren violencia familiar derivada de la convivencia con personas con problemas de adicciones;
-
-IV. Promover la igualdad y la no discriminación de las personas con problemas de adicciones y de las que vivan con ellas; y
-
-V. Las demás que señalen las leyes y disposiciones de la materia.
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 28 DE ABRIL DE 2026)</small>
 
 #### SECCIÓN CUARTA. De la participación municipal en la prevención y atención a las adicciones
 
-> <small>(ADICIONADO, G.G. 30 DE SEPTIEMBRE DE 2010)</small>
+###### Artículo 2.
+
+45.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-45.- En materia de prevención y atención a las adicciones, los municipios del Estado de México tendrán las atribuciones siguientes:
-
-I. Realizar acciones que tiendan a la prevención del consumo de sustancias psicoactivas, en congruencia con los programas nacional y estatal;
-
-> <small>(REFORMADA, G.G. 27 DE JUNIO DE 2014)</small>
-
-II. Coadyuvar a través de las corporaciones de tránsito, protección y seguridad pública municipales, con las instituciones de seguridad pública estatales, en la identificación de los lugares y sitios de distribución y venta de sustancias psicoactivas, para los efectos legales procedentes;
-
-> <small>(REFORMADA, G.G. 13 DE SEPTIEMBRE DE 2017)</small>
-
-III. Denunciar ante la Procuraduría General de la República y la Fiscalía General de Justicia del Estado de México, en el ámbito de sus competencias, respectivamente, sobre la existencia de conductas que pueden constituir delitos contra la salud;
-
-IV. Establecer programas preventivos de control del uso y abuso de sustancias psicoactivas, en la esfera de sus atribuciones, con elementos médico-científicos;
-
-> <small>(ADICIONADA, G.G. 25 DE FEBRERO DE 2013)</small>
-
-IV Bis. Implementar y ejecutar medidas y programas permanentes, de forma aleatoria y sin previo aviso o necesidad de publicidad para combatir el alcoholismo, y cuando así cuenten con elementos médico-científicos, en el ámbito de su competencia, así mismo prevenir accidentes viales y salvaguardar la integridad física y bienes de los conductores, sus familias y de la comunidad en general;
-
-V. Conformar una red preventiva ciudadana para prevenir el uso y abuso de sustancias psicoactivas;
-
-> <small>(REFORMADA, G.G. 27 DE JUNIO DE 2014)</small>
-
-VI. Realizar un diagnóstico sobre el estado que guarda el consumo de drogas a nivel municipal;
-
-VII. Promover la creación de Unidades de Prevención y Tratamiento de las adicciones, en términos de las disposiciones legales correspondientes.
-
-> <small>(ADICIONADA, G.G. 27 DE JUNIO DE 2014)</small>
-
-VIII. Crear y actualizar permanentemente el padrón municipal de instituciones y organismos públicos, privados y del sector social que realicen actividades de prevención, atención y reinserción social en materia de adicciones;
-
-> <small>(ADICIONADA, G.G. 27 DE JUNIO DE 2014)</small>
-
-IX. Promover la formación y capacitación de recursos humanos de las instituciones y organismos públicos y del sector social especializados para la prevención y atención de las adicciones;
-
-> <small>(ADICIONADA, G.G. 27 DE JUNIO DE 2014)</small>
-
-X. Realizar periódicamente las visitas de inspección que permitan vigilar el cumplimiento de las disposiciones jurídicas en materia de prevención y atención de las adicciones por parte de quienes brinden los servicios especializados en la materia;
-
-> <small>(ADICIONADA, G.G. 27 DE JUNIO DE 2014)</small>
-
-XI. Promover el apoyo para la formación y capacitación de los recursos humanos, el financiamiento para la operación y funcionamiento, la atención médica general de las personas que se atiendan por parte de las Instituciones de Asistencia Privada del Estado de México, organismos públicos y sociales estatales, nacionales e internacionales y los particulares, atendiendo las disposiciones legales respectivas.
-
-> <small>(REFORMADO, G.G. 5 DE ABRIL DE 2024)</small>
-
-###### Artículo 2.
-
-46.- La Secretaría de Salud, por conducto del Instituto Mexiquense de Salud Mental y Adicciones, implementará acciones conjuntas con los ayuntamientos para la prevención, el tratamiento y la rehabilitación de personas que sufren problemas de adicciones.
+46.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
@@ -2055,251 +1289,109 @@ XI. Promover el apoyo para la formación y capacitación de los recursos humanos
 
 48 Septies.- (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 18 DE JULIO DE 2014)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 28 DE ABRIL DE 2026)</small>
 
 ### CAPITULO SEXTO. Del Programa de Prevención del Suicidio
 
-> <small>(ADICIONADO, G.G. 18 DE JULIO DE 2014)</small>
+###### Artículo 2.
+
+48 Octies.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-48 Octies.- La Secretaría de Salud elaborará, coordinará y vigilará el Programa de Prevención del Suicidio.
-
-> <small>(ADICIONADO, G.G. 18 DE JULIO DE 2014)</small>
+48 Nonies.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-48 Nonies.- La Secretaría y el Instituto de Salud del Estado de México y los municipios, en el ámbito de sus respectivas competencias, de ser posible, se coordinarán para la ejecución del programa.
+48 Decies.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
-> <small>(ADICIONADO, G.G. 18 DE JULIO DE 2014)</small>
-
-###### Artículo 2.
-
-48 Decies.- El programa de prevención del suicidio comprenderá las acciones siguientes:
-
-I. Apoyar en el desarrollo de actividades educativas, socioculturales y recreativas que contribuyan a la prevención del suicidio;
-
-II. Impulsar la participación de la comunidad en la detección y canalización de personas con tendencia al suicidio a las instancias de atención a la salud mental;
-
-III. La disposición de una línea telefónica de emergencia para casos de crisis;
-
-IV. Procurar la atención de las personas con tendencia al suicidio, mediante los servicios de salud mental correspondientes;
-
-V. Promover la celebración de convenios que propicien la participación de los municipios en el programa.
-
-VI. Procurar el fomento de una cultura sustentada en valores y principios en torno a la auto-afirmación de la dignidad humana, dirigida preferentemente a niñas, niños, adolescentes y jóvenes.
-
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN , G.G. 21 DE JUNIO DE 2022)</small>
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 28 DE ABRIL DE 2026)</small>
 
 ### CAPÍTULO SÉPTIMO. De la atención integral al cáncer de mama
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 21 DE JUNIO DE 2022)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 28 DE ABRIL DE 2026)</small>
 
 #### SECCIÓN PRIMERA. Disposiciones generales
 
-> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2022)</small>
+###### Artículo 2.
+
+48 Undecies.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-48 Undecies.- El presente capítulo tiene por objeto establecer los principios y lineamientos para la promoción de la salud, detección temprana, prevención, diagnóstico oportuno, atención, tratamiento adecuado, rehabilitación, control y vigilancia epidemiológica del cáncer de mama en el Estado de México.
-
-> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2022)</small>
+48 Duodecies.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-48 Duodecies.- La Atención Integral del Cáncer de Mama en el Estado de México, tiene los siguientes objetivos:
-
-I. Disminuir las tasas de morbilidad y mortalidad por cáncer de mama en la población femenina que resida en el Estado de México, mediante una política pública de carácter prioritario.
-
-II. Contribuir en la detección oportuna del cáncer de mama en mujeres a partir de los 25 años y en toda mujer que tenga historial genético familiar con cáncer de mama antes de esa edad y que resida en el Estado de México.
-
-III. Atender a mujeres que no cuenten con seguridad social, cuyo resultado requiere de estudios complementarios o atención médica de acuerdo a las indicaciones médicas respectivas.
-
-IV. Difundir información sobre la importancia de la detección temprana, el autocuidado y la autoexploración de cáncer de mama.
-
-V. Realizar campañas de promoción y difusión sobre información del cáncer de mama para fomentar una cultura de prevención.
-
-VI. Brindar acompañamiento psicológico a las mujeres cuyo resultado indique sospecha, alta sospecha o confirmación de cáncer de mama.
-
-VII. Brindar atención médica y rehabilitación a las mujeres con diagnóstico sospechoso, altamente sospechoso y confirmado de cáncer de mama.
-
-> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2022)</small>
+48 Terdecies.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-48 Terdecies.- La instrumentación y coordinación de las acciones para la prestación de los servicios en la atención integral del cáncer de mama en términos de este capítulo, será atribución de la Secretaría de Salud del Estado de México; para tal efecto deberá:
-
-I. Elaborar y emitir el Programa de Atención Integral del Cáncer de Mama.
-
-II. Elaborar los protocolos para la prevención, detección y diagnóstico oportuno de cáncer de mama.
-
-III. Integrar un sistema de información que contenga los datos necesarios que permitan brindar un seguimiento oportuno a las mujeres que se les haya practicado examen clínico o mastografía y presenten un diagnóstico sospechoso, altamente sospechoso o confirmado de cáncer de mama.
-
-IV. Formar una base de datos sobre las mujeres a las que se les practique mastografías dentro del Programa de Atención Integral del Cáncer de Mama, a efecto de que se brinde el servicio de acuerdo a los lineamientos señalados en este Código.
-
-V. Establecer las bases de colaboración y participación de las dependencias de la administración pública estatal y municipal, para la prestación de servicios relacionados con el Programa de Atención Integral del Cáncer de Mama.
-
-VI. Suscribir convenios con diversas autoridades o instituciones de salud para la prestación de servicios relacionados con el Programa de Atención Integral del Cáncer de Mama.
-
-VII. Programar y ejercer el presupuesto asignado para el Programa de Atención Integral del Cáncer de Mama.
-
-VIII. Diseñar un programa de fortalecimiento de la infraestructura para satisfacer la demanda y cobertura de las acciones contempladas en el Programa de Atención Integral del Cáncer de Mama.
-
-IX. Las demás necesarias para la aplicación de las disposiciones de este capítulo.
-
-> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2022)</small>
+48 Quaterdecies.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-48 Quaterdecies.- La Secretaría de las Mujeres del Estado de México y las dependencias municipales de la mujer coadyuvarán con la Secretaría de Salud del Estado en la instrumentación de las acciones derivadas de este capítulo, de conformidad con lo establecido en los lineamientos de operación del Programa de Atención Integral del Cáncer de Mama que para tal efecto se emitan. Como instancia rectora en la institucionalización de la perspectiva de género, formulará los lineamientos necesarios para que la aplicación de las disposiciones de esta normativa se realice atendiendo las necesidades diferenciadas en función del género, dando seguimiento al cumplimiento de las mismas.
+48 Quindecies.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
-> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2022)</small>
-
-###### Artículo 2.
-
-48 Quindecies.- El Programa de Atención Integral del Cáncer de Mama, comprende acciones de promoción de la salud, prevención, consejería, detección, diagnóstico, tratamiento y rehabilitación integral.
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 21 DE JUNIO DE 2022)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 28 DE ABRIL DE 2026)</small>
 
 #### SECCIÓN SEGUNDA. Tratamiento y seguimiento del cáncer de mama
 
-> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2022)</small>
+###### Artículo 2.
+
+48 Sexdecies.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-48 Sexdecies.- Las mujeres que residan en el Estado de México, tienen derecho a la atención integral del cáncer de mama. Las autoridades señaladas en el artículo anterior, tienen la obligación de garantizar el ejercicio de este derecho y su acceso de manera gratuita, digna, eficiente, oportuna y de calidad, procurando la incorporación de comunidades indígenas y zonas rurales conforme a los lineamientos establecidos en este capítulo.
-
-> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2022)</small>
+48 Septdecies.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-48 Septdecies.- Para los procedimientos contenidos en este capítulo se garantizará la atención psicológica permanente a las personas durante todo el proceso.
-
-> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2022)</small>
+48 Octodecies.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-48 Octodecies.- La Secretaría de Salud concertará acciones que propicien la gratuidad de los servicios a que se refiere este capítulo mediante los instrumentos jurídicos que se ajusten lo dispuesto en esta norma.
-
-> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2022)</small>
+48 Novodecies.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-48 Novodecies.- Las actividades de rehabilitación del cáncer de mama, incluyen acciones tendientes a optimizar las capacidades y funciones de las personas con discapacidad física y mental, así como la reconstrucción mamaria para toda mujer a la que se le haya realizado una mastectomía como tratamiento del cáncer de seno.
+48 Vicies.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
-> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2022)</small>
-
-###### Artículo 2.
-
-48 Vicies.- Los usuarios tendrán derecho a obtener prestaciones de salud oportuna, profesional, ética y de calidad idónea, así como la orientación necesaria respecto a riesgos, efectos y alternativas de los procedimientos, diagnósticos terapéuticos, quirúrgicos y de rehabilitación que se le indiquen o apliquen, teniendo un trato respetuoso y digno de los profesionales, técnicos y auxiliares.
-
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 21 DE JUNIO DE 2022)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 28 DE ABRIL DE 2026)</small>
 
 #### SECCIÓN TERCERA. De la mastectomía y la mamoplastia reconstructiva de calidad
 
-> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2022)</small>
+###### Artículo 2.
+
+48 Unvicies.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-48 Unvicies.- Para efectos de este Código se entenderá por:
-
-I. Mastectomía: procedimiento quirúrgico que tiene como finalidad extirpar la glándula mamaria o parte de ella. De una o ambas, y en todas técnicas médicas y variantes disponibles.
-
-II. Mamoplastia reconstructiva de calidad: procedimiento que tiene como finalidad la creación de una mama lo más similar posible a la que haya sido extirpada, con prótesis fisiológicamente histocompatible, bajo los principios de inocuidad para el portador, así como calidad, por una salud digna.
-
-> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2022)</small>
+48 Duovicies.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-48 Duovicies.- Las instituciones públicas de Salud deberán contar con programas y mecanismos para que las personas, preponderantemente de escasos recursos, puedan acceder de manera gratuita a mastectomías cuando se les diagnostique un padecimiento o un riesgo de padecimiento que así lo requiera.
-
-> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2022)</small>
+48 Tervicies.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-48 Tervicies.- La Secretaría de Salud deberán (sic) contar con programas y mecanismos para que las personas, preponderantemente de escasos recursos, que hayan sido sujetas a una mastectomía puedan acceder a una mamoplastia reconstructiva con prótesis de buena calidad.
+48 Quatervicies.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
-> <small>(ADICIONADO, G.G. 21 DE JUNIO DE 2022)</small>
-
-###### Artículo 2.
-
-48 Quatervicies.- Para los procedimientos establecidos se deberá contar con una especialización y mejora constante en los procedimientos y capacitación de las personas que los lleven a cabo.
+> <small>(DEROGADO CON LOS CAPÍTULOS, SECCIÓN Y ARTÍCULOS QUE LO INTEGRAN, G.G. 28 DE ABRIL DE 2026)</small>
 
 ## TITULO CUARTO. De la salubridad local
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 28 DE ABRIL DE 2026)</small>
+
 ### CAPITULO PRIMERO. Disposiciones generales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE FEBRERO DE 2025)</small>
+###### Artículo 2.
+
+49. (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-49. Corresponde al Instituto de Salud del Estado de México como organismo público descentralizado, sectorizado a la Secretaría de Salud del Estado de México, a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México ejercer la regulación, control y fomento sanitarios de:
-
-(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
-
-I. Comercio de alimentos y bebidas no alcohólicas en la vía pública;
-
-(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
-
-II. Construcciones, excepto de los establecimientos de salud;
-
-(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
-
-III. Panteones y crematorios;
-
-(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
-
-IV. Limpieza pública;
-
-(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
-
-V. Agua potable y alcantarillado;
-
-(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
-
-VI. Sitios de cría y producción de animales domésticos;
-
-> <small>(ADICIONADA, G.G. 16 DE DICIEMBRE DE 2014)</small>
-
-VI. BIS. Rastro;
-
-> <small>(REFORMADA, G.G. 22 DE JUNIO DE 2023)</small>
-
-VII. Centros Penitenciarios;
-
-(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
-
-VIII. Baños públicos;
-
-(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
-
-IX. Centros de reunión públicos y espectáculos;
-
-(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
-
-X. Establecimientos dedicados a la prestación del servicio de peluquería, salones de belleza y similares;
-
-(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
-
-XI. Establecimientos de hospedaje;
-
-(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
-
-XII. Transporte de pasajeros; y
-
-(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
-
-XIII. Las demás que determine este Libro.
-
-(REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2010)
-
-Para efectos de este Título se entiende por control sanitario el conjunto de acciones de orientación, educación, muestreo, verificación y, en su caso, aplicación de medidas de seguridad y sanciones.
-
-> <small>(REFORMADO, G.G. 5 DE ENERO DE 2021)</small>
-
-###### Artículo 2.
-
-49 Bis.- Para la prestación del servicio público de rastros se deberá contar con la autorización municipal correspondiente.
+49 Bis.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
@@ -2317,49 +1409,25 @@ Para efectos de este Título se entiende por control sanitario el conjunto de ac
 
 49 Sexies.- (DEROGADO, G.G. 5 DE ENERO DE 2021)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 17 DE SEPTIEMBRE DE 2018)</small>
+###### Artículo 2.
+
+49 Septies (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-49 Septies.- Para efectos del presente Capítulo, la Comisión para la Protección contra Riesgos Sanitarios del Estado de México tendrá las funciones siguientes:
-
-I. (DEROGADA, G.G. 5 DE ENERO DE 2021)
-
-> <small>(ADICIONADA, G.G. 19 DE AGOSTO DE 2015)</small>
-
-II. Elaborar el diagnóstico de la situación que prevalece en materia de rastros y su impacto sanitario en la comunidad, debiéndose allegar para ello de la información correspondiente.
-
-> <small>(ADICIONADA, G.G. 19 DE AGOSTO DE 2015)</small>
-
-III. Proponer programas y acciones tendientes a combatir el maltrato y sufrimiento animal en colaboración con las dependencias del Ejecutivo del Estado, organismos auxiliares de carácter estatal y municipal, y de los sectores social y privado.
-
-> <small>(ADICIONADA, G.G. 19 DE AGOSTO DE 2015)</small>
-
-IV. Las demás que sean necesarias para el cumplimiento de su objeto.
-
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.31], G.G. 30 DE SEPTIEMBRE DE 2010)
+50.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-50.- Compete a la Secretaría de Salud la expedición de las normas técnicas estatales.
-
-> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
+51.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-51.- Compete al Instituto de Salud del Estado de México a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México realizar las acciones de fomento sanitario, que incluyen la difusión de la normatividad aplicable al buen funcionamiento de los establecimientos.
-
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.33], G.G. 30 DE SEPTIEMBRE DE 2010)
+52.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-52.- Los comerciantes que ejerzan su actividad en la vía pública están obligados a conservar las condiciones higiénicas que señalen las normas técnicas estatales.
-
-> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
-
-###### Artículo 2.
-
-53.- Los edificios o locales, incluidos los Centros penitenciarios y de reinserción social, deben contar con las instalaciones sanitarias que señalen las normas técnicas estatales correspondientes.
+53.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
@@ -2369,395 +1437,125 @@ IV. Las demás que sean necesarias para el cumplimiento de su objeto.
 
 53 Ter.- (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.35], G.G. 30 DE SEPTIEMBRE DE 2010)
+###### Artículo 2.
+
+54.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-54.- Los residuos sólidos municipales deben tratarse conforme a lo previsto en las normas técnicas estatales, de tal manera que no signifiquen un peligro para la salud y por ningún motivo se manipularán antes de su tratamiento o disposición final.
-
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.36], G.G. 30 DE SEPTIEMBRE DE 2010)
+55.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-55.- Los animales muertos deben ser incinerados o enterrados antes de que entren en descomposición, por sus propietarios, en los sitios y en la forma que determinen los municipios.
-
-> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
-
-En caso de animales muertos abandonados, el Instituto de Salud del Estado de México a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México dictará las medidas para dar cumplimiento a lo señalado en el párrafo anterior, las cuales deberán ser atendidas por el municipio correspondiente.
-
-> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
+56.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-56.- El Instituto de Salud del Estado de México a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México realizará análisis periódicos de la potabilidad de las aguas, conforme a lo previsto en las normas oficiales mexicanas.
-
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.38], G.G. 30 DE SEPTIEMBRE DE 2010)
+57.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-57.- Las localidades del Estado deben contar con sistemas para el desagüe rápido e higiénico de sus desechos, preferentemente por medio de alcantarillado o fosas sépticas.
-
-Queda prohibido que los desechos o líquidos que conduzcan los drenajes sean vertidos en ríos, arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al consumo humano.
-
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.39], G.G. 30 DE SEPTIEMBRE DE 2010)
+58.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-58.- Los sitios de cría y producción de animales domésticos deben localizarse fuera de las áreas urbanas y urbanizables.
-
-> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
+59.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-59.- Las personas que realicen actividades o presten servicios de salubridad local sujetos al control sanitario del Instituto de Salud del Estado de México a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México, que no requieran autorización sanitaria conforme al Capítulo siguiente, deben darle aviso del inicio de sus operaciones por escrito o en el portal de internet establecido para tal efecto, con firma autógrafa o electrónica avanzada, por lo menos treinta días anteriores a que se pretenda iniciar operaciones.
-
-> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
+60.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-60.- Cuando las construcciones, terrenos, edificios o locales representen un peligro para la población por su insalubridad, el Instituto de Salud del Estado de México a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México podrá ordenar al propietario o poseedor la realización de las obras que estime necesarias para evitar el peligro o, en su defecto, ordenar la ejecución de las obras con cargo al omiso.
-
-> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
+61.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-61.- Todo cambio de propietario de un establecimiento o unidad económica, de razón social o denominación, o giro comercial así como la suspensión de actividades, trabajos o servicios, debe ser comunicado al Instituto de Salud del Estado de México a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México, cuando haya requerido Aviso de Funcionamiento para su instalación inicial, a través de sus respectivas oficinas o en el portal de internet establecido para tal efecto, de conformidad a las disposiciones jurídicas aplicables, en un plazo no mayor a treinta días hábiles a partir de la fecha en que se hubiera realizado, sujetándose al cumplimiento de las disposiciones que al efecto se emitan.
+62.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
-> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
-
-###### Artículo 2.
-
-62.- Los proyectos de abastecimiento de agua potable deben ser sometidos a la consideración del Instituto de Salud del Estado de México a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México para la aprobación del sistema adoptado.
-
-Los proyectos para la implantación de sistemas de alcantarillado deben ser estudiados y aprobados por la Comisión para la Protección contra Riesgos Sanitarios del Estado de México.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 28 DE ABRIL DE 2026)</small>
 
 ### CAPITULO SEGUNDO. De las autorizaciones sanitarias
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE FEBRERO DE 2025)</small>
+###### Artículo 2.
+
+63.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-63.- La autorización sanitaria es el acto administrativo mediante el Instituto de Salud del Estado de México a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México permite a una persona física o moral, pública o privada, la realización de actividades relacionadas con la salud humana, en los casos y con los requisitos y modalidades que determine este Título y su Reglamento.
-
-(REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2010)
-
-Las autorizaciones sanitarias tendrán el carácter de licencias y permisos.
-
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.45], G.G. 30 DE SEPTIEMBRE DE 2010)
+64.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-64.- Los panteones y crematorios requieren de licencia sanitaria, que deben exhibir en un lugar visible. Cuando los crematorios cambien de ubicación, requerirán nueva licencia.
-
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.46], G.G. 30 DE SEPTIEMBRE DE 2010)
+65.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-65.- Requieren de permiso sanitario previo:
+66.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
-> <small>(REFORMADA, G.G. 21 DE FEBRERO DE 2025)</small>
-
-I. El inicio y ocupación de las obras de construcción, reconstrucción, modificación o acondicionamiento de establecimientos, excepto aquellos de salud, que deberán estar basados en los dictámenes que para tal efecto emita la autoridad sanitaria.
-
-II. El comercio de alimentos y bebidas en la vía pública; y
-
-III. El traslado de cadáveres de seres humanos a distancias mayores a cien kilómetros dentro del Estado.
-
-IV. (DEROGADA, G.G. 29 DE AGOSTO DE 2013)
-
-El permiso sanitario que se expida, tendrá la vigencia de un año, es de carácter personal e intransferible. Se otorgará a favor de las personas físicas, jurídicas o entes colectivos solicitantes previo cumplimiento de los requisitos.
-
-La realización de giros adicionales exigidos para el desarrollo del giro originalmente autorizado, requerirá de la emisión de una nueva Autorización Municipal.
-
-La Secretaría de Salud emitirá normas técnicas en materia de ingeniería sanitaria, tratándose de obras de construcción, reconstrucción, modificación o acondicionamiento de establecimientos.
-
-> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
-
-El Instituto de Salud del Estado de México a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México con base en las normas a que se refiere el párrafo anterior y a través de disposiciones de carácter general, señalará los casos en que se eximirá de los permisos sanitarios de inicio y ocupación de obras.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE FEBRERO DE 2025)</small>
-
-###### Artículo 2.
-
-66.- El Instituto de Salud del Estado de México a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México revocará las autorizaciones que haya otorgado en los casos siguientes:
-
-(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
-
-I. Por incumplimiento de las disposiciones de este Libro y su reglamentación;
-
-(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
-
-II. Cuando por causas supervenientes se compruebe que el ejercicio de las actividades que se hubieren autorizado constituyen un riesgo o daño para la salud humana;
-
-(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
-
-III. Por reiterada renuencia de los titulares de la autorización, a acatar las determinaciones que dicte el Instituto en los términos de este Libro y demás disposiciones legales aplicables;
-
-(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
-
-IV. Cuando resulten falsos los datos o documentos proporcionados por el interesado para el otorgamiento de la autorización; y
-
-(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
-
-V. Cuando el interesado no se ajuste a los términos, condiciones y requisitos establecidos en la autorización o haga uso indebido o distinto de ésta.
-
-(REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2010)
-
-Cuando la revocación de una autorización se funde en los riesgos o daños a la salud, se hará del conocimiento de las dependencias y organismos auxiliares que tengan atribuciones de orientación al consumidor.
-
-(REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2010)
-
-La revocación surtirá efectos de clausura, prohibición de uso y de ejercicio de las actividades que hubiesen sido autorizadas.
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, G.G. 28 DE ABRIL DE 2026)</small>
 
 ### CAPITULO TERCERO. De la vigilancia
 
-#### SECCION PRIMERA. De la recolección de muestras
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, G.G. 28 DE ABRIL DE 2026)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE FEBRERO DE 2025)</small>
+#### SECCION PRIMERA. De la recolección de muestras
 
 ###### Artículo 2.
 
-67.- El Instituto de Salud del Estado de México a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México independientemente de las visitas de verificación, podrá llevar a cabo la recolección de muestras de productos perecederos y no perecederos, así como de superficies vivas e inertes, para determinar la presencia de microorganismos patógenos causantes de daños a la salud.
+67.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
-(REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2010)
-
-La recolección de muestras de productos y superficies se efectuará con sujeción a las disposiciones aplicables de la Ley General de Salud y de las normas oficiales de la materia.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 28 DE ABRIL DE 2026)</small>
 
 #### SECCION SEGUNDA. De las medidas de seguridad sanitaria
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE FEBRERO DE 2025)</small>
+###### Artículo 2.
+
+68.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-68.- El Instituto de Salud del Estado de México a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México para proteger la salud, está facultada para dictar las medidas de seguridad sanitaria siguientes:
-
-(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
-
-I. El aislamiento, que es la separación de personas o animales infectados durante el periodo de transmisibilidad, a lugares y en condiciones que eviten el peligro de contagio;
-
-(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
-
-II. La cuarentena, que es la limitación a la libertad de tránsito de personas sanas que hubiesen estado expuestas a una enfermedad transmisible;
-
-(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
-
-III. La observación personal, que consiste en la estrecha supervisión sanitaria de los presuntos portadores, sin limitar su libertad de tránsito, con el fin de facilitar la rápida identificación de la infección o enfermedad transmisible;
-
-(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
-
-IV. La vacunación de personas y animales, consistente en la estimulación de la inmunidad artificial y activa para protección de alguna enfermedad específica;
-
-(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
-
-V. La destrucción o control de insectos u otra fauna transmisora y nociva, que es la aplicación de todo procedimiento físico o químico mediante el cual pueda eliminarse en el cuerpo de una persona, en la ropa o en el ambiente, los insectos, roedores u otros que reconocidamente sean capaces de transmitir enfermedades y que vivan en el cuerpo o en las habitaciones de las personas;
-
-(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
-
-VI. La suspensión de trabajos o servicios, consistente en la ejecución de acciones para evitar la realización de actividades en locales, instalaciones, dependencias y anexos, cubiertos o descubiertos, fijos o móviles;
-
-(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
-
-VII. El aseguramiento o destrucción de objetos, productos o substancias, que es el procedimiento mediante el cual la autoridad sanitaria retiene para sí, para custodia de quien los posee o para su destrucción, aplicando mecanismos que considere convenientes, los objetos, productos o substancias que constituyan riesgo inminente o probable para el ser humano;
-
-(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
-
-VIII. La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio, que es el procedimiento mediante el cual los espacios de los locales, sus instalaciones, dependencias y anexos, cubiertos o descubiertos, fijos o móviles, sean de producción, transformación, almacenamiento, distribución de bienes y servicios, de prestación de servicios o de habitación únicamente, se encuentren libres de la presencia de seres humanos y animales domésticos;
-
-(REUBICADA, G.G. 30 DE SEPTIEMBRE DE 2010)
-
-IX. La prohibición de actos de uso, que es la determinación mediante la cual se ordena a los poseedores, encargados u ocupantes la utilización de los aparatos, equipos, sustancias, productos terminados, recipientes o cualquier otro implemento empleado en procesos de producción de bienes y servicios o para la prestación de servicios; y
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.G. 5 DE ENERO DE 2021)</small>
-
-X. La suspensión temporal hasta que cese la causa por la cual fue decretada a establecimientos con venta o suministro de bebidas alcohólicas, que no cuenten con el Dictamen de Giro emitido por el Comité Municipal de Dictámenes de Giro correspondiente, o hasta por noventa días cuando incumplan con el horario autorizado, contraten, vendan o suministren bebidas alcohólicas a menores de edad.
-
-> <small>(REFORMADA, G.G. 29 DE AGOSTO DE 2013)</small>
-
-Una vez aplicada esta medida de seguridad, se podrá iniciar con el procedimiento administrativo establecido en el Código de Procedimientos Administrativos del Estado de México, a fin de que en caso de que se mantenga el incumplimiento, se sancione con la clausura temporal o definitiva, parcial o total, según corresponda. Además se procederá penalmente conforme a la ley de la materia.
-
-> <small>(REFORMADA, G.G. 6 DE ENERO DE 2021)</small>
-
-XI. La colocación de sello de aviso para requerir que se acredite el cumplimiento de disposiciones sanitarias consistentes en el Dictamen de Giro, aviso de funcionamiento, de la Ley General de Salud, la Ley General para el Control del Tabaco y su Reglamento, así como la Ley de Prevención del Tabaquismo y de Protección ante la Exposición al Humo de Tabaco en el Estado de México y su Reglamento; y
-
-> <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
-
-XII. Las demás que determinen las autoridades sanitarias que tiendan a evitar riesgos o daños a la salud.
-
-(REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2010)
-
-Estas medidas serán de inmediata ejecución, durarán el tiempo estrictamente necesario para que desaparezca el peligro y se aplicarán sin perjuicio de las sanciones correspondientes.
-
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.50], G.G. 30 DE SEPTIEMBRE DE 2010)
+69.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-69.- Las medidas a que se refiere el artículo anterior se ordenarán:
+70.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
-I. El aislamiento de personas o animales, cuando se detecte la presencia de enfermedades infecto-contagiosas en periodo de transmisibilidad;
-
-II. La cuarentena, cuando las personas sanas expuestas a una enfermedad transmisible constituyan un riesgo potencial de contagio;
-
-III. La observación personal, cuando se requiera que el profesionista de la salud realice estrecha supervisión de los presuntos portadores de enfermedades transmisibles;
-
-IV. La vacunación de personas expuestas a contraer enfermedades transmisibles:
-
-a) Cuando no hayan sido vacunadas contra enfermedades transmisibles cuya vacunación sea obligatoria;
-
-b) En caso de epidemia;
-
-c) Cuando exista peligro de invasión de enfermedades transmisibles en el Estado que puedan ser prevenidas mediante vacunación.
-
-V. La destrucción o control de insectos u otra fauna transmisora o nociva, cuando éstos constituyan un peligro grave para la salud de las personas;
-
-VI. La suspensión de trabajos o de servicios, o la prohibición de actos de uso, cuando, de continuar éstos, se ponga en peligro la salud de las personas.
-
-La suspensión de trabajos o servicios será temporal, parcial o total, y se aplicará por el tiempo estrictamente necesario para corregir las irregularidades. Durante la suspensión se podrá permitir el acceso de las personas que estén obligadas a corregir las irregularidades que la motivaron;
-
-> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
-
-VII. La colocación del aviso de requerimiento que deberá de tener las siguientes características:
-
-a) Tendrá una medida de 1.0 metro de largo por 80 cm de ancho;
-
-b) Se ajustará al diseño de imagen institucional y contendrá además el número de folio correspondiente;
-
-c) Será de papel plastificado de difícil destrucción;
-
-> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
-
-d) Deberá contener el escudo del Gobierno del Estado de México, el Instituto de Salud del Estado de México y de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México;
-
-e) Nombre y firma de los verificadores sanitarios, así como fecha de la verificación y el folio correspondiente;
-
-> <small>(REFORMADO, G.G. 6 DE ENERO DE 2021)</small>
-
-f) Deberá contener el modo, lugar y plazo para acreditar el cumplimiento de las disposiciones sanitarias consistentes en el Dictamen de Giro emitido por el Comité Municipal de Dictámenes de Giro correspondiente, aviso de funcionamiento, además del cumplimiento de la Ley General de Salud, la Ley General para el Control del Tabaco y su Reglamento, así como la Ley de Prevención del Tabaquismo y de Protección ante la Exposición al Humo de Tabaco en el Estado de México y su Reglamento;
-
-> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
-
-VIII. El aseguramiento de objetos, productos o sustancias, cuanto exista sospecha fundada de que pueden ser nocivos para la salud de las personas o carezcan de los requisitos esenciales que se establezcan en las disposiciones legales aplicables;
-
-> <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
-
-IX. La desocupación o desalojo de predios, casas, edificios o establecimientos, cuando se considere indispensable para evitar un daño en la salud o la vida de las personas.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE FEBRERO DE 2025)</small>
-
-###### Artículo 2.
-
-70.- El Instituto de Salud del Estado de México a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México podrá retener o dejar los objetos, productos o sustancias en depósito, hasta en tanto no se determine su destino, previo dictamen de laboratorio acreditado.
-
-> <small>(REFORMADO, G.G. 21 DE FEBRERO DE 2025)</small>
-
-Si el dictamen reporta que el bien asegurado no es nocivo para la salud o cumple con las disposiciones legales correspondientes, se procederá a su inmediata devolución. En caso de que el interesado no gestione la recuperación dentro del plazo que señale, se entiende que el bien causa abandono y quedará a disposición del Instituto de Salud del Estado de México a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México para su aprovechamiento.
-
-(REUBICADO, G.G. 30 DE SEPTIEMBRE DE 2010)
-
-Si del dictamen resulta que el bien asegurado es nocivo para la salud, se podrá someter a un tratamiento que haga posible su aprovechamiento por el interesado o determinar su destrucción.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.G. 28 DE ABRIL DE 2026)</small>
 
 #### SECCION TERCERA. De las sanciones
 
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.52], G.G. 30 DE SEPTIEMBRE DE 2010)
+###### Artículo 2.
+
+71.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-71.- Son sanciones administrativas:
-
-I. Amonestación con apercibimiento;
-
-II. Multa;
-
-III. Clausura temporal o definitiva, parcial o total; y
-
-IV. Arresto hasta por treinta y seis horas.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE FEBRERO DE 2025)</small>
-
-###### Artículo 2.
-
-72.- Las infracciones a lo previsto en este Título serán sancionadas (sic) el Instituto de Salud del Estado de México a través de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México en los términos siguientes:
-
-> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
-
-I. Con multa equivalente de cuarenta a cien veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, la violación a lo dispuesto en los artículos 2.64, en caso de no exhibir la licencia en un lugar visible, y 2.65.
-
-> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
-
-II. Con multa equivalente de cincuenta a quinientas veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, la violación a lo dispuesto en el artículo 2.53.
-
-> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2016)</small>
-
-III. Con multa equivalente de doscientas cincuenta a dos mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, la violación a lo dispuesto en el artículo 2.55.
-
-> <small>(REFORMADA, G.G. 21 DE FEBRERO DE 2025)</small>
-
-IV. Con multa equivalente de mil a cuatro mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción, en caso de no contar con la licencia a que se refiere el artículo 2.64, y la violación al artículo 2.65 fracción III.
-
-El Instituto de Salud del Estado de México por conducto de la Comisión para la Protección contra Riesgos Sanitarios del Estado de México, mediante disposiciones generales podrá implementar programas para fomentar el cumplimiento de la normatividad sanitaria mediante la exención del pago de multas.
-
-V. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2014)
+72.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
 72 Bis.- (DEROGADO, G.G. 18 DE DICIEMBRE DE 2014)
 
-> <small>(ADICIONADO, G.G. 22 DE FEBRERO DE 2013)</small>
+###### Artículo 2.
+
+72 Ter.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-72 Ter.- Además de lo señalado en el artículo anterior, como medida de seguridad, los ayuntamientos, a través de la autoridad competente, estarán facultados para suspender temporalmente, hasta por noventa días, el funcionamiento de estos establecimientos, mientras se lleve a cabo el procedimiento administrativo y con el objeto de preservar el interés público y la salud.
-
-> <small>(ADICIONADO, G.G. 29 DE AGOSTO DE 2013)</small>
-
-Una vez aplicada esta medida de seguridad se podrá iniciar con el procedimiento administrativo establecido en el Código de Procedimientos Administrativos del Estado de México, a fin de que en caso de que se mantenga el incumplimiento se sancione con la clausura temporal o definitiva, parcial o total, según corresponda.
-
-> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2016)</small>
+73.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-73.- Las infracciones no previstas en esta Sección serán sancionadas con multa equivalente hasta por diez mil veces el valor diario de la Unidad de Medida y Actualización vigente al momento de cometer la infracción.
-
-(REUBICADO [N. DE E. ANTES ARTÍCULO 2.55], G.G. 30 DE SEPTIEMBRE DE 2010)
+74.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-74.- En caso de reincidencia se duplicará el monto de la multa que corresponda. Se entiende por reincidencia que el infractor cometa la misma violación a las disposiciones de este Título dos o más veces dentro del periodo de un año, contado a partir de la fecha en que se le hubiera notificado la sanción inmediata anterior.
-
-(REUBICADO [N. DE E. Y REFORMADO ANTES ARTÍCULO 2.56], G.G. 30 DE SEPTIEMBRE DE 2010)
+75.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 ###### Artículo 2.
 
-75.- Procederá la clausura temporal o definitiva, parcial o total, según la gravedad de la infracción y las características de la actividad o establecimiento, en los casos siguientes:
-
-> <small>(REFORMADA, G.G. 21 DE FEBRERO DE 2025)</small>
-
-I. Cuando los establecimientos a que se refieren los artículos 2.64 y 2.65 fracción I carezcan de la correspondiente autorización sanitaria;
-
-II. Cuando el peligro para la salud de las personas se origine por la violación reiterada de los preceptos de este Título y de las disposiciones que de él emanen, constituyendo rebeldía a cumplir los requerimientos y disposiciones de la autoridad sanitaria;
-
-III. Cuando después de la reapertura de un establecimiento, local, fábrica, construcción o edificio, con motivo de suspensión de trabajos o actividades, o clausura temporal, las actividades que en él se realicen sigan constituyendo un peligro para la salud;
-
-IV. Cuando por la peligrosidad de las actividades que se realicen o por la naturaleza del establecimiento, local, fábrica, construcción o edificio de que se trate, sea necesario proteger la salud de la población;
-
-V. Cuando se compruebe que las actividades que se realizan en un establecimiento violan las disposiciones sanitarias y constituyen un peligro grave para la salud; y
-
-VI. Reincidencia por tercera ocasión.
-
-VII. (DEROGADA, G.G. 18 DE DICIEMBRE DE 2014)
-
-(REUBICADO [N. DE E. Y REFORMADO ANTES ARTÍCULO 2.57], G.G. 30 DE SEPTIEMBRE DE 2010)
-
-###### Artículo 2.
-
-76.- Se sancionará con arresto hasta por treinta y seis horas:
-
-I. A la persona que interfiera o se oponga al ejercicio de las funciones de la autoridad sanitaria; y
-
-II. A la persona que en rebeldía se niegue a cumplir los requerimientos y disposiciones de la autoridad sanitaria, provocando con ello un peligro a la salud de las personas.
-
-Sólo procederá esta sanción si previamente se dictó, en tres ocasiones, cualesquiera de otras sanciones a que se refiere esta Sección.
-
-Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
+76.- (DEROGADO, G.G. 28 DE ABRIL DE 2026)
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.G. 5 DE ABRIL DE 2024)</small>
 
@@ -8453,9 +7251,9 @@ II. Coordinar y ejecutar las acciones y medidas de auxilio que se adopten en rel
 
 III. Ordenar medidas de seguridad para prevenir daños con motivo de la circulación de vehículos.
 
-> <small>(ADICIONADA, G.G. 25 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2026)</small>
 
-IV. Implementar y ejecutar medidas y programas permanentes, con fines de prevención de accidentes en materia vial para salvaguardar la integridad física y bienes de los conductores, sus familias y de la comunidad en general en términos de las disposiciones del Libro Segundo y de este Libro.
+IV. Implementar y ejecutar medidas y programas permanentes, con fines de prevención de accidentes en materia vial para salvaguardar la integridad física y bienes de los conductores, sus familias y de la comunidad en general en términos de las disposiciones de la Ley de Salud del Estado de México y de este Libro.
 
 > <small>(REFORMADO, G.G. 22 DE NOVIEMBRE DE 2023)</small>
 
@@ -19436,3 +18234,19 @@ G.G. 17 DE DICIEMBRE DE 2025.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 28 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 309.- POR EL QUE SE EXPIDE LA LEY DE SALUD DEL ESTADO DE MÉXICO; SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 8.10 Y SE DEROGA EL LIBRO SEGUNDO DE LA SALUD DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO; SE REFORMA EL PÁRRAFO TERCERO DE LA FRACCIÓN XI DEL ARTÍCULO 128 DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO; SE REFORMAN LAS FRACCIONES I, II, VII, VIII Y IX DEL ARTÍCULO 31 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO; SE REFORMAN LOS ARTÍCULOS 13 Y 29 DE LA LEY DE EVENTOS PÚBLICOS DEL ESTADO DE MÉXICO; SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 52 DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO; SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 72 DE LA LEY DE TURISMO SOSTENIBLE Y DESARROLLO ARTESANAL DEL ESTADO DE MÉXICO; SE REFORMA LA FRACCIÓN XXV BIS DEL ARTÍCULO 31 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO; Y SE REFORMAN LOS INCISOS A) Y H) DE LA FRACCIÓN II DEL ARTÍCULO 9 DE LA LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO. EXPOSICIONES DE MOTIVOS".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. Este Decreto entrará en vigor el día hábil siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan las disposiciones legales de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+CUARTO. El Ejecutivo Estatal expedirá y actualizará las disposiciones reglamentarias necesarias para dar cumplimiento al presente Decreto en un plazo no mayor a ciento ochenta días hábiles, contados a partir de su entrada en vigor.
+
+QUINTO. Las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación al Libro Segundo del Código Administrativo del Estado de México se entenderán hechas a la Ley de Salud del Estado de México.
+
+SEXTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad de recursos y se cubrirán con cargo al presupuesto aprobado a las dependencias o entidades competentes para el ejercicio fiscal en curso y subsecuentes.
