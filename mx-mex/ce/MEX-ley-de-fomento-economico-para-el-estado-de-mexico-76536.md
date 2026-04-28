@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fomento-economico-para-el-estado-de-mexico-76536"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-07"
-last_updated: "2024-04-05"
+last_updated: "2026-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE ABRIL DE 2026.
 
 Ley publicada en la Sección Tercera de la Gaceta de Gobierno del Estado de México, el martes 7 de septiembre de 2010.
 
@@ -1199,7 +1199,9 @@ V. Dictamen de Giro: Al documento de carácter permanente emitido por el Comité
 
 V Bis. Evaluación de Impacto Estatal: Al documento de carácter permanente emitido por la Comisión de Impacto Estatal, sustentado en una o más evaluaciones técnicas de impacto en materias de desarrollo urbano, protección civil, medio ambiente, comunicaciones, movilidad, agua, drenaje, alcantarillado y tratamiento de aguas residuales, previo análisis normativo multidisciplinario, según corresponda, cuya finalidad es determinar la factibilidad de proyectos nuevos, ampliaciones o actualizaciones, que por el uso o aprovechamiento del suelo generen efectos en la infraestructura, el equipamiento urbano, servicios públicos, en el entorno ambiental o protección civil, en términos de las disposiciones jurídicas aplicables;
 
-VI. Permiso sanitario de inicio de construcción y de ocupación de obra. Consiste en la autorización para que una persona física o jurídica colectiva, realice actividades relacionadas con el inicio y ocupación de obras de construcción, reconstrucción, modificación o acondicionamiento de determinados establecimientos, y que están reguladas por el Libro Segundo del Código Administrativo;
+> <small>(REFORMADA, G.G. 28 DE ABRIL DE 2026)</small>
+
+VI. Permiso sanitario de inicio de construcción y de ocupación de obra. Consiste en la autorización para que una persona física o jurídica colectiva, realice actividades relacionadas con el inicio y ocupación de obras de construcción, reconstrucción, modificación o acondicionamiento de determinados establecimientos, y que están reguladas por la Ley de Salud del Estado de México;
 
 VII. Licencia de uso de suelo. Consiste en la autorización para el uso y aprovechamiento con fines urbanos o la edificación en cualquier predio ubicado en la Entidad, que emite la autoridad estatal o, en su caso, la autoridad municipal correspondiente, de conformidad con lo establecido por el Libro Quinto del Código Administrativo;
 
@@ -2098,3 +2100,19 @@ DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la A
 DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
 
 DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
+
+G.G. 28 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 309.- POR EL QUE SE EXPIDE LA LEY DE SALUD DEL ESTADO DE MÉXICO; SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 8.10 Y SE DEROGA EL LIBRO SEGUNDO DE LA SALUD DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO; SE REFORMA EL PÁRRAFO TERCERO DE LA FRACCIÓN XI DEL ARTÍCULO 128 DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO; SE REFORMAN LAS FRACCIONES I, II, VII, VIII Y IX DEL ARTÍCULO 31 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO; SE REFORMAN LOS ARTÍCULOS 13 Y 29 DE LA LEY DE EVENTOS PÚBLICOS DEL ESTADO DE MÉXICO; SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 52 DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO; SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 72 DE LA LEY DE TURISMO SOSTENIBLE Y DESARROLLO ARTESANAL DEL ESTADO DE MÉXICO; SE REFORMA LA FRACCIÓN XXV BIS DEL ARTÍCULO 31 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO; Y SE REFORMAN LOS INCISOS A) Y H) DE LA FRACCIÓN II DEL ARTÍCULO 9 DE LA LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. Este Decreto entrará en vigor el día hábil siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. Se derogan las disposiciones legales de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+CUARTO. El Ejecutivo Estatal expedirá y actualizará las disposiciones reglamentarias necesarias para dar cumplimiento al presente Decreto en un plazo no mayor a ciento ochenta días hábiles, contados a partir de su entrada en vigor.
+
+QUINTO. Las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación al Libro Segundo del Código Administrativo del Estado de México se entenderán hechas a la Ley de Salud del Estado de México.
+
+SEXTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad de recursos y se cubrirán con cargo al presupuesto aprobado a las dependencias o entidades competentes para el ejercicio fiscal en curso y subsecuentes.
