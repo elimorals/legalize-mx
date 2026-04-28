@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-legislativo-del-estado-libre-y-6088"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-15"
-last_updated: "2026-04-14"
+last_updated: "2026-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE ABRIL DE 2026.
 
 Ley publicada en la Tercera Sección de la Gaceta del Gobierno del Estado de México, el viernes 15 de septiembre de 1995.
 
@@ -1237,9 +1237,13 @@ XXXVIII. Para la Protección de los Derechos de las Niñas, Niños, Adolescentes
 
 XXXIX. Para la Defensa de Derechos de las Poblaciones LGBTTIQ+;
 
-> <small>(ADICIONADA, G.G. 12 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADA, G.G. 28 DE ABRIL DE 2026)</small>
 
-XL. Para el Seguimiento al Plan de Desarrollo del Estado de México.
+XL. Para el Seguimiento al Plan de Desarrollo del Estado de México;
+
+> <small>(ADICIONADA, G.G. 28 DE ABRIL DE 2026)</small>
+
+XLI. De Seguimiento a los casos de Amnistía.
 
 > <small>(REFORMADO, G.G. 25 DE MARZO DE 2022)</small>
 
@@ -2868,3 +2872,13 @@ G.G. 14 DE ABRIL DE 2026.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 28 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 299.- POR EL QUE SE REFORMA LA FRACCIÓN XL DEL ARTÍCULO 69; Y SE ADICIONA LA FRACCIÓN XLI AL ARTÍCULO 69 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO; Y SE ADICIONA LA FRACCIÓN XLI AL ARTÍCULO 13 A DEL REGLAMENTO DEL PODER LEGISLATIVO DEL ESTADO LIBRE Y SOBERANO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. La Junta de Coordinación Política proveerá lo necesario para la integración e instalación de la Comisión de Seguimiento a los casos de Amnistía.
