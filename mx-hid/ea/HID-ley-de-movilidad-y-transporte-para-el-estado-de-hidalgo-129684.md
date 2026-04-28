@@ -4,7 +4,7 @@ identifier: "HID-ley-de-movilidad-y-transporte-para-el-estado-de-hidalgo-129684"
 country: "mx"
 rank: "ley"
 publication_date: "2018-07-30"
-last_updated: "2026-04-14"
+last_updated: "2026-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129684&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 30 de julio de 2018.
 
@@ -1107,7 +1107,9 @@ III. Interurbano. Es el que se presta entre dos o más ciudades;
 
 IV. Rural. Es el que se origina en una zona o comunidad rural que puede tener como destino otra zona rural o urbana; y
 
-V. Comunal indígena. Es el que se origina en una zona rural donde se establece un pueblo indígena cuyas condiciones socioeconómicas, orográficas, de accesibilidad y disponibilidad de transporte justifican la submodalidad, y que puede tener como destino una zona rural o urbana.
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2026)</small>
+
+V. Comunal indígena: Es el que se origina en una zona rural donde se establece un pueblo o comunidad indígena, cuyas condiciones socioeconómicas, orográficas de accesibilidad y disponibilidad de transporte justifican la submodalidad, y que puede tener como destino una zona rural o urbana.
 
 ###### Artículo 52.
 
@@ -3650,3 +3652,9 @@ P.O. 14 DE ABRIL DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 602 – LXVI QUE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 28 Y ADICIONA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 117 DE LA LEY (SIC) MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 28 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 616 – LXVI POR EL QUE SE REFORMA LA FRACCIÓN V DEL ARTÍCULO 51 DE LA LEY DE MOVILIDAD Y TRANSPORTE PARA EL ESTADO DE HIDALGO, EN MATERIA DE TRANSPORTE COMUNAL INDÍGENA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
