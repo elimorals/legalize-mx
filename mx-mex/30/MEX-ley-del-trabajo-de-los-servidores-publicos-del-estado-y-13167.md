@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-trabajo-de-los-servidores-publicos-del-estado-y-13167"
 country: "mx"
 rank: "ley"
 publication_date: "1998-10-23"
-last_updated: "2026-03-06"
+last_updated: "2026-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13167&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE ABRIL DE 2026.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 23 de octubre de 1998.
 
@@ -613,15 +613,13 @@ Asimismo, se otorgará a las personas servidoras públicas una licencia de tres 
 
 Para efectos de lo anterior, el servidor público deberá hacerlo del conocimiento a su superior jerárquico, por la vía que considere más oportuna, el primer día de su ausencia y deberá exhibir copia simple del documento en que conste tal suceso, en un plazo no mayor de quince días naturales a partir del primer día hábil de su reingreso.
 
-> <small>(ADICIONADO, G.G. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2026)</small>
 
-Artículo 65 BIS. Las instituciones públicas estatales y municipales, en el ámbito de sus competencias y en términos de las disposiciones que al efecto emitan, promoverán y otorgarán autorizaciones con goce de sueldo íntegro, en los siguientes casos:
+Artículo 65 BIS. Las instituciones públicas estatales y municipales, en el ámbito de sus competencias y en términos de las disposiciones que al efecto emitan, promoverán y otorgarán autorizaciones con goce de sueldo íntegro a las Personas Servidoras Públicas, sin importar la edad, para que puedan gozar, por lo menos de un día al año para someterse a la realización de estudios preventivos o de detección de enfermedades transmisibles o no transmisibles.
 
-I. A las servidoras públicas para que puedan acudir anualmente a instituciones médicas a realizarse estudios preventivos de cáncer de mama después de los 40 años y cervicouterino por prescripción médica, y
+Dichas autorizaciones deberán justificarse con los certificados, constancias de estudios, o el instrumento que al efecto se determine, de conformidad con las disposiciones jurídicas aplicables de la institución pública.
 
-II. A los servidores públicos a partir de los 40 años, para la realización de estudios correspondientes a la detección oportuna del cáncer de próstata.
-
-Las instituciones públicas preferentemente establecerán un calendario durante el mes de octubre de cada año, a fin de que, atendiendo a la naturaleza de las actividades que desempeñen, gradualmente se otorguen las autorizaciones a favor de las Personas Servidoras Públicas.
+Las instituciones públicas, preferentemente, establecerán un calendario, a fin de que, atendiendo a la naturaleza de las actividades que desempeñen y de los estudios, gradualmente se otorguen las autorizaciones a favor de las Personas Servidoras Públicas.
 
 ###### Artículo 66.
 
@@ -3732,3 +3730,15 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Las autoridades estatales y municipales deberán adecuar sus reglamentos, lineamientos y disposiciones administrativas en un plazo no mayor a 60 días naturales, contados a partir de la entrada en vigor del presente Decreto, de conformidad con lo previsto en el mismo.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.G. 28 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 302.- POR EL QUE SE REFORMA EL ARTÍCULO 65 BIS DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
