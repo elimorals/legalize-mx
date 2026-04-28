@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-educacion-del-estado-de-mexico-171841"
 country: "mx"
 rank: "ley"
 publication_date: "2024-02-29"
-last_updated: "2025-12-17"
+last_updated: "2026-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=171841&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2026.
 
 Ley publicada en la Sección Segunda del Número 39 de la Gaceta del Gobierno del Estado de México, el jueves 29 de febrero de 2024.
 
@@ -987,9 +987,25 @@ VI. Promover su formación, capacitación y actualización de acuerdo con su eva
 
 VII. Impulsar su capacidad para la toma de decisiones cotidianas respecto a la planeación educativa;
 
-VIII. Otorgar, en términos de las disposiciones aplicables, un salario profesional digno, que permita a las maestras y los maestros de los planteles del Estado alcanzar un nivel de vida decoroso para ellos y su familia; arraigarse en las comunidades en las que trabajan y disfrutar de vivienda digna; así como disponer del tiempo necesario para la preparación de las clases que impartan y realizar actividades destinadas a su desarrollo personal y profesional, y
+> <small>(REFORMADA, G.G. 28 DE ABRIL DE 2026)</small>
 
-IX. Respetar sus derechos reconocidos en las disposiciones legales aplicables.
+VIII. Otorgar, en términos de las disposiciones aplicables, un salario profesional digno, que permita a las maestras y los maestros de los planteles del Estado alcanzar un nivel de vida decoroso para ellos y su familia; arraigarse en las comunidades en las que trabajan y disfrutar de vivienda digna; así como disponer del tiempo necesario para la preparación de las clases que impartan y realizar actividades destinadas a su desarrollo personal y profesional;
+
+> <small>(REFORMADA, G.G. 28 DE ABRIL DE 2026)</small>
+
+IX. Respetar sus derechos reconocidos en las disposiciones legales aplicables;
+
+> <small>(ADICIONADA, G.G. 28 DE ABRIL DE 2026)</small>
+
+X. Colaborar con los Institutos de Salud en la promoción protección y atención de la salud mental, así como el apoyo psicosocial de las maestras y los maestros, para favorecer su bienestar personal y profesional, la calidad en la enseñanza y un clima laboral que permita el sano desarrollo de la comunidad educativa, conforme a los planes y programas que determinen los Institutos de Salud;
+
+> <small>(ADICIONADA, G.G. 28 DE ABRIL DE 2026)</small>
+
+XI. Colaborar con los Institutos de Salud en los planes y programas para el acceso de las maestras y los maestros a servicios de salud mental y apoyo psicosocial, en modalidades presencial, telefónica o en línea; y
+
+> <small>(ADICIONADA, G.G. 28 DE ABRIL DE 2026)</small>
+
+XII. Impulsar la adopción de protocolos de actuación para la prevención y atención de casos de violencia contra las maestras y los maestros, en los casos que resulte procedente.
 
 ###### Artículo 95.
 
@@ -1812,3 +1828,11 @@ G.G. 17 DE DICIEMBRE DE 2025.
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 28 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 304.- POR EL QUE SE REFORMAN LAS FRACCIONES VIII Y IX DEL ARTÍCULO 94 Y SE ADICIONAN LAS FRACCIONES X, XI Y XII AL ARTÍCULO 94 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
