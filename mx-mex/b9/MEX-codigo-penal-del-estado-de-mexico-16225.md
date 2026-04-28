@@ -4,7 +4,7 @@ identifier: "MEX-codigo-penal-del-estado-de-mexico-16225"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-03-20"
-last_updated: "2026-03-20"
+last_updated: "2026-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MEX"
 
 CÓDIGO PENAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 20 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE ABRIL DE 2026.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el lunes 20 de marzo del 2000.
 
@@ -467,11 +467,11 @@ VII. Tratamiento.
 
 ### CAPITULO I. PRISION
 
-> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2026)</small>
 
 ###### Artículo 23.
 
-La prisión consiste en la privación de la libertad, la que podrá ser de tres meses a vitalicia, entendiéndose por ésta una duración igual a la vida del sentenciado, y se cumplirá en los términos y con las modalidades previstas en las leyes de la materia.
+La prisión consiste en la privación de la libertad, la que podrá ser de tres meses a setenta años y se cumplirá en los términos y con las modalidades previstas en las leyes de la materia.
 
 SUBTITULO PRIMERO
 
@@ -971,11 +971,11 @@ Cuando la capacidad de comprender el carácter ilícito del hecho típico no pue
 
 ### CAPITULO V. CASOS DE CONCURSO
 
-> <small>(REFORMADO, G.G. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2026)</small>
 
 ###### Artículo 68.
 
-En caso de concurso se impondrá la pena correspondiente al delito que merezca la mayor, la que deberá aumentarse inclusive hasta la suma de las penas de los demás delitos sin que el total exceda de setenta años de prisión, salvo en los casos previstos en este Código, en que se imponga la pena de prisión vitalicia.
+En caso de concurso se impondrá la pena correspondiente al delito que merezca la mayor, la que deberá aumentarse inclusive hasta la suma de las penas de los demás delitos sin que el total exceda de setenta años de prisión.
 
 ### CAPITULO VI. CASOS DE REINCIDENCIA Y HABITUALIDAD
 
@@ -1397,9 +1397,9 @@ La rehabilitación tiene por objeto reintegrar al sentenciado en el ejercicio de
 
 La prescripción extingue la pretensión punitiva y las penas.
 
-> <small>(REFORMADO, G.G. 14 DE MARZO DE 2016)</small>
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2026)</small>
 
-Serán imprescriptibles los delitos que establezcan como pena máxima la prisión vitalicia y aquellos que sean en perjuicio de niñas, niños, adolescentes y mujeres víctimas de violencia de género.
+Serán imprescriptibles los delitos que establezcan como pena máxima setenta años y aquellos que sean en perjuicio de niñas, niños, adolescentes y mujeres víctimas de violencia de género.
 
 ###### Artículo 95.
 
@@ -3769,23 +3769,21 @@ I. Al responsable de homicidio simple, se le impondrán de diez a quince años d
 
 Cuando el homicidio se cometa contra una persona en ejercicio de la actividad periodística o persona defensora de derechos humanos, se le impondrán de quince a veinticinco años de prisión y de cuatrocientos a seiscientos cincuenta días multa;
 
-> <small>(REFORMADA, G.G. 20 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.G. 28 DE ABRIL DE 2026)</small>
 
-II. Al responsable de homicidio calificado, se le impondrán de cuarenta a setenta años de prisión o prisión vitalicia y de setecientos a cinco mil días multa;
+II. Al responsable de homicidio calificado, se le impondrán de veinticinco a setenta años de prisión y de setecientos a cinco mil días multa;
 
-> <small>(REFORMADA, G.G. 20 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.G. 28 DE ABRIL DE 2026)</small>
 
-III. Al responsable de homicidio cometido en contra de su cónyuge, concubina, concubinario, ascendientes, descendientes consanguíneos en línea recta o hermanos, teniendo conocimiento el inculpado del parentesco, se le impondrán de cuarenta a setenta años de prisión o prisión vitalicia y de setecientos a cinco mil días multa; y
+III. Al responsable de homicidio cometido en contra de su cónyuge, concubina, concubinario, ascendientes, descendientes consanguíneos en línea recta o hermanos, teniendo conocimiento el inculpado del parentesco, se le impondrán de cuarenta a setenta años de prisión y de setecientos a cinco mil días multa;
 
-> <small>(ADICIONADA, G.G. 20 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.G. 28 DE ABRIL DE 2026)</small>
 
-IV. Al responsable del homicidio de dos o más personas, en el mismo o en distintos hechos, se le impondrán de cuarenta a setenta años de prisión o prisión vitalicia y de setecientos a cinco mil días multa.
+IV. Al responsable del homicidio de dos o más personas, en el mismo o en distintos hechos, se le impondrán de veinticinco a setenta años de prisión y de setecientos a cinco mil días multa; y
 
-(NOTA: EL 28 DE ENERO DE 2025 EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 78/2019, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN V DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 13 DE JUNIO DE 2019, FECHA EN LA QUE ENTRÓ EN VIGOR EL DECRETO NÚMERO 48, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADA, G.G. 28 DE ABRIL DE 2026)</small>
 
-> <small>(ADICIONADA, G.G. 12 DE JUNIO DE 2019)</small>
-
-V. Al responsable del delito de homicidio con ensañamiento, crueldad o de odio manifiesto motivado por discriminación, aversión o rechazo a la víctima por su condición social o económica, religión, origen étnico, raza, discapacidad, orientación sexual o identidad de género de la víctima, se le impondrán de cuarenta a sesenta años de prisión O PRISIÓN VITALICIA y de setecientos a cinco mil días multa.
+V. Al responsable del delito de homicidio con ensañamiento, crueldad o de odio manifiesto motivado por discriminación, aversión o rechazo a la víctima por su condición social o económica, religión, origen étnico, raza, discapacidad, orientación sexual o identidad de género de la víctima, se le impondrán de cuarenta a sesenta años de prisión y de setecientos a cinco mil días multa.
 
 > <small>(DEROGADO, G.G. 14 DE MARZO DE 2016)</small>
 
@@ -4475,9 +4473,9 @@ Artículo 273 BIS.- (DEROGADO, G.G. 29 DE AGOSTO DE 2007)
 
 Son circunstancias que modifican el delito de violación:
 
-> <small>(REFORMADA, G.G. 20 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.G. 28 DE ABRIL DE 2026)</small>
 
-I. Cuando en la comisión del delito de violación participen dos o más personas se impondrán de cuarenta a setenta años de prisión o prisión vitalicia y de seiscientos a cuatro mil días multa;
+I. Cuando en la comisión del delito de violación participen dos o más personas se impondrán de cuarenta a setenta años de prisión y de seiscientos a cuatro mil días multa;
 
 > <small>(REFORMADA, G.G. 6 DE MARZO DE 2010)</small>
 
@@ -4487,9 +4485,9 @@ II. Si el delito fuere cometido por uno de los cónyuges, por un ascendiente con
 
 III. Cuando el delito de violación sea cometido por quien desempeña un empleo, cargo o comisión públicos o ejerza una profesión utilizando los vehículos oficiales, circunstancias o cualquier medio que éstos le proporcionen, además de las sanciones previstas en el artículo 273, se aumentará la pena hasta en una mitad, también será destituido del cargo o empleo o suspendido hasta por el término de diez años en el ejercicio de su profesión, independientemente de las sanciones a que se haga acreedor;
 
-> <small>(REFORMADA, G.G. 20 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, G.G. 28 DE ABRIL DE 2026)</small>
 
-IV. Cuando por razón del delito de violación se causare la muerte, se impondrán de cuarenta a setenta años de prisión o prisión vitalicia y de setecientos a cinco mil días multa;
+IV. Cuando por razón del delito de violación se causare la muerte, se impondrán de cuarenta a setenta años de prisión y de setecientos a cinco mil días multa;
 
 > <small>(REFORMADA, G.G. 1 DE OCTUBRE DE 2010)</small>
 
@@ -4657,9 +4655,9 @@ VII. El cuerpo de la víctima sea expuesto o exhibido en un lugar público.
 
 VIII. Como resultado de violencia de género, pudiendo ser el sujeto activo persona conocida o desconocida y sin ningún tipo de relación.
 
-> <small>(REFORMADO, G.G. 12 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2026)</small>
 
-En los casos a que se refiere este artículo, la penalidad será de cuarenta a setenta años de prisión o prisión vitalicia y de setecientos a cinco mil días multa, misma pena se aplicará, cuando se cometa frente a las hijas o hijos de la víctima directa.
+En los casos a que se refiere este artículo, la penalidad será de cuarenta a setenta años de prisión y de setecientos a cinco mil días multa, misma pena se aplicará, cuando se cometa frente a las hijas o hijos de la víctima directa.
 
 > <small>(REFORMADO, G.G. 12 DE DICIEMBRE DE 2023)</small>
 
@@ -4883,9 +4881,9 @@ A) Violencia sobre los bienes, se impondrán de 15 a 22 años de prisión y mult
 
 B) Violencia sobre las personas, se impondrán de 20 a 30 años de prisión y multa de uno a tres veces el valor de lo robado sin que exceda de dos mil días de multa.
 
-> <small>(REFORMADA, G.G. 20 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.G. 28 DE ABRIL DE 2026)</small>
 
-IV. Cuando por motivo del delito de robo se causare la muerte, se impondrán de cuarenta a setenta años de prisión o prisión vitalicia y de setecientos a cinco mil días multa;
+IV. Cuando por motivo del delito de robo se causare la muerte, se impondrán de veinticinco a setenta años de prisión y de setecientos a cinco mil días multa;
 
 > <small>(REFORMADA, G.G. 20 DE SEPTIEMBRE DE 2018)</small>
 
@@ -8192,3 +8190,15 @@ Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno�
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 28 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 310.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 23 Y 68, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 94, LAS FRACCIONES II, III, IV Y V DEL ARTÍCULO 242, LAS FRACCIONES I Y IV DEL ARTÍCULO 274, EL PÁRRAFO SEGUNDO DEL ARTÍCULO 281 Y LA FRACCIÓN IV DEL ARTÍCULO 290 DEL CÓDIGO PENAL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO. En los procesos penales en los que se hubiera impuesto la pena de prisión vitalicia, por la vía incidental, la autoridad jurisdiccional deberá revisar y adecuar la pena de prisión impuesta conforme al grado de culpabilidad establecido en cada caso concreto y de acuerdo con el parámetro de punibilidad contemplado en el delito de que se trate.
+
+CUARTO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad de recursos y se cubrirán con cargo al presupuesto aprobado a las dependencias o entidades competentes para el ejercicio fiscal en curso y subsecuentes.
