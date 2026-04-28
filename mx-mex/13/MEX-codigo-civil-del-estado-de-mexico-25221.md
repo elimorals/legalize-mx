@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2026-04-10"
+last_updated: "2026-04-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 10 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 28 DE ABRIL DE 2026.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -369,13 +369,17 @@ Concepto del nombre de las personas
 
 Composición del nombre de las personas físicas
 
-> <small>(REFORMADO, G.G. 8 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 28 DE ABRIL DE 2026)</small>
 
 ###### Artículo 2.
 
-14.- El nombre de las personas físicas se forma con el sustantivo propio y el primer apellido del padre y el primer apellido de la madre, en el orden que, de común acuerdo determinen. En el caso de que el padre y la madre no lleguen a un acuerdo respecto del orden que deben seguir los apellidos del hijo o hija, el apellido paterno aparecerá en primer lugar y el apellido materno en segundo lugar.
+14.- El nombre de las personas físicas se forma con el sustantivo propio y un apellido de la madre, y un apellido del padre, siendo elección libre de las personas progenitoras cuál de sus apellidos asignarán, así como el orden que de común acuerdo determinen. En el caso de que el padre y la madre no lleguen a un acuerdo respecto del orden que deben seguir los apellidos del hijo o hija, se asentará en primer lugar el apellido que la madre determine de entre los suyos, y en segundo lugar el apellido que el padre determine de entre los suyos.
+
+> <small>(REFORMADO, G.G. 8 DE MAYO DE 2015)</small>
 
 El orden de los apellidos acordado entre padre y madre se considerará preferentemente para los demás hijos e hijas del mismo vínculo.
+
+> <small>(REFORMADO, G.G. 8 DE MAYO DE 2015)</small>
 
 Cuando solo lo reconozca uno de ellos se formará con los apellidos de este, en el mismo orden, con las salvedades que establece el Libro Tercero de este Código.
 
@@ -575,11 +579,11 @@ En el momento del parto, la madre podrá solicitar que se preserve el secreto de
 
 Contenido del acta de nacimiento
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 4 DE FEBRERO DE 2026)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 28 DE ABRIL DE 2026)</small>
 
 ###### Artículo 3.
 
-10.- El acta de nacimiento contendrá lugar y fecha de registro, fecha, hora y lugar del nacimiento, el sexo del presentado, el nombre del registrado, de conformidad con las reglas establecidas en este Código, la razón de si es presentado vivo o muerto, la impresión de la huella digital si está vivo y la Clave Única de Registro de Población con datos biométricos.
+10.- El acta de nacimiento contendrá lugar y fecha de registro, fecha, hora y lugar del nacimiento, el sexo de la persona presentada, conforme los datos contenidos en el certificado médico o constancia de alumbramiento, el nombre de la persona registrada, de conformidad con las reglas establecidas en este Código, la razón de si es presentada viva o muerta, la impresión de la huella digital si está viva y la Clave Única de Registro de Población.
 
 > <small>(ADICIONADO, G.G. 27 DE AGOSTO DE 2021)</small>
 
@@ -847,6 +851,10 @@ VIII. Nombre, número de cédula profesional, domicilio del médico que certifiq
 
 IX. Datos generales del declarante.
 
+> <small>(ADICIONADA, G.G. 28 DE ABRIL DE 2026)</small>
+
+X. La firma de la persona Oficial del Registro Civil y del declarante, si supiere o pudiere hacerlo o, en su caso, imprimirá su huella digital.
+
 Aviso al Ministerio Público de muerte violenta
 
 ###### Artículo 3.
@@ -1073,7 +1081,9 @@ VI. NO ESTAR SUJETO O SUJETA A PROCESO JUDICIAL QUE AFECTÉ DERECHOS DE TERCEROS
 
 El reconocimiento respectivo se llevará a cabo ante las instancias y las autoridades correspondientes del Registro Civil del Estado de México, cumpliendo con todas las formalidades que exige el Reglamento del Registro Civil del Estado de México.
 
-Para los efectos de este código se entiende por identidad de género, la convicción personal e interna, tal como cada persona se percibe a sí misma, la cual puede corresponder o no, al sexo asignado en el acta primigenia. En ningún caso será requisito acreditar intervención quirúrgica alguna, terapias u otro diagnóstico y/o procedimiento para el reconocimiento de la identidad de género.
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2026)</small>
+
+Para los efectos de este código se entiende por identidad de género, la convicción personal e interna, tal como cada persona se percibe a sí misma, la cual puede corresponder o no, al sexo asignado en el acta primigenia, incluyendo la identidad no binaria. En ningún caso será requisito acreditar intervención quirúrgica alguna, terapias u otro diagnóstico y/o procedimiento para el reconocimiento de la identidad de género.
 
 Los efectos de la nueva acta de nacimiento para identidad de género realizados serán oponibles a terceros desde de (sic) su rectificación.
 
@@ -1187,7 +1197,9 @@ I. Ante el Titular o los oficiales del Registro Civil;
 
 II. Con la presencia de los contrayentes, en el lugar, día y hora, designados.
 
-III. (DEROGADA, G.G. 7 DE MAYO DE 2015)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 28 DE ABRIL DE 2026)</small>
+
+III. En caso de que alguno de los contrayentes o ambos se encuentre inscrito en algún registro de obligaciones alimentarias se deberá hacerlo del conocimiento de la otra parte;
 
 > <small>(REFORMADA, G.G. 7 DE MAYO DE 2015)</small>
 
@@ -1199,9 +1211,9 @@ V. (DEROGADA, G.G. 7 DE MAYO DE 2015)
 
 VI. En caso de no existir impedimento, se hará saber a los contrayentes los derechos y obligaciones del matrimonio y preguntará a cada uno de ellos si es su voluntad unirse en matrimonio, estando conformes, los declarará unidos en nombre de la Ley y la sociedad, firmando el acta correspondiente.
 
-> <small>(ADICIONADO, G.G. 15 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 28 DE ABRIL DE 2026)</small>
 
-El Oficial del Registro Civil proporcionará a los futuros contrayentes cursos que deberán contener la información sobre los derechos y obligaciones que se derivan del matrimonio, apartados de salud reproductiva, la igualdad y la equidad de género, así como la prevención de la violencia familiar, para lo cual se auxiliará de los sistemas para el desarrollo integral de la familia.
+El Oficial del Registro Civil proporcionará a los futuros contrayentes cursos que deberán contener la información sobre los derechos y obligaciones que se derivan del matrimonio, apartados de salud reproductiva, la igualdad y la equidad de género, así como la prevención de la violencia familiar, para lo cual se auxiliará de los Sistemas para el Desarrollo Integral de la Familia, estatal o municipales.
 
 Irrenunciables los fines del matrimonio
 
@@ -19034,3 +19046,13 @@ Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno�
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 28 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 306.- POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DEL ARTÍCULO 2.14, EL PÁRRAFO PRIMERO DEL ARTÍCULO 3.10, EL PÁRRAFO TERCERO DEL ARTÍCULO 3.42, LA FRACCIÓN III Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 4.2, Y SE ADICIONA LA FRACCIÓN X DEL ARTÍCULO 3.29 DEL CÓDIGO CIVIL DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se sujetarán a la disponibilidad presupuestaria y financiera; y deberán cubrirse con cargo al presupuesto aprobado al ente público competente para el ejercicio fiscal en curso y subsecuentes.
