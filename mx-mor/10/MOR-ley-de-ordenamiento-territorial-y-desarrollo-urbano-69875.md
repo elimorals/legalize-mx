@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-ordenamiento-territorial-y-desarrollo-urbano-69875"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-26"
-last_updated: "2022-08-24"
+last_updated: "2026-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE AGOSTO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 26 de agosto de 2009.
 
@@ -365,13 +365,25 @@ XVI. Convenir con el Ejecutivo del Estado para que éste asuma funciones y/o ser
 
 XVII. (DEROGADA, P.O. 30 DE OCTUBRE DE 2013)
 
-> <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2026)</small>
 
-XVIII. Contratar las asesorías, consultorías y estudios que se requieran en materia de planeación urbana y metropolitana considerando para tal efecto, las disposiciones legales y reglamentarias para la contratación.
+XVIII. Contratar las asesorías, consultorías y estudios que se requieran en materia de planeación urbana y metropolitana considerando para tal efecto, las disposiciones legales y reglamentarias para la contratación;
 
-XIX. Informar y difundir permanentemente sobre la aplicación de los programas de desarrollo urbano sustentable, y
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2026)</small>
 
-XX. Las demás que les señale esta Ley y otras disposiciones jurídicas aplicables.
+XIX. Informar y difundir permanentemente sobre la aplicación de los programas de desarrollo urbano sustentable;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2026)</small>
+
+XX. Determinar, en su normativa reglamentaria, procedimientos y sanciones aplicables, incluidas multas de cien a mil veces el valor diario de la UMA, clausuras y decomisos, por incumplimiento a disposiciones en materia de desarrollo urbano, construcción, imagen urbana y, en especial, por la colocación de propaganda en contravención al artículo 87 Bis de esta Ley;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2026)</small>
+
+XXI. Ordenar el retiro de instalaciones y propaganda colocada de forma ilegal, así como la reparación de daños, cuyo costo será cubierto por la persona física o moral responsable, partido político o anunciante; y,
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2026)</small>
+
+XXII. Las demás que les señale esta Ley y disposiciones jurídicas aplicables.
 
 Los municipios ejercerán sus atribuciones en materia de desarrollo urbano a través de los cabildos de los ayuntamientos o con el control y evaluación de éstos.
 
@@ -1122,6 +1134,34 @@ El Gobierno del Estado y los municipios, en coordinación con las instancias fed
 ###### Artículo 87.
 
 La imagen urbana se inscribirá en las políticas de conservación, mejoramiento y crecimiento de los centros de población y será un componente de los programas de desarrollo urbano sustentable.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2026)</small>
+
+###### Artículo 87 Bis.
+
+Se prohíbe en el territorio del Estado de Morelos la colocación, fijación, adhesión, pintura o cualquier forma de sujeción de propaganda política, comercial, de servicios o de cualquier naturaleza en:
+
+I. Postes de energía eléctrica y telecomunicaciones;
+
+II. Semáforos y señales de tránsito;
+
+III. Árboles y áreas verdes de la vía pública;
+
+IV. Puentes peatonales y vehiculares; y,
+
+V. Los elementos de equipamiento urbano no destinado expresamente para uso publicitario que establece la Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2026)</small>
+
+###### Artículo 87 Ter.
+
+La autoridad municipal competente ordenará y ejecutará el retiro inmediato de la propaganda colocada en contravención al artículo 87 Bis, sin perjuicio de otras sanciones.
+
+El costo de retiro, limpieza y reparación será cubierto por la persona responsable, partido político o anunciante.
+
+Las infracciones serán sancionadas con multa de cien a mil veces el valor diario de la UMA vigente en el Estado.
+
+Se exceptúa de lo previsto en esta disposición a la propaganda político-electoral colocada durante los Procesos Electorales, respecto de la cual la competencia, el retiro y el régimen sancionatorio quedarán sujetos a lo establecido por el Código de Instituciones y Procedimientos Electorales para el Estado de Morelos.
 
 ###### Artículo 88.
 
@@ -2364,3 +2404,15 @@ PRIMERO.- Remítase el presente al titular del Poder Ejecutivo del Estado, para 
 SEGUNDO.- El presente decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado de Morelos.
 
 TERCERA.- Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente decreto.
+
+P.O. 29 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO MIL CIENTO TREINTA Y CINCO.- POR EL QUE SE REFORMAN LAS FRACCIONES XVIII Y XIX, SE ADICIONAN LAS FRACCIONES XX Y XXI AL ARTÍCULO 8, RECORRIÉNDOSE LAS SUBSECUENTES, Y SE ADICIONAN LOS ARTÍCULOS 87 BIS Y 87 TER, TODOS DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto a la persona titular del Poder Ejecutivo Estatal para su publicación en el Periódico Oficial “Tierra y Libertad”.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERA. Los municipios deberán adecuar su normativa en un plazo máximo de noventa días naturales, a partir de la entrada en vigor del presente decreto.
+
+CUARTA. Se derogan las disposiciones que se opongan al presente Decreto.
