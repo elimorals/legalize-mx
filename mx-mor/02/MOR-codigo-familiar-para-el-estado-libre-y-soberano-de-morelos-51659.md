@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2026-03-18"
+last_updated: "2026-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2026.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -2225,9 +2225,11 @@ III.- Por la mayor edad del sujeto a patria potestad; y
 
 IV.- Por cese de la incapacidad del mayor sujeto a ella.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2026)</small>
+
 ###### ARTÍCULO 247.
 
-PÉRDIDA DE LA PATRIA POTESTAD. La patria potestad se pierde por cualquiera de las siguientes causas:
+La patria potestad se pierde por cualquiera de las siguientes causas:
 
 I.- Cuando el que la ejerza es condenado judicialmente a la pérdida de ese derecho, o cuando es condenado dos o más veces por delitos graves;
 
@@ -2245,11 +2247,13 @@ IV.- Por la exposición o el abandono que dure treinta días naturales en forma 
 
 V.- Por el abandono por parte de sus progenitores de una niña o niño recién nacido, cualquiera que sea el lapso; y
 
-> <small>(ADICIONADA, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2026)</small>
 
-VI.- Cuando el que la ejerza es condenado judicialmente por los delitos de feminicidio o tentativa de feminicidio en contra de la madre de las niñas, niños y adolescentes sujetos a patria potestad.
+VI.- Cuando el que la ejerza es condenado judicialmente por los delitos de feminicidio o tentativa de feminicidio en contra de la madre de las niñas, niños y adolescentes sujetos a patria potestad; y
 
-En el caso de ulteriores nupcias de quien ejerza la patria potestad, no confiere al cónyuge nuevo el derecho de su ejercicio respecto de las personas que están sujetas a ella.
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2026)</small>
+
+VII.- Por sentencia firme que declare la responsabilidad penal de quien ejerce la patria potestad por el delito de abuso sexual en contra de la niña, niño o adolescente sujeto a ella.
 
 ###### ARTÍCULO 248.
 
@@ -4225,7 +4229,9 @@ INCAPACIDAD PARA HEREDAR POR LA COMISIÓN DE UN DELITO O ACTO ILÍCITO. Por raz�
 
 I.- El que haya sido condenado por haber dado, mandado o intentado dar muerte a la persona de cuya sucesión se trate, o a los padres, hijos, cónyuge, o hermanos de ella;
 
-II.- El que haya presentado contra el autor de la sucesión, sus ascendientes, descendientes, hermanos o cónyuge, acusación de delito que merezca pena de prisión aun cuando aquélla sea fundada, si fuere su descendiente, su ascendiente, su cónyuge o su hermano; a no ser que ese acto haya sido preciso para que el acusador salvara su vida, su honra, o las de las personas antes señaladas; así como también cuando la acusación es declarada calumniosa, aunque el autor de la herencia no fuere descendiente, ascendiente, cónyuge, o hermano del acusador;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2026)</small>
+
+II.- El que haya presentado contra el autor de la sucesión, sus ascendientes, descendientes, hermanos o cónyuge, concubina o concubino, acusación de delito que merezca pena de prisión aun cuando aquélla sea fundada, siempre que la denuncia se presente en vida de éstos, a no ser que ese acto haya sido preciso para que el acusador salvara su vida, su honra, o de sus descendientes, ascendientes, hermanos, cónyuge, concubina o concubino; así como también cuando la acusación es declarada calumniosa.
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2020)</small>
 
@@ -7362,3 +7368,21 @@ PRIMERA. Remítase el presente decreto a la Persona Titular del Poder Ejecutivo 
 SEGUNDA. El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión de Gobierno del Estado.
 
 TERCERA. El presente decreto deroga todas las disposiciones legales de igual o menor rango, que se opongan o contradigan a este.
+
+P.O. 29 DE ABRIL DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NÚMERO MIL CIENTO TREINTA POR EL QUE SE ADICIONA UNA FRACCIÓN VII AL ARTÍCULO 247 DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS, PARA ESTABLECER EL DELITO DE ABUSO SEXUAL COMO CAUSAL DE PÉRDIDA DE LA PATRIA POTESTAD".]</small>
+
+PRIMERA. Remítase el presente decreto a la persona Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERA. Se derogan las disposiciones de igual o menor jerarquía que se contrapongan al presente decreto.
+
+P.O. 29 DE ABRIL DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NÚMERO MIL CIENTO TREINTA Y UNO.- POR EL QUE SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 506 DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS".]</small>
+
+PRIMERA. Remítase el presente decreto a la persona Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
