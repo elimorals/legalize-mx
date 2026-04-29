@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-aguas-del-estado-de-tamaulipas-50116"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-15"
-last_updated: "2026-02-24"
+last_updated: "2026-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50116&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE AGUAS DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 15 de febrero de 2006.
 
@@ -2689,11 +2689,15 @@ Todos los usuarios que se encuentren en el supuesto del párrafo anterior, estar
 
 1. A los usuarios domésticos que consuman un máximo de 10 metros cúbicos de agua mensuales se les cobrará una cuota mínima que no podrá ser mayor al valor diario de la Unidad de Medida y Actualización.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2026)</small>
 
-2. La cuota señalada en el párrafo anterior, representará un subsidio de parte del prestador de los servicios por concepto del uso eficiente del agua, para los usuarios de menores ingresos, personas con discapacidad y de la tercera edad que hagan uso eficiente del agua.
+2. La cuota señalada en el párrafo anterior, representará un subsidio de parte del prestador de los servicios por concepto del uso eficiente del agua, para los usuarios de menores ingresos, personas con discapacidad y personas adultas mayores que hagan uso eficiente del agua.
 
 3. Lo establecido en este artículo solo podrá aplicarse cuando en el predio respectivo exista un aparato medidor de flujos de agua para comprobar que el consumo mensual no exceda a lo establecido en el párrafo 1 anterior.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2026)</small>
+
+4. Los Organismos Operadores de Agua, deberán informar a las personas adultas mayores y personas con discapacidad, los beneficios de contar en su domicilio, con aparato medidor de flujos de agua.
 
 ###### Artículo 147.
 
@@ -3844,6 +3848,14 @@ En las disposiciones transitorias de las diversas leyes y códigos en las que se
 P.O. 24 DE FEBRERO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-973 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 32, FRACCIÓN XX; 34 PÁRRAFO ÚNICO Y SU FRACCIÓN XXII; Y 149; Y SE ADICIONAN UNA FRACCIÓN XXI, RECORRIÉNDOSE LA SUBSECUENTE EN SU ORDEN NATURAL AL ARTÍCULO 32; Y LA FRACCIÓN XXIII, RECORRIÉNDOSE LA SUBSECUENTE EN SU ORDEN NATURAL AL ARTÍCULO 34 DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 66-1053 MEDIANTE EL CUAL SE REFORMA EL NUMERAL 2; Y SE ADICIONA UN NUMERAL 4, AL ARTÍCULO 146 DE LA LEY DE AGUAS DEL ESTADO DE TAMAULIPAS”.]
 
 ###### ARTÍCULO ÚNICO.
 
