@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2026-04-08"
+last_updated: "2026-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2026.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -102,6 +102,10 @@ Dichos entes emitirán la normatividad interna y mecanismos que mejor se adapten
 > <small>(ADICIONADO, P.O. 4 DE MARZO DE 2021)</small>
 
 Se fomentará como política gubernamental el gobierno abierto, consistente en propiciar el trabajo colaborativo con la sociedad en general, enfocado a generar alternativas de solución a los problemas, demandas y necesidades sociales.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2026)</small>
+
+Asimismo, se promoverá el aprovechamiento de las energías limpias y renovables en la entidad, integrándolo como criterio transversal dentro del sistema estatal de planeación democrática para impulsar un desarrollo sustentable.
 
 ### CAPITULO II. De los tamaulipecos
 
@@ -303,9 +307,9 @@ Las normas relativas a los derechos humanos se interpretarán de conformidad con
 
 Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado de Tamaulipas deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley.
 
-> <small>(REFORMADO, P.O. 24 DE JUNIO DE 2025)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2026)</small>
 
-En Tamaulipas se adoptarán las medidas legislativas y ejecutivas necesarias para lograr, progresivamente y mediante la aplicación de los máximos recursos disponibles a la luz de las finanzas públicas, la plena efectividad de los derechos sociales materia de su competencia conforme a los órdenes jurídicos nacional y estatal, particularmente a la alimentación, protección de la salud, educación, trabajo, vivienda adecuada y medio ambiente sano, en aras de la igualdad de oportunidades para toda la población.
+En Tamaulipas se adoptarán las medidas legislativas y ejecutivas necesarias para lograr, progresivamente y mediante la aplicación de los máximos recursos disponibles a la luz de las finanzas públicas, la plena efectividad de los derechos sociales materia de su competencia conforme a los órdenes jurídicos nacional y estatal, particularmente a la alimentación, protección de la salud, educación, trabajo, vivienda adecuada, medio ambiente sano y energías renovables, en aras de la igualdad de oportunidades para toda la población.
 
 > <small>(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2004)</small>
 
@@ -347,9 +351,9 @@ II. La libertad de asociarse o reunirse con cualquier objeto lícito, pero en as
 
 III. La igualdad sustantiva en el acceso a derechos y oportunidades. Ésta protegerá la organización y el desarrollo de las familias. El Estado garantizará el goce y ejercicio del derecho a la igualdad sustantiva de las mujeres, adolescentes, niñas y niños. Toda persona tiene derecho a vivir una vida libre de violencias, el Estado tiene deberes reforzados de protección con las mujeres, adolescentes, niñas y niños. La Ley definirá las bases y modalidades para garantizar su realización de conformidad con lo previsto en los artículos 21, párrafo noveno y 73, fracción XXI, penúltimo párrafo de la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA, P.O. 4 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2026)</small>
 
-IV. El derecho a un medio ambiente adecuado para su desarrollo y bienestar y al uso racional de los recursos naturales susceptibles de apropiación con base en el objetivo del desarrollo sustentable, en los términos que fijen las leyes;
+IV.- El derecho a un medio ambiente adecuado para su desarrollo y bienestar, al uso racional de los recursos naturales susceptibles de apropiación con base en el desarrollo sustentable y al aprovechamiento de las energías limpias y renovables reconocidas por el Estado a través de la legislación correspondiente y en los términos en que se establezcan;
 
 > <small>(ADICIONADA, P.O. 8 DE ABRIL DE 2026)</small>
 
@@ -382,6 +386,10 @@ VI. El derecho al acceso, disposición y saneamiento de agua para consumo person
 > <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2023)</small>
 
 El derecho humano de acceso al agua será promovido permanentemente entre la población, lo que en todo tiempo implicará acciones y políticas para el respeto y fomento del uso adecuado del agua, incluyendo como prioridad el uso racional y eficiente de este recurso;
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2026)</small>
+
+El agua es un bien público, social y cultural. Es inalienable, inembargable, irrenunciable y esencial para la vida. La gestión del agua será pública y se regirá por criterios de interés general y sostenibilidad.
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2026)</small>
 
@@ -6096,3 +6104,27 @@ P.O. 8 DE ABRIL DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO No. 66-1048 MEDIANTE EL CUAL SE ADICIONA UN PÁRRAFO TERCERO A LA FRACCIÓN VI DEL ARTÍCULO 17, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 66-1049 MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO OCHO, DEL ARTÍCULO 16; LA FRACCIÓN IV, DEL ARTÍCULO 17; Y SE ADICIONA UN PÁRRAFO DOCE AL ARTÍCULO 4o., DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS, EN MATERIA DE SOSTENIBILIDAD Y PROMOCIÓN DEL APROVECHAMIENTO DE ENERGÍAS LIMPIAS Y RENOVABLES EN LA ENTIDAD".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto a la persona Titular del Poder Ejecutivo del Estado, para que realice las adecuaciones administrativas que resulten necesarias para su cumplimiento.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente Decreto, los ayuntamientos deberán actualizar y armonizar su normatividad y reglamentos municipales para garantizar su adecuada implementación.
