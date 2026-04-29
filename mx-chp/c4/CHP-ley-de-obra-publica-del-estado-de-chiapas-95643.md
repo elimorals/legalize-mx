@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-obra-publica-del-estado-de-chiapas-95643"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-31"
-last_updated: "2025-12-10"
+last_updated: "2026-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE OBRA PÚBLICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 31 de julio de 2013.
 
@@ -77,13 +77,13 @@ La ejecución de la obra pública que realice el Poder Ejecutivo del Estado o lo
 
 Para los efectos de la presente Ley, se entenderá por:
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2026)</small>
 
-I.- Secretaría: A la Secretaría de Infraestructura, que es la Dependencia del Poder Ejecutivo del Estado de Chiapas facultada para ejecutar Obra Pública, excepto en aquellos casos referentes a la infraestructura física educativa del Estado; de vivienda; del Sistema Estatal de Seguridad Pública e implementación del Sistema de Justicia Penal en el Estado; caminos y puentes; infraestructura hidráulica e infraestructura social básica o cualquier otro rubro, que por disposición de ley, se encuentre reservada a una instancia diferente.
+I.- Secretaría: A la Secretaría de Infraestructura, que es la Dependencia del Poder Ejecutivo del Estado de Chiapas facultada para ejecutar Obra Pública, excepto en aquellos casos referentes a la infraestructura física educativa del Estado; de vivienda; del Sistema Estatal de Seguridad Pública e implementación del Sistema de Justicia Penal en el Estado; caminos y puentes; infraestructura hidráulica, infraestructura hidráulica y lagunar; infraestructura pesquera y acuícola; infraestructura ambiental y de restauración en sistemas lagunarios costeros; e infraestructura social básica o cualquier otro rubro, que por disposición de ley, se encuentre reservada a una instancia diferente.
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2026)</small>
 
-II.- Comité de Obra Pública/Comité: Al Comité de Obra Pública del Poder Ejecutivo del Estado, cuando se haga referencia a la Obra Pública en el ámbito Estatal, con excepción de lo concerniente a la infraestructura física educativa; de vivienda; del Sistema Estatal de Seguridad Pública e implementación del Sistema de Justicia Penal en el Estado; caminos y puentes; infraestructura hidráulica e infraestructura social básica que estarán a cargo de un Comité de Obras específico, según corresponda; o a los Comités de Obras Públicas de los Municipios de que se trate, cuando se refiere a Obra Pública en el ámbito Municipal.
+II. Comité de Obra Pública/Comité: Al Comité de Obra Pública del Poder Ejecutivo del Estado, cuando se haga referencia a la Obra Pública en el ámbito Estatal, con excepción de lo concerniente a la infraestructura física educativa; de vivienda; del Sistema Estatal de Seguridad Pública e implementación del Sistema de Justicia Penal en el Estado; caminos y puentes; infraestructura hidráulica; infraestructura hidráulica y lagunar; infraestructura pesquera y acuícola; infraestructura ambiental y de restauración en sistemas lagunarios costeros; e infraestructura social básica que estarán a cargo de un Comité de Obras específico, según corresponda; o a los Comités de Obras Públicas de los Municipios de que se trate, cuando se refiere a Obra Pública en el ámbito Municipal.
 
 > <small>(REFORMADA, P.O. 4 DE JUNIO DE 2025)</small>
 
@@ -645,9 +645,9 @@ En el ejercicio de sus atribuciones el órgano de control respectivo podrá inte
 
 Para la contratación de la obra pública en cualquiera de las modalidades a las que se refiere el artículo 40 de la presente Ley, se constituye el Comité de Obra Pública del Poder Ejecutivo del Estado y los Comités de Obra Pública en cada uno de los municipios de la Entidad. El primero estará a cargo de lo concerniente a la obra pública en el ámbito estatal que no se encuentre reservada por disposición de ley a un organismo especializado, los segundos en el ámbito territorial del municipio de que se trate.
 
-> <small>(REFORMADO, P.O. 27 DE AGOSTO DE 2025)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2026)</small>
 
-Para el caso específico de la infraestructura física educativa; infraestructura de vivienda; infraestructura del Sistema Estatal de Seguridad Pública e Implementación del Sistema de Justicia Penal en el Estado; caminos y puentes; infraestructura Hidráulica e infraestructura social básica, existirá un Comité de Obra Pública del Instituto de la Infraestructura Física Educativa del Estado de Chiapas, un Comité de Obra Pública de la Promotora de Vivienda Chiapas, un Comité de Obra Pública del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, un Comité de Obra Pública de la Comisión Estatal de Caminos; un Comité de Obra Pública de la Comisión Estatal del Agua y Saneamiento de Chiapas y un Comité de Obra Pública de la Secretaría del Humanismo, que invariablemente estarán integrados por su respectivo titular, quien los presidirá, así como por los responsables de las áreas técnicas, administrativas, jurídicas y demás que tengan bajo su responsabilidad la ejecución de Obra Pública en la materia respectiva.
+Para el caso específico de la infraestructura física educativa; infraestructura de vivienda; infraestructura del Sistema Estatal de Seguridad Pública e Implementación del Sistema de Justicia Penal en el Estado; caminos y puentes; infraestructura hidráulica; infraestructura hidráulica y lagunar; infraestructura pesquera y acuícola; infraestructura ambiental y de restauración en sistemas lagunarios costeros; e infraestructura social básica, existirá un Comité de Obra Pública del Instituto de la Infraestructura Física Educativa del Estado de Chiapas, un Comité de Obra Pública de la Promotora de Vivienda Chiapas, un Comité de Obra Pública del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, un Comité de Obra Pública de la Comisión Estatal de Caminos; un Comité de Obra Pública de la Comisión Estatal del Agua y Saneamiento de Chiapas, un Comité de Obra Pública de la Secretaría de Pesca y Acuacultura del Pueblo y un Comité de Obra Pública de la Secretaría del Humanismo, que invariablemente estarán integrados por su respectivo titular, quien los presidirá, así como por los responsables de las áreas técnicas, administrativas, jurídicas y demás que tengan bajo su responsabilidad la ejecución de Obra Pública en la materia respectiva.
 
 En la conformación, operación y ejecución de los Comités de obra pública, se deberá observar lo estipulado en la presente Ley. Estos Comités serán los responsables de llevar a cabo la adjudicación de la obra pública en cualquiera de las modalidades a la que se refiere la presente Ley, debiendo emitir el fallo correspondiente sobre los asuntos de su competencia que sometan a su consideración las instancias responsables.
 
@@ -1978,3 +1978,13 @@ Artículo Tercero.- Las Dependencias de la Administración Pública del Estado d
 En tanto se realizan las adecuaciones referidas en el párrafo que antecede, continuarán aplicándose las disposiciones emitidas previo a la entrada en vigor del presente Decreto.
 
 Artículo Cuarto.- Las obras públicas que, previo a la entrada en vigor del presente Decreto, hayan iniciado el procedimiento de contratación, o bien, hayan sido adjudicadas o contratadas, se seguirán ejecutando conforme a las disposiciones de la ley vigente al momento de iniciar el procedimiento de contratación y/o adjudicación.
+
+P.O. 29 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 226 DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE CHIAPAS".]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
+
+Artículo Tercero.- Las Dependencias y Entidades del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones necesarias para el cumplimiento del presente Decreto, en plena observancia a las disposiciones aplicables.
