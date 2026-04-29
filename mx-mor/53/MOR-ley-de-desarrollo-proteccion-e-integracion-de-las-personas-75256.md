@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-desarrollo-proteccion-e-integracion-de-las-personas-7525
 country: "mx"
 rank: "ley"
 publication_date: "2010-06-09"
-last_updated: "2024-07-31"
+last_updated: "2026-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75256&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 LEY DE DESARROLLO, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE JULIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de junio de 2010.
 
@@ -119,7 +119,9 @@ IV. Corresponsabilidad. La concurrencia y responsabilidad compartida de los sect
 
 V. Atención diferenciada. Aquella que obliga a las autoridades del Gobierno del Estado y municipios a implementar programas acordes a las diferentes etapas, características y circunstancias de las personas adultas mayores; y
 
-VI. Atención preferente. Es aquella que obliga a la familia, así como a las organizaciones de la sociedad civil y sus sectores público y social a implementar acciones preferentes en beneficio de las personas adultas mayores en igualdad de circunstancias frente a otras personas y de acuerdo a las condiciones que se presenten.
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2026)</small>
+
+VI. Atención preferente. Es aquella que obliga a los distintos órdenes de gobierno, al sector social y privado, a implementar acciones preferentes acordes a las diferentes etapas, características y circunstancias de las personas adultas mayores, así como la implementación de prerrogativas que erradiquen las brechas de desigualdad.
 
 ### CAPÍTULO II. DE LOS DERECHOS
 
@@ -287,9 +289,9 @@ El Estado promoverá la publicación y difusión de esta Ley para que la socieda
 
 El Estado garantizará las condiciones óptimas de salud, educación, nutrición, vivienda, desarrollo integral, seguridad social y trato humano a las personas adultas mayores. Asimismo, deberá establecer programas para asegurar a todos los trabajadores una preparación adecuada para su retiro. Igualmente proporcionará:
 
-> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2026)</small>
 
-I. Atención preferencial: Toda institución pública o privada que brinde servicios a las personas adultas mayores deberá contar con la infraestructura, mobiliario y equipo adecuado, así como con los recursos humanos necesarios para que se realicen procedimientos alternativos en los trámites administrativos, cuando tengan alguna discapacidad. El Estado promoverá la existencia de condiciones adecuadas para las personas adultas mayores tanto en el transporte público como en los espacios arquitectónicos. En los centros comerciales o de autoservicio, así como en toda institución pública que brinde el servicio de estacionamiento público, deberán asignarse cajones de estacionamiento preferente para el uso de los adultos mayores, mismos que deberán encontrarse en un sitio de fácil accesibilidad al establecimiento.
+I. Atención preferencial: Toda institución pública o privada que brinde servicios a las personas adultas mayores deberá contar con la infraestructura, mobiliario y equipo adecuado, así como con los recursos humanos necesarios para que se realicen procedimientos alternativos en los trámites administrativos. Deberán adecuarse espacios e implementarse mecanismos que, durante el tiempo de espera garanticen su descanso, como sillas, bancas, sillones, así como mecanismos para la atención inmediata e instalación de ventanillas preferentes o filas especiales que deberán estar adecuadamente señaladas para su fácil identificación y acceso. El Estado promoverá la existencia de condiciones adecuadas para las personas adultas mayores tanto en el transporte público como en los espacios arquitectónicos. En los centros comerciales o de autoservicio, así como en toda institución pública que brinde el servicio de estacionamiento público, deberán asignarse cajones de estacionamiento preferente para el uso de los adultos mayores, mismos que deberán encontrarse en un sitio de fácil accesibilidad al establecimiento.
 
 II. Información: Las instituciones públicas y privadas, a cargo de programas sociales deberán proporcionarles información y asesoría tanto sobre las garantías consagradas en esta Ley como sobre los derechos establecidos en otras disposiciones a favor de las personas adultas mayores, y
 
@@ -315,7 +317,9 @@ Queda prohibido cualquier acto de crueldad o violencia, así como de aislamiento
 
 Todo el personal que preste servicios en instituciones que brinden asistencia social a las personas adultas mayores, deberá ser seleccionado previo estudio desde los puntos de vista médico, psicológico, social y académico, que determinen la calidad del aspirante y su aptitud para el trabajo que de él se espere.
 
-Las instituciones públicas y privadas dedicadas a la asistencia de las personas adultas mayores, en coordinación con el Estado de Morelos y las universidades, deberán implementar programas de servicio social a fin de que la comunidad estudiantil de las distintas áreas puedan compenetrarse en la atención de las personas adultas mayores.
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2026)</small>
+
+Las instituciones públicas y privadas dedicadas a la atención de las personas adultas mayores, en coordinación con el Estado de Morelos y las instituciones educativas de nivel superior, deberán implementar programas de servicio social, para lo cual podrán celebrar convenios que permitan a la comunidad estudiantil de las distintas áreas participen de manera directa en el cuidado y atención de dicho sector de la población, en las instalaciones designadas para este efecto.
 
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2023)</small>
 
@@ -465,7 +469,11 @@ VIII. Procurar que cada año en el presupuesto de egresos, se otorgue una cantid
 
 IX. Implementar estrategias y programas a través de la Secretaría de Desarrollo Económico y del Trabajo para que promuevan dentro de la administración pública estatal y municipal, así como en las empresas privadas a través de incentivos; a contratar a personas adultas mayores de acuerdo a sus capacidades, profesiones, oficios, experiencia y conocimientos teóricos y prácticos; y
 
-X. Las demás que le confieran otros ordenamientos jurídicos en la materia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE ABRIL DE 2026)</small>
+
+X. Garantizar el principio de atención preferente a las personas adultas mayores que requieran de los servicios de atención al público que proporcionen, de manera que cuenten con todo tipo de facilidades para acceder a los servicios que estas presten e implementar medidas de acompañamiento especial en el trámite respectivo cuando sea indispensable; y
+
+XI. Las demás que le confieran otros ordenamientos jurídicos en la materia.
 
 ### CAPÍTULO II. DE LAS SECRETARÍAS Y SUBSECRETARÍAS
 
@@ -1180,3 +1188,13 @@ PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado
 SEGUNDA. El presente Decreto entra en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano Oficial de Difusión del Gobierno del estado de Morelos.
 
 TERCERA. A partir de la entrada en vigor del presente decreto la Secretaría de Desarrollo Económico y del Trabajo deberá implementar las estrategias y programas para que sean incluidas en su próximo Programa Operativo Anual.
+
+P.O. 29 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CIENTO DIECINUEVE.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 5 EN SU FRACCIÓN VI, 9 EN SU FRACCIÓN I, 10 EN SU PENÚLTIMO PÁRRAFO Y 21 EN SU FRACCIÓN X RECORRIÉNDOSE LAS SUBSECUENTES, DE LA LEY DE DESARROLLO, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERA. Remítase el presente decreto, a la Persona Titular del Poder Ejecutivo Estatal de Morelos, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad” del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango que opongan al presente decreto.
