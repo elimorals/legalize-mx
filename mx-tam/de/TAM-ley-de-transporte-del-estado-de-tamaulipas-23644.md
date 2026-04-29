@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-transporte-del-estado-de-tamaulipas-23644"
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-12"
-last_updated: "2026-03-24"
+last_updated: "2026-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23644&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 12 de febrero de 2002.
 
@@ -1019,15 +1019,25 @@ VI.- Abstenerse de fijar un lugar al que las posibles personas usuarias acudan a
 
 VII.- Cubrir las contribuciones que le correspondan en términos de las disposiciones legales estatales aplicables en materia fiscal y hacendaria;
 
-VIII.- Abstenerse de subarrendar el vehículo o los vehículos registrados; y
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2026)</small>
 
-IX.- Contar con una póliza de seguro de cobertura vigente que cubra a todos los ocupantes del vehículo.
+VIII.- Abstenerse de subarrendar el vehículo o los vehículos registrados;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2026)</small>
+
+IX.- Contar con una póliza de seguro de cobertura vigente que cubra a todos los ocupantes del vehículo; y
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2026)</small>
+
+X.- Circular con las luces interiores encendidas durante el horario nocturno, mientras se encuentren ofreciendo el servicio.
 
 > <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 2019)</small>
 
 ARTÍCULO 35 Quindecies.- Los vehículos particulares que se utilicen para prestar el Servicio de Transporte Ejecutivo no estarán sujetos a concesión o permiso, podrán o no ser propiedad de los conductores privados y deberán cumplir con los siguientes requisitos mínimos:
 
-I.- Tener cuatro puertas, aire acondicionado, cinturones de seguridad para todos los pasajeros y bolsas de aire delanteras;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2026)</small>
+
+I.- Tener cuatro puertas, aire acondicionado, luces interiores funcionales en la cabina delantera y trasera, cinturones de seguridad para todos los pasajeros y bolsas de aire delanteras;
 
 > <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
@@ -1523,11 +1533,17 @@ XXX.- Cobrar a los usuarios la tarifa autorizada;
 
 XXXI.- Destinar lugares para el uso preferente de personas con discapacidad, adultos mayores y mujeres embarazadas. Plasmar la rotulación y leyendas que identifiquen los cuatro primeros asientos próximos a la entrada, destinadas a este grupo de personas.
 
-Lo anterior aplicará para el transporte público que cuente con más de doce asientos destinados para pasaje; y
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2026)</small>
+
+Lo anterior aplicará para el transporte público que cuente con más de doce asientos destinados para pasaje;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2026)</small>
+
+XXXII.- En horario nocturno, circular con las luces interiores de la unidad encendidas; y
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
-XXXII.- Las demás que establezcan esta ley, sus reglamentos, otras disposiciones legales aplicables y las que determine, en el ámbito de su competencia, la autoridad correspondiente.
+XXXIII.- Las demás que establezcan esta ley, sus reglamentos, otras disposiciones legales aplicables y las que determine, en el ámbito de su competencia, la autoridad correspondiente.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2017)</small>
 
@@ -2491,13 +2507,17 @@ XXI.- Por instalar publicidad en las unidades de transporte público y de los se
 
 XXII.- Las Empresas de Redes de Transporte, que operen dentro del territorio del Estado sin contar con registro vigente, se les impondrá multa equivalente a cien veces el valor diario de la Unidad de Medida y Actualización;
 
-> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2026)</small>
 
-XXIII.- A los conductores que presten servicio mediante una Empresa de Redes de Transporte y no acrediten contar con los requisitos para prestar dicho servicio en términos de la presente Ley, se les impondrá multa de cincuenta a ochenta veces el valor diario de la Unidad de Medida y Actualización; y
+XXIII.- A los conductores que presten servicio mediante una Empresa de Redes de Transporte y no acrediten contar con los requisitos para prestar dicho servicio en términos de la presente Ley, se les impondrá multa de cincuenta a ochenta veces el valor diario de la Unidad de Medida y Actualización;
+
+> <small>(ADICIONADA, P.O. 29 DE ABRIL DE 2026)</small>
+
+XXIV.- A los operadores de transporte público, así como los contratados a través de plataformas tecnológicas que ofrezcan servicio en horario nocturno y no tengan encendidas las luces interiores de la unidad, serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente; y
 
 > <small>(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
-XXIV.- Cualquier otra violación a la presente Ley, a las condiciones establecidas en las constancias o certificados y a las demás disposiciones y acuerdos de la Secretaría y cuya sanción no esté expresamente prevista, se impondrá multa de cuarenta a sesenta veces el valor diario de la Unidad de Medida y Actualización.
+XXV.- Cualquier otra violación a la presente Ley, a las condiciones establecidas en las constancias o certificados y a las demás disposiciones y acuerdos de la Secretaría y cuya sanción no esté expresamente prevista, se impondrá multa de cuarenta a sesenta veces el valor diario de la Unidad de Medida y Actualización.
 
 En la comisión de las infracciones establecidas en esta ley, se considera solidariamente responsable al titular de la concesión, permiso o autorización de que se trate.
 
@@ -2982,3 +3002,11 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 El Titular del Poder Ejecutivo del Estado de Tamaulipas, por conducto de la Secretaría General de Gobierno, deberá emitir en un plazo no mayor a sesenta días naturales los lineamientos administrativos necesarios para la implementación del presente Decreto.
+
+P.O. 29 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 66-1052 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY DE TRANSPORTE DEL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico oficial del Estado.
