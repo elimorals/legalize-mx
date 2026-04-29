@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2026-02-04"
+last_updated: "2026-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHP"
 
 CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2026.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -453,11 +453,21 @@ B). Causas de justificación:
 
 I.- Consentimiento presunto. Se presume que hay consentimiento, cuando el hecho se realiza en circunstancias tales que permitan suponer fundadamente que, de haberse consultado al titular del bien o a quien esté legitimado para consentir, éstos hubiesen otorgado el consentimiento.
 
-II.- Legítima defensa.- En defensa de bienes jurídicos propios o ajenos, repela una agresión real, actual o inminente realizada sin derecho, siempre que exista la necesidad de la defensa, se utilicen medios racionales y no medie provocación dolosa suficiente e inmediata por parte del agredido o de la persona que se defiende.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2026)</small>
+
+II.- Legítima defensa.- En defensa de bienes jurídicos propios o ajenos, repela una agresión real, actual o inminente realizada sin derecho, siempre que exista la necesidad de la defensa, se utilicen medios racionales y no medie provocación dolosa suficiente e inmediata por parte de la persona agredida o de la persona que se defiende.
 
 Se entenderá por medio racional, el menos dañoso o el uso menos dañoso, del mismo, cuando únicamente se disponga de un medio de defensa.
 
 Se presumirá como defensa legítima, salvo prueba en contrario, la causación de un daño a quien por cualquier medio trate de penetrar o penetre sin derecho al lugar en que habite de manera temporal o permanente la persona que se defiende, su familia, o cualquier otra persona cuyos derechos y bienes jurídicos tutelados, el agente tenga obligación de defender, o bien en las mismas circunstancias trate de penetrar o penetre a las dependencias del agente, al sitio en donde se encuentren bienes propios o ajenos respecto de los que tenga la misma obligación de defensa. Igual presunción existirá cuando el daño se cause a un intruso, al momento de sorprenderlo en alguno de los lugares antes citados, en circunstancias tales que revelen la probabilidad de una agresión.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2026)</small>
+
+También se presumirá la legítima defensa, salvo prueba en contrario, cuando una mujer sea víctima de forma sistemática, cíclica y permanente de violencia física, sexual o tentativa de feminicidio, o cuando en el hecho haya estado en peligro real, actual o inminente de serlo y repela la agresión. En estos casos, el Ministerio Público y el Órgano Jurisdiccional, según corresponda, deberán actuar con perspectiva de género para determinar la actualización de la legítima defensa de la mujer agredida.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2026)</small>
+
+Asimismo, se considerará legítima defensa cuando una persona actúe para proteger a una mujer que se encuentre en una situación de violencia de género, abarcando la violencia física, sexual y/o feminicida, conforme a lo previsto en la legislación general y local en la materia, y cause un daño al agresor con el propósito de hacer cesar dicha conducta.
 
 III.- Estado de necesidad justificante.- Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o de un daño inminente, no ocasionado dolosamente por el agente, lesionando otro bien jurídico de igual o menor valor que el salvaguardado, siempre que el peligro o el daño inminente no sean evitables por otros medios y el agente no tuviere el deber jurídico de afrontar el riesgo.
 
@@ -492,6 +502,10 @@ Las Causas de Exclusión del Delito, se analizarán de oficio en cualquier estad
 Exceso.- Existe exceso, cuando el sujeto activo en los supuestos de la fracción III, del apartado A, y fracciones II y III, del apartado B, prolonga innecesariamente la conducta típica que originalmente fue justificada, o continúa la conducta justificada haciendo uso de medios no racionales, o genere en el pasivo un daño innecesario o irracional.
 
 Para los efectos de la penalidad de estos supuestos, se estará en lo supuesto en el artículo 95 de este Código.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2026)</small>
+
+No se considerará exceso, al momento en que ésta se concrete y concurran circunstancias en las que la persona agredida sufra miedo o terror que afecte su capacidad para determinar el límite adecuado de su respuesta o la racionalidad de los medios empleados, conforme a las valoraciones psicológicas conducentes; y/o cuando la mujer sea víctima de violencia física, sexual o tentativa de feminicidio y en el hecho haya estado en peligro real, actual o inminente de serlo de no haber repelido la agresión, siempre que, atendiendo a las circunstancias concretas del caso, la respuesta defensiva resulte explicable y razonablemente vinculada con la neutralización del riesgo, considerando, entre otros factores: la asimetría y superioridad física o de dominio de la persona agresora, la inmediatez del peligro, el entorno de subordinación o control, los medios disponibles al momento de los hechos, y la afectación emocional derivada del contexto de violencia sistemática, cíclica y permanente.
 
 ###### Artículo 28.
 
@@ -6634,3 +6648,11 @@ P.O. 4 DE FEBRERO DE 2026.
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
 
 Artículo Segundo.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 29 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 229 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS, EN MATERIA DE LEGÍTIMA DEFENSA CON PERSPECTIVA DE GÉNERO”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
