@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-notariado-para-el-estado-de-tamaulipas-59685"
 country: "mx"
 rank: "ley"
 publication_date: "2008-01-15"
-last_updated: "2026-02-12"
+last_updated: "2026-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59685&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAM"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2026.
 
 Ley publicada en el Anexo del Periódico Oficial del Estado de Tamaulipas, el martes 15 de enero de 2008.
 
@@ -1611,6 +1611,40 @@ V.- Una vez celebrada la citada audiencia se emitirá acuerdo en el que se decla
 
 VI.- En contra de la resolución que decreta la revocación del fiat de notario o patente a aspirante al Notariado, no procede recurso alguno.
 
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2026)</small>
+
+ARTICULO 135 TER.
+
+Cuando con motivo de las visitas de inspección o de la investigación administrativa prevista en el presente capítulo se adviertan hechos que presuntamente encuadren en los supuestos establecidos en el artículo 133, fracciones III y IV de esta Ley, el Secretario General de Gobierno, podrá decretar medidas de seguridad de carácter provisional mientras se sustancia el procedimiento administrativo correspondiente.
+
+Las medidas de seguridad deberán ser proporcionales, fundadas y motivadas, y se dictarán para alguno de los fines que siguen: a) evitar la destrucción u ocultamiento de documentos elaborados en el ejercicio de la función notarial; b) evitar la continuación de la función ejercida de forma irregular; c) proteger el interés social y/o el orden público; y d) evitar la obstaculización del procedimiento.
+
+Las medidas de seguridad podrán consistir en:
+
+I.- Apercibimiento formal al notario público para que se abstenga de realizar los actos u omisiones que dieron origen a la investigación;
+
+II.- Orden de suspensión temporal de determinados actos notariales relacionados con las irregularidades detectadas;
+
+III.- Intervención administrativa del protocolo, libros o archivos notariales, exclusivamente para efectos de su resguardo y revisión;
+
+IV.- Suspensión provisional en el ejercicio de la función notarial, cuando la gravedad de los hechos así lo justifique; y
+
+V.- Cualquier otra medida necesaria para preservar la legalidad, la seguridad jurídica de los usuarios y la integridad de la función notarial.
+
+Las medidas de seguridad tendrán carácter temporal y excepcional, y deberán mantenerse únicamente durante el tiempo estrictamente necesario para la sustanciación del procedimiento administrativo correspondiente.
+
+La imposición de estas medidas no prejuzga sobre la responsabilidad administrativa del notario público, ni sustituye las sanciones que en su caso procedan conforme a esta Ley.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2026)</small>
+
+ARTICULO 135 QUATER.
+
+La autoridad competente podrá decretar, de oficio o a petición de parte, las medidas de seguridad mencionadas. La determinación de medidas de seguridad se tramitará de manera incidental y deberá expresar los motivos que la justifican, así como señalar el nombre y domicilio de las personas que pudieran resultar afectadas, a quienes se dará vista para que, dentro del plazo de tres días hábiles, manifiesten lo que a su derecho convenga. La autoridad podrá decretar provisionalmente las medidas de seguridad cuando lo estime necesario.
+
+Concluido el plazo señalado, la autoridad resolverá dentro de los tres días hábiles siguientes mediante resolución interlocutoria, en la que determinará la procedencia, modificación o revocación de las medidas de seguridad, sin perjuicio de lo previsto en la Ley de Amparo.
+
+Las medidas de seguridad podrán suspenderse o modificarse cuando desaparezcan las causas que les dieron origen o cuando se otorgue garantía suficiente, previa calificación de la autoridad competente.
+
 ### CAPITULO XIX. INSPECCION DE NOTARIAS
 
 ###### ARTICULO 136.
@@ -2492,3 +2526,15 @@ El Tribunal de Justicia Administrativa del Estado de Tamaulipas, a través de su
 ###### ARTÍCULO TERCERO.
 
 En las disposiciones transitorias de las diversas leyes y códigos en las que se haga referencia a la Contraloría Gubernamental, se entenderá la Secretaría Anticorrupción y Buen Gobierno.
+
+P.O. 29 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DE “DECRETO NO. 66-1054 MEDIANTE EL CUAL SE ADICIONAN LOS ARTÍCULOS 135 TER Y 135 QUATER DE LA LEY DEL NOTARIADO PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
