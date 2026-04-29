@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2026-02-04"
+last_updated: "2026-04-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
@@ -301,9 +301,21 @@ La Violencia mediática se ejerce por cualquier persona física o moral que util
 
 Violencia digital contra las mujeres es todo acto o acción dolosa realizada mediante el uso de tecnologías de la información y la comunicación, por la que se exponga, distribuya, difunda, exhiba, transmita, comercialice, oferte, intercambie o comparta imágenes, audios o videos reales o simulados de contenido íntimo sexual de una persona sin su consentimiento, sin su aprobación o sin su autorización y que le cause daño psicológico, emocional, en cualquier ámbito de su vida privada o en su imagen propia.
 
-> <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2026)</small>
 
-También se considera violencia digital a cualquier acto doloso que causen daño a la intimidad, privacidad y dignidad de las mujeres, que se comentan por medio de tecnologías de la información y la comunicación, entendiendo estas últimas como aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos. Esta será sancionada en la forma y términos que establece el Código Penal para el Estado de Tamaulipas.
+También se considera violencia digital cualquier acto doloso que cause daño a la intimidad, privacidad, dignidad, seguridad o reputación de las mujeres, cometido por medio de tecnologías de la información y la comunicación.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2026)</small>
+
+Asimismo, se entenderá por agresión digital toda conducta realizada directa o indirectamente mediante el uso de tecnologías de la información y la comunicación, redes sociales, plataformas digitales o herramientas de inteligencia artificial, que tenga por objeto calumniar, intimidar, generar temor o afectar la reputación de una mujer, incluyendo la creación de perfiles falsos, la usurpación de identidad, la sustracción o manipulación de datos personales, así como la difusión sistemática de campañas de desprestigio.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2026)</small>
+
+Para efectos del presente artículo, se entenderá por tecnologías de la información y la comunicación aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir información mediante diversos soportes tecnológicos, incluyendo aquellos que hacen uso de inteligencia artificial.
+
+> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2026)</small>
+
+Esta conducta será sancionada en la forma y términos que establece el Código Penal para el Estado de Tamaulipas.
 
 > <small>(ADICIONADO, P.O. 7 DE NOVIEMBRE DE 2025)</small>
 
@@ -343,9 +355,13 @@ VII. Obstaculizar la campaña de modo que se impida que la competencia electoral
 
 VIII. Realizar o distribuir propaganda política o electoral que calumnie, degrade o descalifique a una candidata basándose en estereotipos de género que reproduzcan relaciones de dominación, desigualdad o discriminación contra las mujeres, con el objetivo de menoscabar su imagen pública o limitar sus derechos políticos y electorales;
 
-IX. Difamar, calumniar, injuriar o realizar cualquier expresión que denigre o descalifique a las mujeres en ejercicio de sus funciones políticas, con base en estereotipos de género, con el objetivo o el resultado de menoscabar su imagen pública o limitar o anular sus derechos;
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2026)</small>
 
-X. Divulgar imágenes, mensajes o información privada de una mujer candidata o en funciones, por cualquier medio físico o virtual, con el propósito de desacreditarla, difamarla, denigrarla y poner en entredicho su capacidad o habilidades para la política, con base en estereotipos de género;
+IX. Difamar, calumniar, injuriar o realizar cualquier expresión que denigre o descalifique a las mujeres en ejercicio de sus funciones políticas, incluyendo la generación y difusión de campañas difamatorias, la manipulación de información, así como la creación o utilización de cuentas falsas en redes sociales para suplantar identidades o inducir al error a la opinión pública con base en estereotipos de género, con el objeto o resultado de menoscabar su imagen pública o limitar o anular sus derechos políticos;
+
+> <small>(REFORMADA, P.O. 29 DE ABRIL DE 2026)</small>
+
+X. Divulgar imágenes, mensajes o información privada de una mujer candidata o en funciones, así como alterar, manipular o difundir imágenes, audios o contenidos generados o modificados mediante herramientas de inteligencia artificial, o utilizar datos o declaraciones sacadas de contexto, por cualquier medio físico o digital, con el propósito de desacreditarla, difamarla, denigrarla o poner en entredicho su capacidad o habilidades para la política con base en estereotipos de género;
 
 XI. Amenazar o intimidar a una o varias mujeres o a su familia o colaboradores con el objeto de inducir su renuncia a la candidatura o al cargo para el que fue electa o designada;
 
@@ -1730,6 +1746,14 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 P.O. 4 DE FEBRERO DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO No. 66-959 MEDIANTE EL CUAL SE REFORMA EL INCISO J) DEL NUMERAL 1, DEL ARTÍCULO 20 DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 66-1050 MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
 
 ###### ARTÍCULO ÚNICO.
 
