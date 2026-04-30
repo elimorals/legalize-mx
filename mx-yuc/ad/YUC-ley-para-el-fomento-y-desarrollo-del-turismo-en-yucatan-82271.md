@@ -4,7 +4,7 @@ identifier: "YUC-ley-para-el-fomento-y-desarrollo-del-turismo-en-yucatan-82271"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-26"
-last_updated: "2019-07-31"
+last_updated: "2026-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82271&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY PARA EL FOMENTO Y DESARROLLO DEL TURISMO EN YUCATAN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE JULIO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE ABRIL DE 2026.
 
 Ley publicada en el Diario Oficial del estado de Yucatán, martes 26 de julio de 2011
 
@@ -65,9 +65,13 @@ V.- Definir los criterios en los que se basarán el Poder Ejecutivo y los ayunta
 
 VI.- Crear y regular el funcionamiento del Consejo Consultivo Estatal en materia de Turismo;
 
-VII.- Establecer los supuestos específicos para el desarrollo del Turismo Social, del Turismo Ecológico, del Turismo Accesible, del Turismo de Salud; y
+> <small>(REFORMADA, D.O. 30 DE ABRIL DE 2026)</small>
 
-VIII.- Determinar las normas para la integración y operación del Sistema de Información Estadística del Sector Turístico de Yucatán y del Registro Estatal de Turismo.
+VII.- Establecer los supuestos específicos para el desarrollo del Turismo Social, del Turismo Accesible, del Turismo Alternativo, del Turismo Deportivo y del Turismo de Salud; y
+
+> <small>(REFORMADA, D.O. 30 DE ABRIL DE 2026)</small>
+
+VIII.- Determinar las normas para la integración y operación del Sistema de Información Estadística del Sector Turístico de Yucatán, del Registro Estatal de Turismo y del Inventario Turístico Estatal.
 
 ###### Artículo 3.
 
@@ -105,9 +109,19 @@ XI.- Turistas: las personas que viajan temporalmente fuera de su lugar de reside
 
 XII.- Usuario de Servicios Turísticos: la persona que hace uso de los servicios turísticos;
 
-XIII.- Zonas de Desarrollo Turístico Sustentable: aquellas fracciones del territorio nacional, claramente ubicadas y delimitadas geográficamente, que, por sus características naturales o culturales, constituyen un atractivo turístico y que se establecen mediante declaratoria específica emitida en los términos de la Ley General de Turismo, y
+> <small>(REFORMADA, D.O. 30 DE ABRIL DE 2026)</small>
+
+XIII.- Zonas de Desarrollo Turístico Sustentable: aquellas fracciones del territorio nacional, claramente ubicadas y delimitadas geográficamente, que, por sus características naturales o culturales, constituyen un atractivo turístico y que se establecen mediante declaratoria específica emitida en los términos de la Ley General de Turismo;
 
 XIV.- Zona Turística: cualquier área que sea utilizada, destinada, desarrollada o proyectada para la actividad turística, que será usada bajo el principio de sustentabilidad.
+
+> <small>(ADICIONADA, D.O. 30 DE ABRIL DE 2026)</small>
+
+XV.- Turismo Deportivo: Es aquél cuya principal motivación es participar directamente o como espectador en alguna actividad deportiva; aprovechando de manera sustentable los recursos naturales, así como la infraestructura turística y deportiva del Estado de Yucatán;
+
+> <small>(ADICIONADA, D.O. 30 DE ABRIL DE 2026)</small>
+
+XVI.- Turismo sostenible: Es el tipo de turismo que tiene plenamente en cuenta las repercusiones actuales y futuras, económicas, sociales y ambientales para satisfacer las necesidades de los visitantes, de la industria, del entorno y de las comunidades anfitrionas.
 
 ###### Artículo 6.
 
@@ -135,7 +149,9 @@ IV.- Empresas de sistemas de intercambio de Servicios Turísticos;
 
 V.- Arrendadoras de automóviles y transportadoras terrestres exclusivas de Turismo;
 
-VI.- Empresas que ofrezcan actividades de Turismo ecológico;
+> <small>(REFORMADA, D.O. 30 DE ABRIL DE 2026)</small>
+
+VI.- Empresas que ofrezcan actividades de Turismo alternativo;
 
 VII.- Organizadores de congresos, convenciones, ferias, exposiciones y reuniones de grupos de trabajo o capacitación que generen flujos de Turismo;
 
@@ -155,9 +171,17 @@ I.- Restaurantes, cafeterías, bares, centros nocturnos y similares que se encue
 
 II.- Museos, galerías de arte, monumentos coloniales e históricos y zonas arqueológicas;
 
-III.- Parques acuáticos, parques temáticos, balnearios, clubes náuticos, cenotes, playas y otros centros de recreación que presten servicios a Turistas, y
+> <small>(REFORMADA, D.O. 30 DE ABRIL DE 2026)</small>
 
-IV.- Los demás lugares que mediante Acuerdo señale el Poder Ejecutivo, por conducto de la Secretaría. El Reglamento especificará las condiciones y requisitos por los cuales se pueda emitir el Acuerdo.
+III.- Parques acuáticos, parques temáticos, balnearios, clubes náuticos, cenotes, playas y otros centros de recreación que presten servicios a Turistas;
+
+> <small>(REFORMADA, D.O. 30 DE ABRIL DE 2026)</small>
+
+IV.- Los demás lugares que mediante Acuerdo señale el Poder Ejecutivo, por conducto de la Secretaría. El Reglamento especificará las condiciones y requisitos por los cuales se pueda emitir el Acuerdo; y
+
+> <small>(ADICIONADA, D.O. 30 DE ABRIL DE 2026)</small>
+
+V.- Los sitios donde se realicen actividades deportivas, educativas y culturales que atienden al turista.
 
 ###### Artículo 10.
 
@@ -345,7 +369,9 @@ I.- Encargarse del Plan Rector en materia de Turismo, en los términos de esta L
 
 II.- Generar, revisar, actualizar y difundir el Sistema Estatal de Información Turística;
 
-III.- Coordinar y dirigir el Sistema Estatal de Información Turística, el Sistema de Información Estadística del Sector Turismo de Yucatán, y el Registro Estatal de Turismo, con base en metodologías válidas internacionalmente que permitan su comparación y uso;
+> <small>(REFORMADA, D.O. 30 DE ABRIL DE 2026)</small>
+
+III.- Coordinar y dirigir el Sistema Estatal de Información Turística, el Sistema de Información Estadística del Sector Turismo de Yucatán, el Registro Estatal de Turismo, y el Inventario Turístico Estatal, con base en metodologías válidas internacionalmente que permitan su comparación y uso;
 
 IV.- Formular y ejecutar el Programa Estatal Sectorial de Turismo conforme a lo establecido en el Plan Estatal de Desarrollo;
 
@@ -577,7 +603,9 @@ I.- El Registro Estatal de Turismo;
 
 II.- El padrón de los eventos turísticos en el Estado;
 
-III.- La Base de datos sobre los servicios turísticos que se ofrecen en la entidad;
+> <small>(REFORMADA, D.O. 30 DE ABRIL DE 2026)</small>
+
+III.- El Inventario Turístico Estatal;
 
 IV.- La Relación clasificada de los Prestadores de Servicios Turísticos, y
 
@@ -614,6 +642,20 @@ La inscripción en el Registro Estatal de Turismo será gratuita y se llevará a
 ###### Artículo 41.
 
 La información del Registro Estatal de Turismo se actualizará durante los meses de enero y julio de cada año y será turnada a la Secretaría de Turismo del Gobierno Federal para efectos informativos y demás que establezca la normatividad federal en la materia.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 30 DE ABRIL DE 2026)</small>
+
+#### Sección Sexta. Del Inventario Turístico Estatal
+
+> <small>(ADICIONADO, D.O. 30 DE ABRIL DE 2026)</small>
+
+Artículo 41 bis. La Secretaría será la responsable de integrar y mantener actualizado el Inventario Turístico Estatal, el cual deberá contener un registro sistemático y detallado de los recursos naturales, culturales, históricos, así como productos y servicios turísticos en la entidad.
+
+El inventario deberá especificar el estado de conservación y funcionalidad de cada recurso y servicio con el fin de facilitar la planificación, promoción y desarrollo sostenible del turismo en el estado de Yucatán, así como coadyuvar con la actualización constante del Atlas Turístico de México en los términos previstos en la Ley General de Turismo para las entidades y municipios.
+
+> <small>(ADICIONADO, D.O. 30 DE ABRIL DE 2026)</small>
+
+Artículo 41 ter. La Secretaría utilizará el Inventario Turístico Estatal como una herramienta para la formulación de políticas públicas y estrategias que impulsen la competitividad y diversificación del sector turístico en el Estado.
 
 ### CAPÍTULO VIII. De la Promoción y Fomento al Turismo
 
@@ -681,9 +723,11 @@ IX.- Diseñar y aplicar cursos de capacitación turística a los Prestadores de 
 
 X.- Las demás que sean necesarias para la formación de recursos humanos que requiere el desarrollo turístico del Estado.
 
+> <small>(REFORMADO, D.O. 30 DE ABRIL DE 2026)</small>
+
 ###### Artículo 46.
 
-En el caso de Turismo ecológico, la Secretaría desarrollará programas de capacitación que permitan a los Prestadores de Servicios Turísticos, participar de manera activa en la preservación y protección del medio ambiente en donde se desarrollen actividades en esa modalidad.
+En el caso de Turismo alternativo, la Secretaría desarrollará programas de capacitación que permitan a los Prestadores de Servicios Turísticos, participar de manera activa en la preservación y protección del medio ambiente en donde se desarrollen actividades en esa modalidad.
 
 ###### Artículo 47.
 
@@ -731,29 +775,57 @@ V.- Propiciar la celebración de reuniones, congresos y seminarios regionales, e
 
 VI.- Las demás que la Secretaría considere.
 
-### CAPÍTULO XII. Del Turismo Ecológico
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE ABRIL DE 2026)</small>
+
+### CAPÍTULO XII. Del Turismo Alternativo
+
+> <small>(REFORMADO, D.O. 30 DE ABRIL DE 2026)</small>
 
 ###### Artículo 54.
 
-El Turismo ecológico es el que tiene como fin realizar las actividades turísticas en sus diversas modalidades, aprovechando los elementos naturales, geográficos y de los ecosistemas que existen en el Estado.
+Para los efectos del presente Capítulo, se tendrá por turismo alternativo, aquel que tiene como objeto realizar actividades recreativas en contacto con la naturaleza y las expresiones culturales con una actitud y compromiso de conocer, respetar, disfrutar y participar de la preservación de los elementos y recursos naturales y culturales, lo que incluye el ecoturismo, el turismo de aventura, el turismo comunitario, turismo de naturaleza, turismo de proximidad y el turismo rural.
+
+> <small>(REFORMADO, D.O. 30 DE ABRIL DE 2026)</small>
 
 ###### Artículo 55.
 
-Quien preste algún servicio turístico que esté relacionado con el Turismo ecológico, o quien realice actividades en materia de Turismo ecológico, está obligado a preservar los recursos naturales, a no alterar los procesos biológicos y ecológicos, así como a respetar las diversas expresiones históricas, artísticas, arquitectónicas, arqueológicas y culturales del Estado.
+El ecoturismo es la categoría de turismo alternativo, que se desarrolla en áreas naturales con el objeto de observar, conocer, interactuar y apreciar la naturaleza y las manifestaciones culturales tradicionales de los habitantes de las zonas rurales, lo que implica tomar conciencia del aprovechamiento, la conservación y la restauración de los recursos naturales y las formas de reducir el impacto ambiental y el entorno sociocultural de las comunidades anfitrionas, generando beneficios económicos a dichas comunidades y ofreciendo oportunidades y alternativas de empleo.
 
-> <small>(REFORMADO, D.O. 31 DE JULIO DE 2019)</small>
+El turismo de aventura es la categoría de turismo alternativo en la que se incluyen diferentes actividades deportivas y recreativas, donde se participa en armonía con el ambiente, respetando el patrimonio natural, cultural, turístico e histórico. Sus disposiciones se rigen por la presente Ley, las normas oficiales mexicanas y los reglamentos aplicables para el desarrollo de las actividades turísticas en el Estado.
+
+El turismo comunitario, es la categoría de turismo alternativo en la cual el turista participa en actividades propias de las comunidades, los ejidos y los pueblos indígenas, con fines culturales, educativos y recreativos, que le permiten conocer los valores culturales, forma de vida, manejo ambiental, usos y costumbres y aspectos de su historia, promoviendo con ello la generación de ingresos adicionales a la economía rural y a la preservación de los ecosistemas en los que habitan.
+
+El turismo de naturaleza es la categoría del turismo alternativo que enfoca su práctica en la realización de actividades recreativas en entornos naturales que permite el contacto directo con la biodiversidad y fomenta la conservación del medio ambiente.
+
+El turismo de proximidad es la categoría del turismo alternativo donde se practican actividades turísticas en lugares cercanos y accesibles para el residente del lugar donde se llevan a cabo, siendo que, al convertir a los residentes en turistas, hay mayor reducción al impacto ambiental al minimizar los desplazamientos prolongados, fortalece la economía local y promueve la valoración de los recursos locales.
+
+El turismo rural es la categoría del turismo alternativo donde el tipo de actividad turística se centra en que la experiencia del visitante esté relacionada con un amplio espectro de productos vinculados por lo general con las actividades de naturaleza, la agricultura, las formas de vida y las culturas rurales.
+
+> <small>(REFORMADO, D.O. 30 DE ABRIL DE 2026)</small>
 
 ###### Artículo 56.
 
-Las empresas que desarrollen actividades turísticas ecológicas las deberán realizar con apego en las leyes de la materia y se someterán a las limitaciones impuestas por la Secretaría de Desarrollo Sustentable y por aquellas autoridades federales, estatales y municipales que tengan competencia en materia ecológica y de protección al ambiente.
+Los prestadores de servicios turísticos alternativos estarán obligados a cumplir lo siguiente:
+
+I. Contar con programas de manejo del desarrollo, mismos que deberán contener, según sea el caso, medidas para el reúso, reciclaje, disposición y tratamiento de residuos, a fin de no producir impactos negativos, en los ecosistemas propios del lugar;
+
+II. Presentar informes periódicos, de manera anual, avalados por el responsable técnico de la ejecución del desarrollo; y
+
+III. Realizar funciones de guardias ecológicas en las regiones donde presten su servicio, por lo que estarán obligados a denunciar todo acto que afecte o pudiera afectar el ambiente o los ecosistemas de la región, así como toda infracción a las disposiciones de la presente Ley, sus reglamentos o las disposiciones jurídicas aplicables.
+
+Toda aquella empresa que desarrolle actividades turísticas que refiere el presente capítulo las deberán realizar con apego a las leyes de la materia y se someterán a las limitaciones impuestas por la Secretaría de Desarrollo Sustentable y por aquellas autoridades federales, estatales y municipales que tengan competencia en materia ecológica y de protección al ambiente.
+
+> <small>(REFORMADO, D.O. 30 DE ABRIL DE 2026)</small>
 
 ###### Artículo 57.
 
-En el desarrollo del Turismo ecológico, la Secretaría deberá buscar acciones para minimizar el impacto negativo en el ambiente así como para la comunidad, que genera la actividad.
+Quien preste algún servicio turístico que esté relacionado con el Turismo alternativo, está obligado a preservar los recursos naturales, a no alterar los procesos biológicos y ecológicos, así como a respetar las diversas expresiones históricas, artísticas, arquitectónicas, arqueológicas y culturales del Estado.
+
+> <small>(REFORMADO, D.O. 30 DE ABRIL DE 2026)</small>
 
 ###### Artículo 58.
 
-La Secretaría tendrá la obligación de promover la educación y conciencia ambiental, como parte primordial de las actividades turísticas ecológicas con objeto de proporcionar experiencias positivas a los Turistas y Prestadores de Servicios Turísticos
+La Secretaría tendrá la obligación de promover la educación y conciencia ambiental, como parte primordial de las actividades turísticas ecológicas con objeto de proporcionar experiencias positivas a los Turistas y Prestadores de Servicios Turísticos.
 
 ### CAPÍTULO XIII. Del Turismo de Salud
 
@@ -764,6 +836,46 @@ El Turismo de Salud, es el que tiene como fin que el Turista puede realizar acti
 ###### Artículo 60.
 
 La Secretaría deberá fomentar la coordinación con las autoridades federales, estatales y municipales, así como con los sectores privado y social, para incentivar, capacitar y desarrollar programas de promoción de prestadores de Servicios que se dediquen al Turismo de Salud; así como promover y promocionar a las empresas y los avances en equipamiento que tengan por objeto la prestación de servicios de salud.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 30 DE ABRIL DE 2026)</small>
+
+### CAPÍTULO XIII BIS. Del Turismo Deportivo
+
+> <small>(ADICIONADO, D.O. 30 DE ABRIL DE 2026)</small>
+
+Artículo 60 bis. La Secretaría, conjuntamente con el Instituto del Deporte del Estado de Yucatán, Ayuntamientos y los organismos públicos, los sectores social y privado relacionados con la cultura física y el deporte, impulsará la celebración de actividades deportivas tendientes a incrementar la afluencia de turismo hacia el Estado, con el fin de que los destinos sedes logren competitividad y sustentabilidad.
+
+En lo relativo a las actividades deportivas se estará a lo dispuesto por la ley de la materia.
+
+> <small>(ADICIONADO, D.O. 30 DE ABRIL DE 2026)</small>
+
+Artículo 60 ter. Los prestadores de servicios y organizadores de actividades deportivas deberán tramitar ante las instancias competentes los permisos, licencias y autorizaciones de conformidad con la normatividad vigente; instituto del Deporte del Estado de Yucatán y, en su caso, los ayuntamientos podrán coadyuvar en los trámites respectivos.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 30 DE ABRIL DE 2026)</small>
+
+### CAPÍTULO XIII TER. Del Turismo Artesanal
+
+> <small>(ADICIONADO, D.O. 30 DE ABRIL DE 2026)</small>
+
+Artículo 60 quáter. El turismo artesanal es aquella actividad turística que promueve la visita a talleres, mercados, así como, a centros de producción de artesanos y maestros de oficios tradicionales, con el propósito de difundir su valor cultural y económico.
+
+> <small>(ADICIONADO, D.O. 30 DE ABRIL DE 2026)</small>
+
+Artículo 60 quinquies. La Secretaría, gestionará acuerdos con organismos internacionales con el objeto de posicionar a la artesanía yucateca en rutas de turismo global y facilitar la participación de artesanos en exposiciones fuera de México.
+
+> <small>(ADICIONADO, D.O. 30 DE ABRIL DE 2026)</small>
+
+Artículo 60 sexies. La Secretaría, fomentará la creación de corredores artesanales en municipios y comunidades con vocación artesanal, priorizando aquellos donde se conserve la tradición zapatera y otros oficios patrimoniales, con el objetivo de generar experiencias turísticas sostenibles y de valor cultural.
+
+> <small>(ADICIONADO, D.O. 30 DE ABRIL DE 2026)</small>
+
+Artículo 60 septies. La Secretaría, en colaboración con los municipios, diseñará Rutas Turísticas Artesanales que integren talleres de zapateros, tejedores, alfareros y otros oficios tradicionales. Estas rutas deberán:
+
+I.- Contar con señalización turística y difusión en plataformas digitales oficiales.
+
+II.- Incluir mecanismos de certificación de autenticidad para los talleres participantes
+
+III.- Priorizar la participación de artesanos en situación de vulnerabilidad económica.
 
 ### CAPÍTULO XIV. De los Actos y Procedimientos Administrativos
 
@@ -820,3 +932,15 @@ Se salvaguarda la designación hecha para el actual Director del Archivo Notaria
 Artículo tercero. Obligación normativa
 
 La persona titular del Poder Ejecutivo del estado deberá realizar las adecuaciones a las disposiciones reglamentarias para armonizarlas a lo previsto en este decreto, dentro de un plazo de ciento ochenta días, contado a partir de la entrada en vigor de este decreto.
+
+D.O. 30 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 182/2026 POR EL QUE SE MODIFICA LA LEY PARA EL FOMENTO Y DESARROLLO DEL TURISMO EN YUCATÁN, EN MATERIA DE INVENTARIO TURÍSTICO, TURISMO ARTESANAL, ALTERNATIVO Y DEPORTIVO.”]
+
+Entrada en vigor
+
+Artículo primero. Este Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Cláusula derogatoria
+
+Artículo segundo. Se derogan todas aquellas disposiciones de igual o menor rango que se opongan a este Decreto.
