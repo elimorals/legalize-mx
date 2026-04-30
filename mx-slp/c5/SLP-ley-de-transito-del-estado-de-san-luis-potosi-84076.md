@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-transito-del-estado-de-san-luis-potosi-84076"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-10"
-last_updated: "2026-03-03"
+last_updated: "2026-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84076&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2026.
 
 Ley publicada en Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 10 de noviembre de 2011.
 
@@ -1385,13 +1385,21 @@ XII. Se prohíbe transportar en calidad de pasajero de una motocicleta a más de
 
 XIII. En las vías públicas obligatoriamente, dar paso preferente a los vehículos de emergencia, y no seguirlos, ni detenerse o estacionarse a una distancia que pueda significar riesgo o entorpecimiento de la actividad del personal de auxilio, limitándose solamente a disminuir o detener la velocidad para cederles el paso. Las autoridades municipales establecerán, en sus respectivos reglamentos, el uso prioritario de la vía a vehículos que presten servicios de emergencia, cuando la situación así lo requiera;
 
-> <small>(ADICIONADA, P.O. 9 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2026)</small>
 
-XIV. En el caso de vehículos que no sean de emergencia o especiales en los términos de las definiciones contenidas en el artículo sexto de esta Ley, podrán solicitar a la autoridad competente en materia de tránsito, autorización para el uso de torretas temporales con luz ámbar, en caso de no contar con autorización, serán sancionados conforme a lo que dispongan los Reglamentos de Tránsito de los municipios, y
+XIV. En el caso de vehículos que no sean de emergencia o especiales en los términos de las definiciones contenidas en el artículo sexto de esta Ley, podrán solicitar a la autoridad competente en materia de tránsito, autorización para el uso de torretas temporales con luz ámbar, en caso de no contar con autorización, serán sancionados conforme a lo que dispongan los Reglamentos de Tránsito de los municipios;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE OCTUBRE DE 2016)</small>
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2026)</small>
 
-XV. Las demás que señalen las disposiciones jurídicas y administrativas aplicables.
+XV. Tratándose de conductores de motocicletas o motonetas:
+
+a) Circular con las luces encendidas en todo momento;
+
+b) Portar aditamentos luminosos o reflejantes que contribuyan a su visibilidad y la del vehículo durante su circulación, especialmente en condiciones de baja iluminación; y
+
+c) Cumplir con las demás disposiciones de seguridad aplicables previstas en esta Ley.
+
+XVI. Las demás que señalen las disposiciones jurídicas y administrativas aplicables.
 
 ### Capítulo III. De las Escuelas de Manejo
 
@@ -2256,5 +2264,13 @@ P.O. 3 DE MARZO DE 2026.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0476.- QUE REALIZA ADICIÓN AL ARTÍCULO 6º, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ".]
 
 PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico oficial “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0516.- QUE REFORMA Y REALIZA ADICIÓN AL ARTÍCULO 72, DE LA LEY DE TRÁNSITO DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico oficial "Plan de San Luis".
 
 SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
