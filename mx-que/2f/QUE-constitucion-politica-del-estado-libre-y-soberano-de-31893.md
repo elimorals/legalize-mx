@@ -4,7 +4,7 @@ identifier: "QUE-constitucion-politica-del-estado-libre-y-soberano-de-31893"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-22"
-last_updated: "2024-09-13"
+last_updated: "2026-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=31893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2026.
 
 Constitución publicada en los Periódicos Oficiales de fechas: 22 y 29 de Septiembre; 6, 13, 20 y 27 de Octubre; y 3 de Noviembre de 1917.
 
@@ -91,9 +91,9 @@ Las autoridades competentes en materia de prevención social de la violencia y l
 
 El uso de las tecnologías de la información en materia de seguridad se ejecutará respetando los derechos fundamentales de las personas y en los términos que dispongan las leyes.
 
-> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2026)</small>
 
-Es derecho de todos acceder a la solución de sus conflictos y las controversias de carácter penal, a través de mecanismos alternativos desde el nivel comunitario, ministerial y judicial, en las condiciones y bajo las restricciones que las leyes establezcan. Dichos mecanismos serán impulsados por el Estado, privilegiando la justicia restaurativa para contribuir a la prevención social de la violencia y la delincuencia, al aseguramiento de la reparación del daño y a la recomposición del orden social.
+Es derecho de todos acceder a la solución de sus conflictos, a través de mecanismos alternativos de solución de controversias. Estos serán el medio primordial que el Estado implementará para buscar solucionar todas las controversias con perspectiva de género, así como propiciar una cultura de paz, garantizar la sana convivencia y armonía en la sociedad. El Estado promoverá el uso de estos mecanismos sin perjuicio de contar con tribunales que estarán expeditos para impartir justicia, privilegiando la solución del conflicto sobre los formalismos procedimentales en los términos del artículo 17 de la Constitución Política de los Estados Unidos Mexicanos.
 
 > <small>(ADICIONADO, P.O. 13 DE MAYO DE 2016)</small>
 
@@ -114,6 +114,14 @@ Las autoridades del Estado salvaguardarán el régimen de los derechos y liberta
 > <small>(ADICIONADO, P.O. 16 DE ABRIL DE 2021)</small>
 
 A efecto de consolidar el desarrollo económico y social del Estado de Querétaro de manera integral y sustentable, las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, implementarán de manera continua, coordinada y permanente, la política de mejora regulatoria para la simplificación de regulaciones, trámites y servicios, así como los demás objetivos que establezcan los ordenamientos en la materia.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2026)</small>
+
+La ley establecerá los términos y condiciones de la justicia cívica, así como los requisitos que se requieren para el ejercicio de esta función, con base en los principios de idoneidad, profesionalismo e imparcialidad.
+
+> <small>(ADICIONADO, P.O. 30 DE ABRIL DE 2026)</small>
+
+En materia penal, el Estado privilegiará la justicia restaurativa para contribuir a la prevención social de la violencia y la delincuencia, al aseguramiento de la reparación del daño y a la recomposición del orden social.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -231,9 +239,9 @@ La ciudadanía podrá ejercer sus derechos políticos electorales a través de l
 
 El voto de la ciudadanía residente en el extranjero será para la elección de la gubernatura del Estado y se sujetará a lo previsto en la normatividad aplicable.
 
-> <small>(ADICIONADO, P.O. 20 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2026)</small>
 
-El derecho de solicitar el registro de candidatos ante la autoridad electoral para todos los cargos de elección popular, corresponde a los partidos políticos así como a los ciudadanos que de manera independiente cumplan con los requisitos, condiciones y términos que determine la legislación.
+El derecho de solicitar el registro de candidatos ante la autoridad electoral para todos los cargos de elección popular, con excepción de los cargos del Poder Judicial, corresponde a los partidos políticos, así como a los ciudadanos que de manera independiente cumplan con los requisitos, condiciones y términos que determine la legislación.
 
 La ley regulará las figuras de participación ciudadana.
 
@@ -437,9 +445,9 @@ II. Aprobar las leyes en todas las materias, con excepción de las expresamente 
 
 III. Elegir, con el voto de las dos terceras partes de sus integrantes, al ciudadano que deba asumir el cargo de Gobernador con el carácter de provisional, interino o sustituto, en los casos y términos que esta Constitución prescribe;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P. O. 14 DE JULIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2026)</small>
 
-IV. Elegir, con el voto de cuando menos las dos terceras partes de los integrantes de la Legislatura, a los Magistrados del Tribunal Superior de Justicia, al Presidente de la Defensoría de los Derechos Humanos de Querétaro, a los Comisionados de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, al Auditor Superior del Estado, al Fiscal General del Estado y a los demás servidores públicos que determine la Ley; debiendo mantener un equilibrio entre mujeres y hombres cuando se trate de órganos colegiados;
+IV. Elegir, con el voto de cuando menos las dos terceras partes de los integrantes de la Legislatura, al Presidente de la Defensoría de los Derechos Humanos de Querétaro, a los Comisionados de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, al Auditor Superior del Estado, al Fiscal General del Estado, a los integrantes del Órgano de Administración del Poder Judicial que le competen, así como a los integrantes del Comité de Evaluación para la elección del Poder Judicial que le correspondan, así como a los demás servidores públicos que determine la Ley; debiendo mantener un equilibrio entre mujeres y hombres cuando se trate de órganos colegiados.
 
 > <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -453,7 +461,9 @@ Asimismo, la Legislatura del Estado designará por las dos terceras partes de su
 
 No podrán elegirse o ratificarse por la Legislatura del Estado, personas que sean declaradas deudoras alimentarias morosas.
 
-V. Conceder licencia a los diputados, al gobernador; así como conceder las licencias y admitir las renuncias a los Magistrados del Tribunal Superior de Justicia y de los demás funcionarios cuya designación competa a la propia Legislatura;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2026)</small>
+
+V. Conceder licencia a los diputados, al gobernador, y a los demás funcionarios cuya designación competa a la propia Legislatura;
 
 > <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2016)</small>
 
@@ -483,11 +493,15 @@ XVI. Citar a comparecer a los servidores públicos o funcionarios de las depende
 
 XVII. Por acuerdo de las dos terceras partes de sus miembros, ratificar los arreglos o convenios de límites territoriales concertados entre los ayuntamientos o los que el titular del Ejecutivo celebre con los de otros Estados, y en su caso, someterlos a la ratificación en los términos de lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos;
 
-> <small>(REFORMADA, P. O. 14 DE JULIO DE 2021)</small>
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2026)</small>
 
-XVIII. Rendir, en el mes de agosto, el informe anual de actividades del Poder Legislativo y;
+XVIII. Rendir, en el mes de agosto, el informe anual de actividades del Poder Legislativo;
 
-XIX. Todas las demás que la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes le otorguen.
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2026)</small>
+
+XIX. Tomar protesta a las Magistradas y Magistrados del Poder Judicial, incluyendo a las y los del Tribunal de Disciplina Judicial electos popularmente, y recibir las renuncias que éstos presenten al cargo; y
+
+XX. Todas las demás que la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes le otorguen.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -633,13 +647,17 @@ XI. Promover el desarrollo equilibrado y armónico del Estado en materia económ
 
 XII. Planear, participar, conducir, coordinar y orientar el desarrollo integral y sustentable de la Entidad, fomentando el crecimiento económico, el empleo y velando por una justa distribución del ingreso y la riqueza, que permita el pleno ejercicio de la libertad y la dignidad de individuos y grupos sociales;
 
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2026)</small>
+
+XIII. Designar a los fedatarios públicos en los términos de la ley de la materia;
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2026)</small>
+
+XIV. Designar al integrante del Órgano de Administración del Poder Judicial que le compete; así como a los integrantes del Comité de Evaluación para la elección del Poder Judicial que le corresponda; y
+
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
-XIII. Designar a los fedatarios públicos en los términos de la ley de la materia; y
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2008)</small>
-
-XIV. Las que le otorga la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes y ordenamientos que de ambas se deriven.
+XV. Las que le otorga la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes y ordenamientos que de ambas se deriven.
 
 > <small>(REFORMADO, P.O. 13 DE MAYO DE 2016)</small>
 
@@ -665,13 +683,17 @@ Los trabajadores y patrones deberán asistir al Centro de Conciliación Laboral 
 
 #### Sección Cuarta. Poder Judicial
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2026)</small>
 
 ###### ARTÍCULO 25.
 
-Se deposita el ejercicio de la función judicial en el Poder Judicial integrado por un Tribunal Superior de Justicia y los juzgados, quienes se auxiliarán de los órganos que establezca su ley orgánica.
+Se deposita el ejercicio de la función judicial en el Poder Judicial integrado por un Tribunal Superior de Justicia, el Tribunal Laboral y los juzgados, quienes se auxiliarán de los órganos que establezca su Ley Orgánica.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 La administración de justicia en el Estado será expedita, aplicando los principios y normas conducentes en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa, imparcial y gratuita. Deberá garantizarse la absoluta independencia de los órganos encargados de la función jurisdiccional para la conducción de los procesos a su cargo, así como para el dictado de las resoluciones respectivas y la plena ejecución de sus resoluciones.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
 El Estado instituirá un sistema integral de justicia aplicable a quienes, teniendo entre doce años cumplidos y menos de dieciocho años de edad, se les atribuya la realización de una conducta tipificada como delito por las leyes penales. Los menores de doce años de edad, sólo serán sujetos a rehabilitación y asistencia social.
 
@@ -683,51 +705,65 @@ Compete al Poder Judicial la facultad de resolver controversias puestas a su con
 
 Sus sentencias y resoluciones deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia.
 
-La resolución de las controversias o de los conflictos entre trabajadores y patrones estará a cargo del Poder Judicial, cuyos integrantes deberán contar con capacidad y experiencia en materia laboral, siendo designados aquellos que cumplan los requisitos previstos por las leyes.
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2026)</small>
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 2016)</small>
+La resolución de las controversias o de los conflictos entre trabajadores y patrones estará a cargo del Poder Judicial, a través del Tribunal Laboral, cuyos integrantes deberán contar con capacidad y experiencia en materia laboral.
+
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2026)</small>
 
 ###### ARTÍCULO 27.
 
-El Tribunal Superior de Justicia se compondrá de trece Magistrados propietarios y ocho supernumerarios, electos para un periodo de doce años. No se podrá ocupar el cargo como propietario en forma consecutiva, ni discontinua, por más de doce años. En ningún caso se podrá ocupar el cargo de Magistrado Propietario después de los setenta años de edad.
+El Tribunal Superior de Justicia se compondrá de trece Magistradas y Magistrados, en términos de esta Constitución y la Ley.
 
-Al concluir el período de doce años a que se refiere el párrafo anterior o antes si el Magistrado llega a la edad de setenta años, cesará en sus funciones. Si el propietario hubiere cumplido con los doce años de servicio, gozará de un haber mensual por retiro, equivalente al máximo que por concepto de jubilación se fije por Ley como derecho para los trabajadores del Estado de Querétaro, sin que pueda otorgarse cuando la separación obedezca a la remoción del cargo como medida de carácter disciplinario o cualquier otra causa de responsabilidad.
+Las y los Magistrados del Tribunal Superior de Justicia, las y los Jueces, serán electos por voto directo y secreto de la ciudadanía, durarán en el ejercicio de su encargo nueve años y podrán ser reelectos. Si fueren reelectos, sólo podrán ser privados de sus puestos en los términos que determinen esta Constitución y las disposiciones aplicables en materia de responsabilidades administrativas.
+
+Las y los Magistrados del Tribunal Superior de Justicia podrán ser reelectos por una sola ocasión.
+
+En caso de ausencia definitiva de una Magistrada o Magistrado, Jueza o Juez, ocupara la vacante la persona del mismo género que haya obtenido el mayor número de votos en la elección respectiva. En caso de declinación o imposibilidad de ésta, se estará a lo dispuesto por la Ley.
 
 El Tribunal Superior de Justicia tendrá un Presidente, que será el representante legal del Poder Judicial.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2026)</small>
 
 ###### ARTÍCULO 28.
 
-Para ser Magistrado del Tribunal Superior de Justicia y permanecer en el cargo, se requiere:
+Para efectos de las elecciones del Poder Judicial se observará lo siguiente:
 
-I. Cumplir con los requisitos fijados en las fracciones I a IV del artículo 95 de la Constitución Política de los Estados Unidos Mexicanos;
+A. Para ser Magistrada, Magistrado, Jueza o Juez del Poder Judicial del Estado de Querétaro, y permanecer en el cargo, se requiere:
 
-II. Haber residido en el Estado los tres años anteriores inmediatos al día de su designación;
+I. Cumplir con los requisitos fijados en las fracciones I a IV del artículo 97 de la Constitución Política de los Estados Unidos Mexicanos, así como los que se establezcan, en esta Constitución y en la Ley Orgánica del Poder Judicial del Estado de Querétaro;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+II. Haber residido en el Estado de Querétaro, los tres años anteriores inmediatos al día de la publicación de la convocatoria que al efecto emita el Congreso del Estado;
 
-III. Durante el año previo a su nombramiento, no haber ocupado cargo de elección popular, ni haber sido Secretario del Poder Ejecutivo o su equivalente, ni Fiscal General del Estado;
+III. No haber sido titular de una Secretaría o su equivalente del Poder Ejecutivo; Fiscal General del Estado; Senadora o Senador, Diputada o Diputado federal o local; integrante de alguno de los Ayuntamientos; Fiscal Anticorrupción; Secretario Ejecutivo y Consejero Electoral del Instituto Electoral local; durante el año previo a la emisión de la convocatoria que al efecto emita el Congreso del Estado, así como no pertenecer al estado eclesiástico ni ser ministro de culto alguno;
 
-> <small>(REFORMADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+IV. No estar inscrito en el Registro Nacional de Obligaciones Alimentarias como deudor alimentario moroso.
 
-IV. No ser mayor de setenta años de edad;
+V. No tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos.
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+B. Para la elección de las Magistradas y los Magistrados, incluyendo a las y los del Tribunal de Disciplina Judicial, Juezas y Jueces del Poder Judicial, los Poderes Ejecutivo, Legislativo y Judicial del Estado postularán candidaturas conforme al siguiente procedimiento:
 
-V. No ser declarado deudor alimentario moroso;
+I. La Legislatura del Estado publicará la convocatoria en el mes de octubre del año anterior a la elección, previo informe del Órgano de Administración Judicial especificando los cargos a elegir, y las especializaciones por materia.
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+II. Cada Poder integrará un Comité de Evaluación conformado por tres personas de reconocido prestigio en la actividad jurídica, cuya designación deberá observar el principio de paridad de género. Los Comités de Evaluación, en colaboración con la Escuela de Formación Judicial establecerán mecanismos públicos, abiertos, transparentes, inclusivos y accesibles para recibir y evaluar los expedientes de las personas aspirantes.
 
-VI. No haber sido condenado como persona agresora por delitos sexuales y/o violencia familiar; y
+III. Los Comités de Evaluación verificarán el cumplimiento de los requisitos constitucionales y legales, e identificarán a las personas mejor evaluadas que cuenten con los conocimientos jurídicos necesarios y se hayan distinguido por su honestidad, buena fama pública, competencia, antecedentes académicos y profesionales. Además, estarán encargados de dar trámite a las impugnaciones que en su caso se presenten.
 
-> <small>(ADICIONADA, P.O. 13 DE SEPTIEMBRE DE 2024)</small>
+IV. Para los cargos de Magistradas y los Magistrados, incluyendo a las y los del Tribunal de Disciplina Judicial, cada Comité de Evaluación integrará un listado de hasta diez personas mejor evaluadas para cada cargo. Para los cargos de Juezas y Jueces, el listado será de hasta seis personas mejor evaluadas para cada cargo por distrito judicial y materia.
 
-VII. No estar condenada o condenado por el delito de violencia política contra las mujeres en razón de género.
+Para determinar el número de candidaturas que los Poderes postularán, cada Comité de Evaluación, podrá realizar una sola insaculación pública para depurar los listados e integrar tres candidaturas para Magistraturas por cada cargo vacante, así como dos candidaturas para juezas y jueces por cada cargo vacante.
 
-El retiro de los Magistrados se producirá, por sobrevenir incapacidad física o mental declarada por autoridad competente, que imposibilite el adecuado desempeño del cargo, o al cumplir la edad que se señala en el primer párrafo de esta fracción.
+V. En el caso del Poder Legislativo, la aprobación de sus postulaciones requerirá el voto de las dos terceras partes de sus integrantes.
+
+VI. Las personas candidatas podrán ser postuladas simultáneamente por uno o varios Poderes del Estado, siempre que aspiren al mismo cargo. Los Poderes que no remitan sus postulaciones al término del plazo previsto en la convocatoria no podrán hacerlo posteriormente.
+
+VII. Ajustados los listados, cada Comité los remitirá al Poder que represente para su envío a la Legislatura del Estado, para que esta a su vez los remita al Instituto Electoral del Estado a efecto de que organice el proceso electivo.
+
+VIII. El Instituto Electoral del Estado de Querétaro organizará el proceso electivo en términos de la presente Constitución y demás disposiciones legales aplicables.
+
+El Poder Judicial incorporará de manera directa a los listados de candidaturas que se remitan a la Legislatura, a las personas que se encuentren en funciones en los cargos judiciales a elegir o reelegir, excepto cuando manifiesten la declinación de su candidatura, renuncien, retiren o sean postuladas para un cargo diverso, en los términos que establezca la Ley.
+
+El retiro de las Magistradas y los Magistrados, así como de las Juezas y Jueces, se producirá por imposibilidad permanente o temporal que impida el adecuado desempeño del cargo.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2008)</small>
 
@@ -743,9 +779,9 @@ III. Garantizar la supremacía y control de esta Constitución, mediante la inte
 
 IV. Declarar sobre los casos de omisión en la expedición de leyes, cuando la misma afecte el funcionamiento o aplicación de la presente Constitución;
 
-> <small>(REFORMADA, P.O. 13 DE MAYO DE 2016)</small>
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2026)</small>
 
-V. Ejercer la administración, vigilancia y disciplina, exclusivamente con respecto al Pleno y Secretaría General de Acuerdos del Tribunal Superior de Justicia, garantizando la transparencia de su gestión en los términos que determinen las leyes;
+V. Designar y remover a las personas funcionarias de segunda instancia, conforme a los procedimientos previstos en la Ley secundaria;
 
 VI. Procesar y sentenciar los litigios que no sean competencia de la Suprema Corte de Justicia de la Nación o del Senado de la República y, que surjan entre: Poder Ejecutivo, Legislatura del Estado, Organismos constitucionales autónomos o los Municipios del Estado;
 
@@ -755,7 +791,9 @@ VII. Presentar, en el mes de septiembre de cada año, a la Legislatura, un infor
 
 VIII. Elegir a su Presidente;
 
-IX. Revisar y, en su caso, revocar los acuerdos que emita el Consejo de la Judicatura, en los casos, términos y procedimiento que establezca la Ley Orgánica del Poder Judicial; y
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2026)</small>
+
+IX. Designar a las y los miembros del Órgano de Administración Judicial que le correspondan al Poder Judicial del Estado así como a las personas integrantes del Comité de Evaluación para la elección del Poder Judicial que les competa; y
 
 X. Las demás que establezca esta Constitución y las demás leyes.
 
@@ -763,21 +801,49 @@ X. Las demás que establezca esta Constitución y las demás leyes.
 
 Se exceptúan de la competencia del Pleno y de las Salas previstas en las fracciones II, III y IV del presente artículo, las leyes en materia hacendaria, fiscal, presupuestal y electoral.
 
-> <small>(REFORMADO, P.O. 13 DE MAYO DE 2016)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2026)</small>
 
 ###### ARTÍCULO 30.
 
-La carrera judicial, administración, vigilancia y disciplina del Poder Judicial, con excepción de lo que corresponde al Pleno del Tribunal Superior de Justicia, están a cargo de un Consejo de la Judicatura, dotado de independencia técnica y de gestión para emitir sus resoluciones, formado por cinco miembros e integrado por quien resulte electo para presidir el Tribunal Superior de Justicia, dos Consejeros designados por el Pleno del mismo; un Consejero designado por la Legislatura, que no será legislador; y otro que será nombrado por el Poder Ejecutivo, garantizando la transparencia en la gestión en los términos que determinen las leyes.
+La administración del Poder Judicial del Estado estará a cargo de un Órgano de Administración Judicial, mientras que la disciplina de su personal estará a cargo del Tribunal de Disciplina Judicial.
 
-Los Consejeros designados por el Pleno serán electos con el voto de ocho de sus integrantes, quienes serán representantes de Magistrados y Jueces; deberán contar con una antigüedad mínima de 10 años en la impartición de justicia y además reunir los requisitos señalados en el artículo 28 de esta Constitución.
+El Tribunal de Disciplina Judicial y el Órgano de Administración Judicial gozarán de independencia técnica, de gestión y para emitir sus resoluciones, conforme a las bases establecidas en la Constitución Política de los Estados Unidos Mexicanos para el Poder Judicial de la Federación, así como en esta Constitución y las leyes secundarias.
 
-Los Consejeros designados por el legislativo y ejecutivo, también deberán reunir los requisitos señalados en el artículo 28 de esta Constitución y ser personas que se hayan distinguido por su capacidad profesional en el ámbito jurídico, honestidad y honorabilidad en el ejercicio de sus actividades.
+El Tribunal de Disciplina Judicial se integrará por cinco Magistraturas electas por la ciudadanía a nivel estatal, conforme al procedimiento establecido en la Constitución Política de los Estados Unidos Mexicanos y la Ley aplicable. Sus integrantes serán electos para un periodo de seis años y no podrán ser electos para un nuevo periodo.
 
-Los miembros del Consejo durarán en su encargo cuatro años, con excepción de su Presidente, quien ejercerá esa función mientras ostente también la Presidencia del Tribunal; y ninguno podrá ser ratificado para el mismo cargo de manera consecutiva. Durante su pertenencia al Consejo, los Consejeros designados por el Pleno no ejercerán funciones jurisdiccionales, ni formarán parte del Pleno.
+El Pleno del Órgano de Administración Judicial se integrará por cinco personas que durarán en su encargo seis años, improrrogables, de las cuales una será designada por la persona titular del Poder Ejecutivo; dos por la Legislatura del Estado, mediante votación calificada de dos terceras partes de sus integrantes; dos por el Pleno del Tribunal Superior de Justicia, por mayoría calificada de dos terceras partes de sus integrantes.
 
-Los Jueces del Poder Judicial serán designados, ratificados y removidos por el Consejo de la Judicatura, debiendo mantener un equilibrio entre mujeres y hombres en dichos cargos; durarán en su encargo seis años, pudiendo ser ratificados en los plazos y condiciones que establezca la Ley. Deberán ser ciudadanos mexicanos en pleno ejercicio de sus derechos políticos y civiles, contar con los requisitos que establezca la Ley y protestar el cargo ante el Pleno del Tribunal Superior de Justicia y del Consejo de la Judicatura. En ningún caso se podrá ocupar el cargo de Juez cumplidos los setenta años de edad.
+En el ámbito del Poder Judicial del Estado de Querétaro, no podrán crearse ni mantenerse en operación fondos, fideicomisos, mandatos o contratos análogos que no estén previstos en la Ley.
 
-El Pleno del Tribunal Superior de Justicia podrá solicitar al Consejo de la Judicatura que investigue la conducta de algún Juez.
+La independencia de las Magistradas y los Magistrados y las Juezas y los Jueces en el ejercicio de sus funciones estará garantizada en los términos de lo dispuesto en esta Constitución y de la Ley Orgánica del Poder Judicial del Estado de Querétaro.
+
+Las Magistradas y los Magistrados, incluyendo a las y los del Tribunal de Disciplina Judicial, y las Juezas y los Jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser mayor a la establecida para la persona titular de la Presidencia de la República y la Gubernatura del Estado de Querétaro en el presupuesto correspondiente y no será disminuida durante su encargo.
+
+Las Magistradas y los Magistrados, incluyendo a las y los del Tribunal de Disciplina Judicial, así como las Juezas y los Jueces, serán electos mediante votación estatal. Las personas juzgadoras entrarán a ejercer su cargo el día primero de octubre del año de su elección, en las adscripciones por distrito judicial o materia conforme al procedimiento que establezca la Ley Orgánica del Poder Judicial del Estado de Querétaro.
+
+Para los cargos de elección dentro del Poder Judicial del Estado, los partidos políticos y las personas servidoras públicas no podrán realizar actos de proselitismo ni posicionarse a favor o en contra de candidatura alguna.
+
+De conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos y esta Constitución, la Ley Orgánica del Poder Judicial del Estado de Querétaro o, en su caso, las leyes locales en materia electoral:
+
+I. Garantizarán la independencia de las Magistradas y los Magistrados y las Juezas y los Jueces en el ejercicio de sus funciones;
+
+II. Establecerán las condiciones para la elección de las Magistradas y los Magistrados y Juezas y Jueces, por voto directo y secreto de la ciudadanía;
+
+III. Para la realización de las propuestas de candidaturas y la elección de las Magistradas y los Magistrados, incluyendo las y los del Tribunal de Disciplina Judicial, y las Juezas y los Jueces integrantes del Poder Judicial del Estado, establecerán mecanismos públicos, abiertos, transparentes, inclusivos, accesibles y paritarios de evaluación y selección que garanticen la participación de personas que cuenten con los conocimientos jurídicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes profesionales y académicos en el ejercicio de la actividad jurídica;
+
+IV. Regularán las facultades, estructura y funcionamiento del Tribunal de Disciplina Judicial, el cual contará con independencia técnica, de gestión y para emitir sus resoluciones, conforme a las bases establecidas en la Constitución Política de los Estados Unidos Mexicanos para el Poder Judicial de la Federación, así como en esta Constitución;
+
+V. Regularán las facultades, estructura y funcionamiento del Órgano de Administración Judicial, el cual contará con independencia técnica, de gestión y para emitir sus resoluciones, conforme a las bases establecidas en la Constitución Política de los Estados Unidos Mexicanos para el Poder Judicial de la Federación, así como en esta Constitución;
+
+VI. Regularán y desarrollarán las facultades, estructura y funcionamiento de la Escuela de Formación Judicial del Estado, que será un órgano auxiliar del Órgano de Administración Judicial y que, entre otras, tendrá la facultad de diseñar e implementar los procesos de formación, capacitación, evaluación, certificación y actualización de todas las personas aspirantes e integrantes del Poder Judicial del Estado, así como de las personas auxiliares del sistema de justicia;
+
+VII. Establecerán las condiciones del ingreso, formación y permanencia de quienes sirvan al Poder Judicial del Estado, en funciones jurisdiccionales;
+
+VIII. Establecerán las bases para la formación, evaluación, certificación y actualización de funcionarias y funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia y paridad de género;
+
+IX. Regularán las ausencias, licencias, renuncias y sustitución de las Magistradas, los Magistrados, las Juezas y los Jueces del Estado; y
+
+X. Regularán los impedimentos para las Magistradas, los Magistrados, las Juezas y los Jueces del Estado.
 
 > <small>(ADICIONADO, P. O. 31 DE MARZO DE 2008)</small>
 
@@ -1033,9 +1099,9 @@ Los servidores públicos de elección popular por el tiempo en el cual ejercen s
 
 Los servidores públicos y particulares que incurran en responsabilidad frente al Estado, serán sancionados conforme a lo siguiente:
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P. O. 14 DE JULIO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2026)</small>
 
-I. Se impondrán, mediante juicio político, cuando los servidores públicos en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. Podrán ser sujetos a juicio político, los Magistrados de los Tribunales del Estado, los Jueces del Poder Judicial, los Secretarios, Sub-secretarios, Oficial Mayor y Directores de la Administración Pública Estatal, el Fiscal General del Estado y los Ministerios Públicos; el Auditor Superior del Estado, los Comisionados integrantes de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, los miembros de los Ayuntamientos y los Directores Generales o sus equivalentes en las entidades paraestatales y paramunicipales;
+I. Se impondrán, mediante juicio político, cuando los servidores públicos en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. Podrán ser sujetos a juicio político, los Magistrados de los Tribunales del Estado, los Magistrados del Tribunal de Disciplina Judicial, los integrantes del Pleno del Órgano de Administración Judicial, los Jueces del Poder Judicial, los Secretarios, Sub-secretarios, Oficial Mayor y Directores de la Administración Pública Estatal, el Fiscal General del Estado y los Ministerios Públicos; el Auditor Superior del Estado, los Comisionados integrantes de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, los miembros de los Ayuntamientos y los Directores Generales o sus equivalentes en las entidades paraestatales y paramunicipales.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -1067,19 +1133,17 @@ V. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2016)
 
 Los procedimientos para la aplicación de las sanciones mencionadas en las fracciones anteriores, se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta, sanciones de la misma naturaleza.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2026)</small>
 
-Para la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Poder Judicial del Estado, se observará lo previsto en los artículos 29 y 30 de esta Constitución, sin perjuicio de las atribuciones de la Entidad Superior de Fiscalización del Estado de Querétaro sobre el manejo, la custodia y aplicación de recursos públicos.
+Para la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Poder Judicial del Estado, se observará lo previsto en el artículo 30 de esta Constitución, sin perjuicio de las atribuciones de la Entidad Superior de Fiscalización del Estado de Querétaro sobre el manejo, la custodia y aplicación de recursos públicos.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
 En todos los procesos derivados o relativos al presente artículo, las autoridades garantizarán a los involucrados los Derechos Humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en la propia del Estado y en los tratados internacionales de los que el Estado Mexicano sea parte, así como de las garantías para su protección. Las normas relativas a los Derechos Humanos se interpretarán de conformidad con la Constitución Federal, este ordenamiento y con los tratados internacionales de la materia, favoreciendo en todo tiempo a las personas la protección más amplia.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2026)</small>
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2016)</small>
-
-ARTÍCULO 38 bis. El titular del Poder Ejecutivo del Estado, los Diputados de la Legislatura del Estado, los Magistrados del Tribunal Superior de Justicia del Estado, los miembros del Consejo de la Judicatura del Poder Judicial del Estado, los integrantes de los ayuntamientos de los municipios del Estado, los servidores públicos de los organismos constitucionales autónomos, así como los demás servidores públicos estatales y municipales, estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial y de intereses, en los términos que determine la Ley.
+ARTÍCULO 38 bis. El titular del Poder Ejecutivo del Estado, los Diputados de la Legislatura del Estado, los Magistrados del Tribunal Superior de Justicia del Estado, los Magistrados del Tribunal de Disciplina Judicial, los integrantes del Pleno del Órgano de Administración Judicial, los Jueces del Poder Judicial del Estado, los integrantes de los ayuntamientos de los municipios del Estado, los servidores públicos de los organismos constitucionales autónomos, así como los demás servidores públicos estatales y municipales, estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial y de intereses, en los términos que determine la Ley.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2016)</small>
 
@@ -1093,9 +1157,9 @@ I. El Sistema contará con:
 
 a) Un Comité Coordinador que será la instancia responsable de establecer mecanismos de coordinación entre los integrantes del Sistema y tendrá a su cargo el diseño, promoción y evaluación de políticas públicas de combate a la corrupción en la Entidad.
 
-> <small>(REFORMADO, P. O. 14 DE JULIO DE 2021)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2026)</small>
 
-El Comité estará integrado por los titulares de la Entidad Superior de Fiscalización del Estado de Querétaro, de la Secretaría de la Contraloría del Poder Ejecutivo del Estado, de la Fiscalía Especializada en el Combate a la Corrupción, por el Presidente del Tribunal de Justicia Administrativa del Estado de Querétaro; el Presidente de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, así como por un representante del Consejo de la Judicatura del Poder Judicial del Estado de Querétaro y otro del Comité de Participación Ciudadana, quien lo presidirá;
+El Comité estará integrado por los titulares de la Entidad Superior de Fiscalización del Estado de Querétaro, de la Secretaría de la Contraloría del Poder Ejecutivo del Estado, de la Fiscalía Especializada en el Combate a la Corrupción, por el Presidente del Tribunal de Justicia Administrativa del Estado de Querétaro; el Presidente de la Comisión de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de Querétaro, así como por un representante del Tribunal de Disciplina Judicial y otro del Comité de Participación Ciudadana, quien lo presidirá;
 
 b) Un Comité de Participación Ciudadana, cuyo propósito será el de coadyuvar al cumplimiento de los objetivos del Comité Coordinador, en los términos que establezcan las leyes, así como ser la instancia de vinculación entre las organizaciones sociales y académicas relacionadas con las materias del Sistema Estatal Anticorrupción de Querétaro.
 
@@ -2138,3 +2202,83 @@ Artículo Segundo. La presente Ley entrará en vigor el día siguiente de su pub
 Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga a lo dispuesto por la presente Ley.
 
 Artículo Cuarto. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga”.
+
+P.O. 30 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE QUERÉTARO, EN MATERIA DE REFORMA AL PODER JUDICIAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. En el Proceso Electoral Ordinario del año 2027 se elegirá a la totalidad de los cargos de Magistradas, Magistrados, Juezas y Jueces, el Poder Judicial del Estado de Querétaro, incluidas las Magistradas y los Magistrados del Tribunal de Disciplina Judicial.
+
+Las personas que se encuentren en funciones en los cargos señalados en el párrafo anterior al cierre de la convocatoria serán incorporadas a los listados para participar en la elección ordinaria del año 2027, excepto cuando manifiesten la declinación de su candidatura previo al cierre de la convocatoria o sean postuladas para un cargo diverso. En caso de no resultar electas por la ciudadanía para ejercer su encargo por un nuevo periodo, concluirán su encargo en la fecha en que tomen protesta las personas servidoras públicas que emanen de la elección ordinaria.
+
+Artículo Tercero. La autoridad electoral en materia administrativa del Estado podrá emitir, en términos de las disposiciones legales aplicables, los acuerdos que estime necesarios para el desarrollo del proceso electoral del año 2027; para garantizar la realización de todas las etapas de la elección ordinaria de 2027; y para asegurar el cumplimiento de las disposiciones constitucionales y legales aplicables, observando los principios de certeza, legalidad, independencia, imparcialidad, máxima publicidad, objetividad y paridad de género. Las y los representantes de los partidos políticos ante el Consejo General u órgano de dirección superior no podrán participar en las acciones, actividades y sesiones relacionadas con este proceso.
+
+Las boletas electorales contendrán, entre otros datos, el cargo correspondiente a cada tipo de elección. Llevarán impresos los nombres completos numerados de las personas candidatas distribuidos por orden alfabético y progresivo iniciando por el apellido paterno, e indicando la especialización por materia cuando corresponda. El listado de personas candidatas distinguirá la autoridad postulante y las candidaturas de las personas juzgadoras que estén en funciones en los cargos a renovar y deseen participar en la elección.
+
+Las elecciones judiciales deberán coincidir con la fecha de la elección local ordinaria del año 2027. Podrán participar como observadoras las personas o agrupaciones acreditadas por la autoridad electoral en materia administrativa del Estado, con excepción de representantes o militantes de un partido político.
+
+La autoridad electoral en materia administrativa del Estado efectuará el proceso de elección y realizará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, respetando el principio constitucional de paridad, y declarará la validez de las elecciones. La autoridad electoral jurisdiccional del Estado resolverá las impugnaciones relacionadas con los resultados, la entrega de constancias y la validez de las elecciones a más tardar el 1° de agosto de 2027.
+
+Las personas que resulten electas tomarán protesta de su encargo ante la Legislatura del Estado el 1° de octubre de 2027.
+
+Artículo Cuarto. El periodo de las Magistradas y Magistrados que resulten electos en la elección ordinaria de 2027 durará seis o nueve años, por lo que seis de las Magistraturas tendrán un nombramiento por un periodo de seis años y por nueve años para el resto, conforme a la normativa que para tal efecto se expida. Los periodos que correspondan a cada cargo se determinarán en función del número de votos que obtenga cada candidatura, correspondiendo un periodo mayor a quienes alcancen mayor votación.
+
+Las Magistradas y los Magistrados, Juezas y Jueces que se encuentren en funciones a la entrada en vigor de la presente Ley, continuarán en su encargo hasta el 30 de septiembre de 2027.
+
+En caso de que alguno de las Magistradas y Magistrados en funciones, por cualquier motivo se separaren de manera definitiva del cargo antes de la entrada en funciones de las Magistradas y Magistrados electos en términos de la presente Ley, la Legislatura del Estado, por mayoría calificada de dos terceras partes de sus integrantes, designará a las Magistradas y Magistrados que deban ocupar dichas vacantes, previa propuesta del Consejo de la Judicatura.
+
+Las personas designadas para desempeñar el encargo descrito en el párrafo que antecede, deberán cumplir los requisitos que se establecen en el artículo 28 de la presente Ley y durarán en su encargo hasta el 30 de septiembre de 2027, sin que puedan ser incorporados de manera directa a los listados de candidaturas que se remitan a la Legislatura para el proceso electoral ordinario del año 2027. Sin perjuicio de que en caso de cumplir con los requisitos, puedan registrarse como candidatos en términos de lo dispuesto por esta Ley.
+
+Artículo Quinto. En sus respectivos ámbitos de competencia, tanto el Consejo de la Judicatura como el Pleno del Tribunal Superior de Justicia continuarán ejerciendo las facultades y atribuciones de administración, vigilancia y disciplina del Poder Judicial del Estado, hasta en tanto entren en funciones el Órgano de Administración Judicial o el Tribunal de Disciplina Judicial, según sea el caso.
+
+El periodo de los nombramientos de las Consejeras y Consejeros de la Judicatura del Estado en funciones a la entrada en vigor de la presente Ley que concluyan antes de la fecha de la elección ordinaria del año 2027 se prorrogarán hasta la fecha que tomen protesta las Magistradas y Magistrados del Tribunal de Disciplina Judicial que emanen de la elección que se celebre para tal efecto.
+
+Artículo Sexto. El Consejo de la Judicatura del Poder Judicial del Estado de Querétaro, continuará ejerciendo las facultades y atribuciones de administración, vigilancia y disciplina, hasta en tanto sean creados el Tribunal de Disciplina Judicial y el Órgano de Administración Judicial, quedando extinto el Consejo de la Judicatura del Poder Judicial del Estado de Querétaro en esa misma fecha.
+
+El Tribunal de Disciplina Judicial iniciará sus funciones en la fecha en que tomen protesta las Magistradas y Magistrados electos en la elección ordinaria que se celebre en el año 2027.
+
+Los integrantes del Órgano de Administración Judicial serán designados dentro de los 45 días naturales siguientes a la emisión de la Convocatoria prevista en el artículo 28, apartado B, fracción I, de la presente Ley.
+
+El Órgano de Administración Judicial iniciará sus funciones cuando lo hagan las personas que resulten electas para integrar el Pleno del Tribunal Superior de Justicia y el Tribunal de Disciplina. Durante dicho plazo, la persona titular del Poder Ejecutivo, el Poder Legislativo y el Pleno del Tribunal Superior de Justicia del Estado deberán realizar, en el ámbito de sus respectivas atribuciones, los nombramientos que les correspondan.
+
+Durante los períodos de transición referidos en los párrafos anteriores, tanto el Pleno del Tribunal Superior de Justicia como el Consejo de la Judicatura Estatal, diseñarán conjuntamente e implementarán un plan de trabajo para la transferencia de los recursos materiales, humanos, económicos y financieros al Órgano de Administración Judicial en lo que corresponde a sus funciones administrativas y de carrera judicial, y al Tribunal de Disciplina Judicial en lo que respecta a las funciones de disciplina y control interno de los integrantes del Poder Judicial.
+
+El Pleno del Tribunal Superior de Justicia y el Consejo de la Judicatura Estatal, en sus respectivos ámbitos de competencia, aprobarán los acuerdos generales y específicos que se requieran para implementar dicho plan de trabajo, conforme a los plazos que se establezcan en el mismo y, en su caso, en los términos que determinen las disposiciones legales y administrativas aplicables.
+
+El Pleno del Tribunal Superior de Justicia y el Consejo de la Judicatura Estatal continuarán la substanciación de los procedimientos que se encuentren pendientes de resolución y entregarán la totalidad de los expedientes que se encuentren en trámite, así como la totalidad de su acervo documental, al Tribunal de Disciplina Judicial o al Órgano de Administración Judicial, según corresponda.
+
+Artículo Séptimo. Las remuneraciones de las personas servidoras públicas del Poder Judicial del Estado de Querétaro que estén en funciones, al momento de la entrada en vigor y operación de la presente Ley no podrán ser mayores a las establecidas para las personas titulares de la Presidencia de la República y la Gubernatura del Estado, acorde al presupuesto correspondiente, por lo que éstas deberán ajustarse a los parámetros establecidos sin responsabilidad para el Poder Judicial del Estado de Querétaro.
+
+Las personas servidoras públicas del Poder Judicial del Estado recibirán una remuneración adecuada e irrenunciable, sin que pueda ser disminuida durante su encargo, con excepción de lo señalado en el párrafo anterior.
+
+Artículo Octavo. La Legislatura del Estado tendrá un plazo de noventa días naturales, a partir de la entrada en vigor de la presente Ley, para realizar las adecuaciones a las leyes estatales que correspondan para dar cumplimiento a la misma. Entretanto, se aplicará directamente lo establecido en la Constitución Política de los Estados Unidos Mexicanos, esta Constitución Estatal, los acuerdos de la autoridad electoral en materia administrativa del Estado y, supletoriamente, las leyes en materia electoral, en todo aquello que no se contraponga a la presente Ley.
+
+Artículo Noveno. Los derechos laborales de las personas trabajadoras del Poder Judicial del Estado serán respetados en su totalidad.
+
+Los servidores públicos electos para el desempeño de un cargo en el Poder Judicial generarán antigüedad laboral por el tiempo durante el que ejerzan su función.
+
+Las erogaciones que se generen con motivo de la reforma efectuada por esta Ley, se realizarán con cargo a los presupuestos de egresos, debiendo el Poder Judicial del Estado de Querétaro realizar los estudios, previsiones y autorizaciones que correspondan, para el pago de las obligaciones de carácter laboral que para tal efecto se generen.
+
+En caso de que se realice alguna modificación a la estructura orgánica del Poder Judicial del Estado, ésta deberá llevarse a cabo conforme a las disposiciones jurídicas aplicables, por lo que deberá de estarse a lo establecido en los presupuestos de egresos que para tal efecto se autoricen.
+
+Las Magistradas, Magistrados, Juezas y Jueces que concluyan su encargo por haber declinado su candidatura o no resultar electas por la ciudadanía para un nuevo periodo conforme al artículo segundo transitorio de esta Ley, serán acreedoras al pago de un importe equivalente a tres meses de salario integrado y de veinte días de salario por cada año de servicio prestado, así como a las demás prestaciones a que tengan derecho.
+
+El pago señalado en el párrafo anterior no será aplicable para las Magistradas y Magistrados que declinen su candidatura o no resulten electas por la ciudadanía, que al momento de finalizar su encargo, cuenten con el derecho a recibir un haber de retiro conforme a la Ley Orgánica del Poder Judicial del Estado de Querétaro.
+
+Se faculta al Poder Judicial del Estado de Querétaro para que, conforme a los presupuestos aprobados, en el ámbito de sus respectivas competencias, emitan las autorizaciones que en su caso correspondan, a efecto de que se realicen las adecuaciones de recursos humanos, materiales, económicos y financieros, que sean necesarios como consecuencia de la presente Ley.
+
+Con la finalidad de garantizar y dar continuidad a las actividades de administración de justicia, en tanto se realiza la redistribución de las estructuras orgánicas o modificación de programas presupuestarios, podrán continuar su operación conforme a la estructura organizacional y presupuestal en la que se encuentren a la entrada en vigor de la Presente Ley, hasta en tanto no se realice las modificaciones conforme al presupuesto aprobado.
+
+Para la creación de nuevas plazas y estructuras orgánicas, se deberá contar con la provisión presupuestaria autorizada y aprobada para tal fin en el Presupuesto de Egresos, que sea resultado del cumplimiento de la presente Ley, principalmente en materia de justicia cívica y mecanismos alternativos en solución de controversias, conforme a la materia que corresponda.
+
+El Poder Judicial del Estado de Querétaro llevará a cabo los actos, gestiones y procesos necesarios que en su caso correspondan, para extinguir los fondos, fideicomisos, mandatos o contratos análogos, con excepción de aquellos que en Ley Secundaria se encuentren reconocidos. Para efectos del presente, el Poder Judicial del Estado de Querétaro contará con un plazo máximo de ciento ochenta días naturales posteriores a la entrada en vigor de la presente Ley para realizar las gestiones jurídicas, administrativas y financieras para enterar los recursos remanentes que procedan de dichos instrumentos, así como productos y aprovechamientos, a la Secretaría de Finanzas del Poder Ejecutivo del Estado de Querétaro.
+
+Artículo Décimo. Las erogaciones que se generen con motivo de la entrada en vigor de la presente Ley se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto responsables para el presente ejercicio fiscal, por lo que no se autorizarán recursos adicionales durante el ejercicio fiscal, para tales efectos.
+
+Artículo Décimo Primero. Se modifica la denominación, adscripción y función del Instituto de Especialización Judicial para ser la Escuela de Formación Judicial del Estado, dependiente del Órgano de Administración Judicial y el cual entrará en funciones con la misma temporalidad.
+
+Artículo Décimo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Décimo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro.
