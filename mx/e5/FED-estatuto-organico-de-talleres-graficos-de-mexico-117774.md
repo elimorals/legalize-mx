@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-talleres-graficos-de-mexico-117774"
 country: "mx"
 rank: "estatuto"
 publication_date: "2016-12-28"
-last_updated: "2016-12-28"
+last_updated: "2026-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117774&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,13 @@ issue_date: "2016-09-22"
 ---
 # ESTATUTO ORGANICO DE TALLERES GRAFICOS DE MEXICO
 
+[NOTA 1: INFORMACIÓN OBTENIDA DE: www.dof.gob.mx/2026/TGM/ESTATUTO_ORGANICO_DE_TALLERES_GRAFICOS_DE_MEXICO.pdf]
+
+[NOTA 2: DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DE TALLERES GRÁFICOS DE MÉXICO, PUBLICADO EN EL D.O.F. DE 30 DE ABRIL DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
 ESTATUTO ORGÁNICO DE TALLERES GRÁFICOS DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ABRIL DE 2026 (ABROGADO).
 
 Estatuto publicado en la Sexta Sección del Diario Oficial de la Federación, el miércoles 28 de diciembre de 2016.
 
@@ -936,3 +940,73 @@ El presente Estatuto fue aprobado por la Junta de Gobierno de Talleres Gráficos
 ACUERDO 05A-I-16.- Se tiene por aprobado el Estatuto Orgánico de Talleres Gráficos de México, y se instruye a la Prosecretaria haga los trámites conducentes para su publicación en el Diario Oficial de la Federación, lo anterior, de conformidad con lo dispuesto por los artículos 58 fracción VIII de la Ley Federal de las Entidades Paraestatales; 16 fracción IX, 19 fracción VIII y 21 fracción XXI del Estatuto Orgánico de la Entidad.- Firmas.
 
 Presidente: el Director General de Radio, Televisión y Cinematografía, Amadeo Díaz Moguel.- Rúbrica.- Secretaría: la Coordinadora de Asesores en Materia Jurídica de la Subsecretaría de Normatividad de Medios de la SEGOB, Gabriela M. González Montes.- Rúbrica.- Prosecretario: el Gerente Jurídico de Talleres Gráficos de México, Jesús Montaudon Ortega.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 30 DE ABRIL DE 2026.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA SE TRASCRIBE EL "AVISO POR EL QUE SE DA A CONOCER LA DIRECCIÓN ELECTRÓNICA EN DONDE PODRÁ SER CONSULTADO EL ESTATUTO ORGÁNICO DE TALLERES GRÁFICOS DE MÉXICO", QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+AVISO POR EL QUE SE DAN A CONOCER LA DIRECCIÓN ELECTRÓNICA EN DONDE PODRÁ SER CONSULTADO EL ESTATUTO ORGÁNICO DE TALLERES GRÁFICOS DE MÉXICO
+
+www.dof.gob.mx/2026/TGM/ESTATUTO_ORGANICO_DE_TALLERES_GRAFICOS_DE_MEXICO.pdf
+
+Ciudad de México a 20 de abril de 2026.- Gerente Jurídico, Dr. Ramón Hernández Reyes.- Rúbrica.
+
+## TRANSITORIOS
+
+PRIMERO. El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, previa aprobación por la Junta de Gobierno del Organismo.
+
+SEGUNDO. Se abroga el Estatuto Orgánico de Talleres Gráficos de México, aprobado por la Junta de Gobierno del Organismo del 28 de diciembre del 2016.
+
+Asimismo, se abrogan todas las disposiciones contrarias a lo previsto en el presente Estatuto.
+
+TERCERO. El Director General proveerá lo necesario para que el Manual General de Organización del Organismo, corresponda a las disposiciones que establecen la Ley, el Reglamento, el Decreto y el Presente Estatuto, de cuya expedición se informará a la Junta de Gobierno.
+
+CUARTO. Dentro de los 180 días naturales siguientes a la entrada en vigor del presente Estatuto, deberá quedar adecuada la normativa interna a lo previsto en el presente documento.
+
+De manera enunciativa y no limitativa adecuándose a la normatividad vigente, en su caso, serán entre otros, los siguientes:
+
+- Manual General de Organización de Talleres Gráficos de México.
+
+- Código de Conducta de Talleres Gráficos de México.
+
+- Manual de Gestión de Calidad de Talleres Gráficos de México.
+
+- Programa Anual de Desarrollo Archivístico de Talleres Gráficos de México. (PADA) 2026.
+
+- Condiciones Generales de Trabajo de Talleres Gráficos de México.
+
+- Reglamento de Seguridad e Higiene de Talleres Gráficos de México.
+
+- Reglamento de Seguridad, Higiene y Medio Ambiente en el Trabajo del Sector Público Federal de Talleres Gráficos de México.
+
+- Políticas y Procedimientos Administrativos para el Registro y Control de Asistencia de Talleres Gráficos de México.
+
+- Políticas y Procedimientos para el Procesamiento de la Nómina de Talleres Gráficos de México.
+
+- Políticas y Procedimientos para el Pago de Horas Extraordinarias de Trabajo de Talleres Gráficos de México. (Personal Operativo de Base y Confianza).
+
+- Políticas y Procedimientos Administrativos para Otorgar y Recuperar Anticipos de Salarios de Talleres Gráficos de México.
+
+- Políticas, Bases y Lineamientos en Materia de Adquisiciones, Arrendamientos y Prestación de Servicios de Talleres Gráficos de México. (POBALINES).
+
+- Manual de Integración y Funcionamiento del Comité de Adquisiciones, Arrendamientos y Servicios de Talleres Gráficos de México.
+
+- Manual de Integración y Funcionamiento del Comité de Obras Públicas de Talleres Gráficos de México.
+
+- Manual de Integración y Funcionamiento del Comité de Bienes Muebles de Talleres Gráficos de México.
+
+QUINTO. Dentro de los 180 días naturales la Junta deberá aprobar el Plan de Implementación Tecnológica de TGM, que incluya:
+
+1. La reestructuración orgánica;
+
+2. La certificación de seguridad informática;
+
+3. La actualización del manual de organización;
+
+4. El diagnóstico de capacidades técnicas y de capital humano; y
+
+5. La adecuación presupuestal y de infraestructura.
+
+SEXTO. El presente Estatuto fue aprobado por la Junta de Gobierno de Talleres Gráficos de México, en la Primera Sesión Ordinaria celebrada en la Ciudad de México, el veinticuatro de marzo de dos mil veintiséis mediante Acuerdo 05-I-ORD-2026 que a la letra dice: “Con fundamento en lo dispuesto en los artículos 15, párrafo II y III; 58 fracción VIII de la Ley Federal de las Entidades Paraestatales; y 16 fracción IX del Estatuto Orgánico de Talleres Gráficos de México, las y los integrantes de (sic) Junta de Gobierno aprueban el Estatuto Orgánico de Talleres Gráficos de México y autorizan al organismo a continuar con el proceso administrativo y las gestiones correspondientes para su formalización”.
