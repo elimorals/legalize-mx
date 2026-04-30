@@ -4,7 +4,7 @@ identifier: "FED-reglas-de-caracter-general-de-la-ley-de-concursos-176975"
 country: "mx"
 rank: "reglas"
 publication_date: "2025-01-29"
-last_updated: "2025-01-29"
+last_updated: "2026-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=176975&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ issue_date: "2024-12-06"
 
 REGLAS DE CARÁCTER GENERAL DE LA LEY DE CONCURSOS MERCANTILES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ABRIL DE 2026.
 
 Reglas publicadas en el Diario Oficial de la Federación, el miércoles 29 de enero de 2025.
 
@@ -351,7 +351,7 @@ En el supuesto de que se haya designado al Especialista, la suspensión temporal
 
 II. Incapacidad del Especialista, en cuyo caso deberán exhibirse las constancias que acrediten tal estado;
 
-III. Como resultado de las sanciones impuestas por el Instituto en términos de lo dispuesto por los artículos 336, 337 y 338 de la Ley; o
+III. (DEROGADA, D.O.F. 30 DE ABRIL DE 2026)
 
 IV. Las demás que determine la Junta Directiva.
 
@@ -367,7 +367,7 @@ II. El Especialista lo solicite respecto de Ubicaciones Geográficas o Especiali
 
 III. Por muerte del Especialista y/o incapacidad permanente, y así se acredite ante el Instituto; y
 
-IV. Como resultado de la sanción impuesta por el Instituto en términos de lo dispuesto por el artículo 337 de la Ley.
+IV. (DEROGADA, D.O.F. 30 DE ABRIL DE 2026)
 
 A excepción de lo dispuesto por la fracción II, adicionalmente se cancelará el Registro del Especialista.
 
@@ -1022,3 +1022,11 @@ Tercero.- Los honorarios de los Especialistas que se encuentren en funciones al 
 Cuarto.- Se mantienen vigentes los “Lineamientos de Supervisión de los Especialistas de Concursos Mercantiles” publicados en el Diario Oficial de la Federación el 30 de mayo de 2022 y sus modificaciones, así como el "Acuerdo de la Junta Directiva del Instituto Federal de Especialistas de Concursos Mercantiles por el que se ordena la publicación de la Metodología para la obtención de información en integración del cuadro diagnóstico de evaluación para la categorización de los especialistas (etapa de quiebra)” publicado en el Diario Oficial de la Federación el 11 de noviembre de 2022.
 
 Las presentes Reglas se emiten en la Ciudad de México, el seis de diciembre de dos mil veinticuatro.- El Director General del Instituto Federal de Especialistas de Concursos Mercantiles, Edgar Manuel Bonilla Del Ángel.- Firma.- Vocales del Instituto Federal de Especialistas de Concursos Mercantiles: Jaime Alejandro Gutiérrez Vidal, Guillermo Casas, Marco Antonio López Pérez y María Isabel Almaraz Guzmán.- Firmas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 30 DE ABRIL DE 2026.
+
+> <small>[N. DE E. A TRANSITORIO DEL ACUERDO POR EL CUAL SE DEROGAN DIVERSAS DISPOSICIONES DE LAS REGLAS DE CARÁCTER GENERAL DE LA LEY DE CONCURSOS MERCANTILES PUBLICADAS EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL VEINTINUEVE DE ENERO DE DOS MIL VEINTICINCO.]</small>
+
+ÚNICO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
