@@ -4,7 +4,7 @@ identifier: "FED-lineamientos-para-la-sustanciacion-del-procedimiento-de-156627"
 country: "mx"
 rank: "lineamientos"
 publication_date: "2022-03-16"
-last_updated: "2022-03-16"
+last_updated: "2026-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=156627&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2022-02-28"
 ---
 # LINEAMIENTOS PARA LA SUSTANCIACION DEL PROCEDIMIENTO DE SANCION ADMINISTRATIVA A LOS ESPECIALISTAS DE CONCURSOS MERCANTILES
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL “ACUERDO POR EL QUE SE ABROGAN LOS LINEAMIENTOS PARA LA SUSTANCIACIÓN DEL PROCEDIMIENTO DE SANCIÓN ADMINISTRATIVA A LOS ESPECIALISTAS DE CONCURSOS MERCANTILES PUBLICADOS EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL DIECISÉIS DE MARZO DE DOS MIL VEINTIDÓS, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LINEAMIENTOS PARA LA SUSTANCIACIÓN DEL PROCEDIMIENTO DE SANCIÓN ADMINISTRATIVA A LOS ESPECIALISTAS DE CONCURSOS MERCANTILES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE ABRIL DE 2026 (ABROGADO).
 
 Lineamientos publicados en el Número 15 del Diario Oficial de la Federación, el miércoles 16 de marzo de 2022.
 
@@ -156,3 +158,11 @@ SEGUNDO. Los procedimientos que se encuentren en trámite se resolverán de conf
 TERCERO. Publíquese para su mayor difusión en el portal de internet del Instituto Federal de Especialistas de Concursos Mercantiles.
 
 Los presentes Lineamientos se emiten en la Ciudad de México, el veintiocho de febrero de dos mil veintidós.- El Director General del Instituto Federal de Especialistas de Concursos Mercantiles, Edgar Manuel Bonilla Del Ángel.- Firma.- Vocales del Instituto Federal de Especialistas de Concursos Mercantiles: Jaime Alejandro Gutiérrez Vidal, Guillermo Casas, Marco Antonio López Pérez, María Isabel Almaraz Guzmán.- Firmas.- El Secretario de la Junta Directiva del Instituto Federal de Especialistas de Concursos Mercantiles, José Antonio García Villalobos Bilbao.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 30 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE ABROGAN LOS LINEAMIENTOS PARA LA SUSTANCIACIÓN DEL PROCEDIMIENTO DE SANCIÓN ADMINISTRATIVA A LOS ESPECIALISTAS DE CONCURSOS MERCANTILES PUBLICADOS EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL DIECISÉIS DE MARZO DE DOS MIL VEINTIDÓS”.]
+
+ÚNICO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
