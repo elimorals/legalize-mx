@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2025-12-31"
+last_updated: "2026-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE ABRIL DE 2026.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -78,6 +78,10 @@ El Congreso del Estado formulará y aprobará su presupuesto anual de egresos ap
 La residencia del Congreso del Estado se fija en su capital, con excepción de los casos que por circunstancias graves, especiales o extraordinarias, resuelva trasladarse provisionalmente a otro lugar de la Entidad.
 
 La legislatura sesionará en su recinto oficial o en el que por acuerdo del pleno del Congreso del Estado o de la Diputación Permanente se habilite transitoriamente, dándose a conocer de manera pública tal determinación, debiendo desahogarse sólo los asuntos concretos previstos en el decreto o acuerdo correspondiente. Hecho lo cual, el Poder Legislativo regresará automáticamente a su recinto oficial.
+
+> <small>(ADICIONADO, B.O. 30 DE ABRIL DE 2026)</small>
+
+Cuando no medie el acuerdo del pleno señalado en el párrafo anterior, y derivado de casos extraordinarios que impidan o pongan en riesgo el desarrollo normal de la labor legislativa en el recinto oficial, la Comisión de Régimen Interno y Concertación Política podrá acordar e instruir a la Mesa Directiva en funciones en habilitar y convocar a una sede alterna a la oficial, para el desarrollo de sesiones ordinarias, extraordinarias, de la Diputación Permanente, de Comisión o de cualquier otra actividad propia del trabajo legislativo, mismas, que atenderán al procedimiento legislativo y técnico correspondiente previsto en esta Ley y demás disposiciones aplicables. Todo esto, en tanto se dan las condiciones para el desarrollo normal de la función legislativa en el recinto oficial.
 
 Por recinto oficial se entenderá el inmueble donde esté asentado el Poder Legislativo.
 
@@ -3330,3 +3334,11 @@ B.O. 31 DE DICIEMBRE DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 30 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 104, QUE ADICIONA UN PÁRRAFO AL ARTÍCULO 8 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
