@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-acanceh-yucatan-90718"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-26"
-last_updated: "2012-12-26"
+last_updated: "2026-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90718&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE ACANCEH, YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE ABRIL DE 2026 (ABROGADA).
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 26 de diciembre de 2012.
 
@@ -33,9 +33,11 @@ DECRETO NÚMERO 15
 
 CIUDADANO ROLANDO RODRIGO ZAPATA BELLO, GOBERNADOR DEL ESTADO DE YUCATÁN, CON FUNDAMENTO EN LOS ARTÍCULOS 38 Y 55 FRACCIONES II Y XXV DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE YUCATÁN; 12, 14 FRACCIONES VII Y IX, 27 FRACCIÓN I Y 30 FRACCIÓN IV DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN; Y 3 FRACCIÓN V DE LA LEY DEL DIARIO OFICIAL DEL GOBIERNO DEL ESTADO DE YUCATÁN, A SUS HABITANTES HAGO SABER:
 
-"EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A· LO DISPUESTO EN LOS ARTÍCULOS 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA; 18 DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, Y 3 DE LA LEY DEL DIARIO OFICIAL DEL GOBIERNO, TODAS DEL ESTADO DE YUCATÁN, EMITE LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE ACANCEH, CUNCUNUL, MAXCANÚ Y VALLADOLID, DEL ESTADO DE YUCATÁN, EN BASE A LA SIGUIENTE:
+"EL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN LOS ARTÍCULOS 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA; 18 DE LA LEY DE GOBIERNO DEL PODER LEGISLATIVO, Y 3 DE LA LEY DEL DIARIO OFICIAL DEL GOBIERNO, TODAS DEL ESTADO DE YUCATÁN, EMITE LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE ACANCEH, CUNCUNUL, MAXCANÚ Y VALLADOLID, DEL ESTADO DE YUCATÁN, EN BASE A LA SIGUIENTE:
 
-E X P O S I C I Ó N D E M O T I V O S:...
+E X P O S I C I Ó N D E M O T I V O S:
+
+[...]
 
 En tal virtud y con fundamento en los artículos 29 y 30 fracción V de la Constitución Política, 18 y 43 fracción IV inciso a) de la Ley de Gobierno del Poder Legislativo y 71 fracción II del Reglamento de la Ley de Gobierno del Poder Legislativo, todos del Estado de Yucatán, sometemos a consideración del Pleno del H. Congreso del Estado de Yucatán, el siguiente proyecto de:
 
@@ -1446,3 +1448,21 @@ SECRETARIO DE PLANEACIÓN Y PRESUPUESTO
 C. MIGUEL ANTONIO FERNÁNDEZ VARGAS
 
 SECRETARIO DE LA CONTRALORÍA GENERAL
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 30 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 180/2026 POR EL QUE SE MODIFICA LA LEY DE INGRESOS DEL MUNICIPIO DE ACANCEH, YUCATÁN, PARA EL EJERCICIO FISCAL 2026, Y SE EMITE LA LEY DE HACIENDA DEL MUNICIPIO DE ACANCEH, YUCATÁN".]
+
+Entrada en vigor
+
+Artículo primero. Este Decreto entrará en vigor el día de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Abrogación
+
+Artículo segundo. Se abroga la Ley de Hacienda del Municipio de Acanceh, Yucatán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán en el Decreto número 15, en fecha 26 de diciembre de 2012.
+
+Supletoriedad de la ley
+
+Artículo tercero. En lo no previsto por esta Ley, se aplicará supletoriamente lo establecido por el Código Fiscal y la Ley de Hacienda Municipal, ambas del Estado de Yucatán.
