@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-la-comision-de-derechos-humanos-del-estado-de-yucatan-99
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-28"
-last_updated: "2025-07-28"
+last_updated: "2026-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99274&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE ABRIL DE 2026.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 28 de febrero de 2014.
 
@@ -825,19 +825,19 @@ VII. Presentar al presidente de la comisión, informes periódicos sobre las act
 
 VIII. Las demás que le confiera esta ley, el reglamento interno y otras disposiciones legales y normativas aplicables.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE ABRIL DE 2026)</small>
 
-### Capítulo IX Bis. Órgano de Control Interno
+### Capitulo IX Bis. Órgano de Control Interno y Autoridad Garante
 
-> <small>(ADICIONADO, D.O. 18 DE JULIO DE 2017)</small>
+> <small>(REFORMADO SU EPÍGRAFE, D.O. 30 DE ABRIL DE 2026)</small>
 
 ###### Artículo 43 Bis.
 
-Órgano de control interno
+Órgano de Control Interno y Autoridad Garante
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE JULIO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE ABRIL DE 2026)</small>
 
-La comisión contará con un órgano de control interno encargado de promover, evaluar y fortalecer el buen funcionamiento del control interno en la comisión, de aplicar las leyes en materia de responsabilidades administrativas y, en su carácter de autoridad garante estatal, de aplicar las leyes en materia de transparencia, acceso a la información y protección de datos personales.
+La comisión contará con un órgano de control interno encargado de promover, evaluar y fortalecer el buen funcionamiento del control interno en la comisión, así como de aplicar las leyes en materia de responsabilidades administrativas; y en materia de transparencia y acceso a la información pública y protección de datos personales para fungir como Autoridad Garante.
 
 El órgano de control interno tendrá un titular que lo representará y contará con la estructura orgánica, personal y recursos necesarios para el cumplimiento de su objeto.
 
@@ -847,9 +847,9 @@ El órgano de control interno tendrá un titular que lo representará y contará
 
 Nombramiento y Atribuciones
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE JULIO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE ABRIL DE 2026)</small>
 
-El titular del órgano de control interno ejercerá las facultades a que se refiere la fracción III del artículo 98 de la Constitución Política del Estado de Yucatán y en la legislación aplicable en materia de responsabilidades administrativas, así como, en su carácter de autoridad garante estatal, en las leyes en materia de transparencia, acceso a la información y protección de datos personales.
+La persona titular del órgano de control interno ejercerá las facultades a que se refiere la fracción III del artículo 98 de la Constitución Política del Estado de Yucatán, la legislación aplicable en materia de responsabilidades administrativas y, en materia de transparencia y acceso a la información pública como autoridad garante, conforme a lo establecido en el artículo 6 apartado A fracción VIII de la Constitución Política de los Estados Unidos Mexicanos, el artículo 75 nonies de la Constitución Política del Estado de Yucatán, así como el diverso articulado de la Ley de Transparencia y Acceso a la Información Pública y la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados, ambos ordenamientos del Estado de Yucatán.
 
 El titular del órgano de control interno durará en su cargo cinco años y será elegido por el voto de las dos terceras partes de los integrantes del Congreso, mediante el procedimiento establecido en la Ley de Gobierno del Poder Legislativo del Estado de Yucatán.
 
@@ -1826,3 +1826,15 @@ El Poder Ejecutivo, a través de la Secretaría de Administración y Finanzas, d
 Titular de la dependencia
 
 Artículo décimo primero. Con el objeto de no afectar derechos adquiridos con anterioridad a la entrada en vigor de este decreto, la persona titular de la actual Secretaría de la Contraloría General continuará en el cargo de titular de la Secretaría Anticorrupción y Buen Gobierno sin necesidad de nuevo nombramiento por parte del titular del Poder Ejecutivo, ni la ratificación por parte de la legislatura y concluirá su cargo en los términos de su nombramiento.
+
+D.O. 30 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 181/2026 POR EL QUE SE MODIFICA LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE YUCATÁN, EN MATERIA DE ÓRGANO DE CONTROL INTERNO Y AUTORIDAD GARANTE”.]
+
+Entrada en vigor
+
+Artículo primero. Este decreto prevé su entrada en vigor el día siguiente al de su publicación en Diario Oficial del Gobierno del Estado de Yucatán.
+
+Cláusula derogatoria
+
+Artículo segundo. Se derogan todas las disposiciones de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
