@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-las-personas-adultas-mayores-para-el-estado-y-los-57049"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-07"
-last_updated: "2026-04-15"
+last_updated: "2026-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57049&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO Y LOS MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2026.
 
 Ley publicada en la Edición Extraordinaria al Periódico Oficial del Estado de San Luis Potosí, el martes 7 de agosto de 2007.
 
@@ -767,7 +767,9 @@ I. Establecer, en coordinación con el INAPAM y la Secretaría de Salud, en los 
 
 II. Formalizar un programa intergeneracional que permita la convivencia entre estudiantes de nivel básico, con las personas adultas mayores;
 
-III. Conformar, en coordinación con el Instituto Estatal de Educación para Adultos, cursos de educación básica dirigidos a las personas adultas mayores, con la finalidad de que éstas incrementen su desarrollo personal;
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2026)</small>
+
+III. Conformar, en coordinación con el Instituto Estatal de Educación para Adultos, cursos de educación básica, así como de informática y alfabetización digital, dirigidos a las personas adultas mayores, a fin de fortalecer su desarrollo personal, mejorar sus capacidades educativas y promover su inclusión en el uso de las tecnologías de la información.
 
 IV. Implementar, en coordinación con la Secretaría de Trabajo y Previsión Social, cursos de capacitación dirigidos a las personas adultas mayores, con la finalidad de que éstas se encuentren activas;
 
@@ -1492,5 +1494,11 @@ P.O. 5 DE MARZO DE 2026.
 P.O. 15 DE ABRIL DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO 0508.- QUE REFORMA Y REALIZA ADICIÓN AL ARTÍCULO 2, DE LA LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+P.O. 30 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 0515.- QUE REFORMA EL ARTÍCULO 48, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ; Y REFORMA EL ARTÍCULO 25, DE LA LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
