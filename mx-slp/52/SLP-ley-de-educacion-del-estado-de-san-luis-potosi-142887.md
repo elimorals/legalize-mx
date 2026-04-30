@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-educacion-del-estado-de-san-luis-potosi-142887"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-14"
-last_updated: "2026-03-10"
+last_updated: "2026-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 14 de mayo de 2020.
 
@@ -619,9 +619,11 @@ En el Sistema Educativo Estatal se atenderán, en lo conducente, las disposicion
 
 ### Capítulo IX. Educación para Personas Adultas
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ABRIL DE 2026)</small>
+
 ###### ARTÍCULO 48.
 
-El Gobierno del Estado y los municipios, en el ámbito de sus competencias, generarán y aplicarán estrategias que aseguren el derecho de las personas adultas a ingresar a las instituciones educativas en sus distintos tipos y modalidades, para lo cual, entre otras, ofrecerán acceso a programas y servicios educativos para personas adultas, que consideren sus contextos familiares, comunitarios, laborales y sociales.
+El Gobierno del Estado y los municipios, en el ámbito de sus competencias, generarán y aplicarán estrategias que aseguren el derecho de las personas adultas a ingresar a las instituciones educativas en sus distintos tipos y modalidades, para lo cual, entre otras, ofrecerán acceso a programas y servicios educativos para personas adultas, que consideren sus contextos familiares, comunitarios, laborales y sociales; de igual manera, se promoverá la capacitación de las tecnologías de la información y la comunicación, promoviendo la alfabetización digital como un medio para fortalecer el ejercicio de sus derechos y favorecer su plena integración social.
 
 Esta educación proporcionará los medios para erradicar el rezago educativo y analfabetismo a través de diversos tipos y modalidades de estudio, así como una orientación integral para la vida que posibilite a las personas adultas formar parte activa de la sociedad, a través de las habilidades, conocimientos y aptitudes que adquiera con el proceso de enseñanza aprendizaje que se les facilite para este fin.
 
@@ -2256,3 +2258,9 @@ P.O. 10 DE MARZO DE 2026.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 30 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 0515.- QUE REFORMA EL ARTÍCULO 48, DE LA LEY DE EDUCACIÓN DEL ESTADO DE SAN LUIS POTOSÍ; Y REFORMA EL ARTÍCULO 25, DE LA LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
