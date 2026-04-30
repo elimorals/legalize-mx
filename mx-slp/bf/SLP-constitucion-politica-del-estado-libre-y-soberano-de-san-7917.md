@@ -4,7 +4,7 @@ identifier: "SLP-constitucion-politica-del-estado-libre-y-soberano-de-san-7917"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-01-02"
-last_updated: "2026-04-22"
+last_updated: "2026-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7917&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2026.
 
 Constitución publicada en la Quinta Epoca, Tomo III, Periódicos Oficiales números 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 y 11, de fechas: 2, 5, 9, 12, 16, 19, 23, 26 y 30 de enero; 2 y 6 de febrero de 1918, respectivamente.
 
@@ -135,127 +135,117 @@ El Estado garantizará el derecho de toda persona a una vida libre de violencia,
 
 Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad, en los términos que establezcan las leyes aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2026)</small>
 
-###### ARTÍCULO 9o.
+###### ARTÍCULO 9°.
 
-El Estado de San Luis Potosí tiene una composición pluriétnica, pluricultural, y multilingüística, sustentada originalmente en sus pueblos indígenas. Reconoce la existencia histórica y vigente en su territorio de los pueblos Nahuas; Teének o Huastecos; y Xi´iuy; así como la presencia regular de los Wirrarika o Huicholes; y la población Afromexicana.
+El Estado de San Luis Potosí tiene una composición pluriétnica, pluricultural, y multilingüística, sustentada originalmente en sus pueblos indígenas, que son aquellas colectividades con una continuidad histórica de las sociedades precoloniales establecidas en el territorio potosino; y que conservan, desarrollan y transmiten sus instituciones sociales, normativas, económicas, culturales y políticas, o parte de ellas. Reconoce la existencia histórica y vigente en su territorio de los pueblos Nahuas; Teének o Huastecos; y Xi´iuy; así como la presencia regular de los Wixárika, y comunidades o población Afromexicana. Además, la ley reconocerá y protegerá a las personas indígenas pertenecientes a otro pueblo, o que procedentes de otra Entidad federativa residan temporal o permanentemente dentro del territorio del Estado.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE JULIO DE 2003)</small>
+La conciencia de las personas de su identidad étnica deberá ser criterio fundamental para determinar a quienes se aplicarán las disposiciones sobre pueblos y comunidades indígenas. Las propias comunidades coadyuvarán, en última instancia, a este reconocimiento.
 
-Asegurando la unidad de la Nación la ley establecerá sus derechos y obligaciones conforme a las bases siguientes:
+El Estado reconoce a los pueblos indígenas su unidad, lengua y derechos históricos, manifiestos en sus comunidades, a través de sus instituciones políticas, culturales, sociales y económicas, así como a su actual jurisdicción territorial, formas autonómicas de gestión, capacidad de organización y desarrollo interno.
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2003)</small>
+Las comunidades integrantes de un pueblo indígena son aquellas que forman una unidad política, social, económica y cultural; que se encuentran asentadas en un territorio y que reconocen autoridades propias de acuerdo con sus usos y costumbres. La ley establecerá los mecanismos y criterios para la identificación y delimitación de las mismas, tomando en cuenta, además de los anteriores, los criterios etnolingüísticos.
 
-I.- Queda prohibida toda discriminación por origen étnico, o que por cualquier otro motivo atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas;
+El Estado reconoce a los pueblos y comunidades indígenas la calidad de sujetos de derecho público, con personalidad jurídica y patrimonio propios.
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2003)</small>
+Apartado A.
 
-II.- El Estado reconoce a sus pueblos indígenas su unidad, lenguas y derechos históricos, manifiestos éstos en sus comunidades indígenas a través de sus instituciones políticas, culturales, sociales y económicas, así como su actual jurisdicción territorial, formas autonómicas de gestión y capacidad de organización y desarrollo internos;
+Con el fin de asegurar la unidad del Estado, la ley en la materia establecerá sus derechos y obligaciones, conforme a las bases siguientes:
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2003)</small>
+I. Queda prohibida toda discriminación por origen étnico, o que por cualquier otro motivo atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas;
 
-III.- Las comunidades integrantes de un pueblo indígena son aquellas que forman una unidad política, social, económica y cultural; asentadas en un territorio y que reconocen autoridades propias de acuerdo con sus usos y costumbres. La ley establecerá los mecanismos y criterios para la identificación y delimitación de las mismas, tomando en cuenta además de los anteriores, los criterios etnolingüísticos;
+II. El Estado reconoce el derecho de los pueblos y comunidades indígenas a la libre determinación, misma que se expresa en el ámbito de su autonomía;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2003)</small>
+III. Se reconoce su estructura interna, concebida como un sistema que comprende una asamblea general, diversos cargos y jerarquías;
 
-IV.- La conciencia de su identidad étnica deberá ser criterio fundamental para determinar a quienes se aplican las disposiciones sobre pueblos y comunidades indígenas. Las propias comunidades coadyuvarán en ultima instancia a este reconocimiento;
+IV. En el ámbito de su autonomía, podrán preservar y enriquecer sus lenguas, conocimientos y todos los elementos que formen parte de su cultura e identidad. El Estado coadyuvará en su preservación y enriquecimiento;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2003)</small>
+V. La jurisdicción indígena, y sus competencias, se corresponderá con la organización social y el espacio geográfico o territorios donde se asientan las comunidades. Las comunidades indígenas elegirán y designarán a sus representantes y órganos de autoridad internos y ante los ayuntamientos, en correspondencia con sus sistemas normativos y formas de organización comunitaria. La ley reglamentaria establecerá las bases al respecto, observando el principio de paridad de género conforme a las normas aplicables;
 
-V.- El Estado reconoce el derecho de los pueblos indígenas y sus comunidades a la libre determinación, misma que se expresa en el ámbito de su autonomía; ella bajo el principio de la subsidiariedad y complementariedad en correspondencia con el marco del orden jurídico vigente;
+VI. El Estado garantizará a las personas indígenas el acceso efectivo a la jurisdicción del mismo. Para garantizar este derecho, en los juicios y procedimientos en que aquéllos sean parte, individual o colectivamente, deberán tomarse en cuenta sus usos, costumbres y especificidades culturales;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2003)</small>
+VII. La ley establecerá los casos y procedimientos para que los sistemas normativos que las comunidades indígenas utilizan para la mediación, solución y regulación de sus conflictos internos, sean validados por los jueces y tribunales correspondientes. Las personas indígenas tienen, en todo tiempo, el derecho a ser asistidas y asesoradas por personas intérpretes, traductoras, defensoras y peritas especializadas en derechos indígenas, pluralismo jurídico, perspectiva de género, y diversidad cultural y lingüística;
 
-VI.- El Estado otorga a las comunidades indígenas la calidad de sujetos de derecho público, con personalidad jurídica y patrimonio propios;
+VIII. Preservar, proteger y desarrollar su patrimonio cultural, material e inmaterial, que comprende todos los elementos que constituyen su cultura e identidad. Se reconoce la propiedad intelectual colectiva respecto de dicho patrimonio, en los términos que dispongan las leyes en la materia;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2003)</small>
+IX. Promover, desarrollar, practicar, y fortalecer la medicina tradicional, así como la partería para la atención del embarazo, parto y puerperio. Se reconoce a las personas que las ejercen, incluidos sus saberes y prácticas de salud;
 
-VII.- Se reconoce la estructura interna de las comunidades indígenas, concebida como un sistema que comprende una asamblea general, diversos cargos y jerarquías;
+X. Conservar y mejorar el hábitat, y preservar la bioculturalidad y la integridad de sus tierras, incluidos sus lugares sagrados declarados por la autoridad competente, de conformidad con las disposiciones jurídicas aplicables en la materia;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2003)</small>
+XI. Acceder y respetar el uso y disfrute preferente de los recursos naturales de los lugares que habitan y ocupan, salvo aquellos que corresponden a las áreas estratégicas, de conformidad con los términos, las formas y modalidades de propiedad y tenencia de la tierra establecidas en la Constitución federal, en esta Constitución y en las leyes de la materia, así como a los derechos adquiridos por terceros o por integrantes de la comunidad. Para estos efectos, las comunidades indígenas podrán asociarse en términos de ley;
 
-VIII.- En el ámbito de su autonomía las comunidades indígenas podrán preservar y enriquecer sus lenguas, conocimientos y todos los elementos que formen parte de su cultura e identidad. El Estado coadyuvará en la preservación, enriquecimiento de sus lenguas, conocimientos y todos los elementos que conformen su identidad cultural;
+XII. Ejercer su derecho al desarrollo integral con base en sus formas de organización económica, social y cultural, con respeto a la integridad del medio ambiente y recursos naturales en términos de las disposiciones jurídicas aplicables;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2003)</small>
+XIII. Se promoverán políticas sociales para garantizar los derechos de las personas indígenas, a través de los principios de accesibilidad y consulta estrecha, con el objetivo de reducir progresivamente sus carencias sociales y fomentar su inclusión al desarrollo, y
 
-IX.- Las comunidades indígenas, dentro del ámbito municipal podrán coordinarse y asociarse en los términos y para los efectos que prevenga la ley;
+XIV. Ser consultados sobre las medidas legislativas o administrativas que se pretendan adoptar, cuando estas puedan causar afectaciones o impactos significativos en su vida o entorno, con la finalidad de obtener su consentimiento o, en su caso, llegar a un acuerdo sobre tales medidas; con las excepciones establecidas en la ley de la materia y de conformidad con los términos en ella señalados.
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2003)</small>
+Las consultas indígenas se realizarán de conformidad con los principios y normas que garanticen el respeto y el ejercicio efectivo de los derechos sustantivos de los pueblos indígenas reconocidos en esta Constitución. Cuando la medida administrativa que se pretenda adoptar beneficie a un particular, el costo de la consulta debe ser cubierto por éste.
 
-X.- En los términos que establece la Constitución federal y las demás leyes de la materia, y dentro de los ámbitos de competencia del Estado y municipios, los pueblos y comunidades indígenas tendrán derecho a la preservación de la naturaleza, y de los recursos que se encuentran ubicados en sus tierras o en la totalidad del hábitat que ocupan o disfrutan, así como preferencia en el uso y disfrute de los mismos;
+Las personas físicas o morales que obtengan un lucro por las medidas administrativas objeto de consulta, deberán otorgar a los pueblos y comunidades indígenas un beneficio justo y equitativo, en los términos que establezcan las leyes aplicables.
 
-> <small>(REFORMADA, P.O. 23 DE ENERO DE 2020)</small>
+Los pueblos y comunidades indígenas son los únicos legitimados para impugnar, por las vías jurisdiccionales correspondientes, el incumplimiento del derecho reconocido en esta fracción. La ley de la materia regulará los términos, condiciones y procedimientos para promover el medio de impugnación que proceda.
 
-XI.- La jurisdicción indígena y sus competencias se corresponden con la organización social y el espacio geográfico o territorios donde se asientan las comunidades. Las comunidades indígenas elegirán y designarán a sus representantes y órganos de autoridad internos, y ante los ayuntamientos, en correspondencia con sus sistemas normativos y formas de organización comunitaria. La ley reglamentaria establecerá las bases al respecto, observando el principio de paridad de género conforme a las normas aplicables;
+Apartado B.
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2003)</small>
+El Estado y los municipios, con la participación de las comunidades, establecerán las instituciones, el sistema y las políticas para garantizar el desarrollo humano y social de los pueblos y comunidades indígenas. La ley incorporará las bases que la Constitución federal y esta Constitución refieren, y establecerá los mecanismos y procedimientos para el cumplimiento de esta obligación, en los siguientes temas:
 
-XII.- Mediante acciones coordinadas entre los distintos órdenes de gobierno, las autoridades municipales determinarán equitativamente las asignaciones presupuestales que las comunidades indígenas administrarán directamente para fines específicos;
+I. Impulsar el desarrollo comunitario y regional de los pueblos y comunidades indígenas, para mejorar sus condiciones de vida y bienestar común, mediante planes de desarrollo que fortalezcan sus economías y fomenten la agroecología, los cultivos tradicionales y, en especial, el sistema de milpa, las semillas nativas, los recursos agroalimentarios y el óptimo uso de la tierra, libres del uso de sustancias peligrosas y productos químicos tóxicos.
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2003)</small>
+La ley establecerá los mecanismos que faciliten la organización y desarrollo de las economías de los pueblos y comunidades indígenas, y reconocerá el trabajo comunitario como parte de su organización social y cultural;
 
-XIII.- El Estado garantizará a los indígenas el efectivo acceso a la jurisdicción del mismo. Para garantizar este derecho, en los juicios y procedimientos en que aquéllos sean parte, individual o colectivamente, deberán tomarse en cuenta sus costumbres y especificidades culturales;
+II. Determinar, mediante normas y criterios compensatorios, equitativos, justos y proporcionales, asignaciones presupuestales en beneficio de los pueblos y comunidades indígenas, según la suficiencia presupuestal existente;
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2003)</small>
+III. Adoptar las medidas necesarias para reconocer y proteger el patrimonio cultural, la propiedad intelectual colectiva, los conocimientos y las expresiones culturales tradicionales de los pueblos y comunidades indígenas, en los términos que establezcan las leyes en la materia;
 
-XIV.- La ley establecerá los casos y procedimientos para que los sistemas normativos que las comunidades indígenas utilizan para la solución y regulación de sus conflictos internos, sean validados por los jueces y tribunales correspondientes. Las personas indígenas tendrán derecho a contar durante todo el procedimiento, con el auxilio de un traductor y un defensor que tengan conocimiento de su lengua y cultura;
+IV. Garantizar y fortalecer la educación indígena intercultural y plurilingüe, mediante:
 
-> <small>(REFORMADA, P.O. 11 DE JULIO DE 2003)</small>
+a) La alfabetización y la educación en todos los niveles; gratuita, integral y con perspectiva cultural y lingüística;
 
-XV.- La ley reconocerá y protegerá a los indígenas pertenecientes a otro pueblo, o que procedentes de otra Entidad federativa residan temporal o permanentemente dentro del territorio del Estado, y
+b) La formación de personas profesionales indígenas, y la implementación de la educación comunitaria;
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE JULIO DE 2003)</small>
+c) El establecimiento de un sistema de becas para las personas indígenas que cursen cualquier nivel educativo;
 
-XVI.- Al tenor de lo dispuesto en el Apartado B del artículo 2º de la Constitución federal, el Estado y los municipios con la participación de las comunidades establecerán las instituciones, el sistema y las políticas para garantizar el desarrollo humano y social de los pueblos y comunidades indígenas. La ley incorporará las bases que la Constitución federal refiere, y establecerá los mecanismos y procedimientos para el cumplimiento de esta obligación en los siguientes aspectos:
+d) La promoción de programas educativos bilingües, en concordancia con los métodos de enseñanza y aprendizaje de los pueblos y comunidades indígenas, y
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2003)</small>
+e) La planeación, implementación y desarrollo de programas educativos que reconozcan e impulsen la herencia cultural de los pueblos y comunidades indígenas y su importancia para la Nación y el Estado de San Luis Potosí, así como la promoción de una relación intercultural, de no discriminación y libre de racismo.
 
-a) Impulso al desarrollo regional.
+V. Asegurar el acceso efectivo a los servicios de salud mediante la ampliación de la cobertura del sistema nacional con perspectiva intercultural, así como reconocer las prácticas de la medicina tradicional;
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2003)</small>
+VI. Garantizar el derecho a la alimentación nutritiva, suficiente y de calidad con pertinencia cultural, en especial para la población infantil;
 
-b) Incremento en todos los ámbitos a los niveles de educación con uso del idioma indígena correspondiente, además del español, incorporando las características interculturales específicas.
+VII. Mejorar las condiciones de vida de los pueblos y las comunidades indígenas y afromexicanas, y las de sus espacios para la convivencia y recreación, mediante acciones que garanticen el acceso al financiamiento para la construcción y mejoramiento de vivienda, así como ampliar la cobertura de los servicios sociales básicos, en armonía con su entorno natural y cultural, sus conocimientos y tecnologías tradicionales;
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2003)</small>
+VIII. Garantizar y promover la participación efectiva de las mujeres indígenas y afromexicanas, en condiciones de igualdad sustantiva, en los procesos de desarrollo integral de los pueblos y comunidades indígenas y afromexicanas; uso y aprovechamiento de los derechos hereditarios; su acceso a la educación, así como a la propiedad y posesión de la tierra; su participación en la toma de decisiones de carácter público, y la promoción y respeto de sus derechos humanos;
 
-c) Acceso efectivo a todos los servicios de salud con aprovechamiento de la medicina tradicional.
+IX. Promover, garantizar y extender la red de comunicaciones terrestres que permita la articulación de los pueblos y comunidades indígenas, mediante la construcción y ampliación de vías de comunicación, caminos artesanales;
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2003)</small>
+X. Adoptar medidas para que los pueblos y comunidades indígenas accedan a los medios de comunicación e información en condiciones de dignidad, equidad e interculturalidad, sin discriminación alguna con el objeto de que reflejen la diversidad cultural indígena;
 
-d) Mejoramiento de la vivienda, y ampliación de cobertura de todos los servicios sociales básicos.
+XI. Apoyar las actividades productivas y el desarrollo sustentable de los pueblos y comunidades indígenas y afromexicanas mediante acciones que permitan alcanzar la suficiencia de sus ingresos económicos, la creación de empleos, la incorporación de tecnologías y sus sistemas tradicionales de producción, para incrementar su propia capacidad productiva, así como para asegurar el acceso equitativo a los sistemas de abasto y comercialización;
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2003)</small>
+XII. Establecer políticas públicas para proteger a las comunidades y personas indígenas migrantes, en el territorio de la entidad mediante acciones destinadas a:
 
-e) Incorporación de las mujeres al desarrollo.
+a) Reconocer las formas organizativas de las comunidades indígenas residentes y de las personas indígenas migrantes, en sus contextos de destino en el Estado de San Luis Potosí;
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2003)</small>
+b) Garantizar los derechos laborales de las personas jornaleras agrícolas, trabajadoras del hogar y con discapacidad;
 
-f) Ampliación de la red de comunicaciones, y posibilidad para los pueblos y comunidades indígenas para adquirir y operar sus propios medios de comunicación.
+c) Mejorar las condiciones de salud de las mujeres, así como apoyar con programas especiales de educación y nutrición a niñas, niños, adolescentes y jóvenes de familias migrantes;
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2026)</small>
+d) Velar permanentemente por el respeto de sus derechos humanos;
 
-g) Impulso a las actividades productivas y al desarrollo sustentable y sostenible de las comunidades.
+e) Promover, con pleno respeto a su identidad, la difusión de sus culturas y la inclusión social en los lugares de destino que propicien acciones de fortalecimiento del vínculo familiar y comunitario;
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2003)</small>
+f) Consultar a los pueblos y comunidades indígenas y afromexicanas en la elaboración del Plan Estatal de Desarrollo y de los Planes Municipales de Desarrollo, y
 
-h) Establecimiento de políticas para la protección de los migrantes indígenas y sus familias.
+Apartado C.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2003)</small>
+El Estado garantizará el derecho de las mujeres indígenas y afromexicanas a participar de manera efectiva, y en condiciones de igualdad sustantiva, en los procesos de desarrollo integral de sus pueblos y comunidades; en la toma de decisiones de carácter público; en la promoción y respeto de sus derechos de acceso a la educación, a la salud, a la propiedad y a la posesión de la tierra y demás derechos humanos.
 
-i) Consulta a los pueblos indígenas para la elaboración de los planes Estatal y municipales sobre el desarrollo integral.
+Se reconoce y garantiza el derecho de la niñez, adolescencia y juventud indígena y afromexicana a una atención adecuada, en sus propias lenguas, para hacer efectivo el conocimiento y ejercicio pleno de sus derechos de acceso a la educación, a la salud, a la tecnología, al arte, la cultura, el deporte y la capacitación para el trabajo, entre otros. Asimismo, para garantizar una vida libre de exclusión, discriminación y violencia, en especial de la violencia sexual y de género, y para establecer políticas dirigidas a prevenir y atender las adicciones, con visión de respeto a sus identidades culturales.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2003)</small>
-
-El Congreso del Estado y los ayuntamientos en el ámbito de sus respectivas competencias, establecerán equitativamente las partidas específicas en los presupuestos de egresos que aprueben, para cumplir con las disposiciones de este artículo, así como las formas y procedimientos para que las comunidades participen en su ejercicio y vigilancia.
-
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2003)</small>
-
-El Estado reconoce los mismos derechos a las comunidades que sean equiparables a las descritas en el contenido de este artículo.
-
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2003)</small>
-
-Es responsabilidad del Congreso del Estado vigilar que todas las leyes o decretos de observancia obligatoria, sean publicadas en el Periódico Oficial del Estado en las lenguas propias de los pueblos indígenas de la Entidad para su aplicación y entrada en vigor.
+Sin perjuicio de los derechos aquí establecidos a favor de las personas indígenas y afromexicanas, sus comunidades y pueblos, toda comunidad equiparable a aquéllos tendrá en lo conducente los mismos derechos tal y como lo establezca la ley.
 
 > <small>(REFORMADO, P.O. 14 DE MAYO DE 2020)</small>
 
@@ -4240,3 +4230,15 @@ P.O. 22 DE ABRIL DE 2026.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 30 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0518.- QUE REFORMA EL ARTÍCULO 9°, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado "Plan de San Luis".
+
+SEGUNDO. El Congreso del Estado, en un plazo de ciento ochenta días, contados a partir de la entrada en vigor de este Decreto, deberá armonizar el marco jurídico de las leyes que correspondan, para adecuarlo al contenido del presente Decreto.
+
+TERCERO. El Poder Ejecutivo del Estado y los cincuenta y nueve municipios del Estado, deberán realizar las adecuaciones a sus disposiciones reglamentarias aplicables dentro de los ciento ochenta días siguientes contados a partir de la entrada en vigor del presente Decreto.
+
+CUARTO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
