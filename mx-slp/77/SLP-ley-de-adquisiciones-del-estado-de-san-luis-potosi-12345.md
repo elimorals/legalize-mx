@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-adquisiciones-del-estado-de-san-luis-potosi-12345"
 country: "mx"
 rank: "ley"
 publication_date: "1997-01-29"
-last_updated: "2024-04-08"
+last_updated: "2026-04-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12345&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ABRIL DE 2026
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el miércoles 29 de enero de 1997.
 
@@ -93,11 +93,17 @@ VI.- Compras consolidadas: Es el proceso integral de compra que deben observar l
 
 VII.- Proveedor: la persona que de acuerdo con las normas mercantiles, hacendarias y requisitos exigidos en esta Ley, está en aptitud de contratar con las instituciones públicas, las adquisiciones, arrendamientos y servicios que éstas requieran;
 
-> <small>(ADICIONADA, P.O. 25 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2026)</small>
 
-VII Bis.- Proveedor local: la persona física potosina, y las morales constituidas en el Estado de San Luis Potosí, que cuenta con su domicilio social y fiscal en el Estado de San Luis Potosí, y que de conformidad con la presente Ley y demás aplicables, está en aptitud y capacidad de contratar con las instituciones públicas, las adquisiciones, arrendamientos y servicios que éstas requieran, y de dar cumplimiento a lo pactado, en tiempo, cantidad, calidad, precio, garantía y forma, y
+VII Bis.- Proveedor local: la persona física potosina, y las morales constituidas en el Estado de San Luis Potosí, que cuenta con su domicilio social y fiscal en el Estado de San Luis Potosí, y que de conformidad con la presente Ley y demás aplicables, está en aptitud y capacidad de contratar con las instituciones públicas, las adquisiciones, arrendamientos y servicios que éstas requieran, y de dar cumplimiento a lo pactado, en tiempo, cantidad, calidad, precio, garantía y forma;
 
-VIII.- Licitante: La persona que participa en cualquier procedimiento de licitación pública.
+> <small>(REFORMADA, P.O. 30 DE ABRIL DE 2026)</small>
+
+VIII.- Licitante: La persona que participa en cualquier procedimiento de licitación pública, y
+
+> <small>(ADICIONADA, P.O. 30 DE ABRIL DE 2026)</small>
+
+IX.- MIPYMES: Micro, Pequeñas y Medianas Empresas.
 
 ###### ARTICULO 3o.
 
@@ -335,11 +341,11 @@ La institución asignará a cada proveedor un número progresivo, cuya cita en c
 
 Para aquellos proveedores cuyo domicilio social y fiscal se encuentre dentro del Estado de San Luis Potosí, la institución asignará una clave que identifique al mismo como proveedor local.
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 30 DE ABRIL DE 2026)</small>
 
 ###### ARTICULO 18.
 
-En las adquisiciones, arrendamientos y servicios que se contraten, las instituciones públicas, garantizando siempre las mejores condiciones técnicas y económicas, quedan obligadas a preferir en igualdad de circunstancias, a los proveedores locales, con el propósito de alentar, proteger y fortalecer la industria, el comercio y, por ende, el desarrollo del Estado.
+En las adquisiciones, arrendamientos y servicios que se contraten, las instituciones públicas, garantizando siempre las mejores condiciones técnicas y económicas, quedan obligadas a preferir en igualdad de circunstancias, a los proveedores locales incluidas las MIPYMES, con el propósito de alentar, proteger y fortalecer la industria, el comercio y, por ende, el desarrollo del Estado.
 
 ###### ARTICULO 19.
 
@@ -966,3 +972,11 @@ P.O. 8 DE ABRIL DE 2024.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 30 DE ABRIL DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0514.- QUE REFORMA LOS ARTÍCULOS 2º Y 18 Y REALIZA ADICIÓN AL ARTÍCULO 2º, DE LA LEY DE ADQUISICIONES DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente Decreto.
