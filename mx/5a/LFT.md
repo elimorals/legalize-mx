@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "2026-01-15"
+last_updated: "2026-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE MAYO DE 2026.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación, el miércoles 1 de abril de 1970.
 
@@ -936,11 +936,15 @@ El patrón podrá solicitar la modificación cuando concurran circunstancias eco
 
 Jornada de trabajo es el tiempo durante el cual el trabajador está a disposición del patrón para prestar su trabajo.
 
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2026)</small>
+
+Esta podrá ser distribuida de común acuerdo por las personas empleadoras y trabajadoras.
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2026)</small>
+
 ###### Artículo 59.
 
-El trabajador y el patrón fijarán la duración de la jornada de trabajo, sin que pueda exceder de los máximos legales.
-
-Los trabajadores y el patrón podrán repartir las horas de trabajo, a fin de permitir a los primeros el reposo del sábado en la tarde o cualquier modalidad equivalente.
+La duración máxima de la jornada ordinaria de trabajo será de cuarenta horas semanales.
 
 ###### Artículo 60.
 
@@ -950,9 +954,11 @@ Jornada nocturna es la comprendida entre las veinte y las seis horas.
 
 Jornada mixta es la que comprende períodos de tiempo de las jornadas diurna y nocturna, siempre que el período nocturno sea menor de tres horas y media, pues si comprende tres y media o más, se reputará jornada nocturna.
 
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2026)</small>
+
 ###### Artículo 61.
 
-La duración máxima de la jornada será: ocho horas la diurna, siete la nocturna y siete horas y media la mixta.
+La duración de la jornada diaria será de ocho horas la diurna, siete la nocturna y siete horas y media la mixta.
 
 ###### Artículo 62.
 
@@ -970,27 +976,37 @@ Cuando el trabajador no pueda salir del lugar donde presta sus servicios durante
 
 En los casos de siniestro o riesgo inminente en que peligre la vida del trabajador, de sus compañeros o del patrón, o la existencia misma de la empresa, la jornada de trabajo podrá prolongarse por el tiempo estrictamente indispensable para evitar esos males.
 
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2026)</small>
+
 ###### Artículo 66.
 
-Podrá también prolongarse la jornada de trabajo por circunstancias extraordinarias, sin exceder nunca de tres horas diarias ni de tres veces en una semana.
+La jornada de trabajo podrá prolongarse por circunstancias extraordinarias.
+
+En estos casos, se abonará como salario por este tiempo un cien por ciento más de lo fijado para las horas ordinarias. El trabajo extraordinario no excederá de doce horas en una semana, las cuales podrán distribuirse en hasta cuatro horas diarias, en un máximo de cuatro días en ese periodo.
 
 ###### Artículo 67.
 
 Las horas de trabajo a que se refiere el artículo 65, se retribuirán con una cantidad igual a la que corresponda a cada una de las horas de la jornada.
 
-Las horas de trabajo extraordinario se pagarán con un ciento por ciento más del salario que corresponda a las horas de la jornada.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 1 DE MAYO DE 2026)</small>
+
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2026)</small>
 
 ###### Artículo 68.
 
-Los trabajadores no están obligados a prestar sus servicios por un tiempo mayor del permitido en este capítulo.
+Las personas trabajadoras no están obligadas a prestar sus servicios por un tiempo mayor del permitido en este capítulo.
 
-La prolongación del tiempo extraordinario que exceda de nueve horas a la semana, obliga al patrón a pagar al trabajador el tiempo excedente con un doscientos por ciento más del salario que corresponda a las horas de la jornada, sin perjuicio de las sanciones establecidas en esta Ley.
+La prolongación del tiempo extraordinario que supere lo establecido en el artículo 66 de esta Ley, no podrá ser mayor de cuatro horas a la semana y obliga a la persona empleadora a pagar un doscientos por ciento más del salario que corresponda a las horas de la jornada ordinaria.
+
+La suma de las jornadas ordinaria y extraordinaria, en ningún caso podrá ser mayor a doce horas diarias.
 
 ### CAPITULO III. Días de Descanso
 
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2026)</small>
+
 ###### Artículo 69.
 
-Por cada seis días de trabajo disfrutará el trabajador de un día de descanso, por lo menos, con goce de salario íntegro.
+Por cada seis días de trabajo se deberá otorgar, por lo menos, un día de descanso con goce de salario íntegro.
 
 ###### Artículo 70.
 
@@ -1000,7 +1016,9 @@ En los trabajos que requieran una labor continua, los trabajadores y el patrón 
 
 En los reglamentos de esta Ley se procurará que el día de descanso semanal sea el domingo.
 
-Los trabajadores que presten servicio en día domingo tendrán derecho a una prima adicional de un veinticinco por ciento, por lo menos, sobre el salario de los días ordinarios de trabajo.
+> <small>(REFORMADO, D.O.F. 1 DE MAYO DE 2026)</small>
+
+Las personas que laboren en domingo tendrán derecho a una prima adicional de un veinticinco por ciento, por lo menos, sobre el salario de los días ordinarios de trabajo.
 
 ###### Artículo 72.
 
@@ -1618,13 +1636,21 @@ XXX. Entregar a sus trabajadores de manera gratuita un ejemplar impreso del cont
 
 XXXI. Implementar, en acuerdo con los trabajadores, un protocolo para prevenir la discriminación por razones de género y atención de casos de violencia y acoso u hostigamiento sexual, así como erradicar el trabajo forzoso e infantil;
 
-> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2026)</small>
 
-XXXII. Fijar y difundir en los lugares de mayor afluencia del centro de trabajo el texto fiel de la convocatoria y demás documentos que le solicite el Centro Federal de Conciliación y Registro Laboral para el desarrollo del procedimiento de consulta a que hacen referencia los artículos 390 Bis y 390 Ter, y
+XXXII. Fijar y difundir en los lugares de mayor afluencia del centro de trabajo el texto fiel de la convocatoria y demás documentos que le solicite el Centro Federal de Conciliación y Registro Laboral para el desarrollo del procedimiento de consulta a que hacen referencia los artículos 390 Bis y 390 Ter;
 
-> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2019)</small>
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2026)</small>
 
-XXXIII. Fijar en los lugares de mayor afluencia del centro de trabajo la convocatoria que le solicite el sindicato cuando se consulte a los trabajadores el contenido del contrato colectivo de trabajo inicial o el convenio de revisión, en términos de los artículos 390 Ter y 400 Bis.
+XXXIII. Fijar en los lugares de mayor afluencia del centro de trabajo la convocatoria que le solicite el sindicato cuando se consulte a los trabajadores el contenido del contrato colectivo de trabajo inicial o el convenio de revisión, en términos de los artículos 390 Ter y 400 Bis, y
+
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2026)</small>
+
+XXXIV. Registrar de manera electrónica la jornada laboral de cada persona trabajadora, incluyendo el horario de inicio y finalización; así como proporcionarlo a la autoridad cuando se le requiera.
+
+La Secretaría del Trabajo y Previsión Social expedirá las disposiciones de carácter general que determinen el ámbito de aplicación y excepción a la obligación establecida en el párrafo que antecede.
+
+El contenido del registro electrónico hará prueba plena si se acredita que fue acordado entre la persona trabajadora y empleadora.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE DICIEMBRE DE 2024)</small>
 
@@ -3609,6 +3635,12 @@ La persona empleadora deberá promover un ambiente laboral libre de discriminaci
 La persona empleadora deberá respetar los descansos pre y postnatales de las trabajadoras embarazadas. Se deberán establecer las garantías y condiciones adecuadas dentro del espacio de trabajo para el ejercicio de la lactancia infantil mediante la instalación de salas de lactancia en términos de la presente Ley.
 
 La trabajadora del campo temporal tendrá estabilidad en su empleo durante la gestación y hasta el término del puerperio.
+
+> <small>(ADICIONADO, D.O.F. 1 DE MAYO DE 2026)</small>
+
+###### Artículo 283 Quáter.
+
+La Secretaría del Trabajo y Previsión Social podrá expedir un certificado de cumplimiento de obligaciones laborales y de seguridad social de conformidad con las disposiciones generales que al efecto emitan las autoridades competentes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2024)</small>
 
@@ -15854,6 +15886,10 @@ III. De 50 a 1500 Unidades de Medida y Actualización al patrón que no cumpla l
 
 IV. De 250 a 5000 Unidades de Medida y Actualización, al patrón que no cumpla con lo dispuesto por la fracción XV del artículo 132;
 
+> <small>(ADICIONADA, D.O.F. 1 DE MAYO DE 2026)</small>
+
+IV Bis. De 250 a 5000 Unidades de Medida y Actualización, a la persona empleadora obligada que incumpla con lo dispuesto por la fracción XXXIV del artículo 132 de esta Ley.
+
 > <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2019)</small>
 
 V. De 250 a 5000 Unidades de Medida y Actualización, al patrón que no observe en la instalación de sus establecimientos las normas de seguridad e higiene o las medidas que fijen las Leyes para prevenir los riesgos de trabajo;
@@ -16809,3 +16845,55 @@ Quinto. Las erogaciones que se generen con motivo de la entrada en vigor del pre
 Sexto. Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
 
 Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
+
+D.O.F. 1 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DEL TRABAJO, EN MATERIA DE REDUCCIÓN DE LA JORNADA LABORAL".]
+
+Primero. El presente Decreto entrará en vigor el día 1 de mayo de 2026.
+
+Segundo. La duración de la jornada laboral a que se refiere el artículo 59 de la Ley Federal del Trabajo se alcanzará de manera gradual, a partir del 1 de enero del año que corresponda, conforme a lo siguiente:
+
+Año Jornada Laboral
+
+2026 48
+
+2027 46
+
+2028 44
+
+2029 42
+
+2030 40
+
+Tercero. El periodo que transcurra del 1 de mayo al 31 de diciembre de 2026 permitirá a las personas trabajadoras y empleadoras ajustar los procesos de trabajo a los términos de este Decreto.
+
+Cuarto. La duración de la jornada extraordinaria a que se refiere el artículo 66 de la Ley Federal del Trabajo se alcanzará de manera gradual, a partir del 1 de enero del año correspondiente, conforme a lo siguiente:
+
+Año Horas Extras
+
+2026 9
+
+2027 9
+
+2028 10
+
+2029 11
+
+2030 12
+
+Quinto. Las disposiciones de carácter general a que se refiere la fracción XXXIV del artículo 132 de la Ley Federal del Trabajo, entrarán en vigor a partir del 1 de enero de 2027.
+
+Sexto. La Secretaría del Trabajo y Previsión Social instrumentará los mecanismos que correspondan para recopilar, procesar y evaluar datos relacionados con la implementación de la reducción de la jornada laboral.
+
+Séptimo. En ningún caso la reducción de la jornada laboral implicará la disminución de sueldos, salarios o prestaciones de las personas trabajadoras.
+
+D.O.F. 1 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 40, FRACCIÓN I, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL; 15, FRACCIONES IV Y VI, DE LA LEY DE COMERCIO EXTERIOR Y SE ADICIONA EL ARTÍCULO 283 QUÁTER A LA LEY FEDERAL DEL TRABAJO, EN MATERIA DE CERTIFICACIÓN LABORAL PARA LA AGROEXPORTACIÓN Y PROTECCIÓN DE LOS ECOSISTEMAS FORESTALES”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Secretaría del Trabajo y Previsión Social en un plazo de 30 días contados a partir de la entrada en vigor del presente Decreto, expedirá las disposiciones de carácter general que determinen los procedimientos relativos al certificado a que se refiere el artículo 283 Quáter de la Ley Federal del Trabajo.
+
+Tercero. Las erogaciones que se generen con motivo de la entrada en vigor e implementación del presente Decreto deberán efectuarse con cargo al presupuesto autorizado de los ejecutores de gasto correspondientes, por lo que no se incrementará su presupuesto regularizable de gasto de operación y de servicios personales, y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
