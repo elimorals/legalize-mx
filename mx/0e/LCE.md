@@ -4,7 +4,7 @@ identifier: "LCE"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-27"
-last_updated: "2006-12-21"
+last_updated: "2026-05-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LCE"
 
 LEY DE COMERCIO EXTERIOR
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 21 DE DICIEMBRE DE 2006.
+ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 1 DE MAYO DE 2026.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 27 de julio de 1993.
 
@@ -248,11 +248,15 @@ II. Conforme a lo dispuesto en tratados o convenios internacionales de los que M
 
 III. Cuando se trate de productos cuya comercialización esté sujeta, por disposición constitucional, a restricciones específicas;
 
-IV. Cuando se trate de preservar la fauna y la flora en riesgo o peligro de extinción o de asegurar la conservación o aprovechamiento de especies;
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2026)</small>
+
+IV. Cuando se trate de preservar la fauna y la flora en riesgo o peligro de extinción; asegurar la conservación o el aprovechamiento de especies; o prevenir la deforestación y el cambio de uso de suelo en terrenos forestales sin la autorización correspondiente;
 
 V. Cuando se requiera conservar los bienes de valor histórico, artístico o arqueológico, y
 
-VI. Cuando se trate de situaciones no previstas por las normas oficiales mexicanas en lo referente a seguridad nacional, salud pública, sanidad fitopecuaria o ecología, de acuerdo a la legislación en la materia.
+> <small>(REFORMADA, D.O.F. 1 DE MAYO DE 2026)</small>
+
+VI. Cuando se trate de situaciones no previstas por las normas oficiales mexicanas en lo referente a seguridad nacional, salud pública, sanidad fitopecuaria o ecología, así como trabajo y seguridad social, de acuerdo a la legislación en la materia.
 
 ###### ARTICULO 16.
 
@@ -1291,3 +1295,13 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Las disposiciones del Reglamento de la Ley de Comercio Exterior publicado en el Diario Oficial de la Federación el 30 de diciembre de 1993, continuarán aplicándose en todo lo que no se oponga al presente Decreto, hasta que se expidan las reformas correspondientes.
 
 Tercero. Los procedimientos administrativos que se encuentren en trámite al momento de la entrada en vigor del presente Decreto, se resolverán en los términos de la Ley de Comercio Exterior publicada en el Diario Oficial de la Federación el 27 de julio de 1993, y de las reformas a dicha ley publicadas en dicho órgano informativo el 13 de marzo de 2003 y 24 de enero de 2006.
+
+D.O.F. 1 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 40, FRACCIÓN I, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL; 15, FRACCIONES IV Y VI, DE LA LEY DE COMERCIO EXTERIOR Y SE ADICIONA EL ARTÍCULO 283 QUÁTER A LA LEY FEDERAL DEL TRABAJO, EN MATERIA DE CERTIFICACIÓN LABORAL PARA LA AGROEXPORTACIÓN Y PROTECCIÓN DE LOS ECOSISTEMAS FORESTALES”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Secretaría del Trabajo y Previsión Social en un plazo de 30 días contados a partir de la entrada en vigor del presente Decreto, expedirá las disposiciones de carácter general que determinen los procedimientos relativos al certificado a que se refiere el artículo 283 Quáter de la Ley Federal del Trabajo.
+
+Tercero. Las erogaciones que se generen con motivo de la entrada en vigor e implementación del presente Decreto deberán efectuarse con cargo al presupuesto autorizado de los ejecutores de gasto correspondientes, por lo que no se incrementará su presupuesto regularizable de gasto de operación y de servicios personales, y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
