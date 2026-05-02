@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-de-los-municipios-del-estado-de-tabasco-35393"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-12-03"
-last_updated: "2025-12-27"
+last_updated: "2026-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2026.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 3 de diciembre de 2003.
 
@@ -463,9 +463,9 @@ XVII. Otorgar concesiones o contratar la prestación de servicios públicos;
 
 XVIII. Asignar los ramos de su administración a comisiones integradas por uno o más regidores;
 
-> <small>(REFORMADA, P.O. 8 DE ABRIL DE 2017)</small>
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2026)</small>
 
-XIX. Designar a los titulares de la Secretaría del Ayuntamiento, Contraloría Municipal, y al Director de Seguridad Pública, a propuesta del Presidente Municipal.
+XIX. Designar a los titulares de la Secretaría del Ayuntamiento, Contraloría Municipal, y al Director de Seguridad y Protección Ciudadana, a propuesta del Presidente Municipal;
 
 XX. Participar en el ámbito de su competencia en los términos de las leyes federales y estatales de la materia, y en coordinación con la federación y el Estado, en la planeación y regulación del desarrollo de los centros urbanos involucrados en los procesos de conurbación;
 
@@ -1205,9 +1205,9 @@ XIV. Cumplir y hacer cumplir, dentro de su competencia, las disposiciones conten
 
 XV. Tener el mando de la fuerza pública municipal, con las restricciones señaladas en esta y otras leyes;
 
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2024)</small>
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2026)</small>
 
-XVI. Para el cumplimiento de sus facultades y obligaciones, el Presidente Municipal se auxiliará de los órganos administrativos que esta Ley establece, y tendrá la facultad de nombrar y remover libremente a sus titulares y demás servidores públicos, salvo los casos de la Secretaría del Ayuntamiento, la Contraloría Municipal y la Dirección de Seguridad Pública, cuyos titulares serán nombrados por el Cabildo, o el Concejo Municipal en su caso, a propuesta del Presidente Municipal. Las excepciones previstas en el párrafo anterior no restringen la facultad del presidente municipal para la remoción de dichos servidores, en su caso. Los nombramientos previstos en esta fracción, al igual que las suplencias y sustituciones, deberán hacerse respetando el principio de paridad de género;
+XVI. Para el cumplimiento de sus facultades y obligaciones, el Presidente Municipal se auxiliará de los órganos administrativos que esta Ley establece, y tendrá la facultad de nombrar y remover libremente a sus titulares y demás servidores públicos, salvo los casos de la Secretaría del Ayuntamiento, la Contraloría Municipal y la Dirección de Seguridad y Protección Ciudadana, cuyos titulares serán nombrados por el Cabildo, o el Concejo Municipal en su caso, a propuesta del Presidente Municipal. Las excepciones previstas en el párrafo anterior no restringen la facultad del presidente municipal para la remoción de dichos servidores, en su caso. Los nombramientos previstos en esta fracción, al igual que las suplencias y sustituciones, deberán hacerse respetando el principio de paridad de género;
 
 > <small>(ADICIONADA, P.O. 18 DE NOVIEMBRE DE 2017)</small>
 
@@ -1315,7 +1315,9 @@ VIII. Dirección de Educación, Cultura y Recreación;
 
 IX. Dirección de Administración;
 
-X. Dirección de Seguridad Pública;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2026)</small>
+
+X. Dirección de Seguridad y Protección Ciudadana;
 
 XI. Dirección de Tránsito;
 
@@ -1333,11 +1335,11 @@ XIV. Dirección de Atención a las Mujeres, y
 
 > <small>(REFORMADA, P.O. 1 DE JUNIO DE 2011)</small>
 
-XV.- Dirección de Protección Ambiental y Desarrollo Sustentable, y
+XV. Dirección de Protección Ambiental y Desarrollo Sustentable, y
 
 > <small>(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2017)</small>
 
-XVI.- Coordinación de Protección Civil.
+XVI. Coordinación de Protección Civil.
 
 > <small>(ADICIONADO, P.O. 1 DE JUNIO DE 2011)</small>
 
@@ -1811,7 +1813,9 @@ XI. Intervenir en las ventas y remates de los bienes muebles inservibles, propie
 
 XII. Las demás que le atribuyan expresamente las leyes, reglamentos, y las que le encomiende directamente el Ayuntamiento o el presidente municipal.
 
-### CAPÍTULO XIII. De las Direcciones de Seguridad Pública y la de Tránsito
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE MAYO DE 2026)</small>
+
+### CAPÍTULO XIII. De las Direcciones de Seguridad y Protección Ciudadana y la de Tránsito
 
 ###### Artículo 87.
 
@@ -1823,31 +1827,33 @@ Atento a lo señalado en el artículo anterior, los ayuntamientos en los términ
 
 Asimismo, los municipios podrán celebrar convenios con el Estado sobre la organización, funcionamiento y dirección técnica de los cuerpos de seguridad pública, policía preventiva y tránsito, o la prestación directa o coordinada, de éste último servicio por parte del Estado, si así se considera conveniente, para su eficaz prestación.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2017)</small>
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2026)</small>
 
 ###### Artículo 89.
 
-Los presidentes municipales o primeros concejales municipales, serán los jefes de los cuerpos de seguridad pública, policía preventiva y tránsito, teniendo la facultad de nombrar directamente al Director de Tránsito y proponer al Cabildo, o al Concejo Municipal en su caso, el nombramiento del titular de la Dirección de Seguridad Pública, en los términos de la presente Ley y demás ordenamientos jurídicos aplicables.
+Los presidentes municipales o primeros concejales municipales, serán los jefes de los cuerpos de seguridad pública, policía preventiva y tránsito, teniendo la facultad de nombrar directamente al Director de Tránsito y proponer al Cabildo, o al Concejo Municipal en su caso, el nombramiento del titular de la Dirección de Seguridad y Protección Ciudadana, en los términos de la presente Ley y demás ordenamientos jurídicos aplicables.
 
 ###### Artículo 90.
 
 La policía preventiva municipal acatará las órdenes que el gobernador del Estado le transmita por conducto del presidente o en su caso del primer concejal, en aquellos casos que juzgue como de fuerza mayor o alteración grave del orden público.
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 18 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2026)</small>
 
 ###### Artículo 91.
 
-Para ser designado Director de Seguridad Pública se requiere ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles y no tener otra nacionalidad, tener cuando menos treinta y cinco años cumplidos el día de la designación, tener reconocida buena conducta y no haber sido sentenciado por delito doloso o encontrarse inhabilitado como servidor público, ni estar sujeto a proceso penal, comprobar una experiencia mínima de cinco años en labores vinculadas con la seguridad pública, así como previamente haber acreditado la prueba de confianza y demás señaladas por el Sistema Nacional de Seguridad Pública. El nombramiento de Director de Seguridad Pública, deberá ser aprobado por los integrantes del Cabildo correspondiente.
+Para ser designado Director de Seguridad y Protección Ciudadana se requiere ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles y no tener otra nacionalidad, tener cuando menos treinta y cinco años cumplidos el día de la designación, tener reconocida buena conducta y no haber sido sentenciado por delito doloso o encontrarse inhabilitado como servidor público, ni estar sujeto a proceso penal, comprobar una experiencia mínima de cinco años en labores vinculadas con la seguridad pública, así como previamente haber acreditado la prueba de confianza y demás señaladas por el Sistema Nacional de Seguridad Pública. El nombramiento de Director de Seguridad y Protección Ciudadana, deberá ser aprobado por los integrantes del Cabildo correspondiente.
 
-> <small>(REFORMADO, P.O. 8 DE ABRIL DE 2017)</small>
+Los demás integrantes de los cuerpos de seguridad pública y policía preventiva serán designados preferentemente de entre los egresados de los centros de capacitación, Institutos o colegios que la Secretaría de Seguridad y Protección Ciudadana tenga funcionando atendiendo al contenido del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos y del artículo 5 de la Ley General del Sistema Nacional de Seguridad Pública.
 
-Los demás integrantes de los cuerpos de seguridad pública y policía preventiva serán designados preferentemente de entre los egresados de los centros de capacitación, Institutos o colegios que la Secretaría de Seguridad Pública tenga funcionando atendiendo al contenido del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos y del artículo 6 de la Ley General del Sistema Nacional de Seguridad pública.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2026)</small>
 
 ###### Artículo 92.
 
-A las Direcciones de Seguridad Pública y a la de Tránsito, corresponderá, en el ámbito de su competencia, dar cumplimiento a las disposiciones contenidas en la Constitución federal, en la local, en las leyes, en el Bando de Policía y Gobierno, en los reglamentos y demás disposiciones que resulten aplicables, y tendrán a su cargo, además, el despacho de los asuntos que enseguida se enumeran:
+A las Direcciones de Seguridad y Protección Ciudadana y a la de Tránsito, corresponderá, en el ámbito de su competencia, dar cumplimiento a las disposiciones contenidas en la Constitución federal, en la local, en las leyes, en el Bando de Policía y Gobierno, en los reglamentos y demás disposiciones que resulten aplicables, y tendrán a su cargo, además, el despacho de los asuntos que enseguida se enumeran:
 
-A) La Dirección de Seguridad Pública tendrá a cargo las siguientes funciones:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE MAYO DE 2026)</small>
+
+A) La Dirección de Seguridad y Protección Ciudadana tendrá a cargo las siguientes funciones:
 
 I. Tener a su cargo la policía preventiva municipal;
 
@@ -4116,3 +4122,15 @@ V. Mecanismos de evaluación del impacto comunitario; y
 VI. Las demás que se consideren necesarias.
 
 TERCERO. Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 2 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 255 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 29, FRACCIÓN XIX; 65, FRACCIÓN XVI; 73, FRACCIÓN X; LA DENOMINACIÓN DEL CAPÍTULO XIII DEL TÍTULO CUARTO; 89; 91; Y 92, PRIMER PÁRRAFO E INCISO A). TODOS DE LA LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Los Ayuntamientos del Estado de Tabasco dispondrán de un plazo de noventa días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones necesarias a sus Bandos de Policía y Gobierno, Reglamentos de la Administración Pública Municipal y demás instrumentos jurídicos, a efecto de dar cumplimiento a la nueva denominación de "Dirección de Seguridad y Protección Ciudadana".
+
+TERCERO. Todas las menciones que se hagan en leyes, reglamentos y demás documentos jurídicos vigentes a la "Dirección de Seguridad Pública Municipal", se entenderán referidas a la Dirección de Seguridad y Protección Ciudadana del municipio correspondiente.
+
+CUARTO. La actualización de la imagen institucional y demás elementos, se realizará de manera gradual y progresiva. Los municipios podrán agotar sus existencias actuales y realizar el cambio conforme a los nuevos procesos de adquisición o renovación programada, sin que ello implique una obligación de erogación inmediata de recursos extraordinarios.
