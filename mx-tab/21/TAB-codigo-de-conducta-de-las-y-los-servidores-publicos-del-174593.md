@@ -4,7 +4,7 @@ identifier: "TAB-codigo-de-conducta-de-las-y-los-servidores-publicos-del-174593"
 country: "mx"
 rank: "codigo"
 publication_date: "2024-09-28"
-last_updated: "2024-09-28"
+last_updated: "2026-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174593&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # CODIGO DE CONDUCTA DE LAS Y LOS SERVIDORES PUBLICOS DEL INSTITUTO ESTATAL DE LAS MUJERES EN TABASCO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL INSTITUTO ESTATAL DE LAS MUJERES DE TABASCO, PUBLICADO EN EL P.O. DE 2 DE MAYO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LAS Y LOS SERVIDORES PÚBLICOS DEL INSTITUTO ESTATAL DE LAS MUJERES DEL ESTADO DE TABASCO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2026 (ABROGADO).
 
 Código publicado en el Suplemento del Periódico Oficial, el sábado 28 de septiembre de 2024.
 
@@ -694,3 +696,15 @@ Dado en la ciudad de Villahermosa, Capital del Estado de Tabasco, el día uno de
 M.D.O. Nelly Carmen Vargas Pérez
 
 Directora General del Instituto Estatal de la Mujeres
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL INSTITUTO ESTATAL DE LAS MUJERES DE TABASCO”.]
+
+PRIMERO.- El presente Código de Conducta del Instituto Estatal de las Mujeres, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se abroga el Código de Conducta de las y los Servidores Públicos del Instituto Estatal de las Mujeres de Tabasco, publicado en el suplemento al Periódico Oficial del Estado de Tabasco, edición 8563, de fecha 28 de septiembre de 2024.
+
+TERCERO.- Todas las personas servidoras públicas del Instituto Estatal de las Mujeres deberán suscribir la Carta Compromiso de adhesión al Código de Conducta correspondiente.
