@@ -4,7 +4,7 @@ identifier: "TAB-codigo-penal-para-el-estado-de-tabasco-12339"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-05"
-last_updated: "2026-04-08"
+last_updated: "2026-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CÓDIGO PENAL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2026.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 5 de febrero de 1997.
 
@@ -319,7 +319,9 @@ I. Error de prohibición invencible: Se realice la acción o la omisión bajo un
 
 II. Estado de necesidad disculpante: Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, lesionando otro bien de igual valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el sujeto activo no tuviere el deber jurídico de afrontarlo;
 
-III. Inimputabilidad y acción libre en su causa: Al momento de realizar el hecho típico, el agente no tenga la capacidad de comprender el carácter ilícito de aquél o de conducirse de acuerdo con esa comprensión, en virtud de padecer trastorno mental o desarrollo intelectual retardado, a no ser que el sujeto hubiese provocado su trastorno mental para en ese estado cometer el hecho, en cuyo caso responderá por el resultado típico producido en tal situación. Las acciones libres en su causa culposamente cometidas se resolverán conforme a las reglas generales de los delitos culposos.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2026)</small>
+
+III. Inimputabilidad y acción libre en su causa: Al momento de realizar el hecho típico, el agente no tenga la capacidad de comprender el carácter ilícito de aquél o de conducirse de acuerdo con esa comprensión, en virtud de una discapacidad intelectual, a no ser que el sujeto, la hubiese provocado para, en ese estado, cometer el hecho, en cuyo caso responderá por el resultado típico producido en tal situación. Las acciones libres en su causa culposamente cometidas se resolverán conforme a las reglas generales de los delitos culposos.
 
 Cuando la capacidad a que se refiere el párrafo anterior se encuentre considerablemente disminuida, se estará a lo dispuesto en el artículo 64 de este código.
 
@@ -417,7 +419,7 @@ X. Suspensión, privación e inhabilitación de derechos y funciones;
 
 XI. Publicación de sentencia;
 
-XII. Tratamiento en internamiento o en libertad de inimputables; y
+XII. (DEROGADA, P.O. 2 DE MAYO DE 2026)
 
 XIII. Intervención, remoción, prohibición de realizar determinadas operaciones y extinción de las personas jurídicas colectivas.
 
@@ -775,35 +777,21 @@ La publicación de sentencia condenatoria consiste en la difusión de los puntos
 
 Si el delito por el que se impone la publicación se cometió a través de un medio de comunicación, la sentencia se publicará, además, en el mismo medio de comunicación y con las mismas características que se hayan utilizado para la comisión del delito.
 
-### CAPITULO XVII. TRATAMIENTO EN INTERNAMIENTO O EN LIBERTAD DE INIMPUTABLES
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE MAYO DE 2026)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE OCTUBRE DE 2012)</small>
+### CAPITULO XVII. TRATAMIENTO EN INTERNAMIENTO O EN LIBERTAD DE INIMPUTABLES
 
 ###### Artículo 47.
 
-El órgano jurisdiccional, previo el proceso penal correspondiente, dispondrá la medida de tratamiento, en internamiento o en libertad, que la autoridad ejecutora aplicará al inimputable.
-
-> <small>(F. DE E., P.O. 8 DE FEBRERO DE 1997)</small>
-
-En caso de internamiento, el inimputable será internado, para su tratamiento, en la institución correspondiente.
-
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
-
-El tratamiento de inimputables consiste en la aplicación de las medidas pertinentes y autorizadas por la ley con la finalidad de restablecer su salud, cuando hubiese incurrido en una conducta prevista por la ley como delito.
-
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
+(DEROGADO, P.O. 2 DE MAYO DE 2026)
 
 ###### Artículo 48.
 
-El órgano jurisdiccional, podrá entregar al inimputable a sus familiares o a las personas que conforme a la ley tengan la obligación de hacerse cargo de él, siempre y cuando se obliguen a tomar las medidas adecuadas para el tratamiento y vigilancia del inimputable y se garantice a satisfacción de la autoridad, el cumplimiento de las obligaciones contraídas.
+(DEROGADO, P.O. 2 DE MAYO DE 2026)
 
 ###### Artículo 49.
 
-La medida de tratamiento, en ningún caso, excederá, en su duración, del máximo de la punibilidad privativa de la libertad que se aplicaría por ese mismo delito, a los sujetos imputables.
-
-> <small>(F. DE E., P.O. 8 DE FEBRERO DE 1997)</small>
-
-Si concluido ese tiempo la autoridad ejecutora considera que el sujeto continúa necesitando el tratamiento, o no tiene familiares o éstos se niegan a recibirlo bajo su cuidado, lo pondrá a disposición de las autoridades de la salud, para que procedan conforme a las leyes aplicables.
+(DEROGADO, P.O. 2 DE MAYO DE 2026)
 
 ### CAPITULO XVIII. INTERVENCION, REMOCION, PROHIBICION DE REALIZAR DETERMINADAS OPERACIONES Y EXTINCION DE LAS PERSONAS JURIDICAS COLECTIVAS
 
@@ -3249,13 +3237,17 @@ Al que públicamente provoque a otro a cometer un delito, o haga apología de é
 
 ### CAPITULO VIII. ASOCIACION DELICTUOSA
 
-> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2026)</small>
 
 ###### Artículo 231.
 
-Al que forme parte de una asociación o banda de tres o más personas con propósito de delinquir, se le impondrá prisión de cinco a doce años de prisión y de cien a quinientos días multa, además de las sanciones aplicables por los delitos cometidos.
+Al que forme parte de una asociación o banda de tres o más personas con propósito de delinquir, haya o no jerarquía entre sus integrantes, se le impondrá prisión de diez a veinte años y de doscientos a mil días multa, además de las sanciones aplicables por los delitos cometidos.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2011)</small>
 
 Cuando los miembros de la asociación delictuosa incurran en alguno de los delitos considerados como graves por la ley, la sanción podrá aumentarse hasta en una tercera parte.
+
+> <small>(REFORMADO, P.O. 1 DE JUNIO DE 2011)</small>
 
 En el caso de que el miembro de la asociación sea servidor o ex servidor público de alguna de las instituciones de seguridad pública, procuración o administración de justicia, o integrante o ex integrante de las Fuerzas Armadas Mexicanas, la pena se aumentará en una mitad y se le inhabilitará de uno a diez años para desempeñar cargo o comisión pública.
 
@@ -6002,3 +5994,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan las disposiciones que contravengan el presente Decreto.
+
+P.O. 2 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 257 POR EL QUE "SE REFORMAN EL PRIMER PÁRRAFO DE LA FRACCIÓN III, DEL APARTADO C, DEL ARTÍCULO 14 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 231; Y SE DEROGAN LA FRACCIÓN XII, DEL SEGUNDO PÁRRAFO, DEL ARTÍCULO 16 Y EL CAPÍTULO XVII DEL TÍTULO TERCERO CON SUS ARTÍCULOS 47, 48 Y 49, DEL CÓDIGO PENAL PARA EL ESTADO DE TABASCO".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+TERCERO.- Los delitos de asociación delictuosa que se hubieren cometido con anterioridad a la entrada en vigor del presente Decreto, se sancionarán conforme a las disposiciones normativas vigentes al momento de su comisión.
+
+CUARTO.- Tratándose de procesos en trámite o concluidos, en los que en términos de los artículos 47, 48 y 49, las personas sujetas activas sean inimputables, deberá estarse, en lo conducente, a lo establecido actualmente en el tercer párrafo del artículo 4, del Código Penal para el Estado de Tabasco.
