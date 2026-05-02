@@ -4,7 +4,7 @@ identifier: "COL-ley-organica-de-la-universidad-tecnologica-de-manzanillo-104869
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-12-13"
-last_updated: "2014-12-13"
+last_updated: "2026-05-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE MANZANILLO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2026.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 13 de diciembre de 2014.
 
@@ -47,15 +47,21 @@ Se aprueba expedir una nueva Ley Orgánica de la Universidad Tecnológica de Man
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 1.
 
-Se ratifica a la Universidad Tecnológica de Manzanillo como una Institución de Educación Superior, con carácter de organismo público descentralizado del Gobierno del Estado, personalidad jurídica y patrimonio propio, con capacidad para adquirir y administrar bienes, y autonomía de gestión, la cual tiene por fines los señalados en esta Ley.
+La Universidad Tecnológica de Manzanillo es una Institución de Educación Superior, con carácter de organismo público descentralizado del Gobierno del Estado de Colima, personalidad jurídica y patrimonio propio, con capacidad para adquirir y administrar bienes, y autonomía de gestión, la cual tiene por fines los señalados en esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 2.
 
-Los Terrenos donados de manera gratuita por el Gobierno del Estado, a la Universidad Tecnológica de Manzanillo, destinados para la construcción de sus instalaciones, forman parte de su patrimonio.
+Los terrenos donados de manera gratuita por el Gobierno del Estado de Colima, a la Universidad Tecnológica de Manzanillo, destinados para la construcción de sus instalaciones, forman parte de su patrimonio.
 
-Mediante gestión y acuerdos que el Gobierno del Estado realice ante la Secretaría de Educación Pública se incorporará a la Universidad al programa nacional de financiamiento y dotación de infraestructura para los servicios educativos del país.
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2026)</small>
+
+Mediante gestión y acuerdos que el Gobierno del Estado de Colima realice ante la Secretaría de Educación Pública se incorporará a la Universidad al programa nacional de financiamiento y dotación de infraestructura para los servicios educativos del país.
 
 ###### ARTÍCULO 3.
 
@@ -65,17 +71,25 @@ I. Consejo Directivo: al Órgano Máximo de Gobierno de la Universidad;
 
 II. Ley: a la Ley Orgánica de la Universidad Tecnológica de Manzanillo;
 
-III. Rector: al Titular de la Administración de la Universidad;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2026)</small>
 
-IV. Secretaría: a la Secretaría de Educación del Gobierno del Estado de Colima;
+III. Rectora o Rector: a la persona Titular de la Rectoría Universitaria, responsable de la Administración de la Universidad;
 
-V. SEP: a la Secretaría de Educación Pública dependiente del Gobierno Federal, a través de la Subsecretaría de Educación Superior por conducto de la Coordinación General de Universidades Técnológicas y Politécnicas;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2026)</small>
+
+IV. Secretaría: a la Secretaría de Educación y Cultura del Gobierno del Estado de Colima;
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2026)</small>
+
+V. SEP: a la Secretaría de Educación Pública dependiente del Gobierno Federal, a través de la Subsecretaría de Educación Superior por conducto de la Dirección General de Universidades Tecnológicas y Politécnicas;
 
 VI. Subsistema: al Subsistema de Universidades Tecnológicas y Politécnicas;
 
 VII. Universidad: a la Universidad Tecnológica de Manzanillo; y
 
-VIII. CGUTyP: a la Coordinación General de Universidades Tecnológicas y Politécnicas, dependiente de la Secretaría de Educación Pública.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2026)</small>
+
+VIII. DGUTyP: a la Dirección General de Universidades Tecnológicas y Politécnicas, dependiente de la Secretaría de Educación Pública.
 
 ###### ARTÍCULO 4.
 
@@ -101,7 +115,9 @@ VI. Implementar programas de vinculación para fortalecer las relaciones con los
 
 Son atribuciones de la Universidad:
 
-I. Impartir educación superior tecnológica en los niveles de educación superior universitaria, licenciatura y posgrado, cuya duración no será en ningún caso menor a dos años posteriores al bachillerato, conforme a las políticas, lineamientos, planes y programas de estudio, carreras y modalidades que apruebe la CGUTyP, y de acuerdo al modelo pedagógico nacional, que garantice una formación profesional centrada en la cultura científica y tecnológica;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2026)</small>
+
+I. Impartir educación superior tecnológica en los niveles de educación superior universitaria, licenciatura y posgrado, cuya duración no será en ningún caso menor a dos años posteriores al bachillerato, conforme a las políticas, lineamientos, planes y programas de estudio, carreras y modalidades que apruebe la DGUTyP, y de acuerdo al modelo pedagógico nacional, que garantice una formación profesional centrada en la cultura científica y tecnológica;
 
 II. Crear con la más amplia facultad, las carreras pertinentes que contribuyan al desarrollo estatal, regional y nacional, así como al óptimo logro de sus fines y objetivos;
 
@@ -109,7 +125,9 @@ III. Planear, desarrollar e impartir programas de superación y actualización a
 
 IV. Diseñar, desarrollar, impartir y evaluar programas de capacitación para el personal administrativo y de apoyo, que coadyuven a elevar la calidad de los servicios que brindan;
 
-V. Proponer a la CGUTyP, las adiciones o reformas que, en su opinión, deban hacerse a los planes y programas de estudios;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2026)</small>
+
+V. Proponer a la DGUTyP, las adiciones o reformas que, en su opinión, deban hacerse a los planes y programas de estudios;
 
 VI. Instrumentar políticas y programas de investigación científica y tecnológica, de extensión y vinculación que permitan el desarrollo de la ciencia y tecnología en beneficio de la sociedad;
 
@@ -121,7 +139,9 @@ IX. Contratar los bienes y servicios necesarios para su operación, de conformid
 
 X. Impulsar la realización de proyectos tecnológicos, estrategias de participación y concertación con el sector productivo, público, privado y social de la región, que fortalezcan las actividades académicas y productivas con un alto nivel de eficiencia y sentido social, y propicien una estrecha vinculación de la Universidad con este sector;
 
-XI. Normar el desarrollo de sus funciones sustantivas y de apoyo de acuerdo a las políticas de la CGUTyP, así como la estructura operativa y atribuciones de sus órganos;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2026)</small>
+
+XI. Normar el desarrollo de sus funciones sustantivas y de apoyo de acuerdo a las políticas de la DGUTyP, así como la estructura operativa y atribuciones de sus órganos;
 
 XII. Expedir las disposiciones normativas necesarias para el cumplimiento de su objeto y atribuciones;
 
@@ -137,11 +157,17 @@ XVI. Expedir certificados de estudio, títulos de técnico superior universitari
 
 XVII. Recibir y tramitar ante la autoridad educativa competente, las solicitudes de revalidación o establecimiento de equivalencias de los estudios realizados en otras Instituciones Educativas Nacionales o Extranjeras;
 
-XVIII. Facilitar a los alumnos medios de apoyo para el aprendizaje, tales como materiales audiovisuales, servicios de biblioteca, prácticas de laboratorio y de taller, sesiones de grupo, conferencias, mesas redondas, prácticas educativas y estadías profesionales en empresas industriales y de servicios, los demás que deriven del modelo educativo y las políticas del Subsistema de Universidades Tecnológicas y Politécnicas, así como de los métodos de enseñanza y aprendizaje aplicables a este;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2026)</small>
 
-XIX. Gestionar para los alumnos el otorgamiento de becas de los programas oficiales, de la iniciativa privada y organizaciones sociales que otorguen apoyos a los alumnos que reúnan los perfiles requeridos;
+XVIII. Facilitar a las personas estudiantes medios de apoyo para el aprendizaje, tales como materiales audiovisuales, servicios de biblioteca, prácticas de laboratorio y de taller, sesiones de grupo, conferencias, mesas redondas, prácticas educativas y estadías profesionales en empresas industriales y de servicios, los demás que deriven del modelo educativo y las políticas del Subsistema de Universidades Tecnológicas y Politécnicas, así como de los métodos de enseñanza y aprendizaje aplicables a este;
 
-XX. Implementar un sistema de vinculación y seguimiento de egresados, debiendo informar los resultados que obtenga de su operación a la CGUTyP y a la Secretaría, dicho sistema operará de conformidad con las disposiciones que al efecto emita la Universidad ajustándose a la normatividad aplicable;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2026)</small>
+
+XIX. Gestionar para las personas estudiantes el otorgamiento de becas de los programas oficiales, de la iniciativa privada y organizaciones sociales que otorguen apoyos a los alumnos que reúnan los perfiles requeridos;
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2026)</small>
+
+XX. Implementar un sistema de vinculación y seguimiento de egresados, debiendo informar los resultados que obtenga de su operación a la DGUTyP y a la Secretaría, dicho sistema operará de conformidad con las disposiciones que al efecto emita la Universidad ajustándose a la normatividad aplicable;
 
 XXI. Organizar actividades culturales y deportivas que permitan la sana convivencia y recreación de la comunidad universitaria;
 
@@ -177,71 +203,101 @@ La Universidad tendrá su domicilio en el Municipio de Manzanillo, sin perjuicio
 
 ### CAPÍTULO II. DE LOS ÓRGANOS DE LA UNIVERSIDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 11.
 
-Son órganos de la Universidad:
+Los órganos de Gobierno y Administración que dirigirán a la Universidad, son:
 
 I. El Consejo Directivo; y
 
-II. El Rector.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2026)</small>
+
+II. La Rectoría Universitaria.
 
 ###### ARTÍCULO 12.
 
 El Consejo Directivo, será el máximo Órgano de Gobierno de la Universidad y estará integrado por:
 
-I. Tres representantes del Gobierno del Estado que serán:
+> <small>(REFORMADA [N. DE E. CON SUS INCISOS], P.O. 2 DE MAYO DE 2026)</small>
 
-a) El Secretario(a) de Educación;
+I. Tres representantes del Gobierno del Estado de Colima, que serán las personas titulares de:
 
-b) El Secretario(a) de Finanzas y Administración; y
+a) La Secretaría de Educación y Cultura;
 
-c) El Secretario(a) General de Gobierno.
+b) La Secretaría de Planeación, Finanzas y Administración; y
 
-II. Tres representantes del Gobierno Federal designados por la SEP, entre los cuales invariablemente deberá estar un representante de la CGUTyP;
+c) La Secretaría General de Gobierno.
 
-III. Un representante del H. Ayuntamiento de Manzanillo, designado por el Presidente Municipal del mismo;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2026)</small>
 
-IV. Tres representantes del sector productivo de la región, invitados por el Gobierno del Estado por conducto de la Secretaría de Educación;
+II. Tres representantes del Gobierno Federal designados por la SEP, entre los cuales invariablemente deberá estar un representante de la DGUTyP;
 
-V. El Rector quien fungirá como Secretario Técnico; y
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2026)</small>
 
-VI. Un Comisario, que será el representante de la Contraloría General del Gobierno del Estado.
+III. Un representante del H. Ayuntamiento de Manzanillo, designado por la Presidenta o el Presidente Municipal del mismo;
 
-Los integrantes del Consejo Directivo a que se refieren las fracciones I, II, III y IV tendrán derecho a voz y voto en las sesiones; mientras que los señalados en las fracciones V y VI sólo tendrán derecho a voz.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2026)</small>
 
-Cada uno de los miembros del Consejo Directivo podrá designar un suplente que lo represente en sus ausencias.
+IV. Tres representantes del sector productivo de la región, invitados por el Gobierno del Estado de Colima por conducto de la Secretaría de Educación y Cultura; y
 
-Los miembros del Consejo Directivo durarán en su cargo cuatro años, y podrán ser ratificados por un período igual.
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2026)</small>
 
-El Consejo Directivo será presidido por el Secretario de Educación del Estado de Colima y en su ausencia lo presidirá el Secretario General de Gobierno.
+V. La persona titular de la Rectoría Universitaria quien fungirá como Secretaría Técnica.
+
+VI. (DEROGADA, P.O. 2 DE MAYO DE 2026)
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2026)</small>
+
+Los integrantes a que se refieren las fracciones I, II, III y IV tendrán derecho a voz y voto en las sesiones del Consejo Directivo; mientras que la persona señalada en la fracción V, sólo tendrá derecho a voz.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE MAYO DE 2026)</small>
+
+La persona titular del Órgano Interno de Control adscrito a la Universidad participará como invitado en las sesiones del referido Consejo, con derecho a voz, pero sin voto.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2026)</small>
+
+Cada una de las personas integrantes del Consejo Directivo podrá designar una persona suplente que lo represente en sus ausencias.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2026)</small>
+
+Las personas que integran el Consejo Directivo durarán en su cargo cuatro años, y podrán ser ratificados por un período igual.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2026)</small>
+
+El Consejo Directivo será presidido por la persona titular de la Secretaría de Educación y Cultura del Estado de Colima y en su ausencia lo presidirá la persona titular de la Secretaría General de Gobierno.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 13.
 
-El Consejo Directivo sesionará ordinariamente cada cuatro meses. Para las sesiones ordinarias las convocatorias y el orden del día se comunicarán por escrito especificando el asunto a tratar, por lo menos con cinco días de anticipación.
+El Consejo Directivo sesionará ordinariamente cada cuatro meses. Para las sesiones ordinarias las convocatorias se comunicarán por lo menos con cinco días de anticipación, mediante el uso de tecnologías de la información o plataformas habilitadas al efecto.
 
-El Órgano de Gobierno sesionará válidamente con la asistencia del Presidente o su suplente y de por lo menos la mitad más uno de sus miembros, encontrándose entre ellos la mayoría de los representantes del Gobierno del Estado y del Gobierno Federal.
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2026)</small>
 
-Las sesiones extraordinarias se realizarán cuando existan asuntos que por su urgencia o trascendencia así lo ameriten, serán convocadas por el Presidente del órgano de gobierno, por lo menos con veinticuatro horas de anticipación, mediante escrito indicando el asunto que se trate, y en ellas no se podrán tratar asuntos generales.
+El Órgano de Gobierno sesionará válidamente con la asistencia de su Presidenta o Presidente o la persona suplente y de por lo menos la mitad más uno de sus integrantes, encontrándose entre ellos la mayoría de los representantes del Gobierno del Estado de Colima y del Gobierno Federal.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2026)</small>
+
+Las sesiones extraordinarias se realizarán cuando existan asuntos que por su urgencia o trascendencia así lo ameriten, serán convocadas por la Presidenta o el Presidente del Órgano de Gobierno, por lo menos con veinticuatro horas de anticipación, mediante el uso de tecnologías de la información o plataformas habilitadas al efecto, indicando el asunto que se trate, y en ellas no se podrán tratar asuntos generales.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 14.
 
-Las decisiones o acuerdos que deriven de las sesiones del Consejo Directivo serán válidos por mayoría simple, es decir, cuando cuenten con el voto de la mayoría de los integrantes presentes en la sesión de que se trate. En caso de empate el Presidente tendrá voto de calidad.
+Las decisiones o acuerdos que deriven de las sesiones del Consejo Directivo serán válidos por mayoría simple, es decir, cuando cuenten con el voto de la mayoría de los integrantes presentes en la sesión de que se trate. En caso de empate la Presidenta o el Presidente tendrá voto de calidad.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 15.
 
-El cargo de miembro del Consejo Directivo será honorífico, por lo que no recibirán retribución alguna por el desempeño de esta función, y sólo será compatible dentro de la Universidad, con la realización de tareas académicas. Los miembros del Consejo Directivo no podrán ser designados para ocupar cargos de dirección en la Universidad durante los dos años siguientes, contados a partir de la fecha en que dejen de fungir como miembros del citado Consejo Directivo.
+El cargo de persona consejera del Consejo Directivo será honorífico, por lo que no se recibirá retribución alguna por el desempeño de esta función, y sólo será compatible dentro de la Universidad, con la realización de tareas académicas. Quienes integren el Consejo Directivo no podrán ser designados para ocupar cargos de dirección en la Universidad durante los dos años siguientes, contados a partir de la fecha en que dejen de fungir como personas consejeras del citado Consejo Directivo.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 16.
 
-Para ser miembro del Consejo Directivo se requiere:
-
-I. Ser de nacionalidad mexicana;
-
-II. Ser mayor de 30 años al momento de la designación;
-
-III. Tener experiencia académica, profesional o laboral; y
-
-IV. Ser persona de amplia solvencia moral y reconocido prestigio profesional.
+Las personas representantes del sector productivo integrantes del Consejo Directivo, deberán tener una edad mínima de 30 años al momento de su designación y contar con experiencia académica, profesional o laboral.
 
 ###### ARTÍCULO 17.
 
@@ -253,27 +309,43 @@ II. Aprobar, en el ámbito de su competencia, los reglamentos, estatutos, acuerd
 
 III. Conocer, discutir y aprobar, en su caso, los proyectos académicos que se le presenten y los que surjan en su propio seno de conformidad con las disposiciones normativas aplicables;
 
-IV. Proponer a la CGUTyP, la apertura o cierre de programas académicos en sus distintos niveles y modalidades;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2026)</small>
 
-V. Estudiar y en su caso, aprobar los contenidos regionales de los planes y programas de estudios que se propondrán a la CGUTyP;
+IV. Proponer a la DGUTyP, la apertura o cierre de programas académicos en sus distintos niveles y modalidades;
 
-VI. Proponer al Gobierno del Estado, previa autorización de la CGUTyP las modificaciones a la estructura orgánica de la Universidad;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2026)</small>
+
+V. Estudiar y en su caso, aprobar los contenidos regionales de los planes y programas de estudios que se propondrán a la DGUTyP;
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2026)</small>
+
+VI. Proponer al Gobierno del Estado, previa autorización de la DGUTyP las modificaciones a la estructura orgánica de la Universidad;
 
 VII. Examinar y, en su caso, aprobar los proyectos anuales de ingreso y el presupuesto de egresos;
 
 VIII. Discutir y, en su caso, aprobar la cuenta anual de ingresos y egresos de la institución, así como nombrar al auditor externo que dictamine sus estados financieros, sin menoscabo de las facultades que las leyes les otorguen al Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, así como a la Contraloría General del Estado y la Auditoría Superior de la Federación, en sus respectivas competencias;
 
-IX. Conocer y aprobar, en su caso, el plan anual de trabajo y los informes generales y especiales que deba rendir el Rector;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2026)</small>
+
+IX. Conocer y aprobar, en su caso, el plan anual de trabajo y los informes generales y especiales que deba rendir la persona titular de la Rectoría Universitaria;
 
 X. Aprobar el calendario escolar para cada ciclo;
 
-XI. Resolver los asuntos que someta a su consideración el Rector con relación al funcionamiento de la Universidad;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2026)</small>
 
-XII. Proponer al Titular del Poder Ejecutivo del Estado la terna de candidatos a ocupar la rectoría de la Universidad, quienes integren dicha terna deberán cumplir el perfil que al efecto establezca la CGUTyP;
+XI. Resolver los asuntos que someta a su consideración la persona titular de la Rectoría Universitaria con relación al funcionamiento de la Universidad;
 
-XIII. Remover de su cargo al Rector siempre que medie causa debidamente justificada a consideración del órgano de gobierno;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2026)</small>
 
-XIV. Nombrar a propuesta formulada por el Rector, a los Secretarios de Vinculación y Académico, a los Directores de División (sic) Área y de Centro, los cuales deberán cumplir el perfil profesional que determine la SEP, siempre que de acuerdo a la etapa de crecimiento de la Universidad tales nombramientos se justifiquen;
+XII. Proponer a la persona Titular del Poder Ejecutivo del Estado la terna de candidatos a ocupar la rectoría de la Universidad, quienes integren dicha terna deberán cumplir el perfil que al efecto establezca la DGUTyP;
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2026)</small>
+
+XIII. Remover de su cargo a la persona titular de la Rectoría Universitaria siempre que medie causa debidamente justificada a consideración del órgano de gobierno;
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2026)</small>
+
+XIV. Nombrar a propuesta formulada por la persona titular de la Rectoría Universitaria, a las personas que ocuparán la Secretaría Académica, la oficina de la Abogada o Abogado General, Directoras o Directores de Área y Subdirectoras o Subdirectores, quienes deberán cumplir el perfil profesional que determine la SEP, siempre que de acuerdo a la etapa de crecimiento de la Universidad tales nombramientos se justifiquen;
 
 XV. Aprobar los nombramientos del personal de confianza de la Universidad;
 
@@ -289,21 +361,31 @@ XX. Dirimir y resolver en última instancia los conflictos que surjan entre las 
 
 XXI. Las demás que le sean conferidas por esta Ley, por las disposiciones estatales aplicables y aquéllas que no estén atribuidas a otro órgano o autoridad administrativa.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 18.
 
-Sólo en casos de extrema urgencia o que por la trascendencia y circunstancias del asunto a tratar, la atención o resolución del mismo no pudiera esperar a que se reúna el Consejo Directivo, el Rector bajo su más estricta responsabilidad podrá tomar las decisiones que le correspondan a este Órgano de Gobierno, quedando obligado a informarlo en la sesión inmediata siguiente que celebre el Consejo Directivo, con el fin de someterlas a su ratificación o rectificación según proceda.
+Sólo en casos de extrema urgencia o que por la trascendencia y circunstancias del asunto a tratar, la atención o resolución del mismo no pudiera esperar a que se reúna el Consejo Directivo, la persona titular de la Rectoría Universitaria bajo su más estricta responsabilidad podrá tomar las decisiones que le correspondan a este Órgano de Gobierno, quedando obligada(o) a informarlo en la sesión inmediata siguiente que celebre el Consejo Directivo, con el fin de someterlas a su ratificación o rectificación según proceda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 19.
 
-El Rector será designado por el Gobernador Constitucional del Estado de Colima, de una terna propuesta por el Consejo Directivo, será el Órgano de Administración de la Universidad y tendrá la representación legal de ésta.
+La persona titular de la Rectoría Universitaria será designada por la persona titular del Poder Ejecutivo, de una terna que proponga el Consejo Directivo, será el Órgano de Administración de la Universidad y tendrá la representación legal de esta.
 
-Ocupará dicho cargo por un período de cuatro años, pudiendo ser ratificado por una sola ocasión por otro período igual, a propuesta del Consejo Directivo.
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2026)</small>
 
-El Rector será removido por causa justificada.
+La persona titular de la Rectoría Universitaria ocupará dicho cargo por un período de cuatro años, pudiendo ser ratificado por una sola ocasión por otro período igual, a propuesta del Consejo Directivo.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2026)</small>
+
+La persona titular de la Rectoría Universitaria será removida por causa justificada.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 20.
 
-Para ser rector se requiere:
+Para ser persona titular de la Rectoría Universitaria se requiere:
 
 I. Ser mexicano por nacimiento en pleno ejercicio de sus derechos civiles y políticos;
 
@@ -311,7 +393,7 @@ II. Ser mayor de 30 años y menor de 65 años al momento de la elección;
 
 III. Cumplir el perfil profesional establecido por la SEP;
 
-IV. Ser persona de amplia solvencia moral y de reconocido prestigio académico y/o profesional;
+IV. (DEROGADA, P.O. 2 DE MAYO DE 2026)
 
 V. No estar en servicio activo en las fuerzas armadas del país;
 
@@ -321,9 +403,11 @@ VII. No ser ministro o tener cargo directivo de ningún culto religioso; y
 
 VIII. No haber sido sentenciado por delito intencional.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 21.
 
-El Rector será el representante legal de la Universidad y tendrá las facultades y atribuciones siguientes:
+La persona titular de la Rectoría Universitaria tendrá la representación legal de la Universidad, además de las facultades y atribuciones siguientes:
 
 I. Conducir el funcionamiento de la Universidad, vigilando el cumplimiento de su objetivo, planes y programas académicos, administrativos y financieros, así como la correcta operación de sus diversas áreas;
 
@@ -331,7 +415,9 @@ II. Aplicar las políticas generales, que dicten los órganos de gobierno;
 
 III. Vigilar el cumplimiento de las disposiciones y acuerdos que norman la estructura y funcionamiento de la Universidad;
 
-IV. Presentar al Consejo Directivo, para su aprobación, los proyectos de reglamentos, manuales de organización, modificaciones de estructuras orgánicas y funcionales, los cuales deberán ajustarse a las disposiciones normativas aplicables, mismas que deberán contar con la aprobación de la CGUTyP;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2026)</small>
+
+IV. Presentar al Consejo Directivo, para su aprobación, los proyectos de reglamentos, manuales de organización, modificaciones de estructuras orgánicas y funcionales, los cuales deberán ajustarse a las disposiciones normativas aplicables, mismas que deberán contar con la aprobación de la DGUTyP;
 
 V. Conocer de las infracciones a las disposiciones legales y aplicar, en el ámbito de su competencia, las sanciones correspondientes;
 
@@ -347,7 +433,9 @@ X. Presentar al Consejo Directivo y a la Comunidad Universitaria el Plan de Trab
 
 XI. Proponer al Consejo Directivo a un Rector Interino, cuando se ausente por un período menor a treinta días, el cual deberá cumplir en todo caso con el perfil establecido por la SEP;
 
-XII. Representar legalmente a la Universidad para el despacho de los asuntos, con el carácter de apoderado general judicial para pleitos y cobranzas, para actos de administración y de dominio, incluyendo la facultad para sustituir o delegar esta representación en el abogado general de la Institución o en uno o más apoderados para que ejerzan individual o conjuntamente las funciones que se les encomienden;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 2 DE MAYO DE 2026)</small>
+
+XII. Representar legalmente a la Universidad para el despacho de los asuntos, con el carácter de apoderado general judicial para pleitos y cobranzas, para actos de administración y de dominio, incluyendo la facultad para sustituir o delegar esta representación en la Abogada o el Abogado General de la Institución o en uno o más apoderados para que ejerzan individual o conjuntamente las funciones que se les encomienden;
 
 Para efectos de riguroso dominio, tratándose de actos relativos a la transmisión de bienes muebles e inmuebles, deberán autorizarlos previamente el Consejo Directivo y decretarlo así el Congreso del Estado, para desincorporarlo de su patrimonio;
 
@@ -355,13 +443,17 @@ XIII. Celebrar con aprobación del Consejo Directivo convenios, contratos y acue
 
 XIV. Asistir a las sesiones del Consejo Directivo con derecho a voz y sin voto;
 
-XV. Nombrar, previa aprobación del Consejo Directivo, a los Directores de División y de Carrera que cumplan los perfiles profesionales determinados por la SEP;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2026)</small>
+
+XV. Nombrar, previa aprobación del Consejo Directivo, a las personas titulares de la Secretaría Académica, de la oficina de la Abogada o Abogado General, de las Direcciones y Subdirecciones de Área respectivas, que cumplan los perfiles profesionales determinados por la SEP;
 
 XVI. Nombrar, remover y promover, con estricto apego al Reglamento de Ingreso, Permanencia y Promoción del Personal Académico, y demás normatividad aplicable, al personal académico y administrativo de la Universidad, informando oportunamente al Consejo Directivo de tales nombramientos, así como proveer lo necesario para elevar el nivel académico y profesional del personal adscrito;
 
 XVII. Proponer al Consejo Directivo los nombramientos o remoción del personal de confianza;
 
-XVIII. Designar a quien deba suplir las ausencias temporales, no mayores a quince días, de los Directores;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2026)</small>
+
+XVIII. Designar a quien deba suplir las ausencias temporales, del personal Directivo de la Institución;
 
 XIX. Asignar funciones al personal, en tanto no exista personal directivo suficiente, sin menoscabo de las que estén realizando;
 
@@ -369,11 +461,19 @@ XX. Informar al Consejo Directivo de las renuncias, remociones y nombramientos d
 
 XXI. Observar las normas y criterios generales que dicten las Autoridades Educativas para el otorgamiento de revalidaciones y equivalencias de estudio realizados en instituciones estatales, nacionales y extranjeras que impartan el mismo nivel educativo;
 
-XXII. Integrar y reestructurar el Consejo de Vinculación y Pertinencia, previa aprobación de la CGUTyP y del Consejo Directivo;
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2026)</small>
+
+XXII. Integrar y reestructurar el Consejo de Vinculación y Pertinencia, previa aprobación de la DGUTyP y del Consejo Directivo;
 
 XXIII. En casos de suma urgencia, solicitar se reúna el Consejo Directivo, y se acuerde lo procedente; y
 
-XXIV. Las demás que le otorguen los demás ordenamientos legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE MAYO DE 2026)</small>
+
+XXIV. Certificar y expedir copias certificadas de los documentos que obren en sus archivos y de aquellos que expidan, en el ejercicio de sus funciones, las personas servidoras públicas que, conforme al organigrama de la Universidad, se encuentren subordinados a la Rectoría Universitaria; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE MAYO DE 2026)</small>
+
+XXV. Las demás que le otorguen los demás ordenamientos legales aplicables.
 
 ### CAPÍTULO III. DEL PATRIMONIO
 
@@ -395,29 +495,43 @@ VI. Las utilidades, intereses, honorarios, dividendos, participaciones, rendimie
 
 VII. Cualquier otro ingreso que adquiera a título legal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 23.
 
-Los bienes inmuebles que forman parte del patrimonio de la Universidad, tendrán el carácter de inalienables, inembargables e imprescriptibles y sobre los mismos no podrá constituirse gravamen alguno, en tanto se encuentren sujetos a la prestación de los servicios que constituyen el objeto de la Universidad.
+Los bienes inmuebles que forman parte del patrimonio de la Universidad, tendrán el carácter de inalienables, inembargables e imprescriptibles y sobre los mismos no podrá constituirse gravamen alguno, ni tampoco sobre sus activos intangibles, en tanto se encuentren sujetos a la prestación de los servicios que constituyen el objeto de la Universidad.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2026)</small>
+
+La persona titular de la Rectoría Universitaria, vigilará que los recursos financieros que se obtengan a través de las aportaciones de la SEP, se utilicen para el cumplimiento de las obligaciones contenidas en el Convenio Específico para la operación y seguimiento al servicio educativo de las Universidades del Subsistema Tecnológico del Estado de Colima, debido a que los recursos federalizados no pierden el carácter de federal, por lo que cualquier presunta afectación o desviación se denunciará ante las autoridades competentes.
 
 ###### ARTÍCULO 24.
 
-Los ingresos y los bienes de la Universidad estarán exentos de todo tipo de impuestos y derechos de carácter federal; como lo estipula la Ley para la Coordinación de la Educación Superior en su artículo 22, así como de los estatales y municipales. No serán sujetos de gravamen los actos y contratos en que la Universidad intervenga cuando los impuestos estatales y municipales debiesen correr a cargo de la Universidad.
+(DEROGADO, P.O. 2 DE MAYO DE 2026)
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 25.
 
-Los ingresos propios que obtenga la Universidad, por concepto de cuotas de alumnos, donaciones, derechos y servicios que preste, serán integrados a su patrimonio y no podrán ser contabilizados bajo ninguna circunstancia como aportaciones de la SEP o del Gobierno del Estado. Dichos recursos se canalizarán prioritariamente a la ampliación, reposición o sustitución de los equipos de talleres y laboratorios en los términos del reglamento que para tal efecto expida el Consejo Directivo.
+Los ingresos propios que obtenga la Universidad, por concepto de cuotas, donaciones, derechos y servicios que preste, serán integrados a su patrimonio y no podrán ser contabilizados bajo ninguna circunstancia como aportaciones de la SEP o del Gobierno del Estado de Colima. Dichos recursos se canalizarán prioritariamente a la ampliación, reposición o sustitución de los equipos de talleres y laboratorios en los términos del reglamento que para tal efecto expida el Consejo Directivo.
 
 ### CAPÍTULO IV. DE LA ESTRUCTURA ÓRGANICA Y DEL PERSONAL DE LA UNIVERSIDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 26.
 
-Para el cumplimiento el (sic) objeto y atribuciones, así como para el desarrollo de las actividades de la Universidad, el Rector se auxiliará de los Directores de División y de Carrera y demás personal, conforme a la estructura autorizada, de conformidad con los dictámenes emitidos por la Dirección General de Innovación, Calidad y Organización y la Dirección General de Personal de la SEP. Las funciones que correspondan a cada uno de los puestos determinados en dicha estructura se establecerán en el reglamento respectivo; de igual manera, los tabuladores para el pago de remuneraciones al personal de la Universidad se fijarán con base en los referidos dictámenes.
+Para el cumplimiento del objeto y atribuciones, así como para el desarrollo de las actividades de la Universidad, la persona titular de la Rectoría Universitaria se auxiliará de la estructura organizacional que le sea autorizada, ajustándose a las disposiciones normativas aplicables, la opinión positiva de la Secretaría de Planeación, Finanzas y Administración, de la Secretaría de Educación y Cultura, y, la aprobación de la DGUTyP. Las funciones que correspondan a cada uno de los puestos determinados en dicha estructura se establecerán en el Reglamento respectivo; de igual manera, los tabuladores para el pago de remuneraciones al personal de la Universidad se fijarán con base en los referidos dictámenes.
 
-La estructura autorizada, catálogo de puestos y tabuladores de sueldos para el personal administrativo y de confianza, nunca podrá ser superior a la autorizada por la Oficialía Mayor de la Dirección General de Personal de la SEP.
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2026)</small>
+
+La estructura organizacional autorizada, catálogo de puestos y tabuladores de sueldos para el personal administrativo y de confianza, nunca podrá ser superior a la autorizada por la Oficialía Mayor de la Dirección General de Recursos Humanos y Organización de la SEP.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 27.
 
-El personal docente y directivo de la Universidad deberá cumplir los perfiles profesionales que determine la SEP a través de la CGUTyP.
+El personal docente y directivo de la Universidad deberá cumplir los perfiles profesionales que determine la SEP a través de la DGUTyP.
 
 ###### ARTÍCULO 28.
 
@@ -427,33 +541,51 @@ Los concursos de oposición que lleve a cabo con tal fin serán evaluados por un
 
 ###### ARTÍCULO 29.
 
-El personal académico que cuente con cinco años consecutivos en el servicio, podrá obtener la definitividad en su plaza, mediante la evaluación de una comisión dictaminadora externa.
+(DEROGADO, P.O. 2 DE MAYO DE 2026)
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 30.
 
-Las relaciones entre la Universidad y su personal se regirán por la Ley Federal del Trabajo y las condiciones que se establezcan en la normatividad aplicable, con exclusión del que se contrate por honorarios en términos del Código Civil vigente en el Estado.
+Las relaciones entre la Universidad y su personal se regirán por la Ley Federal del Trabajo y las condiciones que se establezcan en la normatividad aplicable, con exclusión del que se contrate por honorarios en términos del Código Civil vigente en el Estado de Colima.
 
-### CAPÍTULO V. DE LOS ALUMNOS DE LA UNIVERSIDAD
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE MAYO DE 2026)</small>
+
+### CAPÍTULO V. DE LAS PERSONAS ESTUDIANTES DE LA UNIVERSIDAD
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 31.
 
-Serán alumnos de la Universidad quienes, habiendo cumplido con los requisitos y seguido los procedimientos de selección para el ingreso, sean admitidos para cursar cualquiera de las carreras o programas de educación técnica superior y superior o de posgrado que ésta imparta, y tendrán los derechos y obligaciones que les confieran las disposiciones normativas vigentes.
+Serán consideradas personas estudiantes de la Universidad quienes, habiendo cumplido con los requisitos y seguido los procedimientos de selección para el ingreso, sean admitidos para cursar cualquiera de las carreras o programas de educación técnica superior y superior o de posgrado que ésta imparta, y tendrán los derechos y obligaciones que les confieran las disposiciones normativas vigentes.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 32.
 
-Las asociaciones de alumnos que se constituyan en la Universidad, serán independientes de los Órganos de Gobierno de ésta; y se organizarán democráticamente, en la forma que los mismos estudiantes determinen, y no tendrán injerencia alguna en asuntos académicos, administrativos o financieros de la Universidad.
+Las asociaciones de personas estudiantes que se constituyan en la Universidad, serán independientes de los Órganos de Gobierno de ésta; y se organizarán democráticamente, en la forma que ellas mismas determinen, y no tendrán injerencia alguna en asuntos académicos, administrativos o financieros de la Universidad.
 
-### CAPÍTULO VI
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE MAYO DE 2026)</small>
 
-DE LOS ÓRGANOS DE CONTROL Y VIGILANCIA.
+### CAPÍTULO VI. DEL ÓRGANO INTERNO DE CONTROL
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 33.
 
-El Órgano Interno de Control estará integrado por un Comisario y su suplente, designados por la Contraloría General del Estado de Colima.
+La Universidad contará con un Órgano Interno de Control, que se integrará de conformidad a los criterios, lineamientos o disposiciones administrativas emitidos por la Contraloría General del Estado, sujetándose en su funcionamiento y operatividad a lo establecido en la Ley General de Responsabilidades Administrativas, la Ley Orgánica del Poder Ejecutivo y de la Administración Pública del Estado de Colima, los lineamientos que al respecto sean emitidos por la Contraloría General del Estado y en la demás normatividad aplicable en la materia.
 
-El Comisario evaluará el desempeño general de la Universidad y analizará la eficiencia con que se ejerzan los rubros de gasto corriente y de inversión, así como los ingresos; verificando que su aplicación se apegue a la normatividad y a las disposiciones legales vigentes.
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2026)</small>
 
-Estará facultado para solicitar la información y efectuar los actos que se requieran para el adecuado cumplimiento de sus funciones, sin perjuicio de las tareas que la Contraloría General del Gobierno del Estado asigne específicamente, conforme a las leyes aplicables.
+###### ARTÍCULO 33 Bis.
+
+Para la vigilancia, control y evaluación de las funciones de la Universidad, la persona titular del Órgano Interno de Control, fungirá con el carácter de Comisaria o Comisario, y participará en las sesiones del Consejo Directivo de conformidad con el segundo párrafo del artículo 12 del presente ordenamiento. Las personas servidoras públicas que integren el Órgano Interno de Control de la Universidad, incluido la titular, serán nombradas y en su caso removidas por la Contraloría General del Estado de Colima.
+
+> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2026)</small>
+
+###### ARTÍCULO 33 Ter.
+
+Para el adecuado cumplimiento de las atribuciones de la persona titular del Órgano Interno de Control y de las áreas que lo integran, la persona titular de la Rectoría Universitaria y demás unidades administrativas de la Universidad le proporcionarán la información que le sea solicitada, de conformidad con las disposiciones administrativas y demás ordenamientos aplicables.
 
 ###### ARTÍCULO 34.
 
@@ -461,17 +593,21 @@ La ejecución de programas y el ejercicio del presupuesto asignado a la Universi
 
 ### CAPÍTULO VII. DE LA EVALUACIÓN
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 35.
 
-La prestación de los servicios educativos a cargo de la Universidad deberá ser evaluada permanentemente; al efecto, la SEP a través de la CGUTyP y la Secretaría, con la participación de la referida Universidad, determinarán los mecanismos, plazos y aspectos que serán evaluados, y en su caso, la expedición de la normatividad que regule dicha actividad.
+La prestación de los servicios educativos a cargo de la Universidad deberá ser evaluada permanentemente; al efecto, la SEP a través de la DGUTyP y la Secretaría, con la participación de la referida Universidad, determinarán los mecanismos, plazos y aspectos que serán evaluados, y en su caso, la expedición de la normatividad que regule dicha actividad.
 
 ### CAPÍTULO VIII. DEL PATRONATO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 36.
 
-La Universidad tendrá un Patronato cuya finalidad es apoyar a la Universidad en la obtención de recursos financieros adicionales para la óptima realización de sus funciones; éste se integrará por un presidente y cuatro vocales a invitación del Rector, el desempeño de dichos cargos será de carácter honorífico.
+La Universidad tendrá un Patronato cuya finalidad es apoyar a la Universidad en la obtención de recursos financieros adicionales para la óptima realización de sus funciones; éste se integrará por una Presidencia y cuatro vocalías a invitación de la persona titular de la Rectoría Universitaria, el desempeño de dichos cargos será de carácter honorífico.
 
-Los miembros de (sic) Patronato deberán tener reconocida solvencia moral y tendrán carácter honorario.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 2 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 37.
 
@@ -479,15 +615,19 @@ La integración y funcionamiento del Patronato será regulada por el Reglamento 
 
 ### CAPÍTULO IX. DE LA SUPLENCIA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 38.
 
-Las ausencias temporales del Rector serán suplidas por el Secretario Académico de la Universidad; quien se desempeñará con carácter de Rector temporal.
+La persona titular de la Rectoría Universitaria podrá ser suplida, en caso de ausencia temporal o vacancia, por la persona titular de la Secretaría Académica, quien fungirá como persona encargada del despacho en tanto la persona titular se reincorpora a su cargo o, en su caso, se nombra a una nueva persona que le sustituya en el cargo, de conformidad con las disposiciones aplicables.
 
 Las ausencias definitivas serán suplidas, por quien designe el Titular del Poder Ejecutivo del Estado en los términos de lo dispuesto por el artículo 19 de esta Ley.
 
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 39.
 
-El Rector hará la designación de quien deba suplir las ausencias temporales de los Directores, no mayores a quince días consecutivos.
+La persona titular de la Rectoría Universitaria hará la designación de quien deba suplir las ausencias temporales de la plantilla Directiva de la Universidad.
 
 ## TRANSITORIOS
 
@@ -514,3 +654,21 @@ Por lo tanto mando se imprima, publique, circule y obseve (sic).
 Dado en Palacio de Gobierno, el día 09 nueve del mes de Diciembre del año 2014 dos mil catorce.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE COLIMA, LIC. MARIO ANGUIANO MORENO. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO, LIC. ROGELIO HUMBERTO RUEDA SÁNCHEZ. Rúbrica. EL SECRETARIO DE EDUCACIÓN, MTRO. JOSÉ GUILLERMO RANGEL LOZANO. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 273.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA UNIVERSIDAD TECNOLÓGICA DE MANZANILLO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+###### ARTÍCULO SEGUNDO.
+
+El nombramiento de la estructura organizacional que integrará el Órgano Interno de Control de la Universidad, quedará sujeto a la disponibilidad presupuestaria de la entidad paraestatal.
+
+###### ARTÍCULO TERCERO.
+
+La Universidad deberá expedir el Reglamento de la Ley Orgánica de conformidad con lo establecido en el presente Decreto, en un término de noventa días naturales contados a partir de la fecha de su publicación en el Periódico Oficial del Estado.
