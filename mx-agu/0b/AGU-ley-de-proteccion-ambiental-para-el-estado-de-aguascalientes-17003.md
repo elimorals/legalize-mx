@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-ambiental-para-el-estado-de-aguascalientes-17
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2024-12-23"
+last_updated: "2026-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2026.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado Aguascalientes, el lunes 4 de febrero de 2000.
 
@@ -4001,11 +4001,11 @@ Cuando por infracción a las disposiciones de esta Ley y sus disposiciones regla
 
 ### CAPÍTULO I. Inspección y Vigilancia
 
-> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 201.
 
-Las autoridades ambientales a que se refiere esta Ley, de conformidad con la distribución de competencias que en la misma se establece, podrán realizar actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en el presente ordenamiento, así como de las que del mismo se deriven.
+Las autoridades ambientales a que se refiere esta Ley, de conformidad con la distribución de competencias que en la misma se establece, podrán realizar actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en el presente ordenamiento, así como de las que del mismo se deriven. Para tal efecto, podrán solicitar la intervención de las Instancias de Seguridad Pública del Estado o municipios, previa suscripción de los convenios o acuerdos de colaboración que correspondan.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE JULIO DE 2024)</small>
 
@@ -4679,38 +4679,10 @@ P.O. 23 DE DICIEMBRE DE 2024.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
 
-## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 51/2016, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO AL COMIENZO DE FUNCIONES DE LOS JUZGADOS CUARTO Y QUINTO DE DISTRITO EN MATERIA MERCANTIL, ESPECIALIZADOS EN JUICIOS DE CUANTÍA MENOR, CON SEDE EN LA CIUDAD DE MÉXICO, ASÍ COMO A SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO Y A LAS REGLAS PARA EL TURNO Y LA DISTRIBUCIÓN DE ASUNTOS".]
+P.O. 4 DE MAYO DE 2026.
 
-PRIMERO. El presente Acuerdo entrará en vigor el dieciséis de diciembre de dos mil dieciséis, con excepción de lo previsto en el transitorio QUINTO de dicho instrumento normativo, el cual iniciará su vigencia a partir de su aprobación.
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 466.- SE REFORMA LA LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES".]
 
-SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación, y para mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+###### ARTÍCULO PRIMERO.
 
-TERCERO. Los juicios orales mercantiles que a la fecha del comienzo de funciones de los Juzgados Cuarto y Quinto de Distrito en Materia Mercantil Especializados en Juicios de Cuantía Menor, materia del presente Acuerdo, se encuentren radicados ante los Juzgados de Distrito en Materia Civil en la Ciudad de México, continuarán tramitándose ante ellos hasta su conclusión y eventual archivo definitivo.
-
-CUARTO. Los Juzgados de Distrito en Materia Civil en la Ciudad de México conservarán su actual denominación, jurisdicción territorial y competencia, con las excepciones señaladas en el presente Acuerdo.
-
-A fin de equilibrar las cargas de trabajo que llegaren a presentarse en los Juzgados Cuarto y Quinto de Distrito en Materia Mercantil, Especializados en Juicios de Cuantía Menor, con residencia en la Ciudad de México, la Comisión de Creación de Nuevos Órganos del Consejo de la Judicatura Federal podrá establecer la competencia temporal compartida por parte de los Juzgados de Distrito en Materia Civil de la Ciudad de México, para conocer de juicios orales mercantiles y comunicaciones relacionadas con estos que se presenten en ese circuito, así como regular el turno, total o parcial, de éstos.
-
-QUINTO. La Secretaría Ejecutiva de Administración por conducto de las áreas administrativas a su cargo que resulten competentes, dotará a los nuevos órganos jurisdiccionales de la infraestructura y equipamiento necesario para el desempeño de sus funciones. Los órganos jurisdiccionales deberán contar con una sala para la celebración de las audiencias orales, así como con un sistema informático y de videograbación para el registro de éstas por medios electrónicos que garanticen su fidelidad, integridad, preservación, la reproducción de su contenido y el acceso a quienes tuvieren derecho a ello.
-
-Las Direcciones Generales de Tecnologías de la Información y de Estadística Judicial realizarán las modificaciones necesarias a la configuración del sistema computarizado para la recepción y distribución de asuntos en la Oficina de Correspondencia Común, de los Juzgados de Distrito en Materia Civil en la Ciudad de México a fin de habilitar los campos de captura necesarios.
-
-SEXTO. La Dirección General de Tecnologías de la Información suministrará los equipos, brindará la capacitación y asistencia técnica necesaria al personal de los Juzgados Cuarto y Quinto de Distrito en Materia Mercantil, Especializados en Juicios de Cuantía Menor, con residencia en la Ciudad de México, para la operación del sistema informático y de videograbación que registrará las audiencias que se celebren.
-
-SÉPTIMO. Se reforma el numeral SEGUNDO, fracción I, números 3 a 5; y se adiciona el número 6 a la fracción I del mismo numeral, del Acuerdo General 3/2013 del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
-
-"SEGUNDO. .
-
-I. .
-
-1. a 2. .
-
-3. Setenta juzgados de Distrito en la Ciudad de México especializados: quince de Procesos Penales Federales, dieciséis de amparo en materia penal, dieciséis en materia administrativa, catorce en materia civil, y nueve en materia de trabajo, todos con residencia en la Ciudad de México.
-
-4. Dos Juzgados de Distrito en Materia Mercantil, Especializado en Juicios de Cuantía Menor, con residencia en la Ciudad de México.
-
-5. Ocho Juzgados Federales Penales Especializados: seis en Cateos, Arraigos e Intervención de Comunicaciones, y dos en Medidas Cautelares y Control de Técnicas de Investigación, todos con residencia en la Ciudad de México.
-
-6. Tres juzgados de Distrito Especializados en Ejecución de Penas, todos con residencia en la Ciudad de México.
-
-D.O.F. 15 DE FEBRERO DE 2017.
+La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
