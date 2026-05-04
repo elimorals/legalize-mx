@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-movilidad-y-seguridad-vial-del-estado-de-182861"
 country: "mx"
 rank: "ley"
 publication_date: "2025-12-15"
-last_updated: "2025-12-15"
+last_updated: "2026-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=182861&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2026.
 
 Ley publicada en la Edición Vespertina al Número 50 del Periódico Oficial del Estado de Aguascalientes, el lunes 15 de diciembre de 2025.
 
@@ -2539,17 +2539,31 @@ Los ruptores y alarmas de urgencia, seguridad y solicitud de auxilio colocados e
 
 Las personas menores de siete años sólo pueden hacer uso del transporte público de personas cuando estén acompañados por persona mayor de edad que se responsabilice de su seguridad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MAYO DE 2026)</small>
+
 ###### Artículo 124.
 
-Las personas con discapacidad, estudiantes y adultos mayores gozarán durante todo el año calendario de tarifas preferenciales en el transporte público colectivo urbano y foráneo, equivalente al cincuenta por ciento de la tarifa pública, previa identificación vigente expedida por instituciones que acrediten tal carácter, conforme a los Acuerdos y Decretos que en su caso se publiquen en el Periódico Oficial del Estado.
+Las personas con discapacidad, estudiantes, adultos mayores y mujeres embarazadas gozarán durante todo el año calendario de tarifas preferenciales en el transporte público colectivo urbano y foráneo, equivalentes al cincuenta por ciento de la tarifa pública, previa identificación vigente expedida por las autoridades o instituciones competentes, en los términos y conforme a los mecanismos que establezcan los Acuerdos y Decretos que en su caso se publiquen en el Periódico Oficial del Estado.
 
-Tratándose del transporte público en su modalidad de taxi, los concesionarios prestarán servicios gratuitos a su cargo a favor de adultos mayores y personas con discapacidad, para lo cual deberán suscribir los convenios necesarios en los términos que señalen los lineamientos que emita el Sistema Estatal para el Desarrollo Integral de la Familia.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 4 DE MAYO DE 2026)</small>
 
-Los concesionarios y permisionarios podrán suscribir acuerdos especiales para garantizar los derechos anteriores.
+Tratándose de mujeres embarazadas, dicha condición deberá acreditarse mediante constancia expedida por instituciones públicas del sector salud, en la que se precise el periodo de gestación correspondiente, en los términos que establezcan las disposiciones administrativas aplicables.
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2026)</small>
+
+En la modalidad de transporte público en taxi, los concesionarios participarán en programas de servicio gratuito hasta por una ocasión al mes por concesión, dirigidos a adultos mayores, personas con discapacidad, mujeres embarazadas, mujeres en situación de riesgo y jóvenes en situación de riesgo, mediante los convenios que para tal efecto se suscriban conforme a los lineamientos que emita el Sistema Estatal para el Desarrollo Integral de la Familia, en coordinación con la Agencia, en los que se establecerán los criterios y mecanismos para la identificación y acreditación de las condiciones de riesgo.
+
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2026)</small>
+
+Los concesionarios podrán suscribir acuerdos especiales para garantizar los derechos anteriores.
+
+> <small>(REFORMADO [N. DE E. REUBICADO], P.O. 4 DE MAYO DE 2026)</small>
 
 La persona titular del Poder Ejecutivo del Estado, mediante lineamientos de carácter general, podrá autorizar descuentos adicionales de hasta el cien por ciento en la tarifa de transporte público urbano y colectivo foráneo.
 
-Las personas con movilidad limitada que se desplacen acompañados de perros de asistencia, tendrán acceso con estos a todos los servicios de transporte de personas.
+> <small>(ADICIONADO [N. DE E. REUBICADO], P.O. 4 DE MAYO DE 2026)</small>
+
+Las personas con movilidad limitada que se desplacen acompañadas de perros de asistencia, tendrán acceso con estos a todos los servicios de transporte de personas.
 
 ## TÍTULO QUINTO. VEHÍCULOS, TRANSPORTE Y SUS MODALIDADES
 
@@ -6444,3 +6458,21 @@ ALEJANDRA PEÑA CURIEL
 DIPUTADA SEGUNDA SECRETARIA
 
 En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35, 36, 46, fracción I y 49 párrafo segundo de la Constitución Política del Estado de Aguascalientes, para su debida publicación y observancia, “Promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags. A 11 de diciembre de 2025”.- La Gobernadora del Estado de Aguascalientes, C. María Teresa Jiménez Esquivel.- Rúbrica.- El Secretario General de Gobierno, Mtro. José Antonio Arámbula López.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 463.- SE REFORMA LA LEY DE MOVILIDAD Y SEGURIDAD VIAL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrara en vigor al día siguiente de su publicación.
+
+###### ARTÍCULO SEGUNDO.
+
+Los beneficios mencionados deberán contemplarse desde el ejercicio fiscal vigente al momento de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO TERCERO.
+
+En un plazo no mayor a noventa días naturales contados a partir de la entrada en vigor del presente Decreto, la autoridad competente deberá emitir los lineamientos para la acreditación, identificación y operación del beneficio a favor de mujeres embarazadas.
