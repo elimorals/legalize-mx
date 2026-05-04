@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-ambiental-para-el-estado-de-aguascalientes-17
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2024-12-23"
+last_updated: "2026-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2026.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado Aguascalientes, el lunes 4 de febrero de 2000.
 
@@ -4001,11 +4001,11 @@ Cuando por infracción a las disposiciones de esta Ley y sus disposiciones regla
 
 ### CAPÍTULO I. Inspección y Vigilancia
 
-> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 201.
 
-Las autoridades ambientales a que se refiere esta Ley, de conformidad con la distribución de competencias que en la misma se establece, podrán realizar actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en el presente ordenamiento, así como de las que del mismo se deriven.
+Las autoridades ambientales a que se refiere esta Ley, de conformidad con la distribución de competencias que en la misma se establece, podrán realizar actos de inspección y vigilancia del cumplimiento de las disposiciones contenidas en el presente ordenamiento, así como de las que del mismo se deriven. Para tal efecto, podrán solicitar la intervención de las Instancias de Seguridad Pública del Estado o municipios, previa suscripción de los convenios o acuerdos de colaboración que correspondan.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE JULIO DE 2024)</small>
 
@@ -4678,3 +4678,11 @@ P.O. 23 DE DICIEMBRE DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 4 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 466.- SE REFORMA LA LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
