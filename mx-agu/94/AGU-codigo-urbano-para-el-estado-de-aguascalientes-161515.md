@@ -4,7 +4,7 @@ identifier: "AGU-codigo-urbano-para-el-estado-de-aguascalientes-161515"
 country: "mx"
 rank: "codigo"
 publication_date: "2022-12-20"
-last_updated: "2026-04-17"
+last_updated: "2026-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=161515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2026.
 
 Código publicado en el Número 70 Extraordinario del Periódico Oficial del Estado de Aguascalientes, el martes 20 de diciembre de 2020.
 
@@ -2410,6 +2410,20 @@ VIII.- La celebración de convenios entre autoridades y propietarios o la exprop
 IX.- La movilidad de barreras arquitectónicas que impidan el libre desplazamiento de las personas con discapacidad y demás grupos vulnerables; y
 
 X.- La dotación de servicios urbanos que tiendan a permitir el libre tránsito de las personas con discapacidad y demás grupos vulnerables.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2026)</small>
+
+ARTÍCULO 128 BIS.- Los municipios, en coordinación con las autoridades estatales y federales competentes, participaran en la supervisión de la infraestructura de telecomunicaciones, radiodifusión y suministro de electricidad, en el ámbito de sus competencias, con el objetivo de garantizar la seguridad de las personas y preservar el entorno urbano, conforme a las disposiciones legales vigentes. Para ello, deberán:
+
+I.- Colaborar con las empresas concesionarias en la identificación y retiro de infraestructura en desuso, como cableado aéreo, anclajes, cajas de control, y otros elementos similares, conforme a las disposiciones legales y administrativas aplicables, con la finalidad de prevenir riesgos a la ciudadanía y mejorar la imagen urbana;
+
+II.- Verificar, en el ámbito de sus atribuciones administrativas y sin invadir competencias federales, que la infraestructura cumpla con los diseños, ubicación y demás requisitos establecidos en las normas de edificación, protección civil, ecología y desarrollo urbano correspondientes, a través de inspecciones regulares y mecanismos de control;
+
+III.- Coordinar con los concesionarios para que respondan de manera inmediata y efectiva a las solicitudes de las autoridades competentes en situaciones de emergencia o cuando se detecten riesgos inminentes para la seguridad pública, asegurando la integridad del espacio público y la protección de las personas. Se establecerán protocolos de respuesta y seguimiento para garantizar el cumplimiento de estas acciones; y
+
+IV.- Los interesados que presten servicio de telecomunicaciones o suministro de electricidad mediante tendidos aéreos, tales como líneas, anclajes, cables, cajas de control o cualquier infraestructura que requiera cableado aéreo, deberán implementar un plan para erradicar de manera progresiva dichos tendidos. Estos procesos deberán realizarse respetando en todo momento la Ley Federal de Telecomunicaciones y Radiodifusión, así como los ordenamientos estatales y federales aplicables. La autoridad competente, en el ámbito de sus atribuciones y en coordinación con las autoridades federales competentes, establecerá los plazos y supervisará el cumplimiento de esta disposición, permitiendo excepciones justificadas bajo criterios técnicos y económicos debidamente documentados.
+
+Las disposiciones del presente artículo se aplicarán sin perjuicio de los (sic) establecido en la legislación federal en materia de telecomunicaciones y radiodifusión y demás ordenamientos aplicables.
 
 #### Sección Quinta. Crecimiento
 
@@ -7681,7 +7695,9 @@ La autorización de las subdivisiones de predios rústicos, deberá apegarse a l
 
 I.- En predios rústicos las fracciones resultantes serán como mínimo de 10,000.00 metros cuadrados, siempre que exista servidumbre o camino parcelario registrado ante la autoridad debidamente señalado e identificado en el título de propiedad o escritura respectiva. Si el predio no cuenta con un acceso, vialidad o servidumbre legal de paso, deberá presentar la constitución de la misma ante notario público y debidamente inscrita en el Instituto Registral y Catastral;
 
-II.- Por cada 5 hectáreas del predio objeto de la solicitud, se podrán subdividir hasta en 4 fracciones, considerando frentes no mínimos de 30 metros y servidumbres de paso con una sección no mínima de 12 metros.
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2026)</small>
+
+II.- Por cada 5 hectáreas del predio objeto de la solicitud, se podrán subdividir hasta en 4 fracciones, considerando accesos mediante calle o servidumbre de paso legalmente constituida, con sección o anchura no menor a 12 metros, congruente con los instrumentos municipales de Desarrollo Urbano y Ordenamiento Territorial;
 
 > <small>(REFORMADA, P.O. 3 DE ABRIL DE 2023)</small>
 
@@ -7689,7 +7705,9 @@ III.- Para el caso de predios rústicos con superficie igual o menor a 12,500.00
 
 IV.- Sólo se permitirá la construcción relacionada con el uso o destino de suelo autorizado, con los coeficientes de ocupación y de utilización aprobados en los programas aplicables;
 
-V.- El porcentaje de construcción máxima para fines habitacionales no deberá ser mayor del 5% de la superficie de cada fracción, con una densidad máxima de una vivienda y 5% de servicios inherentes al uso de suelo autorizado por hectárea. Los frentes mínimos o accesos tendrán una dimensión no menor de 30 metros hacia una vía pública, camino o servidumbre constituida que en ningún caso se aceptará en una sección o anchura menor a 12 metros; y
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2026)</small>
+
+V.- El porcentaje de construcción máxima para fines habitacionales no deberá ser mayor del 5% de la superficie de cada fracción, con una densidad máxima de una vivienda y 5% de servicios inherentes al uso de suelo autorizado por hectárea. Los accesos por camino o servidumbre constituida, en ningún caso se aceptará en una sección o anchura menor de 12 metros; y
 
 > <small>(REFORMADA, P.O. 22 DE ENERO DE 2024)</small>
 
@@ -10740,3 +10758,23 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Los Municipios tendrán hasta 30 días naturales para, realizar sus adecuaciones normativas que consideren pertinentes.
+
+P.O. 4 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 468.- SE REFORMAN EL CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+La aplicación del presente Decreto deberá observar en todo momento los instrumentos municipales de desarrollo urbano y ordenamiento territorial, así como garantizar que las subdivisiones de predios rústicos no den lugar a asentamientos humanos irregulares.
+
+P.O. 4 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 469.- SE ADICIONA EL ARTÍCULO 128 BIS AL CÓDIGO URBANO PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
