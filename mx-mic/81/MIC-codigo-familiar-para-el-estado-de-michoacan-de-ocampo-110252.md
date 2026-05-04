@@ -4,7 +4,7 @@ identifier: "MIC-codigo-familiar-para-el-estado-de-michoacan-de-ocampo-110252"
 country: "mx"
 rank: "codigo"
 publication_date: "2015-09-30"
-last_updated: "2026-02-12"
+last_updated: "2026-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2026.
 
 Código publicado en la Décima Cuarta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 30 de septiembre de 2015.
 
@@ -517,9 +517,11 @@ VI. El nombre del juez que pronunció tales resoluciones y la fecha de estas.
 
 ### CAPÍTULO VI. ACTAS DE MATRIMONIO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MAYO DE 2026)</small>
+
 ###### Artículo 77.
 
-Las personas que pretendan contraer matrimonio presentarán solicitud al Oficial del Registro Civil, del domicilio de cualquiera de ellas, que exprese:
+Las personas que pretendan contraer matrimonio, deberán ser mayores de edad y presentarán solicitud al Oficial del Registro Civil, del domicilio de cualquiera de ellas, que exprese:
 
 I. Los nombres, apellidos, edad, ocupación, nacionalidad y domicilio, tanto de los pretendientes como de sus progenitores, si estos fueren conocidos;
 
@@ -537,7 +539,9 @@ Este escrito deberá ser firmado por los solicitantes, y si alguno no pudiere o 
 
 Al escrito a que se refiere el artículo anterior, se acompañará:
 
-I. El acta de nacimiento de los pretendientes, y en su defecto dictamen médico que compruebe su edad;
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2026)</small>
+
+I. El acta de nacimiento de los pretendientes, en caso de no contar con acta de nacimiento podrá ser otro documento oficial que acredite la edad;
 
 > <small>(REFORMADA, P.O. 25 DE ABRIL DE 2016)</small>
 
@@ -647,9 +651,11 @@ El Oficial del Registro Civil, antes de remitir el expediente de un impedimento 
 
 El Oficial del Registro Civil que a sabiendas autorice un matrimonio para el que haya impedimento legal incurrirá en los delitos previstos en el Código Penal.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2026)</small>
+
 ###### Artículo 92.
 
-Los Oficiales del Registro Civil solo podrán negarse a autorizar un matrimonio cuando por los términos de la solicitud de matrimonio, por el conocimiento que tengan de los pretendientes o por denuncia en forma, tuvieren motivos para creer que alguno de ellos o los dos carecen de aptitud para celebrar el matrimonio.
+Los Oficiales del Registro Civil solo podrán negarse a autorizar un matrimonio cuando por los términos de la solicitud de matrimonio, por el conocimiento que tengan de los pretendientes, cuando uno o ambos pretendientes no hayan acreditado tener la mayoría de edad o por denuncia en forma, tuvieren motivos para creer que alguno de ellos o los dos carecen de aptitud para celebrar el matrimonio.
 
 ###### Artículo 93.
 
@@ -7884,5 +7890,13 @@ P.O. 12 DE FEBRERO DE 2026.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 264.- ARTÍCULO ÚNICO.- SE REFORMAN LAS FRACCIONES II Y III DEL ARTÍCULO 443, LA FRACCIÓN VI DEL ARTÍCULO 461; SE ADICIONA LA FRACCIÓN IV Y UN ÚLTIMO PÁRRAFO AL ARTÍCULO 443; Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 445, RECORRIÉNDOSE EN SU ORDEN LOS SUBSIGUIENTES, TODOS DEL CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 PRIMERO. El presente Decreto entrará en vigor el día siguiente a su publicación.
+
+SEGUNDO. Se derogan las disposiciones legales y administrativas en lo que se opongan al presente Decreto.
+
+P.O. 4 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 431 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 77, PÁRRAFO PRIMERO, 78, FRACCIÓN I Y 92, TODOS DEL CÓDIGO FAMILIAR PARA EL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente a su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
 
 SEGUNDO. Se derogan las disposiciones legales y administrativas en lo que se opongan al presente Decreto.
