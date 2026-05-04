@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-desarrollo-social-para-el-estado-de-nuevo-leon-52035"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-16"
-last_updated: "2026-04-27"
+last_updated: "2026-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52035&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,732 +21,134 @@ state: "NLE"
 ---
 # LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEON
 
-LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO ORGÁNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL D.O.F. DE 10 DE DICIEMBRE DE 2025, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2026.
+ACUERDO DE ADMINISTRACIÓN 3/2017 DE VEINTIDOS DE SEPTIEMBRE DE DOS MIL DIECISIETE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE DELEGAN A LA TITULAR DE LA UNIDAD GENERAL DE IGUALDAD DE GÉNERO FACULTADES ADMINISTRATIVAS ESPECÍFICAS PARA LA CONTRATACIÓN DE SERVICIOS Y ADQUISICIÓN DE BIENES, NECESARIAS PARA EL DESARROLLO DE LAS ACTIVIDADES PREVISTAS EN SU PROGRAMA ANUAL DE TRABAJO, AUTORIZADO EN CADA EJERCICIO FISCAL
 
-Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE DICIEMBRE DE 2025 (ABROGADO).
 
-EL C. JOSÉ NATIVIDAD GONZÁLEZ PARÁS, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN, A TODOS SUS HABITANTES HAGO SABER:
+Acuerdo publicado en la Primera Sección al Número 6 del Diario Oficial de la Federación, el viernes 6 de octubre de 2017.
 
-Que el H. Congreso del Estado ha tenido a bien decretar lo que sigue:
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Suprema Corte de Justicia de la Nación.
 
-DECRETO
+ACUERDO DE ADMINISTRACIÓN 3/2017 DE VEINTIDOS DE SEPTIEMBRE DE DOS MIL DIECISIETE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE DELEGAN A LA TITULAR DE LA UNIDAD GENERAL DE IGUALDAD DE GÉNERO FACULTADES ADMINISTRATIVAS ESPECÍFICAS PARA LA CONTRATACIÓN DE SERVICIOS Y ADQUISICIÓN DE BIENES, NECESARIAS PARA EL DESARROLLO DE LAS ACTIVIDADES PREVISTAS EN SU PROGRAMA ANUAL DE TRABAJO, AUTORIZADO EN CADA EJERCICIO FISCAL.
 
-Núm. 423
+CONSIDERANDO
 
-LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEON
+PRIMERO. Que conforme a lo establecido en los artículos 100, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos; 14, fracciones I, VI y XIV de la Ley Orgánica del Poder Judicial de la Federación, y 4°, fracciones II, X y XXIV del Reglamento Orgánico en Materia de Administración de la Suprema Corte de Justicia de la Nación, la administración de la Suprema Corte de Justicia de la Nación corresponde a su Presidente; confiriéndole atribuciones para dictar las medidas necesarias para el buen servicio, expedir los acuerdos que en materia de administración se requieran y emitir los acuerdos de delegación de atribuciones administrativas que estime pertinentes, entre otras.
 
-## TÍTULO I. DISPOSICIONES GENERALES
+SEGUNDO. Que uno de los objetivos fundamentales de la Suprema Corte de Justicia de la Nación es la protección de los derechos humanos en general y, en particular, a la institucionalización de la perspectiva de igualdad de género tanto hacia su interior como en su función jurisdiccional.
 
-### CAPÍTULO ÚNICO
+TERCERO. Que mediante Acuerdo 1/2010 de los tres órganos del Poder Judicial de la Federación se crea el Comité Interinstitucional de Equidad de Género del Poder Judicial de la Federación, con carácter permanente, teniendo como objeto coordinar los esfuerzos para unificar los criterios de planeación de la estrategia para institucionalizar la perspectiva de género en este Poder Judicial, así como para dar seguimiento y evaluar las acciones y los proyectos que en esta materia realizará cada uno de esos órganos.
 
-###### Artículo 1°.
+CUARTO. Que por Acuerdo de Administración del 11 de enero del 2016, el Presidente de la Suprema Corte de Justicia de la Nación determinó delegar en la Presidencia del Comité Interinstitucional de Igualdad de Género del Poder Judicial de la Federación, la facultad para dirigir el proceso de planeación, programación y presupuestación en materia de perspectiva de género en este Alto Tribunal.
 
-La presente Ley es de interés social, orden público y observancia general en el Estado y tiene por objeto:
+QUINTO. Que de conformidad con el artículo 44 del Acuerdo General de Administración 3/2016 del 24 de noviembre del 2016, del Presidente de la Suprema Corte de Justicia de la Nación, por el que se modifican, adicionan y derogan diversas disposiciones del Reglamento Orgánico en Materia de Administración de este Alto Tribunal, corresponde a la Unidad General de Igualdad de Género de este Tribunal, entre otras, promover la institucionalización de la perspectiva de género en las labores jurisdiccionales de la Suprema Corte, aportar las herramientas teóricas y prácticas para transversalizar la perspectiva de género en la vida institucional, así como promover y coadyuvar en la instrumentación de políticas, intercambios académicos, estrategias de divulgación, supervisión y evaluación en materia de igualdad de género.
 
-I. Regular las atribuciones que en materia de desarrollo social prevé la Ley General de Desarrollo Social para el Gobierno del Estado y los Municipios;
+SEXTO. Que por la trascendencia de las actividades y las responsabilidades que le han sido conferidas a la Unidad General de Igualdad de Género citada, tendente a institucionalizar y fortalecer la perspectiva de género en este Alto Tribunal; así como de apoyar, en su carácter de Secretaría Técnica, al Comité Interinstitucional de Equidad de Género del Poder Judicial de la Federación, entre otras tareas, en la supervisión del uso racional y transparente de los recursos públicos, resulta indispensable elaborar un marco normativo especial que le facilite a la Unidad General referida, la toma de decisiones, así como la coordinación de acciones, agilizándose con ello de manera sustancial, los trámites y procedimientos que lleva a cabo para ejercer con eficacia y oportunidad el ejercicio de los recursos presupuestados y asignados a su Programa Anual de Trabajo.
 
-II. Coordinar y armonizar la política estatal y municipal en materia de desarrollo social;
+SÉPTIMO. Que las contrataciones de servicios y adquisición de bienes necesarios para la ejecución del Programa Anual de Trabajo de la Unidad General de Igualdad de Género de la Suprema Corte, deben realizarse en estricto apego a los principios previstos en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos, relativos a la eficiencia, eficacia, economía, transparencia y honradez, además se deberá garantizar las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes a que hace mención el artículo constitucional de referencia.
 
-III. Establecer las bases y los mecanismos para la planeación, instrumentación, ejecución, seguimiento y evaluación de las políticas públicas en materia de desarrollo social;
+OCTAVO. Que resulta de gran relevancia la delegación de atribuciones administrativas a la Titular de la Unidad General de Igualdad de Género, para la oportuna gestión y ejecución de su Programa, lo cual radica en el enfoque programático de política pública y en la prioridad institucional para instrumentar los mecanismos que garanticen el debido cumplimiento de los principios de igualdad, no discriminación, igualdad y paridad, eliminando de este modo las desigualdades estructurales por motivos de género.
 
-IV. Garantizar la calidad de los programas de desarrollo social a cargo del Gobierno del Estado y de los Municipios, así como su eficiente aplicación con apego a la equidad y la justicia;
+Por lo expuesto, es conveniente emitir el siguiente:
 
-V. Impulsar la participación ciudadana abriendo espacios para que la sociedad civil apoye a la política estatal y municipal en materia de desarrollo social;
+ACUERDO
 
-VI. Establecer los criterios de coordinación de las acciones estratégicas que se realicen entre el Gobierno del Estado, los Municipios y la Federación en materia de Desarrollo Social; y
+###### ARTÍCULO PRIMERO.
 
-VII. Impulsar el desarrollo económico de las Zonas de Atención Prioritaria en el Estado.
+El presente Acuerdo tiene por objeto establecer el marco normativo especial que regule la delegación de facultades a la Titular de la Unidad General de Igualdad de Género de la Suprema Corte de Justicia de la Nación, para la toma de decisiones y coordinación de acciones que permita la agilización, de manera sustancial, de los trámites y procedimientos de contratación que lleva a cabo, para el cumplimiento de sus atribuciones y el ejercicio eficaz y oportuno de los recursos presupuestados y asignados al Programa Anual de Trabajo de dicha Unidad.
 
-###### Artículo 2°.
+###### ARTÍCULO SEGUNDO.
 
-La aplicación de la presente Ley corresponde a las dependencias, organismos y entidades del Gobierno del Estado y de los Municipios en el ámbito de sus respectivas competencias.
+Las contrataciones de servicios y adquisición de bienes se realizarán, en términos del presente Acuerdo y conforme a lo previsto en su Programa Anual de Necesidades, estando sujetas a los recursos autorizados por la Cámara de Diputados etiquetados para el ejercicio de los recursos asignados en la partida presupuestaria 44201 de la Suprema Corte de Justicia de la Nación, en el Presupuesto de Egresos de la Federación del año correspondiente, los cuales deberán ejercerse por la Unidad General de Igualdad de Género en estricto apego a los principios de legalidad, eficiencia, eficacia, economía, transparencia y honradez.
 
-###### Artículo 3°.
+###### ARTÍCULO TERCERO.
 
-En lo no previsto en esta Ley se aplicará en forma supletoria el siguiente marco jurídico:
+En apoyo a la Unidad General de Igualdad de Género de la Suprema Corte, el trámite de los procedimientos de contratación mediante licitación pública, concurso por invitación, concurso público sumario y adjudicación directa, serán a cargo de las Direcciones Generales de Recursos Materiales, de Infraestructura Física y de Comunicación y Vinculación Social, según corresponda. La autorización de los fallos y adjudicaciones correspondientes serán facultad de la Titular de la Unidad General.
 
-I. Ley General de Desarrollo Social;
+Para la expedita formalización de los contratos y con la participación de las Direcciones Generales mencionadas en el párrafo anterior, según corresponda, la Titular de la Unidad General de Igualdad de Género de la Suprema Corte será la responsable de suscribir todos los contratos ordinarios, simplificados y aquellos instrumentos jurídicos en los que se plasmen los acuerdos de voluntades que impliquen alguna modificación a lo pactado en éstos, a través de los cuales se formalice cualquier modalidad de contratación, en términos de lo previsto por el artículo 39 del Acuerdo General de Administración VI/2008, de veinticinco de septiembre de dos mil ocho, del Comité de Gobierno y Administración de la Suprema Corte de Justicia de la Nación, por el que se regulan los procedimientos para la adquisición, administración y desincorporación de bienes y la contratación de obras, usos y servicios requeridos por este Tribunal, así como las de carácter especial y urgente, con independencia del monto, las cuales deriven del ejercicio de los recursos asignados para el desarrollo de las actividades del Programa Anual de Trabajo de dicha Unidad General.
 
-II. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2010)
+###### ARTÍCULO CUARTO.
 
-III. Ley de los Derechos de las Personas Adultas Mayores en el Estado de Nuevo León;
+Para el desarrollo de los procedimientos de contratación establecidos en el artículo tercero, la Titular de la Unidad General de Igualdad de Género de la Suprema Corte, será responsable de la coordinación, supervisión, seguimiento, autorización y formalización de las contrataciones de servicios y adquisición de bienes que se lleven a cabo para la consecución de las actividades previstas en su Programa Anual de Trabajo.
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+###### ARTÍCULO QUINTO.
 
-IV. Ley de Personas con Discapacidad del Estado de Nuevo León;
+La Titular de la Unidad General indicada, al concluir las obligaciones, será responsable de la comprobación de recursos de cada contratación conforme a los plazos establecidos o en un término que no exceda de los quince días hábiles cuando la norma específica no establezca el plazo.
 
-V. Ley de Protección de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Nuevo León;
+###### ARTÍCULO SEXTO.
 
-VI. Ley de Beneficencia Privada para el Estado de Nuevo León;
+La Titular de la Unidad General de Igualdad de Género indicada, deberá rendir, trimestralmente, un informe mensual sobre el ejercicio de sus facultades específicas en materia de contratación de servicios y adquisición de bienes al Comité de Gobierno y Administración.
 
-VII. Código Civil para el Estado de Nuevo León; y
+###### ARTÍCULO SÉPTIMO.
 
-VIII. Ley sobre el Sistema Estatal de Asistencia Social del Estado de Nuevo León.
+La Titular de la Unidad General de Igualdad de Género deberá cumplir con las disposiciones en materia de transparencia establecidas en la ley respectiva.
 
-###### Artículo 4°.
+## TRANSITORIOS
 
-Para los efectos de esta Ley se entiende por:
+PRIMERO. El presente Acuerdo de administración entrará en vigor el día de su expedición.
 
-I. Beneficiarios: Aquellas personas u organizaciones que forman parte de la población atendida por los programas de desarrollo social que cumplen los requisitos de la normatividad correspondiente;
+SEGUNDO. Este Acuerdo se emite sin perjuicio de las demás disposiciones normativas aplicables a las contrataciones en la Suprema Corte de Justicia de la Nación.
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
+TERCERO. Publíquese en el Diario Oficial de la Federación, Semanario Judicial de la Federación, y en medios electrónicos de consulta pública en términos de lo dispuesto en el artículo 70, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública.
 
-II. Secretaría: La Secretaría de Desarrollo Social del Gobierno del Estado;
+Así lo acordó y firma el señor Ministro Luis María Aguilar Morales, Presidente de la Suprema Corte de Justicia de la Nación, el día veintidós de septiembre de dos mil diecisiete, ante el Secretario General de Acuerdos que certifica.- Rúbricas.
 
-III. Desarrollo social: El proceso de crecimiento integral cuyo fin es el mejoramiento de las condiciones de vida de la población, así como la creación y el fortalecimiento de oportunidades, la erradicación de la desigualdad y la exclusión entre los individuos y grupos, con el propósito de lograr su incorporación plena a la vida económica, social y cultural del Estado;
+EL LICENCIADO RAFAEL COELLO CETINA, SECRETARIO GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CERTIFICA: Que esta copia fotostática constante de siete fojas útiles concuerda fiel y exactamente con el original del ACUERDO DE ADMINISTRACIÓN 3/2017 DE VEINTIDÓS DE SEPTIEMBRE DE DOS MIL DIECISIETE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE DELEGAN A LA TITULAR DE LA UNIDAD GENERAL DE IGUALDAD DE GÉNERO FACULTADES ADMINISTRATIVAS ESPECÍFICAS PARA LA CONTRATACIÓN DE SERVICIOS Y ADQUISICIÓN DE BIENES, NECESARIAS PARA EL DESARROLLO DE LAS ACTIVIDADES PREVISTAS EN SU PROGRAMA ANUAL DE TRABAJO, AUTORIZADO EN CADA EJERCICIO FISCAL, que obra en los archivos de la sección de instrumentos normativos de esta Secretaría General de Acuerdos, y se expide a solicitud de la Oficialía Mayor de la Suprema Corte de Justicia de la Nación.- Ciudad de México, a dos de octubre de dos mil diecisiete.- Rúbrica.
 
-IV. Grupos Sociales en situación de vulnerabilidad: Aquellos núcleos de población y personas que por diferentes factores o por la combinación de ellos, enfrentan situaciones de riesgo o discriminación que les impiden alcanzar mejores niveles de vida, y por lo tanto requieren de la atención e inversión del Gobierno para lograr su bienestar;
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESNETE ORDENAMIENTO.]</small>
 
-V. Sociedad Civil: Las agrupaciones civiles, académicas, de investigación, sociales y asistenciales legalmente constituidas, en las que participen personas o grupos cuyo propósito sea realizar actividades relacionadas con el bienestar y el desarrollo de la población del Estado, y que no persigan fines de lucro ni intereses religiosos o partidistas; y
+D.O.F. 10 DE DICIEMBRE DE 2025.
 
-VI. Padrón: La relación oficial de beneficiarios que incluye a las personas atendidas por los programas estatales de Desarrollo Social cuyo perfil socioeconómico se establece en la normatividad correspondiente.
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO ORGÁNICO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN".]
 
-###### Artículo 5°.
+PRIMERO. El presente Reglamento entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
 
-La Política de Desarrollo Social se sujetará a los siguientes principios:
+SEGUNDO. Se abrogan los instrumentos normativos siguientes:
 
-I. Libertad: Capacidad de las personas para elegir los medios para su desarrollo personal así como para participar en el desarrollo social;
+I. Reglamento Orgánico en Materia de Administración de la Suprema Corte de Justicia de la Nación, expedido el veinte de abril de dos mil veintidós y publicado en el Diario Oficial de la Federación el seis de mayo siguiente;
 
-II. Justicia distributiva: Procurar que toda persona reciba de manera equitativa los beneficios del desarrollo conforme a sus méritos, sus necesidades, sus posibilidades y las de las demás personas;
+II. Reglamento Interior de la Suprema Corte de Justicia de la Nación, aprobado el once de marzo de dos mil ocho y publicado en el Diario Oficial de la Federación el primero de abril siguiente;
 
-III. Solidaridad: Colaboración entre personas, grupos sociales, dependencias y entidades de gobierno que de manera corresponsable luchan por mejorar la calidad de vida de la sociedad;
+III. Reglamento de la Coordinación General de Compilación y Sistematización de Tesis, publicado en el Diario Oficial de la Federación el veinticinco de noviembre de mil novecientos noventa y seis;
 
-IV. Integralidad: Articulación y complementariedad de programas y acciones que conjunten a los diferentes beneficios sociales, en el marco de la Política Estatal y Municipal de Desarrollo Social;
+IV. Acuerdo General número 19/2014, de veintiséis de agosto de dos mil catorce, del Pleno de la Suprema Corte de Justicia de la Nación, que establece el Estatuto del Centro de Estudios Constitucionales de este Alto Tribunal;
 
-V. Participación social: intervención e integración, individual o colectiva, de las personas y organizaciones en la formulación y evaluación de las políticas, programas y acciones del desarrollo social;
+V. Acuerdo Delegatorio Específico de Administración de fecha dos de septiembre de dos mil quince, del Presidente de la Suprema Corte de Justicia de la Nación, por el que se otorga al Subsecretario General de Imagen Institucional de la Presidencia y a la Directora General del Canal Judicial de este Alto Tribunal la atribución, de suscribir convenios en la materia del presente instrumento;
 
-VI. Sustentabilidad: Preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales para mejorar la calidad de vida y la productividad de las personas, sin comprometer la satisfacción de las necesidades de las generaciones futuras;
+VI. Acuerdo de Administración 3/2017 de veintidós de septiembre de dos mil diecisiete, del Presidente de la Suprema Corte de Justicia de la Nación, por el que se delegan a la titular de la Unidad General de Igualdad de Género facultades administrativas específicas para la contratación de servicios y adquisición de bienes, necesarias para el desarrollo de las actividades previstas en su Programa Anual de Trabajo, autorizado en cada Ejercicio Fiscal;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+VII. Acuerdo Delegatorio Específico de Administración del Presidente de la Suprema Corte de Justicia de la Nación, de fecha doce de noviembre de dos mil veinte, por el que se otorga a la persona titular de la Dirección General del Centro de Documentación y Análisis, Archivos y Compilación de Leyes la atribución de suscribir convenios de colaboración en el ámbito de su competencia;
 
-VII. Respeto a la diversidad: Reconocimiento de los derechos constitucionales de las personas en términos de su origen étnico, genero, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil o cualquier otra, para superar toda condición de discriminación y promover un desarrollo con equidad y respeto a las diferencias;
+VIII. Acuerdo General de Administración número I/2023, de la Presidenta de la Suprema Corte de Justicia de la Nación, de veintiséis de enero de dos mil veintitrés, por el que se modifican la estructura orgánica y diversas atribuciones de la Secretaría General de la Presidencia y la Coordinación General de Asesores de la Presidencia;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+IX. Acuerdo Delegatorio Específico de la Presidenta de la Suprema Corte de Justicia de la Nación, de fecha treinta y uno de enero de dos mil veintitrés, por el que se delega en la persona titular de la Secretaría General de Presidencia, la atribución de autorizar las propuestas de nombramientos definitivos y temporales de mandos medios;
 
-VIII. Transparencia: la información relativa al desarrollo social es pública en los términos de las leyes en la materia;
+X. Acuerdo General de Administración número III/2023, de la Presidenta de la Suprema Corte de Justicia de la Nación, de veinticuatro de marzo de dos mil veintitrés, por el que se establecen las denominaciones y atribuciones de la Unidad General de Conocimiento Científico y Derechos Humanos, así como de la Dirección General de Prevención, Atención y Seguimiento a Casos de Violencia de Género;
 
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+XI. Acuerdo Delegatorio Específico de la Presidenta de la Suprema Corte de Justicia de la Nación, de fecha treinta de junio de dos mil veintitrés, por el que se delega en diversas personas servidoras públicas, la atribución de atender, tramitar, valorar y emitir el dictamen, así como la de autorizar la procedencia de decretar la baja de las personas servidoras públicas, previstas en las fracciones II y III del artículo 42 del Acuerdo General de Administración VI/2019, del Presidente de la Suprema Corte de Justicia de la Nación, de once de julio de 2019, por el que se establecen las normas relativas a las plazas, ingresos, nombramientos, licencias, comisiones, readscripciones, suspensión y terminación del nombramiento de los servidores públicos y que regula la administración de los recursos humanos de este Alto Tribunal, salvo los de sus Salas, cuando se trate de personas servidoras públicas adscritas a la Dirección General de Asuntos Jurídicos y a la Oficialía Mayor de la Suprema Corte de Justicia de la Nación, respectivamente;
 
-IX. Dignidad: Reconocimiento de los derechos y libertades inherentes a la calidad de persona;
+XII. Acuerdo General de Administración número V/2023, de la Presidenta de la Suprema Corte de Justicia de la Nación, de quince de agosto de dos mil veintitrés, por el que se establecen las denominaciones y atribuciones de la Coordinación de Fortalecimiento Institucional, así como de la Secretaría de Enlace y Coordinación;
 
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+XIII. Acuerdo General de Administración número I/2024, de la Presidenta de la Suprema Corte de Justicia de la Nación, de quince de abril de dos mil veinticuatro, por el que se establece la denominación y atribuciones de la Dirección General de Participación Social, se le trasladan algunas que originalmente corresponden a la Dirección General de Comunicación Social, y se adicionan atribuciones a la Dirección General de Tecnologías de la Información, y
 
-X. Bien común: Conjunto de condiciones sociales que permiten que todos los habitantes tengan acceso a una vida más justa, equitativa y equilibrada, favoreciendo el desarrollo integral de todos y cada uno de los miembros de la comunidad;
+XIV. Acuerdo General de Administración número III/2025, de la Presidenta de la Suprema Corte de Justicia de la Nación, de siete de abril de dos mil veinticinco, que reforma el Acuerdo General de Administración número I/2023, de la Presidenta de la Suprema Corte de Justicia de la Nación, de veintiséis de enero de dos mil veintitrés, por el que se modifican la estructura orgánica y diversas atribuciones de la Secretaría General de la Presidencia y la Coordinación General de Asesores de la Presidencia.
 
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+TERCERO. Se deroga el artículo Tercero del Acuerdo General de Administración número III/2019, del Presidente de la Suprema Corte de Justicia de la Nación, de catorce de junio de dos mil diecinueve, por el que se establecen las reglas de organización y funcionamiento del Centro de Estudios Constitucionales de este Alto Tribunal.
 
-XI. Perspectiva de género: Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basadas en el género. Promueve la igualdad entre géneros a través de la igualdad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones; y
+CUARTO. Se derogan todas aquellas disposiciones que se opongan al presente Reglamento.
 
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2022)</small>
+QUINTO. La Coordinación de Compilación y Sistematización de Tesis en el plazo de ciento ochenta días contados a partir de la entrada en vigor del presente Reglamento deberá emitir un plan de acción para dar cumplimiento gradual al artículo 14, fracción III, del presente Reglamento, de las tesis, jurisprudencias, ejecutorias, votos particulares, acuerdos y demás documentos emitidos hasta antes del primero de septiembre de dos mil veinticinco.
 
-XII. Interés superior de la niñez: conjunto de acciones y procesos tendientes a garantizar a las niñas, niños y adolescentes un desarrollo integral y una vida digna, así como las condiciones materiales y efectivas que le permitan vivir plenamente y alcanzar el máximo de bienestar posible, y de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales aplicables de los que el Estado Mexicano forma parte, la Ley General de los Derechos de Niñas, Niños y Adolescentes, la constitución Política del Estado Libre y Soberano de Nuevo León y la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Nuevo León.
+SEXTO. La normativa de la Suprema Corte de Justicia de la Nación en materia administrativa emitida hasta antes del primero de septiembre de dos mil veinticinco deberá ser aplicada por sus órganos y áreas, hasta en tanto el órgano del Poder Judicial de la Federación que corresponda emita las disposiciones en el ámbito de su competencia.
 
-## TÍTULO II. DE LAS COMPETENCIAS
+SÉPTIMO. Las referencias que otras disposiciones jurídicas hagan a los órganos y áreas que se transforman, suprimen, crean o readscriben, se entenderán hechas al órgano o área que asume sus atribuciones, de conformidad con el presente Reglamento.
 
-### CAPÍTULO I. ATRIBUCIONES DEL PODER EJECUTIVO DEL ESTADO
+Todas las referencias hechas a la Oficialía Mayor, sus direcciones generales, la Contraloría y la Unidad General de Investigación de Responsabilidades Administrativas, todas de la Suprema Corte de Justicia de la Nación, en los instrumentos normativos a que se refiere el transitorio anterior, se entenderán referidas al Órgano de Administración Judicial o al Tribunal de Disciplina Judicial, en el ámbito de sus respectivas atribuciones.
 
-###### Artículo 6°.
+OCTAVO. Se instruye a los órganos y áreas de la Suprema Corte de Justicia de la Nación que se coordinen con la Unidad de Administración de la Suprema Corte de Justicia de la Nación, con el objeto de realizar las acciones necesarias para adecuar las estructuras orgánicas conforme a las disposiciones del presente Reglamento.
 
-El Titular del Ejecutivo del Estado, dentro de su respectiva competencia, será la autoridad rectora del desarrollo social del Estado en la planeación y ejecución de las políticas y programas de la materia.
+NOVENO. Las Direcciones Generales de Operaciones Institucionales, y de Gestión Administrativa continuarán prestando apoyo a las mismas categorías de personas que asistían conforme al Reglamento Orgánico en Materia de Administración de la Suprema Corte de Justicia de la Nación que se abroga.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
-
-###### Artículo 7°.
-
-Para el cumplimiento de esta Ley, el Titular del Ejecutivo, a través de la Secretaría, deberá:
-
-I. Formular y ejecutar el Programa Estatal de Desarrollo Social como parte del Plan Estatal de Desarrollo;
-
-II. Participar en el Sistema Nacional de Desarrollo Social en los términos que señala la Ley General de Desarrollo Social;
-
-III. Realizar gestiones interinstitucionales para que los programas de desarrollo social en que participe el Gobierno del Estado alcancen los objetivos previstos;
-
-IV. Fomentar la organización y participación de la Sociedad Civil en los programas de desarrollo social;
-
-V. Ejercer fondos y recursos estatales y federales, descentralizados o convenidos, en materia de desarrollo social;
-
-VI. Convenir acciones y programas sociales con el Gobierno Federal, los Municipios y la Sociedad Civil;
-
-> <small>(ADICIONADA, P.O. 17 DE ENERO DE 2024)</small>
-
-VI Bis. Convenir con la Secretaría del Trabajo y en coordinación con los Municipios, la realización de campañas permanentes de capacitación para el trabajo y de asesoramiento para la búsqueda de empleo en zonas con situación de vulnerabilidad;
-
-VII. Vigilar que los recursos públicos que se destinan al desarrollo social se ejerzan con honradez, transparencia y equidad;
-
-VIII. Fomentar la participación de instituciones y asociaciones civiles, académicas y de investigación en la planeación, ejecución y evaluación de la Política Estatal de Desarrollo Social;
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2020)</small>
-
-IX. Determinar las zonas de atención prioritaria en el Estado;
-
-> <small>(REFORMADA, P.O. 10 DE JUNIO DE 2022)</small>
-
-X. Implementar programas sociales permanentes para el establecimiento de guarderías o estancias infantiles para apoyar a las madres y padres trabajadores;
-
-> <small>(REFORMADA, P.O. 17 DE ENERO DE 2024)</small>
-
-XI. Implementar programas sociales para promover la inclusión tecnológica a las personas que se encuentren en situación de vulnerabilidad;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE ENERO DE 2024)</small>
-
-XII. Implementar programas sociales para garantizar la atención y tratamiento en problemas de salud mental entre las personas en situación de vulnerabilidad; y
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 17 DE ENERO DE 2024)</small>
-
-XIII. Las demás que señalen las disposiciones legales aplicables.
-
-### CAPÍTULO II. ATRIBUCIONES DE LOS MUNICIPIOS
-
-###### Artículo 8°.
-
-Corresponden a los Municipios, en el ámbito de su competencia, las siguientes atribuciones:
-
-I. Participar en el Sistema Nacional de Desarrollo Social en los términos que señala la Ley General de Desarrollo Social;
-
-II. Coordinarse con los Gobiernos Federal y Estatal, así como con los demás Municipios, para la ejecución de los programas de desarrollo social;
-
-III. Realizar gestiones interinstitucionales para que los programas de desarrollo social en que participe el Gobierno Municipal alcancen los objetivos previstos;
-
-IV. Fomentar la organización y participación de la Sociedad Civil en los programas de desarrollo social;
-
-V. Formular y ejecutar el Programa Municipal de Desarrollo Social, como parte del Plan Municipal de Desarrollo que se buscará sea congruente con el Programa Estatal de Desarrollo;
-
-VI. Ejercer fondos y recursos federales y estatales, descentralizados o convenidos, en materia de desarrollo social;
-
-VII. Concertar acciones con los sectores social y privado en materia de desarrollo social;
-
-VIII. Impulsar prioritariamente la prestación de servicios públicos en las comunidades más necesitadas y evitar el crecimiento de zonas de pobreza;
-
-IX. Fomentar la participación de instituciones y asociaciones civiles, académicas y de investigación en la planeación, ejecución y evaluación de la Política Municipal de Desarrollo Social;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2023)</small>
-
-X. Vigilar que los recursos públicos que se destinan al desarrollo social se ejerzan con honradez, transparencia y equidad;
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE NOVIEMBRE DE 2023)</small>
-
-XI. Realizar de manera periódica la actualización del diagnóstico de los problemas en materia de desarrollo social por conducto de la dependencia o entidad que designe; y
-
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 8 DE NOVIEMBRE DE 2023)</small>
-
-XII. Las demás que señalen las disposiciones legales aplicables.
-
-## TÍTULO III. DE LA POLÍTICA DE DESARROLLO SOCIAL Y SU EVALUACIÓN
-
-### CAPÍTULO I. POLÍTICA DE DESARROLLO SOCIAL
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2023)</small>
-
-###### Artículo 9°.
-
-El objetivo de la Política de Desarrollo Social del Estado y de los Municipios es generar las condiciones para que las personas y la sociedad, en su conjunto, puedan satisfacer sus necesidades humanas y sociales para fortalecer el pleno goce de sus derechos y garantías políticas, económicas, sociales, culturales y ambientales.
-
-###### Artículo 10.
-
-La Política de Desarrollo Social debe encaminarse a concentrar y orientar los recursos físicos, humanos y financieros de las instituciones públicas y sociales para evitar la transmisión generacional de las condiciones de pobreza entre las personas, grupos sociales y comunidades mediante líneas de acción y programas particularmente orientados a desarrollar y aprovechar sus capacidades, a ampliar el acceso a un patrimonio físico, a la atención y seguridad de las instituciones del Estado, al acceso a redes sociales y comunitarias, y particularmente a la creación de mayores oportunidades de empleo y financiamiento para actividades productivas.
-
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2020)</small>
-
-###### Artículo 11.
-
-La Política de Desarrollo Social tendrá como prioridad proporcionar de manera oportuna y subsidiaria ayuda económica o en bienes y servicios básicos a:
-
-> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
-
-I. Las personas, familias, grupos, etnias y comunidades que muestren mayor pobreza, marginación y exclusión, de acuerdo a los indicadores de desarrollo social y humano;
-
-> <small>(REFORMADA, P.O. 27 DE ABRIL DE 2026)</small>
-
-II. Las mujeres, niñas, niños, adolescentes, adultos mayores, personas con discapacidad o que se encuentren en situación de vulnerabilidad social; y
-
-> <small>(ADICIONADA, P.O. 27 DE ABRIL DE 2026)</small>
-
-III. A la persona de la familia extensa que tengan bajo su custodia o tutela legal a niñas, niños y adolescentes con ausencia parental. Se entenderá por familia extensa la contemplada en la fracción XVII del artículo 4 de la Ley de los Derechos de Niñas, Niños y Adolescentes para el Estado de Nuevo León.
-
-###### Artículo 12.
-
-Las acciones y programas derivados de la Política de Desarrollo Social se formularán, instrumentarán, ejecutarán y evaluarán atendiendo las necesidades básicas de las personas y estarán enfocados a todas las dimensiones del desarrollo humano y social para ampliar el acceso a los recursos públicos, privados y sociales que promuevan condiciones de igualdad de oportunidades para satisfacer el bienestar social.
-
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2023)</small>
-
-En caso de las comunidades indígenas y afromexicanas se deberá observar en todo momento el respeto a sus costumbres, su lengua y sus necesidades, de conformidad con la Ley de los Derechos de las Personas Indígenas y Afromexicanas en el Estado de Nuevo León.
-
-###### Artículo 13.
-
-La Política de Desarrollo Social promoverá y estimulará la participación ciudadana para la creación de redes comunitarias que posibiliten la cohesión social e impulsen programas de bienestar y superación de la pobreza, así como de investigación y evaluación.
-
-###### Artículo 14.
-
-Para fomentar la participación de la población en la Política de Desarrollo Social, se promoverán mecanismos de participación de la sociedad informándola permanentemente acerca de las acciones, proyectos y programas que pretendan implementar la Federación, el Estado y los Municipios, a fin de favorecer y estimular su participación, tanto en la realización como en la evaluación de resultados e impacto de los mismos.
-
-### CAPÍTULO II. DE LA EVALUACIÓN DE LA POLITICA DE DESARROLLO SOCIAL
-
-###### Artículo 15.
-
-La evaluación de la Política de Desarrollo Social y del impacto de los Programas Sociales estará a cargo de especialistas, designados por el consejo o el municipio, según corresponda, con amplia experiencia en la materia y que colaboren en instituciones de educación superior y de investigación, que estén preferentemente inscritas en el Padrón de Excelencia del Consejo Nacional de Ciencia y Tecnología.
-
-La evaluación deberá de llevarse a cabo mediante métodos científicos y publicarse en el portal de Internet del Consejo así como en proyectos editoriales.
-
-###### Artículo 16.
-
-Para la evaluación de resultados, de manera invariable los programas sociales deberán incluir los indicadores para medir su cobertura, calidad e impacto. Las dependencias u organismos Estatales o Municipales ejecutores de los programas a evaluar, proporcionarán a los especialistas señalados en el artículo 15 toda la información y las facilidades necesarias para la realización de la evaluación.
-
-###### Artículo 17.
-
-Los resultados de la evaluación deberán reflejar los objetivos sociales de los programas, así como las metas y acciones de la Política Estatal de Desarrollo Social.
-
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2023)</small>
-
-Dichos resultados deberán ser presentados en un informe anual ante el Congreso del Estado, por parte del Titular del Ejecutivo del Estado, en el cual también deberá contemplar el listado de las zonas de atención prioritaria dentro de las comunidades indígenas y afromexicanas, rancherías y municipios que se encuentren en situación de pobreza y pobreza extrema, marginación y exclusión, así como aquellos que han modificado el índice e indicadores en esta materia, con la finalidad de identificar sus necesidades específicas y así instrumentar los programas y acciones necesarias para su combate.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE JUNIO DE 2022)</small>
-
-## TÍTULO IV. DE LA PLANEACIÓN, DIFUSIÓN, PARTICIPACIÓN CIUDADANA Y BENEFICIARIOS
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE JUNIO DE 2022)</small>
-
-### CAPÍTULO I. DE LA PLANEACIÓN Y DIFUSIÓN DEL DESARROLLO SOCIAL
-
-###### Artículo 18.
-
-El Estado y los Municipios, en sus respectivas competencias, elaborarán la planeación de la política estatal y municipal de Desarrollo Social.
-
-###### Artículo 19.
-
-Para instrumentar planes y programas en materia de desarrollo social se deberá contar con:
-
-I. El diagnóstico sobre las zonas de atención prioritaria;
-
-II. Las estrategias para la vinculación, coordinación y concertación de acciones para el desarrollo social;
-
-III. La inclusión de unidades administrativas responsables de la operación de los programas, y
-
-IV. Las reglas de operación y términos de referencia para la implementación, seguimiento y evaluación de los programas para el desarrollo social.
-
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
-
-###### Artículo 19 Bis.
-
-El Estado y los Municipios podrán implementar campañas de difusión con el objeto de informar a la población del contenido, reglas de operación y beneficios de los programas de desarrollo social que se apliquen en el Estado.
-
-> <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2023)</small>
-
-Cuando se trate de comunidades indígenas y afromexicanas se procurará que la información esté traducida en la lengua específica de dicha comunidad.
-
-### CAPÍTULO II. DE LA PARTICIPACIÓN CIUDADANA
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
-
-###### Artículo 20.
-
-El Ejecutivo del Estado, a través de la Secretaría y los Municipios en el ámbito de su competencia, fomentarán la participación de la sociedad de manera activa y corresponsable en la planeación, diseño, evaluación y supervisión de la Política de Desarrollo Social.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
-
-###### Artículo 21.
-
-Cualquier persona podrá denunciar ante la Secretaría o ante la Autoridad Municipal, aquellas zonas, familias o individuos en estado de pobreza y vulnerabilidad en cualquiera de sus formas.
-
-###### Artículo 22.
-
-Los ciudadanos de Nuevo León podrán participar corresponsablemente en las políticas de desarrollo social, así como generar iniciativas de proyectos y programas.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
-
-###### Artículo 23.
-
-La Sociedad Civil podrá recibir recursos o fondos públicos para operar programas para el desarrollo social, quedando sujetas a la supervisión, control y vigilancia de la Secretaría y de los Municipios según sea el caso, sin perjuicio de lo que establezcan las leyes respectivas.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
-
-###### Artículo 24.
-
-El Ejecutivo del Estado, a través de la Secretaría, y los Municipios en el ámbito de su competencia, fomentarán el apoyo a la organización, promoción y participación social mediante:
-
-I. La creación de condiciones que estimulen la realización de programas, estrategias y orientación de recursos;
-
-II. La regulación de mecanismos transparentes de información, coordinación, concertación, participación y consulta de la información pública que permita vincular los programas, estrategias y recursos para el desarrollo social;
-
-III. El establecimiento de procedimientos documentados, ágiles y sencillos, y
-
-IV. El otorgamiento de constancias, apoyos, estímulos públicos, asesoría y capacitación para implementar programas y proyectos para el desarrollo social.
-
-### CAPÍTULO III. DE LOS BENEFICIARIOS
-
-###### Artículo 25.
-
-Son derechos para alcanzar el desarrollo social la educación, la salud, la alimentación, la vivienda, el disfrute de un medio ambiente sano, el trabajo, la seguridad social y los relativos a la no discriminación en los términos de la Constitución Política de los Estados Unidos Mexicanos y la particular del Estado.
-
-###### Artículo 26.
-
-De acuerdo con los principios rectores de la Política de Desarrollo Social, toda persona podrá participar y beneficiarse de los Programas de Desarrollo Social en los términos que establezca la normatividad de cada programa.
-
-> <small>(ADICIONADO, P.O. 14 DE OCTUBRE DE 2022)</small>
-
-Los programas de desarrollo social, deberán garantizar la progresividad y el ejercicio pleno de los derechos sociales.
-
-###### Artículo 27.
-
-Toda persona o grupo social en situación de vulnerabilidad podrá solicitar acciones y apoyos tendientes a disminuir su desventaja.
-
-###### Artículo 28.
-
-Los beneficiarios de los Programas Sociales podrán:
-
-I. Participar y acceder a los Programas Sociales;
-
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2010)</small>
-
-II. Recibir la información acerca de los programas y servicios que promuevan la Secretaría y los Municipios, así como de aquellos que la Federación aplique en el Estado;
-
-> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2018)</small>
-
-Cuando se trate de personas adultas mayores recibir la información en sus domicilios;
-
-III. Recibir los servicios y prestaciones de los programas conforme a sus lineamientos generales y requisitos;
-
-> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2018)</small>
-
-En el caso de las personas adultas mayores recibir los apoyos de los programas en sus domicilios;
-
-IV. Participar de manera corresponsable en los Programas de Desarrollo Social; y
-
-V. Los demás que establezcan los planes y programas de Desarrollo Social, así como otras disposiciones legales.
-
-###### Artículo 29.
-
-Los beneficiarios de los Programas Sociales tendrán las siguientes obligaciones:
-
-I. Proporcionar la información socioeconómica que les sea requerida para ser sujetos de apoyo, la cual deberá ser veraz y tendrá manejo confidencial;
-
-> <small>(ADICIONADO, P.O. 17 DE ENERO DE 2018)</small>
-
-Tratándose de personas adultas mayores proporcionar en sus domicilios la información necesaria para ser sujetos de apoyo;
-
-II. Participar corresponsablemente en los Programas de Desarrollo Social a que tengan acceso;
-
-III. Cumplir la normatividad y requisitos de los Programas de Desarrollo Social, y
-
-IV. Informar a la instancia correspondiente si se es beneficiario de dos o más programas federales, estatales o municipales.
-
-### CAPÍTULO IV. DEL PADRÓN DE BENEFICIARIOS DE PROGRAMAS DE DESARROLLO SOCIAL
-
-###### Artículo 30.
-
-Con el propósito de asegurar la transparencia, la equidad y la eficacia de los programas sociales, el Estado integrará el Padrón de Beneficiarios de los Programas Sociales el cual estará a disposición de la ciudadanía en los términos de la Ley de Acceso a la Información Pública.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
-
-###### Artículo 31.
-
-La Secretaría será responsable de la integración y actualización de los datos relativos al Padrón de Beneficiarios de los Programas Sociales.
-
-## TÍTULO V. DEL FOMENTO Y FINANCIAMIENTO
-
-### CAPÍTULO I. DEL FOMENTO AL BIENESTAR SOCIAL
-
-###### Artículo 32.
-
-El Gobierno Estatal y los Municipios, en el ámbito de sus respectivas competencias, fomentarán actividades para proteger y ayudar a quienes están en situación de pobreza y vulnerabilidad para que tengan condiciones de vida dignas, promoviendo la igualdad de oportunidades para todas las personas.
-
-###### Artículo 33.
-
-El Gobierno Estatal y los Municipios, en el ámbito de sus respectivas competencias, trabajarán para prevenir situaciones de riesgo social, promocionar la autonomía individual y la integración social, y potenciar la participación de las personas y grupos en la vida social. Con estas acciones se pretende, defender la igualdad de oportunidades en el acceso a los recursos públicos, prevenir la pobreza, vulnerabilidad y marginación, y potenciar la cohesión e integración social estimulando la solidaridad y la participación ciudadana.
-
-###### Artículo 34.
-
-El Gobierno Estatal y los Municipios destinarán recursos públicos para propiciar medidas de desarrollo social y otras de desarrollo económico, educativas, de salud o de promoción de la participación ciudadana, que configuren un conjunto integrado para el desarrollo y la autonomía de personas, grupos y comunidades, especialmente cuando se trata de sectores sociales con dificultades especiales debido a sus características socioeconómicas, urbanísticas o demográficas, que los coloque en posiciones de desigualdad.
-
-### CAPÍTULO II. DEL FINANCIAMIENTO
-
-###### Artículo 35.
-
-Los programas, fondos y recursos destinados al desarrollo social son prioritarios y de interés público, por lo cual serán objeto de seguimiento y valuación de acuerdo con esta Ley, independientemente de la fiscalización de que sean objeto por las instancias correspondientes, en los términos de las disposiciones legales en la materia.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
-
-###### Artículo 36.
-
-El presupuesto asignado a la Secretaría y a los programas de apoyo a grupos vulnerables y combate a la pobreza que corresponda administrar, destinado al gasto social no podrá ser inferior, en términos reales, al del año fiscal anterior una vez que sea autorizado por el Congreso del Estado, ni destinarse a fines distintos a los aprobados; salvo cuando el Estado enfrente alguna situación grave y extrema que lo justifique.
-
-Asimismo se podrán destinar partidas extraordinarias para programas sociales, las cuales no serán consideradas para los efectos del párrafo anterior.
-
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2008)</small>
-
-En la Ley de Egresos se contemplará, obligatoriamente un porcentaje no menor al 5% de los egresos anuales en el rubro del presupuesto de obras públicas del Estado para destinarse al desarrollo de infraestructura urbana en las zonas de mayor marginación en el Estado, conforme a lo dispuesto en esta Ley.
-
-###### Artículo 37.
-
-Los recursos estatales y municipales presupuestados para los Programas de Desarrollo Social podrán ser complementados con recursos provenientes del Gobierno Federal o de las Organizaciones Civiles o Sociales, fondos internacionales, donativos, o generados por cualquier otro acto jurídico.
-
-###### Artículo 38.
-
-La planeación, aplicación y distribución de los recursos destinados a financiar los Programas de Desarrollo Social se basarán en los indicadores y lineamientos generales de eficacia, eficiencia y calidad.
-
-###### Artículo 39.
-
-La distribución y aplicación de los recursos se realizará con estricto apego a los principios rectores de esta Ley, así como a la equidad y la transparencia.
-
-## TÍTULO VI. DE LAS ZONAS DE ATENCIÓN PRIORITARIA Y DE LA DEFINICIÓN Y MEDICIÓN DE LA POBREZA
-
-### CAPÍTULO I. DE LAS ZONAS DE ATENCIÓN PRIORITARIA
-
-###### Artículo 40.
-
-Para efectos de la presente Ley se consideran como grupos o sectores que merecen especial atención en la elaboración, ejecución, seguimiento y evaluación de la Política de Desarrollo Social, los siguientes:
-
-I. Las regiones, municipios, microrregiones, polígonos y zonas de atención prioritaria e inmediata que muestren altos índices de marginación respecto de los objetivos de la política de desarrollo social;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2023)</small>
-
-II. La población que se encuentre en situación de pobreza o vulnerabilidad;
-
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2023)</small>
-
-III. Los grupos ubicados en polígonos y zonas de riesgo considerando criterios demográficos y geofísicos para la definición de estrategias de prevención y atención a la población, con énfasis en aquellos asentamientos precarios y vulnerables que se encuentran bajo riesgo de desastre; y
-
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2023)</small>
-
-IV. Las comunidades indígenas y afromexicanas asentadas en el Estado.
-
-###### Artículo 41.
-
-Para efectos de la presente Ley, se consideran como zonas de atención prioritaria los asentamientos de grupos o sectores de población que por su situación de pobreza merecen especial atención en la elaboración, ejecución, seguimiento y evaluación de la Política de Desarrollo Social.
-
-###### Artículo 42.
-
-Para lograr una mejor asignación de recursos y una mayor eficiencia en el abatimiento de la pobreza y atención a grupos vulnerables, los programas, planes y acciones en materia de Desarrollo Social serán diseñados y puestos en práctica en base a criterios que impliquen la identificación correcta y precisa de los sectores y grupos en situación de pobreza, así como de los territorios en los que ellos están localizados, entendidos estos como zonas de atención prioritaria.
-
-###### Artículo 43.
-
-Las zonas de atención prioritaria tendrán como referente las evaluaciones de los resultados de medición de la pobreza y la focalización territorial de la misma mediante la identificación de polígonos de pobreza.
-
-###### Artículo 44.
-
-Los Programas de Desarrollo Social destinarán acciones y medidas específicas para atender a las zonas de atención prioritaria. Para su ejecución, el Estado asignará los recursos humanos, técnicos y financieros necesarios para lograr el desarrollo de las personas y las familias que forman parte de estas áreas.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
-
-###### Artículo 45.
-
-El Estado, por medio de la Secretaría y en coordinación con otras instituciones competentes, será responsable de elaborar y mantener actualizados los sistemas de información geo-referenciados, que se relacionen con las condiciones sociales y económicas de los hogares nuevoleoneses, y permitan formular estrategias orientadas a la lucha contra la pobreza con el fin de lograr las metas propuestas en materia de Desarrollo Social.
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 24 DE DICIEMBRE DE 2010)</small>
-
-###### Artículo 46.
-
-Las acciones de la Secretaría, y en su caso las de los Municipios, en las zonas de atención prioritaria tendrán como objeto:
-
-I. Lograr una mejor calidad y expectativas de vida personal, familiar y social a través de acciones educativas, proyectos productivos, fomento de la participación comunitaria y corresponsabilidad social que permitan crear conciencia de la dignidad humana;
-
-II. Generar un desarrollo social integral familiar y humano, así como beneficios para las generaciones presentes y futuras del Estado de Nuevo León.
-
-III. Procurar que toda persona reciba los beneficios del desarrollo y de las políticas y programas de desarrollo social; y
-
-IV. Prever los recursos financieros necesarios para dar atención especial a los grupos de personas que por su situación de pobreza y vulnerabilidad la necesiten, promoviendo su plena integración al desarrollo y preservando y fortaleciendo en su favor la vigencia de los valores y principios de igualdad, equidad y libertad.
-
-### CAPÍTULO ll. DE LA DEFINICIÓN Y MEDICIÓN DE LA POBREZA
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
-
-###### Artículo 47.
-
-La Secretaría y los Municipios deberán prestar particular atención a la colaboración interinstitucional para el intercambio de información y la asesoría y transferencia de técnicas, así como a la recopilación de datos y presentación de informes para mejorar el conocimiento y la ordenación del Desarrollo Social en el Estado, atendiendo a la naturaleza multisectorial y multifactorial de la pobreza, que se encuentra relacionada con numerosos aspectos del desarrollo.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
-
-###### Artículo 48.
-
-El Estado, a través de la Secretaría y en función a lo que establece la ley, utilizará la información que genere el Instituto Nacional de Estadística Geografía e Informática, el Consejo Nacional de Población y otras instituciones competentes en la materia, para definir y medir la pobreza.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2010)</small>
-
-###### Artículo 49.
-
-La Secretaría invitará a investigadores y académicos de reconocida trayectoria y amplio prestigio profesional en la materia, quienes apoyarán en el establecimiento de definiciones, normas y directrices unificadas tanto de la terminología como de las técnicas y metodologías utilizadas en la definición y medición de la pobreza, así como de supervisar estudios e investigaciones que coadyuven al cumplimiento de esta Ley.
-
-###### Artículo 50.
-
-Los académicos e investigadores que integren este grupo lo harán con carácter y por el tiempo que requieran las tareas asignadas a su responsabilidad.
-
-## TÍTULO VII. DE LA DENUNCIA POPULAR, INFRACCIONES Y SANCIONES
-
-### CAPÍTULO I. DE LA DENUNCIA POPULAR
-
-###### Artículo 51.
-
-Cualquier persona podrá denunciar por escrito ante el Estado, o en su caso ante la autoridad municipal del ramo, los hechos que a su juicio impliquen incumplimiento de obligaciones de las personas o los servidores públicos sujetos al cumplimiento de esta Ley, para que las autoridades competentes determinen si existe o no responsabilidad administrativa, e impongan las sanciones correspondientes en su caso, previo el derecho de audiencia.
-
-###### Artículo 52.
-
-Las autoridades que tengan conocimiento de las denuncias presentadas en contra de servidores públicos deberán turnarlas de manera inmediata a los órganos de control interno competentes, de conformidad con los procedimientos establecidos en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
-
-###### Artículo 53.
-
-La denuncia popular podrá ser presentada por cualquier persona, y para que sea procedente bastará presentar lo siguiente:
-
-I. La descripción de los actos, hechos u omisiones denunciados;
-
-II. Los datos que permitan identificar a la presunta autoridad, funcionario infractor o responsable; y,
-
-III. Las pruebas que ofrezca el denunciante.
-
-###### Artículo 54.
-
-Los plazos para responder la denuncia y el procedimiento de desahogo quedarán asentados en el Reglamento de la presente Ley.
-
-### CAPÍTULO II. DE LAS INFRACCIONES Y SANCIONES
-
-###### Artículo 55.
-
-El beneficiario, institución o asociación que contravenga las disposiciones de la presente Ley o de la normatividad de algún programa, independientemente de lo dispuesto por otros ordenamientos jurídicos, se identificará en el Padrón correspondiente y se le suspenderá el apoyo social hasta por un año.
-
-###### Artículo 56.
-
-El servidor público estatal o municipal que, valiéndose de su función o en ejercicio de ésta, condicione los apoyos, haga proselitismo a favor de algún partido político y, en general, contravenga las disposiciones de esta Ley, será sancionado de acuerdo a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León y demás ordenamientos relativos. En el caso de ser servidor público federal, se deberá informar al órgano de control interno que corresponda.
-
-## TÍTULO VIII. DEL RECURSO DE INCONFORMIDAD
-
-### CAPÍTULO ÚNICO
-
-###### Artículo 57.
-
-Los interesados afectados por los actos o resoluciones definitivas dictadas con motivo de la aplicación de esta Ley, su Reglamento y ordenamientos que de ella emanen, podrán interponer el recurso de inconformidad o intentar el juicio contencioso administrativo.
-
-El plazo para interponer el recurso de inconformidad ante la autoridad que emitió la resolución será de quince días hábiles, contados a partir del día siguiente a aquél en que hubiere surtido efectos la notificación del acto o de la resolución que se recurra o en que el interesado tuviere conocimiento de los mismos.
-
-###### Artículo 58.
-
-El recurso de inconformidad se interpondrá por escrito y deberá contener lo siguiente:
-
-I. La autoridad administrativa a quien se dirige;
-
-II. El nombre del recurrente así como el domicilio que señale para recibir notificaciones;
-
-III. El acto o resolución que se recurre y la fecha en que se le notificó o tuvo conocimiento del mismo, bajo protesta de decir verdad;
-
-IV. Los agravios que se le causen;
-
-V. La copia simple del acto o resolución que se impugna, así como de su correspondiente notificación; y,
-
-VI. Las pruebas que ofrezca, las cuales tengan relación inmediata y directa con la resolución o acto impugnado debiendo acompañar las documentales con que cuente, incluidas las que acrediten su personalidad cuando actúe en nombre de otro.
-
-###### Artículo 59.
-
-El recurso se tendrá por no interpuesto y se desechará cuando:
-
-I. Se presente fuera de plazo;
-
-II. No se haya acompañado la documentación que acredite la personalidad del recurrente.
-
-## TRANSITORIO
-
-Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-Por lo tanto envíese al Ejecutivo del Estado, para su promulgación y publicación en el Periódico Oficial del Estado.
-
-Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Nuevo León, en Monterrey, su capital, a los catorce días del mes de septiembre de 2006. PRESIDENTA: DIP. CARLA PAOLA LLARENA MENARD; DIP. SECRETARIA: ROSAURA GUTIÉRREZ DUARTE; DIP. SECRETARIO: HÉCTOR RENÉ GONZÁLEZ GONZALEZ.- Rúbricas.
-
-Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en el Despacho del Poder Ejecutivo del Estado de Nuevo León, en Monterrey, su Capital, a los 27 días del mes de septiembre de 2006.
-
-EL C. GOBERNADOR CONSTITUCIONAL DEL ESTADO DE NUEVO LEÓN
-
-JOSÉ NATIVIDAD GONZÁLEZ PARÁS
-
-EL C. SECRETARIO GENERAL DE GOBIERNO
-
-ROGELIO CERDA PÉREZ
-
-[N. DE. E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]
-
-P.O. 15 DE DICIEMBRE DE 2008.
-
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación.
-
-P.O. 24 DE DICIEMBRE DE 2010.
-
-Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 17 DE ENERO DE 2018.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 345. SE REFORMAN LOS INCISOS D) Y G) DE LA FRACCIÓN II DEL ARTÍCULO 5 Y LA FRACCIÓN VIII DEL ARTÍCULO 10 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN; SE REFORMA POR ADICIÓN DE UN SEGUNDO Y TERCER PÁRRAFO A LA FRACCIÓN I DEL ARTÍCULO 9° DE LA LEY DE INSTITUCIONES ASISTENCIALES PÚBLICAS Y PRIVADAS PARA LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN; SE REFORMA POR ADICIÓN DE UN PÁRRAFO SEGUNDO A LA FRACCIÓN II Y UN PÁRRAFO SEGUNDO A LA FRACCIÓN III DEL ARTÍCULO 28 Y ADICIÓN DE UN PÁRRAFO SEGUNDO A LA FRACCIÓN I DEL ARTÍCULO 29 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN”.]
-
-Primero.- El presente Decreto entrará en vigor dentro de los 90 días posteriores a su publicación en el Periódico Oficial del Estado.
-
-Segundo.- La asignación presupuestal para el cumplimiento de lo establecido en el presente Decreto se sustanciará conforme a lo establecido en los artículos 35, 36, 37, 38 y 39 de la Ley de Desarrollo Social para el Estado de Nuevo León.
-
-Tercero.- El Poder Ejecutivo deberá realizar las adecuaciones necesarias al Reglamento de la Ley de Desarrollo Social para el Estado de Nuevo León, dentro de los 30 días siguientes a la aprobación del presente Decreto.
-
-Cuarto.- El Poder Ejecutivo y los Ayuntamientos establecerán los lineamientos generales para la entrega de los apoyos en los casos que de manera excepcional requieran entrega domiciliada, cuando se cuente con la partida presupuestal para tal efecto, dentro de los 120 días siguientes a la aprobación del presente Decreto.
-
-P.O. 4 DE DICIEMBRE DE 2020.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 390 SE REFORMA EL ARTÍCULO 11 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN”]
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el periódico oficial del Estado de Nuevo León.
-
-P.O. 28 DE DICIEMBRE DE 2020.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 389 SE REFORMA LA FRACCIÓN IX Y SE ADICIONA UNA FRACCIÓN X RECORRIÉNDOSE LA ACTUAL FRACCIÓN X PARA SER UNA NUEVA FRACCIÓN XI DEL ARTÍCULO 7º DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN"]
-
-ÚNICO.- El presente Decreto entrara en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-P.O. 10 DE JUNIO DE 2022.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 143. SE REFORMAN LAS FRACCIONES X Y XI DEL ARTÍCULO 7°, Y LA DENOMINACIÓN DEL TÍTULO IV “DE LA PLANEACIÓN, DIFUSIÓN, PARTICIPACIÓN CIUDADANA Y BENEFICIARIOS”, LA DENOMINACIÓN DEL CAPÍTULO I DEL TÍTULO IV “PLANEACIÓN Y DIFUSIÓN DEL DESARROLLO SOCIAL”; SE ADICIONA UNA FRACCIÓN XII AL ARTÍCULO 7° Y UN ARTÍCULO 19 BIS, TODOS DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN”.]
-
-PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
-
-SEGUNDO.- Para dar cumplimiento a las acciones emanadas del presente Decreto, estas se programarán acorde a las capacidades financieras del Gobierno del Estado tomando en cuenta el Presupuesto de Egresos del ejercicio fiscal correspondiente.
-
-P.O. 14 DE OCTUBRE DE 2022.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 237. SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 26 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN”.]
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
-
-P.O. 9 DE DICIEMBRE DE 2022.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 272. SE REFORMAN LAS FRACCIONES VII Y VIII Y SE ADICIONAN LAS FRACCIONES IX, X, XI Y XII AL ARTÍCULO 5º, DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN".]
-
-ÚNICO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periodo (sic) Oficial del Estado.
-
-P.O. 8 DE NOVIEMBRE DE 2023.
-
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 366. SE TIENE POR RECIBIDAS EN TIEMPO Y FORMA LAS OBSERVACIONES AL DECRETO NÚMERO 366, POR EL QUE SE REFORMAN LAS FRACCIONES II Y III DEL ARTÍCULO 40, Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 12; UN SEGUNDO PÁRRAFO AL ARTÍCULO 17; UN SEGUNDO PÁRRAFO AL ARTÍCULO 19 BIS; Y UNA FRACCIÓN IV AL ARTÍCULO 40, TODOS DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN”.]
-
-PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación.
-
-SEGUNDO.- Para dar cumplimiento a las obligaciones emanadas del presente Decreto, estas se realizarán acorde a las capacidades financieras del Gobierno del Estado y se tomarán en cuenta en el Presupuesto de Egresos del ejercicio fiscal correspondiente.
-
-P.O. 8 DE NOVIEMBRE DE 2023.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 457. SE REFORMAN LAS FRACCIONES X Y XI DEL ARTÍCULO 8, Y SE ADICIONA UNA FRACCIÓN XII AL ARTÍCULO 8; TODOS DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN”.]
-
-ÚNICO: El presente Decreto entrará en vigor el día siguiente al de su publicación.
-
-P.O. 20 DE DICIEMBRE DE 2023.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 465. SE REFORMA EL ARTÍCULO 9 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN”.]
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
-
-P.O. 17 DE ENERO DE 2024.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 473. SE REFORMA LA FRACCIÓN XI Y XII DEL ARTÍCULO 7; SE ADICIONA UNA FRACCIÓN XIII AL ARTÍCULO 7 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN".]
-
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación.
-
-P.O. 17 DE ENERO DE 2024.
-
-## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 475. SE ADICIONA UNA FRACCIÓN VI BIS, AL ARTÍCULO 7 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN".]
-
-ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación.
-
-P.O. 27 DE ABRIL DE 2026.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 201. SE REFORMAN LAS FRACCIONES I Y IL (SIC) Y SE ADICIONA UNA FRACCIÓN III, TODO AL ARTÍCULO 11 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN”.]
-
-ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+DÉCIMO. Publíquese el presente Reglamento en el Diario Oficial de la Federación, en el Semanario Judicial de la Federación y su Gaceta, así como, en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos del artículo 65, fracción I de la Ley General de Transparencia y Acceso a la Información Pública.
