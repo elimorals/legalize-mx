@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2026-04-27"
+last_updated: "2026-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2026.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -1939,9 +1939,11 @@ DE LAS DONACIONES ENTRE CONSORTES.
 
 Los consortes pueden hacerse donaciones; pero sólo se confirman con el divorcio o con la muerte del donante, con tal de que no sean contrarias a las capitulaciones matrimoniales, ni perjudiquen el derecho de los ascendientes o descendientes a recibir alimentos.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2026)</small>
+
 ###### Artículo 256.
 
-Las donaciones entre consortes pueden ser revocadas libremente y en todo tiempo por los donantes.
+Las donaciones entre consortes pueden ser revocadas por los donantes, mientras subsista el matrimonio, cuando exista causa justificada para ello.
 
 ###### Artículo 257.
 
@@ -2007,13 +2009,15 @@ III.- Que uno u otra hayan subsistido al tiempo de celebrarse el matrimonio.
 
 La acción que nace de estas causas de nulidad sólo puede deducirse por el cónyuge agraviado, dentro de sesenta días desde la fecha en que cesó la violencia o intimidación.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2026)</small>
+
 ###### Artículo 268.
 
-La nulidad que se funde en alguna de las causas expresadas en la fracción VII del artículo 153, sólo puede ser pedida por los cónyuges, dentro del término de sesenta días contados desde que se celebró el matrimonio.
+La nulidad que se funde en la fracción VII del artículo 153, sólo puede ser pedida por los cónyuges, dentro del término de sesenta días contados desde que se celebró el matrimonio.
 
 ###### Artículo 269.
 
-Tienen derecho de pedir la nulidad a que se refiere la fracción VIII del artículo 153, el otro cónyuge o el tutor del incapacitado.
+(DEROGADO, P.O. 4 DE MAYO DE 2026)
 
 ###### Artículo 270.
 
@@ -18492,3 +18496,19 @@ P.O. 27 DE ABRIL DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 4 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 465.- SE REFORMA EL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 4 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 470.- SE REFORMA EL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
