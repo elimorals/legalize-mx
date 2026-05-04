@@ -4,7 +4,7 @@ identifier: "NLE-ley-para-prevenir-y-eliminar-la-discriminacion-en-el-estado-121
 country: "mx"
 rank: "ley"
 publication_date: "2017-05-17"
-last_updated: "2025-03-19"
+last_updated: "2026-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=121536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE MARZO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2026.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Nuevo León, el miércoles 17 de mayo de 2017.
 
@@ -159,7 +159,9 @@ I. Impedir el acceso a la permanencia a la educación pública o privada, así c
 
 II. Establecer contenidos, métodos o instrumentos pedagógicos en que se asignen papeles contrarios a la igualdad o que promuevan una condición de subordinación;
 
-III. Prohibir la libre elección de empleo, o restringir sin razón justificada las oportunidades de acceso, permanencia y ascenso en el mismo;
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2026)</small>
+
+III. Prohibir la libre elección de empleo, o restringir sin razón justificada las oportunidades de acceso, permanencia y ascenso en el mismo; o bien el establecimiento de procesos de selección o requisitos poco transparentes, sesgados y sin vinculos con las tareas que ejecutarán los empleados;
 
 IV. Limitar el acceso y permanencia a los programas de capacitación y de formación profesional;
 
@@ -1360,3 +1362,9 @@ P.O. 19 DE MARZO DE 2025.
 PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los entes públicos tendrán un lapso de 5 años para cumplir con las disposiciones establecidas en el presente Decreto y garantizar en sus espacios públicos el libre acceso y desplazamiento de las personas con discapacidad.
+
+P.O. 4 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 202. SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 7 DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
