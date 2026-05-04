@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-educacion-del-estado-de-michoacan-de-ocampo-143099"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-29"
-last_updated: "2026-04-27"
+last_updated: "2026-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143099&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2026.
 
 Ley publicada en la Sexta Sección en el Número 22 del Periódico Oficial del Estado de Michoacán, el viernes 29 de mayo de 2020.
 
@@ -98,6 +98,10 @@ XIV. Educación Artística: La que desarrolla en el sujeto social las capacidade
 XV. Educación Especial e Inclusiva: Es el entramado especializado de recursos filosóficos, pedagógicos, educativos, didácticos, escolares, sociales, metodológicos y comunitarios que se emplean para promover el aprendizaje, participación y dignificación de las personas con discapacidad y con necesidades específicas de aprendizaje. Se encamina hacia la visibilización, reconocimiento, respeto y comprensión de cualquier diferencia como parte de la naturaleza humana, educando para la vida, la convivencia social armónica y la relación sostenible con la naturaleza y cultura. Su cualidad transversal, fortalece los paradigmas educativos, los espacios áulicos y escolares; promueve la participación legítima de las personas en sus comunidades de pertenencia; pluraliza y democratiza las relaciones sociales cotidianas; y crea o fortalece fuentes de empleo y auto empleo;
 
 XVI. Equidad: A las acciones y medidas que tengan por objeto la eliminación de las desigualdades sociales, económicas, políticas, culturales y de cualquier otra índole para proporcionar igualdad de oportunidades, con especial atención de los grupos en situación de vulnerabilidad;
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2026)</small>
+
+XVI Bis. Guía Sombra: Es el profesional capacitado que brinda acompañamiento individualizado a niñas, niños y adolescentes que requieran asistencia constante para su inclusión, participación y aprendizaje en el entorno escolar regular, promoviendo su autonomía y complementando la labor docente;
 
 XVII. Ley General: La Ley General de Educación;
 
@@ -233,7 +237,9 @@ c) Será multilingüe, intercultural, crítica y transformadora, formando a los 
 
 II. Impartir el conocimiento y, en su caso el aprendizaje de lenguas indígenas de nuestro Estado, respetando los derechos lingüísticos de los pueblos indígenas;
 
-III. Fomentará la promoción del aprendizaje de lenguas indígenas y extranjeras en todos los niveles y modalidades educativas; y,
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2026)</small>
+
+III. Fomentará la promoción del aprendizaje de lenguas indígenas, extranjeras y de la Lengua de Señas Mexicana, en todos los niveles y modalidades educativas, así como en los procesos de formación docente; y,
 
 IV. Impartir el aprendizaje de las lenguas extranjeras en todos los niveles y modalidades educativas.
 
@@ -699,9 +705,13 @@ IV. Opciones educativas, las que se determinen para cada nivel educativo en los 
 
 Además de lo anterior, se consideran parte del Sistema Educativo Estatal la formación para el trabajo, la educación para personas adultas, la educación física, educación artística y la educación tecnológica.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2026)</small>
+
 ###### Artículo 59.
 
-La educación especial buscará la equidad y la inclusión a través de los apoyos que ayuden a eliminar las barreras que limitan el acceso, participación y aprendizaje de los educandos con discapacidades, así como con aptitudes sobresalientes, en los centro (sic) educativos, la cual deberá estar disponible para todos los tipos, niveles, modalidades, a través de los Servicios de Educación Especial como opciones educativas establecidas en esta Ley.
+La educación especial buscará la equidad y la inclusión a través de los apoyos que ayuden a eliminar las barreras que limitan el acceso, participación y aprendizaje de los educandos con discapacidades, así como con aptitudes sobresalientes, en los centros educativos, la cual deberá estar disponible para todos los tipos, niveles, modalidades, a través de los Servicios de Educación Especial como opciones educativas establecidas en esta Ley.
+
+En los casos en que, previa valoración multidisciplinaria, se determine que una niña, niño o adolescente con necesidad específica de apoyo educativo requiere un acompañamiento individualizado en el aula regular para su integración y desarrollo pleno, la autoridad educativa estatal deberá garantizar la provisión de un Guía Sombra idóneo.
 
 De acuerdo con las necesidades educativas específicas de la población con marginación y muy alta marginación, podrá impartirse educación primaria multigrado y programas o contenidos particulares para ofrecerles una oportuna atención.
 
@@ -943,11 +953,15 @@ Las autoridades educativas determinarán medidas que amplíen el ingreso y perma
 
 Las instituciones podrán incluir, además, opciones de formación continua y actualización para responder a las necesidades de la transformación del conocimiento y cambio tecnológico.
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2026)</small>
+
 ###### Artículo 74.
 
 La obligatoriedad de la educación superior corresponde al Estado, el cual la garantizará para todas las personas que cumplan con los requisitos solicitados por las instituciones respectivas.
 
-Para tal efecto, las políticas de educación superior estarán basadas en el principio de equidad entre las personas, tendrán como objetivo disminuir las brechas de cobertura educativa entre las regiones y territorios del Estado, así como fomentar acciones institucionales de carácter afirmativo para compensar las desigualdades y la inequidad en el acceso y permanencia en los estudios por razones económicas, de género, origen étnico o discapacidad.
+Para tal efecto, las políticas de educación superior estarán basadas en el principio de equidad e igualdad de oportunidades entre las personas, tendrán como objetivo disminuir las brechas de cobertura educativa entre las regiones y territorios del Estado, así como fomentar acciones institucionales de carácter afirmativo para compensar las desigualdades y la inequidad en el acceso y permanencia en los estudios por razones económicas, de género, origen étnico o discapacidad.
+
+Para cumplir lo establecido en el párrafo anterior, las institucionales (sic) educativas de nivel superior garantizarán el acceso a los servicios educativos y destinarán por lo menos un diez por ciento de su matrícula escolar a personas en situación de vulnerabilidad.
 
 ###### Artículo 75.
 
@@ -2782,3 +2796,25 @@ P.O. 27 DE ABRIL DE 2026.
 ## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 425 POR EL QUE "SE ADICIONA EL PÁRRAFO SEGUNDO, RECORRIENDO EN SU ORDEN LOS SUBSECUENTES; Y, SE REFORMA EL AHORA PÁRRAFO TERCERO DEL ARTÍCULO 122 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO".]
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 4 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 435 POR EL QUE "SE REFORMA EL ARTÍCULO 74 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Las institucionales (sic) educativas de nivel superior del Estado y la autoridad educativa estatal tendrán que implementar dicho porcentaje en un máximo de 90 días contados a partir de la entrada en vigor del presente Decreto y establecerlo en su reglamentación correspondiente para su aplicación en el ciclo escolar 2026-2027.
+
+P.O. 4 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 436 POR EL QUE "SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 22 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. La Secretaría de Educación adecuará su reglamentación conforme a este Decreto en un término de 90 días, contados a partir de la entrada en vigor del presente Decreto.
+
+P.O. 4 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 437 POR EL QUE “SE ADICIONA LA FRACCIÓN XVI BIS AL ARTÍCULO 4; Y, SE REFORMA EL ARTÍCULO 59 DE LA LEY DE EDUCACIÓN DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
