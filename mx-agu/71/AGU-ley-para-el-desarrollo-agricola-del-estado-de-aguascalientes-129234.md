@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-el-desarrollo-agricola-del-estado-de-aguascalientes-12
 country: "mx"
 rank: "ley"
 publication_date: "2018-06-20"
-last_updated: "2025-10-20"
+last_updated: "2026-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=129234&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY PARA EL DESARROLLO AGRÍCOLA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2026.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Aguascalientes, el miércoles 20 de junio de 2018.
 
@@ -239,6 +239,10 @@ XIX. CEAA: Consejo Estatal Agropecuario de Aguascalientes, A.C.;
 
 XX. Certificado Fitosanitario: Documento oficial expedido por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación o las personas acreditadas y aprobadas para tal efecto, que constata el cumplimiento de las disposiciones legales aplicables en materia de sanidad vegetal a que se sujetan la producción, industrialización, comercialización, movilización e importación o exportación de especies vegetales, así como sus productos o subproductos, que representen un riesgo fitosanitario;
 
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2026)</small>
+
+XX-A. Certificación: Al proceso a través del cual los organismos de certificación, acreditados, constatan que los sistemas de producción, manejo, procesamiento y comercialización cumplen con las especificaciones de la normatividad vigente aplicable en la materia;
+
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
 XXI. CESVA: Comité Estatal de Sanidad Vegetal de Aguascalientes, A.C.;
@@ -246,6 +250,10 @@ XXI. CESVA: Comité Estatal de Sanidad Vegetal de Aguascalientes, A.C.;
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
 XXII. Consejo: Consejo Estatal para el Desarrollo Rural Sustentable de Aguascalientes;
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2026)</small>
+
+XXII-A. Certificado: Al documento que expide el organismo certificador, con el cual asegura que el producto cumple con las especificaciones de la normatividad vigente;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
@@ -266,6 +274,10 @@ XXVI. Distintivo: Distintivo Estatal Agrícola;
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
 XXVII. Emergencia de Sanidad Vegetal: Situación de peligro o desastre ocasionada por la presencia y propagación, actual o potencial, de plagas, enfermedades o agentes patogénicos, contaminantes o cualquier otro factor que eleve, por encima de lo aceptable, el Riesgo Fitosanitario;
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2026)</small>
+
+XXVII-A. IMPI: El Instituto Mexicano de la Propiedad Industrial;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
@@ -331,13 +343,17 @@ XLII. Medidas Fitosanitarias: Todas aquellas establecidas en esta Ley, en la Ley
 
 XLIII. Movilización: Transportación o traslado de productos o subproductos agrícolas de un lugar a otro;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2026)</small>
 
-XLIV. NOM: Normas Oficiales Mexicanas en materia agrícola y de sanidad vegetal de carácter obligatorio, expedidas por la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, en términos de la Ley Federal de Sanidad Vegetal y conforme al procedimiento previsto en la Ley Federal sobre Metrología y Normalización;
+XLIV. NOM: Normas Oficiales Mexicanas de carácter obligatorio, expedidas por las dependencias competentes de la Administración Pública Federal, entre ellas la Secretaría de Agricultura y Desarrollo Rural y la Secretaría de Economía, aplicables a la materia agricultura, de sanidad vegetal, industrial, comercial y de denominación de origen, conforme a los procedimientos previstos en la Ley de Infraestructura de la Calidad y demás legislación aplicable;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
 XLV. Organismos Genéticamente Modificados: Cualquier ser vivo que posea una combinación de material genético que se haya obtenido mediante la aplicación de biotecnología moderna;
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2026)</small>
+
+XLV-A. Maguey: Planta de maguey o agave en todas sus especies;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
@@ -346,6 +362,10 @@ XLVI. Organizaciones Agrícolas: Asociaciones, cámaras y uniones nacionales, re
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
 XLVII. Padrón: Registro administrativo de los productores y las organizaciones agrícolas del Estado, a cargo de la Secretaría de Desarrollo Rural y Agroempresarial;
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2026)</small>
+
+XLVII-A: Mezcal: A la bebida alcohólica protegida por la Denominación de Origen, de conformidad con lo establecido en la NOM correspondiente, producida en el Estado de Aguascalientes, con las características de olor y sabor propias de su tipo, obtenida mediante la destilación del maguey;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
@@ -2051,15 +2071,133 @@ La Secretaría, en situaciones de emergencia o creación y actualización de cen
 
 Las autoridades del Estado podrán celebrar acuerdos o convenios de coordinación con las autoridades municipales o de la Federación, así como convenios de concertación con las personas que desarrollan las actividades productivas reguladas en esta Ley, para conjuntar esfuerzos en la ejecución de programas, acciones y medidas relativas a la movilización y campañas sanitarias en las diversas materias objeto del presente ordenamiento, así como para el uso de tecnologías con dicha finalidad.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 2026)</small>
+
+## TÍTULO SEXTO BIS. DE LA PRODUCCIÓN DEL MEZCAL EN EL ESTADO
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 2026)</small>
+
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2026)</small>
+
+###### Artículo 148 Bis.
+
+El presente Título tiene por objeto, sin perjuicio de lo previsto en esta Ley, lo siguiente:
+
+I. Proteger, en el ámbito de la competencia correspondiente, la producción de mezcal;
+
+II. Impulsar, en el ámbito de su competencia, la comercialización del mezcal;
+
+III. Identificar las zonas de producción de mezcal dentro de los municipios comprendidos en la Denominación de Origen Mezcal, siendo estos Aguascalientes, Asientos, Calvillo, Cosío, El Llano, Tepezalá y Rincón de Romos;
+
+IV. Fomentar el apoyo a las organizaciones de mezcaleros, a efecto de fortalecer la protección, producción y aprovechamiento del mezcal, de conformidad con las disposiciones aplicables;
+
+V. Coordinar a las dependencias estatales para el apoyo a las organizaciones de productores;
+
+VI. Promover, entre las organizaciones de productores y en coordinación con los distintos órdenes de gobierno, el cumplimiento de las NOM y demás disposiciones legales aplicables en materia de autenticidad y calidad del mezcal;
+
+VII. Incentivar las acciones pertinentes para mejorar la infraestructura y el equipamiento de las unidades de producción de mezcal, así como el desarrollo de marcas y la capacitación en los procesos de producción y organización empresarial; y
+
+VIII. Fortalecer esquemas integrales por cadenas de producción.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2026)</small>
+
+###### Artículo 148 Ter.
+
+Corresponde a las Secretaría de Desarrollo Económico, Ciencia y Tecnología y a la Secretaría Desarrollo Rural y Agroempresarial, en el ámbito de sus respectivas competencias, la observancia y aplicación de las disposiciones previstas en el presente capítulo, quienes tendrán, además, las siguientes atribuciones:
+
+I. Promover que los Gobiernos Municipales que cuentan con la Denominación de Origen Mezcal, apliquen su Ordenamiento Ecológico Territorial, con la finalidad de que participen activamente en las políticas instrumentadas para el desarrollo sustentable de la cadena productiva del Mezcal;
+
+II. Diseñar programas y mecanismos para impulsar e incentivar a los productores con infraestructura y equipamiento para la producción de mezcal y envasado con marcas registradas, para que cumplan con los requerimientos exigidos por la NOM correspondiente que regula la producción del mezcal;
+
+III. Diseñar e implementar programas de capacitación, asesoría técnica y consultoría para impulsar la competitividad de la cadena productiva del mezcal;
+
+IV. Coordinar y dar seguimiento a las actividades de fomento y desarrollo de la cadena productiva del mezcal;
+
+V. Generar un padrón estatal de la cadena productiva del mezcal, sistematizando la información, para que sirva como instrumento de planeación y registro para dirigir la aplicación de los apoyos;
+
+VI. Impulsar la vinculación con las instituciones de educación superior y centros de investigación científica, para generar procesos de innovación y transferencia de tecnología con las actividades de conservación y producción del mezcal, así como su transformación y por cadenas de producción;
+
+VII. Celebrar convenios de concertación y suscripción de acuerdos con instituciones públicas y privadas para impulsar el desarrollo y fortalecimiento de la cadena productiva del mezcal; e
+
+VIII. Implementar acciones para la investigación y transferencia de tecnología en el cuidado del medio ambiente durante los procesos de la cadena productiva del mezcal, en coordinación con las instituciones públicas y privadas.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE MAYO DE 2026)</small>
+
+### CAPÍTULO II. DE LAS ACCIONES DE IMPULSO, PROMOCIÓN Y FORTALECIMIENTO
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2026)</small>
+
+###### Artículo 148 Quater.
+
+La cadena productiva del mezcal se sustenta en las siguientes acciones:
+
+I. Promover el acceso de las personas productoras de la cadena productiva del mezcal a una mejor calidad de vida;
+
+II. Interactuar de manera armónica con los ecosistemas y ciclos naturales, con respeto a la biodiversidad;
+
+III. Verificar, además de lo establecido en la NOM correspondiente, el cumplimiento de los estándares de sanidad, inocuidad y calidad aplicables;
+
+IV. Promover e incentivar el manejo adecuado de los residuos derivados del proceso de destilación, tales como vinazas, bagazo y demás desechos, a fin de cumplir con la normatividad vigente;
+
+V. Planear e incentivar el aprovechamiento de magueyes silvestres, el establecimiento y reproducción de plantas, así como la implementación de planes de manejo, a efecto de generar un equilibrio entre la producción del maguey y la capacidad de producción del mezcal;
+
+VI. Promover la capacitación y profesionalización como ejes transversales en toda la cadena productiva; y
+
+VII. Fortalecer los sistemas de producción y transformación, a fin de que sean económicamente rentables, ambientalmente sustentables y socialmente responsables.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 2026)</small>
+
+### CAPÍTULO III. PROGRAMAS E INCENTIVOS
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2026)</small>
+
+###### Artículo 148 Quinquies.
+
+En los municipios con Denominación de Origen Mezcal, la producción se llevará a cabo de acuerdo con la demanda en el corto, mediano y largo plazo.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2026)</small>
+
+###### Artículo 148 Sexies.
+
+En los programas e incentivos para la cadena productiva del mezcal, se observarán los lineamientos que para tal efecto publiquen la Secretaría de Desarrollo Económico, Ciencia y Tecnología y la Secretaría de Desarrollo Rural y Agroempresarial.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE MAYO DE 2026)</small>
+
+### CAPÍTULO IV. FOMENTO, ASESORÍA Y PROMOCIÓN
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2026)</small>
+
+###### Artículo 148 Septies.
+
+La Secretaría de Desarrollo Económico, Ciencia y Tecnología, y la Secretaría de Desarrollo Rural y Agroempresarial, en el ámbito de sus respectivas competencias, fomentarán, asesorarán y apoyarán para la certificación de las vinatas y fábricas de mezcal de los municipios protegidos por la Denominación de Origen.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2026)</small>
+
+###### Artículo 148 Octies.
+
+La Secretaría de Desarrollo Económico, Ciencia y Tecnología deberá crear un padrón de Productores de Mezcal certificados y de productores sin certificación; además, podrá solicitar al organismo certificador o a cualquier autoridad, informe de las acciones y los resultados de las gestiones realizadas por los mezcaleros del Estado.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2026)</small>
+
+###### Artículo 148 Nonies.
+
+Los productores de la cadena productiva del mezcal deberán ser considerados como sujetos de fomento y promoción por parte del Gobierno del Estado, para que realicen las actividades económicas y productivas de cada uno de los eslabones que la integran.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2026)</small>
+
+###### Artículo 148 Decies.
+
+El Gobierno del Estado, definirá, el diseño y operación de programas relacionados con la atención de la cadena productiva del mezcal.
+
+> <small>(ADICIONADO, P.O. 4 DE MAYO DE 2026)</small>
+
+Artículo 148 Undecies. El Gobierno del Estado en conjunto con la Secretaría de Desarrollo Económico, Ciencia y Tecnología y la Secretaría de Desarrollo Rural y Agroempresarial, serán los responsables de supervisar, evaluar y dar seguimiento a todas las acciones de fomento y promoción de la cadena productiva del mezcal.
+
 ## TÍTULO SÉPTIMO. INFRACCIONES, SANCIONES Y MEDIOS DE DEFENSA
 
 ### CAPÍTULO I. Infracciones
-
-### CAPÍTULO II. Sanciones
-
-(NOTA: EL 20 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 60/2018, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-### CAPÍTULO III. Impugnación de Resoluciones en la Materia
 
 ###### Artículo 149.
 
@@ -2072,6 +2210,10 @@ Las denuncias serán presentadas ante la Secretaría o, en su caso, ante la Cont
 ###### Artículo 150.
 
 Cualquier infracción que sea sancionada administrativa o pecuniariamente, deberá resarcir también los daños y perjuicios ocasionados a terceros, de acuerdo con la legislación correspondiente.
+
+### CAPÍTULO II. Sanciones
+
+(NOTA: EL 20 DE ENERO DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 60/2018, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE ENERO DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 ###### Artículo 151.
 
@@ -2090,6 +2232,8 @@ En caso de reincidencia en la comisión de infracciones o faltas a que alude el 
 Las sanciones pecuniarias a que se refiere este capítulo se considerarán créditos fiscales y serán hechos efectivos por la Secretaría de Finanzas a través de sus oficinas de recaudación.
 
 El procedimiento de notificación, ejecución y extinción de las sanciones pecuniarias, así como los recursos administrativos para oponerse al procedimiento económico coactivo, se sujetará a las disposiciones del Código Fiscal del Estado de Aguascalientes, a la Ley Hacendaria del Estado de Aguascalientes, la Ley del Procedimiento Administrativo y la Ley del Procedimiento Contencioso Administrativo.
+
+### CAPÍTULO III. Impugnación de Resoluciones en la Materia
 
 ###### Artículo 153.
 
@@ -2240,3 +2384,9 @@ P.O. 20 DE OCTUBRE DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 4 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 464.- SE REFORMA LA LEY PARA EL DESARROLLO AGRÍCOLA DEL ESTADO DE AGUASCALIENTES”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
