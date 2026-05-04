@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2026-01-28"
+last_updated: "2026-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE MAYO DE 2026.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -551,7 +551,9 @@ V. Votar, en términos de la ley, en las consultas populares sobre temas de tras
 
 a) Serán convocadas por el Congreso del Estado, a petición de:
 
-1. El Gobernador;
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 2026)</small>
+
+1. La persona titular del Poder Ejecutivo;
 
 2. El equivalente al treinta y tres por ciento de los integrantes del Congreso; o
 
@@ -657,9 +659,9 @@ No podrán reunirse dos o más de estos Poderes en una sola persona, asamblea o 
 
 La ley regulará los procedimientos participativos de referendo, plebiscito, consulta popular y revocación de mandato. En el ámbito estatal, los procedimientos de plebiscito y referendo tendrán como base el proceso legislativo, en tanto la consulta popular y la revocación de mandato el voto universal, libre, directo, secreto, personal e intransferible; y, en el ámbito municipal el procedimiento tendrá como base el procedimiento edilicio del Cabildo.
 
-> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 2016)</small>
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 2026)</small>
 
-Los miembros del Congreso y el Gobernador del Estado tienen derecho de iniciativa en los procedimientos participativos de referendo y plebiscito, así como de solicitar la realización de consultas populares, en términos de esta Constitución y la ley.
+Los miembros del Congreso y la persona titular del Poder Ejecutivo tienen derecho de iniciativa en los procedimientos participativos de referendo y plebiscito, así como de solicitar la realización de consultas populares, en términos de esta Constitución y la ley.
 
 El referendo será obligatorio en los siguientes casos:
 
@@ -861,7 +863,9 @@ III. Residir en el distrito que corresponda o en la circunscripción del Estado,
 
 No podrán ser diputados:
 
-I. El Gobernador;
+> <small>(REFORMADA, G.O. 4 DE MAYO DE 2026)</small>
+
+I. La persona titular del Poder Ejecutivo;
 
 II. Los servidores públicos del Estado o de la Federación, en ejercicio de autoridad;
 
@@ -913,9 +917,9 @@ b) Examinar, discutir y aprobar las leyes de ingresos de los municipios, que sea
 
 c) (DEROGADO, G.O. 17 DE JULIO DE 2015)
 
-> <small>(ADICIONADO, G.O. 23 DE OCTUBRE DE 2018)</small>
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 2026)</small>
 
-d) Recibir el informe anual del Gobernador sobre el estado general que guarda la administración pública estatal.
+d) Recibir el informe anual de la persona titular del Poder Ejecutivo sobre el estado general que guarda la administración pública estatal.
 
 II. (DEROGADA, G.O. 17 DE JULIO DE 2015)
 
@@ -939,7 +943,9 @@ El Congreso se reunirá en sesiones extraordinarias cada vez que:
 
 I. Fuera convocado por la Diputación Permanente; y
 
-II. A petición del Gobernador del Estado, con acuerdo de la Diputación Permanente;
+> <small>(REFORMADA, G.O. 4 DE MAYO DE 2026)</small>
+
+II. A petición de la persona titular del Poder Ejecutivo, con acuerdo de la Diputación Permanente;
 
 Durante estas sesiones, se ocupará exclusivamente de los asuntos comprendidos en la convocatoria y en los que se califiquen de urgentes por el voto de las dos terceras partes de los Diputados presentes.
 
@@ -1021,7 +1027,9 @@ b) Se presentare la renuncia o falta absoluta de la mayoría de los ediles, si c
 
 c) No se hubiere hecho la declaración de validez respectiva, el día último del mes de diciembre inmediato a la elección de los ayuntamientos.
 
-XI. Aprobar, por el voto de las dos terceras partes de sus integrantes, previa opinión del o los ayuntamientos interesados y del Gobernador del Estado, conforme a los requisitos que establezca la ley:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 4 DE MAYO DE 2026)</small>
+
+XI. Aprobar, por el voto de las dos terceras partes de sus integrantes, previa opinión del o los ayuntamientos interesados y de la persona titular del Poder Ejecutivo, conforme a los requisitos que establezca la ley:
 
 a) La fijación del territorio, límites y extensión que corresponda a cada municipio;
 
@@ -1117,9 +1125,9 @@ XXI. Conceder al o la Gobernadora, a las diputaciones, licencia temporal para se
 
 XXII. Resolver sobre la renuncia que presenten el o la Gobernadora, Magistradas, Magistrados, Juezas, Jueces y del integrante del órgano de administración judicial que hubiese designado;
 
-> <small>(REFORMADA, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADA, G.O. 4 DE MAYO DE 2026)</small>
 
-XXIII. Constituirse en Colegio Electoral y elegir al ciudadano que deba sustituir al Gobernador del Estado, en los casos previstos por esta Constitución;
+XXIII. Constituirse en Colegio Electoral y elegir al ciudadano que deba sustituir a la persona titular del Poder Ejecutivo, en los casos previstos por esta Constitución;
 
 XXIV. Convocar a elecciones extraordinarias si faltaren a la vez un diputado propietario y su suplente en el distrito electoral que corresponda, cuando dicha falta suceda antes de un año para que las ordinarias se efectúen;
 
@@ -1157,7 +1165,9 @@ XXIX. Revisar las Cuentas Públicas de los entes fiscalizables del año anterior
 
 La revisión de las cuentas públicas la realizará el Congreso, con el apoyo del Órgano de Fiscalización Superior del Estado, de conformidad con lo establecido en las leyes aplicables. Si del examen que éste realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la ley. En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, dicha autoridad sólo podrá emitir las recomendaciones para la mejora en el desempeño de éstos, en los términos de la ley.
 
-Los entes fiscalizables deberán presentar las Cuentas Públicas del año anterior al Congreso del Estado, a más tardar el día treinta de abril. Sólo se podrá ampliar el plazo de presentación de la Cuenta Pública del Gobierno del Estado, hasta por treinta días naturales, mediante solicitud del Gobernador y con autorización del Congreso, pudiendo, en su caso, comparecer el Secretario de Despacho correspondiente;
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 2026)</small>
+
+Los entes fiscalizables deberán presentar las Cuentas Públicas del año anterior al Congreso del Estado, a más tardar el día treinta de abril. Sólo se podrá ampliar el plazo de presentación de la Cuenta Pública del Gobierno del Estado, hasta por treinta días naturales, mediante solicitud de la persona titular del Poder Ejecutivo y con autorización del Congreso, pudiendo, en su caso, comparecer el Secretario de Despacho correspondiente;
 
 > <small>(REFORMADA, G.O. 2 DE OCTUBRE DE 2017)</small>
 
@@ -1259,7 +1269,9 @@ I. A los diputados del Congreso del Estado;
 
 II. A los diputados y senadores al Congreso de la Unión que se encuentren en funciones, y hayan sido electos en el Estado;
 
-III. Al Gobernador del Estado;
+> <small>(REFORMADA, G.O. 4 DE MAYO DE 2026)</small>
+
+III. A la persona titular del Poder Ejecutivo;
 
 IV. Al Tribunal Superior de Justicia, en todo lo relacionado con la organización y funcionamiento de la impartición y la administración de justicia;
 
@@ -1289,9 +1301,9 @@ I. Turno a Comisiones;
 
 II. Dictamen de comisiones;
 
-> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADA, G.O. 4 DE MAYO DE 2026)</small>
 
-III. Discusión del dictamen en el pleno del Congreso, a la cual podrá asistir el Gobernador o quien él designe, para hacer las aclaraciones que considere necesarias;
+III. Discusión del dictamen en el pleno del Congreso, a la cual podrá asistir la persona titular del Poder Ejecutivo, o quien ésta designe, para hacer las aclaraciones que considere necesarias;
 
 > <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -1317,7 +1329,9 @@ Se considerará aprobado por el Ejecutivo la Ley o Decreto no devuelto con obser
 
 Los plazos a que se refiere el párrafo anterior no se interrumpirán si el Congreso hubiere cerrado o suspendido sus sesiones, en cuyo caso la devolución deberá hacerse a la Diputación Permanente.
 
-La Ley o Decreto devuelto con observaciones formuladas por el Ejecutivo será discutido nuevamente por el Congreso en un plazo no mayor a quince días, contado a partir de su recepción. En este debate podrá intervenir el Gobernador del Estado o quien él designe, para motivar y fundar las observaciones y responder a las cuestiones que sobre el particular formulen los diputados. Si la Ley o el Decreto son confirmados por el voto de las dos terceras partes de los diputados presentes, será reenviado al Ejecutivo para su promulgación y publicación.
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 2026)</small>
+
+La Ley o Decreto devuelto con observaciones formuladas por el Ejecutivo será discutido nuevamente por el Congreso en un plazo no mayor a quince días, contado a partir de su recepción. En este debate podrá intervenir la persona titular del Poder Ejecutivo o quien ésta designe, para motivar y fundar las observaciones y responder a las cuestiones que sobre el particular formulen los diputados. Si la Ley o el Decreto son confirmados por el voto de las dos terceras partes de los diputados presentes, será reenviado al Ejecutivo para su promulgación y publicación.
 
 Si las observaciones del Ejecutivo contuvieren una propuesta modificatoria a la Ley o Decreto, el Congreso podrá aprobarla con la misma votación señalada en el párrafo anterior.
 
@@ -1333,23 +1347,35 @@ Desechada alguna iniciativa de ley o decreto, no podrá ser propuesta de nuevo e
 
 Las resoluciones del Congreso tendrán el carácter de ley, decreto, acuerdo o iniciativa ante el Congreso de la Unión.
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE MAYO DE 2026)</small>
 
 ###### Artículo 39.
 
-El Gobernador del Estado no podrá hacer observaciones a las siguientes resoluciones del Congreso:
+La persona titular del Poder Ejecutivo no podrá hacer observaciones a las siguientes resoluciones del Congreso:
+
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
 
 I. Las que dicte como integrante del Constituyente Permanente en el orden federal o cuando ejerza funciones de Colegio Electoral;
 
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
+
 II. La declaratoria de reformas a esta Constitución;
+
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
 
 III. Acuerdos;
 
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
+
 IV. Las pronunciadas en un juicio político o en declaración de procedencia para acusar a algún servidor público como presunto responsable de la comisión de algún delito;
+
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
 
 V. Al decreto de convocatoria de la Diputación Permanente a período de sesiones extraordinarias; y
 
-VI. Las relativas a la licencia temporal o renuncia del Gobernador del Estado o de los magistrados del Poder Judicial.
+> <small>(REFORMADA, G.O. 4 DE MAYO DE 2026)</small>
+
+VI. Las relativas a la licencia temporal o renuncia de la persona titular del Poder Ejecutivo o de los magistrados del Poder Judicial.
 
 > <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -1371,7 +1397,9 @@ La Diputación Permanente funcionará durante los recesos del Congreso y, en el 
 
 Son atribuciones de la Diputación Permanente:
 
-I. Acordar por sí misma o a solicitud del Gobernador del Estado, la convocatoria al Congreso para llevar a cabo períodos de sesiones extraordinarias;
+> <small>(REFORMADA, G.O. 4 DE MAYO DE 2026)</small>
+
+I. Acordar por sí misma o a solicitud de la persona titular del Poder Ejecutivo, la convocatoria al Congreso para llevar a cabo períodos de sesiones extraordinarias;
 
 > <small>(ADICIONADO, G.O. 17 DE JULIO DE 2015)</small>
 
@@ -1419,27 +1447,39 @@ XI. Las demás que le confiera expresamente esta Constitución.
 
 ### CAPÍTULO III. DEL PODER EJECUTIVO
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 2026)</small>
 
 ###### Artículo 42.
 
-El Poder Ejecutivo se deposita en un solo individuo, denominado: Gobernador del Estado.
+El Poder Ejecutivo se deposita en una sola persona, denominada: Gobernadora o Gobernador del Estado.
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE MAYO DE 2026)</small>
 
 ###### Artículo 43.
 
-Para ser Gobernador del Estado se requiere:
+Para ser Gobernadora o Gobernador del Estado se requiere:
 
-I. Ser veracruzano en pleno ejercicio de sus derechos;
+> <small>(REFORMADA, G.O. 4 DE MAYO DE 2026)</small>
+
+I. Ser veracruzana o veracruzano en pleno ejercicio de sus derechos;
+
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
 
 II. Contar con residencia efectiva en la Entidad de cinco años inmediatos anteriores al día de la elección;
 
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
+
 III. Tener por lo menos treinta años cumplidos al día de la elección;
 
-IV. No ser servidor público del Estado o de la Federación en ejercicio de autoridad. Este requisito no se exigirá al Gobernador interino ni al sustituto;
+> <small>(REFORMADA, G.O. 4 DE MAYO DE 2026)</small>
+
+IV. No ser persona servidora pública del Estado o de la Federación en ejercicio de autoridad. Este requisito no se exigirá a quien ejerza la titularidad del Poder Ejecutivo con carácter de interino o sustituto;
+
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
 
 V. No ser militar en servicio activo o con mando de fuerzas;
+
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
 
 VI. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se separe de su ministerio conforme a lo establecido por la Constitución Federal y la ley de la materia; y
 
@@ -1451,6 +1491,8 @@ VII. Saber leer y escribir y no tener antecedentes penales por la comisión de d
 
 VIII. No incurrir en alguno de los impedimentos señalados en el artículo 18 Bis de esta Constitución.
 
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+
 La prohibición para los servidores públicos mencionados en las fracciones IV y V, no surtirá efectos si se separan de sus cargos noventa días naturales anteriores al día de la elección, o a partir del quinto día posterior a la publicación de la convocatoria para la elección extraordinaria.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE OCTUBRE DE 2024)</small>
@@ -1459,25 +1501,25 @@ La prohibición para los servidores públicos mencionados en las fracciones IV y
 
 La Gobernadora o el Gobernador del Estado durará en su cargo seis años, con excepción del caso en que sea declarada procedente la revocación de mandato, en los términos de esta Constitución. Comenzará a ejercer sus funciones el día treinta de septiembre siguiente a la fecha de su elección.
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 2026)</small>
 
-El Gobernador del Estado cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aun con el carácter de interino, provisional, sustituto o encargado del despacho.
+La persona titular del Poder Ejecutivo del Estado cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aun con el carácter de interinato, provisionalidad, sustitución o encargo del despacho.
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 2026)</small>
 
-El cargo de Gobernador del Estado sólo es renunciable por causa grave, que calificará el Congreso del Estado.
+El cargo de la persona titular del Poder Ejecutivo del Estado sólo es renunciable por causa grave, que calificará el Congreso del Estado.
 
-> <small>(REFORMADO, G.O. 18 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 2026)</small>
 
 ###### Artículo 45.
 
-El Gobernador, en el acto de toma de posesión de su cargo, rendirá formal protesta ante el Congreso del Estado, ante la Diputación Permanente en los recesos de aquél, o, en su caso, ante el Presidente del Tribunal Superior de Justicia, en los términos siguientes: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado y las Leyes que de ambas emanen, y desempeñar leal y patrióticamente el cargo de Gobernador que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Nación y del Estado de Veracruz de Ignacio de la Llave; y si así no lo hiciere, que la Nación y el Estado me lo demanden".
+La persona titular del Poder Ejecutivo, en el acto de toma de posesión de su cargo, rendirá formal protesta ante el Congreso del Estado, ante la Diputación Permanente en los recesos de aquél, o, en su caso, ante el Presidente del Tribunal Superior de Justicia, en los términos siguientes: "Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado y las Leyes que de ambas emanen, y desempeñar leal y patrióticamente el cargo de Gobernadora o Gobernador que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Nación y del Estado de Veracruz de Ignacio de la Llave; y si así no lo hiciere, que la Nación y el Estado me lo demanden".
 
-> <small>(REFORMADO, G.O. 14 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 2026)</small>
 
 ###### Artículo 46.
 
-Si al iniciar en (sic) período constitucional no se presentare el Gobernador electo o la elección no estuviere hecha o declarada válida, cesará en sus funciones el Gobernador cuyo período haya concluido, encargándose desde luego del Poder Ejecutivo, en calidad de Gobernador interino, a quien designe el Congreso, y este convocará de inmediato a elecciones extraordinarias, las cuales deberán realizarse en un plazo no mayor de doce meses a partir del inicio del período constitucional.
+Si al iniciar el período constitucional no se presentare la persona titular del Poder Ejecutivo electa o la elección no estuviere hecha o declarada válida, cesará en sus funciones la persona titular del Poder Ejecutivo cuyo período haya concluido, encargándose desde luego del Poder Ejecutivo; en calidad de Gobernadora interina o Gobernador interino, la persona que designe el Congreso, y éste convocará de inmediato a elecciones extraordinarias, las cuales deberán realizarse en un plazo no mayor de doce meses a partir del inicio del período constitucional.
 
 > <small>(REFORMADO, G.O. 18 DE NOVIEMBRE DE 2021)</small>
 
@@ -1495,33 +1537,47 @@ La persona que hubiere sido designada Gobernadora o Gobernador provisional para 
 
 La Gobernadora sustituta o Gobernador sustituto, la interina o interino, la o el provisional o la persona, que bajo cualquier denominación hubiere sido designada Gobernadora o Gobernador, para concluir el período en caso de falta absoluta del Constitucional o que supla las faltas temporales de éste, no podrá ser elegible para el período inmediato siempre que desempeñe el cargo los dos últimos años del período.
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE MAYO DE 2026)</small>
 
 ###### Artículo 48.
 
-En las ausencias o faltas temporales del Gobernador del Estado, se observarán las disposiciones siguientes:
+En las ausencias o faltas temporales de la persona titular del Poder Ejecutivo, se observarán las disposiciones siguientes:
+
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
 
 I. Podrá ausentarse hasta por diez días naturales, sin necesidad de dar aviso al Congreso, quedando encargado del despacho el Secretario de Gobierno;
 
-II. Si la ausencia excediere de diez días, pero no de treinta, el Gobernador deberá dar aviso al Congreso o, en los recesos de éste, a la Diputación Permanente, en cuyo caso quedará encargado del despacho el Secretario de Gobierno;
+> <small>(REFORMADA, G.O. 4 DE MAYO DE 2026)</small>
 
-III. Si la ausencia es mayor de treinta días naturales, el Gobernador deberá obtener la licencia correspondiente del Congreso o, en los recesos de éste, de la Diputación Permanente, quienes designarán, según el caso, un Gobernador Interino para que funcione durante el tiempo que dure dicha ausencia;
+II. Si la ausencia excediere de diez días, pero no de treinta, la persona titular del Poder Ejecutivo deberá dar aviso al Congreso o, en los recesos de éste, a la Diputación Permanente, en cuyo caso quedará encargado del despacho el Secretario de Gobierno;
+
+> <small>(REFORMADA, G.O. 4 DE MAYO DE 2026)</small>
+
+III. Si la ausencia es mayor de treinta días naturales, la persona titular del Poder Ejecutivo deberá obtener la licencia correspondiente del Congreso o, en los recesos de éste, de la Diputación Permanente, quienes designarán, según el caso, una Gobernadora interina o un Gobernador interino para que funcione durante el tiempo que dure dicha ausencia;
+
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
 
 IV. Si la falta, de temporal se convirtiere en absoluta, se procederá como lo dispone el artículo 47; y
 
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
+
 V. Nunca se concederá al Ejecutivo licencia con el carácter de indefinida, ni tampoco por un tiempo mayor de noventa días naturales.
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE MAYO DE 2026)</small>
 
 ###### Artículo 49.
 
-Son atribuciones del Gobernador del Estado:
+Son atribuciones de la persona titular del Poder Ejecutivo:
+
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
 
 I. Cumplir y hacer cumplir la Constitución y las leyes federales, los tratados internacionales, esta Constitución y las leyes que de ella emanen;
 
 > <small>(REFORMADA, G.O. 18 DE MARZO DE 2003)</small>
 
 II. Promulgar, publicar y ejecutar las leyes o decretos aprobados por el Congreso;
+
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
 
 III. Expedir los reglamentos necesarios para la ejecución y cumplimiento de las leyes y decretos aprobados por el Congreso;
 
@@ -1537,17 +1593,31 @@ V. Promover y fomentar, por todos los medios posibles, la educación pública, l
 
 VI. Presentar al Congreso del Estado el presupuesto de egresos del año siguiente, proponiendo los ingresos necesarios para cubrirlos, atendiendo a los términos establecidos por el artículo 26, fracción I, inciso a) de esta Constitución;
 
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
+
 VII. Realizar las gestiones necesarias ante el Gobierno Federal a fin de que las transferencias de recursos que se le otorguen al Estado sean proporcionales y acordes a su densidad poblacional y extensión territorial, a efecto de lograr la equidad en la distribución de las mismas;
+
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
 
 VIII. Cuidar de que los fondos públicos estén bien asegurados, y que su recaudación y distribución se hagan con arreglo a la ley;
 
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
+
 IX. Solicitar a la Diputación Permanente que convoque al Congreso a sesiones extraordinarias, expresando el objeto de ellas;
+
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
 
 X. Planear y conducir el desarrollo integral del Estado en la esfera de su competencia; establecer los procedimientos de consulta popular para formular, instrumentar, ejecutar, controlar y evaluar el Plan Veracruzano de Desarrollo y los programas que de éste se deriven;
 
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
+
 XI. Convocar, en los términos que establezcan esta Constitución y la ley, a referendo o plebiscito, cuyos resultados serán obligatorios para las autoridades del Estado;
 
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
+
 XII. Disponer en caso de alteración del orden o peligro público, con autorización del Congreso o, en su caso, de la Diputación Permanente, con la aprobación de las dos terceras partes del total de los diputados, las medidas extraordinarias que fueren necesarias para hacer frente a la situación;
+
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
 
 XIII. Hacer cumplir los fallos y sentencias de los tribunales y prestar a éstos el auxilio que necesiten para el ejercicio expedito de sus funciones;
 
@@ -1555,15 +1625,27 @@ XIII. Hacer cumplir los fallos y sentencias de los tribunales y prestar a éstos
 
 XIV. Nombrar, considerando para ello el principio de paridad de género, y remover libremente a las y los servidores públicos de la administración pública, cuyo nombramiento o remoción no estén determinados en otra forma por esta Constitución y por las leyes.
 
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
+
 XV. Proponer al Congreso la suspensión o revocación del mandato de uno o más ediles, así como la suspensión o desaparición de uno o más Ayuntamientos;
+
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
 
 XVI. Vigilar que los recursos naturales sean utilizados en forma racional, estableciendo en la esfera de su competencia políticas adecuadas y las normas tendientes a su cuidado, preservación y óptimo aprovechamiento;
 
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
+
 XVII. Celebrar, en su calidad de representante del Gobierno del Estado y con observancia de lo dispuesto en la ley, convenios y contratos en los diversos ramos de la administración pública, con los gobiernos federal, estatales o municipales, así como con entidades descentralizadas de estos niveles de gobierno y personas físicas o morales de carácter público o privado;
+
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
 
 XVIII. Representar al Estado, para efectos de lo dispuesto por la fracción I del Artículo 105 de la Constitución Federal;
 
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
+
 XIX. Convenir con los municipios, previo acuerdo de sus respectivos Ayuntamientos, para que el Estado se haga cargo de alguna o algunas de las funciones relacionadas con la administración y recaudación de los impuestos, derechos, aprovechamientos, participaciones, contribuciones o cualquier otro tipo de ingresos fiscales que deban recibir los municipios; o para la ejecución y operación de obras y la prestación de servicios públicos que deban suministrar los Ayuntamientos; y convenir para que éstos se hagan cargo de alguna o algunas de las funciones, o de la ejecución y operación de obras y la prestación de servicios públicos que correspondan al Estado;
+
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
 
 XX. Conceder el indulto a los reos sentenciados por los tribunales del Estado, conforme a la ley;
 
@@ -1572,6 +1654,8 @@ XX. Conceder el indulto a los reos sentenciados por los tribunales del Estado, c
 XXI. Presentar ante el Congreso del Estado, el día diez de septiembre de cada año, un informe escrito acerca del estado que guarda la administración pública. El Congreso realizará el análisis del informe y citará a las y los secretarios de despacho o equivalentes, quienes comparecerán y rendirán informes bajo protesta de decir verdad.
 
 Concluida la comparecencia de las y los secretarios de despacho o equivalentes, la Gobernadora o el Gobernador comparecerá ante el Pleno del Congreso a responder las preguntas que le formulen las y los diputados.
+
+> <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
 
 XXII. Comprometer el crédito del Estado, previa autorización del Congreso, en los términos de esta Constitución y la ley; y
 
@@ -1611,11 +1695,11 @@ Para el nombramiento o designación de las personas titulares de las dependencia
 
 Los titulares de las dependencias y entidades de la administración pública podrán, con autorización escrita del Ejecutivo, celebrar acuerdos y convenios en el ámbito de su competencia
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 2026)</small>
 
 ###### Artículo 51.
 
-Los titulares de las dependencias y entidades de la administración pública, comparecerán ante el Congreso, a convocatoria expresa de éste, por conducto del Gobernador, para dar cuenta del estado que guardan las dependencias y entidades a su cargo, así como cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades.
+Los titulares de las dependencias y entidades de la administración pública comparecerán ante el Congreso, a convocatoria expresa de éste, por conducto de la persona titular del Poder Ejecutivo, para dar cuenta del estado que guardan las dependencias y entidades a su cargo, así como cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades.
 
 > <small>(REFORMADA, G.O. 3 DE FEBRERO DE 2000)</small>
 
@@ -1895,7 +1979,9 @@ I. Conocer y resolver, en los términos de la ley respectiva, del juicio de prot
 
 a) El Congreso del Estado;
 
-b) El Gobernador del Estado; y
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 2026)</small>
+
+b) La persona titular del Poder Ejecutivo; y
 
 c) Los titulares de las dependencias o entidades de la administración pública estatal, municipal y de los organismos autónomos de Estado.
 
@@ -1927,7 +2013,9 @@ Siempre que las controversias versen sobre disposiciones generales de los Podere
 
 II. De las acciones de inconstitucionalidad en contra de leyes o decretos que se consideren contrarios a esta Constitución, y que se ejerciten dentro de los treinta días siguientes a su promulgación y publicación por:
 
-a) El Gobernador del Estado; o
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 2026)</small>
+
+a) La persona titular del Poder Ejecutivo; o
 
 b) Cuando menos la tercera parte de los miembros del Congreso.
 
@@ -1935,7 +2023,9 @@ Las resoluciones dictadas tendrán efectos generales cuando hubieren sido aproba
 
 III. De las acciones por omisión legislativa, cuando se considere que el Congreso no ha aprobado alguna ley o decreto y que dicha omisión afecte el debido cumplimiento de esta Constitución, que interponga:
 
-a) El Gobernador del Estado; o
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 2026)</small>
+
+a) La persona titular del Poder Ejecutivo; o
 
 b) Cuando menos la tercera parte de los ayuntamientos.
 
@@ -2035,9 +2125,9 @@ El Tribunal contará con el personal jurídico y administrativo necesario para s
 
 El sistema de medios de impugnación dará certeza y definitividad a las distintas etapas de los procesos electorales estatales y municipales, incluidos los de agentes y subagentes municipales, así como de los procedimientos de plebiscito, referendo, consulta popular y revocación de mandato.
 
-> <small>(REFORMADO, G.O. 27 DE DICIEMBRE DE 2024)</small>
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 2026)</small>
 
-La ley fijará las causas de nulidad de las elecciones de Gobernador, Diputados, personas juzgadoras del Poder Judicial y Ediles, así como los plazos para el desahogo de todas las instancias impugnativas.
+La ley fijará las causas de nulidad de las elecciones de la persona titular del Poder Ejecutivo, diputados y ediles, así como los plazos para el desahogo de todas las instancias impugnativas.
 
 (NOTA: EL 23 DE NOVIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS APARTADOS VIII Y IX, ASÍ COMO EN LOS RESOLUTIVOS SEGUNDO Y TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 148/2020 Y SUS ACUMULADAS 150/2020, 152/2020, 153/2020, 154/2020, 229/2020, 230/2020 Y 252/2020, DECLARÓ LA INVALIDEZ DEL DECRETO NÚMERO 576 POR EL QUE SE ADICIONA EL NOVENO PÁRRAFO DEL APARTADO B DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 24 DE NOVIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
@@ -2057,7 +2147,9 @@ C) SE RECIBAN O UTILICEN RECURSOS DE PROCEDENCIA ILÍCITA O RECURSOS PÚBLICOS E
 
 DICHAS VIOLACIONES DEBERÁN ACREDITARSE DE MANERA OBJETIVA Y MATERIAL. SE PRESUMIRÁ QUE LAS VIOLACIONES SON DETERMINANTES CUANDO LA DIFERENCIA ENTRE LA VOTACIÓN OBTENIDA ENTRE EL PRIMERO Y EL SEGUNDO LUGAR SEA MENOR AL CINCO POR CIENTO. EN CASO DE NULIDAD DE LA ELECCIÓN, SE CONVOCARÁ A UNA ELECCIÓN EXTRAORDINARIA, EN LA QUE NO PODRÁ PARTICIPAR LA PERSONA SANCIONADA.
 
-Asimismo, los supuestos y las reglas para la realización, en los ámbitos administrativo y jurisdiccional, de recuentos totales o parciales de votación y, en su caso, la declaración de validez y el otorgamiento de constancias en las elecciones de diputados y ediles, así como el cómputo de la elección de gobernador.
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 2026)</small>
+
+Asimismo, los supuestos y las reglas para la realización, en los ámbitos administrativo y jurisdiccional, de recuentos totales o parciales de votación y, en su caso, la declaración de validez y el otorgamiento de constancias en las elecciones de diputados y ediles, así como el cómputo de la elección de la persona titular del Poder Ejecutivo.
 
 > <small>(REFORMADO, G.O. 18 DE NOVIEMBRE DE 2021)</small>
 
@@ -2263,7 +2355,9 @@ a) La Comisión estará facultada para:
 
 b) La Comisión se integrará por: Cuatro periodistas; dos propietarios o directivos de medios de comunicación; dos representantes de organizaciones no gubernamentales y un académico dedicado a tareas de enseñanza, difusión o investigación, quienes tendrán el carácter de comisionados; y un secretario ejecutivo, que participará en las sesiones de la misma con voz pero sin voto, al igual que los titulares de las dependencias responsables de la comunicación social y de la procuración de justicia en la administración pública estatal.
 
-c) Los comisionados y el secretario ejecutivo serán nombrados por el Congreso del Estado, con el voto de las dos terceras partes de los diputados presentes, a propuesta del Gobernador del Estado, y durarán en su encargo cuatro años con posibilidad de reelección por una sola vez. La Ley señalará el procedimiento para la designación del Presidente de la Comisión, así como las atribuciones de éste, de los demás comisionados y del secretario ejecutivo.
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 2026)</small>
+
+c) Los comisionados y el secretario ejecutivo serán nombrados por el Congreso del Estado, con el voto de las dos terceras partes de los diputados presentes, a propuesta de la persona titular del Poder Ejecutivo, y durarán en su encargo cuatro años con posibilidad de reelección por una sola vez. La Ley señalará el procedimiento para la designación del Presidente de la Comisión, así como las atribuciones de éste, de los demás comisionados y del secretario ejecutivo.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2022)</small>
 
@@ -2281,9 +2375,9 @@ El Tribunal ejercerá sus funciones bajo los principios de autonomía, legalidad
 
 El Tribunal funcionará con un Pleno, una Sala Superior y Salas Regionales Unitarias, de conformidad con lo dispuesto en la Ley, y se integrará por seis magistraturas.
 
-> <small>(ADICIONADO, G.O. 2 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 2026)</small>
 
-Los Magistrados del Tribunal serán nombrados por el Congreso a propuesta del Gobernador, durarán en su encargo diez años improrrogables y sólo serán removidos de conformidad con lo dispuesto por esta Constitución y la ley.
+Los Magistrados del Tribunal serán nombrados por el Congreso a propuesta de la persona titular del Poder Ejecutivo, durarán en su encargo diez años improrrogables y sólo serán removidos de conformidad con lo dispuesto por esta Constitución y la ley.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 19 DE DICIEMBRE DE 2022)</small>
 
@@ -2467,9 +2561,9 @@ XIII. Los procedimientos administrativos se ajustarán a los principios de igual
 
 XIV. Para dictar disposiciones que afecten al patrimonio inmobiliario municipal, o para celebrar actos o convenios que comprometan al municipio para un plazo mayor al período del ayuntamiento, se requiere el acuerdo de las dos terceras partes de los miembros del mismo;
 
-> <small>(REFORMADA, G.O. 11 DE MAYO DE 2020)</small>
+> <small>(REFORMADA, G.O. 4 DE MAYO DE 2026)</small>
 
-XV. La policía municipal preventiva estará bajo el mando del presidente municipal, en términos del reglamento correspondiente. Dicha policía acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público;
+XV. La policía municipal preventiva estará bajo el mando del presidente municipal, en términos del reglamento correspondiente. Dicha policía acatará las órdenes que la persona titular del Poder Ejecutivo le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público;
 
 > <small>(REFORMADA, G.O. 28 DE ENERO DE 2026)</small>
 
@@ -2553,11 +2647,13 @@ Por su contribución al desarrollo, el turismo es una actividad prioritaria, por
 
 Asimismo, corresponde a las autoridades del Estado velar por la estabilidad de las finanzas públicas y del sistema financiero para coadyuvar a generar condiciones favorables para el crecimiento económico y el empleo. El Plan Estatal de Desarrollo y los planes municipales deberán observar dicho principio.
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE MAYO DE 2026)</small>
 
 ###### Artículo 75.
 
-El Gobernador del Estado organizará un sistema de planeación democrática para el desarrollo integral del Estado, que aliente y proteja la actividad económica de los particulares y del sector social, en los términos de esta Constitución y las leyes.
+La persona titular del Poder Ejecutivo organizará un sistema de planeación democrática para el desarrollo integral del Estado, que aliente y proteja la actividad económica de los particulares y del sector social, en los términos de esta Constitución y las leyes.
+
+> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
 Las autoridades participarán en la regulación, definición y determinación de los derechos de propiedad, así como de la posesión, con base en los principios de interés público y beneficio social; tales acciones tendrán como finalidad primordial el desarrollo económico equitativo y productivo en el Estado.
 
@@ -2701,13 +2797,13 @@ En el Estado de Veracruz, la Constitución y leyes federales, los tratados inter
 
 ### CAPÍTULO II. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
+> <small>(REFORMADO, G.O. 4 DE MAYO DE 2026)</small>
 
 ###### Artículo 81.
 
-Cuando por circunstancias imprevistas no pueda instalarse el Congreso o el Gobernador tomar posesión de su cargo el día fijado por esta Constitución, el Congreso que esté funcionando o la Diputación Permanente, señalará el nuevo día en que deban verificarse dichos actos.
+Cuando por circunstancias imprevistas no pueda instalarse el Congreso o, la persona titular del Poder Ejecutivo no pueda tomar posesión de su cargo el día fijado por esta Constitución, el Congreso que esté funcionando o la Diputación Permanente, señalará el nuevo día en que deban verificarse dichos actos.
 
-Si el día que el Gobernador deba iniciar el ejercicio de sus funciones el Congreso del Estado no estuviere instalado, aquél rendirá protesta de inmediato ante el Presidente del Tribunal Superior de Justicia del Estado.
+Si el día que la persona titular del Poder Ejecutivo deba iniciar el ejercicio de sus funciones el Congreso del Estado no estuviere instalado, rendirá protesta de inmediato ante el Presidente del Tribunal Superior de Justicia del Estado.
 
 > <small>(REFORMADO, G.O. 20 DE MAYO DE 2011)</small>
 
@@ -2721,9 +2817,13 @@ Dicha remuneración será determinada anual y equitativamente en los presupuesto
 
 I. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
 
-II. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la del Presidente de la República, establecidas éstas en los presupuestos de egresos correspondientes. Ningún servidor público de la administración pública estatal podrá recibir remuneración mayor a la del Gobernador del Estado.
+> <small>(REFORMADA, G.O. 4 DE MAYO DE 2026)</small>
 
-III. Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico, salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivada de un trabajo técnico calificado o por especialización en su función; la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Presidente de la República ni de la mitad de la señalada para el Gobernador del Estado, en los presupuestos correspondientes.
+II. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la del Presidente de la República, establecidas estas en los presupuestos de egresos correspondientes. Ningún servidor público de la administración pública estatal podrá recibir remuneración mayor a la persona titular del Poder Ejecutivo.
+
+> <small>(REFORMADA, G.O. 4 DE MAYO DE 2026)</small>
+
+III. Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico, salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivada de un trabajo técnico calificado o por especialización en su función; la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para la persona titular del Poder Ejecutivo Federal ni de la mitad de la señalada para la persona titular del Poder Ejecutivo del Estado, en los presupuestos correspondientes.
 
 IV. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que se encuentren asignados por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado.
 
@@ -4488,3 +4588,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Los municipios del Estado de Veracruz de Ignacio de la Llave contarán con un plazo de ciento ochenta días para que sus Ayuntamientos actualicen su normatividad interna, bandos de policía y buen gobierno, reglamentos, y para la capacitación de su personal, garantizando la correcta aplicación del presente Decreto.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 4 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 508 QUE REFORMA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
