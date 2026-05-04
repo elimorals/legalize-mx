@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-desarrollo-social-para-el-estado-de-nuevo-leon-52035"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-16"
-last_updated: "2026-04-27"
+last_updated: "2026-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52035&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 16 de octubre de 2006.
 
@@ -325,11 +325,9 @@ III. La inclusión de unidades administrativas responsables de la operación de 
 
 IV. Las reglas de operación y términos de referencia para la implementación, seguimiento y evaluación de los programas para el desarrollo social.
 
-> <small>(ADICIONADO, P.O. 10 DE JUNIO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MAYO DE 2026)</small>
 
-###### Artículo 19 Bis.
-
-El Estado y los Municipios podrán implementar campañas de difusión con el objeto de informar a la población del contenido, reglas de operación y beneficios de los programas de desarrollo social que se apliquen en el Estado.
+Artículo. 19 Bis. El Estado y los Municipios podrán implementar campañas de difusión con el objeto de informar a la población del contenido, reglas de operación y beneficios de los programas de desarrollo social que se apliquen en el Estado, asimismo, dicho contenido, deberá ser publicado en el Periódico Oficial del Estado de Nuevo León o Gaceta Municipal correspondiente.
 
 > <small>(ADICIONADO, P.O. 8 DE NOVIEMBRE DE 2023)</small>
 
@@ -391,9 +389,11 @@ Los programas de desarrollo social, deberán garantizar la progresividad y el ej
 
 Toda persona o grupo social en situación de vulnerabilidad podrá solicitar acciones y apoyos tendientes a disminuir su desventaja.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE MAYO DE 2026)</small>
+
 ###### Artículo 28.
 
-Los beneficiarios de los Programas Sociales podrán:
+Los beneficiarios de los Programas Sociales tendrán los siguientes derechos:
 
 I. Participar y acceder a los Programas Sociales;
 
@@ -411,9 +411,21 @@ III. Recibir los servicios y prestaciones de los programas conforme a sus lineam
 
 En el caso de las personas adultas mayores recibir los apoyos de los programas en sus domicilios;
 
-IV. Participar de manera corresponsable en los Programas de Desarrollo Social; y
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2026)</small>
 
-V. Los demás que establezcan los planes y programas de Desarrollo Social, así como otras disposiciones legales.
+IV. Participar de manera corresponsable en los Programas de Desarrollo Social;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 4 DE MAYO DE 2026)</small>
+
+V. Recibir un trato respetuoso, oportuno y con calidad;
+
+> <small>(ADICIONADA, P.O. 4 DE MAYO DE 2026)</small>
+
+VI. Ser acreedor a la reserva y privacidad de la información personal conforme a la normatividad aplicable; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE MAYO DE 2026)</small>
+
+VII. Los demás que establezcan los planes y programas de Desarrollo Social, así como otras disposiciones legales.
 
 ###### Artículo 29.
 
@@ -575,9 +587,11 @@ Los académicos e investigadores que integren este grupo lo harán con carácter
 
 ### CAPÍTULO I. DE LA DENUNCIA POPULAR
 
+> <small>(REFORMADO, P.O. 4 DE MAYO DE 2026)</small>
+
 ###### Artículo 51.
 
-Cualquier persona podrá denunciar por escrito ante el Estado, o en su caso ante la autoridad municipal del ramo, los hechos que a su juicio impliquen incumplimiento de obligaciones de las personas o los servidores públicos sujetos al cumplimiento de esta Ley, para que las autoridades competentes determinen si existe o no responsabilidad administrativa, e impongan las sanciones correspondientes en su caso, previo el derecho de audiencia.
+Cualquier persona podrá denunciar por escrito o, a través de los medios digitales habilitados por el Estado, o en su caso ante la autoridad municipal del ramo, los hechos u omisiones que produzcan o puedan producir daños en los derechos establecidos en esta Ley y que a su juicio impliquen incumplimiento de obligaciones de las personas o de las y los servidores públicos sujetos al cumplimiento de esta Ley. Las autoridades competentes determinarán si existe o no responsabilidad administrativa e impondrán las sanciones correspondientes, en su caso, previo el derecho de audiencia.
 
 ###### Artículo 52.
 
@@ -748,5 +762,11 @@ P.O. 17 DE ENERO DE 2024.
 P.O. 27 DE ABRIL DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 201. SE REFORMAN LAS FRACCIONES I Y IL (SIC) Y SE ADICIONA UNA FRACCIÓN III, TODO AL ARTÍCULO 11 DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+P.O. 4 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 200. SE REFORMAN EL ARTÍCULO 19 BIS; EL PRIMER PÁRRAFO Y LA FRACCIÓN V DEL ARTÍCULO 28 Y EL ARTÍCULO 51 Y SE ADICIONAN LAS FRACCIONES VI Y VII AL ARTÍCULO 28, TODO A LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE NUEVO LEÓN”.]
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
