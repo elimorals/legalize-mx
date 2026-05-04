@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-desarrollo-social-para-el-estado-de-aguascalientes-63061
 country: "mx"
 rank: "ley"
 publication_date: "2008-09-08"
-last_updated: "2025-12-22"
+last_updated: "2026-05-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63061&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 8 de septiembre de 2008.
 
@@ -105,9 +105,9 @@ XV. Impulsar la incorporación de la igualdad sustantiva entre mujeres y hombres
 
 XVI. Impulsar el desarrollo social desde las localidades y colonias, como unidades básicas de cambio, donde la familia sea el eje y principio de la política social para el mejoramiento corresponsable de su entorno comunitario;
 
-> <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADA, P.O. 4 DE MAYO DE 2026)</small>
 
-XVII. Diseñar e implementar una política digital que permita mejorar la comunicación y acercar la información a las personas respecto a los Programas Sociales de los que se puedan beneficiar, y
+XVII. Diseñar e implementar una política digital que fortalezca la comunicación y el acceso a la información sobre los programas sociales, e integre acciones y programas destinados a fomentar la inclusión tecnológica de las personas en situación de vulnerabilidad; y
 
 > <small>(ADICIONADAA, P.O. 27 DE NOVIEMBRE DE 2023)</small>
 
@@ -1472,3 +1472,11 @@ P.O. 22 DE DICIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 345.- SE REFORMA LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 4 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 467.- SE REFORMA LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
