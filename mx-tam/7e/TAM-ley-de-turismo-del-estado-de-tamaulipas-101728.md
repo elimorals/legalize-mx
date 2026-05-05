@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-turismo-del-estado-de-tamaulipas-101728"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-03"
-last_updated: "2026-03-17"
+last_updated: "2026-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "TAM"
 ---
 # LEY DE TURISMO DEL ESTADO DE TAMAULIPAS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 5 DE MAYO DE 2026 EN EL P.O. DEL ESTADO DE QUINTANA ROO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE TURISMO DEL ESTADO DE TAMAULIPAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2026.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 5 DE MAYO DE 2026.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 3 de julio de 2014.
 
@@ -1103,9 +1103,9 @@ VIII. Caratula de la póliza de Seguro de responsabilidad civil contratado con u
 
 IX. Los demás establecidas (sic) en la legislación aplicable.
 
-> <small>(ADICIONADO, P.O. 17 DE MARZO DE 2026)</small>
+(ADICIONADO, P.O. 17 DE MARZO DE 2026) (F. DE E., P.O. 5 DE MAYO DE 2026)
 
-ARTÍCULO 61 (SIC) OCTIES.
+ARTÍCULO 68 OCTIES.
 
 1. Las personas físicas o morales mexicanas, extranjeras, que operan, intermedian y/o administran una Plataforma Tecnológica y los intermediarios, en su calidad de gestores o administradores, serán obligados solidarios de los Anfitriones respecto al pago del Impuesto sobre Hospedaje y por aquellas sanciones relacionadas a los servicios de Estancia Turística Eventual que los Anfitriones hayan proporcionado o contratado a través de dicha Plataforma Tecnológica.
 
