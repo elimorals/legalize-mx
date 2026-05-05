@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-conducta-de-las-personas-servidoras-publicas-del-1794
 country: "mx"
 rank: "codigo"
 publication_date: "2025-04-09"
-last_updated: "2025-04-09"
+last_updated: "2026-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=179432&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SLP"
 ---
 # CODIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PUBLICAS DEL INSTITUTO DE FISCALIZACION SUPERIOR DEL ESTADO DE SAN LUIS POTOSI
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL INSTITUTO DE FISCALIZACIÓN SUPERIOR DEL ESTADO, PUBLICADO EN EL P.O. DE 5 DE MAYO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL INSTITUTO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2026 (ABROGADO).
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el miércoles 9 de abril de 2025.
 
@@ -702,3 +704,23 @@ MTRO. RODRIGO JOAQUÍN LECOURTOIS LÓPEZ
 AUDITOR SUPERIOR DEL ESTADO DE SAN LUIS POTOSÍ
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DE LAS PERSONAS SERVIDORAS PÚBLICAS DEL INSTITUTO DE FISCALIZACIÓN SUPERIOR DEL ESTADO”.]
+
+PRIMERO. El presente Acuerdo por el que se emite el Código de Conducta, iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de San Luis Potosí “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que se opongan al presente Acuerdo.
+
+TERCERO. A la entrada en vigor del presente Acuerdo, se abroga el Código de Conducta de las Personas Servidoras Públicas del Instituto de Fiscalización Superior del Estado de San Luis Potosí publicada mediante Acuerdo Administrativo en el Periódico Oficial del Estado, el lunes 09 de abril de 2025.
+
+CUARTO. Los procedimientos legales iniciados con anterioridad a la entrada en vigor del presente Código, se sujetarán a las disposiciones vigentes al momento de haberse iniciado el procedimiento respectivo.
+
+QUINTO. Las personas servidoras públicas titulares de las unidades administrativas del IFSE, deberán hacer del conocimiento del personal adscrito a sus áreas el Código de Conducta.
+
+SEXTO. Difúndase el presente Código en la página de internet del IFSE, así como mediante los mecanismos previstos en el artículo 21 del Código de Ética.
+
+Adicionalmente, las reglas establecidas en el artículo 8 del presente Código, deberán colocarse en las instalaciones del IFSE de manera que estén a la vista de las personas que laboran o prestan servicios dentro del Instituto, así como de las personas usuarias o visitantes, incluyendo la siguiente leyenda: “Cualquier omisión o acción contraria a las reglas de conducta, podrá denunciarse ante el Órgano Interno de Control del IFSE”.
