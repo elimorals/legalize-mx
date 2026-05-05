@@ -4,7 +4,7 @@ identifier: "SLP-codigo-de-etica-para-las-personas-servidoras-publicas-del-17493
 country: "mx"
 rank: "codigo"
 publication_date: "2024-10-30"
-last_updated: "2024-10-30"
+last_updated: "2026-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 CÓDIGO DE ÉTICA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DEL INSTITUTO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2026.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el miércoles 30 de octubre de 2024.
 
@@ -65,23 +65,33 @@ CÓDIGO DE ÉTICA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DEL INSTITUTO DE FISCAL
 
 ### Capítulo I. Disposiciones Generales
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 5 DE MAYO DE 2026)</small>
+
 ###### Artículo 1.
 
-Este Código tiene por objeto direccionar el ejercicio de las funciones de las personas servidoras públicas del Instituto de Fiscalización Superior del Estado con estricto apego a principios y valores institucionales, dotándolos de las herramientas para que presten un servicio ético e integral que responda a las necesidades de la sociedad.
+Este Código de Ética tiene por objeto direccionar el ejercicio de las funciones de las personas servidoras públicas del Instituto de Fiscalización Superior del Estado con estricto apego a principios y valores institucionales, dotándolos de las herramientas para que presten un servicio ético e integral que responda a las necesidades de la sociedad.
 
 ###### Artículo 2.
 
 Este instrumento es de observancia obligatoria y de aplicación general para las personas servidoras públicas de este órgano técnico de fiscalización superior del Congreso del Estado, denominado Instituto de Fiscalización Superior del Estado de San Luis Potosí, en el desempeño de su empleo, cargo o comisión de conformidad con lo establecido en los artículo (sic) 5 de la Ley del Sistema Estatal Anticorrupción, 6 de la Ley de Responsabilidades Administrativas del Estado y Municipios de San Luis Potosí.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 5 DE MAYO DE 2026, PÁGINAS 4 Y 5.]</small>
+
 ###### Artículo 3.
 
 Para los efectos del presente Código se entenderá por:
 
-I. Código de Ética: ordenamiento legal que concentra los principios y valores que rigen el actuar de las personas servidoras públicas del Instituto de Fiscalización Superior del Estado, instrumento al que se refiere el artículo 16 de la Ley de Responsabilidades Administrativas para el Estado.
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2026)</small>
 
-II. Código de Conducta: Instrumento emitido por el Instituto de Fiscalización Superior del Estado, en el que se específica de manera puntual y concreta la forma en que las personas servidoras públicas aplicarán los principios, valores, reglas de integridad y compromisos contenidos en el presente Código de Ética, atendiendo a los objetivos, misión y visión del órgano técnico de fiscalización superior del Congreso de Estado.
+I. Acoso laboral. Forma de violencia que se presenta en una serie de eventos, que tienen como objeto, intimidar, excluir, opacar, amedrentar, o consumir emocional o intelectualmente a la víctima, causando un daño físico, psicológico, económico, laboral o profesional. Se puede presentar en la interacción o por medios escritos o digitales, de forma horizontal o vertical ascendente, ya sea en el centro de trabajo o fuera de éste, siempre que se encuentre vinculado a una relación laboral;
 
-III. Comité de Ética: órgano colegiado encargado de fomentar y vigilar el cumplimiento del Código de Ética y del Código de Conducta.
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2026)</small>
+
+II. Acoso sexual: Forma de violencia de carácter sexual, en la que, si bien no existe una subordinación jerárquica de la víctima frente a la persona agresora, e inclusive puede realizarse de una persona de menor nivel jerárquico hacia alguien de mayor nivel o cargo, hay un ejercicio abusivo de poder por parte de quien la realiza, que conlleva a un estado de indefensión o de riesgo para la víctima. Puede tener lugar entre personas servidoras públicas y de éstas hacia particulares, ocurre sin el consentimiento de la víctima y es expresada en conductas verbales o, de hecho, físicas, digitales o visuales, independientemente de que se realice en uno o varios eventos;
+
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2026)</small>
+
+III. Actuación bajo conflicto de interés: Falta administrativa grave a que se refiere el artículo 58 de la Ley General de Responsabilidades Administrativas, en la que incurre la persona servidora pública cuando interviene, por motivo de su empleo, cargo o comisión en cualquier forma, en la atención, tramitación o resolución de asuntos en los que tenga conflicto de interés o impedimento legal;
 
 IV. IFSE: Instituto de Fiscalización Superior del Estado de San Luis Potosí
 
@@ -89,15 +99,63 @@ V. Órgano Interno de Control: Órgano Interno de Control del Instituto de Fisca
 
 VI. Personas servidoras públicas: Las personas que desempeñan un empleo, cargo o comisión en el Instituto de Fiscalización Superior del Estado, conforme a lo dispuesto en el artículo 124 de la Constitución Política del Estado Libre y Soberano de San Luis Potosí.
 
-VII. Valores: Conjunto de cualidades por las que una persona servidora pública es apreciada o bien considerada en el servicio público.
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2026)</small>
+
+VII. Corrupción: Abuso de cualquier posición de poder, público o privado, con el objetivo de generar un beneficio indebido a costa del interés público;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE MAYO DE 2026)</small>
+
+VIII. Discriminación: Toda distinción, exclusión, restricción o preferencia que, por acción u omisión, con intención o sin ella, no sea objetiva, racional ni proporcional y tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos y libertades, cuando se base en uno o más de los siguientes motivos: origen étnico o nacional, color de piel, cultura, sexo, género, edad, discapacidades, condición social, económica, salud física o mental, jurídica, religión, apariencia física, características genéticas, situación migratoria, embarazo, lengua, opiniones, preferencias sexuales, identidad o filiación política, estado civil, situación familiar, responsabilidades familiares, idioma, antecedentes penales o cualquier otro motivo. También se entenderá como discriminación la homofobia, misoginia, cualquier manifestación de xenofobia, segregación racial, antisemitismo, así como la discriminación racial y otras formas conexas de intolerancia, en términos de las disposiciones jurídicas aplicables;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE MAYO DE 2026)</small>
+
+IX. Hostigamiento laboral: Ejercicio abusivo de poder y forma de violencia en una relación de subordinación de la víctima frente a la persona agresora en el ámbito laboral, que se presenta en una serie de eventos, ya sea en la interacción o por medios escritos o digitales, que tienen como objetivo intimidar, excluir, opacar, amedrentar o consumir emocional o intelectualmente a la víctima, causando un daño físico, psicológico, económico, laboral o profesional;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE MAYO DE 2026)</small>
+
+X. Hostigamiento sexual: Ejercicio abusivo de poder y forma de violencia de carácter sexual en una relación de subordinación de la víctima frente a la persona agresora en los ámbitos laboral, escolar o público, que se expresa en conductas verbales o de hecho, físicas o visuales, independientemente de que se realice en uno o varios eventos, y que ocurren en la interacción o por medios escritos o digitales, relacionados con la sexualidad de connotación lasciva y con la ausencia de consentimiento por parte de la víctima;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE MAYO DE 2026)</small>
+
+XI. Igualdad de género: Situación en la cual mujeres y hombres acceden con las mismas posibilidades y oportunidades al uso, control y beneficio de bienes, servicios y recursos de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política, saludable, cultural y familiar;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE MAYO DE 2026)</small>
+
+XII. Igualdad sustantiva: Acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales;
+
+XIII. …(sic)
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE MAYO DE 2026)</small>
+
+XIV. OIC: Órgano Interno de Control del Instituto de Fiscalización Superior del Estado de San Luis Potosí
+
+XV. ……(sic)
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE MAYO DE 2026)</small>
+
+XVI. Recursos públicos: Conjunto de medios financieros, materiales y tecnológicos, así como de servicios personales, que permiten implementar programas y proyectos que contribuyen al bienestar general de la sociedad, y
+
+XVII. …(sic)
 
 ### Capítulo II. De los principios rectores del servicio público
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 5 DE MAYO DE 2026, PÁGINAS 5 Y 6. DEL ANÁLISIS SE ADVIERTE QUE EL CONTENIDO DE LAS FRACCIONES II A LA XVI PUBLICADAS QUE SIRVEN DE REFERENCIA, NO COINCIDEN CON LAS PUBLICADAS EN EL TEXTO ORIGINAL ANTERIOR.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MAYO DE 2026)</small>
+
 ###### Artículo 4.
 
-Los principios constitucionales y legales que rigen al servicio público, y a los que deben sujetar su actuación las personas servidoras públicas del IFSE, son:
+Los principios constitucionales y legales que rigen al servicio público, y a los que deben sujetar su actuación las personas servidoras públicas del IFSE, en el desempeño de su empleo, cargo o comisión, deberán actuar con austeridad, competencia por mérito, confidencialidad, disciplina, economía, eficacia, eficiencia, equidad, honradez, imparcialidad, independencia, integridad, lealtad, legalidad, objetividad, profesionalismo, y racionalidad en el uso de los recursos públicos, que rigen el servicio público.
 
-I. Legalidad: Hacer sólo aquello que las normas expresamente les confieren y en todo momento someten su actuación a las facultades que las leyes, reglamentos y demás disposiciones jurídicas atribuyen a su empleo, cargo o comisión, por lo que conocen y cumplen las disposiciones que regulan el ejercicio de sus funciones, facultades y atribuciones.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE MAYO DE 2026)</small>
+
+Para el cumplimiento de los mismos, las personas servidoras públicas deberán conducirse conforme a las conductas ejemplares y abstenerse de realizar comportamientos contrarios que a manera de guía se enuncian en la presente:
+
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2026)</small>
+
+I. Austeridad: Las personas servidoras públicas deberán utilizar con responsabilidad y eficiencia los recursos públicos, evitando desvíos, debiendo observar las personas servidoras públicas del IFSE conductas ejemplares mediante el uso racional y consiente de los recursos públicos, cuidar las instalaciones, el mobiliario y los equipos tecnológicos asignados.
+
+Evitar abstenerse de realizar conductas contrarias tales como ejercer el presupuesto de manera desproporcionada o realizar gastos innecesarios, abusar de su cargo, empleo o comisión, para obtener beneficios indebidos para sí u otras personas, abusar o desperdiciar los consumibles o recursos materiales disponibles para la Institución y organizar eventos institucionales con gastos excesivos;
 
 II. Honradez: Conducirse con rectitud sin utilizar su empleo, cargo o comisión para obtener o pretender obtener algún beneficio, provecho o ventaja personal o a favor de terceros, ni buscan o aceptan compensaciones, prestaciones, dádivas, obsequios o regalos de cualquier persona u organización, debido a que están conscientes que ello compromete sus funciones y que el ejercicio de cualquier cargo público implica un alto sentido de austeridad y vocación de servicio.
 
@@ -129,7 +187,9 @@ XV. Equidad: Procurar que toda persona acceda con justicia e igualdad al uso, di
 
 XVI. Independencia: Debe (sic) estar libres de influencias o circunstancias que comprometan o puedan ser vistas como que comprometen el juicio profesional, y actuar de manera imparcial y objetiva.
 
-XVII. Confidencialidad: Debe proteger la información en forma adecuada, equilibrando este actuar con la necesidad de transparencia y rendición de cuentas.
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2026)</small>
+
+XVII. Racionalidad en el uso de los recursos públicos: Las personas servidoras públicas deberán administrar, gestionar y/o aplicar los recursos financieros, materiales y humanos de manera inteligente, ordenada y justificada, buscando maximizar los beneficios sociales con el menor costo posible.
 
 ###### Artículo 5.
 
@@ -137,11 +197,15 @@ Para la efectiva aplicación de los principios descritos en el presente Capítul
 
 ### Capítulo III. Valores
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 5 DE MAYO DE 2026, PÁGINA 6.]</small>
+
 ###### Artículo 6.
 
 Los valores a los que deberán sujetar su actuación las personas servidoras públicas del IFSE, son:
 
-I. Interés público: Actuar buscando en todo momento la máxima atención de las necesidades y demandas de la sociedad por encima de intereses y beneficios particulares, ajenos a la satisfacción colectiva.
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2026)</small>
+
+I. Ambiente laboral libre de violencia: Define y sanciona el acoso sexual, acoso laboral y hostigamiento; exige medidas institucionales de prevención y atención.
 
 II. Respeto: Se conduce con austeridad y sin ostentación, y otorgan un trato digno y cordial a las personas en general y a sus compañeros y compañeras de trabajo, superiores, subordinadas y subordinados, considerando sus derechos, de tal manera que propician el diálogo cortés y la aplicación armónica de instrumentos que conduzcan al entendimiento, a través de la eficacia y el interés público.
 
@@ -157,13 +221,41 @@ d) Progresividad: que prevé que los derechos humanos están en constante evoluc
 
 IV. Igualdad y no discriminación: Prestan sus servicios a todas las personas sin distinción, exclusión, restricción, o preferencia basada en el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, la religión, la apariencia física, las características genéticas, la situación migratoria, el embarazo, la lengua, las opiniones, las preferencias sexuales, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales o en cualquier otro motivo.
 
-V. Equidad de género: En el ámbito de sus competencias y atribuciones, garantizan que tanto mujeres como hombres accedan con las mismas condiciones, posibilidades y oportunidades a los bienes y servicios públicos; a los programas y beneficios institucionales, y a los empleos, cargos y comisiones gubernamentales.
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2026)</small>
+
+V. Gestión de conflictos de interés: En el ámbito de sus competencias y atribuciones establecer mecanismos de detección, declaración, excusa y seguimiento para garantizar decisiones imparciales, objetivo de la función de las personas servidoras públicas en razón de intereses personales, familiares o de negocios.
 
 VI. Entorno cultural y ecológico: En el desarrollo de sus actividades evitan la afectación del patrimonio cultural de cualquier nación y de los ecosistemas del planeta; asumen una férrea voluntad de respeto, defensa y preservación de la cultura y del medio ambiente, y en el ejercicio de sus funciones y conforme a sus atribuciones, promueven en la sociedad la protección y conservación de la cultura y el medio ambiente, al ser el principal legado para las generaciones futuras.
 
 VII. Cooperación: Colaboran entre sí y propician el trabajo en equipo para alcanzar los objetivos comunes previstos en los planes y programas gubernamentales, generando así una plena vocación de servicio público en beneficio de la colectividad y confianza de la ciudadanía en sus instituciones.
 
 VIII. Liderazgo: Son guía, ejemplo y promotoras del Código de Ética y las Reglas de Integridad; fomentan y aplican en el desempeño de sus funciones los principios que la Constitución y la ley les imponen, así como aquellos valores adicionales que por su importancia son intrínsecos a la función pública.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE MAYO DE 2026)</small>
+
+IX. Prevención de la corrupción: Ordena actuación transparente, rechazo a beneficios indebidos y denuncia obligatoria de posibles actos de corrupción.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE MAYO DE 2026)</small>
+
+X. Responsabilidad en el uso de recursos públicos: Ordena austeridad, uso eficiente de recursos y rechazo a cualquier forma de despilfarro o abuso de funciones;
+
+XI. …(sic)
+
+XII. Respeto a los derechos humanos: …(sic)
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 5 DE MAYO DE 2026)</small>
+
+a) Universalidad: Universalidad: que establece que los derechos humanos corresponden a toda persona por el simple hecho de serlo;
+
+b) a d) …(sic)
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE MAYO DE 2026)</small>
+
+XIII. Rendición de cuentas: Asumir plenamente ante la sociedad y sus autoridades, la responsabilidad que deriva del ejercicio de su empleo, cargo o comisión, por lo que informan, explican y justifican sus decisiones y acciones, y se sujetan a un sistema de sanciones, así como a la evaluación y al escrutinio público de sus funciones por parte de la ciudadanía.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE MAYO DE 2026)</small>
+
+XIV. Transparencia: Ejercer sus funciones privilegiando el principio de máxima publicidad de la información pública, atendiendo con diligencia los requerimientos de acceso y proporcionando la documentación que generan, obtienen, adquieren, transforman o conservan; y en el ámbito de su competencia, difunden de manera proactiva información gubernamental, como un elemento que genera valor a la sociedad y promueve un gobierno abierto, protegiendo los datos personales que estén bajo su custodia.
 
 ### Capítulo IV. Reglas de integridad
 
@@ -281,25 +373,33 @@ III.- Recabar carta compromiso suscrita por las personas servidoras públicas ad
 
 ### Capítulo VI. Del Código de Conducta
 
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2026)</small>
+
 ###### Artículo 23.
 
-El IFSE deberá emitir un Código de Conducta que vincule el contenido de este instrumento, considerando las reglas de integridad y atribuciones específicas; de manera tal que les permita enfrentar riesgos éticos, a la vez que se fomente identificación y apropiación por parte de las personas servidoras públicas con el IFSE.
+El OIC deberá emitir un Código de Conducta que vincule el contenido de este instrumento, considerando las reglas de integridad y atribuciones específicas; de manera tal que les permita enfrentar riesgos éticos, a la vez que se fomente identificación y apropiación por parte de las personas servidoras públicas con el IFSE.
+
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2026)</small>
 
 ###### Artículo 24.
 
-Con el propósito de ejemplificar el cumplimiento a los principios, valores y reglas de integridad, el IFSE deberá hacer referencia en su Código de Conducta, a las directrices que establece el artículo 6 de la Ley de Responsabilidades Administrativas del Estado de San Luis Potosí.
+Con el propósito de ejemplificar el cumplimiento a los principios, valores y reglas de integridad, el OIC deberá hacer referencia en el Código de Conducta, a las directrices que establece el artículo 6 de la Ley de Responsabilidades Administrativas del Estado de San Luis Potosí.
 
 ### Capítulo VII. Órganos de sanción y de vigilancia
 
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2026)</small>
+
 ###### Artículo 25.
 
-Al Órgano Interno de Control le corresponde sancionar cualquier acto u omisión que quebrante la disciplina y respeto que, en apego a este Código, deben observar las personas servidoras públicas, esto de conformidad con los artículos 109, fracción III de la Constitución Política de los Estados Unidos Mexicanos, así como 10 párrafo segundo y 49 fracción I de la Ley General de Responsabilidades Administrativas.
+Al OIC le corresponde sancionar cualquier acto u omisión que quebrante la disciplina y respeto que, en apego a este Código, deben observar las personas servidoras públicas, esto de conformidad con los artículos 109, fracción III de la Constitución Política de los Estados Unidos Mexicanos, así como 10 párrafo segundo y 49 fracción I de la Ley General de Responsabilidades Administrativas.
 
 ###### Artículo 26.
 
 El IFSE deberá contar con un Comité de Ética, encargado de fomentar y vigilar el cumplimiento de este Código y su Código de Conducta. En su caso, corresponderá al Órgano Interno de Control regular la integración, organización, atribuciones y funcionamiento de dicho órgano colegiado.
 
 ### Capítulo VIII. Comité de Ética
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 5 DE MAYO DE 2026, PÁGINA 7.]</small>
 
 ###### Artículo 27.
 
@@ -323,23 +423,35 @@ VIII. Establecer las Bases para su integración, organización y funcionamiento;
 
 IX. Integrar comisiones de trabajo entre sus integrantes para la realización de tareas específicas, y
 
-X. Las demás análogas a las anteriores y que resulten necesarias para el cumplimiento de sus funciones.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE MAYO DE 2026)</small>
+
+XI. (sic) Conocer las denuncias presentadas por vulneración a los Códigos de Ética o de Conducta, con visión preventiva, y de considerarlo conveniente emitirá una determinación colegiada, en la que podrá formular recomendaciones que tengan por objeto la mejora del clima organizacional y del servicio público; y
+
+> <small>(REFORMADA [N. DE E. REUBICADA ANTES FRACCIÓN X], P.O. 5 DE MAYO DE 2026)</small>
+
+XI. (sic) Las demás análogas a las anteriores y que resulten necesarias para el cumplimiento de sus funciones.
+
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2026)</small>
 
 ###### Artículo 28.
 
-El Comité estará conformado por cuatro personas integrantes, una presidenta, una secretaria ejecutiva y tres personas que ocupen las vocalías, todas las personas integrantes con voz y voto.
+El Comité estará conformado por cinco personas servidoras públicas integrantes, una presidenta, una secretaria ejecutiva y tres que ocupen las vocalías, todas las personas integrantes con voz y voto.
+
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2026)</small>
 
 ###### Artículo 29.
 
-La presidencia del Comité de Ética recaerá (sic) la persona que ocupe la titularidad del IFSE y se encargará de designar a la persona servidora pública que ocupará el cargo de secretaria ejecutiva y tres personas que ocupen las vocalías.
+La presidencia del Comité de Ética recaerá en la persona que ocupe la titularidad del IFSE y se encargará de designar a las personas servidoras públicas que ocuparán el cargo de secretaria ejecutiva y las tres vocalías.
 
 ###### Artículo 30.
 
 Las personas servidoras públicas integrantes del Comité de Ética deberán ser reconocidos por su honradez, vocación de servicio, integridad, responsabilidad, confiabilidad, juicio informado, colaboración y trabajo en equipo, y compromiso.
 
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2026)</small>
+
 ###### Artículo 31.
 
-Las personas servidoras públicas integrantes durarán en su encargo tres años y deberán tener una antigüedad laboral mínima de seis meses en el IFSE.
+Las personas servidoras públicas que ocupen la secretaría y las vocalías, durarán en su encargo tres años y deberán tener una antigüedad laboral mínima de seis meses en el IFSE.
 
 ###### Artículo 32.
 
@@ -367,7 +479,9 @@ I. Presidir, representar y dirigir el Comité de Ética;
 
 II. Someter a aprobación del Comité de Ética, el Programa Anual de Trabajo y el calendario de sesiones;
 
-III. Convocar y dirigir las sesiones del Comité de Ética;
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2026)</small>
+
+III. Dirigir las sesiones del Comité de Ética;
 
 IV. Autorizar la presencia de invitados en la sesión para el deshago de asuntos, y
 
@@ -381,7 +495,9 @@ I. Integrar, con la participación de los miembros del Comité de Ética, el Pro
 
 II. Proponer a la Presidencia del Comité de Ética la convocatoria de la sesión correspondiente, así como el orden del día;
 
-III. Remitir a los integrantes del Comité de Ética, la convocatoria y orden del día de la sesión a celebrar, así como la documentación correspondiente;
+> <small>(REFORMADA, P.O. 5 DE MAYO DE 2026)</small>
+
+III. Convocar y remitir a los integrantes del Comité de Ética, la convocatoria y orden del día de la sesión a celebrar, así como la documentación correspondiente;
 
 IV. Verificar el quórum, antes del inicio de cada sesión;
 
@@ -431,9 +547,11 @@ Se convocará a las sesiones ordinarias al menos con cinco días hábiles de ant
 
 Las sesiones extraordinarias se convocarán con al menos dos días hábiles de anticipación.
 
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2026)</small>
+
 ###### Artículo 42.
 
-Los hechos que sean denunciados ante el Comité de Ética este turnará inmediatamente y sin demora alguna a las autoridades competentes.
+Los hechos que sean denunciados ante el Comité de Ética, este turnará inmediatamente y sin demora al OIC.
 
 ###### Artículo 43.
 
@@ -449,17 +567,23 @@ De cada sesión deberá levantarse acta que será aprobada y firmada por las per
 
 ### Capítulo XI. Responsabilidades
 
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2026)</small>
+
 ###### Artículo 46.
 
-El órgano interno de control, vigilará la observancia del presente Código de Ética.
+El OIC, vigilará la observancia del presente Código de Ética.
+
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2026)</small>
 
 ###### Artículo 47.
 
-Las personas servidoras públicas del Instituto de fiscalización Superior del Estado, que infrinjan las disposiciones de este Código de Ética serán sancionadas conforme a lo dispuesto por la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí.
+Las personas servidoras públicas del IFSE, que infrinjan las disposiciones de este Código de Ética, serán sancionadas conforme a lo dispuesto por la Ley de Responsabilidades Administrativas para el Estado y Municipios de San Luis Potosí.
+
+> <small>(REFORMADO, P.O. 5 DE MAYO DE 2026)</small>
 
 ###### Artículo 48.
 
-Cualquier persona puede hacer del conocimiento del órgano Interno de Control y del Comité de Ética, de los presuntos incumplimientos al presente Código de Ética.
+Cualquier persona puede hacer del conocimiento del OIC y del Comité de Ética, de los presuntos incumplimientos al presente Código de Ética.
 
 ###### Artículo 49.
 
@@ -478,3 +602,13 @@ DRA. EDITH NOEMÍ LANDAVERDE GÓMEZ
 Titular del Órgano Interno de Control del Instituto de Fiscalización Superior del Estado de San Luis Potosí
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO ADMINISTRATIVO POR EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO DE ÉTICA PARA LAS PERSONAS SERVIDORAS PÚBLICAS DEL INSTITUTO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Acuerdo.
