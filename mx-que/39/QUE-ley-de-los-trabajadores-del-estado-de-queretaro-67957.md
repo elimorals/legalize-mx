@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-los-trabajadores-del-estado-de-queretaro-67957"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-20"
-last_updated: "2024-10-25"
+last_updated: "2026-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 20 de marzo de 2009.
 
@@ -112,6 +112,12 @@ En la interpretación y aplicación de las normas de trabajo se deberá tomar en
 ###### Artículo 13.
 
 Tendrán capacidad legal para aceptar un nombramiento de trabajador, para percibir el sueldo correspondiente y para ejercitar las acciones derivadas de esta Ley, todos los que sean capaces conforme al derecho civil y los menores de edad de uno y otro sexo que hayan cumplido los dieciséis años.
+
+> <small>(ADICIONADO, P.O. 5 DE MAYO DE 2026)</small>
+
+###### Artículo 13 Bis.
+
+No podrá desempeñar empleo, cargo o comisión, quien se encuentre registrado en el Registro Nacional de Obligaciones Alimentarias.
 
 ###### Artículo 14.
 
@@ -2172,5 +2178,15 @@ P.O. 25 DE OCTUBRE DE 2024.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones contrarías a la presente Ley.
+
+Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 5 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "LEY QUE REFORMA EL ARTÍCULO 33 BIS DE LA LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
 
 Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
