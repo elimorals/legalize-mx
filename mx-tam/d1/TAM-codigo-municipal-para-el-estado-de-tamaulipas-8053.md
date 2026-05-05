@@ -4,7 +4,7 @@ identifier: "TAM-codigo-municipal-para-el-estado-de-tamaulipas-8053"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-02-04"
-last_updated: "2026-04-09"
+last_updated: "2026-05-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8053&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ state: "TAM"
 CÓDIGO MUNICIPAL PARA EL ESTADO DE TAMAULIPAS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ABRIL DE 2026.
+
+> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. DEL 5 DE MAYO DE 2026, NÚMERO 53, PÁGINA 3, NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 66-1002 PUBLICADO EN EL P.O. DEL 17 DE MARZO DE 2026.]</small>
 
 Código publicado en el Periódico Oficial del Estado de Tamaulipas, el sábado 4 de febrero de 1984.
 
