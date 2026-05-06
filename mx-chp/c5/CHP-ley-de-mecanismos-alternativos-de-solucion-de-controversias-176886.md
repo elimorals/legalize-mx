@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-mecanismos-alternativos-de-solucion-de-controversias-176
 country: "mx"
 rank: "ley"
 publication_date: "2025-01-27"
-last_updated: "2025-01-27"
+last_updated: "2026-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=176886&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS PARA EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2026.
 
 Ley publicada en el Número 014 del Periódico Oficial del Estado de Chiapas, el lunes 27 de enero de 2025.
 
@@ -62,6 +62,10 @@ En todo lo no previsto por esta Ley, será aplicable la Ley General de Mecanismo
 ###### Artículo 2.
 
 En el Estado de Chiapas todas las personas tienen el derecho de resolver sus controversias a través de vías distintas a la jurisdiccional en las que se privilegie el dialogo. El Estado tiene el deber de proporcionar y promover los mecanismos para que dichas controversias se resuelvan pacíficamente conforme a los principios y disposiciones establecidas en esta Ley.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2026)</small>
+
+Tratándose de personas integrantes de pueblos y comunidades indígenas y afromexicanas, en su calidad de sujetos de derecho público con personalidad jurídica, las instancias competentes deberán proveer lo necesario para garantizar a este sector de la población, los principios y derechos previstos en la presente Ley, con respeto a sus usos y costumbres de conformidad con la libre autodeterminación y autonomía, dispuesta por los artículos 2 de la Constitución Política de los Estados Unidos Mexicanos, y 7 de la Constitución Política del Estado Libre y Soberano de Chiapas.
 
 ###### Artículo 3.
 
@@ -107,7 +111,11 @@ XIX. Partes: A las personas físicas o morales que, voluntariamente y de manera 
 
 XX. Persona Abogada Colaborativa: A la persona que, contando con la cédula para ejercer la profesión de derecho o abogacía, además obtenga la certificación como Persona Facilitadora en términos de esta Ley, que participa en conjunto con las Partes mediante un proceso de negociación colaborativa.
 
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2026)</small>
+
 XXI. Persona Facilitadora: A la persona certificada para la aplicación de los Mecanismos Alternativos previstos en esta Ley. De manera enunciativa y no limitativa, las Personas Facilitadoras podrán fungir como mediadoras, conciliadoras o abogadas colaborativas.
+
+Se entenderá a las Personas Facilitadoras en Mediación Comunitaria a las personas juzgadoras de paz y conciliación, de paz y conciliación indígena, y municipales, podrán fungir como facilitadoras en mediación comunitaria de acuerdo a su competencia establecida en esta misma Ley.
 
 XXII. Poder Judicial: Al Poder Judicial del Estado de Chiapas.
 
@@ -135,6 +143,10 @@ XXXII. Tribunal Administrativo. Al Tribunal Administrativo del Poder Judicial de
 
 Los Mecanismos Alternativos que prevé esta Ley son aplicables por conducto de Personas Facilitadoras en el ámbito público o privado, certificadas para dichos efectos por el Poder Judicial y el Tribunal Administrativo, en sus respectivos ámbitos de competencia.
 
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2026)</small>
+
+Para el caso de Mecanismo Alternativo de Mediación Comunitaria, podrán intervenir en el ámbito de su competencia, los Juzgados de Paz y Conciliación, Juzgados de Paz y Conciliación Indígena, y Juzgados Municipales, previa certificación otorgada por el Poder Judicial del Estado, conforme a lo dispuesto en la presente Ley, y los lineamientos que emita el Consejo de la Judicatura.
+
 ###### Artículo 5.
 
 Los Mecanismos Alternativos podrán tramitarse mediante el uso de tecnologías de la información y comunicación o Sistemas en Línea, conforme a lo establecido en la presente Ley.
@@ -152,6 +164,10 @@ III. Mediación. Es el procedimiento voluntario por el cual dos o más personas 
 IV. Conciliación. Es el procedimiento voluntario por el cual las Partes en una controversia o conflicto, con la asistencia de una tercera persona imparcial denominada facilitadora, habilitada para realizar recomendaciones o sugerencias, construyen un acuerdo que pone fin a una controversia.
 
 V. Arbitraje. Es el proceso de solución de controversias o conflictos mediante el cual las Partes deciden voluntariamente, a través de un acuerdo o cláusula arbitral, someter todas o ciertas diferencias que hayan surgido o puedan surgir entre ellas, respecto de una determinada relación jurídica, con la participación de una persona tercera llamada árbitro quien dicta un laudo conforme a las normas establecidas en la materia, y los Tratados Internacionales de los que el Estado mexicano sea parte, según proceda.
+
+> <small>(ADICIONADA, P.O. 6 DE MAYO DE 2026)</small>
+
+VI. Mediación Comunitaria. Al procedimiento orientado a la solución y prevención de controversias o conflicto, así como a la recomposición del tejido social y la armonía comunitaria, mediante el diálogo voluntario, la participación activa de las personas involucradas y la construcción consensuada de acuerdos, el cual será aplicado preferentemente por los Juzgados de Paz y Conciliación, Juzgados de Paz y Conciliación Indígena, y los Juzgados Municipales, los cuales actuarán como facilitadores públicos debidamente certificados.
 
 ### Capítulo II. De los principios rectores
 
@@ -237,17 +253,27 @@ III. Crear el Sistema de Convenios, el cual será operado por el Centro Estatal 
 
 IV. Capacitar a las dependencias, órganos y organismos públicos, empresas paraestatales, poderes públicos, órganos constitucionales autónomos, en materia de Mecanismos Alternativos cuando así se lo soliciten.
 
-V. Impulsar, fomentar y difundir el uso de los Mecanismos Alternativos a través del Centro Estatal de Justicia Alternativa.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2026)</small>
+
+V. Impulsar, fomentar y difundir el uso de los Mecanismos Alternativos a través del Centro Estatal de Justicia Alternativa, los Juzgados de Paz y Conciliación, Juzgados de Paz y Conciliación Indígena y Juzgados Municipales, en el ámbito de sus respectivas competencias.
 
 VI. Evaluar y supervisar el desempeño del Centro Estatal de Justicia Alternativa y de las Personas Facilitadoras Privadas.
 
 VII. Expedir el Reglamento Interior del Centro Estatal de Justicia Alternativa.
 
-VIII. Emitir los Acuerdos, lineamientos y demás ordenamientos necesarios para el funcionamiento y operación del Centro Estatal de Justicia Alternativa.
+> <small>(REFORMADA, P.O. 6 DE MAYO DE 2026)</small>
+
+VIII. Emitir los acuerdos, lineamientos y demás ordenamientos necesarios para el funcionamiento y operación del Centro Estatal de Justicia Alternativa, así como de los Juzgados de Paz y Conciliación, Juzgados de Paz y Conciliación Indígena y Juzgados Municipales.
 
 IX. Establecer las metodologías y lineamientos para el acceso efectivo a los procesos de justicia restaurativa y terapéutica.
 
-X. Las demás que determinen otros ordenamientos legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE MAYO DE 2026)</small>
+
+X. Otorgar, negar, revocar, suspender o renovar la certificación en Mediación Comunitaria a las juezas y jueces de Juzgados de Paz y Conciliación, Juzgados de Paz y Conciliación Indígena, y Juzgados Municipales.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 6 DE MAYO DE 2026)</small>
+
+XI. Las demás que determinen otros ordenamientos legales aplicables.
 
 ### Capítulo II. Del Centro Estatal de Justicia Alternativa
 
@@ -508,6 +534,10 @@ IV. NO HABER SIDO CONDENADA MEDIANTE SENTENCIA EJECUTORIADA POR DELITO DOLOSO.
 V. No ser declarada como persona deudora alimentaria morosa, ni estar inscrita en el Registro Nacional de Obligaciones Alimentarias.
 
 VI. Aprobar las evaluaciones que al efecto determine el Poder Judicial.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2026)</small>
+
+Para el caso de personas facilitadores en mediación comunitaria que pertenezcan a los pueblos y comunidades indígenas y afromexicanas, deberán cumplir con lo dispuesto en el artículo 88 del Código de Organización del Poder Judicial del Estado de Chiapas; no obstante, el requisito previsto en la fracción I del presente artículo, podrá dispensarse por el Consejo de la Judicatura atendiendo los usos, costumbres y tradiciones de conformidad con la libre autodeterminación y autonomía del municipio, de conformidad.
 
 ###### Artículo 35.
 
@@ -999,6 +1029,10 @@ Los Convenios objeto de Suscripción, que cumplan con los principios, requisitos
 
 Los Convenios y los actos que deriven de ellos, deberán cumplir con las obligaciones establecidas en la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita.
 
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2026)</small>
+
+Lo previsto en este artículo no será aplicable a los convenios derivados de la Mediación Comunitaria celebrados ante los Juzgados de Paz y Conciliación, Juzgados de Paz y Conciliación Indígena, y Juzgados Municipales, los cuales deberán cumplir con los requisitos previstos en el Capítulo VII de la Mediación Comunitaria; sin embargo, no estarán sujetos a la validación por la Dirección General del Centro Estatal ni a la inscripción en el Sistema de Convenios, en virtud de que producirán sus efectos jurídicos a partir de su suscripción, conforme a lo dispuesto en el Código Nacional de Procedimientos Civiles y Familiares, y otras disposiciones legales aplicables.
+
 ###### Artículo 92.
 
 Sólo por la manifiesta voluntad de las Partes, cuando en el Convenio se acuerde un acto que conforme a la Ley deba constar en escritura pública, los Convenios podrán ser anotados en el Registro Público de la Propiedad y del Comercio del Estado. Los efectos de la anotación estarán limitados y quedarán sujetos al otorgamiento del instrumento acordado por las Partes. La Persona Facilitadora por sí misma, no podrá hacer, ni ordenar ningún tipo de anotación, salvo autorización expresa de las Partes así señalada en el Convenio.
@@ -1081,11 +1115,291 @@ Ante dicha omisión, se procederá de conformidad con la Ley de Responsabilidade
 
 La información que conste en el Sistema de Convenios será tratada de conformidad con lo dispuesto en las disposiciones contenidas en la normativa en materia de transparencia y protección de datos personales.
 
-### Capítulo I. Disposiciones Generales
+> <small>(ADICIONADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE MAYO DE 2026)</small>
+
+### Capítulo VII. De la Mediación Comunitaria
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2026)</small>
+
+###### Artículo 107 Bis.
+
+La Mediación Comunitaria a que se refiere el presente Capítulo, conocerá de las controversias o conflictos que surgen o pueden suscitarse en una comunidad que comparte valores, intereses o espacios que crean pertenencia reconociendo los usos, costumbres y tradiciones de las comunidades indígenas y afromexicanas que se distinguen por características y particularidades propias de cada municipio, con el objeto de construir una solución satisfactoria a la controversia o conflicto existente o prevenir una futura mediante clausula compromisoria.
+
+Se determinará la procedencia de la aplicación de la Mediación Comunitaria siempre que los hechos no constituyan delito, no contravengan disposiciones de orden público, no se trate de derechos irrenunciables, no se afecten derechos de terceros y no constituyan violaciones a los derechos humanos, comprendidos en la Constitución Política de los Estados Unidos Mexicanos y de los Tratados Internacionales en que el Estado mexicano sea parte, así como en la Constitución Política del Estado Libre y Soberano de Chiapas.
+
+En los municipios donde tengan población indígena o afromexicana, conforme a los usos, costumbres y tradiciones del lugar, se podrán escuchar a las autoridades tradicionales en el procedimiento de Mediación Comunitaria. Las autoridades o instituciones deberán responder en la lengua materna de la persona indígena o afromexicana si así lo solicita.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2026)</small>
+
+###### Artículo 107 Ter.
+
+Las personas tienen derecho a solucionar sus controversias o conflictos a través de la Mediación Comunitaria, en los términos previstos en la presente Ley y demás disposiciones legales aplicables. Los convenios que se celebren con motivo de la Mediación Comunitaria producirán los efectos jurídicos previstos en el Código Nacional de Procedimientos Civiles y Familiares, así como en la legislación aplicable.
+
+Las personas integrantes de pueblos y comunidades indígenas y afromexicanas, que participen en la Mediación Comunitaria, tienen en todo tiempo, el derecho a ser asistidas y asesoradas por personas intérpretes, traductoras, defensoras y peritas especializadas en derecho indígena, pluralismo jurídico, perspectiva de género, y diversidad cultural y lingüística. De igual forma, tiene el derecho a utilizar su lengua materna en toda comunicación, trámites y diligencias.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2026)</small>
+
+###### Artículo 107 Quater.
+
+Corresponde al Poder Judicial la aplicación y el cumplimiento de la Mediación Comunitaria, a través de las juezas o jueces de los Juzgados de Paz y Conciliación, Juzgados de Paz y Conciliación Indígena y Juzgados Municipales, su integración, funcionamiento y competencia están previstos de conformidad a las disposiciones de la presente Ley y demás ordenamientos legales aplicables.
+
+Para efectos del presente Capítulo, la persona titular de la Dirección de Juzgados de Paz y Conciliación, Juzgados de Paz y Conciliación Indígena y Juzgados Municipales del Consejo de la Judicatura, será la facultada para llevar a cabo la coordinación, capacitación, supervisión, así como las demás acciones y atribuciones señaladas en la presente Ley, el Código de Organización y demás normatividad aplicable en la materia.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 6 DE MAYO DE 2026)</small>
+
+#### Sección Primera. De las Personas Facilitadoras en Mediación Comunitaria
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2026)</small>
+
+###### Artículo 107 Quinquies.
+
+Para efectos de la presente Ley, las personas facilitadoras en Mediación Comunitaria serán las juezas y jueces de los Juzgados de Paz y Conciliación, Juzgados de Paz y Conciliación Indígena, y Juzgados Municipales, quienes serán nombradas por el Consejo de la Judicatura, y deberán estar sujetos a un programa de capacitación acorde a su competencia y certificados respectivamente, de conformidad a las disposiciones de la presente Ley, el Código de Organización y demás ordenamientos legales aplicables, quienes deberán conducir el procedimiento en estricto apego a los principios de la presente Ley.
+
+Las personas facilitadoras en Mediación Comunitaria que incurran en una falta a sus obligaciones previstas en el presente Capitulo serán sujetas al procedimiento sancionador establecido en la presente Ley, el Código de Organización del Poder Judicial del Estado de Chiapas, la Ley de Responsabilidades Administrativas del Estado de Chiapas y demás ordenamientos aplicables. Lo anterior sin perjuicio de las responsabilidades penales o civiles en que pudieran haber incurrido con su conducta y que se determinarán en la vía procedente.
+
+El procedimiento, organización, operación, evaluación y certificación de las personas facilitadoras en Mediación Comunitaria prevista en el presente Capítulo, se establecerá en los lineamientos y demás normatividad aplicable que al efecto se emitan.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2026)</small>
+
+###### Artículo 107 Sexies.
+
+Las personas facilitadoras en Mediación Comunitaria, tendrán las obligaciones siguientes:
+
+I. Determinar si el asunto es susceptible de ser resuelto a través de la Mediación Comunitaria, de conformidad con la presente Ley y demás disposiciones legales.
+
+II. Conducir el procedimiento autocompositivo de la Mediación Comunitaria conforme los principios y disposiciones de la presente Ley y demás normatividad aplicable.
+
+III. Verificar la identidad y personalidad de las partes y terceros relacionados.
+
+IV. Verificar que el convenio reúna los requisitos de forma y validez.
+
+V. Supervisar que en los trámites y todas las etapas del procedimiento de Mediación Comunitaria en los que intervengan, no se afecten derechos humanos, derechos irrenunciables de las partes, derechos de terceros, disposiciones de orden público y se reconozcan los usos, costumbres y tradiciones de los pueblos y comunidades indígenas y afromexicanas, que se distinguen por características y particularidades propias de cada municipio.
+
+VI. Informar a las partes, desde el inicio, la naturaleza y objeto del trámite de la Mediación Comunitaria, así como el alcance jurídico del convenio, explicando con claridad las consecuencias de su eventual incumplimiento.
+
+VII. Participar en los programas permanentes de capacitación y actualización en materia de Mediación Comunitaria y Mecanismos Alternativos.
+
+VIII. Las demás disposiciones que establezca la presente Ley, el Código de Organización y otros ordenamientos legales aplicables.
+
+En casos de impedimento, las personas facilitadoras deberán excusarse de conducir el procedimiento de Mediación Comunitaria (sic) conformidad con lo previsto en esta Ley y las demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2026)</small>
+
+###### Artículo 107 Septies.
+
+Corresponde al personal adscrito a los Juzgados de Paz y Conciliación, Juzgados de Paz y Conciliación Indígena, y Juzgados Municipales las atribuciones siguientes:
+
+I. Redactar el convenio a los que hayan acordado las partes a través de la Mediación Comunitaria.
+
+II. Recibir las peticiones de inicio al procedimiento de Mediación Comunitaria, ya sea de manera escrita o por comparecencia de la persona interesada.
+
+III. Integrar y registrar los expedientes de los procedimientos de Mediación Comunitaria.
+
+IV. Llevar el archivo de los expedientes de Mediación Comunitaria que se tramiten en el Juzgado.
+
+V. Digitalizar los expedientes.
+
+VI. Las demás disposiciones que señale la presente Ley, el Código de Organización y otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2026)</small>
+
+###### Artículo 107 Octies.
+
+Para garantizar la prontitud de la Mediación Comunitaria, las personas facilitadoras podrán formular invitaciones mediante el uso de tecnologías de la información y comunicación o sistemas en línea. De igual forma, utilizarán el uso de lengua materna en toda comunicación, trámites y diligencias si una de las partes son personas integrantes de pueblos y comunidades indígenas y/o afromexicanas.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 6 DE MAYO DE 2026)</small>
+
+#### Sección Segunda. De la Tramitación de la Mediación Comunitaria
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2026)</small>
+
+###### Artículo 107 Nonies.
+
+La petición de inicio del procedimiento de Mediación Comunitaria podrá plantearse por escrito o verbal de una o ambas partes.
+
+La información que conste en la tramitación de Mediación Comunitaria será tratada de conformidad con lo dispuesto en las disposiciones contenidas en la normativa en materia de transparencia y protección de datos personales.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2026)</small>
+
+###### Artículo 107 Decies.
+
+La petición de inicio deberá contener cuando menos los siguientes datos:
+
+I. Nombre y apellidos de la persona peticionaria.
+
+II. El carácter con el que comparecen.
+
+III. El domicilio que señalen para recibir invitaciones o notificaciones.
+
+IV. Nombre, apellidos y domicilio de la otra parte involucrada en el conflicto.
+
+V. Los datos o antecedentes que sirvan para identificar el contexto que origina el conflicto.
+
+VI. La manifestación expresa de que no se tiene conocimiento de que el asunto se encuentra dirimiéndose ante alguna autoridad jurisdiccional o Centro Público de Mecanismos Alternativos.
+
+VII. La relación de los documentos que exhiban.
+
+VIII. Las demás disposiciones que señale la presente Ley, y otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2026)</small>
+
+Artículo 107 Undecies. Cuando una o ambas partes comparezcan, la persona facilitadora del Juzgado respectivo deberá explicar y orientar en qué consiste el procedimiento de Mediación Comunitaria; hacerle de su conocimiento los derechos y deberes que la presente Ley establece. En este caso, se levantará la comparecencia con los datos previstos en el artículo anterior.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2026)</small>
+
+Artículo 107 Duodecies. Cuando la petición se formule por escrito, esta deberá ser recibida por el Juzgado respectivo y contener los datos a que se refiere el artículo 107 Decies, en caso contrario se notificará a la persona solicitante, para que la complemente e integre correctamente su petición.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2026)</small>
+
+Artículo 107 Terdecies. La persona facilitadora del Juzgado respectivo analizará el planteamiento de la controversia, y de ser procedente, admitirá la petición, en el caso que se advierta que el asunto no es susceptible de ventilarse a través del procedimiento de Mediación Comunitaria; se notificará esta determinación a la persona solicitante con la asesoría o en su caso la orientación correspondiente, asignándole el número de asesoría.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2026)</small>
+
+Artículo 107 Quaterdecies. Admitido el asunto, la persona facilitadora del Juzgado respectivo asignará el número de solicitud a la petición, hará de conocimiento a la persona solicitante y procederá a invitar a la otra parte involucrada de la fecha y hora para celebrar la sesión de orientación, en la que explicará a las partes la naturaleza y fines de la Mediación Comunitaria.
+
+La sesión de orientación deberá llevarse a cabo en un tiempo que no exceda de los tres días hábiles contados a partir de que sea admitido el asunto; podrá ampliarse siempre y cuando exista razón justificada.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2026)</small>
+
+Artículo 107 Quindecies. La invitación deberá ser elaborada y entregada por la persona habilitada para realizarla del Juzgado respectivo o por la autoridad de la localidad; por motivo de distancia podrá hacerla vía telefónica, electrónica, o por cualquier otro medio disponible.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2026)</small>
+
+Artículo 107 Sexdecies. La invitación deberá expresar el motivo por el cual se requiere su participación, el lugar en que se realizará la sesión de orientación, el nombre del destinatario, la fecha y hora de celebración, el nombre de la persona peticionaria del servicio, el nombre de la persona facilitadora del Juzgado respectivo que conducirá la sesión, la posibilidad de ser acompañado por persona de su confianza, y que puede presentar la documentación que considere necesaria para el desahogo de la sesión.
+
+Se entiende que hay negativa a participar en el procedimiento por la persona destinataria, cuando no atienda a dos invitaciones consecutivas para la sesión o se niega expresa o tácitamente a someterse al procedimiento de Mediación Comunitaria.
+
+Si a (sic) la persona peticionaria no comparece el día y hora que se fije, y no justifica su incomparecencia o retira su petición, se razonará y se archivará el expediente correspondiente. Dejando (sic) salvo sus derechos para hacerlo valer en la vía y forma que le convenga.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2026)</small>
+
+Artículo 107 Septidecies. De persistir el interés de la persona peticionaria, cuando ésta hubiese faltado a la sesión de orientación sin causa justificada, deberá presentar una nueva petición para renovar el procedimiento de Mediación Comunitaria.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2026)</small>
+
+Artículo 107 Octiesdecies. Las personas pueden asistir por sí solas a las sesiones de Mediación Comunitaria, o hacerse acompañar por persona de su confianza para conocer y en su caso solucionar la controversia.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2026)</small>
+
+Artículo 107 Noniesdecies. Cuando la persona facilitadora del Juzgado respectivo advierta la probable afectación de derechos de terceros, suspenderá el procedimiento y exhortará a las partes para que autoricen que se invite al tercero a intervenir en el procedimiento de Mediación Comunitaria.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2026)</small>
+
+Artículo 107 Vigesies. La persona facilitadora del Juzgado respectivo se encargará de realizar las sesiones necesarias para que las partes puedan llegar a un acuerdo que ponga fin a la controversia.
+
+La persona facilitadora del Juzgado respectivo deberá devolver los documentos originales que hubieren presentado las partes, anexando únicamente copias de estos, las cuales agregará al expediente correspondiente.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2026)</small>
+
+Artículo 107 Vigésimo primus. La persona facilitadora del Juzgado respectivo deberá hacer constar en el Convenio los acuerdos al momento de poner fin a la controversia. Una vez elaborado el documento se dará lectura en español o la lengua materna que corresponda; las partes lo suscribirán siempre y cuando éste se apegue a lo previsto a la presente Ley y otros ordenamientos aplicables, no contravengan disposiciones de orden público, ni se afecte derechos de terceros.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2026)</small>
+
+Artículo 107 Vigésimo secundus. El procedimiento de Mediación Comunitaria, concluirá en cualquier momento si se actualiza alguno de los siguientes supuestos:
+
+I. Por Convenio de Mediación Comunitaria por escrito, en el que se haya resuelto la totalidad o parte de la controversia o conflicto.
+
+II. Por acuerdos verbales, que deberán constar en el expediente.
+
+III. Por el comportamiento irrespetuoso o agresivo de alguna de las partes hacia la otra o a la persona facilitadora del Juzgado respectivo, cuya gravedad impida cualquier intento de diálogo para llegar a un acuerdo.
+
+IV. Por decisión conjunta o separada de las partes.
+
+V. Por negativa de las partes para la suscripción del Convenio.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2026)</small>
+
+Artículo 107 Vigésimo tertius. Cuando se actualice alguno de los supuestos para dar por concluido un expediente se deberá levantar el documento correspondiente, será suscrito por las partes y la persona facilitadora del Juzgado respectivo que participe en el expediente. Si alguna o ambas partes se negaren a suscribir el documento de conclusión o ésta se levanta con motivo de la inasistencia de éstas, se deberá asentar tal circunstancia.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2026)</small>
+
+Artículo 107 Vigésimo quater. El Juzgado respectivo está obligado a expedir copia simple o certificada de los documentos que obren en el expediente, así como entregar un ejemplar original del convenio de mediación comunitaria a las partes con el cual se haya puesto fin a la controversia, siempre que no se trate de información confidencial, bastando con que lo soliciten verbalmente y dejen constancia de su recepción.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2026)</small>
+
+Artículo 107 Vigésimo quinquies. Las sesiones, manifestaciones y demás actos que se presenten en los procedimientos de Mediación Comunitaria, no tendrán valor probatorio, ni incidirán en los juicios que se sigan ante los órganos jurisdiccionales por las mismas causas.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2026)</small>
+
+Artículo 107 Vigésimo sexies. En materia familiar las controversias que involucren derechos de niñas, niños, adolescentes, mujeres o personas susceptibles de encontrarse en alguna situación de vulnerabilidad, la persona facilitadora del Juzgado respectivo dará vista a las instituciones públicas que tengan la obligación de velar y proteger sus derechos.
+
+Si durante algún trámite o procedimiento de Mediación Comunitaria, participan personas adultas mayores, personas con discapacidad o personas pertenecientes a grupos en situación de vulnerabilidad, se estará a lo dispuesto por el artículo 45 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2026)</small>
+
+Artículo 107 Vigésimo septies. El Convenio de Mediación Comunitaria, contendrá lo siguiente:
+
+I. El lugar y la fecha de su celebración.
+
+II. Los nombres y datos generales de las partes. Tratándose de representación legal se harán constar los documentos con los cuales se haya acreditado tal carácter.
+
+III. El nombre de la persona facilitadora del Juzgado respectivo y del personal adscrito que intervino en el procedimiento de Mediación Comunitaria.
+
+IV. Un capítulo de antecedentes.
+
+V. La descripción de la materia del conflicto.
+
+VI. Una descripción precisa, ordenada y clara de los acuerdos alcanzados por las partes, estableciendo las condiciones, términos, fecha y lugar de cumplimiento.
+
+VII. Las firmas o huellas dactilares de quienes los suscriban y, en su caso, el nombre de la persona o personas que hayan firmado a ruego de uno o ambos interesados, cuando éstos no sepan firmar.
+
+VIII. Los efectos del incumplimiento.
+
+IX. Firma autógrafa de la persona facilitadora del Juzgado respectivo y del personal adscrito.
+
+X. Los demás requisitos que establezcan la presente Ley, y otros ordenamientos legales aplicables.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2026)</small>
+
+Artículo 107 Vigésimo octies. El cumplimiento del Convenio de Mediación Comunitaria celebrado en los Juzgados de Paz y Conciliación, Juzgados de Paz y Conciliación Indígena y Juzgados Municipales, será obligatorio para las partes. El incumplimiento de las obligaciones que se contraigan en la Mediación Comunitaria derivará la cláusula de ejecución pactado por ellas en el propio Convenio.
+
+Los Convenios de Mediación Comunitaria podrán ser modificados por voluntad de las Partes.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2026)</small>
+
+Artículo 107 Vigésimo nonies. Las personas podrán incorporar una cláusula compromisoria en la que convengan que las controversias relativas al cumplimiento, interpretación o validez de sus contratos privados se resolverán mediante el procedimiento de Mediación Comunitaria previsto en esta Ley, siempre que no se contravengan disposiciones de orden público, derechos irrenunciables, ni versen sobre materias penal, fiscal o laboral, o hechos constitutivos de delito, sin perjuicio de su ejecución ante la autoridad jurisdiccional competente.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2026)</small>
+
+Artículo 107 Trigesies. Las partes tendrán los derechos los siguientes:
+
+I. Solicitar la intervención de la persona facilitadora del Juzgado respectivo en términos de la presente Ley.
+
+II. Recibir un servicio de calidad, con prontitud, gratuito y acorde a los principios que rigen a la Mediación Comunitaria.
+
+III. Recibir un trato respetuoso en el desarrollo del procedimiento de Mediación Comunitaria de la persona facilitadora del Juzgado respectivo y de la parte o partes interesadas.
+
+IV. Intervenir personalmente en todas las sesiones de Mediación Comunitaria.
+
+V. Asistir a las sesiones acompañados de persona de su confianza si lo desea.
+
+VI. Recibir la información necesaria con relación a la Mediación Comunitaria, sus alcances, efectos y consecuencias.
+
+VII. Utilizar en todo momento el uso de su lengua materna en toda comunicación, trámites y diligencias.
+
+VIII. Recibir un ejemplar original del Convenio de Mediación Comunitaria en que haya participado.
+
+IX. Las demás previstas por esta Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2026)</small>
+
+Artículo 107 Trigésimo primus. Las partes tendrán las obligaciones siguientes:
+
+I. Conducirse con respeto y observar buen comportamiento durante las sesiones de Mediación Comunitaria.
+
+II. Cumplir con las obligaciones de dar, hacer o no hacer, establecidas en el Convenio.
+
+III. Conducirse con verdad durante el procedimiento.
+
+IV. Presentar la documentación e información necesaria para la atención y seguimiento del asunto.
+
+V. Asistir y participar en cada una de las sesiones.
+
+VI. Los demás previstos por esta Ley y otras disposiciones aplicables.
 
 ## Título Tercero. De los Mecanismos Alternativos de Solución de Controversias en materia administrativa
 
-### Capítulo II. De las Personas Facilitadoras en materia administrativa
+### Capítulo I. Disposiciones Generales
 
 ###### Artículo 108.
 
@@ -1159,7 +1473,7 @@ Las Partes que concurran por la administración pública centralizada o paraesta
 
 Las dependencias y entidades de la administración pública estatal, así como los organismos constitucionales autónomos, podrán acudir al Centro Estatal en Materia de Justicia Administrativa, antes o durante el procedimiento administrativo que se encuentre pendiente de solución, con el propósito de participar en un procedimiento de mediación o conciliación y, en su caso, celebrar un Convenio, con el auxilio de las Personas Facilitadoras adscritas al mismo.
 
-### Capítulo III. De la tramitación de los Mecanismos Alternativos en materia administrativa
+### Capítulo II. De las Personas Facilitadoras en materia administrativa
 
 ###### Artículo 113.
 
@@ -1213,7 +1527,7 @@ Las Personas Facilitadoras privadas podrán intervenir en los procedimientos de 
 
 Para garantizar la agilidad de los Mecanismos Alternativos, las Personas Facilitadoras podrán formular requerimientos mediante el uso de tecnologías de la información y comunicación o sistemas en línea. La omisión en la entrega de la información requerida se considera falta administrativa no grave para efectos de la Ley de Responsabilidades.
 
-### Capítulo IV. De los Convenios en materia administrativa
+### Capítulo III. De la tramitación de los Mecanismos Alternativos en materia administrativa
 
 ###### Artículo 118.
 
@@ -1315,7 +1629,7 @@ El Tribunal Administrativo deberá disponer la instrumentación, publicación y 
 
 La información que conste en el Registro de Personas Facilitadoras que integre el Centro Estatal en Materia de Justicia Administrativa, así como en el Sistema de Convenios en Materia de Justicia Administrativa, será tratada de conformidad con las disposiciones en materia de transparencia y protección de datos personales.
 
-### Capítulo I. De las responsabilidades
+### Capítulo IV. De los Convenios en materia administrativa
 
 ###### Artículo 127.
 
@@ -1351,7 +1665,7 @@ No procederá el juicio de lesividad en contra de los Convenios señalados en es
 
 ## Título Cuarto. Régimen de responsabilidades y sanciones
 
-### Capítulo II. De las sanciones
+### Capítulo I. De las responsabilidades
 
 ###### Artículo 132.
 
@@ -1362,6 +1676,8 @@ Sin perjuicio de lo anterior, las personas titulares del Centros Estatal de Just
 Para el caso de la persona titular del Centro Estatal de Mecanismos Alternativos de Solución de Controversias en Materia de Justicia Administrativa y de sus personas Facilitadoras, quedarán sujetas a las sanciones que le imponga la Contraloría Interna o el Juzgado Especializado en Responsabilidad Administrativa, según sea el caso, de conformidad con lo dispuesto por la Ley Orgánica del Tribunal Administrativo del Poder Judicial de Estado de Chiapas y la Ley de Responsabilidades.
 
 Las Personas Facilitadoras privadas estarán sujetas a la legislación civil y penal aplicable en materia de prestación de servicios profesionales.
+
+### Capítulo II. De las sanciones
 
 ###### Artículo 133.
 
@@ -1466,3 +1782,21 @@ El Ejecutivo del Estado dispondrá que se publique y circule el presente Decreto
 Dado en el Salón de Sesiones “Sergio Armando Valls Hernández” del Honorable Congreso del Estado Libre y Soberano de Chiapas, en la Ciudad de Tuxtla Gutiérrez, Chiapas, a los 27 días del mes de enero del año dos mil veinticinco. D. P. C. LUIS IGNACIO AVENDAÑO BERMÚDEZ.- D. S. C. WENDY ARLET HERNÁNDEZ ICHIN.- Rúbricas.
 
 De conformidad con la fracción I del artículo 59 de la Constitución Política Local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los veintisiete días del mes de enero del año dos mil veinticinco.- Óscar Eduardo Ramírez Aguilar, Gobernador del Estado de Chiapas.- Patricia del Carmen Conde Ruiz, Secretaria General de Gobierno y Mediación.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 6 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 232 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS PARA EL ESTADO DE CHIAPAS, EN MATERIA DE MEDIACIÓN COMUNITARIA”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo. Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan al presente Decreto.
+
+Artículo Tercero. El Poder Judicial del Estado de Chiapas, llevará a cabo las acciones que resulten necesarias para el debido cumplimiento al presente Decreto.
+
+Artículo Cuarto. Las personas facilitadoras en Mediación Comunitaria a la que se hace referencia en el presente Decreto, tendrán un plazo de noventa días naturales a partir de la entrada en vigor del mismo, para iniciar la capacitación respectiva para obtener su certificación correspondiente.
+
+Artículo Quinto. El Consejo de la Judicatura del Poder Judicial del Estado, en un plazo de noventa días naturales, contados a partir de la entrada en vigor del presente Decreto, expedirá los lineamientos correspondientes, para el cumplimiento del mismo.
+
+Artículo Sexto. El Poder Judicial del Estado de Chiapas, dispondrá que el texto del presente Decreto, se traduzca en forma oral y escrita en lenguas maternas de los pueblos originarios del Estado, se ordenará su difusión culturalmente adecuada en todas sus comunidades.
