@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2026-04-23"
+last_updated: "2026-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE MAYO DE 2026.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -2704,9 +2704,9 @@ XX.- Para expedir las leyes de organización del Cuerpo Diplomático y del Cuerp
 
 XXI.- Para expedir:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE MAYO DE 2026)</small>
 
-a) Las leyes generales que establezcan como mínimo, los tipos penales y sus sanciones en las materias de secuestro, desaparición forzada de personas, otras formas de privación de la libertad contrarias a la ley, extorsión, trata de personas, tortura y otros tratos o penas crueles, inhumanos o degradantes, así como electoral.
+a) Las leyes generales que establezcan como mínimo, los tipos penales y sus sanciones en las materias de feminicidio, secuestro, desaparición forzada de personas, otras formas de privación de la libertad contrarias a la ley, extorsión, trata de personas, tortura y otros tratos o penas crueles, inhumanos o degradantes, así como electoral.
 
 > <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
@@ -9701,3 +9701,13 @@ Las constituciones y leyes de las entidades federativas deberán armonizarse con
 Cualquier disposición, determinación presupuestaria o acto de autoridad que contravenga lo establecido en el presente transitorio será nulo de pleno derecho.
 
 Noveno.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+D.O.F. 6 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 73, FRACCIÓN XXI, INCISO A) DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE FEMINICIDIO".]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El Congreso de la Unión deberá expedir la legislación en materia de feminicidio referida en el artículo 73, fracción XXI, inciso a), dentro de los 180 días naturales siguientes a la entrada en vigor del mismo.
+
+Tercero.- Las disposiciones legales de la Federación y de las entidades federativas en materia del delito de feminicidio continuarán vigentes hasta la entrada en vigor de la ley general de la materia que emita el Congreso de la Unión. En el régimen transitorio de dicha ley se establecerán los plazos y condiciones para realizar las adecuaciones normativas correspondientes.
