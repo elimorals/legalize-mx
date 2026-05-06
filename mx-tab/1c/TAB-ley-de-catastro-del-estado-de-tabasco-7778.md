@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-catastro-del-estado-de-tabasco-7778"
 country: "mx"
 rank: "ley"
 publication_date: "1993-01-23"
-last_updated: "2017-07-05"
+last_updated: "2026-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7778&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE CATASTRO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2017.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2026.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el 23 de Enero de 1993.
 
@@ -413,15 +413,17 @@ Los propietarios o poseedores de un predio tienen la obligación de proporcionar
 
 #### SECCION SEGUNDA. OBLIGACIONES DE LOS TERCEROS
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2026)</small>
 
 ###### Artículo 19.
 
-Los notarios públicos, jueces o cualquier otro servidor público que tenga fe pública y que intervenga en el otorgamiento de contratos, disposiciones o resoluciones de las operaciones sobre la propiedad raíz, que modifiquen o transmitan el dominio directo de un predio, tienen la obligación de manifestarlo por escrito y en las formas oficiales a la autoridad catastral correspondiente, conforme al capítulo respectivo del Reglamento de la presente Ley, dentro de los quince días hábiles siguientes a la fecha de tales actos.
+Los notarios públicos, jueces o cualquier otro servidor público que tenga fe pública y que intervenga en el otorgamiento de contratos, disposiciones o resoluciones de las operaciones sobre la propiedad raíz, que modifiquen o transmitan el dominio directo de un predio, tienen la obligación de manifestarlo por escrito y en las formas oficiales a la autoridad catastral correspondiente, conforme al capítulo respectivo del Reglamento de la presente Ley, dentro de los quince días hábiles siguientes a la fecha de inscripción en el registro público, de tales actos.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2026)</small>
 
 ###### Artículo 20.
 
-El Registro Público de la Propiedad y del Comercio no podrá inscribir en sus registros ningún acto, contrato o instrumento notarial sin que le acompañe la Manifestación Catastral debidamente requisitada, que ampare el predio de referencia.
+El Catastro Municipal no podrá asentar en sus registros ningún acto, contrato o instrumento notarial sin que se le acompañe la Manifestación Catastral debidamente requisitada y la nota de registro de la escritura, que ampare el predio de referencia.
 
 > <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
 
@@ -625,11 +627,11 @@ Para la inscripción o actualización de los datos de los predios en el Padrón 
 
 Para la inscripción de un predio en el Padrón Catastral del Estado, la autoridad catastral deberá comprobar fehacientemente que dicho predio no se encuentra inscrito, y de estarlo sólo podrá inscribirse si existe resolución firme de la autoridad competente, para lo cual deberá exhibir el interesado copia debidamente certificada.
 
-> <small>(REFORMADO, P.O. 18 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2026)</small>
 
 ###### Artículo 45.
 
-En el supuesto de que los propietarios o poseedores de predios no presenten oportunamente la Manifestación Catastral, la autoridad catastral procederá de oficio a realizar la inscripción o actualización de que se trate.
+En el supuesto de que los propietarios o poseedores de predios no presenten oportunamente la Manifestación Catastral, la autoridad catastral procederá de oficio a realizar la inscripción o actualización de que se trate siempre que esté inscrito en el registro público.
 
 ###### Artículo 46.
 
@@ -984,3 +986,13 @@ QUINTO.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha 
 SEXTO.- Los créditos vigentes a la entrada en vigor del presente Decreto, cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por instituciones del Estado de Tabasco dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
 
 Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
+
+P.O. 6 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 258 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 19; 20; Y 45 DE LA LEY DE CATASTRO DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+TERCERO. En un plazo no mayor a ciento ochenta días hábiles se deberán realizar las adecuaciones normativas y reglamentarias pertinentes para el cumplimiento de lo dispuesto en el presente Decreto.
