@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2026-04-29"
+last_updated: "2026-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2026.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -385,17 +385,21 @@ III.- Las demás personas que señala la Ley.
 
 LIMITACIONES A LA CAPACIDAD. La minoría de edad, por estado de interdicción y las demás incapacidades establecidas por la Ley, son restricciones a la capacidad jurídica que no deben menoscabar la dignidad de la persona ni atentar contra la integridad de la familia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 8.
 
-DERECHOS FUNDAMENTALES DEL SER HUMANO. Todo individuo gozará de los derechos fundamentales que otorga la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales aprobados por el Senado de la República y publicados en el Diario Oficial de la Federación, las legislaciones federales y locales, así como del respeto de su vida, de su seguridad, de su privacía y dignidad personal. Los derechos no podrán restringirse ni suspenderse, sino en los casos y con las condiciones que la ley suprema establece.
+DERECHOS HUMANOS. Toda persona gozará de los derechos humanos que otorga la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales aprobados por el Senado de la República y publicados en el Diario Oficial de la Federación, las legislaciones federales y locales. Los derechos no podrán restringirse ni suspenderse, sino en los casos y con las condiciones que la ley suprema establece.
 
-Los menores de edad gozarán de los derechos fundamentales del ser humano, así como los que en el orden familiar especifica este Código.
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2026)</small>
+
+Los menores de edad gozarán de los derechos humanos, así como los que en el orden familiar especifica este Código.
 
 Por lo que hace a los derechos, obligaciones y responsabilidades civiles y familiares de los menores de edad, se estará además a la reglamentación de este ordenamiento y del código civil en vigor.
 
-Es derecho fundamental del ser humano disponer, en vida o para después de su muerte, de partes u órganos de su cuerpo, siempre que su voluntad conste fehacientemente y no se contravengan normas sanitarias o penales.
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2026)</small>
+
+Es un derecho humano disponer, en vida o para después de su muerte, de partes u órganos de su cuerpo, siempre que su voluntad conste fehacientemente y no se contravengan normas sanitarias o penales.
 
 ### CAPÍTULO III. DEL DOMICILIO
 
@@ -7386,3 +7390,13 @@ P.O. 29 DE ABRIL DE 2026.
 PRIMERA. Remítase el presente decreto a la persona Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDA. El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado.
+
+P.O. 6 DE MAYO DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL “DECRETO NÚMERO MIL SEIS POR EL QUE SE REFORMA EL ARTÍCULO 8 DEL CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS”.]</small>
+
+PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión de Gobierno del Estado.
+
+TERCERA. El presente decreto deroga todas las disposiciones legales de igual o menor rango, que se opongan o contradigan a este.
