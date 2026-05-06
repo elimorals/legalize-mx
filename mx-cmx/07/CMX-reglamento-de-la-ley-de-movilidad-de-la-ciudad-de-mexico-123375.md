@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-movilidad-de-la-ciudad-de-mexico-123375
 country: "mx"
 rank: "reglamento"
 publication_date: "2017-09-15"
-last_updated: "2025-12-19"
+last_updated: "2026-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=123375&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,11 @@ issue_date: "2017-09-15"
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 30 DE JUNIO DE 2026 EN LA G.O. DE LA CIUDAD DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 REGLAMENTO DE LA LEY DE MOVILIDAD DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DE LA CIUDAD DE MÉXICO: 19 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE MAYO DE 2026.
 
 Reglamento publicado en el Número 156 Bis de la Gaceta Oficial de la Ciudad de México, el 15 de septiembre de 2017.
 
@@ -145,6 +147,24 @@ XXIX. Vehículos de Escolta: Vehículo o vehículos designados para la prestaci�
 XXIX BIS. Vehículo nuevo: vehículo automotor que cuente con un kilometraje cero y/o no tenga registro anterior en el padrón vehicular de la Ciudad de México.
 
 XXX. Zona de Parquímetros: Vía pública en la que se instalan y operan sistemas de control y cobro de estacionamiento en vía pública de la Ciudad de México.
+
+> <small>(ADICIONADA, G.O. 6 DE MAYO DE 2026)</small>
+
+XXXI. Vehículo Eléctrico Personal (VEP): Vehículo no motorizado que utiliza manubrio para su conducción, cuenta con acelerador independiente, con dos o más ruedas, equipado con un motor eléctrico que le proporciona una velocidad máxima de 25 kilómetros por hora. Su motor tiene una potencia continua nominal de menos de 250 watts.
+
+> <small>(ADICIONADA, G.O. 6 DE MAYO DE 2026)</small>
+
+XXXII. Vehículo Motorizado Eléctrico Personal (VEMEPE): Vehículo que para su conducción, cuenta con acelerador independiente, tiene dos o más ruedas y está equipado con un motor eléctrico cuya velocidad máxima excede los 25 kilómetros por hora. Su motor tiene una potencia continua nominal a partir de 250 watts y hasta 1 KW (1.34 HP).
+
+Se clasifica en:
+
+Tipo A, con peso menor a 35 kilogramos; y
+
+Tipo B, con peso mayor a 35 kilogramos y hasta 350 kilogramos.
+
+> <small>(ADICIONADA, G.O. 6 DE MAYO DE 2026)</small>
+
+XXXIII. Vehículo no motorizado: Vehículo de tracción humana como bicicleta, monociclo, triciclo, cuatriciclo; vehículos recreativos como patines, patinetas y monopatines; incluye aquellos asistidos por motor de baja potencia no susceptible de alcanzar velocidades mayores a veinticinco kilómetros por hora.
 
 ###### Artículo 3.
 
@@ -1694,7 +1714,9 @@ IV. Alta de vehículos para personas con discapacidad;
 
 V. Alta de autos antiguos;
 
-VI. Alta de bicicletas adaptadas;
+> <small>(REFORMADA, G.O. 6 DE MAYO DE 2026)</small>
+
+VI. Alta de VEMEPE.
 
 VII. Alta de vehículos especiales para el servicio de seguridad personal;
 
@@ -1758,7 +1780,9 @@ I. Servicio Particular:
 
 a) Automóviles, vagonetas y camionetas;
 
-b) Bicimotos, bicicletas adaptadas o triciclos automotores;
+> <small>(REFORMADO, G.O. 6 DE MAYO DE 2026)</small>
+
+b) VEMEPE.
 
 c) Motocicletas, motonetas o tetramotos;
 
@@ -1830,13 +1854,21 @@ Las dimensiones y características de las placas de matrícula de los vehículos
 
 Ningún vehículo deberá circular sin portar una o ambas placas de matrícula o el permiso provisional correspondiente; salvo los vehículos que sean dados de alta y aún no cuenten con placas de matrícula nuevas.
 
-Los remolques, semirremolques, bicimotos, triciclos automotores, tetramotos, motonetas y motocicletas sólo requerirán de una placa de matrícula para su circulación, que se colocará en la parte posterior del mismo.
+> <small>(REFORMADO, G.O. 6 DE MAYO DE 2026)</small>
+
+Los remolques, semirremolques, bicimotos, triciclos automotores, tetramotos, motonetas, motocicletas y VEMEPE, sólo requerirán de una placa de matrícula para su circulación, que se colocará en la parte posterior del mismo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE MAYO DE 2026)</small>
 
 ###### Artículo 117.
 
-Los vehículos automotores, independientemente del tipo de placas de matrícula que porten, con excepción de los remolques, semiremolques, bicimotos, triciclos automotores, tetramotos, motonetas y motocicletas, deben portar los engomados correspondientes de Circulación y Holograma de verificación vehicular vigente.
+Los vehículos automotores, independientemente del tipo de placas de matrícula que porten, con excepción de los remolques, semiremolques (sic), bicimotos, triciclos automotores, tetramotos, motonetas, motocicletas y VEMEPE, deben portar los engomados correspondientes de Circulación y Holograma de verificación vehicular vigente.
 
 Los engomados de vehículos de servicio particular, serán adheridas (sic) en un lugar visible en los cristales del vehículo. Tratándose de vehículos de servicio público de transporte de pasajeros o de carga en todas sus modalidades, se colocarán en la parte superior derecha del parabrisas, debiendo ser retiradas y sustituidas por otras, cuando concluya su vigencia.
+
+> <small>(ADICIONADO, G.O. 6 DE MAYO DE 2026)</small>
+
+Tratándose de vehículos eléctricos personales (VEP) y vehículos motorizados eléctricos personales (VEMEPE), deben portar el distintivo de movilidad eléctrica (DME), proporcionado por la Secretaría y deberá estar colocado en un lugar visible.
 
 ### CAPÍTULO TERCERO. DE LA TARJETA DE CIRCULACIÓN
 
@@ -1852,7 +1884,9 @@ II. Registro Federal de Contribuyente;
 
 III. Las placas de matrícula, mismas que deben coincidir con la calcomanía permanente de circulación;
 
-IV. Marca, modelo, tipo y clase del vehículo, cilindros, litros, combustible;
+> <small>(REFORMADA, G.O. 6 DE MAYO DE 2026)</small>
+
+IV. Marca, modelo, tipo y clase del vehículo, cilindros, watts, litros, combustible;
 
 V. Procedencia del vehículo;
 
@@ -1912,7 +1946,7 @@ Tratándose de vehículos de transporte particular se establece el siguiente cua
 
 > <small>[N. DE E. VÉASE TABLA DE REQUISITOS PARA REALIZAR TRÁMITES RELATIVOS AL CONTROL VEHICULAR PARTICULAR EN LA G.O. DE 15 DE SEPTIEMBRE DE 2017, PÁGINAS DE LA 37 A LA 38.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE REQUISITOS PARA REALIZAR TRÁMITES RELATIVOS AL CONTROL VEHICULAR PARTICULAR EN LA G.O. DE 24 DE ABRIL DE 2019, PÁGINAS DE LA 7 A LA 8; 23 DE NOVIEMBRE DE 2021, PÁGINAS DE LA 5 A LA 7; F. DE E., G.O. 26 DE NOVIEMBRE DE 2021, PÁGINA 4; 13 DE SEPTIEMBRE DE 2024, PÁGINAS DE LA 7 A LA 8.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA DE REQUISITOS PARA REALIZAR TRÁMITES RELATIVOS AL CONTROL VEHICULAR PARTICULAR EN LA G.O. DE 24 DE ABRIL DE 2019, PÁGINAS DE LA 7 A LA 8; 23 DE NOVIEMBRE DE 2021, PÁGINAS DE LA 5 A LA 7; F. DE E., G.O. 26 DE NOVIEMBRE DE 2021, PÁGINA 4; 13 DE SEPTIEMBRE DE 2024, PÁGINAS DE LA 7 A LA 8; 6 DE MAYO DE 2026, PÁGINAS DE LA 7 A LA 8.]</small>
 
 > <small>[N. DE E. LOS PÁRRAFOS TERCERO CON SUS INCISOS, CUARTO Y QUINTO PASARON A FORMAR PARTE DE LA TABLA DE REQUISITOS PARA REALIZAR TRÁMITES RELATIVOS AL CONTROL VEHICULAR PARTICULAR, VÉASE G.O. DE 23 DE NOVIEMBRE DE 2021, PÁGINAS DE LA 6 A LA 7.]</small>
 
@@ -1996,13 +2030,13 @@ Las licencias para conducir expedidas por la Secretaría serán:
 
 I. a) Tipo A.- Para la conducción de automóviles particulares, con vigencia de tres años, o permanente, misma que es válida para conducir automóviles clasificados como transporte particular que no excedan de 12 plazas y de carga cuyo peso máximo autorizado no exceda de 3.5 toneladas;
 
-> <small>(REFORMADO, G.O. 28 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, G.O. 6 DE MAYO DE 2026)</small>
 
-b) Tipo A1.- Para conducir motocicletas, bicimotos, triciclos automotores, tetramotos, motonetas, con vigencia de tres años;
+b) Tipo A1.- Para conducir motocicletas, bicimotos, triciclos automotores, tetramotos, motonetas, y VEMEPE con vigencia de tres años;
 
-> <small>(ADICIONADO [N. DE E. REFORMADO], G.O. 28 DE MAYO DE 2021)</small>
+> <small>(REFORMADO, G.O. 6 DE MAYO DE 2026)</small>
 
-c) Tipo A2.- para la conducción de automóviles particulares, con vigencia de tres años, además es válida para conducir motocicletas, bicimotos, triciclos automotores, tetramotos, motonetas, y automóviles clasificados como transporte particular que no exceda de 12 plazas y de carga cuyo peso máximo autorizado no exceda de 3.5 toneladas.
+c) Tipo A2.- para la conducción de automóviles particulares, con vigencia de tres años, además es válida para conducir motocicletas, bicimotos, triciclos automotores, tetramotos, motonetas, VEMEPE y automóviles clasificados como transporte particular que no exceda de 12 plazas y de carga cuyo peso máximo autorizado no exceda de 3.5 toneladas.
 
 II. Tipo B, para la conducción de vehículos de transporte público individual de pasajeros, con una vigencia de dos a tres años.
 
@@ -2096,9 +2130,9 @@ En la solicitud deberá precisar nombre completo, domicilio en la Ciudad de Méx
 
 I. Comprobante de pago de los derechos correspondientes;
 
-> <small>(REFORMADA, G.O. 11 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 6 DE MAYO DE 2026)</small>
 
-II. Identificación oficial en la cual conste su identidad y mayoría de edad (credencial para votar, pasaporte, cédula profesional con fotografía o cartilla de identidad del Servicio Militar Nacional);
+II. Identificación oficial en la cual conste su identidad y mayoría de edad (credencial para votar, pasaporte, licencia para conducir física o digital emitida por la Secretaría o cartilla de identidad del Servicio Militar Nacional);
 
 > <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
@@ -2150,9 +2184,9 @@ En la solicitud deberá precisar nombre completo, domicilio en la Ciudad de Méx
 
 I. Comprobante de pago de los derechos correspondientes;
 
-> <small>(REFORMADA, G.O. 11 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 6 DE MAYO DE 2026)</small>
 
-II. Identificación oficial con fotografía en la cual conste su identidad y mayoría de edad (credencial para votar, pasaporte, cédula profesional con fotografía o cartilla de identidad del Servicio Militar Nacional);
+II. Identificación oficial en la cual conste su identidad y mayoría de edad (credencial para votar, pasaporte, licencia para conducir física o digital emitida por la Secretaría o cartilla de identidad del Servicio Militar Nacional);
 
 > <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
@@ -2186,9 +2220,9 @@ En la solicitud deberá precisar nombre completo, domicilio en la Ciudad de Méx
 
 I. Comprobante de pago de los derechos correspondientes;
 
-> <small>(ADICIONADA, G.O. 11 DE DICIEMBRE DE 2020)</small>
+> <small>(REFORMADA, G.O. 6 DE MAYO DE 2026)</small>
 
-II. Identificación oficial en la cual conste su identidad y mayoría de edad (credencial para votar, pasaporte, cédula profesional con fotografía o cartilla de identidad del Servicio Militar Nacional);
+II. Identificación oficial en la cual conste su identidad y mayoría de edad (credencial para votar, pasaporte, licencia para conducir física o digital emitida por la Secretaría o cartilla de identidad del Servicio Militar Nacional);
 
 > <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2023)</small>
 
@@ -3863,3 +3897,19 @@ PRIMERO. Publíquese el presente acuerdo modificatorio en la Gaceta Oficial de l
 SEGUNDO. El presente acuerdo modificatorio entrará en vigor el día siguiente de su publicación.
 
 TERCERO. Con excepción de la modificación señalada en el presente acuerdo modificatorio, subsisten como vigentes las demás disposiciones del “Decreto por el que se adicionan y reforman diversas disposiciones del Reglamento de la Ley de Movilidad de la Ciudad de México, en materia de licencias para conducir”.
+
+G.O. 6 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE MOVILIDAD DE LA CIUDAD DE MÉXICO, EN MATERIA DE VEHÍCULOS MOTORIZADOS ELÉCTRICOS PERSONALES (VEMEPES)”.]
+
+PRIMERO. Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación.
+
+TERCERO. Las personas propietarias y/o usuarias, así como distribuidores de Vehículos Motorizados Eléctricos Personales ubicadas en el territorio de la Ciudad de México deberán realizar el trámite de control vehicular que corresponda, apegándose al Aviso que para tal efecto dé a conocer la Secretaría de Movilidad de la Ciudad de México.
+
+CUARTO. Las personas propietarias y/o usuarias de Vehículos Motorizados Eléctricos Personales que hayan adquirido estos vehículos con anterioridad a la entrada en vigor del presente Decreto estarán obligadas a realizar el trámite de control vehicular hasta antes del 20 de noviembre de 2026, debiendo apegarse a lo dispuesto en el Aviso que para tal efecto dé a conocer la Secretaría de Movilidad de la Ciudad de México.
+
+QUINTO. Las personas propietarias y/o usuarias de Vehículos Motorizados Eléctricos Personales que adquieran este tipo de vehículos a partir de la entrada en vigor del presente Decreto estarán obligadas a realizar el trámite de control vehicular en términos del Aviso que para tal efecto dé a conocer la Secretaría de Movilidad de la Ciudad de México a partir del primer día de julio de 2026.
+
+SEXTO. Se derogan todas aquellas disposiciones administrativas que se opongan a lo contenido en el presente Decreto.
