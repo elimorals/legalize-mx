@@ -4,7 +4,7 @@ identifier: "TAB-ley-registral-del-estado-de-tabasco-79337"
 country: "mx"
 rank: "ley"
 publication_date: "2011-01-31"
-last_updated: "2016-12-24"
+last_updated: "2026-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY REGISTRAL DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2026.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tabasco, el lunes 31 de enero de 2011.
 
@@ -935,7 +935,9 @@ IV. Autorización y firma, Registro e inscripción cuando proceda; y
 
 V. Entrega al solicitante.
 
-Los documentos traslativos de dominio deberán ser manifestados previamente ante el catastro respectivo; sin este requisito no procederá su inscripción.
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2026)</small>
+
+Los documentos traslativos de dominio deberán ser inscritos ante el Registro Público de la Propiedad de su jurisdicción, para posteriormente a ello y bajo la absoluta responsabilidad del Notario autorizante, se procedan a ser manifestados ante las dependencias catastrales municipales competentes.
 
 El Reglamento de esta Ley especificará los tiempos de respuesta y entrega de documentos de acuerdo a cada trámite.
 
@@ -1416,3 +1418,13 @@ DÉCIMO OCTAVO. Los recursos económicos, pagos y otros actos que se encuentren 
 DÉCIMO NOVENO. A partir de la fecha de entrada en vigor del presente Decreto, cuando en las leyes, reglamentos, acuerdos, decretos y demás disposiciones normativas se haga (sic) referencias al Instituto Registral del Estado de Tabasco, se entenderán hechas a la Secretaría de Planeación y Finanzas, a través de la Coordinación Catastral y Registral.
 
 VIGÉSIMO. Las Secretarías de Gobierno, de Administración, de Contraloría, la Coordinación General de Asuntos Jurídicos y las demás dependencias del Poder Ejecutivo del Estado, en el ámbito de sus respectivas competencias, proveerán lo necesario para garantizar la correcta aplicación del presente Decreto.
+
+P.O. 6 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 258 POR EL QUE “SE REFORMA EL ARTÍCULO 73, PÁRRAFO QUINTO, DE LA LEY REGISTRAL DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+TERCERO. En un plazo no mayor a ciento ochenta días hábiles se deberán realizar las adecuaciones normativas y reglamentarias pertinentes para el cumplimiento de lo dispuesto en el presente Decreto.
