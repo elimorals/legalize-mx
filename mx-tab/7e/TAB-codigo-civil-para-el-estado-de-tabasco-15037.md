@@ -4,7 +4,7 @@ identifier: "TAB-codigo-civil-para-el-estado-de-tabasco-15037"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-09"
-last_updated: "2025-09-24"
+last_updated: "2026-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2026.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 9 de abril de 1997.
 
@@ -10653,11 +10653,21 @@ Cuando vaya a otorgarse una escritura en la que se declare, reconozca, adquiera,
 
 En dicha solicitud, que surtirá efectos de Primer Aviso Preventivo, deberá mencionar el o los tipos de acto o contrato y el o los inmuebles de que se trate, los nombres de los contratantes y el respectivo antecedente registral.
 
-El registrador, con esta solicitud y sin cobro de derechos por este concepto practicará, inmediatamente la nota de presentación en la parte respectiva del folio correspondiente, nota que tendrá vigencia por un término de treinta días hábiles a partir de la fecha de presentación de la solicitud.
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2026)</small>
 
-Una vez firmada la escritura que produzca cualquiera de las consecuencias mencionadas en el párrafo primero, el notario o autoridad ante quien se otorgó dará un Segundo Aviso Preventivo al Registro Público, acerca de la operación de que se trate, dentro de las cuarenta y ocho horas siguientes, que estarán incluidas dentro de los treinta días hábiles y contendrá además de los datos mencionados en el párrafo anterior, el número, volumen y la fecha de la escritura, así como la de su firma.
+El registrador, con esta solicitud y sin cobro de derechos por este concepto practicará, inmediatamente la nota de presentación en la parte respectiva del folio correspondiente, nota que tendrá vigencia por un término de sesenta días hábiles a partir de la fecha de presentación de la solicitud.
 
-El registrador, con el Segundo Aviso citado y sin cobro de derecho alguno, practicará u ordenará de inmediato la nota de presentación correspondiente, la cual tendrá una vigencia de noventa días hábiles a partir de la fecha de presentación del Segundo Aviso Preventivo. Si éste se da dentro del término de treinta días hábiles a que se contrae el párrafo anterior, sus efectos preventivos se retrotraerán a la fecha de presentación de la solicitud a que se refiere el párrafo primero; en caso contrario, sólo surtirá efectos desde la fecha en que fue presentado y según el número de entrada que le corresponda.
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2026)</small>
+
+El Primer Aviso Preventivo podrá ser cancelado o modificado sin perder prelación en cualquier momento a solicitud del Notario Público que lo presentó, mediante escrito debidamente firmado y sellado por dicho fedatario.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2026)</small>
+
+Una vez firmada la escritura que produzca cualquiera de las consecuencias mencionadas en el párrafo primero, el notario o autoridad ante quien se otorgó dará un Segundo Aviso Preventivo al Registro Público, acerca de la operación de que se trate, dentro de las cuarenta y ocho horas siguientes, que estarán incluidas dentro de los sesenta días hábiles y contendrá además de los datos mencionados en el párrafo anterior, el número, volumen y la fecha de la escritura, así como la de su firma.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2026)</small>
+
+El registrador, con el Segundo Aviso citado y sin cobro de derecho alguno, practicará u ordenará de inmediato la nota de presentación correspondiente, la cual tendrá una vigencia de noventa días hábiles a partir de la fecha de presentación del Segundo Aviso Preventivo. Si éste se da dentro del término de sesenta días hábiles a que se contrae el párrafo anterior, sus efectos preventivos se retrotraerán a la fecha de presentación de la solicitud a que se refiere el párrafo primero; en caso contrario, sólo surtirá efectos desde la fecha en que fue presentado y según el número de entrada que le corresponda.
 
 Si el testimonio respectivo se presentare al Registro Público dentro de cualquiera de los términos que señalan los párrafos anteriores, su inscripción surtirá efectos contra terceros desde la fecha de presentación del Aviso y con arreglo a su número de entrada. Si el documento se presentare, fenecidos los referidos plazos, su registro sólo surtirá efectos desde la fecha de presentación.
 
@@ -12573,35 +12583,37 @@ Si los interesados están ausentes o son desconocidos, la noticia se dará al Ju
 
 ### CAPITULO II. DEL TESTAMENTO PUBLICO ABIERTO
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2026)</small>
+
 ###### ARTICULO 1584.
 
 Otorgamiento
 
-Testamento público abierto es el que se otorga ante Notario y tres testigos idóneos.
+Testamento público abierto es el que se otorga ante Notario.
+
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 1585.
 
 Expresión de voluntad
 
-El testador expresará de un modo claro y terminante su voluntad al Notario y a los testigos. El Notario redactará por escrito las cláusulas del testamento, sujetándose estrictamente a la voluntad del testador, y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmarán todos el instrumento, asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.
+El testador expresará de un modo claro y terminante su voluntad al Notario. El Notario redactará por escrito las cláusulas del testamento, sujetándose estrictamente a la voluntad del testador, y las leerá en voz alta para que éste manifieste si está conforme. Si lo estuviere, firmarán el instrumento, asentándose el lugar, año, mes, día y hora en que hubiere sido otorgado.
 
 ###### ARTICULO 1586.
 
-Firmas
+(DEROGADO, P.O. 6 DE MAYO DE 2026)
 
-Si alguno de los testigos no supiere escribir, firmará otro de ellos por él, pero cuando menos deberá constar la firma entera de dos testigos.
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 1587.
 
 Cuando no sepa leer el testador
 
-Si el testador no pudiere o no supiere escribir, intervendrá otro testigo más, que firme a su ruego.
+Si el testador no pudiere o no supiere escribir, intervendrá un testigo, que firme a su ruego.
 
 ###### ARTICULO 1588.
 
-En caso de extrema urgencia
-
-En el caso de extrema urgencia y no pudiendo ser llamado otro testigo, firmará por el testador uno de los instrumentales, haciéndose constar esta circunstancia.
+(DEROGADO, P.O. 6 DE MAYO DE 2026)
 
 ###### ARTICULO 1589.
 
@@ -12609,11 +12621,13 @@ De sordo
 
 El que fuere enteramente sordo, pero que sepa leer, deberá dar lectura a su testamento; si no supiere o no pudiere hacerlo, se designará a una persona que lo lea a su nombre.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2026)</small>
+
 ###### ARTICULO 1590.
 
 De ciego
 
-Cuando sea ciego el testador, se dará lectura al testamento dos veces; una por el Notario, como está prescrito en el artículo 1585, y otra en igual forma por uno de los testigos u otra persona que el testador designe.
+Cuando sea ciego el testador, se dará lectura al testamento dos veces; una por el Notario, como está prescrito en el artículo 1585, y otra en igual forma por un testigo u otra persona que el testador designe.
 
 ###### ARTICULO 1591.
 
@@ -20191,17 +20205,17 @@ Forma
 
 El contrato de compraventa no requiere para su validez formalidad especial alguna, sino cuando recae sobre un inmueble.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2026)</small>
+
 ###### ARTICULO 2588.
 
 De inmuebles
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
+La venta de un inmueble que tenga un valor equivalente hasta la cantidad de quinientas veces el valor diario de la Unidad de Medida y Actualización, podrá hacerse en documento privado que firmarán el vendedor y el comprador ante Notario Público, quien en términos de la legislación federal, estatal y municipal, será responsable solidario con las partes del pago de los impuestos y derechos que se causen, cuyos comprobantes de pago deberá acompañar, debidamente certificados, a los ejemplares del documento privado para su debida inscripción.
 
-La venta de un inmueble que tenga un valor equivalente hasta la cantidad de quinientas veces el valor diario de la Unidad de Medida y Actualización, podrá hacerse en documento privado que firmarán el vendedor y el comprador ante dos testigos, ratificado ante el director del Registro Público de la Propiedad, jefe de la oficina registral correspondiente o ante Notario Público.
+La compraventa de inmuebles, así como las hipotecas, que celebren las instituciones que tiene como objeto proporcionar viviendas terminadas o lotes de interés social y que hayan sido creadas para cumplir esa finalidad, tanto por el Gobierno Federal como por el Estatal o Municipal, con beneficiados que sean de escasos recursos, podrá hacerse constar en documento privado; ratificado ante el Notario Público, cualquiera que sea su costo.
 
-La compraventa de inmuebles, así como las hipotecas, que celebren las instituciones que tiene como objeto proporcionar viviendas terminadas o lotes de interés social, y que hayan sido creadas para cumplir esa finalidad, tanto por el Gobierno Federal como por el Estatal o Municipal, con beneficiados que sean de escasos recursos, podrá hacerse constar en documento privado en los términos del párrafo anterior, cualquiera que sea su costo.
-
-Para certeza de los contratos citados en el párrafo precedente, los funcionarios y directivos de tales instituciones, registrarán sellos y firmas en el Registro Público de la Propiedad y del Comercio del Estado.
+Para que los documentos privados sean inscribibles, deberán exhibirse ante la Oficina Registral correspondiente, acompañados de copia certificada por el mismo Notario autorizante, de los comprobantes de los pagos de los impuestos y derechos federales, estatales y municipales, que en su caso se causen.
 
 ###### ARTICULO 2589.
 
@@ -20209,11 +20223,13 @@ Firma a ruego de otro
 
 Si alguno de los contratantes no supiere escribir, firmará a su nombre y a su ruego otra persona con capacidad legal, no pudiendo firmar con ese carácter ninguno de los testigos, observándose lo dispuesto en el artículo 1955.
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2026)</small>
+
 ###### ARTICULO 2590.
 
 Originales
 
-De dicho instrumento se formarán tres originales, uno para cada parte y el otro para el Registro Público de la Propiedad.
+De dicho instrumento se formarán cuatro originales, uno para cada parte, otro para el Registro Público de la Propiedad, y uno más para el apéndice del Libro de Registro de Certificaciones de la Notaría, que deberá, en ese proceso, atender las obligaciones que le impone la Ley Federal para la Prevención e Identificación de Operaciones con Recursos de Procedencia Ilícita.
 
 ###### ARTICULO 2591.
 
@@ -20225,13 +20241,7 @@ Con excepción de lo previsto por el segundo párrafo del artículo 2588, si el 
 
 ###### ARTICULO 2592.
 
-Transmisión por endoso
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2017)</small>
-
-Tratándose de bienes inscritos en el Registro y cuyo valor no exceda del equivalente a quinientas veces el valor diario de la Unidad de Medida y Actualización, cuando la venta sea al contado, puede hacerse transmitiendo el dominio por endoso puesto en el certificado de propiedad que el registrador tiene obligación de expedir al vendedor a cuyo favor están inscritos los bienes.
-
-El endoso será ratificado ante el registrador, quien tiene obligación de cerciorarse de la identidad de las partes y de la autenticidad de las firmas, y previa comprobación de que están cubiertos los impuestos correspondientes a la compraventa realizada en esta forma, hará una nueva inscripción de los bienes vendidos, en favor del comprador.
+(DEROGADO, P.O. 6 DE MAYO DE 2026)
 
 ###### ARTICULO 2593.
 
@@ -25940,3 +25950,13 @@ P.O. 24 DE SEPTIEMBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO. Quedan sin efecto todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
+
+P.O. 6 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 258 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 1313, PÁRRAFOS TERCERO, CUARTO Y QUINTO; 1584; 1585; 1587; 1590; 2588; 2590; SE ADICIONA UN PÁRRAFO CUARTO AL ARTÍCULO 1313, RECORRIÉNDOSE EN SU ORDEN EL SUBSECUENTE; Y SE DEROGAN LOS ARTÍCULOS 1586; 1588 Y 2592; TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+TERCERO. En un plazo no mayor a ciento ochenta días hábiles se deberán realizar las adecuaciones normativas y reglamentarias pertinentes para el cumplimiento de lo dispuesto en el presente Decreto.
