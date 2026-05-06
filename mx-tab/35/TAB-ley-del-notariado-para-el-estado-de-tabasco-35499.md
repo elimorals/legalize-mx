@@ -4,7 +4,7 @@ identifier: "TAB-ley-del-notariado-para-el-estado-de-tabasco-35499"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-20"
-last_updated: "2018-11-24"
+last_updated: "2026-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35499&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2018.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2026.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el sábado 20 de diciembre de 2003.
 
@@ -775,11 +775,13 @@ Los poderes otorgados fuera de la República, una vez legalizados y traducidos a
 
 ### CAPÍTULO VII. DE LOS TESTIMONIOS
 
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 105.
 
-El Testimonio es la copia en la que se transcribe íntegramente una escritura o acta notarial con sus documentos anexos, que obran en el Apéndice, a excepción de los que estuvieren redactados en idioma extranjero o los que ya se hayan insertado en el instrumento.
+El Testimonio es la copia en la que se transcribe íntegramente una escritura o acta notarial; al cual se incluyen, mediante transcripción, reproducción o agregado, copia certificada o cotejada, total, parcial o en lo conducente, de los documentos anexos que obran en el apéndice, a excepción de los que estuvieren redactados en idioma extranjero o los que ya se hayan relacionado o insertado en el instrumento.
 
-El testimonio será parcial cuando en él sólo se transcriba parte, ya sea de la escritura o del acta, de los documentos del Apéndice. El Notario no expedirá testimonio o copia parcial, sino cuando por la omisión de lo que no transcribe no pueda seguirse perjuicio a tercera persona.
+El testimonio será parcial cuando en él sólo se transcriba parte, ya sea de la escritura o del acta, y la reproducción o agregado de la copia certificada o cotejada, total, parcial o en lo conducente, de los documentos del Apéndice que correspondan. El Notario no expedirá testimonio o copia parcial, sino cuando por la omisión de lo que no transcribe no pueda seguirse perjuicio a tercera persona.
 
 ###### ARTÍCULO 106.
 
@@ -1178,3 +1180,13 @@ P.O. 24 DE NOVIEMBRE DE 2018.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO.- Se derogan todas aquellas disposiciones en lo que se opongan al presente Decreto.
+
+P.O. 6 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 258 POR EL QUE “SE REFORMA EL ARTÍCULO 105 DE LA LEY DEL NOTARIADO PARA EL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo dispuesto en el presente Decreto.
+
+TERCERO. En un plazo no mayor a ciento ochenta días hábiles se deberán realizar las adecuaciones normativas y reglamentarias pertinentes para el cumplimiento de lo dispuesto en el presente Decreto.
