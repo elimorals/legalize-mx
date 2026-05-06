@@ -4,7 +4,7 @@ identifier: "TAB-codigo-penal-para-el-estado-de-tabasco-12339"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-05"
-last_updated: "2026-05-02"
+last_updated: "2026-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12339&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 CÓDIGO PENAL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2026.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 5 de febrero de 1997.
 
@@ -2501,11 +2501,11 @@ Se aumentarán en dos tercios más las penas previstas en los artículos 175 y 1
 
 La misma pena se aplicará a quien se apodere de objetos o parte de la infraestructura al servicio de los citados planteles educativos.
 
-> <small>(REFORMADO, P.O. 6 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2026)</small>
 
 ###### Artículo 180.
 
-Las penas previstas en los artículos 175, 177 y 179 se agravarán con prisión de seis meses a cinco años cuando el robo se cometa con violencia física o moral sobre la persona, independientemente de la sanción que corresponda por el delito que se configure con la violencia.
+Las penas previstas en los artículos 175, 177 y 179 se agravarán con prisión de seis meses a cinco años cuando el robo se cometa en contra de una o más personas adultas mayores o ejerciendo violencia física o moral sobre la persona, independientemente de la sanción que corresponda por el delito que se configure con la violencia. Si además, resulta delito diverso, se estará a las reglas del concurso de delitos.
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE MARZO DE 2022)</small>
 
@@ -2603,6 +2603,10 @@ III.- Al que, habiendo recibido mercancías con subsidio o franquicia para darle
 
 IV.- A los gerentes, directivos, administradores, mandatarios o intermediarios de personas colectivas, o constructores o vendedores que, habiendo recibido dinero, títulos o valores por el importe total o parcial del precio de alguna compraventa de inmuebles o para constituir un gravamen real sobre éstos, no los destinen en todo o en parte al objeto de la operación concertada y disponga de ellos en provecho propio o de tercero.
 
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2026)</small>
+
+Artículo 188 bis.- Las penas a que se refiere el artículo 187, más una mitad más, se aplicarán a la persona que habiendo recibido dinero, títulos o valores para ser resguardados o administrados a favor de una persona adulta mayor, los distraiga para sí o no los destine en todo o en parte al objeto para el cual fueron puestos a su disposición o disponga de ellos en provecho propio o de tercero. En estos casos, el delito se perseguirá de oficio. Si además, resulta delito diverso, se estará a las reglas del concurso de delitos.
+
 ### CAPITULO V. RETENCION INDEBIDA
 
 ###### Artículo 189.
@@ -2674,6 +2678,10 @@ La misma pena se aplicará si esas tarjetas, títulos, documentos o bandas magn�
 II.- Sin consentimiento de quien esté facultado para ello, produzca, imprima, enajene aún gratuitamente o distribuya, tarjetas utilizadas en el comercio para obtener bienes o servicios, títulos o documentos que permitan el uso de éstas o sus bandas magnéticas; falsifique o altere esas tarjetas, bandas, títulos o documentos.
 
 En los supuestos anteriores, si el sujeto activo es empleado o dependiente de la víctima u ofendido, las penas se aumentarán en una mitad más.
+
+> <small>(ADICIONADO, P.O. 6 DE MAYO DE 2026)</small>
+
+Artículo 191 ter.- Las penas a que se refieren los artículos 190, 191 y 191 bis, se incrementarán en una mitad más cuando la persona agraviada sea una persona adulta mayor. En estos casos, el delito se perseguirá de oficio. Si además, resulta delito diverso, se estará a las reglas del concurso de delitos.
 
 ### CAPITULO VII. ADMINISTRACION FRAUDULENTA
 
@@ -3041,9 +3049,9 @@ Cuando el sujeto activo sea reincidente, se le duplicará la pena privativa de l
 
 Artículo 208 bis 1.- Se equipara a la violencia familiar y se sancionará con las penas previstas en el artículo anterior y las medidas de seguridad establecidas en este Código, al que realice cualquiera de los actos señalados en el mismo, en contra de la persona que esté sujeta a su custodia, guarda, protección, educación, instrucción o cuidado.
 
-> <small>(ADICIONADO, P.O. 28 DE MARZO DE 2020)</small>
+> <small>(REFORMADO, P.O. 6 DE MAYO DE 2026)</small>
 
-Las mismas penas se impondrán al que condicione a una persona adulta mayor el acceso y permanencia a su propio domicilio, o cualquiera de sus bienes inmuebles; le restrinja o condicione el uso de sus bienes muebles; le presione por medio de violencia física o moral para que teste o cambie su testamento a su favor o de un tercero; disponga sin la autorización correspondiente de los recursos económicos de la víctima; o le sustraiga, despoje, retenga o condicione la entrega de sus documentos de identidad o de acceso a los servicios de salud y de asistencia social.
+Las mismas penas, más una mitad más, se impondrán al que condicione a una persona adulta mayor el acceso y permanencia a su propio domicilio, o cualquiera de sus bienes inmuebles; le restrinja o condicione el uso de sus bienes muebles; le presione por medio de violencia física o moral para que teste o cambie su testamento a su favor o de un tercero; disponga sin la autorización correspondiente de pensiones, programas sociales o de cualquier otro recurso económico de la víctima; o sustraiga, despoje, retenga o condicione la entrega de sus documentos de identidad, tarjetas bancarias, de cobro de pensiones, programas sociales o de acceso a los servicios de salud y de asistencia social. Si además, resulta delito diverso, se estará a las reglas del concurso de delitos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE SEPTIEMBRE DE 2011)</small>
 
@@ -6006,3 +6014,13 @@ SEGUNDO.- Se derogan todas aquellas disposiciones que se opongan al presente Dec
 TERCERO.- Los delitos de asociación delictuosa que se hubieren cometido con anterioridad a la entrada en vigor del presente Decreto, se sancionarán conforme a las disposiciones normativas vigentes al momento de su comisión.
 
 CUARTO.- Tratándose de procesos en trámite o concluidos, en los que en términos de los artículos 47, 48 y 49, las personas sujetas activas sean inimputables, deberá estarse, en lo conducente, a lo establecido actualmente en el tercer párrafo del artículo 4, del Código Penal para el Estado de Tabasco.
+
+P.O. 6 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 261 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 180 Y 208 BIS 1, SEGUNDO PÁRRAFO; Y SE ADICIONAN LOS ARTÍCULOS 188 BIS Y 191 TER, TODOS DEL CÓDIGO PENAL PARA EL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Los procedimientos penales que se hayan iniciado antes de la entrada en vigor del presente decreto deberán concluirse aplicando el código penal vigente al momento de la supuesta comisión del delito y en ningún momento deberá considerarse que las nuevas disposiciones contenidas en el presente Decreto despenalizan los delitos cometidos con anterioridad.
+
+TERCERO. Se derogan todas las disposiciones que contravengan el presente Decreto.
