@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-ine-cg09-2026-del-consejo-general-del-instituto-185726"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2026-02-20"
-last_updated: "2026-02-20"
+last_updated: "2026-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=185726&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2026-01-30"
 
 ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBAN LOS LINEAMIENTOS PARA LA FISCALIZACIÓN DE LA REVOCACIÓN DEL MANDATO PARA DETERMINAR LA CONCLUSIÓN ANTICIPADA EN EL DESEMPEÑO DE LA PERSONA TITULAR DEL PODER EJECUTIVO DEL PERIODO 2022-2028 EN EL ESTADO DE OAXACA, ASI COMO PARA OTRAS REVOCACIONES DE MANDATO QUE SE REALICEN EN 2026
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE MAYO DE 2026.
 
 Acuerdo publicado en el número 044/2026 del Diario Oficial de la Federación, el viernes 20 de febrero de 2026.
 
@@ -122,3 +122,43 @@ https://portal.ine.mx/sesion-extraordinaria-del-consejo-general-30-de-enero-de-2
 Página DOF
 
 www.dof.gob.mx/2026/INE/CGext202601_30_ap_11.pdf
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 6 DE MAYO DE 2026.
+
+> <small>[N. DE E. POR SU IMPORTANCIA SE TRANSCRIBE EL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE MODIFICAN LOS LINEAMIENTOS PARA LA FISCALIZACIÓN DE LA REVOCACIÓN DEL MANDATO PARA DETERMINAR LA CONCLUSIÓN ANTICIPADA EN EL DESEMPEÑO DE LA PERSONA TITULAR DEL PODER EJECUTIVO DEL PERIODO 2022-2028 EN EL ESTADO DE OAXACA, ASÍ COMO PARA OTRAS REVOCACIONES DE MANDATO QUE SE REALICEN EN 2026, CON EL QUE SE DA CUMPLIMIENTO A LA SENTENCIA DE LA SALA SUPERIOR DEL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN, IDENTIFICADA CON LA CLAVE SUP-RAP-32/2026 QUE SE RELACIONA CON LA REFORMA DEL PRESENTE ORDENAMIENTO]</small>
+
+PRIMERO. Se modifica el anexo del Acuerdo INE/CG09/2026, por el que se emitieron los lineamientos para la fiscalización de la revocación del mandato para determinar la conclusión anticipada en el desempeño de la persona titular del poder ejecutivo del periodo 2022-2028 en el estado de Oaxaca, así como para otras revocaciones de mandato que se realicen en 2026, con el que se da cumplimiento a la sentencia de la sala superior del TEPJF de la federación, identificada con la clave SUP-RAP-32/2026.
+
+SEGUNDO. Se instruye a la Dirección Ejecutiva de Asuntos Jurídicos de este Instituto, para que informe a la Sala Superior del TEPJF, sobre el cumplimiento a lo ordenado en el recurso de apelación SUP-RAP-32/2026.
+
+TERCERO. Se instruye a la UTF para que notifique el presente Acuerdo a los partidos políticos nacionales con acreditación en Oaxaca, así como a los partidos políticos locales de dicha entidad, a través del Sistema de Notificaciones Electrónicas.
+
+CUARTO. Se instruye a la Unidad Técnica de Vinculación con los Organismos Públicos Locales Electorales, notifique el presente Acuerdo al Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca.
+
+QUINTO. Los presentes lineamientos serán aplicables a los procesos de revocación de mandato que se realicen durante el año 2026
+
+SEXTO. En caso de llevarse a cabo un nuevo proceso de revocación de mandato en 2026, deberá notificarse el presente acuerdo al Organismo Público Local Electoral de la entidad respectiva, así como a los partidos políticos con registro en dicha entidad.
+
+SÉPTIMO. Todo lo no previsto en el presente Acuerdo será resuelto por la COF del INE
+
+OCTAVO. El presente Acuerdo entrará en vigor a partir de su aprobación por el Consejo General.
+
+NOVENO. Publíquese en la página de Internet del Instituto Nacional Electoral, así como en el Diario Oficial de la Federación.
+
+El presente Acuerdo fue aprobado en sesión extraordinaria del Consejo General celebrada el 31 de marzo de 2026, por votación unánime de las y los Consejeros Electorales, Maestro Arturo Castillo Loza, Norma Irene De La Cruz Magaña, Doctor Uuc-kib Espadas Ancona, Maestro José Martín Fernando Faz Mora, Carla Astrid Humphrey Jordan, Maestra Rita Bell López Vences, Maestro Jorge Montaño Ventura, Maestra Dania Paola Ravel Cuevas, Maestro Jaime Rivera Velázquez, Maestra Beatriz Claudia Zavala Pérez y de la Consejera Presidenta, Licenciada Guadalupe Taddei Zavala.
+
+La Consejera Presidenta del Consejo General, Lic. Guadalupe Taddei Zavala.- Rúbrica.- La Secretaria del Consejo General, Dra. Claudia Arlett Espino.- Rúbrica.
+
+El Acuerdo y el anexo pueden ser consultados en las siguientes direcciones electrónicas:
+
+Página INE:
+
+https://www.ine.mx/sesion-extraordinaria-del-consejo-general-31-de-marzo-de-2026/
+
+Página DOF
+
+www.dof.gob.mx/2026/INE/CGext202603_31_ap_3.pdf
+
+> <small>[N. DE E. VÉASE MODIFICACIONES AL ANEXO DEL ACUERDO INE/CG09/2026, EN LA LIGA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: www.dof.gob.mx/2026/INE/CGext202603_31_ap_3.pdf]</small>
