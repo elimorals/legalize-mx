@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-transito-de-la-ciudad-de-mexico-antes-109435"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-08-17"
-last_updated: "2025-10-10"
+last_updated: "2026-05-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109435&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2015-08-17"
 
 REGLAMENTO DE TRÁNSITO DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 6 DE MAYO DE 2026.
 
 Reglamento publicado en el No. Bis de la Gaceta Oficial del Distrito Federal, el lunes 17 de agosto de 2015.
 
@@ -62,7 +62,9 @@ II. La circulación en la vía pública debe efectuarse con cortesía, por lo qu
 
 III. Se evitará la colocación de objetos que representen un obstáculo a la circulación de vehículos y tránsito de peatones;
 
-IV. Se dará prioridad en la utilización del espacio vial de acuerdo a la siguiente jerarquía:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 6 DE MAYO DE 2026)</small>
+
+IV. Se dará prioridad en la utilización el espacio vial de acuerdo a la siguiente jerarquía
 
 a) Peatones; en especial personas con discapacidad y movilidad limitada
 
@@ -74,7 +76,9 @@ d) Prestadores del servicio de transporte público de pasajeros;
 
 e) Prestadores del servicio de transporte de carga y distribución de mercancías; y
 
-f) Usuarios de transporte particular automotor y motociclistas.
+> <small>(REFORMADO, G.O. 6 DE MAYO DE 2026)</small>
+
+f) Usuarios de transporte particular automotor, motociclistas y VEMEPE.
 
 V. Todos los usuarios de la vía, que son los enlistados en la fracción anterior, y en especial los conductores de todo tipo de vehículos motorizados, deben responsabilizarse del riesgo que implican para los demás usuarios de la vía, por lo que su conducción se realizará de manera precautoria y respetando las disposiciones del presente Reglamento; y
 
@@ -108,11 +112,17 @@ I Bis. Agente autorizado para infraccionar, persona integrante de la Policía de
 
 II. Amonestación, acto por el cual el agente advierte a los peatones, conductores y pasajeros de un vehículo sobre el incumplimiento cometido a las disposiciones de este reglamento y tiene como propósito orientarlos a conducirse de conformidad con lo establecido en el mismo y prevenir la realización de otras conductas similares, puede realizarse de manera verbal o por escrito, mismo que será notificado en el domicilio del infractor que se encuentre registrado en los sistemas de la Secretaría;
 
-III. Área de espera para bicicletas y motocicletas, zona marcada sobre el pavimento en una intersección de vías que tengan semáforos, que permite a los conductores de estos vehículos aguardar la luz verde del semáforo en una posición adelantada, de tal forma que sean visibles a los conductores del resto de los vehículos;
+> <small>(REFORMADA, G.O. 6 DE MAYO DE 2026)</small>
+
+III. Área de espera para vehículos no motorizados, motocicletas y VEMEPE, zona marcada sobre el pavimento en una intersección de vías que tengan semáforos, que permite a los conductores de estos vehículos aguardar la luz verde del semáforo en una posición adelantada, de tal forma que sean visibles a los conductores del resto de los vehículos;
 
 > <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
 
 IV. Ayudas técnicas, dispositivos tecnológicos, materiales y/o motorizados que permiten habilitar, rehabilitar o compensar una o más limitaciones funcionales, motrices, sensoriales o intelectuales de las personas con discapacidad.
+
+> <small>(ADICIONADA, G.O. 6 DE MAYO DE 2026)</small>
+
+IV Bis. Banderín: Elemento tipo bandera de forma triangular de material semi rígido, montado sobre un elemento vertical fijado a la estructura del vehículo, con base en los criterios establecidos por la Secretaría.
 
 > <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
 
@@ -150,11 +160,17 @@ XIII. Dispositivos para el control del tránsito, conjunto de elementos que orde
 
 XIII Bis. Equipo Electrónico, Al conjunto de aparatos y dispositivos portátiles para el tratamiento de imagen e información para apoyar tareas de movilidad y seguridad vial;
 
+> <small>(ADICIONADA, G.O. 6 DE MAYO DE 2026)</small>
+
+XIII Ter. Distintivo de Movilidad Eléctrica (DME), calcomanía de identificación para vehículos no motorizados, según corresponda, y VEMEPE, proporcionada por la Secretaría.
+
 > <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2021)</small>
 
 XIV. Integrante de Seguridad Ciudadana, Las personas integrantes de los cuerpos policiales bajo la responsabilidad de la Secretaría de Seguridad Ciudadana;
 
-XV. Espacios para servicios especiales, son todos aquellos sitios en la vía pública debidamente autorizados por la Secretaría, exclusivos para realizar maniobras de ascenso y descenso de pasajeros o para como áreas reservadas para personas con discapacidad, servicio de acomodadores, bicicletas y motocicletas, sitios y lanzaderas de transporte público, áreas para carga y descarga, transporte de valores, correos, mensajería, mensajería y paquetería, recolección de residuos sólidos, vehículos de emergencia, y los que se señalen por la Secretaria;
+> <small>(REFORMADA, G.O. 6 DE MAYO DE 2026)</small>
+
+XV. Espacios para servicios especiales, son todos aquellos sitios en la vía pública debidamente autorizados por la Secretaría, exclusivos para realizar maniobras de ascenso y descenso de pasajeros o como áreas reservadas para personas con discapacidad, servicio de acomodadores, bicicletas, motocicletas y VEMEPE, sitios y lanzaderas de transporte público, áreas para carga y descarga, transporte de valores, correos, mensajería, mensajería y paquetería, recolección de residuos sólidos, vehículos de emergencia, y los que se señalen por la Secretaria;
 
 > <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2021)</small>
 
@@ -171,6 +187,10 @@ XX. Juez Cívico, los Jueces Cívicos adscritos a la Consejería Jurídica y de 
 > <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2021)</small>
 
 XXI. Ley, la Ley de Movilidad de la Ciudad de México;
+
+> <small>(ADICIONADA, G.O. 6 DE MAYO DE 2026)</small>
+
+XXI Bis. Monopatín eléctrico. Vehículo de dos o más ruedas, compuesto de una plataforma y manubrio, diseñado para que un pasajero viaje de pie sobre él, el cual es propulsado por un motor eléctrico.
 
 XXII. Motocicleta, vehículo motorizado que utiliza manubrio para su conducción, de una o más plazas, con dos o más ruedas, que está equipado con motor eléctrico, de combustión interna de dos o cuatro tiempos, con un cilindraje a partir de cuarenta y nueve centímetros cúbicos de desplazamiento o impulsado por cualquier otra fuerza motriz, que cumpla con las disposiciones estipuladas en la Norma Oficial Mexicana en materia de identificación vehicular;
 
@@ -264,9 +284,23 @@ XLVII. Vehículo de emergencia, aquellos autorizados por la Secretaría de Movil
 
 XLVIII. Vehículo motorizado, aquellos vehículos de transporte terrestre de pasajeros o carga, que para su tracción dependen de un motor de combustión interna, eléctrica o de cualquier otra tecnología que le proporciona velocidad a más de 25 km/hr;
 
-> <small>(REFORMADA, G.O. 19 DE MARZO DE 2019)</small>
+> <small>(ADICIONADA, G.O. 6 DE MAYO DE 2026)</small>
 
-XLIX. Vehículo no motorizado, aquellos vehículos que utilizan tracción humana, pedaleo asistido y/o propulsión eléctrica para su desplazamiento con una velocidad máxima de 25 km/hr.
+XLVIII Bis. Vehículo Eléctrico Personal (VEP): Vehículo no motorizado que utiliza manubrio para su conducción, cuenta con acelerador independiente, con dos o más ruedas, equipado con un motor eléctrico que le proporciona una velocidad máxima de 25 kilómetros por hora. Su motor tiene una potencia continua nominal de menos de 250 watts.
+
+> <small>(ADICIONADA, G.O. 6 DE MAYO DE 2026)</small>
+
+XLVIII Ter. Vehículo Motorizado Eléctrico Personal (VEMEPE): Vehículo que, para su conducción, cuenta con acelerador independiente, tiene dos o más ruedas y está equipado con un motor eléctrico cuya velocidad máxima excede los 25 kilómetros por hora. Su motor tiene una potencia continua nominal a partir de 250 watts y hasta 1 KW (1.34 HP).
+
+Se clasifica en:
+
+Tipo A: Con peso menor a 35 kilogramos
+
+Tipo B: Con peso mayor a 35 kilogramos y hasta 350 kilogramos.
+
+> <small>(REFORMADA, G.O. 6 DE MAYO DE 2026)</small>
+
+XLIX. Vehículo no motorizado: Vehículo de tracción humana como bicicleta, monociclo, triciclo, cuatriciclo; vehículos recreativos como patines, patinetas y monopatines; incluye aquellos asistidos por motor de baja potencia no susceptible de alcanzar velocidades mayores a veinticinco kilómetros por hora, y los que son utilizados por personas con discapacidad.
 
 > <small>(ADICIONADA, G.O. 16 DE ABRIL DE 2019)</small>
 
@@ -506,11 +540,9 @@ IV. Circular en el sentido que indique la vía; tratándose de vías reversibles
 
 Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
 
-V. Rebasar otro vehículo sólo por el lado izquierdo; en el caso de vehículos motorizados que adelanten a ciclistas o motociclistas deben otorgar al menos la distancia de 1.50 metros de separación lateral;
+> <small>(REFORMADA, G.O. 6 DE MAYO DE 2026)</small>
 
-> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
-
-Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente y tres puntos de penalización a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
+V. Rebasar otro vehículo sólo por el lado izquierdo; en el caso de vehículos motorizados que adelanten a ciclistas, motociclistas, vehículos eléctricos personales o VEMEPE deben otorgar al menos la distancia de 1.50 metros de separación lateral;
 
 VI. Alinearse a la derecha y reducir la velocidad cuando otro vehículo intente adelantarlo;
 
@@ -692,7 +724,9 @@ Los conductores de vehículos motorizados que infrinjan la presente disposición
 
 VI. En las intersecciones reguladas mediante semáforos se respetarán las siguientes reglas:
 
-a) Cuando la luz del semáforo esté en rojo, los conductores deben detener su vehículo en la línea de "alto", sin invadir el cruce peatonal o el área de espera para bicicletas o motocicletas; los ciclistas y motociclistas deberán hacer uso de sus áreas de espera cuando éstas existan;
+> <small>(REFORMADO, G.O. 6 DE MAYO DE 2026)</small>
+
+a) Cuando la luz del semáforo esté en rojo, los conductores deben detener su vehículo en la línea de “alto”, sin invadir el cruce peatonal o el área de espera para vehículos no motorizados, vehículos eléctricos personales, monopatines eléctricos, motocicletas y VEMEPE; las personas conductoras de este tipo de vehículos deberán hacer uso de sus áreas de espera cuando éstas existan;
 
 b) Cuando exista congestión vehicular que impida cruzar completamente la intersección y aunque la luz del semáforo indique siga, se deberá parar en la línea de alto para evitar obstruir la circulación de las calles transversales, principalmente en aquellas que cuenten con marca en el pavimento para indicar la prohibición de detención dentro de la intersección;
 
@@ -770,11 +804,9 @@ I. Detener su vehículo invadiendo los cruces peatonales marcados en el paviment
 
 Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
 
-II. Detener su vehículo sobre un área de espera para bicicletas o motocicletas, a menos que se trate del usuario para el cual está destinado;
+> <small>(REFORMADA, G.O. 6 DE MAYO DE 2026)</small>
 
-> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
-
-Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con un punto a la matrícula vehicular.
+II. Detener su vehículo sobre un área de espera para vehículos no motorizados, motocicletas, vehículos eléctricos personales, monopatines eléctricos o VEMEPE, a menos que se trate del usuario para el cual está destinado;
 
 III. Circular o detenerse en áreas restringidas que estén delimitadas por marcas en el pavimento, incluyendo las áreas señaladas para el estacionamiento en vía pública u otros dispositivos para el control del tránsito que establezcan este impedimento, en especial:
 
@@ -926,6 +958,10 @@ Se exceptúan de lo anterior a los vehículos de transporte público en cualquie
 
 > <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 6 DE MAYO DE 2026)</small>
+
+IV. Tratándose de VEMEPE, queda prohibido remolcar o empujar otros vehículos no motorizados y motorizados, así como cualquier tipo de remolque o dispositivos de cualquier otro tipo de tracción.
+
 ###### Artículo 13.
 
 En caso de emergencia, siniestro o desastre, los vehículos de emergencia que circulen con las luces encendidas y señales audibles, siempre y cuando tomen las medidas de seguridad necesarias, pueden:
@@ -1036,9 +1072,11 @@ IV. Donde lo indique el señalamiento del carril de transporte público comparti
 
 Los conductores de vehículos motorizados que no cedan el paso a los vehículos no motorizados de acuerdo a lo previsto en la presente disposición, serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
 
+> <small>(REFORMADO, G.O. 6 DE MAYO DE 2026)</small>
+
 ###### Artículo 16.
 
-Los ciclistas que vayan a cruzar una vía secundaria en cuya intersección la luz del semáforo se encuentre en rojo o en la que exista un señalamiento restrictivo de “Alto” o “Ceda el paso”, podrán seguir de frente siempre y cuando disminuyan su velocidad, volteen a ambos lados y se aseguren que no existen peatones o vehículos aproximándose a la intersección por la vía transversal. En caso de que existan peatones o vehículos aproximándose, o no existan las condiciones de visibilidad que les permita cerciorarse de que es seguro continuar su camino, los ciclistas deberán hacer alto total, dar el paso o verificar que no se aproxima ningún otro usuario de la vía y seguir de frente con la debida precaución.
+Las personas conductoras de vehículos no motorizados, vehículos eléctricos personales y monopatines eléctricos que vayan a cruzar una vía secundaria en cuya intersección la luz del semáforo se encuentre en rojo o en la que exista un señalamiento restrictivo de "Alto" o "Ceda el paso", podrán seguir de frente siempre y cuando disminuyan su velocidad, volteen a ambos lados y se aseguren que no existen peatones o vehículos aproximándose a la intersección por la vía transversal. En caso de que existan peatones o vehículos aproximándose, o no existan las condiciones de visibilidad que les permita cerciorarse de que es seguro continuar su camino, las personas conductoras de este tipo de vehículos deberán hacer alto total, dar el paso o verificar que no se aproxima ningún otro usuario de la vía y seguir de frente con la debida precaución.
 
 ###### Artículo 17.
 
@@ -1074,9 +1112,11 @@ II. Se vaya a realizar un giro a la izquierda, en cuyo caso deberá llegar a la 
 
 III. Se requiera rebasar a otros vehículos más lentos o existan vehículos parados o estacionados, obstáculos u obras que impiden la utilización del carril.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE MAYO DE 2026)</small>
+
 ###### Artículo 19.
 
-Se prohíbe a los conductores de vehículos no motorizados:
+Se prohíbe a los conductores de vehículos no motorizados, vehículos eléctricos personales y monopatines eléctricos:
 
 I. Circular sobre las aceras y áreas reservadas al uso exclusivo de peatones, con excepción de los niños menores de doce años y los elementos de seguridad pública que conduzcan vehículos no motorizados, salvo que el conductor ingrese a su domicilio o a un estacionamiento, en este caso debe desmontar y caminar;
 
@@ -1084,7 +1124,9 @@ II. Circular por los carriles exclusivos para el transporte público de pasajero
 
 III. Detenerse sobre las áreas reservadas para el tránsito de peatones;
 
-IV. Circular por los carriles centrales o interiores de las vías de acceso controlado y donde así lo indique el señalamiento restrictivo, excepto cuando sea autorizado por la Secretaría y Seguridad Pública, quienes determinarán las condiciones y los horarios permitidos;
+> <small>(REFORMADA, G.O. 6 DE MAYO DE 2026)</small>
+
+IV. Circular por los carriles centrales o interiores de las vías de acceso controlado y donde así lo indique el señalamiento restrictivo, excepto cuando sea autorizado por la Secretaría y Seguridad Ciudadana, quienes determinarán las condiciones y los horarios permitidos;
 
 V. Circular entre carriles, salvo cuando el ciclista se encuentre con tránsito detenido y busque colocarse en un área de espera ciclista o en un lugar visible para reiniciar la marcha.
 
@@ -1092,7 +1134,9 @@ V. Circular entre carriles, salvo cuando el ciclista se encuentre con tránsito 
 
 Los conductores de vehículos no motorizados que no cumplan con las obligaciones de este reglamento, serán amonestados verbalmente por los agentes y/o agentes autorizados para infraccionar, y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
 
-### CAPÍTULO IV. DE LA CIRCULACIÓN DE MOTOCICLETAS
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 6 DE MAYO DE 2026)</small>
+
+### CAPÍTULO IV. DE LA CIRCULACIÓN DE MOTOCICLETAS Y VEHÍCULOS MOTORIZADOS ELÉCTRICOS PERSONALES
 
 ###### Artículo 20.
 
@@ -1120,9 +1164,11 @@ El motociclista que incumpla lo dispuesto en la presente disposición, será san
 
 > <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE MAYO DE 2026)</small>
+
 ###### Artículo 21.
 
-Se prohíbe a los conductores de motocicletas:
+Se prohíbe a las personas conductoras de motocicletas y VEMEPE.
 
 I. Circular sobre las aceras y áreas reservadas al uso exclusivo de peatones; salvo que el conductor ingrese a su domicilio o a un estacionamiento, debe desmontar;
 
@@ -1142,13 +1188,13 @@ III. Circular por los carriles confinados para el transporte público de pasajer
 
 En caso de incumplimiento a lo previsto en esta disposición, el motociclista será sancionado con una multa equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización vigente y seis puntos a la licencia para conducir.
 
-IV. Circular entre carriles, salvo cuando el tránsito vehicular se encuentre detenido y busque colocarse en el área de espera para motocicletas o en un lugar visible para reiniciar la marcha, sin invadir los pasos peatonales;
+> <small>(REFORMADA, G.O. 6 DE MAYO DE 2026)</small>
 
-> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+IV. Circular entre carriles, salvo cuando el tránsito vehicular se encuentre detenido y busque colocarse en el área de espera para vehículos no motorizados, motocicletas y VEMEPE o en un lugar visible para reiniciar la marcha, sin invadir los pasos peatonales;
 
-En caso de incumplimiento a lo previsto en esta disposición, el motociclista será sancionado con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 6 DE MAYO DE 2026)</small>
 
-V. Circular por los carriles centrales de las vías de acceso controlado cuando utilicen vehículos menores a 250 centímetros cúbicos;
+V. Circular por los carriles centrales de las vías de acceso controlado cuando utilicen vehículos menores a 250 centímetros cúbicos o VEMEPE.
 
 > <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
@@ -1164,11 +1210,25 @@ En caso de incumplimiento a lo previsto en esta disposición, el motociclista se
 
 VII. Hacer maniobras riesgosas o temerarias, cortes de circulación o cambios abruptos de carril que pongan en riesgo su integridad y la de terceros;
 
-> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
+> <small>(ADICIONADA, G.O. 6 DE MAYO DE 2026)</small>
 
-En caso de incumplimiento a lo previsto en esta disposición, el motociclista será sancionado con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
+VIII. Para personas conductoras de VEMEPE Tipo A, circular en cualquier carril de vías cuya velocidad máxima permitida supere los 40 kilómetros por hora, así como en los carriles laterales de vías de acceso controlado.
 
-> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
+En caso de incumplimiento a lo previsto en esta disposición, la persona conductora será sancionada con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
+
+> <small>(ADICIONADA, G.O. 6 DE MAYO DE 2026)</small>
+
+IX. Para personas conductoras de VEMEPE Tipo B que tengan dos ruedas, circular en cualquier carril de vías cuya velocidad máxima permitida supere los 50 kilómetros por hora.
+
+En caso de incumplimiento a lo previsto en esta disposición, la persona conductora será sancionada con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
+
+> <small>(ADICIONADA, G.O. 6 DE MAYO DE 2026)</small>
+
+X. Para personas conductoras de VEMEPE Tipo B que tengan 3 o más ruedas, circular en cualquier carril de vías cuya velocidad máxima permitida supere los 40 kilómetros por hora, así como en los carriles laterales de vías de acceso controlado.
+
+> <small>(REFORMADO, G.O. 6 DE MAYO DE 2026)</small>
+
+En caso de incumplimiento a lo previsto en esta disposición, la persona conductora será sancionada con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y seis puntos a la licencia para conducir.
 
 ### CAPÍTULO V. DE LA CIRCULACIÓN DE VEHÍCULOS DE TRANSPORTE PÚBLICO Y PRIVADO DE PASAJEROS
 
@@ -1556,11 +1616,9 @@ XII. Sobre las vías en doble o más filas;
 
 Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
 
-XIII. En batería, con excepción de bicicletas y motocicletas o que un señalamiento así lo permita;
+> <small>(REFORMADA, G.O. 6 DE MAYO DE 2026)</small>
 
-> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
-
-Los conductores de vehículos motorizados que infrinjan la presente disposición serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir.
+XIII. En batería, con excepción de bicicletas, motocicletas, vehículos eléctricos personales, monopatines eléctricos y VEMEPE, siempre y cuando sus características y dimensiones no obstaculicen la circulación de otros vehículos, o que un señalamiento así lo permita;
 
 XIV. En un tramo menor a:
 
@@ -1846,15 +1904,23 @@ El incumplimiento del pago de las tarifas establecidas por parte de los conducto
 
 ### CAPÍTULO I. DE LAS DISPOSICIONES DE SEGURIDAD
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE MAYO DE 2026)</small>
+
 ###### Artículo 37.
 
-Los conductores y ocupantes de los vehículos deben de cumplir con las disposiciones de seguridad indicadas en el presente artículo de acuerdo a la naturaleza propia de cada vehículo.
+Los conductores y ocupantes de los vehículos deben de cumplir con las disposiciones de seguridad indicadas en el presente artículo de acuerdo con la naturaleza propia de cada vehículo.
 
-I. Los conductores de vehículos no motorizados deben:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 6 DE MAYO DE 2026)</small>
+
+I. Los conductores de vehículos no motorizados, vehículos eléctricos personales y monopatines eléctricos deben:
 
 a) Usar aditamentos luminosos, bandas fluorescentes o reflejantes en horario nocturno o circunstancias de poca visibilidad; y
 
 b) En caso de llevar a acompañantes menores de 5 años que tengan la capacidad de sentarse por cuenta propia y mantener erguida la cabeza, los menores deberán de ser transportados en: remolques o cabinas que tengan estructura de protección lateral, bandas reflejantes y cinturones que aseguren el torso del menor; o sillas especiales, con cinturones que aseguren el torso del menor y cuya estructura proteja la cabeza y las piernas del menor, que deberá portar casco.
+
+> <small>(ADICIONADO, G.O. 6 DE MAYO DE 2026)</small>
+
+c) Para el caso de vehículos eléctricos personales y monopatines eléctricos, utilizar casco.
 
 II. Los conductores de vehículos motorizados deben:
 
@@ -1878,13 +1944,15 @@ Los conductores de vehículos motorizados que infrinjan los incisos a), b), d) y
 
 En caso de infringir lo dispuesto en el inciso c) de esta fracción, serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir o en caso de infracciones captadas a través de sistemas tecnológicos se sancionará con tres puntos a la matrícula vehicular.
 
-III. Adicionalmente, los motociclistas deben:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 6 DE MAYO DE 2026)</small>
+
+III. Adicionalmente, las personas conductoras de motocicletas y de VEMEPE deben:
 
 a) Circular todo tiempo con las luces traseras y delanteras encendidas;
 
-> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO, G.O. 6 DE MAYO DE 2026)</small>
 
-b) Llevar a bordo sólo la cantidad de personas que señale la tarjeta de circulación;
+b) Llevar a bordo sólo la cantidad de personas que señale la tarjeta de circulación; atendiendo a lo señalado en el artículo 38 fracción III, incisos c) al f).
 
 c) Usar aditamentos luminosos o bandas reflejantes en horario nocturno;
 
@@ -1914,13 +1982,23 @@ d) Utilizar casco protector, diseñado exclusivamente para la conducción de mot
 
 e) Preferentemente portar visores, chamarra o peto para protección con aditamentos rígidos para cobertura de hombros, codos y torso específicos para motociclista, guantes y botas, todos de diseño específico para conducción de este tipo de vehículo.
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 2022)</small>
+> <small>(ADICIONADO, G.O. 6 DE MAYO DE 2026)</small>
 
-Los conductores de vehículos motorizados que infrinjan los incisos a), c) y e) de la presente disposición serán sancionados con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente, y un punto a la licencia para conducir.
+f) Para los VEMEPE Tipo B que tengan tres o más ruedas, deberán contar con respaldo en asientos y barras laterales integradas a la carrocería del vehículo, así como un cinturón de seguridad de al menos dos puntos en caso de que transporten menores de edad de entre 6 y 12 años.
 
-> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+En caso de llevar a acompañantes menores de edad de entre 6 y 12 años, estos deben portar casco certificado adecuado a su talla, tener la capacidad de sentarse por cuenta propia y mantener erguida la cabeza.
 
-En caso de infringir lo dispuesto en el inciso b) y d) de esta fracción, serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente, y tres puntos a la licencia para conducir.
+> <small>(ADICIONADO, G.O. 6 DE MAYO DE 2026)</small>
+
+g) Para el caso de VEMEPE deberán portar un banderín conforme a las especificaciones que, para tal efecto, emita la Secretaría.
+
+> <small>(REFORMADO, G.O. 6 DE MAYO DE 2026)</small>
+
+Los conductores de vehículos motorizados que infrinjan los incisos a), c), e) y g) de la presente disposición serán sancionados con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente, y un punto a la licencia para conducir.
+
+> <small>(REFORMADO, G.O. 6 DE MAYO DE 2026)</small>
+
+En caso de infringir lo dispuesto en el inciso b), d) y f) de esta fracción, serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente, y tres puntos a la licencia para conducir.
 
 IV. Adicionalmente, los conductores de vehículos de transporte carga deben circular con la carga debidamente asegurada por tensadores para sujetar carga, cintas y/o lonas, que evite tirar objetos o derramar sustancias que obstruyan el tránsito o pongan en riesgo la integridad física de las personas; y
 
@@ -1944,7 +2022,9 @@ Los conductores de vehículos no motorizados, que no cumplan con lo dispuesto en
 
 Los conductores de vehículos son responsables de evitar realizar acciones que pongan en riesgo su integridad física y la de los demás usuarios de la vía, por lo que se prohíbe:
 
-I. A los conductores de vehículos no motorizados:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 6 DE MAYO DE 2026)</small>
+
+I. A los conductores de vehículos no motorizados, vehículos eléctricos personales y monopatines eléctricos:
 
 a) Llevar objetos que obstruyan la visibilidad del conductor o lo distraigan;
 
@@ -1998,25 +2078,41 @@ Por infringir lo previsto en el inciso e) de esta fracción serán sancionados c
 
 El incumplimiento a lo previsto en el inciso i) de esta fracción será sancionado con una multa equivalente a 20, 25 o 30 veces la Unidad de Medida y Actualización vigente, tres puntos a la licencia para conducir y un punto a la matrícula vehicular.
 
-III. Adicionalmente, a los motociclistas:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 6 DE MAYO DE 2026)</small>
 
-a) Transportar carga que impida mantener ambas manos sobre el manubrio, y un debido control del vehículo;
+III. Adicionalmente, a los motociclistas y conductores de VEMEPE:
+
+> <small>(REFORMADO, G.O. 6 DE MAYO DE 2026)</small>
+
+a) Transportar cualquier tipo de carga;
+
+> <small>(REFORMADO [N. DE E. REPUBLICADO], G.O. 6 DE MAYO DE 2026)</small>
 
 b) Sujetarse a otros vehículos en movimiento;
 
-c) Transportar pasajeros menores de doce años de edad;
+> <small>(REFORMADO, G.O. 6 DE MAYO DE 2026)</small>
+
+c) Transportar pasajeros menores de doce años de edad, con excepción de los VEMEPE Tipo B de 3 o más ruedas que cumplan con lo establecido en el artículo 37 fracción III, inciso f).
 
 d) Transportar a un pasajero entre el conductor y el manubrio; y
 
 e) Transportar un menor de edad, cuando este no pueda sujetarse por sí mismo a la motocicleta y, estando correctamente sentado, no pueda colocar adecuada y firmemente los pies en los estribos o posa pies, excepto que cuente con los aditamentos especialmente diseñados para su seguridad.
 
+> <small>(ADICIONADO, G.O. 6 DE MAYO DE 2026)</small>
+
+f) Transportar un menor de edad de entre 12 y hasta 18 años, cuando este no pueda sujetarse por sí mismo a la motocicleta o al VEMEPE Tipo B y estando correctamente sentado, no pueda colocar adecuada y firmemente los pies en los estribos o posapiés, excepto que cuente con los aditamentos especialmente diseñados para su seguridad.
+
+> <small>(ADICIONADO, G.O. 6 DE MAYO DE 2026)</small>
+
+g) Transportar pasajeros cuando se trate de VEMEPE Tipo A.
+
 > <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
 Los conductores de vehículos motorizados que infrinjan los incisos a) y b) de la presente disposición serán sancionados con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente y un punto a la licencia para conducir.
 
-> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, G.O. 6 DE MAYO DE 2026)</small>
 
-En caso de infringir lo dispuesto en los incisos c), d) y e) de esta fracción, serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
+En caso de infringir lo dispuesto en los incisos c), d) e), f) y g) de esta fracción, serán sancionados con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente y tres puntos a la licencia para conducir.
 
 IV. Adicionalmente, a los conductores de vehículos de transporte público, escolar y de personal:
 
@@ -2078,15 +2174,19 @@ Los conductores que no cumplan con lo establecido en el presente artículo será
 
 ### CAPÍTULO II. DE LAS CARACTERÍSTICAS DE LOS VEHÍCULO
 
-> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2018)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE MAYO DE 2026)</small>
 
 ###### Artículo 40.
 
-Los conductores de vehículos deben cerciorarse de que su vehículo esté provisto de los siguientes elementos, de acuerdo a la naturaleza propia de cada vehículo.
+Los conductores de vehículos deben cerciorarse de que su vehículo esté provisto de los siguientes elementos, de acuerdo con la naturaleza propia de cada vehículo.
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2018)</small>
 
 I. Conductores de vehículos no motorizados:
 
 a) Contar con reflejantes rojos atrás, reflejantes blancos adelante o luces traseras y delanteras en los colores antes indicados.
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2018)</small>
 
 II. Conductores de todo vehículo motorizado:
 
@@ -2114,9 +2214,15 @@ k) Cinturones de seguridad para cada ocupante del vehículo, y
 
 l) Extintor, dos señalamientos de advertencia reflejantes o luminosos, neumático de refacción y la herramienta adecuada para el cambio o reparación de la misma; o en su caso, neumáticos que permitan la circulación sin presión o el sistema auxiliar que permita rodar con seguridad, con un neumático ponchado.
 
+> <small>(ADICIONADO, G.O. 6 DE MAYO DE 2026)</small>
+
+m) Adicionalmente, los VEMEPE deberán de contar con ambos espejos retrovisores, luces indicadoras de frenos en la parte trasera, así como direccionales e intermitentes delanteras y traseras;
+
 > <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
 El incumplimiento de las obligaciones previstas en esta fracción, se sancionarán con una multa equivalente a 5, 7 o 10 veces la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2018)</small>
 
 III. En caso de vehículos para enseñanza, adicionalmente deben contar con:
 
@@ -2130,6 +2236,8 @@ c) Las demás características que determine la Secretaría.
 
 El incumplimiento de las obligaciones previstas en esta fracción, se sancionarán con una multa equivalente a 30, 35 o 40 veces la Unidad de Medida y Actualización vigente.
 
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2018)</small>
+
 IV. Vehículos de transporte público, transporte de personal y escolar:
 
 a) Bandas reflejantes de color blanco y rojo en los costados laterales y posterior y bandas reflejantes amarillas en la parte frontal;
@@ -2141,6 +2249,8 @@ c) Tratándose de taxis preferentes los sistemas para la sujeción de pasajeros 
 > <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
 El incumplimiento de las obligaciones previstas en esta fracción, se sancionará con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente.
+
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2018)</small>
 
 V. Vehículos de transporte de carga:
 
@@ -2155,6 +2265,8 @@ c) Salvaguardas laterales de acuerdo con el anexo correspondiente de este ordena
 El incumplimiento de las obligaciones previstas en esta fracción, se sancionarán con una multa equivalente a 10, 15 o 20 veces la Unidad de Medida y Actualización vigente.
 
 > <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
+
+> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2018)</small>
 
 Adicionalmente, las escuelas de manejo que incumplan lo dispuesto en la fracción III serán sancionadas de acuerdo a lo que establezca la autorización respectiva de funcionamiento.
 
@@ -2270,21 +2382,23 @@ El incumplimiento de las obligaciones señaladas en la presente disposición, se
 
 ### CAPITULO I. DE LOS REQUISITOS LEGALES PARA LA CONDUCCIÓN DE VEHÍCULOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE MAYO DE 2026)</small>
+
 ###### Artículo 44.
 
-Los conductores de vehículos motorizados deben cumplir con los requisitos legales especificados por cada tipo de vehículo del que se trate:
+Los conductores de cualquier tipo de vehículo deben cumplir con los requisitos legales especificados por cada tipo de vehículo del que se trate:
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 10 DE AGOSTO DE 2023)</small>
 
 I. Conductores de vehículos motorizados de uso particular, deberán:
 
-> <small>(REFORMADO, G.O. 10 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO, G.O. 6 DE MAYO DE 2026)</small>
 
-a) Cuando sean menores de edad, portar permiso para conducir automóviles. Las motocicletas no podrán ser conducidas por menores de edad;
+a) Cuando sean menores de edad, portar permiso para conducir automóviles. Las motocicletas y VEMEPE no podrán ser conducidos por personas menores de edad;
 
-> <small>(REFORMADO, G.O. 26 DE NOVIEMBRE DE 2024)</small>
+> <small>(REFORMADO, G.O. 6 DE MAYO DE 2026)</small>
 
-b) Cuando sean mayores de edad, portar licencia vigente en formato físico o digital, correspondiente al tipo de vehículo. Tratándose de motociclistas deberán portar la licencia tipo A1, A2, o A permanente, expedida durante el periodo del 31 de diciembre de 2003, hasta el 31 de diciembre de 2007, disposición que no es aplicable para la licencia permanente Tipo A, expedida a partir del 16 de noviembre de 2024, ya que ésta no avala la conducción de motocicletas.
+b) Cuando sean mayores de edad, portar licencia vigente en formato físico o digital, correspondiente al tipo de vehículo. Tratándose de personas conductoras de motocicleta y de VEMEPE, deberán portar la licencia tipo A1, A2, o A permanente, expedida durante el periodo del 31 de diciembre de 2003, hasta el 31 de diciembre de 2007, disposición que no es aplicable para la licencia permanente Tipo A, expedida a partir del 16 de noviembre de 2024, ya que ésta no avala la conducción de motocicletas y de VEMEPE.
 
 > <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
 
@@ -2356,17 +2470,31 @@ c) Contar con protocolos de actuación en casos de emergencia.
 
 El incumplimiento de las obligaciones señaladas en los incisos a), b) y c) de la presente disposición, se sancionará con una multa equivalente a 80, 90 o 100 veces la Unidad de Medida y Actualización vigente, sin menoscabo de lo estipulado por la Ley y su reglamento respectivo.
 
+> <small>(ADICIONADO [N. DE E, ESTE PÁRRAFO], G.O. 6 DE MAYO DE 2026)</small>
+
+VII. Tratándose de vehículos eléctricos personales (VEP):
+
+> <small>(ADICIONADO, G.O. 6 DE MAYO DE 2026)</small>
+
+a) Portar el distintivo de movilidad eléctrica (DME).
+
+> <small>(ADICIONADO [N. DE E. PERTENECE A LA FRACCIÓN VII], G.O. 6 DE MAYO DE 2026)</small>
+
+Los conductores de vehículos eléctricos personales que incumplan la obligación señalada en esta fracción serán amonestados verbalmente por los agentes y/o agentes autorizados para infraccionar, y orientados a conducirse de conformidad con lo establecido por las disposiciones aplicables.
+
 > <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
 Los requisitos y procedimiento (sic) para la obtención de permisos y licencias de conducir, tarjetones y demás documentos para la conducción de vehículos se establecen en la Ley y en el Reglamento respectivo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 6 DE MAYO DE 2026)</small>
 
 ###### Artículo 45.
 
-Los vehículos motorizados que circulen en el territorio de la Ciudad de México deberán de contar con:
+Los vehículos motorizados que circulen en el territorio de la Ciudad de México deben de contar con:
 
-I. Placas de matrícula frontal y posterior, o permiso provisional vigentes correspondiente al tipo de vehículo, o en su defecto, la copia certificada de la denuncia de la pérdida de las placas de matrícula ante el agente del Ministerio Público o la constancia de hechos ante el Juez Cívico, la cual no deberá exceder del término de 10 días hábiles a partir de la fecha de su expedición; mismos que deberán:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 6 DE MAYO DE 2026)</small>
+
+I. Placas de matrícula frontal y posterior, o permiso vigente expedido por la Secretaría, correspondiente al tipo de vehículo, o en su defecto, la copia certificada de la denuncia de la pérdida de las placas de matrícula ante el agente del Ministerio Público o la constancia de hechos ante el Juez Cívico, la cual no deberá exceder del término de 10 días hábiles a partir de la fecha de su expedición; mismos que deberán:
 
 a) Estar colocadas en el lugar destinado por el fabricante del vehículo;
 
@@ -2378,17 +2506,23 @@ c) Coincidir con la calcomanía permanente de circulación, con la tarjeta de ci
 
 d) Tener la dimensión y características que especifique la Norma Oficial Mexicana respectiva; y
 
-e) En el caso de motocicletas, la placa deberá estar colocada en un lugar visible, con la lectura en dirección hacia la parte trasera del vehículo, con una inclinación entre 60° y 120°, con base en su eje horizontal.
+> <small>(REFORMADO, G.O. 6 DE MAYO DE 2026)</small>
+
+e) En el caso de motocicletas y VEMEPE, la placa deberá estar colocada en un lugar visible, con la lectura en dirección hacia la parte trasera del vehículo, con una inclinación entre 60° y 120°, con base en su eje horizontal.
 
 II. La calcomanía de circulación permanente;
 
-> <small>(REFORMADA, G.O. 4 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADA, G.O. 6 DE MAYO DE 2026)</small>
 
-III. El holograma y constancia de verificación vehicular vigente con excepción de motocicletas. Los vehículos motorizados de los Estados que conforman la Comisión Ambiental de la Megalópolis y que circulen en el territorio de la Ciudad de México están obligados a portar su holograma y constancia de verificación vehicular vigente respectiva.
+III. El holograma y constancia de verificación vehicular vigente con excepción de motocicletas y VEMEPE. Los vehículos motorizados de los Estados que conforman la Comisión Ambiental de la Megalópolis y que circulen en el territorio de la Ciudad de México están obligados a portar su holograma y constancia de verificación vehicular vigente respectiva.
 
 > <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2023)</small>
 
 IV. Tarjeta de circulación vigente, en formato físico o digital.
+
+> <small>(ADICIONADA, G.O. 6 DE MAYO DE 2026)</small>
+
+V. En el caso de VEMEPE, distintivo de movilidad eléctrica (DME).
 
 Tratándose de vehículos con placas de matrícula extranjera, portar los documentos oficiales en los que se describan las características del vehículo y se acredite la legal estancia en el país.
 
@@ -2400,59 +2534,11 @@ El incumplimiento de las obligaciones señaladas en el presente artículo, se sa
 
 > <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 4 DE FEBRERO DE 2021)</small>
+> <small>(REFORMADO, G.O. 6 DE MAYO DE 2026)</small>
 
 ###### Artículo 46.
 
-Los vehículos motorizados deberán contar con póliza de seguro de responsabilidad civil vigente, expedida por una institución autorizada por la Comisión Nacional de Seguros y Fianzas; que ampare al menos la responsabilidad civil por daños a terceros en su persona y en su patrimonio.
-
-En el caso de las unidades que prestan el servicio de transporte público de pasajeros o de carga, deberá contar con póliza de seguro de responsabilidad civil vigente, que ampare la responsabilidad civil por daños y perjuicio que con motivo de la prestación del servicio pudiese ocasionar a los usuarios o terceros en su persona o patrimonio, dependiendo de la modalidad de transporte a la que corresponda y de acuerdo a lo que establezca el reglamento de la Ley. Sin perjuicio de las sanciones establecidas en este reglamento, serán sancionados de acuerdo a lo estipulado en la Ley y su reglamento.
-
-> <small>(REFORMADO, G.O. 4 DE FEBRERO DE 2021)</small>
-
-En caso de no portar la póliza vigente, el propietario del vehículo particular será sancionado con una multa equivalente a 20, 30 o 40 veces la Unidad de Medida y Actualización vigente.
-
-> <small>(DEROGADA TABLA, G.O. 4 DE FEBRERO DE 2021)</small>
-
-> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
-
-El incumplimiento de la presente disposición por parte del concesionario de (sic) unidad de transporte de carga se sancionará con una multa equivalente a 40, 50 o 60 veces la Unidad de Medida y Actualización vigente.
-
-> <small>(ADICIONADO, G.O. 4 DE FEBRERO DE 2021)</small>
-
-Tratándose del incumplimiento por parte del concesionario de (sic) unidad de transporte público de pasajeros se sancionará con una multa equivalente a 60, 70 o (sic) 80 veces la Unidad de Medida y Actualización vigente.
-
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], G.O. 4 DE FEBRERO DE 2021)</small>
-
-El propietario del vehículo particular tendrá 45 días naturales contados a partir del día en que se encuentre publicada la boleta de sanción correspondiente en la dirección electrónica https://estrados.cdmx.gob.mx/, para solicitar la cancelación de la multa, al presentar ante Seguridad Ciudadana los siguientes requisitos:
-
-> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2021)</small>
-
-I. Solicitud por escrito a través del Formato autorizado para tal efecto;
-
-> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2021)</small>
-
-II. Identificación Oficial (Credencial para Votar, Pasaporte, Cédula Profesional o Cartilla del Servicio Militar);
-
-> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2021)</small>
-
-III. Tratándose de personas morales, documentos de Acreditación de Personalidad Jurídica (Acta Constitutiva, Poder Notarial, Identificación Oficial del Representante o Apoderado);
-
-> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2021)</small>
-
-IV. Tarjeta de Circulación;
-
-> <small>(ADICIONADA, G.O. 4 DE FEBRERO DE 2021)</small>
-
-V. Póliza de Seguro Vigente;
-
-> <small>(ADICIONADA [N. DE E. CON SUS INCISOS], G.O. 4 DE FEBRERO DE 2021)</small>
-
-VI. En caso de que el vehículo no se encuentre a nombre de la persona que realiza el trámite, deberá presentarse:
-
-a) Carta Poder con copia de identificación de quien otorga el poder y testigos, o Factura endosada a nombre de la persona que realiza el trámite;
-
-b) Identificación oficial del titular de la tarjeta de circulación.
+Los vehículos motorizados, incluyendo los VEMEPE, deberán contar con póliza de seguro de responsabilidad civil vigente, expedida por una institución autorizada por la Comisión Nacional de Seguros y Fianzas; que ampare al menos la responsabilidad civil por daños a terceros en su persona y en su patrimonio.
 
 ###### Artículo 47.
 
@@ -3044,9 +3130,9 @@ infracción;
 
 III. Vehículos en estado de abandono conforme a lo previsto en las fracciones I y II del artículo 35 de este Reglamento;
 
-> <small>(ADICIONADA, G.O. 10 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADA, G.O. 6 DE MAYO DE 2026)</small>
 
-III Bis. Motocicletas que transgredan lo previsto en las fracciones II y III del artículo 21, la fracción III incisos b) y d) del artículo 37 y la fracción III incisos c) y e) del artículo 38 de este Reglamento;
+III Bis. Motocicletas y VEMEPE, que transgredan lo previsto en las fracciones II y III del artículo 21, la fracción III incisos b), d) y f) del artículo 37 y la fracción III incisos c) y e) del artículo 38 de este Reglamento;
 
 > <small>(REFORMADA, G.O. 10 DE AGOSTO DE 2023)</small>
 
@@ -3243,3 +3329,21 @@ G.O. 10 DE OCTUBRE DE 2025.
 PRIMERO. Publíquese en la Gaceta Oficial de la Ciudad de México.
 
 SEGUNDO. El presente Decreto entrará en vigor el mismo día de su publicación.
+
+G.O. 6 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES AL REGLAMENTO DE TRÁNSITO DE LA CIUDAD DE MÉXICO, EN MATERIA DE VEHÍCULOS MOTORIZADOS ELÉCTRICOS PERSONALES (VEMEPE)".]
+
+PRIMERO. Publíquese el presente Decreto en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicación.
+
+TERCERO. La Secretaría de Movilidad, en el ámbito de sus atribuciones, será la encargada de planear, instrumentar y dar seguimiento a las acciones necesarias para el cumplimiento del presente Reglamento, así como de definir y ejecutar las estrategias para su difusión y socialización.
+
+La Secretaría de Seguridad Ciudadana coadyuvará, en el ámbito de sus atribuciones, en la implementación de dichas acciones, brindando apoyo en materia de vigilancia, aplicación y prevención dirigida al cumplimiento del presente Reglamento.
+
+CUARTO. A partir del primer día de septiembre de 2026 las personas agentes de tránsito adscritas a la Secretaría de Seguridad Ciudadana con facultades para imponer infracciones comenzarán a aplicar las sanciones que se prevén en el presente Decreto para los Vehículos Motorizados Eléctricos Personales (VEMEPE) que ya cuenten con placa de circulación y distintivo de movilidad eléctrica (DEM), por lo que podrán amonestar a las personas conductoras que infrinjan las reglas previstas en el presente Decreto, apercibiéndolos de las sanciones correspondientes a la infracción que corresponda.
+
+QUINTO. A partir del 20 de noviembre de 2026, las personas agentes de tránsito adscritas a la Secretaría de Seguridad Ciudadana con facultades para imponer infracciones comenzarán a aplicar las sanciones previstas en el presente Decreto por las infracciones cometidas por las personas conductas (sic) de VEMEPE, aplicando en su caso la multa que corresponda.
+
+SEXTO. Se derogan todas aquellas disposiciones administrativas que se opongan a lo contenido en el presente Decreto.
