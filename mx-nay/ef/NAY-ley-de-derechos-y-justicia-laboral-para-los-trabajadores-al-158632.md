@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-derechos-y-justicia-laboral-para-los-trabajadores-al-158
 country: "mx"
 rank: "ley"
 publication_date: "2022-05-28"
-last_updated: "2026-02-13"
+last_updated: "2026-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=158632&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE DERECHOS Y JUSTICIA LABORAL PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2026.
 
 Ley publicada en la Sección Segunda del Número 098 del Periódico Oficial del Estado de Nayarit, el sábado 28 de mayo de 2022.
 
@@ -199,9 +199,11 @@ En caso de duda prevalecerá la interpretación más favorable para el trabajado
 
 ### Capítulo Primero. Derechos de los Trabajadores
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2026)</small>
+
 ###### Artículo 17.
 
-Derechos de trabajadores. Son derechos de los trabajadores de base:
+Derechos de las personas trabajadoras. Son derechos de las personas trabajadoras de base:
 
 I. La jornada diaria máxima de trabajo diurno y nocturno será de ocho y siete horas respectivamente. Las que excedan serán extraordinarias y se pagarán con un ciento por ciento más de la remuneración fijada para el servicio ordinario. En ningún caso el trabajo extraordinario podrá exceder de tres horas diarias ni de tres veces por semana;
 
@@ -211,7 +213,13 @@ III. Los trabajadores gozarán de vacaciones que nunca serán menores de veinte 
 
 IV. Los salarios serán fijados en los presupuestos de egresos respectivos sin que su cuantía pueda ser disminuida, ni inferior al salario mínimo establecido para los trabajadores en general;
 
-V. A trabajo igual corresponderá salario igual;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2026)</small>
+
+V. A trabajo igual, desempeñado en las mismas condiciones y jornada, deberá corresponder salario igual, sin tener en cuenta el sexo ni el género.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2026)</small>
+
+En cumplimiento de las obligaciones del Estado de eliminar la brecha salarial de género, se promoverán acciones para erradicar las prácticas retributivas desiguales y garantizar la igualdad sustantiva, de conformidad con lo dispuesto en la legislación estatal en materia de igualdad sustantiva entre mujeres y hombres;
 
 VI. El derecho al salario es personal e inalienable. Sólo podrán hacerse pagos a terceros, retenciones, descuentos, deducciones o embargos de éste, en los casos expresamente previstos en las leyes;
 
@@ -449,7 +457,9 @@ V. El 16 de septiembre;
 
 VI. El tercer lunes de noviembre en conmemoración del 20 de noviembre;
 
-VII. El 1o. de diciembre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2026)</small>
+
+VII. El 1o. de octubre de cada seis años, cuando corresponda a la transmisión del Poder Ejecutivo Federal;
 
 VIII. El 25 de diciembre;
 
@@ -3510,3 +3520,11 @@ P.O. 13 DE FEBRERO DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE ADICIONA EL ARTÍCULO 146 BIS DE LA LEY DE DERECHOS Y JUSTICIA LABORAL PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE NAYARIT, EN MATERIA DE INJERENCIA SINDICAL”.]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 7 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS Y JUSTICIA LABORAL PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE NAYARIT”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo. La implementación de las disposiciones contenidas en el artículo 17 fracción V del presente Decreto se realizará de manera progresiva, con los recursos humanos, materiales y financieros disponibles, por lo que no implicará la creación de nuevas estructuras administrativas, ni generará impacto presupuestario adicional.
