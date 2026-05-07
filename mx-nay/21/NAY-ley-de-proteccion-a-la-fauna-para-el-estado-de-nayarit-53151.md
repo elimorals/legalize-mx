@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-proteccion-a-la-fauna-para-el-estado-de-nayarit-53151"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-16"
-last_updated: "2023-05-18"
+last_updated: "2026-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE PROTECCIÓN A LA FAUNA PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2026.
 
 Ley publicada en la Sección Décima Tercera al Periódico Oficial del Estado de Nayarit, el sábado 16 de diciembre de 2006.
 
@@ -65,9 +65,11 @@ VI. Promover la cultura de protección y respeto a la naturaleza; y
 
 VII. Fortalecer y fomentar la educación para el debido trato humanitario de los animales domésticos.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 3°.
 
-Son objeto de tutela y protección de ésta ley las especies de fauna silvestre y doméstica.
+Son objeto de tutela y protección de esta ley las especies de fauna silvestre y doméstica.
 
 > <small>(REFORMADO, P.O. 5 DE SEPTIEMBRE DE 2016)</small>
 
@@ -113,9 +115,9 @@ IX. Especies o poblaciones prioritarias para la conservación.- Aquellas determi
 
 X. Fauna Doméstica.- Aquellos que por su naturaleza, instinto o condición habitan permanentemente en compañía y dependencia de los seres humanos, y los que se crían y reproducen con ese propósito; en todos los casos independientemente de su pertenencia a especies amenazadas, exóticas, en peligro de extinción o prioritarias para la conservación;
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2026)</small>
 
-XI. Fauna Silvestre.- Los organismos que subsisten sujetos a los procesos de evolución natural y que se desarrollan libremente en su hábitat, incluyendo sus poblaciones menores e individuos que se encuentran bajo el control del hombre, así como aquellos que presenten características de peligrosidad, ferocidad o fuerza natural extrema;
+XI. Fauna Silvestre.- Conjunto de organismos que subsisten sujetos a los procesos de evolución natural y que se desarrollan libremente en su hábitat, incluyendo sus poblaciones e individuos que, aun cuando se encuentren bajo el control de las personas, mantengan características propias de la vida silvestre. Asimismo, comprende aquellos que presenten características de peligrosidad, ferocidad o fuerza natural extrema;
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2023)</small>
 
@@ -151,17 +153,25 @@ XX. Unidades de manejo de conservación de la fauna silvestre.- Los predios e in
 
 Son supletorias del presente ordenamiento las disposiciones de la Ley General de Vida Silvestre, las Leyes General y Estatal del Equilibrio Ecológico y Protección al Ambiente, y en su caso, las del derecho común.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 6°.
 
-La aplicación y vigilancia del cumplimento (sic) de ésta ley corresponde, en el ámbito de sus respectivas competencias:
+La aplicación y vigilancia del cumplimiento de esta ley corresponde, en el ámbito de sus respectivas competencias:
 
-I. Al Ejecutivo del Estado, en los términos de esta ley; y
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2026)</small>
 
-II. A las autoridades municipales;
+I. A la persona titular del Poder Ejecutivo Estatal, en los términos de esta ley, y
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2026)</small>
+
+II. A las autoridades municipales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 7°.
 
-La política que el Ejecutivo del Estado establezca en relación con la fauna silvestre y domestica se incluirá como parte del Programa Estatal de Protección al Ambiente previsto en la ley de la materia. Asimismo le corresponderá:
+La política que la persona titular del Poder Ejecutivo Estatal, establezca en relación con la fauna silvestre y doméstica se incluirá como parte del Programa Estatal de Protección al Ambiente previsto en la ley de la materia. Asimismo, le corresponderá:
 
 I. Fomentar la creación de sociedades, asociaciones o grupos de protección de animales;
 
@@ -175,15 +185,17 @@ V. Realizar y convocar a ejecutar planes de protección animal a las organizacio
 
 VI. Emitir recomendaciones a las autoridades competentes en materia de fauna silvestre, con el propósito de promover el cumplimiento de la legislación respectiva, y considerar las que reciba de otras autoridades sobre su propia actuación;
 
-VII. Participar a través del representante respectivo, en el Consejo Técnico Consultivo Nacional para la Conservación y Aprovechamiento Sustentable de la Vida Silvestre y demás instancias análogas; y
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2026)</small>
+
+VII. Participar a través de la persona representante respectiva, en el Consejo Técnico Consultivo Nacional para la Conservación y Aprovechamiento Sustentable de la Vida Silvestre y demás instancias análogas, y
 
 VIII. Promover y celebrar los convenios necesarios con la Federación, al objeto de asumir las funciones susceptibles de transferencia conforme a la Ley General de Vida Silvestre, revertirlas al gobierno federal y renovar dichos convenios cuando fueren temporales.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 8°.
 
-Las atribuciones que esta ley otorga al Ejecutivo del Estado serán ejercidas a través de la Secretaría de Desarrollo Rural y de la Procuraduría Estatal de Protección al Ambiente y Ordenamiento Territorial en el ámbito de sus respectivas competencias de conformidad a la legislación vigente.
+Las atribuciones que esta ley otorga a la persona titular del Poder Ejecutivo Estatal serán ejercidas a través de la Secretaría de Desarrollo Rural, la Secretaría de Seguridad y Protección Ciudadana, y la Procuraduría Estatal de Protección al Ambiente y Ordenamiento Territorial en el ámbito de sus respectivas competencias de conformidad con la legislación vigente.
 
 ### CAPITULO II. DE LAS COMISIONES ESTATAL Y MUNICIPALES DE PROTECCIÓN A LA FAUNA
 
@@ -191,41 +203,51 @@ Las atribuciones que esta ley otorga al Ejecutivo del Estado serán ejercidas a 
 
 Se crea la Comisión Estatal, como un organismo de consulta y apoyo dedicado a la protección de los animales en todos sus órdenes, que tendrá por objeto analizar, proponer, evaluar, consensar y dar seguimiento a los programas, estrategias, acciones y políticas relacionadas con las tareas de protección a la fauna.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 10.
 
-la Comisión Estatal se integra por:
+La Comisión Estatal se integra por:
 
-I. Un Presidente.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2026)</small>
 
-II. Un Secretario.
+I. Una persona que ocupará la Presidencia;
 
-III. Un representante de la Secretaría de Salud.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2023)</small>
+II. Una persona que ocupará la Secretaría Técnica;
 
-IV. Un representante de la Secretaría de Desarrollo Rural;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2023)</small>
+III. Una persona representante de la Secretaría de Salud;
 
-V. Un representante de la Procuraduría Estatal de Protección al Ambiente y Ordenamiento Territorial;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2023)</small>
+IV. Una persona representante de la Secretaría de Desarrollo Rural;
 
-VI. Un representante de la Secretaría de Desarrollo Sustentable;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2023)</small>
+V. Una persona representante de la Procuraduría Estatal de Protección al Ambiente y Ordenamiento Territorial;
 
-VII. Un representante por cada Comisión Municipal de Protección a la Fauna, previa acreditación, y
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 18 DE MAYO DE 2023)</small>
+VI. Una persona representante de la Secretaría de Desarrollo Sustentable;
 
-VIII. Un representante de las Fundaciones, Organizaciones sociales o privadas dedicadas a la protección de la fauna.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2026)</small>
+
+VII. Una persona representante por cada comisión Municipal de Protección a la Fauna, previa acreditación, y
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2026)</small>
+
+VIII. Una persona representante de las Fundaciones, Organizaciones sociales o privadas dedicadas a la protección de la fauna.
 
 Los cargos serán de carácter honorífico, y no recibirán emolumento o contraprestación alguna.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 11.
 
-El Presidente y Secretario de la Comisión Estatal serán designados y removidos libremente por el Gobernador, recayendo estos cargos en personas que formen parte de organizaciones dedicadas a la protección de la fauna.
+Quienes ocupen la Presidencia y la Secretaría Técnica de la Comisión Estatal, se designarán y removerán libremente por la persona titular del Poder Ejecutivo Estatal, debiendo recaer estos cargos en personas que formen parte de organizaciones dedicadas a la protección de la fauna.
 
 ###### ARTÍCULO 12.
 
@@ -259,15 +281,25 @@ En cada municipio de la entidad deberá constituirse una Comisión Municipal, co
 
 La Comisión Municipal estará integrada por:
 
-I. Un Presidente.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2026)</small>
 
-II. Un Secretario.
+I. Una persona que ocupará la Presidencia;
 
-III. Un representante de la Dirección de Salud Municipal.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2026)</small>
 
-IV. Un represente de las Fundaciones, Asociaciones u Organizaciones social o privadas dedicadas a la protección de la fauna.
+II. Una persona que ocupará la Secretaría;
 
-El presidente y secretario de la Comisión Municipal serán designados y removidos libremente por el presidente municipal.
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2026)</small>
+
+III. Una persona representante de la Dirección de Salud Municipal, y
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2026)</small>
+
+IV. Una persona representante de las Fundaciones, Asociaciones u Organizaciones sociales o privadas dedicadas a la protección de la fauna.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
+
+La Presidencia y la Secretaría de la Comisión Municipal se designarán y removerán libremente por la persona titular de la Presidencia Municipal.
 
 ###### ARTÍCULO 14.
 
@@ -277,7 +309,9 @@ Las Comisiones Municipales tendrán, en el ámbito de su competencia, las mismas
 
 Corresponde a los gobiernos municipales:
 
-I. Ejercer de manera concurrente con el Estado, según el convenio respectivo, la competencia que le reconozca ésta ley y sus disposiciones reglamentarias.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2026)</small>
+
+I. Ejercer de manera concurrente con el Estado, según el convenio respectivo, la competencia que le reconozca esta ley y sus disposiciones reglamentarias.
 
 Los convenios que celebren los gobiernos municipales entre sí o con el gobierno del Estado, se ajustarán estrictamente a las disposiciones de las leyes federales y estatales en materia de protección a la fauna, equilibrio ecológico y protección al ambiente;
 
@@ -285,7 +319,9 @@ II. Expedir licencias o autorizaciones de funcionamiento para la operación de e
 
 III. Promover campañas permanentes de difusión en materia de protección animal y de conservación y respeto a la fauna silvestre;
 
-IV. Gestionar mediante convenio con el Estado centros de asilo, reservorios o centros. de custodia, para especies de fauna doméstica a fin de que se canalice a éstos a los animales abandonados, perdidos, sin dueño, lastimados, enfermos, feroces o peligrosos, en los términos de la presente ley;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2026)</small>
+
+IV. Gestionar mediante convenio con el Estado centros de asilo, reservorios o centros de custodia, para especies de fauna doméstica a fin de que se canalice a éstos a los animales abandonados, perdidos, sin dueña o dueño, lastimados, enfermos, feroces o peligrosos, en los términos de la presente ley;
 
 V. Coordinarse con las autoridades federales y estatales competentes, en las materias relativas al objeto de la presente ley;
 
@@ -317,13 +353,17 @@ XII. Ejercer las demás atribuciones que determine la presente ley y sus disposi
 
 Las autoridades estatales y municipales en el ámbito de sus respectivas competencias, deberán fomentar la participación corresponsable de la sociedad en la formulación y seguimiento de la aplicación de las políticas de protección a la fauna, mediante la creación de fundaciones, asociaciones u organizaciones sociales o privadas que coadyuven en el cumplimiento de los objetivos del presente ordenamiento.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 17.
 
-Los particulares promoverán el otorgamiento de reconocimientos a los esfuerzos más destacados de la sociedad dedicados a la conservación, protección, preservación y aprovechamiento sustentable de la fauna en general, en cualquiera de los medios o ámbitos en los que se desarrolla.
+Las personas particulares promoverán el otorgamiento de reconocimientos a los esfuerzos más destacados de la sociedad dedicados a la conservación, protección, preservación y aprovechamiento sustentable de la fauna en general, en cualquiera de los medios o ámbitos en los que se desarrolla.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 18.
 
-Son prerrogativas de los particulares:
+Son prerrogativas de las personas particulares:
 
 I.- Solicitar a la autoridad municipal la captura de animales que deambulen en su colonia, barrio o fraccionamiento;
 
@@ -339,9 +379,11 @@ Toda persona que tenga conocimiento del ejercicio ilegal de la caza, pesca, capt
 
 Las autoridades podrán celebrar convenios de colaboración con los diferentes sectores de la sociedad constituidos legalmente, y registrados en el Padrón Estatal, con el fin de fomentar el establecimiento de refugios, campamentos, albergues o cualquier establecimiento que tenga por objeto la conservación, protección, preservación y aprovechamiento sustentable de la fauna en cualquiera de los medios o ámbitos en que se desarrolla.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 21.
 
-Las asociaciones protectoras de animales y los médicos veterinarios colegiados podrán colaborar con las autoridades municipales y sanitarias en las campañas que implementen en tratándose de vacunación antirrábica, esterilización, promoción de la cultura de respeto a los animales y demás acciones para el desarrollo de las políticas en materia de esta ley.
+Las asociaciones protectoras de animales, así como las personas profesionistas de la medicina veterinaria colegiadas, podrán colaborar con las autoridades municipales y sanitarias en las campañas que implementen en tratándose de vacunación antirrábica, esterilización, promoción de la cultura de respeto a los animales y demás acciones para el desarrollo de las políticas en materia de esta ley.
 
 ###### ARTÍCULO 22.
 
@@ -355,25 +397,31 @@ III. Promover y fomentar la participación ciudadana en las diversas campañas d
 
 IV. Promover la cultura de trato digno y respetuoso a la fauna en general y demás acciones para el desarrollo de las políticas en la materia establecidas en esta ley.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 23.
 
-Toda persona física o moral deberá denunciar ante la autoridad correspondiente los actos u omisiones de los servidores públicos que contravengan la presente ley.
+Toda persona física o moral deberá denunciar ante la autoridad correspondiente los actos u omisiones de las personas servidoras públicas que contravengan la presente ley.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 24.
 
-La autoridad que conozca de la denuncia tiene la obligación de proceder conforme a las disposiciones de la Ley General de Responsabilidades Administrativas, así como la normatividad aplicable en la materia.
+La autoridad que conozca de la denuncia tiene la obligación de proceder conforme a las disposiciones de la Ley General de Responsabilidades Administrativas, la Ley de Responsabilidades Administrativas del Estado de Nayarit, así como la normatividad aplicable en la materia.
 
 ### CAPITULO IV. DE LA CULTURA DE PROTECCIÓN A LA FAUNA
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 25.
 
-Las autoridades estatales y municipales en el ámbito de su competencia, promoverán mediante programas y campañas de difusión, valores y conductas de trato digno y respetuoso por parte del ser humano hacia los animales, encaminado a fomentar la cultura de protección a la fauna silvestre y domestica, con base en las disposiciones establecidas en la presente ley y su reglamento.
+Las autoridades estatales y municipales en el ámbito de su competencia, promoverán mediante programas y campañas de difusión, valores y conductas de trato digno y respetuoso por parte del ser humano hacia los animales, encaminadas a fomentar la cultura de protección a la fauna silvestre y doméstica, con base en las disposiciones establecidas en la presente ley y su reglamento.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 26.
 
-a Comisión Estatal promoverá ante las autoridades competentes, que las instituciones de educación básica, media, superior y de investigación, así como con las organizaciones no gubernamentales, fundaciones y asociaciones protectoras de animales legalmente constituidas y registradas en el Padrón Estatal, implementen el desarrollo de programas de formación en la cultura de respeto y protección a la fauna.
+La Comisión Estatal promoverá ante las autoridades competentes, que las instituciones de educación básica, media, superior y de investigación, así como con las organizaciones no gubernamentales, fundaciones y asociaciones protectoras de animales legalmente constituidas y registradas en el Padrón Estatal, implementen el desarrollo de programas de formación en la cultura de respeto y protección a la fauna.
 
 ###### ARTÍCULO 27.
 
@@ -387,13 +435,17 @@ Las Comisiones Estatal y Municipales promoverán y participarán en la capacitac
 
 Toda persona, física o moral, tiene la obligación de brindar un trato digno y respetuoso a cualquier especie animal.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 29.
 
-Los propietarios o poseedores de ejemplares de fauna de cualquier tipo, deben usar y disponer de ellos en forma que no perjudique a la colectividad, bajo las sanciones establecidas en esta ley y demás disposiciones aplicables.
+Las personas propietarias o poseedoras de ejemplares de fauna de cualquier tipo, deben usar y disponer de ellos en forma que no perjudique a la colectividad, bajo las sanciones establecidas en esta ley y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 30.
 
-Los propietarios o legítimos poseedores de los predios en los que se distribuya la fauna silvestre, poseen derechos y obligaciones al aprovechamiento sustentable sobre sus ejemplares, partes y derivados a través de unidades de manejo para la conservación de la fauna silvestre, en los términos previstos por la Ley General de Vida Silvestre, Ley General de Equilibrio Ecológico y Protección al Ambiente y demás disposiciones aplicables, pero serán responsables de los efectos negativos que el aprovechamiento produzca.
+Las personas propietarias o legítimas poseedoras de los predios en los que se distribuya la fauna silvestre, poseen derechos y obligaciones al aprovechamiento sustentable sobre sus ejemplares, partes y derivados a través de unidades de manejo para la conservación de la fauna silvestre, en los términos previstos por la Ley General de Vida Silvestre, Ley General del Equilibrio Ecológico y la Protección al Ambiente y demás disposiciones aplicables, pero serán responsables de los efectos negativos que el aprovechamiento produzca.
 
 > <small>(ADICIONADO, P.O. 8 DE JULIO DE 2015)</small>
 
@@ -449,9 +501,13 @@ VI. Obligarlos por cualquier medio a que acometan a personas u otros animales;
 
 VII. Privarlos del aire, luz, agua y espacio físico necesarios y adecuados para su óptima salud;
 
-VIII. Cometer sobre ellos, actos de bestialidad, copula o actos de contenido sexual;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2026)</small>
 
-IX. Someterlos a la exposición de ruidos, temperaturas, electricidad, aromas, vibraciones, luces o cualquier otro tipo de fenómenos físico que les resulte perjudicial;
+VIII. Cometer sobre ellos, actos de bestialidad, cópula o actos de contenido sexual;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2026)</small>
+
+IX. Someterlos a la exposición de ruidos, temperaturas, electricidad, aromas, vibraciones, luces o cualquier otro tipo de fenómenos físicos que les resulte perjudicial;
 
 X. Abandonarlos en la vía pública o cualquier otro lugar o espacio que los exponga a peligros innecesarios;
 
@@ -485,19 +541,27 @@ Se prohíbe el uso de animales enfermos, heridos o desnutridos, o de hembras en 
 
 Ningún animal destinado al tiro, carga o cabalgadura será golpeado, fustigado o espoleado con exceso o brutalidad durante el desempeño del trabajo o fuera de él, y si cae al suelo deberá ser descargado, sin golpearlo para reiniciar la carga o tracción.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 39.
 
-Los propietarios, poseedores o encargados de animales de carga, tiro o cabalgadura deberán hacerlos descansar a intervalos necesarios.
+Las personas propietarias, poseedoras o encargadas de animales de carga, tiro o cabalgadura deberán hacerlos descansar a intervalos necesarios.
 
 ### CAPITULO III. FAUNA DOMÉSTICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 40.
 
-los propietarios de animales domésticos están obligados a asir a sus mascotas, permanentemente, una placa de identificación que contendrá los datos siguientes:
+Las personas propietarias de animales domésticos están obligadas a que sus mascotas porten, de manera permanente, una placa de identificación que contenga los datos siguientes:
 
-I. Nombre del animal
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2026)</small>
 
-II. Nombre y teléfono del propietario
+I. Nombre del animal;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2026)</small>
+
+II. Nombre y teléfono de las personas propietarias, y
 
 III. Indicación de la vacuna vigente.
 
@@ -505,11 +569,11 @@ III. Indicación de la vacuna vigente.
 
 A los animales domésticos cuya naturaleza o comportamiento constituya un peligro para la seguridad o salud de las personas, les serán aplicadas las medidas de prevención que al efecto establezca las autoridades competentes, previa audiencia del propietario de los mismos.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 42.
 
-Se crea el Padrón Estatal de Mascotas como un instrumento de información y control en materia de fauna doméstica o de compañía, mascotas silvestres y aves de presa, el cual estará a cargo de la PROEPAOT. La inscripción de las mascotas al Padrón es voluntaria, y los propietarios o poseedores de animales domésticos la efectuarán de conformidad con el Reglamento del presente ordenamiento legal.
+Se crea el Padrón Estatal de Mascotas como un instrumento de información y control en materia de fauna doméstica o de compañía, mascotas silvestres y aves de presa, el cual estará a cargo de la PROEPAOT. La inscripción de las mascotas al Padrón es voluntaria, y las personas propietarias o poseedoras de animales domésticos la efectuarán de conformidad con el Reglamento del presente ordenamiento legal.
 
 ###### ARTÍCULO 43.
 
@@ -533,11 +597,11 @@ DE LA COMERCIALIZACIÓN, TRANSPORTE, EXPERIMENTACIÓN EXHIBICIÓN Y SACRIFICIO D
 
 ### CAPITULO I. DE LA COMERCIALIZACIÓN
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 46.
 
-La exhibición y venta de animales será realizada en locales o instalaciones adecuadas para su correcto cuidado, manutención y protección respetando las normas de salubridad y seguridad, y deberá contar con el personal capacitado para ello. En ningún caso dichas operaciones podrán efectuarse en vía pública.
+La exhibición y venta de animales será realizada en locales o instalaciones adecuadas para su correcto cuidado, manutención y protección respetando las normas de salubridad y seguridad, y deberá contar con el personal capacitado para ello. En ningún caso dichas operaciones podrán efectuarse en la vía pública.
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2019)</small>
 
@@ -545,15 +609,17 @@ La exhibición y venta de animales será realizada en locales o instalaciones ad
 
 Las autoridades estatales y municipales deberán supervisar periódicamente todo expendio de animales a fin de verificar que no se cometa maltrato en contra de los animales y que los mismos cumplan las disposiciones legales que establece esta ley y las leyes sanitarias aplicables.
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2019)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 48.
 
-Los establecimientos de venta de animales, deberán contar con la asesoría de un médico veterinario que brinde bienestar a los animales en el tiempo que se encuentren a la venta, así como con la licencia otorgada por las autoridades municipales, comprobar la procedencia de los mismos, así como demostrar estar autorizado su comercio.
+Los establecimientos de venta de animales, deberán contar con la asesoría de una persona profesional de la medicina veterinaria que brinde bienestar a los animales en el tiempo que se encuentren a la venta, así como con la licencia otorgada por las autoridades municipales, comprobar la procedencia de los mismos, así como demostrar estar autorizado su comercio.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 49.
 
-Se prohíbe la venta de animales vivos, a persona (sic) menores de 12 años, si no están acompañadas por un adulto, quien se responsabilice de la adecuada subsistencia y trato para el animal.
+Se prohíbe la venta de animales vivos, a niñas, niños y adolescentes menores de 12 años de edad, si no están acompañadas por una persona adulta, quien se responsabilice de la adecuada subsistencia y trato para el animal.
 
 ### CAPÍTULO II. DEL TRANSPORTE
 
@@ -583,11 +649,11 @@ En ningún caso se llevará a cabo la movilización por medio de golpes, instrum
 
 ### CAPITULO III. DE LA EXPERIMENTACIÓN
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 51.
 
-Para realizar experimentos con animales, los interesados deberán demostrar ante las autoridades correspondientes que el acto por realizar es en beneficio de la investigación científica o docencia en las carreras a nivel superior relacionadas con la materia; para tal efecto, se requiere el permiso de experimentación en animales expedido por la PROEPAOT.
+Para realizar experimentos con animales, las personas interesadas deberán demostrar ante las autoridades correspondientes que el acto por realizar es en beneficio de la investigación científica o docencia en las carreras a nivel superior relacionadas con la materia; para tal efecto, se requiere el permiso de experimentación en animales expedido por la PROEPAOT.
 
 ###### ARTÍCULO 52.
 
@@ -597,7 +663,9 @@ I. Que los resultados experimentales o de enseñanza deseados no pueden obteners
 
 II. Que los conocimientos que se desean obtener son necesarios para la prevención, control, diagnóstico o tratamiento de enfermedades que afecten al hombre o a los animales;
 
-III. Que los experimentos en animales vivos no puedan ser substituidos por esquemas, dibujos, películas, fotografías, videocintas o cualquier otro procedimiento análogo; y
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2026)</small>
+
+III. Que los experimentos en animales vivos no puedan ser sustituidos por esquemas, dibujos, películas, fotografías, videocintas o cualquier otro procedimiento análogo, y
 
 IV. Que la práctica se realizará en escuelas, institutos o centros escolares de educación superior o de investigación académica.
 
@@ -607,9 +675,11 @@ Se prohíbe la experimentación con animales, sin la supervisión de personas co
 
 ### CAPITULO IV. DE LA EXHIBICIÓN
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 54.
 
-Corresponde a las Comisiones Municipales, vigilar las condiciones en que se encuentre los animales en exposiciones o concursos.
+Corresponde a las Comisiones Municipales, vigilar las condiciones en que se encuentren los animales en exposiciones o concursos.
 
 ###### ARTÍCULO 55.
 
@@ -619,9 +689,11 @@ Los ayuntamientos expedirán el permiso para la celebración de festividades pú
 
 Las sanciones que dispone la Ley, serán aplicables también a quienes hagan uso de ejemplares de fauna silvestre en los circos.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 56.
 
-Los propietarios o responsables de la empresa o negocio que utilicen animales para ofrecer espectáculos públicos sacrificarán inmediatamente a aquellos que por cualquier motivo se hubiesen lesionado gravemente, mutilado un miembro u órgano necesario para su desarrollo o subsistencia.
+Las personas propietarias o responsables de la empresa o negocio que utilicen animales para ofrecer espectáculos públicos sacrificarán inmediatamente a aquellos que por cualquier motivo se hubiesen lesionado gravemente, mutilado un miembro u órgano necesario para su desarrollo o subsistencia.
 
 ### CAPITULO V. DEL SACRIFICIO
 
@@ -651,17 +723,23 @@ Se prohíbe el sacrificio de animales en la vía pública, salvo por causas de f
 
 ### CAPITULO VI. SACRIFICIO PARA COMERCIALIZACIÓN, ABASTO O CONSUMO HUMANO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 59.
 
-El Sacrificio de animales para comercialización, abasto o consumo humano se ajustará a lo dispuesto por las disposiciones expresamente emitidas por las autoridades sanitarias, por las de la Ley Ganadera para el Estado de Nayarit, y por los reglamentos y normas oficiales mexicanas aplicables, pero en cualquier caso se prohíbe:
+El Sacrificio de animales para comercialización, abasto o consumo humano se ajustará a lo dispuesto por las disposiciones expresamente emitidas por las autoridades sanitarias, por las de la Ley Ganadera y de Desarrollo Pecuario para el Estado de Nayarit, y por los reglamentos y normas oficiales mexicanas aplicables, pero en cualquier caso se prohíbe:
 
 I. Quebrar las patas de los animales antes de sacrificarlos;
 
 II. Introducirlos vivos o agonizantes a cualquier líquido o a refrigeradores;
 
-III. Permitir que unos animales presencien el sacrificio de otros; y
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2026)</small>
 
-IV. Efectuar el sacrificio mediante envenenamiento, asfixia, estrangulamiento, golpes, azotes, quemaduras, aplicación de ácidos corrosivos, estricnina, wartarina, cianuro, arsénico u otras substancias y procedimientos que causen dolor o agonía innecesarios.
+III. Permitir que unos animales presencien el sacrificio de otros, y
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2026)</small>
+
+IV. Efectuar el sacrificio mediante envenenamiento, asfixia, estrangulamiento, golpes, azotes, quemaduras, aplicación de ácidos corrosivos, estricnina, warfarina, cianuro, arsénico u otras sustancias y procedimientos que causen dolor o agonía innecesarios.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2019)</small>
 
@@ -677,9 +755,11 @@ Las personas de la localidad que realizan aprovechamiento de ejemplares, partes 
 
 Las autoridades competentes promoverán la constitución de asociaciones para estos efectos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 61.
 
-El propietario que por razones de comercialización o abasto pretenda sacrificar a un animal, acudirá con ese objeto a las instalaciones del rastro municipal o establecimiento debidamente autorizado para ese objeto.
+La persona propietaria que por razones de comercialización o abasto pretenda sacrificar a un animal, acudirá con ese objeto a las instalaciones del rastro municipal o establecimiento debidamente autorizado para ese objeto.
 
 La matanza de animales en domicilios particulares urbanos, está permitida únicamente cuando los productos se destinen al consumo familiar, o el sacrificio resulte urgente para proteger la salud o la integridad física de las personas.
 
@@ -693,11 +773,13 @@ Los lugares que bajo la denominación de rastros o establecimientos, que se dedi
 
 En las actividades de matanza de animales, dichos establecimientos quedan sujetos a muestreos aleatorios ante y post mortem, a fin de que las autoridades sanitarias verifiquen el cumplimiento de las normas oficiales mexicanas que regulen el empleo de sustancias, cuyo empleo en el proceso de crianza están prohibidas.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 64.
 
-La PROEPAOT, en coordinación con el Instituto Nacional Indigenista, integrará y hará públicas, mediante una lista, las prácticas y los volúmenes de aprovechamiento de ejemplares, partes o derivados de vida silvestre para ceremonias y ritos tradicionales por parte de integrantes de comunidades indígenas, el cual, se podrá realizar dentro de sus predios o con el consentimiento de sus propietarios o legítimos poseedores, siempre que no se afecte la viabilidad de las poblaciones, y las técnicas y medios de aprovechamiento sean las utilizadas tradicionalmente, a menos que estos se modifiquen para mejorar las condiciones de sustentabilidad en el aprovechamiento. En todo caso promoverá que se incorporen acciones de manejo y conservación de hábitat a través de programas de capacitación a dichas comunidades indígena (sic).
+La PROEPAOT, en coordinación con el Instituto Nacional de los Pueblos Indígenas, integrará y hará públicas, mediante una lista, las prácticas y los volúmenes de aprovechamiento de ejemplares, partes o derivados de vida silvestre para ceremonias y ritos tradicionales por parte de integrantes de pueblos y comunidades indígenas, el cual, se podrá realizar dentro de sus predios o con el consentimiento de sus propietarios o legítimos poseedores, siempre que no se afecte la viabilidad de las poblaciones, y las técnicas y medios de aprovechamiento sean las utilizadas tradicionalmente, a menos que estos se modifiquen para mejorar las condiciones de sustentabilidad en el aprovechamiento. En todo caso promoverá que se incorporen acciones de manejo y conservación de hábitat a través de programas de capacitación a dichos pueblos y comunidades indígenas.
+
+> <small>(REFORMADO, P.O. 18 DE MAYO DE 2023)</small>
 
 La PROEPAOT podrá establecer limitaciones o negar el aprovechamiento, en los casos en que la información muestre que dichas prácticas o volúmenes están poniendo en riesgo la conservación de las poblaciones o especies silvestres.
 
@@ -721,11 +803,11 @@ Las denuncias podrán ser anónimas, en cuyo caso, las autoridades deberán mant
 
 La autoridad distinta a la municipal que reciba la denuncia, la turnará de inmediato a dicha dependencia, sin mayor pronunciamiento.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 68.
 
-La denuncia podrá contener el nombre o razón social, domicilio del denunciante y, en su caso, de su representante legal. En caso de que esta no lo autorice se entenderá como denuncia anónima.
+La denuncia podrá contener el nombre o razón social, domicilio de la persona denunciante y, en su caso, de su representante legal. En caso de que esta no lo autorice se entenderá como denuncia anónima.
 
 > <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 18 DE MAYO DE 2023)</small>
 
@@ -735,7 +817,9 @@ a) Los actos, hechos u omisiones denunciados;
 
 b) Preferentemente los datos de identificación de la persona denunciada, y
 
-c) Las pruebas que en su caso ofrezca el denunciante.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
+
+c) Las pruebas que en su caso ofrezca la persona denunciante.
 
 La admisión de la denuncia no se condiciona al acreditamiento, afectación o interés personal y directo.
 
@@ -743,7 +827,9 @@ La admisión de la denuncia no se condiciona al acreditamiento, afectación o in
 
 ARTÍCULO 68 BIS.- Las autoridades de seguridad pública, en el ámbito de su competencia, al recibir una denuncia por autoridades o particulares implementarán operativos para rescatar animales del interior de un domicilio al momento de que se esté cometiendo el delito de maltrato en contra de fauna doméstica o silvestre. Quien irrumpa deberá tener datos ciertos, derivados de una percepción directa, siendo determinante la urgencia del hecho, de modo que la intromisión se torne inaplazable, ya sea para evitar la consumación de un ilícito o hacer cesar sus efectos.
 
-Los elementos policiales que realicen el rescate al interior de un domicilio deberán asegurar la integridad física de los animales y de las personas que se encuentran en su interior. Una vez realizado el rescate deberán levantar un acta circunstanciada en el lugar, en presencia de dos testigos propuestos por el ocupante del domicilio; de no haber personas que pudiesen testificar, o quien ocupe el domicilio se negare a proponer testigos, los elementos policiales, así lo asentarán en el acta.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
+
+El personal policial que realice el rescate al interior de un domicilio deberá asegurar la integridad física de los animales y de las personas que se encuentran en su interior. Una vez realizado el rescate deberán levantar un acta circunstanciada en el lugar, en presencia de dos personas testigos propuestas por quien ocupe el domicilio; de no haber personas que pudiesen testificar, o si quien ocupe el domicilio se negara a proponerlas, el personal policial así lo asentará en el acta.
 
 La intromisión realizada al domicilio al amparo de este artículo tendrá el objetivo de rescatar al o los animales objeto de maltrato y únicamente tendrá efectos respecto del delito de maltrato animal. Si derivado de la intromisión se tuviera la presunción de la comisión de otros delitos, se deberá proceder conforme a las leyes correspondientes.
 
@@ -763,11 +849,15 @@ Los procedimientos que deriven de la aplicación de la presente ley se regirán 
 
 Toda persona, autoridades estatales y municipales que tenga conocimiento de actos u omisiones que pudieran constituir un delito conforme a lo previsto por el Código Penal para el Estado de Nayarit en lo relativo a los Delitos contra la Ecología y la Fauna, están obligadas a denunciarlas inmediatamente a la Fiscalía General del Estado de Nayarit.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 72.
 
-Toda autoridad, estatales y municipales que detecten irregularidades o deficiencias administrativas del ámbito federal están obligadas a denunciarlas de inmediato a la Procuraduría Federal de Protección al Ambiente.
+Toda autoridad, estatal y municipal que detecte irregularidades o deficiencias administrativas del ámbito federal, está obligada a denunciarlas de inmediato a la Procuraduría Federal de Protección al Ambiente.
 
-Cuando se trate de Delitos de orden federal se dará aviso a la Procuraduría General de la Republica para los efectos correspondientes.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
+
+Cuando se trate de delitos de orden federal, se dará aviso a la Fiscalía General de la República para los efectos correspondientes.
 
 ### CAPITULO III. DE LAS SANCIONES
 
@@ -813,9 +903,9 @@ IV. Las que establezca la Ley de Cultura y Justicia Cívica para el Estado de Na
 
 V. Las demás que señalen otras disposiciones aplicables.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2016)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
 
-Las infracciones a lo dispuesto en esta ley, que en el cuerpo de la misma no tuvieren señalada una sanción específica, serán sancionadas a juicio de la autoridad competente con multa de tres a cien veces la UMA o arresto hasta por 36 horas.
+Las infracciones que no tengan prevista una sanción específica en esta Ley serán sancionadas por la autoridad competente con multa de tres a cien veces el valor diario de la UMA o con arresto administrativo hasta por 36 horas.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2015)</small>
 
@@ -829,23 +919,27 @@ Para efectos de determinar el monto de la multa, la autoridad municipal analizar
 
 En caso de reincidencia, la autoridad municipal competente podrá duplicar las sanciones económicas. Se consideran reincidentes quienes cometan una falta dentro del año siguiente a la fecha en que hubieren sido sancionados por violaciones a lo previsto en esta ley.
 
-> <small>(REFORMADO, P.O. 18 DE MAYO DE 2023)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 77.
 
-Aquellos servidores públicos que estén obligados a hacer valer la presente ley y que hagan caso omiso a sus obligaciones, serán sancionados según las consecuencias que se deriven de su conducta u omisión conforme a lo dispuesto en la Ley General de Responsabilidades Administrativas.
+Las personas servidoras públicas obligadas a hacer cumplir la presente ley y que hagan caso omiso a sus obligaciones, serán sancionadas según las consecuencias que se deriven de su conducta u omisión conforme a lo dispuesto en la Ley General de Responsabilidades Administrativas y la Ley de Responsabilidades Administrativas del Estado de Nayarit.
 
 ### CAPITULO IV. DE LOS RECURSOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 78.
 
-Contra los actos y resoluciones administrativas que dicten o ejecuten las autoridades competentes, en aplicación del presente ordenamiento, los afectados podrán interponer juicio ante el tribunal de justicia administrativa, en los términos de la ley de la materia, o el recurso de inconformidad ante la Comisión Municipal, mismo que deberá interponerse dentro de los cinco días siguientes a la fecha de su notificación.
+Contra los actos y resoluciones administrativas que dicten o ejecuten las autoridades competentes, en aplicación del presente ordenamiento, los afectados podrán interponer juicio ante el Tribunal de Justicia Administrativa de Nayarit, en los términos de la ley de la materia, o el recurso de inconformidad ante la Comisión Municipal, mismo que deberá interponerse dentro de los cinco días siguientes a la fecha de su notificación.
 
 El recurso tiene como objeto revocar, modificar o confirmar la resolución reclamada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 79.
 
-El recurso se interpondrá por escrito, debiéndose plasmar el nombre, domicilio y firma del promovente, señalar los agravios y adjuntar las pruebas de que se dispongan, así como la constancia que acredite la personalidad de los promoventes.
+El recurso se interpondrá por escrito, debiéndose plasmar el nombre, domicilio y firma de la persona promovente, señalar los agravios y adjuntar las pruebas de que se dispongan, así como la constancia que acredite su personalidad.
 
 Las pruebas ofrecidas deberán estar relacionadas con los hechos señalados en el recurso.
 
@@ -922,3 +1016,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Comuníquese el presente Decreto al Titular del Poder Ejecutivo del Estado de Nayarit, para los efectos conducentes.
 
 TERCERO. Comuníquese el presente Decreto a los veinte Ayuntamientos del Estado de Nayarit, (sic) efectos normativos conducentes.
+
+P.O. 7 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN A LA FAUNA PARA EL ESTADO DE NAYARIT, EN MATERIA DE LENGUAJE CON PERSPECTIVA DE GÉNERO Y ARMONIZACIÓN DE DENOMINACIONES NORMATIVAS E INSTITUCIONALES”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
