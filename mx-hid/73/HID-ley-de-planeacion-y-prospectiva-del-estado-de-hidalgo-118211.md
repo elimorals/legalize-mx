@@ -4,7 +4,7 @@ identifier: "HID-ley-de-planeacion-y-prospectiva-del-estado-de-hidalgo-118211"
 country: "mx"
 rank: "ley"
 publication_date: "2016-12-31"
-last_updated: "2024-12-04"
+last_updated: "2026-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=118211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PLANEACIÓN Y PROSPECTIVA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2026.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el sábado 31 de diciembre de 2016.
 
@@ -641,19 +641,25 @@ El Plan Municipal de Desarrollo podrá presentar una vigencia hasta de dos perí
 
 El Plan podrá ser evaluado y reconsiderado en su viabilidad a la mitad de la gestión gubernamental, considerando su actualización o adecuación.
 
-[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 19, PUBLICADO EN EL P.O. DE 4 DE DICIEMBRE DE 2024, SE ADVIERTE QUE EL TEXTO DE ESTE ARTÍCULO AL QUE ALUDE DICHO DECRETO CORRESPONDE AL TEXTO PREVIO A LA REFORMA DEL 15 DE OCTUBRE DE 2024. SE SUGIERE CONSULTAR LA PÁGINA 34 DE DICHA PUBLICACIÓN, A SABER: "ARTÍCULO 48.-
+[N. DE E. DEL ANÁLISIS AL DECRETO NÚMERO 19, PUBLICADO EN EL P.O. DE 4 DE DICIEMBRE DE 2024, SE ADVIERTE QUE EL TEXTO DE ESTE ARTÍCULO AL QUE ALUDE DICHO DECRETO CORRESPONDE AL TEXTO PREVIO A LA REFORMA DEL 15 DE OCTUBRE DE 2024. SE SUGIERE CONSULTAR LA PÁGINA 34 DE DICHA PUBLICACIÓN; ASIMISMO SE INCLUYE LA REFORMA PUBLICADA EL 7 DE MAYO DE 2026 QUE REFORMA LOS PÁRRAFOS SEGUNDO, QUINTO Y SÉPTIMO DE ESTE CONTENIDO, VER PÁGINA 50: A SABER: "ARTÍCULO 48.-…
 
-Posterior a esta acción, la persona Titular del Poder Ejecutivo Municipal remitirá al Congreso del Estado en un término no mayor a ciento ochenta días contados a partir de que inicie la administración municipal, el documento que contiene el Plan Municipal de Desarrollo.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
+
+Posterior a esta acción, la presidenta o presidente municipal remitirá al Congreso del Estado en un término no mayor a ciento ochenta días contados a partir de que inicie la administración municipal, el documento que contiene el Plan Municipal de Desarrollo.
 
 El Congreso del Estado contará con quince días naturales, después de haber recibido el Plan Municipal de Desarrollo, para poder realizar sus observaciones a través de un acuerdo legislativo; debiendo entregar una copia del mismo a la Coordinación General del Comité de Planeación para el Desarrollo del Estado de Hidalgo. De no ser así, se dará por sentado que no existieron observaciones al Plan Municipal.
 
 Se deroga.
 
-Con base en las observaciones emitidas por el Congreso del Estado, la persona Titular del Poder Ejecutivo Municipal dará contestación de las mismas por escrito, justificando sus consideraciones finales y realizará en su caso, las adecuaciones que considere pertinentes para su publicación en un plazo no mayor a treinta días naturales a partir de su recepción.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
+
+Con base en las observaciones emitidas por el Congreso del Estado, la presidenta o presidente municipal dará contestación de las mismas por escrito, justificando sus consideraciones finales y realizará en su caso las adecuaciones que considere pertinentes para su publicación en un plazo no mayor a treinta días naturales a partir de su recepción.
 
 Se deroga.
 
-En el caso que se desee continuar con el Plan Municipal de Desarrollo vigente, la persona Titular del Poder Ejecutivo Municipal deberá someterlo a consideración del Comité de Planeación para el Desarrollo Municipal, siguiendo el procedimiento que se establece en el párrafo primero del presente artículo.
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
+
+En el caso que se desee continuar con el Plan Municipal de Desarrollo vigente, la presidenta o presidente municipal deberá someterlo a consideración del Comité de Planeación para el Desarrollo Municipal, siguiendo el procedimiento que se establece en el párrafo primero del presente artículo.
 
 En caso de que no se cumpla con los plazos señalados en los párrafos anteriores, para la elaboración, remisión, revisión y publicación del Plan Municipal de Desarrollo, la Unidad de Planeación y Prospectiva dará vista a la persona titular del Órgano Interno de Control Municipal para que en el ámbito de su competencia realice las acciones que conforme a derecho correspondan".]
 
@@ -1096,3 +1102,9 @@ P.O. 4 DE DICIEMBRE DE 2024.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 7 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 631 - LXVI POR EL QUE SE REFORMA EL ARTÍCULO 48 DE LA LEY DE PLANEACIÓN Y PROSPECTIVA DEL ESTADO DE HIDALGO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
