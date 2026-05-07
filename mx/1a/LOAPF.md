@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2026-05-01"
+last_updated: "2026-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LOAPF"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE MAYO DE 2026.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 29 de diciembre de 1976.
 
@@ -1925,6 +1925,10 @@ I Quáter.- Construir, equipar, restaurar, reforzar, reconstruir y rehabilitar i
 > <small>(ADICIONADA, D.O.F. 28 DE NOVIEMBRE DE 2024)</small>
 
 I Quinquies.- Construir, equipar, rehabilitar, reforzar, reconstruir y habilitar la infraestructura e instalaciones destinadas al servicio del sistema educativo nacional, en coordinación con las autoridades competentes de los tres órdenes de gobierno;
+
+> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2026)</small>
+
+I Sexies.- Participar, a solicitud de las autoridades federales competentes, en la construcción, equipamiento, rehabilitación, reforzamiento, reconstrucción, sustitución, ampliación y habilitación de obras públicas asociadas a proyectos de infraestructura, incluyendo establecimientos destinados a la prestación de servicios de salud, en coordinación con los tres órdenes de gobierno;
 
 II.- (DEROGADA, D.O.F. 28 DE NOVIEMBRE DE 2024)
 
@@ -4667,3 +4671,13 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. La Secretaría del Trabajo y Previsión Social en un plazo de 30 días contados a partir de la entrada en vigor del presente Decreto, expedirá las disposiciones de carácter general que determinen los procedimientos relativos al certificado a que se refiere el artículo 283 Quáter de la Ley Federal del Trabajo.
 
 Tercero. Las erogaciones que se generen con motivo de la entrada en vigor e implementación del presente Decreto deberán efectuarse con cargo al presupuesto autorizado de los ejecutores de gasto correspondientes, por lo que no se incrementará su presupuesto regularizable de gasto de operación y de servicios personales, y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
+
+D.O.F. 7 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN I SEXIES AL ARTÍCULO 36 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto se cubrirán con cargo al presupuesto aprobado para la Secretaría de Infraestructura, Comunicaciones y Transportes, por lo que no requerirá recursos adicionales ni se incrementará su presupuesto regularizable para el presente ejercicio fiscal y subsecuentes.
+
+Tercero. El Ejecutivo Federal contará con un plazo de 180 días hábiles, contados a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones reglamentarias y normativas que resulten necesarias para su debida implementación.
