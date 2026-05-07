@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-salud-para-el-estado-de-nayarit-14461"
 country: "mx"
 rank: "ley"
 publication_date: "1994-04-30"
-last_updated: "2024-12-23"
+last_updated: "2026-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NAY"
 
 LEY DE SALUD PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 30 de abril de 1994.
 
@@ -49,9 +49,11 @@ LEY DE SALUD PARA EL ESTADO DE NAYARIT
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
+
 ###### ARTICULO 1o.
 
-La presente ley es de orden público e interés social y tiene por objeto la protección de la salud y establecer las bases y modalidades para el acceso a los servicios de salud proporcionados por el Estado y la concurrencia de este y sus municipios en materia de salubridad local, en los términos del Artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos y de la Ley General de Salud, es de aplicación en el Estado de Nayarit
+La presente Ley es de orden público e interés social y tiene por objeto la protección de la salud, así como establecer las bases y modalidades para el acceso a los servicios de salud proporcionados por el Estado y la concurrencia de este y sus municipios en materia de salubridad local, en los términos del Artículo 4o. de la Constitución Política de los Estados Unidos Mexicanos y de la Ley General de Salud; sus disposiciones son de observancia general en el Estado de Nayarit y se interpretarán y aplicarán conforme a los principios de universalidad, interdependencia, indivisibilidad y progresividad de los derechos humanos, con perspectiva de género, enfoque de igualdad sustantiva, interseccionalidad, interculturalidad y no discriminación, a fin de garantizar el acceso efectivo al derecho a la protección de la salud.
 
 ###### ARTICULO 2º.
 
@@ -67,9 +69,11 @@ III.- La protección y el acrecentamiento de los valores que coadyuven a la crea
 
 IV.- La extensión de actitudes solidarias y responsables de la población en la preservación, conservación, mejoramiento y restauración de la salud;
 
-> <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2026)</small>
 
-V.- El disfrute de servicios de salud y de asistencia social que satisfagan eficaz y oportunamente las necesidades de la población.
+V.- El disfrute de servicios de salud y de asistencia social con enfoque diferenciado, perspectiva de género e interculturalidad, que satisfagan eficaz y oportunamente las necesidades de la población.
+
+> <small>(REFORMADO, P.O. 18 DE MARZO DE 2021)</small>
 
 Tratándose de personas que carezcan de seguridad social, la prestación gratuita de servicios de salud, medicamentos y demás insumos asociados;
 
@@ -77,13 +81,17 @@ VI.- El conocimiento para el adecuado aprovechamiento y utilización de los serv
 
 VII.- El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud.
 
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2026)</small>
+
+En la observancia del presente artículo, se deberá garantizar el derecho a la protección de la salud con enfoque diferenciado, perspectiva de género e interculturalidad.
+
 ###### ARTICULO 3o.
 
 Son autoridades sanitarias estatales:
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2026)</small>
 
-I.- El Gobernador del Estado, a través de la Secretaría de Salud;
+I.- La persona Titular del Poder Ejecutivo del Estado, a través de la Secretaría de Salud;
 
 > <small>(REFORMADA P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
@@ -243,11 +251,13 @@ I.- Proporcionar, servicios de salud universal en el Estado a todas las personas
 
 II.- Contribuir el desarrollo demográfico armónico del Estado;
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2026)</small>
 
-III.- Colaborar al bienestar social de la población mediante servicios de asistencia social, principalmente a menores y personas adultas mayores en estado de abandono o desamparados y personas con discapacidad, para fomentar su bienestar y propiciar su incorporación a una vida equilibrada en lo económico y social;
+III.- Colaborar al bienestar social de la población mediante servicios de asistencia social, principalmente a niñas, niños, adolescentes, personas adultas mayores, personas con discapacidad y aquellas en situación de vulnerabilidad, abandono o desamparo, a fin de favorecer su inclusión y desarrollo integral en condiciones de igualdad sustantiva y no discriminación;
 
-IV.- Dar impulso al desarrollo de la familia y de la comunidad, así como a la integración social y al crecimiento físico y mental de la niñez;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2026)</small>
+
+IV.- Impulsar el desarrollo de las familias y comunidades, así como la integración social y el crecimiento físico, mental y emocional de niñas, niños y adolescentes en condiciones de igualdad sustantiva y no discriminación;
 
 V.- Apoyar al mejoramiento de las condiciones sanitarias del medio ambiente del Estado, que propician el desarrollo satisfactorio de la vida;
 
@@ -275,9 +285,9 @@ X.- Proporcionar orientación a la población del Estado , respecto de la import
 
 XI.- Diseñar y ejecutar políticas públicas, que propicien la alimentación nutritiva, suficiente y de calidad, que contrarreste eficientemente la desnutrición, el sobrepeso, la obesidad y otros trastornos de la conducta alimentaria en el Estado, y
 
-> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2026)</small>
 
-XII.- Acorde a las demás disposiciones legales aplicables, promover la creación de programas de atención integral para la atención de las víctimas y victimarios de acoso y violencia escolar, en coordinación con las autoridades educativas.
+XII.- Acorde a las demás disposiciones legales aplicables, promover la creación de programas de atención integral para la atención de las víctimas y victimarios de violencia sexual, familiar, acoso y violencia escolar, en coordinación con las autoridades educativas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
 
@@ -285,7 +295,9 @@ XII.- Acorde a las demás disposiciones legales aplicables, promover la creació
 
 La Coordinación del Sistema Estatal de Salud estará a cargo de la Secretaría de Salud y de los Servicios de Salud de Nayarit, correspondiéndole lo siguiente:
 
-I.- Establecer y conducir la política estatal en materia de salud, en los términos de esta ley y demás disposiciones aplicables y de conformidad con las políticas del sistema nacional de salud, y con lo dispuesto por el Ejecutivo Estatal;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2026)</small>
+
+I.- Establecer y conducir la política estatal en materia de salud, en los términos de esta Ley y demás disposiciones aplicables, de conformidad con las políticas del Sistema Nacional de Salud, y con lo dispuesto por la persona Titular del Poder Ejecutivo Estatal;
 
 > <small>(REFORMADA, P.O. 18 DE MARZO DE 2021)</small>
 
@@ -297,7 +309,9 @@ En el caso de los programas y servicios de instituciones federales de seguridad 
 
 IV.- Impulsar la desconcentración y descentralización a los municipios de los servicios de salud;
 
-V.- Promover, coordinar y realizar la evaluación de programas y servicios de salud que le sean solicitado por el Ejecutivo Estatal;
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2026)</small>
+
+V.- Promover, coordinar y evaluar los programas y servicios de salud que le solicite la persona Titular del Poder Ejecutivo Estatal;
 
 VI.- Determinará la periodicidad y características de la información que deberán proporcionar las dependencias y entidades de salud del Estado, con sujeción a las disposiciones generales aplicables;
 
@@ -325,21 +339,25 @@ XV.- Impulsar la permanente actualización de las disposiciones legales en mater
 
 XVI.- Coadyuvar con la Secretaría de Salud Federal en la ejecución del Programa Nacional para la Prevención y Tratamiento de la Farmacodependencia, mismo que será obligatorio en todos los establecimientos a cargo del Sistema, en términos de los mecanismos de coordinación y colaboración;
 
-> <small>(REFORMADA, P.O. 19 DE JULIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2026)</small>
 
-XVII.- Promover e impulsar que las instituciones del Sistema Estatal de Salud implementen programas dirigidos a brindar atención médica integrada de carácter preventivo, acorde con la edad, sexo y factores de riesgo de las personas;
+XVII.- Promover e impulsar que las instituciones del Sistema Estatal de Salud implementen programas dirigidos a brindar atención médica integral de carácter preventivo, acorde con la edad, sexo, género, condiciones de salud y factores de riesgo de las personas;
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE JULIO DE 2022)</small>
 
 XVIII.- Promover e impulsar programas y campañas de información, en el ámbito estatal, sobre los buenos hábitos alimenticios, una buena nutrición y la activación física para contrarrestar el sobrepeso, la obesidad y los trastornos de la conducta alimentaria;
 
-> <small>(ADICIONADA, P.O. 19 DE JULIO DE 2022)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2026)</small>
 
-XIX.- Promover e incorporar enfoques con perspectiva de género a las estrategias, campañas de información, y demás programas en el marco de sus atribuciones, para contribuir a la igualdad entre mujeres y hombres en el acceso al derecho a la protección de la salud. Incluyendo neoplasias que afectan la salud sexual y reproductiva del hombre y de la mujer, y
+XIX.- Promover e incorporar la perspectiva de género a las estrategias, campañas de información y demás programas en el marco de sus atribuciones, para contribuir a la igualdad sustantiva entre mujeres y hombres en el acceso al derecho a la protección de la salud, incluyendo la atención de neoplasias que afectan la salud sexual y reproductiva de mujeres y hombres;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 19 DE JULIO DE 2022)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 7 DE MAYO DE 2026)</small>
 
-XX.- Las demás atribuciones, afines a las anteriores, que se requieran para el cumplimiento de los objetivos del sistema estatal de salud, y las que determinen las disposiciones generales aplicables.
+XX.- Promover la observancia y cumplimiento de las Normas Oficiales Mexicanas en materia de prevención, detección, atención y erradicación de las violencias contra las mujeres en los servicios de salud, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 7 DE MAYO DE 2026)</small>
+
+XXI.- Las demás atribuciones afines a las anteriores que se requieran para el cumplimiento de los objetivos del Sistema Estatal de Salud, así como las que determinen las disposiciones generales aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2021)</small>
 
@@ -641,9 +659,11 @@ ARTICULO 31 BIS.- (DEROGADO, P.O. 19 DE JULIO DE 2022)
 
 ### CAPITULO II. ATENCION MEDICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2026)</small>
+
 ###### ARTICULO 32.
 
-Se entiende por atención médica, el conjunto de servicios que se proporcionan al individuo con el fin de proteger, promover y restaurar su salud.
+Se entiende por atención médica el conjunto de servicios que se proporcionan a las personas, con el fin de proteger, promover y restaurar su salud bajo un enfoque de perspectiva de género, interculturalidad e igualdad sustantiva.
 
 > <small>(ADICIONADO, P.O. 19 DE JULIO DE 2022)</small>
 
@@ -685,55 +705,63 @@ III.- Servicios sociales y privados sea cual fuera la forma en que se contraten,
 
 IV.- Otros que se presten de conformidad con lo que establezca el gobierno del Estado.
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 35.
 
-Son servicios públicos a la población en general, los que se presten en los establecimientos públicos de salud, a las personas que se encuentren en el Estado sin seguridad social que así lo requieran, seguidos por criterios de universalidad, igualdad e inclusión y de gratuidad al momento de requerir los servicios de salud, medicamentos y demás insumos asociados.
+Son servicios públicos a la población en general, los que se presten en los establecimientos públicos de salud, a las personas que se encuentren en el Estado sin seguridad social que así lo requieran, seguidos por criterios de universalidad, igualdad sustantiva e inclusión y de gratuidad al momento de requerir los servicios de salud, medicamentos.
 
 ###### ARTICULO 36.
 
 Las cuotas de recuperación que en su caso se recauden por la prestación de servicios de salud, se ajustaran a lo que disponga la Legislación Fiscal del Estado y el convenio de coordinación que se celebre en la materia con el Ejecutivo Federal.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
 
-Para la determinación de las cuotas de recuperación se tomarán en cuenta el costo de los servicios y las condiciones socio-económicas del usuario debiendo ser analizadas y autorizadas por la Junta de Gobierno de los Servicios de Salud de Nayarit.
+Para la determinación de las cuotas de recuperación se tomarán en cuenta el costo de los servicios y las condiciones socioeconómicas de las personas usuarias, debiendo ser analizadas y autorizadas por la Junta de Gobierno de los Servicios de Salud de Nayarit.
 
-> <small>N. DE E. ESTE PÁRRAFO NO FUE DEROGADO EXPRESAMENTE EN EL PRESENTE DECRETO, P.O. 8 DE NOVIEMBRE DE 2000.</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
 
-Las cuotas de recuperación se fundarán en principios de solidaridad social y guardaran relación con los ingresos de los usuarios, debiéndose eximir del cobro cuando el usuario carezca de recursos para cubrirlas, o en las zonas de menor desarrollo económico y social, conforme a las disposiciones del gobierno del Estado.
+Las cuotas de recuperación se fundarán en principios de solidaridad social y guardarán relación con los ingresos de las personas usuarias, debiéndose eximir del pago cuando éstas carezcan de recursos para cubrirlas, o residan en las zonas de menor desarrollo económico y social, con énfasis en niñas, niños, adolescentes y mujeres en situación de pobreza, conforme a las disposiciones del Gobierno del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2022)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 37.
 
-Son servicios a derechohabientes, los prestados por las instituciones a que se refiere la fracción II del Artículo 34 de esta ley a las personas que cotizan o a las que hubieren cotizado en las mismas conforme a sus leyes y a sus beneficiarios, los que con sus propios recursos o por el encargo del Ejecutivo Estatal preste dicha institución a otros grupos usuarios.
+Son servicios a personas derechohabientes, los prestados por las instituciones a que se refiere la fracción II del Artículo 34 de esta Ley a las personas que cotizan o a las que hubieren cotizado en las mismas conforme a sus leyes y a sus beneficiarios, los que con sus propios recursos o por el encargo de la persona Titular del Poder Ejecutivo Estatal, preste dicha institución a otros grupos de personas usuarias.
 
 > <small>(ADICIONADO, P.O. 19 DE JULIO DE 2022)</small>
 
 Dichos servicios, en los términos de esta Ley y sin perjuicio de lo que prevenga la Ley General de Salud y demás disposiciones en la materia, comprenderán la atención médica, la atención materno-infantil, la planificación familiar, la salud mental, la promoción de la formación de recursos humanos, la salud ocupacional y la prevención y control de enfermedades no transmisibles, sindemias y accidentes.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
+
 ###### ARTICULO 38.
 
-Los servicios de salud que presten las entidades públicas estatales y empresas privadas a sus empleados y a los beneficiarios de los mismos, con recursos propios o mediante la contratación de seguros individuales o colectivos, se regirán por las convenciones entre prestadores y usuarios, sin perjuicio de lo que establezcan las disposiciones de esta ley y demás normas aplicables a las instituciones de salud respectivas.
+Los servicios de salud que presten las entidades públicas estatales y empresas privadas a sus personas empleadas y beneficiarias de los mismos, con recursos propios o mediante la contratación de seguros individuales o colectivos, se regirán por las convenciones entre personas prestadoras y usuarias, sin perjuicio de lo que establezcan las disposiciones de esta Ley y demás normas aplicables a las instituciones de salud respectivas.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 39.
 
-Los trabajadores de los establecimientos estatales de salud podrán participar en la gestión de los mismos, de conformidad con las disposiciones generales aplicables, podrán opinar y emitir sugerencias tendientes al mejoramiento de los servicios de salud.
+Las personas trabajadoras de los establecimientos estatales de salud podrán participar en la gestión de los mismos, de conformidad con las disposiciones generales aplicables, podrán opinar y emitir sugerencias tendientes al mejoramiento de los servicios de salud.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 40.
 
-El gobierno del Estado y los municipios podrán convenir con las instituciones federales de seguridad social, la prestación de servicios de salud para sus trabajadores
+El Gobierno del Estado y los municipios podrán convenir con las instituciones federales de seguridad social, la prestación de servicios de salud para sus personas trabajadoras.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 41.
 
-El gobierno del Estado, la Secretaría de Salud del Gobierno Federal, en el ámbito de sus respectivas competencias y en coordinación con las autoridades educativas, vigilarán el ejercicio de los profesionales, técnicos y auxiliares de la salud, en la prestación de los servicios respectivos.
+El Gobierno del Estado y la Secretaría de Salud del Gobierno Federal, en el ámbito de sus respectivas competencias y en coordinación con las autoridades educativas, vigilarán el ejercicio de las personas profesionistas, personal técnico y personal auxiliar de la salud en la prestación de los servicios respectivos.
 
-> <small>(REFORMADO, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 42.
 
-Los Servicios de Salud de Nayarit coadyuvarán con las autoridades educativas competentes, para la promoción y fomento de la constitución de colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud, así mismo estimularán su participación en el sistema estatal de salud, como instancias éticas del ejercicio de las profesiones, promotoras de la superación permanente de sus miembros, así como consultoras de las autoridades sanitarias, cuando estás lo requieran.
+Los Servicios de Salud de Nayarit coadyuvarán con las autoridades educativas competentes para la promoción y fomento de la constitución de colegios, asociaciones y organizaciones de profesionistas, personal técnico y personal auxiliar de la salud; asimismo, estimularán su participación en el Sistema Estatal de Salud, como instancias éticas del ejercicio profesional, promotoras de la superación permanente de sus personas integrantes, así como consultoras de las autoridades sanitarias, cuando éstas lo requieran.
 
 ### CAPITULO IV. USUARIOS DE LOS SERVICIOS DE SALUD Y LA PARTICIPACION DE LA COMUNIDAD
 
@@ -1053,6 +1081,10 @@ Los Comités de Salud a que se refiere el Artículo 53 de esta ley, promoverán 
 
 El Gobierno del Estado, coadyuvará con los Servicios de Salud de Nayarit, en las acciones del Programa Nacional de Planificación Familiar que formule del Consejo Nacional de Población y del Programa de Planificación Familiar del Sector Salud y cuidará que se incorporen en los programas estatales de salud.
 
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2026)</small>
+
+Para efectos del párrafo anterior, el Gobierno del Estado, en coordinación con los Servicios de Salud de Nayarit, en sus respectivos ámbitos de competencia, impulsarán acciones en materia de educación sexual, planificación familiar y promoción de los derechos sexuales y reproductivos dirigidas a la población en general, con énfasis en la población adolescente, con el objetivo de prevenir el embarazo entre este grupo de edad.
+
 ### CAPITULO VII. SALUD MENTAL
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE SEPTIEMBRE DE 2019)</small>
@@ -1124,6 +1156,10 @@ II. Llevar a cabo campañas educativas para orientar, motivar e informar a la po
 III. Operar una línea telefónica de Salud Mental y crear una página electrónica para brindar orientación y canalización, en su caso, y
 
 IV. Las demás acciones que contribuyan a la promoción del fomento de la salud mental de la población.
+
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2026)</small>
+
+Los servicios en materia de salud mental y adicciones, deberán privilegiar la atención integral, interdisciplinaria, intercultural, intersectorial, participativa, libre de violencias, con enfoque en igualdad sustantiva, perspectiva de género y no discriminación.
 
 > <small>(REFORMADO, P.O. 20 DE SEPTIEMBRE DE 2019)</small>
 
@@ -3684,3 +3720,11 @@ P.O. 23 DE DICIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SALUD PARA EL ESTADO DE NAYARIT, EN MATERIA DE DELITOS CONTRA LA SALUD, EN LA MODALIDAD DE NARCOMENUDEO.]
 
 ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+
+P.O. 7 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSOS NUMERALES DE LA LEY DE SALUD PARA EL ESTADO DE NAYARIT, EN MATERIA DE IGUALDAD SUSTANTIVA".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto por el presente instrumento.
