@@ -4,7 +4,7 @@ identifier: "HID-ley-de-proteccion-civil-para-el-estado-de-hidalgo-84140"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-05"
-last_updated: "2026-04-14"
+last_updated: "2026-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84140&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2026.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 5 de diciembre de 2011.
 
@@ -313,9 +313,11 @@ II.- Las Delegaciones y representaciones en el Estado de Dependencias y Entidade
 
 III.- Los grupos de brigadistas y voluntarios que se encuentren inscritos, en el registro Estatal de Protección Civil, las unidades internas de protección civil públicas, sociales y privadas.
 
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
+
 ###### Artículo 7.
 
-El Ejecutivo del Estado, a través del consejo estatal de protección civil, fomentará la creación de programas, estudios, investigaciones, nuevos métodos, sistemas, equipos y dispositivos, que permitan prevenir y controlar los efectos adversos por la ocurrencia de un agente perturbador.
+El ejecutivo del Estado, a través del consejo estatal de protección civil, fomentará la creación de programas, estudios, investigaciones, nuevos métodos, sistemas, equipos y dispositivos, que permitan prevenir y controlar los efectos adversos por la ocurrencia de un agente perturbador, priorizando aquellos riesgos que por su recurrencia, intensidad o variación generen mayores afectaciones a la población o al entorno.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE AGOSTO DE 2023)</small>
 
@@ -1440,5 +1442,11 @@ P.O. 18 DE AGOSTO DE 2023.
 P.O. 14 DE ABRIL DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 583 – LXVI POR EL QUE SE ADICIONA UN ARTÍCULO 61 BIS A LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE HIDALGO, EN MATERIA DE CAPACITACIÓN Y PREVENCIÓN A GRUPOS VULNERABLES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 7 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 632 - LXVI POR EL QUE SE REFORMA EL ARTÍCULO 7 DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE HIDALGO EN MATERIA DE PRIORIZACIÓN DE RIESGOS".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
