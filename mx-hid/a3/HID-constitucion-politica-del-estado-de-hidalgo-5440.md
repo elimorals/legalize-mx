@@ -4,7 +4,7 @@ identifier: "HID-constitucion-politica-del-estado-de-hidalgo-5440"
 country: "mx"
 rank: "constitucion"
 publication_date: "1920-10-01"
-last_updated: "2026-04-28"
+last_updated: "2026-05-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5440&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "HID"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Hidalgo, el 1 de octubre de 1920.
 
@@ -467,9 +467,9 @@ Se reconoce y garantiza el derecho de la niñez, adolescencia y juventud indíge
 
 El Estado y los municipios adoptarán las medidas necesarias para hacer efectivos los derechos reconocidos en esta Constitución con el propósito de eliminar la discriminación, racismo, exclusión e invisibilidad de las que sean objeto los pueblos y comunidades indígenas y afromexicanas.
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2026)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
 
-Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienestar, así como el deber de conservarlo. El Estado garantizará el respeto a ese derecho. Las Autoridades Estatales y Municipales instrumentarán y aplicarán en el ámbito de su competencia los planes, programas y acciones destinadas a la preservación, aprovechamiento racional, protección y resarcimiento de los recursos naturales en su territorio, además de promover el uso de energías renovables que contribuyan a la conservación y protección del entorno ambiental. El daño y deterioro ambiental generará responsabilidad para quién lo provoque en términos de lo dispuesto por la Ley.
+Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienestar, así como el deber de conservarlo. El Estado garantizará el respeto a ese derecho y tomará medidas adecuadas para la adaptación y mitigación ante los riesgos y los efectos del cambio climático. Las Autoridades Estatales y Municipales instrumentarán y aplicarán en el ámbito de su competencia los planes, programas y acciones destinadas a la preservación, aprovechamiento racional, protección y resarcimiento de los recursos naturales en su territorio. El daño y deterioro ambiental generará responsabilidad para quién lo provoque en términos de lo dispuesto por la Ley.
 
 > <small>(REFORMADO, P.O. 3 DE JULIO DE 2025)</small>
 
@@ -517,6 +517,10 @@ Todo individuo tiene derecho al trabajo digno y socialmente útil; al efecto se 
 
 El trabajo se entenderá como un derecho y una obligación que debe cumplirse responsablemente, en beneficio de la sociedad.
 
+> <small>(ADICIONADO, P.O. 7 DE MAYO DE 2026)</small>
+
+Las autoridades del Estado, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes aplicables, promoverán que a trabajo igual corresponda salario igual, sin tener en cuenta, sexo, género ni nacionalidad.
+
 La ley determinará cuáles son las profesiones que necesitan título para su ejercicio, las condiciones que deban llenarse para obtenerlo y las autoridades que han de expedirlos.
 
 > <small>(REFORMADO, P.O. 20 DE JUNIO DE 2016)</small>
@@ -559,9 +563,9 @@ El Estado apoyará la investigación científica, el desarrollo tecnológico y s
 
 El Estado procurará el acceso a programas de becas para los alumnos más destacados en su desempeño académico dentro de las instituciones de educación pública, así como de aquellos que su condición económica les impida la conclusión de estudios profesionales.
 
-> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2023)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
 
-Los planes y programas de estudio tendrán perspectiva de género y una orientación integral, por lo que se incluirá el conocimiento de las ciencias y humanidades: la enseñanza de las matemáticas, la lecto-escritura, la literacidad, la historia, la geografía, el civismo, la filosofía, la tecnología, la innovación, las lenguas indígenas de nuestro país, las lenguas extranjeras, la educación física, el deporte, las artes, en especial la música, la promoción de estilos de vida saludables, la educación sexual y reproductiva y el cuidado al medio ambiente, entre otras.
+Los planes y programas de estudio tendrán perspectiva de género y una orientación integral, por lo que se incluirá el conocimiento de las ciencias y humanidades: la enseñanza de las matemáticas, la lecto-escritura, la literacidad, la historia, la geografía, el civismo, la filosofía, la tecnología, la innovación, las lenguas indígenas de nuestro país, las lenguas extranjeras, la educación física, el deporte, las artes, en especial la música, la promoción de estilos de vida saludables, la educación sexual y reproductiva y el cuidado al medio ambiente y para afrontar los riesgos y efectos relacionados con el cambio climático, entre otras.
 
 > <small>(REFORMADO, P.O. 22 DE ABRIL DE 2026)</small>
 
@@ -1505,9 +1509,9 @@ XXII. Expedir las leyes que rijan las relaciones de trabajo entre el estado y su
 
 XXIII. Expedir leyes sobre planeación del desarrollo estatal, y
 
-> <small>(ADICIONADA, P.O. 16 DE JUNIO DE 1988)</small>
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2026)</small>
 
-XXIV. Legislar en materia de protección al ambiente y preservación y restauración del equilibrio ecológico, en el ámbito de competencia del Estado y de sus Municipios; y
+XXIV. Legislar en materia de protección al ambiente, preservación y restauración del equilibrio ecológico, y atención y mitigación ante los efectos del cambio climático, en el ámbito de competencia del Estado y de sus Municipios;
 
 > <small>(REFORMADA, P.O. 12 DE MARZO DE 2025)</small>
 
@@ -3151,7 +3155,9 @@ G) Calles, parques y jardines y su equipamiento;
 
 H). Seguridad Pública, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, policía preventiva municipal y tránsito;
 
-I). Protección de la flora, la fauna y el medio ambiente;
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
+
+I). Protección de la flora, la fauna y el medio ambiente, así como las acciones y medidas adecuadas para la adaptación y mitigación ante los efectos del cambio climático;
 
 J). Los sistemas necesarios para la seguridad civil de la población;
 
@@ -3285,23 +3291,33 @@ Corresponde al Presidente, Síndicos y Regidores, el ejercicio exclusivo del Gob
 
 El Presidente municipal tendrá a su cargo la representación del gobierno del municipio y la ejecución de las resoluciones del Ayuntamiento.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 26 DE FEBRERO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE MAYO DE 2026)</small>
 
 ###### Artículo 144.
 
-Son facultades y obligaciones del Presidente municipal:
+Son facultades y obligaciones de las presidentas municipales y los presidentes municipales:
+
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2001)</small>
 
 I. Cumplir y proveer a la observancia de las leyes federales y estatales, así como los ordenamientos municipales;
 
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2001)</small>
+
 II. Cumplir con el Plan Estatal de Desarrollo, el del Municipio y los programas sectoriales, regionales y especiales aprobados, proveyendo su observancia respecto a los que se refiera a su municipio. A más tardar 90 días después de tomar posesión de su cargo, el Presidente municipal deberá presentar un Programa de Desarrollo Municipal congruente con el Plan Estatal;
+
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2001)</small>
 
 III. Ejecutar los reglamentos y acuerdos expedidos por el Ayuntamiento;
 
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2001)</small>
+
 IV. Presidir las sesiones del Ayuntamiento y participar en las deliberaciones y decisiones, con voto de calidad en caso de empate;
 
-> <small>(REFORMADA, P.O. 6 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2026)</small>
 
-V. Rendir anualmente al Ayuntamiento el día cinco de septiembre de cada año, un informe detallado sobre el estado que guarda la Administración Pública Municipal; cuando por causas de fuerza mayor no fuera posible en esta fecha, se hará en otra, previa autorización del Ayuntamiento que expedirá el acuerdo, señalando fecha y hora para este acto, sin que exceda del veinte de septiembre;
+V. Rendir anualmente al Ayuntamiento el día cinco de septiembre de cada año, un informe detallado sobre el estado que guarda la Administración Pública Municipal; cuando por causas de fuerza mayor no fuera posible en esta fecha, se hará en otra, previa autorización del Ayuntamiento que expedirá el acuerdo, señalando fecha y hora para este acto, sin que exceda del veinte de septiembre. En el último año de gobierno de la Administración Pública Municipal, el informe se deberá rendir entre el primero y el veinte de agosto;
+
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2001)</small>
 
 VI. Proponer al Ayuntamiento la designación de Comisiones de Gobierno y Administración entre los Regidores;
 
@@ -3313,7 +3329,11 @@ VII. Presentar al Ayuntamiento el proyecto de Ley de Ingresos y de Presupuesto d
 
 VIII. Nombrar y remover libremente a los directores de las dependencias y entidades de la administración pública municipal y demás personal administrativo, de acuerdo con las disposiciones aplicables;
 
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2001)</small>
+
 IX. Convocar al Ayuntamiento a sesiones conforme a la ley respectiva;
+
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2001)</small>
 
 X. Tener bajo su mando los cuerpos de seguridad pública y tránsito, en los términos del reglamento correspondiente, salvo en los casos señalados en los párrafos segundo y tercero de la presente fracción.
 
@@ -3321,11 +3341,15 @@ El Gobernador del Estado podrá dictar ordenes a las policías municipales en ca
 
 El titular del Poder Ejecutivo Federal tendrá el mando de la fuerza pública en los municipios donde residiere habitual o transitoriamente;
 
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2001)</small>
+
 XI. Solicitar la autorización del Ayuntamiento para ausentarse del municipio por más de quince días;
 
 > <small>(REFORMADA, P.O. 21 DE SEPTIEMBRE DE 2009)</small>
 
 XII. Presentar ante la Auditoría Superior del Estado de Hidalgo, su declaración patrimonial inicial, dentro de los sesenta días hábiles siguientes a la toma de posesión; de modificación anual durante el mes de mayo de cada año y de conclusión de encargo, dentro de los treinta días hábiles siguientes y
+
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2001)</small>
 
 XIII. Las demás que esta Constitución y las leyes le confieran.
 
@@ -4932,5 +4956,29 @@ P.O. 28 DE ABRIL DE 2026.
 P.O. 28 DE ABRIL DE 2026.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 622 – LXVI POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL ARTÍCULO 5 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO, EN MATERIA DE LENGUAJE NEUTRO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 7 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 623 – LXVI POR EL QUE SE REFORMAN EL PRIMER PÁRRAFO Y LA FRACCIÓN V DE (SIC) ARTÍCULO 144 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO, EN MATERIA DE PRESENTACIÓN DE INFORMES DE LAS PRESIDENTAS Y LOS PRESIDENTES MUNICIPALES”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. El Congreso del Estado de Hidalgo, tendrá un plazo de ciento ochenta días naturales, contados a partir de la entrada en vigor de este Decreto, para realizar las adecuaciones a la normatividad secundaria, a fin de armonizarla con el contenido de este Decreto.
+
+TERCERO. A partir de la entrada en vigor del presente Decreto se derogan todas las disposiciones que se opongan al mismo.
+
+P.O. 7 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 624 – LXVI POR EL QUE SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 7 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO, EN MATERIA DE ERRADICACIÓN DE LA BRECHA SALARIAL POR RAZONES DE GÉNERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. A partir de la entrada en vigor de este decreto, se derogan todas las disposiciones que se opongan a lo establecido en el presente decreto.
+
+P.O. 7 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 625 – LXVI POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE HIDALGO, EN MATERIA DE ADAPTACIÓN Y MITIGACIÓN ANTE EL CAMBIO CLIMÁTICO".]
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
