@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-salud-del-estado-de-queretaro-72781"
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-30"
-last_updated: "2022-12-02"
+last_updated: "2026-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 LEY DE SALUD DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 30 de enero de 2010.
 
@@ -198,6 +198,10 @@ XVII. La prevención de la invalidez y rehabilitación de las personas inválida
 XVIII. La asistencia social;
 
 XIX. El desarrollo de programas contra el alcoholismo y el tabaquismo;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2026)</small>
+
+XIX Bis. El desarrollo de programas para la prevención, detección y atención oportuna del cáncer de próstata;
 
 XX. El control sanitario de la asignación de órganos, tejidos y células;
 
@@ -2352,3 +2356,13 @@ Artículo Primero. La presente Ley entrará en vigor el día siguiente al de su 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga (sic) a la presente Ley.
 
 Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 8 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE ADICIONA LA FRACCIÓN XIX BIS DEL ARTÍCULO 3 DE LA LEY DE SALUD DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+Artículo Tercero. Remítase al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
