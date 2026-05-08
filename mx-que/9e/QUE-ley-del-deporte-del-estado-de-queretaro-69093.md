@@ -4,7 +4,7 @@ identifier: "QUE-ley-del-deporte-del-estado-de-queretaro-69093"
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-26"
-last_updated: "2022-07-01"
+last_updated: "2026-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69093&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DEL DEPORTE DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 26 de junio de 2009.
 
@@ -76,6 +76,14 @@ VII. Deporte: a la actividad y ejercicios físicos, individuales o de conjunto, 
 > <small>(ADICIONADA, P.O. 3 DE FEBRERO DE 2017)</small>
 
 VIII. Deporte adaptado: a la actividad física reglamentada que intenta hacer posible la práctica deportiva a personas que tienen alguna discapacidad. Consiste en adaptar los distintos deportes a las posibilidades de los participantes o en crear deportes específicos, practicados exclusivamente por personas con problemas físicos, psíquicos o sensoriales;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2026)</small>
+
+VIII Bis. Deporte infantil: a la actividad y ejercicios físicos, individuales o de conjunto, dirigidos a la niñez, para facilitar un adecuado crecimiento y aprendizaje, que constituye la base para la formación motriz, aportando elementos fundamentales para el desarrollo, estabilización intelectual y psíquica, destinada a permanecer y ser aplicada toda la vida;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2026)</small>
+
+VIII Ter. Deporte popular: al conjunto de actividades físicas que practican los grandes núcleos de población, normado convencionalmente y sin que se requiera para su práctica equipos o instalaciones especializados, cuyo objeto es el aprendizaje, mantenimiento de la salud y el esparcimiento, para favorecer el desarrollo integral de la comunidad;
 
 > <small>(ADICIONADA, P.O. 28 DE MARZO DE 2018)</small>
 
@@ -271,7 +279,9 @@ El INDEREQ se integrará por:
 
 I. Un órgano de gobierno, que será la Junta Directiva;
 
-II. Un Director General;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2026)</small>
+
+II. Una persona titular de la Dirección General;
 
 III. Un órgano interno de control, y
 
@@ -283,11 +293,13 @@ IV. Las demás unidades administrativas que establezca su Reglamento Interior.
 
 La Junta Directiva estará integrada por:
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2026)</small>
 
-I. Un Presidente, cuyo titular será el Gobernador del Estado o el titular de la Secretaría de Educación del Poder Ejecutivo del Estado de Querétaro;
+I. Una Presidencia, cuyo titular será el Gobernador del Estado o el titular de la Secretaría de Educación del Poder Ejecutivo del Estado de Querétaro;
 
-II. Un Secretario Técnico que será el Director General del INDEREQ;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2026)</small>
+
+II. Una Secretaría Técnica, que será el titular de la Dirección General del INDEREQ;
 
 III. Seis Vocales, que serán:
 
@@ -307,39 +319,55 @@ El cargo de miembro de la Junta Directiva será honorífico, por lo que no se re
 
 Los integrantes de la Junta Directiva que se refieren en la fracción III de este artículo, podrán ser suplidos por los servidores públicos que al efecto designen, notificando por escrito al Director General.
 
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2026)</small>
 
 ###### Artículo 13 Quinquies.
 
-La Junta Directiva se reunirá de manera ordinaria cada seis meses y, extraordinariamente, cuando así sea convocada por el Presidente por sí mismo o a través del Director General.
+La Junta Directiva se reunirá de manera ordinaria cada seis meses y, extraordinariamente, cuando así sea convocada por el titular de la Presidencia, por sí mismo o a través del titular de la Dirección General.
 
-La Junta Directiva sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros, dentro de los cuales debe estar el Presidente del mismo. Las resoluciones se tomarán por mayoría de los miembros presentes, teniendo el Presidente voto de calidad en caso de igualdad de votos.
+La Junta Directiva sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros, dentro de los cuales debe estar el titular de la Presidencia del mismo. Las resoluciones se tomarán por mayoría de los miembros presentes, teniendo el titular de la Presidencia voto de calidad en caso de igualdad de votos.
 
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2026)</small>
 
 ###### Artículo 13 Sexies.
 
-Corresponden al Presidente, las atribuciones siguientes:
+Corresponden al titular de la Presidencia, las atribuciones siguientes:
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 I. Autorizar el orden del día de las sesiones que celebre la Junta Directiva;
 
-II. Convocar, por conducto del Secretario Técnico, a las sesiones;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2026)</small>
+
+II. Convocar, por conducto de la Secretaría Técnica, a las sesiones;
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 III. Proponer el calendario de sesiones de la Junta Directiva;
 
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
 IV. Instalar, presidir y levantar las sesiones;
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 V. Dirigir y moderar los debates;
 
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
 VI. Firmar las actas de las sesiones; y
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 VII. Las demás que señalen la presente Ley y otros ordenamientos aplicables.
 
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2026)</small>
 
 ###### Artículo 13 Septies.
 
-El Secretario Técnico tendrá las siguientes atribuciones:
+La Secretaría Técnica tendrá las siguientes atribuciones:
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 I. Hacer llegar a los miembros de la Junta Directiva, con una anticipación no menor de cinco días hábiles, la convocatoria que contendrá el orden del día y el soporte documental de los asuntos que deban conocer, tratándose de sesiones ordinarias.
 
@@ -347,17 +375,31 @@ Las sesiones extraordinarias serán convocadas con dos días hábiles de anticip
 
 La convocatoria que se realice para una segunda sesión de la Junta Directiva por falta de quórum, será con un día hábil de anticipación a su celebración.
 
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
 II. Pasar lista de asistencia y verificar la existencia de quórum legal;
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 III. Levantar las actas de las sesiones e integrarlas al registro autorizado;
 
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
 IV. Firmar las actas de las sesiones y recabar las relativas de los asistentes;
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 V. Llevar el seguimiento del cumplimiento de los acuerdos de la Junta Directiva;
 
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
 VI. Certificar los documentos de la Junta Directiva;
 
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+
 VII. Llevar el archivo de los acuerdos y demás documentos de la Junta Directiva, y
+
+> <small>(ADICIONADA, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 VIII. Las demás que señalen la presente Ley, otros ordenamientos aplicables y aquellas que le encomiende la Junta Directiva.
 
@@ -369,7 +411,9 @@ Corresponden a la Junta Directiva, las atribuciones siguientes:
 
 I. Autorizar el presupuesto anual de ingresos y egresos;
 
-II. Aprobar el proyecto de Reglamento Interior del INDEREQ y turnarlo por conducto del coordinador de sector al Secretario de Gobierno del Poder Ejecutivo del Estado para su trámite ante el Gobernador del Estado;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2026)</small>
+
+II. Aprobar el proyecto de Reglamento Interior del INDEREQ y turnarlo por conducto del coordinador de sector al titular de la Secretaría de Gobierno del Poder Ejecutivo del Estado, para su trámite ante el titular del Poder Ejecutivo del Estado;
 
 III. Aprobar los reglamentos y manuales administrativos y operativos del organismo, así como las modificaciones que procedan;
 
@@ -377,23 +421,31 @@ IV. Determinar los programas que permitan el cumplimiento del objeto del INDEREQ
 
 V. Promover y en su caso aprobar la obtención de recursos, para lo cual podrán diseñar y poner en marcha programas específicos de captación de recursos o de proyectos determinados;
 
-VI. Aprobar los estados financieros y balances ordinarios y extraordinarios, así como los informes generales y especiales que presente el Director General del INDEREQ y autorizar su publicación;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2026)</small>
+
+VI. Aprobar los estados financieros y balances ordinarios y extraordinarios, así como los informes generales y especiales que presente la Dirección General del INDEREQ y autorizar su publicación;
 
 VII. Dictar normas y establecer criterios que deban orientar las actividades del INDEREQ;
 
 VIII. Emitir las políticas y lineamientos generales que regulen los contratos y convenios y demás actos jurídicos que sean necesarios para el cumplimiento de los objetivos del INDEREQ;
 
-IX. Aprobar a propuesta del Director General, la coordinación de los proyectos y programas del INDEREQ con los de las Instituciones, organizaciones y asociaciones públicas y privadas que tengan objetivos similares, sujetándose al marco normativo aplicable;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2026)</small>
 
-X. Fijar y ajustar las tarifas de los servicios que preste el INDEREQ, con excepción de aquellas que se determinen en otras leyes o reglamentos o por acuerdo del Gobernador del Estado;
+IX. Aprobar a propuesta de la Dirección General, la coordinación de los proyectos y programas del INDEREQ con los de las instituciones, organizaciones y asociaciones públicas y privadas que tengan objetivos similares, sujetándose al marco normativo aplicable;
+
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2026)</small>
+
+X. Fijar y ajustar las tarifas de los servicios que preste el INDEREQ, con excepción de aquellas que se determinen en otras leyes o reglamentos o por acuerdo del titular del Poder Ejecutivo del Estado;
 
 XI. Aprobar la concertación de préstamos para el funcionamiento del INDEREQ, observando los lineamientos que en materia de deuda pública emitan las autoridades correspondientes, conforme a la Ley de Deuda Pública del Estado de Querétaro;
 
-XII. Expedir de acuerdo con las disposiciones legales aplicables, las bases generales conforme a las cuales, cuando sea necesario, el Director General pueda disponer de activos fijos de la entidad, que no correspondan a las operaciones propias del objeto del INDEREQ o cuando dejen de ser de utilidad para el mismo;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2026)</small>
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+XII. Expedir de acuerdo con las disposiciones legales aplicables, las bases generales conforme a las cuales, cuando sea necesario, la Dirección General pueda disponer de activos fijos de la Entidad, que no correspondan a las operaciones propias del objeto del INDEREQ o cuando dejen de ser de utilidad para el mismo;
 
-XIII. Aprobar la constitución de reservas y la aplicación de las utilidades, en espera del destino que determine el Gobernador del Estado, a través de la Secretaría de Finanzas del Poder Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2026)</small>
+
+XIII. Aprobar la constitución de reservas y la aplicación de las utilidades, en espera del destino que determine el titular del Poder Ejecutivo del Estado a través de la Secretaria de Finanzas del Poder Ejecutivo del Estado;
 
 XIV. Aprobar de conformidad con las disposiciones que, en materia de gasto, emitan las autoridades correspondientes, el tabulador de sueldos aplicable a los trabajadores del INDEREQ, y concederles licencias;
 
@@ -401,11 +453,11 @@ XV. Aprobar la integración de comités de trabajo que se estimen pertinentes, p
 
 XVI. Las demás que le confieran esta Ley y otros ordenamientos aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2026)</small>
 
 ###### Artículo 13 Nonies.
 
-El Director General será designado y removido libremente por el Gobernador del Estado o por el Secretario de Educación del Poder Ejecutivo del Estado de Querétaro y tendrá las siguientes atribuciones:
+El titular de la Dirección General será designado y removido libremente por el titular del Poder Ejecutivo del Estado o por el titular de la Secretaría de Educación del Poder Ejecutivo del Estado de Querétaro y tendrá las siguientes atribuciones
 
 > <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
@@ -467,11 +519,13 @@ XIV. Proporcionar la información, los datos o la cooperación técnica que le s
 
 XV. Las demás que señalen la presente Ley, otros ordenamientos aplicables y aquellas que le encomiende la Junta Directiva.
 
-> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2026)</small>
 
 ###### Artículo 13 Decies.
 
-Al frente del Órgano Interno de Control del INDEREQ habrá un titular, quien será designado por el Secretario de la Contraloría del Poder Ejecutivo del Estado en términos de lo dispuesto por la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro. Para el ejercicio de sus atribuciones, el titular del Órgano Interno de Control se auxiliará por los titulares de Auditoría, Atención a Denuncias e Investigaciones y Responsabilidades Administrativas.
+Al frente del Órgano Interno de Control del INDEREQ habrá un titular, quien será designado por el titular de la Secretaría de la Contraloría del Poder Ejecutivo del Estado en términos de lo dispuesto por la Ley Orgánica del Poder Ejecutivo del Estado de Querétaro. Para el ejercicio de sus atribuciones, el titular del Órgano Interno de Control se auxiliará por los titulares de Auditoría, Atención a Denuncias e Investigaciones y Responsabilidades Administrativas.
+
+> <small>(ADICIONADO, P.O. 29 DE NOVIEMBRE DE 2017)</small>
 
 Los servidores públicos a que se refiere el párrafo anterior, en el ámbito de sus respectivas competencias, ejercerán las facultades previstas en la Ley Orgánica del Poder Ejecutivo el (sic) Estado de Querétaro, el Reglamento Interior de la Secretaría de la Contraloría del Poder Ejecutivo del Estado de Querétaro y las demás disposiciones aplicables.
 
@@ -529,13 +583,21 @@ VI. Deportes para las personas discapacitadas y adultos mayores;
 
 VII. Deportes de alto riesgo;
 
-> <small>(REFORMADA, P.O. 28 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2026)</small>
 
-VIII. Instalaciones deportivas; y
+VIII. Instalaciones deportivas;
 
-> <small>(ADICIONADA, P.O. 28 DE MARZO DE 2018)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2026)</small>
 
-IX. Deporte social comunitario.
+IX. Deporte social comunitario;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2026)</small>
+
+X. Deporte Infantil; y
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2026)</small>
+
+XI. Deporte Popular.
 
 ###### Artículo 17.
 
@@ -797,9 +859,11 @@ De la Comisión de Arbitraje del Deporte en el Estado de Querétaro
 
 La Comisión es un órgano consultivo independiente, que tendrá la función de atender las inconformidades que los integrantes del Sistema hagan valer en contra de las sanciones que apliquen las autoridades deportivas competentes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2026)</small>
+
 ###### Artículo 33.
 
-La Comisión estará integrada por un Presidente, un Secretario y tres Consejeros, quienes serán designados por el titular de la Secretaría de Educación del Estado, de entre los miembros destacados de la comunidad deportiva en la Entidad, que tengan amplia experiencia en la materia.
+La Comisión estará integrada por el titular de la Presidencia, un titular de la Secretaría y tres Consejerías, quienes serán designados por el titular de la Secretaría de Educación del Estado, de entre los miembros destacados de la comunidad deportiva en la Entidad, que tengan amplia experiencia en la materia.
 
 Los cargos de integrantes de la Comisión serán honoríficos y no podrán desempeñarlos quienes funjan como Directivos o titulares de alguna de las asociaciones, dependencias u organizaciones integrantes del Sistema.
 
@@ -1032,3 +1096,13 @@ Artículo Primero. La presente Ley entrará en vigor el día siguiente al de su 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se oponga (sic) a la presente Ley.
 
 Artículo Tercero. Envíese al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 8 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE A LEY DEL DEPORTE DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Tercero. Envíese al titular del Poder ejecutivo del Estado de Querétaro para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
