@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-el-desarrollo-economico-sustentable-y-la-108764"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-18"
-last_updated: "2026-03-31"
+last_updated: "2026-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2026.
 
 Ley publicada en la Edición Extraordinaria de Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de junio de 2015.
 
@@ -123,6 +123,10 @@ II. Consejo: el Consejo para el Desarrollo Económico Sustentable, y la Competit
 
 III. Consejos regionales: consejos regionales para el Desarrollo Económico Sustentable de los municipios;
 
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2026)</small>
+
+III BIS. Economía Social. Modelo económico que pone a las personas y al interés colectivo en el centro de la actividad, priorizando la cooperación, la solidaridad y la sostenibilidad.
+
 IV. Empresa: la entidad integrada por el capital y el trabajo como factores de la producción, y dedicada a actividades industriales, comerciales, o de prestación de servicios con fines de lucro;
 
 V. Fondo: el Fondo de Desarrollo Económico Sustentable y Competitividad;
@@ -201,13 +205,17 @@ IV. Desarrollar un encadenamiento productivo, sustentable, sostenible;
 
 V. Incrementar el valor agregado de los productos;
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2026)</small>
 
-VI. Fomentar en el Programa General las acciones que lleven a la inclusión de las mujeres en el ámbito laboral, empresarial y de emprendimiento económico, y
+VI. Fomentar en el Programa General las acciones que lleven a la inclusión de las mujeres en el ámbito laboral, empresarial y de emprendimiento económico;
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2022)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2026)</small>
 
-VII. Fomentar que el Programa General tenga perspectiva de género de forma transversal.
+VII. Fomentar que el Programa General tenga perspectiva de género de forma transversal, y
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2026)</small>
+
+VIII. Fortalecer la economía social en todos los sectores productivos, así como su incorporación en las cadenas de valor.
 
 ###### ARTÍCULO 11.
 
@@ -1322,6 +1330,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
 P.O. 31 DE MARZO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO 0505.- QUE REALIZA ADICIÓN AL ARTÍCULO 37, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ; REFORMA Y REALIZA ADICIÓN AL ARTÍCULO 64, DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 8 DE MAYO DE 2026.
+
+[N. D E. TRANSITORIOS DEL “DECRETO 0520.- QUE REALIZA ADICIÓN A LOS ARTÍCULOS 3 Y 10 Y REFORMA EL ARTÍCULO 10, TODOS DE LA LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
