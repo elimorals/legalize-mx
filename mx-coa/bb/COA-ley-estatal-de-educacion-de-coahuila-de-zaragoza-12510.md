@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-educacion-de-coahuila-de-zaragoza-12510"
 country: "mx"
 rank: "ley"
 publication_date: "1996-05-28"
-last_updated: "2024-11-15"
+last_updated: "2026-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 28 de mayo de 1996.
 
@@ -303,15 +303,21 @@ I. Otorgar al Instituto Nacional de Evaluación Educativa y a las autoridades ed
 
 II. Proporcionar oportunamente la información que se les requiera;
 
-III. Tomar las medidas que permitan la colaboración efectiva de alumnos, maestros, directivos y demás participantes en los procesos de evaluación, y
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2026)</small>
 
-> <small>(ADICIONADA, P.O. 9 DE MAYO DE 2017)</small>
+III. Tomar las medidas que permitan la colaboración efectiva de alumnos, maestros, directivos y demás participantes en los procesos de evaluación;
 
-IV. Implementar protocolos de atención, sistemas de capacitación obligatoria y programas de prevención, para prevenir y atender la violencia y abuso sexual contra niñas, niños y adolescentes.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2026)</small>
 
-> <small>(ADICIONADA, P.O. 20 DE MARZO DE 2020)</small>
+IV. Implementar protocolos de atención, sistemas de capacitación obligatoria y programas, para prevenir y atender la violencia y abuso sexual contra niñas, niños y adolescentes, los cuales deberán contener criterios mínimos de actuación, mecanismos de detección temprana, rutas de atención inmediata y procedimientos de seguimiento de los casos, garantizando la protección integral del menor y evitando su revictimización;
 
-V. Brindar apoyo y autorizar a los directores de los planteles y resto del personal docente a notificar y/o reportar ante la Procuraduría para Niños, Niñas y la Familia (PRONNIF) la prolongada o reiterada ausencia de un estudiante, así como señales o indicios de agresión física, psicológica y/o sexual.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2026)</small>
+
+V. Brindar apoyo y autorizar a los directores de los planteles y resto del personal docente a notificar y/o reportar ante la Procuraduría para Niños, Niñas y la Familia (PRONNIF) la prolongada o reiterada ausencia de un estudiante, así como señales o indicios de agresión física, psicológica y/o sexual; y
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2026)</small>
+
+VI. Garantizar que la actuación ante casos de violencia o abuso sexual se realice de manera inmediata, estableciendo plazos máximos de atención y asegurando la coordinación obligatoria con las autoridades de salud y de protección de niñas, niños y adolescentes.
 
 ###### ARTICULO 10.
 
@@ -709,9 +715,9 @@ Se brindarán cursos a los docentes y al personal que labora en los planteles de
 
 En caso de que los educadores así como las autoridades educativas, tengan conocimiento de la comisión de algún delito en agravio de los estudiantes, lo harán del conocimiento inmediato de la autoridad correspondiente.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2020)</small>
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2026)</small>
 
-Así mismo, cuando las autoridades educativas, los directores de los planteles educativos, así como el resto del personal docente noten la prolongada o reiterada ausencia de un estudiante, señales o indicios de agresión física, psicológica y/o sexual deberán notificarlo y/o reportarlo ante la Procuraduría para Niños, Niñas y la Familia (PRONNIF) con la finalidad de que la autoridad investigue y de seguimiento para poder descartar o detectar posibles situaciones de maltrato infantil y en su caso emita las sanciones correspondientes contra quien resulte.
+Así mismo, cuando las autoridades educativas, los directores de los planteles educativos, así como el resto del personal docente noten la prolongada o reiterada ausencia de un estudiante, señales o indicios de agresión física, psicológica y/o sexual deberán notificarlo y/o reportarlo ante la Procuraduría para Niños, Niñas y la Familia (PRONNIF) con la finalidad de que la autoridad investigue y de seguimiento para poder descartar o detectar posibles situaciones de maltrato infantil y en su caso emita las sanciones correspondientes contra quien resulte, por ende, en los casos en que se detecten indicios de violencia sexual, las instituciones educativas deberán garantizar la intervención inmediata mediante personal capacitado, así como la canalización prioritaria a servicios especializados de atención psicológica, independientemente de la disponibilidad presupuestal del plantel.
 
 > <small>(ADICIONADO, P.O. 4 DE FEBRERO DE 2020)</small>
 
@@ -2202,3 +2208,11 @@ P.O. 15 DE NOVIEMBRE DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 116.- SE REFORMA LA FRACCIÓN VII Y XIV DEL ARTÍCULO 7; LA FRACCIÓN XVIII DEL ARTÍCULO 9; LA FRACCIÓN II, VII Y IX DEL ARTÍCULO 26, Y EL PRIMER PÁRRAFO DEL ARTÍCULO 58, DE LA LEY ESTATAL DE EDUCACIÓN".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 8 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 471.- SE REFORMAN LAS FRACCIONES III, IV Y V Y SE ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 9° BIS, Y SE REFORMA EL SÉPTIMO PÁRRAFO DEL ARTÍCULO 36, RECORRIÉNDOSE LOS SUBSECUENTES, TODOS DE LA LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado.
