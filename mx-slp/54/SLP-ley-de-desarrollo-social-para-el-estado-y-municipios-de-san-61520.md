@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-desarrollo-social-para-el-estado-y-municipios-de-san-615
 country: "mx"
 rank: "ley"
 publication_date: "2008-04-17"
-last_updated: "2026-02-10"
+last_updated: "2026-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 17 de abril de 2008.
 
@@ -111,7 +111,9 @@ IV. Libre determinación y autonomía de los pueblos y comunidades indígenas: e
 
 V. Participación social: el derecho de las personas y organizaciones a integrarse individual o colectivamente, en el cumplimiento de los objetivos de las políticas, programas y acciones del desarrollo social;
 
-VI. Respeto a la diversidad: la promoción de un desarrollo con equidad y respeto a las diferencias, dando reconocimiento a todas las personas en términos de origen étnico, género, edad, capacidades diferentes, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil, o cualquiera otra, para superar toda condición de discriminación;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2026)</small>
+
+VI. Respeto a la diversidad: la promoción de un desarrollo con equidad y respeto a las diferencias, dando reconocimiento a todas las personas en términos de origen étnico, género, edad, discapacidad, condición social, condiciones de salud, religión, opiniones, preferencias, estado civil, la exclusión social y la eliminación de las brechas de desigualdad entre mujeres y hombres, o cualquiera otra, para superar toda condición de discriminación;
 
 VII. Solidaridad: la colaboración entre personas, grupos sociales y órdenes de gobierno, para que de manera corresponsable sean la base del mejoramiento de la calidad de vida de la sociedad;
 
@@ -205,11 +207,17 @@ El Sistema Estatal de Desarrollo Social es un mecanismo de coordinación interin
 
 El Sistema Estatal se integrará por:
 
-I. El Gobernador del Estado, quien lo presidirá;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2026)</small>
 
-II. Una Secretaría Ejecutiva, a cargo del titular de la Secretaría de Desarrollo Social y Regional, y
+I. La o el Gobernador del Estado, quien lo presidirá;
 
-III. Las siguientes vocalías a cargo de los titulares de:
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2026)</small>
+
+II. Una Secretaría Ejecutiva, a cargo de la persona titular de la Secretaría de Desarrollo Social y Regional, y
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2026)</small>
+
+III. Las siguientes vocalías a cargo de las personas titulares de:
 
 a) Secretaría de Salud.
 
@@ -255,9 +263,13 @@ o) La Junta Estatal de Caminos.
 
 p) Quienes presidan, la Comisión de Desarrollo Económico y Social; y el Comité de Reforma para la Competitividad y Desarrollo Sustentable, entes pertenecientes al Congreso del Estado.
 
-q) Los secretarios del Ramo y titulares de las entidades de la administración pública del Estado, que acuerde el Presidente del Sistema.
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2026)</small>
 
-Los titulares que formen parte del Sistema Estatal, podrán nombrar representantes para participar en las comisiones de trabajo que se formen.
+q) Las personas titulares del Ramo y titulares de las entidades de la administración pública del Estado, que acuerde quien presida el Sistema.
+
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2026)</small>
+
+Las personas titulares que formen parte del Sistema Estatal, podrán nombrar representantes para participar en las comisiones de trabajo que se formen.
 
 ###### ARTICULO 9°.
 
@@ -267,7 +279,9 @@ El Sistema Estatal tendrá las siguientes atribuciones:
 
 I. Establecer la concurrencia a las dependencias y entidades de la administración pública estatal y municipal, en el diseño, planeación, ejecución, monitoreo, evaluación y seguimiento de la política social, a partir de sus respectivos ámbitos de competencia;
 
-II. Coordinar con los sectores social y privado, de manera armónica, complementaria y convenida, su participación en el cumplimiento de los objetivos, estrategias y prioridades de la política estatal de desarrollo social;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2026)</small>
+
+II. Coordinar con los sectores social y privado, de manera armónica, complementaria y convenida, su participación en el cumplimiento de los objetivos, estrategias y prioridades de la política estatal de desarrollo social, bajo los criterios de integralidad y transversalidad, con perspectiva de género y de derechos humanos;
 
 III. Formular el Programa Estatal con base en lo establecido en la presente Ley, teniendo como marco de referencia los lineamientos del Plan Estatal de Desarrollo, y del Programa Nacional en la materia, y considerando la normatividad que al efecto señale la Ley de Planeación;
 
@@ -359,9 +373,11 @@ XIII. Hacer de (sic) conocimiento de las autoridades correspondientes, cuando se
 
 XIV. Las demás que le asigne el Sistema para el cumplimiento de sus atribuciones.
 
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2026)</small>
+
 ###### ARTICULO 13.
 
-El Gobierno del Estado y los municipios implementarán políticas compensatorias y asistenciales, así como oportunidades de desarrollo productivo e ingreso, en beneficio de las personas, familias y grupos sociales en situación de vulnerabilidad, a través de programas sociales, destinando los recursos necesarios y estableciendo metas cuantificables, conforme a la normatividad aplicable.
+El Gobierno del Estado y los municipios implementarán políticas compensatorias y asistenciales, así como oportunidades de desarrollo productivo e ingreso en beneficio de las personas, familias, grupos sociales y, en su caso, pueblos y comunidades indígenas y afromexicanas, en situación de vulnerabilidad, a través de programas sociales, destinando los recursos necesarios y estableciendo metas cuantificables, conforme a la normatividad aplicable.
 
 ###### ARTICULO 14.
 
@@ -459,11 +475,17 @@ V. El disfrute de un medio ambiente sano;
 
 VI. El trabajo y la seguridad social;
 
-> <small>(ADICIONADA, P.O. 23 DE JUNIO DE 2023)</small>
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2026)</small>
 
-VII. El acceso gratuito al transporte público a estudiantes, y
+VII. El acceso gratuito al transporte público a estudiantes;
 
-VIII. Los relativos a la no discriminación.
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2026)</small>
+
+VIII. Los relativos a la no discriminación, y
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2026)</small>
+
+IX. La igualdad sustantiva entre mujeres y hombres.
 
 ###### ARTICULO 18.
 
@@ -473,13 +495,17 @@ I. Participar y beneficiarse de los programas de desarrollo social conforme a lo
 
 II. Recibir apoyos a través de acciones tendientes a disminuir su desventaja.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2026)</small>
+
 ###### ARTICULO 19.
 
-Son derechos de los beneficiarios de los programas sociales los siguientes:
+Son derechos de las y los beneficiarios de los programas sociales los siguientes:
 
 I. Recibir la información acerca de los programas y servicios que promuevan el Sistema Estatal y los municipios; así como de aquéllos que la Federación aplique en la Entidad;
 
-II. Recibir por parte de los oferentes de programas sociales, un trato oportuno, respetuoso y con calidad; asimismo, ser asesorado respecto de los mecanismos para acceder a los programas y alcanzar su desarrollo integral;
+> <small>(REFORMADA, P.O. 8 DE MAYO DE 2026)</small>
+
+II. Recibir por parte de los oferentes de programas sociales, un trato oportuno, respetuoso y con calidad; asimismo, y libre de cualquier forma de discriminación o violencias, y recibir asesoría respecto de los mecanismos para acceder a los programas y alcanzar su desarrollo integral;
 
 III. Solicitar su inclusión, participación y acceso en los programas sociales;
 
@@ -580,6 +606,10 @@ VII. A los mecanismos de coordinación y concertación de los proyectos y accion
 VIII. A los objetivos, metas, estrategias, líneas de acción, y beneficiarios de los bienes y servicios que se proporcionen, y el monto de los recursos asignados, y
 
 IX. A la evaluación de los resultados e impactos de la política social.
+
+> <small>(ADICIONADO, P.O. 8 DE MAYO DE 2026)</small>
+
+El programa que se refiere al presente artículo deberá incorporar la perspectiva de género y de derechos humanos en su diseño, implementación y evaluación, a fin de mejorar las condiciones de vida de las mujeres y eliminar las brechas de desigualdad entre mujeres y hombres.
 
 ###### ARTICULO 28.
 
@@ -1048,3 +1078,11 @@ P.O. 10 DE FEBRERO DE 2026.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 8 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0522.- QUE REFORMA LOS ARTÍCULOS 5, 8, 9, 13, 17 Y 19; REALIZA ADICIÓN A LOS ARTÍCULOS 17 Y 27, DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se realizarán con cargo a los presupuestos aprobados de los ejecutores de gasto correspondientes, por lo que no se autorizarán ampliaciones para el presente ejercicio fiscal, o los subsecuentes.
