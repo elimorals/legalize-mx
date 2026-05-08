@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-4-2017-del-presidente-de-1248
 country: "mx"
 rank: "acuerdo"
 publication_date: "2017-12-26"
-last_updated: "2017-12-26"
+last_updated: "2026-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=124859&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2017-12-15"
 ---
 # ACUERDO GENERAL DE ADMINISTRACION 4/2017 DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION [QUE EMITE LOS LINEAMIENTOS PARA LA MEJORA REGULATORIA CONTINUA Y EL MANTENIMIENTO DEL SISTEMA NORMATIVO EN MATERIA ADMINISTRATIVA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION]
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ACUERDO GENERAL NÚMERO II/2026, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTINUEVE DE ABRIL DE DOS MIL VEINTISÉIS, POR EL QUE SE EMITEN LOS LINEAMIENTOS DEL SISTEMA NORMATIVO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PUBLICADO EN EL S.J.F. DE 8 DE MAYO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ACUERDO GENERAL DE ADMINISTRACIÓN 4/2017, DEL CATORCE DE DICIEMBRE DE DOS MIL DIECISIETE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL CUAL SE EMITEN LOS LINEAMIENTOS PARA LA MEJORA REGULATORIA CONTINUA Y EL MANTENIMIENTO DEL SISTEMA NORMATIVO EN MATERIA ADMINISTRATIVA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN: 8 DE MAYO DE 2026 (ABROGADO).
 
 Acuerdo publicado en la Primera Sección al Número 20 del Diario Oficial de la Federación, el martes 26 de diciembre de 2017.
 
@@ -242,3 +244,17 @@ Así lo acordó y firma el señor Ministro Luis María Aguilar Morales, Presiden
 > <small>[N. DE E. VÉASE ANEXO DE INSTRUMENTOS ABROGADOS EN LA PRIMERA SECCIÓN DEL D.O.F. DE 26 DE DICIEMBRE DE 2017, PÁGINAS DE LA 67 A LA 77.]</small>
 
 EL LICENCIADO ALEJANDRO MANUEL GONZÁLEZ GARCÍA, SECRETARIO JURÍDICO DE LA PRESIDENCIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CON FUNDAMENTO EN EL ARTÍCULO 8, FRACCIÓN XIII, DEL REGLAMENTO ORGÁNICO EN MATERIA DE ADMINISTRACIÓN DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, CERTIFICA: Que esta copia del “ACUERDO GENERAL DE ADMINISTRACIÓN 4/2017, DEL CATORCE DE DICIEMBRE DE DOS MIL DIECISIETE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN”, constante de diez fojas útiles, concuerda fiel y exactamente con su original que obra en esta Secretaría Jurídica y se certifica para el trámite correspondiente.- Ciudad de México, quince de diciembre de dos mil diecisiete.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+S.J.F. 8 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL NÚMERO II/2026, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, DE VEINTINUEVE DE ABRIL DE DOS MIL VEINTISÉIS, POR EL QUE SE EMITEN LOS LINEAMIENTOS DEL SISTEMA NORMATIVO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN”.]
+
+PRIMERO. El presente Acuerdo General entrará en vigor al día siguiente de su aprobación.
+
+SEGUNDO. Se abroga el Acuerdo General de Administración 4/2017, del catorce de diciembre de dos mil diecisiete, del Presidente de la Suprema Corte de Justicia de la Nación, publicado en el Diario Oficial de la Federación el veintiséis de diciembre de dos mil diecisiete, así como todas aquellas disposiciones que se opongan al presente Acuerdo General.
+
+TERCERO. La Dirección General de Asuntos Jurídicos en el plazo de treinta días hábiles deberá remitir el oficio a la Autoridad Nacional de Simplificación y Digitalización a efecto de informar que se le ha designado en términos del presente Acuerdo General como la instancia responsable de coordinación de la Suprema Corte de Justicia de la Nación para la implementación y cumplimiento de la Ley Nacional para Eliminar Trámites Burocráticos.
+
+CUARTO. Publíquese el presente Acuerdo General en el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos del artículo 65, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública.
