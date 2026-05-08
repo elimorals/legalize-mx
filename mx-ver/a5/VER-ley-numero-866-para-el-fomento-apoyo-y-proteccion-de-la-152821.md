@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-866-para-el-fomento-apoyo-y-proteccion-de-la-152821"
 country: "mx"
 rank: "ley"
 publication_date: "2021-11-30"
-last_updated: "2021-11-30"
+last_updated: "2026-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=152821&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 866 PARA EL FOMENTO, APOYO Y PROTECCIÓN DE LA LACTANCIA MATERNA DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE MAYO DE 2026.
 
 Ley publicada en el Número Extraordinario 476 de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el martes 30 de noviembre de 2021.
 
@@ -161,7 +161,9 @@ Son derechos de todas las madres, independientemente de su tipo de contratación
 
 I. Durante el periodo de lactancia hasta por el término máximo de seis meses, contar con dos reposos extraordinarios por día, de media hora cada uno, para amamantar a sus hijos o para realizar la extracción manual de leche, en lugar adecuado e higiénico que sea designado, o bien, cuando esto no sea posible, previo acuerdo con el patrón se reducirá en una hora su jornada de trabajo durante el periodo señalado.
 
-Para gozar de los reposos y/o descansos extraordinarios, posterior a los seis meses de lactancia, la trabajadora debe acreditar la práctica de la lactancia materna efectiva, mediante certificado expedido por médico de institución pública y copia del acta de nacimiento del menor, que presentará a su centro de trabajo cada dos meses.
+> <small>(REFORMADO, G.O. 8 DE MAYO DE 2026)</small>
+
+Para gozar de los reposos o descansos extraordinarios, posterior a los seis meses de lactancia, la trabajadora debe acreditar la práctica de la lactancia materna efectiva, mediante documento expedido por médica o médico de institución pública o copia del acta de nacimiento del menor, que presentará a su centro de trabajo cada dos meses.
 
 Los derechos laborales de las madres se regirán también por lo que norme al respecto la Ley Federal del Trabajo en materia de lactancia materna;
 
@@ -516,3 +518,13 @@ Cuitláhuac García Jiménez
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 8 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 509 POR EL QUE SE REFORMA EL ARTÍCULO 9, FRACCIÓN I, DE LA LEY PARA EL FOMENTO, APOYO Y PROTECCIÓN DE LA LACTANCIA MATERNA DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
