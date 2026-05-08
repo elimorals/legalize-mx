@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-municipio-libre-del-estado-de-san-luis-17434"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-07-11"
-last_updated: "2026-04-16"
+last_updated: "2026-05-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de julio de 2000.
 
@@ -1383,9 +1383,15 @@ XVIII. Imponer sanciones a quienes corresponda, por violación al Reglamento Int
 
 XIX. Expedir y autentificar con su firma y bajo su estricta responsabilidad las constancias, anuencias y certificaciones vinculadas a trámites administrativos y de fe pública.
 
-Los reglamentos internos de cada Ayuntamiento dispondrán los requisitos necesarios para la expedición de dichos documentos; el costo de estos se establecerá en las leyes de ingresos respectivas; y
+> <small>(REFORMADO, P.O. 8 DE MAYO DE 2026)</small>
 
-XX. Las demás que le señalen las leyes y reglamentos municipales.
+Los reglamentos internos de cada Ayuntamiento dispondrán los requisitos necesarios para la expedición de dichos documentos; el costo de estos se establecerá en las leyes de ingresos respectivas;
+
+> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2026)</small>
+
+XX. Elaborar un padrón de lotes baldíos y casas desocupadas que representen un riesgo en la seguridad o insalubridad para los habitantes del Municipio, con apoyo de las dependencias y entidades de la administración pública municipal competentes. Dicho padrón podrá ser sometido a Cabildo con el propósito de presentar las propuestas de acciones que se consideren necesarias y oportunas para atender dicha situación, y
+
+XXI. Las demás que le señalen las leyes y reglamentos municipales.
 
 ### CAPITULO V. De la Tesorería
 
@@ -3742,3 +3748,15 @@ En los ejercicios fiscales subsecuentes, deberán prever partidas específicas e
 SEXTO. El Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, en coordinación con el Instituto de Fiscalización Superior del Estado y la Secretaría de Finanzas, emitirá en un plazo no mayor a 60 días naturales los criterios técnicos y/o lineamientos para la verificación, seguimiento y cumplimiento del ingreso mínimo mensual previsto en este Decreto, mismos que serán de observancia obligatoria para los ayuntamientos.
 
 SÉPTIMO. El Poder Ejecutivo del Estado, a través de la Secretaría de Finanzas, podrá celebrar convenios de coordinación con los ayuntamientos para apoyar la implementación progresiva del ingreso mínimo mensual previsto en este Decreto, sin que ello implique transferencia de obligaciones permanentes ni afectación a la autonomía municipal.
+
+P.O. 8 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0521.- QUE REFORMA Y REALIZA ADICIÓN AL ARTÍCULO 78, DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se concede a los ayuntamientos del Estado, el plazo de noventa días naturales, contados a partir de la entrada en vigor del presente decreto, para expedir o adecuar sus disposiciones reglamentarias.
+
+TERCERO. Se concede un plazo de noventa días naturales, posteriores a las adecuaciones de las disposiciones reglamentarias de los ayuntamientos del Estado, para elaborar el padrón de lotes baldíos y casas abandonadas que representen un riesgo a la seguridad y la salud para sus habitantes.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a este Decreto.
