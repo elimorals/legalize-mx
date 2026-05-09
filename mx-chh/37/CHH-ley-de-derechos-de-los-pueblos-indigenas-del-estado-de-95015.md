@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-derechos-de-los-pueblos-indigenas-del-estado-de-95015"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-29"
-last_updated: "2023-04-26"
+last_updated: "2026-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95015&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DERECHOS DE LOS PUEBLOS INDÍGENAS DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ABRIL DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2026.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 29 de junio de 2013.
 
@@ -97,6 +97,10 @@ Las comunidades indígenas son sujetos de derecho público con personalidad jur�
 
 Las decisiones al interior de las comunidades indígenas y, en su caso, los mecanismos para su aplicación, tendrán los alcances y consecuencias equivalentes a las determinaciones del Estado.
 
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2026)</small>
+
+Para la validación de las determinaciones o resoluciones que dicten las autoridades indígenas en el ejercicio de su jurisdicción especial, podrán acudir directamente ante la autoridad judicial más cercana a su comunidad, o bien, al Municipio, a efecto de que este sirva como vínculo entre la comunidad o pueblo indígena y la autoridad judicial de la jurisdicción que les corresponda.
+
 ###### Artículo 9.
 
 En el marco de su autonomía y de acuerdo con sus sistemas normativos internos, las comunidades indígenas ejercerán los siguientes derechos:
@@ -135,7 +139,9 @@ XIV. Las demás que establezca la presente Ley y demás ordenamientos aplicables
 
 Los sistemas normativos internos de los pueblos y las comunidades indígenas tienen validez en el ámbito de las relaciones familiares, de la vida civil, de la organización de la vida comunitaria y, en general, de la prevención, regulación y solución de conflictos al interior de cada comunidad sobre bienes jurídicos de estas o algunos de sus miembros, sin más límites que la Constitución General de la República, la particular del Estado y los derechos humanos, en la forma y términos que prevengan las leyes en la materia.
 
-La aplicación de la justicia indígena será conforme a lo que cada comunidad estime procedente de acuerdo con sus sistemas normativos internos, siempre que las partes estuviesen de acuerdo.
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2026)</small>
+
+La aplicación de la justicia indígena será conforme a lo que cada comunidad estime procedente de acuerdo con sus sistemas normativos internos, siempre que las partes estuviesen de acuerdo, y se deberá preservar en todo momento el acceso a la justicia de todas las personas que integren a la comunidad o pueblo indígena.
 
 ###### Artículo 11.
 
@@ -235,9 +241,51 @@ Las personas integrantes de los pueblos y comunidades indígenas tienen derecho 
 
 El Poder Ejecutivo del Estado y los Ayuntamientos, en el ámbito de su competencia, llevarán a cabo medidas afirmativas y compensatorias a favor de la igualdad de oportunidades para la población indígena, de conformidad con lo establecido por las leyes en la materia.
 
-### CAPÍTULO IV. DEL DERECHO AL CONSENTIMIENTO
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 9 DE MAYO DE 2026)</small>
 
-### CAPÍTULO V. OBLIGACIONES DEL ESTADO
+### CAPÍTULO III BIS
+
+DEL MECANISMO DE VALIDACIÓN DE LAS DECISIONES EMITIDAS POR LAS AUTORIDADES DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS, EN EL EJERCICIO DE LA JURISDICCIÓN ESPECIAL INDÍGENA
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2026)</small>
+
+Artículo 21 BIS. Para determinar que se está ante un caso cuyo conocimiento corresponda a la jurisdicción especial indígena, la autoridad judicial deberá valorar los siguientes factores:
+
+I. Factor Personal: La persona juzgadora debe identificar si a quien se le atribuye el hecho o delito, pertenece a un pueblo o comunidad indígena, haciendo uso de los siguientes recursos:
+
+a. Los sistemas normativos internos de la comunidad indígena a la que pertenezca la persona.
+
+b. El grado de aislamiento de la comunidad indígena a la que pertenezca la persona, en comparación con la sociedad mayoritaria.
+
+c. La afectación de la persona, frente a la sanción.
+
+II. Factor Territorial: La persona juzgadora debe identificar que la autoridad indígena esté legitimada para ejercer su jurisdicción especial, en el espacio geográfico donde está el pueblo o comunidad indígena, haciendo uso de los siguientes recursos:
+
+a. Si los hechos o delitos ocurrieron dentro del ámbito territorial de la comunidad indígena.
+
+b. Si la comunidad indígena tiene arraigo cultural en el espacio territorial donde ocurrieron los hechos o delitos.
+
+III. Factor Objetivo: La persona juzgadora deberá determinar si el bien jurídico presuntamente afectado, tiene relación con los intereses colectivos de la comunidad indígena o algún integrante de la misma, o bien de la sociedad mayoritaria o parte de esta, atendiendo lo dispuesto por los sistemas normativos internos de la comunidad.
+
+IV. Factor Institucional: La persona juzgadora deberá realizar un estudio para determinar la existencia de una autoridad indígena, en apego a los sistemas normativos internos de la comunidad, haciendo uso de los siguientes recursos:
+
+a. La existencia de normas del derecho consuetudinario.
+
+b. La conservación de los sistemas normativos internos de la comunidad.
+
+c. La satisfacción de los derechos de las personas víctimas.
+
+> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2026)</small>
+
+Artículo 21 TER. En toda controversia o conflicto en la que se encuentre implicada una comunidad indígena o un integrante de ella y una persona que no pertenezca a pueblos y comunidades indígenas, la persona juzgadora deberá evaluar el caso en concreto, en concordancia con los factores anteriores y atendiendo lo siguiente:
+
+I. Que los supuestos de hecho estén o no consagrados en ambos sistemas jurídicos.
+
+II. Que las personas que no pertenezcan a pueblos y comunidades indígenas implicadas en la controversia, tengan, o no, los conocimientos básicos acerca de los sistemas normativos internos de la comunidad donde se suscitaron los hechos.
+
+III. Si las personas que no pertenezcan a pueblos y comunidades indígenas desean someterse a alguna jurisdicción en especial, al estar regulada la conducta en ambas jurisdicciones.
+
+### CAPÍTULO IV. DEL DERECHO AL CONSENTIMIENTO
 
 ###### Artículo 22.
 
@@ -315,7 +363,7 @@ V. El ejercicio de la consulta directa en las sedes deberá privilegiar el uso d
 
 VI. La consulta directa llegará a su fin en base a las exigencias cronológicas de los procesos de consenso con los pueblos y las comunidades indígenas.
 
-### CAPÍTULO VI. INFRACCIONES, SANCIONES Y MEDIOS PARA RESOLVER CONFLICTOS
+### CAPÍTULO V. OBLIGACIONES DEL ESTADO
 
 ###### Artículo 28.
 
@@ -413,9 +461,13 @@ VII. Instrumentar las medidas necesarias para que en los municipios del Estado, 
 
 VIII. Apoyar la nutrición de los integrantes de los pueblos originarios mediante programas de alimentación, en especial para la población infantil.
 
-> <small>(ADICIONADA, P.O. 30 DE AGOSTO DE 2017)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MAYO DE 2026)</small>
 
-IX. Las demás que se establezcan en la presente Ley y otros ordenamientos aplicables.
+IX. Tramitar, ante el órgano jurisdiccional competente, las peticiones de homologación y validación de los actos y resoluciones dictados por las autoridades indígenas en el ámbito de su jurisdicción especial.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE MAYO DE 2026)</small>
+
+X. Las demás que se establezcan en la presente ley y otros ordenamientos aplicables.
 
 ###### Artículo 32.
 
@@ -423,11 +475,15 @@ Los pueblos y las comunidades indígenas tienen derecho a la participación y re
 
 El Ejecutivo del Estado, en acuerdo con los pueblos y las comunidades indígenas diseñará, instrumentará, ejecutará, evaluará y dará seguimiento a las políticas públicas susceptibles de afectarles.
 
+### CAPÍTULO VI. INFRACCIONES, SANCIONES Y MEDIOS PARA RESOLVER CONFLICTOS
+
+> <small>(REFORMADO, P.O. 9 DE MAYO DE 2026)</small>
+
 ###### Artículo 33.
 
-Los conflictos al interior de los pueblos y las comunidades indígenas serán resueltos por estos.
+Los conflictos al interior de los pueblos y las comunidades indígenas serán resueltos por estos y las determinaciones o resoluciones que dicten las autoridades indígenas en el ejercicio de su jurisdicción especial, podrán ser validadas por la autoridad judicial a petición de parte, acudiendo directamente a esta, o bien al Municipio, a efecto de que sirva como vínculo entre la comunidad o pueblo indígena y la autoridad judicial de la jurisdicción que les corresponda.
 
-Asimismo, los pueblos y las comunidades indígenas tienen derecho a solicitar la mediación de sus conflictos con particulares al Centro Estatal de Mediación del Poder Judicial del Estado de Chihuahua.
+Asimismo, los pueblos y las comunidades indígenas tienen derecho a solicitar la mediación de sus conflictos con particulares al Instituto de Justicia Alternativa y Atención Temprana del Poder Judicial del Estado de Chihuahua.
 
 ###### Artículo 34.
 
@@ -646,3 +702,11 @@ En cumplimiento del Principio de Progresividad que impera en materia de Derechos
 ###### ARTÍCULO CUARTO.
 
 En relación con el artículo 177 Ter, el establecimiento de los Centros Regionales de Personas Traductoras e Intérpretes atenderá a la suficiencia y justificación presupuestal que el Poder Judicial del Estado de Chihuahua establezca.
+
+P.O. 9 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFLEY/0500/2026 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS DE LOS PUEBLOS INDÍGENAS Y DE LA LEY ORGÁNICA DEL PODER JUDICIAL, AMBAS DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
