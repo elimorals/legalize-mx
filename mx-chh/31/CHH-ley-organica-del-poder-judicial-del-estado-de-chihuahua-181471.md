@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-judicial-del-estado-de-chihuahua-181471"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2025-09-01"
-last_updated: "2025-09-01"
+last_updated: "2026-05-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181471&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2026.
 
 Ley publicada en el Número 70 del Periódico Oficial del Estado de Chihuahua, el lunes 01 de septiembre de 2025.
 
@@ -2547,7 +2547,13 @@ II. Las recusaciones y excusas de las Juezas o Jueces de primera instancia. En e
 
 III. Los conflictos de competencia entre las Juezas y Jueces y Tribunales Civiles, y los suscitados entre las Juezas o los Jueces y Tribunales Familiares.
 
-IV. Los demás asuntos que establezcan esta Ley Orgánica y otras disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MAYO DE 2026)</small>
+
+IV. La validación de las determinaciones o resoluciones emitidas por las autoridades indígenas, en el ejercicio de la jurisdicción especial indígena.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE MAYO DE 2026)</small>
+
+V. Los demás asuntos que establezcan esta Ley y otras disposiciones legales aplicables.
 
 ###### Artículo 191.
 
@@ -2565,7 +2571,13 @@ II. Las recusaciones y excusas de las Juezas o Jueces en materia penal.
 
 III. Los conflictos de competencia entre Juezas o Jueces y Tribunales Penales.
 
-IV. Los demás asuntos que establezcan esta Ley Orgánica y otras disposiciones legales aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE MAYO DE 2026)</small>
+
+IV. La validación de las determinaciones o resoluciones emitidas por las autoridades indígenas, en el ejercicio de la jurisdicción especial indígena.
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE MAYO DE 2026)</small>
+
+V. Los demás asuntos que establezcan esta Ley y otras disposiciones legales aplicables.
 
 ###### Artículo 193.
 
@@ -2661,7 +2673,9 @@ Los tribunales del sistema penal acusatorio, para llevar a cabo la etapa de enju
 
 A las personas titulares de los tribunales de primera instancia y laborales corresponderá:
 
-I. Conocer de los asuntos civiles, mercantiles, familiares, penales, laborales o de extinción de dominio, de acuerdo a su competencia, y los que en forma explícita les señalen las leyes.
+> <small>(REFORMADA, P.O. 9 DE MAYO DE 2026)</small>
+
+I. Conocer de los asuntos civiles, mercantiles, familiares, penales, laborales, de extinción de dominio o de validación de las determinaciones o resoluciones emitidas por las autoridades indígenas, en el ejercicio de la jurisdicción especial indígena, de acuerdo a su competencia y los que en forma explícita les señalen las leyes.
 
 II. Calificar las excusas y recusaciones de las Juezas y Jueces menores mixtos de sus Distritos Judiciales en los asuntos de su ramo.
 
@@ -4690,3 +4704,13 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, al primer día del mes de septiembre del año dos mil veinticinco.
 
 LA GOBERNADORA CONSTITUCIONAL DEL ESTADO. MTRA MARÍA EUGENIA CAMPOS GALVÁN. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. SANTIAGO DE LA PEÑA GRAJEDA. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO N° LXVIII/RFLEY/0500/2026 II P.O., MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS DE LOS PUEBLOS INDÍGENAS Y DE LA LEY ORGÁNICA DEL PODER JUDICIAL, AMBAS DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
