@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-obras-publicas-y-servicios-relacionados-con-las-43851"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-31"
-last_updated: "2019-12-20"
+last_updated: "2026-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE MAYO DE 2026.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el viernes 31 de diciembre de 2004.
 
@@ -1439,57 +1439,105 @@ El Comité Coordinador del Sistema Estatal Anticorrupción, en el ejercicio de s
 
 ### CAPÍTULO SEGUNDO. DEL OBSERVATORIO CIUDADANO DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS
 
-> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 10 DE MAYO DE 2026)</small>
 
 ###### Artículo 102.
 
-El Observatorio Ciudadano, es un instrumento de participación ciudadana, que tiene por objeto el análisis, seguimiento y evaluación de las políticas públicas de las Dependencias y Entidades, así como de la revisión, estudio, planteamiento de propuestas y opiniones respecto a las distintas problemáticas que viven sectores de la sociedad en materia de obras públicas y servicios relacionados con las mismas.
+El Observatorio Ciudadano de obras públicas y servicios relacionados con las mismas, es un instrumento de participación ciudadana, que tiene por objeto el análisis, seguimiento y evaluación de las políticas públicas de las Dependencias y Entidades Estatales y Municipales, así como de la revisión, estudio, planteamiento de propuestas y opiniones respecto a las distintas problemáticas que viven sectores de la sociedad en materia de obras públicas y servicios relacionados con las mismas.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
 
 El Observatorio Ciudadano tendrá su residencia en la Capital del Estado y deberá contar con un Reglamento Interno en el que se regulará su funcionamiento.
 
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+
 Los integrantes del Observatorio Ciudadano duraran cuatro años en su encargo y se integrará de acuerdo a lo previsto en la presente Ley.
 
-El Congreso del Estado de Baja California Sur a través de la Comisión Permanente de Infraestructura, emitirá una convocatoria pública para elegir a los integrantes del observatorio referidos en la fracción VII del artículo 103 de la presente Ley y una vez concluida dicha selección, la Comisión Permanente de Infraestructura, solicitará por escrito a las organizaciones e Instituciones referidas en las fracciones I a VI del citado artículo, designen a sus representantes a fin de concluir la conformación e instalación del observatorio ciudadano.
+> <small>(REFORMADO, B.O. 10 DE MAYO DE 2026)</small>
 
-La convocatoria a que se refiere el párrafo anterior, será publicado (sic) en el diario de mayor circulación en el Estado por un espacio de tres en tres días y en la página de Internet del Congreso del Estado por un espacio de 15 días.
+El Congreso del Estado de Baja California Sur a través de las Comisiones Permanentes de Transparencia y anticorrupción y la de Infraestructura, emitirán una convocatoria pública para elegir a los integrantes del observatorio referidos en la fracción VII del artículo 103 de la presente Ley y una vez concluida dicha selección, las Comisiones Permanentes de Transparencia y Anticorrupción y de Infraestructura, solicitarán por escrito a las organizaciones e Instituciones referidas en las fracciones I a VII del citado artículo, designen a sus representantes a fin de concluir la conformación e instalación del observatorio ciudadano.
 
-> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, B.O. 10 DE MAYO DE 2026)</small>
+
+La convocatoria a que se refiere el párrafo anterior será ampliamente difundida a través de medios físicos y digitales, además de ser publicada en la página oficial del Poder Legislativo del Estado de Baja California Sur, por un espacio de 15 días.
+
+> <small>(ADICIONADO, B.O. 10 DE MAYO DE 2026)</small>
+
+Artículo 102 BIS.- Quienes aspiren a ser integrantes del Observatorio Ciudadano propuestos deberán de cumplir con los siguientes requisitos:
+
+I.- Ser mayores de edad.
+
+II.- Ser de nacionalidad mexicana, residentes en el Estado de Baja California Sur con al menos un año en la entidad, en pleno goce de sus derechos político-electorales.
+
+III.- Acreditar mediante escritos y constancias su conocimiento en materia de fiscalización, obra pública, participación ciudadana, de rendición de cuentas, docencia, e investigación y/o combate a la corrupción.
+
+> <small>(ADICIONADO, B.O. 10 DE MAYO DE 2026)</small>
+
+Artículo 102 TER.- Las personas que integren el Observatorio Ciudadano referidos en la fracción VIII del artículo 103, serán nombrados conforme al siguiente procedimiento:
+
+I.- Las Comisiones Permanentes de Transparencia y Anticorrupción, y de Infraestructura del Congreso del Estado expedirán una convocatoria pública dirigida a las organizaciones de la sociedad civil, en materia de fiscalización, participación ciudadana, obra pública, de rendición de cuentas y combate a la corrupción, para que propongan dos perfiles de aspirantes, una mujer y un hombre, para seleccionar de las propuestas a tres integrantes descritos en la fracción VIII del artículo 103 de la presente Ley.
+
+Para la selección por parte del Congreso del Estado de dichos integrantes se observará en lo conducente los trámites legislativos previstos en la Ley Reglamentaria del Poder Legislativo del Estado de Baja California Sur para la presentación, discusión, votación y aprobación de los dictámenes.
+
+II.- La Convocatoria definirá la metodología, plazos y criterios de selección de las y los integrantes del Observatorio Ciudadano en donde deberá considerar al menos las siguientes características:
+
+a) El método de registro y evaluación de los aspirantes;
+
+b) Hacer pública la lista de las y los aspirantes;
+
+c) Hacer públicos los documentos que hayan sido entregados para su inscripción en versiones públicas;
+
+d) Hacer público el cronograma de audiencias, en su caso;
+
+e) Podrán efectuarse audiencias públicas de las comisiones con las y los aspirantes.
+
+f) El plazo en que se deberá hacer la elección por parte del pleno en sesión pública, por el voto de la mayoría de sus miembros presentes.
+
+III.- En caso de que se generen vacantes imprevistas, el proceso de selección del nuevo integrante no podrá exceder el límite de noventa días y la persona que resulte electa desempeñará el encargo por el tiempo restante de la vacante a ocupar.
+
+> <small>(ADICIONADO, B.O. 10 DE MAYO DE 2026)</small>
+
+Artículo 102 QUATER.- Las comisiones presentarán ante el pleno del Congreso en sesión pública un dictamen que contendrá el listado de las candidatas y/o candidatos que cumplan los requisitos establecidos en la presente convocatoria, posterior a la evaluación, y que se consideren como idóneos para cubrir las vacantes. Dicho listado deberá garantizar la paridad en la integración del observatorio ciudadano y no será vinculatorio en la decisión que tome el pleno. Del listado de perfiles idóneos contenidos en el dictamen que la comisión presente ante el pleno, se elegirán en votación por cedula secreta, en términos de lo dispuesto por el artículo 160 de la Ley Orgánica del Poder Legislativo de Baja California Sur.
+
+> <small>(REFORMADO, B.O. 10 DE MAYO DE 2026)</small>
 
 ###### Artículo 103.
 
 El Observatorio Ciudadano, se integrará por:
 
-I. Un representante designado por la Cámara Mexicana de la Industria de la Construcción en el Estado (CMIC);
+I. Una persona representante designada por la Cámara Mexicana de la Industria de la Construcción en el Estado (CMIC);
 
-II. Un representante designado por el Colegio de Ingenieros en el Estado, a fin a la obra pública;
+II. Una persona representante designada por el Colegio de Ingenieros en el Estado, afín a la obra pública;
 
-III. Un representante designado por el Colegio de Arquitectos en el Estado;
+III. Una persona representante designada por el Colegio de Arquitectos en el Estado; afín a la obra pública;
 
-IV. Un representante designado por el Colegio de Peritos Valuadores del Estado de Baja California Sur;
+IV. Una persona representante designada por el Colegio de Peritos Valuadores del Estado de Baja California Sur;
 
-V. Un representante, académico designado por el departamento de Ciencias de la tierra del Instituto Tecnológico de La Paz;
+V. Una persona representante del sector académico designada por el departamento de Ciencias de la tierra del Instituto Tecnológico de La Paz;
 
-VI. Un representante, académico designado por la Universidad Autónoma de Baja California Sur; y
+VI. Una persona representante del sector académico designada por la Universidad Autónoma de Baja California Sur; y
 
-VII. Tres representantes, integrantes de las organizaciones de la sociedad civil.
+V. Una persona representante del Colegio de abogados, registrado con mayor antigüedad en el Estado de Baja California Sur.
 
-En su integración se procurará cumplir con el principio de paridad de género, a efecto de que no se integre con más de 60% de personas del mismo sexo.
+VIII. Tres representantes, integrantes de las organizaciones de la sociedad civil.
 
-La participación de los integrantes del Observatorio es honorífica, por lo que no recibirán retribución económica alguna por las funciones que desempeñen con tal carácter.
+En su integración se procurará cumplir con el principio de paridad de género, a efecto de que no se integre con más de 50% de personas del mismo sexo.
 
-El Observatorio ciudadano sesionará a convocatoria de su Presidente, emitida con al menos veinticuatro horas de anticipación, con la periodicidad que señale su Reglamento Interno, debiendo haber una asistencia de más de la mitad de sus integrantes para que las sesiones sean válidas.
+La participación de quienes integren del Observatorio es honorífica, por lo que no recibirán retribución económica alguna por las funciones que desempeñen con tal carácter.
 
-Las decisiones del Observatorio Ciudadano se tomarán por mayoría simple de votos de sus integrantes y en caso de empate, el Presidente tendrá voto de calidad.
+El Observatorio ciudadano sesionará a convocatoria de la persona que ocupe la presidencia, emitida con al menos veinticuatro horas de anticipación, con la periodicidad que señale su Reglamento Interno, debiendo haber una asistencia de más de la mitad de sus integrantes para que las sesiones sean válidas.
 
-> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+Las decisiones del Observatorio Ciudadano se tomarán por mayoría simple de votos de sus integrantes y en caso de empate, quien ocupe la presidencia tendrá voto de calidad.
+
+> <small>(REFORMADO, B.O. 10 DE MAYO DE 2026)</small>
 
 ###### Artículo 104.
 
-El Observatorio Ciudadano, conforme a su reglamento, podrá constituir las Delegaciones Municipales que se estimen necesarias para el cumplimiento de sus objetivos y para su conformación, su Presidente, a propuesta del Pleno, podrá formular las invitaciones correspondientes a ciudadanos o instituciones del sector privado, social o académico para que participen en el desarrollo de los trabajos que realizan las distintas Comisiones.
+El Observatorio Ciudadano, conforme a su reglamento, podrá constituir las Delegaciones Municipales que se estimen necesarias para el cumplimiento de sus objetivos y para su conformación, la presidencia, a propuesta del Pleno, podrá formular las invitaciones correspondientes a ciudadanas y ciudadanos o instituciones del sector privado, social o académico para que participen en el desarrollo de los trabajos que realizan las distintas Comisiones.
 
-Los integrantes del Observatorio Ciudadano, deberán conducirse en el desempeño de sus atribuciones con objetividad, imparcialidad, honestidad, responsabilidad y manejar en forma confidencial aquella documentación o información que por razón de su naturaleza y contenido pueda producir algún daño, peligro o afectación a personas o instituciones.
+Las y los integrantes del Observatorio Ciudadano, deberán conducirse en el desempeño de sus atribuciones con objetividad, imparcialidad, honestidad, responsabilidad y manejar en forma confidencial aquella documentación o información que por razón de su naturaleza y contenido pueda producir algún daño, peligro o afectación a personas o instituciones.
 
-Los integrantes del Observatorio Ciudadano deberán excusarse de conocer o intervenir en todo asunto en el que tengan conflicto de intereses.
+Las y los integrantes del Observatorio Ciudadano deberán excusarse de conocer o intervenir en todo asunto en el que tengan conflicto de intereses.
 
 De igual forma se abstendrán de utilizar al Observatorio Ciudadano como medio de presión política o para conseguir beneficios económicos para sí o para terceros.
 
@@ -1517,11 +1565,11 @@ VIII. Formular y aprobar su Reglamento Interno para el funcionamiento del Observ
 
 IX. Las demás que le atribuyan su Reglamento Interno.
 
-> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
+> <small>(REFORMADO, B.O. 10 DE MAYO DE 2026)</small>
 
 ###### Artículo 106.
 
-Las Entidades y Dependencias deberán proporcionar al Observatorio Ciudadano, la información que le facilite el cumplimiento de su objeto.
+Las Entidades y Dependencias estatales y municipales deberán proporcionar al Observatorio Ciudadano, la información que le facilite el cumplimiento de su objeto.
 
 > <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2019)</small>
 
@@ -1602,3 +1650,17 @@ Segundo.- El "Observatorio Ciudadano de Obra Pública y Servicios Relacionados c
 Dentro del mismo plazo antes señalado deberá expedir la convocatoria para la elección de los integrantes del "Observatorio Ciudadano de Obra Pública y Servicios Relacionados con las Mismas" referidos en la fracción VII del numeral 103 de ésta Ley.
 
 Tercero.- Una vez constituido el "Observatorio Ciudadano de Obra Pública y Servicios Relacionados con las Mismas", éste contará con un plazo de 60 días hábiles, para expedir su Reglamento Interno.
+
+B.O. 10 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3276 SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON LAS MISMAS DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- El "Observatorio Ciudadano de Obra Pública y Servicios Relacionados con las Mismas”, deberá quedar instalado en un plazo que no exceda de 120 días hábiles siguientes a partir de la publicación del presente Decreto.
+
+TERCERO.- El Congreso del Estado de Baja California Sur a través de las Comisiones Permanentes de Transparencia y Anticorrupción y de Infraestructura convocaran a las asociaciones e instituciones señaladas en las fracciones I a la VII del artículo 103, para que designen a sus representantes para la conformación del Observatorio.
+
+CUARTO.- A más tardar dentro de los 30 días siguientes a la publicación del presente decreto en el Boletín Oficial del Gobierno del Estado, el Congreso del Estado deberá de expedir la convocatoria para la elección de los integrantes del “Observatorio Ciudadano de Obra Pública y Servicios Relacionados con las Mismas” referidos en la fracción VIII del numeral 103 de esta Ley.
+
+QUINTO.- Una vez instalado el “Observatorio Ciudadano de Obra Pública y Servicios Relacionados con las Mismas”, éste contará con un plazo de 60 días hábiles, para expedir su Reglamento Interno.
