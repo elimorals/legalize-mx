@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-cultura-fisica-y-deporte-del-estado-de-baja-101889"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-31"
-last_updated: "2023-12-15"
+last_updated: "2026-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101889&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE MAYO DE 2026.
 
 Ley Publicada en el Boletín Oficial del Estado de Baja California Sur, el día jueves 31 de julio de 2014
 
@@ -1054,6 +1054,18 @@ El Instituto, contará con un registro público de asociaciones y sociedades dep
 ###### Artículo 53.
 
 Serán registradas por el Instituto como asociaciones deportivas, las personas morales, cualquiera que sea su estructura, denominación y naturaleza jurídica, que conforme a su objeto social promueva, practiquen o contribuyan al desarrollo del deporte sin fines preponderantemente económicos.
+
+> <small>(ADICIONADO, B.O. 10 DE MAYO DE 2026)</small>
+
+###### Artículo 53 Bis.
+
+Los equipos deportivos que participen en torneos, ligas o competencias organizadas por autoridades Estatales y/o municipales deberán acreditar que al menos dos de sus integrantes, ya sean deportistas o miembros del cuerpo técnico cuenten con capacitación en materia de primeros auxilios básicos, en calidad de primeros respondientes.
+
+La capacitación será impartida, certificada o avalada por la unidad de Protección Civil correspondiente, la Cruz Roja Mexicana o cualquier otra institución debidamente autorizada por las autoridades municipales.
+
+La Dirección Municipal del Deporte, en coordinación con Protección Civil, será responsable de verificar el cumplimiento de esta disposición como requisito previo al registro de equipos en ligas o torneos oficiales.
+
+El incumplimiento de esta disposición será causa suficiente para negar la participación del equipo en la competencia correspondiente.
 
 ###### Artículo 54.
 
@@ -2196,3 +2208,11 @@ Quienes resulten nombrados titulares de Unidades de Atención y Promoción del D
 ###### ARTÍCULO SEXTO.
 
 Las erogaciones que pudieran presentarse con motivo de la entrada en vigor del presente Decreto se realizarán con cargo a los presupuestos aprobados a los ejecutores de gasto correspondientes, para el ejercicio fiscal que corresponda.
+
+B.O. 10 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3275 SE ADICIONA EL ARTÍCULO 53 BIS A LA LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Las Direcciones Municipales del Deporte y las Unidades de Protección Civil Municipales contarán con 90 días naturales para establecer los lineamientos de operación para la implementación de esta disposición.
