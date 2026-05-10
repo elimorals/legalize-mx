@@ -4,7 +4,7 @@ identifier: "DUR-ley-general-de-catastro-para-el-estado-de-durango-16744"
 country: "mx"
 rank: "ley_general"
 publication_date: "2000-06-18"
-last_updated: "2019-05-16"
+last_updated: "2026-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16744&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY GENERAL DE CATASTRO PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2019.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 18 de junio de 2000.
 
@@ -119,7 +119,9 @@ III. Registros Gráficos.- El conjunto de mapas, planos y fotografías sobre los
 
 IV. Archivo Documental.- El conjunto de documentos sobre los antecedentes de propiedad o posesión de los bienes inmuebles en el Estado;
 
-V. Centro de Población. Las áreas constituidas por las zonas urbanizadas, las que se reserven para su expansión y las que se consideren no urbanizables por prevención de riesgos, las de preservación ecológicas y las que se provean para la fundación de dichos centros, conforme al Código de Desarrollo Urbano;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2026)</small>
+
+V. Centro de Población. Las áreas constituidas por las zonas urbanizadas, las que se reserven para su expansión y las que se consideren no urbanizables por prevención de riesgos, las de preservación ecológicas y las que se provean para la fundación de dichos centros, conforme a la Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Durango;
 
 VI. Zonificación Catastral.- La demarcación del territorio del Estado en zonas, sectores o colonias, de acuerdo a las características señaladas en esta Ley;
 
@@ -379,9 +381,11 @@ I. La dependencia del catastro municipal elaborará, dentro del ámbito de compe
 
 II. Una vez revisadas y aprobadas por el ayuntamiento, serán remitidas al Congreso del Estado, para que resuelva sobre su aprobación. Los valores unitarios y la zonificación catastral aprobados anualmente, surtirán efectos a partir de su publicación en el periódico oficial del Gobierno del Estado.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 16.
 
-Para la elaboración de las propuestas de los valores unitarios de suelo, se deberá tomar en cuenta su valor de mercado, la ubicación de las diversas zonas, sectores y Zonas Económicas Catastrales, reservas territoriales y de preservación ecológica de los centros de población, así como las áreas rústicas a las que se refiere el Código de Desarrollo Urbano del Estado y los programas de desarrollo urbano municipal, de centros de población y demás programas de desarrollo urbano aplicable.
+Para la elaboración de las propuestas de los valores unitarios de suelo, se tomará en cuenta la clasificación del suelo, el valor de mercado, la ubicación de las diversas zonas, sectores y Zonas Económicas Catastrales, reservas territoriales y de preservación ecológica de los centros de población; así como los programas de desarrollo urbano municipal y demás programas de desarrollo urbano aplicables.
 
 ### CAPÍTULO IV. DE LAS OPERACIONES CATASTRALES
 
@@ -702,3 +706,15 @@ PRIMERO. -El presente decreto entrara en vigor el día siguiente de su publicaci
 SEGUNDO.- Los Ayuntamientos deberán elaborar las reformas derivadas del presente Decreto, a sus respectivos Reglamentos de Catastro, en un plazo que no excederá de noventa días contados a partir del inicio de su vigencia.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 10 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 396 QUE CONTIENE REFORMAS A LA LEY GENERAL DE CATASTRO PARA EL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
