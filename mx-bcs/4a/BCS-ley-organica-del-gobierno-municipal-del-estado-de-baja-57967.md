@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-del-gobierno-municipal-del-estado-de-baja-57967"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-10-10"
-last_updated: "2025-11-20"
+last_updated: "2026-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57967&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY ORGÁNICA DEL GOBIERNO MUNICIPAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE NOVIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE MAYO DE 2026.
 
 Ley publicada en el Extraordinario Número 45-Bis al Boletín Oficial del Estado de Baja California Sur, el miércoles 10 de octubre de 2007.
 
@@ -634,6 +634,10 @@ b) Presentar al Congreso del Estado para su aprobación en su caso, durante los 
 Dichas Leyes de Ingresos deberán incluir, en los diferentes conceptos de ingresos a recaudar, los montos probables o aproximados de cada uno de ellos que permita la operación de los servicios públicos.
 
 c) Elaborar anualmente su presupuesto de Egresos. Al aprobar su presupuesto de egresos, deberán señalar la remuneración de todo tipo que corresponda a un empleo, cargo o comisión de cualquier naturaleza. Las remuneraciones de todo tipo del Presidente Municipal, Síndicos, Regidores y servidores públicos en general, incluyendo mandos medios y superiores de la administración municipal, serán determinadas anualmente en el presupuesto de egresos correspondiente y se sujetarán a los lineamientos legales establecidos para todos los servidores públicos municipales.
+
+> <small>(ADICIONADO, B.O. 10 DE MAYO DE 2026)</small>
+
+En lo relativo a los montos, desglose y asignación de los recursos a servicios personales, los Ayuntamientos realizarán estas proyecciones con estricto apego a lo dispuesto en el artículo 10 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.
 
 d) Proponer al Congreso del Estado en términos de Ley, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria. Asimismo, aprobar el pronóstico de ingresos remitiendo al Congreso del Estado copia certificada de los mismos;
 
@@ -2680,3 +2684,9 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publi
 SEGUNDO.- Los Ayuntamientos del Estado contarán con un plazo de 90 días naturales, a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones necesarias en sus reglamentos internos.
 
 TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+B.O. 10 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 3274 SE ADICIONA UN SEGUNDO Y UN TERCER PÁRRAFO AL ARTÍCULO 59 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS Y UN SEGUNDO PÁRRAFO AL INCISO C) DE LA FRACCIÓN IV DEL ARTÍCULO 51 DE LA LEY ORGÁNICA DEL GOBIERNO MUNICIPAL, AMBAS DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
