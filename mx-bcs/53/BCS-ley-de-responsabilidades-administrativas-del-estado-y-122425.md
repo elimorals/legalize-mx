@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-responsabilidades-administrativas-del-estado-y-122425"
 country: "mx"
 rank: "ley"
 publication_date: "2017-06-27"
-last_updated: "2026-02-13"
+last_updated: "2026-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122425&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCS"
 
 LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 13 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE MAYO DE 2026.
 
 Ley publicada en el Extraordinario No. 23 del Boletín Oficial del Estado de Baja California Sur, el martes 27 de junio de 2017.
 
@@ -580,6 +580,14 @@ Será obligación del jefe inmediato determinar y comunicarle al servidor públi
 ###### Artículo 59.
 
 Será responsable de contratación indebida el servidor público que autorice cualquier tipo de contratación, así como la selección, nombramiento o designación, de quien se encuentre impedido por disposición legal o inhabilitado por resolución de autoridad competente para ocupar un empleo, cargo o comisión en el servicio público o inhabilitado para realizar contrataciones con los entes públicos, siempre que en el caso de las inhabilitaciones, al momento de la autorización, éstas se encuentren inscritas en el Sistema Estatal de servidores públicos y particulares sancionados de la Plataforma Digital Estatal.
+
+> <small>(ADICIONADO, B.O. 10 DE MAYO DE 2026)</small>
+
+También se considera contratación indebida y por ello el servidor público será responsable de esa conducta, cuando autorice la contratación de personal sin la suficiencia presupuestaria debida y ello ocasione un perjuicio y quebranto económico a la institución en la que sirva. Para efectos de este artículo, se considera suficiencia presupuestal la proyectada, establecida y ejercida con estricto apego a lo dispuesto en el artículo 10 de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y 38 de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Baja California Sur.
+
+> <small>(ADICIONADO, B.O. 10 DE MAYO DE 2026)</small>
+
+Se exceptuará de esta responsabilidad a quienes contraten personal que requiera atender una necesidad de servicio, derivada de la afectación a la población como consecuencia de fenómenos naturales, emergencias sanitarias y de salud, así como todas aquellas en las que el personal a contratar requiera solventar el crecimiento en la prestación del servicio de instituciones tales como las destinadas a la educación, la salud y la seguridad.
 
 ###### Artículo 60.
 
@@ -1958,3 +1966,9 @@ B.O. 13 DE FEBRERO DE 2026.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+B.O. 10 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 3274 SE ADICIONA UN SEGUNDO Y UN TERCER PÁRRAFO AL ARTÍCULO 59 DE LA LEY DE RESPONSABILIDADES ADMINISTRATIVAS DEL ESTADO Y MUNICIPIOS Y UN SEGUNDO PÁRRAFO AL INCISO C) DE LA FRACCIÓN IV DEL ARTÍCULO 51 DE LA LEY ORGÁNICA DEL GOBIERNO MUNICIPAL, AMBAS DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
