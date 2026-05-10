@@ -4,7 +4,7 @@ identifier: "DUR-ley-organica-del-poder-judicial-del-estado-de-durango-181249"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2025-08-14"
-last_updated: "2025-08-21"
+last_updated: "2026-05-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181249&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "DUR"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 21 DE AGOSTO DE 2025.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE MAYO DE 2026.
 
 Ley publicada en el Número 65 Bis del Periódico Oficial del Estado de Durango, el jueves 14 de agosto de 2025.
 
@@ -153,11 +151,11 @@ En caso que no exista persona alguna con quien aplicar el orden de prelación es
 
 Las renuncias de las Magistradas y Magistrados, las Juezas y Jueces, solamente procederán por causas graves y serán aprobadas por mayoría de los miembros presentes del Congreso o, en sus recesos, por la Comisión Permanente.
 
-(NOTA: EL 23 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 97/2025 Y SU ACUMULADA 102/2025, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE ABRIL DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 8.
 
-Las Magistradas y los Magistrados del Tribunal Superior de Justicia y del Tribunal de Justicia para Adolescentes, durarán en el ejercicio de su encargo NUEVE AÑOS, podrán ser reelectos y, si lo fueren, sólo podrán ser privados de sus puestos en los términos que determinen la Constitución Federal, la Constitución Local y la legislación aplicable en materia de Responsabilidades. Las Magistradas y los Magistrados del Tribunal de Disciplina durarán en su encargo nueve años, pero no podrán ser reelectos.
+Las Magistradas y los Magistrados del Tribunal Superior de Justicia y del Tribunal de Justicia Penal para Adolescentes, durarán en el ejercicio de su encargo nueve años, podrán ser reelectos y, si lo fueren, sólo podrán ser privados de sus puestos en los términos que determinen la Constitución Federal, la Constitución Local y la legislación aplicable en materia de Responsabilidades. Las Magistradas y los Magistrados del Tribunal de Disciplina durarán en su encargo seis años, y no podrán ser reelectos.
 
 ###### ARTÍCULO 9.
 
@@ -211,9 +209,15 @@ X. Proponer a los servidores públicos de su adscripción como candidatos a reci
 
 XI. Informar al Tribunal de Disciplina Judicial o al Órgano de Administración según corresponda, de las faltas, omisiones o irregularidades que adviertan en los procedimientos sometidos a su conocimiento, en que hayan incurrido el personal jurisdiccional o administrativo del Poder Judicial del Estado, con el fin de que, en su caso, se inicie el procedimiento respectivo;
 
-XII. Garantizar el acceso a la justicia para personas pertenecientes a grupos vulnerables, ya sea emitiendo sus resoluciones en formato de lectura fácil o realizando ajustes razonables al procedimiento para su mejor comprensión y tutela eficaz de sus derechos, y;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2026)</small>
 
-XIII. Las demás que expresamente les confiere esta Ley y otras disposiciones aplicables.
+XII. Garantizar el acceso a la justicia para personas pertenecientes a grupos vulnerables, ya sea emitiendo sus resoluciones en formato de lectura fácil o realizando ajustes razonables al procedimiento para su mejor comprensión y tutela eficaz de sus derechos;
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2026)</small>
+
+XIII. Requerir a las personas titulares de los juzgados en los casos donde se determine la reposición del procedimiento, que informen sobre el cumplimiento de los actos jurisdiccionales ordenados, con el objeto de preservar el principio de plazo razonable, y;
+
+XIV. Las demás que expresamente les confiere esta Ley y otras disposiciones aplicables.
 
 ### CAPÍTULO II. DEL PLENO
 
@@ -223,11 +227,13 @@ XIII. Las demás que expresamente les confiere esta Ley y otras disposiciones ap
 
 El Pleno del Tribunal Superior de Justicia se integrará con la totalidad de las Magistradas y los Magistrados, pero bastará la presencia de más de la mitad de sus miembros para que pueda sesionar válidamente, entre los que deberá estar la persona que ocupe la presidencia o quien lo sustituya legalmente. Cuando se trate de sesiones solemnes o extraordinarias, se requerirá la presencia de al menos el ochenta por ciento de las Magistradas y los Magistrados.
 
-(NOTA: EL 23 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 97/2025 Y SU ACUMULADA 102/2025, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE ABRIL DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2026)</small>
 
-Las sesiones tendrán carácter de ordinarias o extraordinarias, serán privadas Y EXCEPCIONALMENTE PODRÁN SER públicas y, en su caso, solemnes, según lo disponga la Constitución Local, esta ley o el Pleno del Tribunal Superior de Justicia mediante el acuerdo correspondiente. La convocatoria respectiva dará a conocer el carácter de la sesión, según sea el caso.
+Las sesiones tendrán carácter de ordinarias o extraordinarias, serán públicas y excepcionalmente podrán ser privadas, en su caso. solemnes, según lo disponga la Constitución Local, esta Ley o el Pleno del Tribunal Superior de Justicia mediante el acuerdo correspondiente. La convocatoria respectiva dará a conocer el carácter de la sesión, según sea el caso.
 
-Las sesiones ordinarias se celebrarán una vez por semana, el día que determine el Pleno del Tribunal Superior de Justicia; y las extraordinarias cuando sea necesario, a juicio de la presidencia o de quien le sustituya en el cargo, así como a solicitud de cuando menos una tercera parte de las Magistradas y los Magistrados.
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2026)</small>
+
+Las sesiones ordinarias se celebrarán una vez cada quince días. y las extraordinarias cuando sea necesario, a juicio de la presidencia o de quien le sustituya en el cargo, así como a solicitud de cuando menos una tercera parte de las Magistradas y los Magistrados.
 
 Para la integración del orden del día de las sesiones, las Magistradas y los Magistrados remitirán a la presidencia, con anticipación de cuarenta y ocho horas, salvo caso urgente que se requiera para el buen funcionamiento del Tribunal Superior de Justicia, el o los asuntos que consideren deban incluirse.
 
@@ -287,7 +293,7 @@ XIV. Exigir a la Presidenta o al Presidente del Tribunal Superior de Justicia el
 
 XV. Conocer del recurso de reclamación que se interponga en contra de los acuerdos del Presidente del Tribunal Superior de Justicia y resolver las impugnaciones a que se refiere el segundo párrafo del artículo 20 de esta ley;
 
-XVI. Solicitar al Tribunal de Disciplina Judicial, la imposición de amonestaciones o multas a las y los abogados, procuradores o litigantes, cuando cometan faltas en contra del adecuado desempeño de la impartición de justicia;
+XVI. (DEROGADA, P.O. 10 DE MAYO DE 2026)
 
 XVII. Dirigir las labores de compilación y sistematización de leyes, precedentes y tesis de jurisprudencia;
 
@@ -295,7 +301,9 @@ XVIII. Realizar los cambios en las Salas por razón de materia que sean necesari
 
 XIX. Atender las excitativas de justicia a petición fundada de parte;
 
-XX. Hacer del conocimiento del Tribunal de Disciplina Judicial los hechos que puedan ser constitutivos de delito y que sean atribuidos a los servidores públicos dedicados a labores jurisdiccionales o administrativas;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2026)</small>
+
+XX. Hacer del conocimiento a la autoridad competente, los hechos que puedan ser constitutivos de delito y que sean atribuidos a servidores públicos del Poder Judicial del Estado;
 
 XXI. Atender en su caso, en coordinación con el Órgano de Administración del Poder Judicial, las observaciones y recomendaciones que le formule la Auditoría Superior del Estado, respecto del ejercicio de su presupuesto, en los términos que establezca la ley;
 
@@ -397,9 +405,11 @@ XXXII. Comunicar al Órgano de Administración, previa verificación de la dispo
 
 XXXIII. Las demás que le confieran esta ley y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 20.
 
-En contra de los acuerdos del Presidente del Tribunal Superior de Justicia, podrá interponerse el recurso de reclamación ante el Pleno del Tribunal de Disciplina Judicial, siempre que se haga por escrito, se funde en derecho y se interponga por la parte interesada, dentro del término de cinco días hábiles contados a partir del siguiente al de la notificación o al que haya tenido conocimiento.
+En contra de los acuerdos del Presidente del Tribunal Superior de Justicia, podrá interponerse el recurso de reclamación ante el Pleno del Tribunal Superior de Justicia, siempre que se haga por escrito, se funde en derecho y se interponga por la parte interesada, dentro del término de cinco días hábiles contados a partir del día siguiente al de la notificación o al que haya tenido conocimiento.
 
 El Pleno del Tribunal Superior de Justicia, resolverá la reclamación en un término de quince días hábiles.
 
@@ -623,7 +633,9 @@ Las Juezas y los Jueces serán electos de manera libre, directa y secreta por la
 
 Las Juezas y los Jueces serán adscritos por el Órgano de Administración del Poder Judicial, con base en criterios objetivos y de acuerdo a los requisitos y procedimientos que establezca esta ley. Durarán nueve años en el ejercicio de su encargo, al término de los cuales, podrán ser reelectos y, si lo fueren, sólo podrán ser privados de sus puestos en los términos que determinen la Constitución Federal, la Constitución Local y la legislación aplicable en materia de responsabilidades.
 
-Independientemente de la región por la que hayan sido electos las Juezas y los Jueces, podrán ser readscritos por el Órgano de Administración del Poder Judicial, con base en criterios objetivos, y atendiendo a los requisitos y procedimientos que establezca el propio órgano mediante acuerdos generales. Las decisiones del Órgano de Administración del Poder Judicial, en materia de readscripción de Juezas y los Jueces, solo podrán ser impugnadas por los interesados ante el Tribunal de Disciplina Judicial y este resolverá legalmente con mayoría de tres votos.
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2026)</small>
+
+Independientemente de la región por la que hayan sido electos las Juezas y los Jueces, podrán ser readscritos por el órgano de Administración del Poder Judicial, con base en criterios objetivos, y atendiendo a los requisitos y procedimientos que establezca el propio órgano mediante acuerdos generales. Las decisiones del órgano de Administración del Poder Judicial, en materia de readscripción de Juezas y los Jueces, podrán ser impugnadas por los interesados en primera instancia ante dicho Órgano de Administración y en segunda instancia ante el Tribunal de Disciplina Judicial, en ambas instancias se resolverá legalmente con mayoría de tres votos y conforme a los acuerdos generales que se emitan para su tramitación.
 
 Los jueces municipales serán designados por el Órgano de Administración del Poder Judicial, en los términos que señalan la Constitución Política del Estado Libre y Soberano de Durango y la presente ley.
 
@@ -693,7 +705,9 @@ XVIII. Las demás que las leyes le señalen o le sean delegadas por los órganos
 
 En materia penal, en aplicación del sistema acusatorio y oral, las Magistradas y los Magistrados, las Juezas y los Jueces podrán actuar sin asistencia de secretarios o testigos de asistencia, y en ese caso, ellos tendrán fe pública para certificar el contenido de los actos que realicen y de las resoluciones que dicten, incluso cuando tales actos consten en registros informáticos, de audio, video o se transcriban por escrito.
 
-Los jueces cuando lo estimen necesario, en el ejercicio de sus funciones, requerirán el auxilio de la fuerza pública, motivando la necesidad de la medida para los efectos del último párrafo del artículo 2 de esta ley; y si no lo obtuvieren o no fuere suficiente, lo solicitarán en términos del artículo 98 fracción XXIX de la Constitución Política del Estado Libre y Soberano de Durango, por conducto del Órgano de Administración Judicial.
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2026)</small>
+
+Los jueces, cuando lo estimen necesario en el ejercicio de sus funciones, requerirán el auxilio de la fuerza pública, motivando la necesidad de la medida para los efectos del último párrafo del artículo 2 de esta ley; y si no lo obtuvieren o no fuere suficiente, lo solicitarán en términos del artículo 98, fracción XXIX, de la Constitución Política del Estado Libre y Soberano de Durango, por conducto del Órgano de Administración del Poder Judicial
 
 ### CAPÍTULO II. DE LOS JUZGADOS
 
@@ -767,11 +781,11 @@ V. Las que les confieran las leyes aplicables.
 
 #### SECCIÓN TERCERA. DE LOS JUECES DE CONTROL, DE LOS TRIBUNALES DE ENJUICIAMIENTO Y DE LOS JUZGADOS DE EJECUCIÓN DE SENTENCIA
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 51.
 
-La jurisdicción de primera instancia en materia penal estará a cargo de los Jueces de Control y los Tribunales de Enjuiciamiento, en los términos de la legislación procesal de la materia.
-
-Los Tribunales de Enjuiciamiento se integrarán por uno o tres jueces, según acuerdo del Órgano de Administración del Poder Judicial. El número de Jueces de Control lo determinará el Órgano de Administración.
+La jurisdicción de primera instancia en materia penal estará a cargo de los Jueces de Control, Tribunales de Enjuiciamiento y Jueces de Ejecución, en los términos de la legislación procesal de la materia.
 
 ###### ARTÍCULO 52.
 
@@ -921,9 +935,11 @@ IV. Las demás que le confiera la ley de la materia.
 
 El personal del Tribunal Laboral Burocrático se integrará, además, con el número de secretarios, actuarios, oficiales judiciales y especialistas conciliadores adscritos al Centro Estatal de Justicia Alternativa que determine el Órgano de Administración de conformidad a la disponibilidad presupuestal.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 65.
 
-Son obligaciones y facultades de los Jueces del Tribunal Laboral Burocrático las establecidas en el artículo 41 de la presente Ley, a excepción del ejercicio de la función notarial.
+Son obligaciones y facultades de los Jueces del Tribunal Laboral Burocrático las establecidas en el artículo 46 de la presente Ley. a excepción del ejercicio de la función notarial.
 
 #### SECCIÓN OCTAVA. DEL TRIBUNAL DE JUSTICIA LABORAL
 
@@ -1127,7 +1143,9 @@ II. Expedir las normas interiores en materia administrativa, de ingreso y de esc
 
 III. Remitir de inmediato al Órgano de Administración, al Tribunal Superior de Justicia, al Congreso del Estado, según corresponda, la renuncia, de quien presida el Tribunal de Justicia Penal para Adolescentes, así como las que presenten los jueces, secretarios y demás personal jurídico y administrativo del mismo;
 
-IV. Decretar, cuando proceda, la suspensión, remoción o cese del Secretario General, así como del resto del personal jurídico y administrativo del Tribunal de Justicia Penal para Adolescentes, dando aviso, según corresponda, al Tribunal de Disciplina Judicial y al Órgano de Administración Judicial;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2026)</small>
+
+IV. Decretar, cuando proceda, la suspensión, remoción o cese del Secretario General, así como del resto del personal jurídico y administrativo del Tribunal de Justicia Penal para Adolescentes. dando aviso, según corresponda, al Tribunal de Disciplina Judicial y al órgano de Administración del Poder Judicial;
 
 V. Aprobar el anteproyecto de presupuesto de egresos del Tribunal de Justicia Penal para Adolescentes para proponerlo al Órgano de Administración, para su inclusión en el del Poder Judicial del Estado; conforme a lo establecido en la legislación aplicable. El anteproyecto propuesto deberá contribuir a un balance presupuestario sostenible;
 
@@ -1191,23 +1209,29 @@ También tendrá a su cargo las funciones inherentes a la materia de transparenc
 
 #### SECCIÓN PRIMERA. INTEGRACIÓN Y FUNCIONAMIENTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 95.
 
-El Tribunal de Disciplina es un órgano del Poder Judicial, con independencia técnica, de gestión y para emitir sus resoluciones, que tiene por objeto la investigación, substanciación y resolución de los procedimientos de responsabilidades administrativas de las y los servidores públicos que desempeñan funciones jurisdiccionales en el Poder Judicial, así como la resolución de los recursos de revisión en los procedimientos administrativos del personal administrativo, tratándose de faltas graves.
+El Tribunal de Disciplina es un órgano del Poder Judicial, con independencia técnica, de gestión y para emitir sus resoluciones, que tiene por objeto la investigación, substanciación y resolución de los procedimientos de responsabilidades administrativas de las y los servidores públicos que desempeñan funciones jurisdiccionales en el Poder Judicial, así como la resolución de los recursos de revisión en los procedimientos administrativos del personal administrativo, tratándose de faltas graves, o en materia de readscripción de Juezas y los Jueces.
 
-De igual forma, el Tribunal de Disciplina Judicial es el órgano del Poder Judicial, encargado de la evaluación y seguimiento del desempeño de las Magistradas y los Magistrados del Tribunal Superior de Justicia, las Juezas y los Jueces del Poder Judicial.
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2026)</small>
+
+De igual forma. el Tribunal de Disciplina Judicial es el órgano del Poder Judicial, encargado de la evaluación y seguimiento del desempeño de las Magistradas y los Magistrados del Tribunal Superior de Justicia. del Tribunal de Justicia Penal para Adolescentes y las Juezas y los Jueces del Poder Judicial.
+
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2026)</small>
+
+Así como, de las personas servidoras públicas que ejercen funciones jurisdiccionales o cuyas funciones incidan directamente en la misma.
 
 El Tribunal de Disciplina se integra por cinco Magistradas y Magistrados electos en términos del artículo 108 de la Constitución Local y funciona en Pleno y en Comisiones, además contará con las unidades y órganos que resulten necesarios para el desempeño de sus atribuciones.
 
-(NOTA: EL 23 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 97/2025 Y SU ACUMULADA 102/2025, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PRIMER PÁRRAFO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE ABRIL DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 96.
 
-La Presidencia del Tribunal de Disciplina Judicial durará TRES AÑOS, la ocupará la candidatura que haya obtenido el mayor número de votos en la elección que corresponda y se renovará de manera rotatoria en los términos señalados en la Constitución Local.
+La Presidencia del Tribunal de Disciplina Judicial durará dos años, la ocupará la candidatura que haya obtenido el mayor número de votos en la elección que corresponda y se renovará de manera rotatoria en los términos señalados en la Constitución Local.
 
-(NOTA: EL 23 DE MARZO DE 2026, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 97/2025 Y SU ACUMULADA 102/2025, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL SEGUNDO PÁRRAFO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 13 DE ABRIL DE 2026, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
-
-Las Magistradas y los Magistrados que integren el Tribunal de Disciplina Judicial durarán en su encargo NUEVE AÑOS y no podrán ser reelectos para un nuevo periodo. Ejercerán su función con independencia e imparcialidad. Durante su encargo solo podrán ser removidos en los términos del Título Séptimo de la Constitución Local.
+Las Magistradas y los Magistrados que integren el Tribunal de Disciplina Judicial durarán en su encargo seis años y no podrán ser reelectos para un nuevo periodo. Ejercerán su función con independencia e imparcialidad. Durante su encargo solo podrán ser removidos en los términos del Titulo Séptimo de la Constitución Local.
 
 ###### ARTÍCULO 97.
 
@@ -1401,9 +1425,11 @@ La Unidad de Evaluación del Desempeño Judicial contará con el personal operat
 
 Los procesos de evaluación del desempeño se consideran una garantía del derecho al acceso a la justicia, así como de los derechos a la información y la participación pública, por lo que sus resultados serán públicos, accesibles y transparentes. El Tribunal de Disciplina Judicial dictará los acuerdos que posibiliten la publicidad y acceso de la sociedad a las evaluaciones que se realicen a la labor judicial.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 124.
 
-Los procesos de evaluación del desempeño deberán evaluar al menos, los siguientes criterios e indicadores:
+En los procesos de evaluación del desempeño de las Magistradas y los Magistrados del Tribunal Superior de Justicia, Magistratura del Tribunal de Justicia Penal para Adolescentes, las Juezas y los Jueces del Poder Judicial, se deberán evaluar al menos, los siguientes criterios e indicadores:
 
 I. Conocimientos y competencias de las personas titulares del órgano jurisdiccional, incluyendo aquellas de carácter técnico, ético y profesional;
 
@@ -1417,13 +1443,19 @@ V. Capacitación y desarrollo de la persona servidora pública; y
 
 VI. La satisfacción o queja justificada de las personas usuarias del sistema de justicia.
 
+> <small>(ADICIONADO, P.O. 10 DE MAYO DE 2026)</small>
+
+ARTÍCULO 124 BIS. Los procesos de evaluación del desempeño de las personas servidoras públicas, a que se refiere el párrafo tercero del artículo 95, de esta Ley, se llevarán a cabo conforme a los Acuerdos Generales que al efecto emita el Pleno del Tribunal de Disciplina Judicial.
+
 ###### ARTÍCULO 125.
 
 La Unidad de Evaluación del Desempeño Judicial podrá aplicar los métodos de evaluación que estime pertinentes para la examinación integral, exhaustiva, imparcial y objetiva del desempeño judicial, incluyendo visitas presenciales o digitales, auditorías, evaluación por objetivos, análisis de indicadores clave de rendimiento, evaluación por pares, encuestas de satisfacción a las personas usuarias del sistema de justicia, requerimientos de información, análisis de datos; entre otros, siempre que estén previstos en los acuerdos generales que dicte el Pleno del Tribunal de Disciplina Judicial para tal efecto.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 126.
 
-Los procesos de evaluación del desempeño serán las evaluaciones ordinarias, extraordinarias y de seguimiento.
+Los procesos de evaluación del desempeño de las Magistradas y los Magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia para Adolescentes y de las Juezas y los Jueces del Poder Judicial, podrán ser de carácter ordinario, extraordinario y de seguimiento.
 
 ###### ARTÍCULO 127.
 
@@ -1843,7 +1875,9 @@ Si el Tribunal de Disciplina estima que la queja fue interpuesta sin motivo, se 
 
 ## TÍTULO SEXTO. DE LOS ÓRGANOS ADMINISTRATIVOS DEL PODER JUDICIAL DEL ESTADO
 
-### CAPÍTULO I. DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MAYO DE 2026)</small>
+
+### CAPITULO I. DEL ÓRGANO DE ADMINISTRACIÓN DEL PODER JUDICIAL
 
 #### SECCIÓN PRIMERA. DE SU INTEGRACIÓN Y FUNCIONAMIENTO
 
@@ -1851,9 +1885,11 @@ Si el Tribunal de Disciplina estima que la queja fue interpuesta sin motivo, se 
 
 El Órgano de Administración contará con independencia técnica y de gestión, y será responsable de la administración y carrera judicial del Poder Judicial. Tendrá a su cargo la determinación del número, división en distritos judiciales, competencia territorial y especialización por materias de los juzgados; el ingreso, permanencia y separación del personal de carrera judicial y administrativo, así como su formación, promoción y evaluación de desempeño; la inspección del cumplimiento de las normas de funcionamiento administrativo del Poder Judicial; y las demás que establezcan las leyes.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 164.
 
-El Pleno se conforma por las cinco personas integrantes del Órgano de Administración, pero bastará la presencia de cuatro de ellas para sesionar. La Presidencia del Órgano será electa por la mayoría de sus integrantes por un periodo de dos años y quien la ocupe no podrá ostentarla de nueva cuenta.
+El Pleno se conforma por las cinco personas integrantes del Órgano de Administración, a quienes se les denominará Comisionada y Comisionado, bastará la presencia de cuatro de ellas para sesionar. La Presidencia del Órgano será electa por la mayoría de sus integrantes por un periodo de dos años y quien la ocupe no podrá ostentarla de nueva cuenta.
 
 ###### ARTÍCULO 165.
 
@@ -1877,9 +1913,11 @@ Cuando el Pleno del Órgano de Administración estime que sus reglamentos, acuer
 
 El Órgano de Administración, ya sea en Pleno o en Comisiones, podrá celebrar sesiones presenciales o virtuales mediante el uso de las tecnologías.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 169.
 
-Los acuerdos del Pleno del Órgano de Administración se aprobarán por unanimidad o por mayoría de votos de sus integrantes presentes y por mayoría calificada de cuatro votos, cuando se trate de los casos previstos en las fracciones I, II, XXIII, XXXII, XXXIV, XXXV, XXXIX, XL, XLI, XLII, XLIII, XLVI, XLIX, LVII, LVII (SIC), LIX, LX, LXIV y LXVII, del artículo 170 de esta ley. Sus integrantes no podrán abstenerse de votar sino cuando tengan impedimento legal calificado por el Pleno del Órgano de Administración o cuando no hayan asistido a la discusión del asunto de que se trate. En caso de empate, quien presida tendrá voto de calidad.
+Los acuerdos del Pleno del órgano de Administración del Poder Judicial, se aprobarán por unanimidad o por mayoría de votos de sus integrantes presentes y por mayoría calificada de cuatro votos, cuando se trate de los casos previstos en las fracciones I, II, XXIII . XXXII. XXXIV. XXXV, XXXIX, XL, XLI, XLII, XLIII, XLVI, XLIX, LVII, LVII (sic), LIX y LX, del artículo 170 de esta Ley. Sus integrantes no podrán abstenerse de votar sino cuando tengan impedimento legal calificado por el Pleno del Órgano de Administración o cuando no hayan asistido a la discusión del asunto de que se trate. En caso de empate, quien presida tendrá voto de calidad.
 
 El Pleno del Órgano de Administración calificará los impedimentos de sus integrantes que hubieran sido planteados en asuntos de su competencia; cuando la calificación de los impedimentos recaiga en la persona titular de la Presidencia o quien lo sustituya, presidirá la sesión el integrante del Órgano que designe el propio Pleno.
 
@@ -1887,9 +1925,11 @@ Si algún integrante disintiere de la mayoría, podrá formular voto particular,
 
 #### SECCIÓN SEGUNDA. DE LAS ATRIBUCIONES DEL ÓRGANO DE ADMINISTRACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 170.
 
-Son facultades y obligaciones del Órgano de Administración:
+Son facultades y obligaciones del órgano de Administración del Poder Judicial:
 
 I. Establecer mediante acuerdo general las Comisiones y áreas administrativas que estime convenientes para su adecuado funcionamiento, y designar a las y los miembros que deban integrarlas;
 
@@ -1897,7 +1937,9 @@ II. Expedir los reglamentos interiores en materia administrativa, de carrera jud
 
 III. Intervenir y coordinar el funcionamiento entre los órganos del Poder Judicial;
 
-IV. Adscribir y readscribir a las Juezas y Jueces de Primera Instancia a los Juzgados correspondientes;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2026)</small>
+
+IV. A propuesta de la Junta de Coordinación, adscribir o readscribir a las Juezas y Jueces de Primera Instancia a los Juzgados correspondientes.
 
 V. Cambiar la residencia de los Juzgados de Primera Instancia;
 
@@ -1981,7 +2023,9 @@ XLIV. Disponer la creación y actualización de la Plataforma Nacional de Person
 
 XLV. Impulsar, fomentar y difundir el uso de los mecanismos alternativos de solución de controversias como un derecho humano que garantice el acceso efectivo a la justicia, la solución de conflictos y fomente una cultura de paz;
 
-XLVI. Convocar periódicamente a congresos, reuniones de trabajo o conversatorios, de Magistradas, Magistrados, Juezas, Jueces, asociaciones profesionales representativas e instituciones de educación superior, a fin de evaluar el buen funcionamiento de los órganos del Poder Judicial y proponer las medidas pertinentes para mejorarlos;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2026)</small>
+
+XLVI. Convocar a congresos, reuniones de trabajo o conversatorios, de Magistradas, Magistrados, Juezas, Jueces, asociaciones profesionales representativas e instituciones de educación superior; para lo cual podrá tomar en consideración la opinión de los Plenos del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial;
 
 XLVII. Autorizar a los jueces que soliciten ausentarse del Distrito Judicial al que se encuentren adscritos;
 
@@ -2011,9 +2055,17 @@ LIX. Elaborar a propuesta del Presidente, el Plan Trianual de Desarrollo Estrat�
 
 LX. Emitir acuerdos para que el Poder Judicial garantice el acceso a la justicia para las personas pertenecientes a grupos vulnerables;
 
-LXI. Designar al Comisionado integrante de la Comisión de Administración del Tribunal de Justicia Penal para Adolescentes; y
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2026)</small>
 
-LXII. Determinar la suspensión de labores, términos o plazos, que correspondan en su caso; a solicitud del Tribunal Superior de Justicia, o cuando por acuerdo del propio Órgano de Administración así corresponda.
+LXI. Designar al Comisionado integrante de la Comisión de Administración del Tribunal de Justicia Penal para Adolescentes;
+
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2026)</small>
+
+LXII. Determinar la suspensión de labores, términos o plazos, que correspondan en su caso; a solicitud del Tribunal Superior de Justicia, o cuando por acuerdo del propio Órgano de Administración así corresponda; y
+
+> <small>(ADICIONADA, P.O. 10 DE MAYO DE 2026)</small>
+
+LXIII. Resolver en primera instancia y con mayoría de tres votos, las controversias relacionadas con los procesos de readscripción de Juezas y Jueces. Para la elaboración del proyecto de resolución de la controversia se designará a un integrante de la Comisión de Control Interno y será resuelta por el pleno del Órgano de Administración.
 
 El Pleno del Órgano de Administración Judicial, podrá delegar mediante acuerdos generales, el ejercicio de las facultades contenidas en el presente artículo, en favor de las Comisiones que este libremente determine cuando el acto concreto no requiera una mayoría calificada para su aprobación.
 
@@ -2035,11 +2087,15 @@ El Pleno del Órgano de Administración deberá establecer mediante acuerdo gene
 
 El Órgano de Administración será responsable de la administración de la Carrera Judicial del Poder Judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia y paridad de género.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 175.
 
-El Órgano de Administración contará con una Junta de Coordinación que dependerá administrativamente de éste, pero fungirá como agencia permanente de coordinación y comunicación institucional entre el Órgano de Administración, el Tribunal Superior de Justicia y el Tribunal de Disciplina Judicial y el Tribunal de Justicia Penal para Adolescentes.
+El Órgano de Administración del Poder Judicial contará con una Junta de Coordinación que dependerá administrativamente de éste, pero fungirá como agencia permanente de coordinación y comunicación institucional entre el Órgano de Administración, el Tribunal Superior de Justicia, el Tribunal de Disciplina Judicial y el Tribunal de Justicia Penal para Adolescentes.
 
-La Junta de Coordinación estará encabezada por el Presidente del Órgano de Administración la persona titular del Secretariado Ejecutivo de dicho órgano, la persona titular de la Presidencia del Tribunal Superior Justicia y por la persona titular de la Presidencia del Tribunal de Disciplina Judicial y el Tribunal de Justicia Penal para Adolescentes.
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2026)</small>
+
+La Junta de Coordinación estará encabezada por la persona titular de la Presidencia del Órgano de Administración del Poder Judicial, y se integrará además por las personas titulares de las presidencias del Tribunal Superior Justicia, del Tribunal de Disciplina Judicial y del Tribunal de Justicia Penal para Adolescentes; además contará con una Secretaria Técnica, cuya persona titular será designada por la persona titular de la Presidencia del Órgano de Administración, y se encargará de levantar las actas correspondientes a las sesiones de la Junta de Coordinación, así como de dar cumplimiento y seguimiento a los acuerdos que de ella deriven.
 
 La Junta de Coordinación tendrá las atribuciones contenidas en esta Ley y las que determine el Órgano de Administración Judicial mediante acuerdo general.
 
@@ -2061,7 +2117,9 @@ En ningún caso los recursos de revisión podrán ser turnados para su substanci
 
 Las resoluciones que emita en segunda instancia el Pleno del Órgano de Administración serán definitivas e inatacables. Dichas resoluciones se tomarán por mayoría de cuatro votos; en caso de no alcanzarse tal votación deberán desestimarse las sanciones impuestas en primera instancia.
 
-#### SECCIÓN TERCERA. DE LA PRESIDENCIA DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MAYO DE 2026)</small>
+
+#### SECCIÓN TERCERA. DE LA PRESIDENCIA DEL ÓRGANO DE ADMINISTRACIÓN DEL PODER JUDICIAL
 
 ###### ARTÍCULO 178.
 
@@ -2101,7 +2159,9 @@ XVI. Proponer al Pleno del Órgano de Administración, la elaboración del Plan 
 
 XVII. Las demás que determinen las leyes y los correspondientes reglamentos interiores y acuerdos generales.
 
-#### SECCIÓN CUARTA. DEL SECRETARIADO EJECUTIVO DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MAYO DE 2026)</small>
+
+#### SECCIÓN CUARTA. DEL SECRETARIADO EJECUTIVO DEL ÓRGANO DE ADMINISTRACIÓN DEL PODER JUDICIAL
 
 ###### ARTÍCULO 179.
 
@@ -2163,7 +2223,9 @@ Las Comisiones creadas nombrarán su respectiva Presidencia, y determinarán el 
 
 En todos aquellos casos en los que no fuere posible la resolución de un asunto en Comisiones, su conocimiento y resolución pasará al Pleno del Órgano de Administración.
 
-### CAPÍTULO II. DE LAS ÁREAS AUXILIARES DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE MAYO DE 2026)</small>
+
+### CAPITULO II. DE LAS ÁREAS AUXILIARES DEL ÓRGANO DE ADMINISTRACIÓN DEL PODER JUDICIAL
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -2183,7 +2245,9 @@ V. Dirección de Informática;
 
 VI. Dirección de Control Interno;
 
-VII. Dirección de Estadística;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2026)</small>
+
+VII. Dirección de Estadística y Planeación;
 
 VIII. Instituto de Defensoría Pública;
 
@@ -2261,7 +2325,9 @@ II. Sufragar los estímulos y recompensas que se entreguen a servidores público
 
 III. Pagar las aportaciones que tradicionalmente las instituciones sociales requieran del Poder Judicial del Estado, para efectos asistenciales;
 
-IV. Cubrir las erogaciones extraordinarias, que sean distintas a las que se refieren las tres fracciones anteriores y de las cuales conocerá y resolverá directamente el Pleno del Órgano de Administración Judicial a propuesta de su Presidencia, con la aprobación del Pleno del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2026)</small>
+
+IV. Cubrir las erogaciones extraordinarias, que sean distintas a las que se refieren las tres fracciones anteriores y de las cuales conocerá y resolverá directamente el Pleno del Órgano de Administración del Poder Judicial a propuesta de su Presidencia, con la aprobación del Pleno del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial;
 
 V. Adquirir, construir, mantener o remodelar inmuebles para el establecimiento o ampliación de oficinas judiciales;
 
@@ -2513,9 +2579,11 @@ Para la consecución de sus objetivos, la Dirección de Control Interno contará
 
 #### SECCIÓN OCTAVA. DE LA DIRECCIÓN DE ESTADÍSTICA Y PLANEACIÓN
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 216.
 
-La Dirección de Estadística deberá efectuar la labor de recopilación de datos que se originen con motivo de las funciones jurisdiccionales de los órganos depositarios del Poder Judicial, y contará con las siguientes facultades y obligaciones:
+La Dirección de Estadística y Planeación deberá efectuar la labor de recopilación de datos que se originen con motivo de las funciones jurisdiccionales de los órganos depositarios del Poder Judicial, y contará con las siguientes facultades y obligaciones:
 
 I. Solicitar a todos los órganos jurisdiccionales un informe mensual de los asuntos bajo su conocimiento;
 
@@ -2595,9 +2663,11 @@ Los procedimientos alternativos para la resolución de controversias se regirán
 
 #### SECCIÓN DÉCIMA SEGUNDA. DEL CENTRO DE CONVIVENCIA FAMILIAR
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 224.
 
-El Centro de Convivencia Familiar es un órgano administrativo del Poder Judicial, con autonomía técnica y operativa, cuya administración dependerá del Órgano de Administración y estará integrado por el personal necesario para su correcta operación en los términos de los acuerdos generales que el propio Órgano de Administración determine. La persona titular de dicho Centro será designada por el Pleno del Órgano de Administración Judicial a propuesta de su presidencia.
+El Centro de Convivencia Familiar es un órgano administrativo del Poder Judicial, con autonomía técnica y operativa, cuya administración dependerá del Órgano de Administración y estará integrado por el personal necesario para su correcta operación en los términos de los acuerdos generales que el propio Órgano de Administración determine. La persona titular de dicho Centro será designada por el Pleno del Órgano de Administración del Poder Judicial a propuesta de su presidencia.
 
 El Centro de Convivencia Familiar tiene por objeto facilitar la convivencia paterno-materno-filial, en aquellos casos en que, a consideración de la autoridad judicial, ésta no pueda realizarse de manera libre o se ponga en riesgo el interés superior del menor.
 
@@ -2887,9 +2957,11 @@ Las licencias económicas del Secretario Ejecutivo del Pleno y Carrera Judicial,
 
 Las licencias económicas del personal de confianza que labora en las salas del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial, serán concedidas por los titulares de las mismas.
 
+> <small>(REFORMADO, P.O. 10 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 257.
 
-Las licencias económicas del personal del Órgano de Administración serán concedidas por el Pleno del propio órgano; las de los jueces por el propio Órgano de Administración, a través de la Comisión de Administración; las de los actuarios ejecutores adscritos al Departamento de Actuaría de Ejecución, por la Comisión de Administración del Órgano de Administración; y las del personal de los juzgados, por el Juez correspondiente, quien deberá dar aviso inmediato al Órgano de Administración Judicial.
+Las licencias económicas del personal del órgano de Administración del Poder Judicial, serán concedidas por el Pleno del propio Órgano; las de los jueces por el propio Órgano de Administración, a través de la Comisión de Administración; las de los actuarios ejecutores adscritos al Departamento de Actuaría de Ejecución, por la Comisión de Administración del Órgano de Administración; y las del personal de los juzgados, por el Juez correspondiente, quien deberá dar aviso inmediato al Órgano de Administración del Poder Judicial.
 
 ###### ARTÍCULO 258.
 
@@ -3007,7 +3079,9 @@ Para ser oficial judicial se requiere:
 
 I. Ser ciudadano mexicano por nacimiento, de preferencia duranguense en pleno ejercicio de sus derechos;
 
-II. Poseer título o constancia de estudios o prácticas en ramos que tienen que ver con la escritura de documentos, toma de dictado, manejo de computadoras o similares;
+> <small>(REFORMADA, P.O. 10 DE MAYO DE 2026)</small>
+
+II. Poseer titulo o constancia de estudios o prácticas en ramas que tienen que ver con la escritura de documentos, toma de dictado, manejo de computadoras o similares;
 
 III. Gozar de buena reputación y no haber sido condenado por delito que amerite pena privativa de la libertad de más de un año de prisión, excepto en el caso de delito a título de culpa; pero si se tratare de robo, falsificación, abuso de confianza u otro que lastime la buena fama en el concepto público, inhabilitará para el cargo cualquiera que sea la pena;
 
@@ -3162,3 +3236,17 @@ DR. ESTEBAN ALEJANDRO VILLEGAS VILLARREAL
 EL SECRETARIO GENERAL DE GOBIERNO
 
 ING. HÉCTOR EDUARDO VELA VALENZUELA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 394 POR EL CUAL SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. En lo relativo a lo establecido en los artículos 8 y 96, del presente Decreto, y en términos de lo ordenado por la Suprema Corte de Justicia de la Nación, al resolver las Acciones de Inconstitucionalidad 95/2025 y su acumulada 102/2025, en sesión pública de fecha 23 de marzo de 2026, las personas que actualmente ocupan las Magistraturas del Tribunal de Disciplina Judicial, continuarán en sus cargos hasta la conclusión de los períodos para los cuales fueron electos; y será a partir de los procesos electorales siguientes, en los que se ajustarán los periodos por los que contenderán las personas que busquen ser electos en estos cargos, así como los períodos de duración de la presidencia de dicho órgano.
+
+TERCERO. A partir de la entrada en vigor del presente decreto, la persona titular de la Presidencia del Órgano de Administración contara con un plazo no mayor a 15 días para la designación de la Secretaria Técnica a la que se refiere el segundo párrafo del Art. 175 del presente decreto.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
