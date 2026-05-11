@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-81-de-los-derechos-de-ninas-ninos-y-adolescentes-111
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-17"
-last_updated: "2022-10-24"
+last_updated: "2026-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 24 DE OCTUBRE DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE MAYO DE 2026.
 
 Ley publicada en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 17 de diciembre de 2015.
 
@@ -194,6 +194,10 @@ XLI. Sistema Municipal de Protección Integral: Al Sistema de Protección de Ni�
 XLII. Sistemas Municipales DIF: A los sistemas municipales para el desarrollo integral de la familia del Estado de Sonora.
 
 XLIII. Tratados Internacionales: A los tratados internacionales vigentes en materia de derechos humanos de los que el Estado Mexicano sea parte.
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XLIV. RNOA: Al Registro Nacional de Obligaciones Alimentarias.
 
 ###### Artículo 6.
 
@@ -1317,7 +1321,15 @@ Las autoridades del Estado de Sonora y sus municipios tienen el compromiso y el 
 
 Además de lo previsto por el artículo anterior son obligaciones de quienes ejercen la patria potestad, tutela o guarda y custodia, así como de las demás personas que por razón de sus funciones o actividades tengan bajo su cuidado niñas, niños o adolescentes, en proporción a su responsabilidad y, cuando sean instituciones públicas, conforme a su ámbito de competencia, las siguientes:
 
-I. Proporcionar y garantizar el derecho a alimentos de niñas, niños y adolescentes conforme al Código de Familia para el Estado.
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2026)</small>
+
+I. Proporcionar y garantizar los derechos alimentarios de niñas, niños y adolescentes, que comprenden esencialmente la satisfacción de necesidades de sustento y supervivencia y, específicamente:
+
+a) La alimentación y nutrición, vestido, habitación, recreación, atención médica y psicológica preventiva integrada a la salud, asistencia médico-hospitalaria y, en su caso, los gastos de embarazo y parto.
+
+b) Los gastos derivados de la educación y la formación para proporcionar un oficio, arte o profesión, adecuados a sus circunstancias personales, y
+
+c) Con relación a niñas, niños y adolescentes con algún tipo de discapacidad o declarados en estado de interdicción, lo necesario para lograr, en lo posible, su habilitación o rehabilitación y su desarrollo pleno.
 
 II. Registrar su nacimiento ante la oficialía de registro civil correspondiente dentro de los primeros sesenta días de vida.
 
@@ -1603,7 +1615,13 @@ VIII. Actuar con interés jurídico ante los tribunales del Estado, en todo juic
 
 IX. Prestar apoyo y colaboración técnica y administrativa en las materias reguladas en esta Ley, a los municipios a través de los sistemas municipales DIF competentes.
 
-X. Las demás que establezcan otras disposiciones en relación con la protección de niñas, niños y adolescentes que sean del ámbito de su competencia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 11 DE MAYO DE 2026)</small>
+
+X. Coadyuvar con el Sistema Nacional DIF, en lo que se requiera en relación al Registro Nacional de Obligaciones Alimentarias.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 11 DE MAYO DE 2026)</small>
+
+XI. Las demás que establezcan otras disposiciones en relación con la protección de niñas, niños y adolescentes que sean del ámbito de su competencia.
 
 ### Capítulo Segundo. De la Procuraduría de Protección
 
@@ -1701,7 +1719,13 @@ XXII. Orientar a las autoridades correspondientes del Estado para que den debido
 
 XXIII. Remitir al Sistema Nacional DIF la información vinculada a niñas, niños y adolescentes migrantes.
 
-XXIV. Las demás que les confieran otras disposiciones jurídicas aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 11 DE MAYO DE 2026)</small>
+
+XXIV. Tener acceso total a las bases de datos del Registro Nacional de Obligaciones Alimentarias.
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 11 DE MAYO DE 2026)</small>
+
+XXV. Las demás que les confieran otras disposiciones jurídicas aplicables.
 
 ###### Artículo 104.
 
@@ -2178,3 +2202,15 @@ Por lo que se refiere al pago de salario del cincuenta por ciento adicional a la
 ###### ARTÍCULO TERCERO.
 
 De conformidad con lo señalado en el tercer párrafo el (sic) artículo 26 del presente Decreto, será requisito indispensable que la mujer trabajadora que decida regresar a laborar tiempo completo dentro de los primeros seis meses de vida de la o el recién nacido, dé aviso previo a la dependencia o institución en la que labora, a fin de que ejerza plenamente los derechos relacionados con la lactancia y amamantamiento dentro de su lugar de trabajo.
+
+B.O. 11 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 101, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SONORA Y DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Judicial del Estado de Sonora contará con un plazo de 60 días naturales para emitir los Lineamientos para la Implementación y Funcionamiento del Registro Nacional de Obligaciones Alimentarias en el Estado de Sonora.
