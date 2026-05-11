@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-educacion-del-estado-de-aguascalientes-142998"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-25"
-last_updated: "2026-04-20"
+last_updated: "2026-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=142998&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2026.
 
 Ley publicada en la Sección Primera al Número 21 del Periódico Oficial del Estado de Aguascalientes, el lunes 25 de mayo de 2020.
 
@@ -301,7 +301,9 @@ Las medidas que adopte para tal efecto estarán dirigidas, de manera prioritaria
 
 El embarazo, la maternidad o paternidad no deberán constituir impedimento para ingresar y permanecer en la educación a cualquier nivel.
 
-Con la finalidad de brindar servicios educativos de excelencia, el Gobierno del Estado garantizará que en las instituciones de educación básica los grupos no excedan de treinta y cinco alumnos.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2026)</small>
+
+Con la finalidad de brindar servicios educativos de excelencia, el Gobierno del Estado procurará que en las instituciones de educación básica los grupos no excedan de treinta y cinco alumnos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2023)</small>
 
@@ -1539,13 +1541,17 @@ c) Implementar programas de información dirigida a maestras, maestros, madres, 
 
 d) Celebrar los convenios interinstitucionales necesarios entre dependencias y con organizaciones de la sociedad civil para lograr los objetivos de la presente sección;
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2026)</small>
 
-e) Implementar programas de información dirigida a madres y padres de familia o tutores, maestras y maestros, así como de los distintos actores involucrados en el proceso educativo relativa a la educación científica sobre temas de sexualidad integral, fertilidad y reproducción que implica el ejercicio responsable e informado de la sexualidad, la planificación familiar, la maternidad y la paternidad responsable, la prevención de los embarazos adolescentes y de las infecciones de transmisión sexual; y
+e) Implementar programas de información dirigida a madres y padres de familia o tutores, maestras y maestros, así como de los distintos actores involucrados en el proceso educativo relativa a la educación científica sobre temas de sexualidad integral, fertilidad y reproducción que implica el ejercicio responsable e informado de la sexualidad, la planificación familiar, la maternidad y la paternidad responsable, la prevención de los embarazos adolescentes y de las infecciones de transmisión sexual;
 
-> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2024)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2026)</small>
 
-f) Diseñar e implementar, en colaboración con las instituciones del sector salud del Estado, los programas educativos, de acuerdo a la edad, desarrollo evolutivo, cognoscitivo y madurez de las personas, que contengan las causas, riesgos y consecuencias de las adicciones. Estos programas deberán ir dirigidos a las maestras, maestros, madres y padres de familia, tutores o quienes ejerzan la patria potestad.
+f) Diseñar e implementar, en colaboración con las instituciones del sector salud del Estado, los programas educativos, de acuerdo con la edad, desarrollo evolutivo, cognoscitivo y madurez de las personas, que contengan las causas, riesgos y consecuencias de las adicciones. Estos programas deberán ir dirigidos a las maestras, maestros, madres y padres de familia, tutores o quienes ejerzan la patria potestad; y
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2026)</small>
+
+g) Implementar Programas de capacitación e información sobre la prevención y detección del Cáncer.
 
 #### Sección Tercera. De la Atención Especial de Víctimas
 
@@ -2744,3 +2750,17 @@ P.O. 20 DE ABRIL DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 11 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 479.- SE REFORMA LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 11 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 481.- SE REFORMA LA LEY DE EDUCACIÓN DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+La presente reforma iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
