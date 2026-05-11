@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2026-04-06"
+last_updated: "2026-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -507,9 +507,17 @@ El Estado debe garantizar a las mujeres la erradicación de la violencia social 
 
 I. La reeducación libre de estereotipos y la información de alerta sobre el estado de riesgo que enfrentan las mujeres en una sociedad desigual y discriminatoria;
 
-II. El diseño de un sistema de monitoreo del comportamiento violento de los individuos y de la sociedad contra las mujeres, y
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2026)</small>
 
-III. El establecimiento de un banco de datos sobre las órdenes de protección y de las personas sujetas a ellas, para realizar las acciones de política criminal que correspondan y faciliten el intercambio de información entre las dependencias.
+II. El diseño de un sistema de monitoreo del comportamiento violento de los individuos y de la sociedad contra las mujeres;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2026)</small>
+
+III. El establecimiento de un banco de datos sobre las órdenes de protección y de las personas sujetas a ellas, para realizar las acciones de política criminal que correspondan y faciliten el intercambio de información entre las dependencias; y
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2026)</small>
+
+IV. El diseño de políticas públicas encaminadas a la prevención, sanción y erradicación de todo tipo de violencia contra las mujeres, las adolescentes y las niñas.
 
 > <small>(REFORMADO, P.O. 7 DE DICIEMBRE DE 2020)</small>
 
@@ -532,6 +540,10 @@ La atención que se proporcione a las mujeres víctimas de violencia de género 
 > <small>(ADICIONADO, P.O. 19 DE JUNIO DE 2023)</small>
 
 En los casos de violencia vicaria se proporcionará atención y tratamiento psicológico especializado y gratuito a las víctimas y víctimas indirectas, que favorezcan la reunificación familiar entre las hijas y/o los hijos menores con la madre, con el objetivo de reparar el daño causado, derivado de dicha modalidad de violencia.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2026)</small>
+
+Artículo 18 bis.- Toda acción u omisión que conlleve a la violación de los derechos humanos de las mujeres, niñas y adolescentes deberá ser investigada, sancionada y reparada con perspectiva de género conforme a la normatividad aplicable.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2025)</small>
 
@@ -2334,3 +2346,9 @@ P.O. 6 DE ABRIL DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 421.- SE REFORMA LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES".]
 
 ÚNICO.- El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 478.- SE REFORMA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
