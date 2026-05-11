@@ -4,7 +4,7 @@ identifier: "AGU-ley-del-sistema-estatal-de-seguridad-publica-de-75717"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-02"
-last_updated: "2026-04-20"
+last_updated: "2026-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 2 de agosto de 2010.
 
@@ -796,6 +796,14 @@ El Mando Coordinado que ejerza la Secretaría se entenderá única y exclusivame
 > <small>(REFORMADO, P.O. 1 DE JULIO DE 2024)</small>
 
 El Mando Coordinado no aplicará respecto a la Dirección de Tránsito Municipal y la Jefatura Operativa de Policía Auxiliar y Comercial, así como tampoco en faltas de policía contenidas en los ordenamientos municipales correspondientes.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2026)</small>
+
+###### Artículo 34 Bis.
+
+Las autoridades estatales y municipales podrán solicitar y coordinar el acompañamiento de las autoridades federales, incluida la Secretaría de la Defensa Nacional, conforme a la Constitución Política de los Estados Unidos Mexicanos y la legislación aplicable.
+
+Dicho acompañamiento tendrá por objeto brindar seguridad perimetral, aseguramiento de bienes, instrumentos, objetos o productos del delito, apoyo logístico y protección de los intervinientes en las diligencias que efectúen las Instituciones Policiales del Estado y los Municipios, sin que se transfieran a las fuerzas armadas las facultades administrativas, operativas o de investigación que correspondan a las autoridades civiles. Esta coordinación se desarrollará observando el respeto a los derechos humanos y las leyes sobre el uso de la fuerza, y se llevará a cabo mediante los protocolos de actuación interinstitucional que emita el Consejo Estatal de Seguridad Pública.
 
 ###### Artículo 35.
 
@@ -3140,3 +3148,9 @@ P.O. 20 DE ABRIL DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 448.- SE REFORMA LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 11 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 484.- SE ADICIONA UN ARTÍCULO 34 BIS A LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE AGUASCALIENTES".]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
