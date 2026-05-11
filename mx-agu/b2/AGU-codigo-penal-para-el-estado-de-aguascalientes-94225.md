@@ -4,7 +4,7 @@ identifier: "AGU-codigo-penal-para-el-estado-de-aguascalientes-94225"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-20"
-last_updated: "2026-04-20"
+last_updated: "2026-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2026.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 20 de mayo de 2013.
 
@@ -2433,17 +2433,17 @@ IV. Si el daño se produce a la infraestructura o equipamiento urbano, así como
 
 V. Si el daño se produce a bienes destinados a la prestación del servicio de transporte público.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2026)</small>
+
 ### CAPÍTULO VI. Tipos Penales Protectores de la Estética Urbana
 
 ###### ARTÍCULO 153.
 
-Atentados a la estética urbana. Los Atentados a la Estética Urbana consisten en la afectación, no sólo material, sino visual, de bienes inmuebles o muebles, públicos o privados, provocada por pintas, escrituras, dibujos, signos, tallones y/o gráficos de cualquier tipo, que modifiquen o alteren ostensiblemente su estructura o presentación originales.
-
-Al responsable de Atentados a la Estética Urbana se le aplicarán de 3 meses a 2 años de prisión y de 15 a 30 días multa, y al pago de la reparación de los daños y perjuicios ocasionados.
+(DEROGADO, P.O. 11 DE MAYO DE 2026)
 
 ###### ARTÍCULO 154.
 
-Excepción electoral. Tratándose de propaganda o promoción de partidos o grupos políticos, se estará a lo dispuesto por la legislación electoral del Estado.
+(DEROGADO, P.O. 11 DE MAYO DE 2026)
 
 ### CAPÍTULO VII. Tipos Penales Protectores del Desarrollo Urbano
 
@@ -4996,3 +4996,11 @@ Las autoridades competentes adoptarán las medidas necesarias para la debida apl
 ###### ARTÍCULO TERCERO.
 
 Las autoridades competentes implementarán, en el ámbito de sus atribuciones, campañas de prevención dirigidas a evitar la participación de niñas, niños y adolescentes en juegos de azar, así como acciones de sensibilización sobre los riesgos asociados a dichas actividades.
+
+P.O. 11 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 482.- SE DEROGA UN CAPÍTULO VI DEL CÓDIGO PENAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
