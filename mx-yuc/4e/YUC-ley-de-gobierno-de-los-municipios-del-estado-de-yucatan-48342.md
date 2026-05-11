@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-gobierno-de-los-municipios-del-estado-de-yucatan-48342"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-25"
-last_updated: "2026-01-20"
+last_updated: "2026-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48342&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 20 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE MAYO DE 2026.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 25 de enero de 2006.
 
@@ -1097,11 +1097,11 @@ IV.- Las demás que determine esta ley.
 
 En las sesiones solemnes, sólo se tratarán los asuntos para los que hayan sido convocadas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 15 DE JUNIO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 11 DE MAYO DE 2026)</small>
 
 ###### Artículo 36.
 
-Todas las sesiones serán públicas, procurándose su transmisión en tiempo real vía internet a través de las plataformas digitales al alcance de cada Ayuntamiento, salvo excepciones y a juicio de las dos terceras partes del Cabildo, cuando se trate de:
+Todas las sesiones serán de carácter público, lo cual, implica libre acceso para la ciudadanía y que se realice la transmisión en tiempo real vía internet a través de las plataformas digitales al alcance de cada Ayuntamiento o regidor, salvo excepciones y a juicio razonado y justificado de las dos terceras partes del Cabildo, cuando se trate de:
 
 I.- Asuntos cuya discusión pueda alterar el orden, o
 
@@ -1127,7 +1127,9 @@ Los Regidores que no asistieren o abandonaren la sesión sin causa justificada, 
 
 El resultado de las sesiones se hará constar en acta que contendrá una relación sucinta de los puntos tratados y los acuerdos aprobados, acta que se realizará de manera veraz e imparcial, preservándose en un libro encuadernado y foliado. Con una copia de dicha acta y los documentos relativos, se formará un expediente y con éstos se conformará un volumen cada año.
 
-Una vez aprobada el acta de la sesión, la firmarán todos los Regidores presentes y se les entregará copia certificada, a quienes así lo soliciten, en un plazo no mayor de tres días naturales.
+> <small>(REFORMADO, D.O. 11 DE MAYO DE 2026)</small>
+
+Una vez aprobada el acta de la sesión, la firmarán todos los Regidores presentes y se les entregará copia simple a todos los integrantes del cabildo, sin excepción y en su caso, certificada, a quienes así lo soliciten, en un plazo no mayor de tres días naturales, mismo tiempo en el que se publicará en las plataformas digitales correspondientes de cada Ayuntamiento, plataformas de transparencia que señale la ley, además de medios físicos con los que cuente cada Ayuntamiento de modo que cualquier ciudadano pueda acceder a su consulta.
 
 > <small>(REFORMADO, D.O. 17 DE AGOSTO DE 2011)</small>
 
@@ -1329,6 +1331,18 @@ Cumplir con las atribuciones establecidas en la Ley para la Igualdad entre Mujer
 
 Procurar adoptar el uso del lenguaje incluyente así como del lenguaje no sexista en toda la administración pública municipal, y en los servicios públicos que se brindan a la ciudadanía. Lo anterior, conforme a los reglamentos, manuales, guías y protocolos que emitan las autoridades competentes al respecto.
 
+> <small>(ADICIONADO, D.O. 11 DE MAYO DE 2026)</small>
+
+F) De Prevención Social de la Violencia y el Delito
+
+Diseñar, implementar y coordinar acciones que tengan como objetivo prevenir la violencia y el delito en el municipio, orientadas a la atención temprana de las causas e identificación de problemáticas generados (sic) de violencia. Así como participar en el Consejo Estatal de Prevención Social y coordinar acciones el (sic) tanto con el gobierno del Estado como con los demás municipios en esta materia.
+
+> <small>(ADICIONADO, D.O. 11 DE MAYO DE 2026)</small>
+
+G) De Protección de las Infancias y Adolescencias
+
+Sin perjuicio de lo establecido en la Ley General de la materia, cumplir con las atribuciones previstas en la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán, en favor de las infancias y adolescencias; los recursos destinados al cumplimiento de esta atribución serán progresivos.
+
 ###### Artículo 42.
 
 Son obligaciones del Ayuntamiento en materia de servicios y obra pública:
@@ -1503,6 +1517,12 @@ X.- Las demás que les asignen las diversas leyes.
 
 Artículo 46 A.- Es obligación del Ayuntamiento, en materia de igualdad, crear la instancia municipal de las mujeres como un organismo público descentralizado, organismo desconcentrado o unidad administrativa, la cual tendrá como objeto promover y fomentar la igualdad entre mujeres y hombres, para una igualdad sustantiva, para garantizar el derecho de las mujeres una vida libre de violencia; así como transversalizar la perspectiva de género en la normativa municipal, toma de decisiones, en las políticas públicas, programas y demás instrumentos de planeación municipal; así como en la actuación de personas funcionarias y personas servidoras públicas municipales.
 
+> <small>(ADICIONADO, D.O. 11 DE MAYO DE 2026)</small>
+
+Artículo 46 B.- Es obligación del Ayuntamiento, en materia de protección de los derechos de niñas, niños y adolescentes establecer un Sistema municipal de protección integral de niñas, niños y adolescentes.
+
+Sin perjuicio del sistema, y de acuerdo a la capacidad presupuestal, se implementará una unidad o instancia administrativa especializada encargada de ejercer las competencias y formular el Protocolo de actuación para garantizar la protección de los derechos de las niñas, niños y adolescentes en términos del artículo 30 de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
 ###### Artículo 47.
 
 Son obligaciones del Ayuntamiento, en materia de protección civil:
@@ -1591,13 +1611,17 @@ IV.- Seguridad Pública y Tránsito;
 
 V.- Servicios públicos;
 
-> <small>(REFORMADA, D.O. 31 DE OCTUBRE DE 2017)</small>
+> <small>(REFORMADA, D.O. 11 DE MAYO DE 2026)</small>
 
-VI.- Salud y ecología, y
+VI.- Salud y ecología.
 
-> <small>(REFORMADA, D.O. 29 DE SEPTIEMBRE DE 2023)</small>
+> <small>(REFORMADA, D.O. 11 DE MAYO DE 2026)</small>
 
-VII.- Igualdad entre mujeres y hombres y acceso de las mujeres a una vida libre de violencia.
+VII.- Igualdad entre mujeres y hombres y acceso de las mujeres a una vida libre de violencia, y
+
+> <small>(ADICIONADA, D.O. 11 DE MAYO DE 2026)</small>
+
+VIII.- Prevención Social de la Violencia y el Delito y Participación Ciudadana.
 
 ###### Artículo 52.
 
@@ -1681,11 +1705,15 @@ XIX.- Las demás que establezcan las leyes y los reglamentos.
 
 #### SECCIÓN TERCERA. DE LAS OBLIGACIONES DEL PRESIDENTE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 11 DE MAYO DE 2026)</small>
+
 ###### Artículo 56.
 
-Son obligaciones del Presidente Municipal:
+Son obligaciones de quien ostente la Presidencia Municipal:
 
-I.- Presidir y dirigir las sesiones de Cabildo;
+> <small>(REFORMADA, D.O. 11 DE MAYO DE 2026)</small>
+
+I.- Presidir y dirigir las sesiones de Cabildo protegiendo y promoviendo el carácter público de las mismas;
 
 II.- Formular y someter a la aprobación del Cabildo, la iniciativa de Ley de Ingresos y la Ley de Hacienda, el Presupuesto de Egresos, el Bando de Policía y Gobierno, los reglamentos y demás disposiciones de observancia general, así como publicarlos en la Gaceta Municipal;
 
@@ -1713,9 +1741,11 @@ XIII.- Las demás que establezca ésta ley y demás ordenamientos aplicables.
 
 #### SECCIÓN CUARTA. DE LAS PROHIBICIONES AL PRESIDENTE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 11 DE MAYO DE 2026)</small>
+
 ###### Artículo 57.
 
-Al Presidente Municipal le está prohibido:
+A quien ostente la Presidencia Municipal le está prohibido:
 
 I.- Distraer los fondos, bienes y valores municipales;
 
@@ -1739,9 +1769,15 @@ X.- Autorizar la práctica y celebración de juegos de azar;
 
 XI.- Nombrar a parientes por consanguinidad o por afinidad, en línea recta o trasversal, hasta el cuarto grado, para ocupar cargos de designación;
 
-XII.- Conceder exención de contribuciones, y
+> <small>(REFORMADA, D.O. 11 DE MAYO DE 2026)</small>
 
-XIII.- Las demás que señale esta ley y la de Responsabilidades de los Servidores Públicos del Estado de Yucatán.
+XII.- Conceder exención de contribuciones.
+
+> <small>(ADICIONADA, D.O. 11 DE MAYO DE 2026)</small>
+
+XIII.- Promover acciones en detrimento del carácter público de las sesiones de cabildo, así como impedir o prohibir su transmisión en plataformas digitales al alcance del Ayuntamiento o con los que cuente algún regidor, y
+
+XIV.- Las demás que señale esta ley y la de Responsabilidades de los Servidores Públicos del Estado de Yucatán.
 
 #### SECCIÓN QUINTA. DE LA SINDICATURA
 
@@ -2011,6 +2047,10 @@ III.- Los Jefes de Manzana, y
 
 IV.- Las demás que el Cabildo acuerde, según las características del Municipio.
 
+> <small>(ADICIONADO, D.O. 11 DE MAYO DE 2026)</small>
+
+En la conformación e integración de las autoridades auxiliares se observará la paridad de género.
+
 #### SECCIÓN SEGUNDA. DE LA ELECCIÓN Y LOS REQUISITOS DE ELEGIBILIDAD
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 9 DE ENERO DE 2020)</small>
@@ -2018,6 +2058,10 @@ IV.- Las demás que el Cabildo acuerde, según las características del Municipi
 ###### Artículo 70.
 
 Todas las autoridades auxiliares serán electas por el voto universal, libre, directo y secreto de los vecinos de la comisaria que se trate, mediante el procedimiento que al efecto organice el cabildo y concluirán con cada administración municipal, pudiendo ser reelectos, por una sola vez, para el período inmediato.
+
+> <small>(ADICIONADO, D.O. 11 DE MAYO DE 2026)</small>
+
+En la elección de las autoridades auxiliares se deberá observar el principio de paridad de género.
 
 > <small>(REFORMADO, D.O. 9 DE ENERO DE 2020)</small>
 
@@ -2033,9 +2077,9 @@ I.- Se realizará dentro de los noventa días posteriores al de la instalación 
 
 I bis.- En caso de que venza el término establecido en el artículo anterior de esta ley, se sancionará al presidente municipal, que no lo haya realizado conforme a la Ley de Responsabilidades de los Servidores Públicos del estado de Yucatán;
 
-> <small>(REFORMADA, D.O. 9 DE ENERO DE 2020)</small>
+> <small>(REFORMADA, D.O. 11 DE MAYO DE 2026)</small>
 
-II.- La convocatoria deberá aprobarse en sesión de cabildo convocada para ese efecto, expedirse y hacerse del conocimiento de los vecinos de la comisaría de que se trate, dentro de los quince días naturales antes de la elección, a través de la gaceta municipal, sitios electrónicos, páginas oficiales del ayuntamiento, y por cédula de notificación que se fijará en los bajos de las comisarías municipales de que se trate, lugares de acceso público; así como en medios que garanticen su adecuada difusión y máxima publicidad;
+II.- La convocatoria establecerá la obligación de que las candidaturas sean ocupadas observando el principio de paridad de género, tomando en cuenta el número de comisarías con el que cuente cada municipio del Estado, si éste número fuere impar se preferirá que las candidaturas de la mayoría recaiga sobre mujeres; deberá aprobarse en sesión de cabildo convocada para ese efecto, expedirse y hacerse del conocimiento de los vecinos de la comisaría de que se trate, dentro de los quince días naturales antes de la elección, a través de la gaceta municipal, sitios electrónicos, páginas oficiales del ayuntamiento, y por cédula de notificación que se fijará en los bajos de las comisarías municipales de que se trate, lugares de acceso público; así como en medios que garanticen su adecuada difusión y máxima publicidad;
 
 III.- Los aspirantes a ser electos deberán cumplir con todos y cada uno de los requisitos establecidos en esta ley;
 
@@ -2171,9 +2215,63 @@ IV.- Las demás que establezca el Ayuntamiento.
 
 La ley especial regulará los procedimientos, modalidades y condiciones de dicha participación.
 
-### CAPÍTULO VII. DE LA FACULTAD REGLAMENTARIA
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 11 DE MAYO DE 2026)</small>
 
-### CAPÍTULO I. DE LA ADMINISTRACIÓN CENTRALIZADA
+### Capítulo VI Bis. De la Unidad Municipal de Prevención Social de la Violencia y el Delito y Participación Ciudadana
+
+> <small>(ADICIONADO, D.O. 11 DE MAYO DE 2026)</small>
+
+Artículo 76 bis.- La Unidad Municipal de Prevención Social de la Violencia y el Delito y Participación Ciudadana, tiene por objeto planear, diseñar, implementar, coordinar, supervisar, evaluar, difundir y promover políticas públicas, programas y acciones orientadas a disminuir factores de riesgo que favorezcan la generación de violencia y delincuencia, así como promover la participación ciudadana en sus acciones, la cultura de paz, la legalidad, la prevención del delito y el respeto a los derechos humanos, en el municipio.
+
+> <small>(ADICIONADO, D.O. 11 DE MAYO DE 2026)</small>
+
+Artículo 76 ter.- La Unidad Municipal de Prevención Social de la Violencia y el Delito (sic) Participación Ciudadana tiene las siguientes atribuciones:
+
+I. Apoyar y coadyuvar en la elaboración del Programa Especial de Prevención Social de la Violencia y la Delincuencia, en coordinación con el Centro Estatal de Prevención Social del Delito y Participación Ciudadana y el Consejo Estatal de Prevención Social.
+
+II. Diseñar, implementar, y promover a nivel municipal, políticas, programas y acciones basadas en el análisis del contexto local de la criminalidad, que favorezcan la reducción de los factores sociales que generan la violencia y el incremento de los factores de protección, que la previenen, de manera permanente y estratégica.
+
+III. Proponer mecanismos de coordinación y estrategias que faciliten la cooperación interinstitucional con la finalidad de dar seguimiento y evaluar los programas y acciones que llevan a cabo diversas dependencias y entidades de la Administración Pública estatal, en materia de prevención social de la violencia y la delincuencia.
+
+IV. Elaborar su programa anual de trabajo en el municipio.
+
+V. Realizar diagnósticos participativos en materia de prevención social de la violencia y la delincuencia.
+
+VI. Apoyar en la ejecución de programas interinstitucionales de prevención social y las formas de evaluación.
+
+VII. Colaborar en el diseño científico de políticas criminológicas del estado en coordinación con el Centro Estatal de Prevención Social del Delito y Participación Ciudadana.
+
+VIII. Analizar y proponer programas y acciones para disminuir la relación entre las adicciones y la comisión de conductas violentas y delictivas en el municipio.
+
+IX. Identificar y proponer temas prioritarios o emergentes que pongan en riesgo o que afecten directamente la seguridad pública desde la perspectiva ciudadana.
+
+X. Efectuar estudios comparativos de las estadísticas oficiales de criminalidad en los municipios.
+
+XI. Promover entre las autoridades de la Administración Pública Municipal, la participación ciudadana y comunitaria en las tareas de prevención social de la violencia y la delincuencia.
+
+XII. Proponer en coordinación con el Centro Estatal de Prevención Social del Delito y Participación Ciudadana, los mecanismos necesarios para garantizar que, las inquietudes, requerimientos y propuestas de los ciudadanos, sean presentadas ante el Consejo Estatal de Prevención Social.
+
+XIII. Generar y recabar información sobre:
+
+a) Las causas estructurales del delito.
+
+b) Estadísticas de conductas ilícitas no denunciadas.
+
+c) Diagnóstico socio demográfico.
+
+d) Prevención de la violencia infantil y juvenil.
+
+e) Cultura de la paz y respeto a los derechos humanos.
+
+XIV. Brindar asesoría en la materia, a las autoridades municipales, así como a la sociedad civil organizada, organismos no gubernamentales, representantes de instituciones académicas y ciudadanía en general, cuando estas así lo soliciten.
+
+> <small>(ADICIONADO, D.O. 11 DE MAYO DE 2026)</small>
+
+###### Artículo 76 Quater.
+
+Los Ayuntamientos, podrán contar con una Unidad Municipal de Prevención Social de la Violencia y el Delito y Participación Ciudadana adscrita a los mismos, la cual estará conformado (sic) por un titular y auxiliares a su cargo, de conformidad con la disponibilidad presupuestal y de acuerdo a la planilla laboral con la que se cuente. Asimismo, quien ocupe la titularidad y el personal adscrito a las unidades deberán acreditar y contar con la formación académica acorde al área que le sea asignada, así como experiencia y conocimientos en la materia de prevención social del delito y participación ciudadana. La persona titular de la Unidad Municipal de Prevención Social de la Violencia y el Delito y Participación Ciudadana será nombrada de conformidad con lo establecido en los artículos 41 fracción I y 55 fracción XII de la presente Ley, pudiéndose optar por crear la Unidad Municipal o adosarla a las Direcciones Municipales de Seguridad Pública, teniendo el mismo objeto y atribuciones que establece el presente capítulo; en este segundo caso, no será necesario la designación.
+
+### CAPÍTULO VII. DE LA FACULTAD REGLAMENTARIA
 
 #### SECCIÓN ÚNICA. DISPOSICIONES GENERALES
 
@@ -2207,7 +2305,7 @@ V.- El índice de contenido.
 
 ## TÍTULO TERCERO. DE LA ADMINISTRACIÓN PÚBLICA
 
-### CAPÍTULO II. DE LAS AUTORIDADES FISCALES Y HACENDARIAS
+### CAPÍTULO I. DE LA ADMINISTRACIÓN CENTRALIZADA
 
 ###### Artículo 80.
 
@@ -2245,7 +2343,7 @@ Las oficinas y dependencias, conducirán sus acciones en base a los fines y obje
 
 Los titulares de cada una de las oficinas y dependencias de la administración pública, deberán ser ciudadanos mexicanos, en pleno ejercicio de sus derechos, preferentemente vecinos del Municipio, de reconocida honorabilidad y probada aptitud para desempeñar los cargos que les corresponda. Acordarán directamente con el Presidente Municipal a quien le estarán subordinados de manera inmediata y directa, y comparecerán ante el Cabildo, cuando se les requiera.
 
-### CAPÍTULO III. DE LA PRESTACIÓN DE LOS SERVICIOS PÚBLICOS
+### CAPÍTULO II. DE LAS AUTORIDADES FISCALES Y HACENDARIAS
 
 #### SECCIÓN PRIMERA. DE LAS AUTORIDADES
 
@@ -2363,7 +2461,7 @@ XIII.- Confirmar que los financiamientos y obligaciones del ayuntamiento se cele
 
 XIV.- Las demás que expresamente le otorguen las leyes.
 
-### CAPÍTULO IV. DE LA PLANEACIÓN DEL DESARROLLO
+### CAPÍTULO III. DE LA PRESTACIÓN DE LOS SERVICIOS PÚBLICOS
 
 #### SECCIÓN PRIMERA. DE LOS SERVICIOS EXCLUSIVOS
 
@@ -2623,7 +2721,7 @@ Las resoluciones de extinción de las concesiones de servicios públicos, se pub
 
 > <small>(F. DE E., D.O. 8 DE FEBRERO DE 2006)</small>
 
-### CAPÍTULO V. DE LA ADMINISTRACIÓN PARAMUNICIPAL
+### CAPÍTULO IV. DE LA PLANEACIÓN DEL DESARROLLO
 
 #### SECCIÓN PRIMERA. DEL SISTEMA MUNICIPAL DE PLANEACIÓN
 
@@ -2749,9 +2847,7 @@ El ejercicio del presupuesto municipal debe relacionarse con el Plan Municipal d
 
 > <small>(F. DE E., D.O. 8 DE FEBRERO DE 2006)</small>
 
-### CAPÍTULO VI. DE LA ASOCIACIÓN Y COORDINACIÓN MUNICIPAL
-
-> <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
+### CAPÍTULO V. DE LA ADMINISTRACIÓN PARAMUNICIPAL
 
 #### SECCIÓN PRIMERA. DE SU CONSTITUCIÓN, OBJETO Y EXTINCIÓN
 
@@ -2893,7 +2989,9 @@ Por cada integrante del Comité Técnico habrá un suplente que lo cubrirá en s
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 17 DE AGOSTO DE 2011)</small>
 
-### CAPÍTULO VII. DE LA PROFESIONALIZACIÓN DEL SERVICIO
+### CAPÍTULO VI. DE LA ASOCIACIÓN Y COORDINACIÓN MUNICIPAL
+
+> <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 133-A.
 
@@ -2937,9 +3035,15 @@ IX.- La atracción de inversiones detonantes del desarrollo regional;
 
 X.- La contratación de Proyectos de Prestación de Servicios;
 
-XI.- Realizar programas de seguridad pública, y
+> <small>(REFORMADA, D.O. 11 DE MAYO DE 2026)</small>
 
-XII.- Las demás que tiendan a promover el bienestar y progreso de su población.
+XI. Realizar programas de seguridad pública;
+
+> <small>(ADICIONADA, D.O. 11 DE MAYO DE 2026)</small>
+
+XII. Realizar programas de Prevención Social de la Violencia y el Delito y Participación Ciudadana, y
+
+XIII.- Las demás que tiendan a promover el bienestar y progreso de su población.
 
 > <small>(ADICIONADO, D.O. 17 DE AGOSTO DE 2011)</small>
 
@@ -3027,7 +3131,7 @@ VI.- La observancia de esta ley y demás disposiciones legales y reglamentarias 
 
 VII.- La vigencia del convenio y las formas de extinción del mismo, así como el medio competente para el caso de controversias en su interpretación y aplicación.
 
-### CAPÍTULO I. DE LA INTEGRACIÓN DEL PATRIMONIO
+### CAPÍTULO VII. DE LA PROFESIONALIZACIÓN DEL SERVICIO
 
 ###### Artículo 134.
 
@@ -3053,7 +3157,7 @@ V.- Los demás que se deriven de las disposiciones aplicables.
 
 ## TÍTULO CUARTO. DEL PATRIMONIO
 
-### CAPÍTULO II. DE LA HACIENDA PÚBLICA
+### CAPÍTULO I. DE LA INTEGRACIÓN DEL PATRIMONIO
 
 ###### Artículo 137.
 
@@ -3071,7 +3175,7 @@ III.- Los derechos y obligaciones creados en su favor, y
 
 IV.- Los demás bienes, derechos y obligaciones que señalen los ordenamientos legales.
 
-### CAPÍTULO III. DE LOS BIENES
+### CAPÍTULO II. DE LA HACIENDA PÚBLICA
 
 #### SECCIÓN PRIMERA. DE SUS ELEMENTOS
 
@@ -3193,7 +3297,7 @@ De igual forma deberán presentar su cuenta pública a la Auditoría Superior de
 
 La cuenta pública se enviará a la Auditoría Superior del Estado, sea o no aprobada en Sesión de Cabildo.
 
-### CAPÍTULO IV. DE LA CONTRATACIÓN DE OBRAS Y SERVICIOS
+### CAPÍTULO III. DE LOS BIENES
 
 #### SECCIÓN PRIMERA. DEL DOMINIO PÚBLICO
 
@@ -3309,7 +3413,7 @@ IV.- Sean enajenadas por cualquier título sin que haya transcurrido el término
 
 Las enajenaciones de bienes muebles propiedad del Municipio se efectuarán en subasta pública, de acuerdo al procedimiento previsto en el reglamento correspondiente y a falta de éste, a lo establecido en el Código de Procedimientos Civiles del Estado de Yucatán, en lo conducente.
 
-### CAPÍTULO V. DEL FINANCIAMIENTO
+### CAPÍTULO IV. DE LA CONTRATACIÓN DE OBRAS Y SERVICIOS
 
 #### SECCIÓN PRIMERA. DE LA CONTRATACIÓN DE SERVICIOS
 
@@ -3407,7 +3511,7 @@ El Ayuntamiento, por conducto de la oficina o dependencia ejecutora tendrá la f
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 28 DE MARZO DE 2018)</small>
 
-### CAPÍTULO VI. DE LA TRANSPARENCIA Y PUBLICIDAD
+### CAPÍTULO V. DEL FINANCIAMIENTO
 
 #### SECCIÓN PRIMERA. DEL CONCEPTO
 
@@ -3463,7 +3567,7 @@ El monto de financiamiento neto aprobado en las respectivas leyes de ingresos se
 
 La contravención a lo dispuesto en este capítulo, será causa de responsabilidad administrativa o penal, en su caso.
 
-### CAPÍTULO I. DE LOS MEDIOS DE DEFENSA
+### CAPÍTULO VI. DE LA TRANSPARENCIA Y PUBLICIDAD
 
 ###### Artículo 175.
 
@@ -3477,7 +3581,7 @@ III.- Informar al Congreso del Estado, sobre la situación de su deuda en capít
 
 ## TÍTULO QUINTO. DE LA JUSTICIA MUNICIPAL
 
-### CAPÍTULO II. DEL PROCEDIMIENTO
+### CAPÍTULO I. DE LOS MEDIOS DE DEFENSA
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
@@ -3563,7 +3667,7 @@ El Tribunal de lo Contencioso Administrativo Municipal, al resolver el recurso d
 
 De no existir en el Municipio el Tribunal de lo Contencioso Administrativo, conocerá del recurso de revisión, el Tribunal de Justicia Electoral y Administrativa del Poder Judicial del Estado, en términos de la normatividad aplicable.
 
-### CAPÍTULO III. DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO MUNICIPAL
+### CAPÍTULO II. DEL PROCEDIMIENTO
 
 #### SECCIÓN PRIMERA. DE LOS ORGANOS DE JUSTICIA MUNICIPAL
 
@@ -3705,9 +3809,7 @@ V.- El daño ocasionado.
 
 Podrán Imponerse sanciones por varias infracciones, sin perjuicio de la respectiva responsabilidad penal o civil.
 
-### CAPÍTULO IV. DE LOS JUECES DE PAZ
-
-> <small>(REFORMADO, D.O. 17 DE AGOSTO DE 2011)</small>
+### CAPÍTULO III. DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO MUNICIPAL
 
 ###### Artículo 197.
 
@@ -3737,7 +3839,9 @@ Durarán en su encargo tres años, pudiendo ser ratificados hasta por un períod
 
 Las autoridades municipales están obligadas a acatar las resoluciones del Tribunal de lo Contencioso Administrativo Municipal, y en caso de incumplimiento inexcusable, se solicitará al Cabildo la destitución inmediata del funcionario.
 
-### CAPITULO I. DE LAS GENERALIDADES
+### CAPÍTULO IV. DE LOS JUECES DE PAZ
+
+> <small>(REFORMADO, D.O. 17 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 200.
 
@@ -3771,7 +3875,7 @@ Artículo 202 A.- Si el juez de paz fuere mediador no podrá ejercer la mediaci�
 
 ## TÍTULO SEXTO. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
 
-### CAPÍTULO II. DE LOS SERVIDORES PÚBLICOS
+### CAPITULO I. DE LAS GENERALIDADES
 
 ###### Artículo 203.
 
@@ -3799,7 +3903,7 @@ II.- El Síndico, y
 
 III.- El órgano de control interno, en su caso.
 
-### CAPÍTULO III. DE LOS FUNCIONARIOS PÚBLICOS
+### CAPÍTULO II. DE LOS SERVIDORES PÚBLICOS
 
 ###### Artículo 208.
 
@@ -3835,7 +3939,7 @@ XIII.- Observar, en el desempeño de su cargo o comisión, la legalidad, honrade
 
 XIV.- Las demás que les impongan las leyes.
 
-### CAPÍTULO IV. DE LOS ÓRGANOS DE CONTROL INTERNO
+### CAPÍTULO III. DE LOS FUNCIONARIOS PÚBLICOS
 
 ###### Artículo 209.
 
@@ -3851,7 +3955,7 @@ IV.- Atender con diligencia las instrucciones, requerimientos y resoluciones que
 
 V.- Las demás que las leyes establezcan.
 
-### CAPÍTULO V. DE LA DENUNCIA POPULAR
+### CAPÍTULO IV. DE LOS ÓRGANOS DE CONTROL INTERNO
 
 ###### Artículo 210.
 
@@ -3937,7 +4041,7 @@ XXI.- Designar a la persona que lo represente que participará en la entrega-rec
 
 XXII.- Las demás que le confieran las leyes y reglamentos.
 
-### CAPÍTULO VI. DEL PROCEDIMIENTO
+### CAPÍTULO V. DE LA DENUNCIA POPULAR
 
 ###### Artículo 212.
 
@@ -3961,7 +4065,7 @@ El órgano del conocimiento de la queja o denuncia, podrá mediante acuerdo, req
 
 No se admitirán denuncias notoriamente improcedente o infundadas, o en la que se advierta mala fe o inexistencia del hecho, a juicio de la autoridad competente; quien le hará saber por escrito de la procedencia o improcedencia de su acción, en un plazo no mayor de treinta días naturales, a partir de la fecha de presentación de la denuncia.
 
-### CAPÍTULO VII. DE LAS INFRACCIONES Y SANCIONES
+### CAPÍTULO VI. DEL PROCEDIMIENTO
 
 ###### Artículo 214.
 
@@ -4003,7 +4107,7 @@ Se levantará acta circunstanciada de todas las diligencias que se practiquen, t
 
 El servidor público que resulte responsable, podrá interponer el recurso de revisión ante el Tribunal de lo Contencioso Administrativo.
 
-### CAPÍTULO VIII. DE LA SUSPENSIÓN O REVOCACIÓN DEL MANDATO
+### CAPÍTULO VII. DE LAS INFRACCIONES Y SANCIONES
 
 #### SECCIÓN PRIMERA. DE LAS INFRACCIONES
 
@@ -4129,11 +4233,13 @@ VI.- El monto del beneficio obtenido y del daño económico.
 
 Para los efectos de esta Ley y del Código Penal, se computarán entre los bienes que adquieran los servidores públicos o con respecto de los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge o concubino, así como sus dependientes económicos directos, siempre que se presuma que provienen del servidor o funcionario público.
 
-### CAPÍTULO IX. DEL REGISTRO PATRIMONIAL
+### CAPÍTULO VIII. DE LA SUSPENSIÓN O REVOCACIÓN DEL MANDATO
 
 ###### Artículo 228.
 
 Al Congreso del Estado corresponde, con el voto de las dos terceras partes de sus integrantes, suspender o revocar el mandato a los integrantes del Cabildo o, declarar la desaparición de un Ayuntamiento. Las causas, los términos y las modalidades para la suspensión o revocación del mandato y la desaparición de un Ayuntamiento, se sujetarán a lo previsto en la ley reglamentaria de la fracción XL, del artículo 30 de la Constitución Política del Estado de Yucatán.
+
+### CAPÍTULO IX. DEL REGISTRO PATRIMONIAL
 
 ###### Artículo 229.
 
@@ -4656,3 +4762,35 @@ Artículo segundo. Las solicitudes de los Ayuntamientos que estén en trámite a
 Derogación expresa
 
 Artículo tercero. Se derogan todas las disposiciones de igual o menor rango que se opongan al presente decreto.
+
+D.O. 11 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 183/2026 POR EL QUE SE MODIFICA LA LEY DE GOBIERNO DE LOS MUNICIPIOS DEL ESTADO DE YUCATÁN, EN MATERIA DE FORTALECIMIENTO DE LA PREVENCIÓN A LA VIOLENCIA, PROTECCIÓN A LOS DERECHOS DE LAS INFANCIAS Y ADOLESCENCIAS, PARIDAD DE AUTORIDADES AUXILIARES Y MAYOR TRANSPARENCIA EN EL ÁMBITO MUNICIPAL”.]
+
+Entrada en vigor
+
+Artículo primero. Este decreto entrará en vigor, previa su publicación en el Diario Oficial del Gobierno del Estado Yucatán, el día 01 de enero del año 2027 respecto al uso de las plataformas digitales de los ayuntamientos.
+
+Se exceptúa de lo anterior lo relativo a las previsiones de paridad que deberán observarse en las elecciones de autoridades auxiliares; las unidades municipales de la Prevención Social de la Violencia y el Delito y Participación Ciudadana y; las unidades administrativas en materia de derechos de las niñas, niños y adolescentes, las cuales entrarán en vigor, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán, el día 01 de septiembre del año 2027.
+
+Funcionamiento de las plataformas digitales
+
+Artículo segundo. Las plataformas digitales de los ayuntamientos para publicitar las actas de sesiones de Cabildo deberán ponerse en funcionamiento de acuerdo con su capacidad presupuestal en un plazo no mayor a los 90 días naturales contado a partir del día siguiente al de su vigencia.
+
+Unidades municipales y administrativas
+
+Artículo tercero. Los ayuntamientos deberán poner en funcionamiento a las unidades municipales y administrativas dentro de un plazo que no podrá exceder de los 90 días naturales contados a partir del día siguiente al de su entrada en vigor.
+
+Sistemas Municipales de Protección y Unidades Administrativas de Primer Contacto
+
+Artículo cuarto. A la entrada en vigor del presente decreto los ayuntamientos contarán con un plazo que no podrá exceder de los 90 días naturales contado a partir del día siguiente al de su vigencia para la conformación e instalación de su Sistema Municipal de Protección, así como de la designación de la o el titular de la Unidad Administrativa Especializada de Primer Contacto, de acuerdo con lo previsto en la Ley de Derechos de Niñas, Niños y Adolescentes del Estado de Yucatán.
+
+Protocolo de actuación en materia de protección de derechos de niñas, niños y adolescentes
+
+Artículo quinto. La emisión del protocolo de actuación por parte de las Unidades Administrativas de Primer Contacto en los ayuntamientos deberá realizarse en un plazo que no deberá exceder de los 60 días naturales contado a partir de la conformación de dichas unidades especializadas.
+
+Para cumplir con lo anterior, las referidas unidades especializadas podrán solicitar el apoyo técnico especializado del Sistema Estatal para el Desarrollo Integral de la Familia en Yucatán, con la finalidad de homologar procedimientos en aras de garantizar la correcta aplicación de los protocolos de primer contacto.
+
+Cláusula derogatoria
+
+Artículo sexto. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a este decreto.
