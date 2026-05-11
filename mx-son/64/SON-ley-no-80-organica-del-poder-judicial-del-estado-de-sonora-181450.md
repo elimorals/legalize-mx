@@ -4,7 +4,7 @@ identifier: "SON-ley-no-80-organica-del-poder-judicial-del-estado-de-sonora-1814
 country: "mx"
 rank: "ley"
 publication_date: "2025-08-29"
-last_updated: "2025-08-29"
+last_updated: "2026-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=181450&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE MAYO DE 2026.
 
 Ley publicada en la Edición Especial del Boletín Oficial del Estado de Sonora, el viernes 29 de agosto de 2025.
 
@@ -677,11 +677,21 @@ IV. De los asuntos judiciales concernientes a otras acciones relativas al estado
 
 V. De las diligencias de consignación en todo lo relativo al Derecho Familiar;
 
-VI. De la diligencia de los exhortos, suplicatorias, requisitorias y despachos relacionados con el Derecho Familiar; y
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2026)</small>
 
-VII. De las cuestiones relativas a los asuntos que afecten en sus derechos a Niñas, Niños, Adolescentes y personas en situación de discapacidad;
+VI. De la diligencia de los exhortos, suplicatorias, requisitorias y despachos relacionados con el Derecho Familiar;
 
-VIII. Así como, en general, todas las cuestiones familiares que reclamen la intervención judicial.
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2026)</small>
+
+VII. De las cuestiones relativas a los asuntos que afecten en sus derechos de persona a las niñas, niños, adolescentes e incapacitados;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 11 DE MAYO DE 2026)</small>
+
+VIII. De las inscripciones, anotaciones y actualización del Registro Nacional de Obligaciones Alimentarias, de oficio o a petición de parte y dentro de su ámbito de competencia, de conformidad con las disposiciones jurídicas aplicables; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], B.O. 11 DE MAYO DE 2026)</small>
+
+IX. En general, todas las cuestiones familiares que reclamen la intervención judicial.
 
 ###### Artículo 62.
 
@@ -701,9 +711,17 @@ IV. Guardar reserva sobre los asuntos relacionados con su función, aún despué
 
 V. Atender oportuna y debidamente las peticiones dirigidas por las personas que intervienen en el procedimiento penal;
 
-VI. Abstenerse de presentar en público como culpables a las personas imputadas o acusadas; y
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2026)</small>
 
-VII. Los demás establecidos en la presente Ley, el Código Nacional de Procedimientos Penales y otras disposiciones legales aplicables.
+VI. Abstenerse de presentar en público como culpables a las personas imputadas o acusadas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 11 DE MAYO DE 2026)</small>
+
+VII. Conocer de las inscripciones, anotaciones y actualización del Registro Nacional de Obligaciones Alimentarias, de oficio o a petición de parte y dentro de su ámbito de competencia, de conformidad con las disposiciones jurídicas aplicables; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 11 DE MAYO DE 2026)</small>
+
+VIII. Los demás establecidos en la presente Ley, el Código Nacional de Procedimientos Penales y otras disposiciones legales aplicables.
 
 En los distritos judiciales donde no exista Juzgado de lo Penal, los Jueces Orales de lo Penal, podrán conocer de las causas penales iniciadas bajo el procedimiento establecido en el Código de Procedimientos Penales para el Estado de Sonora, con apoyo de la administración del Juzgado y el número de Secretarias o Secretarios de Acuerdos, así como demás personal que designe el Órgano de Administración para el desarrollo de esa función, de acuerdo a las necesidades del servicio y disponibilidad presupuestaria.
 
@@ -2418,3 +2436,17 @@ Comuníquese al Titular del Poder Ejecutivo para su sanción y publicación en e
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los veintinueve días del mes de agosto del año dos mil veinticinco.- GOBERNADOR DEL ESTADO.- DR. FRANCISCO ALFONSO DURAZO MONTAÑO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- LIC. ADOLFO SALAZAR RAZO.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 11 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 101, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SONORA Y DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+El Poder Judicial del Estado de Sonora contará con un plazo de 60 días naturales para emitir los Lineamientos para la Implementación y Funcionamiento del Registro Nacional de Obligaciones Alimentarias en el Estado de Sonora.
