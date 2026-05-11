@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-civil-para-el-estado-de-aguascalientes-95032"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-08"
-last_updated: "2025-12-08"
+last_updated: "2026-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95032&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 8 de julio de 2013.
 
@@ -469,9 +469,17 @@ XVII. Proponer la celebración de convenios en coordinación con la Federación 
 
 XVIII. Aprobar y evaluar el Programa Estatal de Protección Civil;
 
-XIX. Celebrar sesiones ordinarias cada cuatro meses, y extraordinarias cuando así se requiera, éstas serán convocadas por su Presidente o el Secretario Técnico; y
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2026)</small>
 
-XX. Las demás que sean congruentes con las disposiciones anteriores y que le atribuyan otras leyes, decretos, reglamentos y convenios.
+XIX. Celebrar sesiones ordinarias cada cuatro meses, y extraordinarias cuando así se requiera, éstas serán convocadas por su Presidente o el Secretario Técnico;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2026)</small>
+
+XX. Promover que la normativa en materia de protección civil contenga acciones afirmativas y considere los ajustes razonables, para identificar los riesgos de las personas con discapacidad; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE MAYO DE 2026)</small>
+
+XXI. Las demás que sean congruentes con las disposiciones anteriores y que le atribuyan otras leyes, decretos, reglamentos y convenios.
 
 ###### ARTÍCULO 24.
 
@@ -907,9 +915,11 @@ VII. La realización de acciones u omisiones que atenten al entorno en donde pre
 
 Los Programas Estatales y Municipales de Protección Civil, así como los subprogramas, programas institucionales, internos, específicos y operativos anuales que se deriven de los mismos, se expedirán y ejecutarán conforme a las normas generales vigentes en planeación y las disposiciones específicas de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 55.
 
-El Programa Estatal de Protección Civil integra el conjunto de políticas, estrategias y lineamientos que regulan las acciones de los sectores público, privado y social en materia de protección civil, aplicables a nivel estatal.
+El Programa Estatal de Protección Civil integra el conjunto de políticas, estrategias y lineamientos que regulan las acciones de los sectores público, privado y social en materia de protección civil, aplicables a nivel estatal, en este se establecerán de manera transversal, estrategias y acciones para personas con discapacidad, que por este hecho se puedan encontrar en mayor riesgo ante las situaciones de emergencia, desastre o disturbios que se presenten en el Estado. Para lo cual podrán crearse programas especiales de acuerdo con las normas oficiales vigentes en la materia.
 
 Los Programas Municipales integrarán las políticas, estrategias y lineamientos específicos de protección civil aplicables en el territorio de un municipio determinado en la Entidad.
 
@@ -1183,9 +1193,13 @@ El personal registrado que lleve a cabo prácticas contra incendios emitirá su 
 
 Las brigadas de Protección Civil estarán conformadas por el personal capacitado y adiestrado que labore en ellas, lo anterior conforme a las Normas Oficiales correspondientes y las demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 95.
 
-Todas las brigadas que conforman la Unidad Interna de Protección Civil en un inmueble, deberán de tomar cursos de acuerdo a la especialización de cada una de ellas, los cuales serán impartidos por las Coordinaciones de Protección Civil, el Departamento de Bomberos Estatal o Municipales, así como por capacitadores debidamente registrados ante la Coordinación.
+Todas las brigadas que conforman la Unidad Interna de Protección Civil en un inmueble, deberán de tomar cursos de acuerdo a la especialización de cada una de ellas, asimismo, dicha brigada será capacitada acerca de los diferentes tipos de discapacidad, sus características, las técnicas de apoyo, momento oportuno de Evacuación y medidas de alertamiento, los cuales serán impartidos por las Coordinaciones de Protección Civil, el Departamento de Bomberos Estatal o Municipales, así como por capacitadores debidamente registrados ante la Coordinación.
+
+En la elaboración de los Programas Internos, además de lo establecido en los Términos de Referencia y las Normas Técnicas, se tomarán en cuenta las medidas para que las personas con discapacidad sean capacitadas para su autoprotección.
 
 ###### ARTÍCULO 96.
 
@@ -1718,3 +1732,15 @@ PRIMERO.- El presente Decreto iniciará su vigencia al día siguiente al de su p
 SEGUNDO.- El Poder Ejecutivo del Estado dentro de un término de 90 días naturales posteriores al inicio de vigencia del presente Decreto realizará la adecuación del Programa Estatal de Protección Civil.
 
 TERCERO.- Los municipios dentro de un término de 90 días naturales posteriores al inicio de vigencia del presente Decreto, realizarán las adecuaciones reglamentarias correspondientes.
+
+P.O. 11 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 477.- SE REFORMA LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Quedan sin efecto todas aquellas disposiciones normativas y/o reglamentarias que se opongan al presente Decreto.
