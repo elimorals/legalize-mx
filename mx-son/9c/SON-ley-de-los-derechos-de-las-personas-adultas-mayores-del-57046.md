@@ -4,7 +4,7 @@ identifier: "SON-ley-de-los-derechos-de-las-personas-adultas-mayores-del-57046"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-07"
-last_updated: "2022-07-07"
+last_updated: "2026-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57046&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE JULIO DE 2022.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE MAYO DE 2026.
 
 Ley publicada en la Edición Especial 14 al Boletín Oficial del Estado de Sonora, el viernes 7 de septiembre de 2007.
 
@@ -43,9 +43,11 @@ LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE SONORA
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, B.O. 11 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 1.
 
-Esta ley es de orden público e interés social; tiene por objeto proteger y reconocer los derechos de las personas de sesenta años de edad en adelante, sin distinción alguna, para proporcionarles una mejor calidad de vida y su plena integración al desarrollo social, económico, político y cultural.
+Esta Ley es de orden público e interés social y tiene por objeto garantizar, respetar, defender y promover los derechos y el acceso a una vida digna de las personas adultas mayores, con prioridad en aquellas que se encuentren en situación de riesgo o vulnerabilidad.
 
 ###### ARTÍCULO 2.
 
@@ -107,9 +109,21 @@ III. La violencia patrimonial. Es cualquier acto u omisión que afecta la superv
 
 IV. La violencia económica. Es toda acción u omisión del agresor que afecta la supervivencia económica de la víctima. Se manifiesta a través de limitaciones encaminadas a controlar el ingreso de sus percepciones económicas, así como la percepción de un salario menor por igual trabajo, dentro de un mismo centro laboral;
 
-V. La violencia sexual. Es cualquier acto que degrada o daña el cuerpo y/o sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder, y
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2026)</small>
 
-VI. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las Personas Adultas Mayores.
+V. La violencia sexual. Es cualquier acto que degrada o daña el cuerpo y/o sexualidad de la víctima y que por tanto atenta contra su libertad, dignidad e integridad física. Es una expresión de abuso de poder;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 11 DE MAYO DE 2026)</small>
+
+VI. La violencia en la comunidad. Es cualquier acto individual o colectivo que transgreda derechos fundamentales de las personas adultas mayores y propician su denigración, discriminación, marginación o exclusión en el ámbito público;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+VII. La violencia institucional. Es cualquier acto u omisión de las y los servidores públicos de cualquier orden de gobierno que discriminen o tengan como fin dilatar, obstaculizar o impedir el goce y ejercicio de los derechos humanos de las personas adultas mayores, así como la marginación mediante su ingreso en instituciones o mediante la aprobación y aplicación de determinadas políticas sociales y económicas, que conduzcan a la desigual distribución de los recursos y a la discriminación en provisión y prestación de servicios; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 11 DE MAYO DE 2026)</small>
+
+VIII. Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las Personas Adultas Mayores.
 
 ### CAPÍTULO II. DE LOS PRINCIPIOS
 
@@ -151,25 +165,73 @@ g).- Gozar de oportunidades para mejorar progresivamente las capacidades que les
 
 h).- Vivir en entornos seguros, dignos y decorosos, que cumplan con sus necesidades y requerimiento y en donde ejerzan libremente sus derechos.
 
-II.- A la certeza jurídica y a la vida en familia, que incluye:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 11 DE MAYO DE 2026)</small>
 
-a).- Vivir en el seno de una familia, o mantener relaciones personales y contacto directo con ella, aún en el caso de estar separados, salvo si ello es contrario a sus intereses;
+II.- A la certeza jurídica, que incluye:
 
-b).- Expresar su opinión libremente, conocer sus derechos y participar en el ámbito familiar y comunitario, así como en todo procedimiento administrativo o judicial, que afecte sus esferas personal, familiar y social;
+> <small>(REFORMADO, B.O. 11 DE MAYO DE 2026)</small>
 
-c).- Recibir un trato digno y apropiado en cualquier procedimiento judicial o administrativo que los involucre;
+a).- Procurar el acceso a la justicia a través de la aplicación de la ley, a fin de garantizar el pleno ejercicio de los derechos de las personas adultas mayores;
 
-> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, B.O. 11 DE MAYO DE 2026)</small>
 
-d).- Recibir el apoyo del gobierno estatal y de los municipales, de acuerdo a sus respectivas competencias, en lo relativo al ejercicio y respeto de sus derechos, a través de las instituciones preestablecidas o las creadas para tal efecto;
+b).- Las autoridades que substancien procedimientos de carácter jurisdiccional o administrativo o que realicen cualquier acto de autoridad en los que estén relacionadas personas adultas mayores, deberán garantizar su participación efectiva a fin de que sean escuchadas para la determinación de sus derechos y obligaciones;
 
-> <small>(REFORMADO, B.O. 9 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO [N. DE E. CON SUS NUMERALES], B.O. 11 DE MAYO DE 2026)</small>
 
-e).- Contar con asesoría jurídica gratuita y con un representante legal, cuando lo considere necesario, poniendo especial cuidado en la protección de su patrimonio personal y familiar; y
+c).- Tomando en consideración la edad, estado de salud, capacidad cognitiva y demás circunstancias particulares de la persona adulta mayor, se adoptarán las medidas y ajustes que resulten pertinentes para garantizar un tratamiento preferencial y diferenciado, de manera enunciativa más no limitativa, tales medidas podrán consistir en:
 
-> <small>(ADICIONADO, B.O. 9 DE JUNIO DE 2014)</small>
+1).- Implementación de un sistema de apoyo y salvaguarda para la toma de decisiones, cuando se adviertan o presuman limitaciones cognitivas o enfermedades que alteren su capacidad de comprensión y entendimiento de su participación en el proceso, sin perjuicio de que se ordene la práctica de exámenes periciales para confirmar tales situaciones;
 
-f).- Contar con un descuento del 50% en todas las contribuciones y derechos a favor del Estado, y un descuento del 100% sobre recargos.
+2).- Acompañamiento de quién ejerza sobre la persona adulta mayor la tutela durante la substanciación de todo el procedimiento, salvo disposición judicial en contrario;
+
+3).- Ponderar, antes de citar a alguna audiencia, la pertinencia de la misma, considerando su condición específica;
+
+4).- Brindar información clara, sencilla y comprensible para lograr que la persona adulta mayor comprenda el escenario en que participa, pueda expresarse libremente, se desarrolle de manera natural, espontánea y libre de toda duda o temor;
+
+5).- Proporcionar y facilitar el uso de lenguaje, expresiones, formatos y material de apoyo accesible, de fácil comprensión y lectura para personas adultas mayores que presenten algún trastorno, limitación o discapacidad, contando con la asistencia de una persona traductora o intérprete, cuando resulte necesario;
+
+6).- Facilitar las condiciones necesarias para que su comparecencia no tenga como consecuencia una revictimización y que la experiencia sea lo menos perjudicial posible;
+
+7).- Proporcionar asistencia de profesionales especializados cuando la naturaleza del procedimiento lo requiera;
+
+8).- Implementar mecanismos de apoyo al presentar una denuncia, participar en una investigación o en un proceso judicial;
+
+9).- Las demás que determinen las leyes y disposiciones legales aplicables;
+
+> <small>(REFORMADO, B.O. 11 DE MAYO DE 2026)</small>
+
+d).- Cuando existan indicios o expresiones evidentes en la persona adulta mayor que hagan presumir fundadamente que no se encuentra en condiciones de entender o comprender el motivo de su participación en el proceso, se le podrán practicar el examen correspondiente para evaluar las limitaciones cognitivas o enfermedades que alteren su capacidad de comprensión y entendimiento para evitar su ociosa intervención;
+
+> <small>(REFORMADO, B.O. 11 DE MAYO DE 2026)</small>
+
+e).- La edad no podrá ser causa de justificación para restringir o privar de la libertad al adulto mayor, sino únicamente en razón de un proceso legal seguido ante autoridad competente, en el que se le escuche con las debidas garantías y se resuelva tal determinación dentro de un plazo razonable;
+
+> <small>(REFORMADO, B.O. 11 DE MAYO DE 2026)</small>
+
+f).- Cuando resulte necesario el internamiento de una persona mayor en centros de detención o se apliquen medidas de privación de libertad judicial o administrativa, deberá tomarse en consideración que ello no ponga en riesgo su salud o la vida, en cuyo caso habrán de tomarse las previsiones necesarias para la protección de su integridad;
+
+> <small>(ADICIONADO, B.O. 11 DE MAYO DE 2026)</small>
+
+g).- Las autoridades garantizarán que las medidas de privación o restricción de la libertad de las personas adultas mayores se apliquen de conformidad con la ley, y se asegurará que tengan en igualdad de circunstancias, acceso a las garantías y a las que sus condiciones físicas y cognitivas que su estado general de salud demanden, así como su inclusión a programas especiales, privilegiando la aplicación de medidas alternativas de acuerdo a las particulares del caso.
+
+(ADICIONADO [N. DE E. CON SUS NUMERALES), B.O. 11 DE MAYO DE 2026)
+
+h).- Bajo un enfoque diferencial, las autoridades de investigación y judiciales que tienen que ver con la procuración y administración de justicia en relación con persona adulta mayor, observarán las siguientes consideraciones:
+
+1).- Gozarán de la presunción de ser persona adulta mayor, salvo prueba en contrario;
+
+2).- Dar mayor celeridad en la realización de las diligencias que se ordenen en los procesos penales;
+
+3).- Monitoreo constante de sus niveles de salud física y mental con auxilio de las autoridades correspondientes;
+
+4).- Trato preferencial en los horarios para la realización de las diligencias del caso;
+
+5).- Analizar con detenimiento si su edad, condición física o mental fue determinante para ubicarlo como víctima de conductas que se investigan;
+
+6).- En caso de dictarse sentencia absolutoria, velar por su inmediata libertad, corroborando previamente sus condiciones alimentarias y de salud, así como que, al salir, no se les exponga a las inclemencias del tiempo o a la soledad de su retiro del centro de reclusión en horarios impropios para la facilidad de traslado;
+
+7).- Las demás que establezcan los ordenamientos jurídicos aplicables, los tratados, convenciones, protocolos y declaraciones internacionales, así como la jurisprudencia local e internacional, de los que México sea parte.
 
 III.- A la salud y alimentación, que comprende:
 
@@ -189,9 +251,17 @@ c).- Recibir información sobre las instituciones que prestan servicios para su 
 
 d).- Recibir educación conforme lo señala el artículo tercero de la Constitución Política de los Estados Unidos Mexicanos;
 
-e).- Participar en la vida cívica, cultural, deportiva y recreativa de su comunidad; y
+> <small>(REFORMADO, B.O. 11 DE MAYO DE 2026)</small>
 
-f).- Formar parte de los diversos órganos de representación y consulta ciudadana.
+e).- Participar en la vida cívica, cultural, deportiva y recreativa de su comunidad;
+
+> <small>(REFORMADO, B.O. 11 DE MAYO DE 2026)</small>
+
+f).- Formar parte de los diversos órganos de representación y consulta ciudadana; y
+
+> <small>(ADICIONADO, B.O. 11 DE MAYO DE 2026)</small>
+
+g).- Las instituciones educativas, públicas y privadas, deberán incluir programas informativos sobre los derechos de las personas adultas mayores.
 
 V.- Al trabajo, que comprende:
 
@@ -201,15 +271,39 @@ a).- Gozar de oportunidades de acceso al trabajo o de otras posibilidades de obt
 
 b).- Acceder a oportunidades de trabajo acordes a sus capacidades físicas, aptitudes y habilidades, que se encuentren en las bolsas de trabajo que específicamente deberán integrar, para estos efectos, el Poder Ejecutivo Estatal y los ayuntamientos del Estado.
 
-VI.- A la asistencia social, que incluye:
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 11 DE MAYO DE 2026)</small>
+
+VI.- A la asistencia social, que incluye las siguientes acciones afirmativas:
 
 a).- Ser sujeto de programas de asistencia social cuando se encuentren en situación de riesgo, desamparo, discapacidad o pérdida de sus medios de subsistencia que garanticen su atención integral;
 
-b).- Tener acceso a los programas para contar con una vivienda digna y adaptada a sus necesidades; y
+> <small>(REFORMADO, B.O. 11 DE MAYO DE 2026)</small>
 
-c).- Tener acceso y facilidades de desplazamiento en los espacios laborales, comerciales, oficiales, recreativos, culturales y de transporte, en los términos de las disposiciones legales y reglamentarias de la materia.
+b).- Tener acceso a los programas para contar con una vivienda digna y adaptada a sus necesidades;
+
+> <small>(REFORMADO, B.O. 11 DE MAYO DE 2026)</small>
+
+c).- Tener acceso y facilidades de desplazamiento en los espacios laborales, comerciales, oficiales, recreativos, culturales y de transporte, en los términos de las disposiciones legales y reglamentarias de la materia; y
+
+> <small>(ADICIONADO, B.O. 11 DE MAYO DE 2026)</small>
+
+d).- Instrumentación de programas especiales de descuentos y exenciones en el pago de contribuciones y servicios; para la obtención de créditos para vivienda y préstamos personales; de apoyos económicos.
 
 VII.- Disfrutar plenamente de los demás derechos consignados en esta ley y otras disposiciones legales y reglamentarias aplicables.
+
+(ADICIONADA [N. DE E. CON SUS NUMERALES), B.O. 11 DE MAYO DE 2026)
+
+VIII.- A la vida en familia:
+
+a).- Vivir en el seno de una familia y mantener relaciones personales y contacto directo con ella, aún en el caso de estar separados, salvo si ello es contrario a sus intereses;
+
+b).- Fomentar la convivencia familiar donde la persona adulta mayor participe activamente, satisfaciendo sus necesidades afectivas, de protección y apoyo;
+
+c).- Expresar su opinión libremente, conocer sus derechos y participar en el ámbito familiar y comunitario;
+
+d).- Llevar una vida armónica dentro del seno familiar, libre de cualquier tipo de violencia, en condiciones que le ofrezcan estabilidad emocional y adecuado desarrollo; y
+
+e).- Las demás que coadyuven para asegurar su pleno desarrollo y/o desenvolvimiento en el seno familiar.
 
 ### CAPÍTULO IV. DE LAS OBLIGACIONES DE LA FAMILIA
 
@@ -359,13 +453,47 @@ VII.- Coordinar las acciones y promover medidas de financiamiento para la creaci
 
 VIII.- Impulsar el otorgamiento de reconocimientos y estímulos a las personas morales que estén conformadas en su mayoría por adultos mayores.
 
-> <small>(REFORMADA, B.O. 9 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2026)</small>
 
-IX.- Difundir los contenidos, programas y servicios establecidos en la presente ley y demás disposiciones; y
+IX.- Difundir los contenidos, programas y servicios establecidos en la presente ley y demás disposiciones;
 
-> <small>(ADICIONADA, B.O. 9 DE JUNIO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
 
-X.- Las demás que le confieran otros ordenamientos jurídicos.
+X.- Promover y, en su caso, brindar asesoría jurídica a las personas adultas mayores, para acceder a los beneficios de la figura jurídica denominada hipoteca inversa, prevista en el Capítulo III Bis, De la Hipoteca Inversa, del Código Civil del Estado de Sonora;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XI.- Establecer programas en el plan estatal de desarrollo, en materia de atención a las personas adultas mayores;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XII.- Desarrollar en forma coordinada con la federación y los municipios, programas de apoyo financiero y social a favor del adulto mayor;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XIII.- Fomentar la participación y apoyar la actividad de las organizaciones privadas cuyas acciones vayan orientadas a favorecer a los adultos mayores, a través de apoyos técnicos, humanos, laborales y de servicio;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XIV.- Garantizar el acceso a la impartición y administración de justicia con enfoque preferencial y diferenciado, con perspectiva de género y salvaguarda de derechos humanos;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XV.- Promover las adecuaciones legislativas para proteger a este segmento poblacional;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XVI.- Promover ante la autoridad judicial la formulación y aplicación de protocolos de actuación para quienes imparten justicia en casos que involucren a personas adultas mayores;
+
+Dichos protocolos tendrán la finalidad de servir de apoyo a quienes participan como instructores, investigadores, peritos, auxiliares judiciales y jueces, en el que se establecerán criterios mínimos de aplicación durante el desarrollo de procedimientos jurisdiccionales, a fin de que se actúe conforme a un enfoque de derechos diferenciados a favor de las personas adultas mayores;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XVII.- impulsar ante las autoridades jurisdiccionales en los términos de su propia ley orgánica y en el ámbito de sus atribuciones, la procuración de la especialización de los funcionarios judiciales, quienes promoverán la investigación jurídica, el diagnóstico y la formulación de proyectos de adecuación de los cuerpos normativos tendientes a agilizar trámites, simplificar procedimientos, facilitar e impartir justicia con enfoque diferenciado y preferencial hacia este grupo etario; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 11 DE MAYO DE 2026)</small>
+
+XVIII.- Las demás que le confieran otros ordenamientos jurídicos.
 
 ###### ARTÍCULO 14.
 
@@ -373,9 +501,17 @@ A la Secretaría de Gobierno le corresponde:
 
 I.- Proporcionar a los adultos mayores asesoría jurídica gratuita en los procedimientos administrativos o judiciales en que sean parte, atendiendo preferentemente aquellos que se refieren a la seguridad de su patrimonio, en materia de alimentos y testamentaria;
 
-II.- Implementar, en coordinación con las instancias competentes, las medidas de seguridad pública y de protección civil en los centros educativos, culturales y recreativos, así como acciones preventivas con la participación de la comunidad; y
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2026)</small>
 
-III.- Las demás señaladas en esta ley y otras disposiciones legales aplicables.
+II.- Implementar, en coordinación con las instancias competentes, las medidas de seguridad pública y de protección civil en los centros educativos, culturales y recreativos, así como acciones preventivas con la participación de la comunidad;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 11 DE MAYO DE 2026)</small>
+
+III.- Realizar campañas a nivel estatal que fomenten la regularización del estado civil de las personas adultas mayores, en especial el registro de nacimiento para asegurar su incorporación a servicios y programas sociales; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 11 DE MAYO DE 2026)</small>
+
+IV.- Las demás señaladas en esta ley y otras disposiciones legales aplicables.
 
 ###### ARTÍCULO 15.
 
@@ -541,9 +677,9 @@ IV.- Promover programas de sensibilización, con el objeto de favorecer la convi
 
 V.- Impulsar y promover el reconocimiento y ejercicio de los derechos de los adultos mayores;
 
-> <small>(REFORMADA, B.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2026)</small>
 
-VI.- Coadyuvar con la Procuraduría General de Justicia del Estado o Fiscalía General del Estado, en la atención y tratamiento de los adultos mayores víctimas de cualquier delito;
+VI.- Coadyuvar con la Fiscalía General de Justicia del Estado en la atención y tratamiento de las personas adultas mayores víctimas de cualquier delito;
 
 VII.- Promover, mediante la vía conciliatoria, la solución a la problemática familiar, cuando no se trate de delitos;
 
@@ -553,9 +689,43 @@ IX.- Otorgar apoyo, asesoría y supervisión a grupos y organismos del sector pr
 
 X.- Establecer, en coordinación con la Secretaría de Desarrollo Social, las estrategias para la procuración de apoyos subsidiarios en materia de alimentos para adultos mayores abandonados de escasos recursos;
 
-XI.- Brindar orientación a las familias de los adultos mayores, para que los atiendan y satisfagan sus necesidades en forma adecuada; y
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2026)</small>
 
-XII.- Las demás señaladas en esta ley y otras disposiciones legales aplicables.
+XI.- Brindar orientación a las familias de los adultos mayores, para que los atiendan y satisfagan sus necesidades en forma adecuada;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 11 DE MAYO DE 2026)</small>
+
+XII.- Expedir y, en su caso, revocar el certificado de funcionamiento, según corresponda en los términos de esta ley;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XIII.- Evaluar periódicamente la política estatal para la operación de albergues;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XIV.- Elaborar investigaciones y estadísticas con motivo de la operación de albergues;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XV.- Llevar a cabo visitas de verificación e inspección a todos los albergues para constatar que se cumpla con el reglamento de operación y demás normatividad aplicable.
+
+Las visitas de inspección deberán realizarse mediante orden escrita debidamente fundada y motivada, levantando acta circunstanciada, en la que se harán constar los hechos observados y las manifestaciones del visitado.
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XVI.- Colaborar en la integración del registro estatal de albergues;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XVII.- Certificar la bitácora en las que los albergues deberán registrar ingresos y egresos, salidas temporales y cualquier eventualidad relativa a los residentes;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XVIII.- Elaborar el reglamento de operación y las normas técnicas que rigen la expedición del certificado de funcionamiento en sus respectivos ámbitos de su competencia; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 11 DE MAYO DE 2026)</small>
+
+XIX.- Las demás señaladas en esta ley y otras disposiciones legales aplicables.
 
 ###### ARTÍCULO 25.
 
@@ -959,11 +1129,13 @@ La Procuraduría de la Defensa del Adulto Mayor podrá determinar que no será n
 
 Asimismo, se negará dicha conciliación o mediación cuando por las circunstancias señaladas en el párrafo anterior se presuma que el adulto mayor pueda entrar en un estado de alienación mental al ser confrontado con su agresor. En cumplimiento al presente artículo, la Procuraduría de la Defensa del Adulto Mayor deberá velar por el interés superior del adulto mayor, bajo su más estricta responsabilidad, en dichas confrontaciones de manera presencial entre el adulto mayor y el señalado como agresor.
 
-> <small>(REFORMADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 11 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 53.
 
-Corresponderá a la Procuraduría de la Defensa del Adulto Mayor, realizar las investigaciones que estén dirigidas a conocer de las conductas de discriminación, abandono, desamparo, marginación, abuso, explotación y violencia cometidas en contra de adultos mayores, ejecutando las medidas necesarias para su adecuada protección y podrán sancionarse administrativamente por las autoridades que conozcan de los procedimientos de conciliación, con amonestación, multa de uno a ciento ochenta Unidades de Medida y Actualización, trabajo a favor de la comunidad y con arresto hasta por treinta y seis horas, en concordancia con lo dispuesto en el artículo 53 BIS 14 de la presente ley.
+Corresponderá a la Procuraduría de la Defensa del Adulto Mayor, realizar las investigaciones que estén dirigidas a conocer de las conductas de discriminación, abandono, desamparo, marginación, abuso, explotación y violencia cometidas en contra de adultos mayores, ejecutando las medidas necesarias para su adecuada protección y podrán sancionarse administrativamente por las autoridades que conozcan de los procedimientos de conciliación, con amonestación, multa de uno a ciento ochenta Unidades de Medida y Actualización, trabajo a favor de la comunidad y con arresto hasta por treinta y seis horas, suspensión temporal del servicio que ofrezca un establecimiento residencial o del cuidado de personas adultos mayores, en concordancia con lo dispuesto en el artículo 53 BIS 14 de la presente ley.
+
+> <small>(REFORMADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
 
 Asimismo, cuando derivado de las investigaciones la Procuraduría de la Defensa del Adulto Mayor advierta que puede existir la comisión de un delito en contra de un adulto mayor, formulará denuncia ante el Ministerio Público para que se investigue la conducta que pueda ser constitutiva de delito.
 
@@ -1055,9 +1227,105 @@ V.- Llevar el seguimiento, evolución y evaluación de los casos atendidos;
 
 VI.- Llevar un expediente personal minucioso;
 
-VII.- Expedir copia del expediente en caso de que sea solicitado por sus familiares o institución que por cualquier causa continúe su atención, con objeto de darle seguimiento a su cuidado; y
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2026)</small>
 
-VIII.- Registrar los nombres, domicilios, números telefónicos y lugares de trabajo de sus familiares.
+VII.- Expedir copia del expediente en caso de que sea solicitado por sus familiares o institución que por cualquier causa continúe su atención, con objeto de darle seguimiento a su cuidado;
+
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2026)</small>
+
+VIII.- Registrar los nombres, domicilios, números telefónicos y lugares de trabajo de sus familiares;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+IX.- Cumplir con los requisitos establecidos por esta ley, para obtener el aviso de funcionamiento y formar parte del registro de las mismas;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+X.- Llevar un registro de las personas adultas mayores ingresadas, egresadas y mantenerlo actualizado. Deberá remitirse una copia del registro a la procuraduría de la defensa del adulto mayor;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XI.- Se elaborará una bitácora donde se consigne las salidas y retornos programados en razón de actividades familiares, sanitarias, deportivas, culturales, formativas o de recreación y asistencia médica;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XII.- Privilegiar en todo momento el derecho de las personas adultas mayores a vivir en familia. En tal sentido, permitirán y promoverán que sus residentes estén en contacto con sus familiares y reciban visitas de éstos;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XIII.- Promover el restablecimiento y la preservación de los vínculos familiares de las personas adultas mayores, vigilando que éstos no resulten en su perjuicio;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XIV.- Contar con las instalaciones y el personal adecuado para garantizar la seguridad integral de las personas adultas mayores ingresadas;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XV.- Tener en un lugar visible en la recepción de las instalaciones de los albergues, copia del documento que acredite el aviso de funcionamiento respectivo y el aviso de responsable sanitario;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XVI.- Contar con un reglamento interno, autorizado por la procuraduría de la defensa del adulto mayor;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XVII.- Facilitar las tareas de vigilancia, inspección y protección de las personas adultas mayores promovidos por la procuraduría y autoridades competentes;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XVIII.- Informar inmediatamente a la autoridad correspondiente, cuando tengan conocimiento de que peligre la integridad física, psicológica o la seguridad jurídica de alguna persona adulta mayor;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XIX.- Contar con asesoría profesional en materia psicológica, de sanidad, de salud y cuidados personales y de trabajo social;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XX.- Proporcionar a las personas adultas mayores ingresadas la protección, atención y cuidado que sean necesarios para su bienestar;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XXI.- Proporcionar a las personas adultas mayores ingresadas actividades recreativas, culturales y deportivas, así como programas de integración familiar o social;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XXII.- Procurar que se proporcione a las personas adultas mayores ingresadas el acceso y capacitación a las tecnologías de la información y comunicación;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XXIII.- Proporcionar atención médica inmediata a las personas adultas mayores en cumplimiento a las normas oficiales mexicanas en materia de salud;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XXIV.- Coadyuvar con los familiares y/o red de soporte para que las personas adultas mayores cuenten con asistencia médica mayor;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XXV.- Cumplir con las observaciones que le imponga la secretaría de salud, la procuraduría de la defensa del adulto mayor y en su caso la dirección de protección civil y/o cualquier autoridad competente;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XXVI.- Cumplir con los indicadores de calidad en el servicio, aprobados por la procuraduría de la defensa del adulto mayor;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XXVII.- Preparar y ofrecer alimentos en buen estado, adecuados para la dieta o de alto valor nutrimental para los residentes;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XXVIII.- Cumplir con las medidas de salud y atención médica en los términos que establezca la normatividad aplicable;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XXIX.- Cumplir con lo previsto en el reglamento interior de operación;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XXX.- Abstenerse de realizar cualquier actividad que ponga en riesgo la vida, la integridad física o psicológica de cualquier residente; y
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XXXI.- Las demás obligaciones que éste u otros ordenamientos legales les establezcan.
 
 > <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
 
@@ -1093,9 +1361,129 @@ VIII.- Obstaculizar la investigación y seguimiento de los asuntos planteados a 
 
 IX.- Negar o impedir a las personas adultas mayores el acceso a los medios de subsistencia establecidos en esta ley;
 
-X.- Impedir a las personas adultas mayores el libre ejercicio de sus derechos civiles y políticos; y
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2026)</small>
 
-XI.- En general, cualquier violación o infracción a las disposiciones de esta ley o de otras leyes relacionadas con la protección a las personas mayores.
+X.- Impedir a las personas adultas mayores el libre ejercicio de sus derechos civiles y políticos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 11 DE MAYO DE 2026)</small>
+
+XI.- Negar, sin causa justificada, apoyo o asistencia a personas adultas mayores en casos de emergencia;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XII.- Negar a las personas adultas mayores el acceso a servicios urgentes de salud;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XIII.- Cualquier acción u omisión que implique limitación, negación o violación al ejercicio de los derechos consagrados en la presente ley;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XIV.- Negar el acceso preferencial y trato diferenciado a personas mayores durante el ejercicio del servicio público;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XV.- hacer uso inadecuado de espacios o prerrogativas dispuestas a favor de la persona mayor;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XVI.- La existencia de violencia en cualquiera de sus formas, maltrato físico, psicológico, emocional, económico y sexual o cuando las personas encargadas de sus cuidados no ofrezcan la debida atención o asistencia sin que exista justa causa, realizado dentro de un establecimiento residencial o de cuidado de personas adultas mayores;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XVII.- Incumplir con los requisitos establecidos por esta ley, para obtener el aviso de funcionamiento del albergue y formar parte del registro de las mismas;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XVIII.- No llevar a cabo un registro de las personas adultas mayores ingresadas y egresadas al albergue y mantenerlo actualizado. Una copia del registro deberá remitirse a la procuraduría de la defensa del adulto mayor;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XIX.- No elaborar una bitácora donde se consigne las salidas y retornos programados en razón de actividades familiares, sanitarias, deportivas, culturales, formativas o de recreación del albergue;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XX.- Dejar de privilegiar en todo momento el derecho de las personas adultas mayores a vivir en familia en tal sentido, permitirán y promoverán que sus residentes estén en contacto con sus familiares y reciban visitas de éstos dentro del albergue;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XXI.- No promover el restablecimiento y la preservación de los vínculos familiares de las personas adultas mayores, vigilando que estos no resulten en su perjuicio;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XXII.- No contar con las instalaciones y el personal adecuado para garantizar la seguridad integral de las personas adultas mayores ingresadas al albergue;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XXIII.- No tener en un lugar visible en la recepción de las instalaciones de los albergues, copia del documento que acredite el aviso de funcionamiento respectivo y el aviso de responsable sanitario;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XXIV.- No contar con un reglamento interno, autorizado por la procuraduría de la defensa del adulto mayor;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XXV.- No facilitar las tareas de vigilancia, inspección y protección de las personas adultas mayores promovidos por la procuraduría y autoridades competentes;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XXVI.- No informar inmediatamente a la autoridad correspondiente, cuando tengan conocimiento que peligre la integridad física, psicológica o la seguridad jurídica de alguna persona adulta mayor;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XXVII.- No contar con asesoría profesional en materia psicológica, de sanidad, de salud y cuidados personales y de trabajo social;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XXVIII.- No proporcionar a las personas adultas mayores ingresadas la protección, atención y cuidado que sean necesarios para su bienestar;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XXIX.- No proporcionar a las personas adultas mayores ingresadas actividades recreativas, culturales y deportivas, así como programas de integración familiar o social;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XXX.- No proporcionar a las personas adultas mayores ingresadas el acceso y capacitación a las tecnologías de la información y comunicación;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XXXI.- No proporcionar atención médica inmediata a las personas adultas mayores en cumplimiento a las normas oficiales mexicanas en materia de salud del albergue;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XXXII.- No coadyuvar con los familiares y/o red de soporte para que las personas adultas mayores cuenten con asistencia médica mayor dentro del albergue;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XXXIII.- Incumplimiento con las observaciones que le imponga la secretaría de salud, la procuraduría de la defensa del adulto mayor y en su caso la dirección de protección civil y/o cualquier autoridad competente;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XXXIV.- Incumplimiento de los indicadores de calidad en el servicio, aprobados por la procuraduría de la defensa del adulto mayor;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XXXV.- No preparar y ofrecer alimentos en buen estado, adecuados para la dieta o de alto valor nutrimental para los residentes del albergue;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XXXVI.- Incumplir con las medidas de salud y atención médica en los términos que establezca la normatividad aplicable;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XXXVII.- Incumplir con lo previsto en el reglamento interior de operación;
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+XXXVIII.- Poner en riesgo la vida, la integridad física o psicológica de cualquier residente; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 11 DE MAYO DE 2026)</small>
+
+XXXIX.- En general, cualquier violación o infracción a las disposiciones de esta ley o de otras leyes relacionadas con la protección a las personas mayores.
+
+> <small>(ADICIONADO, B.O. 11 DE MAYO DE 2026)</small>
+
+Las infracciones antes señaladas, aplicarán tanto a servidores públicos, así como para particulares.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 22 DE DICIEMBRE DE 2016)</small>
 
@@ -1160,6 +1548,22 @@ ARTÍCULO 53 BIS 22.- Independientemente de las sanciones que correspondan, ya s
 I.- La observación por escrito acerca de la violación o amenaza contra el derecho de que se trate en el caso particular, citándolos para ser informados debidamente sobre los derechos de las personas adultas en plenitud; y
 
 II.- Conminarlos para que cese de inmediato la situación que viola o pone en peligro el derecho en cuestión, cuando la persona llamada no se presente en el plazo conferido para tal efecto o bien, cuando se haya presentado pero continúe en la misma situación perjudicial a la persona adulta mayor.
+
+> <small>(ADICIONADO, B.O. 11 DE MAYO DE 2026)</small>
+
+ARTÍCULO 53 BIS 22-A.- Cuando las infracciones sean cometidas por personal de un albergue, en atención a la gravedad de las mismas se sancionará por la Procuraduría de la Defensa del Adulto Mayor con:
+
+I.- Multa de 1 a 180 de Unidades de Medida y Actualización, tratándose del incumplimiento de las fracciones XVII, XVIII, XIX, XX, XXI, XXV, XXVI, XXVII, XXVIII, XXIX, XXX y XXXII del artículo 53 BIS 13;
+
+II.- Cierre temporal, tratándose de las fracciones XXII, XXIII, XXIV, XXX, XXXI, y XXXIV del artículo 53 BIS 13; y
+
+III.- Cierre definitivo, sólo procederá en casos de reincidencia grave o riesgo inminente para la vida o integridad de las personas adultas mayores.
+
+Para la imposición de sanciones se considerará la gravedad de la infracción, la reincidencia, la intencionalidad, el daño causado y la capacidad económica del infractor.
+
+> <small>(ADICIONADO, B.O. 11 DE MAYO DE 2026)</small>
+
+ARTÍCULO 53 BIS 22-B.- Contra las resoluciones emitidas por la Procuraduría procederá el recurso de revisión ante la autoridad superior jerárquica dentro del plazo de quince días hábiles, contados a partir de su notificación.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 22 DE DICIEMBRE DE 2016)</small>
 
@@ -1371,13 +1775,17 @@ VIII.- Concertar con la Federación, Estados y Municipios previa aprobación del
 
 IX.- Propiciar la colaboración y participación de instituciones públicas y privadas en acciones para la atención a las personas adultas mayores en situación de riesgo y desamparo, así como defender y hacer respetar los derechos de los adultos mayores en situación vulnerable;
 
-> <small>(ADICIONADA, B.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2026)</small>
 
-X.- Las demás que le determine el Titular del Poder Ejecutivo del Estado, el Director General del Sistema para el Desarrollo Integral de la Familia, el Reglamento Interior y las disposiciones legales aplicables; y
+X.- Las demás que le determine el Titular del Poder Ejecutivo del Estado, el Director General del Sistema para el Desarrollo Integral de la Familia, el Reglamento Interior y las disposiciones legales aplicables;
 
-> <small>(ADICIONADA, B.O. 22 DE DICIEMBRE DE 2016)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 11 DE MAYO DE 2026)</small>
 
-XI.- En general, realizar todos aquellos actos que sean necesarios para el funcionamiento de la Procuraduría de la Defensa del Adulto Mayor.
+XI.- Aplicar las sanciones a que se refieren los artículos 53 BIS 13, 53 BIS 14 y 53 BIS 22-A; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 11 DE MAYO DE 2026)</small>
+
+XII.- En general, realizar todos aquellos actos que sean necesarios para el funcionamiento de la Procuraduría de la Defensa del Adulto Mayor.
 
 > <small>(ADICIONADO, B.O. 22 DE DICIEMBRE DE 2016)</small>
 
@@ -1483,7 +1891,13 @@ I. Apercibimiento;
 
 II. Auxilio de la fuerza pública;
 
-III. Cateo y arresto hasta por 36 horas.
+> <small>(REFORMADA, B.O. 11 DE MAYO DE 2026)</small>
+
+III. Cateo y arresto hasta por 36 horas; y
+
+> <small>(ADICIONADA, B.O. 11 DE MAYO DE 2026)</small>
+
+IV. Multa de 1 a 180 Unidades de Medida y Actualización.
 
 ## TRANSITORIOS
 
@@ -1590,3 +2004,19 @@ B.O. 7 DE JULIO DE 2022.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 11 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 98 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Procuraduría tendrá un plazo de 120 días a partir de la publicación del presente Decreto, para realizar las adecuaciones necesarias a su Reglamento Interior.
+
+###### ARTÍCULO TERCERO.
+
+La implementación de las disposiciones contenidas en el presente Decreto, se realizará de manera gradual conforme a la disponibilidad presupuestaria a fin de garantizar su viabilidad financiera.
