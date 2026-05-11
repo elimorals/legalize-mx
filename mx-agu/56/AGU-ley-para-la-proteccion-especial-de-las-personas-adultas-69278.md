@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-la-proteccion-especial-de-las-personas-adultas-69278"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-13"
-last_updated: "2025-12-08"
+last_updated: "2026-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69278&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY PARA LA PROTECCIÓN ESPECIAL DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 13 de julio de 2009.
 
@@ -355,17 +355,13 @@ G) Contar con una cartilla médica única para el control de su salud;
 
 H) A recibir cuidados paliativos, entendiendo por estos la atención y cuidado activo, integral e interdisciplinario de pacientes cuya enfermedad no responde a un tratamiento curativo o sufren dolores evitables, a fin de mejorar su calidad de vida hasta el fin de sus días, así como la atención primordial al control del dolor, de otros síntomas, de los problemas sociales y padecimientos psicológicos y físicos de la persona mayor, debiendo abarcar al paciente, su entorno y su familia. Los cuidados paliativos deben de afirmar la vida y considerar la muerte como un proceso normal, sin buscar acelerarla ni retrasarla;
 
-> <small>[N. DE E. EL CONTENIDO DEL INCISO I ES IDÉNTICO AL DEL INCISO J.]</small>
-
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 15 DE JULIO DE 2024)</small>
 
 I) A recibir una atención profesional y especializada en el cuidado de su salud mental y a tener acceso a información y atención que le permita enfrentar la perdida de familiares o seres queridos.
 
-> <small>[N. DE E. EL CONTENIDO DEL INCISO J ES IDÉNTICO AL DEL INCISO I.]</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2026)</small>
 
-> <small>(ADICIONADO, P.O. 1 DE JULIO DE 2024)</small>
-
-J) A recibir una atención profesional y especializada en el cuidado de su salud mental y a tener acceso a información y atención que le permita enfrentar la perdida de familiares o seres queridos.
+J) A participar en programas de actividad física adaptada, diseñados conforme a su condición física, edad y capacidades funcionales, que fomenten la movilidad, y contribuyan al fortalecimiento de su salud integral.
 
 IV. De la educación:
 
@@ -373,9 +369,13 @@ IV. De la educación:
 
 A) A recibir de manera preferente el derecho a la educación que señala el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos, el artículo 6° de la Constitución Política del Estado de Aguascalientes, de conformidad con el artículo 21 de esta Ley; y
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2026)</small>
 
-B) Las instituciones educativas, públicas y privadas deberán incluir en sus planes y programas los conocimientos relacionados con las personas adultas mayores; asimismo, todo material educativo autorizado y supervisado por el Instituto de Educación de Aguascalientes, incorporará información actualizada sobre el tema del envejecimiento y de las personas adultas mayores.
+B) Las instituciones educativas, públicas y privadas deberán incluir en sus planes y programas los conocimientos relacionados con las personas adultas mayores; asimismo, todo material educativo autorizado y supervisado por el Instituto de Educación de Aguascalientes, incorporará información actualizada sobre el tema del envejecimiento y de las personas adultas mayores; y
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2026)</small>
+
+C) A acceder a programas de actividades creativas, culturales y artísticas, tales como pintura, música, escritura, fotografía, manualidades y narrativas autobiográficas, entre otras, que sirvan como medios para fortalecer la identidad personal, la memoria, las funciones cognitivas y la integración social.
 
 > <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE JULIO DE 2024)</small>
 
@@ -431,9 +431,17 @@ D) A participar en la vida cívica, cultural y recreativa de su comunidad;
 
 E) A formar parte de los diversos órganos de representación y consulta ciudadana;
 
-F) A recibir reconocimientos o distinciones por su labor, trayectoria o aportaciones al Estado; y
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2026)</small>
 
-G) A formar grupos y asociaciones de apoyo mutuo y de participación en la vida social y comunitaria, que permitan a la sociedad en su conjunto aprovechar su capacidad, experiencia y conocimiento.
+F) A recibir reconocimientos o distinciones por su labor, trayectoria o aportaciones al Estado;
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2026)</small>
+
+G) A formar grupos y asociaciones de apoyo mutuo y de participación en la vida social y comunitaria, que permitan a la sociedad en su conjunto aprovechar su capacidad, experiencia y conocimiento; y
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2026)</small>
+
+H) A ser convocados e integrarse en foros, comités o mecanismos de consulta, a fin de participar directamente en el diseño, implementación y evaluación de las políticas públicas que les conciernen.
 
 > <small>(ADICIONADO [N. DE E. ESTE PÁRRAFO], P.O. 1 DE JULIO DE 2024)</small>
 
@@ -841,7 +849,9 @@ I. Coordinar y proporcionar la atención médica en los centros, unidades de sal
 
 II. Proporcionar, a las personas adultas mayores, una cartilla médica de auto cuidado, que será utilizada indistintamente en las instituciones públicas y privadas de salud;
 
-III. Instituir acciones y programas, en coordinación con las instituciones que conforman el Sistema Estatal de Salud, con el objeto de proporcionar atención integral e impulsar los modelos de atención necesarios;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2026)</small>
+
+III. Instituir acciones y programas, en coordinación con las instituciones que conforman el Sistema Estatal de Salud, con el objeto de proporcionar atención integral e impulsar los modelos de atención necesarios, incluyendo la creación y mantenimiento de espacios de atención psicológica individual y grupal, para atender condiciones tales como depresión, ansiedad, estrés o pérdida de seres queridos, así como programas de estimulación cognitiva y memoria;
 
 IV. Fomentar la creación de redes de atención en materia de asistencia médica, cuidados y rehabilitación, a través de la capacitación y sensibilización sobre la problemática específica de las personas adultas mayores;
 
@@ -865,9 +875,9 @@ X. Contratar personas adultas mayores, conforme a su oficio, habilidad o profesi
 
 XI. Garantizar el derecho a la prestación de servicios públicos de salud integrales y de calidad, en todas las actividades de atención médica, de conformidad con lo establecido en el artículo 44 de la Ley de Salud del Estado de Aguascalientes;
 
-> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2023)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE MAYO DE 2026)</small>
 
-XII. Establecer programas de detección oportuna y tratamiento temprano de enfermedades crónicas y neoplasias entre las personas adultas mayores, así como de atención y asistencia a quienes sufren de discapacidades funcionales.
+XII. Establecer programas de detección oportuna, tratamiento temprano, manejo y prevención de enfermedades crónicas y neoplasias entre las personas adultas mayores, acompañados de estrategias de autocuidado y educación en hábitos saludables, así como de atención y asistencia a las personas que presenten discapacidades funcionales.
 
 > <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2024)</small>
 
@@ -959,11 +969,17 @@ II. Establecer convenios ante las instancias correspondientes para que, en los e
 
 III. Implementar programas culturales y concursos dirigidos a las personas adultas mayores, otorgando a los ganadores los reconocimientos y premios correspondientes;
 
-> <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2026)</small>
 
-IV. Fomentar entre la población una cultura de la vejez, de respeto, aprecio y reconocimiento a la capacidad de aportación de las personas adultas mayores; y
+IV. Fomentar entre la población una cultura de respeto, aprecio y reconocimiento hacia la vejez y a la capacidad de aportación de las personas adultas mayores;
 
-V. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2026)</small>
+
+V. Instituir talleres y programas creativos adaptados a personas adultas mayores, que promuevan su expresión artística, cultural y comunitaria, contribuyendo al fortalecimiento de su identidad y bienestar emocional; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE MAYO DE 2026)</small>
+
+VI. Las demás que le confiera el Ejecutivo del Estado, las Leyes y Reglamentos de la materia.
 
 ### CAPÍTULO VIII. De la Dirección General del Trabajo del Estado
 
@@ -1125,7 +1141,9 @@ I. Permitir a las personas adultas mayores que tengan una trayectoria, que parti
 
 II. Otorgar descuentos a las personas adultas mayores que tengan una trayectoria deportiva; en los centros donde se proporcionen servicios deportivos; y
 
-III. Instituir programas deportivos para las personas adultas mayores, a efecto de constituir y fomentar en ellos, el hábito del ejercicio o cultura deportiva en beneficio de su salud física, psicológica y mejore su calidad de vida personal y familiar;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2026)</small>
+
+III. Instituir programas deportivos para las personas adultas mayores, a efecto de fomentar en ellas el hábito del ejercicio y la cultura deportiva en beneficio de su salud física, psicológica y de su calidad de vida personal y familiar, implementando y promoviendo actividades físicas adaptadas a sus capacidades, tales como ejercicios de coordinación, equilibrio, fuerza, yoga, natación, caminatas grupales y baile, entre otras, con un enfoque preventivo, recreativo y de fortalecimiento integral de su salud;
 
 > <small>(REFORMADA, P.O. 15 DE ENERO DE 2024)</small>
 
@@ -1886,3 +1904,19 @@ P.O. 8 DE DICIEMBRE DE 2025.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 310.- SE REFORMA LA LEY PARA LA PROTECCIÓN ESPECIAL DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE AGUASCALIENTES".]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 11 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 475.- SE REFORMA LA LEY PARA LA PROTECCIÓN ESPECIAL DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Las Dependencias y Entidades competentes deberán incorporar las disposiciones de este Decreto a sus programas y acciones dentro de los 180 días naturales siguientes a su entrada en vigor, utilizando los recursos humanos, materiales y financieros existentes, en coordinación con el Instituto de Salud del Estado de Aguascalientes, el Instituto Cultural de Aguascalientes y el Instituto del Deporte del Estado de Aguascalientes.
+
+###### ARTÍCULO TERCERO.
+
+En caso de requerirse recursos adicionales para fortalecer los programas previstos en este Decreto, las Dependencias y Entidades competentes deberán preverlos en el proyecto de presupuesto del ejercicio fiscal subsecuente, conforme a la disponibilidad presupuestaria.
