@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-comision-de-derechos-humanos-del-estado-de-94548"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-10"
-last_updated: "2025-12-15"
+last_updated: "2026-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94548&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2026.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 10 de junio de 2013.
 
@@ -703,7 +703,13 @@ I. Recibir, admitir o rechazar las quejas e inconformidades presentadas por los 
 
 II. Iniciar a petición de parte o de oficio, investigaciones sobre la presunta violación de Derechos Humanos;
 
-III. Realizar las actividades necesarias para lograr, por medio de la conciliación, la solución inmediata de conflictos derivados de posibles violaciones de Derechos Humanos que por su propia naturaleza así lo permitan;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 11 DE MAYO DE 2026)</small>
+
+III. Realizar las actividades necesarias para lograr, por medio de la conciliación, la solución inmediata de conflictos derivados de posibles violaciones de Derechos Humanos que por su propia naturaleza así lo permitan.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2026)</small>
+
+Restringiendo dicha actividad en todos los casos relacionados con violencia de género, familiar e institucional en contra de mujeres, adolescentes y niñas;
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2025)</small>
 
@@ -948,6 +954,10 @@ Se deberá garantizar la confidencialidad de las investigaciones, de las quejas 
 ###### ARTÍCULO 53.
 
 La conciliación tiene por objeto procurar la inmediata solución de un conflicto entre los quejosos y la Autoridad Responsable cuando la naturaleza del caso lo permita.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2026)</small>
+
+Exceptuando aquellos casos en que mujeres, adolescentes o niñas, sean objeto de violencia de género, familiar e institucional, por ser inviables en una relación de sometimiento entre la persona agresora y la parte quejosa.
 
 ###### ARTÍCULO 54.
 
@@ -1486,3 +1496,9 @@ P.O. 15 DE DICIEMBRE DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el 17 de enero del 2026, es decir, con posterioridad a su Publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 480.- SE REFORMA LA LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE AGUASCALIENTES”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
