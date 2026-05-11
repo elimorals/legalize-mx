@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2026-04-06"
+last_updated: "2026-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -617,13 +617,19 @@ LXI. Fomentar e impulsar la innovación educativa, científica y tecnológica en
 
 LXII. Nombrar al titular del órgano interno de control;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 20 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2026)</small>
 
-LXIII. Reglamentar, en el ámbito de su competencia, las medidas de seguridad necesarias para el uso de pirotecnia en espacios públicos, así como establecer los requisitos y condiciones para otorgar autorizaciones para su utilización por parte de particulares, con la finalidad de prevenir riesgos y salvaguardar la integridad de las personas, la protección civil y el medio ambiente, sin perjuicio de lo establecido en la Ley Federal de Armas de Fuego y Explosivos y demás disposiciones federales aplicables; y
+LXIII. Reglamentar, en el ámbito de su competencia, las medidas de seguridad necesarias para el uso de pirotecnia en espacios públicos, así como establecer los requisitos y condiciones para otorgar autorizaciones para su utilización por parte de particulares, con la finalidad de prevenir riesgos y salvaguardar la integridad de las personas, la protección civil y el medio ambiente, sin perjuicio de lo establecido en la Ley Federal de Armas de Fuego y Explosivos y demás disposiciones federales aplicables;
 
-> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 20 DE OCTUBRE DE 2025)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 11 DE MAYO DE 2026)</small>
 
-LXIV. Las demás que le confieran la presente Ley y otras disposiciones legales.
+LXIV. Inspeccionar y verificar que se dé estricto cumplimiento a las licencias y permisos por estos otorgados. Particularmente que no existan a inmediata disposición de las niñas, niños y adolescentes, bienes, instrumentos, objetos o productos que atenten contra su salud, libertad y el libre desarrollo de la personalidad, en términos de las disposiciones aplicables.
+
+De encontrarse bienes, instrumentos, objetos o produtos a la inmediata disposición de las niñas, niños y adolescentes, que atenten contra su salud, libertad y el libre desarrollo de la personalidad, serán asegurados de conformidad con la legislación aplicable; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 11 DE MAYO DE 2026)</small>
+
+LXV. Las demás que le confieran la presente Ley y otras disposiciones legales.
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2025)</small>
 
@@ -3028,3 +3034,19 @@ P.O. 6 DE ABRIL DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 11 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 485.- SE REFORMA LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Las autoridades municipales, en el ámbito de sus respectivas competencias, deberán realizar las adecuaciones normativas, administrativas y operativas necesarias para el cumplimiento del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Quedan sin efectos todas aquellas disposiciones que se oponga (sic) al presente Decreto.
