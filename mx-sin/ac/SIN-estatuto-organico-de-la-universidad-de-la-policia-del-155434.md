@@ -4,7 +4,7 @@ identifier: "SIN-estatuto-organico-de-la-universidad-de-la-policia-del-155434"
 country: "mx"
 rank: "estatuto"
 publication_date: "2022-02-11"
-last_updated: "2025-05-07"
+last_updated: "2026-05-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=155434&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 ESTATUTO ORGÁNICO DE LA UNIVERSIDAD DE LA POLICÍA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE MAYO DE 2026.
 
 Estatuto publicado en el No. 019 del Periódico Oficial del Estado de Sinaloa, el viernes 11 de febrero de 2022.
 
@@ -123,7 +123,9 @@ Sus disposiciones son de observancia general y de aplicación obligatoria.
 
 La Universidad de la Policía del Estado de Sinaloa es un organismo público descentralizado de la administración pública paraestatal, con personalidad jurídica y patrimonio propio, que tiene por objeto la formación de educación superior en sus distintos niveles y modalidades, en las disciplinas científicas y humanísticas de conductas antisociales, para contribuir al desarrollo del Estado de Sinaloa.
 
-La Universidad ejercerá, además, las facultades conferidas en los artículos 47 de la Ley General del Sistema Nacional de Seguridad Pública; 239 y 240 de la Ley de Seguridad Pública del Estado de Sinaloa.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2026)</small>
+
+La Universidad ejercerá, además, las facultades conferidas en los artículos 239 y 240 de la Ley de Seguridad Pública del Estado de Sinaloa.
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2025)</small>
 
@@ -139,9 +141,13 @@ Para los efectos del presente Estatuto, se entenderá por:
 
 I. Áreas Administrativas: Las Direcciones de Área, Jefaturas de Departamento y Unidades Administrativas de la Universidad de la Policía del Estado de Sinaloa;
 
-II. Comunidad Universitaria: Se integra por el Consejo Académico, Consejo Técnico, sus órganos personales, docentes, alumnado y personal administrativo;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2026)</small>
 
-III. Directoras y Directores: Las personas titulares de la Dirección Académica, del Centro de Estudios de la Criminalidad y la Violencia, de la Abogacía General, de la Dirección Administrativa, de la Dirección de Servicios Escolares, del Órgano Interno de Control y Evaluación, de la Dirección de Profesionalización Policial. Y de la Unidad de Vinculación y Transparencia, de la Universidad de la Policía del Estado de Sinaloa;
+II. Comunidad Universitaria: Se integra por el Consejo Académico, sus órganos personales, docentes, alumnado y personal administrativo;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2026)</small>
+
+III. Directoras y Directores: Las personas titulares de la Dirección Académica, del Centro de Estudios de la Criminalidad y la Violencia, de la Consejería Jurídica, de la Dirección Administrativa, de la Dirección de Servicios Escolares, del Órgano Interno de Control y Evaluación, de la Dirección de Profesionalización Policial, y de la Secretaría Técnica, de la Universidad de la Policía del Estado de Sinaloa;
 
 IV. Estatuto: El presente Estatuto Orgánico de la Universidad de la Policía del Estado de Sinaloa;
 
@@ -217,7 +223,9 @@ I. Implementar la formación y profesionalización del personal activo de las in
 
 II. Brindar una sólida educación superior, en los niveles de técnico superior universitario, profesional asociado u otros equivalentes, licenciatura, especialidad, maestría y doctorado, educación científica de la cultura de la legalidad y de respeto a los derechos humanos, creando condiciones que propicien un adecuado desarrollo, con base en los objetivos contenidos en la Constitución Política de los Estados Unidos Mexicanos, en la Constitución Política Local, en la Ley General, en la Ley de Seguridad, en el Plan Estatal de Desarrollo y demás disposiciones en la materia;
 
-III. Realizar investigaciones jurídicas, criminalísticas, criminológicas, humanísticas y científicas, que sirvan de apoyo en el diseño de los planes y programas de estudio y de operación de las instituciones de seguridad pública, procuración y administración de justicia;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2026)</small>
+
+III. Realizar investigaciones jurídicas, criminalísticas, criminológicas, psicológicas, antropológicas, sociológicas, humanísticas y científicas, que sirvan de apoyo en el diseño de los planes y programas de estudio y de operación de las instituciones de seguridad pública, procuración y administración de justicia;
 
 IV. Promover toda clase de actividades tendientes a la preservación, difusión e incremento de los valores y del acervo cultural, así como de todas aquellas expresiones de vida comunitaria; y
 
@@ -259,7 +267,9 @@ XIV. Coordinarse con las instituciones de seguridad pública para participar con
 
 XV. Brindar asesoría técnica profesional a personas físicas e instituciones públicas y privadas, en su caso, actuar como órgano consultivo y propositivo en el estudio, formulación y aplicación de políticas públicas dentro del ámbito de su especialidad;
 
-XVI. Celebrar convenios, contratos y acuerdos con instituciones educativas nacionales y extranjeras, públicas y privadas, con objeto de brindar formación académica de excelencia al personal de las instituciones públicas y privadas;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2026)</small>
+
+XVI. Celebrar convenios, contratos y acuerdos de colaboración y prestación de servicios con instituciones educativas nacionales y extranjeras, públicas y privadas, con objeto de brindar formación académica o de profesionalización de excelencia al personal de las instituciones públicas y privadas;
 
 XVII. Otorgar becas al alumnado, personal académico y personal administrativo de la Universidad para realizar estudios en sus propios planteles e instalaciones, así como en instituciones educativas del país o del extranjero, y recibir a becarios nacionales o del extranjero como personal investigador, profesorado y educandos; y
 
@@ -429,11 +439,11 @@ VI. Los demás que apruebe el Consejo Académico.
 
 En las propuestas que presente la persona titular de la Rectoría al Consejo Académico para la creación, modificación o supresión de departamentos académicos, se deberán considerar los criterios generales que para tal efecto emita dicho órgano colegiado.
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2026)</small>
 
 ###### Artículo 18.
 
-En la creación o modificación de un departamento académico o programa educativo, el Consejo Académico, determinará el área de conocimiento correspondiente con base en el dictamen del Consejo Técnico respectivo.
+En la creación o modificación de un departamento académico o programa educativo, el Consejo Académico, determinará el área de conocimiento correspondiente con base en el dictamen de la comisión permanente respectiva.
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2025)</small>
 
@@ -601,11 +611,11 @@ Cuando tenga conocimiento de que el Rector o Rectora ha concluido su encargo o p
 
 Para designar a la persona titular de la Rectoría, la Junta de Gobierno recibirá las propuestas a través de sus integrantes. De estimarlo necesario, podrá invitar a quienes aspiren a ocupar el cargo, para que expongan su propuesta de plan de trabajo que contribuya al desarrollo de la Universidad.
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2026)</small>
 
 ###### Artículo 39.
 
-Quienes aspiren a la titularidad de la Rectoría, deberán acreditar que cumplen con los requisitos exigidos por al (sic) artículo 27 de la Ley Orgánica.
+Quienes aspiren a la titularidad de la Rectoría, deberán acreditar que cumplen con los requisitos exigidos por el artículo 27, de la Ley Orgánica.
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2025)</small>
 
@@ -773,7 +783,9 @@ III. Resolver, previo diagnóstico, la viabilidad de crear, modificar o establec
 
 IV. Recibir, evaluar y en su caso aprobar, el calendario escolar, que formule la persona titular de la Rectoría;
 
-V. Determinar los asuntos académicos, los procedimientos de ingreso, promoción y permanencia del personal académico en atención a las características especiales del trabajo y de investigación;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2026)</small>
+
+V. Determinar los asuntos académicos, así como intervenir en los procedimientos de ingreso, promoción y permanencia del personal académico conforme lo establecido en el Reglamento Académico;
 
 VI. Aprobar los programas de créditos educativos para el alumnado;
 
@@ -793,7 +805,9 @@ Las sesiones ordinarias deberán celebrarse cuando menos una vez cada semestre l
 
 Las sesiones extraordinarias se llevarán a cabo cuando así lo considere necesario la persona que lo presida o a solicitud de al menos, una tercera parte del total de quienes lo integren.
 
-La persona titular de la presidencia convocará a sesión, al menos, con ocho días hábiles de anticipación a la celebración de la misma, por conducto de quien ocupe la secretaría del Consejo.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2026)</small>
+
+La persona titular de la presidencia convocará a sesión, al menos, con cinco días hábiles de anticipación a la celebración de la misma.
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2025)</small>
 
@@ -935,7 +949,9 @@ Quien desempeñe la titularidad de la Rectoría, dará seguimiento y verificará
 
 La persona titular de la Rectoría podrá ser representada, para efectos internos por quien estime conveniente. En los asuntos administrativos, podrá otorgar, sustituir y revocar poderes generales y especiales a favor de las o los servidores públicos de la Universidad o personas ajenas a ésta.
 
-En procedimientos administrativos, contenciosos y judiciales, la representación legal de la Universidad corresponderá a quien ostente el cargo de titular de la Abogacía General.
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2026)</small>
+
+En procedimientos administrativos, contenciosos y judiciales, la representación legal de la Universidad corresponderá a quien ostente el cargo de titular de la Consejería Jurídica.
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2025)</small>
 
@@ -1157,15 +1173,25 @@ XII. Las demás que le delegue la persona titular de la Rectoría y le confieran
 
 La Dirección Académica para el despacho de los asuntos de su competencia, se auxiliará de las siguientes áreas:
 
-I. Departamento de Seguimiento y Evaluación Académica;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2026)</small>
 
-II. Departamento Académico de Ciencias Penales;
+I. Departamento de Planeación e Innovación Académica;
 
-III. Departamento Académico de Criminología;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2026)</small>
 
-IV. Departamento Académico de Criminalística; y
+II. Departamento de Investigación y Posgrado;
 
-V. Departamento de Policiología.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2026)</small>
+
+III. Departamento de Programas de Licenciaturas;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2026)</small>
+
+IV. Departamento de Planes y Programas Académicos; y
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2026)</small>
+
+V. Departamento de Extensión Universitaria.
 
 Las áreas desarrollarán su operación de conformidad con la suficiencia presupuestal de la Universidad.
 
@@ -1189,7 +1215,9 @@ I. Coordinar y desarrollar campañas con la finalidad de prevenir las conductas 
 
 II. Promover la colaboración y participación ciudadana en las acciones de prevención de las conductas antisociales;
 
-III. Promover el intercambio de experiencias en materia de conductas antisociales, prevención del delito y cultura de la legalidad con instituciones nacionales, estatales y extranjeras;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2026)</small>
+
+III. Promover en colaboración con instituciones académicas, sectores productivos y sociedad en general el intercambio de experiencias en materia de conductas antisociales, prevención del delito y cultura de la legalidad con instituciones nacionales, estatales y extranjeras;
 
 IV. Desarrollar programas, políticas y lineamientos en materia de conductas antisociales;
 
@@ -1247,17 +1275,29 @@ La estructura administrativa será la instancia de apoyo que auxilia o coadyuva,
 
 La estructura administrativa de la Universidad, es la siguiente:
 
-I. Abogacía General;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2026)</small>
 
-II. Órgano Interno de Control y Evaluación;
+I. Secretaría Técnica;
 
-III. Dirección Administrativa;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2026)</small>
 
-IV. Dirección de Servicios Escolares;
+II. Consejería Jurídica;
 
-V. Dirección de Profesionalización Policial; y
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE MAYO DE 2026)</small>
 
-VI. Unidad de Vinculación y Transparencia.
+III. Órgano Interno de Control y Evaluación;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE MAYO DE 2026)</small>
+
+IV. Dirección Administrativa;
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2026)</small>
+
+V. Dirección de Servicios Escolares; y
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2026)</small>
+
+VI. Dirección de Profesionalización Policial.
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2025)</small>
 
@@ -1279,65 +1319,163 @@ VI. No ser dirigente de partido político alguno, ni estar desempeñando cargo d
 
 VII. No ser ministro o ministra de algún culto religioso.
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2025)</small>
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2026)</small>
 
-### CAPÍTULO V. ABOGACÍA GENERAL
+###### Artículo 86 Bis.
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2025)</small>
+La Secretaría Técnica de Rectoría de la Universidad de la Policía del Estado de Sinaloa, estará adscrita a la Rectoría de este organismo público descentralizado.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2026)</small>
+
+Artículo 86 Bis I. Las facultades y obligaciones de la Secretaría Técnica de Rectoría serán las siguientes:
+
+I. Coordinar la elaboración y actualización de la normativa interna de la Universidad de la Policía del Estado de Sinaloa;
+
+II. Formular e integrar el documento de planeación que contenga los objetivos, estrategias y/o prioridades de la Universidad de la Policía de acuerdo con las políticas que determine la persona titular de la Rectoría;
+
+III. Integrar los informes de actividades institucionales;
+
+IV. Apoyar en la integración de la información necesaria para la toma de decisiones de la persona titular de la Rectoría;
+
+V. Contribuir en la formulación de los planes, proyectos y programas de desarrollo institucional en el ámbito de su competencia, en coordinación con las personas servidoras públicas titulares de las áreas de la Universidad de la Policía;
+
+VI. Fungir como enlace entre la Universidad como sujeto obligado y el organismo garante en materia de transparencia, acceso a la información y protección de datos personales;
+
+VII. Revisar y emitir opinión técnica con relación a los proyectos que le encomiende la persona titular de la Rectoría;
+
+VIII. Supervisar el cumplimiento de las resoluciones en materia de transparencia emitidas por las autoridades competentes, en contra de la Universidad como sujeto obligado;
+
+IX. Coordinar el seguimiento a las solicitudes, observaciones, recomendaciones y criterios que, en materias de transparencia y acceso a la información pública y datos personales, realicen las autoridades competentes;
+
+X. Coordinar con las unidades administrativas de la Universidad, cumplir en tiempo y forma en el llenado de los formatos establecidos en la Ley de Transparencia y Acceso a la Información Pública del Estado;
+
+XI. Fomentar dentro de la Universidad, las acciones de capacitación en materia de la Ley de Transparencia y Acceso a la Información Pública del Estado de Sinaloa y de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Sinaloa;
+
+XII. Proponer a la persona titular de la Rectoría, para su aprobación, los avisos de privacidad de la Universidad, así como mantenerlos vigentes en el portal institucional;
+
+XIII. Gestionar las políticas y estándares para la implementación de controles de uso y aplicación de tecnologías de la información y la comunicación;
+
+XIV. Definir estrategias de comunicación y vinculación para difundir las actividades y fortalecer la imagen de la Universidad;
+
+XV. Gestionar la actualización y mantenimiento permanente del portal institucional de la Universidad;
+
+XVI. Coordinar a las Unidades Administrativas de la Universidad en el control y conservación de los documentos de archivo, en términos de la Ley de Archivos para el Estado de Sinaloa y demás disposiciones aplicables; y,
+
+XVII. Las demás que le confieran las leyes, decretos, reglamentos, convenios y acuerdos o que expresamente le encomiende la Rectoría.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2026)</small>
+
+Artículo 86 Bis II. Para el desempeño de sus funciones de la Secretaría Técnica de la Rectoría se auxiliará de las siguientes unidades administrativas:
+
+I. Unidad de Transparencia, Acceso a la Información y Protección de Datos Personales;
+
+II. Unidad de Comunicación Social; y
+
+III. Departamento de las Tecnologías de la Información y la Comunicación.
+
+> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2026)</small>
+
+Artículo 86 Bis III. A la persona titular de esta Dirección se le denominará Secretario Técnico de Rectoría, y quien además tendrá el carácter de Director, mismo que será designado y removido libremente por la persona titular de la Rectoría de la Universidad de la Policía del Estado de Sinaloa.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE MAYO DE 2026)</small>
+
+### CAPÍTULO V. CONSEJERÍA JURÍDICA
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2026)</small>
 
 ###### Artículo 87.
 
-La representación legal de la Universidad en asuntos contenciosos y judiciales, corresponderá a la persona titular de la Abogacía General.
+La representación legal de la Universidad en asuntos contenciosos y judiciales, corresponderá a la persona titular de la Consejería Jurídica.
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2026)</small>
 
 ###### Artículo 88.
 
-Quien ocupe la Abogacía General además de las atribuciones previstas en la Ley Orgánica tendrá las facultades y obligaciones siguientes:
+Quien ocupe la Consejería Jurídica además de las atribuciones previstas en la Ley Orgánica tendrá las facultades y obligaciones siguientes:
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2025)</small>
 
 I. Intervenir en defensa de los intereses de la Universidad, en los juicios que hubiera iniciado la institución o que se interpongan en su contra;
 
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2025)</small>
+
 II. Procurar el cumplimiento del orden jurídico de la Universidad;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2025)</small>
 
 III. Atender las solicitudes de audiencias o consultas jurídicas que presenten las autoridades universitarias;
 
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2025)</small>
+
 IV. Compilar y promover la difusión de las normas jurídicas que conforman el marco jurídico de la Universidad;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2025)</small>
 
 V. Delegar sus funciones mediante poder notarial especial, previa autorización de Rectoría;
 
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2025)</small>
+
 VI. Proponer a Rectoría las medidas legales sobre administración y operatividad que considere apropiadas para el cumplimiento de sus competencias;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2025)</small>
 
 VII. Supervisar el cumplimiento de la normativa en los procedimientos de contratación para la adquisición de bienes y servicios, arrendamientos y administración de bienes muebles, para que se realicen de conformidad con lo establecido en la Ley de Adquisiciones, Arrendamientos, Servicios y Administración de Bienes Muebles para el Estado de Sinaloa o Ley del Adquisiciones, Arrendamientos, y Servicios del Sector Público;
 
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2025)</small>
+
 VIII. Llevar a cabo la regularización de las propiedades de la Universidad, así como su control correspondiente;
 
-IX. Asesorar al Consejo Universitario y a quien ejerza la Rectoría en la formulación y revisión de los anteproyectos y proyectos de reglamentos y demás disposiciones de la Universidad;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2026)</small>
+
+IX. Asesorar al Consejo Académico y a quien ejerza la Rectoría en la formulación y revisión de los anteproyectos y proyectos de reglamentos y demás disposiciones de la Universidad;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2025)</small>
 
 X. Brindar asesoría jurídica a los órganos colegiados, así como al personal de las diversas áreas de la Universidad en materia de consulta e interpretación de la legislación nacional y universitaria;
 
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2025)</small>
+
 XI. Asistir a los órganos personales e instancias de apoyo en la celebración de convenios, contratos y actos multilaterales, en los que participe la Universidad;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2025)</small>
 
 XII. Revisar, validar, y, en su caso, elaborar los proyectos de convenios, contratos y otros instrumentos jurídicos en que la Universidad sea parte;
 
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2025)</small>
+
 XIII. Resguardar los documentos que se relacionen con la posesión, propiedad o trámites jurídicos vinculados con algún bien inmueble de la Universidad;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2025)</small>
 
 XIV. Interponer los escritos, promociones y recursos necesarios, en apego a la legislación aplicable, con el fin de cumplir con eficiencia la defensa jurídica de la institución;
 
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2025)</small>
+
 XV. Promover la armonía en las relaciones laborales, interviniendo como instancia de conciliación en la problemática que surja entre la Universidad y sus trabajadores;
+
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2025)</small>
 
 XVI. Certificar la documentación generada por el área que dirige y que obre en los archivos de la misma; y
 
+> <small>(REFORMADA, P.O. 7 DE MAYO DE 2025)</small>
+
 XVII. Las demás que le delegue la persona titular de la Rectoría y le confieran otras normas y disposiciones reglamentarias de la Universidad.
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2025)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2026)</small>
 
 ###### Artículo 89.
 
-La Abogacía General para el despacho de los asuntos de su competencia, se auxiliará de las siguientes áreas:
+La Consejería Jurídica para el despacho de los asuntos de su competencia, se auxiliará de las siguientes áreas:
 
-I. Departamento de Normatividad y Responsabilidades; y
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2026)</small>
 
-II. Departamento de Litigación.
+I. Departamento de Convenios y Contratos; y
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2026)</small>
+
+II. Departamento de Litigación y Normativa.
+
+> <small>(REFORMADO, P.O. 7 DE MAYO DE 2025)</small>
 
 Las áreas mencionadas con antelación, desarrollarán su operación de conformidad con la suficiencia presupuestal de la Universidad.
 
@@ -1493,7 +1631,7 @@ II. Departamento de Recursos Humanos;
 
 III. Departamento de Recursos Materiales y Servicios Generales; y
 
-IV. Departamento de las Tecnologías de la Información y la Comunicación.
+IV. (DEROGADA, P.O. 11 DE MAYO DE 2026)
 
 Las áreas mencionadas con antelación, desarrollarán su operación de conformidad con la suficiencia presupuestal de la Universidad.
 
@@ -1587,11 +1725,17 @@ I. Departamento de Archivo y Control Escolar;
 
 II. Departamento de Trabajo Social y Médico Asistencial;
 
-III. Departamento de Ingresos y Selección de Aspirantes; y
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2026)</small>
 
-IV. Oficina de Tutoría Estudiantil.
+III. Departamento de Registro y Control de Profesionalización Policial; y
 
-Las áreas mencionadas con antelación, deberán su operación de conformidad con la suficiencia presupuestal de la Universidad.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2026)</small>
+
+IV. Departamento de Servicio Social y Atención Estudiantil.
+
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2026)</small>
+
+Las áreas mencionadas con antelación, desarrollarán su operación de conformidad con la suficiencia presupuestal de la Universidad.
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2025)</small>
 
@@ -1627,7 +1771,7 @@ XI. Mantener la seguridad de las instalaciones y bienes de la Universidad;
 
 XII. Llevar un estricto registro y control de acceso y salida de personas, objetos y vehículos de las instalaciones de la Universidad;
 
-XIII. Garantizar la equivalencia de los contenidos mínimos de planes y programas de Profesionalización;
+XIII. (DEROGADA, P.O. 11 DE MAYO DE 2026)
 
 XIV. Suscribir con la persona titular de la Rectoría los certificados y las constancias de los cursos de profesionalización;
 
@@ -1635,9 +1779,19 @@ XV. Diseñar programas educativos de prevención del delito, de comunicación y 
 
 XVI. Certificar la documentación generada por el área que dirige y que obre en los archivos de la misma;
 
-XVII. Rendir diariamente el parte de novedades sobre el comportamiento y disciplina del alumnado interno; y
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 11 DE MAYO DE 2026)</small>
 
-XVIII. Las demás que le delegue la persona titular de la Rectoría y le confieran otras normas y disposiciones reglamentarias de la Universidad.
+XVII. Rendir diariamente el parte de novedades sobre el comportamiento y disciplina del alumnado interno;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2026)</small>
+
+XVIII. Seleccionar, capacitar y evaluar al personal docente involucrado en la profesionalización policial;
+
+> <small>(ADICIONADA, P.O. 11 DE MAYO DE 2026)</small>
+
+XIX. Promover el uso de tecnologías educativas, simuladores, realidad virtual y métodos de enseñanza innovadores adaptados a la profesionalización policial; y
+
+XX. Las demás que le delegue la persona titular de la Rectoría y le confieran otras normas y disposiciones reglamentarias de la Universidad.
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2025)</small>
 
@@ -1645,63 +1799,31 @@ XVIII. Las demás que le delegue la persona titular de la Rectoría y le confier
 
 La Dirección de Profesionalización Policial para el despacho de los asuntos de su competencia, se auxiliará de las siguientes áreas:
 
-I. Departamento de Programación de Profesionalización Policial;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2026)</small>
 
-II. Departamento de Planeación, Estudios y Proyectos; y
+I. Departamento de Docencia y Disciplina;
 
-III. Departamento de Organización y Desarrollo Académico.
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2026)</small>
+
+II. Departamento de Estudios y Proyectos de Profesionalización; y
+
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2026)</small>
+
+III. Departamento de Seguimiento a Procesos de Profesionalización.
 
 El área mencionada desarrollará su operación de conformidad con la suficiencia presupuestal de la Universidad.
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2025)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE MAYO DE 2026)</small>
 
 ### CAPÍTULO X. UNIDAD DE VINCULACIÓN Y TRANSPARENCIA
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2025)</small>
-
 ###### Artículo 99.
 
-A la persona titular de la Unidad de Vinculación y Transparencia, además de las atribuciones específicas previstas en la Ley Orgánica, le corresponden las facultades y obligaciones siguientes:
-
-I. Realizar las actividades necesarias para el eficiente funcionamiento y operatividad de los servicios que se brindan en la Unidad a su cargo;
-
-II. Fungir como enlace entre la Universidad como sujeto obligado y el organismo garante en materia de transparencia, acceso a la información y protección de datos personales;
-
-III. Recibir todas las solicitudes y requerimientos en materia de transparencia, acceso a la información pública y rendición de cuentas, y remitirlas a las áreas administrativas de la Universidad, de acuerdo a sus atribuciones y competencias para su atención correspondiente;
-
-IV. Coordinar y aplicar las facultades, funciones, principios y competencias previstas en las disposiciones legales en materia de transparencia, acceso a la información pública y protección de datos personales;
-
-V. Supervisar el cumplimiento de las resoluciones emitidas por las autoridades competentes, en contra de la Universidad como sujeto obligado;
-
-VI. Fomentar y promover entre el personal de la Universidad las acciones de difusión y capacitación en materia de transparencia, acceso a la información pública, rendición de cuentas y a la protección de datos personales;
-
-VII. Proponer para su aprobación ante el Comité de Transparencia de la Universidad los avisos de privacidad de la Universidad y mantenerlos vigentes en su portal institucional;
-
-VIII. Establecer y mantener las medidas de seguridad de carácter administrativo, físico y técnico que permitan la protección de los datos personales, contra daño, pérdida, alteración, destrucción, o uso, acceso o tratamiento no autorizado, así como garantizar su confidencialidad, integridad y disponibilidad;
-
-IX. Elaborar el documento de seguridad que contenga las medidas de protección de carácter físico, técnico y administrativo, conforme a lo dispuesto en la Ley de Protección de Datos Personales y demás disposiciones que resulten aplicables en la materia;
-
-X. Establecer controles o mecanismos que tengan por objeto que todas aquellas personas que intervengan en cualquier fase del tratamiento de los datos personales, guarden confidencialidad respecto de estos, obligación que subsistirá aun después de finalizar su relación con la Universidad;
-
-XI. Dar seguimiento a las observaciones, recomendaciones y criterios que en materias de transparencia y acceso a la información realicen las autoridades competentes;
-
-XII. En coordinación con las unidades administrativas de la Universidad, cumplir en tiempo y forma en el llenado de los formatos establecidos en la Ley de Transparencia y Acceso a la Información Pública del Estado;
-
-XIII. Auxiliar a los particulares en la elaboración de solicitudes de acceso a la información y, en su caso, orientarlos sobre los sujetos obligados competentes conforme a la normatividad aplicable; y
-
-XIV. Las demás que le delegue la persona titular de la Rectoría y le confieran otras normas y disposiciones reglamentarias de la Universidad.
-
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2025)</small>
+(DEROGADO, P.O. 11 DE MAYO DE 2026)
 
 ###### Artículo 100.
 
-La Unidad de Vinculación y Transparencia para el despacho de los asuntos de su competencia, se auxiliará de la siguiente área:
-
-I. Departamento de Acceso a la Información y Transparencia; y
-
-II. Oficina de Vinculación.
-
-Las áreas mencionadas desarrollarán su operación de conformidad con la suficiencia presupuestal de la Universidad.
+(DEROGADO, P.O. 11 DE MAYO DE 2026)
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2025)</small>
 
@@ -1759,25 +1881,47 @@ Las relaciones laborales del personal académico y administrativo de la Universi
 
 Para los efectos del artículo anterior serán considerados trabajadores de confianza quienes ocupen los siguientes cargos:
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 11 DE MAYO DE 2026)</small>
+
 I. Rectoría;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 11 DE MAYO DE 2026)</small>
 
 II. Dirección Académica;
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 11 DE MAYO DE 2026)</small>
+
 III. Dirección del Centro de Estudios de la Criminalidad y la Violencia;
 
-IV. Abogacía General;
+> <small>(REFORMADA, P.O. 11 DE MAYO DE 2026)</small>
 
-V. Dirección Administrativa;
+IV. Secretaría Técnica;
 
-VI. Dirección de Servicios Escolares;
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 11 DE MAYO DE 2026)</small>
 
-VII. Dirección de Profesionalización Policial;
+V. Consejería Jurídica;
 
-VIII. Titular del Órgano Interno de Control y Evaluación;
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE MAYO DE 2026)</small>
 
-IX. Titular de la Unidad de Vinculación y Transparencia;
+VI. Dirección Administrativa;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE MAYO DE 2026)</small>
+
+VII. Dirección de Servicios Escolares;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE MAYO DE 2026)</small>
+
+VIII. Dirección de Profesionalización Policial;
+
+> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 11 DE MAYO DE 2026)</small>
+
+IX. Titular del Órgano Interno de Control y Evaluación;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 11 DE MAYO DE 2026)</small>
 
 X. Jefaturas de Departamento Académico y Administrativo; y
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 11 DE MAYO DE 2026)</small>
 
 XI. Todos los demás trabajadores administrativos y de apoyo que se encuentren adscritos a las diversas áreas de la Universidad.
 
@@ -1791,79 +1935,39 @@ El personal de la Universidad de la Policía del Estado de Sinaloa quedará inco
 
 ### CAPÍTULO II. DE LAS RESPONSABILIDADES ADMINISTRATIVAS
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2026)</small>
 
 ###### Artículo 109.
 
-Son causas justificadas para efectos de la responsabilidad de los órganos personales y la estructura administrativa las siguientes:
-
-I. La manifiesta desatención, negligencia, indisciplina, incumplimiento o incapacidad para las funciones que les hayan sido encomendadas;
-
-II. La realización de actos o hechos que tiendan a lesionar o debilitar los principios universitarios o la buena marcha de las actividades académicas, o bien, la hostilidad manifiesta en actos contra de la Universidad o el estudiantado;
-
-III. El aprovechamiento indebido del ejercicio de las funciones que tienen conferidas para satisfacer intereses propios o ajenos;
-
-IV. La realización de actividades políticas o partidistas en la Universidad con finalidades sectarias, de consigna o de interés personalista que se aparten del respeto a la pluralidad, que perjudiquen las tareas académicas o que sean ajenas al libre ejercicio de pensamiento crítico;
-
-V. La utilización del patrimonio universitario para fines distintos de aquellos a que está destinado;
-
-VI. La comisión, en su actuación universitaria, de actos contrarios a la moral y al respeto que entre sí se deben los miembros de la comunidad universitaria;
-
-VII. La realización de cualquier acto que pueda constituir un delito; y
-
-VIII. Las demás que establezcan otras normas y disposiciones reglamentarias de la Universidad.
-
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2025)</small>
+Las y los servidores públicos de la Universidad de la Policía del Estado de Sinaloa estarán sujetos al régimen de responsabilidades previsto en la Ley General de Responsabilidades Administrativas, Ley de Responsabilidades Administrativas del Estado de Sinaloa y demás ordenamientos correlativos.
 
 ###### Artículo 110.
 
-Las personas titulares de los órganos personales y de la estructura administrativa, podrán ser removidas por quien las designó cuando dejen de cumplir con alguno de los requisitos señalados para su designación o incurran en responsabilidad, de acuerdo con lo previsto en el artículo anterior, sin perjuicio de las sanciones que se prevean en otras legislaciones.
-
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2025)</small>
+(DEROGADO, P.O. 11 DE MAYO DE 2026)
 
 ###### Artículo 111.
 
-Las personas integrantes del Consejo Académico responderán del cumplimiento de sus obligaciones ante el propio Consejo del que forman parte.
-
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2025)</small>
+(DEROGADO, P.O. 11 DE MAYO DE 2026)
 
 ###### Artículo 112.
 
-La persona titular de la Rectoría responderá de sus actos ante la Junta de Gobierno.
-
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2025)</small>
+(DEROGADO, P.O. 11 DE MAYO DE 2026)
 
 ###### Artículo 113.
 
-Las y los titulares de las diversas direcciones, unidades, la Abogacía General, y del Órgano Interno de Control y Evaluación, así como jefaturas de las diversas áreas de la Universidad, responderán de sus actos ante quien ejerza la Rectoría.
-
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2025)</small>
+(DEROGADO, P.O. 11 DE MAYO DE 2026)
 
 ###### Artículo 114.
 
-Las sanciones administrativas que se aplicará (sic) al personal de la Universidad que incurra en responsabilidad serán las siguientes:
-
-I. Amonestación pública o privada;
-
-II. Suspensión del empleo, cargo o comisión;
-
-III. Destitución de su empleo, cargo o comisión; y
-
-IV. Inhabilitación temporal para desempeñar empleos, cargos o comisiones en el servicio público y para participar en adquisiciones, arrendamientos, servicios u obras públicas.
-
-El procedimiento para la imposición de las sanciones administrativas será el establecido en la Ley de Responsabilidades Administrativas del Estado de Sinaloa.
-
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2025)</small>
+(DEROGADO, P.O. 11 DE MAYO DE 2026)
 
 ###### Artículo 115.
 
-En la imposición de sanciones administrativas los órganos competentes invariablemente deberán otorgar el derecho de audiencia al afectado.
-
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2025)</small>
+(DEROGADO, P.O. 11 DE MAYO DE 2026)
 
 ###### Artículo 116.
 
-La imposición de las sanciones administrativas al alumnado, personal académico y personal administrativo, se regulará en los ordenamientos correspondientes y conforme a la legislación aplicable.
+(DEROGADO, P.O. 11 DE MAYO DE 2026)
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2025)</small>
 
@@ -1875,11 +1979,11 @@ La imposición de las sanciones administrativas al alumnado, personal académico
 
 Se entiende por beca, el porcentaje de bonificación a los pagos de derechos que otorga la Universidad a su alumnado que realice estudios en los programas educativos. En el ingreso, permanencia, evaluación, de las becas e incentivos, se procurará preservar el principio de excelencia académica.
 
-> <small>(REFORMADO, P.O. 7 DE MAYO DE 2025)</small>
+> <small>(REFORMADO, P.O. 11 DE MAYO DE 2026)</small>
 
 ###### Artículo 118.
 
-La Universidad, de acuerdo con su disponibilidad presupuestal, podrá otorgar becas al alumnado que cursa sus programas educativos. Las becas serán solicitadas y otorgadas por el Consejo Académico, de acuerdo con los requisitos y procedimientos que establezca el Reglamento de Becas de la Universidad.
+La Universidad, de acuerdo con su capacidad financiera, podrá otorgar becas al alumnado que cursa sus programas educativos. Las becas serán solicitadas y otorgadas por el Consejo Académico, de acuerdo con los requisitos y procedimientos que establezca el Reglamento de Becas de la Universidad.
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2025)</small>
 
@@ -1994,3 +2098,9 @@ P.O. 7 DE MAYO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO. El titular de la Rectoría someterá a la consideración de la Junta de Gobierno, para su aprobación, las propuestas de reglamentos, manuales y demás normativa que derive del presente ordenamiento, contado a partir de la fecha de entrada en vigor del presente Estatuto.
+
+P.O. 11 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “ESTATUTO ORGÁNICO DE LA UNIVERSIDAD DE LA POLICÍA DEL ESTADO DE SINALOA”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
