@@ -4,7 +4,7 @@ identifier: "FED-reglamento-organico-del-banco-nacional-del-ejercito-fuerza-1150
 country: "mx"
 rank: "reglamento"
 publication_date: "1991-04-02"
-last_updated: "2024-09-30"
+last_updated: "2026-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1150&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1991-03-26"
 
 REGLAMENTO ORGÁNICO DEL BANCO NACIONAL DEL EJÉRCITO, FUERZA AÉREA Y ARMADA, SOCIEDAD NACIONAL DE CRÉDITO, INSTITUCIÓN DE BANCA DE DESARROLLO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE SEPTIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE MAYO DE 2026.
 
 Reglamento publicado en el Diario Oficial de la Federación, el martes 2 de abril de 1991.
 
@@ -89,15 +89,15 @@ La Sociedad tendrá duración indefinida.
 
 ### CAPÍTULO SEGUNDO. Del Capital Social
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE MAYO DE 2026)</small>
 
 ###### Artículo 7o.
 
-El capital social del Banco Nacional del Ejército, Fuerza Aérea y Armada, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $42,919,052,219.35 (cuarenta y dos mil novecientos diecinueve millones cincuenta y dos mil doscientos diecinueve pesos 35/100 M.N.).
+El capital social del Banco Nacional del Ejército, Fuerza Aérea y Armada, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, es de $54,859,961,310.26 (cincuenta y cuatro mil ochocientos cincuenta y nueve millones novecientos sesenta y un mil trescientos diez pesos 26/100 m.n.).
 
-> <small>(REFORMADO, D.O.F. 30 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO, D.O.F. 12 DE MAYO DE 2026)</small>
 
-Dicho capital social estará representado por 2,832,657,447 (dos mil ochocientos treinta y dos millones seiscientos cincuenta y siete mil cuatrocientos cuarenta y siete) certificados de aportación patrimonial de la Serie "A", con valor nominal de $10.00 (diez pesos 00/100 M.N.) cada uno, exhibidos y pagados, y por 1,459,247,775 (mil cuatrocientos cincuenta y nueve millones doscientos cuarenta y siete mil setecientos setenta y cinco) certificados de aportación patrimonial de la Serie "B" nominativos, con valor nominal de $10.00 (diez pesos 00/100 M.N.) cada uno, exhibidos, no pagados.
+Dicho capital social estará representado por 3,620,757,446 (tres mil seiscientos veinte millones setecientos cincuenta y siete mil cuatrocientos cuarenta y seis) certificados de aportación patrimonial de la Serie "A", con valor nominal de $10.00 (diez pesos 00/100 M.N.) cada uno, exhibidos y pagados, y por 1,865,238,685 (mil ochocientos sesenta y cinco millones doscientos treinta y ocho mil seiscientos ochenta y cinco) certificados de aportación patrimonial de la Serie "B" nominativos, con valor nominal de $10.00 (diez pesos 00/100 M.N.) cada uno, exhibidos, no pagados.
 
 > <small>(REFORMADO, D.O.F. 25 DE AGOSTO DE 2015)</small>
 
@@ -536,6 +536,14 @@ PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publi
 SEGUNDO.- De conformidad con lo establecido en los artículos 30, último párrafo y 38, primer párrafo de la Ley de Instituciones de Crédito, el Banco Nacional del Ejército, Fuerza Aérea y Armada, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, deberá inscribir en el Registro Público de Comercio las modificaciones que por virtud del presente Acuerdo se realicen a su Reglamento Orgánico.
 
 D.O.F. 30 DE SEPTIEMBRE DE 2024.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL CUAL SE MODIFICA EL ARTÍCULO 7o. PÁRRAFOS PRIMERO Y SEGUNDO DEL REGLAMENTO ORGÁNICO DEL BANCO NACIONAL DEL EJÉRCITO, FUERZA AÉREA Y ARMADA, SOCIEDAD NACIONAL DE CRÉDITO, INSTITUCIÓN DE BANCA DE DESARROLLO, A EFECTO DE AUMENTAR EL CAPITAL SOCIAL DEL MISMO”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- De conformidad con lo establecido en los artículos 30, último párrafo y 38, primer párrafo de la Ley de Instituciones de Crédito, el Banco Nacional del Ejército, Fuerza Aérea y Armada, Sociedad Nacional de Crédito, Institución de Banca de Desarrollo, deberá inscribir en el Registro Público de Comercio las modificaciones que por virtud del presente Acuerdo se realicen a su Reglamento Orgánico.
+
+D.O.F. 12 DE MAYO DE 2026.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL CUAL SE MODIFICA EL ARTÍCULO 7o. PÁRRAFOS PRIMERO Y SEGUNDO DEL REGLAMENTO ORGÁNICO DEL BANCO NACIONAL DEL EJÉRCITO, FUERZA AÉREA Y ARMADA, SOCIEDAD NACIONAL DE CRÉDITO, INSTITUCIÓN DE BANCA DE DESARROLLO, A EFECTO DE AUMENTAR EL CAPITAL SOCIAL DEL MISMO”.]
 
