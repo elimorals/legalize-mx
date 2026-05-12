@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-legislativo-del-estado-de-guerrero-11666
 country: "mx"
 rank: "ley_organica"
 publication_date: "2016-08-12"
-last_updated: "2025-06-13"
+last_updated: "2026-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116664&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 231
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado No. 65 Alcance II, el viernes 12 de agosto de 2016.
 
@@ -2827,7 +2827,9 @@ A las sesiones de las Comisiones o Comités asistirán sus integrantes con derec
 
 Las Presidentas y Presidentes de las Comisiones y de los Comités, previo acuerdo de la mayoría de sus integrantes, podrán invitar a reunión de trabajo, solicitar información y/o documentación a las personas titulares de las Dependencias, Entidades y Órganos con Autonomía Técnica de los Poderes Ejecutivo, Legislativo y Judicial; de los Órganos Autónomos; así como, de los Ayuntamientos del Estado, cuando se trate de un asunto sobre su ramo o área de trabajo y sus atribuciones.
 
-La persona titular requerida deberá proporcionar la información a la brevedad posible; en caso de que, después de dos requerimientos consecutivos, sea omiso en proporcionarla sin causa justificada, se le podrá llamar a comparecer y/o se hará del conocimiento a su superior jerárquico para los efectos legales conducentes.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2026)</small>
+
+La persona servidora pública deberá remitir la información y/o documentación requerida en un plazo no mayor de 15 días naturales a partir de recibida la solicitud, si en dicho plazo no lo hiciere se le hará un segundo requerimiento por un plazo adicional de 5 días naturales. Si transcurrido el segundo plazo persiste la omisión sin causa justificada, se le informará a la Presidencia de la Junta de Coordinación Política para que por su conducto haga del conocimiento de su superior jerárquico para los efectos conducentes, y de ser el caso, solicitar la comparecencia de la servidora o servidor público omisivo, así como la vista al órgano interno de control o su equivalente del ente público para los efectos legales conducentes en términos de la Ley de Responsabilidades Administrativas para el Estado de Guerrero.
 
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2025)</small>
 
@@ -6040,3 +6042,13 @@ PRIMERO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 SEGUNDO.- Remítase este Decreto a la Titular del Poder Ejecutivo del Estado Libre y Soberano de Guerrero, para su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero y los efectos legales conducentes.
 
 TERCERO.- Publíquese en el Periódico Oficial del Gobierno del Estado, la Gaceta, en el Portal Web del H. Congreso del Estado, en las redes sociales de internet y difúndase a través de los medios de comunicación para su difusión.
+
+P.O. 12 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 509 POR EL QUE SE REFORMA EL ARTÍCULO 168 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 231”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase este Decreto a la Titular del Poder Ejecutivo del Estado Libre y Soberano de Guerrero, para su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero y los efectos legales conducentes.
+
+TERCERO. Publíquese en la Gaceta Parlamentaria y el Portal Web del H. Congreso del Estado, para su conocimiento general.
