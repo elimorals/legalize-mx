@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-494-para-la-igualdad-entre-mujeres-y-hombres-del-784
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-28"
-last_updated: "2024-06-28"
+last_updated: "2026-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78411&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 494 PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JUNIO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el martes 28 de diciembre de 2010.
 
@@ -51,7 +51,9 @@ La presente Ley es de orden público, de interés social y de observancia genera
 
 El objeto de la presente Ley es:
 
-I. Regular y garantizar la igualdad entre mujeres y hombres;
+> <small>(REFORMADA, P.O 12 DE MAYO DE 2026)</small>
+
+I. Regular y garantizar la igualdad de género entre mujeres y hombres;
 
 II. Generar las condiciones para eliminar cualquier forma de discriminación por razón de género;
 
@@ -67,7 +69,9 @@ Esta Ley regulará los principios, objetivos, programas, responsabilidades e ins
 
 Son principios rectores de la presente Ley:
 
-I. La igualdad;
+> <small>(REFORMADA, P.O 12 DE MAYO DE 2026)</small>
+
+I. La igualdad sustantiva;
 
 II. La no discriminación por razón de sexo;
 
@@ -103,7 +107,9 @@ En caso de incompatibilidad o de duda entre las disposiciones de esta Ley y de c
 
 Para los efectos de esta Ley, se entenderá por:
 
-I. Acciones afirmativas: El conjunto de medidas de carácter temporal encaminadas a acelerar la igualdad de hecho entre mujeres y hombres;
+> <small>(REFORMADA, P.O 12 DE MAYO DE 2026)</small>
+
+I. Acciones afirmativas: El conjunto de medidas de carácter temporal encaminadas a acelerar la igualdad sustantiva de hecho entre mujeres y hombres;
 
 II. Diversidad y diferencia: La diversidad y las diferencias existentes no sólo entre mujer y hombre en cuanto a su condición biológica, psicológica, social, cultural, de vida, de aspiraciones y necesidades, sino como la diversidad y diferencias existentes dentro de los propios colectivos de mujeres y hombres;
 
@@ -136,6 +142,36 @@ XV. Transversalidad: El proceso que permite garantizar la incorporación de la p
 > <small>(ADICIONADA, P.O. 28 DE JUNIO DE 2024)</small>
 
 XVI. Unidad para la Igualdad de Género y No Discriminación: área administrativa que tiene por objeto promover la incorporación de la perspectiva de género en las políticas, programas, proyectos, normas, procesos y acciones de las Entidades, Instituciones, Dependencias, Poderes Públicos del Estado, Municipios y Órganos Autónomos; así como la cultura institucional, mediante el fortalecimiento de las capacidades institucionales que aseguren la igualdad de oportunidades entre los géneros, el respeto de los derechos humanos de todas las personas, la eliminación de la violencia y la no discriminación.
+
+> <small>(ADICIONADA, P.O 12 DE MAYO DE 2026)</small>
+
+XVII. Brecha salarial de género: Es la diferencia de retribución salarial entre mujeres y hombres por razones de género, respecto a la realización de un trabajo remunerado de igual valor.
+
+> <small>(ADICIONADA, P.O 12 DE MAYO DE 2026)</small>
+
+XVIII. Discriminación: Toda distinción, exclusión, restricción o preferencia que por acción u omisión con intención o sin ella, tenga por objeto o resultado obstaculizar, restringir, impedir, menoscabar o anular el reconocimiento, goce o ejercicio de los derechos humanos, las libertades y la igualdad sustantiva de oportunidades en las esferas social, cultural, educativa, política, institucional, laboral o cualquier otra, incluyendo cualquier acción u omisión que directa o indirectamente provoque o perpetúe la brecha de género en cualquier ámbito. Lo anterior, cuando la distinción, exclusión, restricción o preferencia en esos términos se base en uno o más de los siguientes motivos: el origen étnico o nacional, el color de piel, la cultura, el sexo, el género, la edad, las discapacidades, la condición social, económica, de salud o jurídica, el embarazo, la lengua o el idioma, las creencias religiosas o espirituales, la apariencia y/o condición física, las características genéticas, la situación migratoria, las opiniones, la identidad de género, la orientación sexual, la identidad o filiación política, el estado civil, la situación familiar, las responsabilidades familiares, profesión o actividad laboral, los antecedentes penales o cualquier otro motivo análogo.
+
+También se entenderá como discriminación la homofobia, misoginia, cualquier manifestación de xenofobia, segregación racial, antisemitismo, así como la discriminación racial y otras formas conexas de intolerancia.
+
+> <small>(ADICIONADA, P.O 12 DE MAYO DE 2026)</small>
+
+XIX. Discriminación contra la mujer: Toda distinción, exclusión o restricción basada en el sexo que tenga por objeto o por resultado menoscabar o anular el reconocimiento, goce o ejercicio por la mujer, independientemente de su estado civil, sobre la base de la igualdad del hombre y la mujer, de los derechos humanos y las libertades fundamentales en las esferas política, económica, social, cultural y civil o en cualquier otra esfera.
+
+> <small>(ADICIONADA, P.O 12 DE MAYO DE 2026)</small>
+
+XX. Igualdad de género: Situación en la cual mujeres y hombres acceden con las mismas posibilidades y oportunidades al uso, control y beneficio de bienes, servicios y recursos de la sociedad, así como a la toma de decisiones en todos los ámbitos de la vida social, económica, política, saludable, cultural y familiar.
+
+> <small>(ADICIONADA, P.O 12 DE MAYO DE 2026)</small>
+
+XXI. Igualdad salarial: Remuneración igual por un trabajo de igual valor, sin distinguir el sexo, el género, la identidad de género, el origen étnico, la orientación sexual, la edad, las discapacidades, la condición social, económica, de salud o jurídica, entre otras.
+
+> <small>(ADICIONADA, P.O 12 DE MAYO DE 2026)</small>
+
+XXII. Igualdad sustantiva: Es el acceso al mismo trato y oportunidades para el reconocimiento, goce o ejercicio de los derechos humanos y las libertades fundamentales.
+
+> <small>(ADICIONADA, P.O 12 DE MAYO DE 2026)</small>
+
+XXIII. Perspectiva de género: Concepto que se refiere a la metodología y los mecanismos que permiten identificar, cuestionar y valorar la discriminación, desigualdad y exclusión de las mujeres que se pretende justificar con base en las diferencias biológicas entre mujeres y hombres, así como las acciones que deben emprenderse para actuar sobre los factores de género y crear condiciones de cambio que permitan avanzar en la construcción de la igualdad de género.
 
 > <small>(ADICIONADO, P.O. 9 DE MAYO DE 2017)</small>
 
@@ -217,11 +253,17 @@ VIII. Asegurar el uso de un lenguaje no sexista en el ámbito administrativo y s
 
 IX. Transversalizar el principio de igualdad de trato y de no discriminación por razón de sexo en todas las relaciones sociales;
 
-> <small>(REFORMADA, P.O 28 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADA, P.O 12 DE MAYO DE 2026)</small>
 
-X. Garantizar el principio de paridad de género de mujeres y hombres en los nombramientos y designaciones de los cargos de responsabilidad que les correspondan; y
+X. Garantizar el principio de paridad de género de mujeres y hombres en los nombramientos y designaciones de los cargos de responsabilidad que les correspondan;
 
-XI. Mantener y preservar los derechos adquiridos a favor de las mujeres en el Estado.
+> <small>(REFORMADA, P.O 12 DE MAYO DE 2026)</small>
+
+XI. Mantener y preservar los derechos adquiridos a favor de las mujeres en el Estado;
+
+> <small>(ADICIONADA, P.O 12 DE MAYO DE 2026)</small>
+
+XII. Establecer mecanismos para garantizar que mujeres y hombres reciban igual remuneración de trabajo de igual valor.
 
 ###### Artículo 15.
 
@@ -238,6 +280,10 @@ IV. Coordinar las tareas en materia de igualdad mediante acciones específicas y
 V. Proponer iniciativas y políticas de cooperación para el desarrollo de mecanismos de participación igualitaria de mujeres y hombres, en los ámbitos de la economía, toma de decisiones y en la vida social, cultural y civil; y
 
 VI. Suscribir convenios o acuerdos interinstitucionales con instancias nacionales e internacionales.
+
+> <small>(ADICIONADA, P.O 12 DE MAYO DE 2026)</small>
+
+VII. Proponer políticas de cooperación para el desarrollo de mecanismos de participación igualitaria de mujeres y hombres, en todos los ámbitos.
 
 En la celebración de convenios, deberán tomarse en consideración los recursos presupuestarios, materiales y humanos que para el cumplimiento de la presente Ley, determinen los ordenamientos aplicables.
 
@@ -341,9 +387,17 @@ V. Garantizar la igualdad de oportunidades, mediante la adopción de políticas 
 
 VI. Incorporar en el Presupuesto de Egresos del Estado, la asignación de recursos para el cumplimiento de la política estatal en materia de igualdad entre mujeres y hombres;
 
-VII. Promover la aplicación de la Ley General y de la presente Ley; y
+> <small>(REFORMADA, P.O 12 DE MAYO DE 2026)</small>
 
-VIII. Las demás que esta Ley y otros ordenamientos aplicables le confieren.
+VII. Promover la aplicación de la Ley General y de la presente Ley;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O 12 DE MAYO DE 2026)</small>
+
+VIII. Implementar políticas públicas con el objeto de establecer de manera efectiva el principio de igualdad de condiciones laborales entre mujeres y hombres, para reducir y erradicar la brecha salarial de género; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN VIII], P.O 12 DE MAYO DE 2026)</small>
+
+IX. Las demás que esta Ley y otros ordenamientos aplicables le confieren.
 
 ### CAPÍTULO III. De los Municipios
 
@@ -357,9 +411,17 @@ II. Coparticipar con el Ejecutivo Estatal, en la consolidación de los programas
 
 III. Diseñar, formular y aplicar campañas de concientización y programas de desarrollo que promuevan la igualdad entre mujeres y hombres;
 
-IV. Promover la participación social, política, cultural, económica y ciudadana, dirigida a lograr la igualdad entre mujeres y hombres, tanto en las áreas urbanas como en las rurales; y
+> <small>(REFORMADA, P.O 12 DE MAYO DE 2026)</small>
 
-V. Elaborar su presupuesto de egresos con enfoque de género, incorporando la asignación de recursos para el cumplimiento en el ámbito de su competencia de la política de igualdad entre mujeres y hombres.
+IV. Promover la participación social, política, cultural, económica y ciudadana, dirigida a lograr la igualdad entre mujeres y hombres, tanto en las áreas urbanas como en las rurales;
+
+> <small>(REFORMADA, P.O 12 DE MAYO DE 2026)</small>
+
+V. Elaborar su presupuesto de egresos con enfoque de género, incorporando la asignación de recursos para el cumplimiento en el ámbito de su competencia de la política de igualdad entre mujeres y hombres; y
+
+> <small>(ADICIONADA, P.O 12 DE MAYO DE 2026)</small>
+
+VI. Diseñar, implementar y evaluar las políticas públicas y medidas para fortalecer el acceso de las mujeres al empleo, la aplicación efectiva del principio de igualdad y no discriminación en las condiciones de trabajo y la eliminación de la brecha de (sic) salarial en los sectores público y privado.
 
 ### CAPÍTULO IV. De los Poderes Legislativo y Judicial del Estado
 
@@ -391,13 +453,19 @@ La sociedad civil organizada para el cumplimiento de lo establecido en el artíc
 
 ### CAPÍTULO I. Disposiciones generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O 12 DE MAYO DE 2026)</small>
+
 ###### Artículo 24.
 
-La política de igualdad entre mujeres y hombres que desarrollen las autoridades y entes públicos y privados en el Estado, deberá establecer las acciones conducentes para lograr la igualdad sustantiva en el ámbito económico, político, social y cultural.
+La política de igualdad entre mujeres y hombres que desarrollen las autoridades y entes públicos y privados en el Estado, deberá establecer las acciones conducentes para lograr la igualdad sustantiva en todos los ámbitos de la vida, principalmente familiar, de salud, laboral, económico, político, social, y cultural.
 
-La política de igualdad entre mujeres y hombres que desarrollen las autoridades y entes públicos, deberá considerar, en forma enunciativa y no limitativa, los lineamientos siguientes:
+> <small>(REFORMADO, P.O 12 DE MAYO DE 2026)</small>
 
-I. Fomentar la igualdad entre mujeres y hombres en todos los ámbitos de la vida;
+La política de igualdad sustantiva entre mujeres y hombres que desarrollen las autoridades y entes públicos, deberá considerar, en forma enunciativa y no limitativa, los lineamientos siguientes:
+
+> <small>(REFORMADA, P.O 12 DE MAYO DE 2026)</small>
+
+I. Fomentar la igualdad sustantiva entre mujeres y hombres en todos los ámbitos de la vida;
 
 II. Garantizar que la planeación presupuestal incorpore acciones afirmativas que aseguren la progresividad con perspectiva de género, apoye la transversalidad y prevea el cumplimiento de los programas, proyectos, acciones y convenios para la igualdad entre mujeres y hombres;
 
@@ -409,9 +477,17 @@ IV. Implementar y promover acciones para garantizar la igualdad de acceso y el p
 
 V. Garantizar la integración del principio de igualdad de trato y de oportunidades en el conjunto de las políticas públicas, con el fin de evitar la segregación laboral y eliminarlas (sic) diferencias remuneratorias, así como potenciar el crecimiento del empresariado femenino y el valor del trabajo de las mujeres;
 
-VI. Fomentar la igualdad entre mujeres y hombres en la vida civil; y
+> <small>(REFORMADA, P.O 12 DE MAYO DE 2026)</small>
 
-VII. Impulsar el fortalecimiento de los patrones culturales que promuevan la eliminación y erradiquen estereotipos establecidos en función del sexo.
+VI. Fomentar la igualdad entre mujeres y hombres en la vida civil;
+
+> <small>(REFORMADA, P.O 12 DE MAYO DE 2026)</small>
+
+VII. Impulsar el fortalecimiento de los patrones culturales que promuevan la eliminación y erradiquen estereotipos establecidos en función del sexo; y
+
+> <small>(ADICIONADA, P.O 12 DE MAYO DE 2026)</small>
+
+VIII. Establecer medidas para eliminar la brecha salarial de género en todos los ámbitos laborales.
 
 ### CAPÍTULO II. De los instrumentos de la política de igualdad entre mujeres y hombres
 
@@ -653,15 +729,25 @@ III. Incluir la preparación inicial y permanente del profesorado en cursos sobr
 
 IV. Desarrollar proyectos y programas dirigidos a fomentar el conocimiento y la difusión del principio de igualdad entre mujeres y hombres;
 
-V. Establecer medidas educativas destinadas al reconocimiento y enseñanza del papel de las mujeres en la historia; y
+> <small>(REFORMADA, P.O 12 DE MAYO DE 2026)</small>
 
-VI. Fomentar, en el ámbito de la educación superior, la enseñanza y la investigación sobre el significado y alcance de la igualdad entre mujeres y hombres.
+V. Establecer medidas educativas destinadas al reconocimiento y enseñanza del papel de las mujeres en la historia;
+
+> <small>(REFORMADA, P.O 12 DE MAYO DE 2026)</small>
+
+VI. Fomentar, en el ámbito de la educación superior, la enseñanza y la investigación sobre el significado y alcance de la igualdad entre mujeres y hombres; y
+
+> <small>(ADICIONADA, P.O 12 DE MAYO DE 2026)</small>
+
+VII. Promover acciones de educación y sensibilización para promover la igualdad salarial y erradicar los estereotipos de género.
 
 ### CAPÍTULO III. De la igualdad entre mujeres y hombres en la vida económica y laboral
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O 12 DE MAYO DE 2026)</small>
+
 ###### Artículo 50.
 
-Será objetivo de la presente Ley en la vida económica y laboral, garantizar la igualdad entre mujeres y hombres.
+Será objetivo de la presente Ley en la vida económica y laboral, garantizar la igualdad sustantiva entre mujeres y hombres.
 
 La política estatal promoverá y fomentará que las personas físicas y morales, titulares de empresas o establecimientos, generadores de empleo, den cumplimiento a la presente Ley, para lo cual se aplicarán medidas dirigidas a erradicar cualquier tipo de discriminación laboral entre mujeres y hombres.
 
@@ -695,9 +781,25 @@ XI. Diseñar políticas y programas de desarrollo humano y de reducción de la p
 
 XII. Difundir conjuntamente con las empresas o personas, los planes que apliquen éstas en materia de igualdad entre mujeres y hombres;
 
-XIII. Reforzar la cooperación entre los órdenes de Gobierno, para supervisar la aplicación de las acciones que establece el presente artículo; y
+> <small>(REFORMADA, P.O 12 DE MAYO DE 2026)</small>
 
-XIV. Establecer estímulos y certificados de igualdad que se concederán anualmente a las empresas que hayan aplicado políticas y prácticas en materia de igualdad entre mujeres y hombres.
+XIII. Reforzar la cooperación entre los órdenes de Gobierno, para supervisar la aplicación de las acciones que establece el presente artículo;
+
+> <small>(REFORMADA, P.O 12 DE MAYO DE 2026)</small>
+
+XIV. Establecer estímulos y certificados de igualdad que se concederán anualmente a las empresas que hayan aplicado políticas y prácticas en materia de igualdad entre mujeres y hombres;
+
+> <small>(ADICIONADA, P.O 12 DE MAYO DE 2026)</small>
+
+XV. Implementar políticas y acciones específicas destinadas a reducir y eliminar la brecha salarial entre mujeres y hombres en el ámbito laboral;
+
+> <small>(ADICIONADA, P.O 12 DE MAYO DE 2026)</small>
+
+XVI. Promover incentivos fiscales a las empresas que hayan implementado políticas y prácticas para reducir la brecha salarial de género; y
+
+> <small>(ADICIONADA, P.O 12 DE MAYO DE 2026)</small>
+
+XVII. Fomentar la igualdad sustantiva y la erradicación de la brecha salarial de género desde la contratación hasta la designación de puestos directivos.
 
 ### CAPÍTULO IV. De la participación y representación política equilibrada de las mujeres y los hombres
 
@@ -917,9 +1019,17 @@ V. Coordinarse con los responsables de la ejecución de los planes y programas, 
 
 VI. Hacer pública la información estadística y geográfica a su cargo, así como el informe del resultado de sus evaluaciones, haciendo uso de medios electrónicos y de difusión más adecuados;
 
-VII. Integrar el informe del resultado de las evaluaciones, el cual será entregado al Pleno del Sistema, al Congreso y a la Secretaría, para su conocimiento y efectos legales procedentes; y
+> <small>(REFORMADA, P.O 12 DE MAYO DE 2026)</small>
 
-VIII. Realizar los estudios e investigaciones necesarias para el logro de sus objetivos.
+VII. Integrar el informe del resultado de las evaluaciones, el cual será entregado al Pleno del Sistema, al Congreso y a la Secretaría, para su conocimiento y efectos legales procedentes;
+
+> <small>(REFORMADA, P.O 12 DE MAYO DE 2026)</small>
+
+VIII. Realizar los estudios e investigaciones necesarias para el logro de sus objetivos; y
+
+> <small>(ADICIONADA, P.O 12 DE MAYO DE 2026)</small>
+
+IX. Establecer mecanismos sistemáticos de monitoreo, seguimiento y evaluación que permitan medir de manera objetiva y periódica el impacto de la política de igualdad sustantiva, así como la eficacia de las acciones, programas y medidas implementadas en el marco de la presente ley.
 
 > <small>(ADICIONADO, P.O. 25 DE NOVIEMBRE DE 2011)</small>
 
@@ -1098,3 +1208,13 @@ TERCERO.- Para la operatividad de las Unidades de Género, se emplearán los rec
 CUARTO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado para el conocimiento general y efectos legales procedentes.
 
 QUINTO.- Colóquese y publíquese en la página de la Gaceta Parlamentaria del Congreso del Estado de Guerrero, así como en las diferentes Redes Sociales del mismo, para su mayor difusión y conocimiento.
+
+P.O. 12 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 512 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES A LA LEY NÚMERO 494 PARA LA IGUALDAD ENTRE MUJERES Y HOMBRES DEL ESTADO DE GUERRERO".]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase a la persona Titular del Poder Ejecutivo Estatal, para su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero y los efectos legales conducentes.
+
+TERCERO. Publíquese el presente en la Gaceta Parlamentaria, en el Portal web del H. Congreso del Estado y difúndase a través de los medios oficiales para su conocimiento general.
