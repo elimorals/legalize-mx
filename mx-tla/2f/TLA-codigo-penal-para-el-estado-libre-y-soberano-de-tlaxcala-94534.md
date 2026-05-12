@@ -4,7 +4,7 @@ identifier: "TLA-codigo-penal-para-el-estado-libre-y-soberano-de-tlaxcala-94534"
 country: "mx"
 rank: "codigo"
 publication_date: "2013-05-31"
-last_updated: "2026-03-27"
+last_updated: "2026-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TLA"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2026.
 
 Código publicado en el No. 2 Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 31 de mayo de 2013.
 
@@ -3565,23 +3565,59 @@ Si se ejerciera violencia, las penas previstas se aumentarán en un tercio.
 
 ### CAPÍTULO II. ABUSO SEXUAL
 
-> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2022)</small>
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2026)</small>
 
 ###### Artículo 290.
 
-A quien, sin el consentimiento de una persona, ejecute en ella o la haga ejecutar uno o varios actos de naturaleza sexual, sin el propósito de llegar a la cópula, se le impondrá prisión de uno a tres años y multa de setenta y dos a doscientas dieciséis veces el valor de la Unidad de Medida y Actualización.
+Comete el delito de abuso sexual quien sin el consentimiento de la víctima y sin el propósito de llegar a la cópula, realice cualquier acto de naturaleza sexual, la obligue a observarlo, o la haga ejecutarlo sobre sí, para un tercero o para el propio sujeto activo.
 
-Si se hiciera uso de violencia física o moral, la pena será de tres a cinco años de prisión y multa de doscientas dieciséis a trescientas sesenta veces el valor de la Unidad de Medida y Actualización.
+Se entiende por acto de naturaleza sexual las acciones no consentidas como tocamientos, caricias, roces corporales, exhibiciones o representaciones sexuales explícitas o cuando se obligue a la víctima a exhibir su cuerpo.
 
-> <small>(REFORMADO, P.O. 10 DE OCTUBRE DE 2022)</small>
+Para los efectos del presente artículo no se considera consentimiento cuando la voluntad de la persona haya sido anulada o viciada por violencia, intimidación, engaño, amenaza, abuso de confianza, autoridad o situación de vulnerabilidad. El consentimiento no podrá presumirse del silencio, la pasividad o por la falta de resistencia física de la víctima.
+
+A quien cometa este delito se le impondrá una pena de tres a siete años de prisión y multa de doscientas a quinientas veces el valor de la Unidad de Medida y Actualización. Asimismo, se impondrá la obligación de acudir a talleres reeducativos con perspectiva de género y no violencia contra las mujeres y/o prestar servicio social en favor del Estado o de instituciones de beneficencia pública, a fin de favorecer medidas de no repetición y promover un cambio cultural a favor de la igualdad sustantiva entre mujeres y hombres.
+
+Este delito se perseguirá de oficio.
+
+Las penas previstas en este artículo se aumentarán en una tercera parte cuando el delito se cometa en cualquiera de las siguientes circunstancias:
+
+I. Con violencia física o psicológica;
+
+II. Por dos o más personas;
+
+III. En un lugar despoblado, solitario o poco accesible;
+
+IV. Cuando exista o haya existido entre el agresor y la víctima una relación de confianza, sentimental, de parentesco por consanguinidad o afinidad, laboral, educativa, docente, de formación deportiva, artística o religiosa;
+
+V. Cuando se realice por persona que tenga a la víctima bajo su responsabilidad la custodia, guarda, tutela, cuidado o dependencia económica;
+
+VI. Cuando se realice por persona servidora pública aprovechando su empleo, cargo o comisión. En este caso, además de la pena de prisión, la persona agresora será destituida del cargo, empleo o comisión e inhabilitada para el ejercicio de servicio público por un plazo igual al de la pena privativa de la libertad sin perjuicio de otras sanciones administrativas o civiles que correspondan;
+
+VII. Cuando se realice por profesionista aprovechando su empleo, cargo o comisión. En este caso, además de la pena de prisión, la persona agresora será inhabilitada para el ejercicio de la profesión por un plazo igual al de la pena privativa de la libertad sin perjuicio de otras sanciones administrativas o civiles;
+
+VIII. Cuando se realice por ministro de culto aprovechando su cargo, función o comisión;
+
+IX. Cuando la víctima se encuentre bajo los efectos de alcohol, fármacos, narcóticos u otras sustancias que afecten su voluntad o discernimiento;
+
+X. Cuando la víctima se encuentre en estado de embarazo o puerperio;
+
+XI. Cuando se cometa contra personas por su orientación sexual, identidad de género o expresión de género, y
+
+XII. Cuando la víctima se encuentre en estado de vulnerabilidad.
+
+Adicional a las sanciones establecidas en este artículo, se impondrá al sujeto activo el cumplimiento de la reparación integral del daño, que deberá incluir, entre otras medidas establecidas en la Ley General de Víctimas o en la Ley de Víctimas del Estado de Tlaxcala, la atención psicológica especializada para la víctima, hasta su total recuperación.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2026)</small>
 
 ###### Artículo 291.
 
-A quien ejecute un acto sexual, sin el propósito de llegar a la cópula, en una persona menor de doce años o en persona que no tenga la capacidad de comprender el significado del hecho o que por cualquier causa no pueda resistirla o la obligue a ejecutarla, se le impondrán de cuatro a seis años de prisión y multa doscientas ochenta y ocho a cuatrocientas treinta y dos veces el valor de la Unidad de Medida y Actualización.
+A quien ejecute un acto sexual, sin el propósito de llegar a la cópula, en una persona menor de doce años o en persona que no tenga la capacidad de comprender el significado del hecho o que por cualquier causa no pueda resistirla o la obligue a ejecutarla, se le impondrán de cinco a diez años de prisión y multa de trescientas a seiscientas veces el valor de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2026)</small>
 
 ###### Artículo 292.
 
-Las penas previstas para los delitos de violación y de abuso sexual, se aumentarán en dos terceras partes, cuando fueren cometidos:
+Las penas previstas para el delito de violación, se aumentarán en dos terceras partes, cuando fueren cometidos:
 
 I. Con intervención directa o inmediata de dos o más personas;
 
@@ -6180,5 +6216,25 @@ El presente Decreto entrará en vigor el día siguiente al de su publicación en
 Los procedimientos penales que se hayan iniciado antes de la entrada en vigor del presente Decreto, deberán concluirse aplicando la legislación penal vigente en el momento de la comisión del delito.
 
 ###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido de este Decreto.
+
+P.O. 12 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 269.- SE REFORMAN LOS ARTÍCULOS 290, 291 Y 292, DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE TLAXCALA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos penales que se hayan iniciado antes de la entrada en vigor del presente Decreto, deberán concluirse aplicando la legislación penal vigente en el momento de la comisión del delito, o en su caso aplicando en todo momento la ley penal que resulte más favorable al imputado.
+
+###### ARTÍCULO TERCERO.
+
+En cumplimiento con la agenda de homologación nacional, la Fiscalía General de Justicia del Estado deberá adecuar la normatividad interna y de procedimientos en un plazo no mayor a sesenta días naturales a partir de la entrada en vigor del presente Decreto, para garantizar la aplicación inmediata de la persecución de oficio del delito previsto en el artículo 290 del Código Penal para el Estado Libre y Soberano de Tlaxcala.
+
+###### ARTÍCULO CUARTO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido de este Decreto.
