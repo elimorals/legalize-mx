@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-poder-legislativo-del-estado-de-quintana-13678
 country: "mx"
 rank: "ley_organica"
 publication_date: "2019-06-14"
-last_updated: "2025-12-04"
+last_updated: "2026-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=136781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2026.
 
 Ley publicada en el Número 11 del Periódico Oficial del Estado de Quintana Roo, el viernes 14 de junio de 2019.
 
@@ -1217,11 +1217,15 @@ XIV. Comisión de Salud y Asistencia Social;
 
 XV. Comisión de Derechos Humanos;
 
-XVI. Comisión para la Igualdad de Género;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2026)</small>
+
+XVI. Comisión para la Igualdad Sustantiva de Género;
 
 XVII. Comisión de Educación, Ciencia y Tecnología;
 
-XVIII. Comisión de Medio Ambiente y Cambio Climático;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2026)</small>
+
+XVIII. Comisión de Medio Ambiente, Cambio Climático y de Protección y Bienestar Animal;
 
 XIX. Comisión de Cultura;
 
@@ -3204,3 +3208,27 @@ P.O. 4 DE DICIEMBRE DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 12 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO: 231 POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO Y DEL REGLAMENTO DE COMISIONES DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, toda referencia en el marco normativo estatal a la Comisión para la Igualdad de Género de la Legislatura del Estado deberá entenderse realizada a la Comisión para la Igualdad Sustantiva de Género.
+
+Los asuntos, iniciativas y expedientes que a la fecha de entrada en vigor de este Decreto se encuentren en trámite ante la Comisión para la Igualdad de Género, continuarán su curso legal sin interrupción en la Comisión para la Igualdad Sustantiva de Género.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 12 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 232, POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO Y POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE COMISIONES DEL PODER LEGISLATIVO DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, toda referencia en el marco normativo estatal a la Comisión de Medio Ambiente y Cambio Climático de la Legislatura del Estado deberá entenderse realizada a la Comisión de Medio Ambiente, Cambio Climático y de Protección y Bienestar Animal.
+
+Los asuntos, iniciativas y expedientes que a la fecha de entrada en vigor de este Decreto se encuentren en trámite ante la Comisión de Medio Ambiente y Cambio Climático, continuarán su curso legal sin interrupción en la Comisión de Medio Ambiente, Cambio Climático y de Protección y Bienestar Animal.
+
+TERCERO. Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
