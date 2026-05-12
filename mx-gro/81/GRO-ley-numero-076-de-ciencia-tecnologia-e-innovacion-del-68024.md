@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-076-de-ciencia-tecnologia-e-innovacion-del-68024"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-03"
-last_updated: "2023-11-14"
+last_updated: "2026-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68024&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NUMERO 076 DE CIENCIA, TECNOLOGIA E INNOVACION DEL ESTADO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE NOVIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 3 de abril de 2009.
 
@@ -79,11 +79,15 @@ VI. Implementar un programa de estímulos económicos y reconocimientos a la com
 
 VII. Crear la Red de Información Científica y Tecnológica e Innovación del Estado de Guerrero;
 
-VIII. Establecer el Sistema Estatal de Investigadores;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2026)</small>
+
+VIII. Establecer el Sistema Estatal de Investigadoras e Investigadores;
 
 IX. Promover la gestión de recursos financieros y materiales ante instancias de diversa naturaleza, que posibilite el fortalecimiento y la consolidación de los trabajos inherentes a sus fines;
 
-X. Asesorar en materia de ciencia, tecnología e innovación al Titular del Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2026)</small>
+
+X. Asesorar en materia de ciencia, tecnología e innovación a la persona Titular del Ejecutivo del Estado;
 
 XI. Promover la especialización de recursos humanos en cualquiera de las áreas de la ciencia, la tecnología y la innovación, que sean prioritarias para el desarrollo del Estado;
 
@@ -119,11 +123,25 @@ IX. Programa: El Programa Estatal de Ciencia, Tecnología e Innovación;
 
 X. Secretarías: Las Secretarías de Despacho del Gobierno de Guerrero;
 
-XI. SEI: El Sistema Estatal de Investigadores;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2026)</small>
 
-XII. Sistema Estatal: El Sistema Estatal de Ciencia, Tecnología e Innovación; y
+XI. SEII: El Sistema Estatal de Investigadoras e Investigadores;
 
-XIII. Red: La Red de Información Científica, Tecnológica e Innovación del Estado de Guerrero.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2026)</small>
+
+XII. Sistema Estatal: El Sistema Estatal de Ciencia, Tecnología e Innovación;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2026)</small>
+
+XIII. Red: La Red de Información Científica, Tecnológica e Innovación del Estado de Guerrero;
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2026)</small>
+
+XIV. Igualdad sustantiva: Los mecanismos por los que se garantiza que mujeres y hombres accedan con las mismas oportunidades al desarrollo científico, tecnológico y de innovación, asegurando el goce y ejercicio efectivo de sus derechos en condiciones de equidad, y
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2026)</small>
+
+XV. Perspectiva de género: La metodología y los mecanismos que permiten identificar, cuestionar y corregir las desigualdades, exclusiones o sesgos basados en el género dentro del ámbito de la ciencia, la tecnología y la innovación, promoviendo la incorporación equitativa de mujeres y hombres en los procesos de investigación, desarrollo tecnológico, educación científica y toma de decisiones, con el propósito de avanzar hacia la igualdad sustantiva en este sector.
 
 ### CAPÍTULO II. DEL SISTEMA ESTATAL DE CIENCIA, TECNOLOGÍA E INNOVACIÓN
 
@@ -137,9 +155,17 @@ II. Impulsar el desarrollo y vinculación de la ciencia y la innovación tecnol�
 
 III. Incorporar el desarrollo científico y de innovación tecnológica en los procesos productivos con objeto de incrementar la productividad y la competitividad;
 
-IV. Desarrollar los procesos que hagan posible la selección de proyectos prioritarios del Estado, con énfasis en la atención a zonas de menor índice de desarrollo humano, grupos económicamente vulnerables, polos de desarrollo estratégicos y áreas de interés del sector público; y
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2026)</small>
 
-V. Fortalecer el desarrollo regional y municipal del Estado en general.
+IV. Desarrollar los procesos que hagan posible la selección de proyectos prioritarios del Estado, con énfasis en la atención a zonas de menor índice de desarrollo humano, grupos económicamente vulnerables, polos de desarrollo estratégicos y áreas de interés del sector público;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2026)</small>
+
+V. Fortalecer el desarrollo regional y municipal del Estado en general, y
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2026)</small>
+
+VI. Promover la incorporación de la perspectiva de género en las políticas, programas y proyectos del Sistema Estatal, fomentando la participación, liderazgo y reconocimiento de las mujeres en la generación y aplicación del conocimiento.
 
 ###### ARTÍCULO 6.
 
@@ -155,7 +181,9 @@ IV. Los principios orientadores e instrumentos legales, administrativos y econó
 
 V. Las dependencias educativas y entidades estatales que realicen actividades de investigación científica y tecnológica o de apoyo a las mismas;
 
-VI. El Sistema Estatal de Investigadores; y
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2026)</small>
+
+VI. El Sistema Estatal de Investigadoras e Investigadores; y
 
 VII. La Red de Información Científica, tecnológica y de Innovación.
 
@@ -197,9 +225,17 @@ XIV. Los incentivos que se otorguen, reconocerán los logros sobresalientes de p
 
 XV. La conservación, consolidación, actualización y desarrollo de la infraestructura de investigación existente, deberán estar orientados a facilitar el quehacer científico, asimismo la creación de nuevos centros, cuando éstos sean necesarios;
 
-XVI. La creación y fortalecimiento de espacios destinados a promover, fomentar y divulgar la actividad científica y tecnológica estarán orientados a promover una cultura científica en jóvenes y niños; y
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2026)</small>
 
-XVII. Toda opinión, propuesta o sugerencia que emita la sociedad durante los procesos de consulta en materia de políticas y programas de investigación científica y desarrollo tecnológico, serán sistematizadas, evaluadas y consideradas.
+XVI. La creación y fortalecimiento de espacios destinados a promover, fomentar y divulgar la actividad científica y tecnológica estarán orientados a promover una cultura científica en jóvenes y niños;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2026)</small>
+
+XVII. Toda opinión, propuesta o sugerencia que emita la sociedad durante los procesos de consulta en materia de políticas y programas de investigación científica y desarrollo tecnológico, serán sistematizadas, evaluadas y consideradas, y
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2026)</small>
+
+XVIII. Promoverán que las políticas, programas e instrumentos incorporen la perspectiva de género, promuevan la igualdad de oportunidades entre mujeres y hombres en el acceso a financiamientos, apoyos, becas y reconocimientos; se impulse la participación de las mujeres en todos los niveles del quehacer científico y tecnológico, así como su liderazgo en proyectos, centros e instituciones dedicadas a la ciencia, la tecnología y la innovación.
 
 ### CAPÍTULO IV. DE LOS INSTRUMENTOS DE APOYO A LA INVESTIGACIÓN CIENTÍFICA, TECNOLÓGICA Y DE INNOVACIÓN
 
@@ -237,7 +273,9 @@ Se crea la Red Estatal de Información Científica, Tecnológica e Innovación, 
 
 La base electrónica de datos con que operará la Red, deberá contener información de carácter e interés estatal, y comprenderá cuando menos, los aspectos siguientes:
 
-I. El Padrón Estatal de Investigadores, Tecnólogos y del Posgrado;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2026)</small>
+
+I. El Padrón Estatal de Investigadoras, Investigadores, Tecnólogas, Tecnólogos y del Posgrado;
 
 II. La infraestructura destinada a la ciencia, la tecnología e innovación en la entidad;
 
@@ -299,7 +337,9 @@ a) Investigación científica y tecnológica;
 
 b) Innovación y desarrollo tecnológico;
 
-c) Formación de investigadores, tecnólogos y profesionales de alto nivel;
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2026)</small>
+
+c) Formación de investigadoras, investigadores, tecnólogas, tecnólogos y profesionales de alto nivel;
 
 d) Difusión y fomento del conocimiento científico y tecnológico;
 
@@ -307,9 +347,17 @@ e) Colaboración estatal en las actividades anteriores;
 
 f) Fortalecimiento de la cultura científica, tecnológica y de innovación nacional y estatal;
 
-III. Las políticas y líneas de acción en materia de investigación científica, tecnológica e innovación que realice el COCYTIEG; y
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2026)</small>
 
-IV. Las orientaciones generales de los instrumentos de apoyo a que se refiere esta Ley.
+III. Las políticas y líneas de acción en materia de investigación científica, tecnológica e innovación que realice el COCYTIEG;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2026)</small>
+
+IV. Las orientaciones generales de los instrumentos de apoyo a que se refiere esta Ley, y
+
+> <small>(ADICIONADO, P.O. 12 DE MAYO DE 2026)</small>
+
+El programa deberá contemplar en todas las etapas de ejecución la política transversal de perspectiva de género, con el objetivo de garantizar la participación equitativa de mujeres y hombres en los ámbitos de la ciencia, la tecnología y la innovación.
 
 ###### ARTÍCULO 18.
 
@@ -361,11 +409,15 @@ I. Promover la conservación, consolidación, actualización y desarrollo de la 
 
 II. Fomentar la organización y realización de eventos académicos, científicos y tecnológicos, que propicien el intercambio de información, el contacto con especialistas y el desarrollo del conocimiento;
 
-III. Promover la creación de programas y espacios formativos recreativos e interactivos, con el objeto de fomentar en la población en general, el interés por la formación científica, haciendo énfasis en los jóvenes y niños;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2026)</small>
+
+III. Promover la creación de programas y espacios formativos recreativos e interactivos, con el objeto de fomentar en la población en general, el interés por la formación científica, haciendo énfasis en las personas jóvenes y en las niñas y niños;
 
 IV. Promover la producción de materiales y difusión del conocimiento generado por instituciones y organismos dedicados al desarrollo de actividades científicas y tecnológicas;
 
-V. Promover el rescate y la divulgación del conocimiento tradicional indígena y mestizo, valorándolo en su justa dimensión; y
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2026)</small>
+
+V. Promover el rescate y la divulgación del conocimiento tradicional indígena, afromexicano y mestizo, valorándolo en su justa dimensión; y
 
 VI. Las demás que de acuerdo con el Programa se requiera llevar a cabo.
 
@@ -393,27 +445,41 @@ IV. Apoyar la integración de grupos de investigadores en el Estado así como pr
 
 V. Promover la creación y consolidación de los programas de posgrado de alto nivel en el Estado.
 
-#### SECCIÓN II. DEL SISTEMA ESTATAL DE INVESTIGADORES
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE MAYO DE 2026)</small>
+
+#### SECCIÓN II. DEL SISTEMA ESTATAL DE INVESTIGADORAS E INVESTIGADORES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 28.
 
-Se crea el Sistema Estatal de Investigadores, que tendrá como objetivos:
+Se crea el Sistema Estatal de Investigadoras e Investigadores, que tendrá como objetivos:
 
-I. Reconocer la labor de investigación y desarrollo tecnológico que llevan a cabo los investigadores de la entidad;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2026)</small>
 
-II. Fortalecer la actividad científica, tecnológica y de innovación que ya realizan los investigadores en nuestro Estado; así como promover e impulsar con todo énfasis la formación de nuevas generaciones de investigadores que coadyuven al desarrollo de la entidad, de acuerdo con las prioridades establecidas en el Programa Estatal de de Ciencia, Tecnología e Innovación en concordancia con el Plan Estatal de Desarrollo;
+I. Reconocer la labor de investigación y desarrollo tecnológico que llevan a cabo las investigadoras y los investigadores de la entidad;
 
-III. Facilitar a los investigadores la obtención de los méritos necesarios para su incorporación en los esquemas nacionales e internacionales de reconocimiento a la función de investigación y desarrollo tecnológico; y
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2026)</small>
+
+II. Fortalecer la actividad científica, tecnológica y de innovación que ya realizan las investigadoras y los investigadores en nuestro Estado; así como promover e impulsar con todo énfasis la formación de nuevas generaciones de investigadoras e investigadores que coadyuven al desarrollo de la entidad, de acuerdo con las prioridades establecidas en el Programa Estatal de Ciencia, Tecnología e Innovación en concordancia con el Plan Estatal de Desarrollo;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2026)</small>
+
+III. Facilitar a las investigadoras y a los investigadores la obtención de los méritos necesarios para su incorporación en los esquemas nacionales e internacionales de reconocimiento a la función de investigación y desarrollo tecnológico; y
 
 IV. Apoyar la integración de grupos de investigadores en la entidad, que participen en el proceso de generación de conocimientos científicos y tecnológicos, hasta su aplicación en la planta productiva de bienes y servicios de las instituciones de los sectores público, social y privado.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 29.
 
-Podrán formar parte del Sistema Estatal de Investigadores todos aquellos investigadores reconocidos por el Consejo, cuya labor científica y/o tecnológica cumpla con lo estipulado en el Reglamento del Sistema Estatal de Investigadores y las bases que para el otorgamiento de los reconocimientos se emitan.
+Podrán formar parte del Sistema Estatal de Investigadoras e Investigadores todas aquellas personas investigadoras reconocidas por el Consejo, cuya labor científica y/o tecnológica cumpla con lo estipulado en el Reglamento del Sistema Estatal de Investigadoras e Investigadores y las bases que para el otorgamiento de los reconocimientos se emitan.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 30.
 
-El COCYTIEG será el encargado de operar el Sistema Estatal de Investigadores y vigilar su funcionamiento, garantizando en el proceso de instrumentación los principios de transparencia, legalidad y equidad, involucrando en el proceso de dictaminación a investigadores y académicos de reconocido prestigio, de los sectores público, social y privado.
+El COCYTIEG será el encargado de operar el Sistema Estatal de Investigadoras e Investigadores, y vigilará su funcionamiento, garantizando en el proceso de instrumentación los principios de igualdad sustantiva, perspectiva de género, de no discriminación, de transparencia y legalidad, involucrando en el proceso de dictaminación a investigadoras, investigadores, académicas y académicos de reconocido prestigio, de los sectores público, social y privado.
 
 ### CAPÍTULO VII. DE LA COORDINACIÓN Y DESCENTRALIZACIÓN
 
@@ -509,9 +575,11 @@ Los apoyos a que se refiere el artículo anterior se otorgarán por un tiempo de
 
 La investigación científica y tecnológica que el COCYTIEG apoye, buscará contribuir significativamente a desarrollar un sistema de educación y de capacitación de alta calidad.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 45.
 
-Con el objeto de integrar la investigación y la educación, los centros de investigación y las instituciones de educación superior, media superior y básica, promoverán, a través de sus ordenamientos internos, que sus académicos de carrera, profesores e investigadores, participen en actividades de enseñanza frente a grupo, tutoreo de estudiantes, investigación o aplicación innovadora del conocimiento.
+Con el objeto de integrar la investigación y la educación, los centros de investigación y las instituciones de educación superior, media superior y básica, promoverán, a través de sus ordenamientos internos, que sus académicas y académicos de carrera, profesoras, profesores, investigadoras e investigadores, participen en actividades de enseñanza frente a grupo, tutoreo de estudiantes, investigación o aplicación innovadora del conocimiento.
 
 ###### ARTÍCULO 46.
 
@@ -543,7 +611,13 @@ I. Coordinar, formular y dirigir la política de Ciencia, Tecnología e innovaci
 
 II. Dictar los lineamientos que orienten el desarrollo científico y tecnológico en la Entidad, tomando en cuenta los objetivos prioritarios y estratégicos previstos en el Programa Estatal de Ciencia, Tecnología e Innovación, en concordancia con el Plan Estatal de Desarrollo y los programas estatales, con el fin de contribuir a elevar los niveles de bienestar de la población y el desarrollo sustentable;
 
-III. Incentivar que un mayor número de investigadores, tecnólogos y académicos participen en labores de investigación científica y tecnológica.
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2026)</small>
+
+III. Incentivar que un mayor número de Investigadoras, investigadores, tecnólogas, tecnólogos, académicas y académicos participen en labores de investigación científica y tecnológica, y
+
+> <small>(ADICIONADA, P.O. 12 DE MAYO DE 2026)</small>
+
+IV. Fomentar la igualdad sustantiva y la perspectiva de género en el desarrollo de la ciencia, la tecnología y la innovación.
 
 ###### ARTÍCULO 51.
 
@@ -639,61 +713,63 @@ V. Órgano de vigilancia.
 
 La administración del COCYTIEG estará a cargo de la Junta Directiva y del Director General, que gozarán de plena autonomía de gestión en los términos de la Ley Número 690 de Entidades Paraestatales del Estado de Guerrero.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE NOVIEMBRE DE 2023)</small>
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 56.
 
-La máxima autoridad del Consejo será la Junta Directiva, la cual estará integrada por veintiún miembros permanentes, quienes serán:
+La máxima autoridad del Consejo será la Junta Directiva, la cual estará integrada por veintiún integrantes permanentes, quienes serán:
 
-I. El Gobernador del Estado, quien será el Presidente de la Junta Directiva;
+I. La Gobernadora o el Gobernador del Estado, quien será la Presidenta o el Presidente de la Junta Directiva;
 
-II. El Secretario de Educación Guerrero;
+II. La persona titular de la Secretaría de Educación Guerrero;
 
-III. El Secretario de Desarrollo Económico;
+III. La persona titular de la Secretaría de Fomento y Desarrollo Económico;
 
-IV. El Secretario de Medio Ambiente y Recursos Naturales;
+IV. La persona titular de la Secretaría de Medio Ambiente y Recursos Naturales;
 
-V. El Secretario de Finanzas y Administración;
+V. La persona titular de la Secretaría de Finanzas y Administración;
 
-VI. El Secretario de Desarrollo Social;
+VI. La persona titular de la Secretaría de Bienestar;
 
-VII. El Secretario de Salud;
+VII. La persona titular de la Secretaría de Salud;
 
-VIII. El Secretario de Desarrollo Rural;
+VIII. La persona titular de la Secretaría de Agricultura, Ganadería, Pesca y Desarrollo Rural;
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2023)</small>
+IX. Trece Consejeras o Consejeros:
 
-IX. Trece Consejeros:
+a) La Rectora o el Rector de la Universidad Autónoma de Guerrero;
 
-a) El Rector de la Universidad Autónoma de Guerrero;
+b) La Directora o el Director General del Instituto Tecnológico en Guerrero;
 
-b) El Director General del Instituto Tecnológico en Guerrero;
+c) La Rectora o el Rector de la Universidad Politécnica del Estado de Guerrero;
 
-c) El Rector de la Universidad Politécnica del Estado de Guerrero;
+d) La Rectora o el Rector de la Universidad Intercultural del Estado de Guerrero;
 
-d) El Rector de la Universidad Intercultural del Estado de Guerrero;
+e) La Coordinadora o el Coordinador en Guerrero de las Universidades para el Bienestar.
 
-e) El Coordinador en Guerrero de las Universidades para el Bienestar.
+f) Una persona representante del sector productivo; y
 
-f) Un representante del sector productivo; y
+g) Siete personas representantes del sector académico.
 
-g) Siete representantes del sector académico
+En caso de ausencia de la Gobernadora o del Gobernador del Estado en su carácter de Presidenta o Presidente de la Junta Directiva, será suplido por la persona titular de la Secretaría de Educación Guerrero.
 
-En caso de ausencia del Gobernador del Estado en su carácter de Presidente de la Junta Directiva, éste será suplido por el Secretario de Educación Guerrero.
+Los cargos de las personas integrantes de la Junta Directiva del COCYTIEG, serán honoríficos por lo que no recibirán ninguna retribución, emolumento, ni compensación alguna por esta actividad.
 
-Los cargos de los miembros de la Junta Directiva del COCYTIEG, serán honoríficos por lo que no recibirán ninguna retribución, emolumento, ni compensación alguna por esta actividad.
+La Gobernadora o el Gobernador del Estado, en su carácter de Presidenta o Presidente de la Junta Directiva, podrá invitar a las sesiones de ésta a personas expertas en el área de investigación científica y desarrollo e innovación tecnológica.
 
-El Gobernador del Estado, en su carácter de Presidente de la Junta Directiva, podrá invitar a las sesiones de ésta a expertos en el área de investigación científica y desarrollo e innovación tecnológica.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 57.
 
-El Director General del Consejo asistirá a las sesiones de la Junta Directiva contando únicamente con voz pero sin voto y hará las veces de Secretario Técnico.
+La Directora o el Director General del Consejo asistirá a las sesiones de la Junta Directiva contando únicamente con voz, pero sin voto y hará las veces de Secretario Técnico.
 
 ###### ARTÍCULO 58.
 
 La Junta Directiva tendrá las atribuciones siguientes:
 
-I. Otorgar al Director General facultades generales para actos de administración y dominio, para pleitos y cobranzas para la defensa del Consejo, así como la facultad para delegar poderes generales y/o especiales en materia de administración y representación laboral, en servidores públicos subalternos o terceras personas, con facultades para absolver posiciones, sin que se pierda por ello la posibilidad de su ejercicio directo por parte del Director General;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2026)</small>
+
+I. Otorgar a la Directora o Director General facultades generales para actos de administración y dominio, para pleitos y cobranzas para la defensa del Consejo, así como la facultad para delegar poderes generales y/o especiales en materia de administración y representación laboral, en personas servidoras públicas subalternos (sic) o terceras personas, con facultades para absolver posiciones, sin que se pierda por ello la posibilidad de su ejercicio directo por parte de la Directora o Director General;
 
 II. Aprobar las políticas para el avance científico y la innovación tecnológica que apoyen al desarrollo del Estado;
 
@@ -703,9 +779,13 @@ IV. Analizar y autorizar el presupuesto anual del Consejo para su inclusión en 
 
 V. Ratificar la estructura básica del Consejo, así como las modificaciones procedentes;
 
-VI. Proponer la terna al Gobernador del Estado para que designe al Director General;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2026)</small>
 
-VII. Designar y remover a propuesta del Director General, a los servidores públicos que ocupen cargos con las dos jerarquías administrativas inferiores a las de él;
+VI. Proponer la terna a la Gobernadora o el Gobernador del Estado para que designe a la Directora o Director General;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2026)</small>
+
+VII. Designar y remover a propuesta de la Directora o Director General, a las personas servidoras públicas que ocupen cargos con las dos jerarquías administrativas inferiores a las de ella o él;
 
 VIII. Aprobar el Reglamento Interior, el Manual de Organización y los correspondientes de procedimientos;
 
@@ -727,13 +807,17 @@ XV. Las demás que se establezcan en las leyes aplicables.
 
 La Junta Directiva realizará juntas en forma ordinaria cuatro veces al año y en forma extraordinaria cuantas veces se requiera.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 60.
 
-El Director General del Consejo será designado por el Gobernador del Estado, de una terna presentada por la Junta Directiva; su remoción será facultad del titular del Poder Ejecutivo.
+La Directora o el Director General del Consejo será designado por la Gobernadora o el Gobernador del Estado, de una terna presentada por la Junta Directiva; su remoción será facultad de la persona titular del Poder Ejecutivo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 61.
 
-El Director General del COCYTIEG deberá reunir los siguientes requisitos:
+La Directora o el Director General del COCYTIEG deberá reunir los siguientes requisitos:
 
 I. Ser de nacionalidad mexicana;
 
@@ -743,11 +827,15 @@ III. Ser persona de reconocida solvencia moral y prestigio profesional;
 
 IV. Tener experiencia acreditable en el área de investigación científica, por lo menos cinco años.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 62.
 
-Son atribuciones del Director General del Consejo:
+Son atribuciones de la Directora o Director General del Consejo:
 
-I. Representar al Consejo, con facultades generales para actos de administración y dominio, para pleitos y cobranzas, así como para delegar poderes generales y/o especiales en materia de administración y representación laboral, en servidores públicos subalternos o terceras personas, con facultades para absolver posiciones;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE MAYO DE 2026)</small>
+
+I. Representar al Consejo, con facultades generales para actos de administración y dominio, para pleitos y cobranzas, así como para delegar poderes generales y/o especiales en materia de administración y representación laboral, en personas servidoras públicas subalternos (sic) o terceras personas, con facultades para absolver posiciones;
 
 Para ejercer actos de dominio requerirá de la autorización de la Junta Directiva;
 
@@ -769,15 +857,21 @@ IX. Ejecutar los acuerdos adoptados por la Junta Directiva;
 
 X. Designar bajo su responsabilidad, al personal técnico y administrativo especializado que requiera el COCYTIEG para su eficaz funcionamiento; las plazas, sueldos y prestaciones deberán ser aprobadas por la Junta Directiva, de conformidad con las disposiciones legales vigentes;
 
-XI. Fungir como Coordinador del Consejo Académico, cumpliendo con las funciones que le son encomendadas;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2026)</small>
 
-XII. Delegar en los trabajadores del COCYTIEG las atribuciones que expresamente determine, sin menoscabo de conservar su ejercicio y responsabilidad directa;
+XI. Fungir como Coordinadora o Coordinador del Consejo Académico, cumpliendo con las funciones que le son encomendadas;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2026)</small>
+
+XII. Delegar en las personas trabajadoras del COCYTIEG las atribuciones que expresamente determine, sin menoscabo de conservar su ejercicio y responsabilidad directa;
 
 XIII. Presentar a la Junta Directiva un informe trimestral de actividades, y los que le sean solicitados por la misma;
 
 XIV. Presentar a la Junta Directiva, la propuesta de canalización de fondos, previo acuerdo con el Consejo Académico, así como de las condiciones a que la misma se sujetará, para la realización de proyectos, estudios, investigaciones específicas, otorgamiento de becas y cualquier otro proyecto que se considere necesario;
 
-XV. Establecer programas que propicien la permanencia de los investigadores y técnicos en el Estado, así como su incorporación a la academia y a las empresas de la entidad;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2026)</small>
+
+XV. Establecer programas que propicien la permanencia de las investigadoras, investigadores, técnicas y técnicos en el Estado, así como su incorporación a la academia y a las empresas de la entidad;
 
 XVI. Impulsar la creación de Centros e Institutos de Investigación y Desarrollo para la consecución de los objetivos de los Planes Nacional y Estatal de Desarrollo y del Programa Operativo del COCYTIEG;
 
@@ -789,7 +883,9 @@ XIX. Supervisar y vigilar la debida observancia de la presente Ley, el reglament
 
 XX. Resolver en consulta con el Consejo Académico las dudas que se susciten con motivo de la interpretación y aplicación de este ordenamiento y, de estimarlo necesario, someterlas a la consideración de la Junta Directiva;
 
-XXI. Fungir como Secretario Técnico de la Junta Directiva; y
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2026)</small>
+
+XXI. Fungir como Secretaria o Secretario Técnico de la Junta Directiva; y
 
 XXII. Las demás que prevea la presente Ley.
 
@@ -797,25 +893,33 @@ XXII. Las demás que prevea la presente Ley.
 
 El Director para el cumplimiento de la presente Ley y el logro de los objetivos planteados para el Consejo, contará con el apoyo académico y administrativo necesario, cuyo organigrama se establecerá en el Reglamento Interno.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 64.
 
 El Consejo Académico estará integrado por:
 
-I. Un Coordinador que será el Director General del COCYTIEG; y
+I. Una Coordinadora o Coordinador que será la Directora o el Director General del COCYTIEG; y
 
-II. Un Consejero Académico de cada una de las áreas de ciencia, tecnología e innovación.
+II. Una Consejera o un Consejero Académico de cada una de las áreas de ciencia, tecnología e innovación.
 
-Los miembros del Consejo Académico durarán en su cargo tres años, pudiendo ser ratificados por un segundo periodo. Para volver a participar como miembro del Consejo Académico, deberá transcurrir por lo menos un periodo de tres años.
+Las personas integrantes del Consejo Académico durarán en su cargo tres años, pudiendo ser ratificados por un segundo periodo. Para volver a participar como integrante del Consejo Académico, deberá transcurrir por lo menos un periodo de tres años.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 65.
 
-El Consejo Académico se reunirá de manera ordinaria cada tres meses. Se podrá convocar a sesiones extraordinarias en razón de que exista algún asunto que así lo amerite, a juicio del Coordinador o cuando lo soliciten por escrito una tercera parte del total de sus Integrantes.
+El Consejo Académico se reunirá de manera ordinaria cada tres meses. Se podrá convocar a sesiones extraordinarias en razón de que exista algún asunto que así lo amerite, a juicio de la Coordinadora o del Coordinador o cuando lo soliciten por escrito una tercera parte del total de sus integrantes.
 
-Las sesiones se convocarán con una anticipación mínima de cuarenta y ocho horas. Corresponde al Coordinador suscribir la convocatoria a las sesiones del Consejo Académico, proponiendo para tal efecto el orden del día, así como levantar las actas respectivas.
+Las sesiones se convocarán con una anticipación mínima de cuarenta y ocho horas.
+
+Corresponde a la Coordinadora o al Coordinador suscribir la convocatoria a las sesiones del Consejo Académico, proponiendo para tal efecto el orden del día, así como levantar las actas respectivas.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 66.
 
-El Consejo Académico sesionará válidamente con la asistencia de la mitad más uno de sus miembros y sus resoluciones se tomarán por mayoría simple de los miembros presentes. En caso de empate, el Coordinador tendrá voto de calidad.
+El Consejo Académico sesionará válidamente con la asistencia de la mitad más uno de sus integrantes y sus resoluciones se tomarán por mayoría simple de los integrantes presentes. En caso de empate, la Coordinadora o el Coordinador tendrá voto de calidad.
 
 ###### ARTÍCULO 67.
 
@@ -825,9 +929,13 @@ I. Llevar a cabo la planeación estratégica para el desarrollo del COCYTIEG;
 
 II. Identificar objetivos y metas específicas en las funciones sustantivas tales como: vinculación, difusión, formación de recursos humanos, colaboración institucional y otros;
 
-III. Dictaminar sobre los proyectos de investigación, desarrollo de tecnologías, o de divulgación presentados por el Director General;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2026)</small>
 
-IV. Evaluar los proyectos a partir de los informes presentados por el Director General;
+III. Dictaminar sobre los proyectos de investigación, desarrollo de tecnologías, o de divulgación presentados por la Directora o el Director General;
+
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2026)</small>
+
+IV. Evaluar los proyectos a partir de los informes presentados por la Directora o el Director General;
 
 V. Sugerir a la Junta Directiva, la formación o designación de áreas de ciencia y tecnología;
 
@@ -837,19 +945,25 @@ VII. Ejecutar así como dar seguimiento a los acuerdos y decisiones adoptados po
 
 VIII. Dar a conocer los avances que en materia de ciencia y tecnología se registran en el país y en el mundo, orientando de ésta forma los trabajos del COCYTIEG;
 
-IX. Invitar por conducto de su Coordinador, a representantes de los sectores público, social y privado, así como a especialistas e investigadores destacados de las Universidades e Instituciones de Educación Superior, con el propósito de organizar foros de consulta e información, procurando impulsar proyectos de investigación científica, tecnológica e innovación; de exponer sus experiencias, conocimientos; y de realizar propuestas que coadyuven al cumplimiento de los fines del COCYTIEG;
+> <small>(REFORMADA, P.O. 12 DE MAYO DE 2026)</small>
+
+IX. Invitar por conducto de su Coordinadora o Coordinador, a representantes de los sectores público, social y privado, así como a especialistas, investigadoras e investigadores destacados de las Universidades e Instituciones de Educación Superior, con el propósito de organizar foros de consulta e información, procurando impulsar proyectos de investigación científica, tecnológica e innovación; de exponer sus experiencias, conocimientos; y de realizar propuestas que coadyuven al cumplimiento de los fines del COCYTIEG;
 
 X. Informar periódica y oportunamente a la Junta Directiva sobre los avances en el desarrollo de sus actividades; y
 
 XI. Las demás que le confiera la Junta Directiva.
 
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 68.
 
-Las Comisiones Técnicas, estarán integradas por investigadores radicados en la Entidad, de reconocido prestigio y experiencia en el área de ciencia y tecnología correspondiente. Dicha integración se realizará mediante convocatoria emitida por la Junta Directiva del COCYTIEG, a la comunidad científica y tecnológica.
+Las Comisiones Técnicas, estarán integradas por investigadoras e investigadores radicados en la Entidad, de reconocido prestigio y experiencia en el área de ciencia y tecnología correspondiente. Dicha integración se realizará mediante convocatoria emitida por la Junta Directiva del COCYTIEG, a la comunidad científica y tecnológica.
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 69.
 
-Las Comisiones Técnicas serán renovadas o ratificadas previamente a la reestructuración del Consejo Académico y estarán conformadas por no menos de tres y no más de ocho miembros.
+Las Comisiones Técnicas serán renovadas o ratificadas previamente a la reestructuración del Consejo Académico y estarán conformadas por no menos de tres y no más de ocho integrantes.
 
 ###### ARTÍCULO 70.
 
@@ -865,9 +979,11 @@ IV. Constituir uno de los enlaces del COCYTIEG con las comunidades científicas 
 
 V. Las demás que le determine el Consejo Académico conforme a sus atribuciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 71.
 
-Para ser miembro de las Comisiones Técnicas del COCYTIEG se requiere:
+Para ser integrante de las Comisiones Técnicas del COCYTIEG se requiere:
 
 I. Haberse distinguido en su actividad de investigación científica, de desarrollo tecnológico, de divulgación o de vinculación entre los sectores académico, productivo y social;
 
@@ -897,7 +1013,9 @@ VII. Ética y Bioética; y
 
 VIII. Medio Ambiente y Recursos Naturales;
 
-De entre los especialistas invitados, uno fungirá como presidente y será elegido por los miembros de la comisión técnica respectiva; estos mismos, integrarán el Consejo Académico.
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2026)</small>
+
+De entre las personas especialistas invitadas, una persona fungirá como Presidenta o Presidente y será elegida por los integrantes de la comisión técnica respectiva; estos mismos, integrarán el Consejo Académico.
 
 ###### ARTÍCULO 73.
 
@@ -998,3 +1116,15 @@ SEGUNDO.- Remítase el presente Decreto al Poder Ejecutivo del Estado, para su c
 TERCERO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 CUARTO.- Publíquese el presente Decreto en la gaceta, la página web y en el canal de televisión oficial del Congreso del Estado.
+
+P.O. 12 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 511 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 076 DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE GUERRERO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficio (sic) del Gobierno del Estado de Guerrero.
+
+SEGUNDO. Remítase a la Titular del Poder Ejecutivo para los efectos legales conducentes.
+
+TERCERO. Publíquese el presente Decreto en el Periódico Oficio (sic) del Gobierno del Estado de Guerrero.
+
+CUARTO. Para conocimiento general, publíquese en la Gaceta Parlamentaria y en la página web de este Congreso.
