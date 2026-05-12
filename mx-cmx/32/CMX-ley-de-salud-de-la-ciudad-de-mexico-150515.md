@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-de-la-ciudad-de-mexico-150515"
 country: "mx"
 rank: "ley"
 publication_date: "2021-08-09"
-last_updated: "2025-12-24"
+last_updated: "2026-05-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=150515&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -24,7 +24,7 @@ issue_date: "2021-08-06"
 
 LEY DE SALUD DE LA CIUDAD DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 24 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 12 DE MAYO DE 2026.
 
 Ley publicada en el No. 657 de la Gaceta Oficial de la Ciudad de México, el lunes 9 de agosto de 2021.
 
@@ -1740,6 +1740,12 @@ VII. Autorizar a cada institución de salud a su cargo, con base en las disposic
 
 El Gobierno, en el ámbito de sus competencias y en coordinación con las autoridades educativas, vigilarán el ejercicio de las y los profesionales, técnicos y auxiliares de la salud en la prestación de los servicios respectivos, además, coadyuvará en la promoción y fomento de la constitución de colegios, asociaciones y organizaciones de profesionales, técnicos y auxiliares de la salud, estimulando su participación en el Sistema de Salud, como instancias éticas del ejercicio de las profesiones, promotoras de la superación permanente de sus miembros, así como consultoras de las autoridades sanitarias, cuando éstas lo requieran.
 
+> <small>(ADICIONADO, G.O. 12 DE MAYO DE 2026)</small>
+
+###### Artículo 102 Bis.
+
+La Secretaría en coordinación con las diversas instituciones de salud públicas en la Ciudad de México, promoverá la capacitación ética, el respeto a los derechos humanos, el cuidado de la salud mental, así como la eliminación de toda forma de discriminación y maltrato hacia las personas profesionales de la salud, en su etapa formativa o de especialización.
+
 ###### Artículo 103.
 
 La Secretaría, con fundamento en las normas oficiales mexicanas, establecerá las bases para la utilización de sus instalaciones y servicios en la formación de recursos humanos para la salud.
@@ -1760,9 +1766,11 @@ Para la eficaz prestación del servicio social de pasantes de las profesiones pa
 
 La prestación del servicio social de los pasantes de las profesiones para la salud, se llevará a cabo mediante la participación de los mismos en las unidades aplicativas del primer nivel de atención, prioritariamente en áreas de menor desarrollo económico y social.
 
+> <small>(REFORMADO, G.O. 12 DE MAYO DE 2026)</small>
+
 ###### Artículo 108.
 
-La Secretaría en sus respectivos ámbitos de competencia, con la participación de las instituciones de educación superior, elaborarán programas de carácter social para los profesionales de la salud, en beneficio de la colectividad, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
+La Secretaría en sus respectivos ámbitos de competencia, con la participación de las instituciones de educación superior, elaborarán programas de carácter social para los profesionales de la salud, en beneficio de la colectividad, debiendo privilegiar a la población donde la infraestructura médica se encuentre rezagada, de conformidad con las disposiciones legales aplicables al ejercicio profesional. En estos programas se velará por la protección de los derechos humanos de las personas en formación, Internos de Pregrado, Servicio Social y Residencias Médicas.
 
 ### CAPÍTULO XVIII. INVESTIGACIÓN PARA LA SALUD
 
@@ -3027,3 +3035,13 @@ PRIMERO.- Remítase el presente Decreto a la persona titular de la Jefatura de G
 SEGUNDO.- Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a las Unidades Responsables del Gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
 
 TERCERO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+G.O. 12 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 108 Y SE ADICIONA EL ARTÍCULO 102 BIS DE LA LEY DE SALUD DE LA CIUDAD DE MÉXICO".]
+
+PRIMERO.- Remítase el presente Decreto a la persona titular de la Jefatura de Gobierno de la Ciudad de México para su promulgación y publicación en la Gaceta Oficial de la Ciudad de México.
+
+SEGUNDO.- El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de la Ciudad de México.
+
+TERCERO.- Las obligaciones que, en su caso, se generen con motivo de la entrada en vigor del presente decreto, se cubrirán con cargo al presupuesto aprobado a las unidades responsables del gasto para el presente ejercicio fiscal y subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
