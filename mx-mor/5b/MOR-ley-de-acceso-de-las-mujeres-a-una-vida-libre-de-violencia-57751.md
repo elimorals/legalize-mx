@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5775
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-05"
-last_updated: "2025-10-29"
+last_updated: "2026-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MOR"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE OCTUBRE DE 2025.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE OCTUBRE DE 2025.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 5 de diciembre de 2007.
 
@@ -1585,9 +1583,19 @@ XVII.- Elaborar y aplicar Protocolos especializadas (sic) con perspectiva de gé
 
 XVIII.- Crear una Base de Información Genética que contenga la información personal disponible de mujeres y niña (sic) desaparecidas; la información genética y muestras celulares de los familiares de las personas desaparecidas que lo consientan; la información genética y muestras celulares proveniente de los cuerpos de cualquier mujer o niña no identificada;
 
-La información integrada en esta base deberá ser reguardada (sic) y únicamente podrá ser utilizada para la confrontación de información genética entre cuerpos no identificados y personas desaparecidas; y
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2026)</small>
 
-XIX.- Las demás previstas en el cumplimiento de la presente ley.
+La información integrada en esta base deberá ser resguardada y únicamente podrá ser utilizada para la confrontación de información genética entre cuerpos no identificados y personas desaparecidas;
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2026)</small>
+
+XIX. Implementar las medidas necesarias a fin de (sic) las mujeres, así como sus hijas e hijos que denuncien algún delito relacionado con violencia de género contra las mujeres, sea canalizada oportunamente a los servicios que ofrecen los Centros de Justicia para las Mujeres;
+
+> <small>(ADICIONADA, P.O. 13 DE MAYO DE 2026)</small>
+
+XX. Vigilar que las personas servidoras públicas a su cargo, encargadas de las investigaciones por la comisión de hechos que la ley señale como delitos, investiguen los suicidios de mujeres con perspectiva de género, y
+
+XXI. Las demás previstas en el cumplimiento de la presente ley.
 
 #### SECCIÓN OCTAVA. DEL INSTITUTO DE LA MUJER PARA EL ESTADO DE MORELOS
 
@@ -2478,3 +2486,11 @@ PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo Estatal 
 SEGUNDA. El presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
+
+P.O. 13 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO MIL CIENTO TREINTA Y TRES.- POR EL QUE SE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente decreto al Titular del Poder Ejecutivo del Estado, para los fines que indica el artículo 44, 47 y la fracción XVII, inciso a), del artículo 70 de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión Oficial del Gobierno del Estado Libre y Soberano de Morelos.
