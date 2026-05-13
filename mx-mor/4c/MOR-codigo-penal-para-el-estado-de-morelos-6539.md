@@ -4,7 +4,7 @@ identifier: "MOR-codigo-penal-para-el-estado-de-morelos-6539"
 country: "mx"
 rank: "codigo"
 publication_date: "1996-10-09"
-last_updated: "2026-03-18"
+last_updated: "2026-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "MOR"
 
 CÓDIGO PENAL PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2026.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el miércoles 9 de octubre de 1996.
 
@@ -3063,11 +3063,17 @@ A los hermanos y a los ascendientes y descendientes consanguíneos, sin limitaci
 
 Comete el delito de corrupción de personas menores de edad y de personas que no tengan la capacidad para comprender el significado del hecho, quien habitual u ocasionalmente, por cualquier medio, procure, induzca o facilite que las personas antes señaladas realicen cualquiera de las siguientes conductas:
 
-I. Actos o exhibiciones eróticas o sexuales, públicas o privadas, sin fines de explotación, que puedan afectar su desarrollo;
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2026)</small>
 
-II. Consumo (sic) bebidas embriagantes, narcóticos o sustancias tóxicas que puedan alterar su salud o su desarrollo; y
+I. Actos o exhibiciones eróticas o sexuales; públicas o privadas, sin fines de explotación, que puedan afectar su desarrollo;
 
-III. La comisión de un hecho delictivo o formar parte de una asociación delictuosa o de la delincuencia organizada.
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2026)</small>
+
+II. Consumo (sic) bebidas embriagantes, narcóticos tabaco, cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos que contengan nicotina o sustancias tóxicas que puedan alterar su salud o su desarrollo; y
+
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2026)</small>
+
+III. La comisión de un hecho delictivo o formar parte de una asociación delictuosa o de la delincuencia organizada;
 
 A quien comete este delito se le impondrá una pena de cinco a diez años de prisión y de trescientos a quinientos días multa.
 
@@ -6320,3 +6326,15 @@ P.O. 18 DE MARZO DE 2026.
 PRIMERO.- Remítase el presente decreto a la Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión de Gobierno del Estado.
+
+P.O. 13 DE MAYO DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NÚMERO MIL CIENTO TREINTA Y DOS.- POR EL QUE SE REFORMA EL ARTÍCULO 211 DEL CÓDIGO PENAL PARA EL ESTADO DE MORELOS".]</small>
+
+PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva.
+
+SEGUNDA. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano informativo del Gobierno del Estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor jerarquía jurídica del estado de Morelos que contravengan al presente decreto.
+
+CUARTA. Publíquese en la Gaceta Legislativa de este Honorable Congreso.
