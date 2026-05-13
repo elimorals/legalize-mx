@@ -4,7 +4,7 @@ identifier: "MOR-codigo-civil-para-el-estado-libre-y-soberano-de-morelos-35441"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-10-13"
-last_updated: "2023-10-25"
+last_updated: "2026-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=35441&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2026.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Morelos, el 13 de octubre de 1993.
 
@@ -7065,9 +7065,19 @@ Tratándose de bienes muebles, cuya utilización se haga por un poseedor derivad
 
 RESPONSABILIDAD DE PROPIETARIOS DE CASAS HABITACION POR A-RROJO (SIC) O CAIDA DE OBJETOS. Los jefes de familia que habiten una casa o parte de ella serán responsables de los daños causados por las cosas que se arrojaren o cayeren de la misma, aun cuando no exista dolo o culpa de su parte, por descuido en la elección o vigilancia de sus sirvientes, o en la caída misma de los objetos. Se exceptúa el caso de que la misma se deba a fuerza mayor, hecho de tercero o caso fortuito.
 
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2026)</small>
+
 ###### ARTICULO 1365.
 
-PRESCRIPCION DE LA PRETENSION PARA EXIGIR REPARACION DEL DAÑO. La pretensión para exigir la reparación de los daños causados en los términos del presente Capítulo, prescribe en dos años contados a partir del día en que se hayan causado.
+PRESCRIPCIÓN DE LA PRETENSIÓN PARA EXIGIR REPARACIÓN DEL DAÑO. La pretensión para exigir la reparación de los daños causados en los términos del presente Capítulo prescribe en dos años contados a partir del día en que se hayan causado, con excepción de niñas, niños y personas adolescentes que no han adquirido la mayoría de edad y que por ende aun no son susceptibles de que opere en su contra la prescripción respecto de aquellas acciones u omisiones que configuren un hecho ilícito y produzcan un daño moral.
+
+Cuando el hecho ilícito consista específicamente en relaciones impropias de violencia sexual infringidas a niñas, niños y adolescentes, por personas adultas, procederá la imprescriptibilidad para reclamar el daño civil.
+
+Se entenderá por violencia sexual cualquier conducta dolosa con sentido lascivo, que implique contacto físico, exposición, manipulación emocional o aprovechamiento de la condición de minoría de edad, aun cuando exista aparente consentimiento.
+
+La reparación del daño incluirá, además, medidas de restitución, indemnización, rehabilitación, satisfacción y garantías de no repetición, conforme a los principios de dignidad humana, interés superior de la niñez y perspectiva de derechos humanos.
+
+Lo anterior sin perjuicio de cualquier otra acción que por los hechos se derive.
 
 ### CAPITULO VI. DE LA RESPONSABILIDAD OBJETIVA O RIESGO CREADO
 
@@ -13962,3 +13972,15 @@ PRIMERO. Remítase el presente decreto al titular del Poder Ejecutivo del Estado
 SEGUNDO. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”.
 
 TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía normativa que se opongan al presente decreto.
+
+P.O. 13 DE MAYO DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO NÚMERO MIL CIENTO VEINTINUEVE POR EL QUE SE REFORMA EL ARTÍCULO 1365 DEL CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, Y EL ARTÍCULO 24 TER DEL CÓDIGO FAMILIAR DEL ESTADO LIBRE Y SOBERANO DE MORELOS EN MATERIA DE IMPRESCRIPTIBILIDAD RESPECTO DE AQUELLAS ACCIONES U OMISIONES QUE CONFIGUREN UN HECHO ILÍCITO QUE PRODUZCA DAÑOS Y PERJUICIOS TRATÁNDOSE DE NIÑAS, NIÑOS Y PERSONAS ADOLESCENTES".]</small>
+
+PRIMERA. Remítase el presente decreto a la persona Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión de (sic) Gobierno del Estado.
+
+TERCERA. El presente decreto deroga todas las disposiciones legales de igual o menor rango, que se opongan o contradigan al presente decreto.
+
+CUARTA. Publíquese en la Gaceta Legislativa de este Congreso.
