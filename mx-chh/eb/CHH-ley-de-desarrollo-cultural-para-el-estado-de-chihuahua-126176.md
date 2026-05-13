@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-cultural-para-el-estado-de-chihuahua-126176"
 country: "mx"
 rank: "ley"
 publication_date: "2018-02-03"
-last_updated: "2024-11-20"
+last_updated: "2026-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=126176&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DESARROLLO CULTURAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2026.
 
 Ley publicada en el Número 10 del Periódico Oficial de Chihuahua, el sábado 3 de febrero de 2018.
 
@@ -226,6 +226,16 @@ La política cultural de Estado debe contener acciones para promover la cooperac
 ###### Artículo 12.
 
 Para el cumplimiento de esta Ley, la Secretaría conducirá la política estatal en materia de cultura, para lo cual celebrará acuerdos de coordinación con las dependencias de la administración pública federal, estatal y municipal. Así como acuerdos de concertación con los sectores académico, social, comunal y privado.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2026)</small>
+
+###### Artículo 12 Bis.
+
+El Estado fomentará las expresiones culturales, artísticas, musicales, literarias y escénicas que promuevan los valores de paz, legalidad, respeto a los derechos humanos, inclusión social y prevención de la violencia.
+
+En el diseño de políticas culturales, la programación de eventos públicos, el otorgamiento de apoyos, la difusión de obras artísticas y el uso de espacios culturales de titularidad estatal, se dará preferencia a aquellos proyectos que, a través de la música, las artes y demás manifestaciones culturales, fortalezcan la convivencia social, la cultura de la legalidad, la resolución pacífica de conflictos y la construcción de ciudadanía democrática. La promoción de estas expresiones se realizará en estricto respeto a la libertad creativa, a la diversidad cultural y al derecho de acceso a la cultura en todas sus manifestaciones.
+
+Explícitamente, se deberá evitar el respaldo institucional a contenidos que promuevan la violencia, en particular hacia las mujeres, así como a aquellos que hagan apología del delito.
 
 ###### Artículo 13.
 
@@ -890,3 +900,19 @@ P.O. 20 DE NOVIEMBRE DE 2024.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO N° LXVIII/RFLEY/0371/2025 I P.O., MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 7 BIS A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA; ASÍ MISMO, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL, DE LA LEY DE DESARROLLO CULTURAL Y DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA, TODOS ORDENAMIENTOS DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+En atención a lo que dispone el artículo 202 de la Constitución Política del Estado Libre y Soberano de Chihuahua, envíese copia de la iniciativa, del dictamen y del Diario de los Debates del Congreso del Estado, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Los Ayuntamientos del Estado de Chihuahua, en el ámbito de sus atribuciones, podrán armonizar sus Bandos de Policía y Reglamentos de Espectáculos Públicos o análogos con lo dispuesto en este Decreto.
