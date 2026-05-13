@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-justicia-administrativa-para-el-estado-de-morelos-122618
 country: "mx"
 rank: "ley"
 publication_date: "2017-07-19"
-last_updated: "2023-12-20"
+last_updated: "2026-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de julio de 2017.
 
@@ -805,7 +805,9 @@ De ser el caso deberán declarar la nulidad que dejará sin efecto el acto impug
 
 Cuando se decrete la nulidad de una resolución fiscal favorable a un particular, quedará ésta sin efecto, quedando expedito el derecho de las autoridades para percibir las contribuciones o créditos fiscales objeto de la resolución nulificada, sin recargos, multas, ni gastos de ejecución y sin que en ningún caso pueda la autoridad hacer cobros de contribuciones que rebasen de cinco años anteriores a la fecha de la presentación de la demanda.
 
-Las Sentencias deben de indicar en su caso si existió por parte de las Autoridades demandadas en sus actuaciones o por omisiones violaciones a la Ley Estatal de Responsabilidades de los Servidores Públicos y las relativas al Sistema Estatal Anticorrupción, el Pleno del Tribunal deberá dar vista a los órganos internos de control correspondientes o a la Fiscalía Anticorrupción para que efectúen el análisis de la vista ordenada en la resolución y de ser viable realicen las investigaciones correspondientes debiendo de informar el resultado de las mismas al Tribunal de Justicia Administrativa.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2026)</small>
+
+Las sentencias deben de indicar en su caso si existió por parte de las Autoridades demandadas en sus actuaciones o por omisiones violaciones a la Ley General de Responsabilidades Administrativas y a la Ley de Responsabilidades Administrativas para el Estado de Morelos y las relativas al Sistema Estatal Anticorrupción, el Pleno del Tribunal deberá dar vista a los órganos internos de control correspondientes o a la Fiscalía Anticorrupción para que efectúen el análisis de la vista ordenada en la resolución y de ser viable realicen las investigaciones correspondientes debiendo de informar el resultado de las mismas al Tribunal de Justicia Administrativa.
 
 ### Capítulo XII. De la Ejecución de las Sentencias
 
@@ -1470,3 +1472,13 @@ SEXTA. Se ratifica el oficio emitido por el Presidente de la Mesa Directiva del 
 SÉPTIMA. En un plazo no mayor a los sesenta días naturales, el Tribunal de Justicia Administrativa del Estado de Morelos, hará las modificaciones a su reglamentación interna, para dar cumplimiento a lo ordenado en el presente ordenamiento.
 
 OCTAVA. Se derogan todas las disposiciones jurídicas que se opongan a lo previsto en el presente ordenamiento.
+
+P.O. 13 DE MAYO DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL "DECRETO MIL CIENTO VEINTISIETE POR EL QUE SE REFORMA EL ARTÍCULO 89 DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS".]</small>
+
+PRIMERA. Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal para su publicación correspondiente en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del estado de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia el día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan a lo dispuesto en el presente Decreto.
