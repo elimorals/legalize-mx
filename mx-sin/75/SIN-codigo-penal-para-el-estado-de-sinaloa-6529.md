@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2026-03-20"
+last_updated: "2026-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 CÓDIGO PENAL PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2026.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -2125,15 +2125,15 @@ Comete también el delito de violación y se sancionará como tal, al que introd
 
 Se aplicará la misma pena prevista en este artículo, cuando entre el sujeto activo del delito y el pasivo exista o haya un vínculo de matrimonio, concubinato o relación de hecho.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 180.
 
-Se equiparará a la violación y se castigará con prisión de dieciséis a treinta y cuatro años:
+Se equiparará a la violación y se castigará con prisión de ocho a treinta años:
 
-> <small>(REFORMADO, P.O. 8 DE SEPTIEMBRE DE 2021)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2026)</small>
 
-I. Al que sin violencia realice cópula con persona menor de quince años de edad;
+I. Al que sin violencia realice cópula con persona menor de dieciocho años de edad;
 
 > <small>(REFORMADA, P.O. 5 DE OCTUBRE DE 2007)</small>
 
@@ -2167,53 +2167,65 @@ La pena se aumentará hasta en una mitad más, si la inseminación se hace en un
 
 ### CAPITULO III. ABUSO SEXUAL
 
-> <small>(REFORMADO, P.O. 12 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 183.
 
-Comete el delito de abuso sexual quien ejecute en una persona, sin su consentimiento expreso, voluntario, genuino y deseado, o la obligue a ejecutar para sí o en otra persona, actos sexuales sin el propósito de llegar a la cópula.
+Comete el delito de abuso sexual quien sin el consentimiento de la víctima y sin el propósito de llegar a la cópula, realice en el ámbito público o privado, cualquier acto de naturaleza sexual, la obligue a observarlo, o la haga ejecutarlo sobre sí, para un tercero o para el propio sujeto activo.
 
-A quien cometa este delito se le impondrá una pena de seis a diez años de prisión y multa de hasta doscientos días.
+También se considera abuso sexual cuando se obligue a la víctima a exhibir su cuerpo.
 
-También se considera abuso sexual cuando se obligue a la víctima a observar un acto sexual, o a exhibir su cuerpo sin su consentimiento.
+Se entiende por acto sexual los tocamientos, caricias, roces corporales, exhibiciones o representaciones sexuales explícitas.
 
-Si se hiciera uso de violencia, física o psicológica, la pena se aumentará en una mitad más en su mínimo y máximo.
+Para los efectos del presente artículo no se considera consentimiento cuando la voluntad de la persona haya sido anulada o viciada por violencia, intimidación, engaño, amenaza, abuso de confianza, autoridad o situación de vulnerabilidad. El consentimiento no podrá presumirse del silencio, la pasividad o la falta de resistencia física de la víctima.
 
-> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2022)</small>
+A quien cometa este delito se le impondrá una sanción de tres a siete años de prisión y multa de doscientas a quinientos días. Así mismo, se impondrá la obligación de acudir a talleres reeducativos con perspectiva de género y no violencia contra las mujeres y/o prestar servicio social en favor del Estado o de instituciones de beneficencia pública a fin de favorecer medidas de no repetición y promover un cambio cultural a favor de la igualdad sustantiva entre mujeres y hombres. El cumplimiento de esta obligación es de especial relevancia para la procedencia y continuidad de la suspensión condicional.
 
-ARTICULO 183 BIS. Al que con o sin el consentimiento expreso, voluntario, genuino y deseado de una persona menor de quince años, o que no tenga capacidad de comprender el significado del hecho, o que por cualquier causa no tenga la capacidad de resistirlo, ejecute en ella o lo haga ejecutar un acto sexual, sin el propósito de llegar a la cópula o lo obligue a observar cualquier acto sexual, se le aplicarán de diez a dieciocho años de prisión y de cien a quinientos días multa.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2026)</small>
 
-Si se hiciere uso de la violencia física o moral o se realice la conducta a que se refiere este artículo de manera reiterada, la pena se aumentará en una mitad más en su mínimo y máximo.
+###### ARTICULO 183 Bis.
 
-> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2022)</small>
+Las penas previstas en el artículo anterior se aumentarán en una tercera parte cuando el delito se cometa en cualquiera de las siguientes circunstancias:
 
-ARTICULO 183 BIS A. Al responsable del delito de abuso sexual cometido en contra de una persona menor de dieciocho años de edad y mayor de quince años de edad sin su consentimiento expreso, voluntario, genuino y deseado, se le impondrá una pena de nueve a quince años de prisión y de doscientos a trescientos cincuenta días multa.
+II. Con violencia física, psicológica o moral;
 
-> <small>(ADICIONADO, P.O. 12 DE AGOSTO DE 2022)</small>
+II. Por dos o más personas;
 
-ARTICULO 183 BIS B. Para efectos del artículo 183 Bis, se entiende por actos sexuales la acción dolosa con fines lascivos consistente en los tocamientos, manoseos corporales obscenos, o los que representen actos explícitamente sexuales u obliguen al sujeto pasivo a representarlos y que se ejerzan en caso de menores de 15 años con o sin el consentimiento de este con el elemento intencional del sujeto activo de satisfacer un deseo sexual.
+III. En un lugar despoblado, solitario o poco accesible;
 
-En el caso de los artículos 183 y 183 Bis A, se entenderá por acto sexual lo referido en el párrafo que antecede, con la salvedad de que las conductas se deberán realizar por el sujeto activo sin el consentimiento expreso, voluntario, genuino y deseado del sujeto pasivo.
+IV. Cuando exista o haya existido entre el agresor y la víctima una relación de confianza, sentimental, de parentesco por consanguinidad o afinidad, laboral, educativa, docente, de formación deportiva, artística o religiosa;
+
+V. Cuando se realice por persona que tenga a la víctima bajo su responsabilidad la custodia, guarda, tutela, cuidado o dependencia económica;
+
+VI. Cuando se realice por persona servidora pública aprovechando su empleo, cargo o comisión. En este caso, además de la pena de prisión, la persona agresora será destituida del cargo, empleo o comisión e inhabilitada para el ejercicio de servicio público por un plazo igual al de la pena privativa de la libertad sin perjuicio de otras sanciones administrativas o civiles que correspondan;
+
+VII. Cuando se realice por profesionista aprovechando su empleo, cargo o comisión. En este caso, además de la pena de prisión, la persona agresora será inhabilitada para el ejercicio de la profesión por un plazo igual al de la pena privativa de la libertad sin perjuicio de otras sanciones administrativas o civiles;
+
+VIII. Cuando se realice por ministro de culto aprovechando su cargo, función o comisión;
+
+IX. Cuando la víctima se encuentre bajo los efectos de alcohol, fármacos, narcóticos u otras sustancias que afecten su voluntad o discernimiento;
+
+X. Cuando la víctima se encuentre en estado de embarazo o puerperio;
+
+XI. Cuando se cometa contra personas por su orientación sexual, identidad de género o expresión de género, y
+
+XII. Cuando la víctima se encuentre en estado de indefensión.
+
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2026)</small>
+
+ARTICULO 183 Bis A. A quien cometa el delito de abuso sexual en una persona menor de dieciocho años de edad o en persona que no tenga la capacidad de comprender el significado del hecho, aun con su consentimiento, o que por cualquier causa no pueda resistirlo o la obligue a ejecutarlo en sí o en otra persona, se le impondrá una pena de seis a trece años de prisión y hasta quinientos días multa.
+
+Si se hiciera uso de violencia, la pena se aumentará en una mitad más en su mínimo y máximo.
+
+ARTICULO 183 Bis B. (DEROGADO, P.O. 13 DE MAYO DE 2026)
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 13 DE MAYO DE 2026)</small>
 
 ### CAPITULO IV. ESTUPRO
 
-> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 12 DE FEBRERO DE 2018)</small>
-
 ###### ARTICULO 184.
 
-Al que tenga cópula con una persona menor de dieciocho años pero mayor de dieciséis, obteniendo su consentimiento por medio de engaño, se le aplicará prisión de uno a seis años y multa de cien a trescientos días.
-
-> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2018)</small>
-
-Si el sujeto pasivo es mayor de catorce pero menor de dieciséis años, se aumentará en una mitad la pena anterior.
-
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2012)</small>
-
-Cuando la edad del agente supere con quince años o más la edad del sujeto pasivo, se le aplicará el doble de la pena establecida en los párrafos anteriores.
-
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2012)</small>
-
-Se presume que existe engaño cuando el sujeto pasivo sea menor de dieciséis años.
+(DEROGADO, P.O. 13 DE MAYO DE 2026)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 17 DE NOVIEMBRE DE 2017)</small>
 
@@ -2263,25 +2275,35 @@ ARTICULO 185 BIS B.- Los delitos previstos en el presente Capítulo se perseguir
 
 ### CAPITULO V BIS. VIOLACION DE LA INTIMIDAD SEXUAL
 
-> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2026)</small>
 
-ARTICULO 185 BIS C.- Comete el delito de violación a la intimidad sexual, aquella persona que por cualquier medio publique, divulgue, difunda, comparta o distribuya imágenes, videos o audios, imprima o elabore textos de contenido íntimo sexual de una persona sin su consentimiento expreso, voluntario, genuino y deseado.
+ARTICULO 185 Bis C. Comete el delito de violación a la intimidad sexual, aquella persona que por cualquier medio publique, divulgue, difunda, comparta o distribuya imágenes, vídeos o audios, imprima o elabore textos de contenido íntimo sexual de una persona sin su consentimiento.
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2023)</small>
 
 Esta conducta se sancionará con una pena de tres a seis años de prisión y de quinientos a mil días multa.
 
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2023)</small>
+
 Se presume que se publica, divulga, difunde, comparte o distribuye contenidos íntimos de naturaleza sexual cuando se trate de imágenes o videos que muestren al sujeto pasivo en situación de desnudez parcial o total, o con exposición de partes genitales.
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2023)</small>
 
 Se presume que se publica, divulga, difunda, comparte o distribuye audios o textos con contenido intimo sexual cuando en ellos se describa el cuerpo desnudo ya sea total o parcialmente del sujeto pasivo; o bien que revelen de manera no autorizada ni expesamente consentida la conducta o actos sexuales de la víctima.
 
-> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2024)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2026)</small>
 
-Se impondrán las mismas penas previstas en el segundo párrafo del presente artículo, a quien haciendo uso de la Inteligencia Artificial, manipule imágenes, audios o videos, de contenido íntimo sexual de una persona, para crear hechos falsos con apariencia real, con el propósito de exponer, distribuir, difundir, exhibir, reproducir, transmitir, comercializar, ofertar, intercambiar y/o compartir a través de materiales impresos, correo electrónico, mensajes telefónicos, redes sociales o cualquier otro medio tecnológico, sin su consentimiento expreso, voluntario, genuino y deseado.
+Se impondrán las mismas penas previstas en el segundo párrafo del presente artículo, a quien haciendo uso de la Inteligencia Artificial, manipule imágenes, audios o videos, de contenido íntimo sexual de una persona, para crear hechos falsos con apariencia real, con el propósito de exponer, distribuir, difundir, exhibir, reproducir, transmitir, comercializar, ofertar, intercambiar y/o compartir a través de materiales impresos, correo electrónico, mensajes telefónicos, redes sociales o cualquier otro medio tecnológico, sin su consentimiento.
 
 > <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2024)</small>
 
 Para efectos del párrafo anterior, se entenderá por Inteligencia Artificial las aplicaciones, programas o tecnología que analice fotografías, audios o videos y ofrece ajustes automáticos para hacerles alteraciones o modificaciones.
 
-También incurre en violación a la intimidad sexual quien para sí videograbe, audiograbe, fotografíe, imprima, elabore textos o almacene, duplique o multiplique imágenes, audios o videos de contenido íntimo sexual de una persona sin su consentimiento expreso, voluntario, genuino y deseado.
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2026)</small>
+
+También incurre en violación a la intimidad sexual quien para sí videograbe, audiograbe, fotografíe, imprima, elabore textos o almacene, duplique o multiplique imágenes, audios o videos de contenido íntimo sexual de una persona sin su consentimiento.
+
+> <small>(REFORMADO, P.O. 14 DE ABRIL DE 2023)</small>
 
 Está conducta se sancionará con una pena de seis meses a dos años de prisión y de doscientos a cuatrocientos días multa.
 
@@ -2331,27 +2353,17 @@ ARTICULO 185 BIS F.- Se impondrá de cuatro a ocho años de prisión y multa de 
 
 Los delitos de abuso sexual sancionados en los artículos 183, 183 Bis y 183 Bis A se perseguirán de oficio.
 
-Solo se perseguirá por querella de parte ofendida o de sus legítimos representantes el delito de estupro previsto y sancionado en el artículo 184.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 13 DE MAYO DE 2026)</small>
 
-> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2022)</small>
+###### ARTICULO 186 Bis.
 
-ARTICULO 186 BIS.- Para efectos de este título, en los delitos de violación, acoso sexual y estupro, el consentimiento de la víctima deberá ser expreso, voluntario, genuino y deseado.
+(DEROGADO, P.O. 13 DE MAYO DE 2026)
 
-Las circunstancias por las cuales en dichos delitos el consentimiento no puede ser considerado expreso, voluntario, genuino y deseado, son:
-
-I. Cuando haya intimidación, engaño, abuso, coerción, amenaza o una relación de poder;
-
-II. Cuando haya violencia de cualquier tipo, presión psicológica, silencio, resistencia o discapacidad mental o intelectual;
-
-III. Cuando haya fuerza, amenaza de la fuerza, coacción o aprovechamiento de un entorno coercitivo que haya disminuido la capacidad para dar un consentimiento voluntario y libre; o
-
-IV. Cuando la víctima esté imposibilitada de dar un consentimiento libre.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 187.
 
-Cuando se trate de los delitos de violación, su equiparación, o la prevista en el artículo 181 de este Código, inseminación artificial ilegal o abuso sexual, las sanciones se aumentarán hasta una tercera parte en cualquiera de los siguientes casos:
+Cuando se trate de los delitos de violación, su equiparación, o la prevista en el artículo 181 de este Código, o inseminación artificial ilegal, las sanciones se aumentarán hasta una tercera parte en cualquiera de los siguientes casos:
 
 > <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2022)</small>
 
@@ -2361,9 +2373,9 @@ I. Cuando fuere cometido por persona que tenga relación de parentesco por consa
 
 II. Cuando fuere cometido por quien desempeñe un cargo o empleo público o por ministro de culto religioso, utilizando los medios o circunstancias que ellos le proporcionen; además de la pena de prisión el sentenciado será destituido del cargo o empleo e inhabilitado para ejercer otro de la misma naturaleza, o en el caso de los ministros para que profese la religión por el término igual al de la pena de prisión;
 
-> <small>(REFORMADA, P.O. 12 DE AGOSTO DE 2022)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2026)</small>
 
-III. Se cometa el delito aprovechándose de las circunstancias de que el agente es profesionista, además de la pena de prisión la autoridad judicial podrá determinar la suspensión del ejercicio profesional por el término igual al de la pena de prisión;
+III. Se cometa el delito aprovechándose de las circunstancias de que el agente es profesionista, o persona que, debido a su empleo o función, tenga contacto directo o desempeñe labores de atención, supervisión o enseñanza con niñas, niños o adolescentes. Además de la pena de prisión la autoridad judicial podrá determinar la suspensión del ejercicio profesional por el término igual al de la pena de prisión, la cual deberá computarse a partir del momento en que dicha pena haya sido cumplida o se tenga legalmente por cumplida;
 
 > <small>(ADICIONADA, P.O. 12 DE AGOSTO DE 2022)</small>
 
@@ -5624,3 +5636,15 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. La Secretaría de Seguridad Pública del Estado contará con 90 días hábiles contados a partir de la entrada en vigor del presente Decreto para emitir la Estrategia para Prevenir y Combatir el Delito de Extorsión en el Estado de Sinaloa, prevista en el artículo 22 de la Ley para Prevenir, Investigar y Sancionar el Delito de Extorsión del Estado de Sinaloa.
+
+P.O. 13 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 398 DEL H. CONGRESO DEL ESTADO.- QUE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES AL CÓDIGO PENAL PARA EL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos penales que se estén substanciando a la entrada en vigor del presente Decreto se seguirán conforme a las disposiciones vigentes al momento de la comisión de los hechos.
