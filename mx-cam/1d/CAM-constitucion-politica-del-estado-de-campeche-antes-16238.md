@@ -4,7 +4,7 @@ identifier: "CAM-constitucion-politica-del-estado-de-campeche-antes-16238"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-05"
-last_updated: "2026-02-04"
+last_updated: "2026-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16238&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2026.
 
 Constitución publicada en el Periódico Oficial del Estado de Campeche, el jueves 5, sábado 7 y martes 10 de julio de 1917.
 
@@ -170,6 +170,14 @@ Los sujetos obligados se regirán por las Leyes en materia de transparencia y ac
 La ley establecerá aquella información que se considere reservada o confidencial.
 
 Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2026)</small>
+
+Toda persona adulta mayor tiene derecho a una vida digna, decorosa, de calidad con autonomía, inclusión y bienestar; a la protección de su patrimonio, salud y alimentación; a la asistencia y seguridad social, a la igualdad de oportunidades y a recibir un trato digno. El Estado a través de sus instituciones, poderes públicos, organismos autónomos y autoridades estatales y municipales deberán incorporar de manera transversal la atención y protección integral de las personas adultas mayores. Esta obligación comprende los procesos de planeación del desarrollo social y económico, así como la adopción de medidas específicas en materia de salud, educación, movilidad, cultura, vivienda y acceso a la justicia, con el fin de garantizar el pleno ejercicio de sus derechos humanos y su participación activa en la vida comunitaria.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2026)</small>
+
+El Estado garantizará la atención prioritaria a las personas y comunidades que enfrenten por su condición de vulnerabilidad económica, social o de movilidad humana, enfrenten obstáculos para el pleno ejercicio de sus derechos. Además, reconocerá y protegerá a las personas en situación de calle como sujetos de especial protección, asegurando su derecho a vivir con dignidad, a no ser discriminadas ni criminalizadas por su condición, y a recibir atención integral y progresiva que incluya alojamiento temporal, acceso a la salud, identidad jurídica, educación y oportunidades de reinserción social y laboral, en los términos que dispongan las leyes en la materia.
 
 > <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2010)</small>
 
@@ -3758,3 +3766,19 @@ En el procedimiento de entrega de recursos humanos, materiales, económicos, fin
 OCTAVO.- Las y los Comisionados de la Comisión de Transparencia y Acceso a la Información Pública del Estado de Campeche que, a la entrada en vigor del presente decreto continúen en su cargo, concluirán sus funciones al momento de entrega de los recursos e informes mencionados en los artículos transitorios que anteceden.
 
 NOVENO.- Las menciones, atribuciones o funciones contenidas en otras leyes, reglamentos y, en general, en cualquier disposición normativa, respecto a la Comisión de Transparencia y Acceso a la Información Pública del Estado de Campeche, se entenderán hechas o referidas a los entes públicos que adquieren tales atribuciones o funciones, según corresponda.
+
+P.O. 13 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 222 POR EL QUE “SE ADICIONAN LOS PÁRRAFOS DÉCIMO SEXTO Y DÉCIMO SÉPTIMO AL ARTÍCULO 6o. DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las dependencias y entidades de la Administración Pública Estatal y Municipal contarán con un plazo de 180 días hábiles a partir de la entrada en vigor del presente decreto para revisar, adecuar y, en su caso, emitir lineamientos o protocolos que aseguren la implementación de la obligación de incorporar la perspectiva de atención a las personas adultas mayores en todas sus áreas de competencia.
+
+TERCERO.- El Ejecutivo del Estado, a través de la Secretaría de Bienestar, de la Secretaría de Inclusión y del Sistema para el Desarrollo Integral de la Familia del Estado, deberán emitir lineamientos generales y mecanismos de seguimiento para garantizar el cumplimiento de este decreto, promoviendo la capacitación del personal y la adaptación de programas y servicios públicos.
+
+CUARTO.- Los Ayuntamientos del Estado, en el ámbito de sus atribuciones, en un plazo de 180 días deberán ajustar sus planes y programas municipales, garantizando la inclusión de la perspectiva de atención integral a las personas adultas mayores, sin menoscabo de los derechos de otros grupos poblacionales reconocidos en esta Constitución.
+
+QUINTO.- El Congreso del Estado deberá en un plazo no mayor de 180 días siguientes a la entrada en vigor del presente decreto, establecer en las leyes secundarias los mecanismos, criterios y requisitos para garantizar estos derechos.
+
+SEXTO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
