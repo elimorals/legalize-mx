@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2025-07-16"
+last_updated: "2026-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2026.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -266,6 +266,18 @@ Las medidas sancionadoras impuestas por la realización de una conducta tipifica
 ###### Art. 7o.
 
 La autoridad ante quien se ejerza el derecho de petición en los términos del artículo 8o. de la Constitución Federal, comunicará su proveído al peticionario a más tardar dentro de los quince días hábiles siguientes a la presentación del escrito, salvo lo que disponga la ley para casos especiales.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2026)</small>
+
+###### Art. 7 Bis.
+
+El Estado y los Municipios promoverán la cultura de paz, la legalidad, la convivencia social y la prevención de la violencia en todas sus formas, a través de políticas públicas, programas educativos y actividades culturales, deportivas y artísticas.
+
+En todo momento se considerará la igualdad sustantiva, la perspectiva de género, la diversidad cultural y la inclusión como principios rectores de dichas acciones.
+
+Las expresiones culturales deberán respetar los derechos humanos, la dignidad de las personas y el orden público, conforme a los principios constitucionales y al derecho a la libertad de expresión.
+
+En el ámbito de sus competencias y con pleno respeto a su autonomía, los municipios podrán establecer los lineamientos necesarios para regular los eventos públicos que se realicen en su circunscripción territorial y promocionar las diversas formas de expresión distintas a la apología del delito, mensajes que normalicen la violencia, particularmente contra las mujeres, o que vulneren los derechos humanos o la dignidad de las personas.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE AGOSTO DE 2012)</small>
 
@@ -5818,3 +5830,19 @@ En atención a lo que dispone el artículo 202 de la Constitución Política del
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVIII/RFCLC/0371/2025 I P.O., MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 7 BIS A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA; ASÍ MISMO, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL, DE LA LEY DE DESARROLLO CULTURAL Y DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA, TODOS ORDENAMIENTOS DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+En atención a lo que dispone el artículo 202 de la Constitución Política del Estado Libre y Soberano de Chihuahua, envíese copia de la iniciativa, del dictamen y del Diario de los Debates del Congreso del Estado, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Los Ayuntamientos del Estado de Chihuahua, en el ámbito de sus atribuciones, podrán armonizar sus Bandos de Policía y Reglamentos de Espectáculos Públicos o análogos con lo dispuesto en este Decreto.
