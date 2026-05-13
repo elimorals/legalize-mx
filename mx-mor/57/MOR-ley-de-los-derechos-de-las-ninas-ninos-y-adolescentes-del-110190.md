@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-los-derechos-de-las-ninas-ninos-y-adolescentes-del-11019
 country: "mx"
 rank: "ley"
 publication_date: "2015-10-14"
-last_updated: "2026-04-29"
+last_updated: "2026-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110190&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 14 de octubre de 2015.
 
@@ -1737,7 +1737,7 @@ XVIII. Las demás que sean necesarias para el cumplimiento de esta Ley.
 
 Los municipios que conforman el Estado de Morelos, deberán de instalar su Sistema Municipal de Protección Integral de los Derechos de las Niñas, Niños y Adolescentes, los cuales estarán constituidos con una integración, organización y con las atribuciones conferidas al Sistema de Protección Local, en el ámbito de sus competencias y estructura, los Sistemas Municipales tendrán como objetivo principal garantizar la protección integral de los derechos de la niñez que radican en sus municipios, su creación y funcionamiento será supervisado por el Sistema de Protección Local para asegurar su eficiencia y eficacia conforme a los principios establecidos en la presente Ley.
 
-> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2024)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2026)</small>
 
 ###### Artículo 101.
 
@@ -1773,9 +1773,7 @@ XIV.- La Secretaría Ejecutiva, la cual estará representada por la o el servido
 
 XV.- Dos representantes de la sociedad civil, dos niñas o niños, y dos adolescentes, que serán nombradas por el Sistema DIF Morelos, previa convocatoria.
 
-Serán invitadas permanentes a las sesiones del Sistema de Protección Local, las personas titulares de las Presidencias de la Mesa Directiva del Congreso del Estado y del Tribunal Superior de Justicia del Estado, quienes intervendrán con voz, pero sin voto.
-
-Serán invitadas permanentes a las sesiones del Sistema de Protección Local,las (sic) personas titulares de las Presidencias de la Mesa Directiva del Congreso del Estado y del Tribunal Superior de Justicia del Estado, quienes intervendrán con voz, pero sin voto.
+Serán invitadas permanentes a las sesiones del Sistema de Protección Local, las personas titulares de las Presidencias de la Mesa Directiva del Congreso del Estado y del Tribunal Superior de Justicia del Estado y del Tribunal Unitario de Justicia Penal para Adolescentes del Estado de Morelos, quienes intervendrán con voz, pero sin voto.
 
 La persona titular de la Secretaría de Gobierno podrá suplir al Gobernador o Gobernadora, y las demás personas integrantes del Sistema de Protección Local nombrarán a una persona suplente, quienes deberán tener el nivel de una persona titular de una subsecretaría o su equivalente.
 
@@ -2334,3 +2332,13 @@ P.O. 29 DE ABRIL DE 2026.
 PRIMERA. Remítase el presente Decreto a la Titular del Poder Ejecutivo Estatal para su publicación correspondiente en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del estado de Morelos.
 
 SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del estado de Morelos.
+
+P.O. 13 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO MIL CIENTO VEINTICINCO.- POR EL QUE SE REFORMA EL ARTÍCULO 101 DE LA LEY DE LOS DERECHOS DE LAS NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto a la Persona Titular del Poder Ejecutivo Estatal para su publicación correspondiente en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del Estado de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión oficial del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan las disposiciones de igual o menor jerarquía que se contrapongan al presente Decreto.
