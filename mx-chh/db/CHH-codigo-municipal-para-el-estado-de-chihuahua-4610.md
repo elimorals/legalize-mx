@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2026-01-24"
+last_updated: "2026-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2026.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -1097,7 +1097,13 @@ XXIV.- Determinar, en cumplimiento de las disposiciones legales, reglamentarias 
 
 XXV.- Otorgar y revalidar los permisos, licencias o autorizaciones que les competan conforme a las leyes y sus reglamentos;
 
-XXVI.- Autorizar, en cumplimiento de las disposiciones legales, reglamentarias y acuerdos de los Ayuntamientos, horarios y precios para el acceso a las diversiones y los espectáculos públicos, su celebración y vigilar su desarrollo;
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE MAYO DE 2026)</small>
+
+XXVI.- Autorizar, en cumplimiento de las disposiciones legales, reglamentarias y acuerdos de los Ayuntamientos, los horarios, precios, condiciones y contenido temático de las diversiones y espectáculos públicos, su celebración y vigilar su desarrollo.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2026)</small>
+
+En todo momento deberán garantizarse el respeto al orden público, a la dignidad humana y a los derechos humanos, procurando las diversas formas de expresión distintas a la apología del delito, mensajes que normalicen la violencia, particularmente contra las mujeres.
 
 XXVII.- Declarar administrativamente la nulidad, caducidad o rescisión de contratos, permisos o licencias y concesiones administrativos; así como hacer efectivo el derecho de reversión de los terrenos municipales, cuando los adquirentes incumplan la obligación de construir dentro del plazo y por el valor indicados en el título municipal;
 
@@ -1174,6 +1180,14 @@ XLVII.- Implementar, de conformidad con el artículo 2 de la Ley de Planeación 
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 4 DE SEPTIEMBRE DE 2024)</small>
 
 XLVIII.- Las demás que le confieren las leyes y reglamentos.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2026)</small>
+
+ARTICULO 29 BIS. Los Ayuntamientos, en el ámbito de su autonomía, promoverán la cultura de paz, la legalidad, la convivencia social y la prevención de la violencia en todas sus formas, a través de políticas públicas, programas educativos y actividades culturales, deportivas y artísticas.
+
+En todo momento se considerará la igualdad sustantiva, la perspectiva de género, la diversidad cultural y la inclusión como principios rectores de dichas acciones.
+
+Además, podrán establecer los lineamientos necesarios para regular los eventos públicos que se realicen en su circunscripción territorial y promocionar las diversas formas de expresión distintas a la apología del delito, mensajes que normalicen la violencia, particularmente contra las mujeres, o que vulneren los derechos humanos o la dignidad de las personas.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 18 DE OCTUBRE DE 1987)</small>
 
@@ -5962,3 +5976,19 @@ P.O. 24 DE ENERO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO N° LXVIII/RFCLC/0371/2025 I P.O., MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 7 BIS A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA; ASÍ MISMO, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL, DE LA LEY DE DESARROLLO CULTURAL Y DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA, TODOS ORDENAMIENTOS DEL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+En atención a lo que dispone el artículo 202 de la Constitución Política del Estado Libre y Soberano de Chihuahua, envíese copia de la iniciativa, del dictamen y del Diario de los Debates del Congreso del Estado, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Los Ayuntamientos del Estado de Chihuahua, en el ámbito de sus atribuciones, podrán armonizar sus Bandos de Policía y Reglamentos de Espectáculos Públicos o análogos con lo dispuesto en este Decreto.
