@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-ordenamiento-territorial-y-desarrollo-urbano-69875"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-26"
-last_updated: "2026-04-29"
+last_updated: "2026-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 26 de agosto de 2009.
 
@@ -1937,9 +1937,9 @@ I.- Sólo podrán desarrollarse en las zonas consideradas aptas para tal fin en 
 
 II.- Deberán sujetarse a las normas básicas que al respecto emita la Autoridad en cuanto a coeficiente de ocupación del suelo, coeficiente de uso de suelo, coeficiente de absorción;
 
-> <small>(REFORMADA, P.O. 17 DE JULIO DE 2019)</small>
+> <small>(REFORMADA, P.O. 13 DE MAYO DE 2026)</small>
 
-III.- Deberán cumplir los requerimientos de cajones de estacionamiento de acuerdo a los ordenamientos legales aplicables, mismos que deberán ser proporcionados de forma gratuita para los clientes o consumidores que así lo demuestren, por dos horas, sin fijar para ello cuotas mínimas o máximas de compra. El incumplimiento de esta disposición será considerado infracción administrativa sancionada por el Bando de Policía y Buen Gobierno, cuyo monto se fijará en las Leyes de Ingresos de los Municipios. Los propietarios o poseedores de los estacionamientos de los fraccionamientos y condominios comerciales y de servicios que se dediquen a cualquier giro y/o actividad podrán cobrar una contraprestación económica transcurridas las dos horas de gratuidad a quienes estacionen sus vehículos en los espacios respectivos y no demuestren ser clientes o consumidores, así mismo, no se cobrará ninguna cuota por boleto perdido, bastará con acreditar la propiedad del vehículo. Estas obligaciones incluyen al beneficiario de la concesión o derechos de explotación del estacionamiento de los fraccionamientos y condominios comerciales y de servicios.
+III.- Deberán cumplir los requerimientos de cajones de estacionamiento de acuerdo a los ordenamientos legales aplicables, mismos que deberán ser proporcionados de forma gratuita para los clientes o consumidores que así lo demuestren, por dos horas, sin fijar para ello cuotas mínimas o máximas de compra, así mismo deberán reservar cajones de fácil acceso, proporcionalmente a su afluencia, que sean exclusivos para personas con discapacidad y adultos mayores con limitaciones de movilidad y/o en uso de sillas de ruedas o de cualquier dispositivo técnico auxiliar de movilidad. El incumplimiento de esta disposición será considerado infracción administrativa sancionada por el Bando de Policía y Buen Gobierno, cuyo monto se fijará en las Leyes de Ingresos de los Municipios. Los propietarios o poseedores de los estacionamientos de los fraccionamientos y condominios comerciales y de servicios que se dediquen a cualquier giro y/o actividad podrán cobrar una contraprestación económica transcurridas las dos horas de gratuidad a quienes estacionen sus vehículos en los espacios respectivos y no demuestren ser clientes o consumidores, así mismo, no se cobrará ninguna cuota por boleto perdido, bastará con acreditar la propiedad del vehículo. Estas obligaciones incluyen al beneficiario de la concesión o derechos de explotación del estacionamiento de los fraccionamientos y condominios comerciales y de servicios.
 
 Los proyectos de los fraccionamientos y condominios comerciales y de servicios que se presenten ante los municipios para la obtención de licencias de construcción y uso de suelo, deberán contemplar el área destinada a los cajones de estacionamiento, los cuales deberán permanecer de manera gratuita y permanente a favor de los clientes de conformidad a lo establecido en esta fracción y en los ordenamientos municipales aplicables.
 
@@ -2416,3 +2416,13 @@ SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERA. Los municipios deberán adecuar su normativa en un plazo máximo de noventa días naturales, a partir de la entrada en vigor del presente decreto.
 
 CUARTA. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE MAYO DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL “DECRETO NÚMERO MIL OCHENTA Y OCHO POR EL QUE SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 184 BIS DE LA LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS”.]</small>
+
+PRIMERA. Remítase el presente Decreto a la Gobernadora Constitucional del Estado, para los efectos señalados en los artículos 44 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor a partir del día siguiente a su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del Estado.
+
+TERCERA. Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto
