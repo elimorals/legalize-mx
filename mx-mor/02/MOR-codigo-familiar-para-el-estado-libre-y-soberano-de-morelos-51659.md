@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2026-05-06"
+last_updated: "2026-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2026.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -529,9 +529,15 @@ Se entenderá por relación de hecho, la que exista entre quienes mantengan una 
 
 ARTÍCULO 24 BIS.- Para los efectos de este Código se considera violencia vicaria al acto abusivo contra la mujer que ejerce quien mantenga o haya mantenido una relación de hecho o de pareja con la víctima y que por sí o por interpósita persona, utilice como medio a las hijas e hijos de ésta, para causarle daño; generando una consecuente afectación psicoemocional e incluso física a los menores.
 
-> <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 2023)</small>
+> <small>(REFORMADO, P.O. 13 DE MAYO DE 2026)</small>
 
 ARTÍCULO 24 TER.- Quien tenga o haya tenido un vínculo por matrimonio, concubinato o relación de hecho o los integrantes de la familia que incurran en violencia familiar y/o violencia vicaria, deben reparar los daños y perjuicios que se ocasione con dicha conducta, con autonomía de otro tipo de sanciones que éste y otros ordenamientos legales establezcan.
+
+La obligación de reparar los daños y perjuicios no prescribe en contra de niñas, niños y personas adolescentes que no han adquirido la mayoría de edad respecto de aquellas acciones u omisiones cometidas en su agravio que configuren un hecho ilícito y produzcan un daño moral.
+
+La reparación del daño incluirá, además, medidas de restitución, indemnización, rehabilitación, satisfacción y garantías de no repetición, conforme a los principios de dignidad humana, interés superior de la niñez y perspectiva de derechos humanos.
+
+Lo anterior sin perjuicio de cualquier otra acción que por los hechos se derive.
 
 ###### ARTÍCULO 25.
 
@@ -7400,3 +7406,15 @@ PRIMERA. Remítase el presente decreto a la Titular del Poder Ejecutivo del Esta
 SEGUNDA. El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión de Gobierno del Estado.
 
 TERCERA. El presente decreto deroga todas las disposiciones legales de igual o menor rango, que se opongan o contradigan a este.
+
+P.O. 13 DE MAYO DE 2026.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL “DECRETO NÚMERO MIL CIENTO VEINTINUEVE POR EL QUE SE REFORMA EL ARTÍCULO 1365 DEL CÓDIGO CIVIL DEL ESTADO LIBRE Y SOBERANO DE MORELOS, Y EL ARTÍCULO 24 TER DEL CÓDIGO FAMILIAR DEL ESTADO LIBRE Y SOBERANO DE MORELOS EN MATERIA DE IMPRESCRIPTIBILIDAD RESPECTO DE AQUELLAS ACCIONES U OMISIONES QUE CONFIGUREN UN HECHO ILÍCITO QUE PRODUZCA DAÑOS Y PERJUICIOS TRATÁNDOSE DE NIÑAS, NIÑOS Y PERSONAS ADOLESCENTES”.]</small>
+
+PRIMERA. Remítase el presente decreto a la persona Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII, incisos a) y c) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión de Gobierno del Estado.
+
+TERCERA. El presente decreto deroga todas las disposiciones legales de igual o menor rango, que se opongan o contradigan al presente decreto.
+
+CUARTA. Publíquese en la Gaceta Legislativa de este Congreso.
