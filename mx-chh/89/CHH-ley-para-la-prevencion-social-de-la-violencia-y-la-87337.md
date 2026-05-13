@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-la-prevencion-social-de-la-violencia-y-la-87337"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-18"
-last_updated: "2025-07-30"
+last_updated: "2026-05-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87337&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MAYO DE 2026.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 18 de abril de 2012.
 
@@ -394,6 +394,14 @@ Para la ejecución del Programa Estatal, el Centro Estatal preparará un program
 ###### Artículo 19 Bis.
 
 En la elaboración del Programa Estatal, deberá considerarse la perspectiva de niñez y juventud, así como de género.
+
+> <small>(ADICIONADO, P.O. 13 DE MAYO DE 2026)</small>
+
+###### Artículo 19 Ter.
+
+Como parte de la estrategia estatal de prevención social de la violencia y la delincuencia, se fomentará de manera especial la producción, difusión y promoción de obras musicales y artísticas que promuevan la cultura de paz, la convivencia democrática y el respeto a los derechos humanos, que desalienten la normalización de la violencia y contribuyan a generar referentes culturales que rechacen toda forma de apología del delito, de la criminalidad o de la violencia como forma de vida.
+
+Estas acciones deberán privilegiar el respeto a la libertad de expresión, a la diversidad artística y a la pluralidad cultural, enfocándose en incentivar manifestaciones que fortalezcan el tejido social, especialmente entre niñas, niños, adolescentes y juventudes.
 
 ### CAPÍTULO SEGUNDO. DE SU EVALUACIÓN
 
@@ -824,3 +832,19 @@ P.O. 30 DE JULIO DE 2025.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 13 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO N° LXVIII/RFCLC/0371/2025 I P.O., MEDIANTE EL CUAL SE ADICIONA EL ARTÍCULO 7 BIS A LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA; ASÍ MISMO, SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO MUNICIPAL, DE LA LEY DE DESARROLLO CULTURAL Y DE LA LEY PARA LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y LA DELINCUENCIA, CON PARTICIPACIÓN CIUDADANA, TODOS ORDENAMIENTOS DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+En atención a lo que dispone el artículo 202 de la Constitución Política del Estado Libre y Soberano de Chihuahua, envíese copia de la iniciativa, del dictamen y del Diario de los Debates del Congreso del Estado, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO TERCERO.
+
+Los Ayuntamientos del Estado de Chihuahua, en el ámbito de sus atribuciones, podrán armonizar sus Bandos de Policía y Reglamentos de Espectáculos Públicos o análogos con lo dispuesto en este Decreto.
