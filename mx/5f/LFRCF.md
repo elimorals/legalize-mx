@@ -4,7 +4,7 @@ identifier: "LFRCF"
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-18"
-last_updated: "2021-05-20"
+last_updated: "2026-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115699&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,11 @@ abbreviation: "LFRCF"
 ---
 # LEY DE FISCALIZACION Y RENDICION DE CUENTAS DE LA FEDERACION
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE MAYO DE 2026 EN EL D.O.F. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DE LA FEDERACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MAYO DE 2026.
 
 Ley publicada en la Edición Vespertina del Diario Oficial de la Federación, el lunes 18 de julio de 2016.
 
@@ -186,7 +188,9 @@ Las personas a que se refiere este artículo deberán acompañar a la informaci�
 
 La Auditoría Superior de la Federación podrá imponer multas, conforme a lo siguiente:
 
-I. Cuando los servidores públicos y las personas físicas no atiendan los requerimientos a que refiere el artículo precedente, salvo que exista disposición legal o mandato judicial que se los impida, o por causas ajenas a su responsabilidad, la Auditoría Superior de la Federación podrán (sic) imponerles una multa mínima de ciento cincuenta a una máxima de dos mil veces el valor diario de la Unidad de Medida y Actualización;
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2026)</small>
+
+I. Cuando los servidores públicos y las personas físicas no atiendan total, parcialmente o por omisión, los requerimientos a que se refiere el artículo precedente, salvo que exista disposición legal o mandato judicial que se los impida, o por causas ajenas a su responsabilidad, la Auditoría Superior de la Federación podrá imponerles una multa mínima de ciento cincuenta a una máxima de dos mil veces el valor diario de la Unidad de Medida y Actualización;
 
 II. En el caso de personas morales, públicas o privadas, la multa consistirá en un mínimo de seiscientas cincuenta a diez mil veces el valor diario de la Unidad de Medida y Actualización;
 
@@ -217,6 +221,12 @@ II. El avance del cumplimiento de los programas con base en los indicadores apro
 Lo anterior, sin perjuicio de lo previsto en la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 
 La Auditoría Superior de la Federación realizará un análisis del Informe de Avance de Gestión Financiera 30 días posteriores a la fecha de su presentación y lo entregará a la Comisión.
+
+> <small>(ADICIONADO, D.O.F. 14 DE MAYO DE 2026)</small>
+
+###### Artículo 12 Bis.
+
+La Auditoría Superior de la Federación coordinará y administrará un Registro de Información y Datos relacionados con los Recursos Federales, incluyendo las participaciones federales, en el que los entes públicos deberán aportar la información que para tal efecto se establezca.
 
 ## TÍTULO SEGUNDO. De la Fiscalización de la Cuenta Pública
 
@@ -312,11 +322,17 @@ e) Instituciones de crédito, fideicomisos u otras figuras del sector financiero
 
 f) Autoridades hacendarias federales y locales.
 
-La Auditoría Superior de la Federación tendrá acceso a la información que las disposiciones legales consideren como de carácter reservado o confidencial cuando esté relacionada directamente con la captación, recaudación, administración, manejo, custodia, ejercicio, aplicación de los ingresos y egresos federales y la deuda pública, estando obligada a mantener la misma reserva, en términos de las disposiciones aplicables. Dicha información solamente podrá ser solicitada en los términos de las disposiciones aplicables, de manera indelegable por el Titular de la Auditoría y los auditores especiales a que se refiere esta Ley.
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2026)</small>
+
+La Auditoría Superior de la Federación tendrá acceso a la información que las disposiciones legales consideren como de carácter reservado o confidencial cuando esté relacionada directamente con la captación, recaudación, administración, manejo, custodia, ejercicio, aplicación de los ingresos y egresos federales y la deuda pública, estando obligada a mantener la misma reserva, en términos de las disposiciones aplicables. Dicha información solamente podrá ser solicitada en los términos de las disposiciones aplicables, de manera indelegable por el Titular de la Auditoría y los auditores especializados.
 
 Cuando derivado de la práctica de auditorías se entregue a la Auditoría Superior de la Federación información de carácter reservado o confidencial, ésta deberá garantizar que no se incorpore en los resultados, observaciones, recomendaciones y acciones de los informes de auditoría respectivos, información o datos que tengan esta característica en términos de la legislación aplicable. Dicha información será conservada por la Auditoría Superior de la Federación en sus documentos de trabajo y sólo podrá ser revelada a la autoridad competente, en términos de las disposiciones aplicables.
 
 El incumplimiento a lo dispuesto en esta fracción será motivo del fincamiento de las responsabilidades administrativas y penales establecidas en las leyes correspondientes;
+
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2026)</small>
+
+XI Bis. Notificar de manera personal, o a través de medios electrónicos todas las actuaciones que deriven del proceso de Fiscalización;
 
 XII. Fiscalizar los recursos públicos federales que la Federación haya otorgado a entidades federativas, municipios y alcaldías de la Ciudad de México, fideicomisos, fondos, mandatos o, cualquier otra figura análoga, personas físicas o morales, públicas o privadas, cualesquiera que sean sus fines y destino, así como verificar su aplicación al objeto autorizado;
 
@@ -410,9 +426,11 @@ En caso de que la Auditoría Superior de la Federación considere que las entida
 
 Lo previsto en los artículos anteriores, se realizará sin perjuicio de que la Auditoría Superior de la Federación convoque a las reuniones de trabajo que estime necesarias durante las auditorías correspondientes, para la revisión de los resultados preliminares.
 
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2026)</small>
+
 ###### Artículo 22.
 
-La Auditoría Superior de la Federación podrá solicitar y revisar, de manera casuística y concreta, información y documentación de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el Presupuesto de Egresos en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de auditorías sobre el desempeño. Las observaciones, incluyendo las acciones y recomendaciones que la Auditoría Superior de la Federación emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión. Lo anterior, sin perjuicio de que, de encontrar en la revisión que se practique presuntas responsabilidades a cargo de servidores públicos o particulares, correspondientes a otros ejercicios fiscales, se dará vista a la unidad administrativa a cargo de las investigaciones de la Auditoría Superior de la Federación para que proceda a formular las promociones de responsabilidades administrativas o las denuncias correspondientes en términos del Título Quinto de la presente Ley.
+La Auditoría Superior de la Federación podrá solicitar y revisar, de manera casuística y concreta, información y documentación de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el Presupuesto de Egresos en revisión abarque para su ejecución y pago diversos ejercicios fiscales o se trate de auditorías sobre el desempeño. Las observaciones, incluyendo las acciones y recomendaciones que la Auditoría Superior de la Federación emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión. Lo anterior, sin perjuicio de que, de encontrar en la revisión que se practique presuntas responsabilidades a cargo de servidores públicos o particulares, correspondientes a otros ejercicios fiscales, se dará vista a la unidad administrativa a cargo de las investigaciones de la Auditoría Superior de la Federación para que ejerza las atribuciones que tiene conferidas en la Ley General de Responsabilidades Administrativas y demás ordenamientos legales aplicables y, de ser el caso, presente las promociones de responsabilidades administrativas o las denuncias correspondientes en términos del Título Quinto de la presente Ley.
 
 ###### Artículo 23.
 
@@ -550,19 +568,29 @@ II. Tratándose de los pliegos de observaciones, determinará en cantidad líqui
 
 III. Mediante las promociones del ejercicio de la facultad de comprobación fiscal, informará a la autoridad competente sobre un posible incumplimiento de carácter fiscal detectado en el ejercicio de sus facultades de fiscalización;
 
-IV. A través del informe de presunta responsabilidad administrativa, la Auditoría Superior de la Federación promoverá ante el Tribunal, en los términos de la Ley General de Responsabilidades Administrativas, la imposición de sanciones a los servidores públicos por las faltas administrativas graves que conozca derivado de sus auditorías, así como sanciones a los particulares vinculados con dichas faltas.
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 14 DE MAYO DE 2026)</small>
+
+IV. A través del informe de presunta responsabilidad administrativa, la Auditoría Superior de la Federación promoverá ante el Tribunal, en los términos de la Ley General de Responsabilidades Administrativas, la imposición de sanciones a los servidores públicos por las faltas administrativas graves que conozca derivado de sus auditorías, o de las investigaciones que realice de oficio o derivadas de denuncia, así como sanciones a los particulares vinculados con dichas faltas.
 
 En caso de que la Auditoría Superior de la Federación determine la existencia de daños o perjuicios, o ambos a la Hacienda Pública Federal o al patrimonio de los entes públicos, que deriven de faltas administrativas no graves, procederá en los términos de la Ley General de Responsabilidades Administrativas;
 
 V. Por medio de las promociones de responsabilidad administrativa, dará vista a los órganos internos de control cuando detecte posibles responsabilidades administrativas no graves, para que continúen la investigación respectiva y, en su caso, inicien el procedimiento sancionador correspondiente en los términos de la Ley General de Responsabilidades Administrativas;
 
-VI. Mediante las denuncias de hechos, hará del conocimiento de la Fiscalía Especializada, la posible comisión de hechos delictivos, y
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2026)</small>
+
+VI. Mediante las denuncias de hechos, que podrán presentarse en cualquier momento, hará del conocimiento de la Fiscalía Especializada, la posible comisión de hechos delictivos, y
 
 VII. Por medio de la denuncia de juicio político, hará del conocimiento de la Cámara la presunción de actos u omisiones de los servidores públicos a que se refiere el artículo 110 de la Constitución Política de los Estados Unidos Mexicanos, que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, a efecto de que se substancie el procedimiento y resuelva sobre la responsabilidad política correspondiente.
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], D.O.F. 14 DE MAYO DE 2026)</small>
+
 ###### Artículo 41.
 
-La Auditoría Superior de la Federación deberá pronunciarse en un plazo de 120 días hábiles, contados a partir de su recepción, sobre las respuestas emitidas por las entidades fiscalizadas, en caso de no hacerlo, se tendrán por atendidas las acciones y recomendaciones.
+La Auditoría Superior de la Federación deberá pronunciarse en un plazo de 120 días hábiles, contados a partir de su recepción, sobre las respuestas emitidas por las entidades fiscalizadas, determinando su no solventación, solventación, archivo o conclusión, según corresponda.
+
+> <small>(ADICIONADO, D.O.F. 14 DE MAYO DE 2026)</small>
+
+Una vez formulado dicho pronunciamiento, se contará con un plazo de 90 días hábiles para el envío del dictamen técnico de no solventación de los pliegos de observaciones a las áreas de investigación.
 
 ###### Artículo 42.
 
@@ -609,6 +637,18 @@ De la fiscalización de recursos federales administrados o ejercidos por órdene
 La Auditoría Superior de la Federación fiscalizará, conforme al programa anual de auditoría que deberá aprobar y publicar en el Diario Oficial de la Federación, directamente los recursos federales que administren o ejerzan las entidades federativas, los municipios y las alcaldías de la Ciudad de México; asimismo, fiscalizará directamente los recursos federales que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
 
 La Auditoría Superior de la Federación revisará el origen de los recursos con los que se pagan los sueldos y salarios del personal que preste o desempeñe un servicio personal subordinado en dichos órdenes de gobierno, para determinar si fueron cubiertos con recursos federales o locales, en términos de lo dispuesto en el artículo 3-B de la Ley de Coordinación Fiscal y las disposiciones aplicables. Para tal efecto la Auditoría Superior de la Federación determinará en su programa anual de auditorías la muestra a fiscalizar para el año correspondiente.
+
+> <small>(ADICIONADO, D.O.F. 14 DE MAYO DE 2026)</small>
+
+La Auditoría Superior de la Federación podrá celebrar convenios de coordinación y colaboración con las entidades de fiscalización superior de las entidades federativas, con el objeto de apoyar los trabajos de revisión respecto del ejercicio de recursos federales transferidos a las entidades federativas, municipios y demarcaciones territoriales de la Ciudad de México.
+
+> <small>(ADICIONADO, D.O.F. 14 DE MAYO DE 2026)</small>
+
+Dichos convenios podrán prever la participación de las entidades de fiscalización superior locales en actividades de verificación, recopilación de información, revisión documental, entre otros, sin que ello implique la delegación de las facultades constitucionales de fiscalización que corresponden a la Auditoría Superior de la Federación.
+
+> <small>(ADICIONADO, D.O.F. 14 DE MAYO DE 2026)</small>
+
+En todos los casos, la Auditoría Superior de la Federación conservará la conducción y mando de las auditorías.
 
 ###### Artículo 48.
 
@@ -720,9 +760,11 @@ III. El cumplimiento de inscribir y publicar la totalidad de sus financiamientos
 
 ## TÍTULO CUARTO. De la Fiscalización durante el Ejercicio Fiscal en Curso o de Ejercicios Anteriores
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE MAYO DE 2026)</small>
+
 ###### Artículo 59.
 
-Para los efectos de lo previsto en el párrafo quinto de la fracción I, del artículo 79 de la Constitución Política de los Estados Unidos Mexicanos, cualquier persona podrá presentar denuncias fundadas cuando se presuma el manejo, aplicación o custodia irregular de recursos públicos federales, o de su desvío, en los supuestos previstos en esta Ley, la Auditoría Superior de la Federación, previa autorización de su Titular, podrá revisar la gestión financiera de las entidades fiscalizadas, durante el ejercicio fiscal en curso, así como respecto a ejercicios fiscales distintos al de la Cuenta Pública en revisión.
+Para los efectos de lo previsto en el párrafo quinto de la fracción I, del artículo 79 de la Constitución Política de los Estados Unidos Mexicanos, cualquier persona podrá presentar denuncias a través de los canales de comunicación y los instrumentos técnicos dispuestos por la Auditoría Superior de la Federación, cuando se presuma el manejo, aplicación o custodia irregular de recursos públicos federales, o de su desvío, en los supuestos previstos en esta Ley, la Auditoría Superior de la Federación, previa autorización de su Titular, podrá revisar la gestión financiera de las entidades fiscalizadas, durante el ejercicio fiscal en curso, así como respecto a ejercicios fiscales distintos al de la Cuenta Pública en revisión.
 
 Las denuncias podrán presentarse a la Cámara, a la Comisión o directamente a la Auditoría Superior de la Federación.
 
@@ -740,9 +782,11 @@ II. Descripción de los presuntos hechos irregulares.
 
 Al escrito de denuncia deberán acompañarse los elementos de prueba, cuando sea posible, que se relacionen directamente con los hechos denunciados. La Auditoría Superior de la Federación deberá proteger en todo momento la identidad del denunciante.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE MAYO DE 2026)</small>
+
 ###### Artículo 61.
 
-Las denuncias deberán referirse a presuntos daños o perjuicios a la Hacienda Pública Federal o al patrimonio de los entes públicos, en algunos de los siguientes supuestos para su procedencia:
+Las denuncias deberán estar relacionadas con presuntos daños o perjuicios a la Hacienda Pública Federal o al patrimonio de los entes públicos, y podrán referirse a alguno de los siguientes supuestos para su procedencia:
 
 I. Desvío de recursos hacia fines distintos a los autorizados;
 
@@ -760,9 +804,11 @@ La Auditoría Superior de la Federación informará al denunciante la resolució
 
 En el caso de las denuncias a través de medios electrónicos, la respuesta se realizará por el mismo medio de conformidad con las disposiciones aplicables.
 
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2026)</small>
+
 ###### Artículo 62.
 
-El Titular de la Auditoría Superior de la Federación, con base en el dictamen técnico jurídico que al efecto emitan las áreas competentes de la Auditoría Superior de la Federación autorizará, en su caso, la revisión de la gestión financiera correspondiente, ya sea del ejercicio fiscal en curso o de ejercicios anteriores a la Cuenta Pública en revisión.
+El Titular de la Auditoría Superior de la Federación, con base en el dictamen que al efecto emita el área competente de la Auditoría Superior de la Federación autorizará, en su caso, la revisión de la gestión financiera correspondiente, ya sea del ejercicio fiscal en curso o de ejercicios anteriores a la Cuenta Pública en revisión.
 
 ###### Artículo 63.
 
@@ -774,23 +820,37 @@ La Auditoría Superior de la Federación tendrá las atribuciones señaladas en 
 
 La Auditoría Superior de la Federación, deberá reportar en los informes correspondientes en los términos del artículo 38 de esta Ley, el estado que guarden las observaciones, detallando las acciones relativas a dichas auditorías, así como la relación que contenga la totalidad de denuncias recibidas.
 
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2026)</small>
+
 ###### Artículo 65.
 
-De la revisión efectuada al ejercicio fiscal en curso o a los ejercicios anteriores, la Auditoría Superior de la Federación rendirá un informe a la Cámara, a más tardar a los 10 días hábiles posteriores a la conclusión de la auditoría. Asimismo, promoverá las acciones que, en su caso, correspondan para el fincamiento de las responsabilidades administrativas, penales y políticas a que haya lugar, conforme lo establecido en esta Ley y demás legislación aplicable.
+De la revisión efectuada al ejercicio fiscal en curso o a los ejercicios anteriores, la Auditoria Superior de la Federación rendirá un informe a la Cámara, a más tardar a los 20 días hábiles posteriores a la conclusión de la auditoria. Asimismo, promoverá las acciones que, en su caso, correspondan para el financiamiento de las responsabilidades administrativas, penales y políticas a que haya lugar, conforme lo establecido en esta Ley y demás legislación aplicable.
 
 ###### Artículo 66.
 
 Lo dispuesto en el presente Capítulo, no excluye la imposición de las sanciones que conforme a la Ley General de Responsabilidades Administrativas procedan ni de otras que se deriven de la revisión de la Cuenta Pública.
 
-## TÍTULO QUINTO. De la Determinación de Daños y Perjuicios y del Fincamiento de Responsabilidades
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O.F. 14 DE MAYO DE 2026)</small>
 
-## TÍTULO SEXTO. De las Funciones de la Cámara de Diputados en la Fiscalización de la Cuenta Pública
+## TÍTULO CUARTO BIS. De las investigaciones de oficio o derivadas de denuncia
+
+> <small>(ADICIONADO, D.O.F. 14 DE MAYO DE 2026)</small>
+
+###### Artículo 66 Bis.
+
+La Auditoría Superior de la Federación podrá, en cualquier momento, ya sea de oficio o derivado de denuncia, investigar las presuntas faltas administrativas graves, en los términos de la Ley General de Responsabilidades Administrativas, independientemente de las que deriven del proceso de fiscalización y del ejercicio fiscal del que se trate.
+
+La Auditoría Superior de la Federación pondrá a disposición de la ciudadanía los canales de comunicación y los instrumentos técnicos, en todas sus modalidades, que faciliten la presentación de las denuncias correspondientes.
+
+## TÍTULO QUINTO. De la Determinación de Daños y Perjuicios y del Fincamiento de Responsabilidades
 
 ### Capítulo I. De la Determinación de Daños y Perjuicios contra la Hacienda Pública Federal o al patrimonio de los entes públicos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE MAYO DE 2026)</small>
+
 ###### Artículo 67.
 
-Si de la fiscalización que realice la Auditoría Superior de la Federación se detectaran irregularidades que permitan presumir la existencia de responsabilidades a cargo de servidores públicos o particulares, la Auditoría Superior de la Federación procederá a:
+Si de la fiscalización que realice la Auditoría Superior de la Federación, o derivado de investigaciones de las faltas administrativas graves, realizadas de oficio o derivado de denuncia, se detectaran irregularidades que permitan presumir la existencia de responsabilidades a cargo de servidores públicos o particulares, la Auditoría Superior de la Federación procederá a:
 
 I. Promover ante el Tribunal, en los términos de la Ley General de Responsabilidades Administrativas, la imposición de sanciones a los servidores públicos por las faltas administrativas graves que detecte durante sus auditorías e investigaciones, en que incurran los servidores públicos, así como sanciones a los particulares vinculados con dichas faltas;
 
@@ -828,9 +888,11 @@ La unidad administrativa de la Auditoría Superior de la Federación a cargo de 
 
 Las responsabilidades que se finquen a los servidores públicos de los entes públicos y de la Auditoría Superior de la Federación, no eximen a éstos ni a los particulares, personas físicas o morales, de sus obligaciones, cuyo cumplimiento se les exigirá aun cuando la responsabilidad se hubiere hecho efectiva total o parcialmente.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE MAYO DE 2026)</small>
+
 ###### Artículo 71.
 
-La unidad administrativa a cargo de las investigaciones de la Auditoría Superior de la Federación promoverá el informe de presunta responsabilidad administrativa ante la unidad de la propia Auditoría encargada de fungir como autoridad substanciadora, cuando los pliegos de observaciones no sean solventados por las entidades fiscalizadas.
+La unidad administrativa a cargo de las investigaciones de la Auditoría Superior de la Federación promoverá el informe de presunta responsabilidad administrativa ante la unidad de la propia Auditoría encargada de fungir como autoridad substanciadora, cuando los pliegos de observaciones no sean solventados por las entidades fiscalizadas o cuando provengan de investigaciones de faltas administrativas graves, realizadas de oficio o derivado de denuncia.
 
 Lo anterior, sin perjuicio de que la unidad administrativa a cargo de las investigaciones podrá promover el informe de presunta responsabilidad administrativa, en cualquier momento en que cuente con los elementos necesarios.
 
@@ -892,7 +954,7 @@ En todos los casos, la prescripción a que alude este precepto se interrumpirá 
 
 Las responsabilidades distintas a las mencionadas en el artículo anterior, que resulten por actos u omisiones, prescribirán en la forma y tiempo que fijen las leyes aplicables.
 
-## TÍTULO SÉPTIMO. Organización de la Auditoría Superior de la Federación
+## TÍTULO SEXTO. De las Funciones de la Cámara de Diputados en la Fiscalización de la Cuenta Pública
 
 ### Capítulo Único. De la Comisión
 
@@ -946,7 +1008,7 @@ XVII. Las demás que establezcan esta Ley y demás disposiciones legales aplicab
 
 La Comisión presentará directamente a la Auditoría Superior de la Federación un informe que contenga las observaciones y las recomendaciones que se deriven del ejercicio de las atribuciones que esta Ley le confiere en materia de evaluación de su desempeño a más tardar el 30 de mayo del año en que presente el Informe General. La Auditoría Superior de la Federación dará cuenta de su atención al presentar el Informe General del ejercicio siguiente.
 
-## TÍTULO OCTAVO. De la Contraloría Social
+## TÍTULO SÉPTIMO. Organización de la Auditoría Superior de la Federación
 
 ### Capítulo I. Integración y Organización
 
@@ -976,11 +1038,11 @@ En caso de que ningún candidato de la terna propuesta en el dictamen para ocupa
 
 El Titular de la Auditoría Superior de la Federación durará en el encargo ocho años y podrá ser nombrado nuevamente por una sola vez. Podrá ser removido por la Cámara por las causas graves a que se refiere esta Ley, con la misma votación requerida para su nombramiento, así como por las causas y conforme a los procedimientos previstos en el Título Cuarto de la Constitución Política de los Estados Unidos Mexicanos. Si esta situación se presenta estando en receso la Cámara, la Comisión Permanente podrá convocar a un periodo extraordinario para que resuelva en torno a dicha remoción.
 
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2026)</small>
+
 ###### Artículo 87.
 
-Durante el receso de la Cámara, el Auditor Especial que corresponda conforme al Reglamento Interior de la Auditoría Superior de la Federación, ejercerá el cargo hasta en tanto dicha Cámara designe al Titular de la Auditoría Superior de la Federación en el siguiente periodo de sesiones.
-
-El Titular de la Auditoría Superior de la Federación será suplido en sus ausencias temporales por los auditores especiales, en el orden que señale el Reglamento Interior de la Auditoría Superior de la Federación. En caso de falta definitiva, la Comisión dará cuenta a la Cámara para que designe, en términos de esta Ley, al Auditor que concluirá el encargo.
+El Titular de la Auditoría Superior de la Federación será suplido en sus ausencias temporales por los auditores especializados y titulares de unidad, conforme a lo que señale el Reglamento Interior de la Auditoría Superior de la Federación. En caso de falta definitiva, la Comisión dará cuenta a la Cámara para que designe, en términos de esta Ley, al servidor público que concluirá el encargo.
 
 ###### Artículo 88.
 
@@ -1058,7 +1120,7 @@ XXI. Dar cuenta comprobada a la Cámara, a través de la Comisión, de la aplica
 
 XXII. Solicitar al Servicio de Administración Tributaria el cobro de las multas que se impongan en los términos de esta Ley;
 
-XXIII. Instruir la presentación de las denuncias penales o de juicio político que procedan, como resultado de las irregularidades detectadas con motivo de la fiscalización, con apoyo en los dictámenes técnicos respectivos. Preferentemente lo hará cuando concluya el procedimiento administrativo;
+XXIII. (DEROGADA, D.O.F. 14 DE MAYO DE 2026)
 
 XXIV. Expedir la política de remuneraciones, prestaciones y estímulos del personal de confianza de la Auditoría Superior de la Federación, observando lo aprobado en el Presupuesto de Egresos correspondiente y a las disposiciones de la Ley Federal de Presupuesto y Responsabilidad Hacendaria;
 
@@ -1080,15 +1142,21 @@ XXXII. Elaborar en cualquier momento estudios y análisis, así como publicarlos
 
 XXXIII. Las demás que señale esta Ley y demás disposiciones legales aplicables.
 
-De las atribuciones previstas a favor del Titular de la Auditoría Superior de la Federación en esta Ley, sólo las mencionadas en las fracciones II, IV, V, VI, VII, VIII, XIII, XIV, XV, XVIII, XIX, XX, XXI, XXIV y XXVII de este artículo son de ejercicio exclusivo del Titular de la Auditoría Superior de la Federación y, por tanto, no podrán ser delegadas.
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2026)</small>
+
+De las atribuciones previstas a favor del Titular de la Auditoría Superior de la Federación en esta Ley, sólo las mencionadas en las fracciones II, IV, V, VI, VII, VIII, XIII, XV, XVIII, XIX, XX, XXI y XXIV de este artículo son de ejercicio exclusivo del Titular de la Auditoría Superior de la Federación y, por tanto, no podrán ser delegadas.
+
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2026)</small>
 
 ###### Artículo 90.
 
-El Titular de la Auditoría Superior de la Federación será auxiliado en sus funciones por los auditores especiales, así como por los titulares de unidades, directores generales, auditores y demás servidores públicos que al efecto señale el Reglamento Interior de la Auditoría Superior de la Federación, de conformidad con el presupuesto autorizado. En dicho Reglamento se asignarán las facultades y atribuciones previstas en esta Ley.
+El Titular de la Auditoría Superior de la Federación será auxiliado en sus funciones por los auditores especializados, titulares de unidad, directores generales, auditores y demás servidores públicos que al efecto señale el Reglamento Interior de la Auditoría Superior de la Federación, de conformidad con el presupuesto autorizado. En dicho Reglamento se asignarán las facultades y atribuciones previstas en esta Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE MAYO DE 2026)</small>
 
 ###### Artículo 91.
 
-Para ejercer el cargo de Auditor Especial se deberán cumplir los siguientes requisitos:
+Para ejercer el cargo de Auditor Especializado se deberán cumplir los siguientes requisitos:
 
 I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos civiles y políticos;
 
@@ -1102,9 +1170,11 @@ V. Contar al momento de su designación con una experiencia de siete años en ac
 
 VI. Gozar de buena reputación, no haber sido condenado por algún delito doloso o sancionado administrativamente por faltas graves.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE MAYO DE 2026)</small>
+
 ###### Artículo 92.
 
-El Titular de la Auditoría Superior de la Federación y los auditores especiales durante el ejercicio de su cargo, tendrán prohibido:
+El Titular de la Auditoría Superior de la Federación, los auditores especializados y los titulares de unidad, durante el ejercicio de su cargo, tendrán prohibido:
 
 I. Formar parte de partido político alguno, participar en actos políticos partidistas y hacer cualquier tipo de propaganda o promoción partidista;
 
@@ -1132,11 +1202,15 @@ VI. Incurrir en cualquiera de las conductas consideradas faltas administrativas 
 
 La Cámara dictaminará sobre la existencia de los motivos de la remoción del Titular de la Auditoría Superior de la Federación por causas graves de responsabilidad, y deberá dar derecho de audiencia al afectado. La remoción requerirá del voto de las dos terceras partes de los miembros presentes.
 
-Los auditores especiales podrán ser removidos por las causas graves a que se refiere el artículo anterior, por el Titular de la Auditoría Superior de la Federación.
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2026)</small>
+
+Los auditores especializados y los titulares de unidad podrán ser removidos por las causas graves a que se refiere el artículo anterior, por el Titular de la Auditoría Superior de la Federación.
+
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2026)</small>
 
 ###### Artículo 95.
 
-El Titular de la Auditoría Superior de la Federación y los auditores especiales sólo estarán obligados a absolver posiciones o rendir declaración en juicio, en representación de la Auditoría Superior de la Federación o en virtud de sus funciones, cuando las posiciones y preguntas se formulen por medio de oficio expedido por autoridad competente, misma que contestarán por escrito dentro del término establecido por dicha autoridad.
+El Titular de la Auditoría Superior de la Federación, los auditores especializados y los titulares de unidad sólo estarán obligados a absolver posiciones o rendir declaración en juicio, en representación de la Auditoría Superior de la Federación o en virtud de sus funciones, cuando las posiciones y preguntas se formulen por medio de oficio expedido por autoridad competente, misma que contestarán por escrito dentro del término establecido por dicha autoridad.
 
 ###### Artículo 96.
 
@@ -1156,9 +1230,11 @@ La Auditoría Superior de la Federación publicará en el Diario Oficial de la F
 
 Los servidores públicos de la Auditoría Superior de la Federación se clasifican en trabajadores de confianza y trabajadores de base, y se regirán por el Apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE MAYO DE 2026)</small>
+
 ###### Artículo 100.
 
-Son trabajadores de confianza, el Titular de la Auditoría Superior de la Federación, los auditores especiales, los titulares de las unidades previstas en esta Ley, los directores generales, los auditores, los mandos medios y los demás trabajadores que tengan tal carácter conforme a lo previsto en la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional y el Reglamento Interior de la Auditoría Superior de la Federación.
+Son trabajadores de confianza, el Titular de la Auditoría Superior de la Federación, los auditores especializados, los titulares de unidad, los directores generales, los auditores, los mandos medios y los demás trabajadores que tengan tal carácter conforme a lo previsto en la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional y el Reglamento Interior de la Auditoría Superior de la Federación.
 
 Son trabajadores de base los que desempeñan labores en puestos no incluidos en el párrafo anterior y que estén previstos con tal carácter en la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional.
 
@@ -1168,9 +1244,11 @@ La relación jurídica de trabajo se entiende establecida entre la Auditoría Su
 
 ### Capítulo II. De la vigilancia de la Auditoría Superior de la Federación
 
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2026)</small>
+
 ###### Artículo 102.
 
-La Comisión, a través de la Unidad, vigilará que el Titular de la Auditoría Superior de la Federación, los auditores especiales y los demás servidores públicos de la Auditoría Superior de la Federación en el desempeño de sus funciones, se sujetarán a lo establecido en la Ley General de Responsabilidades Administrativas y a las demás disposiciones legales aplicables.
+La Comisión, a través de la Unidad, vigilará que el Titular de la Auditoría Superior de la Federación, los auditores especializados y los demás servidores públicos de la Auditoría Superior de la Federación en el desempeño de sus funciones, se sujetarán a lo establecido en la Ley General de Responsabilidades Administrativas y a las demás disposiciones legales aplicables.
 
 ###### Artículo 103.
 
@@ -1186,7 +1264,9 @@ I. Vigilar que los servidores públicos de la Auditoría Superior de la Federaci
 
 II. Practicar, por sí o a través de auditores externos, auditorías para verificar el desempeño y el cumplimiento de metas e indicadores de la Auditoría Superior de la Federación, así como la debida aplicación de los recursos a cargo de ésta con base en el programa anual de trabajo que aprueba la Comisión;
 
-III. Recibir denuncias de faltas administrativas derivadas del incumplimiento de las obligaciones por parte del Titular de la Auditoría Superior de la Federación, auditores especiales y demás servidores públicos de la Auditoría Superior de la Federación, iniciar investigaciones y, en el caso de faltas administrativas no graves, imponer las sanciones que correspondan, en los términos de la Ley General de Responsabilidades Administrativas;
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2026)</small>
+
+III. Recibir denuncias de faltas administrativas derivadas del incumplimiento de las obligaciones por parte del Titular de la Auditoría Superior de la Federación, los auditores especializados y demás servidores públicos de la Auditoría Superior de la Federación, iniciar investigaciones y, en el caso de faltas administrativas no graves, imponer las sanciones que correspondan, en los términos de la Ley General de Responsabilidades Administrativas;
 
 IV. Conocer y resolver el recurso que interpongan los servidores públicos sancionados por faltas no graves conforme a lo dispuesto por la Ley General de Responsabilidades Administrativas;
 
@@ -1253,6 +1333,8 @@ El reglamento de la Unidad que expida la Cámara establecerá la competencia de 
 Los servidores públicos de la Unidad serán personal de confianza y deberán cumplir los perfiles académicos de especialidad que se determinen en su Reglamento, preferentemente en materias de fiscalización, evaluación del desempeño y control.
 
 El ingreso a la Unidad será mediante concurso público.
+
+## TÍTULO OCTAVO. De la Contraloría Social
 
 ### Capítulo Único
 
@@ -1371,3 +1453,15 @@ Por cuanto hace a la estructura orgánica, así como a los recursos materiales, 
 Décimo Quinto. Los bienes que hayan sido asegurados por la Procuraduría General de la República o Fiscalía General de la República, con anterioridad a la entrada en vigor de este Decreto, que sean susceptibles de administración o se determine su destino legal, se pondrán a disposición del Instituto para Devolver al Pueblo lo Robado, conforme a la legislación aplicable.
 
 Décimo Sexto. Quedan derogadas todas las disposiciones que se opongan a este Decreto.
+
+D.O.F. 14 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DE LA FEDERACIÓN Y DE LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Auditoría Superior de la Federación realizará y adecuará las disposiciones reglamentarias correspondientes dentro del plazo de noventa días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+Tercero. La Auditoría Superior de la Federación emitirá los lineamientos e instruirá la implementación y operación del Registro de Información y Datos Relacionados con los Recursos Federales en un plazo no mayor a ciento ochenta días naturales, a partir de la entrada en vigor del presente Decreto. Para su funcionamiento deberá establecer los mecanismos de identificación y control de acceso que observarán los entes públicos.
+
+Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto correspondientes para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
