@@ -4,7 +4,7 @@ identifier: "JAL-codigo-urbano-para-el-estado-de-jalisco-63574"
 country: "mx"
 rank: "codigo"
 publication_date: "2008-09-27"
-last_updated: "2023-07-22"
+last_updated: "2026-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=63574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "JAL"
 ---
 # CODIGO URBANO PARA EL ESTADO DE JALISCO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO URBANO PARA EL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE JULIO DE 2023.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2026.
 
 Código publicado en el Periódico Oficial del Estado de Jalisco, el sábado 27 de septiembre de 2008.
 
@@ -5981,6 +5983,8 @@ Las medidas de seguridad podrán ser impuestas por la autoridad a quien correspo
 
 Las autoridades competentes, tanto para aplicar sanciones como para determinar y ejecutar medidas de seguridad, deberán fundar y motivar su resolución, notificarla personalmente y conceder previa audiencia al interesado, esta facultad podrá ser delegable mediante acuerdo que se publique en los órganos oficiales de difusión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 14 DE MAYO DE 2026)</small>
+
 ###### Artículo 366.
 
 En el procedimiento para determinar y ejecutar medidas de seguridad, como para aplicar sanciones administrativas, se observarán las siguientes reglas:
@@ -5997,7 +6001,9 @@ IV Los peritos emitirán su dictamen conjunta o separadamente. En caso necesario
 
 V. En contra de la resolución que emita la autoridad, procederá el recurso de revisión previsto en este Código;
 
-VI. Todo lo relativo a daños y perjuicios se decretará por la autoridad judicial, observando las disposiciones del Código Civil y del Código de Procedimientos Civiles del Estado, y
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2026)</small>
+
+VI. Todo lo relativo a daños y perjuicios se decretará por la autoridad judicial, observando las disposiciones del Código Civil y del Código Nacional de Procedimientos Civiles y Familiares del Estado, y
 
 VII. Las resoluciones que impongan sanciones pecuniarias se comunicarán a la Dependencia Encargada de la Hacienda Municipal que corresponda, para su ejecución.
 
@@ -6155,13 +6161,17 @@ Las sanciones pecuniarias previstas en este Código se determinarán y ejecutar�
 
 La nulidad de un acto administrativo puede ser invocada por el administrado a través del recurso de revisión previsto en la Ley del Procedimiento Administrativo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 14 DE MAYO DE 2026)</small>
+
 ###### Artículo 379.
 
 La declaración de las nulidades de actos definitivos que contravengan las disposiciones de este Código, se decretará mediante las siguientes reglas y procedimientos:
 
 I. La nulidad a que se refiere la fracción I del artículo 376 que antecede decretada conforme el procedimiento previsto en la Ley de Justicia Administrativa del Estado de Jalisco, y
 
-II. La nulidad a que se refiere la fracción II del artículo 376, será decretada por la autoridad judicial, sin perjuicio de las medidas administrativas que establecen las fracciones III y V; sus consecuencias serán determinadas conforme al Código Civil y el Código de Procedimientos Civiles del Estado.
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2026)</small>
+
+II. La nulidad a que se refiere la fracción II del artículo 376, será decretada por la autoridad judicial, sin perjuicio de las medidas administrativas que establecen las fracciones III y V; sus consecuencias serán determinadas conforme al Código Civil y el Código Nacional de Procedimientos Civiles y Familiares.
 
 ###### Artículo 380.
 
@@ -6736,3 +6746,9 @@ P.O. 22 DE JULIO DE 2023.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 29213/LXIII/23 DEL CONGRESO DEL ESTADO QUE ADICIONA AL ARTÍCULO 5 LA FRACCIÓN XV BIS, DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO Y SE ADICIONA AL ARTÍCULO 5 LA FRACCIÓN II BIS DE LA LEY DE DESARROLLO FORESTAL SUSTENTABLE PARA EL ESTADO DE JALISCO”.]
 
 UNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 14 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 30144/LXIV /26 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 16 DE LA LEY DE OBRA PÚBLICA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS, 96 DE LA LEY DE VIVIENDA DEL ESTADO DE JALISCO, ASÍ COMO 366 Y 379 DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO, CON EL PROPÓSITO DE ESTABLECER CLARAMENTE LA REGLA DE SUPLETORIEDAD DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES EN CADA UNO DE LOS ORDENAMIENTOS LEGALES REFORMADOS”.]
+
+ÚNICO. El presente Decreto entrará en vigor de conformidad con la declaratoria de incorporación del Código Nacional de Procedimientos Civiles y Familiares al orden jurídico del Estado de Jalisco que al efecto emita el Congreso del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
