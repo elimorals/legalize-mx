@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-educacion-para-el-estado-de-guanajuato-143717"
 country: "mx"
 rank: "ley"
 publication_date: "2020-07-22"
-last_updated: "2025-10-30"
+last_updated: "2026-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143717&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2026.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el miércoles 22 de Julio de 2020.
 
@@ -92,6 +92,10 @@ VI. Educando: a las niñas, niños, adolescentes, jóvenes y todas aquellas pers
 > <small>(REFORMADA, P.O. 30 DE OCTUBRE DE 2025)</small>
 
 VII. Ejecutivo Estatal: la persona titular del Poder Ejecutivo del Estado de Guanajuato;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2026)</small>
+
+VII bis. Entorno Escolar: Las instalaciones educativas delimitadas por el perímetro del centro escolar, así como los espacios donde el educando interactúa con la comunidad educativa, llevando a cabo actividades de enseñanza-aprendizaje bajo la supervisión de un docente;
 
 VIII. Infraestructura física educativa: los muebles e inmuebles destinados a la educación que se imparte por el Estado, los municipios, los organismos públicos descentralizados y los particulares, así como a los servicios e instalaciones necesarios para su correcta operación, en el marco del artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, de la Ley General de Educación, la presente Ley y demás disposiciones normativas;
 
@@ -817,9 +821,17 @@ XLVII. Coordinar el diagnóstico de la situación de oferta y demanda del ejerci
 
 XLVIII. Crear un fondo, sujeto a la suficiencia presupuestal, que genere oportunidades de participación en procesos de emprendimiento e innovación a los alumnos de instituciones de educación superior. Este fondo podrá adicionalmente, recibir aportaciones de recursos públicos y privados. La Secretaría emitirá las características y reglas de operación de este fondo.
 
-XLIX. Emitir lineamientos complementarios, para el adecuado cumplimiento de lo previsto en la presente Ley; y
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2026)</small>
 
-L. Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables.
+XLIX. Emitir lineamientos complementarios, para el adecuado cumplimiento de lo previsto en la presente Ley;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2026)</small>
+
+L. Emitir disposiciones para la regulación del uso de dispositivos de las tecnologías de la información y de la comunicación dentro del entorno escolar acordes a los diferentes tipos y niveles educativos con el fin de garantizar que su uso no interfiera con el desarrollo del proceso educativo.
+
+Tales disposiciones deberán de establecer de manera enunciativa y no limitativa normas que incluyan el uso responsable de dichos dispositivos durante el horario de clases exclusivamente en actividades estrictamente vinculadas al proceso pedagógico, así como las excepciones aplicables; y
+
+LI. Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables.
 
 Atribuciones de los Ayuntamientos
 
@@ -1541,7 +1553,9 @@ En la educación que imparta el Estado, sus organismos descentralizados y los pa
 
 Asimismo, se promoverá el establecimiento de servicios educativos en las modalidades de educación mixta, abierta y a distancia incluyendo la virtual, mediante el aprovechamiento de las multiplataformas digitales y las tecnologías, para cerrar la brecha digital y las desigualdades educativas en la población.
 
-Las tecnologías de la información, comunicación, conocimiento y aprendizaje digital serán utilizadas como un complemento de los demás materiales educativos.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2026)</small>
+
+Las tecnologías de la información, comunicación, conocimiento y aprendizaje digital serán utilizadas como un complemento de los demás materiales educativos, promoviendo la aplicación de las disposiciones acordes a los diferentes tipos y niveles educativos que garanticen su uso seguro y responsable en el entorno escolar.
 
 Infraestructura tecnológica
 
@@ -1563,7 +1577,9 @@ Las autoridades educativas, en el ámbito de su competencia, promoverán la form
 
 I. La formación permanente constituye un derecho y una obligación de los docentes y una responsabilidad de la autoridad educativa;
 
-II. Los programas de formación permanente deberán contemplar la adecuación de los conocimientos y métodos a la evolución de la tecnología; y
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2026)</small>
+
+II. Los programas de formación permanente deberán contemplar la adecuación de los conocimientos y métodos a la evolución de la tecnología, incluyendo estrategias didácticas con tecnología y habilidades para la identificación de los riesgos asociados al uso de las tecnologías de la información y de la comunicación en el entorno escolar, con el objetivo de garantizar un uso seguro y responsable de dichas herramientas en el proceso de enseñanza-aprendizaje; y
 
 III. La Secretaría, en coordinación con las demás instancias correspondientes, promoverá la utilización de las tecnologías de la información, comunicación, conocimiento y aprendizaje digital del personal docente, estableciendo programas específicos de formación en este ámbito; así como fomentando programas de investigación e innovación.
 
@@ -1860,6 +1876,10 @@ Protección del educando
 En la impartición de educación, se tomarán medidas que aseguren al educando la protección y el cuidado necesarios para preservar su integridad física, psicológica y social, sobre la base del respeto a su dignidad y derechos, cuidando que la aplicación de la disciplina escolar sea de carácter formativo y compatible con su edad, de conformidad con la normativa aplicable.
 
 Los docentes y el personal que labora en los planteles de educación deberán estar capacitados para tomar las medidas que aseguren la protección, el cuidado de los educandos y la corresponsabilidad que tienen al estar encargados de su custodia, así como protegerlos contra toda forma de violencia.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2026)</small>
+
+La Secretaría deberá establecer disposiciones para la regulación, supervisión y uso responsable de dispositivos de las tecnologías de la información y de la comunicación durante el horario escolar, a fin de que su utilización no interfiera con el desarrollo del proceso de enseñanza-aprendizaje ni ponga en riesgo la integridad y el bienestar de los educandos. Dichas disposiciones deberán ajustarse a cada nivel educativo y tener un enfoque de protección integral de derechos, priorizando el interés superior de la niñez, la inclusión, la igualdad sustantiva y la prevención de cualquier acoso, forma de violencia, exposición de contenidos nocivos o afectación al desarrollo socioemocional de los educandos.
 
 En caso de que cualquier integrante de la comunidad educativa, tenga conocimiento de la comisión de algún hecho presumible como delito en agravio de los educandos, lo deberán hacer del conocimiento inmediato de la autoridad correspondiente.
 
@@ -3390,3 +3410,19 @@ P.O. 30 DE OCTUBRE DE 2025.
 Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 Artículo Segundo. Las autoridades realizarán las asignaciones presupuestales de manera progresiva, procurando la suficiencia, continuidad y oportunidad de los recursos destinados a los fines de este Decreto.
+
+P.O. 14 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO LEGISLATIVO NÚMERO 189, QUE EMITE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Participación de la comunidad educativa
+
+Artículo Segundo. La Secretaría de Educación fomentará la participación de organizaciones sindicales, académicas, asociaciones de padres de familia y la comunidad educativa en general, con el fin de que las disposiciones para la regulación del uso de dispositivos de tecnologías de la información y de la comunicación dentro del entorno escolar sean incluyentes, claras y adecuadas.
+
+Expedición de disposiciones
+
+Artículo Tercero. La Secretaría de Educación deberá emitir dentro de los 180 días siguientes a la publicación del presente Decreto las disposiciones para la regulación del uso de dispositivos de tecnologías de la información y de la comunicación dentro del entorno escolar.
