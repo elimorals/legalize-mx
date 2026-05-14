@@ -4,7 +4,7 @@ identifier: "LGCG"
 country: "mx"
 rank: "ley_general"
 publication_date: "2008-12-31"
-last_updated: "2025-07-16"
+last_updated: "2026-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LGCG"
 
 LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MAYO DE 2026.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 2008.
 
@@ -852,6 +852,10 @@ Las secretarías de finanzas o sus equivalentes de las entidades federativas, as
 
 Los entes públicos deberán registrar en los sistemas respectivos, los documentos justificativos y comprobatorios que correspondan y demás información asociada a los momentos contables del gasto comprometido y devengado, en términos de las disposiciones que emita el consejo.
 
+> <small>(ADICIONADO, D.O.F. 14 DE MAYO DE 2026)</small>
+
+Los entes públicos tendrán la obligatoriedad de requisitar los formularios respecto a los datos identificativos, así como de los diversos momentos contables y de beneficiarios respecto al uso de los recursos de origen federal, incluyendo las participaciones federales, en el registro de información y datos relacionados en los términos que para tal efecto, establezca la Auditoría Superior de la Federación, de conformidad con las disposiciones aplicables en materia de contabilidad gubernamental y armonización contable.
+
 Los entes públicos implementarán programas para que los pagos se hagan directamente en forma electrónica, mediante abono en cuenta de los beneficiarios, salvo en las localidades donde no haya disponibilidad de servicios bancarios.
 
 Los entes públicos publicarán en Internet la información sobre los montos pagados durante el periodo por concepto de ayudas y subsidios a los sectores económicos y sociales, identificando el nombre del beneficiario, y en lo posible la Clave Única de Registro de Población cuando el beneficiario sea persona física o el Registro Federal de Contribuyentes con Homoclave cuando sea persona moral o persona física con actividad empresarial y profesional, y el monto recibido.
@@ -1529,3 +1533,15 @@ Décimo Primero.- El Instituto Nacional de Estadística y Geografía deberá rea
 Décimo Segundo.- El Instituto Nacional de Estadística y Geografía no formará parte del Consejo Intersectorial a que se refiere el artículo 61 de la Ley General de la Alimentación Adecuada y Sostenible.
 
 Décimo Tercero.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, deberán cubrirse con cargo al presupuesto aprobado para el presente ejercicio fiscal y subsecuentes de los ejecutores de gasto competentes, debiendo realizarse mediante movimientos compensados conforme a las disposiciones jurídicas aplicables, toda vez que no se autorizarán ampliaciones al presupuesto regularizable de dichos ejecutores de gasto.
+
+D.O.F. 14 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DE LA FEDERACIÓN Y DE LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Auditoría Superior de la Federación realizará y adecuará las disposiciones reglamentarias correspondientes dentro del plazo de noventa días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+Tercero. La Auditoría Superior de la Federación emitirá los lineamientos e instruirá la implementación y operación del Registro de Información y Datos Relacionados con los Recursos Federales en un plazo no mayor a ciento ochenta días naturales, a partir de la entrada en vigor del presente Decreto. Para su funcionamiento deberá establecer los mecanismos de identificación y control de acceso que observarán los entes públicos.
+
+Cuarto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto, se cubrirán con cargo al presupuesto aprobado a los ejecutores de gasto correspondientes para el presente ejercicio fiscal y los subsecuentes, por lo que no se autorizarán recursos adicionales para tales efectos.
