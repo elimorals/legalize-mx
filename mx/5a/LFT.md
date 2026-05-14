@@ -4,7 +4,7 @@ identifier: "LFT"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1970-04-01"
-last_updated: "2026-05-01"
+last_updated: "2026-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=410&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ abbreviation: "LFT"
 
 LEY FEDERAL DEL TRABAJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MAYO DE 2026.
 
 Ley publicada en la Sección Segunda del Diario Oficial de la Federación, el miércoles 1 de abril de 1970.
 
@@ -4056,11 +4056,15 @@ I. La indisciplina grave o las faltas repetidas de indisciplina; y
 
 II. La pérdida de facultades.
 
-### CAPITULO XI. Trabajadores Actores y Músicos
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 14 DE MAYO DE 2026)</small>
+
+### CAPITULO XI. Personas trabajadoras artistas intérpretes o ejecutantes
+
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2026)</small>
 
 ###### Artículo 304.
 
-Las disposiciones de este capítulo se aplican a los trabajadores actores y a los músicos que actúen en teatros, cines, centros nocturnos o de variedades, circos, radio y televisión, salas de doblaje y grabación, o en cualquier otro local donde se transmita o fotografíe la imagen del actor o del músico o se transmita o quede grabada la voz o la música, cualquiera que sea el procedimiento que se use.
+Las disposiciones de este capítulo se aplican a las personas trabajadoras artistas intérpretes o ejecutantes, en términos del artículo 116 de la Ley Federal del Derecho de Autor, que actúen en teatros, cines, centros nocturnos o de variedades, circos, radio y televisión, salas de doblaje o en cualquier otro lugar o entorno donde se lleve a cabo la interpretación y/o ejecución.
 
 ###### Artículo 305.
 
@@ -4068,29 +4072,43 @@ Las relaciones de trabajo pueden ser por tiempo determinado o por tiempo indeter
 
 No es aplicable la disposición contenida en el artículo 39.
 
+> <small>(ADICIONADO, D.O.F. 14 DE MAYO DE 2026)</small>
+
+###### Artículo 305 Bis.
+
+En los contratos que regulen la relación laboral de las personas trabajadoras artistas intérpretes o ejecutantes, se deberán estipular de manera específica las condiciones y la remuneración correspondiente para la utilización de su imagen o voz a través de sistemas de inteligencia artificial o cualquier otra tecnología.
+
 ###### Artículo 306.
 
 El salario podrá estipularse por unidad de tiempo, para una o varias temporadas o para una o varias funciones, representaciones o actuaciones.
 
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2026)</small>
+
 ###### Artículo 307.
 
-No es violatoria del principio de igualdad de salario, la disposición que estipule salarios distintos para trabajos iguales, por razón de la categoría de las funciones, representaciones o actuaciones, o de la de los trabajadores actores y músicos.
+No es violatoria del principio de igualdad de salario, la disposición que estipule salarios distintos para trabajos iguales, por razón de la categoría de las funciones, representaciones o actuaciones, o de las personas trabajadoras artistas intérpretes o ejecutantes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE MAYO DE 2026)</small>
 
 ###### Artículo 308.
 
-Para la prestación de servicios de los trabajadores actores o músicos fuera de la República, se observarán, además de las normas contenidas en el artículo 28, las disposiciones siguientes:
+Para la prestación de servicios de las personas trabajadoras artistas intérpretes o ejecutantes fuera de la República, se observarán, además de las normas contenidas en el artículo 28, las disposiciones siguientes:
 
 I. Deberá hacerse un anticipo del salario por el tiempo contratado de un veinticinco por ciento, por lo menos; y
 
 II. Deberá garantizarse el pasaje de ida y regreso.
 
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2026)</small>
+
 ###### Artículo 309.
 
-La prestación de servicios dentro de la República, en lugar diverso de la residencia del trabajador actor o músico, se regirá por las disposiciones contenidas en el artículo anterior, en lo que sean aplicables.
+La prestación de servicios dentro de la República, en lugar diverso de la residencia de la persona trabajadora artista intérprete o ejecutante, se regirá por las disposiciones contenidas en el artículo anterior, en lo que sean aplicables.
+
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2026)</small>
 
 ###### Artículo 310.
 
-Cuando la naturaleza del trabajo lo requiera, los patrones estarán obligados a proporcionar a los trabajadores actores y músicos camerinos cómodos, higiénicos y seguros, en el local donde se preste el servicio.
+Cuando la naturaleza del trabajo lo requiera, los patrones estarán obligados a proporcionar a las personas trabajadoras artistas intérpretes o ejecutantes camerinos cómodos, higiénicos y seguros, en el local donde se preste el servicio.
 
 ### CAPITULO XII. Trabajo a domicilio
 
@@ -16897,3 +16915,15 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. La Secretaría del Trabajo y Previsión Social en un plazo de 30 días contados a partir de la entrada en vigor del presente Decreto, expedirá las disposiciones de carácter general que determinen los procedimientos relativos al certificado a que se refiere el artículo 283 Quáter de la Ley Federal del Trabajo.
 
 Tercero. Las erogaciones que se generen con motivo de la entrada en vigor e implementación del presente Decreto deberán efectuarse con cargo al presupuesto autorizado de los ejecutores de gasto correspondientes, por lo que no se incrementará su presupuesto regularizable de gasto de operación y de servicios personales, y no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
+
+D.O.F. 14 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DEL TRABAJO Y DE LA LEY FEDERAL DEL DERECHO DE AUTOR, EN MATERIA DE DERECHOS DE LAS PERSONAS TRABAJADORAS ARTISTAS INTÉRPRETES O EJECUTANTES".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. El Reglamento de la Ley Federal del Derecho de Autor deberá ser reformado y adicionado dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto.
+
+Cuarto. Los procedimientos administrativos de avenencia y arbitraje iniciados con anterioridad a la entrada en vigor del presente Decreto, en lo que no se opongan al mismo, continuarán hasta su conclusión conforme a los ordenamientos en vigor existentes al momento de su inicio.
