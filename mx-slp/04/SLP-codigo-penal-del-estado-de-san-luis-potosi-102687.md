@@ -4,7 +4,7 @@ identifier: "SLP-codigo-penal-del-estado-de-san-luis-potosi-102687"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-09-29"
-last_updated: "2026-05-08"
+last_updated: "2026-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102687&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SLP"
 
 CÓDIGO PENAL DEL ESTADO SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2026.
 
 Código publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 29 de septiembre de 2014.
 
@@ -398,6 +398,18 @@ Se presume que hay consentimiento, cuando el hecho se realiza en circunstancias 
 IV. Se repela una agresión real, actual o inminente y sin derecho, en defensa de bienes jurídicos propios o ajenos, siempre que exista necesidad de la defensa empleada y no medie provocación dolosa suficiente e inmediata por parte del agredido o de su defensor.
 
 Se presume que existe legítima defensa, salvo prueba en contrario, cuando se cause un daño a quien por cualquier medio trate de allanar o allane, sin derecho, al lugar en que habite de forma temporal o permanente el que se defiende, al de su familia o al de cualquier persona respecto de las que el agente tenga la obligación de defender, a sus dependencias o al sitio donde se encuentren bienes propios o ajenos respecto de los que exista la misma obligación. Igual presunción existirá cuando el daño se cause a un intruso al momento de sorprenderlo en alguno de los lugares antes citados en circunstancias tales que revelen la posibilidad de una agresión;
+
+> <small>(ADICIONADO [N. DE E. CON SUS INCISOS], P.O. 14 DE MAYO DE 2026)</small>
+
+Igualmente se presume que existe legítima defensa, salvo prueba en contrario, cuando habiéndose causado daño a la persona agresora:
+
+a) La persona que repele la agresión es una mujer y existe el antecedente de violencia de género. En tales casos la legítima defensa deberá analizarse con perspectiva de género, considerando el contexto y contínuum de violencia de género en el que se encontraba hasta el momento de verificarse los hechos, así como del riesgo real, permanente o continuado para su vida e integridad física y psicológica.
+
+b) Quien repele la agresión es una persona que actúa en auxilio de una mujer quien es objeto de la agresión con características de violencia física, sexual o feminicida la cual es percibida por medio de los sentidos, y cuya finalidad de la intervención por parte de la tercera persona, es repeler o detener la agresión.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2026)</small>
+
+No se considerará exceso en la legítima defensa, cuando la mujer sea víctima de violencia física, sexual o feminicida, o en el hecho haya estado en peligro de serlo y al momento en que ésta se concretice acredite haber estado en un estado de miedo o terror o se encuentren en un estado de confusión que afecte su capacidad para determinar el límite adecuado de su respuesta o la racionalidad de los medios empleados.
 
 V. Se obre por la necesidad de salvaguardar un bien jurídico propio o ajeno, de un peligro real, actual o inminente, no ocasionado dolosamente por el sujeto, lesionando otro bien de menor o igual valor que el salvaguardado, siempre que el peligro no sea evitable por otros medios y el agente no tuviere el deber jurídico de afrontarlo;
 
@@ -1185,7 +1197,9 @@ En caso de que sea vencible el error a que se refiere el inciso a), fracción VI
 
 Si el error vencible es el previsto en el inciso b) de dicho precepto, la pena será de hasta una tercera parte del delito de que se trate.
 
-Al que incurra en exceso, en los casos previstos en la (sic) fracciones IV, V y VI del artículo 29 de este Código, se le impondrá la cuarta parte de las penas o medidas de seguridad, correspondientes al delito de que se trate, siempre y cuando con relación al exceso, no exista otra causa de exclusión del delito.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2026)</small>
+
+Al que incurra en exceso, en los casos previstos en las fracciones IV, V y VI del artículo 28 de este Código, se le impondrá la cuarta parte de las penas o medidas de seguridad, correspondientes al delito de que se trate, siempre y cuando con relación al exceso, no exista otra causa de exclusión del delito.
 
 ### CAPÍTULO VII. Punibilidad de los Delitos Cometidos en Agravio de, Menores; Incapaces; y Personas Adultas Mayores
 
@@ -6518,3 +6532,9 @@ P.O. 8 DE MAYO DE 2026.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 0525.- QUE ADICIONA EL CAPÍTULO XIII “MENSAJES INTIMIDATORIOS”, AL TÍTULO SEGUNDO “DELITOS CONTRA LA PAZ, LA LIBERTAD, Y LA SEGURIDAD DE LAS PERSONAS”, DE LA PARTE ESPECIAL, CON LOS ARTÍCULOS 170 TER, 170 QUATER, Y 170 QUINQUIES, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 ÚNICO. Este Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+P.O. 14 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 0526.- QUE REFORMA EL ARTÍCULO 89 Y REALIZA ADICIÓN AL ARTÍCULO 28, DEL CÓDIGO PENAL DEL ESTADO DE SAN LUIS POTOSÍ".]
+
+ÚNICO. El presente Decreto será vigente al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
