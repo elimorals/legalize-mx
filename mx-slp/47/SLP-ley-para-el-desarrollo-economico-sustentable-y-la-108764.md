@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-el-desarrollo-economico-sustentable-y-la-108764"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-18"
-last_updated: "2026-05-08"
+last_updated: "2026-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2026.
 
 Ley publicada en la Edición Extraordinaria de Periódico Oficial del Estado de San Luis Potosí, el jueves 18 de junio de 2015.
 
@@ -103,13 +103,17 @@ XIX. Fomentar la inversión de equipos y componentes para impulsar el aprovecham
 
 XX. Impulsar y promover, el comercio de bienes o servicios por medio del uso de los medios digitales, para fortalecer el comercio electrónico en el Estado;
 
-> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2026)</small>
 
-XXI. Diseñar estrategias específicas para impulsar y/o fomentar el surgimiento, desarrollo y prosperidad de emprendimientos verdes en el Estado, y
+XXI. Diseñar estrategias específicas para impulsar y/o fomentar el surgimiento, desarrollo y prosperidad de emprendimientos verdes en el Estado;
 
-> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2026)</small>
 
-XXII. Estimular el comercio exterior, mediante la identificación de la oferta exportable de bienes y servicios producidos en el Estado, y la definición de los apoyos que se requieran.
+XXII. Estimular el comercio exterior, mediante la identificación de la oferta exportable de bienes y servicios producidos en el Estado, y la definición de los apoyos que se requieran, e
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2026)</small>
+
+XXIII. Impulsar un modelo de desarrollo económico sostenible, que promueva actividades productivas de economía circular y economía regenerativa, como la restauración y regeneración de ecosistemas y la eficiencia de recursos con inclusión social.
 
 ###### ARTÍCULO 3°.
 
@@ -147,13 +151,21 @@ X. Secretaría: la Secretaría de Desarrollo Económico;
 
 XI. Titular de la Secretaría: la persona titular de la Secretaría;
 
-> <small>(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2026)</small>
 
-XII. Sustentabilidad: criterio de conducción del desarrollo económico que tiende a satisfacer las necesidades presentes, sin poner en riesgo el desarrollo de las futuras generaciones en el estado, por medio de la preservación de los recursos naturales, y
+XII. Sustentabilidad: criterio de conducción del desarrollo económico que tiende a satisfacer las necesidades presentes, sin poner en riesgo el desarrollo de las futuras generaciones en el estado, por medio de la preservación de los recursos naturales;
 
-> <small>(ADICIONADA, P.O. 14 DE NOVIEMBRE DE 2025)</small>
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2026)</small>
 
-XIII. Emprendimiento verde: Actividad económica formal, en la que se producen y ofrecen al mercado bienes o servicios, basados en la innovación, que generan beneficios ambientales directos y que incorporan prácticas ambientales internacionales con enfoque sostenible.
+XIII. Emprendimiento verde: Actividad económica formal, en la que se producen y ofrecen al mercado bienes o servicios, basados en la innovación, que generan beneficios ambientales directos y que incorporan prácticas ambientales internacionales con enfoque sostenible, y
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2026)</small>
+
+XIV. Economía Regenerativa: modelo de desarrollo económico que, además de prevenir y mitigar impactos negativos, genera una contribución neta positiva al capital natural y social del Estado, mediante la restauración y regeneración de ecosistemas, la recuperación de suelos y cuerpos de agua, la conservación de la biodiversidad, la circularidad de materiales y el uso eficiente y limpio del agua y la energía, procurando al mismo tiempo productividad, empleo digno e inclusión social.
+
+> <small>[N. DE E. PERTENECE A LA FRACCIÓN XIV, P.O. 14 DE MAYO DE 2026]</small>
+
+Para efectos de esta Ley, se considerarán proyectos de economía regenerativa, de manera enunciativa, más no limitativa, los de reforestación, saneamiento de ríos y humedales, remediación y recuperación de suelos, infraestructura verde, aprovechamiento y valorización circular de residuos, y reconversión energética eficiente.
 
 ###### ARTÍCULO 4°.
 
@@ -205,17 +217,17 @@ IV. Desarrollar un encadenamiento productivo, sustentable, sostenible;
 
 V. Incrementar el valor agregado de los productos;
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2026)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE MAYO DE 2026)</small>
 
 VI. Fomentar en el Programa General las acciones que lleven a la inclusión de las mujeres en el ámbito laboral, empresarial y de emprendimiento económico;
 
-> <small>(REFORMADA, P.O. 8 DE MAYO DE 2026)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 14 DE MAYO DE 2026)</small>
 
 VII. Fomentar que el Programa General tenga perspectiva de género de forma transversal, y
 
-> <small>(ADICIONADA, P.O. 8 DE MAYO DE 2026)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE MAYO DE 2026)</small>
 
-VIII. Fortalecer la economía social en todos los sectores productivos, así como su incorporación en las cadenas de valor.
+VIII. Fomentar proyectos productivos y tecnológicos basados en la economía regenerativa y economía circular, que contribuyan a la restauración ambiental, la resiliencia climática y el fortalecimiento del capital social en las regiones del Estado.
 
 ###### ARTÍCULO 11.
 
@@ -554,6 +566,10 @@ f) Apoyar la modernización de los mecanismos de comercio exterior que aseguren 
 g) Facilitar la vinculación de la industria con las universidades y centros educativos del Estado, para promover proyectos de desarrollo administrativo, tecnológico y sustentable.
 
 h) Promover la vinculación de la industria con las universidades y centros educativos, a efecto de que los planes de estudios respondan a los perfiles que requiere la industria, con la finalidad de que el Estado cuente con mano de obra calificada.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2026)</small>
+
+Los incentivos y estímulos previstos en esta Ley podrán otorgarse con prioridad a los proyectos de economía regenerativa y economía circular, que generen beneficios verificables en la restauración de ecosistemas, la recuperación de suelos, la gestión circular de residuos, la eficiencia energética y la inclusión social, conforme a los lineamientos que establezca el Consejo Estatal.
 
 ###### ARTÍCULO 31.
 
@@ -1338,6 +1354,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
 P.O. 8 DE MAYO DE 2026.
 
 [N. D E. TRANSITORIOS DEL “DECRETO 0520.- QUE REALIZA ADICIÓN A LOS ARTÍCULOS 3 Y 10 Y REFORMA EL ARTÍCULO 10, TODOS DE LA LEY PARA EL DESARROLLO ECONÓMICO Y LA COMPETITIVIDAD, DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 14 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0527.- QUE REFORMA LOS ARTÍCULOS 2°, 3°, 10 Y REALIZA ADICIÓN A LOS ARTÍCULOS 2°, 3°, 10 Y 30, DE LA LEY PARA EL DESARROLLO ECONÓMICO SUSTENTABLE, Y LA COMPETITIVIDAD, DEL ESTADO SAN LUIS POTOSÍ”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis”.
 
