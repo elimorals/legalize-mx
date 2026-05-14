@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-aguas-para-el-estado-de-san-luis-potosi-48372"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-12"
-last_updated: "2025-12-18"
+last_updated: "2026-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48372&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de enero de 2006.
 
@@ -111,6 +111,10 @@ b) Los servicios públicos de agua potable, drenaje, alcantarillado, tratamiento
 
 XVIII. Congreso: el Honorable Congreso del Estado de San Luis Potosí;
 
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2026)</small>
+
+XVIII BIS. Contrato de Servicios: Instrumento jurídico de naturaleza consensual celebrado entre la o el servidor público legalmente facultado por la o el prestador de los servicios y el usuario solicitante, mediante el cual se establecen los derechos, obligaciones, términos y condiciones que regulan la prestación del o los servicios contratados;
+
 XIX. Contratistas: las personas físicas o morales que celebren contratos con los municipios, organismos descentralizados, o la Comisión, en los términos de esta Ley;
 
 XX. Cuerpo receptor: las corrientes o depósitos naturales, presas, cauces, embalses creados por el hombre, drenajes y alcantarillados, colectores, emisores, canales, zanjas, drenes y humedales donde se descargan aguas residuales;
@@ -120,6 +124,10 @@ XXI. Cuota: contraprestación que se debe pagar por el uso de un bien o servicio
 XXII. Derivación: la conexión a la instalación hidráulica interior de un predio, para abastecer de agua a uno o más usuarios localizados en el mismo;
 
 XXIII. Descarga: acción de verter, infiltrar, depositar o inyectar aguas residuales o pluviales en el sistema de alcantarillado, drenaje o cuerpo receptor;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2026)</small>
+
+XXIII BIS. Dotación de litros por segundo (L/s): Unidad de medida de caudal que permite determinar la capacidad de suministro de la infraestructura hidráulica y su correspondencia con la demanda de agua requerida por el usuario;
 
 XXIV. Drenaje: sistema de conductos abiertos o cerrados, estructuras hidráulicas y accesorios para el desagüe y alejamiento de las aguas residuales y pluviales;
 
@@ -137,7 +145,19 @@ XXVIII. Indicadores de gestión: parámetros de medición elegidos como variable
 
 XXIX. Infraestructura intradomiciliaria: la obra interna que requiere el usuario final de cada predio, para recibir los servicios hídricos;
 
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2026)</small>
+
+XXIX BIS. Instalaciones hidráulicas: Conjunto de tuberías, accesorios, dispositivos, equipos y demás elementos técnicos destinados a la conducción, distribución y suministro de agua potable, así como a la recolección, conducción y desalojo de aguas residuales y pluviales;
+
 XXX. Materiales pétreos: materiales tales como arena, grava, piedra y/o cualquier otro tipo de material utilizado en la construcción, que sea extraído de un vaso o cauce de una corriente;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2026)</small>
+
+XXX BIS. Metro cúbico (m3): Unidad de medida volumétrica equivalente a mil litros, utilizada para cuantificar el volumen de agua suministrada, consumida o descargada, así como para determinar la correspondencia entre la infraestructura hidráulica y la cantidad de agua requerida y/o utilizada por la o el usuario;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2026)</small>
+
+XXX TER. Medidor: Dispositivo de medición volumétrica instalado por la o el prestador de los servicios, a través de personal autorizado, cuya finalidad es registrar y determinar el volumen de agua suministrado a la o al usuario por medio de las instalaciones hidráulicas;
 
 XXXI. Organismo operador: el ente público descentralizado de la administración pública municipal, con personalidad jurídica y patrimonio propio, cuyo objetivo principal es la responsabilidad de organizar y tomar a su cargo en forma parcial o integral, la administración, operación, conservación, mantenimiento, rehabilitación, ampliación y eficiencia en la prestación de los servicios de agua potable y saneamiento de aguas residuales, dentro de los límites de su circunscripción territorial a través de cualquier sistema o método, a más de un predio, cualquiera que sea la fuente de abastecimiento, pudiendo ser:
 
@@ -175,6 +195,10 @@ XLIII. Tarifa: el conjunto de valores unitarios que sirve de base para determina
 
 XLIV. Toma: conexión a la red para dar servicio de agua al predio del usuario, incluyendo el ramal y el cuadro;
 
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2026)</small>
+
+XLIV BIS: Toma clandestina: Interconexión, derivación o conexión física realizada entre la red pública de distribución de agua potable y las instalaciones particulares de la o del usuario, efectuada sin autorización de la o del prestador de los servicios y sin la celebración del contrato correspondiente;
+
 XLV. Tratamiento de aguas residuales: conjunto de acciones para mejorar la calidad del agua residual, para cumplir con la normatividad vigente para su reuso;
 
 > <small>(ADICIONADA, P.O. 1 DE JULIO DE 2022)</small>
@@ -192,6 +216,10 @@ XLIX. Uso doméstico: la utilización de agua destinada al uso particular de las
 L. Uso industrial: la utilización de agua en extracción, conservación o transformación de materias primas o minerales, el acabado de productos o la elaboración de satisfactores, así como la que se utiliza en calderas, en dispositivos para enfriamiento, lavado, baños y otros servicios dentro de la empresa; las salmueras que se utilizan para la extracción de cualquier tipo de sustancias, y el agua aún en estado de vapor que es usada para la generación de energía eléctrica o para cualquier otro propósito de transformación;
 
 LI. Uso público urbano: la utilización de agua para el abasto a centros de población o asentamientos humanos, a través de la red de distribución a cargo del prestador de los servicios;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2026)</small>
+
+LI BIS. Uso para servicios públicos: Destino que se da al agua para la prestación directa de servicios públicos a la población, incluyendo su utilización en instalaciones, equipamientos e infraestructura de carácter público y demás espacios o servicios de interés colectivo a cargo de la autoridad competente;
 
 LII. Usuario: la persona física o moral que utilice los servicios públicos;
 
@@ -2473,13 +2501,35 @@ En los casos en que con motivo de la instalación de la toma o las descargas se 
 
 Cuando el prestador de servicios no cumpla con la obligación establecida en este precepto en el plazo señalado, el ayuntamiento deberá hacer la reparación del pavimento, la guarnición o la banqueta, según sea el caso, con cargo al prestador de los servicios.
 
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2026)</small>
+
+ARTICULO 146 BIS. Las fugas que se presenten en la red pública de distribución de agua potable o en el tramo comprendido hasta el punto de conexión ubicado en el límite exterior del predio del usuario, serán responsabilidad de la o del prestador de los servicios.
+
+En tales casos, la o el prestador deberá realizar la localización y reparación correspondiente, incluyendo la mano de obra, materiales y equipos necesarios, así como la reposición y reparación de pavimentos, banquetas u otros bienes de infraestructura pública que resulten afectados con motivo de los trabajos realizados.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2026)</small>
+
+ARTICULO 146 TER. Las fugas que se presenten en las instalaciones hidráulicas ubicadas al interior del predio serán responsabilidad de la o del propietario o de la o el poseedor del mismo, quien deberá realizar su reparación inmediata por conducto de la o del usuario o a través de quien legalmente corresponda.
+
+En consecuencia, la o el prestador de los servicios no será responsable por las fugas intradomiciliarias no detectadas o no atendidas oportunamente por la o el usuario, ni por los daños que éstas ocasionen a la construcción, edificaciones o bienes ubicados dentro del predio, aun cuando el medidor se encuentre instalado dentro de los límites del mismo.
+
 ARTICULO 147 Cualquier modificación que se pretenda hacer al inmueble o establecimiento, que afecte las instalaciones correspondientes a los servicios públicos, requerirá de la previa autorización del prestador de los servicios.
 
 En ningún caso el propietario o poseedor del predio o establecimiento podrá operar por sí mismo el cambio del sistema, instalación, supresión o conexión de los servicios públicos.
 
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2026)</small>
+
+ARTICULO 147 BIS. Procederá la suspensión de una toma de agua o de una descarga en los siguientes casos:
+
+I. Cuando la o el titular del contrato solicite por escrito la cancelación definitiva del servicio, y
+
+II. Cuando se acredite fehacientemente que ha cesado la causa que dio origen a su instalación o autorización.
+
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2026)</small>
+
 ###### ARTICULO 148.
 
-Independientemente de los casos en que conforme a la ley proceda la suspensión o supresión de una toma de agua o de una descarga, el interesado podrá solicitar la suspensión o supresión respectiva, expresando las causas en que funde su solicitud, siempre y cuando no afecten intereses de terceros.
+Independientemente de los casos en que conforme a la ley proceda la suspensión o supresión de una toma de agua o de una descarga, la o el usuario podrá solicitar la suspensión o supresión respectiva, expresando las causas en que funde su solicitud, siempre y cuando no afecten intereses de terceros.
 
 ###### ARTICULO 149.
 
@@ -2601,15 +2651,15 @@ Procederá la cancelación de la factibilidad, en caso de incumplimiento a los c
 
 El prestador de servicios no podrá autorizar la conexión a las redes de agua potable y de drenaje sanitario y pluvial de los nuevos centros de población, cuando existan adeudos pendientes por concepto de cuotas de conexión.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2026)</small>
+
 ###### ARTICULO 162.
 
-Los fraccionadores o urbanizadores deberán construir por su cuenta, las instalaciones y conexiones de agua potable y alcantarillado necesarias, de conformidad con el proyecto autorizado por la autoridad competente, así como instalar las tomas domiciliarias a cada predio, incluyendo el medidor correspondiente.
+Los fraccionadores o urbanizadores deberán construir por su cuenta, las instalaciones y conexiones de agua potable y alcantarillado necesarias, de conformidad con el proyecto autorizado por la autoridad competente, contemplando medidas de uso eficiente del servicio mediante la utilización de aparatos ahorradores en los términos y características que señale la o el prestador de servicios, así como instalar las tomas domiciliarias a cada predio, incluyendo el medidor correspondiente.
 
-Los fraccionadores o urbanizadores deberán llevar a cabo las obras de cabeza necesarias para proporcionar los servicios, así como la instalación de un medidor general en el sitio de acometida del fraccionamiento, independiente del que se instale en cada uno de los predios y con las especificaciones del prestador de los servicios; dichas obras pasarán a la propiedad de éste.
+Los fraccionadores o urbanizadores deberán llevar a cabo las obras de cabeza necesarias para proporcionar los servicios, así como la instalación de un medidor general en el sitio de acometida del fraccionamiento, independiente del que se instale en cada uno de los predios y con las especificaciones de la o el prestador de los servicios; dichas obras pasarán a la propiedad de éste.
 
-> <small>(ADICIONADO, P.O. 17 DE JULIO DE 2025)</small>
-
-Los fraccionadores y urbanizadores estarán obligados a diseñar y construir la red de agua potable conforme a un esquema de sectorización, que integre elementos técnicos y tecnológicos destinados a optimizar la gestión del suministro, facilitar la detección temprana de fugas y permitir el monitoreo en tiempo real del consumo por sectores. La sectorización deberá ser plenamente compatible con la infraestructura hidráulica existente y cumplir con las especificaciones técnicas y operativas establecidas por el prestador de servicios, garantizando la eficiencia, la seguridad y la sostenibilidad del sistema de distribución de agua potable.
+Los fraccionadores y urbanizadores estarán obligados a diseñar y construir la red de agua potable conforme a un esquema de sectorización, que integre elementos técnicos y tecnológicos destinados a optimizar la gestión del suministro, facilitar la detección temprana de fugas y permitir el monitoreo en tiempo real del consumo por sectores. La sectorización deberá ser plenamente compatible con la infraestructura hidráulica existente y cumplir con las especificaciones técnicas y operativas establecidas por la o el prestador de servicios, garantizando la eficiencia, la seguridad y la sostenibilidad del sistema de distribución de agua potable.
 
 ### CAPITULO III. Del Reuso
 
@@ -2795,13 +2845,9 @@ Tratándose de organismos descentralizados o concesionarios, las cuotas y tarifa
 
 Además de la propuesta de Cuotas y Tarifas que remitan los Organismos descentralizados o concesionarios, estos deberán adjuntar a la misma un comparativo de la Ley vigente con la iniciativa propuesta, en donde se especifiquen los incrementos, decrementos, reformas, adiciones o derogación, de las contribuciones o disposiciones; las cuales deberán ser justificadas en su respectiva exposición de motivos.
 
-> <small>(REFORMADO, P.O. 26 DE OCTUBRE DE 2013)</small>
-
 ###### ARTICULO 175.
 
-Las cuotas y tarifas se podrán actualizar cada vez que se incremente, por lo menos, en un cinco por ciento anual, el índice nacional de precios al productor, correspondiendo al prestador de servicios proponer el ajuste correspondiente.
-
-La propuesta de actualización deberá ser enviada para su autorización al Congreso del Estado, y una vez autorizada se publicará en el Periódico Oficial del Estado para su obligatoriedad.
+(DEROGADO, P.O. 14 DE MAYO DE 2026)
 
 ###### ARTICULO 176.
 
@@ -2813,9 +2859,11 @@ El Congreso del Estado podrá requerir a la Comisión, cuando lo considere neces
 
 No podrán existir exenciones, ni condonaciones respecto de las cuotas y tarifas para el servicio público urbano, y su pago es independiente del cumplimiento a lo dispuesto en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, y demás ordenamientos aplicables.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2026)</small>
+
 ###### ARTICULO 178.
 
-Los adeudos a cargo de los usuarios y en favor de los organismos operadores municipales, intermunicipales o, en su defecto, de la Comisión, derivados del cobro de cuotas y tarifas por la prestación de los servicios públicos, tendrán el carácter de créditos fiscales, en los términos y para los efectos que se precisan en el Código Fiscal del Estado.
+Los adeudos a cargo de las o los usuarios y en favor de los municipios, organismos operadores municipales, intermunicipales o, en su defecto, de la Comisión, derivados del cobro de cuotas y tarifas por la prestación de los servicios públicos, tendrán el carácter de créditos fiscales, en los términos y para los efectos que se precisan en el Código Fiscal del Estado.
 
 ###### ARTICULO 179.
 
@@ -2941,11 +2989,17 @@ XI. Constituir personas morales a las que se pudiera otorgar en concesión, o co
 
 XII. Participar, a través de los consejos consultivos, en la planeación, programación, administración, operación, supervisión o vigilancia del prestador de los servicios, en los términos de la presente Ley.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2026)</small>
+
 ###### ARTICULO 189.
 
-En épocas de escasez de agua, comprobada o previsible, el prestador de los servicios podrá acordar condiciones de restricción en las zonas y durante un lapso que sea necesario, previo aviso oportuno a los usuarios, a través de los medios de comunicación disponibles.
+En épocas de escasez de agua, comprobada o previsible, derivada de caso fortuito, fuerza mayor o condiciones extraordinarias que afecten la disponibilidad del recurso, la o el prestador de los servicios podrá implementar medidas temporales de restricción en las zonas (sic) resulten afectadas y durante el tiempo estrictamente necesario, previo aviso oportuno a las o los usuarios, a través de los medios de comunicación disponibles.
 
-Cuando la escasez de agua sea originada por negligencia o falta de previsión del prestador de los servicios, éste responderá en los términos que prevenga el contrato respectivo.
+La adopción de dichas medidas deberá privilegiar en todo momento el destino del agua para garantizar el derecho humano al acceso, disposición y saneamiento de agua para consumo personal y doméstico, en términos de la Constitución y la normativa aplicable.
+
+Cuando la escasez de agua sea originada por negligencia o falta de previsión de la o el prestador de los servicios, éste responderá en los términos que prevea el contrato respectivo y demás disposiciones aplicables.
+
+Las medidas podrán aplicarse de manera diferenciada según la fuente de abastecimiento y las condiciones técnicas de disponibilidad del recurso.
 
 ## TITULO SEPTIMO. CULTURA DEL AGUA
 
@@ -3285,9 +3339,11 @@ Con el dictamen emitido por quien realice la visita correspondiente, se reparar�
 
 El propietario o poseedor del predio pagará los gastos que origine la reparación o sustitución.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2026)</small>
+
 ###### ARTICULO 225.
 
-Cuando no se pueda determinar el volumen de agua como consecuencia de la descompostura del medido, por causas no imputables al usuario o debido a la destrucción total o parcial del medidor la tarifa de agua se pagará conforme al artículo 228 de esta Ley.
+Cuando no se pueda determinar el volumen de agua potable consumida como consecuencia de la descompostura del medido (sic), por causas no imputables a la o el usuario o debido a la destrucción total o parcial del medidor la cuota o tarifa de agua se pagará conforme al artículo 228 de esta Ley.
 
 ###### ARTICULO 226.
 
@@ -4072,3 +4128,11 @@ SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente D
 TERCERO. Las acciones de planeación, programación y presupuestación en materia de tratamiento de sus aguas residuales previo a su descarga a sus cuerpos receptores, que prevé el párrafo segundo del artículo 76 Bis de este Decreto, entrarán en vigencia en enero de 2027, para tal efecto, se deberán hacer todas las modificaciones a los instrumentos de planeación y programación municipal, así como las previsiones presupuestales, para que los municipios y organismos operadores puedan realizar esta obligación.
 
 CUARTO. Con base en las atribuciones previstas en el artículo 8° en sus fracciones III inciso b) y XXVII, de la Ley de Aguas para el Estado de San Luis Potosí, la Comisión Estatal del Agua, asesora y orientará a los municipios y organismos operadores, para que lleven a cabo las acciones de planeación, programación y presupuestación para la implementación del tratamiento de las aguas residuales previo a su descarga a los cuerpos receptores.
+
+P.O. 14 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0529.- QUE REFORMA LOS ARTÍCULOS 148, 162, 189 Y 225; REALIZA ADICIÓN A LOS ARTÍCULOS 3°, Y LOS ARTÍCULOS 146 BIS, 146 TER, 147 BIS; Y DEROGA EL ARTÍCULO 175, TODOS DE LA LEY DE AGUAS PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado “Plan de San Luis.”
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
