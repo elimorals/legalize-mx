@@ -4,7 +4,7 @@ identifier: "JAL-codigo-fiscal-del-estado-de-jalisco-12023"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-12-16"
-last_updated: "2024-02-24"
+last_updated: "2026-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12023&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 CÓDIGO FISCAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2026.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 16 de diciembre de 1997.
 
@@ -2487,11 +2487,11 @@ Cuando se embarguen negociaciones comerciales, industriales, agrícolas y ganade
 
 Los movimientos de las cuentas bancarias y de inversiones de la negociación intervenida, por conceptos distintos a los señalados en el párrafo anterior, que impliquen retiros, traspasos, transferencias, pagos, reembolsos, deberán ser aprobados previamente por el interventor, quien además llevará un control de dichos movimientos.
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2026)</small>
+
 ###### Artículo 142.
 
-El ejecutor trabará ejecución en bienes bastantes para garantizar el crédito fiscal pendiente de pago, los gastos de ejecución y los vencimientos futuros, poniendo todo lo embargado, previa identificación, bajo la guarda del o de los depositarios que fueren necesarios y que, salvo cuando los hubiere designado anticipadamente la oficina exactora, nombrará el ejecutor en el mismo acto de la diligencia. El nombramiento de depositario podrá recaer en el ejecutado.
-
-El embargo de toda clase de negociaciones se regirá por lo establecido en este código, y en su defecto, por las disposiciones vigentes del Código de Procedimientos Civiles del Estado.
+El ejecutor trabará ejecución en bienes bastantes para garantizar el crédito fiscal pendiente de pago, los gastos de ejecución y los vencimientos futuros, poniendo todo lo embargado, previa identificación, bajo la guarda del o de los depositarios que fueren necesarios y que, salvo cuando los hubiere designado anticipadamente la oficina exactora, nombrará el ejecutor en el mismo acto de la diligencia. El nombramiento de depositario podrá recaer en el ejecutado. El embargo de toda clase de negociaciones se regirá por lo establecido en este código, y en su defecto, por las disposiciones vigentes del Código Nacional de Procedimientos Civiles y Familiares.
 
 ###### Artículo 143.
 
@@ -3193,11 +3193,11 @@ Harán prueba plena, la confesión expresa del recurrente, las presunciones lega
 
 La autoridad encargada de resolver el recurso, acordará lo que proceda sobre su admisión y la de las pruebas que el recurrente hubiere ofrecido, que fueren pertinentes e idóneas para dilucidar las cuestiones controvertidas ordenando su desahogo dentro del improrrogable plazo de quince días; una vez transcurrido, el Servicio Estatal Tributario de Jalisco dictará resolución en un término que no excederá de tres meses.
 
-> <small>(REFORMADO Y REUBICADO [ANTES EN LA SECCIÓN TERCERA], P.O. 14 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2026)</small>
 
 ###### Artículo 207.
 
-En la tramitación y substanciación del recurso, será aplicable supletoriamente el Código de Procedimientos Civiles del Estado de Jalisco.
+En la tramitación y substanciación del recurso, será aplicable supletoriamente el Código Nacional de Procedimientos Civiles y Familiares.
 
 #### SECCIÓN TERCERA. De las Causas de Improcedencia
 
@@ -3590,3 +3590,9 @@ P.O. 24 DE FEBRERO DE 2024.
 ## [N. DE E. TRANSITORIO DEL "DECRETO 29526/LXIII/24 DEL CONGRESO DEL ESTADO MEDIANTE EL CUAL SE REFORMA EL CÓDIGO FISCAL DEL ESTADO DE JALISCO, LA LEY DE HACIENDA DEL ESTADO DE JALISCO, ASÍ COMO LA LEY DE INGRESOS DEL ESTADO DE JALISCO PARA EL EJERCICIO FISCAL 2024".]
 
 Único. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 14 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 30147/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 19 DE LA LEY QUE DIVIDE LOS BIENES PERTENECIENTES AL ESTADO EN BIENES DE DOMINIO PÚBLICO Y BIENES DE DOMINIO PRIVADO, ASÍ COMO LOS ARTÍCULOS 142 Y 207 DEL CÓDIGO FISCAL DEL ESTADO DE JALISCO".]
+
+ÚNICO. El presente Decreto entrará en vigor de conformidad con la declaratoria de incorporación del Código Nacional de Procedimientos Civiles y Familiares al orden jurídico del Estado de Jalisco que al efecto emita el Congreso del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
