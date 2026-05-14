@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-planeacion-participativa-para-el-estado-de-jalisco-y-132
 country: "mx"
 rank: "ley"
 publication_date: "2018-12-20"
-last_updated: "2020-08-29"
+last_updated: "2026-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=132154&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE PLANEACIÓN PARTICIPATIVA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE AGOSTO DE 2020.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2026.
 
 Ley publicada en la Sección III del Periódico Oficial del Estado de Jalisco, el jueves 20 de diciembre de 2018.
 
@@ -313,11 +313,33 @@ Los programas presupuestarios, como instrumentos de planeación participativa de
 
 ### CAPÍTULO TERCERO. De la Planeación Estatal del Desarrollo y Gobernanza
 
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2026)</small>
+
 ###### Artículo 18.
 
 El Plan Estatal precisará los objetivos, estrategias, metas e indicadores que coadyuven al desarrollo integral del Estado, sus regiones y sectores a corto, mediano y largo plazo; establecerá las prioridades que se hayan derivado de los insumos provenientes de la consulta ciudadana, de las mesas de trabajo establecidas por los consejos sectoriales y regionales, incorporando los objetivos de desarrollo de carácter global y considerando el contexto nacional de desarrollo y la cultura de la paz. Sin ser limitativo, incluirá apartados correspondientes al desarrollo económico, social, al medio ambiente y territorio, el estado de derecho, la igualdad de género, el desarrollo de los pueblos y comunidades indígenas, para cada apartado incluirá una cartera de proyectos de inversión. Así mismo deberá referir los programas sectoriales que se derivarán del mismo.
 
-El contenido y estructura del Plan Estatal quedará precisado en el reglamento de la presente Ley.
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2026)</small>
+
+###### Artículo 18 Bis.
+
+El Plan deberá contener por lo menos lo siguiente:
+
+I. Un diagnóstico general sobre la situación actual del estado de Jalisco, así como de los temas prioritarios que permitan impulsar su desarrollo a largo plazo;
+
+II. Los ejes generales que agrupen los temas prioritarios referidos en la fracción anterior, cuya atención impulsen el desarrollo estatal;
+
+III. Los ejes transversales que establezcan los objetivos comunes, así como la promoción de la coordinación interinstitucional para alcanzar dichos objetivos;
+
+IV. Los objetivos que hagan referencia clara al impacto positivo que se pretenda alcanzar para atender los temas prioritarios identificados en el diagnostico;
+
+V. La definición de indicadores y sus metas que permitan la evaluación y el seguimiento del progreso del plan;
+
+VI. Las estrategias para ejecutar las acciones que permiten lograr los objetivos señalados en el plan;
+
+VII. Alineación y congruencia con el Gobierno Federal, con el Plan Nacional de Desarrollo y los programas de carácter sectorial y regional del Gobierno Federal; y
+
+VIII. Los demás elementos que se establezcan en las disposiciones jurídicas aplicables.
 
 ###### Artículo 19.
 
@@ -1076,3 +1098,9 @@ P.O. 29 DE AGOSTO DE 2020.
 ## [N. DE E. TRANSITORIO DEL “DECRETO 27925/LXII/20 QUE REFORMA LA FRACCIÓN XVII DEL ARTÍCULO 4° DE LA LEY DE PLANEACIÓN PARTICIPATIVA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
 
 Único. El presente decreto entrará en vigor a partir del día siguiente de su publicación en el periódico oficial “El Estado de Jalisco”.
+
+P.O. 14 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 30143/LXIV/26 DEL CONGRESO DEL ESTADO QUE REFORMA EL ARTÍCULO 18 Y SE ADICIONA EL ARTÍCULO 18 BIS DE LA LEY DE PLANEACIÓN PARTICIPATIVA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
