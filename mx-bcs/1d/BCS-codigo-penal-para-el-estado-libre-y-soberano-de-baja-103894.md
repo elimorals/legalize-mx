@@ -4,7 +4,7 @@ identifier: "BCS-codigo-penal-para-el-estado-libre-y-soberano-de-baja-103894"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-11-30"
-last_updated: "2026-02-05"
+last_updated: "2026-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103894&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 5 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE MAYO DE 2026.
 
 Código publicado en el Boletín Oficial del Estado de Baja California Sur, el domingo 30 de noviembre de 2014.
 
@@ -1282,6 +1282,12 @@ VI. De cinco a nueve años de prisión y multa de hasta cuatrocientos días, si 
 VII. De seis a diez años de prisión y multa de hasta quinientos días, cuando pongan en peligro la vida.
 
 Las lesiones que ponen en peligro la vida son aquellas que en algún momento de su evolución, producen una alteración real y profunda de alguna de las funciones vitales de la víctima. El riesgo abstracto de muerte, el órgano o la ubicación corporal de la lesión carecen de trascendencia para decretar esta calificativa.
+
+> <small>(ADICIONADO, B.O. 14 DE MAYO DE 2026)</small>
+
+###### Artículo 136 Bis.
+
+Cuando las lesiones sean cometidas en contra de persona trabajadora de la educación, en el ejercicio de sus funciones o por motivo de ellas, se incrementará en un tercio de la pena impuesta conforme el artículo antecesor.
 
 ###### Artículo 137.
 
@@ -3683,6 +3689,10 @@ Falsedad ante autoridad. Quien al declarar o proporcionar información ante una 
 
 Falsedad ante autoridad específica. A quien con el propósito de inculpar o exculpar a alguien indebidamente en un procedimiento penal o proceso penal, declare falsamente o proporcione información falsa ante el Ministerio Público o autoridad judicial en calidad de testigo o denunciante, será sancionado con pena de tres a seis años de prisión y multa de cien a quinientos días.
 
+> <small>(ADICIONADO, B.O. 14 DE MAYO DE 2026)</small>
+
+Cuando la falsedad ante autoridad específica tenga por objeto afectar, desprestigiar o perjudicar a una persona trabajadora de la educación, con el propósito de dañar su estabilidad laboral, su reputación o su situación jurídica, la pena aplicable se incrementará hasta en una mitad, sin perjuicio de las sanciones civiles o administrativas que correspondan.
+
 ###### Artículo 327.
 
 Dictaminación falsa ante autoridad. A quien emita un dictamen o examinado en calidad de perito por la autoridad administrativa o judicial, falte dolosamente a la verdad en su dictamen, se le impondrán de cuatro a siete años de prisión y multa de cien a trescientos días, así como suspensión para desempeñar profesión, oficio, empleo, cargo o comisión públicos hasta por diez años.
@@ -5170,3 +5180,13 @@ SEGUNDO.- Los procedimientos penales que se estén sustanciando a la entrada en 
 A las personas que hayan cometido un delito de los contemplados en el presente Decreto con anterioridad a su entrada en vigor, les serán aplicables las disposiciones vigentes en el momento en que se hayan cometido.
 
 TERCERO.- Se derogan todas las disposiciones legales de igual o menor jerarquía que se opongan a lo establecido en las normas adicionadas por el presente Decreto.
+
+B.O. 14 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 3282 SE ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR”.]
+
+Artículo Primero: El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+Artículo Segundo: Los procedimientos penales que se hayan iniciado antes de la entrada en vigor del presente decreto deberán concluirse aplicando la legislación penal vigente en el momento de la comisión del delito.
+
+Artículo Tercero: Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
