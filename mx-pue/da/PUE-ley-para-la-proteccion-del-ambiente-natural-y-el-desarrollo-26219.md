@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-proteccion-del-ambiente-natural-y-el-desarrollo-262
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-18"
-last_updated: "2025-08-19"
+last_updated: "2026-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26219&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2026.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Puebla, el miércoles 18 de septiembre de 2002.
 
@@ -291,6 +291,10 @@ XXXIII.- INSTRUMENTOS DE POLÍTICA AMBIENTAL.- Son los mecanismos necesarios par
 
 XXXIV.- ESTIMACIÓN DE COSTOS AMBIENTALES.- Es el procedimiento a través del cual se calculan los costos económicos reales de la naturaleza para obtener un producto y éstos sean integrados a las obras o servicios que sean ofrecidos en el mercado;
 
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2026)</small>
+
+XXXIV Bis.- JARDÍN POLINIZADOR. Espacio diseñado para proveer hábitat, refugio y recursos hídricos a las especies polinizadoras, facilitando su acceso a néctar y polen. Esto incluye, de manera enunciativa más no limitativa, a abejas, mariposas, colibríes y otros animales que, al transportar polen entre las flores, permiten la reproducción de las especies vegetales;
+
 > <small>(REFORMADA, P.O. 14 DE AGOSTO DE 2009)</small>
 
 XXXV.- LEY GENERAL.- La Ley General del Equilibrio Ecológico y la Protección al Ambiente;
@@ -487,6 +491,10 @@ XXV.- Promover la utilización de materiales biodegradables;
 
 XXVI.- La prevención y control de la contaminación visual, y la protección de la imagen del entorno ambiental, en las Vialidades de Jurisdicción Estatal, sus Zonas Adyacentes y los bienes inmuebles propiedad del Estado;
 
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2026)</small>
+
+XXVI Bis.- Promover y fomentar la creación y mantenimiento de jardines polinizadores en espacios públicos y en inmuebles destinados al servicio público que cuenten con aptitud y viabilidad para ello. En su diseño se procurará la integración de especies nativas de la región;
+
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2023)</small>
 
 XXVII.- Promover, fomentar y procurar la movilidad tomando en consideración el principio de sostenibilidad, procurando el uso de vehículos eficientes y el cumplimiento de la normatividad aplicable en materia ambiental relacionada con la movilidad;
@@ -540,6 +548,10 @@ VI.- Prevenir, controlar y, en su caso, sancionar en el ámbito de su competenci
 VII.- La prevención y control de la contaminación visual, y la protección de la imagen del entorno ambiental en los centros de población y Vialidades de Jurisdicción Municipal, así como en las Zonas Adyacentes y los bienes inmuebles propiedad del Municipio;
 
 VIII.- Establecer, regular y administrar las zonas de preservación ecológica municipal y los parques urbanos de los centros de población;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2026)</small>
+
+VIII Bis.- Promover y fomentar la creación y mantenimiento de jardines polinizadores en espacios públicos y en inmuebles destinados al servicio público que cuenten con aptitud y viabilidad para ello. En su diseño se procurará la integración de especies nativas de la región;
 
 IX.- Prevenir y controlar contingencias ambientales y emergencias ecológicas en forma independiente o en coordinación con las Autoridades Estatales competentes, cuando la magnitud o gravedad de los desequilibrios ecológicos o daños al ambiente no rebasen el territorio municipal o hagan necesaria la intervención directa del Gobierno del Estado o de la Federación;
 
@@ -2888,6 +2900,14 @@ TERCERO. El Ejecutivo del Estado realizará las modificaciones reglamentarias ne
 P.O. 19 DE AGOSTO DE 2025.
 
 ## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 162 DE LA LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 14 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA LA FRACCIÓN XXXIV BIS AL ARTÍCULO 4, LA FRACCIÓN XXVI BIS AL 5, LA FRACCIÓN VIII BIS AL 6, TODAS DE LA LEY PARA LA PROTECCIÓN DEL AMBIENTE NATURAL Y EL DESARROLLO SUSTENTABLE DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
