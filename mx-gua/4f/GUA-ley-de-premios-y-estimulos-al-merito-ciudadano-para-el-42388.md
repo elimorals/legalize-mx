@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-premios-y-estimulos-al-merito-ciudadano-para-el-42388"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-27"
-last_updated: "2015-03-13"
+last_updated: "2026-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE PREMIOS Y ESTÍMULOS AL MÉRITO CIUDADANO PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2026.
 
 Ley publicada en la Primera Parte del Periódico Oficial del Estado de Guanajuato, el 27 de diciembre de 2004.
 
@@ -77,13 +77,21 @@ V.- Premio Estatal a la Solidaridad Social;
 
 VI.- Premio Estatal al Trabajo y Servicio Civil;
 
-VII.- Premio Estatal del Deporte; y
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2026)</small>
 
-> <small>(ADICIONADA, P.O. 20 DE JUNIO DE 2014)</small>
+VII.- Premio Estatal del Deporte;
 
-VIII.- Premio Estatal a la Mujer "Emma Godoy Lobato"; y
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2026)</small>
 
-IX.- Premio Estatal al Periodismo.
+VIII.- Premio Estatal a la Mujer "Emma Godoy Lobato";
+
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2026)</small>
+
+IX.- Premio Estatal al Periodismo; y
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2026)</small>
+
+X.- Premio Estatal a la Comunidad Migrante.
 
 > <small>(REFORMADO, P.O. 13 DE MARZO DE 2015)</small>
 
@@ -229,15 +237,31 @@ II.- Mujer Rural;
 
 III.- Mujer Emprendedora;
 
-IV.- Docencia; y
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2026)</small>
 
-V.- Letras y literatura.
+IV.- Docencia;
 
-(REUBICADO [N. DE E. ANTES CAPÍTULO XI], P.O. 20 DE JUNIO DE 2014)
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2026)</small>
 
-### Capítulo XII. De los Reconocimientos Especiales
+V.- Letras y literatura; y
 
-### Capítulo XIII. Del Comité de Premiación
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2026)</small>
+
+VI.- Mujer Migrante.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE MAYO DE 2026)</small>
+
+### Capítulo XII. Del Premio Estatal a la Comunidad Migrante
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2026)</small>
+
+###### Artículo 20 Ter.
+
+Serán acreedores a este Premio Estatal, las personas migrantes que se distingan por sus aportaciones realizadas a favor de las y los migrantes en sus comunidades de origen o en donde residan, así como por sus actividades, trabajos y contribuciones para el mejoramiento del desarrollo y protección de los derechos de las personas migrantes y sus familias, en el estado y a nivel internacional.
+
+(REUBICADO [N. DE E. ANTES CAPÍTULO XII], P.O. 14 DE MAYO DE 2026)
+
+### Capítulo XIII. De los Reconocimientos Especiales
 
 ###### Artículo 21.
 
@@ -261,11 +285,9 @@ El otorgamiento de un reconocimiento especial no inhabilita a una persona para o
 
 La entrega de los reconocimientos especiales a que se refiere este Capítulo podrá llevarse a cabo en la sesión solemne que se celebre el 8 de mayo o en la fecha que determine el Comité de Premiación.
 
-(REUBICADO [N. DE E. ANTES CAPÍTULO XII], P.O. 20 DE JUNIO DE 2014)
+(REUBICADO [N. DE E. ANTES CAPÍTULO XIII], P.O. 14 DE MAYO DE 2026)
 
-### Capítulo XIV. Del Consejo Ciudadano Consultivo
-
-> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2014)</small>
+### Capítulo XIV. Del Comité de Premiación
 
 ###### Artículo 26.
 
@@ -297,9 +319,11 @@ VII.- Las demás que resulten necesarias para el otorgamiento de los premios que
 
 Tratándose del Premio Estatal al Periodismo, la convocatoria también se dirigirá a los medios de comunicación de la Entidad, a los periodistas, reporteros, a fin de que presenten propuestas de candidatos a obtener dicho premio.
 
-(REUBICADO [N. DE E. ANTES CAPÍTULO XIII], P.O. 20 DE JUNIO DE 2014)
+(REUBICADO [N. DE E. ANTES CAPÍTULO XIV], P.O. 14 DE MAYO DE 2026)
 
-### Capítulo XV. Del Procedimiento
+### Capítulo XV. Del Consejo Ciudadano Consultivo
+
+> <small>(REFORMADO, P.O. 20 DE JUNIO DE 2014)</small>
 
 ###### Artículo 28.
 
@@ -349,7 +373,9 @@ Si uno o varios de los integrantes del Consejo Ciudadano Consultivo son director
 
 El Consejo Ciudadano Consultivo contará con el auxilio de la Secretaría General del Congreso para el cumplimiento de las funciones que le encomiende el Comité de Premiación.
 
-(REUBICADO [N. DE E. ANTES CAPÍTULO XIV], P.O. 20 DE JUNIO DE 2014)
+(REUBICADO [N. DE E. ANTES CAPÍTULO XV], P.O. 14 DE MAYO DE 2026)
+
+### Capítulo XVI. Del Procedimiento
 
 ###### Artículo 36.
 
@@ -412,3 +438,9 @@ P.O. 13 DE MARZO DE 2015.
 Artículo Primero. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 Artículo Segundo. Por única ocasión la Condecoración «Miguel Hidalgo y Costilla» y Premios estatales serán entregados a más tardar en septiembre de 2015. De igual forma para éstos efectos el Consejo Consultivo se integrará a más tardar en julio de 2015.
+
+P.O. 14 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO LEGISLATIVO NÚMERO 188, QUE EMITE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO".]
+
+Artículo Único. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
