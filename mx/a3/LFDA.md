@@ -4,7 +4,7 @@ identifier: "LFDA"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-12-24"
-last_updated: "2026-01-15"
+last_updated: "2026-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9233&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFDA"
 
 LEY FEDERAL DEL DERECHO DE AUTOR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MAYO DE 2026.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 24 de diciembre de 1996.
 
@@ -122,11 +122,21 @@ Los artistas intérpretes o ejecutantes, los editores, los productores de fonogr
 
 Todos los plazos establecidos para determinar la protección que otorga la presente Ley se computarán a partir del 1o. de enero del año siguiente al respectivo en que se hubiera realizado el hecho utilizado para iniciar el cómputo, salvo que este propio ordenamiento establezca una disposición en contrario.
 
-> <small>(REFORMADO, D.O.F. 14 DE NOVIEMBRE DE 2025)</small>
+> <small>(ADICIONADO, D.O.F. 14 DE MAYO DE 2026)</small>
+
+###### Artículo 9o. Bis.
+
+El Instituto podrá hacer del conocimiento de las personas interesadas actos administrativos; de manera personal, correo certificado con acuse de recibo, telefax o cualquier otro medio al alcance de la autoridad, por la cual, se pueda tener la certeza de que el particular conoció en su integridad los actos.
+
+Las notificaciones personales podrán realizarse por correo electrónico o cualquier otro medio tecnológico.
+
+Cuando no sea posible notificar el acto administrativo por ninguno de los medios previamente establecidos, la notificación podrá efectuarse mediante rotulón institucional.
+
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2026)</small>
 
 ###### Artículo 10.
 
-En lo no previsto en la presente Ley, se aplicará el Código Civil Federal, la Ley Federal de Procedimiento Administrativo, el Código Nacional de Procedimientos Civiles y Familiares y el Código de Comercio.
+En lo no previsto en la presente Ley, se aplicará el Código Civil Federal, la Ley Federal de Procedimiento Administrativo, el Código Nacional de Procedimientos Civiles y Familiares, el Código de Comercio y la Ley General de Mecanismos Alternativos de Solución de Controversias.
 
 ## TITULO II. Del Derecho de Autor
 
@@ -450,7 +460,9 @@ Cuando las modificaciones hagan más onerosa la edición, el autor estará oblig
 
 El contrato de edición deberá contener como mínimo los siguientes elementos:
 
-I. El número de ediciones o, en su caso, reimpresiones, que comprende;
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2026)</small>
+
+I. El número de ediciones o, en su caso, reimpresiones, que comprende, así como la versión y el formato;
 
 II. La cantidad de ejemplares de que conste cada edición;
 
@@ -606,17 +618,27 @@ Son aplicables al contrato de producción audiovisual las disposiciones del cont
 
 ### Capítulo VII. De los Contratos Publicitarios
 
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2026)</small>
+
 ###### Artículo 73.
 
-Son contratos publicitarios los que tengan por finalidad la explotación de obras literarias o artísticas con fines de promoción o identificación en anuncios publicitarios o de propaganda a través de cualquier medio de comunicación.
+Son contratos publicitarios los que tengan por finalidad la explotación de obras literarias o artísticas, con fines de promoción o identificación en anuncios publicitarios o de propaganda a través de cualquier forma o medio de comunicación.
+
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2026)</small>
 
 ###### Artículo 74.
 
-Los anuncios publicitarios o de propaganda podrán ser difundidos hasta por un período máximo de seis meses a partir de la primera comunicación. Pasado este término, su comunicación deberá retribuirse, por cada período adicional de seis meses, aun cuando sólo se efectúe en fracciones de ese período, al menos con una cantidad igual a la contratada originalmente. Después de transcurridos tres años desde la primera comunicación, su uso requerirá la autorización de los autores y de los titulares de los derechos conexos de las obras utilizadas.
+Los anuncios publicitarios o de propaganda podrán ser difundidos hasta por un período máximo de seis meses a partir de la primera comunicación. Concluido dicho plazo, su comunicación deberá retribuirse, por cada período adicional de seis meses, aun cuando sólo se efectúe en fracciones de ese período, al menos con una cantidad igual a la contratada originalmente. Después de transcurrido un año desde la primera comunicación, los autores y titulares de los derechos conexos deberán autorizar cualquier uso de los anuncios publicitarios o de propaganda y se actualizará el valor de la contraprestación, de conformidad con los indicadores de inflación y valores actuales del mercado al momento efectivo de la difusión de períodos adicionales.
+
+En los contratos en los que se establezca una exclusividad o cláusula de no competencia, la misma no podrá ser mayor al término de vigencia del contrato.
+
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2026)</small>
 
 ###### Artículo 75.
 
-En el caso de publicidad en medios impresos, el contrato deberá precisar el soporte o soportes materiales en los que se reproducirá la obra y, si se trata de folletos o medios distintos de las publicaciones periódicas, el número de ejemplares de que constará el tiraje. Cada tiraje adicional deberá ser objeto de un acuerdo expreso.
+En el caso de publicidad en medios, ya sea digitales, impresos o la combinación de ambos, el contrato deberá precisar el soporte o soportes materiales en los que se reproducirá la obra, fonograma, videograma, interpretación o ejecución, dependiendo del medio que se trate, el número de ejemplares de que constará el tiraje, los canales y plataformas de difusión, la geolocalización de estos, la temporalidad y territorios en que se comunicará la obra, fonograma, videograma, interpretación o ejecución.
+
+Cualquier modificación a las condiciones del contrato será objeto de acuerdo libre, informado, remunerado y transparente entre las partes.
 
 ###### Articulo 76.
 
@@ -702,15 +724,23 @@ Salvo pacto en contrario, se considerará que el autor que haya enajenado su obr
 
 Los fotógrafos profesionales sólo pueden exhibir las fotografías realizadas bajo encargo como muestra de su trabajo, previa autorización. Lo anterior no será necesario cuando los fines sean culturales, educativos, o de publicaciones sin fines de lucro.
 
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2026)</small>
+
 ###### Artículo 87.
 
-El retrato de una persona sólo puede ser usado o publicado, con su consentimiento expreso, o bien con el de sus representantes o los titulares de los derechos correspondientes. La autorización de usar o publicar el retrato podrá revocarse por quien la otorgó quién, en su caso, responderá por los daños y perjuicios que pudiera ocasionar dicha revocación.
+La imagen, incluida la voz, de las personas artistas intérpretes o ejecutantes, así como de sus personajes, sólo puede ser usada o publicada, con su consentimiento expreso, o bien con el de sus representantes o los titulares de los derechos correspondientes.
 
-Cuando a cambio de una remuneración, una persona se dejare retratar, se presume que ha otorgado el consentimiento a que se refiere el párrafo anterior y no tendrá derecho a revocarlo, siempre que se utilice en los términos y para los fines pactados.
+La protección a la que se refiere el párrafo anterior abarca los resultados generados por sistemas de inteligencia artificial o cualquier otra tecnología.
 
-No será necesario el consentimiento a que se refiere este artículo cuando se trate del retrato de una persona que forme parte menor de un conjunto o la fotografía sea tomada en un lugar público y con fines informativos o periodísticos.
+La autorización podrá revocarse con causa justificada por quien la otorgó salvo que se haya agotado el derecho en términos del último párrafo del artículo 118 y, en su caso, responderá por los daños y perjuicios que pudiera ocasionar dicha revocación.
 
-Los derechos establecidos para las personas retratadas durarán 50 años después de su muerte.
+Cuando una persona artista intérprete o ejecutante haya recibido una remuneración específica por el uso de su imagen, se presumirá que ha otorgado su consentimiento únicamente para los fines y modalidades expresamente pactados. Cualquier uso distinto requerirá una nueva autorización y remuneración.
+
+No será necesario el consentimiento a que se refiere este artículo cuando se trate de la imagen de una persona artista intérprete o ejecutante que forme parte menor de un conjunto o la imagen sea captada en un lugar público o, con fines informativos o periodísticos.
+
+No se considerará violación a los derechos reconocidos en este artículo, cuando el uso de la imagen o la voz de la persona intérprete o ejecutante se realice con fines de parodia, sátira o imitación creativa, o cuando el uso no constituya una clonación o suplantación que induzca a error al público o que tenga por objeto sustituir la prestación profesional del artista en el mercado mediante el uso de sistemas de inteligencia artificial o cualquier otra tecnología o de cualquier otra forma.
+
+Los derechos reconocidos en este artículo permanecerán vigentes de conformidad con lo previsto en el artículo 122 de esta Ley.
 
 > <small>(REFORMADO, D.O.F. 23 DE JULIO DE 2003)</small>
 
@@ -806,9 +836,11 @@ Las disposiciones contenidas en el presente capítulo se aplicarán en lo pertin
 
 Se entiende por programa de computación la expresión original en cualquier forma, lenguaje o código, de un conjunto de instrucciones que, con una secuencia, estructura y organización determinada, tiene como propósito que una computadora o dispositivo realice una tarea o función específica.
 
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2026)</small>
+
 ###### Artículo 102.
 
-Los programas de computación se protegen en los mismos términos que las obras literarias. Dicha protección se extiende tanto a los programas operativos como a los programas aplicativos, ya sea en forma de código fuente o de código objeto. Se exceptúan aquellos programas de cómputo que tengan por objeto causar efectos nocivos a otros programas o equipos.
+Los programas de computación, incluidos los de inteligencia artificial, se protegen en los mismos términos que las obras literarias. Dicha protección se extiende tanto a los programas operativos como a los programas aplicativos, ya sea en forma de código fuente o de código objeto. Se exceptúan aquellos programas de cómputo o inteligencia artificial, que tengan por objeto causar efectos nocivos a otros programas o equipos o que violen los derechos de terceros tutelados por esta Ley.
 
 ###### Artículo 103.
 
@@ -1048,9 +1080,11 @@ La protección prevista en este título dejará intacta y no afectará en modo a
 
 ### Capítulo II. De los Artistas Intérpretes o Ejecutantes
 
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2026)</small>
+
 ###### Artículo 116.
 
-Los términos artista intérprete o ejecutante designan al actor, narrador, declamador, cantante, músico, bailarín, o a cualquiera otra persona que interprete o ejecute una obra literaria o artística o una expresión del folclor o que realice una actividad similar a las anteriores, aunque no haya un texto previo que norme su desarrollo. Los llamados extras y las participaciones eventuales no quedan incluidos en esta definición.
+Los términos artista intérprete o ejecutante, designan al actor, narrador, declamador, locutor, locutor comercial, actor de doblaje, cantante, músico, bailarín, o a cualquiera otra persona que interprete o ejecute una obra literaria o artística o una expresión del folclor o que realice una actividad similar a las anteriores, aunque no haya un texto o sistema de notación previo que norme su desarrollo. Los llamados extras y las participaciones eventuales no quedan incluidos en esta definición.
 
 ###### Artículo 117.
 
@@ -1082,17 +1116,23 @@ III. La reproducción directa e indirecta de la fijación de sus interpretacione
 
 IV. La distribución pública de sus interpretaciones o ejecuciones fijadas, así como de sus ejemplares, mediante venta u otra forma de transferencia de la propiedad de los soportes materiales que las contengan;
 
-> <small>(ADICIONADA, D.O.F. 1 DE JULIO DE 2020)</small>
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2026)</small>
 
-V. La comunicación pública de sus interpretaciones o ejecuciones fijadas, a través de señales o emisiones, así como la puesta a disposición del público, ya sea de forma alámbrica o inalámbrica, de tal forma que los miembros del público puedan acceder a ellas desde el lugar y en el momento que cada uno de ellos elija; salvo que se trate de la radiodifusión o la comunicación al público, ya sea por medios alámbricos o inalámbricos, de los sonidos o representaciones de sonidos fijados en un fonograma que estén incorporados a una obra audiovisual, y
+V. La comunicación pública de sus interpretaciones o ejecuciones fijadas, a través de señales o emisiones, así como la puesta a disposición del público, por medios alámbricos o inalámbricos, de forma que cualquier persona pueda acceder a ellas desde el lugar y en el momento que cada uno de ellos elija.
 
-> <small>(ADICIONADA, D.O.F. 1 DE JULIO DE 2020)</small>
+Esta facultad no será exigible cuando se trate de la radiodifusión o la comunicación al público, ya sea por medios alámbricos o inalámbricos, de sonidos o representaciones de sonidos fijados en un fonograma incorporado a una obra audiovisual;
 
-VI. El arrendamiento comercial de sus interpretaciones o ejecuciones fijadas, así como de sus ejemplares, aún después de la venta o cualquier otro tipo de transferencia de la propiedad de los soportes materiales que las contengan.
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2026)</small>
 
-> <small>(REFORMADO, D.O.F. 23 DE JULIO DE 2003)</small>
+VI. El arrendamiento con fines comerciales de sus interpretaciones o ejecuciones fijadas, así como de sus ejemplares, incluso después de la venta u otra forma de transmisión de la propiedad de los soportes materiales que las contengan, y
 
-Estos derechos se consideran agotados una vez que el artista intérprete o ejecutante haya autorizado la incorporación de su actuación o interpretación en una fijación visual, sonora o audiovisual, siempre y cuando los usuarios que utilicen con fines de lucro dichos soportes materiales, efectúen el pago correspondiente.
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2026)</small>
+
+VII. La suplantación de sus interpretaciones o ejecuciones por sistemas de inteligencia artificial o cualquier otra tecnología que resulten en generación de clones de sus interpretaciones o que simulen su voz de manera identificable, siempre que dicha conducta no se realice con fines de parodia, sátira o imitación creativa y no tenga por objeto o efecto sustituir la prestación profesional de la persona artista intérprete o ejecutante.
+
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2026)</small>
+
+Estos derechos se consideran agotados una vez que el artista intérprete o ejecutante haya autorizado la incorporación de su actuación o interpretación en una fijación visual, sonora o audiovisual, cuando las personas usuarias, sobre las cuales se haya autorizado la fijación de la interpretación y que utilicen con fines de lucro dichos soportes materiales, efectúen el pago correspondiente previo a la primera comunicación pública, salvo en los casos de productores de fonogramas, videogramas o audiogramas, quienes podrán realizar el pago de conformidad a los acuerdos entre las partes.
 
 ###### Artículo 119.
 
@@ -1104,9 +1144,17 @@ A falta de tal designación se presume que actúa como representante el director
 
 Los contratos de interpretación o ejecución deberán precisar los tiempos, períodos, contraprestaciones y demás términos y modalidades bajo los cuales se podrá fijar, reproducir y comunicar al público dicha interpretación o ejecución.
 
+> <small>(ADICIONADO, D.O.F. 14 DE MAYO DE 2026)</small>
+
+En caso de duda en las cláusulas contractuales, prevalecerá la interpretación más favorable al artista intérprete o ejecutante.
+
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2026)</small>
+
 ###### Artículo 121.
 
-Salvo pacto en contrario, la celebración de un contrato entre un artista intérprete o ejecutante y un productor de obras audiovisuales para la producción de una obra audiovisual conlleva el derecho de fijar, reproducir y comunicar al público las actuaciones del artista. Lo anterior no incluye el derecho de utilizar en forma separada el sonido y las imágenes fijadas en la obra audiovisual, a menos que se acuerde expresamente.
+Salvo pacto en contrario, la celebración de un contrato entre un artista intérprete o ejecutante y un productor de obras audiovisuales para la producción de una obra audiovisual conlleva el derecho de fijar, reproducir y comunicar al público las actuaciones del artista. Lo anterior no incluye el derecho de utilizar en forma separada el sonido y las imágenes fijadas en la obra audiovisual.
+
+Cualquier clonación o suplantación de la voz o imagen realizada con sistemas de inteligencia artificial o cualquier otra tecnología que resulten en generación de clones de sus interpretaciones o que simulen su voz de manera identificable, requerirá de un acuerdo previo y por escrito entre las partes.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JULIO DE 2003)</small>
 
@@ -1510,7 +1558,9 @@ VII. Los poderes otorgados para gestionar ante el Instituto, cuando la represent
 
 VIII. Los mandatos que otorguen los miembros de las sociedades de gestión colectiva en favor de éstas;
 
-IX. Los convenios o contratos de interpretación o ejecución que celebren los artistas intérpretes o ejecutantes, y
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2026)</small>
+
+IX. Los convenios o contratos de interpretación, locución, locución comercial, actuación de doblaje o ejecución que celebren los artistas intérpretes o ejecutantes, y
 
 X. Las características gráficas y distintivas de obras.
 
@@ -1592,9 +1642,15 @@ II. Difusiones periódicas: Emitidas en partes sucesivas, con variedad de conten
 
 III. Personajes humanos de caracterización, o ficticios o simbólicos;
 
-IV. Personas o grupos dedicados a actividades artísticas, y
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2026)</small>
 
-V. Promociones publicitarias: Contemplan un mecanismo novedoso y sin protección tendiente a promover y ofertar un bien o un servicio, con el incentivo adicional de brindar la posibilidad al público en general de obtener otro bien o servicio, en condiciones más favorables que en las que normalmente se encuentra en el comercio; se exceptúa el caso de los anuncios comerciales.
+IV. Personas o grupos dedicados a actividades artísticas;
+
+> <small>(ADICIONADA, D.O.F. 14 DE MAYO DE 2026)</small>
+
+V. Eventos artísticos y culturales, tales como festivales, concursos, ferias o cualquier otro de similar naturaleza, y
+
+VI. Promociones publicitarias: Contemplan un mecanismo novedoso y sin protección tendiente a promover y ofertar un bien o un servicio, con el incentivo adicional de brindar la posibilidad al público en general de obtener otro bien o servicio, en condiciones más favorables que en las que normalmente se encuentra en el comercio; se exceptúa el caso de los anuncios comerciales.
 
 ###### Artículo 174.
 
@@ -1712,9 +1768,11 @@ VII. Los nombres de personas utilizados en forma aislada, excepto los que sean s
 
 VIII. Los nombres o denominaciones de países, ciudades, poblaciones o de cualquier otra división territorial, política o geográfica, o sus gentilicios y derivaciones, utilizados en forma aislada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE MAYO DE 2026)</small>
+
 ###### Artículo 189.
 
-La vigencia del certificado de la reserva de derechos otorgada a títulos de publicaciones o difusiones periódicas será de un año, contado a partir de la fecha de su expedición.
+La vigencia del certificado de la reserva de derechos otorgada a títulos de publicaciones y difusiones periódicas, así como eventos artísticos y culturales, será de un año, contado a partir de la fecha de su expedición.
 
 Para el caso de publicaciones periódicas, el certificado correspondiente se expedirá con independencia de cualquier otro documento que se exija para su circulación.
 
@@ -2036,37 +2094,43 @@ El juez con audiencia de peritos fijará el importe de la reparación del daño 
 
 Para los efectos de este Artículo se entiende por daño moral el que ocasione la violación a cualquiera de los derechos contemplados en las Fracciones I, II, III, IV y VI del Artículo 21 de esta Ley.
 
-### Capítulo II. Del Procedimiento de Avenencia
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 14 DE MAYO DE 2026)</small>
+
+### Capítulo II. De los Mecanismos Alternativos de Solución de Controversias
+
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2026)</small>
 
 ###### Artículo 217.
 
-Las personas que consideren que son afectados en alguno de los derechos protegidos por esta Ley, podrán optar entre hacer valer las acciones judiciales que les correspondan o sujetarse al procedimiento de avenencia.
+Las personas que se consideren afectadas en alguno de los derechos protegidos por esta Ley, podrán hacer valer las acciones judiciales que les correspondan u optar por algún Mecanismo Alternativo ante el Instituto.
 
-El procedimiento administrativo de avenencia es el que se substancia ante el Instituto, a petición de alguna de las partes para dirimir de manera amigable un conflicto surgido con motivo de la interpretación o aplicación de esta Ley.
+> <small>(ADICIONADO, D.O.F. 14 DE MAYO DE 2026)</small>
+
+###### Artículo 217 Bis.
+
+Se podrán tramitar ante el Instituto, los Mecanismos Alternativos siguientes:
+
+I. Avenencia: Procedimiento voluntario mediante el cual las partes, por sí o a través de sus representantes, acuerdan propuestas de solución para resolver o prevenir una controversia o conflicto, ante la presencia de la persona facilitadora;
+
+II. Mediación: Procedimiento voluntario mediante el cual las partes acuerdan de manera pacífica resolver una controversia, en forma parcial o total, o prevenir una futura, con la asistencia, apoyo y conducción de una persona facilitadora;
+
+III. Conciliación: Procedimiento voluntario mediante el cual las partes involucradas en una controversia o conflicto acuerdan de manera pacífica resolverla en forma parcial o total, o prevenir una futura, con la asistencia y participación activa de una persona facilitadora, y
+
+IV. Arbitraje: Procedimiento voluntario mediante el cual las partes deciden por escrito, y a través de un acuerdo o cláusula arbitral, someter todas o ciertas controversias que puedan surgir en el futuro, o que ya hayan surgido entre ellas, ante un tercero denominado grupo arbitral, quien dicta un laudo arbitral, conforme a lo previsto en la presente Ley y el Reglamento.
+
+> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2026)</small>
 
 ###### Artículo 218.
 
-El procedimiento administrativo de avenencia lo llevará a cabo el Instituto conforme a lo siguiente:
+Los Mecanismos Alternativos que se tramiten ante el Instituto, podrán realizarse a través de las siguientes modalidades:
 
-I. Se iniciará con la queja, que por escrito presente ante el Instituto quien se considere afectado en sus derechos de autor, derechos conexos y otros derechos tutelados por la presente Ley;
+I. Presencial, cuando ambas partes comparecen ante el Instituto;
 
-II. Con la queja y sus anexos se dará vista a la parte en contra de la que se interpone, para que la conteste dentro de los diez días siguientes a la notificación;
+II. En línea, por medios tecnológicos, y
 
-> <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2020)</small>
+III. Mixta, con audiencias presenciales y en línea, o personas que acuden presencialmente o en línea.
 
-III. Se citará a las partes a una junta de avenencia, apercibiéndolas que de no asistir, se les impondrá una multa de cien a ciento cincuenta veces el valor diario de la Unidad de Medida y Actualización. Dicha junta se llevará a cabo dentro de los veinte días siguientes a la presentación de la queja;
-
-IV. En la junta respectiva el Instituto tratará de avenir a las partes para que lleguen a un arreglo. De aceptarlo ambas partes, la junta de avenencia puede diferirse las veces que sean necesarias a fin de lograr la conciliación. El convenio firmado por las partes y el Instituto tendrá el carácter de cosa juzgada y título ejecutivo;
-
-V. Durante la junta de avenencia, el Instituto no podrá hacer determinación alguna sobre el fondo del asunto, pero si podrá participar activamente en la conciliación;
-
-VI. En caso de no lograrse la avenencia, el Instituto exhortará a las partes para que se acojan al arbitraje establecido en el Capítulo III de este Título;
-
-Las actuaciones dentro de este procedimiento tendrán el carácter de confidenciales y, por lo tanto, las constancias de las mismas sólo serán enteradas a las partes del conflicto o a las autoridades competentes que las soliciten.
-
-> <small>(ADICIONADO, D.O.F. 15 DE ENERO DE 2026)</small>
-
-Dicho procedimiento se llevará a cabo asegurando condiciones equitativas entre las partes, con perspectiva de género y enfoque interseccional.
+Los procedimientos relativos a los mecanismos alternativos se establecerán en el Reglamento, así como en las disposiciones que emita el Instituto.
 
 ### Capítulo III. Del Arbitraje
 
@@ -2210,7 +2274,9 @@ Constituyen infracciones en materia de comercio las siguientes conductas cuando 
 
 I. Comunicar, poner a disposición o utilizar públicamente una obra protegida por cualquier medio, y de cualquier forma sin la autorización previa y expresa del autor, de sus legítimos herederos o del titular del derecho patrimonial de autor;
 
-II. Utilizar la imagen de una persona sin su autorización o la de sus causahabientes;
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2026)</small>
+
+II. Contravenir lo dispuesto en los artículos 87, así como 118, fracción VII, de la presente Ley;
 
 > <small>(REFORMADA, D.O.F. 1 DE JULIO DE 2020)</small>
 
@@ -2236,11 +2302,13 @@ X. Las demás infracciones a las disposiciones de la Ley que impliquen conducta 
 
 Las infracciones en materia de comercio previstas en la presente Ley serán sancionadas por el Instituto Mexicano de la Propiedad Industrial con multa:
 
-> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2026)</small>
 
-I. De cinco mil hasta cuarenta mil días de salario mínimo en los casos previstos en las fracciones I, III, IV, V, VII, VIII y IX del artículo anterior,
+I. De cinco mil hasta cuarenta mil días de salario mínimo en los casos previstos en las fracciones I, II, III, IV, V, VII, VIII y IX del artículo anterior;
 
-II. De mil hasta cinco mil días de salario mínimo en los casos previstos en las fracciones II y VI del artículo anterior, y
+> <small>(REFORMADA, D.O.F. 14 DE MAYO DE 2026)</small>
+
+II. De mil hasta cinco mil días de salario mínimo en los casos previstos en la fracción VI del artículo anterior, y
 
 III. De quinientos hasta mil días de salario mínimo en los demás casos a que se refiere la fracción X del artículo anterior.
 
@@ -2755,3 +2823,15 @@ Quinto. Las erogaciones que se generen con motivo de la entrada en vigor del pre
 Sexto. Las reformas al Código Nacional de Procedimientos Civiles y Familiares dispuestas en este Decreto, entrarán en vigor de conformidad con lo dispuesto en el artículo Segundo transitorio del Decreto publicado el 7 de junio de 2023 en el Diario Oficial de la Federación.
 
 Séptimo. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General para la Igualdad entre Mujeres y Hombres, se entenderán referidas a la Ley General para la Igualdad Sustantiva entre Mujeres y Hombres.
+
+D.O.F. 14 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY FEDERAL DEL TRABAJO Y DE LA LEY FEDERAL DEL DERECHO DE AUTOR, EN MATERIA DE DERECHOS DE LAS PERSONAS TRABAJADORAS ARTISTAS INTÉRPRETES O EJECUTANTES".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Tercero. El Reglamento de la Ley Federal del Derecho de Autor deberá ser reformado y adicionado dentro de los sesenta días siguientes a la entrada en vigor del presente Decreto.
+
+Cuarto. Los procedimientos administrativos de avenencia y arbitraje iniciados con anterioridad a la entrada en vigor del presente Decreto, en lo que no se opongan al mismo, continuarán hasta su conclusión conforme a los ordenamientos en vigor existentes al momento de su inicio.
