@@ -4,7 +4,7 @@ identifier: "GUA-codigo-penal-del-estado-de-guanajuato-antes-codigo-penal-22399"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-11-02"
-last_updated: "2026-04-21"
+last_updated: "2026-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 CÓDIGO PENAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2026.
 
 Código publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 2 de noviembre de 2001.
 
@@ -1903,11 +1903,17 @@ Este delito se perseguirá por querella.
 
 a.- A quien lleve a cabo la cobranza extrajudicial ilícita, se le aplicará de uno a cuatro años de prisión y de diez a cuarenta días multa.
 
-Se entiende por cobranza extrajudicial ilícita, el uso de violencia o intimidación, ya sea personalmente o a través de cualquier medio, para requerir el pago de un crédito o una deuda derivada de una obligación contenida en las leyes, con independencia del tenedor de los derechos de cobro al momento de llevar a cabo la cobranza.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2026)</small>
+
+Se entiende por cobranza extrajudicial ilícita, el uso de violencia o intimidación, ya sea personalmente o a través de cualquier medio, en contra del deudor o de alguien con quien este se encuentre ligado por algún vínculo familiar, afectivo o que haya fungido como referencia o aval, para requerir el pago de un crédito o una deuda derivada de una obligación contenida en las leyes, con independencia del tenedor de los derechos de cobro al momento de llevar a cabo la cobranza.
 
 No constituye intimidación, la información de las consecuencias jurídicas del incumplimiento de pago del adeudo.
 
 Si el responsable utiliza documentos o sellos oficiales falsos o incurre en usurpación de funciones públicas o de profesión, se aplicarán las reglas del concurso de delitos.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2026)</small>
+
+La pena de prisión se incrementará de dos tercios del mínimo a dos tercios del máximo de la pena a que se refiere el primer párrafo de este artículo cuando intervenga algún servidor público y, además, se le impondrán las penas de destitución , del empleo, cargo o comisión públicos e inhabilitación para desempeñar otro hasta por un tiempo igual al de la pena de prisión impuesta.
 
 ### CAPÍTULO IV. ALLANAMIENTO DE MORADA, DE DOMICILIO DE PERSONAS JURÍDICAS COLECTIVAS Y DE ESTABLECIMIENTOS ABIERTOS AL PÚBLICO
 
@@ -4714,3 +4720,11 @@ P.O. 21 DE ABRIL DE 2026.
 Artículo Primero. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
 
 Artículo Segundo. La persona titular de la Fiscalía General del Estado solicitará al Poder Ejecutivo la suficiencia presupuestal necesaria para la creación y funcionamiento del Registro Público de Personas Agresoras Sexuales y en un plazo de ciento ochenta días establecerá los lineamientos para crear, organizar, implementar, gestionar, actualizar, monitorear y evaluar el funcionamiento del Registro Público de Personas Agresoras Sexuales.
+
+P.O. 14 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 188, QUE EMITE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL DEL ESTADO DE GUANAJUATO”.]
+
+Artículo primero. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+Artículo segundo. Los procedimientos penales que se hayan iniciado antes de la entrada en vigor del presente Decreto deberán concluirse aplicando la ley penal vigente al momento de la comisión del delito.
