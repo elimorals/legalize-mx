@@ -4,7 +4,7 @@ identifier: "HID-codigo-de-conducta-de-las-y-los-servidorespublicos-del-141507"
 country: "mx"
 rank: "codigo"
 publication_date: "2020-02-10"
-last_updated: "2020-02-10"
+last_updated: "2026-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=141507&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # CODIGO DE CONDUCTA DE LAS Y LOS SERVIDORESPUBLICOS DEL CONSEJO RECTOR DE PACHUCA CIUDAD DEL CONOCIMIENTO Y LA CULTURA, DEL ESTADO DE HIDALGO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL CÓDIGO DE CONDUCTA DEL PERSONAL DE LA COORDINACIÓN GENERAL DEL DISTRITO DE EDUCACIÓN, SALUD, CIENCIA, TECNOLOGÍA E INNOVACIÓN, PUBLICADO EN EL P.O. DE 14 DE MAYO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 CÓDIGO DE CONDUCTA DE LAS Y LOS SERVIDORES PÚBLICOS DEL CONSEJO RECTOR DE PACHUCA CIUDAD DEL CONOCIMIENTO Y LA CULTURA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2026 (ABROGADO).
 
 Código publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 10 de febrero de 2020.
 
@@ -304,3 +306,15 @@ COORDINADOR GENERAL DEL CONSEJO RECTOR DE PACHUCA CIUDAD DEL CONOCIMIENTO Y LA C
 ING. ÓSCAR JORGE SÚCHIL VILLEGAS
 
 RÚBRICA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 14 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE CONDUCTA DEL PERSONAL DE LA COORDINACIÓN GENERAL DEL DISTRITO DE EDUCACIÓN, SALUD, CIENCIA, TECNOLOGÍA E INNOVACIÓN”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- El presente Acuerdo será publicado en la página web de la Coordinación General del Distrito de Educación, Salud, Ciencia, Tecnología e Innovación.
+
+TERCERO.- Se abroga el “Acuerdo que contiene el Código de Conducta de las y los Servidores Públicos del Consejo Rector de Pachuca Ciudad del Conocimiento y la Cultura”, publicado en el Periódico Oficial del Estado de Hidalgo el 10 de febrero de 2020, quedando sin efectos a partir de la entrada en vigor del presente Acuerdo.
