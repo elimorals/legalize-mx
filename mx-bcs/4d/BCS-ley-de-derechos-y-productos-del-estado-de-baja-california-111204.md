@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-derechos-y-productos-del-estado-de-baja-california-11120
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-31"
-last_updated: "2025-07-10"
+last_updated: "2026-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE DERECHOS Y PRODUCTOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE MAYO DE 2026.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el jueves 31 de diciembre de 2015.
 
@@ -1499,13 +1499,33 @@ exceder de 30 días y por única vez, por día: $94.00
 
 costo de: $282.00
 
-16 Por la expedición de licencia de manejo por tres años:
+> <small>(REFORMADO, B.O. 14 DE MAYO DE 2026)</small>
 
-a) Chofer: $1,502.00
+16 Por la expedición de licencia de manejo:
 
-b) Automovilista: $901.00
+a) Chofer:
 
-c) Motociclista: $732.00
+1 Por un año $700.00
+
+2 Por tres años $1,502.00
+
+3 Por seis años $2,702.00
+
+b) Automovilista:
+
+1 Por un año $500.00
+
+2 Por tres años $901.00
+
+3 Por seis años $1,622.00
+
+c) Motociclista:
+
+1 Por un año $300.00
+
+2 Por tres años $732.00
+
+3 Por seis años $1,318.00
 
 > <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2017)</small>
 
@@ -1515,11 +1535,19 @@ jóvenes mayores de 16 años y menores
 
 de 18 años, previo curso de educación vial; $600.00
 
-18 Reposición por robo o extravío de licencia: 50 por ciento
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], B.O. 14 DE MAYO DE 2026)</small>
 
-del costo dentro del primer año a partir de su expedición,
+18 Reposición por robo o extravío de licencia, solo para las
 
-30 por ciento del costo dentro del segundo o tercer año.
+expediciones de tres y seis años: 50 por ciento del costo
+
+dentro del primer año a partir de su expedición para las
+
+de tres años y dentro de los primeros dos años para las
+
+de seis, 30 por ciento del costo por el resto del tiempo de
+
+la vigencia para ambas.
 
 Para los efectos de lo dispuesto en los numerales 8 y 16 de la presente fracción, el contribuyente, de ser el caso, deberá acreditar ante la autoridad exactora estatal, no contar con multas pendientes de pago por infracciones al Reglamento de Tránsito Municipal que corresponda.
 
@@ -2510,3 +2538,9 @@ B.O. 10 DE JULIO DE 2025.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO. Se derogan las disposiciones normativas que se opongan a lo establecido en el presente decreto.
+
+B.O. 14 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 3278 SE REFORMAN LOS NUMERALES 16 Y 18 DE LA FRACCIÓN I DEL ARTÍCULO 27 DE LA LEY DE DERECHOS Y PRODUCTOS DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
