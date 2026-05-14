@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109822"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-11"
-last_updated: "2025-12-18"
+last_updated: "2026-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109822&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "GUA"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2026.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 11 de septiembre de 2015.
 
@@ -165,9 +165,17 @@ XVII. Medidas de protección especial: las acciones establecidas en un plan de r
 
 XVIII. Medidas urgentes de protección especial: las acciones determinadas por el Ministerio Público o la Procuraduría de Protección, cuando exista un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes, las cuales deberán ser ratificadas, modificadas o canceladas por la autoridad jurisdiccional competente;
 
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2026)</small>
+
+XVIII-1. Mínima intervención cuando intervienen en procedimientos judiciales como víctimas o testigos: cuando niñas, niños y adolescentes sean llamados a juicio a ejercer su derecho a emitir su opinión en todo lo que les concierne, acudirán el menor número de veces posible, siempre y cuando se haga fuera del horario escolar;
+
 (REPUBLICADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XI], P.O. 31 DE MAYO DE 2023)
 
 XIX. Niña o niño: la persona menor de doce años de edad, desde su concepción;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2026)</small>
+
+XIX-1. No revictimización cuando intervienen en procedimientos judiciales como víctimas o testigos: en el ámbito de la función jurisdiccional, las personas juzgadoras deben tomar las medidas necesarias para evitar la revictimización de niñas, niños y adolescentes, las cuales se deben guiar por el criterio de más beneficio y atender sus necesidades, el contexto y la propia naturaleza del acto criminal sufrido;
 
 > <small>(ADICIONADA, P.O. 31 DE MAYO DE 2023)</small>
 
@@ -229,6 +237,10 @@ XXXII. Sistemas Municipales: los Sistemas Municipales para el Desarrollo Integra
 
 XXXIII. Sistema Municipal de Protección: el Sistema Municipal de Protección de Niñas, Niños y Adolescentes; y
 
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2026)</small>
+
+XXXIII-1. Trabajo infantil: toda actividad laboral, eventual o permanente, realizada por personas menores de dieciocho años, sea retribuida en dinero o en especie o no remunerada, que afecte el ejercicio de cualesquiera de sus derechos y, en consecuencia, su desarrollo integral; de conformidad con lo previsto en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables; y
+
 (REPUBLICADA Y REUBICADA [N. DE E. ANTES FRACCIÓN XXIII], P.O. 31 DE MAYO DE 2023)
 
 XXXIV. Trato humillante o degradante: castigo ofensivo, denigrante, desvalorizador, estigmatizante, ridiculizador y de menosprecio, y cualquier acto que tenga como objetivo provocar dolor, amenaza, molestia o humillación, cometido en contra de niñas, niños y adolescentes.
@@ -268,6 +280,14 @@ XII. La transversalidad en la legislación, políticas públicas, actividades ad
 XIII. Pro persona;
 
 XIV. El acceso a una vida libre de violencia;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2026)</small>
+
+XIV-1. Mínima intervención cuando intervienen en procedimientos judiciales como víctimas o testigos;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2026)</small>
+
+XIV-2. No revictimización cuando intervienen en procedimientos judiciales como víctimas o testigos;
 
 XV. La accesibilidad; y
 
@@ -461,9 +481,19 @@ VI-1. Establecer acciones afirmativas que garanticen el derecho a la educación 
 
 VI-2. Promover el conocimiento en materia de educación sexual, prevención del embarazo infantil y adolescente, así como las consecuencias del mismo en los proyectos de vida de niñas, niños y adolescentes;
 
-> <small>(ADICIONADA, P.O. 7 DE JUNIO DE 2024)</small>
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2026)</small>
 
-VI-3. Diseñar y promover estrategias para el uso responsable de tecnologías de la información y de la comunicación;
+VI-3. Diseñar y promover estrategias para el uso responsable de tecnologías de la información y de la comunicación.
+
+Asimismo, emitir disposiciones que regulen el uso de dispositivos de las tecnologías de la información y de la comunicación en el entorno escolar con el fin de que no interfieran con el desarrollo del proceso de enseñanza-aprendizaje, así como promover un ambiente escolar seguro y adecuado;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2026)</small>
+
+VI-4. Formar a niñas, niños y adolescentes en el respeto al medio ambiente, inculcando en ellos la adopción de estilos de vida sustentables, así como concientizarlos sobre las causas-efectos del cambio climático;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2026)</small>
+
+VI-5. Inculcar en niñas, niños y adolescentes la cultura de la paz y la educación cívica;
 
 VII. Establecer acciones afirmativas para garantizar el derecho a la educación de niñas, niños y adolescentes de grupos y regiones con mayor rezago educativo, dispersos o que enfrenten situaciones de vulnerabilidad por alguna circunstancia; y
 
@@ -556,6 +586,10 @@ II. Aprobar y dar seguimiento a las normas y políticas que garanticen la iguald
 III. Asegurar la asignación de presupuestos para cumplir con los objetivos de la Ley y fiscalizar su cumplimiento. En ningún caso, el presupuesto aprobado para la difusión, promoción, ejecución, supervisión y evaluación del Programa Estatal y acciones en favor de niñas, niños y adolescentes podrá ser inferior al aprobado en el ejercicio fiscal anterior;
 
 IV. Favorecer el trabajo legislativo con un enfoque que garantice los derechos humanos de niñas, niños y adolescentes;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2026)</small>
+
+IV-1. Celebrar, por lo menos una vez cada Legislatura, un Parlamento de Niñas, Niños y Adolescentes para fomentar la cultura legislativa;
 
 V. Difundir los tratados internacionales vinculantes al Estado mexicano relacionados con esta materia; y
 
@@ -693,9 +727,13 @@ VIII. Promover la participación de los sectores público, social y privado en l
 
 IX. Asesorar a las autoridades competentes para la aplicación de la presente Ley y a los sectores público, social y privado sobre el cumplimiento del marco normativo relativo a la protección de niñas, niños y adolescentes;
 
-> <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2026)</small>
 
-X. Desarrollar los lineamientos y procedimientos para la restitución de los derechos de niñas, niños y adolescentes; y aprobar los planes de restitución de derechos elaborados por las Procuradurías Auxiliares;
+X. Desarrollar los lineamientos y procedimientos para la restitución de los derechos de niñas, niños y adolescentes;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2026)</small>
+
+X-1. Revisar los planes de restitución de derechos elaborados por las Procuradurías Auxiliares para, en su caso, proponer su modificación con la finalidad de que los derechos restringidos o vulnerados de las niñas, niños y adolescentes sean debidamente restituidos y garantizados;
 
 > <small>(REFORMADA, P.O. 31 DE MAYO DE 2023)</small>
 
@@ -839,9 +877,9 @@ XI. La persona titular de la Secretaría del Nuevo Comienzo; y
 
 XII. La persona titular de la Procuraduría de Protección.
 
-> <small>(REFORMADO, P.O. 25 DE JUNIO DE 2025)</small>
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2026)</small>
 
-Las personas titulares de la Fiscalía General del Estado de Guanajuato, de la Procuraduría de los Derechos Humanos del Estado de Guanajuato, y de la Secretaría de la Honestidad serán invitados permanentes a las sesiones del Consejo Directivo
+Las personas titulares de la Fiscalía General del Estado de Guanajuato, de la Procuraduría de los Derechos Humanos del Estado de Guanajuato, de la Secretaría de la Honestidad y de la Secretaría de Finanzas serán invitadas permanentes a las sesiones del Consejo Directivo.
 
 Asimismo, a propuesta de su Presidente, podrá invitarse a las sesiones del Consejo Directivo a las personas cuyos conocimientos o experiencia profesional se considere valiosa, cuando se discuta un asunto o tema en particular.
 
@@ -1425,7 +1463,9 @@ Derecho a la no discriminación
 
 Niñas, niños y adolescentes tienen derecho a no ser sujetos de discriminación alguna ni de limitación o restricción de sus derechos, en los términos de lo que dispone la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales, la Constitución Política para el Estado de Guanajuato, ésta Ley y demás disposiciones legales aplicables.
 
-Las autoridades están obligadas a llevar a cabo medidas especiales para prevenir, atender y erradicar la discriminación múltiple de la que son objeto niñas, niños y adolescentes.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2026)</small>
+
+Las autoridades están obligadas a llevar a cabo medidas especiales para prevenir, atender y erradicar la discriminación múltiple de la que son objeto niñas, niños y adolescentes en situación de exclusión social, con discapacidad, en situación de calle, afrodescendientes, peores formas de trabajo infantil o cualquiera otra situación de vulnerabilidad.
 
 Deber de reportar
 
@@ -1475,6 +1515,10 @@ Derecho a una vida libre de violencia digital
 
 1. Niñas, niños y adolescentes tienen derecho a no sufrir violencia en el ámbito digital. Tanto las autoridades como quienes ejerzan la patria potestad, tutela, guarda o custodia deberán tomar acciones para detectar y atender en forma integral aquellos casos en que se utilicen las tecnologías de la información y comunicación para agredir o vulnerar la dignidad, intimidad, libertad y vida privada de niñas, niños y adolescentes.
 
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2026)</small>
+
+Corresponderá a las autoridades, como a quienes ejerzan la patria potestad, tutela, guarda o custodia, dar cumplimiento a las disposiciones que regulen el uso de dispositivos de las tecnologías de la información y de la comunicación en el entorno escolar. Dichas disposiciones deberán orientarse a prevenir cualquier forma de violencia digital, garantizar un entorno seguro para el aprendizaje y salvaguardar el bienestar e integridad del educando.
+
 > <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2024)</small>
 
 Obligación de adoptar medidas en favor de las niñas, niños y adolescentes
@@ -1492,6 +1536,10 @@ III. La trata de personas menores de dieciocho años, explotación sexual infant
 IV. El tráfico de menores;
 
 V. El trabajo antes de la edad mínima de quince años, prevista en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2026)</small>
+
+V-1. La coordinación con las autoridades federales para implementar acciones orientadas al cumplimiento de la legislación laboral y a la erradicación del trabajo infantil, mediante la atención y combate de sus causas, incluyendo la realización de campañas de concientización y sensibilización dirigidas a la población que promuevan la denuncia;
 
 VI. El trabajo en adolescentes mayores de quince años que pueda perjudicar su salud, su educación o impedir su desarrollo físico o mental, la explotación laboral, las peores formas de trabajo infantil, así como el trabajo forzoso, de conformidad con lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones aplicables;
 
@@ -1580,6 +1628,24 @@ Derecho a la educación
 Las niñas, niños y adolescentes, tienen derecho a una educación de calidad que contribuya a su formación integral y al reconocimiento de sus derechos y deberes, que garantice el respeto a su dignidad humana; así como al desarrollo armónico de sus potencialidades y personalidad, y fortalezca el respeto a los derechos humanos y a las libertades fundamentales, en los términos de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política para el Estado de Guanajuato, la Ley General de Educación y la Ley de Educación para el Estado de Guanajuato.
 
 Quienes ejerzan la patria potestad o tutela tienen derecho a participar en el proceso de educación de niñas, niños y adolescentes en los términos que dispone la Ley de Educación para el Estado de Guanajuato, esta Ley y demás disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 14 DE MAYO DE 2026)</small>
+
+Fines de la educación
+
+###### Artículo 55
+
+1. La educación, además de lo dispuesto en las disposiciones aplicables, tendrá los siguientes fines:
+
+I. Fomentar en niñas, niños y adolescentes los valores fundamentales, la cultura de la paz, la educación cívica y el respeto de la identidad propia, así como a las diferencias culturales y opiniones diversas;
+
+II. Promover el valor de la justicia, de la observancia de la ley y de la igualdad de las personas ante esta, propiciar la cultura de la legalidad, de la paz, la educación cívica y la no violencia en cualquier tipo de sus manifestaciones, así como el conocimiento de los derechos humanos y el respeto a los mismos;
+
+III. Difundir los derechos humanos de niñas, niños y adolescentes y las formas de protección con que cuentan para ejercerlos;
+
+IV. Inculcar en niñas, niños y adolescentes el respeto al medio ambiente; así como el respeto, cuidado y procuración del bienestar de los animales; y
+
+V. Las demás que le otorgue esta Ley u otros ordenamientos aplicables.
 
 ### Capítulo XIII. Derecho al Descanso y al Esparcimiento
 
@@ -2373,7 +2439,9 @@ Procuradurías Auxiliares
 
 1. Los municipios deberán contar con una Procuraduría Auxiliar que funja como autoridad de primer contacto con niñas, niños y adolescentes; tendrá a su cargo su protección y restitución cuando estas y estos se encuentren dentro del territorio del municipio de la respectiva Procuraduría Auxiliar en términos de esta Ley y demás disposiciones aplicables; y será el enlace de coordinación y seguimiento con las instancias estatales y federales competentes en la materia.
 
-Su adscripción orgánica y naturaleza jurídica será determinada por el Ayuntamiento, pero dependerá normativamente de la Procuraduría de Protección, por lo que, en cada una de sus actuaciones deberá sujetarse a los lineamientos, directrices, protocolos, acuerdos y demás instrumentos jurídicos que esta emita. Para el ejercicio de sus atribuciones contará con equipos multidisciplinarios, integrados al menos por personas profesionales en derecho, psicología y en trabajo social.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2026)</small>
+
+Su adscripción orgánica y naturaleza jurídica será determinada por el Ayuntamiento, pero en ningún caso dependerá del Sistema Municipal. Además, dependerá normativamente de la Procuraduría de Protección, por lo que, en cada una de sus actuaciones deberá sujetarse a los lineamientos, directrices, protocolos, acuerdos y demás instrumentos jurídicos que esta emita. Para el ejercicio de sus atribuciones contará con equipos multidisciplinarios, integrados obligatoriamente por personas profesionales en derecho, psicología y en trabajo social, sin perjuicio de que puedan contar con personal profesional en medicina.
 
 El titular de la Procuraduría Auxiliar será designado por el Ayuntamiento y deberá reunir los requisitos establecidos en el artículo 27-2 de esta Ley. Durará en su encargo tres años y podrá ser ratificado por una sola vez por un periodo adicional de tres años.
 
@@ -2391,7 +2459,13 @@ II. Recibir, atender y dar seguimiento a denuncias por vulneración o restricci�
 
 III. Elaborar los diagnósticos sobre la situación de los derechos de las niñas, niños y adolescentes que atiendan;
 
-IV. Elaborar y solicitar la aprobación de la Procuraduría de Protección de los planes de restitución de derechos, así como ejecutar y dar seguimiento a dichos planes una vez aprobados;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2026)</small>
+
+IV. Elaborar, ejecutar y dar seguimiento a los planes de restitución de derechos; así como informar de manera mensual a la Procuraduría de Protección sobre los planes de restitución emitidos;
+
+> <small>(ADICIONADA, P.O. 14 DE MAYO DE 2026)</small>
+
+IV-1. Remitir a la Procuraduría de Protección los planes de restitución para su revisión y, en su caso, realizar las modificaciones que se sugieran, con la finalidad de que los derechos restringidos o vulnerados de niñas, niños y adolescentes sean debidamente restituidos y garantizados;
 
 V. Solicitar al Ministerio Público la imposición de medidas urgentes de protección especial, informando a la Procuraduría de Protección en un plazo no mayor de veinticuatro horas;
 
@@ -2403,7 +2477,9 @@ VIII. Denunciar ante el Ministerio Público aquellos hechos que se presuman cons
 
 IX. Ejercer la tutela de niñas, niños y adolescentes, en términos de la legislación aplicable;
 
-X. Otorgar medidas de protección especial;
+> <small>(REFORMADA, P.O. 14 DE MAYO DE 2026)</small>
+
+X. Establecer medidas de protección especial;
 
 XI. Determinar la reintegración de niñas, niños y adolescentes; y
 
@@ -2774,3 +2850,23 @@ P.O. 18 DE DICIEMBRE DE 2025.
 Inicio de vigencia
 
 Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato.
+
+P.O. 14 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO LEGISLATIVO NÚMERO 187, QUE EMITE LA SEXAGÉSIMA SEXTA LEGISLATURA CONSTITUCIONAL DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Plazo para adecuaciones reglamentarias y normativas
+
+Artículo Segundo. La persona titular del Poder Ejecutivo y los ayuntamientos contarán con un plazo de ciento ochenta días, contados a partir del inicio de vigencia del presente Decreto, para realizar las adecuaciones reglamentarias y normativas correspondientes.
+
+Procuradurías Auxiliares
+
+Artículo Tercero. Los municipios contarán con un plazo de ciento ochenta días, contados a partir del inicio de vigencia del presente Decreto, para adecuar sus estructuras orgánicas a fin de garantizar el funcionamiento de la Procuraduría Auxiliar que tenga como único objeto la protección y restitución de los derechos de niñas, niños y adolescentes, separada del Sistema Municipal para el Desarrollo Integral de la Familia en los términos del presente Decreto.
+
+Expedición de disposiciones
+
+Artículo Cuarto. La Secretaría de Educación del estado de Guanajuato en un plazo de ciento ochenta días, contados a partir del inicio de vigencia del presente Decreto, deberá emitir las disposiciones para la regulación del uso de dispositivos de telefonía celular y tecnologías de la información dentro del entorno escolar.
