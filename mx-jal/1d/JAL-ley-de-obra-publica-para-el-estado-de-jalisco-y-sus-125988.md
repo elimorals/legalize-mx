@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-obra-publica-para-el-estado-de-jalisco-y-sus-125988"
 country: "mx"
 rank: "ley"
 publication_date: "2018-01-30"
-last_updated: "2021-09-09"
+last_updated: "2026-05-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=125988&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "JAL"
 
 LEY DE OBRA PÚBLICA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE SEPTIEMBRE DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE MAYO DE 2026.
 
 Ley publicada en el Número 42 Sección III del Periódico Oficial del Estado de Jalisco, el martes 30 de enero de 2018.
 
@@ -337,11 +337,15 @@ V. Mixtos, cuando contengan una parte de la obra sobre la base de precios unitar
 
 5. Los proyectos integrales pueden contratarse a precio alzado excepcionalmente cuando lo determine la Secretaría o el ente público.
 
+> <small>(REFORMADO SU ACÁPITE [N. DE E. REPUBLICADO], P.O. 14 DE MAYO DE 2026)</small>
+
 ###### Artículo 16.
 
 Supletoriedad, interpretación y controversias.
 
-1. Serán supletorias de esta Ley el Código Civil para el Estado de Jalisco, la Ley del Procedimiento Administrativo del Estado de Jalisco y el Código de Procedimientos Civiles para el Estado de Jalisco, y la Ley del Sistema Anticorrupción del Estado de Jalisco.
+> <small>(REFORMADO, P.O. 14 DE MAYO DE 2026)</small>
+
+1. Serán supletorias de esta Ley el Código Civil para el Estado de Jalisco, la Ley del Procedimiento Administrativo del Estado de Jalisco, la Ley del Sistema Anticorrupción del Estado de Jalisco y el Código Nacional de Procedimientos Civiles y Familiares.
 
 2. La Secretaría estará facultada para interpretar esta Ley para efectos administrativos.
 
@@ -3262,3 +3266,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se otorga un plazo de 365 días hábiles al poder ejecutivo para que realice todas las adecuaciones y armonizaciones en sus normativas reglamentarias de cada una de las entidades que se regulan por las legislaciones reformadas en el presente.
 
 TERCERO. Conforme a lo establecido en el artículo 3.° fracción VII de la Constitución Política de los Estados Unidos Mexicanos, así como, al artículo 2.° De la Ley General de Educación Superior y respetando la autonomía de la Universidad de Guadalajara, se solicita a la Presidencia de la Mesa Directiva para que se gire comunicación institucional con el Rector General de la Universidad de Guadalajara, en su carácter de Presidente del Consejo General, para que realice la consulta previa, libre e informada a su comunidad universitaria, a los órganos de gobierno competentes de la universidad o institución de educación superior y envíe la respuesta explícita de su máximo órgano de gobierno colegiado, a fin de poder anexar dicha respuesta al presente dictamen, el presente dictamen será votado en la sesión que sea agendado dentro de los plazos y términos que corresponden en su (sic) la Ley Orgánica del Poder Legislativo.
+
+P.O. 14 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 30144/LXIV /26 DEL CONGRESO DEL ESTADO QUE REFORMA LOS ARTÍCULOS 16 DE LA LEY DE OBRA PÚBLICA PARA EL ESTADO DE JALISCO Y SUS MUNICIPIOS, 96 DE LA LEY DE VIVIENDA DEL ESTADO DE JALISCO, ASÍ COMO 366 Y 379 DEL CÓDIGO URBANO PARA EL ESTADO DE JALISCO, CON EL PROPÓSITO DE ESTABLECER CLARAMENTE LA REGLA DE SUPLETORIEDAD DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS CIVILES Y FAMILIARES EN CADA UNO DE LOS ORDENAMIENTOS LEGALES REFORMADOS”.]
+
+ÚNICO. El presente Decreto entrará en vigor de conformidad con la declaratoria de incorporación del Código Nacional de Procedimientos Civiles y Familiares al orden jurídico del Estado de Jalisco que al efecto emita el Congreso del Estado de Jalisco, previa su publicación en el Periódico Oficial "El Estado de Jalisco".
