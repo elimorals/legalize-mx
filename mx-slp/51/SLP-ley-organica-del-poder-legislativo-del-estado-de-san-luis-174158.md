@@ -4,7 +4,7 @@ identifier: "SLP-ley-organica-del-poder-legislativo-del-estado-de-san-luis-17415
 country: "mx"
 rank: "ley_organica"
 publication_date: "2024-08-21"
-last_updated: "2026-03-17"
+last_updated: "2026-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=174158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2026.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el miércoles 21 de agosto de 2024.
 
@@ -1401,17 +1401,23 @@ VIII. Los análogos a los anteriores que, a juicio de la Presidencia de la Direc
 
 Son atribuciones de la Comisión de Igualdad de Género, conocer, dictaminar, emitir opinión, atender o resolver en su caso:
 
-I. Los asuntos relacionados con los derechos de las mujeres en el Estado;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
+
+I. Los asuntos relacionados con los derechos humanos de las mujeres; la prevención, atención, sanción y eliminación de la discriminación y violencia contra las mujeres y géneros divergentes; el empoderamiento y desarrollo sostenible de las mujeres; la eliminación de los roles y estereotipos de género; la transversalización de la perspectiva de género; y los demás asuntos en materia de igualdad entre hombres y mujeres;
 
 II. Los tocantes a fungir como enlace con las asociaciones y organizaciones de mujeres en el Estado, cuando resulte necesario para el estudio y aclaración de los asuntos que le competen;
 
-III. Los relativos a la propuesta al Pleno de la convocatoria, y organización el Parlamento de las Mujeres del Estado de San Luis Potosí, que se realizará anualmente y que deberá garantizar la representación de las mujeres integrantes de pueblos y comunidades indígenas, así como con discapacidad;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
+
+III. Los relativos a la propuesta al Pleno de la convocatoria, y organización el Parlamento de las Mujeres del Estado de San Luis Potosí, que se realizará anualmente y que deberá garantizar la representación de las mujeres integrantes de pueblos y comunidades indígenas y afrodescendientes, así como con discapacidad;
 
 IV. La redacción anual de la convocatoria, revisión y dictaminación respecto de las propuestas que se presenten, y someter al Pleno el otorgamiento del Reconocimiento “Matilde Cabrera Ipiña”, que deberá observar las siguientes bases:
 
 a) Se entregará este reconocimiento, preferentemente, el ocho de marzo de cada año.
 
-b) Se entregará en vida, a mujeres destacadas que han contribuido en la consecución de una sociedad paritaria, o han realizado aportaciones importantes a la vida política, económica o social del Estado.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2026)</small>
+
+b) Se entregará en vida, a mujeres destacadas que han contribuido en la consecución de una sociedad igualitaria, o han realizado aportaciones importantes a la vida política, económica o social del Estado.
 
 c) Se precisará la metodología aplicada para la elección de la mujer que se reconozca;
 
@@ -2028,3 +2034,9 @@ P.O. 17 DE MARZO DE 2026.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO 0488.- SE REFORMA EL ARTÍCULO 44, DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ”.]
 
 ÚNICO. El presente Decreto entrará en vigor el día de su publicación del el (sic) Periódico Oficial del Estado “Plan de San Luis”.
+
+P.O. 15 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 0532.- QUE REFORMA EL ARTÍCULO 109 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SAN LUIS POTOSÍ; REFORMA Y ADICIONA AL ARTÍCULO 187 DEL REGLAMENTO DEL CONGRESO DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+ÚNICO. El presente Decreto entrará en vigor el día de su publicación del el Periódico Oficial del Estado “Plan de San Luis”.
