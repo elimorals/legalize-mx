@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2026-05-04"
+last_updated: "2026-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 4 DE MAYO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE MAYO DE 2026.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -795,6 +795,10 @@ La violación a estas disposiciones será sancionada conforme a la ley.
 
 El Poder Legislativo se deposita en una asamblea denominada Congreso del Estado.
 
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2026)</small>
+
+En la integración y funcionamiento del Congreso del Estado deberán observarse los principios de paridad, igualdad sustantiva y perspectiva de género.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 29 DE JULIO DE 2019)</small>
 
 ###### Artículo 21.
@@ -1158,6 +1162,10 @@ Los poderes Legislativo, Ejecutivo y Judicial, así como los organismos autónom
 Este presupuesto considerará igualmente las partidas necesarias para el desarrollo de las funciones de los organismos autónomos de estado, debiendo éstos rendir cuentas anualmente al Congreso del Estado acerca de su ejercicio.
 
 Si al 31 de diciembre no se ha aprobado el presupuesto de egresos para el año siguiente, el gasto público a ejercer en dicho período se limitará a cubrir las partidas correspondientes a las remuneraciones de los servidores públicos y al gasto corriente de los servicios de salud, educación, seguridad pública, procuración e impartición de justicia, funcionamiento del Poder Legislativo, así como para los organismos autónomos de estado, para lo cual se ejercerá en cada mes una doceava parte del último presupuesto aprobado, en tanto se aprueba el nuevo.
+
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2026)</small>
+
+El presupuesto anual del Congreso del Estado no podrá exceder del cero punto setenta por ciento del Presupuesto de Egresos del Estado aprobado para el ejercicio fiscal correspondiente.
 
 > <small>(REFORMADA, G.O. 2 DE OCTUBRE DE 2017)</small>
 
@@ -2161,6 +2169,10 @@ Las autoridades estatales y municipales están obligadas a coadyuvar en todo aqu
 
 Las leyes establecerán los procedimientos y sanciones en materia electoral que corresponda aplicar a los organismos electorales locales.
 
+> <small>(ADICIONADO, G.O. 15 DE MAYO DE 2026)</small>
+
+Las remuneraciones de las personas consejeras electorales, las magistradas y magistrados electorales, titulares de las secretarías de órganos administrativos y titulares de áreas ejecutivas y técnicas u homólogos del Organismo Público Local Electoral y del Tribunal Electoral de Veracruz, no excederán el límite establecido en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos y no podrán adquirir o contratar con recursos públicos seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones que no estén previstas por la ley, decreto, disposición general, contrato colectivo o condiciones generales de trabajo.
+
 (REUBICADO [N. DE E. ANTES CAPÍTULO V], G.O. 9 DE ENERO DE 2015)
 
 ### CAPÍTULO VI. DE LOS ORGANISMOS AUTÓNOMOS DEL ESTADO
@@ -2455,11 +2467,13 @@ Derivado de este informe, podrá emitir recomendaciones no vinculantes a las aut
 
 ### CAPÍTULO I. DEL MUNICIPIO
 
-> <small>(REFORMADO, G.O. 11 DE MAYO DE 2020)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE MAYO DE 2026)</small>
 
 ###### Artículo 68.
 
-Cada municipio será gobernado por un Ayuntamiento de elección popular, libre, directa y secreta, integrado por una presidenta o presidente, una síndica o síndico y los demás ediles que determine el Congreso, de conformidad con el principio de paridad de género y no habrá autoridad intermedia entre éste y el Gobierno del Estado. Sólo los ayuntamientos, o en su caso, los concejos municipales, podrán ejercer las facultades que esta Constitución les confiere.
+Cada municipio será gobernado por un Ayuntamiento de elección popular, libre, directa y secreta, integrado por una presidenta o presidente, una síndica o síndico y hasta quince regidurías, de conformidad con los principios de paridad de género en sus vertientes vertical y horizontal, igualdad sustantiva y perspectiva de género, y no habrá autoridad intermedia entre éste y el Gobierno del Estado. Sólo los ayuntamientos, o en su caso, los concejos municipales, podrán ejercer las facultades que esta Constitución les confiere.
+
+> <small>(REFORMADO, G.O. 11 DE MAYO DE 2020)</small>
 
 En la elección de los ayuntamientos, el partido político o la candidatura independiente que alcance mayor número de votos obtendrán la presidencia y la sindicatura. Las regidurías serán asignadas a cada partido y a la candidatura independiente, incluyendo a aquel que obtuvo la mayor votación, de acuerdo con el principio de representación proporcional, en los términos que señale la legislación del Estado. Los agentes y subagentes municipales se elegirán de acuerdo con lo establecido por esta Constitución y la Ley Orgánica del Municipio Libre, la que señalará sus atribuciones y responsabilidades.
 
@@ -4596,3 +4610,23 @@ G.O. 4 DE MAYO DE 2026.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 15 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 510 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado de Veracruz, órgano del Gobierno del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
+
+TERCERO. El Organismo Público Local Electoral y el Tribunal Electoral de Veracruz revisarán y adecuarán sus disposiciones normativas, administrativas y presupuestarias para garantizar el cumplimiento del presente Decreto.
+
+CUARTO. De conformidad con lo establecido en el segundo párrafo del artículo Sexto Transitorio del Decreto por el que se reforman los artículos 115, fracción I, párrafo primero, y 116, fracción II, párrafo segundo, y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos, publicado el veintitrés de abril de dos mil veintiséis en el Diario Oficial de la Federación, los ayuntamientos que, a la entrada en vigor del presente Decreto, cuenten con un número de regidurías menor a quince, conservarán su integración actual; únicamente en los casos en que resulte procedente la modificación de la integración de los ayuntamientos, derivado de variaciones poblacionales u otros requisitos, se realizará conforme a lo establecido en esta Constitución y en la ley.
+
+QUINTO. Los recursos públicos que resulten como economías o ahorros derivados de la aplicación del presente Decreto permanecerán en la hacienda pública correspondiente y, respetando las autonomías hacendarias, se destinarán a obras de infraestructura pública en beneficio de la población, en los términos de la legislación aplicable, garantizando en todo momento los principios de legalidad, honradez, transparencia y austeridad en el ejercicio del gasto público.
+
+SEXTO. En cumplimiento de lo previsto por el artículo Octavo Transitorio del Decreto por el que se reforman los artículos 115, fracción I, párrafo primero, y 116, fracción II, párrafo segundo, y se adiciona al artículo 134, un párrafo cuarto, recorriéndose los subsecuentes en su orden, de la Constitución Política de los Estados Unidos Mexicanos, publicado el veintitrés de abril de dos mil veintiséis en el Diario Oficial de la Federación, el presupuesto anual del Congreso del Estado de Veracruz de Ignacio de la Llave no podrá autorizarse, aprobarse ni ejercerse en términos que impliquen incrementos presupuestarios reales respecto del monto aprobado para el ejercicio fiscal dos mil veintiséis, ni podrá incrementar la proporción que represente respecto del Presupuesto de Egresos del Estado en los ejercicios fiscales subsecuentes; en consecuencia, dicho presupuesto únicamente podrá actualizarse conforme a la inflación anual.
+
+Quedan expresamente prohibidas las ampliaciones presupuestarias, transferencias, reasignaciones, adecuaciones presupuestarias, reclasificaciones administrativas y cualquier otro mecanismo que tenga por objeto o por efecto incrementar directamente el presupuesto del Congreso del Estado por encima del límite previsto en el último párrafo de la fracción XXVIII del artículo 33 de esta Constitución y en el presente artículo transitorio.
+
+Cualquier disposición, determinación presupuestaria o acto de autoridad que contravenga lo establecido en el presente transitorio será nulo de pleno derecho.
