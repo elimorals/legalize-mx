@@ -4,7 +4,7 @@ identifier: "GRO-ley-numero-464-de-educacion-del-estado-libre-y-soberano-de-1447
 country: "mx"
 rank: "ley"
 publication_date: "2020-10-23"
-last_updated: "2026-02-13"
+last_updated: "2026-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY NÚMERO 464 DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE GUERRERO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2026.
 
 Ley publicada en el Alcance I del Periódico Oficial del Estado de Guerrero, el viernes 23 de octubre de 2020.
 
@@ -101,7 +101,9 @@ Para el cumplimiento de los fines y criterios previstos en esta Ley y de conform
 
 Toda persona tiene derecho a la educación, como medio para adquirir, actualizar, completar y ampliar sus conocimientos, capacidades, habilidades y aptitudes que le permitan alcanzar su desarrollo personal y profesional; así como también el de aprender el idioma Inglés como Lengua Extranjera, como consecuencia de ello, contribuir a su bienestar, a la transformación y el mejoramiento de la sociedad de la que forma parte; con el ejercicio de este derecho, inicia un proceso permanente centrado en el aprendizaje del educando y su formación integral para la vida, con un sentido de pertenencia basado en el respeto de la diversidad para la construcción de una sociedad equitativa y solidaria.
 
-La autoridad educativa estatal ofrecerá a las personas las mismas oportunidades de aprendizaje, en igualdad, perspectiva y equidad de género, así como de acceso, tránsito, permanencia, avance académico y, en su caso, egreso oportuno en el Sistema Educativo Estatal, con sólo satisfacer los requisitos que establezcan las instituciones educativas con base en las disposiciones aplicables.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2026)</small>
+
+La autoridad educativa estatal ofrecerá a las personas las mismas oportunidades de aprendizaje en igualdad, perspectiva y equidad de género, así como de acceso, tránsito, permanencia, avance académico y, en su caso, egreso oportuno en el Sistema Educativo Estatal, con solo satisfacer los requisitos que establezcan las instituciones educativas, con base en las disposiciones aplicables, asimismo deberá verificar y en su caso, emitir opinión a la Autoridad educativa federal para que, en los planes, programas y proyectos educativos de todos los niveles, se incorpore de manera transversal la perspectiva de género, promoviendo la eliminación de estereotipos y la prevención de cualquier forma de discriminación y violencia.
 
 ###### Artículo 8.
 
@@ -165,7 +167,9 @@ b) Eliminará las distintas barreras al aprendizaje y a la participación que en
 
 c) Proveerá de los recursos técnicos-pedagógicos y materiales necesarios para los servicios educativos, y
 
-d) Establecerá la educación especial disponible para todos los tipos, niveles, modalidades y opciones educativas, la cual se proporcionará en condiciones necesarias, a partir de la decisión y previa valoración de los educandos, madres y padres de familia, tutoras o tutores, personal docente y, en su caso, por su condición de salud.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2026)</small>
+
+d) Establecerá la educación especial disponible para todos los tipos, niveles, modalidades y opciones educativas, la cual se proporcionará en condiciones necesarias dentro de las escuelas regulares, asegurando que los estudiantes con discapacidad o necesidades educativas especiales permanezcan en el aula común, con los apoyos técnicos, humanos y pedagógicos necesarios.
 
 e) Promoverá la educación libre de estereotipos, con la finalidad de eliminar cualquier tipo de violencia, en especial hacia la mujer, que permitan la Erradicación de la Violencia de Género.
 
@@ -209,7 +213,9 @@ VII. Promover la comprensión, el aprecio, el conocimiento y enseñanza de la pl
 
 VIII. Inculcar el respeto por la naturaleza, sus especies tanto animales como vegetales, a través de la generación de capacidades y habilidades que aseguren el manejo integral, la conservación y el aprovechamiento de los recursos naturales, el desarrollo sostenible y la resiliencia frente al cambio climático;
 
-IX. Fomentar la honestidad, el civismo y los valores necesarios para transformar la vida pública del Estado, y
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
+
+IX. Fomentar la honestidad, el civismo y los valores necesarios para transformar la vida pública en el Estado, y
 
 X. Todos aquellos que contribuyan al bienestar y desarrollo nacional y estatal.
 
@@ -303,7 +309,9 @@ IV. Opciones educativas: Las que se determinen para cada nivel educativo en los 
 
 Además de lo anterior, se consideran parte del Sistema Educativo Estatal la formación para el trabajo, la educación para personas adultas, la educación física, la educación artística y la educación tecnológica y la enseñanza del idioma Inglés.
 
-La educación especial buscará la equidad y la inclusión, la cual deberá estar disponible para todos los tipos, niveles, modalidades y opciones educativas establecidas en esta Ley.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2026)</small>
+
+La educación especial buscará la equidad y la inclusión, la cual deberá estar disponible para todos los tipos, niveles, modalidades y opciones educativas establecidas en esta Ley, debiendo evitar que sea una modalidad segregada o adicional.
 
 > <small>(REFORMADO, P.O. 8 DE JULIO DE 2025)</small>
 
@@ -957,7 +965,9 @@ Las cooperativas que funcionen con la participación de la comunidad educativa f
 
 En la impartición de educación para los educandos menores de dieciocho años, las autoridades educativas en coordinación con otras áreas de gobierno, tomará (sic) medidas que aseguren a los educandos la protección y el cuidado necesarios para preservar su integridad física, psicológica y social sobre la base del respeto a su dignidad y derechos, y que la aplicación de la disciplina escolar sea compatible con su edad, de conformidad con los lineamientos que para tal efecto se establezcan, así como de derechos humanos.
 
-Las maestras y maestros y, el personal que labora en los planteles de educación, deberán ser capacitados para tomar las medidas que aseguren la protección, el cuidado de los educandos y en conciencia de la corresponsabilidad de la encomienda de su custodia, así como, protegerles contra toda forma de maltrato físico, psicológico, violencia, perjuicio, daño, agresión, abuso, trata o explotación sexual o laboral.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2026)</small>
+
+Las maestras y maestros y, el personal que labora en los planteles de educación, deberán ser capacitados para tomar las medidas que aseguren la protección, el cuidado de los educandos y en conciencia de la corresponsabilidad de la encomienda de su custodia, así como protegerles contra toda forma o comportamiento de intención, repetición y poder que conlleve al maltrato físico, psicológico, violencia, perjuicio, daño, agresión, abuso, trata o explotación sexual o laboral.
 
 Las maestras y maestros, el personal que labora en los planteles educativos y las autoridades educativas estatal y municipal, en caso de que tengan conocimiento de la comisión de algún hecho que la ley señale como delito en agravio de uno o más educandos, deberán de manera inmediata hacerlo del conocimiento de la autoridad correspondiente.
 
@@ -996,6 +1006,26 @@ X. Restringir el uso de teléfonos celulares, tabletas electrónicas o cualquier
 > <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2026)</small>
 
 XI. Las autoridades educativas fomentarán las artes, el deporte y la cultura, por lo que queda prohibido en las instituciones educativas del Estado la reproducción de música, imágenes y videos que promuevan la hipersexualización de la infancia y la apología del delito.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2026)</small>
+
+###### Artículo 82 Bis.
+
+Será la Secretaría de Educación Guerrero y las instituciones escolares públicas y privadas, quienes deberán implementar políticas públicas, protocolos y programas permanentes para la prevención, detección, atención y erradicación del acoso escolar en todos los niveles educativos.
+
+A fin de dar cumplimiento a este artículo, entre otras, deberán realizar las siguientes acciones:
+
+I. Promover campañas de sensibilización dirigidas a estudiantes, madres, padres, tutoras, tutores y personal docente sobre las consecuencias del acoso escolar y la importancia del respeto, la empatía y la convivencia pacífica;
+
+II. Establecer, o en su caso actualizar los protocolos de actuación obligatorios para la atención inmediata de casos de acoso escolar, garantizando la confidencialidad y protección de datos personales de las víctimas;
+
+III. Capacitar de manera continua al personal docente, directivo, administrativo y de apoyo en la detección temprana y mediación de conflictos escolares;
+
+IV. Coordinarse con las autoridades competentes en materia de derechos humanos, seguridad pública y protección de niñas, niños y adolescentes, para la atención integral de los casos;
+
+V. Promover la participación estudiantil en actividades que fomenten la cultura de la paz, el respeto y la no violencia.
+
+La Secretaría de Educación Guerrero elaborará un protocolo estatal para la prevención y atención del acoso escolar, mismo que deberá ser adoptado por todos los planteles educativos del Sistema Educativo Estatal.
 
 ###### Artículo 83.
 
@@ -1974,3 +2004,19 @@ P.O. 13 DE FEBRERO DE 2026.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
 
 SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado, en la Gaceta del Congreso del Estado, para los efectos legales conducentes y conocimiento general.
+
+P.O. 15 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 513 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY NÚMERO 464 DE EDUCACIÓN DEL ESTADO LIBRE Y SOBERANO DE GUERRERO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guerrero.
+
+###### ARTÍCULO SEGUNDO.
+
+Túrnese el presente Decreto a la titular del Poder Ejecutivo del Estado Libre y Soberano de Guerrero para los efectos legales conducentes.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese el presente Decreto en la Gaceta Parlamentaria de este Órgano Legislativo.
