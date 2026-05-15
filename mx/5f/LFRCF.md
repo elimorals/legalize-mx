@@ -4,7 +4,7 @@ identifier: "LFRCF"
 country: "mx"
 rank: "ley"
 publication_date: "2016-07-18"
-last_updated: "2026-05-14"
+last_updated: "2026-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=115699&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,11 +20,11 @@ abbreviation: "LFRCF"
 ---
 # LEY DE FISCALIZACION Y RENDICION DE CUENTAS DE LA FEDERACION
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE MAYO DE 2026 EN EL D.O.F. SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS DE LA FEDERACIÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MAYO DE 2026.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 15 DE MAYO DE 2026.]</small>
 
 Ley publicada en la Edición Vespertina del Diario Oficial de la Federación, el lunes 18 de julio de 2016.
 
@@ -820,11 +820,11 @@ La Auditoría Superior de la Federación tendrá las atribuciones señaladas en 
 
 La Auditoría Superior de la Federación, deberá reportar en los informes correspondientes en los términos del artículo 38 de esta Ley, el estado que guarden las observaciones, detallando las acciones relativas a dichas auditorías, así como la relación que contenga la totalidad de denuncias recibidas.
 
-> <small>(REFORMADO, D.O.F. 14 DE MAYO DE 2026)</small>
+(REFORMADO, D.O.F. 14 DE MAYO DE 2026) (F. DE E., D.O.F. 15 DE MAYO DE 2026)
 
 ###### Artículo 65.
 
-De la revisión efectuada al ejercicio fiscal en curso o a los ejercicios anteriores, la Auditoria Superior de la Federación rendirá un informe a la Cámara, a más tardar a los 20 días hábiles posteriores a la conclusión de la auditoria. Asimismo, promoverá las acciones que, en su caso, correspondan para el financiamiento de las responsabilidades administrativas, penales y políticas a que haya lugar, conforme lo establecido en esta Ley y demás legislación aplicable.
+De la revisión efectuada al ejercicio fiscal en curso o a los ejercicios anteriores, la Auditoría Superior de la Federación rendirá un informe a la Cámara, a más tardar a los 20 días hábiles posteriores a la conclusión de la auditoría. Asimismo, promoverá las acciones que, en su caso, correspondan para el fincamiento de las responsabilidades administrativas, penales y políticas a que haya lugar, conforme lo establecido en esta Ley y demás legislación aplicable.
 
 ###### Artículo 66.
 
