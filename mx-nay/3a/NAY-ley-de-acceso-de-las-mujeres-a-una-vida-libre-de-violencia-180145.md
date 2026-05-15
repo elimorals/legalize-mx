@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-1801
 country: "mx"
 rank: "ley"
 publication_date: "2025-05-22"
-last_updated: "2026-03-06"
+last_updated: "2026-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=180145&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NAY"
 ---
 # LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT
 
-LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT
+LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIAS PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2026.
 
 Ley publicada en la Sección Cuarta del Número 86 del Periódico Oficial del Estado de Nayarit, el jueves 22 de mayo de 2025.
 
@@ -41,21 +41,27 @@ Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Nay
 
 ÚNICO.- Se expide la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Nayarit, para quedar como sigue:
 
-LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE MAYO DE 2026)</small>
+
+LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIAS PARA EL ESTADO DE NAYARIT.
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2026)</small>
+
 ###### Artículo 1.
 
-La presente Ley tiene por objeto establecer los principios, criterios y mecanismos que, desde la perspectiva de género, orienten las políticas públicas destinadas a reconocer, promover, proteger y garantizar el derecho de las mujeres, adolescentes y niñas a una vida libre de violencia. Asimismo, tiene como finalidad definir los deberes reforzados del Estado para prevenir, atender, sancionar y erradicar la violencia contra ellas, y asegurar el pleno goce y ejercicio de sus derechos humanos.
+La presente Ley tiene por objeto establecer los principios, criterios y mecanismos que, desde la perspectiva de género, orienten las políticas públicas destinadas a reconocer, promover, proteger y garantizar el derecho de las mujeres, adolescentes y niñas a una vida libre de violencias. Asimismo, tiene como finalidad definir los deberes reforzados del Estado para prevenir, atender, sancionar y erradicar las violencias contra ellas, y asegurar el pleno goce y ejercicio de sus derechos humanos.
 
 Sus disposiciones son de orden público, interés social y de observancia general en el Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2026)</small>
+
 ###### Artículo 2.
 
-El Estado y los Municipios deberán implementar acciones presupuestales y administrativas extraordinarias, suficientes y eficaces para dar cumplimiento a la Alerta de Violencia de Género contra las Mujeres.
+El Estado y los Municipios en el ámbito de sus respectivas competencias expedirán las normas legales y tomarán las medidas presupuestales y administrativas correspondientes, suficientes y eficaces para para (sic) dar cumplimiento a la Alerta de Violencia de Género contra las Mujeres y garantizar el derecho de las mujeres a una vida libre de violencias, a través de acciones reforzadas de protección de conformidad con los Tratados Internacionales en Materia de Derechos Humanos de las Mujeres, ratificados por el Estado mexicano.
 
 Los Municipios, en el ámbito de sus respectivas competencias, deberán expedir las disposiciones legales necesarias y adoptar las medidas presupuestales y administrativas que garanticen el derecho de las mujeres, adolescentes y niñas a una vida libre de violencia.
 
@@ -63,33 +69,49 @@ El Estado deberá contar con una fiscalía especializada para la atención de de
 
 Con el fin de garantizar el derecho a una vida libre de violencia, las autoridades administrativas estatales y municipales según sea el caso, la Fiscalía General del Estado y el Poder Judicial Estatal deberán integrar, procesar y actualizar la información para el Registro Nacional de Medidas u Órdenes de Protección para Mujeres, Adolescentes, Niñas y Niños, en términos de lo previsto en la Ley General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2026)</small>
+
 ###### Artículo 3.
 
-Todos los mecanismos, medidas, disposiciones y protocolos que se deriven o implementen en virtud de la presente Ley deberán garantizar la prevención, atención, sanción y erradicación de todos los tipos y modalidades de violencia contra las mujeres.
+Todos los mecanismos, medidas, disposiciones y protocolos que se deriven o implementen en virtud de la presente Ley deberán garantizar la prevención, atención, sanción y erradicación de todos los tipos y modalidades de violencias contra las mujeres, durante su ciclo de vida para promover su desarrollo integral y su plena participación en todas las esferas de la vida.
 
 La Administración Pública Estatal y Municipal, los Órganos Autónomos, los Órganos de Procuración y Administración de Justicia, así como el Congreso del Estado, deberán, en el ámbito de sus respectivas competencias, elaborar y suscribir protocolos de actuación, así como convenios de colaboración, coordinación y concertación en materia de discriminación y violencia de género, conforme a los principios establecidos en esta Ley.
 
 Las autoridades deberán publicar y difundir los protocolos, con el objetivo de informar a las mujeres, tanto a quienes laboran en los centros de trabajo como a quienes acuden a realizar trámites o recibir servicios públicos. Asimismo, deberán procurar la actualización constante y la adhesión a convenios y protocolos ya existentes.
 
-Esta Ley garantiza a toda mujer, sin distinción de clase, raza, grupo étnico, orientación sexual, cultura, educación, edad o religión, el reconocimiento y ejercicio pleno de los derechos inherentes a la persona humana, asegurando las oportunidades y condiciones necesarias para vivir una vida libre de violencia, preservar su intimidad, y proteger su salud física y mental.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2026)</small>
+
+Esta Ley garantiza a toda mujer, sin distinción de clase, raza, grupo étnico, orientación sexual, cultura, educación, edad o religión, el reconocimiento y ejercicio pleno de los derechos inherentes a la persona humana, asegurando las oportunidades y condiciones necesarias para vivir una vida libre de violencias, preservar su intimidad, y proteger su salud física y mental.
 
 El presente ordenamiento deberá interpretarse de conformidad con los derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Nayarit, así como en los tratados y convenciones internacionales en materia de derechos humanos de las mujeres suscritos y ratificados por México.
 
-La aplicación, vigilancia y cumplimiento de esta Ley corresponderá al Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres del Estado de Nayarit.
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2026)</small>
+
+La aplicación, vigilancia y cumplimiento de esta Ley corresponderá al Sistema Estatal de Prevención, Atención, Sanción y Erradicación de las Violencias contra las Mujeres del Estado de Nayarit.
 
 ###### Artículo 4.
 
 Para los efectos de la presente Ley se entenderá por:
 
-I. Agresor o Persona Agresora. La persona que inflige cualquier tipo de violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
 
-II. Alerta de Violencia de Género. La declaratoria emitida en términos de la Ley General, cuyo objeto fundamental es enfrentar y erradicar la violencia feminicida en un territorio determinado; así como para eliminar el agravio comparado, resultado de las desigualdades producidas por ordenamientos jurídicos o políticas públicas que impiden el reconocimiento o ejercicio de los derechos humanos de las mujeres, adolescentes y niñas, a fin de garantizar su pleno acceso al derecho a una vida libre de violencia;
+I. Agresor o Persona Agresora. La persona que inflige cualquier tipo o modalidad de violencias contra las mujeres;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
+
+II. Alerta de Violencia de Género. La declaratoria emitida en términos de la Ley General, cuyo objeto fundamental es enfrentar y erradicar la violencia feminicida en un territorio determinado; así como para eliminar el agravio comparado, resultado de las desigualdades producidas por ordenamientos jurídicos o políticas públicas que impiden el reconocimiento o ejercicio de los derechos humanos de las mujeres, adolescentes y niñas, a fin de garantizar su pleno acceso al derecho a una vida libre de violencias;
 
 III. Centro de Justicia para la Mujer. Son espacios multidisciplinarios e interinstitucionales que brindan, de manera gratuita, atención integral a mujeres víctimas de violencia de género, así como a sus hijas e hijos menores de edad, desde las perspectivas de género, derechos humanos, intercultural, diferencial e interseccional, mediante la prestación de servicios en un mismo lugar, con la finalidad de promover y garantizar su acceso a la justicia, el ejercicio pleno de sus derechos humanos y su empoderamiento;
 
 IV. Daño. Es la afectación o menoscabo que recibe una persona en su integridad física, psicoemocional o patrimonial, como consecuencia de la violencia de género;
 
-V. Debida diligencia. La obligación de las personas servidoras públicas de prevenir, atender, investigar y sancionar la violencia contra las mujeres de manera oficiosa, oportuna, competente, independiente, imparcial, exhaustiva y garantizando la participación individual y colectiva de las mujeres, para garantizar el derecho a una vida libre de violencia, a la verdad, la justicia y la reparación integral y transformadora;
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2026)</small>
+
+IV. Bis. Deberes reforzados de protección del Estado hacia mujeres, adolescentes y niñas. Obligación constitucional prevista en el artículo 7 fracción XIII, numeral 3, de la Constitución Política del Estado Libre y Soberano de Nayarit, que establece el deber de todas las autoridades de adoptar acciones reforzadas para garantizar el derecho de las mujeres, adolescentes, niñas y niños a una vida libre de violencias. Esta obligación implica la aplicación más amplia de medidas orientadas a salvaguardar la vida, integridad, libertad y seguridad personales, bienestar físico y mental, así como el respeto a su dignidad y autonomía;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
+
+V. Debida diligencia. La obligación de las personas servidoras públicas de prevenir, atender, investigar y sancionar las violencias contra las mujeres de manera oficiosa, oportuna, competente, independiente, imparcial, exhaustiva y garantizando la participación individual y colectiva de las mujeres, para garantizar el derecho a una vida libre de violencias, a la verdad, la justicia y la reparación integral y transformadora;
 
 VI. Derechos Humanos de las Mujeres. Los establecidos en la Constitución General, las leyes nacionales, así como los derechos inalienables e imprescriptibles consagrados en las convenciones e instrumentos internacionales en materia de discriminación y violencia de género;
 
@@ -111,13 +133,19 @@ XIV. Interseccionalidad. Herramienta analítica para estudiar, entender y respon
 
 XV. Las órdenes de protección. Son las resoluciones de la autoridad administrativa, ministerial o jurisdiccional que contienen las medidas de protección en favor de la mujer, niña y/o víctimas indirectas;
 
-XVI. Ley. La Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Nayarit;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
+
+XVI. Ley. La Ley de Acceso de las Mujeres a una Vida Libre de Violencias para el Estado de Nayarit;
 
 XVII. Ley Federal. La Ley Federal para Prevenir y Eliminar la Discriminación;
 
-XVIII. Ley General. Ley General de Acceso de las Mujeres a una Vida Libre de Violencia;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
 
-XIX. Modalidades de la Violencia. Las formas, manifestaciones o los ámbitos de ocurrencia en que se puede presentar la violencia contra la mujer;
+XVIII. Ley General. Ley General de Acceso de las Mujeres a una Vida Libre de Violencias;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
+
+XIX. Modalidades de las Violencias. Las formas, manifestaciones o los ámbitos de ocurrencia en que se presentan las violencias contra las mujeres;
 
 XX. Modelo. La representación conceptual o física de un proceso o sistema para analizar un elemento o fenómeno social determinado, en un momento concreto;
 
@@ -125,9 +153,13 @@ XXI. Medidas u órdenes de Protección. Son actos de protección y urgente aplic
 
 XXII. Muertes evitables. Conjunto de muertes que no deberían haber ocurrido en presencia de servicios de salud eficaces, con exámenes rutinarios para la detección temprana y tratamientos adecuados;
 
-XXIII. Perspectiva de Género. Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
 
-XXIV. Programa Estatal. Al Programa Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las mujeres del Estado de Nayarit;
+XXIII. Perspectiva de Género. Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad sustantiva, el derecho a una vida libre de violencias, entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
+
+XXIV. Programa Estatal. Al Programa Estatal de Prevención, Atención, Sanción y Erradicación de las Violencias contra las Mujeres del Estado de Nayarit;
 
 XXV. Protocolo. Documento que describe los lineamientos y procedimientos de prevención y atención a las mujeres en materia de discriminación y violencia de género de acuerdo a los principios que esta Ley señala; dicho documento es elaborado o suscrito por la Administración Pública Estatal, Municipal, los Órganos Autónomos, los Órganos de Procuración y Administración de Justicia, el Congreso del Estado y demás entes que la Ley señale;
 
@@ -135,25 +167,39 @@ XXVI. Registro Nacional. El Registro Nacional de Medidas u Órdenes de Protecci�
 
 XXVII. Relación afectiva o de hecho. Aquella en la que se comparte una relación íntima sin convivencia ni vínculo matrimonial o concubinato;
 
-XXVIII. Sistema Estatal. Sistema Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres del Estado de Nayarit;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
 
-XXIX. Sistema Nacional. Sistema Nacional de Prevención, Atención, Sanción y Erradicación de la Violencia contra las Mujeres;
+XXVIII. Sistema Estatal. Sistema Estatal de Prevención, Atención, Sanción y Erradicación de las Violencias contra las Mujeres del Estado de Nayarit;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
+
+XXIX. Sistema Nacional. Sistema Nacional de Prevención, Atención, Sanción y Erradicación de las Violencias contra las Mujeres;
 
 XXX. Tecnologías de la Información y la Comunicación. Serán aquellos recursos, herramientas y programas que se utilizan para procesar, administrar y compartir la información mediante diversos soportes tecnológicos;
 
-XXXI. Tipos de Violencia. Las formas en que pueden presentarse cualquiera de las modalidades de la violencia de género;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
+
+XXXI. Tipos de Violencias. Las formas en que pueden presentarse cualquiera de las modalidades de las violencias de género;
 
 XXXII. Tolerancia de la Violencia. La acción u omisión permisiva de la sociedad o de las instituciones que favorecen la existencia o permanencia de la violencia, incrementando la prevalencia de la discriminación y violencia de género;
 
-XXXIII. Violencia contra las Mujeres. Cualquier acción u omisión, basada en su género, que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como en el público;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
+
+XXXIII. Violencia y/o Violencias contra las Mujeres. Cualquier acción u omisión o el conjunto de estas, basadas en su género, que les cause daño o sufrimiento psicológico, físico, patrimonial, económico, sexual o la muerte tanto en el ámbito privado como en el público;
 
 XXXIV. Violencia de Género. Toda conducta, acción u omisión, ejercida contra cualquier persona o grupo de personas basada en su orientación o identidad sexual, sexo o género de manera directa o indirecta, tanto en el ámbito público como en el privado, basada en una relación desigual de poder, afecte su vida, libertad, dignidad, integridad física, psicológica, sexual, económica o patrimonial, como así también su seguridad personal;
 
-XXXV. Víctima. La mujer de cualquier edad a quien se le inflige cualquier tipo de violencia;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
 
-XXXVI. Víctima indirecta. Hijas, hijos, familiares y/o personas que tengan o hayan tenido relación o convivencia con la mujer y que sufran, hayan sufrido o se encuentren en situación de riesgo por motivo de la violencia ejercida contra las mujeres, y
+XXXV. Víctima. La mujer de cualquier edad a quien se le inflige cualquier tipo de violencias;
 
-XXXVII. Victimización. El impacto psicoemocional de cada tipo y modalidad de la violencia hacia las mujeres.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
+
+XXXVI. Víctima indirecta. Hijas, hijos, familiares y/o personas que tengan o hayan tenido relación o convivencia con la mujer y que sufran, hayan sufrido o se encuentren en situación de riesgo por motivo de las violencias ejercidas contra las mujeres, y
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
+
+XXXVII. Victimización. El impacto psicoemocional de cada tipo y modalidad de las violencias hacia las mujeres.
 
 ### CAPÍTULO SEGUNDO. DE LOS PRINCIPIOS RECTORES
 
@@ -193,7 +239,9 @@ La Administración Pública Estatal y Municipal, los Órganos de Procuración y 
 
 Estos derechos comprenden, entre otros, el derecho a la vida, a la seguridad, a la salud, a la educación, a la alimentación, a la cultura, a la vivienda, al acceso a la justicia, al trabajo, al deporte, al esparcimiento, a la libertad, a la dignidad, al respeto, así como el derecho a la igualdad sustantiva entre mujeres y hombres, a una vida libre de violencia, a la paridad en la participación política y en la toma de decisiones, a la no discriminación salarial por razón de género, y al reconocimiento del trabajo de cuidados como un eje fundamental del bienestar social.
 
-## TÍTULO SEGUNDO. DE LAS MODALIDADES Y TIPOS DE VIOLENCIA DE GÉNERO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE MAYO DE 2026)</small>
+
+## TÍTULO SEGUNDO. DE LAS MODALIDADES Y TIPOS DE VIOLENCIAS DE GÉNERO
 
 ### CAPÍTULO PRIMERO. DE LA VIOLENCIA EN EL ÁMBITO FAMILIAR
 
@@ -231,11 +279,15 @@ IV. La imposición de decisiones sobre su desarrollo académico o profesional, i
 
 V. La creación, mantenimiento o favorecimiento de situaciones que expongan a las mujeres a un estado de riesgo, vulnerabilidad o dependencia dentro del ámbito familiar.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2026)</small>
+
 ###### Artículo 10.
 
-En el diseño e implementación de políticas públicas para la atención, prevención y sanción de la violencia familiar, el Estado y sus Municipios deberán tener como finalidad la protección integral de las víctimas, incluyendo los casos de violencia ejercida a través de interpósita persona. Esta obligación forma parte del deber del Estado de garantizar a las mujeres su seguridad y el ejercicio pleno de sus derechos humanos, considerando la interseccionalidad, la interculturalidad y el enfoque diferenciado. Para ello, el Estado y sus Municipios deberán:
+En el diseño e implementación de políticas públicas para la atención, prevención y sanción de la violencia familiar, el Estado y sus Municipios deberán tener como finalidad la protección integral de las víctimas, incluyendo los casos de violencias ejercidas a través de interpósita persona como parte de los deberes reforzados de protección hacia las mujeres, adolescentes, niñas y niños, considerando la perspectiva de género, respeto a los derechos humanos, interés superior de la niñez, la interseccionalidad, la interculturalidad y el enfoque diferenciado. Para ello, el Estado y sus Municipios deberán:
 
-I. Establecer unidades especializadas que brinden atención integral, asesoría jurídica y tratamiento psicológico especializado, gratuito, oportuno y eficaz a las víctimas, que favorezcan su empoderamiento y contribuyan a la reparación del daño;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
+
+I. Establecer unidades especializadas que brinden atención integral, asesoría jurídica y tratamiento psicológico especializado, gratuito, oportuno y eficaz a las víctimas, que favorezcan en su caso, su autonomía, empoderamiento y contribuyan a la reparación del daño causado por dichas violencias;
 
 II. Emitir normas técnicas específicas para los distintos niveles de atención, que aseguren calidad y estándares de actuación acordes con los derechos humanos;
 
@@ -245,7 +297,9 @@ IV. Garantizar que la atención brindada a víctimas y agresores no sea proporci
 
 V. Proporcionar psicoterapia especializada y diferenciada a mujeres, adolescentes y niñas víctimas de violencia familiar, así como a los generadores de dicha violencia. Se deberá excluir toda práctica conciliatoria, de mediación o psicoterapia confrontativa entre la víctima y su agresor, hasta en tanto no se haya brindado la atención terapéutica correspondiente y la víctima haya superado el trauma y las lesiones ocasionadas;
 
-VI. Facilitar la separación y el alejamiento inmediato del agresor respecto de la víctima, adoptando todas las medidas necesarias para su seguridad;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
+
+VI. Garantizar la separación y el alejamiento inmediato de la persona agresora respecto de la Víctima o Víctimas Indirectas, adoptando todas las medidas necesarias para su seguridad, de conformidad con la presente Ley;
 
 VII. En los casos de violencia a través de interpósita persona, proporcionar atención y tratamientos psicológicos especializados y gratuitos a las víctimas, que favorezcan la reunificación familiar y se repare el daño causado por dicha violencia;
 
@@ -303,7 +357,9 @@ El acoso sexual, consiste en la coacción y presión para alguna práctica de í
 
 Las políticas públicas del Estado y de los Municipios deben considerar en materia de violencia laboral y escolar:
 
-I. Que garanticen el derecho de las mujeres, adolescentes y niñas a una vida libre de violencia en sus relaciones laborales y/o escolares;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
+
+I. Que garanticen el derecho de las mujeres, adolescentes y niñas a una vida libre de violencias en sus relaciones laborales y/o escolares;
 
 II. El impacto psicoemocional que generan en quien las recibe;
 
@@ -315,9 +371,17 @@ V. Diseñar programas que brinden servicios reeducativos integrales para víctim
 
 VI. La evaluación periódica de sus políticas públicas;
 
-VII. La participación de empresas y sindicatos para establecer acuerdos de no discriminación desde la perspectiva de género, y
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
 
-VIII. Promover y difundir en la sociedad que el hostigamiento sexual y el acoso sexual son delitos.
+VII. La participación de empresas y sindicatos para establecer acuerdos de no discriminación desde la perspectiva de género;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
+
+VIII. Promover y difundir en la sociedad que el hostigamiento sexual y el acoso sexual son expresiones de violencia y delitos que pueden constituir causas de rescisión laboral y faltas administrativas, y
+
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2026)</small>
+
+IX. Promover acciones de cambio cultural en la sociedad para identificar, promover la denuncia y combatir el hostigamiento sexual y acoso sexual en todos los ámbitos y promover relaciones respetuosas, igualitarias y no sexistas entre mujeres y hombres.
 
 ###### Artículo 16.
 
@@ -373,9 +437,11 @@ IV. Desarrollar e impartir programas de formación, sensibilización y capacitac
 
 V. Celebrar convenios y acuerdos de coordinación entre los poderes del Estado y los Municipios, con el fin de promover cambios conductuales, institucionales y en la interpretación de la norma jurídica, que erradiquen prácticas patriarcales o misóginas entre quienes laboran en el servicio público.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2026)</small>
+
 ###### Artículo 21.
 
-Para cumplir con la obligación de garantizar el derecho de las mujeres a una vida libre de violencia, el Estado y sus Municipios deben prevenir, atender, investigar, sancionar y reparar el daño que les inflige.
+Para cumplir con la obligación de garantizar el derecho de las mujeres a una vida libre de violencias, el Estado y sus Municipios deben reforzar las acciones de prevención, atención, investigación, sanción y reparación del daño respecto a mujeres, adolescentes, niñas y niños.
 
 ### CAPÍTULO CUARTO. DE LA VIOLENCIA POLÍTICA
 
@@ -495,11 +561,15 @@ Las plataformas digitales, medios de comunicación, redes sociales o páginas el
 
 Dentro de los cinco días siguientes a la imposición de las medidas de protección previstas en este artículo, deberá celebrarse la audiencia en la que la o el juez de control podrá cancelarlas, ratificarlas o modificarlas considerando la información disponible, así como la irreparabilidad del daño.
 
-### CAPÍTULO SÉPTIMO. DE LOS TIPOS DE VIOLENCIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE MAYO DE 2026)</small>
+
+### CAPÍTULO SÉPTIMO. DE LOS TIPOS DE VIOLENCIAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2026)</small>
 
 ###### Artículo 29.
 
-Los tipos de violencia contra las mujeres son:
+Los tipos de violencias contra las mujeres son:
 
 I. Violencia psicológica. La acción u omisión de negligencia, abandono, descuido reiterado, insultos, intimidación, humillaciones, coacción, devaluación, marginación, indiferencia, infidelidad, comparaciones destructivas, rechazo, anulación, conducta celotípica, prohibición, coacción, restricción a la autodeterminación y amenazas, que provocan en quien las recibe deterioro, disminución o afectación en las diferentes áreas de la personalidad, así como la depresión, al aislamiento, a la devaluación de su autoestima e incluso al suicidio;
 
@@ -803,7 +873,9 @@ Para el otorgamiento de las órdenes de protección, las autoridades administrat
 
 I. Recepción y formalidades para la atención de la o las víctimas:
 
-a) Brindar a la mujer o niña víctima de violencia que solicite una orden de protección, toda la información disponible sobre el procedimiento relacionado con la propia orden;
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2026)</small>
+
+a) Brindar a la mujer, adolescente o niña o víctima de violencias que solicite una orden de protección, toda la información disponible sobre el procedimiento relacionado con la propia orden;
 
 b) Informar con un lenguaje claro, sencillo y empático a la mujer o niña víctima de violencia sobre su derecho a solicitar las órdenes de protección;
 
@@ -845,7 +917,9 @@ h) Por ninguna circunstancia las autoridades administrativas, ministeriales y ju
 
 i) Las autoridades que intervengan en el cumplimiento de una orden, también serán las responsables de informar a la autoridad ordenadora sobre su implementación de forma periódica en términos de las disposiciones reglamentarias;
 
-j) A ninguna mujer o niña y sus hijas e hijos en situación de violencia, que solicite orden de protección se le podrá requerir que acredite su situación migratoria, de residencia o vecindad, ni cualquier otro elemento que impida su derecho al acceso a la justicia y la protección;
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2026)</small>
+
+j) A ninguna mujer, adolescente o niña y sus hijas e hijos en situación de violencias, que solicite orden de protección se le podrá requerir que acredite su situación migratoria, de residencia o vecindad, ni cualquier otro elemento que impida su derecho al acceso a la justicia y la protección;
 
 k) Las órdenes de protección deberán ser registradas en el Banco Nacional de Datos e Información sobre Casos de Violencia contra las Mujeres y en el Registro Nacional;
 
@@ -887,17 +961,23 @@ Para efectos de lo anterior, se celebrarán los convenios de colaboración entre
 
 Las medidas u órdenes de protección administrativas, además de las previstas en otros ordenamientos, podrán consistir de manera enunciativa, más no limitativa, en una o varias de las siguientes:
 
-I. Proporcionar a la mujer o niña víctima de violencia de los servicios médicos, psicológicos de emergencia necesarios para salvaguardar su vida, salud, e integridad física y mental;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
+
+I. Proporcionar a la mujer, adolescente o niña víctima de violencias de los servicios médicos, psicológicos de emergencia necesarios para salvaguardar su vida, salud, e integridad física y mental;
 
 II. El traslado de las víctimas a donde se requiera, cuantas veces sea necesario en las diferentes diligencias para garantizar su seguridad y protección;
 
 III. Custodia personal y/o vigilancia domiciliaria a las víctimas, que estará a cargo de los cuerpos policiacos adscritos a la Fiscalía General del Estado. En caso de que no exista disponibilidad podrá apoyarse en las instituciones de seguridad pública del Estado o de las Municipalidades. Esta medida se aplicará bajo la más estricta responsabilidad del Ministerio Público;
 
-IV. Proporcionar a las mujeres, o las niñas, en situación de violencia y en su caso a sus hijas e hijos o personas que dependan de la víctima, alojamiento temporal en espacios seguros tales como casas de emergencia, refugios y albergues que garanticen su seguridad y dignidad, en términos de las disposiciones aplicables de esta Ley;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
+
+IV. Proporcionar a las mujeres, adolescentes, o las niñas, en situación de violencias y en su caso a sus hijas e hijos o personas que dependan de la víctima, alojamiento temporal en espacios seguros tales como casas de emergencia, refugios y albergues que garanticen su seguridad y dignidad, en términos de las disposiciones aplicables de esta Ley;
 
 V. Proporcionar los recursos económicos para garantizar su seguridad personal, transporte, alimentos, comunicación, mudanza y los trámites oficiales que requiera entre otros, mientras se encuentre imposibilitada de obtenerlos por sus propios medios;
 
-VI. Canalizar y trasladar sin demora alguna a las mujeres, niñas y/o víctimas indirectas en situación de violencia sexual a las instituciones que integran el sistema nacional de salud para que provean gratuitamente y de manera inmediata los servicios de:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2026)</small>
+
+VI. Canalizar y trasladar sin demora alguna a las mujeres, adolescentes, niñas y/o víctimas indirectas en situación de violencia sexual a las instituciones que integran el Sistema Nacional de Salud para que provean gratuitamente y de manera inmediata los servicios de:
 
 a) Aplicación de antirretrovirales de profilaxis post-exposición;
 
@@ -909,29 +989,43 @@ VII. Proveer los recursos y herramientas necesarias para garantizar la seguridad
 
 VIII. Facilitar a la mujer, niña y/o víctimas indirectas, la reubicación de domicilio, residencia o del centro educativo. Tratándose de niñas víctimas de violencia, la autoridad en todo momento ponderará su interés superior, siendo la remisión a instituciones públicas de acogida la última opción y por el menor tiempo posible;
 
-IX. Prohibición inmediata a la persona agresora de acercarse o comunicarse con la mujer, niña y/o víctimas indirectas;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
+
+IX. Prohibición inmediata a la persona agresora de acercarse o comunicarse con la mujer, adolescente, niña y/o víctimas indirectas;
 
 X. En casos de peligro inminente o extrema urgencia, el Ministerio Público bajo su más estricta responsabilidad, podrá determinar la desocupación inmediata por la persona agresora, del domicilio conyugal o de pareja, independientemente de la acreditación de propiedad o posesión del inmueble, aun en los casos de arrendamiento del mismo;
 
-XI. Reingreso de la mujer, niñas y/o víctimas indirectas al domicilio, una vez que se salvaguarde su seguridad, en caso de que así lo desee.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2026)</small>
+
+XI. Reingreso de la mujer, adolescente, niña y/o víctimas indirectas al domicilio, una vez que se salvaguarde su seguridad, en caso de que así lo desee.
 
 Para el cumplimiento de esta medida se garantizará el acompañamiento, del Ministerio Público y del personal de la policía de investigación, a la víctima de violencia para acceder al domicilio, lugar de trabajo u otro, en cualquier caso, podrá ser acompañada de una persona de su confianza.
 
 En caso de que no haya personal de policía de investigación disponible, el acompañamiento será a cargo de personal de cualquier institución de seguridad pública que garantice la seguridad de las víctimas;
 
-XII. Proporcionar protección policíaca a la mujer, o a la niña, así como a su familia o a las víctimas indirectas;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
+
+XII. Proporcionar protección policíaca a la mujer, adolescente, o a la niña, así como a su familia o a las víctimas indirectas;
 
 XIII. Protección por seguridad privada, en los casos que sea necesario;
 
-XIV. Implementación y utilización de herramientas tecnológicas que permitan brindar seguridad a las mujeres, o niñas, en situación de violencia; así como a las víctimas indirectas y testigos. Entre las que pueden encontrarse proporcionar un teléfono móvil con contacto directo para brindar auxilio policial, entre otros;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
 
-XV. Suspensión temporal a la persona agresora del régimen de visitas y convivencia con sus descendientes;
+XIV. Implementación y utilización de herramientas tecnológicas que permitan brindar seguridad a las mujeres, adolescentes o niñas, en situación de violencias; así como a las víctimas indirectas y testigos. Entre las que pueden encontrarse proporcionar un teléfono móvil con contacto directo para brindar auxilio policial, entre otros;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
+
+XV. Suspensión temporal a la persona agresora del régimen de visitas y convivencia con sus descendientes y si fuera el caso la imposición del régimen de visitas supervisadas;
 
 XVI. Ordenar la entrega inmediata de sus objetos de uso personal y documentos que tuviera en posesión la persona agresora, y en su caso, los de sus hijas e hijos u otras víctimas indirectas. Pudiéndose ordenar el acompañamiento del Ministerio Público y del personal de la policía de investigación a la mujer, niña y/o víctima indirecta a su domicilio para garantizar dicha entrega;
 
-XVII. La prohibición al agresor, por sí o por cualquier medio o interpósita persona, conductas de intimidación o molestia a la mujer, niña, víctimas indirectas o testigos de los hechos o cualquier otra persona con quien la mujer tenga una relación familiar, afectiva, de confianza o de hecho;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
 
-XVIII. Resguardar las armas de fuego u objetos utilizados para amenazar o agredir a la mujer, o niña en situación de violencia;
+XVII. La prohibición a la persona agresora, por sí o por cualquier medio o interpósita persona de realizar conductas de intimidación o molestia a la mujer, adolescente, niña, víctimas indirectas o testigos de los hechos o cualquier otra persona con quien la mujer tenga una relación familiar, afectiva, de confianza o de hecho;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
+
+XVIII. Resguardar las armas de fuego u objetos utilizados para amenazar o agredir a la mujer, adolescente o niña en situación de violencias y, en su caso, solicitar a la autoridad competente que se realice el procedimiento de revocación de la licencia de armas de fuego, si existiere;
 
 XIX. Elaboración del inventario de los bienes muebles e inmuebles propiedad de la persona agresora o que formen parte de su patrimonio, así como del patrimonio en sociedad conyugal con la víctima, y su embargo precautorio el cual deberá inscribirse con carácter temporal en el Registro Público del Estado de Nayarit;
 
@@ -1059,13 +1153,17 @@ III. La armonización normativa y judicial con perspectiva de género de éstas.
 
 ## TÍTULO CUARTO. DE LOS MECANISMOS ESTATALES
 
-### CAPÍTULO PRIMERO. DEL SISTEMA ESTATAL, PROGRAMA ESTATAL Y PROTOCOLOS ESPECIALIZADOS EN MATERIA DE DISCRIMINACIÓN Y VIOLENCIA DE GÉNERO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE MAYO DE 2026)</small>
+
+### CAPÍTULO PRIMERO. DEL SISTEMA ESTATAL, PROGRAMA ESTATAL Y PROTOCOLOS ESPECIALIZADOS EN MATERIA DE DISCRIMINACIÓN Y VIOLENCIAS DE GÉNERO
 
 #### SECCIÓN PRIMERA. DEL SISTEMA ESTATAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2026)</small>
+
 ###### Artículo 59.
 
-El Sistema Estatal es el conjunto de Dependencias y Entidades de la Administración Pública Estatal y del Poder Judicial en interacción y vinculación permanente entre sí, con las Dependencias Municipales, con Organismos Autónomos competentes en la materia y entes públicos federales para el desarrollo de los ejes de acción de prevención, atención, sanción y erradicación de la violencia contra las mujeres.
+El Sistema Estatal es el conjunto de Dependencias y Entidades de la Administración Pública Estatal y del Poder Judicial en interacción y vinculación permanente entre sí, con las Dependencias Municipales, con Organismos Autónomos competentes en la materia y entes públicos federales para el desarrollo de los ejes de acción de prevención, atención, sanción y erradicación de las violencias contra las mujeres.
 
 El Sistema Estatal, tendrá por objeto la instrumentación de una coordinación única cuyo mecanismo facilite la articulación de los ejes de acción y sus principios rectores, sus instrumentos, servicios y políticas públicas, de conformidad con el Programa Estatal, que para tal efecto se apruebe.
 
@@ -1089,11 +1187,15 @@ e) Evaluación y Monitoreo.
 
 II. Subsistema Municipal. Conformado por un representante de cada Municipio, que podrá establecer los ejes de acción que prevé la Ley, y
 
-III. Subsistema de Armonización. Conformado por la Mesa de Armonización Legislativa y Judicial de Discriminación y Violencia de Género.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
+
+III. Subsistema de Armonización. Conformado por la Mesa de Armonización Legislativa y Judicial de Discriminación y Violencias de Género.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2026)</small>
 
 ###### Artículo 61.
 
-El Sistema Estatal estará integrado por los titulares de las siguientes instituciones:
+El Sistema Estatal estará integrado por las personas titulares de las dependencias y entidades siguientes:
 
 I. Titular de la Secretaría General de Gobierno;
 
@@ -1119,9 +1221,11 @@ XI. Titular del Instituto Estatal Electoral de Nayarit, y
 
 XII. Titular de la Presidencia de la Comisión Especial de Investigación, en Materia de Feminicidios del Congreso del Estado.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2026)</small>
+
 ###### Artículo 62.
 
-Para los efectos anticipados de cualquier agravio comparado, la Secretaría General de Gobierno conformará, integrará y presidirá la Mesa de Armonización Legislativa y Judicial de Discriminación y Violencia de Género, conjuntamente con el Instituto para la Mujer Nayarita, las Comisiones de Equidad, Género y Familias, y de Justicia y Derechos Humanos del Congreso del Estado y el Tribunal Superior de Justicia del Estado, con el objeto de revisar los avances legislativos y judicial en el país en la materia, a fin de evitar cualquier declaratoria de alerta de género, con motivo del agravio comparado.
+Para los efectos anticipados de cualquier agravio comparado, la Secretaría General de Gobierno conformará, integrará y presidirá la Mesa de Armonización Legislativa y Judicial de Discriminación y Violencias de Género, conjuntamente con el Instituto para la Mujer Nayarita, las Comisiones de Igualdad de Género y Familias, y de Justicia y Derechos Humanos del Congreso del Estado y el Tribunal Superior de Justicia del Estado, con el objeto de revisar los avances legislativos y judiciales en el país en la materia, a fin de evitar cualquier declaratoria de alerta de género, con motivo del agravio comparado.
 
 ###### Artículo 63.
 
@@ -1139,9 +1243,11 @@ La Secretaría Ejecutiva del Sistema elaborará el proyecto de reglamento para e
 
 #### SECCIÓN SEGUNDA. DEL PROGRAMA ESTATAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2026)</small>
+
 ###### Artículo 66.
 
-Programa Estatal de Prevención, Atención, Sanción y Erradicación de la Violencia contra las mujeres del Estado de Nayarit, se diseñará con base a la perspectiva de género y los principios, que se señalan en la presente Ley.
+El Programa Estatal de Prevención, Atención, Sanción y Erradicación de las Violencias contra las mujeres del Estado de Nayarit, se diseñará con base a la perspectiva de género y los principios, que se señalan en la presente Ley.
 
 Dicho programa integral incluirá:
 
@@ -1163,21 +1269,29 @@ VII. El subprograma de capacitación.
 
 Las acciones del Programa Estatal que se basan en los ejes de acción respectivos, considerarán:
 
-I. Modalidades y tipos de violencia y su estadística;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
+
+I. Modalidades y tipos de violencias y sus estadísticas;
 
 II. Cambios conductuales que se pueden generar;
 
-III. Mecanismos idóneos para la detección de la violencia de género;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
+
+III. Mecanismos idóneos para la detección de las violencias de género;
 
 IV. El inventario de modelos por eje de acción y su efectividad;
 
-V. La aplicación de la presente Ley y de los ordenamientos relacionados con la violencia de género;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
+
+V. La aplicación de la presente Ley y de los ordenamientos relacionados con las violencias de género;
 
 VI. La efectividad de las sanciones y su estadística;
 
 VII. Avances legislativos y judiciales, y
 
-VIII. La operación de las Dependencias, Entidades, Unidades de Administración encargadas de la atención de la violencia.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
+
+VIII. La operación de las Dependencias, Entidades, Unidades de Administración encargadas de la atención de las violencias.
 
 ###### Artículo 68.
 
@@ -1185,7 +1299,9 @@ El Programa Estatal contendrá las acciones con perspectiva de género siguiente
 
 I. Impulsar y fomentar el conocimiento y el respeto a los derechos humanos de las mujeres, adolescentes y niñas;
 
-II. Transformar los modelos socioculturales de conducta de mujeres y hombres, incluyendo la formulación de programas y acciones de educación formales y no formales, en todos los niveles educativos y de instrucción, con la finalidad de prevenir, atender y erradicar las conductas estereotipadas que permiten, fomentan y toleran la violencia contra las mujeres, adolescentes y niñas;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
+
+II. Transformar los modelos socioculturales de conducta de mujeres y hombres, incluyendo la formulación de programas y acciones de educación formales y no formales, en todos los niveles educativos y de instrucción, con la finalidad de prevenir, atender y erradicar las conductas estereotipadas que permiten, fomentan y toleran las violencias contra las mujeres, adolescentes y niñas;
 
 III. La coordinación con las instituciones responsables de la procuración de justicia, para que éstas brinden educación y capacitación a su personal, al personal encargado de la procuración de justicia, policías y demás funcionarios encargados de las políticas de prevención, atención, sanción y eliminación de la violencia contra las mujeres, adolescentes y niñas;
 
@@ -1197,7 +1313,9 @@ VI. Fomentar y apoyar programas de educación pública y privada, destinados a c
 
 VII. Diseñar programas de atención y capacitación a víctimas que les permita participar plenamente en todos los ámbitos de la vida; incluyendo aquellas que permitan su inserción laboral y empoderamiento económico;
 
-VIII. Vigilar que los medios de comunicación no fomenten la violencia contra las mujeres, adolescentes y niñas y que favorezcan la erradicación de todos los tipos de violencia, para fortalecer el respeto a los derechos humanos y la dignidad de las mujeres;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
+
+VIII. Vigilar que los medios de comunicación no fomenten las violencias contra las mujeres, adolescentes y niñas en toda su diversidad y etapas de vida, para impulsar un cambio cultural en favor de la igualdad sustantiva, el derecho a una vida libre de violencias y fortalecer el respeto a los derechos humanos y la dignidad de las mujeres;
 
 IX. Garantizar la investigación y la elaboración de diagnósticos estadísticos, con enfoque diferenciado, sobre las causas, la frecuencia y las consecuencias de la violencia contra las mujeres, adolescentes y niñas, con el fin de evaluar la eficacia de las medidas desarrolladas para prevenir, atender, sancionar y erradicar todo tipo de violencia;
 
@@ -1309,11 +1427,15 @@ VI. Los demás que puedan favorecer la atención pronta, eficiente y eficaz a la
 
 #### SECCIÓN PRIMERA. DEL GOBIERNO DEL ESTADO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2026)</small>
+
 ###### Artículo 75.
 
-El Gobierno del Estado en cumplimiento de los ejes de acción de prevención, atención, sanción y erradicación de la violencia contra las mujeres, adolescentes y niñas, deberá de:
+El Gobierno del Estado en cumplimiento de los ejes de acción de prevención, atención, sanción y erradicación de las violencias contra las mujeres, adolescentes y niñas, deberá:
 
-I. Formular, instrumentar, articular y conducir la política integral estatal en materia de violencia contra las mujeres, adolescentes y niñas, con perspectiva de género para prevenir, atender, sancionar y erradicar la violencia contra las mujeres;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
+
+I. Formular, instrumentar, articular y conducir la política integral estatal en materia de violencias contra las mujeres, adolescentes y niñas, con perspectiva de género para prevenir, atender, sancionar y erradicar las violencias contra las mujeres;
 
 II. Promover y garantizar espacios y transportes públicos seguros, libres de todo tipo de violencia contra las mujeres, las adolescentes y las niñas;
 
@@ -1321,7 +1443,9 @@ III. Elaborar, coordinar y aplicar el Programa Estatal;
 
 IV. Vigilar el cumplimiento de la presente Ley, de los instrumentos internacionales y demás normatividad en la materia aplicable en el Estado;
 
-V. Garantizar el ejercicio pleno del derecho de las mujeres a una vida libre de violencia, en especial los derechos de las mujeres indígenas con base en el reconocimiento de la composición pluricultural del Estado;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
+
+V. Garantizar el ejercicio pleno del derecho de las mujeres a una vida libre de violencias, en especial los derechos de las mujeres indígenas con base en el reconocimiento de la composición pluricultural del Estado;
 
 VI. Establecer programas de reeducación con perspectiva de género para quienes agreden a las mujeres en el ámbito familiar;
 
@@ -1333,7 +1457,9 @@ IX. Promover y realizar investigaciones con perspectiva de género sobre las cau
 
 X. Impulsar la creación de refugios para mujeres que lo requieran, conforme al modelo diseñado por el Sistema Estatal;
 
-XI. Realizar la plena difusión de los derechos y obligaciones contenidos en esta Ley;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
+
+XI. Realizar, a través de las dependencias correspondientes y con el apoyo de las instancias locales, campañas de información y de cambio cultural, con énfasis en la doctrina de la protección integral de los derechos humanos de las mujeres, en el conocimiento de las leyes y las medidas y los programas que las protegen, así como de los recursos jurídicos que las asisten;
 
 XII. Recibir de las organizaciones privadas y sociales las propuestas y recomendaciones sobre la prevención, atención, sanción de la violencia contra las mujeres, a fin de mejorar los mecanismos para su erradicación;
 
@@ -1359,7 +1485,13 @@ Corresponde a la persona Titular de la Secretaría General de Gobierno desempeñ
 
 I. Diseñar la política integral con perspectiva de género, para promover la cultura del respeto a los derechos de las mujeres, adolescentes y niñas;
 
-II. Elaborar el Programa Estatal con sus ejes de acción y atendiendo a sus principios rectores, para prevenir, atender, sancionar y erradicar la violencia contra las mujeres conjuntamente con las autoridades integrantes del Sistema Estatal;
+> <small>(ADICIONADA, P.O. 15 DE MAYO DE 2026)</small>
+
+I. Bis. En el ámbito de su competencia, establecer, utilizar, supervisar y mantener todos los instrumentos y acciones encaminados al mejoramiento del Sistema Estatal y del Programa;
+
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
+
+II. Elaborar el Programa Estatal con sus ejes de acción y atendiendo a sus principios rectores, para prevenir, atender, sancionar y erradicar las violencias contra las mujeres conjuntamente con las autoridades integrantes del Sistema Estatal;
 
 III. Presidir el Sistema Estatal;
 
@@ -1369,7 +1501,9 @@ V. Ejecutar y dar seguimiento al Programa Estatal;
 
 VI. Rediseñar las acciones, medidas y modelos necesarios para avanzar en la eliminación de la violencia contra las mujeres, adolescentes y niñas;
 
-VII. Diseñar la política de sanción y erradicación de los delitos violentos contra las mujeres, adolescentes y niñas;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
+
+VII. Diseñar con perspectiva de género la política de sanción y erradicación de los delitos violentos contra las mujeres, adolescentes y niñas;
 
 VIII. La ejecución de la política permanente de coordinación entre las dependencias de la Administración Pública Estatal, así como de vinculación con las autoridades municipales;
 
@@ -1385,9 +1519,21 @@ XIII. Garantizar la evaluación anual de los servicios y servidores públicos qu
 
 XIV. Dar seguimiento a la Alerta de Violencia de Género contra las Mujeres de manera coordinada con las dependencias y entidades estatales competentes, así como con los municipios en que se emita;
 
-XV. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MAYO DE 2026)</small>
 
-XVI. Las demás previstas para el cumplimiento de la presente Ley.
+XV. Formular y coordinar políticas de prevención social del delito, cultura de paz y legalidad con perspectiva de género;
+
+> <small>(REFORMADA [N .DE E. ADICIONADA], P.O. 15 DE MAYO DE 2026)</small>
+
+XVI. Coadyuvar en el ámbito de sus atribuciones en la difusión a través de diversos medios de comunicación, de los resultados del Sistema Estatal y del Programa;
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE MAYO DE 2026)</small>
+
+XVII. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 15 DE MAYO DE 2026)</small>
+
+XVIII. Las demás previstas para el cumplimiento de la presente Ley.
 
 #### SECCIÓN TERCERA. DE LA PERSONA TITULAR DE LA SECRETARÍA DE EDUCACIÓN
 
@@ -1559,7 +1705,9 @@ VI. Las demás previstas para el cumplimiento de esta Ley.
 
 Corresponde a la persona titular de la Fiscalía General del Estado de Nayarit:
 
-I. Diseñar la política en materia de procuración de justicia para la prevención, atención, sanción y erradicación de la violencia contra las mujeres con perspectiva de género;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
+
+I. Diseñar la política en materia de procuración de justicia para la prevención, atención, sanción y erradicación de las violencias contra las mujeres con perspectiva de género;
 
 II. Participar en la elaboración del Programa Estatal, en coordinación, con las autoridades integrantes del Sistema Estatal;
 
@@ -1751,7 +1899,9 @@ XI. Gestionar el acceso a servicios educativos;
 
 XII. Programas de incorporación de las mujeres víctimas de violencia al mercado laboral, y
 
-XIII. Los demás servicios que contribuyan al acceso de las mujeres a una vida libre de violencia.
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
+
+XIII. Los demás servicios que contribuyan al acceso de las mujeres a una vida libre de violencias.
 
 Los Centros de Justicia para la Mujer facilitarán el acceso a la justicia las 24 horas todos los días del año, y se deberá garantizar que en los servicios que se brinden se cuente con personas intérpretes de lenguas indígenas, así como condiciones de accesibilidad para mujeres con discapacidad, incluidas personas intérpretes de lengua de señas mexicana y asistencia personal en caso de que se requiera.
 
@@ -1761,9 +1911,11 @@ Los servicios se proporcionarán con independencia de que exista o no una denunc
 
 Los servicios que brinden los Centros de Justicia para la Mujer deberán ejecutarse bajo los principios previstos en el artículo 5 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2026)</small>
+
 ###### Artículo 92.
 
-La atención brindada por el Centro de Justicia para la Mujer, en el ámbito estatal, se realizará a través de la participación coordinada de las dependencias y entidades estatales cuya competencia incida en la atención integral a mujeres víctimas de violencia, y previa firma de los convenios correspondientes, con otras secretarías y dependencias del sector público federal y municipal.
+La atención brindada por el Centro de Justicia para la Mujer, en el ámbito estatal, se realizará a través de la participación coordinada de las dependencias y entidades estatales cuya competencia incida en la atención integral a mujeres víctimas de violencias, y previa firma de los convenios correspondientes, con otras secretarías y dependencias del sector público federal y municipal.
 
 Las instituciones encargadas de brindar los servicios en el Centro de Justicia para la Mujer del ámbito Estatal, como mínimo, son las siguientes:
 
@@ -1777,7 +1929,9 @@ IV. Secretaría del Trabajo y Justicia Laboral;
 
 V. Secretaría de Educación;
 
-VI. Secretaría de Bienestar e Igualdad Sustantiva;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
+
+VI. Secretaría de Desarrollo Económico y Social;
 
 VII. Sistema Estatal para el Desarrollo Integral de la Familia;
 
@@ -1892,3 +2046,17 @@ P.O. 6 DE MARZO DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO QUE REFORMA LA FRACCIÓN IX DEL ARTÍCULO 29 DE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT, EN MATERIA DE VIOLENCIA VICARIA".]
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 15 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS NUMERALES A LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE NAYARIT, EN MATERIA DE IGUALDAD SUSTANTIVA Y PERSPECTIVA DE GÉNERO”.]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo. Las referencias que, en otras Leyes, Decretos, Acuerdos, Convenios, Instrumentos Legales y demás disposiciones jurídicas, normativas, se realicen a la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Nayarit, se entenderán referidas a la Ley de Acceso de las Mujeres a una Vida Libre de Violencias para el Estado de Nayarit.
+
+Tercero. En un plazo no mayor de 90 días naturales, la persona titular del Poder Ejecutivo del Estado, deberá adecuar o armonizar el Reglamento de la presente Ley y demás normativa aplicable, al tenor de lo dispuesto en el presente instrumento.
+
+Cuarto. En su caso la implementación de las disposiciones contenidas en el presente Decreto se realizará de manera progresiva, con los recursos humanos, materiales y financieros disponibles, por lo que no implicará la creación de nuevas estructuras administrativas, ni generará impacto presupuestario adicional.
+
+Quinto. Se Derogan todas las disposiciones que se opongan al presente Decreto.
