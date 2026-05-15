@@ -4,7 +4,7 @@ identifier: "NAY-ley-sobre-el-sistema-estatal-de-asistencia-social-del-14560"
 country: "mx"
 rank: "ley"
 publication_date: "1986-11-01"
-last_updated: "2026-01-16"
+last_updated: "2026-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NAY"
 ---
 # LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE NAYARIT
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DE NAYARIT, PUBLICADA EN EL P.O. DE 15 DE MAYO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2026 (ABROGADA).
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Nayarit, el sábado 1 de noviembre de 1986.
 
@@ -636,3 +638,17 @@ Segundo. Se derogan todas las disposiciones que se opongan a lo establecido en e
 Tercero. Las nuevas atribuciones en materia de bienestar social e igualdad sustantiva que se transfieren al Sistema para el Desarrollo Integral de la Familia del Estado de Nayarit (DIF Estatal) mediante el presente Decreto y que correspondían originariamente a la Secretaría de Bienestar e Igualdad Sustantiva entrarán en vigor formalmente el 31 de enero de 2026.
 
 Cuarto. Se establece un plazo de ciento veinte días naturales, a partir de la entrada en vigor del presente Decreto, para realizar las adecuaciones, actualizaciones o modificaciones normativas a las disposiciones jurídicas correspondientes, de conformidad con lo establecido en este instrumento.
+
+P.O. 15 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DE NAYARIT”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación, en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+SEGUNDO. Se abroga la Ley Sobre el Sistema Estatal de Asistencia Social, publicada en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit, el 1 de noviembre de 1986.
+
+TERCERO. Los procedimientos y recursos administrativos que se encuentren en trámite a la entrada en vigor de la presente Ley se sustanciarán conforme a las disposiciones vigentes al momento de su inicio.
+
+CUARTO. El Organismo a que se refiere la presente Ley continuará con la personalidad jurídica y patrimonio que correspondían al organismo del mismo nombre conforme a la legislación anterior; los cuales se entenderán subsistentes y se regirán por lo dispuesto en la presente Ley y demás disposiciones aplicables.
+
+QUINTO. Se derogan todas aquellas disposiciones normativas que contravengan lo dispuesto en la presente Ley.
