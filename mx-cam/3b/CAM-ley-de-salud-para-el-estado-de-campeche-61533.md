@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-salud-para-el-estado-de-campeche-61533"
 country: "mx"
 rank: "ley"
 publication_date: "2008-05-13"
-last_updated: "2026-03-04"
+last_updated: "2026-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61533&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE SALUD PARA EL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 13 de mayo de 2008.
 
@@ -317,11 +317,17 @@ IV. Vigilar la sanidad en las zonas limítrofes del Estado.
 
 La Secretaría Estatal, a través de la COPRISCAM, ejercerá las atribuciones de regulación, control y fomento sanitarios en las materias a que se refiere el artículo 3° de la Ley General en sus fracciones:
 
-a) I, en lo relativo al control y vigilancia de los establecimientos de prestación de servicios de atención médica;
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2026)</small>
+
+a) I, en lo relativo al control y vigilancia de los establecimientos de prestación de servicios de atención médica; tratándose de servicios sociales y privados, se efectuarán visitas de verificación sanitaria de manera permanente, con el propósito de verificar el cumplimiento de la Ley General de Salud y sus reglamentos correspondientes, de las Normas Oficiales Mexicanas y de las disposiciones aplicables.
 
 b) XIII, XIV, XXIII, XXIV, XXV, XXVI, por lo que se refiere a cadáveres; y
 
 c) XXVII, por lo que se refiere a personas.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2026)</small>
+
+Con el propósito de dar cumplimiento a lo previsto en el inciso a), se observarán las disposiciones contenidas en el Título Décimo Séptimo, denominado “Vigilancia Sanitaria” de esta Ley, así como en lo previsto por la Ley General de Salud.
 
 > <small>(REFORMADO, P.O. 23 DE JULIO DE 2010)</small>
 
@@ -525,9 +531,55 @@ Estos servicios se regirán por lo establecido en las disposiciones legales y re
 
 Dichos servicios, en los términos de esta ley y sin perjuicio de lo que prevengan las leyes y reglamentos a las que se refiere el párrafo anterior, comprenderán la atención médica, la atención materno-infantil, la planificación familiar, la salud mental, la promoción de recursos humanos, la salud ocupacional y la prevención y control de enfermedades no transmisibles y accidentes.
 
+> <small>(REFORMADO, P.O. 15 DE MAYO DE 2026)</small>
+
 ###### Artículo 37.
 
-Son servicios de salud privados los que presten personas físicas o morales en las condiciones que convengan con los usuarios y sujetas a los ordenamientos legales civiles y mercantiles. Estos servicios pueden ser contratados directamente por los usuarios o a través de sistemas de seguros, individuales o colectivos.
+Se consideran servicios de salud privados aquellos que sean prestados por personas físicas o morales, en las condiciones que acuerden con los usuarios, y sujetos a las disposiciones legales aplicables en materia sanitaria, civil y mercantil.
+
+Asimismo, y de conformidad con lo establecido en el artículo 45 de la Ley General de Salud, la Secretaría observará los mecanismos de control y vigilancia para la creación y funcionamiento de estos establecimientos.
+
+En materia de tarifas, se estará a lo dispuesto por la Ley General de Salud y su reglamento. Las tarifas autorizadas deberán exhibirse en un lugar visible al público dentro del establecimiento, conforme a lo previsto en el Reglamento de la Ley General de Salud en Materia de Prestación de Servicios de Atención Médica.
+
+Con el objeto de favorecer el acceso a la atención médica privada de personas en situación de vulnerabilidad, el Ejecutivo del Estado, por conducto de la Secretaría de Salud, podrá celebrar convenios de colaboración con personas físicas o morales que presten servicios de salud privados, para el establecimiento de:
+
+I. La prestación gratuita de determinados servicios médicos particulares a población vulnerable;
+
+II. Tarifas preferenciales, inferiores a las determinadas por la autoridad competente en materia económica; y
+
+III. Esquemas de subrogación de servicios de atención médica, mediante los cuales el Estado otorgue subsidios para cubrir total o parcialmente el costo del servicio a favor de la población abierta.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2026)</small>
+
+###### Artículo 37 Bis.
+
+Los hospitales y clínicas, públicas y privadas, que presten servicios médicos deberán:
+
+a) Contar con aviso de funcionamiento y aviso de responsable, según lo previsto en los artículos 210 de la Ley General de Salud y 178 de la Ley de Salud para el Estado de Campeche; en su caso, realizar los trámites de licencia sanitaria, si realizan actos quirúrgicos u obstétricos, según lo previsto en el artículo 198, fracción V de la Ley General de Salud;
+
+b) Acreditar que su personal profesional y técnico cumple con los requisitos legales para el ejercicio de su profesión;
+
+c) Cumplir con las condiciones de infraestructura, personal médico, personal de enfermería, personal administrativo, equipamiento y salubridad que exijan las Normas Oficiales Mexicanas;
+
+d) Brindar atención médica de calidad y seguridad para los pacientes;
+
+e) Llevar un expediente clínico de conformidad con las disposiciones aplicables;
+
+f) Establecer y mantener en operación un Comité Hospitalario de Bioética, conforme a los criterios de la Ley General de Salud;
+
+g) Informar de manera clara y transparente a los usuarios sobre los costos, procedimientos, diagnósticos y alternativas terapéuticas, así como publicar sus tarifas de manera visible; y
+
+h) Contar con mecanismos eficaces para la recepción, atención y resolución de quejas por parte de los usuarios.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2026)</small>
+
+###### Artículo 37 Ter.
+
+Las cuotas que se cobren por la prestación de servicios de salud en las instituciones de salud públicas y privadas deberán coincidir, en todo momento, con las que se encuentren exhibidas de forma visible al público.
+
+En ningún caso por la prestación de dichos servicios médicos mencionados podrá condicionarse por ningún servidor público o persona alguna la forma de pago, cuando la persona usuaria requiera comprobantes fiscales o solicite una modalidad específica por motivos tributarios. Misma situación es de aplicarse para la prestación de servicios médicos privados por personas físicas o morales.
+
+El incumplimiento a lo dispuesto en este artículo podrá ser denunciado ante las autoridades competentes, conforme a lo previsto en la legislación aplicable en materia de protección al consumidor y servicios financieros.
 
 ###### Artículo 38.
 
@@ -3112,3 +3164,11 @@ P.O. 4 DE MARZO DE 2026.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones legales y reglamentarias de igual o menor jerarquía en lo que se opongan al contenido del presente decreto.
+
+P.O. 15 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 228 POR EL QUE “SE REFORMAN EL INCISO A) DEL ARTÍCULO 12 Y EL ARTÍCULO 37 Y, SE ADICIONAN UN PÁRRAFO SEGUNDO AL ARTÍCULO 12 Y LOS ARTÍCULOS 37 BIS Y 37 TER DE LA LEY DE SALUD PARA EL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al contenido del presente decreto.
