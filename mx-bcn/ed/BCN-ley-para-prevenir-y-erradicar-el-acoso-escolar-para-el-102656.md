@@ -4,7 +4,7 @@ identifier: "BCN-ley-para-prevenir-y-erradicar-el-acoso-escolar-para-el-102656"
 country: "mx"
 rank: "ley"
 publication_date: "2014-09-19"
-last_updated: "2025-06-27"
+last_updated: "2026-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102656&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY PARA PREVENIR Y ERRADICAR EL ACOSO ESCOLAR PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2026.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 19 de septiembre de 2014.
 
@@ -609,6 +609,94 @@ Al personal escolar de instituciones privadas, solo le podrán ser aplicadas las
 
 En contra de las resoluciones de las autoridades educativas dictadas con fundamento en las disposiciones de esta Ley y que recaigan contra los generadores o personal escolar de instituciones privadas, podrá interponerse el recurso administrativo de revisión previsto en la Ley de Educación del Estado de Baja California.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE MAYO DE 2026)</small>
+
+### Capítulo VIII. Modelo de Atención Integral
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2026)</small>
+
+###### Artículo 37.
+
+Las medidas de atención en materia de maltrato y acoso escolar consisten en los servicios psicológicos, sociales, médicos y jurídicos que faciliten a todas las personas involucradas el desarrollo de habilidades psicosociales para sanar las experiencias vividas. Dichos servicios fomentarán el empoderamiento de las y los estudiantes víctimas de maltrato, la modificación de actitudes y comportamientos de las personas agresoras, y la transformación de los patrones de convivencia en la comunidad educativa de los centros escolares involucrados.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2026)</small>
+
+###### Artículo 38.
+
+La intervención especializada para las y los estudiantes víctimas de maltrato y/o acoso escolar se regirá por los siguientes principios:
+
+I. Atención integral: Se brindará tomando en cuenta las necesidades derivadas de la situación de maltrato o acoso, tales como orientación psicológica y jurídica, atención médica, entre otros servicios;
+
+II. Efectividad: Se adoptarán las medidas necesarias para asegurar que las y los estudiantes víctimas de maltrato o acoso, especialmente aquellas en situación de mayor vulnerabilidad, tengan acceso a los servicios integrales que garanticen el pleno ejercicio de sus derechos;
+
+III. Auxilio oportuno: Se proporcionará apoyo inmediato y eficaz a las y los estudiantes en situación de riesgo o que hayan sido víctimas de maltrato o acoso escolar, y se garantizará la protección de sus derechos fundamentales. Este apoyo se extenderá también a quienes generen violencia en el entorno escolar, con el objetivo de abordar las causas subyacentes de su comportamiento de forma temprana y adecuada;
+
+IV. Respeto a los Derechos Humanos de las y los estudiantes: Se garantizará que en ningún momento se haga uso indebido de la fuerza, ni se inflijan, toleren o permitan actos de tortura u otros tratos crueles, inhumanos o degradantes contra las y los estudiantes; y,
+
+V. El interés superior de la niña, niño y adolescente.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2026)</small>
+
+###### Artículo 39.
+
+Para proporcionar una atención efectiva al maltrato y al acoso escolar, se diseñará y aplicará un Modelo de Atención Integral. Este modelo garantizará intervenciones coordinadas en cada ámbito del maltrato y del acoso escolar, con una unidad conceptual y un conjunto de lineamientos que eviten la fragmentación de las acciones de las dependencias y entidades, así como la revictimización de las y los estudiantes al acudir a diversos servicios de atención sin una coordinación adecuada.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2026)</small>
+
+###### Artículo 40.
+
+La elaboración y coordinación del Modelo de Atención Integral estará a cargo de la Secretaría de Educación del Estado de Baja California.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2026)</small>
+
+###### Artículo 41.
+
+El Modelo de Atención Integral establecerá que los servicios de atención social, psicológica, jurídica y médica de las distintas dependencias y entidades se coordinen a través de la Comisión Interinstitucional. Esto se llevará a cabo mediante una cédula de registro único, garantizando que, independientemente de la institución a la que acudan inicialmente las y los estudiantes afectados por maltrato o acoso escolar, el seguimiento del caso se realice hasta su resolución.
+
+El reglamento de la presente Ley detallará las características y el mecanismo para implementar la cédula de registro único, así como el seguimiento de los casos atendidos. La coordinación de este proceso será responsabilidad de la Secretaría de Educación, respetando las disposiciones contenidas en la Ley de Protección de Datos Personales para el Sector Público del Estado de Baja California.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2026)</small>
+
+###### Artículo 42.
+
+El Modelo de Atención Integral se compondrá de las siguientes etapas:
+
+I. Identificación de la problemática: Consiste en determinar las características del problema, sus antecedentes, el tipo de maltrato o de acoso, los efectos y posibles riesgos para las y los estudiantes, dentro de su contexto social, económico, educativo y cultural;
+
+II. Determinación de prioridades: Implica identificar las necesidades inmediatas y mediatas de las y los estudiantes afectados, y establecer las medidas de protección que puedan requerir;
+
+III. Orientación y canalización: La autoridad o entidad que reciba por primera vez la denuncia de maltrato o acoso escolar proporcionará orientación social y jurídica precisa y accesible, canalizando el caso ante la instancia correspondiente o brindando el servicio pertinente, si fuera de su competencia;
+
+IV. Acompañamiento: En caso de que la condición física o psicológica de la persona afectada lo requiera, se procederá al traslado con personal especializado a la institución correspondiente;
+
+V. Seguimiento: Conjunto de acciones para garantizar el cumplimiento de los procedimientos establecidos para la atención de casos de maltrato o acoso escolar, asegurando que se sigan todos los pasos hasta su resolución; y,
+
+VI. Intervención educativa: Las acciones que se realicen en el centro escolar para evaluar el impacto de la situación de maltrato o acoso vivido, y restablecer un clima escolar adecuado mediante actividades que fomenten la construcción de una cultura de paz en la comunidad educativa.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2026)</small>
+
+###### Artículo 43.
+
+Las dependencias, entidades, instituciones y organismos que atiendan o conozcan de casos de maltrato o acoso escolar en el Estado de Baja California deberán:
+
+I. Actuar en todo momento con la debida diligencia;
+
+II. Canalizar de forma inmediata a las y los estudiantes víctimas y generadores de maltrato o acoso a las instituciones que conforman la Comisión Interinstitucional; y,
+
+III. Desarrollar campañas de difusión para identificar y prevenir el maltrato y acoso escolar.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2026)</small>
+
+###### Artículo 44.
+
+Las dependencias del gobierno que atiendan a las víctimas de maltrato y acoso escolar deberán llevar un registro y control de las incidencias reportadas, conforme a lo que se determine en el reglamento. Este registro será la base para que la Comisión Interinstitucional elabore un diagnóstico e indicadores que permitan conocer la problemática del maltrato y acoso escolar y diferenciarlo de otras conductas de violencia para su adecuada atención.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2026)</small>
+
+###### Artículo 45.
+
+Las dependencias y entidades de la Administración Pública del Estado de Baja California, así como las instituciones privadas y sociales que presten servicios de atención en materia de maltrato y acoso escolar, deberán contar con personal profesional y especializado. Este personal recibirá capacitación continua en el manejo de casos de maltrato y acoso escolar, siguiendo los principios rectores establecidos por esta Ley. El Modelo de Atención Integral será de observancia obligatoria para todas las dependencias de la Administración Pública del Estado de Baja California.
+
 ## ARTÍCULOS TRANSITORIOS
 
 PRIMERO.- La presente Ley entrará en vigor a los 30 días hábiles siguientes de su publicación en el Periódico Oficial del Estado.
@@ -670,3 +758,11 @@ P.O. 27 DE JUNIO DE 2025.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 114 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 12 DE LA LEY PARA PREVENIR Y ERRADICAR EL ACOSO ESCOLAR DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO. La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 263 MEDIANTE EL CUAL SE APRUEBA LA CREACIÓN DE UN CAPÍTULO VIII DENOMINADO MODELO DE ATENCIÓN, ASÍ COMO LA ADICIÓN DE DIVERSOS ARTÍCULOS A LA LEY PARA PREVENIR Y ERRADICAR EL ACOSO ESCOLAR PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- En un plazo de seis meses contados a partir de la vigencia del presente Decreto, deberán emitirse las disposiciones reglamentarias conducentes.
