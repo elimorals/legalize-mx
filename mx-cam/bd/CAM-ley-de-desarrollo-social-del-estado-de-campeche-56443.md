@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-desarrollo-social-del-estado-de-campeche-56443"
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-10"
-last_updated: "2025-08-08"
+last_updated: "2026-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2026.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Campeche, el martes 10 de julio de 2007.
 
@@ -301,7 +301,9 @@ Tendrán especial atención en la elaboración, ejecución, seguimiento y evalua
 
 I. Las regiones, municipios, zonas de atención prioritaria e inmediata que muestren un mayor atraso respecto de los objetivos de la política estatal de desarrollo social;
 
-II. A la población indígena, mujeres, niños y adolescentes, adultos mayores, personas con capacidades diferentes o que se encuentren en situación de vulnerabilidad social;
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
+
+II. A la población indígena, mujeres, niñas, niños y adolescentes, adultos mayores, personas con discapacidad o que se encuentren en situación de vulnerabilidad social; y
 
 III. Se brindará atención especial a otros grupos que lo requieran según condiciones de desastre, situación geográfica y social del estado.
 
@@ -1162,5 +1164,13 @@ P.O. 8 DE AGOSTO DE 2025.
 ## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 106 POR EL QUE “SE REFORMAN LA FRACCIÓN IX DEL ARTÍCULO 4; LA FRACCIÓN I DEL ARTÍCULO 10; LAS FRACCIONES XX Y XXII DEL ARTÍCULO 11; LA FRACCIÓN IV DEL ARTÍCULO 25; EL ARTÍCULO 79 Y, SE ADICIONAN LA FRACCIÓN XXIII AL ARTÍCULO 11; EL CAPÍTULO I BIS DENOMINADO “DE LA DONACIÓN Y APROVECHAMIENTO DE ALIMENTOS” CON LOS ARTÍCULOS 69 BIS, 69 TER Y 69 QUATER AL TÍTULO SEXTO, TODOS DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE CAMPECHE”.]
 
 PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 15 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 226 POR EL QUE “SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 15 DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de inicio de vigencia del decreto por el que se reforma el párrafo tercero del artículo 6o. de la Constitución Política del Estado de Campeche, previa su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
