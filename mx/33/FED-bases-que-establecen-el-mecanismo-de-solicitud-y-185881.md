@@ -4,7 +4,7 @@ identifier: "FED-bases-que-establecen-el-mecanismo-de-solicitud-y-185881"
 country: "mx"
 rank: "otro"
 publication_date: "2026-02-27"
-last_updated: "2026-02-27"
+last_updated: "2026-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=185881&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2026-02-25"
 
 BASES QUE ESTABLECEN EL MECANISMO DE SOLICITUD Y PUBLICACIÓN DE LAS RESOLUCIONES EN MATERIA DE JUSTICIA DE AUTORIDADES Y NORMAS DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN: 15 DE MAYO DE 2026.
 
 Bases publicadas en el Semanario Judicial de la Federación, Duodécima Época, Registro digital: 6115, el viernes 27 de febrero de 2026, páginas de la 1 a la 3.
 
@@ -71,7 +71,9 @@ Para garantizar su correcta operación, el mecanismo deberá asegurar la coordin
 
 La publicación de las resoluciones y normas a que se refieren estas bases, observarán y respetarán los derechos de los pueblos y comunidades indígenas y afromexicanas establecidas en la Ley Federal de Protección del Patrimonio Cultural de los Pueblos y Comunidades Indígenas y Afromexicanas.
 
-SEGUNDA. OBJETO. El mecanismo tendrá por objeto recibir, compilar y publicar en el Semanario Judicial de la Federación y su Gaceta aquellas resoluciones en materia de justicia que sean remitidas por las autoridades competentes de los Pueblos y Comunidades Indígenas y Afromexicanas, así como las normas de éstos.
+> <small>(REFORMADA, S.J.F. 15 DE MAYO DE 2026)</small>
+
+SEGUNDA. OBJETO. El mecanismo tendrá por objeto recibir, revisar, compilar y aprobar la publicación en el Semanario Judicial de la Federación y su Gaceta aquellas resoluciones en materia de justicia que sean remitidas por las autoridades competentes de los Pueblos y Comunidades Indígenas y Afromexicanas, así como las normas de éstos, que cumplan con los parámetros mínimos previstos en las presentes Bases.
 
 TERCERA. DEFINICIONES. Para los efectos de las presentes bases se entenderá por:
 
@@ -82,6 +84,14 @@ II. Anexos técnicos: son aquellos documentos de carácter técnico-operativo qu
 III. Autoridades de los Pueblos y Comunidades: aquellas que los Pueblos y Comunidades Indígenas y Afromexicanas reconocen como tales con base en sus sistemas normativos, las cuales pueden o no coincidir con las autoridades municipales, auxiliares o agrarias;
 
 IV. CCST: la Coordinación de Compilación y Sistematización de Tesis;
+
+> <small>(ADICIONADA, S.J.F. 15 DE MAYO DE 2026)</small>
+
+IV Bis. Comité: el Comité de Pluralismo Jurídico;
+
+> <small>(ADICIONADA, S.J.F. 15 DE MAYO DE 2026)</small>
+
+IV Ter. DGAJ: la Dirección General de Asuntos Jurídicos;
 
 V. DGCECSJ: la Dirección General del Centro de Estudios Constitucionales y Saberes Jurídicos;
 
@@ -107,13 +117,23 @@ XV. Portal: el portal de remisión digital de las resoluciones y normas de los P
 
 XVI. Pueblos y Comunidades: los Pueblos y Comunidades Indígenas y Afromexicanas;
 
-XVII. Resoluciones: las resoluciones en materia de justicia que emiten las autoridades de los Pueblos y Comunidades;
+> <small>(REFORMADA, S.J.F. 15 DE MAYO DE 2026)</small>
+
+XVII. Resoluciones: son aquellas que emitan las autoridades con funciones de justicia de las Comunidades Indígenas y Afromexicanas en las que aplican sus propios sistemas normativos en la regulación y solución de sus conflictos internos, al tiempo de sujetarse también a los principios generales de la Constitución Política de los Estados Unidos Mexicanos;
 
 XVIII. Semanario: el Semanario Judicial de la Federación y su Gaceta, como un sistema digital de compilación, sistematización y difusión de los criterios obligatorios y relevantes emitidos por los órganos competentes del Poder Judicial de la Federación;
 
-XIX. SGA: la Secretaría General de Acuerdos de la Suprema Corte, y
+> <small>(REFORMADA, S.J.F. 15 DE MAYO DE 2026)</small>
 
-XX. Suprema Corte: Suprema Corte de Justicia de la Nación.
+XIX. SGA: la Secretaría General de Acuerdos de la Suprema Corte;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], S.J.F. 15 DE MAYO DE 2026)</small>
+
+XX. SGP: la Secretaría General de Presidencia de la Suprema Corte, y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], S.J.F. 15 DE MAYO DE 2026)</small>
+
+XXI. Suprema Corte: la Suprema Corte de Justicia de la Nación.
 
 CUARTA. PARTICIPANTES. En el mecanismo, participarán:
 
@@ -121,15 +141,29 @@ I. Los Pueblos y Comunidades como destinatarios directos del mecanismo, sujetos 
 
 II. La CCST como coordinadora y responsable de la implementación y continuidad del mecanismo;
 
-III. La DGCECSJ encargada de coadyuvar con asistencia científica y académica, a fin de difundir dicho mecanismo y asegurar que el mismo garantice y respete el derecho de los Pueblos y Comunidades a la libre determinación;
+> <small>(REFORMADA, S.J.F. 15 DE MAYO DE 2026)</small>
+
+III. La DGCECSJ encargada de coadyuvar con asistencia científica y académica, a fin de difundir dicho mecanismo y asegurar que el mismo garantice y respete el derecho de los Pueblos y Comunidades a la libre determinación; así como de integrar el Comité de Pluralismo Jurídico y recibir solicitudes de resoluciones, a través del Sistema de Investigación Comunitaria;
 
 IV. La DGTI como coadyuvante dentro de la implementación, desarrollo y seguimiento del mecanismo de conformidad con la normatividad aplicable dentro del ámbito de sus atribuciones;
 
 V. La DGCSJ como coadyuvante, receptora y canalizadora de las solicitudes de publicación de resoluciones y normas recibidas en las diferentes entidades federativas;
 
-VI. La DGDHJP como colaboradora en estudios, institucionalización y transversalización del pluralismo jurídico, la justicia pluricultural y el enfoque de derecho (sic) humanos en el ámbito de su competencia, y
+> <small>(REFORMADA, S.J.F. 15 DE MAYO DE 2026)</small>
 
-VII. Plural TV, la DGCS y la DGCSJ como difusoras del mecanismo y coadyuvantes en la canalización de las resoluciones.
+VI. La DGDHJP como consultora del mecanismo para coadyuvar en la institucionalización y transversalización del pluralismo jurídico, la justicia pluricultural y el enfoque de derechos humanos en el ámbito de su competencia;
+
+> <small>(REFORMADA, S.J.F. 15 DE MAYO DE 2026)</small>
+
+VII. Plural TV, la DGCS y la DGCSJ como difusoras del mecanismo y coadyuvantes en la canalización de las resoluciones;
+
+> <small>(ADICIONADA, S.J.F. 15 DE MAYO DE 2026)</small>
+
+VIII. La Dirección General de Asuntos Jurídicos como instancia de acompañamiento para brindar asesoría y apoyo jurídico, y
+
+> <small>(ADICIONADA, S.J.F. 15 DE MAYO DE 2026)</small>
+
+IX. El Comité como instancia de seguimiento y acompañamiento del mecanismo hará la revisión de las resoluciones y las normas que soliciten publicar los Pueblos y Comunidades a efecto de acordar si se autoriza su publicación, con el objetivo de fortalecer y visibilizar el pluralismo jurídico en México y la justicia indígena.
 
 QUINTA. SOLICITUD. Las autoridades de los Pueblos y Comunidades en ejercicio de su jurisdicción propia podrán solicitar la publicación de sus resoluciones y las normas en el Semanario, previa petición formal y manifestación expresa de su consentimiento, a fin de respetar su derecho a la libre determinación.
 
@@ -145,31 +179,59 @@ IV. Sistema de Investigación Comunitaria de la DGCECSJ, de conformidad con sus 
 
 El Sistema de Investigación Comunitaria y las personas que lo integran apoyarán en la recepción y acompañamiento inicial de la documentación, remitiendo ésta a través de los mecanismos habilitados para tal efecto, mientras que la incorporación al flujo institucional del Semanario se realizará por las áreas competentes, conforme a los procedimientos aplicables.
 
-SÉPTIMA. REQUISITOS. Las autoridades de los Pueblos y Comunidades que soliciten la publicación de sus resoluciones y las normas deberán considerar los requisitos siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, S.J.F. 15 DE MAYO DE 2026)</small>
+
+SÉPTIMA. REQUISITOS DE SOLICITUD. Las autoridades de los Pueblos y Comunidades que soliciten la publicación de sus resoluciones o las normas deberán considerar los requisitos siguientes:
 
 I. Remitir en formato entendible digital, físico, audio, audiovisual o en cualquier otro la versión de la resolución o la norma en la lengua que cada autoridad determine sea ésta originaria o traducida y/o escrita al español;
 
 II. Completar y remitir el formato correspondiente para la solicitud de publicación de normas o resoluciones;
 
-III. Adjuntar copia simple del nombramiento que les acredite como autoridades del Pueblo o la Comunidad, listas de asistencia correspondiente u otro elemento que dé constancia de la validez de las resoluciones conforme a los sistemas normativos de los propios Pueblos y Comunidades;
+> <small>(REFORMADA, S.J.F. 15 DE MAYO DE 2026)</small>
+
+III. Adjuntar copia simple del nombramiento que les acredite como autoridades del Pueblo o la Comunidad, listas de asistencia correspondiente u otro elemento que dé constancia de la validez de las resoluciones conforme a los sistemas normativos de los propios Pueblos y Comunidades.
+
+Para este requisito se verificará que las normas y resoluciones hayan sido emitidas por la autoridad facultada para dicho efecto;
 
 IV. Proporcionar datos de contacto de requerirse más información o aclaraciones;
 
 V. Adjuntar, en caso de considerarlo necesario documentos anexos o adicionales que acompañen a la resolución o norma;
 
-VI. Señalar una breve síntesis monográfica de la localidad solicitante y/o una reseña contextual de la resolución y la razón por la que cobra relevancia para su Pueblo o Comunidad, y
+> <small>(REFORMADA, S.J.F. 15 DE MAYO DE 2026)</small>
+
+VI. Señalar una breve síntesis monográfica de la localidad solicitante y/o una reseña contextual de la resolución o norma y la razón por la que cobra relevancia para su Pueblo o Comunidad o para la administración de justicia, y
 
 VII. Llenar el formato de consentimiento informado para la publicación de versiones públicas, en caso de contener datos personales o datos personales sensibles.
 
-OCTAVA. PROCEDIMIENTO. Una vez recibida la resolución o norma y previa a su publicación en el Semanario, para su compilación y sistematización deberán seguirse los pasos siguientes:
+> <small>(ADICIONADA, S.J.F. 15 DE MAYO DE 2026)</small>
 
-I. La CCST semanalmente hará del conocimiento de la SGA el número y el contenido de las resoluciones recibidas con el objeto de hacer de conocimiento al Pleno de la Suprema Corte las mismas;
+SÉPTIMA Bis. PARÁMETROS MÍNIMOS. Para que sea procedente la publicación, las normas y resoluciones deberán cumplir con los parámetros mínimos siguientes:
 
-II. La CCST solicitará a la DGCECSJ asistencia científica y académica para el proceso de recepción, documentación y valoración, así como en la integración de la información monográfica y contextual complementaria a las señaladas por los solicitantes;
+I. Haya sido emitida por las autoridades comunitarias reconocidas por los sistemas normativos de los Pueblos y Comunidades que soliciten la publicación y se hayan autenticado;
 
-III. Una vez que sea remitida la información respectiva por la DGCECSJ a la CCST, se procederá a su compilación y sistematización, apoyándose de las categorizaciones establecidas por la DGCECSJ y la CCST, y
+II. Los hechos hayan ocurrido en el ámbito territorial del Pueblo o Comunidad, o guarden vinculación directa con éste;
 
-IV. Finalizados los trabajos de sistematización, la CCST publicará la resolución en el Semanario.
+III. Que sean de relevancia para el fortalecimiento de la jurisdicción indígena, sus sistemas normativos y el ejercicio de sus derechos colectivos, y
+
+IV. Que estén en armonía con los criterios establecidos en la Constitución Política de los Estados Unidos Mexicanos, específicamente que sean acorde con el sistema constitucional plural, desde una perspectiva intercultural.
+
+> <small>(REFORMADA, S.J.F. 15 DE MAYO DE 2026)</small>
+
+OCTAVA. PROCEDIMIENTO. Una vez recibida la resolución o norma y previa a su publicación en el Semanario, para su revisión, compilación y sistematización deberán seguirse los pasos siguientes:
+
+I. La CCST semanalmente remitirá a la Secretaría Técnica del Comité las resoluciones y normas recibidas que cumplan con los requisitos de la solicitud;
+
+II. La Secretaría Técnica del Comité, en el plazo de 15 días hábiles siguientes a la recepción, elaborará una propuesta de análisis para revisar que las resoluciones y normas sean acorde con los parámetros mínimos previstos en la base Séptima Bis.
+
+En cada caso en particular, se deberán tomar en consideración el contexto social y político, los sistemas normativos indígenas y especificidades culturales del Pueblo y Comunidad;
+
+III. La Secretaría Técnica del Comité podrá solicitar a la DGCECSJ asistencia científica y académica para el proceso de integración de la información monográfica y contextual complementaria a las señaladas por los solicitantes;
+
+IV. La Secretaría Técnica del Comité una vez fenecido el plazo de análisis, listará la propuesta para la consideración del Comité en la sesión siguiente, en donde además propondrá el orden de la publicación de las resoluciones y normas.
+
+Los acuerdos que tome el Comité serán notificados a la CCST. Si de la revisión por parte del Comité se advierte que la resolución o norma es acorde con los parámetros mínimos, la CCST procederá a la compilación y sistematización, apoyándose de las categorizaciones establecidas por la DGCECSJ y la CCST, y
+
+V. Finalizados los trabajos de sistematización, la CCST publicará la resolución en el Semanario.
 
 NOVENA. INTERPRETACIÓN. Cuando las resoluciones se presenten únicamente en lengua originaria, la CCST de manera gradual atendiendo a sus recursos humanos y de suficiencia presupuestaria, con el acompañamiento científico y académico de la DGCECSJ, podrá solicitar a otras áreas de la Suprema Corte o instituciones la interpretación y/o traducción de éstas, así como la validación lingüística mediante intérpretes o especialistas certificados.
 
@@ -225,6 +287,162 @@ DÉCIMA OCTAVA. DIVERSIDAD DE FORMATOS. Para dar mayor difusión y proporcionar 
 
 DÉCIMA NOVENA. ANEXOS TÉCNICOS. Las CCST, DGCECSJ, DGTI y DGCSJ podrán elaborar y proponer Anexos Técnicos de carácter operativo para la implementación y desarrollo del presente mecanismo en el ámbito de sus atribuciones; estos anexos deberán observar lo señalado en las presentes Bases y en su caso, deberán ser validados previamente por las demás áreas.
 
+> <small>(ADICIONADA, S.J.F. 15 DE MAYO DE 2026)</small>
+
+VIGÉSIMA. OBJETO DEL COMITÉ. El objeto del Comité será fortalecer y visibilizar el pluralismo jurídico de México y justicia indígena, a través de la determinación de publicar en el Semanario Judicial de la Federación las resoluciones en materia de justicia de autoridades y normas de Pueblos y Comunidades, que son relevantes tanto para la administración de justicia federal como para el enriquecimiento de la cultura jurídica de la Nación, así como ser la instancia de seguimiento y acompañamiento al mecanismo.
+
+> <small>(ADICIONADA, S.J.F. 15 DE MAYO DE 2026)</small>
+
+VIGÉSIMA PRIMERA. INTEGRACIÓN DEL COMITÉ. El Comité estará integrado por:
+
+I. La CCST, quien lo presidirá;
+
+II. La DGCECSJ;
+
+III. La persona titular de la SGP o la persona que ésta designe;
+
+IV. La persona servidora pública que designe la Presidencia de la Suprema Corte, y
+
+V. La DGAJ.
+
+Las personas integrantes del Comité tendrán derecho a voz y voto durante las sesiones.
+
+> <small>(ADICIONADA, S.J.F. 15 DE MAYO DE 2026)</small>
+
+VIGÉSIMA SEGUNDA. SECRETARÍA TÉCNICA. El Comité tendrá una persona Secretaria Técnica que será designada por la persona titular de la DGCECSJ, quien participará con voz y sin voto.
+
+> <small>(ADICIONADA, S.J.F. 15 DE MAYO DE 2026)</small>
+
+VIGÉSIMA TERCERA. PERSONAS INVITADAS. El Comité tendrá como persona invitada permanente a la DGDHJP, y a cualquier otra que determine su Presidencia quien participará con voz, pero sin voto.
+
+El Comité podrá invitar a sus sesiones a las personas titulares de los distintos órganos y áreas de la Suprema Corte o expertas, cuando lo considere conveniente, quienes participarán en las sesiones del Comité con voz, pero sin voto.
+
+> <small>(ADICIONADA, S.J.F. 15 DE MAYO DE 2026)</small>
+
+VIGÉSIMA CUARTA. SUPLENCIA. Las personas integrantes del Comité y las invitadas permanentes podrán nombrar a un suplente, quien deberá tener el nivel inmediato inferior al de la titular.
+
+En caso de ausencia de la Secretaria Técnica, la persona titular de la Presidencia del Comité nombrará a quien la suplirá en la sesión de que se trate.
+
+> <small>(ADICIONADA, S.J.F. 15 DE MAYO DE 2026)</small>
+
+VIGÉSIMA QUINTA. ATRIBUCIONES. El Comité tendrá las atribuciones siguientes:
+
+I. Promover la visibilización y fortalecimiento de la justicia indígena y el pluralismo jurídico;
+
+II. Fungir como la instancia de seguimiento y acompañamiento del mecanismo;
+
+III. Recomendar acciones de mejora derivado de la evaluación participativa y técnica del funcionamiento del mecanismo;
+
+IV. Sugerir ajustes sobre las categorizaciones de compilación y sistematización de resoluciones y normas de Pueblos y Comunidades;
+
+V. Revisar que las resoluciones y normas de Pueblos y Comunidades Indígenas y Afromexicanas, que se haya solicitado su publicación en el Semanario, cumplan con los parámetros mínimos que para tal efecto se determine en el mecanismo respectivo, y
+
+VI. Las demás que sean necesarias para el cumplimiento de su objetivo.
+
+> <small>(ADICIONADA, S.J.F. 15 DE MAYO DE 2026)</small>
+
+VIGÉSIMA SEXTA. FUNCIONES DE LA PRESIDENCIA. La persona titular de la Presidencia del Comité tendrá las funciones siguientes:
+
+I. Autorizar las convocatorias y el orden del día que deba desahogarse en cada sesión;
+
+II. Presidir, coordinar y dirigir los debates de las sesiones del Comité;
+
+III. Iniciar y levantar la sesión; decretar los recesos que fueren necesarios; conducir los trabajos y tomar las medidas necesarias para el adecuado funcionamiento del Comité;
+
+IV. Autorizar la celebración de sesiones extraordinarias;
+
+V. Firmar las actas de las sesiones del Comité, y
+
+VI. Las demás que disponga la persona titular de la Presidencia de la Suprema Corte y el Comité.
+
+> <small>(ADICIONADA, S.J.F. 15 DE MAYO DE 2026)</small>
+
+VIGÉSIMA SÉPTIMA. FUNCIONES DE LOS INTEGRANTES. Corresponde a las personas integrantes del Comité:
+
+I. Asistir y participar en las reuniones del Comité;
+
+II. Analizar el orden del día y los temas a tratar en las sesiones del Comité;
+
+III. Proponer la asistencia de las personas servidoras públicas o expertas que, por la naturaleza de los asuntos, deban asistir como invitadas al Comité;
+
+IV. Firmar las actas de las sesiones del Comité a las que hubiese asistido, y
+
+V. Las demás que les encomiende la persona titular de la Presidencia del Comité en el ámbito de su competencia.
+
+> <small>(ADICIONADA, S.J.F. 15 DE MAYO DE 2026)</small>
+
+VIGÉSIMA OCTAVA. FUNCIONES DE LA SECRETARÍA TÉCNICA. Corresponde a la persona Secretaria Técnica:
+
+I. Elaborar las propuestas de análisis para revisar que las resoluciones y normas cumplan con los parámetros mínimos;
+
+II. Elaborar la convocatoria y el orden del día de las sesiones del Comité y someterlas a consideración de la persona titular de la Presidencia del Comité;
+
+III. Emitir y enviar la convocatoria a las sesiones a petición de la persona titular de la Presidencia del Comité, así como confirmar la asistencia de sus integrantes;
+
+IV. Recibir la documentación dirigida a la persona titular de la Presidencia y/o al Comité, y dar cuenta de ello a éste;
+
+V. Integrar la documentación y demás información que debe acompañar a las convocatorias de las sesiones del Comité y remitírselas a las personas integrantes, junto con la convocatoria y el orden del día correspondientes;
+
+VI. Solicitar a la persona titular de la Presidencia del Comité la celebración de sesiones extraordinarias, con el señalamiento de los asuntos específicos a tratar y su justificación;
+
+VII. Asistir a las sesiones del Comité;
+
+VIII. Auxiliar a la persona titular de la Presidencia del Comité en el desarrollo de las sesiones;
+
+IX. Levantar las actas y los acuerdos de las sesiones del Comité y someterlas a consideración de sus personas integrantes para su autorización y firma;
+
+X. Verificar el quórum de asistencia de las sesiones y dar cuenta de ello a la persona titular de la Presidencia del Comité;
+
+XI. Firmar las actas de las sesiones del Comité;
+
+XII. Informar a las personas integrantes del Comité los acuerdos que se hayan tomado;
+
+XIII. Llevar el seguimiento del cumplimiento de los acuerdos del Comité;
+
+XIV. Elaborar y presentar los informes periódicos relacionados con las actividades del Comité;
+
+XV. Proporcionar a las personas integrantes del Comité, la información que requieran para el mejor desempeño de sus funciones;
+
+XVI. Llevar a cabo las funciones de control y custodia de las actas, acuerdos y documentos relativos al Comité, además, certificarlos, y
+
+XVII. Las demás que le encomiende la persona titular de la Presidencia del Comité, así como el mismo órgano colegiado.
+
+> <small>(ADICIONADA, S.J.F. 15 DE MAYO DE 2026)</small>
+
+VIGÉSIMA NOVENA. SESIONES. El Comité sesionará de manera ordinaria por lo menos una vez al mes, y de manera extraordinaria cuando sea necesario.
+
+En su última sesión ordinaria de cada año, el Comité aprobará el calendario de sesiones ordinarias para el año siguiente.
+
+> <small>(ADICIONADA, S.J.F. 15 DE MAYO DE 2026)</small>
+
+TRIGÉSIMA. QUÓRUM Y VOTACIÓN. Las sesiones del Comité serán válidas siempre y cuando asista la mitad más uno de sus personas integrantes, y entre ellos se encuentre la persona titular de la Presidencia del mismo.
+
+Los acuerdos se aprobarán por mayoría de votos de las personas integrantes presentes; en caso de empate, la persona titular de la Presidencia del Comité tendrá voto de calidad.
+
+> <small>(ADICIONADA, S.J.F. 15 DE MAYO DE 2026)</small>
+
+TRIGÉSIMA PRIMERA. CONVOCATORIA. La persona Secretaria Técnica emitirá la convocatoria a las personas integrantes e invitadas, con una anticipación de cuando menos cinco días hábiles previos a la fecha de celebración de las sesiones ordinarias.
+
+Las convocatorias para las sesiones extraordinarias del Comité se emitirán, cuando menos, con tres días hábiles de anticipación a la fecha de la celebración de la sesión.
+
+La convocatoria a las sesiones ordinarias y extraordinarias deberá incluir el orden del día, la documentación y demás información a tratar en la sesión correspondiente.
+
+La convocatoria se podrá realizar por cualquier medio que facilite la pronta y eficaz comunicación, incluidos los medios tecnológicos con los que cuente la Suprema Corte.
+
+> <small>(ADICIONADA, S.J.F. 15 DE MAYO DE 2026)</small>
+
+TRIGÉSIMA SEGUNDA. FALTA DE QUÓRUM Y SUSPENSIÓN. Las sesiones del Comité que no puedan llevarse a cabo por falta de quórum o cualquier otra circunstancia, se realizarán dentro de los tres días siguientes, convocando a ésta con al menos un día hábil de anticipación.
+
+En las sesiones ordinarias que, una vez iniciadas, se deban suspender, serán reanudadas en la misma fecha, siempre que las circunstancias o el motivo por el cual se suspendieron lo permitan. En caso de que ello no sea posible, se convocará a su reanudación dentro de los tres días siguientes a la fecha de suspensión.
+
+> <small>(ADICIONADA, S.J.F. 15 DE MAYO DE 2026)</small>
+
+TRIGÉSIMA TERCERA. MEDIO DE SESIONAR. Las sesiones podrán celebrarse presencialmente o en forma remota, mediante el uso de cualquier medio tecnológico con el que cuente la Suprema Corte.
+
+> <small>(ADICIONADA, S.J.F. 15 DE MAYO DE 2026)</small>
+
+TRIGÉSIMA CUARTA. ACTA. En cada sesión se levantará un acta, la cual se someterá a la consideración de los integrantes del Comité, y deberá ser firmada dentro de los diez días hábiles siguientes a su celebración.
+
 ## TRANSITORIOS
 
 PRIMERO. Las presentes Bases entrarán en vigor el día de su publicación en el Semanario Judicial de la Federación y su Gaceta y se operará de forma gradual conforme a su implementación.
@@ -258,3 +476,19 @@ DOCTOR GERARDO GARCÍA MARROQUÍN
 COORDINADOR DE COMPILACIÓN Y SISTEMATIZACIÓN DE TESIS
 
 Estas bases se publicaron el viernes 27 de febrero de 2026 a las 10:29 horas en el Semanario Judicial de la Federación.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+S.J.F. 15 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "REFORMA Y ADICIONES DE TRECE DE MAYO DE DOS MIL VEINTISÉIS, DEL COORDINADOR DE COMPILACIÓN Y SISTEMATIZACIÓN DE TESIS, A LAS BASES QUE ESTABLECEN EL MECANISMO DE SOLICITUD Y PUBLICACIÓN DE LAS RESOLUCIONES EN MATERIA DE JUSTICIA DE AUTORIDADES Y NORMAS DE PUEBLOS Y COMUNIDADES INDÍGENAS Y AFROMEXICANAS EN EL SEMANARIO JUDICIAL DE LA FEDERACIÓN".]
+
+PRIMERO. Las presentes Reforma y Adiciones entrarán en vigor el día de su aprobación.
+
+SEGUNDO. La sesión de instalación del Comité deberá celebrarse dentro de los treinta días naturales siguientes a la entrada en vigor del presente instrumento normativo.
+
+En la sesión de instalación el Comité deberá aprobar su calendario de sesiones ordinarias para el año dos mil veintiséis.
+
+TERCERO. Una vez que las disposiciones de las presentes Reforma y Adiciones hayan entrado en vigor, intégrense a las Bases que establecen el mecanismo de solicitud y publicación de las resoluciones en materia de justicia de autoridades y normas de Pueblos y Comunidades Indígenas y Afromexicanas en el Semanario Judicial de la Federación, a fin de que el contenido de éste se encuentre debidamente actualizado; dicha integración deberá realizarse en el archivo respectivo del portal de este Alto Tribunal, así como del resto de medios análogos que éste administre.
+
+CUARTO. Publíquense las presentes Reforma y Adiciones en el Semanario Judicial de la Federación y su Gaceta, así como en medios electrónicos de consulta pública de la Suprema Corte de Justicia de la Nación, en términos de lo establecido en el artículo 65, fracción I, de la Ley General de Transparencia y Acceso a la Información Pública.
