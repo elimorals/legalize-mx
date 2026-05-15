@@ -4,7 +4,7 @@ identifier: "VER-ley-estatal-de-proteccion-ambiental-18963"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-30"
-last_updated: "2024-08-07"
+last_updated: "2026-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 62 ESTATAL DE PROTECCIÓN AMBIENTAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE AGOSTO DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE MAYO DE 2026.
 
 Ley publicada en el Alcance de la Gaceta Oficial del Estado de Veracruz, el viernes 30 de junio de 2000.
 
@@ -201,7 +201,11 @@ XLVI.- Restauración: Conjunto de actividades tendientes a la recuperación y re
 
 > <small>(REFORMADA, G.O. 21 DE DICIEMBRE DE 2012)</small>
 
-XLVII. Secretaría: La Secretaría de Medio Ambiente.
+XLVII.- Secretaría: La Secretaría de Medio Ambiente.
+
+> <small>(ADICIONADA, G.O. 15 DE MAYO DE 2026)</small>
+
+XLVII. Bis.- SEFIPLAN: Secretaría de Finanzas y Planeación.
 
 XLVIII.- Sistemas de drenaje y alcantarillado urbano o municipal: conjunto de dispositivos o instalaciones que tienen como propósito recolectar y conducir aguas residuales urbanas o municipales, pudiendo incluir la captación de aguas pluviales.
 
@@ -215,9 +219,9 @@ XLVIII Ter.- Sistemas de Verificación: Conjunto de acciones de control de las e
 
 XLIX.- Tratamiento de aguas residuales: Proceso a que se someten las aguas residuales, con el objeto de disminuir o eliminar los contaminantes que se les hayan incorporado.
 
-> <small>(REFORMADA, G.O. 15 DE MARZO DE 2017)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2026)</small>
 
-XLIX Bis. Verificentro: Establecimiento concesionado a un particular por la Secretaría que cumple con las especificaciones de equipamiento, infraestructura, imagen y de procedimientos, establecidas en el Programa de Verificación Vehicular Obligatoria, para realizar pruebas de verificación vehicular tanto estáticas como dinámicas;
+XLIX Bis.- Verificentro: establecimiento que cuenta con las especificaciones de equipamiento, infraestructura, imagen y de procedimientos, establecidas en las Normas Oficiales Mexicanas, para realizar pruebas de verificación vehicular en sus modalidades estática, dinámica y/o diésel;
 
 > <small>(REFORMADA, G.O. 15 DE MARZO DE 2017)</small>
 
@@ -267,11 +271,11 @@ III.- Los que se deriven de los reglamentos municipales y demás disposiciones r
 
 Las atribuciones en materia de ordenamiento, conservación, preservación y restauración del equilibrio ecológico y protección al ambiente, serán ejercidas de manera concurrente por el Estado y los Municipios; quienes en todo caso respetarán lo dispuesto en las leyes generales y ordenamientos que de ellas se deriven y aplicarán las normas oficiales mexicanas que se expidan en la materia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE MAYO DE 2026)</small>
 
 ###### Artículo 6.
 
-Es facultad del Ejecutivo Estatal ejercer, a través de la Secretaría y la Procuraduría, las atribuciones que se establecen en el presente artículo, salvo aquellas que le correspondan de manera exclusiva a su titular por disposición de esta Ley y demás ordenamientos aplicables:
+Es facultad de la persona titular del Ejecutivo Estatal ejercer, a través de la Secretaría y la Procuraduría, las atribuciones que se establecen en el presente artículo, salvo aquellas que le correspondan de manera exclusiva a su titular por disposición de esta Ley y demás ordenamientos aplicables:
 
 > <small>(REFORMADO, G.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -321,9 +325,9 @@ XVII. Atender, en coordinación con la Federación, los asuntos que afecten el e
 
 XVIII. Promover el uso de transporte alternativo, así como espacios para su circulación;
 
-> <small>(REFORMADA, G.O. 16 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2026)</small>
 
-XIX. Establecer, operar y, en general, prestar el servicio público de verificación de calidad del aire en fuentes móviles, por sí o a través de las personas que concesione para ello; así como limitar o prohibir la circulación de los vehículos cuyos niveles de emisión de contaminantes rebasen los límites máximos permisibles que se determinen en las normas expedidas por la Secretaría, en el Programa de Verificación Vehicular Obligatoria, así como en las Normas Oficiales Mexicanas;
+XIX. Verificar la emisión de contaminantes provenientes de fuentes móviles en los términos establecidos por el Programa de Verificación Vehicular Obligatoria a través de las personas que la autoridad competente concesione para ello; así como limitar o prohibir la circulación de los vehículos cuyos niveles de emisión de contaminantes rebasen los límites máximos permisibles que se determinen en las normas expedidas por la Secretaría, en el Programa de Verificación Vehicular Obligatoria, así como en las Normas Oficiales Mexicanas;
 
 XX. Atender los demás asuntos que en materia de preservación del equilibrio ecológico y protección al ambiente les conceda esta Ley u otros ordenamientos en concordancia con ella y que no estén otorgados expresamente a la Federación;
 
@@ -1891,9 +1895,9 @@ V. Integrar y mantener actualizado el inventario estatal de fuentes fijas de con
 
 VI. Establecer y operar sistemas de monitoreo de la calidad del aire, con el fin de integrar los reportes locales de los Sistemas Estatal y Nacional de Información Ambiental;
 
-> <small>(REFORMADA, G.O. 16 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2026)</small>
 
-VII. Establecer y operar el Programa de Verificación Vehicular Obligatoria;
+VII. En colaboración con SEFIPLAN establecer y operar el Programa de Verificación Vehicular Obligatoria.
 
 VIII. Tomar las medidas preventivas necesarias para evitar contingencias ambientales por la contaminación atmosférica;
 
@@ -2035,9 +2039,9 @@ Los propietarios de los vehículos automotores de uso privado y de servicio púb
 
 I. Realizar el mantenimiento regular de las unidades, mantener en buenas condiciones a efecto de mantener el funcionamiento del vehículo dentro de los límites permitidos de emisiones señalados en la normatividad aplicable;
 
-> <small>(REFORMADA, G.O. 16 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2026)</small>
 
-II. Verificarlos periódicamente en los centros de verificación o en los verificentros concesionados por la Secretaría, analizando las emisiones de contaminantes a la atmósfera, las cuales no deberán rebasar los límites máximos permisibles, de acuerdo con los programas, mecanismos y disposiciones establecidos en el Programa de Verificación Vehicular Obligatoria expedido por la Secretaría;
+II. Verificarlos periódicamente en los Verificentros concesionados, analizando las emisiones de contaminantes a la atmósfera, las cuales no deberán rebasar los límites máximos permisibles, de acuerdo con los programas, mecanismos y disposiciones establecidos en el Programa de Verificación Vehicular Obligatoria;
 
 III. Observar las medidas y restricciones que las autoridades competentes dicten para prevenir y controlar emergencias y contingencias ambientales, así como para mejorar la vialidad;
 
@@ -2075,27 +2079,25 @@ I.- Establecerá las medidas preventivas y correctivas para reducir la emisión 
 
 II.- (DEROGADA, G.O. 16 DE JULIO DE 2014)
 
-> <small>(REFORMADA, G.O. 16 DE JULIO DE 2014)</small>
+III. (DEROGADA, G.O. 15 DE MAYO DE 2026)
 
-III.- Concesionará a particulares el establecimiento, equipamiento, operación y explotación de verificentros;
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2026)</small>
 
-> <small>(REFORMADA, G.O. 16 DE JULIO DE 2014)</small>
+IV.- En coordinación con la SEFIPLAN, regulará el establecimiento, inspección, supervisión, evaluación y operación de Verificentros;
 
-IV.- Regulará el establecimiento, inspección, supervisión, evaluación y operación de centros de verificación y verificentros;
+V. (DEROGADA, G.O. 15 DE MAYO DE 2026)
 
-V.- Determinará las tarifas para los servicios de verificación vehicular obligatoria en los centros que autorice y concesiones.
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2026)</small>
 
-> <small>(REFORMADA, G.O. 16 DE JULIO DE 2014)</small>
+VI.- En coordinación con la SEFIPLAN, autorizará a los Verificentros la expedición de certificados a los vehículos que se hubieren sometido al procedimiento de verificación obligatoria aprobando la misma;
 
-VI.- Autorizará a los verificentros, en los títulos de concesión respectivos, la expedición de certificados a los vehículos que se hubieren sometido al procedimiento de verificación obligatoria aprobando la misma;
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2026)</small>
 
-> <small>(REFORMADA, G.O. 16 DE JULIO DE 2014)</small>
+VII.- Inspeccionará, supervisará y evaluará en el ámbito técnico ambiental la operación de los Verificentros concesionados;
 
-VII.- Inspeccionará, supervisará y evaluará la operación de los verificentros que concesione y los centros de verificación vigentes;
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2026)</small>
 
-> <small>(REFORMADA, G.O. 16 DE JULIO DE 2014)</small>
-
-VIII.- Integrará un registro de los verificentros concesionados;
+VIII.- En coordinación con la SEFIPLAN, integrará un registro de los Verificentros concesionados;
 
 > <small>(REFORMADA, G.O. 16 DE JULIO DE 2014)</small>
 
@@ -2107,29 +2109,39 @@ XI.- Recomendará las medidas necesarias para el mejoramiento de la vialidad y t
 
 XII.- Ordenará, en coordinación con la Dirección General de Tránsito y Transporte y la Dirección de Protección Civil, la suspensión parcial o total de la circulación vehicular, en las zonas que presenten casos graves de contaminación atmosférica que sobrepasen los límites establecidos por las Normas Oficiales Mexicanas aplicables.
 
-XIII.- Promoverá el mejoramiento de los sistemas de transporte, y solicitará toda clase de medidas en sus vialidades para disminuir las emisiones contaminantes.
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2026)</small>
+
+XIII.- En coordinación con la SEFIPLAN, promoverá el mejoramiento de los sistemas de transporte, y solicitará toda clase de medidas en sus vialidades para disminuir las emisiones contaminantes;
 
 XIV.- La Secretaría y la sociedad civil, promoverán acciones orientadas hacia la prevención de la contaminación atmosférica.
 
 XV.- Realizará en coordinación con las autoridades correspondientes actos de inspección y vigilancia en materia de contaminación atmosférica para verificar la debida observancia de las Normas Oficiales Mexicanas y las demás disposiciones aplicables, e imponer las sanciones administrativas que correspondan.
 
-> <small>(ADICIONADA, G.O. 29 DE NOVIEMBRE DE 2018)</small>
+XVI.- (DEROGADA, G.O. 15 DE MAYO DE 2026)
 
-XVI.- Podrá autorizar a los Centros de Verificación que cumplan con los requerimientos establecidos en la normativa federal y estatal, el Programa de Verificación, la Sección III del Capítulo I del Título Quinto de la presente Ley y los lineamientos que al efecto expida, para que modifiquen su figura a la de Verificentro y así realizar la prueba dinámica.
-
-> <small>(ADICIONADO, G.O. 16 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE MAYO DE 2026)</small>
 
 ###### Artículo 143 Bis.
 
-En materia de prevención y control de la contaminación atmosférica producida por fuentes móviles dentro del territorio del Estado, el Ejecutivo, asistido por la Secretaría de Medio Ambiente, establecerá el Programa de Verificación Vehicular Obligatoria, el cual deberá determinar, cuando menos, lo siguiente:
+En materia de prevención y control de la contaminación atmosférica producida por fuentes móviles dentro del territorio del Estado, la persona titular del Ejecutivo, máxima autoridad en materia ambiental, asistida por la Secretaría de Medio Ambiente, en coordinación con SEFIPLAN, establecerán, en el respectivo ámbito de sus competencias, el Programa de Verificación Vehicular Obligatoria, el cual deberá determinar, cuando menos, lo siguiente:
+
+> <small>(ADICIONADA, G.O. 16 DE JULIO DE 2014)</small>
 
 I. Las especificaciones mínimas de equipamiento, infraestructura, imagen y de procedimientos que deberán cumplir los verificentros; estos criterios deberán ser considerados dentro de los requisitos que se exijan a los participantes de los concursos públicos para la adjudicación de concesiones de verificentros;
 
+> <small>(ADICIONADA, G.O. 16 DE JULIO DE 2014)</small>
+
 II. Los diferentes tipos de holograma que podrán obtenerse y los requisitos que deberán cumplirse para obtener cada uno de ellos, así como los esquemas de incentivos y restricciones asociadas a cada tipo de holograma;
+
+> <small>(ADICIONADA, G.O. 16 DE JULIO DE 2014)</small>
 
 III. Los tipos de vehículos automotores que hubieran sido definidos por sus fabricantes como inoperables en los dinamómetros, en el entendido que salvo por éstos, el resto de los vehículos automotores deberán ser verificados mediante una prueba dinámica;
 
+> <small>(ADICIONADA, G.O. 16 DE JULIO DE 2014)</small>
+
 IV. Las tarifas por concepto de verificación vehicular que los concesionarios de verificentros estarán facultados para cobrar y su procedimiento de actualización, las cuales deberán ser idénticas para todos los verificentros concesionados y deberán reflejarse en los títulos de concesión respectivos; y
+
+> <small>(ADICIONADA, G.O. 16 DE JULIO DE 2014)</small>
 
 V. La periodicidad con que deberán realizarse las verificaciones vehiculares y el plazo con que los propietarios de los vehículos automotores contarán, dentro de cada periodo, para llevar a cabo la verificación correspondiente.
 
@@ -2209,31 +2221,35 @@ Asimismo, la Procuraduría llevará un padrón de empresas cuyas actividades se 
 
 #### SECCIÓN TERCERA. DE LOS VERIFICENTROS
 
-> <small>(REFORMADO, G.O. 16 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2026)</small>
 
 ###### Artículo 146 Bis.
 
-Se requiere de concesión para establecer, equipar, operar y explotar un verificentro. Las concesiones se otorgarán hasta por un plazo de veinte años y podrán ser prorrogadas hasta por un plazo similar al señalado originalmente, atendiendo al cumplimiento de las obligaciones de la concesión respectiva.
+Se requiere de concesión para establecer, equipar, operar y explotar un Verificentro. Las concesiones serán otorgadas por la SEFIPLAN hasta por un plazo de veinte años y podrán ser prorrogadas hasta por un plazo similar al señalado originalmente, atendiendo al cumplimiento de las obligaciones de la concesión respectiva.
 
-Para el otorgamiento de concesiones, la Secretaría deberá atender a las necesidades de los servicios de verificación de fuentes móviles en el Estado, efectuando una distribución adecuada de los verificentros en los municipios, en proporción al parque vehicular existente. La Secretaría procurará que los verificentros concesionados se instalen en los principales núcleos de población y su distribución permita a todos los habitantes del Estado tener acceso oportuno a los mismos.
+Para el otorgamiento de concesiones se deberá atender a las necesidades de los servicios de verificación de fuentes móviles en el Estado, efectuando una distribución adecuada de los Verificentros en los municipios, en proporción al parque vehicular existente.
 
-Las concesiones a que se refiere este artículo serán otorgadas por la Secretaría, a través de concurso público, conforme a lo siguiente:
+La SEFIPLAN procurará y supervisará que los Verificentros concesionados se instalen en los principales núcleos de población y su distribución permita a todos los habitantes del Estado tener acceso oportuno a los mismos.
 
-I. La Secretaría publicará convocatoria en la Gaceta Oficial del Estado y en un periódico de amplia circulación en el Estado, señalando el plazo con que contarán los interesados en participar en el concurso para adquirir las bases;
+Las concesiones a que se refiere este artículo serán otorgadas por la SEFIPLAN, a través de concurso público, conforme a lo siguiente:
 
-II. Las bases de los concursos públicos incluirán como mínimo las características técnicas y de calidad de los equipos que deberán instalarse en el verificentro, el plazo de la concesión, los requisitos de infraestructura con que deberá contar, el área mínima del inmueble en donde deberá instalarse el verificentro y el capital contable mínimo con que deberán contar los participantes; los requisitos mínimos que la Secretaría deberá solicitar a los participantes serán acordes con las especificaciones establecidas en el Programa de Verificación Vehicular Obligatoria. La Secretaría determinará e incluirá en las bases de los concursos públicos, los criterios para el otorgamiento de las concesiones;
+I. Se publicará convocatoria en la Gaceta Oficial, Órgano del Gobierno del Estado y en un periódico de amplia circulación en el Estado, señalando el plazo con que contarán los interesados en participar en el concurso para adquirir las bases;
+
+II. Las bases de los concursos públicos incluirán como mínimo las características técnicas de calidad de los equipos que deberán instalarse en el Verificentro, el plazo de concesión, los requisitos de infraestructura con que deberá contar, el área mínima del inmueble en donde deberá instalarse el Verificentro y el capital contable mínimo con que deberán contar los participantes; los requisitos mínimos que la SEFIPLAN deberá solicitar a los participantes serán acordes con las especificaciones establecidas en el Programa de Verificación Vehicular Obligatoria. La SEFIPLAN determinará e incluirá en las bases de los concursos públicos, los criterios para el otorgamiento de las concesiones;
 
 III. Aquellos interesados que hubieran adquirido las bases del concurso público que corresponda, podrán presentar una propuesta en sobre cerrado. Las propuestas que sean presentadas en estos términos serán abiertas en día prefijado, pudiendo los participantes estar presentes, en los términos y condiciones que se contemplen en las bases;
 
-IV. Para que su propuesta sea considerada solvente, los participantes deberán demostrar su solvencia económica, así como su capacidad técnica, administrativa y financiera, y deberán cumplir con los requisitos que establezcan las bases que expida la Secretaría;
+IV. Para que su propuesta sea considerada solvente, los participantes deberán demostrar su solvencia económica, así como su capacidad técnica, administrativa y financiera, y deberán cumplir con los requisitos que establezcan las bases que expida la SEFIPLAN;
 
-V. La Secretaría, con base en el análisis comparativo de las proposiciones admitidas, emitirá el fallo debidamente fundado y motivado, el cual será dado a conocer a todos los participantes en el lugar y fecha determinados para tal efecto en las bases del concurso público que corresponda; asimismo, a partir del acto de apertura de propuestas, durante el plazo en que las mismas se estudien y hasta la fecha de emisión del fallo, la Secretaría informará cuáles han sido las propuestas desechadas por no considerarse solventes en los términos establecidos en la fracción anterior y las principales causas que motivaron dicha determinación;
+V. La SEFIPLAN, con base en el análisis comparativo de las proposiciones admitidas, emitirá el fallo debidamente fundado y motivado, el cual será dado a conocer a todos los participantes en el lugar y fecha determinados para tal efecto en las bases del concurso público que corresponda; asimismo, a partir del acto de apertura de propuestas, durante el plazo en que las mismas se estudien y hasta la fecha de emisión del fallo, la SEFIPLAN informará cuáles han sido las propuestas desechadas por no considerarse solventes en los términos establecidos en la fracción anterior y las principales causas que motivaron dicha determinación;
 
-VI. No se otorgará la concesión cuando ninguna de las proposiciones presentadas cumplan con las bases del concurso o por caso fortuito o fuerza mayor. En este caso, se declarará desierto el concurso y, en su caso, se procederá a expedir una nueva convocatoria;
+VI. No se otorgará la concesión cuando ninguna de las proposiciones presentadas cumpla con las bases del concurso o por caso fortuito o fuerza mayor. En este caso, se declarará desierto el concurso y, en su caso, se procederá a expedir una nueva convocatoria;
 
-VII. La resolución que contenga el fallo será de carácter definitivo y solamente en contra de dicho acto procederá el recurso de revocación, de acuerdo a lo establecido en el Título Sexto Capítulo II de la Ley de Adquisiciones, Arrendamientos, Administración y Enajenación de Bienes Muebles del Estado de Veracruz de Ignacio de la Llave.
+VII. La resolución que contenga el fallo será de carácter definitivo y solamente en contra de dicho acto procederá el recurso de revocación, en los términos establecidos en el Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave.
 
-En los títulos de concesión, la Secretaría deberá establecer las condiciones económicas aplicables a sus titulares incluyendo, cuando menos, las tarifas por concepto de verificación vehicular que el concesionario estará facultado a cobrar a los usuarios y su procedimiento de actualización, el precio unitario de venta para cada tipo de certificado holográfico que la Secretaría estará facultada a cobrar al concesionario y su procedimiento de actualización, y las indemnizaciones o compensaciones que, en su caso, resulten aplicables.
+En los títulos de concesión, la SEFIPLAN deberá establecer las condiciones económicas aplicables a sus titulares especificando el pago de los derechos por la prestación de servicios de verificación vehicular establecidos en el Código de Derechos para el Estado de Veracruz de Ignacio de la Llave, el procedimiento implementado por la SEFIPLAN para el pago en reintegro a los Verificentros, así como su actualización y las indemnizaciones o compensaciones que, en su caso, resulten aplicables.
+
+La SEFIPLAN es la autoridad encargada de proponer la modificación a las tarifas por los servicios de verificación vehicular obligatoria en los Verificentros; así como de inspeccionar, supervisar, evaluar y vigilar la administración y operación de las concesiones en el ámbito administrativo y fiscal, pudiendo requerir la información necesaria para ello a los concesionarios y a la Secretaría, y en su caso, aplicar las sanciones correspondientes en el ámbito de su competencia, así como revocar las concesiones de centros de verificación y Verificentros autorizados en el Estado en términos de la normatividad aplicable.
 
 > <small>(ADICIONADO, G.O. 22 DE FEBRERO DE 2010)</small>
 
@@ -2245,7 +2261,9 @@ I.- Alterar el equipo o la toma de muestra.
 
 II.- Verificar un vehículo para aprobar otro.
 
-III.- No utilizar el sistema de análisis, captura, transmisión o almacenamiento de datos, video e imágenes autorizado por la Secretaría;
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2026)</small>
+
+III.- No utilizar el sistema de análisis, captura, transmisión o almacenamiento de datos, video e imágenes autorizado por la SEFIPLAN;
 
 IV.- No aplicar los procedimientos de análisis de emisiones generados por fuentes móviles establecidos en las Normas Oficiales Mexicanas;
 
@@ -2287,65 +2305,65 @@ Los verificentros estarán obligados a:
 
 I. Operar, conforme a los sistemas, procedimientos, instalaciones, equipos, plazos y condiciones establecidos en esta Ley, las normas oficiales mexicanas, el Programa de Verificación Vehicular Obligatoria, la convocatoria, la concesión y demás disposiciones aplicables;
 
-> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2026)</small>
 
-II.- Acreditar ante la Secretaría que su personal se encuentra debidamente capacitado para la prestación del servicio;
+II.- Acreditar ante la Secretaría y SEFIPLAN que su personal se encuentra debidamente capacitado para la prestación del servicio;
 
-> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2026)</small>
 
-III.- Mantener sus instalaciones y equipos calibrados en las condiciones requeridas por la Secretaría, observando los requisitos que fije la misma para la debida prestación del servicio de verificación vehicular;
+III.- Mantener sus instalaciones y equipos calibrados en las condiciones técnicas ambientales necesarias y requeridas, para la exactitud de las mediciones, observando los requisitos establecidos en las regulaciones técnicas de cumplimiento obligatorio que establecen las características y especificaciones, a seguir, para la debida prestación del servicio de verificación vehicular;
 
-> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2026)</small>
 
-IV.- Destinar exclusivamente a la verificación de emisiones contaminantes sus establecimientos respectivos, sin efectuar en éstos reparaciones mecánicas, venta de refacciones automotrices o cualquier otra actividad industrial, comercial o de servicios sin autorización de la Secretaría;
+IV.- Destinar exclusivamente a la verificación de emisiones contaminantes sus establecimientos respectivos, sin efectuar en éstos reparaciones mecánicas, venta de refacciones automotrices o cualquier otra actividad industrial, comercial o de servicios;
 
 > <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
 
 V.- Abstenerse de recibir documentación reportada como robada, falsificada o notoriamente alterada, como soporte de las verificaciones vehiculares;
 
-> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2026)</small>
 
-VI.- Llevar un registro con la información de las verificaciones efectuadas y remitir a la Secretaría los datos obtenidos, en los términos fijados por ésta, tanto por medios impresos como electrónicos, bajo los criterios técnicos y metodológicos establecidos;
+VI.- Llevar un registro con la información de las verificaciones efectuadas y remitir a la SEFIPLAN los datos obtenidos, en los términos fijados por ésta, tanto por medios impresos como electrónicos, bajo supervisión de la Secretaría respecto de los criterios técnicos ambientales y metodológicos establecidos;
 
-> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2026)</small>
 
-VII.- Dar aviso inmediato a la Secretaría cuando dejen de prestar el servicio de verificación vehicular o cuando los equipos e instalaciones no funcionen debidamente, en cuyo caso se abstendrán de realizar verificaciones hasta en tanto los mismos funcionen correctamente;
+VII.- Dar aviso inmediato a la Secretaría y SEFIPLAN cuando dejen de prestar el servicio de verificación vehicular o cuando los equipos e instalaciones no funcionen debidamente, en cuyo caso se abstendrán de realizar verificaciones hasta en tanto los mismos funcionen correctamente;
 
-> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2026)</small>
 
-VIII.- Conservar en depósito y manejar debidamente los documentos que reciban de la Secretaría para acreditar la aprobación de la verificación vehicular, hasta que éstos sean entregados al interesado y, en su caso, adheridos a la fuente emisora de contaminantes;
+VIII.- Conservar en resguardo y manejar debidamente los documentos que reciban de SEFIPLAN para acreditar la aprobación de la verificación vehicular, hasta que éstos sean entregados al interesado y, en su caso, adheridos a la fuente emisora de contaminantes;
 
-> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2026)</small>
 
-IX.- Dar aviso inmediato a la Secretaría y presentar las denuncias correspondientes, en caso de robo o uso indebido de los documentos utilizados para acreditar la aprobación de la verificación vehicular;
+IX.- Dar aviso inmediato a la SEFIPLAN y presentar las denuncias correspondientes, en caso de robo o uso indebido de los documentos utilizados para acreditar la aprobación de la verificación vehicular;
 
-> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2026)</small>
 
-X.- Enviar a la Secretaría la documentación e información requerida para la supervisión y control de la verificación, en los formatos y términos que la misma Secretaría establezca, en los que podrá considerarse el reporte documental así como la transmisión de datos, imágenes y video;
+X.- Enviar a la autoridad competente la documentación e información requerida para la supervisión y control de la verificación, en los formatos y términos que la misma autoridad establezca, en los que podrá considerarse el reporte documental, así como la transmisión de datos, imágenes y video;
 
-> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2026)</small>
 
-XI.- Mantener durante las horas de funcionamiento a un representante con facultades para atender las visitas de inspección técnicas y administrativas que ordene la Secretaría, en cualquier momento, debiendo brindar las facilidades correspondientes;
+XI.- Mantener durante las horas de funcionamiento a un representante con facultades para atender las visitas de inspección técnicas ambientales y administrativas que ordenen las autoridades competentes, en cualquier momento, debiendo brindar las facilidades correspondientes;
 
-> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2026)</small>
 
-XII.- Contar con los elementos distintivos e imagen determinados por la Secretaría;
+XII.- Contar con los elementos distintivos e imagen requeridos, siendo estos, los componentes visuales y normativos que permiten identificar, diferenciar y asegurar la correcta operatividad del Verificentro;
 
-> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2026)</small>
 
-XIII.- Cobrar las tarifas autorizadas por la Secretaría por la prestación del servicio de verificación vehicular; las tarifas deberán indicarse en un lugar visible a los usuarios, dentro de su establecimiento;
+XIII.- Cobrar las tarifas autorizadas por la prestación del servicio de verificación vehicular que se encuentran establecidas en el Código de Derechos para el Estado de Veracruz de Ignacio de la Llave; las tarifas deberán indicarse en un lugar visible a los usuarios, dentro de su establecimiento;
 
 > <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
 
 XIV.- Mantener en vigor la fianza correspondiente, durante la vigencia de la autorización para prestar el servicio de verificación vehicular; y
 
-> <small>(ADICIONADA, G.O. 22 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2026)</small>
 
-XV.- Corroborar que el equipo y programa de cómputo que se instale para proporcionar el servicio de verificación vehicular sea la versión autorizada por la Secretaría, de lo contrario, abstenerse de proporcionar el servicio.
+XV.- Corroborar que el equipo y programa de cómputo que se instale para proporcionar el servicio de verificación vehicular sea la versión autorizada por normatividad y supervisado técnicamente por la autoridad correspondiente, de lo contrario, abstenerse de proporcionar el servicio.
 
-> <small>(REFORMADO, G.O. 16 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, G.O. 15 DE MAYO DE 2026)</small>
 
-Cuando los verificentros incumplan con alguna de las normas establecidas en la presente Ley, la Secretaría podrá iniciar los procedimientos administrativos que correspondan, con base en la documentación e información que proporcionen o con la que disponga la Secretaría, de acuerdo a las formalidades establecidas por el Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave. En su caso, se aplicarán las sanciones correspondientes, pudiendo establecerse, de ser procedente, la revocación de la concesión otorgada.
+Cuando los Verificentros incumplan con alguna de las normas establecidas en la presente Ley, las autoridades competentes, en el ámbito de sus respectivas materias, podrán iniciar los procedimientos administrativos que correspondan, con base en la documentación e información que proporcionen o con la que dispongan, de acuerdo a las formalidades establecidas por el Programa de Verificación Vehicular Obligatoria y el Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave. En su caso, se aplicarán las sanciones correspondientes, pudiendo derivar, de ser procedente, en la revocación de la concesión otorgada.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 16 DE JULIO DE 2014)</small>
 
@@ -3528,3 +3546,15 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Se concede un plazo de sesenta días, contado a partir del inicio de la vigencia del presente Decreto, a efecto de que realicen las modificaciones necesarias a que haya lugar para el puntual cumplimiento del mismo.
+
+G.O. 15 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 512 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE PROTECCIÓN AMBIENTAL".]
+
+PRIMERO. Publíquese en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones jurídicas y administrativas de igual o menor jerarquía que se opongan al presente Decreto.
+
+CUARTO. Las autoridades ambientales y de la SEFIPLAN deberán realizar, en un plazo no mayor a 60 días hábiles contados a partir de la entrada en vigor del presente Decreto, los ajustes administrativos y normativos necesarios para el cumplimiento de las disposiciones aquí contenidas, incluyendo la actualización de manuales administrativos, procedimientos internos y, en su caso, la suscripción de convenios de colaboración.
