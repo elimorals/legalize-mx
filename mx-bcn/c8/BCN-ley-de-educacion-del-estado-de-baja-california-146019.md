@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-educacion-del-estado-de-baja-california-146019"
 country: "mx"
 rank: "ley"
 publication_date: "2020-12-28"
-last_updated: "2026-03-13"
+last_updated: "2026-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=146019&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2026.
 
 Ley publicada en la Sección X del Periódico Oficial del Estado de Baja California, el lunes 28 de diciembre de 2020.
 
@@ -296,6 +296,10 @@ La educación primaria se sujetará a los planes y programas que determine la au
 La edad mínima para ingresar a la educación primaria es de seis años, cumplidos al 31 de diciembre del año de inicio del ciclo escolar.
 
 La educación primaria se enfocará además al conocimiento y desarrollo del idioma inglés.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE MAYO DE 2026)</small>
+
+De igual manera, la educación primaria formentará e impulsará el hábito de lectura.
 
 ###### Artículo 18.
 
@@ -1567,13 +1571,17 @@ IX. Solicitar el refrendo del reconocimiento de validez oficial de estudios al t
 
 X. Dar aviso a la autoridad educativa competente el (sic) cambio de domicilio donde presten el servicio público de educación o cuando dejen de prestarlo conforme a la autorización o reconocimiento de validez oficial de estudios respectiva, para que conforme al procedimiento que se determine en las disposiciones aplicables, se dé inicio al procedimiento de retiro o revocación;
 
-> <small>(REFORMADA, P.O. 26 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
 
-XI. No realizar prácticas nocivas de carácter económicas administrativas que perjudiquen al desarrollo educativo de los educandos o padres de familia como lo son: retención de documentos oficiales por falta de pago de colegiaturas, imposición de compra de útiles escolares, uniformes, libros de texto, materiales de aseo en comercios exclusivos; así como la obligación de realizar pagos extraordinarios para la realización de festejos ajenos a los fines de la educación; así como la compra y venta de objetos promocionales; y,
+XI. No realizar prácticas nocivas de carácter económicas administrativas que perjudiquen al desarrollo educativo de los educandos, madres o padres de familia como lo son: retención de documentos oficiales por falta de pago de colegiaturas, imposición de compra de útiles escolares, uniformes, libros de texto, materiales de aseo en comercios exclusivos; así como la obligación de realizar pagos extraordinarios para la realización de festejos ajenos a los fines de la educación; así como la compra y venta de objetos promocionales;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 26 DE MAYO DE 2023)</small>
+> <small>(REFORMADA, P.O. 15 DE MAYO DE 2026)</small>
 
-XII. Solicitar al personal educador, docente, profesorado y/o maestro, título profesional, cédula profesional, registro profesional estatal o en su caso la autorización provisional y tratándose de especialistas, cédula expedida por la autoridad educativa competente y certificado vigente otorgado por el Consejo de Especialidad Médica correspondiente a la rama médica de la que derive la formación educativa que imparta.
+XII. Solicitar al personal educador, docente, profesorado y/o maestro, título profesional, cédula profesional, registro profesional estatal o en su caso, la autorización provisional y, tratándose de especialistas, cédula expedida por la autoridad educativa competente y certificado vigente otorgado por el Consejo de Especialidad Médica correspondiente a la rama médica de la que derive la formación educativa que imparta; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE MAYO DE 2026)</small>
+
+XIII. Garantizar la inclusión y no discriminación en los procesos de admisión, permanencia y egreso, absteniéndose de condicionar el acceso al servicio educativo por motivos de discapacidad, salud, embarazo, situación socioeconómica, rendimiento académico u otras causas que atenten contra el derecho a la educación.
 
 ###### Artículo 124.
 
@@ -1970,3 +1978,15 @@ P.O. 13 DE MARZO DE 2026.
 ## [N. DE E. TRANSITORIO DEL "DECRETO NO. 238 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 19 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA".]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 15 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 264 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 123 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 15 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO No. 265 MEDIANTE EL CUAL SE APRUEBA LA REFORMA AL ARTÍCULO 17 DE LA LEY DE EDUCACIÓN DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
