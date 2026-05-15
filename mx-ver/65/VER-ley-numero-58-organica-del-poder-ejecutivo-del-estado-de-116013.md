@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-58-organica-del-poder-ejecutivo-del-estado-de-116013
 country: "mx"
 rank: "ley"
 publication_date: "2000-05-19"
-last_updated: "2026-02-25"
+last_updated: "2026-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=116013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE MAYO DE 2026.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 19 de mayo de 2000.
 
@@ -617,17 +617,15 @@ XXII. Realizar los traslados ordenados por los órganos jurisdiccionales, de las
 
 XXIII. Coordinar, dirigir y supervisar la Unidad de Análisis e Inteligencia que estará bajo su adscripción con las facultades conferidas en la Ley del Sistema Estatal de Seguridad Pública para el Estado de Veracruz de Ignacio de la Llave y otras disposiciones aplicables;
 
-> <small>(ADICIONADA, G.O. 11 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2026)</small>
 
-XXIV. Adoptar, en el ámbito de sus respectivas competencias, las acciones necesarias para priorizar la prevención del delito de extorsión y supervisar que su personal se encuentre debidamente capacitado en su prevención;
+XXIV. Adoptar, en el ámbito de sus respectivas competencias, las acciones necesarias para priorizar la prevención del delito de extorsión y supervisar que su personal se encuentre debidamente capacitado en su prevención, y
 
-> <small>(ADICIONADA, G.O. 11 DE DICIEMBRE DE 2025)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2026)</small>
 
-XXV. Diseñar e implementar una estrategia para prevenir y combatir el delito de extorsión, misma que deberá estar alineada a los contenidos mínimos de la Estrategia Nacional a cargo de la Federación y cuyo diagnóstico deberá estar ajustado al contexto social y territorial del Estado; y
+XXV. Diseñar e implementar una estrategia para prevenir y combatir el delito de extorsión, misma que deberá estar alineada a los contenidos mínimos de la Estrategia Nacional a cargo de la Federación y cuyo diagnóstico deberá estar ajustado al contexto social y territorial del Estado.
 
-> <small>(ADICIONADA, G.O. 31 DE MARZO DE 2021)</small>
-
-XXVI. Coordinar y supervisar la Unidad de Inteligencia Patrimonial y Económica que estará bajo su adscripción, para llevar a cabo las funciones y actividades conforme a la Ley del Sistema Estatal de Seguridad Pública para el Estado de Veracruz de Ignacio de la Llave y demás disposiciones legales y administrativas aplicables.
+XXVI. (DEROGADA, G.O. 15 DE MAYO DE 2026)
 
 De la Secretaría de Finanzas y Planeación
 
@@ -751,7 +749,9 @@ XLII. Asesorar al Gobernador del Estado en la elaboración de los convenios que 
 
 XLIII. Formular las bases y normas de planeación, programación, presupuestación, ejecución y evaluación, que deberán observar las dependencias de la Administración Pública Estatal en materia de adquisiciones;
 
-XLIV. (DEROGADA, G.O. 2 DE JULIO DE 2004)
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE MAYO DE 2026)</small>
+
+XLIV. Ejercer las atribuciones que correspondan al Estado en materia de inteligencia financiera a través de la Unidad de Inteligencia Patrimonial, Económica y Fiscal, en términos de las disposiciones jurídicas aplicables;
 
 XLV. Verificar y comprobar el cumplimiento de las normas y disposiciones en materia de sistemas de registro y contabilidad, contratación de servicios, obra pública, resguardos, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles; concesiones, almacenes y demás activos y recursos materiales de la Administración Pública Estatal;
 
@@ -789,13 +789,21 @@ LVI. Tramitar y ejecutar los acuerdos del Gobernador del Estado relativos a la e
 
 LVII. Mantener actualizado el avalúo de los bienes inmuebles estatales; el catastro y la información geográfica y estadística de la Entidad.
 
-> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2026)</small>
 
-LVIII. Evaluar los programas presupuestarios de las dependencias y entidades de la administración pública estatal, en el marco del sistema de evaluación del desempeño, previsto en el Código Financiero para el Estado de Veracruz de Ignacio de la Llave; y
+LVIII. Evaluar los programas presupuestarios de las dependencias y entidades de la administración pública estatal, en el marco del sistema de evaluación del desempeño, previsto en el Código Financiero para el Estado de Veracruz de Ignacio de la Llave;
 
-> <small>(ADICIONADA, G.O. 26 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.O. 15 DE MAYO DE 2026)</small>
 
-LIX. Transparentar y difundir la información financiera de las dependencias y entidades de la administración pública estatal, de acuerdo con las disposiciones aplicables.
+LIX. Transparentar y difundir la información financiera de las dependencias y entidades de la administración pública estatal, de acuerdo con las disposiciones aplicables;
+
+> <small>(ADICIONADA, G.O. 15 DE MAYO DE 2026)</small>
+
+LX. Concesionar la prestación del servicio de verificación vehicular, así como operar, administrar, supervisar, sancionar o, en su caso, revocar en el ámbito administrativo y fiscal las concesiones de Centros de Verificación y Verificentros autorizados en el Estado; y
+
+> <small>(ADICIONADA, G.O. 15 DE MAYO DE 2026)</small>
+
+LXI. Coadyuvar en el ámbito de su competencia con la Secretaría de Medio Ambiente en la elaboración del Programa de Verificación Vehicular Obligatoria, así como las demás disposiciones que deban observar los titulares de las concesiones que prestan el servicio de verificación vehicular y los usuarios del servicio.
 
 > <small>(REFORMADA SU DENOMINACIÓN, G.O. 13 DE ENERO DE 2006)</small>
 
@@ -3214,3 +3222,17 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. En un plazo no mayor a 180 días naturales contado a partir de la entrada en vigor del presente Decreto, la persona Titular del Ejecutivo del Estado deberá expedir las adecuaciones correspondientes a la normativa que resulte necesaria en la aplicación del presente Decreto.
 
 Tercero. Se derogan todas aquellas disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+G.O. 15 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 511 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. Publíquese en la Gaceta Oficial, Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO. Se derogan todas las disposiciones jurídicas de igual o menor jerarquía que se opongan al presente Decreto.
+
+CUARTO. La Secretaría de Finanzas y Planeación contará con un plazo de noventa días hábiles, a partir de la entrada en vigor del presente instrumento, para hacer las adecuaciones reglamentarias necesarias.
+
+QUINTO. La Secretaría de Seguridad Pública y la Secretaría de Finanzas y Planeación deberán efectuar todas las acciones administrativas y coordinar la transferencia, en caso de ser necesario, de los recursos humanos, materiales, presupuestarios, financieros, bases de datos y sistemas informáticos relacionados con la Unidad de Inteligencia Patrimonial y Económica que la primera tenía adscrita, en un plazo no mayor a treinta días hábiles, contados a partir de la entrada en vigor del presente Decreto.
