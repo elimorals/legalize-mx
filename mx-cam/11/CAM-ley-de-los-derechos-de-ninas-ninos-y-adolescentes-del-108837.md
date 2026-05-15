@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-108837"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-02"
-last_updated: "2025-12-16"
+last_updated: "2026-05-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108837&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CAM"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MAYO DE 2026.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el martes 2 de junio de 2015.
 
@@ -86,6 +86,10 @@ Cuando se tome una decisión o se realice una actuación, que afecte a niñas, n
 El Congreso del Estado, así como las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, deberán incorporar en sus proyectos de presupuestos la asignación de recursos que permitan dar cumplimiento a las acciones establecidas por la presente Ley. El presupuesto estatal a favor de niñas, niños y adolescentes deberá utilizarse íntegramente para estos fines.
 
 Los fondos y recursos destinados a la creación, desarrollo y aplicación de las políticas definidas por el Sistema Estatal de Protección Integral, a la garantía de los derechos de niñas, niños y adolescentes por parte de las instituciones públicas y a la implementación del Programa Estatal son prioritarios y de interés público, por lo que serán objeto de seguimiento y evaluación por parte del Sistema Estatal de Protección Integral.
+
+> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2026)</small>
+
+Las niñas, niños y adolescentes en orfandad como consecuencia del delito de feminicidio tendrán acceso prioritario a los programas sociales que otorgue el Estado y los Municipios, en el ámbito de sus respectivas competencias, y que por su naturaleza puedan acceder.
 
 ###### Artículo 3.
 
@@ -2386,3 +2390,11 @@ P.O. 16 DE DICIEMBRE DE 2025.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones legales y reglamentarias del marco normativo local en lo que se opongan al presente decreto.
+
+P.O. 15 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 226 POR EL QUE "SE ADICIONA UN PÁRRAFO SEXTO AL ARTÍCULO 2 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de inicio de vigencia del decreto por el que se reforma el párrafo tercero del artículo 6o. de la Constitución Política del Estado de Campeche, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
