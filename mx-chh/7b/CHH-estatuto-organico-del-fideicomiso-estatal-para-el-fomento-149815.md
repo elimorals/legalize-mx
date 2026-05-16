@@ -4,7 +4,7 @@ identifier: "CHH-estatuto-organico-del-fideicomiso-estatal-para-el-fomento-14981
 country: "mx"
 rank: "estatuto"
 publication_date: "2021-06-12"
-last_updated: "2021-06-12"
+last_updated: "2026-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # ESTATUTO ORGANICO DEL FIDEICOMISO ESTATAL PARA EL FOMENTO DE LAS ACTIVIDADES PRODUCTIVAS EN EL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ESTATUTO ORGÁNICO DEL FIDEICOMISO ESTATAL PARA EL FOMENTO DE LAS ACTIVIDADES PRODUCTIVAS EN EL ESTADO DE CHIHUAHUA, PUBLICADO EN EL P.O. DE 16 DE MAYO DE 2026, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 ESTATUTO ORGÁNICO DEL FIDEICOMISO ESTATAL PARA EL FOMENTO DE LAS ACTIVIDADES PRODUCTIVAS EN EL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2026 (ABROGADO).
 
 Estatuto publicado en el Anexo al No. 47 del Periódico Oficial del Estado de Chihuahua, el sábado 12 de junio de 2021.
 
@@ -508,3 +510,21 @@ EN REPRESENTACIÓN DEL INSTITUTO DE APOYO AL DESARROLLO TECNOLÓGICO
 LIC. ANA GUADALUPE LÓPEZ GONZÁLEZ
 
 ENCARGADA DE DESPACHO DE LA OFICINA DE REPRESENTACIÓN DE CHIHUAHUA DE LA SECRETARÍA DE ECONOMÍA DEL GOBIERNO FEDERAL
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 16 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “ESTATUTO ORGÁNICO DEL FIDEICOMISO ESTATAL PARA EL FOMENTO DE LAS ACTIVIDADES PRODUCTIVAS EN EL ESTADO DE CHIHUAHUA”.]
+
+PRIMERO. El presente Estatuto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Chihuahua.
+
+SEGUNDO. Inscríbase el presente Estatuto en el Registro Público de Organismos Descentralizados.
+
+TERCERO. Se abroga el Estatuto Orgánico del Fideicomiso Estatal para el Fomento de las Actividades Productivas en el Estado de Chihuahua, publicado en el ejemplar No. 47 del Periódico Oficial del Estado, el 12 de junio de 2021.
+
+CUARTO. En todo lo no previsto por este ordenamiento, se aplicarán supletoriamente las disposiciones establecidas en la normatividad aplicable.
+
+QUINTO. Los asuntos pendientes de resolución a la entrada en vigor del presente Acuerdo, continuarán su trámite y serán resueltos por aquellas unidades administrativas a las que se les haya atribuido la competencia en términos de este ordenamiento.
+
+SEXTO. En tanto se elaboren y se expidan los manuales de organización y reglamentos derivados del presente Estatuto, la Persona Titular de la Dirección General quedará facultada para resolver las cuestiones que conforme a dichos manuales o reglamentos deben regular el cabal funcionamiento del FIDEAPECH.
