@@ -4,7 +4,7 @@ identifier: "TAB-ley-general-de-transito-y-vialidad-del-estado-de-tabasco-50298"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-03-29"
-last_updated: "2024-04-27"
+last_updated: "2026-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY GENERAL DE TRÁNSITO Y VIALIDAD DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2026.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 29 de marzo de 2006.
 
@@ -35,7 +35,7 @@ Que el H. Congreso del Estado, se ha servido dirigirme lo siguiente:
 
 LA QUINCUAGÉSIMA OCTAVA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LAS FACULTADES QUE LE CONFIEREN LOS ARTÍCULOS 25 Y 36, FRACCIÓN I, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TABASCO;
 
-.
+[...]
 
 Por lo que se emite el siguiente:
 
@@ -339,17 +339,25 @@ I. Que sea apto física y mentalmente para conducir el vehículo que corresponde
 
 II. En los casos de personas con discapacidad que puedan conducir con las adaptaciones pertinentes a sus Vehículos, la autoridad deberá asegurarse mediante perito o especialista en la materia, que el estado físico del solicitante no constituye un impedimento insalvable que ponga en riesgo la vida e integridad corporal del conductor, sus pasajeros y demás conductores y Personas peatonas que hagan uso de la Vía pública;
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 16 DE MAYO DE 2026)</small>
 
-III. Que el solicitante sepa leer y escribir, que apruebe los exámenes físicos, (aptitud visual, auditiva y motriz), psicológicos, de manejo en tres modalidades (conducción en circuito de prueba o en área urbana de bajo riesgo, conducción en área urbana de tránsito medio y conducción nocturna); y de conocimiento sobre las disposiciones normativas de circulación en la vía pública y carreteras, prevención de accidentes de tránsito y naturaleza de las señales viales;
+III. Que el solicitante sepa leer y escribir, que apruebe los exámenes físicos, (aptitud visual, auditiva y motriz), psicológicos, de manejo en tres modalidades (conducción en circuito de prueba o en área urbana de bajo riesgo, conducción en área urbana de tránsito medio y conducción nocturna); y de conocimiento sobre las disposiciones normativas de circulación en la vía pública y carreteras, prevención de accidentes de tránsito y naturaleza de las señales viales, que demuestren sus habilidades y aptitudes necesarias para conducir un vehículo motorizado en cualquiera de sus modalidades.
 
-> <small>(REFORMADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2026)</small>
 
-IV. Una declaración bajo protesta de decir verdad sobre el padecimiento de afecciones a su salud; y
+En el caso de que el solicitante sea una persona con discapacidad, los exámenes citados en el párrafo anterior deberán realizarse utilizando formatos accesibles con ajustes razonables y con el apoyo pertinente, para lo cual, las autoridades competentes deberán emitir los lineamientos respectivos;
 
-> <small>(ADICIONADA, P.O. 16 DE OCTUBRE DE 2019)</small>
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2026)</small>
 
-V. La constancia de educación vial expedida por la Dirección de Ingeniería de Tránsito, Educación y Seguridad Vial de la Policía Estatal de Caminos o la Dirección de Tránsito Municipal de su residencia.
+IV. Una declaración bajo protesta de decir verdad sobre el padecimiento, en su caso, de afecciones a su salud;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MAYO DE 2026)</small>
+
+V. Manifestar, de manera expresa y por escrito, su voluntad respecto a ser o no donador de órganos, tejidos y células, mediante el formato que para tal efecto expida la autoridad competente, a fin de que dicha información sea incorporada en la licencia de conducir y remitida al Centro Estatal de Trasplantes para su registro y actualización correspondientes. Esta voluntad podrá ser revocable mediante manifestación por escrito de su autor; y
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE MAYO DE 2026)</small>
+
+VI. La constancia de educación vial expedida por la Dirección de Ingeniería de Tránsito, Educación y Seguridad Vial de la Policía Estatal de Caminos o el área competente de la Dirección de Tránsito Municipal de su residencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2023)</small>
 
@@ -373,13 +381,17 @@ VI. Fecha de otorgamiento y vencimiento;
 
 VII. Apellidos, nombre o nombres, firma, cargo del responsable de autorizar la licencia y Dependencia expedidora;
 
-> <small>(REFORMADA, P.O. 19 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2026)</small>
 
-VIII. Grupo y factor sanguíneo del Titular; y
+VIII. Grupo y factor sanguíneo del Titular;
 
-> <small>(ADICIONADA, P.O. 19 DE ABRIL DE 2023)</small>
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2026)</small>
 
-IX. Código QR.
+IX. Código QR; y
+
+> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2026)</small>
+
+X. La manifestación expresa de voluntad del titular respecto a ser o no donador de órganos, tejidos y células, conforme a lo señalado en el artículo 20 de esta Ley.
 
 ###### ARTÍCULO 22.
 
@@ -395,11 +407,11 @@ III. Chofer: se expedirá a personas que pretendan conducir vehículos del servi
 
 La expedición de licencias y permisos para conducir en el Estado, es una facultad que corresponde a la Dirección General de la Policía Estatal de Caminos; habilitarán a su titular para conducir cualquier tipo de vehículo que corresponda a su modalidad de licencia, en toda la red carretera estatal.
 
-> <small>(REFORMADO, P.O. 19 DE ABRIL DE 2023)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2026)</small>
 
 ###### ARTÍCULO 23.
 
-Vencido el plazo de vigencia de una Licencia de conducir, el titular de la misma deberá hacer el trámite de renovación, así como cumplir con lo exigido en el artículo 20 de esta Ley y efectuar el pago de los derechos correspondientes ante la Secretaría de Finanzas. Cuando existan antecedentes de adeudo de Infracciones, suspensiones o cancelaciones, el titular de la Licencia de conducir deberá sujetarse al cumplimiento de las disposiciones que para cada caso se hayan determinado.
+Vencido el plazo de vigencia de una Licencia de conducir, el titular de esta, deberá hacer el trámite de renovación, de manera presencial o en línea, previo el pago de los derechos correspondientes ante la Secretaría de Administración y Finanzas. Cuando existan antecedentes de adeudo de Infracciones, suspensiones o cancelaciones, el titular de la Licencia de conducir deberá sujetarse al cumplimiento de las disposiciones que para cada caso se hayan determinado.
 
 ### Capítulo II
 
@@ -481,7 +493,9 @@ En los casos de suspensión, el titular de la licencia deberá aprobar los exám
 
 La autoridad competente de la expedición de la Licencia de conducir podrá cancelar la vigencia de la misma, bajo los siguientes supuestos:
 
-l. Cuando se compruebe que la información proporcionada para su expedición sea falsa, o bien algunos de los documentos o constancias exhibidas sean apócrifas;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2026)</small>
+
+l. Cuando se compruebe que la información proporcionada para su expedición o renovación sea falsa, o bien algunos de los documentos o constancias exhibidas sean apócrifos;
 
 II. Por incapacidad física y/o mental del titular, superveniente a la expedición de la licencia;
 
@@ -771,9 +785,11 @@ Los conductores deberán ceder el paso cuando las Personas peatonas se encuentre
 
 ### Capítulo IV. De las restricciones a la circulación en la vía publica
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 52.
 
-Esta prohibido en la vía pública:
+Está prohibido en la vía pública:
 
 I. Conducir con los impedimentos físicos o psíquicos, sin la licencia especial correspondiente, en estado de intoxicación alcohólica o habiendo tomado estupefacientes o medicamentos que disminuyan la aptitud para conducir;
 
@@ -820,6 +836,10 @@ XIX. Efectuar reparaciones, salvo arreglos circunstanciales, en cualquier tipo d
 XX. Dejar animales sueltos y arrear ganado, sin el señalamiento correspondiente;
 
 XXI. Estorbar u obstaculizar de cualquier forma la calzada, calle o la banqueta y hacer construcciones, instalarse o realizar venta de productos en zona alguna del camino;
+
+> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2026)</small>
+
+XXI Bis. Reservar lugares para el estacionamiento en la vía pública o colocar objetos que obstaculicen el libre tránsito de vehículos; en ese caso los objetos respectivos serán removidos por los agentes de la Policía Estatal de Caminos o de Tránsito de los municipios, en cualquier momento. Los titulares de esas corporaciones, según su respectivo ámbito de competencia, serán los únicos autorizados para conceder permisos temporales y establecer zonas de estacionamiento exclusivo en la vía pública, de conformidad con los estudios y resoluciones que sobre el particular realicen;
 
 XXII. Circular en vehículo con bandas de rodamiento metálicas o con grapas, tetones, cadenas, uñas, u otro elemento que dañe el pavimento;
 
@@ -997,23 +1017,37 @@ La prestación del servicio público a que se refiere este artículo, generará 
 
 Tratándose de los casos previstos en la fracción I del artículo anterior, la Secretaría de Seguridad y Protección Ciudadana, a través de la Policía Estatal de Caminos, y en su caso la autoridad de tránsito municipal, serán los únicos facultados para trasladar los vehículos en las vías públicas de su jurisdicción.
 
-> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2026)</small>
 
 ###### Artículo 65 Quáter.
 
-La Secretaría de Seguridad y Protección Ciudadana, a través de la Policía Estatal de Caminos, o en su caso, las autoridades de tránsito municipal, prestarán el servicio de transporte público de grúas, remolques y depósito tratándose de hechos o accidentes de tránsito, en los términos siguientes:
+La Secretaría de Seguridad y Protección Ciudadana, a través de la Policía Estatal de Caminos o, en su caso, las autoridades de tránsito municipal coordinarán y, en su caso, prestarán el servicio público de grúas, remolques y depósito vehicular cuando, con motivo de hechos o accidentes de tránsito, sea necesario retirar vehículos de la vía pública.
 
-I. En caso de que se requiera retirar de la vía pública algún vehículo, el Policía Vial o Agente de que se trate, deberá primero solicitar una grúa a la autoridad de tránsito con jurisdicción en el lugar;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE MAYO DE 2026)</small>
 
-II. En caso de que la autoridad de tránsito competente no cuente con grúas disponibles, el oficial de tránsito a cargo, proporcionará al propietario, posesionario o conductor del vehículo, una lista del padrón de los concesionarios y permisionarios del servicio público de grúas y remolques, misma que deberá tener la tarifa autorizada por la Secretaría de Movilidad del Estado, para que éste decida y elija libremente el servicio a su conveniencia; y
+Cuando la autoridad competente cuente con disponibilidad operativa y presupuestal para prestar directamente el servicio, lo realizará en términos del artículo 105 Bis de la Ley de Movilidad para el Estado de Tabasco y de las disposiciones reglamentarias aplicables; en caso contrario, el servicio será prestado por concesionarios o permisionarios autorizados, conforme a las reglas siguientes:
 
-III. En caso de que el propietario, posesionario o conductor del vehículo se encuentre imposibilitado para decidir, en su lugar, podrá hacerlo el ajustador de la aseguradora que ampara al vehículo, y en caso de no estar presente o no contar con seguro, la autoridad de tránsito solicitará la grúa del concesionario o permisionario que se encuentre en turno, para remitirlo al depósito vehicular correspondiente.
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2026)</small>
 
-> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2024)</small>
+I. Determinada la necesidad de retirar de la vía pública algún vehículo, el Policía Vial o Agente de que se trate solicitará el servicio al área operativa correspondiente de la autoridad de tránsito con jurisdicción en el lugar;
+
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2026)</small>
+
+II. Si la autoridad de tránsito competente no cuenta con grúas disponibles y el servicio debe ser prestado por concesionarios o permisionarios autorizados, la asignación se realizará conforme al rol vigente elaborado por la Secretaría de Movilidad, en términos del artículo 103 de la Ley de Movilidad para el Estado de Tabasco, sujetándose el cobro estrictamente a las tarifas autorizadas por dicha dependencia; y
+
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2026)</small>
+
+III. En caso de que el propietario, posesionario o conductor del vehículo se encuentre material o jurídicamente imposibilitado para intervenir en el procedimiento de asignación o retiro del vehículo, podrá hacerlo en su representación el ajustador de la aseguradora que ampara al vehículo; si éste no se encuentra presente o el vehículo no cuenta con seguro, la autoridad de tránsito solicitará el servicio al concesionario o permisionario que corresponda conforme al rol vigente.
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2026)</small>
+
+El retiro del vehículo tendrá por objeto su liberación de la vía pública; la remisión al depósito vehicular únicamente procederá cuando exista causa legal que la justifique, debiendo asentarse tal circunstancia en el acta correspondiente.
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2026)</small>
 
 ###### Artículo 65 Quinquies.
 
-Tratándose de accidentes de tránsito o vehículos siniestrados, los concesionarios y permisionarios particulares no podrán mover o trasladar un vehículo sin la autorización del conductor o propietario del vehículo de que se trate y excepcionalmente de las autoridades de tránsito municipal o estatal.
+Tratándose de accidentes de tránsito o vehículos siniestrados, los concesionarios y permisionarios particulares no podrán mover o trasladar un vehículo sin la autorización del conductor o propietario del vehículo de que se trate y excepcionalmente de las autoridades de tránsito municipal o estatal, debiendo sujetarse al rol que mediante acuerdo elabore la Secretaría.
 
 > <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2024)</small>
 
@@ -1023,9 +1057,29 @@ En la prestación del servicio de transporte público de grúas, remolques y dep
 
 I. Adoptar las previsiones y cuidados necesarios para evitar daños a los vehículos. Al iniciar el traslado o el salvamento, deberán levantar un inventario del vehículo y de lo que se encuentra en su interior. Asimismo, deberán sellar todas las puertas, incluida la del portaequipaje y el cofre, con etiquetas adheribles, realizando un resguardo videográfico de las condiciones en las que éste es trasladado. Cuando se trate de salvamento, éste se realizará una vez concluida la maniobra correspondiente;
 
-II. Hacerse responsables del daño, sustracción de piezas o extravío de documentos y objetos que se encuentren en el interior de los vehículos y que consten en el inventario correspondiente, y de los daños que se causen al vehículo, por negligencia, impericia, falta de cuidado o de equipo adecuado, conforme a la norma aplicable; y
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2026)</small>
 
-III. Expedir la copia del inventario o resguardo videográfico cuando les fuere solicitado.
+II. Hacerse responsables del daño, sustracción de piezas o extravío de documentos y objetos que se encuentren en el interior de los vehículos y que consten en el inventario correspondiente, y de los daños que se causen al vehículo, por negligencia, impericia, falta de cuidado o de equipo adecuado, conforme a la norma aplicable;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MAYO DE 2026)</small>
+
+III. Respetar el rol que al efecto elabore la Secretaría de Movilidad;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 16 DE MAYO DE 2026)</small>
+
+IV. Expedir la copia del inventario o resguardo videográfico cuando les fuere solicitado;
+
+> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2026)</small>
+
+V. Expedir el correspondiente comprobante fiscal por el cobro de los servicios que presten, y
+
+> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2026)</small>
+
+VI. Las demás que se establezcan en las disposiciones legales y reglamentarias aplicables.
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2026)</small>
+
+El incumplimiento de las disposiciones contenidas en este capítulo dará lugar a la aplicación de las sanciones que establece esta Ley y las demás disposiciones que resulten aplicables.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE ABRIL DE 2023)</small>
 
@@ -1131,6 +1185,16 @@ d) Cuando esté prestando un servicio de transporte público de pasajeros careci
 
 Las autoridades en materia de tránsito, vialidad y control vehicular, transcurrido el plazo de tres meses al que se refiere el artículo 32 de la Ley para la Administración y Destino de Bienes Asegurados, Abandonados o Decomisados, del Estado de Tabasco, pondrán a disposición del Servicio Estatal de Administración de Bienes Asegurados, Abandonados o Decomisados, del Estado de Tabasco, los vehículos cuyos legítimos propietarios o posesionarios no hayan comparecido a recogerlos o regularizarlos, con la finalidad de iniciar el procedimiento al que se refiere el Capítulo Quinto de la citada legislación.
 
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2026)</small>
+
+###### Artículo 68-B.
+
+Cuando un vehículo motorizado, se encuentre estacionado en cualquiera de los lugares prohibidos, señalados en la presente Ley o en los Reglamentos respectivos, podrá ser inmovilizado por el agente, mediante la colocación de un dispositivo, aun cuando esté presente el conductor o alguna otra persona, sin perjuicio de la multa que corresponda por la infracción cometida.
+
+Colocado el inmovilizador a que se refiere el párrafo anterior y transcurridos treinta minutos desde su colocación, sin que se hubiere presentado la persona conductora o responsable, su propietario o algún representante legal, o sin que las que estén dentro del vehículo cubran la infracción y retiren el vehículo, se solicitará el apoyo de una grúa para trasladarlo al depósito que corresponda y deberá cubrirse el importe de las multas por las infracciones cometidas, más los derechos y las tarifas que fueren procedentes, conforme a las disposiciones aplicables. El tiempo señalado, en ningún momento será considerado como permiso, autorización o margen de tolerancia para estacionarse en un lugar prohibido. Cuando se pague la multa que corresponda a la infracción cometida, antes de que el vehículo sea trasladado con una grúa al depósito respectivo, será retirado el dispositivo inmovilizador y liberado.
+
+Cuando la persona infractora o alguna otra, impida, dificulte, retire o se niegue a que se ejerzan las acciones de inmovilización a que se refiere este artículo, a la elaboración de boletas de infracción, insulte o denigre al agente, será presentado ante la autoridad competente. En ese caso, el vehículo será liberado hasta que se hayan cubierto las sanciones económicas y las multas correspondientes.
+
 ###### ARTÍCULO 69.
 
 La liberación de un vehículo detenido por la autoridad competente, en términos del artículo anterior, deberá realizarse previa resolución de aquélla, y toda vez que el propietario del vehículo hubiere cubierto los gastos de arrastre y depósito del vehículo a que se hubiere hecho acreedor.
@@ -1151,7 +1215,9 @@ Son autoridades facultadas para ordenar y ejecutar las sanciones correspondiente
 
 Son responsables de infracciones, delitos, faltas, actos u omisiones en materia de tránsito para esta ley:
 
-I. Las personas que incurran en las conductas antijurídicas previstas, aun sin intencionalidad;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2026)</small>
+
+I. Las personas que incurran en las prohibiciones o conductas antijurídicas previstas en esta Ley, su Reglamento y demás disposiciones en la materia que resulten aplicables.
 
 II. Los mayores de edad. Los comprendidos entre 14 y 17 años, serán juzgados o sujetos a procedimiento administrativo en base a la normatividad sobre menores infractores en el Estado de Tabasco. Sus representantes legales serán solidariamente responsables por las multas que se le apliquen; y
 
@@ -1171,7 +1237,9 @@ I. Las violaciones genéricas y específicas a esta ley, su reglamento y demás 
 
 II. La falta de precaución o de previsión personal, que deriven en incidentes de Tránsito y ocasionen daños materiales a bienes privados o públicos, de cuantía mayor al equivalente a doscientas veces el valor diario de la Unidad de Medida y Actualización; o causen lesiones simples, graves o la muerte de otro conductor, pasajero y/o Persona peatona;
 
-III. Las que significan obstrucción a la circulación, y por lo tanto, ataques a las vías generales de comunicación terrestre;
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2026)</small>
+
+III. Las que significan obstrucción a la circulación y, por lo tanto, ataques a las vías generales de comunicación terrestre; así como las prohibiciones establecidas en el artículo 52, fracción XXI Bis, de esta Ley;
 
 IV. Las que dificulten e impidan el estacionamiento y/o la detención de vehículos del servicio público de pasajeros y de emergencia en los lugares reservados y especialmente en casos de urgencia;
 
@@ -1239,7 +1307,13 @@ II. Inhabilitación para conducir Vehículos o determinada categoría de ellos e
 
 III. Multa; y
 
-IV. Concurrencia a cursos especiales de educación y capacitación para el correcto uso de la vía pública. Esta sanción puede ser aplicada como alternativa de la multa para infracciones leves y como adicional a la multa en infracciones graves.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE MAYO DE 2026)</small>
+
+IV. Retiro de los objetos o bienes y multa de 1 a 10 Unidades de Medida y Actualización vigente a quienes violen la prohibición contenida en el artículo 52, fracción XXI Bis, de esta Ley. Tratándose de personas jornaleras, obreras, trabajadoras no asalariadas, personas desempleadas o sin ingresos, la multa no deberá exceder de una vez la Unidad de Medida y Actualización; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 16 DE MAYO DE 2026)</small>
+
+V. Concurrencia a cursos especiales de educación y capacitación para el correcto uso de la vía pública. Esta sanción puede ser aplicada como alternativa de la multa para infracciones leves y como adicional a la multa en infracciones graves.
 
 La normatividad reglamentaria en la materia establecerá el procedimiento para la aplicación de sanciones, de cada infracción, en términos de esta ley.
 
@@ -1626,3 +1700,73 @@ PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes a
 SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
 
 TERCERO.- En un plazo no mayor a 180 días hábiles, el Titular del Poder Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, deberán expedir las reformas y adiciones que sean necesarias a los Reglamentos en la materia para armonizarlos a las disposiciones contenidas en el presente decreto.
+
+P.O. 16 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 262 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 65 QUÁTER; 65 QUINQUIES; Y 65 SEXIES, EN SU FRACCIÓN III; Y SE ADICIONAN AL ARTÍCULO 65 QUÁTER, UN PÁRRAFO SEGUNDO; AL 65 SEXIES, LAS FRACCIONES IV, V Y VI, Y UN PÁRRAFO SEGUNDO; ASÍ COMO EL ARTÍCULO 68-B, TODAS DE LA LEY GENERAL DE TRÁNSITO Y VIALIDAD DEL ESTADO DE TABASCO".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Movilidad del Estado, en un plazo no mayor a noventa días hábiles contados a partir de la entrada en vigor del presente Decreto, deberá adecuar, actualizar o emitir las tarifas aplicables al servicio público de grúas, remolques, arrastre, salvamento y depósitos vehiculares, a efecto de armonizarlas con las modalidades y métodos de cobro previstos en el mismo.
+
+###### ARTÍCULO TERCERO.
+
+En el mismo plazo señalado en el transitorio segundo, la Secretaría de Movilidad deberá emitir o adecuar los lineamientos administrativos necesarios para la correcta aplicación de las disposiciones contenidas en los artículos a que se refiere el presente Decreto, en particular aquellos relacionados con la verificación, supervisión y control del servicio.
+
+###### ARTÍCULO CUARTO.
+
+Las persona concesionarias y permisionarias del servicio público de grúas, remolques y depósitos vehiculares contarán con un plazo de noventa días hábiles contados a partir de la entrada en vigor del presente Decreto, para ajustar sus procedimientos operativos y de cobro a las disposiciones contenidas en el presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Durante el período de adecuación a que se refieren los artículos transitorios Segundo y Cuarto del presente Decreto, únicamente podrán cobrarse los conceptos y montos que se encuentren expresamente autorizados y vigentes, quedando prohibido cualquier cobro discrecional o no previsto.
+
+###### ARTÍCULO SEXTO.
+
+Las autoridades competentes deberán iniciar acciones de supervisión, inspección y verificación para vigilar el cumplimiento de las disposiciones contenidas en el presente Decreto, conforme a sus atribuciones legales.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las autoridades estatales y municipales en materia de tránsito, vialidad y control vehicular deberán expedir, en el ámbito de sus respectivas competencias, las demás disposiciones reglamentarias y administrativas necesarias, para la homologación y debido cumplimiento de las disposiciones contenidas en el presente Decreto, en un plazo no mayor a 180 días naturales, a partir de su entrada en vigor.
+
+En el mismo plazo a que se refiere el párrafo anterior, deberán llevar a cabo los procedimientos legales y administrativos, para en su caso, acorde a sus disponibilidades presupuestales, adquirir e implementar el uso de los dispositivos inmovilizadores a que se refiere el presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 16 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 263 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 72 FRACCIÓN I, 74 FRACCIÓN III Y 80 FRACCIÓN IV; Y SE ADICIONA LA FRACCIÓN XXI BIS AL ARTÍCULO 52 Y LA FRACCIÓN V AL ARTÍCULO 80 DE LA LEY GENERAL DE TRÁNSITO Y VIALIDAD DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Dentro de los noventa días naturales siguientes a la entrada en vigor del presente Decreto el Gobernador del Estado deberá expedir las reformas y adiciones al Reglamento de la Ley General de Tránsito y Vialidad del Estado de Tabasco, para armonizarlo al mismo.
+
+TERCERO. Dentro de los tres meses siguientes a su publicación, los Ayuntamientos del Estado, deberán adecuar sus reglamentos, así como su respectivo Bando de Policía y Buen Gobierno, para armonizarlos a las disposiciones contenidos (sic) en el presente Decreto.
+
+CUARTO. Se derogan las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 16 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 264 POR EL QUE “SE REFORMAN: LAS FRACCIONES IV, Y V, DEL ARTÍCULO 20; LAS FRACCIONES VIII, Y IX, DEL ARTÍCULO 21; Y SE ADICIONAN: LA FRACCIÓN VI, AL ARTÍCULO 20, Y LA FRACCIÓN X, AL ARTÍCULO 21, TODOS DE LA LEY GENERAL DE TRÁNSITO Y VIALIDAD DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor a los 60 días hábiles a partir del día siguiente al de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. El titular del Poder Ejecutivo del Estado de Tabasco, dentro del plazo señalado en el artículo anterior, deberá expedir las disposiciones reglamentarias, para armonizarlas al presente Decreto. De igual manera, por sí o a través de la dependencia o entidad competente, deberán emitirse las disposiciones administrativas, técnicas y operativas necesarias, para incorporar en los formatos de solicitud y en las licencias de conducir que, en lo sucesivo se expidan, la manifestación expresa de voluntad de donar órganos, tejidos y células, que así lo soliciten señalando, conforme a la disponibilidad presupuestal, la fecha en que comenzarán a utilizarse.
+
+TERCERO. Las licencias de conducir expedidas con anterioridad a la entrada en vigor del presente Decreto conservarán su validez hasta su fecha de expiración. La manifestación expresa de voluntad respecto a la donación de órganos será incorporada al momento de su renovación.
+
+P.O. 16 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 265 POR EL QUE "SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 20; EL ARTÍCULO 23; Y LA FRACCIÓN I DEL ARTÍCULO 30 Y SE ADICIONA UN SEGUNDO PÁRRAFO A LA FRACCIÓN III DEL ARTÍCULO 20 DE LA LEY GENERAL DE TRÁNSITO Y VIALIDAD DEL ESTADO DE TABASCO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. Se deroga toda disposición de igual o menor jerarquía que se oponga al presente decreto.
+
+TERCERO. En un plazo no mayor a noventa días hábiles contados a partir de la entrada en vigor del presente Decreto la Secretaría de Seguridad y Protección Ciudadana deberá expedir las disposiciones reglamentarias, así como los lineamientos señalados en el mismo.
