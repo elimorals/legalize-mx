@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-movilidad-para-el-estado-de-tabasco-139282"
 country: "mx"
 rank: "ley"
 publication_date: "2019-11-30"
-last_updated: "2024-04-27"
+last_updated: "2026-05-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=139282&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "TAB"
 
 LEY DE MOVILIDAD PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ABRIL DE 2024.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MAYO DE 2026.
 
 Ley publicada al Número 8059 del Suplemento I del Periódico Oficial del Estado de Tabasco, el sábado 30 de noviembre de 2019.
 
@@ -1553,7 +1553,9 @@ I. Servicio de carga en general;
 
 II. Servicio de carga de materiales para construcción a granel; y
 
-III. Servicio de grúas y remolques.
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2026)</small>
+
+III. Servicio de grúas, remolques y depósitos vehiculares.
 
 Los choferes u operadores de vehículos de transporte de carga podrán efectuar sus maniobras de carga y descarga en la vía pública únicamente durante los horarios, zonas y calles que determinen la normatividad en materia de tránsito y vialidad, así como las autoridades respectivas en la materia.
 
@@ -1579,27 +1581,83 @@ Los vehículos utilizados para este servicio deberán ser unidades tipo volteos 
 
 Las condiciones del servicio, de acuerdo al tipo de unidad, serán establecidas en el Reglamento respectivo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2026)</small>
+
 ###### Artículo 102.
 
-El servicio público de grúas y remolques es aquel que tiene como finalidad trasladar otros vehículos impedidos física o legalmente para su autodesplazamiento, ya sea en plataforma, por elevación o arrastre, sin sujetarse a itinerarios fijos, ni horario, pero conforme a las tarifas que determine la Secretaría previa opinión del Consejo Estatal de Movilidad.
+El servicio público de grúas, remolques y depósitos vehicular (sic), es aquel que tiene como finalidad trasladar vehículos impedidos física o legalmente para su autodesplazamiento, ya sea mediante remolque, arrastre, plataforma o elevación, sin sujetarse a itinerarios fijos ni horario, así como el depósito en el lugar correspondiente, sujeto a las tarifas previamente autorizadas por la Secretaría, en términos de lo dispuesto en el artículo 104 de esta Ley, previa opinión del Consejo Estatal de Movilidad.
 
-Las maniobras correspondientes a salvamento, llevadas a cabo por personal y equipo especializado, que impliquen trasladar un vehículo que se encuentre fuera de la franja de pavimento de la vía de circulación, serán motivo de un cargo adicional por dicho concepto, pudiendo ser por tiempo utilizado en el salvamento, por kilómetro o por precio global.
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2026)</small>
 
-El servicio público de grúa solo podrá ser prestado por las personas físicas o jurídicas colectivas a quienes se haya otorgado la concesión respectiva, siempre que éstos utilicen los equipos determinados por la normatividad jurídica aplicable.
+Las maniobras de salvamento, realizadas por personal y equipo especializado, que impliquen la recuperación de un vehículo que se encuentre fuera de la franja de pavimento de la vía de circulación, solo podrán generar cobros cuando dichos conceptos se encuentren expresamente previstos en las tarifas autorizadas, y deberán sujetarse estrictamente a las modalidades definidas en esta Ley, quedando prohibida su determinación discrecional por el prestador del servicio.
 
-El servicio público de grúas y remolques será prestado por los concesionarios o permisionarios cuando así sea solicitado por los particulares o las autoridades, sin que éste pueda condicionarse a circunstancias o hechos que no estén previstos en la normatividad respectiva.
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2026)</small>
+
+La calificación de una maniobra como salvamento deberá realizarse conforme a las definiciones previstas en esta Ley, quedando prohibida su determinación unilateral por parte del concesionario o permisionario.
+
+> <small>[N. DE E. DEL ANÁLISIS A LA REFORMA PUBLICADA EN EL P.O. EL 16 DE MAYO DE 2026, SE ADVIERTE QUE EL CONTENIDO DE LOS ANTERIORES PÁRRAFOS TERCERO Y CUARTO FUERON FUSIONADOS.]</small>
+
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2026)</small>
+
+El servicio público de grúas, remolques y depósitos vehiculares solo podrá ser prestado por las personas físicas o jurídicas colectivas a quienes se haya otorgado la concesión o permiso correspondiente, cuando así sea solicitado por los particulares o por las autoridades competentes, utilizando los equipos determinados por la normatividad jurídica aplicable, sin que pueda condicionarse su prestación, el traslado o la entrega del vehículo al pago de conceptos distintos a los previstos en las tarifas autorizadas, en términos de los artículos 104 y 105 de esta Ley.
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2026)</small>
+
+Ningún concepto podrá cobrarse si no se encuentra expresamente previsto en las tarifas autorizadas, las cuales deberán interpretarse de manera restrictiva en favor de los usuarios del servicio.
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2026)</small>
+
+El cobro de conceptos no autorizados, la determinación discrecional de cargos o el condicionamiento de la prestación del servicio, del traslado o de la entrega del vehículo constituirán infracciones y serán sancionadas en términos de esta Ley, su Reglamento y demás disposiciones aplicables, sin perjuicio de la suspensión o revocación de la concesión o permiso en caso de reincidencia.
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2026)</small>
+
+###### Artículo 102 Bis.
+
+Para la aplicación del artículo anterior, se entenderá por:
+
+I. Arrastre: El traslado de un vehículo que no puede circular por sí mismo, mediante tracción o elevación parcial, sin requerir maniobras técnicas de salvamento, cuando el vehículo se encuentre sobre la superficie de rodamiento o acotamiento, en condición estable y con acceso directo para la grúa;
+
+II. Depósito Vehicular: Espacio físico autorizado por la Secretaría destinado al resguardo temporal de vehículos remitidos por la autoridad competente o trasladados mediante el servicio público de grúas y remolques, en la cual se garantiza su custodia, conservación e integridad, hasta su legal liberación, conforme a las disposiciones de esta Ley, su Reglamento y las tarifas previamente autorizadas;
+
+III. Remolque: El traslado de un vehículo rodando, mediante enganche mecánico a una unidad autorizada para la prestación del servicio público de grúas y remolques, sin requerir maniobras técnicas de rescate, cuando el vehículo se encuentre sobre la superficie de rodamiento o acotamiento, en condición estable sobre sus ejes;
+
+IV. Resguardo: Obligación jurídica asumida por el concesionario o permisionario del servicio público de grúas, remolques y depósito vehicular, consistente en la guarda, custodia, conservación y protección del vehículo ingresado a sus instalaciones, garantizando su integridad física y mecánica hasta su devolución legal al propietario o interesado legítimo, bajo responsabilidad objetiva por daño, pérdida o menoscabo que sufra durante dicho periodo; y
+
+V. Salvamento: La maniobra técnica especializada destinada a recuperar un vehículo que se encuentre fuera de la franja de pavimento de la vía de circulación o en una posición que imposibilite objetivamente su retiro mediante remolque o arrastre, derivada de su condición física o mecánica, conforme a los siguientes supuestos:
+
+a) Salvamento simple: Cuando el vehículo se encuentre fuera de la franja de pavimento, a una profundidad no mayor a cincuenta centímetros respecto del nivel de la vía, sin volcadura, y con una inclinación no mayor a veinte grados.
+
+b) Salvamento intermedio: Cuando el vehículo se encuentre fuera de la franja de pavimento, a una profundidad mayor a cincuenta centímetros y hasta un metro con cincuenta centímetros respecto del nivel de la vía, o presente una inclinación mayor a veinte grados y hasta cuarenta y cinco grados.
+
+c) Salvamento complejo: Cuando exista volcadura total o parcial, una profundidad mayor a un metro con cincuenta centímetros respecto del nivel de la vía, una inclinación mayor a cuarenta y cinco grados, o sea indispensable el uso de equipo especializado adicional para su recuperación.
+
+El cobro del servicio público de grúas y remolques se realizará conforme a la modalidad aplicable definida en este artículo y a las tarifas previamente autorizadas por la Secretaría.
+
+Tratándose del remolque y del arrastre, el cobro se realizará por kilometraje, conforme a la tarifa fija por kilómetro autorizada; tratándose del salvamento, el cobro se realizará exclusivamente por evento, conforme al nivel aplicable.
+
+Por cada evento únicamente podrán cobrarse los conceptos correspondientes a la modalidad de servicio efectivamente prestada, conforme a las tarifas autorizadas, quedando prohibida la duplicidad, acumulación indebida o aplicación de cargos adicionales no previstos expresamente en la normatividad aplicable.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE MAYO DE 2026)</small>
 
 ###### Artículo 103.
 
-Cuando exista más de un concesionario o permisionario del servicio público de grúas y remolque en un mismo Municipio y el servicio se preste a solicitud de las autoridades de tránsito municipal o estatal, los prestadores podrán sujetarse a un rol de trabajo establecido de común acuerdo por ellos mismos, el cual será autorizado por la Secretaría procurando siempre garantizar la prestación ininterrumpida, puntual y eficiente del servicio; en caso de que los prestadores de servicio no lleguen a un acuerdo, la Secretaría determinará el rol de trabajo tomando en consideración lo siguiente:
+Cuando exista más de un concesionario o permisionario del servicio público de grúas y remolque en un mismo Municipio y el servicio se preste a solicitud de las autoridades de tránsito municipal o de la Dirección General de la Policía Estatal de Caminos, los prestadores deberán sujetarse al rol de trabajo que mediante acuerdo establezca la Secretaría, el cual deberá ser actualizado y notificado al menos trimestralmente de manera electrónica a esas autoridades. El rol, deberá garantizar la igualdad de oportunidades, la prestación ininterrumpida, puntual y eficiente del servicio, tomando en consideración lo siguiente:
 
 I. El número de prestadores de servicio que deban sujetarse al rol;
 
 II. Los informes que rindan las autoridades de tránsito estatal o municipal, correspondientes a la actuación de los prestadores;
 
-III. El historial de quejas que los usuarios interpongan ante la Secretaría; y
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2026)</small>
 
-IV. El estado físico de los vehículos de cada uno de los prestadores de servicio.
+III. El historial de quejas que los usuarios interpongan ante la Secretaría;
+
+> <small>(REFORMADA, P.O. 16 DE MAYO DE 2026)</small>
+
+IV. El estado físico de los vehículos de cada uno de los prestadores de servicio; y
+
+> <small>(ADICIONADA, P.O. 16 DE MAYO DE 2026)</small>
+
+V. Las demás que en su caso considere necesarias la Secretaría, para la debida prestación del servicio y que se establezcan en el acuerdo respectivo.
 
 ###### Artículo 104.
 
@@ -1617,11 +1675,55 @@ Los concesionarios o permisionarios de este servicio serán responsables de los 
 
 Para el traslado de los vehículos a los depósitos, se estará a lo señalado en la Ley General de Tránsito y Vialidad del Estado de Tabasco y demás disposiciones aplicables.
 
-> <small>(ADICIONADO, P.O. 27 DE ABRIL DE 2024)</small>
+> <small>(REFORMADO, P.O. 16 DE MAYO DE 2026)</small>
 
 ###### Artículo 105 Bis.
 
-El Poder Ejecutivo del Estado y los Ayuntamientos que conforme a su ámbito de competencia y disposiciones legales, presenten el servicio público de Tránsito y Vialidad, si las condiciones presupuestales lo permiten, podrán prestar el servicio de grúas, remolque y depósito a que se refiere esta sección, en cuyo caso, se estará a las tarifas que al efecto se establezcan en las disposiciones legales en los reglamentos respectivos, que en ningún caso, serán superiores a las establecidas por la Secretaría de Movilidad. En este caso, no se estará al rol a que se refiere el artículo 103.
+El Poder Ejecutivo del Estado y los Ayuntamientos que conforme a su ámbito de competencia y disposiciones legales, presten el servicio público de Tránsito y Vialidad, si las condiciones presupuestales lo permiten, podrán prestar el servicio de grúas, remolque y depósito vehicular a que se refiere esta sección, en cuyo caso, se estará a las tarifas que al efecto se establezcan en las disposiciones legales en los reglamentos respectivos, que en ningún caso, serán superiores a las establecidas por la Secretaría de Movilidad. En este caso, no se estará al rol a que se refiere el artículo 103.
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2026)</small>
+
+###### Artículo 105 Ter.
+
+El cobro por concepto de depósito vehicular se realizará por día natural efectivamente transcurrido, expresado en Unidades de Medida y Actualización (UMA) vigente, conforme al tabulador autorizado por la Secretaría.
+
+No se considerará día completo el periodo inferior a doce horas contadas a partir del ingreso del vehículo al depósito vehicular.
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2026)</small>
+
+###### Artículo 105 Quáter.
+
+Las tarifas autorizadas para los servicios de grúas, remolques y depósito vehicular deberán ser publicadas en el Periódico Oficial del Gobierno del Estado, así como en la página de inicio de los portales de internet de la Secretaría de Movilidad, de la Secretaría de Seguridad y Protección Ciudadana y de los Ayuntamientos Municipales. De igual manera, en las páginas y los domicilios de los concesionarios respectivos. En todos los casos en la modalidad de fácil acceso para su expedita consulta a través de cualquier dispositivo electrónico.
+
+En ningún caso, la persona concesionaria o permisionaria podrá realizar cobros superiores a la tarifa autorizada o incrementar ésta, o retener unidades vehiculares, argumentando circunstancias de emergencia, fenómenos naturales, meteorológicos, acuerdo de voluntades, siniestros o cualquier otra causa. La violación a esta disposición dará lugar a la aplicación de las sanciones a que se refiere esta Ley y en caso de reincidencia a que se revoque la concesión o el permiso correspondiente.
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2026)</small>
+
+###### Artículo 105 Quinquies.
+
+En caso de que la persona usuaria o interesada solicite el cálculo de lo que se le cobrará por el servicio o servicios prestados, la persona concesionaria o permisionaria está obligada a darle a conocer el monto actualizado y desglosado.
+
+Cuando la persona usuaria tenga dudas o considere que las tarifas que se le están cobrando por los conceptos a que se refieren los artículos 102 y 105, no se ajusten a las autorizadas oficialmente, previo al pago correspondiente, podrá solicitar a la Secretaría la revisión y cálculo correspondiente, la cual, tomando en cuenta las tarifas autorizadas, a través del área y vía que al efecto designe, deberá resolver lo conducente de inmediato o en un término no mayor a 48 horas, en cuyo caso, el concesionario o permisionario solo podrá cobrar lo que al efecto determine dicha autoridad y a partir de ese momento dejarán de seguirse generando cobros para los usuarios.
+
+En caso de negativa a cobrar las cantidades autorizadas y determinadas conforme al párrafo anterior, la persona concesionaria o permisionaria será sancionada en términos de esta Ley y su reglamento, y con la revocación de la concesión o permiso correspondiente, en caso de reincidencia. Sin perjuicio de ello, a solicitud de la parte interesada, a efectos de evitar que se sigan acumulando las cantidades a cobrar, la Secretaría ordenará que, con el auxilio de la Secretaría de Seguridad y Protección Ciudadana, el vehículo de que se trate sea retirado del depósito vehicular en que se encuentre para ser entregado al propietario o poseedor, quien deberá consignar previamente el pago correspondiente a las tarifas autorizadas ante la autoridad judicial respectiva.
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2026)</small>
+
+###### Artículo 105 Sexies.
+
+Las personas concesionarias o permisionarias de los servicios de grúas, remolques, arrastre, salvamento y depósitos vehiculares deben expedir el correspondiente comprobante fiscal por el cobro de los servicios que presten, el incumplimiento a esta disposición será sancionado en los términos que señalan las disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2026)</small>
+
+###### Artículo 105 Septies.
+
+No procederá el pago de tarifa por el servicio de grúa, remolque, arrastre, salvamento o depósito vehicular, cuando derivado de los procedimientos instaurados ante la autoridad competente se determine que la causa que originó la prestación del servicio fue inexistente, ilegal o no constituyó falta administrativa o hecho ilícito alguno.
+
+> <small>(ADICIONADO, P.O. 16 DE MAYO DE 2026)</small>
+
+###### Artículo 105 Octies.
+
+Sin perjuicio de las sanciones previstas en la presente Ley y las demás disposiciones aplicables, las personas que se consideren afectadas podrán hacer del conocimiento del Congreso del Estado los hechos que estimen relevantes. Cuando del análisis se advierta la posible existencia de prácticas reiteradas, abusos sistemáticos o hechos de interés público, a través de sus órganos competentes y dentro del ámbito de sus atribuciones, el Congreso del Estado podrá realizar acciones de seguimiento, revisión, exhorto o vinculación institucional con las autoridades competentes.
 
 #### Sección Quinta. Servicio de transporte público mixto
 
@@ -2976,3 +3078,41 @@ PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes a
 SEGUNDO.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente Decreto.
 
 TERCERO.- En un plazo no mayor a 180 días hábiles, el Titular del Poder Ejecutivo del Estado y los Ayuntamientos, en el ámbito de sus respectivas competencias, deberán expedir las reformas o adiciones que sean necesarias a los Reglamentos en la materia para armonizarlos a las disposiciones contenidas en el presente decreto.
+
+P.O. 16 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 262 POR EL QUE “SE REFORMAN: LOS ARTÍCULOS 97, EN SU FRACCIÓN III; 102, EN SUS PÁRRAFOS PRIMERO, SEGUNDO, TERCERO Y CUARTO; 103, EN SU PÁRRAFO PRIMERO Y SUS FRACCIONES III Y IV; Y EL 105 BIS; Y SE ADICIONAN: AL ARTÍCULO 102, EL PÁRRAFO TERCERO, RECORRIÉNDOSE EN EL ORDEN LOS SUBSECUENTES, Y LOS PÁRRAFOS QUINTO Y SEXTO; EL ARTÍCULO 102 BIS; AL 103, LA FRACCIÓN V; Y LOS ARTÍCULOS 105 TER, 105 QUÁTER, 105 QUINQUIES, 105 SEXIES, 105 SEPTIES Y 105 OCTIES, TODOS DE LA LEY DE MOVILIDAD PARA EL ESTADO DE TABASCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Movilidad del Estado, en un plazo no mayor a noventa días hábiles contados a partir de la entrada en vigor del presente Decreto, deberá adecuar, actualizar o emitir las tarifas aplicables al servicio público de grúas, remolques, arrastre, salvamento y depósitos vehiculares, a efecto de armonizadas con las modalidades y métodos de cobro previstos en el mismo.
+
+###### ARTÍCULO TERCERO.
+
+En el mismo plazo señalado en el transitorio segundo, la Secretaría de Movilidad deberá emitir o adecuar los lineamientos administrativos necesarios para la correcta aplicación de las disposiciones contenidas en los artículos a que se refiere el presente Decreto, en particular aquellos relacionados con la verificación, supervisión y control del servicio.
+
+###### ARTÍCULO CUARTO.
+
+Las persona concesionarias y permisionarias del servicio público de grúas, remolques y depósitos vehiculares contarán con un plazo de noventa días hábiles contados a partir de la entrada en vigor del presente Decreto, para ajustar sus procedimientos operativos y de cobro a las disposiciones contenidas en el presente Decreto.
+
+###### ARTÍCULO QUINTO.
+
+Durante el período de adecuación a que se refieren los artículos transitorios Segundo y Cuarto del presente Decreto, únicamente podrán cobrarse los conceptos y montos que se encuentren expresamente autorizados y vigentes, quedando prohibido cualquier cobro discrecional o no previsto.
+
+###### ARTÍCULO SEXTO.
+
+Las autoridades competentes deberán iniciar acciones de supervisión, inspección y verificación para vigilar el cumplimiento de las disposiciones contenidas en el presente Decreto, conforme a sus atribuciones legales.
+
+###### ARTÍCULO SÉPTIMO.
+
+Las autoridades estatales y municipales en materia de tránsito, vialidad y control vehicular deberán expedir, en el ámbito de sus respectivas competencias, las demás disposiciones reglamentarias y administrativas necesarias, para la homologación y debido cumplimiento de las disposiciones contenidas en el presente Decreto, en un plazo no mayor a 180 días naturales, a partir de su entrada en vigor.
+
+En el mismo plazo a que se refiere el párrafo anterior, deberán llevar a cabo los procedimientos legales y administrativos, para en su caso, acorde a sus disponibilidades presupuestales, adquirir e implementar el uso de los dispositivos inmovilizadores a que se refiere el presente Decreto.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
