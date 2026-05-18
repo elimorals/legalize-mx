@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-251-estatal-de-turismo-de-sonora-149532"
 country: "mx"
 rank: "ley"
 publication_date: "2021-03-29"
-last_updated: "2021-05-04"
+last_updated: "2026-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=149532&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY ESTATAL DE TURISMO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE MAYO DE 2021.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE MAYO DE 2026.
 
 Ley publicada en el Número 25 Secc. IV del Boletín Oficial del Estado de Sonora, el lunes 29 de marzo de 2021.
 
@@ -89,15 +89,27 @@ Para los efectos de esta Ley, adicional al glosario de la Ley General de Turismo
 
 I.- Actividades Turísticas: Las que realizan las personas durante sus viajes y estancias temporales en lugares distintos al de su entorno habitual, con fines de ocio y otros motivos;
 
+> <small>(ADICIONADA, B.O. 18 DE MAYO DE 2026)</small>
+
+I Bis.- Anfitriones: Persona física o moral que en su carácter de propietario, administrador o poseedor legalmente reconocido pone a disposición de los turistas, de forma parcial o total, un inmueble para brindar el servicio de Estancia Turística Eventual;
+
 II.- Atlas Turístico de México: El registro sistemático de carácter público de todos los bienes, recursos naturales y culturales que puedan constituirse en atractivos turísticos nacionales, sitios de interés y en general todas aquellas zonas y áreas territoriales del desarrollo del turismo;
 
 III.- Consejo Estatal: El Consejo Consultivo Turístico del Estado;
 
 IV.- Consejo Municipal: El Consejo Consultivo Turístico Municipal;
 
+> <small>(ADICIONADA, B.O. 18 DE MAYO DE 2026)</small>
+
+IV Bis.- Estancia Turística Eventual: Servicio de alojamiento temporal en inmuebles de uso habitacional a cambio de una contraprestación;
+
 V.- Fideicomisos de Turismo: Los fideicomisos creados por la Secretaría Estatal tendientes a la planeación, programación, publicidad, promoción y fomento al turismo, así como al desarrollo y financiamiento de infraestructura turística en la entidad.
 
 VI.- Fondo Estatal: Fondo Estatal de Promoción y Fomento a las Actividades Turísticas.
+
+> <small>(ADICIONADA, B.O. 18 DE MAYO DE 2026)</small>
+
+VI Bis.- Inmuebles: Las casas, casas dúplex, departamentos, vecindades, casas de huéspedes, habitaciones o cuarterías para casa habitación ofrecidas para brindar el servicio de Estancia Turística Eventual;
 
 VII.- Ley Estatal: Ley Estatal de Turismo de Sonora;
 
@@ -107,7 +119,21 @@ IX.- Observatorio Turístico Estatal: Es un órgano permanente dedicado a la inv
 
 X.- Ordenamiento Turístico del Territorio Estatal: Instrumento de la política turística bajo el enfoque social, ambiental y territorial, cuya finalidad es conocer e inducir el uso de suelo y las actividades productivas con el propósito de lograr el aprovechamiento ordenado y sustentable de los recursos turísticos, de conformidad con las disposiciones jurídicas aplicables en materia de medio ambiente y asentamientos humanos;
 
-XI.- Prestadores de Servicios Turísticos: Las personas físicas o morales que ofrezcan, proporcionen, o contraten con el turista, la prestación de los servicios a que se refiere esta Ley y su reglamento;
+> <small>(ADICIONADA, B.O. 18 DE MAYO DE 2026)</small>
+
+X Bis.- Padrón de Anfitriones: Registro de personas físicas o morales que ofrecen el servicio de Estancia Turística Eventual en el Estado de Sonora;
+
+> <small>(ADICIONADA, B.O. 18 DE MAYO DE 2026)</small>
+
+X Ter.- Padrón de Plataformas Tecnológica (sic): Registro de personas físicas o morales, mexicanas o extranjeras, autorizadas para operar, intermediar y/o administrar una plataforma tecnológica en el Estado de Sonora, mediante la cual se oferta el servicio de Estancia Turística Eventual;
+
+> <small>(ADICIONADA, B.O. 18 DE MAYO DE 2026)</small>
+
+X Quáter.- Plataforma Tecnológica: Aplicación digital, página de internet, redes sociales o similares, operadas por una persona física o moral, mexicana o extranjera, en su carácter de propietario, administrador, gestor, intermediario, promotor, facilitador o cualquier otra actividad análoga que permite ofertar el servicio de Estancia Turística Eventual, entre otro tipo de servicios ofertados por los prestadores de servicios turísticos;
+
+> <small>(REFORMADA, B.O. 18 DE MAYO DE 2026)</small>
+
+XI.- Prestadores de Servicios Turísticos: Las personas físicas o morales que ofrezcan, proporcionen, o contraten con el turista, la prestación de los servicios a que se refiere esta Ley y su reglamento, incluidos los que se contraten como estancia turística eventual a través de plataformas tecnológicas;
 
 XII.- Programa: Programa Sectorial de Turismo de la Ley General;
 
@@ -177,9 +203,17 @@ XVIII.- Vigilar el cumplimiento de la Ley General de Turismo, la Ley Estatal de 
 
 XIX.- Coordinar con las autoridades federales, por medio de los convenios que se suscriban, la imposición de sanciones por violaciones a la Ley General de Turismo y a las disposiciones reglamentarias;
 
-XX.- Emitir opiniones a la Secretaría en la materia; y
+> <small>(REFORMADA, B.O. 18 DE MAYO DE 2026)</small>
 
-XXI.- Las demás previstas en éste y otros ordenamientos.
+XX.- Emitir opiniones a la Secretaría en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 18 DE MAYO DE 2026)</small>
+
+XXI.- Operar y administrar el padrón de anfitriones y el padrón de plataformas tecnológicas a que se refiere esta ley; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 18 DE MAYO DE 2026)</small>
+
+XXII.- Las demás previstas en éste y otros ordenamientos.
 
 ### CAPÍTULO II. De los Municipios
 
@@ -679,9 +713,21 @@ IX.- Disponer de lo necesario para que los inmuebles, edificaciones y servicios 
 
 X.- Cumplir con las características y requisitos exigidos, de acuerdo a su clasificación en los términos de la presente Ley y de la Ley General de Turismo;
 
-XI.- Prestar sus servicios en español como primera lengua, lo que no impide que se puedan prestar los servicios en otros idiomas o lenguas; y
+> <small>(REFORMADA, B.O. 18 DE MAYO DE 2026)</small>
 
-XII.- Las demás que establezca la legislación aplicable en la materia.
+XI.- Prestar sus servicios en español como primera lengua, lo que no impide que se puedan prestar los servicios en otros idiomas o lenguas;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 18 DE MAYO DE 2026)</small>
+
+XII.- Garantizar los requisitos de seguridad, atendiendo la normatividad aplicable en la materia;
+
+> <small>(ADICIONADA, B.O. 18 DE MAYO DE 2026)</small>
+
+XIII.- Cumplir las obligaciones en materia fiscal establecidas en la normatividad aplicable; y
+
+> <small>(ADICIONADA [N. DE E. REUBICADA], B.O. 18 DE MAYO DE 2026)</small>
+
+XIV.- Las demás que establezca la legislación aplicable en la materia.
 
 ###### Artículo 53.
 
@@ -691,9 +737,155 @@ En la prestación y uso de los servicios turísticos no habrá discriminación d
 
 En caso de que el prestador del servicio turístico incumpla con uno de los servicios ofrecidos o pactados o con la totalidad de los mismos, tendrá la obligación de rembolsar, bonificar o compensar la suma correspondiente por el pago del servicio incumplido, o bien podrá prestar otro servicio de las mismas características o equivalencia al que hubiere incumplido, a elección del turista.
 
-### CAPÍTULO IV. De los Derechos y Obligaciones de los Turistas
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 18 DE MAYO DE 2026)</small>
 
-### CAPÍTULO V. De la Competitividad y Profesionalización en la Actividad Turística
+### CAPÍTULO III BIS. De la Estancia Turística Eventual
+
+> <small>(ADICIONADO, B.O. 18 DE MAYO DE 2026)</small>
+
+###### Artículo 54 Bis.
+
+La Secretaría será la encargada de administrar y operar el Padrón de Anfitriones y el Padrón de Plataformas Tecnológicas, los cuales tendrán como propósito:
+
+I.- Identificar a las y los anfitriones y a las plataformas tecnológicas digitales que ofrezcan, proporcionen o contraten al turista el servicio de Estancia Turística Eventual en el Estado de Sonora;
+
+II.- Identificar los inmuebles de uso habitacional donde se brinde el servicio de Estancia Turística Eventual, para lo anterior se deberá identificar como un inmueble en particular a cada cuarto que se tenga destinado para prestar el servicio de estancia turística eventual, aun y cuando se encuentren dentro de la misma edificación; y
+
+III.- Integrar una base de datos confiable que permita a las autoridades vigilar el correcto funcionamiento en la prestación de este servicio, así como el pago de las contribuciones correspondientes de conformidad con la normatividad aplicable.
+
+> <small>(ADICIONADO, B.O. 18 DE MAYO DE 2026)</small>
+
+###### Artículo 54 Ter.
+
+Son obligaciones de los Anfitriones:
+
+I.- Registrarse en el Padrón de Anfitriones;
+
+II.- Inscribir los inmuebles de uso habitacional que ponen a disposición de los turistas, para lo anterior se deberá identificar como un inmueble en particular a cada cuarto que se tenga destinado para prestar el servicio de estancia turística eventual, aun y cuando se encuentren dentro de la misma edificación;
+
+III.- Proporcionar a los turistas información clara, cierta y detallada de las características, precios y reglas de uso del inmueble ofertado;
+
+IV.- Exhibir en un sitio visible del inmueble los números de emergencia del lugar en donde se encuentre, los números de contacto para solicitar la asistencia del Anfitrión o un representante, así como la constancia y folio del inmueble otorgado por la Secretaría;
+
+V.- Proporcionar semestralmente a la Secretaría, en los meses de enero y julio de cada año, un reporte del número de ocasiones en las que se han ocupado los inmuebles, la cantidad de noches ocupadas durante el periodo a reportar; proporcionar información falsa o ser omiso en la entrega de los informes de referencia, será motivo de baja del padrón;
+
+VI.- Contar con instalaciones seguras e higiénicas para el uso de los turistas;
+
+VII.- Informar a los vecinos inmediatos sobre el uso turístico de los inmuebles ofertados y proporcionar números de contacto para recibir reportes sobre el mal uso o situaciones de emergencia sobre dichos inmuebles;
+
+VIII.- Garantizar los requisitos de seguridad, atendiendo la normatividad aplicable en la materia;
+
+IX.- Cumplir con las obligaciones en materia fiscal establecidas en la normatividad aplicable;
+
+X.- Registrar ante la Secretaría, en el Padrón de Anfitriones, número telefónico y correo electrónico para la recepción y solución de quejas por parte de vecinos y turistas relacionadas con el inmueble ofertado;
+
+XI.- Proteger los datos personales proporcionados por los turistas en términos de lo dispuesto por la Ley de la materia;
+
+XII.- Vigilar que no se ocupen las viviendas para actividades que alterne el orden público o afecten el interés social en las comunidades anfitrionas; y
+
+XIII.- Las demás que se señalen en esta Ley, su Reglamento y en las demás leyes aplicables.
+
+> <small>(ADICIONADO, B.O. 18 DE MAYO DE 2026)</small>
+
+###### Artículo 54 Quáter.
+
+Son obligaciones de las Plataformas Tecnológicas a través de su representante legal:
+
+I.- Incorporarse al Padrón de Plataformas Tecnológicas y mantener vigente su registro; este registro tendrá una vigencia de tres años y deberá ser renovado noventa días antes de su vencimiento;
+
+II.- Solicitar a los Anfitriones la constancia y el folio de registro otorgado por la Secretaría al momento de realizar la inscripción en el Padrón de Anfitriones como requisito indispensable para ofertar los inmuebles.
+
+III.- Solicitar a los anfitriones el documento en el que conste que se encuentra inscrito en el Registro Estatal de Contribuyentes, específicamente en el padrón de Hospedaje.
+
+IV.- Mostrar dentro de su plataforma, en cada anuncio, la constancia y folio del registro en el Padrón de Anfitriones para consulta de los potenciales usuarios.
+
+V.- Cumplir con las obligaciones en materia fiscal establecidas en la normatividad aplicable; y
+
+VI.- Las demás que señale la normatividad aplicable.
+
+> <small>(ADICIONADO, B.O. 18 DE MAYO DE 2026)</small>
+
+###### Artículo 54 Quinquies.
+
+El Padrón de Anfitriones es un registro a cargo de la Secretaría en el que los anfitriones registran cada uno de los inmuebles destinados a brindar el servicio de Estancia Turística Eventual.
+
+Para ser incorporados en este padrón, los anfitriones deberán presentar:
+
+I.- Nombre, denominación o razón social y nacionalidad del anfitrión;
+
+II.- Identificación oficial vigente con domicilio o Carta bajo protesta de decir verdad que habita el domicilio donde se encuentran los cuartos o habitaciones que se ofertan en las plataformas tecnológicas;
+
+III.- Documento con el que acredita la propiedad, administración o posesión de cada uno de los inmuebles registrados;
+
+IV.- Cédula de Registro Federal de Contribuyentes;
+
+V.- Constancia de situación fiscal;
+
+VI.- Constancia de inscripción en el Registro Estatal de Contribuyentes, específicamente en el Padrón de Hospedaje;
+
+VII.- Constancias de no Adeudos de Predial y Agua, por cada inmueble registrado;
+
+VIII.- Comprobante de domicilio del inmueble que se inscribe;
+
+IX.- Tipo de inmueble que se inscribe de acuerdo al tipo contenido en la fracción VI bis del artículo 3 de esta Ley;
+
+X.- Plataforma o plataformas tecnológicas en las que se ofrece cada inmueble;
+
+XI.- Carta bajo protesta de decir verdad en la que se indique que el inmueble cumple con las medidas de seguridad, atendiendo la normatividad aplicable en la materia;
+
+XII.- Acuse de notificación a la Asamblea General de Condóminos de a (sic) prestación del servicio de Estancia Turística Eventual, en caso, de que el inmueble se encuentre al interior de un condominio;
+
+XIII.- Seguro de responsabilidad civil suficiente que cubra posibles riesgos en la prestación de los servicios, por cada inmueble registrado;
+
+XIV.- Número telefónico y correo electrónico para recibir y resolver quejas respecto al uso de los inmuebles por parte de vecinos y turistas, por cada inmueble registrado; y
+
+XV.- Las demás establecidas en el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, B.O. 18 DE MAYO DE 2026)</small>
+
+###### Artículo 54 Sexies.
+
+Por cada inmueble que se incorpore al padrón se expedirá una constancia y folio. Dicho folio deberá registrarse en la o las plataformas en las que se oferte el inmueble.
+
+La vigencia de este registro es por dos años y deberá renovarse dentro de los treinta días naturales previos a su expiración.
+
+> <small>(ADICIONADO, B.O. 18 DE MAYO DE 2026)</small>
+
+###### Artículo 54 Septies.
+
+En el padrón de Plataformas Tecnológicas deberán incorporarse las personas físicas o morales, mexicanas o extranjeras, autorizadas para operar, intermediar y/o administrar una aplicación digital, página de internet, redes sociales o similares mediante la cual se oferte el servicio de Estancia Turística Eventual, entre otros servicios. Para ser incorporadas en este padrón, las Plataformas tecnológicas deberán presentar:
+
+I.- Nombre, denominación o razón social y nacionalidad de la plataforma;
+
+II.- Documento con el que acredita su constitución;
+
+III.- Documento que acredite la personalidad del representante legal que realiza el trámite;
+
+IV.- Cédula de Registro Federal de Contribuyentes de la Plataforma tecnológica;
+
+V.- Constancia de situación fiscal;
+
+VI.- Constancia de inscripción en el Registro Estatal de Contribuyentes, específicamente en el Padrón de Hospedaje;
+
+VII.- Comprobante de domicilio;
+
+VIII.- Número telefónico y correo electrónico para recibir y resolver quejas por parte de vecinos y turistas, y
+
+IX.- Los demás establecidas (sic) en el Reglamento de esta Ley.
+
+> <small>(ADICIONADO, B.O. 18 DE MAYO DE 2026)</small>
+
+###### Artículo 54 Octies.
+
+Régimen Simplificado para Turismo Rural
+
+I. Los anfitriones ubicados en los municipios o localidades rurales podrán incorporarse a un esquema de regularización gradual, simplificada y acompañada por la Secretaría.
+
+II. Para efectos de registro en el Padrón de Anfitriones, los anfitriones rurales podrán acreditar la posesión legal del inmueble mediante constancias ejidales, comunales o documento equivalente reconocido por autoridad competente.
+
+III. Durante el periodo de regularización gradual, los anfitriones rurales podrán cumplir obligaciones administrativas mediante formatos simplificados y asistencia técnica institucional.
+
+### CAPÍTULO IV. De los Derechos y Obligaciones de los Turistas
 
 ###### Artículo 55.
 
@@ -725,7 +917,7 @@ III.- Acatar las prescripciones particulares de establecimientos mercantiles y e
 
 IV.- Pagar el precio de los servicios utilizados en el momento de la presentación de la factura o del documento que ampare el pago en el plazo pactado.
 
-### CAPÍTULO VI. Del Observatorio Turístico
+### CAPÍTULO V. De la Competitividad y Profesionalización en la Actividad Turística
 
 ###### Artículo 57.
 
@@ -755,7 +947,7 @@ Asimismo, establecerá lineamientos, contenidos y alcances a fin de promover y f
 
 En los citados programas se deberá considerar la profesionalización respecto a la atención de las personas con discapacidad.
 
-### CAPÍTULO VII. De la Verificación
+### CAPÍTULO VI. Del Observatorio Turístico
 
 ###### Artículo 60.
 
@@ -881,7 +1073,7 @@ A las sesiones del Grupo Técnico se deberá invitar con carácter permanente o 
 
 El Observatorio Turístico podrá conformar de entre sus integrantes, o bien, incluir a otras personas físicas y morales, las comisiones que considere necesarias para el logro de sus objetivos.
 
-### CAPÍTULO VIII. De las Sanciones y del Recurso de Revisión
+### CAPÍTULO VII. De la Verificación
 
 ###### Artículo 72.
 
@@ -898,6 +1090,8 @@ Las visitas de verificación que efectúe el Estado y los Municipios, se regirá
 Las visitas de verificación se practicarán en días y horas hábiles, por personal autorizado que exhiba identificación vigente y la orden de verificación respectiva, la que deberá ser expedida por la autoridad competente y en la que claramente se especifiquen las disposiciones cuyo cumplimiento habrá de verificarse y la manera de hacerse. Sin embargo, podrán practicarse visitas en días y horas inhábiles, en aquellos casos en que el tipo y la naturaleza de los servicios turísticos así lo requieran, pero dentro del horario de funcionamiento autorizado para el establecimiento.
 
 Las visitas de verificación se realizarán con el representante, apoderado legal o propietario del establecimiento en donde se presten, ofrezcan, contraten o publiciten los servicios turísticos. De no encontrarse ninguno de los anteriores, las visitas se llevarán a cabo con el responsable de la operación del establecimiento o quien atienda al verificador.
+
+### CAPÍTULO VIII. De las Sanciones y del Recurso de Revisión
 
 ###### Artículo 74.
 
@@ -928,6 +1122,12 @@ Contra las resoluciones dictadas por la Secretaría, con fundamento en esta Ley 
 Serán supletorias de la presente Ley, la Ley Federal de Procedimiento Administrativo y a falta de disposición expresa en la misma se aplicará, el Código Federal de Procedimientos Civiles.
 
 La Secretaría deberá dar a conocer al público en general, los resultados de las acciones de verificación y sanciones que se realicen anualmente, a través de los medios que se determinen en el reglamento.
+
+> <small>(ADICIONADO, B.O. 18 DE MAYO DE 2026)</small>
+
+###### Artículo 78.
+
+Las infracciones que los anfitriones o plataformas tecnológicas cometan a lo dispuesto en la presente Ley y a las disposiciones que deriven de ella, serán sancionadas de conformidad con esta, su Reglamento, así como de la Ley de Procedimiento Administrativo del Estado de Sonora.
 
 ## TRANSITORIOS
 
@@ -968,3 +1168,31 @@ Se exceptúa de lo anterior, el artículo segundo del presente Decreto, el cual 
 ###### ARTÍCULO SEGUNDO.
 
 El Instituto deberá elaborar el Catálogo Cultural del Estado de Sonora, ponerlo a disposición del público en su sitio oficial de internet y proporcionar la dirección de internet a los ayuntamientos del Estado y a la Comisión de Fomento al Turismo del Estado de Sonora, para los efectos del artículo 70 BIS 2 de la Ley de Fomento de la Cultura y Protección del Patrimonio Cultural del Estado de Sonora, dentro de un plazo de noventa días contados a partir de la entrada en vigor del presente Decreto.
+
+B.O. 18 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 109, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY ESTATAL DE TURISMO DE SONORA, Y LA LEY DE SERVICIOS INMOBILIARIOS PARA EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Economía y Turismo tendrá un plazo de 120 días hábiles contados a partir de la publicación del presente decreto para crear el Padrón de Anfitriones y el Padrón de Plataformas Tecnológicas.
+
+###### ARTÍCULO TERCERO.
+
+Los anfitriones tendrán un plazo de 90 días hábiles contados a partir de que se habilite el Padrón de Anfitriones para realizar el registro de sus inmuebles.
+
+###### ARTÍCULO CUARTO.
+
+Las Plataformas Tecnológicas tendrán un plazo de 90 días hábiles contados a partir de que se habilite el Padrón de Plataformas para realizar su registro.
+
+###### ARTÍCULO QUINTO.
+
+La Secretaría de Economía y Turismo tendrá un plazo de 120 días hábiles contados a partir de la publicación del presente decreto para expedir el Reglamento del Servicio de Estancia Turística Eventual.
+
+###### ARTÍCULO SEXTO.
+
+La Secretaría de Economía y Turismo deberá establecer mecanismos simplificados de cumplimiento y esquemas de incorporación gradual para los anfitriones ubicados en municipios o localidades rurales, incluyendo la presentación, de reportes en formatos simplificados durante un periodo de hasta tres años contados a partir de su registro en el Padrón de Anfitriones.
