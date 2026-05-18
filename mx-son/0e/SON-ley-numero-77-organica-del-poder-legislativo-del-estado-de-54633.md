@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2026-04-30"
+last_updated: "2026-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE MAYO DE 2026.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -1383,9 +1383,11 @@ IX.- En su caso, elección de la Mesa Directiva o Diputación Permanente; y
 
 X.- Clausura y citatorio para la próxima sesión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE MAYO DE 2026)</small>
+
 ###### ARTÍCULO 123.
 
-Durante las sesiones, los asuntos a tratar serán únicamente los aprobados en el orden del día respectivo incluyendo, de ser el caso, la lectura de iniciativas presentadas por los diputados comprendidas en el apartado de correspondencia. Dentro de este mismo apartado, el diputado secretario dará lectura a los datos de identificación y un breve extracto de cada escrito para que pueda darse el trámite respectivo.
+Durante las sesiones, los asuntos a tratar serán únicamente los aprobados en el orden del día respectivo incluyendo, de ser el caso, algún asunto que se encuentre en el apartado de correspondencia u otros que el Pleno determine atender o, el su caso, resolver de manera urgente en la misma sesión. En el apartado de correspondencia, el diputado secretario dará lectura a los datos de identificación y a un breve extracto de cada escrito, incluyendo las iniciativas presentadas por las diputadas o diputados para que pueda darse el trámite respectivo.
 
 Sólo por resolución de las dos terceras partes del pleno del Congreso del Estado, a propuesta de la Mesa Directiva o de la Comisión de Régimen Interno y Concertación Política, se podrá incluir algún asunto no contenido en el orden del día.
 
@@ -3343,8 +3345,10 @@ B.O. 30 DE ABRIL DE 2026.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA EL ARTÍCULO 361 BIS DEL CÓDIGO PENAL PARA EL ESTADO DE NAYARIT, EN MATERIA DE TRANSFEMINICIDIO”.]
+B.O. 18 DE MAYO DE 2026.
 
-ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Nayarit.
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 114, QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 123 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA".]
 
-P.O. 20 DE MAYO DE 2024.
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el mismo día de su publicación en el Boletín Oficial del Gobierno del Estado.
