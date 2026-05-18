@@ -4,7 +4,7 @@ identifier: "SON-ley-de-gobierno-y-administracion-municipal-del-estado-de-30437"
 country: "mx"
 rank: "ley"
 publication_date: "2001-10-15"
-last_updated: "2026-04-20"
+last_updated: "2026-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=30437&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE MAYO DE 2026.
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el lunes 15 de octubre de 2001.
 
@@ -1106,6 +1106,62 @@ Las dependencias y entidades de la administración pública municipal, conducir�
 > <small>(ADICIONADO, B.O. 6 DE MARZO DE 2023)</small>
 
 Las personas titulares de la administración pública municipal a los que hace referencia el párrafo anterior, deberán designarse con estricto apego al principio de paridad.
+
+> <small>(ADICIONADO, B.O. 18 DE MAYO DE 2026)</small>
+
+###### Artículo 84 Bis.
+
+Para ocupar la titularidad de algún cargo dentro de la administración municipal, se deberán cumplir con los siguientes requisitos:
+
+I.- Ser ciudadano en pleno ejercicio de sus derechos;
+
+II.- No haber sido persona condenada por la comisión de un delito doloso, salvo que el antecedente penal hubiere prescrito; y para lo cual deberán gozar de buena reputación;
+
+III.- No haber sido persona sancionada o condenada mediante resolución firme por violencia familiar o cualquier agresión de género en el ámbito privado o público; por delitos sexuales contra la libertad sexual o la intimidad corporal; y no ser deudor alimentario moroso, salvo que acredite estar al corriente del pago o que cancele en su totalidad la deuda, y que no cuente con registro vigente en algún padrón de deudores alimenticios;
+
+IV.- No estar inhabilitada o inhabilitado para desempeñar cargo, empleo, o comisión pública; y
+
+V.- Preferentemente, contar con certificación en la materia del cargo que se desempeñará, conforme a las Normas Institucionales que emita el Comité Certificador de Competencia Laboral para el Servidor Público Municipal del Estado de Sonora. Este requisito podrá acreditarse dentro de los ocho meses siguientes a la fecha en que inicien sus funciones.
+
+> <small>(ADICIONADO, B.O. 18 DE MAYO DE 2026)</small>
+
+###### Artículo 84 Bis 1.
+
+El Comité Certificador de Competencia Laboral para el Servidor Público Municipal del Estado de Sonora estará integrado por:
+
+I.- La persona titular del Centro Estatal de Desarrollo Municipal, quién fungirá como Coordinador;
+
+II.- La o el Diputado Presidente de la Comisión de Presupuestos y Asuntos Municipales del Congreso del Estado de Sonora;
+
+III.- Un representante del Tribunal de Justicia Administrativa del Estado de Sonora;
+
+IV.- Un representante del Instituto Superior de Auditoría y Fiscalización del Estado de Sonora;
+
+V.- Un representante de la sociedad civil organizada, con experiencia municipal, administrativa o de certificación del servicio público; y
+
+VI.- Un representante de la comunidad académica en materia municipal, administrativa o de certificación del servicio público.
+
+Los cargos de los integrantes del Comité serán honoríficos y su integración deberá procurar perfiles con experiencia técnica en materia municipal, administrativa o de certificación del servicio público.
+
+El Ejecutivo del Estado, a través del Centro Estatal de Desarrollo Municipal, emitirá la convocatoria para la integración del Comité Certificador de Competencia Laboral para el Servidor Público Municipal del Estado de Sonora.
+
+En el caso de los entes públicos, las postulaciones deberán realizarse por conducto de las instituciones correspondientes, quienes propondrán a sus representantes con base en criterios de experiencia y perfil técnico en materia municipal, administrativa o de certificación del servicio público. Tratándose de los sectores social, académico y empresarial, la participación se sujetará a las bases que se establezcan en la convocatoria respectiva.
+
+> <small>(ADICIONADO, B.O. 18 DE MAYO DE 2026)</small>
+
+###### Artículo 84 Bis 2.
+
+El Comité deberá diseñar y emitir las Normas Institucionales de Competencia Laboral para el Servidor Público Municipal del Estado de Sonora y, en su caso, actualizarlas, así como de definir los criterios para la selección y validación de las instituciones públicas o privadas que emitan las certificaciones correspondientes, a las cuales se les denominará Unidades Certificadoras. Dichas Normas y Criterios deberán publicarse en el Boletín Oficial del Gobierno del Estado y las páginas oficiales de los entes públicos que integren el Comité.
+
+El Comité Certificador de Competencia Laboral para el Servidor Público Municipal del Estado de Sonora, a través de su coordinación, deberá integrar el Registro de Unidades Certificadoras, asignando número de registro y emitiendo la constancia de unidad certificadora correspondiente.
+
+> <small>(ADICIONADO, B.O. 18 DE MAYO DE 2026)</small>
+
+###### Artículo 84 Bis 3.
+
+Se exenta de lo previsto en la fracción V del artículo 84 Bis de esta Ley, a los ayuntamientos de los municipios rurales a que se refiere el artículo 25-G de la Constitución Política del Estado de Sonora, que debido a su situación financiera o presupuestaria, no cuenten con los recursos suficientes para sufragar los costos de los procesos de evaluación y certificación de sus servidores públicos, en cuyo caso, el Comité podrá establecer convenios de apoyo o mecanismos de certificación gratuita para estos municipios a fin de promover la profesionalización de manera gradual.
+
+De igual forma, cuando los municipios rurales señalados en el párrafo anterior, no cuenten con la suficiencia presupuestal para el sostenimiento de una estructura administrativa independiente, las funciones en materia de protección civil, catastro, ecología, medio ambiente y cambio climático, podrán ser asignadas o delegadas al personal que ya se encuentre en funciones en la administración municipal, sin que ello implique la creación de nuevas unidades administrativas.
 
 ###### Artículo 85.
 
@@ -2919,6 +2975,14 @@ El presente título regula los servicios públicos de: alumbrado público; limpi
 
 Los servicios públicos de agua potable, drenaje, alcantarillado y tratamiento y disposición de aguas residuales, se prestarán en los términos de las leyes y reglamentos de la materia. En los mismos términos estarán las funciones de seguridad pública, policía preventiva y tránsito.
 
+> <small>(ADICIONADO, B.O. 18 DE MAYO DE 2026)</small>
+
+Se entenderá por equipamiento urbano al conjunto de infraestructuras, instalaciones, edificios y espacios destinados a brindar servicios públicos a la comunidad.
+
+> <small>(ADICIONADO, B.O. 18 DE MAYO DE 2026)</small>
+
+Por otra parte, se definirá como mobiliario urbano a los elementos complementarios de dicho equipamiento, ya sean fijos, móviles, permanentes o temporales, ubicados en la vía pública o en espacios públicos; lo anterior, sin perjuicio de las competencias que en materia de infraestructura y servicios públicos corresponden a la federación, el estado y los municipios.
+
 ###### Artículo 259.
 
 El Ayuntamiento prestará los servicios públicos de la siguiente forma:
@@ -4688,3 +4752,31 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+B.O. 18 DE MAYO DE 2026.
+
+[N DE E. TRANSITORIOS DEL "DECRETO NÚMERO 107, QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL".]
+
+###### ARTICULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTICULO SEGUNDO.
+
+El Ejecutivo del Estado de Sonora contará con 120 días naturales a partir de la entrada en vigor del presente Decreto para emitir la convocatoria para la integración del Comité Certificador de Competencia Laboral para el Servidor Público Municipal del Estado de Sonora.
+
+###### ARTICULO TERCERO.
+
+El Comité Certificador de Competencia Laboral para el Servidor Público Municipal del Estado de Sonora, deberá emitir en orden de prioridad las Normas Institucionales correspondientes a los cargos municipales mencionados en las fracciones I y II del Articulo 87 de la Ley de Gobierno y Administración Municipal del Estado de Sonora.
+
+###### ARTICULO CUARTO.
+
+Las Normas Institucionales de Competencia Laboral para el Servidor Público Municipal del Estado de Sonora, surtirán efectos a partir del 16 de septiembre de 2027, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 18 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 108, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, Y DEL CÓDIGO PENAL DEL ESTADO DE SONORA.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
