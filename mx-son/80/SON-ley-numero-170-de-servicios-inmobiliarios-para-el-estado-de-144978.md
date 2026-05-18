@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-170-de-servicios-inmobiliarios-para-el-estado-de-144
 country: "mx"
 rank: "ley"
 publication_date: "2020-10-08"
-last_updated: "2020-10-08"
+last_updated: "2026-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=144978&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE SERVICIOS INMOBILIARIOS DEL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE MAYO DE 2026.
 
 Ley publicada en la Sección V del Boletín Oficial del Estado de Sonora, el jueves 8 de octubre de 2020.
 
@@ -57,7 +57,9 @@ I.- Asesores Inmobiliarios: Las personas físicas que realicen actividades de in
 
 II.- Asociaciones Inmobiliarias: Las asociaciones de asesores inmobiliarios, legalmente constituidas;
 
-III.- Bienes Inmuebles: El suelo y las construcciones adheridas a él y todo lo que esté unido a un inmueble de una manera fija de modo que no pueda separarse sin deterioro del mismo inmueble;
+> <small>(REFORMADA, B.O. 18 DE MAYO DE 2026)</small>
+
+III.- Bienes Inmuebles: El suelo y las construcciones adheridas a él y todo lo que esté unido a un inmueble de una manera fija de modo que no pueda separarse sin deterioro del mismo inmueble, así como las casas, casas dúplex, departamentos, vecindades, casas de huéspedes, habitaciones o cuarterías para casa habitación ofrecidas para brindar el servicio de Estancia Turística Eventual;
 
 IV.- Certificación: Actividad avalada por la Norma de Competencia Laboral, a través de las entidades de certificación y evaluación de competencias (ECO), acreditadas por CONOCER;
 
@@ -76,6 +78,10 @@ X.- Delito: Es el acto u omisión que sancionan las leyes penales;
 XI.- Dirección: La Dirección General de Notarias del Estado de Sonora;
 
 XII.- Empresas Inmobiliarias: Unidad económica-social dedicada a la construcción, venta, alquiler, y administración de bienes inmuebles;
+
+> <small>(ADICIONADA, B.O. 18 DE MAYO DE 2026)</small>
+
+XII Bis.- Estancia Turística Eventual; Servicio de alojamiento temporal en inmuebles de uso habitacional a cambio de una contraprestación;
 
 XIII.- Instituto: Instituto Catastral y Registral del Estado de Sonora;
 
@@ -357,6 +363,10 @@ A las personas físicas que se ostenten como Asesores Inmobiliarios sin licencia
 
 Los Asesores Inmobiliarios que, durante la vigencia de su registro o licencia, hubieran sido condenados por delito alguno de carácter patrimonial serán sancionados con la cancelación del registro y, en su caso, revocación de la licencia respectiva, y no podrán solicitar de nueva cuenta su registro o licencia sino hasta después de tres años contados a partir de la fecha de imposición de la sanción respectiva.
 
+> <small>(ADICIONADO, B.O. 18 DE MAYO DE 2026)</small>
+
+ARTÍCULO 25 BIS.- A los asesores Inmobiliarios que, promuevan inmuebles ofrecidos para brindar el servicio de estancia turística eventual sin contar con la constancia de inscripción en el Padrón de Anfitriones otorgado por la Secretaría de Turismo, serán sancionados de acuerdo con lo establecido en la fracción III y IV del artículo 23 de esta ley.
+
 ###### ARTÍCULO 26.
 
 Al imponer una sanción, la Secretaría fundará y motivará su resolución considerando lo siguiente:
@@ -414,3 +424,33 @@ Comuníquese a la Titular del Poder Ejecutivo para su sanción y publicación en
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los cinco días del mes de octubre del año dos mil veinte.- GOBERNADORA DEL ESTADO.- CLAUDIA ARTEMIZA PAVLOVICH ARELLANO.- RÚBRICA.- SECRETARIO DE GOBIERNO.- MIGUEL ERNESTO POMPA CORELLA.- RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 18 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 109, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES A LA LEY ESTATAL DE TURISMO DE SONORA, Y LA LEY DE SERVICIOS INMOBILIARIOS PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría de Economía y Turismo tendrá un plazo de 120 días hábiles contados a partir de la publicación del presente decreto para crear el Padrón de Anfitriones y el Padrón de Plataformas Tecnológicas.
+
+###### ARTÍCULO TERCERO.
+
+Los anfitriones tendrán un plazo de 90 días hábiles contados a partir de que se habilite el Padrón de Anfitriones para realizar el registro de sus inmuebles.
+
+###### ARTÍCULO CUARTO.
+
+Las Plataformas Tecnológicas tendrán un plazo de 90 días hábiles contados a partir de que se habilite el Padrón de Plataformas para realizar su registro.
+
+###### ARTÍCULO QUINTO.
+
+La Secretaría de Economía y Turismo tendrá un plazo de 120 días hábiles contados a partir de la publicación del presente decreto para expedir el Reglamento del Servicio de Estancia Turística Eventual.
+
+###### ARTÍCULO SEXTO.
+
+La Secretaría de Economía y Turismo deberá establecer mecanismos simplificados de cumplimiento y esquemas de incorporación gradual para los anfitriones ubicados en municipios o localidades rurales, incluyendo la presentación de reportes en formatos simplificados durante un periodo de hasta tres años contados a partir de su registro en el Padrón de Anfitriones.
