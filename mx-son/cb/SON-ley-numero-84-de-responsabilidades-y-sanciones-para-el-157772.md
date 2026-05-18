@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-84-de-responsabilidades-y-sanciones-para-el-157772"
 country: "mx"
 rank: "ley"
 publication_date: "2022-04-26"
-last_updated: "2026-02-26"
+last_updated: "2026-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=157772&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE RESPONSABILIDADES Y SANCIONES PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 26 DE FEBRERO DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE MAYO DE 2026.
 
 Ley publicada en Edición Especial del Boletín Oficial del Estado de Sonora, el martes 26 de abril de 2022.
 
@@ -278,6 +278,10 @@ Cuando los actos u omisiones de los Servidores Públicos materia de denuncias, q
 No podrán imponerse dos veces por una sola conducta sanciones de la misma naturaleza.
 
 La atribución del Tribunal para imponer sanciones a particulares en términos de esta Ley, no limita las facultades de otras autoridades para imponer sanciones administrativas a particulares, conforme a la legislación aplicable.
+
+> <small>(ADICIONADO, B.O. 18 DE MAYO DE 2026)</small>
+
+ARTÍCULO 14 BIS.- Las autoridades responsables de auditar, investigar, substanciar y resolver las faltas administrativas deberán considerar en todas sus actuaciones la aplicación de los principios del interés superior de niñas, niños, adolescentes, jóvenes, de perspectiva de género y garantizando el ejercicio pleno de los derechos de las personas en situación de discapacidad.
 
 ## TÍTULO SEGUNDO. MECANISMOS DE PREVENCIÓN E INSTRUMENTOS DE RENDICIÓN DE CUENTAS
 
@@ -698,6 +702,14 @@ Para efectos de la fracción III, los Servidores Públicos que denuncien una Fal
 > <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2026)</small>
 
 ARTÍCULO 69 BIS.- Será responsable de injerencia sindical la persona servidora pública que, por sí o por terceros, incurra en las conductas previstas en el artículo 61 Bis de la Ley del Servicio Civil para el Estado de Sonora, o en el artículo 69 Bis de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional.
+
+> <small>(ADICIONADO, B.O. 18 DE MAYO DE 2026)</small>
+
+ARTÍCULO 69 TER.- Incurrirá en acoso sexual la persona servidora pública que realice, por cualquier medio, conductas de naturaleza sexual o de connotación lasciva sin el consentimiento de la persona hacia quien se dirigen, con independencia de que exista una relación jerárquica. La falta se configurará siempre que dichas acciones atenten contra la dignidad o integridad, o generen un entorno laboral hostil.
+
+> <small>(ADICIONADO, B.O. 18 DE MAYO DE 2026)</small>
+
+ARTÍCULO 69 QUATER.- Cometerá hostigamiento la persona servidora pública que, valiéndose de su posición jerárquica o de una relación de poder real en el ámbito laboral, realice por cualquier medio acciones, expresiones o comportamientos con fines sexuales, ofensivos o degradantes, que vulneren la dignidad o integridad de la persona subordinada o lesionen el adecuado desempeño del servicio público.
 
 ### CAPÍTULO III. DE LOS ACTOS DE PARTICULARES VINCULADOS CON FALTAS ADMINISTRATIVAS GRAVES
 
@@ -2320,3 +2332,15 @@ P.O. 26 DE FEBRERO DE 2026.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 18 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 110, QUE ADICIONA DIVERSAS DISPOSICIONES A LA LEY DE RESPONSABILIDADES Y SANCIONES PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Los procedimientos administrativos que se encuentren en trámite a la fecha de entrada en vigor del presente Decreto, se continuarán y concluirán conforme a las disposiciones legales vigentes al momento de su inicio.
