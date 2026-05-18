@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-163-de-educacion-del-estado-de-sonora-143013"
 country: "mx"
 rank: "ley"
 publication_date: "2020-05-15"
-last_updated: "2025-04-10"
+last_updated: "2026-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=143013&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NÚMERO 163 DE EDUCACIÓN DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE MAYO DE 2026.
 
 Ley publicada en la Edición Especial del Boletín Oficial del Estado de Sonora, el viernes 15 de mayo de 2020.
 
@@ -1063,7 +1063,9 @@ X.- La sensibilización a las diversas expresiones artísticas y culturales como
 
 XI.- La apreciación y creación artística, a través de conocimientos conceptuales y habilidades creativas para su manifestación en diferentes formas; y
 
-XII.- Los valores para la responsabilidad ciudadana y social, como el respeto por los otros, la solidaridad, la justicia, la libertad, la igualdad, la honradez, la gratitud y la participación democrática con base a una educación cívica.
+> <small>(REFORMADA, B.O. 18 DE MAYO DE 2026)</small>
+
+XII.- Los valores para la responsabilidad ciudadana y social, como el respeto por los otros, la solidaridad, la justicia, la libertad, la igualdad, la honradez, la gratitud y la participación democrática con base a una educación cívica que fortalezca la conciencia de la nacionalidad y de la soberanía, el aprecio por la historia, los símbolos patrios y las instituciones nacionales, así como la valoración de las tradiciones y particularidades culturales de las diversas regiones del país.
 
 Acompañamiento de los educandos en su trayectoria formativa
 
@@ -1087,11 +1089,17 @@ Objetivo de los planes y programas de estudio
 
 Los planes y programas a los que se refieren en la Ley General de Educación favorecerán el desarrollo integral y gradual de los educandos en los niveles de inicial, preescolar, primaria, secundaria, el tipo media superior y la normal, considerando la diversidad de saberes, con un carácter didáctico y curricular diferenciado, que responda a las condiciones personales, sociales, culturales, económicas de los estudiantes, docentes, planteles, comunidades y regiones del país.
 
-Sus propósitos, contenidos, procesos y estrategias educativas, recursos didácticos y evaluación del aprendizaje y de acreditación, se establecerán de acuerdo con cada tipo, nivel, modalidad y opción educativa, así como a las condiciones territoriales, culturales, sociales, productivas y formativas de las instituciones educativas.
+> <small>(REFORMADO, B.O. 18 DE MAYO DE 2026)</small>
+
+Sus propósitos, contenidos, procesos y estrategias educativas, recursos didácticos y evaluación del aprendizaje y de acreditación, se establecerán de acuerdo con cada tipo, nivel, modalidad y opción educativa, así como a las condiciones territoriales, culturales, sociales, productivas y formativas de las instituciones educativas, considerando el fomento al civismo y los valores.
 
 El proceso educativo que se genere a partir de la aplicación de los planes y programas de estudio se basará en la libertad, creatividad y responsabilidad que aseguren una armonía entre las relaciones de educandos y docentes; a su vez, promoverá el trabajo colaborativo para asegurar la comunicación y el diálogo entre los diversos actores de la comunidad educativa.
 
 Los libros de texto que se utilicen para cumplir con los planes y programas de estudio para impartir educación por el Estado y que se derive de la aplicación del presente Capítulo, serán los autorizados por la autoridad educativa federal en los términos de la Ley General de Educación, por lo que queda prohibida cualquier distribución, promoción, difusión o utilización de los que no cumplan con este requisito. Las autoridades escolares, madres y padres de familia o tutores harán del conocimiento de la autoridad educativa estatal o autoridades educativas municipales cualquier situación contraria a este precepto.
+
+> <small>(ADICIONADO, B.O. 18 DE MAYO DE 2026)</small>
+
+Asimismo, con el propósito de fomentar y fortalecer el civismo y los valores, la Secretaría podrá proponer material educativo en esa materia a fin de que se incluyan en los planes y programas de estudio de todos los niveles de educación.
 
 Elaboración de los planes y programas de estudio
 
@@ -3078,3 +3086,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 En un plazo de 60 días naturales a partir de la entrada en vigor del presente Decreto, la Secretaría de Educación y Cultura deberá emitir su opinión a la autoridad educativa federal solicitándole que se actualicen y modifiquen los planes y programas de estudio de educación básica que se imparten en nuestro Estado, a efecto de que se incluyan contenidos regionales en los que se inculque la cultura del cuidado del agua y se imparta educación sobre su uso responsable.
 
 Con la opinión a que se refiere el párrafo anterior, la Secretaría de Educación y Cultura deberá presentar una propuesta que contenga el plan y programa de estudios con contenidos regionales en los que se inculque la cultura del cuidado del agua y se imparta educación sobre su uso responsable, para cuya elaboración deberá convocar a académicos y expertos en la materia.
+
+B.O. 18 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 105, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN PARA EL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+La Secretaría, en un plazo no mayor a un año, deberá realizar las gestiones ante las dependencias federales y estatales a efecto de implementar el material educativo de civismo y valores como parte de los planes y programas de estudio.
