@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2026-04-20"
+last_updated: "2026-05-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SON"
 
 CÓDIGO PENAL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE ABRIL DE 2026.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE MAYO DE 2026.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -3139,55 +3139,55 @@ Cuando el sujeto activo sea un servidor público o miembro de cualquier instituc
 
 Este delito será perseguido por querella del ofendido o de su legítimo representante, excepto cuando se trate de menores de edad, incapaces y cuando el sujeto activo era servidor público, en estos casos se perseguirá de oficio.
 
-> <small>(REFORMADO, B.O. 16 DE MARZO DE 2021)</small>
+> <small>(REFORMADO, B.O. 18 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 213.
 
-Al que sin consentimiento de una persona ejecute en ella o la haga ejecutar un acto erótico, se le aplicará una pena de dos a cinco años de prisión y multa de veinte a cincuenta Unidades de Medida y Actualización.
+Comete el delito de abuso sexual quien sin el consentimiento de la víctima y sin el propósito de llegar a la cópula, realice en el ámbito público o privado, cualquier acto de naturaleza sexual, la obligue a observarlo, o la haga ejecutarlo sobre sí, para un tercero o para el propio sujeto activo.
 
-Al que ejecute o haga ejecutar un acto erótico en perjuicio de un niño o una niña menores de doce años de edad, aunque hubieren dado su consentimiento, se le impondrá una pena de tres a ocho años de prisión y multa de setenta a noventa Unidades de Medida y Actualización.
+También se considera abuso sexual cuando se obligue a la víctima a exhibir su cuerpo. Se entiende por acto sexual los tocamientos, caricias, roces corporales, exhibiciones o representaciones sexuales explícitas. Para los efectos del presente artículo no se considera consentimiento cuando la voluntad de la persona haya sido anulada o viciada por violencia, intimidación, engaño, amenaza, abuso de confianza, autoridad o situación de vulnerabilidad. El consentimiento no podrá presumirse del silencio, la pasividad o la falta de resistencia física de la víctima.
 
-Si la parte ofendida no tiene capacidad de comprender el significado del hecho, aunque hubiere dado su consentimiento, o se trate de persona que no pueda oponer resistencia por enfermedad, pérdida del sentido o discapacidad, la pena será de cuatro a ocho años de prisión y multa de cien a ciento cincuenta Unidades de Medida y Actualización.
+A quien cometa este delito se le impondrá una sanción de tres a siete años de prisión y multa de doscientas a quinientas veces el valor diario de la Unidad de Medida y Actualización. Así mismo, se impondrá la obligación de acudir a talleres reeducativos con perspectiva de género y no violencia contra las mujeres y/o prestar servicio social en favor del Estado o de instituciones de beneficencia pública a fin de favorecer medidas de no repetición y promover un cambio cultural a favor de la igualdad sustantiva entre mujeres y hombres. El cumplimiento de esta obligación es de especial relevancia para la procedencia y continuidad de la suspensión condicional.
 
-> <small>(REFORMADO, B.O. 7 DE JULIO DE 2023)</small>
+Al que ejecute o haga ejecutar un acto sexual en perjuicio de persona menor de dieciocho años de edad, aunque hubieren dado su consentimiento, se le impondrá una pena de seis a trece años de prisión y multa de hasta quinientas veces el valor diario de la Unidad de Medida y Actualización. Si hiciera uso de violencia, la pena se aumentará en una mitad más en su mínimo y máximo.
 
-Si se hiciere uso de la violencia física o moral, o se utilizare la sumisión química a que se refieren los artículos 275 TER y 275 QUATER del presente Código, en alguno de los supuestos señalados en este artículo, o se cometa de manera reiterada sobre la misma víctima, aun cuando por las circunstancias especiales de ésta no tenga la capacidad de especificar con exactitud el tiempo en que fueron ocasionados, se aumentará la sanción correspondiente hasta en dos terceras partes.
+Si la parte ofendida no tiene capacidad de comprender el significado del hecho, aunque hubiere dado su consentimiento, o se trate de persona que no pueda oponer resistencia por enfermedad, pérdida del sentido o discapacidad, la pena será de seis a trece años de prisión y hasta quinientas veces el valor diario de la Unidad de Medida y Actualización.
+
+> <small>(REFORMADO, B.O. 18 DE MAYO DE 2026)</small>
 
 ###### ARTICULO 214.
 
-Las penas previstas en el artículo anterior, se aumentarán en una tercera parte cuando concurran uno o más de los siguientes supuestos:
+Las penas previstas en el artículo anterior, se aumentarán en una tercera parte cuando el delito se cometa en cualquiera de las siguientes circunstancias:
 
-I.- El responsable fuere ascendiente, descendiente, adoptante, adoptado, hermano, hermana, padrastro, madrastra o tutor del ofendido;
+I. Cuando se hiciere uso de la violencia física, psicológica o moral;
 
-II.- Intervengan dos o más personas, en forma directa o indirecta;
+II. Por dos o más personas, en forma directa o indirecta;
 
-III.- El responsable allane el lugar en que se encuentre la víctima o la sorprenda en despoblado;
+III. En un lugar despoblado, solitario o poco accesible;
 
-> <small>(REFORMADA, B.O. 11 DE OCTUBRE DE 2012)</small>
+IV. Cuando exista o haya existido entre el agresor y la víctima una relación de confianza, sentimental, de parentesco por consanguinidad o afinidad, laboral, educativa, docente, de formación deportiva, artística o religiosa;
 
-IV.- El delito fuere cometido por la persona que tiene a la víctima bajo su custodia, guarda o educación o aproveche la confianza en él depositada;
+V. Cuando se realice por persona que tenga a la víctima bajo su responsabilidad la custodia, guarda, tutela, cuidado o dependencia económica;
 
-> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
+VI. Cuando se realice por persona servidora pública aprovechando su empleo, cargo o comisión. En este caso, además de la pena de prisión, la persona agresora será destituida del cargo, empleo o comisión e inhabilitada para el ejercicio de servicio público por un plazo igual al de la pena privativa de la libertad sin perjuicio de otras sanciones administrativas o civiles que correspondan;
 
-V.- Sea cometido por quien desempeñe un empleo, cargo o comisión públicos, o en ejercicio de una profesión o empleo, utilizando los medios o circunstancias que ellos le proporcionan;
+VII. Cuando se realice por profesionista aprovechando su empleo, cargo o comisión. En este caso, además de la pena de prisión, la persona agresora será inhabilitada para el ejercicio de la profesión por un plazo igual al de la pena privativa de la libertad sin perjuicio de otras sanciones administrativas o civiles;
 
-> <small>(REFORMADA, B.O. 4 DE JUNIO DE 2009)</small>
+VIII. Cuando se realice por ministro de culto aprovechando su cargo, función o comisión;
 
-VI.- Sea cometido en el interior de instituciones de educación básica, media superior, superior o en sus inmediaciones; y
+IX. Cuando la víctima se encuentre bajo los efectos de alcohol, fármacos, narcóticos u otras sustancias que afecten su voluntad o discernimiento;
 
-> <small>(ADICIONADA, B.O. 4 DE JUNIO DE 2009)</small>
+X. Cuando la víctima se encuentre en estado de embarazo o puerperio;
 
-VII.- Si el delito se cometiera en contra de la víctima, por su condición de género, se aumentará la pena que corresponda hasta en una tercera parte.
+XI. Cuando se cometa contra personas por su orientación sexual, identidad de género o expresión de género;
 
-> <small>(REFORMADO, B.O. 11 DE OCTUBRE DE 2012)</small>
+XII. Cuando la víctima se encuentre en estado de indefensión;
 
-En los casos respectivos, el responsable perderá la patria potestad o la tutela, así como el derecho a heredar de la víctima u ofendido.
+XIII. Sea cometido en el interior de instituciones de educación básica, media superior, superior o en sus inmediaciones;
 
-> <small>(ADICIONADO, B.O. 17 DE MAYO DEL 2001)</small>
+XIV. Cuando se utilizare la sumisión química a que se refieren los artículos 275 TER y 275 QUATER del presente Código, en alguno de los supuestos señalados en este artículo, o se cometa de manera reiterada sobre la misma víctima, aun cuando por las circunstancias especiales de ésta no tenga la capacidad de especificar con exactitud el tiempo en que fueron ocasionados.
 
-La pérdida de la patria potestad por parte del reo, no implica la falta de cumplimiento de sus obligaciones a favor de la víctima y demás descendientes.
-
-En el supuesto señalado en la fracción V del presente artículo, además de la pena privativa de libertad, se impondrán destitución, en su caso, e inhabilitación para desempeñar otro empleo, cargo o comisión públicos, o para ejercer profesión hasta por cinco años.
+Adicional a las sanciones establecidas en este artículo, se impondrá al sujeto activo el cumplimiento de la reparación integral del daño, que deberá incluir, entre otras medidas establecidas en la Ley General de Víctimas, la atención psicológica especializada para la víctima, hasta su total recuperación.
 
 ### CAPITULO II. ESTUPRO
 
@@ -4573,9 +4573,9 @@ X Bis.- Respecto de vales de papel o cualquier dispositivo electrónico en forma
 
 XI.- En contra de personas víctimas de sumisión química, en términos de los artículos 275 TER y 275 QUATER del presente Código;
 
-> <small>(REFORMADA, B.O. 25 DE ENERO DE 2018)</small>
+> <small>(REFORMADA, B.O. 18 DE MAYO DE 2026)</small>
 
-XII.- Respecto de bienes que integren la infraestructura destinada a la prestación de los servicios de agua potable, alcantarillado y saneamiento;
+XII.- Respecto de bienes que integren el equipamiento y mobiliario urbano de la infraestructura destinada a la prestación de los servicios públicos municipales, tales como agua potable, alcantarillado, saneamiento, alumbrado público o señalización vial, así como de los elementos complementarios de dicho equipamiento, siempre que el valor de lo robado exceda de 50 Unidades de Medida y Actualización (UMA) al momento de la comisión del delito.
 
 > <small>(ADICIONADA, B.O. 25 DE ENERO DE 2018)</small>
 
@@ -4608,6 +4608,10 @@ A quien transporte o posea alguno de los objetos materiales referidos en la frac
 > <small>(ADICIONADO, B.O. 16 DE MARZO DE 2021)</small>
 
 Si en los actos mencionados en la fracción XVII de este artículo, participan padres o mayores de edad utilizando el apoyo de menores de edad, además de las sanciones a que se refiere este artículo, se le aumentará pena de prisión hasta en una mitad más.
+
+> <small>(ADICIONADO, B.O. 18 DE MAYO DE 2026)</small>
+
+En lo referente a los supuestos establecidos en la fracción XII de este artículo, la comisión del delito se perseguirá de oficio. En los casos que la comisión del delito se lleve a cabo por persona servidora pública, además de la sanción que implique la destitución e inhabilitación para ostentar puesto, cargo o comisión como servidor público, la pena de prisión aumentará hasta en un tercio de la pena impuesta en el primero párrafo de este artículo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 3 DE AGOSTO DE 2017)</small>
 
@@ -6176,3 +6180,19 @@ Dentro de los 180 días hábiles contados a partir de la entrada en vigor de la 
 ###### ARTÍCULO DÉCIMO SEGUNDO.
 
 Las erogaciones que, en su caso, se generen con motivo de la entrada en vigor de la presente Ley se realizarán con cargo al presupuesto aprobado de los sujetos obligados por este instrumento, por lo que no incrementarán su presupuesto regularizable y no se autorizarán recursos adicionales para el presente ejercicio fiscal.
+
+B.O. 18 DE MAYO DE 2026.
+
+[N. DE E TRANSITORIO DEL “DECRETO NÚMERO 106, QUE REFORMA LOS ARTÍCULOS 213 Y 214 DEL CÓDIGO PENAL DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 18 DE MAYO DE 2026.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 108, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE GOBIERNO Y ADMINISTRACIÓN MUNICIPAL, Y DEL CÓDIGO PENAL DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
